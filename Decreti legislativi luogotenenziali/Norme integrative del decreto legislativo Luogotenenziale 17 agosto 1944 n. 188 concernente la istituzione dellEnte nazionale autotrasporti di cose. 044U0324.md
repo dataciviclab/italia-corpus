@@ -1,45 +1,34 @@
-DECRETO LEGISLATIVO LUOGOTENENZIALE 13 ottobre 1944 n. 324
+---
+tipo: DECRETO LEGISLATIVO LUOGOTENENZIALE
+numero: 324
+data: 1944-10-13
+titolo: "Norme integrative del decreto legislativo Luogotenenziale 17 agosto 1944 n. 188, concernente la istituzione dell'Ente nazionale autotrasporti di cose. (044U0324)"
+urn: urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-13;324
+codice_redazionale: 044U0324
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO LUOGOTENENZIALE 13 ottobre 1944 n. 324
-==========================================================
+((IL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9 
+ HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Norme integrative del decreto legislativo Luogotenenziale 17 agosto 1944 n. 188, concernente la istituzione dell'Ente nazionale autotrasporti di cose. (044U0324)
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 26/11/1944
+((IL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9 
+ HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 1
-------
+## Art. 3.
 
-((IL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)
-  
-HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9 
+ HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 2
-------
+## Art. 4.
 
-((IL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)
-  
-HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9 
+ HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 3
-------
+## Art. 5.
 
-((IL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)
-  
-HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
-
-Art. 4
-------
-
-((IL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)
-  
-HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
-
-Art. 5
-------
-
-((IL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)
-  
-HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9 
+ HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))

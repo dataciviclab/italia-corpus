@@ -1,22 +1,20 @@
-DECRETO 03 giugno 2004 n. 199
-
-
-DECRETO 03 giugno 2004 n. 199
-=============================
-
-Regolamento recante il funzionamento e l'organizzazione della Consulta nazionale sull'alcol e sui problemi alcolcorrelati, ai sensi dell'articolo 4, comma 4, della legge 30 marzo 2001, n. 125.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/8/2004
+---
+tipo: DECRETO
+numero: 199
+data: 2004-06-03
+titolo: "Regolamento recante il funzionamento e l'organizzazione della Consulta nazionale sull'alcol e sui problemi alcolcorrelati, ai sensi dell'articolo 4, comma 4, della legge 30 marzo 2001, n. 125."
+urn: urn:nir:ministero.lavoro.e.politiche.sociali:decreto:2004-06-03;199
+codice_redazionale: 004G0235
+vigente: true
+---
 
 IL MINISTRO DEL LAVORO E DELLE POLITICHE SOCIALI
-------------------------------------------------
 
-Vista la [legge 30 marzo 2001, n. 125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-30;125), recante «Legge quadro in materia di alcol e di problemi alcolcorrelati»;
+Vista la [legge 30 marzo 2001, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-30;125), recante «Legge quadro in materia di alcol e di problemi alcolcorrelati»;
 
-Visto, in particolare, l'articolo 4 della citata [legge n. 125 del 2001](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001;125), che istituisce la Consulta nazionale sull'alcol e sui problemi alcolcorrelati, prevedendo che con decreto del Ministro per la solidarieta' sociale si provvede alla disciplina del funzionamento e dell'organizzazione della Consulta;
+Visto, in particolare, l'articolo 4 della citata [legge n. 125 del 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001;125), che istituisce la Consulta nazionale sull'alcol e sui problemi alcolcorrelati, prevedendo che con decreto del Ministro per la solidarieta' sociale si provvede alla disciplina del funzionamento e dell'organizzazione della Consulta;
 
-Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3), recante «Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri»;
+Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), recante «Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri»;
 
 Sentiti il Ministro dell'istruzione, dell'universita' e della ricerca e il Ministro della salute;
 
@@ -24,92 +22,95 @@ Acquisito il parere della Conferenza permanente per i rapporti tra lo Stato, le 
 
 Udito il parere del Consiglio di Stato, reso dalla Sezione consultiva per gli atti normativi nell'adunanza del 25 novembre 2002 e nell'adunanza dell'8 marzo 2004;
 
-Ritenuto di non dover accogliere l'osservazione del Consiglio di Stato in ordine alla necessita' di individuare modalita' di rapporti costanti con gli organismi operanti nel settore, dal momento che tali modalita' di rapporti sono gia' sufficientemente realizzate in quanto gli organismi operanti nel settore fanno parte della stessa Consulta nazionale sull'alcol e sui problemi alcolcorrelati, come stabilito dall'articolo 4 della citata [legge n. 125 del 2001](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001;125);
+Ritenuto di non dover accogliere l'osservazione del Consiglio di Stato in ordine alla necessita' di individuare modalita' di rapporti costanti con gli organismi operanti nel settore, dal momento che tali modalita' di rapporti sono gia' sufficientemente realizzate in quanto gli organismi operanti nel settore fanno parte della stessa Consulta nazionale sull'alcol e sui problemi alcolcorrelati, come stabilito dall'articolo 4 della citata [legge n. 125 del 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001;125);
 
-Vista la comunicazione al Presidente del Consiglio dei Ministri, effettuata ai sensi dell'[articolo 17, comma 3, della legge 28 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-28;400~art17-com3), con nota prot. n. 95968/16/431/22 del 23 aprile 2004;
+Vista la comunicazione al Presidente del Consiglio dei Ministri, effettuata ai sensi dell'[articolo 17, comma 3, della legge 28 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-28;400#art_17-com3), con nota prot. n. 95968/16/431/22 del 23 aprile 2004;
 
-Adotta
-------
+Adotta il seguente regolamento:
 
-il seguente regolamento:
+## Art. 1. — Sede e compiti
 
-Art. 1
-------
+1.
 
-Sede e compiti
+La Consulta nazionale sull'alcol e sui problemi alcolcorrelati, istituita dall'[articolo 4 della legge 30 marzo 2001, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-30;125#art_4), di seguito denominata Consulta, ha sede presso il Ministero del lavoro e delle politiche sociali.
 
-1. La Consulta nazionale sull'alcol e sui problemi alcolcorrelati, istituita dall'[articolo 4 della legge 30 marzo 2001, n. 125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-30;125~art4), di seguito denominata Consulta, ha sede presso il Ministero del lavoro e delle politiche sociali.
+2.
 
-2. La Consulta svolge le funzioni e i compiti previsti dall'[articolo 4, comma 5, della legge n. 125 del 2001](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001;125~art4-com5).
+La Consulta svolge le funzioni e i compiti previsti dall'[articolo 4, comma 5, della legge n. 125 del 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001;125#art_4-com5).
 
-Avvertenza:  
-Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.  
-Nota al titolo:  
-- La [legge 30 marzo 2001, n. 125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-30;125), recante: «Legge quadro in materia di alcol e di problemi alcolcorrelati», e' stata pubblicata nella Gazzetta Ufficiale della Repubblica italiana del 18 aprile 2001, n. 90. Il testo vigente dell'art. 4 e' il seguente:  
-«Art. 4 (Consulta nazionale sull'alcol e sui problemi alcolcorrelati). - 1. E' istituita la Consulta nazionale sull'alcol e sui problemi alcolcorrelati, di seguito denominata «Consulta», composta da:  
-a) il Ministro per la solidarieta' sociale, che la presiede;  
-b) tre membri designati dal Ministro per la solidarieta' sociale fra persone che abbiano maturato una comprovata esperienza professionale in tema di alcol e di problemi alcolcorrelati;  
-c) quattro membri designati dalla Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano;  
-d) il direttore dell'Istituto superiore di sanita' o un suo delegato;  
-e) un rappresentante del Consiglio nazionale delle ricerche, designato dal suo presidente;  
-f) due membri designati dal Ministro per la solidarieta' sociale, di cui uno su proposta delle associazioni di volontariato ed uno su proposta delle associazioni di auto-mutuo aiuto attive nel settore;  
-g) due membri designati dal Ministro per la solidarieta' sociale, di cui uno su proposta del Ministro delle politiche agricole e forestali ed uno su proposta delle associazioni dei produttori e dei commercianti di bevande alcoliche;  
-h) due membri designati dal Ministro della salute;  
-i) due membri designati dal Ministro dell'universita' e della ricerca scientifica e tecnologica;  
-l) il presidente della Societa' italiana di alcologia o un suo delegato.  
-2. La Consulta nomina al proprio interno un vicepresidente.  
-3. Per ognuno dei membri della Consulta di cui al comma 1, lettere c), d), e), f) ed h), e' designato un membro supplente. I componenti della Consulta durano in carica tre anni e possono essere riconfermati. Entro sessanta giorni dalla data di entrata in vigore della presente legge, con decreto del Presidente del Consiglio dei Ministri sono definite le modalita' e l'entita' dei rimborsi spese e dei gettoni di presenza assegnati ai componenti della Consulta di cui al comma 1, lettere b), c), f) e g).  
-4. La Consulta si riunisce ogni due mesi e su richiesta di un terzo dei suoi componenti. Per la validita' delle riunioni e' richiesta la presenza della meta' dei componenti. Con decreto del Ministro per la solidarieta' sociale si provvede alla disciplina del funzionamento e dell'organizzazione della Consulta.  
-5. La Consulta:  
-a) collabora nella predisposizione della relazione prevista dall'art. 8, esaminando, a tale fine, i dati relativi allo stato di attuazione della presente legge e quelli risultanti dal monitoraggio effettuato ai sensi dell'art. 3, comma 1, lettera c), dalle regioni e dalle province autonome di Trento e di Bolzano;  
-b) formula proposte ai Ministri competenti, alle regioni ed alle province autonome di Trento e di Bolzano per il perseguimento delle finalita' e degli obiettivi definiti dall'art. 1 nei rispettivi ambiti di competenza;  
-c) collabora con enti ed organizzazioni internazionali che si occupano di alcol e di problemi alcolcorrelati, con particolare riferimento all'Organizzazione mondiale della sanita', secondo gli indirizzi definiti dal Ministro della sanita';  
-d) fornisce ai Ministri competenti, alle regioni ed alle province autonome di Trento e di Bolzano pareri in ogni altro ambito attinente all'alcol e ai problemi alcolcorrelati in riferimento alle finalita' della presente legge.  
-6. Per l'istituzione ed il funzionamento della Consulta e' autorizzata la spesa di lire 125 milioni annue a decorrere dall'anno 2001.».  
-Note alle premesse:  
-- Il testo dell'[art. 4 della legge 30 marzo 2001, n. 125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-30;125~art4), e' riportato nella nota al titolo.  
-- La [legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), recante: «Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri», e' stata pubblicata nella Gazzetta Ufficiale della Repubblica italiana 12 settembre 1988, n. 214, S.O. Il testo vigente dell'art. 17, comma 3, e' il seguente:  
-«3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.  
-I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.».  
-Nota all'art. 1:  
-- Il testo dell'[art. 4 della legge 30 marzo 2001, n. 125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-30;125~art4) e' riportato nella nota al titolo.
+Avvertenza:
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Nota al titolo:
+ - La [legge 30 marzo 2001, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-30;125), recante: «Legge quadro in materia di alcol e di problemi alcolcorrelati», e' stata pubblicata nella Gazzetta Ufficiale della Repubblica italiana del 18 aprile 2001, n. 90. Il testo vigente dell'art. 4 e' il seguente:
+ «Art. 4 (Consulta nazionale sull'alcol e sui problemi alcolcorrelati). - 1. E' istituita la Consulta nazionale sull'alcol e sui problemi alcolcorrelati, di seguito denominata «Consulta», composta da:
+ a) il Ministro per la solidarieta' sociale, che la presiede;
+ b) tre membri designati dal Ministro per la solidarieta' sociale fra persone che abbiano maturato una comprovata esperienza professionale in tema di alcol e di problemi alcolcorrelati;
+ c) quattro membri designati dalla Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano;
+ d) il direttore dell'Istituto superiore di sanita' o un suo delegato;
+ e) un rappresentante del Consiglio nazionale delle ricerche, designato dal suo presidente;
+ f) due membri designati dal Ministro per la solidarieta' sociale, di cui uno su proposta delle associazioni di volontariato ed uno su proposta delle associazioni di auto-mutuo aiuto attive nel settore;
+ g) due membri designati dal Ministro per la solidarieta' sociale, di cui uno su proposta del Ministro delle politiche agricole e forestali ed uno su proposta delle associazioni dei produttori e dei commercianti di bevande alcoliche;
+ h) due membri designati dal Ministro della salute;
+ i) due membri designati dal Ministro dell'universita' e della ricerca scientifica e tecnologica;
+ l) il presidente della Societa' italiana di alcologia o un suo delegato.
+ 2. La Consulta nomina al proprio interno un vicepresidente.
+ 3. Per ognuno dei membri della Consulta di cui al comma 1, lettere c), d), e), f) ed h), e' designato un membro supplente. I componenti della Consulta durano in carica tre anni e possono essere riconfermati. Entro sessanta giorni dalla data di entrata in vigore della presente legge, con decreto del Presidente del Consiglio dei Ministri sono definite le modalita' e l'entita' dei rimborsi spese e dei gettoni di presenza assegnati ai componenti della Consulta di cui al comma 1, lettere b), c), f) e g).
+ 4. La Consulta si riunisce ogni due mesi e su richiesta di un terzo dei suoi componenti. Per la validita' delle riunioni e' richiesta la presenza della meta' dei componenti. Con decreto del Ministro per la solidarieta' sociale si provvede alla disciplina del funzionamento e dell'organizzazione della Consulta.
+ 5. La Consulta:
+ a) collabora nella predisposizione della relazione prevista dall'art. 8, esaminando, a tale fine, i dati relativi allo stato di attuazione della presente legge e quelli risultanti dal monitoraggio effettuato ai sensi dell'art. 3, comma 1, lettera c), dalle regioni e dalle province autonome di Trento e di Bolzano;
+ b) formula proposte ai Ministri competenti, alle regioni ed alle province autonome di Trento e di Bolzano per il perseguimento delle finalita' e degli obiettivi definiti dall'art. 1 nei rispettivi ambiti di competenza;
+ c) collabora con enti ed organizzazioni internazionali che si occupano di alcol e di problemi alcolcorrelati, con particolare riferimento all'Organizzazione mondiale della sanita', secondo gli indirizzi definiti dal Ministro della sanita';
+ d) fornisce ai Ministri competenti, alle regioni ed alle province autonome di Trento e di Bolzano pareri in ogni altro ambito attinente all'alcol e ai problemi alcolcorrelati in riferimento alle finalita' della presente legge.
+ 6. Per l'istituzione ed il funzionamento della Consulta e' autorizzata la spesa di lire 125 milioni annue a decorrere dall'anno 2001.».
+ Note alle premesse:
+ - Il testo dell'[art. 4 della legge 30 marzo 2001, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-30;125#art_4), e' riportato nella nota al titolo.
+ - La [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), recante: «Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri», e' stata pubblicata nella Gazzetta Ufficiale della Repubblica italiana 12 settembre 1988, n. 214, S.O. Il testo vigente dell'art. 17, comma 3, e' il seguente:
+ «3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.
+ I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.».
+ Nota all'art. 1:
+ - Il testo dell'[art. 4 della legge 30 marzo 2001, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-30;125#art_4) e' riportato nella nota al titolo.
 
-Art. 2
-------
+## Art. 2. — Funzionamento
 
-Funzionamento
+1.
 
-1. La Consulta nomina al suo interno un vicepresidente.
+La Consulta nomina al suo interno un vicepresidente.
 
-2. La Consulta si riunisce ogni due mesi e su richiesta di un terzo dei suoi componenti.
+2.
 
-3. Per la validita' delle riunioni della Consulta e' richiesta la presenza della meta' dei componenti.
+La Consulta si riunisce ogni due mesi e su richiesta di un terzo dei suoi componenti.
 
-4. La Consulta puo' essere convocata in seduta plenaria o in sessioni di lavoro per particolari argomenti; in quest'ultimo caso le conclusioni delle sessioni di lavoro sono sottoposte all'esame della seduta plenaria.
+3.
 
-5. La Consulta puo', con decisione adottata a maggioranza dei suoi componenti, istituire commissioni interne, a cui affidare compiti di studio e di approfondimento e, comunque, compiti strumentali all'esercizio delle competenze di cui all'[articolo 4, comma 5, della legge n. 125 del 2001](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001;125~art4-com5). Ogni commissione nomina al suo interno un relatore, avente il compito di riferire alla Consulta in seduta plenaria i risultati delle attivita' svolte.
+Per la validita' delle riunioni della Consulta e' richiesta la presenza della meta' dei componenti.
 
-6. Alle riunioni della Consulta possono essere invitati rappresentanti delle Amministrazioni statali e regionali, di enti, organismi e associazioni del privato sociale.
+4.
 
-Nota all'art. 2:  
-- Il testo dell'[art. 4 della legge 30 marzo 2001, n. 125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-30;125~art4), e' riportato nella nota al titolo.
+La Consulta puo' essere convocata in seduta plenaria o in sessioni di lavoro per particolari argomenti; in quest'ultimo caso le conclusioni delle sessioni di lavoro sono sottoposte all'esame della seduta plenaria.
 
-Art. 3
-------
+5.
 
-Organizzazione
+La Consulta puo', con decisione adottata a maggioranza dei suoi componenti, istituire commissioni interne, a cui affidare compiti di studio e di approfondimento e, comunque, compiti strumentali all'esercizio delle competenze di cui all'[articolo 4, comma 5, della legge n. 125 del 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001;125#art_4-com5). Ogni commissione nomina al suo interno un relatore, avente il compito di riferire alla Consulta in seduta plenaria i risultati delle attivita' svolte.
 
-1. Il supporto organizzativo alle attivita' della Consulta e' assicurato dalla Direzione generale competente secondo il regolamento di organizzazione del Ministero del lavoro e delle politiche sociali.
+6.
 
-2. Con successivo decreto del direttore generale della Direzione generale di cui al comma 1 e' definita l'organizzazione del supporto organizzativo alla Consulta. Il decreto individua, inoltre, il funzionario responsabile di tale supporto organizzativo.
+Alle riunioni della Consulta possono essere invitati rappresentanti delle Amministrazioni statali e regionali, di enti, organismi e associazioni del privato sociale.
+
+Nota all'art. 2:
+ - Il testo dell'[art. 4 della legge 30 marzo 2001, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-30;125#art_4), e' riportato nella nota al titolo.
+
+## Art. 3. — Organizzazione
+
+1.
+
+Il supporto organizzativo alle attivita' della Consulta e' assicurato dalla Direzione generale competente secondo il regolamento di organizzazione del Ministero del lavoro e delle politiche sociali.
+
+2.
+
+Con successivo decreto del direttore generale della Direzione generale di cui al comma 1 e' definita l'organizzazione del supporto organizzativo alla Consulta. Il decreto individua, inoltre, il funzionario responsabile di tale supporto organizzativo.
 
 Il presente regolamento, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 3 giugno 2004
+Roma, 3 giugno 2004
 
-Il Ministro del lavoro e delle politiche sociali Maroni
-
-Visto, il Guardasigilli: Castelli Registrato alla Corte dei conti il 22 luglio 2004 Ufficio di controllo preventivo sui Ministeri dei servizi alla
-
-persona e dei beni culturali, registro n. 5, foglio n. 79
+Il Ministro del lavoro e delle politiche sociali Maroni Visto, il Guardasigilli: Castelli Registrato alla Corte dei conti il 22 luglio 2004 Ufficio di controllo preventivo sui Ministeri dei servizi alla persona e dei beni culturali, registro n. 5, foglio n. 79

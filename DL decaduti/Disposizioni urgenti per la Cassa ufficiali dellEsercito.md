@@ -1,22 +1,17 @@
-DECRETO-LEGGE 12 aprile 1996 n. 191
+---
+tipo: DECRETO-LEGGE
+numero: 191
+data: 1996-04-12
+titolo: "Disposizioni urgenti per la Cassa ufficiali dell'Esercito."
+urn: urn:nir:stato:decreto.legge:1996-04-12;191
+codice_redazionale: 096G0207
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 12 aprile 1996 n. 191
-===================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 8 AGOSTO 1996, N. 416](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2011%20giugno%201996%20n.%20313%20recante%20disposizioni%20urgenti%20per%20la%20Cassa%20ufficiali%20dellEsercito.md)
 
-Disposizioni urgenti per la Cassa ufficiali dell'Esercito.
-----------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 13/4/1996.Decreto-Legge decaduto per mancata conversione.
-
-Art. 1
-------
-
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 8 AGOSTO 1996, N. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;416)
-  
-
-Art. 2
-------
-
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 8 AGOSTO 1996, N. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;416)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 8 AGOSTO 1996, N. 416](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2011%20giugno%201996%20n.%20313%20recante%20disposizioni%20urgenti%20per%20la%20Cassa%20ufficiali%20dellEsercito.md)

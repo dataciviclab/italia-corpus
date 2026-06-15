@@ -1,263 +1,225 @@
-LEGGE 30 aprile 1976 n. 397
+---
+tipo: LEGGE
+numero: 397
+data: 1976-04-30
+titolo: "Norme sanitarie sugli scambi di animali tra l'Italia e gli altri Stati membri della Comunita' economica europea."
+urn: urn:nir:stato:legge:1976-04-30;397
+codice_redazionale: 076U0397
+vigente: true
+---
 
+## DEFINIZIONI
 
-LEGGE 30 aprile 1976 n. 397
-===========================
+Titolo I
 
-Norme sanitarie sugli scambi di animali tra l'Italia e gli altri Stati membri della Comunita' economica europea.
-----------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-CAPO I Titolo I DEFINIZIONI
----------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 1
+### Art. 2.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 2
+## SPEDIZIONI DI ANIMALI DALL'ITALIA VERSO GLI ALTRI PAESI DELLA COMUNITA' ECONOMICA EUROPEA
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+Titolo II
 
-CAPO II Titolo II SPEDIZIONI DI ANIMALI DALL'ITALIA VERSO GLI ALTRI PAESI DELLA COMUNITA' ECONOMICA EUROPEA
------------------------------------------------------------------------------------------------------------
+### Art. 3.
 
-### Art. 3
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 4.
 
-### Art. 4
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 5.
 
-### Art. 5
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 6.
 
-### Art. 6
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 7.
 
-### Art. 7
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 8.
 
-### Art. 8
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 9.
 
-### Art. 9
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 9-bis.
 
-### Art. 9-bis
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 10.
 
-### Art. 10
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 10-bis.
 
-### Art. 10-bis
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 10-ter.
 
-### Art. 10-ter
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+## SPEDIZIONE DI ANIMALI DAGLI ALTRI STATI MEMBRI DELLA COMUNITA' ECONOMICA EUROPEA IN ITALIA
 
-CAPO III Titolo III SPEDIZIONE DI ANIMALI DAGLI ALTRI STATI MEMBRI DELLA COMUNITA' ECONOMICA EUROPEA IN ITALIA
---------------------------------------------------------------------------------------------------------------
+Titolo III
 
-### Art. 11
+### Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 12
+### Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 13
+### Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 14
+### Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 15
+### Art. 15.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-CAPO IV Titolo IV DEROGHE
--------------------------
+## DEROGHE
 
-### Art. 16
+Titolo IV
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 16.
 
-CAPO V Titolo V DIVIETI E LIMITAZIONI
--------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 17
+## DIVIETI E LIMITAZIONI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+Titolo V
 
-### Art. 17-bis
+### Art. 17.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 18
+### Art. 17-bis.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 19
+### Art. 18.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-CAPO VI Titolo VI PERIZIE
--------------------------
+### Art. 19.
 
-### Art. 20
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+## PERIZIE
 
-### Art. 21
+Titolo VI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 20.
 
-### Art. 22
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 21.
 
-CAPO VII Titolo VII IMPORTAZIONE DI BOVINI E' SUINI DA PAESI TERZI
-------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 23
+### Art. 22.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-CAPO VIII Titolo VIII IMPORTAZIONE DI EQUINI, OVINI E CAPRINI.
---------------------------------------------------------------
+## IMPORTAZIONE DI BOVINI E' SUINI DA PAESI TERZI
 
-### Art. 24
+Titolo VII
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 23.
 
-CAPO IX Titolo IX DISPOSIZIONI GENERALI
----------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 25
+## IMPORTAZIONE DI EQUINI, OVINI E CAPRINI.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+Titolo VIII
 
-### Art. 26
+### Art. 24.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 27
+## DISPOSIZIONI GENERALI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+Titolo IX
 
-### Art. 28
+### Art. 25.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 29
+### Art. 26.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 30
+### Art. 27.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 31
+### Art. 28.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 32
+### Art. 29.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-CAPO X Titolo X NORME FINALI E PENALI
--------------------------------------
+### Art. 30.
 
-### Art. 33
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 31.
 
-### Art. 33-bis
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 32.
 
-### Art. 34
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+## NORME FINALI E PENALI
 
-### Art. 35
+Titolo X
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 33.
 
-### Art. 36
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 33-bis.
 
-### Art. 37
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 34.
 
-### Art. 38
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 35.
 
-### Art. 39
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 36.
 
-Allegato A
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
- Allegato A   
-  
+### Art. 37.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-Allegato B
+### Art. 38.
 
- Allegato B   
-  
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 39.
 
-Allegato C
-
- Allegato C   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
-
-Allegato D
-
- Allegato D   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
-
-Allegato E
-
- Allegato E   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
-
-Allegato F
-
- Allegato F   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
-
-Allegato G
-
- Allegato G   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))

@@ -1,74 +1,51 @@
-DECRETO-LEGGE 21 gennaio 1992 n. 14
+---
+tipo: DECRETO-LEGGE
+numero: 14
+data: 1992-01-21
+titolo: "Misure urgenti in campo economico ed interventi in zone terremotate."
+urn: urn:nir:stato:decreto.legge:1992-01-21;14
+codice_redazionale: 092G0036
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 21 gennaio 1992 n. 14
-===================================
+DECRETO DECADUTO
 
-Misure urgenti in campo economico ed interventi in zone terremotate.
---------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 22/1/1992.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO 
+ SONO STATI FATTI SALVI DALLA [L. 24 MARZO 1993, N. 75](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20gennaio%201993%20n.%2016%20recante%20disposizioni%20in%20materia%20di%20imposte%20sui%20redditi%20sui%20trasferimenti%20di%20immobili%20di%20civile%20abitazione%20di_d7e44fdc9d83.md)
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 5
-------
+## Art. 7.
 
-  
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO   
-SONO STATI FATTI SALVI DALLA [L. 24 MARZO 1993, N. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-24;75)
-  
+DECRETO DECADUTO
 
-Art. 6
-------
+## Art. 8.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO 
+ SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1993, N. 292](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20giugno%201993%20n.%20198%20recante%20norme%20urgenti%20sullaccertamento%20definitivo%20del%20capitale%20iniziale%20degli%20enti%20pubblici%20trasformati%20in%20s_4fb3d9971802.md)
 
-Art. 7
-------
+## Art. 9.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 8
-------
+## Art. 10.
 
-  
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO   
-SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1993, N. 292](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-08-09;292)
-  
-
-Art. 9
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 10
--------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

@@ -1,60 +1,41 @@
-DECRETO-LEGGE 15 luglio 1994 n. 446
+---
+tipo: DECRETO-LEGGE
+numero: 446
+data: 1994-07-15
+titolo: "Disposizioni urgenti per l'attuazione da parte del Dipartimento per gli affari sociali del testo unico sulle tossicodipendenze, approvato con decreto del Presidente della Repubblica 9 ottobre 1990, n. 309."
+urn: urn:nir:stato:decreto.legge:1994-07-15;446
+codice_redazionale: 094G0485
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 15 luglio 1994 n. 446
-===================================
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO 
+ SONO STATI FATTI SALVI DALLA [L. 28 MARZO 1997, N. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-28;86)
 
-Disposizioni urgenti per l'attuazione da parte del Dipartimento per gli affari sociali del testo unico sulle tossicodipendenze, approvato con decreto del Presidente della Repubblica 9 ottobre 1990, n. 309.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 16-7-1994.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO 
+ SONO STATI FATTI SALVI DALLA [L. 28 MARZO 1997, N. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-28;86)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO   
-SONO STATI FATTI SALVI DALLA [L. 28 MARZO 1997, N. 86](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-28;86)
-  
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO   
-SONO STATI FATTI SALVI DALLA [L. 28 MARZO 1997, N. 86](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-28;86)
-  
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO 
+ SONO STATI FATTI SALVI DALLA [L. 28 MARZO 1997, N. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-28;86)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO 
+ SONO STATI FATTI SALVI DALLA [L. 28 MARZO 1997, N. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-28;86)
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO   
-SONO STATI FATTI SALVI DALLA [L. 28 MARZO 1997, N. 86](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-28;86)
-  
+DECRETO DECADUTO
 
-Art. 5
-------
+## Art. 7.
 
-  
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO   
-SONO STATI FATTI SALVI DALLA [L. 28 MARZO 1997, N. 86](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-28;86)
-  
-
-Art. 6
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 7
-------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

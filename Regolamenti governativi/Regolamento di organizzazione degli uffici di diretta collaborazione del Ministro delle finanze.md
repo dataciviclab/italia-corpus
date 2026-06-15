@@ -1,60 +1,49 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 aprile 2001 n. 121
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 121
+data: 2001-04-06
+titolo: "Regolamento di organizzazione degli uffici di diretta collaborazione del Ministro delle finanze."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2001-04-06;121
+codice_redazionale: 001G0180
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 aprile 2001 n. 121
-=============================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 LUGLIO 2003, N. 227))
 
-Regolamento di organizzazione degli uffici di diretta collaborazione del Ministro delle finanze.
-------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 29-4-2001
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 LUGLIO 2003, N. 227))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 LUGLIO 2003, N. 227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-07-03;227)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 LUGLIO 2003, N. 227))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 LUGLIO 2003, N. 227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-07-03;227)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 LUGLIO 2003, N. 227))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 LUGLIO 2003, N. 227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-07-03;227)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 LUGLIO 2003, N. 227))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 LUGLIO 2003, N. 227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-07-03;227)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 LUGLIO 2003, N. 227))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 LUGLIO 2003, N. 227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-07-03;227)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 LUGLIO 2003, N. 227))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 LUGLIO 2003, N. 227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-07-03;227)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 LUGLIO 2003, N. 227))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 LUGLIO 2003, N. 227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-07-03;227)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 LUGLIO 2003, N. 227))
 
-Art. 8
-------
+## Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 LUGLIO 2003, N. 227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-07-03;227)))
-
-Art. 9
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 LUGLIO 2003, N. 227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-07-03;227)))
-
-Art. 10
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 LUGLIO 2003, N. 227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-07-03;227)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 LUGLIO 2003, N. 227))

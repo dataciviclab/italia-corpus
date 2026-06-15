@@ -1,245 +1,205 @@
-DECRETO-LEGGE 29 dicembre 1987 n. 533
+---
+tipo: DECRETO-LEGGE
+numero: 533
+data: 1987-12-29
+titolo: "Norme in materia tributaria, di previdenza, di assunzioni nella pubblica amministrazione ed altre disposizioni urgenti."
+urn: urn:nir:stato:decreto.legge:1987-12-29;533
+codice_redazionale: 087U0533
+vigente: true
+---
 
+## NORME IN MATERIA TRIBUTARIA
 
-DECRETO-LEGGE 29 dicembre 1987 n. 533
-=====================================
+Titolo I
 
-Norme in materia tributaria, di previdenza, di assunzioni nella pubblica amministrazione ed altre disposizioni urgenti.
------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 13 MAGGIO 1988, N. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md)
 
-CAPO I Titolo I NORME IN MATERIA TRIBUTARIA
--------------------------------------------
+### Art. 2.
 
-### Art. 1
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 13 MAGGIO 1988, N. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 13 MAGGIO 1988, N. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154)
-  
+### Art. 3.
 
-### Art. 2
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 13 MAGGIO 1988, N. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 13 MAGGIO 1988, N. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154)
-  
+### Art. 4.
 
-### Art. 3
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 13 MAGGIO 1988, N. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 13 MAGGIO 1988, N. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154)
-  
+### Art. 5.
 
-### Art. 4
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 13 MAGGIO 1988, N. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 13 MAGGIO 1988, N. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154)
-  
+### Art. 6.
 
-### Art. 5
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 13 MAGGIO 1988, N. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 13 MAGGIO 1988, N. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154)
-  
+### Art. 7.
 
-### Art. 6
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 13 MAGGIO 1988, N. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 13 MAGGIO 1988, N. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154)
-  
+### Art. 8.
 
-### Art. 7
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 13 MAGGIO 1988, N. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 13 MAGGIO 1988, N. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154)
-  
+### Art. 9.
 
-### Art. 8
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 13 MAGGIO 1988, N. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 13 MAGGIO 1988, N. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154)
-  
+### Art. 10.
 
-### Art. 9
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 13 MAGGIO 1988, N. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 13 MAGGIO 1988, N. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154)
-  
+### Art. 11.
 
-### Art. 10
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 13 MAGGIO 1988, N. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 13 MAGGIO 1988, N. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154)
-  
+### Art. 12.
 
-### Art. 11
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 13 MAGGIO 1988, N. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 13 MAGGIO 1988, N. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154)
-  
+### Art. 13.
 
-### Art. 12
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 13 MAGGIO 1988, N. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 13 MAGGIO 1988, N. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154)
-  
+### Art. 14.
 
-### Art. 13
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 13 MAGGIO 1988, N. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 13 MAGGIO 1988, N. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154)
-  
+### Art. 15.
 
-### Art. 14
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 13 MAGGIO 1988, N. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 13 MAGGIO 1988, N. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154)
-  
+### Art. 16.
 
-### Art. 15
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 13 MAGGIO 1988, N. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 13 MAGGIO 1988, N. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154)
-  
+### Art. 17.
 
-### Art. 16
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 13 MAGGIO 1988, N. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 13 MAGGIO 1988, N. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154)
-  
+## NORME IN MATERIA PREVIDENZIALE
 
-### Art. 17
+Titolo II
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 13 MAGGIO 1988, N. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154)
-  
+### Art. 18.
 
-CAPO II Titolo II NORME IN MATERIA PREVIDENZIALE
-------------------------------------------------
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 13 MAGGIO 1988, N. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md)
 
-### Art. 18
+### Art. 19.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 13 MAGGIO 1988, N. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 13 MAGGIO 1988, N. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md)
 
-### Art. 19
+### Art. 20.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 13 MAGGIO 1988, N. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 13 MAGGIO 1988, N. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md)
 
-### Art. 20
+### Art. 21.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 13 MAGGIO 1988, N. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 13 MAGGIO 1988, N. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md)
 
-### Art. 21
+### Art. 22.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 13 MAGGIO 1988, N. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 13 MAGGIO 1988, N. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md)
 
-### Art. 22
+### Art. 23.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 13 MAGGIO 1988, N. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 13 MAGGIO 1988, N. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md)
 
-### Art. 23
+### Art. 24.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 13 MAGGIO 1988, N. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 13 MAGGIO 1988, N. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md)
 
-### Art. 24
+### Art. 25.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 13 MAGGIO 1988, N. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 13 MAGGIO 1988, N. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md)
 
-### Art. 25
+### Art. 26.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 13 MAGGIO 1988, N. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 13 MAGGIO 1988, N. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md)
 
-### Art. 26
+### Art. 27.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 13 MAGGIO 1988, N. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 13 MAGGIO 1988, N. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md)
 
-### Art. 27
+## NORME IN MATERIA DI ASSUNZIONI NELLA PUBBLICA AMMINISTRAZIONE
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 13 MAGGIO 1988, N. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154)
-  
+Titolo III
 
-CAPO III Titolo III NORME IN MATERIA DI ASSUNZIONI NELLA PUBBLICA AMMINISTRAZIONE
----------------------------------------------------------------------------------
+### Art. 28.
 
-### Art. 28
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 13 MAGGIO 1988, N. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 13 MAGGIO 1988, N. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154)
-  
+## DISPOSIZIONI DIVERSE
 
-CAPO IV Titolo IV DISPOSIZIONI DIVERSE
---------------------------------------
+Titolo IV
 
-### Art. 29
+### Art. 29.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 13 MAGGIO 1988, N. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 13 MAGGIO 1988, N. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md)
 
-### Art. 30
+### Art. 30.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 13 MAGGIO 1988, N. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 13 MAGGIO 1988, N. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md)
 
-### Art. 31
+### Art. 31.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 13 MAGGIO 1988, N. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 13 MAGGIO 1988, N. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md)
 
-### Art. 32
+### Art. 32.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 13 MAGGIO 1988, N. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 13 MAGGIO 1988, N. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md)
 
-### Art. 33
+### Art. 33.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 13 MAGGIO 1988, N. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 13 MAGGIO 1988, N. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md)
 
-### Art. 34
+### Art. 34.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 13 MAGGIO 1988, N. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 13 MAGGIO 1988, N. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md)
 
-### Art. 35
+### Art. 35.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 13 MAGGIO 1988, N. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 13 MAGGIO 1988, N. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md)
 
-### Art. 36
+### Art. 36.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 13 MAGGIO 1988, N. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154)
-  
-
-Allegato
-
- Allegato   
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 13 MAGGIO 1988, N. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 13 MAGGIO 1988, N. 154](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%201988%20n.%2070%20recante%20norme%20in%20materia%20tributaria%20nonche%20per%20la%20semplificazione%20delle%20procedure%20di%20accatastamento%20degli%20immobili%20urbani.md)

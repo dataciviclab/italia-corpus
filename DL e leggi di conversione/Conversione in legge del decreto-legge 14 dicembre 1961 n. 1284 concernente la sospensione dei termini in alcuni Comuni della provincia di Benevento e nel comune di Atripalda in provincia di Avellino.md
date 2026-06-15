@@ -1,31 +1,27 @@
-LEGGE 30 gennaio 1962 n. 19
+---
+tipo: LEGGE
+numero: 19
+data: 1962-01-30
+titolo: "Conversione in legge del decreto-legge 14 dicembre 1961, n. 1284, concernente la sospensione dei termini in alcuni Comuni della provincia di Benevento e nel comune di Atripalda in provincia di Avellino."
+urn: urn:nir:stato:legge:1962-01-30;19
+codice_redazionale: 062U0019
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 30 gennaio 1962 n. 19
-===========================
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
 
-Conversione in legge del decreto-legge 14 dicembre 1961, n. 1284, concernente la sospensione dei termini in alcuni Comuni della provincia di Benevento e nel comune di Atripalda in provincia di Avellino.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ IL PRESIDENTE DELLA REPUBBLICA
 
-Art. 1
-------
+ PROMULGA
 
- La Camera dei deputati ed il Senato della Repubblica hanno approvato;  
-  
-IL PRESIDENTE DELLA REPUBBLICA  
-  
-PROMULGA  
-  
-la seguente legge:  
-  
-E' convertito in legge il [decreto-legge 14 dicembre 1961, n. 1284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1961-12-14;1284), concernente la sospensione dei termini in alcuni Comuni della provincia di Benevento e nel comune di Atripalda in provincia di Avellino.  
-  
+la seguente legge:
+
+ E' convertito in legge il [decreto-legge 14 dicembre 1961, n. 1284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1961-12-14;1284), concernente la sospensione dei termini in alcuni Comuni della provincia di Benevento e nel comune di Atripalda in provincia di Avellino.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farla osservare come legge dello Stato.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data, a Roma, addi' 30 gennaio 1962
+Data, a Roma, addi' 30 gennaio 1962
 
-GRONCHI FANFANI - GONELLA - SCELBA - TAVIANI
-
-Visto, il Guardasigilli: GONELLA
+GRONCHI FANFANI - GONELLA - SCELBA - TAVIANI Visto, il Guardasigilli: GONELLA

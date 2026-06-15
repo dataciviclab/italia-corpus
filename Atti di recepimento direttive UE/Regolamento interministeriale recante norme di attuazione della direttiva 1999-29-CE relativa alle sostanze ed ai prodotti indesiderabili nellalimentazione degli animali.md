@@ -1,62 +1,41 @@
-DECRETO 23 dicembre 2002 n. 317
+---
+tipo: DECRETO
+numero: 317
+data: 2002-12-23
+titolo: "Regolamento interministeriale recante norme di attuazione della direttiva 1999/29/CE, relativa alle sostanze ed ai prodotti indesiderabili nell'alimentazione degli animali."
+urn: urn:nir:ministero.salute:decreto:2002-12-23;317
+codice_redazionale: 003G0184
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO 23 dicembre 2002 n. 317
-===============================
+((ARTICOLO ABROGATO DAL D.LGS. 10 MAGGIO 2004, N. 149))
 
-Regolamento interministeriale recante norme di attuazione della direttiva 1999/29/CE, relativa alle sostanze ed ai prodotti indesiderabili nell'alimentazione degli animali.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 22-7-2003
+((ARTICOLO ABROGATO DAL D.LGS. 10 MAGGIO 2004, N. 149))
 
-Art. 1
-------
+## Art. 3.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 10 MAGGIO 2004, N. 149](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-05-10;149)))
+((ARTICOLO ABROGATO DAL D.LGS. 10 MAGGIO 2004, N. 149))
 
-Art. 2
-------
+## Art. 4.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 10 MAGGIO 2004, N. 149](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-05-10;149)))
+((ARTICOLO ABROGATO DAL D.LGS. 10 MAGGIO 2004, N. 149))
 
-Art. 3
-------
+## Art. 5.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 10 MAGGIO 2004, N. 149](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-05-10;149)))
+((ARTICOLO ABROGATO DAL D.LGS. 10 MAGGIO 2004, N. 149))
 
-Art. 4
-------
+## Art. 6.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 10 MAGGIO 2004, N. 149](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-05-10;149)))
+((ARTICOLO ABROGATO DAL D.LGS. 10 MAGGIO 2004, N. 149))
 
-Art. 5
-------
+## Art. 7.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 10 MAGGIO 2004, N. 149](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-05-10;149)))
+((ARTICOLO ABROGATO DAL D.LGS. 10 MAGGIO 2004, N. 149))
 
-Art. 6
-------
+## Art. 8.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 10 MAGGIO 2004, N. 149](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-05-10;149)))
-
-Art. 7
-------
-
-((ARTICOLO ABROGATO DAL [D.LGS. 10 MAGGIO 2004, N. 149](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-05-10;149)))
-
-Art. 8
-------
-
-((ARTICOLO ABROGATO DAL [D.LGS. 10 MAGGIO 2004, N. 149](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-05-10;149)))
-
-Allegato I
-
- Allegato I   
-
-((ALLEGATO ABROGATO DAL [D.LGS. 10 MAGGIO 2004, N. 149](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-05-10;149)))
-
-Allegato II
-
- Allegato II   
-
-((ALLEGATO ABROGATO DAL [D.LGS. 10 MAGGIO 2004, N. 149](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-05-10;149)))
+((ARTICOLO ABROGATO DAL D.LGS. 10 MAGGIO 2004, N. 149))

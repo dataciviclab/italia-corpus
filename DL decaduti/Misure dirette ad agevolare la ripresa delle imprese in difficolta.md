@@ -1,51 +1,41 @@
-DECRETO-LEGGE 05 ottobre 1978 n. 602
+---
+tipo: DECRETO-LEGGE
+numero: 602
+data: 1978-10-05
+titolo: "Misure dirette ad agevolare la ripresa delle imprese in difficolta'."
+urn: urn:nir:stato:decreto.legge:1978-10-05;602
+codice_redazionale: 078U0602
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 05 ottobre 1978 n. 602
-====================================
+DECRETO DECADUTO
 
-Misure dirette ad agevolare la ripresa delle imprese in difficolta'.
---------------------------------------------------------------------
+## Art. 2.
 
-Il Decreto-Legge non è stato convertito nel termine di sessanta giorni.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 3
-------
+## Art. 5.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 4
-------
+## Art. 6.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 5
-------
+## Art. 7.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 6
-------
+## Art. 8.
 
- DECRETO DECADUTO  
-
-Art. 7
-------
-
- DECRETO DECADUTO  
-
-Art. 8
-------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

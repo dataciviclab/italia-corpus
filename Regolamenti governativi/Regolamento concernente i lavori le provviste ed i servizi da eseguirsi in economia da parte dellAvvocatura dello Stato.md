@@ -1,70 +1,57 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1994 n. 442
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 442
+data: 1994-06-30
+titolo: "Regolamento concernente i lavori, le provviste ed i servizi da eseguirsi in economia da parte dell'Avvocatura dello Stato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1994-06-30;442
+codice_redazionale: 094G0476
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1994 n. 442
-=============================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384))
 
-Regolamento concernente i lavori, le provviste ed i servizi da eseguirsi in economia da parte dell'Avvocatura dello Stato.
---------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 30-7-1994
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 AGOSTO 2001, N. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-08-20;384)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 AGOSTO 2001, N. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-08-20;384)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 AGOSTO 2001, N. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-08-20;384)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 AGOSTO 2001, N. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-08-20;384)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 AGOSTO 2001, N. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-08-20;384)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 AGOSTO 2001, N. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-08-20;384)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 AGOSTO 2001, N. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-08-20;384)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384))
 
-Art. 8
-------
+## Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 AGOSTO 2001, N. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-08-20;384)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384))
 
-Art. 9
-------
+## Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 AGOSTO 2001, N. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-08-20;384)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384))
 
-Art. 10
--------
+## Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 AGOSTO 2001, N. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-08-20;384)))
-
-Art. 11
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 AGOSTO 2001, N. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-08-20;384)))
-
-Art. 12
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 AGOSTO 2001, N. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-08-20;384)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384))

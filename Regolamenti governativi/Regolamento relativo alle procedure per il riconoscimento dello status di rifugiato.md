@@ -1,115 +1,93 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 settembre 2004 n. 303
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 303
+data: 2004-09-16
+titolo: "Regolamento relativo alle procedure per il riconoscimento dello status di rifugiato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2004-09-16;303
+codice_redazionale: 004G0276
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 settembre 2004 n. 303
-================================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 12 GENNAIO 2015, N. 21))
 
-Regolamento relativo alle procedure per il riconoscimento dello status di rifugiato.
-------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 6/1/2005
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 12 GENNAIO 2015, N. 21))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 12 GENNAIO 2015, N. 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2015-01-12;21)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 12 GENNAIO 2015, N. 21))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 12 GENNAIO 2015, N. 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2015-01-12;21)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 12 GENNAIO 2015, N. 21))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 12 GENNAIO 2015, N. 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2015-01-12;21)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 12 GENNAIO 2015, N. 21))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 12 GENNAIO 2015, N. 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2015-01-12;21)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 12 GENNAIO 2015, N. 21))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 12 GENNAIO 2015, N. 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2015-01-12;21)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 12 GENNAIO 2015, N. 21))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 12 GENNAIO 2015, N. 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2015-01-12;21)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 12 GENNAIO 2015, N. 21))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 12 GENNAIO 2015, N. 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2015-01-12;21)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 12 GENNAIO 2015, N. 21))
 
-Art. 8
-------
+## Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 12 GENNAIO 2015, N. 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2015-01-12;21)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 12 GENNAIO 2015, N. 21))
 
-Art. 9
-------
+## Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 12 GENNAIO 2015, N. 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2015-01-12;21)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 12 GENNAIO 2015, N. 21))
 
-Art. 10
--------
+## Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 12 GENNAIO 2015, N. 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2015-01-12;21)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 12 GENNAIO 2015, N. 21))
 
-Art. 11
--------
+## Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 12 GENNAIO 2015, N. 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2015-01-12;21)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 12 GENNAIO 2015, N. 21))
 
-Art. 12
--------
+## Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 12 GENNAIO 2015, N. 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2015-01-12;21)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 12 GENNAIO 2015, N. 21))
 
-Art. 13
--------
+## Art. 15.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 12 GENNAIO 2015, N. 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2015-01-12;21)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 12 GENNAIO 2015, N. 21))
 
-Art. 14
--------
+## Art. 16.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 12 GENNAIO 2015, N. 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2015-01-12;21)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 12 GENNAIO 2015, N. 21))
 
-Art. 15
--------
+## Art. 17.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 12 GENNAIO 2015, N. 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2015-01-12;21)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 12 GENNAIO 2015, N. 21))
 
-Art. 16
--------
+## Art. 18.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 12 GENNAIO 2015, N. 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2015-01-12;21)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 12 GENNAIO 2015, N. 21))
 
-Art. 17
--------
+## Art. 19.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 12 GENNAIO 2015, N. 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2015-01-12;21)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 12 GENNAIO 2015, N. 21))
 
-Art. 18
--------
+## Art. 20.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 12 GENNAIO 2015, N. 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2015-01-12;21)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 12 GENNAIO 2015, N. 21))
 
-Art. 19
--------
+## Art. 21.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 12 GENNAIO 2015, N. 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2015-01-12;21)))
-
-Art. 20
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 12 GENNAIO 2015, N. 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2015-01-12;21)))
-
-Art. 21
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 12 GENNAIO 2015, N. 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2015-01-12;21)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 12 GENNAIO 2015, N. 21))

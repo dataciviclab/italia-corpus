@@ -1,99 +1,105 @@
-DECRETO LEGISLATIVO 14 aprile 1948 n. 1011
+---
+tipo: DECRETO LEGISLATIVO
+numero: 1011
+data: 1948-04-14
+titolo: "Istituzione del Consiglio superiore di aeronautica."
+urn: urn:nir:stato:decreto.legislativo:1948-04-14;1011
+codice_redazionale: 048U1011
+vigente: true
+---
 
+## Disposizioni generali.
 
-DECRETO LEGISLATIVO 14 aprile 1948 n. 1011
-==========================================
+CAPO I
 
-Istituzione del Consiglio superiore di aeronautica.
----------------------------------------------------
+### Art. 1.
 
-CAPO I CAPO I Disposizioni generali.
-------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66 ))
 
-### Art. 1
+### Art. 2.
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66) ))
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66 ))
 
-### Art. 2
+### Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66) ))
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66 ))
 
-### Art. 3
+## Composizione del Consiglio superiore di aeronautica.
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66) ))
+CAPO II
 
-CAPO II CAPO II Composizione del Consiglio superiore di aeronautica.
---------------------------------------------------------------------
+### Art. 4.
 
-### Art. 4
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66) ))
+### Art. 5.
 
-### Art. 5
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66) ))
+### Art. 6.
 
-### Art. 6
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66) ))
+### Art. 7.
 
-### Art. 7
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66) ))
+### Art. 8.
 
-### Art. 8
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66) ))
+## Attribuzioni del Consiglio superiore di aeronautica.
 
-CAPO III CAPO III Attribuzioni del Consiglio superiore di aeronautica.
-----------------------------------------------------------------------
+CAPO III
 
-### Art. 9
+### Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66) ))
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66 ))
 
-### Art. 10
+### Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66) ))
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66 ))
 
-CAPO IV CAPO IV Funzionamento del Consiglio superiore di aeronautica.
----------------------------------------------------------------------
+## Funzionamento del Consiglio superiore di aeronautica.
 
-### Art. 11
+CAPO IV
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66) ))
+### Art. 11.
 
-### Art. 12
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66) ))
+### Art. 12.
 
-### Art. 13
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66) ))
+### Art. 13.
 
-### Art. 14
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66) ))
+### Art. 14.
 
-### Art. 15
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66) ))
+### Art. 15.
 
-### Art. 16
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66) ))
+### Art. 16.
 
-### Art. 17
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66) ))
+### Art. 17.
 
-### Art. 18
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66) ))
+### Art. 18.
 
-CAPO V CAPO V Disposizioni finali.
-----------------------------------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66 ))
 
-### Art. 19
+## Disposizioni finali.
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66) ))
+CAPO V
+
+### Art. 19.
+
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66 ))

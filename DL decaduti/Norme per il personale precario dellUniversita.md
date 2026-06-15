@@ -1,30 +1,25 @@
-DECRETO-LEGGE 30 dicembre 1979 n. 664
+---
+tipo: DECRETO-LEGGE
+numero: 664
+data: 1979-12-30
+titolo: "Norme per il personale precario dell'Universita'."
+urn: urn:nir:stato:decreto.legge:1979-12-30;664
+codice_redazionale: 079U0664
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 30 dicembre 1979 n. 664
-=====================================
+DECRETO DECADUTO
 
-Norme per il personale precario dell'Universita'.
--------------------------------------------------
+## Art. 2.
 
-Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
- DECRETO DECADUTO  
-
-Art. 3
-------
-
- DECRETO DECADUTO  
-
-Art. 4
-------
-
- DECRETO DECADUTO  
+DECRETO DECADUTO

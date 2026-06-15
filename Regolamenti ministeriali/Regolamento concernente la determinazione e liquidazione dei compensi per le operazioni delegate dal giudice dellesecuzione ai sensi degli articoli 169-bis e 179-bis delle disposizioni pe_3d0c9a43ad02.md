@@ -1,16 +1,14 @@
-DECRETO 15 ottobre 2015 n. 227
-
-
-DECRETO 15 ottobre 2015 n. 227
-==============================
-
-Regolamento concernente la determinazione e liquidazione dei compensi per le operazioni delegate dal giudice dell'esecuzione ai sensi degli articoli 169-bis e 179-bis delle disposizioni per l'attuazione del codice di procedura civile. (16G00027)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/03/2016
+---
+tipo: DECRETO
+numero: 227
+data: 2015-10-15
+titolo: "Regolamento concernente la determinazione e liquidazione dei compensi per le operazioni delegate dal giudice dell'esecuzione ai sensi degli articoli 169-bis e 179-bis delle disposizioni per l'attuazione del codice di procedura civile. (16G00027)"
+urn: urn:nir:ministero.giustizia:decreto:2015-10-15;227
+codice_redazionale: 16G00027
+vigente: true
+---
 
 IL MINISTRO DELLA GIUSTIZIA
----------------------------
 
 di concerto con
 
@@ -18,164 +16,171 @@ IL MINISTRO
 
 DELL'ECONOMIA E DELLE FINANZE
 
-Visti gli articoli 169-bis e 179-bis delle disposizioni per l'attuazione del [codice di procedura civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443), recanti disposizioni per la determinazione dei compensi per le operazioni delegate dal giudice dell'esecuzione, rispettivamente per la vendita dei beni mobili iscritti nei pubblici registri e per la vendita dei beni immobili;
+Visti gli articoli 169-bis e 179-bis delle disposizioni per l'attuazione del [codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443), recanti disposizioni per la determinazione dei compensi per le operazioni delegate dal giudice dell'esecuzione, rispettivamente per la vendita dei beni mobili iscritti nei pubblici registri e per la vendita dei beni immobili;
 
-Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3);
+Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
 Sentiti il Consiglio nazionale del notariato, il Consiglio nazionale dell'ordine degli avvocati e il Consiglio nazionale dell'ordine dei dottori commercialisti e degli esperti contabili;
 
 Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 18 giugno 2015;
 
-Vista la comunicazione al Presidente del Consiglio dei ministri, a norma dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3), effettuata l'11 settembre 2015, ai sensi del predetto articolo;
+Vista la comunicazione al Presidente del Consiglio dei ministri, a norma dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), effettuata l'11 settembre 2015, ai sensi del predetto articolo;
 
-Adotta
-------
+Adotta il seguente regolamento:
 
-il seguente regolamento:
+## Art. 1. — Ambito di applicazione
 
-Art. 1
-------
+1.
 
-Ambito di applicazione
+Il presente decreto determina, a norma degli articoli 169-bis e 179-bis delle disposizioni per l'attuazione del [codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443), i compensi spettanti ai professionisti delegati di cui agli [articoli 534-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_534bis) e [591-bis del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_591bis). Sono fatte salve le disposizioni di cui al [decreto del Ministro della giustizia 15 maggio 2009, n. 80](Regolamento%20in%20materia%20di%20determinazione%20dei%20compensi%20spettanti%20ai%20custodi%20dei%20beni%20pignorati.%2009G0086.md).
 
-1. Il presente decreto determina, a norma degli articoli 169-bis e 179-bis delle disposizioni per l'attuazione del [codice di procedura civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443), i compensi spettanti ai professionisti delegati di cui agli [articoli 534-bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art534bis) e [591-bis del codice di procedura civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art591bis). Sono fatte salve le disposizioni di cui al [decreto del Ministro della giustizia 15 maggio 2009, n. 80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.giustizia:decreto:2009-05-15;80).
+Avvertenza: 
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art.10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n.1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ Note alle premesse: 
+ - Si riporta il testo degli articoli 169-bis e 179-bis delle disposizioni di attuazione del [codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443): 
+ "Art. 169-bis. Determinazione dei compensi per le operazioni delegate dal giudice dell'esecuzione. 
+ Con il decreto di cui all'articolo 179-bis e' stabilita la misura dei compensi dovuti ai notai, agli avvocati e ai commercialisti per le operazioni di vendita dei beni mobili iscritti nei pubblici registri." 
+ "Art. 179-bis. Determinazione e liquidazione dei compensi per le operazioni delegate dal giudice dell'esecuzione. 
+ Con decreto del Ministro della giustizia, di concerto con il Ministro dell'economia e delle finanze, sentiti il Consiglio nazionale del notariato, il Consiglio nazionale dell'ordine degli avvocati e il Consiglio nazionale dell'ordine dei dottori commercialisti e degli esperti contabili, e' stabilita ogni triennio la misura dei compensi dovuti a notai, avvocati e commercialisti per le operazioni di vendita di beni immobili. 
+ Il compenso dovuto al professionista e' liquidato dal giudice dell'esecuzione con specifica determinazione della parte riguardante le operazioni di vendita e le successive che sono poste a carico dell'aggiudicatario. Il provvedimento di liquidazione del compenso costituisce titolo esecutivo.". 
+ - Si riporta il testo dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri): 
+ Art. 17. Regolamenti. 
+ 1. - 2. (Omissis). 
+ 3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del ministro o di autorita' sottordinate al ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.
+ I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei ministri prima della loro emanazione. 
+ 4. - 4-bis. - 4-ter. (Omissis).". 
+ 
+ Note all'art. 1: 
+ - Si riporta il testo degli [articoli 534-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_534bis) e [591-bis del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_591bis): 
+ "Art. 534-bis. Delega delle operazioni di vendita. 
+ Il giudice, con il provvedimento di cui all'articolo 530, delega all'istituto di cui al primo comma dell'articolo 534, ovvero in mancanza a un notaio avente sede preferibilmente nel circondario o a un avvocato o a un commercialista, iscritti nei relativi elenchi di cui all'articolo 179-ter delle disposizioni di attuazione del presente codice, il compimento delle operazioni di vendita con incanto ovvero senza incanto di beni mobili iscritti nei pubblici registri. La delega e gli atti conseguenti sono regolati dalle disposizioni di cui all'articolo 591-bis, in quanto compatibili con le previsioni della presente sezione." 
+ "Art. 591-bis. Delega delle operazioni di vendita. 
+ Il giudice dell'esecuzione, salvo quanto previsto al secondo comma, con l'ordinanza con la quale provvede sull'istanza di vendita ai sensi dell'articolo 569, terzo comma, delega ad un notaio avente preferibilmente sede nel circondario o a un avvocato ovvero a un commercialista, iscritti nei relativi elenchi di cui all'articolo 179-ter delle disposizioni di attuazione del presente codice, il compimento delle operazioni di vendita secondo le modalita' indicate al terzo comma del medesimo articolo 569. Con la medesima ordinanza il giudice stabilisce il termine per lo svolgimento delle operazioni delegate, le modalita' della pubblicita', il luogo di presentazione delle offerte ai sensi dell'articolo 571 e il luogo ove si procede all'esame delle offerte, alla gara tra gli offerenti e alle operazioni dell'eventuale incanto. Si applica l'articolo 569, quarto comma. 
+ Il giudice non dispone la delega ove, sentiti i creditori, ravvisi l'esigenza di procedere direttamente alle operazioni di vendita a tutela degli interessi delle parti. 
+ Il professionista delegato provvede: 
+ 1) alla determinazione del valore dell'immobile a norma dell'articolo 568, primo comma, tenendo anche conto della relazione redatta dall'esperto nominato dal giudice ai sensi dell'articolo 569, primo comma, e delle eventuali note depositate dalle parti ai sensi dell'articolo 173-bis, quarto comma, delle disposizioni di attuazione del presente codice; 
+ 2) agli adempimenti previsti dall'articolo 570 e, ove occorrenti, dall'articolo 576, secondo comma; 
+ 3) alla deliberazione sull'offerta a norma dell'articolo 572 e agli ulteriori adempimenti di cui agli articoli 573 e 574; 
+ 4) alle operazioni dell'incanto e all'aggiudicazione dell'immobile a norma dell'articolo 581; 
+ 5) a ricevere o autenticare la dichiarazione di nomina di cui all'articolo 583; 
+ 6) sulle offerte dopo l'incanto a norma dell'articolo 584 e sul versamento del prezzo nella ipotesi di cui all'articolo 585, secondo comma; 
+ 7) sulla istanza di assegnazione di cui all'articolo 590 e 591, terzo comma; 
+ 8) alla fissazione del nuovo incanto e del termine per la presentazione di nuove offerte d'acquisto ai sensi dell'articolo 591; 
+ 9) alla fissazione dell'ulteriore incanto nel caso previsto dall'articolo 587; 
+ 10) ad autorizzare l'assunzione dei debiti da parte dell'aggiudicatario o dell'assegnatario a norma dell'articolo 508; 
+ 11) alla esecuzione delle formalita' di registrazione, trascrizione e voltura catastale del decreto di trasferimento, alla comunicazione dello stesso a pubbliche amministrazioni negli stessi casi previsti per le comunicazioni di atti volontari di trasferimento nonche' all'espletamento delle formalita' di cancellazione delle trascrizioni dei pignoramenti e delle iscrizioni ipotecarie conseguenti al decreto di trasferimento pronunciato dal giudice dell'esecuzione ai sensi dell'articolo 586; 
+ 12) alla formazione del progetto di distribuzione ed alla sua trasmissione al giudice dell'esecuzione che, dopo avervi apportato le eventuali variazioni, provvede ai sensi dell'articolo 596; 
+ 13) ad ordinare alla banca o all'ufficio postale la restituzione delle cauzioni e di ogni altra somma direttamente versata mediante bonifico o deposito intestato alla procedura dagli offerenti non risultati aggiudicatari.
+ La restituzione ha luogo nelle mani del depositante o mediante bonifico a favore degli stessi conti da cui sono pervenute le somme accreditate. 
+ Nell'avviso di cui all'articolo 570 e' specificato che tutte le attivita', che, a norma degli articoli 571 e seguenti, devono essere compiute in cancelleria o davanti al giudice dell'esecuzione, o dal cancelliere o dal giudice dell'esecuzione, sono eseguite dal professionista delegato presso il suo studio ovvero nel luogo indicato nell'ordinanza di cui al primo comma. All'avviso si applica l'articolo 173-quater delle disposizioni di attuazione del presente codice. 
+ Il professionista delegato provvede altresi' alla redazione del verbale delle operazioni di vendita, che deve contenere le circostanze di luogo e di tempo nelle quali le stesse si svolgono, le generalita' delle persone presenti, la descrizione delle attivita' svolte, la dichiarazione dell'aggiudicazione provvisoria con l'identificazione dell'aggiudicatario. 
+ Il verbale e' sottoscritto esclusivamente dal professionista delegato ed allo stesso non deve essere allegata la procura speciale di cui all'articolo 579, secondo comma. 
+ Se il prezzo non e' stato versato nel termine, il professionista delegato ne da' tempestivo avviso al giudice, trasmettendogli il fascicolo. 
+ Avvenuto il versamento del prezzo con le modalita' stabilite ai sensi degli articoli 574, 585 e 590, secondo comma, il professionista delegato predispone il decreto di trasferimento e trasmette senza indugio al giudice dell'esecuzione il fascicolo. Al decreto, se previsto dalla legge, deve essere allegato il certificato di destinazione urbanistica dell'immobile quale risultante dal fascicolo processuale. Il professionista delegato provvede alla trasmissione del fascicolo al giudice dell'esecuzione nel caso in cui non faccia luogo all'assegnazione o ad ulteriori incanti ai sensi dell'articolo 591. Contro il decreto previsto nel presente comma e' proponibile l'opposizione di cui all'articolo 617. 
+ Le somme versate dall'aggiudicatario sono depositate presso una banca o su un conto postale indicati dal giudice. 
+ I provvedimenti di cui all'articolo 586 restano riservati al giudice dell'esecuzione in ogni caso di delega al professionista delle operazioni di vendita. 
+ Il giudice dell'esecuzione, sentito l'interessato, dispone la revoca della delega delle operazioni di vendita se non vengono rispettati i termini e le direttive per lo svolgimento delle operazioni, salvo che il professionista delegato dimostri che il mancato rispetto dei termini o delle direttive sia dipeso da causa a lui non imputabile.". 
+ Il [decreto del Ministro della giustizia 15 maggio 2009, n. 80](Regolamento%20in%20materia%20di%20determinazione%20dei%20compensi%20spettanti%20ai%20custodi%20dei%20beni%20pignorati.%2009G0086.md) (Regolamento in materia di determinazione dei compensi spettanti ai custodi dei beni pignorati), e' pubblicato nella Gazzetta Ufficiale 1° luglio 2009, n. 150.
 
-Avvertenza:   
-Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art.10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n.1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.   
-Note alle premesse:   
-- Si riporta il testo degli articoli 169-bis e 179-bis delle disposizioni di attuazione del [codice di procedura civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443):   
-"Art. 169-bis. Determinazione dei compensi per le operazioni delegate dal giudice dell'esecuzione.   
-Con il decreto di cui all'articolo 179-bis e' stabilita la misura dei compensi dovuti ai notai, agli avvocati e ai commercialisti per le operazioni di vendita dei beni mobili iscritti nei pubblici registri."   
-"Art. 179-bis. Determinazione e liquidazione dei compensi per le operazioni delegate dal giudice dell'esecuzione.   
-Con decreto del Ministro della giustizia, di concerto con il Ministro dell'economia e delle finanze, sentiti il Consiglio nazionale del notariato, il Consiglio nazionale dell'ordine degli avvocati e il Consiglio nazionale dell'ordine dei dottori commercialisti e degli esperti contabili, e' stabilita ogni triennio la misura dei compensi dovuti a notai, avvocati e commercialisti per le operazioni di vendita di beni immobili.   
-Il compenso dovuto al professionista e' liquidato dal giudice dell'esecuzione con specifica determinazione della parte riguardante le operazioni di vendita e le successive che sono poste a carico dell'aggiudicatario. Il provvedimento di liquidazione del compenso costituisce titolo esecutivo.".   
-- Si riporta il testo dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri):   
-Art. 17. Regolamenti.   
-1. - 2. (Omissis).   
-3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del ministro o di autorita' sottordinate al ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.  
-I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei ministri prima della loro emanazione.   
-4. - 4-bis. - 4-ter. (Omissis).".   
-  
-Note all'art. 1:   
-- Si riporta il testo degli [articoli 534-bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art534bis) e [591-bis del codice di procedura civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art591bis):   
-"Art. 534-bis. Delega delle operazioni di vendita.   
-Il giudice, con il provvedimento di cui all'articolo 530, delega all'istituto di cui al primo comma dell'articolo 534, ovvero in mancanza a un notaio avente sede preferibilmente nel circondario o a un avvocato o a un commercialista, iscritti nei relativi elenchi di cui all'articolo 179-ter delle disposizioni di attuazione del presente codice, il compimento delle operazioni di vendita con incanto ovvero senza incanto di beni mobili iscritti nei pubblici registri. La delega e gli atti conseguenti sono regolati dalle disposizioni di cui all'articolo 591-bis, in quanto compatibili con le previsioni della presente sezione."   
-"Art. 591-bis. Delega delle operazioni di vendita.   
-Il giudice dell'esecuzione, salvo quanto previsto al secondo comma, con l'ordinanza con la quale provvede sull'istanza di vendita ai sensi dell'articolo 569, terzo comma, delega ad un notaio avente preferibilmente sede nel circondario o a un avvocato ovvero a un commercialista, iscritti nei relativi elenchi di cui all'articolo 179-ter delle disposizioni di attuazione del presente codice, il compimento delle operazioni di vendita secondo le modalita' indicate al terzo comma del medesimo articolo 569. Con la medesima ordinanza il giudice stabilisce il termine per lo svolgimento delle operazioni delegate, le modalita' della pubblicita', il luogo di presentazione delle offerte ai sensi dell'articolo 571 e il luogo ove si procede all'esame delle offerte, alla gara tra gli offerenti e alle operazioni dell'eventuale incanto. Si applica l'articolo 569, quarto comma.   
-Il giudice non dispone la delega ove, sentiti i creditori, ravvisi l'esigenza di procedere direttamente alle operazioni di vendita a tutela degli interessi delle parti.   
-Il professionista delegato provvede:   
-1) alla determinazione del valore dell'immobile a norma dell'articolo 568, primo comma, tenendo anche conto della relazione redatta dall'esperto nominato dal giudice ai sensi dell'articolo 569, primo comma, e delle eventuali note depositate dalle parti ai sensi dell'articolo 173-bis, quarto comma, delle disposizioni di attuazione del presente codice;   
-2) agli adempimenti previsti dall'articolo 570 e, ove occorrenti, dall'articolo 576, secondo comma;   
-3) alla deliberazione sull'offerta a norma dell'articolo 572 e agli ulteriori adempimenti di cui agli articoli 573 e 574;   
-4) alle operazioni dell'incanto e all'aggiudicazione dell'immobile a norma dell'articolo 581;   
-5) a ricevere o autenticare la dichiarazione di nomina di cui all'articolo 583;   
-6) sulle offerte dopo l'incanto a norma dell'articolo 584 e sul versamento del prezzo nella ipotesi di cui all'articolo 585, secondo comma;   
-7) sulla istanza di assegnazione di cui all'articolo 590 e 591, terzo comma;   
-8) alla fissazione del nuovo incanto e del termine per la presentazione di nuove offerte d'acquisto ai sensi dell'articolo 591;   
-9) alla fissazione dell'ulteriore incanto nel caso previsto dall'articolo 587;   
-10) ad autorizzare l'assunzione dei debiti da parte dell'aggiudicatario o dell'assegnatario a norma dell'articolo 508;   
-11) alla esecuzione delle formalita' di registrazione, trascrizione e voltura catastale del decreto di trasferimento, alla comunicazione dello stesso a pubbliche amministrazioni negli stessi casi previsti per le comunicazioni di atti volontari di trasferimento nonche' all'espletamento delle formalita' di cancellazione delle trascrizioni dei pignoramenti e delle iscrizioni ipotecarie conseguenti al decreto di trasferimento pronunciato dal giudice dell'esecuzione ai sensi dell'articolo 586;   
-12) alla formazione del progetto di distribuzione ed alla sua trasmissione al giudice dell'esecuzione che, dopo avervi apportato le eventuali variazioni, provvede ai sensi dell'articolo 596;   
-13) ad ordinare alla banca o all'ufficio postale la restituzione delle cauzioni e di ogni altra somma direttamente versata mediante bonifico o deposito intestato alla procedura dagli offerenti non risultati aggiudicatari.  
-La restituzione ha luogo nelle mani del depositante o mediante bonifico a favore degli stessi conti da cui sono pervenute le somme accreditate.   
-Nell'avviso di cui all'articolo 570 e' specificato che tutte le attivita', che, a norma degli articoli 571 e seguenti, devono essere compiute in cancelleria o davanti al giudice dell'esecuzione, o dal cancelliere o dal giudice dell'esecuzione, sono eseguite dal professionista delegato presso il suo studio ovvero nel luogo indicato nell'ordinanza di cui al primo comma. All'avviso si applica l'articolo 173-quater delle disposizioni di attuazione del presente codice.   
-Il professionista delegato provvede altresi' alla redazione del verbale delle operazioni di vendita, che deve contenere le circostanze di luogo e di tempo nelle quali le stesse si svolgono, le generalita' delle persone presenti, la descrizione delle attivita' svolte, la dichiarazione dell'aggiudicazione provvisoria con l'identificazione dell'aggiudicatario.   
-Il verbale e' sottoscritto esclusivamente dal professionista delegato ed allo stesso non deve essere allegata la procura speciale di cui all'articolo 579, secondo comma.   
-Se il prezzo non e' stato versato nel termine, il professionista delegato ne da' tempestivo avviso al giudice, trasmettendogli il fascicolo.   
-Avvenuto il versamento del prezzo con le modalita' stabilite ai sensi degli articoli 574, 585 e 590, secondo comma, il professionista delegato predispone il decreto di trasferimento e trasmette senza indugio al giudice dell'esecuzione il fascicolo. Al decreto, se previsto dalla legge, deve essere allegato il certificato di destinazione urbanistica dell'immobile quale risultante dal fascicolo processuale. Il professionista delegato provvede alla trasmissione del fascicolo al giudice dell'esecuzione nel caso in cui non faccia luogo all'assegnazione o ad ulteriori incanti ai sensi dell'articolo 591. Contro il decreto previsto nel presente comma e' proponibile l'opposizione di cui all'articolo 617.   
-Le somme versate dall'aggiudicatario sono depositate presso una banca o su un conto postale indicati dal giudice.   
-I provvedimenti di cui all'articolo 586 restano riservati al giudice dell'esecuzione in ogni caso di delega al professionista delle operazioni di vendita.   
-Il giudice dell'esecuzione, sentito l'interessato, dispone la revoca della delega delle operazioni di vendita se non vengono rispettati i termini e le direttive per lo svolgimento delle operazioni, salvo che il professionista delegato dimostri che il mancato rispetto dei termini o delle direttive sia dipeso da causa a lui non imputabile.".   
-Il [decreto del Ministro della giustizia 15 maggio 2009, n. 80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.giustizia:decreto:2009-05-15;80) (Regolamento in materia di determinazione dei compensi spettanti ai custodi dei beni pignorati), e' pubblicato nella Gazzetta Ufficiale 1° luglio 2009, n. 150.
+## Art. 2. — Criteri per la determinazione del compenso nell'espropriazione forzata immobiliare
 
-Art. 2
-------
+1.
 
-Criteri per la determinazione del compenso nell'espropriazione forzata immobiliare
+Il compenso del professionista delegato per le operazioni di vendita di beni immobili e' determinato sulla base dei seguenti criteri:
+                        a)
+                            quando il prezzo di aggiudicazione o il valore di assegnazione e' pari o inferiore a euro 100.000: 
+ 1) per tutte le attivita' comprese tra il conferimento dell'incarico e la redazione dell'avviso di vendita, ivi incluso lo studio della documentazione depositata a norma dell'[articolo 567, secondo comma, del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_567-com2), spetta un compenso pari ad euro 1.000; 
+ 2) per tutte le attivita' svolte successivamente alla redazione dell'avviso di vendita e fino all'aggiudicazione o all'assegnazione, spetta un compenso pari ad euro 1.000; 
+ 3) per tutte le attivita' svolte nel corso della fase di trasferimento della proprieta', spetta un compenso pari ad euro 1.000; 
+ 4) per tutte le attivita' svolte nel corso della fase di distribuzione della somma ricavata, spetta un compenso pari ad euro 1.000;
+                        b)
+                            quando il prezzo di aggiudicazione o il valore di assegnazione e' superiore a euro 100.000 e pari o inferiore a euro 500.000: 
+ 1) per tutte le attivita' comprese tra il conferimento dell'incarico e la redazione dell'avviso di vendita, ivi incluso lo studio della documentazione depositata a norma dell'[articolo 567, secondo comma, del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_567-com2), spetta un compenso pari ad euro 1.500; 
+ 2) per tutte le attivita' svolte successivamente alla redazione dell'avviso di vendita e fino all'aggiudicazione o all'assegnazione, spetta un compenso pari ad euro 1.500; 
+ 3) per tutte le attivita' svolte nel corso della fase di trasferimento della proprieta', spetta un compenso pari ad euro 1.500; 
+ 4) per tutte le attivita' svolte nel corso della fase di distribuzione della somma ricavata, spetta un compenso pari ad euro 1.500;
+                        c)
+                            quando il prezzo di aggiudicazione o il valore di assegnazione e' superiore a euro 500.000: 
+ 1) per tutte le attivita' comprese tra il conferimento dell'incarico e la redazione dell'avviso di vendita, ivi incluso lo studio della documentazione depositata a norma dell'[articolo 567, secondo comma, del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_567-com2), spetta un compenso pari ad euro 2.000; 
+ 2) per tutte le attivita' svolte successivamente alla redazione dell'avviso di vendita e fino all'aggiudicazione o all'assegnazione, spetta un compenso pari ad euro 2.000; 
+ 3) per tutte le attivita' svolte nel corso della fase di trasferimento della proprieta', spetta un compenso pari ad euro 2.000; 
+ 4) per tutte le attivita' svolte nel corso della fase di distribuzione della somma ricavata, spetta un compenso pari ad euro 2.000.
 
-1. Il compenso del professionista delegato per le operazioni di vendita di beni immobili e' determinato sulla base dei seguenti criteri:
+2.
 
-a) quando il prezzo di aggiudicazione o il valore di assegnazione e' pari o inferiore a euro 100.000:   
-1) per tutte le attivita' comprese tra il conferimento dell'incarico e la redazione dell'avviso di vendita, ivi incluso lo studio della documentazione depositata a norma dell'[articolo 567, secondo comma, del codice di procedura civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art567-com2), spetta un compenso pari ad euro 1.000;   
-2) per tutte le attivita' svolte successivamente alla redazione dell'avviso di vendita e fino all'aggiudicazione o all'assegnazione, spetta un compenso pari ad euro 1.000;   
-3) per tutte le attivita' svolte nel corso della fase di trasferimento della proprieta', spetta un compenso pari ad euro 1.000;   
-4) per tutte le attivita' svolte nel corso della fase di distribuzione della somma ricavata, spetta un compenso pari ad euro 1.000;
-
-b) quando il prezzo di aggiudicazione o il valore di assegnazione e' superiore a euro 100.000 e pari o inferiore a euro 500.000:   
-1) per tutte le attivita' comprese tra il conferimento dell'incarico e la redazione dell'avviso di vendita, ivi incluso lo studio della documentazione depositata a norma dell'[articolo 567, secondo comma, del codice di procedura civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art567-com2), spetta un compenso pari ad euro 1.500;   
-2) per tutte le attivita' svolte successivamente alla redazione dell'avviso di vendita e fino all'aggiudicazione o all'assegnazione, spetta un compenso pari ad euro 1.500;   
-3) per tutte le attivita' svolte nel corso della fase di trasferimento della proprieta', spetta un compenso pari ad euro 1.500;   
-4) per tutte le attivita' svolte nel corso della fase di distribuzione della somma ricavata, spetta un compenso pari ad euro 1.500;
-
-c) quando il prezzo di aggiudicazione o il valore di assegnazione e' superiore a euro 500.000:   
-1) per tutte le attivita' comprese tra il conferimento dell'incarico e la redazione dell'avviso di vendita, ivi incluso lo studio della documentazione depositata a norma dell'[articolo 567, secondo comma, del codice di procedura civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art567-com2), spetta un compenso pari ad euro 2.000;   
-2) per tutte le attivita' svolte successivamente alla redazione dell'avviso di vendita e fino all'aggiudicazione o all'assegnazione, spetta un compenso pari ad euro 2.000;   
-3) per tutte le attivita' svolte nel corso della fase di trasferimento della proprieta', spetta un compenso pari ad euro 2.000;   
-4) per tutte le attivita' svolte nel corso della fase di distribuzione della somma ricavata, spetta un compenso pari ad euro 2.000.
-
-2. Quando le attivita' di cui al comma 1, numeri 1), 2) e 3) riguardano piu' lotti, in presenza di giusti motivi il compenso determinato secondo i criteri ivi previsti puo' essere liquidato per ciascun lotto. Allo stesso modo si procede per la liquidazione del compenso relativo alle attivita' di cui al comma 1, numero 4), quando la distribuzione ha ad oggetto somme riferibili a piu' debitori.
+Quando le attivita' di cui al comma 1, numeri 1), 2) e 3) riguardano piu' lotti, in presenza di giusti motivi il compenso determinato secondo i criteri ivi previsti puo' essere liquidato per ciascun lotto. Allo stesso modo si procede per la liquidazione del compenso relativo alle attivita' di cui al comma 1, numero 4), quando la distribuzione ha ad oggetto somme riferibili a piu' debitori.
 
 ((3. Tenuto conto della complessita' delle attivita' svolte, il giudice dell'esecuzione puo' aumentare l'ammontare del compenso liquidato a norma del comma 1 in misura non superiore al 60 per cento oppure ridurlo in misura non superiore al 25 per cento))
 
-4. Al professionista delegato spetta un rimborso forfettario delle spese generali in misura pari al 10 per cento dell'importo del compenso determinato a norma del presente articolo, nonche' il rimborso delle spese effettivamente sostenute e documentate. I costi degli ausiliari incaricati sono ricompresi tra le spese.
+4.
 
-5. In ogni caso l'ammontare complessivo del compenso e delle spese generali liquidato a norma del presente articolo non puo' essere superiore al 40 per cento del prezzo di aggiudicazione o del valore di assegnazione.
+Al professionista delegato spetta un rimborso forfettario delle spese generali in misura pari al 10 per cento dell'importo del compenso determinato a norma del presente articolo, nonche' il rimborso delle spese effettivamente sostenute e documentate. I costi degli ausiliari incaricati sono ricompresi tra le spese.
 
-6. In presenza di giustificati motivi sono ammessi acconti sul compenso finale.
+5.
 
-7. Sono poste a carico dell'aggiudicatario o dell'assegnatario la meta' del compenso relativo alla fase di trasferimento della proprieta', nonche' le relative spese generali e le spese effettivamente sostenute per l'esecuzione delle formalita' di registrazione, trascrizione e voltura catastale. In presenza di giustificati motivi, il compenso a carico dell'aggiudicatario o dell'assegnatario puo' essere determinato in misura diversa da quella prevista dal periodo precedente.
+In ogni caso l'ammontare complessivo del compenso e delle spese generali liquidato a norma del presente articolo non puo' essere superiore al 40 per cento del prezzo di aggiudicazione o del valore di assegnazione.
 
-8. Quando il processo esecutivo e' definito senza che il bene sia aggiudicato o assegnato, ai fini della liquidazione del compenso si tiene conto del prezzo previsto per l'ultimo esperimento di vendita ovvero, in mancanza, del valore di stima.
+6.
 
-Art. 3
-------
+In presenza di giustificati motivi sono ammessi acconti sul compenso finale.
 
-Criteri per la determinazione del compenso nell'espropriazione forzata di beni mobili iscritti nei pubblici registri
+7.
 
-1. Il compenso del professionista delegato per le operazioni di vendita di beni mobili iscritti nei pubblici registri e' determinato sulla base dei seguenti criteri:   
-1) per tutte le attivita' svolte nel corso della fase di autorizzazione della vendita spetta un compenso pari ad euro 200;   
-2) per tutte le attivita' svolte nel corso della fase delle operazioni di vendita o di assegnazione, spetta un compenso pari ad euro 250;   
-3) per tutte le attivita' svolte nel corso della fase di trasferimento della proprieta', spetta un compenso pari ad euro 200;   
-4) per tutte le attivita' svolte nel corso della fase di distribuzione, spetta un compenso pari ad euro 250.
+Sono poste a carico dell'aggiudicatario o dell'assegnatario la meta' del compenso relativo alla fase di trasferimento della proprieta', nonche' le relative spese generali e le spese effettivamente sostenute per l'esecuzione delle formalita' di registrazione, trascrizione e voltura catastale. In presenza di giustificati motivi, il compenso a carico dell'aggiudicatario o dell'assegnatario puo' essere determinato in misura diversa da quella prevista dal periodo precedente.
 
-2. Quando il prezzo di aggiudicazione o il valore di assegnazione e' superiore a euro 25.000 ma inferiore a 40.000 euro, il compenso di cui al comma 1 e' raddoppiato.
+8.
 
-3. Si applicano le disposizioni di cui all'articolo 2, commi 2 e 3
+Quando il processo esecutivo e' definito senza che il bene sia aggiudicato o assegnato, ai fini della liquidazione del compenso si tiene conto del prezzo previsto per l'ultimo esperimento di vendita ovvero, in mancanza, del valore di stima.
 
-((...))
+## Art. 3. — Criteri per la determinazione del compenso nell'espropriazione forzata di beni mobili iscritti nei pubblici registri
 
-.
+1.
 
-4. Quando il prezzo di aggiudicazione o il valore di assegnazione del bene eccede l'importo di euro 40.000,00, il compenso e' liquidato secondo i criteri di cui all'articolo 2, comma 1, lettera a).
+Il compenso del professionista delegato per le operazioni di vendita di beni mobili iscritti nei pubblici registri e' determinato sulla base dei seguenti criteri: 
+ 1) per tutte le attivita' svolte nel corso della fase di autorizzazione della vendita spetta un compenso pari ad euro 200; 
+ 2) per tutte le attivita' svolte nel corso della fase delle operazioni di vendita o di assegnazione, spetta un compenso pari ad euro 250; 
+ 3) per tutte le attivita' svolte nel corso della fase di trasferimento della proprieta', spetta un compenso pari ad euro 200; 
+ 4) per tutte le attivita' svolte nel corso della fase di distribuzione, spetta un compenso pari ad euro 250.
 
-5. Si applicano le disposizioni di cui all'articolo 2, commi 4 e 6.  
+2.
+
+Quando il prezzo di aggiudicazione o il valore di assegnazione e' superiore a euro 25.000 ma inferiore a 40.000 euro, il compenso di cui al comma 1 e' raddoppiato.
+
+3.
+
+Si applicano le disposizioni di cui all'articolo 2, commi 2 e 3 ((...)).
+
+4.
+
+Quando il prezzo di aggiudicazione o il valore di assegnazione del bene eccede l'importo di euro 40.000,00, il compenso e' liquidato secondo i criteri di cui all'articolo 2, comma 1, lettera a).
+
+5.
+
+Si applicano le disposizioni di cui all'articolo 2, commi 4 e 6.
 In ogni caso, l'ammontare complessivo del compenso e delle spese generali non puo' eccedere la misura del 30 per cento del prezzo di aggiudicazione o del valore di assegnazione.
 
-6. Si applicano le disposizioni di cui all'articolo 2, commi 7 e 8.
+6.
 
-Art. 4
-------
+Si applicano le disposizioni di cui all'articolo 2, commi 7 e 8.
 
-Abrogazioni
+## Art. 4. — Abrogazioni
 
-1. Il [decreto ministeriale del 25 maggio 1999, n. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1999-05-25;313), pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 213 del 10 settembre 1999, e' abrogato.
+1.
 
-Note all'art. 4:   
-Il decreto 25 maggio 1999, n. 313 (Regolamento recante norme per la determinazione dei compensi spettanti ai notai per le operazioni di vendita con incanto, in attuazione della [L. 3 agosto 1998, n. 302](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-08-03;302)), pubblicato nella Gazz.  
-Uff. 10 settembre 1999, n. 213, e' abrogato dal presente regolamento.
+Il [decreto ministeriale del 25 maggio 1999, n. 313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1999-05-25;313), pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 213 del 10 settembre 1999, e' abrogato.
 
-Art. 5
-------
+Note all'art. 4: 
+ Il decreto 25 maggio 1999, n. 313 (Regolamento recante norme per la determinazione dei compensi spettanti ai notai per le operazioni di vendita con incanto, in attuazione della [L. 3 agosto 1998, n. 302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-08-03;302)), pubblicato nella Gazz.
+ Uff. 10 settembre 1999, n. 213, e' abrogato dal presente regolamento.
 
-Clausola di invarianza finanziaria
+## Art. 5. — Clausola di invarianza finanziaria
 
-1. Dall'attuazione del presente decreto non devono derivare nuovi o maggiori oneri a carico del bilancio dello Stato.
+1.
+
+Dall'attuazione del presente decreto non devono derivare nuovi o maggiori oneri a carico del bilancio dello Stato.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 ottobre 2015
+Dato a Roma, addi' 15 ottobre 2015
 
-Il Ministro della giustizia Orlando Il Ministro dell'economia e delle finanze Padoan
-
-Visto, il Guardasigilli: Orlando Registrato alla Corte dei conti il 17 febbraio 2016 Ufficio controllo atti P.C.M. Ministeri giustizia e affari esteri reg.ne - prev. n. 455
+Il Ministro della giustizia Orlando Il Ministro dell'economia e delle finanze Padoan Visto, il Guardasigilli: Orlando Registrato alla Corte dei conti il 17 febbraio 2016 Ufficio controllo atti P.C.M. Ministeri giustizia e affari esteri reg.ne - prev. n. 455

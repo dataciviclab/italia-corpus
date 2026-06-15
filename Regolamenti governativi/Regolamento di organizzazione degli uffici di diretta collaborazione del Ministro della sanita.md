@@ -1,50 +1,41 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 2001 n. 216
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 216
+data: 2001-03-06
+titolo: "Regolamento di organizzazione degli uffici di diretta collaborazione del Ministro della sanita'."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2001-03-06;216
+codice_redazionale: 001G0277
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 2001 n. 216
-============================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 12 GIUGNO 2003, N. 208))
 
-Regolamento di organizzazione degli uffici di diretta collaborazione del Ministro della sanita'.
-------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 26-6-2001
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 12 GIUGNO 2003, N. 208))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 12 GIUGNO 2003, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-06-12;208)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 12 GIUGNO 2003, N. 208))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 12 GIUGNO 2003, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-06-12;208)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 12 GIUGNO 2003, N. 208))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 12 GIUGNO 2003, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-06-12;208)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 12 GIUGNO 2003, N. 208))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 12 GIUGNO 2003, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-06-12;208)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 12 GIUGNO 2003, N. 208))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 12 GIUGNO 2003, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-06-12;208)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 12 GIUGNO 2003, N. 208))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 12 GIUGNO 2003, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-06-12;208)))
-
-Art. 7
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 12 GIUGNO 2003, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-06-12;208)))
-
-Art. 8
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 12 GIUGNO 2003, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-06-12;208)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 12 GIUGNO 2003, N. 208))

@@ -1,26 +1,19 @@
-DECRETO-LEGGE 19 gennaio 1993 n. 13
+---
+tipo: DECRETO-LEGGE
+numero: 13
+data: 1993-01-19
+titolo: "Misure urgenti per lo sviluppo delle esportazioni."
+urn: urn:nir:stato:decreto.legge:1993-01-19;13
+codice_redazionale: 093G0039
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 19 gennaio 1993 n. 13
-===================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 20 MAGGIO 1993, n. 156](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2025%20marzo%201993%20n.%2078%20recante%20misure%20urgenti%20per%20lo%20sviluppo%20delle%20esportazioni.md)
 
-Misure urgenti per lo sviluppo delle esportazioni.
---------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 21/1/1993Decreto-Legge decaduto per mancata conversione.
-
-Art. 1
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 20 MAGGIO 1993, n. 156](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-05-20;156)
-  
-
-Art. 2
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 20 MAGGIO 1993, n. 156](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-05-20;156)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 20 MAGGIO 1993, n. 156](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2025%20marzo%201993%20n.%2078%20recante%20misure%20urgenti%20per%20lo%20sviluppo%20delle%20esportazioni.md)

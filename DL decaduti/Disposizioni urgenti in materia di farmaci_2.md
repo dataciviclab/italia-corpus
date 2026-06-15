@@ -1,26 +1,19 @@
-DECRETO-LEGGE 28 febbraio 1994 n. 137
+---
+tipo: DECRETO-LEGGE
+numero: 137
+data: 1994-02-28
+titolo: "Disposizioni urgenti in materia di farmaci."
+urn: urn:nir:stato:decreto.legge:1994-02-28;137
+codice_redazionale: 094G0168
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 28 febbraio 1994 n. 137
-=====================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 17 GENNAIO 1997, N. 4](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20novembre%201996%20n.%20583%20recante%20disposizioni%20urgenti%20in%20materia%20sanitaria.md)
 
-Disposizioni urgenti in materia di farmaci.
--------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 01-03-1994.Decreto-Legge decaduto per mancata conversione.
-
-Art. 1
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 17 GENNAIO 1997, N. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-01-17;4)
-  
-
-Art. 2
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 17 GENNAIO 1997, N. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-01-17;4)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 17 GENNAIO 1997, N. 4](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20novembre%201996%20n.%20583%20recante%20disposizioni%20urgenti%20in%20materia%20sanitaria.md)

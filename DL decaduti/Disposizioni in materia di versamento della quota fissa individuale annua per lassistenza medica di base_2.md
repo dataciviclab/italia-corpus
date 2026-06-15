@@ -1,28 +1,21 @@
-DECRETO-LEGGE 19 novembre 1993 n. 464
+---
+tipo: DECRETO-LEGGE
+numero: 464
+data: 1993-11-19
+titolo: "Disposizioni in materia di versamento della quota fissa individuale annua per l'assistenza medica di base."
+urn: urn:nir:stato:decreto.legge:1993-11-19;464
+codice_redazionale: 093G0544
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 19 novembre 1993 n. 464
-=====================================
+DECRETO DECADUTO
 
-Disposizioni in materia di versamento della quota fissa individuale annua per l'assistenza medica di base.
-----------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 19-11-1993.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO   
-
-Art. 2
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 3
-------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

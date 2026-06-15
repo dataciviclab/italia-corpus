@@ -1,13 +1,13 @@
-LEGGE 21 agosto 1953 n. 588
+---
+tipo: LEGGE
+numero: 588
+data: 1953-08-21
+titolo: "Conversione in legge del decreto-legge 21 giugno 1953, n. 451, recante disposizioni sugli scrutini e sugli esami nelle scuole secondarie per l'anno scolastico 1952-53."
+urn: urn:nir:stato:legge:1953-08-21;588
+codice_redazionale: 053U0588
+vigente: true
+---
 
+## Articolo unico.
 
-LEGGE 21 agosto 1953 n. 588
-===========================
-
-Conversione in legge del decreto-legge 21 giugno 1953, n. 451, recante disposizioni sugli scrutini e sugli esami nelle scuole secondarie per l'anno scolastico 1952-53.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Articolo unico
---------------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO, CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133))

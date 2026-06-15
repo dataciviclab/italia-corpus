@@ -1,29 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 agosto 1982 n. 834
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 834
+data: 1982-08-23
+titolo: "Attuazione della direttiva (CEE) n. 78/1031 relativa alle selezionatrici ponderali a funzionamento automatico."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-08-23;834
+codice_redazionale: 082U0834
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 agosto 1982 n. 834
-=============================================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2007, N. 22 ))
 
-Attuazione della direttiva (CEE) n. 78/1031 relativa alle selezionatrici ponderali a funzionamento automatico.
---------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2007, N. 22 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2007, N. 22](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-02-02;22) ))
+## Art. 3.
 
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2007, N. 22](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-02-02;22) ))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2007, N. 22](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-02-02;22) ))
-
-Allegato
-
- ALLEGATO   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2007, N. 22](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-02-02;22) ))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2007, N. 22 ))

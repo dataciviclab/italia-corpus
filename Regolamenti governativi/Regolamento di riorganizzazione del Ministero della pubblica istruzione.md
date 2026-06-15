@@ -1,60 +1,49 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 dicembre 2007 n. 260
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 260
+data: 2007-12-21
+titolo: "Regolamento di riorganizzazione del Ministero della pubblica istruzione."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2007-12-21;260
+codice_redazionale: 008G0005
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 dicembre 2007 n. 260
-===============================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 GENNAIO 2009, N. 17))
 
-Regolamento di riorganizzazione del Ministero della pubblica istruzione.
-------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 6-2-2008
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 GENNAIO 2009, N. 17))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 GENNAIO 2009, N. 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2009-01-20;17)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 GENNAIO 2009, N. 17))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 GENNAIO 2009, N. 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2009-01-20;17)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 GENNAIO 2009, N. 17))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 GENNAIO 2009, N. 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2009-01-20;17)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 GENNAIO 2009, N. 17))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 GENNAIO 2009, N. 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2009-01-20;17)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 GENNAIO 2009, N. 17))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 GENNAIO 2009, N. 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2009-01-20;17)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 GENNAIO 2009, N. 17))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 GENNAIO 2009, N. 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2009-01-20;17)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 GENNAIO 2009, N. 17))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 GENNAIO 2009, N. 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2009-01-20;17)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 GENNAIO 2009, N. 17))
 
-Art. 8
-------
+## Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 GENNAIO 2009, N. 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2009-01-20;17)))
-
-Art. 9
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 GENNAIO 2009, N. 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2009-01-20;17)))
-
-Art. 10
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 GENNAIO 2009, N. 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2009-01-20;17)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 GENNAIO 2009, N. 17))

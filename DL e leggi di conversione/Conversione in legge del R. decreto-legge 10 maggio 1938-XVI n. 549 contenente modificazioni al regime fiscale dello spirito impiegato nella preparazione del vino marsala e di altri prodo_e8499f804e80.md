@@ -1,16 +1,14 @@
-LEGGE 19 gennaio 1939 n. 169
+---
+tipo: LEGGE
+numero: 169
+data: 1939-01-19
+titolo: "Conversione in legge del R. decreto-legge 10 maggio 1938-XVI, n. 549, contenente modificazioni al regime fiscale dello spirito impiegato nella preparazione del vino marsala e di altri prodotti alcolici. (039U0169)"
+urn: urn:nir:stato:legge:1939-01-19;169
+codice_redazionale: 039U0169
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 19 gennaio 1939 n. 169
-============================
-
-Conversione in legge del R. decreto-legge 10 maggio 1938-XVI, n. 549, contenente modificazioni al regime fiscale dello spirito impiegato nella preparazione del vino marsala e di altri prodotti alcolici. (039U0169)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/02/1939
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

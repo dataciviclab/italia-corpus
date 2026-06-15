@@ -1,81 +1,53 @@
-DECRETO-LEGGE 30 giugno 1994 n. 418
+---
+tipo: DECRETO-LEGGE
+numero: 418
+data: 1994-06-30
+titolo: "Disposizioni urgenti per il risanamento ed il riordino della RAI - S.p.a."
+urn: urn:nir:stato:decreto.legge:1994-06-30;418
+codice_redazionale: 094G0461
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 30 giugno 1994 n. 418
-===================================
+DECRETO DECADUTO
 
-Disposizioni urgenti per il risanamento ed il riordino della RAI - S.p.a.
--------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 30-6-1994.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 5
-------
+## Art. 7.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 6
-------
+## Art. 8.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 7
-------
+## Art. 9.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 8
-------
+## Art. 10.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 9
-------
+## Art. 11.
 
-  
-DECRETO DECADUTO   
-
-Art. 10
--------
-
-  
-DECRETO DECADUTO   
-
-Art. 11
--------
-
-  
-DECRETO DECADUTO   
-
-all. 1 - art. 1
-
- ALLEGATO.   
-DECRETO DECADUTO   
+DECRETO DECADUTO

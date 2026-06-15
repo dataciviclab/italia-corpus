@@ -1,90 +1,73 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1988 n. 224
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 224
+data: 1988-05-24
+titolo: "Attuazione della direttiva CEE n. 85/374 relativa al ravvicinamento delle disposizioni legislative, regolamentari e amministrative degli Stati membri in materia di responsabilita' per danno da prodotti difettosi, ai sensi dell'art. 15 della legge 16 aprile 1987, n. 183."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1988-05-24;224
+codice_redazionale: 088G0263
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1988 n. 224
-=============================================================
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206 ))
 
-Attuazione della direttiva CEE n. 85/374 relativa al ravvicinamento delle disposizioni legislative, regolamentari e amministrative degli Stati membri in materia di responsabilita' per danno da prodotti difettosi, ai sensi dell'art. 15 della legge 16 aprile 1987, n. 183.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 8-7-1988
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206 ))
 
-Art. 1
-------
+## Art. 3.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206 ))
 
-Art. 2
-------
+## Art. 4.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206 ))
 
-Art. 3
-------
+## Art. 5.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206 ))
 
-Art. 4
-------
+## Art. 6.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206 ))
 
-Art. 5
-------
+## Art. 7.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206 ))
 
-Art. 6
-------
+## Art. 8.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206 ))
 
-Art. 7
-------
+## Art. 9.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206 ))
 
-Art. 8
-------
+## Art. 10.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206 ))
 
-Art. 9
-------
+## Art. 11.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206 ))
 
-Art. 10
--------
+## Art. 12.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206 ))
 
-Art. 11
--------
+## Art. 13.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206 ))
 
-Art. 12
--------
+## Art. 14.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206 ))
 
-Art. 13
--------
+## Art. 15.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206 ))
 
-Art. 14
--------
+## Art. 16.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) ))
-
-Art. 15
--------
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) ))
-
-Art. 16
--------
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206 ))

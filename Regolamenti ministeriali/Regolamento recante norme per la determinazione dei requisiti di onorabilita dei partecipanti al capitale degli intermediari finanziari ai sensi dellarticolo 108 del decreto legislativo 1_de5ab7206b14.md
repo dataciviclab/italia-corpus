@@ -1,20 +1,18 @@
-DECRETO 30 dicembre 1998 n. 517
-
-
-DECRETO 30 dicembre 1998 n. 517
-===============================
-
-Regolamento recante norme per la determinazione dei requisiti di onorabilita' dei partecipanti al capitale degli intermediari finanziari, ai sensi dell'articolo 108 del decreto legislativo 1 settembre 1993, n. 385.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 24-4-1999
+---
+tipo: DECRETO
+numero: 517
+data: 1998-12-30
+titolo: "Regolamento recante norme per la determinazione dei requisiti di onorabilita' dei partecipanti al capitale degli intermediari finanziari, ai sensi dell'articolo 108 del decreto legislativo 1 settembre 1993, n. 385."
+urn: urn:nir:ministero.tesoro.bilancio.e.programmazione.economica:decreto:1998-12-30;517
+codice_redazionale: 099G0148
+vigente: true
+---
 
 IL MINISTRO DEL TESORO, DEL BILANCIO
-------------------------------------
 
 E DELLA PROGRAMMAZIONE ECONOMICA
 
-Visto il testo unico delle leggi in materia bancaria e creditizia (di seguito "testo unico") emanato con [decreto legislativo 1 settembre 1993, n. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385);
+Visto il testo unico delle leggi in materia bancaria e creditizia (di seguito "testo unico") emanato con [decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385);
 
 Visto l'articolo 108, comma 1, del testo unico, in base al quale i partecipanti al capitale degli intermediari iscritti nell'elenco previsto dall'articolo 106 del testo unico medesimo (di seguito "intermediari finanziari") devono possedere i requisiti di onorabilita' stabiliti con regolamento del Ministro del tesoro, adottato sentiti la Banca d'Italia e l'U.I.C.;
 
@@ -24,99 +22,97 @@ Sentita la Banca d'Italia;
 
 Sentito l'Ufficio italiano dei cambi;
 
-Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3);
+Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
 Udito il parere del Consiglio di Stato espresso nell'adunanza della sezione consultiva per gli atti normativi in data 9 novembre 1998;
 
-Vista la nota del 7 dicembre 1998 con la quale, ai sensi dell'articolo 17, comma 3, della citata [legge n. 400 del 1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400), lo schema di regolamento e' stato comunicato alla Presidenza del Consiglio dei Ministri;
+Vista la nota del 7 dicembre 1998 con la quale, ai sensi dell'articolo 17, comma 3, della citata [legge n. 400 del 1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400), lo schema di regolamento e' stato comunicato alla Presidenza del Consiglio dei Ministri;
 
-Adotta
-------
+Adotta il seguente regolamento:
 
-il seguente regolamento:
+## Art. 1. — Onorabilita' dei partecipanti al capitale
+ di intermediari finanziari
 
-Art. 1
-------
+1.
 
-Onorabilita' dei partecipanti al capitale  
-di intermediari finanziari
+Chiunque partecipa in un intermediario finanziario in misura superiore al 5 per cento del capitale rappresentato da azioni con diritto di voto non puo' esercitare il diritto di voto, inerente alle azioni o quote eccedenti, qualora:
+                        a)
+                            sia stato sottoposto a misure di prevenzione disposte dall'autorita' giudiziaria ai sensi della [legge 27 dicembre 1956, n. 1423](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20di%20prevenzione%20nei%20confronti%20delle%20persone%20pericolose%20per%20la%20sicurezza%20e%20per%20la%20pubblica%20moralita.md) o della [legge 31 maggio 1965, n. 575](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20contro%20la%20mafia.md), e successive modificazioni ed integrazioni, salvi gli effetti della riabilitazione;
+                        b)
+                            sia stato condannato con sentenza irrevocabile, salvi gli effetti della riabilitazione:
+ 1) a pena detentiva per un tempo non inferiore a sei mesi per uno dei reati previsti dalle norme che disciplinano l'attivita' bancaria, finanziaria, mobiliare, assicurativa e dalle norme in materia di mercati e valori mobiliari, di strumenti di pagamento;
+ 2) alla reclusione per un tempo non inferiore a sei mesi per uno dei delitti previsti nel titolo XI del libro V del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) e nel [regio decreto del 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267);
+ 3) alla reclusione per un tempo non inferiore ad un anno per un delitto contro la pubblica amministrazione, contro la fede pubblica, contro il patrimonio, contro l'ordine pubblico, contro l'economia pubblica ovvero per un delitto in materia tributaria;
+ 4) alla reclusione per un tempo non inferiore a due anni per un qualunque delitto non colposo;
+                        c)
+                            sia stato condannato con sentenza che applica la pena su richiesta delle parti, salvo il caso di estinzione del reato, ad una delle pene indicate alla lettera b). Le pene di cui alla lettera b), n. 1) e n. 2), non rilevano se inferiori ad un anno.
 
-1. Chiunque partecipa in un intermediario finanziario in misura superiore al 5 per cento del capitale rappresentato da azioni con diritto di voto non puo' esercitare il diritto di voto, inerente alle azioni o quote eccedenti, qualora:
+2.
 
-a) sia stato sottoposto a misure di prevenzione disposte dall'autorita' giudiziaria ai sensi della [legge 27 dicembre 1956, n. 1423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-27;1423) o della [legge 31 maggio 1965, n. 575](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575), e successive modificazioni ed integrazioni, salvi gli effetti della riabilitazione;
+La disposizione di cui al comma 1 si applica anche a chiunque, indipendentemente dall'entita' della partecipazione posseduta, controlla l'intermediario finanziario ai sensi dell'articolo 23 del testo unico. In tal caso la sospensione del diritto di voto interessa l'intera partecipazione.
 
-b) sia stato condannato con sentenza irrevocabile, salvi gli effetti della riabilitazione:  
-1) a pena detentiva per un tempo non inferiore a sei mesi per uno dei reati previsti dalle norme che disciplinano l'attivita' bancaria, finanziaria, mobiliare, assicurativa e dalle norme in materia di mercati e valori mobiliari, di strumenti di pagamento;  
-2) alla reclusione per un tempo non inferiore a sei mesi per uno dei delitti previsti nel titolo XI del libro V del [codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) e nel [regio decreto del 16 marzo 1942, n. 267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267);  
-3) alla reclusione per un tempo non inferiore ad un anno per un delitto contro la pubblica amministrazione, contro la fede pubblica, contro il patrimonio, contro l'ordine pubblico, contro l'economia pubblica ovvero per un delitto in materia tributaria;  
-4) alla reclusione per un tempo non inferiore a due anni per un qualunque delitto non colposo;
+3.
 
-c) sia stato condannato con sentenza che applica la pena su richiesta delle parti, salvo il caso di estinzione del reato, ad una delle pene indicate alla lettera b). Le pene di cui alla lettera b), n. 1) e n. 2), non rilevano se inferiori ad un anno.
+Qualora il partecipante sia una persona giuridica, i requisiti di cui al comma 1 devono essere posseduti dagli amministratori e dal direttore.
 
-2. La disposizione di cui al comma 1 si applica anche a chiunque, indipendentemente dall'entita' della partecipazione posseduta, controlla l'intermediario finanziario ai sensi dell'articolo 23 del testo unico. In tal caso la sospensione del diritto di voto interessa l'intera partecipazione.
+4.
 
-3. Qualora il partecipante sia una persona giuridica, i requisiti di cui al comma 1 devono essere posseduti dagli amministratori e dal direttore.
+Con riferimento alle fattispecie disciplinate da ordinamenti stranieri, la verifica della sussistenza dei requisiti previsti dal presente articolo e' effettuata sulla base di una valutazione di equivalenza sostanziale.
 
-4. Con riferimento alle fattispecie disciplinate da ordinamenti stranieri, la verifica della sussistenza dei requisiti previsti dal presente articolo e' effettuata sulla base di una valutazione di equivalenza sostanziale.
+5.
 
-5. Spetta al presidente dell'assemblea dei soci, in relazione ai suoi compiti di verifica della regolare costituzione dell'assemblea e della legittimazione dei soci, ammettere o non ammettere al voto i soggetti che, sulla base delle informazioni disponibili, sono tenuti a comprovare il possesso del requisito di onorabilita'.
+Spetta al presidente dell'assemblea dei soci, in relazione ai suoi compiti di verifica della regolare costituzione dell'assemblea e della legittimazione dei soci, ammettere o non ammettere al voto i soggetti che, sulla base delle informazioni disponibili, sono tenuti a comprovare il possesso del requisito di onorabilita'.
 
-Avvertenza:  
-Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.  
-Nota al titolo:  
-- Per il testo dell'[art. 108 del D.Lgs. n. 385/1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;385~art108), v. nelle note alle premesse.  
-Note alle premesse:  
-- Il [D.Lgs. 1 settembre 1993, n. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), reca: "Testo unico delle leggi in materia bancaria e creditizia".  
-- Il testo dell'art. 106 del citato [D.Lgs. 1 settembre 1993, n. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), e' il seguente:  
-"1. L'esercizio nei confronti del pubblico delle attivita' di assunzione di partecipazioni, di concessione di finanziamenti sotto qualsiasi forma, di prestazione di servizi di pagamento e di intermediazione in cambi e' riservato a intermediari finanziari iscritti in un apposito elenco tenuto dal Ministro del tesoro, che si avvale dell'U.I.C.  
-2. Gli intermediari finanziari indicati nel comma 1 possono svolgere esclusivamente attivita' finanziarie, fatte salve le riserve di attivita' previste dalla legge.  
-3. L'iscrizione nell'elenco e' subordinata al ricorrere delle seguenti condizioni:  
-a) forma di societa' per azioni, di societa' in accomandita per azioni, di societa' a responsabilita' limitata o di societa' cooperativa;  
-b) oggetto sociale conforme al disposto del comma 2;  
-c) capitale sociale versato non inferiore a cinque volte il capitale minimo previsto per la costituzione delle societa' per azioni;  
-d) possesso da parte dei partecipanti al capitale e degli esponenti aziendali dei requisiti previsti dagli articoli 108 e 109.  
-4. Il Ministro del tesoro, sentiti la Banca d'Italia e l'U.I.C.:  
-a) specifica il contenuto delle attivita' indicate nel comma 1, nonche' in quali circostanze ricorra l'esercizio nei confronti del pubblico. Il credito al consumo si considera comunque esercitato nei confronti del pubblico anche quando sia limitato all'ambito dei soci;  
-b) per gli intermediari finanziari che svolgono determinati tipi di attivita', puo', in deroga a quanto previsto dal comma 3, vincolare la scelta della forma giuridica, consentire l'assunzione di altre forme giuridiche e stabilire diversi requisiti patrimoniali.  
-5. Le modalita' di iscrizione nell'elenco sono disciplinate dal Ministro del tesoro, sentito l'U.I.C.;  
-l'U.I.C. da' comunicazione delle iscrizioni alla Banca d'Italia e alla Consob.  
-6. L'U.I.C. puo' chiedere agli intermediari finanziari la comunicazione di dati e notizie per verificare il permanere delle condizioni per l'iscrizione nell'elenco.  
-7. I soggetti che svolgono funzioni di amministrazione, direzione e controllo presso gli intermediari finanziari comunicano all'U.I.C., con le modalita' dallo stesso stabilite, le cariche analoghe ricoperte presso altre societa' ed enti di qualsiasi natura".  
-- Il testo dell'[art. 108, commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385~art108-com1) e [2, del D.Lgs. 1 settembre 1993, n. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385~art108-com2), e' il seguente:  
-"1. Il Ministro del tesoro, sentiti la Banca d'Italia e l'U.I.C., determina, con regolamento emanato ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3), i requisiti di onorabilita' dei partecipanti al capitale degli intermediari finanziari.  
-2. Con il regolamento previsto dal comma 1 il Ministro del tesoro stabilisce la quota del capitale che deve essere posseduta per l'applicazione del medesimo comma 1. A questo fine si considerano anche le azioni o quote possedute per il tramite di societa' controllate, societa' fiduciarie o per interposta persona".  
-- Il testo dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3), recante: "Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri", e' il seguente:  
-"3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione".  
-Note all'[art. 1:  
-- La legge 27 dicembre 1956, n. 1423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-27;1423~art1), reca: "Misure di prevenzione nei confronti delle persone pericolose per la sicurezza e per la pubblica moralita'".  
-- La [legge 31 maggio 1965, n. 575](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575), reca: "Disposizioni contro la mafia".  
-- Il titolo XI del libro V del [codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) recita: "Disposizioni penali in materia di societa' e di consorzi", e il [regio decreto del 16 marzo 1942, n. 267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267), recita: "Disciplina del fallimento, del concordato preventivo, della amministrazione controllata e della liquidazione coatta amministrativa".  
-- Il testo dell'art 23 del citato [D.Lgs. 1 settembre 1993, n. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), e' il seguente:  
-"Art. 23. - 1. Ai fini del presente capo il controllo sussiste, anche con riferimento a soggetti diversi dalle societa', nei casi previsti dall'[art. 2359, commi primo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2359-com1) e [secondo, del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2359-com2).  
-2. Il controllo si considera esistente nella forma dell'influenza dominante, salvo prova contraria, allorche' ricorra una delle seguenti situazioni:  
-1) esistenza di un soggetto che, in base ad accordi con altri soci, ha il diritto di nominare o revocare la maggioranza degli amministratori ovvero dispone da solo della maggioranza dei voti esercitabili nell'assemblea ordinaria;  
-2) possesso di una partecipazione idonea a consentire la nomina o la revoca della maggioranza dei membri del consiglio di aministrazione;  
-3) sussistenza di rapporti, anche tra soci, di carattere finanziario e organizzativo idonei a conseguire uno dei seguenti effetti:  
-a) la trasmissione degli utili o delle perdite;  
-b) il coordinamento della gestione dell'impresa con quella di altre imprese ai fini del perseguimento di uno scopo comune;  
-c) l'attribuzione di poteri maggiori rispetto a quelli derivanti dalle azioni o dalle quote possedute;  
-d) l'attribuzione a soggetti diversi da quelli legittimati in base all'assetto proprietario di poteri nella scelta di amministratori e dei dirigenti delle imprese;  
-4) assoggettamento a direzione comune, in base alla composizione degli organi amministrativi o per altri concordanti elementi".
+Avvertenza:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Nota al titolo:
+ - Per il testo dell'[art. 108 del D.Lgs. n. 385/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;385#art_108), v. nelle note alle premesse.
+ Note alle premesse:
+ - Il [D.Lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), reca: "Testo unico delle leggi in materia bancaria e creditizia".
+ - Il testo dell'art. 106 del citato [D.Lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), e' il seguente:
+ "1. L'esercizio nei confronti del pubblico delle attivita' di assunzione di partecipazioni, di concessione di finanziamenti sotto qualsiasi forma, di prestazione di servizi di pagamento e di intermediazione in cambi e' riservato a intermediari finanziari iscritti in un apposito elenco tenuto dal Ministro del tesoro, che si avvale dell'U.I.C.
+ 2. Gli intermediari finanziari indicati nel comma 1 possono svolgere esclusivamente attivita' finanziarie, fatte salve le riserve di attivita' previste dalla legge.
+ 3. L'iscrizione nell'elenco e' subordinata al ricorrere delle seguenti condizioni:
+ a) forma di societa' per azioni, di societa' in accomandita per azioni, di societa' a responsabilita' limitata o di societa' cooperativa;
+ b) oggetto sociale conforme al disposto del comma 2;
+ c) capitale sociale versato non inferiore a cinque volte il capitale minimo previsto per la costituzione delle societa' per azioni;
+ d) possesso da parte dei partecipanti al capitale e degli esponenti aziendali dei requisiti previsti dagli articoli 108 e 109.
+ 4. Il Ministro del tesoro, sentiti la Banca d'Italia e l'U.I.C.:
+ a) specifica il contenuto delle attivita' indicate nel comma 1, nonche' in quali circostanze ricorra l'esercizio nei confronti del pubblico. Il credito al consumo si considera comunque esercitato nei confronti del pubblico anche quando sia limitato all'ambito dei soci;
+ b) per gli intermediari finanziari che svolgono determinati tipi di attivita', puo', in deroga a quanto previsto dal comma 3, vincolare la scelta della forma giuridica, consentire l'assunzione di altre forme giuridiche e stabilire diversi requisiti patrimoniali.
+ 5. Le modalita' di iscrizione nell'elenco sono disciplinate dal Ministro del tesoro, sentito l'U.I.C.;
+ l'U.I.C. da' comunicazione delle iscrizioni alla Banca d'Italia e alla Consob.
+ 6. L'U.I.C. puo' chiedere agli intermediari finanziari la comunicazione di dati e notizie per verificare il permanere delle condizioni per l'iscrizione nell'elenco.
+ 7. I soggetti che svolgono funzioni di amministrazione, direzione e controllo presso gli intermediari finanziari comunicano all'U.I.C., con le modalita' dallo stesso stabilite, le cariche analoghe ricoperte presso altre societa' ed enti di qualsiasi natura".
+ - Il testo dell'[art. 108, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_108-com1) e [2, del D.Lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_108-com2), e' il seguente:
+ "1. Il Ministro del tesoro, sentiti la Banca d'Italia e l'U.I.C., determina, con regolamento emanato ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), i requisiti di onorabilita' dei partecipanti al capitale degli intermediari finanziari.
+ 2. Con il regolamento previsto dal comma 1 il Ministro del tesoro stabilisce la quota del capitale che deve essere posseduta per l'applicazione del medesimo comma 1. A questo fine si considerano anche le azioni o quote possedute per il tramite di societa' controllate, societa' fiduciarie o per interposta persona".
+ - Il testo dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), recante: "Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri", e' il seguente:
+ "3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione".
+ Note all'[art. 1:
+ - La legge 27 dicembre 1956, n. 1423](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20di%20prevenzione%20nei%20confronti%20delle%20persone%20pericolose%20per%20la%20sicurezza%20e%20per%20la%20pubblica%20moralita.md), reca: "Misure di prevenzione nei confronti delle persone pericolose per la sicurezza e per la pubblica moralita'".
+ - La [legge 31 maggio 1965, n. 575](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20contro%20la%20mafia.md), reca: "Disposizioni contro la mafia".
+ - Il titolo XI del libro V del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) recita: "Disposizioni penali in materia di societa' e di consorzi", e il [regio decreto del 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267), recita: "Disciplina del fallimento, del concordato preventivo, della amministrazione controllata e della liquidazione coatta amministrativa".
+ - Il testo dell'art 23 del citato [D.Lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), e' il seguente:
+ "Art. 23. - 1. Ai fini del presente capo il controllo sussiste, anche con riferimento a soggetti diversi dalle societa', nei casi previsti dall'[art. 2359, commi primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2359-com1) e [secondo, del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2359-com2).
+ 2. Il controllo si considera esistente nella forma dell'influenza dominante, salvo prova contraria, allorche' ricorra una delle seguenti situazioni:
+ 1) esistenza di un soggetto che, in base ad accordi con altri soci, ha il diritto di nominare o revocare la maggioranza degli amministratori ovvero dispone da solo della maggioranza dei voti esercitabili nell'assemblea ordinaria;
+ 2) possesso di una partecipazione idonea a consentire la nomina o la revoca della maggioranza dei membri del consiglio di aministrazione;
+ 3) sussistenza di rapporti, anche tra soci, di carattere finanziario e organizzativo idonei a conseguire uno dei seguenti effetti:
+ a) la trasmissione degli utili o delle perdite;
+ b) il coordinamento della gestione dell'impresa con quella di altre imprese ai fini del perseguimento di uno scopo comune;
+ c) l'attribuzione di poteri maggiori rispetto a quelli derivanti dalle azioni o dalle quote possedute;
+ d) l'attribuzione a soggetti diversi da quelli legittimati in base all'assetto proprietario di poteri nella scelta di amministratori e dei dirigenti delle imprese;
+ 4) assoggettamento a direzione comune, in base alla composizione degli organi amministrativi o per altri concordanti elementi".
 
-Art. 2
-------
+## Art. 2. — Norme transitorie
 
-Norme transitorie
+1.
 
-1. Per i soggetti che partecipano al capitale di un intermediario finanziario alla data di entrata in vigore del presente regolamento la mancanza dei requisiti di cui all'art. 1 non previsti dalla normativa previgente non rileva, se verificatasi antecedentemente alla data stessa, limitatamente alla partecipazione gia' detenuta.
+Per i soggetti che partecipano al capitale di un intermediario finanziario alla data di entrata in vigore del presente regolamento la mancanza dei requisiti di cui all'art. 1 non previsti dalla normativa previgente non rileva, se verificatasi antecedentemente alla data stessa, limitatamente alla partecipazione gia' detenuta.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 30 dicembre 1998
+Roma, 30 dicembre 1998
 
-p. Il Ministro: Pinza
-
-Visto, il Guardasigilli: Diliberto Registrato alla Corte dei conti il 26 marzo 1999
-
-Registro n. 1 Tesoro, bilancio e programmazione economica, foglio n. 353
+p. Il Ministro: Pinza Visto, il Guardasigilli: Diliberto Registrato alla Corte dei conti il 26 marzo 1999 Registro n. 1 Tesoro, bilancio e programmazione economica, foglio n. 353

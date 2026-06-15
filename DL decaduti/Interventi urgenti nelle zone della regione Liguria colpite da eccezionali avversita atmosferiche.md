@@ -1,90 +1,59 @@
-DECRETO-LEGGE 05 ottobre 1992 n. 397
+---
+tipo: DECRETO-LEGGE
+numero: 397
+data: 1992-10-05
+titolo: "Interventi urgenti nelle zone della regione Liguria colpite da eccezionali avversita' atmosferiche."
+urn: urn:nir:stato:decreto.legge:1992-10-05;397
+codice_redazionale: 092G0440
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 05 ottobre 1992 n. 397
-====================================
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 1 FEBBRAIO 1993, N. 25](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%204%20dicembre%201992%20n.%20471%20recante%20interventi%20urgenti%20nelle%20zone%20delle%20regioni%20Liguria%20e%20Toscana%20colpite%20da%20eccezionali%20avversita%20atmosferiche.md)
 
-Interventi urgenti nelle zone della regione Liguria colpite da eccezionali avversita' atmosferiche.
----------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 5/10/1992.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 1 FEBBRAIO 1993, N. 25](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%204%20dicembre%201992%20n.%20471%20recante%20interventi%20urgenti%20nelle%20zone%20delle%20regioni%20Liguria%20e%20Toscana%20colpite%20da%20eccezionali%20avversita%20atmosferiche.md)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 1 FEBBRAIO 1993, N. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-01;25)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 1 FEBBRAIO 1993, N. 25](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%204%20dicembre%201992%20n.%20471%20recante%20interventi%20urgenti%20nelle%20zone%20delle%20regioni%20Liguria%20e%20Toscana%20colpite%20da%20eccezionali%20avversita%20atmosferiche.md)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 1 FEBBRAIO 1993, N. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-01;25)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 1 FEBBRAIO 1993, N. 25](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%204%20dicembre%201992%20n.%20471%20recante%20interventi%20urgenti%20nelle%20zone%20delle%20regioni%20Liguria%20e%20Toscana%20colpite%20da%20eccezionali%20avversita%20atmosferiche.md)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 1 FEBBRAIO 1993, N. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-01;25)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 1 FEBBRAIO 1993, N. 25](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%204%20dicembre%201992%20n.%20471%20recante%20interventi%20urgenti%20nelle%20zone%20delle%20regioni%20Liguria%20e%20Toscana%20colpite%20da%20eccezionali%20avversita%20atmosferiche.md)
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 1 FEBBRAIO 1993, N. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-01;25)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 1 FEBBRAIO 1993, N. 25](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%204%20dicembre%201992%20n.%20471%20recante%20interventi%20urgenti%20nelle%20zone%20delle%20regioni%20Liguria%20e%20Toscana%20colpite%20da%20eccezionali%20avversita%20atmosferiche.md)
 
-Art. 5
-------
+## Art. 7.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 1 FEBBRAIO 1993, N. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-01;25)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 1 FEBBRAIO 1993, N. 25](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%204%20dicembre%201992%20n.%20471%20recante%20interventi%20urgenti%20nelle%20zone%20delle%20regioni%20Liguria%20e%20Toscana%20colpite%20da%20eccezionali%20avversita%20atmosferiche.md)
 
-Art. 6
-------
+## Art. 8.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 1 FEBBRAIO 1993, N. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-01;25)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 1 FEBBRAIO 1993, N. 25](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%204%20dicembre%201992%20n.%20471%20recante%20interventi%20urgenti%20nelle%20zone%20delle%20regioni%20Liguria%20e%20Toscana%20colpite%20da%20eccezionali%20avversita%20atmosferiche.md)
 
-Art. 7
-------
+## Art. 9.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 1 FEBBRAIO 1993, N. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-01;25)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 1 FEBBRAIO 1993, N. 25](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%204%20dicembre%201992%20n.%20471%20recante%20interventi%20urgenti%20nelle%20zone%20delle%20regioni%20Liguria%20e%20Toscana%20colpite%20da%20eccezionali%20avversita%20atmosferiche.md)
 
-Art. 8
-------
+## Art. 10.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 1 FEBBRAIO 1993, N. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-01;25)
-  
-
-Art. 9
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 1 FEBBRAIO 1993, N. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-01;25)
-  
-
-Art. 10
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 1 FEBBRAIO 1993, N. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-01;25)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 1 FEBBRAIO 1993, N. 25](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%204%20dicembre%201992%20n.%20471%20recante%20interventi%20urgenti%20nelle%20zone%20delle%20regioni%20Liguria%20e%20Toscana%20colpite%20da%20eccezionali%20avversita%20atmosferiche.md)

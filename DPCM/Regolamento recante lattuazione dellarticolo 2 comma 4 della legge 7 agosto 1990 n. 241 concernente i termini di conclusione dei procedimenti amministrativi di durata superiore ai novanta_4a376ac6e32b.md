@@ -1,32 +1,30 @@
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 18 febbraio 2011 n. 46
-
-
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 18 febbraio 2011 n. 46
-========================================================================
-
-Regolamento recante l'attuazione dell'articolo 2, comma 4, della legge 7 agosto 1990, n. 241, concernente i termini di conclusione dei procedimenti amministrativi di durata superiore ai novanta giorni del Ministero del lavoro e delle politiche sociali. (11G0086)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/05/2011
+---
+tipo: DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
+numero: 46
+data: 2011-02-18
+titolo: "Regolamento recante l'attuazione dell'articolo 2, comma 4, della legge 7 agosto 1990, n. 241, concernente i termini di conclusione dei procedimenti amministrativi di durata superiore ai novanta giorni del Ministero del lavoro e delle politiche sociali. (11G0086)"
+urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2011-02-18;46
+codice_redazionale: 011G0086
+vigente: true
+---
 
 IL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
-----------------------------------------
 
-Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3);
+Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-Vista la [legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241), e successive modificazioni;
+Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241), e successive modificazioni;
 
-Visto, in particolare, l'articolo 2, comma 4, della medesima [legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241), come modificato dall'[articolo 7 della legge 18 giugno 2009, n. 69](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-18;69~art7);
+Visto, in particolare, l'articolo 2, comma 4, della medesima [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241), come modificato dall'[articolo 7 della legge 18 giugno 2009, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-18;69#art_7);
 
-Visto il decreto del Ministro per la pubblica amministrazione e l'innovazione in data 12 gennaio 2010, concernente «Approvazione delle linee di indirizzo per l'attuazione dell'[articolo 7 della legge 18 giugno 2009, n. 69](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-18;69~art7)»;
+Visto il decreto del Ministro per la pubblica amministrazione e l'innovazione in data 12 gennaio 2010, concernente «Approvazione delle linee di indirizzo per l'attuazione dell'[articolo 7 della legge 18 giugno 2009, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-18;69#art_7)»;
 
-Visto il [decreto ministeriale 12 gennaio 1995, n. 227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1995-01-12;227), recante: «Regolamento di attuazione degli [articoli 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art2) e [4 della legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art4), recante nuove norme in materia di procedimento amministrativo e diritto d'accesso ai documenti amministrativi, relativamente ai procedimenti amministrativi di competenza di organi dell'Amministrazione del lavoro e della previdenza sociale»;
+Visto il [decreto ministeriale 12 gennaio 1995, n. 227](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1995-01-12;227), recante: «Regolamento di attuazione degli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_2) e [4 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_4), recante nuove norme in materia di procedimento amministrativo e diritto d'accesso ai documenti amministrativi, relativamente ai procedimenti amministrativi di competenza di organi dell'Amministrazione del lavoro e della previdenza sociale»;
 
-Visto il [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445), recante il «[Testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445)» e successive modificazioni e integrazioni;
+Visto il [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), recante il «[Testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md)» e successive modificazioni e integrazioni;
 
-Visto il [decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165), e successive modificazioni;
+Visto il [decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), e successive modificazioni;
 
-Visto il [decreto del Presidente della Repubblica 29 luglio 2004, n. 244](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-07-29;244), recante: «Regolamento di riorganizzazione del Ministero del lavoro e delle politiche sociali»;
+Visto il [decreto del Presidente della Repubblica 29 luglio 2004, n. 244](../Regolamenti%20governativi/Regolamento%20di%20riorganizzazione%20del%20Ministero%20del%20lavoro%20e%20delle%20politiche%20sociali.md), recante: «Regolamento di riorganizzazione del Ministero del lavoro e delle politiche sociali»;
 
 Visto il decreto del Ministro del lavoro e delle politiche sociali in data 1° dicembre 2004, come modificato dal decreto del Ministro del lavoro e delle politiche sociali del 31 marzo 2010, concernente «l'individuazione degli uffici di livello dirigenziale non generale del Segretariato generale e delle direzioni generali e al definizione dei relativi compiti»;
 
@@ -34,231 +32,59 @@ Tenuto conto della sostenibilita' dei tempi sotto il profilo dell'organizzazione
 
 Vista la deliberazione preliminare del Consiglio dei Ministri, adottata nella riunione del 29 ottobre 2010;
 
-Udito il [parere del Consiglio di Stato, n. 4918](https://e-justice.europa.eu/ecli/ECLI::::) espresso dalla sezione consultiva per gli atti normativi, nell'adunanza del 9 dicembre 2010;
+Udito il parere del Consiglio di Stato, n. 4918 espresso dalla sezione consultiva per gli atti normativi, nell'adunanza del 9 dicembre 2010;
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 18 febbraio 2011;
 
 Su proposta del Ministro del lavoro e delle politiche sociali, del Ministro per la pubblica amministrazione e l'innovazione e del Ministro per la semplificazione normativa;
 
-Adotta
-------
+Adotta il seguente regolamento:
 
-il seguente regolamento:
+## Art. 1. — Ambito di applicazione
 
-Art. 1
-------
+1.
 
-Ambito di applicazione
+Il presente decreto individua i procedimenti amministrativi di competenza delle strutture del Ministero del lavoro e delle politiche sociali, sia che conseguano obbligatoriamente a iniziativa di parte, sia che debbano essere promossi d'ufficio, i cui termini siano superiori a novanta giorni.
 
-1. Il presente decreto individua i procedimenti amministrativi di competenza delle strutture del Ministero del lavoro e delle politiche sociali, sia che conseguano obbligatoriamente a iniziativa di parte, sia che debbano essere promossi d'ufficio, i cui termini siano superiori a novanta giorni.
+2.
 
-2. Ciascun procedimento si conclude nel termine stabilito nella tabella allegata, che costituisce parte integrante del presente regolamento.
+Ciascun procedimento si conclude nel termine stabilito nella tabella allegata, che costituisce parte integrante del presente regolamento.
 
-Avvertenza:   
-- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.   
-Note alle premesse:   
-- Si riporta il testo dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), pubblicata nella Gazzetta Ufficiale 12 settembre 1988, n. 214, S.O.:   
-«3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.   
-I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.»   
-- La [legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241) (Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi), e' pubblicata nella Gazzetta Ufficiale 18 agosto 1990, n. 192.   
-- Si riporta il testo dell'[art. 2 della legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art2) (Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi), pubblicata nella Gazzetta Ufficiale 18 agosto 1990, n. 192, come modificato, nei [commi dal 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-18;69~art7-com2) [al 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-18;69~art7-com5), dal [comma 3 dell'art. 7, legge 18 giugno 2009, n. 69](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-18;69~art7-com3):   
-«Art. 2 (Conclusione del procedimento). - 1. Ove il procedimento consegua obbligatoriamente ad un'istanza,ovvero debba essere iniziato d'ufficio, le pubbliche amministrazioni hanno il dovere di concluderlo mediante l'adozione di un provvedimento espresso.   
-2. Nei casi in cui disposizioni di legge ovvero i provvedimenti di cui ai commi 3, 4 e 5 non prevedono un termine diverso, i procedimenti amministrativi di competenza delle amministrazioni statali e degli enti pubblici nazionali devono concludersi entro il termine di trenta giorni.   
-3. Con uno o piu' decreti del Presidente del Consiglio dei Ministri, adottati ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3), su proposta dei Ministri competenti e di concerto con i Ministri per la pubblica amministrazione e l'innovazione e per la semplificazione normativa, sono individuati i termini non superiori a novanta giorni entro i quali devono concludersi i procedimenti di competenza delle amministrazioni statali.  
-Gli enti pubblici nazionali stabiliscono, secondo i propri ordinamenti, i termini non superiori a novanta giorni entro i quali devono concludersi i procedimenti di propria competenza.   
-4. Nei casi in cui, tenendo conto della sostenibilita' dei tempi sotto il profilo dell'organizzazione amministrativa, della natura degli interessi pubblici tutelati e della particolare complessita' del procedimento, sono indispensabili termini superiori a novanta giorni per la conclusione dei procedimenti di competenza delle amministrazioni statali e degli enti pubblici nazionali, i decreti di cui al comma 3 sono adottati su proposta anche dei Ministri per la pubblica amministrazione e l'innovazione e per la semplificazione normativa e previa deliberazione del Consiglio dei Ministri. I termini ivi previsti non possono comunque superare i centottanta giorni, con la sola esclusione dei procedimenti di acquisto della cittadinanza italiana e di quelli riguardanti l'immigrazione.»   
-- Il decreto ministeriale 12 gennaio 2010 (Approvazione delle linee di indirizzo per l'attuazione dell'[art. 7 della legge 18 giugno 2009, n. 69](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-18;69~art7)) e' pubblicato nella Gazzetta Ufficiale 1° aprile 2010, n. 76.   
-- Il [decreto ministeriale 12 gennaio 1995, n. 227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1995-01-12;227) (Regolamento di attuazione degli [articoli 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art2), [4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art4) e [10 della legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art10), recante nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi, relativamente ai procedimenti amministrativi di competenza di organi dell'Amministrazione del lavoro e della previdenza sociale), abrogato dal presente decreto, e' pubblicato nella Gazzetta Ufficiale 10 giugno 1995, n. 134, S.O.   
-- Il [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445) ([Testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445). - Testo A -) e' pubblicato nella Gazzetta Ufficiale 20 febbraio 2001, n. 42, S.O.   
-- Il [decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165) (Norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche), e' pubblicato nella Gazzetta Ufficiale 9 maggio 2001, n. 106, S.O.   
-- Il [decreto del Presidente della Repubblica 29 luglio 2004, n. 244](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-07-29;244) (Regolamento di riorganizzazione del Ministero del lavoro e delle politiche sociali), e' pubblicato nella Gazzetta Ufficiale 22 settembre 2004, n. 223.   
-- Il decreto del Ministro del lavoro e delle politiche sociali 31 marzo 2010 (Individuazione degli uffici di livello dirigenziale non generale del Segretariato generale e delle direzioni generali e la definizione dei relativi compiti), e' pubblicato nel Supplemento ordinario al Bollettino ufficiale del [Ministero del lavoro e delle politiche sociali 30 giugno 2010, n. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.lavoro.politiche.sociali::2010-06-30;6).
+Avvertenza: 
+ - Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ Note alle premesse: 
+ - Si riporta il testo dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), pubblicata nella Gazzetta Ufficiale 12 settembre 1988, n. 214, S.O.: 
+ «3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. 
+ I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.» 
+ - La [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241) (Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi), e' pubblicata nella Gazzetta Ufficiale 18 agosto 1990, n. 192. 
+ - Si riporta il testo dell'[art. 2 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_2) (Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi), pubblicata nella Gazzetta Ufficiale 18 agosto 1990, n. 192, come modificato, nei [commi dal 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-18;69#art_7-com2) [al 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-18;69#art_7-com5), dal [comma 3 dell'art. 7, legge 18 giugno 2009, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-18;69#art_7-com3): 
+ «Art. 2 (Conclusione del procedimento). - 1. Ove il procedimento consegua obbligatoriamente ad un'istanza,ovvero debba essere iniziato d'ufficio, le pubbliche amministrazioni hanno il dovere di concluderlo mediante l'adozione di un provvedimento espresso. 
+ 2. Nei casi in cui disposizioni di legge ovvero i provvedimenti di cui ai commi 3, 4 e 5 non prevedono un termine diverso, i procedimenti amministrativi di competenza delle amministrazioni statali e degli enti pubblici nazionali devono concludersi entro il termine di trenta giorni. 
+ 3. Con uno o piu' decreti del Presidente del Consiglio dei Ministri, adottati ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), su proposta dei Ministri competenti e di concerto con i Ministri per la pubblica amministrazione e l'innovazione e per la semplificazione normativa, sono individuati i termini non superiori a novanta giorni entro i quali devono concludersi i procedimenti di competenza delle amministrazioni statali.
+ Gli enti pubblici nazionali stabiliscono, secondo i propri ordinamenti, i termini non superiori a novanta giorni entro i quali devono concludersi i procedimenti di propria competenza. 
+ 4. Nei casi in cui, tenendo conto della sostenibilita' dei tempi sotto il profilo dell'organizzazione amministrativa, della natura degli interessi pubblici tutelati e della particolare complessita' del procedimento, sono indispensabili termini superiori a novanta giorni per la conclusione dei procedimenti di competenza delle amministrazioni statali e degli enti pubblici nazionali, i decreti di cui al comma 3 sono adottati su proposta anche dei Ministri per la pubblica amministrazione e l'innovazione e per la semplificazione normativa e previa deliberazione del Consiglio dei Ministri. I termini ivi previsti non possono comunque superare i centottanta giorni, con la sola esclusione dei procedimenti di acquisto della cittadinanza italiana e di quelli riguardanti l'immigrazione.» 
+ - Il decreto ministeriale 12 gennaio 2010 (Approvazione delle linee di indirizzo per l'attuazione dell'[art. 7 della legge 18 giugno 2009, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-18;69#art_7)) e' pubblicato nella Gazzetta Ufficiale 1° aprile 2010, n. 76. 
+ - Il [decreto ministeriale 12 gennaio 1995, n. 227](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1995-01-12;227) (Regolamento di attuazione degli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_2), [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_4) e [10 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_10), recante nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi, relativamente ai procedimenti amministrativi di competenza di organi dell'Amministrazione del lavoro e della previdenza sociale), abrogato dal presente decreto, e' pubblicato nella Gazzetta Ufficiale 10 giugno 1995, n. 134, S.O. 
+ - Il [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md) ([Testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md). - Testo A -) e' pubblicato nella Gazzetta Ufficiale 20 febbraio 2001, n. 42, S.O. 
+ - Il [decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md) (Norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche), e' pubblicato nella Gazzetta Ufficiale 9 maggio 2001, n. 106, S.O. 
+ - Il [decreto del Presidente della Repubblica 29 luglio 2004, n. 244](../Regolamenti%20governativi/Regolamento%20di%20riorganizzazione%20del%20Ministero%20del%20lavoro%20e%20delle%20politiche%20sociali.md) (Regolamento di riorganizzazione del Ministero del lavoro e delle politiche sociali), e' pubblicato nella Gazzetta Ufficiale 22 settembre 2004, n. 223. 
+ - Il decreto del Ministro del lavoro e delle politiche sociali 31 marzo 2010 (Individuazione degli uffici di livello dirigenziale non generale del Segretariato generale e delle direzioni generali e la definizione dei relativi compiti), e' pubblicato nel Supplemento ordinario al Bollettino ufficiale del [Ministero del lavoro e delle politiche sociali 30 giugno 2010, n. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.lavoro.politiche.sociali::2010-06-30;6).
 
-Art. 2
-------
+## Art. 2. — Disposizioni transitorie e finali
 
-Disposizioni transitorie e finali
+1.
 
-1. I termini individuati dal presente decreto si applicano anche ai procedimenti in corso alla data di entrata in vigore dello stesso.
+I termini individuati dal presente decreto si applicano anche ai procedimenti in corso alla data di entrata in vigore dello stesso.
 
-2. Il [decreto ministeriale 12 gennaio 1995, n. 227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1995-01-12;227) e' abrogato.
+2.
+
+Il [decreto ministeriale 12 gennaio 1995, n. 227](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1995-01-12;227) e' abrogato.
+
+Note all'art. 2: 
+ - Per i riferimenti del [decreto ministeriale 12 gennaio 1995, n. 227](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1995-01-12;227) si veda nelle note alle premesse.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque di osservarlo e di farlo osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 febbraio 2011
+Dato a Roma, addi' 18 febbraio 2011
 
-Il Presidente del Consiglio dei Ministri Berlusconi Il Ministro del lavoro e delle politiche sociali Sacconi Il Ministro per la pubblica amministrazione e l'innovazione Brunetta Il Ministro per la semplificazione normativa Calderoli
-
-Visto, il Guardasigilli: Alfano Registrato alla Corte dei conti il 31 marzo 2011 Ufficio di controllo preventivo sui Ministeri dei servizi alla
-
-persona e dei beni culturali, registro n. 4, foglio n. 50
-
-Note all'art. 2:   
-- Per i riferimenti del [decreto ministeriale 12 gennaio 1995, n. 227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1995-01-12;227) si veda nelle note alle premesse.
-
-Tabella A
-
-  
-TABELLA A   
-  
-PROCEDIMENTI CON TERMINI DI CONCLUSIONE SUPERIORI A 90 GIORNI.   
-  
-DIREZIONE GENERALE DELLE RISORSE UMANE E AFFARI GENERALI   
-  
-  
-  
-
-|  |  |  |
-| --- | --- | --- |
-| N. prog. | Procedimento | Termine in giorni |
-| 1 | Procedure di comando di concerto con il Ministero dell'economia e delle Finanze | 180 gg. |
-| 2 | Procedure di fuori ruolo di concerto con il Ministero dell'economia e delle Finanze | 180 gg. |
-| 3 | Bandi di mobilita' compartimentale ed intercompartimentale | 180 gg. |
-| 4 | Rimborsi alle Amministrazioni pubbliche delle spese per il personale comandato | 120 gg. dalla data di ricevimento della documentazione di rito e dall'assegnazione delle risorse da parte del Ministero dell'economia e delle finanze |
-| 5 | Procedura di reclutamento dall'esterno dí personale mediante pubblico concorso | 180 gg. |
-
-  
-  
-  
-  
-  
-  
-DIREZIONE GENERALE DELLA TUTELA DELLE CONDIZIONI DI LAVORO   
-  
-  
-  
-
-|  |  |  |
-| --- | --- | --- |
-| N. prog. | Procedimento | Termine in giorni |
-| 6 | Esame dei progetti di azioni positive [ex art. 44 D.Lgs. n. 198/2006](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;198~art44) | 180 gg. |
-| 7 | Decadenza dai contributi concessi | 180 gg. |
-| 8 | Rinnovo componenti Comitato Nazionale di parita' | 180 gg. |
-| 9 | D.M. di approvazione della graduatoria dei progetti [ex art. 197 del D.P.R. n. 1124/1965](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965;1124~art197) (Testo unico delle disposizioni per l'assicurazione obbligatoria contro gli infortuni sul lavoro e le malattie professionali) - (valutazione delle domande ed emanazione della graduatoria finale tramite D.M.) | 180 gg. |
-| 10 | Provvedimento di concessione ed erogazione del contributo relativo ai progetti [ex art. 197 del D.P.R. n. 1124/1965](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965;1124~art197) | 180 gg. |
-| 11 | Procedimento di erogazione saldo progetti [ex art. 197 del D.P.R. n. 1124/1965](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965;1124~art197) | 180 gg. |
-| 12 | Costo del lavoro - Elaborazione tabelle ed emanazione D.M. | 180 gg. |
-| 13 | Autorizzazione alla costruzione ed impiego di ponteggi | 120 gg. |
-| 14 | Autorizzazione all'impiego pacifico dell'energia nucleare in ambiente sanitario, industriale, di ricerca, di didattica e produzione di energia elettrica | 120 gg. dalla ricezione della richiesta di parere da parte del Ministero dello sviluppo economico |
-| 15 | Deroga al divieto alla produzione, alla lavorazione e all'impiego degli agenti chimici sul lavoro e alle attivita' previste dalla normativa | 180 gg. |
-
-  
-  
-  
-  
-  
-  
-DIREZIONE GENERALE PER LE POLITICHE PREVIDENZIALI   
-  
-  
-  
-
-|  |  |  |
-| --- | --- | --- |
-| N. prog. | Procedimento | Termine in giorni |
-| 16 | Approvazione modifiche statuti enti di previdenza di cui al [D.Lgs. n. 509/1994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994;509) e al [D.Lgs. n. 103/1996](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1996;103) | 180 gg. |
-| 17 | Commissariamento enti di previdenza di cui al [D.Lgs. n. 509/1994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994;509) e al [D.Lgs. n. 103/1996](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1996;103) | 180 gg. |
-| 18 | Nomina Presidenti enti pubblici di previdenza | 180 gg. |
-| 19 | Ricostituzione comitati regionali INPS | 180 gg. |
-| 20 | Rinnovo o sostituzione componente Consiglio indirizzo e vigilanza enti pubblici di previdenza | 180 gg. |
-| 21 | Rinnovo o sostituzione componente Collegio sindacale enti pubblici di previdenza | 180 gg. |
-| 22 | Determinazione compensi organi monocratici degli enti pubblici di previdenza | 180 gg. |
-| 23 | Determinazione compensi organi collegiali degli enti pubblici di previdenza | 180 gg. |
-| 24 | Approvazione dei regolamenti elettorali degli enti di previdenza di cui al [D.Lgs. n. 509/1994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994;509) e al [D.Lgs. n. 103/1996](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1996;103) | 120 gg. |
-| 23 | Approvazione dei regolamenti di esecuzione degli statuti degli enti di previdenza di cui al [D.Lgs. n. 509/1994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994;509) e al [D.Lgs. n. 103/1996](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1996;103) | 120 gg. |
-| 26 | Verifica tecnica sui bilanci tecnici degli Enti previdenziali ex [D.Lgs. 509/94 e 103/96](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1996;103) | 180 gg. |
-| 27 | Esonero dei contributi previdenziali per lavoratori italiani all'estero | 180 gg. |
-| 28 | Esonero dei contributi previdenziali per lavoratori stranieri occupati in Italia | 180 gg. |
-| 29 | Eccezioni ai provvedimenti di esonero contributivo per i lavoratori distaccati | 180 gg. |
-| 30 | Esonero dei contributi previdenziali per i lavoratori stranieri occupati in Italia da ditte straniere [ex art. 3, comma 8 L 398/87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;398~art3-com8). | 180 gg. |
-| 31 | Proposta di riduzione del tasso di interesse di dilazione per le aziende in crisi. | 180 gg. |
-| 32 | Esame ed approvazione delibere in materia di contributi e prestazioni degli enti di previdenza privatizzati e privati vigilati ([D.lgs. n. 509/1994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994;509) e [D.Lgs. n. 103/1996](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1996;103)) | 180 gg. |
-| 33 | Approvazione dei regolamenti di previdenza e di assistenza e relative modifiche ed integrazioni adottati dagli enti di previdenza privatizzati e privati vigilati ([D.lgs. n. 509/1994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994;509) e [D.Lgs. n. 103/1996](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1996;103)) | 180 gg. |
-| 34 | Determinazione salari medi per la liquidazione delle indennita' in materia di assicurazione contro gli infortuni sul lavoro | 150 gg. |
-| 35 | Riduzione tariffa contributiva in materia di assicurazione contro gli infortuni sul lavoro e le malattie professionali per i lavoratori italiani operanti in paesi extracomunitari | 150 gg. |
-| 36 | Ricorso in materia di ricorrenza dell'obbligo dell'assicurazione contro gli infortuni sul lavoro, la silicosi e l'asbestosio | 180 gg. |
-| 37 | Rivalutazione delle rendite corrisposte dall'INAIL | 120 gg. |
-| 38 | Ricorsi in seconda istanza avverso le decisioni del comitato tecnico della gestione grandi invalidi dell'INAIL (D.[P.R. 30 giugno 1965, n. 1124 - art. 186](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-06-30;1124~art186)) | 120 gg. |
-| 39 | Esame ed approvazione delibere enti di previdenza vigilati | 120 gg. |
-| 40 | Scioglimento degli Istituti di patronato e di assistenza sociale | 180 gg. |
-
-  
-  
-  
-  
-  
-  
-DIREZIONE GENERALE PER LE POLITICHE   
-PER L'ORIENTAMENTO E LA FORMAZIONE   
-  
-  
-  
-
-|  |  |  |
-| --- | --- | --- |
-| N. prog. | Procedimento | Termine in giorni |
-| 41 | Istituzione e finanziamento delle iniziative di formazione professionale dei lavoratori italiani all'estero. | 150 gg. dalla data di presentazione dei progetti |
-| 42 | Interventi [ex art. 26 L. 845/1978](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978;845~art26) | 150 gg. dalla data di presentazione dei progetti |
-| 43 | Contributi per le spese generali di amministrazione degli enti privati gestori di attivita' formative. | 120 gg. dalla data individuata dal D.M. attuativo per la presentazione delle richieste di contributo |
-| 44 | Decreti interministeriali di concessione dei finanziamenti [ex art. 6 L. n. 53/2000](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000;53~art6) | 150 gg. dalla data di acquisizione del parere della Conferenza unificata Stato/Regioni |
-| 45 | Contributo straordinario agli enti privati gestori di attivita' formative | 180 gg. dalla data individuata quale termine ultimo delle richieste di contributo |
-| 46 | Decreti direttoriali di ripartizione e trasferimento alle Regioni/PA di risorse di cui all'[art. 68 della L. n. 144/99](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999;144~art68) per l'assolvimento del diritto - dovere all'istruzione e alla formazione | 150 gg. dalla data di acquisizione del parere delle Regioni/PA sulla ripartizione delle risorse |
-| 47 | Decreti direttoriali di ripartizione e trasferimento alle Regioni/PA di risorse di cui all'[art. 118, comma 6 della L. n. 388/2000](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000;388~art118-com6) per la formazione nell'esercizio dell'apprendistato | 150 gg. dalla data di acquisizione del parere delle Regioni/PA sulla ripartizione delle risorse |
-
-  
-  
-  
-  
-  
-  
-DIREZIONE GENERALE DEL MERCATO DEL LAVORO   
-  
-  
-  
-  
-  
-
-|  |  |  |
-| --- | --- | --- |
-| N. prog. | Procedimento | Termine in giorni |
-| 48 | Richieste di autorizzazione invio lavoratori nei Paesi extra-UE, con preventivo parere del Ministero degli Affari Esteri | 120 gg. |
-
-  
-  
-  
-  
-  
-  
-DIREZIONE GENERALE PER L'INCLUSIONE, I DIRITTI SOCIALI   
-E LA RESPONSABILITA' SOCIALE DELLE IMPRESE   
-  
-  
-  
-  
-  
-
-|  |  |  |
-| --- | --- | --- |
-| N. prog. | Procedimento | Termine in giorni |
-| 49 | Presentazione, da parte dell'Italia, di "spiegazioni scritte su dichiarazioni" e "osservazioni" al Comitato sui diritti delle persone con disabilita' di cui agli artt. 3 e 6 del Protocollo opzionale alla Convenzione sui diritti delle persone con disabilita', ratificata ai sensi della [legge 3 marzo 2009, n. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-03-03;18). | 180 gg. |
-
-  
-  
-  
-  
-  
-  
-DIREZIONE GENERALE PER IL VOLONTARIATO,   
-L'ASSOCIAZIONISMO E LE FORMAZIONI SOCIALI   
-  
-  
-  
-
-|  |  |  |
-| --- | --- | --- |
-| N. prog. | Procedimento | Termine in giorni |
-| 50 | Finanziamento dei progetti sperimentali/iniziative di cui all'[art. 12, comma 3, lett. d)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000;383~art12-com3-letd) ed [f) della Legge 383/2000](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000;383~art12-com3-letf) - Valutazione progetti/iniziative approvazione della graduatoria di merito - decretazione, pubblicazione delle graduatorie. | 180 gg. |
-| 51 | Erogazione contributo a favore delle associazioni nazionali di promozione sociale di cui alla [L. 476/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;476) e [L. 438/1998](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998;438) per fini di integrazione e promozione sociale: commissione di valutazione, istruttoria, richiesta eventuali integrazioni, ammissibilita'/ esclusione; attribuzione/ decretazione contributi. | 180 gg. |
-| 52 | Finanziamento dei progetti sperimentali di volontariato di cui all'[art. 12, comma 1, lett. d) della Legge 266/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;266~art12-com1-letd) - Valutazione progetti approvazione della graduatoria di merito - decretazione, pubblicazione della graduatoria. | 180 gg. |
-| 53 | Erogazione contributo a favore delle Onlus ed alle associazioni di volontariato per l'acquisto di beni strumentali di cui all'[art. 96 della L. 342/2000](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000;342~art96) e [D.M. 388/2001](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:2001;388), istruttoria, richiesta eventuali integrazioni, ammissibilita'/ esclusione; attribuzione/ decretazione contributi. | 180 gg. |
+Il Presidente del Consiglio dei Ministri Berlusconi Il Ministro del lavoro e delle politiche sociali Sacconi Il Ministro per la pubblica amministrazione e l'innovazione Brunetta Il Ministro per la semplificazione normativa Calderoli Visto, il Guardasigilli: Alfano Registrato alla Corte dei conti il 31 marzo 2011 Ufficio di controllo preventivo sui Ministeri dei servizi alla persona e dei beni culturali, registro n. 4, foglio n. 50

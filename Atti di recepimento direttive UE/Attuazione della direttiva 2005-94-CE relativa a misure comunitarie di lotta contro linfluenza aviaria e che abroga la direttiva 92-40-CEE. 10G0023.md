@@ -1,379 +1,329 @@
-DECRETO LEGISLATIVO 25 gennaio 2010 n. 9
+---
+tipo: DECRETO LEGISLATIVO
+numero: 9
+data: 2010-01-25
+titolo: "Attuazione della direttiva 2005/94/CE relativa a misure comunitarie di lotta contro l'influenza aviaria e che abroga la direttiva 92/40/CEE. (10G0023)"
+urn: urn:nir:stato:decreto.legislativo:2010-01-25;9
+codice_redazionale: 010G0023
+vigente: true
+---
 
+## OGGETTO, CAMPO D'APPLICAZIONE E DEFINIZIONI
 
-DECRETO LEGISLATIVO 25 gennaio 2010 n. 9
-========================================
+TITOLO I
 
-Attuazione della direttiva 2005/94/CE relativa a misure comunitarie di lotta contro l'influenza aviaria e che abroga la direttiva 92/40/CEE. (10G0023)
-------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del provvedimento: 12/02/2010
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-CAPO I TITOLO I OGGETTO, CAMPO D'APPLICAZIONE E DEFINIZIONI
------------------------------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+## SORVEGLIANZA, NOTIFICHE E INDAGINI EPIDEMIOLOGICHE
 
-### Art. 2
+TITOLO II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 3.
 
-CAPO II TITOLO II SORVEGLIANZA, NOTIFICHE E INDAGINI EPIDEMIOLOGICHE
---------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 3
+### Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 4
+### Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 5
+### Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 6
+## MISURE DA APPLICARE IN CASO DI SOSPETTI FOCOLAI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+TITOLO III
 
-CAPO III TITOLO III MISURE DA APPLICARE IN CASO DI SOSPETTI FOCOLAI
--------------------------------------------------------------------
+### Art. 7.
 
-### Art. 7
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 8.
 
-### Art. 8
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 9.
 
-### Art. 9
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 10.
 
-### Art. 10
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+## INFLUENZA AVIARIA AD ALTA PATOGENICITA' (HPAI)   CAPO I   Aziende, unita' produttive distinte e aziende a contatto
 
-CAPO IV TITOLO IV INFLUENZA AVIARIA AD ALTA PATOGENICITA' (HPAI) CAPO I Aziende, unita' produttive distinte e aziende a contatto
---------------------------------------------------------------------------------------------------------------------------------
+TITOLO IV
 
-### Art. 11
+### Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 12
+### Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 13
+### Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 14
+### Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 15
+### Art. 15.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-CAPO V CAPO II Zone di protezione e sorveglianza e ulteriori zone soggette a restrizioni
-----------------------------------------------------------------------------------------
+## Zone di protezione e sorveglianza e ulteriori zone soggette a  restrizioni
 
-### Art. 16
+CAPO II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 16.
 
-### Art. 17
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 17.
 
-CAPO VI CAPO III Misure specifiche da applicare nelle zone di protezione
-------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 18
+## Misure specifiche da applicare nelle zone di protezione
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+CAPO III
 
-### Art. 19
+### Art. 18.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 20
+### Art. 19.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 21
+### Art. 20.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 22
+### Art. 21.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 23
+### Art. 22.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 24
+### Art. 23.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 25
+### Art. 24.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 26
+### Art. 25.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 27
+### Art. 26.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 28
+### Art. 27.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 29
+### Art. 28.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-CAPO VII CAPO IV Misure da applicare nelle zone di sorveglianza
----------------------------------------------------------------
+### Art. 29.
 
-### Art. 30
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+## Misure da applicare nelle zone di sorveglianza
 
-### Art. 31
+CAPO IV
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 30.
 
-CAPO VIII CAPO V Misure da applicare in ulteriori zone di restrizione
----------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 32
+### Art. 31.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-CAPO IX CAPO VI Deroghe e ulteriori misure di biosicurezza
-----------------------------------------------------------
+## Misure da applicare in ulteriori zone di restrizione
 
-### Art. 33
+CAPO V
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 32.
 
-### Art. 34
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+## Deroghe e ulteriori misure di biosicurezza
 
-CAPO X CAPO VII Misure da applicare in presenza di sospetto e conferma dell'influenza aviaria ad alta patogenicita' (HPAI) in talune strutture diverse dalle aziende e nei mezzi di trasporto
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+CAPO VI
 
-### Art. 35
+### Art. 33.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 36
+### Art. 34.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 37
+## Misure da applicare in presenza di sospetto e conferma dell'influenza aviaria ad alta patogenicita' (HPAI) in talune strutture diverse  dalle aziende e nei mezzi di trasporto
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+CAPO VII
 
-### Art. 38
+### Art. 35.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-CAPO XI TITOLO V INFLUENZA AVIARIA A BASSA PATOGENICITA' (LPAI) CAPO I Misure da applicare nelle aziende in cui i focolai sono confermati
------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 36.
 
-### Art. 39
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 37.
 
-### Art. 40
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 38.
 
-CAPO XII CAPO II Unita' produttive distinte e aziende a contatto
-----------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 41
+## INFLUENZA AVIARIA A BASSA PATOGENICITA' (LPAI)   CAPO I   Misure da applicare nelle aziende in cui i focolai sono confermati
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+TITOLO V
 
-### Art. 42
+### Art. 39.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-CAPO XIII CAPO III Istituzione di zone di restrizione
------------------------------------------------------
+### Art. 40.
 
-### Art. 43
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+## Unita' produttive distinte e aziende a contatto
 
-### Art. 44
+CAPO II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 41.
 
-### Art. 45
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 42.
 
-### Art. 46
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+## Istituzione di zone di restrizione
 
-CAPO XIV TITOLO VI MISURE VOLTE AD IMPEDIRE LA DIFFUSIONE DI VIRUS INFLUENZALI AVIARI AD ALTRE SPECIE
------------------------------------------------------------------------------------------------------
+CAPO III
 
-### Art. 47
+### Art. 43.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-CAPO XV TITOLO VII OPERAZIONI DI PULIZIA, DISINFEZIONE E RIPOPOLAMENTO
-----------------------------------------------------------------------
+### Art. 44.
 
-### Art. 48
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 45.
 
-### Art. 49
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 46.
 
-CAPO XVI TITOLO VIII PROCEDURE DIAGNOSTICHE, MANUALE DIAGNOSTICO E LABORATORI DI REFERENZA
-------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 50
+## MISURE VOLTE AD IMPEDIRE LA DIFFUSIONE DI VIRUS INFLUENZALI AVIARI AD  ALTRE SPECIE
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+TITOLO VI
 
-### Art. 51
+### Art. 47.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-CAPO XVII TITOLO IX VACCINAZIONE CAPO I Divieto generale di vaccinazione
-------------------------------------------------------------------------
+## OPERAZIONI DI PULIZIA, DISINFEZIONE E RIPOPOLAMENTO
 
-### Art. 52
+TITOLO VII
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 48.
 
-CAPO XVIII CAPO II Vaccinazione d'emergenza
--------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 53
+### Art. 49.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-CAPO XIX CAPO III Vaccinazione preventiva
------------------------------------------
+## PROCEDURE DIAGNOSTICHE, MANUALE DIAGNOSTICO E LABORATORI DI REFERENZA
 
-### Art. 54
+TITOLO VIII
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 50.
 
-CAPO XX TITOLO X CONTROLLI E PIANO DI EMERGENZA
------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 55
+### Art. 51.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-CAPO XXI TITOLO XI DISPOSIZIONI TRANSITORIE E FINALI
-----------------------------------------------------
+## VACCINAZIONE   CAPO I   Divieto generale di vaccinazione
 
-### Art. 56
+TITOLO IX
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 52.
 
-### Art. 57
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+## Vaccinazione d'emergenza
 
-### Art. 58
+CAPO II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 53.
 
-### Art. 59
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+## Vaccinazione preventiva
 
-Allegato I
+CAPO III
 
- Allegato I   
-  
+### Art. 54.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-Allegato II
+## CONTROLLI E PIANO DI EMERGENZA
 
- Allegato II   
-  
+TITOLO X
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 55.
 
-Allegato III
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
- Allegato III   
-  
+## DISPOSIZIONI TRANSITORIE E FINALI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+TITOLO XI
 
-Allegato IV
+### Art. 56.
 
- Allegato IV   
-  
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 57.
 
-Allegato V
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
- Allegato V   
-  
+### Art. 58.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-Allegato VI
+### Art. 59.
 
- Allegato VI   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
-
-Allegato VII
-
- Allegato VII   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
-
-Allegato VIII
-
- Allegato VIII   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
-
-Allegato IX
-
- Allegato IX   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
-
-Allegato X
-
- Allegato X   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))

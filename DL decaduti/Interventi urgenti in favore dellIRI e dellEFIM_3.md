@@ -1,22 +1,17 @@
-DECRETO-LEGGE 30 aprile 1992 n. 271
+---
+tipo: DECRETO-LEGGE
+numero: 271
+data: 1992-04-30
+titolo: "Interventi urgenti in favore dell'IRI e dell'EFIM."
+urn: urn:nir:stato:decreto.legge:1992-04-30;271
+codice_redazionale: 092G0313
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 30 aprile 1992 n. 271
-===================================
+DECRETO DECADUTO
 
-Interventi urgenti in favore dell'IRI e dell'EFIM.
---------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 3/5/1992.Decreto-Legge decaduto per mancata conversione.
-
-Art. 1
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 2
-------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

@@ -1,58 +1,39 @@
-DECRETO-LEGGE 29 febbraio 1992 n. 194
+---
+tipo: DECRETO-LEGGE
+numero: 194
+data: 1992-02-29
+titolo: "Interventi in favore delle zone colpite dalle eccezionali avversita' atmosferiche dei mesi di ottobre e novembre 1991 ed interventi in zone terremotate."
+urn: urn:nir:stato:decreto.legge:1992-02-29;194
+codice_redazionale: 092G0236
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 29 febbraio 1992 n. 194
-=====================================
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1992, N. 505](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;505)
 
-Interventi in favore delle zone colpite dalle eccezionali avversita' atmosferiche dei mesi di ottobre e novembre 1991 ed interventi in zone terremotate.
---------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 03/03/1992.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1992, N. 505](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;505)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1992, N. 505](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;505)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1992, N. 505](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;505)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1992, N. 505](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;505)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1992, N. 505](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;505)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1992, N. 505](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;505)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1992, N. 505](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;505)
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1992, N. 505](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;505)
-  
-
-Art. 5
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1992, N. 505](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;505)
-  
-
-Art. 6
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1992, N. 505](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;505)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1992, N. 505](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;505)

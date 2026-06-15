@@ -1,53 +1,47 @@
-DECRETO-LEGGE 30 dicembre 1988 n. 547
+---
+tipo: DECRETO-LEGGE
+numero: 547
+data: 1988-12-30
+titolo: "Disposizioni urgenti in materia di trasporti e di concessioni marittime."
+urn: urn:nir:stato:decreto.legge:1988-12-30;547
+codice_redazionale: 088G0625
+vigente: true
+---
 
+## NORME IN MATERIA DI TRASPORTI LOCALI AEREI E FERROVIARI
 
-DECRETO-LEGGE 30 dicembre 1988 n. 547
-=====================================
+Capo I
 
-Disposizioni urgenti in materia di trasporti e di concessioni marittime.
-------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del decreto: 01/01/1989.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 5 MAGGIO 1989, N. 160](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20marzo%201989%20n.%2077%20recante%20disposizioni%20urgenti%20in%20materia%20di%20trasporti%20e%20di%20concessioni%20marittime.md)
 
-CAPO I Capo I NORME IN MATERIA DI TRASPORTI LOCALI AEREI E FERROVIARI
----------------------------------------------------------------------
+### Art. 2.
 
-### Art. 1
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 5 MAGGIO 1989, N. 160](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20marzo%201989%20n.%2077%20recante%20disposizioni%20urgenti%20in%20materia%20di%20trasporti%20e%20di%20concessioni%20marittime.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 5 MAGGIO 1989, N. 160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-05;160)
-  
+### Art. 3.
 
-### Art. 2
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 5 MAGGIO 1989, N. 160](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20marzo%201989%20n.%2077%20recante%20disposizioni%20urgenti%20in%20materia%20di%20trasporti%20e%20di%20concessioni%20marittime.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 5 MAGGIO 1989, N. 160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-05;160)
-  
+## NORME IN MATERIA DI TRASPORTI MARITTIMI E CONCESSIONI DEMANIALI MARITTIME
 
-### Art. 3
+Capo II
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 5 MAGGIO 1989, N. 160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-05;160)
-  
+### Art. 4.
 
-CAPO II Capo II NORME IN MATERIA DI TRASPORTI MARITTIMI E CONCESSIONI DEMANIALI MARITTIME
------------------------------------------------------------------------------------------
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 5 MAGGIO 1989, N. 160](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20marzo%201989%20n.%2077%20recante%20disposizioni%20urgenti%20in%20materia%20di%20trasporti%20e%20di%20concessioni%20marittime.md)
 
-### Art. 4
+### Art. 5.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 5 MAGGIO 1989, N. 160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-05;160)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 5 MAGGIO 1989, N. 160](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20marzo%201989%20n.%2077%20recante%20disposizioni%20urgenti%20in%20materia%20di%20trasporti%20e%20di%20concessioni%20marittime.md)
 
-### Art. 5
+### Art. 6.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 5 MAGGIO 1989, N. 160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-05;160)
-  
-
-### Art. 6
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 5 MAGGIO 1989, N. 160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-05;160)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 5 MAGGIO 1989, N. 160](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20marzo%201989%20n.%2077%20recante%20disposizioni%20urgenti%20in%20materia%20di%20trasporti%20e%20di%20concessioni%20marittime.md)

@@ -1,18 +1,17 @@
-DECRETO LEGISLATIVO LUOGOTENENZIALE 30 novembre 1945 n. 922
+---
+tipo: DECRETO LEGISLATIVO LUOGOTENENZIALE
+numero: 922
+data: 1945-11-30
+titolo: "Modificazioni dei diritti di saggi e verificazioni facoltative di cui agli articoli 115 e 131 del regolamento metrico approvato con R. decreto 31 gennaio 1909, n. 242."
+urn: urn:nir:stato:decreto.legislativo.luogotenenziale:1945-11-30;922
+codice_redazionale: 045U0922
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO LUOGOTENENZIALE 30 novembre 1945 n. 922
-===========================================================
+((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200) CONVERTITO, CON MODIFICAZIONI, DALLA [L. 18 FEBBRAIO 2009, N. 9](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20dicembre%202008%20n.%20200%20recante%20misure%20urgenti%20in%20materia%20di%20semplificazione%20normativa.md)))
 
-Modificazioni dei diritti di saggi e verificazioni facoltative di cui agli articoli 115 e 131 del regolamento metrico approvato con R. decreto 31 gennaio 1909, n. 242.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200) CONVERTITO, CON MODIFICAZIONI, DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))  
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200) CONVERTITO, CON MODIFICAZIONI, DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))  
+((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200) CONVERTITO, CON MODIFICAZIONI, DALLA [L. 18 FEBBRAIO 2009, N. 9](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20dicembre%202008%20n.%20200%20recante%20misure%20urgenti%20in%20materia%20di%20semplificazione%20normativa.md)))

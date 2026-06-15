@@ -1,93 +1,85 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 dicembre 2007 n. 271
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 271
+data: 2007-12-08
+titolo: "Regolamento di riorganizzazione del Ministero dei trasporti a norma dell'articolo 1, comma 404, della legge 27 dicembre 2006, n. 296."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2007-12-08;271
+codice_redazionale: 008G0037
+vigente: true
+---
 
+### Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 dicembre 2007 n. 271
-===============================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 211))
 
-Regolamento di riorganizzazione del Ministero dei trasporti a norma dell'articolo 1, comma 404, della legge 27 dicembre 2006, n. 296.
--------------------------------------------------------------------------------------------------------------------------------------
+### Art. 2.
 
-Entrata in vigore del decreto: 24-2-2008
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 211))
 
-CAPO I
-------
+## Attribuzioni dei dipartimenti
 
-### Art. 1
+Capo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 211](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;211)))
+### Art. 3.
 
-### Art. 2
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 211))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 211](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;211)))
+### Art. 4.
 
-CAPO II Capo II Attribuzioni dei dipartimenti
----------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 211))
 
-### Art. 3
+## Articolazione dei dipartimenti
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 211](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;211)))
+Capo IV
 
-CAPO III
---------
+### Art. 5.
 
-### Art. 4
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 211))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 211](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;211)))
+### Art. 6.
 
-CAPO IV Capo IV Articolazione dei dipartimenti
-----------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 211))
 
-### Art. 5
+## Attribuzioni del Comando generale del Corpo delle capitanerie di porto
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 211](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;211)))
+Capo V
 
-### Art. 6
+### Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 211](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;211)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 211))
 
-CAPO V Capo V Attribuzioni del Comando generale del Corpo delle capitanerie di porto
-------------------------------------------------------------------------------------
+## Organizzazione territoriale
 
-### Art. 7
+Capo VI
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 211](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;211)))
+### Art. 8.
 
-CAPO VI Capo VI Organizzazione territoriale
--------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 211))
 
-### Art. 8
+### Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 211](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;211)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 211 ))
 
-### Art. 9
+### Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 211](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;211) ))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 211 ))
 
-### Art. 10
+## Dotazione organica e norme finali
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 211](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;211) ))
+Capo VII
 
-CAPO VII Capo VII Dotazione organica e norme finali
----------------------------------------------------
+### Art. 11.
 
-### Art. 11
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 211 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 211](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;211) ))
+### Art. 12.
 
-### Art. 12
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 211 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 211](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;211) ))
+### Art. 13.
 
-### Art. 13
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 211 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 211](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;211) ))
+### Art. 14.
 
-### Art. 14
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 211](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;211)))
-
-Tabella A
-
- Tabella A   
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 211](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;211) ))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 211))

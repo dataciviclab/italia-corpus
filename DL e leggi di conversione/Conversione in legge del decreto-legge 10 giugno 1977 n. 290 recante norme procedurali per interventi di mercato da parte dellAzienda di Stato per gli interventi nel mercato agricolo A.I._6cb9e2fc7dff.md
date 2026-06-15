@@ -1,34 +1,25 @@
-LEGGE 01 agosto 1977 n. 499
-
-
-LEGGE 01 agosto 1977 n. 499
-===========================
-
-Conversione in legge del decreto-legge 10 giugno 1977, n. 290, recante norme procedurali per interventi di mercato da parte dell'Azienda di Stato per gli interventi nel mercato agricolo (A.I.M.A.) nel settore delle carni.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: LEGGE
+numero: 499
+data: 1977-08-01
+titolo: "Conversione in legge del decreto-legge 10 giugno 1977, n. 290, recante norme procedurali per interventi di mercato da parte dell'Azienda di Stato per gli interventi nel mercato agricolo (A.I.M.A.) nel settore delle carni."
+urn: urn:nir:stato:legge:1977-08-01;499
+codice_redazionale: 077U0499
+vigente: true
+---
 
 La Camera dei deputati ed il Senato della Repubblica hanno approvato;
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-PROMULGA
---------
+PROMULGA la seguente legge:
 
-la seguente legge:
+## Articolo unico
 
-Articolo unico
---------------
-
-  
-E' convertito in legge il [decreto-legge 10 giugno 1977, n. 290](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1977-06-10;290), recante norme procedurali per interventi di mercato da parte dell'Azienda di Stato per gli interventi nel mercato agricolo (A.I.M.A.) nel settore delle carni.  
-  
+E' convertito in legge il [decreto-legge 10 giugno 1977, n. 290](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1977-06-10;290), recante norme procedurali per interventi di mercato da parte dell'Azienda di Stato per gli interventi nel mercato agricolo (A.I.M.A.) nel settore delle carni.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data a Roma, addi' 1 agosto 1977
+Data a Roma, addi' 1 agosto 1977
 
-LEONE ANDREOTTI - MARCORA - STAMMATI
-
-Visto, il Guardasigilli: BONIFACIO
+LEONE ANDREOTTI - MARCORA - STAMMATI Visto, il Guardasigilli: BONIFACIO

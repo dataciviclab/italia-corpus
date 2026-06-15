@@ -1,172 +1,139 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1993 n. 569
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 569
+data: 1993-12-23
+titolo: "Regolamento di esecuzione della legge 26 novembre 1992, n. 468, concernente misure urgenti nel settore lattiero-caseario."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1993-12-23;569
+codice_redazionale: 093G0627
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1993 n. 569
-===============================================================
+((PROVVEDIMENTO ABROGATO DAL D.L. 28 MARZO 2003, N. 49, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 30 MAGGIO 2003, N. 119))
 
-Regolamento di esecuzione della legge 26 novembre 1992, n. 468, concernente misure urgenti nel settore lattiero-caseario.
--------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 15-1-1994
+((PROVVEDIMENTO ABROGATO DAL D.L. 28 MARZO 2003, N. 49, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 30 MAGGIO 2003, N. 119))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 28 MARZO 2003, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-03-28;49),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 30 MAGGIO 2003, N. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-05-30;119)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 28 MARZO 2003, N. 49, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 30 MAGGIO 2003, N. 119))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 28 MARZO 2003, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-03-28;49),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 30 MAGGIO 2003, N. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-05-30;119)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 28 MARZO 2003, N. 49, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 30 MAGGIO 2003, N. 119))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 28 MARZO 2003, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-03-28;49),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 30 MAGGIO 2003, N. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-05-30;119)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 28 MARZO 2003, N. 49, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 30 MAGGIO 2003, N. 119))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 28 MARZO 2003, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-03-28;49),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 30 MAGGIO 2003, N. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-05-30;119)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 28 MARZO 2003, N. 49, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 30 MAGGIO 2003, N. 119))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 28 MARZO 2003, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-03-28;49),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 30 MAGGIO 2003, N. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-05-30;119)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 28 MARZO 2003, N. 49, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 30 MAGGIO 2003, N. 119))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 28 MARZO 2003, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-03-28;49),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 30 MAGGIO 2003, N. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-05-30;119)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 28 MARZO 2003, N. 49, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 30 MAGGIO 2003, N. 119))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 28 MARZO 2003, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-03-28;49),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 30 MAGGIO 2003, N. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-05-30;119)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 28 MARZO 2003, N. 49, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 30 MAGGIO 2003, N. 119))
 
-Art. 8
-------
+## Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 28 MARZO 2003, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-03-28;49),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 30 MAGGIO 2003, N. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-05-30;119)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 28 MARZO 2003, N. 49, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 30 MAGGIO 2003, N. 119))
 
-Art. 9
-------
+## Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 28 MARZO 2003, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-03-28;49),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 30 MAGGIO 2003, N. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-05-30;119)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 28 MARZO 2003, N. 49, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 30 MAGGIO 2003, N. 119))
 
-Art. 10
--------
+## Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 28 MARZO 2003, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-03-28;49),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 30 MAGGIO 2003, N. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-05-30;119)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 28 MARZO 2003, N. 49, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 30 MAGGIO 2003, N. 119))
 
-Art. 11
--------
+## Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 28 MARZO 2003, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-03-28;49),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 30 MAGGIO 2003, N. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-05-30;119)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 28 MARZO 2003, N. 49, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 30 MAGGIO 2003, N. 119))
 
-Art. 12
--------
+## Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 28 MARZO 2003, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-03-28;49),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 30 MAGGIO 2003, N. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-05-30;119)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 28 MARZO 2003, N. 49, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 30 MAGGIO 2003, N. 119))
 
-Art. 13
--------
+## Art. 15.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 28 MARZO 2003, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-03-28;49),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 30 MAGGIO 2003, N. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-05-30;119)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 28 MARZO 2003, N. 49, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 30 MAGGIO 2003, N. 119))
 
-Art. 14
--------
+## Art. 16.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 28 MARZO 2003, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-03-28;49),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 30 MAGGIO 2003, N. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-05-30;119)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 28 MARZO 2003, N. 49, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 30 MAGGIO 2003, N. 119))
 
-Art. 15
--------
+## Art. 17.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 28 MARZO 2003, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-03-28;49),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 30 MAGGIO 2003, N. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-05-30;119)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 28 MARZO 2003, N. 49, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 30 MAGGIO 2003, N. 119))
 
-Art. 16
--------
+## Art. 18.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 28 MARZO 2003, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-03-28;49),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 30 MAGGIO 2003, N. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-05-30;119)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 28 MARZO 2003, N. 49, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 30 MAGGIO 2003, N. 119))
 
-Art. 17
--------
+## Art. 19.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 28 MARZO 2003, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-03-28;49),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 30 MAGGIO 2003, N. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-05-30;119)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 28 MARZO 2003, N. 49, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 30 MAGGIO 2003, N. 119))
 
-Art. 18
--------
+## Art. 20.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 28 MARZO 2003, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-03-28;49),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 30 MAGGIO 2003, N. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-05-30;119)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 28 MARZO 2003, N. 49, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 30 MAGGIO 2003, N. 119))
 
-Art. 19
--------
+## Art. 21.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 28 MARZO 2003, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-03-28;49),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 30 MAGGIO 2003, N. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-05-30;119)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 28 MARZO 2003, N. 49, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 30 MAGGIO 2003, N. 119))
 
-Art. 20
--------
+## Art. 22.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 28 MARZO 2003, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-03-28;49),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 30 MAGGIO 2003, N. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-05-30;119)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 28 MARZO 2003, N. 49, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 30 MAGGIO 2003, N. 119))
 
-Art. 21
--------
+## Art. 23.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 28 MARZO 2003, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-03-28;49),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 30 MAGGIO 2003, N. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-05-30;119)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 28 MARZO 2003, N. 49, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 30 MAGGIO 2003, N. 119))
 
-Art. 22
--------
+## Art. 24.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 28 MARZO 2003, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-03-28;49),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 30 MAGGIO 2003, N. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-05-30;119)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 28 MARZO 2003, N. 49, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 30 MAGGIO 2003, N. 119))
 
-Art. 23
--------
+## Art. 25.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 28 MARZO 2003, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-03-28;49),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 30 MAGGIO 2003, N. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-05-30;119)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 28 MARZO 2003, N. 49, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 30 MAGGIO 2003, N. 119))
 
-Art. 24
--------
+## Art. 26.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 28 MARZO 2003, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-03-28;49),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 30 MAGGIO 2003, N. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-05-30;119)))
-
-Art. 25
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 28 MARZO 2003, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-03-28;49),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 30 MAGGIO 2003, N. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-05-30;119)))
-
-Art. 26
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 28 MARZO 2003, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-03-28;49),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 30 MAGGIO 2003, N. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-05-30;119)))
-
-Allegato
-
- ALLEGATO   
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 28 MARZO 2003, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-03-28;49), CONVERTITO CON MODIFICAZIONI DALLA [L. 30 MAGGIO 2003, N. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-05-30;119)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 28 MARZO 2003, N. 49, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 30 MAGGIO 2003, N. 119))

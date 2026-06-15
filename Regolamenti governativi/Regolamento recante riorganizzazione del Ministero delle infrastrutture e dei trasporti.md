@@ -1,106 +1,97 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 2008 n. 211
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 211
+data: 2008-12-03
+titolo: "Regolamento recante riorganizzazione del Ministero delle infrastrutture e dei trasporti."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2008-12-03;211
+codice_redazionale: 008G0233
+vigente: true
+---
 
+### Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 2008 n. 211
-===============================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 11 FEBBRAIO 2014, N. 72))
 
-Regolamento recante riorganizzazione del Ministero delle infrastrutture e dei trasporti.
-----------------------------------------------------------------------------------------
+### Art. 2.
 
-Entrata in vigore del provvedimento: 20/1/2009
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 11 FEBBRAIO 2014, N. 72))
 
-CAPO I
-------
+## Dipartimenti
 
-### Art. 1
+CAPO II
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 11 FEBBRAIO 2014, N. 72](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-11;72)))
+### Art. 3.
 
-### Art. 2
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 11 FEBBRAIO 2014, N. 72))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 11 FEBBRAIO 2014, N. 72](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-11;72)))
+### Art. 4.
 
-CAPO II CAPO II Dipartimenti
-----------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 11 FEBBRAIO 2014, N. 72))
 
-### Art. 3
+## Articolazione dei dipartimenti
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 11 FEBBRAIO 2014, N. 72](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-11;72)))
+CAPO IV
 
-CAPO III
---------
+### Art. 5.
 
-### Art. 4
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 11 FEBBRAIO 2014, N. 72))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 11 FEBBRAIO 2014, N. 72](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-11;72)))
+### Art. 6.
 
-CAPO IV CAPO IV Articolazione dei dipartimenti
-----------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 11 FEBBRAIO 2014, N. 72))
 
-### Art. 5
+## Attribuzioni del Comando generale del corpo delle Capitanerie di porto
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 11 FEBBRAIO 2014, N. 72](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-11;72)))
+CAPO V
 
-### Art. 6
+### Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 11 FEBBRAIO 2014, N. 72](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-11;72)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 11 FEBBRAIO 2014, N. 72))
 
-CAPO V CAPO V Attribuzioni del Comando generale del corpo delle Capitanerie di porto
-------------------------------------------------------------------------------------
+## Organizzazione territoriale
 
-### Art. 7
+CAPO VI
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 11 FEBBRAIO 2014, N. 72](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-11;72)))
+### Art. 8.
 
-CAPO VI CAPO VI Organizzazione territoriale
--------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 11 FEBBRAIO 2014, N. 72))
 
-### Art. 8
+### Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 11 FEBBRAIO 2014, N. 72](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-11;72)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 11 FEBBRAIO 2014, N. 72))
 
-### Art. 9
+### Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 11 FEBBRAIO 2014, N. 72](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-11;72)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 11 FEBBRAIO 2014, N. 72))
 
-### Art. 10
+### Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 11 FEBBRAIO 2014, N. 72](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-11;72)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 11 FEBBRAIO 2014, N. 72))
 
-### Art. 11
+### Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 11 FEBBRAIO 2014, N. 72](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-11;72)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 11 FEBBRAIO 2014, N. 72))
 
-### Art. 12
+### Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 11 FEBBRAIO 2014, N. 72](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-11;72)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 11 FEBBRAIO 2014, N. 72))
 
-### Art. 13
+## Dotazione organica e norme finali
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 11 FEBBRAIO 2014, N. 72](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-11;72)))
+CAPO VII
 
-CAPO VII CAPO VII Dotazione organica e norme finali
----------------------------------------------------
+### Art. 14.
 
-### Art. 14
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 11 FEBBRAIO 2014, N. 72))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 11 FEBBRAIO 2014, N. 72](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-11;72)))
+### Art. 15.
 
-### Art. 15
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 11 FEBBRAIO 2014, N. 72))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 11 FEBBRAIO 2014, N. 72](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-11;72)))
+### Art. 16.
 
-### Art. 16
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 11 FEBBRAIO 2014, N. 72))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 11 FEBBRAIO 2014, N. 72](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-11;72)))
+### Art. 17.
 
-### Art. 17
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 11 FEBBRAIO 2014, N. 72](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-11;72)))
-
-Allegato 1
-
- Allegato 1   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 11 FEBBRAIO 2014, N. 72](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-11;72)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 11 FEBBRAIO 2014, N. 72))

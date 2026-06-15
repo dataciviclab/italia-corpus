@@ -1,95 +1,90 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 dicembre 1992 n. 558
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 558
+data: 1992-12-30
+titolo: "Regolamento per l'attuazione della direttiva 91/494/CEE relativa alle norme di polizia sanitaria intracomunitaria e le importazioni in provenienza da Paesi terzi di carni fresche di volatili da cortile."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1992-12-30;558
+codice_redazionale: 093G0062
+vigente: true
+---
 
+## DISPOSIZIONI GENERALI
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 dicembre 1992 n. 558
-===============================================================
+Capo I
 
-Regolamento per l'attuazione della direttiva 91/494/CEE relativa alle norme di polizia sanitaria intracomunitaria e le importazioni in provenienza da Paesi terzi di carni fresche di volatili da cortile.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del decreto: 19-2-1993
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193))
 
-CAPO I Capo I DISPOSIZIONI GENERALI
------------------------------------
+### Art. 2.
 
-### Art. 1
+Art. 1 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193)))
+## NORME PER GLI SCAMBI INTRACOMUNITARI
 
-### Art. 2
+Capo II
 
- Art. 1   
+### Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193))
 
-CAPO II Capo II NORME PER GLI SCAMBI INTRACOMUNITARI
-----------------------------------------------------
+### Art. 4.
 
-### Art. 3
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193)))
+### Art. 5.
 
-### Art. 4
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193)))
+### Art. 5-bis.
 
-### Art. 5
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193)))
+### Art. 6.
 
-### Art. 5-bis
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193)))
+### Art. 7.
 
-### Art. 6
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193)))
+## NORME PER LE IMPORTAZIONI DAI PAESI TERZI
 
-### Art. 7
+Capo III
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193)))
+### Art. 8.
 
-CAPO III Capo III NORME PER LE IMPORTAZIONI DAI PAESI TERZI
------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193))
 
-### Art. 8
+### Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193))
 
-### Art. 9
+### Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193))
 
-### Art. 10
+### Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193))
 
-### Art. 11
+### Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193))
 
-### Art. 12
+### Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193))
 
-### Art. 13
+### Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193))
 
-### Art. 14
+### Art. 14-bis.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193))
 
-### Art. 14-bis
+### Art. 15.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193)))
-
-### Art. 15
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193)))
-
-Allegato
-
- ALLEGATO   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193))

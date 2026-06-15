@@ -1,16 +1,14 @@
-LEGGE 22 novembre 1928 n. 2753
+---
+tipo: LEGGE
+numero: 2753
+data: 1928-11-22
+titolo: "Conversione in legge del R. decreto-legge 26 febbraio 1928, n. 305, contenente la proroga del termine per il conferimento dei posti disponibili nei gradi 6° e 7° della carriera amministrativa dell'Amministrazione centrale e delle Intendenze di finanza. (028U2753)"
+urn: urn:nir:stato:legge:1928-11-22;2753
+codice_redazionale: 028U2753
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 22 novembre 1928 n. 2753
-==============================
-
-Conversione in legge del R. decreto-legge 26 febbraio 1928, n. 305, contenente la proroga del termine per il conferimento dei posti disponibili nei gradi 6° e 7° della carriera amministrativa dell'Amministrazione centrale e delle Intendenze di finanza. (028U2753)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/12/1928
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

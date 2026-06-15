@@ -1,26 +1,24 @@
-DECRETO LEGISLATIVO LUOGOTENENZIALE 12 aprile 1946 n. 318
+---
+tipo: DECRETO LEGISLATIVO LUOGOTENENZIALE
+numero: 318
+data: 1946-04-12
+titolo: "Riammissione in carica degli agenti di cambio dimessisi per motivi politici."
+urn: urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-12;318
+codice_redazionale: 046U0318
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO LUOGOTENENZIALE 12 aprile 1946 n. 318
-=========================================================
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI, DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Riammissione in carica degli agenti di cambio dimessisi per motivi politici.
-----------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI, DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI, DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+## Art. 3.
 
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI, DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI, DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI, DALLA L. 18 FEBBRAIO 2009, N. 9))

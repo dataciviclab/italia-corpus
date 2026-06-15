@@ -1,125 +1,125 @@
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 27 febbraio 2013 n. 67
+---
+tipo: DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
+numero: 67
+data: 2013-02-27
+titolo: "Regolamento di organizzazione del Ministero dell'economia e delle finanze, a norma degli articoli 2, comma 10-ter, e 23-quinquies, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135. (13G00110)"
+urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2013-02-27;67
+codice_redazionale: 13G00110
+vigente: true
+---
 
+## Organizzazione del ministero   Sezione I     Dipartimenti del Ministero
 
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 27 febbraio 2013 n. 67
-========================================================================
+Capo I
 
-Regolamento di organizzazione del Ministero dell'economia e delle finanze, a norma degli articoli 2, comma 10-ter, e 23-quinquies, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135. (13G00110)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del provvedimento: 30/06/2013
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 26 GIUGNO 2019, N. 103))
 
-CAPO I Capo I Organizzazione del ministero Sezione I Dipartimenti del Ministero
--------------------------------------------------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 26 GIUGNO 2019, N. 103))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 26 GIUGNO 2019, N. 103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-26;103)))
+### Art. 3.
 
-### Art. 2
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 26 GIUGNO 2019, N. 103))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 26 GIUGNO 2019, N. 103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-26;103)))
+## Articolazione dei dipartimenti   Sezione I     Dipartimento del tesoro
 
-### Art. 3
+Capo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 26 GIUGNO 2019, N. 103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-26;103)))
+### Art. 4.
 
-CAPO II Capo II Articolazione dei dipartimenti Sezione I Dipartimento del tesoro
---------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 26 GIUGNO 2019, N. 103))
 
-### Art. 4
+### Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 26 GIUGNO 2019, N. 103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-26;103)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 26 GIUGNO 2019, N. 103))
 
-### Art. 5
+### Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 26 GIUGNO 2019, N. 103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-26;103)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 26 GIUGNO 2019, N. 103))
 
-### Art. 6
+## Dipartimento della Ragioneria generale dello Stato
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 26 GIUGNO 2019, N. 103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-26;103)))
+Sezione II
 
-CAPO III Sezione II Dipartimento della Ragioneria generale dello Stato
-----------------------------------------------------------------------
+### Art. 7.
 
-### Art. 7
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 26 GIUGNO 2019, N. 103))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 26 GIUGNO 2019, N. 103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-26;103)))
+### Art. 8.
 
-### Art. 8
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 26 GIUGNO 2019, N. 103))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 26 GIUGNO 2019, N. 103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-26;103)))
+### Art. 9.
 
-### Art. 9
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 26 GIUGNO 2019, N. 103))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 26 GIUGNO 2019, N. 103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-26;103)))
+### Art. 10.
 
-### Art. 10
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 26 GIUGNO 2019, N. 103))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 26 GIUGNO 2019, N. 103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-26;103)))
+### Art. 11.
 
-### Art. 11
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 26 GIUGNO 2019, N. 103))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 26 GIUGNO 2019, N. 103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-26;103)))
+## Dipartimento delle finanze
 
-CAPO IV Sezione III Dipartimento delle finanze
-----------------------------------------------
+Sezione III
 
-### Art. 12
+### Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 26 GIUGNO 2019, N. 103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-26;103)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 26 GIUGNO 2019, N. 103))
 
-### Art. 13
+### Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 26 GIUGNO 2019, N. 103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-26;103)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 26 GIUGNO 2019, N. 103))
 
-CAPO V Sezione IV Dipartimento dell'amministrazione generale del personale e dei servizi
-----------------------------------------------------------------------------------------
+## Dipartimento dell'amministrazione generale del personale e dei  servizi
 
-### Art. 14
+Sezione IV
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 26 GIUGNO 2019, N. 103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-26;103)))
+### Art. 14.
 
-### Art. 15
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 26 GIUGNO 2019, N. 103))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 26 GIUGNO 2019, N. 103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-26;103)))
+### Art. 15.
 
-CAPO VI Capo III Articolazione territoriale del Ministero dell'economia e delle finanze
----------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 26 GIUGNO 2019, N. 103))
 
-### Art. 16
+## Articolazione territoriale del Ministero dell'economia e delle  finanze
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 26 GIUGNO 2019, N. 103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-26;103)))
+Capo III
 
-### Art. 17
+### Art. 16.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 26 GIUGNO 2019, N. 103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-26;103)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 26 GIUGNO 2019, N. 103))
 
-### Art. 18
+### Art. 17.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 26 GIUGNO 2019, N. 103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-26;103)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 26 GIUGNO 2019, N. 103))
 
-CAPO VII Capo IV Disposizioni in materia di organizzazione e di personale
--------------------------------------------------------------------------
+### Art. 18.
 
-### Art. 19
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 26 GIUGNO 2019, N. 103))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 26 GIUGNO 2019, N. 103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-26;103)))
+## Disposizioni in materia di organizzazione e di personale
 
-CAPO VIII Capo V Norme comuni, transitorie, finali e di abrogazione
--------------------------------------------------------------------
+Capo IV
 
-### Art. 20
+### Art. 19.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 26 GIUGNO 2019, N. 103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-26;103)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 26 GIUGNO 2019, N. 103))
 
-### Art. 21
+## Norme comuni, transitorie, finali e di abrogazione
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 26 GIUGNO 2019, N. 103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-26;103)))
+Capo V
 
-Allegato 1
+### Art. 20.
 
- Allegato 1   
-  
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 26 GIUGNO 2019, N. 103))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 26 GIUGNO 2019, N. 103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-26;103)))
+### Art. 21.
+
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 26 GIUGNO 2019, N. 103))

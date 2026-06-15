@@ -1,103 +1,75 @@
-DECRETO-LEGGE 11 dicembre 2012 n. 216
+---
+tipo: DECRETO-LEGGE
+numero: 216
+data: 2012-12-11
+titolo: "Disposizioni urgenti volte a evitare l'applicazione di sanzioni dell'Unione europea. (12G0239)"
+urn: urn:nir:stato:decreto.legge:2012-12-11;216
+codice_redazionale: 012G0239
+vigente: true
+---
 
+## DISPOSIZIONI IN MATERIA DI FISCALITA' E DOGANE
 
-DECRETO-LEGGE 11 dicembre 2012 n. 216
-=====================================
+Capo I
 
-Disposizioni urgenti volte a evitare l'applicazione di sanzioni dell'Unione europea. (12G0239)
-----------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del provvedimento: 11/12/2012.  
-Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 24 DICEMBRE 2012, N. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md)
 
-CAPO I Capo I DISPOSIZIONI IN MATERIA DI FISCALITA' E DOGANE
-------------------------------------------------------------
+## DISPOSIZIONI IN MATERIA DI LAVORO E DI POLITICA SOCIALE
 
-### Art. 1
+Capo II
 
-  
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 24 DICEMBRE 2012, N. 228](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228)
-  
+### Art. 2.
 
-CAPO II Capo II DISPOSIZIONI IN MATERIA DI LAVORO E DI POLITICA SOCIALE
------------------------------------------------------------------------
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 24 DICEMBRE 2012, N. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md)
 
-### Art. 2
+### Art. 3.
 
-  
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 24 DICEMBRE 2012, N. 228](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 24 DICEMBRE 2012, N. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md)
 
-### Art. 3
+## DISPOSIZIONI IN MATERIA DI SANITA' PUBBLICA
 
-  
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 24 DICEMBRE 2012, N. 228](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228)
-  
+Capo III
 
-CAPO III Capo III DISPOSIZIONI IN MATERIA DI SANITA' PUBBLICA
--------------------------------------------------------------
+### Art. 4.
 
-### Art. 4
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 24 DICEMBRE 2012, N. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md)
 
-  
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 24 DICEMBRE 2012, N. 228](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228)
-  
+### Art. 5.
 
-### Art. 5
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 24 DICEMBRE 2012, N. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md)
 
-  
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 24 DICEMBRE 2012, N. 228](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228)
-  
+### Art. 6.
 
-### Art. 6
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 24 DICEMBRE 2012, N. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md)
 
-  
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 24 DICEMBRE 2012, N. 228](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228)
-  
+## ALTRE DISPOSIZIONI
 
-CAPO IV Capo IV ALTRE DISPOSIZIONI
-----------------------------------
+Capo IV
 
-### Art. 7
+### Art. 7.
 
-  
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 24 DICEMBRE 2012, N. 228](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 24 DICEMBRE 2012, N. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md)
 
-### Art. 8
+### Art. 8.
 
-  
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 24 DICEMBRE 2012, N. 228](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 24 DICEMBRE 2012, N. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md)
 
-### Art. 9
+### Art. 9.
 
-  
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 24 DICEMBRE 2012, N. 228](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 24 DICEMBRE 2012, N. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md)
 
-### Art. 10
+### Art. 10.
 
-  
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 24 DICEMBRE 2012, N. 228](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 24 DICEMBRE 2012, N. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md)

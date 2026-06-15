@@ -1,26 +1,24 @@
-DECRETO-LEGGE 04 giugno 2013 n. 63
-
-
-DECRETO-LEGGE 04 giugno 2013 n. 63
-==================================
-
-Disposizioni urgenti per il recepimento della Direttiva 2010/31/UE del Parlamento europeo e del Consiglio del 19 maggio 2010, sulla prestazione energetica nell'edilizia per la definizione delle procedure d'infrazione avviate dalla Commissione europea, nonche' altre disposizioni in materia di coesione sociale. (13G00107)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/06/2013.Decreto-Legge convertito con modificazioni dalla [L. 3 agosto 2013, n. 90](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-08-03;90) (in G.U. 03/08/2013, n. 181).
+---
+tipo: DECRETO-LEGGE
+numero: 63
+data: 2013-06-04
+titolo: "Disposizioni urgenti per il recepimento della Direttiva 2010/31/UE del Parlamento europeo e del Consiglio del 19 maggio 2010, sulla prestazione energetica nell'edilizia per la definizione delle procedure d'infrazione avviate dalla Commissione europea, nonche' altre disposizioni in materia di coesione sociale. (13G00107)"
+urn: urn:nir:stato:decreto.legge:2013-06-04;63
+codice_redazionale: 13G00107
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
+Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 24 dicembre 2012, n. 234](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;234), recante norme generali sulla partecipazione dell'Italia alla formazione e all'attuazione della normativa e delle politiche dell'Unione europea ed, in particolare l'articolo 37;
+Vista la [legge 24 dicembre 2012, n. 234](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20alla%20formazione%20e%20allattuazione%20della%20normativa%20e%20delle%20politiche%20dellUnione%20europea.%2013G00003.md), recante norme generali sulla partecipazione dell'Italia alla formazione e all'attuazione della normativa e delle politiche dell'Unione europea ed, in particolare l'articolo 37;
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni volte a favorire la riqualificazione e l'efficienza energetica del patrimonio immobiliare italiano in conformita' al diritto dell'Unione europea.
 
-Ritenuta, in particolare, la straordinaria necessita' ed urgenza di emanare disposizioni finalizzate a recepire la [direttiva 2010/31/UE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32010L0031) e ad evitare il prossimo aggravamento della procedura di infrazione nei confronti dell'Italia (procedura di infrazione n. 2012/0368), avviata dalla Commissione europea in data 24 settembre 2012, per il mancato recepimento della direttiva e attualmente allo stadio di parere motivato emesso in data 25 gennaio 2013;
+Ritenuta, in particolare, la straordinaria necessita' ed urgenza di emanare disposizioni finalizzate a recepire la [direttiva 2010/31/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2010;31) e ad evitare il prossimo aggravamento della procedura di infrazione nei confronti dell'Italia (procedura di infrazione n. 2012/0368), avviata dalla Commissione europea in data 24 settembre 2012, per il mancato recepimento della direttiva e attualmente allo stadio di parere motivato emesso in data 25 gennaio 2013;
 
-Ritenuto altresi' di emanare disposizioni per porre definitivamente rimedio anche alla procedura d'infrazione n. 2006/2378, in materia di attestato di certificazione energetica e di informazione al pubblico al momento di trasferimenti e locazioni, aperta da parte della Commissione europea nei confronti dell'Italia il 18 ottobre 2006 per non completo e conforme recepimento della [direttiva 2002/91/CE del Parlamento europeo e del Consiglio, del 16 dicembre 2002](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32002L0091), che la [direttiva 2010/31/UE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32010L0031) rifonde e contestualmente abroga;
+Ritenuto altresi' di emanare disposizioni per porre definitivamente rimedio anche alla procedura d'infrazione n. 2006/2378, in materia di attestato di certificazione energetica e di informazione al pubblico al momento di trasferimenti e locazioni, aperta da parte della Commissione europea nei confronti dell'Italia il 18 ottobre 2006 per non completo e conforme recepimento della [direttiva 2002/91/CE del Parlamento europeo e del Consiglio, del 16 dicembre 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;91), che la [direttiva 2010/31/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2010;31) rifonde e contestualmente abroga;
 
 Ritenuta la necessita' di destinare ulteriori risorse per il rifinanziamento degli ammortizzatori sociali in deroga, nonche' per la dotazione del Fondo per gli interventi strutturali al fine di rimodulare gli interventi a sostegno dell'occupazione;
 
@@ -30,868 +28,629 @@ Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 3
 
 Sulla proposta del Presidente del Consiglio dei Ministri, del Ministro per gli affari europei, del Ministro dello sviluppo economico e del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro per la pubblica amministrazione e la semplificazione, il Ministro per gli affari regionali e le autonomie, il Ministro degli affari esteri, il Ministro dell'economia e delle finanze, il Ministro della giustizia e con il Ministro dell'ambiente e della tutela del territorio e del mare;
 
-Emana
------
+Emana il seguente decreto-legge:
+
+## Art. 1. — Modificazioni all'articolo 1 del decreto legislativo 19 agosto 2005, n. 192
+
+1.
+
+L'[articolo 1 del decreto legislativo 19 agosto 2005, n. 192](Attuazione%20della%20direttiva%20UE%202018-844%20che%20modifica%20la%20direttiva%202010-31-UE%20sulla%20prestazione%20energetica%20nelledilizia%20e%20la%20direttiva%202012-27-UE%20sullefficienza%20energetica%20della%20direttiva%202_f90d70b9701a.md), e' sostituito dal seguente: 
+ «Art. 1. (Finalita'). - 1. Il presente decreto promuove il miglioramento della prestazione energetica degli edifici tenendo conto delle condizioni locali e climatiche esterne, nonche' delle prescrizioni relative al clima degli ambienti interni e all'efficacia sotto il profilo dei costi. 
+ 2. Il presente decreto definisce e integra criteri, condizioni e modalita' per: 
+ a) migliorare le prestazioni energetiche degli edifici; 
+ b) favorire lo sviluppo, la valorizzazione e l'integrazione delle fonti rinnovabili negli edifici; 
+ ((b-bis) determinare i criteri generali per la certificazione della prestazione energetica degli edifici e per il trasferimento delle relative informazioni in sede di compravendita e locazione; 
+ b-ter) effettuare le ispezioni periodiche degli impianti per la climatizzazione invernale ed estiva al fine di ridurre il consumo energetico e le emissioni di biossido di carbonio)); 
+ c) sostenere la diversificazione energetica; 
+ d) promuovere la competitivita' dell'industria nazionale attraverso lo sviluppo tecnologico; 
+ ((e) coniugare le opportunita' offerte dagli obiettivi di efficienza energetica con lo sviluppo di materiali, di tecniche di costruzione, di apparecchiature e di tecnologie sostenibili nel settore delle costruzioni e con l' occupazione)); 
+ f) conseguire gli obiettivi nazionali in materia energetica e ambientale; 
+ g) razionalizzare le procedure nazionali e territoriali per l'attuazione delle normative energetiche al fine di ridurre i costi complessivi, per la pubblica amministrazione e per i cittadini e per le imprese; 
+ h) applicare in modo omogeneo e integrato la normativa su tutto il territorio nazionale. 
+ ((h-bis) assicurare l'attuazione e la vigilanza sulle norme in materia di prestazione energetica degli edifici, anche attraverso la raccolta e l'elaborazione di informazioni e dati; 
+ h-ter) promuovere l'uso razionale dell'energia anche attraverso l'informazione e la sensibilizzazione degli utenti finali)).».
+
+## Art. 2. — Modificazioni all'articolo 2 del decreto legislativo 19 agosto 2005, n. 192
+
+((01. Al comma 1 dell'articolo 2 del decreto legislativo 19 agosto 2005, n. 192, la lettera c) e' sostituita dalla seguente: 
+ "c) 'prestazione energetica di un edificio': quantita' annua di energia primaria effettivamente consumata o che si prevede possa essere necessaria per soddisfare, con un uso standard dell'immobile, i vari bisogni energetici dell'edificio, la climatizzazione invernale e estiva, la preparazione dell'acqua calda per usi igienici sanitari, la ventilazione e, per il settore terziario, l'illuminazione, gli impianti ascensori e scale mobili. Tale quantita' viene espressa da uno o piu' descrittori che tengono conto del livello di isolamento dell'edificio e delle caratteristiche tecniche e di installazione degli impianti tecnici. La prestazione energetica puo' essere espressa in energia primaria non rinnovabile, rinnovabile, o totale come somma delle precedenti"))
+
+1.
+
+Al [comma 1 dell'articolo 2 del decreto legislativo 19 agosto 2005, n. 192](Attuazione%20della%20direttiva%20UE%202018-844%20che%20modifica%20la%20direttiva%202010-31-UE%20sulla%20prestazione%20energetica%20nelledilizia%20e%20la%20direttiva%202012-27-UE%20sullefficienza%20energetica%20della%20direttiva%202_f90d70b9701a.md), dopo la lettera l) sono aggiunte le seguenti: 
+ «l-bis) "attestato di prestazione energetica dell'edificio": documento, redatto nel rispetto delle norme contenute nel presente decreto e rilasciato da esperti qualificati e indipendenti che attesta la prestazione energetica di un edificio attraverso l'utilizzo di specifici descrittori e fornisce raccomandazioni per il miglioramento dell'efficienza energetica; 
+ l-ter) "attestato di qualificazione energetica": il documento predisposto ed asseverato da un professionista abilitato, non necessariamente estraneo alla proprieta', alla progettazione o alla realizzazione dell'edificio, nel quale sono riportati i fabbisogni di energia primaria di calcolo, la classe di appartenenza dell'edificio, o dell'unita' immobiliare, in relazione al sistema di certificazione energetica in vigore, ed i corrispondenti valori massimi ammissibili fissati dalla normativa in vigore per il caso specifico o, ove non siano fissati tali limiti, per un identico edificio di nuova costruzione; 
+ l-quater) "cogenerazione": produzione simultanea, nell'ambito di un unico processo, di energia termica e di energia elettrica e/o meccanica rispondente ai requisiti di cui al decreto del Ministro dello sviluppo economico 4 agosto 2011 ((, pubblicato nella Gazzetta Ufficiale n. 218 del 19 settembre 2011)); 
+ l-quinquies) (("confine del sistema" o "confine energetico dell'edificio")): confine che include tutte le aree di pertinenza dell'edificio, sia all'interno che all'esterno dello stesso, dove l'energia e' consumata o prodotta; 
+ l-sexies) "edificio adibito ad uso pubblico": edificio nel quale si svolge, in tutto o in parte, l'attivita' istituzionale di enti pubblici; 
+ l-septies) "edificio di proprieta' pubblica": edificio di proprieta' dello Stato, delle regioni o degli enti locali, nonche' di altri enti pubblici, anche economici ed occupati dai predetti soggetti; 
+ l-octies) "edificio a energia quasi zero": edificio ad altissima prestazione energetica, calcolata conformemente alle disposizioni del presente decreto, che rispetta i requisiti definiti al decreto di cui all'articolo 4, comma 1. Il fabbisogno energetico molto basso o quasi nullo e' coperto in misura significativa da energia da fonti rinnovabili, ((prodotta in situ)); 
+ l-novies) (("edificio di riferimento" o "target)) per un edificio sottoposto a verifica progettuale, diagnosi, o altra valutazione energetica": edificio identico in termini di geometria (sagoma, volumi, superficie calpestabile, superfici degli elementi costruttivi e dei componenti), orientamento, ubicazione territoriale, destinazione d'uso e situazione al contorno, e avente caratteristiche termiche e parametri energetici predeterminati; 
+ l-decies) "elemento edilizio": sistema tecnico per l'edilizia o componente dell'involucro di un edificio; 
+ l-undecies) "energia consegnata o fornita": energia espressa per vettore energetico finale, fornita al confine dell'edificio agli impianti tecnici per produrre energia termica o elettrica per i servizi energetici dell'edificio; 
+ l-duodecies) "energia da fonti rinnovabili": energia proveniente da fonti rinnovabili non fossili, vale a dire energia eolica, solare, aerotermica, geotermica, idrotermica e oceanica, idraulica, biomassa, gas di discarica, gas residuati dai processi di depurazione e biogas; 
+ l-ter decies) "energia esportata": quantita' di energia, relativa a un dato vettore energetico, generata all'interno del confine del sistema ((e ceduta per l'utilizzo)) all'esterno dello stesso confine; 
+ l-quater decies) "energia primaria": energia, da fonti rinnovabili e non, che non ha subito alcun processo di conversione o trasformazione; 
+ l-quinquies decies) "energia prodotta in situ": energia prodotta o captata o prelevata all'interno del confine del sistema; 
+ l-sexies decies) "fabbisogno annuale globale di energia primaria": quantita' di energia primaria relativa a tutti i servizi ((considerati nella determinazione della prestazione energetica, erogata)) dai sistemi tecnici presenti all'interno del confine del sistema, calcolata su un intervallo temporale di un anno; 
+ l-septies decies) "fabbricato": sistema costituito dalle strutture edilizie esterne, costituenti l'involucro dell'edificio, che delimitano un volume definito e dalle strutture interne di ripartizione dello stesso volume. Sono esclusi gli impianti e i dispositivi tecnologici che si trovano al suo interno; 
+ l-octies decies) "fattore di conversione in energia primaria": rapporto adimensionale che indica la quantita' di energia primaria impiegata per produrre un'unita' di energia fornita, per un dato vettore energetico; tiene conto dell'energia necessaria per l'estrazione, il processamento, lo stoccaggio, il trasporto e, nel caso dell'energia elettrica, del rendimento medio del sistema di generazione e delle perdite medie di trasmissione del sistema elettrico nazionale e nel caso del teleriscaldamento, delle perdite medie di distribuzione della rete. Questo fattore puo' riferirsi all'energia primaria non rinnovabile, all'energia primaria rinnovabile o all'energia primaria totale come somma delle precedenti; 
+ l-novies decies) "involucro di un edificio": elementi e componenti integrati di un edificio che ne separano gli ambienti interni dall'ambiente esterno; 
+ l-vicies) "livello ottimale in funzione dei costi": livello di prestazione energetica che comporta il costo piu' basso durante il ciclo di vita economico stimato, dove: 
+ 1) il costo piu' basso e' determinato tenendo conto dei costi di investimento legati all'energia, dei costi di manutenzione e di funzionamento e, se del caso, degli eventuali costi di smaltimento; 
+ 2) il ciclo di vita economico stimato si riferisce al ciclo di vita economico stimato rimanente di un edificio nel caso in cui siano stabiliti requisiti di prestazione energetica per l'edificio nel suo complesso oppure al ciclo di vita economico stimato di un elemento edilizio nel caso in cui siano stabiliti requisiti di prestazione energetica per gli elementi edilizi; 
+ 3) il livello ottimale in funzione dei costi si situa all'interno della scala di livelli di prestazione in cui l'analisi costi-benefici calcolata sul ciclo di vita economico e' positiva; 
+ l-vicies semel) "norma tecnica europea": norma adottata dal Comitato europeo di normazione, dal Comitato europeo di normalizzazione elettrotecnica o dall'Istituto europeo per le norme di telecomunicazione e resa disponibile per uso pubblico; 
+ l-vicies bis) ((LETTERA SOPPRESSA DALLA L. 3 AGOSTO 2013, N. 90)); 
+ l-vicies ter) "riqualificazione energetica di un edificio" un edificio esistente e' sottoposto a riqualificazione energetica quando i lavori in qualunque modo denominati, a titolo indicativo e non esaustivo: manutenzione ordinaria o straordinaria, ristrutturazione e risanamento conservativo, ricadono in tipologie diverse da quelle indicate ((alla lettera l-vicies quater) )); 
+ l-vicies quater) "ristrutturazione importante di un edificio": un edificio esistente e' sottoposto a ristrutturazione importante quando i lavori in qualunque modo denominati (a titolo indicativo e non esaustivo: manutenzione ordinaria o straordinaria, ristrutturazione e risanamento conservativo) insistono su oltre il 25 per cento della superficie dell'involucro dell'intero edificio, comprensivo di tutte le unita' immobiliari che lo costituiscono, ((e consistono, a titolo esemplificativo e non esaustivo, nel)) rifacimento di pareti esterne, di intonaci esterni, del tetto o dell'impermeabilizzazione delle coperture; 
+ l-vicies quinquies) (("sistema di climatizzazione estiva" o "impianto)) di condizionamento d'aria": complesso di tutti i componenti necessari a un sistema di trattamento dell'aria, attraverso il quale la temperatura e' controllata o puo' essere abbassata; 
+ l-vicies sexies) "sistema tecnico, per l'edilizia": impianto tecnologico ((dedicato a un servizio energetico)) o a una combinazione dei servizi energetici o ad assolvere a una o piu' funzioni connesse con i servizi energetici dell'edificio. Un sistema tecnico e' suddiviso in piu' sottosistemi; 
+ l-vicies septies) "teleriscaldamento" o "teleraffrescamento": distribuzione di energia termica in forma di vapore, acqua calda o liquidi refrigerati da una o piu' fonti di produzione verso una pluralita' di edifici o siti tramite una rete, per il riscaldamento o il raffrescamento di spazi, per processi di lavorazione e per la fornitura di acqua calda sanitaria; 
+ l-duodetricies) "unita' immobiliare": parte, piano o appartamento di un edificio progettati o modificati per essere usati separatamente; 
+ l-undetricies) "vettore energetico": sostanza o energia fornite dall'esterno del confine del sistema per il soddisfacimento dei fabbisogni energetici dell'edificio. 
+ ((l-tricies) "impianto termico": impianto tecnologico destinato ai servizi di climatizzazione invernale o estiva degli ambienti, con o senza produzione di acqua calda sanitaria, indipendentemente dal vettore energetico utilizzato, comprendente eventuali sistemi di produzione, distribuzione e utilizzazione del calore nonche' gli organi di regolarizzazione e controllo. Sono compresi negli impianti termici gli impianti individuali di riscaldamento. Non sono considerati impianti termici apparecchi quali: stufe, caminetti, apparecchi di riscaldamento localizzato ad energia radiante; tali apparecchi, se fissi, sono tuttavia assimilati agli impianti termici quando la somma delle potenze nominali del focolare degli apparecchi al servizio della singola unita' immobiliare e' maggiore o uguale a 5 kW. Non sono considerati impianti termici i sistemi dedicati esclusivamente alla produzione di acqua calda sanitaria al servizio di singole unita' immobiliari ad uso residenziale ed assimilate))».
+
+((1-bis. Nell'allegato A del [decreto legislativo 19 agosto 2005, n. 192](Attuazione%20della%20direttiva%20UE%202018-844%20che%20modifica%20la%20direttiva%202010-31-UE%20sulla%20prestazione%20energetica%20nelledilizia%20e%20la%20direttiva%202012-27-UE%20sullefficienza%20energetica%20della%20direttiva%202_f90d70b9701a.md), il punto 14 e' sostituito dal seguente: 
+ "14. fabbisogno annuo di energia primaria per la Climatizzazione invernale e' la quantita' di energia primaria globalmente richiesta, nel corso di un anno, per mantenere negli ambienti riscaldati la temperatura di progetto"))
+
+## Art. 3. — Modificazioni all'articolo 3 del decreto legislativo 19 agosto 2005, n. 192
+
+1.
+
+All'[articolo 3 del decreto legislativo 19 agosto 2005, n. 192](Attuazione%20della%20direttiva%20UE%202018-844%20che%20modifica%20la%20direttiva%202010-31-UE%20sulla%20prestazione%20energetica%20nelledilizia%20e%20la%20direttiva%202012-27-UE%20sullefficienza%20energetica%20della%20direttiva%202_f90d70b9701a.md), sono apportate le seguenti modificazioni:
+                        a)
+                            al comma 1, lettera b), le parole «agli articoli 7, 9 e 12» sono sostituite dalle seguenti: «agli articoli 7 e 9»;
+                        b)
+                            dopo il comma 2, sono inseriti i seguenti: 
+ «2-bis. Il presente decreto si applica all'edilizia pubblica e privata. 
+ 2-ter. Il presente decreto disciplina in particolare: 
+ a) la metodologia per il calcolo delle prestazioni energetiche degli edifici; 
+ b) le prescrizioni e i requisiti minimi in materia di prestazioni energetiche degli edifici quando sono oggetto di: 
+ 1) nuova costruzione; 
+ 2) ristrutturazioni importanti; 
+ 3) riqualificazione energetica; 
+ c) la definizione di un Piano di azione per la promozione degli edifici a "energia quasi zero"; 
+ d) l'attestazione della prestazione energetica degli edifici e delle unita' immobiliari; 
+ e) lo sviluppo di strumenti finanziari e la rimozione di barriere di mercato per la promozione dell'efficienza energetica degli edifici; 
+ f) l'utilizzo delle fonti energetiche rinnovabili negli edifici; 
+ g) la realizzazione di un sistema coordinato di ispezione periodica degli impianti termici negli edifici; 
+ h) i requisiti professionali e di indipendenza degli esperti o degli organismi cui affidare l'attestazione della prestazione energetica degli edifici e l'ispezione degli impianti di climatizzazione; 
+ i) la realizzazione e l'adozione di strumenti comuni allo Stato e alle regioni e province autonome per la gestione degli adempimenti a loro carico; 
+ l) la promozione dell'uso razionale dell'energia anche attraverso l'informazione e la sensibilizzazione degli utenti finali, la formazione e l'aggiornamento degli operatori del settore; 
+ m) la raccolta delle informazioni e delle esperienze, delle elaborazioni e degli studi necessari all'orientamento della politica energetica del settore.»;
+                        c)
+                            il comma 3 e' sostituito dal seguente: 
+ «3. Sono escluse dall'applicazione del presente decreto le seguenti categorie di edifici: 
+ a) gli edifici ricadenti nell'ambito della disciplina della parte seconda e dell'[articolo 136, comma 1, lettere b)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) e [c), del decreto legislativo 22 gennaio 2004, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), recante il [codice dei beni culturali e del paesaggio](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), fatto salvo quanto disposto al comma 3-bis; 
+ b) gli edifici industriali e artigianali quando gli ambienti sono riscaldati per esigenze del processo produttivo o utilizzando reflui energetici del processo produttivo non altrimenti utilizzabili; 
+ c) edifici rurali non residenziali sprovvisti di impianti di climatizzazione; 
+ d) i fabbricati isolati con una superficie utile totale inferiore a 50 metri quadrati; 
+ e) gli edifici che risultano non compresi nelle categorie di edifici classificati sulla base della destinazione d'uso di cui all'[articolo 3 del decreto del Presidente della Repubblica 26 agosto 1993, n. 412](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20la%20progettazione%20linstallazione%20lesercizio%20e%20la%20manutenzione%20degli%20impianti%20termici%20degli%20edifici%20ai%20fini%20del%20contenimento%20dei%20consumi%20di%20energia%20in%20attuazio_9b3be45049cf.md), il cui utilizzo standard non prevede l'installazione e l'impiego di sistemi tecnici ((di climatizzazione)), quali box, cantine, autorimesse, parcheggi multipiano, depositi, strutture stagionali a protezione degli impianti sportivi, fatto salvo quanto disposto dal comma 3-ter; 
+ f) gli edifici adibiti a luoghi di culto e allo svolgimento di attivita' religiose.»;
+                        d)
+                            dopo il comma 3, sono inseriti i seguenti: 
+ «3-bis. Per gli edifici di cui al comma 3, lettera a), il presente decreto si applica limitatamente alle disposizioni concernenti: 
+ a) l'attestazione della prestazione energetica degli edifici, di cui all'articolo 6; 
+ b) l' esercizio, la manutenzione e le ispezioni degli impianti tecnici, di cui all'articolo 7. 
+ ((3-bis. 1. Gli edifici di cui al comma 3, lettera a), sono esclusi dall'applicazione del presente decreto ai sensi del comma 3-bis, solo nel caso in cui, previo giudizio dell'autorita' competente al rilascio dell'autorizzazione ai sensi del codice di cui al decreto legislativo 22 gennaio 2004, n. 42, il rispetto delle prescrizioni implichi un'alterazione sostanziale del loro carattere o aspetto, con particolare riferimento ai profili storici, artistici e paesaggistici)). 
+ 3-ter. Per gli edifici di cui al comma 3, lettera d), il presente decreto si applica limitatamente alle porzioni eventualmente adibite ad uffici e assimilabili, purche' scorporabili ai fini della valutazione di efficienza energetica.».
+
+## Art. 4. — Modificazioni all'articolo 4 del decreto legislativo 19 agosto 2005, n. 192
+
+1.
+
+All'[articolo 4 del decreto legislativo 19 agosto 2005, n. 192](Attuazione%20della%20direttiva%20UE%202018-844%20che%20modifica%20la%20direttiva%202010-31-UE%20sulla%20prestazione%20energetica%20nelledilizia%20e%20la%20direttiva%202012-27-UE%20sullefficienza%20energetica%20della%20direttiva%202_f90d70b9701a.md), sono apportate le seguenti modificazioni:
+                        a)
+                            il comma 1 e' sostituito dal seguente: 
+ «1. Con uno o piu' decreti del Ministro dello sviluppo economico, di concerto con il Ministro dell'ambiente e della tutela del territorio e del mare, il Ministro delle infrastrutture e dei trasporti e, per i profili di competenza, con il Ministro della salute e con il Ministro della difesa, acquisita l'intesa con la Conferenza unificata, sono definiti: 
+ a) le modalita' di applicazione della metodologia di calcolo delle prestazioni energetiche e l'utilizzo delle fonti rinnovabili negli edifici, in relazione ai paragrafi 1 e 2 dell'allegato I della [direttiva 2010/31/UE del Parlamento europeo e del Consiglio, del 19 maggio 2010](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2010;31), sulla prestazione energetica nell'edilizia, tenendo conto dei seguenti criteri generali: 
+ 1) la prestazione energetica degli edifici e' determinata in conformita' alla normativa tecnica UNI e CTI, allineate con le norme predisposte dal CEN a supporto della [direttiva 2010/31/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2010;31), su specifico mandato della Commissione europea; 
+ 2) il fabbisogno energetico annuale globale si calcola per singolo servizio energetico, espresso in energia primaria, su base mensile. Con le stesse modalita' si determina l'energia rinnovabile prodotta all'interno del confine del sistema; 
+ 3) si opera la compensazione mensile tra i fabbisogni energetici e l'energia rinnovabile prodotta all'interno del confine del sistema, per vettore energetico e fino a copertura totale del corrispondente vettore energetico consumato; 
+ 4) ai fini della compensazione di cui al numero 3, e' consentito utilizzare l'energia elettrica prodotta da fonti rinnovabili all'interno del confine del sistema ed esportata, secondo le modalita' definite dai decreti di cui al presente comma; 
+ b) l'applicazione di prescrizioni e requisiti minimi, aggiornati ogni cinque anni, in materia di prestazioni energetiche degli edifici e unita' immobiliari, siano essi di nuova costruzione, oggetto di ristrutturazioni importanti o di riqualificazioni energetiche, sulla base dell'applicazione della metodologia comparativa di cui all'[articolo 5 della direttiva 2010/31/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2010;31), secondo i seguenti criteri generali: 
+ 1) i requisiti minimi rispettano le valutazioni tecniche ed economiche di convenienza, fondate sull'analisi costi benefici del ciclo di vita economico degli edifici; 
+ 2) in caso di nuova costruzione e di ristrutturazione importante, i requisiti sono determinati con l'utilizzo dell' "edificio di riferimento", in funzione della tipologia edilizia e delle fasce climatiche; 
+ 3) per le verifiche necessarie a garantire il rispetto della qualita' energetica prescritta, sono previsti dei parametri specifici del fabbricato, in termini di indici di prestazione termica e di trasmittanze, e parametri complessivi, in termini di indici di prestazione energetica globale, espressi sia in energia primaria totale che in energia primaria non rinnovabile.»;
+                        b)
+                            dopo il comma 1 e' inserito il seguente: 
+ «1-bis. Con uno o piu' decreti del Presidente della Repubblica ((ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400,)) sono aggiornate, in relazione all'[articolo 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::2010;31#art_8) e agli [articoli da 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::2010;31#art_14) [a 17 della direttiva 2010/31/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2010;31), le modalita' di progettazione, installazione, esercizio, manutenzione e ispezione degli impianti termici per la climatizzazione invernale ed estiva degli edifici, nonche' i requisiti professionali e i criteri di accreditamento per assicurare la qualificazione e l'indipendenza degli esperti e degli organismi a cui affidare l'attestazione della prestazione energetica degli edifici e l'ispezione degli impianti di climatizzazione e la realizzazione di un sistema informativo coordinato per la gestione dei rapporti tecnici di ispezione e degli attestati di prestazione energetica. ((Per le attivita' propedeutiche all'emanazione dei decreti di cui al primo periodo, di competenza del Ministero dello sviluppo economico, quest'ultimo puo' avvalersi delle competenze dell'ENEA. Con gli stessi decreti, sono individuate modalita' di progettazione, installazione e manutenzione di sistemi di controllo attivo, come i sistemi di automazione, controllo e monitoraggio, finalizzati al risparmio energetico))»;
+                        c)
+                            al comma 2, le parole: «comma 1» sono sostituite dalle seguenti: «comma 1-bis» e dopo le parole: «Ministro dell'ambiente e della tutela del territorio» sono inserite le seguenti: «e, per i profili di competenza, con il Ministro della difesa».
+
+## Art. 5. — Modificazioni al decreto legislativo 19 agosto 2005, n. 192, in materia di edifici a energia quasi zero
+
+1.
+
+Dopo l'[articolo 4 del decreto legislativo 19 agosto 2005, n. 192](Attuazione%20della%20direttiva%20UE%202018-844%20che%20modifica%20la%20direttiva%202010-31-UE%20sulla%20prestazione%20energetica%20nelledilizia%20e%20la%20direttiva%202012-27-UE%20sullefficienza%20energetica%20della%20direttiva%202_f90d70b9701a.md), sono inseriti i seguenti: 
+ «Art. 4-bis. (Edifici ad energia quasi zero). - 1. A partire dal 31 dicembre 2018, gli edifici di nuova costruzione occupati da pubbliche amministrazioni e di proprieta' di queste ultime, ivi compresi gli edifici scolastici, devono essere edifici a energia quasi zero. Dal 1° gennaio 2021 la predetta disposizione e' estesa a tutti gli edifici di nuova costruzione. 
+ 2. Entro il ((30 giugno 2014)), con decreto del Ministro dello sviluppo economico, di concerto con i Ministri per la pubblica amministrazione e la semplificazione, della coesione territoriale, dell'economia e delle finanze, delle infrastrutture e dei trasporti, dell'ambiente e della tutela del territorio e del mare e con il Ministro della salute e il Ministro dell'istruzione, dell'universita' e della ricerca, ognuno per i profili di competenza, ((sentita la Conferenza unificata)) e' definito il Piano d'azione destinato ad aumentare il numero di edifici a energia quasi zero. Tale Piano, che puo' includere obiettivi differenziati per tipologia edilizia, e' trasmesso alla Commissione europea. 
+ 3. Il Piano d'azione di cui al comma 2 comprende, tra l'altro, i seguenti elementi: 
+ a) l'applicazione della definizione di edifici a energia quasi zero alle diverse tipologie di edifici e indicatori numerici del consumo di energia primaria, espresso in kWh/m² anno; 
+ b) le politiche e le misure finanziarie o di altro tipo previste per promuovere gli edifici a energia quasi zero, comprese le informazioni relative alle misure nazionali previste per l'integrazione delle fonti rinnovabili negli edifici, in attuazione della [direttiva 2009/28/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2009;28) ((, tenendo conto dell'esigenza prioritaria di contenere il consumo del territorio)); 
+ ((c) l'individuazione, sulla base dell'analisi costi-benefici sul costo di vita economico, di casi specifici per i quali non si applica quanto disposto al comma 1)); 
+ d) gli obiettivi intermedi di miglioramento della prestazione energetica degli edifici di nuova costruzione entro il 2015, in funzione dell'attuazione del comma 1. 
+ Art. 4-ter.(Strumenti finanziari e superamento delle barriere di mercato). - 1. Gli incentivi adottati dallo Stato, dalle regioni e dagli enti locali per promuovere l'efficienza energetica degli edifici, a qualsiasi titolo previsti, sono concessi nel rispetto di requisiti di efficienza commisurati alla tipologia, al tipo di utilizzo e contesto in cui e' inserito l'immobile, nonche' all'entita' dell'intervento. 
+ 2. Al fine di promuovere la realizzazione di servizi energetici e di misure di incremento dell'efficienza energetica degli edifici di proprieta' pubblica, con particolare attenzione agli edifici scolastici ((e agli ospedali)), anche attraverso le ESCO ((, il ricorso a forme di partenariato tra pubblico e privato, societa' private appositamente costituite)) o lo strumento del finanziamento tramite terzi, il fondo di garanzia cui all'[articolo 22, comma 4, del decreto legislativo 3 marzo 2011, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-03-03;28#art_22-com4), e' utilizzato anche per il sostegno della realizzazione di progetti di miglioramento dell'efficienza energetica nell'edilizia pubblica ((, ivi inclusa l'attestazione della prestazione energetica dell'intervento successiva a tale realizzazione, entro i limiti delle risorse del fondo stesso)). La dotazione del fondo e' incrementata attraverso i proventi delle aste delle quote di emissione di CO2 di cui all'[articolo 19 del decreto legislativo 13 marzo 2013, n.30](Attuazione%20della%20direttiva%202009-29-CE%20che%20modifica%20la%20direttiva%202003-87-CE%20al%20fine%20di%20perfezionare%20ed%20estendere%20il%20sistema%20comunitario%20per%20lo%20scambio%20di%20quote%20di%20emissione%20di%20gas%20a%20effett_3faeee611109.md), destinati ai progetti energetico ambientali, con le modalita' e nei limiti di cui ai commi 3 e 6 dello stesso articolo 19. Con il decreto di cui all'[articolo 22, comma 5, del decreto legislativo 3 marzo 2011, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-03-03;28#art_22-com5), sono definite le modalita' di gestione e accesso del fondo stesso. 
+ 3. L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile - ENEA, entro 90 giorni dalla data di entrata in vigore della presente disposizione, mette a disposizione un contratto-tipo per il miglioramento del rendimento energetico dell'edificio, ((analogo al contratto di rendimento energetico europeo EPC,)) che individui e misuri gli elementi a garanzia del risultato e che promuova la finanziabilita' delle iniziative, sulla base del modello contrattuale previsto all'articolo 7, comma 12, del decreto del Ministro dello sviluppo economico 28 dicembre 2012 ((, recante disposizioni in materia di incentivazione della produzione di energia termica da fonti rinnovabili ed interventi di efficienza energetica di piccole dimensioni, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 1 del 2 gennaio 2013)). 
+ 4. Entro il ((31 dicembre 2013)) il Ministero dello sviluppo economico, sentito il Ministero dell'ambiente e della tutela del territorio e del mare e la Conferenza unificata, redige un elenco delle misure finanziarie atte a favorire l'efficienza energetica negli edifici e la transizione verso gli edifici a energia quasi zero. Tale elenco e' aggiornato ogni tre anni e inviato alla Commissione nell'ambito del Piano d'azione nazionale per l'efficienza energetica di cui all'[articolo 24, paragrafo 2, della direttiva 2012/27/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2012;27).».
+
+## Art. 6. — Modificazioni al decreto legislativo 19 agosto 2005, n. 192, in materia di attestato di prestazione energetica, rilascio e affissione.
+
+1.
+
+L'[articolo 6 del decreto legislativo 19 agosto 2005, n. 192](Attuazione%20della%20direttiva%20UE%202018-844%20che%20modifica%20la%20direttiva%202010-31-UE%20sulla%20prestazione%20energetica%20nelledilizia%20e%20la%20direttiva%202012-27-UE%20sullefficienza%20energetica%20della%20direttiva%202_f90d70b9701a.md), e' sostituito dal seguente: 
+ «Art. 6. (Attestato di prestazione energetica, rilascio e affissione). - 1. A decorrere dalla data di entrata in vigore della presente disposizione, l'attestato di prestazione energetica degli edifici e' rilasciato per gli edifici o le unita' immobiliari costruiti, venduti o locati ad un nuovo locatario e per gli edifici indicati al comma 6. Gli edifici di nuova costruzione e quelli sottoposti a ristrutturazioni importanti, sono dotati di un attestato di prestazione energetica prima del rilascio del certificato di agibilita'. Nel caso di nuovo edificio, l'attestato e' prodotto a cura del costruttore, sia esso committente della costruzione o societa' di costruzione che opera direttamente. Nel caso di attestazione della prestazione degli edifici esistenti, ove previsto dal presente decreto, l'attestato e' prodotto a cura del proprietario dell'immobile. 
+ 2. Nel caso di vendita, di trasferimento di immobili a titolo gratuito o di nuova locazione di edifici o unita' immobiliari, ove l'edificio o l'unita' non ne sia gia' dotato, il proprietario e' tenuto a produrre l'attestato di prestazione energetica di cui al comma 1. In tutti i casi, il proprietario deve rendere disponibile l'attestato di prestazione energetica al potenziale acquirente o al nuovo locatario all'avvio delle rispettive trattative e consegnarlo alla fine delle medesime; in caso di vendita o locazione di un edificio prima della sua costruzione, il venditore o locatario fornisce evidenza della futura prestazione energetica dell'edificio e produce l'attestato di prestazione energetica entro quindici giorni dalla richiesta di rilascio del certificato di agibilita'. 
+ 3. Nei contratti di vendita, negli atti di trasferimento di immobili a titolo gratuito o nei nuovi contratti di locazione di edifici o di singole unita' immobiliari e' inserita apposita clausola con la quale l'acquirente o il conduttore danno atto di aver ricevuto le informazioni e la documentazione, comprensiva dell'attestato, in ordine alla attestazione della prestazione energetica degli edifici. 
+ 3-bis. ((A decorrere dalla data di entrata in vigore del decreto di adeguamento di cui al comma 12,)) L'attestato di prestazione energetica deve essere allegato al contratto di vendita, agli atti di trasferimento di immobili a titolo gratuito o ai nuovi contratti di locazione, pena la nullita' degli stessi contratti. 
+ 4. L'attestazione della prestazione energetica puo' riferirsi a una o piu' unita' immobiliari facenti parte di un medesimo edificio.
+L'attestazione di prestazione energetica riferita a piu' unita' immobiliari puo' essere prodotta solo qualora esse abbiano la medesima destinazione d'uso, la medesima situazione al contorno, il medesimo orientamento e la medesima geometria e siano servite, qualora presente, dal medesimo impianto termico destinato alla climatizzazione invernale e, qualora presente, dal medesimo sistema di climatizzazione estiva. 
+ 5. L'attestato di prestazione energetica di cui al comma 1 ha una validita' temporale massima di dieci anni a partire dal suo rilascio ed e' aggiornato a ogni intervento di ristrutturazione o riqualificazione che modifichi la classe energetica dell'edificio o dell'unita' immobiliare. La validita' temporale massima e' subordinata al rispetto delle prescrizioni per le operazioni di controllo di efficienza energetica dei sistemi tecnici dell'edificio, in particolare per gli impianti termici, comprese le eventuali necessita' di adeguamento, previste dai regolamenti di cui al [decreto del Presidente della Repubblica 16 aprile 2013, n. 74](../Regolamenti%20governativi/Regolamento%20recante%20definizione%20dei%20criteri%20generali%20in%20materia%20di%20esercizio%20conduzione%20controllo%20manutenzione%20e%20ispezione%20degli%20impianti%20termici%20per%20la%20climatizzazione%20invernale%20ed%20estiv_2429f06ebe8d.md), e al [decreto del Presidente della Repubblica 16 aprile 2013, n. 75](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20dei%20criteri%20di%20accreditamento%20per%20assicurare%20la%20qualificazione%20e%20lindipendenza%20degli%20esperti%20e%20degli%20organismi%20a%20cui%20affidare%20la%20certificazione%20energetica%20d_feac86638655.md). Nel caso di mancato rispetto di dette disposizioni, l'attestato di prestazione energetica decade il 31 dicembre dell'anno successivo a quello in cui e' prevista la prima scadenza non rispettata per le predette operazioni di controllo di efficienza energetica. A tali fini, i libretti di impianto previsti dai decreti di cui all'articolo 4, comma 1, lettera b), sono allegati, in originale o in copia, all'attestato di prestazione energetica. 
+ 6. Nel caso di edifici utilizzati da pubbliche amministrazioni e aperti al pubblico con superficie utile totale superiore a 500 m², ove l'edificio non ne sia gia' dotato, e' fatto obbligo al proprietario o al soggetto responsabile della gestione, di produrre l'attestato di prestazione energetica entro centottanta giorni dalla data di entrata in vigore della presente disposizione e di affiggere l'attestato di prestazione energetica con evidenza all'ingresso dell'edificio stesso o in altro luogo chiaramente visibile al pubblico. A partire dal 9 luglio 2015, la soglia di 500 m² di cui sopra, e' abbassata a 250 m². Per gli edifici scolastici tali obblighi ricadono sugli enti proprietari di cui all'[articolo 3 della legge 11 gennaio 1996, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-11;23#art_3). 
+ 6-bis. Il fondo di garanzia di cui all'[articolo 22, comma 4, del decreto legislativo 3 marzo 2011, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-03-03;28#art_22-com4), e' utilizzato entro i limiti delle risorse del fondo stesso anche per la copertura delle spese relative alla certificazione energetica e agli adeguamenti di cui al comma 6 del presente articolo. 
+ 7. Per gli edifici aperti al pubblico, con superficie utile totale superiore a 500 m², per i quali sia stato rilasciato l'attestato di prestazione energetica di cui ai commi 1 e 2, e' fatto obbligo, al proprietario o al soggetto responsabile della gestione dell'edificio stesso, di affiggere con evidenza tale attestato all'ingresso dell'edificio o in altro luogo chiaramente visibile al pubblico. 
+ 8. Nel caso di offerta di vendita o di locazione, i corrispondenti annunci tramite tutti i mezzi di comunicazione commerciali riportano gli indici di prestazione energetica dell'involucro e globale dell'edificio o dell'unita' immobiliare e la classe energetica corrispondente. 
+ 9. Tutti i contratti, nuovi o rinnovati, relativi alla gestione degli impianti termici o di climatizzazione degli edifici pubblici, o nei quali figura come committente un soggetto pubblico, devono prevedere la predisposizione dell'attestato di prestazione energetica dell'edificio o dell'unita' immobiliare interessati. 
+ 10. L'obbligo di dotare l'edificio di un attestato di prestazione energetica viene meno ove sia gia' disponibile un attestato in corso di validita', rilasciato conformemente alla [direttiva 2002/91/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;91). 
+ 11. L'attestato di qualificazione energetica, al di fuori di quanto previsto all'articolo 8, comma 2, e' facoltativo ed e' predisposto al fine di semplificare il successivo rilascio dell'attestato di prestazione energetica. A tale fine, l'attestato di qualificazione energetica comprende anche l'indicazione di possibili interventi migliorativi delle prestazioni energetiche e la classe di appartenenza dell'edificio, o dell'unita' immobiliare, in relazione al sistema di certificazione energetica in vigore, nonche' i possibili passaggi di classe a seguito della eventuale realizzazione degli interventi stessi. L'estensore provvede ad evidenziare opportunamente sul frontespizio del documento che il medesimo non costituisce attestato di prestazione energetica dell'edificio, ai sensi del presente decreto, nonche', nel sottoscriverlo, quale e' od e' stato il suo ruolo con riferimento all'edificio medesimo. 
+ 12. Con decreto del Ministro dello sviluppo economico, di concerto con i Ministri dell'ambiente e della tutela del territorio e del mare, delle infrastrutture e dei trasporti e per la pubblica amministrazione e la semplificazione, d'intesa con la Conferenza unificata, sentito il CNCU, avvalendosi delle metodologie di calcolo definite con i decreti di cui all' articolo 4, e' predisposto l'adeguamento del decreto del Ministro dello sviluppo economico 26 giugno 2009, pubblicato nella Gazzetta Ufficiale n. 158 del 10 luglio 2009, nel rispetto dei seguenti criteri e contenuti: 
+ a) la previsione di metodologie di calcolo semplificate, da rendere disponibili per gli edifici caratterizzati da ridotte dimensioni e prestazioni energetiche di modesta qualita', finalizzate a ridurre i costi a carico dei cittadini; 
+ b) la definizione di un attestato di prestazione energetica che comprende tutti i dati relativi all'efficienza energetica dell'edificio che consentano ai cittadini di valutare e confrontare edifici diversi. Tra tali dati sono obbligatori: 
+ 1) la prestazione energetica globale dell'edificio sia in termini di energia primaria totale che di energia primaria non rinnovabile, attraverso i rispettivi indici; 
+ 2) la classe energetica determinata attraverso l'indice di prestazione energetica globale dell'edificio, espresso in energia primaria non rinnovabile; 
+ 3) la qualita' energetica del fabbricato a contenere i consumi energetici per il riscaldamento e il raffrescamento, attraverso gli indici di prestazione termica utile per la climatizzazione invernale ed estiva dell'edificio; 
+ 4) i valori di riferimento, quali i requisiti minimi di efficienza energetica vigenti a norma di legge; 
+ 5) le emissioni di anidride carbonica; 
+ 6) l'energia esportata; 
+ 7) le raccomandazioni per il miglioramento dell'efficienza energetica dell'edificio con le proposte degli interventi piu' significativi ed economicamente convenienti, separando la previsione di interventi di ristrutturazione importanti da quelli di riqualificazione energetica; 
+ 8) le informazioni correlate al miglioramento della prestazione energetica, quali diagnosi e incentivi di carattere finanziario; 
+ c) la definizione di uno schema di annuncio di vendita o locazione, per esposizione nelle agenzie immobiliari, che renda uniformi le informazioni sulla qualita' energetica degli edifici fornite ai cittadini; 
+ d) la definizione di un sistema informativo comune per tutto il territorio nazionale, di utilizzo obbligatorio per le regioni e le province autonome, che comprenda la gestione di un catasto degli edifici, degli attestati di prestazione energetica e dei relativi controlli pubblici.».
+
+## Art. 7. — Modificazioni all'articolo 8 del decreto legislativo 19 agosto 2005, n. 192
+
+1.
+
+Il [comma 1 dell'articolo 8 del decreto legislativo 19 agosto 2005, n. 192](Attuazione%20della%20direttiva%20UE%202018-844%20che%20modifica%20la%20direttiva%202010-31-UE%20sulla%20prestazione%20energetica%20nelledilizia%20e%20la%20direttiva%202012-27-UE%20sullefficienza%20energetica%20della%20direttiva%202_f90d70b9701a.md), e' sostituito dal seguente: 
+ «1. Il progettista o i progettisti, nell'ambito delle rispettive competenze edili, impiantistiche termotecniche ((, elettriche)) e illuminotecniche, devono inserire i calcoli e le verifiche previste dal presente decreto nella relazione tecnica di progetto attestante la rispondenza alle prescrizioni per il contenimento del consumo di energia degli edifici e dei relativi impianti termici, che il proprietario dell'edificio, o chi ne ha titolo, deve depositare presso le amministrazioni competenti, in doppia copia, contestualmente alla dichiarazione di inizio dei lavori complessivi o degli specifici interventi proposti ((, o alla domanda di concessione edilizia)). Tali adempimenti, compresa la relazione, non sono dovuti in caso di ((...)) sostituzione del generatore di calore dell'impianto di climatizzazione avente potenza inferiore alla soglia prevista dall'articolo 5, comma 2, lettera g), del ((regolamento di cui al decreto del Ministro dello sviluppo economico 22 gennaio 2008, n. 37)). Gli schemi e le modalita' di riferimento per la compilazione della relazione tecnica di progetto sono definiti con decreto del Ministro dello sviluppo economico, di concerto con il Ministro delle infrastrutture e dei trasporti e per la pubblica amministrazione e la semplificazione, sentita la Conferenza unificata, in funzione delle diverse tipologie di lavori: nuove costruzioni, ristrutturazioni importanti, interventi di riqualificazione energetica. Ai fini della piu' estesa applicazione dell'[articolo 26, comma 7, della legge 9 gennaio 1991, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-09;10#art_26-com7), per gli enti soggetti all'obbligo di cui all'articolo 19 della stessa legge, la relazione tecnica di progetto e' integrata attraverso attestazione di verifica sulla ((applicazione del predetto articolo 26, comma 7,)) redatta dal Responsabile per la conservazione e l'uso razionale dell'energia nominato.».
+
+2.
+
+Dopo il comma 1 ((del citato articolo 8 del decreto legislativo n. 192 del 2005)), e' inserito il seguente: 
+ «((1-bis. In attuazione dell'articolo 6, paragrafi 1 e 2, della direttiva 2010/31/UE, in caso di edifici di nuova costruzione, e dell'articolo 7, in caso di edifici soggetti a ristrutturazione importante, nell'ambito della relazione di cui al comma 1 e' prevista una valutazione della fattibilita' tecnica, ambientale ed economica per l'inserimento di sistemi alternativi ad alta efficienza, tra i quali sistemi di fornitura di energia rinnovabile, cogenerazione, teleriscaldamento e teleraffrescamento, pompe di calore e sistemi di monitoraggio e controllo attivo dei consumi. La valutazione della fattibilita' tecnica di sistemi alternativi deve essere documentata e disponibile a fini di verifica)).».
+
+## Art. 8. — Modificazioni all'articolo 9 del decreto legislativo 19 agosto 2005, n. 192
+
+1.
+
+All'[articolo 9 del decreto legislativo 19 agosto 2005, n. 192](Attuazione%20della%20direttiva%20UE%202018-844%20che%20modifica%20la%20direttiva%202010-31-UE%20sulla%20prestazione%20energetica%20nelledilizia%20e%20la%20direttiva%202012-27-UE%20sullefficienza%20energetica%20della%20direttiva%202_f90d70b9701a.md), sono apportate le seguenti modificazioni:
+                        a)
+                            al [comma 3 dell'articolo 9 del decreto legislativo 19 agosto 2005, n. 192](Attuazione%20della%20direttiva%20UE%202018-844%20che%20modifica%20la%20direttiva%202010-31-UE%20sulla%20prestazione%20energetica%20nelledilizia%20e%20la%20direttiva%202012-27-UE%20sullefficienza%20energetica%20della%20direttiva%202_f90d70b9701a.md), il secondo periodo e' sostituito dal seguente: 
+ «A tali fini: 
+ a) i soggetti di cui all'articolo 7, comma 1, comunicano ((entro centoventi giorni)) all'ente competente in materia di controlli sugli impianti termici l'ubicazione e le principali caratteristiche degli impianti di proprieta' o dai medesimi gestiti nonche' le eventuali successive modifiche significative; 
+ b) le societa' di distribuzione dei diversi tipi di combustibile, a uso degli impianti termici, comunicano all'ente competente in materia di controlli sugli impianti termici l'ubicazione e la titolarita' delle utenze da esse rifornite al 31 dicembre di ogni anno; 
+ c) l'ente competente in materia di controlli sugli impianti termici trasmette annualmente alle regioni ((e alle province autonome)) i dati di cui alle lettere a) e b) per via informatica ((, avvalendosi del sistema informativo di cui all'articolo 4, comma 1-bis)).»;
+                        b)
+                            dopo il comma 5-bis, sono inseriti i seguenti: 
+ «5-ter. In tale contesto, fermo restando il divieto di aggravamento degli oneri e degli adempimenti amministrativi previsti dal presente decreto in conformita' alla [direttiva 2010/31/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2010;31), ((le regioni e le province autonome possono adottare provvedimenti migliorativi)) di quelli disposti dal presente decreto, in termini di: 
+ a) flessibilita' applicativa dei requisiti minimi, anche con l'utilizzo di soluzioni alternative, in relazione a specifiche situazioni di impossibilita' o di elevata onerosita', che comunque garantiscano un equivalente risultato sul bilancio energetico regionale; 
+ b) semplificazioni amministrative in materia di esercizio, manutenzione controllo e ispezione degli impianti termici, soprattutto in relazione all'integrazione dei controlli di efficienza energetica con quelli in tema di qualita' dell'aria. 
+ 5-quater. I provvedimenti di cui al comma 5-ter devono essere compatibili con il Trattato sul funzionamento dell'Unione europea, con la [direttiva 2010/31/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2010;31), con il presente decreto legislativo e devono essere notificati alla Commissione europea. 
+ 5-quinquies. Le regioni e le province autonome ((, in conformita' a quanto previsto dai regolamenti di cui ai decreti del Presidente della Repubblica 16 aprile 2013, n. 74, e 16 aprile 2013, n. 75,)) provvedono inoltre a: 
+ a) istituire un sistema di riconoscimento degli organismi e dei soggetti cui affidare le attivita' di ispezione sugli impianti termici e di attestazione della prestazione energetica degli edifici, promuovendo programmi per la loro qualificazione, formazione e aggiornamento professionale, tenendo conto dei requisiti previsti dalle norme nazionali e nel rispetto delle norme comunitarie in materia di libera circolazione dei servizi. 
+ b) avviare programmi di verifica annuale della conformita' dei rapporti di ispezione e degli attestati emessi. 
+ 5-sexies. Le regioni e le province autonome, anche attraverso propri enti o agenzie, collaborano con il Ministero dello sviluppo economico e, per la sola lettera c) anche ((con il Dipartimento della funzione pubblica della Presidenza del Consiglio dei Ministri)), per la definizione congiunta: 
+ a) di metodologie di calcolo della prestazione energetica degli edifici; 
+ b) di metodologie per la determinazione dei requisiti minimi di edifici e impianti; 
+ c) di sistemi di classificazione energetica degli edifici, compresa la definizione del sistema informativo comune di cui all'articolo 6, comma 12, lettera d); 
+ d) del ((Piano d'azione)) destinato ad aumentare il numero di edifici a energia quasi zero, di cui all'articolo 4-bis, comma 2; 
+ e) dell'azione di monitoraggio, analisi, valutazione e adeguamento della normativa energetica nazionale e regionale di cui agli articoli 10 e 13.».
+
+## Art. 9. — Modificazioni all'articolo 11 del decreto legislativo 19 agosto 2005, n. 192
+
+1.
+
+L'[articolo 11 del decreto legislativo 19 agosto 2005, n. 192](Attuazione%20della%20direttiva%20UE%202018-844%20che%20modifica%20la%20direttiva%202010-31-UE%20sulla%20prestazione%20energetica%20nelledilizia%20e%20la%20direttiva%202012-27-UE%20sullefficienza%20energetica%20della%20direttiva%202_f90d70b9701a.md), e' sostituito dal seguente: 
+ «Art. 11. (Norme transitorie). - 1. Nelle more dell'aggiornamento delle specifiche norme europee di riferimento per l'attuazione della [direttiva 2010/31/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2010;31), le metodologie di calcolo delle prestazioni energetiche degli edifici, di cui all'[articolo 3, comma 1, del decreto del Presidente della Repubblica 2 aprile 2009, n. 59](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20dellarticolo%204%20comma%201%20lettere%20a%20e%20b%20del%20decreto%20legislativo%2019%20agosto%202005%20n.%20192%20concernente%20attuazione%20della%20direttiva%202002-91-CE%20sul%20rendimento%20energetico%20in_28c3039a7a80.md), predisposte in conformita' alle norme EN a supporto delle [direttive 2002/91/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;91) e [2010/31/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2010;31), sono quelle di seguito elencate: 
+ a) raccomandazione CTI 14/2013 "Prestazioni energetiche degli edifici - Determinazione dell'energia primaria e della prestazione energetica EP per la classificazione dell'edificio", o normativa UNI equivalente e successive norme tecniche che ne conseguono; 
+ b) UNI/TS 11300 - 1 Prestazioni energetiche degli edifici - Parte 1: Determinazione del fabbisogno di energia termica dell'edificio per la climatizzazione estiva e invernale; 
+ c) UNI/TS 11300 - 2 Prestazioni energetiche degli edifici - Parte 2: Determinazione del fabbisogno di energia primaria e dei rendimenti per la climatizzazione invernale, per la produzione di acqua calda sanitaria, la ventilazione e l'illuminazione; 
+ d) UNI/TS 11300 - 3 Prestazioni energetiche degli edifici - Parte 3: Determinazione del fabbisogno di energia primaria e dei rendimenti per la climatizzazione estiva; 
+ e) UNI/TS 11300 - 4 Prestazioni energetiche degli edifici - Parte 4: Utilizzo di energie rinnovabili e di altri metodi di generazione per riscaldamento di ambienti e preparazione acqua calda sanitaria. 
+ ((e-bis) UNI EN 15193 - Prestazione energetica degli edifici - Requisiti energetici per illuminazione)).».
+
+## Art. 10. — Modificazioni dell'articolo 14 del decreto legislativo 19 agosto 2005, n. 192
+
+1.
+
+L'[articolo 14 del decreto legislativo 19 agosto 2005, n. 192](Attuazione%20della%20direttiva%20UE%202018-844%20che%20modifica%20la%20direttiva%202010-31-UE%20sulla%20prestazione%20energetica%20nelledilizia%20e%20la%20direttiva%202012-27-UE%20sullefficienza%20energetica%20della%20direttiva%202_f90d70b9701a.md), e' sostituito dal seguente: 
+ «Art. 14 (Copertura finanziaria). - 1. All'attuazione del presente decreto, fatta salva l'implementazione degli strumenti finanziari di cui all'articolo 4-ter, ((si provvede)) con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente, senza nuovi o maggiori oneri per la finanza pubblica.».
+
+## Art. 11. — Modificazioni dell'articolo 13 del decreto legislativo 19 agosto 2005, n. 192
+
+1.
+
+Il [comma 3 dell'articolo 13 del decreto legislativo 19 agosto 2005, n. 192](Attuazione%20della%20direttiva%20UE%202018-844%20che%20modifica%20la%20direttiva%202010-31-UE%20sulla%20prestazione%20energetica%20nelledilizia%20e%20la%20direttiva%202012-27-UE%20sullefficienza%20energetica%20della%20direttiva%202_f90d70b9701a.md), e' sostituito dal seguente: 
+ «3. Le attivita' di cui al comma 2, lettere a) e b), sono condotte in sinergia con le misure di accompagnamento previste dall'articolo 16 del decreto del Ministro dello sviluppo economico 28 dicembre 2012, recante disposizioni in materia di incentivazione della produzione di energia termica da fonti rinnovabili ed interventi di efficienza energetica di piccole dimensioni, e all'articolo 15 del decreto del Ministro dello sviluppo economico 28 dicembre 2012, recante disposizioni in materia di determinazione degli obiettivi quantitativi nazionali di risparmio energetico che devono essere perseguiti dalle imprese di distribuzione dell'energia elettrica e il gas per gli anni dal 2013 al 2016 e per il potenziamento del meccanismo dei certificati bianchi, pubblicati nel supplemento ordinario alla Gazzetta Ufficiale della Repubblica Italiana, n. 1 del 2 gennaio 2013.».
+
+## Art. 12. — Modificazioni dell'articolo 15 del decreto legislativo 19 agosto 2005, n. 192
+
+1.
+
+L'[articolo 15 del decreto legislativo 19 agosto 2005, n. 192](Attuazione%20della%20direttiva%20UE%202018-844%20che%20modifica%20la%20direttiva%202010-31-UE%20sulla%20prestazione%20energetica%20nelledilizia%20e%20la%20direttiva%202012-27-UE%20sullefficienza%20energetica%20della%20direttiva%202_f90d70b9701a.md), e' sostituito dal seguente: 
+ «Art. 15 (Sanzioni). - 1. L'attestato di prestazione energetica di cui all'articolo 6, il rapporto di controllo tecnico di cui all'articolo 7, la relazione tecnica, l'asseverazione di conformita' e l'attestato di qualificazione energetica di cui all'articolo 8, sono resi in forma di dichiarazione sostitutiva di atto notorio ai sensi dell'[articolo 47, del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), di cui al [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md). 
+ 2. Le autorita' competenti che ricevono i documenti di cui al comma 1 eseguono i controlli ((periodici e diffusi)) con le modalita' di cui all'[articolo 71 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), e applicano le sanzioni amministrative di cui ai commi da 3 a 6. Inoltre, qualora ricorrano le ipotesi di reato di cui all'[articolo 76, del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), si applicano le sanzioni previste dal medesimo articolo. 
+ 3. Il professionista qualificato che rilascia la relazione tecnica di cui all'articolo 8, compilata senza il rispetto degli schemi e delle modalita' stabilite nel decreto di cui all'articolo 8, comma 1 e 1-bis, o un attestato di prestazione energetica degli edifici senza il rispetto dei criteri e delle metodologie di cui all'articolo 6, e' punito con una sanzione amministrativa non inferiore a 700 euro e non superiore a 4200 euro. L'ente locale e la regione ((o la provincia autonoma)), che applicano le sanzioni secondo le rispettive competenze, danno comunicazione ai relativi ordini o collegi professionali per i provvedimenti disciplinari conseguenti. 
+ 4. Il direttore dei lavori che omette di presentare al comune l'asseverazione di conformita' delle opere e l'attestato di qualificazione energetica, di cui all'articolo 8, comma 2, ((prima del rilascio del certificato di agibilita')), e' punito con la sanzione amministrativa non inferiore a 1000 euro e non superiore a 6000 euro. Il comune che applica la sanzione deve darne comunicazione all'ordine o al collegio professionale competente per i provvedimenti disciplinari conseguenti. 
+ 5. Il proprietario o il conduttore dell'unita' immobiliare, l'amministratore del condominio, o l'eventuale terzo che se ne e' assunta la responsabilita', qualora non provveda alle operazioni di controllo e manutenzione degli impianti di climatizzazione secondo quanto stabilito dall'articolo 7, comma 1, e' punito con la sanzione amministrativa non inferiore a 500 euro e non superiore a 3000 euro. 
+ 6. L'operatore incaricato del controllo e manutenzione, che non provvede a redigere e sottoscrivere il rapporto di controllo tecnico di cui all'articolo 7, comma 2, e' punito con la sanzione amministrativa non inferiore a 1000 euro e non superiore a 6000 euro.
+L'ente locale, o la regione competente in materia di controlli, che applica la sanzione comunica alla camera di commercio, industria, artigianato e agricoltura di appartenenza per i provvedimenti disciplinari conseguenti. 
+ 7. In caso di violazione dell'obbligo di dotare di un attestato di prestazione energetica gli edifici di nuova costruzione e quelli sottoposti a ristrutturazioni importanti, come previsto dall'articolo 6, comma 1, il costruttore o il proprietario e' punito con la sanzione amministrativa non inferiore a 3000 euro e non superiore a 18000 euro. 
+ 8. In caso di violazione dell'obbligo di dotare di un attestato di prestazione energetica gli edifici o le unita' immobiliari nel caso di vendita, come previsto dall'articolo 6, comma 2, il proprietario e' punito con la sanzione amministrativa non inferiore a 3000 euro e non superiore a 18000 euro. 
+ 9. In caso di violazione dell'obbligo di dotare di un attestato di prestazione energetica gli edifici o le unita' immobiliari nel caso di nuovo contratto di locazione, come previsto dall'articolo 6, comma 2, il proprietario e' punito con la sanzione amministrativa non inferiore a 300 euro e non superiore a 1800 euro. 
+ 10. In caso di violazione dell'obbligo di riportare i parametri energetici nell'annuncio di offerta di vendita o locazione, come previsto dall'articolo 6, comma 8, il responsabile dell'annuncio e' punito con la sanzione amministrativa non inferiore a 500 euro e non superiore a 3000 euro.».
+
+## Art. 13. — Modificazioni dell'articolo 16 del decreto legislativo 19 agosto 2005, n. 192
+
+1.
+
+All'[articolo 16 del decreto legislativo 19 agosto 2005, n. 192](Attuazione%20della%20direttiva%20UE%202018-844%20che%20modifica%20la%20direttiva%202010-31-UE%20sulla%20prestazione%20energetica%20nelledilizia%20e%20la%20direttiva%202012-27-UE%20sullefficienza%20energetica%20della%20direttiva%202_f90d70b9701a.md), dopo il comma 4, e' aggiunto il seguente: 
+ «4-bis. Dalla data di entrata in vigore dei decreti di cui all'articolo 4, comma 1, e' abrogato il [decreto del Presidente della Repubblica 2 aprile 2009, n. 59](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20dellarticolo%204%20comma%201%20lettere%20a%20e%20b%20del%20decreto%20legislativo%2019%20agosto%202005%20n.%20192%20concernente%20attuazione%20della%20direttiva%202002-91-CE%20sul%20rendimento%20energetico%20in_28c3039a7a80.md);».
+
+## Art. 13-bis. — (( (Modifica dell'articolo 17 del decreto legislativo 19 agosto 2005, n. 192). ))
+
+((1. L'articolo 17 del decreto legislativo 19 agosto 2005, n. 192, e' sostituito dal seguente: 
+ "Art. 17. (Clausola di cedevolezza). - 1. In relazione a quanto disposto dall'articolo 117, quinto comma, della Costituzione, le disposizioni di cui al presente decreto si applicano alle regioni e alle province autonome che non abbiano ancora provveduto al recepimento della direttiva 2010/31/UE fino alla data di entrata in vigore della normativa di attuazione adottata da ciascuna regione e provincia autonoma. Nel dettare la normativa di attuazione le regioni e le province autonome sono tenute al rispetto dei vincoli derivanti dall'ordinamento europeo e dei principi fondamentali desumibili dal presente decreto. Sono fatte salve, in ogni caso, le norme di attuazione delle regioni e delle province autonome che, alla data di entrata in vigore della normativa statale di attuazione, abbiano gia' provveduto al recepimento"))
+
+## Art. 14. — Detrazioni fiscali per interventi di efficienza energetica
+
+1.
+
+Le disposizioni di cui all'[articolo 1, comma 48, della legge 13 dicembre 2010, n. 220](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202011.%2010G0238.md), e successive modificazioni, si applicano, nella misura del 65 per cento, anche alle spese sostenute dal 6 giugno 2013 al 31 dicembre 2024. PERIODO SOPPRESSO DAL [D.L. 19 MAGGIO 2020, N. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-19;34), CONVERTITO CON MODIFICAZIONI DALLA [L. 17 LUGLIO 2020, N.
+77](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20maggio%202020%20n.%2034%20recante%20misure%20urgenti%20in%20materia%20di%20salute%20sostegno%20al%20lavoro%20e%20alleconomia%20nonche%20di%20politiche%20sociali%20conn_7955b884286a.md). PERIODO SOPPRESSO DAL [D.L. 19 MAGGIO 2020, N. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-19;34), CONVERTITO CON MODIFICAZIONI DALLA [L. 17 LUGLIO 2020, N. 77](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20maggio%202020%20n.%2034%20recante%20misure%20urgenti%20in%20materia%20di%20salute%20sostegno%20al%20lavoro%20e%20alleconomia%20nonche%20di%20politiche%20sociali%20conn_7955b884286a.md). PERIODO SOPPRESSO DAL [D.L. 19 MAGGIO 2020, N. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-19;34), CONVERTITO CON MODIFICAZIONI DALLA [L. 17 LUGLIO 2020, N. 77](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20maggio%202020%20n.%2034%20recante%20misure%20urgenti%20in%20materia%20di%20salute%20sostegno%20al%20lavoro%20e%20alleconomia%20nonche%20di%20politiche%20sociali%20conn_7955b884286a.md).
+
+2.
+
+La detrazione di cui al comma 1 si applica, nella misura del 65 per cento, anche alle spese documentate e rimaste a carico del contribuente:
+                        a)
+                            per interventi relativi a parti comuni degli edifici condominiali di cui agli [articoli 1117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1117) e [1117-bis del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1117bis) o che interessino tutte le unita' immobiliari di cui si compone il singolo condominio, sostenute dal 6 giugno 2013 al 31 dicembre 2024;
+                        b)
+                            per l'acquisto e la posa in opera delle schermature solari di cui all'allegato M al [decreto legislativo 29 dicembre 2006, n. 311](../Decreti%20Legislativi/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2019%20agosto%202005%20n.%20192%20recante%20attuazione%20della%20direttiva%202002-91-CE%20relativa%20al%20rendimento%20energetico%20nelledilizia.md), sostenute dal 1º gennaio 2015 al 31 dicembre 2024, fino a un valore massimo della detrazione di 60.000 euro.
+                        b-bis)
+                            per l'acquisto e la posa in opera di micro-cogeneratori in sostituzione di impianti esistenti, sostenute dal 1° gennaio 2020 al 31 dicembre 2024, fino a un valore massimo della detrazione di 100.000 euro. Per poter beneficiare della suddetta detrazione gli interventi in oggetto devono condurre a un risparmio di energia primaria (PES), come definito all'allegato III del decreto del Ministro dello sviluppo economico 4 agosto 2011, pubblicato nella Gazzetta Ufficiale n. 218 del 19 settembre 2011, pari almeno al 20 per cento. PERIODO SOPPRESSO DALLA [L. 27 DICEMBRE 2019, N. 160](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202020%20e%20bilancio%20pluriennale%20per%20il%20triennio%202020-2022.%2019G00165.md).
+PERIODO SOPPRESSO DALLA [L. 27 DICEMBRE 2019, N. 160](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202020%20e%20bilancio%20pluriennale%20per%20il%20triennio%202020-2022.%2019G00165.md). PERIODO SOPPRESSO DALLA [L. 27 DICEMBRE 2019, N. 160](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202020%20e%20bilancio%20pluriennale%20per%20il%20triennio%202020-2022.%2019G00165.md). 
+PERIODO SOPPRESSO DALLA [L. 27 DICEMBRE 2019, N. 160](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202020%20e%20bilancio%20pluriennale%20per%20il%20triennio%202020-2022.%2019G00165.md). PERIODO SOPPRESSO DALLA [L. 27 DICEMBRE 2019, N. 160](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202020%20e%20bilancio%20pluriennale%20per%20il%20triennio%202020-2022.%2019G00165.md). PERIODO SOPPRESSO DALLA [L. 27 DICEMBRE 2019, N. 160](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202020%20e%20bilancio%20pluriennale%20per%20il%20triennio%202020-2022.%2019G00165.md). 
+ 2.1. La detrazione di cui ai commi 1 e 2 e' ridotta al 50 per cento per le spese, sostenute dal 1° gennaio 2018, relative agli interventi di acquisto e posa in opera di finestre comprensive di infissi, di schermature solari e di sostituzione di impianti di climatizzazione invernale con impianti dotati di caldaie a condensazione con efficienza almeno pari alla classe A di prodotto prevista dal regolamento delegato (UE) n. 811/2013 della Commissione, del 18 febbraio 2013. Sono esclusi dalla detrazione di cui al presente articolo gli interventi di sostituzione di impianti di climatizzazione invernale con impianti dotati di caldaie a condensazione con efficienza inferiore alla classe di cui al periodo precedente. La detrazione si applica nella misura del 65 per cento per gli interventi di sostituzione di impianti di climatizzazione invernale con impianti dotati di caldaie a condensazione, di efficienza almeno pari alla classe A di prodotto prevista dal citato regolamento delegato (UE) n. 811/2013, e contestuale installazione di sistemi di termoregolazione evoluti, appartenenti alle classi V, VI oppure VIII della comunicazione 2014/C 207/02 della Commissione, o con impianti dotati di apparecchi ibridi, costituiti da pompa di calore integrata con caldaia a condensazione, assemblati in fabbrica ed espressamente concepiti dal fabbricante per funzionare in abbinamento tra loro, o per le spese sostenute per l'acquisto e la posa in opera di generatori d'aria calda a condensazione. (14)
+
+2-bis.
+
+La detrazione nella misura del 50 per cento si applica altresi' alle spese sostenute dal 1° gennaio 2021 al 31 dicembre 2024 per l'acquisto e la posa in opera di impianti di climatizzazione invernale con impianti dotati di generatori di calore alimentati da biomasse combustibili, fino a un valore massimo della detrazione di 30.000 euro.
+
+2-ter.
+
+COMMA ABROGATO DAL [D.L. 16 FEBBRAIO 2023, N. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-02-16;11).
+
+2-quater.
+
+Per le spese sostenute dal 1º gennaio 2017 al 31 dicembre 2024 per interventi di riqualificazione energetica di parti comuni degli edifici condominiali, che interessino l'involucro dell'edificio con un'incidenza superiore al 25 per cento della superficie disperdente lorda dell'edificio medesimo, la detrazione di cui al comma 1 spetta nella misura del 70 per cento. La medesima detrazione spetta, nella misura del 75 per cento, per le spese sostenute per interventi di riqualificazione energetica relativi alle parti comuni di edifici condominiali finalizzati a migliorare la prestazione energetica invernale ed estiva e che conseguano almeno la qualita' media di cui al decreto del Ministro dello sviluppo economico 26 giugno 2015, pubblicato nel supplemento ordinario n. 39 alla Gazzetta Ufficiale n. 162 del 15 luglio 2015. Le detrazioni di cui al presente comma sono calcolate su un ammontare complessivo delle spese non superiore a euro 40.000 moltiplicato per il numero delle unita' immobiliari che compongono l'edificio. 
+ 2-quater.1. Per le spese relative agli interventi su parti comuni di edifici condominiali ricadenti nelle zone sismiche 1, 2 e 3 finalizzati congiuntamente alla riduzione del rischio sismico e alla riqualificazione energetica spetta, in alternativa alle detrazioni previste rispettivamente dal comma 2-quater del presente articolo e dal comma 1-quinquies dell'articolo 16, una detrazione nella misura dell'80 per cento, ove gli interventi determinino il passaggio ad una classe di rischio inferiore, o nella misura dell'85 per cento ove gli interventi determinino il passaggio a due classi di rischio inferiori. La predetta detrazione e' ripartita in dieci quote annuali di pari importo e si applica su un ammontare delle spese non superiore a euro 136.000 moltiplicato per il numero delle unita' immobiliari di ciascun edificio.
+
+2-quinquies.
+
+La sussistenza delle condizioni di cui al comma 2-quater e' asseverata da professionisti abilitati mediante l'attestazione della prestazione energetica degli edifici prevista dal decreto del Ministro dello sviluppo economico 26 giugno 2015 di cui al citato comma 2-quater. L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) effettua controlli, anche a campione, su tali attestazioni, nonche' su tutte le agevolazioni spettanti ai sensi del presente articolo, con procedure e modalita' disciplinate con decreto del Ministro dello sviluppo economico, di concerto con il Ministro dell'economia e delle finanze, da emanare entro novanta giorni dalla data di entrata in vigore delle presenti disposizioni. La non veridicita' dell'attestazione comporta la decadenza dal beneficio, ferma restando la responsabilita' del professionista ai sensi delle disposizioni vigenti. Per le attivita' di cui al secondo periodo, e' autorizzata in favore dell'ENEA la spesa di 500.000 euro per l'anno 2017 e di 1 milione di euro per ciascuno degli anni dal 2018 al 2021.
+
+2-sexies.
+
+COMMA ABROGATO DAL [D.L. 16 FEBBRAIO 2023, N. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-02-16;11).
+
+2-septies.
+
+Le detrazioni di cui al presente articolo sono usufruibili anche dagli Istituti autonomi per le case popolari, comunque denominati, nonche' dagli enti aventi le stesse finalita' sociali dei predetti istituti, istituiti nella forma di societa' che rispondono ai requisiti della legislazione europea in materia di in house providing e che siano costituiti e operanti alla data del 31 dicembre 2013, per interventi di efficienza energetica realizzati su immobili, di loro proprieta' ovvero gestiti per conto dei comuni, adibiti ad edilizia residenziale pubblica, nonche' dalle cooperative di abitazione a proprieta' indivisa per interventi realizzati su immobili dalle stesse posseduti e assegnati in godimento ai propri soci
+
+3.
+
+La detrazione spettante ai sensi del presente articolo e' ripartita in dieci quote annuali di pari importo. Si applicano, in quanto compatibili, le disposizioni di cui all'[articolo 1, comma 24, della legge 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md), e successive modificazioni, e all'[articolo 29, comma 6, del decreto-legge 29 novembre 2008, n. 185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-11-29;185#art_29-com6), convertito, con modificazioni, dalla [legge 28 gennaio 2009, n. 2](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20novembre%202008%20n.%20185%20recante%20misure%20urgenti%20per%20il%20sostegno%20a%20famiglie%20lavoro%20occupazione%20e%20impresa%20e%20per%20ridisegnare%20in%20funzio_d34e2e16908a.md). 
+ 3.1. COMMA ABROGATO DAL [D.L. 16 FEBBRAIO 2023, N. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-02-16;11).
 
-il seguente decreto-legge:
-
-Art. 1
-------
-
-Modificazioni all'articolo 1 del decreto legislativo 19 agosto 2005, n. 192
-
-1. L'[articolo 1 del decreto legislativo 19 agosto 2005, n. 192](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;192~art1), e' sostituito dal seguente:   
-«Art. 1. (Finalita'). - 1. Il presente decreto promuove il miglioramento della prestazione energetica degli edifici tenendo conto delle condizioni locali e climatiche esterne, nonche' delle prescrizioni relative al clima degli ambienti interni e all'efficacia sotto il profilo dei costi.   
-2. Il presente decreto definisce e integra criteri, condizioni e modalita' per:   
-a) migliorare le prestazioni energetiche degli edifici;   
-b) favorire lo sviluppo, la valorizzazione e l'integrazione delle fonti rinnovabili negli edifici;   
-
-((b-bis) determinare i criteri generali per la certificazione della prestazione energetica degli edifici e per il trasferimento delle relative informazioni in sede di compravendita e locazione;   
-b-ter) effettuare le ispezioni periodiche degli impianti per la climatizzazione invernale ed estiva al fine di ridurre il consumo energetico e le emissioni di biossido di carbonio))
-
-;   
-c) sostenere la diversificazione energetica;   
-d) promuovere la competitivita' dell'industria nazionale attraverso lo sviluppo tecnologico;   
-
-((e) coniugare le opportunita' offerte dagli obiettivi di efficienza energetica con lo sviluppo di materiali, di tecniche di costruzione, di apparecchiature e di tecnologie sostenibili nel settore delle costruzioni e con l' occupazione))
-
-;   
-f) conseguire gli obiettivi nazionali in materia energetica e ambientale;   
-g) razionalizzare le procedure nazionali e territoriali per l'attuazione delle normative energetiche al fine di ridurre i costi complessivi, per la pubblica amministrazione e per i cittadini e per le imprese;   
-h) applicare in modo omogeneo e integrato la normativa su tutto il territorio nazionale.   
-
-((h-bis) assicurare l'attuazione e la vigilanza sulle norme in materia di prestazione energetica degli edifici, anche attraverso la raccolta e l'elaborazione di informazioni e dati;   
-h-ter) promuovere l'uso razionale dell'energia anche attraverso l'informazione e la sensibilizzazione degli utenti finali))
-
-.».
-
-Art. 2
-------
-
-Modificazioni all'articolo 2 del decreto legislativo 19 agosto 2005, n. 192
-
-((01. Al [comma 1 dell'articolo 2 del decreto legislativo 19 agosto 2005, n. 192](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;192~art2-com1), la lettera c) e' sostituita dalla seguente:   
-"c) 'prestazione energetica di un edificio': quantita' annua di energia primaria effettivamente consumata o che si prevede possa essere necessaria per soddisfare, con un uso standard dell'immobile, i vari bisogni energetici dell'edificio, la climatizzazione invernale e estiva, la preparazione dell'acqua calda per usi igienici sanitari, la ventilazione e, per il settore terziario, l'illuminazione, gli impianti ascensori e scale mobili. Tale quantita' viene espressa da uno o piu' descrittori che tengono conto del livello di isolamento dell'edificio e delle caratteristiche tecniche e di installazione degli impianti tecnici. La prestazione energetica puo' essere espressa in energia primaria non rinnovabile, rinnovabile, o totale come somma delle precedenti"))
-
-1. Al [comma 1 dell'articolo 2 del decreto legislativo 19 agosto 2005, n. 192](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;192~art2-com1), dopo la lettera l) sono aggiunte le seguenti:   
-«l-bis) "attestato di prestazione energetica dell'edificio": documento, redatto nel rispetto delle norme contenute nel presente decreto e rilasciato da esperti qualificati e indipendenti che attesta la prestazione energetica di un edificio attraverso l'utilizzo di specifici descrittori e fornisce raccomandazioni per il miglioramento dell'efficienza energetica;   
-l-ter) "attestato di qualificazione energetica": il documento predisposto ed asseverato da un professionista abilitato, non necessariamente estraneo alla proprieta', alla progettazione o alla realizzazione dell'edificio, nel quale sono riportati i fabbisogni di energia primaria di calcolo, la classe di appartenenza dell'edificio, o dell'unita' immobiliare, in relazione al sistema di certificazione energetica in vigore, ed i corrispondenti valori massimi ammissibili fissati dalla normativa in vigore per il caso specifico o, ove non siano fissati tali limiti, per un identico edificio di nuova costruzione;   
-l-quater) "cogenerazione": produzione simultanea, nell'ambito di un unico processo, di energia termica e di energia elettrica e/o meccanica rispondente ai requisiti di cui al decreto del Ministro dello sviluppo economico 4 agosto 2011
-
-((, [pubblicato nella Gazzetta Ufficiale n. 218 del 19 settembre 2011](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2011-09-19&numeroGazzetta=218)))
-
-;   
-l-quinquies)
-
-(("confine del sistema" o "confine energetico dell'edificio"))
-
-: confine che include tutte le aree di pertinenza dell'edificio, sia all'interno che all'esterno dello stesso, dove l'energia e' consumata o prodotta;   
-l-sexies) "edificio adibito ad uso pubblico": edificio nel quale si svolge, in tutto o in parte, l'attivita' istituzionale di enti pubblici;   
-l-septies) "edificio di proprieta' pubblica": edificio di proprieta' dello Stato, delle regioni o degli enti locali, nonche' di altri enti pubblici, anche economici ed occupati dai predetti soggetti;   
-l-octies) "edificio a energia quasi zero": edificio ad altissima prestazione energetica, calcolata conformemente alle disposizioni del presente decreto, che rispetta i requisiti definiti al decreto di cui all'articolo 4, comma 1. Il fabbisogno energetico molto basso o quasi nullo e' coperto in misura significativa da energia da fonti rinnovabili,
-
-((prodotta in situ))
-
-;   
-l-novies)
-
-(("edificio di riferimento" o "target))
-
-per un edificio sottoposto a verifica progettuale, diagnosi, o altra valutazione energetica": edificio identico in termini di geometria (sagoma, volumi, superficie calpestabile, superfici degli elementi costruttivi e dei componenti), orientamento, ubicazione territoriale, destinazione d'uso e situazione al contorno, e avente caratteristiche termiche e parametri energetici predeterminati;   
-l-decies) "elemento edilizio": sistema tecnico per l'edilizia o componente dell'involucro di un edificio;   
-l-undecies) "energia consegnata o fornita": energia espressa per vettore energetico finale, fornita al confine dell'edificio agli impianti tecnici per produrre energia termica o elettrica per i servizi energetici dell'edificio;   
-l-duodecies) "energia da fonti rinnovabili": energia proveniente da fonti rinnovabili non fossili, vale a dire energia eolica, solare, aerotermica, geotermica, idrotermica e oceanica, idraulica, biomassa, gas di discarica, gas residuati dai processi di depurazione e biogas;   
-l-ter decies) "energia esportata": quantita' di energia, relativa a un dato vettore energetico, generata all'interno del confine del sistema
-
-((e ceduta per l'utilizzo))
-
-all'esterno dello stesso confine;   
-l-quater decies) "energia primaria": energia, da fonti rinnovabili e non, che non ha subito alcun processo di conversione o trasformazione;   
-l-quinquies decies) "energia prodotta in situ": energia prodotta o captata o prelevata all'interno del confine del sistema;   
-l-sexies decies) "fabbisogno annuale globale di energia primaria": quantita' di energia primaria relativa a tutti i servizi
-
-((considerati nella determinazione della prestazione energetica, erogata))
-
-dai sistemi tecnici presenti all'interno del confine del sistema, calcolata su un intervallo temporale di un anno;   
-l-septies decies) "fabbricato": sistema costituito dalle strutture edilizie esterne, costituenti l'involucro dell'edificio, che delimitano un volume definito e dalle strutture interne di ripartizione dello stesso volume. Sono esclusi gli impianti e i dispositivi tecnologici che si trovano al suo interno;   
-l-octies decies) "fattore di conversione in energia primaria": rapporto adimensionale che indica la quantita' di energia primaria impiegata per produrre un'unita' di energia fornita, per un dato vettore energetico; tiene conto dell'energia necessaria per l'estrazione, il processamento, lo stoccaggio, il trasporto e, nel caso dell'energia elettrica, del rendimento medio del sistema di generazione e delle perdite medie di trasmissione del sistema elettrico nazionale e nel caso del teleriscaldamento, delle perdite medie di distribuzione della rete. Questo fattore puo' riferirsi all'energia primaria non rinnovabile, all'energia primaria rinnovabile o all'energia primaria totale come somma delle precedenti;   
-l-novies decies) "involucro di un edificio": elementi e componenti integrati di un edificio che ne separano gli ambienti interni dall'ambiente esterno;   
-l-vicies) "livello ottimale in funzione dei costi": livello di prestazione energetica che comporta il costo piu' basso durante il ciclo di vita economico stimato, dove:   
-1) il costo piu' basso e' determinato tenendo conto dei costi di investimento legati all'energia, dei costi di manutenzione e di funzionamento e, se del caso, degli eventuali costi di smaltimento;   
-2) il ciclo di vita economico stimato si riferisce al ciclo di vita economico stimato rimanente di un edificio nel caso in cui siano stabiliti requisiti di prestazione energetica per l'edificio nel suo complesso oppure al ciclo di vita economico stimato di un elemento edilizio nel caso in cui siano stabiliti requisiti di prestazione energetica per gli elementi edilizi;   
-3) il livello ottimale in funzione dei costi si situa all'interno della scala di livelli di prestazione in cui l'analisi costi-benefici calcolata sul ciclo di vita economico e' positiva;   
-l-vicies semel) "norma tecnica europea": norma adottata dal Comitato europeo di normazione, dal Comitato europeo di normalizzazione elettrotecnica o dall'Istituto europeo per le norme di telecomunicazione e resa disponibile per uso pubblico;   
-l-vicies bis)
-
-((LETTERA SOPPRESSA DALLA [L. 3 AGOSTO 2013, N. 90](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-08-03;90)))
-
-;   
-l-vicies ter) "riqualificazione energetica di un edificio" un edificio esistente e' sottoposto a riqualificazione energetica quando i lavori in qualunque modo denominati, a titolo indicativo e non esaustivo: manutenzione ordinaria o straordinaria, ristrutturazione e risanamento conservativo, ricadono in tipologie diverse da quelle indicate
-
-((alla lettera l-vicies quater) ))
-
-;   
-l-vicies quater) "ristrutturazione importante di un edificio": un edificio esistente e' sottoposto a ristrutturazione importante quando i lavori in qualunque modo denominati (a titolo indicativo e non esaustivo: manutenzione ordinaria o straordinaria, ristrutturazione e risanamento conservativo) insistono su oltre il 25 per cento della superficie dell'involucro dell'intero edificio, comprensivo di tutte le unita' immobiliari che lo costituiscono,
-
-((e consistono, a titolo esemplificativo e non esaustivo, nel))
-
-rifacimento di pareti esterne, di intonaci esterni, del tetto o dell'impermeabilizzazione delle coperture;   
-l-vicies quinquies)
-
-(("sistema di climatizzazione estiva" o "impianto))
-
-di condizionamento d'aria": complesso di tutti i componenti necessari a un sistema di trattamento dell'aria, attraverso il quale la temperatura e' controllata o puo' essere abbassata;   
-l-vicies sexies) "sistema tecnico, per l'edilizia": impianto tecnologico
-
-((dedicato a un servizio energetico))
-
-o a una combinazione dei servizi energetici o ad assolvere a una o piu' funzioni connesse con i servizi energetici dell'edificio. Un sistema tecnico e' suddiviso in piu' sottosistemi;   
-l-vicies septies) "teleriscaldamento" o "teleraffrescamento": distribuzione di energia termica in forma di vapore, acqua calda o liquidi refrigerati da una o piu' fonti di produzione verso una pluralita' di edifici o siti tramite una rete, per il riscaldamento o il raffrescamento di spazi, per processi di lavorazione e per la fornitura di acqua calda sanitaria;   
-l-duodetricies) "unita' immobiliare": parte, piano o appartamento di un edificio progettati o modificati per essere usati separatamente;   
-l-undetricies) "vettore energetico": sostanza o energia fornite dall'esterno del confine del sistema per il soddisfacimento dei fabbisogni energetici dell'edificio.   
-
-((l-tricies) "impianto termico": impianto tecnologico destinato ai servizi di climatizzazione invernale o estiva degli ambienti, con o senza produzione di acqua calda sanitaria, indipendentemente dal vettore energetico utilizzato, comprendente eventuali sistemi di produzione, distribuzione e utilizzazione del calore nonche' gli organi di regolarizzazione e controllo. Sono compresi negli impianti termici gli impianti individuali di riscaldamento. Non sono considerati impianti termici apparecchi quali: stufe, caminetti, apparecchi di riscaldamento localizzato ad energia radiante; tali apparecchi, se fissi, sono tuttavia assimilati agli impianti termici quando la somma delle potenze nominali del focolare degli apparecchi al servizio della singola unita' immobiliare e' maggiore o uguale a 5 kW. Non sono considerati impianti termici i sistemi dedicati esclusivamente alla produzione di acqua calda sanitaria al servizio di singole unita' immobiliari ad uso residenziale ed assimilate))
-
-».
-
-((1-bis. Nell'allegato A del [decreto legislativo 19 agosto 2005, n. 192](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;192), il punto 14 e' sostituito dal seguente:   
-"14. fabbisogno annuo di energia primaria per la Climatizzazione invernale e' la quantita' di energia primaria globalmente richiesta, nel corso di un anno, per mantenere negli ambienti riscaldati la temperatura di progetto"))
-
-Art. 3
-------
-
-Modificazioni all'articolo 3 del decreto legislativo 19 agosto 2005, n. 192
-
-1. All'[articolo 3 del decreto legislativo 19 agosto 2005, n. 192](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;192~art3), sono apportate le seguenti modificazioni:
-
-a) al comma 1, lettera b), le parole «agli articoli 7, 9 e 12» sono sostituite dalle seguenti: «agli articoli 7 e 9»;
-
-b) dopo il comma 2, sono inseriti i seguenti:   
-«2-bis. Il presente decreto si applica all'edilizia pubblica e privata.   
-2-ter. Il presente decreto disciplina in particolare:   
-a) la metodologia per il calcolo delle prestazioni energetiche degli edifici;   
-b) le prescrizioni e i requisiti minimi in materia di prestazioni energetiche degli edifici quando sono oggetto di:   
-1) nuova costruzione;   
-2) ristrutturazioni importanti;   
-3) riqualificazione energetica;   
-c) la definizione di un Piano di azione per la promozione degli edifici a "energia quasi zero";   
-d) l'attestazione della prestazione energetica degli edifici e delle unita' immobiliari;   
-e) lo sviluppo di strumenti finanziari e la rimozione di barriere di mercato per la promozione dell'efficienza energetica degli edifici;   
-f) l'utilizzo delle fonti energetiche rinnovabili negli edifici;   
-g) la realizzazione di un sistema coordinato di ispezione periodica degli impianti termici negli edifici;   
-h) i requisiti professionali e di indipendenza degli esperti o degli organismi cui affidare l'attestazione della prestazione energetica degli edifici e l'ispezione degli impianti di climatizzazione;   
-i) la realizzazione e l'adozione di strumenti comuni allo Stato e alle regioni e province autonome per la gestione degli adempimenti a loro carico;   
-l) la promozione dell'uso razionale dell'energia anche attraverso l'informazione e la sensibilizzazione degli utenti finali, la formazione e l'aggiornamento degli operatori del settore;   
-m) la raccolta delle informazioni e delle esperienze, delle elaborazioni e degli studi necessari all'orientamento della politica energetica del settore.»;
-
-c) il comma 3 e' sostituito dal seguente:   
-«3. Sono escluse dall'applicazione del presente decreto le seguenti categorie di edifici:   
-a) gli edifici ricadenti nell'ambito della disciplina della parte seconda e dell'[articolo 136, comma 1, lettere b)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42~art136-com1-letb) e [c), del decreto legislativo 22 gennaio 2004, n. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42~art136-com1-letc), recante il [codice dei beni culturali e del paesaggio](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42), fatto salvo quanto disposto al comma 3-bis;   
-b) gli edifici industriali e artigianali quando gli ambienti sono riscaldati per esigenze del processo produttivo o utilizzando reflui energetici del processo produttivo non altrimenti utilizzabili;   
-c) edifici rurali non residenziali sprovvisti di impianti di climatizzazione;   
-d) i fabbricati isolati con una superficie utile totale inferiore a 50 metri quadrati;   
-e) gli edifici che risultano non compresi nelle categorie di edifici classificati sulla base della destinazione d'uso di cui all'[articolo 3 del decreto del Presidente della Repubblica 26 agosto 1993, n. 412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1993-08-26;412~art3), il cui utilizzo standard non prevede l'installazione e l'impiego di sistemi tecnici
-
-((di climatizzazione))
-
-, quali box, cantine, autorimesse, parcheggi multipiano, depositi, strutture stagionali a protezione degli impianti sportivi, fatto salvo quanto disposto dal comma 3-ter;   
-f) gli edifici adibiti a luoghi di culto e allo svolgimento di attivita' religiose.»;
-
-d) dopo il comma 3, sono inseriti i seguenti:   
-«3-bis. Per gli edifici di cui al comma 3, lettera a), il presente decreto si applica limitatamente alle disposizioni concernenti:   
-a) l'attestazione della prestazione energetica degli edifici, di cui all'articolo 6;   
-b) l' esercizio, la manutenzione e le ispezioni degli impianti tecnici, di cui all'articolo 7.   
-
-((3-bis. 1. Gli edifici di cui al comma 3, lettera a), sono esclusi dall'applicazione del presente decreto ai sensi del comma 3-bis, solo nel caso in cui, previo giudizio dell'autorita' competente al rilascio dell'autorizzazione ai sensi del codice di cui al [decreto legislativo 22 gennaio 2004, n. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42), il rispetto delle prescrizioni implichi un'alterazione sostanziale del loro carattere o aspetto, con particolare riferimento ai profili storici, artistici e paesaggistici))
-
-.   
-3-ter. Per gli edifici di cui al comma 3, lettera d), il presente decreto si applica limitatamente alle porzioni eventualmente adibite ad uffici e assimilabili, purche' scorporabili ai fini della valutazione di efficienza energetica.».
-
-Art. 4
-------
-
-Modificazioni all'articolo 4 del decreto legislativo 19 agosto 2005, n. 192
-
-1. All'[articolo 4 del decreto legislativo 19 agosto 2005, n. 192](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;192~art4), sono apportate le seguenti modificazioni:
-
-a) il comma 1 e' sostituito dal seguente:   
-«1. Con uno o piu' decreti del Ministro dello sviluppo economico, di concerto con il Ministro dell'ambiente e della tutela del territorio e del mare, il Ministro delle infrastrutture e dei trasporti e, per i profili di competenza, con il Ministro della salute e con il Ministro della difesa, acquisita l'intesa con la Conferenza unificata, sono definiti:   
-a) le modalita' di applicazione della metodologia di calcolo delle prestazioni energetiche e l'utilizzo delle fonti rinnovabili negli edifici, in relazione ai paragrafi 1 e 2 dell'allegato I della [direttiva 2010/31/UE del Parlamento europeo e del Consiglio, del 19 maggio 2010](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32010L0031), sulla prestazione energetica nell'edilizia, tenendo conto dei seguenti criteri generali:   
-1) la prestazione energetica degli edifici e' determinata in conformita' alla normativa tecnica UNI e CTI, allineate con le norme predisposte dal CEN a supporto della [direttiva 2010/31/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32010L0031), su specifico mandato della Commissione europea;   
-2) il fabbisogno energetico annuale globale si calcola per singolo servizio energetico, espresso in energia primaria, su base mensile. Con le stesse modalita' si determina l'energia rinnovabile prodotta all'interno del confine del sistema;   
-3) si opera la compensazione mensile tra i fabbisogni energetici e l'energia rinnovabile prodotta all'interno del confine del sistema, per vettore energetico e fino a copertura totale del corrispondente vettore energetico consumato;   
-4) ai fini della compensazione di cui al numero 3, e' consentito utilizzare l'energia elettrica prodotta da fonti rinnovabili all'interno del confine del sistema ed esportata, secondo le modalita' definite dai decreti di cui al presente comma;   
-b) l'applicazione di prescrizioni e requisiti minimi, aggiornati ogni cinque anni, in materia di prestazioni energetiche degli edifici e unita' immobiliari, siano essi di nuova costruzione, oggetto di ristrutturazioni importanti o di riqualificazioni energetiche, sulla base dell'applicazione della metodologia comparativa di cui all'[articolo 5 della direttiva 2010/31/UE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32010L0031), secondo i seguenti criteri generali:   
-1) i requisiti minimi rispettano le valutazioni tecniche ed economiche di convenienza, fondate sull'analisi costi benefici del ciclo di vita economico degli edifici;   
-2) in caso di nuova costruzione e di ristrutturazione importante, i requisiti sono determinati con l'utilizzo dell' "edificio di riferimento", in funzione della tipologia edilizia e delle fasce climatiche;   
-3) per le verifiche necessarie a garantire il rispetto della qualita' energetica prescritta, sono previsti dei parametri specifici del fabbricato, in termini di indici di prestazione termica e di trasmittanze, e parametri complessivi, in termini di indici di prestazione energetica globale, espressi sia in energia primaria totale che in energia primaria non rinnovabile.»;
-
-b) dopo il comma 1 e' inserito il seguente:   
-«1-bis. Con uno o piu' decreti del Presidente della Repubblica
-
-((ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com1),))
-
-sono aggiornate, in relazione all'[articolo 8](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::2010;31~art8) e agli [articoli da 14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::2010;31~art14) [a 17 della direttiva 2010/31/UE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32010L0031), le modalita' di progettazione, installazione, esercizio, manutenzione e ispezione degli impianti termici per la climatizzazione invernale ed estiva degli edifici, nonche' i requisiti professionali e i criteri di accreditamento per assicurare la qualificazione e l'indipendenza degli esperti e degli organismi a cui affidare l'attestazione della prestazione energetica degli edifici e l'ispezione degli impianti di climatizzazione e la realizzazione di un sistema informativo coordinato per la gestione dei rapporti tecnici di ispezione e degli attestati di prestazione energetica.
-
-((Per le attivita' propedeutiche all'emanazione dei decreti di cui al primo periodo, di competenza del Ministero dello sviluppo economico, quest'ultimo puo' avvalersi delle competenze dell'ENEA. Con gli stessi decreti, sono individuate modalita' di progettazione, installazione e manutenzione di sistemi di controllo attivo, come i sistemi di automazione, controllo e monitoraggio, finalizzati al risparmio energetico))
-
-»;
-
-c) al comma 2, le parole: «comma 1» sono sostituite dalle seguenti: «comma 1-bis» e dopo le parole: «Ministro dell'ambiente e della tutela del territorio» sono inserite le seguenti: «e, per i profili di competenza, con il Ministro della difesa».
-
-Art. 5
-------
-
-Modificazioni al decreto legislativo 19 agosto 2005, n. 192, in materia di edifici a energia quasi zero
-
-1. Dopo l'[articolo 4 del decreto legislativo 19 agosto 2005, n. 192](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;192~art4), sono inseriti i seguenti:   
-«Art. 4-bis. (Edifici ad energia quasi zero). - 1. A partire dal 31 dicembre 2018, gli edifici di nuova costruzione occupati da pubbliche amministrazioni e di proprieta' di queste ultime, ivi compresi gli edifici scolastici, devono essere edifici a energia quasi zero. Dal 1° gennaio 2021 la predetta disposizione e' estesa a tutti gli edifici di nuova costruzione.   
-2. Entro il
-
-((30 giugno 2014))
-
-, con decreto del Ministro dello sviluppo economico, di concerto con i Ministri per la pubblica amministrazione e la semplificazione, della coesione territoriale, dell'economia e delle finanze, delle infrastrutture e dei trasporti, dell'ambiente e della tutela del territorio e del mare e con il Ministro della salute e il Ministro dell'istruzione, dell'universita' e della ricerca, ognuno per i profili di competenza,
-
-((sentita la Conferenza unificata))
-
-e' definito il Piano d'azione destinato ad aumentare il numero di edifici a energia quasi zero. Tale Piano, che puo' includere obiettivi differenziati per tipologia edilizia, e' trasmesso alla Commissione europea.   
-3. Il Piano d'azione di cui al comma 2 comprende, tra l'altro, i seguenti elementi:   
-a) l'applicazione della definizione di edifici a energia quasi zero alle diverse tipologie di edifici e indicatori numerici del consumo di energia primaria, espresso in kWh/m² anno;   
-b) le politiche e le misure finanziarie o di altro tipo previste per promuovere gli edifici a energia quasi zero, comprese le informazioni relative alle misure nazionali previste per l'integrazione delle fonti rinnovabili negli edifici, in attuazione della [direttiva 2009/28/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009L0028)
-
-((, tenendo conto dell'esigenza prioritaria di contenere il consumo del territorio))
-
-;   
-
-((c) l'individuazione, sulla base dell'analisi costi-benefici sul costo di vita economico, di casi specifici per i quali non si applica quanto disposto al comma 1))
-
-;   
-d) gli obiettivi intermedi di miglioramento della prestazione energetica degli edifici di nuova costruzione entro il 2015, in funzione dell'attuazione del comma 1.   
-Art. 4-ter.(Strumenti finanziari e superamento delle barriere di mercato). - 1. Gli incentivi adottati dallo Stato, dalle regioni e dagli enti locali per promuovere l'efficienza energetica degli edifici, a qualsiasi titolo previsti, sono concessi nel rispetto di requisiti di efficienza commisurati alla tipologia, al tipo di utilizzo e contesto in cui e' inserito l'immobile, nonche' all'entita' dell'intervento.   
-2. Al fine di promuovere la realizzazione di servizi energetici e di misure di incremento dell'efficienza energetica degli edifici di proprieta' pubblica, con particolare attenzione agli edifici scolastici
-
-((e agli ospedali))
-
-, anche attraverso le ESCO
-
-((, il ricorso a forme di partenariato tra pubblico e privato, societa' private appositamente costituite))
-
-o lo strumento del finanziamento tramite terzi, il fondo di garanzia cui all'[articolo 22, comma 4, del decreto legislativo 3 marzo 2011, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-03-03;28~art22-com4), e' utilizzato anche per il sostegno della realizzazione di progetti di miglioramento dell'efficienza energetica nell'edilizia pubblica
-
-((, ivi inclusa l'attestazione della prestazione energetica dell'intervento successiva a tale realizzazione, entro i limiti delle risorse del fondo stesso))
-
-. La dotazione del fondo e' incrementata attraverso i proventi delle aste delle quote di emissione di CO2 di cui all'[articolo 19 del decreto legislativo 13 marzo 2013, n.30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-13;30~art19), destinati ai progetti energetico ambientali, con le modalita' e nei limiti di cui ai commi 3 e 6 dello stesso articolo 19. Con il decreto di cui all'[articolo 22, comma 5, del decreto legislativo 3 marzo 2011, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-03-03;28~art22-com5), sono definite le modalita' di gestione e accesso del fondo stesso.   
-3. L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile - ENEA, entro 90 giorni dalla data di entrata in vigore della presente disposizione, mette a disposizione un contratto-tipo per il miglioramento del rendimento energetico dell'edificio,
-
-((analogo al contratto di rendimento energetico europeo EPC,))
-
-che individui e misuri gli elementi a garanzia del risultato e che promuova la finanziabilita' delle iniziative, sulla base del modello contrattuale previsto all'articolo 7, comma 12, del decreto del Ministro dello sviluppo economico 28 dicembre 2012
-
-((, recante disposizioni in materia di incentivazione della produzione di energia termica da fonti rinnovabili ed interventi di efficienza energetica di piccole dimensioni, [pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 1 del 2 gennaio 2013](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2013-01-02&numeroGazzetta=1)))
-
-.   
-4. Entro il
-
-((31 dicembre 2013))
-
-il Ministero dello sviluppo economico, sentito il Ministero dell'ambiente e della tutela del territorio e del mare e la Conferenza unificata, redige un elenco delle misure finanziarie atte a favorire l'efficienza energetica negli edifici e la transizione verso gli edifici a energia quasi zero. Tale elenco e' aggiornato ogni tre anni e inviato alla Commissione nell'ambito del Piano d'azione nazionale per l'efficienza energetica di cui all'[articolo 24, paragrafo 2, della direttiva 2012/27/UE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32012L0027).».
-
-Art. 6
-------
-
-Modificazioni al decreto legislativo 19 agosto 2005, n. 192, in materia di attestato di prestazione energetica, rilascio e affissione.
-
-1. L'[articolo 6 del decreto legislativo 19 agosto 2005, n. 192](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;192~art6), e' sostituito dal seguente:   
-«Art. 6. (Attestato di prestazione energetica, rilascio e affissione). - 1. A decorrere dalla data di entrata in vigore della presente disposizione, l'attestato di prestazione energetica degli edifici e' rilasciato per gli edifici o le unita' immobiliari costruiti, venduti o locati ad un nuovo locatario e per gli edifici indicati al comma 6. Gli edifici di nuova costruzione e quelli sottoposti a ristrutturazioni importanti, sono dotati di un attestato di prestazione energetica prima del rilascio del certificato di agibilita'. Nel caso di nuovo edificio, l'attestato e' prodotto a cura del costruttore, sia esso committente della costruzione o societa' di costruzione che opera direttamente. Nel caso di attestazione della prestazione degli edifici esistenti, ove previsto dal presente decreto, l'attestato e' prodotto a cura del proprietario dell'immobile.   
-2. Nel caso di vendita, di trasferimento di immobili a titolo gratuito o di nuova locazione di edifici o unita' immobiliari, ove l'edificio o l'unita' non ne sia gia' dotato, il proprietario e' tenuto a produrre l'attestato di prestazione energetica di cui al comma 1. In tutti i casi, il proprietario deve rendere disponibile l'attestato di prestazione energetica al potenziale acquirente o al nuovo locatario all'avvio delle rispettive trattative e consegnarlo alla fine delle medesime; in caso di vendita o locazione di un edificio prima della sua costruzione, il venditore o locatario fornisce evidenza della futura prestazione energetica dell'edificio e produce l'attestato di prestazione energetica entro quindici giorni dalla richiesta di rilascio del certificato di agibilita'.   
-3. Nei contratti di vendita, negli atti di trasferimento di immobili a titolo gratuito o nei nuovi contratti di locazione di edifici o di singole unita' immobiliari e' inserita apposita clausola con la quale l'acquirente o il conduttore danno atto di aver ricevuto le informazioni e la documentazione, comprensiva dell'attestato, in ordine alla attestazione della prestazione energetica degli edifici.   
 3-bis.
 
-((A decorrere dalla data di entrata in vigore del decreto di adeguamento di cui al comma 12,))
+Al fine di effettuare il monitoraggio e la valutazione del risparmio energetico conseguito a seguito della realizzazione degli interventi di cui ai commi 1 e 2, l'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) elabora le informazioni contenute nelle richieste di detrazione pervenute per via telematica e trasmette una relazione sui risultati degli interventi al Ministero dello sviluppo economico, al Ministero dell'economia e delle finanze, alle regioni e alle province autonome di Trento e di Bolzano, nell'ambito delle rispettive competenze territoriali. Nell'ambito di tale attivita', l'ENEA predispone il costante aggiornamento del sistema di reportistica multi-anno delle dichiarazioni ai fini della detrazione fiscale di cui all'[articolo 1, comma 349, della legge 27 dicembre 2006, n. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md), gia' attivo e assicura, su richiesta, il necessario supporto tecnico alle regioni e alle province autonome di Trento e di Bolzano.
 
-L'attestato di prestazione energetica deve essere allegato al contratto di vendita, agli atti di trasferimento di immobili a titolo gratuito o ai nuovi contratti di locazione, pena la nullita' degli stessi contratti.   
-4. L'attestazione della prestazione energetica puo' riferirsi a una o piu' unita' immobiliari facenti parte di un medesimo edificio.  
-L'attestazione di prestazione energetica riferita a piu' unita' immobiliari puo' essere prodotta solo qualora esse abbiano la medesima destinazione d'uso, la medesima situazione al contorno, il medesimo orientamento e la medesima geometria e siano servite, qualora presente, dal medesimo impianto termico destinato alla climatizzazione invernale e, qualora presente, dal medesimo sistema di climatizzazione estiva.   
-5. L'attestato di prestazione energetica di cui al comma 1 ha una validita' temporale massima di dieci anni a partire dal suo rilascio ed e' aggiornato a ogni intervento di ristrutturazione o riqualificazione che modifichi la classe energetica dell'edificio o dell'unita' immobiliare. La validita' temporale massima e' subordinata al rispetto delle prescrizioni per le operazioni di controllo di efficienza energetica dei sistemi tecnici dell'edificio, in particolare per gli impianti termici, comprese le eventuali necessita' di adeguamento, previste dai regolamenti di cui al [decreto del Presidente della Repubblica 16 aprile 2013, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2013-04-16;74), e al [decreto del Presidente della Repubblica 16 aprile 2013, n. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2013-04-16;75). Nel caso di mancato rispetto di dette disposizioni, l'attestato di prestazione energetica decade il 31 dicembre dell'anno successivo a quello in cui e' prevista la prima scadenza non rispettata per le predette operazioni di controllo di efficienza energetica. A tali fini, i libretti di impianto previsti dai decreti di cui all'articolo 4, comma 1, lettera b), sono allegati, in originale o in copia, all'attestato di prestazione energetica.   
-6. Nel caso di edifici utilizzati da pubbliche amministrazioni e aperti al pubblico con superficie utile totale superiore a 500 m², ove l'edificio non ne sia gia' dotato, e' fatto obbligo al proprietario o al soggetto responsabile della gestione, di produrre l'attestato di prestazione energetica entro centottanta giorni dalla data di entrata in vigore della presente disposizione e di affiggere l'attestato di prestazione energetica con evidenza all'ingresso dell'edificio stesso o in altro luogo chiaramente visibile al pubblico. A partire dal 9 luglio 2015, la soglia di 500 m² di cui sopra, e' abbassata a 250 m². Per gli edifici scolastici tali obblighi ricadono sugli enti proprietari di cui all'[articolo 3 della legge 11 gennaio 1996, n. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-11;23~art3).   
-6-bis. Il fondo di garanzia di cui all'[articolo 22, comma 4, del decreto legislativo 3 marzo 2011, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-03-03;28~art22-com4), e' utilizzato entro i limiti delle risorse del fondo stesso anche per la copertura delle spese relative alla certificazione energetica e agli adeguamenti di cui al comma 6 del presente articolo.   
-7. Per gli edifici aperti al pubblico, con superficie utile totale superiore a 500 m², per i quali sia stato rilasciato l'attestato di prestazione energetica di cui ai commi 1 e 2, e' fatto obbligo, al proprietario o al soggetto responsabile della gestione dell'edificio stesso, di affiggere con evidenza tale attestato all'ingresso dell'edificio o in altro luogo chiaramente visibile al pubblico.   
-8. Nel caso di offerta di vendita o di locazione, i corrispondenti annunci tramite tutti i mezzi di comunicazione commerciali riportano gli indici di prestazione energetica dell'involucro e globale dell'edificio o dell'unita' immobiliare e la classe energetica corrispondente.   
-9. Tutti i contratti, nuovi o rinnovati, relativi alla gestione degli impianti termici o di climatizzazione degli edifici pubblici, o nei quali figura come committente un soggetto pubblico, devono prevedere la predisposizione dell'attestato di prestazione energetica dell'edificio o dell'unita' immobiliare interessati.   
-10. L'obbligo di dotare l'edificio di un attestato di prestazione energetica viene meno ove sia gia' disponibile un attestato in corso di validita', rilasciato conformemente alla [direttiva 2002/91/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32002L0091).   
-11. L'attestato di qualificazione energetica, al di fuori di quanto previsto all'articolo 8, comma 2, e' facoltativo ed e' predisposto al fine di semplificare il successivo rilascio dell'attestato di prestazione energetica. A tale fine, l'attestato di qualificazione energetica comprende anche l'indicazione di possibili interventi migliorativi delle prestazioni energetiche e la classe di appartenenza dell'edificio, o dell'unita' immobiliare, in relazione al sistema di certificazione energetica in vigore, nonche' i possibili passaggi di classe a seguito della eventuale realizzazione degli interventi stessi. L'estensore provvede ad evidenziare opportunamente sul frontespizio del documento che il medesimo non costituisce attestato di prestazione energetica dell'edificio, ai sensi del presente decreto, nonche', nel sottoscriverlo, quale e' od e' stato il suo ruolo con riferimento all'edificio medesimo.   
-12. Con decreto del Ministro dello sviluppo economico, di concerto con i Ministri dell'ambiente e della tutela del territorio e del mare, delle infrastrutture e dei trasporti e per la pubblica amministrazione e la semplificazione, d'intesa con la Conferenza unificata, sentito il CNCU, avvalendosi delle metodologie di calcolo definite con i decreti di cui all' articolo 4, e' predisposto l'adeguamento del [decreto del Ministro dello sviluppo economico 26 giugno 2009, pubblicato nella Gazzetta Ufficiale n. 158 del 10 luglio 2009](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2009-07-10&numeroGazzetta=158), nel rispetto dei seguenti criteri e contenuti:   
-a) la previsione di metodologie di calcolo semplificate, da rendere disponibili per gli edifici caratterizzati da ridotte dimensioni e prestazioni energetiche di modesta qualita', finalizzate a ridurre i costi a carico dei cittadini;   
-b) la definizione di un attestato di prestazione energetica che comprende tutti i dati relativi all'efficienza energetica dell'edificio che consentano ai cittadini di valutare e confrontare edifici diversi. Tra tali dati sono obbligatori:   
-1) la prestazione energetica globale dell'edificio sia in termini di energia primaria totale che di energia primaria non rinnovabile, attraverso i rispettivi indici;   
-2) la classe energetica determinata attraverso l'indice di prestazione energetica globale dell'edificio, espresso in energia primaria non rinnovabile;   
-3) la qualita' energetica del fabbricato a contenere i consumi energetici per il riscaldamento e il raffrescamento, attraverso gli indici di prestazione termica utile per la climatizzazione invernale ed estiva dell'edificio;   
-4) i valori di riferimento, quali i requisiti minimi di efficienza energetica vigenti a norma di legge;   
-5) le emissioni di anidride carbonica;   
-6) l'energia esportata;   
-7) le raccomandazioni per il miglioramento dell'efficienza energetica dell'edificio con le proposte degli interventi piu' significativi ed economicamente convenienti, separando la previsione di interventi di ristrutturazione importanti da quelli di riqualificazione energetica;   
-8) le informazioni correlate al miglioramento della prestazione energetica, quali diagnosi e incentivi di carattere finanziario;   
-c) la definizione di uno schema di annuncio di vendita o locazione, per esposizione nelle agenzie immobiliari, che renda uniformi le informazioni sulla qualita' energetica degli edifici fornite ai cittadini;   
-d) la definizione di un sistema informativo comune per tutto il territorio nazionale, di utilizzo obbligatorio per le regioni e le province autonome, che comprenda la gestione di un catasto degli edifici, degli attestati di prestazione energetica e dei relativi controlli pubblici.».
+3-ter.
 
-Art. 7
-------
+Con uno o piu' decreti del Ministro dello sviluppo economico, di concerto con il Ministro dell'economia e delle finanze, il Ministro dell'ambiente e della tutela del territorio e del mare e il Ministro delle infrastrutture e dei trasporti, da adottare entro sessanta giorni dalla data di entrata in vigore della presente disposizione, sono definiti i requisiti tecnici che devono soddisfare gli interventi che beneficiano delle agevolazioni di cui al presente articolo, ivi compresi i massimali di costo specifici per singola tipologia di intervento, nonche' le procedure e le modalita' di esecuzione di controlli a campione, sia documentali che in situ, eseguiti dall'ENEA e volti ad accertare il rispetto dei requisiti che determinano l'accesso al beneficio. Nelle more dell'emanazione dei decreti di cui al presente comma, continuano ad applicarsi il decreto del Ministro dell'economia e delle finanze 19 febbraio 2007, pubblicato nella Gazzetta Ufficiale n. 47 del 26 febbraio 2007, e il decreto del Ministro dello sviluppo economico 11 marzo 2008, pubblicato nella Gazzetta Ufficiale n. 66 del 18 marzo 2008. L'ENEA, ai fini di assicurare coerenza con la legislazione e la normativa vigente in materia di efficienza energetica, limitatamente ai relativi contenuti tecnici, adegua il portale attualmente in essere e la relativa modulistica per la trasmissione dei dati a cura dei soggetti beneficiari delle detrazioni di cui al presente articolo.
 
-Modificazioni all'articolo 8 del decreto legislativo 19 agosto 2005, n. 192
+3-quater.
 
-1. Il [comma 1 dell'articolo 8 del decreto legislativo 19 agosto 2005, n. 192](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;192~art8-com1), e' sostituito dal seguente:   
-«1. Il progettista o i progettisti, nell'ambito delle rispettive competenze edili, impiantistiche termotecniche
+Al fine di agevolare l'esecuzione degli interventi di efficienza energetica di cui al presente articolo, e' istituita, nell'ambito del Fondo di cui all'[articolo 15 del decreto legislativo 4 luglio 2014, n. 102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-07-04;102#art_15), una sezione dedicata al rilascio di garanzie su operazioni di finanziamento degli stessi. A tal fine, la dotazione del Fondo suddetto puo' essere integrata fino a 25 milioni di euro annui per il periodo 2018-2020 a carico del Ministero dello sviluppo economico e fino a 25 milioni di euro annui per il periodo 2018-2020 a carico del Ministero dell'ambiente e della tutela del territorio e del mare, a valere sui proventi annui delle aste delle quote di emissione di CO2 destinati ai progetti energetico-ambientali di cui all'[articolo 19 del decreto legislativo 13 marzo 2013, n. 30](Attuazione%20della%20direttiva%202009-29-CE%20che%20modifica%20la%20direttiva%202003-87-CE%20al%20fine%20di%20perfezionare%20ed%20estendere%20il%20sistema%20comunitario%20per%20lo%20scambio%20di%20quote%20di%20emissione%20di%20gas%20a%20effett_3faeee611109.md), previa verifica dell'entita' dei proventi disponibili annualmente, con le modalita' e nei limiti di cui ai commi 3 e 6 dello stesso articolo 19. Per il perseguimento delle finalita' di cui al presente comma, con uno o piu' decreti di natura non regolamentare da adottare entro novanta giorni dalla data di entrata in vigore della presente disposizione dal Ministro dello sviluppo economico e dal Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con il Ministro dell'economia e delle finanze e acquisito il parere della Conferenza unificata, sono individuati, nel rispetto degli equilibri di finanza pubblica, le priorita', i criteri, le condizioni e le modalita' di funzionamento, di gestione e di intervento della sezione del Fondo e le relative prime dotazioni della sezione stessa.
 
-((, elettriche))
+3-quinquies.
 
-e illuminotecniche, devono inserire i calcoli e le verifiche previste dal presente decreto nella relazione tecnica di progetto attestante la rispondenza alle prescrizioni per il contenimento del consumo di energia degli edifici e dei relativi impianti termici, che il proprietario dell'edificio, o chi ne ha titolo, deve depositare presso le amministrazioni competenti, in doppia copia, contestualmente alla dichiarazione di inizio dei lavori complessivi o degli specifici interventi proposti
-
-((, o alla domanda di concessione edilizia))
-
-. Tali adempimenti, compresa la relazione, non sono dovuti in caso di
-
-((...))
-
-sostituzione del generatore di calore dell'impianto di climatizzazione avente potenza inferiore alla soglia prevista dall'articolo 5, comma 2, lettera g), del
-
-((regolamento di cui al [decreto del Ministro dello sviluppo economico 22 gennaio 2008, n. 37](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sviluppo.economico:decreto:2008-01-22;37)))
-
-. Gli schemi e le modalita' di riferimento per la compilazione della relazione tecnica di progetto sono definiti con decreto del Ministro dello sviluppo economico, di concerto con il Ministro delle infrastrutture e dei trasporti e per la pubblica amministrazione e la semplificazione, sentita la Conferenza unificata, in funzione delle diverse tipologie di lavori: nuove costruzioni, ristrutturazioni importanti, interventi di riqualificazione energetica. Ai fini della piu' estesa applicazione dell'[articolo 26, comma 7, della legge 9 gennaio 1991, n. 10](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-09;10~art26-com7), per gli enti soggetti all'obbligo di cui all'articolo 19 della stessa legge, la relazione tecnica di progetto e' integrata attraverso attestazione di verifica sulla
-
-((applicazione del predetto articolo 26, comma 7,))
-
-redatta dal Responsabile per la conservazione e l'uso razionale dell'energia nominato.».
-
-2. Dopo il comma 1
-
-((del citato [articolo 8 del decreto legislativo n. 192 del 2005](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;192~art8)))
-
-, e' inserito il seguente:   
-«
-
-((1-bis. In attuazione dell'[articolo 6, paragrafi 1 e 2, della direttiva 2010/31/UE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32010L0031), in caso di edifici di nuova costruzione, e dell'articolo 7, in caso di edifici soggetti a ristrutturazione importante, nell'ambito della relazione di cui al comma 1 e' prevista una valutazione della fattibilita' tecnica, ambientale ed economica per l'inserimento di sistemi alternativi ad alta efficienza, tra i quali sistemi di fornitura di energia rinnovabile, cogenerazione, teleriscaldamento e teleraffrescamento, pompe di calore e sistemi di monitoraggio e controllo attivo dei consumi. La valutazione della fattibilita' tecnica di sistemi alternativi deve essere documentata e disponibile a fini di verifica))
-
-.».
-
-Art. 8
-------
-
-Modificazioni all'articolo 9 del decreto legislativo 19 agosto 2005, n. 192
-
-1. All'[articolo 9 del decreto legislativo 19 agosto 2005, n. 192](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;192~art9), sono apportate le seguenti modificazioni:
-
-a) al [comma 3 dell'articolo 9 del decreto legislativo 19 agosto 2005, n. 192](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;192~art9-com3), il secondo periodo e' sostituito dal seguente:   
-«A tali fini:   
-a) i soggetti di cui all'articolo 7, comma 1, comunicano
-
-((entro centoventi giorni))
-
-all'ente competente in materia di controlli sugli impianti termici l'ubicazione e le principali caratteristiche degli impianti di proprieta' o dai medesimi gestiti nonche' le eventuali successive modifiche significative;   
-b) le societa' di distribuzione dei diversi tipi di combustibile, a uso degli impianti termici, comunicano all'ente competente in materia di controlli sugli impianti termici l'ubicazione e la titolarita' delle utenze da esse rifornite al 31 dicembre di ogni anno;   
-c) l'ente competente in materia di controlli sugli impianti termici trasmette annualmente alle regioni
-
-((e alle province autonome))
-
-i dati di cui alle lettere a) e b) per via informatica
-
-((, avvalendosi del sistema informativo di cui all'articolo 4, comma 1-bis))
-
-.»;
-
-((a-bis) al comma 3-bis, le parole: "Ai sensi dell'articolo 1, comma 3," sono soppresse))
-
-b) dopo il comma 5-bis, sono inseriti i seguenti:   
-«5-ter. In tale contesto, fermo restando il divieto di aggravamento degli oneri e degli adempimenti amministrativi previsti dal presente decreto in conformita' alla [direttiva 2010/31/UE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32010L0031),
-
-((le regioni e le province autonome possono adottare provvedimenti migliorativi))
-
-di quelli disposti dal presente decreto, in termini di:   
-a) flessibilita' applicativa dei requisiti minimi, anche con l'utilizzo di soluzioni alternative, in relazione a specifiche situazioni di impossibilita' o di elevata onerosita', che comunque garantiscano un equivalente risultato sul bilancio energetico regionale;   
-b) semplificazioni amministrative in materia di esercizio, manutenzione controllo e ispezione degli impianti termici, soprattutto in relazione all'integrazione dei controlli di efficienza energetica con quelli in tema di qualita' dell'aria.   
-5-quater. I provvedimenti di cui al comma 5-ter devono essere compatibili con il [Trattato sul funzionamento dell'Unione europea](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:12008E/TXT), con la [direttiva 2010/31/UE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32010L0031), con il presente decreto legislativo e devono essere notificati alla Commissione europea.   
-5-quinquies. Le regioni e le province autonome
-
-((, in conformita' a quanto previsto dai regolamenti di cui ai [decreti del Presidente della Repubblica 16 aprile 2013, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2013-04-16;74), e [16 aprile 2013, n. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2013-04-16;75),))
-
-provvedono inoltre a:   
-a) istituire un sistema di riconoscimento degli organismi e dei soggetti cui affidare le attivita' di ispezione sugli impianti termici e di attestazione della prestazione energetica degli edifici, promuovendo programmi per la loro qualificazione, formazione e aggiornamento professionale, tenendo conto dei requisiti previsti dalle norme nazionali e nel rispetto delle norme comunitarie in materia di libera circolazione dei servizi.   
-b) avviare programmi di verifica annuale della conformita' dei rapporti di ispezione e degli attestati emessi.   
-5-sexies. Le regioni e le province autonome, anche attraverso propri enti o agenzie, collaborano con il Ministero dello sviluppo economico e, per la sola lettera c) anche
-
-((con il Dipartimento della funzione pubblica della Presidenza del Consiglio dei Ministri))
-
-, per la definizione congiunta:   
-a) di metodologie di calcolo della prestazione energetica degli edifici;   
-b) di metodologie per la determinazione dei requisiti minimi di edifici e impianti;   
-c) di sistemi di classificazione energetica degli edifici, compresa la definizione del sistema informativo comune di cui all'articolo 6, comma 12, lettera d);   
-d) del
-
-((Piano d'azione))
-
-destinato ad aumentare il numero di edifici a energia quasi zero, di cui all'articolo 4-bis, comma 2;   
-e) dell'azione di monitoraggio, analisi, valutazione e adeguamento della normativa energetica nazionale e regionale di cui agli articoli 10 e 13.».
-
-Art. 9
-------
-
-Modificazioni all'articolo 11 del decreto legislativo 19 agosto 2005, n. 192
-
-1. L'[articolo 11 del decreto legislativo 19 agosto 2005, n. 192](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;192~art11), e' sostituito dal seguente:   
-«Art. 11. (Norme transitorie). - 1. Nelle more dell'aggiornamento delle specifiche norme europee di riferimento per l'attuazione della [direttiva 2010/31/UE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32010L0031), le metodologie di calcolo delle prestazioni energetiche degli edifici, di cui all'[articolo 3, comma 1, del decreto del Presidente della Repubblica 2 aprile 2009, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2009-04-02;59~art3-com1), predisposte in conformita' alle norme EN a supporto delle [direttive 2002/91/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32002L0091) e [2010/31/UE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32010L0031), sono quelle di seguito elencate:   
-a) raccomandazione CTI 14/2013 "Prestazioni energetiche degli edifici - Determinazione dell'energia primaria e della prestazione energetica EP per la classificazione dell'edificio", o normativa UNI equivalente e successive norme tecniche che ne conseguono;   
-b) UNI/TS 11300 - 1 Prestazioni energetiche degli edifici - Parte 1: Determinazione del fabbisogno di energia termica dell'edificio per la climatizzazione estiva e invernale;   
-c) UNI/TS 11300 - 2 Prestazioni energetiche degli edifici - Parte 2: Determinazione del fabbisogno di energia primaria e dei rendimenti per la climatizzazione invernale, per la produzione di acqua calda sanitaria, la ventilazione e l'illuminazione;   
-d) UNI/TS 11300 - 3 Prestazioni energetiche degli edifici - Parte 3: Determinazione del fabbisogno di energia primaria e dei rendimenti per la climatizzazione estiva;   
-e) UNI/TS 11300 - 4 Prestazioni energetiche degli edifici - Parte 4: Utilizzo di energie rinnovabili e di altri metodi di generazione per riscaldamento di ambienti e preparazione acqua calda sanitaria.   
-
-((e-bis) UNI EN 15193 - Prestazione energetica degli edifici - Requisiti energetici per illuminazione))
-
-.».
-
-Art. 10
--------
-
-Modificazioni dell'articolo 14 del decreto legislativo 19 agosto 2005, n. 192
-
-1. L'[articolo 14 del decreto legislativo 19 agosto 2005, n. 192](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;192~art14), e' sostituito dal seguente:   
-«Art. 14 (Copertura finanziaria). - 1. All'attuazione del presente decreto, fatta salva l'implementazione degli strumenti finanziari di cui all'articolo 4-ter,
-
-((si provvede))
-
-con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente, senza nuovi o maggiori oneri per la finanza pubblica.».
-
-Art. 11
--------
-
-Modificazioni dell'articolo 13 del decreto legislativo 19 agosto 2005, n. 192
-
-1. Il [comma 3 dell'articolo 13 del decreto legislativo 19 agosto 2005, n. 192](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;192~art13-com3), e' sostituito dal seguente:   
-«3. Le attivita' di cui al comma 2, lettere a) e b), sono condotte in sinergia con le misure di accompagnamento previste dall'articolo 16 del decreto del Ministro dello sviluppo economico 28 dicembre 2012, recante disposizioni in materia di incentivazione della produzione di energia termica da fonti rinnovabili ed interventi di efficienza energetica di piccole dimensioni, e all'articolo 15 del decreto del Ministro dello sviluppo economico 28 dicembre 2012, recante disposizioni in materia di determinazione degli obiettivi quantitativi nazionali di risparmio energetico che devono essere perseguiti dalle imprese di distribuzione dell'energia elettrica e il gas per gli anni dal 2013 al 2016 e per il potenziamento del meccanismo dei certificati bianchi, pubblicati nel supplemento ordinario alla Gazzetta Ufficiale della Repubblica Italiana, n. 1 del 2 gennaio 2013.».
-
-Art. 12
--------
-
-Modificazioni dell'articolo 15 del decreto legislativo 19 agosto 2005, n. 192
-
-1. L'[articolo 15 del decreto legislativo 19 agosto 2005, n. 192](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;192~art15), e' sostituito dal seguente:   
-«Art. 15 (Sanzioni). - 1. L'attestato di prestazione energetica di cui all'articolo 6, il rapporto di controllo tecnico di cui all'articolo 7, la relazione tecnica, l'asseverazione di conformita' e l'attestato di qualificazione energetica di cui all'articolo 8, sono resi in forma di dichiarazione sostitutiva di atto notorio ai sensi dell'[articolo 47, del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445~art47), di cui al [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445).   
-2. Le autorita' competenti che ricevono i documenti di cui al comma 1 eseguono i controlli
-
-((periodici e diffusi))
-
-con le modalita' di cui all'[articolo 71 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445~art71), e applicano le sanzioni amministrative di cui ai commi da 3 a 6. Inoltre, qualora ricorrano le ipotesi di reato di cui all'[articolo 76, del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445~art76), si applicano le sanzioni previste dal medesimo articolo.   
-3. Il professionista qualificato che rilascia la relazione tecnica di cui all'articolo 8, compilata senza il rispetto degli schemi e delle modalita' stabilite nel decreto di cui all'articolo 8, comma 1 e 1-bis, o un attestato di prestazione energetica degli edifici senza il rispetto dei criteri e delle metodologie di cui all'articolo 6, e' punito con una sanzione amministrativa non inferiore a 700 euro e non superiore a 4200 euro. L'ente locale e la regione
-
-((o la provincia autonoma))
-
-, che applicano le sanzioni secondo le rispettive competenze, danno comunicazione ai relativi ordini o collegi professionali per i provvedimenti disciplinari conseguenti.   
-4. Il direttore dei lavori che omette di presentare al comune l'asseverazione di conformita' delle opere e l'attestato di qualificazione energetica, di cui all'articolo 8, comma 2,
-
-((prima del rilascio del certificato di agibilita'))
-
-, e' punito con la sanzione amministrativa non inferiore a 1000 euro e non superiore a 6000 euro. Il comune che applica la sanzione deve darne comunicazione all'ordine o al collegio professionale competente per i provvedimenti disciplinari conseguenti.   
-5. Il proprietario o il conduttore dell'unita' immobiliare, l'amministratore del condominio, o l'eventuale terzo che se ne e' assunta la responsabilita', qualora non provveda alle operazioni di controllo e manutenzione degli impianti di climatizzazione secondo quanto stabilito dall'articolo 7, comma 1, e' punito con la sanzione amministrativa non inferiore a 500 euro e non superiore a 3000 euro.   
-6. L'operatore incaricato del controllo e manutenzione, che non provvede a redigere e sottoscrivere il rapporto di controllo tecnico di cui all'articolo 7, comma 2, e' punito con la sanzione amministrativa non inferiore a 1000 euro e non superiore a 6000 euro.  
-L'ente locale, o la regione competente in materia di controlli, che applica la sanzione comunica alla camera di commercio, industria, artigianato e agricoltura di appartenenza per i provvedimenti disciplinari conseguenti.   
-7. In caso di violazione dell'obbligo di dotare di un attestato di prestazione energetica gli edifici di nuova costruzione e quelli sottoposti a ristrutturazioni importanti, come previsto dall'articolo 6, comma 1, il costruttore o il proprietario e' punito con la sanzione amministrativa non inferiore a 3000 euro e non superiore a 18000 euro.   
-8. In caso di violazione dell'obbligo di dotare di un attestato di prestazione energetica gli edifici o le unita' immobiliari nel caso di vendita, come previsto dall'articolo 6, comma 2, il proprietario e' punito con la sanzione amministrativa non inferiore a 3000 euro e non superiore a 18000 euro.   
-9. In caso di violazione dell'obbligo di dotare di un attestato di prestazione energetica gli edifici o le unita' immobiliari nel caso di nuovo contratto di locazione, come previsto dall'articolo 6, comma 2, il proprietario e' punito con la sanzione amministrativa non inferiore a 300 euro e non superiore a 1800 euro.   
-10. In caso di violazione dell'obbligo di riportare i parametri energetici nell'annuncio di offerta di vendita o locazione, come previsto dall'articolo 6, comma 8, il responsabile dell'annuncio e' punito con la sanzione amministrativa non inferiore a 500 euro e non superiore a 3000 euro.».
-
-Art. 13
--------
-
-Modificazioni dell'articolo 16 del decreto legislativo 19 agosto 2005, n. 192
-
-1. All'[articolo 16 del decreto legislativo 19 agosto 2005, n. 192](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;192~art16), dopo il comma 4, e' aggiunto il seguente:   
-«4-bis. Dalla data di entrata in vigore dei decreti di cui all'articolo 4, comma 1, e' abrogato il [decreto del Presidente della Repubblica 2 aprile 2009, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2009-04-02;59);».
-
-Art. 13-bis
------------
-
-(( (Modifica dell'articolo 17 del decreto legislativo 19 agosto 2005, n. 192). ))
-
-((1. L'[articolo 17 del decreto legislativo 19 agosto 2005, n. 192](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;192~art17), e' sostituito dal seguente:   
-"Art. 17. (Clausola di cedevolezza). - 1. In relazione a quanto disposto dall'[articolo 117, quinto comma, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art117-com5), le disposizioni di cui al presente decreto si applicano alle regioni e alle province autonome che non abbiano ancora provveduto al recepimento della [direttiva 2010/31/UE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32010L0031) fino alla data di entrata in vigore della normativa di attuazione adottata da ciascuna regione e provincia autonoma. Nel dettare la normativa di attuazione le regioni e le province autonome sono tenute al rispetto dei vincoli derivanti dall'ordinamento europeo e dei principi fondamentali desumibili dal presente decreto. Sono fatte salve, in ogni caso, le norme di attuazione delle regioni e delle province autonome che, alla data di entrata in vigore della normativa statale di attuazione, abbiano gia' provveduto al recepimento"))
-
-Art. 14
--------
-
-Detrazioni fiscali per interventi di efficienza energetica
-
-1. Le disposizioni di cui all'[articolo 1, comma 48, della legge 13 dicembre 2010, n. 220](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-12-13;220~art1-com48), e successive modificazioni, si applicano, nella misura del 65 per cento, anche alle spese sostenute dal 6 giugno 2013 al 31 dicembre 2024. PERIODO SOPPRESSO DAL [D.L. 19 MAGGIO 2020, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-19;34), CONVERTITO CON MODIFICAZIONI DALLA [L. 17 LUGLIO 2020, N.  
-77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-07-17;77). PERIODO SOPPRESSO DAL [D.L. 19 MAGGIO 2020, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-19;34), CONVERTITO CON MODIFICAZIONI DALLA [L. 17 LUGLIO 2020, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-07-17;77). PERIODO SOPPRESSO DAL [D.L. 19 MAGGIO 2020, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-19;34), CONVERTITO CON MODIFICAZIONI DALLA [L. 17 LUGLIO 2020, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-07-17;77).
-
-2. La detrazione di cui al comma 1 si applica, nella misura del 65 per cento, anche alle spese documentate e rimaste a carico del contribuente:
-
-a) per interventi relativi a parti comuni degli edifici condominiali di cui agli [articoli 1117](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1117) e [1117-bis del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1117bis) o che interessino tutte le unita' immobiliari di cui si compone il singolo condominio, sostenute dal 6 giugno 2013 al 31 dicembre 2024;
-
-b) per l'acquisto e la posa in opera delle schermature solari di cui all'allegato M al [decreto legislativo 29 dicembre 2006, n. 311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-12-29;311), sostenute dal 1º gennaio 2015 al 31 dicembre 2024, fino a un valore massimo della detrazione di 60.000 euro.
-
-b-bis) per l'acquisto e la posa in opera di micro-cogeneratori in sostituzione di impianti esistenti, sostenute dal 1° gennaio 2020 al 31 dicembre 2024, fino a un valore massimo della detrazione di 100.000 euro. Per poter beneficiare della suddetta detrazione gli interventi in oggetto devono condurre a un risparmio di energia primaria (PES), come definito all'allegato III del [decreto del Ministro dello sviluppo economico 4 agosto 2011, pubblicato nella Gazzetta Ufficiale n. 218 del 19 settembre 2011](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2011-09-19&numeroGazzetta=218), pari almeno al 20 per cento. PERIODO SOPPRESSO DALLA [L. 27 DICEMBRE 2019, N. 160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160).  
-PERIODO SOPPRESSO DALLA [L. 27 DICEMBRE 2019, N. 160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160). PERIODO SOPPRESSO DALLA [L. 27 DICEMBRE 2019, N. 160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160).   
-PERIODO SOPPRESSO DALLA [L. 27 DICEMBRE 2019, N. 160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160). PERIODO SOPPRESSO DALLA [L. 27 DICEMBRE 2019, N. 160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160). PERIODO SOPPRESSO DALLA [L. 27 DICEMBRE 2019, N. 160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160).   
-2.1. La detrazione di cui ai commi 1 e 2 e' ridotta al 50 per cento per le spese, sostenute dal 1° gennaio 2018, relative agli interventi di acquisto e posa in opera di finestre comprensive di infissi, di schermature solari e di sostituzione di impianti di climatizzazione invernale con impianti dotati di caldaie a condensazione con efficienza almeno pari alla classe A di prodotto prevista dal regolamento delegato (UE) n. 811/2013 della Commissione, del 18 febbraio 2013. Sono esclusi dalla detrazione di cui al presente articolo gli interventi di sostituzione di impianti di climatizzazione invernale con impianti dotati di caldaie a condensazione con efficienza inferiore alla classe di cui al periodo precedente. La detrazione si applica nella misura del 65 per cento per gli interventi di sostituzione di impianti di climatizzazione invernale con impianti dotati di caldaie a condensazione, di efficienza almeno pari alla classe A di prodotto prevista dal citato regolamento delegato (UE) n. 811/2013, e contestuale installazione di sistemi di termoregolazione evoluti, appartenenti alle classi V, VI oppure VIII della comunicazione 2014/C 207/02 della Commissione, o con impianti dotati di apparecchi ibridi, costituiti da pompa di calore integrata con caldaia a condensazione, assemblati in fabbrica ed espressamente concepiti dal fabbricante per funzionare in abbinamento tra loro, o per le spese sostenute per l'acquisto e la posa in opera di generatori d'aria calda a condensazione. (14)
-
-2-bis. La detrazione nella misura del 50 per cento si applica altresi' alle spese sostenute dal 1° gennaio 2021 al 31 dicembre 2024 per l'acquisto e la posa in opera di impianti di climatizzazione invernale con impianti dotati di generatori di calore alimentati da biomasse combustibili, fino a un valore massimo della detrazione di 30.000 euro.
-
-2-ter. COMMA ABROGATO DAL [D.L. 16 FEBBRAIO 2023, N. 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-02-16;11).
-
-2-quater. Per le spese sostenute dal 1º gennaio 2017 al 31 dicembre 2024 per interventi di riqualificazione energetica di parti comuni degli edifici condominiali, che interessino l'involucro dell'edificio con un'incidenza superiore al 25 per cento della superficie disperdente lorda dell'edificio medesimo, la detrazione di cui al comma 1 spetta nella misura del 70 per cento. La medesima detrazione spetta, nella misura del 75 per cento, per le spese sostenute per interventi di riqualificazione energetica relativi alle parti comuni di edifici condominiali finalizzati a migliorare la prestazione energetica invernale ed estiva e che conseguano almeno la qualita' media di cui al decreto del Ministro dello sviluppo economico 26 giugno 2015, pubblicato nel supplemento ordinario n. 39 alla [Gazzetta Ufficiale n. 162 del 15 luglio 2015](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2015-07-15&numeroGazzetta=162). Le detrazioni di cui al presente comma sono calcolate su un ammontare complessivo delle spese non superiore a euro 40.000 moltiplicato per il numero delle unita' immobiliari che compongono l'edificio.   
-2-quater.1. Per le spese relative agli interventi su parti comuni di edifici condominiali ricadenti nelle zone sismiche 1, 2 e 3 finalizzati congiuntamente alla riduzione del rischio sismico e alla riqualificazione energetica spetta, in alternativa alle detrazioni previste rispettivamente dal comma 2-quater del presente articolo e dal comma 1-quinquies dell'articolo 16, una detrazione nella misura dell'80 per cento, ove gli interventi determinino il passaggio ad una classe di rischio inferiore, o nella misura dell'85 per cento ove gli interventi determinino il passaggio a due classi di rischio inferiori. La predetta detrazione e' ripartita in dieci quote annuali di pari importo e si applica su un ammontare delle spese non superiore a euro 136.000 moltiplicato per il numero delle unita' immobiliari di ciascun edificio.
-
-2-quinquies. La sussistenza delle condizioni di cui al comma 2-quater e' asseverata da professionisti abilitati mediante l'attestazione della prestazione energetica degli edifici prevista dal decreto del Ministro dello sviluppo economico 26 giugno 2015 di cui al citato comma 2-quater. L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) effettua controlli, anche a campione, su tali attestazioni, nonche' su tutte le agevolazioni spettanti ai sensi del presente articolo, con procedure e modalita' disciplinate con decreto del Ministro dello sviluppo economico, di concerto con il Ministro dell'economia e delle finanze, da emanare entro novanta giorni dalla data di entrata in vigore delle presenti disposizioni. La non veridicita' dell'attestazione comporta la decadenza dal beneficio, ferma restando la responsabilita' del professionista ai sensi delle disposizioni vigenti. Per le attivita' di cui al secondo periodo, e' autorizzata in favore dell'ENEA la spesa di 500.000 euro per l'anno 2017 e di 1 milione di euro per ciascuno degli anni dal 2018 al 2021.
-
-2-sexies. COMMA ABROGATO DAL [D.L. 16 FEBBRAIO 2023, N. 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-02-16;11).
-
-2-septies. Le detrazioni di cui al presente articolo sono usufruibili anche dagli Istituti autonomi per le case popolari, comunque denominati, nonche' dagli enti aventi le stesse finalita' sociali dei predetti istituti, istituiti nella forma di societa' che rispondono ai requisiti della legislazione europea in materia di in house providing e che siano costituiti e operanti alla data del 31 dicembre 2013, per interventi di efficienza energetica realizzati su immobili, di loro proprieta' ovvero gestiti per conto dei comuni, adibiti ad edilizia residenziale pubblica, nonche' dalle cooperative di abitazione a proprieta' indivisa per interventi realizzati su immobili dalle stesse posseduti e assegnati in godimento ai propri soci
-
-3. La detrazione spettante ai sensi del presente articolo e' ripartita in dieci quote annuali di pari importo. Si applicano, in quanto compatibili, le disposizioni di cui all'[articolo 1, comma 24, della legge 24 dicembre 2007, n. 244](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244~art1-com24), e successive modificazioni, e all'[articolo 29, comma 6, del decreto-legge 29 novembre 2008, n. 185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-11-29;185~art29-com6), convertito, con modificazioni, dalla [legge 28 gennaio 2009, n. 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-01-28;2).   
-3.1. COMMA ABROGATO DAL [D.L. 16 FEBBRAIO 2023, N. 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-02-16;11).
-
-3-bis. Al fine di effettuare il monitoraggio e la valutazione del risparmio energetico conseguito a seguito della realizzazione degli interventi di cui ai commi 1 e 2, l'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) elabora le informazioni contenute nelle richieste di detrazione pervenute per via telematica e trasmette una relazione sui risultati degli interventi al Ministero dello sviluppo economico, al Ministero dell'economia e delle finanze, alle regioni e alle province autonome di Trento e di Bolzano, nell'ambito delle rispettive competenze territoriali. Nell'ambito di tale attivita', l'ENEA predispone il costante aggiornamento del sistema di reportistica multi-anno delle dichiarazioni ai fini della detrazione fiscale di cui all'[articolo 1, comma 349, della legge 27 dicembre 2006, n. 296](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296~art1-com349), gia' attivo e assicura, su richiesta, il necessario supporto tecnico alle regioni e alle province autonome di Trento e di Bolzano.
-
-3-ter. Con uno o piu' decreti del Ministro dello sviluppo economico, di concerto con il Ministro dell'economia e delle finanze, il Ministro dell'ambiente e della tutela del territorio e del mare e il Ministro delle infrastrutture e dei trasporti, da adottare entro sessanta giorni dalla data di entrata in vigore della presente disposizione, sono definiti i requisiti tecnici che devono soddisfare gli interventi che beneficiano delle agevolazioni di cui al presente articolo, ivi compresi i massimali di costo specifici per singola tipologia di intervento, nonche' le procedure e le modalita' di esecuzione di controlli a campione, sia documentali che in situ, eseguiti dall'ENEA e volti ad accertare il rispetto dei requisiti che determinano l'accesso al beneficio. Nelle more dell'emanazione dei decreti di cui al presente comma, continuano ad applicarsi il [decreto del Ministro dell'economia e delle finanze 19 febbraio 2007, pubblicato nella Gazzetta Ufficiale n. 47 del 26 febbraio 2007](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2007-02-26&numeroGazzetta=47), e il [decreto del Ministro dello sviluppo economico 11 marzo 2008, pubblicato nella Gazzetta Ufficiale n. 66 del 18 marzo 2008](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2008-03-18&numeroGazzetta=66). L'ENEA, ai fini di assicurare coerenza con la legislazione e la normativa vigente in materia di efficienza energetica, limitatamente ai relativi contenuti tecnici, adegua il portale attualmente in essere e la relativa modulistica per la trasmissione dei dati a cura dei soggetti beneficiari delle detrazioni di cui al presente articolo.
-
-3-quater. Al fine di agevolare l'esecuzione degli interventi di efficienza energetica di cui al presente articolo, e' istituita, nell'ambito del Fondo di cui all'[articolo 15 del decreto legislativo 4 luglio 2014, n. 102](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-07-04;102~art15), una sezione dedicata al rilascio di garanzie su operazioni di finanziamento degli stessi. A tal fine, la dotazione del Fondo suddetto puo' essere integrata fino a 25 milioni di euro annui per il periodo 2018-2020 a carico del Ministero dello sviluppo economico e fino a 25 milioni di euro annui per il periodo 2018-2020 a carico del Ministero dell'ambiente e della tutela del territorio e del mare, a valere sui proventi annui delle aste delle quote di emissione di CO2 destinati ai progetti energetico-ambientali di cui all'[articolo 19 del decreto legislativo 13 marzo 2013, n. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-13;30~art19), previa verifica dell'entita' dei proventi disponibili annualmente, con le modalita' e nei limiti di cui ai commi 3 e 6 dello stesso articolo 19. Per il perseguimento delle finalita' di cui al presente comma, con uno o piu' decreti di natura non regolamentare da adottare entro novanta giorni dalla data di entrata in vigore della presente disposizione dal Ministro dello sviluppo economico e dal Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con il Ministro dell'economia e delle finanze e acquisito il parere della Conferenza unificata, sono individuati, nel rispetto degli equilibri di finanza pubblica, le priorita', i criteri, le condizioni e le modalita' di funzionamento, di gestione e di intervento della sezione del Fondo e le relative prime dotazioni della sezione stessa.
-
-3-quinquies. La detrazione di cui al presente articolo spetta anche per le spese documentate sostenute negli anni 2025, 2026 e 2027, ad esclusione delle spese per gli interventi di sostituzione degli impianti di climatizzazione invernale con caldaie uniche alimentate a combustibili fossili, nella misura fissa, per tutte le tipologie di interventi agevolati, pari
-
-((al 36 per cento delle spese sostenute negli anni 2025 e 2026 e al 30 per cento delle spese sostenute nell'anno 2027))
-
-. La detrazione di cui al primo periodo spettante per gli anni 2025, 2026 e 2027 e' elevata
-
-((al 50 per cento delle spese per gli anni 2025 e 2026 e al 36 per cento delle spese per l'anno 2027))
-
-, nel caso in cui le medesime spese siano sostenute dai titolari del diritto di proprieta' o di un diritto reale di godimento per interventi sull'unita' immobiliare adibita ad abitazione principale.   
-(6) (14) (16) (17) (20)
+La detrazione di cui al presente articolo spetta anche per le spese documentate sostenute negli anni 2025, 2026 e 2027, ad esclusione delle spese per gli interventi di sostituzione degli impianti di climatizzazione invernale con caldaie uniche alimentate a combustibili fossili, nella misura fissa, per tutte le tipologie di interventi agevolati, pari ((al 36 per cento delle spese sostenute negli anni 2025 e 2026 e al 30 per cento delle spese sostenute nell'anno 2027)). La detrazione di cui al primo periodo spettante per gli anni 2025, 2026 e 2027 e' elevata ((al 50 per cento delle spese per gli anni 2025 e 2026 e al 36 per cento delle spese per l'anno 2027)), nel caso in cui le medesime spese siano sostenute dai titolari del diritto di proprieta' o di un diritto reale di godimento per interventi sull'unita' immobiliare adibita ad abitazione principale. 
+ (6) (14) (16) (17) (20)
 
 ------------
 
 AGGIORNAMENTO (6)
 
-La [L. 28 dicembre 2015, n. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208), ha disposto (con l'art. 1, comma 87) che "Le detrazioni di cui all'[articolo 14 del decreto-legge 4 giugno 2013, n. 63](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-04;63~art14), convertito, con modificazioni, dalla [legge 3 agosto 2013, n. 90](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-08-03;90), sono usufruibili anche dagli Istituti autonomi per le case popolari, comunque denominati, per le spese sostenute, dal 1° gennaio 2016 al 31 dicembre 2016, per interventi realizzati su immobili di loro proprieta' adibiti ad edilizia residenziale pubblica".   
-Ha inoltre disposto (con l'art. 1, comma 88) che "Le detrazioni fiscali di cui all'[articolo 14 del decreto-legge 4 giugno 2013, n. 63](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-04;63~art14), convertito, con modificazioni, dalla [legge 3 agosto 2013, n. 90](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-08-03;90), si applicano anche alle spese sostenute per l'acquisto, l'installazione e la messa in opera di dispositivi multimediali per il controllo da remoto degli impianti di riscaldamento o produzione di acqua calda o di climatizzazione delle unita' abitative, volti ad aumentare la consapevolezza dei consumi energetici da parte degli utenti e a garantire un funzionamento efficiente degli impianti. Tali dispositivi devono:   
-a) mostrare attraverso canali multimediali i consumi energetici, mediante la fornitura periodica dei dati;   
-b) mostrare le condizioni di funzionamento correnti e la temperatura di regolazione degli impianti;   
-c) consentire l'accensione, lo spegnimento e la programmazione settimanale degli impianti da remoto".
+La [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 1, comma 87) che "Le detrazioni di cui all'[articolo 14 del decreto-legge 4 giugno 2013, n. 63](Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md), convertito, con modificazioni, dalla [legge 3 agosto 2013, n. 90](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20giugno%202013%20n.%2063%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consig_1da67b9383c2.md), sono usufruibili anche dagli Istituti autonomi per le case popolari, comunque denominati, per le spese sostenute, dal 1° gennaio 2016 al 31 dicembre 2016, per interventi realizzati su immobili di loro proprieta' adibiti ad edilizia residenziale pubblica". 
+ Ha inoltre disposto (con l'art. 1, comma 88) che "Le detrazioni fiscali di cui all'[articolo 14 del decreto-legge 4 giugno 2013, n. 63](Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md), convertito, con modificazioni, dalla [legge 3 agosto 2013, n. 90](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20giugno%202013%20n.%2063%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consig_1da67b9383c2.md), si applicano anche alle spese sostenute per l'acquisto, l'installazione e la messa in opera di dispositivi multimediali per il controllo da remoto degli impianti di riscaldamento o produzione di acqua calda o di climatizzazione delle unita' abitative, volti ad aumentare la consapevolezza dei consumi energetici da parte degli utenti e a garantire un funzionamento efficiente degli impianti. Tali dispositivi devono: 
+ a) mostrare attraverso canali multimediali i consumi energetici, mediante la fornitura periodica dei dati; 
+ b) mostrare le condizioni di funzionamento correnti e la temperatura di regolazione degli impianti; 
+ c) consentire l'accensione, lo spegnimento e la programmazione settimanale degli impianti da remoto".
 
 ------------
 
 AGGIORNAMENTO (14)
 
-Il [D.L. 19 maggio 2020, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-19;34), convertito con modificazioni dalla [L. 17 luglio 2020, n. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-07-17;77), ha disposto:   
-- (con l'art. 119, comma 1) che la detrazione di cui al presente articolo si applica nella misura del 110 per cento per le spese documentate e rimaste a carico del contribuente, sostenute dal 1° luglio 2020 fino al 31 dicembre 2021, da ripartire tra gli aventi diritto in cinque quote annuali di pari importo, nei casi previsti dalle lettere a), b) e c) del comma 1 dell'art. 119 suindicato;   
--(con l'art. 119, comma 2) che "L'aliquota prevista al comma 1, alinea, del presente articolo si applica anche a tutti gli altri interventi di efficienza energetica di cui all'[articolo 14 del decreto-legge 4 giugno 2013, n. 63](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-04;63~art14), convertito, con modificazioni, dalla [legge 3 agosto 2013, n. 90](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-08-03;90), nei limiti di spesa previsti, per ciascun intervento di efficienza energetica, dalla legislazione vigente, a condizione che siano eseguiti congiuntamente ad almeno uno degli interventi di cui al citato comma 1. Qualora l'edificio sia sottoposto ad almeno uno dei vincoli previsti dal [codice dei beni culturali e del paesaggio](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42), di cui al [decreto legislativo 22 gennaio 2004, n. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42), o gli interventi di cui al citato comma 1 siano vietati da regolamenti edilizi, urbanistici e ambientali, la detrazione si applica a tutti gli interventi di cui al presente comma, anche se non eseguiti congiuntamente ad almeno uno degli interventi di cui al medesimo comma 1, fermi restando i requisiti di cui al comma 3";   
-- (con l'art. 119, comma 3-bis) che "Per gli interventi effettuati dai soggetti di cui al comma 9, lettera c), le disposizioni dei commi da 1 a 3 si applicano anche alle spese, documentate e rimaste a carico del contribuente, sostenute dal 1° gennaio 2022 al 30 giugno 2022";   
-- (con l'art. 119, comma 9) che le modifiche disposte dai commi da 1 a 8 del medesimo art. 119 si applicano agli interventi previsti dallo stesso art. 119, comma 9;   
-- (con l'art. 119, comma 15-bis) che le presenti modifiche "non si applicano alle unita' immobiliari appartenenti alle categorie catastali A/1, A/8 e A/9";   
-- (con l'art. 119, comma 16, alinea) che la disposizione di cui al comma 2.1 ha efficacia dal 1° gennaio 2020.
+Il [D.L. 19 maggio 2020, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-19;34), convertito con modificazioni dalla [L. 17 luglio 2020, n. 77](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20maggio%202020%20n.%2034%20recante%20misure%20urgenti%20in%20materia%20di%20salute%20sostegno%20al%20lavoro%20e%20alleconomia%20nonche%20di%20politiche%20sociali%20conn_7955b884286a.md), ha disposto: 
+ - (con l'art. 119, comma 1) che la detrazione di cui al presente articolo si applica nella misura del 110 per cento per le spese documentate e rimaste a carico del contribuente, sostenute dal 1° luglio 2020 fino al 31 dicembre 2021, da ripartire tra gli aventi diritto in cinque quote annuali di pari importo, nei casi previsti dalle lettere a), b) e c) del comma 1 dell'art. 119 suindicato; 
+ -(con l'art. 119, comma 2) che "L'aliquota prevista al comma 1, alinea, del presente articolo si applica anche a tutti gli altri interventi di efficienza energetica di cui all'[articolo 14 del decreto-legge 4 giugno 2013, n. 63](Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md), convertito, con modificazioni, dalla [legge 3 agosto 2013, n. 90](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20giugno%202013%20n.%2063%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consig_1da67b9383c2.md), nei limiti di spesa previsti, per ciascun intervento di efficienza energetica, dalla legislazione vigente, a condizione che siano eseguiti congiuntamente ad almeno uno degli interventi di cui al citato comma 1. Qualora l'edificio sia sottoposto ad almeno uno dei vincoli previsti dal [codice dei beni culturali e del paesaggio](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), di cui al [decreto legislativo 22 gennaio 2004, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), o gli interventi di cui al citato comma 1 siano vietati da regolamenti edilizi, urbanistici e ambientali, la detrazione si applica a tutti gli interventi di cui al presente comma, anche se non eseguiti congiuntamente ad almeno uno degli interventi di cui al medesimo comma 1, fermi restando i requisiti di cui al comma 3"; 
+ - (con l'art. 119, comma 3-bis) che "Per gli interventi effettuati dai soggetti di cui al comma 9, lettera c), le disposizioni dei commi da 1 a 3 si applicano anche alle spese, documentate e rimaste a carico del contribuente, sostenute dal 1° gennaio 2022 al 30 giugno 2022"; 
+ - (con l'art. 119, comma 9) che le modifiche disposte dai commi da 1 a 8 del medesimo art. 119 si applicano agli interventi previsti dallo stesso art. 119, comma 9; 
+ - (con l'art. 119, comma 15-bis) che le presenti modifiche "non si applicano alle unita' immobiliari appartenenti alle categorie catastali A/1, A/8 e A/9"; 
+ - (con l'art. 119, comma 16, alinea) che la disposizione di cui al comma 2.1 ha efficacia dal 1° gennaio 2020.
 
 ------------
 
 AGGIORNAMENTO (16)
 
-Il [D.L. 19 maggio 2020, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-19;34), convertito con modificazioni dalla [L. 17 luglio 2020, n. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-07-17;77), come modificato dalla [L. 30 dicembre 2020, n. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-12-30;178), ha disposto:   
-- (con l'art. 119, comma 1) che la detrazione di cui al presente articolo si applica nella misura del 110 per cento per le spese documentate e rimaste a carico del contribuente, sostenute dal 1° luglio 2020 fino al 30 giugno 2022, da ripartire tra gli aventi diritto in cinque quote annuali di pari importo e in quattro quote annuali di pari importo per la parte di spesa sostenuta nell'anno 2022, nei casi previsti dalle lettere a), b) e c) del comma 1 dell'art. 119 suindicato;   
--(con l'art. 119, comma 2) che "L'aliquota prevista al comma 1, alinea, del presente articolo si applica anche a tutti gli altri interventi di efficienza energetica di cui all'[articolo 14 del decreto-legge 4 giugno 2013, n. 63](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-04;63~art14), convertito, con modificazioni, dalla [legge 3 agosto 2013, n. 90](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-08-03;90), nei limiti di spesa previsti, per ciascun intervento di efficienza energetica, dalla legislazione vigente, nonche' agli interventi previsti dall'articolo 16-bis, comma 1, lettera e), del testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-12-22;917), anche ove effettuati in favore di persone di eta' superiore a sessantacinque anni, a condizione che siano eseguiti congiuntamente ad almeno uno degli interventi di cui al citato comma 1. Qualora l'edificio sia sottoposto ad almeno uno dei vincoli previsti dal [codice dei beni culturali e del paesaggio](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42), di cui al [decreto legislativo 22 gennaio 2004, n. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42), o gli interventi di cui al citato comma 1 siano vietati da regolamenti edilizi, urbanistici e ambientali, la detrazione si applica a tutti gli interventi di cui al presente comma, anche se non eseguiti congiuntamente ad almeno uno degli interventi di cui al medesimo comma 1, fermi restando i requisiti di cui al comma 3";   
-- (con l'art. 119, comma 3-bis) che "Per gli interventi effettuati dai soggetti di cui al comma 9, lettera c), le disposizioni dei commi da 1 a 3 si applicano anche alle spese, documentate e rimaste a carico del contribuente, sostenute dal 1° gennaio 2022 al 31 dicembre 2022. Per le spese sostenute dal 1° luglio 2022 la detrazione e' ripartita in quattro quote annuali di pari importo".   
-La [L. 30 dicembre 2020, n. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-12-30;178), nel modificare l'[art. 119, commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-19;34~art119-com1) e [3-bis del D.L. 19 maggio 2020, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-19;34~art119-com3bis), convertito con modificazioni dalla [L. 17 luglio 2020, n. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-07-17;77), ha conseguentemente disposto (con l'art. 1, comma 74) che "L'efficacia delle proroghe di cui ai commi da 66 a 72 resta subordinata alla definitiva approvazione da parte del Consiglio dell'Unione europea. Restano fermi gli obblighi di monitoraggio e di rendicontazione previsti nel Piano nazionale per la ripresa e la resilienza per tale progetto".
+Il [D.L. 19 maggio 2020, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-19;34), convertito con modificazioni dalla [L. 17 luglio 2020, n. 77](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20maggio%202020%20n.%2034%20recante%20misure%20urgenti%20in%20materia%20di%20salute%20sostegno%20al%20lavoro%20e%20alleconomia%20nonche%20di%20politiche%20sociali%20conn_7955b884286a.md), come modificato dalla [L. 30 dicembre 2020, n. 178](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202021%20e%20bilancio%20pluriennale%20per%20il%20triennio%202021-2023.%2020G00202.md), ha disposto: 
+ - (con l'art. 119, comma 1) che la detrazione di cui al presente articolo si applica nella misura del 110 per cento per le spese documentate e rimaste a carico del contribuente, sostenute dal 1° luglio 2020 fino al 30 giugno 2022, da ripartire tra gli aventi diritto in cinque quote annuali di pari importo e in quattro quote annuali di pari importo per la parte di spesa sostenuta nell'anno 2022, nei casi previsti dalle lettere a), b) e c) del comma 1 dell'art. 119 suindicato; 
+ -(con l'art. 119, comma 2) che "L'aliquota prevista al comma 1, alinea, del presente articolo si applica anche a tutti gli altri interventi di efficienza energetica di cui all'[articolo 14 del decreto-legge 4 giugno 2013, n. 63](Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md), convertito, con modificazioni, dalla [legge 3 agosto 2013, n. 90](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20giugno%202013%20n.%2063%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consig_1da67b9383c2.md), nei limiti di spesa previsti, per ciascun intervento di efficienza energetica, dalla legislazione vigente, nonche' agli interventi previsti dall'articolo 16-bis, comma 1, lettera e), del testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), anche ove effettuati in favore di persone di eta' superiore a sessantacinque anni, a condizione che siano eseguiti congiuntamente ad almeno uno degli interventi di cui al citato comma 1. Qualora l'edificio sia sottoposto ad almeno uno dei vincoli previsti dal [codice dei beni culturali e del paesaggio](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), di cui al [decreto legislativo 22 gennaio 2004, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), o gli interventi di cui al citato comma 1 siano vietati da regolamenti edilizi, urbanistici e ambientali, la detrazione si applica a tutti gli interventi di cui al presente comma, anche se non eseguiti congiuntamente ad almeno uno degli interventi di cui al medesimo comma 1, fermi restando i requisiti di cui al comma 3"; 
+ - (con l'art. 119, comma 3-bis) che "Per gli interventi effettuati dai soggetti di cui al comma 9, lettera c), le disposizioni dei commi da 1 a 3 si applicano anche alle spese, documentate e rimaste a carico del contribuente, sostenute dal 1° gennaio 2022 al 31 dicembre 2022. Per le spese sostenute dal 1° luglio 2022 la detrazione e' ripartita in quattro quote annuali di pari importo". 
+ La [L. 30 dicembre 2020, n. 178](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202021%20e%20bilancio%20pluriennale%20per%20il%20triennio%202021-2023.%2020G00202.md), nel modificare l'[art. 119, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-19;34#art_119-com1) e [3-bis del D.L. 19 maggio 2020, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-19;34#art_119-com3bis), convertito con modificazioni dalla [L. 17 luglio 2020, n. 77](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20maggio%202020%20n.%2034%20recante%20misure%20urgenti%20in%20materia%20di%20salute%20sostegno%20al%20lavoro%20e%20alleconomia%20nonche%20di%20politiche%20sociali%20conn_7955b884286a.md), ha conseguentemente disposto (con l'art. 1, comma 74) che "L'efficacia delle proroghe di cui ai commi da 66 a 72 resta subordinata alla definitiva approvazione da parte del Consiglio dell'Unione europea. Restano fermi gli obblighi di monitoraggio e di rendicontazione previsti nel Piano nazionale per la ripresa e la resilienza per tale progetto".
 
 ------------
 
 AGGIORNAMENTO (17)
 
-Il [D.L. 19 maggio 2020, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-19;34), convertito con modificazioni dalla [L. 17 luglio 2020, n. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-07-17;77), come modificato dal [D.L. 6 maggio 2021, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-06;59), ha disposto (con l'art. 119, comma 3-bis) che "Per gli interventi effettuati dai soggetti di cui al comma 9, lettera c), le disposizioni dei commi da 1 a 3 si applicano anche alle spese, documentate e rimaste a carico del contribuente, sostenute dal 1° gennaio 2022 al 30 giugno 2023. Per le spese sostenute dal 1° luglio 2022 la detrazione e' ripartita in quattro quote annuali di pari importo".
+Il [D.L. 19 maggio 2020, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-19;34), convertito con modificazioni dalla [L. 17 luglio 2020, n. 77](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20maggio%202020%20n.%2034%20recante%20misure%20urgenti%20in%20materia%20di%20salute%20sostegno%20al%20lavoro%20e%20alleconomia%20nonche%20di%20politiche%20sociali%20conn_7955b884286a.md), come modificato dal [D.L. 6 maggio 2021, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-06;59), ha disposto (con l'art. 119, comma 3-bis) che "Per gli interventi effettuati dai soggetti di cui al comma 9, lettera c), le disposizioni dei commi da 1 a 3 si applicano anche alle spese, documentate e rimaste a carico del contribuente, sostenute dal 1° gennaio 2022 al 30 giugno 2023. Per le spese sostenute dal 1° luglio 2022 la detrazione e' ripartita in quattro quote annuali di pari importo".
 
 ------------
 
 AGGIORNAMENTO (20)
 
-Il [D.L. 19 maggio 2020, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-19;34), convertito con modificazioni dalla [L. 17 luglio 2020, n. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-07-17;77), come modificato dalla [L. 30 dicembre 2021, n. 234](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-30;234), ha disposto (con l'art. 119, comma 1) che la detrazione di cui al presente articolo si applica nella misura del 110 per cento per le spese documentate e rimaste a carico del contribuente, sostenute dal 1° luglio 2020 fino al 30 giugno 2022, da ripartire tra gli aventi diritto in cinque quote annuali di pari importo e in quattro quote annuali di pari importo per la parte di spese sostenuta dal 1° gennaio 2022, nei casi previsti dalle lettere a), b) e c) del comma 1 dell'art. 119 suindicato.
+Il [D.L. 19 maggio 2020, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-19;34), convertito con modificazioni dalla [L. 17 luglio 2020, n. 77](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20maggio%202020%20n.%2034%20recante%20misure%20urgenti%20in%20materia%20di%20salute%20sostegno%20al%20lavoro%20e%20alleconomia%20nonche%20di%20politiche%20sociali%20conn_7955b884286a.md), come modificato dalla [L. 30 dicembre 2021, n. 234](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202022%20e%20bilancio%20pluriennale%20per%20il%20triennio%202022-2024.%2021G00256.md), ha disposto (con l'art. 119, comma 1) che la detrazione di cui al presente articolo si applica nella misura del 110 per cento per le spese documentate e rimaste a carico del contribuente, sostenute dal 1° luglio 2020 fino al 30 giugno 2022, da ripartire tra gli aventi diritto in cinque quote annuali di pari importo e in quattro quote annuali di pari importo per la parte di spese sostenuta dal 1° gennaio 2022, nei casi previsti dalle lettere a), b) e c) del comma 1 dell'art. 119 suindicato.
 
-Art. 15
--------
+## Art. 15. — Detrazioni fiscali per interventi di ristrutturazione ed efficienza energetica e idrica
 
-Detrazioni fiscali per interventi di ristrutturazione ed efficienza energetica e idrica
+1.
 
-1. Nelle more della definizione di misure ed incentivi selettivi di carattere strutturale, da adottare entro il
+Nelle more della definizione di misure ed incentivi selettivi di carattere strutturale, da adottare entro il ((31 dicembre 2017)), finalizzati a favorire la realizzazione di interventi per il miglioramento, l'adeguamento antisismico e la messa in sicurezza degli edifici esistenti, nonche' per l'incremento dell'efficienza idrica e del rendimento energetico degli stessi, si applicano le disposizioni di cui agli articoli 14 e 16. Nella definizione delle misure e degli incentivi di cui al primo periodo e' compresa l'installazione di impianti di depurazione delle acque da contaminazione di arsenico di tipo domestico, produttivo e agricolo nei comuni dove e' stato rilevato il superamento del limite massimo di tolleranza stabilito dall'Organizzazione mondiale della sanita' o da norme vigenti, ovvero dove i sindaci o altre autorita' locali sono stati costretti ad adottare misure di precauzione o di divieto dell'uso dell'acqua per i diversi impieghi.
 
-((31 dicembre 2017))
+1-bis.
 
-, finalizzati a favorire la realizzazione di interventi per il miglioramento, l'adeguamento antisismico e la messa in sicurezza degli edifici esistenti, nonche' per l'incremento dell'efficienza idrica e del rendimento energetico degli stessi, si applicano le disposizioni di cui agli articoli 14 e 16. Nella definizione delle misure e degli incentivi di cui al primo periodo e' compresa l'installazione di impianti di depurazione delle acque da contaminazione di arsenico di tipo domestico, produttivo e agricolo nei comuni dove e' stato rilevato il superamento del limite massimo di tolleranza stabilito dall'Organizzazione mondiale della sanita' o da norme vigenti, ovvero dove i sindaci o altre autorita' locali sono stati costretti ad adottare misure di precauzione o di divieto dell'uso dell'acqua per i diversi impieghi.
+Nella definizione delle misure di cui al comma 1 si tiene conto dell'opportunita' di agevolare ulteriori interventi rispetto a quelli previsti dal presente decreto, quali ad esempio le schermature solari, la micro-cogenerazione e la micro-trigenerazione per il miglioramento dell'efficienza energetica, nonche' interventi per promuovere l'incremento dell'efficienza idrica e per la sostituzione delle coperture di amianto negli edifici.
 
-1-bis. Nella definizione delle misure di cui al comma 1 si tiene conto dell'opportunita' di agevolare ulteriori interventi rispetto a quelli previsti dal presente decreto, quali ad esempio le schermature solari, la micro-cogenerazione e la micro-trigenerazione per il miglioramento dell'efficienza energetica, nonche' interventi per promuovere l'incremento dell'efficienza idrica e per la sostituzione delle coperture di amianto negli edifici.
-
-Art. 15-bis
------------
-
-(( (Banca dati degli incentivi in materia di efficienza energetica e di produzione di energia da fonti rinnovabili). ))
+## Art. 15-bis. — (( (Banca dati degli incentivi in materia di efficienza energetica e di produzione di energia da fonti rinnovabili). ))
 
 ((
 
-1. Al fine di monitorare l'andamento, e i relativi costi, delle attivita' connesse ai settori dell'efficienza energetica e della produzione di energia da fonti rinnovabili, nonche' di prevenire eventuali fenomeni fraudolenti nella richiesta di riconoscimento dei diversi meccanismi incentivanti previsti dalle singole normative di settore, e' istituita presso il Gestore dei servizi energetici S.p.A. (GSE) una banca dati nazionale in cui confluiscono i flussi di dati relativi ai soggetti beneficiari degli incentivi erogati dal GSE e quelli acquisiti da altre amministrazioni pubbliche autorizzate ad erogare incentivi o sostegni finanziari per attivita' connesse ai settori dell'efficienza energetica e della produzione di energia da fonti rinnovabili.
+1.
 
-2. Entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, il Ministro dello sviluppo economico, sentiti il Ministro dell'ambiente e della tutela del territorio e del mare e la Conferenza unificata, utilizzando le competenze istituzionali dell'ENEA, individua, con apposito decreto, le modalita' di gestione dei flussi informativi della banca dati di cui al comma 1, oltre alle opportune forme di collaborazione e raccordo tra le amministrazioni interessate e il GSE, per assicurare un celere e compiuto afflusso per via telematica dei dati in proprio possesso alla banca dati stessa, in modo da riscontrare eventuali anomalie, e per individuare idonee forme di pubblicita' di tali informazioni.
+Al fine di monitorare l'andamento, e i relativi costi, delle attivita' connesse ai settori dell'efficienza energetica e della produzione di energia da fonti rinnovabili, nonche' di prevenire eventuali fenomeni fraudolenti nella richiesta di riconoscimento dei diversi meccanismi incentivanti previsti dalle singole normative di settore, e' istituita presso il Gestore dei servizi energetici S.p.A. (GSE) una banca dati nazionale in cui confluiscono i flussi di dati relativi ai soggetti beneficiari degli incentivi erogati dal GSE e quelli acquisiti da altre amministrazioni pubbliche autorizzate ad erogare incentivi o sostegni finanziari per attivita' connesse ai settori dell'efficienza energetica e della produzione di energia da fonti rinnovabili.
+
+2.
+
+Entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, il Ministro dello sviluppo economico, sentiti il Ministro dell'ambiente e della tutela del territorio e del mare e la Conferenza unificata, utilizzando le competenze istituzionali dell'ENEA, individua, con apposito decreto, le modalita' di gestione dei flussi informativi della banca dati di cui al comma 1, oltre alle opportune forme di collaborazione e raccordo tra le amministrazioni interessate e il GSE, per assicurare un celere e compiuto afflusso per via telematica dei dati in proprio possesso alla banca dati stessa, in modo da riscontrare eventuali anomalie, e per individuare idonee forme di pubblicita' di tali informazioni.
 
 3. All'attuazione del presente articolo, dal quale non devono derivare nuovi o maggiori oneri a carico della finanza pubblica, si provvede nell'ambito delle risorse umane, finanziarie e strumentali disponibili a legislazione vigente))
 
-Art. 16
--------
+## Art. 16. — Proroga delle detrazioni fiscali per interventi di ristrutturazione edilizia e per l'acquisto di mobili
 
-Proroga delle detrazioni fiscali per interventi di ristrutturazione edilizia e per l'acquisto di mobili
+1.
 
-1. Ferme restando le ulteriori disposizioni contenute nell'articolo 16-bis del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-12-22;917), per le spese documentate relative agli interventi indicati nel comma 1 del citato articolo 16-bis sostenute negli anni 2025, 2026 e 2027, ad esclusione delle spese per gli interventi di sostituzione degli impianti di climatizzazione invernale con caldaie uniche alimentate a combustibili fossili, spetta una detrazione dall'imposta lorda pari
+Ferme restando le ulteriori disposizioni contenute nell'articolo 16-bis del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), per le spese documentate relative agli interventi indicati nel comma 1 del citato articolo 16-bis sostenute negli anni 2025, 2026 e 2027, ad esclusione delle spese per gli interventi di sostituzione degli impianti di climatizzazione invernale con caldaie uniche alimentate a combustibili fossili, spetta una detrazione dall'imposta lorda pari ((al 36 per cento delle spese sostenute negli anni 2025 e 2026 e al 30 per cento delle spese sostenute nell'anno 2027)), fino a un ammontare complessivo delle stesse non superiore a 96.000 euro per unita' immobiliare. Fermo restando il predetto limite, la detrazione di cui al primo periodo spettante per gli anni 2025, 2026 e 2027 e' elevata ((al 50 per cento delle spese sostenute negli anni 2025 e 2026 e al 36 per cento delle spese sostenute nell'anno 2027)) nel caso in cui le medesime spese siano sostenute dai titolari del diritto di proprieta' o di un diritto reale di godimento per interventi sull'unita' immobiliare adibita ad abitazione principale.
 
-((al 36 per cento delle spese sostenute negli anni 2025 e 2026 e al 30 per cento delle spese sostenute nell'anno 2027))
+1-bis.
 
-, fino a un ammontare complessivo delle stesse non superiore a 96.000 euro per unita' immobiliare. Fermo restando il predetto limite, la detrazione di cui al primo periodo spettante per gli anni 2025, 2026 e 2027 e' elevata
+Per le spese sostenute dal 1º gennaio 2017 al 31 dicembre 2024 per gli interventi di cui all'articolo 16-bis, comma 1, lettera i), del testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), le cui procedure autorizzatorie sono iniziate dopo la data di entrata in vigore della presente disposizione ovvero per i quali sia stato rilasciato il titolo edilizio, su edifici ubicati nelle zone sismiche ad alta pericolosita' (zone 1 e 2) di cui all'ordinanza del [Presidente del Consiglio dei ministri n. 3274 del 20 marzo 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio::2003-03-20;3274), pubblicata nel supplemento ordinario n. 72 alla Gazzetta Ufficiale n. 105 dell'8 maggio 2003, riferite a costruzioni adibite ad abitazione e ad attivita' produttive, spetta una detrazione dall'imposta lorda nella misura del 50 per cento, fino ad un ammontare complessivo delle stesse spese non superiore a 96.000 euro per unita' immobiliare per ciascun anno. La detrazione e' ripartita in cinque quote annuali di pari importo nell'anno di sostenimento delle spese e in quelli successivi. Nel caso in cui gli interventi di cui al presente comma realizzati in ciascun anno consistano nella mera prosecuzione di interventi iniziati in anni precedenti, ai fini del computo del limite massimo delle spese ammesse a fruire della detrazione si tiene conto anche delle spese sostenute negli stessi anni per le quali si e' gia' fruito della detrazione.(7) (14) (16)
 
-((al 50 per cento delle spese sostenute negli anni 2025 e 2026 e al 36 per cento delle spese sostenute nell'anno 2027))
+1-ter.
 
-nel caso in cui le medesime spese siano sostenute dai titolari del diritto di proprieta' o di un diritto reale di godimento per interventi sull'unita' immobiliare adibita ad abitazione principale.
+A decorrere dal 1º gennaio 2017 e fino al 31 dicembre 2024, le disposizioni del comma 1-bis si applicano anche agli edifici ubicati nella zona sismica 3 di cui all'ordinanza del [Presidente del Consiglio dei ministri n. 3274 del 20 marzo 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio::2003-03-20;3274), pubblicata nel supplemento ordinario n. 72 alla Gazzetta Ufficiale n. 105 dell'8 maggio 2003. (7) (14) (16)
 
-1-bis. Per le spese sostenute dal 1º gennaio 2017 al 31 dicembre 2024 per gli interventi di cui all'articolo 16-bis, comma 1, lettera i), del testo unico di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-12-22;917), le cui procedure autorizzatorie sono iniziate dopo la data di entrata in vigore della presente disposizione ovvero per i quali sia stato rilasciato il titolo edilizio, su edifici ubicati nelle zone sismiche ad alta pericolosita' (zone 1 e 2) di cui all'ordinanza del [Presidente del Consiglio dei ministri n. 3274 del 20 marzo 2003](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio::2003-03-20;3274), pubblicata nel supplemento ordinario n. 72 alla [Gazzetta Ufficiale n. 105 dell'8 maggio 2003](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2003-05-08&numeroGazzetta=105), riferite a costruzioni adibite ad abitazione e ad attivita' produttive, spetta una detrazione dall'imposta lorda nella misura del 50 per cento, fino ad un ammontare complessivo delle stesse spese non superiore a 96.000 euro per unita' immobiliare per ciascun anno. La detrazione e' ripartita in cinque quote annuali di pari importo nell'anno di sostenimento delle spese e in quelli successivi. Nel caso in cui gli interventi di cui al presente comma realizzati in ciascun anno consistano nella mera prosecuzione di interventi iniziati in anni precedenti, ai fini del computo del limite massimo delle spese ammesse a fruire della detrazione si tiene conto anche delle spese sostenute negli stessi anni per le quali si e' gia' fruito della detrazione.(7) (14) (16)
+1-quater.
 
-1-ter. A decorrere dal 1º gennaio 2017 e fino al 31 dicembre 2024, le disposizioni del comma 1-bis si applicano anche agli edifici ubicati nella zona sismica 3 di cui all'ordinanza del [Presidente del Consiglio dei ministri n. 3274 del 20 marzo 2003](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio::2003-03-20;3274), pubblicata nel supplemento ordinario n. 72 alla [Gazzetta Ufficiale n. 105 dell'8 maggio 2003](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2003-05-08&numeroGazzetta=105). (7) (14) (16)
+Qualora dalla realizzazione degli interventi di cui ai commi 1-bis e 1-ter derivi una riduzione del rischio sismico che determini il passaggio ad una classe di rischio inferiore, la detrazione dall'imposta spetta nella misura del 70 per cento della spesa sostenuta. Ove dall'intervento derivi il passaggio a due classi di rischio inferiori, la detrazione spetta nella misura dell'80 per cento. Con decreto del Ministro delle infrastrutture e dei trasporti, da adottare entro il 28 febbraio 2017, sentito il Consiglio superiore dei lavori pubblici, sono stabilite le linee guida per la classificazione di rischio sismico delle costruzioni nonche' le modalita' per l'attestazione, da parte di professionisti abilitati, dell'efficacia degli interventi effettuati.(7) (14) (16)
 
-1-quater. Qualora dalla realizzazione degli interventi di cui ai commi 1-bis e 1-ter derivi una riduzione del rischio sismico che determini il passaggio ad una classe di rischio inferiore, la detrazione dall'imposta spetta nella misura del 70 per cento della spesa sostenuta. Ove dall'intervento derivi il passaggio a due classi di rischio inferiori, la detrazione spetta nella misura dell'80 per cento. Con decreto del Ministro delle infrastrutture e dei trasporti, da adottare entro il 28 febbraio 2017, sentito il Consiglio superiore dei lavori pubblici, sono stabilite le linee guida per la classificazione di rischio sismico delle costruzioni nonche' le modalita' per l'attestazione, da parte di professionisti abilitati, dell'efficacia degli interventi effettuati.(7) (14) (16)
+1-quinquies.
 
-1-quinquies. Qualora gli interventi di cui al comma 1-quater siano realizzati sulle parti comuni di edifici condominiali, le detrazioni dall'imposta di cui al primo e al secondo periodo del medesimo comma 1-quater spettano, rispettivamente, nella misura del 75 per cento e dell'85 per cento. Le predette detrazioni si applicano su un ammontare delle spese non superiore a euro 96.000 moltiplicato per il numero delle unita' immobiliari di ciascun edificio. PERIODO ABROGATO DAL [D.L. 16 FEBBRAIO 2023, N. 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-02-16;11). PERIODO ABROGATO DAL [D.L. 16 FEBBRAIO 2023, N. 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-02-16;11). PERIODO ABROGATO DAL [D.L. 16 FEBBRAIO 2023, N.  
-11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-02-16;11). (7) (14) (16)
+Qualora gli interventi di cui al comma 1-quater siano realizzati sulle parti comuni di edifici condominiali, le detrazioni dall'imposta di cui al primo e al secondo periodo del medesimo comma 1-quater spettano, rispettivamente, nella misura del 75 per cento e dell'85 per cento. Le predette detrazioni si applicano su un ammontare delle spese non superiore a euro 96.000 moltiplicato per il numero delle unita' immobiliari di ciascun edificio. PERIODO ABROGATO DAL [D.L. 16 FEBBRAIO 2023, N. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-02-16;11). PERIODO ABROGATO DAL [D.L. 16 FEBBRAIO 2023, N. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-02-16;11). PERIODO ABROGATO DAL [D.L. 16 FEBBRAIO 2023, N.
+11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-02-16;11). (7) (14) (16)
 
-1-sexies. A decorrere dal 1º gennaio 2017, tra le spese detraibili per la realizzazione degli interventi di cui ai commi 1-ter, 1-quater e 1-quinquies rientrano anche le spese effettuate per la classificazione e verifica sismica degli immobili. (7) (14) (16)   
-1-sexies.1. Le detrazioni di cui ai commi da 1-bis a1-sexies sono usufruibili anche dagli Istituti autonomi per le case popolari, comunque denominati, nonche' dagli enti aventi le stesse finalita' sociali dei predetti istituti, istituiti nella forma di societa' che rispondono ai requisiti della legislazione europea in materia di in house providing e che siano costituiti e operanti alla data del 31 dicembre 2013, per interventi realizzati su immobili, di loro proprieta' ovvero gestiti per conto dei comuni, adibiti ad edilizia residenziale pubblica, nonche' dalle cooperative di abitazione a proprieta' indivisa per interventi realizzati su immobili dalle stesse posseduti e assegnati in godimento ai propri soci.(14) (16)
+1-sexies.
 
-1-septies. Qualora gli interventi di cui al comma 1-quater siano realizzati nei comuni ricadenti nelle zone classificate a rischio sismico 1, 2 e 3 ai sensi dell'ordinanza del [Presidente del Consiglio dei ministri n. 3519 del 28 aprile 2006, pubblicata nella Gazzetta Ufficiale n. 108 dell'11 maggio 2006](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2006-05-11&numeroGazzetta=108), mediante demolizione e ricostruzione di interi edifici, allo scopo di ridurne il rischio sismico, anche con variazione volumetrica rispetto all'edificio preesistente, ove le norme urbanistiche vigenti consentano tale aumento, eseguiti da imprese di costruzione o ristrutturazione immobiliare, che provvedano, entro trenta mesi dalla data di conclusione dei lavori, alla successiva alienazione dell'immobile, le detrazioni dall'imposta di cui al primo e al secondo periodo del medesimo comma 1-quater spettano all'acquirente delle unita' immobiliari, rispettivamente nella misura del 75 per cento e dell'85 per cento del prezzo della singola unita' immobiliare, risultante nell'atto pubblico di compravendita e, comunque, entro un ammontare massimo di spesa pari a 96.000 euro per ciascuna unita' immobiliare.  
-PERIODO ABROGATO DAL [D.L. 16 FEBBRAIO 2023, N. 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-02-16;11). PERIODO ABROGATO DAL [D.L. 16 FEBBRAIO 2023, N. 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-02-16;11).(14) (16)   
-1-septies.1. Le detrazioni di cui ai commi da 1-bis a 1-septies spettano anche per le spese, documentate sostenute negli anni 2025, 2026 e 2027, nella misura fissa, per tutte le tipologie di interventi agevolati, pari
+A decorrere dal 1º gennaio 2017, tra le spese detraibili per la realizzazione degli interventi di cui ai commi 1-ter, 1-quater e 1-quinquies rientrano anche le spese effettuate per la classificazione e verifica sismica degli immobili. (7) (14) (16) 
+ 1-sexies.1. Le detrazioni di cui ai commi da 1-bis a1-sexies sono usufruibili anche dagli Istituti autonomi per le case popolari, comunque denominati, nonche' dagli enti aventi le stesse finalita' sociali dei predetti istituti, istituiti nella forma di societa' che rispondono ai requisiti della legislazione europea in materia di in house providing e che siano costituiti e operanti alla data del 31 dicembre 2013, per interventi realizzati su immobili, di loro proprieta' ovvero gestiti per conto dei comuni, adibiti ad edilizia residenziale pubblica, nonche' dalle cooperative di abitazione a proprieta' indivisa per interventi realizzati su immobili dalle stesse posseduti e assegnati in godimento ai propri soci.(14) (16)
 
-((al 36 per cento delle spese sostenute negli anni 2025 e 2026 e al 30 per cento delle spese sostenute nell'anno 2027))
+1-septies.
 
-.  
-La detrazione di cui al primo periodo spettante per gli anni 2025, 2026 e 2027 e' elevata
+Qualora gli interventi di cui al comma 1-quater siano realizzati nei comuni ricadenti nelle zone classificate a rischio sismico 1, 2 e 3 ai sensi dell'ordinanza del Presidente del Consiglio dei ministri n. 3519 del 28 aprile 2006, pubblicata nella Gazzetta Ufficiale n. 108 dell'11 maggio 2006, mediante demolizione e ricostruzione di interi edifici, allo scopo di ridurne il rischio sismico, anche con variazione volumetrica rispetto all'edificio preesistente, ove le norme urbanistiche vigenti consentano tale aumento, eseguiti da imprese di costruzione o ristrutturazione immobiliare, che provvedano, entro trenta mesi dalla data di conclusione dei lavori, alla successiva alienazione dell'immobile, le detrazioni dall'imposta di cui al primo e al secondo periodo del medesimo comma 1-quater spettano all'acquirente delle unita' immobiliari, rispettivamente nella misura del 75 per cento e dell'85 per cento del prezzo della singola unita' immobiliare, risultante nell'atto pubblico di compravendita e, comunque, entro un ammontare massimo di spesa pari a 96.000 euro per ciascuna unita' immobiliare.
+PERIODO ABROGATO DAL [D.L. 16 FEBBRAIO 2023, N. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-02-16;11). PERIODO ABROGATO DAL [D.L. 16 FEBBRAIO 2023, N. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-02-16;11).(14) (16) 
+ 1-septies.1. Le detrazioni di cui ai commi da 1-bis a 1-septies spettano anche per le spese, documentate sostenute negli anni 2025, 2026 e 2027, nella misura fissa, per tutte le tipologie di interventi agevolati, pari ((al 36 per cento delle spese sostenute negli anni 2025 e 2026 e al 30 per cento delle spese sostenute nell'anno 2027)).
+La detrazione di cui al primo periodo spettante per gli anni 2025, 2026 e 2027 e' elevata ((al 50 per cento delle spese sostenute per gli anni 2025 e 2026 e al 36 per cento delle spese sostenute per l'anno 2027)) nel caso in cui le medesime spese siano sostenute dai titolari del diritto di proprieta' o di un diritto reale di godimento per interventi sull'unita' immobiliare adibita ad abitazione principale.
 
-((al 50 per cento delle spese sostenute per gli anni 2025 e 2026 e al 36 per cento delle spese sostenute per l'anno 2027))
+1-octies.
 
-nel caso in cui le medesime spese siano sostenute dai titolari del diritto di proprieta' o di un diritto reale di godimento per interventi sull'unita' immobiliare adibita ad abitazione principale.
+Per gli interventi di adozione di misure antisismiche di cui al presente articolo, il soggetto avente diritto alle detrazioni puo' optare, in luogo dell'utilizzo diretto delle stesse, per un contributo di pari ammontare, sotto forma di sconto sul corrispettivo dovuto, anticipato dal fornitore che ha effettuato gli interventi e a quest'ultimo rimborsato sotto forma di credito d'imposta da utilizzare esclusivamente in compensazione, in cinque quote annuali di pari importo, ai sensi dell'[articolo 17 del decreto legislativo 9 luglio 1997, n. 241](../Decreti%20Legislativi/Norme%20di%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20sede%20di%20dichiarazione%20dei%20redditi%20e%20dellimposta%20sul%20valore%20aggiunto%20nonche%20di%20modernizzazione%20del%20sistema%20di%20gestione%20delle%20dichiarazioni.md), senza l'applicazione dei limiti di cui all'[articolo 34 della legge 23 dicembre 2000, n. 388](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), e all'[articolo 1, comma 53, della legge 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md). Il fornitore che ha effettuato gli interventi ha a sua volta facolta' di cedere il credito d'imposta ai propri fornitori di beni e servizi, con esclusione della possibilita' di ulteriori cessioni da parte di questi ultimi. Rimane in ogni caso esclusa la cessione ad istituti di credito e ad intermediari finanziari.
 
-1-octies. Per gli interventi di adozione di misure antisismiche di cui al presente articolo, il soggetto avente diritto alle detrazioni puo' optare, in luogo dell'utilizzo diretto delle stesse, per un contributo di pari ammontare, sotto forma di sconto sul corrispettivo dovuto, anticipato dal fornitore che ha effettuato gli interventi e a quest'ultimo rimborsato sotto forma di credito d'imposta da utilizzare esclusivamente in compensazione, in cinque quote annuali di pari importo, ai sensi dell'[articolo 17 del decreto legislativo 9 luglio 1997, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;241~art17), senza l'applicazione dei limiti di cui all'[articolo 34 della legge 23 dicembre 2000, n. 388](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388~art34), e all'[articolo 1, comma 53, della legge 24 dicembre 2007, n. 244](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244~art1-com53). Il fornitore che ha effettuato gli interventi ha a sua volta facolta' di cedere il credito d'imposta ai propri fornitori di beni e servizi, con esclusione della possibilita' di ulteriori cessioni da parte di questi ultimi. Rimane in ogni caso esclusa la cessione ad istituti di credito e ad intermediari finanziari.
+2.
 
-2. Ai contribuenti che fruiscono della detrazione di cui al comma 1 e' altresi' riconosciuta una detrazione dall'imposta lorda, fino a concorrenza del suo ammontare, per le ulteriori spese documentate sostenute negli anni 2022, 2023,
-
-((2024, 2025 e 2026))
-
-per l'acquisto di mobili e di grandi elettrodomestici di classe non inferiore alla classe A per i forni, alla classe E per le lavatrici, le lavasciugatrici e le lavastoviglie, alla classe F per i frigoriferi e i congelatori, per le apparecchiature per le quali sia prevista l'etichetta energetica, finalizzati all'arredo dell'immobile oggetto di ristrutturazione. La detrazione di cui al presente comma, da ripartire tra gli aventi diritto in dieci quote annuali di pari importo, spetta nella misura del 50 per cento delle spese sostenute ed e' calcolata su un ammontare complessivo non superiore a 10.000 euro per l'anno 2022, a 8.000 euro per l'anno 2023 e a 5.000 euro per gli anni
-
-((2024, 2025 e 2026))
-
-. La detrazione spetta a condizione che gli interventi di recupero del patrimonio edilizio siano iniziati a partire dal 1° gennaio dell'anno precedente a quello dell'acquisto.  
+Ai contribuenti che fruiscono della detrazione di cui al comma 1 e' altresi' riconosciuta una detrazione dall'imposta lorda, fino a concorrenza del suo ammontare, per le ulteriori spese documentate sostenute negli anni 2022, 2023, ((2024, 2025 e 2026)) per l'acquisto di mobili e di grandi elettrodomestici di classe non inferiore alla classe A per i forni, alla classe E per le lavatrici, le lavasciugatrici e le lavastoviglie, alla classe F per i frigoriferi e i congelatori, per le apparecchiature per le quali sia prevista l'etichetta energetica, finalizzati all'arredo dell'immobile oggetto di ristrutturazione. La detrazione di cui al presente comma, da ripartire tra gli aventi diritto in dieci quote annuali di pari importo, spetta nella misura del 50 per cento delle spese sostenute ed e' calcolata su un ammontare complessivo non superiore a 10.000 euro per l'anno 2022, a 8.000 euro per l'anno 2023 e a 5.000 euro per gli anni ((2024, 2025 e 2026)). La detrazione spetta a condizione che gli interventi di recupero del patrimonio edilizio siano iniziati a partire dal 1° gennaio dell'anno precedente a quello dell'acquisto.
 Qualora gli interventi di recupero del patrimonio edilizio siano effettuati nell'anno precedente a quello dell'acquisto, ovvero siano iniziati nell'anno precedente a quello dell'acquisto e proseguiti in detto anno, il limite di spesa di cui al secondo periodo e' considerato al netto delle spese sostenute nell'anno precedente per le quali si e' fruito della detrazione. Ai fini dell'utilizzo della detrazione dall'imposta, le spese di cui al presente comma sono computate indipendentemente dall'importo delle spese sostenute per i lavori di ristrutturazione che fruiscono delle detrazioni di cui al comma 1.
 
-2-bis. Al fine di garantire la corretta attuazione del Piano nazionale di ripresa e resilienza, nell'ambito della Missione 2, Componente 3, Investimento 2.1 «Ecobonus e Sismabonus fino al 110 per cento per l'efficienza energetica e la sicurezza degli edifici», nonche' al fine di effettuare il monitoraggio degli interventi di cui al presente articolo, compresa la valutazione del risparmio energetico da essi conseguito, in analogia a quanto gia' previsto in materia di detrazioni fiscali per la riqualificazione energetica degli edifici, sono trasmesse per via telematica all'ENEA le informazioni sugli interventi effettuati alla conclusione degli stessi. L'ENEA elabora le informazioni pervenute e trasmette una relazione sui risultati degli interventi al Ministero della transizione ecologica, al Ministero dell'economia e delle finanze, alle Regioni e alle Province autonome di Trento e di Bolzano, nell'ambito delle rispettive competenze territoriali.
+2-bis.
+
+Al fine di garantire la corretta attuazione del Piano nazionale di ripresa e resilienza, nell'ambito della Missione 2, Componente 3, Investimento 2.1 «Ecobonus e Sismabonus fino al 110 per cento per l'efficienza energetica e la sicurezza degli edifici», nonche' al fine di effettuare il monitoraggio degli interventi di cui al presente articolo, compresa la valutazione del risparmio energetico da essi conseguito, in analogia a quanto gia' previsto in materia di detrazioni fiscali per la riqualificazione energetica degli edifici, sono trasmesse per via telematica all'ENEA le informazioni sugli interventi effettuati alla conclusione degli stessi. L'ENEA elabora le informazioni pervenute e trasmette una relazione sui risultati degli interventi al Ministero della transizione ecologica, al Ministero dell'economia e delle finanze, alle Regioni e alle Province autonome di Trento e di Bolzano, nell'ambito delle rispettive competenze territoriali.
 
 -------------
 
 AGGIORNAMENTO (3)
 
-Il [D.L. 28 marzo 2014, n. 47](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-03-28;47), convertito con modificazioni dalla [L. 23 maggio 2014, n. 80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-05-23;80), ha disposto (con l'art. 7, comma 2-ter) che "Per il periodo dal 6 giugno 2013 al 31 dicembre 2014 le spese per l'acquisto di mobili e di grandi elettrodomestici di cui all'[articolo 16, comma 2, del decreto-legge 4 giugno 2013, n. 63](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-04;63~art16-com2), convertito, con modificazioni, dalla [legge 3 agosto 2013, n. 90](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-08-03;90), sono computate, ai fini della fruizione della detrazione di imposta, indipendentemente dall'importo delle spese sostenute per i lavori di ristrutturazione che fruiscono delle detrazioni di cui all'articolo 16, comma 1, del medesimo [decreto-legge n. 63 del 2013](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013;63)".
+Il [D.L. 28 marzo 2014, n. 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-03-28;47), convertito con modificazioni dalla [L. 23 maggio 2014, n. 80](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20marzo%202014%20n.%2047%20recante%20misure%20urgenti%20per%20lemergenza%20abitativa%20per%20il%20mercato%20delle%20costruzioni%20e%20per%20Expo%202015.%2014G00092.md), ha disposto (con l'art. 7, comma 2-ter) che "Per il periodo dal 6 giugno 2013 al 31 dicembre 2014 le spese per l'acquisto di mobili e di grandi elettrodomestici di cui all'[articolo 16, comma 2, del decreto-legge 4 giugno 2013, n. 63](Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md), convertito, con modificazioni, dalla [legge 3 agosto 2013, n. 90](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20giugno%202013%20n.%2063%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consig_1da67b9383c2.md), sono computate, ai fini della fruizione della detrazione di imposta, indipendentemente dall'importo delle spese sostenute per i lavori di ristrutturazione che fruiscono delle detrazioni di cui all'articolo 16, comma 1, del medesimo [decreto-legge n. 63 del 2013](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013;63)".
 
 -------------
 
 AGGIORNAMENTO (7)
 
-La [L. 11 dicembre 2016, n. 232](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-11;232), ha disposto (con l'art. 1, comma 3) che "Le detrazioni di cui all'[articolo 16, commi 1-bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-04;63~art16-com1bis), [1-ter](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-04;63~art16-com1ter), [1-quater](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-04;63~art16-com1quater), [1-quinquies](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-04;63~art16-com1quinquies) e [1-sexies, del decreto-legge 4 giugno 2013, n. 63](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-04;63~art16-com1sexies), convertito, con modificazioni, dalla [legge 3 agosto 2013, n. 90](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-08-03;90), come modificato dal comma 2 del presente articolo, non sono cumulabili con agevolazioni gia' spettanti per le medesime finalita' sulla base di norme speciali per interventi in aree colpite da eventi sismici".
+La [L. 11 dicembre 2016, n. 232](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202017%20e%20bilancio%20pluriennale%20per%20il%20triennio%202017-2019.%2016G00242.md), ha disposto (con l'art. 1, comma 3) che "Le detrazioni di cui all'[articolo 16, commi 1-bis](Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md), [1-ter](Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md), [1-quater](Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md), [1-quinquies](Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md) e [1-sexies, del decreto-legge 4 giugno 2013, n. 63](Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md), convertito, con modificazioni, dalla [legge 3 agosto 2013, n. 90](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20giugno%202013%20n.%2063%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consig_1da67b9383c2.md), come modificato dal comma 2 del presente articolo, non sono cumulabili con agevolazioni gia' spettanti per le medesime finalita' sulla base di norme speciali per interventi in aree colpite da eventi sismici".
 
 -------------
 
 AGGIORNAMENTO (14)
 
-Il [D.L. 19 maggio 2020, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-19;34), convertito con modificazioni dalla [L. 17 luglio 2020, n. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-07-17;77), ha disposto:   
-- (con l'art. 119, comma 4) che "Per gli interventi di cui ai [commi da 1-bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-04;63~art16-com1bis) [a 1-septies dell'articolo 16 del decreto-legge 4 giugno 2013, n. 63](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-04;63~art16-com1septies), convertito, con modificazioni, dalla [legge 3 agosto 2013, n. 90](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-08-03;90), l' aliquota delle detrazioni spettanti e' elevata al 110 per cento per le spese sostenute dal 1° luglio 2020 al 31 dicembre 2021. Per gli interventi di cui al primo periodo, in caso di cessione del corrispondente credito ad un'impresa di assicurazione e di contestuale stipulazione di una polizza che copre il rischio di eventi calamitosi, la detrazione prevista nell'articolo 15, comma 1, lettera f-bis), del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-12-22;917), spetta nella misura del 90 per cento. Le disposizioni del primo e del secondo periodo non si applicano agli edifici ubicati nella zona sismica 4 di cui all'ordinanza del [Presidente del Consiglio dei ministri n. 3274 del 20 marzo 2003, pubblicata nel supplemento ordinario alla Gazzetta Ufficiale n. 105 dell'8 maggio 2003](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2003-05-08&numeroGazzetta=105)";   
-- (con l'art. 119, comma 4-bis) che "La detrazione spettante ai sensi del comma 4 del presente articolo e' riconosciuta anche per la realizzazione di sistemi di monitoraggio strutturale continuo a fini antisismici, a condizione che sia eseguita congiuntamente a uno degli interventi di cui ai [commi da 1-bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-04;63~art16-com1bis) [a 1-septies dell'articolo 16 del decreto-legge 4 giugno 2013, n. 63](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-04;63~art16-com1septies), convertito, con modificazioni, dalla [legge 3 agosto 2013, n. 90](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-08-03;90), nel rispetto dei limiti di spesa previsti dalla legislazione vigente per i medesimi interventi";   
-- (con l'art. 119, comma 9) che le presenti modifiche si applicano agli interventi previsti dal medesimo art. 119, comma 9;   
-- (con l'art. 119, comma 15-bis) che le presenti modifiche "non si applicano alle unita' immobiliari appartenenti alle categorie catastali A/1, A/8 e A/9".
+Il [D.L. 19 maggio 2020, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-19;34), convertito con modificazioni dalla [L. 17 luglio 2020, n. 77](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20maggio%202020%20n.%2034%20recante%20misure%20urgenti%20in%20materia%20di%20salute%20sostegno%20al%20lavoro%20e%20alleconomia%20nonche%20di%20politiche%20sociali%20conn_7955b884286a.md), ha disposto: 
+ - (con l'art. 119, comma 4) che "Per gli interventi di cui ai [commi da 1-bis](Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md) [a 1-septies dell'articolo 16 del decreto-legge 4 giugno 2013, n. 63](Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md), convertito, con modificazioni, dalla [legge 3 agosto 2013, n. 90](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20giugno%202013%20n.%2063%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consig_1da67b9383c2.md), l' aliquota delle detrazioni spettanti e' elevata al 110 per cento per le spese sostenute dal 1° luglio 2020 al 31 dicembre 2021. Per gli interventi di cui al primo periodo, in caso di cessione del corrispondente credito ad un'impresa di assicurazione e di contestuale stipulazione di una polizza che copre il rischio di eventi calamitosi, la detrazione prevista nell'articolo 15, comma 1, lettera f-bis), del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), spetta nella misura del 90 per cento. Le disposizioni del primo e del secondo periodo non si applicano agli edifici ubicati nella zona sismica 4 di cui all'ordinanza del Presidente del Consiglio dei ministri n. 3274 del 20 marzo 2003, pubblicata nel supplemento ordinario alla Gazzetta Ufficiale n. 105 dell'8 maggio 2003"; 
+ - (con l'art. 119, comma 4-bis) che "La detrazione spettante ai sensi del comma 4 del presente articolo e' riconosciuta anche per la realizzazione di sistemi di monitoraggio strutturale continuo a fini antisismici, a condizione che sia eseguita congiuntamente a uno degli interventi di cui ai [commi da 1-bis](Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md) [a 1-septies dell'articolo 16 del decreto-legge 4 giugno 2013, n. 63](Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md), convertito, con modificazioni, dalla [legge 3 agosto 2013, n. 90](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20giugno%202013%20n.%2063%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consig_1da67b9383c2.md), nel rispetto dei limiti di spesa previsti dalla legislazione vigente per i medesimi interventi"; 
+ - (con l'art. 119, comma 9) che le presenti modifiche si applicano agli interventi previsti dal medesimo art. 119, comma 9; 
+ - (con l'art. 119, comma 15-bis) che le presenti modifiche "non si applicano alle unita' immobiliari appartenenti alle categorie catastali A/1, A/8 e A/9".
 
 --------------
 
 AGGIORNAMENTO (16)
 
-La [L. 30 dicembre 2020, n. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-12-30;178) ha disposto (con l'art. 1, comma 74) che "L'efficacia delle proroghe di cui ai commi da 66 a 72 resta subordinata alla definitiva approvazione da parte del Consiglio dell'Unione europea".   
-Il [D.L. 19 maggio 2020, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-19;34), convertito con modificazioni dalla [L. 17 luglio 2020, n. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-07-17;77), come modificato dalla [L. 30 dicembre 2020, n. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-12-30;178), ha disposto (con l'art. 119, comma 4) che "Per gli interventi di cui ai [commi da 1-bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-04;63~art16-com1bis) [a 1-septies dell'articolo 16 del decreto-legge 4 giugno 2013, n. 63](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-04;63~art16-com1septies), convertito, con modificazioni, dalla [legge 3 agosto 2013, n. 90](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-08-03;90), l'aliquota delle detrazioni spettanti e' elevata al 110 per cento per le spese sostenute dal 1° luglio 2020 al 30 giugno 2022. Per la parte di spesa sostenuta nell'anno 2022, la detrazione e' ripartita in quattro quote annuali di pari importo. Per gli interventi di cui al primo periodo, in caso di cessione del corrispondente credito ad un'impresa di assicurazione e di contestuale stipulazione di una polizza che copre il rischio di eventi calamitosi, la detrazione prevista nell'articolo 15, comma 1, lettera f-bis), del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-12-22;917), spetta nella misura del 90 per cento. Le disposizioni del primo e del secondo periodo non si applicano agli edifici ubicati nella zona sismica 4 di cui all'ordinanza del [Presidente del Consiglio dei ministri n. 3274 del 20 marzo 2003, pubblicata nel supplemento ordinario alla Gazzetta Ufficiale n. 105 dell'8 maggio 2003](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2003-05-08&numeroGazzetta=105)".
+La [L. 30 dicembre 2020, n. 178](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202021%20e%20bilancio%20pluriennale%20per%20il%20triennio%202021-2023.%2020G00202.md) ha disposto (con l'art. 1, comma 74) che "L'efficacia delle proroghe di cui ai commi da 66 a 72 resta subordinata alla definitiva approvazione da parte del Consiglio dell'Unione europea". 
+ Il [D.L. 19 maggio 2020, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-19;34), convertito con modificazioni dalla [L. 17 luglio 2020, n. 77](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20maggio%202020%20n.%2034%20recante%20misure%20urgenti%20in%20materia%20di%20salute%20sostegno%20al%20lavoro%20e%20alleconomia%20nonche%20di%20politiche%20sociali%20conn_7955b884286a.md), come modificato dalla [L. 30 dicembre 2020, n. 178](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202021%20e%20bilancio%20pluriennale%20per%20il%20triennio%202021-2023.%2020G00202.md), ha disposto (con l'art. 119, comma 4) che "Per gli interventi di cui ai [commi da 1-bis](Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md) [a 1-septies dell'articolo 16 del decreto-legge 4 giugno 2013, n. 63](Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md), convertito, con modificazioni, dalla [legge 3 agosto 2013, n. 90](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20giugno%202013%20n.%2063%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consig_1da67b9383c2.md), l'aliquota delle detrazioni spettanti e' elevata al 110 per cento per le spese sostenute dal 1° luglio 2020 al 30 giugno 2022. Per la parte di spesa sostenuta nell'anno 2022, la detrazione e' ripartita in quattro quote annuali di pari importo. Per gli interventi di cui al primo periodo, in caso di cessione del corrispondente credito ad un'impresa di assicurazione e di contestuale stipulazione di una polizza che copre il rischio di eventi calamitosi, la detrazione prevista nell'articolo 15, comma 1, lettera f-bis), del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), spetta nella misura del 90 per cento. Le disposizioni del primo e del secondo periodo non si applicano agli edifici ubicati nella zona sismica 4 di cui all'ordinanza del Presidente del Consiglio dei ministri n. 3274 del 20 marzo 2003, pubblicata nel supplemento ordinario alla Gazzetta Ufficiale n. 105 dell'8 maggio 2003".
 
-Art. 16-bis
------------
-
-(( (Interventi per favorire l'accesso al credito). ))
+## Art. 16-bis. — (( (Interventi per favorire l'accesso al credito). ))
 
 ((1. Il Ministero dell'economia e delle finanze, entro tre mesi dalla data di entrata in vigore della legge di conversione del presente decreto, promuove con l'Associazione bancaria italiana una verifica sulle condizioni per offrire credito agevolato ai soggetti che intendono avvalersi delle detrazioni previste, ai sensi del presente decreto, per gli interventi di efficienza energetica e di ristrutturazione edilizia))
 
-Art. 16-ter
------------
+## Art. 16-ter. — (Detrazioni fiscali per l'acquisto e la posa in opera di infrastrutture di ricarica dei veicoli alimentati ad energia elettrica)
 
-(Detrazioni fiscali per l'acquisto e la posa in opera di infrastrutture di ricarica dei veicoli alimentati ad energia elettrica)
+1.
 
-1. Ai contribuenti e' riconosciuta una detrazione dall'imposta lorda, fino a concorrenza del suo ammontare, per le spese documentate sostenute dal 1° marzo 2019 al 31 dicembre 2021 relative all'acquisto e alla posa in opera di infrastrutture di ricarica dei veicoli alimentati ad energia elettrica, ivi inclusi i costi iniziali per la richiesta di potenza addizionale fino ad un massimo di 7 kW. La detrazione di cui al presente comma, da ripartire tra gli aventi diritto in dieci quote annuali di pari importo, spetta nella misura del 50 per cento delle spese sostenute ed e' calcolata su un ammontare complessivo non superiore a 3.000 euro.
+Ai contribuenti e' riconosciuta una detrazione dall'imposta lorda, fino a concorrenza del suo ammontare, per le spese documentate sostenute dal 1° marzo 2019 al 31 dicembre 2021 relative all'acquisto e alla posa in opera di infrastrutture di ricarica dei veicoli alimentati ad energia elettrica, ivi inclusi i costi iniziali per la richiesta di potenza addizionale fino ad un massimo di 7 kW. La detrazione di cui al presente comma, da ripartire tra gli aventi diritto in dieci quote annuali di pari importo, spetta nella misura del 50 per cento delle spese sostenute ed e' calcolata su un ammontare complessivo non superiore a 3.000 euro.
 
-2. Le infrastrutture di ricarica di cui al comma 1 devono essere dotate di uno o piu' punti di ricarica di potenza standard non accessibili al pubblico ai sensi dell'[articolo 2, comma 1, lettere d)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-12-16;257~art2-com1-letd) e [h), del decreto legislativo 16 dicembre 2016, n. 257](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-12-16;257~art2-com1-leth).
+2.
 
-3. La detrazione si applica anche alle spese documentate rimaste a carico del contribuente, per l'acquisto e la posa in opera di infrastrutture di ricarica di cui al comma 1 sulle parti comuni degli edifici condominiali di cui agli [articoli 1117](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1117) e [1117-bis del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1117bis).   
+Le infrastrutture di ricarica di cui al comma 1 devono essere dotate di uno o piu' punti di ricarica di potenza standard non accessibili al pubblico ai sensi dell'[articolo 2, comma 1, lettere d)](Disciplina%20di%20attuazione%20della%20direttiva%202014-94-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2022%20ottobre%202014%20sulla%20realizzazione%20di%20una%20infrastruttura%20per%20i%20combustibili%20alternativi.%2017G00005.md) e [h), del decreto legislativo 16 dicembre 2016, n. 257](Disciplina%20di%20attuazione%20della%20direttiva%202014-94-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2022%20ottobre%202014%20sulla%20realizzazione%20di%20una%20infrastruttura%20per%20i%20combustibili%20alternativi.%2017G00005.md).
 
-((14))
+3.
+
+La detrazione si applica anche alle spese documentate rimaste a carico del contribuente, per l'acquisto e la posa in opera di infrastrutture di ricarica di cui al comma 1 sulle parti comuni degli edifici condominiali di cui agli [articoli 1117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1117) e [1117-bis del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1117bis). 
+ ((14))
 
 --------------
 
 AGGIORNAMENTO (14)
 
-Il [D.L. 19 maggio 2020, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-19;34), convertito con modificazioni dalla [L. 17 luglio 2020, n. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-07-17;77), ha disposto:   
-- (con l'art. 119, comma 8) che "Per l'installazione di infrastrutture per la ricarica di veicoli elettrici negli edifici, la detrazione di cui all'[articolo 16-ter del decreto-legge 4 giugno 2013, n. 63](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-04;63~art16ter), convertito, con modificazioni, dalla [legge 3 agosto 2013, n. 90](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-08-03;90), e' riconosciuta nella misura del 110 per cento, da ripartire tra gli aventi diritto in cinque quote annuali di pari importo, sempreche' l'installazione sia eseguita congiuntamente ad uno degli interventi di cui al comma 1 del presente articolo";   
-- (con l'art. 119, comma 9) che la presente modifica si applica agli interventi previsti dal comma 9 dell'art. 119 del medesimo [D.L. 19 maggio 2020, n. 34;   
-- (con l'art. 119, comma 15-bis)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-19;34~art119-com15bis) che la presente modifica non si applica alle unita' immobiliari appartenenti alle categorie catastali A/1, A/8 e A/9.
+Il [D.L. 19 maggio 2020, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-19;34), convertito con modificazioni dalla [L. 17 luglio 2020, n. 77](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20maggio%202020%20n.%2034%20recante%20misure%20urgenti%20in%20materia%20di%20salute%20sostegno%20al%20lavoro%20e%20alleconomia%20nonche%20di%20politiche%20sociali%20conn_7955b884286a.md), ha disposto: 
+ - (con l'art. 119, comma 8) che "Per l'installazione di infrastrutture per la ricarica di veicoli elettrici negli edifici, la detrazione di cui all'[articolo 16-ter del decreto-legge 4 giugno 2013, n. 63](Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md), convertito, con modificazioni, dalla [legge 3 agosto 2013, n. 90](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20giugno%202013%20n.%2063%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consig_1da67b9383c2.md), e' riconosciuta nella misura del 110 per cento, da ripartire tra gli aventi diritto in cinque quote annuali di pari importo, sempreche' l'installazione sia eseguita congiuntamente ad uno degli interventi di cui al comma 1 del presente articolo"; 
+ - (con l'art. 119, comma 9) che la presente modifica si applica agli interventi previsti dal comma 9 dell'art. 119 del medesimo [D.L. 19 maggio 2020, n. 34; 
+ - (con l'art. 119, comma 15-bis)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-19;34#art_119-com15bis) che la presente modifica non si applica alle unita' immobiliari appartenenti alle categorie catastali A/1, A/8 e A/9.
 
-Art. 17
--------
+## Art. 17. — Qualificazione degli installatori degli impianti a fonti rinnovabili
 
-Qualificazione degli installatori degli impianti a fonti rinnovabili
+1.
 
-1. I [commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-03-03;28~art15-com1) e [2 dell'articolo 15 del decreto legislativo 3 marzo 2011, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-03-03;28~art15-com2), sono sostituiti dai seguenti:   
-«1. La qualifica professionale per l'attivita' di installazione e di manutenzione straordinaria di caldaie, caminetti e stufe a biomassa, di sistemi solari fotovoltaici e termici sugli edifici, di sistemi geotermici a bassa entalpia e di pompe di calore, e' conseguita con il possesso dei requisiti tecnico professionali di cui, alternativamente, alle lettere a), b), c) o d) dell'[articolo 4, comma 1, del decreto del Ministro dello sviluppo economico 22 gennaio 2008, n. 37](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sviluppo.economico:decreto:2008-01-22;37~art4-com1).   
+I [commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-03-03;28#art_15-com1) e [2 dell'articolo 15 del decreto legislativo 3 marzo 2011, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-03-03;28#art_15-com2), sono sostituiti dai seguenti: 
+ «1. La qualifica professionale per l'attivita' di installazione e di manutenzione straordinaria di caldaie, caminetti e stufe a biomassa, di sistemi solari fotovoltaici e termici sugli edifici, di sistemi geotermici a bassa entalpia e di pompe di calore, e' conseguita con il possesso dei requisiti tecnico professionali di cui, alternativamente, alle lettere a), b), c) o d) dell'[articolo 4, comma 1, del decreto del Ministro dello sviluppo economico 22 gennaio 2008, n. 37](../Regolamenti%20ministeriali/Regolamento%20concernente%20lattuazione%20dellarticolo%2011-quaterdecies%20comma%2013%20lettera%20a%20del%20decreto-legge%2030%20settembre%202005%20n.%20203%20convertito%20con%20modificazioni%20dalla%20legge%202%20dicembre%202005%20n.%20_459f35941e72.md). 
+ 2. ((Entro il 31 dicembre 2013)), le regioni e le province autonome, nel rispetto dell'allegato 4, attivano un programma di formazione per gli installatori di impianti a fonti rinnovabili o procedono al riconoscimento di fornitori di formazione, dandone comunicazione al Ministero dello sviluppo economico e al Ministero dell'ambiente e della tutela del territorio e del mare. Le regioni e province autonome possono riconoscere ai soggetti partecipanti ai corsi di formazione crediti formativi per i periodi di prestazione lavorativa e di collaborazione tecnica continuativa svolti presso imprese del settore.».
+
+## Art. 17-bis. — (( (Requisiti degli impianti termici). ))
+
+((1. Con decorrenza 31 agosto 2013, il comma 9 dell'articolo 5 del regolamento di cui al decreto del Presidente della Repubblica 26 agosto 1993, n. 412, e successive modificazioni, e' sostituito dai seguenti: 
+ "9. Gli impianti termici installati successivamente al 31 agosto 2013 devono essere collegati ad appositi camini, canne fumarie o sistemi di evacuazione dei prodotti della combustione, con sbocco sopra il tetto dell'edificio alla quota prescritta dalla regolamentazione tecnica vigente. 
+ 9-bis. E' possibile derogare a quanto stabilito dal comma 9 nei casi in cui: 
+ a) si procede, anche nell'ambito di una riqualificazione energetica dell'impianto termico, alla sostituzione di generatori di calore individuali che risultano installati in data antecedente a quella di cui al comma 9, con scarico a parete o in canna collettiva ramificata; 
+ b) l'adempimento dell'obbligo di cui al comma 9 risulta incompatibile con norme di tutela degli edifici oggetto dell'intervento, adottate a livello nazionale, regionale o comunale; 
+ c) il progettista attesta e assevera l'impossibilita' tecnica a realizzare lo sbocco sopra il colmo del tetto. 
+ 9-ter. Nei casi di cui al comma 9-bis e' obbligatorio installare generatori di calore a gas che, per valori di prestazione energetica e di emissioni, appartengono alle classi 4 e 5 previste dalle norme UNI EN 297, UNI EN 483 e UNI EN 15502, e posizionare i terminali di tiraggio in conformita' alla vigente norma tecnica UNI 7129, e successive integrazioni. 
+ 9-quater. I comuni adeguano i propri regolamenti alle disposizioni di cui ai commi 9, 9-bis e 9-ter"))
+
+## Art. 18. — Abrogazioni e disposizioni finali
+
+1.
+
+Dalla data di entrata in vigore del presente decreto, ((sono abrogati gli articoli 2, comma 1, lettere d), e) ed f), 5 e 12, i punti 2, 11, 12, 18, 22 e 56 dell'Allegato A)), gli Allegati B ed I del [decreto legislativo 19 agosto 2005, n. 192, nonche' il comma 3 dell'articolo 15](Attuazione%20della%20direttiva%20UE%202018-844%20che%20modifica%20la%20direttiva%202010-31-UE%20sulla%20prestazione%20energetica%20nelledilizia%20e%20la%20direttiva%202012-27-UE%20sullefficienza%20energetica%20della%20direttiva%202_f90d70b9701a.md) e il punto 4 dell'allegato 4 del [decreto legislativo 3 marzo 2011, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-03-03;28).
+
 2.
 
-((Entro il 31 dicembre 2013))
+Alla data di entrata in vigore dei decreti di cui all'[articolo 4, comma 1, del decreto legislativo 19 agosto 2005, n. 192](Attuazione%20della%20direttiva%20UE%202018-844%20che%20modifica%20la%20direttiva%202010-31-UE%20sulla%20prestazione%20energetica%20nelledilizia%20e%20la%20direttiva%202012-27-UE%20sullefficienza%20energetica%20della%20direttiva%202_f90d70b9701a.md), come modificato dal presente decreto, sono abrogati i commi 1 e 2 dell'articolo 3 del decreto legislativo stesso.
 
-, le regioni e le province autonome, nel rispetto dell'allegato 4, attivano un programma di formazione per gli installatori di impianti a fonti rinnovabili o procedono al riconoscimento di fornitori di formazione, dandone comunicazione al Ministero dello sviluppo economico e al Ministero dell'ambiente e della tutela del territorio e del mare. Le regioni e province autonome possono riconoscere ai soggetti partecipanti ai corsi di formazione crediti formativi per i periodi di prestazione lavorativa e di collaborazione tecnica continuativa svolti presso imprese del settore.».
+((2-bis. Al punto 4 dell'Allegato A del [decreto legislativo 19 agosto 2005, n. 192](Attuazione%20della%20direttiva%20UE%202018-844%20che%20modifica%20la%20direttiva%202010-31-UE%20sulla%20prestazione%20energetica%20nelledilizia%20e%20la%20direttiva%202012-27-UE%20sullefficienza%20energetica%20della%20direttiva%202_f90d70b9701a.md), le parole: "soggetti di cui all'art. 4, comma 1, lettera c)" sono sostituite dalle seguenti: "soggetti di cui all'articolo 4, comma 1-bis"))
 
-Art. 17-bis
------------
+3.
 
-(( (Requisiti degli impianti termici). ))
-
-((1. Con decorrenza 31 agosto 2013, il comma 9 dell'articolo 5 del regolamento di cui al [decreto del Presidente della Repubblica 26 agosto 1993, n. 412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1993-08-26;412), e successive modificazioni, e' sostituito dai seguenti:   
-"9. Gli impianti termici installati successivamente al 31 agosto 2013 devono essere collegati ad appositi camini, canne fumarie o sistemi di evacuazione dei prodotti della combustione, con sbocco sopra il tetto dell'edificio alla quota prescritta dalla regolamentazione tecnica vigente.   
-9-bis. E' possibile derogare a quanto stabilito dal comma 9 nei casi in cui:   
-a) si procede, anche nell'ambito di una riqualificazione energetica dell'impianto termico, alla sostituzione di generatori di calore individuali che risultano installati in data antecedente a quella di cui al comma 9, con scarico a parete o in canna collettiva ramificata;   
-b) l'adempimento dell'obbligo di cui al comma 9 risulta incompatibile con norme di tutela degli edifici oggetto dell'intervento, adottate a livello nazionale, regionale o comunale;   
-c) il progettista attesta e assevera l'impossibilita' tecnica a realizzare lo sbocco sopra il colmo del tetto.   
-9-ter. Nei casi di cui al comma 9-bis e' obbligatorio installare generatori di calore a gas che, per valori di prestazione energetica e di emissioni, appartengono alle classi 4 e 5 previste dalle norme UNI EN 297, UNI EN 483 e UNI EN 15502, e posizionare i terminali di tiraggio in conformita' alla vigente norma tecnica UNI 7129, e successive integrazioni.   
-9-quater. I comuni adeguano i propri regolamenti alle disposizioni di cui ai commi 9, 9-bis e 9-ter"))
-
-Art. 18
--------
-
-Abrogazioni e disposizioni finali
-
-1. Dalla data di entrata in vigore del presente decreto,
-
-((sono abrogati gli articoli 2, comma 1, lettere d), e) ed f), 5 e 12, i punti 2, 11, 12, 18, 22 e 56 dell'Allegato A))
-
-, gli Allegati B ed I del [decreto legislativo 19 agosto 2005, n. 192, nonche' il comma 3 dell'articolo 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;192~art15-com3) e il punto 4 dell'allegato 4 del [decreto legislativo 3 marzo 2011, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-03-03;28).
-
-2. Alla data di entrata in vigore dei decreti di cui all'[articolo 4, comma 1, del decreto legislativo 19 agosto 2005, n. 192](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;192~art4-com1), come modificato dal presente decreto, sono abrogati i commi 1 e 2 dell'articolo 3 del decreto legislativo stesso.
-
-((2-bis. Al punto 4 dell'Allegato A del [decreto legislativo 19 agosto 2005, n. 192](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;192), le parole: "soggetti di cui all'art. 4, comma 1, lettera c)" sono sostituite dalle seguenti: "soggetti di cui all'articolo 4, comma 1-bis"))
-
-3. Nel [decreto legislativo 19 agosto 2005, n. 192](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;192), ovunque ricorrano le parole: «attestato di certificazione energetica» sono sostituite dalle seguenti: «attestato di prestazione energetica».
+Nel [decreto legislativo 19 agosto 2005, n. 192](Attuazione%20della%20direttiva%20UE%202018-844%20che%20modifica%20la%20direttiva%202010-31-UE%20sulla%20prestazione%20energetica%20nelledilizia%20e%20la%20direttiva%202012-27-UE%20sullefficienza%20energetica%20della%20direttiva%202_f90d70b9701a.md), ovunque ricorrano le parole: «attestato di certificazione energetica» sono sostituite dalle seguenti: «attestato di prestazione energetica».
 
 ((3-bis. I decreti di cui all'articolo 4, comma 1, lettera a), capoverso "1", all'articolo 6, comma 1, capoverso "Art. 6", comma 12, e all'articolo 7, comma 1, capoverso "1", terzo periodo, sono emanati entro centottanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto))
 
-Art. 19
--------
+## Art. 19. — Modifiche alla disciplina IVA delle cessioni di prodotti editoriali
 
-Modifiche alla disciplina IVA delle cessioni di prodotti editoriali
+1.
 
-1. Alla [lettera c) dell'articolo 74, primo comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-10-26;633~art74-com1-letc), sono apportate le seguenti modificazioni:   
+Alla [lettera c) dell'articolo 74, primo comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), sono apportate le seguenti modificazioni: 
+ ((a) al secondo periodo, le parole: "a supporti integrativi o ad altri beni" sono sostituite dalle seguenti: "a beni diversi dai supporti integrativi")); 
+ ((a-bis) il quarto e il quinto periodo sono sostituiti dai seguenti: "Per supporti integrativi si intendono i nastri, i dischi, le videocassette e gli altri supporti sonori, videomagnetici o digitali ceduti, anche gratuitamente, in unica confezione, unitamente ai libri per le scuole di ogni ordine e grado e per le universita', ivi inclusi i dizionari, e ai libri fruibili dai disabili visivi, a condizione che i beni unitamente ceduti abbiano prezzo indistinto e che, per il loro contenuto, non siano commercializzabili separatamente. Qualora non ricorrano tali condizioni, ai beni ceduti congiuntamente si applica il sesto periodo.")) 
+ b) al sesto periodo le parole "se il costo del bene ceduto, anche gratuitamente, congiuntamente alla pubblicazione e' superiore al dieci per cento del prezzo dell'intera confezione" sono sostituite dalle seguenti "in ogni caso"; 
+ c) l'ottavo periodo e' abrogato.
 
-((a) al secondo periodo, le parole: "a supporti integrativi o ad altri beni" sono sostituite dalle seguenti: "a beni diversi dai supporti integrativi"))
+2.
 
-;   
+Le disposizioni di cui al comma 1 si applicano ai prodotti editoriali consegnati o spediti a partire dal 1° gennaio 2014.
 
-((a-bis) il quarto e il quinto periodo sono sostituiti dai seguenti: "Per supporti integrativi si intendono i nastri, i dischi, le videocassette e gli altri supporti sonori, videomagnetici o digitali ceduti, anche gratuitamente, in unica confezione, unitamente ai libri per le scuole di ogni ordine e grado e per le universita', ivi inclusi i dizionari, e ai libri fruibili dai disabili visivi, a condizione che i beni unitamente ceduti abbiano prezzo indistinto e che, per il loro contenuto, non siano commercializzabili separatamente. Qualora non ricorrano tali condizioni, ai beni ceduti congiuntamente si applica il sesto periodo."))
+## Art. 20. — Modifiche alla disciplina IVA sulle somministrazioni di alimenti e bevande
 
-  
-b) al sesto periodo le parole "se il costo del bene ceduto, anche gratuitamente, congiuntamente alla pubblicazione e' superiore al dieci per cento del prezzo dell'intera confezione" sono sostituite dalle seguenti "in ogni caso";   
-c) l'ottavo periodo e' abrogato.
+1.
 
-2. Le disposizioni di cui al comma 1 si applicano ai prodotti editoriali consegnati o spediti a partire dal 1° gennaio 2014.
+Alla tabella A, parte II, allegata al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), il [n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;38)), e' abrogato.
 
-Art. 20
--------
+2.
 
-Modifiche alla disciplina IVA sulle somministrazioni di alimenti e bevande
-
-1. Alla tabella A, parte II, allegata al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-10-26;633), il [n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-10-26;38)), e' abrogato.
-
-2. Alla tabella A, parte III, allegata al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-10-26;633), al [numero 121](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-10-26;121)), le parole: "somministrazioni di alimenti e bevande; prestazioni" sono sostituite dalle seguenti: "somministrazioni di alimenti e bevande, effettuate anche mediante distributori automatici; prestazioni".
+Alla tabella A, parte III, allegata al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), al [numero 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;121)), le parole: "somministrazioni di alimenti e bevande; prestazioni" sono sostituite dalle seguenti: "somministrazioni di alimenti e bevande, effettuate anche mediante distributori automatici; prestazioni".
 
 ((3. Le disposizioni di cui al presente articolo si applicano alle operazioni effettuate a partire dal 1º gennaio 2014. A decorrere dal 1º gennaio 2014, i prezzi delle operazioni effettuate in attuazione dei contratti di somministrazione di cui al comma 2, stipulati entro la data di entrata in vigore della legge di conversione del presente decreto, possono essere rideterminati in aumento al solo fine di adeguarli all'incremento dell'aliquota dell'imposta sul valore aggiunto, come risultante dalle diposizioni di cui ai commi 1 e 2))
 
-Art. 21
--------
+## Art. 21. — Disposizioni finanziarie
 
-Disposizioni finanziarie
+1.
 
-1. L'autorizzazione di spesa di cui all'[articolo 1, comma 7, del decreto-legge 20 maggio 1993, n. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-20;148~art1-com7), convertito, con modificazioni, dalla [legge 19 luglio 1993, n. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-19;236), confluita nel Fondo sociale per l'occupazione e la formazione, di cui all'[articolo 18, comma 1, lettera a), del decreto-legge 29 novembre 2008, n. 185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-11-29;185~art18-com1-leta), convertito, con modificazioni, dalla [legge 28 gennaio 2009, n. 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-01-28;2), e' incrementata di 47,8 milioni di euro per l'anno 2013 e di 121,5 milioni di euro per l'anno 2014, per essere destinata al rifinanziamento degli ammortizzatori sociali in deroga di cui all'[articolo 2, commi 64](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-06-28;92~art2-com64), [65](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-06-28;92~art2-com65) e [66, della legge 28 giugno 2012, n. 92](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-06-28;92~art2-com66).
+L'autorizzazione di spesa di cui all'[articolo 1, comma 7, del decreto-legge 20 maggio 1993, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-20;148#art_1-com7), convertito, con modificazioni, dalla [legge 19 luglio 1993, n. 236](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20maggio%201993%20n.%20148%20recante%20interventi%20urgenti%20a%20sostegno%20delloccupazione.md), confluita nel Fondo sociale per l'occupazione e la formazione, di cui all'[articolo 18, comma 1, lettera a), del decreto-legge 29 novembre 2008, n. 185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-11-29;185#art_18-com1-leta), convertito, con modificazioni, dalla [legge 28 gennaio 2009, n. 2](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20novembre%202008%20n.%20185%20recante%20misure%20urgenti%20per%20il%20sostegno%20a%20famiglie%20lavoro%20occupazione%20e%20impresa%20e%20per%20ridisegnare%20in%20funzio_d34e2e16908a.md), e' incrementata di 47,8 milioni di euro per l'anno 2013 e di 121,5 milioni di euro per l'anno 2014, per essere destinata al rifinanziamento degli ammortizzatori sociali in deroga di cui all'[articolo 2, commi 64](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-06-28;92#art_2-com64), [65](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-06-28;92#art_2-com65) e [66, della legge 28 giugno 2012, n. 92](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-06-28;92#art_2-com66).
 
-2. L'autorizzazione di spesa di cui all'[articolo 5 della legge 6 febbraio 2009, n. 7](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-06;7~art5) e' incrementata di 413,1 milioni di euro per l'anno 2024.
+2.
 
-3. Agli oneri derivanti dagli articoli 14 e 16 e dai commi da 1 e 2 del presente articolo, pari a 47,8 milioni di euro per l'anno 2013, a 274 milioni di euro per l'anno 2014, a 379,7 milioni di euro per l'anno 2015, a 265,1 milioni di euro per l'anno 2016, a 262,2 milioni di euro per ciascuno degli anni dal 2017 al 2023 e a 413,1 milioni di euro per l'anno 2024, si provvede:
+L'autorizzazione di spesa di cui all'[articolo 5 della legge 6 febbraio 2009, n. 7](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20del%20Trattato%20di%20amicizia%20partenariato%20e%20cooperazione%20tra%20la%20Repubblica%20italiana%20e%20la%20Grande%20Giamahiria%20araba%20libica%20popolare%20socialista%20fatto%20a%20Bengasi%20il%2030%20agosto%202008.md) e' incrementata di 413,1 milioni di euro per l'anno 2024.
 
-((4))
+3.
 
-a) quanto a 47,8 milioni di euro per l'anno 2013, a 194 milioni di euro per ciascuno degli anni dal 2014 al 2023 e a 379 milioni di euro per l'anno 2024, mediante corrispondente utilizzo delle maggiori entrate e delle minori spese derivanti dalle misure previste dagli articoli 14,16, 19 e 20;
+Agli oneri derivanti dagli articoli 14 e 16 e dai commi da 1 e 2 del presente articolo, pari a 47,8 milioni di euro per l'anno 2013, a 274 milioni di euro per l'anno 2014, a 379,7 milioni di euro per l'anno 2015, a 265,1 milioni di euro per l'anno 2016, a 262,2 milioni di euro per ciascuno degli anni dal 2017 al 2023 e a 413,1 milioni di euro per l'anno 2024, si provvede: ((4))
+                        a)
+                            quanto a 47,8 milioni di euro per l'anno 2013, a 194 milioni di euro per ciascuno degli anni dal 2014 al 2023 e a 379 milioni di euro per l'anno 2024, mediante corrispondente utilizzo delle maggiori entrate e delle minori spese derivanti dalle misure previste dagli articoli 14,16, 19 e 20; ((4))
+                        b)
+                            quanto a 44,8 milioni di euro per l'anno 2014, a 54,7 milioni di euro per l'anno 2015 e a 34,7 milioni di euro per l'anno 2016 e a 31,8 milioni di euro per ciascuno degli anni dal 2017 al 2023, mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'[articolo 5 della legge 6 febbraio 2009, n. 7](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20del%20Trattato%20di%20amicizia%20partenariato%20e%20cooperazione%20tra%20la%20Repubblica%20italiana%20e%20la%20Grande%20Giamahiria%20araba%20libica%20popolare%20socialista%20fatto%20a%20Bengasi%20il%2030%20agosto%202008.md);
+                        c)
+                            quanto a 0,2 milioni di euro per l'anno 2014, a 20 milioni di euro per l'anno 2015 e a 1,4 milioni di euro per ciascuno degli anni dal 2016 al 2024, mediante corrispondente riduzione della dotazione del fondo di cui all'[articolo 2 comma 616 della legge 24 dicembre 2007 n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md), relativo allo stato di previsione del Ministero dello sviluppo economico;
+                        d)
+                            quanto a 20 milioni di euro per l'anno 2014 e a 35 milioni di euro per l'anno 2015, mediante corrispondente riduzione dall'autorizzazione di spesa di cui all'[articolo 47, secondo comma, della legge 20 maggio 1985, n. 222](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-05-20;222#art_47-com2), relativamente alla quota dell'otto per mille dell'imposta sul reddito delle persone fisiche (IRPEF) destinata allo Stato;
+                        e)
+                            quanto a 41 milioni di euro per l'anno 2015, mediante corrispondente riduzione della proiezione, per il medesimo anno, dello stanziamento del fondo speciale di conto capitale iscritto, ai fini del bilancio triennale 2013-2015, nell'ambito del programma «Fondi di riserva e speciali » della missione «Fondi da ripartire» dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2013, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero dell'ambiente e della tutela del territorio e del mare;
+                        e-bis)
+                            quanto a 15 milioni di euro per l'anno 2014, a 35 milioni di euro per ciascuno degli anni dal 2015 al 2023 e a 32,7 milioni di euro per l'anno 2024, mediante corrispondente riduzione della dotazione del Fondo di cui all'[articolo 1, comma 515, della legge 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md).
 
-((4))
+4.
 
-b) quanto a 44,8 milioni di euro per l'anno 2014, a 54,7 milioni di euro per l'anno 2015 e a 34,7 milioni di euro per l'anno 2016 e a 31,8 milioni di euro per ciascuno degli anni dal 2017 al 2023, mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'[articolo 5 della legge 6 febbraio 2009, n. 7](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-06;7~art5);
-
-c) quanto a 0,2 milioni di euro per l'anno 2014, a 20 milioni di euro per l'anno 2015 e a 1,4 milioni di euro per ciascuno degli anni dal 2016 al 2024, mediante corrispondente riduzione della dotazione del fondo di cui all'[articolo 2 comma 616 della legge 24 dicembre 2007 n. 244](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244~art2-com616), relativo allo stato di previsione del Ministero dello sviluppo economico;
-
-d) quanto a 20 milioni di euro per l'anno 2014 e a 35 milioni di euro per l'anno 2015, mediante corrispondente riduzione dall'autorizzazione di spesa di cui all'[articolo 47, secondo comma, della legge 20 maggio 1985, n. 222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-05-20;222~art47-com2), relativamente alla quota dell'otto per mille dell'imposta sul reddito delle persone fisiche (IRPEF) destinata allo Stato;
-
-e) quanto a 41 milioni di euro per l'anno 2015, mediante corrispondente riduzione della proiezione, per il medesimo anno, dello stanziamento del fondo speciale di conto capitale iscritto, ai fini del bilancio triennale 2013-2015, nell'ambito del programma «Fondi di riserva e speciali » della missione «Fondi da ripartire» dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2013, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero dell'ambiente e della tutela del territorio e del mare;
-
-e-bis) quanto a 15 milioni di euro per l'anno 2014, a 35 milioni di euro per ciascuno degli anni dal 2015 al 2023 e a 32,7 milioni di euro per l'anno 2024, mediante corrispondente riduzione della dotazione del Fondo di cui all'[articolo 1, comma 515, della legge 24 dicembre 2012, n. 228](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228~art1-com515).
-
-4. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare con propri decreti le occorrenti variazioni di bilancio.
+Il Ministro dell'economia e delle finanze e' autorizzato ad apportare con propri decreti le occorrenti variazioni di bilancio.
 
 ---------------
 
 AGGIORNAMENTO (4)
 
-La Corte Costituzionale, con sentenza 9 - 16 luglio 2014, n. 207 (in G.U. 1a s.s. 23/07/2014, n. 31) ha dichiarato "l'illegittimita' costituzionale dell'art. 21, comma 3, alinea e [lettera a), del decreto-legge 4 giugno 2013, n. 63](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-04;63~leta) (Disposizioni urgenti per il recepimento della [Direttiva 2010/31/UE del Parlamento europeo e del Consiglio del 19 maggio 2010](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32010L0031), sulla prestazione energetica nell'edilizia per la definizione delle procedure d'infrazione avviate dalla Commissione europea, nonche' altre disposizioni in materia di coesione sociale), convertito, con modificazioni, dall'[art. 1, comma 1, della legge 3 agosto 2013, n. 90](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-08-03;90~art1-com1), nella parte in cui ricomprende nell'aumento di gettito derivante dalle misure previste dagli [artt. 14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013;63~art14) e [16 del d.l. n. 63 del 2013](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013;63~art16) anche i tributi riscossi nella Regione siciliana."
+La Corte Costituzionale, con sentenza 9 - 16 luglio 2014, n. 207 (in G.U. 1a s.s. 23/07/2014, n. 31) ha dichiarato "l'illegittimita' costituzionale dell'art. 21, comma 3, alinea e [lettera a), del decreto-legge 4 giugno 2013, n. 63](Disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20maggio%202010%20sulla%20prestazione%20energetica%20nelledilizia%20per%20la%20definizione%20d_1591a2cff53b.md) (Disposizioni urgenti per il recepimento della [Direttiva 2010/31/UE del Parlamento europeo e del Consiglio del 19 maggio 2010](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2010;31), sulla prestazione energetica nell'edilizia per la definizione delle procedure d'infrazione avviate dalla Commissione europea, nonche' altre disposizioni in materia di coesione sociale), convertito, con modificazioni, dall'[art. 1, comma 1, della legge 3 agosto 2013, n. 90](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20giugno%202013%20n.%2063%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20Direttiva%202010-31-UE%20del%20Parlamento%20europeo%20e%20del%20Consig_1da67b9383c2.md), nella parte in cui ricomprende nell'aumento di gettito derivante dalle misure previste dagli [artt. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013;63#art_14) e [16 del d.l. n. 63 del 2013](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013;63#art_16) anche i tributi riscossi nella Regione siciliana."
 
-Art. 22
--------
+## Art. 22. — Entrata in vigore
 
-Entrata in vigore
+1.
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica
-----------------------------------------------------------------------------------------------------------------------------------
 
-### italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 4 giugno 2013 NAPOLITANO
-
-Letta, Presidente del Consiglio dei Ministri
-
-Moavero Milanesi, Ministro per gli affari europei
-
-Zanonato, Ministro dello sviluppo economico
-
-Lupi, Ministro delle infrastrutture e dei trasporti
-
-D'Alia, Ministro per la pubblica amministrazione e la semplificazione
-
-Delrio, Ministro per gli affari regionali e le autonomie
-
-Bonino, Ministro degli affari esteri
-
-Saccomanni, Ministro dell'economia e delle finanze
-
-Cancellieri, Ministro della giustizia
-
-Orlando, Ministro dell'ambiente e della tutela del territorio e del mare
-
-Visto, il Guardasigilli: Cancellieri
+Dato a Roma, addi' 4 giugno 2013 NAPOLITANO Letta, Presidente del Consiglio dei Ministri Moavero Milanesi, Ministro per gli affari europei Zanonato, Ministro dello sviluppo economico Lupi, Ministro delle infrastrutture e dei trasporti D'Alia, Ministro per la pubblica amministrazione e la semplificazione Delrio, Ministro per gli affari regionali e le autonomie Bonino, Ministro degli affari esteri Saccomanni, Ministro dell'economia e delle finanze Cancellieri, Ministro della giustizia Orlando, Ministro dell'ambiente e della tutela del territorio e del mare Visto, il Guardasigilli: Cancellieri

@@ -1,1677 +1,1666 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1973 n. 43
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 43
+data: 1973-01-23
+titolo: "Approvazione del testo unico delle disposizioni legislative in materia doganale."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1973-01-23;43
+codice_redazionale: 073U0043
+vigente: true
+---
 
+## DISPOSIZIONI GENERALI  Capo I DETERMINAZIONE DEL TERRITORIO DOGANALE
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1973 n. 43
-=============================================================
+TITOLO I
 
-Approvazione del testo unico delle disposizioni legislative in materia doganale.
---------------------------------------------------------------------------------
+### Art. 1.
 
-CAPO I TITOLO I DISPOSIZIONI GENERALI Capo I DETERMINAZIONE DEL TERRITORIO DOGANALE
------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 2.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 2
+## ORGANIZZAZIONE DEI SERVIZI DOGANALI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+Capo II
 
-CAPO II Capo II ORGANIZZAZIONE DEI SERVIZI DOGANALI
----------------------------------------------------
+### Art. 3.
 
-### Art. 3
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 4.
 
-### Art. 4
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 5.
 
-### Art. 5
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 6.
 
-### Art. 6
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 7.
 
-### Art. 7
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 8.
 
-### Art. 8
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 9.
 
-### Art. 9
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 9-bis.
 
-### Art. 9-bis
+Art. 9 bis
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
- Art. 9 bis  
+### Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 10
+### Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 11
+### Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 12
+## PRESCRIZIONI AI FINI DELLA VIGILANZA E DEI CONTROLLI E POTERI DEGLI ORGANI DOGANALI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+Capo III
 
-CAPO III Capo III PRESCRIZIONI AI FINI DELLA VIGILANZA E DEI CONTROLLI E POTERI DEGLI ORGANI DOGANALI
------------------------------------------------------------------------------------------------------
+### Art. 13.
 
-### Art. 13
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 14.
 
-### Art. 14
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 15.
 
-### Art. 15
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 16.
 
-### Art. 16
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 17.
 
-### Art. 17
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 18.
 
-### Art. 18
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 19.
 
-### Art. 19
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 20.
 
-### Art. 20
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 20-bis.
 
-### Art. 20-bis
+Art. 20 bis
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
- Art. 20 bis  
+### Art. 21.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 21
+### Art. 22.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 22
+### Art. 23.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 23
+### Art. 24.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 24
+### Art. 25.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 25
+### Art. 26.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 26
+### Art. 27.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 27
+### Art. 28.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 28
+### Art. 29.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 29
+### Art. 30.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 30
+### Art. 31.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 31
+### Art. 32.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 32
+### Art. 33.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 33
+## RAPPORTO DOGANALE  Capo I L'OBBLIGAZIONE TRIBUTARIA DOGANALE
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+TITOLO II
 
-CAPO IV TITOLO II RAPPORTO DOGANALE Capo I L'OBBLIGAZIONE TRIBUTARIA DOGANALE
------------------------------------------------------------------------------
+### Art. 34.
 
-### Art. 34
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 35.
 
-### Art. 35
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 36.
 
-### Art. 36
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 37.
 
-### Art. 37
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 38.
 
-### Art. 38
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 39.
 
-### Art. 39
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+## LA RAPPRESENTANZA DEI PROPRIETARI DELLE MERCI  SEZIONE PRIMA: Spedizionieri doganali ed altri rappresentanti.
 
-CAPO V Capo II LA RAPPRESENTANZA DEI PROPRIETARI DELLE MERCI SEZIONE PRIMA: Spedizionieri doganali ed altri rappresentanti.
----------------------------------------------------------------------------------------------------------------------------
+Capo II
 
-### Art. 40
+### Art. 40.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 41
+### Art. 41.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 42
+### Art. 42.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 43
+### Art. 43.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 44
+### Art. 44.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 45
+### Art. 45.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 46
+### Art. 46.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-CAPO VI SEZIONE SECONDA: Procedura per la nomina degli spedizionieri doganali.
-------------------------------------------------------------------------------
+## doganali.
 
-### Art. 47
+SEZIONE SECONDA: Procedura per la nomina degli spedizionieri
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 47.
 
-### Art. 48
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 48.
 
-### Art. 49
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 49.
 
-### Art. 50
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 50.
 
-### Art. 51
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 51.
 
-### Art. 52
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 52.
 
-### Art. 53
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 53.
 
-### Art. 54
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 54.
 
-CAPO VII Capo III PROCEDURE DI ACCERTAMENTO
--------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 55
+## PROCEDURE DI ACCERTAMENTO
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+Capo III
 
-### Art. 56
+### Art. 55.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 57
+### Art. 56.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 58
+### Art. 57.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 59
+### Art. 58.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 60
+### Art. 59.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 61
+### Art. 60.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 62
+### Art. 61.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 63
+### Art. 62.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 64
+### Art. 63.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-CAPO VIII Capo IV IMPUGNAZIONE E REVISIONE DELL'ACCERTAMENTO
-------------------------------------------------------------
+### Art. 64.
 
-### Art. 65
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+## IMPUGNAZIONE E REVISIONE DELL'ACCERTAMENTO
 
-### Art. 66
+Capo IV
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 65.
 
-### Art. 67
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 66.
 
-### Art. 68
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 67.
 
-### Art. 69
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 68.
 
-### Art. 70
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 69.
 
-### Art. 71
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 70.
 
-### Art. 72
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 71.
 
-### Art. 73
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 72.
 
-### Art. 74
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 73.
 
-### Art. 75
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 74.
 
-### Art. 76
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 75.
 
-CAPO IX Capo V RISCOSSIONE
---------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 77
+### Art. 76.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 78
+## RISCOSSIONE
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+Capo V
 
-### Art. 79
+### Art. 77.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 80
+### Art. 78.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 81
+### Art. 79.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 82
+### Art. 80.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 83
+### Art. 81.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 84
+### Art. 82.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 85
+### Art. 83.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 86
+### Art. 84.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 87
+### Art. 85.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 88
+### Art. 86.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 89
+### Art. 87.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 90
+### Art. 88.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 91
+### Art. 89.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 92
+### Art. 90.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 93
+### Art. 91.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-CAPO X TITOLO III MOVIMENTO DELLE MERCI DA E PER L'ESTERO Capo I ENTRATA DELLE MERCI NEL TERRITORIO DOGANALE SEZIONE PRIMA: Disposizioni generali sugli arrivi e sulla temporanea custodia delle merci.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 92.
 
-### Art. 94
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 93.
 
-### Art. 95
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+## MOVIMENTO DELLE MERCI DA E PER L'ESTERO  Capo I ENTRATA DELLE MERCI NEL TERRITORIO DOGANALE  SEZIONE PRIMA: Disposizioni generali sugli arrivi e sulla temporanea custodia delle merci.
 
-### Art. 96
+TITOLO III
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 94.
 
-### Art. 97
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 95.
 
-### Art. 98
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 96.
 
-### Art. 99
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 97.
 
-### Art. 100
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 98.
 
-CAPO XI
--------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 101
+### Art. 99.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 102
+### Art. 100.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-CAPO XII
---------
+### Art. 101.
 
-### Art. 103
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 102.
 
-### Art. 104
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 103.
 
-### Art. 105
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 104.
 
-### Art. 106
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 105.
 
-### Art. 107
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 106.
 
-### Art. 108
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 107.
 
-### Art. 109
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 108.
 
-### Art. 110
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 109.
 
-### Art. 111
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 110.
 
-### Art. 112
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 111.
 
-CAPO XIII
----------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 113
+### Art. 112.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 114
+### Art. 113.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 115
+### Art. 114.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 116
+### Art. 115.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 117
+### Art. 116.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-CAPO XIV Capo II USCITA DELLE MERCI DAL TERRITORIO DOGANALE SEZIONE PRIMA: Uscita per via di terra e per i laghi.
------------------------------------------------------------------------------------------------------------------
+### Art. 117.
 
-### Art. 118
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+## USCITA DELLE MERCI DAL TERRITORIO DOGANALE  SEZIONE PRIMA: Uscita per via di terra e per i laghi.
 
-### Art. 119
+Capo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 118.
 
-CAPO XV
--------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 120
+### Art. 119.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 121
+### Art. 120.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 122
+### Art. 121.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 123
+### Art. 122.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-CAPO XVI
---------
+### Art. 123.
 
-### Art. 124
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 124.
 
-### Art. 125
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 125.
 
-CAPO XVII Capo III ALTRE DISPOSIZIONI CONCERNENTI L'ENTRATA E L'USCITA DELLE MERCI
-----------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 126
+## ALTRE DISPOSIZIONI CONCERNENTI L'ENTRATA E L'USCITA DELLE MERCI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+Capo III
 
-### Art. 127
+### Art. 126.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 128
+### Art. 127.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 129
+### Art. 128.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 130
+### Art. 129.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 130-bis
+### Art. 130.
 
- Art. 130 bis  
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 130-bis.
 
-### Art. 131
+Art. 130 bis
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 131.
 
-### Art. 132
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 132.
 
-CAPO XVIII TITOLO IV LE DESTINAZIONI DOGANALI Capo I IMPORTAZIONE DEFINITIVA SEZIONE PRIMA: Disposizioni generali sulla importazione definitiva.
-------------------------------------------------------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 133
+## LE DESTINAZIONI DOGANALI  Capo I IMPORTAZIONE DEFINITIVA  SEZIONE PRIMA: Disposizioni generali sulla importazione definitiva.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+TITOLO IV
 
-### Art. 134
+### Art. 133.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-CAPO XIX SEZIONE SECONDA: Rispedizione all'estero o distruzione di merci definitivamente importate.
----------------------------------------------------------------------------------------------------
+### Art. 134.
 
-### Art. 135
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+## definitivamente importate.
 
-### Art. 136
+SEZIONE SECONDA: Rispedizione all'estero o distruzione di merci
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 135.
 
-### Art. 137
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 136.
 
-### Art. 138
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 137.
 
-### Art. 139
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 138.
 
-CAPO XX SEZIONE TERZA: Rimozione dagli usi agevolati di materiali e macchinari esteri definitivamente importati.
-----------------------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 140
+### Art. 139.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-CAPO XXI Capo II SPEDIZIONE DI MERCI DA UNA DOGANA ALL'ALTRA
-------------------------------------------------------------
+## macchinari esteri definitivamente importati.
 
-### Art. 141
+SEZIONE TERZA: Rimozione dagli usi agevolati di materiali e
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 140.
 
-### Art. 142
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+## SPEDIZIONE DI MERCI DA UNA DOGANA ALL'ALTRA
 
-### Art. 143
+Capo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 141.
 
-### Art. 144
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 142.
 
-### Art. 145
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 143.
 
-CAPO XXII Capo III TRANSITO
----------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 146
+### Art. 144.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 147
+### Art. 145.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 148
+## TRANSITO
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+Capo III
 
-CAPO XXIII Capo IV DEPOSITO DOGANALE SEZIONE PRIMA: Disposizioni generali sul deposito doganale.
-------------------------------------------------------------------------------------------------
+### Art. 146.
 
-### Art. 149
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 147.
 
-### Art. 150
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 148.
 
-### Art. 151
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+## DEPOSITO DOGANALE  SEZIONE PRIMA: Disposizioni generali sul deposito doganale.
 
-### Art. 152
+Capo IV
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 149.
 
-### Art. 153
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 150.
 
-### Art. 154
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 151.
 
-### Art. 155
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 152.
 
-CAPO XXIV
----------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 156
+### Art. 153.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 157
+### Art. 154.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 158
+### Art. 155.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-CAPO XXV
---------
+### Art. 156.
 
-### Art. 159
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 157.
 
-### Art. 160
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 158.
 
-### Art. 161
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 159.
 
-### Art. 162
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 160.
 
-CAPO XXVI SEZIONE QUARTA: Istituti speciali (magazzini generali, depositi franchi e punti franchi).
----------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 163
+### Art. 161.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 164
+### Art. 162.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 165
+## franchi e punti franchi).
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+SEZIONE QUARTA: Istituti speciali (magazzini generali, depositi
 
-### Art. 166
+### Art. 163.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 167
+### Art. 164.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 168
+### Art. 165.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 169
+### Art. 166.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-CAPO XXVII
-----------
+### Art. 167.
 
-### Art. 170
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 168.
 
-CAPO XXVIII Capo V ESPORTAZIONE DEFINITIVA
-------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 171
+### Art. 169.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 172
+### Art. 170.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 173
+## ESPORTAZIONE DEFINITIVA
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+Capo V
 
-### Art. 174
+### Art. 171.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-CAPO XXIX Capo VI IMPORTAZIONE ED ESPORTAZIONE TEMPORANEA SEZIONE PRIMA: Importazione temporanea e successiva riesportazione.
------------------------------------------------------------------------------------------------------------------------------
+### Art. 172.
 
-### Art. 175
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 173.
 
-### Art. 176
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 174.
 
-### Art. 177
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+## IMPORTAZIONE ED ESPORTAZIONE TEMPORANEA  SEZIONE PRIMA: Importazione temporanea e successiva riesportazione.
 
-### Art. 178
+Capo VI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 175.
 
-### Art. 179
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 176.
 
-### Art. 180
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 177.
 
-### Art. 181
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 178.
 
-### Art. 182
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 179.
 
-### Art. 183
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 180.
 
-### Art. 184
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 181.
 
-### Art. 185
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 182.
 
-### Art. 186
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 183.
 
-### Art. 187
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 184.
 
-### Art. 188
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 185.
 
-### Art. 189
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 186.
 
-### Art. 190
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 187.
 
-### Art. 191
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 188.
 
-### Art. 192
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 189.
 
-### Art. 193
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 190.
 
-### Art. 194
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 191.
 
-### Art. 195
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 192.
 
-### Art. 196
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 193.
 
-### Art. 197
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 194.
 
-### Art. 198
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 195.
 
-CAPO XXX
---------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 199
+### Art. 196.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 200
+### Art. 197.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 201
+### Art. 198.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 202
+### Art. 199.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 203
+### Art. 200.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 203-bis
+### Art. 201.
 
- Art. 203 bis  
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 202.
 
-### Art. 204
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 203.
 
-### Art. 205
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 203-bis.
 
-### Art. 206
+Art. 203 bis
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 204.
 
-### Art. 206-bis
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
- Art. 206 bis  
+### Art. 205.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 206-ter
+### Art. 206.
 
- Art. 206 ter  
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 206-bis.
 
-### Art. 207
+Art. 206 bis
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 206-ter.
 
-### Art. 208
+Art. 206 ter
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 207.
 
-### Art. 209
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 208.
 
-### Art. 210
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 209.
 
-### Art. 211
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 210.
 
-### Art. 212
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 211.
 
-### Art. 213
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 212.
 
-CAPO XXXI
----------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 214
+### Art. 213.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 215
+### Art. 214.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 216
+### Art. 215.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 217
+### Art. 216.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 217-bis
+### Art. 217.
 
- Art. 217 bis  
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 217-bis.
 
-CAPO XXXII SEZIONE QUARTA: Altre disposizioni in materia di temporanee importazioni ed esportazioni.
-----------------------------------------------------------------------------------------------------
+Art. 217 bis
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 218
+## importazioni ed esportazioni.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+SEZIONE QUARTA: Altre disposizioni in materia di temporanee
 
-### Art. 218-bis
+### Art. 218.
 
- Art. 218 bis  
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 218-bis.
 
-### Art. 219
+Art. 218 bis
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 219.
 
-### Art. 220
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 220.
 
-### Art. 221
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 221.
 
-CAPO XXXIII Capo VII CABOTAGGIO E CIRCOLAZIONE
-----------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 222
+## CABOTAGGIO E CIRCOLAZIONE
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+Capo VII
 
-### Art. 223
+### Art. 222.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 224
+### Art. 223.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 225
+### Art. 224.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 226
+### Art. 225.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 227
+### Art. 226.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 228
+### Art. 227.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 229
+### Art. 228.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 230
+### Art. 229.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 231
+### Art. 230.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-CAPO XXXIV TITOLO V PROCEDURE E REGIMI DOGANALI PARTICOLARI Capo I PROCEDURE SEMPLIFICATE DI ACCERTAMENTO SEZIONE PRIMA: Procedura semplificata per le operazioni doganali relative a merci provenienti dall'estero.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 231.
 
-### Art. 232
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+## PROCEDURE E REGIMI DOGANALI PARTICOLARI  Capo I PROCEDURE SEMPLIFICATE DI ACCERTAMENTO  SEZIONE PRIMA: Procedura semplificata per le operazioni doganali relative a merci provenienti dall'estero.
 
-### Art. 233
+TITOLO V
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 232.
 
-### Art. 234
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 233.
 
-CAPO XXXV SEZIONE SECONDA: Procedura semplificata per le operazioni doganali relative a merci spedite all'estero.
------------------------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 235
+### Art. 234.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 236
+## relative a merci spedite all'estero.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+SEZIONE SECONDA: Procedura semplificata per le operazioni doganali
 
-### Art. 237
+### Art. 235.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-CAPO XXXVI Capo II REGIMI DOGANALI COMUNITARI SEZIONE PRIMA: Circolazione delle merci fra i Paesi membri delle Comunita' europee (Transito comunitario)
--------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 236.
 
-### Art. 238
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 237.
 
-### Art. 239
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+## REGIMI DOGANALI COMUNITARI  SEZIONE PRIMA: Circolazione delle merci fra i Paesi membri delle Comunita' europee (Transito comunitario)
 
-### Art. 240
+Capo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 238.
 
-### Art. 241
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 239.
 
-### Art. 242
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 240.
 
-### Art. 243
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 241.
 
-### Art. 244
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 242.
 
-### Art. 245
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 243.
 
-### Art. 246
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 244.
 
-### Art. 247
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 245.
 
-### Art. 248
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 246.
 
-CAPO XXXVII
------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 249
+### Art. 247.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 250
+### Art. 248.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-CAPO XXXVIII Capo III DISCIPLINA DI DETERMINATI PRODOTTI DI ORIGINE ITALIANA
-----------------------------------------------------------------------------
+### Art. 249.
 
-### Art. 251
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 250.
 
-CAPO XXXIX Capo IV PROVVISTE E DOTAZIONI DI BORDO DELLE NAVI, DEGLI AEROMOBILI, DEI TRENI INTERNAZIONALI E DEI VEICOLI STRADALI A MOTORE SEZIONE PRIMA: Provviste di bordo delle navi e degli aeromobili.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 252
+## DISCIPLINA DI DETERMINATI PRODOTTI DI ORIGINE ITALIANA
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+Capo III
 
-### Art. 253
+### Art. 251.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 254
+## PROVVISTE E DOTAZIONI DI BORDO DELLE NAVI, DEGLI AEROMOBILI, DEI TRENI INTERNAZIONALI E DEI VEICOLI STRADALI A MOTORE  SEZIONE PRIMA: Provviste di bordo delle navi e degli aeromobili.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+Capo IV
 
-### Art. 255
+### Art. 252.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 256
+### Art. 253.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 257
+### Art. 254.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 258
+### Art. 255.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 259
+### Art. 256.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 260
+### Art. 257.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 261
+### Art. 258.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 262
+### Art. 259.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 263
+### Art. 260.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 264
+### Art. 261.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-CAPO XL SEZIONE SECONDA: Provviste di bordo dei treni internazionali e dei veicoli stradali a motore.
------------------------------------------------------------------------------------------------------
+### Art. 262.
 
-### Art. 265
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 263.
 
-### Art. 266
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 264.
 
-CAPO XLI SEZIONE TERZA: Dotazione di bordo delle navi, degli aeromobili, dei treni internazionali e dei veicoli stradali a motore.
-----------------------------------------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 267
+## veicoli stradali a motore.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+SEZIONE SECONDA: Provviste di bordo dei treni internazionali e dei
 
-### Art. 268
+### Art. 265.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 269
+### Art. 266.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 270
+## treni internazionali e dei veicoli stradali a motore.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+SEZIONE TERZA: Dotazione di bordo delle navi, degli aeromobili, dei
 
-### Art. 271
+### Art. 267.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 272
+### Art. 268.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 273
+### Art. 269.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 274
+### Art. 270.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-CAPO XLII TITOLO VI TRATTAMENTO DELLE MERCI ABBANDONATE
--------------------------------------------------------
+### Art. 271.
 
-### Art. 275
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 272.
 
-### Art. 276
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 273.
 
-### Art. 277
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 274.
 
-### Art. 278
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+## TRATTAMENTO DELLE MERCI ABBANDONATE
 
-### Art. 279
+TITOLO VI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 275.
 
-### Art. 280
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 276.
 
-### Art. 281
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 277.
 
-CAPO XLIII TITOLO VII VIOLAZIONI DOGANALI Capo I CONTRABBANDO
--------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 282
+### Art. 278.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 283
+### Art. 279.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 284
+### Art. 280.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 285
+### Art. 281.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 286
+## VIOLAZIONI DOGANALI  Capo I CONTRABBANDO
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+TITOLO VII
 
-### Art. 287
+### Art. 282.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 288
+### Art. 283.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 289
+### Art. 284.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 290
+### Art. 285.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 291
+### Art. 286.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 291-bis
+### Art. 287.
 
- Art. 291 bis  
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 288.
 
-### Art. 291-ter
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
- Art. 291 ter  
+### Art. 289.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 291-quater
+### Art. 290.
 
- Art. 291 quater  
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 291.
 
-### Art. 292
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 291-bis.
 
-### Art. 293
+Art. 291 bis
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 291-ter.
 
-### Art. 294
+Art. 291 ter
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 291-quater.
 
-### Art. 295
+Art. 291 quater
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 292.
 
-### Art. 295-bis
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
- Art. 295 bis  
+### Art. 293.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 296
+### Art. 294.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 297
+### Art. 295.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 298
+### Art. 295-bis.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+Art. 295 bis
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 299
+### Art. 296.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 300
+### Art. 297.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 301
+### Art. 298.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 301-bis
+### Art. 299.
 
- Art. 301 bis  
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 300.
 
-CAPO XLIV Capo II CONTRAVVENZIONI ED ILLECITI AMMINISTRATIVI
-------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 302
+### Art. 301.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 303
+### Art. 301-bis.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+Art. 301 bis
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 304
+## CONTRAVVENZIONI ED ILLECITI AMMINISTRATIVI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+Capo II
 
-### Art. 305
+### Art. 302.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 306
+### Art. 303.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 307
+### Art. 304.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 308
+### Art. 305.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 309
+### Art. 306.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 310
+### Art. 307.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 311
+### Art. 308.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 312
+### Art. 309.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 313
+### Art. 310.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 314
+### Art. 311.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 315
+### Art. 312.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 316
+### Art. 313.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 317
+### Art. 314.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 318
+### Art. 315.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 319
+### Art. 316.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 320
+### Art. 317.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 321
+### Art. 318.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 322
+### Art. 319.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-CAPO XLV Capo III DISPOSIZIONI COMUNI AL CONTRABBANDO, ALLE CONTRAVVENZIONI, AGLI ILLECITI AMMINISTRATIVI
----------------------------------------------------------------------------------------------------------
+### Art. 320.
 
-### Art. 323
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 321.
 
-### Art. 324
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 322.
 
-### Art. 325
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+## DISPOSIZIONI COMUNI AL CONTRABBANDO, ALLE CONTRAVVENZIONI, AGLI ILLECITI AMMINISTRATIVI
 
-### Art. 326
+Capo III
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 323.
 
-### Art. 327
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 324.
 
-### Art. 328
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 325.
 
-### Art. 329
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 326.
 
-### Art. 330
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 327.
 
-### Art. 331
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 328.
 
-### Art. 332
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 329.
 
-### Art. 333
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 330.
 
-### Art. 334
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 331.
 
-### Art. 335
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 332.
 
-### Art. 336
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 333.
 
-### Art. 337
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 334.
 
-### Art. 338
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 335.
 
-### Art. 339
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 336.
 
-### Art. 340
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 337.
 
-### Art. 341
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 338.
 
-### Art. 342
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 339.
 
-CAPO XLVI TITOLO VIII DISPOSIZIONI DIVERSE E FINALI Capo I RAPPORTI CON LE AMMINISTRAZIONI, ESTERE E NAZIONALI, IN MATERIA DI CONTENZIOSO E DI ATTESTAZIONI
------------------------------------------------------------------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 343
+### Art. 340.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 344
+### Art. 341.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 345
+### Art. 342.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 346
+## DISPOSIZIONI DIVERSE E FINALI  Capo I RAPPORTI CON LE AMMINISTRAZIONI, ESTERE E NAZIONALI, IN MATERIA DI CONTENZIOSO E DI ATTESTAZIONI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+TITOLO VIII
 
-CAPO XLVII ((Capo I-bis MUTUA ASSISTENZA FRA GLI STATI MEMBRI DELLE
-COMUNITA' EUROPEE IN MATERIA DI RICUPERO DI CREDITI))
--------------------------------------------------------------------------------------------------------------------------
+### Art. 343.
 
-### Art. 346-bis
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
- Art. 346 bis  
+### Art. 344.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 346-ter
+### Art. 345.
 
- Art. 346 ter  
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 346.
 
-### Art. 346-quater
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
- Art. 346 quater  
+## MUTUA ASSISTENZA FRA GLI STATI MEMBRI  DELLE
+COMUNITA' EUROPEE  IN MATERIA DI RICUPERO DI CREDITI))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((Capo I-bis
 
-### Art. 346-quinquies
+### Art. 346-bis.
 
- Art. 346 quinquies  
+Art. 346 bis
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 346-ter.
 
-CAPO XLVIII Capo II CONFERMA, SOPPRESSIONE E MODIFICA DI NORME REGOLAMENTARI
-----------------------------------------------------------------------------
+Art. 346 ter
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 347
+### Art. 346-quater.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+Art. 346 quater
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 348
+### Art. 346-quinquies.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+Art. 346 quinquies
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-### Art. 349
+## CONFERMA, SOPPRESSIONE E MODIFICA DI NORME REGOLAMENTARI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+Capo II
 
-CAPO XLIX Capo III SCRITTURE DOGANALI E RELATIVE CONTABILITA'
--------------------------------------------------------------
+### Art. 347.
 
-### Art. 350
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 348.
 
-### Art. 351
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 349.
 
-### Art. 351-bis
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
- Art. 351 bis  
+## SCRITTURE DOGANALI E RELATIVE CONTABILITA'
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+Capo III
 
-CAPO L Capo IV DISPOSIZIONI FINALI
-----------------------------------
+### Art. 350.
 
-### Art. 352
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+### Art. 351.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
+
+### Art. 351-bis.
+
+Art. 351 bis
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
+
+## DISPOSIZIONI FINALI
+
+Capo IV
+
+### Art. 352.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))

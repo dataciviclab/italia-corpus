@@ -1,28 +1,25 @@
-DECRETO LEGISLATIVO LUOGOTENENZIALE 31 agosto 1945 n. 665
+---
+tipo: DECRETO LEGISLATIVO LUOGOTENENZIALE
+numero: 665
+data: 1945-08-31
+titolo: "Modificazioni delle indennita' da corrispondere ai componenti le Commissioni per gli esami di maturita' e di abilitazione. (045U0665)"
+urn: urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-31;665
+codice_redazionale: 045U0665
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO LUOGOTENENZIALE 31 agosto 1945 n. 665
-=========================================================
+((IL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Modificazioni delle indennita' da corrispondere ai componenti le Commissioni per gli esami di maturita' e di abilitazione. (045U0665)
--------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((IL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-((IL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+## Art. 3.
 
-Art. 2
-------
+((IL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-((IL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+## Art. 4.
 
-Art. 3
-------
-
-((IL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
-
-Art. 4
-------
-
-((IL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))

@@ -1,63 +1,13 @@
-REGIO DECRETO 25 luglio 1907 n. 645
+---
+tipo: REGIO DECRETO
+numero: 645
+data: 1907-07-25
+titolo: "Approvazione del testo unico delle leggi sulle norme per la istituzione e conversione in governative di nuove scuole medie. (007U0645)"
+urn: urn:nir:stato:regio.decreto:1907-07-25;645
+codice_redazionale: 007U0645
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 luglio 1907 n. 645
-===================================
-
-Approvazione del testo unico delle leggi sulle norme per la istituzione e conversione in governative di nuove scuole medie. (007U0645)
---------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/10/1907
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Testo unico-art. 1
-
- Testo unico-art. 1
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Testo unico-art. 2
-
- Testo unico-art. 2
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Testo unico-art. 3
-
- Testo unico-art. 3
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Testo unico-art. 4
-
- Testo unico-art. 4
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Testo unico-art. 5
-
- Testo unico-art. 5
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Testo unico-art. 6
-
- Testo unico-art. 6
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Testo unico-art. 7
-
- Testo unico-art. 7
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Testo unico-Tabella A
-
- Testo unico-Tabella A
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))

@@ -1,35 +1,29 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1998 n. 397
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 397
+data: 1998-10-20
+titolo: "Regolamento recante modificazioni al decreto del Presidente della Repubblica 18 aprile 1994, n. 302, concernente l'individuazione degli uffici di livello dirigenziale del Ministero del commercio con l'estero."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1998-10-20;397
+codice_redazionale: 098G0450
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1998 n. 397
-==============================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 175))
 
-Regolamento recante modificazioni al decreto del Presidente della Repubblica 18 aprile 1994, n. 302, concernente l'individuazione degli uffici di livello dirigenziale del Ministero del commercio con l'estero.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 4-12-1998
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 175))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;175)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 175))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;175)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 175))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;175)))
-
-Art. 4
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;175)))
-
-Art. 5
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;175)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 175))

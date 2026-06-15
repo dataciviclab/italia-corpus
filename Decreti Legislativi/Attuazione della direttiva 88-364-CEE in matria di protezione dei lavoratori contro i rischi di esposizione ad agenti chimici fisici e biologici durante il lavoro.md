@@ -1,80 +1,65 @@
-DECRETO LEGISLATIVO 25 gennaio 1992 n. 77
+---
+tipo: DECRETO LEGISLATIVO
+numero: 77
+data: 1992-01-25
+titolo: "Attuazione della direttiva 88/364/CEE in matria di protezione dei lavoratori contro i rischi di esposizione ad agenti chimici, fisici e biologici durante il lavoro."
+urn: urn:nir:stato:decreto.legislativo:1992-01-25;77
+codice_redazionale: 092G0130
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 25 gennaio 1992 n. 77
-=========================================
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2002, N. 25 ))
 
-Attuazione della direttiva 88/364/CEE in matria di protezione dei lavoratori contro i rischi di esposizione ad agenti chimici, fisici e biologici durante il lavoro.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 28-2-1992
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2002, N. 25 ))
 
-Art. 1
-------
+## Art. 3.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2002, N. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2002-02-02;25) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2002, N. 25 ))
 
-Art. 2
-------
+## Art. 4.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2002, N. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2002-02-02;25) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2002, N. 25 ))
 
-Art. 3
-------
+## Art. 5.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2002, N. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2002-02-02;25) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2002, N. 25 ))
 
-Art. 4
-------
+## Art. 6.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2002, N. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2002-02-02;25) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2002, N. 25 ))
 
-Art. 5
-------
+## Art. 7.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2002, N. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2002-02-02;25) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2002, N. 25 ))
 
-Art. 6
-------
+## Art. 8.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2002, N. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2002-02-02;25) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2002, N. 25 ))
 
-Art. 7
-------
+## Art. 9.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2002, N. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2002-02-02;25) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2002, N. 25 ))
 
-Art. 8
-------
+## Art. 10.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2002, N. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2002-02-02;25) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2002, N. 25 ))
 
-Art. 9
-------
+## Art. 11.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2002, N. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2002-02-02;25) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2002, N. 25 ))
 
-Art. 10
--------
+## Art. 12.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2002, N. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2002-02-02;25) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2002, N. 25 ))
 
-Art. 11
--------
+## Art. 13.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2002, N. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2002-02-02;25) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2002, N. 25 ))
 
-Art. 12
--------
+## Art. 14.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2002, N. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2002-02-02;25) ))
-
-Art. 13
--------
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2002, N. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2002-02-02;25) ))
-
-Art. 14
--------
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2002, N. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2002-02-02;25) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2002, N. 25 ))

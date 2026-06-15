@@ -1,30 +1,30 @@
-DECRETO 18 gennaio 2001 n. 14
-
-
-DECRETO 18 gennaio 2001 n. 14
-=============================
-
-Regolamento concernente modificazioni al decreto ministeriale 31 maggio 1999, n. 164, recante la disciplina dei centri di assistenza fiscale.
----------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO
+numero: 14
+data: 2001-01-18
+titolo: "Regolamento concernente modificazioni al decreto ministeriale 31 maggio 1999, n. 164, recante la disciplina dei centri di assistenza fiscale."
+urn: urn:nir:ministero.finanze:decreto:2001-01-18;14
+codice_redazionale: 001G0058
+vigente: true
+---
 
 IL MINISTRO DELLE FINANZE
--------------------------
 
-Visto il [decreto legislativo 9 luglio 1997, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;241), concernente norme di semplificazione degli adempimenti dei contribuenti in sede di dichiarazione dei redditi e dell'imposta sul valore aggiunto, nonche' di modernizzazione del sistema di gestione delle dichiarazioni;
+Visto il [decreto legislativo 9 luglio 1997, n. 241](../Decreti%20Legislativi/Norme%20di%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20sede%20di%20dichiarazione%20dei%20redditi%20e%20dellimposta%20sul%20valore%20aggiunto%20nonche%20di%20modernizzazione%20del%20sistema%20di%20gestione%20delle%20dichiarazioni.md), concernente norme di semplificazione degli adempimenti dei contribuenti in sede di dichiarazione dei redditi e dell'imposta sul valore aggiunto, nonche' di modernizzazione del sistema di gestione delle dichiarazioni;
 
-Visto l'[articolo 1 del decreto legislativo 28 dicembre 1998, n. 490](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-12-28;490~art1), che ha aggiunto nel citato [decreto legislativo n. 241 del 1997](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;241), il capo V, recante disposizioni in materia di assistenza fiscale;
+Visto l'[articolo 1 del decreto legislativo 28 dicembre 1998, n. 490](../Decreti%20Legislativi/Disposizioni%20integrative%20del%20decreto%20legislativo%209%20luglio%201997%20n.%20241%20concernenti%20la%20revisione%20della%20disciplina%20dei%20centri%20di%20assistenza%20fiscale.md), che ha aggiunto nel citato [decreto legislativo n. 241 del 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;241), il capo V, recante disposizioni in materia di assistenza fiscale;
 
-Visto l'articolo 35 del medesimo [decreto legislativo n. 241 del 1997](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;241), che prevede gli istituti del visto di conformita' e dell'asseverazione;
+Visto l'articolo 35 del medesimo [decreto legislativo n. 241 del 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;241), che prevede gli istituti del visto di conformita' e dell'asseverazione;
 
-Visto l'articolo 40 del medesimo [decreto legislativo n. 241 del 1997](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;241), il quale prevede che il Ministro delle finanze, con uno o piu' decreti adottati ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3), stabilisce i criteri, le condizioni e le garanzie per il rilascio ai centri di assistenza fiscale dell'autorizzazione all'esercizio dell'attivita', per la loro iscrizione in apposito albo e per il trasferimento delle quote o delle azioni, nonche' i poteri di vigilanza, anche ispettiva, dell'amministrazione finanziaria; le modalita' per l'esecuzione dei controlli e l'erogazione dei rimborsi per i contribuenti nei cui confronti e' stato rilasciato il visto di conformita', l'asseverazione e la certificazione tributaria; la prestazione di congrue garanzie per i danni ai contribuenti, in relazione al rilascio del visto di conformita', dell'asseverazione e della certificazione tributaria;
+Visto l'articolo 40 del medesimo [decreto legislativo n. 241 del 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;241), il quale prevede che il Ministro delle finanze, con uno o piu' decreti adottati ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), stabilisce i criteri, le condizioni e le garanzie per il rilascio ai centri di assistenza fiscale dell'autorizzazione all'esercizio dell'attivita', per la loro iscrizione in apposito albo e per il trasferimento delle quote o delle azioni, nonche' i poteri di vigilanza, anche ispettiva, dell'amministrazione finanziaria; le modalita' per l'esecuzione dei controlli e l'erogazione dei rimborsi per i contribuenti nei cui confronti e' stato rilasciato il visto di conformita', l'asseverazione e la certificazione tributaria; la prestazione di congrue garanzie per i danni ai contribuenti, in relazione al rilascio del visto di conformita', dell'asseverazione e della certificazione tributaria;
 
-Visto il regolamento approvato con [decreto del Ministro delle finanze 31 maggio 1999, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze:decreto:1999-05-31;164), recante norme per l'assistenza fiscale resa dai centri di assistenza fiscale per le imprese e per i dipendenti, dai sostituti d'imposta e dai professionisti;
+Visto il regolamento approvato con [decreto del Ministro delle finanze 31 maggio 1999, n. 164](Regolamento%20recante%20norme%20per%20lassistenza%20fiscale%20resa%20dai%20Centri%20di%20assistenza%20fiscale%20per%20le%20imprese%20e%20per%20i%20dipendenti%20dai%20sostituti%20dimposta%20e%20dai%20professionisti%20ai%20sensi%20dellarticolo_7b28f03b2e87.md), recante norme per l'assistenza fiscale resa dai centri di assistenza fiscale per le imprese e per i dipendenti, dai sostituti d'imposta e dai professionisti;
 
-Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3);
+Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
 Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 9 ottobre 2000;
 
-Vista la comunicazione al Presidente del Consiglio dei Ministri, a norma dell'[articolo 17, comma 3, della legge n. 400 del 1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400~art17-com3), effettuata con nota n. 3-20475/UCL del 15 dicembre 2000;
+Vista la comunicazione al Presidente del Consiglio dei Ministri, a norma dell'[articolo 17, comma 3, della legge n. 400 del 1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com3), effettuata con nota n. 3-20475/UCL del 15 dicembre 2000;
 
 Ritenuto opportuno sottrarre dall'ambito del visto di conformita' l'attestazione della congruita' dei ricavi dichiarati ovvero delle cause che giustificano l'eventuale scostamento al fine di agevolare
 
@@ -34,153 +34,16 @@ Ritenuto opportuno prevedere altresi' che l'attestazione delle
 
 predette circostanze possa essere resa in sede di asseverazione e che con la stessa possano essere attestate le cause che giustificano le eventuali incoerenze rispetto agli indici economici individuati negli studi di settore;
 
-Adotta
-------
+Adotta il seguente regolamento:
 
-il seguente regolamento:
+## Art. 1.
 
-Art. 1
-------
-
- 1. Nel [decreto del Ministro delle finanze 31 maggio 1999, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze:decreto:1999-05-31;164), sono apportate le seguenti modificazioni:  
-a) nell'articolo 2, comma 2, la disposizione di cui alla lettera c) e' soppressa;  
-b) nell'articolo 3, dopo il comma 1, e' aggiunto il seguente: 2. "Con l'asseverazione viene attestata, altresi', la congruita' dell'ammontare dei ricavi o dei compensi dichiarati a quelli determinati sulla base degli studi di settore, ove applicabili, ovvero le cause che giustificano la non congruita' dei predetti ricavi o compensi. Possono essere attestate, inoltre, le cause che giustificano un'incoerenza rispetto agli indici economici individuati dai predetti studi".  
+1. Nel [decreto del Ministro delle finanze 31 maggio 1999, n. 164](Regolamento%20recante%20norme%20per%20lassistenza%20fiscale%20resa%20dai%20Centri%20di%20assistenza%20fiscale%20per%20le%20imprese%20e%20per%20i%20dipendenti%20dai%20sostituti%20dimposta%20e%20dai%20professionisti%20ai%20sensi%20dellarticolo_7b28f03b2e87.md), sono apportate le seguenti modificazioni:
+ a) nell'articolo 2, comma 2, la disposizione di cui alla lettera c) e' soppressa;
+ b) nell'articolo 3, dopo il comma 1, e' aggiunto il seguente: 2. "Con l'asseverazione viene attestata, altresi', la congruita' dell'ammontare dei ricavi o dei compensi dichiarati a quelli determinati sulla base degli studi di settore, ove applicabili, ovvero le cause che giustificano la non congruita' dei predetti ricavi o compensi. Possono essere attestate, inoltre, le cause che giustificano un'incoerenza rispetto agli indici economici individuati dai predetti studi".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 18 gennaio 2001
+Roma, 18 gennaio 2001
 
-Il Ministro: Del Turco
-
-Visto, il Guardasigilli: Fassino Registrato alla Corte dei conti l'8 febbraio 2001
-
-Registro n. 1 Finanze, foglio n. 249 Avvertenza: Il testo delle note qui pubblicato e' stato redatto
-
-dall'amministrazione competente per materia, ai sensi
-
-dell'art. 10, commi 2 e 3, del testo unico delle
-
-disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica
-
-e sulle pubblicazioni ufficiali della Repubblica italiana,
-
-approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. Note alle premesse:
-
-- Il decreto legislativo 9 luglio 1997, n. 241 riguarda norme di semplificazione degli adempimenti dei contribuenti in sede di dichiarazione dei redditi e dell'imposta sul
-
-valore aggiunto, nonche' di modernizzazione del sistema di gestione delle dichiarazioni.
-
-- L'art. 1, del decreto legislativo 28 dicembre 1998, n. 490 ha introdotto nel decreto legislativo n. 241 del
-
-1997, il capo V recante disposizioni in materia di assistenza fiscale.
-
-- Il testo dell'art. 35, del decreto legislativo n. 241 del 1997 e' il seguente: "Art. 35 (Responsabilita' dei centri). - 1. Il responsabile dell'assistenza fiscale dei centri costituiti
-
-ai soggetti di cui all'art. 32, comma 1, lettere a), b) e
-
-c), su richiesta del contribuente: a) rilascia un visto di conformita' dei dati delle
-
-dichiarazioni predisposte dal centro, alla relativa
-
-documentazione e alle risultanze delle scritture contabili, nonche' di queste ultime alla relativa documentazione contabile; b) assevera che gli elementi contabili ed extracontabili comunicati all'amministrazione finanziaria e rilevanti ai fini dell'applicazione degli studi di settore corrispondono a quelli risultanti dalle scritture contabili e da altra documentazione idonea. 2. Il responsabile dell'assistenza fiscale dei centri
-
-costituiti dai soggetti di cui all'art. 32, comma 1,
-
-lettere d), e) e f):
-
-a) rilascia, su richiesta del contribuente, un visto di conformita' dei dati delle dichiarazioni unificate la relativa documentazione;
-
-b) rilascia, a seguito della attivita' di cui alla
-
-lettera c) del comma 3, dell'art. 34, un visto di conformita' dei dati esposti nelle dichiarazioni alla relativa documentazione.
-
-3. I soggetti indicati alle lettere a) e b), del comma
-
-3, dell'art. 3 del decreto del Presidente della Repubblica
-
-22 luglio 1998, n. 322, abilitati alla trasmissione
-
-telematica delle dichiarazioni, rilasciano, su richiesta
-
-dei contribuenti, il visto di conformita' e l'asseverazione
-
-di cui ai commi 1 e 2, lettera a), del presente articolo relativamente alle dichiarazioni da loro predisposte.". - Il testo dell'art. 40 del decreto legislativo n. 241
-
-del 1997, inserito dall'art. 1 del decreto legislativo n. 490 del 28 dicembre 1998 e' il seguente: "Art. 40 (Disposizioni di attuazione). - 1. Il Ministro
-
-delle finanze, con regolamenti adottati ai sensi dell'art.
-
-17, comma 3, della legge 23 agosto 1988, n. 400, stabilisce: a) i criteri e le condizioni per il rilascio ai centri dell'autorizzazione all'esercizio delle attivita' di
-
-cui all'art. 34, per la loro iscrizione in apposito albo e
-
-per il trasferimento delle quote o delle azioni, che deve in ogni caso essere posto in essere tra i soggetti
-
-autorizzati alla costituzione dei centri stessi, i poteri
-
-di vigilanza, anche ispettiva, dell'amministrazione finanziaria; b) le modalita' per l'esecuzione dei controlli e l'erogazione dei rimborsi per i contribuenti nei cui confronti e' stato rilasciato il visto e l'asseverazione di
-
-cui ai commi 1 e 2 dell'art. 35, ovvero e' stata effettuata
-
-la certificazione ai sensi dell'art. 36, tenendo conto, in
-
-particolare, del tipo di assistenza fiscale prestata ai predetti contribuenti anche in ordine alla tenuta delle scritture contabili; c) la prestazione di congrue garanzie per i danni ai contribuenti in relazione al rilascio del visto di
-
-conformita', dell'asseverazione e della certificazione tributaria secondo le disposizioni del presente capo commisurate anche al numero dei contribuenti assistiti; d) ulteriori disposizioni attuative di quanto previsto nel presente capo.". - Il regolamento approvato con decreto del Ministro
-
-delle finanze 31 maggio 1999, n. 164, reca norme per l'assistenza fiscale resa dai centri di assistenza fiscale
-
-per le imprese e per i dipendenti, dai sostituti d'imposta e dai professionisti.
-
-- Il testo dell'art. 17, comma 3, della legge 23 agosto
-
-1988, n. 400, e' il seguente: "3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di
-
-autorita' sottordinate al Ministro, quando la legge
-
-espressamente conferisca tale potere. Tali regolamenti, per
-
-materie di competenza di piu' Ministri, possono essere
-
-adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.". Note all'art. 1:
-
-- Il decreto del Ministro delle finanze 31 maggio 1999,
-
-n. 164, adotta il regolamento recante norme per l'assistenza fiscale resa dai centri di assistenza fiscale
-
-per le imprese e per i dipendenti, dai sostituti d'imposta e dai professionisti ai sensi dell'art. 40 del decreto
-
-legislativo 9 luglio 1997, n. 241. - Il testo dell'art. 2 del decreto ministeriale n. 164
-
-del 31 maggio 1999, come modificato dal decreto qui
-
-pubblicato, e' il seguente: "Art. 2 (Visto di conformita'). - 1. Il rilascio del
-
-visto di conformita' di cui all'art. 35, comma 2, lettera
-
-a), del decreto legislativo 9 luglio 1997, n. 241, implica il riscontro della corrispondenza dei dati esposti nella dichiarazione alle risultanze della relativa documentazione e alle disposizioni che disciplinano gli oneri deducibili e
-
-detraibili, le detrazioni e i crediti d'imposta, lo scomputo delle ritenute d'acconto. 2. Il rilascio del visto di conformita' di cui all'art.
-
-35, comma 1, lettera a), del decreto legislativo 9 luglio
-
-1997, n. 241, implica, inoltre: a) la verifica della regolare tenuta e conservazione delle scritture contabili obbligatorie ai fini delle imposte sui redditi e delle imposte sul valore aggiunto; b) la verifica della corrispondenza dei dati esposti nella dichiarazione alle risultanze delle scritture contabili e di queste ultime alla relativa documentazione; c) (Lettera soppressa).
-
-- Il testo dell'art. 3 del decreto ministeriale n. 164,
-
-del 31 maggio 1999, come modificato dal decreto qui
-
-pubblicato, e' il seguente: "Art. 3 (Asseverazione). - 1. Gli elementi contabili ed extracontabili rilevanti ai fini dell'applicazione degli
-
-studi di settore per le singole attivita' esercitate,
-
-oggetto dell'asseverazione di cui all'art. 35, comma 1,
-
-lettera b), del decreto legislativo 9 luglio 1997, n. 241, sono idividuati con decreto direttoriale del Dipartimento delle entrate di approvazione dei modelli di dichiarazione.
-
-2. Con l'asseverazione viene attestata, altresi', la congruita' dell'ammontare dei ricavi o dei compensi dichiarati a quelli determinati sulla base degli studi di
-
-settore, ove applicabili, ovvero le cause che giustificano la non congruita' dei predetti ricavi o compensi. Possono
-
-essere attestate, inoltre, le cause che giustificano un'incoerenza rispetto agli indici economici individuati dai predetti studi.".
+Il Ministro: Del Turco Visto, il Guardasigilli: Fassino Registrato alla Corte dei conti l'8 febbraio 2001 Registro n. 1 Finanze, foglio n. 249 Avvertenza: Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. Note alle premesse: - Il decreto legislativo 9 luglio 1997, n. 241 riguarda norme di semplificazione degli adempimenti dei contribuenti in sede di dichiarazione dei redditi e dell'imposta sul valore aggiunto, nonche' di modernizzazione del sistema di gestione delle dichiarazioni. - L'art. 1, del decreto legislativo 28 dicembre 1998, n. 490 ha introdotto nel decreto legislativo n. 241 del 1997, il capo V recante disposizioni in materia di assistenza fiscale. - Il testo dell'art. 35, del decreto legislativo n. 241 del 1997 e' il seguente: "Art. 35 (Responsabilita' dei centri). - 1. Il responsabile dell'assistenza fiscale dei centri costituiti ai soggetti di cui all'art. 32, comma 1, lettere a), b) e c), su richiesta del contribuente: a) rilascia un visto di conformita' dei dati delle dichiarazioni predisposte dal centro, alla relativa documentazione e alle risultanze delle scritture contabili, nonche' di queste ultime alla relativa documentazione contabile; b) assevera che gli elementi contabili ed extracontabili comunicati all'amministrazione finanziaria e rilevanti ai fini dell'applicazione degli studi di settore corrispondono a quelli risultanti dalle scritture contabili e da altra documentazione idonea. 2. Il responsabile dell'assistenza fiscale dei centri costituiti dai soggetti di cui all'art. 32, comma 1, lettere d), e) e f): a) rilascia, su richiesta del contribuente, un visto di conformita' dei dati delle dichiarazioni unificate la relativa documentazione; b) rilascia, a seguito della attivita' di cui alla lettera c) del comma 3, dell'art. 34, un visto di conformita' dei dati esposti nelle dichiarazioni alla relativa documentazione. 3. I soggetti indicati alle lettere a) e b), del comma 3, dell'art. 3 del decreto del Presidente della Repubblica 22 luglio 1998, n. 322, abilitati alla trasmissione telematica delle dichiarazioni, rilasciano, su richiesta dei contribuenti, il visto di conformita' e l'asseverazione di cui ai commi 1 e 2, lettera a), del presente articolo relativamente alle dichiarazioni da loro predisposte.". - Il testo dell'art. 40 del decreto legislativo n. 241 del 1997, inserito dall'art. 1 del decreto legislativo n. 490 del 28 dicembre 1998 e' il seguente: "Art. 40 (Disposizioni di attuazione). - 1. Il Ministro delle finanze, con regolamenti adottati ai sensi dell'art. 17, comma 3, della legge 23 agosto 1988, n. 400, stabilisce: a) i criteri e le condizioni per il rilascio ai centri dell'autorizzazione all'esercizio delle attivita' di cui all'art. 34, per la loro iscrizione in apposito albo e per il trasferimento delle quote o delle azioni, che deve in ogni caso essere posto in essere tra i soggetti autorizzati alla costituzione dei centri stessi, i poteri di vigilanza, anche ispettiva, dell'amministrazione finanziaria; b) le modalita' per l'esecuzione dei controlli e l'erogazione dei rimborsi per i contribuenti nei cui confronti e' stato rilasciato il visto e l'asseverazione di cui ai commi 1 e 2 dell'art. 35, ovvero e' stata effettuata la certificazione ai sensi dell'art. 36, tenendo conto, in particolare, del tipo di assistenza fiscale prestata ai predetti contribuenti anche in ordine alla tenuta delle scritture contabili; c) la prestazione di congrue garanzie per i danni ai contribuenti in relazione al rilascio del visto di conformita', dell'asseverazione e della certificazione tributaria secondo le disposizioni del presente capo commisurate anche al numero dei contribuenti assistiti; d) ulteriori disposizioni attuative di quanto previsto nel presente capo.". - Il regolamento approvato con decreto del Ministro delle finanze 31 maggio 1999, n. 164, reca norme per l'assistenza fiscale resa dai centri di assistenza fiscale per le imprese e per i dipendenti, dai sostituti d'imposta e dai professionisti. - Il testo dell'art. 17, comma 3, della legge 23 agosto 1988, n. 400, e' il seguente: "3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.". Note all'art. 1: - Il decreto del Ministro delle finanze 31 maggio 1999, n. 164, adotta il regolamento recante norme per l'assistenza fiscale resa dai centri di assistenza fiscale per le imprese e per i dipendenti, dai sostituti d'imposta e dai professionisti ai sensi dell'art. 40 del decreto legislativo 9 luglio 1997, n. 241. - Il testo dell'art. 2 del decreto ministeriale n. 164 del 31 maggio 1999, come modificato dal decreto qui pubblicato, e' il seguente: "Art. 2 (Visto di conformita'). - 1. Il rilascio del visto di conformita' di cui all'art. 35, comma 2, lettera a), del decreto legislativo 9 luglio 1997, n. 241, implica il riscontro della corrispondenza dei dati esposti nella dichiarazione alle risultanze della relativa documentazione e alle disposizioni che disciplinano gli oneri deducibili e detraibili, le detrazioni e i crediti d'imposta, lo scomputo delle ritenute d'acconto. 2. Il rilascio del visto di conformita' di cui all'art. 35, comma 1, lettera a), del decreto legislativo 9 luglio 1997, n. 241, implica, inoltre: a) la verifica della regolare tenuta e conservazione delle scritture contabili obbligatorie ai fini delle imposte sui redditi e delle imposte sul valore aggiunto; b) la verifica della corrispondenza dei dati esposti nella dichiarazione alle risultanze delle scritture contabili e di queste ultime alla relativa documentazione; c) (Lettera soppressa). - Il testo dell'art. 3 del decreto ministeriale n. 164, del 31 maggio 1999, come modificato dal decreto qui pubblicato, e' il seguente: "Art. 3 (Asseverazione). - 1. Gli elementi contabili ed extracontabili rilevanti ai fini dell'applicazione degli studi di settore per le singole attivita' esercitate, oggetto dell'asseverazione di cui all'art. 35, comma 1, lettera b), del decreto legislativo 9 luglio 1997, n. 241, sono idividuati con decreto direttoriale del Dipartimento delle entrate di approvazione dei modelli di dichiarazione. 2. Con l'asseverazione viene attestata, altresi', la congruita' dell'ammontare dei ricavi o dei compensi dichiarati a quelli determinati sulla base degli studi di settore, ove applicabili, ovvero le cause che giustificano la non congruita' dei predetti ricavi o compensi. Possono essere attestate, inoltre, le cause che giustificano un'incoerenza rispetto agli indici economici individuati dai predetti studi.".

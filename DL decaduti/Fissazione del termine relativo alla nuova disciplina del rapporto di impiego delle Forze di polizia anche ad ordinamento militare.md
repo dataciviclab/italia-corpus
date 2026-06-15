@@ -1,22 +1,17 @@
-DECRETO-LEGGE 31 marzo 1994 n. 224
+---
+tipo: DECRETO-LEGGE
+numero: 224
+data: 1994-03-31
+titolo: "Fissazione del termine relativo alla nuova disciplina del rapporto di impiego delle Forze di polizia anche ad ordinamento militare."
+urn: urn:nir:stato:decreto.legge:1994-03-31;224
+codice_redazionale: 094G0254
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 31 marzo 1994 n. 224
-==================================
+DECRETO DECADUTO
 
-Fissazione del termine relativo alla nuova disciplina del rapporto di impiego delle Forze di polizia anche ad ordinamento militare.
------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 2/4/1994.Decreto-Legge decaduto per mancata conversione.
-
-Art. 1
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 2
-------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

@@ -1,147 +1,153 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 maggio 1953 n. 578
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 578
+data: 1953-05-30
+titolo: "Approvazione del regolamento per l'esecuzione della legge 29 marzo 1951, n. 327, che disciplina la produzione e il commercio degli alimenti per la prima Infanzia e prodotti dietetici."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1953-05-30;578
+codice_redazionale: 053U0578
+vigente: true
+---
 
+## Disposizioni generali
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 maggio 1953 n. 578
-=============================================================
+TITOLO I
 
-Approvazione del regolamento per l'esecuzione della legge 29 marzo 1951, n. 327, che disciplina la produzione e il commercio degli alimenti per la prima Infanzia e prodotti dietetici.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-CAPO I TITOLO I Disposizioni generali
--------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
 
-### Art. 1
+### Art. 2.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 GENNAIO 1998, N 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-01-19;131)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
 
-### Art. 2
+### Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 GENNAIO 1998, N 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-01-19;131)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
 
-### Art. 3
+### Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 GENNAIO 1998, N 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-01-19;131)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
 
-### Art. 4
+### Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 GENNAIO 1998, N 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-01-19;131)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
 
-### Art. 5
+### Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 GENNAIO 1998, N 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-01-19;131)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
 
-### Art. 6
+### Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 GENNAIO 1998, N 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-01-19;131)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
 
-### Art. 7
+### Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 GENNAIO 1998, N 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-01-19;131)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
 
-### Art. 8
+### Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 GENNAIO 1998, N 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-01-19;131)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
 
-### Art. 9
+### Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 GENNAIO 1998, N 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-01-19;131)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
 
-### Art. 10
+### Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 GENNAIO 1998, N 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-01-19;131)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
 
-### Art. 11
+### Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 GENNAIO 1998, N 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-01-19;131)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
 
-### Art. 12
+### Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 GENNAIO 1998, N 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-01-19;131)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
 
-### Art. 13
+### Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 GENNAIO 1998, N 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-01-19;131)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
 
-### Art. 14
+### Art. 15.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 GENNAIO 1998, N 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-01-19;131)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
 
-### Art. 15
+## Alimenti per la prima infanzia.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 GENNAIO 1998, N 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-01-19;131)))
+TITOLO II
 
-CAPO II TITOLO II Alimenti per la prima infanzia.
--------------------------------------------------
+### Art. 16.
 
-### Art. 16
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 GENNAIO 1998, N 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-01-19;131)))
+### Art. 17.
 
-### Art. 17
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 GENNAIO 1998, N 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-01-19;131)))
+### Art. 18.
 
-### Art. 18
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 GENNAIO 1998, N 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-01-19;131)))
+### Art. 19.
 
-### Art. 19
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 GENNAIO 1998, N 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-01-19;131)))
+### Art. 20.
 
-### Art. 20
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 GENNAIO 1998, N 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-01-19;131)))
+## Prodotti dietetici.
 
-CAPO III TITOLO III Prodotti dietetici.
----------------------------------------
+TITOLO III
 
-### Art. 21
+### Art. 21.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 GENNAIO 1998, N 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-01-19;131)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
 
-### Art. 22
+### Art. 22.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 GENNAIO 1998, N 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-01-19;131)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
 
-### Art. 23
+### Art. 23.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 GENNAIO 1998, N 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-01-19;131)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
 
-### Art. 24
+### Art. 24.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 GENNAIO 1998, N 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-01-19;131)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
 
-### Art. 25
+### Art. 25.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 GENNAIO 1998, N 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-01-19;131)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
 
-CAPO IV TITOLO IV Vigilanza.
-----------------------------
+## Vigilanza.
 
-### Art. 26
+TITOLO IV
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 GENNAIO 1998, N 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-01-19;131)))
+### Art. 26.
 
-### Art. 27
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 GENNAIO 1998, N 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-01-19;131)))
+### Art. 27.
 
-### Art. 28
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 GENNAIO 1998, N 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-01-19;131)))
+### Art. 28.
 
-### Art. 29
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 GENNAIO 1998, N 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-01-19;131)))
+### Art. 29.
 
-CAPO V TITOLO V Disposizioni transitorie e finali.
---------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
 
-### Art. 30
+## Disposizioni transitorie e finali.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 GENNAIO 1998, N 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-01-19;131)))
+TITOLO V
 
-### Art. 31
+### Art. 30.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 GENNAIO 1998, N 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-01-19;131)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
+
+### Art. 31.
+
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))

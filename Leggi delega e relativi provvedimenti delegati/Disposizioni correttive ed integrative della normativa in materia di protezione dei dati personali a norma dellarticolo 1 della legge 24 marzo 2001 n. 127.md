@@ -1,119 +1,121 @@
-DECRETO LEGISLATIVO 28 dicembre 2001 n. 467
+---
+tipo: DECRETO LEGISLATIVO
+numero: 467
+data: 2001-12-28
+titolo: "Disposizioni correttive ed integrative della normativa in materia di protezione dei dati personali, a norma dell'articolo 1 della legge 24 marzo 2001, n. 127."
+urn: urn:nir:stato:decreto.legislativo:2001-12-28;467
+codice_redazionale: 02G00007
+vigente: true
+---
 
+## Modificazioni ed integrazioni alla legge n. 675/1996
 
-DECRETO LEGISLATIVO 28 dicembre 2001 n. 467
-===========================================
+Capo I
 
-Disposizioni correttive ed integrative della normativa in materia di protezione dei dati personali, a norma dell'articolo 1 della legge 24 marzo 2001, n. 127.
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del decreto: 1-2-2002
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
-CAPO I Capo I Modificazioni ed integrazioni alla legge n. 675/1996
-------------------------------------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196) ))
+### Art. 3.
 
-### Art. 2
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196) ))
+### Art. 4.
 
-### Art. 3
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196) ))
+### Art. 5.
 
-### Art. 4
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196) ))
+### Art. 6.
 
-### Art. 5
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196) ))
+### Art. 7.
 
-### Art. 6
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196) ))
+### Art. 8.
 
-### Art. 7
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196) ))
+### Art. 9.
 
-### Art. 8
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196) ))
+### Art. 10.
 
-### Art. 9
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196) ))
+### Art. 11.
 
-### Art. 10
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196) ))
+### Art. 12.
 
-### Art. 11
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196) ))
+### Art. 13.
 
-### Art. 12
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196) ))
+### Art. 14.
 
-### Art. 13
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196) ))
+### Art. 15.
 
-### Art. 14
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196) ))
+### Art. 16.
 
-### Art. 15
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196) ))
+### Art. 17.
 
-### Art. 16
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196) ))
+### Art. 18.
 
-### Art. 17
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196) ))
+### Art. 19.
 
-### Art. 18
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196) ))
+## Attuazione dei principi di protezione dei dati in determinati settori
 
-### Art. 19
+Capo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196) ))
+### Art. 20.
 
-CAPO II Capo II Attuazione dei principi di protezione dei dati in determinati settori
--------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
-### Art. 20
+## Modificazioni ed integrazioni al decreto legislativo n. 171/1998
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196) ))
+Capo III
 
-CAPO III Capo III Modificazioni ed integrazioni al decreto legislativo n. 171/1998
-----------------------------------------------------------------------------------
+### Art. 21.
 
-### Art. 21
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196) ))
+### Art. 22.
 
-### Art. 22
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196) ))
+### Art. 23.
 
-### Art. 23
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196) ))
+### Art. 24.
 
-### Art. 24
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196) ))
+### Art. 25.
 
-### Art. 25
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196) ))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))

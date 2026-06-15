@@ -1,177 +1,169 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1982 n. 915
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 915
+data: 1982-09-10
+titolo: "Attuazione delle direttive (CEE) n. 75/442 relativa ai rifiuti, n. 76/403 relativa allo smaltimento dei policlorodifenili e dei policlorotrifenili e n. 78/319 relativa ai rifiuti tossici e nocivi."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-09-10;915
+codice_redazionale: 082U0915
+vigente: true
+---
 
+### Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1982 n. 915
-================================================================
+((IL [D.LGS. 3 APRILE 2006, N. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-Attuazione delle direttive (CEE) n. 75/442 relativa ai rifiuti, n. 76/403 relativa allo smaltimento dei policlorodifenili e dei policlorotrifenili e n. 78/319 relativa ai rifiuti tossici e nocivi.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 2.
 
-CAPO I
-------
+((IL [D.LGS. 3 APRILE 2006, N. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 1
+### Art. 3.
 
-((IL [D.LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))  
+((IL [D.LGS. 3 APRILE 2006, N. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 2
+### Art. 4.
 
-((IL [D.LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))  
+((IL [D.LGS. 3 APRILE 2006, N. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 3
+### Art. 5.
 
-((IL [D.LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))  
+((IL [D.LGS. 3 APRILE 2006, N. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 4
+### Art. 6.
 
-((IL [D.LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))  
+((IL [D.LGS. 3 APRILE 2006, N. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 5
+### Art. 7.
 
-((IL [D.LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))  
+((IL [D.LGS. 3 APRILE 2006, N. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 6
+### Art. 8.
 
-((IL [D.LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))  
+((IL D.LGS. 3 APRILE 2006, N. 152 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 7
+### Art. 9.
 
-((IL [D.LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))  
+((IL [D.LGS. 3 APRILE 2006, N. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 8
+### Art. 10.
 
-((IL [D.LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+((IL [D.LGS. 3 APRILE 2006, N. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 9
+### Art. 11.
 
-((IL [D.LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))  
+((IL [D.LGS. 3 APRILE 2006, N. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 10
+### Art. 12.
 
-((IL [D.LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))  
+((IL [D.LGS. 3 APRILE 2006, N. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 11
+## REGIME DELLE ATTIVITA' DI SMALTIMENTO DEI RIFIUTI SPECIALI
 
-((IL [D.LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))  
+Titolo II
 
-### Art. 12
+### Art. 13.
 
-((IL [D.LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))  
+((IL [D.LGS. 3 APRILE 2006, N. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-CAPO II Titolo II REGIME DELLE ATTIVITA' DI SMALTIMENTO DEI RIFIUTI SPECIALI
-----------------------------------------------------------------------------
+### Art. 14.
 
-### Art. 13
+((IL [D.LGS. 3 APRILE 2006, N. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-((IL [D.LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))  
+### Art. 15.
 
-### Art. 14
+((IL [D.LGS. 3 APRILE 2006, N. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-((IL [D.LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))  
+## REGIME DELLE ATTIVITA' DI SMALTIMENTO DEI RIFIUTI TOSSICI E NOCIVI
 
-### Art. 15
+Titolo III
 
-((IL [D.LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))  
+### Art. 16.
 
-CAPO III Titolo III REGIME DELLE ATTIVITA' DI SMALTIMENTO DEI RIFIUTI TOSSICI E NOCIVI
---------------------------------------------------------------------------------------
+((IL [D.LGS. 3 APRILE 2006, N. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 16
+### Art. 17.
 
-((IL [D.LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))  
+((IL [D.LGS. 3 APRILE 2006, N. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 17
+### Art. 18.
 
-((IL [D.LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))  
+((IL [D.LGS. 3 APRILE 2006, N. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 18
+### Art. 19.
 
-((IL [D.LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))  
+((IL [D.LGS. 3 APRILE 2006, N. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 19
+### Art. 20.
 
-((IL [D.LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))  
+((IL [D.LGS. 3 APRILE 2006, N. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 20
+### Art. 21.
 
-((IL [D.LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))  
+((IL [D.LGS. 3 APRILE 2006, N. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-CAPO IV
--------
+### Art. 22.
 
-### Art. 21
+((IL [D.LGS. 3 APRILE 2006, N. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-((IL [D.LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))  
+### Art. 22-bis.
 
-### Art. 22
+((IL [D.LGS. 3 APRILE 2006, N. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-((IL [D.LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))  
+### Art. 23.
 
-### Art. 22-bis
+((IL [D.LGS. 3 APRILE 2006, N. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-((IL [D.LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))  
+## SISTEMA SANZIONATORIO
 
-### Art. 23
+Titolo V
 
-((IL [D.LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))  
+### Art. 24.
 
-CAPO V Titolo V SISTEMA SANZIONATORIO
--------------------------------------
+((IL [D.LGS. 3 APRILE 2006, N. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 24
+### Art. 25.
 
-((IL [D.LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))  
+((IL [D.LGS. 3 APRILE 2006, N. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 25
+### Art. 26.
 
-((IL [D.LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))  
+((IL [D.LGS. 3 APRILE 2006, N. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 26
+### Art. 27.
 
-((IL [D.LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))  
+((IL [D.LGS. 3 APRILE 2006, N. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 27
+### Art. 28.
 
-((IL [D.LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))  
+((IL [D.LGS. 3 APRILE 2006, N. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 28
+### Art. 29.
 
-((IL [D.LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))  
+((IL [D.LGS. 3 APRILE 2006, N. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 29
+### Art. 30.
 
-((IL [D.LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))  
+((IL [D.LGS. 3 APRILE 2006, N. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 30
+## DISPOSIZIONI TRANSITORIE E FINALI
 
-((IL [D.LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))  
+Titolo VI
 
-CAPO VI Titolo VI DISPOSIZIONI TRANSITORIE E FINALI
----------------------------------------------------
+### Art. 31.
 
-### Art. 31
+((IL [D.LGS. 3 APRILE 2006, N. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-((IL [D.LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))  
+### Art. 32.
 
-### Art. 32
+((IL [D.LGS. 3 APRILE 2006, N. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-((IL [D.LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))  
+### Art. 33.
 
-### Art. 33
+((IL [D.LGS. 3 APRILE 2006, N. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-((IL [D.LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))  
+### Art. 34.
 
-### Art. 34
+((IL [D.LGS. 3 APRILE 2006, N. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-((IL [D.LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))  
+### Art. 35.
 
-### Art. 35
-
-((IL [D.LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))  
-
-Allegato
-
- ALLEGATO   
-
-(( IL [D.LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE   
-DEL PRESENTE PROVVEDIMENTO ))
+((IL [D.LGS. 3 APRILE 2006, N. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))

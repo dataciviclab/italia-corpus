@@ -1,23 +1,21 @@
-DECRETO LEGISLATIVO 17 febbraio 1948 n. 354
+---
+tipo: DECRETO LEGISLATIVO
+numero: 354
+data: 1948-02-17
+titolo: "Provvidenze economiche a favore dei primi avieri del ruolo specialisti raffermati che abbiano compiuto almeno sei anni di effettivo servizio."
+urn: urn:nir:stato:decreto.legislativo:1948-02-17;354
+codice_redazionale: 048U0354
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 17 febbraio 1948 n. 354
-===========================================
+((PROVVEDIMENTO ABROGATO DALLA L. 3 GENNAIO 1957, N. 1))
 
-Provvidenze economiche a favore dei primi avieri del ruolo specialisti raffermati che abbiano compiuto almeno sei anni di effettivo servizio.
----------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 3 GENNAIO 1957, N. 1))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 3 GENNAIO 1957, N. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-01-03;1)))
+## Art. 3.
 
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 3 GENNAIO 1957, N. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-01-03;1)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 3 GENNAIO 1957, N. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-01-03;1)))
+((PROVVEDIMENTO ABROGATO DALLA L. 3 GENNAIO 1957, N. 1))

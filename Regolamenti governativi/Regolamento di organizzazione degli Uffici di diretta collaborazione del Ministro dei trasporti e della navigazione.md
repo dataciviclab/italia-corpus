@@ -1,60 +1,49 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 aprile 2001 n. 225
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 225
+data: 2001-04-24
+titolo: "Regolamento di organizzazione degli Uffici di diretta collaborazione del Ministro dei trasporti e della navigazione."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2001-04-24;225
+codice_redazionale: 001G0286
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 aprile 2001 n. 225
-=============================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 212))
 
-Regolamento di organizzazione degli Uffici di diretta collaborazione del Ministro dei trasporti e della navigazione.
---------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 1-7-2001
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 212))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;212)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 212))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;212)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 212))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;212)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 212))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;212)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 212))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;212)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 212))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;212)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 212))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;212)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 212))
 
-Art. 8
-------
+## Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;212)))
-
-Art. 9
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;212)))
-
-Art. 10
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;212)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 212))

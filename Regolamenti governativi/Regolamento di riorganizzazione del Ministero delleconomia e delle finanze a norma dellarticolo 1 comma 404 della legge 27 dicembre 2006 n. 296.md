@@ -1,151 +1,153 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 gennaio 2008 n. 43
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 43
+data: 2008-01-30
+titolo: "Regolamento di riorganizzazione del Ministero dell'economia e delle finanze, a norma dell'articolo 1, comma 404, della legge 27 dicembre 2006, n. 296."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2008-01-30;43
+codice_redazionale: 008G0065
+vigente: true
+---
 
+## ORGANIZZAZIONE DEL MINISTERO Sezione I Dipartimenti del Ministero
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 gennaio 2008 n. 43
-=============================================================
+Capo I
 
-Regolamento di riorganizzazione del Ministero dell'economia e delle finanze, a norma dell'articolo 1, comma 404, della legge 27 dicembre 2006, n. 296.
-------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del provvedimento: 2/4/2008
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 27 FEBBRAIO 2013, N. 67))
 
-CAPO I Capo I ORGANIZZAZIONE DEL MINISTERO Sezione I Dipartimenti del Ministero
--------------------------------------------------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 27 FEBBRAIO 2013, N. 67))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 27 FEBBRAIO 2013, N. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2013-02-27;67)))
+### Art. 3.
 
-### Art. 2
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 27 FEBBRAIO 2013, N. 67))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 27 FEBBRAIO 2013, N. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2013-02-27;67)))
+## Organi collegiali, altri organismi ed istituzioni
 
-### Art. 3
+Sezione II
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 27 FEBBRAIO 2013, N. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2013-02-27;67)))
+### Art. 4.
 
-CAPO II Sezione II Organi collegiali, altri organismi ed istituzioni
---------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 27 FEBBRAIO 2013, N. 67))
 
-### Art. 4
+## ARTICOLAZIONE DEI DIPARTIMENTI Sezione I Dipartimento del tesoro
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 27 FEBBRAIO 2013, N. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2013-02-27;67)))
+Capo II
 
-CAPO III Capo II ARTICOLAZIONE DEI DIPARTIMENTI Sezione I Dipartimento del tesoro
----------------------------------------------------------------------------------
+### Art. 5.
 
-### Art. 5
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 27 FEBBRAIO 2013, N. 67))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 27 FEBBRAIO 2013, N. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2013-02-27;67)))
+### Art. 6.
 
-### Art. 6
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 27 FEBBRAIO 2013, N. 67))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 27 FEBBRAIO 2013, N. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2013-02-27;67)))
+### Art. 7.
 
-### Art. 7
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 27 FEBBRAIO 2013, N. 67))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 27 FEBBRAIO 2013, N. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2013-02-27;67)))
+## Dipartimento della Ragioneria generale dello Stato
 
-CAPO IV Sezione II Dipartimento della Ragioneria generale dello Stato
----------------------------------------------------------------------
+Sezione II
 
-### Art. 8
+### Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 27 FEBBRAIO 2013, N. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2013-02-27;67)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 27 FEBBRAIO 2013, N. 67))
 
-### Art. 9
+### Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 27 FEBBRAIO 2013, N. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2013-02-27;67)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 27 FEBBRAIO 2013, N. 67))
 
-### Art. 10
+### Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 27 FEBBRAIO 2013, N. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2013-02-27;67)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 27 FEBBRAIO 2013, N. 67))
 
-### Art. 11
+### Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 27 FEBBRAIO 2013, N. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2013-02-27;67)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 27 FEBBRAIO 2013, N. 67))
 
-### Art. 12
+### Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 27 FEBBRAIO 2013, N. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2013-02-27;67)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 27 FEBBRAIO 2013, N. 67))
 
-### Art. 13
+### Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 27 FEBBRAIO 2013, N. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2013-02-27;67)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 27 FEBBRAIO 2013, N. 67))
 
-CAPO V Sezione III Dipartimento delle finanze
----------------------------------------------
+## Dipartimento delle finanze
 
-### Art. 14
+Sezione III
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 27 FEBBRAIO 2013, N. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2013-02-27;67)))
+### Art. 14.
 
-### Art. 15
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 27 FEBBRAIO 2013, N. 67))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 27 FEBBRAIO 2013, N. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2013-02-27;67)))
+### Art. 15.
 
-CAPO VI Sezione IV Dipartimento dell'amministrazione generale del personale e dei servizi
------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 27 FEBBRAIO 2013, N. 67))
 
-### Art. 16
+## Dipartimento dell'amministrazione generale del personale e dei servizi
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 27 FEBBRAIO 2013, N. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2013-02-27;67)))
+Sezione IV
 
-### Art. 17
+### Art. 16.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 27 FEBBRAIO 2013, N. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2013-02-27;67)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 27 FEBBRAIO 2013, N. 67))
 
-CAPO VII Capo III ORGANI DI CONSULENZA, COLLEGIALI ALTRI ORGANISMI ED ISTITUZIONI
----------------------------------------------------------------------------------
+### Art. 17.
 
-### Art. 18
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 27 FEBBRAIO 2013, N. 67))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 27 FEBBRAIO 2013, N. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2013-02-27;67)))
+## ORGANI DI CONSULENZA, COLLEGIALI ALTRI ORGANISMI ED ISTITUZIONI
 
-CAPO VIII Capo IV ARTICOLAZIONE TERRITORIALE DEL MINISTERO DELL'ECONOMIA E DELLE FINANZE.
------------------------------------------------------------------------------------------
+Capo III
 
-### Art. 19
+### Art. 18.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 27 FEBBRAIO 2013, N. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2013-02-27;67)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 27 FEBBRAIO 2013, N. 67))
 
-### Art. 20
+## ARTICOLAZIONE TERRITORIALE DEL MINISTERO DELL'ECONOMIA E DELLE FINANZE.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 27 FEBBRAIO 2013, N. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2013-02-27;67)))
+Capo IV
 
-### Art. 21
+### Art. 19.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 27 FEBBRAIO 2013, N. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2013-02-27;67)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 27 FEBBRAIO 2013, N. 67))
 
-### Art. 22
+### Art. 20.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 27 FEBBRAIO 2013, N. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2013-02-27;67)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 27 FEBBRAIO 2013, N. 67))
 
-CAPO IX Capo V DISPOSIZIONI IN MATERIA DI ORGANIZZAZIONE E DI PERSONALE
------------------------------------------------------------------------
+### Art. 21.
 
-### Art. 23
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 27 FEBBRAIO 2013, N. 67))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 27 FEBBRAIO 2013, N. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2013-02-27;67)))
+### Art. 22.
 
-### Art. 24
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 27 FEBBRAIO 2013, N. 67))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 27 FEBBRAIO 2013, N. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2013-02-27;67)))
+## DISPOSIZIONI IN MATERIA DI ORGANIZZAZIONE E DI PERSONALE
 
-CAPO X Capo VI NORME COMUNI, TRANSITORIE, FINALI E DI ABROGAZIONE
------------------------------------------------------------------
+Capo V
 
-### Art. 25
+### Art. 23.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 27 FEBBRAIO 2013, N. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2013-02-27;67)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 27 FEBBRAIO 2013, N. 67))
 
-### Art. 26
+### Art. 24.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 27 FEBBRAIO 2013, N. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2013-02-27;67)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 27 FEBBRAIO 2013, N. 67))
 
-Tabella
+## NORME COMUNI, TRANSITORIE, FINALI E DI ABROGAZIONE
 
- Tabella   
-  
+Capo VI
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 27 FEBBRAIO 2013, N. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2013-02-27;67)))
+### Art. 25.
+
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 27 FEBBRAIO 2013, N. 67))
+
+### Art. 26.
+
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 27 FEBBRAIO 2013, N. 67))

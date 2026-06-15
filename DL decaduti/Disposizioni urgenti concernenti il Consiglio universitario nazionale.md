@@ -1,34 +1,24 @@
-DECRETO-LEGGE 08 settembre 1994 n. 532
+---
+tipo: DECRETO-LEGGE
+numero: 532
+data: 1994-09-08
+titolo: "Disposizioni urgenti concernenti il Consiglio universitario nazionale."
+urn: urn:nir:stato:decreto.legge:1994-09-08;532
+codice_redazionale: 094G0574
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 08 settembre 1994 n. 532
-======================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 8 MARZO 1995, N. 63](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20gennaio%201995%20n.%204%20recante%20disposizioni%20urgenti%20concernenti%20il%20Consiglio%20universitario%20nazionale.md)
 
-Disposizioni urgenti concernenti il Consiglio universitario nazionale.
-----------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 10/9/1994.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 8 MARZO 1995, N. 63](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20gennaio%201995%20n.%204%20recante%20disposizioni%20urgenti%20concernenti%20il%20Consiglio%20universitario%20nazionale.md)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 8 MARZO 1995, N. 63](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-03-08;63)
-  
-
-Art. 2
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 8 MARZO 1995, N. 63](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-03-08;63)
-  
-
-Art. 3
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 8 MARZO 1995, N. 63](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-03-08;63)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 8 MARZO 1995, N. 63](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20gennaio%201995%20n.%204%20recante%20disposizioni%20urgenti%20concernenti%20il%20Consiglio%20universitario%20nazionale.md)

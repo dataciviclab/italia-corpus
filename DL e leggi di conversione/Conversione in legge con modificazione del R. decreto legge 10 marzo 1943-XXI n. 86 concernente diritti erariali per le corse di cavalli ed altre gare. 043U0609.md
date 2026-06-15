@@ -1,15 +1,13 @@
-LEGGE 28 giugno 1943 n. 609
+---
+tipo: LEGGE
+numero: 609
+data: 1943-06-28
+titolo: "Conversione in legge, con modificazione, del R. decreto legge 10 marzo 1943-XXI, n. 86, concernente diritti erariali per le corse di cavalli ed altre gare. (043U0609)"
+urn: urn:nir:stato:legge:1943-06-28;609
+codice_redazionale: 043U0609
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 28 giugno 1943 n. 609
-===========================
-
-Conversione in legge, con modificazione, del R. decreto legge 10 marzo 1943-XXI, n. 86, concernente diritti erariali per le corse di cavalli ed altre gare. (043U0609)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/07/1943
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO, CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133))

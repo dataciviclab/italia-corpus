@@ -1,177 +1,179 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 dicembre 1969 n. 1133
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1133
+data: 1969-12-30
+titolo: "Attuazione delle direttive adottate dal Consiglio delle Comunita' europee 69/73/CEE, 69/74/CEE e 69/75/CEE, relative all'armonizzazione delle disposizioni legislative, regolamentari ed amministrative riguardanti il regime del perfezionamento attivo, il regime dei depositi doganali ed il regime delle zone franche."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-12-30;1133
+codice_redazionale: 069U1133
+vigente: true
+---
 
+## Temporanea importazione
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 dicembre 1969 n. 1133
-================================================================
+CAPO I
 
-Attuazione delle direttive adottate dal Consiglio delle Comunita' europee 69/73/CEE, 69/74/CEE e 69/75/CEE, relative all'armonizzazione delle disposizioni legislative, regolamentari ed amministrative riguardanti il regime del perfezionamento attivo, il regime dei depositi doganali ed il regime delle zone franche.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-CAPO I CAPO I Temporanea importazione
--------------------------------------
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
-### Art. 1
+### Art. 2.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))  
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
-### Art. 2
+### Art. 3.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))  
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
-### Art. 3
+### Art. 4.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))  
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
-### Art. 4
+### Art. 5.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))  
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
-### Art. 5
+### Art. 6.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))  
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
-### Art. 6
+### Art. 7.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))  
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
-### Art. 7
+### Art. 8.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))  
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
-### Art. 8
+### Art. 9.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))  
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
-### Art. 9
+### Art. 10.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))  
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
-### Art. 10
+### Art. 11.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))  
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
-### Art. 11
+### Art. 12.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))  
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
-### Art. 12
+### Art. 13.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))  
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
-### Art. 13
+### Art. 14.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))  
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
-### Art. 14
+### Art. 15.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))  
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
-### Art. 15
+### Art. 16.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))  
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
-### Art. 16
+### Art. 17.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))  
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
-### Art. 17
+### Art. 18.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))  
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
-### Art. 18
+### Art. 19.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))  
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
-### Art. 19
+### Art. 20.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))  
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
-### Art. 20
+### Art. 21.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))  
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
-### Art. 21
+## Magazzini doganali, depositi franchi e punti franchi
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))  
+CAPO II
 
-CAPO II CAPO II Magazzini doganali, depositi franchi e punti franchi
---------------------------------------------------------------------
+### Art. 22.
 
-### Art. 22
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))  
+### Art. 23.
 
-### Art. 23
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))  
+### Art. 24.
 
-### Art. 24
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))  
+### Art. 25.
 
-### Art. 25
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))  
+### Art. 26.
 
-### Art. 26
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))  
+### Art. 27.
 
-### Art. 27
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))  
+### Art. 28.
 
-### Art. 28
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))  
+### Art. 29.
 
-### Art. 29
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))  
+### Art. 30.
 
-### Art. 30
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))  
+### Art. 31.
 
-### Art. 31
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))  
+### Art. 32.
 
-### Art. 32
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))  
+### Art. 33.
 
-### Art. 33
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))  
+## Disposizioni transitorie e finali.
 
-CAPO III CAPO III Disposizioni transitorie e finali.
-----------------------------------------------------
+CAPO III
 
-### Art. 34
+### Art. 34.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))  
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
-### Art. 35
+### Art. 35.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))  
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
-### Art. 36
+### Art. 36.
 
-  
-  
-Oltre a quanto espressamente previsto negli articoli 21 e 26, sono abrogate tutte le altre disposizioni legislative e regolamentari incompatibili con quelle della presente legge.   
-  
-Il presente decreto, munito del sigillo di Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 30 dicembre 1969   
-  
-SARAGAT   
-  
-RUMOR - Bosco - MORO -   
-GAVA - COLOMBO - SEDATI   
-- MAGRI' - MISASI   
-  
-Visto, il Guardasigilli: GAVA   
-Registrato alla Corte dei conti, addi' 5 febbraio 1970   
-Atti del Governo, registro n. 231, foglio n. 88. - CARUSO   
+Oltre a quanto espressamente previsto negli articoli 21 e 26, sono abrogate tutte le altre disposizioni legislative e regolamentari incompatibili con quelle della presente legge. 
+ 
+ Il presente decreto, munito del sigillo di Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 30 dicembre 1969 
+ 
+ SARAGAT 
+ 
+ RUMOR - Bosco - MORO - 
+ GAVA - COLOMBO - SEDATI 
+ - MAGRI' - MISASI 
+ 
+Visto, il Guardasigilli: GAVA 
+ Registrato alla Corte dei conti, addi' 5 febbraio 1970 
+ Atti del Governo, registro n. 231, foglio n. 88. - CARUSO

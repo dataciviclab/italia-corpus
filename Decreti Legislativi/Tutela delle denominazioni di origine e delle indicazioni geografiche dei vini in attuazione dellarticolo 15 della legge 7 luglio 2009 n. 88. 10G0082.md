@@ -1,172 +1,181 @@
-DECRETO LEGISLATIVO 08 aprile 2010 n. 61
+---
+tipo: DECRETO LEGISLATIVO
+numero: 61
+data: 2010-04-08
+titolo: "Tutela delle denominazioni di origine e delle indicazioni geografiche dei vini, in attuazione dell'articolo 15 della legge 7 luglio 2009, n. 88. (10G0082)"
+urn: urn:nir:stato:decreto.legislativo:2010-04-08;61
+codice_redazionale: 010G0082
+vigente: true
+---
 
+## Norme generali - Classificazione delle denominazioni   di origine, delle indicazioni geografiche, ambito di   applicazione e ambiti territoriali
 
-DECRETO LEGISLATIVO 08 aprile 2010 n. 61
-========================================
+Capo I
 
-Tutela delle denominazioni di origine e delle indicazioni geografiche dei vini, in attuazione dell'articolo 15 della legge 7 luglio 2009, n. 88. (10G0082)
-----------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del provvedimento: 11/05/2010
+((PROVVEDIMENTO ABROGATO DALLA L. 12 DICEMBRE 2016, N. 238))
 
-CAPO I Capo I Norme generali - Classificazione delle denominazioni di origine, delle indicazioni geografiche, ambito di applicazione e ambiti territoriali
-----------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DALLA L. 12 DICEMBRE 2016, N. 238))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 12 DICEMBRE 2016, N. 238](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-12;238)))
+### Art. 3.
 
-### Art. 2
+((PROVVEDIMENTO ABROGATO DALLA L. 12 DICEMBRE 2016, N. 238))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 12 DICEMBRE 2016, N. 238](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-12;238)))
+### Art. 4.
 
-### Art. 3
+((PROVVEDIMENTO ABROGATO DALLA L. 12 DICEMBRE 2016, N. 238))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 12 DICEMBRE 2016, N. 238](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-12;238)))
+### Art. 5.
 
-### Art. 4
+((PROVVEDIMENTO ABROGATO DALLA L. 12 DICEMBRE 2016, N. 238))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 12 DICEMBRE 2016, N. 238](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-12;238)))
+### Art. 6.
 
-### Art. 5
+((PROVVEDIMENTO ABROGATO DALLA L. 12 DICEMBRE 2016, N. 238))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 12 DICEMBRE 2016, N. 238](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-12;238)))
+## Protezione comunitaria - Procedura di riconoscimento   - Requisiti fondamentali e gestione delle DOP e IGP
 
-### Art. 6
+Capo II
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 12 DICEMBRE 2016, N. 238](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-12;238)))
+### Art. 7.
 
-CAPO II Capo II Protezione comunitaria - Procedura di riconoscimento - Requisiti fondamentali e gestione delle DOP e IGP
-------------------------------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DALLA L. 12 DICEMBRE 2016, N. 238))
 
-### Art. 7
+### Art. 8.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 12 DICEMBRE 2016, N. 238](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-12;238)))
+((PROVVEDIMENTO ABROGATO DALLA L. 12 DICEMBRE 2016, N. 238))
 
-### Art. 8
+### Art. 9.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 12 DICEMBRE 2016, N. 238](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-12;238)))
+((PROVVEDIMENTO ABROGATO DALLA L. 12 DICEMBRE 2016, N. 238))
 
-### Art. 9
+## Disciplinari di produzione   Gestione superfici vitate
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 12 DICEMBRE 2016, N. 238](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-12;238)))
+Capo III
 
-CAPO III Capo III Disciplinari di produzione Gestione superfici vitate
-----------------------------------------------------------------------
+### Art. 10.
 
-### Art. 10
+((PROVVEDIMENTO ABROGATO DALLA L. 12 DICEMBRE 2016, N. 238))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 12 DICEMBRE 2016, N. 238](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-12;238)))
+### Art. 11.
 
-### Art. 11
+((PROVVEDIMENTO ABROGATO DALLA L. 12 DICEMBRE 2016, N. 238))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 12 DICEMBRE 2016, N. 238](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-12;238)))
+### Art. 12.
 
-### Art. 12
+((PROVVEDIMENTO ABROGATO DALLA L. 12 DICEMBRE 2016, N. 238))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 12 DICEMBRE 2016, N. 238](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-12;238)))
+## Controllo delle DOP e delle IGP
 
-CAPO IV Capo IV Controllo delle DOP e delle IGP
------------------------------------------------
+Capo IV
 
-### Art. 13
+### Art. 13.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 12 DICEMBRE 2016, N. 238](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-12;238)))
+((PROVVEDIMENTO ABROGATO DALLA L. 12 DICEMBRE 2016, N. 238))
 
-### Art. 14
+### Art. 14.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 12 DICEMBRE 2016, N. 238](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-12;238)))
+((PROVVEDIMENTO ABROGATO DALLA L. 12 DICEMBRE 2016, N. 238))
 
-### Art. 15
+### Art. 15.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 12 DICEMBRE 2016, N. 238](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-12;238)))
+((PROVVEDIMENTO ABROGATO DALLA L. 12 DICEMBRE 2016, N. 238))
 
-CAPO V Capo V Istituzione del comitato nazionale vini DOP e IGP
----------------------------------------------------------------
+## Istituzione del comitato nazionale vini DOP e IGP
 
-### Art. 16
+Capo V
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 12 DICEMBRE 2016, N. 238](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-12;238)))
+### Art. 16.
 
-CAPO VI Capo VI Consorzi di tutela per le denominazioni di origine e le indicazioni geografiche protette
---------------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DALLA L. 12 DICEMBRE 2016, N. 238))
 
-### Art. 17
+## Consorzi di tutela per le denominazioni di origine   e le indicazioni geografiche protette
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 12 DICEMBRE 2016, N. 238](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-12;238)))
+Capo VI
 
-CAPO VII Capo VII Disposizioni sulla designazione, presentazione e protezione dei vini a denominazione di origine e ad indicazione geografica
----------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 17.
 
-### Art. 18
+((PROVVEDIMENTO ABROGATO DALLA L. 12 DICEMBRE 2016, N. 238))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 12 DICEMBRE 2016, N. 238](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-12;238)))
+## Disposizioni sulla designazione, presentazione e   protezione dei vini a denominazione di origine e   ad indicazione geografica
 
-### Art. 19
+Capo VII
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 12 DICEMBRE 2016, N. 238](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-12;238)))
+### Art. 18.
 
-### Art. 20
+((PROVVEDIMENTO ABROGATO DALLA L. 12 DICEMBRE 2016, N. 238))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 12 DICEMBRE 2016, N. 238](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-12;238)))
+### Art. 19.
 
-CAPO VIII Capo VIII Concorsi enologici
---------------------------------------
+((PROVVEDIMENTO ABROGATO DALLA L. 12 DICEMBRE 2016, N. 238))
 
-### Art. 21
+### Art. 20.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 12 DICEMBRE 2016, N. 238](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-12;238)))
+((PROVVEDIMENTO ABROGATO DALLA L. 12 DICEMBRE 2016, N. 238))
 
-CAPO IX Capo IX Disposizioni sanzionatorie
-------------------------------------------
+## Concorsi enologici
 
-### Art. 22
+Capo VIII
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 12 DICEMBRE 2016, N. 238](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-12;238)))
+### Art. 21.
 
-### Art. 23
+((PROVVEDIMENTO ABROGATO DALLA L. 12 DICEMBRE 2016, N. 238))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 12 DICEMBRE 2016, N. 238](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-12;238)))
+## Disposizioni sanzionatorie
 
-### Art. 24
+Capo IX
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 12 DICEMBRE 2016, N. 238](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-12;238)))
+### Art. 22.
 
-### Art. 25
+((PROVVEDIMENTO ABROGATO DALLA L. 12 DICEMBRE 2016, N. 238))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 12 DICEMBRE 2016, N. 238](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-12;238)))
+### Art. 23.
 
-### Art. 26
+((PROVVEDIMENTO ABROGATO DALLA L. 12 DICEMBRE 2016, N. 238))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 12 DICEMBRE 2016, N. 238](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-12;238)))
+### Art. 24.
 
-### Art. 27
+((PROVVEDIMENTO ABROGATO DALLA L. 12 DICEMBRE 2016, N. 238))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 12 DICEMBRE 2016, N. 238](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-12;238)))
+### Art. 25.
 
-### Art. 28
+((PROVVEDIMENTO ABROGATO DALLA L. 12 DICEMBRE 2016, N. 238))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 12 DICEMBRE 2016, N. 238](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-12;238)))
+### Art. 26.
 
-### Art. 29
+((PROVVEDIMENTO ABROGATO DALLA L. 12 DICEMBRE 2016, N. 238))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 12 DICEMBRE 2016, N. 238](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-12;238)))
+### Art. 27.
 
-### Art. 30
+((PROVVEDIMENTO ABROGATO DALLA L. 12 DICEMBRE 2016, N. 238))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 12 DICEMBRE 2016, N. 238](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-12;238)))
+### Art. 28.
 
-CAPO X Capo X Disposizioni transitorie, particolari e abrogazione norme preesistenti
-------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DALLA L. 12 DICEMBRE 2016, N. 238))
 
-### Art. 31
+### Art. 29.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 12 DICEMBRE 2016, N. 238](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-12;238)))
+((PROVVEDIMENTO ABROGATO DALLA L. 12 DICEMBRE 2016, N. 238))
 
-### Art. 32
+### Art. 30.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 12 DICEMBRE 2016, N. 238](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-12;238)))
+((PROVVEDIMENTO ABROGATO DALLA L. 12 DICEMBRE 2016, N. 238))
 
-### Art. 33
+## Disposizioni transitorie, particolari e abrogazione norme  preesistenti
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 12 DICEMBRE 2016, N. 238](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-12;238)))
+Capo X
+
+### Art. 31.
+
+((PROVVEDIMENTO ABROGATO DALLA L. 12 DICEMBRE 2016, N. 238))
+
+### Art. 32.
+
+((PROVVEDIMENTO ABROGATO DALLA L. 12 DICEMBRE 2016, N. 238))
+
+### Art. 33.
+
+((PROVVEDIMENTO ABROGATO DALLA L. 12 DICEMBRE 2016, N. 238))

@@ -1,0 +1,201 @@
+---
+tipo: DECRETO
+numero: 60
+data: 2002-04-02
+titolo: "Recepimento della direttiva 1999/30/CE del Consiglio del 22 aprile 1999 concernente i valori limite di qualita' dell'aria ambiente per il biossido di zolfo, il biossido di azoto, gli ossidi di azoto, le particelle e il piombo e della direttiva 2000/69/CE relativa ai valori limite di qualita' dell'aria ambiente per il benzene ed il monossido di carbonio."
+urn: urn:nir:ministero.ambiente.e.tutela.territorio:decreto:2002-04-02;60
+codice_redazionale: 002G0089
+vigente: true
+---
+
+## (Norme generali)
+
+CAPO I
+
+### Art. 1.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
+
+### Art. 2.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
+
+### Art. 3.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
+
+### Art. 4.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
+
+### Art. 5.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
+
+## (Biossido di zolfo)
+
+CAPO II
+
+### Art. 6.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
+
+### Art. 7.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
+
+### Art. 8.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
+
+### Art. 9.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
+
+### Art. 10.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
+
+### Art. 11.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
+
+### Art. 12.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
+
+## (Biossido di azoto e ossidi di azoto)
+
+CAPO III
+
+### Art. 13.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
+
+### Art. 14.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
+
+### Art. 15.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
+
+### Art. 16.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
+
+## (Materiale particolato)
+
+CAPO IV
+
+### Art. 17.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
+
+### Art. 18.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
+
+### Art. 19.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
+
+### Art. 20.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
+
+### Art. 21.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
+
+### Art. 22.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
+
+### Art. 23.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
+
+### Art. 24.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
+
+## (Piombo)
+
+CAPO V
+
+### Art. 25.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
+
+### Art. 26.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
+
+### Art. 27.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
+
+### Art. 28.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
+
+## (Benzene)
+
+CAPO VI
+
+### Art. 29.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
+
+### Art. 30.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
+
+### Art. 31.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
+
+### Art. 32.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
+
+### Art. 33.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
+
+## (Monossido di carbonio)
+
+CAPO VII
+
+### Art. 34.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
+
+### Art. 35.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
+
+### Art. 36.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
+
+### Art. 37.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
+
+## (Disposizioni transitorie e finali)
+
+CAPO VIII
+
+### Art. 38.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
+
+### Art. 39.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
+
+### Art. 40.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))

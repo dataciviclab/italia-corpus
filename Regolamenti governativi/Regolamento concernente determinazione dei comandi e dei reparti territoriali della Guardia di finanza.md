@@ -1,20 +1,17 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 luglio 1991 n. 283
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 283
+data: 1991-07-29
+titolo: "Regolamento concernente determinazione dei comandi e dei reparti territoriali della Guardia di finanza."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1991-07-29;283
+codice_redazionale: 091G0325
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 luglio 1991 n. 283
-=============================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 29 MARZO 1993, N. 137))
 
-Regolamento concernente determinazione dei comandi e dei reparti territoriali della Guardia di finanza.
--------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 15/09/1991
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 29 MARZO 1993, N. 137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1993-03-29;137)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 29 MARZO 1993, N. 137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1993-03-29;137)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 29 MARZO 1993, N. 137))

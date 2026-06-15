@@ -1,80 +1,65 @@
-DECRETO LEGISLATIVO 18 maggio 2001 n. 227
+---
+tipo: DECRETO LEGISLATIVO
+numero: 227
+data: 2001-05-18
+titolo: "Orientamento e modernizzazione del settore forestale, a norma dell'articolo 7 della legge 5 marzo 2001, n. 57."
+urn: urn:nir:stato:decreto.legislativo:2001-05-18;227
+codice_redazionale: 001G0271
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 18 maggio 2001 n. 227
-=========================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 APRILE 2018, N. 34))
 
-Orientamento e modernizzazione del settore forestale, a norma dell'articolo 7 della legge 5 marzo 2001, n. 57.
---------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 30-6-2001
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 APRILE 2018, N. 34))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 APRILE 2018, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-04-03;34)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 APRILE 2018, N. 34))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 APRILE 2018, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-04-03;34)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 APRILE 2018, N. 34))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 APRILE 2018, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-04-03;34)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 APRILE 2018, N. 34))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 APRILE 2018, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-04-03;34)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 APRILE 2018, N. 34))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 APRILE 2018, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-04-03;34)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 APRILE 2018, N. 34))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 APRILE 2018, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-04-03;34)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 APRILE 2018, N. 34))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 APRILE 2018, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-04-03;34)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 APRILE 2018, N. 34))
 
-Art. 8
-------
+## Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 APRILE 2018, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-04-03;34)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 APRILE 2018, N. 34))
 
-Art. 9
-------
+## Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 APRILE 2018, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-04-03;34)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 APRILE 2018, N. 34))
 
-Art. 10
--------
+## Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 APRILE 2018, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-04-03;34)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 APRILE 2018, N. 34))
 
-Art. 11
--------
+## Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 APRILE 2018, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-04-03;34)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 APRILE 2018, N. 34))
 
-Art. 12
--------
+## Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 APRILE 2018, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-04-03;34)))
-
-Art. 13
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 APRILE 2018, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-04-03;34)))
-
-Art. 14
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 APRILE 2018, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-04-03;34)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 APRILE 2018, N. 34))

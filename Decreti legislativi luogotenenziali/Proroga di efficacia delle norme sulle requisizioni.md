@@ -1,18 +1,17 @@
-DECRETO LEGISLATIVO LUOGOTENENZIALE 12 aprile 1946 n. 319
+---
+tipo: DECRETO LEGISLATIVO LUOGOTENENZIALE
+numero: 319
+data: 1946-04-12
+titolo: "Proroga di efficacia delle norme sulle requisizioni."
+urn: urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-12;319
+codice_redazionale: 046U0319
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO LUOGOTENENZIALE 12 aprile 1946 n. 319
-=========================================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-Proroga di efficacia delle norme sulle requisizioni.
-----------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))

@@ -1,25 +1,21 @@
-DECRETO LEGISLATIVO LUOGOTENENZIALE 21 settembre 1944 n. 304
+---
+tipo: DECRETO LEGISLATIVO LUOGOTENENZIALE
+numero: 304
+data: 1944-09-21
+titolo: "Riordinamento dei servizi del Ministero dell'industria del commercio e del lavoro. (044U0304)"
+urn: urn:nir:stato:decreto.legislativo.luogotenenziale:1944-09-21;304
+codice_redazionale: 044U0304
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO LUOGOTENENZIALE 21 settembre 1944 n. 304
-============================================================
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-Riordinamento dei servizi del Ministero dell'industria del commercio e del lavoro. (044U0304)
----------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 15/11/1944
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

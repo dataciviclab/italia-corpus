@@ -1,52 +1,39 @@
-DECRETO-LEGGE 28 marzo 1989 n. 113
+---
+tipo: DECRETO-LEGGE
+numero: 113
+data: 1989-03-28
+titolo: "Misure urgenti per il contenimento del fabbisogno della Tesoreria statale e delle spese per acquisto di beni e servizi."
+urn: urn:nir:stato:decreto.legge:1989-03-28;113
+codice_redazionale: 089G0141
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 28 marzo 1989 n. 113
-==================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 28 LUGLIO 1989, N. 262](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20maggio%201989%20n.%20201%20recante%20misure%20urgenti%20per%20il%20contenimento%20del%20fabbisogno%20della%20Tesoreria%20statale%20e%20delle%20spese%20per%20acquisto_e5864f01ebe1.md)
 
-Misure urgenti per il contenimento del fabbisogno della Tesoreria statale e delle spese per acquisto di beni e servizi.
------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 31/03/1989.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 28 LUGLIO 1989, N. 262](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20maggio%201989%20n.%20201%20recante%20misure%20urgenti%20per%20il%20contenimento%20del%20fabbisogno%20della%20Tesoreria%20statale%20e%20delle%20spese%20per%20acquisto_e5864f01ebe1.md)
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 28 LUGLIO 1989, N. 262](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-07-28;262)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 28 LUGLIO 1989, N. 262](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20maggio%201989%20n.%20201%20recante%20misure%20urgenti%20per%20il%20contenimento%20del%20fabbisogno%20della%20Tesoreria%20statale%20e%20delle%20spese%20per%20acquisto_e5864f01ebe1.md)
 
-Art. 2
-------
+## Art. 4.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 28 LUGLIO 1989, N. 262](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-07-28;262)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 28 LUGLIO 1989, N. 262](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20maggio%201989%20n.%20201%20recante%20misure%20urgenti%20per%20il%20contenimento%20del%20fabbisogno%20della%20Tesoreria%20statale%20e%20delle%20spese%20per%20acquisto_e5864f01ebe1.md)
 
-Art. 3
-------
+## Art. 5.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 28 LUGLIO 1989, N. 262](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-07-28;262)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 28 LUGLIO 1989, N. 262](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20maggio%201989%20n.%20201%20recante%20misure%20urgenti%20per%20il%20contenimento%20del%20fabbisogno%20della%20Tesoreria%20statale%20e%20delle%20spese%20per%20acquisto_e5864f01ebe1.md)
 
-Art. 4
-------
+## Art. 6.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 28 LUGLIO 1989, N. 262](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-07-28;262)
-  
-
-Art. 5
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 28 LUGLIO 1989, N. 262](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-07-28;262)
-  
-
-Art. 6
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 28 LUGLIO 1989, N. 262](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-07-28;262)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 28 LUGLIO 1989, N. 262](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20maggio%201989%20n.%20201%20recante%20misure%20urgenti%20per%20il%20contenimento%20del%20fabbisogno%20della%20Tesoreria%20statale%20e%20delle%20spese%20per%20acquisto_e5864f01ebe1.md)

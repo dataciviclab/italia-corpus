@@ -1,232 +1,174 @@
-DECRETO-LEGGE 07 novembre 1968 n. 1118
+---
+tipo: DECRETO-LEGGE
+numero: 1118
+data: 1968-11-07
+titolo: "Primi provvedimenti piu' urgenti in favore delle zone colpite dalle alluvioni dell'autunno 1968."
+urn: urn:nir:stato:decreto.legge:1968-11-07;1118
+codice_redazionale: 068U1118
+vigente: true
+---
 
+### Art. 1.
 
-DECRETO-LEGGE 07 novembre 1968 n. 1118
-======================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 12 FEBBRAIO 1969, N. 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20dicembre%201968%20n.%201232%20recante%20provvedimenti%20urgenti%20in%20favore%20delle%20zone%20colpite%20dalle%20alluvioni%20dellautunno%201968.md)
 
-Primi provvedimenti piu' urgenti in favore delle zone colpite dalle alluvioni dell'autunno 1968.
-------------------------------------------------------------------------------------------------
+### Art. 2.
 
-Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 12 FEBBRAIO 1969, N. 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20dicembre%201968%20n.%201232%20recante%20provvedimenti%20urgenti%20in%20favore%20delle%20zone%20colpite%20dalle%20alluvioni%20dellautunno%201968.md)
 
-CAPO I
-------
+### Art. 3.
 
-### Art. 1
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 12 FEBBRAIO 1969, N. 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20dicembre%201968%20n.%201232%20recante%20provvedimenti%20urgenti%20in%20favore%20delle%20zone%20colpite%20dalle%20alluvioni%20dellautunno%201968.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 12 FEBBRAIO 1969, N. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-02-12;6)
-  
+### Art. 4.
 
-### Art. 2
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 12 FEBBRAIO 1969, N. 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20dicembre%201968%20n.%201232%20recante%20provvedimenti%20urgenti%20in%20favore%20delle%20zone%20colpite%20dalle%20alluvioni%20dellautunno%201968.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 12 FEBBRAIO 1969, N. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-02-12;6)
-  
+### Art. 5.
 
-### Art. 3
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 12 FEBBRAIO 1969, N. 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20dicembre%201968%20n.%201232%20recante%20provvedimenti%20urgenti%20in%20favore%20delle%20zone%20colpite%20dalle%20alluvioni%20dellautunno%201968.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 12 FEBBRAIO 1969, N. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-02-12;6)
-  
+### Art. 6.
 
-### Art. 4
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 12 FEBBRAIO 1969, N. 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20dicembre%201968%20n.%201232%20recante%20provvedimenti%20urgenti%20in%20favore%20delle%20zone%20colpite%20dalle%20alluvioni%20dellautunno%201968.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 12 FEBBRAIO 1969, N. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-02-12;6)
-  
+### Art. 7.
 
-### Art. 5
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 12 FEBBRAIO 1969, N. 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20dicembre%201968%20n.%201232%20recante%20provvedimenti%20urgenti%20in%20favore%20delle%20zone%20colpite%20dalle%20alluvioni%20dellautunno%201968.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 12 FEBBRAIO 1969, N. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-02-12;6)
-  
+### Art. 8.
 
-CAPO II
--------
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 12 FEBBRAIO 1969, N. 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20dicembre%201968%20n.%201232%20recante%20provvedimenti%20urgenti%20in%20favore%20delle%20zone%20colpite%20dalle%20alluvioni%20dellautunno%201968.md)
 
-### Art. 6
+### Art. 9.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 12 FEBBRAIO 1969, N. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-02-12;6)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 12 FEBBRAIO 1969, N. 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20dicembre%201968%20n.%201232%20recante%20provvedimenti%20urgenti%20in%20favore%20delle%20zone%20colpite%20dalle%20alluvioni%20dellautunno%201968.md)
 
-### Art. 7
+### Art. 10.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 12 FEBBRAIO 1969, N. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-02-12;6)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 12 FEBBRAIO 1969, N. 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20dicembre%201968%20n.%201232%20recante%20provvedimenti%20urgenti%20in%20favore%20delle%20zone%20colpite%20dalle%20alluvioni%20dellautunno%201968.md)
 
-### Art. 8
+### Art. 11.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 12 FEBBRAIO 1969, N. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-02-12;6)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 12 FEBBRAIO 1969, N. 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20dicembre%201968%20n.%201232%20recante%20provvedimenti%20urgenti%20in%20favore%20delle%20zone%20colpite%20dalle%20alluvioni%20dellautunno%201968.md)
 
-### Art. 9
+### Art. 12.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 12 FEBBRAIO 1969, N. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-02-12;6)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 12 FEBBRAIO 1969, N. 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20dicembre%201968%20n.%201232%20recante%20provvedimenti%20urgenti%20in%20favore%20delle%20zone%20colpite%20dalle%20alluvioni%20dellautunno%201968.md)
 
-### Art. 10
+### Art. 13.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 12 FEBBRAIO 1969, N. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-02-12;6)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 12 FEBBRAIO 1969, N. 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20dicembre%201968%20n.%201232%20recante%20provvedimenti%20urgenti%20in%20favore%20delle%20zone%20colpite%20dalle%20alluvioni%20dellautunno%201968.md)
 
-### Art. 11
+### Art. 14.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 12 FEBBRAIO 1969, N. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-02-12;6)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 12 FEBBRAIO 1969, N. 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20dicembre%201968%20n.%201232%20recante%20provvedimenti%20urgenti%20in%20favore%20delle%20zone%20colpite%20dalle%20alluvioni%20dellautunno%201968.md)
 
-### Art. 12
+### Art. 15.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 12 FEBBRAIO 1969, N. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-02-12;6)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 12 FEBBRAIO 1969, N. 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20dicembre%201968%20n.%201232%20recante%20provvedimenti%20urgenti%20in%20favore%20delle%20zone%20colpite%20dalle%20alluvioni%20dellautunno%201968.md)
 
-### Art. 13
+### Art. 16.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 12 FEBBRAIO 1969, N. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-02-12;6)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 12 FEBBRAIO 1969, N. 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20dicembre%201968%20n.%201232%20recante%20provvedimenti%20urgenti%20in%20favore%20delle%20zone%20colpite%20dalle%20alluvioni%20dellautunno%201968.md)
 
-### Art. 14
+### Art. 17.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 12 FEBBRAIO 1969, N. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-02-12;6)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 12 FEBBRAIO 1969, N. 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20dicembre%201968%20n.%201232%20recante%20provvedimenti%20urgenti%20in%20favore%20delle%20zone%20colpite%20dalle%20alluvioni%20dellautunno%201968.md)
 
-CAPO III
---------
+### Art. 18.
 
-### Art. 15
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 12 FEBBRAIO 1969, N. 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20dicembre%201968%20n.%201232%20recante%20provvedimenti%20urgenti%20in%20favore%20delle%20zone%20colpite%20dalle%20alluvioni%20dellautunno%201968.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 12 FEBBRAIO 1969, N. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-02-12;6)
-  
+### Art. 19.
 
-### Art. 16
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 12 FEBBRAIO 1969, N. 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20dicembre%201968%20n.%201232%20recante%20provvedimenti%20urgenti%20in%20favore%20delle%20zone%20colpite%20dalle%20alluvioni%20dellautunno%201968.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 12 FEBBRAIO 1969, N. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-02-12;6)
-  
+### Art. 20.
 
-### Art. 17
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 12 FEBBRAIO 1969, N. 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20dicembre%201968%20n.%201232%20recante%20provvedimenti%20urgenti%20in%20favore%20delle%20zone%20colpite%20dalle%20alluvioni%20dellautunno%201968.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 12 FEBBRAIO 1969, N. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-02-12;6)
-  
+### Art. 21.
 
-### Art. 18
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 12 FEBBRAIO 1969, N. 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20dicembre%201968%20n.%201232%20recante%20provvedimenti%20urgenti%20in%20favore%20delle%20zone%20colpite%20dalle%20alluvioni%20dellautunno%201968.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 12 FEBBRAIO 1969, N. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-02-12;6)
-  
+### Art. 22.
 
-### Art. 19
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 12 FEBBRAIO 1969, N. 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20dicembre%201968%20n.%201232%20recante%20provvedimenti%20urgenti%20in%20favore%20delle%20zone%20colpite%20dalle%20alluvioni%20dellautunno%201968.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 12 FEBBRAIO 1969, N. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-02-12;6)
-  
+### Art. 23.
 
-### Art. 20
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 12 FEBBRAIO 1969, N. 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20dicembre%201968%20n.%201232%20recante%20provvedimenti%20urgenti%20in%20favore%20delle%20zone%20colpite%20dalle%20alluvioni%20dellautunno%201968.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 12 FEBBRAIO 1969, N. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-02-12;6)
-  
+### Art. 24.
 
-### Art. 21
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 12 FEBBRAIO 1969, N. 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20dicembre%201968%20n.%201232%20recante%20provvedimenti%20urgenti%20in%20favore%20delle%20zone%20colpite%20dalle%20alluvioni%20dellautunno%201968.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 12 FEBBRAIO 1969, N. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-02-12;6)
-  
+### Art. 25.
 
-CAPO IV
--------
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 12 FEBBRAIO 1969, N. 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20dicembre%201968%20n.%201232%20recante%20provvedimenti%20urgenti%20in%20favore%20delle%20zone%20colpite%20dalle%20alluvioni%20dellautunno%201968.md)
 
-### Art. 22
+### Art. 26.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 12 FEBBRAIO 1969, N. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-02-12;6)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 12 FEBBRAIO 1969, N. 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20dicembre%201968%20n.%201232%20recante%20provvedimenti%20urgenti%20in%20favore%20delle%20zone%20colpite%20dalle%20alluvioni%20dellautunno%201968.md)
 
-### Art. 23
+### Art. 27.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 12 FEBBRAIO 1969, N. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-02-12;6)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 12 FEBBRAIO 1969, N. 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20dicembre%201968%20n.%201232%20recante%20provvedimenti%20urgenti%20in%20favore%20delle%20zone%20colpite%20dalle%20alluvioni%20dellautunno%201968.md)
 
-### Art. 24
+### Art. 28.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 12 FEBBRAIO 1969, N. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-02-12;6)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 12 FEBBRAIO 1969, N. 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20dicembre%201968%20n.%201232%20recante%20provvedimenti%20urgenti%20in%20favore%20delle%20zone%20colpite%20dalle%20alluvioni%20dellautunno%201968.md)
 
-CAPO V
-------
+### Art. 29.
 
-### Art. 25
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 12 FEBBRAIO 1969, N. 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20dicembre%201968%20n.%201232%20recante%20provvedimenti%20urgenti%20in%20favore%20delle%20zone%20colpite%20dalle%20alluvioni%20dellautunno%201968.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 12 FEBBRAIO 1969, N. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-02-12;6)
-  
+### Art. 30.
 
-### Art. 26
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 12 FEBBRAIO 1969, N. 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20dicembre%201968%20n.%201232%20recante%20provvedimenti%20urgenti%20in%20favore%20delle%20zone%20colpite%20dalle%20alluvioni%20dellautunno%201968.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 12 FEBBRAIO 1969, N. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-02-12;6)
-  
+### Art. 31.
 
-CAPO VI
--------
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 12 FEBBRAIO 1969, N. 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20dicembre%201968%20n.%201232%20recante%20provvedimenti%20urgenti%20in%20favore%20delle%20zone%20colpite%20dalle%20alluvioni%20dellautunno%201968.md)
 
-### Art. 27
+### Art. 32.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 12 FEBBRAIO 1969, N. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-02-12;6)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 12 FEBBRAIO 1969, N. 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20dicembre%201968%20n.%201232%20recante%20provvedimenti%20urgenti%20in%20favore%20delle%20zone%20colpite%20dalle%20alluvioni%20dellautunno%201968.md)
 
-### Art. 28
+### Art. 33.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 12 FEBBRAIO 1969, N. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-02-12;6)
-  
-
-### Art. 29
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 12 FEBBRAIO 1969, N. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-02-12;6)
-  
-
-### Art. 30
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 12 FEBBRAIO 1969, N. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-02-12;6)
-  
-
-### Art. 31
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 12 FEBBRAIO 1969, N. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-02-12;6)
-  
-
-### Art. 32
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 12 FEBBRAIO 1969, N. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-02-12;6)
-  
-
-### Art. 33
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 12 FEBBRAIO 1969, N. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-02-12;6)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 12 FEBBRAIO 1969, N. 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20dicembre%201968%20n.%201232%20recante%20provvedimenti%20urgenti%20in%20favore%20delle%20zone%20colpite%20dalle%20alluvioni%20dellautunno%201968.md)

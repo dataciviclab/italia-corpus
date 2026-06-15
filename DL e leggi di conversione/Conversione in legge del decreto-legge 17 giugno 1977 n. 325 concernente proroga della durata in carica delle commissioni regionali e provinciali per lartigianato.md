@@ -1,34 +1,25 @@
-LEGGE 08 agosto 1977 n. 525
-
-
-LEGGE 08 agosto 1977 n. 525
-===========================
-
-Conversione in legge del decreto-legge 17 giugno 1977, n. 325, concernente proroga della durata in carica delle commissioni regionali e provinciali per l'artigianato.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: LEGGE
+numero: 525
+data: 1977-08-08
+titolo: "Conversione in legge del decreto-legge 17 giugno 1977, n. 325, concernente proroga della durata in carica delle commissioni regionali e provinciali per l'artigianato."
+urn: urn:nir:stato:legge:1977-08-08;525
+codice_redazionale: 077U0525
+vigente: true
+---
 
 La Camera dei deputati ed il Senato della Repubblica hanno approvato;
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-PROMULGA
---------
+PROMULGA la seguente legge:
 
-la seguente legge:
+## Articolo unico
 
-Articolo unico
---------------
-
-  
-E' convertito in legge il [decreto-legge 17 giugno 1977, n. 325](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1977-06-17;325), concernente proroga della durata in carica delle commissioni regionali e provinciali per l'artigianato.  
-  
+E' convertito in legge il [decreto-legge 17 giugno 1977, n. 325](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1977-06-17;325), concernente proroga della durata in carica delle commissioni regionali e provinciali per l'artigianato.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data a Roma, addi' 8 agosto 1977
+Data a Roma, addi' 8 agosto 1977
 
-LEONE ANDREOTTI - DONAT-CATTIN
-
-Visto, il Guardasigilli: BONIFACIO
+LEONE ANDREOTTI - DONAT-CATTIN Visto, il Guardasigilli: BONIFACIO

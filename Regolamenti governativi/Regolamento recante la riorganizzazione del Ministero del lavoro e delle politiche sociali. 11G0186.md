@@ -1,97 +1,93 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 aprile 2011 n. 144
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 144
+data: 2011-04-07
+titolo: "Regolamento recante la riorganizzazione del Ministero del lavoro e delle politiche sociali. (11G0186)"
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2011-04-07;144
+codice_redazionale: 011G0186
+vigente: true
+---
 
+## Organizzazione del Ministero del lavoro e delle politiche sociali
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 aprile 2011 n. 144
-=============================================================
+Capo I
 
-Regolamento recante la riorganizzazione del Ministero del lavoro e delle politiche sociali. (11G0186)
------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del provvedimento: 09/09/2011
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 14 FEBBRAIO 2014, N. 121))
 
-CAPO I Capo I Organizzazione del Ministero del lavoro e delle politiche sociali
--------------------------------------------------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 14 FEBBRAIO 2014, N. 121))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 14 FEBBRAIO 2014, N. 121](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-14;121)))
+### Art. 3.
 
-### Art. 2
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 14 FEBBRAIO 2014, N. 121))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 14 FEBBRAIO 2014, N. 121](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-14;121)))
+### Art. 4.
 
-### Art. 3
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 14 FEBBRAIO 2014, N. 121))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 14 FEBBRAIO 2014, N. 121](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-14;121)))
+### Art. 5.
 
-### Art. 4
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 14 FEBBRAIO 2014, N. 121))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 14 FEBBRAIO 2014, N. 121](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-14;121)))
+### Art. 6.
 
-### Art. 5
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 14 FEBBRAIO 2014, N. 121))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 14 FEBBRAIO 2014, N. 121](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-14;121)))
+### Art. 7.
 
-### Art. 6
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 14 FEBBRAIO 2014, N. 121))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 14 FEBBRAIO 2014, N. 121](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-14;121)))
+### Art. 8.
 
-### Art. 7
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 14 FEBBRAIO 2014, N. 121))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 14 FEBBRAIO 2014, N. 121](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-14;121)))
+### Art. 9.
 
-### Art. 8
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 14 FEBBRAIO 2014, N. 121))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 14 FEBBRAIO 2014, N. 121](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-14;121)))
+### Art. 10.
 
-### Art. 9
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 14 FEBBRAIO 2014, N. 121))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 14 FEBBRAIO 2014, N. 121](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-14;121)))
+### Art. 11.
 
-### Art. 10
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 14 FEBBRAIO 2014, N. 121))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 14 FEBBRAIO 2014, N. 121](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-14;121)))
+### Art. 12.
 
-### Art. 11
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 14 FEBBRAIO 2014, N. 121))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 14 FEBBRAIO 2014, N. 121](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-14;121)))
+### Art. 13.
 
-### Art. 12
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 14 FEBBRAIO 2014, N. 121))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 14 FEBBRAIO 2014, N. 121](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-14;121)))
+## ARTICOLAZIONE TERRITORIALE DEL MINISTERO DEL LAVORO E DELLE POLITICHE  SOCIALI
 
-### Art. 13
+Capo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 14 FEBBRAIO 2014, N. 121](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-14;121)))
+### Art. 14.
 
-CAPO II Capo II ARTICOLAZIONE TERRITORIALE DEL MINISTERO DEL LAVORO E DELLE POLITICHE SOCIALI
----------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 14 FEBBRAIO 2014, N. 121))
 
-### Art. 14
+## DISPOSIZIONI IN MATERIA DI ORGANIZZAZIONE E DI PERSONALE
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 14 FEBBRAIO 2014, N. 121](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-14;121)))
+Capo III
 
-CAPO III Capo III DISPOSIZIONI IN MATERIA DI ORGANIZZAZIONE E DI PERSONALE
---------------------------------------------------------------------------
+### Art. 15.
 
-### Art. 15
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 14 FEBBRAIO 2014, N. 121))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 14 FEBBRAIO 2014, N. 121](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-14;121)))
+### Art. 16.
 
-### Art. 16
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 14 FEBBRAIO 2014, N. 121))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 14 FEBBRAIO 2014, N. 121](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-14;121)))
+## NORME DI ABROGAZIONE E FINALI
 
-CAPO IV Capo IV NORME DI ABROGAZIONE E FINALI
----------------------------------------------
+Capo IV
 
-### Art. 17
+### Art. 17.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 14 FEBBRAIO 2014, N. 121](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-14;121)))
-
-Tabella A
-
-Tabella A   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 14 FEBBRAIO 2014, N. 121](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-14;121)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 14 FEBBRAIO 2014, N. 121))

@@ -1,122 +1,103 @@
-DECRETO 08 giugno 1999 n. 235
-
-
-DECRETO 08 giugno 1999 n. 235
-=============================
-
-Modificazioni ed integrazioni al decreto ministeriale 21 luglio 1997, n. 245, concernente: "Regolamento recante norme in materia di accessi all'istruzione universitaria e di connesse attivita' di orientamento".
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 7/8/1999
+---
+tipo: DECRETO
+numero: 235
+data: 1999-06-08
+titolo: "Modificazioni ed integrazioni al decreto ministeriale 21 luglio 1997, n. 245, concernente: \"Regolamento recante norme in materia di accessi all'istruzione universitaria e di connesse attivita' di orientamento\"."
+urn: urn:nir:ministero.universita.e.ricerca.scientifica.e.tecnologica:decreto:1999-06-08;235
+codice_redazionale: 099G0311
+vigente: true
+---
 
 IL MINISTRO DELL'UNIVERSITA' E DELLA
-------------------------------------
 
 RICERCA SCIENTIFICA E TECNOLOGICA
 
-Vista la [legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), e in particolare l'articolo 17, comma 3;
+Vista la [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), e in particolare l'articolo 17, comma 3;
 
-Vista la [legge 19 novembre 1990, n. 341](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-19;341), e in particolare l'articolo 9, comma 4, come modificato dalla [legge 15 maggio 1997, n. 127, articolo 17, comma 116](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127~art17-com116);
+Vista la [legge 19 novembre 1990, n. 341](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-19;341), e in particolare l'articolo 9, comma 4, come modificato dalla [legge 15 maggio 1997, n. 127, articolo 17, comma 116](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_17-com116);
 
-Visto il regolamento recante norme in materia di accessi all'istruzione universitaria e di connesse attivita' di orientamento, adottato con [decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica del 21 luglio 1997, n. 245](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.universita.ricerca.scientifica.tecnologica:decreto:1997-07-21;245);
+Visto il regolamento recante norme in materia di accessi all'istruzione universitaria e di connesse attivita' di orientamento, adottato con [decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica del 21 luglio 1997, n. 245](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.universita.ricerca.scientifica.tecnologica:decreto:1997-07-21;245);
 
-Vista la [sentenza della Corte costituzionale n. 383 del 1998](https://e-justice.europa.eu/ecli/ECLI::::);
+Vista la sentenza della Corte costituzionale n. 383 del 1998;
 
 Viste le direttive della Unione europea (78/686/CEE del Consiglio del 25 luglio 1978; 78/687/CEE del Consiglio di pari data; 78/1026/CEE del Consiglio del 18 dicembre 1978; 78/1027/CEE del Consiglio di pari data; 85/384/CEE del Consiglio del 10 giugno 1985; 89/594/CEE del Consiglio del 30 ottobre 1989 e 93/16/CEE del Consiglio del 5 aprile 1993);
 
-Considerata l'esigenza di modificare il decreto n. 245 del 1997 alla luce dei principi indicati dalla Corte costituzionale nella citata [sentenza n. 383 del 1998](https://e-justice.europa.eu/ecli/ECLI::::), nonche' di adottare misure urgenti per l'anno accademico 1999-2000, nelle more dell'approvazione di appositi disegni di legge;
+Considerata l'esigenza di modificare il decreto n. 245 del 1997 alla luce dei principi indicati dalla Corte costituzionale nella citata sentenza n. 383 del 1998, nonche' di adottare misure urgenti per l'anno accademico 1999-2000, nelle more dell'approvazione di appositi disegni di legge;
 
 Visti i pareri del Consiglio universitario nazionale resi in data 23 aprile e 5 maggio 1999;
 
 Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva degli atti normativi nell'adunanza del 24 maggio 1999;
 
-Vista la comunicazione alla Presidenza del Consiglio dei Ministri, a norma dell'articolo 17, comma 3, della predetta [legge n. 400 del 1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400) (nota n. 1184/III.6/99 del 3 giugno 1999) cosi' come attestata dalla Presidenza del Consiglio dei Ministri, con nota del 7 giugno 1999, prot. n. 1/1.1.4/31890/4.23.35;
+Vista la comunicazione alla Presidenza del Consiglio dei Ministri, a norma dell'articolo 17, comma 3, della predetta [legge n. 400 del 1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400) (nota n. 1184/III.6/99 del 3 giugno 1999) cosi' come attestata dalla Presidenza del Consiglio dei Ministri, con nota del 7 giugno 1999, prot. n. 1/1.1.4/31890/4.23.35;
 
-Adotta
-------
+Adotta il seguente regolamento:
 
-il seguente regolamento:
+## Art. 1.
 
-Art. 1
-------
+1.
 
-1. Al regolamento recante misure in materia di accessi all'istruzione universitaria e di connesse attivita' di orientamento, emanato con [decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica in data 21 luglio 1997, n. 245](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.universita.ricerca.scientifica.tecnologica:decreto:1997-07-21;245), sono apportate le seguenti modificazioni e integrazioni:
+Al regolamento recante misure in materia di accessi all'istruzione universitaria e di connesse attivita' di orientamento, emanato con [decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica in data 21 luglio 1997, n. 245](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.universita.ricerca.scientifica.tecnologica:decreto:1997-07-21;245), sono apportate le seguenti modificazioni e integrazioni:
+                        a)
+                            all'articolo 4, comma 2, lettera a), le parole "fino all'anno accademico 2001-2002" sono soppresse;
+                        b)
+                            all'articolo 4, comma 2, lettera b), le parole "fino all'anno accademico 1999-2000" sono soppresse;
+                        c)
+                            all'articolo 4, comma 2, la lettera c) e' sostituita dalla seguente:
+ " c) corsi di laurea di nuova istituzione, in analogia con quanto previsto dall'[articolo 38 della legge 14 agosto 1982, n. 590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-14;590#art_38), e in conformita' al presente regolamento, per i sei anni successivi all'attivazione, fino alla data di entrata in vigore di ulteriori disposizioni legislative in materia di accessi ai corsi universitari";
+                        d)
+                            l'articolo 4, comma 4, e' sostituito dal seguente: "4. Per i corsi di cui al comma 2, lettere a) e b), per il corso di laurea in scienze della formazione primaria, a numero programmato ai sensi del comma 2, lettera c), nonche' per i corsi di specializzazione per l'insegnamento secondario di cui all'[articolo 4, comma 2, della legge 19 novembre 1990, n. 341](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-19;341#art_4-com2), il Ministro determina annualmente, con propri decreti, il numero dei posti a livello nazionale, nonche' dispone la ripartizione dei posti tra le universita'. Il decreto riguardante i corsi di cui al comma 2, lettera a), e' emanato sentito il Ministro della sanita'; i decreti riguardanti il corso di laurea in scienze della formazione primaria e i corsi di specializzazione per l'insegnamento secondario di cui al citato [articolo 4, comma 2, della legge n. 341 del 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;341#art_4-com2) sono emanati sentito il Ministro della pubblica istruzione. I decreti di cui al presente comma sono pubblicati nella Gazzetta Ufficiale. Per la programmazione dei posti relativi ai corsi di specializzazione in medicina e chirurgia restano ferme le disposizioni di cui al [decreto legislativo 8 agosto 1991, n. 257, articolo 2](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2082-76-CEE%20del%20Consiglio%20del%2026%20gennaio%201982%20recante%20modifica%20di%20precedenti%20direttive%20in%20tema%20di%20formazione%20dei%20medici%20specialisti%20a%20norma%20dellart.%206%20della%20le_efc51cd563b8.md). I posti relativi ai corsi di cui al comma 2, lettere c) e d) e ai corsi di specializzazione, con esclusione di quelli in medicina e chirurgia e di quelli per il corso di laurea in scienze della formazione primaria e per le scuole di specializzazione per l'insegnamento secondario, sono determinati dalle universita'; la predetta determinazione e' effettuata a partire dall'anno accademico 1998-1999, sulla base delle procedure e dei parametri di cui all'articolo 2, comma 1, lettera b). Dalla data di emanazione del decreto di cui al predetto articolo 2, comma 1, lettera b), sono abrogati i commi dal primo al quarto dell'[articolo 2 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](../DPR/Riordinamento%20delle%20scuole%20dirette%20a%20fini%20speciali%20delle%20scuole%20di%20specializzazione%20e%20dei%20corsi%20di%20perfezionamento.md).";
+                        e)
+                            all'articolo 4, i commi 3, 5 e 6, sono soppressi;
+                        f)
+                            all'articolo 5, il comma 1, e' sostituito dal seguente:
+ "1. In sede di prima applicazione i decreti di cui all'articolo 2, comma 1, lettera a), sono emanati entro il 28 febbraio 2002. Il rapporto di cui all'articolo 2, comma 2, e' redatto entro il 31 gennaio 2002";
+                        g)
+                            all'articolo 5, comma 2, il secondo periodo e' sostituito con il seguente: "Per gli anni accademici 1999-2000, 2000-2001, 2001-2002 le universita' accolgono domande di iscrizione anche non precedute dalla preiscrizione";
+                        h)
+                            all'articolo 5, comma 2, l'ultimo periodo e' soppresso;
+                        i)
+                            all'articolo 5, il comma 4 e' sostituito dal seguente:
+ "4. Per gli anni accademici 1997-1998, 1998-1999, 1999-2000 e 2000-2001 il Ministro determina, con propri decreti, le modalita' di svolgimento delle prove di ammissione per le immatricolazioni ai corsi di laurea ad accesso limitato di cui all'articolo 4, comma 2, lettere a), b) e c), nonche' ai corsi di specializzazione per l'insegnamento secondario".
 
-a) all'articolo 4, comma 2, lettera a), le parole "fino all'anno accademico 2001-2002" sono soppresse;
-
-b) all'articolo 4, comma 2, lettera b), le parole "fino all'anno accademico 1999-2000" sono soppresse;
-
-c) all'articolo 4, comma 2, la lettera c) e' sostituita dalla seguente:  
-" c) corsi di laurea di nuova istituzione, in analogia con quanto previsto dall'[articolo 38 della legge 14 agosto 1982, n. 590](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-14;590~art38), e in conformita' al presente regolamento, per i sei anni successivi all'attivazione, fino alla data di entrata in vigore di ulteriori disposizioni legislative in materia di accessi ai corsi universitari";
-
-d) l'articolo 4, comma 4, e' sostituito dal seguente: "4. Per i corsi di cui al comma 2, lettere a) e b), per il corso di laurea in scienze della formazione primaria, a numero programmato ai sensi del comma 2, lettera c), nonche' per i corsi di specializzazione per l'insegnamento secondario di cui all'[articolo 4, comma 2, della legge 19 novembre 1990, n. 341](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-19;341~art4-com2), il Ministro determina annualmente, con propri decreti, il numero dei posti a livello nazionale, nonche' dispone la ripartizione dei posti tra le universita'. Il decreto riguardante i corsi di cui al comma 2, lettera a), e' emanato sentito il Ministro della sanita'; i decreti riguardanti il corso di laurea in scienze della formazione primaria e i corsi di specializzazione per l'insegnamento secondario di cui al citato [articolo 4, comma 2, della legge n. 341 del 1990](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;341~art4-com2) sono emanati sentito il Ministro della pubblica istruzione. I decreti di cui al presente comma sono pubblicati nella Gazzetta Ufficiale. Per la programmazione dei posti relativi ai corsi di specializzazione in medicina e chirurgia restano ferme le disposizioni di cui al [decreto legislativo 8 agosto 1991, n. 257, articolo 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1991-08-08;257~art2). I posti relativi ai corsi di cui al comma 2, lettere c) e d) e ai corsi di specializzazione, con esclusione di quelli in medicina e chirurgia e di quelli per il corso di laurea in scienze della formazione primaria e per le scuole di specializzazione per l'insegnamento secondario, sono determinati dalle universita'; la predetta determinazione e' effettuata a partire dall'anno accademico 1998-1999, sulla base delle procedure e dei parametri di cui all'articolo 2, comma 1, lettera b). Dalla data di emanazione del decreto di cui al predetto articolo 2, comma 1, lettera b), sono abrogati i commi dal primo al quarto dell'[articolo 2 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art2).";
-
-e) all'articolo 4, i commi 3, 5 e 6, sono soppressi;
-
-f) all'articolo 5, il comma 1, e' sostituito dal seguente:  
-"1. In sede di prima applicazione i decreti di cui all'articolo 2, comma 1, lettera a), sono emanati entro il 28 febbraio 2002. Il rapporto di cui all'articolo 2, comma 2, e' redatto entro il 31 gennaio 2002";
-
-g) all'articolo 5, comma 2, il secondo periodo e' sostituito con il seguente: "Per gli anni accademici 1999-2000, 2000-2001, 2001-2002 le universita' accolgono domande di iscrizione anche non precedute dalla preiscrizione";
-
-h) all'articolo 5, comma 2, l'ultimo periodo e' soppresso;
-
-i) all'articolo 5, il comma 4 e' sostituito dal seguente:  
-"4. Per gli anni accademici 1997-1998, 1998-1999, 1999-2000 e 2000-2001 il Ministro determina, con propri decreti, le modalita' di svolgimento delle prove di ammissione per le immatricolazioni ai corsi di laurea ad accesso limitato di cui all'articolo 4, comma 2, lettere a), b) e c), nonche' ai corsi di specializzazione per l'insegnamento secondario".
+Note alle premesse:
+ - L'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), prevede:
+ "3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione".
+ - L'[art. 9, comma 4, della legge 19 novembre 1990, n. 341](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-19;341#art_9-com4) (Riforma degli ordinamenti didattici universitari), come modificato dall'[art. 17, comma 116, della legge 15 maggio 1997, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_17-com116), e' il seguente:
+ "4. Il Ministro dell'universita' e della ricerca scientifica e tecnologica definisce, su conforme parere del CUN, i criteri generali per la regolamentazione dell'accesso alle scuole di specializzazione ed ai corsi universitari, anche a quelli per i quali l'atto emanato dal Ministro preveda una limitazione nelle iscrizioni".
+ - Il titolo del [decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica n. 245 del 21 luglio 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.universita.ricerca.scientifica.tecnologica:decreto:1997-07-21;245) e' il seguente: "Regolamento recante norme in materia di accessi all'istruzione universitaria e di connesse attivita' di orientamento".
+ - La sentenza della Corte costituzionale n. 383 del 1998 e' pubblicata nella Gazzetta Ufficiale - 1 serie speciale - n. 48 del 2 dicembre 1998.
+ - La [direttiva 78/686/CEE del Consiglio del 25 luglio 1978](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1978;686), concerne: "Il reciproco riconoscimento dei diplomi, certificati ed altri titoli di dentista e comportante misure destinate ad agevolare l'esercizio effettivo del diritto di stabilimento e di libera prestazione dei servizi".
+ - La [direttiva 78/687/CEE del Consiglio del 25 luglio 1978](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1978;687), concerne: "Il coordinamento delle disposizioni legislative, regolamentari e amministrative per le attivita' di dentista".
+ - La [direttiva 78/1026/CEE del Consiglio del 18 dicembre 1978](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1978;1026), concerne: "Il reciproco riconoscimento dei diplomi, certificati ed altri titoli di veterinario e comportante misure destinate ad agevolare l'esercizio effettivo del diritto di stabilimento e di libera prestazione dei servizi".
+ - La [direttiva 78/1027/CEE del Consiglio del 18 dicembre 1978](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1978;1027), concerne: "Il coordinamento delle disposizioni legislative, regolamentari ed amministrative per le attivita' di veterinario".
+ - La [direttiva 85/384/CEE del Consiglio del 10 giugno 1985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1985;384), concerne: "Il reciproco riconoscimento dei diplomi, certificati ed altri titoli del settore dell'architettura e comportante misure destinate ad agevolare l'esercizio effettivo del diritto di stabilimento e di libera prestazione di servizi".
+ - La [direttiva 89/594/CEE del Consiglio del 30 ottobre 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;594): "Modifica le [direttive 75/362/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1975;362), [77/452/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1977;452), [78/686/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1978;686), [78/1026/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1978;1026) e [80/154/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1980;154), concernenti il riconoscimento reciproco dei diplomi, certificati ed altri titoli rispettivamente di medico, infermiere responsabile dell'assistenza generale, dentista, veterinario ed ostetrica, nonche' le [direttive 75/363/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1975;363), [78/1027/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1978;1027) e [80/155/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1980;155), concernenti il coordinamento delle disposizioni legislative, regolamentari e amministrative per le attivita' rispettivamente di medico, veterinario ed ostetrica".
+ - La [direttiva 93/16/CEE del Consiglio del 5 aprile 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;16), concerne: "L'agevolazione della libera circolazione dei medici e il reciproco riconoscimento dei loro diplomi, certificati ed altri titoli".
+ Nota all'art. 1:
+ - Il testo vigente degli [articoli 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.universita.ricerca.scientifica.tecnologica:decreto:1997-07-21;245#art_4) e [5 del decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica n. 245 del 21 luglio 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.universita.ricerca.scientifica.tecnologica:decreto:1997-07-21;245#art_5), come modificato dal regolamento qui pubblicato, e' il seguente:
+ "Art. 4. - 1. In attesa delle norme di attuazione dell'autonomia didattica degli atenei, di cui alla [legge 15 maggio 1997, n. 127, art. 17, comma 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_17-com95), costituiscono criteri generali da valutarsi per le determinazioni di limitazione degli accessi all'istruzione universitaria:
+ a) la sussistenza di requisiti qualitativi necessari per lo svolgimento dei corsi, connessi alla disponibilita' di strutture, attrezzature e docenti, con particolare riferimento alla normativa comunitaria vigente e alle raccomandazioni dell'Unione europea in tema di standard formativi e di accesso alle professioni, nonche' alla necessita' di attivita' teoricopratiche;
+ b) il verificarsi di una documentata impossibilita' di inizio o prosecuzione di corsi universitari a causa di eccezionali carenze di strutture, attrezzature e docenti;
+ c) l'obbligo di tirocinio previsto da specifici ordinamenti didattici;
+ d) il carattere specialistico e direttamente professionalizzante di determinati corsi;
+ e) le esigenze connesse alla fase di avvio di nuovi corsi e alla sperimentazione di corsi a carattere innovativo, finalizzati all'ampliamento dell'offerta formativa.
+ 2. In applicazione dei criteri di cui al comma 1, e' limitato l'accesso ai seguenti corsi universitari:
+ a) corsi di diploma e di laurea afferenti alle facolta' di medicina e chirurgia e veterinaria;
+ b) corsi di diploma e di laurea afferenti alle facolta' di architettura;
+ c) corsi di laurea di nuova istituzione, in analogia con quanto previsto dall'[art. 38 della legge 14 agosto 1982, n. 590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-14;590#art_38), e in conformita' al presente regolamento, per i sei anni successivi all'attivazione, fino alla data di entrata in vigore di ulteriori disposizioni legislative in materia di accessi ai corsi universitari;
+ d) corsi di diploma universitario il cui ordinamento didattico prevede l'obbligo di tirocinio;
+ e) corsi di specializzazione.
+ 3. (Soppresso).
+ 4. Per i corsi di cui al comma 2, lettere a) e b), per il corso di laurea in scienze della formazione primaria, a numero programmato ai sensi del comma 2, lettera c), nonche' per i corsi di specializzazione per l'insegnamento secondario di cui all'[articolo 4, comma 2, della legge 19 novembre 1990, n. 341](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-19;341#art_4-com2), il Ministro determina annualmente, con propri decreti, il numero dei posti a livello nazionale, nonche' dispone la ripartizione dei posti tra le universita'. Il decreto riguardante i corsi di cui al comma 2, lettera a), e' emanato sentito il Ministro della sanita'; i decreti riguardanti il corso di laurea in scienze della formazione primaria e i corsi di specializzazione per l'insegnamento secondario di cui al citato [art. 4, comma 2, della legge n. 341 del 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;341#art_4-com2) sono emanati sentito il Ministro della pubblica istruzione. I decreti di cui al presente comma sono pubblicati nella Gazzetta Ufficiale. Per la programmazione dei posti relativi ai corsi di specializzazione in medicina e chirurgia restano ferme le disposizioni di cui al [decreto legislativo 8 agosto 1991, n. 257, art. 2](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2082-76-CEE%20del%20Consiglio%20del%2026%20gennaio%201982%20recante%20modifica%20di%20precedenti%20direttive%20in%20tema%20di%20formazione%20dei%20medici%20specialisti%20a%20norma%20dellart.%206%20della%20le_efc51cd563b8.md). I posti relativi ai corsi di cui al comma 2, lettere c) e d) e ai corsi di specializzazione, con esclusione di quelli in medicina e chirurgia e di quelli per il corso di laurea in scienze della formazione primaria e per le scuole di specializzazione per l'insegnamento secondario, sono determinati dalle universita'; la predetta determinazione e' effettuata a partire dall'anno accademico 1998-1999, sulla base delle procedure e dei parametri di cui all'art. 2, comma 1, lettera b). Dalla data di emanazione del decreto di cui al predetto art. 2, comma 1, lettera b) sono abrogati i commi dal primo al quarto dell'[art. 2 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](../DPR/Riordinamento%20delle%20scuole%20dirette%20a%20fini%20speciali%20delle%20scuole%20di%20specializzazione%20e%20dei%20corsi%20di%20perfezionamento.md).
+ 5-6. (Soppresso).
+ 7. Per l'ammissione ai corsi di diploma universitario ad accesso limitato le universita' definiscono e organizzano apposite prove selettive, garantendo condizioni di pubblicita' e di trasparenza".
+ "Art. 5. - 1. In sede di prima applicazione i decreti di cui all'art. 2, comma 1, lettera a), sono emanati entro il 28 febbraio 2002. Il rapporto di cui all'art. 2, comma 2, e' redatto entro il 31 gennaio 2002.
+ 2. In applicazione dell'art. 3, comma 1, l'obbligo della preiscrizione opera dal 30 novembre 1998. Per gli anni accademici 1999-2000, 2000-2001, 2001-2002, le universita' accolgono domande di iscrizione anche non precedute dalla preiscrizione. Qualora alla data di entrata in vigore del presente regolamento non risulti ancora insediato il Consiglio nazionale degli studenti universitari, si prescinde dal parere del Consiglio per la definizione dei criteri di cui all'art. 3, comma 1, nonche' per le determinazioni del Ministro di cui all'art. 4, comma 3.
+ 3. Le universita' possono avviare dall'anno accademico 1997-1998 sperimentazioni concernenti l'attuazione di specifiche disposizioni del presente regolamento, dandone comunicazione al Dipartimento.
+ 4. Per gli anni accademici 1997-1998, 1998-1999, 1999-2000 e 2000-2001 il Ministro determina, con propri decreti, le modalita' di svolgimento delle prove di ammissione per le immatricolazioni ai corsi di laurea ad accesso limitato di cui all'art. 4, comma 2, lettere a), b) e c) , nonche' ai corsi di specializzazione per l'insegnamento secondario".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 8 giugno 1999
+Roma, 8 giugno 1999
 
-Il Ministro: Zecchino
-
-Visto, il Guardasigilli: Diliberto Registrato alla Corte dei conti il 15 luglio 1999
-
-Registro n. 1 Universita' e ricerca scientifica e tecnologica, foglio n. 179 Avvertenza: Il testo delle note qui pubblicato e' stato
-
-redatto dall'amministrazione competente per materia, ai
-
-sensi dell'art. 10, commi 2 e 3, del testo unico delle
-
-disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica
-
-italiana, approvato con D.P.R. 28 dicembre 1985, n.
-
-1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
-
-Note alle premesse:  
-- L'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), prevede:  
-"3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione".  
-- L'[art. 9, comma 4, della legge 19 novembre 1990, n. 341](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-19;341~art9-com4) (Riforma degli ordinamenti didattici universitari), come modificato dall'[art. 17, comma 116, della legge 15 maggio 1997, n. 127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127~art17-com116), e' il seguente:  
-"4. Il Ministro dell'universita' e della ricerca scientifica e tecnologica definisce, su conforme parere del CUN, i criteri generali per la regolamentazione dell'accesso alle scuole di specializzazione ed ai corsi universitari, anche a quelli per i quali l'atto emanato dal Ministro preveda una limitazione nelle iscrizioni".  
-- Il titolo del [decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica n. 245 del 21 luglio 1997](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.universita.ricerca.scientifica.tecnologica:decreto:1997-07-21;245) e' il seguente: "Regolamento recante norme in materia di accessi all'istruzione universitaria e di connesse attivita' di orientamento".  
-- La [sentenza della Corte costituzionale n. 383 del 1998](https://e-justice.europa.eu/ecli/ECLI::::) e' pubblicata nella Gazzetta Ufficiale - 1 serie speciale - n. 48 del 2 dicembre 1998.  
-- La [direttiva 78/686/CEE del Consiglio del 25 luglio 1978](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31978L0686), concerne: "Il reciproco riconoscimento dei diplomi, certificati ed altri titoli di dentista e comportante misure destinate ad agevolare l'esercizio effettivo del diritto di stabilimento e di libera prestazione dei servizi".  
-- La [direttiva 78/687/CEE del Consiglio del 25 luglio 1978](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31978L0687), concerne: "Il coordinamento delle disposizioni legislative, regolamentari e amministrative per le attivita' di dentista".  
-- La [direttiva 78/1026/CEE del Consiglio del 18 dicembre 1978](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31978L1026), concerne: "Il reciproco riconoscimento dei diplomi, certificati ed altri titoli di veterinario e comportante misure destinate ad agevolare l'esercizio effettivo del diritto di stabilimento e di libera prestazione dei servizi".  
-- La [direttiva 78/1027/CEE del Consiglio del 18 dicembre 1978](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31978L1027), concerne: "Il coordinamento delle disposizioni legislative, regolamentari ed amministrative per le attivita' di veterinario".  
-- La [direttiva 85/384/CEE del Consiglio del 10 giugno 1985](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31985L0384), concerne: "Il reciproco riconoscimento dei diplomi, certificati ed altri titoli del settore dell'architettura e comportante misure destinate ad agevolare l'esercizio effettivo del diritto di stabilimento e di libera prestazione di servizi".  
-- La [direttiva 89/594/CEE del Consiglio del 30 ottobre 1989](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31989L0594): "Modifica le [direttive 75/362/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31975L0362), [77/452/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31977L0452), [78/686/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31978L0686), [78/1026/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31978L1026) e [80/154/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31980L0154), concernenti il riconoscimento reciproco dei diplomi, certificati ed altri titoli rispettivamente di medico, infermiere responsabile dell'assistenza generale, dentista, veterinario ed ostetrica, nonche' le [direttive 75/363/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31975L0363), [78/1027/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31978L1027) e [80/155/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31980L0155), concernenti il coordinamento delle disposizioni legislative, regolamentari e amministrative per le attivita' rispettivamente di medico, veterinario ed ostetrica".  
-- La [direttiva 93/16/CEE del Consiglio del 5 aprile 1993](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31993L0016), concerne: "L'agevolazione della libera circolazione dei medici e il reciproco riconoscimento dei loro diplomi, certificati ed altri titoli".  
-Nota all'art. 1:  
-- Il testo vigente degli [articoli 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.universita.ricerca.scientifica.tecnologica:decreto:1997-07-21;245~art4) e [5 del decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica n. 245 del 21 luglio 1997](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.universita.ricerca.scientifica.tecnologica:decreto:1997-07-21;245~art5), come modificato dal regolamento qui pubblicato, e' il seguente:  
-"Art. 4. - 1. In attesa delle norme di attuazione dell'autonomia didattica degli atenei, di cui alla [legge 15 maggio 1997, n. 127, art. 17, comma 95](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127~art17-com95), costituiscono criteri generali da valutarsi per le determinazioni di limitazione degli accessi all'istruzione universitaria:  
-a) la sussistenza di requisiti qualitativi necessari per lo svolgimento dei corsi, connessi alla disponibilita' di strutture, attrezzature e docenti, con particolare riferimento alla normativa comunitaria vigente e alle raccomandazioni dell'Unione europea in tema di standard formativi e di accesso alle professioni, nonche' alla necessita' di attivita' teoricopratiche;  
-b) il verificarsi di una documentata impossibilita' di inizio o prosecuzione di corsi universitari a causa di eccezionali carenze di strutture, attrezzature e docenti;  
-c) l'obbligo di tirocinio previsto da specifici ordinamenti didattici;  
-d) il carattere specialistico e direttamente professionalizzante di determinati corsi;  
-e) le esigenze connesse alla fase di avvio di nuovi corsi e alla sperimentazione di corsi a carattere innovativo, finalizzati all'ampliamento dell'offerta formativa.  
-2. In applicazione dei criteri di cui al comma 1, e' limitato l'accesso ai seguenti corsi universitari:  
-a) corsi di diploma e di laurea afferenti alle facolta' di medicina e chirurgia e veterinaria;  
-b) corsi di diploma e di laurea afferenti alle facolta' di architettura;  
-c) corsi di laurea di nuova istituzione, in analogia con quanto previsto dall'[art. 38 della legge 14 agosto 1982, n. 590](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-14;590~art38), e in conformita' al presente regolamento, per i sei anni successivi all'attivazione, fino alla data di entrata in vigore di ulteriori disposizioni legislative in materia di accessi ai corsi universitari;  
-d) corsi di diploma universitario il cui ordinamento didattico prevede l'obbligo di tirocinio;  
-e) corsi di specializzazione.  
-3. (Soppresso).  
-4. Per i corsi di cui al comma 2, lettere a) e b), per il corso di laurea in scienze della formazione primaria, a numero programmato ai sensi del comma 2, lettera c), nonche' per i corsi di specializzazione per l'insegnamento secondario di cui all'[articolo 4, comma 2, della legge 19 novembre 1990, n. 341](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-19;341~art4-com2), il Ministro determina annualmente, con propri decreti, il numero dei posti a livello nazionale, nonche' dispone la ripartizione dei posti tra le universita'. Il decreto riguardante i corsi di cui al comma 2, lettera a), e' emanato sentito il Ministro della sanita'; i decreti riguardanti il corso di laurea in scienze della formazione primaria e i corsi di specializzazione per l'insegnamento secondario di cui al citato [art. 4, comma 2, della legge n. 341 del 1990](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;341~art4-com2) sono emanati sentito il Ministro della pubblica istruzione. I decreti di cui al presente comma sono pubblicati nella Gazzetta Ufficiale. Per la programmazione dei posti relativi ai corsi di specializzazione in medicina e chirurgia restano ferme le disposizioni di cui al [decreto legislativo 8 agosto 1991, n. 257, art. 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1991-08-08;257~art2). I posti relativi ai corsi di cui al comma 2, lettere c) e d) e ai corsi di specializzazione, con esclusione di quelli in medicina e chirurgia e di quelli per il corso di laurea in scienze della formazione primaria e per le scuole di specializzazione per l'insegnamento secondario, sono determinati dalle universita'; la predetta determinazione e' effettuata a partire dall'anno accademico 1998-1999, sulla base delle procedure e dei parametri di cui all'art. 2, comma 1, lettera b). Dalla data di emanazione del decreto di cui al predetto art. 2, comma 1, lettera b) sono abrogati i commi dal primo al quarto dell'[art. 2 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art2).  
-5-6. (Soppresso).  
-7. Per l'ammissione ai corsi di diploma universitario ad accesso limitato le universita' definiscono e organizzano apposite prove selettive, garantendo condizioni di pubblicita' e di trasparenza".  
-"Art. 5. - 1. In sede di prima applicazione i decreti di cui all'art. 2, comma 1, lettera a), sono emanati entro il 28 febbraio 2002. Il rapporto di cui all'art. 2, comma 2, e' redatto entro il 31 gennaio 2002.  
-2. In applicazione dell'art. 3, comma 1, l'obbligo della preiscrizione opera dal 30 novembre 1998. Per gli anni accademici 1999-2000, 2000-2001, 2001-2002, le universita' accolgono domande di iscrizione anche non precedute dalla preiscrizione. Qualora alla data di entrata in vigore del presente regolamento non risulti ancora insediato il Consiglio nazionale degli studenti universitari, si prescinde dal parere del Consiglio per la definizione dei criteri di cui all'art. 3, comma 1, nonche' per le determinazioni del Ministro di cui all'art. 4, comma 3.  
-3. Le universita' possono avviare dall'anno accademico 1997-1998 sperimentazioni concernenti l'attuazione di specifiche disposizioni del presente regolamento, dandone comunicazione al Dipartimento.  
-4. Per gli anni accademici 1997-1998, 1998-1999, 1999-2000 e 2000-2001 il Ministro determina, con propri decreti, le modalita' di svolgimento delle prove di ammissione per le immatricolazioni ai corsi di laurea ad accesso limitato di cui all'art. 4, comma 2, lettere a), b) e c) , nonche' ai corsi di specializzazione per l'insegnamento secondario".
+Il Ministro: Zecchino Visto, il Guardasigilli: Diliberto Registrato alla Corte dei conti il 15 luglio 1999 Registro n. 1 Universita' e ricerca scientifica e tecnologica, foglio n. 179 Avvertenza: Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.

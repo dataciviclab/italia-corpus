@@ -1,80 +1,65 @@
-DECRETO-LEGGE 21 ottobre 1978 n. 642
+---
+tipo: DECRETO-LEGGE
+numero: 642
+data: 1978-10-21
+titolo: "Provvedimento di transizione sul personale universitario."
+urn: urn:nir:stato:decreto.legge:1978-10-21;642
+codice_redazionale: 078U0642
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 21 ottobre 1978 n. 642
-====================================
+DECRETO DECADUTO
 
-Provvedimento di transizione sul personale universitario.
----------------------------------------------------------
+## Art. 2.
 
-Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 3
-------
+## Art. 5.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 4
-------
+## Art. 6.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 5
-------
+## Art. 7.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 6
-------
+## Art. 8.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 7
-------
+## Art. 9.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 8
-------
+## Art. 10.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 9
-------
+## Art. 11.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 10
--------
+## Art. 12.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 11
--------
+## Art. 13.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 12
--------
+## Art. 14.
 
- DECRETO DECADUTO  
-
-Art. 13
--------
-
- DECRETO DECADUTO  
-
-Art. 14
--------
-
- DECRETO DECADUTO  
+DECRETO DECADUTO

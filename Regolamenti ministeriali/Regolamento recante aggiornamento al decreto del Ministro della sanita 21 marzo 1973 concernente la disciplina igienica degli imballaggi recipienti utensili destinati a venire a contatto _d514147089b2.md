@@ -1,26 +1,24 @@
-DECRETO 07 febbraio 2019 n. 30
-
-
-DECRETO 07 febbraio 2019 n. 30
-==============================
-
-Regolamento recante aggiornamento al decreto del Ministro della sanita' 21 marzo 1973, concernente la disciplina igienica degli imballaggi, recipienti, utensili destinati a venire a contatto con le sostanze alimentari o con sostanze d'uso personale. (19G00037)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/04/2019
+---
+tipo: DECRETO
+numero: 30
+data: 2019-02-07
+titolo: "Regolamento recante aggiornamento al decreto del Ministro della sanita' 21 marzo 1973, concernente la disciplina igienica degli imballaggi, recipienti, utensili destinati a venire a contatto con le sostanze alimentari o con sostanze d'uso personale. (19G00037)"
+urn: urn:nir:ministero.salute:decreto:2019-02-07;30
+codice_redazionale: 19G00037
+vigente: true
+---
 
 IL MINISTRO DELLA SALUTE
-------------------------
 
-Vista la [legge 30 aprile 1962, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), concernente la disciplina igienica della produzione e della vendita delle sostanze alimentari e delle bevande;
+Vista la [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), concernente la disciplina igienica della produzione e della vendita delle sostanze alimentari e delle bevande;
 
-Visto l'[articolo 3 del decreto del Presidente della Repubblica 23 agosto 1982, n. 777](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-08-23;777~art3), come modificato dall'[articolo 3 del decreto legislativo 25 gennaio 1992, n. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-25;108~art3);
+Visto l'[articolo 3 del decreto del Presidente della Repubblica 23 agosto 1982, n. 777](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-893%20relativa%20ai%20materiali%20e%20agli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md), come modificato dall'[articolo 3 del decreto legislativo 25 gennaio 1992, n. 108](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-109-CEE%20concernente%20i%20materiali%20e%20gli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md);
 
 Visto il decreto del Ministro della sanita' 21 marzo 1973 e successive modificazioni, concernente la disciplina igienica degli imballaggi, recipienti, utensili destinati a venire in contatto con le sostanze alimentari o con sostanze d'uso personale e, in particolare, l'articolo 9, comma 9, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 20 aprile 1973, n. 104;
 
-Visto il [regolamento n. 1935/2004/CE del Parlamento europeo e del Consiglio del 27 ottobre 2004](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31935R2004), riguardante i materiali e gli oggetti destinati a venire a contatto con i prodotti alimentari e che abroga le [direttive 80/590/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31980L0590) e [89/109/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31989L0109);
+Visto il regolamento n. 1935/2004/CE del Parlamento europeo e del Consiglio del 27 ottobre 2004, riguardante i materiali e gli oggetti destinati a venire a contatto con i prodotti alimentari e che abroga le [direttive 80/590/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1980;590) e [89/109/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;109);
 
-Visto il [regolamento (CE) n. 2023/2006 della Commissione del 22 dicembre 2006](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32006R2023), sulle buone pratiche di fabbricazione dei materiali e degli oggetti destinati a venire a contatto con prodotti alimentari;
+Visto il regolamento (CE) n. 2023/2006 della Commissione del 22 dicembre 2006, sulle buone pratiche di fabbricazione dei materiali e degli oggetti destinati a venire a contatto con prodotti alimentari;
 
 Vista la richiesta volta a consentire l'impiego di una nuova sostanza nella produzione di rivestimenti superficiali su metalli presentata da un'azienda interessata;
 
@@ -28,76 +26,62 @@ Visti i pareri espressi dall'Istituto superiore di sanita' in data 9 ottobre 201
 
 Ritenuto di dover provvedere all'aggiornamento del predetto decreto del Ministro della sanita' 21 marzo 1973;
 
-Visto l'[articolo 17, commi 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3) e [4, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com4) recante disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri;
+Visto l'[articolo 17, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) e [4, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4) recante disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri;
 
 Acquisito il parere del Consiglio superiore di sanita' che si e' espresso nella seduta del 13 settembre 2016;
 
-Preso atto della comunicazione alla Commissione dell'Unione europea, effettuata in data 22 settembre 2016, ai sensi della [direttiva 2015/1535/UE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32015L1535);
+Preso atto della comunicazione alla Commissione dell'Unione europea, effettuata in data 22 settembre 2016, ai sensi della [direttiva 2015/1535/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2015;1535);
 
-Udito il [parere del Consiglio di Stato, Sezione consultiva per gli atti normativi, espresso nell'adunanza del 7 dicembre 2017](https://e-justice.europa.eu/ecli/ECLI::::);
+Udito il parere del Consiglio di Stato, Sezione consultiva per gli atti normativi, espresso nell'adunanza del 7 dicembre 2017;
 
-Vista la comunicazione alla Presidenza del Consiglio dei ministri, ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3), effettuata in data 3 maggio 2018;
+Vista la comunicazione alla Presidenza del Consiglio dei ministri, ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), effettuata in data 3 maggio 2018;
 
-Adotta
-------
+Adotta il seguente regolamento:
 
-il seguente regolamento:
+## Art. 1. — Inserimento di una nuova sostanza
 
-Art. 1
-------
+1.
 
-Inserimento di una nuova sostanza
+All'allegato II, sezione 1: «Materie plastiche, parte A - Resine» del decreto del Ministro della sanita' 21 marzo 1973 e successive modificazioni, e' aggiunta la seguente voce:
 
-1. All'allegato II, sezione 1: «Materie plastiche, parte A - Resine» del decreto del Ministro della sanita' 21 marzo 1973 e successive modificazioni, e' aggiunta la seguente voce:   
-  
+Condizioni, limitazioni e tolleranze d'impiego
+                            N,N,N',N'-tetrachis (2-idrossipropil)-adipammide
+                                per la produzione di dispersioni polimeriche di poliolefine funzionalizzate con gruppi acrilici e/o anidridi, utilizzate come rivestimenti su metalli, alla percentuale di impiego massima del 6% rispetto al peso secco della dispersione. Per tutti i tipi di alimenti, in condizioni di contatto di sterilizzazione e/o pastorizzazione seguite da conservazione prolungata a temperatura ambiente o inferiore
 
-|  |  |
-| --- | --- |
-|  | Condizioni, limitazioni e tolleranze d'impiego |
-| N,N,N',N'-tetrachis (2-idrossipropil)-adipammide | per la produzione di dispersioni polimeriche di poliolefine funzionalizzate con gruppi acrilici e/o anidridi, utilizzate come rivestimenti su metalli, alla percentuale di impiego massima del 6% rispetto al peso secco della dispersione. Per tutti i tipi di alimenti, in condizioni di contatto di sterilizzazione e/o pastorizzazione seguite da conservazione prolungata a temperatura ambiente o inferiore |
+N O T E 
+ 
+ Avvertenza: 
+ 
+ - Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ - Per i provvedimenti comunitari vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale dell'Unione Europea (GUUE). 
+ 
+ Note alle premesse: 
+ 
+ - Il regolamento CE n.1935/2004 del Parlamento europeo e del Consiglio del 27 ottobre 2004 riguardante i materiali e gli oggetti destinati a venire a contatto con i prodotti alimentari e che abroga le [direttive 80/590/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1980;590) e [89/109/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;109) e' stato pubblicato nella GUUE serie [L n. 338 del 13 novembre 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-11-13;338). 
+ - Il regolamento (CE) n. 2023/2006 della Commissione, del 22 dicembre 2006, sulle buone pratiche di fabbricazione dei materiali e degli oggetti destinati a venire a contatto con prodotti alimentari e' stato pubblicato nella GUUE serie [L n. 384 del 29 dicembre 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-29;384). 
+ - La [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283) (Modifica degli [artt. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_242), [243](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_243), [247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_247), [250](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_250) e [262 del T.U. delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_262) approvato con [R.D. 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) recante «Disciplina igienica della produzione e della vendita delle sostanze alimentari e delle bevande») e' stata pubblicata nella Gazzetta Ufficiale n. 139 del 4 giugno 1962. 
+ - Il testo dell'[art. 3 del decreto del Presidente della Repubblica 23 agosto 1982, n. 777](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-893%20relativa%20ai%20materiali%20e%20agli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md) (Attuazione della [direttiva CEE n. 76/893](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1976;893) relativa ai materiali ed agli oggetti destinati a venire a contatto con i prodotti alimentari), cosi' come modificato dall'[art. 3 del decreto legislativo 25 gennaio 1992, n. 108](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-109-CEE%20concernente%20i%20materiali%20e%20gli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md) (Attuazione della [direttiva 89/109/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;109) concernente i materiali e gli oggetti destinati a venire a contatto con i prodotti alimentari), e' il seguente: 
+ «Art. 3. - 1. Con decreti del Ministro della sanita', sentito il Consiglio superiore di sanita', sono indicati per i materiali e gli oggetti, destinati a venire a contatto con le sostanze alimentari, di cui all'allegato I, da soli o in combinazione tra loro, i componenti consentiti nella loro produzione, e, ove occorrano, i requisiti di purezza e le prove di cessione alle quali i materiali e gli oggetti debbono essere sottoposti per determinare l'idoneita' all'uso cui sono destinati nonche' le limitazioni, le tolleranze e le condizioni di impiego sia per i limiti di contaminazione degli alimenti che per gli eventuali pericoli risultanti dal contatto orale. 
+ 2. Per i materiali e gli oggetti di materia plastica, di gomma, di cellulosa rigenerata, di carta, di cartone, di vetro, di acciaio inossidabile, di banda stagnata, di ceramica e di banda cromata valgono le disposizioni contenute nei decreti ministeriali 21 marzo 1973, 3 agosto 1974, 13 settembre 1975, 18 giugno 1979, 2 dicembre 1980, 25 giugno 1981, 18 febbraio 1984, 4 aprile 1985 e [1° giugno 1988, n. 243](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1988-06-01;243). 
+ 3. Il Ministro della sanita', sentito il Consiglio superiore di sanita', procede all'aggiornamento e alle modifiche da apportare ai decreti di cui ai commi 1 e 2. 
+ 4. Chiunque impieghi nella produzione materiali o oggetti destinati, da soli o in combinazione tra loro, a venire a contatto con le sostanze alimentari, in difformita' da quanto stabilito nei decreti di cui ai commi 1 e 2, e' punito per cio' solo con l'arresto sino a tre mesi o con l'ammenda da lire cinquemilioni a lire quindicimilioni.». 
+ - Il testo dell'[art.17, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) e [4, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri), e' il seguente: 
+ «3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.
+ I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. 
+ 4. I regolamenti di cui al comma 1 ed i regolamenti ministeriali ed interministeriali, che devono recare la denominazione di «regolamento», sono adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.». 
+ 
+ Note all'art. 1: 
+ 
+ - Il decreto ministeriale 21 marzo 1973, modificato dal presente decreto, e' pubblicato nella Gazzetta Ufficiale 20 aprile 1973, n. 104, S.O.
 
-N O T E   
-  
-Avvertenza:   
-  
-- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.   
-- Per i provvedimenti comunitari vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale dell'Unione Europea (GUUE).   
-  
-Note alle premesse:   
-  
-- Il [regolamento CE n.1935/2004 del Parlamento europeo e del Consiglio del 27 ottobre 2004](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32004R1935) riguardante i materiali e gli oggetti destinati a venire a contatto con i prodotti alimentari e che abroga le [direttive 80/590/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31980L0590) e [89/109/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31989L0109) e' stato pubblicato nella GUUE serie [L n. 338 del 13 novembre 2004](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-11-13;338).   
-- Il [regolamento (CE) n. 2023/2006 della Commissione, del 22 dicembre 2006](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32006R2023), sulle buone pratiche di fabbricazione dei materiali e degli oggetti destinati a venire a contatto con prodotti alimentari e' stato pubblicato nella GUUE serie [L n. 384 del 29 dicembre 2006](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-29;384).   
-- La [legge 30 aprile 1962, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283) (Modifica degli [artt. 242](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265~art242), [243](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265~art243), [247](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265~art247), [250](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265~art250) e [262 del T.U. delle leggi sanitarie](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265~art262) approvato con [R.D. 27 luglio 1934, n. 1265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) recante «Disciplina igienica della produzione e della vendita delle sostanze alimentari e delle bevande») e' stata [pubblicata nella Gazzetta Ufficiale n. 139 del 4 giugno 1962](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1962-06-04&numeroGazzetta=139).   
-- Il testo dell'[art. 3 del decreto del Presidente della Repubblica 23 agosto 1982, n. 777](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-08-23;777~art3) (Attuazione della [direttiva CEE n. 76/893](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31976L0893) relativa ai materiali ed agli oggetti destinati a venire a contatto con i prodotti alimentari), cosi' come modificato dall'[art. 3 del decreto legislativo 25 gennaio 1992, n. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-25;108~art3) (Attuazione della [direttiva 89/109/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31989L0109) concernente i materiali e gli oggetti destinati a venire a contatto con i prodotti alimentari), e' il seguente:   
-«Art. 3. - 1. Con decreti del Ministro della sanita', sentito il Consiglio superiore di sanita', sono indicati per i materiali e gli oggetti, destinati a venire a contatto con le sostanze alimentari, di cui all'allegato I, da soli o in combinazione tra loro, i componenti consentiti nella loro produzione, e, ove occorrano, i requisiti di purezza e le prove di cessione alle quali i materiali e gli oggetti debbono essere sottoposti per determinare l'idoneita' all'uso cui sono destinati nonche' le limitazioni, le tolleranze e le condizioni di impiego sia per i limiti di contaminazione degli alimenti che per gli eventuali pericoli risultanti dal contatto orale.   
-2. Per i materiali e gli oggetti di materia plastica, di gomma, di cellulosa rigenerata, di carta, di cartone, di vetro, di acciaio inossidabile, di banda stagnata, di ceramica e di banda cromata valgono le disposizioni contenute nei decreti ministeriali 21 marzo 1973, 3 agosto 1974, 13 settembre 1975, 18 giugno 1979, 2 dicembre 1980, 25 giugno 1981, 18 febbraio 1984, 4 aprile 1985 e [1° giugno 1988, n. 243](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1988-06-01;243).   
-3. Il Ministro della sanita', sentito il Consiglio superiore di sanita', procede all'aggiornamento e alle modifiche da apportare ai decreti di cui ai commi 1 e 2.   
-4. Chiunque impieghi nella produzione materiali o oggetti destinati, da soli o in combinazione tra loro, a venire a contatto con le sostanze alimentari, in difformita' da quanto stabilito nei decreti di cui ai commi 1 e 2, e' punito per cio' solo con l'arresto sino a tre mesi o con l'ammenda da lire cinquemilioni a lire quindicimilioni.».   
-- Il testo dell'[art.17, commi 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3) e [4, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com4) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri), e' il seguente:   
-«3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.  
-I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.   
-4. I regolamenti di cui al comma 1 ed i regolamenti ministeriali ed interministeriali, che devono recare la denominazione di «regolamento», sono adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.».   
-  
-Note all'art. 1:   
-  
-- Il decreto ministeriale 21 marzo 1973, modificato dal presente decreto, e' pubblicato nella Gazzetta Ufficiale 20 aprile 1973, n. 104, S.O.
+## Art. 2. — Clausola di mutuo riconoscimento
 
-Art. 2
-------
+1.
 
-Clausola di mutuo riconoscimento
-
-1. Le disposizioni di cui all'articolo 1 non si applicano ai materiali ed oggetti legalmente fabbricati e/o commercializzati in uno Stato membro dell'Unione europea o in Turchia, ovvero legalmente fabbricati in uno degli Stati firmatari dell'Associazione europea di libero scambio (EFTA), parte contraente dell'accordo sullo spazio economico europeo (SEE), purche' garantiscano un livello equivalente di protezione della salute.
+Le disposizioni di cui all'articolo 1 non si applicano ai materiali ed oggetti legalmente fabbricati e/o commercializzati in uno Stato membro dell'Unione europea o in Turchia, ovvero legalmente fabbricati in uno degli Stati firmatari dell'Associazione europea di libero scambio (EFTA), parte contraente dell'accordo sullo spazio economico europeo (SEE), purche' garantiscano un livello equivalente di protezione della salute.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 7 febbraio 2019
+Roma, 7 febbraio 2019
 
-Il Ministro: Grillo
-
-Visto, il Guardasigilli: Bonafede Registrato alla Corte dei conti il 18 marzo 2019
-
-Ufficio controllo atti MIUR, MIBAAC, Min. salute e Min. lavoro e
-
-politiche sociali, reg.ne prev. n. 361
+Il Ministro: Grillo Visto, il Guardasigilli: Bonafede Registrato alla Corte dei conti il 18 marzo 2019 Ufficio controllo atti MIUR, MIBAAC, Min. salute e Min. lavoro e politiche sociali, reg.ne prev. n. 361

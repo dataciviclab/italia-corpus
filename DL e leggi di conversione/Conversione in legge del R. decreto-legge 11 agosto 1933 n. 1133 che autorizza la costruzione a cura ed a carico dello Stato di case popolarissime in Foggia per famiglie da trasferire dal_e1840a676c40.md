@@ -1,16 +1,14 @@
-LEGGE 04 gennaio 1934 n. 55
+---
+tipo: LEGGE
+numero: 55
+data: 1934-01-04
+titolo: "Conversione in legge del R. decreto-legge 11 agosto 1933, n. 1133, che autorizza la costruzione, a cura ed a carico dello Stato, di case popolarissime in Foggia, per famiglie da trasferire dalle attuali abitazioni che, per esigenze igienico-sociali, siano da dichiarare inabitabili. (034U0055)"
+urn: urn:nir:stato:legge:1934-01-04;55
+codice_redazionale: 034U0055
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 04 gennaio 1934 n. 55
-===========================
-
-Conversione in legge del R. decreto-legge 11 agosto 1933, n. 1133, che autorizza la costruzione, a cura ed a carico dello Stato, di case popolarissime in Foggia, per famiglie da trasferire dalle attuali abitazioni che, per esigenze igienico-sociali, siano da dichiarare inabitabili. (034U0055)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/02/1934
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

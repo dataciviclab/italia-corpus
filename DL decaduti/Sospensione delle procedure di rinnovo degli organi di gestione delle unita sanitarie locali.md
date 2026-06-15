@@ -1,24 +1,17 @@
-DECRETO-LEGGE 24 luglio 1990 n. 199
+---
+tipo: DECRETO-LEGGE
+numero: 541
+data: 1985-10-18
+titolo: "Sospensione delle procedure di rinnovo degli organi di gestione delle unita' sanitarie locali."
+urn: urn:nir:stato:decreto.legge:1985-10-18;541
+codice_redazionale: 085U0541
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 24 luglio 1990 n. 199
-===================================
+DECRETO DECADUTO
 
-Sospensione delle procedure di rinnovo degli organi di gestione delle unita' sanitarie locali.
-----------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 26/7/1990.Decreto-Legge decaduto per mancata conversione.
-
-Art. 1
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 4 APRILE 1991, N. 111](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-04-04;111)
-  
-
-Art. 2
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 4 APRILE 1991, N. 111](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-04-04;111)
-  
+DECRETO DECADUTO

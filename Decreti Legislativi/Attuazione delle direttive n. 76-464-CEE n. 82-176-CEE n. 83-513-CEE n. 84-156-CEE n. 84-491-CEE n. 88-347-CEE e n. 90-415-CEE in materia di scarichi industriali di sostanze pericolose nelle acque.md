@@ -1,119 +1,85 @@
-DECRETO LEGISLATIVO 27 gennaio 1992 n. 133
+---
+tipo: DECRETO LEGISLATIVO
+numero: 133
+data: 1992-01-27
+titolo: "Attuazione delle direttive n. 76/464/CEE, n. 82/176/CEE, n. 83/513/CEE, n. 84/156/CEE, n. 84/491/CEE, n. 88/347/CEE e n. 90/415/CEE in materia di scarichi industriali di sostanze pericolose nelle acque."
+urn: urn:nir:stato:decreto.legislativo:1992-01-27;133
+codice_redazionale: 092G0176
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 27 gennaio 1992 n. 133
-==========================================
+(( IL D. LGS. 3 APRILE 2006, N. 152 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-Attuazione delle direttive n. 76/464/CEE, n. 82/176/CEE, n. 83/513/CEE, n. 84/156/CEE, n. 84/491/CEE, n. 88/347/CEE e n. 90/415/CEE in materia di scarichi industriali di sostanze pericolose nelle acque.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 5/3/1992
+(( IL D. LGS. 3 APRILE 2006, N. 152 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-Art. 1
-------
+## Art. 3.
 
-(( IL [D. LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+(( IL D. LGS. 3 APRILE 2006, N. 152 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-Art. 2
-------
+## Art. 4.
 
-(( IL [D. LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+(( IL D. LGS. 3 APRILE 2006, N. 152 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-Art. 3
-------
+## Art. 5.
 
-(( IL [D. LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+(( IL D. LGS. 3 APRILE 2006, N. 152 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-Art. 4
-------
+## Art. 6.
 
-(( IL [D. LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+(( IL D. LGS. 3 APRILE 2006, N. 152 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-Art. 5
-------
+## Art. 7.
 
-(( IL [D. LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+(( IL D. LGS. 3 APRILE 2006, N. 152 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-Art. 6
-------
+## Art. 8.
 
-(( IL [D. LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+(( IL D. LGS. 3 APRILE 2006, N. 152 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-Art. 7
-------
+## Art. 9.
 
-(( IL [D. LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+(( IL D. LGS. 3 APRILE 2006, N. 152 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-Art. 8
-------
+## Art. 10.
 
-(( IL [D. LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 11 MAGGIO 1999, N. 152 ))
 
-Art. 9
-------
+## Art. 11.
 
-(( IL [D. LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+(( IL D. LGS. 3 APRILE 2006, N. 152 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-Art. 10
--------
+## Art. 12.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 11 MAGGIO 1999, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-05-11;152) ))
+(( IL D. LGS. 3 APRILE 2006, N. 152 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-Art. 11
--------
+## Art. 13.
 
-(( IL [D. LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+(( IL D. LGS. 3 APRILE 2006, N. 152 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-Art. 12
--------
+## Art. 14.
 
-(( IL [D. LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+(( IL D. LGS. 3 APRILE 2006, N. 152 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-Art. 13
--------
+## Art. 15.
 
-(( IL [D. LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+(( IL D. LGS. 3 APRILE 2006, N. 152 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-Art. 14
--------
+## Art. 16.
 
-(( IL [D. LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+(( IL D. LGS 3 APRILE 2006, N. 152 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-Art. 15
--------
+## Art. 17.
 
-(( IL [D. LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+(( IL D. LGS 3 APRILE 2006, N. 152 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-Art. 16
--------
+## Art. 18.
 
-(( IL [D. LGS 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+(( IL D. LGS 3 APRILE 2006, N. 152 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-Art. 17
--------
+## Art. 19.
 
-(( IL [D. LGS 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
-
-Art. 18
--------
-
-(( IL [D. LGS 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
-
-Art. 19
--------
-
-(( IL [D. LGS 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
-
-Allegato A
-
- ALLEGATO A   
-  
-
-(( IL [D. LGS 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
-
-Allegato B
-
- ALLEGATO B   
-  
-
-(( IL [D. LGS 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+(( IL D. LGS 3 APRILE 2006, N. 152 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))

@@ -1,65 +1,53 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 2001 n. 297
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 297
+data: 2001-05-17
+titolo: "Regolamento di organizzazione degli Uffici di diretta collaborazione del Ministro del lavoro."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2001-05-17;297
+codice_redazionale: 001G0356
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 2001 n. 297
-=============================================================
+((PROVVEIMENTO ABROGATO DAL D.P.C.M. 20 GENNAIO 2015, N. 77))
 
-Regolamento di organizzazione degli Uffici di diretta collaborazione del Ministro del lavoro.
----------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 4-8-2001
+((PROVVEIMENTO ABROGATO DAL D.P.C.M. 20 GENNAIO 2015, N. 77))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEIMENTO ABROGATO DAL [D.P.C.M. 20 GENNAIO 2015, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2015-01-20;77)))
+((PROVVEIMENTO ABROGATO DAL D.P.C.M. 20 GENNAIO 2015, N. 77))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEIMENTO ABROGATO DAL [D.P.C.M. 20 GENNAIO 2015, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2015-01-20;77)))
+((PROVVEIMENTO ABROGATO DAL D.P.C.M. 20 GENNAIO 2015, N. 77))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEIMENTO ABROGATO DAL [D.P.C.M. 20 GENNAIO 2015, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2015-01-20;77)))
+((PROVVEIMENTO ABROGATO DAL D.P.C.M. 20 GENNAIO 2015, N. 77))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEIMENTO ABROGATO DAL [D.P.C.M. 20 GENNAIO 2015, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2015-01-20;77)))
+((PROVVEIMENTO ABROGATO DAL D.P.C.M. 20 GENNAIO 2015, N. 77))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEIMENTO ABROGATO DAL [D.P.C.M. 20 GENNAIO 2015, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2015-01-20;77)))
+((PROVVEIMENTO ABROGATO DAL D.P.C.M. 20 GENNAIO 2015, N. 77))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEIMENTO ABROGATO DAL [D.P.C.M. 20 GENNAIO 2015, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2015-01-20;77)))
+((PROVVEIMENTO ABROGATO DAL D.P.C.M. 20 GENNAIO 2015, N. 77))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEIMENTO ABROGATO DAL [D.P.C.M. 20 GENNAIO 2015, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2015-01-20;77)))
+((PROVVEIMENTO ABROGATO DAL D.P.C.M. 20 GENNAIO 2015, N. 77))
 
-Art. 8
-------
+## Art. 10.
 
-((PROVVEIMENTO ABROGATO DAL [D.P.C.M. 20 GENNAIO 2015, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2015-01-20;77)))
+((PROVVEIMENTO ABROGATO DAL D.P.C.M. 20 GENNAIO 2015, N. 77))
 
-Art. 9
-------
+## Art. 11.
 
-((PROVVEIMENTO ABROGATO DAL [D.P.C.M. 20 GENNAIO 2015, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2015-01-20;77)))
-
-Art. 10
--------
-
-((PROVVEIMENTO ABROGATO DAL [D.P.C.M. 20 GENNAIO 2015, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2015-01-20;77)))
-
-Art. 11
--------
-
-((PROVVEIMENTO ABROGATO DAL [D.P.C.M. 20 GENNAIO 2015, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2015-01-20;77)))
+((PROVVEIMENTO ABROGATO DAL D.P.C.M. 20 GENNAIO 2015, N. 77))

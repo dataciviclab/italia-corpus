@@ -1,58 +1,39 @@
-DECRETO-LEGGE 15 luglio 1994 n. 447
+---
+tipo: DECRETO-LEGGE
+numero: 447
+data: 1994-07-15
+titolo: "Disposizioni urgenti per l'attuazione dell'articolo 68 della Costituzione."
+urn: urn:nir:stato:decreto.legge:1994-07-15;447
+codice_redazionale: 094G0486
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 15 luglio 1994 n. 447
-===================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 20 GIUGNO 2003, N. 140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-06-20;140)
 
-Disposizioni urgenti per l'attuazione dell'articolo 68 della Costituzione.
---------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 17-7-1994.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 20 GIUGNO 2003, N. 140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-06-20;140)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 20 GIUGNO 2003, N. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-06-20;140)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 20 GIUGNO 2003, N. 140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-06-20;140)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 20 GIUGNO 2003, N. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-06-20;140)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 20 GIUGNO 2003, N. 140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-06-20;140)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 20 GIUGNO 2003, N. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-06-20;140)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 20 GIUGNO 2003, N. 140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-06-20;140)
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 20 GIUGNO 2003, N. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-06-20;140)
-  
-
-Art. 5
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 20 GIUGNO 2003, N. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-06-20;140)
-  
-
-Art. 6
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 20 GIUGNO 2003, N. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-06-20;140)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 20 GIUGNO 2003, N. 140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-06-20;140)

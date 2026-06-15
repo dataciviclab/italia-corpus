@@ -1,16 +1,14 @@
-LEGGE 28 gennaio 1994 n. 68
+---
+tipo: LEGGE
+numero: 68
+data: 1994-01-28
+titolo: "Conversione in legge del decreto-legge 19 gennaio 1994, n. 42, recante disposizioni urgenti per lo svolgimento delle elezioni politiche del 27 marzo 1994."
+urn: urn:nir:stato:legge:1994-01-28;68
+codice_redazionale: 094G0084
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 28 gennaio 1994 n. 68
-===========================
-
-Conversione in legge del decreto-legge 19 gennaio 1994, n. 42, recante disposizioni urgenti per lo svolgimento delle elezioni politiche del 27 marzo 1994.
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore della legge: 30-1-1994
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133))

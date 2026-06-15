@@ -1,0 +1,29 @@
+---
+tipo: DECRETO LEGISLATIVO LUOGOTENENZIALE
+numero: 10
+data: 1945-01-04
+titolo: "((Elevazione dei limiti di eta' per l'ammissione ai pubblici concorsi e per le nomine ad impieghi)). (045U0010)"
+urn: urn:nir:stato:decreto.legislativo.luogotenenziale:1945-01-04;10
+codice_redazionale: 045U0010
+vigente: true
+---
+
+## Art. 1.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+## Art. 2.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+## Art. 3.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+## Art. 4.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

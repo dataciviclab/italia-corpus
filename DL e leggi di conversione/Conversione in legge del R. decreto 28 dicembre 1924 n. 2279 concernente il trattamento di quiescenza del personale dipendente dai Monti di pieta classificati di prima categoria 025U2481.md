@@ -1,16 +1,14 @@
-LEGGE 20 dicembre 1925 n. 2481
+---
+tipo: LEGGE
+numero: 2481
+data: 1925-12-20
+titolo: "Conversione in legge del R. decreto 28 dicembre 1924, n. 2279, concernente il trattamento di quiescenza del personale dipendente dai Monti di pieta' classificati di prima categoria (025U2481)"
+urn: urn:nir:stato:legge:1925-12-20;2481
+codice_redazionale: 025U2481
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 20 dicembre 1925 n. 2481
-==============================
-
-Conversione in legge del R. decreto 28 dicembre 1924, n. 2279, concernente il trattamento di quiescenza del personale dipendente dai Monti di pieta' classificati di prima categoria (025U2481)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/01/1926
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

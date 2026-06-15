@@ -1,16 +1,14 @@
-LEGGE 09 giugno 1927 n. 930
+---
+tipo: LEGGE
+numero: 930
+data: 1927-06-09
+titolo: "Conversione in legge del R. decreto-legge 6 febbraio 1927, n. 76, contenente norme per la esecuzione degli sfratti nel territorio dell'Alto Commissariato di Napoli. (027U0930)"
+urn: urn:nir:stato:legge:1927-06-09;930
+codice_redazionale: 027U0930
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 09 giugno 1927 n. 930
-===========================
-
-Conversione in legge del R. decreto-legge 6 febbraio 1927, n. 76, contenente norme per la esecuzione degli sfratti nel territorio dell'Alto Commissariato di Napoli. (027U0930)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/06/1927
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

@@ -1,90 +1,57 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1982 n. 401
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 401
+data: 1982-06-08
+titolo: "Attuazione della direttiva (CEE) n. 79/693 relativa alle confetture, gelatine e marmellate di frutta e crema di marroni."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-06-08;401
+codice_redazionale: 082U0401
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1982 n. 401
-=============================================================
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 20 FEBBRAIO 2004, N. 50)).
 
-Attuazione della direttiva (CEE) n. 79/693 relativa alle confetture, gelatine e marmellate di frutta e crema di marroni.
-------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 20 FEBBRAIO 2004, N. 50)).
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 20 FEBBRAIO 2004, N. 50](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-02-20;50)))
+## Art. 3.
 
-.  
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 20 FEBBRAIO 2004, N. 50)).
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 20 FEBBRAIO 2004, N. 50](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-02-20;50)))
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 20 FEBBRAIO 2004, N. 50)).
 
-.  
+## Art. 5.
 
-Art. 3
-------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 20 FEBBRAIO 2004, N. 50)).
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 20 FEBBRAIO 2004, N. 50](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-02-20;50)))
+## Art. 6.
 
-.  
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 20 FEBBRAIO 2004, N. 50))
 
-Art. 4
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 20 FEBBRAIO 2004, N. 50](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-02-20;50)))
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 20 FEBBRAIO 2004, N. 50)).
 
-.  
+## Art. 8.
 
-Art. 5
-------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 20 FEBBRAIO 2004, N. 50)).
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 20 FEBBRAIO 2004, N. 50](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-02-20;50)))
+## Art. 9.
 
-.  
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 20 FEBBRAIO 2004, N. 50)).
 
-Art. 6
-------
+## Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 20 FEBBRAIO 2004, N. 50](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-02-20;50)))
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 20 FEBBRAIO 2004, N. 50)).
 
-Art. 7
-------
+## Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 20 FEBBRAIO 2004, N. 50](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-02-20;50)))
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 20 FEBBRAIO 2004, N. 50)).
 
-.  
+## Art. 12.
 
-Art. 8
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 20 FEBBRAIO 2004, N. 50](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-02-20;50)))
-
-.  
-
-Art. 9
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 20 FEBBRAIO 2004, N. 50](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-02-20;50)))
-
-.  
-
-Art. 10
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 20 FEBBRAIO 2004, N. 50](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-02-20;50)))
-
-.  
-
-Art. 11
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 20 FEBBRAIO 2004, N. 50](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-02-20;50)))
-
-.  
-
-Art. 12
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 20 FEBBRAIO 2004, N. 50](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-02-20;50)))
-
-.   
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 20 FEBBRAIO 2004, N. 50)).

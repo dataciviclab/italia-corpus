@@ -1,292 +1,75 @@
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 08 settembre 2011 n. 178
-
-
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 08 settembre 2011 n. 178
-==========================================================================
-
-Regolamento di attuazione dell'articolo 2, comma 3, della legge 7 agosto 1990, n. 241, riguardante i termini di conclusione dei procedimenti amministrativi del Ministero degli affari esteri aventi durata non superiore a novanta giorni. (11G0220)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/11/2011
+---
+tipo: DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
+numero: 178
+data: 2011-09-08
+titolo: "Regolamento di attuazione dell'articolo 2, comma 3, della legge 7 agosto 1990, n. 241, riguardante i termini di conclusione dei procedimenti amministrativi del Ministero degli affari esteri aventi durata non superiore a novanta giorni. (11G0220)"
+urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2011-09-08;178
+codice_redazionale: 011G0220
+vigente: true
+---
 
 IL PRESIDENTE
--------------
 
 DEL CONSIGLIO DEI MINISTRI
 
-Vista la [legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241), e successive modificazioni, concernente nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi;
+Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241), e successive modificazioni, concernente nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi;
 
-Visto l'[articolo 2 della legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art2), come modificato dalla [legge 18 giugno 2009, n. 69, articolo 7](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-18;69~art7), ed in particolare i commi 3 e 4 secondo cui sono individuati i termini entro i quali devono concludersi i procedimenti amministrativi;
+Visto l'[articolo 2 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_2), come modificato dalla [legge 18 giugno 2009, n. 69, articolo 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-18;69#art_7), ed in particolare i commi 3 e 4 secondo cui sono individuati i termini entro i quali devono concludersi i procedimenti amministrativi;
 
-Visto il decreto del Ministro per la pubblica amministrazione e l'innovazione di concerto con il Ministro per la semplificazione normativa del 12 gennaio 2010, concernente le linee di indirizzo per l'attuazione dell'[articolo 7 della legge 18 giugno 2009, n. 69](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-18;69~art7);
+Visto il decreto del Ministro per la pubblica amministrazione e l'innovazione di concerto con il Ministro per la semplificazione normativa del 12 gennaio 2010, concernente le linee di indirizzo per l'attuazione dell'[articolo 7 della legge 18 giugno 2009, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-18;69#art_7);
 
-Udito il [parere del Consiglio di Stato, Sezione consultiva per gli atti normativi, n. 2159/2011](https://e-justice.europa.eu/ecli/ECLI::::), espresso nell'Adunanza del 27 luglio 2011;
+Udito il parere del Consiglio di Stato, Sezione consultiva per gli atti normativi, n. 2159/2011, espresso nell'Adunanza del 27 luglio 2011;
 
-Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3), recante disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri;
+Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), recante disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri;
 
 Sulla proposta del Ministro degli affari esteri di concerto con il Ministro della pubblica amministrazione e l'innovazione ed il Ministro per la semplificazione normativa;
 
-Adotta
-------
+Adotta il seguente regolamento:
 
-il seguente regolamento:
+## Art. 1. — Ambito di applicazione
 
-Art. 1
-------
+1.
 
-Ambito di applicazione
+Il presente regolamento individua i procedimenti amministrativi di competenza del Ministero degli affari esteri che conseguano obbligatoriamente ad iniziativa di parte ovvero debbano essere promossi di ufficio, i cui termini di conclusione non siano superiori a 90 giorni.
 
-1. Il presente regolamento individua i procedimenti amministrativi di competenza del Ministero degli affari esteri che conseguano obbligatoriamente ad iniziativa di parte ovvero debbano essere promossi di ufficio, i cui termini di conclusione non siano superiori a 90 giorni.
+2.
 
-2. Ciascun procedimento si conclude nel termine stabilito nella tabella allegata, che costituisce parte integrante del presente regolamento.
+Ciascun procedimento si conclude nel termine stabilito nella tabella allegata, che costituisce parte integrante del presente regolamento.
 
-3. Restano abrogate le tabelle di cui al [decreto ministeriale del 5 gennaio 2004, n. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:2004-01-05;57), recante Regolamento di modifica ed integrazione del [decreto ministeriale 3 marzo 1995, n. 171](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1995-03-03;171), relativo all'attuazione degli [articoli 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art2) e [4 della legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art4), in materia di procedimento amministrativo.
+3.
 
-Avvertenza:   
-- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.   
-Note alle premesse:   
-- La [legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241) (Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi), e' stata pubblicata nella Gazzetta Ufficiale 18 agosto 1990, n. 192.   
-- Il testo dell'art. 2 della citata [legge n. 241 del 1990](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;241), come modificato dall'[art. 7 della legge 18 giugno 2009, n. 69](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-18;69~art7) (Disposizioni per lo sviluppo economico, la semplificazione, la competitivita' nonche' in materia di processo civile), pubblicata nella Gazzetta Ufficiale 19 giugno 2009, n. 140, S.O., e' il seguente:   
-«Art. 2 (Conclusione del procedimento). - 1. Ove il procedimento consegua obbligatoriamente ad un'istanza, ovvero debba essere iniziato d'ufficio, le pubbliche amministrazioni hanno il dovere di concluderlo mediante l'adozione di un provvedimento espresso.   
-2. Nei casi in cui disposizioni di legge ovvero i provvedimenti di cui ai commi 3, 4 e 5 non prevedono un termine diverso, i procedimenti amministrativi di competenza delle amministrazioni statali e degli enti pubblici nazionali devono concludersi entro il termine di trenta giorni.   
-3. Con uno o piu' decreti del Presidente del Consiglio dei Ministri, adottati ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3), su proposta dei Ministri competenti e di concerto con i Ministri per la pubblica amministrazione e l'innovazione e per la semplificazione normativa, sono individuati i termini non superiori a novanta giorni entro i quali devono concludersi i procedimenti di competenza delle amministrazioni statali.  
-Gli enti pubblici nazionali stabiliscono, secondo i propri ordinamenti, i termini non superiori a novanta giorni entro i quali devono concludersi i procedimenti di propria competenza.   
-4. Nei casi in cui, tenendo conto della sostenibilita' dei tempi sotto il profilo dell'organizzazione amministrativa, della natura degli interessi pubblici tutelati e della particolare complessita' del procedimento, sono indispensabili termini superiori a novanta giorni per la conclusione dei procedimenti di competenza delle amministrazioni statali e degli enti pubblici nazionali, i decreti di cui al comma 3 sono adottati su proposta anche dei Ministri per la pubblica amministrazione e l'innovazione e per la semplificazione normativa e previa deliberazione del Consiglio dei Ministri. I termini ivi previsti non possono comunque superare i centottanta giorni, con la sola esclusione dei procedimenti di acquisto della cittadinanza italiana e di quelli riguardanti l'immigrazione.   
-5. Fatto salvo quanto previsto da specifiche disposizioni normative, le autorita' di garanzia e di vigilanza disciplinano, in conformita' ai propri ordinamenti, i termini di conclusione dei procedimenti di rispettiva competenza.   
-6. I termini per la conclusione del procedimento decorrono dall'inizio del procedimento d'ufficio o dal ricevimento della domanda, se il procedimento e' ad iniziativa di parte.   
-7. Fatto salvo quanto previsto dall'art. 17, i termini di cui ai commi 2, 3, 4 e 5 del presente articolo possono essere sospesi, per una sola volta e per un periodo non superiore a trenta giorni, per l'acquisizione di informazioni o di certificazioni relative a fatti, stati o qualita' non attestati in documenti gia' in possesso dell'amministrazione stessa o non direttamente acquisibili presso altre pubbliche amministrazioni. Si applicano le disposizioni dell'art. 14, comma 2.   
-8. La tutela in materia di silenzio dell'amministrazione e' disciplinata dal [codice del processo amministrativo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-07-02;104).   
-9. La mancata emanazione del provvedimento nei termini costituisce elemento di valutazione della responsabilita' dirigenziale.».   
-- Il decreto del Ministro per la pubblica amministrazione e l'innovazione, di concerto con il Ministro per la semplificazione normativa, del 12 gennaio 2010, e' stato pubblicato nella Gazzeeta Ufficiale 1° aprile 2010, n. 76.   
-- Il testo dell'[art. 17, comma 3 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), pubblicata nella Gazzetta Ufficiale 12 settembre 1988, n. 214, S.O., e' il seguente:   
-«3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.  
-I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.».   
-Note all'[art. 1:   
-- Il decreto ministeriale 5 gennaio 2004, n. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:2004-01-05;57~art1) (Regolamento per la modifica del [decreto ministeriale 3 marzo 1995, n. 171](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1995-03-03;171), relativo all'attuazione degli [articoli 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art2) e [4 della legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art4), riguardanti la disciplina del procedimento amministrativo), e' stato pubblicato nella Gazzetta Ufficiale 28 febbraio 2004, n. 49.
+Restano abrogate le tabelle di cui al [decreto ministeriale del 5 gennaio 2004, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:2004-01-05;57), recante Regolamento di modifica ed integrazione del [decreto ministeriale 3 marzo 1995, n. 171](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1995-03-03;171), relativo all'attuazione degli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_2) e [4 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_4), in materia di procedimento amministrativo.
 
-Art. 2
-------
+Avvertenza: 
+ - Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ Note alle premesse: 
+ - La [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241) (Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi), e' stata pubblicata nella Gazzetta Ufficiale 18 agosto 1990, n. 192. 
+ - Il testo dell'art. 2 della citata [legge n. 241 del 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;241), come modificato dall'[art. 7 della legge 18 giugno 2009, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-18;69#art_7) (Disposizioni per lo sviluppo economico, la semplificazione, la competitivita' nonche' in materia di processo civile), pubblicata nella Gazzetta Ufficiale 19 giugno 2009, n. 140, S.O., e' il seguente: 
+ «Art. 2 (Conclusione del procedimento). - 1. Ove il procedimento consegua obbligatoriamente ad un'istanza, ovvero debba essere iniziato d'ufficio, le pubbliche amministrazioni hanno il dovere di concluderlo mediante l'adozione di un provvedimento espresso. 
+ 2. Nei casi in cui disposizioni di legge ovvero i provvedimenti di cui ai commi 3, 4 e 5 non prevedono un termine diverso, i procedimenti amministrativi di competenza delle amministrazioni statali e degli enti pubblici nazionali devono concludersi entro il termine di trenta giorni. 
+ 3. Con uno o piu' decreti del Presidente del Consiglio dei Ministri, adottati ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), su proposta dei Ministri competenti e di concerto con i Ministri per la pubblica amministrazione e l'innovazione e per la semplificazione normativa, sono individuati i termini non superiori a novanta giorni entro i quali devono concludersi i procedimenti di competenza delle amministrazioni statali.
+ Gli enti pubblici nazionali stabiliscono, secondo i propri ordinamenti, i termini non superiori a novanta giorni entro i quali devono concludersi i procedimenti di propria competenza. 
+ 4. Nei casi in cui, tenendo conto della sostenibilita' dei tempi sotto il profilo dell'organizzazione amministrativa, della natura degli interessi pubblici tutelati e della particolare complessita' del procedimento, sono indispensabili termini superiori a novanta giorni per la conclusione dei procedimenti di competenza delle amministrazioni statali e degli enti pubblici nazionali, i decreti di cui al comma 3 sono adottati su proposta anche dei Ministri per la pubblica amministrazione e l'innovazione e per la semplificazione normativa e previa deliberazione del Consiglio dei Ministri. I termini ivi previsti non possono comunque superare i centottanta giorni, con la sola esclusione dei procedimenti di acquisto della cittadinanza italiana e di quelli riguardanti l'immigrazione. 
+ 5. Fatto salvo quanto previsto da specifiche disposizioni normative, le autorita' di garanzia e di vigilanza disciplinano, in conformita' ai propri ordinamenti, i termini di conclusione dei procedimenti di rispettiva competenza. 
+ 6. I termini per la conclusione del procedimento decorrono dall'inizio del procedimento d'ufficio o dal ricevimento della domanda, se il procedimento e' ad iniziativa di parte. 
+ 7. Fatto salvo quanto previsto dall'art. 17, i termini di cui ai commi 2, 3, 4 e 5 del presente articolo possono essere sospesi, per una sola volta e per un periodo non superiore a trenta giorni, per l'acquisizione di informazioni o di certificazioni relative a fatti, stati o qualita' non attestati in documenti gia' in possesso dell'amministrazione stessa o non direttamente acquisibili presso altre pubbliche amministrazioni. Si applicano le disposizioni dell'art. 14, comma 2. 
+ 8. La tutela in materia di silenzio dell'amministrazione e' disciplinata dal [codice del processo amministrativo](../Decreti%20Legislativi/Attuazione%20dellarticolo%2044%20della%20legge%2018%20giugno%202009%20n.%2069%20recante%20delega%20al%20governo%20per%20il%20riordino%20del%20processo%20amministrativo.%2010G0127.md). 
+ 9. La mancata emanazione del provvedimento nei termini costituisce elemento di valutazione della responsabilita' dirigenziale.». 
+ - Il decreto del Ministro per la pubblica amministrazione e l'innovazione, di concerto con il Ministro per la semplificazione normativa, del 12 gennaio 2010, e' stato pubblicato nella Gazzeeta Ufficiale 1° aprile 2010, n. 76. 
+ - Il testo dell'[art. 17, comma 3 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), pubblicata nella Gazzetta Ufficiale 12 settembre 1988, n. 214, S.O., e' il seguente: 
+ «3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.
+ I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.». 
+ Note all'[art. 1: 
+ - Il decreto ministeriale 5 gennaio 2004, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:2004-01-05;57#art_1) (Regolamento per la modifica del [decreto ministeriale 3 marzo 1995, n. 171](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1995-03-03;171), relativo all'attuazione degli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_2) e [4 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_4), riguardanti la disciplina del procedimento amministrativo), e' stato pubblicato nella Gazzetta Ufficiale 28 febbraio 2004, n. 49.
 
-Entrata in vigore
+## Art. 2. — Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
+1.
+
+Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 8 settembre 2011
+Roma, 8 settembre 2011
 
-Il Presidente del Consiglio dei Ministri Berlusconi Il Ministro degli affari esteri Frattini Il Ministro per la pubblica amministrazione e l'innovazione Brunetta Il Ministro per la semplificazione normativa Calderoli
-
-Visto, il Guardasigilli: Palma Registrato alla Corte dei conti il 25 ottobre 2011
-
-Ministeri istituzionali, registro n. 19, foglio n. 290
-
-Tabella
-
-  
-Tabella allegata all'art. 1, comma 2   
-  
-- Segreteria Generale   
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Procedimento | Riferimenti Normativi | Termine | Unita' organizzativa responsabile |
-| Liquidazione di contributi ordinari ad enti internazionalistici sottoposti alla vigilanza del Ministero degli affari esteri | [L. n.948/1982](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982;948) | 60 |  |
-| Liquidazione di contributi straordinari ad enti internazionalistici a favore di singole iniziative di particolare interesse o per l'esecuzione di programmi straordinari | [L. n.948/1982](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982;948) | 90 | Unita' di analisi e programmazione |
-| Liquidazione di contributi alla societa' Dante Alighieri | [L. n.411/1985](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985;411) | 60 |  |
-| Liquidazione di contributi all'Unidroit | [L. n.760/1985](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985;760) | 60 |  |
-| Liquidazione di contributi all'Istituto italiano per l'Africa e l'Oriente | [L. n.505/1995](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995;505) | 60 |  |
-| Liquidazione di spese per missioni per interventi di emergenza in situazioni di crisi | [D.Lgs. n.860/1948](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948;860) | 60 | Unita' di crisi |
-
-  
-  
-  
-  
-- Cerimoniale Diplomatico della Repubblica   
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Procedimento | Riferimenti Normativi | Termine | Unita' organizzativa responsabile |
-| Rilascio di autorizzazioni a fregiarsi di onorificenze conferite da Ordini nazionali, esteri o non nazionali | [L. n.178/1951](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951;178) | 90 |  |
-| Emissione del decreto di pagamento del compenso per traduttori ed interpreti esterni all'Amministrazione per prestazioni saltuarie | [D.P.R. n.18/1967](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967;18) | 60 |  |
-| Liquidazione di missioni effettuate sul territorio nazionale o all'estero | [L. n.836/1973](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973;836) [D.Lgs. n.860/1948](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948;860) [D.P.R. n.18/1967](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967;18) | 60 |  |
-| Liquidazione a societa' in dipendenza di contratti per spese in economia | [D.P.R. n.18/1967](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967;18) | 60 |  |
-
-  
-  
-  
-  
-- Direzione Generale per l'Unione Europea   
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Procedimento | Riferimenti Normativi | Termine | Unita' organizzativa responsabile |
-| Liquidazione di missioni effettuate sul territorio nazionale o all'estero | [D.Lgs. n.860/1948](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948;860) [L. n.836/1973](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973;836) [D.P.R. n.18/1967](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967;18) | 90 |  |
-| Liquidazione di contributi alla "Maison de l'Italie" di Parigi | [L. n.847/1980](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980;847) | 90 |  |
-| Liquidazione di contributi all'associazione "Villa Vigoni" di Maneggio | [L. n.89/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;89) | 60 | Segreteria |
-| Liquidazione di contributi al Commissariato italiano per la convenzione italo- svizzera sulla pesca | [L. n.580/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;580) | 60 |  |
-| Liquidazione di contributi ad organizzazioni internazionali, a Stati esteri e ad enti pubblici e privati per iniziative di pace e umanitarie in sede internazionale | [L. n.180/1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;180) | 60 |  |
-
-  
-  
-  
-  
-- Direzione Generale per la Mondializzazione e le Questioni Globali 
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Procedimento | Riferimenti Normativi | Termine | Unita' organizzativa responsabile |
-| Liquidazione di missioni effettuate sul territorio nazionale o all'estero | [D.Lgs. n.860/1948](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948;860) [D.P.R. n.18/1967](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967;18) [L. n.836/1973](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973;836) [L. n.377/1997](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997;377) | 60 |  |
-| Liquidazione di missioni in attuazione del Trattato Generale di amicizia e cooperazione privilegiate tra la Repubblica Italiana e la Repubblica Argentina | [L. n.20/2001](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001;20) | 60 |  |
-| Liquidazione di contributi, rimborso spese di manutenzione e pagamento del canone di affitto della sede all'Istituto Italo- Latino-Americano | [L. n.794/1966](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966;794) | 90 | Segreteria |
-| Liquidazione di contributi ad organizzazioni internazionali, a Stati esteri e ad enti pubblici e privati italiani e stranieri aventi finalita' di mantenimento della pace e della sicurezza internazionale | [L. n.180/1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;180) | 60 |  |
-
-  
-  
-  
-  
-- Direzione Generale per gli Affari Politici e di Sicurezza   
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Procedimento | Riferimenti Normativi | Termine | Unita' organizzativa responsabile |
-| Liquidazione di contributi ad organizzazioni internazionali, a Stati esteri e ad enti pubblici e privati per iniziative di pace e umanitarie in sede internazionale e fornitura diretta beni e servizi per iniziative di pace e umanitarie in sede internazionale. | [L. n.180/1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;180) | 60 | Segreteria |
-| Liquidazione di missioni di delegazioni in ambito ONU | [D.Lgs. n.860/1948](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948;860) [D.P.R. n.18/1967](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967;18) | 90 | Ufficio I |
-| Liquidazione di missioni effettuate sul territorio nazionale o all'estero. | [D.Lgs. n.860/1948](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948;860) [L. n.836/1973](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973;836) [L. n.197/2003](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003;197) [D.P.R. n.18/1967](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967;18) [L. n. 154/2002](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002;154) | 60 | Segreteria, Ufficio V, Ufficio II, Ufficio VIII |
-| Liquidazione di contributi connesse all'Attuazione delle iniziative e degli interventi di collaborazione con i Paesi individuati annualmente dal CIPE. | [L. 212/1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;212) | 60 | Segreteria |
-| Liquidazione dei pagamenti per forniture di beni e servizi nell'ambito della missione umanitaria e di ricostruzione dell'Iraq. | [D.L. 228/2010](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010;228) convertito in [L. 9/2011](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011;9) | 60 | Ufficio IX |
-| Liquidazione dei pagamenti per forniture di beni e servizi nell'ambito della missione umanitaria e di ricostruzione dello Yemen. | [D.L. 228/2010](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010;228) convertito in [L. 9/2011](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011;9) | 60 | Ufficio IX |
-| Contributi per progetti di cooperazione nell'ambito dell'Accordo Italo-Israeliano di cooperazione nel campo della ricerca e dello sviluppo industriale scientifico e tecnologico. | [L. n.154/2002](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002;154) | 60 | Ufficio VIII |
-
-  
-  
-  
-  
-- Direzione Generale per la Promozione del Sistema Paese   
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Procedimento | Riferimenti Normativi | Termine | Unita' organizzativa responsabile |
-| Liquidazione di missioni effettuate sul territorio nazionale o all'estero | [D.Lgs. n.860/1948](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948;860) [L. n.836/1973](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973;836) [D.P.R. n.18/1967](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967;18) | 60 | Segreteria |
-| Liquidazione fatture per acquisti di beni e servizi in materia di internazio- nalizzazione delle imprese | [L. n.56/2005](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005;56) | 60 | Ufficio I |
-| Rimborso spese di viaggio e pagamento di diarie per membri estranei al Ministero di consigli, comitati e commissioni | [D.P.R. n.18/1967](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967;18) | 90 | Ufficio III |
-| Liquidazione di missioni in ambito UNESCO | [D.Lgs. n.860/1948](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948;860) | 90 | Ufficio VI |
-| Nomina all'estero del personale docente e non docente della scuola | [D.Lgs. n.297/1994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994;297) [D.P.R. n.215/1967](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967;215) | 90 |  |
-| Trasferimenti fra scuole all'estero del personale docente e non docente | [D.Lgs. n.297/1994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994;297) | 90 |  |
-| Riconoscimento della parita' scolastica alle scuole non statali situate in territorio estero | [D.M. n.4716/2009](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:2009;4716) | 90 |  |
-| Determinazione ed emissione dei mandati di pagamento dei contributi spese abitazione al personale della scuola in servizio all'estero | [D.Lgs. n.297/1994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994;297) [D.Lgs. n.62/1998](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;62) | 90 |  |
-| Determinazione ed emissione dei mandati di pagamento relativi a provvidenze scolastiche al personale della scuola in servizio all'estero | [D.Lgs. n.297/1994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994;297) [D.Lgs. n.62 /1998](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;62) | 90 | Ufficio V |
-| Erogazione anticipi relativi a spese per viaggi di trasferimento | [D.Lgs. n.297/1994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994;297) [D.Lgs. n.62/1998](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;62) | 45 |  |
-| Liquidazione del saldo relativo a spese di trasferimento e trasporto di masserizie per il personale della scuola in servizio all'estero | [D.Lgs. n.297/1994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994;297) [D.Lgs. n.62/1998](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;62) | 90 |  |
-| Liquidazione delle spese di viaggio per ferie al personale della scuola in servizio all'estero | [D.Lgs. n.297/1994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994;297) [D.Lgs. n.62/1998](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;62) | 90 |  |
-| Liquidazione polizze assicurative e assistenza sanitaria (personale della scuola in servizio all'estero) | [D.Lgs. n.62/1998](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;62) | 90 |  |
-| Liquidazione spese per trasporto salme (personale della scuola in servizio all'estero) | [D.Lgs. n.62/1998](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;62) [D.P.R. n.18/1967](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967;18) | 90 |  |
-| Liquidazione della polizza assicurativa rischi (personale della scuola in servizio all'estero) | [D.Lgs. n.62/1998](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;62) | 90 |  |
-| Liquidazione indennita' di missione e rimborso spese nonche' compenso forfettario a presidenti e commissari d'esame | [D.Lgs. n.297/1994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994;297) | 90 |  |
-| Compenso forfettario membri esami di Stato | [L. n.22/1970](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970;22) | 90 |  |
-| Liquidazione dei contratti per corsi di formazione del personale docente e non docente da destinare all'estero | [D.Lgs. n.297/1994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994;297) [D.P.R. n.215/1967](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967;215) | 90 |  |
-| Rilascio certificati servizi di ruolo | [D.Lgs. n.297/1994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994;297) | 60 |  |
-| Rilascio certificati servizi non di ruolo prestati all'estero | [D.Lgs. n.297/1994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994;297) | 90 |  |
-| Autorizzazione o diniego all'esportazione, importazione o transito materiali di armamento | [D.P.C.M. n.93/2005](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005;93) | 60 | UAMA |
-
-  
-  
-  
-  
-- Direzione Generale per gli Italiani all'Estero e le Politiche Migratorie   
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Procedimento | Riferimenti Normativi | Termine | Unita' organizzativa responsabile |
-| Liquidazione di missioni effettuate in Italia o all'estero | [D.Lgs. n.860/1948](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948;860) [L. n.836/1973](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973;836) | 60 | Segreteria |
-| Liquidazione dell'indennita' ai profughi per reinsediamento nel Paese di provenienza e spese per il rientro dai luoghi di attuale dimora | [L. n.344/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;344) | 90 | Ufficio IV |
-| Erogazione contributi alle Organizzazioni Internazionali (ILO e OIM) | [L. n.1622/1947](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1947;1622) [L. n.449/1989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;449) | 90 | Ufficio VII |
-
-  
-  
-  
-  
-- Uffici all'estero   
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Procedimento | Riferimenti Normativi | Termine | Unita' organizzativa responsabile |
-| Rilascio di legalizzazioni e stesura di atti notarili | [D.P.R. n.445/2000](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000;445) [D.Lgs. n.71/2011](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011;71) | 60 |  |
-| Matrimonio consolare per delega | [D.Lgs. n. 71/2011](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011;71) | 50 |  |
-
-  
-  
-  
-  
-Direzione Generale per la Cooperazione allo Sviluppo   
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Procedimento | Riferimenti Normativi | Termine | Unita' organizzativa responsabile |
-| Selezione consulenti esterni | [L. n.49/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;49) [D.P.R. n.177/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988;177) | 90 |  |
-| Liquidazione di contributi e sovvenzioni per iniziative di cooperazione ad enti, societa' ed organismi in dipendenza di contratti e convenzioni | [L. n.49/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;49) [D.P.R. n.177/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988;177) | 90 |  |
-| Liquidazione di compensi ai componenti delle commissioni di collaudo | [L. n.49/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;49) [D.P.R. n.177/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988;177) | 90 | Ufficio III |
-| Contributi ad enti pubblici e privati per attivita' di formazione | [L. n.49/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;49) [D.P.R. n.177/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988;177) | 90 |  |
-| Liquidazione ad enti pubblici, societa' ed associazioni senza fini di lucro, in dipendenza di contratti o convenzioni per iniziative di cooperazione nel settore della formazione | [L. n.49/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;49) [D.P.R. n.177/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988;177) | 90 |  |
-| Impegno di spesa per assegnazione o rinnovo di borsa di studio in Italia in favore di cittadini dei PVS | [L. n.49/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;49) [D.P.R. n.177/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988;177) | 90 |  |
-| Selezione consulenti esterni | [L. n.49/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;49) [D.P.R. n.177/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988;177) | 90 |  |
-| Liquidazione di contributi e sovvenzioni per iniziative di cooperazione ad enti, societa' ed organismi in dipendenza di contratti e convenzioni | [L. n.49/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;49) | 90 | Ufficio IV |
-| Liquidazione di compensi ai componenti delle commissioni di collaudo | [L. n.49/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;49) [D.P.R. n.177/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988;177) | 90 |  |
-| Contributi ad enti pubblici e privati per attivita' di formazione | [L. n.49/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;49) [D.P.R. n.177/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988;177) | 90 |  |
-| Liquidazione ad enti pubblici, societa' ed associazioni senza fini di lucro, in dipendenza di contratti o convenzioni per iniziative di cooperazione nel settore della formazione | [L. n.49/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;49) [D.P.R. n.177/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988;177) | 90 |  |
-| Impegno di spesa per assegnazione o rinnovo di borsa di studio in Italia in favore di cittadini dei PVS | [L. n.49/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;49) [D.P.R. n.177/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988;177) | 90 |  |
-| Selezione consulenti esterni | [L. n.49/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;49) [D.P.R. n.177/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988;177) | 90 |  |
-| Liquidazione di contributi e sovvenzioni per iniziative di cooperazione ad enti, societa' ed organismi in dipendenza di contratti e convenzioni | [L. n.49/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;49) [D.P.R. n.177/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988;177) | 90 |  |
-| Liquidazione di compensi ai componenti delle commissioni di collaudo | [L. n.49/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;49) [D.P.R. n.177/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988;177) | 90 |  |
-| Contributi ad enti pubblici e privati per attivita' di formazione | [L. n.49/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;49) [D.P.R. n.177/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988;177) | 90 | Ufficio V |
-| Liquidazione ad enti pubblici, societa' ed associazioni senza fini di lucro, in dipendenza di contratti o convenzioni per iniziative di cooperazione nel settore della formazione | [L. n.49/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;49) [D.P.R. n.177/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988;177) | 90 |  |
-| Impegno di spesa per assegnazione o rinnovo di borsa di studio in Italia in favore di cittadini dei PVS | [L. n.49/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;49) [D.P.R. n.177/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988;177) | 90 |  |
-| Selezione consulenti esterni | [L. n.49/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;49) [D.P.R. n.177/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988;177) | 90 | Ufficio VI |
-| Riconoscimento di idoneita' delle ONG che operano nel campo della cooperazione e per attivita' di informazione e di educazione allo sviluppo | [L. n.49/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;49) [D.P.R. n.177/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988;177) | 90 |  |
-| Revoca del riconoscimento di idoneita' delle ONG che operano nel campo della cooperazione | [L. n.49/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;49) [D.P.R. n.177/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988;177) | 90 |  |
-| Constatazione di decadenza del riconoscimento di idoneita' delle ONG che operano nel campo della cooperazione | [L. n.49/ 1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;49) [D.P.R. n.177/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988;177) | 60 |  |
-| Attribuzione della qualifica di volontario in servizio civile o di cooperante mediante registrazione del relativo contratto | [L. n.49/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;49) | 60 | Ufficio VII |
-| Autorizzazione alla risoluzione dei contratti di cooperazione dei volontari e cooperanti | [L. n.49/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;49) | 90 |  |
-| Impegno di spesa per la concessione di contributi per iniziative di cooperazione promosse dalle ONG, approvate dal Comitato direzionale | [L. n.49/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;49) [D.P.R. n.177/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988;177) | 90 |  |
-| Liquidazione oneri previdenziali ed assistenziali di volontari e cooperanti in servizio presso le ONG per iniziative di cooperazione | [L. n.49/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;49) [D.P.R. n.177/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988;177) | 90 |  |
-| Rimborsi degli oneri previdenziali ed assistenziali dei dipendenti pubblici inviati con qualifica di volontario nei Paesi in via di sviluppo | [L. n.49/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;49) [D.P.R. n.177/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988;177) | 90 |  |
-| Rilascio di attestati ai volontari in servizio civile o cooperanti per il servizio prestato in iniziative di cooperazione | [L. n.49/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;49) [D.P.R. n.177/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988;177) | 90 |  |
-| Liquidazione ad ONG in dipendenza di convenzioni per programmi affidati dal Comitato direzionale prima del 31.12.1993 | [L. n.49/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;49) [D.P.R. n.177/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988;177) [L. n.426/1996](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996;426) | 90 |  |
-| Istruttoria della delibera del Comitato Direzionale per la Cooperazione allo Sviluppo sulle domande di contributo per programmi promossi da ONG | [L. n. 49/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;49) [D.P.R. n. 177/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988;177) | 90 |  |
-| Liquidazione della prima anticipazione ad ONG a valere su contributi gia' approvati dal Comitato Direzionale | [L. n.49/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;49) | 60 |  |
-| Liquidazione di anticipazioni successive alla prima e del saldo ad ONG per progetti promossi | [L. n.49/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;49) | 90 |  |
-| Liquidazione di importi dovuti in dipendenza da atti transattivi | [L. n.49/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;49) [D.P.R. n.177/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988;177) | 90 |  |
-| Concessioni finanziamenti agevolati per la partecipazione di imprese italiane in imprese miste nei Paesi in via di sviluppo | [L. n.49/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;49) [D.P.R. n.177/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988;177) | 60 | Ufficio X |
-| Selezione consulenti esterni | [L. n.49/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;49) [D.P.R. n.177/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988;177) | 90 |  |
-| Liquidazione ad enti pubblici, societa', organismi e consulenti esterni in dipendenza di contratti e convenzioni per il funzionamento della Direzione Generale | [L. n.49/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;49) [D.P.R. n.177/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988;177) [D.Lgs. n.163/2006](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;163) | 60 | Ufficio XI |
-| Liquidazione missioni di cooperazione | [L. n.49/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;49) [D.P.R. n.177/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988;177) | 60 | Ufficio XII |
-| Selezione di personale da inviare in missione | [L. n.49/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;49) [D.P.R. n.177/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988;177) | 90 | Unita' Tecnica Centrale |
-
-  
-  
-  
-  
-- Direzione Generale per le Risorse e l'Innovazione   
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Procedimento | Riferimenti Normativi | Termine | Unita' organizzativa responsabile |
-| Preventiva autorizzazione a scritti | [D.P.R. n.18/1967](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967;18) | 60 |  |
-| Autorizzazione al personale dipendente allo svolgimento di incarichi | [D.Lgs. n.165/2001](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165) | 45 | Ufficio I |
-| Trasformazione del rapporto di lavoro da tempo pieno a tempo parziale e da tempo parziale a tempo pieno | [L. n.662/1996](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996;662) | 60 |  |
-| Provvedimenti di avviamento al lavoro per chiamata numerica delle categorie protette | [L. n.68/1999](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999;68) | 90 | Ufficio V |
-| Esame delle domande per interventi assistenziali in favore del personale in servizio ed in pensione e dei loro familiari | [D.P.R. n.3/1957](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957;3) | 60 | Ufficio VI |
-| Provvedimento di concessione dell'assegno per il nucleo familiare degli impiegati assunti a contratto dalle rappresentanze diplomatiche, dagli uffici consolari, e dagli istituti italiani di cultura all'estero | [L. n.153/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;153) | 40 | Ufficio VII |
-| Liquidazione spese per viaggi di servizio fuori dal Paese di residenza del personale in servizio presso uffici all'estero | [D.P.R. n.18/1967](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967;18) | 90 | Ufficio IX |
-
-  
-  
-  
-  
-- Ispettorato Generale del Ministero e degli Uffici all'estero   
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Procedimento | Riferimenti Normativi | Termine | Unita' organizzativa responsabile |
-| Liquidazione di missioni effettuate sul territorio nazionale o all'estero | [D.Lgs. n.860/1948](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948;860) [L. n.836/1973](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973;836) | 60 |  |
+Il Presidente del Consiglio dei Ministri Berlusconi Il Ministro degli affari esteri Frattini Il Ministro per la pubblica amministrazione e l'innovazione Brunetta Il Ministro per la semplificazione normativa Calderoli Visto, il Guardasigilli: Palma Registrato alla Corte dei conti il 25 ottobre 2011 Ministeri istituzionali, registro n. 19, foglio n. 290

@@ -1,14 +1,14 @@
-DECRETO LEGISLATIVO LUOGOTENENZIALE 30 giugno 1944 n. 218
+---
+tipo: DECRETO LEGISLATIVO LUOGOTENENZIALE
+numero: 218
+data: 1944-06-30
+titolo: "Anticipazioni a favore dell'Amministrazione autonoma degli archivi notarili. (044U0218)"
+urn: urn:nir:stato:decreto.legislativo.luogotenenziale:1944-06-30;218
+codice_redazionale: 044U0218
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO LUOGOTENENZIALE 30 giugno 1944 n. 218
-=========================================================
-
-Anticipazioni a favore dell'Amministrazione autonoma degli archivi notarili. (044U0218)
----------------------------------------------------------------------------------------
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

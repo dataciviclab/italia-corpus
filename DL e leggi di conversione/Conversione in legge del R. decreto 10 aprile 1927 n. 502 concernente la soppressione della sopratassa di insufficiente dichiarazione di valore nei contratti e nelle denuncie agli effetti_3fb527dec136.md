@@ -1,16 +1,14 @@
-LEGGE 29 dicembre 1927 n. 2696
+---
+tipo: LEGGE
+numero: 2696
+data: 1927-12-29
+titolo: "Conversione in legge del R. decreto 10 aprile 1927, n. 502, concernente la soppressione della sopratassa di insufficiente dichiarazione di valore nei contratti e nelle denuncie agli effetti delle tasse di trasferimento. (027U2696)"
+urn: urn:nir:stato:legge:1927-12-29;2696
+codice_redazionale: 027U2696
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 29 dicembre 1927 n. 2696
-==============================
-
-Conversione in legge del R. decreto 10 aprile 1927, n. 502, concernente la soppressione della sopratassa di insufficiente dichiarazione di valore nei contratti e nelle denuncie agli effetti delle tasse di trasferimento. (027U2696)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/01/1928
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

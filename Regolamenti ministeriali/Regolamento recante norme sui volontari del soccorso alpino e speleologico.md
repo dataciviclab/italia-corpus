@@ -1,119 +1,134 @@
-DECRETO 24 marzo 1994 n. 379
-
-
-DECRETO 24 marzo 1994 n. 379
-============================
-
-Regolamento recante norme sui volontari del soccorso alpino e speleologico.
----------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 2/7/1994
+---
+tipo: DECRETO
+numero: 379
+data: 1994-03-24
+titolo: "Regolamento recante norme sui volontari del soccorso alpino e speleologico."
+urn: urn:nir:ministero.lavoro.e.previdenza.sociale:decreto:1994-03-24;379
+codice_redazionale: 094G0427
+vigente: true
+---
 
 IL MINISTRO DEL LAVORO
-----------------------
 
 E DELLA PREVIDENZA SOCIALE
 
-Vista la [legge 18 febbraio 1992, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-18;162), recante provvedimenti per i volontari del soccorso alpino e speleologico;
+Vista la [legge 18 febbraio 1992, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-18;162), recante provvedimenti per i volontari del soccorso alpino e speleologico;
 
 Visto, in particolare, l'art. 2 che prevede l'emanazione di un regolamento attuativo recante disposizioni sull'accertamento dell'avvenuto impiego e dell'astensione dal lavoro dei volontari, sulle caratteristiche di tale impiego, nonche' sulle modalita' e termini per le richieste di rimborso della retribuzione e di corresponsione dell'indennita':
 
-Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3);
+Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
 Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 27 gennaio 1994;
 
-Vista la comunicazione al Presidente del Consiglio dei Ministri, a norma dell'art. 17, comma 3, della citata [legge n. 400 del 1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400) (nota n. 2483-III/4 del 21 febbraio 1994);
+Vista la comunicazione al Presidente del Consiglio dei Ministri, a norma dell'art. 17, comma 3, della citata [legge n. 400 del 1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400) (nota n. 2483-III/4 del 21 febbraio 1994);
 
 A D O T T A il seguente regolamento:
 
-Art. 1
-------
+## Art. 1. — Disposizioni relative all'impiego dei volontari
 
-Disposizioni relative all'impiego dei volontari
+1.
 
-1. Costituisce operazione di soccorso alpino e speleologico e relativa esercitazione, rispettivamente, ogni intervento alpinistico o speleologico che sia volto al soccorso degli infortunati o di chi versi in stato di pericolo, nonche' al recupero dei caduti, ed ogni corrispondente attivita' di addestramento organizzata a carattere nazionale o regionale.
+Costituisce operazione di soccorso alpino e speleologico e relativa esercitazione, rispettivamente, ogni intervento alpinistico o speleologico che sia volto al soccorso degli infortunati o di chi versi in stato di pericolo, nonche' al recupero dei caduti, ed ogni corrispondente attivita' di addestramento organizzata a carattere nazionale o regionale.
 
-2. La dichiarazione relativa all'avvenuto impiego dei volontari del Corpo nazionale del soccorso alpino e speleologico del Club alpino italiano in operazioni di soccorso o di esercitazione, ai fini di cui al comma 1, e' rilasciata dal sindaco del comune ove le operazioni medesime sono state espletate, o da un suo delegato, oppure in caso di comuni contigui, dai sindaci dei comuni territorialmente competenti, o dai loro delegati.
+2.
 
-3. Ai fini di cui al comma 2, i capi stazione o i capi squadra del Corpo nazionale del soccorso alpino e speleologico attestano, tramite il delegato di zona, alla predetta autorita' amministrativa locale il contingente nominativo e numerico dei volontari impiegati nelle operazioni di soccorso o di esercitazione, con l'indicazione dell'ora di inizio e di ultimazione delle operazioni effettuate.
+La dichiarazione relativa all'avvenuto impiego dei volontari del Corpo nazionale del soccorso alpino e speleologico del Club alpino italiano in operazioni di soccorso o di esercitazione, ai fini di cui al comma 1, e' rilasciata dal sindaco del comune ove le operazioni medesime sono state espletate, o da un suo delegato, oppure in caso di comuni contigui, dai sindaci dei comuni territorialmente competenti, o dai loro delegati.
 
-4. Nel computo del periodo di effettivo impiego dei volontari deve essere compreso il tempo necessario per la ripresa dell'attivita' lavorativa.
+3.
 
-5. Il Corpo nazionale soccorso alpino e speleologico - Sezione particolare del Club alpino italiano, trasmette annualmente agli uffici provinciali del lavoro e della massima occupazione ed agli istituti previdenziali interessati, i nominativi dei volontari del Corpo nazionale del soccorso alpino e speleologico.  
-AVVERTENZA:  
-Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.  
-Note alle premesse:  
-- Il testo dell'[art. 2 della legge n. 162/1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;162~art2) (Provvedimenti per i volontari del Corpo nazionale del soccorso alpino e speleologico e per l'agevolazione delle relative operazioni di soccorso) e' il seguente:  
-"Art. 2. - 1. Il regolamento per l'attuazione della presente legge e' emanato, entro tre mesi dalla data della sua entrata in vigore, con decreto del Ministro del lavoro e della previdenza sociale, ai sensi dell'[art. 17, comma 4, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com4). Il regolamento, in particolare, detta norme:  
-a) per l'accertamento dell'avvenuto impiego dei volontari in operazioni di soccorso od esercitazioni:  
-b) sulle caratteristiche che tale impiego deve assumere per dare diritto alla retribuzione o all'indennita':  
-c) per l'accertamento dell'avvenuta astensione dal lavoro:  
-d) sulle modalita' e i termini per le richieste di rimborso, nonche' per la liquidazione delle indennita' spettanti ai lavoratori autonomi, da determinarsi in misura pari alla media delle retribuzioni spettanti ai lavoratori dipendenti del settore industria".  
-- Il [comma 3 dell'art. 17 della legge n. 400/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.  
-Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
+Ai fini di cui al comma 2, i capi stazione o i capi squadra del Corpo nazionale del soccorso alpino e speleologico attestano, tramite il delegato di zona, alla predetta autorita' amministrativa locale il contingente nominativo e numerico dei volontari impiegati nelle operazioni di soccorso o di esercitazione, con l'indicazione dell'ora di inizio e di ultimazione delle operazioni effettuate.
 
-Art. 2
-------
+4.
 
-Volontari lavoratori dipendenti
+Nel computo del periodo di effettivo impiego dei volontari deve essere compreso il tempo necessario per la ripresa dell'attivita' lavorativa.
 
-1. I datori di lavoro che intendono avvalersi della facolta' prevista dal [comma 2 dell'art. 1 della legge 18 febbraio 1992, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-18;162~art1-com2), per ottenere il rimborso della retribuzione corrisposta ai lavoratori dipendenti per il periodo di astensione dal lavoro, debbono farne domanda alla competente sede provinciale dell'Istituto di previdenza.
+5.
 
-2. La domanda deve essere inoltrata, a pena di decadenza, entro la fine del mese successivo a quello in cui il lavoratore ha effettuato l'operazione di soccorso o l'esercitazione.
+Il Corpo nazionale soccorso alpino e speleologico - Sezione particolare del Club alpino italiano, trasmette annualmente agli uffici provinciali del lavoro e della massima occupazione ed agli istituti previdenziali interessati, i nominativi dei volontari del Corpo nazionale del soccorso alpino e speleologico.
+ AVVERTENZA:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Note alle premesse:
+ - Il testo dell'[art. 2 della legge n. 162/1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;162#art_2) (Provvedimenti per i volontari del Corpo nazionale del soccorso alpino e speleologico e per l'agevolazione delle relative operazioni di soccorso) e' il seguente:
+ "Art. 2. - 1. Il regolamento per l'attuazione della presente legge e' emanato, entro tre mesi dalla data della sua entrata in vigore, con decreto del Ministro del lavoro e della previdenza sociale, ai sensi dell'[art. 17, comma 4, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4). Il regolamento, in particolare, detta norme:
+ a) per l'accertamento dell'avvenuto impiego dei volontari in operazioni di soccorso od esercitazioni:
+ b) sulle caratteristiche che tale impiego deve assumere per dare diritto alla retribuzione o all'indennita':
+ c) per l'accertamento dell'avvenuta astensione dal lavoro:
+ d) sulle modalita' e i termini per le richieste di rimborso, nonche' per la liquidazione delle indennita' spettanti ai lavoratori autonomi, da determinarsi in misura pari alla media delle retribuzioni spettanti ai lavoratori dipendenti del settore industria".
+ - Il [comma 3 dell'art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.
+ Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
 
-3. La domanda deve contenere le generalita' del lavoratore che ha effettuato l'operazione di soccorso o l'esercitazione, l'importo della retribuzione corrisposta, nonche' l'attestazione del sindaco, o dei sindaci dei comuni territorialmente competenti, o di loro delegati, comprovante l'avvenuto impiego nelle predette attivita' e i relativi tempi di durata, e la dichiarazione sottoscritta dallo stesso datore di lavoro indicante la corrispondente astensione dal lavoro.
+## Art. 2. — Volontari lavoratori dipendenti
 
-4. Il datore di lavoro presso cui e' occupato il volontariato e' tenuto, per le giornate di impiego dello stesso in operazioni di soccorso o di esercitazione, ad effettuare sui documenti di lavoro obbligatori le registrazioni comprovanti l'avvenuta astensione dal lavoro.
+1.
 
-5. Gli istituti previdenziali, a chiusura di ciascun esercizio finanziario, inviano la richiesta di rimborso al Ministero del lavoro e della previdenza sociale. Alla domanda di rimborso devono essere allegate le dichiarazioni del presidente e dell'organo di controllo dell'Istituto attestanti che i rimborsi sono stati concessi nei modi e nei termini stabiliti dalla legge e dal presente regolamento.
+I datori di lavoro che intendono avvalersi della facolta' prevista dal [comma 2 dell'art. 1 della legge 18 febbraio 1992, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-18;162#art_1-com2), per ottenere il rimborso della retribuzione corrisposta ai lavoratori dipendenti per il periodo di astensione dal lavoro, debbono farne domanda alla competente sede provinciale dell'Istituto di previdenza.
 
-Nota all'art. 2:  
-- Il comma 2 dell'art. 1 della citata [legge n. 162/1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;162) prevede che: "Ai volontari che siano lavoratori dipendenti compete l'intero trattamento economico e previdenziale relativo ai giorni in cui si sono astenuti dal lavoro ai sensi del comma 1. La retribuzione e' corrisposta direttamente dal datore di lavoro, il quale ha facolta' di chiederne il rimborso all'istituto di previdenza cui il lavoratore e' iscritto".
+2.
 
-Art. 3
-------
+La domanda deve essere inoltrata, a pena di decadenza, entro la fine del mese successivo a quello in cui il lavoratore ha effettuato l'operazione di soccorso o l'esercitazione.
 
-Volontari lavoratori autonomi
+3.
 
-1. I volontari che siano lavoratori autonomi, al fine di percepire l'indennita' prevista dal [comma 3 dell'art. 1 della legge 18 febbraio 1992, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-18;162~art1-com3), per il periodo di astensione dal lavoro, debbono farne richiesta all'ufficio provinciale del lavoro e della massima occupazione competente per territorio.
+La domanda deve contenere le generalita' del lavoratore che ha effettuato l'operazione di soccorso o l'esercitazione, l'importo della retribuzione corrisposta, nonche' l'attestazione del sindaco, o dei sindaci dei comuni territorialmente competenti, o di loro delegati, comprovante l'avvenuto impiego nelle predette attivita' e i relativi tempi di durata, e la dichiarazione sottoscritta dallo stesso datore di lavoro indicante la corrispondente astensione dal lavoro.
 
-2. La domanda deve essere inoltrata, a pena di decadenza, entro la fine del mese successivo a quello in cui il volontario ha effettuato l'operazione di soccorso o l'esercitazione.
+4.
 
-3. Alla domanda, che deve contenere le generalita' del volontario che ha effettuato l'operazione di soccorso o l'esercitazione, deve essere allegata l'attestazione del sindaco, o dei sindaci dei comuni territorialmente competenti, o di loro delegati, comprovante l'avvenuto impiego nelle predette attivita' e i relativi tempi di durata, nonche' la personale dichiarazione dell'interessato di corrispondente astensione dal lavoro, resa ai sensi dell'[art. 4 della legge 4 gennaio 1968, n. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15~art4).
+Il datore di lavoro presso cui e' occupato il volontariato e' tenuto, per le giornate di impiego dello stesso in operazioni di soccorso o di esercitazione, ad effettuare sui documenti di lavoro obbligatori le registrazioni comprovanti l'avvenuta astensione dal lavoro.
 
-4. L'ufficio provinciale del lavoro e della massima occupazione, una volta determinato l'ammontare dell'indennita' spettante al volontario, sulla base dell'importo fissato annualmente con decreto del Ministro del lavoro e della previdenza sociale, richiede apposita apertura di credito al Ministero del lavoro e della previdenza sociale procedendo quindi al pagamento dell'indennita' all'avente diritto.
+5.
 
-5. Ai fini della determinazione dell'indennita' compensativa del mancato reddito relativo ai giorni in cui i lavoratori autonomi si sono astenuti dal lavoro per l'espletamento delle attivita' di soccorso o di esercitazione, non si tiene conto dei giorni festivi in cui le medesime hanno avuto luogo, fatta eccezione per quelle categorie di lavoratori autonomi la cui attivita' lavorativa si esplica anche o prevalentemente nei giorni festivi.
+Gli istituti previdenziali, a chiusura di ciascun esercizio finanziario, inviano la richiesta di rimborso al Ministero del lavoro e della previdenza sociale. Alla domanda di rimborso devono essere allegate le dichiarazioni del presidente e dell'organo di controllo dell'Istituto attestanti che i rimborsi sono stati concessi nei modi e nei termini stabiliti dalla legge e dal presente regolamento.
 
-Note all'art. 3:  
-- Il comma 3 dell'art. 1 della citata [legge n. 162/1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;162) prevede che: "I volontari che siano lavoratori autonomi hanno diritto a percepire una indennita' per il mancato reddito relativo ai giorni in cui si sono astenuti dal lavoro ai sensi del comma 1. Presso il Ministero del lavoro e della previdenza sociale e' istituito un fondo di accantonamento, per la corresponsione ai lavoratori autonomi della predetta indennita'".  
-- La [legge n. 15/1968](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968;15) reca: "Norme sulla documentazione amministrativa e sulla legalizzazione e autenticazione delle firme". Si trascrive qui di seguito il testo dell'art. 4 nonche' dell'art. 20 della stessa legge ivi citato:  
-"Art. 4 (Dichiarazione sostitutiva dell'atto di notorieta'). - L'atto di notorieta' concernente fatti, stati o qualita' personali che siano a diretta conoscenza dell'interessato e' sostituito da dichiarazione resa e sottoscritta dal medesimo dinanzi al funzionario competente a ricevere la documentazione, o dinanzi a un notaio, cancelliere, segretario comunale, o altro funzionario incaricato dal sindaco, il quale provvede all'autenticazione della sottoscrizione con l'osservanza delle modalita' di cui all'art. 20".  
-"Art. 20 (Autenticazione delle sottoscrizioni). - La sottoscrizione di istanze da produrre agli organi della pubblica amministrazione puo' essere autenticata, ove l'autenticazione sia prescritta, dal funzionario competente a ricevere la documentazione, o da un notaio, cancelliere, segretario comunale, o altro funzionario incaricato dal sindaco.  
-L'autenticazione deve essere redatta di seguito alla sottoscrizione e consiste nell'attestazione, da parte del pubblico ufficiale, che la sottoscrizione stessa e' stata apposta in sua presenza, previo accertamento dell'identita' della persona che sottoscrive.  
-Il pubblico ufficiale che autentica deve indicare le modalita' di identificazione, la data e il luogo della autenticazione, il proprio nome e cognome, la qualita' rivestita, nonche' apporre la propria firma per esteso ed il timbro dell'ufficio.  
-Per l'autenticazione delle firme apposte sui margini dei fogli intermedi e' sufficiente che il pubblico ufficiale aggiunga la propria firma".
+Nota all'art. 2:
+ - Il comma 2 dell'art. 1 della citata [legge n. 162/1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;162) prevede che: "Ai volontari che siano lavoratori dipendenti compete l'intero trattamento economico e previdenziale relativo ai giorni in cui si sono astenuti dal lavoro ai sensi del comma 1. La retribuzione e' corrisposta direttamente dal datore di lavoro, il quale ha facolta' di chiederne il rimborso all'istituto di previdenza cui il lavoratore e' iscritto".
 
-Art. 4
-------
+## Art. 3. — Volontari lavoratori autonomi
 
-Disciplina transitoria
+1.
 
-1. Per le operazioni di soccorso alpino e speleologico e relative esercitazioni, effettuate nel periodo compreso tra la data di entrata in vigore della [legge 12 febbraio 1992, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-12;162), e quella di pubblicazione nella Gazzetta Ufficiale della Repubblica italiana del presente regolamento di attuazione, le domande di cui agli articoli 2 e 3, devono essere presentate, a pena di decadenza, entro sessanta giorni dalla suindicata data di pubblicazione.
+I volontari che siano lavoratori autonomi, al fine di percepire l'indennita' prevista dal [comma 3 dell'art. 1 della legge 18 febbraio 1992, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-18;162#art_1-com3), per il periodo di astensione dal lavoro, debbono farne richiesta all'ufficio provinciale del lavoro e della massima occupazione competente per territorio.
 
-2. Le domande devono contenere gli elementi di cui all'art. 2, comma 3, per i lavoratori dipendenti e di cui all'art. 3, comma 3, per i lavoratori autonomi; l'attestazione del sindaco, o dei sindaci dei comuni territorialmente competenti, e' sostituita da una dichiarazione di responsabilita' del volontario, resa ai sensi dell'[art. 4 della legge 4 gennaio 1968, n. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15~art4).
+2.
+
+La domanda deve essere inoltrata, a pena di decadenza, entro la fine del mese successivo a quello in cui il volontario ha effettuato l'operazione di soccorso o l'esercitazione.
+
+3.
+
+Alla domanda, che deve contenere le generalita' del volontario che ha effettuato l'operazione di soccorso o l'esercitazione, deve essere allegata l'attestazione del sindaco, o dei sindaci dei comuni territorialmente competenti, o di loro delegati, comprovante l'avvenuto impiego nelle predette attivita' e i relativi tempi di durata, nonche' la personale dichiarazione dell'interessato di corrispondente astensione dal lavoro, resa ai sensi dell'[art. 4 della legge 4 gennaio 1968, n. 15](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md).
+
+4.
+
+L'ufficio provinciale del lavoro e della massima occupazione, una volta determinato l'ammontare dell'indennita' spettante al volontario, sulla base dell'importo fissato annualmente con decreto del Ministro del lavoro e della previdenza sociale, richiede apposita apertura di credito al Ministero del lavoro e della previdenza sociale procedendo quindi al pagamento dell'indennita' all'avente diritto.
+
+5.
+
+Ai fini della determinazione dell'indennita' compensativa del mancato reddito relativo ai giorni in cui i lavoratori autonomi si sono astenuti dal lavoro per l'espletamento delle attivita' di soccorso o di esercitazione, non si tiene conto dei giorni festivi in cui le medesime hanno avuto luogo, fatta eccezione per quelle categorie di lavoratori autonomi la cui attivita' lavorativa si esplica anche o prevalentemente nei giorni festivi.
+
+Note all'art. 3:
+ - Il comma 3 dell'art. 1 della citata [legge n. 162/1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;162) prevede che: "I volontari che siano lavoratori autonomi hanno diritto a percepire una indennita' per il mancato reddito relativo ai giorni in cui si sono astenuti dal lavoro ai sensi del comma 1. Presso il Ministero del lavoro e della previdenza sociale e' istituito un fondo di accantonamento, per la corresponsione ai lavoratori autonomi della predetta indennita'".
+ - La [legge n. 15/1968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968;15) reca: "Norme sulla documentazione amministrativa e sulla legalizzazione e autenticazione delle firme". Si trascrive qui di seguito il testo dell'art. 4 nonche' dell'art. 20 della stessa legge ivi citato:
+ "Art. 4 (Dichiarazione sostitutiva dell'atto di notorieta'). - L'atto di notorieta' concernente fatti, stati o qualita' personali che siano a diretta conoscenza dell'interessato e' sostituito da dichiarazione resa e sottoscritta dal medesimo dinanzi al funzionario competente a ricevere la documentazione, o dinanzi a un notaio, cancelliere, segretario comunale, o altro funzionario incaricato dal sindaco, il quale provvede all'autenticazione della sottoscrizione con l'osservanza delle modalita' di cui all'art. 20".
+ "Art. 20 (Autenticazione delle sottoscrizioni). - La sottoscrizione di istanze da produrre agli organi della pubblica amministrazione puo' essere autenticata, ove l'autenticazione sia prescritta, dal funzionario competente a ricevere la documentazione, o da un notaio, cancelliere, segretario comunale, o altro funzionario incaricato dal sindaco.
+ L'autenticazione deve essere redatta di seguito alla sottoscrizione e consiste nell'attestazione, da parte del pubblico ufficiale, che la sottoscrizione stessa e' stata apposta in sua presenza, previo accertamento dell'identita' della persona che sottoscrive.
+ Il pubblico ufficiale che autentica deve indicare le modalita' di identificazione, la data e il luogo della autenticazione, il proprio nome e cognome, la qualita' rivestita, nonche' apporre la propria firma per esteso ed il timbro dell'ufficio.
+ Per l'autenticazione delle firme apposte sui margini dei fogli intermedi e' sufficiente che il pubblico ufficiale aggiunga la propria firma".
+
+## Art. 4. — Disciplina transitoria
+
+1.
+
+Per le operazioni di soccorso alpino e speleologico e relative esercitazioni, effettuate nel periodo compreso tra la data di entrata in vigore della [legge 12 febbraio 1992, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-12;162), e quella di pubblicazione nella Gazzetta Ufficiale della Repubblica italiana del presente regolamento di attuazione, le domande di cui agli articoli 2 e 3, devono essere presentate, a pena di decadenza, entro sessanta giorni dalla suindicata data di pubblicazione.
+
+2.
+
+Le domande devono contenere gli elementi di cui all'art. 2, comma 3, per i lavoratori dipendenti e di cui all'art. 3, comma 3, per i lavoratori autonomi; l'attestazione del sindaco, o dei sindaci dei comuni territorialmente competenti, e' sostituita da una dichiarazione di responsabilita' del volontario, resa ai sensi dell'[art. 4 della legge 4 gennaio 1968, n. 15](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md).
+
+Note all'art. 4:
+ - Per il titolo della [legge n. 162/1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;162) si veda in note alle premesse.
+ - Per il testo dell'[art. 4 della legge n. 15/1968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968;15#art_4) si veda in note all'art. 3.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 24 marzo 1994
+Roma, 24 marzo 1994
 
-Il Ministro: GIUGNI
-
-Visto, il Guardasigilli: CONSO Registrato alla Corte dei conti il 31 maggio 1994
-
-Registro n. 1 Lavoro, foglio n. 139
-
-Note all'art. 4:  
-- Per il titolo della [legge n. 162/1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;162) si veda in note alle premesse.  
-- Per il testo dell'[art. 4 della legge n. 15/1968](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968;15~art4) si veda in note all'art. 3.
+Il Ministro: GIUGNI Visto, il Guardasigilli: CONSO Registrato alla Corte dei conti il 31 maggio 1994 Registro n. 1 Lavoro, foglio n. 139

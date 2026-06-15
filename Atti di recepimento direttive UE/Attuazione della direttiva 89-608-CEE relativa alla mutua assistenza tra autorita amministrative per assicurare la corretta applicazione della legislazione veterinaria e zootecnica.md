@@ -1,176 +1,169 @@
-DECRETO LEGISLATIVO 30 gennaio 1993 n. 27
+---
+tipo: DECRETO LEGISLATIVO
+numero: 27
+data: 1993-01-30
+titolo: "Attuazione della direttiva 89/608/CEE relativa alla mutua assistenza tra autorita' amministrative per assicurare la corretta applicazione della legislazione veterinaria e zootecnica."
+urn: urn:nir:stato:decreto.legislativo:1993-01-30;27
+codice_redazionale: 093G0065
+vigente: true
+---
 
+## LEGISLAZIONE VETERINARIA Capo I DISPOSIZIONI GENERALI
 
-DECRETO LEGISLATIVO 30 gennaio 1993 n. 27
-=========================================
+Titolo I
 
-Attuazione della direttiva 89/608/CEE relativa alla mutua assistenza tra autorita' amministrative per assicurare la corretta applicazione della legislazione veterinaria e zootecnica.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del decreto: 19-2-1993
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
 
-CAPO I Titolo I LEGISLAZIONE VETERINARIA Capo I DISPOSIZIONI GENERALI
----------------------------------------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;23)))
+### Art. 3.
 
-### Art. 2
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;23)))
+## LEGISLAZIONE VETERINARIA Capo II ASSISTENZA SU RICHIESTA
 
-### Art. 3
+Titolo I
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;23)))
+### Art. 4.
 
-CAPO II Titolo I LEGISLAZIONE VETERINARIA Capo II ASSISTENZA SU RICHIESTA
--------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
 
-### Art. 4
+### Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;23)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
 
-### Art. 5
+### Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;23)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
 
-### Art. 6
+### Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;23)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
 
-### Art. 7
+## LEGISLAZIONE VETERINARIA Capo III ASSISTENZA SPONTANEA
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;23)))
+Titolo I
 
-CAPO III Titolo I LEGISLAZIONE VETERINARIA Capo III ASSISTENZA SPONTANEA
-------------------------------------------------------------------------
+### Art. 8.
 
-### Art. 8
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;23)))
+## LEGISLAZIONE VETERINARIA Capo IV DISPOSIZIONI FINALI
 
-CAPO IV Titolo I LEGISLAZIONE VETERINARIA Capo IV DISPOSIZIONI FINALI
----------------------------------------------------------------------
+Titolo I
 
-### Art. 9
+### Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;23)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
 
-### Art. 10
+### Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;23)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
 
-### Art. 11
+### Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;23)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
 
-### Art. 12
+### Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;23)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
 
-### Art. 13
+### Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;23)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
 
-### Art. 14
+### Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;23)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
 
-### Art. 15
+### Art. 15.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;23)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
 
-### Art. 16
+### Art. 16.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;23)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
 
-CAPO V Titolo II LEGISLAZIONE ZOOTECNICA Capo I DISPOSIZIONI GENERALI
----------------------------------------------------------------------
+## LEGISLAZIONE ZOOTECNICA Capo I DISPOSIZIONI GENERALI
 
-### Art. 17
+Titolo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;23)))
+### Art. 17.
 
-### Art. 18
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;23)))
+### Art. 18.
 
-### Art. 19
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;23)))
+### Art. 19.
 
-CAPO VI Titolo II LEGISLAZIONE ZOOTECNICA Capo II ASSISTENZA SU RICHIESTA
--------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
 
-### Art. 20
+## LEGISLAZIONE ZOOTECNICA Capo II ASSISTENZA SU RICHIESTA
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;23)))
+Titolo II
 
-### Art. 21
+### Art. 20.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;23)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
 
-### Art. 22
+### Art. 21.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;23)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
 
-### Art. 23
+### Art. 22.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;23)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
 
-CAPO VII Titolo II LEGISLAZIONE ZOOTECNICA Capo III ASSISTENZA SPONTANEA
-------------------------------------------------------------------------
+### Art. 23.
 
-### Art. 24
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;23)))
+## LEGISLAZIONE ZOOTECNICA Capo III ASSISTENZA SPONTANEA
 
-CAPO VIII Titolo II LEGISLAZIONE ZOOTECNICA Capo IV DISPOSIZIONI FINALI
------------------------------------------------------------------------
+Titolo II
 
-### Art. 25
+### Art. 24.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;23)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
 
-### Art. 26
+## LEGISLAZIONE ZOOTECNICA Capo IV DISPOSIZIONI FINALI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;23)))
+Titolo II
 
-### Art. 27
+### Art. 25.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;23)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
 
-### Art. 28
+### Art. 26.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;23)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
 
-### Art. 29
+### Art. 27.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;23)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
 
-### Art. 30
+### Art. 28.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;23)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
 
-### Art. 31
+### Art. 29.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;23)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
 
-### Art. 32
+### Art. 30.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;23)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
 
-Allegato A
+### Art. 31.
 
- Allegato A   
-  
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;23)))
+### Art. 32.
 
-Allegato B
-
- Allegato B   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;23)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))

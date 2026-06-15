@@ -1,121 +1,94 @@
-DECRETO 16 novembre 2006 n. 302
-
-
-DECRETO 16 novembre 2006 n. 302
-===============================
-
-Regolamento recante norme di integrazione e modifica del regolamento di attuazione degli articoli 2 e 4 della legge 7 agosto 1990, n. 241, adottato con decreto ministeriale 24 ottobre 2000, n. 391.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/1/2007
+---
+tipo: DECRETO
+numero: 302
+data: 2006-11-16
+titolo: "Regolamento recante norme di integrazione e modifica del regolamento di attuazione degli articoli 2 e 4 della legge 7 agosto 1990, n. 241, adottato con decreto ministeriale 24 ottobre 2000, n. 391."
+urn: urn:nir:ministero.commercio.internazionale:decreto:2006-11-16;302
+codice_redazionale: 006G0323
+vigente: true
+---
 
 IL MINISTRO DEL COMMERCIO INTERNAZIONALE
-----------------------------------------
 
-Visti gli [articoli 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art2) e [4 della legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art4), e successive modificazioni ed integrazioni;
+Visti gli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_2) e [4 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_4), e successive modificazioni ed integrazioni;
 
-Visto il [decreto ministeriale 24 ottobre 2000, n. 391](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:2000-10-24;391), inerente «Regolamento recante norme di integrazione e modifica del regolamento di attuazione degli [articoli 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art2) e [4 della legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art4), adottato con [decreto ministeriale 11 aprile 1994, n. 454](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1994-04-11;454)»;
+Visto il [decreto ministeriale 24 ottobre 2000, n. 391](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:2000-10-24;391), inerente «Regolamento recante norme di integrazione e modifica del regolamento di attuazione degli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_2) e [4 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_4), adottato con [decreto ministeriale 11 aprile 1994, n. 454](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1994-04-11;454)»;
 
-Visto il [decreto del Presidente della Repubblica del 18 aprile 1994, n. 302](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1994-04-18;302), concernente l'individuazione degli Uffici di livello dirigenziale generale del Ministero del commercio con l'estero;
+Visto il [decreto del Presidente della Repubblica del 18 aprile 1994, n. 302](../Regolamenti%20governativi/Regolamento%20concernente%20lindividuazione%20degli%20uffici%20di%20livello%20dirigenziale%20del%20Ministero%20del%20commercio%20con%20lestero.md), concernente l'individuazione degli Uffici di livello dirigenziale generale del Ministero del commercio con l'estero;
 
 Visto il decreto ministeriale 23 febbraio 1999, e successive modifiche, che individua le unita' dirigenziali di livello non generale del Ministero del commercio con l'estero e le relative competenze;
 
-Visto il [decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300), recante riforma dell'organizzazione del Governo, a norma dell'[articolo 11 della legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art11), e successive modificazioni ed integrazioni;
+Visto il [decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), recante riforma dell'organizzazione del Governo, a norma dell'[articolo 11 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), e successive modificazioni ed integrazioni;
 
-Visto il [decreto-legge 18 maggio 2006, n. 181](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-05-18;181), convertito, con modificazioni, nella [legge 17 luglio 2006, n. 233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-07-17;233), recante disposizioni urgenti in materia di riordino delle attribuzioni della Presidenza del Consiglio dei Ministri e dei Ministeri. Delega al Governo per il coordinamento delle disposizioni in materia di funzioni e organizzazione della Presidenza del Consiglio dei Ministri e dei Ministeri, con il quale, tra gli altri, e' stato istituito il Ministero del commercio internazionale;
+Visto il [decreto-legge 18 maggio 2006, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-05-18;181), convertito, con modificazioni, nella [legge 17 luglio 2006, n. 233](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20maggio%202006%20n.%20181%20recante%20disposizioni%20urgenti%20in%20materia%20di%20riordino%20delle%20attribuzioni%20della%20Presidenza%20del%20Consiglio%20dei%20Mi_b54721a56e19.md), recante disposizioni urgenti in materia di riordino delle attribuzioni della Presidenza del Consiglio dei Ministri e dei Ministeri. Delega al Governo per il coordinamento delle disposizioni in materia di funzioni e organizzazione della Presidenza del Consiglio dei Ministri e dei Ministeri, con il quale, tra gli altri, e' stato istituito il Ministero del commercio internazionale;
 
-Visto il [decreto del Presidente della Repubblica 26 marzo 2001, n. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;175), concernente il regolamento di organizzazione del Ministero delle attivita' produttive;
+Visto il [decreto del Presidente della Repubblica 26 marzo 2001, n. 175](../Regolamenti%20governativi/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20attivita%20produttive.md), concernente il regolamento di organizzazione del Ministero delle attivita' produttive;
 
-Visto il [decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165), recante norme sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche;
+Visto il [decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), recante norme sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche;
 
-Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3);
+Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-Considerata la necessita' di procedere alla modifica della tabella allegata al citato [decreto ministeriale n. 391 del 2000](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:2000;391);
+Considerata la necessita' di procedere alla modifica della tabella allegata al citato [decreto ministeriale n. 391 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:2000;391);
 
-Udito il [parere del Consiglio di Stato n. 3852](https://e-justice.europa.eu/ecli/ECLI::::), espresso nell'Adunanza della sezione consultiva per gli atti normativi del 9 ottobre 2006;
+Udito il parere del Consiglio di Stato n. 3852, espresso nell'Adunanza della sezione consultiva per gli atti normativi del 9 ottobre 2006;
 
-Vista la comunicazione al Presidente del Consiglio dei Ministri a norma dell'articolo 17, comma 3 della citata [legge n. 400 del 1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400), effettuata con nota del 16 ottobre 2006, prot. 52353;
+Vista la comunicazione al Presidente del Consiglio dei Ministri a norma dell'articolo 17, comma 3 della citata [legge n. 400 del 1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400), effettuata con nota del 16 ottobre 2006, prot. 52353;
 
-Adotta
-------
+Adotta il seguente regolamento:
 
-il seguente regolamento:
+## Art. 1.
 
-Art. 1
-------
+1.
 
-1. La tabella allegata al regolamento adottato con [decreto 24 ottobre 2000, n. 391, del Ministro del commercio internazionale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.commercio.internazionale:decreto:2000-10-24;391), relativa ai procedimenti di competenza della Direzione generale per la politica commerciale e per la gestione degli scambi, limitatamente ai procedimenti di rilascio di autorizzazioni di licenze all'importazione e all'esportazione di specie della flora e della fauna selvatiche soggette, secondo quanto prescritto dalla Convenzione di Washington - CITES, al controllo del loro commercio, e' sostituita dalla tabella allegata al presente regolamento.
+La tabella allegata al regolamento adottato con [decreto 24 ottobre 2000, n. 391, del Ministro del commercio internazionale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.commercio.internazionale:decreto:2000-10-24;391), relativa ai procedimenti di competenza della Direzione generale per la politica commerciale e per la gestione degli scambi, limitatamente ai procedimenti di rilascio di autorizzazioni di licenze all'importazione e all'esportazione di specie della flora e della fauna selvatiche soggette, secondo quanto prescritto dalla Convenzione di Washington - CITES, al controllo del loro commercio, e' sostituita dalla tabella allegata al presente regolamento.
 
-2. Il presente regolamento, oltre che pubblicato nella Gazzetta Ufficiale della Repubblica italiana, e' reso pubblico mediante il Bollettino ufficiale.
+2.
+
+Il presente regolamento, oltre che pubblicato nella Gazzetta Ufficiale della Repubblica italiana, e' reso pubblico mediante il Bollettino ufficiale.
+
+Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Note alle premesse:
+ - Si trascrive il testo degli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_2) e [4 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_4), e successive modificazioni ed integrazioni.
+ «Art. 2 (Conclusione del procedimento). - 1. Ove il procedimento consegua obbligatoriamente ad una istanza, ovvero debba essere iniziato d'ufficio, la pubblica amministrazione ha il dovere di concluderlo mediante l'adozione di un provvedimento espresso.
+ 2. Con uno o piu' regolamenti adottati ai sensi dell'[art. 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), su proposta del Ministro competente, di concerto con il Ministro per la funzione pubblica, sono stabiliti i termini entro i quali i procedimenti di competenza delle amministrazioni statali devono concludersi, ove non siano direttamente previsti per legge. Gli enti pubblici nazionali stabiliscono, secondo i propri ordinamenti, i termini entro i quali devono concludersi i procedimenti di propria competenza. I termini sono modulati tenendo conto della loro sostenibilita', sotto il profilo dell'organizzazione amministrativa, e della natura degli interessi pubblici tutelati e decorrono dall'inizio di ufficio del procedimento o dal ricevimento della domanda, se il procedimento e' ad iniziativa di parte.
+ 3. Qualora non si provveda ai sensi del comma 2, il termine e' di novanta giorni.
+ 4. Nei casi in cui leggi o regolamenti prevedono per l'adozione di un provvedimento l'acquisizione di valutazioni tecniche di organi o enti appositi, i termini di cui ai commi 2 e 3 sono sospesi fino all'acquisizione delle valutazioni tecniche per un periodo massimo comunque non superiore a novanta giorni. I termini di cui ai commi 2 e 3 possono essere altresi' sospesi, per una sola volta, per l'acquisizione di informazioni o certificazioni relative a fatti, stati o qualita' non attestati in documenti gia' in possesso dell'amministrazione stessa o non direttamente acquisibili presso altre pubbliche amministrazioni. Si applicano le disposizioni dell'art. 14, comma 2.
+ 5. Salvi i casi di silenzio assenso, decorsi i termini di cui ai commi 2 o 3, il ricorso avverso il silenzio dell'amministrazione, ai sensi dell'[art. 21-bis della legge 6 dicembre 1971, n. 1034](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1034#art_21bis), puo' essere proposto anche senza necessita' di diffida all'amministrazione inadempiente, fintanto che perdura l'inadempimento e comunque non oltre un anno dalla scadenza dei termini di cui ai predetti commi 2 o 3. Il giudice amministrativo puo' conoscere della fondatezza dell'istanza. E' fatta salva la riproponibilita' dell'istanza di avvio del procedimento ove ne ricorrano i presupposti.».
+ «Art. 4 (Unita' organizzativa responsabile del procedimento). - 1. Ove non sia gia' direttamente stabilito per legge o per regolamento, le pubbliche amministrazioni sono tenute a determinare per ciascun tipo di procedimento relativo ad atti di loro competenza l'unita' organizzativa responsabile della istruttoria e di ogni altro adempimento procedimentale, nonche' dell'adozione del provvedimento finale.
+ 2. Le disposizioni adottate ai sensi del comma 1 sono rese pubbliche secondo quanto previsto dai singoli ordinamenti.».
+ - Il [decreto ministeriale 24 ottobre 2000, n. 391](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:2000-10-24;391), inerente «Regolamento recante norme di integrazione e modifica del regolamento di attuazione degli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_2) e [4 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_4), adottato con [decreto ministeriale 11 aprile 1994, n. 454](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1994-04-11;454)», e' stato pubblicato nella Gazzetta Ufficiale del 29 dicembre 2000, n. 302.
+ - Il [decreto del Presidente della Repubblica del 18 aprile 1994, n. 302](../Regolamenti%20governativi/Regolamento%20concernente%20lindividuazione%20degli%20uffici%20di%20livello%20dirigenziale%20del%20Ministero%20del%20commercio%20con%20lestero.md), concernente l'individuazione degli uffici di livello dirigenziale generale del Ministero del commercio con l'estero e' stato pubblicato nella Gazzetta Ufficiale 23 maggio 1994, n. 118.
+ - Il decreto ministeriale 23 febbraio 1999, e successive modifiche, che individua le unita' dirigenziali di livello non generale del Ministero del commercio con l'estero e le relative competenze e' stato pubblicato nella Gazzetta Ufficiale 19 marzo 1999, n. 65.
+ - Il [decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), recante riforma dell'organizzazione del Governo, a norma dell'[art. 11 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), e successive modificazioni ed integrazioni e' stato pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 30 agosto 1999, n. 203.
+ - La [legge 17 luglio 2006, n. 233](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20maggio%202006%20n.%20181%20recante%20disposizioni%20urgenti%20in%20materia%20di%20riordino%20delle%20attribuzioni%20della%20Presidenza%20del%20Consiglio%20dei%20Mi_b54721a56e19.md), di conversione, con modificazioni, del [decreto-legge 18 maggio 2006, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-05-18;181), recante disposizioni urgenti in materia di riordino delle attribuzioni della Presidenza del Consiglio dei Ministri e dei Ministeri. Delega al Governo per il coordinamento delle disposizioni in materia di funzioni e organizzazione della Presidenza del Consiglio dei Ministri e dei Ministeri, con il quale, tra gli altri, e' stato istituito il Ministero del commercio internazionale, e' stata pubblicata nella Gazzetta Ufficiale 17 luglio 2006, n. 164.
+ - Il [decreto del Presidente della Repubblica 26 marzo 2001, n. 175](../Regolamenti%20governativi/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20attivita%20produttive.md), concernente il regolamento di organizzazione del Ministero delle attivita' produttive e' stato pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 18 maggio 2001, n. 114.
+ - Il [decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), recante norme sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche e' stato pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 9 maggio 2001, n. 106.
+ - Si riporta l'[art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17):
+ «Art. 17 (Regolamenti). - 1. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il parere del Consiglio di Stato che deve pronunziarsi entro novanta giorni dalla richiesta, possono essere emanati regolamenti per disciplinare:
+ a) l'esecuzione delle leggi e dei decreti legislativi, nonche' dei regolamenti comunitari;
+ b) l'attuazione e l'integrazione delle leggi e dei decreti legislativi recanti norme di principio, esclusi quelli relativi a materie riservate alla competenza regionale;
+ c) le materie in cui manchi la disciplina da parte di leggi o di atti aventi forza di legge, sempre che non si tratti di materie comunque riservate alla legge;
+ d) l'organizzazione ed il funzionamento delle amministrazioni pubbliche secondo le disposizioni dettate dalla legge;
+ e) -.
+ 2. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il Consiglio di Stato, sono emanati i regolamenti per la disciplina delle materie, non coperte da riserva assoluta di legge prevista dalla Costituzione, per le quali le leggi della Repubblica, autorizzando l'esercizio della potesta' regolamentare del Governo, determinano le norme generali regolatrici della materia e dispongono l'abrogazione delle norme vigenti, con effetto dall'entrata in vigore delle norme regolamentari.
+ 3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.
+ I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.
+ 4. I regolamenti di cui al comma 1 ed i regolamenti ministeriali ed interministeriali, che devono recare la denominazione di «regolamento», sono adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
+ 4-bis. L'organizzazione e la disciplina degli uffici dei Ministeri sono determinate, con regolamenti emanati ai sensi del comma 2, su proposta del Ministro competente d'intesa con il Presidente del Consiglio dei Ministri e con il Ministro del tesoro, nel rispetto dei principi posti dal [decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, con i contenuti e con l'osservanza dei criteri che seguono:
+ a) riordino degli uffici di diretta collaborazione con i Ministri ed i Sottosegretari di Stato, stabilendo che tali uffici hanno esclusive competenze di supporto dell'organo di direzione politica e di raccordo tra questo e l'amministrazione;
+ b) individuazione degli uffici di livello dirigenziale generale, centrali e periferici, mediante diversificazione tra strutture con funzioni finali e con funzioni strumentali e loro organizzazione per funzioni omogenee e secondo criteri di flessibilita' eliminando le duplicazioni funzionali;
+ c) previsione di strumenti di verifica periodica dell'organizzazione e dei risultati;
+ d) indicazione e revisione periodica della consistenza delle piante organiche;
+ e) previsione di decreti ministeriali di natura non regolamentare per la definizione dei compiti delle unita' dirigenziali nell'ambito degli uffici dirigenziali generali.».
+ Note alla tabella:
+ - Il regolamento (CE) n. 338/1997 del 9 dicembre 1996 e' stato pubblicato nella GUCE L 61 del 3 marzo 1997.
+ - Il regolamento (CE) n. 1332/2005 del 9 agosto 2005 e' stato pubblicato nella GUCE L 215 del 19 agosto 2005.
+ - Il regolamento (CE) n. 605/2006 del 19 aprile 2006 e' stato pubblicato nella GUCE L 107 del 20 aprile 2006.
+ - Regolamento (CE) n. 865/2006 del 4 maggio 2006, che sostituisce il regolamento (CE) n. 1808/2001, e' stato pubblicato nella GUCE L 166 del 19 giugno 2006.
+ - La [legge n. 150 del 7 febbraio 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-07;150) e' stata pubblicata nella Gazzetta Ufficiale della Repubblica italiana del 22 febbraio 1992, n. 44.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 16 novembre 2006
+Roma, 16 novembre 2006
 
-Il Ministro: Bonino
-
-Visto, il Guardasigilli: Mastella Registrato alla Corte dei conti il 22 dicembre 2006
-
-Ufficio di controllo atti Ministeri delle attivita' produttive,
-
-registro n. 4, foglio n. 387
-
-Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.  
-Note alle premesse:  
-- Si trascrive il testo degli [articoli 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art2) e [4 della legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art4), e successive modificazioni ed integrazioni.  
-«Art. 2 (Conclusione del procedimento). - 1. Ove il procedimento consegua obbligatoriamente ad una istanza, ovvero debba essere iniziato d'ufficio, la pubblica amministrazione ha il dovere di concluderlo mediante l'adozione di un provvedimento espresso.  
-2. Con uno o piu' regolamenti adottati ai sensi dell'[art. 17, comma 1, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com1), su proposta del Ministro competente, di concerto con il Ministro per la funzione pubblica, sono stabiliti i termini entro i quali i procedimenti di competenza delle amministrazioni statali devono concludersi, ove non siano direttamente previsti per legge. Gli enti pubblici nazionali stabiliscono, secondo i propri ordinamenti, i termini entro i quali devono concludersi i procedimenti di propria competenza. I termini sono modulati tenendo conto della loro sostenibilita', sotto il profilo dell'organizzazione amministrativa, e della natura degli interessi pubblici tutelati e decorrono dall'inizio di ufficio del procedimento o dal ricevimento della domanda, se il procedimento e' ad iniziativa di parte.  
-3. Qualora non si provveda ai sensi del comma 2, il termine e' di novanta giorni.  
-4. Nei casi in cui leggi o regolamenti prevedono per l'adozione di un provvedimento l'acquisizione di valutazioni tecniche di organi o enti appositi, i termini di cui ai commi 2 e 3 sono sospesi fino all'acquisizione delle valutazioni tecniche per un periodo massimo comunque non superiore a novanta giorni. I termini di cui ai commi 2 e 3 possono essere altresi' sospesi, per una sola volta, per l'acquisizione di informazioni o certificazioni relative a fatti, stati o qualita' non attestati in documenti gia' in possesso dell'amministrazione stessa o non direttamente acquisibili presso altre pubbliche amministrazioni. Si applicano le disposizioni dell'art. 14, comma 2.  
-5. Salvi i casi di silenzio assenso, decorsi i termini di cui ai commi 2 o 3, il ricorso avverso il silenzio dell'amministrazione, ai sensi dell'[art. 21-bis della legge 6 dicembre 1971, n. 1034](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1034~art21bis), puo' essere proposto anche senza necessita' di diffida all'amministrazione inadempiente, fintanto che perdura l'inadempimento e comunque non oltre un anno dalla scadenza dei termini di cui ai predetti commi 2 o 3. Il giudice amministrativo puo' conoscere della fondatezza dell'istanza. E' fatta salva la riproponibilita' dell'istanza di avvio del procedimento ove ne ricorrano i presupposti.».  
-«Art. 4 (Unita' organizzativa responsabile del procedimento). - 1. Ove non sia gia' direttamente stabilito per legge o per regolamento, le pubbliche amministrazioni sono tenute a determinare per ciascun tipo di procedimento relativo ad atti di loro competenza l'unita' organizzativa responsabile della istruttoria e di ogni altro adempimento procedimentale, nonche' dell'adozione del provvedimento finale.  
-2. Le disposizioni adottate ai sensi del comma 1 sono rese pubbliche secondo quanto previsto dai singoli ordinamenti.».  
-- Il [decreto ministeriale 24 ottobre 2000, n. 391](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:2000-10-24;391), inerente «Regolamento recante norme di integrazione e modifica del regolamento di attuazione degli [articoli 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art2) e [4 della legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art4), adottato con [decreto ministeriale 11 aprile 1994, n. 454](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1994-04-11;454)», e' stato pubblicato nella Gazzetta Ufficiale del 29 dicembre 2000, n. 302.  
-- Il [decreto del Presidente della Repubblica del 18 aprile 1994, n. 302](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1994-04-18;302), concernente l'individuazione degli uffici di livello dirigenziale generale del Ministero del commercio con l'estero e' stato pubblicato nella Gazzetta Ufficiale 23 maggio 1994, n. 118.  
-- Il decreto ministeriale 23 febbraio 1999, e successive modifiche, che individua le unita' dirigenziali di livello non generale del Ministero del commercio con l'estero e le relative competenze e' stato pubblicato nella Gazzetta Ufficiale 19 marzo 1999, n. 65.  
-- Il [decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300), recante riforma dell'organizzazione del Governo, a norma dell'[art. 11 della legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art11), e successive modificazioni ed integrazioni e' stato pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 30 agosto 1999, n. 203.  
-- La [legge 17 luglio 2006, n. 233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-07-17;233), di conversione, con modificazioni, del [decreto-legge 18 maggio 2006, n. 181](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-05-18;181), recante disposizioni urgenti in materia di riordino delle attribuzioni della Presidenza del Consiglio dei Ministri e dei Ministeri. Delega al Governo per il coordinamento delle disposizioni in materia di funzioni e organizzazione della Presidenza del Consiglio dei Ministri e dei Ministeri, con il quale, tra gli altri, e' stato istituito il Ministero del commercio internazionale, e' stata pubblicata nella Gazzetta Ufficiale 17 luglio 2006, n. 164.  
-- Il [decreto del Presidente della Repubblica 26 marzo 2001, n. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;175), concernente il regolamento di organizzazione del Ministero delle attivita' produttive e' stato pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 18 maggio 2001, n. 114.  
-- Il [decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165), recante norme sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche e' stato pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 9 maggio 2001, n. 106.  
-- Si riporta l'[art. 17 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17):  
-«Art. 17 (Regolamenti). - 1. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il parere del Consiglio di Stato che deve pronunziarsi entro novanta giorni dalla richiesta, possono essere emanati regolamenti per disciplinare:  
-a) l'esecuzione delle leggi e dei decreti legislativi, nonche' dei regolamenti comunitari;  
-b) l'attuazione e l'integrazione delle leggi e dei decreti legislativi recanti norme di principio, esclusi quelli relativi a materie riservate alla competenza regionale;  
-c) le materie in cui manchi la disciplina da parte di leggi o di atti aventi forza di legge, sempre che non si tratti di materie comunque riservate alla legge;  
-d) l'organizzazione ed il funzionamento delle amministrazioni pubbliche secondo le disposizioni dettate dalla legge;  
-e) -.  
-2. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il Consiglio di Stato, sono emanati i regolamenti per la disciplina delle materie, non coperte da riserva assoluta di legge prevista dalla Costituzione, per le quali le leggi della Repubblica, autorizzando l'esercizio della potesta' regolamentare del Governo, determinano le norme generali regolatrici della materia e dispongono l'abrogazione delle norme vigenti, con effetto dall'entrata in vigore delle norme regolamentari.  
-3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.  
-I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.  
-4. I regolamenti di cui al comma 1 ed i regolamenti ministeriali ed interministeriali, che devono recare la denominazione di «regolamento», sono adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.  
-4-bis. L'organizzazione e la disciplina degli uffici dei Ministeri sono determinate, con regolamenti emanati ai sensi del comma 2, su proposta del Ministro competente d'intesa con il Presidente del Consiglio dei Ministri e con il Ministro del tesoro, nel rispetto dei principi posti dal [decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29), e successive modificazioni, con i contenuti e con l'osservanza dei criteri che seguono:  
-a) riordino degli uffici di diretta collaborazione con i Ministri ed i Sottosegretari di Stato, stabilendo che tali uffici hanno esclusive competenze di supporto dell'organo di direzione politica e di raccordo tra questo e l'amministrazione;  
-b) individuazione degli uffici di livello dirigenziale generale, centrali e periferici, mediante diversificazione tra strutture con funzioni finali e con funzioni strumentali e loro organizzazione per funzioni omogenee e secondo criteri di flessibilita' eliminando le duplicazioni funzionali;  
-c) previsione di strumenti di verifica periodica dell'organizzazione e dei risultati;  
-d) indicazione e revisione periodica della consistenza delle piante organiche;  
-e) previsione di decreti ministeriali di natura non regolamentare per la definizione dei compiti delle unita' dirigenziali nell'ambito degli uffici dirigenziali generali.».  
-Note alla tabella:  
-- Il [regolamento (CE) n. 338/1997 del 9 dicembre 1996](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31997R0338) e' stato pubblicato nella GUCE L 61 del 3 marzo 1997.  
-- Il [regolamento (CE) n. 1332/2005 del 9 agosto 2005](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32005R1332) e' stato pubblicato nella GUCE L 215 del 19 agosto 2005.  
-- Il [regolamento (CE) n. 605/2006 del 19 aprile 2006](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32006R0605) e' stato pubblicato nella GUCE L 107 del 20 aprile 2006.  
-- [Regolamento (CE) n. 865/2006 del 4 maggio 2006](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32006R0865), che sostituisce il [regolamento (CE) n. 1808/2001](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32001R1808), e' stato pubblicato nella GUCE L 166 del 19 giugno 2006.  
-- La [legge n. 150 del 7 febbraio 1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-07;150) e' stata pubblicata nella Gazzetta Ufficiale della Repubblica italiana del 22 febbraio 1992, n. 44.
-
-Allegato
-
- Allegato   
-Settore CITES   
-  
-  
-  
-  
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Procedimento | Fonte normativa | Ufficio responsabile del procedimento | Termine |
-| Autorizzazioni all'importazione nel quadro della Convenzione di Washington (CITES) concernente il commercio della flora e della fauna minacciata di estinzione | [Regolamento (CE) n. 338/1997 del 9 dicembre 1996](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31997R0338) (GUCE L 61 del 3 marzo 1997) |  |  |
-|  | [Regolamento (CE) n. 1332/2005 del 9 agosto 2005](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32005R1332) (GUCE L 215 del 19 agosto 2005) |  |  |
-|  | [Regolamento (CE) n. 605/2006 del 19 aprile 2006](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32006R0605) (GUCE L 107 del 20 aprile 2006) |  |  |
-|  | [Regolamento (CE) n. 865/2006 del 4 maggio 2006](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32006R0865), che sostituisce il [regolamento (CE) n. 1808/2001](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32001R1808) (GUCE L 166 del 19 giugno 2006) |  |  |
-|  | [Legge n. 150 del 7 febbraio 1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-07;150) e successive modificazioni ([Gazzetta Ufficiale n. 44 del 22 febbraio 1992](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1992-02-22&numeroGazzetta=44)) | Divisione VIII | 30 giorni \* \* in caso di consultazione di terzi, i termini si interrompono fino a consultazione ultimata |
+Il Ministro: Bonino Visto, il Guardasigilli: Mastella Registrato alla Corte dei conti il 22 dicembre 2006 Ufficio di controllo atti Ministeri delle attivita' produttive, registro n. 4, foglio n. 387

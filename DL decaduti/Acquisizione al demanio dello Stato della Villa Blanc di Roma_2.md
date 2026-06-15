@@ -1,22 +1,17 @@
-DECRETO-LEGGE 22 giugno 1993 n. 201
+---
+tipo: DECRETO-LEGGE
+numero: 201
+data: 1993-06-22
+titolo: "Acquisizione al demanio dello Stato della Villa Blanc di Roma."
+urn: urn:nir:stato:decreto.legge:1993-06-22;201
+codice_redazionale: 093G0270
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 22 giugno 1993 n. 201
-===================================
+DECRETO DECADUTO
 
-Acquisizione al demanio dello Stato della Villa Blanc di Roma.
---------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 22/6/93.Decreto-Legge decaduto per mancata conversione.
-
-Art. 1
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 2
-------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

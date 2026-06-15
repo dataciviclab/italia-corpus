@@ -1,134 +1,129 @@
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 10 luglio 2014 n. 142
+---
+tipo: DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
+numero: 142
+data: 2014-07-10
+titolo: "Regolamento di organizzazione del Ministero dell'ambiente e della tutela del territorio e del mare, dell'Organismo indipendente di valutazione della performance e degli Uffici di diretta collaborazione. (14G00156)"
+urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2014-07-10;142
+codice_redazionale: 14G00156
+vigente: true
+---
 
+## Organizzazione del Ministero dell'ambiente e della tutela del  territorio e del mare
 
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 10 luglio 2014 n. 142
-=======================================================================
+Capo I
 
-Regolamento di organizzazione del Ministero dell'ambiente e della tutela del territorio e del mare, dell'Organismo indipendente di valutazione della performance e degli Uffici di diretta collaborazione. (14G00156)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del provvedimento: 21/10/2014
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 19 GIUGNO 2019, N. 97))
 
-CAPO I Capo I Organizzazione del Ministero dell'ambiente e della tutela del territorio e del mare
--------------------------------------------------------------------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 19 GIUGNO 2019, N. 97))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 19 GIUGNO 2019, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-19;97)))
+### Art. 3.
 
-### Art. 2
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 19 GIUGNO 2019, N. 97))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 19 GIUGNO 2019, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-19;97)))
+### Art. 4.
 
-### Art. 3
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 19 GIUGNO 2019, N. 97))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 19 GIUGNO 2019, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-19;97)))
+### Art. 5.
 
-### Art. 4
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 19 GIUGNO 2019, N. 97))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 19 GIUGNO 2019, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-19;97)))
+### Art. 6.
 
-### Art. 5
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 19 GIUGNO 2019, N. 97))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 19 GIUGNO 2019, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-19;97)))
+### Art. 7.
 
-### Art. 6
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 19 GIUGNO 2019, N. 97))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 19 GIUGNO 2019, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-19;97)))
+### Art. 8.
 
-### Art. 7
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 19 GIUGNO 2019, N. 97))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 19 GIUGNO 2019, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-19;97)))
+### Art. 9.
 
-### Art. 8
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 19 GIUGNO 2019, N. 97))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 19 GIUGNO 2019, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-19;97)))
+### Art. 10.
 
-### Art. 9
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 19 GIUGNO 2019, N. 97))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 19 GIUGNO 2019, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-19;97)))
+### Art. 11.
 
-### Art. 10
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 19 GIUGNO 2019, N. 97))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 19 GIUGNO 2019, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-19;97)))
+### Art. 12.
 
-### Art. 11
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 19 GIUGNO 2019, N. 97))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 19 GIUGNO 2019, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-19;97)))
+### Art. 13.
 
-### Art. 12
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 19 GIUGNO 2019, N. 97))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 19 GIUGNO 2019, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-19;97)))
+## Organismo indipendente di valutazione della performance
 
-### Art. 13
+Capo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 19 GIUGNO 2019, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-19;97)))
+### Art. 14.
 
-CAPO II Capo II Organismo indipendente di valutazione della performance
------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 19 GIUGNO 2019, N. 97))
 
-### Art. 14
+### Art. 15.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 19 GIUGNO 2019, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-19;97)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 19 GIUGNO 2019, N. 97))
 
-### Art. 15
+### Art. 16.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 19 GIUGNO 2019, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-19;97)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 19 GIUGNO 2019, N. 97))
 
-### Art. 16
+### Art. 17.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 19 GIUGNO 2019, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-19;97)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 19 GIUGNO 2019, N. 97))
 
-### Art. 17
+## Uffici di diretta collaborazione
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 19 GIUGNO 2019, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-19;97)))
+Capo III
 
-CAPO III Capo III Uffici di diretta collaborazione
---------------------------------------------------
+### Art. 18.
 
-### Art. 18
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 19 GIUGNO 2019, N. 97))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 19 GIUGNO 2019, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-19;97)))
+### Art. 19.
 
-### Art. 19
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 19 GIUGNO 2019, N. 97))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 19 GIUGNO 2019, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-19;97)))
+### Art. 20.
 
-### Art. 20
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 19 GIUGNO 2019, N. 97))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 19 GIUGNO 2019, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-19;97)))
+### Art. 21.
 
-### Art. 21
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 19 GIUGNO 2019, N. 97))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 19 GIUGNO 2019, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-19;97)))
+### Art. 22.
 
-### Art. 22
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 19 GIUGNO 2019, N. 97))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 19 GIUGNO 2019, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-19;97)))
+### Art. 23.
 
-### Art. 23
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 19 GIUGNO 2019, N. 97))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 19 GIUGNO 2019, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-19;97)))
+### Art. 24.
 
-### Art. 24
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 19 GIUGNO 2019, N. 97))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 19 GIUGNO 2019, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-19;97)))
+### Art. 25.
 
-### Art. 25
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 19 GIUGNO 2019, N. 97))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 19 GIUGNO 2019, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-19;97)))
+### Art. 26.
 
-### Art. 26
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 19 GIUGNO 2019, N. 97))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 19 GIUGNO 2019, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-19;97)))
+### Art. 27.
 
-### Art. 27
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 19 GIUGNO 2019, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-19;97)))
-
-Allegato
-
- Allegato   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 19 GIUGNO 2019, N. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-06-19;97)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 19 GIUGNO 2019, N. 97))

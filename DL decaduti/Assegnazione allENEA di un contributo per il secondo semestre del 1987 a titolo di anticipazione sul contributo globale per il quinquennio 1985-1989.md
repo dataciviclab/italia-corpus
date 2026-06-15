@@ -1,31 +1,23 @@
-DECRETO-LEGGE 07 novembre 1987 n. 461
+---
+tipo: DECRETO-LEGGE
+numero: 372
+data: 1987-09-07
+titolo: "Assegnazione all'ENEA di un contributo per il secondo semestre del 1987 a titolo di anticipazione sul contributo globale per il quinquennio 1985-1989."
+urn: urn:nir:stato:decreto.legge:1987-09-07;372
+codice_redazionale: 087U0372
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 07 novembre 1987 n. 461
-=====================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 11 MARZO 1988, N. 73](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20gennaio%201988%20n.%207%20recante%20assegnazione%20allENEA%20di%20un%20contributo%20per%20il%20secondo%20semestre%20del%201987%20a%20titolo%20di%20anticipazione%20sul%20c_0e4205185dc8.md)
 
-Assegnazione all'ENEA di un contributo per il secondo semestre del 1987 a titolo di anticipazione sul contributo globale per il quinquennio 1985-1989.
-------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 11 MARZO 1988, N. 73](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20gennaio%201988%20n.%207%20recante%20assegnazione%20allENEA%20di%20un%20contributo%20per%20il%20secondo%20semestre%20del%201987%20a%20titolo%20di%20anticipazione%20sul%20c_0e4205185dc8.md)
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 11 MARZO 1988, N. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;73)
-  
-
-Art. 2
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 11 MARZO 1988, N. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;73)
-  
-
-Art. 3
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 11 MARZO 1988, N. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;73)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 11 MARZO 1988, N. 73](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20gennaio%201988%20n.%207%20recante%20assegnazione%20allENEA%20di%20un%20contributo%20per%20il%20secondo%20semestre%20del%201987%20a%20titolo%20di%20anticipazione%20sul%20c_0e4205185dc8.md)

@@ -1,23 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1986 n. 94
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 94
+data: 1986-01-23
+titolo: "Modificazioni e integrazioni al regolamento per gli stabilimenti ed arsenali militari a carattere industriale, approvato con decreto del Presidente della Repubblica 5 giugno 1976, n. 1077."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1986-01-23;94
+codice_redazionale: 086U0094
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1986 n. 94
-=============================================================
+((PROVVEDIMENTO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
-Modificazioni e integrazioni al regolamento per gli stabilimenti ed arsenali militari a carattere industriale, approvato con decreto del Presidente della Repubblica 5 giugno 1976, n. 1077.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+## Art. 3.
 
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D. LGS 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D. LGS 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))

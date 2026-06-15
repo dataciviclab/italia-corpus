@@ -1,13 +1,13 @@
-REGIO DECRETO LEGISLATIVO 27 maggio 1946 n. 535
+---
+tipo: REGIO DECRETO LEGISLATIVO
+numero: 535
+data: 1946-05-27
+titolo: "Riassunzione in ruolo di professori universitari gia' dispensati per motivi politici o razziali."
+urn: urn:nir:stato:regio.decreto.legislativo:1946-05-27;535
+codice_redazionale: 046U0535
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO LEGISLATIVO 27 maggio 1946 n. 535
-===============================================
-
-Riassunzione in ruolo di professori universitari gia' dispensati per motivi politici o razziali.
-------------------------------------------------------------------------------------------------
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO, CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))  
+((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO, CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20economico%20la%20semplificazione%20la%20competitivita%20la%20stabilizzazion_29f97015e2f4.md)))

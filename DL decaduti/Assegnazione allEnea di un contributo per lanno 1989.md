@@ -1,24 +1,19 @@
-DECRETO-LEGGE 26 aprile 1989 n. 151
+---
+tipo: DECRETO-LEGGE
+numero: 151
+data: 1989-04-26
+titolo: "Assegnazione all'Enea di un contributo per l'anno 1989."
+urn: urn:nir:stato:decreto.legge:1989-04-26;151
+codice_redazionale: 089G0184
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 26 aprile 1989 n. 151
-===================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 28 LUGLIO 1989, N. 281](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20decreto-legge%2024%20giugno%201989%20n.%20239%20recante%20assegnazione%20allENEA%20di%20un%20contributo%20per%20lanno%201989.md)
 
-Assegnazione all'Enea di un contributo per l'anno 1989.
--------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 28/04/1989.Decreto-Legge decaduto per mancata conversione.
-
-Art. 1
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 28 LUGLIO 1989, N. 281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-07-28;281)
-  
-
-Art. 2
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 28 LUGLIO 1989, N. 281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-07-28;281)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 28 LUGLIO 1989, N. 281](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20decreto-legge%2024%20giugno%201989%20n.%20239%20recante%20assegnazione%20allENEA%20di%20un%20contributo%20per%20lanno%201989.md)

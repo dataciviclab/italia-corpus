@@ -1,365 +1,337 @@
-DECRETO LEGISLATIVO 04 agosto 2008 n. 148
+---
+tipo: DECRETO LEGISLATIVO
+numero: 148
+data: 2008-08-04
+titolo: "Attuazione della direttiva 2006/88/CE relativa alle condizioni di polizia sanitaria applicabili alle specie animali d'acquacoltura e ai relativi prodotti, nonche' alla prevenzione di talune malattie degli animali acquatici e alle misure di lotta contro tali malattie."
+urn: urn:nir:stato:decreto.legislativo:2008-08-04;148
+codice_redazionale: 008G0170
+vigente: true
+---
 
+## Oggetto, campo di applicazione e definizioni
 
-DECRETO LEGISLATIVO 04 agosto 2008 n. 148
-=========================================
+Capo I
 
-Attuazione della direttiva 2006/88/CE relativa alle condizioni di polizia sanitaria applicabili alle specie animali d'acquacoltura e ai relativi prodotti, nonche' alla prevenzione di talune malattie degli animali acquatici e alle misure di lotta contro tali malattie.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del provvedimento: 26/9/2008
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-CAPO I Capo I Oggetto, campo di applicazione e definizioni
-----------------------------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+### Art. 3.
 
-### Art. 2
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+## Imprese di acquacoltura e stabilimenti di lavorazione autorizzati
 
-### Art. 3
+Capo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+### Art. 4.
 
-CAPO II Capo II Imprese di acquacoltura e stabilimenti di lavorazione autorizzati
----------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-### Art. 4
+### Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-### Art. 5
+### Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-### Art. 6
+### Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-### Art. 7
+### Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-### Art. 8
+### Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-### Art. 9
+### Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-### Art. 10
+### Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-### Art. 11
+## Norme di polizia sanitaria relative all'immissione sul mercato degli animali d'acquacoltura e dei relativi prodotti  Sezione I DISPOSIZIONI GENERALI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+Capo III
 
-CAPO III Capo III Norme di polizia sanitaria relative all'immissione sul mercato degli animali d'acquacoltura e dei relativi prodotti Sezione I DISPOSIZIONI GENERALI
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 12.
 
-### Art. 12
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+### Art. 13.
 
-### Art. 13
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+### Art. 14.
 
-### Art. 14
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+### Art. 15.
 
-### Art. 15
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+## ANIMALI D'ACQUACOLTURA DESTINATI ALL'ALLEVAMENTO E AL RIPOPOLAMENTO
 
-CAPO IV Sezione II ANIMALI D'ACQUACOLTURA DESTINATI ALL'ALLEVAMENTO E AL RIPOPOLAMENTO
---------------------------------------------------------------------------------------
+Sezione II
 
-### Art. 16
+### Art. 16.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-### Art. 17
+### Art. 17.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-### Art. 18
+### Art. 18.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-CAPO V Sezione III ANIMALI D'ACQUACOLTURA E RELATIVI PRODOTTI DESTINATI AL CONSUMO UMANO
-----------------------------------------------------------------------------------------
+## ANIMALI D'ACQUACOLTURA E RELATIVI PRODOTTI DESTINATI AL CONSUMO UMANO
 
-### Art. 19
+Sezione III
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+### Art. 19.
 
-### Art. 20
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+### Art. 20.
 
-CAPO VI Sezione IV ANIMALI ACQUATICI SELVATICI
-----------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-### Art. 21
+## ANIMALI ACQUATICI SELVATICI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+Sezione IV
 
-CAPO VII Sezione V ANIMALI ACQUATICI ORNAMENTALI
-------------------------------------------------
+### Art. 21.
 
-### Art. 22
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+## ANIMALI ACQUATICI ORNAMENTALI
 
-CAPO VIII Capo IV Introduzione di animali d'acquacoltura e relativi prodotti provenienti da Paesi terzi
--------------------------------------------------------------------------------------------------------
+Sezione V
 
-### Art. 23
+### Art. 22.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-### Art. 24
+## Introduzione di animali d'acquacoltura e relativi prodotti provenienti da Paesi terzi
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+Capo IV
 
-### Art. 25
+### Art. 23.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-CAPO IX Capo V Procedura di denuncia e misure minime di lotta contro le malattie degli animali acquatici Sezione I DENUNCIA DELLA MALATTIA
-------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 24.
 
-### Art. 26
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+### Art. 25.
 
-### Art. 27
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+## Procedura di denuncia e misure minime di lotta contro le malattie degli animali acquatici  Sezione I DENUNCIA DELLA MALATTIA
 
-CAPO X Sezione II SOSPETTA PRESENZA DI UNA DELLE MALATTIE COMPRESE NELL'ELENCO - INDAGINE EPIDEMIOLOGICA
---------------------------------------------------------------------------------------------------------
+Capo V
 
-### Art. 28
+### Art. 26.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-### Art. 29
+### Art. 27.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-### Art. 30
+## SOSPETTA PRESENZA DI UNA DELLE MALATTIE COMPRESE NELL'ELENCO - INDAGINE EPIDEMIOLOGICA
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+Sezione II
 
-CAPO XI Sezione III MISURE DI LOTTA MINIME IN CASO DI CONFERMA DELLA PRESENZA DI MALATTIE ESOTICHE NEGLI ANIMALI D'ACQUACOLTURA
--------------------------------------------------------------------------------------------------------------------------------
+### Art. 28.
 
-### Art. 31
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+### Art. 29.
 
-### Art. 32
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+### Art. 30.
 
-### Art. 33
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+## MISURE DI LOTTA MINIME IN CASO DI CONFERMA DELLA PRESENZA DI MALATTIE ESOTICHE NEGLI ANIMALI D'ACQUACOLTURA
 
-### Art. 34
+Sezione III
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+### Art. 31.
 
-### Art. 35
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+### Art. 32.
 
-CAPO XII Sezione IV MISURE DI LOTTA MINIME IN CASO DI CONFERMA DI MALATTIE NON ESOTICHE NEGLI ANIMALI D'ACQUACOLTURA
---------------------------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-### Art. 36
+### Art. 33.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-### Art. 37
+### Art. 34.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-CAPO XIII Sezione V MISURE DI LOTTA MINIME IN CASO DI CONFERMATA PRESENZA NEGLI ANIMALI ACQUATICI SELVATICI DI UNA DELLE MALATTIE ELENCATE NELL'ALLEGATO IV, PARTE II
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 35.
 
-### Art. 38
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+## MISURE DI LOTTA MINIME IN CASO DI CONFERMA DI MALATTIE NON ESOTICHE NEGLI ANIMALI D'ACQUACOLTURA
 
-CAPO XIV Sezione VI MISURE DI LOTTA IN CASO DI MALATTIE EMERGENTI
------------------------------------------------------------------
+Sezione IV
 
-### Art. 39
+### Art. 36.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-CAPO XV Sezione VII MISURE ALTERNATIVE E DISPOSIZIONI NAZIONALI
----------------------------------------------------------------
+### Art. 37.
 
-### Art. 40
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+## MISURE DI LOTTA MINIME IN CASO DI CONFERMATA PRESENZA NEGLI ANIMALI ACQUATICI SELVATICI DI UNA DELLE MALATTIE ELENCATE NELL'ALLEGATO IV, PARTE II
 
-CAPO XVI Capo VI Programmi di lotta e vaccinazione Sezione I PROGRAMMI DI SORVEGLIANZA ED ERADICAZIONE
-------------------------------------------------------------------------------------------------------
+Sezione V
 
-### Art. 41
+### Art. 38.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-### Art. 42
+## MISURE DI LOTTA IN CASO DI MALATTIE EMERGENTI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+Sezione VI
 
-### Art. 43
+### Art. 39.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-CAPO XVII Sezione II PROGRAMMA DI INTERVENTO PER MALATTIE EMERGENTI ED ESOTICHE
--------------------------------------------------------------------------------
+## MISURE ALTERNATIVE E DISPOSIZIONI NAZIONALI
 
-### Art. 44
+Sezione VII
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+### Art. 40.
 
-CAPO XVIII Sezione III VACCINAZIONE
------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-### Art. 45
+## Programmi di lotta e vaccinazione  Sezione I PROGRAMMI DI SORVEGLIANZA ED ERADICAZIONE
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+Capo VI
 
-CAPO XIX Capo VII Riconoscimento di indennita' da malattia
-----------------------------------------------------------
+### Art. 41.
 
-### Art. 46
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+### Art. 42.
 
-### Art. 47
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+### Art. 43.
 
-### Art. 48
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+## PROGRAMMA DI INTERVENTO PER MALATTIE EMERGENTI ED ESOTICHE
 
-### Art. 49
+Sezione II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+### Art. 44.
 
-### Art. 50
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+## VACCINAZIONE
 
-CAPO XX Capo VIII Ispezioni, gestione elettronica ed autorita' competenti e laboratori
---------------------------------------------------------------------------------------
+Sezione III
 
-### Art. 51
+### Art. 45.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-### Art. 52
+## Riconoscimento di indennita' da malattia
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+Capo VII
 
-### Art. 53
+### Art. 46.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-### Art. 54
+### Art. 47.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-CAPO XXI Capo IX Sanzioni
--------------------------
+### Art. 48.
 
-### Art. 55
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+### Art. 49.
 
-### Art. 56
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+### Art. 50.
 
-CAPO XXII Capo X Disposizioni transitorie e finali
---------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-### Art. 57
+## Ispezioni, gestione elettronica ed autorita' competenti e laboratori
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+Capo VIII
 
-### Art. 58
+### Art. 51.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-### Art. 59
+### Art. 52.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-### Art. 60
+### Art. 53.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-Allegato I
+### Art. 54.
 
- Allegato I   
-  
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+## Sanzioni
 
-Allegato II
+Capo IX
 
- Allegato II   
-  
+### Art. 55.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-Allegato III
+### Art. 56.
 
- Allegato III   
-  
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+## Disposizioni transitorie e finali
 
-Allegato IV
+Capo X
 
- Allegato IV   
-  
+### Art. 57.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-Allegato V
+### Art. 58.
 
- Allegato V   
-  
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+### Art. 59.
 
-Allegato VI
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
- Allegato VI   
-  
+### Art. 60.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
-
-Allegato VII
-
- Allegato VII   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))

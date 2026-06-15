@@ -1,175 +1,165 @@
-DECRETO LEGISLATIVO 19 agosto 2005 n. 191
+---
+tipo: DECRETO LEGISLATIVO
+numero: 191
+data: 2005-08-19
+titolo: "Attuazione della direttiva 2002/98/CE che stabilisce norme di qualita' e di sicurezza per la raccolta, il controllo, la lavorazione, la conservazione e la distribuzione del sangue umano e dei suoi componenti."
+urn: urn:nir:stato:decreto.legislativo:2005-08-19;191
+codice_redazionale: 005G0213
+vigente: true
+---
 
+## Disposizioni generali
 
-DECRETO LEGISLATIVO 19 agosto 2005 n. 191
-=========================================
+Capo I
 
-Attuazione della direttiva 2002/98/CE che stabilisce norme di qualita' e di sicurezza per la raccolta, il controllo, la lavorazione, la conservazione e la distribuzione del sangue umano e dei suoi componenti.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del provvedimento: 7/10/2005
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 20 DICEMBRE 2007, N. 261))
 
-CAPO I Capo I Disposizioni generali
------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 20 DICEMBRE 2007, N. 261))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 DICEMBRE 2007, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-12-20;261)))
+### Art. 3.
 
-### Art. 2
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 20 DICEMBRE 2007, N. 261))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 DICEMBRE 2007, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-12-20;261)))
+### Art. 4.
 
-### Art. 3
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 20 DICEMBRE 2007, N. 261))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 DICEMBRE 2007, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-12-20;261)))
+## Compiti delle regioni e delle province autonome
 
-### Art. 4
+Capo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 DICEMBRE 2007, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-12-20;261)))
+### Art. 5.
 
-CAPO II Capo II Compiti delle regioni e delle province autonome
----------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 20 DICEMBRE 2007, N. 261))
 
-### Art. 5
+### Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 DICEMBRE 2007, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-12-20;261)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 20 DICEMBRE 2007, N. 261))
 
-### Art. 6
+## Disposizioni sui servizi trasfusionali
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 DICEMBRE 2007, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-12-20;261)))
+Capo III
 
-CAPO III Capo III Disposizioni sui servizi trasfusionali
---------------------------------------------------------
+### Art. 7.
 
-### Art. 7
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 20 DICEMBRE 2007, N. 261))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 DICEMBRE 2007, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-12-20;261)))
+### Art. 8.
 
-### Art. 8
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 20 DICEMBRE 2007, N. 261))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 DICEMBRE 2007, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-12-20;261)))
+## Gestione della qualita'
 
-CAPO IV Capo IV Gestione della qualita'
----------------------------------------
+Capo IV
 
-### Art. 9
+### Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 DICEMBRE 2007, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-12-20;261)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 20 DICEMBRE 2007, N. 261))
 
-### Art. 10
+### Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 DICEMBRE 2007, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-12-20;261)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 20 DICEMBRE 2007, N. 261))
 
-### Art. 11
+### Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 DICEMBRE 2007, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-12-20;261)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 20 DICEMBRE 2007, N. 261))
 
-CAPO V Capo V Emovigilanza
---------------------------
+## Emovigilanza
 
-### Art. 12
+Capo V
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 DICEMBRE 2007, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-12-20;261)))
+### Art. 12.
 
-### Art. 13
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 20 DICEMBRE 2007, N. 261))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 DICEMBRE 2007, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-12-20;261)))
+### Art. 13.
 
-CAPO VI Capo VI Disposizioni relative alla qualita' e alla sicurezza del sangue e degli emocomponenti
------------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 20 DICEMBRE 2007, N. 261))
 
-### Art. 14
+## Disposizioni relative alla qualita' e alla sicurezza del sangue e degli emocomponenti
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 DICEMBRE 2007, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-12-20;261)))
+Capo VI
 
-### Art. 15
+### Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 DICEMBRE 2007, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-12-20;261)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 20 DICEMBRE 2007, N. 261))
 
-### Art. 16
+### Art. 15.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 DICEMBRE 2007, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-12-20;261)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 20 DICEMBRE 2007, N. 261))
 
-### Art. 17
+### Art. 16.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 DICEMBRE 2007, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-12-20;261)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 20 DICEMBRE 2007, N. 261))
 
-### Art. 18
+### Art. 17.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 DICEMBRE 2007, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-12-20;261)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 20 DICEMBRE 2007, N. 261))
 
-### Art. 19
+### Art. 18.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 DICEMBRE 2007, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-12-20;261)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 20 DICEMBRE 2007, N. 261))
 
-### Art. 20
+### Art. 19.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 DICEMBRE 2007, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-12-20;261)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 20 DICEMBRE 2007, N. 261))
 
-### Art. 21
+### Art. 20.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 DICEMBRE 2007, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-12-20;261)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 20 DICEMBRE 2007, N. 261))
 
-### Art. 22
+### Art. 21.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 DICEMBRE 2007, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-12-20;261)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 20 DICEMBRE 2007, N. 261))
 
-CAPO VII Capo VII Protezione dei dati
--------------------------------------
+### Art. 22.
 
-### Art. 23
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 20 DICEMBRE 2007, N. 261))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 DICEMBRE 2007, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-12-20;261)))
+## Protezione dei dati
 
-CAPO VIII Capo VIII Relazioni e sanzioni
-----------------------------------------
+Capo VII
 
-### Art. 24
+### Art. 23.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 DICEMBRE 2007, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-12-20;261)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 20 DICEMBRE 2007, N. 261))
 
-### Art. 25
+## Relazioni e sanzioni
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 DICEMBRE 2007, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-12-20;261)))
+Capo VIII
 
-CAPO IX Capo IX Disposizioni finali
------------------------------------
+### Art. 24.
 
-### Art. 26
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 20 DICEMBRE 2007, N. 261))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 DICEMBRE 2007, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-12-20;261)))
+### Art. 25.
 
-### Art. 27
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 20 DICEMBRE 2007, N. 261))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 DICEMBRE 2007, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-12-20;261)))
+## Disposizioni finali
 
-### Art. 28
+Capo IX
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 DICEMBRE 2007, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-12-20;261)))
+### Art. 26.
 
-### Art. 29
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 20 DICEMBRE 2007, N. 261))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 DICEMBRE 2007, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-12-20;261)))
+### Art. 27.
 
-### Art. 30
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 20 DICEMBRE 2007, N. 261))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 DICEMBRE 2007, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-12-20;261)))
+### Art. 28.
 
-Allegato I
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 20 DICEMBRE 2007, N. 261))
 
- Allegato I   
+### Art. 29.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 DICEMBRE 2007, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-12-20;261)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 20 DICEMBRE 2007, N. 261))
 
-Allegato II
+### Art. 30.
 
- Allegato II   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 DICEMBRE 2007, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-12-20;261)))
-
-Allegato III
-
- Allegato III   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 DICEMBRE 2007, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-12-20;261)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 20 DICEMBRE 2007, N. 261))

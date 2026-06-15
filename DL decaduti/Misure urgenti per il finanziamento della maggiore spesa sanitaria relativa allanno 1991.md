@@ -1,56 +1,34 @@
-DECRETO-LEGGE 06 dicembre 1991 n. 388
+---
+tipo: DECRETO-LEGGE
+numero: 388
+data: 1991-12-06
+titolo: "Misure urgenti per il finanziamento della maggiore spesa sanitaria relativa all'anno 1991."
+urn: urn:nir:stato:decreto.legge:1991-12-06;388
+codice_redazionale: 091G0438
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 06 dicembre 1991 n. 388
-=====================================
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 18 MARZO 1993, N. 67](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20gennaio%201993%20n.%209%20recante%20disposizioni%20urgenti%20in%20materia%20sanitaria%20e%20socio-assistenziale.md)
 
-Misure urgenti per il finanziamento della maggiore spesa sanitaria relativa all'anno 1991.
-------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto-legge: 9/12/1991.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 18 MARZO 1993, N. 67](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20gennaio%201993%20n.%209%20recante%20disposizioni%20urgenti%20in%20materia%20sanitaria%20e%20socio-assistenziale.md)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 18 MARZO 1993, N. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-18;67)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 18 MARZO 1993, N. 67](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20gennaio%201993%20n.%209%20recante%20disposizioni%20urgenti%20in%20materia%20sanitaria%20e%20socio-assistenziale.md)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 18 MARZO 1993, N. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-18;67)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 18 MARZO 1993, N. 67](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20gennaio%201993%20n.%209%20recante%20disposizioni%20urgenti%20in%20materia%20sanitaria%20e%20socio-assistenziale.md)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 18 MARZO 1993, N. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-18;67)
-  
-
-Art. 4
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 18 MARZO 1993, N. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-18;67)
-  
-
-Art. 5
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 18 MARZO 1993, N. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-18;67)
-  
-
-Allegato
-
- DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 18 MARZO 1993, N. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-18;67)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 18 MARZO 1993, N. 67](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20gennaio%201993%20n.%209%20recante%20disposizioni%20urgenti%20in%20materia%20sanitaria%20e%20socio-assistenziale.md)

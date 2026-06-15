@@ -1,40 +1,29 @@
-DECRETO-LEGGE 13 settembre 1991 n. 297
+---
+tipo: DECRETO-LEGGE
+numero: 297
+data: 1991-09-13
+titolo: "Interventi per il miglioramento qualitativo e la prevenzione dell'inquinamento delle acque destinate al consumo umano, nonche' differimento del termine in materia di qualita' delle acque di balneazione."
+urn: urn:nir:stato:decreto.legge:1991-09-13;297
+codice_redazionale: 091G0340
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 13 settembre 1991 n. 297
-======================================
+DECRETO DECADUTO
 
-Interventi per il miglioramento qualitativo e la prevenzione dell'inquinamento delle acque destinate al consumo umano, nonche' differimento del termine in materia di qualita' delle acque di balneazione.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 18/09/1991.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO   
-
-Art. 4
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 5
-------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

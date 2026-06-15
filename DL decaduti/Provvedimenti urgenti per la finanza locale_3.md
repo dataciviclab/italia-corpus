@@ -1,184 +1,153 @@
-DECRETO-LEGGE 30 aprile 1986 n. 133
+---
+tipo: DECRETO-LEGGE
+numero: 133
+data: 1986-04-30
+titolo: "Provvedimenti urgenti per la finanza locale."
+urn: urn:nir:stato:decreto.legge:1986-04-30;133
+codice_redazionale: 086U0133
+vigente: true
+---
 
+## BILANCI, TRASFERIMENTI E MUTUI
 
-DECRETO-LEGGE 30 aprile 1986 n. 133
-===================================
+Titolo I
 
-Provvedimenti urgenti per la finanza locale.
---------------------------------------------
+### Art. 1.
 
-Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-CAPO I Titolo I BILANCI, TRASFERIMENTI E MUTUI
-----------------------------------------------
+### Art. 2.
 
-### Art. 1
+DECRETO DECADUTO
 
-  
-DECRETO DECADUTO   
+### Art. 3.
 
-### Art. 2
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 4.
 
-### Art. 3
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 5.
 
-### Art. 4
+DECRETO DECADUTO
 
-  
-DECRETO DECADUTO   
+### Art. 6.
 
-### Art. 5
+DECRETO DECADUTO
 
-  
-DECRETO DECADUTO   
+### Art. 7.
 
-### Art. 6
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 8.
 
-### Art. 7
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 9.
 
-### Art. 8
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 10.
 
-### Art. 9
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 11.
 
-### Art. 10
+DECRETO DECADUTO
 
-  
-DECRETO DECADUTO   
+### Art. 12.
 
-### Art. 11
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 13.
 
-### Art. 12
+DECRETO DECADUTO
 
-  
-DECRETO DECADUTO   
+## TASSA PER I SERVIZI COMUNALI
 
-### Art. 13
+Titolo II
 
- DECRETO DECADUTO  
+### Art. 14.
 
-CAPO II Titolo II TASSA PER I SERVIZI COMUNALI
-----------------------------------------------
+DECRETO DECADUTO
 
-### Art. 14
+### Art. 15.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-### Art. 15
+### Art. 16.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-### Art. 16
+### Art. 17.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-### Art. 17
+### Art. 18.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-### Art. 18
+### Art. 19.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-### Art. 19
+### Art. 20.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-### Art. 20
+### Art. 21.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-### Art. 21
+### Art. 22.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-### Art. 22
+### Art. 23.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-### Art. 23
+### Art. 24.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-### Art. 24
+### Art. 25.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-### Art. 25
+## ALTRE DISPOSIZIONI FISCALI
 
-  
-DECRETO DECADUTO   
+Titolo III
 
-CAPO III Titolo III ALTRE DISPOSIZIONI FISCALI
-----------------------------------------------
+### Art. 26.
 
-### Art. 26
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 27.
 
-### Art. 27
+DECRETO DECADUTO
 
-  
-DECRETO DECADUTO   
+### Art. 28.
 
-### Art. 28
+DECRETO DECADUTO
 
-  
-DECRETO DECADUTO   
+### Art. 29.
 
-### Art. 29
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 30.
 
-### Art. 30
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 31.
 
-### Art. 31
+DECRETO DECADUTO
 
-  
-DECRETO DECADUTO   
+### Art. 32.
 
-### Art. 32
+DECRETO DECADUTO
 
-  
-DECRETO DECADUTO   
+### Art. 33.
 
-### Art. 33
-
- DECRETO DECADUTO  
-
-Tabella A
-
- Tabella A   
-  
-DECRETO DECADUTO   
-
-Tabella B
-
- Tabella B   
-  
-DECRETO DECADUTO   
-
-Tabella C
-
- Tabella C   
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

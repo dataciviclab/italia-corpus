@@ -1,148 +1,153 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1997 n. 511
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 511
+data: 1997-09-02
+titolo: "Regolamento recante norme di organizzazione dell'Accademia navale."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1997-09-02;511
+codice_redazionale: 098G0064
+vigente: true
+---
 
+## Disposizioni generali
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1997 n. 511
-================================================================
+Capo I
 
-Regolamento recante norme di organizzazione dell'Accademia navale.
-------------------------------------------------------------------
-
-Entrata in vigore del decreto: 12-3-1998
-
-CAPO I Capo I Disposizioni generali
------------------------------------
-
-### Art. 1
-
-((PROVVEDIMENTO ABROGATO DAL DECRETO 10 MAGGIO 2006, N. 232))
-
-### Art. 2
+### Art. 1.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 10 MAGGIO 2006, N. 232))
 
-### Art. 3
+### Art. 2.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 10 MAGGIO 2006, N. 232))
 
-### Art. 4
+### Art. 3.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 10 MAGGIO 2006, N. 232))
 
-### Art. 5
+### Art. 4.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 10 MAGGIO 2006, N. 232))
 
-### Art. 6
+### Art. 5.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 10 MAGGIO 2006, N. 232))
 
-### Art. 7
+### Art. 6.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 10 MAGGIO 2006, N. 232))
 
-### Art. 8
+### Art. 7.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 10 MAGGIO 2006, N. 232))
 
-### Art. 9
+### Art. 8.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 10 MAGGIO 2006, N. 232))
 
-CAPO II Capo II Corso normale
------------------------------
-
-### Art. 10
+### Art. 9.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 10 MAGGIO 2006, N. 232))
 
-### Art. 11
+## Corso normale
+
+Capo II
+
+### Art. 10.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 10 MAGGIO 2006, N. 232))
 
-### Art. 12
+### Art. 11.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 10 MAGGIO 2006, N. 232))
 
-### Art. 13
+### Art. 12.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 10 MAGGIO 2006, N. 232))
 
-### Art. 14
+### Art. 13.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 10 MAGGIO 2006, N. 232))
 
-### Art. 15
+### Art. 14.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 10 MAGGIO 2006, N. 232))
 
-### Art. 16
+### Art. 15.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 10 MAGGIO 2006, N. 232))
 
-### Art. 17
+### Art. 16.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 10 MAGGIO 2006, N. 232))
 
-### Art. 18
+### Art. 17.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 10 MAGGIO 2006, N. 232))
 
-### Art. 19
+### Art. 18.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 10 MAGGIO 2006, N. 232))
 
-### Art. 20
+### Art. 19.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 10 MAGGIO 2006, N. 232))
 
-CAPO III Capo III Corsi per ufficiali
--------------------------------------
-
-### Art. 21
+### Art. 20.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 10 MAGGIO 2006, N. 232))
 
-CAPO IV Capo IV Corsi di complemento
-------------------------------------
+## Corsi per ufficiali
 
-### Art. 22
+Capo III
 
-((PROVVEDIMENTO ABROGATO DAL DECRETO 10 MAGGIO 2006, N. 232))
-
-### Art. 23
+### Art. 21.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 10 MAGGIO 2006, N. 232))
 
-CAPO V Capo V Consigli accademici
----------------------------------
+## Corsi di complemento
 
-### Art. 24
+Capo IV
 
-((PROVVEDIMENTO ABROGATO DAL DECRETO 10 MAGGIO 2006, N. 232))
-
-### Art. 25
+### Art. 22.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 10 MAGGIO 2006, N. 232))
 
-### Art. 26
+### Art. 23.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 10 MAGGIO 2006, N. 232))
 
-### Art. 27
+## Consigli accademici
+
+Capo V
+
+### Art. 24.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 10 MAGGIO 2006, N. 232))
 
-CAPO VI Capo VI Disposizioni finali
------------------------------------
-
-### Art. 28
+### Art. 25.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 10 MAGGIO 2006, N. 232))
 
-### Art. 29
+### Art. 26.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 10 MAGGIO 2006, N. 232))
 
-### Art. 30
+### Art. 27.
+
+((PROVVEDIMENTO ABROGATO DAL DECRETO 10 MAGGIO 2006, N. 232))
+
+## Disposizioni finali
+
+Capo VI
+
+### Art. 28.
+
+((PROVVEDIMENTO ABROGATO DAL DECRETO 10 MAGGIO 2006, N. 232))
+
+### Art. 29.
+
+((PROVVEDIMENTO ABROGATO DAL DECRETO 10 MAGGIO 2006, N. 232))
+
+### Art. 30.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 10 MAGGIO 2006, N. 232))

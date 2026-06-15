@@ -1,20 +1,18 @@
-DECRETO LEGISLATIVO 29 dicembre 1992 n. 516
-
-
-DECRETO LEGISLATIVO 29 dicembre 1992 n. 516
-===========================================
-
-Attuazione della direttiva 89/666/CEE relativa alla pubblicita' delle succursali create in uno Stato membro da taluni tipi di Societa' soggette al diritto di un altro Stato.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 15/1/1993
+---
+tipo: DECRETO LEGISLATIVO
+numero: 516
+data: 1992-12-29
+titolo: "Attuazione della direttiva 89/666/CEE relativa alla pubblicita' delle succursali create in uno Stato membro da taluni tipi di Societa' soggette al diritto di un altro Stato."
+urn: urn:nir:stato:decreto.legislativo:1992-12-29;516
+codice_redazionale: 092G0568
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visti gli [articoli 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art76) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
+Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 16 della legge 19 febbraio 1992, n. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-19;142~art16), recante delega al Governo per l'attuazione della [direttiva 89/666/CEE del Consiglio del 21 dicembre 1989](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31989L0666), relativa alla pubblicita' delle succursali create in uno Stato membro da taluni tipi di societa' soggette al diritto di un altro Stato;
+Visto l'[art. 16 della legge 19 febbraio 1992, n. 142](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20legge%20comunitaria%20per%20il%201991.md), recante delega al Governo per l'attuazione della [direttiva 89/666/CEE del Consiglio del 21 dicembre 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;666), relativa alla pubblicita' delle succursali create in uno Stato membro da taluni tipi di societa' soggette al diritto di un altro Stato;
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 23 dicembre 1992;
 
@@ -22,79 +20,60 @@ Sulla proposta del Ministro per il coordinamento delle politiche comunitarie e d
 
 E M A N A il seguente decreto legislativo:
 
-Art. 1
-------
+## Art. 1. — Relazione degli amministratori sulla gestione
 
-Relazione degli amministratori sulla gestione
+1.
 
-1. All'[art. 2428 del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2428), come sostituito dall'[art. 11 del decreto legislativo 9 aprile 1991, n. 127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1991-04-09;127~art11), e' aggiunto il seguente comma:  
-"Dalla relazione deve inoltre risultare l'elenco delle sedi secondarie della societa'".  
-AVVERTENZA:  
-Per ragioni di urgenza si omette la pubblicazione delle note al presente decreto legislativo, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 14 marzo 1986, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-03-14;217).
+All'[art. 2428 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2428), come sostituito dall'[art. 11 del decreto legislativo 9 aprile 1991, n. 127](Attuazione%20delle%20direttive%20n.%2078-660-CEE%20e%20n.%2083-349-CEE%20in%20materia%20societaria%20relative%20ai%20conti%20annuali%20e%20consolidati%20ai%20sensi%20dellart.%201%20comma%201%20della%20legge%2026%20marzo%201990%20n.%2069.md), e' aggiunto il seguente comma:
+ "Dalla relazione deve inoltre risultare l'elenco delle sedi secondarie della societa'".
+ AVVERTENZA:
+ Per ragioni di urgenza si omette la pubblicazione delle note al presente decreto legislativo, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 14 marzo 1986, n. 217](../DPR/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblica_e0836c31af30.md).
 
-Art. 2
-------
+## Art. 2. — Societa' estere con sede secondaria
+ nel territorio dello Stato
 
-Societa' estere con sede secondaria  
-nel territorio dello Stato
+1.
 
-1. L'[art. 2506 del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2506) e' sostituito dal seguente:  
-"2506 (Societa' estere con sede secondaria nel territorio dello Stato). - Le societa' costitute all'estero, le quali stabiliscono nel territorio dello Stato una o piu' sedi secondarie con rappresentanza stabile, sono soggette, per ciascuna sede, alle disposizioni della legge italiana sulla pubblicita' degli atti sociali. Esse devono inoltre pubblicare, secondo le medesime disposizioni, il cognome, il nome, la data e il luogo di nascita delle persone che le rappresentano stabilmente nel territorio dello Stato, con indicazione dei relativi poteri, e depositarne nel registro delle imprese le firme autografe.  
-Ai terzi che hanno compiuto operazioni con la sede secondaria non puo' essere opposto che gli atti pubblicati ai sensi dei commi precedenti sono difformi da quelli pubblicati nello Stato ove e' situata la sede principale.  
-Le societa' costituite all'estero sono altresi' soggette, per quanto riguarda le sedi secondarie, alle disposizioni che regolano l'esercizio dell'impresa o che la subordinano all'osservanza di particolari condizioni.  
-Negli atti e nella corrispondenza delle sedi secondarie di societa' costituite all'estero devono essere contenute le indicazioni richieste dall'art. 2250; devono essere altresi' indicati l'ufficio del registro delle imprese presso il quale e' iscritta la sede secondaria e il numero di iscrizione.".
+L'[art. 2506 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2506) e' sostituito dal seguente:
+ "2506 (Societa' estere con sede secondaria nel territorio dello Stato). - Le societa' costitute all'estero, le quali stabiliscono nel territorio dello Stato una o piu' sedi secondarie con rappresentanza stabile, sono soggette, per ciascuna sede, alle disposizioni della legge italiana sulla pubblicita' degli atti sociali. Esse devono inoltre pubblicare, secondo le medesime disposizioni, il cognome, il nome, la data e il luogo di nascita delle persone che le rappresentano stabilmente nel territorio dello Stato, con indicazione dei relativi poteri, e depositarne nel registro delle imprese le firme autografe.
+ Ai terzi che hanno compiuto operazioni con la sede secondaria non puo' essere opposto che gli atti pubblicati ai sensi dei commi precedenti sono difformi da quelli pubblicati nello Stato ove e' situata la sede principale.
+ Le societa' costituite all'estero sono altresi' soggette, per quanto riguarda le sedi secondarie, alle disposizioni che regolano l'esercizio dell'impresa o che la subordinano all'osservanza di particolari condizioni.
+ Negli atti e nella corrispondenza delle sedi secondarie di societa' costituite all'estero devono essere contenute le indicazioni richieste dall'art. 2250; devono essere altresi' indicati l'ufficio del registro delle imprese presso il quale e' iscritta la sede secondaria e il numero di iscrizione.".
 
-Art. 3
-------
+## Art. 3. — Omissione ed esecuzione tardiva o incompiuta
+ di denunzie, comunicazioni, depositi
 
-Omissione ed esecuzione tardiva o incompiuta  
-di denunzie, comunicazioni, depositi
+1.
 
-1. L'[art. 2626 del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2626) e' sostituito dal seguente:  
-"2626 (Omissione ed esecuzione tardiva o incompiuta di denunzie, comunicazioni, depositi). - Agli amministratori, ai sindaci, ai liquidatori e ai preposti all'esercizio di sede secondaria nel territorio dello Stato di societa' costituite all'estero che omettono di fare, nel termine stabilito, all'ufficio del registro delle imprese una denunzia, una comunicazione o un deposito, a cui sono dalla legge obbligati, o li eseguono o li fanno eseguire in modo incompiuto, ovvero omettono di richiedere una pubblicazione nel Bollettino ufficiale delle societa' per azioni e a responsabilita' limitata, nei casi in cui detta pubblicazione e' prescritta dal codice, si applica la sanzione amministrativa del pagamento di una somma da lire centomila a lire due milioni.  
-La stessa sanzione si applica al notaio nei casi in cui l'obbligo della denunzia, della comunicazione, del deposito o della pubblicazione e' posto dalla legge anche a di lui carico.".
+L'[art. 2626 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2626) e' sostituito dal seguente:
+ "2626 (Omissione ed esecuzione tardiva o incompiuta di denunzie, comunicazioni, depositi). - Agli amministratori, ai sindaci, ai liquidatori e ai preposti all'esercizio di sede secondaria nel territorio dello Stato di societa' costituite all'estero che omettono di fare, nel termine stabilito, all'ufficio del registro delle imprese una denunzia, una comunicazione o un deposito, a cui sono dalla legge obbligati, o li eseguono o li fanno eseguire in modo incompiuto, ovvero omettono di richiedere una pubblicazione nel Bollettino ufficiale delle societa' per azioni e a responsabilita' limitata, nei casi in cui detta pubblicazione e' prescritta dal codice, si applica la sanzione amministrativa del pagamento di una somma da lire centomila a lire due milioni.
+ La stessa sanzione si applica al notaio nei casi in cui l'obbligo della denunzia, della comunicazione, del deposito o della pubblicazione e' posto dalla legge anche a di lui carico.".
 
-Art. 4
-------
+## Art. 4. — Omissione delle indicazioni obbligatorie
 
-Omissione delle indicazioni obbligatorie
+1.
 
-1. L'[art. 2627 del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2627) e' sostituito dal seguente:  
-"2627 (Omissione delle indicazioni obbligatorie). - Agli amministratori, ai direttori generali, ai liquidatori e ai preposti all'esercizio di sede secondaria nel territorio dello Stato di societa' costituite all'estero che contravvengono alle disposizioni degli articoli 2250 e 2506, quarto comma, si applica la sanzione amministrativa del pagamento di una somma da lire centomila a lire un milione.".
+L'[art. 2627 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2627) e' sostituito dal seguente:
+ "2627 (Omissione delle indicazioni obbligatorie). - Agli amministratori, ai direttori generali, ai liquidatori e ai preposti all'esercizio di sede secondaria nel territorio dello Stato di societa' costituite all'estero che contravvengono alle disposizioni degli articoli 2250 e 2506, quarto comma, si applica la sanzione amministrativa del pagamento di una somma da lire centomila a lire un milione.".
 
-Art. 5
-------
+## Art. 5. — Pubblicita'
 
-Pubblicita'
+1.
 
-1. Dopo l'art. 101- bis delle disposizioni per l'attuazione del codice civile sono inseriti i seguenti:  
-"Art. 101- ter. - Ai fini della pubblicita' prescritta dagli [articoli 2506](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2506) e [2507 del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2507) la societa' richiedente deve allegare agli atti e documenti ivi previsti la traduzione giurata in lingua italiana e deve indicare gli estremi della pubblicita' attuata nello Stato ove e' situata la sede principale. Dell'avvenuto deposito dei documenti deve essere fatta menzione nel Bollettino ufficiale delle societa' per azioni e a responsabilita' limitata.".  
-"Art. 101-quater. - Le societa' soggette alla legislazione di un altro Stato appartenente alla Comunita' economica europea, le quali stabiliscono nel territorio dello Stato piu' sedi secondarie con rappresentanza stabile, possono attuare la pubblicita' dell'atto costitutivo, dello statuto e dei bilanci nell'ufficio del registro delle imprese di una soltanto delle sedi secondarie, depositando negli altri l'attestazione dell'eseguita pubblicita'.".
+Dopo l'art. 101- bis delle disposizioni per l'attuazione del codice civile sono inseriti i seguenti:
+ "Art. 101- ter. - Ai fini della pubblicita' prescritta dagli [articoli 2506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2506) e [2507 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2507) la societa' richiedente deve allegare agli atti e documenti ivi previsti la traduzione giurata in lingua italiana e deve indicare gli estremi della pubblicita' attuata nello Stato ove e' situata la sede principale. Dell'avvenuto deposito dei documenti deve essere fatta menzione nel Bollettino ufficiale delle societa' per azioni e a responsabilita' limitata.".
+ "Art. 101-quater. - Le societa' soggette alla legislazione di un altro Stato appartenente alla Comunita' economica europea, le quali stabiliscono nel territorio dello Stato piu' sedi secondarie con rappresentanza stabile, possono attuare la pubblicita' dell'atto costitutivo, dello statuto e dei bilanci nell'ufficio del registro delle imprese di una soltanto delle sedi secondarie, depositando negli altri l'attestazione dell'eseguita pubblicita'.".
 
-Art. 6
-------
+## Art. 6. — Termini per la pubblicita' di atti formati all'estero
 
-Termini per la pubblicita' di atti formati all'estero
+1.
 
-1. L'articolo unico della [legge 13 marzo 1980, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-03-13;73), e' sostituito dal seguente:  
-"Art. 1. - Per gli atti ricevuti od autenticati all'estero, i termini di cui all'[art. 2671 del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2671) decorrono dalla data del deposito effettuato a norma dell'[art. 106, n. 4, della legge 16 febbraio 1913, n. 89](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89~art106-num4).  
-2. Per gli atti ricevuti o autenticati all'estero per i quali sia prevista la pubblicita' nel registro delle imprese, i termini decorrono dalla data stabilita nel comma 1, ma il deposito per l'iscrizione deve avvenire entro il quarantacinquesimo giorno successivo al compimento dell'atto.".
+L'articolo unico della [legge 13 marzo 1980, n. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-03-13;73), e' sostituito dal seguente:
+ "Art. 1. - Per gli atti ricevuti od autenticati all'estero, i termini di cui all'[art. 2671 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2671) decorrono dalla data del deposito effettuato a norma dell'[art. 106, n. 4, della legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89#art_106-num4).
+ 2. Per gli atti ricevuti o autenticati all'estero per i quali sia prevista la pubblicita' nel registro delle imprese, i termini decorrono dalla data stabilita nel comma 1, ma il deposito per l'iscrizione deve avvenire entro il quarantacinquesimo giorno successivo al compimento dell'atto.".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 dicembre 1992
+Dato a Roma, addi' 29 dicembre 1992
 
-SCALFARO
-
-AMATO, Presidente del Consiglio dei Ministri
-
-COSTA, Ministro per il coordinamento delle politiche comunitarie
-
-MARTELLI, Ministro di grazia e giustizia
-
-COLOMBO, Ministro degli affari esteri
-
-BARUCCI, Ministro del tesoro
-
-Visto, il Guardasigilli: MARTELLI
+SCALFARO AMATO, Presidente del Consiglio dei Ministri COSTA, Ministro per il coordinamento delle politiche comunitarie MARTELLI, Ministro di grazia e giustizia COLOMBO, Ministro degli affari esteri BARUCCI, Ministro del tesoro Visto, il Guardasigilli: MARTELLI

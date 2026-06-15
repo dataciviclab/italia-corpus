@@ -1,16 +1,14 @@
-DECRETO 16 aprile 2010 n. 116
-
-
-DECRETO 16 aprile 2010 n. 116
-=============================
-
-Regolamento per lo svolgimento delle attivita' di trapianto di organi da donatore vivente. (10G0137)
-----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/07/2010
+---
+tipo: DECRETO
+numero: 116
+data: 2010-04-16
+titolo: "Regolamento per lo svolgimento delle attivita' di trapianto di organi da donatore vivente. (10G0137)"
+urn: urn:nir:ministero.salute:decreto:2010-04-16;116
+codice_redazionale: 010G0137
+vigente: true
+---
 
 IL MINISTRO DELLA SALUTE
-------------------------
 
 di concerto con
 
@@ -18,15 +16,15 @@ IL MINISTRO DEL LAVORO
 
 E DELLE POLITICHE SOCIALI
 
-Visto l'[articolo 17, commi 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3) e [4 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com4);
+Visto l'[articolo 17, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) e [4 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4);
 
-Vista la [legge 26 giugno 1967, n. 458](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-06-26;458), recante «Trapianto di rene tra persone viventi», in particolare l'articolo 8, che demanda al Ministero della sanita' di concerto con il Ministro per il lavoro e la previdenza sociale, l'emanazione di un regolamento di esecuzione della legge stessa;
+Vista la [legge 26 giugno 1967, n. 458](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-06-26;458), recante «Trapianto di rene tra persone viventi», in particolare l'articolo 8, che demanda al Ministero della sanita' di concerto con il Ministro per il lavoro e la previdenza sociale, l'emanazione di un regolamento di esecuzione della legge stessa;
 
-Vista la [legge 16 dicembre 1999, n. 483](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-16;483), recante «Norme per consentire il trapianto parziale di fegato», in particolare l'articolo 1, che rimanda, per quanto compatibile, alle disposizioni della [legge 26 giugno 1967, n. 458](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-06-26;458);
+Vista la [legge 16 dicembre 1999, n. 483](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-16;483), recante «Norme per consentire il trapianto parziale di fegato», in particolare l'articolo 1, che rimanda, per quanto compatibile, alle disposizioni della [legge 26 giugno 1967, n. 458](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-06-26;458);
 
-Vista la [legge 1° aprile 1999, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-04-01;91), recante «Disposizioni in materia di prelievi e di trapianti di organi e tessuti» ed in particolare l'articolo 8, che, al comma 1, istituisce presso l'Istituto superiore di sanita' il Centro nazionale per i trapianti il quale, ai sensi del comma 6, lettera d), definisce linee guida rivolte ai centri regionali o interregionali per i trapianti allo scopo di uniformare l'attivita' di prelievo e di trapianto sul territorio nazionale;
+Vista la [legge 1° aprile 1999, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-04-01;91), recante «Disposizioni in materia di prelievi e di trapianti di organi e tessuti» ed in particolare l'articolo 8, che, al comma 1, istituisce presso l'Istituto superiore di sanita' il Centro nazionale per i trapianti il quale, ai sensi del comma 6, lettera d), definisce linee guida rivolte ai centri regionali o interregionali per i trapianti allo scopo di uniformare l'attivita' di prelievo e di trapianto sul territorio nazionale;
 
-Vista la [legge costituzionale, 18 ottobre 2001, n. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:2001-10-18;3), «Modifiche al titolo V della parte seconda della Costituzione», in base alla quale le materie riguardanti la tutela della salute rientrano nella legislazione concorrente e pertanto spettano alla potesta' legislativa delle regioni eccezion fatta per la determinazione dei principi fondamentali riservati alla legislazione dello Stato;
+Vista la [legge costituzionale, 18 ottobre 2001, n. 3](../Leggi%20costituzionali/Modifiche%20al%20titolo%20V%20della%20parte%20seconda%20della%20Costituzione.md), «Modifiche al titolo V della parte seconda della Costituzione», in base alla quale le materie riguardanti la tutela della salute rientrano nella legislazione concorrente e pertanto spettano alla potesta' legislativa delle regioni eccezion fatta per la determinazione dei principi fondamentali riservati alla legislazione dello Stato;
 
 Visto il parere del Consiglio superiore di sanita' del 28 marzo 2001, con il quale sono state definite «le norme procedurali per la concessione temporanea dell'autorizzazione allo svolgimento dell'attivita' di trapianto di fegato da vivente»;
 
@@ -46,170 +44,194 @@ Acquisito il parere della conferenza Stato-regioni espresso nella seduta dell'8 
 
 Acquisito il parere del Consiglio di Stato espresso in data 9 novembre 2009;
 
-Vista la nota n. 1510 del 7 aprile 2010 con la quale, ai sensi dell'articolo 17, comma 3, della citata [legge n. 400 del 1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400), lo schema di regolamento e' stato comunicato alla Presidenza del Consiglio dei Ministri;
+Vista la nota n. 1510 del 7 aprile 2010 con la quale, ai sensi dell'articolo 17, comma 3, della citata [legge n. 400 del 1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400), lo schema di regolamento e' stato comunicato alla Presidenza del Consiglio dei Ministri;
 
-Adotta
-------
+Adotta il seguente regolamento:
 
-il seguente regolamento:
+## PRINCIPI GENERALI RELATIVI AL TRAPIANTO DI RENE O DI PARTI DI FEGATO  DA DONATORE VIVENTE
 
-CAPO I Titolo I PRINCIPI GENERALI RELATIVI AL TRAPIANTO DI RENE O DI PARTI DI FEGATO DA DONATORE VIVENTE
---------------------------------------------------------------------------------------------------------
+Titolo I
 
-### Art. 1
+### Art. 1. — Principi guida
 
-Principi guida
+1.
 
-1. Il personale sanitario che, a vario titolo, partecipa all'attivita' di trapianto di organi o di parte di organo da donatore vivente e' tenuto ad osservare tutte le misure previste dallo stato della scienza e della tecnica medica e a proteggere la dignita' e la personalita' del donatore vivente senza mettere in pericolo la sua salute.
+Il personale sanitario che, a vario titolo, partecipa all'attivita' di trapianto di organi o di parte di organo da donatore vivente e' tenuto ad osservare tutte le misure previste dallo stato della scienza e della tecnica medica e a proteggere la dignita' e la personalita' del donatore vivente senza mettere in pericolo la sua salute.
 
-2. L'attivita' di trapianto di organi o di parte di organo da donatore vivente ha carattere aggiuntivo e non sostitutivo dell'attivita' di trapianto da donatore cadavere.
+2.
 
-Avvertenza:   
-Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.   
-Note alle premesse:   
-- Si riporta il testo dei [commi 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3) e [4 dell'art. 17 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com4) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri).   
-«3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.  
-I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.   
-4. I regolamenti di cui al comma 1 ed i regolamenti ministeriali ed interministeriali, che devono recare la denominazione di «regolamento», sono adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.».   
-Note all'art. 1:   
-- Si riporta il testo degli [articoli 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-04-01;91~art11) e [12 della legge 1° aprile 1999, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-04-01;91~art12) (Disposizioni in materia di prelievi e di trapianti di organi e tessuti):   
-«Art. 11 (Coordinatori dei centri regionali e interregionali). - 1. Le attivita' dei centri regionali e dei centri interregionali sono coordinate da un coordinatore nominato dalla regione, o d'intesa tra le regioni interessate, per la durata di cinque anni, rinnovabili alla scadenza, tra i medici che abbiano acquisito esperienza nel settore dei trapianti.   
-2. Nello svolgimento dei propri compiti, il coordinatore regionale o interregionale e' coadiuvato da un comitato regionale o interregionale composto dai responsabili, o loro delegati, delle strutture per i prelievi e per i trapianti presenti nell'area di competenza e da un funzionario amministrativo delle rispettive regioni.».   
-«Art. 12 (Coordinatori locali). - 1. Le funzioni di coordinamento delle strutture per i prelievi sono svolte da un medico dell'azienda sanitaria competente per territorio che abbia maturato esperienza nel settore dei trapianti designato dal direttore generale dell'azienda per un periodo di cinque anni, rinnovabile alla scadenza.   
-2. I coordinatori locali provvedono, secondo le modalita' stabilite dalle regioni:   
-a) ad assicurare l'immediata comunicazione dei dati relativi al donatore, tramite il sistema informativo dei trapianti di cui all'art. 7, al Centro regionale o interregionale competente ed al Centro nazionale, al fine dell'assegnazione degli organi;   
-b) a coordinare gli atti amministrativi relativi agli interventi di prelievo;   
-c) a curare i rapporti con le famiglie dei donatori;   
-d) ad organizzare attivita' di informazione, di educazione e di crescita culturale della popolazione in materia di trapianti nel territorio di competenza.   
-3. Nell'esercizio dei compiti di cui al comma 2 i coordinatori locali possono avvalersi di collaboratori scelti tra il personale sanitario ed amministrativo.   
-4. Per l'attuazione dell'art. 11 e del presente articolo e' autorizzata la spesa di lire 50 milioni annue a decorrere dal 1999.».
+L'attivita' di trapianto di organi o di parte di organo da donatore vivente ha carattere aggiuntivo e non sostitutivo dell'attivita' di trapianto da donatore cadavere.
 
-### Art. 2
+Avvertenza: 
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ Note alle premesse: 
+ - Si riporta il testo dei [commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) e [4 dell'art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri). 
+ «3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.
+ I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. 
+ 4. I regolamenti di cui al comma 1 ed i regolamenti ministeriali ed interministeriali, che devono recare la denominazione di «regolamento», sono adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.». 
+ Note all'art. 1: 
+ - Si riporta il testo degli [articoli 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-04-01;91#art_11) e [12 della legge 1° aprile 1999, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-04-01;91#art_12) (Disposizioni in materia di prelievi e di trapianti di organi e tessuti): 
+ «Art. 11 (Coordinatori dei centri regionali e interregionali). - 1. Le attivita' dei centri regionali e dei centri interregionali sono coordinate da un coordinatore nominato dalla regione, o d'intesa tra le regioni interessate, per la durata di cinque anni, rinnovabili alla scadenza, tra i medici che abbiano acquisito esperienza nel settore dei trapianti. 
+ 2. Nello svolgimento dei propri compiti, il coordinatore regionale o interregionale e' coadiuvato da un comitato regionale o interregionale composto dai responsabili, o loro delegati, delle strutture per i prelievi e per i trapianti presenti nell'area di competenza e da un funzionario amministrativo delle rispettive regioni.». 
+ «Art. 12 (Coordinatori locali). - 1. Le funzioni di coordinamento delle strutture per i prelievi sono svolte da un medico dell'azienda sanitaria competente per territorio che abbia maturato esperienza nel settore dei trapianti designato dal direttore generale dell'azienda per un periodo di cinque anni, rinnovabile alla scadenza. 
+ 2. I coordinatori locali provvedono, secondo le modalita' stabilite dalle regioni: 
+ a) ad assicurare l'immediata comunicazione dei dati relativi al donatore, tramite il sistema informativo dei trapianti di cui all'art. 7, al Centro regionale o interregionale competente ed al Centro nazionale, al fine dell'assegnazione degli organi; 
+ b) a coordinare gli atti amministrativi relativi agli interventi di prelievo; 
+ c) a curare i rapporti con le famiglie dei donatori; 
+ d) ad organizzare attivita' di informazione, di educazione e di crescita culturale della popolazione in materia di trapianti nel territorio di competenza. 
+ 3. Nell'esercizio dei compiti di cui al comma 2 i coordinatori locali possono avvalersi di collaboratori scelti tra il personale sanitario ed amministrativo. 
+ 4. Per l'attuazione dell'art. 11 e del presente articolo e' autorizzata la spesa di lire 50 milioni annue a decorrere dal 1999.».
 
-Commissione terza
+### Art. 2. — Commissione terza
 
-1. Fermo restando quanto previsto dall'[articolo 2 della legge 26 giugno 1967, n. 458](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-06-26;458~art2), entro 180 giorni dall'entrata in vigore del presente decreto, sulla base di indirizzi e criteri formulati dalla Regione o dalla Provincia autonoma di appartenenza, l'Azienda sanitaria sede del Centro trapianti o il Centro regionale di riferimento per i trapianti nomina una commissione di esperti sulle problematiche correlate al trapianto da donatore vivente, di seguito «Commissione terza». I componenti della Commissione terza sono estranei rispetto alla equipe trapiantologica.
+1.
 
-2. L'Azienda sanitaria o il Centro regionale di riferimento per i trapianti puo' avvalersi, previo apposito accordo o esplicita convenzione, della collaborazione di una «Commissione terza» istituita presso altra Azienda sanitaria della stessa regione ovvero di altra regione.
+Fermo restando quanto previsto dall'[articolo 2 della legge 26 giugno 1967, n. 458](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-06-26;458#art_2), entro 180 giorni dall'entrata in vigore del presente decreto, sulla base di indirizzi e criteri formulati dalla Regione o dalla Provincia autonoma di appartenenza, l'Azienda sanitaria sede del Centro trapianti o il Centro regionale di riferimento per i trapianti nomina una commissione di esperti sulle problematiche correlate al trapianto da donatore vivente, di seguito «Commissione terza». I componenti della Commissione terza sono estranei rispetto alla equipe trapiantologica.
 
-3. Le funzioni attribuite alla «Commissione terza» sono finalizzate a verificare che i riceventi e i potenziali donatori abbiano agito secondo i principi del consenso informato, libero e consapevole, ed abbiano inoltre ricevuto tutte le informazioni relative al proprio caso clinico, ai fattori di rischio e alle reali possibilita' di successo offerte dal trapianto da donatore cadavere e dal trapianto da donatore vivente, anche in termini di sopravvivenza dell'organo e del paziente. La Commissione terza vigila, altresi', al fine di prevenire i rischi di commercializzazione di organi o di coercizione nella donazione, nel rispetto delle linee guida disposte dal Centro nazionale trapianti. Verifica inoltre, l'esistenza di consanguineita' con il ricevente o, in assenza di consanguineita', di legame di legge o affettivo.
+2.
 
-4. La commissione terza e' composta da almeno 2 membri scelti tra: i coordinatori locali di cui all'[articolo 12 della legge 1° aprile 1999, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-04-01;91~art12);   
-il personale afferente ai coordinamenti regionali ed interregionali di cui all'[articolo 11 della legge 1° aprile 1999, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-04-01;91~art11);   
-specialisti in medicina legale esperti in attivita' relative al trapianto o medici di direzione sanitaria con esperienza nelle attivita' trapiantologiche;   
-laureati in psicologia o specialisti in psichiatria con esperienza nelle attivita' trapiantologiche.
+L'Azienda sanitaria o il Centro regionale di riferimento per i trapianti puo' avvalersi, previo apposito accordo o esplicita convenzione, della collaborazione di una «Commissione terza» istituita presso altra Azienda sanitaria della stessa regione ovvero di altra regione.
 
-### Art. 3
+3.
 
-Accertamenti sul donatore e sul ricevente
+Le funzioni attribuite alla «Commissione terza» sono finalizzate a verificare che i riceventi e i potenziali donatori abbiano agito secondo i principi del consenso informato, libero e consapevole, ed abbiano inoltre ricevuto tutte le informazioni relative al proprio caso clinico, ai fattori di rischio e alle reali possibilita' di successo offerte dal trapianto da donatore cadavere e dal trapianto da donatore vivente, anche in termini di sopravvivenza dell'organo e del paziente. La Commissione terza vigila, altresi', al fine di prevenire i rischi di commercializzazione di organi o di coercizione nella donazione, nel rispetto delle linee guida disposte dal Centro nazionale trapianti. Verifica inoltre, l'esistenza di consanguineita' con il ricevente o, in assenza di consanguineita', di legame di legge o affettivo.
 
-1. L'equipe autorizzata al trapianto effettua e valuta accertamenti mirati ad escludere la presenza di specifici fattori di rischio in relazione a precedenti patologie ed evidenziare il grado di compatibilita' tra donatore e ricevente.
+4.
 
-### Art. 4
+La commissione terza e' composta da almeno 2 membri scelti tra:  i coordinatori locali di cui all'[articolo 12 della legge 1° aprile 1999, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-04-01;91#art_12); 
+ il personale afferente ai coordinamenti regionali ed interregionali di cui all'[articolo 11 della legge 1° aprile 1999, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-04-01;91#art_11); 
+ specialisti in medicina legale esperti in attivita' relative al trapianto o medici di direzione sanitaria con esperienza nelle attivita' trapiantologiche; 
+ laureati in psicologia o specialisti in psichiatria con esperienza nelle attivita' trapiantologiche.
 
-Casi di esclusione
+### Art. 3. — Accertamenti sul donatore e sul ricevente
 
-1. Nei casi d'urgenza, per i quali e' prevista un'assegnazione di organi da cadavere su priorita' nazionale, il trapianto di organo o parte di organo da donatore vivente non e' consentito.
+1.
 
-### Art. 5
+L'equipe autorizzata al trapianto effettua e valuta accertamenti mirati ad escludere la presenza di specifici fattori di rischio in relazione a precedenti patologie ed evidenziare il grado di compatibilita' tra donatore e ricevente.
 
-Flussi
+### Art. 4. — Casi di esclusione
 
-1. I Centri di trapianto autorizzati comunicano al Centro regionale e al Centro interregionale di riferimento le segnalazioni di potenziali donatori, di potenziali riceventi il trapianto di organo o parte di organo da donatore vivente, l'evento trapianto, nonche' i controlli successivi dei donatori e dei pazienti trapiantati, gli eventuali eventi avversi e patologie rilevanti conseguenti al prelievo e al trapianto.
+1.
 
-2. Il Centro regionale e il Centro interregionale di riferimento raccolgono i dati relativi ai controlli successivi del donatore a breve, medio e lungo termine e li comunicano al Centro nazionale trapianti che ne cura l'inserimento nel Registro nazionale per i trapianti da donatore vivente al fine di disporre di una rigorosa, puntuale e documentata conoscenza degli esiti della donazione in termini di morbilita' e mortalita', in relazione anche a rischi noti o emergenti cui e' esposto il donatore.
+Nei casi d'urgenza, per i quali e' prevista un'assegnazione di organi da cadavere su priorita' nazionale, il trapianto di organo o parte di organo da donatore vivente non e' consentito.
 
-### Art. 6
+### Art. 5. — Flussi
 
-Sorveglianza
+1.
 
-1. Il Centro nazionale trapianti sorveglia che il trapianto da donatore vivente sia svolto nel rispetto del presente decreto e dei principi fondamentali in materia di trapianto d'organo: trasparenza, equita', sicurezza, qualita'.
+I Centri di trapianto autorizzati comunicano al Centro regionale e al Centro interregionale di riferimento le segnalazioni di potenziali donatori, di potenziali riceventi il trapianto di organo o parte di organo da donatore vivente, l'evento trapianto, nonche' i controlli successivi dei donatori e dei pazienti trapiantati, gli eventuali eventi avversi e patologie rilevanti conseguenti al prelievo e al trapianto.
 
-CAPO II Titolo II AUTORIZZAZIONE Capo I Trapianto di parti di fegato
---------------------------------------------------------------------
+2.
 
-### Art. 7
+Il Centro regionale e il Centro interregionale di riferimento raccolgono i dati relativi ai controlli successivi del donatore a breve, medio e lungo termine e li comunicano al Centro nazionale trapianti che ne cura l'inserimento nel Registro nazionale per i trapianti da donatore vivente al fine di disporre di una rigorosa, puntuale e documentata conoscenza degli esiti della donazione in termini di morbilita' e mortalita', in relazione anche a rischi noti o emergenti cui e' esposto il donatore.
 
-Requisiti per la richiesta di autorizzazione allo svolgimento di attivita' di trapianto di parti di fegato da donatore vivente
+### Art. 6. — Sorveglianza
 
-1. I Centri gia' autorizzati al trapianto da donatore cadavere, previa acquisizione del parere della Regione territorialmente competente, possono richiedere al Ministero della salute l'autorizzazione a svolgere attivita' di trapianto di parti di fegato da donatore vivente a condizione che rispondano ai seguenti requisiti:   
-aver effettuato nell'anno solare precedente un numero di trapianti di fegato da donatore cadavere non inferiore a 25; ove tale limite non risulti tecnicamente raggiungibile dovra' essere considerata l'attivita' di chirurgia epatica maggiore e l'attivita' di trapianto di parti di fegato;   
-aver conseguito nell'attivita' di trapianto di fegato da donatore cadavere una percentuale di sopravvivenza ad un anno dell'organo e del paziente trapiantato non inferiore ai livelli di qualita' desunti dai dati ufficiali dei registri nazionali ed internazionali.
+1.
 
-### Art. 8
+Il Centro nazionale trapianti sorveglia che il trapianto da donatore vivente sia svolto nel rispetto del presente decreto e dei principi fondamentali in materia di trapianto d'organo: trasparenza, equita', sicurezza, qualita'.
 
-Adozione e conferma dell'autorizzazione
+## AUTORIZZAZIONE     Capo I     Trapianto di parti di fegato
 
-1. Il Ministero della salute con specifico provvedimento adotta o conferma l'autorizzazione, con durata triennale, allo svolgimento dell'attivita' di trapianto di parti di fegato da donatore vivente ai Centri di trapianto richiedenti, acquisita la relazione tecnica predisposta dal Centro nazionale trapianti, il parere del Consiglio superiore di sanita' e della Conferenza dei Presidenti delle regioni e delle province autonome.
+Titolo II
 
-2. La relazione tecnica predisposta dal Centro nazionale trapianti al fine dell'autorizzazione dei centri al trapianto di parti di fegato da donatore vivente ovvero per la conferma dell'autorizzazione stessa si basa sui dati sugli standard di qualita' e quantita' certificati dal medesimo Centro nel precedente anno solare, e puo' tener in considerazione ulteriori criteri e indicatori aggiuntivi, quali:   
-criteri di gestione delle liste di attesa;   
-effettuazione di attivita' di trapianto di parti di fegato (da adulto e pediatrici) con valutazione dei risultati;   
-effettuazione di attivita' regolare di chirurgia epatica maggiore;   
-indici di accettazione degli organi;   
-indice di ritrapianto.
+### Art. 7. — Requisiti per la richiesta di autorizzazione allo svolgimento di attivita' di trapianto di parti di fegato da donatore vivente
 
-3. Tali standard di riferimento per l'ammissione o la conferma dei centri autorizzati al trapianto di parti di fegato da donatore vivente sono definiti dal Centro nazionale trapianti con cadenza minima triennale, sentito il Consiglio superiore di sanita'.
+1.
 
-4. Il Centro nazionale trapianti valuta annualmente l'attivita' dei centri e ne riferisce al Ministero della salute, proponendo anche la sospensione o revoca della autorizzazione se non sono raggiunti gli standard previsti o nel caso di inosservanza delle disposizioni di cui all'articolo 5, commi 1 e 2.
+I Centri gia' autorizzati al trapianto da donatore cadavere, previa acquisizione del parere della Regione territorialmente competente, possono richiedere al Ministero della salute l'autorizzazione a svolgere attivita' di trapianto di parti di fegato da donatore vivente a condizione che rispondano ai seguenti requisiti: 
+ aver effettuato nell'anno solare precedente un numero di trapianti di fegato da donatore cadavere non inferiore a 25; ove tale limite non risulti tecnicamente raggiungibile dovra' essere considerata l'attivita' di chirurgia epatica maggiore e l'attivita' di trapianto di parti di fegato; 
+ aver conseguito nell'attivita' di trapianto di fegato da donatore cadavere una percentuale di sopravvivenza ad un anno dell'organo e del paziente trapiantato non inferiore ai livelli di qualita' desunti dai dati ufficiali dei registri nazionali ed internazionali.
 
-5. Il Ministero della salute revoca l'autorizzazione allo svolgimento dell'attivita' di trapianto di parti di fegato da donatore vivente qualora non vengano rispettati gli standard qualitativi e quantitativi di cui al comma 2, nonche' in caso di mancato rispetto delle disposizioni vigenti.
+### Art. 8. — Adozione e conferma dell'autorizzazione
 
-CAPO III Capo II Trapianto di rene
-----------------------------------
+1.
 
-### Art. 9
+Il Ministero della salute con specifico provvedimento adotta o conferma l'autorizzazione, con durata triennale, allo svolgimento dell'attivita' di trapianto di parti di fegato da donatore vivente ai Centri di trapianto richiedenti, acquisita la relazione tecnica predisposta dal Centro nazionale trapianti, il parere del Consiglio superiore di sanita' e della Conferenza dei Presidenti delle regioni e delle province autonome.
 
-Requisiti per la richiesta di autorizzazione allo svolgimento di attivita' di trapianto di rene da donatore vivente
+2.
 
-1. I centri gia' autorizzati al trapianto da donatore cadavere, previa acquisizione del parere della regione territorialmente competente, possono richiedere al Ministero della salute l'autorizzazione a svolgere attivita' di trapianto di rene da donatore vivente a condizione che rispondano ai seguenti requisiti: aver effettuato nell'anno solare precedente un numero di trapianti di rene da donatore cadavere non inferiore a 30;   
-aver elevati standard di qualita' verificati dal Centro nazionale trapianti.
+La relazione tecnica predisposta dal Centro nazionale trapianti al fine dell'autorizzazione dei centri al trapianto di parti di fegato da donatore vivente ovvero per la conferma dell'autorizzazione stessa si basa sui dati sugli standard di qualita' e quantita' certificati dal medesimo Centro nel precedente anno solare, e puo' tener in considerazione ulteriori criteri e indicatori aggiuntivi, quali: 
+ criteri di gestione delle liste di attesa; 
+ effettuazione di attivita' di trapianto di parti di fegato (da adulto e pediatrici) con valutazione dei risultati; 
+ effettuazione di attivita' regolare di chirurgia epatica maggiore; 
+ indici di accettazione degli organi; 
+ indice di ritrapianto.
 
-### Art. 10
+3.
 
-Adozione e conferma dell'autorizzazione
+Tali standard di riferimento per l'ammissione o la conferma dei centri autorizzati al trapianto di parti di fegato da donatore vivente sono definiti dal Centro nazionale trapianti con cadenza minima triennale, sentito il Consiglio superiore di sanita'.
 
-1. Il Ministero della salute con specifico provvedimento adotta o conferma l'autorizzazione, con durata triennale, allo svolgimento dell'attivita' di trapianto di rene da donatore vivente, acquisita la relazione tecnica predisposta dal Centro nazionale trapianti, il parere del Consiglio superiore di sanita' e della conferenza dei Presidenti delle regioni e delle province autonome.
+4.
 
-2. Il Centro nazionale trapianti valuta annualmente l'attivita' dei centri e ne riferisce al Ministero della salute, proponendo anche la sospensione o revoca della autorizzazione se non sono raggiunti gli standard previsti o nel caso di inosservanza delle disposizioni di cui all'articolo 5, commi 1 e 2.
+Il Centro nazionale trapianti valuta annualmente l'attivita' dei centri e ne riferisce al Ministero della salute, proponendo anche la sospensione o revoca della autorizzazione se non sono raggiunti gli standard previsti o nel caso di inosservanza delle disposizioni di cui all'articolo 5, commi 1 e 2.
 
-3. Il Ministero della salute revoca l'autorizzazione allo svolgimento dell'attivita' di trapianto di rene da donatore vivente qualora non vengano rispettati gli standard qualitativi e quantitativi previsti, nonche' in caso di mancato rispetto delle disposizioni vigenti.
+5.
 
-CAPO IV Titolo III ASSISTENZA SANITARIA
----------------------------------------
+Il Ministero della salute revoca l'autorizzazione allo svolgimento dell'attivita' di trapianto di parti di fegato da donatore vivente qualora non vengano rispettati gli standard qualitativi e quantitativi di cui al comma 2, nonche' in caso di mancato rispetto delle disposizioni vigenti.
 
-### Art. 11
+## Trapianto di rene
 
-Accertamenti a carico del   
-Servizio sanitario nazionale
+Capo II
 
-1. Sono a carico del Servizio sanitario nazionale gli accertamenti di cui all'articolo 3, comma 1, del presente decreto, effettuati per stabilire l'idoneita' del donatore e del ricevente.
+### Art. 9. — Requisiti per la richiesta di autorizzazione allo svolgimento di attivita' di trapianto di rene da donatore vivente
 
-2. Sono altresi' a carico del Servizio sanitario nazionale tutti gli accertamenti e i controlli del donatore effettuati anche a distanza dal trapianto e comunque allo stesso correlati, indipendentemente dall'esito e dal tempo intercorso dal trapianto stesso.
+1.
 
-### Art. 12
+I centri gia' autorizzati al trapianto da donatore cadavere, previa acquisizione del parere della regione territorialmente competente, possono richiedere al Ministero della salute l'autorizzazione a svolgere attivita' di trapianto di rene da donatore vivente a condizione che rispondano ai seguenti requisiti:  aver effettuato nell'anno solare precedente un numero di trapianti di rene da donatore cadavere non inferiore a 30; 
+ aver elevati standard di qualita' verificati dal Centro nazionale trapianti.
 
-Aspetti giuslavoristici
+### Art. 10. — Adozione e conferma dell'autorizzazione
 
-1. Il candidato al trapianto e il potenziale donatore hanno diritto ad assentarsi dal lavoro con permessi retribuiti dal proprio datore di lavoro per l'effettuazione degli accertamenti e/o ricoveri certificati come necessari sia nella fase di pre-prelievo, sia del trapianto, sia nei casi di eventuali complicanze post-operatorie anche a distanza di tempo dal trapianto.
+1.
 
-2. Per poter usufruire dei permessi di cui al comma 1, e' necessario che gli accertamenti e/o ricoveri siano prescritti dal centro trapianti o dai servizi ad esso collegati ed eseguiti presso le strutture del Sistema sanitario nazionale o da esso accreditate.
+Il Ministero della salute con specifico provvedimento adotta o conferma l'autorizzazione, con durata triennale, allo svolgimento dell'attivita' di trapianto di rene da donatore vivente, acquisita la relazione tecnica predisposta dal Centro nazionale trapianti, il parere del Consiglio superiore di sanita' e della conferenza dei Presidenti delle regioni e delle province autonome.
 
-3. La copertura assicurativa delle Aziende sede di Centro trapianti autorizzati al trapianto da donatore vivente deve essere estesa all'attivita' di prelievo di organi da donatore vivente.
+2.
 
-### Art. 13
+Il Centro nazionale trapianti valuta annualmente l'attivita' dei centri e ne riferisce al Ministero della salute, proponendo anche la sospensione o revoca della autorizzazione se non sono raggiunti gli standard previsti o nel caso di inosservanza delle disposizioni di cui all'articolo 5, commi 1 e 2.
 
-Entrata in vigore
+3.
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
+Il Ministero della salute revoca l'autorizzazione allo svolgimento dell'attivita' di trapianto di rene da donatore vivente qualora non vengano rispettati gli standard qualitativi e quantitativi previsti, nonche' in caso di mancato rispetto delle disposizioni vigenti.
+
+## ASSISTENZA SANITARIA
+
+Titolo III
+
+### Art. 11. — Accertamenti a carico del 
+ Servizio sanitario nazionale
+
+1.
+
+Sono a carico del Servizio sanitario nazionale gli accertamenti di cui all'articolo 3, comma 1, del presente decreto, effettuati per stabilire l'idoneita' del donatore e del ricevente.
+
+2.
+
+Sono altresi' a carico del Servizio sanitario nazionale tutti gli accertamenti e i controlli del donatore effettuati anche a distanza dal trapianto e comunque allo stesso correlati, indipendentemente dall'esito e dal tempo intercorso dal trapianto stesso.
+
+### Art. 12. — Aspetti giuslavoristici
+
+1.
+
+Il candidato al trapianto e il potenziale donatore hanno diritto ad assentarsi dal lavoro con permessi retribuiti dal proprio datore di lavoro per l'effettuazione degli accertamenti e/o ricoveri certificati come necessari sia nella fase di pre-prelievo, sia del trapianto, sia nei casi di eventuali complicanze post-operatorie anche a distanza di tempo dal trapianto.
+
+2.
+
+Per poter usufruire dei permessi di cui al comma 1, e' necessario che gli accertamenti e/o ricoveri siano prescritti dal centro trapianti o dai servizi ad esso collegati ed eseguiti presso le strutture del Sistema sanitario nazionale o da esso accreditate.
+
+3.
+
+La copertura assicurativa delle Aziende sede di Centro trapianti autorizzati al trapianto da donatore vivente deve essere estesa all'attivita' di prelievo di organi da donatore vivente.
+
+### Art. 13. — Entrata in vigore
+
+1.
+
+Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale del atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 16 aprile 2010
+Roma, 16 aprile 2010
 
-Il Ministro della salute Fazio Il Ministro del lavoro e delle politiche sociali Sacconi
-
-Visto, Il Guardasigilli: Alfano Registrato alla Corte dei conti il 10 giugno 2010 Ufficio di controllo preventivo sui Ministeri dei servizi alla
-
-persona e dei beni culturali, registro n. 10, foglio n. 120
+Il Ministro della salute Fazio Il Ministro del lavoro e delle politiche sociali Sacconi Visto, Il Guardasigilli: Alfano Registrato alla Corte dei conti il 10 giugno 2010 Ufficio di controllo preventivo sui Ministeri dei servizi alla persona e dei beni culturali, registro n. 10, foglio n. 120

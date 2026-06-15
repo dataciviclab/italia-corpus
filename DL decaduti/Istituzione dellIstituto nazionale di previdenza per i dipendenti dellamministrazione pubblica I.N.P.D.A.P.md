@@ -1,58 +1,39 @@
-DECRETO-LEGGE 16 febbraio 1993 n. 34
+---
+tipo: DECRETO-LEGGE
+numero: 34
+data: 1993-02-16
+titolo: "Istituzione dell'Istituto nazionale di previdenza per i dipendenti dell'amministrazione pubblica (I.N.P.D.A.P.)."
+urn: urn:nir:stato:decreto.legge:1993-02-16;34
+codice_redazionale: 093G0087
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 16 febbraio 1993 n. 34
-====================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 28 NOVEMBRE 1996, N. 608](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20ottobre%201996%20n.%20510%20recante%20disposizioni%20urgenti%20in%20materia%20di%20lavori%20socialmente%20utili%20di%20interventi%20a%20sostegno%20del%20reddito%20e%20n_2211000795ad.md)
 
-Istituzione dell'Istituto nazionale di previdenza per i dipendenti dell'amministrazione pubblica (I.N.P.D.A.P.).
-----------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore della legge: 18/2/1993.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 28 NOVEMBRE 1996, N. 608](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20ottobre%201996%20n.%20510%20recante%20disposizioni%20urgenti%20in%20materia%20di%20lavori%20socialmente%20utili%20di%20interventi%20a%20sostegno%20del%20reddito%20e%20n_2211000795ad.md)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 28 NOVEMBRE 1996, N. 608](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-28;608)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 28 NOVEMBRE 1996, N. 608](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20ottobre%201996%20n.%20510%20recante%20disposizioni%20urgenti%20in%20materia%20di%20lavori%20socialmente%20utili%20di%20interventi%20a%20sostegno%20del%20reddito%20e%20n_2211000795ad.md)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 28 NOVEMBRE 1996, N. 608](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-28;608)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 28 NOVEMBRE 1996, N. 608](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20ottobre%201996%20n.%20510%20recante%20disposizioni%20urgenti%20in%20materia%20di%20lavori%20socialmente%20utili%20di%20interventi%20a%20sostegno%20del%20reddito%20e%20n_2211000795ad.md)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 28 NOVEMBRE 1996, N. 608](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-28;608)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 28 NOVEMBRE 1996, N. 608](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20ottobre%201996%20n.%20510%20recante%20disposizioni%20urgenti%20in%20materia%20di%20lavori%20socialmente%20utili%20di%20interventi%20a%20sostegno%20del%20reddito%20e%20n_2211000795ad.md)
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 28 NOVEMBRE 1996, N. 608](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-28;608)
-  
-
-Art. 5
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 28 NOVEMBRE 1996, N. 608](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-28;608)
-  
-
-Art. 6
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 28 NOVEMBRE 1996, N. 608](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-28;608)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 28 NOVEMBRE 1996, N. 608](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20ottobre%201996%20n.%20510%20recante%20disposizioni%20urgenti%20in%20materia%20di%20lavori%20socialmente%20utili%20di%20interventi%20a%20sostegno%20del%20reddito%20e%20n_2211000795ad.md)

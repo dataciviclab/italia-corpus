@@ -1,30 +1,25 @@
-DECRETO LEGISLATIVO 26 febbraio 1999 n. 51
+---
+tipo: DECRETO LEGISLATIVO
+numero: 51
+data: 1999-02-26
+titolo: "Disposizioni integrative e correttive della legge 31 dicembre 1996, n. 675, concernenti il personale dell'ufficio del Garante per la protezione dei dati personali."
+urn: urn:nir:stato:decreto.legislativo:1999-02-26;51
+codice_redazionale: 099G0111
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 26 febbraio 1999 n. 51
-==========================================
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
-Disposizioni integrative e correttive della legge 31 dicembre 1996, n. 675, concernenti il personale dell'ufficio del Garante per la protezione dei dati personali.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 10-3-1999
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
-Art. 1
-------
+## Art. 3.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
-Art. 2
-------
+## Art. 4.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196) ))
-
-Art. 3
-------
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196) ))
-
-Art. 4
-------
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))

@@ -1,16 +1,14 @@
-DECRETO 03 settembre 1997 n. 482
-
-
-DECRETO 03 settembre 1997 n. 482
-================================
-
-Regolamento recante l'adeguamento dei compensi a vacazione per le prestazioni professionali dei periti industriali.
--------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 31-1-1998
+---
+tipo: DECRETO
+numero: 482
+data: 1997-09-03
+titolo: "Regolamento recante l'adeguamento dei compensi a vacazione per le prestazioni professionali dei periti industriali."
+urn: urn:nir:ministero.grazia.e.giustizia:decreto:1997-09-03;482
+codice_redazionale: 098G0013
+vigente: true
+---
 
 IL MINISTRO DI GRAZIA E GIUSTIZIA
----------------------------------
 
 di concerto con
 
@@ -22,11 +20,11 @@ IL MINISTRO DELL'INDUSTRIA
 
 DEL COMMERCIO E DELL'ARTIGIANATO
 
-Vista la [legge 12 marzo 1957, n. 146](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-03-12;146), contenente la tariffa degli onorari per le prestazioni professionali dei periti industriali;
+Vista la [legge 12 marzo 1957, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-03-12;146), contenente la tariffa degli onorari per le prestazioni professionali dei periti industriali;
 
-Visto l'[articolo 3 della legge 7 marzo 1967, n. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-03-07;118~art3), il quale prevede che le modifiche alla tariffa degli onorari per le prestazioni professionali dei periti industriali vengano stabilite con decreto del Ministro di grazia e giustizia di concerto con i Ministri dei lavori pubblici e dell'industria, del commercio e dell'artigianato, su proposta del Consiglio del collegio nazionale dei periti industriali;
+Visto l'[articolo 3 della legge 7 marzo 1967, n. 118](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-03-07;118#art_3), il quale prevede che le modifiche alla tariffa degli onorari per le prestazioni professionali dei periti industriali vengano stabilite con decreto del Ministro di grazia e giustizia di concerto con i Ministri dei lavori pubblici e dell'industria, del commercio e dell'artigianato, su proposta del Consiglio del collegio nazionale dei periti industriali;
 
-Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3);
+Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
 Ritenuta l'opportunita' di adeguare i compensi a vacazione previsti dalla tariffa per le prestazioni professionali dei periti industriali;
 
@@ -36,37 +34,22 @@ Visto il parere espresso dal C.I.P.E. nella riunione del 23 aprile 1997;
 
 Udito il parere della sezione consultiva per gli atti normativi del Consiglio di Stato espresso nell'adunanza del 30 giugno 1997;
 
-Vista la comunicazione al Presidente del Consiglio dei Ministri, a norma dell'articolo 17, comma 3, della citata [legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400) (nota n. 7/09002004/217 del 7 agosto 1997);
+Vista la comunicazione al Presidente del Consiglio dei Ministri, a norma dell'articolo 17, comma 3, della citata [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400) (nota n. 7/09002004/217 del 7 agosto 1997);
 
-Adotta
-------
+Adotta il seguente regolamento:
 
-il seguente regolamento:
+## Art. 1.
 
-Art. 1
-------
+1.
 
-1. I compensi a vacazione previsti dall'[articolo 39 della legge 12 marzo 1957, n. 146](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-03-12;146~art39), come modificati da ultimo dall'articolo 1 del decreto ministeriale 14 aprile 1987, pubblicato nella Gazzetta Ufficiale 21 maggio 1987, n. 116, sono variati e fissati in ragione di lire 87.000 per il perito industriale e di lire 55.000 per ogni aiutante di concetto.
+I compensi a vacazione previsti dall'[articolo 39 della legge 12 marzo 1957, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-03-12;146#art_39), come modificati da ultimo dall'articolo 1 del decreto ministeriale 14 aprile 1987, pubblicato nella Gazzetta Ufficiale 21 maggio 1987, n. 116, sono variati e fissati in ragione di lire 87.000 per il perito industriale e di lire 55.000 per ogni aiutante di concetto.
+
+Nota all'art. 1:
+ - L'art. 1 del decreto ministeriale 14 aprile 1987 recita:
+ "I compensi a vacazione previsti dall'art. 39 della tariffa approvata con [legge 12 marzo 1957, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-03-12;146), e successive modifiche fino al decreto ministeriale 15 gennaio 1981, sono variati e fissati per ogni ora o frazione di ora in ragione di L. 15.000 per il perito industriale e il 60% di L. 15.000 per l'aiuto di concetto".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 3 settembre 1997
+Roma, 3 settembre 1997
 
-Il Ministro di grazia e giustizia Flick Il Ministro dei lavori pubblici Costa Il Ministro dell'industria del commercio e dell'artigianato Bersani
-
-Visto, il Guardasigilli: Flick Registrato alla Corte dei conti il 22 dicembre 1997
-
-Registro n. 2 Giustizia, foglio n. 282 Avvertenza: Il testo della nota qui pubblicato e' stato redatto
-
-ai sensi dell'art. 10, comma 3, del testo unico delle
-
-disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e' sulle pubblicazioni ufficiali della Repubblica
-
-italiana, approvato con D.P.R. 28 dicembre 1985, n.
-
-1092, al solo fine di facilitare la lettura della disposizione di legge alla quale e' operato il rinvio. Restano invariati il valore e l'efficacia dell'atto legislativo qui trascritto.
-
-Nota all'art. 1:  
-- L'art. 1 del decreto ministeriale 14 aprile 1987 recita:  
-"I compensi a vacazione previsti dall'art. 39 della tariffa approvata con [legge 12 marzo 1957, n. 146](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-03-12;146), e successive modifiche fino al decreto ministeriale 15 gennaio 1981, sono variati e fissati per ogni ora o frazione di ora in ragione di L. 15.000 per il perito industriale e il 60% di L. 15.000 per l'aiuto di concetto".
+Il Ministro di grazia e giustizia Flick Il Ministro dei lavori pubblici Costa Il Ministro dell'industria del commercio e dell'artigianato Bersani Visto, il Guardasigilli: Flick Registrato alla Corte dei conti il 22 dicembre 1997 Registro n. 2 Giustizia, foglio n. 282 Avvertenza: Il testo della nota qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e' sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura della disposizione di legge alla quale e' operato il rinvio. Restano invariati il valore e l'efficacia dell'atto legislativo qui trascritto.

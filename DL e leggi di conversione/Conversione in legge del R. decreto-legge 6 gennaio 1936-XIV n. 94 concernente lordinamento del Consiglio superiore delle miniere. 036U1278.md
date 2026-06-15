@@ -1,16 +1,14 @@
-LEGGE 02 giugno 1936 n. 1278
+---
+tipo: LEGGE
+numero: 1278
+data: 1936-06-02
+titolo: "Conversione in legge del R. decreto-legge 6 gennaio 1936-XIV, n. 94, concernente l'ordinamento del Consiglio superiore delle miniere. (036U1278)"
+urn: urn:nir:stato:legge:1936-06-02;1278
+codice_redazionale: 036U1278
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 02 giugno 1936 n. 1278
-============================
-
-Conversione in legge del R. decreto-legge 6 gennaio 1936-XIV, n. 94, concernente l'ordinamento del Consiglio superiore delle miniere. (036U1278)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/07/1936
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

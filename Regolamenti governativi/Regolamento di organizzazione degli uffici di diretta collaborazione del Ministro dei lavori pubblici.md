@@ -1,60 +1,49 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 2001 n. 243
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 243
+data: 2001-03-06
+titolo: "Regolamento di organizzazione degli uffici di diretta collaborazione del Ministro dei lavori pubblici."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2001-03-06;243
+codice_redazionale: 001G0300
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 2001 n. 243
-============================================================
+(( ARTICOLO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 212 ))
 
-Regolamento di organizzazione degli uffici di diretta collaborazione del Ministro dei lavori pubblici.
-------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 12-7-2001
+(( ARTICOLO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 212 ))
 
-Art. 1
-------
+## Art. 3.
 
-(( ARTICOLO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;212) ))
+(( ARTICOLO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 212 ))
 
-Art. 2
-------
+## Art. 4.
 
-(( ARTICOLO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;212) ))
+(( ARTICOLO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 212 ))
 
-Art. 3
-------
+## Art. 5.
 
-(( ARTICOLO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;212) ))
+(( ARTICOLO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 212 ))
 
-Art. 4
-------
+## Art. 6.
 
-(( ARTICOLO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;212) ))
+(( ARTICOLO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 212 ))
 
-Art. 5
-------
+## Art. 7.
 
-(( ARTICOLO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;212) ))
+(( ARTICOLO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 212 ))
 
-Art. 6
-------
+## Art. 8.
 
-(( ARTICOLO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;212) ))
+(( ARTICOLO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 212 ))
 
-Art. 7
-------
+## Art. 9.
 
-(( ARTICOLO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;212) ))
+(( ARTICOLO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 212 ))
 
-Art. 8
-------
+## Art. 10.
 
-(( ARTICOLO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;212) ))
-
-Art. 9
-------
-
-(( ARTICOLO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;212) ))
-
-Art. 10
--------
-
-(( ARTICOLO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;212) ))
+(( ARTICOLO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 212 ))

@@ -1,66 +1,44 @@
-DECRETO-LEGGE 28 gennaio 1989 n. 24
+---
+tipo: DECRETO-LEGGE
+numero: 24
+data: 1989-01-28
+titolo: "Interventi infrastrutturali nelle aree interessate dai campionati mondiali di calcio del 1990."
+urn: urn:nir:stato:decreto.legge:1989-01-28;24
+codice_redazionale: 089G0047
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 28 gennaio 1989 n. 24
-===================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 29 MAGGIO 1989, N. 205](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20aprile%201989%20n.%20121%20recante%20interventi%20infrastrutturali%20nelle%20aree%20interessate%20dai%20campionati%20mondiali%20di%20calcio%20del%201990.md)
 
-Interventi infrastrutturali nelle aree interessate dai campionati mondiali di calcio del 1990.
-----------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 31/01/1989.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 29 MAGGIO 1989, N. 205](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20aprile%201989%20n.%20121%20recante%20interventi%20infrastrutturali%20nelle%20aree%20interessate%20dai%20campionati%20mondiali%20di%20calcio%20del%201990.md)
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 29 MAGGIO 1989, N. 205](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-29;205)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 29 MAGGIO 1989, N. 205](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20aprile%201989%20n.%20121%20recante%20interventi%20infrastrutturali%20nelle%20aree%20interessate%20dai%20campionati%20mondiali%20di%20calcio%20del%201990.md)
 
-Art. 2
-------
+## Art. 4.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 29 MAGGIO 1989, N. 205](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-29;205)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 29 MAGGIO 1989, N. 205](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20aprile%201989%20n.%20121%20recante%20interventi%20infrastrutturali%20nelle%20aree%20interessate%20dai%20campionati%20mondiali%20di%20calcio%20del%201990.md)
 
-Art. 3
-------
+## Art. 5.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 29 MAGGIO 1989, N. 205](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-29;205)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 29 MAGGIO 1989, N. 205](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20aprile%201989%20n.%20121%20recante%20interventi%20infrastrutturali%20nelle%20aree%20interessate%20dai%20campionati%20mondiali%20di%20calcio%20del%201990.md)
 
-Art. 4
-------
+## Art. 6.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 29 MAGGIO 1989, N. 205](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-29;205)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 29 MAGGIO 1989, N. 205](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20aprile%201989%20n.%20121%20recante%20interventi%20infrastrutturali%20nelle%20aree%20interessate%20dai%20campionati%20mondiali%20di%20calcio%20del%201990.md)
 
-Art. 5
-------
+## Art. 7.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 29 MAGGIO 1989, N. 205](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-29;205)
-  
-
-Art. 6
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 29 MAGGIO 1989, N. 205](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-29;205)
-  
-
-Art. 7
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 29 MAGGIO 1989, N. 205](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-29;205)
-  
-
-Allegato
-
- Allegato   
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 MAGGIO 1989, N. 205](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-29;205)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 29 MAGGIO 1989, N. 205](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20aprile%201989%20n.%20121%20recante%20interventi%20infrastrutturali%20nelle%20aree%20interessate%20dai%20campionati%20mondiali%20di%20calcio%20del%201990.md)

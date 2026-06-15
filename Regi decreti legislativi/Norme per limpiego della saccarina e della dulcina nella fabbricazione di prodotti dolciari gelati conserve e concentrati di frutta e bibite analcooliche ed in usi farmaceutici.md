@@ -1,33 +1,29 @@
-REGIO DECRETO LEGISLATIVO 14 maggio 1946 n. 356
+---
+tipo: REGIO DECRETO LEGISLATIVO
+numero: 356
+data: 1946-05-14
+titolo: "Norme per l'impiego della saccarina e della dulcina nella fabbricazione di prodotti dolciari, gelati, conserve e concentrati di frutta e bibite analcooliche ed in usi farmaceutici."
+urn: urn:nir:stato:regio.decreto.legislativo:1946-05-14;356
+codice_redazionale: 046U0356
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO LEGISLATIVO 14 maggio 1946 n. 356
-===============================================
+((PROVVEDIMENTO ABROGATO DALLA L. 21 NOVEMBRE 1949, N. 858))
 
-Norme per l'impiego della saccarina e della dulcina nella fabbricazione di prodotti dolciari, gelati, conserve e concentrati di frutta e bibite analcooliche ed in usi farmaceutici.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 21 NOVEMBRE 1949, N. 858))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 21 NOVEMBRE 1949, N. 858](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-11-21;858)))
+## Art. 3.
 
-Art. 2
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 21 NOVEMBRE 1949, N. 858))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 21 NOVEMBRE 1949, N. 858](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-11-21;858)))
+## Art. 4.
 
-Art. 3
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 21 NOVEMBRE 1949, N. 858))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 21 NOVEMBRE 1949, N. 858](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-11-21;858)))
+## Art. 5.
 
-Art. 4
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 21 NOVEMBRE 1949, N. 858](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-11-21;858)))
-
-Art. 5
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 21 NOVEMBRE 1949, N. 858](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-11-21;858)))
+((PROVVEDIMENTO ABROGATO DALLA L. 21 NOVEMBRE 1949, N. 858))

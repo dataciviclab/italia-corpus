@@ -1,188 +1,36 @@
-LEGGE 08 maggio 2026 n. 71
-
-
-LEGGE 08 maggio 2026 n. 71
-==========================
-
-Conversione in legge, con modificazioni, del decreto-legge 11 marzo 2026, n. 32, recante disposizioni urgenti in materia di commissari straordinari e concessioni. (26G00092)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/05/2026
+---
+tipo: LEGGE
+numero: 71
+data: 2026-05-08
+titolo: "Conversione in legge, con modificazioni, del decreto-legge 11 marzo 2026, n. 32, recante disposizioni urgenti in materia di commissari straordinari e concessioni. (26G00092)"
+urn: urn:nir:stato:legge:2026-05-08;71
+codice_redazionale: 26G00092
+vigente: true
+---
 
 La Camera dei deputati ed il Senato della Repubblica hanno approvato;
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Promulga
---------
+Promulga la seguente legge:
 
-la seguente legge:
+## Art. 1.
 
-Art. 1
-------
+1.
 
-1. Il [decreto-legge 11 marzo 2026, n. 32](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-03-11;32), recante disposizioni urgenti in materia di commissari straordinari e concessioni, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
+Il [decreto-legge 11 marzo 2026, n. 32](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-03-11;32), recante disposizioni urgenti in materia di commissari straordinari e concessioni, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
 
-2. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
+2.
+
+La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
+
+Avvertenza: 
+ Il [decreto-legge 11 marzo 2026, n. 32](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-03-11;32), e' stato pubblicato nella Gazzetta Ufficiale - Serie generale - n. 58 dell'11 marzo 2026. 
+ A norma dell'[art. 15, comma 5, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_15-com5) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri), le modifiche apportate dalla presente legge di conversione hanno efficacia dal giorno successivo a quello della sua pubblicazione. 
+ Il testo del decreto-legge coordinato con la legge di conversione e' pubblicato in questa stessa Gazzetta Ufficiale alla pag. 89.
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data a Roma, addi' 8 maggio 2026
+Data a Roma, addi' 8 maggio 2026
 
-MATTARELLA
-
-Meloni, Presidente del Consiglio dei ministri
-
-Salvini, Ministro delle infrastrutture e dei trasporti
-
-Visto, il Guardasigilli: Nordio
-
-Avvertenza:   
-Il [decreto-legge 11 marzo 2026, n. 32](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-03-11;32), e' stato pubblicato nella Gazzetta Ufficiale - Serie generale - n. 58 dell'11 marzo 2026.   
-A norma dell'[art. 15, comma 5, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art15-com5) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri), le modifiche apportate dalla presente legge di conversione hanno efficacia dal giorno successivo a quello della sua pubblicazione.   
-Il testo del decreto-legge coordinato con la legge di conversione e' pubblicato in questa stessa Gazzetta Ufficiale alla pag. 89.
-
-Allegato
-
- Allegato   
-  
-MODIFICAZIONI APPORTATE IN SEDE DI CONVERSIONE AL DECRETO-LEGGE 11 MARZO 2026, N. 32   
-  
-All'articolo 1:   
-al comma 1, lettera e), le parole: «delibera CIPESS» sono sostituite dalle seguenti: «delibera del CIPESS» e le parole: «, approvazione e parere» sono sostituite dalle seguenti: «e approvazione e ogni altro parere»;   
-al comma 3, le parole: «legge 14 dicembre» sono sostituite dalle seguenti: «legge 14 gennaio»;   
-al comma 5, le parole: «di Rete» sono sostituite dalle seguenti: «della societa' Rete»;   
-al comma 6, le parole: «degli interventi» sono sostituite dalle seguenti: «delle opere realizzate con gli interventi», le parole: «di RFI», ovunque ricorrono, sono sostituite dalle seguenti: «della societa' RFI» e la parola: «sub-commissari» e' sostituita dalla seguente: «subcommissari»;   
-al comma 10, dopo le parole: «n. 89» sono inserite le seguenti: «, convertito, con modificazioni, dalla [legge 8 agosto 2024, n. 120](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-08-08;120),»;   
-dopo il comma 10 e' inserito il seguente:   
-«10-bis. Al fine di procedere celermente al completamento delle opere di infrastrutturazione viaria gia' avviate sulla direttrice di collegamento tra il Mar Ionio e il Mar Adriatico in provincia di Brindisi, e' autorizzata la spesa di 0,6 milioni di euro per l'anno 2026 per l'avvio delle attivita' progettuali relative alla realizzazione della circumvallazione di San Vito dei Normanni. Ai relativi oneri, pari a 0,6 milioni di euro per l'anno 2026, si provvede mediante corrispondente riduzione dello stanziamento del fondo speciale di conto capitale iscritto, ai fini del bilancio triennale 2026-2028, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2026, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero delle infrastrutture e dei trasporti»;   
-al comma 11, le parole: «DPCM 11 giugno» sono sostituite dalle seguenti: «il decreto del Presidente del Consiglio dei ministri dell'11 giugno» e dopo le parole: «infrastrutture e» e' inserita la seguente: «dei»;   
-al comma 12, le parole: «DPCM 23 dicembre 2020» sono sostituite dalle seguenti: «il [decreto del Presidente del Consiglio dei ministri 23 dicembre 2020, pubblicato nella Gazzetta Ufficiale n. 41 del 18 febbraio 2021](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2021-02-18&numeroGazzetta=41)» e dopo le parole: «infrastrutture e» e' inserita la seguente: «dei»;   
-al comma 15, le parole: «euro nel», ovunque ricorrono, sono sostituite dalle seguenti: «euro per l'anno»;   
-al comma 17:   
-all'alinea, dopo le parole: «dai commi da 8 a 16» sono inserite le seguenti: «, ad esclusione del comma 10-bis»;   
-alla lettera b), sono aggiunte, in fine, le seguenti parole: «, convertito, con modificazioni, dalla [legge 8 agosto 2024, n. 120](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-08-08;120)»;   
-alla lettera d), le parole: «DPCM 11 giugno» sono sostituite dalle seguenti: «il decreto del Presidente del Consiglio dei ministri dell'11 giugno» e dopo le parole: «infrastrutture e» e' inserita la seguente: «dei»;   
-alla lettera e), la parola: «DPCM» e' sostituita dalle seguenti: «il citato decreto del Presidente del Consiglio dei ministri» e dopo le parole: «infrastrutture e» e' inserita la seguente: «dei»;   
-alla lettera h), le parole: «l'anno 2032,» sono sostituite dalle seguenti: «l'anno 2032 e»;   
-dopo il comma 17 sono aggiunti i seguenti:   
-«17-bis. Al fine di consentire la prosecuzione di programmi di titolarita' del Ministero delle infrastrutture e dei trasporti, anche in relazione ad impegni gia' assunti:   
-a) l'autorizzazione di spesa di cui all'[articolo 1, comma 302, della legge 30 dicembre 2023, n. 213](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-12-30;213~art1-com302), relativamente alla parte in conto capitale di competenza del Ministero delle infrastrutture e dei trasporti, e' incrementata di euro 8.700.000 per l'anno 2026, di euro 8.000.000 per l'anno 2027 e di euro 3.500.000 per l'anno 2028;   
-b) e' autorizzata la spesa di euro 2.291.597 per ciascuno degli anni 2026 e 2027 e di euro 2.000.000 per l'anno 2028, per la realizzazione di interventi sugli immobili che interessano il patrimonio storico-artistico delle regioni o di altri soggetti pubblici;   
-c) l'autorizzazione di spesa di cui all'[articolo 1, comma 241, della legge 23 dicembre 2014, n. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190~art1-com241), e' incrementata di euro 8.167.750 per l'anno 2026 e di euro 13.444.986 per ciascuno degli anni 2027 e 2028;   
-d) l'autorizzazione di spesa di cui all'[articolo 1, comma 95, della legge 30 dicembre 2018, n. 145](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145~art1-com95), relativamente alla quota di competenza del Ministero delle infrastrutture e dei trasporti destinata a interventi di conservazione, manutenzione, restauro e valorizzazione dei beni culturali, e' incrementata di euro 4.310.380 per l'anno 2026, di euro 7.614.218 per l'anno 2027 e di euro 7.929.996 per l'anno 2028;   
-e) l'autorizzazione di spesa di cui all'[articolo 32, comma 1, del decreto-legge 6 luglio 2011, n. 98](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-07-06;98~art32-com1), convertito, con modificazioni, dalla [legge 15 luglio 2011, n. 111](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-07-15;111), relativamente alla quota di competenza del Ministero delle infrastrutture e dei trasporti destinata alla realizzazione di piccole e medie opere nel Mezzogiorno, e' incrementata di euro 3.823.410 per l'anno 2026;   
-f) la dotazione finanziaria del programma degli interventi a titolarita' del Ministero delle infrastrutture e dei trasporti di cui all'allegato 2 al [decreto del Ministro delle infrastrutture e dei trasporti n. 330 del 12 dicembre 2025](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.infrastrutture.trasporti:decreto:2025-12-12;330) e' incrementata di euro 1.330.000 per l'anno 2026;   
-g) l'autorizzazione di spesa di cui all'[articolo 1, comma 95, della legge 30 dicembre 2018, n. 145](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145~art1-com95), relativamente alla quota di competenza del Ministero delle infrastrutture e dei trasporti destinata a interventi urgenti in materia di dissesto idrogeologico, e' incrementata di euro 14.382.598 per l'anno 2026, di euro 1.306.182 per l'anno 2027 e di euro 12.154.212 per l'anno 2028;   
-h) la dotazione del Fondo di cui all'[articolo 19, comma 1, del decreto-legge 10 agosto 2023, n. 104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-08-10;104~art19-com1), convertito, con modificazioni, dalla [legge 9 ottobre 2023, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-10-09;136), e' incrementata di euro 40.000.000 per l'anno 2026, al fine di consentire lo scorrimento della graduatoria delle istanze relative all'annualita' 2025; conseguentemente il termine di conclusione dei lavori finanziati ai sensi della presente lettera e' fissato al 31 dicembre 2026;   
-i) l'autorizzazione di spesa di cui all'[articolo 1, comma 394, della legge 30 dicembre 2021, n. 234](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-30;234~art1-com394), e' incrementata di euro 46.805.735 per l'anno 2029, di euro 37.851.248 per l'anno 2030 e di euro 21.529.194 per l'anno 2031.   
-17-ter. Agli oneri derivanti dal comma 17-bis, pari complessivamente a euro 83.005.735 per l'anno 2026, a euro 32.656.983 per l'anno 2027, a euro 39.029.194 per l'anno 2028, a euro 46.805.735 per l'anno 2029, a euro 37.851.248 per l'anno 2030 e a euro 21.529.194 per l'anno 2031, si provvede:   
-a) quanto a euro 80.000.000 per l'anno 2026, a euro 10.656.983 per l'anno 2027 e a euro 15.529.194 per l'anno 2028, mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'[articolo 1, comma 394, della legge 30 dicembre 2021, n. 234](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-30;234~art1-com394);   
-b) quanto a euro 1.805.735 per l'anno 2026, mediante utilizzo delle risorse del Fondo di conto capitale di cui all'[articolo 34-ter, comma 5, della legge 31 dicembre 2009, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196~art34ter-com5), iscritto nello stato di previsione del Ministero delle infrastrutture e dei trasporti;   
-c) quanto a euro 14.000.000 per l'anno 2027, a euro 20.000.000 per l'anno 2028, a euro 12.000.000 per l'anno 2029 e a euro 27.194.265 per l'anno 2030, mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'[articolo 1, comma 392, della legge 30 dicembre 2021, n. 234](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-30;234~art1-com392);   
-d) quanto a euro 7.500.000 per l'anno 2029, mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'[articolo 1, comma 302, della legge 30 dicembre 2023, n. 213](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-12-30;213~art1-com302);   
-e) quanto a euro 291.597 per ciascuno degli anni 2029 e 2030, mediante utilizzo delle risorse iscritte nello stato di previsione del Ministero delle infrastrutture e dei trasporti, derivanti dal riparto del Fondo di conto capitale di cui all'[articolo 34-ter, comma 5, della legge 31 dicembre 2009, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196~art34ter-com5), e destinate alle spese per gli immobili che interessano il patrimonio storico-artistico delle regioni o di altri soggetti pubblici;   
-f) quanto a euro 7.167.750 per l'anno 2029 e a euro 7.444.986 per ciascuno degli anni 2030 e 2031, mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'[articolo 1, comma 241, della legge 23 dicembre 2014, n. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190~art1-com241);   
-g) quanto a euro 1.310.380 per l'anno 2029, a euro 1.614.218 per l'anno 2030 e a euro 1.929.996 per l'anno 2031, mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'[articolo 1, comma 95, della legge 30 dicembre 2018, n. 145](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145~art1-com95), relativamente alla quota di competenza del Ministero delle infrastrutture e dei trasporti destinata a interventi di conservazione, manutenzione, restauro e valorizzazione dei beni culturali;   
-h) quanto a euro 2.823.410 per l'anno 2029, mediante utilizzo delle risorse iscritte nello stato di previsione del Ministero delle infrastrutture e dei trasporti, derivanti dal riparto del Fondo di conto capitale di cui all'[articolo 34-ter, comma 5, della legge 31 dicembre 2009, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196~art34ter-com5), e destinate alle spese per il programma straordinario di interventi per le piccole e medie opere nel Mezzogiorno;   
-i) quanto a euro 1.330.000 per l'anno 2029, mediante utilizzo delle risorse, iscritte nello stato di previsione del Ministero delle infrastrutture e dei trasporti, derivanti dal riparto del Fondo di conto capitale di cui all'[articolo 34-ter, comma 5, della legge 31 dicembre 2009, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196~art34ter-com5), e finalizzate alla costruzione, sistemazione, manutenzione e completamento di edifici pubblici statali;   
-l) quanto a euro 14.382.598 per l'anno 2029, a euro 1.306.182 per l'anno 2030 e a euro 12.154.212 per l'anno 2031, mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'[articolo 1, comma 95, della legge 30 dicembre 2018, n. 145](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145~art1-com95), relativamente alla quota di competenza del Ministero delle infrastrutture e dei trasporti destinata a interventi urgenti in materia di dissesto idrogeologico;   
-m) quanto a euro 1.200.000 per l'anno 2026, a euro 8.000.000 per l'anno 2027 e a euro 3.500.000 per l'anno 2028, mediante corrispondente riduzione dello stanziamento del fondo speciale di conto capitale iscritto, ai fini del bilancio triennale 2026-2028, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2026, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero delle infrastrutture e dei trasporti»;   
-alla rubrica sono aggiunte, in fine, le seguenti parole: «nonche' alla prosecuzione di programmi di titolarita' del Ministero delle infrastrutture e dei trasporti».   
-All'articolo 2:   
-al comma 1, al secondo periodo, dopo la parola: «adotta» e' inserito il seguente segno di interpunzione: «,» e le parole: «dell'articolo 4-ter» sono sostituite dalle seguenti: «del medesimo articolo 4-ter» e, al terzo periodo, le parole: «efficacia del decreto» sono sostituite dalle seguenti: «efficacia del decreto del Presidente del Consiglio dei ministri» e le parole: «all'articolo 4-ter» sono sostituite dalle seguenti: «al citato articolo 4-ter»;   
-al comma 5, dopo le parole: «al comma 1» il segno di interpunzione «,» e' soppresso;   
-al comma 6, le parole: «delle gallerie» sono sostituite dalle seguenti: «per le gallerie».   
-Dopo l'articolo 2 e' inserito il seguente:   
-«Art. 2-bis (Disposizioni urgenti per l'affidamento della concessione dell'A22 Brennero-Modena). - 1. Al fine di garantire i principi di concorrenza, pubblicita' e trasparenza nello svolgimento della procedura di affidamento in fasi successive di cui all'[articolo 2, comma 1-bis, del decreto-legge 10 settembre 2021, n. 121](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-09-10;121~art2-com1bis), convertito, con modificazioni, dalla [legge 9 novembre 2021, n. 156](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-11-09;156), l'invito a presentare l'offerta finale e' corredato, unitamente al progetto di fattibilita' tecnico-economica posto a base di gara, dello schema di convenzione predisposto dall'ente concedente ed e' sottoposto, previo parere dell'Autorita' di regolazione dei trasporti, al Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile, sentito il Nucleo di consulenza per l'attuazione delle linee guida per la regolazione dei servizi di pubblica utilita' (NARS), per la relativa approvazione».   
-All'articolo 4:   
-al comma 1, al primo periodo, dopo le parole: «medesima societa' ANAS S.p.A.» il segno di interpunzione «,» e' soppresso, al secondo periodo, le parole: «di ANAS» sono sostituite dalle seguenti: «della societa' ANAS», al quarto periodo, la parola: «sub-commissari» e' sostituita dalla seguente: «subcommissari» e, al quinto periodo, le parole: «di ANAS» sono sostituite dalle seguenti: «della societa' ANAS»;   
-dopo il comma 2 sono aggiunti i seguenti:   
-«2-bis. A decorrere dalla data di entrata in vigore della legge di conversione del presente decreto, l'amministratore delegato della societa' ANAS S.p.A. e' altresi' nominato Commissario straordinario, con i poteri di cui all'articolo 4, commi 2, 2-bis e 3, del decreto-legge 18 aprile 2019, convertito, con modificazioni, dalla [legge 14 giugno 2019, n. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-06-14;55), per lo svolgimento delle attivita' di progettazione, affidamento, coordinamento ed esecuzione degli interventi sulla rete stradale di interesse nazionale gestita dalla medesima societa' ANAS S.p.A. indicati nell'allegato 2-bis, che costituisce parte integrante del presente decreto. L'incarico commissariale cessa alla data di effettiva entrata in esercizio delle opere realizzate con gli interventi. Il Commissario straordinario di cui al primo periodo, per lo svolgimento delle attivita' commissariali, e' autorizzato a nominare, in qualita' di subcommissari, i responsabili pro tempore delle strutture territoriali della societa' ANAS S.p.A. competenti per l'area geografica in cui ricadono le opere commissariate, ai quali puo' delegare attivita' e funzioni proprie. Il Commissario straordinario puo' avvalersi delle strutture della medesima societa', delle amministrazioni centrali e periferiche dello Stato e degli altri enti territoriali, senza nuovi o maggiori oneri a carico della finanza pubblica. Al Commissario e ai subcommissari nominati ai sensi del presente comma non spettano compensi, gettoni di presenza o altri emolumenti comunque denominati e i medesimi svolgono le relative funzioni senza nuovi o maggiori oneri a carico della finanza pubblica. Gli eventuali rimborsi di spese sono posti a carico del bilancio della societa' ANAS S.p.A. Le amministrazioni interessate provvedono agli adempimenti previsti con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente e, comunque, senza nuovi o maggiori oneri a carico della finanza pubblica.   
-2-ter. All'[articolo 1-sexies, comma 1, del decreto-legge 21 maggio 2025, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-05-21;73~art1sexies-com1), convertito, con modificazioni, dalla [legge 18 luglio 2025, n. 105](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-07-18;105), dopo le parole: "situato tra Paderno d'Adda e Calusco d'Adda" sono inserite le seguenti: ", mediante la realizzazione del nuovo ponte".   
-2-quater. Al fine di assicurare il completamento dei lavori relativi al collegamento dell'ultimo miglio tra l'area portuale di Genova e l'area di Campasso, e' autorizzata la spesa di 300.000 euro per l'anno 2027, di 5 milioni di euro per l'anno 2028 e di 7,7 milioni di euro per l'anno 2029 in favore dell'Autorita' di sistema portuale del Mare Ligure occidentale. Agli oneri derivanti dal presente comma si provvede:   
-a) quanto a 300.000 euro per l'anno 2027, mediante corrispondente riduzione delle proiezioni dello stanziamento del fondo speciale di conto capitale iscritto, ai fini del bilancio triennale 2026-2028, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2026, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero delle infrastrutture e dei trasporti;   
-b) quanto a 5 milioni di euro per l'anno 2028 e a 7,7 milioni di euro per l'anno 2029, mediante corrispondente riduzione del Fondo per la strategia di mobilita' sostenibile, di cui all'[articolo 1, comma 392, della legge 30 dicembre 2021, n. 234](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-30;234~art1-com392).   
-2-quinquies. Per l'avvio delle attivita' progettuali e di realizzazione degli interventi per il ripristino della linea ferroviaria Priverno-Terracina e' autorizzata la spesa di 9 milioni di euro per l'anno 2027 e di 51 milioni di euro per l'anno 2028. Agli oneri derivanti dal presente comma si provvede mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'[articolo 1, comma 394, della legge 30 dicembre 2021, n. 234](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-30;234~art1-com394).   
-2-sexies. Al fine di procedere celermente al completamento degli interventi per il ripristino funzionale, l'ammodernamento e la messa in sicurezza della S.P. 2, gia' ex SS 112 Innesto SS 18 (Bagnara) - Innesto SS 106 (Bovalino M.na), la societa' ANAS S.p.A., previa stipula di apposita convenzione con la regione Calabria e la citta' metropolitana di Reggio Calabria, e' autorizzata all'avvio delle attivita' progettuali e di realizzazione degli interventi di manutenzione straordinaria e recupero dei manufatti finalizzati alla riapertura al transito della tratta tra Plati' e Santa Cristina d'Aspromonte. Per l'attuazione delle disposizioni di cui al primo periodo e' autorizzata, in favore della societa' ANAS S.p.A., la spesa complessiva di 12 milioni di euro, di cui 0,5 milioni di euro per l'anno 2026 e 11,5 milioni di euro per l'anno 2027, cui si provvede:   
-a) quanto a 0,5 milioni di euro per l'anno 2026, mediante corrispondente riduzione dello stanziamento del fondo speciale di conto capitale iscritto, ai fini del bilancio triennale 2026-2028, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2026, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero delle infrastrutture e dei trasporti;   
-b) quanto a 11,5 milioni di euro per l'anno 2027, mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'[articolo 1, comma 394, della legge 30 dicembre 2021, n. 234](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-30;234~art1-com394).   
-2-septies. Al fine di realizzare i lavori per la soppressione dei passaggi a livello nonche' per le opere connesse sulla linea Alessandria-Piacenza in comune di Castel San Giovanni e in comune di Sarmato, sulla linea Bologna-Padova in comune di Monselice e sulla linea Codogno-Mantova in comune di Curtatone, e' autorizzata la spesa di 31 milioni di euro per l'anno 2027 e di 39 milioni di euro per l'anno 2028. Agli oneri derivanti dal presente comma si provvede mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'[articolo 1, comma 394, della legge 30 dicembre 2021, n. 234](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-30;234~art1-com394).   
-2-octies. Per la redazione del documento di fattibilita' delle alternative progettuali e per lo sviluppo del progetto di fattibilita' tecnico-economica del prolungamento verso Gaeta della variante alla strada statale 7 "Appia" in comune di Formia (Pedemontana) e' autorizzata la spesa di 9 milioni di euro per l'anno 2027 e di 3 milioni di euro per l'anno 2028. Agli oneri derivanti dal presente comma si provvede mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'[articolo 1, comma 394, della legge 30 dicembre 2021, n. 234](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-30;234~art1-com394).   
-2-novies. Al fine di procedere celermente all'avvio delle attivita' progettuali e alla realizzazione degli interventi per la ricostruzione del Pontile di Marina di Massa, il sindaco pro tempore del comune di Massa e' nominato Commissario straordinario, con i poteri e le funzioni di cui all'[articolo 4, commi 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2019-04-18;32~art4-com2) e [3, del decreto-legge 18 aprile 2019, n. 32](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2019-04-18;32~art4-com3), convertito, con modificazioni, dalla [legge 14 giugno 2019, n. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-06-14;55), e resta in carica fino al completamento degli interventi. Al Commissario straordinario di cui al presente comma non spettano compensi, gettoni di presenza, indennita', rimborsi di spese o altri emolumenti comunque denominati e lo stesso puo' avvalersi, senza nuovi o maggiori oneri per la finanza pubblica, delle amministrazioni territoriali competenti. Per le finalita' di cui al primo periodo e' autorizzata la spesa complessiva di 8,57 milioni di euro, di cui 1,05 milioni di euro per l'anno 2026 e 7,52 milioni di euro per l'anno 2027. Agli oneri derivanti dal presente comma si provvede:   
-a) quanto a 1,05 milioni di euro per l'anno 2026 e a 2 milioni di euro per l'anno 2027, mediante corrispondente riduzione dello stanziamento del fondo speciale di conto capitale iscritto, ai fini del bilancio triennale 2026-2028, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2026, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero delle infrastrutture e dei trasporti;   
-b) quanto a 5,52 milioni di euro per l'anno 2027, mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'[articolo 1, comma 394, della legge 30 dicembre 2021, n. 234](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-30;234~art1-com394).   
-2-decies. Per l'avvio delle attivita' progettuali e per la realizzazione degli interventi per la ricostruzione del Ponte sul fiume Trigno e' autorizzata la spesa di 10,5 milioni di euro per l'anno 2027 e di 10 milioni di euro per l'anno 2028. Agli oneri derivanti dal presente comma si provvede mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'[articolo 1, comma 394, della legge 30 dicembre 2021, n. 234](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-30;234~art1-com394).   
-2-undecies. Al fine di assicurare il completamento dei lavori per la messa in sicurezza e la riapertura del viadotto Sente Longo, e' autorizzata la spesa di 7 milioni di euro per l'anno 2027. Agli oneri derivanti dal presente comma si provvede mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'[articolo 1, comma 394, della legge 30 dicembre 2021, n. 234](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-30;234~art1-com394)».   
-All'articolo 5:   
-al comma 1, al primo periodo, le parole: «di Rete Ferroviaria» sono sostituite dalle seguenti: «della societa' Rete Ferroviaria» e dopo le parole: «medesima societa' RFI S.p.A.» il segno di interpunzione «,» e' soppresso, al quarto periodo, la parola: «sub-commissari» e' sostituita dalla seguente: «subcommissari» e, al quinto periodo, le parole: «di RFI» sono sostituite dalle seguenti: «della societa' RFI»;   
-al comma 3, al primo periodo, dopo le parole: «medesima societa' RFI S.p.A.» il segno di interpunzione «,» e' soppresso, al secondo periodo, le parole: «degli interventi» sono sostituite dalle seguenti: «delle opere realizzate con gli interventi», al quinto periodo, la parola: «sub-commissari» e' sostituita dalla seguente: «subcommissari» e dopo le parole: «gettoni di presenza» il segno di interpunzione «,» e' soppresso e, al sesto periodo, le parole: «di RFI» sono sostituite dalle seguenti: «della societa' RFI».   
-Dopo l'articolo 6 e' inserito il seguente:   
-«Art. 6-bis (Disposizioni in materia di investimenti nel settore sanitario finanziati dal Piano nazionale di ripresa e resilienza). - 1. Al [decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502), sono apportate le seguenti modificazioni:   
-a) all'articolo 8-ter, dopo il comma 5 e' aggiunto il seguente:   
-"5-bis. Al fine di garantire il rispetto dei termini previsti dagli obiettivi del Piano nazionale di ripresa e resilienza (PNRR) per la missione 6, componente 1, investimento 1.1 'Case della Comunita' e presa in carico della persona' e investimento 1.3 'Rafforzamento dell'assistenza sanitaria intermedia e delle sue strutture (Ospedali di Comunita')' nonche' per la missione 6, componente 2, subinvestimento 1.1.1 'Digitalizzazione-rafforzamento strutturale SSN (Progetti in essere [ex art. 2 DL 34/2020](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020;34~art2))', l'autorizzazione all'esercizio di cui al comma 1 del presente articolo relativa a nuove strutture, all'adattamento di strutture gia' esistenti e alla loro diversa utilizzazione nonche' all'ampliamento o alla trasformazione delle stesse si intende rilasciata contestualmente alla presentazione dell'istanza di autorizzazione da parte dell'azienda sanitaria interessata, fermo restando il rispetto delle disposizioni e dei criteri richiesti per la rendicontazione ai fini del PNRR. Entro dodici mesi dalla presentazione dell'istanza, le amministrazioni competenti provvedono, secondo quanto previsto dalla rispettiva normativa regionale, alla verifica della sussistenza dei requisiti minimi autorizzativi dichiarati nell'istanza ovvero della loro permanenza ai fini dell'adozione del provvedimento espresso";   
-b) all'articolo 8-quater, dopo il comma 1 e' inserito il seguente:   
-"1-bis. Per le medesime finalita' di cui all'articolo 8-ter, comma 5-bis, limitatamente agli interventi del PNRR ivi indicati, l'accreditamento si intende rilasciato contestualmente all'autorizzazione all'esercizio. Entro dodici mesi dalla presentazione dell'istanza di cui all'articolo 8-ter, comma 5-bis, le amministrazioni competenti provvedono, secondo quanto previsto dalla rispettiva normativa regionale, alla verifica della sussistenza dei requisiti ulteriori di qualificazione dichiarati ovvero della loro permanenza, ai fini dell'adozione del provvedimento espresso"».   
-All'articolo 7:   
-al comma 3, le parole: «citato [decreto-legge n. 96 del 2025](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025;96)» sono sostituite dalle seguenti: «[decreto-legge 30 giugno 2025, n. 96](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-06-30;96), convertito, con modificazioni, dalla [legge 8 agosto 2025, n. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-08-08;119),»; al comma 5, lettera d), le parole: «di Sport» sono sostituite dalle seguenti: «della societa' Sport»;   
-al comma 6, le parole: «quanto a 500.000 euro» sono sostituite dalle seguenti: «, quanto a 500.000 euro,» e le parole: «quanto a euro 50.000.000» sono sostituite dalle seguenti: «, quanto a euro 50.000.000,».   
-All'articolo 8:   
-alla rubrica sono aggiunte, in fine, le seguenti parole: «, lacuali e fluviali».   
-Dopo l'articolo 8 e' inserito il seguente:   
-«Art. 8-bis (Disposizioni urgenti per la messa in sicurezza dei ponti). - 1. All'[articolo 7, comma 4-duodecies, del decreto-legge 27 dicembre 2024, n. 202](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2024-12-27;202~art7-com4duodecies), convertito, con modificazioni, dalla [legge 21 febbraio 2025, n. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-02-21;15), le parole: "30 giugno 2026" sono sostituite dalle seguenti: "30 settembre 2026"».   
-All'articolo 9:   
-al comma 2, dopo la parola: «Commissario» sono inserite le seguenti: «straordinario di cui al comma 1»;   
-al comma 3, dopo la parola: «straordinario» sono inserite le seguenti: «di cui al comma 1»;   
-al comma 5, dopo le parole: «all'esercizio» il segno di interpunzione «,» e' soppresso, le parole: «adempimenti di cui» sono sostituite dalle seguenti: «adempimenti previsti dal regolamento di cui» e le parole: «n. 151 e al» sono sostituite dalle seguenti: «n. 151, e dal»;   
-dopo il comma 5 sono aggiunti i seguenti:   
-«5-bis. Al fine di fronteggiare l'eccezionale incremento dei prezzi del bitume e dei materiali energetici, fino al 31 dicembre 2026, in relazione a interventi di manutenzione, costruzione e riqualificazione di infrastrutture stradali, le stazioni appaltanti adottano misure volte ad assicurare, per il medesimo scopo, l'utilizzo integrale del materiale derivante dalla rimozione delle pavimentazioni stradali in conglomerato bituminoso, ivi incluso il fresato d'asfalto, nel medesimo cantiere ovvero nell'ambito di altri cantieri, interventi stradali o infrastrutturali di competenza del medesimo soggetto attuatore, anche non direttamente connessi al luogo di produzione del materiale stesso. Il materiale di cui al primo periodo puo' essere trasportato, in qualita' di materiale tolto d'opera senza ulteriori trasformazioni, ai sensi dell'[articolo 230 del decreto legislativo 3 aprile 2006, n. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152~art230), oppure essere reimpiegato, senza ulteriore trattamento diverso dalla normale pratica industriale, nel medesimo cantiere ovvero nell'ambito di altri cantieri, interventi stradali o infrastrutturali di competenza del medesimo soggetto attuatore, anche non direttamente connessi al luogo di produzione del materiale stesso. Il reimpiego ai sensi del secondo periodo e' subordinato alla preventiva verifica, da parte del produttore, delle caratteristiche del materiale e della conformita' ambientale dello stesso rispetto al processo di destinazione e all'impiego previsto.   
-5-ter. Al [decreto-legge 28 settembre 2018, n. 109](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-09-28;109), convertito, con modificazioni, dalla [legge 16 novembre 2018, n. 130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-11-16;130), sono apportate le seguenti modificazioni:   
-a) all'articolo 1, comma 1, le parole: "31 agosto 2026" sono sostituite dalle seguenti: "31 agosto 2027";   
-b) all'articolo 9-bis, comma 1-ter, primo periodo, le parole: "31 agosto 2026" sono sostituite dalle seguenti: "31 agosto 2027".   
-5-quater. Agli oneri derivanti dal comma 5-ter, pari a 500.000 euro per l'anno 2026 e a 1 milione di euro per l'anno 2027, si provvede mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2026-2028, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2026, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero delle infrastrutture e dei trasporti.   
-5-quinquies. Al fine di garantire il completamento dei lavori di fase A della Diga foranea di Genova, e' autorizzata l'ulteriore spesa di 63 milioni di euro per l'anno 2027 e di 100 milioni di euro per l'anno 2028 per l'esecuzione delle opere necessarie al consolidamento dei fondali e delle attivita' previste dalla variante di progetto. Agli oneri derivanti dal presente comma si provvede mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'[articolo 1, comma 394, della legge 30 dicembre 2021, n. 234](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-30;234~art1-com394)».   
-Dopo l'articolo 9 e' inserito il seguente:   
-«Art. 9-bis (Misure urgenti in materia di semplificazione degli oneri per infrastrutture energetiche di interesse strategico nazionale). - 1. Con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro dell'ambiente e della sicurezza energetica, sono individuati gli interventi di sviluppo, potenziamento o modifica di gasdotti di importazione di gas dall'estero esistenti, che costituiscono interesse strategico nazionale, necessari per la sicurezza degli approvvigionamenti energetici del Paese e del continente europeo. In relazione agli interventi di sviluppo, potenziamento o modifica di cui al primo periodo, per i gasdotti che hanno dato luogo a misure di compensazione comunque denominate, e' assolto ogni eventuale ulteriore obbligo in materia di compensazioni, qualora le autorita' competenti allo svolgimento delle procedure di valutazione dell'impatto ambientale di cui al titolo III della parte seconda del [decreto legislativo 3 aprile 2006, n. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152), accertino che i medesimi interventi non comportano incrementi dell'impatto ambientale».   
-Dopo l'allegato 2 e' inserito il seguente:   
-  
-«Allegato 2-bis   
-(Articolo 4, comma 2-bis)   
-  
-Elenco delle opere per cui e' disposta la nomina dell'Amministratore delegato della societa' ANAS S.p.A. quale commissario straordinario.   
-  
-
-|  |  |  |
-| --- | --- | --- |
-| Regione | Progetto | CUP |
-| Piemonte | Realizzazione del nuovo Ponte dell'Olla sul Fiume Stura lungo la S.S. 21 | F84E26000020001 |
-| Puglia | S.S.16 - Tronco Bari - Mola di Bari Lavori di realizzazione di una variante alla S.S. 16 "Adriatica" nel tratto compreso tra Bari e Mola | F71B16000550001 |
-| Puglia | Interventi di adeguamento funzionale e messa in sicurezza della strada statale 100 | - F34E19000010001, relativamente all'intervento denominato "Completamento funzionale e messa in sicurezza della S.S. 100, tra i Km 44+500 e 52+600 (San Basilio) con sezione di tipo B"; - F41B24000120001, relativamente all'intervento "Completamento funzionale e messa in sicurezza con sez. tipo B dal km 52+200 fino al km 66+600 (conclusivo della S.S. 100) con immissione sulla nuova arteria S.S. 106 DIR/S.S. 7 in territorio di Palagiano". |
-| Lazio | Variante alla strada statale 7 "Appia" in comune di Formia (Pedemontana) | F81B16000870001 |
-| Basilicata | Variante alla strada statale 18, con realizzazione di una galleria di accesso, in comune di Maratea | F27H23003600001 |
-| Molise-Abruzzo | Interventi di ripristino del Ponte sul fiume Trigno | F17H26000830001 |
-| Molise | Interventi per la messa in sicurezza e la riapertura del Viadotto Sente Longo | F17H26000850001 |
-
-  
-  
-».   
-L'allegato 4 e' sostituito dal seguente:   
-  
-«Allegato 4   
-(articolo 5, comma 3)   
-  
-Elenco delle opere per cui e' disposta la nomina dell'Amministratore delegato della societa' RFI S.p.A. quale commissario straordinario.   
-  
-
-|  |  |  |
-| --- | --- | --- |
-| Regione | Progetto | CUP |
-| Veneto | Collegamento ferroviario con l'aeroporto "Catullo" e con la sponda orientale del lago di Garda | da assegnare |
-| Friuli Venezia Giulia | Nodo di Udine | J54H17000130009 |
-| Provincia autonoma di Bolzano | Programma di rigenerazione dell'Areale di Bolzano | J51G26000040001 |
-| Lazio | Interventi per il ripristino della linea ferroviaria Priverno-Terracina | J24J26000140001 |
-
-  
-  
-».   
+MATTARELLA Meloni, Presidente del Consiglio dei ministri Salvini, Ministro delle infrastrutture e dei trasporti Visto, il Guardasigilli: Nordio

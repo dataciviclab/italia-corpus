@@ -1,18 +1,16 @@
-DECRETO MINISTERIALE 01 agosto 1990 n. 257
-
-
-DECRETO MINISTERIALE 01 agosto 1990 n. 257
-==========================================
-
-Regolamento recante modificazioni al decreto ministeriale 5 ottobre 1978 concernente i requisiti microbiologici, chimici e biologici dei molluschi eduli lamellibranchi in relazione alla loro destinazione. Modalita' di prelievo dei molluschi eduli da sottoporre ad analisi durante le varie fasi della produzione e commercializzazione.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 25/9/1990
+---
+tipo: DECRETO MINISTERIALE
+numero: 257
+data: 1990-08-01
+titolo: "Regolamento recante modificazioni al decreto ministeriale 5 ottobre 1978 concernente i requisiti microbiologici, chimici e biologici dei molluschi eduli lamellibranchi in relazione alla loro destinazione. Modalita' di prelievo dei molluschi eduli da sottoporre ad analisi durante le varie fasi della produzione e commercializzazione."
+urn: urn:nir:ministero.sanita:decreto.ministeriale:1990-08-01;257
+codice_redazionale: 090G0288
+vigente: true
+---
 
 IL MINISTRO DELLA SANITA'
--------------------------
 
-Vista la [legge 2 maggio 1977, n. 192](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-05-02;192), concernente norme igienico-sanitarie per la produzione, commercio e vendita dei molluschi eduli lamellibranchi ed in particolare l'art. 12;
+Vista la [legge 2 maggio 1977, n. 192](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20igienico-sanitarie%20per%20la%20produzione%20commercio%20e%20vendita%20dei%20molluschi%20eduli%20lamellibranchi.md), concernente norme igienico-sanitarie per la produzione, commercio e vendita dei molluschi eduli lamellibranchi ed in particolare l'art. 12;
 
 Visto il decreto ministeriale 5 ottobre 1978 concernente i requisiti microbiologici, chimici e biologici dei molluschi eduli lamellibranchi in relazione alla loro destinazione ed in particolare l'art. 8;
 
@@ -22,52 +20,46 @@ Ritenuto di dover aggiornare i requisiti prescritti dall'art. 8 del decreto mini
 
 Visto il parere espresso dal Consiglio superiore di sanita';
 
-Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3);
+Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
 Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 12 luglio 1990;
 
-Vista la comunicazione fatta al Presidente del Consiglio dei Ministri, a norma dell'art. 17, comma 3, della citata [legge n. 400/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400), con la nota n. 703/31.64/1447 del 1› agosto 1990;
+Vista la comunicazione fatta al Presidente del Consiglio dei Ministri, a norma dell'art. 17, comma 3, della citata [legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400), con la nota n. 703/31.64/1447 del 1 agosto 1990;
 
 A D O T T A il seguente regolamento:
 
-Articolo unico
---------------
+## Articolo unico
 
- L'art. 8 del decreto ministeriale 5 ottobre 1978, concernente i requisiti microbiologici, chimici e biologici dei molluschi eduli lamellibranchi in relazione alla loro destinazione e modalita' di prelievo dei molluschi eduli da sottoporre ad analisi durante le varie fasi della produzione e commercializzazione del prodotto, e' cosi' sostituito:  
-"Art. 8. - I molluschi eduli lamellibranchi indicati ai precedenti articoli 1, 2, 3 e 5 devono possedere i seguenti requisiti:  
-a) essere privi sulle valve di fango e detriti vari;  
-b) essere privi di odori e sapori non propri;  
-c) non piu' di quaranta microgrammi di biotossine algali P.S.P per cento grammi di polpa (corpo del mollusco):  
-biotossine algali N.S.P.: non determinabili;  
-biotossine algali D.S.P.: in quantita' tali da non presentare positivita' ai saggi prescritti.  
-I molluschi eduli di cui al secondo comma dell'art. 1, al secondo e quarto comma dell'art. 2, al primo comma dell'art. 3, al secondo comma dell'art. 5 del presente decreto, devono essere vivi e vitali, salvo in ogni caso il periodo massimo di validita' del prodotto fresco fissato in cinque giorni.  
-La frequenza dei controlli per l'accertamento dei requisiti microbiologici, chimici e biologici dei molluschi eduli lamellibranchi e' quella indicata ai commi 2 e 3 dell'art. 4 del decreto ministeriale 1› agosto 1990, n. 256; la frequenza ravvicinata dei controlli si applica anche ai molluschi eduli lamellibranchi ottenuti dal novellame di cui alla lettera b), comma 6, del decreto ministeriale 1› agosto 1990, n. 256.  
+L'art. 8 del decreto ministeriale 5 ottobre 1978, concernente i requisiti microbiologici, chimici e biologici dei molluschi eduli lamellibranchi in relazione alla loro destinazione e modalita' di prelievo dei molluschi eduli da sottoporre ad analisi durante le varie fasi della produzione e commercializzazione del prodotto, e' cosi' sostituito:
+ "Art. 8. - I molluschi eduli lamellibranchi indicati ai precedenti articoli 1, 2, 3 e 5 devono possedere i seguenti requisiti:
+ a) essere privi sulle valve di fango e detriti vari;
+ b) essere privi di odori e sapori non propri;
+ c) non piu' di quaranta microgrammi di biotossine algali P.S.P per cento grammi di polpa (corpo del mollusco):
+ biotossine algali N.S.P.: non determinabili;
+ biotossine algali D.S.P.: in quantita' tali da non presentare positivita' ai saggi prescritti.
+ I molluschi eduli di cui al secondo comma dell'art. 1, al secondo e quarto comma dell'art. 2, al primo comma dell'art. 3, al secondo comma dell'art. 5 del presente decreto, devono essere vivi e vitali, salvo in ogni caso il periodo massimo di validita' del prodotto fresco fissato in cinque giorni.
+ La frequenza dei controlli per l'accertamento dei requisiti microbiologici, chimici e biologici dei molluschi eduli lamellibranchi e' quella indicata ai commi 2 e 3 dell'art. 4 del decreto ministeriale 1 agosto 1990, n. 256; la frequenza ravvicinata dei controlli si applica anche ai molluschi eduli lamellibranchi ottenuti dal novellame di cui alla lettera b), comma 6, del decreto ministeriale 1 agosto 1990, n. 256.
+
+AVVERTENZA:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate e alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Note alle premesse:
+ - Il testo dell'[art. 12 della legge n. 192/1977](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977;192#art_12) e' il seguente:
+ "Art. 12. - Il Ministro per la sanita', sentito il Consiglio superiore di sanita', stabilisce con proprio decreto da emanarsi entro sei mesi dall'entrata in vigore della presente legge:
+ 1) i requisiti microbiologici, biologici, chimici e fisici delle acque approvate e condizionate, le metodiche, le modalita' di prelievo dei campioni di acqua, la periodicita' delle ispezioni tecnico-sanitarie e dei controlli microbiologici, biologici, chimici e fisici di cui all'art. 8; i requisiti delle acque destinate al rifornimento degli impianti di depurazione e le modalita' dell'eventuale trattamento di dette acque con mezzi meccanici, fisici e/o chimici al fine di renderle idonee, sotto il profilo microbiologico e chimico, alla depurazione dei molluschi eduli e al mantenimento della loro vitalita';
+ 2) l'elenco delle specie di molluschi eduli lamellibranchi depurabili e le modalita' del trattamento stesso;
+ 3) le modalita' di confezionamento, il periodo e le modalita' di conservazione dei molluschi eduli; gli eventuali dispositivi da utilizzare per la vendita diretta o per la somministrazione dei molluschi eduli lamellibranchi destinati al consumo alimentare allo stato crudo; le specie di molluschi che, per particolari condizioni biologiche o esigenze commerciali, possono essere vendute sgusciate o sfuse;
+ 4) i requisiti microbiologici, chimici e biologici dei molluschi eduli lamellibranchi in relazione alle rispettive destinazioni, le modalita' del prelievo dei molluschi eduli lamellibranchi da sottoporre ad analisi microbiologica e chimica, durante le varie fasi dalla produzione alla commercializzazione del prodotto, e le metodiche di analisi.
+ Il Ministro per la sanita', con proprio decreto di concerto con il Ministro per la marina mercantile, sentito il Consiglio superiore di sanita', emana l'elenco delle acque precluse alla raccolta di molluschi eduli.
+ Con decreto del Ministro per la marina mercantile, di concerto con quello per la sanita', sono determinate le modalita' ed i periodi per lo sfruttamento razionale dei banchi e giacimenti naturali di molluschi eduli lamellibranchi. Con lo stesso decreto viene stabilita la documentazione richiesta per l'autorizzazione alla captazione delle acque marine destinate al rifornimento degli impianti di depurazione".
+ - Il testo dell'art. 8 del D. M. 5 ottobre 1978 e' il seguente:
+ "Art. 8. - I molluschi eduli lamellibranchi indicati ai precedenti articoli 1, 2, 3 e 5 devono avere i seguenti requisiti biologici:
+ assenza sulle valve di fango e detriti vari;
+ assenza di odori e sapori non propri;
+ assenza di biotossine algali liposolubili e tolleranza di biotossine algali idrosolubili nelle concentrazioni di non piu' di 40 microgrammi/100 grammi di polpa (corpo del mollusco), da determinare secondo le metodiche di analisi di cui all'art. 4 del decreto ministeriale 27 aprile 1970.
+ I molluschi eduli di cui al secondo comma dell'art. 1, al secondo e quarto comma dell'art. 2, al primo comma dell'art. 3, al secondo comma dell'art. 5 del presente decreto devono essere vivi e vitali, salvo in ogni caso il periodo massimo di validita' del prodotto fresco fissato in cinque giorni".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 1› agosto 1990
+Roma, 1 agosto 1990
 
-Il Ministro: DE LORENZO
-
-Visto, il Guardasigilli: VASSALLI Registrato alla Corte dei conti il 29 agosto 1990
-
-Registro n. 9 Sanita', foglio n. 174
-
-AVVERTENZA:  
-Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate e alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.  
-Note alle premesse:  
-- Il testo dell'[art. 12 della legge n. 192/1977](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977;192~art12) e' il seguente:  
-"Art. 12. - Il Ministro per la sanita', sentito il Consiglio superiore di sanita', stabilisce con proprio decreto da emanarsi entro sei mesi dall'entrata in vigore della presente legge:  
-1) i requisiti microbiologici, biologici, chimici e fisici delle acque approvate e condizionate, le metodiche, le modalita' di prelievo dei campioni di acqua, la periodicita' delle ispezioni tecnico-sanitarie e dei controlli microbiologici, biologici, chimici e fisici di cui all'art. 8; i requisiti delle acque destinate al rifornimento degli impianti di depurazione e le modalita' dell'eventuale trattamento di dette acque con mezzi meccanici, fisici e/o chimici al fine di renderle idonee, sotto il profilo microbiologico e chimico, alla depurazione dei molluschi eduli e al mantenimento della loro vitalita';  
-2) l'elenco delle specie di molluschi eduli lamellibranchi depurabili e le modalita' del trattamento stesso;  
-3) le modalita' di confezionamento, il periodo e le modalita' di conservazione dei molluschi eduli; gli eventuali dispositivi da utilizzare per la vendita diretta o per la somministrazione dei molluschi eduli lamellibranchi destinati al consumo alimentare allo stato crudo; le specie di molluschi che, per particolari condizioni biologiche o esigenze commerciali, possono essere vendute sgusciate o sfuse;  
-4) i requisiti microbiologici, chimici e biologici dei molluschi eduli lamellibranchi in relazione alle rispettive destinazioni, le modalita' del prelievo dei molluschi eduli lamellibranchi da sottoporre ad analisi microbiologica e chimica, durante le varie fasi dalla produzione alla commercializzazione del prodotto, e le metodiche di analisi.  
-Il Ministro per la sanita', con proprio decreto di concerto con il Ministro per la marina mercantile, sentito il Consiglio superiore di sanita', emana l'elenco delle acque precluse alla raccolta di molluschi eduli.  
-Con decreto del Ministro per la marina mercantile, di concerto con quello per la sanita', sono determinate le modalita' ed i periodi per lo sfruttamento razionale dei banchi e giacimenti naturali di molluschi eduli lamellibranchi. Con lo stesso decreto viene stabilita la documentazione richiesta per l'autorizzazione alla captazione delle acque marine destinate al rifornimento degli impianti di depurazione".  
-- Il testo dell'art. 8 del D. M. 5 ottobre 1978 e' il seguente:  
-"Art. 8. - I molluschi eduli lamellibranchi indicati ai precedenti articoli 1, 2, 3 e 5 devono avere i seguenti requisiti biologici:  
-assenza sulle valve di fango e detriti vari;  
-assenza di odori e sapori non propri;  
-assenza di biotossine algali liposolubili e tolleranza di biotossine algali idrosolubili nelle concentrazioni di non piu' di 40 microgrammi/100 grammi di polpa (corpo del mollusco), da determinare secondo le metodiche di analisi di cui all'art. 4 del decreto ministeriale 27 aprile 1970.  
-I molluschi eduli di cui al secondo comma dell'art. 1, al secondo e quarto comma dell'art. 2, al primo comma dell'art. 3, al secondo comma dell'art. 5 del presente decreto devono essere vivi e vitali, salvo in ogni caso il periodo massimo di validita' del prodotto fresco fissato in cinque giorni".
+Il Ministro: DE LORENZO Visto, il Guardasigilli: VASSALLI Registrato alla Corte dei conti il 29 agosto 1990 Registro n. 9 Sanita', foglio n. 174

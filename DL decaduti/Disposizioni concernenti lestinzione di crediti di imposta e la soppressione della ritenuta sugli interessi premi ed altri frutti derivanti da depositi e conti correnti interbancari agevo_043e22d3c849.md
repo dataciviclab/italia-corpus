@@ -1,70 +1,49 @@
-DECRETO-LEGGE 01 febbraio 1992 n. 47
+---
+tipo: DECRETO-LEGGE
+numero: 47
+data: 1992-02-01
+titolo: "Disposizioni concernenti l'estinzione di crediti di imposta e la soppressione della ritenuta sugli interessi, premi ed altri frutti derivanti da depositi e conti correnti interbancari, agevolazioni tributarie per incentivare l'abbattimento delle emissioni inquinanti in atmosfera, nonche' norme sulla gestione del gioco del lotto."
+urn: urn:nir:stato:decreto.legge:1992-02-01;47
+codice_redazionale: 092G0079
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 01 febbraio 1992 n. 47
-====================================
+DECRETO DECADUTO
 
-Disposizioni concernenti l'estinzione di crediti di imposta e la soppressione della ritenuta sugli interessi, premi ed altri frutti derivanti da depositi e conti correnti interbancari, agevolazioni tributarie per incentivare l'abbattimento delle emissioni inquinanti in atmosfera, nonche' norme sulla gestione del gioco del lotto.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 2-2-1992.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 5
-------
+## Art. 7.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 6
-------
+## Art. 8.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 7
-------
+## Art. 9.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 8
-------
+## Art. 10.
 
-  
-DECRETO DECADUTO   
-
-Art. 9
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 10
--------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

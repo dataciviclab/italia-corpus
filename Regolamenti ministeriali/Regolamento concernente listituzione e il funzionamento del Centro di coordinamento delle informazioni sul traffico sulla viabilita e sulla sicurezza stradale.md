@@ -1,26 +1,24 @@
-DECRETO 08 maggio 1990 n. 154
-
-
-DECRETO 08 maggio 1990 n. 154
-=============================
-
-Regolamento concernente l'istituzione e il funzionamento del Centro di coordinamento delle informazioni sul traffico, sulla viabilita' e sulla sicurezza stradale.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 4/7/1990
+---
+tipo: DECRETO
+numero: 154
+data: 1990-05-08
+titolo: "Regolamento concernente l'istituzione e il funzionamento del Centro di coordinamento delle informazioni sul traffico, sulla viabilita' e sulla sicurezza stradale."
+urn: urn:nir:ministero.lavori.pubblici:decreto:1990-05-08;154
+codice_redazionale: 090G0198
+vigente: true
+---
 
 IL MINISTRO DEI LAVORI PUBBLICI
--------------------------------
 
 DI CONCERTO CON
 
 IL MINISTRO DELL'INTERNO
 
-Visto l'[art. 5, comma 4, del decreto-legge 4 novembre 1988, n. 465](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-11-04;465~art5-com4), convertito, con modificazioni, dalla [legge 30 dicembre 1988, n. 556](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-12-30;556);
+Visto l'[art. 5, comma 4, del decreto-legge 4 novembre 1988, n. 465](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20urgenti%20e%20straordinarie%20per%20la%20realizzazione%20di%20strutture%20turistiche%20ricettive%20e%20tecnologiche.md), convertito, con modificazioni, dalla [legge 30 dicembre 1988, n. 556](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20novembre%201988%20n.%20465%20recante%20misure%20urgenti%20e%20straordinarie%20per%20la%20realizzazione%20di%20strutture%20turistiche%20ricettive%20e%20tecnologiche.md);
 
 Ritenuta la necessita' di istituire e regolamentare il Centro di coordinamento delle informazioni sul traffico, sulla viabilita' e sulla sicurezza stradale;
 
-Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3);
+Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
 Udito il parere del Consiglio di Stato reso nelle adunanze generali del 26 febbraio 1990 e del 19 aprile 1990;
 
@@ -28,100 +26,119 @@ Vista la comunicazione fatta al Presidente del Consiglio dei Ministri con nota n
 
 A D O T T A il seguente regolamento:
 
-Art. 1
-------
+## Art. 1.
 
-1. E' istituito, presso il Ministero dei lavori pubblici, il Centro di coordinamento delle informazioni sul traffico, sulla viabilita' e sulla sicurezza stradale.
+1.
 
-AVVERTENZA:   
-Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con decrto del [Presidente della Repubblica 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica::1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.  
-Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.   
-  
-Note alle premesse:   
-- Il [comma 4 dell'art. 5 del D.L. n. 465/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988;465~art5-com4) (Misure urgenti e straordinarie per la realizzazione di strutture turistiche, ricettive e tecnologiche) prevede che: "Per le finalita' di cui al comma 1 dell'art. 1 (realizzazione di iniziative volte allo sviluppo, razionalizzazione, adeguamento, ammodernamento e informatizzazione di strutture turistiche e ricettive, n.d.r.) e allo scopo di rendere l'informazione sul traffico e sulla viabilita' adeguata alle esigenze di sicurezza stradale e di orientamento dei flussi veicolari e ferme restando le rispettive competenze di legge, il Ministro dei lavori pubblici, di concerto con il Ministro dell'interno e' autorizzato ad istituire e regolamentare, con proprio decreto, un centro di coordinamento delle seguenti attivita': a) raccolta, elaborazione e selezione di informazioni sul traffico e sulla viabilita'; b) distribuzione e trasmissione delle notizie utili alla fluidita' ed alla sicurezza della circolazione; c) elaborazione e realizzazione di campagne sulla sicurezza stradale. Per la realizzazione di detti fini il centro di coordinamento si avvale anche della struttura "Viaggiare informati", gia' istituita da polizia stradale, ANAS, Autostrade S.p.a. e RAI, operante presso l'ACI, struttura che verra' opportunamente ampliata, riorganizzata e potenziata. Inoltre dovranno essere avviate tutte le iniziative necessarie alla tutela della qualita' di ricezione del servizio da parte dell'utenza automobilistica. Il centro di coordinamento e' autorizzato a stipulare apposite convenzioni con l'ANAS, la RAI, le concessionarie autostradali, l'ACI e gli enti in grado di fornire informazioni utili al funzionamento del centro".   
-- Il [comma 3 dell'art. 17 della legge n. 400/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.  
-Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale .
+E' istituito, presso il Ministero dei lavori pubblici, il Centro di coordinamento delle informazioni sul traffico, sulla viabilita' e sulla sicurezza stradale.
 
-Art. 2
-------
+AVVERTENZA: 
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con decrto del [Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica::1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ 
+ Note alle premesse: 
+ - Il [comma 4 dell'art. 5 del D.L. n. 465/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988;465#art_5-com4) (Misure urgenti e straordinarie per la realizzazione di strutture turistiche, ricettive e tecnologiche) prevede che: "Per le finalita' di cui al comma 1 dell'art. 1 (realizzazione di iniziative volte allo sviluppo, razionalizzazione, adeguamento, ammodernamento e informatizzazione di strutture turistiche e ricettive, n.d.r.) e allo scopo di rendere l'informazione sul traffico e sulla viabilita' adeguata alle esigenze di sicurezza stradale e di orientamento dei flussi veicolari e ferme restando le rispettive competenze di legge, il Ministro dei lavori pubblici, di concerto con il Ministro dell'interno e' autorizzato ad istituire e regolamentare, con proprio decreto, un centro di coordinamento delle seguenti attivita': a) raccolta, elaborazione e selezione di informazioni sul traffico e sulla viabilita'; b) distribuzione e trasmissione delle notizie utili alla fluidita' ed alla sicurezza della circolazione; c) elaborazione e realizzazione di campagne sulla sicurezza stradale. Per la realizzazione di detti fini il centro di coordinamento si avvale anche della struttura "Viaggiare informati", gia' istituita da polizia stradale, ANAS, Autostrade S.p.a. e RAI, operante presso l'ACI, struttura che verra' opportunamente ampliata, riorganizzata e potenziata. Inoltre dovranno essere avviate tutte le iniziative necessarie alla tutela della qualita' di ricezione del servizio da parte dell'utenza automobilistica. Il centro di coordinamento e' autorizzato a stipulare apposite convenzioni con l'ANAS, la RAI, le concessionarie autostradali, l'ACI e gli enti in grado di fornire informazioni utili al funzionamento del centro". 
+ - Il [comma 3 dell'art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.
+ Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale .
 
-1. Il Centro coordina le seguenti attivita':
+## Art. 2.
 
-a) raccolta, elaborazione e selezione di informazioni sul traffico e sulla viabilita';
+1.
 
-b) distribuzione e trasmissione delle notizie utili alla fluidita' ed alla sicurezza della circolazione;
+Il Centro coordina le seguenti attivita':
+                        a)
+                            raccolta, elaborazione e selezione di informazioni sul traffico e sulla viabilita';
+                        b)
+                            distribuzione e trasmissione delle notizie utili alla fluidita' ed alla sicurezza della circolazione;
+                        c)
+                            elaborazione e realizzazione di campagne sulla sicurezza stradale.
 
-c) elaborazione e realizzazione di campagne sulla sicurezza stradale.
+2.
 
-2. La realizzazione delle attivita' di cui alle precedenti lettere e' affidata alla centrale operativa della struttura "Viaggiare informati" opportunamente riorganizzata e potenziata.
+La realizzazione delle attivita' di cui alle precedenti lettere e' affidata alla centrale operativa della struttura "Viaggiare informati" opportunamente riorganizzata e potenziata.
 
-Art. 3
-------
+## Art. 3.
 
-1. Al Centro e' preposto un direttore, coadiuvato da un vice direttore, con funzioni di indirizzo, coordinamento e controllo delle sue attivita'.
+1.
 
-2. Le funzioni di direttore sono svolte dal dirigente superiore preposto all'ispettorato circolazione e traffico del Ministero dei lavori pubblici.
+Al Centro e' preposto un direttore, coadiuvato da un vice direttore, con funzioni di indirizzo, coordinamento e controllo delle sue attivita'.
 
-3. Le funzioni di vice direttore sono svolte dal dirigente preposto al Servizio polizia stradale del Ministero dell'interno.
+2.
 
-Art. 4
-------
+Le funzioni di direttore sono svolte dal dirigente superiore preposto all'ispettorato circolazione e traffico del Ministero dei lavori pubblici.
 
-1. Al Centro e' assegnato, fino al 31 dicembre 1990, in posizione di comando, un contingente di diciotto dipendenti appartenenti in pari misura ai ruoli ordinari del Ministero dei lavori pubblici e del Ministero dell'interno, cosi' ripartito: due di livello ottavo; quattro di livello settimo; sei di livello sesto; quattro di livello quinto; due di livello quarto.
+3.
 
-2. Per gli anni successivi la dotazione puo' essere rideterminata con decreto del Ministro dei lavori pubblici di concerto con il Ministro dell'interno, in relazione alle esigenze di servizio.
+Le funzioni di vice direttore sono svolte dal dirigente preposto al Servizio polizia stradale del Ministero dell'interno.
 
-Art. 5
-------
+## Art. 4.
 
-1. Per il perseguimento dei fini di cui all'art. 2 e nel rispetto dei fini istituzionali e dell'autonomia di ciascun ente, il Centro e' autorizzato a stipulare apposite convenzioni con l'ANAS, la RAI, le concessionarie autostradali, l'ACI e gli enti in grado di fornire informazioni utili al funzionamento della centrale operativa.
+1.
 
-2. L'attivita' in materia di informazioni per la sicurezza stradale sara' effettuata in modo da realizzare il necessario coordinamento operativo delle diverse competenze e soddisfare l'esigenza dell'efficiente ed ottimale prestazione del servizio, assicurandone la qualita' uniforme sull'intero territorio nazionale.
+Al Centro e' assegnato, fino al 31 dicembre 1990, in posizione di comando, un contingente di diciotto dipendenti appartenenti in pari misura ai ruoli ordinari del Ministero dei lavori pubblici e del Ministero dell'interno, cosi' ripartito: due di livello ottavo; quattro di livello settimo; sei di livello sesto; quattro di livello quinto; due di livello quarto.
 
-Art. 6
-------
+2.
 
-1. Il Centro si avvale di una commissione consultiva, nominata con decreto del Ministro dei lavori pubblici, composta da:
+Per gli anni successivi la dotazione puo' essere rideterminata con decreto del Ministro dei lavori pubblici di concerto con il Ministro dell'interno, in relazione alle esigenze di servizio.
 
-a) il direttore e il vice direttore del Centro;
+## Art. 5.
 
-b) due esperti in materia di circolazione e sicurezza stradale, di cui uno designato dal Ministro dell'interno;
+1.
 
-c) un funzionario della polizia stradale e un funzionario dell'Ispettorato circolazione e traffico del Ministero dei lavori pubblici ed uno dell'ANAS;
+Per il perseguimento dei fini di cui all'art. 2 e nel rispetto dei fini istituzionali e dell'autonomia di ciascun ente, il Centro e' autorizzato a stipulare apposite convenzioni con l'ANAS, la RAI, le concessionarie autostradali, l'ACI e gli enti in grado di fornire informazioni utili al funzionamento della centrale operativa.
 
-d) un rappresentante della societa' Autostrade ed uno dell'Aiscat - Associazione italiana societa' concessionarie di autostrade e trafori;
+2.
 
-e) un funzionario dell'ACI - Automobile club d'Italia;
+L'attivita' in materia di informazioni per la sicurezza stradale sara' effettuata in modo da realizzare il necessario coordinamento operativo delle diverse competenze e soddisfare l'esigenza dell'efficiente ed ottimale prestazione del servizio, assicurandone la qualita' uniforme sull'intero territorio nazionale.
 
-f) un rappresentante della RAI - Radiotelevisione italiana;
+## Art. 6.
 
-g) un rappresentante dell'ANCUPM - Associazione nazionale comandanti e ufficiali di polizia municipale;
+1.
 
-h) un rappresentante dell'UPI - Unione province italiane.
+Il Centro si avvale di una commissione consultiva, nominata con decreto del Ministro dei lavori pubblici, composta da:
+                        a)
+                            il direttore e il vice direttore del Centro;
+                        b)
+                            due esperti in materia di circolazione e sicurezza stradale, di cui uno designato dal Ministro dell'interno;
+                        c)
+                            un funzionario della polizia stradale e un funzionario dell'Ispettorato circolazione e traffico del Ministero dei lavori pubblici ed uno dell'ANAS;
+                        d)
+                            un rappresentante della societa' Autostrade ed uno dell'Aiscat - Associazione italiana societa' concessionarie di autostrade e trafori;
+                        e)
+                            un funzionario dell'ACI - Automobile club d'Italia;
+                        f)
+                            un rappresentante della RAI - Radiotelevisione italiana;
+                        g)
+                            un rappresentante dell'ANCUPM - Associazione nazionale comandanti e ufficiali di polizia municipale;
+                        h)
+                            un rappresentante dell'UPI - Unione province italiane.
 
-2. La commissione e' presieduta dal direttore del Centro o, in sua assenza o impedimento, dal vice direttore.
+2.
 
-3. Le funzioni di segretario sono svolte da un dipendente del Centro di livello non inferiore al settimo.
+La commissione e' presieduta dal direttore del Centro o, in sua assenza o impedimento, dal vice direttore.
 
-4. La commissione esprime parere sui programmi di massima per l'acquisizione delle notizie sul traffico e sulla viabilita' e per le modalita' di diffusione, nonche' su tutti i problemi ad essa sottoposti dal direttore del Centro.
+3.
 
-Art. 7
-------
+Le funzioni di segretario sono svolte da un dipendente del Centro di livello non inferiore al settimo.
 
-1. Il Centro presenta ogni anno ai Ministri interessati una relazione sulla propria attivita', formula proposte in ordine ad iniziative idonee a migliorare od alleggerire la pressione veicolare nei luoghi o nei periodi di maggior intensita' e segnala gli interventi che ritiene necessari per le condizioni di sicurezza della circolazione.
+4.
 
-Art. 8
-------
+La commissione esprime parere sui programmi di massima per l'acquisizione delle notizie sul traffico e sulla viabilita' e per le modalita' di diffusione, nonche' su tutti i problemi ad essa sottoposti dal direttore del Centro.
 
-1. Il Centro, nei limiti dei fondi stanziati nell'apposito capitolo dello stato di previsione del Ministero dei lavori pubblici, provvede alle spese occorrenti all'espletamento delle proprie attivita', ivi incluse quelle per prestazioni di natura straordinaria ed eccezionale, sulla base del piano di riparto approvato dal Ministro dei lavori pubblici.
+## Art. 7.
+
+1.
+
+Il Centro presenta ogni anno ai Ministri interessati una relazione sulla propria attivita', formula proposte in ordine ad iniziative idonee a migliorare od alleggerire la pressione veicolare nei luoghi o nei periodi di maggior intensita' e segnala gli interventi che ritiene necessari per le condizioni di sicurezza della circolazione.
+
+## Art. 8.
+
+1.
+
+Il Centro, nei limiti dei fondi stanziati nell'apposito capitolo dello stato di previsione del Ministero dei lavori pubblici, provvede alle spese occorrenti all'espletamento delle proprie attivita', ivi incluse quelle per prestazioni di natura straordinaria ed eccezionale, sulla base del piano di riparto approvato dal Ministro dei lavori pubblici.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 8 maggio 1990
+Roma, 8 maggio 1990
 
-Il Ministro dei lavori pubblici PRANDINI Il Ministro dell'interno GAVA
-
-Visto, il Guardasigilli: VASSALLI Registrato alla Corte dei conti il 21 maggio 1990
-
-Registro n. 4 Lavori pubblici, foglio n. 257
+Il Ministro dei lavori pubblici PRANDINI Il Ministro dell'interno GAVA Visto, il Guardasigilli: VASSALLI Registrato alla Corte dei conti il 21 maggio 1990 Registro n. 4 Lavori pubblici, foglio n. 257

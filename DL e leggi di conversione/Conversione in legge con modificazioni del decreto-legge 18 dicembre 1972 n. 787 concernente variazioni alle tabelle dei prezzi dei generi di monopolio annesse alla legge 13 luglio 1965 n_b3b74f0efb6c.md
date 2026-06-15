@@ -1,39 +1,29 @@
-LEGGE 16 febbraio 1973 n. 10
-
-
-LEGGE 16 febbraio 1973 n. 10
-============================
-
-Conversione in legge, con modificazioni, del decreto-legge 18 dicembre 1972, n. 787, concernente variazioni alle tabelle dei prezzi dei generi di monopolio annesse alla legge 13 luglio 1965, n. 825, e successive modificazioni, in relazione alla introduzione dell'imposta sul valore aggiunto ed alla soppressione sia dell'imposta di consumo del sale che del monopolio delle cartine e tubetti per sigarette e delle pietrine focaie.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: LEGGE
+numero: 10
+data: 1973-02-16
+titolo: "Conversione in legge, con modificazioni, del decreto-legge 18 dicembre 1972, n. 787, concernente variazioni alle tabelle dei prezzi dei generi di monopolio annesse alla legge 13 luglio 1965, n. 825, e successive modificazioni, in relazione alla introduzione dell'imposta sul valore aggiunto ed alla soppressione sia dell'imposta di consumo del sale che del monopolio delle cartine e tubetti per sigarette e delle pietrine focaie."
+urn: urn:nir:stato:legge:1973-02-16;10
+codice_redazionale: 073U0010
+vigente: true
+---
 
 La Camera dei deputati ed il Senato della Repubblica hanno
-----------------------------------------------------------
 
 approvato;
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-PROMULGA
---------
+PROMULGA la seguente legge:
 
-la seguente legge:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' convertito in legge il [decreto-legge 18 dicembre 1972, n. 787](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-12-18;787), concernente variazioni delle tabelle dei prezzi dei generi di monopolio annesse alla [legge 13 luglio 1965, n. 825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-07-13;825), e successive modificazioni, in relazione all'introduzione dell'imposta sul valore aggiunto ed alla soppressione sia dell'imposta sul consumo del sale che del monopolio delle cartine e tubetti per sigarette e delle pietrine focaie, con le seguenti modificazioni:   
-All'articolo 4, dopo il primo comma, e' inserito il seguente:   
-"E' altresi' abolito, a far data dal primo gennaio 1974, il monopolio di vendita dei sali. Entro la detta data si provvedera', con legge, a dettare norme per le conseguenti ristrutturazioni e per la creazione di organismi di gestione a carattere pubblico" Nell'allegato F, nella quarta colonna intitolata imposta sul valore aggiunto le cifre: 442, 680 e 838, sono sostituite dalle cifre: 453, 679 e 849.   
-  
+E' convertito in legge il [decreto-legge 18 dicembre 1972, n. 787](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-12-18;787), concernente variazioni delle tabelle dei prezzi dei generi di monopolio annesse alla [legge 13 luglio 1965, n. 825](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regime%20di%20imposizione%20fiscale%20sui%20prodotti%20oggetto%20di%20monopolio%20di%20Stato.md), e successive modificazioni, in relazione all'introduzione dell'imposta sul valore aggiunto ed alla soppressione sia dell'imposta sul consumo del sale che del monopolio delle cartine e tubetti per sigarette e delle pietrine focaie, con le seguenti modificazioni: 
+ All'articolo 4, dopo il primo comma, e' inserito il seguente: 
+ "E' altresi' abolito, a far data dal primo gennaio 1974, il monopolio di vendita dei sali. Entro la detta data si provvedera', con legge, a dettare norme per le conseguenti ristrutturazioni e per la creazione di organismi di gestione a carattere pubblico" Nell'allegato F, nella quarta colonna intitolata imposta sul valore aggiunto le cifre: 442, 680 e 838, sono sostituite dalle cifre: 453, 679 e 849.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data a Roma, addi' 16 febbraio 1973
+Data a Roma, addi' 16 febbraio 1973
 
-LEONE ANDREOTTI - VALSECCHI
-
-Visto, il Guardasigilli: GONELLA
+LEONE ANDREOTTI - VALSECCHI Visto, il Guardasigilli: GONELLA

@@ -1,34 +1,25 @@
-DECRETO-LEGGE 16 luglio 1991 n. 211
+---
+tipo: DECRETO-LEGGE
+numero: 211
+data: 1991-07-16
+titolo: "Interventi per il miglioramento qualitativo e la prevenzione dell'inquinamento delle acque destinate al consumo umano, nonche' differimento del termine in materia di qualita' delle acque di balneazione."
+urn: urn:nir:stato:decreto.legge:1991-07-16;211
+codice_redazionale: 091G0258
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 16 luglio 1991 n. 211
-===================================
+DECRETO DECADUTO
 
-Interventi per il miglioramento qualitativo e la prevenzione dell'inquinamento delle acque destinate al consumo umano, nonche' differimento del termine in materia di qualita' delle acque di balneazione.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 18/07/1991.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO   
-
-Art. 3
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 4
-------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

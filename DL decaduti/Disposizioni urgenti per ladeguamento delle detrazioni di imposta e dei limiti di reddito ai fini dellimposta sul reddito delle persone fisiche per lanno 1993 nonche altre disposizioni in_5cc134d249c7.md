@@ -1,34 +1,25 @@
-DECRETO-LEGGE 22 novembre 1993 n. 469
+---
+tipo: DECRETO-LEGGE
+numero: 469
+data: 1993-11-22
+titolo: "Disposizioni urgenti per l'adeguamento delle detrazioni di imposta e dei limiti di reddito ai fini dell'imposta sul reddito delle persone fisiche per l'anno 1993, nonche' altre disposizioni in materia di imposte sui redditi."
+urn: urn:nir:stato:decreto.legge:1993-11-22;469
+codice_redazionale: 093G0549
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 22 novembre 1993 n. 469
-=====================================
+DECRETO DECADUTO
 
-Disposizioni urgenti per l'adeguamento delle detrazioni di imposta e dei limiti di reddito ai fini dell'imposta sul reddito delle persone fisiche per l'anno 1993, nonche' altre disposizioni in materia di imposte sui redditi.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 23/11/1993.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO   
-
-Art. 3
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 4
-------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

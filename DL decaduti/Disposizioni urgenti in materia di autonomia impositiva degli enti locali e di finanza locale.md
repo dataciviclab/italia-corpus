@@ -1,216 +1,180 @@
-DECRETO-LEGGE 30 dicembre 1988 n. 549
+---
+tipo: DECRETO-LEGGE
+numero: 549
+data: 1988-12-30
+titolo: "Disposizioni urgenti in materia di autonomia impositiva degli enti locali e di finanza locale."
+urn: urn:nir:stato:decreto.legge:1988-12-30;549
+codice_redazionale: 088G0630
+vigente: true
+---
 
+## IMPOSTA COMUNALE PER L'ESERCIZIO DI IMPRESE E DI ARTI E PROFESSIONI
 
-DECRETO-LEGGE 30 dicembre 1988 n. 549
-=====================================
+Titolo I
 
-Disposizioni urgenti in materia di autonomia impositiva degli enti locali e di finanza locale.
-----------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del decreto: 01/01/1989.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 24 APRILE 1989, N. 144](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2066%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autonomia%20impositiva%20degli%20enti%20locali%20e%20di%20finanza%20locale.md)
 
-CAPO I Titolo I IMPOSTA COMUNALE PER L'ESERCIZIO DI IMPRESE E DI ARTI E PROFESSIONI
------------------------------------------------------------------------------------
+### Art. 2.
 
-### Art. 1
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 24 APRILE 1989, N. 144](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2066%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autonomia%20impositiva%20degli%20enti%20locali%20e%20di%20finanza%20locale.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 24 APRILE 1989, N. 144](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-24;144)
-  
+### Art. 3.
 
-### Art. 2
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 24 APRILE 1989, N. 144](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2066%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autonomia%20impositiva%20degli%20enti%20locali%20e%20di%20finanza%20locale.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 24 APRILE 1989, N. 144](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-24;144)
-  
+### Art. 4.
 
-### Art. 3
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 24 APRILE 1989, N. 144](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2066%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autonomia%20impositiva%20degli%20enti%20locali%20e%20di%20finanza%20locale.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 24 APRILE 1989, N. 144](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-24;144)
-  
+### Art. 5.
 
-### Art. 4
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 24 APRILE 1989, N. 144](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2066%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autonomia%20impositiva%20degli%20enti%20locali%20e%20di%20finanza%20locale.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 24 APRILE 1989, N. 144](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-24;144)
-  
+### Art. 6.
 
-### Art. 5
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 24 APRILE 1989, N. 144](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2066%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autonomia%20impositiva%20degli%20enti%20locali%20e%20di%20finanza%20locale.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 24 APRILE 1989, N. 144](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-24;144)
-  
+## ALTRE DISPOSIZIONI FISCALI E VARIE
 
-### Art. 6
+Titolo II
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 24 APRILE 1989, N. 144](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-24;144)
-  
+### Art. 7.
 
-CAPO II Titolo II ALTRE DISPOSIZIONI FISCALI E VARIE
-----------------------------------------------------
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 24 APRILE 1989, N. 144](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2066%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autonomia%20impositiva%20degli%20enti%20locali%20e%20di%20finanza%20locale.md)
 
-### Art. 7
+### Art. 8.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 24 APRILE 1989, N. 144](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-24;144)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 24 APRILE 1989, N. 144](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2066%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autonomia%20impositiva%20degli%20enti%20locali%20e%20di%20finanza%20locale.md)
 
-### Art. 8
+### Art. 9.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 24 APRILE 1989, N. 144](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-24;144)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 24 APRILE 1989, N. 144](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2066%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autonomia%20impositiva%20degli%20enti%20locali%20e%20di%20finanza%20locale.md)
 
-### Art. 9
+### Art. 10.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 24 APRILE 1989, N. 144](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-24;144)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 24 APRILE 1989, N. 144](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2066%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autonomia%20impositiva%20degli%20enti%20locali%20e%20di%20finanza%20locale.md)
 
-### Art. 10
+## RISORSE TRASFERITE DALLO STATO PER IL FINANZIAMENTO DEI BILANCI
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 24 APRILE 1989, N. 144](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-24;144)
-  
+Titolo III
 
-CAPO III Titolo III RISORSE TRASFERITE DALLO STATO PER IL FINANZIAMENTO DEI BILANCI
------------------------------------------------------------------------------------
+### Art. 11.
 
-### Art. 11
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 24 APRILE 1989, N. 144](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2066%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autonomia%20impositiva%20degli%20enti%20locali%20e%20di%20finanza%20locale.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 24 APRILE 1989, N. 144](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-24;144)
-  
+### Art. 12.
 
-### Art. 12
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 24 APRILE 1989, N. 144](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2066%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autonomia%20impositiva%20degli%20enti%20locali%20e%20di%20finanza%20locale.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 24 APRILE 1989, N. 144](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-24;144)
-  
+### Art. 13.
 
-### Art. 13
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 24 APRILE 1989, N. 144](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2066%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autonomia%20impositiva%20degli%20enti%20locali%20e%20di%20finanza%20locale.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 24 APRILE 1989, N. 144](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-24;144)
-  
+### Art. 14.
 
-### Art. 14
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 24 APRILE 1989, N. 144](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2066%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autonomia%20impositiva%20degli%20enti%20locali%20e%20di%20finanza%20locale.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 24 APRILE 1989, N. 144](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-24;144)
-  
+### Art. 15.
 
-### Art. 15
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 24 APRILE 1989, N. 144](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2066%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autonomia%20impositiva%20degli%20enti%20locali%20e%20di%20finanza%20locale.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 24 APRILE 1989, N. 144](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-24;144)
-  
+### Art. 16.
 
-### Art. 16
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 24 APRILE 1989, N. 144](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2066%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autonomia%20impositiva%20degli%20enti%20locali%20e%20di%20finanza%20locale.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 24 APRILE 1989, N. 144](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-24;144)
-  
+### Art. 17.
 
-### Art. 17
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 24 APRILE 1989, N. 144](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2066%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autonomia%20impositiva%20degli%20enti%20locali%20e%20di%20finanza%20locale.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 24 APRILE 1989, N. 144](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-24;144)
-  
+### Art. 18.
 
-### Art. 18
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 24 APRILE 1989, N. 144](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2066%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autonomia%20impositiva%20degli%20enti%20locali%20e%20di%20finanza%20locale.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 24 APRILE 1989, N. 144](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-24;144)
-  
+### Art. 19.
 
-### Art. 19
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 24 APRILE 1989, N. 144](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2066%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autonomia%20impositiva%20degli%20enti%20locali%20e%20di%20finanza%20locale.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 24 APRILE 1989, N. 144](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-24;144)
-  
+### Art. 20.
 
-### Art. 20
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 24 APRILE 1989, N. 144](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2066%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autonomia%20impositiva%20degli%20enti%20locali%20e%20di%20finanza%20locale.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 24 APRILE 1989, N. 144](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-24;144)
-  
+### Art. 21.
 
-### Art. 21
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 24 APRILE 1989, N. 144](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2066%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autonomia%20impositiva%20degli%20enti%20locali%20e%20di%20finanza%20locale.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 24 APRILE 1989, N. 144](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-24;144)
-  
+### Art. 22.
 
-### Art. 22
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 24 APRILE 1989, N. 144](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2066%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autonomia%20impositiva%20degli%20enti%20locali%20e%20di%20finanza%20locale.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 24 APRILE 1989, N. 144](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-24;144)
-  
+## RISANAMENTO FINANZIARIO DELLE GESTIONI LOCALI E DISPOSIZIONI VARIE
 
-CAPO IV Titolo IV RISANAMENTO FINANZIARIO DELLE GESTIONI LOCALI E DISPOSIZIONI VARIE
-------------------------------------------------------------------------------------
+Titolo IV
 
-### Art. 23
+### Art. 23.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 24 APRILE 1989, N. 144](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-24;144)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 24 APRILE 1989, N. 144](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2066%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autonomia%20impositiva%20degli%20enti%20locali%20e%20di%20finanza%20locale.md)
 
-### Art. 24
+### Art. 24.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 24 APRILE 1989, N. 144](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-24;144)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 24 APRILE 1989, N. 144](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2066%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autonomia%20impositiva%20degli%20enti%20locali%20e%20di%20finanza%20locale.md)
 
-### Art. 25
+### Art. 25.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 24 APRILE 1989, N. 144](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-24;144)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 24 APRILE 1989, N. 144](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2066%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autonomia%20impositiva%20degli%20enti%20locali%20e%20di%20finanza%20locale.md)
 
-### Art. 26
+### Art. 26.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 24 APRILE 1989, N. 144](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-24;144)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 24 APRILE 1989, N. 144](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2066%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autonomia%20impositiva%20degli%20enti%20locali%20e%20di%20finanza%20locale.md)
 
-### Art. 27
+### Art. 27.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 24 APRILE 1989, N. 144](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-24;144)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 24 APRILE 1989, N. 144](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2066%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autonomia%20impositiva%20degli%20enti%20locali%20e%20di%20finanza%20locale.md)
 
-### Art. 28
+### Art. 28.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 24 APRILE 1989, N. 144](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-24;144)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 24 APRILE 1989, N. 144](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2066%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autonomia%20impositiva%20degli%20enti%20locali%20e%20di%20finanza%20locale.md)
 
-### Art. 29
+### Art. 29.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 24 APRILE 1989, N. 144](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-24;144)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 24 APRILE 1989, N. 144](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2066%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autonomia%20impositiva%20degli%20enti%20locali%20e%20di%20finanza%20locale.md)
 
-### Art. 30
+### Art. 30.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 24 APRILE 1989, N. 144](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-24;144)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 24 APRILE 1989, N. 144](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2066%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autonomia%20impositiva%20degli%20enti%20locali%20e%20di%20finanza%20locale.md)
 
-### Art. 31
+### Art. 31.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 24 APRILE 1989, N. 144](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-24;144)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 24 APRILE 1989, N. 144](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2066%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autonomia%20impositiva%20degli%20enti%20locali%20e%20di%20finanza%20locale.md)

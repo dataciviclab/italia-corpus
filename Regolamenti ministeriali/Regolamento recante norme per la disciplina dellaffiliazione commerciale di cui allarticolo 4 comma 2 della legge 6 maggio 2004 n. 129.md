@@ -1,97 +1,98 @@
-DECRETO 02 settembre 2005 n. 204
-
-
-DECRETO 02 settembre 2005 n. 204
-================================
-
-Regolamento recante norme per la disciplina dell'affiliazione commerciale di cui all'articolo 4, comma 2, della legge 6 maggio 2004, n. 129.
---------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/10/2005
+---
+tipo: DECRETO
+numero: 204
+data: 2005-09-02
+titolo: "Regolamento recante norme per la disciplina dell'affiliazione commerciale di cui all'articolo 4, comma 2, della legge 6 maggio 2004, n. 129."
+urn: urn:nir:ministero.attivita.produttive:decreto:2005-09-02;204
+codice_redazionale: 005G0229
+vigente: true
+---
 
 IL MINISTRO DELLE ATTIVITA' PRODUTTIVE
---------------------------------------
 
-Vista la [legge 6 maggio 2004, n. 129](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-05-06;129), recante «Norme per la disciplina dell'affiliazione commerciale»;
+Vista la [legge 6 maggio 2004, n. 129](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-05-06;129), recante «Norme per la disciplina dell'affiliazione commerciale»;
 
-Visto l'articolo 4, comma 2, della citata [legge n. 129 del 2004](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004;129), il quale prevede che, con decreto del Ministro delle attivita' produttive, sono definite le informazioni che devono essere fornite dagli affilianti che hanno operato esclusivamente all'estero;
+Visto l'articolo 4, comma 2, della citata [legge n. 129 del 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004;129), il quale prevede che, con decreto del Ministro delle attivita' produttive, sono definite le informazioni che devono essere fornite dagli affilianti che hanno operato esclusivamente all'estero;
 
-Vista la [legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400) e, in particolare, l'articolo 17, comma 3;
+Vista la [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400) e, in particolare, l'articolo 17, comma 3;
 
 Udito il parere del Consiglio di Stato espresso nella seduta dell'11 luglio 2005;
 
-Viste la comunicazione alla Presidenza del Consiglio dei Ministri del 5 agosto 2005 e la nota del 24 agosto con la quale la Presidenza del Consiglio dei Ministri ha comunicato il nulla osta, ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3);
+Viste la comunicazione alla Presidenza del Consiglio dei Ministri del 5 agosto 2005 e la nota del 24 agosto con la quale la Presidenza del Consiglio dei Ministri ha comunicato il nulla osta, ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-Adotta
-------
+Adotta il seguente regolamento:
 
-il seguente regolamento:
+## Art. 1. — Ambito di applicazione
 
-Art. 1
-------
+1.
 
-Ambito di applicazione
+Il presente regolamento si applica agli affilianti che, prima della data di sottoscrizione del contratto di affiliazione, hanno operato esclusivamente all'estero.
 
-1. Il presente regolamento si applica agli affilianti che, prima della data di sottoscrizione del contratto di affiliazione, hanno operato esclusivamente all'estero.
+2.
 
-2. L'ambito di applicazione del presente regolamento e' limitato ai casi in cui, sulla base delle norme di diritto internazionale privato, il contratto e' regolato dalla legge italiana.
+L'ambito di applicazione del presente regolamento e' limitato ai casi in cui, sulla base delle norme di diritto internazionale privato, il contratto e' regolato dalla legge italiana.
 
-Avvertenza:  
-Il testo unico delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1902](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1902), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.  
-Note alle premesse:  
-- L'[art. 4 della legge 6 maggio 2004, n. 129](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-05-06;129~art4), cosi' recita:  
-«Art. 4 (Obblighi dell'affiliante). - 1. Almeno trenta giorni prima della sottoscrizione di un contratto di affiliazione commerciale l'affiliante deve consegnare all'aspirante affiliato copia completa del contratto da sottoscrivere, corredato dei seguenti allegati, ad eccezione di quelli per i quali sussistano obiettive e specifiche esigenze di riservatezza, che comunque dovranno essere citati nel contratto:  
-a) principali dati relativi all'affiliante, tra cui ragione e capitale sociale e, previa richiesta dell'aspirante affiliato, copia del suo bilancio degli ultimi tre anni o dalla data inizio della sua attivita', qualora esso sia avvenuto da meno di tre anni;  
-b) l'indicazione dei marchi utilizzati nel sistema, con gli estremi della relativa registrazione o del deposito, o della licenza concessa all'affiliante del terzo, che abbia eventualmente la proprieta' degli stessi, o la documentazione comprovante l'uso concreto del marchio;  
-c) una sintetica illustrazione degli elementi caratterizzanti l'attivita' oggetto dell'affiliazione commerciale;  
-d) una lista degli affiliati al momento operanti nel sistema e dei punti vendita diretti dell'affiliante;  
-e) l'indicazione della variazione, anno per anno, del numero degli affiliati con relativa ubicazione negli ultimi tre anni o dalla data di inizio dell'attivita' dell'affiliante, qualora esso sia avvenuto da meno di tre anni;  
-f) la descrizione sintetica degli eventuali procedimenti giudiziari o arbitrali, promossi nei confronti dell'affiliante e che siano conclusi negli ultimi tre anni, relativamente al sistema di affiliazione commerciale in esame, sia da affiliati sia da terzi privati o da pubbliche autorita', nel rispetto delle vigenti norme sulla privacy.  
-2. Negli allegati di cui alle lettere d), e) ed f) del comma 1 l'affiliante puo' limitarsi a fornire le informazioni relative alle attivita' svolte in Italia. Con decreto del Ministero delle attivita' produttive, da emanare entro novanta giorni dalla data di entrata in vigore della presente legge, sono definite le informazioni che, in relazione a quanto previsto dalle predette lettere d), e) ed f), dovranno essere fornite dagli affilianti che in precedenza abbiano operato esclusivamente all'estero.».  
-- Il [comma 3 dell'art. 17 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3), recante «Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri», [pubblicata nel supplemento ordinario alla Gazzetta Ufficiale n. 214 del 12 settembre 1988](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1988-09-12&numeroGazzetta=214), cosi' recita:  
-«3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sott'ordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.  
-I regolamenti ministeriali e interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione».
+Avvertenza:
+ Il testo unico delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1902](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1902), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Note alle premesse:
+ - L'[art. 4 della legge 6 maggio 2004, n. 129](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-05-06;129#art_4), cosi' recita:
+ «Art. 4 (Obblighi dell'affiliante). - 1. Almeno trenta giorni prima della sottoscrizione di un contratto di affiliazione commerciale l'affiliante deve consegnare all'aspirante affiliato copia completa del contratto da sottoscrivere, corredato dei seguenti allegati, ad eccezione di quelli per i quali sussistano obiettive e specifiche esigenze di riservatezza, che comunque dovranno essere citati nel contratto:
+ a) principali dati relativi all'affiliante, tra cui ragione e capitale sociale e, previa richiesta dell'aspirante affiliato, copia del suo bilancio degli ultimi tre anni o dalla data inizio della sua attivita', qualora esso sia avvenuto da meno di tre anni;
+ b) l'indicazione dei marchi utilizzati nel sistema, con gli estremi della relativa registrazione o del deposito, o della licenza concessa all'affiliante del terzo, che abbia eventualmente la proprieta' degli stessi, o la documentazione comprovante l'uso concreto del marchio;
+ c) una sintetica illustrazione degli elementi caratterizzanti l'attivita' oggetto dell'affiliazione commerciale;
+ d) una lista degli affiliati al momento operanti nel sistema e dei punti vendita diretti dell'affiliante;
+ e) l'indicazione della variazione, anno per anno, del numero degli affiliati con relativa ubicazione negli ultimi tre anni o dalla data di inizio dell'attivita' dell'affiliante, qualora esso sia avvenuto da meno di tre anni;
+ f) la descrizione sintetica degli eventuali procedimenti giudiziari o arbitrali, promossi nei confronti dell'affiliante e che siano conclusi negli ultimi tre anni, relativamente al sistema di affiliazione commerciale in esame, sia da affiliati sia da terzi privati o da pubbliche autorita', nel rispetto delle vigenti norme sulla privacy.
+ 2. Negli allegati di cui alle lettere d), e) ed f) del comma 1 l'affiliante puo' limitarsi a fornire le informazioni relative alle attivita' svolte in Italia. Con decreto del Ministero delle attivita' produttive, da emanare entro novanta giorni dalla data di entrata in vigore della presente legge, sono definite le informazioni che, in relazione a quanto previsto dalle predette lettere d), e) ed f), dovranno essere fornite dagli affilianti che in precedenza abbiano operato esclusivamente all'estero.».
+ - Il [comma 3 dell'art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), recante «Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri», pubblicata nel supplemento ordinario alla Gazzetta Ufficiale n. 214 del 12 settembre 1988, cosi' recita:
+ «3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sott'ordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.
+ I regolamenti ministeriali e interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione».
 
-Art. 2
-------
+## Art. 2. — Informazioni
 
-Informazioni
+1.
 
-1. Fermi restando gli obblighi stabiliti dalle [lettere a)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-05-06;129~art4-leta), [b)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-05-06;129~art4-letb) e [c) dell'articolo 4, comma 1, della legge 6 maggio 2004, n. 129](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-05-06;129~art4-com1-letc), almeno trenta giorni prima della sottoscrizione di un contratto di affiliazione commerciale l'affiliante di cui all'articolo 1 deve consegnare all'aspirante affiliato copia completa del contratto da sottoscrivere, corredato degli allegati di cui ai commi 2, 3, 5 e 6 del presente articolo.
+Fermi restando gli obblighi stabiliti dalle [lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-05-06;129#art_4-leta), [b)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-05-06;129#art_4-letb) e [c) dell'articolo 4, comma 1, della legge 6 maggio 2004, n. 129](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-05-06;129#art_4-com1-letc), almeno trenta giorni prima della sottoscrizione di un contratto di affiliazione commerciale l'affiliante di cui all'articolo 1 deve consegnare all'aspirante affiliato copia completa del contratto da sottoscrivere, corredato degli allegati di cui ai commi 2, 3, 5 e 6 del presente articolo.
 
-2. Entro lo stesso termine di cui al comma 1, l'affiliante e' tenuto a fornire all'aspirante affiliato una lista numerica, comprensiva degli affiliati al momento operanti e dei punti vendita diretti, suddivisa per singoli Stati.
+2.
 
-3. Su richiesta dell'aspirante affiliato, l'affiliante e' tenuto a fornire, altresi', una lista recante i dati relativi all'ubicazione ed alla reperibilita', di almeno venti affiliati operanti. Nel caso in cui il totale degli affiliati sia inferiore al predetto numero, l'affiliante e' tenuto a fornire la lista completa.
+Entro lo stesso termine di cui al comma 1, l'affiliante e' tenuto a fornire all'aspirante affiliato una lista numerica, comprensiva degli affiliati al momento operanti e dei punti vendita diretti, suddivisa per singoli Stati.
 
-4. Le liste di cui ai commi 2 e 3 possono essere fornite anche in via informatica o pubblicate sul sito dell'affiliante.
+3.
 
-5. L'affiliante e' tenuto a fornire l'indicazione della variazione, anno per anno e suddivisa per singoli Stati, del numero degli affiliati con relativa ubicazione negli ultimi tre anni solari o dalla data di inizio dell'attivita' qualora esso sia avvenuto da meno di tre anni.
+Su richiesta dell'aspirante affiliato, l'affiliante e' tenuto a fornire, altresi', una lista recante i dati relativi all'ubicazione ed alla reperibilita', di almeno venti affiliati operanti. Nel caso in cui il totale degli affiliati sia inferiore al predetto numero, l'affiliante e' tenuto a fornire la lista completa.
 
-6. L'affiliante e' tenuto a fornire all'aspirante affiliato la descrizione sintetica degli eventuali procedimenti giudiziari, definiti nei tre anni solari antecedenti al termine di cui al comma 1, con sentenza passata in giudicato, nonche' dei procedimenti arbitrali per i quali, nel medesimo periodo, si sia pervenuti al lodo definitivo.
+4.
 
-7. Degli eventuali procedimenti giudiziari o arbitrali, che devono riferirsi al sistema di affiliazione commerciale, devono essere indicate almeno le parti, l'organo giudicante, le domande e il dispositivo.
+Le liste di cui ai commi 2 e 3 possono essere fornite anche in via informatica o pubblicate sul sito dell'affiliante.
 
-Nota all'art. 2:  
-- Per le lettere a), b), e c) del comma 1 dell'art. 4, della citata [legge 6 maggio 2004, n. 129](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-05-06;129), vedi note alle premesse.
+5.
 
-Art. 3
-------
+L'affiliante e' tenuto a fornire l'indicazione della variazione, anno per anno e suddivisa per singoli Stati, del numero degli affiliati con relativa ubicazione negli ultimi tre anni solari o dalla data di inizio dell'attivita' qualora esso sia avvenuto da meno di tre anni.
 
-Disposizioni finali
+6.
 
-1. L'affiliante, a richiesta dell'aspirante affiliato, e' tenuto a fornire le informazioni concernenti il contratto e i relativi allegati in lingua italiana.
+L'affiliante e' tenuto a fornire all'aspirante affiliato la descrizione sintetica degli eventuali procedimenti giudiziari, definiti nei tre anni solari antecedenti al termine di cui al comma 1, con sentenza passata in giudicato, nonche' dei procedimenti arbitrali per i quali, nel medesimo periodo, si sia pervenuti al lodo definitivo.
 
-2. L'aspirante affiliato deve utilizzare le informazioni di cui all'articolo 2 del presente decreto esclusivamente ai fini della valutazione dell'offerta di affiliazione.
+7.
+
+Degli eventuali procedimenti giudiziari o arbitrali, che devono riferirsi al sistema di affiliazione commerciale, devono essere indicate almeno le parti, l'organo giudicante, le domande e il dispositivo.
+
+Nota all'art. 2:
+ - Per le lettere a), b), e c) del comma 1 dell'art. 4, della citata [legge 6 maggio 2004, n. 129](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-05-06;129), vedi note alle premesse.
+
+## Art. 3. — Disposizioni finali
+
+1.
+
+L'affiliante, a richiesta dell'aspirante affiliato, e' tenuto a fornire le informazioni concernenti il contratto e i relativi allegati in lingua italiana.
+
+2.
+
+L'aspirante affiliato deve utilizzare le informazioni di cui all'articolo 2 del presente decreto esclusivamente ai fini della valutazione dell'offerta di affiliazione.
 
 Il presente decreto munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 2 settembre 2005
+Roma, 2 settembre 2005
 
-Il Ministro: Scajola
-
-Visto, il Guardasigilli: Castelli Registrato alla Corte dei conti il 23 settembre 2005
-
-Ufficio di controllo Atti Ministeri delle attivita' produttive,
-
-registro n. 4, foglio n. 62
+Il Ministro: Scajola Visto, il Guardasigilli: Castelli Registrato alla Corte dei conti il 23 settembre 2005 Ufficio di controllo Atti Ministeri delle attivita' produttive, registro n. 4, foglio n. 62

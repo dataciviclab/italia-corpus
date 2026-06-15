@@ -1,50 +1,41 @@
-DECRETO-LEGGE 30 dicembre 1988 n. 552
+---
+tipo: DECRETO-LEGGE
+numero: 552
+data: 1988-12-30
+titolo: "Ulteriori interventi urgenti per Roma, Capitale della Repubblica."
+urn: urn:nir:stato:decreto.legge:1988-12-30;552
+codice_redazionale: 088G0627
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 30 dicembre 1988 n. 552
-=====================================
+DECRETO DECADUTO
 
-Ulteriori interventi urgenti per Roma, Capitale della Repubblica.
------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 01/01/1989.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 3
-------
+## Art. 5.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 4
-------
+## Art. 6.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 5
-------
+## Art. 7.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 6
-------
+## Art. 8.
 
- DECRETO DECADUTO  
-
-Art. 7
-------
-
- DECRETO DECADUTO  
-
-Art. 8
-------
-
- DECRETO DECADUTO  
+DECRETO DECADUTO

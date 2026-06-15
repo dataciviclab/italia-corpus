@@ -1,154 +1,57 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 marzo 1998 n. 126
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 126
+data: 1998-03-23
+titolo: "Regolamento recante norme per l'attuazione della direttiva 94/9/CE in materia di apparecchi e sistemi di protezione destinati ad essere utilizzati in atmosfera potenzialmente esplosiva."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1998-03-23;126
+codice_redazionale: 098G0170
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 marzo 1998 n. 126
-============================================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 19 MAGGIO 2016, N. 85))
 
-Regolamento recante norme per l'attuazione della direttiva 94/9/CE in materia di apparecchi e sistemi di protezione destinati ad essere utilizzati in atmosfera potenzialmente esplosiva.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 19-5-1998
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 19 MAGGIO 2016, N. 85))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 MAGGIO 2016, N. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-19;85)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 19 MAGGIO 2016, N. 85))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 MAGGIO 2016, N. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-19;85)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 19 MAGGIO 2016, N. 85))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 MAGGIO 2016, N. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-19;85)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 19 MAGGIO 2016, N. 85))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 MAGGIO 2016, N. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-19;85)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 19 MAGGIO 2016, N. 85))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 MAGGIO 2016, N. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-19;85)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 19 MAGGIO 2016, N. 85))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 MAGGIO 2016, N. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-19;85)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 19 MAGGIO 2016, N. 85))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 MAGGIO 2016, N. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-19;85)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 19 MAGGIO 2016, N. 85))
 
-Art. 8
-------
+## Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 MAGGIO 2016, N. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-19;85)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 19 MAGGIO 2016, N. 85))
 
-Art. 9
-------
+## Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 MAGGIO 2016, N. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-19;85)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 19 MAGGIO 2016, N. 85))
 
-Art. 10
--------
+## Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 MAGGIO 2016, N. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-19;85)))
-
-Art. 11
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 MAGGIO 2016, N. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-19;85)))
-
-Art. 12
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 MAGGIO 2016, N. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-19;85)))
-
-Allegato I
-
- Allegato I   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 MAGGIO 2016, N. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-19;85)))
-
-Allegato II
-
- Allegato II   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 MAGGIO 2016, N. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-19;85)))
-
-Allegato III
-
- Allegato III   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 MAGGIO 2016, N. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-19;85)))
-
-Allegato IV
-
- Allegato IV   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 MAGGIO 2016, N. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-19;85)))
-
-Allegato V
-
- Allegato V   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 MAGGIO 2016, N. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-19;85)))
-
-Allegato VI
-
- Allegato VI   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 MAGGIO 2016, N. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-19;85)))
-
-Allegato VII
-
- Allegato VII   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 MAGGIO 2016, N. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-19;85)))
-
-Allegato VIII
-
- Allegato VIII   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 MAGGIO 2016, N. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-19;85)))
-
-Allegato IX
-
- Allegato IX   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 MAGGIO 2016, N. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-19;85)))
-
-Allegato X
-
- Allegato X   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 MAGGIO 2016, N. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-19;85)))
-
-Allegato XI
-
- Allegato XI   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 MAGGIO 2016, N. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-19;85)))
-
-Allegato XII
-
- Allegato XII   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 MAGGIO 2016, N. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-19;85)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 19 MAGGIO 2016, N. 85))

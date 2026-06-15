@@ -1,30 +1,25 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 aprile 1990 n. 78
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 78
+data: 1990-04-03
+titolo: "Regolamento di attuazione dell'art. 28, comma 5, della legge 25 febbraio 1987, n. 67, concernente contributi straordinari all'editoria speciale periodica per non vedenti."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1990-04-03;78
+codice_redazionale: 090G0119
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 aprile 1990 n. 78
-============================================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MAGGIO 2017, N. 70))
 
-Regolamento di attuazione dell'art. 28, comma 5, della legge 25 febbraio 1987, n. 67, concernente contributi straordinari all'editoria speciale periodica per non vedenti.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 4/5/1990
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MAGGIO 2017, N. 70))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MAGGIO 2017, N. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-15;70)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MAGGIO 2017, N. 70))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MAGGIO 2017, N. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-15;70)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MAGGIO 2017, N. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-15;70)))
-
-Art. 4
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MAGGIO 2017, N. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-15;70)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MAGGIO 2017, N. 70))

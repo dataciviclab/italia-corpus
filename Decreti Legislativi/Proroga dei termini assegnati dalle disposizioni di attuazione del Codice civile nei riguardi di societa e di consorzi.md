@@ -1,18 +1,17 @@
-DECRETO LEGISLATIVO 25 marzo 1948 n. 484
+---
+tipo: DECRETO LEGISLATIVO
+numero: 484
+data: 1948-03-25
+titolo: "Proroga dei termini assegnati dalle disposizioni di attuazione del Codice civile nei riguardi di societa' e di consorzi."
+urn: urn:nir:stato:decreto.legislativo:1948-03-25;484
+codice_redazionale: 048U0484
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 25 marzo 1948 n. 484
-========================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Proroga dei termini assegnati dalle disposizioni di attuazione del Codice civile nei riguardi di societa' e di consorzi.
-------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

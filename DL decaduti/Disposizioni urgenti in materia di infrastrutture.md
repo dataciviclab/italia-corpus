@@ -1,45 +1,37 @@
-DECRETO-LEGGE 17 agosto 2005 n. 163
+---
+tipo: DECRETO-LEGGE
+numero: 163
+data: 2005-08-17
+titolo: "Disposizioni urgenti in materia di infrastrutture."
+urn: urn:nir:stato:decreto.legge:2005-08-17;163
+codice_redazionale: 005G0197
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 17 agosto 2005 n. 163
-===================================
+DECRETO DECADUTO
 
-Disposizioni urgenti in materia di infrastrutture.
---------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 19-8-2005.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 3
-------
+## Art. 5.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 4
-------
+## Art. 6.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 5
-------
+## Art. 7.
 
- DECRETO DECADUTO  
-
-Art. 6
-------
-
- DECRETO DECADUTO  
-
-Art. 7
-------
-
- DECRETO DECADUTO  
+DECRETO DECADUTO

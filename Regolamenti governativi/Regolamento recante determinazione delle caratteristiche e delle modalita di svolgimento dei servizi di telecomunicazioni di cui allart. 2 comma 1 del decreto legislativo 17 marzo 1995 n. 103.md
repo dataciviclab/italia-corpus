@@ -1,162 +1,113 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 settembre 1995 n. 420
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 420
+data: 1995-09-04
+titolo: "Regolamento recante determinazione delle caratteristiche e delle modalita' di svolgimento dei servizi di telecomunicazioni di cui all'art. 2, comma 1, del decreto legislativo 17 marzo 1995, n. 103."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1995-09-04;420
+codice_redazionale: 095G0463
+vigente: true
+---
 
+## SERVIZI LIBERALIZZATI DI TELECOMUNICAZIONI
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 settembre 1995 n. 420
-================================================================
+Capo I
 
-Regolamento recante determinazione delle caratteristiche e delle modalita' di svolgimento dei servizi di telecomunicazioni di cui all'art. 2, comma 1, del decreto legislativo 17 marzo 1995, n. 103.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del decreto: 28-10-1995
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259 ))
 
-CAPO I Capo I SERVIZI LIBERALIZZATI DI TELECOMUNICAZIONI
---------------------------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259 ))
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259) ))
+### Art. 3.
 
-### Art. 2
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259) ))
+## DISPOSIZIONI AMMINISTRATIVE GENERALI
 
-### Art. 3
+Capo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259) ))
+### Art. 4.
 
-CAPO II Capo II DISPOSIZIONI AMMINISTRATIVE GENERALI
-----------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259 ))
 
-### Art. 4
+### Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259) ))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259 ))
 
-### Art. 5
+### Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259) ))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259 ))
 
-### Art. 6
+### Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259) ))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259 ))
 
-### Art. 7
+### Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259) ))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259 ))
 
-### Art. 8
+### Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259) ))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259 ))
 
-### Art. 9
+### Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259) ))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259 ))
 
-### Art. 10
+### Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259) ))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259 ))
 
-### Art. 11
+### Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259) ))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259 ))
 
-### Art. 12
+## VIDEOTEX E AUDIOTEX
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259) ))
+Capo III
 
-CAPO III Capo III VIDEOTEX E AUDIOTEX
--------------------------------------
+### Art. 13.
 
-### Art. 13
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259) ))
+### Art. 14.
 
-### Art. 14
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259) ))
+### Art. 15.
 
-### Art. 15
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259) ))
+## PRESCRIZIONI TECNICHE Sezione I - Trasmissione dati
 
-CAPO IV Capo IV PRESCRIZIONI TECNICHE Sezione I - Trasmissione dati
--------------------------------------------------------------------
+Capo IV
 
-### Art. 16
+### Art. 16.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259) ))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259 ))
 
-CAPO V Capo IV PRESCRIZIONI TECNICHE Sezione II - Gruppo chiuso di utenti
--------------------------------------------------------------------------
+## PRESCRIZIONI TECNICHE Sezione II - Gruppo chiuso di utenti
 
-### Art. 17
+Capo IV
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259) ))
+### Art. 17.
 
-CAPO VI Capo V DISPOSIZIONI VARIE
----------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259 ))
 
-### Art. 18
+## DISPOSIZIONI VARIE
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259) ))
+Capo V
 
-### Art. 19
+### Art. 18.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259) ))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259 ))
 
-### Art. 20
+### Art. 19.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259) ))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259 ))
 
-Allegato A
+### Art. 20.
 
- ALLEGATO A   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259)))
-
-Allegato B
-
- ALLEGATO B   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259)))
-
-Allegato C
-
- ALLEGATO C   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259)))
-
-Allegato D
-
- ALLEGATO D   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259)))
-
-Allegato E
-
- ALLEGATO E   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259)))
-
-Allegato F
-
- ALLEGATO F   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259)))
-
-Allegato G
-
- ALLEGATO G   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259)))
-
-Allegato H
-
- ALLEGATO H   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259)))
-
-Allegato I
-
- ALLEGATO I   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259 ))

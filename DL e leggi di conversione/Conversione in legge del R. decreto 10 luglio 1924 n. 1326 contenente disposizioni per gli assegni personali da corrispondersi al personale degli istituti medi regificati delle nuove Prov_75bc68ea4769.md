@@ -1,16 +1,14 @@
-LEGGE 25 giugno 1925 n. 1168
+---
+tipo: LEGGE
+numero: 1168
+data: 1925-06-25
+titolo: "Conversione in legge del R. decreto 10 luglio 1924, n. 1326, contenente disposizioni per gli assegni personali da corrispondersi al personale degli istituti medi regificati delle nuove Provincie. (025U1168)"
+urn: urn:nir:stato:legge:1925-06-25;1168
+codice_redazionale: 025U1168
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 25 giugno 1925 n. 1168
-============================
-
-Conversione in legge del R. decreto 10 luglio 1924, n. 1326, contenente disposizioni per gli assegni personali da corrispondersi al personale degli istituti medi regificati delle nuove Provincie. (025U1168)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/07/1925
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

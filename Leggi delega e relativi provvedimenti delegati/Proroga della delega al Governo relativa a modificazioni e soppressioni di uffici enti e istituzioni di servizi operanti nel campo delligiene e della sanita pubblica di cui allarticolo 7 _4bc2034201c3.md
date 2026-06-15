@@ -1,13 +1,13 @@
-LEGGE 10 ottobre 1960 n. 1236
+---
+tipo: LEGGE
+numero: 1236
+data: 1960-10-10
+titolo: "Proroga della delega al Governo relativa a modificazioni e soppressioni di uffici, enti e istituzioni di servizi operanti nel campo dell'igiene e della sanita' pubblica di cui all'articolo 7 della legge 13 marzo 1958, n. 296."
+urn: urn:nir:stato:legge:1960-10-10;1236
+codice_redazionale: 060U1236
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 10 ottobre 1960 n. 1236
-=============================
-
-Proroga della delega al Governo relativa a modificazioni e soppressioni di uffici, enti e istituzioni di servizi operanti nel campo dell'igiene e della sanita' pubblica di cui all'articolo 7 della legge 13 marzo 1958, n. 296.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N.112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))  
+((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N.112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20economico%20la%20semplificazione%20la%20competitivita%20la%20stabilizzazion_29f97015e2f4.md)))

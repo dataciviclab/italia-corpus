@@ -1,100 +1,81 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 2021 n. 214
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 214
+data: 2021-10-29
+titolo: "Regolamento recante norme per l'organizzazione e il funzionamento degli uffici dell'Avvocatura dello Stato. (21G00237)"
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2021-10-29;214
+codice_redazionale: 21G00237
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 2021 n. 214
-==============================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 29 NOVEMBRE 2023, N. 210))
 
-Regolamento recante norme per l'organizzazione e il funzionamento degli uffici dell'Avvocatura dello Stato. (21G00237)
-----------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 01/01/2022
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 29 NOVEMBRE 2023, N. 210))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 29 NOVEMBRE 2023, N. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-11-29;210)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 29 NOVEMBRE 2023, N. 210))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 29 NOVEMBRE 2023, N. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-11-29;210)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 29 NOVEMBRE 2023, N. 210))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 29 NOVEMBRE 2023, N. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-11-29;210)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 29 NOVEMBRE 2023, N. 210))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 29 NOVEMBRE 2023, N. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-11-29;210)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 29 NOVEMBRE 2023, N. 210))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 29 NOVEMBRE 2023, N. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-11-29;210)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 29 NOVEMBRE 2023, N. 210))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 29 NOVEMBRE 2023, N. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-11-29;210)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 29 NOVEMBRE 2023, N. 210))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 29 NOVEMBRE 2023, N. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-11-29;210)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 29 NOVEMBRE 2023, N. 210))
 
-Art. 8
-------
+## Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 29 NOVEMBRE 2023, N. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-11-29;210)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 29 NOVEMBRE 2023, N. 210))
 
-Art. 9
-------
+## Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 29 NOVEMBRE 2023, N. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-11-29;210)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 29 NOVEMBRE 2023, N. 210))
 
-Art. 10
--------
+## Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 29 NOVEMBRE 2023, N. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-11-29;210)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 29 NOVEMBRE 2023, N. 210))
 
-Art. 11
--------
+## Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 29 NOVEMBRE 2023, N. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-11-29;210)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 29 NOVEMBRE 2023, N. 210))
 
-Art. 12
--------
+## Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 29 NOVEMBRE 2023, N. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-11-29;210)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 29 NOVEMBRE 2023, N. 210))
 
-Art. 13
--------
+## Art. 15.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 29 NOVEMBRE 2023, N. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-11-29;210)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 29 NOVEMBRE 2023, N. 210))
 
-Art. 14
--------
+## Art. 16.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 29 NOVEMBRE 2023, N. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-11-29;210)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 29 NOVEMBRE 2023, N. 210))
 
-Art. 15
--------
+## Art. 17.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 29 NOVEMBRE 2023, N. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-11-29;210)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 29 NOVEMBRE 2023, N. 210))
 
-Art. 16
--------
+## Art. 18.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 29 NOVEMBRE 2023, N. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-11-29;210)))
-
-Art. 17
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 29 NOVEMBRE 2023, N. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-11-29;210)))
-
-Art. 18
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 29 NOVEMBRE 2023, N. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-11-29;210)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 29 NOVEMBRE 2023, N. 210))

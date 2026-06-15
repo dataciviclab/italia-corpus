@@ -1,60 +1,33 @@
-DECRETO-LEGGE 09 settembre 1987 n. 373
+---
+tipo: DECRETO-LEGGE
+numero: 373
+data: 1987-09-09
+titolo: "Interventi urgenti in materia di difesa del suolo."
+urn: urn:nir:stato:decreto.legge:1987-09-09;373
+codice_redazionale: 087U0373
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 09 settembre 1987 n. 373
-======================================
+DECRETO DECADUTO
 
-Interventi urgenti in materia di difesa del suolo.
---------------------------------------------------
+## Art. 2.
 
-Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 3
-------
+## Art. 5.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 4
-------
+## Art. 6.
 
- DECRETO DECADUTO  
-
-Art. 5
-------
-
- DECRETO DECADUTO  
-
-Art. 6
-------
-
- DECRETO DECADUTO  
-
-Tabella A
-
- TABELLA A   
-DECRETO DECADUTO   
-
-Tabella B
-
- TABELLA B   
-DECRETO DECADUTO   
-
-Tabella C
-
- TABELLA C   
-DECRETO DECADUTO   
-
-Tabella D
-
- TABELLA D   
-DECRETO DECADUTO   
+DECRETO DECADUTO

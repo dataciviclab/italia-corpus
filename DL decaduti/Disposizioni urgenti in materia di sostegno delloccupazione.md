@@ -1,90 +1,59 @@
-DECRETO-LEGGE 22 novembre 1990 n. 337
+---
+tipo: DECRETO-LEGGE
+numero: 337
+data: 1990-11-22
+titolo: "Disposizioni urgenti in materia di sostegno dell'occupazione."
+urn: urn:nir:stato:decreto.legge:1990-11-22;337
+codice_redazionale: 090G0388
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 22 novembre 1990 n. 337
-=====================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 1 GIUGNO 1991, N. 169](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20marzo%201991%20n.%20108%20recante%20disposizioni%20urgenti%20in%20materia%20di%20sostegno%20delloccupazione.md)
 
-Disposizioni urgenti in materia di sostegno dell'occupazione.
--------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 23/11/1990.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 1 GIUGNO 1991, N. 169](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20marzo%201991%20n.%20108%20recante%20disposizioni%20urgenti%20in%20materia%20di%20sostegno%20delloccupazione.md)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 1 GIUGNO 1991, N. 169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 1 GIUGNO 1991, N. 169](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20marzo%201991%20n.%20108%20recante%20disposizioni%20urgenti%20in%20materia%20di%20sostegno%20delloccupazione.md)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 1 GIUGNO 1991, N. 169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 1 GIUGNO 1991, N. 169](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20marzo%201991%20n.%20108%20recante%20disposizioni%20urgenti%20in%20materia%20di%20sostegno%20delloccupazione.md)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 1 GIUGNO 1991, N. 169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 1 GIUGNO 1991, N. 169](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20marzo%201991%20n.%20108%20recante%20disposizioni%20urgenti%20in%20materia%20di%20sostegno%20delloccupazione.md)
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 1 GIUGNO 1991, N. 169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 1 GIUGNO 1991, N. 169](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20marzo%201991%20n.%20108%20recante%20disposizioni%20urgenti%20in%20materia%20di%20sostegno%20delloccupazione.md)
 
-Art. 5
-------
+## Art. 7.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 1 GIUGNO 1991, N. 169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 1 GIUGNO 1991, N. 169](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20marzo%201991%20n.%20108%20recante%20disposizioni%20urgenti%20in%20materia%20di%20sostegno%20delloccupazione.md)
 
-Art. 6
-------
+## Art. 8.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 1 GIUGNO 1991, N. 169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 1 GIUGNO 1991, N. 169](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20marzo%201991%20n.%20108%20recante%20disposizioni%20urgenti%20in%20materia%20di%20sostegno%20delloccupazione.md)
 
-Art. 7
-------
+## Art. 9.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 1 GIUGNO 1991, N. 169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 1 GIUGNO 1991, N. 169](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20marzo%201991%20n.%20108%20recante%20disposizioni%20urgenti%20in%20materia%20di%20sostegno%20delloccupazione.md)
 
-Art. 8
-------
+## Art. 10.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 1 GIUGNO 1991, N. 169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
-  
-
-Art. 9
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 1 GIUGNO 1991, N. 169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
-  
-
-Art. 10
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 1 GIUGNO 1991, N. 169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 1 GIUGNO 1991, N. 169](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20marzo%201991%20n.%20108%20recante%20disposizioni%20urgenti%20in%20materia%20di%20sostegno%20delloccupazione.md)

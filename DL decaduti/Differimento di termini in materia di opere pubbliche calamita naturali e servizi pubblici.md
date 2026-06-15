@@ -1,30 +1,25 @@
-DECRETO-LEGGE 09 gennaio 1989 n. 2
+---
+tipo: DECRETO-LEGGE
+numero: 2
+data: 1989-01-09
+titolo: "Differimento di termini in materia di opere pubbliche, calamita' naturali e servizi pubblici."
+urn: urn:nir:stato:decreto.legge:1989-01-09;2
+codice_redazionale: 089G0012
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 09 gennaio 1989 n. 2
-==================================
+DECRETO DECADUTO
 
-Differimento di termini in materia di opere pubbliche, calamita' naturali e servizi pubblici.
----------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 10/01/1989.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
- DECRETO DECADUTO  
-
-Art. 3
-------
-
- DECRETO DECADUTO  
-
-Art. 4
-------
-
- DECRETO DECADUTO  
+DECRETO DECADUTO

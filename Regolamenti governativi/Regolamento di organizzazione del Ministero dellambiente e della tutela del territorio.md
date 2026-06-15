@@ -1,73 +1,69 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 2001 n. 178
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 178
+data: 2001-03-27
+titolo: "Regolamento di organizzazione del Ministero dell'ambiente e della tutela del territorio."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2001-03-27;178
+codice_redazionale: 001G0238
+vigente: true
+---
 
+## Attribuzione dei Dipartimenti e altri organismi
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 2001 n. 178
-============================================================
+Capo I
 
-Regolamento di organizzazione del Ministero dell'ambiente e della tutela del territorio.
-----------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del decreto: 2-6-2001
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 17 GIUGNO 2003, N. 261))
 
-CAPO I Capo I Attribuzione dei Dipartimenti e altri organismi
--------------------------------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 17 GIUGNO 2003, N. 261))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 17 GIUGNO 2003, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-06-17;261)))
+### Art. 3.
 
-### Art. 2
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 17 GIUGNO 2003, N. 261))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 17 GIUGNO 2003, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-06-17;261)))
+## Articolazione dei Dipartimenti
 
-### Art. 3
+Capo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 17 GIUGNO 2003, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-06-17;261)))
+### Art. 4.
 
-CAPO II Capo II Articolazione dei Dipartimenti
-----------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 17 GIUGNO 2003, N. 261))
 
-### Art. 4
+### Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 17 GIUGNO 2003, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-06-17;261)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 17 GIUGNO 2003, N. 261))
 
-### Art. 5
+### Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 17 GIUGNO 2003, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-06-17;261)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 17 GIUGNO 2003, N. 261))
 
-### Art. 6
+### Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 17 GIUGNO 2003, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-06-17;261)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 17 GIUGNO 2003, N. 261))
 
-### Art. 7
+## Dotazione organica e uffici di diretta collaborazione
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 17 GIUGNO 2003, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-06-17;261)))
+Capo III
 
-CAPO III Capo III Dotazione organica e uffici di diretta collaborazione
------------------------------------------------------------------------
+### Art. 8.
 
-### Art. 8
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 17 GIUGNO 2003, N. 261))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 17 GIUGNO 2003, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-06-17;261)))
+### Art. 9.
 
-### Art. 9
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 17 GIUGNO 2003, N. 261))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 17 GIUGNO 2003, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-06-17;261)))
+### Art. 10.
 
-### Art. 10
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 17 GIUGNO 2003, N. 261))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 17 GIUGNO 2003, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-06-17;261)))
+### Art. 11.
 
-### Art. 11
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 17 GIUGNO 2003, N. 261))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 17 GIUGNO 2003, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-06-17;261)))
+### Art. 12.
 
-### Art. 12
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 17 GIUGNO 2003, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-06-17;261)))
-
-Allegato
-
- Allegato   
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 17 GIUGNO 2003, N. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-06-17;261)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 17 GIUGNO 2003, N. 261))

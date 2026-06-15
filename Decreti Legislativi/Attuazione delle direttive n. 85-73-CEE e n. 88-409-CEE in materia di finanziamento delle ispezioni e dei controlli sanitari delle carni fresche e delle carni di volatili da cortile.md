@@ -1,92 +1,61 @@
-DECRETO LEGISLATIVO 15 gennaio 1992 n. 51
+---
+tipo: DECRETO LEGISLATIVO
+numero: 51
+data: 1992-01-15
+titolo: "Attuazione delle direttive n. 85/73/CEE e n. 88/409/CEE in materia di finanziamento delle ispezioni e dei controlli sanitari delle carni fresche e delle carni di volatili da cortile."
+urn: urn:nir:stato:decreto.legislativo:1992-01-15;51
+codice_redazionale: 092G0057
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 15 gennaio 1992 n. 51
-=========================================
+(( ARTICOLO ABROGATO DAL D.LGS. 19 NOVEMBRE 1998, N. 432 ))
 
-Attuazione delle direttive n. 85/73/CEE e n. 88/409/CEE in materia di finanziamento delle ispezioni e dei controlli sanitari delle carni fresche e delle carni di volatili da cortile.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 18/2/1992
+(( ARTICOLO ABROGATO DAL D.LGS. 19 NOVEMBRE 1998, N. 432 ))
 
-Art. 1
-------
+## Art. 3.
 
-(( ARTICOLO ABROGATO DAL [D.LGS. 19 NOVEMBRE 1998, N. 432](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-11-19;432) ))
+(( ARTICOLO ABROGATO DAL D.LGS. 19 NOVEMBRE 1998, N. 432 ))
 
-Art. 2
-------
+## Art. 4.
 
-(( ARTICOLO ABROGATO DAL [D.LGS. 19 NOVEMBRE 1998, N. 432](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-11-19;432) ))
+(( ARTICOLO ABROGATO DAL D.LGS. 19 NOVEMBRE 1998, N. 432 ))
 
-Art. 3
-------
+## Art. 5.
 
-(( ARTICOLO ABROGATO DAL [D.LGS. 19 NOVEMBRE 1998, N. 432](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-11-19;432) ))
+(( ARTICOLO ABROGATO DAL D.LGS. 19 NOVEMBRE 1998, N. 432 ))
 
-Art. 4
-------
+## Art. 6.
 
-(( ARTICOLO ABROGATO DAL [D.LGS. 19 NOVEMBRE 1998, N. 432](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-11-19;432) ))
+(( ARTICOLO ABROGATO DAL D.LGS. 19 NOVEMBRE 1998, N. 432 ))
 
-Art. 5
-------
+## Art. 7.
 
-(( ARTICOLO ABROGATO DAL [D.LGS. 19 NOVEMBRE 1998, N. 432](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-11-19;432) ))
+(( ARTICOLO ABROGATO DAL D.LGS. 19 NOVEMBRE 1998, N. 432 ))
 
-Art. 6
-------
+## Art. 8.
 
-(( ARTICOLO ABROGATO DAL [D.LGS. 19 NOVEMBRE 1998, N. 432](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-11-19;432) ))
+(( ARTICOLO ABROGATO DAL D.LGS. 19 NOVEMBRE 1998, N. 432 ))
 
-Art. 7
-------
+## Art. 9.
 
-(( ARTICOLO ABROGATO DAL [D.LGS. 19 NOVEMBRE 1998, N. 432](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-11-19;432) ))
+(( ARTICOLO ABROGATO DAL D.LGS. 19 NOVEMBRE 1998, N. 432 ))
 
-Art. 8
-------
+## Art. 10.
 
-(( ARTICOLO ABROGATO DAL [D.LGS. 19 NOVEMBRE 1998, N. 432](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-11-19;432) ))
+(( ARTICOLO ABROGATO DAL D.LGS. 19 NOVEMBRE 1998, N. 432 ))
 
-Art. 9
-------
+## Art. 11.
 
-(( ARTICOLO ABROGATO DAL [D.LGS. 19 NOVEMBRE 1998, N. 432](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-11-19;432) ))
+1.
 
-Art. 10
--------
-
-(( ARTICOLO ABROGATO DAL [D.LGS. 19 NOVEMBRE 1998, N. 432](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-11-19;432) ))
-
-Art. 11
--------
-
-1. Sono abrogati gli [articoli 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-20;3298~art35) e [40, lettera c), del regio decreto 20 dicembre 1928, n. 3298](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-20;3298~art40-letc).
+Sono abrogati gli [articoli 35](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20vigilanza%20sanitaria%20delle%20carni.%20028U3298.md) e [40, lettera c), del regio decreto 20 dicembre 1928, n. 3298](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20vigilanza%20sanitaria%20delle%20carni.%20028U3298.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 gennaio 1992
+Dato a Roma, addi' 15 gennaio 1992
 
-COSSIGA
-
-ANDREOTTI, Presidente del Consiglio dei Ministri
-
-ROMITA, Ministro per il coordinamento delle politiche comunitarie
-
-DE MICHELIS, Ministro degli affari esteri
-
-MARTELLI, Ministro di grazia e giustizia
-
-CARLI, Ministro del tesoro
-
-GORIA, Ministro dell'agricoltura e delle foreste
-
-BODRATO, Ministro dell'industria, del commercio e dell'artigianato
-
-DE LORENZO, Ministro della sanita'
-
-MASORNAZZOLI, Ministro per le riforme istituzionali e gli affari regionali
-
-Visto, il Guardasigilli: MARTELLI
+COSSIGA ANDREOTTI, Presidente del Consiglio dei Ministri ROMITA, Ministro per il coordinamento delle politiche comunitarie DE MICHELIS, Ministro degli affari esteri MARTELLI, Ministro di grazia e giustizia CARLI, Ministro del tesoro GORIA, Ministro dell'agricoltura e delle foreste BODRATO, Ministro dell'industria, del commercio e dell'artigianato DE LORENZO, Ministro della sanita' MASORNAZZOLI, Ministro per le riforme istituzionali e gli affari regionali Visto, il Guardasigilli: MARTELLI

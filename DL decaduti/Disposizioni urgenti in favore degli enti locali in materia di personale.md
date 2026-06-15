@@ -1,34 +1,24 @@
-DECRETO-LEGGE 15 giugno 1994 n. 376
+---
+tipo: DECRETO-LEGGE
+numero: 376
+data: 1994-06-15
+titolo: "Disposizioni urgenti in favore degli enti locali in materia di personale."
+urn: urn:nir:stato:decreto.legge:1994-06-15;376
+codice_redazionale: 094G0433
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 15 giugno 1994 n. 376
-===================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 23 DICEMBRE 1996, N. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md)
 
-Disposizioni urgenti in favore degli enti locali in materia di personale.
--------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 17/06/1994.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 23 DICEMBRE 1996, N. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 23 DICEMBRE 1996, N. 662](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662)
-  
-
-Art. 2
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 23 DICEMBRE 1996, N. 662](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662)
-  
-
-Art. 3
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 23 DICEMBRE 1996, N. 662](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 23 DICEMBRE 1996, N. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md)

@@ -1,13 +1,13 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1977 n. 781
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 781
+data: 1977-09-05
+titolo: "Regolamento di esecuzione dell'art. 101, quarto comma, del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-09-05;781
+codice_redazionale: 077U0781
+vigente: true
+---
 
+## Articolo unico
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1977 n. 781
-================================================================
-
-Regolamento di esecuzione dell'art. 101, quarto comma, del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18.
--------------------------------------------------------------------------------------------------------------------------
-
-Articolo unico
---------------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 24 MARZO 2000, N.85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-03-24;85)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 24 MARZO 2000, N.85))

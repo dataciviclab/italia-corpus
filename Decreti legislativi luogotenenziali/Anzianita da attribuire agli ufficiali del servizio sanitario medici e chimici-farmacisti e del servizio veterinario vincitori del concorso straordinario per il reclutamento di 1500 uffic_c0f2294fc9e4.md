@@ -1,20 +1,19 @@
-DECRETO LEGISLATIVO LUOGOTENENZIALE 28 giugno 1945 n. 444
+---
+tipo: DECRETO LEGISLATIVO LUOGOTENENZIALE
+numero: 444
+data: 1945-06-28
+titolo: "Anzianita' da attribuire agli ufficiali del servizio sanitario (medici e chimici-farmacisti) e del servizio veterinario, vincitori del concorso straordinario per il reclutamento di 1500 ufficiali subalterni in servizio permanente effettivo delle varie armi e servizi del Regio esercito. (045U0444)"
+urn: urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-28;444
+codice_redazionale: 045U0444
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO LUOGOTENENZIALE 28 giugno 1945 n. 444
-=========================================================
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Anzianita' da attribuire agli ufficiali del servizio sanitario (medici e chimici-farmacisti) e del servizio veterinario, vincitori del concorso straordinario per il reclutamento di 1500 ufficiali subalterni in servizio permanente effettivo delle varie armi e servizi del Regio esercito. (045U0444)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

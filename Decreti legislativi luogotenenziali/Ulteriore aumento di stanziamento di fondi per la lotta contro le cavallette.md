@@ -1,20 +1,19 @@
-DECRETO LEGISLATIVO LUOGOTENENZIALE 04 maggio 1946 n. 316
+---
+tipo: DECRETO LEGISLATIVO LUOGOTENENZIALE
+numero: 316
+data: 1946-05-04
+titolo: "Ulteriore aumento di stanziamento di fondi per la lotta contro le cavallette."
+urn: urn:nir:stato:decreto.legislativo.luogotenenziale:1946-05-04;316
+codice_redazionale: 046U0316
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO LUOGOTENENZIALE 04 maggio 1946 n. 316
-=========================================================
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI, DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Ulteriore aumento di stanziamento di fondi per la lotta contro le cavallette.
------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI, DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI, DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI, DALLA L. 18 FEBBRAIO 2009, N. 9))

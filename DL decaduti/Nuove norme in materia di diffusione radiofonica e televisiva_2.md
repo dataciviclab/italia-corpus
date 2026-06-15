@@ -1,229 +1,233 @@
-DECRETO-LEGGE 22 gennaio 1975 n. 3
+---
+tipo: DECRETO-LEGGE
+numero: 3
+data: 1975-01-22
+titolo: "Nuove norme in materia di diffusione radiofonica e televisiva."
+urn: urn:nir:stato:decreto.legge:1975-01-22;3
+codice_redazionale: 075U0003
+vigente: true
+---
 
+## DEL SERVIZIO PUBBLICO DI DIFFUSIONE RADIOFONICA E TELEVISIVA
 
-DECRETO-LEGGE 22 gennaio 1975 n. 3
-==================================
+Titolo I
 
-Nuove norme in materia di diffusione radiofonica e televisiva.
---------------------------------------------------------------
+### Art. 1.
 
-Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-CAPO I Titolo I DEL SERVIZIO PUBBLICO DI DIFFUSIONE RADIOFONICA E TELEVISIVA
-----------------------------------------------------------------------------
+### Art. 2.
 
-### Art. 1
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 3.
 
-### Art. 2
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 4.
 
-### Art. 3
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 5.
 
-### Art. 4
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 6.
 
-### Art. 5
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 7.
 
-### Art. 6
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 8.
 
-### Art. 7
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 9.
 
-### Art. 8
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 10.
 
-### Art. 9
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 11.
 
-### Art. 10
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 12.
 
-### Art. 11
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 13.
 
-### Art. 12
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 14.
 
-### Art. 13
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 15.
 
-### Art. 14
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 16.
 
-### Art. 15
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 17.
 
-### Art. 16
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 18.
 
-### Art. 17
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 19.
 
-### Art. 18
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 20.
 
-### Art. 19
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 21.
 
-### Art. 20
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 22.
 
-### Art. 21
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 23.
 
-### Art. 22
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 24.
 
-### Art. 23
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 25.
 
-### Art. 24
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+## DEGLI IMPIANTI DI DIFFUSIONE SONORA E TELEVISIVA VIA CAVO
 
-### Art. 25
+Titolo II
 
- DECRETO DECADUTO  
+### Art. 26.
 
-CAPO II Titolo II DEGLI IMPIANTI DI DIFFUSIONE SONORA E TELEVISIVA VIA CAVO
----------------------------------------------------------------------------
+DECRETO DECADUTO
 
-### Art. 26
+### Art. 27.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-### Art. 27
+### Art. 28.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-### Art. 28
+### Art. 29.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-### Art. 29
+### Art. 30.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-### Art. 30
+### Art. 31.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-### Art. 31
+### Art. 32.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-### Art. 32
+### Art. 33.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-### Art. 33
+### Art. 34.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-### Art. 34
+### Art. 35.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-### Art. 35
+### Art. 36.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-### Art. 36
+### Art. 37.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-### Art. 37
+### Art. 38.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-### Art. 38
+### Art. 39.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-### Art. 39
+## DEGLI IMPIANTI RIPETITORI VIA ETERE PRIVATI DI PROGRAMMI SONORI E TELEVISIVI ESTERI E NAZIONALI
 
- DECRETO DECADUTO  
+Titolo III
 
-CAPO III Titolo III DEGLI IMPIANTI RIPETITORI VIA ETERE PRIVATI DI PROGRAMMI SONORI E TELEVISIVI ESTERI E NAZIONALI
--------------------------------------------------------------------------------------------------------------------
+### Art. 40.
 
-### Art. 40
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 41.
 
-### Art. 41
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 42.
 
-### Art. 42
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 43.
 
-### Art. 43
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 44.
 
-### Art. 44
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 45.
 
-### Art. 45
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 46.
 
-### Art. 46
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+## MODIFICHE AGLI ARTICOLI 1, 183 E 195 DEL TESTO UNICO DELLE DISPOSIZIONI LEGISLATIVE IN MATERIA POSTALE, DI BANCOPOSTA E DI TELECOMUNICAZIONI, APPROVATO CON DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 MARZO 1973, N. 156
 
-CAPO IV Titolo IV MODIFICHE AGLI ARTICOLI 1, 183 E 195 DEL TESTO UNICO DELLE DISPOSIZIONI LEGISLATIVE IN MATERIA POSTALE, DI BANCOPOSTA E DI TELECOMUNICAZIONI, APPROVATO CON DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 MARZO 1973, N. 156
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Titolo IV
 
-### Art. 47
+### Art. 47.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-CAPO V Titolo V DISPOSIZIONI TRANSITORIE E FINALI
--------------------------------------------------
+## DISPOSIZIONI TRANSITORIE E FINALI
 
-### Art. 48
+Titolo V
 
- DECRETO DECADUTO  
+### Art. 48.
 
-### Art. 49
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 49.
 
-### Art. 50
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 50.
 
-### Art. 51
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 51.
+
+DECRETO DECADUTO

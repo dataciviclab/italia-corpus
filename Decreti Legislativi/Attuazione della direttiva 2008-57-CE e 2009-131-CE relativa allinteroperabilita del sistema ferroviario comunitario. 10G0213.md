@@ -1,267 +1,189 @@
-DECRETO LEGISLATIVO 08 ottobre 2010 n. 191
+---
+tipo: DECRETO LEGISLATIVO
+numero: 191
+data: 2010-10-08
+titolo: "Attuazione della direttiva 2008/57/CE e 2009/131/CE relativa all'interoperabilita' del sistema ferroviario comunitario. (10G0213)"
+urn: urn:nir:stato:decreto.legislativo:2010-10-08;191
+codice_redazionale: 010G0213
+vigente: true
+---
 
+## Disposizioni generali
 
-DECRETO LEGISLATIVO 08 ottobre 2010 n. 191
-==========================================
+Capo I
 
-Attuazione della direttiva 2008/57/CE e 2009/131/CE relativa all'interoperabilita' del sistema ferroviario comunitario. (10G0213)
----------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del provvedimento: 20/11/2010
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 57))
 
-CAPO I Capo I Disposizioni generali
------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 57))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
+### Art. 3.
 
-### Art. 2
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 57))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
+## Specifiche tecniche di interoperabilita'
 
-### Art. 3
+Capo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
+### Art. 4.
 
-CAPO II Capo II Specifiche tecniche di interoperabilita'
---------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 57))
 
-### Art. 4
+### Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 57))
 
-### Art. 5
+### Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 57))
 
-### Art. 6
+### Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 57))
 
-### Art. 7
+### Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 57))
 
-### Art. 8
+## Componenti di interoperabilita'
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
+Capo III
 
-CAPO III Capo III Componenti di interoperabilita'
--------------------------------------------------
+### Art. 9.
 
-### Art. 9
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 57))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
+### Art. 10.
 
-### Art. 10
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 57))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
+### Art. 11.
 
-### Art. 11
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 57))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
+### Art. 12.
 
-### Art. 12
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 57))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
+### Art. 13.
 
-### Art. 13
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 57))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
+## Sottosistemi
 
-CAPO IV Capo IV Sottosistemi
-----------------------------
+Capo IV
 
-### Art. 14
+### Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 57))
 
-### Art. 15
+### Art. 15.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 57))
 
-### Art. 16
+### Art. 16.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 57))
 
-### Art. 17
+### Art. 17.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 57))
 
-### Art. 18
+### Art. 18.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 57))
 
-### Art. 19
+### Art. 19.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 57))
 
-CAPO V Capo V Veicoli
----------------------
+## Veicoli
 
-### Art. 20
+Capo V
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
+### Art. 20.
 
-### Art. 21
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 57))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
+### Art. 21.
 
-### Art. 22
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 57))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
+### Art. 22.
 
-### Art. 23
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 57))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
+### Art. 23.
 
-### Art. 24
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 57))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
+### Art. 24.
 
-### Art. 25
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 57))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
+### Art. 25.
 
-### Art. 26
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 57))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
+### Art. 26.
 
-CAPO VI Capo VI Organismi notificati
-------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 57))
 
-### Art. 27
+## Organismi notificati
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
+Capo VI
 
-### Art. 28
+### Art. 27.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 57))
 
-### Art. 29
+### Art. 28.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 57))
 
-### Art. 30
+### Art. 29.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 57))
 
-### Art. 31
+### Art. 30.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 57))
 
-CAPO VII Capo VII Registri della rete e dei veicoli
----------------------------------------------------
+### Art. 31.
 
-### Art. 32
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 57))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
+## Registri della rete e dei veicoli
 
-### Art. 33
+Capo VII
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
+### Art. 32.
 
-### Art. 34
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 57))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
+### Art. 33.
 
-### Art. 35
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 57))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
+### Art. 34.
 
-### Art. 36
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 57))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
+### Art. 35.
 
-### Art. 37
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 57))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
+### Art. 36.
 
-### Art. 38
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 57))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
+### Art. 37.
 
-Allegato I
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 57))
 
-Allegato I   
-  
+### Art. 38.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
-
-Allegato II
-
-Allegato II   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
-
-Allegato III
-
-Allegato III   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
-
-Allegato IV
-
-Allegato IV   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
-
-Allegato V
-
-Allegato V   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
-
-Allegato VI
-
-Allegato VI   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
-
-Allegato VII
-
-Allegato VII   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
-
-Allegato VIII
-
-Allegato VIII   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
-
-Allegato IX
-
-Allegato IX   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
-
-Allegato X
-
-Allegato X   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
-
-Allegato XI
-
-Allegato XI   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
-
-Allegato XII
-
-Allegato XII   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 MAGGIO 2019, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;57)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 57))

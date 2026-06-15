@@ -1,50 +1,34 @@
-DECRETO-LEGGE 23 gennaio 1993 n. 15
+---
+tipo: DECRETO-LEGGE
+numero: 15
+data: 1993-01-23
+titolo: "Disposizioni urgenti per il settore dell'elettronica."
+urn: urn:nir:stato:decreto.legge:1993-01-23;15
+codice_redazionale: 093G0045
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 23 gennaio 1993 n. 15
-===================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 22 MAGGIO 1993, N. 157](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2025%20marzo%201993%20n.%2079%20recante%20disposizioni%20urgenti%20per%20il%20settore%20dellelettronica.md)
 
-Disposizioni urgenti per il settore dell'elettronica.
------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 23-1-1993.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 22 MAGGIO 1993, N. 157](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2025%20marzo%201993%20n.%2079%20recante%20disposizioni%20urgenti%20per%20il%20settore%20dellelettronica.md)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 22 MAGGIO 1993, N. 157](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-05-22;157)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 22 MAGGIO 1993, N. 157](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2025%20marzo%201993%20n.%2079%20recante%20disposizioni%20urgenti%20per%20il%20settore%20dellelettronica.md)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 22 MAGGIO 1993, N. 157](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-05-22;157)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 22 MAGGIO 1993, N. 157](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2025%20marzo%201993%20n.%2079%20recante%20disposizioni%20urgenti%20per%20il%20settore%20dellelettronica.md)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 22 MAGGIO 1993, N. 157](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-05-22;157)
-  
-
-Art. 4
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 22 MAGGIO 1993, N. 157](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-05-22;157)
-  
-
-Art. 5
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 22 MAGGIO 1993, N. 157](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-05-22;157)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 22 MAGGIO 1993, N. 157](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2025%20marzo%201993%20n.%2079%20recante%20disposizioni%20urgenti%20per%20il%20settore%20dellelettronica.md)

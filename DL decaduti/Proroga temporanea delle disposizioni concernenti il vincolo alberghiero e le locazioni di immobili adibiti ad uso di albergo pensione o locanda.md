@@ -1,20 +1,17 @@
-DECRETO-LEGGE 09 aprile 1951 n. 207
+---
+tipo: DECRETO-LEGGE
+numero: 207
+data: 1951-04-09
+titolo: "Proroga temporanea delle disposizioni concernenti il vincolo alberghiero e le locazioni di immobili adibiti ad uso di albergo, pensione o locanda."
+urn: urn:nir:stato:decreto.legge:1951-04-09;207
+codice_redazionale: 051U0207
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 09 aprile 1951 n. 207
-===================================
+DECRETO DECADUTO
 
-Proroga temporanea delle disposizioni concernenti il vincolo alberghiero e le locazioni di immobili adibiti ad uso di albergo, pensione o locanda.
---------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Decreto-Legge decaduto per mancata conversione.
-
-Art. 1
-------
-
- DECRETO DECADUTO  
-
-Art. 2
-------
-
- DECRETO DECADUTO  
+DECRETO DECADUTO

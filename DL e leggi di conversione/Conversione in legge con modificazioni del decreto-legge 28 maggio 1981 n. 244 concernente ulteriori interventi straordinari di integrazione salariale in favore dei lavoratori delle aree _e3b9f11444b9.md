@@ -1,42 +1,33 @@
-LEGGE 24 luglio 1981 n. 390
-
-
-LEGGE 24 luglio 1981 n. 390
-===========================
-
-Conversione in legge, con modificazioni, del decreto-legge 28 maggio 1981, n. 244, concernente ulteriori interventi straordinari di integrazione salariale in favore dei lavoratori delle aree del Mezzogiorno.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: LEGGE
+numero: 390
+data: 1981-07-24
+titolo: "Conversione in legge, con modificazioni, del decreto-legge 28 maggio 1981, n. 244, concernente ulteriori interventi straordinari di integrazione salariale in favore dei lavoratori delle aree del Mezzogiorno."
+urn: urn:nir:stato:legge:1981-07-24;390
+codice_redazionale: 081U0390
+vigente: true
+---
 
 La Camera dei deputati ed il Senato della Repubblica hanno approvato;
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-PROMULGA
---------
+PROMULGA la seguente legge:
 
-la seguente legge:
+## Articolo unico
 
-Articolo unico
---------------
-
-  
-E' convertito in legge il [decreto-legge 28 maggio 1981, n. 244](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-05-28;244), concernente ulteriori interventi straordinari di integrazione salariale in favore dei lavoratori delle aree del Mezzogiorno, con le seguenti modificazioni:  
-All'articolo 1, e' aggiunto, in fine, il seguente comma:  
-"Il trattamento di integrazione salariale straordinario di cui al [settimo comma dell'articolo 25 della legge 12 agosto 1977, n. 675](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-08-12;675~art25-com7), modificato dall'[articolo 2 della legge 27 luglio 1979, n. 301](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-07-27;301~art2), e' prorogato fino ad un massimo di sei mesi";  
-Dopo l'articolo 1, e' aggiunto il seguente:  
-"Art. 1-bis. - Le commissioni regionali per l'impiego, qualora non sia possibile o necessario istituire corsi di qualificazione e di riqualificazione professionale per i lavoratori che godono del trattamento straordinario della Cassa integrazione guadagni, di cui all'articolo 1, possono disporre l'utilizzazione temporanea dei lavoratori stessi, in attivita' non incompatibili con la loro professionalita', per opere o servizi di pubblica utilita', ovvero, quali istruttori, per iniziative di formazione professionale d'intesa con le amministrazioni pubbliche interessate. Tale utilizzazione non comporta, comunque, l'instaurazione di alcun tipo di rapporto di lavoro con queste ultime e deve cessare non appena sia terminato il periodo di godimento del predetto trattamento.  
-Il trattamento di integrazione salariale spettante ai lavoratori utilizzati nelle opere o nei servizi di cui al comma precedente e' elevato al novanta per cento con un importo massimo non superiore al salario o stipendio mensile che sarebbe stato percepito in costanza del rapporto di lavoro del singolo lavoratore.  
-I lavoratori che rifiutano di essere avviati ai corsi o non li frequentano regolarmente, ovvero rifiutano di essere utilizzati nelle opere o nei servizi di cui al presente articolo, decadono dal diritto al godimento del trattamento di integrazione salariale straordinario, nonche' da qualsiasi erogazione a carattere retributivo o previdenziale a carico dell'azienda, salvi i diritti gia' maturati.  
-I lavoratori avviati ad opere o servizi di pubblica utilita' hanno diritto all'astensione dal lavoro in tutti i casi di inesigibilita' della prestazione previsti dalla legge in relazione al rapporto di lavoro subordinato";  
-All'articolo 2, la cifra: "40 miliardi" e' sostituita dalla seguente: "48 miliardi".  
-  
+E' convertito in legge il [decreto-legge 28 maggio 1981, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-05-28;244), concernente ulteriori interventi straordinari di integrazione salariale in favore dei lavoratori delle aree del Mezzogiorno, con le seguenti modificazioni:
+ All'articolo 1, e' aggiunto, in fine, il seguente comma:
+ "Il trattamento di integrazione salariale straordinario di cui al [settimo comma dell'articolo 25 della legge 12 agosto 1977, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-08-12;675#art_25-com7), modificato dall'[articolo 2 della legge 27 luglio 1979, n. 301](Conversione%20in%20legge%20del%20decreto-legge%2026%20maggio%201979%20n.%20159%20concernente%20norme%20in%20materia%20di%20integrazione%20salariale%20a%20favore%20dei%20lavoratori%20delle%20aree%20del%20Mezzogiorno.md), e' prorogato fino ad un massimo di sei mesi";
+ Dopo l'articolo 1, e' aggiunto il seguente:
+ "Art. 1-bis. - Le commissioni regionali per l'impiego, qualora non sia possibile o necessario istituire corsi di qualificazione e di riqualificazione professionale per i lavoratori che godono del trattamento straordinario della Cassa integrazione guadagni, di cui all'articolo 1, possono disporre l'utilizzazione temporanea dei lavoratori stessi, in attivita' non incompatibili con la loro professionalita', per opere o servizi di pubblica utilita', ovvero, quali istruttori, per iniziative di formazione professionale d'intesa con le amministrazioni pubbliche interessate. Tale utilizzazione non comporta, comunque, l'instaurazione di alcun tipo di rapporto di lavoro con queste ultime e deve cessare non appena sia terminato il periodo di godimento del predetto trattamento.
+ Il trattamento di integrazione salariale spettante ai lavoratori utilizzati nelle opere o nei servizi di cui al comma precedente e' elevato al novanta per cento con un importo massimo non superiore al salario o stipendio mensile che sarebbe stato percepito in costanza del rapporto di lavoro del singolo lavoratore.
+ I lavoratori che rifiutano di essere avviati ai corsi o non li frequentano regolarmente, ovvero rifiutano di essere utilizzati nelle opere o nei servizi di cui al presente articolo, decadono dal diritto al godimento del trattamento di integrazione salariale straordinario, nonche' da qualsiasi erogazione a carattere retributivo o previdenziale a carico dell'azienda, salvi i diritti gia' maturati.
+ I lavoratori avviati ad opere o servizi di pubblica utilita' hanno diritto all'astensione dal lavoro in tutti i casi di inesigibilita' della prestazione previsti dalla legge in relazione al rapporto di lavoro subordinato";
+ All'articolo 2, la cifra: "40 miliardi" e' sostituita dalla seguente: "48 miliardi".
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data a San Rossore, addi' 24 luglio 1981
+Data a San Rossore, addi' 24 luglio 1981
 
-PERTINI SPADOLINI - DI GIESI - MARCORA - LA MALFA - ANDREATTA
-
-Visto, il Guardasigilli: DARIDA
+PERTINI SPADOLINI - DI GIESI - MARCORA - LA MALFA - ANDREATTA Visto, il Guardasigilli: DARIDA

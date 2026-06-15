@@ -1,32 +1,30 @@
-DECRETO MINISTERIALE 15 maggio 1993 n. 372
-
-
-DECRETO MINISTERIALE 15 maggio 1993 n. 372
-==========================================
-
-Regolamento concernente la tariffa per le prestazioni professionali dei periti agrari.
---------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 5-10-1993
+---
+tipo: DECRETO MINISTERIALE
+numero: 372
+data: 1993-05-15
+titolo: "Regolamento concernente la tariffa per le prestazioni professionali dei periti agrari."
+urn: urn:nir:ministero.grazia.e.giustizia:decreto.ministeriale:1993-05-15;372
+codice_redazionale: 093G0434
+vigente: true
+---
 
 IL MINISTRO DI GRAZIA E GIUSTIZIA
----------------------------------
 
 DI CONCERTO CON
 
 IL MINISTRO DELL'AGRICOLTURA E DELLE FORESTE
 
-Vista la [legge 28 marzo 1968, n. 434](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-28;434), e in particolare l'art. 61 che prevede l'approvazione da parte del Ministro di grazia e giustizia di concerto con il Ministro dell'agricoltura e delle foreste delle deliberazioni del consiglio dell'apposito Collegio nazionale concernenti la determinazione della tariffa degli onorari e delle indennita', nonche' dei criteri di rimborso delle spese spettanti ai periti agrari;
+Vista la [legge 28 marzo 1968, n. 434](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-28;434), e in particolare l'art. 61 che prevede l'approvazione da parte del Ministro di grazia e giustizia di concerto con il Ministro dell'agricoltura e delle foreste delle deliberazioni del consiglio dell'apposito Collegio nazionale concernenti la determinazione della tariffa degli onorari e delle indennita', nonche' dei criteri di rimborso delle spese spettanti ai periti agrari;
 
-Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3);
+Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
 Viste le deliberazioni del consiglio del Collegio nazionale dei periti agrari in data 12-13 aprile 1990 e 13 dicembre 1991;
 
-Visto il parere favorevole espresso dal Comitato interministeriale prezzi ai sensi dell'art. 14, penultimo comma, della [legge 22 dicembre 1984, n. 887](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-22;887);
+Visto il parere favorevole espresso dal Comitato interministeriale prezzi ai sensi dell'art. 14, penultimo comma, della [legge 22 dicembre 1984, n. 887](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201985.md);
 
 Udito il parere del Consiglio di Stato, reso nell'adunanza generale del 5 ottobre 1992;
 
-Vista la comunicazione alla Presidenza del Consiglio dei Ministri, ai sensi dell'[art. 17 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17);
+Vista la comunicazione alla Presidenza del Consiglio dei Ministri, ai sensi dell'[art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17);
 
 A D O T T A
 
@@ -36,1059 +34,1133 @@ TARIFFA PER LE PRESTAZIONI PROFESSIONALI
 
 DEI PERITI AGRARI
 
-Capo
-----
+Capo I NORME GENERALI
 
-I NORME GENERALI
+## NORME GENERALI
 
-CAPO I Capo I NORME GENERALI
-----------------------------
+Capo I
 
-### Art. 1
+### Art. 1. — Oggetto della tariffa
 
-Oggetto della tariffa
+1.
 
-1. La presente tariffa stabilisce i criteri per la determinazione degli onorari e delle indennita', e per la liquidazione delle spese spettanti al perito agrario per le prestazioni professionali.
+La presente tariffa stabilisce i criteri per la determinazione degli onorari e delle indennita', e per la liquidazione delle spese spettanti al perito agrario per le prestazioni professionali.
 
-AVVERTENZA:  
-Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.  
-Note alle premesse:  
-- La [legge n. 434/1968](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968;434) reca l'ordinamento della professione di perito agrario.  
-- Il [comma 3 dell'art. 17 della legge n. 400/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.  
-Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
+AVVERTENZA:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Note alle premesse:
+ - La [legge n. 434/1968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968;434) reca l'ordinamento della professione di perito agrario.
+ - Il [comma 3 dell'art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.
+ Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
 
-### Art. 2
+### Art. 2. — Circoscrizione e obbligatorieta' delle tariffe
 
-Circoscrizione e obbligatorieta' delle tariffe
+1.
 
-1. Il perito agrario e' tenuto ad applicare la presente tariffa ed e' soggetto, per quanto concerne la sua applicazione e la liquidazione degli onorari, alla vigilanza e disciplina del consiglio del collegio nel cui albo il professionista e' iscritto.
+Il perito agrario e' tenuto ad applicare la presente tariffa ed e' soggetto, per quanto concerne la sua applicazione e la liquidazione degli onorari, alla vigilanza e disciplina del consiglio del collegio nel cui albo il professionista e' iscritto.
 
-### Art. 3
+### Art. 3. — Liquidazione delle specifiche
 
-Liquidazione delle specifiche
+1.
 
-1. E' facolta' del perito agrario e del committente di chiedere al consiglio del collegio la revisione e liquidazione delle specifiche.  
+E' facolta' del perito agrario e del committente di chiedere al consiglio del collegio la revisione e liquidazione delle specifiche.
 La specifica deve essere accompagnata dagli elaborati relativi alla prestazione e, occorrendo, dai documenti e chiarimenti idonei alla valutazione ed al controllo della stessa.
 
-2. Sulla liquidazione spetta al collegio, un diritto pari al 2% della somma liquidata.
+2.
 
-3. Quando la richiesta e' fatta direttamente dall'autorita' giudiziaria nulla e' dovuto al collegio.
+Sulla liquidazione spetta al collegio, un diritto pari al 2% della somma liquidata.
 
-### Art. 4
+3.
 
-Diritti del committente
+Quando la richiesta e' fatta direttamente dall'autorita' giudiziaria nulla e' dovuto al collegio.
 
-1. Il committente, salvo particolari pattuizioni e subordinatamente al pagamento di quanto dovuto al professionista a norma della presente tariffa, ha diritto ad una sola copia di tutti gli elaborati ai quali si riferisce l'incarico commesso.
+### Art. 4. — Diritti del committente
 
-2. Il perito agrario e' tenuto a fornire al committente i dati, le notizie e gli atti concernenti l'elaborato, necessari alla piena utilizzazione dell'opera.
+1.
 
-### Art. 5
+Il committente, salvo particolari pattuizioni e subordinatamente al pagamento di quanto dovuto al professionista a norma della presente tariffa, ha diritto ad una sola copia di tutti gli elaborati ai quali si riferisce l'incarico commesso.
 
-A n t i c i p i
+2.
 
-1. Al perito agrario compete un anticipo sulle spese e sugli onorari presunti fino alla concorenza del 75% di quanto spettantegli a compimento della prestazione.
+Il perito agrario e' tenuto a fornire al committente i dati, le notizie e gli atti concernenti l'elaborato, necessari alla piena utilizzazione dell'opera.
 
-2. Nei giudizi arbitrali il perito agrario puo' chiedere il deposito integrale delle spese e degli onorari presunti.
+### Art. 5. — A n t i c i p i
 
-### Art. 6
+1.
 
-Pagamento a saldo
+Al perito agrario compete un anticipo sulle spese e sugli onorari presunti fino alla concorenza del 75% di quanto spettantegli a compimento della prestazione.
 
-1. Il committente e' tenuto a provvedere al pagamento a saldo della specifica non oltre il sessantesimo giorno da quello della sua presentazione. Trascorso tale termine, docorreranno a favore del professionista gli interessi sulle somme dovute e non pagate, pari al tasso ufficiale di sconto stabilito dalla Banca d'Italia, nonche' la rivalutazione monetaria sulla base degli indici Istat.
+2.
 
-### Art. 7
+Nei giudizi arbitrali il perito agrario puo' chiedere il deposito integrale delle spese e degli onorari presunti.
 
-Interruzione dell'incarico
+### Art. 6. — Pagamento a saldo
 
-1. Quando il lavoro venga interrotto per recesso del committente, spetta al professionista il rimborso delle spese sostenute e l'onorario corrispondente alla parte di lavoro eseguito e predisposto.
+1.
 
-2. Quando l'interruzione sia dovuta a recesso del professionista, determinato da giusta causa, spetta a questo il rimborso delle spese sostenute e l'onorario corrispondente alla parte di lavoro eseguito, da determinarsi con riguardo al risultato utile che ne sia derivato al committente.
+Il committente e' tenuto a provvedere al pagamento a saldo della specifica non oltre il sessantesimo giorno da quello della sua presentazione. Trascorso tale termine, docorreranno a favore del professionista gli interessi sulle somme dovute e non pagate, pari al tasso ufficiale di sconto stabilito dalla Banca d'Italia, nonche' la rivalutazione monetaria sulla base degli indici Istat.
 
-3. In caso di interruzione del lavoro per cause di forza maggiore o per recesso del perito agrario senza giusta causa i reciproci rapporti sono regolati dalle norme del [codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262).
+### Art. 7. — Interruzione dell'incarico
 
-### Art. 8
+1.
 
-C o l l a b o r a t o r i
+Quando il lavoro venga interrotto per recesso del committente, spetta al professionista il rimborso delle spese sostenute e l'onorario corrispondente alla parte di lavoro eseguito e predisposto.
 
-1. E' sempre dovuto al perito agrario il rimborso delle spese sostenute per canneggiatori, indicatori, manovali e per qualsiasi altra forma di collaborazione.
+2.
 
-### Art. 9
+Quando l'interruzione sia dovuta a recesso del professionista, determinato da giusta causa, spetta a questo il rimborso delle spese sostenute e l'onorario corrispondente alla parte di lavoro eseguito, da determinarsi con riguardo al risultato utile che ne sia derivato al committente.
 
-Rimborso spese
+3.
 
-1. E' dovuto al perito agrario, il rimborso di tutte le spese sostenute per ricerche catastali, certificati, corrispondenza, tasse, bolli, carte legali, copie eliografiche, disegni e di quanto necessario per l'espletamento dell'incarico ricevuto.
+In caso di interruzione del lavoro per cause di forza maggiore o per recesso del perito agrario senza giusta causa i reciproci rapporti sono regolati dalle norme del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262).
 
-2. Il professionista ha diritto, inoltre, al rimborso delle spese di trasporto per via ordinaria e straordinaria.
+### Art. 8. — C o l l a b o r a t o r i
 
-3. Le spese di viaggio in ferrovia sono rimborsate al perito ed ai suoi collaboratori di concetto sulla base della tariffa di 1a classe delle Ferrovie dello Stato o delle vie di navigazione; sulla base delle tariffe di 2a classe per il personale di aiuto.
+1.
 
-4. Le spese per l'uso dei mezzi privati sono compensate  
-per chilometro in ragione del 30% del costo ufficiale,  
+E' sempre dovuto al perito agrario il rimborso delle spese sostenute per canneggiatori, indicatori, manovali e per qualsiasi altra forma di collaborazione.
+
+### Art. 9. — Rimborso spese
+
+1.
+
+E' dovuto al perito agrario, il rimborso di tutte le spese sostenute per ricerche catastali, certificati, corrispondenza, tasse, bolli, carte legali, copie eliografiche, disegni e di quanto necessario per l'espletamento dell'incarico ricevuto.
+
+2.
+
+Il professionista ha diritto, inoltre, al rimborso delle spese di trasporto per via ordinaria e straordinaria.
+
+3.
+
+Le spese di viaggio in ferrovia sono rimborsate al perito ed ai suoi collaboratori di concetto sulla base della tariffa di 1a classe delle Ferrovie dello Stato o delle vie di navigazione; sulla base delle tariffe di 2a classe per il personale di aiuto.
+
+4.
+
+Le spese per l'uso dei mezzi privati sono compensate
+per chilometro in ragione del 30% del costo ufficiale,
 per litro, della benzina super.
 
-5. Il lavoro di corrispondenza e' compensato a parte, a discrezione.
+5.
 
-### Art. 10
+Il lavoro di corrispondenza e' compensato a parte, a discrezione.
 
-C o n s u l t a z i o n i
+### Art. 10. — C o n s u l t a z i o n i
 
-1. Qualora il perito agrario si trovi nella necessita' di ricorrere all'opera o al parere di altro professionista per l'esecuzione dell'incarico e ne abbia ottenuto autorizzazione dal committente, il compenso spettante a quest'ultimo resta a carico del committente stesso.
+1.
 
-### Art. 11
+Qualora il perito agrario si trovi nella necessita' di ricorrere all'opera o al parere di altro professionista per l'esecuzione dell'incarico e ne abbia ottenuto autorizzazione dal committente, il compenso spettante a quest'ultimo resta a carico del committente stesso.
 
-C o n t r a d d i t t o r i
+### Art. 11. — C o n t r a d d i t t o r i
 
-1. Spetta al perito agrario una maggiorazione del 30% dell'onorario qualora la prestazione venga espletata in contraddittorio.
+1.
 
-### Art. 12
+Spetta al perito agrario una maggiorazione del 30% dell'onorario qualora la prestazione venga espletata in contraddittorio.
 
-Lavori eseguiti con urgenza e in condizioni particolari
+### Art. 12. — Lavori eseguiti con urgenza e in condizioni particolari
 
-1. Quando i lavori vengono svolti con carattere d'urgenza, in condizioni di disagio, in giorni festivi, in ore notturne oppure riguardino fondi o beni costituiti da piu' corpi, o comprendano aziende con accentuata diversita' di coltura, i compensi previsti dalla presente tariffa, sono maggiorati nella misura minima del 30%.
+1.
 
-### Art. 13
+Quando i lavori vengono svolti con carattere d'urgenza, in condizioni di disagio, in giorni festivi, in ore notturne oppure riguardino fondi o beni costituiti da piu' corpi, o comprendano aziende con accentuata diversita' di coltura, i compensi previsti dalla presente tariffa, sono maggiorati nella misura minima del 30%.
 
-Proprieta' dell'opera
+### Art. 13. — Proprieta' dell'opera
 
-1. La proprieta' degli elaborati e di quant'altro rappresenta l'opera del perito agrario, resta sempre riservata a quest'ultimo, nonostante l'avvenuto pagamento della specifica e salvi gli acccordi particolari fra le parti.
+1.
 
-2. E' altresi' riservata al perito agrario, la proprieta' dei progetti dei lavori ai sensi dell'[art. 2578 del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2578).
+La proprieta' degli elaborati e di quant'altro rappresenta l'opera del perito agrario, resta sempre riservata a quest'ultimo, nonostante l'avvenuto pagamento della specifica e salvi gli acccordi particolari fra le parti.
 
-### Art. 14
+2.
 
-Lavori fuori residenza
+E' altresi' riservata al perito agrario, la proprieta' dei progetti dei lavori ai sensi dell'[art. 2578 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2578).
 
-1. Per i lavori fuori del comune di residenza o domicilio il perito agrario ha diritto ad una indennita' di L. 40.000 per ogni giornata, di L. 20.000 per mezza giornata e di L. 18.000 per ogni pernottamento, oltre al rimborso integrale delle spese di trasporto e di soggiorno effettivamente sostenute.
+### Art. 14. — Lavori fuori residenza
 
-### Art. 15
+1.
 
-Criteri di valutazione degli onorari
+Per i lavori fuori del comune di residenza o domicilio il perito agrario ha diritto ad una indennita' di L. 40.000 per ogni giornata, di L. 20.000 per mezza giornata e di L. 18.000 per ogni pernottamento, oltre al rimborso integrale delle spese di trasporto e di soggiorno effettivamente sostenute.
 
-1. Gli onorari, a seconda delle modalita' inerenti alla loro determinazione, si distinguono nelle seguenti categorie:
+### Art. 15. — Criteri di valutazione degli onorari
 
-a) onorari a vacazione, ossia in relazione al tempo impiegato;
+1.
 
-b) onorari a misura, ossia in relazione alla estensione del lavoro compiuto;
+Gli onorari, a seconda delle modalita' inerenti alla loro determinazione, si distinguono nelle seguenti categorie:
+                            a)
+                                onorari a vacazione, ossia in relazione al tempo impiegato;
+                            b)
+                                onorari a misura, ossia in relazione alla estensione del lavoro compiuto;
+                            c)
+                                onorari a percentuale, ossia in relazione al lavoro eseguito secondo percentuali dei valori e dei costi delle opere;
+                            d)
+                                onorari a discrezione, ovvero a criterio del professionista e non compresi nelle precedenti categorie.
 
-c) onorari a percentuale, ossia in relazione al lavoro eseguito secondo percentuali dei valori e dei costi delle opere;
+### Art. 16. — Contenuto della specifica
 
-d) onorari a discrezione, ovvero a criterio del professionista e non compresi nelle precedenti categorie.
+1.
 
-### Art. 16
-
-Contenuto della specifica
-
-1. La specifica deve contenere:
-
-a) nome, cognome, residenza, codice fiscale, partita  
+La specifica deve contenere:
+                            a)
+                                nome, cognome, residenza, codice fiscale, partita
 IVA e numero di iscrizione all'albo del professionista;
-
-b) indicazione del committente;
-
-c) oggetto e data dell'incarico;
-
-d) eventuali clausole od accordi (urgenza, collaborazione, consulti, ecc.);
-
-e) elenco delle spese sostenute, con indicazione chilometrica quando si tratta di spese d'auto;
-
-f) spese per collaboratori in genere (canneggiatori,  
+                            b)
+                                indicazione del committente;
+                            c)
+                                oggetto e data dell'incarico;
+                            d)
+                                eventuali clausole od accordi (urgenza, collaborazione, consulti, ecc.);
+                            e)
+                                elenco delle spese sostenute, con indicazione chilometrica quando si tratta di spese d'auto;
+                            f)
+                                spese per collaboratori in genere (canneggiatori,
 indicatori, manovali e qualsiasi altra forma di collaborazione);
+                            g)
+                                calcolo degli onorari, dei compensi e l'indicazione del corrispondente articolo di tariffa per ciascuna voce.
 
-g) calcolo degli onorari, dei compensi e l'indicazione del corrispondente articolo di tariffa per ciascuna voce.
+### Art. 17. — Incarichi collegiali
 
-### Art. 17
+1.
 
-Incarichi collegiali
+Quando l'incarico e' affidato dal committente a piu' professionisti riuniti in collegio, a ciascun perito agrario, membro del collegio, e' dovuto l'intero compenso risultante dall'applicazione della presente tariffa.
 
-1. Quando l'incarico e' affidato dal committente a piu' professionisti riuniti in collegio, a ciascun perito agrario, membro del collegio, e' dovuto l'intero compenso risultante dall'applicazione della presente tariffa.
+2.
 
-2. Agli altri membri del collegio, non periti agrari, spetta un compenso secondo le rispettive tariffe professionali.
+Agli altri membri del collegio, non periti agrari, spetta un compenso secondo le rispettive tariffe professionali.
 
-### Art. 18
+### Art. 18. — V a r i a n t i
 
-V a r i a n t i
+1.
 
-1. Le varianti ai progetti, alle relazioni, ai rilievi e ogni genere di variante, sono compensate a parte.
+Le varianti ai progetti, alle relazioni, ai rilievi e ogni genere di variante, sono compensate a parte.
 
-### Art. 19
+### Art. 19. — Specifiche periodiche per incarichi continuativi
 
-Specifiche periodiche per incarichi continuativi
+1.
 
-1. Per incarichi di lunga durata, il perito agrario ha diritto al compenso per le prestazioni svolte a semestre o ad anno maturato.
+Per incarichi di lunga durata, il perito agrario ha diritto al compenso per le prestazioni svolte a semestre o ad anno maturato.
 
-2. Nel caso di mancato o ritardato pagamento, il perito agrario puo' declinare l'incarico fermo restando il diritto a richiedere quanto gia' maturato per compensi e spese sostenute.
+2.
 
-### Art. 20
+Nel caso di mancato o ritardato pagamento, il perito agrario puo' declinare l'incarico fermo restando il diritto a richiedere quanto gia' maturato per compensi e spese sostenute.
 
-Criterio analogico
+### Art. 20. — Criterio analogico
 
-1. Gli onorari e le spese che non sono contemplate nella presente tariffa vengono stabilite per analogia.
+1.
 
-### Art. 21
+Gli onorari e le spese che non sono contemplate nella presente tariffa vengono stabilite per analogia.
 
-Asseverazione e giuramenti
+### Art. 21. — Asseverazione e giuramenti
 
-1. Per gli elaborati seguiti da giuramento e' dovuta una maggiorazione nella misura del 10% degli onorari con un minimo di L. 50.000 ad un massimo di L. 300.000.
+1.
 
-### Art. 22
+Per gli elaborati seguiti da giuramento e' dovuta una maggiorazione nella misura del 10% degli onorari con un minimo di L. 50.000 ad un massimo di L. 300.000.
 
-Solidarieta' fra i committenti
+### Art. 22. — Solidarieta' fra i committenti
 
-1. Quando l'incarico riguardi transazioni, divisioni o arbitrati, tutte le parti ad essi interessate sono solidalmente obbligate al pagamento degli onorari ed al rimborso delle spese.
+1.
 
-### Art. 23
+Quando l'incarico riguardi transazioni, divisioni o arbitrati, tutte le parti ad essi interessate sono solidalmente obbligate al pagamento degli onorari ed al rimborso delle spese.
 
-Efficacia e adeguamento delle tariffe
+### Art. 23. — Efficacia e adeguamento delle tariffe
 
-1. La presente tariffa si applica anche a tutte le prestazioni professionali in corso alla data di entrata in vigore della medesima.
+1.
 
-CAPO II Capo II ONORARI A VACAZIONE
------------------------------------
+La presente tariffa si applica anche a tutte le prestazioni professionali in corso alla data di entrata in vigore della medesima.
 
-### Art. 24
+## ONORARI A VACAZIONE
 
-Prestazioni da valutare  
-in ragione al tempo impiegato
+Capo II
 
-1. Sono computati in relazione al tempo occorso per l'espletamento dell'incarico gli onorari per:
+### Art. 24. — Prestazioni da valutare
+ in ragione al tempo impiegato
 
-a) consultazioni orali o scritte, convegni informativi e similari, anche se riguardano lavori retribuiti a percentuale o a misura;
+1.
 
-b) sopralluoghi e relazioni;
-
-c) lavori al tavolo, calcoli, riduzioni e riproduzioni di disegni, di mappe, ecc.;
-
-d) stima di miglioramenti e danneggiamenti agrari e boschivi;
-
-e) determinazione di componenti del terreno, di prodotti agricoli, zootecnici e loro derivati;
-
-f) conti colturali e giudizi tecnici;
-
-g) progetti di rotazione agrarie e pareri su formule di concimazione;
-
-h) esame di progetti di trasformazione e miglioramenti agrari e boschivi;
-
-i) liquidazione di danni e miglioramenti alle colture di ogni e qualsiasi natura e origine;
-
-l) sopralluoghi tecnici e ricerche tecnologiche e commerciali inerenti alle industrie agrarie (enologia, caseificio, oleificio, ecc.);
-
-m) inventari, consegne, riconsegne e bilancio di  
+Sono computati in relazione al tempo occorso per l'espletamento dell'incarico gli onorari per:
+                            a)
+                                consultazioni orali o scritte, convegni informativi e similari, anche se riguardano lavori retribuiti a percentuale o a misura;
+                            b)
+                                sopralluoghi e relazioni;
+                            c)
+                                lavori al tavolo, calcoli, riduzioni e riproduzioni di disegni, di mappe, ecc.;
+                            d)
+                                stima di miglioramenti e danneggiamenti agrari e boschivi;
+                            e)
+                                determinazione di componenti del terreno, di prodotti agricoli, zootecnici e loro derivati;
+                            f)
+                                conti colturali e giudizi tecnici;
+                            g)
+                                progetti di rotazione agrarie e pareri su formule di concimazione;
+                            h)
+                                esame di progetti di trasformazione e miglioramenti agrari e boschivi;
+                            i)
+                                liquidazione di danni e miglioramenti alle colture di ogni e qualsiasi natura e origine;
+                            l)
+                                sopralluoghi tecnici e ricerche tecnologiche e commerciali inerenti alle industrie agrarie (enologia, caseificio, oleificio, ecc.);
+                            m)
+                                inventari, consegne, riconsegne e bilancio di
 beni rustici (comprese le macchine ed attrezzi);
+                            n)
+                                accertamenti, accessi agli uffici, visure catastali, ipotecarie e similari; ricerche di dati e documenti, accatastamenti, rettifiche, ecc.;
+                            o)
+                                rilievi planimetrici e altimetrici; rilievi e tracciamenti di strade e canali anche se ricompresi in progetti di opere di trasformazione e miglioramento fondiario;
+                            p)
+                                sistemazione di terreni e piani quotati;
+                            q)
+                                deposito perizie;
+                            r)
+                                lavori contabili e conseguenti adempimenti fiscali e previdenziali, calcolo delle retribuzioni e dei relativi contributi del personale, tenuta dei documenti di lavoro di aziende agrarie, zootecniche, ortoflorovivaistiche, boschive, di trasformazione e di commercializzazione di prodotti agrari;
+                            s)
+                                lavori di assistenza, ricerche e richieste di documenti per mutui fondiari; assistenza alle pratiche riguardanti contributi, gravami fiscali, investimenti di capitali, prestiti di esercizio e di credito agrario, ecc.;
+                            t)
+                                consulenza e direzione per trattamenti antiparassitari e fitosanitari;
+                            u)
+                                richieste di concessioni, licenze, autorizzazioni, nullaosta e similari;
+                            v)
+                                indagini di mercato, ecologiche, ambientali e similari;
+                            z)
+                                certificazioni antincendio;
+ x) certificazioni di qualita' dei prodotti agricoli o di altro genere;
+                            aa)
+                                relazioni tecniche descrittive in genere non previste da altri articoli della presente tariffa;
+ ab) lavori in genere che possono essere valutati soltanto in relazione al tempo impiegato.
 
-n) accertamenti, accessi agli uffici, visure catastali, ipotecarie e similari; ricerche di dati e documenti, accatastamenti, rettifiche, ecc.;
-
-o) rilievi planimetrici e altimetrici; rilievi e tracciamenti di strade e canali anche se ricompresi in progetti di opere di trasformazione e miglioramento fondiario;
-
-p) sistemazione di terreni e piani quotati;
-
-q) deposito perizie;
-
-r) lavori contabili e conseguenti adempimenti fiscali e previdenziali, calcolo delle retribuzioni e dei relativi contributi del personale, tenuta dei documenti di lavoro di aziende agrarie, zootecniche, ortoflorovivaistiche, boschive, di trasformazione e di commercializzazione di prodotti agrari;
-
-s) lavori di assistenza, ricerche e richieste di documenti per mutui fondiari; assistenza alle pratiche riguardanti contributi, gravami fiscali, investimenti di capitali, prestiti di esercizio e di credito agrario, ecc.;
-
-t) consulenza e direzione per trattamenti antiparassitari e fitosanitari;
-
-u) richieste di concessioni, licenze, autorizzazioni, nullaosta e similari;
-
-v) indagini di mercato, ecologiche, ambientali e similari;
-
-z) certificazioni antincendio;  
-x) certificazioni di qualita' dei prodotti agricoli o di altro genere;
-
-aa) relazioni tecniche descrittive in genere non previste da altri articoli della presente tariffa;  
-ab) lavori in genere che possono essere valutati soltanto in relazione al tempo impiegato.
-
-### Art. 25
+### Art. 25.
 
 (( (Computo delle vacazioni).
 
-1. La vacazione corrisponde ad un periodo di tempo pari ad una'ora.   
+1.
+
+La vacazione corrisponde ad un periodo di tempo pari ad una'ora. 
 Le frazioni di ora sono calcolate per intero.
 
-2. Nel calcolo delle vacazioni e' compreso anche il tempo occorrente per recarsi sul luogo e relativo ritorno, nonche' il tempo inutilizzato per cause non dipendenti dal professionista.
+2.
 
-3. Il numero delle vacazioni giornaliere si intende fissato in otto; le successive vengono compensate con l'aumento del 25%.
+Nel calcolo delle vacazioni e' compreso anche il tempo occorrente per recarsi sul luogo e relativo ritorno, nonche' il tempo inutilizzato per cause non dipendenti dal professionista.
 
-4. Il compenso per ogni vacazione e' stabilito nella misura di L.  
+3.
+
+Il numero delle vacazioni giornaliere si intende fissato in otto; le successive vengono compensate con l'aumento del 25%.
+
+4.
+
+Il compenso per ogni vacazione e' stabilito nella misura di L.
 87.000. Qualora l'incarico venga espletato in una sola vacazione, il compenso e' di L. 103.000.
 
-5. Le vacazioni per collaboratori ed ausiliari sono stabilite in ragione di L. 55.000 ciascuna.
+5.
 
-### Art. 26
+Le vacazioni per collaboratori ed ausiliari sono stabilite in ragione di L. 55.000 ciascuna.
 
-Vacazioni integrative
+### Art. 26. — Vacazioni integrative
 
-1. Quando l'onorario a vacazione e' integrativo di quello computato a misura, a percentuale o a discrezione, tutte le vacazioni riferite a ciascuno di quel tipo di prestazioni vengono ridotte del 25%, salvo quelle relative al tempo impiegato nei rilievi di campagna e nel trasferimento che saranno compensate nella misura ordinaria prevista dall'articolo precedente.
+1.
 
-CAPO III Capo III ONORARI A MISURA
-----------------------------------
+Quando l'onorario a vacazione e' integrativo di quello computato a misura, a percentuale o a discrezione, tutte le vacazioni riferite a ciascuno di quel tipo di prestazioni vengono ridotte del 25%, salvo quelle relative al tempo impiegato nei rilievi di campagna e nel trasferimento che saranno compensate nella misura ordinaria prevista dall'articolo precedente.
 
-### Art. 27
+## ONORARI A MISURA
 
-Prestazioni da valutare a misura
+Capo III
 
-1. Sono valutati di regola a misura gli onorari per:
+### Art. 27. — Prestazioni da valutare a misura
 
-a) rilievi topografici, misura e rilevamenti di terreni, di fabbricati e di fondi rustici in genere, di parchi e giardini, di boschi, di vivai e di altri immobili con destinazione connesse ad attivita' agricole e boschive;
+1.
 
-b) piani particellari di esproprio;
+Sono valutati di regola a misura gli onorari per:
+                            a)
+                                rilievi topografici, misura e rilevamenti di terreni, di fabbricati e di fondi rustici in genere, di parchi e giardini, di boschi, di vivai e di altri immobili con destinazione connesse ad attivita' agricole e boschive;
+                            b)
+                                piani particellari di esproprio;
+                            c)
+                                consegna e riconsegna dei beni rustici, comunque connessi ad attivita' agricole e boschive nonche' di scorte vive e morte, soprassuolo e frutti pendenti.
 
-c) consegna e riconsegna dei beni rustici, comunque connessi ad attivita' agricole e boschive nonche' di scorte vive e morte, soprassuolo e frutti pendenti.
+### Art. 28. — Rilievi topografici
 
-### Art. 28
+1.
 
-Rilievi topografici
+Per i rilievi planimetrici ed altimetrici, anche se compresi in altre prestazioni, e' dovuto un onorario determinato ai sensi degli articoli dal 30 al 38 della presente tariffa.
 
-1. Per i rilievi planimetrici ed altimetrici, anche se compresi in altre prestazioni, e' dovuto un onorario determinato ai sensi degli articoli dal 30 al 38 della presente tariffa.
+### Art. 29. — Rilievi catastali
 
-### Art. 29
+1.
 
-Rilievi catastali
+Introduzione in mappa di un fabbricato (tipo mappale) mediante rilievo con misure dirette appoggiate ai confini del lotto nel raggio di 50 metri: compenso minimo di L. 300.000 per ogni fabbricato.
 
-1. Introduzione in mappa di un fabbricato (tipo mappale) mediante rilievo con misure dirette appoggiate ai confini del lotto nel raggio di 50 metri: compenso minimo di L. 300.000 per ogni fabbricato.
+2.
 
-2. Introduzione in mappa di un fabbricato (tipo mappale) mediante rilievo con misure indirette ed inserimento nel reticolo catastale (rilevazione a terra): per la prima stazione e fino a dieci punti battuti, compenso di L. 400.000, per ogni stazione in piu' L. 150.000, per ogni punto in piu' L. 30.000.
+Introduzione in mappa di un fabbricato (tipo mappale) mediante rilievo con misure indirette ed inserimento nel reticolo catastale (rilevazione a terra): per la prima stazione e fino a dieci punti battuti, compenso di L. 400.000, per ogni stazione in piu' L. 150.000, per ogni punto in piu' L. 30.000.
 
-3. Redazione tipo mappale (oltre quanto sopra): compenso di L. 200.000.
+3.
 
-4. Frazionamento di particelle catastali costituito da una linea retta mediante rilievo con squadro semplice con appoggio ai confini del lotto nel raggio di 50 metri: compenso di L. 400.000 per la prima particella (per ogni particella in piu' L. 80.000).
+Redazione tipo mappale (oltre quanto sopra): compenso di L. 200.000.
 
-5. Rilievo con strumenti ottici o elettroottici con appoggio ai punti fiduciali indicati dall'ufficio tecnico erariale o con altri appoggi: per la prima stazione strumentale e fino ai primi dieci punti di dettaglio, compenso di L. 600.000 (per ogni stazione successiva L. 150.000 e per ogni punto di dettaglio oltre i primi dieci il compenso di L. 50.000).
+4.
 
-6. Frazionamento di particelle catastali costituito da linea o linee spezzate: i compensi di cui al comma precedente sono maggiorati del 30%.
+Frazionamento di particelle catastali costituito da una linea retta mediante rilievo con squadro semplice con appoggio ai confini del lotto nel raggio di 50 metri: compenso di L. 400.000 per la prima particella (per ogni particella in piu' L. 80.000).
 
-7. Redazione del tipo di frazionamento comprendente la restituzione grafica dei rilievi su scala adeguata, calcolo delle aree (totale e delle quote derivate), calcolo dei redditi delle nuove particelle originate dal frazionamento e la dimostrazione del frazionamento: per la prima particella derivata, compenso di L. 250.000 (per ogni particella successiva il compenso di L. 90.000).
+5.
 
-### Art. 30
+Rilievo con strumenti ottici o elettroottici con appoggio ai punti fiduciali indicati dall'ufficio tecnico erariale o con altri appoggi: per la prima stazione strumentale e fino ai primi dieci punti di dettaglio, compenso di L. 600.000 (per ogni stazione successiva L. 150.000 e per ogni punto di dettaglio oltre i primi dieci il compenso di L. 50.000).
 
-Operazioni di tracciamento  
-per progetti di lottizzazione
+6.
 
-1. Qualora le operazioni tecniche riguardino lottizzazioni, gli onorari di cui all'art. 29 sono maggiorati da un minimo del 30% ad un massimo del 50%, a seconda dell'importanza dell'opera.
+Frazionamento di particelle catastali costituito da linea o linee spezzate: i compensi di cui al comma precedente sono maggiorati del 30%.
 
-### Art. 31
+7.
 
-Operazioni di confinamento  
-e di riconfinamento
+Redazione del tipo di frazionamento comprendente la restituzione grafica dei rilievi su scala adeguata, calcolo delle aree (totale e delle quote derivate), calcolo dei redditi delle nuove particelle originate dal frazionamento e la dimostrazione del frazionamento: per la prima particella derivata, compenso di L. 250.000 (per ogni particella successiva il compenso di L. 90.000).
 
-1. Le operazioni di verifica, confinamento e di riconfinamento eseguite, ove necessario, anche in riferimento alle particelle catastali, sono compensate in ragione di L. 150.000 per ogni punto da determinare sul terreno nel raggio di 50 metri lineari dei punti fiduciali o dai punti di riferimento; per punti da determinare in un raggio superiore in ragione di L. 100.000 per ogni tratto di metri lineari 50 o frazione di esso.
+### Art. 30. — Operazioni di tracciamento
+ per progetti di lottizzazione
 
-2. Sono compensati a parte gli onorari per lo studio dei relativi atti e per la verifica delle superfici delle aree interessate alle operazioni medesime.
+1.
 
-3. Sono pure compensati a parte le prestazioni per l'assistenza all'apposizione dei termini, esclusi i materiali.
+Qualora le operazioni tecniche riguardino lottizzazioni, gli onorari di cui all'art. 29 sono maggiorati da un minimo del 30% ad un massimo del 50%, a seconda dell'importanza dell'opera.
 
-### Art. 32
+### Art. 31. — Operazioni di confinamento
+ e di riconfinamento
 
-Rilievi plano-altimetrici di aree
+1.
 
-1. I rilievi finalizzati alla redazione di cartografia planoaltimetrica eseguiti con il metodo celerimetrico su terreni con pendenza massima 5%, liberi da alberi o altri ostacoli e comprendenti le fasi di studio preliminare ed acquisizione monografie dei punti stabiliti di riferimento e di orientamento esterno; di materializzazione dei punti di stazione, eventuale redazione di monografie; di rilievo planoaltimetrico per la determinazione dei punti di stazione e di dettaglio; di restituzione del rilievo con curve di livello; di eventuale calcolo delle aree sono cosi' compensati:
+Le operazioni di verifica, confinamento e di riconfinamento eseguite, ove necessario, anche in riferimento alle particelle catastali, sono compensate in ragione di L. 150.000 per ogni punto da determinare sul terreno nel raggio di 50 metri lineari dei punti fiduciali o dai punti di riferimento; per punti da determinare in un raggio superiore in ragione di L. 100.000 per ogni tratto di metri lineari 50 o frazione di esso.
 
-a) in scala di riduzione 1:200, vertici 0,25/Ha fino a punti di dettaglio 8/Ha, tolleranza +/- 0,35 + 0,015 (radice di D): importo minimo per ettaro o frazione di ettaro in ragione di L. 350.000 (per rilievi su superfici inferiori ai 2 Ha il compenso puo' essere maggiorato fino al 50%);
+2.
 
-b) in scala di rappresentazione 1:1000, vertici 0,3/Ha fino a punti di dettaglio 30/Ha, tolleranza +/- 0,24 + 0,015 (radice di D): importo minimo per ettaro in ragione di L. 600.000; per ogni decimo di vertice in piu' per ettaro, in ragione di L. 30.000; per ogni punto di dettaglio in piu' per ettaro, in ragione di L. 6.000;
+Sono compensati a parte gli onorari per lo studio dei relativi atti e per la verifica delle superfici delle aree interessate alle operazioni medesime.
 
-c) in scala di rappresentazione 1:500, vertici 0,8/Ha fino a punti di dettaglio 70/Ha, tolleranza +/- 0,14 + 0,015 (radice di D): importo minimo per ettaro in ragione di L. 1.000.000; per ogni decimo di vertice in piu' per ettaro, in ragione di L. 50.000; per ogni punto di dettaglio in piu' per ettaro, in ragione di L. 10.000;
+3.
 
-d) in scala di rappresentazione 1:200, vertici 3/Ha, fino a punti di dettaglio 200/Ha, tolleranza +/- 0,08 + 0,015 (radice di D): importo minimo per ettaro in ragione di L. 2.000.000; per ogni decimo di vertice in piu' per ettaro, in ragione di L. 80.000; per ogni punto di dettaglio in piu' per ettaro, in ragione di L. 16.000;
+Sono pure compensati a parte le prestazioni per l'assistenza all'apposizione dei termini, esclusi i materiali.
 
-e) calcolo analitico delle aree degli appezzamenti rilevati: importo minimo per ettaro in ragione di L. 100.000; importo minimo per appezzamenti in ragione di L. 100.000.
+### Art. 32. — Rilievi plano-altimetrici di aree
 
-### Art. 33
+1.
 
-Livellazione dei profili
+I rilievi finalizzati alla redazione di cartografia planoaltimetrica eseguiti con il metodo celerimetrico su terreni con pendenza massima 5%, liberi da alberi o altri ostacoli e comprendenti le fasi di studio preliminare ed acquisizione monografie dei punti stabiliti di riferimento e di orientamento esterno; di materializzazione dei punti di stazione, eventuale redazione di monografie; di rilievo planoaltimetrico per la determinazione dei punti di stazione e di dettaglio; di restituzione del rilievo con curve di livello; di eventuale calcolo delle aree sono cosi' compensati:
+                            a)
+                                in scala di riduzione 1:200, vertici 0,25/Ha fino a punti di dettaglio 8/Ha, tolleranza +/- 0,35 + 0,015 (radice di D): importo minimo per ettaro o frazione di ettaro in ragione di L. 350.000 (per rilievi su superfici inferiori ai 2 Ha il compenso puo' essere maggiorato fino al 50%);
+                            b)
+                                in scala di rappresentazione 1:1000, vertici 0,3/Ha fino a punti di dettaglio 30/Ha, tolleranza +/- 0,24 + 0,015 (radice di D): importo minimo per ettaro in ragione di L. 600.000; per ogni decimo di vertice in piu' per ettaro, in ragione di L. 30.000; per ogni punto di dettaglio in piu' per ettaro, in ragione di L. 6.000;
+                            c)
+                                in scala di rappresentazione 1:500, vertici 0,8/Ha fino a punti di dettaglio 70/Ha, tolleranza +/- 0,14 + 0,015 (radice di D): importo minimo per ettaro in ragione di L. 1.000.000; per ogni decimo di vertice in piu' per ettaro, in ragione di L. 50.000; per ogni punto di dettaglio in piu' per ettaro, in ragione di L. 10.000;
+                            d)
+                                in scala di rappresentazione 1:200, vertici 3/Ha, fino a punti di dettaglio 200/Ha, tolleranza +/- 0,08 + 0,015 (radice di D): importo minimo per ettaro in ragione di L. 2.000.000; per ogni decimo di vertice in piu' per ettaro, in ragione di L. 80.000; per ogni punto di dettaglio in piu' per ettaro, in ragione di L. 16.000;
+                            e)
+                                calcolo analitico delle aree degli appezzamenti rilevati: importo minimo per ettaro in ragione di L. 100.000; importo minimo per appezzamenti in ragione di L. 100.000.
 
-1. Per le livellazioni dei profili longitudinali, mediante strumentazione, con calcolo delle distanze parziali, dislivelli e quote altimetriche, restituzione grafica in scala adeguata, si applicano i seguenti compensi:
+### Art. 33. — Livellazione dei profili
 
-a) per livellazioni di alta precisione con attrezzatura:  
+1.
+
+Per le livellazioni dei profili longitudinali, mediante strumentazione, con calcolo delle distanze parziali, dislivelli e quote altimetriche, restituzione grafica in scala adeguata, si applicano i seguenti compensi:
+                            a)
+                                per livellazioni di alta precisione con attrezzatura:
 con tolleranza A/R 3 m/m (rad. D) (D in km) L. 900.000 al chilometro; con tolleranza A/R 6 m/m (rad. D) L. 600.000 al chilometro;
+                            b)
+                                per livellazioni tecniche con stadia in legno con tolleranza A/R 30 m/m (rad. D), L. 400.000 al chilometro; con tolleranza 30 m/m (rad. D) solo andata, L. 200.000 al chilometro.
 
-b) per livellazioni tecniche con stadia in legno con tolleranza A/R 30 m/m (rad. D), L. 400.000 al chilometro; con tolleranza 30 m/m (rad. D) solo andata, L. 200.000 al chilometro.
+2.
 
-2. I compensi suddetti si riferiscono a livellazioni che prevedono una densita' fino a 60 punti al chilometro.
+I compensi suddetti si riferiscono a livellazioni che prevedono una densita' fino a 60 punti al chilometro.
 
-3. Per densita' superiori si applicano le seguenti maggiorazioni:
+3.
 
-a) per densita' tra 61 e 80 punti al chilometro, il 15%;
+Per densita' superiori si applicano le seguenti maggiorazioni:
+                            a)
+                                per densita' tra 61 e 80 punti al chilometro, il 15%;
+                            b)
+                                per densita' tra 81 e 100 punti al chilometro, il 100%;
+                            c)
+                                per densita' superiori a 100 punti al chilometro, a discrezione.
 
-b) per densita' tra 81 e 100 punti al chilometro, il 100%;
+### Art. 34. — Rilievi di sezioni trasversali
 
-c) per densita' superiori a 100 punti al chilometro, a discrezione.
+1.
 
-### Art. 34
+Esecuzione di sezioni trasversali mediante misura delle distanze e dei dislivelli da un punto di riferimento con strumentazione idonea (livellazione trigonometrica), calcolo delle distanze parziali, dei dislivelli e quote altimetriche, restituzione grafica in scala adeguata: compenso di L. 100.000 per ogni sezione fino a 20 metri di lunghezza (per ogni metro in piu' L. 5.000).
 
-Rilievi di sezioni trasversali
+2.
 
-1. Esecuzione di sezioni trasversali mediante misura delle distanze e dei dislivelli da un punto di riferimento con strumentazione idonea (livellazione trigonometrica), calcolo delle distanze parziali, dei dislivelli e quote altimetriche, restituzione grafica in scala adeguata: compenso di L. 100.000 per ogni sezione fino a 20 metri di lunghezza (per ogni metro in piu' L. 5.000).
+Per un numero di sezioni inferiore a quindici il compenso anzidetto puo' essere aumentato fino al 50%.
 
-2. Per un numero di sezioni inferiore a quindici il compenso anzidetto puo' essere aumentato fino al 50%.
+### Art. 35. — Poligonazioni
 
-### Art. 35
+1.
 
-Poligonazioni
+Per l'esecuzione di poligonali mediante strumentazione adeguata, con calcolo delle distanze parziali e degli angoli e la restituzione grafica in scala adeguata, si applicano i seguenti compensi:
+                            a)
+                                per poligonali di proiezione (al secondo), con un massimo di quattro vertici al chilometro (esclusa la materializzazione dei vertici) L. 500.000 al chilometro;
+                            b)
+                                per poligonali di collegamento, con tolleranze richieste dal committente, con 6-12 vertici al chilometro (escluso la materializzazione dei vertici) L. 800.000 al chilometro;
+                            c)
+                                per la materializzazione dei vertici ed acquisizione delle monografie L. 20.000 cadauna;
+                            d)
+                                per la materializzazione dei punti battuti L. 5.000 cadauno.
 
-1. Per l'esecuzione di poligonali mediante strumentazione adeguata, con calcolo delle distanze parziali e degli angoli e la restituzione grafica in scala adeguata, si applicano i seguenti compensi:
+### Art. 36. — Rilevamenti per tracciati di strade
 
-a) per poligonali di proiezione (al secondo), con un massimo di quattro vertici al chilometro (esclusa la materializzazione dei vertici) L. 500.000 al chilometro;
+1.
 
-b) per poligonali di collegamento, con tolleranze richieste dal committente, con 6-12 vertici al chilometro (escluso la materializzazione dei vertici) L. 800.000 al chilometro;
+Per i rilevamenti inerenti i tracciati delle strade si applicano i seguenti compensi:
+                            a)
+                                ricognizione, piazzamento vertici, poligonale d'appoggio, picchettamento dell'asse, piazzamento dei picchetti delle sezioni necessarie, livellazione longitudinale trigonometrica dei picchetti e del terreno; disegno planimetrico del tracciato e del profilo longitudinale:
+ con un max di 25 punti, L. 900.000 al chilometro;
+ con un max di 40 punti, L. 1.150.000 al chilometro;
+ con un max di 60 punti, L. 1.500.000 al chilometro;
+ con un max di 80 punti, L. 1.800.000 al chilometro;
+ per ogni punto in piu', L. 32.000;
+                            b)
+                                rilevamento, calcolo, disegno e montaggio delle sezioni trasversali, con uno sviluppo fino a metri lineari 20 per sezione:
+ terreni pianeggianti, L. 8.000 al metro lineare;
+ terreni pianeggianti con attraversamenti di canali, L. 10.000 al metro lineare;
+ terreni collinari, L. 12.000 al metro lineare;
+ terreni di montagna, L. 15.000 al metro lineare;
+ terreni di macchia mediterranea escluso smacchiamento, L. 20.000 al metro lineare;
+                            c)
+                                picchettamento dei cigli delle scarpate, sia in scavo che in rilevato, esclusa la fornitura del materiale occorrente, per ogni modina, L. 80.000;
+                            d)
+                                picchettamento degli assi delle opere d'arte, compreso il piazzamento di rifornimenti esterni, esclusa la fornitura del materiale occorrente per ogni punto d'asse, L. 210.000;
+                            e)
+                                piazzamento di punti di riferimento esterni al tracciato (capisaldi plano-altimetrici), determinazione delle coordinate plano- altimetriche, monografie relative, L. 200.000 per ogni punto.
 
-c) per la materializzazione dei vertici ed acquisizione delle monografie L. 20.000 cadauna;
+### Art. 37. — Maggiorazioni
 
-d) per la materializzazione dei punti battuti L. 5.000 cadauno.
+1.
 
-### Art. 36
-
-Rilevamenti per tracciati di strade
-
-1. Per i rilevamenti inerenti i tracciati delle strade si applicano i seguenti compensi:
-
-a) ricognizione, piazzamento vertici, poligonale d'appoggio, picchettamento dell'asse, piazzamento dei picchetti delle sezioni necessarie, livellazione longitudinale trigonometrica dei picchetti e del terreno; disegno planimetrico del tracciato e del profilo longitudinale:  
-con un max di 25 punti, L. 900.000 al chilometro;  
-con un max di 40 punti, L. 1.150.000 al chilometro;  
-con un max di 60 punti, L. 1.500.000 al chilometro;  
-con un max di 80 punti, L. 1.800.000 al chilometro;  
-per ogni punto in piu', L. 32.000;
-
-b) rilevamento, calcolo, disegno e montaggio delle sezioni trasversali, con uno sviluppo fino a metri lineari 20 per sezione:  
-terreni pianeggianti, L. 8.000 al metro lineare;  
-terreni pianeggianti con attraversamenti di canali, L. 10.000 al metro lineare;  
-terreni collinari, L. 12.000 al metro lineare;  
-terreni di montagna, L. 15.000 al metro lineare;  
-terreni di macchia mediterranea escluso smacchiamento, L. 20.000 al metro lineare;
-
-c) picchettamento dei cigli delle scarpate, sia in scavo che in rilevato, esclusa la fornitura del materiale occorrente, per ogni modina, L. 80.000;
-
-d) picchettamento degli assi delle opere d'arte, compreso il piazzamento di rifornimenti esterni, esclusa la fornitura del materiale occorrente per ogni punto d'asse, L. 210.000;
-
-e) piazzamento di punti di riferimento esterni al tracciato (capisaldi plano-altimetrici), determinazione delle coordinate plano- altimetriche, monografie relative, L. 200.000 per ogni punto.
-
-### Art. 37
-
-Maggiorazioni
-
-1. Per lavori eseguiti su terreni con pendenze superiori al 5 per cento si applicano le seguenti maggiorazioni:
-
-a) terreni accidentati regolari con pendenza dal 5% fino al 20%, il 15%;
-
-b) terreni alberati, chiusi da siepi, vigneti, ecc., il 30%;
-
-c) terreni a bosco di alto fusto, frutteti, oliveti, ecc.,  
+Per lavori eseguiti su terreni con pendenze superiori al 5 per cento si applicano le seguenti maggiorazioni:
+                            a)
+                                terreni accidentati regolari con pendenza dal 5% fino al 20%, il 15%;
+                            b)
+                                terreni alberati, chiusi da siepi, vigneti, ecc., il 30%;
+                            c)
+                                terreni a bosco di alto fusto, frutteti, oliveti, ecc.,
 il 40%;
-
-d) terreni a bosco ceduo (nel quale si rende necessario il taglio), terreni acquitrinosi o comunque allagati, il 120%;
-
-e) terreni montani, il 20%;
-
-f) terreni innevati con oltre 5 centimetri di neve  
+                            d)
+                                terreni a bosco ceduo (nel quale si rende necessario il taglio), terreni acquitrinosi o comunque allagati, il 120%;
+                            e)
+                                terreni montani, il 20%;
+                            f)
+                                terreni innevati con oltre 5 centimetri di neve
 il 35%.
 
-2. Le singole maggiorazioni possono essere sommate fra loro applicando le prestazioni previste dagli articoli dal 29 al 37 compreso, della presente tariffa.
+2.
 
-### Art. 38
+Le singole maggiorazioni possono essere sommate fra loro applicando le prestazioni previste dagli articoli dal 29 al 37 compreso, della presente tariffa.
 
-Piani particellari di esproprio
+### Art. 38. — Piani particellari di esproprio
 
-1. Per la redazione di piani particellari di esproprio, esclusi i rilievi di campagna, si applicano i seguenti compensi:
+1.
 
-a) per ciascuna ditta espropriata, L. 85.000;
+Per la redazione di piani particellari di esproprio, esclusi i rilievi di campagna, si applicano i seguenti compensi:
+                            a)
+                                per ciascuna ditta espropriata, L. 85.000;
+                            b)
+                                per ciascuna particella, L. 40.000;
+                            c)
+                                per la redazione del verbale di consistenza, L. 120.000;
+                            d)
+                                per ciascuna particella inserita nel verbale, L. 25.000;
+                            e)
+                                per ciascun fabbricato o rudere inserito nel verbale, L. 120.000;
+                            f)
+                                il lavoro preliminare, la richiesta di mappe e planimetrie e la ricerca presso la conservatoria dei registri immobiliari sono compensati a vacazione.
 
-b) per ciascuna particella, L. 40.000;
+### Art. 39. — Consegne, riconsegne e bilanci dei beni rustici
+ o comunque connessi con l'attivita' agricola
 
-c) per la redazione del verbale di consistenza, L. 120.000;
+1.
 
-d) per ciascuna particella inserita nel verbale, L. 25.000;
+Le operazioni di consegna, riconsegna ed i bilanci vengono compensati in base agli onorari indicati nell'allegata tabella 7.
 
-e) per ciascun fabbricato o rudere inserito nel verbale, L. 120.000;
+2.
 
-f) il lavoro preliminare, la richiesta di mappe e planimetrie e la ricerca presso la conservatoria dei registri immobiliari sono compensati a vacazione.
+Le operazioni di consegna e riconsegna comprendono i sopralluoghi di campagna, la redazione del verbale di consistenza con la descrizione dell'azienda agraria e/o boschiva o di trasformazione, ecc., con le relative pertinenze, l'inventario dei soprassuoli e delle scorte, la eventuale formazione di una mappa puramente indicativa del fondo.
 
-### Art. 39
+3.
 
-Consegne, riconsegne e bilanci dei beni rustici  
-o comunque connessi con l'attivita' agricola
+I bilanci comprendono il sommario di cio' che viene consegnato o riconsegnato con conteggio del dare e dell'avere.
 
-1. Le operazioni di consegna, riconsegna ed i bilanci vengono compensati in base agli onorari indicati nell'allegata tabella 7.
+4.
 
-2. Le operazioni di consegna e riconsegna comprendono i sopralluoghi di campagna, la redazione del verbale di consistenza con la descrizione dell'azienda agraria e/o boschiva o di trasformazione, ecc., con le relative pertinenze, l'inventario dei soprassuoli e delle scorte, la eventuale formazione di una mappa puramente indicativa del fondo.
+Qualora il committente richieda la mappa del fondo con i singoli appezzamenti divisi per riparto di coltura e relative misure e cosi' pure la planimetria dei singoli fabbricati e relative misure e' dovuto per tale incarico anche l'onorario previsto per i lavori topografici.
 
-3. I bilanci comprendono il sommario di cio' che viene consegnato o riconsegnato con conteggio del dare e dell'avere.
+5.
 
-4. Qualora il committente richieda la mappa del fondo con i singoli appezzamenti divisi per riparto di coltura e relative misure e cosi' pure la planimetria dei singoli fabbricati e relative misure e' dovuto per tale incarico anche l'onorario previsto per i lavori topografici.
+Gli onorari indicati nell'allegata tabella 7 per gli inventari e le consegne, compresi gli stabili urbani quando appartengono ad un complesso di beni rustici, si applicano anche quando dette operazioni vengano eseguite sulla scorta di analoghi atti esistenti anche se forniti dal committente; qualora gli inventari e le consegne siano da eseguirsi ex novo, gli onorari indicati nell'allegata tabella 7 dovranno essere aumentati del 30%, salvo eventuali compensi da valutarsi a discrezione per ricerche di titoli relativi alla proprieta' od al possesso.
 
-5. Gli onorari indicati nell'allegata tabella 7 per gli inventari e le consegne, compresi gli stabili urbani quando appartengono ad un complesso di beni rustici, si applicano anche quando dette operazioni vengano eseguite sulla scorta di analoghi atti esistenti anche se forniti dal committente; qualora gli inventari e le consegne siano da eseguirsi ex novo, gli onorari indicati nell'allegata tabella 7 dovranno essere aumentati del 30%, salvo eventuali compensi da valutarsi a discrezione per ricerche di titoli relativi alla proprieta' od al possesso.
+6.
 
-6. Gli onorari della tabella 7 sono aumentati fino al 20% per la consegna, riconsegna, inventari e bilanci  
+Gli onorari della tabella 7 sono aumentati fino al 20% per la consegna, riconsegna, inventari e bilanci
 di fondi rustici a destinazione vivaistica, orto-floro-frutticola, boschiva, e verde pubblico o privato.
 
-7. La compilazione degli inventari di consegna e riconsegna dei fabbricati vetusti, di caseifici, cantine, enopoli, oleifici, essiccatoi, ecc., e' compensata a vacazione.
+7.
 
-8. La valutazione e la stima dei beni immobili compresi nelle suddette operazioni viene compensata a parte a norma delle rispettive tariffe.
+La compilazione degli inventari di consegna e riconsegna dei fabbricati vetusti, di caseifici, cantine, enopoli, oleifici, essiccatoi, ecc., e' compensata a vacazione.
 
-### Art. 40
+8.
 
-Consegna e riconsegna di scorte e frutti pendenti
+La valutazione e la stima dei beni immobili compresi nelle suddette operazioni viene compensata a parte a norma delle rispettive tariffe.
 
-1. Per le operazioni di consegna e riconsegna a valore delle scorte e frutti pendenti oltre ai compensi di cui all'art. 39 spettano i compensi di cui alla tabella 8.
+### Art. 40. — Consegna e riconsegna di scorte e frutti pendenti
 
-### Art. 41
+1.
 
-Consegna, riconsegna e custodia di beni
+Per le operazioni di consegna e riconsegna a valore delle scorte e frutti pendenti oltre ai compensi di cui all'art. 39 spettano i compensi di cui alla tabella 8.
 
-1. Le operazioni di consegna e riconsegna dei beni in custodia sono compensate nella misura dei 3/5 degli onorari stabiliti dalla tabella 7.
+### Art. 41. — Consegna, riconsegna e custodia di beni
 
-2. Per la custodia dei beni mobili ed immobili, spettano gli onorari, calcolati per anno o frazione di anno, stabiliti dalla tabella 5, da rapportarsi al valore dei beni, indipendentemente dal loro reddito.
+1.
 
-CAPO IV Capo IV ONORARI A PERCENTUALE
--------------------------------------
+Le operazioni di consegna e riconsegna dei beni in custodia sono compensate nella misura dei 3/5 degli onorari stabiliti dalla tabella 7.
 
-### Art. 42
+2.
 
-Prestazioni da valutare a percentuale
+Per la custodia dei beni mobili ed immobili, spettano gli onorari, calcolati per anno o frazione di anno, stabiliti dalla tabella 5, da rapportarsi al valore dei beni, indipendentemente dal loro reddito.
 
-1. Sono valutati a percentuale gli onorari attinenti le seguenti prestazioni:  
-Sezione prima:
+## ONORARI A PERCENTUALE
 
-a) stima di terreni, di fabbricati, di fondi rustici, di aziende agrarie e zootecniche, boschive, orto-floro-frutticole e vivaistiche, di impianti di trasformazione, di conservazione e di commercializzazione dei prodotti agricoli, dei beni e delle dotazioni comunque connesse  
+Capo IV
+
+### Art. 42. — Prestazioni da valutare a percentuale
+
+1.
+
+Sono valutati a percentuale gli onorari attinenti le seguenti prestazioni:
+ Sezione prima:
+                            a)
+                                stima di terreni, di fabbricati, di fondi rustici, di aziende agrarie e zootecniche, boschive, orto-floro-frutticole e vivaistiche, di impianti di trasformazione, di conservazione e di commercializzazione dei prodotti agricoli, dei beni e delle dotazioni comunque connesse
 con le attivita' di cui sopra;
+                            b)
+                                stima di boschi, parchi, giardini, vivai e colture in serra;
+                            c)
+                                stima per espropriazioni, delle servitu' e dei diritti reali in genere;
+                            d)
+                                stima delle colture erbacee e arboree;
+                            e)
+                                stima dei miglioramenti e delle addizioni;
+                            f)
+                                stima dei danni prodotti da inadempienze contrattuali, da avversita' atmosferiche e da altre cause;
+                            g)
+                                stima dei danni prodotti dall'incendio e dalla grandine;
+                            h)
+                                stime dei canoni di affitto e del valore locativo;
+                            i)
+                                stima delle scorte e dei frutti pendenti concernenti le consegne e riconsegne;
+                            l)
+                                consegne e riconsegne di scorte e frutti pendenti a valore;
+                            m)
+                                consegne e riconsegne di beni in custodia.
+ Sezione seconda:
+ a) divisione dei beni di cui alle precedenti lettere a) e b) della sezione prima nonche' di masse ereditarie a prevalente carattere agricolo;
+ b) successioni ereditarie.
+ Sezione terza:
+ a) costruzioni edilizie, stradali, idrauliche, parchi e giardini;
+ b) piani di sviluppo aziendale e di trasformazione fondiaria.
+ Sezione quarta:
+ a) direzione, amministrazione, funzioni contabili e amministrative di aziende agrarie e zootecniche, boschive, orto- floro-frutticole e vivaistiche, di impianti di trasformazione, conservazione e di commercializzazione;
+ b) esame e compilazione dei conti aziendali, colonici e di imprese;
+ c) consulenza e curatela dei beni di cui al presente articolo;
+ d) funzioni di sindaco revisore.
+ Sezione quinta:
+ a) assistenza tecnica nelle contrattazioni di compravendita, negli affitti e locazioni in genere;
+ b) assistenza tecnica, mutui, finanziamenti, contributi, impieghi di capitali;
+ c) arbitrati.
 
-b) stima di boschi, parchi, giardini, vivai e colture in serra;
+## ONORARI A PERCENTUALE Sezione I
 
-c) stima per espropriazioni, delle servitu' e dei diritti reali in genere;
+Capo IV
 
-d) stima delle colture erbacee e arboree;
+### Art. 43. — Stima di beni
 
-e) stima dei miglioramenti e delle addizioni;
+1.
 
-f) stima dei danni prodotti da inadempienze contrattuali, da avversita' atmosferiche e da altre cause;
+Le stime dei terreni, dei fabbricati, dei fondi rustici, delle aziende agricole, zootecniche, boschive, ortofrutticole e florovivaistiche, di impianti di trasformazione, di commercializzazione di prodotti agricoli e di beni, comunque connessi con l'attivita' agricola, si distinguono in:
+                            a)
+                                stime analitiche: se basate su specifici criteri di valutazione analitica che tengono conto dei vari elementi influenti sul reddito e sul valore dei bene stimato. Dovranno essere correlate da una relazione con descrizione dettagliata dell'immobile stimato (dati catastali, redditi dominicali-agrari, ubicazione esatta, proprieta' o ditta, ecc.) e dei criteri adottati;
+                            b)
+                                stime sintetiche: se basate sul conteggio dei principali elementi influenti sul valore del bene. Dovranno essere corredate da una descrizione dell'immobile stimato e da una relazione sintetica del risultato;
+                            c)
+                                stime sommarie: se esprimono un semplice parere scritto sui valori commerciali dell'immobile stimato.
 
-g) stima dei danni prodotti dall'incendio e dalla grandine;
+2.
 
-h) stime dei canoni di affitto e del valore locativo;
+Per le operazioni di stima spettano gli onorari determinati dalla tabella 1.
 
-i) stima delle scorte e dei frutti pendenti concernenti le consegne e riconsegne;
+### Art. 44. — Stima dei fabbricati aziendali
 
-l) consegne e riconsegne di scorte e frutti pendenti a valore;
+1.
 
-m) consegne e riconsegne di beni in custodia.  
-Sezione seconda:  
-a) divisione dei beni di cui alle precedenti lettere a) e b) della sezione prima nonche' di masse ereditarie a prevalente carattere agricolo;  
-b) successioni ereditarie.  
-Sezione terza:  
-a) costruzioni edilizie, stradali, idrauliche, parchi e giardini;  
-b) piani di sviluppo aziendale e di trasformazione fondiaria.  
-Sezione quarta:  
-a) direzione, amministrazione, funzioni contabili e amministrative di aziende agrarie e zootecniche, boschive, orto- floro-frutticole e vivaistiche, di impianti di trasformazione, conservazione e di commercializzazione;  
-b) esame e compilazione dei conti aziendali, colonici e di imprese;  
-c) consulenza e curatela dei beni di cui al presente articolo;  
-d) funzioni di sindaco revisore.  
-Sezione quinta:  
-a) assistenza tecnica nelle contrattazioni di compravendita, negli affitti e locazioni in genere;  
-b) assistenza tecnica, mutui, finanziamenti, contributi, impieghi di capitali;  
-c) arbitrati.
+La stima dei fabbricati aziendali, degli annessi e dei soli impianti, e' compensata con gli onorari previsti nella tabella 1 maggiorati del 10%.
 
-CAPO V Capo IV ONORARI A PERCENTUALE Sezione I
-----------------------------------------------
+### Art. 45. — Stime dei canoni di affitto e del valore locativo
 
-### Art. 43
+1.
 
-Stima di beni
+Le stime per la determinazione del valore dei canoni di affitto e del valore locativo, sono compensate secondo la tabella 2.
 
-1. Le stime dei terreni, dei fabbricati, dei fondi rustici, delle aziende agricole, zootecniche, boschive, ortofrutticole e florovivaistiche, di impianti di trasformazione, di commercializzazione di prodotti agricoli e di beni, comunque connessi con l'attivita' agricola, si distinguono in:
+### Art. 46. — Stima delle industrie agrarie
 
-a) stime analitiche: se basate su specifici criteri di valutazione analitica che tengono conto dei vari elementi influenti sul reddito e sul valore dei bene stimato. Dovranno essere correlate da una relazione con descrizione dettagliata dell'immobile stimato (dati catastali, redditi dominicali-agrari, ubicazione esatta, proprieta' o ditta, ecc.) e dei criteri adottati;
+1.
 
-b) stime sintetiche: se basate sul conteggio dei principali elementi influenti sul valore del bene. Dovranno essere corredate da una descrizione dell'immobile stimato e da una relazione sintetica del risultato;
-
-c) stime sommarie: se esprimono un semplice parere scritto sui valori commerciali dell'immobile stimato.
-
-2. Per le operazioni di stima spettano gli onorari determinati dalla tabella 1.
-
-### Art. 44
-
-Stima dei fabbricati aziendali
-
-1. La stima dei fabbricati aziendali, degli annessi e dei soli impianti, e' compensata con gli onorari previsti nella tabella 1 maggiorati del 10%.
-
-### Art. 45
-
-Stime dei canoni di affitto e del valore locativo
-
-1. Le stime per la determinazione del valore dei canoni di affitto e del valore locativo, sono compensate secondo la tabella 2.
-
-### Art. 46
-
-Stima delle industrie agrarie
-
-1. Per le stime attinenti alle industrie agrarie  
-(enologica, casearia, olearia, e di trasformazione dei  
-prodotti agricoli in genere) le competenze indicate nelle  
-tabelle 1 e 2 sono aumentate in misura non superiore  
+Per le stime attinenti alle industrie agrarie
+(enologica, casearia, olearia, e di trasformazione dei
+prodotti agricoli in genere) le competenze indicate nelle
+tabelle 1 e 2 sono aumentate in misura non superiore
 al 20%.
 
-### Art. 47
+### Art. 47. — Stime dei danni prodotti dall'incendio e dalla grandine
 
-Stime dei danni prodotti dall'incendio e dalla grandine
+1.
 
-1. Per le stime o perizie attinenti ai danni prodotti dall'incendio su fabbricati rustici, scorte vive e morte, merci e derrate agrarie, frutti pendenti, ecc., gli onorari spettanti al perito agrario, anche se fatta in contraddittorio con periti di imprese assicuratrici, senza tener conto delle deduzioni proporzionali al rapporto fra il valore della cosa e quello assicurativo, sono compensati o calcolati seconda la tabella 3.
+Per le stime o perizie attinenti ai danni prodotti dall'incendio su fabbricati rustici, scorte vive e morte, merci e derrate agrarie, frutti pendenti, ecc., gli onorari spettanti al perito agrario, anche se fatta in contraddittorio con periti di imprese assicuratrici, senza tener conto delle deduzioni proporzionali al rapporto fra il valore della cosa e quello assicurativo, sono compensati o calcolati seconda la tabella 3.
 
-2. Per la valutazione dei danni prodotti dalla grandine, anche se fatta in contraddittorio con periti di imprese assicuratrici, l'onorario spettante al perito agrario e' liquidato con il compenso previsto dalla tabella 3.
+2.
 
-### Art. 48
+Per la valutazione dei danni prodotti dalla grandine, anche se fatta in contraddittorio con periti di imprese assicuratrici, l'onorario spettante al perito agrario e' liquidato con il compenso previsto dalla tabella 3.
 
-Stime dei miglioramenti e dei danni  
-cagionati da inadempienze contrattuali o da altre cause
+### Art. 48. — Stime dei miglioramenti e dei danni
+ cagionati da inadempienze contrattuali o da altre cause
 
-1. Per le stime dei danni causati da inadempienze degli obblighi contrattuali, da trascurata coltura, da malattie parassitarie, da pascolo abusivo, da emanazioni gassose di stabilimenti ed in generre da ogni altra causa di natura ed origine diversa da quelle indicate negli articoli precedenti, nonche' per miglioramenti ed addizioni, gli onorari spettanti del perito agrario sono calcolati nella misura fissata dalla tabella 4.
+1.
 
-### Art. 49
+Per le stime dei danni causati da inadempienze degli obblighi contrattuali, da trascurata coltura, da malattie parassitarie, da pascolo abusivo, da emanazioni gassose di stabilimenti ed in generre da ogni altra causa di natura ed origine diversa da quelle indicate negli articoli precedenti, nonche' per miglioramenti ed addizioni, gli onorari spettanti del perito agrario sono calcolati nella misura fissata dalla tabella 4.
 
-Stime per espropriazioni
+### Art. 49. — Stime per espropriazioni
 
-1. Per le stime delle espropriazioni l'onorario del perito agrario e' determinato sulla base delle percentuali relative ai singoli valori che compongono la stima, rispettivamente alla parte espropriativa, a quella residua (quando debba essere stimata per determinazione il deprezzamento o il plusvalore derivante dalle nuove opere) alle indennita' per scorpori, ai frutti pendenti e a quant'altro formi titolo d'indennizzo di esproprio con riferimento alle tabelle 1 e 8 ed all'art. 45 maggiorato del 30%.
+1.
 
-### Art. 50
+Per le stime delle espropriazioni l'onorario del perito agrario e' determinato sulla base delle percentuali relative ai singoli valori che compongono la stima, rispettivamente alla parte espropriativa, a quella residua (quando debba essere stimata per determinazione il deprezzamento o il plusvalore derivante dalle nuove opere) alle indennita' per scorpori, ai frutti pendenti e a quant'altro formi titolo d'indennizzo di esproprio con riferimento alle tabelle 1 e 8 ed all'art. 45 maggiorato del 30%.
 
-Stima dei boschi
+### Art. 50. — Stima dei boschi
 
-1. La stima dei boschi riguarda:
+1.
 
-a) i soprassuoli (massa legnosa);
+La stima dei boschi riguarda:
+                            a)
+                                i soprassuoli (massa legnosa);
+                            b)
+                                i fondi boschivi (suoli e soprassuoli);
+                            c)
+                                le fustaie per legname da opera;
+                            d)
+                                le fustaie per traversa (per opera e ferrovia);
+                            e)
+                                i boschi cedui da legna e da carbone;
+                            f)
+                                i boschi cedui per palificazione.
 
-b) i fondi boschivi (suoli e soprassuoli);
+2.
 
-c) le fustaie per legname da opera;
+Per l'estimo dei boschi spetta al perito agrario un compenso pari al 7,75% sul valore stimato.
 
-d) le fustaie per traversa (per opera e ferrovia);
+3.
 
-e) i boschi cedui da legna e da carbone;
+Qualora l'entita' delle operazioni non superi il valore di L. 500.000 o l'appezzamento stimato presenti particolari difficolta', la retribuzione puo' essere calcolata anche in base al tempo impiegato.
 
-f) i boschi cedui per palificazione.
+4.
 
-2. Per l'estimo dei boschi spetta al perito agrario un compenso pari al 7,75% sul valore stimato.
+Per l'estimo svolto col metodo delle aree di saggio il compenso e' valutato e calcolato in ragione del 4,00% del valore.
 
-3. Qualora l'entita' delle operazioni non superi il valore di L. 500.000 o l'appezzamento stimato presenti particolari difficolta', la retribuzione puo' essere calcolata anche in base al tempo impiegato.
+5.
 
-4. Per l'estimo svolto col metodo delle aree di saggio il compenso e' valutato e calcolato in ragione del 4,00% del valore.
+Le vacazioni in campagna ai fini della raccolta dei dati e delle operazioni di numerazione (martellature), sono compensate a parte.
 
-5. Le vacazioni in campagna ai fini della raccolta dei dati e delle operazioni di numerazione (martellature), sono compensate a parte.
+### Art. 51. — Stima dei parchi, giardini, vivai e colture in serre
 
-### Art. 51
+1.
 
-Stima dei parchi, giardini, vivai e colture in serre
+La stima dei parchi, giardini, vivai, serre, e' compensata in ragione dell'8% del valore stimato.
 
-1. La stima dei parchi, giardini, vivai, serre, e' compensata in ragione dell'8% del valore stimato.
+2.
 
-2. Per gli eventuali inventari in cui sia richiesta la classificazione e la ripartizione delle piante, i compensi sono calcolati a vacazione.
+Per gli eventuali inventari in cui sia richiesta la classificazione e la ripartizione delle piante, i compensi sono calcolati a vacazione.
 
-### Art. 52
+### Art. 52. — Divisione e formazione di quote
 
-Divisione e formazione di quote
+1.
 
-1. Quando al lavoro di stima vengono abbinate operazioni di divisione spetta un maggiore compenso in misura non superiore al 30% di quello stabilito dalla tabella 1 in relazione alle difficolta', importanza ed entita' dei lavori compiuti.
+Quando al lavoro di stima vengono abbinate operazioni di divisione spetta un maggiore compenso in misura non superiore al 30% di quello stabilito dalla tabella 1 in relazione alle difficolta', importanza ed entita' dei lavori compiuti.
 
-2. Quando al predetto lavoro segue la formazione di quote, spetta una ulteriore maggiorazione dell'8% per ogni quota formata.
+2.
 
-3. Quando i valori vengono forniti direttamente dal committente o desunti da atti contabili, il compenso cosi' come determinato dal primo comma, viene ridotto del 30%, ferma restando la maggiorazione di cui al comma 2 del presente articolo.
+Quando al predetto lavoro segue la formazione di quote, spetta una ulteriore maggiorazione dell'8% per ogni quota formata.
 
-CAPO VI Capo IV ONORARI A PERCENTUALE Sezione II
-------------------------------------------------
+3.
 
-### Art. 53
+Quando i valori vengono forniti direttamente dal committente o desunti da atti contabili, il compenso cosi' come determinato dal primo comma, viene ridotto del 30%, ferma restando la maggiorazione di cui al comma 2 del presente articolo.
 
-Progetto di divisione
+## ONORARI A PERCENTUALE Sezione II
 
-1. La divisione dei beni o di un asse immobiliare di norma prende:
+Capo IV
 
-a) alla relazione tecnica contenente i criteri applicati nella divisione, la descrizione in forma dettagliata dei singoli beni e delle quote, l'indicazione precisa degli elementi necessari alla loro identificazione e la determinazione dei rispettivi valori;
+### Art. 53. — Progetto di divisione
 
-b) la mappa e la planimetria dei beni, ove occorra, con l'indicazione di tutti gli elementi necessari.
+1.
 
-2. Il professionista, se richiesto, assiste alla stipula  
-del relativo atto di divisione per fornire gli eventuali  
-chiarimenti. Per tale assistenza gli spetta un compenso  
+La divisione dei beni o di un asse immobiliare di norma prende:
+                            a)
+                                alla relazione tecnica contenente i criteri applicati nella divisione, la descrizione in forma dettagliata dei singoli beni e delle quote, l'indicazione precisa degli elementi necessari alla loro identificazione e la determinazione dei rispettivi valori;
+                            b)
+                                la mappa e la planimetria dei beni, ove occorra, con l'indicazione di tutti gli elementi necessari.
+
+2.
+
+Il professionista, se richiesto, assiste alla stipula
+del relativo atto di divisione per fornire gli eventuali
+chiarimenti. Per tale assistenza gli spetta un compenso
 a discrezione.
 
-### Art. 54
+### Art. 54. — Determinazione di confini
+ e tipi di frazionamento nelle divisioni
 
-Determinazione di confini  
-e tipi di frazionamento nelle divisioni
+1.
 
-1. Le eventuali operazioni di verifica dei confini di riconfinazione richieste espressamente dal committente durante le operazioni di divisione, sono compensate a norma delle rispettive tariffe.
+Le eventuali operazioni di verifica dei confini di riconfinazione richieste espressamente dal committente durante le operazioni di divisione, sono compensate a norma delle rispettive tariffe.
 
-2. I tipi di frazionamento per volture catastali, quando siano in dipendenza di un progetto di divisione, redatti dallo stesso perito agrario, sono compensati a norma delle rispettive tariffe.
+2.
 
-### Art. 55
+I tipi di frazionamento per volture catastali, quando siano in dipendenza di un progetto di divisione, redatti dallo stesso perito agrario, sono compensati a norma delle rispettive tariffe.
 
-Stima di scorte e frutti pendenti a valore
+### Art. 55. — Stima di scorte e frutti pendenti a valore
 
-1. I compensi relativi alle stime di scorte vive e morte e di frutti pendenti, quando non compresi nella stima delle aziende agricole o assimilate, sono determinati secondo la tabella 8.
+1.
 
-### Art. 56
+I compensi relativi alle stime di scorte vive e morte e di frutti pendenti, quando non compresi nella stima delle aziende agricole o assimilate, sono determinati secondo la tabella 8.
 
-Stima delle servitu' e diritti reali in genere
+### Art. 56. — Stima delle servitu' e diritti reali in genere
 
-1. Per la stima delle servitu' e dei diritti reali in genere, spetta al perito agrario il compenso di cui alla tabella 1, calcolato sul valore degli stessi.
+1.
 
-### Art. 57
+Per la stima delle servitu' e dei diritti reali in genere, spetta al perito agrario il compenso di cui alla tabella 1, calcolato sul valore degli stessi.
 
-Stima delle colture arboree ed erbacee
+### Art. 57. — Stima delle colture arboree ed erbacee
 
-1. Per la stima delle colture arboree ed erbacee spetta al perito agrario un compenso di cui alla tabella 1, maggiorato del 30%.
+1.
 
-### Art. 58
+Per la stima delle colture arboree ed erbacee spetta al perito agrario un compenso di cui alla tabella 1, maggiorato del 30%.
 
-Successioni
+### Art. 58. — Successioni
 
-1. Per le pratiche attinenti le successioni spetta al perito agrario l'onorario sul totale del valore venale attivo e passivo, nella misura delle seguenti percentuali:  
-sino a L. 20.000.000, 3%;  
-sul di piu' sino a L. 50.000.000, 2%;  
-sul di piu' sino a L. 100.000.000, 1%;  
-sul di piu' sino a L. 300.000.000, 0,8%;  
-sul di piu' sino a L. 600.000.000, 0,6%;  
-sul di piu' sino a L. 1.000.000.000, 0,5%;  
-oltre L. 1.000.000.000, 0,4%.
+1.
 
-2. Gli onorari di cui sopra sono aumentati del 40% per la compilazione delle denunzia INVIM, della nota di trascrizione e delle volture catastali.
+Per le pratiche attinenti le successioni spetta al perito agrario l'onorario sul totale del valore venale attivo e passivo, nella misura delle seguenti percentuali:
+ sino a L. 20.000.000, 3%;
+ sul di piu' sino a L. 50.000.000, 2%;
+ sul di piu' sino a L. 100.000.000, 1%;
+ sul di piu' sino a L. 300.000.000, 0,8%;
+ sul di piu' sino a L. 600.000.000, 0,6%;
+ sul di piu' sino a L. 1.000.000.000, 0,5%;
+ oltre L. 1.000.000.000, 0,4%.
 
-CAPO VII Capo IV ONORARI A PERCENTUALE Sezione III
---------------------------------------------------
+2.
 
-### Art. 59
+Gli onorari di cui sopra sono aumentati del 40% per la compilazione delle denunzia INVIM, della nota di trascrizione e delle volture catastali.
 
-Direzione ed amministrazione
+## ONORARI A PERCENTUALE Sezione III
 
-1. Per la direzione di aziende e cooperative agricole, zootecniche, boschive, di industrie agrarie, agromeccaniche, di servizi, di commercializzazione e di trasformazione dei prodotti agricoli e dei mezzi e prodotti per le stesse e comunque di tutte quelle attivita' che alle predette possono assimilarsi l'onorario del perito agrario e' calcolato nella misura a percentuale fissata nella tabella 5.
+Capo IV
 
-2. Per l'amministrazione di aziende di cui al precedente punto 1 l'onorario e' quello previsto dalla tabella 5, maggiorato del 100%.
+### Art. 59. — Direzione ed amministrazione
 
-3. Per le funzioni contabili e/o amministrative, compete l'onorario di cui alla tabella 5 (applicata ad ogni singola voce di bilancio).
+1.
 
-4. In mancanza di produzione lorda l'onorario va calcolato a vacazione.
+Per la direzione di aziende e cooperative agricole, zootecniche, boschive, di industrie agrarie, agromeccaniche, di servizi, di commercializzazione e di trasformazione dei prodotti agricoli e dei mezzi e prodotti per le stesse e comunque di tutte quelle attivita' che alle predette possono assimilarsi l'onorario del perito agrario e' calcolato nella misura a percentuale fissata nella tabella 5.
 
-### Art. 60
+2.
 
-Consulenze e curatele
+Per l'amministrazione di aziende di cui al precedente punto 1 l'onorario e' quello previsto dalla tabella 5, maggiorato del 100%.
 
-1. La consulenza e la curatela di quanto previsto dall'art. 61 sono comprese in base alla tabella 5.
+3.
 
-2. Qualora l'oggetto della prestazione non produca un reddito proprio, l'onorario e' computato a vacazione.
+Per le funzioni contabili e/o amministrative, compete l'onorario di cui alla tabella 5 (applicata ad ogni singola voce di bilancio).
 
-3. Sono sempre compensate a parte le prestazioni che implicano progetti, interventi in causa, arbitrati.
+4.
 
-4. Per la consulenza alle aziende in via di trasformazione o di bonifica l'onorario previsto dalla tabella 5 e' maggiorato del 25%, salvo, comunque, quanto previsto dall'art. 7 della presente tariffa.
+In mancanza di produzione lorda l'onorario va calcolato a vacazione.
 
-### Art. 61
+### Art. 60. — Consulenze e curatele
 
-Assistenza tecnica nelle contrattazioni di compravendita  
-negli affitti o locazioni in genere
+1.
 
-1. L'onorario spettante al perito agrario per assistenza tecnica nelle contrattazioni di compravendita, nei contratti di affito o di locazione di immobili, e' fissato dalla tabella 6.
+La consulenza e la curatela di quanto previsto dall'art. 61 sono comprese in base alla tabella 5.
 
-2. Il compenso per l'assistenza nelle contrattazioni per affitti e nelle locazioni in genere va calcolato sul canone del primo anno.
+2.
 
-### Art. 62
+Qualora l'oggetto della prestazione non produca un reddito proprio, l'onorario e' computato a vacazione.
 
-Esame e compilazione dei conti aziendali e colonici
+3.
 
-1. Per l'esame e la compilazione dei conti aziendali e colonici spetta un compenso pari al 2% sul complessivo importo delle voci del dare e dell'avere di tutti i conti.
+Sono sempre compensate a parte le prestazioni che implicano progetti, interventi in causa, arbitrati.
 
-CAPO VIII Capo IV ONORARI A PERCENTUALE Sezione IV
---------------------------------------------------
+4.
 
-### Art. 63
+Per la consulenza alle aziende in via di trasformazione o di bonifica l'onorario previsto dalla tabella 5 e' maggiorato del 25%, salvo, comunque, quanto previsto dall'art. 7 della presente tariffa.
 
-Costruzioni edilizie, idrauliche ed impianti in genere
+### Art. 61. — Assistenza tecnica nelle contrattazioni di compravendita
+ negli affitti o locazioni in genere
 
-1. L'onorario spettante al perito agrario per progettazione, direzione, collaudo e liquidazione dei lavori concerne le seguenti opere:
+1.
 
-a) costruzioni rurali e zootecniche comprendenti abitazioni, annessi rustici, ricoveri per bestiame, capannoni per ricovero macchine ed attrezzi agricoli, magazzini per lo stoccaggio e la commercializzazione dei prodotti agricoli in genere;
+L'onorario spettante al perito agrario per assistenza tecnica nelle contrattazioni di compravendita, nei contratti di affito o di locazione di immobili, e' fissato dalla tabella 6.
 
-b) costruzioni per la lavorazione, trasformazione e commercializzazione dei prodotti agricoli e per le industrie agrarie;
+2.
 
-c) costruzioni rurali di cui ai paragrafi a) e b) in zone sismiche e asismiche;
+Il compenso per l'assistenza nelle contrattazioni per affitti e nelle locazioni in genere va calcolato sul canone del primo anno.
 
-d) sopraelevazioni e restauri degli edifici e dei fabbricati di cui ai paragrafi a) e b);
+### Art. 62. — Esame e compilazione dei conti aziendali e colonici
 
-e) opere e lavori in terra;
+1.
 
-f) strade in generale;
+Per l'esame e la compilazione dei conti aziendali e colonici spetta un compenso pari al 2% sul complessivo importo delle voci del dare e dell'avere di tutti i conti.
 
-g) opere stradali a se' stanti e relativi manufatti;
+## ONORARI A PERCENTUALE Sezione IV
 
-h) canali;
+Capo IV
 
-i) arginature;
+### Art. 63. — Costruzioni edilizie, idrauliche ed impianti in genere
 
-l) opere idrauliche (pozzi, laghetti od invasi collinari);
+1.
 
-m) condotte idrauliche, poderali ed interpoderali;
+L'onorario spettante al perito agrario per progettazione, direzione, collaudo e liquidazione dei lavori concerne le seguenti opere:
+                            a)
+                                costruzioni rurali e zootecniche comprendenti abitazioni, annessi rustici, ricoveri per bestiame, capannoni per ricovero macchine ed attrezzi agricoli, magazzini per lo stoccaggio e la commercializzazione dei prodotti agricoli in genere;
+                            b)
+                                costruzioni per la lavorazione, trasformazione e commercializzazione dei prodotti agricoli e per le industrie agrarie;
+                            c)
+                                costruzioni rurali di cui ai paragrafi a) e b) in zone sismiche e asismiche;
+                            d)
+                                sopraelevazioni e restauri degli edifici e dei fabbricati di cui ai paragrafi a) e b);
+                            e)
+                                opere e lavori in terra;
+                            f)
+                                strade in generale;
+                            g)
+                                opere stradali a se' stanti e relativi manufatti;
+                            h)
+                                canali;
+                            i)
+                                arginature;
+                            l)
+                                opere idrauliche (pozzi, laghetti od invasi collinari);
+                            m)
+                                condotte idrauliche, poderali ed interpoderali;
+                            n)
+                                controllo delle acque (drenaggio) e distribuzione delle acque;
+                            o)
+                                bonifiche idrauliche ed irrigazioni, anche con sollevamento meccanico ed elettrico;
+                            p)
+                                derivazioni ed adduzioni di acque da corsi fluviali e torrenziali a scopo di irrigazione delle colture;
+                            q)
+                                progetti di bonifica agraria e di trasformazione fondiaria;
+                            r)
+                                progetti di parchi, verde pubblico e privato, giardini ed opere di interesse paesaggistico in genere, d'impianti arboreti di colture protette, d'impianti boschivi e da legno in genere.
+ L'onorario si calcola con le percentuali previste dalle tabelle 9 e 10.
 
-n) controllo delle acque (drenaggio) e distribuzione delle acque;
+2.
 
-o) bonifiche idrauliche ed irrigazioni, anche con sollevamento meccanico ed elettrico;
+Quando l'incarico non riguarda l'intero svolgimento dell'opera ma si limita ad alcune delle prestazioni l'onorario percentuale previsto nella tabelle 9 e 10 e' moltiplicato per le aliquote corrispondenti alle prestazioni effettivamente compiute, e di cui alla tabella 11, aumentate del 25%.
 
-p) derivazioni ed adduzioni di acque da corsi fluviali e torrenziali a scopo di irrigazione delle colture;
+3.
 
-q) progetti di bonifica agraria e di trasformazione fondiaria;
+Per la misura e la contabilita' dei lavori, spetta l'onorario stabilito dalla tabella 12.
 
-r) progetti di parchi, verde pubblico e privato, giardini ed opere di interesse paesaggistico in genere, d'impianti arboreti di colture protette, d'impianti boschivi e da legno in genere.  
-L'onorario si calcola con le percentuali previste dalle tabelle 9 e 10.
+4.
 
-2. Quando l'incarico non riguarda l'intero svolgimento dell'opera ma si limita ad alcune delle prestazioni l'onorario percentuale previsto nella tabelle 9 e 10 e' moltiplicato per le aliquote corrispondenti alle prestazioni effettivamente compiute, e di cui alla tabella 11, aumentate del 25%.
+L'aggiornamento dei prezzi e' compensato con una aliquota pari al 20% di quanto previsto, per il preventivo particolareggiato, nel combinato delle tabelle 9 e 11 nella misura del 40% della stessa, nel caso di nuove analisi dei prezzi.
 
-3. Per la misura e la contabilita' dei lavori, spetta l'onorario stabilito dalla tabella 12.
+5.
 
-4. L'aggiornamento dei prezzi e' compensato con una aliquota pari al 20% di quanto previsto, per il preventivo particolareggiato, nel combinato delle tabelle 9 e 11 nella misura del 40% della stessa, nel caso di nuove analisi dei prezzi.
+Per il collaudo delle opere l'onorario e' pari al 10% di quello stabilito dalla tabella 9, mentre per il collaudo eseguito secondo le norme stabilite dall'ex genio civile dalle regioni, province e comuni, l'onorario e' pari al 20% di quello fissato dalla tabella 9.
 
-5. Per il collaudo delle opere l'onorario e' pari al 10% di quello stabilito dalla tabella 9, mentre per il collaudo eseguito secondo le norme stabilite dall'ex genio civile dalle regioni, province e comuni, l'onorario e' pari al 20% di quello fissato dalla tabella 9.
+6.
 
-6. In caso di revisione dei prezzi, spetta un compenso pari al 30% di quanto previsto dalla tabella 12.
+In caso di revisione dei prezzi, spetta un compenso pari al 30% di quanto previsto dalla tabella 12.
 
-### Art. 64
+### Art. 64. — Piano di sviluppo aziendale e di trasformazione fondiaria
 
-Piano di sviluppo aziendale e di trasformazione fondiaria
+1.
 
-1. Il perito agrario al quale viene richiesta la redazione di un piano di sviluppo aziendale e' compensato con le percentuali previste dalla tabella 1, colonna 3, calcolate sull'importo dei valori delle previsioni e dei bilanci che lo compongono.
+Il perito agrario al quale viene richiesta la redazione di un piano di sviluppo aziendale e' compensato con le percentuali previste dalla tabella 1, colonna 3, calcolate sull'importo dei valori delle previsioni e dei bilanci che lo compongono.
 
-### Art. 65
+### Art. 65. — A r b i t r a t i
 
-A r b i t r a t i
+1.
 
-1. In caso di arbitrati compete al perito agrario un compenso sui valori stimati, in ragione del 25% in piu' previsto dalle rispettive tabelle; quando non emerge un valore il compenso e' commisurato a discrezione.
+In caso di arbitrati compete al perito agrario un compenso sui valori stimati, in ragione del 25% in piu' previsto dalle rispettive tabelle; quando non emerge un valore il compenso e' commisurato a discrezione.
 
-### Art. 66
+### Art. 66. — Funzioni del sindaco revisore
 
-Funzioni del sindaco revisore
+1.
 
-1. Al perito agrario sindaco revisore effettivo nelle societa', spetta per ogni anno o frazione di anno in carica l'onorario sull'ammontare del capitale sociale e delle riserve non costituite a fronte di oneri, o dell'ammontare del patrimonio inteso in senso lato, come segue:  
-fino a L. 100.000.000, L. 700.000;  
-da L. 100.000.001 a L. 200.000.000, L. 1.200.000;  
-da L. 200.000.001 a L. 500.000.000, L. 1.700.000;  
-da L. 500.000.001 a L. 1.000.000.000, L. 1.900.000;  
-da L. 1.000.000.001 a L. 3.000.000.000, L. 2.200.000;  
-oltre L. 3.000.000.001, L. 2.500.000.
+Al perito agrario sindaco revisore effettivo nelle societa', spetta per ogni anno o frazione di anno in carica l'onorario sull'ammontare del capitale sociale e delle riserve non costituite a fronte di oneri, o dell'ammontare del patrimonio inteso in senso lato, come segue:
+ fino a L. 100.000.000, L. 700.000;
+ da L. 100.000.001 a L. 200.000.000, L. 1.200.000;
+ da L. 200.000.001 a L. 500.000.000, L. 1.700.000;
+ da L. 500.000.001 a L. 1.000.000.000, L. 1.900.000;
+ da L. 1.000.000.001 a L. 3.000.000.000, L. 2.200.000;
+ oltre L. 3.000.000.001, L. 2.500.000.
 
-2. Per le stesse funzioni espletate per conto delle societa' coop- erative l'onorario e' determinato sull'ammontare delle attivita' sociali al lordo, come dalla seguente tabella:  
-fino a L. 10.000.000, L. 50.000;  
-da L. 10.000.001 a L. 50.000.000, L. 100.000;  
-da L. 50.000.001 a L. 100.000.000, L. 150.000;  
-da L. 100.000.001 a L. 500.000.000, L. 200.000;  
-oltre L. 500.000.001, L. 300.000.
+2.
 
-3. Gli onorari di cui sopra sono maggiorati del 50% quando il perito agrario ricopre la carica di presidente del collegio sindacale.
+Per le stesse funzioni espletate per conto delle societa' coop- erative l'onorario e' determinato sull'ammontare delle attivita' sociali al lordo, come dalla seguente tabella:
+ fino a L. 10.000.000, L. 50.000;
+ da L. 10.000.001 a L. 50.000.000, L. 100.000;
+ da L. 50.000.001 a L. 100.000.000, L. 150.000;
+ da L. 100.000.001 a L. 500.000.000, L. 200.000;
+ oltre L. 500.000.001, L. 300.000.
 
-### Art. 67
+3.
 
-Assistenza tecnica nei mutui, finanziamenti, contributi  
-sussidi e investimenti di capitali
+Gli onorari di cui sopra sono maggiorati del 50% quando il perito agrario ricopre la carica di presidente del collegio sindacale.
 
-1. L'onorario spettante al perito agrario per le prestazioni rela- tive all'ottenimento dei mutui, prestiti, contributi, sussidi, ecc., investimenti di capitali, e' fissato nella tabella 6.
+### Art. 67. — Assistenza tecnica nei mutui, finanziamenti, contributi
+ sussidi e investimenti di capitali
 
-CAPO IX Capo V ONORARI A DISCREZIONE Sezione IV
------------------------------------------------
+1.
 
-### Art. 68
+L'onorario spettante al perito agrario per le prestazioni rela- tive all'ottenimento dei mutui, prestiti, contributi, sussidi, ecc., investimenti di capitali, e' fissato nella tabella 6.
 
-Competenze a discrezione
+## ONORARI A DISCREZIONE Sezione IV
 
-1. In questa categoria sono comprese le prestazioni la cui determinazione non puo' farsi in base al tempo impiegato, in quanto elemento secondario in confronto alle attivita' e capacita' poste in atto dal perito agrario incaricato, ne' in base al valore dell'oggetto della prestazione in quanto difficilmente concretizzabile in cifre.
+Capo V
 
-2. In tali casi il compenso dovuto al perito agrario e' determinato discrezionalmente, tenendo conto dell'importanza e delicatezza dell'incarico, dello studio, del tempo occorso, del valore e pregio dell'opera e dal risultato conseguito.
+### Art. 68. — Competenze a discrezione
 
-3. In generale, a questa categoria appartengono le prestazioni attinenti pareri, assistenza e consulenza, scritti o meno, che non siano necessariamente connesse ad un incarico delle precedenti categorie, quali ad esempio:
+1.
 
-a) stipulazioni di compromessi; convenzioni di servitu'; transazioni; permute; scritture per cessione; convenzioni in genere; conclusioni di affari; contratti agrari generali e speciali; costituzione di consorzi e societa'; arbitrati; memorie e perizie rese dinanzi alle autorita' o ad altri enti od organismi; brevetti; interpretazioni ed esami di: leggi, regolamenti, usi e consuetudini in materia agraria; ricettazione fitofarmaci, relazioni in materia ecologica; verbali; attestati e certificazioni, esame di atti, ricorsi, istanze e reclami e assistenza e rappresentanza in materia fiscale e tributaria;
+In questa categoria sono comprese le prestazioni la cui determinazione non puo' farsi in base al tempo impiegato, in quanto elemento secondario in confronto alle attivita' e capacita' poste in atto dal perito agrario incaricato, ne' in base al valore dell'oggetto della prestazione in quanto difficilmente concretizzabile in cifre.
 
-b) inchieste e ricerche agricole e agro-alimentari,  
+2.
+
+In tali casi il compenso dovuto al perito agrario e' determinato discrezionalmente, tenendo conto dell'importanza e delicatezza dell'incarico, dello studio, del tempo occorso, del valore e pregio dell'opera e dal risultato conseguito.
+
+3.
+
+In generale, a questa categoria appartengono le prestazioni attinenti pareri, assistenza e consulenza, scritti o meno, che non siano necessariamente connesse ad un incarico delle precedenti categorie, quali ad esempio:
+                            a)
+                                stipulazioni di compromessi; convenzioni di servitu'; transazioni; permute; scritture per cessione; convenzioni in genere; conclusioni di affari; contratti agrari generali e speciali; costituzione di consorzi e societa'; arbitrati; memorie e perizie rese dinanzi alle autorita' o ad altri enti od organismi; brevetti; interpretazioni ed esami di: leggi, regolamenti, usi e consuetudini in materia agraria; ricettazione fitofarmaci, relazioni in materia ecologica; verbali; attestati e certificazioni, esame di atti, ricorsi, istanze e reclami e assistenza e rappresentanza in materia fiscale e tributaria;
+                            b)
+                                inchieste e ricerche agricole e agro-alimentari,
 boschive, orto-floro-frutto-vivaistiche, di trasformazione, conservazione, e commercializzazione dei prodotti agricoli e di mezzi tecnici; formulazione ed analisi dei costi di produzione; rilevazione dati statistici; impianti di contabilita' agraria; confronti fra i diversi tipi di produzione; classificazione di terreni; interventi a sessioni o a congressi; giudizi di accertamento di qualita', quantita' e consistenza economica delle produzioni agricole, boschive, orto-floro-frutticole e vivaistiche, nonche' delle industrie agrarie in genere;
+                            c)
+                                stime di sorgenti e di acque irrigue, misurazione, regolazione e ripartizione delle acque irrigue tra gli utenti dell'impresa irrigua;
+                            d)
+                                operazioni di revisione dei bilanci e dei rendiconti, liquidazione dei conti con tutti i titoli di debito e credito per le aziende di cui all'art. 61, punto 1;
+                            e)
+                                assistenza e consulenza nelle controversie in materia di contratti agrari;
+                            f)
+                                piani di riparto delle spese di costruzione e manutenzione di opere comuni o consorziali.
 
-c) stime di sorgenti e di acque irrigue, misurazione, regolazione e ripartizione delle acque irrigue tra gli utenti dell'impresa irrigua;
+4.
 
-d) operazioni di revisione dei bilanci e dei rendiconti, liquidazione dei conti con tutti i titoli di debito e credito per le aziende di cui all'art. 61, punto 1;
+A parte sono compensate, secondo le rispettive tabelle le prestazioni integrative e/o complementari quali, ad esempio, stime, rilievi, ecc.
 
-e) assistenza e consulenza nelle controversie in materia di contratti agrari;
+## ONORARI RELATIVI A SETTORI DI ATTIVITA' DIVERSE Sezione IV
 
-f) piani di riparto delle spese di costruzione e manutenzione di opere comuni o consorziali.
+Capo VI
 
-4. A parte sono compensate, secondo le rispettive tabelle le prestazioni integrative e/o complementari quali, ad esempio, stime, rilievi, ecc.
+### Art. 69. — Stima dei tabacchi e prestazioni relative alla tecnica
+ coltivazione e lavorazione tabacchi
 
-CAPO X Capo VI ONORARI RELATIVI A SETTORI DI ATTIVITA' DIVERSE Sezione IV
--------------------------------------------------------------------------
+1.
 
-### Art. 69
-
-Stima dei tabacchi e prestazioni relative alla tecnica  
-coltivazione e lavorazione tabacchi
-
-1. Per la stima dei tabacchi oltre al rimborso delle spese di viaggio, vitto ed alloggio al perito agrario spettano:
-
-a) per la stima del tabacco secco in foglia allo stato sciolto i seguenti onorari per quintale (o frazione) di prodotto periziato, anche se non acquistato e non introdotto nel magazzino del traformatore: per i tabacchi tipo levantini L. 4.000, per i tabacchi tipo "Bright", "Kentuky" e similari L. 3.500 con un compenso minimo, fino a q.li 50, di L. 250.000;
-
-b) per le stime dei tabacchi allo stato verde sia prima della raccolta che presso i locali di custodia, l'onorario di cui alla lettera a) e' ridotto al 30%;
-
-c) per la direzione tecnica comprendente l'acquisto, l'assistenza durante la lavorazione, la classifica o la vendita, l'onorario e' del 5% sull'importo globale liquidato per i primi 100 q.li e del 3,50% sull'eccedenza, con un compenso minimo di L. 250.000;
-
-d) per la rappresentanza delle imprese di trasformazione, davanti ad una "commissione di perizia", il compenso minimo e' previsto in L. 250.000 per partita fino a 100 q.li di tabacco, per le quantita' eccedenti spettera' lo 0,50% dell'importo globale liquidato;
-
-e) per l'assistenza tecnica alla lavorazione e stivaggio sino alla consegna del prodotto, escluse le operazioni di perizie e classifica, compete per i primi 100 q.li l'onorario in ragione del 3% sull'importo globale liquidato, con un compenso minimo di L. 250.000.  
+Per la stima dei tabacchi oltre al rimborso delle spese di viaggio, vitto ed alloggio al perito agrario spettano:
+                            a)
+                                per la stima del tabacco secco in foglia allo stato sciolto i seguenti onorari per quintale (o frazione) di prodotto periziato, anche se non acquistato e non introdotto nel magazzino del traformatore: per i tabacchi tipo levantini L. 4.000, per i tabacchi tipo "Bright", "Kentuky" e similari L. 3.500 con un compenso minimo, fino a q.li 50, di L. 250.000;
+                            b)
+                                per le stime dei tabacchi allo stato verde sia prima della raccolta che presso i locali di custodia, l'onorario di cui alla lettera a) e' ridotto al 30%;
+                            c)
+                                per la direzione tecnica comprendente l'acquisto, l'assistenza durante la lavorazione, la classifica o la vendita, l'onorario e' del 5% sull'importo globale liquidato per i primi 100 q.li e del 3,50% sull'eccedenza, con un compenso minimo di L. 250.000;
+                            d)
+                                per la rappresentanza delle imprese di trasformazione, davanti ad una "commissione di perizia", il compenso minimo e' previsto in L. 250.000 per partita fino a 100 q.li di tabacco, per le quantita' eccedenti spettera' lo 0,50% dell'importo globale liquidato;
+                            e)
+                                per l'assistenza tecnica alla lavorazione e stivaggio sino alla consegna del prodotto, escluse le operazioni di perizie e classifica, compete per i primi 100 q.li l'onorario in ragione del 3% sull'importo globale liquidato, con un compenso minimo di L. 250.000.
 Per l'eccedenza il compemso e' in ragione del 2%;
-
-f) per l'assistenza, sopralluoghi e consulenza tecnica alle coltivazioni di tabacco (dall'allestimento dei semenzai alla raccolta completa), il compenso minimo e' previsto in L. 200.000 per ettaro coltivato, fino a 50 ettari; per le superifici eccedenti i 50 ettari il compenso e' maggiorato di L. 50.000 ad ettaro;
-
-g) per l'assistenza tecnica al processo di cura a fuoco indiretto del tabacco delle cultivar "Bright" e similari, compete, per i primi 150 quintali, un compenso pari al  
-2,50% del valore del tabacco greggio allo stato sciolto,  
+                            f)
+                                per l'assistenza, sopralluoghi e consulenza tecnica alle coltivazioni di tabacco (dall'allestimento dei semenzai alla raccolta completa), il compenso minimo e' previsto in L. 200.000 per ettaro coltivato, fino a 50 ettari; per le superifici eccedenti i 50 ettari il compenso e' maggiorato di L. 50.000 ad ettaro;
+                            g)
+                                per l'assistenza tecnica al processo di cura a fuoco indiretto del tabacco delle cultivar "Bright" e similari, compete, per i primi 150 quintali, un compenso pari al
+2,50% del valore del tabacco greggio allo stato sciolto,
 per l'eccedenza il compenso si riduce all'1,50% con un minimo di L. 200.000.
 
-2. Per gli arbitrati in tutte le controversie in materia di tabacchi spettano gli onorari previsti nel presente articolo, commisurati al valore della partita in contestazione maggiorati del 50%.
+2.
 
-### Art. 70
+Per gli arbitrati in tutte le controversie in materia di tabacchi spettano gli onorari previsti nel presente articolo, commisurati al valore della partita in contestazione maggiorati del 50%.
 
-Controllo sui terreni, sulle acque e sulle piante
+### Art. 70. — Controllo sui terreni, sulle acque e sulle piante
 
-1. Per la consulenza e il controllo dei terreni, delle acque e delle fitopatie delle piante spettano al perito agrario i compensi di cui alle tabelle 13, 14, 15, 16 e 17.
+1.
 
-### Art. 71
+Per la consulenza e il controllo dei terreni, delle acque e delle fitopatie delle piante spettano al perito agrario i compensi di cui alle tabelle 13, 14, 15, 16 e 17.
 
-Fertilizzanti e mangimi
+### Art. 71. — Fertilizzanti e mangimi
 
-1. Per il controllo analitico-qualitativo dei fertilizzanti e dei mangimi spettanto al perito agrario i compensi previsti dalla tabella 18.
+1.
 
-### Art. 72
+Per il controllo analitico-qualitativo dei fertilizzanti e dei mangimi spettanto al perito agrario i compensi previsti dalla tabella 18.
 
-Commerciabilita' dei prodotti
+### Art. 72. — Commerciabilita' dei prodotti
 
-1. Per la classificazione e controllo della qualita' merceologica dei prodotti, ai fini della loro commerciabilita' e fitosanita', spettano al perito agrario i seguenti compensi:  
-sino a q.li 50, L. 250.000;  
-sul di piu' sino a q.li 100, L. 4.000 al q.le;  
-sul di piu' sino a q.li 300, L. 3.500 al q.le;  
-sul di piu' sino a q.li 500, L. 3.000 al q.le;  
-sul di piu' sino a q.li 750, L. 2.500 al q.le;  
-oltre i q.li 750, L. 2.000 al q.le.
+1.
 
-### Art. 73
+Per la classificazione e controllo della qualita' merceologica dei prodotti, ai fini della loro commerciabilita' e fitosanita', spettano al perito agrario i seguenti compensi:
+ sino a q.li 50, L. 250.000;
+ sul di piu' sino a q.li 100, L. 4.000 al q.le;
+ sul di piu' sino a q.li 300, L. 3.500 al q.le;
+ sul di piu' sino a q.li 500, L. 3.000 al q.le;
+ sul di piu' sino a q.li 750, L. 2.500 al q.le;
+ oltre i q.li 750, L. 2.000 al q.le.
 
-Settore zootecnico e lattiero-caseario
+### Art. 73. — Settore zootecnico e lattiero-caseario
 
-1. Per la consulenza tecnica nel settore zootecnico e lattiero- caseario, le cui prestazioni consistono in sopralluoghi ed interventi diretti nonche' in controlli analitici, il compenso al perito agrario e' calcolato sul valore complessivo del latte trasformato, secondo le quote percentuali stabilite nella tabella 19.
+1.
 
-2. Per i singoli interventi di indirizzo tecnologico effettuati straordinariamente, limitati al massimo di due trasformazioni consec- utive, spetta un compenso pari al 12% del valore del latte caseificato nella giornata.
+Per la consulenza tecnica nel settore zootecnico e lattiero- caseario, le cui prestazioni consistono in sopralluoghi ed interventi diretti nonche' in controlli analitici, il compenso al perito agrario e' calcolato sul valore complessivo del latte trasformato, secondo le quote percentuali stabilite nella tabella 19.
 
-3. Per i controlli tecnico-commerciali delle partite di formaggio di burro e di altri derivati del latte, con relativa scelta e classificazione, spetta un compenso pari allo 0,50 del valore della partita.
+2.
 
-4. Per sopralluoghi, controlli dell'alimentazione e per la vigilanza igienica delle apparecchiature di stalla, il compenso va calcolato a vacazione.
+Per i singoli interventi di indirizzo tecnologico effettuati straordinariamente, limitati al massimo di due trasformazioni consec- utive, spetta un compenso pari al 12% del valore del latte caseificato nella giornata.
 
-5. Per i controlli analitici del latte e dei suoi derivati e per i prelievi dei campioni gli onorari sono stabiliti dalla tabella 20.
+3.
 
-### Art. 74
+Per i controlli tecnico-commerciali delle partite di formaggio di burro e di altri derivati del latte, con relativa scelta e classificazione, spetta un compenso pari allo 0,50 del valore della partita.
 
-Settore vitivinicolo ed enologico
+4.
 
-1. Per la consulenza nei settori vitivinicolo ed enologico spettano al perito agrario i compensi stabiliti dalla tabella 21.
+Per sopralluoghi, controlli dell'alimentazione e per la vigilanza igienica delle apparecchiature di stalla, il compenso va calcolato a vacazione.
 
-2. Per i controlli analitici nel settore enologico spettano i compensi di cui alla tabella 22.
+5.
 
-### Art. 75
+Per i controlli analitici del latte e dei suoi derivati e per i prelievi dei campioni gli onorari sono stabiliti dalla tabella 20.
 
-Settori olivicolo ed elaiotecnico
+### Art. 74. — Settore vitivinicolo ed enologico
 
-1. Per la consulenza tecnica nei settori olivicolo ed elaiotecnico spettano al perito agrario i compensi indicati dalla tabella 23.
+1.
 
-2. Per i controlli organolettici ed analitici nel settore elaiotecnico spettano i compensi dalla tabella 24.
+Per la consulenza nei settori vitivinicolo ed enologico spettano al perito agrario i compensi stabiliti dalla tabella 21.
 
-CAPO XI Capo VI ONORARI RELATIVI A SETTORI DI ATTIVITA' DIVERSE Sezione IV
---------------------------------------------------------------------------
+2.
 
-### Art. 76
+Per i controlli analitici nel settore enologico spettano i compensi di cui alla tabella 22.
 
-Settori orto-florofrutticolo-vivaistico e giardinaggio
+### Art. 75. — Settori olivicolo ed elaiotecnico
 
-1. Per la consulenza nei settori orto-floro-frutticolo-vivaistico e giardinaggio spettanto al perito agrario i compensi stabiliti dalla tabella 10.
+1.
+
+Per la consulenza tecnica nei settori olivicolo ed elaiotecnico spettano al perito agrario i compensi indicati dalla tabella 23.
+
+2.
+
+Per i controlli organolettici ed analitici nel settore elaiotecnico spettano i compensi dalla tabella 24.
+
+## ONORARI RELATIVI A SETTORI DI ATTIVITA' DIVERSE Sezione IV
+
+Capo VI
+
+### Art. 76. — Settori orto-florofrutticolo-vivaistico e giardinaggio
+
+1.
+
+Per la consulenza nei settori orto-floro-frutticolo-vivaistico e giardinaggio spettanto al perito agrario i compensi stabiliti dalla tabella 10.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 15 maggio 1993
+Roma, 15 maggio 1993
 
-Il Ministro di grazia e giustizia CONSO Il Ministro dell'agricoltura e delle foreste DIANA
-
-Visto, il Guardasigilli: CONSO Registrato alla Corte dei conti il 6 settembre 1993
-
-Registro n. 20 Giustizia, foglio n. 176
-
-Allegato
-
- ALLEGATO   
-  
-  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | TABELLA 1 | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | Onorari per stime | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| |VALORE STIMATO |ANALITICHE |SINTETICHE|SOMMARIE| |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_| |Sino a.............L. 10.000.000 | 3,10 % | 2,10 % | 1,55 % | |Sul di piu' sino a L. 30.000.000 | 2,60 % | 1,75 % | 1,30 % |  
-| " a L. 60.000.000 | 2,20 % | 1,10 % | 1,10 % | | " a L.120.000.000 | 1,70 % | 0,75 % | 0,65 % | | " a L.300.000.000 | 1,30 % | 0,55 % | 0,45 % | | " a L.600.000.000 | 0,90 % | 0,45 % | 0,35 % | |oltre............. L.600.000.000 | 0,65 % | 0,40 % | 0,20 % | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | TABELLA 2 | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | Onorari relativi i valori dei canoni di affitto e della locazione | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | CANONE ANNUO | COMPENSO | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| |Sino a.............L. 2.500.000 | 8,90 % | |Sul di piu' sino a L. 5.000.000 | 6,70 % |  
-| " " " a L. 7.500.000 | 4,50 % | |oltre............. L. 7.500.000 | 2,50 % | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | TABELLA 3 | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | Onorari relativi alle stime dei danni prodotti dall'incendio e | | dalla grandine | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| |VALORE STIMATO | INCENDIO | GRANDINE | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| |Sino a.............L. 5.000.000 | 4,00 % | 4,80 % | |Sul di piu' sino a L. 7.500.000 | 3,35 % | 4,00 % |  
-| " a L.15.000.000 | 2,75 % | 2,40 % | | " a L.30.000.000 | 2,20 % | 1,80 % | |oltre............. L.30.000.000 | 1,65 % | 1.32 % | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | TABELLA 4 | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| |Onorari relativi a stime per miglioramenti e danni per inadempienza| | contrattuali o da altra causa | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | VALORE STIMATO | COMPENSO | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| |Sino a.............L. 6.000.000 | 6,65 % | |Sul di piu' sino a L.12.000.000 | 4,45 % |  
-| " " " a L.24.000.000 | 3.30 % | | " " " a L.36.000.000 | 2,20 % | |oltre............. L.36.000.000 | 1,40 % | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | TABELLA 5 | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | Onorari relativi alle consulenze tecniche e curatole | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | PRODUZIONE LORDA | COMPENSO | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| |Sino a.............L.10.000.000 | 6,65 % | |Sul di piu' sino a L.25.000.000 | 5,55 % |  
-| " " " a L.50.000.000 | 4,45 % | |oltre............. L.50.000.000 | 3,30 % | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | TABELLA 6 | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| |Onorari relativi all'assistenza nella compravendita, nei contratti | |di affitto e locazione, nella richiesta e concessione di mutui,| |prestiti e finanziamenti vari, contributi e investimenti capitale| |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | |Compra- |affitto| Finanziamenti | | |vendita | e |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | VALORE |immobili| loca- | mutui |prestiti| | | | zione | | | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_| |Sino a............L. 5.000.000| 2,30 % | 3,30 %| 2,00 % | 1,50 % | |Sul di piu sino a L. 10.000.000| 2,30 % | 2,55 %| 2,50 % | 1,25 % | | " a L. 50.000.000| 2,30 % | 1,75 %| 2,00 % | 1,00 % | | " a L.100.000.000| 1,80 % | 1,00 %| 1,50 % | 0,75 % | |oltre............ L.100.000.000| 1,30 % | 1,00 %| 1,10 % | 0,50 % | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | TABELLA 7 | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | Lavori di consegna e riconsegna dei fondi rustici - | | Inventari - Bilanci | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | L/HA | | | | |Bilancio|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | ESTENSIONI | | PIANURA COLLINA MONTAGNA | | | | | |IMPORTI AD ETTARO| |INTENS.|ESTEN.|INTENS.|ESTENS. | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_| |Fino ad Ha. 10|10.000 |20.000 |10.000|30.000 |15.000 |40.000 | |Sul di piu sino | | | | | | | | ad Ha. 25| 8.000 |16.000 | 8.000|25.000 |12.000 |20.000 | |Sul di piu sino | | | | | | | | ad Ha. 50| 6.000 |12.000 | 6.000|20.000 |10.000 |15.000 | |Sul di piu sino | | | | | | | | ad Ha. 150| 5.000 |10.000 | 5.000|18.000 | 8.000 |12.000 | |oltre gli Ha. 150| 4.000 | 8.000 | 4.000|16.000 | 6.000 |10.000 | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | SEGUE TABELLA 7 | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | Lavori di consegna e riconsegna dei fondi rustici - | | Inventari - Bilanci | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | L/HA | |VIGNETI |  
-| | |FRUTT. |  
-| ESTENSIONI |BOSCHI |VIVAI |  
-| | |COLTURE |  
-|IMPORTI AD ETTARO| |SPECIALIZ|  
-|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|  
-|Fino ad Ha. 10|40.000 | 90.000 |  
-|Sul di piu sino | | |  
-| ad Ha. 25|25.000 | 60.000 |  
-|Sul di piu sino | | |  
-| ad Ha. 50|20.000 | 50.000 |  
-|Sul di piu sino | | |  
-| ad Ha. 150|15.000 | 45.000 |  
-|oltre gli Ha. 150|12.000 | 35.000 |  
-|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | TABELLA 8 | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | Stima delle scorte e frutti pendenti | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | VALORE STIMATO | SCORTE | SCORTE | FRUTTI | | | VIVE | MORTE |PENDENTI| |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_| |Sino a.............L. 10.000.000 | 1,40 % | 2,05 % | 5,00 % | |Sul di piu' sino a L. 20.000.000 | 1,15 % | 1,70 % | 4,20 % |  
-| " a L. 30.000.000 | 1,00 % | 1,60 % | 3,00 % | | " a L. 60.000.000 | 0,85 % | 1,45 % | 2,15 % | |oltre............. L. 60.000.000 | 0,70 % | 1,25 % | 1,55 % | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | TABELLA 9 | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| |Onorari relativi alle prestazioni professionali di cui all'art. 63 | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | |Costruz.|Costruz|Bonifiche|Impianti| | IMPORTO DELL'OPERA |rurali |idraul.| in |arborei | | | | e |generale | e | | | |stradal| |boschivi| |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_| |Sino a............L. 20.000.000| 8,60 % |10,25 %| 9,25 % | 8,00 % | |Sul di piu'sino a L. 50.000.000 | 7,61 % | 9,18 %| 8,30 % | 6,00 % |  
-| " a L. 80.000.000| 6,57 % | 8,08 %| 7,30 % | 5,00 % | | " a L.150.000.000| 5,36 % | 6,92 %| 6,30 % | 4,00 % | |oltre............ L.150.000.000| 4,26 % | 5,75 %| 5,27 % | 3,00 % | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| |I compensi si intendono riferiti ai lavori di nuova costruzione, | |comprensivi di progetto esecutivo, preventivo di spesa, capitolato | |e contratto di appalto, direzione lavori e liquidazion. Per i ria- | |dattamenti e le ristrutturazioni le percentuali di cui sopra vanno | |maggiorate del 10%; per le opere di cui alle lettere b) ed f) dell'| |art. 63, del 25%. Per le opere ricadenti nelle zone sismiche gli | |onorari di cui alla presente tabella vanno maggiorati del 25%. Per | |i calcoli di coimbentazione sara' operata una ulteriore maggiora- |  
-|zione del'1%. | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | TABELLA 10 | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | Onorari relativi alle prestazioni di cui agli art.63 lettera "r" | | ed all'art. 76 (Ortofloroflutticoltura, giardinaggio e vivaistica)| |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| |Sino a.............L. 15.000.000 | 4,80 % | |Sul di piu' sino a L. 30.000.000 | 4,20 % |  
-| " " " a L. 60.000.000 | 3,60 % | | " " " a L.120.000.000 | 2,40 % | |oltre............. L.120.000.000 | 1,50 % | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | TABELLA 11 | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | Onorari relativi alle prestazioni professionali di cui | | all'art. 63 e 76 (tabella 9 10) | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | | | | | Impianti | | |Costruz|Costruz|Bonif. |arborei|parchi | | PRESTAZIONI |rurali |idraul.| in | e |giardini| | | | e |enerale|boschiv|orticoli| | | |strad. | | |florico-| |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|li\_\_\_\_\_\_| |Progetto di massima dell'-| 0,07 | 0,09 | 0,08 | 0,10 | 0,08 | |opera o piano organico di | | | | | | |trasformazione | | | | | | | | | | | | | |Preventivo sommario dell'-| 0,02 | 0,05 | 0,03 | 0,03 | 0,03 | |opera | | | | | | | | | | | | | |Progetto esecutivo dell'- | 0,25 | 0,23 | 0,19 | 0,23 | 0,25 | |opera | | | | | | | | | | | | | |Preventivo di spesa parti-| 0,12 | 0,08 | 0,06 | 0,06 | 0,06 | |colareggiato dell'opera | | | | | | | | | | | | | |Capitolato e contratto d'-| 0,08 | 0,08 | 0,09 | 0,09 | 0,09 | |appalto dell'opera | | | | | | | | | | | | | |Direzione dei lavori dell'| 0,25 | 0,22 | 0,28 | 0,28 | 0,28 | |opera | | | | | | | | | | | | | |Assistenza al collaudo | 0,03 | 0,05 | 0,06 | 0,06 | 0,06 | |dell'opera | | | | | | | | | | | | | |Liquidazione dei lavori | 0,18 | 0,20 | 0,21 | 0,15 | 0,15 | |dell'opera | | | | | | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_| | | 1,00 | 1,00 | 1,00 | 1,00 | 1,00 | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | TABELLA 12 | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | Onorario per contabilita' e misura dei lavori di cui all'art.59 |  
-| contrattuali o da altra causa | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| |Sino a.............L. 10.000.000 | 2,50 % | |Sul di piu' sino a L. 30.000.000 | 2,00 % |  
-| " " " a L. 60.000.000 | 1,50 % | | " " " a L.100.000.000 | 1,00 % | |oltre............. L.100.000.000 | 0,80 % | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | TABELLA 13 | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | Onorari per controlli dei terreni | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | | Compenso | |1-Voci: | unitario | |a)Scheletro-Terra Fine-Peso Apparente...............| L. 6.500 | |b)Sabbia-Limo-Argilla...............................| L.20.000 | |c)PH in acqua- PH in Kcl- Conducibilita' 1:2 Conduci | |  
-| bilta' Pasta Satura - Cloruri Sostanza Organica- | |  
-| Calcare Totale Calcare Attivo- Capacita' di campo | |  
-| Punto di Appassimento - Saturazione Percentuale | | | -Indice potere clorosante.........................| L.20.000 | |d)Azonto totale.....................................| L.25.000 | |e)Anidride fosforica assimilabile...................| L.25.000 | |f)Ossido di potassio scambio cationico..............| L.25.000 | |g)Ossido di potassio scambiabile Potassio-Sodio | | | Calcio-Magnesio scamb. Saturazione Basica-Grado di| | | Insaturazione.....................................| L.50.000 | |h)Ferro-Manganese-Rame-Zinco ed assimilabili........| L.50.000 | |i)Boro assimilabile.................................| L.25.000 | |2-Prelievo campioni.................................| L.15.000 | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_| |Nota: Per i controlli standards ( escluso le voci h e d i) il | | compenso complessivo di L. 135.000 | |Per i controlli completi il compenso e' di L.180.000= |  
-|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | TABELLA 14 | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | Onorari per il controllo delle acque irrigue | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | | Compenso | | | unitario | |1-Prelievo campioni.................................| L. 15.000 | |2-Controllo chimico completo per irrigazione (e' | |  
-| compresa la det. del SAR. Sarint. e tutti gli | | | altri indici idrosalini)..........................| L.120.000 | |3-Controllo chimico e microbiologico per potabilita' | |  
-| e irrigazione.....................................| L.170.000 | |4-Controllo di acque in scarico.....................| L.200.000 | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | TABELLA 15 | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | Onorari per la ricerca dei nematodi | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | | Compenso | | | unitario | |1-Prelievo campioni.................................| L. 15.000 | |2-Ricerca nel terreno o nei vegetali con identifica-| | | zione dei generi e, quando necessario, della | | | specie............................................| L.140.000 | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | TABELLA 16 | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | Onorari per la diagnostica fogliare | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | | Compenso | | | unitario | |1-Prelievo campioni.................................| L. 15.000 | |2-Controllo completo (azoto-fosforo-potassio-calcio | | | -magnesio-sodio-ferro-manganese-rame-zinco-boro)..| L.150.000 | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | TABELLA 17 | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | Onorari per i controlli fitopatologici | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | | Compenso | | | unitario | |1-Prelievo campioni.................................| L. 15.000 | |2-Identificazione fitoparassiti.................... | L.190.000 | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | TABELLA 18 | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | Onorari per i controlli dei fertilizzanti e mangimi | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | | Compenso | | | unitario | |a)Fertilizzanti | | |1- Prelievo campione................................| L. 30.000 | |2- Per controllo degli elementi o dei composti | | | chimici eseguiti secondo metodi ufficiali........| L. 60.000 | |b)Mangimi | | |1- Prelievo campione................................| L. 30.000 | |2- Controllo merceologico completo (umidita', | |  
-| protidi, lipidi, fibra, ceneri,estrattivi, | | | inazotati grezzi)................................| L.250.000 | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | TABELLA 19 | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | Onorari relativi alle prestazioni di consulenza e controlli | | di cui all'art. 73(zootecnia caseificio) | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | | Quota | | | percentuale | |Sino a.................................L. 50.000.000| 4,20% | |Sul di piu' sino a.....................L.100.000.000 | 3,00% |  
-|Sul di piu' sino a.....................L.200.000.000 | 2,00% |  
-|Sul di piu' sino a.....................L.400.000.000 | 1,50% |  
-|Sul di piu' sino a.....................L.800.000.000 | 0,85% |  
-|Oltre..................................L.800.000.000| 0,65% | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | TABELLA 20 | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | Onorari relativi alle prestazioni per i controlli analitici | | del settore lattiero-caseario | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| |1)Determinazione: | | |- del grasso nel latte, nel siero, nel latticello...| L. 3.750 | |- della densita' del latte o del siero.............. | L. 3.000 |  
-|- della sostanza secca e del residuo magro del latte| | | (per calcolo).....................................| L. 4.800 | |- dell'acidita' del latte o del siero (metodo | |  
-| Soxhlet o Dornic).................................| L. 2.850 | |- del punto criscopico del latte....................| L. 6.750 | |- delle imputita' solide nel latte (metodo Kjeldahl) | L. 2.700 |  
-|- del PH del latte e del formaggio..................| L. 7.500 | |- del grasso nella crema di latte...................| L. 5.250 | |- del grasso nel burro..............................| L. 6.750 | |- dell'umidita' del burro (metodo per pesata)....... | L. 3.750 |  
-|- nel burro degli acidi grassi volatili solubili | L. 4.800 | | (indice Wollin) ed insolubili (indice Polenske)...| L. 22.500 | |- dell'indice di rifrazione del burro...............| L. 9.000 | |- del grasso (metodo Gerber), dell'umidita' (metodo | |  
-| per pesata) e dell materia secca nel formaggio con| | | relativo calcolo del grasso sul secco.............| L. 27.000 | |- del cloruro di sodio nel burro o nel formaggio | | | (metodo di riferimento)...........................| L. 18.000 | |- del tasso cellulare...............................| L. 20.000 | |- della carica microbica totale indiretta...........| L. 20.000 | |- della carica califormi in piastra con unita' | |  
-| U.F.C.ml..........................................| L. 35.000 | |- della carica microbica totale U.F.C. ml...........| L. 20.000 | |- dei clostridi butirrici con metodo MPN............| L. 35.000 | |- della coagulazione al caglio e risultato grafico..| L. 15.000 | |- del grasso nel latte in polvere o nella caseina...| L. 7.500 | |- dell'umidita' del latte in polvere o nella caseina | |  
-| (per pesata)......................................| L. 12.000 | |- del grasso nella ricotta..........................| L. 9.750 | |- del grasso, dell'umidita' (metoto per pesata) e | |  
-| della materia secca nel formaggio (con relativo | | | calcolo del grasso sul secco).....................| L. 30.000 | |- dell'urea nel latte...............................| L. 15.000 | |2)Saggio dell'alizarina (latte).....................| L. 1.350 | |3)Prova della fosfatasi o della riduttasi nel latte.| L. 6.000 | |4)Prova lattofermentazione e caseozimoscopica.......| L. 6.000 | |5)Ricerca residui antibiotici nel latte.............| L. 18.000 | |6)Ricerca della mastite (tes.Whiteside o Leococitest| L. 12.000 | |7)Esame microscopico del latte e del siero..........| L. 9.000 | |8)Analisi completa del latte (grsso, densita', punto | |  
-| crioscopico, acidita' prova del sudiciometro, | |  
-| calcolomateria secca e residuo magro e relativo | | | giudizio di qualita' o di sofisticazioni)......... | L. 30.000 |  
-|9)Analisi completa del latte per accertamento della | | | genuita': grasso, caseina, densita', punto | |  
-| criscopico,acidita', calcolo materia secca, e | |  
-| residuo grasso cellule somatiche e relativo | | | giudizio..........................................| L. 50.000 | |10)Analisi completa latte qualita' (titolo + sanita) | |  
-| : grasso, caseina, cellule, acidita', coli, | |  
-| clostridi, coagulazione, inibenti e relativo | | | giudizio di qualita'.............................. | L. 60.000 |  
-|11)Prelievo di campione alla stalla o al caseificio.| L. 50.000 | |12)Prelievo di campione successivo al primo.........| L. 35.000 | |13)Prelievo di campione in forma legale e relativa | | | verbalizzazione..................................| L.100.000 | |14)Prelievo di campione successivo al primo.........| L. 50.000 | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | TABELLA 21 | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| |ONORARI RELATIVI ALLE PRESTAZIONI DI CONSULENZA DI CUI ALL'ART. 74 | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | Vinificaz.|Conservaz.|Approntamento| | delle uve |dei vini |prodotto per | | (per Hl.)|durante la|il consumo | | |campagna | (.) | | |vinicola | | | | (ad Hl) | | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_| |fino ad hl. 200 L.2.000| L. 1000 | L.6.000 | |oltre e fino ad hl. 500 L.1.750| L. 750 | L.5.000 | |oltre e fino ad hl. 1500 L.1.400| L. 600 | L.4.000 | |oltre e fino ad hl. 5000 L.1.050| L. 450 | L.3.000 | |oltre e fino ad hl.10000 L. 700| L. 350 | L.2.000 | |oltre hl.10000 L. 520| L. 230 | L.1.500 | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_| |note:(.) Qualora si rendesse necessaria la demetallizzazione a | | norma del decreto ministeriale 5 settembre 1967 le percentuali| | di cui all'approntamento del prodotto per il consumo verranno | | ridotte del 50% | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | TABELLA 22 | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | Onorari relativi ai controlli analitici del settore enologico | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | 1) Grado acrometrico (Bume', Babo, ecc...) | L. 2.250 |  
-| 2) Peso specifico secondo i metodi ufficiali | L. 6.000 | | 3) Alcool in volume all'ebuliometro | L. 5.250 | | 4) Alcool in volume all'ebuliometro | L.10.500 | | 5) Alcool in peso per distillazione | L.10.500 | | 6) Alcool per via chimicatillazione | L.13.500 | | 7) Massa volumetrica a 20 C. | L.10.500 | | 8) Acidita' totale sui vini | L. 5.250 |  
-| 9) Acidita' totale sugli aceti | L. 6.000 |  
-|10) Acidita' volatile corretta dell'anitride | |  
-| solforosa (secondo metodi ufficiali) | L. 9.750 | |11) Zuccheri riduttori in volumi | L. 7.500 | |12) Zuccheri riduttori in peso | L. 7.500 | |13) Zuccheri dopo inversione in peso | L.12.000 | |14) Zuccheri prima e dopo inversione in volume | L.12.000 | |15) Zuccheri prima e dopo inversione in peso | L.19.500 | |16) Anidride solforosa totale (Ritter) | L. 6.750 | |17) Anidride solforosa libera (CEE) | L.10.500 | |18) Anidride solforosa totale (CEE) | L.10.500 | |19) Anidride solforosa totale (HASS) | L.10.500 | |20) Anidride carbonica | L.10.500 | |21) Anidride solforosa libera (Bervegnin) | L. 6.000 | |22) Estratto secco (metodo diretto) | L.12.000 | |23) Estratto secco (metodo indiretto) | L.13.500 | |24) Ceneri | L.10.500 | |25) Alcalinita' delle ceneri | L.12.000 |  
-|26) Sovrappressione 20 C. | L.10.500 | |27) Alcool melitico determinazione sui vini | L.13.500 | |28) Alcool melitico determinazione sui distillati | L. 9.000 | |29) Ricerca metanolo, percentuale del volume etanolo| | | anidro totale | L.13.500 | |30) Ricerca dei floruri o fosfati o nitrati o solfati L.13.500 | |31) Ricerca del tannino, o glicerina, o rame | L.13.500 | |32) Ricerca del calcio, o zinco, o litio | L.13.500 | |33) Ricerca del bromo o bromoacetati | L.13.500 | |34) Ricerca dell'acido ascorbico, o citrico, o | | | tartarico. o cianidrico | L.13.500 | |35) Ricerca dell'acido lattico o malico | L.13.500 | |36) Ricerca del ferro totale | L.14.250 | |37) Ricerca di saccarina, o piridina, o caramello | L.13.500 | |38) Ricerca del sodio o del potassio | L.19.500 | |39) Ricerca dei coloranti estranei (Arata) | L.12.000 | |40) Ricerca degli ibridi | L.19.500 | |41) Ricerca dell'azoto totale | L.13.500 | |42) Ricerca dell'idrossimetilfufurolo | L.13.500 | |43) Ricerca del glugosio o del fruttosio | L.13.500 | |44) Ricerca dei polifenoli totali (folin) o polife- | | | noli totali(UV) o leocoantociani, o flovanoli | | | reagenti con vanillina o rebelen - catechine o | | | autociani | | |45) Ricerca dell'intensita' colorante o tono di | |  
-| colore o malvina o coloranti estranei o edulco- | | | ranti sintetici | L.13.550 | |46) Ricerca della sorbite | L.13.500 | |47) Ricerca delle basi piridiche | L.19.500 | |48) Ricerca della tiammina | L.13.500 | |49) Ricerca del pH | L. 9.000 | |50) Esame organolettico | L.19.500 | |51) Esame delle "casse" | L. 9.750 | |52) Esame microcospico e riconoscimento del sedimento L.19.500 | |53) Esame del numero di ioni | L.15.000 | |54) Controllo microbiologico del numero delle colonie | | dei lieviti | L.13.500 | |55) Controllo microbiologico del numero delle colonie | | dei batteri | L.13.500 | |56) Saggio di fermentescibilita' | L.19.500 |  
-|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | TABELLA 23 | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | Onorari relativi alle prestazioni di cui all'art. 75 | | lettera "a" (Olivicoltura-Elaiotecnica) | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| |A) Saggi tecnici: | per ogni | | | campione | | | | |1)Determinazione della resa delle olive in olio | L.15.000 | |2)Determinazione qualita' di olive da olio naturale | L.18.000 |  
-|3)Determinazione qualita' di olive da tavola confez. | L.22.500 |  
-|4)Determinazione qualita' di olive da tavola al | L.22.500 |  
-| naturale | | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| |B) Valutazioni di partite di olio e sanse | olio | sanse | | | | | | -sino a L.10.000.per partita| 4,50% | 3,50% | | -sul di piu' sino a L.25.000.per partita | 4,00% | 3,00% |  
-| -sul di piu' sino a L.50.000.per partita | 3,70% | 2,75% |  
-| -oltre L.50.000.per partita| 2,50% | 2,50% | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | TABELLA 24 | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | Onorari relativi alle prestazioni di cui all'art. 75 lettera "b" | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| |A) Controlli organolettici |per ogni | | |campione | | 1)assaggio per determinare i pregi e difetti dell'olio| L.12.000 | | | | |B) Controlli analitici: | | | | | | 1)acidita' | L. 9.000 |  
-| 2)determinazione del grasso totale nelle olive | L.13.500 | | 3)esame spettrofotometrico per il rilievo adulterazioni L.15.000 | | 4)esame gas-cromotografico per rilievi: | | | - steroli | L.30.000 | | - tocoferoli | L.30.000 | | - composizione acidi grassi | L.30.000 | | 5)ricerca indice termico | L. 9.000 | | 6)ricerca umidita' con metodi diversi | L.20.000 |  
-| 7)ricerca glaudicita' del terreno (grado Kreiss) | L. 8.000 |  
-| 8)ricerca olio di sansa | L.20.000 | | 9)ricerca tracce di metallo | L.12.000 | | 10)ricerca punto di rifrazione | L.15.000 | | 11)ricerca numero di perossidi | L.10.000 | | 12)ricerca indice di iodio | L.15.000 | | 13)ricerca indice di rifrazione | L. 6.000 | | 14)ricerca peso specifico | L.17.000 | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | COLLEGAMENTI ARTICOLI VIGENTE TARIFFARIO CON NUOVO TESTO | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| |VIGENTE TARIFFARIO | NUOVO TESTO | VIGENTE TARIFFARIO | NUOVO TESTO| | ARTICOLI | ARTICOLI | ARTICOLI | ARTICOLI | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | 1 | 1 | 28 | 42 | | 2 | 2 | 29 | 43 | | 3 | 3 | 30 | 44 | | 4 | 4 | 31 | 45 | | 5 | 5 | 32 | - | | 6 | 6 | 33 | 46 | | 7 | 7 | 34 | 47 | | 8 | 8 | 35 | 47 | | 9 | 9 | 36 | 48 | | 10 | 10 | 37 | | | 11 | 11 | 38 | 49 | | 12 | 12 | 39 | 50 | | 13 | 13 | 40 | 50 | | 14 | 14 | - | 51 | | 15 | 15 | 41 | 52 | | 16 | 16 | 42 | 53 | | - | 17 | 43 | | | - | 18 | 44 | 54 | | - | 19 | 45 | 55 | | - | 20 | - | 56 | | - | 21 | - | 57 | | - | 22 | - | 58 | | - | 23 | 46 | 59 | | 17 | 24 | - | 60 | | 18 | 25 | 47 | 61 | | 19 | 26 | 48 | 62 | | 20 | 27 | 49 | 63 | | 21 | 28 | - | 64 | | - | 29 | 50 | 65 | | 22 | - | - | 66 | | 23 | 30 | - | 67 | | - | 31 | 51 | 68 | | - | 32 | 52 | - | | - | 33 | 53 | - | | - | 34 | 54 | 69 | | - | 35 | - | 70 | | - | 36 | - | 71 | | - | 37 | - | 72 | | - | 38 | 55 | 73 | | 24 | 39 | 56 | 74 | | 25 | 40 | 57 | 75 | | - | 41 | 58 | 76 | | 26 | - | 59 | - | | 27 | - | | | |NB: ove e' apposto un trattino si deve intendere la non preesi- |  
-| stenza di articolo o la non ripetizione dello stesso | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | COLLEGAMENTO ARTICOLI VIGENTE TARIFFARIO E NUOVO TESTO | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_| | VIGENTE TARIFFARIO | NUOVO TESTO | | TABELLA | TABELLA | | | | | 3 | 1 | | 8 | 2-6 | | 5 | 3 | | 6 | 4 | | 7 | 5 | | 9 | 7 | | 10 | 8 | | 11 | 9 | | 19 | 10 | | 12 | 11 | | - | 12 | | - | 13 | | - | 14 | | - | 15 | | - | 16 | | - | 17 | | - | 18 | | 13 | 19 | | 14 | 20 | | 15 | 21 | | 16 | 22 | | 17 | 23 | | 18 | 24 | |N.B. : ove e' apposto un trattino si deve intendere la non preesi- |  
-| stenza di tabella | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|   
+Il Ministro di grazia e giustizia CONSO Il Ministro dell'agricoltura e delle foreste DIANA Visto, il Guardasigilli: CONSO Registrato alla Corte dei conti il 6 settembre 1993 Registro n. 20 Giustizia, foglio n. 176

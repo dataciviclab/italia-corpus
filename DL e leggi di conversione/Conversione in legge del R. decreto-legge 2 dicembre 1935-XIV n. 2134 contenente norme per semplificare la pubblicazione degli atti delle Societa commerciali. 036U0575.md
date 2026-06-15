@@ -1,16 +1,14 @@
-LEGGE 02 aprile 1936 n. 575
+---
+tipo: LEGGE
+numero: 575
+data: 1936-04-02
+titolo: "Conversione in legge del R. decreto-legge 2 dicembre 1935-XIV, n. 2134, contenente norme per semplificare la pubblicazione degli atti delle Societa' commerciali. (036U0575)"
+urn: urn:nir:stato:legge:1936-04-02;575
+codice_redazionale: 036U0575
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 02 aprile 1936 n. 575
-===========================
-
-Conversione in legge del R. decreto-legge 2 dicembre 1935-XIV, n. 2134, contenente norme per semplificare la pubblicazione degli atti delle Societa' commerciali. (036U0575)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/04/1936
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

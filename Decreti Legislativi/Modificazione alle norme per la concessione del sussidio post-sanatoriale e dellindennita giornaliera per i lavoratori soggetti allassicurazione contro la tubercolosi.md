@@ -1,43 +1,37 @@
-DECRETO LEGISLATIVO 07 maggio 1948 n. 866
+---
+tipo: DECRETO LEGISLATIVO
+numero: 866
+data: 1948-05-07
+titolo: "Modificazione alle norme per la concessione del sussidio post-sanatoriale e dell'indennita' giornaliera per i lavoratori soggetti all'assicurazione contro la tubercolosi."
+urn: urn:nir:stato:decreto.legislativo:1948-05-07;866
+codice_redazionale: 048U0866
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 07 maggio 1948 n. 866
-=========================================
+((PROVVEDIMENTO ABROGATO DALLA L. 28 FEBBRAIO 1953, N. 86))
 
-Modificazione alle norme per la concessione del sussidio post-sanatoriale e dell'indennita' giornaliera per i lavoratori soggetti all'assicurazione contro la tubercolosi.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 28 FEBBRAIO 1953, N. 86))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 28 FEBBRAIO 1953, N. 86](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-02-28;86)))
+## Art. 3.
 
-Art. 2
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 28 FEBBRAIO 1953, N. 86))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 28 FEBBRAIO 1953, N. 86](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-02-28;86)))
+## Art. 4.
 
-Art. 3
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 28 FEBBRAIO 1953, N. 86))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 28 FEBBRAIO 1953, N. 86](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-02-28;86)))
+## Art. 5.
 
-Art. 4
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 28 FEBBRAIO 1953, N. 86))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 28 FEBBRAIO 1953, N. 86](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-02-28;86)))
+## Art. 6.
 
-Art. 5
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 28 FEBBRAIO 1953, N. 86))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 28 FEBBRAIO 1953, N. 86](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-02-28;86)))
+## Art. 7.
 
-Art. 6
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 28 FEBBRAIO 1953, N. 86](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-02-28;86)))
-
-Art. 7
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 28 FEBBRAIO 1953, N. 86](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-02-28;86)))
+((PROVVEDIMENTO ABROGATO DALLA L. 28 FEBBRAIO 1953, N. 86))

@@ -1,37 +1,28 @@
-LEGGE 09 febbraio 1983 n. 29
-
-
-LEGGE 09 febbraio 1983 n. 29
-============================
-
-Conversione in legge, con modificazioni, del decreto-legge 21 dicembre 1982, n. 923, recante provvedimenti urgenti in materia fiscale.
---------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: LEGGE
+numero: 29
+data: 1983-02-09
+titolo: "Conversione in legge, con modificazioni, del decreto-legge 21 dicembre 1982, n. 923, recante provvedimenti urgenti in materia fiscale."
+urn: urn:nir:stato:legge:1983-02-09;29
+codice_redazionale: 083U0029
+vigente: true
+---
 
 La Camera dei deputati ed il Senato della Repubblica hanno approvato;
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-PROMULGA
---------
+PROMULGA la seguente legge:
 
-la seguente legge:
+## Articolo unico
 
-Articolo unico
---------------
-
-  
-E' convertito in legge il [decreto-legge 21 dicembre 1982, n. 923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-12-21;923), recante provvedimenti urgenti in materia fiscale, con le seguenti modificazioni:  
-All'articolo 1, e' aggiunto il seguente comma:  
-"All'articolo 7, ultimo comma, del [decreto del Presidente della Repubblica 29 settembre 1973, n. 600](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;600), e successive modificazioni, e' soppressa la parola:  
-" diretta "".  
-  
+E' convertito in legge il [decreto-legge 21 dicembre 1982, n. 923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-12-21;923), recante provvedimenti urgenti in materia fiscale, con le seguenti modificazioni:
+ All'articolo 1, e' aggiunto il seguente comma:
+ "All'articolo 7, ultimo comma, del [decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, e' soppressa la parola:
+ " diretta "".
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data a Roma, addi' 9 febbraio 1983
+Data a Roma, addi' 9 febbraio 1983
 
-PERTINI FANFANI - FORTE
-
-Visto, il Guardasigilli: DARIDA
+PERTINI FANFANI - FORTE Visto, il Guardasigilli: DARIDA

@@ -1,34 +1,32 @@
-DECRETO 13 gennaio 1992 n. 240
-
-
-DECRETO 13 gennaio 1992 n. 240
-==============================
-
-Regolamento recante norme sull'esame di Stato per l'abilitazione all'esercizio della professione di psicologo.
---------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 8/4/1992
+---
+tipo: DECRETO
+numero: 240
+data: 1992-01-13
+titolo: "Regolamento recante norme sull'esame di Stato per l'abilitazione all'esercizio della professione di psicologo."
+urn: urn:nir:ministero.universita.e.ricerca.scientifica.e.tecnologica:decreto:1992-01-13;240
+codice_redazionale: 092G0266
+vigente: true
+---
 
 IL MINISTRO DELL'UNIVERSITA' E DELLA
-------------------------------------
 
 RICERCA SCIENTIFICA E TECNOLOGICA
 
-Visto l'[art. 33, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art33-com5);
+Visto l'[art. 33, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_33-com5);
 
-Vista la [legge 9 maggio 1989, n. 168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-09;168);
+Vista la [legge 9 maggio 1989, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-09;168);
 
-Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Vista la [legge 8 dicembre 1956, n. 1378](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-08;1378), che disciplina gli esami di Stato di abilitazione all'esercizio delle professioni;
+Vista la [legge 8 dicembre 1956, n. 1378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-08;1378), che disciplina gli esami di Stato di abilitazione all'esercizio delle professioni;
 
 Visto il regolamento approvato con decreto ministeriale 9 gennaio 1957, e successive modificazioni;
 
-Vista la [legge 18 febbraio 1989, n. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-02-18;56), concernente l'ordinamento della professione di psicologo ed in particolare l'art. 2, che rimette ad apposito decreto la disciplina degli esami di Stato di abilitazione all'esercizio della professione di psicologo;
+Vista la [legge 18 febbraio 1989, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-02-18;56), concernente l'ordinamento della professione di psicologo ed in particolare l'art. 2, che rimette ad apposito decreto la disciplina degli esami di Stato di abilitazione all'esercizio della professione di psicologo;
 
-Visto l'[art. 17 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17);
+Visto l'[art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17);
 
-Vista la [legge 12 gennaio 1991, n. 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-12;13);
+Vista la [legge 12 gennaio 1991, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-12;13);
 
 Udito il parere del Consiglio universitario nazionale espresso nell'adunanza del 15 febbraio 1991;
 
@@ -38,117 +36,149 @@ Vista la nota n. 19/UGAL/92/V.3 dell'8 gennaio 1992 con cui e' stata data comuni
 
 A D O T T A il seguente regolamento:
 
-Art. 1
-------
+## Art. 1.
 
-1. La laurea in psicologia e' titolo accademico valido per l'ammissione all'esame di Stato per l'esercizio della professione di psicologo.  
-AVVERTENZA:  
-Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariari il valore e l'efficacia degli atti legislativi qui trascritti.
+1.
 
-Note alle premesse:  
-- Si trascrive il testo dell'[art. 33, quinto comma, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art33-com5): "E' prescritto un esame di Stato per l'ammissione ai vari ordini e gradi di scuole o per la conclusione di essi e per l'abilitazione all'esercizio professionale".  
-- La [legge n. 168/1989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;168) istituisce il [Ministero dell'universita' e della ricerca scientifica e tecnologica;  
-- Il D.M. 9 settembre 1957, pubblicato nella Gazzetta Ufficiale n. 271 del 2 novembre 1957](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1957-11-02&numeroGazzetta=271), approva il regolamento sugli esami di abilitazione professionale.  
-- Il testo dell'[art. 2 della legge n. 56/1989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;56~art2), istitutiva della professione di psicologo, e' il seguente:  
-"Art. 2. - Per esercitare la professione di psicologo e' necessario aver conseguito l'abilitazione in psicologia mediante l'esame di Stato ed essere iscritto nell'apposito albo professionale.  
-L'esame di Stato e' disciplinato con decreto del Presidente della Repubblica, da emanarsi entro sei mesi dalla data di entrata in vigore della presente legge.  
-Sono ammessi all'esame di Stato i laureati in psicologia che siano in possesso di adeguata documentazione attestante l'effettuazione di un tirocinio pratico secondo modalita' stabilite con decreto del Ministro della pubblica istruzione, da emanarsi tassativamente entro un anno dalla data di entrata in vigore della presente legge".  
-- Il [comma 3 dell'art. 17 della legge n. 400/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.  
-- La [legge n. 13/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;13) reca norme sulla: "Determinazione degli atti amministrativi da adottarsi nella forma del decreto del Presidente della Repubblica".
+La laurea in psicologia e' titolo accademico valido per l'ammissione all'esame di Stato per l'esercizio della professione di psicologo.
+ AVVERTENZA:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariari il valore e l'efficacia degli atti legislativi qui trascritti.
 
-Art. 2
-------
+Note alle premesse:
+ - Si trascrive il testo dell'[art. 33, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_33-com5): "E' prescritto un esame di Stato per l'ammissione ai vari ordini e gradi di scuole o per la conclusione di essi e per l'abilitazione all'esercizio professionale".
+ - La [legge n. 168/1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;168) istituisce il Ministero dell'universita' e della ricerca scientifica e tecnologica;
+ - Il D.M. 9 settembre 1957, pubblicato nella Gazzetta Ufficiale n. 271 del 2 novembre 1957, approva il regolamento sugli esami di abilitazione professionale.
+ - Il testo dell'[art. 2 della legge n. 56/1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;56#art_2), istitutiva della professione di psicologo, e' il seguente:
+ "Art. 2. - Per esercitare la professione di psicologo e' necessario aver conseguito l'abilitazione in psicologia mediante l'esame di Stato ed essere iscritto nell'apposito albo professionale.
+ L'esame di Stato e' disciplinato con decreto del Presidente della Repubblica, da emanarsi entro sei mesi dalla data di entrata in vigore della presente legge.
+ Sono ammessi all'esame di Stato i laureati in psicologia che siano in possesso di adeguata documentazione attestante l'effettuazione di un tirocinio pratico secondo modalita' stabilite con decreto del Ministro della pubblica istruzione, da emanarsi tassativamente entro un anno dalla data di entrata in vigore della presente legge".
+ - Il [comma 3 dell'art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
+ - La [legge n. 13/1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;13) reca norme sulla: "Determinazione degli atti amministrativi da adottarsi nella forma del decreto del Presidente della Repubblica".
 
-1. Al predetto esame possono essere ammessi i laureati in psicologia che abbiano compiuto un tirocinio pratico annuale post- lauream.
+## Art. 2.
 
-Art. 3
-------
+1.
 
-1. Ciascuna commissione esaminatrice e' nominata con decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica ed e' composta dal presidente e da quattro membri.
+Al predetto esame possono essere ammessi i laureati in psicologia che abbiano compiuto un tirocinio pratico annuale post- lauream.
 
-2. Il presidente viene nominato fra i professori universitari ordinari, straordinari, fuori ruolo od a riposo di discipline psicologiche a qualsiasi facolta' essi appartengano.
+## Art. 3.
 
-3. I membri vengono prescelti da quattro terne designate dal competente consiglio dell'Ordine professionale e composte da persone appartenenti alle seguenti categorie:
+1.
 
-a) professori universitari ordinari, straordinari, fuori ruolo od a riposo;
+Ciascuna commissione esaminatrice e' nominata con decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica ed e' composta dal presidente e da quattro membri.
 
-b) professori associati;
+2.
 
-c) liberi professionisti iscritti all'albo con non meno di dieci anni di esercizio professionale;
+Il presidente viene nominato fra i professori universitari ordinari, straordinari, fuori ruolo od a riposo di discipline psicologiche a qualsiasi facolta' essi appartengano.
 
-d) psicologi dipendenti da pubbliche amministrazioni con almeno dieci anni di anzianita' di servizio.
+3.
 
-4. Fino all'istituzione dei consigli dell'Ordine le prime due terne dovranno essere designate dal Consiglio universitario nazionale; mentre le ultime dovranno essere designate dalla Direzione generale affari civili e libere professioni del Ministero di grazia e giustizia.
+I membri vengono prescelti da quattro terne designate dal competente consiglio dell'Ordine professionale e composte da persone appartenenti alle seguenti categorie:
+                        a)
+                            professori universitari ordinari, straordinari, fuori ruolo od a riposo;
+                        b)
+                            professori associati;
+                        c)
+                            liberi professionisti iscritti all'albo con non meno di dieci anni di esercizio professionale;
+                        d)
+                            psicologi dipendenti da pubbliche amministrazioni con almeno dieci anni di anzianita' di servizio.
 
-5. Fino a quando nessun libero professionista abbia maturato almeno dieci anni di iscrizione all'albo i consigli dell'Ordine possono designare quali membri delle terne psicologi iscritti all'albo ai sensi dell'[art. 32 della legge 18 febbraio 1989, n. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-02-18;56~art32).
+4.
 
-Nota all'art. 3:  
-- Il testo dell'art. 32 della citata [legge n. 56/1989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;56) e' il seguente:  
-"Art. 32. - L'iscrizione all'albo, ferme restando le disposizioni di cui alle lettere a), b) e d) dell'art. 7, e' consentita su domanda da presentarsi entro sessanta giorni dalla nomina del commissario di cui all'art. 31:  
-a) ai professori ordinari, straordinari, associati, fuori ruolo e in quiescenza che insegnino o abbiano insegnato discipline psicologiche nelle universita' italiane o in strutture di particolare rilevanza scientifica anche sul piano internazionale nonche' ai ricercatori e assistenti universitari di ruolo in disci- pline psicologiche e ai laureati che ricoprano o abbiano ricoperto un posto di ruolo presso una istituzione pubblica in materia psicologica per il cui accesso sia attualmente richiesto il diploma di laurea in psicologia;  
-b) a coloro che ricoprano od abbiano ricoperto un posto di ruolo presso istituzioni pubbliche con un'attivita' di servizio attinente alla psicologia, per il cui accesso sia richiesto il diploma di laurea e che abbiano superato un pubblico concorso, ovvero che abbiano fruito delle disposizioni in materia di sanatoria;  
-c) ai laureati che da almeno sette anni svolgano effettivamente in maniera continuativa attivita' di collaborazione o consulenza attinenti alla psicologia con enti o istituzioni pubbliche o private;  
-d) a coloro che abbiano operato per almeno tre anni nelle discipline psicologiche ottenendo riconoscimenti nel campo specifico a livello nazionale o internazionale".
+Fino all'istituzione dei consigli dell'Ordine le prime due terne dovranno essere designate dal Consiglio universitario nazionale; mentre le ultime dovranno essere designate dalla Direzione generale affari civili e libere professioni del Ministero di grazia e giustizia.
 
-Art. 4
-------
+5.
 
-1. Gli esami di Stato di abilitazione all'esercizio della professione di psicologo consistono in una prova scritta, una pratica ed una orale.
+Fino a quando nessun libero professionista abbia maturato almeno dieci anni di iscrizione all'albo i consigli dell'Ordine possono designare quali membri delle terne psicologi iscritti all'albo ai sensi dell'[art. 32 della legge 18 febbraio 1989, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-02-18;56#art_32).
 
-2. La prova scritta verte sugli aspetti sia teorici che applicativi della psicologia generale, della psicologia dello sviluppo e della metodologia delle scienze del comportamento.
+Nota all'art. 3:
+ - Il testo dell'art. 32 della citata [legge n. 56/1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;56) e' il seguente:
+ "Art. 32. - L'iscrizione all'albo, ferme restando le disposizioni di cui alle lettere a), b) e d) dell'art. 7, e' consentita su domanda da presentarsi entro sessanta giorni dalla nomina del commissario di cui all'art. 31:
+ a) ai professori ordinari, straordinari, associati, fuori ruolo e in quiescenza che insegnino o abbiano insegnato discipline psicologiche nelle universita' italiane o in strutture di particolare rilevanza scientifica anche sul piano internazionale nonche' ai ricercatori e assistenti universitari di ruolo in disci- pline psicologiche e ai laureati che ricoprano o abbiano ricoperto un posto di ruolo presso una istituzione pubblica in materia psicologica per il cui accesso sia attualmente richiesto il diploma di laurea in psicologia;
+ b) a coloro che ricoprano od abbiano ricoperto un posto di ruolo presso istituzioni pubbliche con un'attivita' di servizio attinente alla psicologia, per il cui accesso sia richiesto il diploma di laurea e che abbiano superato un pubblico concorso, ovvero che abbiano fruito delle disposizioni in materia di sanatoria;
+ c) ai laureati che da almeno sette anni svolgano effettivamente in maniera continuativa attivita' di collaborazione o consulenza attinenti alla psicologia con enti o istituzioni pubbliche o private;
+ d) a coloro che abbiano operato per almeno tre anni nelle discipline psicologiche ottenendo riconoscimenti nel campo specifico a livello nazionale o internazionale".
 
-3. La commissione propone tre temi tra i quali viene sorteggiato il tema da svolgere.
+## Art. 4.
 
-4. Il tempo massimo per questa prova e' stabilito in sette ore.
+1.
 
-5. La prova pratica consiste nella discussione del protocollo di un caso individuale o di gruppo.
+Gli esami di Stato di abilitazione all'esercizio della professione di psicologo consistono in una prova scritta, una pratica ed una orale.
 
-6. La prova orale consiste in un colloquio individuale riguardante l'elaborato scritto nonche' argomenti teorico-pratici relativi all'attivita' svolta durante il tirocinio professionale.
+2.
 
-Art. 5
-------
+La prova scritta verte sugli aspetti sia teorici che applicativi della psicologia generale, della psicologia dello sviluppo e della metodologia delle scienze del comportamento.
 
-1. Gli esami di Stato per l'abilitazione all'esercizio della professione di psicologo hanno luogo ogni anno in due sessioni indette con ordinanza del Ministro dell'universita' e della ricerca scientifica e tecnologica il quale con l'ordinanza medesima indica le sedi (citta' sedi di universita' o istituti di istruzione universitaria con corsi di laurea in psicologia) dopo aver sentito il Consiglio universitario nazionale in relazione alle attrezzature ed alle organizzazioni ritenute necessarie al regolare svolgimento degli esami.
+3.
 
-2. Ai candidati e' data facolta' di sostenere gli esami di Stato in una qualsiasi delle sedi indicate dall'ordinanza.
+La commissione propone tre temi tra i quali viene sorteggiato il tema da svolgere.
 
-3. Il giorno in cui hanno inizio gli esami di Stato e' stato stabilito per tutte le sedi, per ciascuna sessione, con la stessa ordinanza ministeriale.
+4.
 
-4. Il candidato che non si presenti al suo turno perde il diritto all'esame e non puo' conseguire alcun rimborso della tassa e del contributo versati.
+Il tempo massimo per questa prova e' stabilito in sette ore.
 
-5. Sono ammessi alla prova pratica quei candidati che abbiano raggiunto i sei decimi del voto nella prova scritta e alla prova orale coloro che abbiano raggiunto i sei decimi del voto nella prova pratica.
+5.
 
-6. Sulle prove, pratica e orale, la commissione delibera al termine di ciascna prova assegnando i voti di merito.
+La prova pratica consiste nella discussione del protocollo di un caso individuale o di gruppo.
 
-7. Il candidato ottiene l'idoneita' quando ha raggiunto almeno i sei decimi dei voti in ciascuna delle prove.
+6.
 
-8. Al termine dei lavori la commissione riassume i risultati degli esami ed assegna a ciascun candidato il voto complessivo derivante dalla somma dei singoli voti riportati in ciascuna prova.
+La prova orale consiste in un colloquio individuale riguardante l'elaborato scritto nonche' argomenti teorico-pratici relativi all'attivita' svolta durante il tirocinio professionale.
 
-Art. 6
-------
+## Art. 5.
 
-1. Per quanto non espressamente previsto dal presente regolamento si applicano le disposizioni del vigente regolamento sugli esami di Stato, approvato con decreto ministeriale 9 settembre 1957, e succes- sive modificazioni.
+1.
 
-Nota all'art. 6:  
-- Per il D.M. 9 settembre 1957 si veda in nota alle premesse.
+Gli esami di Stato per l'abilitazione all'esercizio della professione di psicologo hanno luogo ogni anno in due sessioni indette con ordinanza del Ministro dell'universita' e della ricerca scientifica e tecnologica il quale con l'ordinanza medesima indica le sedi (citta' sedi di universita' o istituti di istruzione universitaria con corsi di laurea in psicologia) dopo aver sentito il Consiglio universitario nazionale in relazione alle attrezzature ed alle organizzazioni ritenute necessarie al regolare svolgimento degli esami.
 
-Art. 7
-------
+2.
 
-Norma transitoria
+Ai candidati e' data facolta' di sostenere gli esami di Stato in una qualsiasi delle sedi indicate dall'ordinanza.
 
-1. In deroga a quanto previsto dall'art. 1 sono ammessi a sostenere gli esami di Stato dopo il conseguimento del diploma di specializzazione coloro che, al momento dell'entrata in vigore della [legge 18 febbraio 1989, n. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-02-18;56), erano iscritti ad un corso di specializzazione almeno triennale in psicologia o in uno dei suoi rami i quali documentino altresi' di avere svolto, per almeno un anno, attivita' che forma oggetto della professione di psicologo.
+3.
+
+Il giorno in cui hanno inizio gli esami di Stato e' stato stabilito per tutte le sedi, per ciascuna sessione, con la stessa ordinanza ministeriale.
+
+4.
+
+Il candidato che non si presenti al suo turno perde il diritto all'esame e non puo' conseguire alcun rimborso della tassa e del contributo versati.
+
+5.
+
+Sono ammessi alla prova pratica quei candidati che abbiano raggiunto i sei decimi del voto nella prova scritta e alla prova orale coloro che abbiano raggiunto i sei decimi del voto nella prova pratica.
+
+6.
+
+Sulle prove, pratica e orale, la commissione delibera al termine di ciascna prova assegnando i voti di merito.
+
+7.
+
+Il candidato ottiene l'idoneita' quando ha raggiunto almeno i sei decimi dei voti in ciascuna delle prove.
+
+8.
+
+Al termine dei lavori la commissione riassume i risultati degli esami ed assegna a ciascun candidato il voto complessivo derivante dalla somma dei singoli voti riportati in ciascuna prova.
+
+## Art. 6.
+
+1.
+
+Per quanto non espressamente previsto dal presente regolamento si applicano le disposizioni del vigente regolamento sugli esami di Stato, approvato con decreto ministeriale 9 settembre 1957, e succes- sive modificazioni.
+
+Nota all'art. 6:
+ - Per il D.M. 9 settembre 1957 si veda in nota alle premesse.
+
+## Art. 7. — Norma transitoria
+
+1.
+
+In deroga a quanto previsto dall'art. 1 sono ammessi a sostenere gli esami di Stato dopo il conseguimento del diploma di specializzazione coloro che, al momento dell'entrata in vigore della [legge 18 febbraio 1989, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-02-18;56), erano iscritti ad un corso di specializzazione almeno triennale in psicologia o in uno dei suoi rami i quali documentino altresi' di avere svolto, per almeno un anno, attivita' che forma oggetto della professione di psicologo.
+
+Nota all'[art. 7:
+ - Per la legge n. 56/1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;56#art_7) si veda in nota alle premesse.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 13 gennaio 1992
+Roma, 13 gennaio 1992
 
-Il Ministro: RUBERTI
-
-Visto, il Guardasigilli: MARTELLI Registrato alla Corte dei conti il 3 marzo 1992
-
-Registro n. 5 Universita' e ricerca, foglio n. 31
-
-Nota all'[art. 7:  
-- Per la legge n. 56/1989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;56~art7) si veda in nota alle premesse.
+Il Ministro: RUBERTI Visto, il Guardasigilli: MARTELLI Registrato alla Corte dei conti il 3 marzo 1992 Registro n. 5 Universita' e ricerca, foglio n. 31

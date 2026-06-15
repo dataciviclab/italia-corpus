@@ -1,64 +1,65 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 aprile 1994 n. 349
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 349
+data: 1994-04-20
+titolo: "Regolamento recante riordino dei procedimenti di riconoscimento di infermita' o lesione dipendente da causa di servizio e di concessione dell'equo indennizzo."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-20;349
+codice_redazionale: 094G0312
+vigente: true
+---
 
+## DISPOSIZIONI GENERALI
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 aprile 1994 n. 349
-=============================================================
+CAPO I
 
-Regolamento recante riordino dei procedimenti di riconoscimento di infermita' o lesione dipendente da causa di servizio e di concessione dell'equo indennizzo.
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del decreto: 5-12-1994
+(( PROVVEDIMENTO ABROGATO DAL D.P.R. 29 OTTOBRE 2001, N. 461 ))
 
-CAPO I CAPO I DISPOSIZIONI GENERALI
------------------------------------
+### Art. 2.
 
-### Art. 1
+(( PROVVEDIMENTO ABROGATO DAL D.P.R. 29 OTTOBRE 2001, N. 461 ))
 
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 29 OTTOBRE 2001, N. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-10-29;461) ))
+## DISCIPLINA DEI PROCEDIMENTI DI RICONOSCIMENTO DI INFERMITA' O LESIONE DIPENDENTE DA CAUSA DI SERVIZIO E DI CONCESSIONE DELL'EQUO INDENNIZZO.
 
-### Art. 2
+CAPO II
 
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 29 OTTOBRE 2001, N. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-10-29;461) ))
+### Art. 3.
 
-CAPO II CAPO II DISCIPLINA DEI PROCEDIMENTI DI RICONOSCIMENTO DI INFERMITA' O LESIONE DIPENDENTE DA CAUSA DI SERVIZIO E DI CONCESSIONE DELL'EQUO INDENNIZZO.
-------------------------------------------------------------------------------------------------------------------------------------------------------------
+(( PROVVEDIMENTO ABROGATO DAL D.P.R. 29 OTTOBRE 2001, N. 461 ))
 
-### Art. 3
+### Art. 4.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 29 OTTOBRE 2001, N. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-10-29;461) ))
+(( PROVVEDIMENTO ABROGATO DAL D.P.R. 29 OTTOBRE 2001, N. 461 ))
 
-### Art. 4
+### Art. 5.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 29 OTTOBRE 2001, N. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-10-29;461) ))
+(( PROVVEDIMENTO ABROGATO DAL D.P.R. 29 OTTOBRE 2001, N. 461 ))
 
-### Art. 5
+### Art. 6.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 29 OTTOBRE 2001, N. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-10-29;461) ))
+(( PROVVEDIMENTO ABROGATO DAL D.P.R. 29 OTTOBRE 2001, N. 461 ))
 
-### Art. 6
+### Art. 7.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 29 OTTOBRE 2001, N. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-10-29;461) ))
+(( PROVVEDIMENTO ABROGATO DAL D.P.R. 29 OTTOBRE 2001, N. 461 ))
 
-### Art. 7
+### Art. 8.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 29 OTTOBRE 2001, N. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-10-29;461) ))
+(( PROVVEDIMENTO ABROGATO DAL D.P.R. 29 OTTOBRE 2001, N. 461 ))
 
-### Art. 8
+### Art. 9.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 29 OTTOBRE 2001, N. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-10-29;461) ))
+(( PROVVEDIMENTO ABROGATO DAL D.P.R. 29 OTTOBRE 2001, N. 461 ))
 
-### Art. 9
+### Art. 10.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 29 OTTOBRE 2001, N. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-10-29;461) ))
+(( PROVVEDIMENTO ABROGATO DAL D.P.R. 29 OTTOBRE 2001, N. 461 ))
 
-### Art. 10
+### Art. 11.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 29 OTTOBRE 2001, N. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-10-29;461) ))
+(( PROVVEDIMENTO ABROGATO DAL D.P.R. 29 OTTOBRE 2001, N. 461 ))
 
-### Art. 11
+### Art. 12.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 29 OTTOBRE 2001, N. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-10-29;461) ))
-
-### Art. 12
-
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 29 OTTOBRE 2001, N. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-10-29;461) ))
+(( PROVVEDIMENTO ABROGATO DAL D.P.R. 29 OTTOBRE 2001, N. 461 ))

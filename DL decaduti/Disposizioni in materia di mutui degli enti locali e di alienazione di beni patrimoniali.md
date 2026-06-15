@@ -1,26 +1,19 @@
-DECRETO-LEGGE 01 ottobre 1990 n. 269
+---
+tipo: DECRETO-LEGGE
+numero: 269
+data: 1990-10-01
+titolo: "Disposizioni in materia di mutui degli enti locali e di alienazione di beni patrimoniali"
+urn: urn:nir:stato:decreto.legge:1990-10-01;269
+codice_redazionale: 090G0323
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 01 ottobre 1990 n. 269
-====================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 22 DICEMBRE 1990 N. 403](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20ottobre%201990%20n.%20310%20recante%20disposizioni%20urgenti%20in%20materia%20di%20finanza%20locale.md)
 
-Disposizioni in materia di mutui degli enti locali e di alienazione di beni patrimoniali
-----------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 01/10/1990.Decreto-Legge decaduto per mancata conversione.
-
-Art. 1
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 22 DICEMBRE 1990 N. 403](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-22;403)
-  
-
-Art. 2
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 22 DICEMBRE 1990 N. 403](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-22;403)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 22 DICEMBRE 1990 N. 403](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20ottobre%201990%20n.%20310%20recante%20disposizioni%20urgenti%20in%20materia%20di%20finanza%20locale.md)

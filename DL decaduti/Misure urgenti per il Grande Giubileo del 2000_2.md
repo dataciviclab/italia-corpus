@@ -1,28 +1,21 @@
-DECRETO-LEGGE 03 luglio 1996 n. 349
+---
+tipo: DECRETO-LEGGE
+numero: 349
+data: 1996-07-03
+titolo: "Misure urgenti per il Grande Giubileo del 2000."
+urn: urn:nir:stato:decreto.legge:1996-07-03;349
+codice_redazionale: 096G0375
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 03 luglio 1996 n. 349
-===================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 651](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20ottobre%201996%20n.%20551%20recante%20misure%20urgenti%20per%20il%20Grande%20Giubileo%20del%202000.md)
 
-Misure urgenti per il Grande Giubileo del 2000.
------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 03/07/1996.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 651](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20ottobre%201996%20n.%20551%20recante%20misure%20urgenti%20per%20il%20Grande%20Giubileo%20del%202000.md)
 
-Art. 1
-------
+## Art. 3.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 651](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;651)
-  
-
-Art. 2
-------
-
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 651](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;651)
-  
-
-Art. 3
-------
-
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 651](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;651)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 651](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20ottobre%201996%20n.%20551%20recante%20misure%20urgenti%20per%20il%20Grande%20Giubileo%20del%202000.md)

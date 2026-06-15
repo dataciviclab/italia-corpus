@@ -1,96 +1,61 @@
-DECRETO LEGISLATIVO 31 gennaio 2001 n. 22
+---
+tipo: DECRETO LEGISLATIVO
+numero: 22
+data: 2001-01-31
+titolo: "Attuazione della direttiva 98/93/CE che modifica la direttiva 68/414/CEE, concernente l'obbligo per gli Stati membri di mantenere un livello minimo di scorte di petrolio greggio e/o di prodotti petroliferi."
+urn: urn:nir:stato:decreto.legislativo:2001-01-31;22
+codice_redazionale: 001G0069
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 31 gennaio 2001 n. 22
-=========================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 DICEMBRE 2012, N. 249))
 
-Attuazione della direttiva 98/93/CE che modifica la direttiva 68/414/CEE, concernente l'obbligo per gli Stati membri di mantenere un livello minimo di scorte di petrolio greggio e/o di prodotti petroliferi.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 10-3-2001
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 DICEMBRE 2012, N. 249))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 DICEMBRE 2012, N. 249](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-12-31;249)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 DICEMBRE 2012, N. 249))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 DICEMBRE 2012, N. 249](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-12-31;249)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 DICEMBRE 2012, N. 249))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 DICEMBRE 2012, N. 249](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-12-31;249)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 DICEMBRE 2012, N. 249))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 DICEMBRE 2012, N. 249](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-12-31;249)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 DICEMBRE 2012, N. 249))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 DICEMBRE 2012, N. 249](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-12-31;249)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 DICEMBRE 2012, N. 249))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 DICEMBRE 2012, N. 249](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-12-31;249)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 DICEMBRE 2012, N. 249))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 DICEMBRE 2012, N. 249](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-12-31;249)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 DICEMBRE 2012, N. 249))
 
-Art. 8
-------
+## Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 DICEMBRE 2012, N. 249](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-12-31;249)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 DICEMBRE 2012, N. 249))
 
-Art. 9
-------
+## Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 DICEMBRE 2012, N. 249](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-12-31;249)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 DICEMBRE 2012, N. 249))
 
-Art. 10
--------
+## Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 DICEMBRE 2012, N. 249](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-12-31;249)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 DICEMBRE 2012, N. 249))
 
-Art. 11
--------
+## Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 DICEMBRE 2012, N. 249](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-12-31;249)))
-
-Art. 12
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 DICEMBRE 2012, N. 249](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-12-31;249)))
-
-Art. 13
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 DICEMBRE 2012, N. 249](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-12-31;249)))
-
-Allegato A
-
- Allegato A   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 DICEMBRE 2012, N. 249](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-12-31;249)))
-
-Allegato B
-
- Allegato B   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 DICEMBRE 2012, N. 249](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-12-31;249)))
-
-Allegato C
-
- Allegato C   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 DICEMBRE 2012, N. 249](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-12-31;249)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 DICEMBRE 2012, N. 249))

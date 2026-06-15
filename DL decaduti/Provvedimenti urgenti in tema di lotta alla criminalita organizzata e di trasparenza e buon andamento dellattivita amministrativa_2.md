@@ -1,192 +1,156 @@
-DECRETO-LEGGE 12 gennaio 1991 n. 5
+---
+tipo: DECRETO-LEGGE
+numero: 5
+data: 1991-01-12
+titolo: "Provvedimenti urgenti in tema di lotta alla criminalita' organizzata e di trasparenza e buon andamento dell'attivita' amministrativa."
+urn: urn:nir:stato:decreto.legge:1991-01-12;5
+codice_redazionale: 091G0021
+vigente: true
+---
 
+## PERSONE CONDANNATE PER PARTICOLARI DELITTI
 
-DECRETO-LEGGE 12 gennaio 1991 n. 5
-==================================
+Capo I
 
-Provvedimenti urgenti in tema di lotta alla criminalita' organizzata e di trasparenza e buon andamento dell'attivita' amministrativa.
--------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del decreto: 13/1/1991.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%201991%20n.%20152%20recante%20provvedimenti%20urgenti%20in%20tema%20di%20lotta%20alla%20criminalita%20organizzata%20e%20di%20trasparenza%20e%20buon%20andament_fb790f2eaee8.md)
 
-CAPO I Capo I PERSONE CONDANNATE PER PARTICOLARI DELITTI
---------------------------------------------------------
+### Art. 2.
 
-### Art. 1
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%201991%20n.%20152%20recante%20provvedimenti%20urgenti%20in%20tema%20di%20lotta%20alla%20criminalita%20organizzata%20e%20di%20trasparenza%20e%20buon%20andament_fb790f2eaee8.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-12;203)
-  
+### Art. 3.
 
-### Art. 2
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%201991%20n.%20152%20recante%20provvedimenti%20urgenti%20in%20tema%20di%20lotta%20alla%20criminalita%20organizzata%20e%20di%20trasparenza%20e%20buon%20andament_fb790f2eaee8.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-12;203)
-  
+### Art. 4.
 
-### Art. 3
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%201991%20n.%20152%20recante%20provvedimenti%20urgenti%20in%20tema%20di%20lotta%20alla%20criminalita%20organizzata%20e%20di%20trasparenza%20e%20buon%20andament_fb790f2eaee8.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-12;203)
-  
+## DISPOSIZIONI IN MATERIA DI MISURE CAUTELARI
 
-### Art. 4
+Capo II
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-12;203)
-  
+### Art. 5.
 
-CAPO II Capo II DISPOSIZIONI IN MATERIA DI MISURE CAUTELARI
------------------------------------------------------------
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%201991%20n.%20152%20recante%20provvedimenti%20urgenti%20in%20tema%20di%20lotta%20alla%20criminalita%20organizzata%20e%20di%20trasparenza%20e%20buon%20andament_fb790f2eaee8.md)
 
-### Art. 5
+## CIRCOSTANZE AGGRAVANTI E ATTENUANTI  PER REATI COMMESSI DA PERSONE SOTTOPOSTE  A MISURE DI PREVENZIONE O PER REATI  CONNESSI AD ATTIVITA' MAFIOSE.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-12;203)
-  
+CAPO III
 
-CAPO III CAPO III CIRCOSTANZE AGGRAVANTI E ATTENUANTI PER REATI COMMESSI DA PERSONE SOTTOPOSTE A MISURE DI PREVENZIONE O PER REATI CONNESSI AD ATTIVITA' MAFIOSE.
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 6.
 
-### Art. 6
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%201991%20n.%20152%20recante%20provvedimenti%20urgenti%20in%20tema%20di%20lotta%20alla%20criminalita%20organizzata%20e%20di%20trasparenza%20e%20buon%20andament_fb790f2eaee8.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-12;203)
-  
+### Art. 7.
 
-### Art. 7
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%201991%20n.%20152%20recante%20provvedimenti%20urgenti%20in%20tema%20di%20lotta%20alla%20criminalita%20organizzata%20e%20di%20trasparenza%20e%20buon%20andament_fb790f2eaee8.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-12;203)
-  
+### Art. 8.
 
-### Art. 8
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%201991%20n.%20152%20recante%20provvedimenti%20urgenti%20in%20tema%20di%20lotta%20alla%20criminalita%20organizzata%20e%20di%20trasparenza%20e%20buon%20andament_fb790f2eaee8.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-12;203)
-  
+## DISPOSIZIONI IN TEMA DI ARMI
 
-CAPO IV Capo IV DISPOSIZIONI IN TEMA DI ARMI
---------------------------------------------
+Capo IV
 
-### Art. 9
+### Art. 9.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-12;203)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%201991%20n.%20152%20recante%20provvedimenti%20urgenti%20in%20tema%20di%20lotta%20alla%20criminalita%20organizzata%20e%20di%20trasparenza%20e%20buon%20andament_fb790f2eaee8.md)
 
-### Art. 10
+### Art. 10.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-12;203)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%201991%20n.%20152%20recante%20provvedimenti%20urgenti%20in%20tema%20di%20lotta%20alla%20criminalita%20organizzata%20e%20di%20trasparenza%20e%20buon%20andament_fb790f2eaee8.md)
 
-CAPO V Capo V AGGRAVANTI PER LA DETERMINAZIONE O LA UTILIZZAZIONE DI MINORENNI E DI
-NON IMPUTABILI O NON PUNIBILI NELLA COMMISSIONE DI REATI
---------------------------------------------------------------------------------------------------------------------------------------------
+## AGGRAVANTI PER LA DETERMINAZIONE O LA  UTILIZZAZIONE DI MINORENNI E DI
+ NON IMPUTABILI  O NON PUNIBILI NELLA COMMISSIONE DI REATI
 
-### Art. 11
+Capo V
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-12;203)
-  
+### Art. 11.
 
-CAPO VI Capo VI COORDINAMENTO E SPECIALIZZAZIONE DEI SERVIZI DI POLIZIA GIUDIZIARIA
------------------------------------------------------------------------------------
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%201991%20n.%20152%20recante%20provvedimenti%20urgenti%20in%20tema%20di%20lotta%20alla%20criminalita%20organizzata%20e%20di%20trasparenza%20e%20buon%20andament_fb790f2eaee8.md)
 
-### Art. 12
+## COORDINAMENTO E SPECIALIZZAZIONE DEI SERVIZI DI POLIZIA GIUDIZIARIA
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-12;203)
-  
+Capo VI
 
-CAPO VII Capo VII MODIFICHE ALLA DISCIPLINA DELLE INTERCETTAZIONI DI CONVERSAZIONI O COMUNICAZIONI
---------------------------------------------------------------------------------------------------
+### Art. 12.
 
-### Art. 13
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%201991%20n.%20152%20recante%20provvedimenti%20urgenti%20in%20tema%20di%20lotta%20alla%20criminalita%20organizzata%20e%20di%20trasparenza%20e%20buon%20andament_fb790f2eaee8.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-12;203)
-  
+## MODIFICHE ALLA DISCIPLINA DELLE INTERCETTAZIONI DI CONVERSAZIONI O COMUNICAZIONI
 
-CAPO VIII Capo VIII DISPOSIZIONI IN MATERIA DI TRASPARENZA E DI BUON ANDAMENTO DELL'ATTIVITA' AMMINISTRATIVA
-------------------------------------------------------------------------------------------------------------
+Capo VII
 
-### Art. 14
+### Art. 13.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-12;203)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%201991%20n.%20152%20recante%20provvedimenti%20urgenti%20in%20tema%20di%20lotta%20alla%20criminalita%20organizzata%20e%20di%20trasparenza%20e%20buon%20andament_fb790f2eaee8.md)
 
-### Art. 15
+## DISPOSIZIONI IN MATERIA DI TRASPARENZA E DI BUON ANDAMENTO DELL'ATTIVITA' AMMINISTRATIVA
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-12;203)
-  
+Capo VIII
 
-### Art. 16
+### Art. 14.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-12;203)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%201991%20n.%20152%20recante%20provvedimenti%20urgenti%20in%20tema%20di%20lotta%20alla%20criminalita%20organizzata%20e%20di%20trasparenza%20e%20buon%20andament_fb790f2eaee8.md)
 
-### Art. 17
+### Art. 15.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-12;203)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%201991%20n.%20152%20recante%20provvedimenti%20urgenti%20in%20tema%20di%20lotta%20alla%20criminalita%20organizzata%20e%20di%20trasparenza%20e%20buon%20andament_fb790f2eaee8.md)
 
-CAPO IX Capo IX MODIFICAZIONI ALLA LEGISLAZIONE ANTIMAFIA
----------------------------------------------------------
+### Art. 16.
 
-### Art. 18
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%201991%20n.%20152%20recante%20provvedimenti%20urgenti%20in%20tema%20di%20lotta%20alla%20criminalita%20organizzata%20e%20di%20trasparenza%20e%20buon%20andament_fb790f2eaee8.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-12;203)
-  
+### Art. 17.
 
-### Art. 19
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%201991%20n.%20152%20recante%20provvedimenti%20urgenti%20in%20tema%20di%20lotta%20alla%20criminalita%20organizzata%20e%20di%20trasparenza%20e%20buon%20andament_fb790f2eaee8.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-12;203)
-  
+## MODIFICAZIONI ALLA LEGISLAZIONE ANTIMAFIA
 
-### Art. 20
+Capo IX
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-12;203)
-  
+### Art. 18.
 
-### Art. 21
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%201991%20n.%20152%20recante%20provvedimenti%20urgenti%20in%20tema%20di%20lotta%20alla%20criminalita%20organizzata%20e%20di%20trasparenza%20e%20buon%20andament_fb790f2eaee8.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-12;203)
-  
+### Art. 19.
 
-### Art. 22
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%201991%20n.%20152%20recante%20provvedimenti%20urgenti%20in%20tema%20di%20lotta%20alla%20criminalita%20organizzata%20e%20di%20trasparenza%20e%20buon%20andament_fb790f2eaee8.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-12;203)
-  
+### Art. 20.
+
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%201991%20n.%20152%20recante%20provvedimenti%20urgenti%20in%20tema%20di%20lotta%20alla%20criminalita%20organizzata%20e%20di%20trasparenza%20e%20buon%20andament_fb790f2eaee8.md)
+
+### Art. 21.
+
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%201991%20n.%20152%20recante%20provvedimenti%20urgenti%20in%20tema%20di%20lotta%20alla%20criminalita%20organizzata%20e%20di%20trasparenza%20e%20buon%20andament_fb790f2eaee8.md)
+
+### Art. 22.
+
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 12 LUGLIO 1991 N. 203](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%201991%20n.%20152%20recante%20provvedimenti%20urgenti%20in%20tema%20di%20lotta%20alla%20criminalita%20organizzata%20e%20di%20trasparenza%20e%20buon%20andament_fb790f2eaee8.md)

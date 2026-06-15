@@ -1,16 +1,14 @@
-LEGGE 08 gennaio 1928 n. 46
+---
+tipo: LEGGE
+numero: 46
+data: 1928-01-08
+titolo: "Conversione in legge del R. decreto 17 febbraio 1927, n. 344, concernente la sistemazione di alcune zone archeologiche nel Napoletano. (028U0046)"
+urn: urn:nir:stato:legge:1928-01-08;46
+codice_redazionale: 028U0046
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 08 gennaio 1928 n. 46
-===========================
-
-Conversione in legge del R. decreto 17 febbraio 1927, n. 344, concernente la sistemazione di alcune zone archeologiche nel Napoletano. (028U0046)
--------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/02/1928
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

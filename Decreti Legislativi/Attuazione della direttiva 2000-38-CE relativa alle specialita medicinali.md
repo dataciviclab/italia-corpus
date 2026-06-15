@@ -1,35 +1,25 @@
-DECRETO LEGISLATIVO 08 aprile 2003 n. 95
+---
+tipo: DECRETO LEGISLATIVO
+numero: 95
+data: 2003-04-08
+titolo: "Attuazione della direttiva 2000/38/CE relativa alle specialita' medicinali."
+urn: urn:nir:stato:decreto.legislativo:2003-04-08;95
+codice_redazionale: 003G0118
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 08 aprile 2003 n. 95
-========================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 24 APRILE 2006, N. 219))
 
-Attuazione della direttiva 2000/38/CE relativa alle specialita' medicinali.
----------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 24 APRILE 2006, N. 219))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 24 APRILE 2006, N. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-24;219)))
+## Art. 3.
 
-Art. 2
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 24 APRILE 2006, N. 219))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 24 APRILE 2006, N. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-24;219)))
+## Art. 4.
 
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 24 APRILE 2006, N. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-24;219)))
-
-Art. 4
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 24 APRILE 2006, N. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-24;219)))
-
-Allegato 1
-
- Allegato 1   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 24 APRILE 2006, N. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-24;219)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 24 APRILE 2006, N. 219))

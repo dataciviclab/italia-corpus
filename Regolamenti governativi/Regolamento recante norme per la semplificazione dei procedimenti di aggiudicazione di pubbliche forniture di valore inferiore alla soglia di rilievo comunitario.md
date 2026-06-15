@@ -1,86 +1,85 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 aprile 1994 n. 573
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 573
+data: 1994-04-18
+titolo: "Regolamento recante norme per la semplificazione dei procedimenti di aggiudicazione di pubbliche forniture di valore inferiore alla soglia di rilievo comunitario."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-18;573
+codice_redazionale: 094G0311
+vigente: true
+---
 
+### Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 aprile 1994 n. 573
-=============================================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-Regolamento recante norme per la semplificazione dei procedimenti di aggiudicazione di pubbliche forniture di valore inferiore alla soglia di rilievo comunitario.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 2.
 
-Entrata in vigore del decreto: 8-4-1995
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-CAPO I
-------
+### Art. 3.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+### Art. 4.
 
-### Art. 2
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+## PUBBLICITA' DELLE GARE
 
-### Art. 3
+CAPO II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+### Art. 5.
 
-### Art. 4
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+### Art. 6.
 
-CAPO II CAPO II PUBBLICITA' DELLE GARE
---------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-### Art. 5
+## SCELTA DEL CONTRAENTE
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+CAPO III
 
-### Art. 6
+### Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-CAPO III CAPO III SCELTA DEL CONTRAENTE
----------------------------------------
+### Art. 8.
 
-### Art. 7
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+### Art. 9.
 
-### Art. 8
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+### Art. 10.
 
-### Art. 9
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+## DISPOSIZIONI FINALI
 
-### Art. 10
+CAPO IV
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+### Art. 11.
 
-CAPO IV CAPO IV DISPOSIZIONI FINALI
------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-### Art. 11
+### Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-### Art. 12
+### Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-### Art. 13
+### Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-### Art. 14
+### Art. 15.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-### Art. 15
+### Art. 16.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
-
-### Art. 16
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))

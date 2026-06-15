@@ -1,46 +1,33 @@
-DECRETO-LEGGE 20 maggio 1993 n. 153
+---
+tipo: DECRETO-LEGGE
+numero: 153
+data: 1993-05-20
+titolo: "Disposizioni urgenti concernenti misure patrimoniali e interdittive in tema di delitti contro la pubblica amministrazione."
+urn: urn:nir:stato:decreto.legge:1993-05-20;153
+codice_redazionale: 093G0218
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 20 maggio 1993 n. 153
-===================================
+DECRETO DECADUTO
 
-Disposizioni urgenti concernenti misure patrimoniali e interdittive in tema di delitti contro la pubblica amministrazione.
---------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 23-05-1993.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO   
-
-Art. 5
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 6
-------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

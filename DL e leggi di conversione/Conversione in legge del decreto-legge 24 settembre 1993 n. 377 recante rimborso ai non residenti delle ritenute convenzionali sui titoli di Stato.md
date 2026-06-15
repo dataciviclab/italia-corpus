@@ -1,56 +1,27 @@
-LEGGE 18 novembre 1993 n. 467
-
-
-LEGGE 18 novembre 1993 n. 467
-=============================
-
-Conversione in legge del decreto-legge 24 settembre 1993, n. 377, recante rimborso ai non residenti delle ritenute convenzionali sui titoli di Stato.
------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore della legge: 21/11/1993
+---
+tipo: LEGGE
+numero: 467
+data: 1993-11-18
+titolo: "Conversione in legge del decreto-legge 24 settembre 1993, n. 377, recante rimborso ai non residenti delle ritenute convenzionali sui titoli di Stato."
+urn: urn:nir:stato:legge:1993-11-18;467
+codice_redazionale: 093G0546
+vigente: true
+---
 
 La Camera dei deputati ed il Senato della Repubblica hanno approvato;
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-PROMULGA
---------
+PROMULGA la seguente legge:
 
-la seguente legge:
+## Art. 1.
 
-Art. 1
-------
+1.
 
-1. E' convertito in legge il [decreto-legge 24 settembre 1993, n. 377](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-09-24;377), recante rimborso ai non residenti delle ritenute convenzionali sui titoli di Stato.
+E' convertito in legge il [decreto-legge 24 settembre 1993, n. 377](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-09-24;377), recante rimborso ai non residenti delle ritenute convenzionali sui titoli di Stato.
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data a Roma, addi' 18 novembre 1993
+Data a Roma, addi' 18 novembre 1993
 
-SCALFARO
-
-CIAMPI, Presidente del Consiglio dei Ministri
-
-BARUCCI, Ministro del tesoro
-
-GALLO, Ministro delle finanze
-
-Visto, il Guardasigilli: CONSO AVVERTENZA:
-
-Il decreto-legge 24 settembre 1993, n. 377, e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 226 del 25 settembre 1993.
-
-In questa stessa Gazzetta Ufficiale, alla pag. 38, e'
-
-ripubblicato il testo del decreto-legge 24 settembre 1993,
-
-n. 377, corredato delle relative note, ai sensi dell'art.
-
-8, comma 3, del regolamento di esecuzione del testo unico
-
-delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e
-
-sulle pubblicazioni ufficiali della Repubblica italiana, approvato con decreto del Presidente della Repubblica 14
-
-marzo 1986, n. 217.
+SCALFARO CIAMPI, Presidente del Consiglio dei Ministri BARUCCI, Ministro del tesoro GALLO, Ministro delle finanze Visto, il Guardasigilli: CONSO AVVERTENZA: Il decreto-legge 24 settembre 1993, n. 377, e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 226 del 25 settembre 1993. In questa stessa Gazzetta Ufficiale, alla pag. 38, e' ripubblicato il testo del decreto-legge 24 settembre 1993, n. 377, corredato delle relative note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con decreto del Presidente della Repubblica 14 marzo 1986, n. 217.

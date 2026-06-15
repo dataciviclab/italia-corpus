@@ -1,64 +1,43 @@
-DECRETO-LEGGE 15 luglio 1994 n. 449
+---
+tipo: DECRETO-LEGGE
+numero: 449
+data: 1994-07-15
+titolo: "Modifiche alla disciplina degli scarichi delle pubbliche fognature e degli insediamenti civili che non recapitano in pubbliche fognature, nonche' riorganizzazione degli organi collegiali del Ministero dell'ambiente."
+urn: urn:nir:stato:decreto.legge:1994-07-15;449
+codice_redazionale: 094G0487
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 15 luglio 1994 n. 449
-===================================
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI 
+ FATTI SALVI DALLA [L. 17 MAGGIO 1995, N. 172](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20marzo%201995%20n.%2079%20recante%20modifiche%20alla%20disciplina%20degli%20scarichi%20delle%20pubbliche%20fognature%20e%20degli%20insediamenti%20civili%20che%20non_6620dcd122cd.md)
 
-Modifiche alla disciplina degli scarichi delle pubbliche fognature e degli insediamenti civili che non recapitano in pubbliche fognature, nonche' riorganizzazione degli organi collegiali del Ministero dell'ambiente.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 18-7-1994.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI 
+ FATTI SALVI DALLA [L. 17 MAGGIO 1995, N. 172](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20marzo%201995%20n.%2079%20recante%20modifiche%20alla%20disciplina%20degli%20scarichi%20delle%20pubbliche%20fognature%20e%20degli%20insediamenti%20civili%20che%20non_6620dcd122cd.md)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI   
-FATTI SALVI DALLA [L. 17 MAGGIO 1995, N. 172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-17;172)
-  
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI 
+ FATTI SALVI DALLA [L. 17 MAGGIO 1995, N. 172](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20marzo%201995%20n.%2079%20recante%20modifiche%20alla%20disciplina%20degli%20scarichi%20delle%20pubbliche%20fognature%20e%20degli%20insediamenti%20civili%20che%20non_6620dcd122cd.md)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI   
-FATTI SALVI DALLA [L. 17 MAGGIO 1995, N. 172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-17;172)
-  
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI 
+ FATTI SALVI DALLA [L. 17 MAGGIO 1995, N. 172](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20marzo%201995%20n.%2079%20recante%20modifiche%20alla%20disciplina%20degli%20scarichi%20delle%20pubbliche%20fognature%20e%20degli%20insediamenti%20civili%20che%20non_6620dcd122cd.md)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI   
-FATTI SALVI DALLA [L. 17 MAGGIO 1995, N. 172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-17;172)
-  
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI 
+ FATTI SALVI DALLA [L. 17 MAGGIO 1995, N. 172](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20marzo%201995%20n.%2079%20recante%20modifiche%20alla%20disciplina%20degli%20scarichi%20delle%20pubbliche%20fognature%20e%20degli%20insediamenti%20civili%20che%20non_6620dcd122cd.md)
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI   
-FATTI SALVI DALLA [L. 17 MAGGIO 1995, N. 172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-17;172)
-  
+DECRETO DECADUTO
 
-Art. 5
-------
+## Art. 7.
 
-  
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI   
-FATTI SALVI DALLA [L. 17 MAGGIO 1995, N. 172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-17;172)
-  
-
-Art. 6
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 7
-------
-
-  
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI   
-FATTI SALVI DALLA [L. 17 MAGGIO 1995, N. 172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-17;172)
-  
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI 
+ FATTI SALVI DALLA [L. 17 MAGGIO 1995, N. 172](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20marzo%201995%20n.%2079%20recante%20modifiche%20alla%20disciplina%20degli%20scarichi%20delle%20pubbliche%20fognature%20e%20degli%20insediamenti%20civili%20che%20non_6620dcd122cd.md)

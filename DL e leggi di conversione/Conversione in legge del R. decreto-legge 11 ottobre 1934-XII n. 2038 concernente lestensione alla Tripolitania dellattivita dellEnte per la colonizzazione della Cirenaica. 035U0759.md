@@ -1,16 +1,14 @@
-LEGGE 08 aprile 1935 n. 759
+---
+tipo: LEGGE
+numero: 759
+data: 1935-04-08
+titolo: "Conversione in legge del R. decreto-legge 11 ottobre 1934-XII, n. 2038, concernente l'estensione alla Tripolitania dell'attivita' dell'Ente per la colonizzazione della Cirenaica. (035U0759)"
+urn: urn:nir:stato:legge:1935-04-08;759
+codice_redazionale: 035U0759
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 08 aprile 1935 n. 759
-===========================
-
-Conversione in legge del R. decreto-legge 11 ottobre 1934-XII, n. 2038, concernente l'estensione alla Tripolitania dell'attivita' dell'Ente per la colonizzazione della Cirenaica. (035U0759)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/06/1935
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

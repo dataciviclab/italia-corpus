@@ -1,16 +1,14 @@
-LEGGE 08 gennaio 1928 n. 34
+---
+tipo: LEGGE
+numero: 34
+data: 1928-01-08
+titolo: "Conversione in legge del R. decreto 9 gennaio 1927, n. 78, relativo alla concessione dl mutui ad aziende governative per imprese di colonizzazione in Eritrea ed in Somalia. (028U0034)"
+urn: urn:nir:stato:legge:1928-01-08;34
+codice_redazionale: 028U0034
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 08 gennaio 1928 n. 34
-===========================
-
-Conversione in legge del R. decreto 9 gennaio 1927, n. 78, relativo alla concessione dl mutui ad aziende governative per imprese di colonizzazione in Eritrea ed in Somalia. (028U0034)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/01/1928
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

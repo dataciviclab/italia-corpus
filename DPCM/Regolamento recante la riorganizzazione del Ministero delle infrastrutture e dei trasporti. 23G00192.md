@@ -1,64 +1,62 @@
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 30 ottobre 2023 n. 186
-
-
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 30 ottobre 2023 n. 186
-========================================================================
-
-Regolamento recante la riorganizzazione del Ministero delle infrastrutture e dei trasporti. (23G00192)
-------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/12/2023
+---
+tipo: DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
+numero: 186
+data: 2023-10-30
+titolo: "Regolamento recante la riorganizzazione del Ministero delle infrastrutture e dei trasporti. (23G00192)"
+urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2023-10-30;186
+codice_redazionale: 23G00192
+vigente: true
+---
 
 IL PRESIDENTE
--------------
 
 DEL CONSIGLIO DEI MINISTRI
 
-Vista la [legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), recante «Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri», e, in particolare, l'articolo 17;
+Vista la [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), recante «Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri», e, in particolare, l'articolo 17;
 
-Visto il [decreto-legge 22 aprile 2023, n. 44](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-04-22;44), convertito, con modificazioni, dalla [legge 21 giugno 2023, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-06-21;74), recante «Disposizioni urgenti per il rafforzamento della capacita' amministrativa delle amministrazioni pubbliche», e, in particolare, l'articolo 1;
+Visto il [decreto-legge 22 aprile 2023, n. 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-04-22;44), convertito, con modificazioni, dalla [legge 21 giugno 2023, n. 74](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20aprile%202023%20n.%2044%20recante%20disposizioni%20urgenti%20per%20il%20rafforzamento%20della%20capacita%20amministrativa%20delle%20amministrazioni%20pubbliche.%2023G00088.md), recante «Disposizioni urgenti per il rafforzamento della capacita' amministrativa delle amministrazioni pubbliche», e, in particolare, l'articolo 1;
 
-Vista la [legge 14 gennaio 1994, n. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;20), recante «Disposizioni in materia di giurisdizione e controllo della Corte dei conti», e, in particolare, l'articolo 3;
+Vista la [legge 14 gennaio 1994, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;20), recante «Disposizioni in materia di giurisdizione e controllo della Corte dei conti», e, in particolare, l'articolo 3;
 
-Visto il [decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300), recante «Riforma dell'organizzazione del Governo, a norma dell'[articolo 11 della legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art11)», e, in particolare, l'articolo 1, comma 2, nonche' gli articoli da 41 a 44;
+Visto il [decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), recante «Riforma dell'organizzazione del Governo, a norma dell'[articolo 11 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md)», e, in particolare, l'articolo 1, comma 2, nonche' gli articoli da 41 a 44;
 
-Visto il [decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165), recante «Norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche»;
+Visto il [decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), recante «Norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche»;
 
-Visto il [decreto legislativo 27 ottobre 2009, n. 150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2009-10-27;150), recante «Attuazione della [legge 4 marzo 2009, n. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-03-04;15), in materia di ottimizzazione della produttivita' del lavoro pubblico e di efficienza e trasparenza delle pubbliche amministrazioni»;
+Visto il [decreto legislativo 27 ottobre 2009, n. 150](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%204%20marzo%202009%20n.%2015%20in%20materia%20di%20ottimizzazione%20della%20produttivita%20del%20lavoro%20pubblico%20e%20di%20efficienza%20e%20trasparenza%20delle%20pubbliche%20amministrazioni.%2009G0164.md), recante «Attuazione della [legge 4 marzo 2009, n. 15](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20finalizzata%20allottimizzazione%20della%20produttivita%20del%20lavoro%20pubblico%20e%20alla%20efficienza%20e%20trasparenza%20delle%20pubbliche%20amministrazioni%20nonche%20disposizioni%20integrative%20dell_ca7c77713a76.md), in materia di ottimizzazione della produttivita' del lavoro pubblico e di efficienza e trasparenza delle pubbliche amministrazioni»;
 
-Vista la [legge 31 dicembre 2009, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196), recante «Legge di contabilita' e finanza pubblica»;
+Vista la [legge 31 dicembre 2009, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196), recante «Legge di contabilita' e finanza pubblica»;
 
-Visto il [decreto legislativo 15 marzo 2010, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66), recante «[Codice dell'ordinamento militare](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)» e, in particolare, l'articolo 118;
+Visto il [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), recante «[Codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md)» e, in particolare, l'articolo 118;
 
-Visto il [decreto legislativo 30 giugno 2011, n. 123](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-30;123), recante «Riforma dei controlli di regolarita' amministrativa e contabile e potenziamento dell'attivita' di analisi e valutazione della spesa, a norma dell'[articolo 49 della legge 31 dicembre 2009, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196~art49)»;
+Visto il [decreto legislativo 30 giugno 2011, n. 123](../Decreti%20Legislativi/Riforma%20dei%20controlli%20di%20regolarita%20amministrativa%20e%20contabile%20e%20potenziamento%20dellattivita%20di%20analisi%20e%20valutazione%20della%20spesa%20a%20norma%20dellarticolo%2049%20della%20legge%2031%20dicembre%202009%20n.%20196.%2011G0165.md), recante «Riforma dei controlli di regolarita' amministrativa e contabile e potenziamento dell'attivita' di analisi e valutazione della spesa, a norma dell'[articolo 49 della legge 31 dicembre 2009, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196#art_49)»;
 
-Visto il [decreto-legge 6 dicembre 2011, n. 201](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201), convertito, con modificazioni, dalla [legge 22 dicembre 2011, n. 214](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-12-22;214), recante «Disposizioni urgenti per la crescita, l'equita' e il consolidamento dei conti pubblici», e, in particolare, l'articolo 37;
+Visto il [decreto-legge 6 dicembre 2011, n. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201), convertito, con modificazioni, dalla [legge 22 dicembre 2011, n. 214](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20dicembre%202011%20n.%20201%20recante%20disposizioni%20urgenti%20per%20la%20crescita%20lequita%20e%20il%20consolidamento%20dei%20conti%20pubblici.%2011G0256.md), recante «Disposizioni urgenti per la crescita, l'equita' e il consolidamento dei conti pubblici», e, in particolare, l'articolo 37;
 
-Vista la [legge 6 novembre 2012, n. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-11-06;190), concernente «Disposizioni per la prevenzione e la repressione della corruzione e dell'illegalita' nella pubblica amministrazione», e, in particolare, l'articolo 1, comma 7;
+Vista la [legge 6 novembre 2012, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-11-06;190), concernente «Disposizioni per la prevenzione e la repressione della corruzione e dell'illegalita' nella pubblica amministrazione», e, in particolare, l'articolo 1, comma 7;
 
-Visto il [decreto legislativo 14 marzo 2013, n. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33), recante «Riordino della disciplina riguardante il diritto di accesso civico e gli obblighi di pubblicita', trasparenza e diffusione di informazioni da parte delle pubbliche amministrazioni»;
+Visto il [decreto legislativo 14 marzo 2013, n. 33](../Decreti%20Legislativi/Riordino%20della%20disciplina%20riguardante%20il%20diritto%20di%20accesso%20civico%20e%20gli%20obblighi%20di%20pubblicita%20trasparenza%20e%20diffusione%20di%20informazioni%20da%20parte%20delle%20pubbliche%20amministrazioni.%2013G00076.md), recante «Riordino della disciplina riguardante il diritto di accesso civico e gli obblighi di pubblicita', trasparenza e diffusione di informazioni da parte delle pubbliche amministrazioni»;
 
-Visto il [decreto-legge 28 settembre 2018, n. 109](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-09-28;109), convertito, con modificazioni, dalla [legge 16 novembre 2018, n. 130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-11-16;130), recante «Disposizioni urgenti per la citta' di Genova, la sicurezza della rete nazionale delle infrastrutture e dei trasporti, gli eventi sismici del 2016 e 2017, il lavoro e le altre emergenze», e, in particolare, gli articoli 12 e 13;
+Visto il [decreto-legge 28 settembre 2018, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-09-28;109), convertito, con modificazioni, dalla [legge 16 novembre 2018, n. 130](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20settembre%202018%20n.%20109%20recante%20disposizioni%20urgenti%20per%20la%20citta%20di%20Genova%20la%20sicurezza%20della%20rete%20nazionale%20delle%20infrastruttur_a2d2c50078c8.md), recante «Disposizioni urgenti per la citta' di Genova, la sicurezza della rete nazionale delle infrastrutture e dei trasporti, gli eventi sismici del 2016 e 2017, il lavoro e le altre emergenze», e, in particolare, gli articoli 12 e 13;
 
-Visto il [decreto legislativo 14 maggio 2019, n. 50](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;50), recante «Attuazione della [direttiva 2016/798 del Parlamento europeo e del Consiglio, dell'11 maggio 2016](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32016L0798), sulla sicurezza delle ferrovie»;
+Visto il [decreto legislativo 14 maggio 2019, n. 50](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202016-798%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20dell11%20maggio%202016%20sulla%20sicurezza%20delle%20ferrovie.%2019G00057.md), recante «Attuazione della [direttiva 2016/798 del Parlamento europeo e del Consiglio, dell'11 maggio 2016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2016;798), sulla sicurezza delle ferrovie»;
 
-Visto il [decreto-legge 10 settembre 2021, n. 121](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-09-10;121) convertito, con modificazioni, dalla [legge 9 novembre 2021, n. 156](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-11-09;156) recante «Disposizioni urgenti in materia di investimenti e sicurezza delle infrastrutture, dei trasporti e della circolazione stradale, per la funzionalita' del Ministero delle infrastrutture e della mobilita' sostenibili, del Consiglio superiore dei lavori pubblici e dell'Agenzia nazionale per la sicurezza delle ferrovie e delle infrastrutture stradali e autostradali»;
+Visto il [decreto-legge 10 settembre 2021, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-09-10;121) convertito, con modificazioni, dalla [legge 9 novembre 2021, n. 156](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20settembre%202021%20n.%20121%20recante%20disposizioni%20urgenti%20in%20materia%20di%20investimenti%20e%20sicurezza%20delle%20infrastrutture%20dei%20trasporti%20e%20_a45ae3c7c3a4.md) recante «Disposizioni urgenti in materia di investimenti e sicurezza delle infrastrutture, dei trasporti e della circolazione stradale, per la funzionalita' del Ministero delle infrastrutture e della mobilita' sostenibili, del Consiglio superiore dei lavori pubblici e dell'Agenzia nazionale per la sicurezza delle ferrovie e delle infrastrutture stradali e autostradali»;
 
-Visto il [decreto-legge 11 novembre 2022, n. 173](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-11-11;173), convertito, con modificazioni, dalla [legge 16 dicembre 2022, n.204](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-12-16;204), recante «Disposizioni urgenti in materia di riordino delle attribuzioni dei Ministeri», e, in particolare, gli articoli 5 e 13;
+Visto il [decreto-legge 11 novembre 2022, n. 173](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-11-11;173), convertito, con modificazioni, dalla [legge 16 dicembre 2022, n.204](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2011%20novembre%202022%20n.%20173%20recante%20disposizioni%20urgenti%20in%20materia%20di%20riordino%20delle%20attribuzioni%20dei%20Ministeri.%2022G00213.md), recante «Disposizioni urgenti in materia di riordino delle attribuzioni dei Ministeri», e, in particolare, gli articoli 5 e 13;
 
-Vista la [legge 29 dicembre 2022, n. 197](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-12-29;197), recante «Bilancio di previsione dello Stato per l'anno finanziario 2023 e bilancio pluriennale per il triennio 2023-2025»;
+Vista la [legge 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), recante «Bilancio di previsione dello Stato per l'anno finanziario 2023 e bilancio pluriennale per il triennio 2023-2025»;
 
-Visto il [decreto-legge 24 febbraio 2023, n. 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-02-24;13), convertito, con modificazioni, dalla [legge 21 aprile 2023, n. 41](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-04-21;41), recante «Disposizioni urgenti per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR) e del Piano nazionale degli investimenti complementari al PNRR (PNC), nonche' per l'attuazione delle politiche di coesione e della politica agricola comune»;
+Visto il [decreto-legge 24 febbraio 2023, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-02-24;13), convertito, con modificazioni, dalla [legge 21 aprile 2023, n. 41](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20febbraio%202023%20n.%2013%20recante%20disposizioni%20urgenti%20per%20lattuazione%20del%20Piano%20nazionale%20di%20ripresa%20e%20resilienza%20PNRR%20e%20del%20Piano%20n_ab2ee2e027d3.md), recante «Disposizioni urgenti per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR) e del Piano nazionale degli investimenti complementari al PNRR (PNC), nonche' per l'attuazione delle politiche di coesione e della politica agricola comune»;
 
-Visto il [decreto legislativo 31 marzo 2023, n. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36), recante «[Codice dei contratti pubblici](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163) in attuazione dell'[articolo 1 della legge 21 giugno 2022, n. 78](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-06-21;78~art1), recante delega al Governo in materia di contratti pubblici», e, in particolare, gli articoli 186 e 223;
+Visto il [decreto legislativo 31 marzo 2023, n. 36](../Codici/Codice%20dei%20contratti%20pubblici%20in%20attuazione%20dellarticolo%201%20della%20legge%2021%20giugno%202022%20n.%2078%20recante%20delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2023G00044.md), recante «[Codice dei contratti pubblici](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md) in attuazione dell'[articolo 1 della legge 21 giugno 2022, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2022G00087.md), recante delega al Governo in materia di contratti pubblici», e, in particolare, gli articoli 186 e 223;
 
-Visto il [decreto-legge 22 giugno 2023, n. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-06-22;75), convertito, con modificazioni, dalla [legge 10 agosto 2023, n. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-08-10;112), recante «Disposizioni urgenti in materia di organizzazione delle pubbliche amministrazioni, di agricoltura, di sport, di lavoro e per l'organizzazione del Giubileo della Chiesa cattolica per l'anno 2025», e, in particolare, gli articoli 1, comma 5, e 9;
+Visto il [decreto-legge 22 giugno 2023, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-06-22;75), convertito, con modificazioni, dalla [legge 10 agosto 2023, n. 112](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20giugno%202023%20n.%2075%20recante%20disposizioni%20urgenti%20in%20materia%20di%20organizzazione%20delle%20pubbliche%20amministrazioni%20di%20agricoltura%20di%20s_8f60f2ffa42b.md), recante «Disposizioni urgenti in materia di organizzazione delle pubbliche amministrazioni, di agricoltura, di sport, di lavoro e per l'organizzazione del Giubileo della Chiesa cattolica per l'anno 2025», e, in particolare, gli articoli 1, comma 5, e 9;
 
-Visto il [decreto del Presidente della Repubblica 27 aprile 2006, n. 204](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2006-04-27;204), recante regolamento di riordino del Consiglio superiore dei lavori pubblici;
+Visto il [decreto del Presidente della Repubblica 27 aprile 2006, n. 204](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20riordino%20del%20Consiglio%20superiore%20dei%20lavori%20pubblici.md), recante regolamento di riordino del Consiglio superiore dei lavori pubblici;
 
-Visto il [decreto del Presidente del Consiglio dei ministri 23 dicembre 2020, n. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2020-12-23;190), concernente la riorganizzazione del Ministero delle infrastrutture e dei trasporti;
+Visto il [decreto del Presidente del Consiglio dei ministri 23 dicembre 2020, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2020-12-23;190), concernente la riorganizzazione del Ministero delle infrastrutture e dei trasporti;
 
-Visto il [decreto del Ministro delle infrastrutture e dei trasporti 31 maggio 2019, n. 226](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.infrastrutture.trasporti:decreto:2019-05-31;226), con il quale sono stati definiti funzioni e compiti della Struttura tecnica di missione istituita presso il Ministero delle infrastrutture e dei trasporti;
+Visto il [decreto del Ministro delle infrastrutture e dei trasporti 31 maggio 2019, n. 226](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.infrastrutture.trasporti:decreto:2019-05-31;226), con il quale sono stati definiti funzioni e compiti della Struttura tecnica di missione istituita presso il Ministero delle infrastrutture e dei trasporti;
 
 Visto il decreto del Ministro dell'economia e delle finanze del 30 dicembre 2022, concernente la ripartizione in capitoli delle Unita' di voto parlamentare relative al bilancio di previsione dello Stato per l'anno finanziario 2023 e per il triennio 2023 - 2025;
 
@@ -76,1589 +74,1537 @@ Vista la deliberazione del Consiglio dei ministri adottata nella riunione del 23
 
 Sulla proposta del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro per la pubblica amministrazione e il Ministro dell'economia e delle finanze;
 
-Adotta
-------
+Adotta il seguente regolamento:
 
-il seguente regolamento:
+## Organizzazione del Ministero
 
-CAPO I Capo I Organizzazione del Ministero
-------------------------------------------
+Capo I
 
-### Art. 1
+### Art. 1. — Funzioni del Ministero
 
-Funzioni del Ministero
-
-1. Il presente regolamento disciplina l'organizzazione del Ministero delle infrastrutture e dei trasporti, di seguito denominato «Ministero».
-
-N O T E   
-  
-Avvertenza:   
-Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.   
-Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUUE).   
-  
-Note alle premesse:   
-- Si riporta l'[art. 17 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri):   
-«Art. 17 (Regolamenti). - 1. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, sentito il parere del Consiglio di Stato che deve pronunziarsi entro novanta giorni dalla richiesta, possono essere emanati regolamenti per disciplinare:   
-a) l'esecuzione delle leggi e dei decreti legislativi nonche' dei regolamenti comunitari;   
-b) l'attuazione e l'integrazione delle leggi e dei decreti legislativi recanti norme di principio, esclusi quelli relativi a materie riservate alla competenza regionale;   
-c) le materie in cui manchi la disciplina da parte di leggi o di atti aventi forza di legge, sempre che non si tratti di materie comunque riservate alla legge;   
-d) l'organizzazione ed il funzionamento delle amministrazioni pubbliche secondo le disposizioni dettate dalla legge;   
-e)   
-2. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, sentito il Consiglio di Stato e previo parere delle Commissioni parlamentari competenti in materia, che si pronunciano entro trenta giorni dalla richiesta, sono emanati i regolamenti per la disciplina delle materie, non coperte da riserva assoluta di legge prevista dalla Costituzione, per le quali le leggi della Repubblica, autorizzando l'esercizio della potesta' regolamentare del Governo, determinano le norme generali regolatrici della materia e dispongono l'abrogazione delle norme vigenti, con effetto dall'entrata in vigore delle norme regolamentari.   
-3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.  
-I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei ministri prima della loro emanazione.   
-4. I regolamenti di cui al comma 1 ed i regolamenti ministeriali ed interministeriali, che devono recare la denominazione di "regolamento", sono adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.   
-4-bis. L'organizzazione e la disciplina degli uffici dei Ministeri sono determinate, con regolamenti emanati ai sensi del comma 2, su proposta del Ministro competente d'intesa con il Presidente del Consiglio dei ministri e con il Ministro del tesoro, nel rispetto dei principi posti dal [decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29), e successive modificazioni, con i contenuti e con l'osservanza dei criteri che seguono:   
-a) riordino degli uffici di diretta collaborazione con i ministri ed i Sottosegretari di Stato, stabilendo che tali uffici hanno esclusive competenze di supporto dell'organo di direzione politica e di raccordo tra questo e l'amministrazione;   
-b) individuazione degli uffici di livello dirigenziale generale, centrali e periferici, mediante diversificazione tra strutture con funzioni finali e con funzioni strumentali e loro organizzazione per funzioni omogenee e secondo criteri di flessibilita' eliminando le duplicazioni funzionali;   
-c) previsione di strumenti di verifica periodica dell'organizzazione e dei risultati;   
-d) indicazione e revisione periodica della consistenza elle piante organiche;   
-e) previsione di decreti ministeriali di natura non regolamentare per la definizione dei compiti delle unita' dirigenziali nell'ambito degli uffici dirigenziali generali.   
-4-ter. Con regolamenti da emanare ai sensi del comma 1 del presente articolo, si provvede al periodico riordino delle disposizioni regolamentari vigenti, alla ricognizione di quelle che sono state oggetto di abrogazione implicita e all'espressa abrogazione di quelle che hanno esaurito la loro funzione o sono prive di effettivo contenuto normativo o sono comunque obsolete.».   
-- Si riporta l'[art. 1 del decreto-legge 22 aprile 2023, n. 44](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-04-22;44~art1) (Disposizioni urgenti per il rafforzamento della capacita' amministrativa delle amministrazioni pubbliche), convertito, con modificazioni, dalla [legge 21 giugno 2023, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-06-21;74):   
-«Art. 1 (Disposizioni in materia di rafforzamento della capacita' amministrativa delle amministrazioni centrali). - 1. All'[art. 1, comma 15, del decreto-legge 9 giugno 2021, n. 80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-06-09;80~art1-com15), convertito, con modificazioni, dalla [legge 6 agosto 2021, n. 113](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-08-06;113), dopo il primo periodo e' inserito il seguente: «Fino al 31 dicembre 2026, per le predette amministrazioni, per la copertura dei posti delle rispettive articolazioni che rivestono la qualifica di soggetti attuatori del PNRR, le quote di cui all'art. 19, comma 6, del medesimo [decreto legislativo n. 165 del 2001](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165), riferite agli incarichi dirigenziali generali e non generali, si applicano nella misura del 12 per cento.».   
-2. Al fine di rafforzare l'organizzazione della pubblica amministrazione, sono autorizzati gli incrementi delle dotazioni organiche di cui alla tabella A dell'allegato 1 annesso al presente decreto; le amministrazioni interessate provvedono, entro il 30 ottobre 2023, alla conseguente riorganizzazione mediante le procedure di cui all'[art. 13 del decreto-legge 11 novembre 2022, n. 173](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-11-11;173~art13), convertito, con modificazioni, dalla [legge 16 dicembre 2022, n. 204](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-12-16;204). Resta, comunque, fermo il termine del 30 giugno 2023 per l'adozione dei regolamenti di riorganizzazione delle strutture e delle unita' di missione di cui all'[art. 1, comma 1, del decreto-legge 24 febbraio 2023, n. 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-02-24;13~art1-com1), convertito, con modificazioni, dalla [legge 21 aprile 2023, n. 41](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-04-21;41).   
-3. Le amministrazioni di cui alla tabella B dell'allegato 2 annesso al presente decreto sono autorizzate ad assumere, anche senza il previo esperimento delle procedure di mobilita', le unita' di personale per ciascuna indicate nella medesima tabella B. A tal fine, le predette amministrazioni possono procedere mediante procedure concorsuali anche indette unitamente ad altre amministrazioni o ricorrendo allo scorrimento delle graduatorie di concorsi pubblici banditi da altre amministrazioni per la medesima area professionale. Il Ministero delle infrastrutture e dei trasporti e' autorizzato, per le unita' di personale dirigenziale di seconda fascia di cui alla citata tabella B, a bandire concorsi per professionalita' tecniche in materia di ingegneria civile e ingegneria dei trasporti e meccanica nonche' di ingegneria idraulica e ambientale in deroga a quanto previsto dall'[art. 28, comma 1-ter, del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art28-com1ter).   
-3-bis. In coerenza con il piano triennale dei fabbisogni di personale di cui all'[art. 6 del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art6), e nel rispetto della dotazione organica vigente, il Ministero dell'universita' e della ricerca e' autorizzato a procedere allo scorrimento della graduatoria formata all'esito della valutazione dei titoli nell'ambito del concorso pubblico, per titoli ed esami, per la copertura di centoventicinque posti di personale non dirigenziale, a tempo indeterminato, da inquadrare nell'area funzionale III, posizione economica F1, del comparto Funzioni centrali, presso il Ministero dell'universita' e della ricerca - codice concorso 01, per il reclutamento di ottantacinque unita' da inquadrare nell'area funzionale III, posizione economica F1, profilo di funzionario amministrativo-giuridico-contabile, indetto ai sensi dell'[art. 1, comma 937, della legge 30 dicembre 2020, n. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-12-30;178~art1-com937), e dell'[art. 64, comma 6-bis, del decreto-legge 31 maggio 2021, n. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-31;77~art64-com6bis), convertito, con modificazioni, dalla [legge 29 luglio 2021, n. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-07-29;108), nei limiti dei posti messi a concorso e delle originarie coperture finanziarie di cui all'art. 1, commi 940 e 941, della citata [legge n. 178 del 2020](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020;178) e al citato [art. 64, comma 6-bis, del decreto-legge n. 77 del 2021](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021;77~art64-com6bis). La procedura di scorrimento di cui al primo periodo puo' essere avviata, con determinazione adottata dall'amministrazione, nel caso in cui, a conclusione dello svolgimento della prova orale, non sia raggiunto un numero di candidati idonei alla successiva fase della procedura concorsuale pari almeno al numero dei posti messi a concorso per lo specifico profilo.  
-Alla graduatoria di cui al presente comma si applica il primo periodo del [comma 5-ter dell'art. 35 del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art35-com5ter).   
-4. Per garantire la necessaria speditezza del reclutamento del personale di cui alla tabella B dell'allegato 2:   
-a) la Presidenza del Consiglio dei ministri - Dipartimento della protezione civile puo' richiedere alla Commissione RIPAM di avviare procedure di reclutamento mediante concorso pubblico per titoli e prova scritta e orale. Ferme restando, a parita' di requisiti, le riserve previste dalla [legge 12 marzo 1999, n. 68](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-12;68), e dal [codice dell'ordinamento militare](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66), di cui al [decreto legislativo 15 marzo 2010, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66), il bando puo' prevedere l'attribuzione di un punteggio doppio per il titolo di studio richiesto per l'accesso, qualora il predetto titolo sia stato conseguito non oltre cinque anni prima del termine previsto per la presentazione della domanda di partecipazione alla procedura di reclutamento;   
-b) il Ministero dell'interno puo' richiedere alla Commissione RIPAM di avviare procedure di reclutamento per il personale non dirigenziale dell'amministrazione civile dell'interno mediante concorso pubblico, per titoli ed esami, bandito su base provinciale e svolto anche mediante l'uso di tecnologie digitali. Ogni candidato puo' presentare domanda per un solo ambito provinciale e per una sola posizione tra quelle messe a bando. Qualora una graduatoria provinciale risulti incapiente rispetto ai posti messi a concorso, l'amministrazione puo' coprire i posti ancora vacanti mediante scorrimento delle graduatorie degli idonei non vincitori per la medesima posizione di lavoro in altri ambiti provinciali, previo interpello e acquisito l'assenso degli interessati. Ferme restando, a parita' di requisiti, le riserve previste dalla legge, relativamente ai titoli valutabili, il bando puo' prevedere l'attribuzione di un punteggio doppio per il titolo di studio richiesto per l'accesso, qualora il predetto titolo sia stato conseguito non oltre cinque anni prima del termine previsto per la presentazione della domanda di partecipazione alla procedura di reclutamento;   
-b-bis) le amministrazioni centrali e le agenzie possono stipulare convenzioni volte a reclutare il personale di cui necessitano mediante scorrimento delle graduatorie dei concorsi pubblici svolti per il tramite della Commissione RIPAM, in corso di validita';   
-b-ter) il Ministero del lavoro e delle politiche sociali e' autorizzato ad avviare procedure di reclutamento, mediante concorso pubblico per titoli e prove scritta e orale, per l'assunzione del personale appartenente all'area dei funzionari di cui alla tabella B dell'allegato 2. Per le medesime esigenze di speditezza, le procedure di reclutamento di cui al primo periodo possono essere finalizzate anche al reclutamento di personale dell'area dei funzionari a valere sulle facolta' assunzionali ordinarie, per specifiche professionalita' con competenze in materia di igiene e sicurezza sui luoghi di lavoro, prevenzione e riduzione delle condizioni di bisogno, analisi e valutazione delle politiche del lavoro, gestione dei fondi strutturali e della capacita' di investimento, digitalizzazione, gestione di siti internet e contrattualistica pubblica. Ferme restando, a parita' di requisiti, le riserve previste dalla [legge 12 marzo 1999, n. 68](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-12;68), il bando puo' prevedere l'attribuzione di un punteggio doppio per il titolo di studio richiesto per l'accesso, qualora il predetto titolo sia stato conseguito non oltre cinque anni prima del termine previsto per la presentazione della domanda di partecipazione alla procedura di reclutamento, e, in ogni caso, un'adeguata valorizzazione della specifica professionalita' maturata da soggetti di elevata specializzazione tecnica che abbiano svolto attivita' presso il Ministero del lavoro e delle politiche sociali.   
-4-bis.   
-5. La Presidenza del Consiglio dei ministri, per le necessita' assunzionali del Dipartimento per le politiche in favore delle persone con disabilita' e' autorizzata, nei limiti delle facolta' assunzionali disponibili a legislazione vigente, a bandire concorsi, per i quali con decreto del Presidente del Consiglio dei ministri sono stabilite procedure e requisiti di partecipazione, prevedendo una riserva di posti non inferiore al 10 per cento e non superiore al 30 per cento destinata ai soggetti di cui alla [legge 12 marzo 1999, n. 68](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-12;68), e prevedendo, in ogni caso, una adeguata valorizzazione della professionalita' specifica dei soggetti in possesso di laurea triennale, laurea specialistica o magistrale che, alla data del 1° aprile 2023, abbiano svolto, mediante incarichi conferiti ai sensi dell'[art. 9, comma 2, del decreto legislativo 30 luglio 1999, n. 303](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;303~art9-com2), per almeno un triennio, attivita' di supporto tecnico, specialistico e operativo in materia di politiche in favore delle persone con disabilita'.   
-6. Per le esigenze di reclutamento del Ministero del turismo, cosi' come determinate nella tabella A dell'allegato 1 e nella tabella B dell'allegato 2, i bandi di concorso per il personale non dirigenziale possono prevedere una riserva di posti non superiore al 50 per cento destinata al personale gia' in servizio a tempo indeterminato presso l'ENIT - Agenzia nazionale per il turismo, che abbia maturato per almeno nove mesi un'adeguata esperienza nelle attivita' strettamente collegate all'esercizio dei compiti istituzionali del predetto Ministero.   
-7. All'[art. 7, comma 3, del decreto-legge 1° marzo 2021, n. 22](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-03-01;22~art7-com3), convertito, con modificazioni, dalla [legge 22 aprile 2021, n. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-04-22;55), le parole: "in numero di 19" sono sostituite dalle seguenti: "in numero di 23".   
-8. Al [decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300), sono apportate le seguenti modificazioni:   
-a) l'art. 46 e' sostituito dal seguente:   
-"Art. 46 (Aree funzionali). - 1. Il Ministero, in particolare, svolge le funzioni di spettanza statale nelle seguenti aree funzionali:   
-a) politiche sociali e previdenziali: principi ed obiettivi della politica sociale, criteri generali per la programmazione della rete degli interventi di integrazione sociale; standard organizzativi delle strutture interessate; standard dei servizi sociali essenziali; criteri di ripartizione delle risorse del Fondo nazionale per le politiche sociali, politica di tutela abitativa a favore delle fasce sociali deboli ed emarginate; assistenza tecnica, a richiesta degli enti locali e territoriali; rapporti con gli organismi internazionali, coordinamento dei rapporti con gli organismi dell'Unione europea; requisiti per la determinazione dei profili professionali degli operatori sociali e per la relativa formazione; controllo e vigilanza amministrativa e tecnico-finanziaria sugli enti di previdenza e assistenza obbligatoria e sulle organizzazioni non lucrative di utilita' sociale e sui patronati;   
-b) politiche del lavoro e dell'occupazione e tutela dei lavoratori: indirizzo, programmazione, sviluppo, coordinamento e valutazione delle politiche del lavoro e dell'occupazione; gestione degli incentivi alle persone a sostegno dell'occupabilita' e della nuova occupazione; politiche della formazione professionale come strumento delle politiche attive del lavoro; indirizzo, promozione e coordinamento in materia di collocamento e politiche attive del lavoro; vigilanza dei flussi di entrata dei lavoratori esteri non comunitari; raccordo con organismi internazionali; conciliazione delle controversie di lavoro individuali e plurime e risoluzione delle controversie collettive di rilevanza pluriregionale; conduzione del sistema informativo del lavoro; condizioni di sicurezza nei posti di lavoro; profili di sicurezza dell'impiego sul lavoro di macchine, impianti e prodotti industriali, con esclusione di quelli destinati ad attivita' sanitarie e ospedaliere e dei mezzi di circolazione stradale; assistenza e accertamento delle condizioni di lavoro degli italiani all'estero;   
-c) amministrazione generale del Ministero: gestione dei servizi indivisibili e comuni, con particolare riguardo alle attivita' di promozione, coordinamento e sviluppo della qualita' dei processi e dell'organizzazione e alla gestione delle risorse; programmazione del fabbisogno finanziario; linee generali e coordinamento delle attivita' concernenti il personale; affari generali e attivita' di gestione del personale del Ministero di carattere comune ed indivisibile; programmazione generale del fabbisogno e reclutamento del personale; formazione del personale; rappresentanza della parte pubblica nei rapporti sindacali; gestione della banca dati del personale, del ruolo e del sistema informativo del personale; anagrafe degli incarichi del personale del Ministero; gestione delle spese e degli acquisti e conduzione dei sistemi informatici di interesse comune.";   
-b) all'art. 47, il comma 1 e' sostituito dal seguente:   
-"1. Il Ministero si articola in dipartimenti, disciplinati ai sensi degli articoli 4 e 5. Il numero dei dipartimenti non puo' essere superiore a tre, in riferimento alle aree funzionali di cui all'art. 46, e il numero delle posizioni di livello dirigenziale generale non puo' essere superiore a dodici, ivi inclusi i capi dei dipartimenti. All'individuazione e all'organizzazione dei dipartimenti e delle direzioni generali si provvede sentite le organizzazioni sindacali maggiormente rappresentative".   
-c) all'art. 54-quater, le parole: "e' pari a 5" sono sostituite dalle seguenti: "e' pari a 7".   
-9. All'[art. 17-quinquies, comma 1, del decreto-legge 9 giugno 2021, n. 80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-06-09;80~art17quinquies-com1), convertito, con modificazioni, dalla [legge 6 agosto 2021, n. 113](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-08-06;113), sono apportate le seguenti modificazioni:   
-a) al primo periodo, le parole: "di cui all'[art. 10 del decreto-legge 1° aprile 2021, n. 44](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-04-01;44~art10), convertito, con modificazioni, dalla [legge 28 maggio 2021, n. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-05-28;76)" sono sostituite dalle seguenti: "di cui all'[art. 35-quater del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art35quater)";   
-b) al secondo periodo, le parole: "ai sensi dell'art. 10, comma 1, lettera c-bis), del citato [decreto-legge n. 44 del 2021](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021;44)" sono sostituite dalle seguenti: «ai sensi dell'[art. 35-quater, comma 1, lettera f), del decreto legislativo n. 165 del 2001](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165~art35quater-com1-letf)».   
-9-bis. Il [comma 4 dell'art. 18 del decreto legislativo 6 marzo 2017, n. 40](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-03-06;40~art18-com4), e' sostituito dal seguente:   
-"4. A favore degli operatori volontari che hanno concluso il servizio civile universale senza demerito e' riservata una quota pari al 15 per cento dei posti nei concorsi per l'assunzione di personale non dirigenziale indetti dalle amministrazioni pubbliche di cui all'[art. 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art1-com2), dalle aziende speciali e dagli enti di cui al testo unico delle leggi sull'ordinamento degli enti locali, di cui al [decreto legislativo 18 agosto 2000, n. 267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-18;267), fermi restando i diritti dei soggetti aventi titolo all'assunzione ai sensi della [legge 12 marzo 1999, n. 68](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-12;68), e tenuto conto dei limiti previsti dall'art. 5, primo comma, del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, di cui al [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, e dall'art. 52, comma 1-bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-01-10;3~art52-com1bis), del citato [decreto legislativo n. 165 del 2001](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165). Se la riserva di cui al primo periodo non puo' operare integralmente o parzialmente, perche' da' luogo a frazioni di posto, tali frazioni si cumulano con le riserve relative ai successivi concorsi per l'assunzione di personale non dirigenziale banditi dalla medesima amministrazione, azienda o ente oppure sono utilizzate nei casi in cui si procede a ulteriori assunzioni attingendo alla graduatoria degli idonei".   
-10. Al [decreto-legge 14 giugno 2021, n. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-06-14;82), convertito, con modificazioni, dalla [legge 4 agosto 2021, n. 109](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-08-04;109), sono apportate le seguenti modificazioni:   
-a) all'art. 12, dopo il comma 3 e' inserito il seguente:   
-"3-bis. Nell'ambito delle assunzioni a tempo indeterminato attraverso modalita' concorsuali, l'Agenzia puo' riservare una quota non superiore al 50 per cento dei posti messi a concorso per l'assunzione di personale non dirigenziale in favore dei titolari di rapporto di lavoro a tempo determinato di cui al comma 2, lettera b), in possesso dei requisiti necessari per l'inquadramento nel ruolo del personale dell'Agenzia di cui al comma 2, lettera a), e che, alla data di pubblicazione del bando, abbiano prestato servizio continuativo per almeno due anni presso la medesima Agenzia";   
-b) all'art. 17, dopo il comma 8 e' inserito il seguente:   
-"8.1. Ai fini di cui al comma 8, l'Agenzia si avvale altresi', sino al 31 dicembre 2023, di un contingente di personale, nel limite di cinquanta unita', appartenente alle pubbliche amministrazioni, alle autorita' indipendenti e alle societa' a controllo pubblico, messo a disposizione dell'Agenzia stessa su specifica richiesta e secondo modalita' individuate d'intesa con i soggetti pubblici e privati di appartenenza. I relativi oneri sono a carico dell'Agenzia e ai fini del trattamento retributivo si applicano le disposizioni del regolamento di cui all'art. 12, comma 1. Il personale di cui al primo periodo puo' essere inquadrato, con provvedimento dell'Agenzia adottato ai sensi dell'art. 5, comma 3, del regolamento di cui al [decreto del Presidente del Consiglio dei ministri 9 dicembre 2021, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2021-12-09;223), nel ruolo del personale di cui all'art. 12, comma 2, lettera a), non oltre il termine indicato al medesimo primo periodo del presente comma. Al relativo inquadramento si provvede, mediante apposite selezioni, con le modalita' e le procedure definite con provvedimento dell'Agenzia, adottato ai sensi del medesimo art. 5, comma 3, del regolamento di cui al [decreto del Presidente del Consiglio dei ministri n. 223 del 2021](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2021;223), sulla base di criteri di valorizzazione delle pregresse esperienze e anzianita' di servizio, delle competenze acquisite, dei requisiti di professionalita' posseduti e dell'impiego nell'Agenzia. Al personale inquadrato ai sensi dei periodi terzo e quarto del presente comma si applicano le disposizioni del regolamento di cui all'art. 12, comma 1, anche in materia di opzione per il trattamento previdenziale. Il personale di cui al comma 8, lettera b), gia' inserito nel ruolo del personale dell'Agenzia, puo' essere reinquadrato secondo i medesimi criteri di cui al quarto periodo del presente comma con provvedimento dell'Agenzia adottato, ai sensi del citato art. 5, comma 3, del regolamento di cui al [decreto del Presidente del Consiglio dei ministri n. 223 del 2021](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2021;223), entro il 31 dicembre 2023, senza effetti retroattivi. Il personale di cui al terzo periodo del presente comma e' computato nel numero dei posti previsti per la prima operativita' dell'Agenzia, di cui all'art. 12, comma 4".   
-11. All'[art. 1 del decreto-legge 30 dicembre 2019, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2019-12-30;162~art1), convertito, con modificazioni, dalla [legge 28 febbraio 2020, n. 8](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-02-28;8), sono apportate le seguenti modificazioni:   
-a) al comma 7, lettera c), dopo le parole: "e dell'amministrazione penitenziaria" sono inserite le seguenti: "nonche' dei titolari di incarichi di vertice e di funzione dirigenziale dell'Agenzia per la cybersicurezza nazionale,";   
-b) al comma 7-bis, le parole: «del Ministro competente» sono sostituite dalle seguenti: "dell'Autorita' politica competente".   
-11-bis. Al fine di conseguire gli obiettivi del Piano nazionale di ripresa e resilienza volti a migliorare l'efficienza del sistema giudiziario mediante la semplificazione e la riduzione del numero dei giudizi pendenti dinnanzi ai tribunali ordinari, tenuto conto della proroga disposta, da ultimo, ai sensi dell'[art. 8, comma 8-ter, del decreto-legge 29 dicembre 2022, n. 198](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-12-29;198~art8-com8ter), convertito, con modificazioni, dalla [legge 24 febbraio 2023, n. 14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-02-24;14), le attuali dotazioni organiche del personale amministrativo dei tribunali soppressi delle circoscrizioni dell'Aquila e di Chieti possono essere integrate, nel limite complessivo della dotazione organica del Ministero della giustizia e ad invarianza finanziaria, con personale amministrativo gia' assegnato alle medesime circoscrizioni.   
-12. Fino al 31 dicembre 2026 l'Autorita' di regolazione per energia, reti e ambiente (ARERA) puo' avvalersi, ai sensi dell'[art. 17, comma 14, della legge 15 maggio 1997, n. 127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127~art17-com14), di un contingente di 15 unita' di personale collocato fuori ruolo o in posizione di comando, distacco o altra analoga posizione prevista dagli ordinamenti di appartenenza, proveniente da amministrazioni pubbliche. Il predetto personale conserva il trattamento economico in godimento presso le amministrazioni di provenienza con oneri a carico delle medesime. All'atto del collocamento fuori ruolo e' reso indisponibile nella dotazione organica dell'amministrazione di provenienza, per tutta la durata del collocamento fuori ruolo, un numero di posti equivalente dal punto di vista finanziario.   
-12-bis. All'[art. 20 del decreto legislativo 14 maggio 2019, n. 50](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;50~art20), sono apportate le seguenti modificazioni:   
-a) al comma 1, primo periodo, la parola: "dalla" e' sostituita dalle seguenti: «da un ufficio dirigenziale di livello non generale tra quelli della";   
-b) al comma 2, secondo periodo, le parole: "il dirigente di livello generale della Direzione generale" sono sostituite dalle seguenti: "un dirigente di livello non generale della Direzione generale".   
-12-ter. Il Ministero delle infrastrutture e dei trasporti provvede all'attuazione delle disposizioni di cui al comma 12-bis nell'ambito delle procedure di cui all'[art. 13 del decreto-legge 11 novembre 2022, n. 173](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-11-11;173~art13), convertito, con modificazioni, dalla [legge 16 dicembre 2022, n. 204](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-12-16;204), con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente e comunque senza nuovi o maggiori oneri a carico della finanza pubblica.   
-12-quater. All'[art. 18, comma 1, della legge 4 novembre 2010, n. 183](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-11-04;183~art18-com1), le parole: "di dodici mesi" sono sostituite dalle seguenti: "di trentasei mesi".   
-12-quinquies. Al [decreto-legge 16 luglio 2020, n. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-07-16;76), convertito, con modificazioni, dalla [legge 11 settembre 2020, n. 120](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-09-11;120), sono apportate le seguenti modificazioni:   
-a) nelle more di una complessiva revisione della disciplina sulla responsabilita' amministrativo-contabile, all'art. 21, comma 2, primo periodo, le parole: «30 giugno 2023» sono sostituite dalle seguenti: "30 giugno 2024";   
-b) all'art. 22, comma 1, primo periodo, sono aggiunte, in fine, le seguenti parole: ", ad esclusione di quelli previsti o finanziati dal Piano nazionale di ripresa e resilienza, di cui al [regolamento (UE) 2021/241 del Parlamento europeo e del Consiglio, del 12 febbraio 2021](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32021R0241), o dal Piano nazionale per gli investimenti complementari, di cui al [decreto-legge 6 maggio 2021, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-06;59), convertito, con modificazioni, dalla [legge 1° luglio 2021, n. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-07-01;101)".   
-12-sexies. L'art. 5, comma 9, terzo periodo, del [decreto-legge 6 luglio 2012, n. 95](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95), convertito, con modificazioni, dalla [legge 7 agosto 2012, n. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135), si interpreta nel senso che la possibilita' di conferire a titolo gratuito gli incarichi, le cariche e le collaborazioni a soggetti gia' lavoratori privati o pubblici collocati in quiescenza, di cui al medesimo comma 9, si applica anche per gli incarichi di presidente della Giunta centrale per gli studi storici e di direttore degli Istituti storici di cui al regolamento di cui al [decreto del Presidente della Repubblica 11 novembre 2005, n. 255](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2005-11-11;255).   
-13. Fermo restando quanto previsto dall'art. 7, comma 4, ai fini dell'attuazione dei commi 2 e 3 e' autorizzata la spesa:   
-a) per la Presidenza del Consiglio dei ministri, di euro 5.768.260 per l'anno 2023 e di euro 8.652.390 annui a decorrere dall'anno 2024 per le assunzioni a tempo indeterminato e di euro 822.718 per l'anno 2023 e di euro 86.524 annui a decorrere dall'anno 2024 per le spese di funzionamento;   
-b) per il Ministero degli affari esteri e della cooperazione internazionale, di euro 937.362 per l'anno 2024 e di euro 3.749.446 annui a decorrere dall'anno 2025 per le assunzioni a tempo indeterminato e di euro 674.945 per l'anno 2024 e di euro 37.495 annui a decorrere dall'anno 2025 per le spese di funzionamento;   
-c) per il Ministero dell'interno, di euro 8.724.863 per l'anno 2023 e di euro 13.087.295 annui a decorrere dall'anno 2024 per le assunzioni a tempo indeterminato e di euro 1.308.730 per l'anno 2023 e di euro 130.873 annui a decorrere dall'anno 2024 per le spese di funzionamento;   
-d) per il Ministero della difesa, di euro 175.669 per l'anno 2023 e di euro 263.503 annui a decorrere dall'anno 2024 per le assunzioni a tempo indeterminato e di euro 26.351 per l'anno 2023 e di euro 2.636 annui a decorrere dall'anno 2024 per le spese di funzionamento;   
-e) per il Ministero dell'economia e delle finanze, di euro 1.135.888 per l'anno 2023 e di euro 1.703.832 annui a decorrere dall'anno 2024 per le assunzioni a tempo indeterminato e di euro 470.384 per l'anno 2023 e di euro 17.039 annui a decorrere dall'anno 2024 per le spese di funzionamento;   
-f) per il Ministero delle imprese e del made in Italy, di euro 175.391 per l'anno 2023 e di euro 263.086 annui a decorrere dall'anno 2024 per le assunzioni a tempo indeterminato, di euro 175.391 per l'anno 2023 e di euro 263.086 per ciascuno degli anni 2024, 2025 e 2026 per le assunzioni a tempo determinato e di euro 39.463 per l'anno 2023, di euro 5.262 per ciascuno degli anni dal 2024 al 2026 e di euro 2.631 annui a decorrere dall'anno 2027 per le spese di funzionamento;   
-g) per il Ministero dell'agricoltura, della sovranita' alimentare e delle foreste, di euro 3.558.216 per l'anno 2023 e di euro 5.337.323 annui a decorrere dall'anno 2024 per le assunzioni a tempo indeterminato e di euro 833.733 per l'anno 2023 e di euro 53.374 annui a decorrere dall'anno 2024 per le spese di funzionamento;   
-h) per il Ministero dell'ambiente e della sicurezza energetica, di euro 694.818 per l'anno 2023 e di euro 1.042.226 annui a decorrere dall'anno 2024 per le assunzioni a tempo indeterminato e di euro 59.024 per l'anno 2023 e di euro 5.903 annui a decorrere dall'anno 2024 per le spese di funzionamento;   
-i) per il Ministero delle infrastrutture e dei trasporti, di euro 2.126.117 per l'anno 2023 e di euro 3.189.175 annui a decorrere dall'anno 2024 per le assunzioni a tempo indeterminato e di euro 818.918 per l'anno 2023 e di euro 31.892 annui a decorrere dall'anno 2024 per le spese di funzionamento;   
-l) per il Ministero del lavoro e delle politiche sociali, di euro 1.450.708 per l'anno 2023 e di euro 2.176.061 annui a decorrere dall'anno 2024 per le assunzioni a tempo indeterminato, e di euro 225.000 per l'anno 2023 e di euro 250.000 annui a decorrere dall'anno 2024 per le spese di funzionamento;   
-m) per il Ministero dell'universita' e della ricerca, di euro 561.189 per l'anno 2023 e di euro 841.783 annui a decorrere dall'anno 2024 per le assunzioni a tempo indeterminato e di euro 84.179 per l'anno 2023 e di euro 8.418 annui a decorrere dall'anno 2024 per le spese di funzionamento;   
-n) per il Ministero della cultura, di euro 1.489.936 per l'anno 2023 e di euro 2.234.904 annui a decorrere dall'anno 2024 per le assunzioni a tempo indeterminato e di euro 253.491 per l'anno 2023 e di euro 22.350 annui a decorrere dall'anno 2024 per le spese di funzionamento;   
-o) per il Ministero della salute, di euro 287.490 per l'anno 2023 e di euro 431.235 per ciascuno degli anni dal 2024 al 2026 per le assunzioni a tempo determinato e di euro 21.562 per l'anno 2023 e di euro 4.313 per ciascuno degli anni dal 2024 al 2026 per le spese di funzionamento;   
-p) per il Ministero del turismo, di euro 4.741.284 per l'anno 2023 e di euro 7.111.925 annui a decorrere dall'anno 2024 per le assunzioni a tempo indeterminato e di euro 1.021.001 per l'anno 2023 e di euro 64.101 annui a decorrere dall'anno 2024 per le spese di funzionamento;   
-q) per l'Avvocatura generale dello Stato, di euro 2.781.565 per l'anno 2023 e di euro 4.172.347 annui a decorrere dall'anno 2024 per le assunzioni a tempo indeterminato e di euro 578.157 per l'anno 2023 e di euro 41.724 annui a decorrere dall'anno 2024 per le spese di funzionamento;   
-r) per l'Agenzia nazionale di valutazione del sistema universitario e della ricerca (ANVUR), di euro 476.477 per l'anno 2023 e di euro 714.715 annui a decorrere dall'anno 2024 per le assunzioni a tempo indeterminato;   
-s) per l'Agenzia nazionale per i servizi sanitari regionali - AGENAS, di euro 2.348.646 per l'anno 2023 e di euro 3.522.969 annui a decorrere dall'anno 2024 per le assunzioni a tempo indeterminato.   
-14. Agli oneri derivanti dai commi da 1 a 13, pari a 43.234.619 euro per l'anno 2023, 57.344.571 euro per l'anno 2024, 59.519.205 euro per l'anno 2025, 59.519.205 euro per l'anno 2026 e 58.817.940 euro annui a decorrere dall'anno 2027, si provvede:   
-a) quanto a 36.671.908 euro per l'anno 2023, 55.945.217 euro per l'anno 2024, 58.757.301 euro per l'anno 2025, 58.757.301 euro per l'anno 2026 e 58.062.980 euro annui a decorrere dall'anno 2027, mediante corrispondente riduzione del Fondo di cui all'[art. 1, comma 607, della legge 30 dicembre 2021, n. 234](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-30;234~art1-com607);   
-b) quanto a 822.718 euro per l'anno 2023 e 86.524 annui a decorrere dall'anno 2024, mediante corrispondente riduzione del Fondo di cui all'[art. 1, comma 200, della legge 23 dicembre 2014, n. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190~art1-com200);   
-c) quanto a 5.739.993 euro per l'anno 2023, 1.312.830 euro per l'anno 2024 e 675.380 euro annui a decorrere dall'anno 2025, mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2023-2025, nell'ambito del programma "Fondi di riserva e speciali" della missione «Fondi da ripartire» dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2023, allo scopo parzialmente utilizzando:   
-1) l'accantonamento relativo al Ministero dell'economia e delle finanze per 1.048.541 euro per l'anno 2023 e 58.763 euro annui a decorrere dall'anno 2024;   
-2) l'accantonamento relativo al Ministero delle imprese e del made in Italy per 39.463 euro per l'anno 2023 e 5.262 euro annui a decorrere dall'anno 2024;   
-3) l'accantonamento relativo al Ministero del lavoro e delle politiche sociali per 225.000 euro per l'anno 2023 e 250.000 euro annui a decorrere dall'anno 2024;   
-4) l'accantonamento relativo al Ministero degli affari esteri e della cooperazione internazionale per 674.945 euro per l'anno 2024 e 37.495 euro annui a decorrere dall'anno 2025;   
-5) l'accantonamento relativo al Ministero dell'interno per 1.308.730 euro per l'anno 2023 e 130.873 euro annui a decorrere dall'anno 2024;   
-6) l'accantonamento relativo al Ministero dell'ambiente e della sicurezza energetica per 59.024 euro per l'anno 2023 e 5.903 euro annui a decorrere dall'anno 2024;   
-7) l'accantonamento relativo al Ministero delle infrastrutture e dei trasporti per 818.918 euro per l'anno 2023 e 31.892 euro annui a decorrere dall'anno 2024;   
-8) l'accantonamento relativo al Ministero dell'universita' e della ricerca per 84.179 euro per l'anno 2023 e 8.418 euro annui a decorrere dall'anno 2024;   
-9) l'accantonamento relativo al Ministero della difesa per 26.351 euro per l'anno 2023 e 2.636 euro annui a decorrere dall'anno 2024;   
-10) l'accantonamento relativo al Ministero dell'agricoltura, della sovranita' alimentare e delle foreste per 833.733 euro per l'anno 2023 e 53.374 euro annui a decorrere dall'anno 2024;   
-11) l'accantonamento relativo al Ministero della cultura per 253.491 euro per l'anno 2023 e 22.350 euro annui a decorrere dall'anno 2024;   
-12) l'accantonamento relativo al Ministero della salute per 21.562 euro per l'anno 2023 e 4.313 euro annui a decorrere dall'anno 2024;   
-13) l'accantonamento relativo al Ministero del turismo per 1.021.001 euro per l'anno 2023 e 64.101 euro annui a decorrere dall'anno 2024.   
-14-bis. Al [decreto legislativo 27 gennaio 2010, n. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;35), sono apportate le seguenti modificazioni:   
-a) all'art. 2, comma 1, e' aggiunta, in fine, la seguente lettera:   
-"g-bis) Agenzia nazionale per la sicurezza delle ferrovie e delle infrastrutture stradali e autostradali (ANSFISA): l'Agenzia di cui all'[art. 12 del decreto-legge 28 settembre 2018, n. 109](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-09-28;109~art12), convertito, con modificazioni, dalla [legge 16 novembre 2018, n. 130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-11-16;130)";   
-b) all'art. 9, comma 1, dopo le parole: «ed eventuali altri Ministeri» sono inserite le seguenti: ", agenzie ed enti";   
-c) all'art. 13 e' aggiunto, in fine, il seguente comma:   
-"5-bis. Le commissioni di cui ai commi 1, 2 e 3 sono integrate con rappresentanti dell'ANSFISA".   
-14-ter. All'[art. 35 del decreto del Presidente della Repubblica 11 luglio 1980, n. 753](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;753~art35), sono apportate le seguenti modificazioni:   
-a) al comma 4:   
-1) al primo periodo, dopo le parole: "dello sviluppo economico,» sono inserite le seguenti: acquisito il parere dell'Agenzia nazionale per la sicurezza delle ferrovie e delle infrastrutture stradali e autostradali (ANSFISA),";   
-2) al secondo periodo, dopo le parole: "e della salute,» sono inserite le seguenti: «acquisito il parere dell'ANSFISA,";   
-3) al terzo periodo, le parole da: «per le merci assimilabili» fino alla fine del comma sono sostituite dalle seguenti: "per le merci assimilabili puo' altresi' essere imposto l'obbligo dell'autorizzazione del singolo trasporto, secondo i criteri e le modalita' determinati dall'ANSFISA";   
-b) al comma 5, primo periodo, dopo le parole: «della tutela del territorio e del mare,» sono inserite le seguenti: "acquisito il parere dell'ANSFISA,";   
-c) al comma 7, alinea, dopo le parole: "del territorio e del mare," sono inserite le seguenti: "acquisito il parere dell'ANSFISA,";   
-d) al comma 12, le parole: "Lo speditore o il trasportatore che violano gli obblighi di sicurezza in capo agli stessi posti rispettivamente dal capitolo 1.4.2.1 e 1.4.2.2 del RID" sono sostituite dalle seguenti: "I soggetti che violano gli obblighi di sicurezza in capo agli stessi posti rispettivamente dai paragrafi 1.4.2 e 1.4.3 del RID" ed e' aggiunto, in fine, il seguente periodo: "L'accertamento delle violazioni e' svolto dai soggetti individuati dall'art. 71 e dal personale dell'ANSFISA".   
-14-quater. All'[art. 16, comma 2, del decreto legislativo 14 maggio 2019, n. 50](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;50~art16-com2), e' aggiunta, in fine, la seguente lettera: "ff-bis) svolgere i compiti derivanti dal [decreto legislativo 27 gennaio 2010, n. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;35)".   
-14-quinquies. Le amministrazioni competenti provvedono all'attuazione delle disposizioni di cui ai commi da 14-bis a 14-quater nell'ambito delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente e comunque senza nuovi o maggiori oneri a carico della finanza pubblica.   
-14-sexies. Dopo il [comma 7-bis dell'art. 6 del decreto-legge 9 giugno 2021, n. 80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-06-09;80~art6-com7bis), convertito, con modificazioni, dalla [legge 6 agosto 2021, n. 113](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-08-06;113), e' inserito il seguente:   
-"7-ter. Nell'ambito della sezione del Piano relativa alla formazione del personale, le amministrazioni di cui al comma 1 indicano quali elementi necessari gli obiettivi e le occorrenti risorse finanziarie, nei limiti di quelle a tale scopo disponibili, prevedendo l'impiego delle risorse proprie e di quelle attribuite dallo Stato o dall'Unione europea, nonche' le metodologie formative da adottare in riferimento ai diversi destinatari. A tal fine le amministrazioni di cui al comma 1 individuano al proprio interno dirigenti e funzionari aventi competenze e conoscenze idonee per svolgere attivita' di formazione con risorse interne e per esercitare la funzione di docente o di tutor, per i quali sono predisposti specifici percorsi formativi".   
-14-septies. Nell'ambito della revisione della disciplina in materia di inclusione lavorativa, nel settore pubblico e nel settore privato, possono essere individuate, con riferimento alla quota di cui all'[art. 3, comma 1, lettera a), della legge 12 marzo 1999, n. 68](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-12;68~art3-com1-leta), eventuali specifiche riserve in favore delle categorie di persone con disabilita' per le quali si riscontra una maggiore difficolta' di inserimento lavorativo.».   
-- Si riporta l'[art. 3 della legge 14 gennaio 1994, n. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;20~art3) (Disposizioni in materia di giurisdizione e controllo della Corte dei conti):   
-«Art. 3 (Norme in materia di controllo della Corte dei conti). - 1. Il controllo preventivo di legittimita' della Corte dei conti si esercita esclusivamente sui seguenti atti non aventi forza di legge:   
-a) provvedimenti emanati a seguito di deliberazione del Consiglio dei ministri;   
-b) atti del Presidente del Consiglio dei ministri e atti dei Ministri aventi ad oggetto la definizione delle piante organiche, il conferimento di incarichi di funzioni dirigenziali e le direttive generali per l'indirizzo e per lo svolgimento dell'azione amministrativa;   
-c) atti normativi a rilevanza esterna, atti di programmazione comportanti spese ed atti generali attuativi di norme comunitarie;   
-c-bis)   
-d) provvedimenti dei comitati interministeriali di riparto o assegnazione di fondi ed altre deliberazioni emanate nelle materie di cui alle lettere b) e c);   
-e)   
-f) provvedimenti di disposizione del demanio e del patrimonio immobiliare;   
-f-bis) atti e contratti di cui all'[art. 7, comma 6, del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art7-com6), e successive modificazioni;   
-f-ter) atti e contratti concernenti studi e consulenze di cui all'[art. 1, comma 9, della legge 23 dicembre 2005, n. 266](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266~art1-com9);   
-g) decreti che approvano contratti delle amministrazioni dello Stato, escluse le aziende autonome: attivi, di qualunque importo, ad eccezione di quelli per i quali ricorra l'ipotesi prevista dall'ultimo comma dell'[art. 19 del regio decreto 18 novembre 1923, n. 2440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440~art19); di appalto d'opera, se di importo superiore al valore in ECU stabilito dalla normativa comunitaria per l'applicazione delle procedure di aggiudicazione dei contratti stessi; altri contratti passivi, se di importo superiore ad un decimo del valore suindicato;   
-h) decreti di variazione del bilancio dello Stato, di accertamento dei residui e di assenso preventivo del Ministero del tesoro all'impegno di spese correnti a carico di esercizi successivi;   
-i) atti per il cui corso sia stato impartito l'ordine scritto del Ministro;   
-l) atti che il Presidente del Consiglio dei ministri richieda di sottoporre temporaneamente a controllo preventivo o che, la Corte dei conti deliberi di assoggettare, per un periodo determinato, a controllo preventivo in relazione a situazioni di diffusa e ripetuta irregolarita' rilevate in sede di controllo successivo.   
-1-bis. Per i controlli previsti dalle lettere f-bis) e f-ter) del comma 1 e' competente in ogni caso la sezione centrale del controllo di legittimita'.   
-2. I provvedimenti sottoposti al controllo preventivo acquistano efficacia se il competente ufficio di controllo non ne rimetta l'esame alla sezione del controllo nel termine di trenta giorni dal ricevimento. Il termine e' interrotto se l'ufficio richiede chiarimenti o elementi integrativi di giudizio. Decorsi trenta giorni dal ricevimento delle controdeduzioni dell'amministrazione, il provvedimento acquista efficacia se l'ufficio non ne rimetta l'esame alla sezione del controllo. La sezione del controllo si pronuncia sulla conformita' a legge entro trenta giorni dalla data di deferimento dei provvedimenti o dalla data di arrivo degli elementi richiesti con ordinanza istruttoria. Decorso questo termine i provvedimenti divengono esecutivi.   
-3. Le sezioni riunite della Corte dei conti possono, con deliberazione motivata, stabilire che singoli atti di notevole rilievo finanziario, individuati per categorie ed amministrazioni statali, siano sottoposti all'esame della Corte per un periodo determinato. La Corte puo' chiedere il riesame degli atti entro quindici giorni dalla loro ricezione, ferma rimanendone l'esecutivita'. Le amministrazioni trasmettono gli atti adottati a seguito del riesame alla Corte dei conti, che ove rilevi illegittimita', ne da' avviso al Ministro.   
-4. La Corte dei conti svolge, anche in corso di esercizio, il controllo successivo sulla gestione del bilancio e del patrimonio delle amministrazioni pubbliche, nonche' sulle gestioni fuori bilancio e sui fondi di provenienza comunitaria, verificando la legittimita' e la regolarita' delle gestioni, nonche' il funzionamento dei controlli interni a ciascuna amministrazione. Accerta, anche in base all'esito di altri controlli, la rispondenza dei risultati dell'attivita' amministrativa agli obiettivi stabiliti dalla legge, valutando comparativamente costi, modo e tempi dello svolgimento dell'azione amministrativa.  
-La Corte definisce annualmente i programmi e i criteri di riferimento del controllo sulla base delle priorita' previamente deliberate dalle competenti Commissioni parlamentari a norma dei rispettivi regolamenti, anche tenendo conto, ai fini di referto per il coordinamento del sistema di finanza pubblica, delle relazioni redatte dagli organi, collegiali o monocratici, che esercitano funzioni di controllo o vigilanza su amministrazioni, enti pubblici, autorita' amministrative indipendenti o societa' a prevalente capitale pubblico.   
-5. Nei confronti delle amministrazioni regionali, il controllo della gestione concerne il perseguimento degli obiettivi stabiliti dalle leggi di principio e di programma.   
-6. La Corte dei conti riferisce, almeno annualmente, al Parlamento ed ai consigli regionali sull'esito del controllo eseguito. Le relazioni della Corte sono altresi' inviate alle amministrazioni interessate, alle quali la Corte formula, in qualsiasi altro momento, le proprie osservazioni. Le amministrazioni comunicano alla Corte ed agli organi elettivi, entro sei mesi dalla data di ricevimento della relazione, le misure conseguenzialmente adottate.   
-7. Restano ferme, relativamente agli enti locali, le disposizioni di cui al [decreto-legge 22 dicembre 1981, n. 786](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-12-22;786), convertito, con modificazioni, dalla [legge 26 febbraio 1982, n. 51](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-26;51), e successive modificazioni ed integrazioni, nonche', relativamente agli enti cui lo Stato contribuisce in via ordinaria, le disposizioni della [legge 21 marzo 1958, n. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-21;259). Le relazioni della Corte contengono anche valutazioni sul funzionamento dei controlli interni.   
-8. Nell'esercizio delle attribuzioni di cui al presente articolo, la Corte dei conti puo' richiedere alle amministrazioni pubbliche ed agli organi di controllo interno qualsiasi atto o notizia e puo' effettuare e disporre ispezioni e accertamenti diretti. Si applica il [comma 4 dell'art. 2 del decreto-legge 15 novembre 1993, n. 453](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-11-15;453~art2-com4). Puo' richiedere alle amministrazioni pubbliche non territoriali il riesame di atti ritenuti non conformi a legge. Le amministrazioni trasmettono gli atti adottati a seguito del riesame alla Corte dei conti, che, ove rilevi illegittimita', ne da' avviso all'organo generale di direzione. E' fatta salva, in quanto compatibile con le disposizioni della presente legge, la disciplina in materia di controlli successivi previsti dal [decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29), e successive modificazioni, e dal [decreto legislativo 12 febbraio 1993, n. 39, nonche' dall'art. 166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-12;39~art166) della [legge 11 luglio 1980, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312).   
-9. Per l'esercizio delle attribuzioni di controllo, si applicano, in quanto compatibili con le disposizioni della presente legge, le norme procedurali di cui al testo unico delle leggi sulla Corte dei conti, approvato con [regio decreto 12 luglio 1934, n. 1214](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-12;1214), e successive modificazioni.   
-10. La sezione del controllo e' composta dal presidente della Corte dei conti che la presiede, dai presidenti di sezione preposti al coordinamento e da tutti i magistrati assegnati a funzioni di controllo. La sezione e' ripartita annualmente in quattro collegi dei quali fanno parte, in ogni caso, il presidente della Corte dei conti e i presidenti di sezione preposti al coordinamento. I collegi hanno distinta competenza per tipologia di controllo o per materia e deliberano con un numero minimo di undici votanti. L'adunanza plenaria e' presieduta dal presidente della Corte dei conti ed e' composta dai presidenti di sezione preposti al coordinamento e da trentacinque magistrati assegnati a funzioni di controllo, individuati annualmente dal Consiglio di Presidenza in ragione di almeno tre per ciascun collegio della sezione e uno per ciascuna delle sezioni di controllo sulle amministrazioni delle regioni a statuto speciale e delle province autonome di Trento e di Bolzano. L'adunanza plenaria delibera con un numero minimo di ventuno votanti.   
-10-bis. La sezione del controllo in adunanza plenaria stabilisce annualmente i programmi di attivita' e le competenze dei collegi, nonche' i criteri per la loro composizione da parte del presidente della Corte dei conti.   
-11. Ferme restando le ipotesi di deferimento previste dall'art. 24 del citato testo unico delle leggi sulla Corte dei conti come sostituito dall'[art. 1 della legge 21 marzo 1953, n. 161](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-03-21;161~art1), la sezione del controllo si pronuncia in ogni caso in cui insorge il dissenso tra i componenti magistrati circa la legittimita' di atti. Del collegio viene chiamato a far parte in qualita' di relatore il magistrato che deferisce la questione alla sezione.   
-12. I magistrati addetti al controllo successivo di cui al comma 4 operano secondo i previsti programmi annuali, ma da questi possono temporaneamente discostarsi, per motivate ragioni, in relazione a situazioni e provvedimenti che richiedono tempestivi accertamenti e verifiche, dandone notizia alla sezione del controllo.   
-13. Le disposizioni del comma 1 non si applicano agli atti ed ai provvedimenti emanati nelle materie monetaria, creditizia, mobiliare e valutaria.».   
-- Si riportano l'[art. 1, comma 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300~art1-com2), e gli [articoli da 41](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300~art41) [a 44 del decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300~art44) (Riforma dell'organizzazione del Governo a norma dell'[art. 11 della legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art11)):   
-«Art. 1 (Oggetto). - (Omissis.).   
-2. In nessun caso le norme del presente decreto legislativo possono essere interpretate nel senso della attribuzione allo Stato, alle sue amministrazioni o ad enti pubblici nazionali, di funzioni e compiti trasferiti, delegati o comunque attribuiti alle regioni, agli enti locali e alle autonomie funzionali dalle disposizioni vigenti alla data di entrata in vigore del presente decreto legislativo, ovvero da conferire ai sensi dei decreti legislativi emanati in attuazione della [legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59).».   
-«Art. 41 (Istituzione del ministero e attribuzioni).  
-- 1. E' istituito il ministero delle infrastrutture e dei trasporti.   
-2. Al ministero sono attribuite le funzioni e i compiti spettanti allo Stato in materia di identificazione delle linee fondamentali dell'assetto del territorio con riferimento alle reti infrastrutturali e al sistema delle citta' e delle aree metropolitane; reti infrastrutturali e opere di competenza statale; politiche urbane e dell'edilizia abitativa; opere marittime e infrastrutture idrauliche; trasporti e viabilita'.   
-3. Al ministero sono trasferite, con le inerenti risorse, le funzioni e i compiti dei ministeri dei lavori pubblici e dei trasporti e della navigazione, nonche' del dipartimento per le aree urbane istituito presso la Presidenza del Consiglio dei ministri, eccettuate quelle attribuite, anche dal presente decreto, ad altri ministeri o agenzie e fatte in ogni caso salve le funzioni conferite alle regioni e agli enti locali, anche ai sensi e per gli effetti degli [articoli 1, comma 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art1-com2), e [3, comma 1, lettere a)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art3-com1-leta) e [b), della legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art3-com1-letb).».   
-«Art. 42 (Aree funzionali). - 1. Il ministero svolge in particolare le funzioni e i compiti di spettanza statale nelle seguenti aree funzionali:   
-a) programmazione, finanziamento, realizzazione e gestione delle reti infrastrutturali di interesse nazionale, ivi comprese le reti elettriche, idrauliche e acquedottistiche, e delle altre opere pubbliche di competenza dello Stato, ad eccezione di quelle in materia di difesa; qualificazione degli esecutori di lavori pubblici; costruzioni nelle zone sismiche;   
-b) edilizia residenziale; aree urbane;   
-c) navigazione e trasporto marittimo; vigilanza sui porti; demanio marittimo; sicurezza della navigazione e trasporto nelle acque interne; programmazione, previa intesa con le regioni interessate, del sistema idroviario padano-veneto; aviazione civile e trasporto aereo;   
-d) trasporto terrestre, circolazione dei veicoli e sicurezza dei trasporti terrestri.   
-d-bis) sicurezza e regolazione tecnica, salvo quanto disposto da leggi e regolamenti, concernenti le competenze disciplinate dall'art. 41 e dal presente comma, ivi comprese le espropriazioni;   
-d-ter) pianificazione delle reti, della logistica e dei nodi infrastrutturali di interesse nazionale, realizzazione delle opere corrispondenti e valutazione dei relativi interventi;   
-d-quater) politiche dell'edilizia concernenti anche il sistema delle citta' e delle aree metropolitane.   
-2. Il ministero svolge, altresi', funzioni e compiti di monitoraggio, controllo e vigilanza nelle aree di cui al comma 1, nonche' funzioni di vigilanza sui gestori del trasporto derivanti dalla legge, dalla concessione e dai contratti di programma o di servizio, fatto salvo quanto previsto dal [decreto legislativo 16 marzo 1999, n. 79](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-03-16;79).».   
-«Art. 43 (Ordinamento). - 1. Il ministero si articola in dipartimenti, disciplinati ai sensi degli articoli 4 e 5. Il numero dei dipartimenti non puo' essere superiore a quattro, in relazione alle aree funzionali definite dal precedente articolo.   
-2. Il Ministero si articola in un numero non superiore a 16 direzioni generali e in uffici di funzioni dirigenziali di livello generale, alla cui individuazione e organizzazione si provvede ai sensi dell'art. 4, nei limiti di posti di funzione individuati dalla pianta organica di cui al [decreto del Presidente della Repubblica 26 marzo 2001, n. 177](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;177). La dotazione organica dei dirigenti di seconda fascia di cui alla tabella A allegata al citato [decreto del Presidente della Repubblica n. 177 del 2001](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001;177) e' ridotta di due unita'.   
-2-bis. Il Ministero si avvale delle Capitanerie di porto, alle quali non si applica il disposto dell'art. 11.   
-2-ter. Sono istituiti a livello sovraregionale non piu' di dieci Servizi integrati infrastrutture e trasporti, di seguito denominati S.I.I.T., quali organi decentrati del Ministero delle infrastrutture e dei trasporti. Ogni S.I.I.T. e' articolato in due settori relativi, rispettivamente, all'area infrastrutture e all'area trasporti, a ciascuno dei quali e' preposto un dirigente generale, nominato ai sensi dell'[art. 19, comma 4, del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art19-com4), e successive modificazioni. Al S.I.I.T. competente per le regioni Lazio e Abruzzo e' preposto un dirigente generale nominato ai sensi dell'art. 19, comma 3, del citato [decreto legislativo n. 165 del 2001](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165). I S.I.I.T. svolgono funzioni di carattere tecnico, amministrativo, operativo e gestionale nell'ambito delle competenze di cui agli articoli 41 e 42, comprese le corrispondenti attivita' di servizio.   
-2-quater. I S.I.I.T. possono promuovere e fornire, su base convenzionale, servizi di contenuto tecnico operativo e gestionale alle amministrazioni pubbliche, comprese quelle regionali e locali anche ad ordinamento autonomo, nonche' ai soggetti di cui alla [legge 11 febbraio 1994, n. 109](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109), e successive modificazioni e integrazioni, nel rispetto delle funzioni e dei compiti ad essi spettanti.   
-2-quinquies. Con decreto del Presidente della Repubblica, da emanare ai sensi dell'[art. 17, comma 4-bis, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com4bis), su proposta del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro per la funzione pubblica e il Ministro dell'economia e delle finanze, sentite le organizzazioni sindacali maggiormente rappresentative, si provvede alla struttura organizzativa e funzionale dei S.I.I.T. e alla loro articolazione territoriale, secondo il criterio dell'efficiente dimensionamento delle strutture e dei corrispondenti bacini di utenza, utilizzando prioritariamente il personale assegnato agli altri uffici, anche al fine di incrementare la qualita' delle funzioni e delle attivita' rese nei confronti dei singoli, delle imprese e delle pubbliche amministrazioni appartenenti agli enti territoriali.   
-2-sexies. Dalla data di entrata in vigore del regolamento di cui al comma 2- quinquies sono soppresse le strutture periferiche del Ministero dei trasporti e della navigazione e del Ministero dei lavori pubblici.   
-2-septies. Con uno o piu' decreti del Presidente della Repubblica, da emanare ai sensi dell'[art. 17, comma 4-bis, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com4bis), su proposta del Ministro delle infrastrutture e dei trasporti, sentite le organizzazioni sindacali maggiormente rappresentative, di concerto con il Ministro per la funzione pubblica e con il Ministro dell'economia e delle finanze, si provvede, nel rispetto delle disposizioni di cui al [decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165), e successive modificazioni:   
-a) alla riorganizzazione del Ministero;   
-b) al riordinamento del Consiglio superiore dei lavori pubblici quale organo di consulenza obbligatoria del Governo e organo di consulenza facoltativa per le regioni e gli altri enti pubblici competenti in materia di lavori pubblici.».   
-«Art. 44 (Agenzia dei trasporti terrestri e delle infrastrutture). - 1. E' istituita l'agenzia dei trasporti terrestri e delle infrastrutture nelle forme disciplinate dagli articoli 8 e 9.   
-2. L'agenzia svolge le funzioni spettanti allo Stato in relazione:   
-a) alla definizione degli standard e prescrizioni tecniche in materia di sicurezza dei trasporti terrestri;   
-b) alla vigilanza ai fini della sicurezza dei trasporti ad impianto fisso, fatto salvo quanto stabilito dall'[art. 4, comma 1, lettera b), del decreto legislativo 19 novembre 1997, n. 422](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-11-19;422~art4-com1-letb);   
-c) alla omologazione e approvazione dei veicoli a motore e loro rimorchi, loro componenti e unita' tecniche indipendenti;   
-d) alla vigilanza e al controllo tecnico in materia di revisioni generali e parziali sui veicoli a motore e i loro rimorchi, anche se svolte tramite officine autorizzate ai sensi della [lettera d) del comma 3 dell'art. 105 del decreto legislativo 31 marzo 1998, n. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-03-31;112~art105-com3-letd), nonche' in materia di visite e prove di veicoli in circolazione per trasporti nazionali e internazionali, anche con riferimento ai veicoli adibiti al trasporto di merci pericolose e deperibili;   
-e) alla certificazione attribuita all'organismo notificato di cui all'[art. 20 della direttiva 96/48 CE del Consiglio del 23 luglio 1996](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31996L0048), ed in generale alla certificazione in applicazione delle norme di base nell'ambito dei sistemi, sottosistemi, prodotti e processi relativi ai sistemi di trasporto;   
-f) alla definizione di standard e prescrizioni tecniche in materia di sicurezza stradale e norme tecniche relative alle strade e loro pertinenze ed alla segnaletica stradale, ai sensi del [decreto legislativo 30 aprile 1992, n. 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285);   
-g) ai collegamenti informatici e alle banche dati nazionali gestiti presso il centro elaborazione dati della motorizzazione civile.   
-3. Spetta altresi' all'agenzia il coordinamento dell'interoperabilita' dei sistemi di trasporto.   
-4. All'agenzia sono assegnate le competenze progettuali e gestionali in materia di infrastrutture di competenza statale, ivi comprese quelle esercitate dai provveditorati alle opere pubbliche e dagli uffici opere marittime.   
-5. Sono soppresse le strutture del ministero dei trasporti e della navigazione e del ministero dei lavori pubblici che svolgono le funzioni ed i compiti demandati all'agenzia, ai sensi dei precedenti commi. Il relativo personale e le relative risorse sono assegnate all'agenzia.   
-6. L'agenzia puo' articolarsi in strutture territoriali di livello regionale.».   
-- Il [decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165) (Norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche) e' pubblicato nella Gazzetta Ufficiale 9 maggio 2001, n. 106;   
-- Il [decreto legislativo 27 ottobre 2009, n. 150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2009-10-27;150) (Attuazione della [legge 4 marzo 2009, n. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-03-04;15), in materia di ottimizzazione della produttivita' del lavoro pubblico e di efficienza e trasparenza delle pubbliche amministrazioni.) e' pubblicato nella Gazzetta Ufficiale 31 ottobre 2009, n. 254.   
-- La [legge 31 dicembre 2009, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196) (Legge di contabilita' e finanza pubblica) e' pubblicata nella Gazzetta Ufficiale 31 dicembre 2009, n. 303.   
-- Si riporta l'[art. 118 del decreto legislativo 15 marzo 2010, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66~art118) ([Codice dell'ordinamento militare](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)):   
-«Art. 118 (Corpi della Marina militare). - 1.  
-L'organizzazione della Marina militare e' suddivisa in   
-a) Corpo di stato maggiore;   
-b) Corpo del genio della Marina;   
-c) Corpo sanitario militare marittimo;   
-d) Corpo di commissariato militare marittimo;   
-e) Corpo delle capitanerie di porto;   
-f) Corpo degli equipaggi militari marittimi.   
-2. Il Corpo del genio della Marina e' articolato nelle seguenti specialita':   
-a) genio navale;   
-b) armi navali;   
-c) infrastrutture.   
-3. Il Corpo delle capitanerie di porto e' trattato nella sezione II del presente capo. Il Corpo degli equipaggi militari marittimi e' costituito dai sottufficiali, graduati e militari di truppa della Marina militare, esclusi gli appartenenti al Corpo delle capitanerie di porto.   
-4. Per gli ufficiali appartenenti ai corpi di cui al comma 1, possono essere utilizzate le seguenti denominazioni:   
-a) per il Corpo di stato maggiore: ufficiali di vascello;   
-b) per il Corpo del genio della Marina:   
-1) per la specialita' genio navale: ufficiali G.N.;   
-2) per la specialita' armi navali: ufficiali A.N.;   
-3) per la specialita' infrastrutture: ufficiali INFR.;   
-c) per il Corpo sanitario militare marittimo: ufficiali di Sanita';   
-d) per il Corpo di commissariato militare marittimo: ufficiali commissari;   
-e) per il Corpo delle capitanerie di porto: ufficiali C.P.;   
-f) per il Corpo degli equipaggi militari marittimi: ufficiali C.S..».   
-- Il [decreto legislativo 30 giugno 2011, n. 123](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-30;123) (Riforma dei controlli di regolarita' amministrativa e contabile e potenziamento dell'attivita' di analisi e valutazione della spesa, a norma dell'[art. 49 della legge 31 dicembre 2009, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196~art49).) e' pubblicato nella Gazzetta Ufficiale 3 agosto 2011, n. 179.   
-- Si riporta l'[art. 37 del decreto-legge 6 dicembre 2011, n. 201](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201~art37) (Disposizioni urgenti per la crescita, l'equita' e il consolidamento dei conti pubblici), convertito, con modificazioni, dalla [legge 22 dicembre 2011, n. 214](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-12-22;214):   
-«Art. 37 (Liberalizzazione del settore dei trasporti). - 1. Nell'ambito delle attivita' di regolazione dei servizi di pubblica utilita' di cui alla [legge 14 novembre 1995, n. 481](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-11-14;481), e' istituita l'Autorita' di regolazione dei trasporti, di seguito denominata "Autorita'", la quale opera in piena autonomia e con indipendenza di giudizio e di valutazione. La sede dell'Autorita' e' individuata in un immobile di proprieta' pubblica nella citta' di Torino, laddove idoneo e disponibile, con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro delle infrastrutture e dei trasporti, entro il termine del 31 dicembre 2013. In sede di prima attuazione del presente articolo, il collegio dell'Autorita' e' costituito entro il 31 maggio 2012.  
-L'Autorita' e' competente nel settore dei trasporti e dell'accesso alle relative infrastrutture e ai servizi accessori, in conformita' con la disciplina europea e nel rispetto del principio di sussidiarieta' e delle competenze delle regioni e degli enti locali di cui al titolo V della parte seconda della Costituzione. L'Autorita' esercita le proprie competenze a decorrere dalla data di adozione dei regolamenti di cui all'[art. 2, comma 28, della legge 14 novembre 1995, n. 481](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-11-14;481~art2-com28). All'Autorita' si applicano, in quanto compatibili, le disposizioni organizzative e di funzionamento di cui alla medesima legge.   
-1-bis. L'Autorita' e' organo collegiale composto dal presidente e da due componenti nominati secondo le procedure di cui all'[art. 2, comma 7, della legge 14 novembre 1995, n. 481](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-11-14;481~art2-com7). Ai componenti e ai funzionari dell'Autorita' si applica il regime previsto dall'art. 2, commi da 8 a 11, della medesima legge. Il collegio nomina un segretario generale, che sovrintende al funzionamento dei servizi e degli uffici e ne risponde al presidente.   
-1-ter. I componenti dell'Autorita' sono scelti, nel rispetto dell'equilibrio di genere, tra persone di indiscussa moralita' e indipendenza e di comprovata professionalita' e competenza nei settori in cui opera l'Autorita'. A pena di decadenza essi non possono esercitare, direttamente o indirettamente, alcuna attivita' professionale o di consulenza, essere amministratori o dipendenti di soggetti pubblici o privati ne' ricoprire altri uffici pubblici di qualsiasi natura, ivi compresi gli incarichi elettivi o di rappresentanza nei partiti politici, ne' avere interessi diretti o indiretti nelle imprese operanti nel settore di competenza della medesima Autorita'. I dipendenti delle amministrazioni pubbliche sono collocati fuori ruolo per l'intera durata dell'incarico. I componenti dell'Autorita' sono nominati per un periodo di sette anni e non possono essere confermati nella carica. In caso di dimissioni o impedimento del presidente o di un membro dell'Autorita', si procede alla sostituzione secondo le regole ordinarie previste per la nomina dei componenti dell'Autorita', la loro durata in carica e la non rinnovabilita' del mandato.   
-2. L'Autorita' e' competente nel settore dei trasporti e dell'accesso alle relative infrastrutture ed in particolare provvede:   
-a) a garantire, secondo metodologie che incentivino la concorrenza, l'efficienza produttiva delle gestioni e il contenimento dei costi per gli utenti, le imprese e i consumatori, condizioni di accesso eque e non discriminatorie alle infrastrutture ferroviarie, portuali, aeroportuali e alle reti autostradali, fatte salve le competenze dell'Agenzia per le infrastrutture stradali e autostradali di cui all'[art. 36 del decreto-legge 6 luglio 2011, n. 98](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-07-06;98~art36), convertito, con modificazioni, dalla [legge 15 luglio 2011, n. 111](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-07-15;111), nonche' in relazione alla mobilita' dei passeggeri e delle merci in ambito nazionale, locale e urbano anche collegata a stazioni, aeroporti e porti ad esclusione del settore dell'autotrasporto merci;   
-b) a definire, se ritenuto necessario in relazione alle condizioni di concorrenza effettivamente esistenti nei singoli mercati dei servizi dei trasporti nazionali e locali, i criteri per la fissazione da parte dei soggetti competenti delle tariffe, dei canoni, dei pedaggi, tenendo conto dell'esigenza di assicurare l'equilibrio economico delle imprese regolate, l'efficienza produttiva delle gestioni e il contenimento dei costi per gli utenti, le imprese, i consumatori;   
-c) a verificare la corretta applicazione da parte dei soggetti interessati dei criteri fissati ai sensi della lettera b);   
-d) a stabilire le condizioni minime di qualita' dei servizi di trasporto nazionali e locali connotati da oneri di servizio pubblico, individuate secondo caratteristiche territoriali di domanda e offerta;   
-e) a definire, in relazione ai diversi tipi di servizio e alle diverse infrastrutture, il contenuto minimo degli specifici diritti, anche di natura risarcitoria, che gli utenti possono esigere nei confronti dei gestori dei servizi e delle infrastrutture di trasporto e a dirimere le relative controversie; sono fatte salve le ulteriori garanzie che accrescano la protezione degli utenti che i gestori dei servizi e delle infrastrutture possono inserire nelle proprie carte dei servizi;   
-f) a definire i criteri per la determinazione delle eccezioni al principio della minore estensione territoriale dei lotti di gara rispetto ai bacini di pianificazione, tenendo conto della domanda effettiva e di quella potenziale, delle economie di scala e di integrazione tra servizi, di eventuali altri criteri determinati dalla normativa vigente, nonche' a definire gli schemi dei bandi delle gare per l'assegnazione dei servizi di trasporto in esclusiva e delle convenzioni da inserire nei capitolati delle medesime gare e a stabilire i criteri per la nomina delle commissioni aggiudicatrici; con riferimento al trasporto ferroviario regionale, l'Autorita' verifica che nei relativi bandi di gara non sussistano condizioni discriminatorie o che impediscano l'accesso al mercato a concorrenti potenziali e specificamente che la disponibilita' del materiale rotabile gia' al momento della gara non costituisca un requisito per la partecipazione ovvero un fattore di discriminazione tra le imprese partecipanti. In questi casi, all'impresa aggiudicataria e' concesso un tempo massimo di diciotto mesi, decorrenti dall'aggiudicazione definitiva, per l'acquisizione del materiale rotabile indispensabile per lo svolgimento del servizio. Con riferimento al trasporto pubblico locale l'Autorita' definisce anche gli schemi dei contratti di servizio per i servizi esercitati da societa' in house o da societa' con prevalente partecipazione pubblica ai sensi del [decreto legislativo 19 agosto 2016, n. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-19;175), nonche' per quelli affidati direttamente. Sia per i bandi di gara che per i predetti contratti di servizio esercitati in house o affidati direttamente l'Autorita' determina la tipologia di obiettivi di efficacia e di efficienza che il gestore deve rispettare, nonche' gli obiettivi di equilibrio finanziario; per tutti i contratti di servizio prevede obblighi di separazione contabile tra le attivita' svolte in regime di servizio pubblico e le altre attivita';   
-g) con particolare riferimento al settore autostradale, a stabilire per le nuove concessioni nonche' per quelle di cui all'art. 43, comma 1 e, per gli aspetti di competenza, comma 2 sistemi tariffari dei pedaggi basati sul metodo del price cap, con determinazione dell'indicatore di produttivita' X a cadenza quinquennale per ciascuna concessione; a definire gli schemi di concessione da inserire nei bandi di gara relativi alla gestione o costruzione; a definire gli schemi dei bandi relativi alle gare cui sono tenuti i concessionari autostradali per le nuove concessioni; a definire gli ambiti ottimali di gestione delle tratte autostradali, allo scopo di promuovere una gestione plurale sulle diverse tratte e stimolare la concorrenza per confronto;   
-h) con particolare riferimento al settore aeroportuale, a svolgere ai sensi degli [articoli da 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-01-24;1~art71) [a 81 del decreto-legge 24 gennaio 2012, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-01-24;1~art81), tutte le funzioni di Autorita' di vigilanza istituita dall'art. 71, comma 2, del predetto [decreto-legge n. 1 del 2012](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012;1), in attuazione della [direttiva 2009/12/CE del Parlamento europeo e del Consiglio, dell'11 marzo 2009](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009L0012), concernente i diritti aeroportuali;   
-i) con particolare riferimento all'accesso all'infrastruttura ferroviaria, a svolgere tutte le funzioni di organismo di regolazione di cui all'[art. 37 del decreto legislativo 8 luglio 2003, n. 188](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-07-08;188~art37), e, in particolare, a definire i criteri per la determinazione dei pedaggi da parte del gestore dell'infrastruttura e i criteri di assegnazione delle tracce e della capacita' e a vigilare sulla loro corretta applicazione da parte del gestore dell'infrastruttura;   
-l) l'Autorita', in caso di inosservanza di propri provvedimenti o di mancata ottemperanza da parte dei soggetti esercenti il servizio alle richieste di informazioni o a quelle connesse all'effettuazione dei controlli, ovvero nel caso in cui le informazioni e i documenti non siano veritieri, puo' irrogare sanzioni amministrative pecuniarie determinate in fase di prima applicazione secondo le modalita' e nei limiti di cui all'[art. 2 della legge 14 novembre 1995, n. 481](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-11-14;481~art2).  
-L'ammontare riveniente dal pagamento delle predette sanzioni e' destinato ad un fondo per il finanziamento di progetti a vantaggio dei consumatori dei settori dei trasporti, approvati dal Ministro delle infrastrutture e dei trasporti su proposta dell'Autorita'. Tali progetti possono beneficiare del sostegno di altre istituzioni pubbliche nazionali e europee;   
-m) con particolare riferimento al servizio taxi, a monitorare e verificare la corrispondenza dei livelli di offerta del servizio taxi, delle tariffe e della qualita' delle prestazioni alle esigenze dei diversi contesti urbani, secondo i criteri di ragionevolezza e proporzionalita', allo scopo di garantire il diritto di mobilita' degli utenti. Comuni e regioni, nell'ambito delle proprie competenze, provvedono, previa acquisizione di preventivo parere da parte dell'Autorita', ad adeguare il servizio dei taxi, nel rispetto dei seguenti principi:   
-1) l'incremento del numero delle licenze ove ritenuto necessario anche in base alle analisi effettuate dalla Autorita' per confronto nell'ambito di realta' europee comparabili, a seguito di un'istruttoria sui costi-benefici anche ambientali, in relazione a comprovate ed oggettive esigenze di mobilita' ed alle caratteristiche demografiche e territoriali, bandendo concorsi straordinari in conformita' alla vigente programmazione numerica, ovvero in deroga ove la programmazione numerica manchi o non sia ritenuta idonea dal comune ad assicurare un livello di offerta adeguato, per il rilascio, a titolo gratuito o a titolo oneroso, di nuove licenze da assegnare ai soggetti in possesso dei requisiti stabiliti dall'[art. 6 della legge 15 gennaio 1992, n. 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-01-15;21~art6), fissando, in caso di titolo oneroso, il relativo importo ed individuando, in caso di eccedenza delle domande, uno o piu' criteri selettivi di valutazione automatica o immediata, che assicurino la conclusione della procedura in tempi celeri. I proventi derivanti dal rilascio di licenze a titolo oneroso sono finalizzati ad adeguate compensazioni da corrispondere a coloro che sono gia' titolari di licenza;   
-2) consentire ai titolari di licenza d'intesa con i comuni una maggiore liberta' nell'organizzazione del servizio sia per fronteggiare particolari eventi straordinari o periodi di prevedibile incremento della domanda e in numero proporzionato alle esigenze dell'utenza, sia per sviluppare nuovi servizi integrativi come il taxi ad uso collettivo o altre forme;   
-3) consentire una maggiore liberta' nella fissazione delle tariffe, la possibilita' di una loro corretta e trasparente pubblicizzazione a tutela dei consumatori, prevedendo la possibilita' per gli utenti di avvalersi di tariffe predeterminate dal comune per percorsi prestabiliti;   
-4) migliorare la qualita' di offerta del servizio, individuando criteri mirati ad ampliare la formazione professionale degli operatori con particolare riferimento alla sicurezza stradale e alla conoscenza delle lingue straniere, nonche' alla conoscenza della normativa in materia fiscale, amministrativa e civilistica del settore, favorendo gli investimenti in nuove tecnologie per l'efficientamento organizzativo ed ambientale del servizio e adottando la carta dei servizi a livello regionale;   
-n) con riferimento alla disciplina di cui alla lettera m), l'Autorita' puo' ricorrere al Tribunale amministrativo regionale del Lazio.   
-3. Nell'esercizio delle competenze disciplinate dal comma 2 del presente articolo, l'Autorita':   
-a) puo' sollecitare e coadiuvare le amministrazioni pubbliche competenti all'individuazione degli ambiti di servizio pubblico e dei metodi piu' efficienti per finanziarli, mediante l'adozione di pareri che puo' rendere pubblici;   
-b) determina i criteri per la redazione della contabilita' delle imprese regolate e puo' imporre, se necessario per garantire la concorrenza, la separazione contabile e societaria delle imprese integrate;   
-c) propone all'amministrazione competente la sospensione, la decadenza o la revoca degli atti di concessione, delle convenzioni, dei contratti di servizio pubblico, dei contratti di programma e di ogni altro atto assimilabile comunque denominato, qualora sussistano le condizioni previste dall'ordinamento;   
-d) richiede a chi ne e' in possesso le informazioni e l'esibizione dei documenti necessari per l'esercizio delle sue funzioni, nonche' raccoglie da qualunque soggetto informato dichiarazioni, da verbalizzare se rese oralmente;   
-e) se sospetta possibili violazioni della regolazione negli ambiti di sua competenza, svolge ispezioni presso i soggetti sottoposti alla regolazione mediante accesso a impianti, a mezzi di trasporto e uffici; durante l'ispezione, anche avvalendosi della collaborazione di altri organi dello Stato, puo' controllare i libri contabili e qualsiasi altro documento aziendale, ottenerne copia, chiedere chiarimenti e altre informazioni, apporre sigilli; delle operazioni ispettive e delle dichiarazioni rese deve essere redatto apposito verbale;   
-f) ordina la cessazione delle condotte in contrasto con gli atti di regolazione adottati e con gli impegni assunti dai soggetti sottoposti a regolazione, disponendo le misure opportune di ripristino; nei casi in cui intenda adottare una decisione volta a fare cessare un'infrazione e le imprese propongano impegni idonei a rimuovere le contestazioni da essa avanzate, puo' rendere obbligatori tali impegni per le imprese e chiudere il procedimento senza accertare l'infrazione; puo' riaprire il procedimento se mutano le circostanze di fatto su cui sono stati assunti gli impegni o se le informazioni trasmesse dalle parti si rivelano incomplete, inesatte o fuorvianti; in circostanze straordinarie, ove ritenga che sussistano motivi di necessita' e di urgenza, al fine di salvaguardare la concorrenza e di tutelare gli interessi degli utenti rispetto al rischio di un danno grave e irreparabile, puo' adottare provvedimenti temporanei di natura cautelare;   
-g) valuta i reclami, le istanze e le segnalazioni presentati dagli utenti e dai consumatori, singoli o associati, in ordine al rispetto dei livelli qualitativi e tariffari da parte dei soggetti esercenti il servizio sottoposto a regolazione, ai fini dell'esercizio delle sue competenze;   
-h) disciplina, con propri provvedimenti, le modalita' per la soluzione non giurisdizionale delle controversie tra gli operatori economici che gestiscono reti, infrastrutture e servizi di trasporto e gli utenti o i consumatori mediante procedure semplici e non onerose anche in forma telematica. Per le predette controversie, individuate con i provvedimenti dell'Autorita' di cui al primo periodo, non e' possibile proporre ricorso in sede giurisdizionale fino a che non sia stato esperito un tentativo obbligatorio di conciliazione, da ultimare entro trenta giorni dalla proposizione dell'istanza all'Autorita'. A tal fine, i termini per agire in sede giurisdizionale sono sospesi fino alla scadenza del termine per la conclusione del procedimento di conciliazione;   
-i) ferme restando le sanzioni previste dalla legge, da atti amministrativi e da clausole convenzionali, irroga una sanzione amministrativa pecuniaria fino al 10 per cento del fatturato dell'impresa interessata nei casi di inosservanza dei criteri per la formazione e l'aggiornamento di tariffe, canoni, pedaggi, diritti e prezzi sottoposti a controllo amministrativo, comunque denominati, di inosservanza dei criteri per la separazione contabile e per la disaggregazione dei costi e dei ricavi pertinenti alle attivita' di servizio pubblico e di violazione della disciplina relativa all'accesso alle reti e alle infrastrutture o delle condizioni imposte dalla stessa Autorita', nonche' di inottemperanza agli ordini e alle misure disposti;   
-l) applica una sanzione amministrativa pecuniaria fino all'1 per cento del fatturato dell'impresa interessata qualora:   
-1) i destinatari di una richiesta della stessa Autorita' forniscano informazioni inesatte, fuorvianti o incomplete, ovvero non forniscano le informazioni nel termine stabilito;   
-2) i destinatari di un'ispezione rifiutino di fornire ovvero presentino in modo incompleto i documenti aziendali, nonche' rifiutino di fornire o forniscano in modo inesatto, fuorviante o incompleto i chiarimenti richiesti;   
-m) nel caso di inottemperanza agli impegni di cui alla lettera f) applica una sanzione fino al 10 per cento del fatturato dell'impresa interessata.   
-4. Restano ferme tutte le altre competenze diverse da quelle disciplinate nel presente articolo delle amministrazioni pubbliche, statali e regionali, nei settori indicati; in particolare, restano ferme le competenze in materia di vigilanza, controllo e sanzione nell'ambito dei rapporti con le imprese di trasporto e con i gestori delle infrastrutture, in materia di sicurezza e standard tecnici, di definizione degli ambiti del servizio pubblico, di tutela sociale e di promozione degli investimenti. Tutte le amministrazioni pubbliche, statali e regionali, nonche' gli enti strumentali che hanno competenze in materia di sicurezza e standard tecnici delle infrastrutture e dei trasporti trasmettono all'Autorita' le delibere che possono avere un impatto sulla concorrenza tra operatori del settore, sulle tariffe, sull'accesso alle infrastrutture, con facolta' da parte dell'Autorita' di fornire segnalazioni e pareri circa la congruenza con la regolazione economica. Restano altresi' ferme e possono essere contestualmente esercitate le competenze dell'Autorita' garante della concorrenza disciplinate dalla [legge 10 ottobre 1990, n. 287](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-10-10;287) e dai [decreti legislativi 2 agosto 2007, n. 145 e 2 agosto 2007, n. 146](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-08-02;146), e le competenze dell'Autorita' di vigilanza sui contratti pubblici di cui al [decreto legislativo 12 aprile 2006, n. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163) e le competenze dell'Agenzia per le infrastrutture stradali e autostradali di cui all'[art. 36 del decreto-legge 6 luglio 2011, n. 98](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-07-06;98~art36).   
-5. L'Autorita' rende pubblici nei modi piu' opportuni i provvedimenti di regolazione e riferisce annualmente alle Camere evidenziando lo stato della disciplina di liberalizzazione adottata e la parte ancora da definire. La regolazione approvata ai sensi del presente articolo resta efficace fino a quando e' sostituita dalla regolazione posta dalle amministrazioni pubbliche cui saranno affidate le competenze previste dal presente articolo.   
-6. All'esercizio delle competenze di cui al comma 2 e alle attivita' di cui al comma 3, nonche' all'esercizio delle altre competenze e alle altre attivita' attribuite dalla legge, si provvede come segue:   
-a) agli oneri derivanti dall'istituzione dell'Autorita' e dal suo funzionamento, nel limite massimo di 1,5 milioni di euro per l'anno 2013 e 2,5 milioni di euro per l'anno 2014, si provvede mediante corrispondente riduzione dello stanziamento del Fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2013-2015, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2013, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero degli affari esteri.  
-Al fine di assicurare l'immediato avvio dell'Autorita' di regolazione dei trasporti, l'Autorita' garante della concorrenza e del mercato anticipa, nei limiti di stanziamento del proprio bilancio, le risorse necessarie per la copertura degli oneri derivanti dall'istituzione dell'Autorita' di regolazione dei trasporti e dal suo funzionamento, nella misura di 1,5 milioni di euro per l'anno 2013 e di 2,5 milioni di euro per l'anno 2014. Le somme anticipate sono restituite all'Autorita' garante della concorrenza e del mercato a valere sulle risorse di cui al primo periodo della presente lettera. Fino all'attivazione del contributo di cui alla lettera b), l'Autorita' garante della concorrenza e del mercato, nell'ambito delle predette risorse, assicura all'Autorita' di regolazione dei trasporti, tramite apposita convenzione, il necessario supporto operativo-logistico, economico e finanziario per lo svolgimento delle attivita' strumentali all'implementazione della struttura organizzativa dell'Autorita' di regolazione dei trasporti;   
-b) mediante un contributo versato dagli operatori economici operanti nel settore del trasporto e per i quali l'Autorita' abbia concretamente avviato, nel mercato in cui essi operano, l'esercizio delle competenze o il compimento delle attivita' previste dalla legge, in misura non superiore all'1 per mille del fatturato derivante dall'esercizio delle attivita' svolte percepito nell'ultimo esercizio, con la previsione di soglie di esenzione che tengano conto della dimensione del fatturato. Il computo del fatturato e' effettuato in modo da evitare duplicazioni di contribuzione. Il contributo e' determinato annualmente con atto dell'Autorita', sottoposto ad approvazione da parte del Presidente del Consiglio dei ministri, di concerto con il Ministro dell'economia e delle finanze. Nel termine di trenta giorni dalla ricezione dell'atto, possono essere formulati rilievi cui l'Autorita' si conforma; in assenza di rilievi nel termine l'atto si intende approvato;   
-b-bis) ai sensi dell'art. 2, comma 29, ultimo periodo, della [legge 14 novembre 1995, n. 481](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-11-14;481), in sede di prima attuazione del presente articolo, l'Autorita' provvede al reclutamento del personale di ruolo, nella misura massima del 50 per cento dei posti disponibili nella pianta organica, determinata in ottanta unita', e nei limiti delle risorse disponibili, mediante apposita selezione nell'ambito del personale dipendente da pubbliche amministrazioni in possesso delle competenze e dei requisiti di professionalita' ed esperienza richiesti per l'espletamento delle singole funzioni e tale da garantire la massima neutralita' e imparzialita'. In fase di avvio il personale selezionato dall'Autorita' e' comandato da altre pubbliche amministrazioni, con oneri a carico delle amministrazioni di provenienza. A seguito del versamento dei contributi di cui alla lettera b), il predetto personale e' immesso nei ruoli dell'Autorita' nella qualifica assunta in sede di selezione.   
-6-bis. Nelle more dell'entrata in operativita' dell'Autorita', determinata con propria delibera, le funzioni e le competenze attribuite alla stessa ai sensi del presente articolo continuano ad essere svolte dalle amministrazioni e dagli enti pubblici competenti nei diversi settori interessati. A decorrere dalla stessa data l'Ufficio per la regolazione dei servizi ferroviari (URSF) del Ministero delle infrastrutture e dei trasporti di cui all'art. 4, comma 1, lettera c), del regolamento di cui al [decreto del Presidente della Repubblica 3 dicembre 2008, n. 211](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;211), istituito ai sensi dell'[art. 37 del decreto legislativo 8 luglio 2003, n. 188](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-07-08;188~art37), e' soppresso.  
-Conseguentemente, il Ministero delle infrastrutture e dei trasporti provvede alla riduzione della dotazione organica del personale dirigenziale di prima e di seconda fascia in misura corrispondente agli uffici dirigenziali di livello generale e non generale soppressi. Sono, altresi', soppressi gli stanziamenti di bilancio destinati alle relative spese di funzionamento.   
-6-ter. Restano ferme le competenze del Ministero delle infrastrutture e dei trasporti, del Ministero dell'economia e delle finanze nonche' del CIPE in materia di approvazione di contratti di programma nonche' di atti convenzionali, con particolare riferimento ai profili di finanza pubblica.».   
-- Si riporta l'[art. 1, comma 7, della legge 6 novembre 2012, n. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-11-06;190~art1-com7) (Disposizioni per la prevenzione e la repressione della corruzione e dell'illegalita' nella pubblica amministrazione):   
-«Art. 1 (Disposizioni per la prevenzione e la repressione della corruzione e dell'illegalita' nella pubblica amministrazione). - (Omissis.).   
-7. L'organo di indirizzo individua, di norma tra i dirigenti di ruolo in servizio, il Responsabile della prevenzione della corruzione e della trasparenza, disponendo le eventuali modifiche organizzative necessarie per assicurare funzioni e poteri idonei per lo svolgimento dell'incarico con piena autonomia ed effettivita'. Negli enti locali, il Responsabile della prevenzione della corruzione e della trasparenza e' individuato, di norma, nel segretario o nel dirigente apicale, salva diversa e motivata determinazione. Nelle unioni di comuni, puo' essere nominato un unico responsabile della prevenzione della corruzione e della trasparenza. Il Responsabile della prevenzione della corruzione e della trasparenza segnala all'organo di indirizzo e all'organismo indipendente di valutazione le disfunzioni inerenti all'attuazione delle misure in materia di prevenzione della corruzione e di trasparenza e indica agli uffici competenti all'esercizio dell'azione disciplinare i nominativi dei dipendenti che non hanno attuato correttamente le misure in materia di prevenzione della corruzione e di trasparenza. Eventuali misure discriminatorie, dirette o indirette, nei confronti del Responsabile della prevenzione della corruzione e della trasparenza per motivi collegati, direttamente o indirettamente, allo svolgimento delle sue funzioni devono essere segnalate all'Autorita' nazionale anticorruzione, che puo' chiedere informazioni all'organo di indirizzo e intervenire nelle forme di cui al [comma 3, art. 15, decreto legislativo 8 aprile 2013, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-04-08;39~art15-com3).   
-(Omissis.).».   
-- Il [decreto legislativo 14 marzo 2013, n. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33) (Riordino della disciplina riguardante il diritto di accesso civico e gli obblighi di pubblicita', trasparenza e diffusione di informazioni da parte delle pubbliche amministrazioni) e' pubblicato nella Gazzetta Ufficiale 5 aprile 2013, n. 80.   
-- Si riportano gli [articoli 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-09-28;109~art12) e [13 del decreto-legge 28 settembre 2018, n. 109](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-09-28;109~art13) (Disposizioni urgenti per la citta' di Genova, la sicurezza della rete nazionale delle infrastrutture e dei trasporti, gli eventi sismici del 2016 e 2017, il lavoro e le altre emergenze), convertito, con modificazioni, dalla [legge 16 novembre 2018, n. 130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-11-16;130):   
-«Art. 12 (Agenzia nazionale per la sicurezza delle ferrovie e delle infrastrutture stradali e autostradali). - 1. E' istituita, a decorrere dal 1° gennaio 2019, l'Agenzia nazionale per la sicurezza delle ferrovie e delle infrastrutture stradali e autostradali (ANSFISA), di seguito Agenzia, con sede in Roma presso il Ministero delle infrastrutture e dei trasporti, con possibilita' di articolazioni territoriali, di cui una, con competenze riferite in particolare ai settori delle infrastrutture stradali e autostradali, avente sede a Genova. Fermi i compiti, gli obblighi e le responsabilita' degli enti proprietari e dei soggetti gestori in materia di sicurezza, l'Agenzia promuove e assicura la vigilanza sulle condizioni di sicurezza del sistema ferroviario nazionale e delle infrastrutture stradali e autostradali, direttamente sulla base del programma annuale di attivita' di cui al comma 5-bis, nonche' nelle forme e secondo le modalita' indicate nei commi da 3 a 5. Per quanto non disciplinato dal presente articolo si applicano gli [articoli 8](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300~art8) e [9 del decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300~art9).   
-2. A decorrere dalla data di cui al comma 19, quarto periodo, l'Agenzia nazionale per la sicurezza delle ferrovie (ANSF) di cui all'[art. 4 del decreto legislativo 10 agosto 2007, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-08-10;162~art4), e' soppressa e l'esercizio delle relative funzioni e' attribuito all'Agenzia, che succede a titolo universale in tutti i rapporti attivi e passivi al predetto ente e ne acquisisce le risorse umane, strumentali e finanziarie. L'Agenzia e' dotata di personalita' giuridica e ha autonomia regolamentare, amministrativa, patrimoniale, organizzativa, contabile e finanziaria. Il Ministro delle infrastrutture e dei trasporti ha poteri di indirizzo e vigilanza, che esercita secondo le modalita' previste nel presente decreto.   
-3. Con riferimento al settore ferroviario, l'Agenzia svolge i compiti e le funzioni, anche di regolamentazione tecnica, per essa previsti dai decreti legislativi recanti attuazione della [direttiva (UE) 2016/798 del Parlamento europeo e del Consiglio dell'11 maggio 2016](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32016L0798) sulla sicurezza delle ferrovie e della [direttiva (UE) 2016/797 del Parlamento europeo e del Consiglio dell'11 maggio 2016](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32016L0797) relativa all'interoperabilita' del sistema ferroviario dell'Unione europea ed ha competenza per l'intero sistema ferroviario nazionale, secondo quanto previsto dai medesimi decreti. Per le infrastrutture transfrontaliere specializzate, i compiti di autorita' nazionale preposta alla sicurezza di cui al Capo IV della [direttiva (UE) 2016/798](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32016L0798) sono affidati, a seguito di apposite convenzioni, all'Agenzia o all'Autorita' per la sicurezza ferroviaria del Paese limitrofo.   
-4. Con riferimento alla sicurezza delle infrastrutture stradali e autostradali e fermi restando i compiti e le responsabilita' dei soggetti gestori, l'Agenzia, anche avvalendosi degli altri soggetti pubblici che operano in materia di sicurezza delle infrastrutture:   
-a) esercita l'attivita' ispettiva finalizzata alla verifica dell'attivita' di manutenzione svolta dai gestori, dei relativi risultati e della corretta organizzazione dei processi di manutenzione, nonche' l'attivita' ispettiva e di verifica a campione sulle infrastrutture, obbligando i gestori, in quanto responsabili dell'utilizzo sicuro delle stesse, a mettere in atto le necessarie misure di controllo del rischio, nonche' all'esecuzione dei necessari interventi di messa in sicurezza, dandone comunicazione al Ministero delle infrastrutture e della mobilita' sostenibili;   
-b) promuove l'adozione da parte dei gestori delle reti stradali ed autostradali di Sistemi di Gestione della Sicurezza per le attivita' di verifica e manutenzione delle infrastrutture certificati da organismi di parte terza riconosciuti dall'Agenzia;   
-c) propone al Ministro delle infrastrutture e della mobilita' sostenibili l'adozione, sentito il Consiglio superiore dei lavori pubblici, del decreto previsto dall'[art. 1, comma 3, del decreto legislativo 15 marzo 2011, n. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-03-15;35~art1-com3);   
-d) stabilisce, con proprio provvedimento, modalita', contenuti e documenti costituenti la valutazione di impatto sulla sicurezza stradale per i progetti di infrastruttura di cui all'art. 3 del citato [decreto legislativo n. 35 del 2011](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011;35);   
-e) cura la tenuta dell'elenco dei soggetti che possono effettuare i controlli ai sensi dell'art. 4 del citato [decreto legislativo n. 35 del 2011](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011;35) nonche' la relativa attivita' di formazione, nel rispetto di quanto previsto dall'art. 9 del medesimo decreto;   
-f) provvede alla classificazione dei tratti ad elevata concentrazione di incidenti nonche' alla classificazione della sicurezza della rete esistente, secondo quanto previsto dall'art. 5 del citato [decreto legislativo n. 35 del 2011](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011;35), anche al fine di definire, con proprio provvedimento, criteri e modalita' per l'applicazione delle misure di sicurezza previste dal medesimo decreto;   
-g) effettua, in attuazione del programma annuale di attivita' di cui al comma 5-bis e comunque ogni qual volta ne ravvisi l'opportunita' anche sulla base delle segnalazioni effettuate dal Ministero delle infrastrutture e della mobilita' sostenibili o di altre pubbliche amministrazioni, le ispezioni di sicurezza con le modalita' previste dall'art. 6 del citato [decreto legislativo n. 35 del 2011](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011;35), anche compiendo verifiche sulle attivita' di controllo gia' svolte dai gestori eventualmente effettuando ulteriori verifiche in sito;   
-h) adotta le misure di sicurezza temporanee da applicare ai tratti di rete stradale interessati da lavori stradali, fissando le modalita' di svolgimento delle ispezioni volte ad assicurare la corretta applicazione delle stesse;   
-i) sovraintende alla gestione dei dati secondo quanto previsto dall'art. 7 del citato [decreto legislativo n. 35 del 2011](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011;35);   
-l) propone al Ministro delle infrastrutture e della mobilita' sostenibili l'aggiornamento delle tariffe previste dall'art. 10 del citato [decreto legislativo n. 35 del 2011](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011;35), da destinare all'Agenzia per lo svolgimento delle attivita' di cui agli articoli 5 e 6 del medesimo decreto legislativo;   
-m) svolge attivita' di studio, ricerca e sperimentazione in materia di sicurezza delle infrastrutture stradali e autostradali.   
-4-bis. Fermi restando i compiti del Corpo nazionale dei vigili del fuoco disciplinati dall'[art. 19 del decreto legislativo 8 marzo 2006, n. 139](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-08;139~art19), e dal regolamento di cui al [decreto del Presidente della Repubblica 1° agosto 2011, n. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2011-08-01;151), sono trasferiti all'Agenzia le funzioni ispettive e i poteri di cui agli articoli 11, commi 1 e 2, e 12 del [decreto legislativo 5 ottobre 2006, n. 264](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-10-05;264), al fine di garantire la sicurezza delle gallerie situate sulle strade appartenenti alla rete stradale transeuropea. Le funzioni ispettive e i poteri di cui al periodo precedente sono esercitati dall'Agenzia anche per garantire la sicurezza delle gallerie situate sulle strade non appartenenti alla rete stradale transeuropea. Con decreto del Ministero delle infrastrutture e dei trasporti, di concerto con il Ministero dell'interno e con il Ministero dell'economia e delle finanze, da adottare entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, sono definiti i requisiti minimi di sicurezza delle gallerie situate sulle strade non appartenenti alla rete stradale transeuropea, gli obblighi dei soggetti gestori e le relative sanzioni in caso di inosservanza delle disposizioni impartite dall'Agenzia, nonche' i profili tariffari a carico dei gestori stessi, determinati sulla base del costo effettivo del servizio.   
-4-ter. All'[art. 4, comma 5, del decreto legislativo 5 ottobre 2006, n. 264](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-10-05;264~art4-com5), le parole: «ed effettua le ispezioni, le valutazioni e le verifiche funzionali di cui all'art. 11» sono soppresse.   
-4-quater. Sono trasferite all'Agenzia le funzioni esercitate dagli uffici speciali trasporti a impianti fissi (USTIF) del Ministero delle infrastrutture e della mobilita' sostenibili ai sensi dell'[art. 9, commi 5](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2014-12-23&numeroGazzetta=297) e [6, del decreto del Ministro delle infrastrutture e dei trasporti 4 agosto 2014, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 297 del 23 dicembre 2014](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2014-12-23&numeroGazzetta=297), e del decreto del Ministro delle infrastrutture e dei trasporti 29 settembre 2003, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 280 del 2 dicembre 2003. L'Agenzia, con proprio decreto, disciplina i requisiti per il rilascio dell'autorizzazione di sicurezza relativa al sistema di trasporto costituito dall'infrastruttura e dal materiale rotabile, con i contenuti di cui agli [articoli 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;50~art9) e [11 del decreto legislativo 14 maggio 2019, n. 50](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;50~art11), per quanto applicabili, nonche', d'intesa con il Ministero delle infrastrutture e della mobilita' sostenibili, le modalita' per la realizzazione e l'apertura all'esercizio di nuovi sistemi di trasporto a impianti fissi.   
-4-quinquies. All'[art. 15 della legge 1° agosto 2002, n. 166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-08-01;166~art15), dopo il comma 6 e' aggiunto il seguente:   
-"6-bis. A decorrere dal 1° giugno 2019, il Ministro delle infrastrutture e dei trasporti riferisce annualmente alle competenti Commissioni parlamentari sull'attuazione, da parte dei concessionari autostradali, degli interventi di verifica e di messa in sicurezza delle infrastrutture viarie oggetto di atti convenzionali.".   
-5. Ferme restando le sanzioni gia' previste dalla legge, da atti amministrativi e da clausole convenzionali, l'inosservanza da parte dei gestori delle prescrizioni adottate dall'Agenzia, nell'esercizio delle attivita' di cui al comma 4, lettere a) e g), e' punita con le sanzioni amministrative pecuniarie, anche progressive, accertate e irrogate dall'Agenzia secondo le disposizioni di cui al Capo I, Sezioni I e II, della [legge 24 novembre 1981, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689). Per gli enti territoriali la misura della sanzione e' compresa tra euro 5.000 e euro 200.000 ed e' determinata anche in funzione del numero di abitanti. Nei confronti dei soggetti aventi natura imprenditoriale l'Agenzia dispone l'applicazione di una sanzione amministrativa pecuniaria fino al dieci per cento del fatturato realizzato nell'ultimo esercizio chiuso anteriormente alla contestazione della violazione. In caso di reiterazione delle violazioni, l'Agenzia puo' applicare un'ulteriore sanzione di importo fino al doppio della sanzione gia' applicata entro gli stessi limiti previsti per la prima.  
-Qualora il comportamento sanzionabile possa arrecare pregiudizio alla sicurezza dell'infrastruttura o della circolazione stradale o autostradale, l'Agenzia puo' imporre al gestore l'adozione di misure cautelative, limitative o interdittive, della circolazione dei veicoli sino alla cessazione delle condizioni che hanno comportato l'applicazione della misura stessa e, in caso di inottemperanza, puo' irrogare una sanzione, rispettivamente per gli enti territoriali e i soggetti aventi natura imprenditoriale, non superiore a euro 100.000 ovvero al tre per cento del fatturato sopra indicato.   
-5-bis. L'Agenzia nazionale per la sicurezza delle ferrovie e delle infrastrutture stradali e autostradali adotta, entro il 31 dicembre di ciascun anno, il programma delle attivita' di vigilanza diretta dell'Agenzia sulle condizioni di sicurezza delle infrastrutture stradali e autostradali, da espletarsi nel corso dell'anno successivo, dandone comunicazione al Ministero delle infrastrutture e della mobilita' sostenibili. Relativamente alle attivita' dell'anno 2021, il programma di cui al primo periodo e' adottato entro il 31 agosto 2021. Entro il 31 gennaio di ciascun anno, l'Agenzia trasmette al Ministro delle infrastrutture e della mobilita' sostenibili e alle competenti Commissioni parlamentari una relazione sulle attivita' previste dai commi da 3 a 5 e svolte nel corso dell'anno precedente.   
-6. Sono organi dell'Agenzia:   
-a) il direttore dell'agenzia, scelto in base a criteri di alta professionalita', di capacita' manageriale e di qualificata esperienza nell'esercizio di funzioni attinenti al settore operativo dell'agenzia;   
-b) il comitato direttivo, composto da quattro membri e dal direttore dell'agenzia, che lo presiede;   
-c) il collegio dei revisori dei conti.   
-7. Il direttore e' nominato con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, su proposta del Ministro delle infrastrutture e dei trasporti, ferma restando l'applicazione dell'[art. 19, comma 8, del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art19-com8). L'incarico ha la durata massima di tre anni, e' rinnovabile per una sola volta ed e' incompatibile con altri rapporti di lavoro subordinato e con qualsiasi altra attivita' professionale privata anche occasionale. Il comitato direttivo e' nominato per la durata di tre anni con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro delle infrastrutture e dei trasporti. Meta' dei componenti sono scelti tra i dipendenti di pubbliche amministrazioni ovvero tra soggetti ad esse esterni dotati di specifica competenza professionale attinente ai settori nei quali opera l'agenzia. I restanti componenti sono scelti tra i dirigenti dell'agenzia e non percepiscono alcun compenso aggiuntivo per lo svolgimento dell'incarico nel comitato direttivo. Il collegio dei revisori dei conti e' composto dal presidente, da due membri effettivi e due supplenti iscritti al registro dei revisori legali, nominati con decreto del Ministro delle infrastrutture e dei trasporti.  
-I revisori durano in carica tre anni e possono essere confermati una sola volta. Il collegio dei revisori dei conti esercita le funzioni di cui all'[art. 2403 del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2403), in quanto applicabile. I componenti del comitato direttivo non possono svolgere attivita' professionale, ne' essere amministratori o dipendenti di societa' o imprese, nei settori di intervento dell'Agenzia. I compensi dei componenti degli organi collegiali sono stabiliti con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'economia delle finanze secondo i criteri e parametri previsti per gli enti ed organismi pubblici e sono posti a carico del bilancio dell'Agenzia.   
-8. Lo statuto dell'Agenzia e' deliberato dal comitato direttivo ed e' approvato con le modalita' di cui al comma 10. Lo Statuto disciplina le competenze degli organi di direzione dell'Agenzia e reca principi generali in ordine alla sua organizzazione ed al suo funzionamento.   
-9. Il regolamento di amministrazione dell'Agenzia e' deliberato, su proposta del direttore, dal comitato direttivo ed e' sottoposto al Ministro delle infrastrutture e dei trasporti che lo approva, di concerto con i Ministri per la pubblica amministrazione e dell'economia e delle finanze, ai sensi del comma 10. In particolare esso:   
-a) disciplina l'organizzazione e il funzionamento dell'Agenzia, attraverso la previsione di due distinte articolazioni competenti ad esercitare rispettivamente le funzioni gia' svolte dall'ANSF in materia di sicurezza ferroviaria e le nuove competenze in materia di sicurezza delle infrastrutture stradali e autostradali, cui sono preposte due posizioni di ufficio di livello dirigenziale generale;   
-b) fissa le dotazioni organiche complessive del personale di ruolo dipendente dall'Agenzia nel limite massimo di 668 unita', di cui 48 di livello dirigenziale non generale e 3 uffici di livello dirigenziale generale;   
-c) determina le procedure per l'accesso alla dirigenza, nel rispetto del [decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165).   
-10. Le deliberazioni del comitato direttivo relative allo statuto e ai regolamenti che disciplinano il funzionamento dell'Agenzia sono approvate dal Ministro delle infrastrutture e dei trasporti, di concerto con i Ministri per la pubblica amministrazione e dell'economia e delle finanze. L'approvazione puo' essere negata per ragioni di legittimita' o di merito. Per l'approvazione dei bilanci e dei piani pluriennali di investimento si applicano le disposizioni del regolamento di cui al [decreto del Presidente della Repubblica 9 novembre 1998, n. 439](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-11-09;439).  
-Gli altri atti di gestione dell'Agenzia non sono sottoposti a controllo ministeriale preventivo.   
-11. I dipendenti dell'ANSF a tempo indeterminato sono inquadrati nel ruolo dell'Agenzia e mantengono il trattamento economico fondamentale e accessorio, limitatamente alle voci fisse e continuative, corrisposto al momento dell'inquadramento e in applicazione di quanto previsto dal contratto collettivo nazionale di lavoro di cui al comma 16. Per i restanti contratti di lavoro l'Agenzia subentra nella titolarita' dei rispettivi rapporti, ivi comprese le collaborazioni in corso che restano in vigore sino a naturale scadenza.   
-12. In ragione dell'esercizio delle funzioni di cui al comma 4, in aggiunta all'intera dotazione organica del personale dell'ANSF, e' assegnato all'Agenzia un contingente di personale di 250 unita', destinato all'esercizio delle funzioni in materia di sicurezza delle infrastrutture stradali e autostradali e di 15 posizioni di uffici di livello dirigenziale non generale.   
-13. Nell'organico dell'Agenzia sono presenti tre posizioni di uffici di livello dirigenziale generale.   
-14. In fase di prima attuazione e per garantire l'immediata operativita' dell'ANSFISA, per lo svolgimento delle nuove competenze in materia di sicurezza delle infrastrutture stradali e autostradali, sino all'approvazione del regolamento di amministrazione di cui al comma 9, l'Agenzia provvede al reclutamento del personale di ruolo di cui al comma 12, nella misura massima di 61 unita', mediante apposita selezione nell'ambito del personale dipendente da pubbliche amministrazioni, con esclusione del personale docente educativo ed amministrativo tecnico ausiliario delle istituzioni scolastiche, in possesso delle competenze e dei requisiti di professionalita' ed esperienza richiesti per l'espletamento delle singole funzioni, e tale da garantire la massima neutralita' e imparzialita'. Per tale fase il personale selezionato dall'Agenzia e' comandato dal Ministero delle infrastrutture e dei trasporti e da altre pubbliche amministrazioni, con oneri a carico delle amministrazioni di provenienza, per poi essere immesso nel ruolo dell'Agenzia con la qualifica assunta in sede di selezione e con il riconoscimento del trattamento economico equivalente a quello ricoperto nel precedente rapporto di lavoro e, se piu' favorevole, il mantenimento del trattamento economico di provenienza, limitatamente alle voci fisse e continuative, mediante assegno ad personam riassorbibile e non rivalutabile con i successivi miglioramenti economici a qualsiasi titolo conseguiti.  
-L'inquadramento nei ruoli dell'Agenzia del personale proveniente dalle pubbliche amministrazioni comporta la riduzione, in misura corrispondente, della dotazione organica dell'amministrazione di provenienza con contestuale trasferimento delle relative risorse finanziarie.   
-15. L'Agenzia e' autorizzata all'assunzione a tempo indeterminato di 205 unita' di personale e 19 dirigenti nel corso dell'anno 2019 e di 134 unita' di personale e 13 dirigenti nel corso dell'anno 2020 da inquadrare nelle aree iniziali stabilite nel regolamento di cui al comma 9.   
-16. Al personale e alla dirigenza dell'Agenzia si applicano le disposizioni del [decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165) e il contratto collettivo nazionale di lavoro del personale del comparto funzioni centrali, secondo le tabelle retributive dell'ENAC.   
-17. Al fine di assicurare il corretto svolgimento delle attivita' di cui al presente articolo, all'Agenzia e' garantito l'accesso a tutti i dati riguardanti le opere pubbliche della banca dati di cui all'art. 13, nonche' ai dati ricavati dal sistema di monitoraggio dinamico per la sicurezza delle infrastrutture stradali e autostradali di cui all'art. 14. Per le medesime finalita' di cui al primo periodo, gli enti proprietari e i gestori delle infrastrutture stradali e autostradali sono tenuti a garantire al personale autorizzato dell'Agenzia l'accesso incondizionato alle infrastrutture, ai cantieri, alle sedi legali e operative, nonche' a tutta la documentazione pertinente.   
-18. Agli oneri del presente articolo, pari a complessivi 14.100.000 euro per l'anno 2019, e 22.300.000 euro a decorrere dall'anno 2020 si provvede ai sensi dell'art. 45.   
-19. In sede di prima applicazione, entro 90 giorni dalla data di cui al comma 1, lo Statuto e i regolamenti di cui ai commi 8 e 9 sono adottati con decreto del Ministro delle infrastrutture e dei trasporti di concerto con il Ministro dell'economia e delle finanze e con il Ministro per la pubblica amministrazione. Fino all'adozione dei nuovi regolamenti continuano ad applicarsi i regolamenti gia' emanati per l'ANSF. Gli organi dell'ANSF rimangono in carica fino alla nomina degli organi dell'Agenzia. Nelle more della piena operativita' dell'Agenzia, la cui data e' determinata con decreto del Ministro delle infrastrutture e dei trasporti, le funzioni e le competenze attribuite alla stessa ai sensi del presente articolo, ove gia' esistenti, continuano ad essere svolte dalle amministrazioni e dagli enti pubblici competenti nei diversi settori interessati.   
-20. La denominazione "Agenzia nazionale per la sicurezza delle ferrovie" e' sostituita, ovunque ricorre, dalla denominazione "Agenzia nazionale per la sicurezza delle ferrovie e delle infrastrutture stradali e autostradali" (ANSFISA).   
-21. L'Agenzia si avvale del patrocinio dell'Avvocatura dello Stato ai sensi dell'art. 1 del testo unico di cui al [regio decreto 30 ottobre 1933, n. 1611](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1611).   
-22. Tutti gli atti connessi con l'istituzione dell'Agenzia sono esenti da imposte e tasse.   
-23. L'[art. 4 del decreto legislativo 10 agosto 2007, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-08-10;162~art4) e' abrogato.».   
-«Art. 13 (Istituzione dell'archivio informatico nazionale delle opere pubbliche - AINOP). - 1. E' istituito presso il Ministero delle infrastrutture e dei trasporti l'archivio informatico nazionale delle opere pubbliche, di seguito - AINOP, formato dalle seguenti sezioni:   
-a) ponti, viadotti e cavalcavia stradali;   
-b) ponti, viadotti e cavalcavia ferroviari;   
-c) strade - archivio nazionale delle strade, di seguito ANS;   
-d) ferrovie nazionali e regionali - metropolitane;   
-e) aeroporti;   
-f) dighe e acquedotti;   
-g) gallerie ferroviarie e gallerie stradali;   
-h) porti e infrastrutture portuali;   
-i) edilizia pubblica.   
-2. Le sezioni di cui al comma 1 sono suddivise in sottosezioni, ove sono indicati, per ogni opera pubblica:   
-a) i dati tecnici, progettuali e di posizione con analisi storica del contesto e delle evoluzioni territoriali;   
-b) i dati amministrativi riferiti ai costi sostenuti e da sostenere;   
-c) i dati sulla gestione dell'opera anche sotto il profilo della sicurezza;   
-d) lo stato e il grado di efficienza dell'opera e le attivita' di manutenzione ordinaria e straordinaria, compresi i dati relativi al controllo strumentale dei sistemi di ritenuta stradale in acciaio o in cemento;   
-e) la collocazione dell'opera rispetto alla classificazione europea;   
-f) i finanziamenti;   
-g) lo stato dei lavori;   
-h) la documentazione fotografica aggiornata;   
-i) il monitoraggio costante dello stato dell'opera anche con applicativi dedicati, sensori in situ e rilevazione satellitare;   
-l) il sistema informativo geografico per la consultazione, l'analisi e la modellistica dei dati relativi all'opera e al contesto territoriale.   
-3. Sulla base del principio di unicita' dell'invio di cui agli [articoli 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163~art3) e [29 del codice dei contratti pubblici](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163~art29), di cui al [decreto legislativo 18 aprile 2016, n. 50](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-04-18;50), i dati e le informazioni di cui al presente articolo gia' rilevati dalla banca dati delle amministrazioni pubbliche (BDAP) di cui all'[art. 2 del decreto legislativo 29 dicembre 2011, n. 229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-12-29;229~art2) e all'[art. 13 della legge 31 dicembre 2009, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196~art13), o da altre banche dati pubbliche sono forniti all'AINOP dalla citata BDAP. Il decreto di cui al comma 5 regola le modalita' di scambio delle informazioni tra i due sistemi.   
-4. Le Regioni, le Province autonome di Trento e di Bolzano, gli enti locali, l'ANAS, Rete Ferroviaria Italiana S.p.a., i concessionari autostradali, i concessionari di derivazioni, i Provveditorati interregionali alle opere pubbliche, l'ente nazionale per l'aviazione civile, le autorita' di sistema portuale e logistico, l'Agenzia del demanio e i soggetti che a qualsiasi titolo gestiscono o detengono dati riferiti ad un'opera pubblica o all'esecuzione di lavori pubblici, alimentano l'AINOP con i dati in proprio possesso per la redazione di un documento identificativo, contenente i dati tecnici, amministrativi e contabili, relativi a ciascuna opera pubblica presente sul territorio nazionale. Sulla base dei dati forniti, l'AINOP genera un codice identificativo della singola opera pubblica (IOP), che contraddistingue e identifica in maniera univoca l'opera medesima riportandone le caratteristiche essenziali e distintive quali la tipologia, la localizzazione, l'anno di messa in esercizio e l'inserimento dell'opera nell'infrastruttura. A ciascuna opera pubblica, identificata tramite il Codice IOP, sono riferiti tutti gli interventi di investimento pubblico, realizzativi, manutentivi, conclusi o in fase di programmazione, progettazione, esecuzione, che insistono in tutto o in parte sull'opera stessa, tramite l'indicazione dei rispettivi Codici Unici di Progetto (CUP), di cui all'[art. 11 della legge 16 gennaio 2003, n. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-01-16;3~art11). L'AINOP, attraverso la relazione istituita fra Codice IOP e CUP, assicura l'interoperabilita' con la BDAP, istituita presso la Ragioneria generale dello Stato - Ministero dell'economia e delle finanze.   
-5. A decorrere dal 15 dicembre 2018, i soggetti di cui al comma 4 rendono disponibili i servizi informatici di rispettiva titolarita' per la condivisione dei dati e delle informazioni nel rispetto del [decreto legislativo 7 marzo 2005, n. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82), mediante la cooperazione applicativa tra amministrazioni pubbliche, con le modalita' definite con decreto del Ministro delle infrastrutture e dei trasporti, previa intesa in sede di Conferenza unificata di cui all'[art. 8 del decreto legislativo 28 agosto 1997, n. 281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281~art8), ai sensi dell'art. 3 del medesimo [decreto legislativo n. 281 del 1997](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;281), da adottarsi entro sessanta giorni dalla data di entrata in vigore del presente decreto. L'inserimento e' completato entro e non oltre il 30 aprile 2019 ed e' aggiornato in tempo reale con i servizi di cooperazione applicativa e di condivisione dei dati.   
-6. Gli enti e le amministrazioni che a qualsiasi titolo esercitano attivita' di vigilanza sull'opera effettuano il monitoraggio dello stato di attuazione degli interventi, identificati con i relativi CUP, insistenti sulle opere pubbliche, identificate con il Codice IOP, e delle relative risorse economico-finanziarie assegnate utilizzando le informazioni presenti nella BDAP, che vengono segnalate dai soggetti titolari degli interventi, ai sensi del [decreto legislativo 29 dicembre 2011, n. 229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-12-29;229).   
-7. L'AINOP, gestito dal Ministero delle infrastrutture e dei trasporti, e implementato anche sulla base delle indicazioni e degli indirizzi forniti dalla Presidenza del Consiglio dei ministri, dal Ministero dell'economia e delle finanze - Ragioneria generale dello Stato e dall'ANSFISA, per la generazione dei codici IOP, per il relativo corredo informativo, per l'integrazione e l'interoperabilita' con le informazioni contenute nella BDAP, tramite il CUP, e per l'integrazione nella Piattaforma digitale nazionale dati di cui all'[art. 50-ter del decreto legislativo 7 marzo 2005, n. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82~art50ter), e' messo a disposizione ed e' consultabile anche in formato open data, con le modalita' definite con il decreto ministeriale indicato al comma 5, prevedendo la possibilita' di raccogliere, mediante apposita sezione, segnalazioni da sottoporre agli enti e amministrazioni che a qualsiasi titolo esercitano attivita' di vigilanza sull'opera.   
-7-bis. Per le finalita' di cui al comma 7 del presente articolo, al [comma 2 dell'art. 50-ter del codice dell'amministrazione digitale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82~art50ter-com2), di cui al [decreto legislativo 7 marzo 2005, n. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82), le parole: "31 dicembre 2018" sono sostituite dalle seguenti: "5 settembre 2019".   
-8. L'AINOP e' sviluppato tenendo in considerazione la necessita' urgente di garantire un costante monitoraggio dello stato e del grado di efficienza delle opere pubbliche, in particolare per i profili riguardanti la sicurezza, anche tramite le informazioni rivenienti dal Sistema di monitoraggio dinamico per la sicurezza delle infrastrutture stradali e autostradali di cui all'art. 14.  
-Le informazioni contenute nell'AINOP consentono di pervenire ad una valutazione complessiva sul livello di sicurezza delle opere, per agevolare il processo di programmazione e finanziamento degli interventi di riqualificazione o di manutenzione delle opere stesse e la determinazione del grado di priorita' dei medesimi.   
-9. Al fine di assistere i lavori di istruttoria della programmazione e del finanziamento degli interventi di riqualificazione o di manutenzione delle opere pubbliche, alla struttura servente del Comitato interministeriale per la programmazione economica (CIPE), presso la Presidenza del Consiglio dei ministri, e alla Ragioneria generale dello Stato, presso il Ministero dell'economia e delle finanze, e' garantito l'accesso all'AINOP, tramite modalita' idonee a consentire i citati lavori di istruttoria.   
-10. Per l'attuazione delle disposizioni del presente articolo e' autorizzata la spesa di euro 300.000 per l'anno 2018, euro 1.000.000 per l'anno 2019 e euro 200.000 a decorrere dall'anno 2020, alla quale si provvede ai sensi dell'art. 45.».   
-- Il [decreto legislativo 14 maggio 2019, n. 50](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;50) (Attuazione della [direttiva 2016/798 del Parlamento europeo e del Consiglio, dell'11 maggio 2016](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32016L0798), sulla sicurezza delle ferrovie) e' pubblicato nella Gazzetta Ufficiale 10 giugno 2019, n. 134.   
-- Il [decreto-legge 10 settembre 2021, n. 121](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-09-10;121) (Disposizioni urgenti in materia di investimenti e sicurezza delle infrastrutture, dei trasporti e della circolazione stradale, per la funzionalita' del Ministero delle infrastrutture e della mobilita' sostenibili, del Consiglio superiore dei lavori pubblici e dell'Agenzia nazionale per la sicurezza delle ferrovie e delle infrastrutture stradali e autostradali.) convertito, con modificazioni, dalla [legge 9 novembre 2021, n. 156](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-11-09;156) e' pubblicato nella Gazzetta Ufficiale 10 settembre 2021, n. 217.   
-- Si riportano gli [articoli 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-11-11;173~art5) e [13 del decreto-legge 11 novembre 2022, n. 173](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-11-11;173~art13) (Disposizioni urgenti in materia di riordino delle attribuzioni dei Ministeri.) convertito, con modificazioni, dalla [legge 16 dicembre 2022, n. 204](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-12-16;204):   
-«Art. 5 (Ministero delle infrastrutture e dei trasporti). - 1. Il Ministero delle infrastrutture e della mobilita' sostenibili assume la denominazione di Ministero delle infrastrutture e dei trasporti.   
-2. Le denominazioni "Ministro delle infrastrutture e dei trasporti" e "Ministero delle infrastrutture e dei trasporti" sostituiscono, a ogni effetto e ovunque presenti, le denominazioni "Ministro delle infrastrutture e della mobilita' sostenibili" e "Ministero delle infrastrutture e della mobilita' sostenibili".   
-3. L'[art. 5 del decreto-legge 1° marzo 2021, n. 22](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-03-01;22~art5), convertito, con modificazioni, dalla [legge 22 aprile 2021, n. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-04-22;55), e' abrogato.».   
-«Art. 13 (Procedure per la riorganizzazione dei Ministeri). - 1. Al fine di semplificare e accelerare le procedure per la riorganizzazione di tutti i Ministeri, a decorrere dalla data di entrata in vigore della legge di conversione del presente decreto fino al 30 ottobre 2023, i regolamenti di organizzazione dei Ministeri sono adottati con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro competente, di concerto con il Ministro per la pubblica amministrazione e con il Ministro dell'economia e delle finanze, previa deliberazione del Consiglio dei ministri. Sugli stessi decreti e' richiesto il parere del Consiglio di Stato.».   
-- La [legge 29 dicembre 2022, n. 197](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-12-29;197) «Bilancio di previsione dello Stato per l'anno finanziario 2023 e bilancio pluriennale per il triennio 2023-2025» e' pubblicata nella Gazzetta Ufficiale 29 dicembre 2022, n. 303.   
-- Il [decreto-legge 24 febbraio 2023, n. 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-02-24;13) (Disposizioni urgenti per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR) e del Piano nazionale degli investimenti complementari al PNRR (PNC), nonche' per l'attuazione delle politiche di coesione e della politica agricola comune.), convertito, con modificazioni, dalla [legge 21 aprile 2023, n. 41](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-04-21;41), e' pubblicato nella Gazzetta Ufficiale del 24 febbraio 2023, n. 47.   
-- Si riportano gli [articoli 186](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36~art186) e [223 del decreto legislativo 31 marzo 2023, n. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36~art223) ([Codice dei contratti pubblici](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163) in attuazione dell'[art. 1 della legge 21 giugno 2022, n. 78](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-06-21;78~art1), recante delega al Governo in materia di contratti pubblici.):   
-«Art. 186 (Affidamenti dei concessionari). - 1. Agli appalti affidati dai concessionari che siano stazioni appaltanti si applicano le disposizioni del codice in materia di appalti.   
-2. I titolari di concessioni di lavori e di servizi pubblici, ad esclusione di quelli disciplinati dal Libro III, gia' in essere alla data di entrata in vigore del codice, di importo pari o superiore alle soglia di rilevanza europea, e non affidate conformemente al diritto dell'Unione europea vigente al momento dell'affidamento o della proroga, affidano mediante procedura ad evidenza pubblica una quota tra il 50 per cento e il 60 per cento dei contratti di lavori, servizi e forniture stabilita convenzionalmente dal concedente e dal concessionario; l'ente concedente tiene conto delle dimensioni economiche e dei caratteri dell'impresa, dell'epoca di assegnazione della concessione, della sua durata residua, del suo oggetto, del suo valore economico e dell'entita' degli investimenti effettuati. L'affidamento avviene mediante procedura ad evidenza pubblica, con la previsione di clausole sociali per la stabilita' del personale impiegato e per la salvaguardia delle professionalita'.   
-3. In caso di comprovata indivisibilita' delle prestazioni di servizi dedotte in concessione, in sostituzione dell'obbligo di esternalizzazione di cui al comma 2, il concessionario corrisponde all'ente concedente un importo compreso tra il minimo del 5 per cento ed il massimo del 10 per cento degli utili previsti dal piano economico-finanziario, tenendo conto dell'epoca di assegnazione della concessione, della sua durata, del suo oggetto, del suo valore economico e dell'entita' degli investimenti.   
-4. Le concessioni di cui ai commi 2 e 3 gia' in essere sono adeguate alle predette disposizioni entro il termine di sei mesi dall'entrata in vigore del codice.   
-5. Le modalita' di calcolo delle quote di cui comma 2, primo periodo, sono definite dall'ANAC entro il termine di sessanta giorni dalla data di entrata in vigore del codice. Sull'applicazione del presente articolo vigila l'ANAC anche tenuto conto del valore delle prestazioni eseguite.   
-6. Per i concessionari autostradali, le quote e i criteri di determinazione di cui al comma 2 sono calcolati sulla base degli importi risultanti dai piani economici finanziari annessi agli atti convenzionali. La verifica del rispetto delle predette soglie e' effettata dal concedente con cadenza quinquennale. A tal fine, i concessionari presentano al concedente il piano complessivo dei lavori, servizi e forniture. Ove siano accertate situazioni di squilibrio rispetto alle quote obbligatorie di affidamento indicate dal comma 2, primo periodo, in sede di aggiornamento del rapporto concessorio sono adottate misure di riequilibrio a valere sui relativi piani economici finanziari. Nell'ipotesi di mancato rispetto delle quote di cui al comma 2, l'ente concedente puo' altresi' richiedere al concessionario la presentazione di garanzie fideiussorie. Tali garanzie fideiussorie sono svincolate in sede di aggiornamento del piano economico-finanziario ove sia accertato il rispetto delle quote di cui al comma 2.   
-7. Le concessioni autostradali relative ad autostrade che interessano una o piu' regioni possono essere affidate dal Ministero delle infrastrutture e dei trasporti a societa' in house di altre amministrazioni pubbliche anche appositamente costituite. A tal fine il controllo analogo sulla predetta societa' in house puo' essere esercitato dal Ministero delle infrastrutture e dei trasporti attraverso un comitato disciplinato da apposito accordo ai sensi dell'[art. 15 della legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art15), che eserciti sulla societa' in house i relativi poteri.».   
-«Art. 223 (Ministero delle infrastrutture e dei trasporti e struttura tecnica di missione). - 1.  
-Nell'ambito delle funzioni di cui al [decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300), il Ministero delle infrastrutture e dei trasporti promuove le attivita' tecniche e amministrative occorrenti per l'adeguata e sollecita progettazione e approvazione delle infrastrutture ed effettua, con la collaborazione delle regioni o province autonome interessate, le attivita' di supporto necessarie per la vigilanza, da parte dell'autorita' competente, sulla realizzazione delle infrastrutture.   
-2. Nello svolgimento delle funzioni di cui al comma 1, il Ministero delle infrastrutture e dei trasporti impronta la propria attivita' al principio di leale collaborazione con le regioni e le province autonome e con gli enti locali interessati e acquisisce, nei casi indicati dalla legge, la previa intesa delle regioni o province autonome interessate. Ai fini di cui al comma 1, il Ministero delle infrastrutture e dei trasporti, in particolare:   
-a) promuove e riceve le proposte delle regioni o province autonome e degli altri enti aggiudicatori;   
-b) promuove e propone intese quadro tra Governo e singole regioni o province autonome, al fine del congiunto coordinamento e realizzazione delle infrastrutture;   
-c) promuove la redazione dei progetti di fattibilita' delle infrastrutture da parte dei soggetti aggiudicatori, anche attraverso eventuali intese o accordi procedimentali tra i soggetti comunque interessati;   
-d) provvede, eventualmente in collaborazione con le regioni, le province autonome e gli altri enti interessati con oneri a proprio carico, alle attivita' di supporto al Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile per la vigilanza sulle attivita' di affidamento da parte dei soggetti aggiudicatori e della successiva realizzazione delle infrastrutture e degli insediamenti prioritari per lo sviluppo del Paese di cui all'art. 39;   
-e) ove necessario, collabora alle attivita' delle stazioni appaltanti e degli enti concedenti o degli enti interessati alle attivita' istruttorie con azioni di indirizzo e supporto;   
-f) cura l'istruttoria sui progetti di fattibilita' e definitivi, anche ai fini della loro sottoposizione alle deliberazioni del Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile in caso di infrastrutture e di insediamenti prioritari per lo sviluppo del Paese di cui all'art. 39, proponendo allo stesso le eventuali prescrizioni per l'approvazione del progetto; per le opere di competenza dello Stato, il parere del Consiglio superiore dei lavori pubblici, o di altri organi o commissioni consultive, ove richiesto dalle norme vigenti, e' acquisito sul progetto di fattibilita' tecnico-economica;   
-g) assegna ai soggetti aggiudicatori, a carico dei fondi di cui all'art. 39, le risorse finanziarie integrative necessarie alle attivita' progettuali; in caso di infrastrutture e di insediamenti prioritari per lo sviluppo del Paese di cui all'art. 39, propone, d'intesa con il Ministero dell'economia e delle finanze, al Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile l'assegnazione ai soggetti aggiudicatori, a carico dei fondi, delle risorse finanziarie integrative necessarie alla realizzazione delle infrastrutture, contestualmente all'approvazione del progetto di fattibilita' tecnico-economica e nei limiti delle risorse disponibili, dando priorita' al completamento delle opere incompiute;   
-h) verifica l'avanzamento dei lavori anche attraverso sopralluoghi tecnico-amministrativi presso i cantieri interessati, previo accesso agli stessi; a tal fine puo' avvalersi, ove necessario, del Corpo della Guardia di finanza, mediante la sottoscrizione di appositi protocolli di intesa e del Servizio per l'Alta sorveglianza sulle grandi opere istituito con decreto del Ministro delle infrastrutture e dei trasporti 15 aprile 2002, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 54 del 5 marzo 2004.   
-3. Per le attivita' di indirizzo e pianificazione strategica, ricerca, supporto e alta consulenza, valutazione, revisione della progettazione, monitoraggio e alta sorveglianza delle infrastrutture, il Ministero delle infrastrutture e dei trasporti puo' avvalersi di una struttura tecnica di missione composta da dipendenti nei limiti dell'organico approvato e dirigenti delle pubbliche amministrazioni, da tecnici individuati dalle regioni o province autonome territorialmente coinvolte, nonche', sulla base di specifici incarichi professionali o rapporti di collaborazione coordinata e continuativa, da progettisti ed esperti nella gestione di lavori pubblici e privati e di procedure amministrative. La struttura tecnica di missione e' istituita con decreto del Ministro delle infrastrutture e dei trasporti. La struttura puo', altresi', avvalersi di personale di alta specializzazione e professionalita', previa selezione, con contratti a tempo determinato di durata non superiore al quinquennio rinnovabile per una sola volta, nonche' quali advisor, di universita' statali e non statali legalmente riconosciute, di enti di ricerca e di societa' specializzate nella progettazione e gestione di lavori pubblici e privati. La struttura svolge, altresi', le funzioni del Nucleo di valutazione e verifica degli investimenti pubblici, previste dall'[art. 1 della legge 17 maggio 1999, n. 144](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-05-17;144~art1) e dall'[art. 7 del decreto legislativo 29 dicembre 2011, n. 228](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-12-29;228~art7).   
-4. Per agevolare, sin dall'inizio della fase istruttoria, la realizzazione di infrastrutture e insediamenti prioritari, il Ministro delle infrastrutture e dei trasporti, sentiti i Ministri competenti, nonche' i Presidenti delle regioni o province autonome interessate, propone al Presidente del Consiglio dei ministri la nomina di commissari straordinari, i quali seguono l'andamento delle opere e provvedono alle opportune azioni di indirizzo e supporto promuovendo anche attivita' di prevenzione dell'insorgenza dei conflitti e dei contenziosi, anche con riferimento alle esigenze delle comunita' locali, nonche' le occorrenti intese tra i soggetti pubblici e privati interessati. Nell'espletamento delle suddette attivita', e nel caso di particolare complessita' delle stesse, il commissario straordinario puo' essere affiancato da un sub-commissario, nominato dal Presidente del Consiglio dei ministri, su proposta dei Presidenti delle regioni o province autonome territorialmente coinvolte, con oneri a carico delle regioni o province autonome proponenti ovvero a valere sulle risorse di cui al comma 8. Per le opere non aventi carattere interregionale o internazionale, la proposta di nomina del commissario straordinario e' formulata d'intesa con la regione o la provincia autonoma o l'ente territoriale interessati.   
-5. Gli oneri per il funzionamento della struttura tecnica di missione di cui al comma 3 trovano copertura sui fondi di cui all'[art. 1, comma 238, della legge 30 dicembre 2004, n. 311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-30;311~art1-com238), nonche' sulle risorse assegnate annualmente al Ministero delle infrastrutture e dei trasporti ai sensi della [legge n. 144 del 1999](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999;144).   
-6. Il Presidente del Consiglio dei ministri, su proposta del Ministro delle infrastrutture e dei trasporti, sentiti i Ministri competenti nonche', per le infrastrutture di competenza dei soggetti aggiudicatori regionali, i presidenti delle regioni o province autonome interessate, abilita eventualmente i commissari straordinari ad adottare, con le modalita' e i poteri di cui all'[art. 13 del decreto-legge 25 marzo 1997, n. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-03-25;67~art13), convertito, con modificazioni, dalla [legge 23 maggio 1997, n. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-23;135), in sostituzione dei soggetti competenti, i provvedimenti e gli atti di qualsiasi natura necessari alla sollecita progettazione, istruttoria, affidamento e realizzazione delle infrastrutture e degli insediamenti produttivi.   
-7. I commissari straordinari agiscono in autonomia e con l'obiettivo di garantire l'interesse pubblico e riferiscono al Presidente del Consiglio, al Ministro delle infrastrutture e dei trasporti e al Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile in ordine alle problematiche riscontrate e alle iniziative assunte e operano secondo le direttive dai medesimi impartite e con il supporto del Ministero delle infrastrutture e dei trasporti, e, ove esistenti, della struttura tecnica di missione e degli advisor, acquisendo, per il tramite degli stessi, ogni occorrente studio e parere. Nei limiti dei costi autorizzati a norma del comma 8, i commissari straordinari e i sub-commissari si avvalgono della struttura di cui al comma 3, nonche' delle competenti strutture regionali e possono avvalersi del supporto e della collaborazione dei soggetti terzi.   
-8. Il decreto del Presidente del Consiglio dei ministri di nomina del commissario straordinario individua il compenso e i costi pertinenti alle attivita' da svolgere dallo stesso, nonche' le modalita' di corresponsione degli stessi a valere sulle risorse del quadro economico di ciascun intervento, nei limiti delle somme stanziate per tale finalita'.   
-9. Ai commissari nominati ai sensi dell'[art. 20 del decreto-legge 29 novembre 2008, n. 185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-11-29;185~art20), convertito, con modificazioni, dalla [legge 28 gennaio 2009, n. 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-01-28;2), per le opere di cui al presente articolo si applicano le disposizioni di cui ai commi da 4 a 8.   
-10. Il Ministero delle infrastrutture e dei trasporti assicura, anche attraverso la piattaforma del Servizio Contratti Pubblici, il supporto e l'assistenza necessari alle stazioni appaltanti per l'applicazione della disciplina di settore, in collaborazione con le regioni e le province autonome di Trento e di Bolzano nell'ambito delle attivita' che queste esercitano ai sensi del codice.».   
-- Si riportano gli articoli 1, comma 5, e 9 del [decreto-legge 22 giugno 2023, n. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-06-22;75) (Disposizioni urgenti in materia di organizzazione delle pubbliche amministrazioni, di agricoltura, di sport, di lavoro e per l'organizzazione del Giubileo della Chiesa cattolica per l'anno 2025.), convertito, con modificazioni, dalla [legge 10 agosto 2023, n. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-08-10;112):   
-«Art. 1 (Disposizioni riguardanti la Presidenza del Consiglio dei ministri e l'Agenzia per la cybersicurezza nazionale). - (Omissis.).   
-5. All'[art. 13 del decreto-legge 11 novembre 2022, n. 173](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-11-11;173~art13), convertito, con modificazioni, dalla [legge 16 dicembre 2022, n. 204](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-12-16;204), in materia di riorganizzazione dei Ministeri, le parole: «fino al 30 giugno 2023» sono sostituite dalle seguenti: «fino al 30 ottobre 2023». Resta, comunque, fermo il termine del 30 giugno 2023 per l'adozione dei regolamenti di riorganizzazione delle strutture e delle unita' di missione di cui all'[art. 1, comma 1, del decreto-legge 24 febbraio 2023, n. 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-02-24;13~art1-com1), convertito, con modificazioni, dalla [legge 21 aprile 2023, n. 41](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-04-21;41).   
-(Omissis.)».   
-«Art. 9 (Disposizioni urgenti per il rafforzamento dell'operativita' e dell'organizzazione del Ministero delle infrastrutture e dei trasporti). - 1. Al fine di rafforzare l'operativita' e l'organizzazione del Ministero delle infrastrutture e dei trasporti, e' autorizzato l'incremento di una posizione di dirigente generale della dotazione organica del Ministero delle infrastrutture e dei trasporti, di cui al decreto del [Presidente del Consiglio dei ministri 23 dicembre 2020, n. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2020-12-23;190). Agli oneri derivanti dal primo periodo, pari a euro 130.834 per l'anno 2023 e a euro 261.668 annui a decorrere dall'anno 2024, si provvede mediante corrispondente riduzione del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2023-2025, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2023, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero delle infrastrutture e dei trasporti. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.   
-1-bis. Presso il Ministero delle infrastrutture e dei trasporti e' istituito l'Osservatorio nazionale sulle sanzioni per le violazioni del [codice della strada](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), che svolge le seguenti attivita':   
-a) predispone e presenta al Ministro delle infrastrutture e dei trasporti una relazione annuale, elaborata sulla base dei dati forniti dal Ministero dell'interno e dall'Istituto nazionale di statistica relativi all'applicazione degli [articoli 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art142) e [208 del codice della strada](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art208), di cui al [decreto legislativo 30 aprile 1992, n. 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), contenente in particolare i dati relativi agli incidenti stradali e alla regolarita' e trasparenza nell'utilizzo dei proventi delle sanzioni amministrative pecuniarie e nell'uso dei dispositivi elettronici di controllo della velocita';   
-b) verifica le segnalazioni delle associazioni dei consumatori operanti nel settore e puo' richiedere dati e informazioni alle competenti amministrazioni di cui all'[art. 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art1-com2).   
-1-ter. L'Osservatorio di cui al comma 1-bis e' composto da tre membri, di cui uno con funzione di presidente. Con decreto del Ministro delle infrastrutture e dei trasporti, da adottare entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, sono nominati i membri dell'Osservatorio e sono definite le modalita' di funzionamento dell'Osservatorio medesimo. L'incarico di componente dell'Osservatorio ha una durata di quattro anni. Con il decreto di cui al secondo periodo sono stabiliti i compensi dei componenti dell'Osservatorio nei limiti di spesa di cui al comma 1-quater.   
-1-quater. Per il funzionamento dell'Osservatorio di cui al comma 1-bis e per la corresponsione dei compensi ai membri nominati ai sensi del comma 1-ter e' autorizzata la spesa di euro 50.000 per l'anno 2023 e di euro 150.000 annui a decorrere dall'anno 2024.   
-1-quinquies. Agli oneri derivanti dai commi 1-bis, 1-ter e 1-quater, pari a euro 50.000 per l'anno 2023 e a euro 150.000 annui a decorrere dall'anno 2024, si provvede mediante corrispondente riduzione del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2023-2025, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2023, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero delle infrastrutture e dei trasporti. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.   
-1-sexies. L'Osservatorio di cui al comma 1-bis si avvale delle risorse umane, strumentali e finanziarie del Ministero delle infrastrutture e dei trasporti disponibili a legislazione vigente.   
-1-septies. Fino al 31 dicembre 2026, le indennita' da corrispondere ai componenti del Comitato speciale di cui all'[art. 45 del decreto-legge 31 maggio 2021, n. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-31;77~art45), convertito, con modificazioni, dalla [legge 29 luglio 2021, n. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-07-29;108), e quelle da corrispondere ai componenti del Consiglio superiore dei lavori pubblici ai sensi dell'art. 3, comma 4, secondo periodo, dell'allegato I.11 annesso al [codice dei contratti pubblici](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163), di cui al [decreto legislativo 31 marzo 2023, n. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36), sono corrisposte, per i dipendenti delle amministrazioni di cui all'[art. 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art1-com2), non appartenenti ai ruoli del Ministero delle infrastrutture e dei trasporti, dall'amministrazione di appartenenza e rimborsate dal Ministero delle infrastrutture e dei trasporti. Per i restanti membri degli organismi di cui al primo periodo del presente comma, le indennita' di cui al medesimo periodo sono corrisposte dal Ministero delle infrastrutture e dei trasporti con propria determinazione.  
-L'ammontare delle indennita' di cui al primo periodo del presente comma e' calcolato secondo i criteri stabiliti dal regolamento di cui al terzo periodo del citato art. 3, comma 4, dell'allegato I.11 annesso al codice di cui al [decreto legislativo n. 36 del 2023](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023;36).».   
-- Il [decreto del Presidente della Repubblica 27 aprile 2006, n. 204](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2006-04-27;204) (Regolamento di riordino del Consiglio superiore dei lavori pubblici) e' pubblicato nella Gazzetta Ufficiale del 6 giugno 2006, n. 129.   
-- Il [decreto del Presidente del Consiglio dei ministri 23 dicembre 2020, n. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2020-12-23;190) (Regolamento recante l'organizzazione del Ministero delle infrastrutture e dei trasporti) e' pubblicato nella Gazzetta Ufficiale 6 marzo 2021, n. 56.   
-- Il [decreto del Ministro delle infrastrutture e dei trasporti 31 maggio 2019, n. 226](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.infrastrutture.trasporti:decreto:2019-05-31;226) e' consultabile all'indirizzo web: https://www.mit.gov.it/nfsmitgov/files/media/normativa/2019 -09/226.pdf.   
-- Il decreto del Ministro dell'economia e delle finanze del 30 dicembre 2022 (Ripartizione in capitoli delle Unita' di voto parlamentare relative al bilancio di previsione dello Stato per l'anno finanziario 2023 e per il triennio 2023-2025) e' pubblicato nella Gazzetta Ufficiale 30 dicembre 2022, n. 304.
-
-### Art. 2
-
-Organizzazione centrale e periferica
-
-1. Il Ministero, per l'espletamento dei compiti ad esso demandati, e' articolato, a livello centrale, in quattro Dipartimenti, come di seguito indicati:
-
-a) Dipartimento per le infrastrutture e le reti di trasporto;
-
-b) Dipartimento per le opere pubbliche e le politiche abitative;
-
-c) Dipartimento per i trasporti e la navigazione;
-
-d) Dipartimento per gli affari generali e la digitalizzazione.
-
-2. I Dipartimenti di cui al comma 1 si articolano nelle sedici direzioni generali di cui al Capo III, e assicurano l'esercizio organico e integrato delle funzioni del Ministero. Ai sensi dell'[articolo 5, comma 3, del decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300~art5-com3), i Capi dei Dipartimenti, al fine di assicurare la continuita' delle funzioni dell'amministrazione e in attuazione degli indirizzi del Ministro, svolgono compiti di coordinamento, direzione e controllo degli uffici di livello dirigenziale generale in cui si articola ciascuno dei Dipartimenti e sono responsabili dei risultati complessivamente raggiunti dagli uffici da questi dipendenti. Presso ciascun Dipartimento sono istituiti due uffici di livello dirigenziale non generale, nel limite del contingente previsto dall'articolo 18, comma 2. Uno dei due uffici cura il coordinamento delle attivita' di rilievo europeo e internazionale e le relazioni con le Istituzioni sovranazionali, in raccordo con il Consigliere diplomatico del Ministro.
-
-3. Sono strutture decentrate del Ministero
-
-((nove provveditorati regionali e interregionali))
-
-per le opere pubbliche, dipendenti dal Dipartimento per le opere pubbliche e le politiche abitative, nonche' quattro direzioni generali territoriali, dipendenti dal Dipartimento per i trasporti e la navigazione.
-
-4. Il Comando generale del Corpo delle capitanerie di porto e' incardinato nell'ambito del Ministero, dipende funzionalmente dal Ministro ed esercita i compiti di cui all'articolo 14, sulla base delle direttive e degli indirizzi del Ministro, fatto salvo quanto previsto dall'[articolo 118 del decreto legislativo 15 marzo 2010, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66~art118).
-
-5. Sono incardinati nell'assetto organizzativo del Ministero il Consiglio superiore dei lavori pubblici e gli organismi e le istituzioni di cui al capo VI che operano secondo le attribuzioni definite da leggi di settore.
-
-6. I Dipartimenti, il Comando generale del Corpo delle capitanerie di porto ed il Consiglio superiore dei lavori pubblici costituiscono centri di responsabilita' amministrativa ai sensi dell'[articolo 3 del decreto legislativo 7 agosto 1997, n. 279](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-07;279~art3).
-
-CAPO II Capo II I Dipartimenti
-------------------------------
-
-### Art. 3
-
-Competenze dei Dipartimenti
-
-1. I Dipartimenti del Ministero assicurano l'esercizio delle funzioni e dei compiti di spettanza statale secondo la seguente ripartizione:
-
-a) Dipartimento per le infrastrutture e le reti di trasporto: identificazione delle linee fondamentali dell'assetto del territorio con particolare riferimento all'articolazione territoriale delle reti infrastrutturali; pianificazione generale delle infrastrutture; gestione dei programmi d'iniziativa europea di settore; pianificazione, programmazione e gestione della rete nazionale stradale e autostradale; predisposizione e sottoscrizione degli atti convenzionali autostradali e valutazione dei relativi piani economico-finanziari; vigilanza sulle concessionarie autostradali finalizzata alla verifica dell'adempimento degli obblighi convenzionali; pianificazione e programmazione del trasporto ferroviario; pianificazione e programmazione delle infrastrutture ferroviarie e dell'interoperabilita' ferroviaria;
-
-b) Dipartimento per le opere pubbliche e le politiche abitative: identificazione delle linee fondamentali dell'assetto del territorio, con riferimento alle opere di competenza statale diverse dalle infrastrutture di trasporto; progettazione delle costruzioni civili; realizzazione di programmi speciali; edilizia residenziale; edilizia demaniale; politiche abitative e dell'edilizia, concernenti anche il sistema delle citta' e delle aree metropolitane; repressione dell'abusivismo; programmi di riqualificazione urbana; vigilanza tecnica in materia di dighe, opere di derivazione e costruzioni idriche ed elettriche; pianificazione e programmazione di interventi nel settore idrico; attivita' consultiva in materia di norme tecniche di costruzione e sicurezza nell'esecuzione delle opere pubbliche; verifica del rispetto dei piani di sicurezza e delle norme di sicurezza; monitoraggio delle costruzioni, anche per la repressione di tentativi di infiltrazione mafiosa; sviluppo della progettazione e pianificazione di interventi edilizi; supporto alle amministrazioni pubbliche per la progettazione della manutenzione di edifici pubblici; programmazione e gestione delle risorse statali inerenti i grandi eventi;
-
-c) Dipartimento per i trasporti e la navigazione: programmazione, indirizzo, regolazione e vigilanza in materia di trasporti terrestri; omologazione di veicoli e abilitazione dei conducenti; programmazione e regolazione in materia di trasporto intermodale; programmazione delle risorse statali in materia trasporto pubblico locale; attivita' di indirizzo e di monitoraggio con riferimento ai piani urbani della mobilita' sostenibile; regolazione in materia di autotrasporto di persone e cose; attivita' di indirizzo ai fini della sicurezza dei sistemi di trasporto a impianti fissi ad esclusione delle ferrovie; gestione dei trasporti esercitati in regime di concessione; indirizzo in materia di sicurezza stradale, prevenzione incidenti, formazione e informazione dei conducenti; conduzione della centrale operativa del Centro di coordinamento delle informazioni sulla sicurezza stradale, per l'erogazione dei servizi di infomobilita'; gestione applicativa e supporto allo sviluppo del sistema informativo motorizzazione; indirizzo, pianificazione e programmazione in materia di aviazione civile e vigilanza sugli enti di settore; rapporti con organismi internazionali, europei e nazionali in materia di trasporto terrestre, marittimo ed aereo; indirizzo, programmazione e regolazione in materia di navigazione e trasporto marittimo; vigilanza sulle Autorita' di sistema portuale e sulle attivita' nei porti; infrastrutture portuali; attivita' di indirizzo per la gestione e la disciplina d'uso delle aree demaniali marittime; programmazione e gestione, previa intesa con le regioni interessate, del sistema idroviario padano-veneto; disciplina del personale della navigazione marittima e interna, per quanto di competenza;
-
-d) Dipartimento per gli affari generali, legali e la digitalizzazione: gestione delle risorse umane; coordinamento e supporto alle attivita' relative al bilancio del Ministero; servizi comuni e forniture; gestione dei sistemi informativi; sicurezza informatica e cibernetica; innovazione e transizione digitale; comunicazione istituzionale, in attuazione delle direttive del Ministro; consulenza tecnico-informatica agli uffici del Ministero; monitoraggio, elaborazione e controllo dei dati statistici; regolazione dei contratti pubblici di lavori, servizi e forniture; rapporti con organismi internazionali, europei e nazionali in materia di contratti pubblici, sorveglianza sulle grandi opere; gestione del contenzioso a supporto delle strutture del Ministero e consulenza legale; attivita' di controllo analogo sulle societa' in house del Ministero; rapporti con le competenti strutture amministrative del Ministero dell'economia e delle finanze per gli adempimenti comuni riguardanti l'organizzazione delle societa' vigilate in attuazione degli indirizzi del Ministro.
-
-2. A ciascun Dipartimento spetta, nelle materie di competenza, la gestione dei procedimenti in materia di infrastrutture strategiche avviati ai sensi della [legge 21 dicembre 2001, n. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-21;443), in raccordo con la Struttura tecnica di missione.
-
-Note all'[art. 3:   
-- La legge 21 dicembre 2001, n. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-21;443~art3) (Delega al Governo in materia di infrastrutture ed insediamenti produttivi strategici ed altri interventi per il rilancio delle attivita' produttive) e' pubblicata nella Gazzetta Ufficiale 27 dicembre 2001, n. 299.
-
-### Art. 4
-
-Dipartimento per le infrastrutture   
-e le reti di trasporto
-
-1. Il Dipartimento per le infrastrutture e le reti di trasporto e' articolato nelle seguenti direzioni generali:
-
-a) Direzione generale per lo sviluppo del territorio e i progetti internazionali;
-
-b) Direzione generale per le strade e la sicurezza delle infrastrutture stradali;
-
-c) Direzione generale per le autostrade e la vigilanza sui contratti di concessione autostradale;
-
-d) Direzione generale per il trasporto e le infrastrutture ferroviarie.
-
-2. La Direzione generale per lo sviluppo del territorio e i progetti internazionali supporta i tre Dipartimenti in materia di programmazione degli investimenti e, anche d'intesa con le competenti direzioni generali degli altri Dipartimenti, svolge le funzioni di competenza del Ministero nei seguenti ambiti di attivita':
-
-a) pianificazione strategica in materia di piani e programmi infrastrutturali e di governo del territorio, previo coordinamento e raccordo con la Struttura tecnica di missione e con gli altri Ministeri competenti e le regioni e le province autonome;
-
-b) pianificazione dell'articolazione territoriale delle reti infrastrutturali di rilevanza nazionale;
-
-c) piani di investimento e analisi economiche relative alle infrastrutture di settore;
-
-d) programmazione degli interventi di settore e relative procedure di approvazione;
-
-e) coordinamento con la programmazione economica nazionale nell'ambito del Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile (CIPESS);
-
-f) coordinamento e monitoraggio dello sviluppo della rete di trasporto transeuropea e dei corridoi multimodali e del relativo programma di finanziamento Connecting Europe Facility (CEF);
-
-g) piani e programmi di sviluppo e assetto del territorio in ambito urbano e nelle aree interne;
-
-h) fondi strutturali europei e gestione dei programmi europei di competenza;
-
-i) esercizio dei compiti relativi ai segretariati tecnici dei programmi europei affidati all'Italia ed alla conseguente attivita' di gestione e pagamento;
-
-l) adempimenti tecnici ed amministrativi relativi all'espletamento delle procedure di localizzazione di opere infrastrutturali di rilievo nazionale.
-
-3. La Direzione generale per le strade e la sicurezza delle infrastrutture stradali svolge le funzioni di competenza del Ministero nei seguenti ambiti:
-
-a) funzione di concedente, indirizzo e vigilanza amministrativo-contabile della rete stradale e programmazione della rete ANAS S.p.a.;
-
-b) predisposizione del contratto di programma con ANAS S.p.a. e relativo monitoraggio degli interventi infrastrutturali;
-
-c) attivita' di indirizzo, vigilanza amministrativa e controllo operativo su ANAS S.p.a. e sui gestori delle infrastrutture viarie appartenenti alla rete nazionale, ferme restando le competenze della Direzione generale per le autostrade e la vigilanza sui contratti di concessione autostradale e l'attivita' di vigilanza tecnica di ANSFISA;
-
-d) attivita' di predisposizione, gestione e monitoraggio degli atti convenzionali con ANAS S.p.a. ed enti territoriali e societa' miste regionali;
-
-e) approvazione delle concessioni di costruzione e gestione delle infrastrutture viarie e dei relativi aggiornamenti;
-
-f) vigilanza sulle modalita' di affidamento, sull'esecuzione dei lavori ai fini del rispetto degli obblighi contrattuali, con particolare riferimento alle infrastrutture prioritarie;
-
-g) cura delle relazioni e degli accordi internazionali ed europei nel settore delle reti di trasporto viario, compresa la partecipazione ai negoziati per la elaborazione della normativa europea di settore;
-
-h) approvazione dei programmi di adeguamento e messa in sicurezza delle infrastrutture di viabilita' di interesse statale e locale, ferme restando le competenze di ANSFISA;
-
-i) classificazione e declassificazione delle strade di competenza statale ai fini della programmazione, del monitoraggio e della vigilanza sul rispetto delle norme di sicurezza, ferme restando le competenze di ANSFISA;
-
-l) sviluppo delle attivita' concernenti le politiche europee in materia di infrastrutture stradali;
-
-m) gestione e assegnazione delle risorse relative alle infrastrutture stradali di interesse nazionale e locale;
-
-n) regolazione dei servizi stradali riferiti agli enti e organismi gestori delle strade;
-
-o) analisi degli investimenti e vigilanza sull'esecuzione degli stessi da parte di ANAS S.p.a.;
-
-p) approvazione dei progetti relativi ai lavori inerenti alla rete stradale di interesse nazionale;
-
-q) rapporti con il Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile, di seguito CIPESS, in materia di infrastrutture stradali;
-
-r) procedimenti in materia di infrastrutture strategiche di competenza avviati ai sensi della [legge 21 dicembre 2001, n. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-21;443);
-
-s) sviluppo e realizzazione delle ciclovie, in raccordo con la Direzione generale per il trasporto pubblico locale.
-
-4. La Direzione generale per le autostrade e la vigilanza sui contratti di concessione autostradali svolge le funzioni di competenza del Ministero nei seguenti ambiti di attivita':
-
-a) funzione di concedente, indirizzo e vigilanza amministrativo-contabile della rete autostradale;
-
-b) selezione dei concessionari autostradali e relativa aggiudicazione;
-
-c) attivita' di predisposizione, gestione e monitoraggio delle convenzioni di concessione autostradale e dei relativi piani economico-finanziari;
-
-d) predisposizione dei bandi di gara, convenzioni e piani economico-finanziari per l'affidamento di nuove concessioni a pedaggio e i rinnovi delle concessioni;
-
-e) approvazione delle concessioni di costruzione e gestione delle infrastrutture autostradali e dei relativi aggiornamenti;
-
-f) vigilanza sulle modalita' di affidamento, sull'esecuzione dei lavori ai fini del rispetto degli obblighi contrattuali contenuti negli atti di concessione;
-
-g) istruttoria relativa ai procedimenti di competenza ai fini dell'esame e dell'approvazione da parte del CIPESS;
-
-h) sviluppo delle attivita' concernenti le politiche europee in materia di infrastrutture autostradali;
-
-i) regolazione dei servizi autostradali riferiti agli enti e organismi gestori delle autostrade;
-
-l) controllo sulla qualita' del servizio autostradale anche ai fini dell'aggiornamento annuale delle tariffe dei concessionari autostradali;
-
-m) analisi degli investimenti e vigilanza sull'esecuzione degli stessi da parte delle societa' concessionarie autostradali;
-
-n) analisi dei piani tariffari e predisposizione della proposta annuale di adeguamento tariffario;
-
-o) approvazione, nei limiti e secondo le modalita' previsti dalle convenzioni di concessione, dei progetti relativi ai lavori inerenti alla rete autostradale di interesse nazionale;
-
-p) valutazione sull'ammissibilita' dei costi e degli investimenti effettuati per il calcolo degli adeguamenti tariffari annuali;
-
-q) monitoraggio della gestione economica e finanziaria dei concessionari e dei parametri di solidita' patrimoniale e verifica dell'andamento finanziario degli investimenti e delle manutenzioni inserite nei piani economici finanziari;
-
-r) predisposizione degli atti per l'aggiornamento o la revisione del piano economico-finanziario allegato alle convenzioni;
-
-s) adozione dei provvedimenti sanzionatori nei confronti dei concessionari autostradali, ferme restando le competenze di ANSFISA;
-
-t) vigilanza sull'adozione, da parte dei concessionari, dei provvedimenti ritenuti necessari ai fini della sicurezza del traffico autostradale, ferme restando le competenze di ANSFISA;
-
-u) procedimenti in materia di infrastrutture strategiche di competenza avviati ai sensi della [legge 21 dicembre 2001, n. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-21;443);
-
-v) rapporti con il CIPESS in materia di infrastrutture autostradali.
-
-5. La Direzione generale per il trasporto e le infrastrutture ferroviarie svolge le funzioni di competenza del Ministero nei seguenti ambiti di attivita':
-
-a) attivita' di vigilanza sull'attuazione dell'atto di concessione dell'infrastruttura ferroviaria nazionale, ferme restando le competenze di ANSFISA;
-
-b) contratti di programma, investimenti e servizi con il gestore della rete ferroviaria nazionale e vigilanza sulla relativa attuazione;
-
-c) attivita' di vigilanza sull'attuazione dei programmi infrastrutturali di settore e delle infrastrutture strategiche di settore (PIS) e dei programmi di messa in sicurezza;
-
-d) contratto di servizio per il trasporto ferroviario di passeggeri a media e lunga percorrenza e regolamentazione dell'attivita' in materia di trasporto merci per ferrovia;
-
-e) rilascio, revoca, sospensione e riesame quinquennale delle licenze alle imprese ferroviarie;
-
-f) interoperabilita' ferroviaria e normativa tecnica, riferita all'esercizio e all'infrastruttura;
-
-g) rapporti con organismi di certificazione notificati;
-
-h) rapporti con gli organismi dell'Unione europea per la definizione delle norme di settore e delle specifiche tecniche per l'interoperabilita' del sistema ferroviario transeuropeo;
-
-i) dismissione delle linee ferroviarie;
-
-l) vigilanza sulla gestione del patrimonio ferroviario;
-
-m) procedimenti in materia di infrastrutture strategiche di competenza avviati ai sensi della [legge 21 dicembre 2001, n. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-21;443);
-
-n) attuazione della [legge 9 agosto 2017, n. 128](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-08-09;128), in materia di ferrovie storiche e turistiche;
-
-o) istruttoria relativa ai procedimenti di competenza ai fine dell'esame e dell'approvazione da parte del CIPESS;
-
-p) rapporti internazionali nelle materie di competenza, in raccordo con gli Uffici di diretta collaborazione del Ministro.
-
-Note all'art. 4:   
-- Per la legge 21 dicembre 2021 dicembre 2001, n. 443, si veda nella nota all'art. 3.   
-- Le [legge 9 agosto 2017, n. 128](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-08-09;128) (Disposizioni per l'istituzione di ferrovie turistiche mediante il reimpiego di linee in disuso o in corso di dismissione situate in aree di particolare pregio naturalistico o archeologico) e' pubblicata nella Gazzetta Ufficiale 23 agosto 2017, n. 196.
-
-### Art. 5
-
-Dipartimento per le opere pubbliche e le politiche abitative
-
-1. Il Dipartimento per le opere pubbliche e le politiche abitative e' articolato nelle seguenti direzioni generali:
-
-a) Direzione generale per l'edilizia statale e gli interventi statali;
-
-b) Direzione generale per la casa e la riqualificazione urbana;
-
-c) Direzione generale per le dighe e le infrastrutture idriche.
-
-2. La Direzione generale per l'edilizia statale e gli interventi speciali svolge le funzioni di competenza del Ministero nei seguenti ambiti di attivita':
-
-a) opere pubbliche di competenza statale, ivi compresi gli interventi di edilizia giudiziaria, penitenziaria, demaniale di competenza statale, di edilizia per le Forze armate e di Polizia nonche' dei Vigili del fuoco e per la messa in sicurezza degli edifici scolastici;
-
-b) supporto alle amministrazioni pubbliche, anche locali, per l'esecuzione di interventi sulle opere pubbliche anche attraverso i
-
-((Provveditorati regionali e interregionali))
-
-;
-
-c) attivita' tecnico-amministrativa per l'espletamento delle funzioni statali di competenza del Ministero funzionali alla definizione dei criteri per l'individuazione delle zone sismiche e delle norme tecniche per le costruzioni, su proposta del Consiglio Superiore dei Lavori Pubblici;
-
-d) interventi per la ricostruzione dei territori colpiti da eventi sismici, ferme restando le competenze della Presidenza del Consiglio dei ministri in materia di protezione civile e ricostruzione previste a legislazione vigente;
-
-e) interventi di competenza statale per Roma Capitale;
-
-f) interventi previsti da leggi speciali e connessi allo svolgimento di grandi eventi;
-
-g) eliminazione barriere architettoniche negli edifici pubblici;
-
-h) attivita' per la tutela e la salvaguardia della laguna di Venezia;
-
-i) programmazione, gestione ed esecuzione diretta degli interventi di costruzione, ampliamento, manutenzione, adeguamento, risanamento e restauro sul patrimonio immobiliare adibito a sede di organi costituzionali e di rilevanza costituzionale ovvero di organismi di rilevanza internazionale ubicati nell'area di Roma Capitale;
-
-l) procedimenti in materia di infrastrutture strategiche nelle materie di competenza avviati ai sensi della [legge 21 dicembre 2001, n. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-21;443);
-
-m) interventi inerenti a progetti infrastrutturali in attuazione di accordi internazionali;
-
-n) programmi di competenza ministeriale in materia di efficientamento energetico degli edifici sedi di pubbliche istituzioni;
-
-o) gestione delle attivita' inerenti all'applicazione dell'[articolo 60, comma 3, del decreto legislativo 31 marzo 2023, n. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36~art60-com3).
-
-3. La Direzione generale per la casa e la riqualificazione urbana svolge le funzioni di competenza del Ministero nei seguenti ambiti di attivita':
-
-a) gestione delle iniziative di competenza dirette a far fronte al disagio abitativo;
-
-b) edilizia residenziale, agevolata, sovvenzionata e cooperative edilizie;
-
-c) valutazioni e proposte relative alla disciplina delle locazioni, dell'edilizia, dell'urbanistica e dell'espropriazione per pubblica utilita', ferme restando le competenze degli enti locali;
-
-d) monitoraggio del fenomeno dell'abusivismo edilizio e supporto agli enti locali ed alle regioni nella individuazione e repressione dello stesso;
-
-e) monitoraggio e raccolta dati sul fenomeno della repressione delle violazioni urbanistiche e coordinamento dell'attivita' delle commissioni per l'uso della forza pubblica;
-
-f) osservatorio nazionale della condizione abitativa di cui all'[articolo 59 del decreto legislativo 31 marzo 1998, n. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-03-31;112~art59);
-
-g) gestione dei programmi, anche europei, concernenti le politiche abitative nonche' la riqualificazione urbana, il recupero del patrimonio edilizio e le relative politiche di incentivazione;
-
-h) programmi di competenza in materia di efficientamento energetico delle abitazioni.
-
-4. La Direzione generale per le dighe e le infrastrutture idriche svolge le funzioni di competenza del Ministero nei seguenti ambiti di attivita':
-
-a) approvazione tecnica dei progetti e vigilanza sulla costruzione e sulle operazioni di controllo che i gestori e i concessionari sono tenuti ad espletare sul funzionamento delle dighe in invaso sperimentale aventi le caratteristiche indicate all'[articolo 1, comma 1, del decreto-legge 8 agosto 1994, n. 507](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-08-08;507~art1-com1), convertito, con modificazioni, dalla [legge 21 ottobre 1994, n. 584](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-10-21;584), di seguito grandi dighe, e adozione dei provvedimenti previsti dalla normativa di settore;
-
-b) approvazione tecnica dei progetti di manutenzione straordinaria e ristrutturazione, vigilanza sulle operazioni di controllo che i gestori e i concessionari sono tenuti ad espletare sul funzionamento delle grandi dighe in esercizio, e adozione dei provvedimenti previsti dalla normativa di settore;
-
-c) istruttoria tecnica e approvazione delle rivalutazioni delle condizioni di sicurezza sismica e idrologico-idraulica delle grandi dighe e approvazione dei relativi progetti di miglioramento e adeguamento;
-
-d) approvazione tecnica dei progetti delle opere di derivazione e di adduzione all'utilizzazione, nonche' vigilanza sulla costruzione e sulle operazioni di controllo e di manutenzione che i gestori e i concessionari sono tenuti ad espletare, nonche' adozione dei provvedimenti previsti dal regolamento di cui all'[articolo 6, comma 4-bis, della legge 1° agosto 2002, n. 166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-08-01;166~art6-com4bis);
-
-e) approvazione tecnica dei progetti e vigilanza sulla costruzione e sulle operazioni di controllo delle opere affidate dalle Province autonome di Trento e Bolzano ai sensi dell'[articolo 5 del decreto del Presidente della Repubblica del 22 marzo 1974, n. 381](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-03-22;381~art5);
-
-f) istruttoria tecnica e parere di competenza sui progetti di gestione degli invasi nell'ambito del procedimento di approvazione regionale;
-
-g) programmazione e monitoraggio degli investimenti per l'incremento della sicurezza delle grandi infrastrutture idriche, ivi comprese le grandi dighe, e delle loro derivazioni, anche ai fini del contrasto ai fenomeni di siccita' e alluvionali;
-
-h) procedimenti in materia di infrastrutture strategiche di competenza avviati ai sensi della [legge 21 dicembre 2001, n. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-21;443);
-
-i) sottoscrizione degli accordi di programma di cui all'[articolo 158 del decreto legislativo 3 aprile 2006, n. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152~art158);
-
-l) attivita' concernenti l'emanazione della normativa tecnica e tecnico-amministrativa in materia di dighe e di infrastrutture idriche ed elettriche;
-
-m) supporto e assistenza tecnica alle componenti del Servizio nazionale della Protezione civile in materia di dighe e di infrastrutture idriche, compresi i piani di laminazione;
-
-n) supporto nell'ambito dei rapporti con le autorita' di bacino distrettuali e con le altre pubbliche amministrazioni nelle materie di competenza;
-
-o) supporto allo sviluppo del sistema informativo relativo alle grandi dighe e alle opere di derivazione in raccordo con la Direzione generale per la digitalizzazione e la relativa gestione applicativa;
-
-p) programmi nazionali in materia di crisi idriche.
-
-5. Dalla Direzione generale per le dighe e le infrastrutture idriche dipendono funzionalmente gli Uffici tecnici per le dighe, che costituiscono articolazioni territoriali del Ministero di livello dirigenziale non generale.
-
-### Art. 6
-
-Dipartimento per i trasporti e la navigazione
-
-1. Il Dipartimento per i trasporti e la navigazione e' articolato nelle seguenti direzioni generali:
-
-a) Direzione generale per i porti, la logistica e l'intermodalita';
-
-b) Direzione generale per la motorizzazione;
-
-c) Direzione generale per la sicurezza stradale e l'autotrasporto;
-
-d) Direzione generale per il trasporto pubblico locale;
-
-e) Direzione generale per il mare, il trasporto marittimo e per vie d'acqua interne;
-
-f) Direzione generale per gli aeroporti, il trasporto aereo e i servizi satellitari.
-
-2. La Direzione generale per i porti, la logistica e l'intermodalita' svolge le funzioni di competenza del Ministero nei seguenti ambiti di attivita':
-
-a) indirizzo, vigilanza e controllo sulle Autorita' di sistema portuale, anche con riferimento all'attuazione dei programmi infrastrutturali;
-
-b) indirizzo, regolazione e disciplina dei servizi tecnico-nautici, del lavoro nei porti e di altri servizi portuali residuali;
-
-c) disciplina generale dei porti;
-
-d) esame dei documenti di pianificazione strategica di sistema delle Autorita' di sistema portuale;
-
-e) programmazione di settore e assegnazione di risorse finanziarie per la realizzazione di infrastrutture portuali;
-
-f) elaborazione di proposte normative, di indirizzo e coordinamento in materia di prevenzione e sicurezza del lavoro portuale;
-
-g) amministrazione del demanio marittimo per quanto di competenza e attivita' correlate al riordino della dividente demaniale;
-
-h) gestione applicativa e supporto allo sviluppo del Sistema informativo del demanio marittimo (SID-il Portale del Mare), in coordinamento con la Direzione generale per la digitalizzazione;
-
-i) predisposizione di piani strategici della logistica;
-
-l) analisi, monitoraggio e statistiche dei flussi logistici e della mobilita' di merci;
-
-m) definizione di programmi e interventi nel settore interportuale e logistico;
-
-n) interventi finanziari e incentivanti per il settore e a favore dell'intermodalita';
-
-o) cura delle relazioni e definizione di accordi internazionali, anche al di fuori dello spazio economico europeo, nel settore del trasporto combinato su strada e del trasporto intermodale, negli ambiti di competenza della direzione, nonche' conduzione delle negoziazioni per l'elaborazione della normativa e degli altri atti dell'Unione europea e internazionali di settore e connessa normativa di recepimento o attuazione, assicurando il raccordo con gli uffici di diretta collaborazione del Ministro;
-
-p) procedimenti in materia di infrastrutture strategiche di competenza avviati ai sensi della [legge 21 dicembre 2001, n. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-21;443);
-
-q) istruttoria relativa ai procedimenti di competenza ai fini dell'esame e dell'approvazione da parte del CIPESS.
-
-3. La Direzione generale per la motorizzazione svolge le funzioni di competenza del Ministero nei seguenti ambiti di attivita':
-
-a) disciplina amministrativa e tecnica dei veicoli e dei conducenti;
-
-b) autorizzazioni e sperimentazione dei veicoli a guida autonoma;
-
-c) omologazione nazionale, CEE e ECE/ONU di veicoli, dispositivi e unita' tecniche indipendenti;
-
-d) predisposizione di proposte normative e disciplina tecnica di settore, ivi compresa quella relativa alle procedure di omologazione e approvazione dei veicoli e dei recipienti per il trasporto di merci pericolose su strada;
-
-e) disciplina del trasporto di derrate in regime di temperatura controllata;
-
-f) controlli periodici sul parco circolante e sulle attrezzature di servizio;
-
-g) disciplina tecnica della micro-mobilita' e della mobilita' eco-sostenibile;
-
-h) relazioni internazionali e europee nelle materie di competenza in raccordo con gli uffici di diretta collaborazione del Ministro;
-
-i) progettazione, manutenzione, evoluzione, gestione, popolamento e sviluppo degli archivi nazionali dei veicoli e dei conducenti, nonche' della base dati degli eventi di traffico;
-
-l) conduzione, gestione e sviluppo dei sistemi informativi specialistici e delle relative basi di dati, finalizzati alla erogazione, agli uffici della motorizzazione civile, centri prova autoveicoli (CPA), centro superiore ricerche prove autoveicoli e dispositivi (CSRPAD), alle direzioni generali territoriali, agli utenti privati e operatori professionali dei servizi telematici connessi all'esercizio delle funzioni del Dipartimento;
-
-m) progettazione, manutenzione, evoluzione, gestione e sviluppo degli archivi e registri elettronici istituiti, quali il Registro Elettronico Nazionale (REN), taxi e noleggio con conducente (NCC), unita' da diporto, ispettori delle revisioni, nonche' degli eventuali ulteriori registri istituiti presso il Dipartimento in ragione delle competenze ad esso attribuite;
-
-n) attuazione delle disposizioni del [codice della strada](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285) ed eventuali proposte di revisione dello stesso nelle materie di competenza.
-
-4. La Direzione generale per la sicurezza stradale e l'autotrasporto svolge le funzioni di competenza del Ministero nei seguenti ambiti di attivita':
-
-a) adozione e attuazione del piano nazionale della sicurezza stradale e dei relativi programmi operativi; disciplina tecnica delle infrastrutture stradali;
-
-b) attuazione delle disposizioni del [codice della strada](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285) ed eventuali proposte di revisione dello stesso nelle materie di competenza;
-
-c) sviluppo della normativa tecnica per la circolazione stradale, compresa l'attivita' di sperimentazione dei nuovi veicoli e sistemi di controllo;
-
-d) omologazione dei dispositivi segnaletici di regolazione e controllo della circolazione stradale;
-
-e) autorizzazione all'esercizio di sistemi di controllo degli accessi alle zone a traffico limitato (ZTL);
-
-f) rapporti con gli enti locali, nazionali e internazionali in raccordo con gli uffici di diretta collaborazione del Ministro nelle materie di competenza;
-
-g) sviluppo dei programmi di intervento per la sicurezza della mobilita' stradale e la protezione degli utenti della strada;
-
-h) attivita' di comunicazione istituzionale per la prevenzione e l'informazione in materia di sicurezza stradale e attivita' inerenti all'educazione alla sicurezza stradale;
-
-i) vigilanza sul mercato dei veicoli e dei connessi dispositivi di sicurezza ai sensi della normativa europea di settore;
-
-l) gestione di progetti innovativi anche di carattere interdisciplinare, in raccordo con la Direzione generale per la digitalizzazione;
-
-m) gestione della centrale operativa del Centro di coordinamento delle informazioni di sicurezza stradale e dei progetti nazionali ed internazionali in materia di infomobilita';
-
-n) disciplina in materia di trasporti nazionali e internazionali di persone e cose su strada, trasporto combinato intermodale e multimodale;
-
-o) licenze e autorizzazioni per trasporto nazionale e internazionale di persone e cose;
-
-p) predisposizione di proposte normative e disciplina tecnica di settore;
-
-q) procedure per l'accesso alla professione e al mercato del trasporto di persone e cose;
-
-r) disciplina e direttive amministrative per la tenuta e gestione del Registro Elettronico Nazionale (REN) delle imprese di trasporto su strada e punto di contatto nazionale ai sensi del [Regolamento (CE) n. 1071/2009 del Parlamento europeo e del Consiglio, del 21 ottobre 2009](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009R1071), in coordinamento, per gli aspetti tecnici, con la Direzione generale per la motorizzazione;
-
-s) programmazione e coordinamento delle attivita' di controllo previste dalla normativa europea;
-
-t) rapporti con il Comitato centrale per l'albo nazionale degli autotrasportatori di cui al comma 8;
-
-u) regolazione, per quanto di competenza, del trasporto pubblico non di linea.
-
-5. La Direzione generale per il trasporto pubblico locale svolge le funzioni di competenza del Ministero nei seguenti ambiti di attivita':
-
-a) elaborazione della normativa tecnica ed effettuazione di ricerche e adempimenti in materia di sicurezza dei sistemi di trasporto rapido di massa, di impianti a fune, scale mobili, ascensori e tappeti mobili;
-
-b) adempimenti in materia di sicurezza relativi a sistemi di trasporto rapido di massa, escluse le metropolitane, di impianti a fune, scale mobili, ascensori e tappeti mobili;
-
-c) esame tecnico dei progetti di nuova realizzazione o di modifiche sostanziali relativi ai sistemi di trasporto rapido di massa, sottosistemi connessi, nonche' agli impianti a fune, scale mobili, ascensori e tappeti mobili, ai fini del nulla osta per l'apertura all'esercizio degli impianti e per l'immissione in servizio dei sottosistemi;
-
-d) supporto al Comitato tecnico permanente per la sicurezza dei trasporti ad impianti fissi istituito ai sensi dell'[articolo 8, comma 9-bis, del decreto-legge 18 ottobre 2012, n. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-18;179~art8-com9bis), convertito, con modificazioni, dalla [legge 17 dicembre 2012, n. 221](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-17;221), e alla Commissione per le funicolari aeree e terrestri istituita con [regio decreto 17 gennaio 1926, n. 177](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-17;177);
-
-e) coordinamento degli interventi di competenza statale per l'ammodernamento, il potenziamento e la messa in sicurezza delle ferrovie regionali, in collaborazione con ANSFISA, anche mediante la stipula di accordi ai sensi dell'[articolo 15 della legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art15);
-
-f) istruttoria e valutazione, sotto il profilo tecnico-economico, dei progetti nelle materie di competenza, ai fini della loro finanziabilita';
-
-g) gestione del fondo per il concorso dello Stato agli oneri del trasporto pubblico locale e ferroviario regionale istituito ai sensi dell'[articolo 16-bis del decreto-legge 6 luglio 2012, n. 95](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95~art16bis), convertito, con modificazioni, dalla [legge 7 agosto 2012, n. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135), e relativi adempimenti istruttori per il riparto delle risorse con il concorso dell'Osservatorio di cui all'[articolo 1, comma 300, della legge 24 dicembre 2007, n. 244](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244~art1-com300);
-
-h) ripartizione ed erogazione di contributi per i sistemi di trasporto pubblico locale e relativo monitoraggio;
-
-i) gestione dell'Osservatorio di cui all'[articolo 1, comma 300, della legge 24 dicembre 2007, n. 244](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244~art1-com300);
-
-l) gestione diretta dei servizi ferroviari locali non attribuiti alle competenze delle Regioni;
-
-m) approvazione dei bilanci delle societa' del Ministero delle infrastrutture e dei trasporti esercenti servizi ferroviari regionali, in raccordo con la Direzione generale per gli affari legali, societari e i contratti pubblici;
-
-n) rapporti con gli organismi europei nelle materie di competenza;
-
-o) procedimenti in materia di infrastrutture strategiche di competenza avviati ai sensi della [legge 21 dicembre 2001, n. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-21;443), e rapporti con il CIPESS, per quanto di competenza;
-
-p) coordinamento funzionale degli Uffici speciali trasporti a impianti fissi (USTIF), ferme restando le competenze di ANSFISA.
-
-6. La Direzione generale per il mare, il trasporto marittimo e per vie d'acqua interne svolge le funzioni di competenza del Ministero nei seguenti ambiti di attivita':
-
-a) predisposizione di proposte normative e disciplina tecnica in materia di navigazione marittima;
-
-b) promozione della navigazione a corto raggio;
-
-c) gestione del registro internazionale delle navi;
-
-d) servizi sovvenzionati di collegamento marittimo con le isole e rapporti istituzionali con la Gestione governativa dei servizi pubblici di linea di navigazione sui laghi Maggiore, di Garda e di Como;
-
-e) disciplina e vigilanza sulle attivita' autorizzate ed affidate agli organismi di classificazione;
-
-f) disciplina del bunkeraggio delle navi e normativa sui servizi chimici di porto;
-
-g) elaborazione di proposte inerenti alla disciplina nazionale, internazionale ed europea in materia di trasporto marittimo e per vie d'acqua interne, trasporto merci pericolose in vie d'acqua interne, monitoraggio sul trasporto delle persone a mobilita' ridotta;
-
-h) elaborazione di proposte normative, di indirizzo e coordinamento in materia di prevenzione e sicurezza del lavoro marittimo;
-
-i) interventi a sostegno della flotta, delle costruzioni navali, della ricerca e dell'innovazione;
-
-l) vigilanza sugli enti di settore;
-
-m) regolazione della nautica da diporto e gestione dell'ufficio conservatoria nautica da diporto (UCON);
-
-n) funzione di autorita' competente per la pianificazione dello spazio marittimo;
-
-o) gestione del personale marittimo e della navigazione interna per quanto di competenza;
-
-p) rapporti con gli organismi internazionali, coordinamento con organismi europei e nazionali, per quanto di competenza, in raccordo con gli uffici di diretta collaborazione del Ministro;
-
-q) monitoraggio sulle inchieste sui sinistri marittimi e sugli infortuni del personale marittimo;
-
-r) promozione e gestione del sistema idroviario padano-veneto;
-
-s) promozione e sviluppo delle autostrade del mare per quanto di competenza;
-
-t) promozione di politiche sostenibili nell'ambito dei sistemi di propulsione alternativi delle navi;
-
-u) procedimenti in materia di infrastrutture strategiche di competenza avviati ai sensi della [legge 21 dicembre 2001, n. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-21;443);
-
-v) istruttoria relativa ai procedimenti di competenza ai fini dell'esame e dell'approvazione da parte del CIPESS.
-
-7. La Direzione generale per gli aeroporti, il trasporto aereo e i servizi satellitari, ferme restando le funzioni attribuite all'Ente nazionale aviazione civile (ENAC) dal [decreto legislativo 25 luglio 1997, n. 250](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-25;250), e all'Autorita' di regolazione dei trasporti di cui all'[articolo 37 del decreto-legge 6 dicembre 2011, n. 201](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201~art37), convertito, con modificazioni, dalla [legge 22 dicembre 2011, n. 214](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-12-22;214), svolge le funzioni di competenza del Ministero nei seguenti ambiti di attivita':
-
-a) disciplina dell'aviazione civile, normativa di settore europea e accordi internazionali;
-
-b) indirizzo, vigilanza e controllo sugli enti del settore aereo e aeroportuale;
-
-c) contratti di programma con gli enti vigilati;
-
-d) indirizzo e vigilanza in materia aeronautica, sicurezza aerea e aeroportuale e sulla qualita' del trasporto aereo;
-
-e) provvedimenti di competenza in materia di demanio aeronautico civile;
-
-f) pianificazione, programmazione in materia di aeroporti e sistemi aeroportuali, valutazione dei piani d'investimento e definizione, in coordinamento con ENAC, delle opere infrastrutturali da realizzare;
-
-g) analisi del mercato dell'aviazione civile, azioni a supporto della tutela della concorrenza e delle dinamiche tariffarie, per quanto di competenza;
-
-h) interventi nel settore dell'aviazione civile a sostegno della mobilita' dei passeggeri e delle merci;
-
-i) provvedimenti in materia di tariffe di navigazione aerea per la gestione dello spazio aereo;
-
-l) istruttorie per l'approvazione dei contratti di programma tra ENAC e soggetti gestori;
-
-m) procedimenti in materia di infrastrutture strategiche di competenza avviati ai sensi della [legge 21 dicembre 2001, n. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-21;443), e rapporti con il CIPESS, per quanto di competenza;
-
-n) definizione di criteri di gestione dei servizi di controllo satellitare applicati alla logistica e ai trasporti di persone e di merci.
-
-8. Nell'ambito del Dipartimento per i trasporti e la navigazione opera il Comitato centrale per l'albo nazionale degli autotrasportatori, il quale esercita le funzioni di competenza, in conformita' a quanto previsto dal [decreto legislativo 21 novembre 2005, n. 284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-21;284), cui e' preposto un dirigente generale nominato ai sensi dell'[articolo 19, commi 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165~art19-com4) e [10, del decreto legislativo n. 165 del 2001](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165~art19-com10), nell'ambito della dotazione organica complessiva del Ministero.
-
-8-bis. 
-
-((Nell'ambito del Dipartimento per i trasporti e la navigazione, opera, alle dipendenze della Direzione generale per il trasporto pubblico locale, la Struttura nazionale di supporto per i Piani urbani della mobilita' sostenibile (PUMS), designata quale punto di contatto nazionale ai sensi dell'[articolo 41, paragrafo 4, del regolamento (UE) 2024/1679 del Parlamento europeo e del Consiglio, del 13 giugno 2024](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32024R1679), cui e' preposto un dirigente di livello non generale nell'ambito della dotazione organica complessiva del Ministero. La Struttura di cui al primo periodo svolge le funzioni strumentali alla piena attuazione del citato [regolamento (UE) 2024/1679](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2024;1679), comprese le funzioni in materia di supporto e assistenza ai fini dell'adozione e del monitoraggio dei PUMS, nonche' per la predisposizione del programma nazionale per i PUMS.))
-
-### Art. 7
-
-Dipartimento per gli affari generali e la digitalizzazione
-
-1. Il Dipartimento per gli affari generali e la digitalizzazione e' articolato nelle seguenti direzioni generali:
-
-a) Direzione generale del personale, degli affari generali e del bilancio;
-
-b) Direzione generale per la digitalizzazione;
-
-c) Direzione generale per gli affari legali, societari e i contratti pubblici.
-
-2. La Direzione generale del personale, degli affari generali e del bilancio svolge le funzioni di competenza del Ministero nei seguenti ambiti di attivita':
-
-a) trattamento giuridico del personale, reclutamento, formazione e riqualificazione del personale; tenuta dei ruoli della dirigenza e del personale non dirigenziale, della matricola e dei fascicoli personali;
-
-b) supporto e coordinamento per la redazione e per la gestione del bilancio del Ministero;
-
-c) sviluppo di politiche per il personale, per favorire il benessere organizzativo, le pari opportunita' e contrasto al mobbing e alle condotte discriminatorie;
-
-d) relazioni sindacali;
-
-e) trattamento economico e pensionistico del personale;
-
-f) interventi assistenziali e previdenziali ai sensi della [legge 16 febbraio 1967, n. 14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-02-16;14), gestione applicativa delle banche dati per la gestione del personale, con il supporto della Direzione generale per la digitalizzazione;
-
-g) gestione del contenzioso del lavoro e procedimenti disciplinari;
-
-h) servizio ispettivo in materia di personale;
-
-i) attivita' di competenza del datore di lavoro, comprese quelle di prevenzione e sicurezza del luogo di lavoro;
-
-l) gestione delle procedure amministrativo-contabili relative alle attivita' strumentali, alle attivita' contrattuali e convenzionali delle sedi centrali;
-
-m) coordinamento delle attivita' propedeutiche alla presa in consegna degli immobili degli uffici centrali e periferici;
-
-n) razionalizzazione della gestione degli immobili e degli spazi degli uffici centrali e territoriali;
-
-o) rapporti con l'Agenzia del demanio per le questioni inerenti alle sedi ministeriali;
-
-p) individuazione delle coperture finanziarie per gli interventi di competenza del Ministero, attraverso la verifica e il monitoraggio dell'impiego delle risorse disponibili, e supporto alle direzioni generali dei quattro Dipartimenti, anche attraverso il rilascio di pareri;
-
-q) tenuta dell'anagrafe delle prestazioni di cui alla [legge 30 dicembre 1991, n. 412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;412), e istruttoria per il rilascio delle autorizzazioni allo svolgimento di incarichi aggiuntivi;
-
-r) rilascio al personale di tessere di servizio e di riconoscimento;
-
-s) abilitazioni del personale del Ministero all'espletamento dei servizi di libera circolazione e polizia stradale, di cui all'[articolo 12, comma 3, del decreto legislativo 30 aprile 1992, n. 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art12-com3) e successive modificazioni;
-
-t) cura della gestione dell'ufficio relazioni con il pubblico;
-
-u) gestione della biblioteca del Ministero;
-
-v) gestione e manutenzione dei beni patrimoniali del Ministero e regolamentazione del loro uso;
-
-z) gestione dei servizi comuni e dei servizi tecnici;
-
-aa) attivita' di competenza dell'ufficiale rogante;
-
-bb) istruttoria procedure di interpello per il conferimento di incarichi dirigenziali in raccordo con le strutture interessate;
-
-cc) assistenza giuridico-amministrativa alla Cassa di previdenza e assistenza.
-
-3. La Direzione generale per la digitalizzazione:
-
-a) trasformazione digitale, riorganizzazione dei processi, promozione dei principi dell'amministrazione digitale e degli open data e definizione degli indirizzi per la digitalizzazione, in coerenza con le linee strategiche dell'Agenda digitale, in raccordo con i Dipartimenti e con le strutture di diretta collaborazione del Ministro;
-
-b) attuazione delle disposizioni del [Codice dell'amministrazione digitale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82), con particolare riferimento all'accesso telematico e al riutilizzo dei dati del Ministero nonche' alla loro accessibilita';
-
-c) sviluppo integrato e gestione dell'infrastruttura tecnologica, delle reti, dei sistemi di telecomunicazione, dei dati e dei servizi web, dei flussi informativi del Ministero;
-
-d) monitoraggio e tutela della sicurezza informatica e dei dati;
-
-e) coordinamento delle attivita' di monitoraggio e tutela delle infrastrutture critiche;
-
-f) gestione dell'Archivio informatico nazionale delle opere pubbliche, di cui all'[articolo 13 del decreto-legge 28 settembre 2018, n. 109](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-09-28;109~art13), convertito, con modificazioni, dalla [legge 16 novembre 2018, n. 130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-11-16;130);
-
-g) coordinamento relativo alle attivita' di sviluppo dei sistemi informativi gestiti dagli uffici del Ministero;
-
-h) supporto tecnico-operativo alle strutture di diretta collaborazione del Ministro coinvolte nella definizione e nel monitoraggio delle attivita' di cyber security, comprese quelle di cui al [decreto legislativo 18 maggio 2018, n. 65](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-05-18;65), e alla [legge 18 novembre 2019, n. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-11-18;133);
-
-i) coordinamento, sviluppo integrato e gestione tecnica delle applicazioni e dei siti internet istituzionali del Ministero e del Comando generale del Corpo delle capitanerie di porto;
-
-l) promozione dell'innovazione digitale nelle attivita' di competenza del Ministero in raccordo con le strutture di diretta collaborazione del Ministro che monitorano il processo di digitalizzazione;
-
-m) comunicazione istituzionale, formazione in ambito informatico, consulenza tecnico-informatica agli uffici del Ministero;
-
-n) funzioni di ufficio di statistica del Ministero ai sensi dell'[articolo 3 del decreto legislativo n. 322 del 1989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989;322~art3), nonche' attivita' di studio finalizzata alla elaborazione e al recepimento della normativa europea in materia di statistiche di settore;
-
-o) produzione e diffusione di statistiche ufficiali di settore, con particolare riguardo per il Conto nazionale delle infrastrutture e dei trasporti;
-
-p) gestione delle attivita' digitali di competenza del Ministero di cui al [decreto legislativo 31 marzo 2023, n. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36);
-
-q) cyber security, in raccordo con l'Organo Centrale di Sicurezza secondo gli indirizzi del Ministro;
-
-r) gestione dell'Osservatorio per le smart road, di cui all'[articolo 43, comma 2-bis, del decreto-legge 31 maggio 2021, n. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-31;77~art43-com2bis), convertito, con modificazioni, dalla [legge 29 luglio 2021, n. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-07-29;108);
-
-s) supporto tecnico-operativo alla Direzione generale del personale, degli affari generali e del bilancio per il sistema di gestione delle presenze e della banca dati del personale.
-
-4. La Direzione generale per gli affari legali
-
-((, societari))
-
-e i contratti pubblici svolge le funzioni di competenza del Ministero nei seguenti ambiti di attivita':
-
-a) consulenza legale e giuridica a supporto delle attivita' dei Dipartimenti;
-
-b) gestione del contenzioso e rapporti con l'Avvocatura Generale dello Stato in tutte le materie di competenza del Ministero, in raccordo con le Direzioni generali;
-
-c) supporto agli Uffici di diretta collaborazione del Ministro in relazione all'attivita' di contenzioso regionale, costituzionale, europeo ed internazionale di competenza dei medesimi Uffici;
-
-d) supporto agli Uffici di diretta collaborazione del Ministro ai fini della redazione dell'Analisi di Impatto della Regolamentazione (AIR), di cui al [decreto del Presidente del Consiglio dei ministri 15 settembre 2017, n. 169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2017-09-15;169);
-
-e) verifica dell'impatto della regolamentazione (VIR), di cui al [decreto del Presidente del Consiglio dei ministri 19 novembre 2009, n. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2009-11-19;212);
-
-f) coordinamento delle attivita' di controllo analogo sulle societa' in house del Ministero, in raccordo con gli Uffici di diretta collaborazione del Ministro;
-
-g) attivita' di sorveglianza sulle grandi opere;
-
-h) rapporti con l'Autorita' nazionale anticorruzione (ANAC);
-
-i) indirizzo, regolazione, supporto e consulenza in materia di contratti pubblici ad amministrazioni ed enti pubblici, nonche' in relazione agli affidamenti di cui all'[articolo 225, comma 10, del decreto legislativo 31 marzo 2023, n. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36~art225-com10);
-
-l) gestione del Servizio contratti pubblici, in coordinamento con la Direzione generale per la digitalizzazione;
-
-m) attuazione delle disposizioni del [codice dei contratti pubblici](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163).
-
-5. Il dirigente preposto alla Direzione generale per gli affari legali
-
-((, societari))
-
-e i contratti pubblici e' il responsabile della prevenzione della corruzione e della trasparenza di cui alla [legge 6 novembre 2012, n. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-11-06;190).
-
-6. Il dirigente preposto alla Direzione generale per la digitalizzazione e' il responsabile per la protezione dei dati (RPD) ai sensi del [regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32016R0679).
-
-CAPO III Capo III L'organizzazione territoriale
------------------------------------------------
-
-### Art. 8
-
-((I Provveditorati regionali e interregionali per le opere pubbliche))
-
-  
-  
 1.
 
-((Costituiscono strutture decentrate del Ministero, dipendenti dal Dipartimento per le opere pubbliche e le politiche abitative, i Provveditorati regionali e interregionali per le opere pubbliche, individuati secondo gli ambiti territoriali e le sedi che seguono))
-
-:   
-a)
-
-((Provveditorato interregionale per le opere pubbliche per le regioni Piemonte, Valle d'Aosta e Liguria, con sede in Torino e sede coordinata in Genova;))
-
-  
-b)
-
-((Provveditorato regionale per le opere pubbliche per la Lombardia, con sede in Milano;))
-
-  
-c)
-
-((Provveditorato regionale per le opere pubbliche per l'Emilia-Romagna con sede in Bologna;))
-
-  
-d)
-
-((Provveditorato interregionale per le opere pubbliche per le regioni Veneto, Trentino-Alto Adige e Friuli-Venezia Giulia, con sede in Venezia e sedi coordinate in Trento e in Trieste;))
-
-  
-e)
-
-((Provveditorato interregionale per le opere pubbliche per le regioni Toscana, Marche e Umbria, con sede in Firenze e sedi coordinate in Perugia e in Ancona;))
-
-  
-f)
-
-((Provveditorato interregionale per le opere pubbliche per le regioni Lazio, Abruzzo e Sardegna, con sede in Roma e sedi coordinate in L'Aquila e in Cagliari;))
-
-  
-g)
-
-((Provveditorato interregionale per le opere pubbliche per le regioni Campania e Molise con sede in Napoli e sede coordinata in Campobasso;))
-
-  
-h)
-
-((Provveditorato interregionale per le regioni Puglia e Basilicata, con sede in Bari e sede coordinata in Potenza;))
-
-  
-i)
-
-((Provveditorato interregionale per le opere pubbliche per le regioni Sicilia e Calabria, con sede in Palermo e sede coordinata in Catanzaro.))
-
-  
-2. A ciascun Provveditorato
-
-((regionale e))
-
-interregionale e' preposto un dirigente di livello generale denominato «Provveditore per le opere pubbliche», nominato ai sensi dell'[articolo 19, comma 4, del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art19-com4).   
-3. I dirigenti di cui al comma 2 rispondono al Capo del Dipartimento in ordine al raggiungimento degli obiettivi ad essi affidati.   
-4. Il Provveditore per le opere pubbliche e' datore di lavoro nelle sedi di competenza.   
-5. Presso ogni sede coordinata il Provveditore per le opere pubbliche, d'intesa con il Capo Dipartimento, che informa previamente il Ministro, nel rispetto del contingente dirigenziale non generale attribuito all'Ufficio decentrato, nomina un dirigente coordinatore e responsabile della sede coordinata al quale possono essere attribuite anche funzioni vicarie.   
-6. Il Provveditore per le opere pubbliche cura la definizione dei procedimenti pendenti in materia di demanio idrico e opere idrauliche trasferite alle Regioni ai sensi del [decreto legislativo 31 marzo 1998, n. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-03-31;112).   
-
-### Art. 9
-
-((Competenze dei Provveditorati regionali e interregionali per le opere pubbliche))
-
-1. Ferme restando le competenze in materia infrastrutturale delle Regioni e delle Province autonome di Trento e Bolzano, i
-
-((Provveditorati regionali e interregionali))
-
-assicurano, in sede decentrata, l'esercizio delle funzioni e dei compiti di spettanza statale nelle aree funzionali di cui all'articolo 42, comma 1, lettere a), b), d-ter), d-quater), e, per quanto di competenza, [lettera d-bis), del decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300~letdbis).
-
-2. Fatto salvo quanto disposto dal [decreto legislativo 31 marzo 1998, n. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-03-31;112), e dai conseguenti provvedimenti di attuazione, i
-
-((Provveditorati regionali e interregionali))
-
-svolgono, in particolare, le funzioni di competenza nei seguenti ambiti di attivita':
-
-a) opere pubbliche di competenza del Ministero, fatto salvo quanto previsto all'articolo 5, comma 2, lettera i);
-
-b) attivita' di vigilanza sulle opere pubbliche e di supporto al Ministero all'attivita' di vigilanza sulle reti infrastrutturali finanziate dal Ministero stesso e da altri enti pubblici;
-
-c) attivita' di supporto su base convenzionale nella programmazione, progettazione ed esecuzione di opere anche di competenza di Amministrazioni non statali, anche ad ordinamento autonomo, economico e non economico, nonche' di Enti e organismi pubblici;
-
-d) attivita' di competenza statale di supporto degli Uffici territoriali di governo in materia di repressione dell'abusivismo edilizio;
-
-e) supporto all'attivita' di vigilanza del Ministero su ANAS S.p.a.;
-
-f) supporto all'attivita' di gestione da parte del Ministero dei programmi di iniziativa europea;
-
-g) attivita' di vigilanza per l'edilizia economica e popolare;
-
-h) supporto tecnico alla Direzione generale per le strade e la sicurezza delle infrastrutture stradali e alla Direzione generale per le autostrade la vigilanza sui contratti di concessione autostradale, per le attivita' di competenza;
-
-i) espletamento del servizio di polizia stradale di cui all'[articolo 12 del decreto legislativo 30 aprile 1992, n. 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art12);
-
-l) supporto al Consiglio superiore dei lavori pubblici per lo svolgimento, in ambito territoriale, delle attivita' di vigilanza di cui al [decreto legislativo 16 giugno 2017, n. 106](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-06-16;106).
-
-m) gestione del contenzioso con il supporto della Direzione generale per gli affari legali
-
-((, societari))
-
-e i contratti pubblici.
-
-### Art. 10
-
-((Organizzazione dei Provveditorati regionali e interregionali per le opere pubbliche))
-
-1. L'organizzazione dei
-
-((Provveditorati regionali e interregionali))
-
-e' ispirata al criterio dell'efficiente dimensionamento delle strutture, tenendo conto della qualita' e della quantita' dei servizi svolti, della rilevanza dei compiti e delle funzioni assegnate con riferimento al bacino di utenza e all'ambito territoriale interessato, nonche' alla dotazione organica complessiva del Ministero.
-
-2. Presso ciascun
-
-((Provveditorato regionale e interregionale))
-
-opera il Comitato tecnico-amministrativo, di seguito definito Comitato.
-
-3. Il Comitato e' costituito, per l'esercizio delle funzioni di cui al comma 6 e per la durata di un triennio, nel rispetto del principio di uguaglianza di genere, con decreto del Ministro ed e' composto dai seguenti membri:
-
-a) il Provveditore
-
-((regionale o interregionale))
-
-, con funzioni di Presidente;
-
-b) i dirigenti degli uffici di livello dirigenziale non generale del provveditorato
-
-((regionale o interregionale))
-
-;
-
-c) un avvocato dello Stato designato dalle Avvocature distrettuali rientranti nella competenza territoriale del Provveditorato
-
-((regionale o interregionale))
-
-;
-
-d) un rappresentante della Ragioneria territoriale dello Stato della citta' sede del Provveditorato
-
-((regionale o interregionale))
-
-;
-
-e) un rappresentante del Ministero dell'interno, della Prefettura della citta' sede del Provveditorato
-
-((regionale o interregionale))
-
-;
-
-f) un rappresentante dell'Agenzia del Demanio, designato dalle Direzioni territoriali interessate;
-
-g) un rappresentante del Ministero dell'agricoltura, della sovranita' alimentare e delle foreste;
-
-h) un rappresentante del Ministero del lavoro e delle politiche sociali;
-
-i) un rappresentante del Ministero della giustizia su designazione dei Presidenti delle Corti d'Appello i cui distretti rientrino nella competenza territoriale del Provveditorato;
-
-l) un rappresentante del Ministero della cultura, scelto tra i Soprintendenti nel territorio di competenza del Provveditorato;
-
-m) un rappresentante del Ministero dell'ambiente e della sicurezza energetica.
-
-4. Al Comitato di cui al comma 3 possono partecipare, in qualita' di esperti per la trattazione adi speciali problemi, studiosi e tecnici anche non appartenenti alle Amministrazioni dello Stato.
-
-5. Il decreto ministeriale di cui al comma 3 stabilisce le modalita' di convocazione e deliberazione dei Comitati.
-
-6. Il Comitato e' competente a pronunciarsi:
-
-a) sui progetti preliminari, definitivi ed esecutivi di opere attribuite alla competenza del Provveditorato
-
-((regionale o interregionale))
-
-, da eseguire a cura dello Stato e a totale suo carico, nonche' sui progetti definitivi da eseguire da enti pubblici o da privati, quando siano finanziati dallo Stato per almeno il cinquanta per cento e comunque per opere per le quali le disposizioni di legge richiedano il parere degli organi consultivi del Ministero quando l'importo non ecceda i venticinque milioni di euro;
-
-b) sulle vertenze relative ai lavori attribuiti alla competenza del Provveditorato
-
-((regionale o interregionale))
-
-per maggiori oneri o per esonero di penalita' contrattuali e per somme non eccedenti i cinquantamila euro;
-
-c) sulle proposte di risoluzione o rescissione di contratti, nonche' sulle determinazioni di nuovi prezzi per opere di importi eccedenti i limiti di competenza del responsabile del procedimento;
-
-d) sulle perizie di manutenzione annuali e pluriennali di importo eccedenti i limiti di competenza del responsabile del procedimento;
-
-e) sulla concessione di proroghe superiori a trenta giorni dei termini contrattuali fissati per l'ultimazione dei lavori;
-
-f) sugli affari di competenza degli organi locali dell'Amministrazione dello Stato e degli enti locali per i quali le disposizioni vigenti richiedano il parere del Comitato;
-
-g) sugli affari per i quali il Provveditore
-
-((regionale o interregionale))
-
-ritenga opportuno richiedere il parere del Comitato.
-
-7. Ai componenti ed agli esperti del Comitato non sono corrisposte indennita', emolumenti o rimborsi spese.
-
-8. L'organizzazione, il numero e i compiti degli uffici dirigenziali di livello non generale in cui si articolano i
-
-((Provveditorati regionali e interregionali))
-
-per le opere pubbliche sono definiti con il decreto di cui all'articolo 18, comma 3.
-
-### Art. 11
-
-Direzioni generali territoriali
-
-1. Sono articolazioni periferiche del Ministero, dipendenti dal Dipartimento per i trasporti e la navigazione, le quattro direzioni generali territoriali di seguito individuate secondo le circoscrizioni territoriali e le sedi che seguono:
-
-a) Direzione generale territoriale del Nord-Ovest, per gli uffici aventi sede nelle regioni Piemonte, Lombardia e Liguria, con sede in Milano;
-
-b) Direzione generale territoriale del Nord-Est, per gli uffici aventi sede nelle regioni Veneto, Trentino-Alto Adige, Friuli-Venezia Giulia, Emilia-Romagna e Marche, con sede in Venezia;
-
-c) Direzione generale territoriale del Centro, per gli uffici aventi sede nelle regioni: Toscana, Umbria, Lazio, Abruzzo e Sardegna, con sede in Roma;
-
-d) Direzione generale territoriale del Sud, per gli uffici aventi sede nelle regioni Campania, Molise, Puglia, Basilicata, Calabria e Sicilia, con sede in Napoli.
-
-2. A ciascuna direzione generale territoriale, con funzioni di direzione e coordinamento, e' preposto un dirigente di livello generale, nominato ai sensi dell'[articolo 19, comma 4, del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art19-com4). In particolare, il direttore generale di ciascuna Direzione generale territoriale:
-
-a) alloca le risorse umane, finanziarie e strumentali disponibili per l'attuazione dei programmi secondo i principi di economicita', efficacia ed efficienza nonche' di rispondenza del servizio al pubblico interesse, disponendo, a tal fine, gli opportuni trasferimenti del personale all'interno della direzione generale;
-
-b) persegue gli obiettivi conferiti annualmente con la direttiva generale del Ministro;
-
-c) svolge funzioni di coordinamento di bilancio in relazione alle risorse assegnate alla direzione e di controllo digestione;
-
-d) promuove e mantiene le relazioni con gli organi istituzionali, con le regioni, le province e gli enti locali, nonche' le relazioni sindacali.
-
-3. I dirigenti di cui al comma 2 rispondono al Capo del Dipartimento per i trasporti e la navigazione in ordine al raggiungimento degli obiettivi ad essi affidati.
-
-Note all'[art. 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art11):   
-- Per l'[art. 19, comma 4, del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art19-com4) (Norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche), si veda nelle note all'art. 6.
-
-### Art. 12
-
-Competenze delle Direzioni generali territoriali
-
-1. Ferme restando le competenze in materia di trasporti attribuite alle regioni, anche a statuto speciale, e alle Province autonome di Trento e Bolzano e fatto salvo quanto disposto dal [decreto legislativo 31 marzo 1998, n. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-03-31;112), e dai conseguenti provvedimenti di attuazione, le Direzioni generali territoriali assicurano, in sede periferica, l'esercizio delle funzioni e dei compiti di spettanza statale nelle aree funzionali di cui all'articolo 42, comma 1, lettere c), d) e, per quanto di competenza, [lettera d-bis), del decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300~letdbis).
-
-2. Le Direzioni generali territoriali svolgono, in particolare, le funzioni di competenza nei seguenti ambiti di attivita':
-
-a) omologazione dei veicoli a motore, loro rimorchi, componenti ed unita' tecniche indipendenti;
-
-b) collaudi e revisione dei veicoli in circolazione;
-
-c) attivita' in materia di conducenti: rilascio di patenti, certificati di abilitazione professionale;
-
-d) sicurezza dei sistemi di trasporto ad impianto fisso di competenza statale, ferme le competenze di ANSFISA relativamente alle attivita' ispettive e di vigilanza sui sistemi di trasporto rapido di massa;
-
-e) supporto tecnico e amministrativo per la realizzazione dei sistemi di trasporto ad impianti fissi;
-
-f) navigazione interna di competenza statale;
-
-g) immatricolazioni di veicoli;
-
-h) circolazione e sicurezza stradale;
-
-i) rapporti istituzionali con le regioni, le province e con gli enti locali;
-
-l) funzioni di certificazione di qualita', ispezione e controllo tecnico;
-
-m) espletamento del servizio di polizia stradale di cui all'[articolo 12, comma 3, lettera a), del decreto legislativo 30 aprile 1992, n. 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art12-com3-leta);
-
-n) attivita' in materia di autotrasporto, autorizzazione all'esercizio della professione e provvedimenti connessi, controlli;
-
-o) formazione e aggiornamento del personale e attivita' di ricerca nelle materie di competenza;
-
-p) gestione del contenzioso nelle materie di competenza.
-
-Note all'[art. 12:   
-- Per il decreto legislativo 31 marzo 1998, n. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-03-31;112~art12) (Conferimento di funzioni e compiti amministrativi dello Stato alle regioni ed agli enti locali, in attuazione del capo I della [legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59).), si veda nelle note all'art. 8.   
-- Per l'[art. 42, comma 1, lettere c)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300~art42-com1-letc), [d)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300~art42-com1-letd) e [d-bis), del decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300~art42-com1-letdbis) (Riforma dell'organizzazione del Governo, a norma dell'[art. 11 della legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art11).), si veda nelle note all'art.  
-9.   
-- Per l'[art. 12, comma 3, lettera a), del decreto legislativo 30 aprile 1992, n. 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art12-com3-leta) (Nuovo [codice della strada](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285)), si veda nelle note all'art. 9.
-
-### Art. 13
-
-Organizzazione delle Direzioni generali territoriali
-
-1. L'organizzazione delle Direzioni generali territoriali e' ispirata, stante la necessita' di assicurare l'erogazione dei servizi all'utenza, al criterio della razionalizzazione delle strutture, tenendo conto della qualita' e della quantita' dei servizi svolti, della rilevanza dei compiti e delle funzioni assegnate con riferimento al bacino di utenza e all'ambito territoriale di competenza nonche' alla dotazione organica complessiva del Ministero.
-
-2. L'organizzazione, il numero e i compiti degli uffici dirigenziali di livello non generale in cui si articolano le direzioni generali territoriali sono definiti con il decreto di cui all'articolo 18, comma 3.
-
-CAPO IV Capo IV Comando generale del corpo delle capitanerie di porto e altri organismi e istituzioni operanti nel Ministero
-----------------------------------------------------------------------------------------------------------------------------
-
-### Art. 14
-
-Funzioni e compiti del Comando generale   
-del corpo delle capitanerie di porto
-
-1. Il Comando generale del Corpo delle Capitanerie di Porto svolge le funzioni di competenza del Ministero nelle seguenti materie:
-
-a) ricerca e soccorso in mare, quale Centro nazionale di coordinamento del soccorso marittimo (I.M.R.C.C.), e nei laghi maggiori ove sia istituito un proprio apposito presidio, nonche' attivita' di organizzazione e coordinamento della formazione, della qualificazione e dell'addestramento;
-
-b) gestione operativa, a livello centrale, del sistema di monitoraggio e di informazione del traffico marittimo e interfaccia unica nazionale per l'arrivo e partenza delle navi, quale Autorita' Nazionale Competente in materia di VTS (Vessel Traffic Services) nonche' nodo primario di acquisizione e scambio diretto delle informazioni connesse agli usi civili e produttivi del mare;
-
-c) coordinamento del sistema di interfaccia unica marittima europea, quale autorita' nazionale competente (European maritime single window enviroment);
-
-d) esercizio delle competenze in materia di sicurezza della navigazione e del trasporto marittimo;
-
-e) rapporti con organismi nazionali e internazionali e cooperazione con le omologhe organizzazioni/agenzie che svolgono funzioni di Guardia costiera, in raccordo con gli uffici di diretta collaborazione del Ministro, per gli aspetti relativi al soccorso marittimo, alla sicurezza della navigazione, del trasporto marittimo e nei porti, anche relativamente all'impiego di personale del Corpo delle capitanerie di porto - Guardia costiera, in ambito nazionale e all'estero, sulla base di direttive generali o specifiche del Ministro, per gli altri profili funzionali correlati alle competenze del Ministero;
-
-f) addestramento del personale marittimo e certificazione degli enti di formazione e di addestramento;
-
-g) coordinamento delle attivita', organizzazione e ispezioni relative ai servizi degli uffici marittimi delle Capitanerie di Porto, anche attraverso l'adozione di disposizioni e direttive, e conseguente valutazione dei direttori marittimi;
-
-h) predisposizione della normativa tecnica di settore a favore dell'utenza marittima nelle materie di competenza del Ministero;
-
-i) impiego del personale militare del Corpo delle capitanerie di porto - Guardia costiera e approvazione delle dotazioni di personale degli uffici marittimi per l'assolvimento delle funzioni di cui al presente articolo;
-
-l) formazione specialistica del personale del Corpo delle capitanerie di porto nelle materie di specifica competenza e rilascio delle relative abilitazioni;
-
-m) vigilanza e controllo operativo in materia di sicurezza delle navi e delle strutture portuali nei confronti di minacce.
-
-2. Il Comandante generale delle capitanerie di porto - Guardia costiera, sulla base della direttiva annuale generale del Ministro, coordina l'attivita' degli Uffici marittimi.
-
-3. Il vice Comandante generale delle capitanerie di porto svolge funzioni vicarie del Comandante generale e per le quali non percepisce alcun compenso aggiuntivo.
-
-4. Le Capitanerie di Porto - Guardia costiera svolgono gli ulteriori compiti previsti dalla normativa vigente secondo le direttive dei Ministri competenti, mediante l'impiego di personale, nei limiti e secondo le modalita' previste dalla legge, in ambito nazionale e all'estero, in funzione di collegamento per gli aspetti connessi alle materie di competenza.
-
-### Art. 15
-
-Organizzazione marittima
-
-1. Sono uffici marittimi periferici del Ministero delle infrastrutture e dei trasporti, dipendenti dal Comando generale del Corpo delle capitanerie di porto - Guardia costiera, gli uffici di cui all'[articolo 16 del codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art16) e all'articolo 2 del regolamento per l'esecuzione del [codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327), retti da personale del Corpo delle capitanerie di porto - Guardia costiera e articolati in direzioni marittime, capitanerie di porto, uffici circondariali marittimi, uffici locali marittimi e delegazioni di spiaggia.
-
-2. Gli uffici marittimi di cui al comma 1 svolgono, in sede decentrata, le attribuzioni previste dal [codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327) e dalle altre leggi speciali nelle materie di competenza del Ministero tramite il coordinamento del Comando generale del Corpo delle capitanerie di porto - Guardia costiera.
-
-3. Nei limiti delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente e al fine di rispondere con tempestivita' ad esigenze di carattere operativo ed organizzativo, con provvedimento del Ministro delle infrastrutture e dei trasporti, adottato su proposta del Comandante generale del Corpo delle capitanerie di porto - Guardia costiera, possono essere individuati nell'ambito della struttura organizzativa di cui al comma 1, le unita', i nuclei, i distaccamenti e i servizi organicamente costituti per i quali il predetto decreto individua i compiti, le mansioni, le dotazioni organiche e la dipendenza funzionale.
-
-Note all'art. 15:   
-- Si riporta l'[art. 16 del regio decreto 30 marzo 1942, n. 327](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art16) ([Codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327)):   
-«Art. 16 (Circoscrizione del litorale della Repubblica). - Il litorale della Repubblica e' diviso in zone marittime; le zone sono suddivise in compartimenti e questi in circondari.   
-Alla zona e' preposto un direttore marittimo, al compartimento un capo del compartimento, al circondario un capo del circondario. Nell'ambito del compartimento in cui ha sede l'ufficio della direzione marittima, il direttore marittimo e' anche capo del compartimento. Nell'ambito del circondario in cui ha sede l'ufficio del compartimento, il capo del compartimento e' anche capo del circondario.   
-Negli approdi di maggiore importanza in cui non hanno sede ne' l'ufficio del compartimento ne' l'ufficio del circondario sono istituiti uffici locali di porto o delegazioni di spiaggia, dipendenti dall'ufficio circondariale.   
-Il capo del compartimento, il capo del circondario e i capi degli altri uffici marittimi dipendenti sono comandanti del porto o dell'approdo in cui hanno sede.  
-[c.n. 17]».   
-- Si riporta l'[art. 2 del decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-15;328~art2) (Approvazione del Regolamento per l'esecuzione del [Codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327) - Navigazione marittima):   
-«Art. 2 (Denominazione degli uffici marittimi). - L'ufficio della zona marittima e' denominato direzione marittima, l'ufficio del compartimento Capitaneria di porto, l'ufficio del circondario ufficio circondariale marittimo.   
-Gli uffici che sono istituiti negli approdi di maggiore importanza in cui non hanno sede ne' l'ufficio del compartimento ne' l'ufficio del circondario sono denominati ufficio locale marittimo o delegazione di spiaggia».
-
-### Art. 16
-
-Consiglio superiore dei lavori pubblici
-
-1. Presso il Ministero e' incardinato, con piena autonomia organizzativa e funzionale, il Consiglio superiore dei lavori pubblici, il quale e' organizzato ai sensi dell'[articolo 47 del decreto legislativo 31 marzo 2023, n. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36~art47), e dell'Allegato I.11 al medesimo decreto legislativo.
-
-2. La dotazione delle posizioni di funzione dirigenziale presso il Consiglio superiore dei lavori pubblici e' determinata, nel quadro della dotazione organica di cui all'allegata tabella A, rispettivamente in numero di cinque posizioni dirigenziali generali, di cui una attribuita ai sensi dell'[articolo 19, comma 3, del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art19-com3).
-
-3. L'organizzazione, il numero e i compiti degli uffici dirigenziali di livello non generale in cui si articola il Consiglio superiore dei lavori pubblici sono definiti con il decreto ministeriale di cui all'articolo 18, comma 3.
-
-Note all'art. 16:   
-- Si riporta l'[art. 47 del decreto legislativo 31 marzo 2023, n. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36~art47) ([Codice dei contratti pubblici](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163) in attuazione dell'[art. 1 della legge 21 giugno 2022, n. 78](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-06-21;78~art1), recante delega al Governo in materia di contratti pubblici.):   
-«Art. 47 (Consiglio superiore dei lavori pubblici). - 1. Il Consiglio superiore dei lavori pubblici e' il massimo organo tecnico consultivo dello Stato; opera con indipendenza di giudizio e di valutazione ed e' dotato di piena autonomia funzionale e organizzativa.   
-2. Il Consiglio superiore dei lavori pubblici e' presieduto dal Presidente ed e' costituito dall'Assemblea generale, da quattro Sezioni, dalla Segreteria generale, dal Servizio tecnico centrale e dall'Osservatorio del collegio consultivo tecnico.   
-3. Il Consiglio superiore dei lavori pubblici, nell'ambito dei compiti attribuiti allo Stato e nel rispetto delle prerogative delle regioni, delle province autonome, delle province, delle citta' metropolitane e dei comuni, esercita funzioni consultive ed esprime pareri obbligatori esclusivamente sui progetti di fattibilita' tecnica ed economica di competenza statale, dei concessionari statali e sulle altre opere finanziate per almeno il 50 per cento dallo Stato e pareri facoltativi sui documenti di fattibilita' delle alternative progettuali inseriti nei documenti pluriennali di programmazione dei ministeri competenti. I pareri di cui al primo periodo sono resi se il costo complessivo dell'opera, come derivante dal quadro economico, e' superiore a 200 milioni di euro, nel caso di infrastrutture lineari, o a 50 milioni di euro, negli altri casi. I Comitati tecnici amministrativi presso i Provveditorati interregionali per le opere pubbliche esprimono parere obbligatorio esclusivamente sui progetti di fattibilita' tecnico-economica di opere di competenza statale, dei concessionari statali e delle altre opere finanziate per almeno il 50 per cento dallo Stato se il costo complessivo dell'opera, come derivante dal quadro economico, e' superiore a 25 milioni di euro e inferiore a 200 milioni di euro, nel caso di infrastrutture lineari, oppure e' superiore a 25 milioni di euro e inferiore a 50 milioni di euro, negli altri casi. Non e' obbligatorio il parere sui progetti di fattibilita' tecnico-economica di opere di competenza statale, dei concessionari statali e delle altre opere finanziate per almeno il 50per cento dallo Stato se il costo complessivo dell'opera, come derivante dal quadro economico, e' inferiore a 25 milioni di euro.   
-4. Le ulteriori competenze, l'organizzazione del Consiglio superiore dei lavori pubblici, le regole di funzionamento, nonche' le ulteriori attribuzioni sono stabilite e disciplinate nell'allegato I.11. In sede di prima applicazione del codice, l'allegato I.11 e' abrogato a decorrere dalla data di entrata in vigore di un corrispondente regolamento adottato ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3), con decreto del Ministro delle infrastrutture e dei trasporti, sentito il Consiglio superiore dei lavori pubblici, che lo sostituisce integralmente anche in qualita' di allegato al codice.   
-5. Il Consiglio superiore dei lavori pubblici esprime il parere entro quarantacinque giorni dalla trasmissione del progetto. Decorso tale termine, il parere si intende reso in senso favorevole.».   
-- L'Allegato I.11 al [decreto legislativo 31 marzo 2023, n. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36) ([Codice dei contratti pubblici](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163) in attuazione dell'[art. 1 della legge 21 giugno 2022, n. 78](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-06-21;78~art1), recante delega al Governo in materia di contratti pubblici.) e' pubblicato nella Gazzetta Ufficiale 31 marzo 2023, n. 77.   
-- Per l'[art. 19, comma 3, del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art19-com3) (Norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche), si veda la nota all'art. 6.
-
-### Art. 17
-
-Altri organismi operanti nel Ministero
-
-1. Operano nell'ambito del Ministero e alle dirette dipendenze del Ministro:
-
-a) l'Ufficio per le investigazioni ferroviarie e marittime, che svolge, anche in collaborazione con ANSFISA e in raccordo con gli uffici di diretta collaborazione del Ministro, i compiti di cui al [decreto legislativo 14 maggio 2019, n. 50](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;50), in materia di sicurezza delle ferrovie, al [decreto legislativo 6 settembre 2011, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-09-06;165), in materia di sinistri marittimi, e all'[articolo 15-ter, comma 4, del decreto-legge 16 ottobre 2017, n. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-10-16;148~art15ter-com4), convertito, con modificazioni, dalla [legge 4 dicembre 2017, n. 172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-04;172), in materia di incidenti sulle reti ferroviarie funzionalmente isolate, nelle vie d'acqua interne nazionali e su tutti i sistemi di trasporto ad impianti fissi, cui e' preposto, nell'ambito della dotazione organica complessiva, un dirigente di livello non generale. L'Ufficio cura i rapporti con organismi internazionali, europei e nazionali nelle materie di competenza, in raccordo con gli uffici di diretta collaborazione del Ministro.
-
-b) la Struttura tecnica di missione di cui all'[articolo 223, comma 3, del decreto legislativo 31 marzo 2023, n. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36~art223-com3), che si avvale di un contingente di personale individuato dal decreto attuativo del medesimo articolo 223, nell'ambito delle risorse finanziarie previste a legislazione vigente. Il Ministro puo' nominare il coordinatore della Struttura tecnica di missione fra persone, anche estranee alla pubblica amministrazione, in possesso di capacita' adeguata alle funzioni da svolgere avuto riguardo ai titoli professionali, culturali e scientifici e alle esperienze maturate;
-
-Note all'[art. 17:   
-- Per il decreto legislativo 14 maggio 2019, n. 50](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-05-14;50~art17) (Attuazione della [direttiva 2016/798 del Parlamento europeo e del Consiglio, dell'11 maggio 2016](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32016L0798), sulla sicurezza delle ferrovie), si veda la nota alle premesse.   
-- Il [decreto legislativo 6 settembre 2011, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-09-06;165) (Attuazione della [direttiva 2009/18/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009L0018) che stabilisce i principi fondamentali in materia di inchieste sugli incidenti nel settore del trasporto marittimo e che modifica le [direttive 1999/35/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31999L0035) e [2002/59/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32002L0059).) e' pubblicato nella Gazzetta Ufficiale 6 ottobre 2011, n. 233.   
-- Si riporta l'[art. 15-ter, comma 4, del decreto-legge 16 ottobre 2017, n. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-10-16;148~art15ter-com4) (Disposizioni urgenti in materia finanziaria e per esigenze indifferibili.), convertito, con modificazioni, dalla [legge 4 dicembre 2017, n. 172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-04;172):   
-«Art. 15-ter (Interventi per la tutela e il miglioramento della sicurezza ferroviaria e marittima). - 1. All'[art. 2 del decreto legislativo 10 agosto 2007, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-08-10;162~art2), sono apportate le seguenti modificazioni:   
-a) al comma 4, lettera b), dopo le parole: «alle reti funzionalmente isolate dal resto del sistema ferroviario ed adibite unicamente a servizi passeggeri locali, urbani o suburbani, nonche' alle imprese ferroviarie che operano esclusivamente su tali reti» sono aggiunte le seguenti: ", fino al 30 giugno 2019";   
-b) dopo il comma 4 e' aggiunto il seguente:   
-"4-bis. Entro il 31 dicembre 2018, l'Agenzia nazionale per la sicurezza delle ferrovie (ANSF) individua le norme tecniche e gli standard di sicurezza applicabili alle reti funzionalmente isolate dal resto del sistema ferroviario nonche' ai gestori del servizio che operano su tali reti, tenendo conto delle caratteristiche delle tratte ferroviarie, dei rotabili e del servizio di trasporto, fermo restando quanto previsto dai trattati internazionali per le reti isolate transfontaliere. A decorrere dal 30 giugno 2019, alle reti funzionalmente isolate dal resto del sistema ferroviario nonche' ai gestori del servizio che operano su tali reti si applicano in materia di sicurezza le disposizioni adottate ai sensi del presente comma. Nel rilasciare le autorizzazioni di propria competenza, l'ANSF valuta le misure mitigative o compensative proposte dai gestori del servizio sulla base di una analisi del rischio che tenga conto delle caratteristiche della tratta ferroviaria, dei rotabili e del servizio di trasporto".   
-2. A seguito dell'estensione dei compiti attribuiti all'Agenzia nazionale per la sicurezza delle ferrovie (ANFS) in materia di reti ferroviarie regionali ed al fine di garantire il corretto espletamento delle necessarie ed indifferibili attivita', essenziali per garantire un adeguato presidio della sicurezza ferroviaria, agli operatori ferroviari, in applicazione del [decreto del Ministro delle infrastrutture e dei trasporti 5 agosto 2016, pubblicato nella Gazzetta Ufficiale n. 216 del 15 settembre 2016](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2016-09-15&numeroGazzetta=216), nonche' per gestire le significative modifiche all'attuale quadro regolatorio in materia di sicurezza e interoperabilita' ferroviaria derivanti dal cosiddetto "IV pacchetto ferroviario", l'ANSF medesima e' autorizzata, in deroga alla normativa vigente, all'assunzione a tempo indeterminato tramite concorso pubblico di 20 unita' complessive di personale nel biennio 2018-2019, da inquadrare nel livello iniziale di ciascuna categoria/area.   
-3. Per le finalita' di cui ai commi 1 e 2, a decorrere dal 2018 l'ANSF e' autorizzata all'assunzione di 11 funzionari e 9 collaboratori, tenuto conto di quanto previsto all'[art. 4, comma 3, del decreto-legge 31 agosto 2013, n. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-08-31;101~art4-com3), convertito, con modificazioni, dalla [legge 30 ottobre 2013, n. 125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-10-30;125), in deroga a quanto previsto dall'[art. 30 del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art30), e dall'art. 4, comma 3-quinquies, del citato [decreto-legge n. 101 del 2013](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013;101), in relazione alle specifiche professionalita' necessarie per garantire il presidio della sicurezza ferroviaria.   
-4. A decorrere dall'anno 2018 la Direzione generale per le investigazioni ferroviarie e marittime del Ministero delle infrastrutture e dei trasporti provvede a effettuare le investigazioni anche su:   
-a) gli incidenti sulle reti funzionalmente isolate dal resto del sistema ferroviario e adibite unicamente a servizi passeggeri locali, urbani o suburbani, nonche' gli incidenti che si verificano sui sistemi di trasporto ad impianti fissi, applicando i criteri e le procedure di investigazione definiti al capo V del [decreto legislativo 10 agosto 2007, n 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-08-10;162);   
-b) gli incidenti nelle vie d'acqua interne nazionali, applicando i criteri e le procedure di investigazione stabiliti dal [decreto-legislativo 6 settembre 2011, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-09-06;165);   
-c) gli incidenti su tutti i sistemi di trasporto ad impianti fissi.   
-5. Agli oneri derivanti dal presente articolo, pari a 966.971 euro a decorrere dell'anno 2018, si provvede mediante corrispondente riduzione delle proiezioni dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2017-2019, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2017, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero delle infrastrutture e dei trasporti.   
-6. All'[art. 18 della legge 7 luglio 2016, n. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-07-07;122~art18), dopo il comma 1 e' inserito il seguente:   
-"1-bis. Le inosservanze da parte degli operatori ferroviari delle disposizioni adottate dall'ANSF in materia di adeguamento dei sistemi di sicurezza ferroviaria sono punite con la sanzione amministrativa pecuniaria da euro 20.000 a euro 200.000 per il mancato adeguamento alle misure di sicurezza indicate nelle disposizioni emanate dall'ANSF entro il termine prescritto. Per ogni giorno di ritardo, successivo al primo, nell'adeguamento alle misure di sicurezza, si applica un'ulteriore sanzione amministrativa pecuniaria pari al 10 per cento della sanzione da applicare".».   
-- Per l'[art. 223, comma 3, del decreto legislativo 31 marzo 2023, n. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36~art223-com3) ([Codice dei contratti pubblici](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163) in attuazione dell'[art. 1 della legge 21 giugno 2022, n. 78](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-06-21;78~art1), recante delega al Governo in materia di contratti pubblici.), si veda la nota alle premesse.
-
-CAPO V Capo V Dotazione organica e norme finali
------------------------------------------------
-
-### Art. 18
-
-Determinazione posizioni di livello non generale e delle dotazioni organiche del Ministero
-
-1. La dotazione organica del personale del Ministero e' individuata nella Tabella A allegata al presente regolamento.
-
-2. Il numero delle posizioni dirigenziali di livello generale e quello relativo ai relativi posti di funzione e' determinato in
-
-((quarantatre'))
-
-unita', mentre il numero degli uffici dirigenziali di livello non generale e' determinato in
-
-((duecentodiciotto))
-
-unita'. Il personale dirigenziale di livello generale e non generale del Ministero e' inserito nei ruoli del personale dirigenziale del Ministero delle infrastrutture e dei trasporti.
-
-3. Con decreto di natura non regolamentare del Ministro
-
-((...))
-
-si provvede alla individuazione e alla definizione dei compiti degli uffici dirigenziali di livello non generale del Ministero, ai sensi dell'[articolo 4, comma 4, del decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300~art4-com4).
-
-4. Nell'ambito delle posizioni dirigenziali di livello generale di cui al comma 2 sono previsti, complessivamente, quattro incarichi di livello dirigenziale generale con funzioni ispettive, di consulenza, studio e ricerca, da utilizzarsi per funzioni istituzionali del Ministero, secondo le determinazioni del Ministro all'atto del conferimento dell'incarico.
-
-5. Nell'ambito del contingente numerico di cui al comma 4, un incarico di livello dirigenziale generale, da conferire ai sensi dell'[articolo 19, commi 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art19-com4) e [10, del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art19-com10), e' assegnato al Comitato centrale per l'Albo nazionale degli autotrasportatori e fino a tre incarichi di livello generale, da conferire ai sensi dell'[articolo 19, commi 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art19-com4) e [10, del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art19-com10), sono assegnati agli uffici di diretta collaborazione del Ministro anche per lo svolgimento degli incarichi di cui all'articolo 3, commi 4 e 6, del regolamento disciplinante la riorganizzazione dei citati Uffici di diretta collaborazione, ove conferiti.
-
-6. Al fine di assicurare la necessaria flessibilita' di utilizzo delle risorse umane alle effettive esigenze operative, il Ministro delle infrastrutture e dei trasporti, con proprio decreto, effettua la ripartizione dei contingenti di personale dirigenziale e non dirigenziale nonche' delle famiglie professionali, come determinati dal presente articolo, nelle strutture in cui si articola il Ministero. Detto provvedimento e' tempestivamente comunicato alla Presidenza del Consiglio dei ministri - Ministro per la pubblica amministrazione e al Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato.
-
-### Art. 19
-
-Verifica dell'organizzazione del Ministero
-
-1. Ogni due anni l'organizzazione del Ministero e' sottoposta a verifica, ai sensi dell'[articolo 4, comma 5, del decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300~art4-com5), al fine di accertarne la funzionalita' e l'efficienza.
-
-Note all'art. 19:   
-- Si riporta l'[art. 5 del decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300~art5) (Riforma dell'organizzazione del Governo, a norma dell'[art. 11 della legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art11).):   
-«Art. 5 (I dipartimenti). - 1. I dipartimenti sono costituiti per assicurare l'esercizio organico ed integrato delle funzioni del ministero. Ai dipartimenti sono attribuiti compiti finali concernenti grandi aree di materie omogenee e i relativi compiti strumentali, ivi compresi quelli di indirizzo e coordinamento delle unita' di gestione in cui si articolano i dipartimenti stessi, quelli di organizzazione e quelli di gestione delle risorse strumentali, finanziarie ed umane ad essi attribuite.   
-2. L'incarico di Capo del Dipartimento viene conferito in conformita' alle disposizioni di cui all'[art. 19 del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art19) e successive modificazioni ed integrazioni.   
-3. Il Capo del Dipartimento svolge compiti di coordinamento, direzione e controllo degli uffici di livello dirigenziale generale compresi nel dipartimento stesso, al fine di assicurare la continuita' delle funzioni dell'amministrazione ed e' responsabile dei risultati complessivamente raggiunti dagli uffici da esso dipendenti, in attuazione degli indirizzi del ministro.   
-4. Dal Capo del Dipartimento dipendono funzionalmente gli uffici di livello dirigenziale generale compresi nel dipartimento stesso.   
-5. Nell'esercizio dei poteri di cui ai precedenti commi 3 e 4, in particolare, il Capo del Dipartimento:   
-a) determina i programmi per dare attuazione agli indirizzi del ministro;   
-b) alloca le risorse umane, finanziarie e strumentali disponibili per l'attuazione dei programmi secondo principi di economicita', efficacia ed efficienza, nonche' di rispondenza del servizio al pubblico interesse;   
-c) svolge funzioni di propulsione, di coordinamento, di controllo e di vigilanza nei confronti degli uffici del dipartimento;   
-d) promuove e mantiene relazioni con gli organi competenti dell'Unione europea per la trattazione di questioni e problemi attinenti al proprio dipartimento;   
-e) adotta gli atti per l'utilizzazione ottimale del personale secondo criteri di efficienza, disponendo gli opportuni trasferimenti di personale all'interno del dipartimento;   
-f) e' sentito dal ministro ai fini dell'esercizio del potere di proposta per il conferimento degli incarichi di direzione degli uffici di livello dirigenziale generale, ai sensi dell'[art. 19, comma 4, del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art19-com4);   
-g) puo' proporre al ministro l'adozione dei provvedimenti di revoca degli incarichi di direzione degli uffici di livello dirigenziale generale, ai sensi dell'[art. 19, comma 7, del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art19-com7) e, comunque, viene sentito nel relativo procedimento;   
-h) e' sentito dal ministro per l'esercizio delle attribuzioni a questi conferite dall'[art. 14, comma 1, del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art14-com1).   
-6. Con le modalita' di cui all'[art. 16, comma 5, del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art16-com5), possono essere definiti ulteriori compiti del Capo del Dipartimento.».
-
-### Art. 20
-
-Disposizioni transitorie, finali e abrogazioni
-
-1. Fino all'adozione del decreto di cui all'articolo 18, comma 3, ciascun ufficio di livello dirigenziale generale opera avvalendosi dei preesistenti uffici dirigenziali di livello non generale in conformita' alle competenze del rispettivo settore di attribuzione.
-
-2. Fino all'adozione del decreto di cui all'articolo 18, comma 3, le attuali strutture periferiche del Ministero assicurano lo svolgimento delle attivita' di competenza avvalendosi dei preesistenti uffici dirigenziali di livello non generale.
-
-3. Il [decreto del Presidente del Consiglio dei ministri 23 dicembre 2020, n. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2020-12-23;190), e il [decreto del Presidente del Consiglio dei ministri 24 giugno 2021, n. 115](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2021-06-24;115), sono abrogati a decorrere dalla data di entrata in vigore del presente regolamento.
-
-4. Ferma l'applicazione dell'articolo 2, comma 8, primo periodo, del [decreto-legge 31 agosto 2013, n. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-08-31;101), convertito, con modificazioni, dalla [legge 30 ottobre 2013, n. 125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-10-30;125), con riferimento alle strutture riorganizzate per effetto del presente regolamento, la decadenza dagli incarichi di livello generale e non generale relativi a dette strutture si verifica con la conclusione delle procedure di conferimento dei nuovi incarichi, rispettivamente di livello generale e non generale, ai sensi dell'[articolo 19 del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art19).
-
-5. Dall'attuazione del presente regolamento non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
+Il presente regolamento disciplina l'organizzazione del Ministero delle infrastrutture e dei trasporti, di seguito denominato «Ministero».
+
+N O T E 
+ 
+ Avvertenza: 
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUUE). 
+ 
+ Note alle premesse: 
+ - Si riporta l'[art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri): 
+ «Art. 17 (Regolamenti). - 1. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, sentito il parere del Consiglio di Stato che deve pronunziarsi entro novanta giorni dalla richiesta, possono essere emanati regolamenti per disciplinare: 
+ a) l'esecuzione delle leggi e dei decreti legislativi nonche' dei regolamenti comunitari; 
+ b) l'attuazione e l'integrazione delle leggi e dei decreti legislativi recanti norme di principio, esclusi quelli relativi a materie riservate alla competenza regionale; 
+ c) le materie in cui manchi la disciplina da parte di leggi o di atti aventi forza di legge, sempre che non si tratti di materie comunque riservate alla legge; 
+ d) l'organizzazione ed il funzionamento delle amministrazioni pubbliche secondo le disposizioni dettate dalla legge; 
+ e) 
+ 2. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, sentito il Consiglio di Stato e previo parere delle Commissioni parlamentari competenti in materia, che si pronunciano entro trenta giorni dalla richiesta, sono emanati i regolamenti per la disciplina delle materie, non coperte da riserva assoluta di legge prevista dalla Costituzione, per le quali le leggi della Repubblica, autorizzando l'esercizio della potesta' regolamentare del Governo, determinano le norme generali regolatrici della materia e dispongono l'abrogazione delle norme vigenti, con effetto dall'entrata in vigore delle norme regolamentari. 
+ 3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.
+ I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei ministri prima della loro emanazione. 
+ 4. I regolamenti di cui al comma 1 ed i regolamenti ministeriali ed interministeriali, che devono recare la denominazione di "regolamento", sono adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale. 
+ 4-bis. L'organizzazione e la disciplina degli uffici dei Ministeri sono determinate, con regolamenti emanati ai sensi del comma 2, su proposta del Ministro competente d'intesa con il Presidente del Consiglio dei ministri e con il Ministro del tesoro, nel rispetto dei principi posti dal [decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, con i contenuti e con l'osservanza dei criteri che seguono: 
+ a) riordino degli uffici di diretta collaborazione con i ministri ed i Sottosegretari di Stato, stabilendo che tali uffici hanno esclusive competenze di supporto dell'organo di direzione politica e di raccordo tra questo e l'amministrazione; 
+ b) individuazione degli uffici di livello dirigenziale generale, centrali e periferici, mediante diversificazione tra strutture con funzioni finali e con funzioni strumentali e loro organizzazione per funzioni omogenee e secondo criteri di flessibilita' eliminando le duplicazioni funzionali; 
+ c) previsione di strumenti di verifica periodica dell'organizzazione e dei risultati; 
+ d) indicazione e revisione periodica della consistenza elle piante organiche; 
+ e) previsione di decreti ministeriali di natura non regolamentare per la definizione dei compiti delle unita' dirigenziali nell'ambito degli uffici dirigenziali generali. 
+ 4-ter. Con regolamenti da emanare ai sensi del comma 1 del presente articolo, si provvede al periodico riordino delle disposizioni regolamentari vigenti, alla ricognizione di quelle che sono state oggetto di abrogazione implicita e all'espressa abrogazione di quelle che hanno esaurito la loro funzione o sono prive di effettivo contenuto normativo o sono comunque obsolete.». 
+ - Si riporta l'[art. 1 del decreto-legge 22 aprile 2023, n. 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-04-22;44#art_1) (Disposizioni urgenti per il rafforzamento della capacita' amministrativa delle amministrazioni pubbliche), convertito, con modificazioni, dalla [legge 21 giugno 2023, n. 74](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20aprile%202023%20n.%2044%20recante%20disposizioni%20urgenti%20per%20il%20rafforzamento%20della%20capacita%20amministrativa%20delle%20amministrazioni%20pubbliche.%2023G00088.md): 
+ «Art. 1 (Disposizioni in materia di rafforzamento della capacita' amministrativa delle amministrazioni centrali). - 1. All'[art. 1, comma 15, del decreto-legge 9 giugno 2021, n. 80](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-06-09;80#art_1-com15), convertito, con modificazioni, dalla [legge 6 agosto 2021, n. 113](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20giugno%202021%20n.%2080%20recante%20misure%20urgenti%20per%20il%20rafforzamento%20della%20capacita%20amministrativa%20delle%20pubbliche%20amministrazioni%20funz_3b05db0e67a3.md), dopo il primo periodo e' inserito il seguente: «Fino al 31 dicembre 2026, per le predette amministrazioni, per la copertura dei posti delle rispettive articolazioni che rivestono la qualifica di soggetti attuatori del PNRR, le quote di cui all'art. 19, comma 6, del medesimo [decreto legislativo n. 165 del 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165), riferite agli incarichi dirigenziali generali e non generali, si applicano nella misura del 12 per cento.». 
+ 2. Al fine di rafforzare l'organizzazione della pubblica amministrazione, sono autorizzati gli incrementi delle dotazioni organiche di cui alla tabella A dell'allegato 1 annesso al presente decreto; le amministrazioni interessate provvedono, entro il 30 ottobre 2023, alla conseguente riorganizzazione mediante le procedure di cui all'[art. 13 del decreto-legge 11 novembre 2022, n. 173](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-11-11;173#art_13), convertito, con modificazioni, dalla [legge 16 dicembre 2022, n. 204](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2011%20novembre%202022%20n.%20173%20recante%20disposizioni%20urgenti%20in%20materia%20di%20riordino%20delle%20attribuzioni%20dei%20Ministeri.%2022G00213.md). Resta, comunque, fermo il termine del 30 giugno 2023 per l'adozione dei regolamenti di riorganizzazione delle strutture e delle unita' di missione di cui all'[art. 1, comma 1, del decreto-legge 24 febbraio 2023, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-02-24;13#art_1-com1), convertito, con modificazioni, dalla [legge 21 aprile 2023, n. 41](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20febbraio%202023%20n.%2013%20recante%20disposizioni%20urgenti%20per%20lattuazione%20del%20Piano%20nazionale%20di%20ripresa%20e%20resilienza%20PNRR%20e%20del%20Piano%20n_ab2ee2e027d3.md). 
+ 3. Le amministrazioni di cui alla tabella B dell'allegato 2 annesso al presente decreto sono autorizzate ad assumere, anche senza il previo esperimento delle procedure di mobilita', le unita' di personale per ciascuna indicate nella medesima tabella B. A tal fine, le predette amministrazioni possono procedere mediante procedure concorsuali anche indette unitamente ad altre amministrazioni o ricorrendo allo scorrimento delle graduatorie di concorsi pubblici banditi da altre amministrazioni per la medesima area professionale. Il Ministero delle infrastrutture e dei trasporti e' autorizzato, per le unita' di personale dirigenziale di seconda fascia di cui alla citata tabella B, a bandire concorsi per professionalita' tecniche in materia di ingegneria civile e ingegneria dei trasporti e meccanica nonche' di ingegneria idraulica e ambientale in deroga a quanto previsto dall'[art. 28, comma 1-ter, del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md). 
+ 3-bis. In coerenza con il piano triennale dei fabbisogni di personale di cui all'[art. 6 del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), e nel rispetto della dotazione organica vigente, il Ministero dell'universita' e della ricerca e' autorizzato a procedere allo scorrimento della graduatoria formata all'esito della valutazione dei titoli nell'ambito del concorso pubblico, per titoli ed esami, per la copertura di centoventicinque posti di personale non dirigenziale, a tempo indeterminato, da inquadrare nell'area funzionale III, posizione economica F1, del comparto Funzioni centrali, presso il Ministero dell'universita' e della ricerca - codice concorso 01, per il reclutamento di ottantacinque unita' da inquadrare nell'area funzionale III, posizione economica F1, profilo di funzionario amministrativo-giuridico-contabile, indetto ai sensi dell'[art. 1, comma 937, della legge 30 dicembre 2020, n. 178](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202021%20e%20bilancio%20pluriennale%20per%20il%20triennio%202021-2023.%2020G00202.md), e dell'[art. 64, comma 6-bis, del decreto-legge 31 maggio 2021, n. 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-31;77#art_64-com6bis), convertito, con modificazioni, dalla [legge 29 luglio 2021, n. 108](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20maggio%202021%20n.%2077%20recante%20governance%20del%20Piano%20nazionale%20di%20ripresa%20e%20resilienza%20e%20prime%20misure%20di%20rafforzamento%20delle%20struttur_55630b637f4d.md), nei limiti dei posti messi a concorso e delle originarie coperture finanziarie di cui all'art. 1, commi 940 e 941, della citata [legge n. 178 del 2020](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020;178) e al citato [art. 64, comma 6-bis, del decreto-legge n. 77 del 2021](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021;77#art_64-com6bis). La procedura di scorrimento di cui al primo periodo puo' essere avviata, con determinazione adottata dall'amministrazione, nel caso in cui, a conclusione dello svolgimento della prova orale, non sia raggiunto un numero di candidati idonei alla successiva fase della procedura concorsuale pari almeno al numero dei posti messi a concorso per lo specifico profilo.
+ Alla graduatoria di cui al presente comma si applica il primo periodo del [comma 5-ter dell'art. 35 del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md). 
+ 4. Per garantire la necessaria speditezza del reclutamento del personale di cui alla tabella B dell'allegato 2: 
+ a) la Presidenza del Consiglio dei ministri - Dipartimento della protezione civile puo' richiedere alla Commissione RIPAM di avviare procedure di reclutamento mediante concorso pubblico per titoli e prova scritta e orale. Ferme restando, a parita' di requisiti, le riserve previste dalla [legge 12 marzo 1999, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-12;68), e dal [codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), il bando puo' prevedere l'attribuzione di un punteggio doppio per il titolo di studio richiesto per l'accesso, qualora il predetto titolo sia stato conseguito non oltre cinque anni prima del termine previsto per la presentazione della domanda di partecipazione alla procedura di reclutamento; 
+ b) il Ministero dell'interno puo' richiedere alla Commissione RIPAM di avviare procedure di reclutamento per il personale non dirigenziale dell'amministrazione civile dell'interno mediante concorso pubblico, per titoli ed esami, bandito su base provinciale e svolto anche mediante l'uso di tecnologie digitali. Ogni candidato puo' presentare domanda per un solo ambito provinciale e per una sola posizione tra quelle messe a bando. Qualora una graduatoria provinciale risulti incapiente rispetto ai posti messi a concorso, l'amministrazione puo' coprire i posti ancora vacanti mediante scorrimento delle graduatorie degli idonei non vincitori per la medesima posizione di lavoro in altri ambiti provinciali, previo interpello e acquisito l'assenso degli interessati. Ferme restando, a parita' di requisiti, le riserve previste dalla legge, relativamente ai titoli valutabili, il bando puo' prevedere l'attribuzione di un punteggio doppio per il titolo di studio richiesto per l'accesso, qualora il predetto titolo sia stato conseguito non oltre cinque anni prima del termine previsto per la presentazione della domanda di partecipazione alla procedura di reclutamento; 
+ b-bis) le amministrazioni centrali e le agenzie possono stipulare convenzioni volte a reclutare il personale di cui necessitano mediante scorrimento delle graduatorie dei concorsi pubblici svolti per il tramite della Commissione RIPAM, in corso di validita'; 
+ b-ter) il Ministero del lavoro e delle politiche sociali e' autorizzato ad avviare procedure di reclutamento, mediante concorso pubblico per titoli e prove scritta e orale, per l'assunzione del personale appartenente all'area dei funzionari di cui alla tabella B dell'allegato 2. Per le medesime esigenze di speditezza, le procedure di reclutamento di cui al primo periodo possono essere finalizzate anche al reclutamento di personale dell'area dei funzionari a valere sulle facolta' assunzionali ordinarie, per specifiche professionalita' con competenze in materia di igiene e sicurezza sui luoghi di lavoro, prevenzione e riduzione delle condizioni di bisogno, analisi e valutazione delle politiche del lavoro, gestione dei fondi strutturali e della capacita' di investimento, digitalizzazione, gestione di siti internet e contrattualistica pubblica. Ferme restando, a parita' di requisiti, le riserve previste dalla [legge 12 marzo 1999, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-12;68), il bando puo' prevedere l'attribuzione di un punteggio doppio per il titolo di studio richiesto per l'accesso, qualora il predetto titolo sia stato conseguito non oltre cinque anni prima del termine previsto per la presentazione della domanda di partecipazione alla procedura di reclutamento, e, in ogni caso, un'adeguata valorizzazione della specifica professionalita' maturata da soggetti di elevata specializzazione tecnica che abbiano svolto attivita' presso il Ministero del lavoro e delle politiche sociali. 
+ 4-bis. 
+ 5. La Presidenza del Consiglio dei ministri, per le necessita' assunzionali del Dipartimento per le politiche in favore delle persone con disabilita' e' autorizzata, nei limiti delle facolta' assunzionali disponibili a legislazione vigente, a bandire concorsi, per i quali con decreto del Presidente del Consiglio dei ministri sono stabilite procedure e requisiti di partecipazione, prevedendo una riserva di posti non inferiore al 10 per cento e non superiore al 30 per cento destinata ai soggetti di cui alla [legge 12 marzo 1999, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-12;68), e prevedendo, in ogni caso, una adeguata valorizzazione della professionalita' specifica dei soggetti in possesso di laurea triennale, laurea specialistica o magistrale che, alla data del 1° aprile 2023, abbiano svolto, mediante incarichi conferiti ai sensi dell'[art. 9, comma 2, del decreto legislativo 30 luglio 1999, n. 303](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), per almeno un triennio, attivita' di supporto tecnico, specialistico e operativo in materia di politiche in favore delle persone con disabilita'. 
+ 6. Per le esigenze di reclutamento del Ministero del turismo, cosi' come determinate nella tabella A dell'allegato 1 e nella tabella B dell'allegato 2, i bandi di concorso per il personale non dirigenziale possono prevedere una riserva di posti non superiore al 50 per cento destinata al personale gia' in servizio a tempo indeterminato presso l'ENIT - Agenzia nazionale per il turismo, che abbia maturato per almeno nove mesi un'adeguata esperienza nelle attivita' strettamente collegate all'esercizio dei compiti istituzionali del predetto Ministero. 
+ 7. All'[art. 7, comma 3, del decreto-legge 1° marzo 2021, n. 22](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-03-01;22#art_7-com3), convertito, con modificazioni, dalla [legge 22 aprile 2021, n. 55](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20marzo%202021%20n.%2022%20recante%20disposizioni%20urgenti%20in%20materia%20di%20riordino%20delle%20attribuzioni%20dei%20Ministeri.%2021G00065.md), le parole: "in numero di 19" sono sostituite dalle seguenti: "in numero di 23". 
+ 8. Al [decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), sono apportate le seguenti modificazioni: 
+ a) l'art. 46 e' sostituito dal seguente: 
+ "Art. 46 (Aree funzionali). - 1. Il Ministero, in particolare, svolge le funzioni di spettanza statale nelle seguenti aree funzionali: 
+ a) politiche sociali e previdenziali: principi ed obiettivi della politica sociale, criteri generali per la programmazione della rete degli interventi di integrazione sociale; standard organizzativi delle strutture interessate; standard dei servizi sociali essenziali; criteri di ripartizione delle risorse del Fondo nazionale per le politiche sociali, politica di tutela abitativa a favore delle fasce sociali deboli ed emarginate; assistenza tecnica, a richiesta degli enti locali e territoriali; rapporti con gli organismi internazionali, coordinamento dei rapporti con gli organismi dell'Unione europea; requisiti per la determinazione dei profili professionali degli operatori sociali e per la relativa formazione; controllo e vigilanza amministrativa e tecnico-finanziaria sugli enti di previdenza e assistenza obbligatoria e sulle organizzazioni non lucrative di utilita' sociale e sui patronati; 
+ b) politiche del lavoro e dell'occupazione e tutela dei lavoratori: indirizzo, programmazione, sviluppo, coordinamento e valutazione delle politiche del lavoro e dell'occupazione; gestione degli incentivi alle persone a sostegno dell'occupabilita' e della nuova occupazione; politiche della formazione professionale come strumento delle politiche attive del lavoro; indirizzo, promozione e coordinamento in materia di collocamento e politiche attive del lavoro; vigilanza dei flussi di entrata dei lavoratori esteri non comunitari; raccordo con organismi internazionali; conciliazione delle controversie di lavoro individuali e plurime e risoluzione delle controversie collettive di rilevanza pluriregionale; conduzione del sistema informativo del lavoro; condizioni di sicurezza nei posti di lavoro; profili di sicurezza dell'impiego sul lavoro di macchine, impianti e prodotti industriali, con esclusione di quelli destinati ad attivita' sanitarie e ospedaliere e dei mezzi di circolazione stradale; assistenza e accertamento delle condizioni di lavoro degli italiani all'estero; 
+ c) amministrazione generale del Ministero: gestione dei servizi indivisibili e comuni, con particolare riguardo alle attivita' di promozione, coordinamento e sviluppo della qualita' dei processi e dell'organizzazione e alla gestione delle risorse; programmazione del fabbisogno finanziario; linee generali e coordinamento delle attivita' concernenti il personale; affari generali e attivita' di gestione del personale del Ministero di carattere comune ed indivisibile; programmazione generale del fabbisogno e reclutamento del personale; formazione del personale; rappresentanza della parte pubblica nei rapporti sindacali; gestione della banca dati del personale, del ruolo e del sistema informativo del personale; anagrafe degli incarichi del personale del Ministero; gestione delle spese e degli acquisti e conduzione dei sistemi informatici di interesse comune."; 
+ b) all'art. 47, il comma 1 e' sostituito dal seguente: 
+ "1. Il Ministero si articola in dipartimenti, disciplinati ai sensi degli articoli 4 e 5. Il numero dei dipartimenti non puo' essere superiore a tre, in riferimento alle aree funzionali di cui all'art. 46, e il numero delle posizioni di livello dirigenziale generale non puo' essere superiore a dodici, ivi inclusi i capi dei dipartimenti. All'individuazione e all'organizzazione dei dipartimenti e delle direzioni generali si provvede sentite le organizzazioni sindacali maggiormente rappresentative". 
+ c) all'art. 54-quater, le parole: "e' pari a 5" sono sostituite dalle seguenti: "e' pari a 7". 
+ 9. All'[art. 17-quinquies, comma 1, del decreto-legge 9 giugno 2021, n. 80](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-06-09;80#art_17quinquies-com1), convertito, con modificazioni, dalla [legge 6 agosto 2021, n. 113](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20giugno%202021%20n.%2080%20recante%20misure%20urgenti%20per%20il%20rafforzamento%20della%20capacita%20amministrativa%20delle%20pubbliche%20amministrazioni%20funz_3b05db0e67a3.md), sono apportate le seguenti modificazioni: 
+ a) al primo periodo, le parole: "di cui all'[art. 10 del decreto-legge 1° aprile 2021, n. 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-04-01;44#art_10), convertito, con modificazioni, dalla [legge 28 maggio 2021, n. 76](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20aprile%202021%20n.%2044%20recante%20misure%20urgenti%20per%20il%20contenimento%20dellepidemia%20da%20COVID-19%20in%20materia%20di%20vaccinazioni%20anti%20SARS-CoV-2_d666f94d5107.md)" sono sostituite dalle seguenti: "di cui all'[art. 35-quater del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md)"; 
+ b) al secondo periodo, le parole: "ai sensi dell'art. 10, comma 1, lettera c-bis), del citato [decreto-legge n. 44 del 2021](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021;44)" sono sostituite dalle seguenti: «ai sensi dell'[art. 35-quater, comma 1, lettera f), del decreto legislativo n. 165 del 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165#art_35quater-com1-letf)». 
+ 9-bis. Il [comma 4 dell'art. 18 del decreto legislativo 6 marzo 2017, n. 40](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Istituzione%20e%20disciplina%20del%20servizio%20civile%20universale%20a%20norma%20dellarticolo%208%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00053.md), e' sostituito dal seguente: 
+ "4. A favore degli operatori volontari che hanno concluso il servizio civile universale senza demerito e' riservata una quota pari al 15 per cento dei posti nei concorsi per l'assunzione di personale non dirigenziale indetti dalle amministrazioni pubbliche di cui all'[art. 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), dalle aziende speciali e dagli enti di cui al testo unico delle leggi sull'ordinamento degli enti locali, di cui al [decreto legislativo 18 agosto 2000, n. 267](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md), fermi restando i diritti dei soggetti aventi titolo all'assunzione ai sensi della [legge 12 marzo 1999, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-12;68), e tenuto conto dei limiti previsti dall'art. 5, primo comma, del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, di cui al [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, e dall'art. 52, comma 1-bis](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), del citato [decreto legislativo n. 165 del 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165). Se la riserva di cui al primo periodo non puo' operare integralmente o parzialmente, perche' da' luogo a frazioni di posto, tali frazioni si cumulano con le riserve relative ai successivi concorsi per l'assunzione di personale non dirigenziale banditi dalla medesima amministrazione, azienda o ente oppure sono utilizzate nei casi in cui si procede a ulteriori assunzioni attingendo alla graduatoria degli idonei". 
+ 10. Al [decreto-legge 14 giugno 2021, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-06-14;82), convertito, con modificazioni, dalla [legge 4 agosto 2021, n. 109](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20giugno%202021%20n.%2082%20recante%20disposizioni%20urgenti%20in%20materia%20di%20cybersicurezza%20definizione%20dellarchitettura%20nazionale%20di%20cybersicu_9147deacc5bd.md), sono apportate le seguenti modificazioni: 
+ a) all'art. 12, dopo il comma 3 e' inserito il seguente: 
+ "3-bis. Nell'ambito delle assunzioni a tempo indeterminato attraverso modalita' concorsuali, l'Agenzia puo' riservare una quota non superiore al 50 per cento dei posti messi a concorso per l'assunzione di personale non dirigenziale in favore dei titolari di rapporto di lavoro a tempo determinato di cui al comma 2, lettera b), in possesso dei requisiti necessari per l'inquadramento nel ruolo del personale dell'Agenzia di cui al comma 2, lettera a), e che, alla data di pubblicazione del bando, abbiano prestato servizio continuativo per almeno due anni presso la medesima Agenzia"; 
+ b) all'art. 17, dopo il comma 8 e' inserito il seguente: 
+ "8.1. Ai fini di cui al comma 8, l'Agenzia si avvale altresi', sino al 31 dicembre 2023, di un contingente di personale, nel limite di cinquanta unita', appartenente alle pubbliche amministrazioni, alle autorita' indipendenti e alle societa' a controllo pubblico, messo a disposizione dell'Agenzia stessa su specifica richiesta e secondo modalita' individuate d'intesa con i soggetti pubblici e privati di appartenenza. I relativi oneri sono a carico dell'Agenzia e ai fini del trattamento retributivo si applicano le disposizioni del regolamento di cui all'art. 12, comma 1. Il personale di cui al primo periodo puo' essere inquadrato, con provvedimento dell'Agenzia adottato ai sensi dell'art. 5, comma 3, del regolamento di cui al [decreto del Presidente del Consiglio dei ministri 9 dicembre 2021, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2021-12-09;223), nel ruolo del personale di cui all'art. 12, comma 2, lettera a), non oltre il termine indicato al medesimo primo periodo del presente comma. Al relativo inquadramento si provvede, mediante apposite selezioni, con le modalita' e le procedure definite con provvedimento dell'Agenzia, adottato ai sensi del medesimo art. 5, comma 3, del regolamento di cui al [decreto del Presidente del Consiglio dei ministri n. 223 del 2021](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2021;223), sulla base di criteri di valorizzazione delle pregresse esperienze e anzianita' di servizio, delle competenze acquisite, dei requisiti di professionalita' posseduti e dell'impiego nell'Agenzia. Al personale inquadrato ai sensi dei periodi terzo e quarto del presente comma si applicano le disposizioni del regolamento di cui all'art. 12, comma 1, anche in materia di opzione per il trattamento previdenziale. Il personale di cui al comma 8, lettera b), gia' inserito nel ruolo del personale dell'Agenzia, puo' essere reinquadrato secondo i medesimi criteri di cui al quarto periodo del presente comma con provvedimento dell'Agenzia adottato, ai sensi del citato art. 5, comma 3, del regolamento di cui al [decreto del Presidente del Consiglio dei ministri n. 223 del 2021](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2021;223), entro il 31 dicembre 2023, senza effetti retroattivi. Il personale di cui al terzo periodo del presente comma e' computato nel numero dei posti previsti per la prima operativita' dell'Agenzia, di cui all'art. 12, comma 4". 
+ 11. All'[art. 1 del decreto-legge 30 dicembre 2019, n. 162](../DL%20proroghe/Disposizioni%20urgenti%20in%20materia%20di%20proroga%20di%20termini%20legislativi%20di%20organizzazione%20delle%20pubbliche%20amministrazioni%20nonche%20di%20innovazione%20tecnologica.%2019G00171.md), convertito, con modificazioni, dalla [legge 28 febbraio 2020, n. 8](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202019%20n.%20162%20recante%20disposizioni%20urgenti%20in%20materia%20di%20proroga%20di%20termini%20legislativi%20di%20organizzazione%20delle%20pubblich_802a4ba69299.md), sono apportate le seguenti modificazioni: 
+ a) al comma 7, lettera c), dopo le parole: "e dell'amministrazione penitenziaria" sono inserite le seguenti: "nonche' dei titolari di incarichi di vertice e di funzione dirigenziale dell'Agenzia per la cybersicurezza nazionale,"; 
+ b) al comma 7-bis, le parole: «del Ministro competente» sono sostituite dalle seguenti: "dell'Autorita' politica competente". 
+ 11-bis. Al fine di conseguire gli obiettivi del Piano nazionale di ripresa e resilienza volti a migliorare l'efficienza del sistema giudiziario mediante la semplificazione e la riduzione del numero dei giudizi pendenti dinnanzi ai tribunali ordinari, tenuto conto della proroga disposta, da ultimo, ai sensi dell'[art. 8, comma 8-ter, del decreto-legge 29 dicembre 2022, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-12-29;198#art_8-com8ter), convertito, con modificazioni, dalla [legge 24 febbraio 2023, n. 14](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20dicembre%202022%20n.%20198%20recante%20disposizioni%20urgenti%20in%20materia%20di%20termini%20legislativi.%20Proroga%20di%20termini%20per%20lesercizio%20di%20deleg_8fff2bad44d1.md), le attuali dotazioni organiche del personale amministrativo dei tribunali soppressi delle circoscrizioni dell'Aquila e di Chieti possono essere integrate, nel limite complessivo della dotazione organica del Ministero della giustizia e ad invarianza finanziaria, con personale amministrativo gia' assegnato alle medesime circoscrizioni. 
+ 12. Fino al 31 dicembre 2026 l'Autorita' di regolazione per energia, reti e ambiente (ARERA) puo' avvalersi, ai sensi dell'[art. 17, comma 14, della legge 15 maggio 1997, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_17-com14), di un contingente di 15 unita' di personale collocato fuori ruolo o in posizione di comando, distacco o altra analoga posizione prevista dagli ordinamenti di appartenenza, proveniente da amministrazioni pubbliche. Il predetto personale conserva il trattamento economico in godimento presso le amministrazioni di provenienza con oneri a carico delle medesime. All'atto del collocamento fuori ruolo e' reso indisponibile nella dotazione organica dell'amministrazione di provenienza, per tutta la durata del collocamento fuori ruolo, un numero di posti equivalente dal punto di vista finanziario. 
+ 12-bis. All'[art. 20 del decreto legislativo 14 maggio 2019, n. 50](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202016-798%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20dell11%20maggio%202016%20sulla%20sicurezza%20delle%20ferrovie.%2019G00057.md), sono apportate le seguenti modificazioni: 
+ a) al comma 1, primo periodo, la parola: "dalla" e' sostituita dalle seguenti: «da un ufficio dirigenziale di livello non generale tra quelli della"; 
+ b) al comma 2, secondo periodo, le parole: "il dirigente di livello generale della Direzione generale" sono sostituite dalle seguenti: "un dirigente di livello non generale della Direzione generale". 
+ 12-ter. Il Ministero delle infrastrutture e dei trasporti provvede all'attuazione delle disposizioni di cui al comma 12-bis nell'ambito delle procedure di cui all'[art. 13 del decreto-legge 11 novembre 2022, n. 173](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-11-11;173#art_13), convertito, con modificazioni, dalla [legge 16 dicembre 2022, n. 204](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2011%20novembre%202022%20n.%20173%20recante%20disposizioni%20urgenti%20in%20materia%20di%20riordino%20delle%20attribuzioni%20dei%20Ministeri.%2022G00213.md), con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente e comunque senza nuovi o maggiori oneri a carico della finanza pubblica. 
+ 12-quater. All'[art. 18, comma 1, della legge 4 novembre 2010, n. 183](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Deleghe%20al%20Governo%20in%20materia%20di%20lavori%20usuranti%20di%20riorganizzazione%20di%20enti%20di%20congedi%20aspettative%20e%20permessi%20di%20ammortizzatori%20sociali%20di%20servizi%20per%20limpiego%20di%20incentivi%20alloccupazion_2fbcb692cb82.md), le parole: "di dodici mesi" sono sostituite dalle seguenti: "di trentasei mesi". 
+ 12-quinquies. Al [decreto-legge 16 luglio 2020, n. 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-07-16;76), convertito, con modificazioni, dalla [legge 11 settembre 2020, n. 120](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20luglio%202020%20n.%2076%20recante%20misure%20urgenti%20per%20la%20semplificazione%20e%20linnovazione%20digitale.%2020G00139.md), sono apportate le seguenti modificazioni: 
+ a) nelle more di una complessiva revisione della disciplina sulla responsabilita' amministrativo-contabile, all'art. 21, comma 2, primo periodo, le parole: «30 giugno 2023» sono sostituite dalle seguenti: "30 giugno 2024"; 
+ b) all'art. 22, comma 1, primo periodo, sono aggiunte, in fine, le seguenti parole: ", ad esclusione di quelli previsti o finanziati dal Piano nazionale di ripresa e resilienza, di cui al regolamento (UE) 2021/241 del Parlamento europeo e del Consiglio, del 12 febbraio 2021, o dal Piano nazionale per gli investimenti complementari, di cui al [decreto-legge 6 maggio 2021, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-06;59), convertito, con modificazioni, dalla [legge 1° luglio 2021, n. 101](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20maggio%202021%20n.%2059%20recante%20misure%20urgenti%20relative%20al%20Fondo%20complementare%20al%20Piano%20nazionale%20di%20ripresa%20e%20resilienza%20e%20altre%20misu_e5b088cf92d2.md)". 
+ 12-sexies. L'art. 5, comma 9, terzo periodo, del [decreto-legge 6 luglio 2012, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95), convertito, con modificazioni, dalla [legge 7 agosto 2012, n. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md), si interpreta nel senso che la possibilita' di conferire a titolo gratuito gli incarichi, le cariche e le collaborazioni a soggetti gia' lavoratori privati o pubblici collocati in quiescenza, di cui al medesimo comma 9, si applica anche per gli incarichi di presidente della Giunta centrale per gli studi storici e di direttore degli Istituti storici di cui al regolamento di cui al [decreto del Presidente della Repubblica 11 novembre 2005, n. 255](../Regolamenti%20governativi/Regolamento%20recante%20unificazione%20strutturale%20della%20Giunta%20centrale%20per%20gli%20studi%20storici%20e%20degli%20Istituti%20storici.md). 
+ 13. Fermo restando quanto previsto dall'art. 7, comma 4, ai fini dell'attuazione dei commi 2 e 3 e' autorizzata la spesa: 
+ a) per la Presidenza del Consiglio dei ministri, di euro 5.768.260 per l'anno 2023 e di euro 8.652.390 annui a decorrere dall'anno 2024 per le assunzioni a tempo indeterminato e di euro 822.718 per l'anno 2023 e di euro 86.524 annui a decorrere dall'anno 2024 per le spese di funzionamento; 
+ b) per il Ministero degli affari esteri e della cooperazione internazionale, di euro 937.362 per l'anno 2024 e di euro 3.749.446 annui a decorrere dall'anno 2025 per le assunzioni a tempo indeterminato e di euro 674.945 per l'anno 2024 e di euro 37.495 annui a decorrere dall'anno 2025 per le spese di funzionamento; 
+ c) per il Ministero dell'interno, di euro 8.724.863 per l'anno 2023 e di euro 13.087.295 annui a decorrere dall'anno 2024 per le assunzioni a tempo indeterminato e di euro 1.308.730 per l'anno 2023 e di euro 130.873 annui a decorrere dall'anno 2024 per le spese di funzionamento; 
+ d) per il Ministero della difesa, di euro 175.669 per l'anno 2023 e di euro 263.503 annui a decorrere dall'anno 2024 per le assunzioni a tempo indeterminato e di euro 26.351 per l'anno 2023 e di euro 2.636 annui a decorrere dall'anno 2024 per le spese di funzionamento; 
+ e) per il Ministero dell'economia e delle finanze, di euro 1.135.888 per l'anno 2023 e di euro 1.703.832 annui a decorrere dall'anno 2024 per le assunzioni a tempo indeterminato e di euro 470.384 per l'anno 2023 e di euro 17.039 annui a decorrere dall'anno 2024 per le spese di funzionamento; 
+ f) per il Ministero delle imprese e del made in Italy, di euro 175.391 per l'anno 2023 e di euro 263.086 annui a decorrere dall'anno 2024 per le assunzioni a tempo indeterminato, di euro 175.391 per l'anno 2023 e di euro 263.086 per ciascuno degli anni 2024, 2025 e 2026 per le assunzioni a tempo determinato e di euro 39.463 per l'anno 2023, di euro 5.262 per ciascuno degli anni dal 2024 al 2026 e di euro 2.631 annui a decorrere dall'anno 2027 per le spese di funzionamento; 
+ g) per il Ministero dell'agricoltura, della sovranita' alimentare e delle foreste, di euro 3.558.216 per l'anno 2023 e di euro 5.337.323 annui a decorrere dall'anno 2024 per le assunzioni a tempo indeterminato e di euro 833.733 per l'anno 2023 e di euro 53.374 annui a decorrere dall'anno 2024 per le spese di funzionamento; 
+ h) per il Ministero dell'ambiente e della sicurezza energetica, di euro 694.818 per l'anno 2023 e di euro 1.042.226 annui a decorrere dall'anno 2024 per le assunzioni a tempo indeterminato e di euro 59.024 per l'anno 2023 e di euro 5.903 annui a decorrere dall'anno 2024 per le spese di funzionamento; 
+ i) per il Ministero delle infrastrutture e dei trasporti, di euro 2.126.117 per l'anno 2023 e di euro 3.189.175 annui a decorrere dall'anno 2024 per le assunzioni a tempo indeterminato e di euro 818.918 per l'anno 2023 e di euro 31.892 annui a decorrere dall'anno 2024 per le spese di funzionamento; 
+ l) per il Ministero del lavoro e delle politiche sociali, di euro 1.450.708 per l'anno 2023 e di euro 2.176.061 annui a decorrere dall'anno 2024 per le assunzioni a tempo indeterminato, e di euro 225.000 per l'anno 2023 e di euro 250.000 annui a decorrere dall'anno 2024 per le spese di funzionamento; 
+ m) per il Ministero dell'universita' e della ricerca, di euro 561.189 per l'anno 2023 e di euro 841.783 annui a decorrere dall'anno 2024 per le assunzioni a tempo indeterminato e di euro 84.179 per l'anno 2023 e di euro 8.418 annui a decorrere dall'anno 2024 per le spese di funzionamento; 
+ n) per il Ministero della cultura, di euro 1.489.936 per l'anno 2023 e di euro 2.234.904 annui a decorrere dall'anno 2024 per le assunzioni a tempo indeterminato e di euro 253.491 per l'anno 2023 e di euro 22.350 annui a decorrere dall'anno 2024 per le spese di funzionamento; 
+ o) per il Ministero della salute, di euro 287.490 per l'anno 2023 e di euro 431.235 per ciascuno degli anni dal 2024 al 2026 per le assunzioni a tempo determinato e di euro 21.562 per l'anno 2023 e di euro 4.313 per ciascuno degli anni dal 2024 al 2026 per le spese di funzionamento; 
+ p) per il Ministero del turismo, di euro 4.741.284 per l'anno 2023 e di euro 7.111.925 annui a decorrere dall'anno 2024 per le assunzioni a tempo indeterminato e di euro 1.021.001 per l'anno 2023 e di euro 64.101 annui a decorrere dall'anno 2024 per le spese di funzionamento; 
+ q) per l'Avvocatura generale dello Stato, di euro 2.781.565 per l'anno 2023 e di euro 4.172.347 annui a decorrere dall'anno 2024 per le assunzioni a tempo indeterminato e di euro 578.157 per l'anno 2023 e di euro 41.724 annui a decorrere dall'anno 2024 per le spese di funzionamento; 
+ r) per l'Agenzia nazionale di valutazione del sistema universitario e della ricerca (ANVUR), di euro 476.477 per l'anno 2023 e di euro 714.715 annui a decorrere dall'anno 2024 per le assunzioni a tempo indeterminato; 
+ s) per l'Agenzia nazionale per i servizi sanitari regionali - AGENAS, di euro 2.348.646 per l'anno 2023 e di euro 3.522.969 annui a decorrere dall'anno 2024 per le assunzioni a tempo indeterminato. 
+ 14. Agli oneri derivanti dai commi da 1 a 13, pari a 43.234.619 euro per l'anno 2023, 57.344.571 euro per l'anno 2024, 59.519.205 euro per l'anno 2025, 59.519.205 euro per l'anno 2026 e 58.817.940 euro annui a decorrere dall'anno 2027, si provvede: 
+ a) quanto a 36.671.908 euro per l'anno 2023, 55.945.217 euro per l'anno 2024, 58.757.301 euro per l'anno 2025, 58.757.301 euro per l'anno 2026 e 58.062.980 euro annui a decorrere dall'anno 2027, mediante corrispondente riduzione del Fondo di cui all'[art. 1, comma 607, della legge 30 dicembre 2021, n. 234](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202022%20e%20bilancio%20pluriennale%20per%20il%20triennio%202022-2024.%2021G00256.md); 
+ b) quanto a 822.718 euro per l'anno 2023 e 86.524 annui a decorrere dall'anno 2024, mediante corrispondente riduzione del Fondo di cui all'[art. 1, comma 200, della legge 23 dicembre 2014, n. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md); 
+ c) quanto a 5.739.993 euro per l'anno 2023, 1.312.830 euro per l'anno 2024 e 675.380 euro annui a decorrere dall'anno 2025, mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2023-2025, nell'ambito del programma "Fondi di riserva e speciali" della missione «Fondi da ripartire» dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2023, allo scopo parzialmente utilizzando: 
+ 1) l'accantonamento relativo al Ministero dell'economia e delle finanze per 1.048.541 euro per l'anno 2023 e 58.763 euro annui a decorrere dall'anno 2024; 
+ 2) l'accantonamento relativo al Ministero delle imprese e del made in Italy per 39.463 euro per l'anno 2023 e 5.262 euro annui a decorrere dall'anno 2024; 
+ 3) l'accantonamento relativo al Ministero del lavoro e delle politiche sociali per 225.000 euro per l'anno 2023 e 250.000 euro annui a decorrere dall'anno 2024; 
+ 4) l'accantonamento relativo al Ministero degli affari esteri e della cooperazione internazionale per 674.945 euro per l'anno 2024 e 37.495 euro annui a decorrere dall'anno 2025; 
+ 5) l'accantonamento relativo al Ministero dell'interno per 1.308.730 euro per l'anno 2023 e 130.873 euro annui a decorrere dall'anno 2024; 
+ 6) l'accantonamento relativo al Ministero dell'ambiente e della sicurezza energetica per 59.024 euro per l'anno 2023 e 5.903 euro annui a decorrere dall'anno 2024; 
+ 7) l'accantonamento relativo al Ministero delle infrastrutture e dei trasporti per 818.918 euro per l'anno 2023 e 31.892 euro annui a decorrere dall'anno 2024; 
+ 8) l'accantonamento relativo al Ministero dell'universita' e della ricerca per 84.179 euro per l'anno 2023 e 8.418 euro annui a decorrere dall'anno 2024; 
+ 9) l'accantonamento relativo al Ministero della difesa per 26.351 euro per l'anno 2023 e 2.636 euro annui a decorrere dall'anno 2024; 
+ 10) l'accantonamento relativo al Ministero dell'agricoltura, della sovranita' alimentare e delle foreste per 833.733 euro per l'anno 2023 e 53.374 euro annui a decorrere dall'anno 2024; 
+ 11) l'accantonamento relativo al Ministero della cultura per 253.491 euro per l'anno 2023 e 22.350 euro annui a decorrere dall'anno 2024; 
+ 12) l'accantonamento relativo al Ministero della salute per 21.562 euro per l'anno 2023 e 4.313 euro annui a decorrere dall'anno 2024; 
+ 13) l'accantonamento relativo al Ministero del turismo per 1.021.001 euro per l'anno 2023 e 64.101 euro annui a decorrere dall'anno 2024. 
+ 14-bis. Al [decreto legislativo 27 gennaio 2010, n. 35](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-68-CE%20relativa%20al%20trasporto%20interno%20di%20merci%20pericolose.%2010G0049.md), sono apportate le seguenti modificazioni: 
+ a) all'art. 2, comma 1, e' aggiunta, in fine, la seguente lettera: 
+ "g-bis) Agenzia nazionale per la sicurezza delle ferrovie e delle infrastrutture stradali e autostradali (ANSFISA): l'Agenzia di cui all'[art. 12 del decreto-legge 28 settembre 2018, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-09-28;109#art_12), convertito, con modificazioni, dalla [legge 16 novembre 2018, n. 130](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20settembre%202018%20n.%20109%20recante%20disposizioni%20urgenti%20per%20la%20citta%20di%20Genova%20la%20sicurezza%20della%20rete%20nazionale%20delle%20infrastruttur_a2d2c50078c8.md)"; 
+ b) all'art. 9, comma 1, dopo le parole: «ed eventuali altri Ministeri» sono inserite le seguenti: ", agenzie ed enti"; 
+ c) all'art. 13 e' aggiunto, in fine, il seguente comma: 
+ "5-bis. Le commissioni di cui ai commi 1, 2 e 3 sono integrate con rappresentanti dell'ANSFISA". 
+ 14-ter. All'[art. 35 del decreto del Presidente della Repubblica 11 luglio 1980, n. 753](../DPR/Nuove%20norme%20in%20materia%20di%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20ferrovie%20e%20di%20altri%20servizi%20di%20trasporto.md), sono apportate le seguenti modificazioni: 
+ a) al comma 4: 
+ 1) al primo periodo, dopo le parole: "dello sviluppo economico,» sono inserite le seguenti: acquisito il parere dell'Agenzia nazionale per la sicurezza delle ferrovie e delle infrastrutture stradali e autostradali (ANSFISA),"; 
+ 2) al secondo periodo, dopo le parole: "e della salute,» sono inserite le seguenti: «acquisito il parere dell'ANSFISA,"; 
+ 3) al terzo periodo, le parole da: «per le merci assimilabili» fino alla fine del comma sono sostituite dalle seguenti: "per le merci assimilabili puo' altresi' essere imposto l'obbligo dell'autorizzazione del singolo trasporto, secondo i criteri e le modalita' determinati dall'ANSFISA"; 
+ b) al comma 5, primo periodo, dopo le parole: «della tutela del territorio e del mare,» sono inserite le seguenti: "acquisito il parere dell'ANSFISA,"; 
+ c) al comma 7, alinea, dopo le parole: "del territorio e del mare," sono inserite le seguenti: "acquisito il parere dell'ANSFISA,"; 
+ d) al comma 12, le parole: "Lo speditore o il trasportatore che violano gli obblighi di sicurezza in capo agli stessi posti rispettivamente dal capitolo 1.4.2.1 e 1.4.2.2 del RID" sono sostituite dalle seguenti: "I soggetti che violano gli obblighi di sicurezza in capo agli stessi posti rispettivamente dai paragrafi 1.4.2 e 1.4.3 del RID" ed e' aggiunto, in fine, il seguente periodo: "L'accertamento delle violazioni e' svolto dai soggetti individuati dall'art. 71 e dal personale dell'ANSFISA". 
+ 14-quater. All'[art. 16, comma 2, del decreto legislativo 14 maggio 2019, n. 50](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202016-798%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20dell11%20maggio%202016%20sulla%20sicurezza%20delle%20ferrovie.%2019G00057.md), e' aggiunta, in fine, la seguente lettera: "ff-bis) svolgere i compiti derivanti dal [decreto legislativo 27 gennaio 2010, n. 35](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-68-CE%20relativa%20al%20trasporto%20interno%20di%20merci%20pericolose.%2010G0049.md)". 
+ 14-quinquies. Le amministrazioni competenti provvedono all'attuazione delle disposizioni di cui ai commi da 14-bis a 14-quater nell'ambito delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente e comunque senza nuovi o maggiori oneri a carico della finanza pubblica. 
+ 14-sexies. Dopo il [comma 7-bis dell'art. 6 del decreto-legge 9 giugno 2021, n. 80](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-06-09;80#art_6-com7bis), convertito, con modificazioni, dalla [legge 6 agosto 2021, n. 113](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20giugno%202021%20n.%2080%20recante%20misure%20urgenti%20per%20il%20rafforzamento%20della%20capacita%20amministrativa%20delle%20pubbliche%20amministrazioni%20funz_3b05db0e67a3.md), e' inserito il seguente: 
+ "7-ter. Nell'ambito della sezione del Piano relativa alla formazione del personale, le amministrazioni di cui al comma 1 indicano quali elementi necessari gli obiettivi e le occorrenti risorse finanziarie, nei limiti di quelle a tale scopo disponibili, prevedendo l'impiego delle risorse proprie e di quelle attribuite dallo Stato o dall'Unione europea, nonche' le metodologie formative da adottare in riferimento ai diversi destinatari. A tal fine le amministrazioni di cui al comma 1 individuano al proprio interno dirigenti e funzionari aventi competenze e conoscenze idonee per svolgere attivita' di formazione con risorse interne e per esercitare la funzione di docente o di tutor, per i quali sono predisposti specifici percorsi formativi". 
+ 14-septies. Nell'ambito della revisione della disciplina in materia di inclusione lavorativa, nel settore pubblico e nel settore privato, possono essere individuate, con riferimento alla quota di cui all'[art. 3, comma 1, lettera a), della legge 12 marzo 1999, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-12;68#art_3-com1-leta), eventuali specifiche riserve in favore delle categorie di persone con disabilita' per le quali si riscontra una maggiore difficolta' di inserimento lavorativo.». 
+ - Si riporta l'[art. 3 della legge 14 gennaio 1994, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;20#art_3) (Disposizioni in materia di giurisdizione e controllo della Corte dei conti): 
+ «Art. 3 (Norme in materia di controllo della Corte dei conti). - 1. Il controllo preventivo di legittimita' della Corte dei conti si esercita esclusivamente sui seguenti atti non aventi forza di legge: 
+ a) provvedimenti emanati a seguito di deliberazione del Consiglio dei ministri; 
+ b) atti del Presidente del Consiglio dei ministri e atti dei Ministri aventi ad oggetto la definizione delle piante organiche, il conferimento di incarichi di funzioni dirigenziali e le direttive generali per l'indirizzo e per lo svolgimento dell'azione amministrativa; 
+ c) atti normativi a rilevanza esterna, atti di programmazione comportanti spese ed atti generali attuativi di norme comunitarie; 
+ c-bis) 
+ d) provvedimenti dei comitati interministeriali di riparto o assegnazione di fondi ed altre deliberazioni emanate nelle materie di cui alle lettere b) e c); 
+ e) 
+ f) provvedimenti di disposizione del demanio e del patrimonio immobiliare; 
+ f-bis) atti e contratti di cui all'[art. 7, comma 6, del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), e successive modificazioni; 
+ f-ter) atti e contratti concernenti studi e consulenze di cui all'[art. 1, comma 9, della legge 23 dicembre 2005, n. 266](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md); 
+ g) decreti che approvano contratti delle amministrazioni dello Stato, escluse le aziende autonome: attivi, di qualunque importo, ad eccezione di quelli per i quali ricorra l'ipotesi prevista dall'ultimo comma dell'[art. 19 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md); di appalto d'opera, se di importo superiore al valore in ECU stabilito dalla normativa comunitaria per l'applicazione delle procedure di aggiudicazione dei contratti stessi; altri contratti passivi, se di importo superiore ad un decimo del valore suindicato; 
+ h) decreti di variazione del bilancio dello Stato, di accertamento dei residui e di assenso preventivo del Ministero del tesoro all'impegno di spese correnti a carico di esercizi successivi; 
+ i) atti per il cui corso sia stato impartito l'ordine scritto del Ministro; 
+ l) atti che il Presidente del Consiglio dei ministri richieda di sottoporre temporaneamente a controllo preventivo o che, la Corte dei conti deliberi di assoggettare, per un periodo determinato, a controllo preventivo in relazione a situazioni di diffusa e ripetuta irregolarita' rilevate in sede di controllo successivo. 
+ 1-bis. Per i controlli previsti dalle lettere f-bis) e f-ter) del comma 1 e' competente in ogni caso la sezione centrale del controllo di legittimita'. 
+ 2. I provvedimenti sottoposti al controllo preventivo acquistano efficacia se il competente ufficio di controllo non ne rimetta l'esame alla sezione del controllo nel termine di trenta giorni dal ricevimento. Il termine e' interrotto se l'ufficio richiede chiarimenti o elementi integrativi di giudizio. Decorsi trenta giorni dal ricevimento delle controdeduzioni dell'amministrazione, il provvedimento acquista efficacia se l'ufficio non ne rimetta l'esame alla sezione del controllo. La sezione del controllo si pronuncia sulla conformita' a legge entro trenta giorni dalla data di deferimento dei provvedimenti o dalla data di arrivo degli elementi richiesti con ordinanza istruttoria. Decorso questo termine i provvedimenti divengono esecutivi. 
+ 3. Le sezioni riunite della Corte dei conti possono, con deliberazione motivata, stabilire che singoli atti di notevole rilievo finanziario, individuati per categorie ed amministrazioni statali, siano sottoposti all'esame della Corte per un periodo determinato. La Corte puo' chiedere il riesame degli atti entro quindici giorni dalla loro ricezione, ferma rimanendone l'esecutivita'. Le amministrazioni trasmettono gli atti adottati a seguito del riesame alla Corte dei conti, che ove rilevi illegittimita', ne da' avviso al Ministro. 
+ 4. La Corte dei conti svolge, anche in corso di esercizio, il controllo successivo sulla gestione del bilancio e del patrimonio delle amministrazioni pubbliche, nonche' sulle gestioni fuori bilancio e sui fondi di provenienza comunitaria, verificando la legittimita' e la regolarita' delle gestioni, nonche' il funzionamento dei controlli interni a ciascuna amministrazione. Accerta, anche in base all'esito di altri controlli, la rispondenza dei risultati dell'attivita' amministrativa agli obiettivi stabiliti dalla legge, valutando comparativamente costi, modo e tempi dello svolgimento dell'azione amministrativa.
+ La Corte definisce annualmente i programmi e i criteri di riferimento del controllo sulla base delle priorita' previamente deliberate dalle competenti Commissioni parlamentari a norma dei rispettivi regolamenti, anche tenendo conto, ai fini di referto per il coordinamento del sistema di finanza pubblica, delle relazioni redatte dagli organi, collegiali o monocratici, che esercitano funzioni di controllo o vigilanza su amministrazioni, enti pubblici, autorita' amministrative indipendenti o societa' a prevalente capitale pubblico. 
+ 5. Nei confronti delle amministrazioni regionali, il controllo della gestione concerne il perseguimento degli obiettivi stabiliti dalle leggi di principio e di programma. 
+ 6. La Corte dei conti riferisce, almeno annualmente, al Parlamento ed ai consigli regionali sull'esito del controllo eseguito. Le relazioni della Corte sono altresi' inviate alle amministrazioni interessate, alle quali la Corte formula, in qualsiasi altro momento, le proprie osservazioni. Le amministrazioni comunicano alla Corte ed agli organi elettivi, entro sei mesi dalla data di ricevimento della relazione, le misure conseguenzialmente adottate. 
+ 7. Restano ferme, relativamente agli enti locali, le disposizioni di cui al [decreto-legge 22 dicembre 1981, n. 786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-12-22;786), convertito, con modificazioni, dalla [legge 26 febbraio 1982, n. 51](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20dicembre%201981%20n.%20786%20recante%20disposizioni%20in%20materia%20di%20finanza%20locale.md), e successive modificazioni ed integrazioni, nonche', relativamente agli enti cui lo Stato contribuisce in via ordinaria, le disposizioni della [legge 21 marzo 1958, n. 259](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-21;259). Le relazioni della Corte contengono anche valutazioni sul funzionamento dei controlli interni. 
+ 8. Nell'esercizio delle attribuzioni di cui al presente articolo, la Corte dei conti puo' richiedere alle amministrazioni pubbliche ed agli organi di controllo interno qualsiasi atto o notizia e puo' effettuare e disporre ispezioni e accertamenti diretti. Si applica il [comma 4 dell'art. 2 del decreto-legge 15 novembre 1993, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-11-15;453#art_2-com4). Puo' richiedere alle amministrazioni pubbliche non territoriali il riesame di atti ritenuti non conformi a legge. Le amministrazioni trasmettono gli atti adottati a seguito del riesame alla Corte dei conti, che, ove rilevi illegittimita', ne da' avviso all'organo generale di direzione. E' fatta salva, in quanto compatibile con le disposizioni della presente legge, la disciplina in materia di controlli successivi previsti dal [decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, e dal [decreto legislativo 12 febbraio 1993, n. 39, nonche' dall'art. 166](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20sistemi%20informativi%20automatizzati%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellart.%202%20comma%201%20lettera%20mm%20della%20legge%2023%20ottobre%201992%20n.%20421.md) della [legge 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312). 
+ 9. Per l'esercizio delle attribuzioni di controllo, si applicano, in quanto compatibili con le disposizioni della presente legge, le norme procedurali di cui al testo unico delle leggi sulla Corte dei conti, approvato con [regio decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), e successive modificazioni. 
+ 10. La sezione del controllo e' composta dal presidente della Corte dei conti che la presiede, dai presidenti di sezione preposti al coordinamento e da tutti i magistrati assegnati a funzioni di controllo. La sezione e' ripartita annualmente in quattro collegi dei quali fanno parte, in ogni caso, il presidente della Corte dei conti e i presidenti di sezione preposti al coordinamento. I collegi hanno distinta competenza per tipologia di controllo o per materia e deliberano con un numero minimo di undici votanti. L'adunanza plenaria e' presieduta dal presidente della Corte dei conti ed e' composta dai presidenti di sezione preposti al coordinamento e da trentacinque magistrati assegnati a funzioni di controllo, individuati annualmente dal Consiglio di Presidenza in ragione di almeno tre per ciascun collegio della sezione e uno per ciascuna delle sezioni di controllo sulle amministrazioni delle regioni a statuto speciale e delle province autonome di Trento e di Bolzano. L'adunanza plenaria delibera con un numero minimo di ventuno votanti. 
+ 10-bis. La sezione del controllo in adunanza plenaria stabilisce annualmente i programmi di attivita' e le competenze dei collegi, nonche' i criteri per la loro composizione da parte del presidente della Corte dei conti. 
+ 11. Ferme restando le ipotesi di deferimento previste dall'art. 24 del citato testo unico delle leggi sulla Corte dei conti come sostituito dall'[art. 1 della legge 21 marzo 1953, n. 161](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-03-21;161#art_1), la sezione del controllo si pronuncia in ogni caso in cui insorge il dissenso tra i componenti magistrati circa la legittimita' di atti. Del collegio viene chiamato a far parte in qualita' di relatore il magistrato che deferisce la questione alla sezione. 
+ 12. I magistrati addetti al controllo successivo di cui al comma 4 operano secondo i previsti programmi annuali, ma da questi possono temporaneamente discostarsi, per motivate ragioni, in relazione a situazioni e provvedimenti che richiedono tempestivi accertamenti e verifiche, dandone notizia alla sezione del controllo. 
+ 13. Le disposizioni del comma 1 non si applicano agli atti ed ai provvedimenti emanati nelle materie monetaria, creditizia, mobiliare e valutaria.». 
+ - Si riportano l'[art. 1, comma 2](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), e gli [articoli da 41](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) [a 44 del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) (Riforma dell'organizzazione del Governo a norma dell'[art. 11 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md)): 
+ «Art. 1 (Oggetto). - (Omissis.). 
+ 2. In nessun caso le norme del presente decreto legislativo possono essere interpretate nel senso della attribuzione allo Stato, alle sue amministrazioni o ad enti pubblici nazionali, di funzioni e compiti trasferiti, delegati o comunque attribuiti alle regioni, agli enti locali e alle autonomie funzionali dalle disposizioni vigenti alla data di entrata in vigore del presente decreto legislativo, ovvero da conferire ai sensi dei decreti legislativi emanati in attuazione della [legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md).». 
+ «Art. 41 (Istituzione del ministero e attribuzioni).
+ - 1. E' istituito il ministero delle infrastrutture e dei trasporti. 
+ 2. Al ministero sono attribuite le funzioni e i compiti spettanti allo Stato in materia di identificazione delle linee fondamentali dell'assetto del territorio con riferimento alle reti infrastrutturali e al sistema delle citta' e delle aree metropolitane; reti infrastrutturali e opere di competenza statale; politiche urbane e dell'edilizia abitativa; opere marittime e infrastrutture idrauliche; trasporti e viabilita'. 
+ 3. Al ministero sono trasferite, con le inerenti risorse, le funzioni e i compiti dei ministeri dei lavori pubblici e dei trasporti e della navigazione, nonche' del dipartimento per le aree urbane istituito presso la Presidenza del Consiglio dei ministri, eccettuate quelle attribuite, anche dal presente decreto, ad altri ministeri o agenzie e fatte in ogni caso salve le funzioni conferite alle regioni e agli enti locali, anche ai sensi e per gli effetti degli [articoli 1, comma 2](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), e [3, comma 1, lettere a)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md) e [b), della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md).». 
+ «Art. 42 (Aree funzionali). - 1. Il ministero svolge in particolare le funzioni e i compiti di spettanza statale nelle seguenti aree funzionali: 
+ a) programmazione, finanziamento, realizzazione e gestione delle reti infrastrutturali di interesse nazionale, ivi comprese le reti elettriche, idrauliche e acquedottistiche, e delle altre opere pubbliche di competenza dello Stato, ad eccezione di quelle in materia di difesa; qualificazione degli esecutori di lavori pubblici; costruzioni nelle zone sismiche; 
+ b) edilizia residenziale; aree urbane; 
+ c) navigazione e trasporto marittimo; vigilanza sui porti; demanio marittimo; sicurezza della navigazione e trasporto nelle acque interne; programmazione, previa intesa con le regioni interessate, del sistema idroviario padano-veneto; aviazione civile e trasporto aereo; 
+ d) trasporto terrestre, circolazione dei veicoli e sicurezza dei trasporti terrestri. 
+ d-bis) sicurezza e regolazione tecnica, salvo quanto disposto da leggi e regolamenti, concernenti le competenze disciplinate dall'art. 41 e dal presente comma, ivi comprese le espropriazioni; 
+ d-ter) pianificazione delle reti, della logistica e dei nodi infrastrutturali di interesse nazionale, realizzazione delle opere corrispondenti e valutazione dei relativi interventi; 
+ d-quater) politiche dell'edilizia concernenti anche il sistema delle citta' e delle aree metropolitane. 
+ 2. Il ministero svolge, altresi', funzioni e compiti di monitoraggio, controllo e vigilanza nelle aree di cui al comma 1, nonche' funzioni di vigilanza sui gestori del trasporto derivanti dalla legge, dalla concessione e dai contratti di programma o di servizio, fatto salvo quanto previsto dal [decreto legislativo 16 marzo 1999, n. 79](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-92-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20dellenergia%20elettrica.md).». 
+ «Art. 43 (Ordinamento). - 1. Il ministero si articola in dipartimenti, disciplinati ai sensi degli articoli 4 e 5. Il numero dei dipartimenti non puo' essere superiore a quattro, in relazione alle aree funzionali definite dal precedente articolo. 
+ 2. Il Ministero si articola in un numero non superiore a 16 direzioni generali e in uffici di funzioni dirigenziali di livello generale, alla cui individuazione e organizzazione si provvede ai sensi dell'art. 4, nei limiti di posti di funzione individuati dalla pianta organica di cui al [decreto del Presidente della Repubblica 26 marzo 2001, n. 177](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20infrastrutture%20e%20dei%20trasporti.md). La dotazione organica dei dirigenti di seconda fascia di cui alla tabella A allegata al citato [decreto del Presidente della Repubblica n. 177 del 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001;177) e' ridotta di due unita'. 
+ 2-bis. Il Ministero si avvale delle Capitanerie di porto, alle quali non si applica il disposto dell'art. 11. 
+ 2-ter. Sono istituiti a livello sovraregionale non piu' di dieci Servizi integrati infrastrutture e trasporti, di seguito denominati S.I.I.T., quali organi decentrati del Ministero delle infrastrutture e dei trasporti. Ogni S.I.I.T. e' articolato in due settori relativi, rispettivamente, all'area infrastrutture e all'area trasporti, a ciascuno dei quali e' preposto un dirigente generale, nominato ai sensi dell'[art. 19, comma 4, del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), e successive modificazioni. Al S.I.I.T. competente per le regioni Lazio e Abruzzo e' preposto un dirigente generale nominato ai sensi dell'art. 19, comma 3, del citato [decreto legislativo n. 165 del 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165). I S.I.I.T. svolgono funzioni di carattere tecnico, amministrativo, operativo e gestionale nell'ambito delle competenze di cui agli articoli 41 e 42, comprese le corrispondenti attivita' di servizio. 
+ 2-quater. I S.I.I.T. possono promuovere e fornire, su base convenzionale, servizi di contenuto tecnico operativo e gestionale alle amministrazioni pubbliche, comprese quelle regionali e locali anche ad ordinamento autonomo, nonche' ai soggetti di cui alla [legge 11 febbraio 1994, n. 109](../Atti%20normativi%20abrogati%20%28in%20originale%29/Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md), e successive modificazioni e integrazioni, nel rispetto delle funzioni e dei compiti ad essi spettanti. 
+ 2-quinquies. Con decreto del Presidente della Repubblica, da emanare ai sensi dell'[art. 17, comma 4-bis, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4bis), su proposta del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro per la funzione pubblica e il Ministro dell'economia e delle finanze, sentite le organizzazioni sindacali maggiormente rappresentative, si provvede alla struttura organizzativa e funzionale dei S.I.I.T. e alla loro articolazione territoriale, secondo il criterio dell'efficiente dimensionamento delle strutture e dei corrispondenti bacini di utenza, utilizzando prioritariamente il personale assegnato agli altri uffici, anche al fine di incrementare la qualita' delle funzioni e delle attivita' rese nei confronti dei singoli, delle imprese e delle pubbliche amministrazioni appartenenti agli enti territoriali. 
+ 2-sexies. Dalla data di entrata in vigore del regolamento di cui al comma 2- quinquies sono soppresse le strutture periferiche del Ministero dei trasporti e della navigazione e del Ministero dei lavori pubblici. 
+ 2-septies. Con uno o piu' decreti del Presidente della Repubblica, da emanare ai sensi dell'[art. 17, comma 4-bis, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4bis), su proposta del Ministro delle infrastrutture e dei trasporti, sentite le organizzazioni sindacali maggiormente rappresentative, di concerto con il Ministro per la funzione pubblica e con il Ministro dell'economia e delle finanze, si provvede, nel rispetto delle disposizioni di cui al [decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), e successive modificazioni: 
+ a) alla riorganizzazione del Ministero; 
+ b) al riordinamento del Consiglio superiore dei lavori pubblici quale organo di consulenza obbligatoria del Governo e organo di consulenza facoltativa per le regioni e gli altri enti pubblici competenti in materia di lavori pubblici.». 
+ «Art. 44 (Agenzia dei trasporti terrestri e delle infrastrutture). - 1. E' istituita l'agenzia dei trasporti terrestri e delle infrastrutture nelle forme disciplinate dagli articoli 8 e 9. 
+ 2. L'agenzia svolge le funzioni spettanti allo Stato in relazione: 
+ a) alla definizione degli standard e prescrizioni tecniche in materia di sicurezza dei trasporti terrestri; 
+ b) alla vigilanza ai fini della sicurezza dei trasporti ad impianto fisso, fatto salvo quanto stabilito dall'[art. 4, comma 1, lettera b), del decreto legislativo 19 novembre 1997, n. 422](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20alle%20regioni%20ed%20agli%20enti%20locali%20di%20funzioni%20e%20compiti%20in%20materia%20di%20trasporto%20pubblico%20locale%20a%20norma%20dellarticolo%204%20comma%204%20della%20legge%2015%20marzo%201997%20n.%2059.md); 
+ c) alla omologazione e approvazione dei veicoli a motore e loro rimorchi, loro componenti e unita' tecniche indipendenti; 
+ d) alla vigilanza e al controllo tecnico in materia di revisioni generali e parziali sui veicoli a motore e i loro rimorchi, anche se svolte tramite officine autorizzate ai sensi della [lettera d) del comma 3 dell'art. 105 del decreto legislativo 31 marzo 1998, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md), nonche' in materia di visite e prove di veicoli in circolazione per trasporti nazionali e internazionali, anche con riferimento ai veicoli adibiti al trasporto di merci pericolose e deperibili; 
+ e) alla certificazione attribuita all'organismo notificato di cui all'[art. 20 della direttiva 96/48 CE del Consiglio del 23 luglio 1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;48), ed in generale alla certificazione in applicazione delle norme di base nell'ambito dei sistemi, sottosistemi, prodotti e processi relativi ai sistemi di trasporto; 
+ f) alla definizione di standard e prescrizioni tecniche in materia di sicurezza stradale e norme tecniche relative alle strade e loro pertinenze ed alla segnaletica stradale, ai sensi del [decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md); 
+ g) ai collegamenti informatici e alle banche dati nazionali gestiti presso il centro elaborazione dati della motorizzazione civile. 
+ 3. Spetta altresi' all'agenzia il coordinamento dell'interoperabilita' dei sistemi di trasporto. 
+ 4. All'agenzia sono assegnate le competenze progettuali e gestionali in materia di infrastrutture di competenza statale, ivi comprese quelle esercitate dai provveditorati alle opere pubbliche e dagli uffici opere marittime. 
+ 5. Sono soppresse le strutture del ministero dei trasporti e della navigazione e del ministero dei lavori pubblici che svolgono le funzioni ed i compiti demandati all'agenzia, ai sensi dei precedenti commi. Il relativo personale e le relative risorse sono assegnate all'agenzia. 
+ 6. L'agenzia puo' articolarsi in strutture territoriali di livello regionale.». 
+ - Il [decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md) (Norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche) e' pubblicato nella Gazzetta Ufficiale 9 maggio 2001, n. 106; 
+ - Il [decreto legislativo 27 ottobre 2009, n. 150](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%204%20marzo%202009%20n.%2015%20in%20materia%20di%20ottimizzazione%20della%20produttivita%20del%20lavoro%20pubblico%20e%20di%20efficienza%20e%20trasparenza%20delle%20pubbliche%20amministrazioni.%2009G0164.md) (Attuazione della [legge 4 marzo 2009, n. 15](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20finalizzata%20allottimizzazione%20della%20produttivita%20del%20lavoro%20pubblico%20e%20alla%20efficienza%20e%20trasparenza%20delle%20pubbliche%20amministrazioni%20nonche%20disposizioni%20integrative%20dell_ca7c77713a76.md), in materia di ottimizzazione della produttivita' del lavoro pubblico e di efficienza e trasparenza delle pubbliche amministrazioni.) e' pubblicato nella Gazzetta Ufficiale 31 ottobre 2009, n. 254. 
+ - La [legge 31 dicembre 2009, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196) (Legge di contabilita' e finanza pubblica) e' pubblicata nella Gazzetta Ufficiale 31 dicembre 2009, n. 303. 
+ - Si riporta l'[art. 118 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md) ([Codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md)): 
+ «Art. 118 (Corpi della Marina militare). - 1.
+ L'organizzazione della Marina militare e' suddivisa in 
+ a) Corpo di stato maggiore; 
+ b) Corpo del genio della Marina; 
+ c) Corpo sanitario militare marittimo; 
+ d) Corpo di commissariato militare marittimo; 
+ e) Corpo delle capitanerie di porto; 
+ f) Corpo degli equipaggi militari marittimi. 
+ 2. Il Corpo del genio della Marina e' articolato nelle seguenti specialita': 
+ a) genio navale; 
+ b) armi navali; 
+ c) infrastrutture. 
+ 3. Il Corpo delle capitanerie di porto e' trattato nella sezione II del presente capo. Il Corpo degli equipaggi militari marittimi e' costituito dai sottufficiali, graduati e militari di truppa della Marina militare, esclusi gli appartenenti al Corpo delle capitanerie di porto. 
+ 4. Per gli ufficiali appartenenti ai corpi di cui al comma 1, possono essere utilizzate le seguenti denominazioni: 
+ a) per il Corpo di stato maggiore: ufficiali di vascello; 
+ b) per il Corpo del genio della Marina: 
+ 1) per la specialita' genio navale: ufficiali G.N.; 
+ 2) per la specialita' armi navali: ufficiali A.N.; 
+ 3) per la specialita' infrastrutture: ufficiali INFR.; 
+ c) per il Corpo sanitario militare marittimo: ufficiali di Sanita'; 
+ d) per il Corpo di commissariato militare marittimo: ufficiali commissari; 
+ e) per il Corpo delle capitanerie di porto: ufficiali C.P.; 
+ f) per il Corpo degli equipaggi militari marittimi: ufficiali C.S..». 
+ - Il [decreto legislativo 30 giugno 2011, n. 123](../Decreti%20Legislativi/Riforma%20dei%20controlli%20di%20regolarita%20amministrativa%20e%20contabile%20e%20potenziamento%20dellattivita%20di%20analisi%20e%20valutazione%20della%20spesa%20a%20norma%20dellarticolo%2049%20della%20legge%2031%20dicembre%202009%20n.%20196.%2011G0165.md) (Riforma dei controlli di regolarita' amministrativa e contabile e potenziamento dell'attivita' di analisi e valutazione della spesa, a norma dell'[art. 49 della legge 31 dicembre 2009, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196#art_49).) e' pubblicato nella Gazzetta Ufficiale 3 agosto 2011, n. 179. 
+ - Si riporta l'[art. 37 del decreto-legge 6 dicembre 2011, n. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201#art_37) (Disposizioni urgenti per la crescita, l'equita' e il consolidamento dei conti pubblici), convertito, con modificazioni, dalla [legge 22 dicembre 2011, n. 214](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20dicembre%202011%20n.%20201%20recante%20disposizioni%20urgenti%20per%20la%20crescita%20lequita%20e%20il%20consolidamento%20dei%20conti%20pubblici.%2011G0256.md): 
+ «Art. 37 (Liberalizzazione del settore dei trasporti). - 1. Nell'ambito delle attivita' di regolazione dei servizi di pubblica utilita' di cui alla [legge 14 novembre 1995, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-11-14;481), e' istituita l'Autorita' di regolazione dei trasporti, di seguito denominata "Autorita'", la quale opera in piena autonomia e con indipendenza di giudizio e di valutazione. La sede dell'Autorita' e' individuata in un immobile di proprieta' pubblica nella citta' di Torino, laddove idoneo e disponibile, con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro delle infrastrutture e dei trasporti, entro il termine del 31 dicembre 2013. In sede di prima attuazione del presente articolo, il collegio dell'Autorita' e' costituito entro il 31 maggio 2012.
+ L'Autorita' e' competente nel settore dei trasporti e dell'accesso alle relative infrastrutture e ai servizi accessori, in conformita' con la disciplina europea e nel rispetto del principio di sussidiarieta' e delle competenze delle regioni e degli enti locali di cui al titolo V della parte seconda della Costituzione. L'Autorita' esercita le proprie competenze a decorrere dalla data di adozione dei regolamenti di cui all'[art. 2, comma 28, della legge 14 novembre 1995, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-11-14;481#art_2-com28). All'Autorita' si applicano, in quanto compatibili, le disposizioni organizzative e di funzionamento di cui alla medesima legge. 
+ 1-bis. L'Autorita' e' organo collegiale composto dal presidente e da due componenti nominati secondo le procedure di cui all'[art. 2, comma 7, della legge 14 novembre 1995, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-11-14;481#art_2-com7). Ai componenti e ai funzionari dell'Autorita' si applica il regime previsto dall'art. 2, commi da 8 a 11, della medesima legge. Il collegio nomina un segretario generale, che sovrintende al funzionamento dei servizi e degli uffici e ne risponde al presidente. 
+ 1-ter. I componenti dell'Autorita' sono scelti, nel rispetto dell'equilibrio di genere, tra persone di indiscussa moralita' e indipendenza e di comprovata professionalita' e competenza nei settori in cui opera l'Autorita'. A pena di decadenza essi non possono esercitare, direttamente o indirettamente, alcuna attivita' professionale o di consulenza, essere amministratori o dipendenti di soggetti pubblici o privati ne' ricoprire altri uffici pubblici di qualsiasi natura, ivi compresi gli incarichi elettivi o di rappresentanza nei partiti politici, ne' avere interessi diretti o indiretti nelle imprese operanti nel settore di competenza della medesima Autorita'. I dipendenti delle amministrazioni pubbliche sono collocati fuori ruolo per l'intera durata dell'incarico. I componenti dell'Autorita' sono nominati per un periodo di sette anni e non possono essere confermati nella carica. In caso di dimissioni o impedimento del presidente o di un membro dell'Autorita', si procede alla sostituzione secondo le regole ordinarie previste per la nomina dei componenti dell'Autorita', la loro durata in carica e la non rinnovabilita' del mandato. 
+ 2. L'Autorita' e' competente nel settore dei trasporti e dell'accesso alle relative infrastrutture ed in particolare provvede: 
+ a) a garantire, secondo metodologie che incentivino la concorrenza, l'efficienza produttiva delle gestioni e il contenimento dei costi per gli utenti, le imprese e i consumatori, condizioni di accesso eque e non discriminatorie alle infrastrutture ferroviarie, portuali, aeroportuali e alle reti autostradali, fatte salve le competenze dell'Agenzia per le infrastrutture stradali e autostradali di cui all'[art. 36 del decreto-legge 6 luglio 2011, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-07-06;98#art_36), convertito, con modificazioni, dalla [legge 15 luglio 2011, n. 111](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202011%20n.%2098%20recante%20disposizioni%20urgenti%20per%20la%20stabilizzazione%20finanziaria.%2011G0153.md), nonche' in relazione alla mobilita' dei passeggeri e delle merci in ambito nazionale, locale e urbano anche collegata a stazioni, aeroporti e porti ad esclusione del settore dell'autotrasporto merci; 
+ b) a definire, se ritenuto necessario in relazione alle condizioni di concorrenza effettivamente esistenti nei singoli mercati dei servizi dei trasporti nazionali e locali, i criteri per la fissazione da parte dei soggetti competenti delle tariffe, dei canoni, dei pedaggi, tenendo conto dell'esigenza di assicurare l'equilibrio economico delle imprese regolate, l'efficienza produttiva delle gestioni e il contenimento dei costi per gli utenti, le imprese, i consumatori; 
+ c) a verificare la corretta applicazione da parte dei soggetti interessati dei criteri fissati ai sensi della lettera b); 
+ d) a stabilire le condizioni minime di qualita' dei servizi di trasporto nazionali e locali connotati da oneri di servizio pubblico, individuate secondo caratteristiche territoriali di domanda e offerta; 
+ e) a definire, in relazione ai diversi tipi di servizio e alle diverse infrastrutture, il contenuto minimo degli specifici diritti, anche di natura risarcitoria, che gli utenti possono esigere nei confronti dei gestori dei servizi e delle infrastrutture di trasporto e a dirimere le relative controversie; sono fatte salve le ulteriori garanzie che accrescano la protezione degli utenti che i gestori dei servizi e delle infrastrutture possono inserire nelle proprie carte dei servizi; 
+ f) a definire i criteri per la determinazione delle eccezioni al principio della minore estensione territoriale dei lotti di gara rispetto ai bacini di pianificazione, tenendo conto della domanda effettiva e di quella potenziale, delle economie di scala e di integrazione tra servizi, di eventuali altri criteri determinati dalla normativa vigente, nonche' a definire gli schemi dei bandi delle gare per l'assegnazione dei servizi di trasporto in esclusiva e delle convenzioni da inserire nei capitolati delle medesime gare e a stabilire i criteri per la nomina delle commissioni aggiudicatrici; con riferimento al trasporto ferroviario regionale, l'Autorita' verifica che nei relativi bandi di gara non sussistano condizioni discriminatorie o che impediscano l'accesso al mercato a concorrenti potenziali e specificamente che la disponibilita' del materiale rotabile gia' al momento della gara non costituisca un requisito per la partecipazione ovvero un fattore di discriminazione tra le imprese partecipanti. In questi casi, all'impresa aggiudicataria e' concesso un tempo massimo di diciotto mesi, decorrenti dall'aggiudicazione definitiva, per l'acquisizione del materiale rotabile indispensabile per lo svolgimento del servizio. Con riferimento al trasporto pubblico locale l'Autorita' definisce anche gli schemi dei contratti di servizio per i servizi esercitati da societa' in house o da societa' con prevalente partecipazione pubblica ai sensi del [decreto legislativo 19 agosto 2016, n. 175](../Testi%20Unici/Testo%20unico%20in%20materia%20di%20societa%20a%20partecipazione%20pubblica.%2016G00188.md), nonche' per quelli affidati direttamente. Sia per i bandi di gara che per i predetti contratti di servizio esercitati in house o affidati direttamente l'Autorita' determina la tipologia di obiettivi di efficacia e di efficienza che il gestore deve rispettare, nonche' gli obiettivi di equilibrio finanziario; per tutti i contratti di servizio prevede obblighi di separazione contabile tra le attivita' svolte in regime di servizio pubblico e le altre attivita'; 
+ g) con particolare riferimento al settore autostradale, a stabilire per le nuove concessioni nonche' per quelle di cui all'art. 43, comma 1 e, per gli aspetti di competenza, comma 2 sistemi tariffari dei pedaggi basati sul metodo del price cap, con determinazione dell'indicatore di produttivita' X a cadenza quinquennale per ciascuna concessione; a definire gli schemi di concessione da inserire nei bandi di gara relativi alla gestione o costruzione; a definire gli schemi dei bandi relativi alle gare cui sono tenuti i concessionari autostradali per le nuove concessioni; a definire gli ambiti ottimali di gestione delle tratte autostradali, allo scopo di promuovere una gestione plurale sulle diverse tratte e stimolare la concorrenza per confronto; 
+ h) con particolare riferimento al settore aeroportuale, a svolgere ai sensi degli [articoli da 71](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-01-24;1#art_71) [a 81 del decreto-legge 24 gennaio 2012, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-01-24;1#art_81), tutte le funzioni di Autorita' di vigilanza istituita dall'art. 71, comma 2, del predetto [decreto-legge n. 1 del 2012](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012;1), in attuazione della [direttiva 2009/12/CE del Parlamento europeo e del Consiglio, dell'11 marzo 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2009;12), concernente i diritti aeroportuali; 
+ i) con particolare riferimento all'accesso all'infrastruttura ferroviaria, a svolgere tutte le funzioni di organismo di regolazione di cui all'[art. 37 del decreto legislativo 8 luglio 2003, n. 188](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%202001-12-CE%202001-13-CE%20e%202001-14-CE%20in%20materia%20ferroviaria.md), e, in particolare, a definire i criteri per la determinazione dei pedaggi da parte del gestore dell'infrastruttura e i criteri di assegnazione delle tracce e della capacita' e a vigilare sulla loro corretta applicazione da parte del gestore dell'infrastruttura; 
+ l) l'Autorita', in caso di inosservanza di propri provvedimenti o di mancata ottemperanza da parte dei soggetti esercenti il servizio alle richieste di informazioni o a quelle connesse all'effettuazione dei controlli, ovvero nel caso in cui le informazioni e i documenti non siano veritieri, puo' irrogare sanzioni amministrative pecuniarie determinate in fase di prima applicazione secondo le modalita' e nei limiti di cui all'[art. 2 della legge 14 novembre 1995, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-11-14;481#art_2).
+ L'ammontare riveniente dal pagamento delle predette sanzioni e' destinato ad un fondo per il finanziamento di progetti a vantaggio dei consumatori dei settori dei trasporti, approvati dal Ministro delle infrastrutture e dei trasporti su proposta dell'Autorita'. Tali progetti possono beneficiare del sostegno di altre istituzioni pubbliche nazionali e europee; 
+ m) con particolare riferimento al servizio taxi, a monitorare e verificare la corrispondenza dei livelli di offerta del servizio taxi, delle tariffe e della qualita' delle prestazioni alle esigenze dei diversi contesti urbani, secondo i criteri di ragionevolezza e proporzionalita', allo scopo di garantire il diritto di mobilita' degli utenti. Comuni e regioni, nell'ambito delle proprie competenze, provvedono, previa acquisizione di preventivo parere da parte dell'Autorita', ad adeguare il servizio dei taxi, nel rispetto dei seguenti principi: 
+ 1) l'incremento del numero delle licenze ove ritenuto necessario anche in base alle analisi effettuate dalla Autorita' per confronto nell'ambito di realta' europee comparabili, a seguito di un'istruttoria sui costi-benefici anche ambientali, in relazione a comprovate ed oggettive esigenze di mobilita' ed alle caratteristiche demografiche e territoriali, bandendo concorsi straordinari in conformita' alla vigente programmazione numerica, ovvero in deroga ove la programmazione numerica manchi o non sia ritenuta idonea dal comune ad assicurare un livello di offerta adeguato, per il rilascio, a titolo gratuito o a titolo oneroso, di nuove licenze da assegnare ai soggetti in possesso dei requisiti stabiliti dall'[art. 6 della legge 15 gennaio 1992, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-01-15;21#art_6), fissando, in caso di titolo oneroso, il relativo importo ed individuando, in caso di eccedenza delle domande, uno o piu' criteri selettivi di valutazione automatica o immediata, che assicurino la conclusione della procedura in tempi celeri. I proventi derivanti dal rilascio di licenze a titolo oneroso sono finalizzati ad adeguate compensazioni da corrispondere a coloro che sono gia' titolari di licenza; 
+ 2) consentire ai titolari di licenza d'intesa con i comuni una maggiore liberta' nell'organizzazione del servizio sia per fronteggiare particolari eventi straordinari o periodi di prevedibile incremento della domanda e in numero proporzionato alle esigenze dell'utenza, sia per sviluppare nuovi servizi integrativi come il taxi ad uso collettivo o altre forme; 
+ 3) consentire una maggiore liberta' nella fissazione delle tariffe, la possibilita' di una loro corretta e trasparente pubblicizzazione a tutela dei consumatori, prevedendo la possibilita' per gli utenti di avvalersi di tariffe predeterminate dal comune per percorsi prestabiliti; 
+ 4) migliorare la qualita' di offerta del servizio, individuando criteri mirati ad ampliare la formazione professionale degli operatori con particolare riferimento alla sicurezza stradale e alla conoscenza delle lingue straniere, nonche' alla conoscenza della normativa in materia fiscale, amministrativa e civilistica del settore, favorendo gli investimenti in nuove tecnologie per l'efficientamento organizzativo ed ambientale del servizio e adottando la carta dei servizi a livello regionale; 
+ n) con riferimento alla disciplina di cui alla lettera m), l'Autorita' puo' ricorrere al Tribunale amministrativo regionale del Lazio. 
+ 3. Nell'esercizio delle competenze disciplinate dal comma 2 del presente articolo, l'Autorita': 
+ a) puo' sollecitare e coadiuvare le amministrazioni pubbliche competenti all'individuazione degli ambiti di servizio pubblico e dei metodi piu' efficienti per finanziarli, mediante l'adozione di pareri che puo' rendere pubblici; 
+ b) determina i criteri per la redazione della contabilita' delle imprese regolate e puo' imporre, se necessario per garantire la concorrenza, la separazione contabile e societaria delle imprese integrate; 
+ c) propone all'amministrazione competente la sospensione, la decadenza o la revoca degli atti di concessione, delle convenzioni, dei contratti di servizio pubblico, dei contratti di programma e di ogni altro atto assimilabile comunque denominato, qualora sussistano le condizioni previste dall'ordinamento; 
+ d) richiede a chi ne e' in possesso le informazioni e l'esibizione dei documenti necessari per l'esercizio delle sue funzioni, nonche' raccoglie da qualunque soggetto informato dichiarazioni, da verbalizzare se rese oralmente; 
+ e) se sospetta possibili violazioni della regolazione negli ambiti di sua competenza, svolge ispezioni presso i soggetti sottoposti alla regolazione mediante accesso a impianti, a mezzi di trasporto e uffici; durante l'ispezione, anche avvalendosi della collaborazione di altri organi dello Stato, puo' controllare i libri contabili e qualsiasi altro documento aziendale, ottenerne copia, chiedere chiarimenti e altre informazioni, apporre sigilli; delle operazioni ispettive e delle dichiarazioni rese deve essere redatto apposito verbale; 
+ f) ordina la cessazione delle condotte in contrasto con gli atti di regolazione adottati e con gli impegni assunti dai soggetti sottoposti a regolazione, disponendo le misure opportune di ripristino; nei casi in cui intenda adottare una decisione volta a fare cessare un'infrazione e le imprese propongano impegni idonei a rimuovere le contestazioni da essa avanzate, puo' rendere obbligatori tali impegni per le imprese e chiudere il procedimento senza accertare l'infrazione; puo' riaprire il procedimento se mutano le circostanze di fatto su cui sono stati assunti gli impegni o se le informazioni trasmesse dalle parti si rivelano incomplete, inesatte o fuorvianti; in circostanze straordinarie, ove ritenga che sussistano motivi di necessita' e di urgenza, al fine di salvaguardare la concorrenza e di tutelare gli interessi degli utenti rispetto al rischio di un danno grave e irreparabile, puo' adottare provvedimenti temporanei di natura cautelare; 
+ g) valuta i reclami, le istanze e le segnalazioni presentati dagli utenti e dai consumatori, singoli o associati, in ordine al rispetto dei livelli qualitativi e tariffari da parte dei soggetti esercenti il servizio sottoposto a regolazione, ai fini dell'esercizio delle sue competenze; 
+ h) disciplina, con propri provvedimenti, le modalita' per la soluzione non giurisdizionale delle controversie tra gli operatori economici che gestiscono reti, infrastrutture e servizi di trasporto e gli utenti o i consumatori mediante procedure semplici e non onerose anche in forma telematica. Per le predette controversie, individuate con i provvedimenti dell'Autorita' di cui al primo periodo, non e' possibile proporre ricorso in sede giurisdizionale fino a che non sia stato esperito un tentativo obbligatorio di conciliazione, da ultimare entro trenta giorni dalla proposizione dell'istanza all'Autorita'. A tal fine, i termini per agire in sede giurisdizionale sono sospesi fino alla scadenza del termine per la conclusione del procedimento di conciliazione; 
+ i) ferme restando le sanzioni previste dalla legge, da atti amministrativi e da clausole convenzionali, irroga una sanzione amministrativa pecuniaria fino al 10 per cento del fatturato dell'impresa interessata nei casi di inosservanza dei criteri per la formazione e l'aggiornamento di tariffe, canoni, pedaggi, diritti e prezzi sottoposti a controllo amministrativo, comunque denominati, di inosservanza dei criteri per la separazione contabile e per la disaggregazione dei costi e dei ricavi pertinenti alle attivita' di servizio pubblico e di violazione della disciplina relativa all'accesso alle reti e alle infrastrutture o delle condizioni imposte dalla stessa Autorita', nonche' di inottemperanza agli ordini e alle misure disposti; 
+ l) applica una sanzione amministrativa pecuniaria fino all'1 per cento del fatturato dell'impresa interessata qualora: 
+ 1) i destinatari di una richiesta della stessa Autorita' forniscano informazioni inesatte, fuorvianti o incomplete, ovvero non forniscano le informazioni nel termine stabilito; 
+ 2) i destinatari di un'ispezione rifiutino di fornire ovvero presentino in modo incompleto i documenti aziendali, nonche' rifiutino di fornire o forniscano in modo inesatto, fuorviante o incompleto i chiarimenti richiesti; 
+ m) nel caso di inottemperanza agli impegni di cui alla lettera f) applica una sanzione fino al 10 per cento del fatturato dell'impresa interessata. 
+ 4. Restano ferme tutte le altre competenze diverse da quelle disciplinate nel presente articolo delle amministrazioni pubbliche, statali e regionali, nei settori indicati; in particolare, restano ferme le competenze in materia di vigilanza, controllo e sanzione nell'ambito dei rapporti con le imprese di trasporto e con i gestori delle infrastrutture, in materia di sicurezza e standard tecnici, di definizione degli ambiti del servizio pubblico, di tutela sociale e di promozione degli investimenti. Tutte le amministrazioni pubbliche, statali e regionali, nonche' gli enti strumentali che hanno competenze in materia di sicurezza e standard tecnici delle infrastrutture e dei trasporti trasmettono all'Autorita' le delibere che possono avere un impatto sulla concorrenza tra operatori del settore, sulle tariffe, sull'accesso alle infrastrutture, con facolta' da parte dell'Autorita' di fornire segnalazioni e pareri circa la congruenza con la regolazione economica. Restano altresi' ferme e possono essere contestualmente esercitate le competenze dell'Autorita' garante della concorrenza disciplinate dalla [legge 10 ottobre 1990, n. 287](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-10-10;287) e dai [decreti legislativi 2 agosto 2007, n. 145 e 2 agosto 2007, n. 146](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-29-CE%20relativa%20alle%20pratiche%20commerciali%20sleali%20tra%20imprese%20e%20consumatori%20nel%20mercato%20interno%20e%20che%20modifica%20le%20direttive%2084-450-CEE%2097-7-CE%2098-27-CE%202002-_b5e4627a4d80.md), e le competenze dell'Autorita' di vigilanza sui contratti pubblici di cui al [decreto legislativo 12 aprile 2006, n. 163](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md) e le competenze dell'Agenzia per le infrastrutture stradali e autostradali di cui all'[art. 36 del decreto-legge 6 luglio 2011, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-07-06;98#art_36). 
+ 5. L'Autorita' rende pubblici nei modi piu' opportuni i provvedimenti di regolazione e riferisce annualmente alle Camere evidenziando lo stato della disciplina di liberalizzazione adottata e la parte ancora da definire. La regolazione approvata ai sensi del presente articolo resta efficace fino a quando e' sostituita dalla regolazione posta dalle amministrazioni pubbliche cui saranno affidate le competenze previste dal presente articolo. 
+ 6. All'esercizio delle competenze di cui al comma 2 e alle attivita' di cui al comma 3, nonche' all'esercizio delle altre competenze e alle altre attivita' attribuite dalla legge, si provvede come segue: 
+ a) agli oneri derivanti dall'istituzione dell'Autorita' e dal suo funzionamento, nel limite massimo di 1,5 milioni di euro per l'anno 2013 e 2,5 milioni di euro per l'anno 2014, si provvede mediante corrispondente riduzione dello stanziamento del Fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2013-2015, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2013, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero degli affari esteri.
+ Al fine di assicurare l'immediato avvio dell'Autorita' di regolazione dei trasporti, l'Autorita' garante della concorrenza e del mercato anticipa, nei limiti di stanziamento del proprio bilancio, le risorse necessarie per la copertura degli oneri derivanti dall'istituzione dell'Autorita' di regolazione dei trasporti e dal suo funzionamento, nella misura di 1,5 milioni di euro per l'anno 2013 e di 2,5 milioni di euro per l'anno 2014. Le somme anticipate sono restituite all'Autorita' garante della concorrenza e del mercato a valere sulle risorse di cui al primo periodo della presente lettera. Fino all'attivazione del contributo di cui alla lettera b), l'Autorita' garante della concorrenza e del mercato, nell'ambito delle predette risorse, assicura all'Autorita' di regolazione dei trasporti, tramite apposita convenzione, il necessario supporto operativo-logistico, economico e finanziario per lo svolgimento delle attivita' strumentali all'implementazione della struttura organizzativa dell'Autorita' di regolazione dei trasporti; 
+ b) mediante un contributo versato dagli operatori economici operanti nel settore del trasporto e per i quali l'Autorita' abbia concretamente avviato, nel mercato in cui essi operano, l'esercizio delle competenze o il compimento delle attivita' previste dalla legge, in misura non superiore all'1 per mille del fatturato derivante dall'esercizio delle attivita' svolte percepito nell'ultimo esercizio, con la previsione di soglie di esenzione che tengano conto della dimensione del fatturato. Il computo del fatturato e' effettuato in modo da evitare duplicazioni di contribuzione. Il contributo e' determinato annualmente con atto dell'Autorita', sottoposto ad approvazione da parte del Presidente del Consiglio dei ministri, di concerto con il Ministro dell'economia e delle finanze. Nel termine di trenta giorni dalla ricezione dell'atto, possono essere formulati rilievi cui l'Autorita' si conforma; in assenza di rilievi nel termine l'atto si intende approvato; 
+ b-bis) ai sensi dell'art. 2, comma 29, ultimo periodo, della [legge 14 novembre 1995, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-11-14;481), in sede di prima attuazione del presente articolo, l'Autorita' provvede al reclutamento del personale di ruolo, nella misura massima del 50 per cento dei posti disponibili nella pianta organica, determinata in ottanta unita', e nei limiti delle risorse disponibili, mediante apposita selezione nell'ambito del personale dipendente da pubbliche amministrazioni in possesso delle competenze e dei requisiti di professionalita' ed esperienza richiesti per l'espletamento delle singole funzioni e tale da garantire la massima neutralita' e imparzialita'. In fase di avvio il personale selezionato dall'Autorita' e' comandato da altre pubbliche amministrazioni, con oneri a carico delle amministrazioni di provenienza. A seguito del versamento dei contributi di cui alla lettera b), il predetto personale e' immesso nei ruoli dell'Autorita' nella qualifica assunta in sede di selezione. 
+ 6-bis. Nelle more dell'entrata in operativita' dell'Autorita', determinata con propria delibera, le funzioni e le competenze attribuite alla stessa ai sensi del presente articolo continuano ad essere svolte dalle amministrazioni e dagli enti pubblici competenti nei diversi settori interessati. A decorrere dalla stessa data l'Ufficio per la regolazione dei servizi ferroviari (URSF) del Ministero delle infrastrutture e dei trasporti di cui all'art. 4, comma 1, lettera c), del regolamento di cui al [decreto del Presidente della Repubblica 3 dicembre 2008, n. 211](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20riorganizzazione%20del%20Ministero%20delle%20infrastrutture%20e%20dei%20trasporti.md), istituito ai sensi dell'[art. 37 del decreto legislativo 8 luglio 2003, n. 188](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%202001-12-CE%202001-13-CE%20e%202001-14-CE%20in%20materia%20ferroviaria.md), e' soppresso.
+ Conseguentemente, il Ministero delle infrastrutture e dei trasporti provvede alla riduzione della dotazione organica del personale dirigenziale di prima e di seconda fascia in misura corrispondente agli uffici dirigenziali di livello generale e non generale soppressi. Sono, altresi', soppressi gli stanziamenti di bilancio destinati alle relative spese di funzionamento. 
+ 6-ter. Restano ferme le competenze del Ministero delle infrastrutture e dei trasporti, del Ministero dell'economia e delle finanze nonche' del CIPE in materia di approvazione di contratti di programma nonche' di atti convenzionali, con particolare riferimento ai profili di finanza pubblica.». 
+ - Si riporta l'[art. 1, comma 7, della legge 6 novembre 2012, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-11-06;190#art_1-com7) (Disposizioni per la prevenzione e la repressione della corruzione e dell'illegalita' nella pubblica amministrazione): 
+ «Art. 1 (Disposizioni per la prevenzione e la repressione della corruzione e dell'illegalita' nella pubblica amministrazione). - (Omissis.). 
+ 7. L'organo di indirizzo individua, di norma tra i dirigenti di ruolo in servizio, il Responsabile della prevenzione della corruzione e della trasparenza, disponendo le eventuali modifiche organizzative necessarie per assicurare funzioni e poteri idonei per lo svolgimento dell'incarico con piena autonomia ed effettivita'. Negli enti locali, il Responsabile della prevenzione della corruzione e della trasparenza e' individuato, di norma, nel segretario o nel dirigente apicale, salva diversa e motivata determinazione. Nelle unioni di comuni, puo' essere nominato un unico responsabile della prevenzione della corruzione e della trasparenza. Il Responsabile della prevenzione della corruzione e della trasparenza segnala all'organo di indirizzo e all'organismo indipendente di valutazione le disfunzioni inerenti all'attuazione delle misure in materia di prevenzione della corruzione e di trasparenza e indica agli uffici competenti all'esercizio dell'azione disciplinare i nominativi dei dipendenti che non hanno attuato correttamente le misure in materia di prevenzione della corruzione e di trasparenza. Eventuali misure discriminatorie, dirette o indirette, nei confronti del Responsabile della prevenzione della corruzione e della trasparenza per motivi collegati, direttamente o indirettamente, allo svolgimento delle sue funzioni devono essere segnalate all'Autorita' nazionale anticorruzione, che puo' chiedere informazioni all'organo di indirizzo e intervenire nelle forme di cui al [comma 3, art. 15, decreto legislativo 8 aprile 2013, n. 39](../Decreti%20Legislativi/Disposizioni%20in%20materia%20di%20inconferibilita%20e%20incompatibilita%20di%20incarichi%20presso%20le%20pubbliche%20amministrazioni%20e%20presso%20gli%20enti%20privati%20in%20controllo%20pubblico%20a%20norma%20dellarticolo%201%20commi%20_d33471567a28.md). 
+ (Omissis.).». 
+ - Il [decreto legislativo 14 marzo 2013, n. 33](../Decreti%20Legislativi/Riordino%20della%20disciplina%20riguardante%20il%20diritto%20di%20accesso%20civico%20e%20gli%20obblighi%20di%20pubblicita%20trasparenza%20e%20diffusione%20di%20informazioni%20da%20parte%20delle%20pubbliche%20amministrazioni.%2013G00076.md) (Riordino della disciplina riguardante il diritto di accesso civico e gli obblighi di pubblicita', trasparenza e diffusione di informazioni da parte delle pubbliche amministrazioni) e' pubblicato nella Gazzetta Ufficiale 5 aprile 2013, n. 80. 
+ - Si riportano gli [articoli 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-09-28;109#art_12) e [13 del decreto-legge 28 settembre 2018, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-09-28;109#art_13) (Disposizioni urgenti per la citta' di Genova, la sicurezza della rete nazionale delle infrastrutture e dei trasporti, gli eventi sismici del 2016 e 2017, il lavoro e le altre emergenze), convertito, con modificazioni, dalla [legge 16 novembre 2018, n. 130](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20settembre%202018%20n.%20109%20recante%20disposizioni%20urgenti%20per%20la%20citta%20di%20Genova%20la%20sicurezza%20della%20rete%20nazionale%20delle%20infrastruttur_a2d2c50078c8.md): 
+ «Art. 12 (Agenzia nazionale per la sicurezza delle ferrovie e delle infrastrutture stradali e autostradali). - 1. E' istituita, a decorrere dal 1° gennaio 2019, l'Agenzia nazionale per la sicurezza delle ferrovie e delle infrastrutture stradali e autostradali (ANSFISA), di seguito Agenzia, con sede in Roma presso il Ministero delle infrastrutture e dei trasporti, con possibilita' di articolazioni territoriali, di cui una, con competenze riferite in particolare ai settori delle infrastrutture stradali e autostradali, avente sede a Genova. Fermi i compiti, gli obblighi e le responsabilita' degli enti proprietari e dei soggetti gestori in materia di sicurezza, l'Agenzia promuove e assicura la vigilanza sulle condizioni di sicurezza del sistema ferroviario nazionale e delle infrastrutture stradali e autostradali, direttamente sulla base del programma annuale di attivita' di cui al comma 5-bis, nonche' nelle forme e secondo le modalita' indicate nei commi da 3 a 5. Per quanto non disciplinato dal presente articolo si applicano gli [articoli 8](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) e [9 del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md). 
+ 2. A decorrere dalla data di cui al comma 19, quarto periodo, l'Agenzia nazionale per la sicurezza delle ferrovie (ANSF) di cui all'[art. 4 del decreto legislativo 10 agosto 2007, n. 162](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%202004-49-CE%20e%202004-51-CE%20relative%20alla%20sicurezza%20e%20allo%20sviluppo%20delle%20ferrovie%20comunitarie.md), e' soppressa e l'esercizio delle relative funzioni e' attribuito all'Agenzia, che succede a titolo universale in tutti i rapporti attivi e passivi al predetto ente e ne acquisisce le risorse umane, strumentali e finanziarie. L'Agenzia e' dotata di personalita' giuridica e ha autonomia regolamentare, amministrativa, patrimoniale, organizzativa, contabile e finanziaria. Il Ministro delle infrastrutture e dei trasporti ha poteri di indirizzo e vigilanza, che esercita secondo le modalita' previste nel presente decreto. 
+ 3. Con riferimento al settore ferroviario, l'Agenzia svolge i compiti e le funzioni, anche di regolamentazione tecnica, per essa previsti dai decreti legislativi recanti attuazione della [direttiva (UE) 2016/798 del Parlamento europeo e del Consiglio dell'11 maggio 2016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2016;798) sulla sicurezza delle ferrovie e della [direttiva (UE) 2016/797 del Parlamento europeo e del Consiglio dell'11 maggio 2016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2016;797) relativa all'interoperabilita' del sistema ferroviario dell'Unione europea ed ha competenza per l'intero sistema ferroviario nazionale, secondo quanto previsto dai medesimi decreti. Per le infrastrutture transfrontaliere specializzate, i compiti di autorita' nazionale preposta alla sicurezza di cui al Capo IV della [direttiva (UE) 2016/798](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2016;798) sono affidati, a seguito di apposite convenzioni, all'Agenzia o all'Autorita' per la sicurezza ferroviaria del Paese limitrofo. 
+ 4. Con riferimento alla sicurezza delle infrastrutture stradali e autostradali e fermi restando i compiti e le responsabilita' dei soggetti gestori, l'Agenzia, anche avvalendosi degli altri soggetti pubblici che operano in materia di sicurezza delle infrastrutture: 
+ a) esercita l'attivita' ispettiva finalizzata alla verifica dell'attivita' di manutenzione svolta dai gestori, dei relativi risultati e della corretta organizzazione dei processi di manutenzione, nonche' l'attivita' ispettiva e di verifica a campione sulle infrastrutture, obbligando i gestori, in quanto responsabili dell'utilizzo sicuro delle stesse, a mettere in atto le necessarie misure di controllo del rischio, nonche' all'esecuzione dei necessari interventi di messa in sicurezza, dandone comunicazione al Ministero delle infrastrutture e della mobilita' sostenibili; 
+ b) promuove l'adozione da parte dei gestori delle reti stradali ed autostradali di Sistemi di Gestione della Sicurezza per le attivita' di verifica e manutenzione delle infrastrutture certificati da organismi di parte terza riconosciuti dall'Agenzia; 
+ c) propone al Ministro delle infrastrutture e della mobilita' sostenibili l'adozione, sentito il Consiglio superiore dei lavori pubblici, del decreto previsto dall'[art. 1, comma 3, del decreto legislativo 15 marzo 2011, n. 35](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md); 
+ d) stabilisce, con proprio provvedimento, modalita', contenuti e documenti costituenti la valutazione di impatto sulla sicurezza stradale per i progetti di infrastruttura di cui all'art. 3 del citato [decreto legislativo n. 35 del 2011](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011;35); 
+ e) cura la tenuta dell'elenco dei soggetti che possono effettuare i controlli ai sensi dell'art. 4 del citato [decreto legislativo n. 35 del 2011](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011;35) nonche' la relativa attivita' di formazione, nel rispetto di quanto previsto dall'art. 9 del medesimo decreto; 
+ f) provvede alla classificazione dei tratti ad elevata concentrazione di incidenti nonche' alla classificazione della sicurezza della rete esistente, secondo quanto previsto dall'art. 5 del citato [decreto legislativo n. 35 del 2011](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011;35), anche al fine di definire, con proprio provvedimento, criteri e modalita' per l'applicazione delle misure di sicurezza previste dal medesimo decreto; 
+ g) effettua, in attuazione del programma annuale di attivita' di cui al comma 5-bis e comunque ogni qual volta ne ravvisi l'opportunita' anche sulla base delle segnalazioni effettuate dal Ministero delle infrastrutture e della mobilita' sostenibili o di altre pubbliche amministrazioni, le ispezioni di sicurezza con le modalita' previste dall'art. 6 del citato [decreto legislativo n. 35 del 2011](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011;35), anche compiendo verifiche sulle attivita' di controllo gia' svolte dai gestori eventualmente effettuando ulteriori verifiche in sito; 
+ h) adotta le misure di sicurezza temporanee da applicare ai tratti di rete stradale interessati da lavori stradali, fissando le modalita' di svolgimento delle ispezioni volte ad assicurare la corretta applicazione delle stesse; 
+ i) sovraintende alla gestione dei dati secondo quanto previsto dall'art. 7 del citato [decreto legislativo n. 35 del 2011](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011;35); 
+ l) propone al Ministro delle infrastrutture e della mobilita' sostenibili l'aggiornamento delle tariffe previste dall'art. 10 del citato [decreto legislativo n. 35 del 2011](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011;35), da destinare all'Agenzia per lo svolgimento delle attivita' di cui agli articoli 5 e 6 del medesimo decreto legislativo; 
+ m) svolge attivita' di studio, ricerca e sperimentazione in materia di sicurezza delle infrastrutture stradali e autostradali. 
+ 4-bis. Fermi restando i compiti del Corpo nazionale dei vigili del fuoco disciplinati dall'[art. 19 del decreto legislativo 8 marzo 2006, n. 139](../Decreti%20Legislativi/Riassetto%20delle%20disposizioni%20relative%20alle%20funzioni%20ed%20ai%20compiti%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20luglio%202003%20n.%20229.md), e dal regolamento di cui al [decreto del Presidente della Repubblica 1° agosto 2011, n. 151](../Regolamenti%20governativi/Regolamento%20recante%20semplificazione%20della%20disciplina%20dei%20procedimenti%20relativi%20alla%20prevenzione%20degli%20incendi%20a%20norma%20dellarticolo%2049%20comma%204-quater%20del%20decreto-legge%2031%20maggio%202010%20n.%2078_c2c730b8b326.md), sono trasferiti all'Agenzia le funzioni ispettive e i poteri di cui agli articoli 11, commi 1 e 2, e 12 del [decreto legislativo 5 ottobre 2006, n. 264](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202004-54-CE%20in%20materia%20di%20sicurezza%20per%20le%20gallerie%20della%20rete%20stradale%20transeuropea.md), al fine di garantire la sicurezza delle gallerie situate sulle strade appartenenti alla rete stradale transeuropea. Le funzioni ispettive e i poteri di cui al periodo precedente sono esercitati dall'Agenzia anche per garantire la sicurezza delle gallerie situate sulle strade non appartenenti alla rete stradale transeuropea. Con decreto del Ministero delle infrastrutture e dei trasporti, di concerto con il Ministero dell'interno e con il Ministero dell'economia e delle finanze, da adottare entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, sono definiti i requisiti minimi di sicurezza delle gallerie situate sulle strade non appartenenti alla rete stradale transeuropea, gli obblighi dei soggetti gestori e le relative sanzioni in caso di inosservanza delle disposizioni impartite dall'Agenzia, nonche' i profili tariffari a carico dei gestori stessi, determinati sulla base del costo effettivo del servizio. 
+ 4-ter. All'[art. 4, comma 5, del decreto legislativo 5 ottobre 2006, n. 264](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202004-54-CE%20in%20materia%20di%20sicurezza%20per%20le%20gallerie%20della%20rete%20stradale%20transeuropea.md), le parole: «ed effettua le ispezioni, le valutazioni e le verifiche funzionali di cui all'art. 11» sono soppresse. 
+ 4-quater. Sono trasferite all'Agenzia le funzioni esercitate dagli uffici speciali trasporti a impianti fissi (USTIF) del Ministero delle infrastrutture e della mobilita' sostenibili ai sensi dell'art. 9, commi 5 e 6, del decreto del Ministro delle infrastrutture e dei trasporti 4 agosto 2014, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 297 del 23 dicembre 2014, e del decreto del Ministro delle infrastrutture e dei trasporti 29 settembre 2003, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 280 del 2 dicembre 2003. L'Agenzia, con proprio decreto, disciplina i requisiti per il rilascio dell'autorizzazione di sicurezza relativa al sistema di trasporto costituito dall'infrastruttura e dal materiale rotabile, con i contenuti di cui agli [articoli 9](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202016-798%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20dell11%20maggio%202016%20sulla%20sicurezza%20delle%20ferrovie.%2019G00057.md) e [11 del decreto legislativo 14 maggio 2019, n. 50](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202016-798%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20dell11%20maggio%202016%20sulla%20sicurezza%20delle%20ferrovie.%2019G00057.md), per quanto applicabili, nonche', d'intesa con il Ministero delle infrastrutture e della mobilita' sostenibili, le modalita' per la realizzazione e l'apertura all'esercizio di nuovi sistemi di trasporto a impianti fissi. 
+ 4-quinquies. All'[art. 15 della legge 1° agosto 2002, n. 166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-08-01;166#art_15), dopo il comma 6 e' aggiunto il seguente: 
+ "6-bis. A decorrere dal 1° giugno 2019, il Ministro delle infrastrutture e dei trasporti riferisce annualmente alle competenti Commissioni parlamentari sull'attuazione, da parte dei concessionari autostradali, degli interventi di verifica e di messa in sicurezza delle infrastrutture viarie oggetto di atti convenzionali.". 
+ 5. Ferme restando le sanzioni gia' previste dalla legge, da atti amministrativi e da clausole convenzionali, l'inosservanza da parte dei gestori delle prescrizioni adottate dall'Agenzia, nell'esercizio delle attivita' di cui al comma 4, lettere a) e g), e' punita con le sanzioni amministrative pecuniarie, anche progressive, accertate e irrogate dall'Agenzia secondo le disposizioni di cui al Capo I, Sezioni I e II, della [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689). Per gli enti territoriali la misura della sanzione e' compresa tra euro 5.000 e euro 200.000 ed e' determinata anche in funzione del numero di abitanti. Nei confronti dei soggetti aventi natura imprenditoriale l'Agenzia dispone l'applicazione di una sanzione amministrativa pecuniaria fino al dieci per cento del fatturato realizzato nell'ultimo esercizio chiuso anteriormente alla contestazione della violazione. In caso di reiterazione delle violazioni, l'Agenzia puo' applicare un'ulteriore sanzione di importo fino al doppio della sanzione gia' applicata entro gli stessi limiti previsti per la prima.
+ Qualora il comportamento sanzionabile possa arrecare pregiudizio alla sicurezza dell'infrastruttura o della circolazione stradale o autostradale, l'Agenzia puo' imporre al gestore l'adozione di misure cautelative, limitative o interdittive, della circolazione dei veicoli sino alla cessazione delle condizioni che hanno comportato l'applicazione della misura stessa e, in caso di inottemperanza, puo' irrogare una sanzione, rispettivamente per gli enti territoriali e i soggetti aventi natura imprenditoriale, non superiore a euro 100.000 ovvero al tre per cento del fatturato sopra indicato. 
+ 5-bis. L'Agenzia nazionale per la sicurezza delle ferrovie e delle infrastrutture stradali e autostradali adotta, entro il 31 dicembre di ciascun anno, il programma delle attivita' di vigilanza diretta dell'Agenzia sulle condizioni di sicurezza delle infrastrutture stradali e autostradali, da espletarsi nel corso dell'anno successivo, dandone comunicazione al Ministero delle infrastrutture e della mobilita' sostenibili. Relativamente alle attivita' dell'anno 2021, il programma di cui al primo periodo e' adottato entro il 31 agosto 2021. Entro il 31 gennaio di ciascun anno, l'Agenzia trasmette al Ministro delle infrastrutture e della mobilita' sostenibili e alle competenti Commissioni parlamentari una relazione sulle attivita' previste dai commi da 3 a 5 e svolte nel corso dell'anno precedente. 
+ 6. Sono organi dell'Agenzia: 
+ a) il direttore dell'agenzia, scelto in base a criteri di alta professionalita', di capacita' manageriale e di qualificata esperienza nell'esercizio di funzioni attinenti al settore operativo dell'agenzia; 
+ b) il comitato direttivo, composto da quattro membri e dal direttore dell'agenzia, che lo presiede; 
+ c) il collegio dei revisori dei conti. 
+ 7. Il direttore e' nominato con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, su proposta del Ministro delle infrastrutture e dei trasporti, ferma restando l'applicazione dell'[art. 19, comma 8, del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md). L'incarico ha la durata massima di tre anni, e' rinnovabile per una sola volta ed e' incompatibile con altri rapporti di lavoro subordinato e con qualsiasi altra attivita' professionale privata anche occasionale. Il comitato direttivo e' nominato per la durata di tre anni con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro delle infrastrutture e dei trasporti. Meta' dei componenti sono scelti tra i dipendenti di pubbliche amministrazioni ovvero tra soggetti ad esse esterni dotati di specifica competenza professionale attinente ai settori nei quali opera l'agenzia. I restanti componenti sono scelti tra i dirigenti dell'agenzia e non percepiscono alcun compenso aggiuntivo per lo svolgimento dell'incarico nel comitato direttivo. Il collegio dei revisori dei conti e' composto dal presidente, da due membri effettivi e due supplenti iscritti al registro dei revisori legali, nominati con decreto del Ministro delle infrastrutture e dei trasporti.
+ I revisori durano in carica tre anni e possono essere confermati una sola volta. Il collegio dei revisori dei conti esercita le funzioni di cui all'[art. 2403 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2403), in quanto applicabile. I componenti del comitato direttivo non possono svolgere attivita' professionale, ne' essere amministratori o dipendenti di societa' o imprese, nei settori di intervento dell'Agenzia. I compensi dei componenti degli organi collegiali sono stabiliti con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'economia delle finanze secondo i criteri e parametri previsti per gli enti ed organismi pubblici e sono posti a carico del bilancio dell'Agenzia. 
+ 8. Lo statuto dell'Agenzia e' deliberato dal comitato direttivo ed e' approvato con le modalita' di cui al comma 10. Lo Statuto disciplina le competenze degli organi di direzione dell'Agenzia e reca principi generali in ordine alla sua organizzazione ed al suo funzionamento. 
+ 9. Il regolamento di amministrazione dell'Agenzia e' deliberato, su proposta del direttore, dal comitato direttivo ed e' sottoposto al Ministro delle infrastrutture e dei trasporti che lo approva, di concerto con i Ministri per la pubblica amministrazione e dell'economia e delle finanze, ai sensi del comma 10. In particolare esso: 
+ a) disciplina l'organizzazione e il funzionamento dell'Agenzia, attraverso la previsione di due distinte articolazioni competenti ad esercitare rispettivamente le funzioni gia' svolte dall'ANSF in materia di sicurezza ferroviaria e le nuove competenze in materia di sicurezza delle infrastrutture stradali e autostradali, cui sono preposte due posizioni di ufficio di livello dirigenziale generale; 
+ b) fissa le dotazioni organiche complessive del personale di ruolo dipendente dall'Agenzia nel limite massimo di 668 unita', di cui 48 di livello dirigenziale non generale e 3 uffici di livello dirigenziale generale; 
+ c) determina le procedure per l'accesso alla dirigenza, nel rispetto del [decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md). 
+ 10. Le deliberazioni del comitato direttivo relative allo statuto e ai regolamenti che disciplinano il funzionamento dell'Agenzia sono approvate dal Ministro delle infrastrutture e dei trasporti, di concerto con i Ministri per la pubblica amministrazione e dell'economia e delle finanze. L'approvazione puo' essere negata per ragioni di legittimita' o di merito. Per l'approvazione dei bilanci e dei piani pluriennali di investimento si applicano le disposizioni del regolamento di cui al [decreto del Presidente della Repubblica 9 novembre 1998, n. 439](../Regolamenti%20governativi/Regolamento%20recante%20norme%20di%20semplificazione%20dei%20procedimenti%20di%20approvazione%20e%20di%20rilascio%20di%20pareri%20da%20parte%20dei%20Ministeri%20vigilanti%20in%20ordine%20alle%20delibere%20adottate%20dagli%20organi%20colleg_9b722b02bf1a.md).
+ Gli altri atti di gestione dell'Agenzia non sono sottoposti a controllo ministeriale preventivo. 
+ 11. I dipendenti dell'ANSF a tempo indeterminato sono inquadrati nel ruolo dell'Agenzia e mantengono il trattamento economico fondamentale e accessorio, limitatamente alle voci fisse e continuative, corrisposto al momento dell'inquadramento e in applicazione di quanto previsto dal contratto collettivo nazionale di lavoro di cui al comma 16. Per i restanti contratti di lavoro l'Agenzia subentra nella titolarita' dei rispettivi rapporti, ivi comprese le collaborazioni in corso che restano in vigore sino a naturale scadenza. 
+ 12. In ragione dell'esercizio delle funzioni di cui al comma 4, in aggiunta all'intera dotazione organica del personale dell'ANSF, e' assegnato all'Agenzia un contingente di personale di 250 unita', destinato all'esercizio delle funzioni in materia di sicurezza delle infrastrutture stradali e autostradali e di 15 posizioni di uffici di livello dirigenziale non generale. 
+ 13. Nell'organico dell'Agenzia sono presenti tre posizioni di uffici di livello dirigenziale generale. 
+ 14. In fase di prima attuazione e per garantire l'immediata operativita' dell'ANSFISA, per lo svolgimento delle nuove competenze in materia di sicurezza delle infrastrutture stradali e autostradali, sino all'approvazione del regolamento di amministrazione di cui al comma 9, l'Agenzia provvede al reclutamento del personale di ruolo di cui al comma 12, nella misura massima di 61 unita', mediante apposita selezione nell'ambito del personale dipendente da pubbliche amministrazioni, con esclusione del personale docente educativo ed amministrativo tecnico ausiliario delle istituzioni scolastiche, in possesso delle competenze e dei requisiti di professionalita' ed esperienza richiesti per l'espletamento delle singole funzioni, e tale da garantire la massima neutralita' e imparzialita'. Per tale fase il personale selezionato dall'Agenzia e' comandato dal Ministero delle infrastrutture e dei trasporti e da altre pubbliche amministrazioni, con oneri a carico delle amministrazioni di provenienza, per poi essere immesso nel ruolo dell'Agenzia con la qualifica assunta in sede di selezione e con il riconoscimento del trattamento economico equivalente a quello ricoperto nel precedente rapporto di lavoro e, se piu' favorevole, il mantenimento del trattamento economico di provenienza, limitatamente alle voci fisse e continuative, mediante assegno ad personam riassorbibile e non rivalutabile con i successivi miglioramenti economici a qualsiasi titolo conseguiti.
+ L'inquadramento nei ruoli dell'Agenzia del personale proveniente dalle pubbliche amministrazioni comporta la riduzione, in misura corrispondente, della dotazione organica dell'amministrazione di provenienza con contestuale trasferimento delle relative risorse finanziarie. 
+ 15. L'Agenzia e' autorizzata all'assunzione a tempo indeterminato di 205 unita' di personale e 19 dirigenti nel corso dell'anno 2019 e di 134 unita' di personale e 13 dirigenti nel corso dell'anno 2020 da inquadrare nelle aree iniziali stabilite nel regolamento di cui al comma 9. 
+ 16. Al personale e alla dirigenza dell'Agenzia si applicano le disposizioni del [decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md) e il contratto collettivo nazionale di lavoro del personale del comparto funzioni centrali, secondo le tabelle retributive dell'ENAC. 
+ 17. Al fine di assicurare il corretto svolgimento delle attivita' di cui al presente articolo, all'Agenzia e' garantito l'accesso a tutti i dati riguardanti le opere pubbliche della banca dati di cui all'art. 13, nonche' ai dati ricavati dal sistema di monitoraggio dinamico per la sicurezza delle infrastrutture stradali e autostradali di cui all'art. 14. Per le medesime finalita' di cui al primo periodo, gli enti proprietari e i gestori delle infrastrutture stradali e autostradali sono tenuti a garantire al personale autorizzato dell'Agenzia l'accesso incondizionato alle infrastrutture, ai cantieri, alle sedi legali e operative, nonche' a tutta la documentazione pertinente. 
+ 18. Agli oneri del presente articolo, pari a complessivi 14.100.000 euro per l'anno 2019, e 22.300.000 euro a decorrere dall'anno 2020 si provvede ai sensi dell'art. 45. 
+ 19. In sede di prima applicazione, entro 90 giorni dalla data di cui al comma 1, lo Statuto e i regolamenti di cui ai commi 8 e 9 sono adottati con decreto del Ministro delle infrastrutture e dei trasporti di concerto con il Ministro dell'economia e delle finanze e con il Ministro per la pubblica amministrazione. Fino all'adozione dei nuovi regolamenti continuano ad applicarsi i regolamenti gia' emanati per l'ANSF. Gli organi dell'ANSF rimangono in carica fino alla nomina degli organi dell'Agenzia. Nelle more della piena operativita' dell'Agenzia, la cui data e' determinata con decreto del Ministro delle infrastrutture e dei trasporti, le funzioni e le competenze attribuite alla stessa ai sensi del presente articolo, ove gia' esistenti, continuano ad essere svolte dalle amministrazioni e dagli enti pubblici competenti nei diversi settori interessati. 
+ 20. La denominazione "Agenzia nazionale per la sicurezza delle ferrovie" e' sostituita, ovunque ricorre, dalla denominazione "Agenzia nazionale per la sicurezza delle ferrovie e delle infrastrutture stradali e autostradali" (ANSFISA). 
+ 21. L'Agenzia si avvale del patrocinio dell'Avvocatura dello Stato ai sensi dell'art. 1 del testo unico di cui al [regio decreto 30 ottobre 1933, n. 1611](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md). 
+ 22. Tutti gli atti connessi con l'istituzione dell'Agenzia sono esenti da imposte e tasse. 
+ 23. L'[art. 4 del decreto legislativo 10 agosto 2007, n. 162](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%202004-49-CE%20e%202004-51-CE%20relative%20alla%20sicurezza%20e%20allo%20sviluppo%20delle%20ferrovie%20comunitarie.md) e' abrogato.». 
+ «Art. 13 (Istituzione dell'archivio informatico nazionale delle opere pubbliche - AINOP). - 1. E' istituito presso il Ministero delle infrastrutture e dei trasporti l'archivio informatico nazionale delle opere pubbliche, di seguito - AINOP, formato dalle seguenti sezioni: 
+ a) ponti, viadotti e cavalcavia stradali; 
+ b) ponti, viadotti e cavalcavia ferroviari; 
+ c) strade - archivio nazionale delle strade, di seguito ANS; 
+ d) ferrovie nazionali e regionali - metropolitane; 
+ e) aeroporti; 
+ f) dighe e acquedotti; 
+ g) gallerie ferroviarie e gallerie stradali; 
+ h) porti e infrastrutture portuali; 
+ i) edilizia pubblica. 
+ 2. Le sezioni di cui al comma 1 sono suddivise in sottosezioni, ove sono indicati, per ogni opera pubblica: 
+ a) i dati tecnici, progettuali e di posizione con analisi storica del contesto e delle evoluzioni territoriali; 
+ b) i dati amministrativi riferiti ai costi sostenuti e da sostenere; 
+ c) i dati sulla gestione dell'opera anche sotto il profilo della sicurezza; 
+ d) lo stato e il grado di efficienza dell'opera e le attivita' di manutenzione ordinaria e straordinaria, compresi i dati relativi al controllo strumentale dei sistemi di ritenuta stradale in acciaio o in cemento; 
+ e) la collocazione dell'opera rispetto alla classificazione europea; 
+ f) i finanziamenti; 
+ g) lo stato dei lavori; 
+ h) la documentazione fotografica aggiornata; 
+ i) il monitoraggio costante dello stato dell'opera anche con applicativi dedicati, sensori in situ e rilevazione satellitare; 
+ l) il sistema informativo geografico per la consultazione, l'analisi e la modellistica dei dati relativi all'opera e al contesto territoriale. 
+ 3. Sulla base del principio di unicita' dell'invio di cui agli [articoli 3](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md) e [29 del codice dei contratti pubblici](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), di cui al [decreto legislativo 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i dati e le informazioni di cui al presente articolo gia' rilevati dalla banca dati delle amministrazioni pubbliche (BDAP) di cui all'[art. 2 del decreto legislativo 29 dicembre 2011, n. 229](../Decreti%20Legislativi/Attuazione%20dellarticolo%2030%20comma%209%20lettere%20e%20f%20e%20g%20della%20legge%2031%20dicembre%202009%20n.%20196%20in%20materia%20di%20procedure%20di%20monitoraggio%20sullo%20stato%20di%20attuazione%20delle%20opere%20pubbliche%20di%20verifica%20_e253888fc09f.md) e all'[art. 13 della legge 31 dicembre 2009, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196#art_13), o da altre banche dati pubbliche sono forniti all'AINOP dalla citata BDAP. Il decreto di cui al comma 5 regola le modalita' di scambio delle informazioni tra i due sistemi. 
+ 4. Le Regioni, le Province autonome di Trento e di Bolzano, gli enti locali, l'ANAS, Rete Ferroviaria Italiana S.p.a., i concessionari autostradali, i concessionari di derivazioni, i Provveditorati interregionali alle opere pubbliche, l'ente nazionale per l'aviazione civile, le autorita' di sistema portuale e logistico, l'Agenzia del demanio e i soggetti che a qualsiasi titolo gestiscono o detengono dati riferiti ad un'opera pubblica o all'esecuzione di lavori pubblici, alimentano l'AINOP con i dati in proprio possesso per la redazione di un documento identificativo, contenente i dati tecnici, amministrativi e contabili, relativi a ciascuna opera pubblica presente sul territorio nazionale. Sulla base dei dati forniti, l'AINOP genera un codice identificativo della singola opera pubblica (IOP), che contraddistingue e identifica in maniera univoca l'opera medesima riportandone le caratteristiche essenziali e distintive quali la tipologia, la localizzazione, l'anno di messa in esercizio e l'inserimento dell'opera nell'infrastruttura. A ciascuna opera pubblica, identificata tramite il Codice IOP, sono riferiti tutti gli interventi di investimento pubblico, realizzativi, manutentivi, conclusi o in fase di programmazione, progettazione, esecuzione, che insistono in tutto o in parte sull'opera stessa, tramite l'indicazione dei rispettivi Codici Unici di Progetto (CUP), di cui all'[art. 11 della legge 16 gennaio 2003, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-01-16;3#art_11). L'AINOP, attraverso la relazione istituita fra Codice IOP e CUP, assicura l'interoperabilita' con la BDAP, istituita presso la Ragioneria generale dello Stato - Ministero dell'economia e delle finanze. 
+ 5. A decorrere dal 15 dicembre 2018, i soggetti di cui al comma 4 rendono disponibili i servizi informatici di rispettiva titolarita' per la condivisione dei dati e delle informazioni nel rispetto del [decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md), mediante la cooperazione applicativa tra amministrazioni pubbliche, con le modalita' definite con decreto del Ministro delle infrastrutture e dei trasporti, previa intesa in sede di Conferenza unificata di cui all'[art. 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), ai sensi dell'art. 3 del medesimo [decreto legislativo n. 281 del 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;281), da adottarsi entro sessanta giorni dalla data di entrata in vigore del presente decreto. L'inserimento e' completato entro e non oltre il 30 aprile 2019 ed e' aggiornato in tempo reale con i servizi di cooperazione applicativa e di condivisione dei dati. 
+ 6. Gli enti e le amministrazioni che a qualsiasi titolo esercitano attivita' di vigilanza sull'opera effettuano il monitoraggio dello stato di attuazione degli interventi, identificati con i relativi CUP, insistenti sulle opere pubbliche, identificate con il Codice IOP, e delle relative risorse economico-finanziarie assegnate utilizzando le informazioni presenti nella BDAP, che vengono segnalate dai soggetti titolari degli interventi, ai sensi del [decreto legislativo 29 dicembre 2011, n. 229](../Decreti%20Legislativi/Attuazione%20dellarticolo%2030%20comma%209%20lettere%20e%20f%20e%20g%20della%20legge%2031%20dicembre%202009%20n.%20196%20in%20materia%20di%20procedure%20di%20monitoraggio%20sullo%20stato%20di%20attuazione%20delle%20opere%20pubbliche%20di%20verifica%20_e253888fc09f.md). 
+ 7. L'AINOP, gestito dal Ministero delle infrastrutture e dei trasporti, e implementato anche sulla base delle indicazioni e degli indirizzi forniti dalla Presidenza del Consiglio dei ministri, dal Ministero dell'economia e delle finanze - Ragioneria generale dello Stato e dall'ANSFISA, per la generazione dei codici IOP, per il relativo corredo informativo, per l'integrazione e l'interoperabilita' con le informazioni contenute nella BDAP, tramite il CUP, e per l'integrazione nella Piattaforma digitale nazionale dati di cui all'[art. 50-ter del decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md), e' messo a disposizione ed e' consultabile anche in formato open data, con le modalita' definite con il decreto ministeriale indicato al comma 5, prevedendo la possibilita' di raccogliere, mediante apposita sezione, segnalazioni da sottoporre agli enti e amministrazioni che a qualsiasi titolo esercitano attivita' di vigilanza sull'opera. 
+ 7-bis. Per le finalita' di cui al comma 7 del presente articolo, al [comma 2 dell'art. 50-ter del codice dell'amministrazione digitale](../Codici/Codice%20dellamministrazione%20digitale.md), di cui al [decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md), le parole: "31 dicembre 2018" sono sostituite dalle seguenti: "5 settembre 2019". 
+ 8. L'AINOP e' sviluppato tenendo in considerazione la necessita' urgente di garantire un costante monitoraggio dello stato e del grado di efficienza delle opere pubbliche, in particolare per i profili riguardanti la sicurezza, anche tramite le informazioni rivenienti dal Sistema di monitoraggio dinamico per la sicurezza delle infrastrutture stradali e autostradali di cui all'art. 14.
+ Le informazioni contenute nell'AINOP consentono di pervenire ad una valutazione complessiva sul livello di sicurezza delle opere, per agevolare il processo di programmazione e finanziamento degli interventi di riqualificazione o di manutenzione delle opere stesse e la determinazione del grado di priorita' dei medesimi. 
+ 9. Al fine di assistere i lavori di istruttoria della programmazione e del finanziamento degli interventi di riqualificazione o di manutenzione delle opere pubbliche, alla struttura servente del Comitato interministeriale per la programmazione economica (CIPE), presso la Presidenza del Consiglio dei ministri, e alla Ragioneria generale dello Stato, presso il Ministero dell'economia e delle finanze, e' garantito l'accesso all'AINOP, tramite modalita' idonee a consentire i citati lavori di istruttoria. 
+ 10. Per l'attuazione delle disposizioni del presente articolo e' autorizzata la spesa di euro 300.000 per l'anno 2018, euro 1.000.000 per l'anno 2019 e euro 200.000 a decorrere dall'anno 2020, alla quale si provvede ai sensi dell'art. 45.». 
+ - Il [decreto legislativo 14 maggio 2019, n. 50](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202016-798%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20dell11%20maggio%202016%20sulla%20sicurezza%20delle%20ferrovie.%2019G00057.md) (Attuazione della [direttiva 2016/798 del Parlamento europeo e del Consiglio, dell'11 maggio 2016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2016;798), sulla sicurezza delle ferrovie) e' pubblicato nella Gazzetta Ufficiale 10 giugno 2019, n. 134. 
+ - Il [decreto-legge 10 settembre 2021, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-09-10;121) (Disposizioni urgenti in materia di investimenti e sicurezza delle infrastrutture, dei trasporti e della circolazione stradale, per la funzionalita' del Ministero delle infrastrutture e della mobilita' sostenibili, del Consiglio superiore dei lavori pubblici e dell'Agenzia nazionale per la sicurezza delle ferrovie e delle infrastrutture stradali e autostradali.) convertito, con modificazioni, dalla [legge 9 novembre 2021, n. 156](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20settembre%202021%20n.%20121%20recante%20disposizioni%20urgenti%20in%20materia%20di%20investimenti%20e%20sicurezza%20delle%20infrastrutture%20dei%20trasporti%20e%20_a45ae3c7c3a4.md) e' pubblicato nella Gazzetta Ufficiale 10 settembre 2021, n. 217. 
+ - Si riportano gli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-11-11;173#art_5) e [13 del decreto-legge 11 novembre 2022, n. 173](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-11-11;173#art_13) (Disposizioni urgenti in materia di riordino delle attribuzioni dei Ministeri.) convertito, con modificazioni, dalla [legge 16 dicembre 2022, n. 204](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2011%20novembre%202022%20n.%20173%20recante%20disposizioni%20urgenti%20in%20materia%20di%20riordino%20delle%20attribuzioni%20dei%20Ministeri.%2022G00213.md): 
+ «Art. 5 (Ministero delle infrastrutture e dei trasporti). - 1. Il Ministero delle infrastrutture e della mobilita' sostenibili assume la denominazione di Ministero delle infrastrutture e dei trasporti. 
+ 2. Le denominazioni "Ministro delle infrastrutture e dei trasporti" e "Ministero delle infrastrutture e dei trasporti" sostituiscono, a ogni effetto e ovunque presenti, le denominazioni "Ministro delle infrastrutture e della mobilita' sostenibili" e "Ministero delle infrastrutture e della mobilita' sostenibili". 
+ 3. L'[art. 5 del decreto-legge 1° marzo 2021, n. 22](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-03-01;22#art_5), convertito, con modificazioni, dalla [legge 22 aprile 2021, n. 55](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20marzo%202021%20n.%2022%20recante%20disposizioni%20urgenti%20in%20materia%20di%20riordino%20delle%20attribuzioni%20dei%20Ministeri.%2021G00065.md), e' abrogato.». 
+ «Art. 13 (Procedure per la riorganizzazione dei Ministeri). - 1. Al fine di semplificare e accelerare le procedure per la riorganizzazione di tutti i Ministeri, a decorrere dalla data di entrata in vigore della legge di conversione del presente decreto fino al 30 ottobre 2023, i regolamenti di organizzazione dei Ministeri sono adottati con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro competente, di concerto con il Ministro per la pubblica amministrazione e con il Ministro dell'economia e delle finanze, previa deliberazione del Consiglio dei ministri. Sugli stessi decreti e' richiesto il parere del Consiglio di Stato.». 
+ - La [legge 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md) «Bilancio di previsione dello Stato per l'anno finanziario 2023 e bilancio pluriennale per il triennio 2023-2025» e' pubblicata nella Gazzetta Ufficiale 29 dicembre 2022, n. 303. 
+ - Il [decreto-legge 24 febbraio 2023, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-02-24;13) (Disposizioni urgenti per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR) e del Piano nazionale degli investimenti complementari al PNRR (PNC), nonche' per l'attuazione delle politiche di coesione e della politica agricola comune.), convertito, con modificazioni, dalla [legge 21 aprile 2023, n. 41](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20febbraio%202023%20n.%2013%20recante%20disposizioni%20urgenti%20per%20lattuazione%20del%20Piano%20nazionale%20di%20ripresa%20e%20resilienza%20PNRR%20e%20del%20Piano%20n_ab2ee2e027d3.md), e' pubblicato nella Gazzetta Ufficiale del 24 febbraio 2023, n. 47. 
+ - Si riportano gli [articoli 186](../Codici/Codice%20dei%20contratti%20pubblici%20in%20attuazione%20dellarticolo%201%20della%20legge%2021%20giugno%202022%20n.%2078%20recante%20delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2023G00044.md) e [223 del decreto legislativo 31 marzo 2023, n. 36](../Codici/Codice%20dei%20contratti%20pubblici%20in%20attuazione%20dellarticolo%201%20della%20legge%2021%20giugno%202022%20n.%2078%20recante%20delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2023G00044.md) ([Codice dei contratti pubblici](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md) in attuazione dell'[art. 1 della legge 21 giugno 2022, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2022G00087.md), recante delega al Governo in materia di contratti pubblici.): 
+ «Art. 186 (Affidamenti dei concessionari). - 1. Agli appalti affidati dai concessionari che siano stazioni appaltanti si applicano le disposizioni del codice in materia di appalti. 
+ 2. I titolari di concessioni di lavori e di servizi pubblici, ad esclusione di quelli disciplinati dal Libro III, gia' in essere alla data di entrata in vigore del codice, di importo pari o superiore alle soglia di rilevanza europea, e non affidate conformemente al diritto dell'Unione europea vigente al momento dell'affidamento o della proroga, affidano mediante procedura ad evidenza pubblica una quota tra il 50 per cento e il 60 per cento dei contratti di lavori, servizi e forniture stabilita convenzionalmente dal concedente e dal concessionario; l'ente concedente tiene conto delle dimensioni economiche e dei caratteri dell'impresa, dell'epoca di assegnazione della concessione, della sua durata residua, del suo oggetto, del suo valore economico e dell'entita' degli investimenti effettuati. L'affidamento avviene mediante procedura ad evidenza pubblica, con la previsione di clausole sociali per la stabilita' del personale impiegato e per la salvaguardia delle professionalita'. 
+ 3. In caso di comprovata indivisibilita' delle prestazioni di servizi dedotte in concessione, in sostituzione dell'obbligo di esternalizzazione di cui al comma 2, il concessionario corrisponde all'ente concedente un importo compreso tra il minimo del 5 per cento ed il massimo del 10 per cento degli utili previsti dal piano economico-finanziario, tenendo conto dell'epoca di assegnazione della concessione, della sua durata, del suo oggetto, del suo valore economico e dell'entita' degli investimenti. 
+ 4. Le concessioni di cui ai commi 2 e 3 gia' in essere sono adeguate alle predette disposizioni entro il termine di sei mesi dall'entrata in vigore del codice. 
+ 5. Le modalita' di calcolo delle quote di cui comma 2, primo periodo, sono definite dall'ANAC entro il termine di sessanta giorni dalla data di entrata in vigore del codice. Sull'applicazione del presente articolo vigila l'ANAC anche tenuto conto del valore delle prestazioni eseguite. 
+ 6. Per i concessionari autostradali, le quote e i criteri di determinazione di cui al comma 2 sono calcolati sulla base degli importi risultanti dai piani economici finanziari annessi agli atti convenzionali. La verifica del rispetto delle predette soglie e' effettata dal concedente con cadenza quinquennale. A tal fine, i concessionari presentano al concedente il piano complessivo dei lavori, servizi e forniture. Ove siano accertate situazioni di squilibrio rispetto alle quote obbligatorie di affidamento indicate dal comma 2, primo periodo, in sede di aggiornamento del rapporto concessorio sono adottate misure di riequilibrio a valere sui relativi piani economici finanziari. Nell'ipotesi di mancato rispetto delle quote di cui al comma 2, l'ente concedente puo' altresi' richiedere al concessionario la presentazione di garanzie fideiussorie. Tali garanzie fideiussorie sono svincolate in sede di aggiornamento del piano economico-finanziario ove sia accertato il rispetto delle quote di cui al comma 2. 
+ 7. Le concessioni autostradali relative ad autostrade che interessano una o piu' regioni possono essere affidate dal Ministero delle infrastrutture e dei trasporti a societa' in house di altre amministrazioni pubbliche anche appositamente costituite. A tal fine il controllo analogo sulla predetta societa' in house puo' essere esercitato dal Ministero delle infrastrutture e dei trasporti attraverso un comitato disciplinato da apposito accordo ai sensi dell'[art. 15 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_15), che eserciti sulla societa' in house i relativi poteri.». 
+ «Art. 223 (Ministero delle infrastrutture e dei trasporti e struttura tecnica di missione). - 1.
+ Nell'ambito delle funzioni di cui al [decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), il Ministero delle infrastrutture e dei trasporti promuove le attivita' tecniche e amministrative occorrenti per l'adeguata e sollecita progettazione e approvazione delle infrastrutture ed effettua, con la collaborazione delle regioni o province autonome interessate, le attivita' di supporto necessarie per la vigilanza, da parte dell'autorita' competente, sulla realizzazione delle infrastrutture. 
+ 2. Nello svolgimento delle funzioni di cui al comma 1, il Ministero delle infrastrutture e dei trasporti impronta la propria attivita' al principio di leale collaborazione con le regioni e le province autonome e con gli enti locali interessati e acquisisce, nei casi indicati dalla legge, la previa intesa delle regioni o province autonome interessate. Ai fini di cui al comma 1, il Ministero delle infrastrutture e dei trasporti, in particolare: 
+ a) promuove e riceve le proposte delle regioni o province autonome e degli altri enti aggiudicatori; 
+ b) promuove e propone intese quadro tra Governo e singole regioni o province autonome, al fine del congiunto coordinamento e realizzazione delle infrastrutture; 
+ c) promuove la redazione dei progetti di fattibilita' delle infrastrutture da parte dei soggetti aggiudicatori, anche attraverso eventuali intese o accordi procedimentali tra i soggetti comunque interessati; 
+ d) provvede, eventualmente in collaborazione con le regioni, le province autonome e gli altri enti interessati con oneri a proprio carico, alle attivita' di supporto al Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile per la vigilanza sulle attivita' di affidamento da parte dei soggetti aggiudicatori e della successiva realizzazione delle infrastrutture e degli insediamenti prioritari per lo sviluppo del Paese di cui all'art. 39; 
+ e) ove necessario, collabora alle attivita' delle stazioni appaltanti e degli enti concedenti o degli enti interessati alle attivita' istruttorie con azioni di indirizzo e supporto; 
+ f) cura l'istruttoria sui progetti di fattibilita' e definitivi, anche ai fini della loro sottoposizione alle deliberazioni del Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile in caso di infrastrutture e di insediamenti prioritari per lo sviluppo del Paese di cui all'art. 39, proponendo allo stesso le eventuali prescrizioni per l'approvazione del progetto; per le opere di competenza dello Stato, il parere del Consiglio superiore dei lavori pubblici, o di altri organi o commissioni consultive, ove richiesto dalle norme vigenti, e' acquisito sul progetto di fattibilita' tecnico-economica; 
+ g) assegna ai soggetti aggiudicatori, a carico dei fondi di cui all'art. 39, le risorse finanziarie integrative necessarie alle attivita' progettuali; in caso di infrastrutture e di insediamenti prioritari per lo sviluppo del Paese di cui all'art. 39, propone, d'intesa con il Ministero dell'economia e delle finanze, al Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile l'assegnazione ai soggetti aggiudicatori, a carico dei fondi, delle risorse finanziarie integrative necessarie alla realizzazione delle infrastrutture, contestualmente all'approvazione del progetto di fattibilita' tecnico-economica e nei limiti delle risorse disponibili, dando priorita' al completamento delle opere incompiute; 
+ h) verifica l'avanzamento dei lavori anche attraverso sopralluoghi tecnico-amministrativi presso i cantieri interessati, previo accesso agli stessi; a tal fine puo' avvalersi, ove necessario, del Corpo della Guardia di finanza, mediante la sottoscrizione di appositi protocolli di intesa e del Servizio per l'Alta sorveglianza sulle grandi opere istituito con decreto del Ministro delle infrastrutture e dei trasporti 15 aprile 2002, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 54 del 5 marzo 2004. 
+ 3. Per le attivita' di indirizzo e pianificazione strategica, ricerca, supporto e alta consulenza, valutazione, revisione della progettazione, monitoraggio e alta sorveglianza delle infrastrutture, il Ministero delle infrastrutture e dei trasporti puo' avvalersi di una struttura tecnica di missione composta da dipendenti nei limiti dell'organico approvato e dirigenti delle pubbliche amministrazioni, da tecnici individuati dalle regioni o province autonome territorialmente coinvolte, nonche', sulla base di specifici incarichi professionali o rapporti di collaborazione coordinata e continuativa, da progettisti ed esperti nella gestione di lavori pubblici e privati e di procedure amministrative. La struttura tecnica di missione e' istituita con decreto del Ministro delle infrastrutture e dei trasporti. La struttura puo', altresi', avvalersi di personale di alta specializzazione e professionalita', previa selezione, con contratti a tempo determinato di durata non superiore al quinquennio rinnovabile per una sola volta, nonche' quali advisor, di universita' statali e non statali legalmente riconosciute, di enti di ricerca e di societa' specializzate nella progettazione e gestione di lavori pubblici e privati. La struttura svolge, altresi', le funzioni del Nucleo di valutazione e verifica degli investimenti pubblici, previste dall'[art. 1 della legge 17 maggio 1999, n. 144](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Misure%20in%20materia%20di%20investimenti%20delega%20al%20Governo%20per%20il%20riordino%20degli%20incentivi%20alloccupazione%20e%20della%20normativa%20che%20disciplina%20lINAIL%20nonche%20disposizioni%20per%20il%20riordino%20degli%20enti%20previdenziali.md) e dall'[art. 7 del decreto legislativo 29 dicembre 2011, n. 228](../Decreti%20Legislativi/Attuazione%20dellarticolo%2030%20comma%209%20lettere%20a%20b%20c%20e%20d%20della%20legge%2031%20dicembre%202009%20n.%20196%20in%20materia%20di%20valutazione%20degli%20investimenti%20relativi%20ad%20opere%20pubbliche.%2012G0015.md). 
+ 4. Per agevolare, sin dall'inizio della fase istruttoria, la realizzazione di infrastrutture e insediamenti prioritari, il Ministro delle infrastrutture e dei trasporti, sentiti i Ministri competenti, nonche' i Presidenti delle regioni o province autonome interessate, propone al Presidente del Consiglio dei ministri la nomina di commissari straordinari, i quali seguono l'andamento delle opere e provvedono alle opportune azioni di indirizzo e supporto promuovendo anche attivita' di prevenzione dell'insorgenza dei conflitti e dei contenziosi, anche con riferimento alle esigenze delle comunita' locali, nonche' le occorrenti intese tra i soggetti pubblici e privati interessati. Nell'espletamento delle suddette attivita', e nel caso di particolare complessita' delle stesse, il commissario straordinario puo' essere affiancato da un sub-commissario, nominato dal Presidente del Consiglio dei ministri, su proposta dei Presidenti delle regioni o province autonome territorialmente coinvolte, con oneri a carico delle regioni o province autonome proponenti ovvero a valere sulle risorse di cui al comma 8. Per le opere non aventi carattere interregionale o internazionale, la proposta di nomina del commissario straordinario e' formulata d'intesa con la regione o la provincia autonoma o l'ente territoriale interessati. 
+ 5. Gli oneri per il funzionamento della struttura tecnica di missione di cui al comma 3 trovano copertura sui fondi di cui all'[art. 1, comma 238, della legge 30 dicembre 2004, n. 311](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202005.md), nonche' sulle risorse assegnate annualmente al Ministero delle infrastrutture e dei trasporti ai sensi della [legge n. 144 del 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999;144). 
+ 6. Il Presidente del Consiglio dei ministri, su proposta del Ministro delle infrastrutture e dei trasporti, sentiti i Ministri competenti nonche', per le infrastrutture di competenza dei soggetti aggiudicatori regionali, i presidenti delle regioni o province autonome interessate, abilita eventualmente i commissari straordinari ad adottare, con le modalita' e i poteri di cui all'[art. 13 del decreto-legge 25 marzo 1997, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-03-25;67#art_13), convertito, con modificazioni, dalla [legge 23 maggio 1997, n. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20marzo%201997%20n.%2067%20recante%20disposizioni%20urgenti%20per%20favorire%20loccupazione.md), in sostituzione dei soggetti competenti, i provvedimenti e gli atti di qualsiasi natura necessari alla sollecita progettazione, istruttoria, affidamento e realizzazione delle infrastrutture e degli insediamenti produttivi. 
+ 7. I commissari straordinari agiscono in autonomia e con l'obiettivo di garantire l'interesse pubblico e riferiscono al Presidente del Consiglio, al Ministro delle infrastrutture e dei trasporti e al Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile in ordine alle problematiche riscontrate e alle iniziative assunte e operano secondo le direttive dai medesimi impartite e con il supporto del Ministero delle infrastrutture e dei trasporti, e, ove esistenti, della struttura tecnica di missione e degli advisor, acquisendo, per il tramite degli stessi, ogni occorrente studio e parere. Nei limiti dei costi autorizzati a norma del comma 8, i commissari straordinari e i sub-commissari si avvalgono della struttura di cui al comma 3, nonche' delle competenti strutture regionali e possono avvalersi del supporto e della collaborazione dei soggetti terzi. 
+ 8. Il decreto del Presidente del Consiglio dei ministri di nomina del commissario straordinario individua il compenso e i costi pertinenti alle attivita' da svolgere dallo stesso, nonche' le modalita' di corresponsione degli stessi a valere sulle risorse del quadro economico di ciascun intervento, nei limiti delle somme stanziate per tale finalita'. 
+ 9. Ai commissari nominati ai sensi dell'[art. 20 del decreto-legge 29 novembre 2008, n. 185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-11-29;185#art_20), convertito, con modificazioni, dalla [legge 28 gennaio 2009, n. 2](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20novembre%202008%20n.%20185%20recante%20misure%20urgenti%20per%20il%20sostegno%20a%20famiglie%20lavoro%20occupazione%20e%20impresa%20e%20per%20ridisegnare%20in%20funzio_d34e2e16908a.md), per le opere di cui al presente articolo si applicano le disposizioni di cui ai commi da 4 a 8. 
+ 10. Il Ministero delle infrastrutture e dei trasporti assicura, anche attraverso la piattaforma del Servizio Contratti Pubblici, il supporto e l'assistenza necessari alle stazioni appaltanti per l'applicazione della disciplina di settore, in collaborazione con le regioni e le province autonome di Trento e di Bolzano nell'ambito delle attivita' che queste esercitano ai sensi del codice.». 
+ - Si riportano gli articoli 1, comma 5, e 9 del [decreto-legge 22 giugno 2023, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-06-22;75) (Disposizioni urgenti in materia di organizzazione delle pubbliche amministrazioni, di agricoltura, di sport, di lavoro e per l'organizzazione del Giubileo della Chiesa cattolica per l'anno 2025.), convertito, con modificazioni, dalla [legge 10 agosto 2023, n. 112](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20giugno%202023%20n.%2075%20recante%20disposizioni%20urgenti%20in%20materia%20di%20organizzazione%20delle%20pubbliche%20amministrazioni%20di%20agricoltura%20di%20s_8f60f2ffa42b.md): 
+ «Art. 1 (Disposizioni riguardanti la Presidenza del Consiglio dei ministri e l'Agenzia per la cybersicurezza nazionale). - (Omissis.). 
+ 5. All'[art. 13 del decreto-legge 11 novembre 2022, n. 173](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-11-11;173#art_13), convertito, con modificazioni, dalla [legge 16 dicembre 2022, n. 204](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2011%20novembre%202022%20n.%20173%20recante%20disposizioni%20urgenti%20in%20materia%20di%20riordino%20delle%20attribuzioni%20dei%20Ministeri.%2022G00213.md), in materia di riorganizzazione dei Ministeri, le parole: «fino al 30 giugno 2023» sono sostituite dalle seguenti: «fino al 30 ottobre 2023». Resta, comunque, fermo il termine del 30 giugno 2023 per l'adozione dei regolamenti di riorganizzazione delle strutture e delle unita' di missione di cui all'[art. 1, comma 1, del decreto-legge 24 febbraio 2023, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-02-24;13#art_1-com1), convertito, con modificazioni, dalla [legge 21 aprile 2023, n. 41](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20febbraio%202023%20n.%2013%20recante%20disposizioni%20urgenti%20per%20lattuazione%20del%20Piano%20nazionale%20di%20ripresa%20e%20resilienza%20PNRR%20e%20del%20Piano%20n_ab2ee2e027d3.md). 
+ (Omissis.)». 
+ «Art. 9 (Disposizioni urgenti per il rafforzamento dell'operativita' e dell'organizzazione del Ministero delle infrastrutture e dei trasporti). - 1. Al fine di rafforzare l'operativita' e l'organizzazione del Ministero delle infrastrutture e dei trasporti, e' autorizzato l'incremento di una posizione di dirigente generale della dotazione organica del Ministero delle infrastrutture e dei trasporti, di cui al decreto del [Presidente del Consiglio dei ministri 23 dicembre 2020, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2020-12-23;190). Agli oneri derivanti dal primo periodo, pari a euro 130.834 per l'anno 2023 e a euro 261.668 annui a decorrere dall'anno 2024, si provvede mediante corrispondente riduzione del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2023-2025, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2023, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero delle infrastrutture e dei trasporti. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio. 
+ 1-bis. Presso il Ministero delle infrastrutture e dei trasporti e' istituito l'Osservatorio nazionale sulle sanzioni per le violazioni del [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md), che svolge le seguenti attivita': 
+ a) predispone e presenta al Ministro delle infrastrutture e dei trasporti una relazione annuale, elaborata sulla base dei dati forniti dal Ministero dell'interno e dall'Istituto nazionale di statistica relativi all'applicazione degli [articoli 142](../Codici/Nuovo%20codice%20della%20strada.md) e [208 del codice della strada](../Codici/Nuovo%20codice%20della%20strada.md), di cui al [decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), contenente in particolare i dati relativi agli incidenti stradali e alla regolarita' e trasparenza nell'utilizzo dei proventi delle sanzioni amministrative pecuniarie e nell'uso dei dispositivi elettronici di controllo della velocita'; 
+ b) verifica le segnalazioni delle associazioni dei consumatori operanti nel settore e puo' richiedere dati e informazioni alle competenti amministrazioni di cui all'[art. 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md). 
+ 1-ter. L'Osservatorio di cui al comma 1-bis e' composto da tre membri, di cui uno con funzione di presidente. Con decreto del Ministro delle infrastrutture e dei trasporti, da adottare entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, sono nominati i membri dell'Osservatorio e sono definite le modalita' di funzionamento dell'Osservatorio medesimo. L'incarico di componente dell'Osservatorio ha una durata di quattro anni. Con il decreto di cui al secondo periodo sono stabiliti i compensi dei componenti dell'Osservatorio nei limiti di spesa di cui al comma 1-quater. 
+ 1-quater. Per il funzionamento dell'Osservatorio di cui al comma 1-bis e per la corresponsione dei compensi ai membri nominati ai sensi del comma 1-ter e' autorizzata la spesa di euro 50.000 per l'anno 2023 e di euro 150.000 annui a decorrere dall'anno 2024. 
+ 1-quinquies. Agli oneri derivanti dai commi 1-bis, 1-ter e 1-quater, pari a euro 50.000 per l'anno 2023 e a euro 150.000 annui a decorrere dall'anno 2024, si provvede mediante corrispondente riduzione del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2023-2025, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2023, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero delle infrastrutture e dei trasporti. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio. 
+ 1-sexies. L'Osservatorio di cui al comma 1-bis si avvale delle risorse umane, strumentali e finanziarie del Ministero delle infrastrutture e dei trasporti disponibili a legislazione vigente. 
+ 1-septies. Fino al 31 dicembre 2026, le indennita' da corrispondere ai componenti del Comitato speciale di cui all'[art. 45 del decreto-legge 31 maggio 2021, n. 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-31;77#art_45), convertito, con modificazioni, dalla [legge 29 luglio 2021, n. 108](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20maggio%202021%20n.%2077%20recante%20governance%20del%20Piano%20nazionale%20di%20ripresa%20e%20resilienza%20e%20prime%20misure%20di%20rafforzamento%20delle%20struttur_55630b637f4d.md), e quelle da corrispondere ai componenti del Consiglio superiore dei lavori pubblici ai sensi dell'art. 3, comma 4, secondo periodo, dell'allegato I.11 annesso al [codice dei contratti pubblici](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), di cui al [decreto legislativo 31 marzo 2023, n. 36](../Codici/Codice%20dei%20contratti%20pubblici%20in%20attuazione%20dellarticolo%201%20della%20legge%2021%20giugno%202022%20n.%2078%20recante%20delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2023G00044.md), sono corrisposte, per i dipendenti delle amministrazioni di cui all'[art. 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), non appartenenti ai ruoli del Ministero delle infrastrutture e dei trasporti, dall'amministrazione di appartenenza e rimborsate dal Ministero delle infrastrutture e dei trasporti. Per i restanti membri degli organismi di cui al primo periodo del presente comma, le indennita' di cui al medesimo periodo sono corrisposte dal Ministero delle infrastrutture e dei trasporti con propria determinazione.
+ L'ammontare delle indennita' di cui al primo periodo del presente comma e' calcolato secondo i criteri stabiliti dal regolamento di cui al terzo periodo del citato art. 3, comma 4, dell'allegato I.11 annesso al codice di cui al [decreto legislativo n. 36 del 2023](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023;36).». 
+ - Il [decreto del Presidente della Repubblica 27 aprile 2006, n. 204](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20riordino%20del%20Consiglio%20superiore%20dei%20lavori%20pubblici.md) (Regolamento di riordino del Consiglio superiore dei lavori pubblici) e' pubblicato nella Gazzetta Ufficiale del 6 giugno 2006, n. 129. 
+ - Il [decreto del Presidente del Consiglio dei ministri 23 dicembre 2020, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2020-12-23;190) (Regolamento recante l'organizzazione del Ministero delle infrastrutture e dei trasporti) e' pubblicato nella Gazzetta Ufficiale 6 marzo 2021, n. 56. 
+ - Il [decreto del Ministro delle infrastrutture e dei trasporti 31 maggio 2019, n. 226](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.infrastrutture.trasporti:decreto:2019-05-31;226) e' consultabile all'indirizzo web: https://www.mit.gov.it/nfsmitgov/files/media/normativa/2019 -09/226.pdf. 
+ - Il decreto del Ministro dell'economia e delle finanze del 30 dicembre 2022 (Ripartizione in capitoli delle Unita' di voto parlamentare relative al bilancio di previsione dello Stato per l'anno finanziario 2023 e per il triennio 2023-2025) e' pubblicato nella Gazzetta Ufficiale 30 dicembre 2022, n. 304.
+
+### Art. 2. — Organizzazione centrale e periferica
+
+1.
+
+Il Ministero, per l'espletamento dei compiti ad esso demandati, e' articolato, a livello centrale, in quattro Dipartimenti, come di seguito indicati:
+                            a)
+                                Dipartimento per le infrastrutture e le reti di trasporto;
+                            b)
+                                Dipartimento per le opere pubbliche e le politiche abitative;
+                            c)
+                                Dipartimento per i trasporti e la navigazione;
+                            d)
+                                Dipartimento per gli affari generali e la digitalizzazione.
+
+2.
+
+I Dipartimenti di cui al comma 1 si articolano nelle sedici direzioni generali di cui al Capo III, e assicurano l'esercizio organico e integrato delle funzioni del Ministero. Ai sensi dell'[articolo 5, comma 3, del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), i Capi dei Dipartimenti, al fine di assicurare la continuita' delle funzioni dell'amministrazione e in attuazione degli indirizzi del Ministro, svolgono compiti di coordinamento, direzione e controllo degli uffici di livello dirigenziale generale in cui si articola ciascuno dei Dipartimenti e sono responsabili dei risultati complessivamente raggiunti dagli uffici da questi dipendenti. Presso ciascun Dipartimento sono istituiti due uffici di livello dirigenziale non generale, nel limite del contingente previsto dall'articolo 18, comma 2. Uno dei due uffici cura il coordinamento delle attivita' di rilievo europeo e internazionale e le relazioni con le Istituzioni sovranazionali, in raccordo con il Consigliere diplomatico del Ministro.
+
+3.
+
+Sono strutture decentrate del Ministero ((nove provveditorati regionali e interregionali)) per le opere pubbliche, dipendenti dal Dipartimento per le opere pubbliche e le politiche abitative, nonche' quattro direzioni generali territoriali, dipendenti dal Dipartimento per i trasporti e la navigazione.
+
+4.
+
+Il Comando generale del Corpo delle capitanerie di porto e' incardinato nell'ambito del Ministero, dipende funzionalmente dal Ministro ed esercita i compiti di cui all'articolo 14, sulla base delle direttive e degli indirizzi del Ministro, fatto salvo quanto previsto dall'[articolo 118 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
+
+5.
+
+Sono incardinati nell'assetto organizzativo del Ministero il Consiglio superiore dei lavori pubblici e gli organismi e le istituzioni di cui al capo VI che operano secondo le attribuzioni definite da leggi di settore.
+
+6.
+
+I Dipartimenti, il Comando generale del Corpo delle capitanerie di porto ed il Consiglio superiore dei lavori pubblici costituiscono centri di responsabilita' amministrativa ai sensi dell'[articolo 3 del decreto legislativo 7 agosto 1997, n. 279](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Individuazione%20delle%20unita%20previsionali%20di%20base%20del%20bilancio%20dello%20Stato%20riordino%20del%20sistema%20di%20tesoreria%20unica%20e%20ristrutturazione%20del%20rendiconto%20generale%20dello%20Stato.md).
+
+## I Dipartimenti
+
+Capo II
+
+### Art. 3. — Competenze dei Dipartimenti
+
+1.
+
+I Dipartimenti del Ministero assicurano l'esercizio delle funzioni e dei compiti di spettanza statale secondo la seguente ripartizione:
+                            a)
+                                Dipartimento per le infrastrutture e le reti di trasporto: identificazione delle linee fondamentali dell'assetto del territorio con particolare riferimento all'articolazione territoriale delle reti infrastrutturali; pianificazione generale delle infrastrutture; gestione dei programmi d'iniziativa europea di settore; pianificazione, programmazione e gestione della rete nazionale stradale e autostradale; predisposizione e sottoscrizione degli atti convenzionali autostradali e valutazione dei relativi piani economico-finanziari; vigilanza sulle concessionarie autostradali finalizzata alla verifica dell'adempimento degli obblighi convenzionali; pianificazione e programmazione del trasporto ferroviario; pianificazione e programmazione delle infrastrutture ferroviarie e dell'interoperabilita' ferroviaria;
+                            b)
+                                Dipartimento per le opere pubbliche e le politiche abitative: identificazione delle linee fondamentali dell'assetto del territorio, con riferimento alle opere di competenza statale diverse dalle infrastrutture di trasporto; progettazione delle costruzioni civili; realizzazione di programmi speciali; edilizia residenziale; edilizia demaniale; politiche abitative e dell'edilizia, concernenti anche il sistema delle citta' e delle aree metropolitane; repressione dell'abusivismo; programmi di riqualificazione urbana; vigilanza tecnica in materia di dighe, opere di derivazione e costruzioni idriche ed elettriche; pianificazione e programmazione di interventi nel settore idrico; attivita' consultiva in materia di norme tecniche di costruzione e sicurezza nell'esecuzione delle opere pubbliche; verifica del rispetto dei piani di sicurezza e delle norme di sicurezza; monitoraggio delle costruzioni, anche per la repressione di tentativi di infiltrazione mafiosa; sviluppo della progettazione e pianificazione di interventi edilizi; supporto alle amministrazioni pubbliche per la progettazione della manutenzione di edifici pubblici; programmazione e gestione delle risorse statali inerenti i grandi eventi;
+                            c)
+                                Dipartimento per i trasporti e la navigazione: programmazione, indirizzo, regolazione e vigilanza in materia di trasporti terrestri; omologazione di veicoli e abilitazione dei conducenti; programmazione e regolazione in materia di trasporto intermodale; programmazione delle risorse statali in materia trasporto pubblico locale; attivita' di indirizzo e di monitoraggio con riferimento ai piani urbani della mobilita' sostenibile; regolazione in materia di autotrasporto di persone e cose; attivita' di indirizzo ai fini della sicurezza dei sistemi di trasporto a impianti fissi ad esclusione delle ferrovie; gestione dei trasporti esercitati in regime di concessione; indirizzo in materia di sicurezza stradale, prevenzione incidenti, formazione e informazione dei conducenti; conduzione della centrale operativa del Centro di coordinamento delle informazioni sulla sicurezza stradale, per l'erogazione dei servizi di infomobilita'; gestione applicativa e supporto allo sviluppo del sistema informativo motorizzazione; indirizzo, pianificazione e programmazione in materia di aviazione civile e vigilanza sugli enti di settore; rapporti con organismi internazionali, europei e nazionali in materia di trasporto terrestre, marittimo ed aereo; indirizzo, programmazione e regolazione in materia di navigazione e trasporto marittimo; vigilanza sulle Autorita' di sistema portuale e sulle attivita' nei porti; infrastrutture portuali; attivita' di indirizzo per la gestione e la disciplina d'uso delle aree demaniali marittime; programmazione e gestione, previa intesa con le regioni interessate, del sistema idroviario padano-veneto; disciplina del personale della navigazione marittima e interna, per quanto di competenza;
+                            d)
+                                Dipartimento per gli affari generali, legali e la digitalizzazione: gestione delle risorse umane; coordinamento e supporto alle attivita' relative al bilancio del Ministero; servizi comuni e forniture; gestione dei sistemi informativi; sicurezza informatica e cibernetica; innovazione e transizione digitale; comunicazione istituzionale, in attuazione delle direttive del Ministro; consulenza tecnico-informatica agli uffici del Ministero; monitoraggio, elaborazione e controllo dei dati statistici; regolazione dei contratti pubblici di lavori, servizi e forniture; rapporti con organismi internazionali, europei e nazionali in materia di contratti pubblici, sorveglianza sulle grandi opere; gestione del contenzioso a supporto delle strutture del Ministero e consulenza legale; attivita' di controllo analogo sulle societa' in house del Ministero; rapporti con le competenti strutture amministrative del Ministero dell'economia e delle finanze per gli adempimenti comuni riguardanti l'organizzazione delle societa' vigilate in attuazione degli indirizzi del Ministro.
+
+2.
+
+A ciascun Dipartimento spetta, nelle materie di competenza, la gestione dei procedimenti in materia di infrastrutture strategiche avviati ai sensi della [legge 21 dicembre 2001, n. 443](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20infrastrutture%20ed%20insediamenti%20produttivi%20strategici%20ed%20altri%20interventi%20per%20il%20rilancio%20delle%20attivita%20produttive.md), in raccordo con la Struttura tecnica di missione.
+
+Note all'[art. 3: 
+ - La legge 21 dicembre 2001, n. 443](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20infrastrutture%20ed%20insediamenti%20produttivi%20strategici%20ed%20altri%20interventi%20per%20il%20rilancio%20delle%20attivita%20produttive.md) (Delega al Governo in materia di infrastrutture ed insediamenti produttivi strategici ed altri interventi per il rilancio delle attivita' produttive) e' pubblicata nella Gazzetta Ufficiale 27 dicembre 2001, n. 299.
+
+### Art. 4. — Dipartimento per le infrastrutture 
+ e le reti di trasporto
+
+1.
+
+Il Dipartimento per le infrastrutture e le reti di trasporto e' articolato nelle seguenti direzioni generali:
+                            a)
+                                Direzione generale per lo sviluppo del territorio e i progetti internazionali;
+                            b)
+                                Direzione generale per le strade e la sicurezza delle infrastrutture stradali;
+                            c)
+                                Direzione generale per le autostrade e la vigilanza sui contratti di concessione autostradale;
+                            d)
+                                Direzione generale per il trasporto e le infrastrutture ferroviarie.
+
+2.
+
+La Direzione generale per lo sviluppo del territorio e i progetti internazionali supporta i tre Dipartimenti in materia di programmazione degli investimenti e, anche d'intesa con le competenti direzioni generali degli altri Dipartimenti, svolge le funzioni di competenza del Ministero nei seguenti ambiti di attivita':
+                            a)
+                                pianificazione strategica in materia di piani e programmi infrastrutturali e di governo del territorio, previo coordinamento e raccordo con la Struttura tecnica di missione e con gli altri Ministeri competenti e le regioni e le province autonome;
+                            b)
+                                pianificazione dell'articolazione territoriale delle reti infrastrutturali di rilevanza nazionale;
+                            c)
+                                piani di investimento e analisi economiche relative alle infrastrutture di settore;
+                            d)
+                                programmazione degli interventi di settore e relative procedure di approvazione;
+                            e)
+                                coordinamento con la programmazione economica nazionale nell'ambito del Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile (CIPESS);
+                            f)
+                                coordinamento e monitoraggio dello sviluppo della rete di trasporto transeuropea e dei corridoi multimodali e del relativo programma di finanziamento Connecting Europe Facility (CEF);
+                            g)
+                                piani e programmi di sviluppo e assetto del territorio in ambito urbano e nelle aree interne;
+                            h)
+                                fondi strutturali europei e gestione dei programmi europei di competenza;
+                            i)
+                                esercizio dei compiti relativi ai segretariati tecnici dei programmi europei affidati all'Italia ed alla conseguente attivita' di gestione e pagamento;
+                            l)
+                                adempimenti tecnici ed amministrativi relativi all'espletamento delle procedure di localizzazione di opere infrastrutturali di rilievo nazionale.
+
+3.
+
+La Direzione generale per le strade e la sicurezza delle infrastrutture stradali svolge le funzioni di competenza del Ministero nei seguenti ambiti:
+                            a)
+                                funzione di concedente, indirizzo e vigilanza amministrativo-contabile della rete stradale e programmazione della rete ANAS S.p.a.;
+                            b)
+                                predisposizione del contratto di programma con ANAS S.p.a. e relativo monitoraggio degli interventi infrastrutturali;
+                            c)
+                                attivita' di indirizzo, vigilanza amministrativa e controllo operativo su ANAS S.p.a. e sui gestori delle infrastrutture viarie appartenenti alla rete nazionale, ferme restando le competenze della Direzione generale per le autostrade e la vigilanza sui contratti di concessione autostradale e l'attivita' di vigilanza tecnica di ANSFISA;
+                            d)
+                                attivita' di predisposizione, gestione e monitoraggio degli atti convenzionali con ANAS S.p.a. ed enti territoriali e societa' miste regionali;
+                            e)
+                                approvazione delle concessioni di costruzione e gestione delle infrastrutture viarie e dei relativi aggiornamenti;
+                            f)
+                                vigilanza sulle modalita' di affidamento, sull'esecuzione dei lavori ai fini del rispetto degli obblighi contrattuali, con particolare riferimento alle infrastrutture prioritarie;
+                            g)
+                                cura delle relazioni e degli accordi internazionali ed europei nel settore delle reti di trasporto viario, compresa la partecipazione ai negoziati per la elaborazione della normativa europea di settore;
+                            h)
+                                approvazione dei programmi di adeguamento e messa in sicurezza delle infrastrutture di viabilita' di interesse statale e locale, ferme restando le competenze di ANSFISA;
+                            i)
+                                classificazione e declassificazione delle strade di competenza statale ai fini della programmazione, del monitoraggio e della vigilanza sul rispetto delle norme di sicurezza, ferme restando le competenze di ANSFISA;
+                            l)
+                                sviluppo delle attivita' concernenti le politiche europee in materia di infrastrutture stradali;
+                            m)
+                                gestione e assegnazione delle risorse relative alle infrastrutture stradali di interesse nazionale e locale;
+                            n)
+                                regolazione dei servizi stradali riferiti agli enti e organismi gestori delle strade;
+                            o)
+                                analisi degli investimenti e vigilanza sull'esecuzione degli stessi da parte di ANAS S.p.a.;
+                            p)
+                                approvazione dei progetti relativi ai lavori inerenti alla rete stradale di interesse nazionale;
+                            q)
+                                rapporti con il Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile, di seguito CIPESS, in materia di infrastrutture stradali;
+                            r)
+                                procedimenti in materia di infrastrutture strategiche di competenza avviati ai sensi della [legge 21 dicembre 2001, n. 443](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20infrastrutture%20ed%20insediamenti%20produttivi%20strategici%20ed%20altri%20interventi%20per%20il%20rilancio%20delle%20attivita%20produttive.md);
+                            s)
+                                sviluppo e realizzazione delle ciclovie, in raccordo con la Direzione generale per il trasporto pubblico locale.
+
+4.
+
+La Direzione generale per le autostrade e la vigilanza sui contratti di concessione autostradali svolge le funzioni di competenza del Ministero nei seguenti ambiti di attivita':
+                            a)
+                                funzione di concedente, indirizzo e vigilanza amministrativo-contabile della rete autostradale;
+                            b)
+                                selezione dei concessionari autostradali e relativa aggiudicazione;
+                            c)
+                                attivita' di predisposizione, gestione e monitoraggio delle convenzioni di concessione autostradale e dei relativi piani economico-finanziari;
+                            d)
+                                predisposizione dei bandi di gara, convenzioni e piani economico-finanziari per l'affidamento di nuove concessioni a pedaggio e i rinnovi delle concessioni;
+                            e)
+                                approvazione delle concessioni di costruzione e gestione delle infrastrutture autostradali e dei relativi aggiornamenti;
+                            f)
+                                vigilanza sulle modalita' di affidamento, sull'esecuzione dei lavori ai fini del rispetto degli obblighi contrattuali contenuti negli atti di concessione;
+                            g)
+                                istruttoria relativa ai procedimenti di competenza ai fini dell'esame e dell'approvazione da parte del CIPESS;
+                            h)
+                                sviluppo delle attivita' concernenti le politiche europee in materia di infrastrutture autostradali;
+                            i)
+                                regolazione dei servizi autostradali riferiti agli enti e organismi gestori delle autostrade;
+                            l)
+                                controllo sulla qualita' del servizio autostradale anche ai fini dell'aggiornamento annuale delle tariffe dei concessionari autostradali;
+                            m)
+                                analisi degli investimenti e vigilanza sull'esecuzione degli stessi da parte delle societa' concessionarie autostradali;
+                            n)
+                                analisi dei piani tariffari e predisposizione della proposta annuale di adeguamento tariffario;
+                            o)
+                                approvazione, nei limiti e secondo le modalita' previsti dalle convenzioni di concessione, dei progetti relativi ai lavori inerenti alla rete autostradale di interesse nazionale;
+                            p)
+                                valutazione sull'ammissibilita' dei costi e degli investimenti effettuati per il calcolo degli adeguamenti tariffari annuali;
+                            q)
+                                monitoraggio della gestione economica e finanziaria dei concessionari e dei parametri di solidita' patrimoniale e verifica dell'andamento finanziario degli investimenti e delle manutenzioni inserite nei piani economici finanziari;
+                            r)
+                                predisposizione degli atti per l'aggiornamento o la revisione del piano economico-finanziario allegato alle convenzioni;
+                            s)
+                                adozione dei provvedimenti sanzionatori nei confronti dei concessionari autostradali, ferme restando le competenze di ANSFISA;
+                            t)
+                                vigilanza sull'adozione, da parte dei concessionari, dei provvedimenti ritenuti necessari ai fini della sicurezza del traffico autostradale, ferme restando le competenze di ANSFISA;
+                            u)
+                                procedimenti in materia di infrastrutture strategiche di competenza avviati ai sensi della [legge 21 dicembre 2001, n. 443](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20infrastrutture%20ed%20insediamenti%20produttivi%20strategici%20ed%20altri%20interventi%20per%20il%20rilancio%20delle%20attivita%20produttive.md);
+                            v)
+                                rapporti con il CIPESS in materia di infrastrutture autostradali.
+
+5.
+
+La Direzione generale per il trasporto e le infrastrutture ferroviarie svolge le funzioni di competenza del Ministero nei seguenti ambiti di attivita':
+                            a)
+                                attivita' di vigilanza sull'attuazione dell'atto di concessione dell'infrastruttura ferroviaria nazionale, ferme restando le competenze di ANSFISA;
+                            b)
+                                contratti di programma, investimenti e servizi con il gestore della rete ferroviaria nazionale e vigilanza sulla relativa attuazione;
+                            c)
+                                attivita' di vigilanza sull'attuazione dei programmi infrastrutturali di settore e delle infrastrutture strategiche di settore (PIS) e dei programmi di messa in sicurezza;
+                            d)
+                                contratto di servizio per il trasporto ferroviario di passeggeri a media e lunga percorrenza e regolamentazione dell'attivita' in materia di trasporto merci per ferrovia;
+                            e)
+                                rilascio, revoca, sospensione e riesame quinquennale delle licenze alle imprese ferroviarie;
+                            f)
+                                interoperabilita' ferroviaria e normativa tecnica, riferita all'esercizio e all'infrastruttura;
+                            g)
+                                rapporti con organismi di certificazione notificati;
+                            h)
+                                rapporti con gli organismi dell'Unione europea per la definizione delle norme di settore e delle specifiche tecniche per l'interoperabilita' del sistema ferroviario transeuropeo;
+                            i)
+                                dismissione delle linee ferroviarie;
+                            l)
+                                vigilanza sulla gestione del patrimonio ferroviario;
+                            m)
+                                procedimenti in materia di infrastrutture strategiche di competenza avviati ai sensi della [legge 21 dicembre 2001, n. 443](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20infrastrutture%20ed%20insediamenti%20produttivi%20strategici%20ed%20altri%20interventi%20per%20il%20rilancio%20delle%20attivita%20produttive.md);
+                            n)
+                                attuazione della [legge 9 agosto 2017, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-08-09;128), in materia di ferrovie storiche e turistiche;
+                            o)
+                                istruttoria relativa ai procedimenti di competenza ai fine dell'esame e dell'approvazione da parte del CIPESS;
+                            p)
+                                rapporti internazionali nelle materie di competenza, in raccordo con gli Uffici di diretta collaborazione del Ministro.
+
+Note all'art. 4: 
+ - Per la legge 21 dicembre 2021 dicembre 2001, n. 443, si veda nella nota all'art. 3. 
+ - Le [legge 9 agosto 2017, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-08-09;128) (Disposizioni per l'istituzione di ferrovie turistiche mediante il reimpiego di linee in disuso o in corso di dismissione situate in aree di particolare pregio naturalistico o archeologico) e' pubblicata nella Gazzetta Ufficiale 23 agosto 2017, n. 196.
+
+### Art. 5. — Dipartimento per le opere pubbliche e le politiche abitative
+
+1.
+
+Il Dipartimento per le opere pubbliche e le politiche abitative e' articolato nelle seguenti direzioni generali:
+                            a)
+                                Direzione generale per l'edilizia statale e gli interventi statali;
+                            b)
+                                Direzione generale per la casa e la riqualificazione urbana;
+                            c)
+                                Direzione generale per le dighe e le infrastrutture idriche.
+
+2.
+
+La Direzione generale per l'edilizia statale e gli interventi speciali svolge le funzioni di competenza del Ministero nei seguenti ambiti di attivita':
+                            a)
+                                opere pubbliche di competenza statale, ivi compresi gli interventi di edilizia giudiziaria, penitenziaria, demaniale di competenza statale, di edilizia per le Forze armate e di Polizia nonche' dei Vigili del fuoco e per la messa in sicurezza degli edifici scolastici;
+                            b)
+                                supporto alle amministrazioni pubbliche, anche locali, per l'esecuzione di interventi sulle opere pubbliche anche attraverso i ((Provveditorati regionali e interregionali));
+                            c)
+                                attivita' tecnico-amministrativa per l'espletamento delle funzioni statali di competenza del Ministero funzionali alla definizione dei criteri per l'individuazione delle zone sismiche e delle norme tecniche per le costruzioni, su proposta del Consiglio Superiore dei Lavori Pubblici;
+                            d)
+                                interventi per la ricostruzione dei territori colpiti da eventi sismici, ferme restando le competenze della Presidenza del Consiglio dei ministri in materia di protezione civile e ricostruzione previste a legislazione vigente;
+                            e)
+                                interventi di competenza statale per Roma Capitale;
+                            f)
+                                interventi previsti da leggi speciali e connessi allo svolgimento di grandi eventi;
+                            g)
+                                eliminazione barriere architettoniche negli edifici pubblici;
+                            h)
+                                attivita' per la tutela e la salvaguardia della laguna di Venezia;
+                            i)
+                                programmazione, gestione ed esecuzione diretta degli interventi di costruzione, ampliamento, manutenzione, adeguamento, risanamento e restauro sul patrimonio immobiliare adibito a sede di organi costituzionali e di rilevanza costituzionale ovvero di organismi di rilevanza internazionale ubicati nell'area di Roma Capitale;
+                            l)
+                                procedimenti in materia di infrastrutture strategiche nelle materie di competenza avviati ai sensi della [legge 21 dicembre 2001, n. 443](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20infrastrutture%20ed%20insediamenti%20produttivi%20strategici%20ed%20altri%20interventi%20per%20il%20rilancio%20delle%20attivita%20produttive.md);
+                            m)
+                                interventi inerenti a progetti infrastrutturali in attuazione di accordi internazionali;
+                            n)
+                                programmi di competenza ministeriale in materia di efficientamento energetico degli edifici sedi di pubbliche istituzioni;
+                            o)
+                                gestione delle attivita' inerenti all'applicazione dell'[articolo 60, comma 3, del decreto legislativo 31 marzo 2023, n. 36](../Codici/Codice%20dei%20contratti%20pubblici%20in%20attuazione%20dellarticolo%201%20della%20legge%2021%20giugno%202022%20n.%2078%20recante%20delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2023G00044.md).
+
+3.
+
+La Direzione generale per la casa e la riqualificazione urbana svolge le funzioni di competenza del Ministero nei seguenti ambiti di attivita':
+                            a)
+                                gestione delle iniziative di competenza dirette a far fronte al disagio abitativo;
+                            b)
+                                edilizia residenziale, agevolata, sovvenzionata e cooperative edilizie;
+                            c)
+                                valutazioni e proposte relative alla disciplina delle locazioni, dell'edilizia, dell'urbanistica e dell'espropriazione per pubblica utilita', ferme restando le competenze degli enti locali;
+                            d)
+                                monitoraggio del fenomeno dell'abusivismo edilizio e supporto agli enti locali ed alle regioni nella individuazione e repressione dello stesso;
+                            e)
+                                monitoraggio e raccolta dati sul fenomeno della repressione delle violazioni urbanistiche e coordinamento dell'attivita' delle commissioni per l'uso della forza pubblica;
+                            f)
+                                osservatorio nazionale della condizione abitativa di cui all'[articolo 59 del decreto legislativo 31 marzo 1998, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md);
+                            g)
+                                gestione dei programmi, anche europei, concernenti le politiche abitative nonche' la riqualificazione urbana, il recupero del patrimonio edilizio e le relative politiche di incentivazione;
+                            h)
+                                programmi di competenza in materia di efficientamento energetico delle abitazioni.
+
+4.
+
+La Direzione generale per le dighe e le infrastrutture idriche svolge le funzioni di competenza del Ministero nei seguenti ambiti di attivita':
+                            a)
+                                approvazione tecnica dei progetti e vigilanza sulla costruzione e sulle operazioni di controllo che i gestori e i concessionari sono tenuti ad espletare sul funzionamento delle dighe in invaso sperimentale aventi le caratteristiche indicate all'[articolo 1, comma 1, del decreto-legge 8 agosto 1994, n. 507](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-08-08;507#art_1-com1), convertito, con modificazioni, dalla [legge 21 ottobre 1994, n. 584](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20agosto%201994%20n.%20507%20recante%20misure%20urgenti%20in%20materia%20di%20dighe.md), di seguito grandi dighe, e adozione dei provvedimenti previsti dalla normativa di settore;
+                            b)
+                                approvazione tecnica dei progetti di manutenzione straordinaria e ristrutturazione, vigilanza sulle operazioni di controllo che i gestori e i concessionari sono tenuti ad espletare sul funzionamento delle grandi dighe in esercizio, e adozione dei provvedimenti previsti dalla normativa di settore;
+                            c)
+                                istruttoria tecnica e approvazione delle rivalutazioni delle condizioni di sicurezza sismica e idrologico-idraulica delle grandi dighe e approvazione dei relativi progetti di miglioramento e adeguamento;
+                            d)
+                                approvazione tecnica dei progetti delle opere di derivazione e di adduzione all'utilizzazione, nonche' vigilanza sulla costruzione e sulle operazioni di controllo e di manutenzione che i gestori e i concessionari sono tenuti ad espletare, nonche' adozione dei provvedimenti previsti dal regolamento di cui all'[articolo 6, comma 4-bis, della legge 1° agosto 2002, n. 166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-08-01;166#art_6-com4bis);
+                            e)
+                                approvazione tecnica dei progetti e vigilanza sulla costruzione e sulle operazioni di controllo delle opere affidate dalle Province autonome di Trento e Bolzano ai sensi dell'[articolo 5 del decreto del Presidente della Repubblica del 22 marzo 1974, n. 381](../DPR/Norme%20di%20attuazione%20dello%20statuto%20speciale%20per%20la%20regione%20Trentino-Alto%20Adige%20in%20materia%20di%20urbanistica%20ed%20opere%20pubbliche.md);
+                            f)
+                                istruttoria tecnica e parere di competenza sui progetti di gestione degli invasi nell'ambito del procedimento di approvazione regionale;
+                            g)
+                                programmazione e monitoraggio degli investimenti per l'incremento della sicurezza delle grandi infrastrutture idriche, ivi comprese le grandi dighe, e delle loro derivazioni, anche ai fini del contrasto ai fenomeni di siccita' e alluvionali;
+                            h)
+                                procedimenti in materia di infrastrutture strategiche di competenza avviati ai sensi della [legge 21 dicembre 2001, n. 443](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20infrastrutture%20ed%20insediamenti%20produttivi%20strategici%20ed%20altri%20interventi%20per%20il%20rilancio%20delle%20attivita%20produttive.md);
+                            i)
+                                sottoscrizione degli accordi di programma di cui all'[articolo 158 del decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md);
+                            l)
+                                attivita' concernenti l'emanazione della normativa tecnica e tecnico-amministrativa in materia di dighe e di infrastrutture idriche ed elettriche;
+                            m)
+                                supporto e assistenza tecnica alle componenti del Servizio nazionale della Protezione civile in materia di dighe e di infrastrutture idriche, compresi i piani di laminazione;
+                            n)
+                                supporto nell'ambito dei rapporti con le autorita' di bacino distrettuali e con le altre pubbliche amministrazioni nelle materie di competenza;
+                            o)
+                                supporto allo sviluppo del sistema informativo relativo alle grandi dighe e alle opere di derivazione in raccordo con la Direzione generale per la digitalizzazione e la relativa gestione applicativa;
+                            p)
+                                programmi nazionali in materia di crisi idriche.
+
+5.
+
+Dalla Direzione generale per le dighe e le infrastrutture idriche dipendono funzionalmente gli Uffici tecnici per le dighe, che costituiscono articolazioni territoriali del Ministero di livello dirigenziale non generale.
+
+### Art. 6. — Dipartimento per i trasporti e la navigazione
+
+1.
+
+Il Dipartimento per i trasporti e la navigazione e' articolato nelle seguenti direzioni generali:
+                            a)
+                                Direzione generale per i porti, la logistica e l'intermodalita';
+                            b)
+                                Direzione generale per la motorizzazione;
+                            c)
+                                Direzione generale per la sicurezza stradale e l'autotrasporto;
+                            d)
+                                Direzione generale per il trasporto pubblico locale;
+                            e)
+                                Direzione generale per il mare, il trasporto marittimo e per vie d'acqua interne;
+                            f)
+                                Direzione generale per gli aeroporti, il trasporto aereo e i servizi satellitari.
+
+2.
+
+La Direzione generale per i porti, la logistica e l'intermodalita' svolge le funzioni di competenza del Ministero nei seguenti ambiti di attivita':
+                            a)
+                                indirizzo, vigilanza e controllo sulle Autorita' di sistema portuale, anche con riferimento all'attuazione dei programmi infrastrutturali;
+                            b)
+                                indirizzo, regolazione e disciplina dei servizi tecnico-nautici, del lavoro nei porti e di altri servizi portuali residuali;
+                            c)
+                                disciplina generale dei porti;
+                            d)
+                                esame dei documenti di pianificazione strategica di sistema delle Autorita' di sistema portuale;
+                            e)
+                                programmazione di settore e assegnazione di risorse finanziarie per la realizzazione di infrastrutture portuali;
+                            f)
+                                elaborazione di proposte normative, di indirizzo e coordinamento in materia di prevenzione e sicurezza del lavoro portuale;
+                            g)
+                                amministrazione del demanio marittimo per quanto di competenza e attivita' correlate al riordino della dividente demaniale;
+                            h)
+                                gestione applicativa e supporto allo sviluppo del Sistema informativo del demanio marittimo (SID-il Portale del Mare), in coordinamento con la Direzione generale per la digitalizzazione;
+                            i)
+                                predisposizione di piani strategici della logistica;
+                            l)
+                                analisi, monitoraggio e statistiche dei flussi logistici e della mobilita' di merci;
+                            m)
+                                definizione di programmi e interventi nel settore interportuale e logistico;
+                            n)
+                                interventi finanziari e incentivanti per il settore e a favore dell'intermodalita';
+                            o)
+                                cura delle relazioni e definizione di accordi internazionali, anche al di fuori dello spazio economico europeo, nel settore del trasporto combinato su strada e del trasporto intermodale, negli ambiti di competenza della direzione, nonche' conduzione delle negoziazioni per l'elaborazione della normativa e degli altri atti dell'Unione europea e internazionali di settore e connessa normativa di recepimento o attuazione, assicurando il raccordo con gli uffici di diretta collaborazione del Ministro;
+                            p)
+                                procedimenti in materia di infrastrutture strategiche di competenza avviati ai sensi della [legge 21 dicembre 2001, n. 443](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20infrastrutture%20ed%20insediamenti%20produttivi%20strategici%20ed%20altri%20interventi%20per%20il%20rilancio%20delle%20attivita%20produttive.md);
+                            q)
+                                istruttoria relativa ai procedimenti di competenza ai fini dell'esame e dell'approvazione da parte del CIPESS.
+
+3.
+
+La Direzione generale per la motorizzazione svolge le funzioni di competenza del Ministero nei seguenti ambiti di attivita':
+                            a)
+                                disciplina amministrativa e tecnica dei veicoli e dei conducenti;
+                            b)
+                                autorizzazioni e sperimentazione dei veicoli a guida autonoma;
+                            c)
+                                omologazione nazionale, CEE e ECE/ONU di veicoli, dispositivi e unita' tecniche indipendenti;
+                            d)
+                                predisposizione di proposte normative e disciplina tecnica di settore, ivi compresa quella relativa alle procedure di omologazione e approvazione dei veicoli e dei recipienti per il trasporto di merci pericolose su strada;
+                            e)
+                                disciplina del trasporto di derrate in regime di temperatura controllata;
+                            f)
+                                controlli periodici sul parco circolante e sulle attrezzature di servizio;
+                            g)
+                                disciplina tecnica della micro-mobilita' e della mobilita' eco-sostenibile;
+                            h)
+                                relazioni internazionali e europee nelle materie di competenza in raccordo con gli uffici di diretta collaborazione del Ministro;
+                            i)
+                                progettazione, manutenzione, evoluzione, gestione, popolamento e sviluppo degli archivi nazionali dei veicoli e dei conducenti, nonche' della base dati degli eventi di traffico;
+                            l)
+                                conduzione, gestione e sviluppo dei sistemi informativi specialistici e delle relative basi di dati, finalizzati alla erogazione, agli uffici della motorizzazione civile, centri prova autoveicoli (CPA), centro superiore ricerche prove autoveicoli e dispositivi (CSRPAD), alle direzioni generali territoriali, agli utenti privati e operatori professionali dei servizi telematici connessi all'esercizio delle funzioni del Dipartimento;
+                            m)
+                                progettazione, manutenzione, evoluzione, gestione e sviluppo degli archivi e registri elettronici istituiti, quali il Registro Elettronico Nazionale (REN), taxi e noleggio con conducente (NCC), unita' da diporto, ispettori delle revisioni, nonche' degli eventuali ulteriori registri istituiti presso il Dipartimento in ragione delle competenze ad esso attribuite;
+                            n)
+                                attuazione delle disposizioni del [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md) ed eventuali proposte di revisione dello stesso nelle materie di competenza.
+
+4.
+
+La Direzione generale per la sicurezza stradale e l'autotrasporto svolge le funzioni di competenza del Ministero nei seguenti ambiti di attivita':
+                            a)
+                                adozione e attuazione del piano nazionale della sicurezza stradale e dei relativi programmi operativi; disciplina tecnica delle infrastrutture stradali;
+                            b)
+                                attuazione delle disposizioni del [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md) ed eventuali proposte di revisione dello stesso nelle materie di competenza;
+                            c)
+                                sviluppo della normativa tecnica per la circolazione stradale, compresa l'attivita' di sperimentazione dei nuovi veicoli e sistemi di controllo;
+                            d)
+                                omologazione dei dispositivi segnaletici di regolazione e controllo della circolazione stradale;
+                            e)
+                                autorizzazione all'esercizio di sistemi di controllo degli accessi alle zone a traffico limitato (ZTL);
+                            f)
+                                rapporti con gli enti locali, nazionali e internazionali in raccordo con gli uffici di diretta collaborazione del Ministro nelle materie di competenza;
+                            g)
+                                sviluppo dei programmi di intervento per la sicurezza della mobilita' stradale e la protezione degli utenti della strada;
+                            h)
+                                attivita' di comunicazione istituzionale per la prevenzione e l'informazione in materia di sicurezza stradale e attivita' inerenti all'educazione alla sicurezza stradale;
+                            i)
+                                vigilanza sul mercato dei veicoli e dei connessi dispositivi di sicurezza ai sensi della normativa europea di settore;
+                            l)
+                                gestione di progetti innovativi anche di carattere interdisciplinare, in raccordo con la Direzione generale per la digitalizzazione;
+                            m)
+                                gestione della centrale operativa del Centro di coordinamento delle informazioni di sicurezza stradale e dei progetti nazionali ed internazionali in materia di infomobilita';
+                            n)
+                                disciplina in materia di trasporti nazionali e internazionali di persone e cose su strada, trasporto combinato intermodale e multimodale;
+                            o)
+                                licenze e autorizzazioni per trasporto nazionale e internazionale di persone e cose;
+                            p)
+                                predisposizione di proposte normative e disciplina tecnica di settore;
+                            q)
+                                procedure per l'accesso alla professione e al mercato del trasporto di persone e cose;
+                            r)
+                                disciplina e direttive amministrative per la tenuta e gestione del Registro Elettronico Nazionale (REN) delle imprese di trasporto su strada e punto di contatto nazionale ai sensi del Regolamento (CE) n. 1071/2009 del Parlamento europeo e del Consiglio, del 21 ottobre 2009, in coordinamento, per gli aspetti tecnici, con la Direzione generale per la motorizzazione;
+                            s)
+                                programmazione e coordinamento delle attivita' di controllo previste dalla normativa europea;
+                            t)
+                                rapporti con il Comitato centrale per l'albo nazionale degli autotrasportatori di cui al comma 8;
+                            u)
+                                regolazione, per quanto di competenza, del trasporto pubblico non di linea.
+
+5.
+
+La Direzione generale per il trasporto pubblico locale svolge le funzioni di competenza del Ministero nei seguenti ambiti di attivita':
+                            a)
+                                elaborazione della normativa tecnica ed effettuazione di ricerche e adempimenti in materia di sicurezza dei sistemi di trasporto rapido di massa, di impianti a fune, scale mobili, ascensori e tappeti mobili;
+                            b)
+                                adempimenti in materia di sicurezza relativi a sistemi di trasporto rapido di massa, escluse le metropolitane, di impianti a fune, scale mobili, ascensori e tappeti mobili;
+                            c)
+                                esame tecnico dei progetti di nuova realizzazione o di modifiche sostanziali relativi ai sistemi di trasporto rapido di massa, sottosistemi connessi, nonche' agli impianti a fune, scale mobili, ascensori e tappeti mobili, ai fini del nulla osta per l'apertura all'esercizio degli impianti e per l'immissione in servizio dei sottosistemi;
+                            d)
+                                supporto al Comitato tecnico permanente per la sicurezza dei trasporti ad impianti fissi istituito ai sensi dell'[articolo 8, comma 9-bis, del decreto-legge 18 ottobre 2012, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-18;179#art_8-com9bis), convertito, con modificazioni, dalla [legge 17 dicembre 2012, n. 221](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20ottobre%202012%20n.%20179%20recante%20ulteriori%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0244.md), e alla Commissione per le funicolari aeree e terrestri istituita con [regio decreto 17 gennaio 1926, n. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-17;177);
+                            e)
+                                coordinamento degli interventi di competenza statale per l'ammodernamento, il potenziamento e la messa in sicurezza delle ferrovie regionali, in collaborazione con ANSFISA, anche mediante la stipula di accordi ai sensi dell'[articolo 15 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_15);
+                            f)
+                                istruttoria e valutazione, sotto il profilo tecnico-economico, dei progetti nelle materie di competenza, ai fini della loro finanziabilita';
+                            g)
+                                gestione del fondo per il concorso dello Stato agli oneri del trasporto pubblico locale e ferroviario regionale istituito ai sensi dell'[articolo 16-bis del decreto-legge 6 luglio 2012, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95#art_16bis), convertito, con modificazioni, dalla [legge 7 agosto 2012, n. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md), e relativi adempimenti istruttori per il riparto delle risorse con il concorso dell'Osservatorio di cui all'[articolo 1, comma 300, della legge 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md);
+                            h)
+                                ripartizione ed erogazione di contributi per i sistemi di trasporto pubblico locale e relativo monitoraggio;
+                            i)
+                                gestione dell'Osservatorio di cui all'[articolo 1, comma 300, della legge 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md);
+                            l)
+                                gestione diretta dei servizi ferroviari locali non attribuiti alle competenze delle Regioni;
+                            m)
+                                approvazione dei bilanci delle societa' del Ministero delle infrastrutture e dei trasporti esercenti servizi ferroviari regionali, in raccordo con la Direzione generale per gli affari legali, societari e i contratti pubblici;
+                            n)
+                                rapporti con gli organismi europei nelle materie di competenza;
+                            o)
+                                procedimenti in materia di infrastrutture strategiche di competenza avviati ai sensi della [legge 21 dicembre 2001, n. 443](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20infrastrutture%20ed%20insediamenti%20produttivi%20strategici%20ed%20altri%20interventi%20per%20il%20rilancio%20delle%20attivita%20produttive.md), e rapporti con il CIPESS, per quanto di competenza;
+                            p)
+                                coordinamento funzionale degli Uffici speciali trasporti a impianti fissi (USTIF), ferme restando le competenze di ANSFISA.
+
+6.
+
+La Direzione generale per il mare, il trasporto marittimo e per vie d'acqua interne svolge le funzioni di competenza del Ministero nei seguenti ambiti di attivita':
+                            a)
+                                predisposizione di proposte normative e disciplina tecnica in materia di navigazione marittima;
+                            b)
+                                promozione della navigazione a corto raggio;
+                            c)
+                                gestione del registro internazionale delle navi;
+                            d)
+                                servizi sovvenzionati di collegamento marittimo con le isole e rapporti istituzionali con la Gestione governativa dei servizi pubblici di linea di navigazione sui laghi Maggiore, di Garda e di Como;
+                            e)
+                                disciplina e vigilanza sulle attivita' autorizzate ed affidate agli organismi di classificazione;
+                            f)
+                                disciplina del bunkeraggio delle navi e normativa sui servizi chimici di porto;
+                            g)
+                                elaborazione di proposte inerenti alla disciplina nazionale, internazionale ed europea in materia di trasporto marittimo e per vie d'acqua interne, trasporto merci pericolose in vie d'acqua interne, monitoraggio sul trasporto delle persone a mobilita' ridotta;
+                            h)
+                                elaborazione di proposte normative, di indirizzo e coordinamento in materia di prevenzione e sicurezza del lavoro marittimo;
+                            i)
+                                interventi a sostegno della flotta, delle costruzioni navali, della ricerca e dell'innovazione;
+                            l)
+                                vigilanza sugli enti di settore;
+                            m)
+                                regolazione della nautica da diporto e gestione dell'ufficio conservatoria nautica da diporto (UCON);
+                            n)
+                                funzione di autorita' competente per la pianificazione dello spazio marittimo;
+                            o)
+                                gestione del personale marittimo e della navigazione interna per quanto di competenza;
+                            p)
+                                rapporti con gli organismi internazionali, coordinamento con organismi europei e nazionali, per quanto di competenza, in raccordo con gli uffici di diretta collaborazione del Ministro;
+                            q)
+                                monitoraggio sulle inchieste sui sinistri marittimi e sugli infortuni del personale marittimo;
+                            r)
+                                promozione e gestione del sistema idroviario padano-veneto;
+                            s)
+                                promozione e sviluppo delle autostrade del mare per quanto di competenza;
+                            t)
+                                promozione di politiche sostenibili nell'ambito dei sistemi di propulsione alternativi delle navi;
+                            u)
+                                procedimenti in materia di infrastrutture strategiche di competenza avviati ai sensi della [legge 21 dicembre 2001, n. 443](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20infrastrutture%20ed%20insediamenti%20produttivi%20strategici%20ed%20altri%20interventi%20per%20il%20rilancio%20delle%20attivita%20produttive.md);
+                            v)
+                                istruttoria relativa ai procedimenti di competenza ai fini dell'esame e dell'approvazione da parte del CIPESS.
+
+7.
+
+La Direzione generale per gli aeroporti, il trasporto aereo e i servizi satellitari, ferme restando le funzioni attribuite all'Ente nazionale aviazione civile (ENAC) dal [decreto legislativo 25 luglio 1997, n. 250](../Decreti%20Legislativi/Istituzione%20dellEnte%20nazionale%20per%20laviazione%20civile%20E.N.A.C.md), e all'Autorita' di regolazione dei trasporti di cui all'[articolo 37 del decreto-legge 6 dicembre 2011, n. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201#art_37), convertito, con modificazioni, dalla [legge 22 dicembre 2011, n. 214](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20dicembre%202011%20n.%20201%20recante%20disposizioni%20urgenti%20per%20la%20crescita%20lequita%20e%20il%20consolidamento%20dei%20conti%20pubblici.%2011G0256.md), svolge le funzioni di competenza del Ministero nei seguenti ambiti di attivita':
+                            a)
+                                disciplina dell'aviazione civile, normativa di settore europea e accordi internazionali;
+                            b)
+                                indirizzo, vigilanza e controllo sugli enti del settore aereo e aeroportuale;
+                            c)
+                                contratti di programma con gli enti vigilati;
+                            d)
+                                indirizzo e vigilanza in materia aeronautica, sicurezza aerea e aeroportuale e sulla qualita' del trasporto aereo;
+                            e)
+                                provvedimenti di competenza in materia di demanio aeronautico civile;
+                            f)
+                                pianificazione, programmazione in materia di aeroporti e sistemi aeroportuali, valutazione dei piani d'investimento e definizione, in coordinamento con ENAC, delle opere infrastrutturali da realizzare;
+                            g)
+                                analisi del mercato dell'aviazione civile, azioni a supporto della tutela della concorrenza e delle dinamiche tariffarie, per quanto di competenza;
+                            h)
+                                interventi nel settore dell'aviazione civile a sostegno della mobilita' dei passeggeri e delle merci;
+                            i)
+                                provvedimenti in materia di tariffe di navigazione aerea per la gestione dello spazio aereo;
+                            l)
+                                istruttorie per l'approvazione dei contratti di programma tra ENAC e soggetti gestori;
+                            m)
+                                procedimenti in materia di infrastrutture strategiche di competenza avviati ai sensi della [legge 21 dicembre 2001, n. 443](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20infrastrutture%20ed%20insediamenti%20produttivi%20strategici%20ed%20altri%20interventi%20per%20il%20rilancio%20delle%20attivita%20produttive.md), e rapporti con il CIPESS, per quanto di competenza;
+                            n)
+                                definizione di criteri di gestione dei servizi di controllo satellitare applicati alla logistica e ai trasporti di persone e di merci.
+
+8.
+
+Nell'ambito del Dipartimento per i trasporti e la navigazione opera il Comitato centrale per l'albo nazionale degli autotrasportatori, il quale esercita le funzioni di competenza, in conformita' a quanto previsto dal [decreto legislativo 21 novembre 2005, n. 284](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20Consulta%20generale%20per%20lautotrasporto%20e%20del%20Comitato%20centrale%20per%20lAlbo%20nazionale%20degli%20autotrasportatori.md), cui e' preposto un dirigente generale nominato ai sensi dell'[articolo 19, commi 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165#art_19-com4) e [10, del decreto legislativo n. 165 del 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165#art_19-com10), nell'ambito della dotazione organica complessiva del Ministero.
+
+8-bis.
+
+((Nell'ambito del Dipartimento per i trasporti e la navigazione, opera, alle dipendenze della Direzione generale per il trasporto pubblico locale, la Struttura nazionale di supporto per i Piani urbani della mobilita' sostenibile (PUMS), designata quale punto di contatto nazionale ai sensi dell'articolo 41, paragrafo 4, del regolamento (UE) 2024/1679 del Parlamento europeo e del Consiglio, del 13 giugno 2024, cui e' preposto un dirigente di livello non generale nell'ambito della dotazione organica complessiva del Ministero. La Struttura di cui al primo periodo svolge le funzioni strumentali alla piena attuazione del citato regolamento (UE) 2024/1679, comprese le funzioni in materia di supporto e assistenza ai fini dell'adozione e del monitoraggio dei PUMS, nonche' per la predisposizione del programma nazionale per i PUMS.))
+
+### Art. 7. — Dipartimento per gli affari generali e la digitalizzazione
+
+1.
+
+Il Dipartimento per gli affari generali e la digitalizzazione e' articolato nelle seguenti direzioni generali:
+                            a)
+                                Direzione generale del personale, degli affari generali e del bilancio;
+                            b)
+                                Direzione generale per la digitalizzazione;
+                            c)
+                                Direzione generale per gli affari legali, societari e i contratti pubblici.
+
+2.
+
+La Direzione generale del personale, degli affari generali e del bilancio svolge le funzioni di competenza del Ministero nei seguenti ambiti di attivita':
+                            a)
+                                trattamento giuridico del personale, reclutamento, formazione e riqualificazione del personale; tenuta dei ruoli della dirigenza e del personale non dirigenziale, della matricola e dei fascicoli personali;
+                            b)
+                                supporto e coordinamento per la redazione e per la gestione del bilancio del Ministero;
+                            c)
+                                sviluppo di politiche per il personale, per favorire il benessere organizzativo, le pari opportunita' e contrasto al mobbing e alle condotte discriminatorie;
+                            d)
+                                relazioni sindacali;
+                            e)
+                                trattamento economico e pensionistico del personale;
+                            f)
+                                interventi assistenziali e previdenziali ai sensi della [legge 16 febbraio 1967, n. 14](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20dicembre%201966%20n.%201090%20concernente%20disciplina%20dei%20diritti%20dovuti%20allIspettorato%20generale%20della%20motorizzazione%20civile%20e%20dei%20trasp_2cf1e9a490cb.md), gestione applicativa delle banche dati per la gestione del personale, con il supporto della Direzione generale per la digitalizzazione;
+                            g)
+                                gestione del contenzioso del lavoro e procedimenti disciplinari;
+                            h)
+                                servizio ispettivo in materia di personale;
+                            i)
+                                attivita' di competenza del datore di lavoro, comprese quelle di prevenzione e sicurezza del luogo di lavoro;
+                            l)
+                                gestione delle procedure amministrativo-contabili relative alle attivita' strumentali, alle attivita' contrattuali e convenzionali delle sedi centrali;
+                            m)
+                                coordinamento delle attivita' propedeutiche alla presa in consegna degli immobili degli uffici centrali e periferici;
+                            n)
+                                razionalizzazione della gestione degli immobili e degli spazi degli uffici centrali e territoriali;
+                            o)
+                                rapporti con l'Agenzia del demanio per le questioni inerenti alle sedi ministeriali;
+                            p)
+                                individuazione delle coperture finanziarie per gli interventi di competenza del Ministero, attraverso la verifica e il monitoraggio dell'impiego delle risorse disponibili, e supporto alle direzioni generali dei quattro Dipartimenti, anche attraverso il rilascio di pareri;
+                            q)
+                                tenuta dell'anagrafe delle prestazioni di cui alla [legge 30 dicembre 1991, n. 412](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20in%20materia%20di%20finanza%20pubblica.md), e istruttoria per il rilascio delle autorizzazioni allo svolgimento di incarichi aggiuntivi;
+                            r)
+                                rilascio al personale di tessere di servizio e di riconoscimento;
+                            s)
+                                abilitazioni del personale del Ministero all'espletamento dei servizi di libera circolazione e polizia stradale, di cui all'[articolo 12, comma 3, del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md) e successive modificazioni;
+                            t)
+                                cura della gestione dell'ufficio relazioni con il pubblico;
+                            u)
+                                gestione della biblioteca del Ministero;
+                            v)
+                                gestione e manutenzione dei beni patrimoniali del Ministero e regolamentazione del loro uso;
+                            z)
+                                gestione dei servizi comuni e dei servizi tecnici;
+                            aa)
+                                attivita' di competenza dell'ufficiale rogante;
+                            bb)
+                                istruttoria procedure di interpello per il conferimento di incarichi dirigenziali in raccordo con le strutture interessate;
+                            cc)
+                                assistenza giuridico-amministrativa alla Cassa di previdenza e assistenza.
+
+3.
+
+La Direzione generale per la digitalizzazione:
+                            a)
+                                trasformazione digitale, riorganizzazione dei processi, promozione dei principi dell'amministrazione digitale e degli open data e definizione degli indirizzi per la digitalizzazione, in coerenza con le linee strategiche dell'Agenda digitale, in raccordo con i Dipartimenti e con le strutture di diretta collaborazione del Ministro;
+                            b)
+                                attuazione delle disposizioni del [Codice dell'amministrazione digitale](../Codici/Codice%20dellamministrazione%20digitale.md), con particolare riferimento all'accesso telematico e al riutilizzo dei dati del Ministero nonche' alla loro accessibilita';
+                            c)
+                                sviluppo integrato e gestione dell'infrastruttura tecnologica, delle reti, dei sistemi di telecomunicazione, dei dati e dei servizi web, dei flussi informativi del Ministero;
+                            d)
+                                monitoraggio e tutela della sicurezza informatica e dei dati;
+                            e)
+                                coordinamento delle attivita' di monitoraggio e tutela delle infrastrutture critiche;
+                            f)
+                                gestione dell'Archivio informatico nazionale delle opere pubbliche, di cui all'[articolo 13 del decreto-legge 28 settembre 2018, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-09-28;109#art_13), convertito, con modificazioni, dalla [legge 16 novembre 2018, n. 130](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20settembre%202018%20n.%20109%20recante%20disposizioni%20urgenti%20per%20la%20citta%20di%20Genova%20la%20sicurezza%20della%20rete%20nazionale%20delle%20infrastruttur_a2d2c50078c8.md);
+                            g)
+                                coordinamento relativo alle attivita' di sviluppo dei sistemi informativi gestiti dagli uffici del Ministero;
+                            h)
+                                supporto tecnico-operativo alle strutture di diretta collaborazione del Ministro coinvolte nella definizione e nel monitoraggio delle attivita' di cyber security, comprese quelle di cui al [decreto legislativo 18 maggio 2018, n. 65](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20UE%202016-1148%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%206%20luglio%202016%20recante%20misure%20per%20un%20livello%20comune%20elevato%20di%20sicurezza%20delle%20reti%20e%20dei%20sistemi%20informa_4c10a7730421.md), e alla [legge 18 novembre 2019, n. 133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20settembre%202019%20n.%20105%20recante%20disposizioni%20urgenti%20in%20materia%20di%20perimetro%20di%20sicurezza%20nazionale%20cibernetica.%2019G00140.md);
+                            i)
+                                coordinamento, sviluppo integrato e gestione tecnica delle applicazioni e dei siti internet istituzionali del Ministero e del Comando generale del Corpo delle capitanerie di porto;
+                            l)
+                                promozione dell'innovazione digitale nelle attivita' di competenza del Ministero in raccordo con le strutture di diretta collaborazione del Ministro che monitorano il processo di digitalizzazione;
+                            m)
+                                comunicazione istituzionale, formazione in ambito informatico, consulenza tecnico-informatica agli uffici del Ministero;
+                            n)
+                                funzioni di ufficio di statistica del Ministero ai sensi dell'[articolo 3 del decreto legislativo n. 322 del 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989;322#art_3), nonche' attivita' di studio finalizzata alla elaborazione e al recepimento della normativa europea in materia di statistiche di settore;
+                            o)
+                                produzione e diffusione di statistiche ufficiali di settore, con particolare riguardo per il Conto nazionale delle infrastrutture e dei trasporti;
+                            p)
+                                gestione delle attivita' digitali di competenza del Ministero di cui al [decreto legislativo 31 marzo 2023, n. 36](../Codici/Codice%20dei%20contratti%20pubblici%20in%20attuazione%20dellarticolo%201%20della%20legge%2021%20giugno%202022%20n.%2078%20recante%20delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2023G00044.md);
+                            q)
+                                cyber security, in raccordo con l'Organo Centrale di Sicurezza secondo gli indirizzi del Ministro;
+                            r)
+                                gestione dell'Osservatorio per le smart road, di cui all'[articolo 43, comma 2-bis, del decreto-legge 31 maggio 2021, n. 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-31;77#art_43-com2bis), convertito, con modificazioni, dalla [legge 29 luglio 2021, n. 108](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20maggio%202021%20n.%2077%20recante%20governance%20del%20Piano%20nazionale%20di%20ripresa%20e%20resilienza%20e%20prime%20misure%20di%20rafforzamento%20delle%20struttur_55630b637f4d.md);
+                            s)
+                                supporto tecnico-operativo alla Direzione generale del personale, degli affari generali e del bilancio per il sistema di gestione delle presenze e della banca dati del personale.
+
+4.
+
+La Direzione generale per gli affari legali ((, societari)) e i contratti pubblici svolge le funzioni di competenza del Ministero nei seguenti ambiti di attivita':
+                            a)
+                                consulenza legale e giuridica a supporto delle attivita' dei Dipartimenti;
+                            b)
+                                gestione del contenzioso e rapporti con l'Avvocatura Generale dello Stato in tutte le materie di competenza del Ministero, in raccordo con le Direzioni generali;
+                            c)
+                                supporto agli Uffici di diretta collaborazione del Ministro in relazione all'attivita' di contenzioso regionale, costituzionale, europeo ed internazionale di competenza dei medesimi Uffici;
+                            d)
+                                supporto agli Uffici di diretta collaborazione del Ministro ai fini della redazione dell'Analisi di Impatto della Regolamentazione (AIR), di cui al [decreto del Presidente del Consiglio dei ministri 15 settembre 2017, n. 169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2017-09-15;169);
+                            e)
+                                verifica dell'impatto della regolamentazione (VIR), di cui al [decreto del Presidente del Consiglio dei ministri 19 novembre 2009, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2009-11-19;212);
+                            f)
+                                coordinamento delle attivita' di controllo analogo sulle societa' in house del Ministero, in raccordo con gli Uffici di diretta collaborazione del Ministro;
+                            g)
+                                attivita' di sorveglianza sulle grandi opere;
+                            h)
+                                rapporti con l'Autorita' nazionale anticorruzione (ANAC);
+                            i)
+                                indirizzo, regolazione, supporto e consulenza in materia di contratti pubblici ad amministrazioni ed enti pubblici, nonche' in relazione agli affidamenti di cui all'[articolo 225, comma 10, del decreto legislativo 31 marzo 2023, n. 36](../Codici/Codice%20dei%20contratti%20pubblici%20in%20attuazione%20dellarticolo%201%20della%20legge%2021%20giugno%202022%20n.%2078%20recante%20delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2023G00044.md);
+                            l)
+                                gestione del Servizio contratti pubblici, in coordinamento con la Direzione generale per la digitalizzazione;
+                            m)
+                                attuazione delle disposizioni del [codice dei contratti pubblici](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md).
+
+5.
+
+Il dirigente preposto alla Direzione generale per gli affari legali ((, societari)) e i contratti pubblici e' il responsabile della prevenzione della corruzione e della trasparenza di cui alla [legge 6 novembre 2012, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-11-06;190).
+
+6.
+
+Il dirigente preposto alla Direzione generale per la digitalizzazione e' il responsabile per la protezione dei dati (RPD) ai sensi del regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016.
+
+## L'organizzazione territoriale
+
+Capo III
+
+### Art. 8. — ((I Provveditorati regionali e interregionali per le opere pubbliche))
+
+1.((Costituiscono strutture decentrate del Ministero, dipendenti dal Dipartimento per le opere pubbliche e le politiche abitative, i Provveditorati regionali e interregionali per le opere pubbliche, individuati secondo gli ambiti territoriali e le sedi che seguono)): 
+ a) ((Provveditorato interregionale per le opere pubbliche per le regioni Piemonte, Valle d'Aosta e Liguria, con sede in Torino e sede coordinata in Genova;)) 
+ b) ((Provveditorato regionale per le opere pubbliche per la Lombardia, con sede in Milano;)) 
+ c) ((Provveditorato regionale per le opere pubbliche per l'Emilia-Romagna con sede in Bologna;)) 
+ d) ((Provveditorato interregionale per le opere pubbliche per le regioni Veneto, Trentino-Alto Adige e Friuli-Venezia Giulia, con sede in Venezia e sedi coordinate in Trento e in Trieste;)) 
+ e) ((Provveditorato interregionale per le opere pubbliche per le regioni Toscana, Marche e Umbria, con sede in Firenze e sedi coordinate in Perugia e in Ancona;)) 
+ f) ((Provveditorato interregionale per le opere pubbliche per le regioni Lazio, Abruzzo e Sardegna, con sede in Roma e sedi coordinate in L'Aquila e in Cagliari;)) 
+ g) ((Provveditorato interregionale per le opere pubbliche per le regioni Campania e Molise con sede in Napoli e sede coordinata in Campobasso;)) 
+ h) ((Provveditorato interregionale per le regioni Puglia e Basilicata, con sede in Bari e sede coordinata in Potenza;)) 
+ i) ((Provveditorato interregionale per le opere pubbliche per le regioni Sicilia e Calabria, con sede in Palermo e sede coordinata in Catanzaro.)) 
+ 2. A ciascun Provveditorato ((regionale e)) interregionale e' preposto un dirigente di livello generale denominato «Provveditore per le opere pubbliche», nominato ai sensi dell'[articolo 19, comma 4, del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md). 
+ 3. I dirigenti di cui al comma 2 rispondono al Capo del Dipartimento in ordine al raggiungimento degli obiettivi ad essi affidati. 
+ 4. Il Provveditore per le opere pubbliche e' datore di lavoro nelle sedi di competenza. 
+ 5. Presso ogni sede coordinata il Provveditore per le opere pubbliche, d'intesa con il Capo Dipartimento, che informa previamente il Ministro, nel rispetto del contingente dirigenziale non generale attribuito all'Ufficio decentrato, nomina un dirigente coordinatore e responsabile della sede coordinata al quale possono essere attribuite anche funzioni vicarie. 
+ 6. Il Provveditore per le opere pubbliche cura la definizione dei procedimenti pendenti in materia di demanio idrico e opere idrauliche trasferite alle Regioni ai sensi del [decreto legislativo 31 marzo 1998, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md).
+
+### Art. 9. — ((Competenze dei Provveditorati regionali e interregionali per le opere pubbliche))
+
+1.
+
+Ferme restando le competenze in materia infrastrutturale delle Regioni e delle Province autonome di Trento e Bolzano, i ((Provveditorati regionali e interregionali)) assicurano, in sede decentrata, l'esercizio delle funzioni e dei compiti di spettanza statale nelle aree funzionali di cui all'articolo 42, comma 1, lettere a), b), d-ter), d-quater), e, per quanto di competenza, [lettera d-bis), del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md).
+
+2.
+
+Fatto salvo quanto disposto dal [decreto legislativo 31 marzo 1998, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md), e dai conseguenti provvedimenti di attuazione, i ((Provveditorati regionali e interregionali)) svolgono, in particolare, le funzioni di competenza nei seguenti ambiti di attivita':
+                            a)
+                                opere pubbliche di competenza del Ministero, fatto salvo quanto previsto all'articolo 5, comma 2, lettera i);
+                            b)
+                                attivita' di vigilanza sulle opere pubbliche e di supporto al Ministero all'attivita' di vigilanza sulle reti infrastrutturali finanziate dal Ministero stesso e da altri enti pubblici;
+                            c)
+                                attivita' di supporto su base convenzionale nella programmazione, progettazione ed esecuzione di opere anche di competenza di Amministrazioni non statali, anche ad ordinamento autonomo, economico e non economico, nonche' di Enti e organismi pubblici;
+                            d)
+                                attivita' di competenza statale di supporto degli Uffici territoriali di governo in materia di repressione dell'abusivismo edilizio;
+                            e)
+                                supporto all'attivita' di vigilanza del Ministero su ANAS S.p.a.;
+                            f)
+                                supporto all'attivita' di gestione da parte del Ministero dei programmi di iniziativa europea;
+                            g)
+                                attivita' di vigilanza per l'edilizia economica e popolare;
+                            h)
+                                supporto tecnico alla Direzione generale per le strade e la sicurezza delle infrastrutture stradali e alla Direzione generale per le autostrade la vigilanza sui contratti di concessione autostradale, per le attivita' di competenza;
+                            i)
+                                espletamento del servizio di polizia stradale di cui all'[articolo 12 del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md);
+                            l)
+                                supporto al Consiglio superiore dei lavori pubblici per lo svolgimento, in ambito territoriale, delle attivita' di vigilanza di cui al [decreto legislativo 16 giugno 2017, n. 106](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%20n.%20305-2011%20che%20fissa%20condizioni%20armonizzate%20per%20la%20commercializzazione%20dei%20prodotti%20da%20costruzione%20e%20che%20abroga_fba5962dee08.md).
+                            m)
+                                gestione del contenzioso con il supporto della Direzione generale per gli affari legali ((, societari)) e i contratti pubblici.
+
+### Art. 10. — ((Organizzazione dei Provveditorati regionali e interregionali per le opere pubbliche))
+
+1.
+
+L'organizzazione dei ((Provveditorati regionali e interregionali)) e' ispirata al criterio dell'efficiente dimensionamento delle strutture, tenendo conto della qualita' e della quantita' dei servizi svolti, della rilevanza dei compiti e delle funzioni assegnate con riferimento al bacino di utenza e all'ambito territoriale interessato, nonche' alla dotazione organica complessiva del Ministero.
+
+2.
+
+Presso ciascun ((Provveditorato regionale e interregionale)) opera il Comitato tecnico-amministrativo, di seguito definito Comitato.
+
+3.
+
+Il Comitato e' costituito, per l'esercizio delle funzioni di cui al comma 6 e per la durata di un triennio, nel rispetto del principio di uguaglianza di genere, con decreto del Ministro ed e' composto dai seguenti membri:
+                            a)
+                                il Provveditore ((regionale o interregionale)), con funzioni di Presidente;
+                            b)
+                                i dirigenti degli uffici di livello dirigenziale non generale del provveditorato ((regionale o interregionale));
+                            c)
+                                un avvocato dello Stato designato dalle Avvocature distrettuali rientranti nella competenza territoriale del Provveditorato ((regionale o interregionale));
+                            d)
+                                un rappresentante della Ragioneria territoriale dello Stato della citta' sede del Provveditorato ((regionale o interregionale));
+                            e)
+                                un rappresentante del Ministero dell'interno, della Prefettura della citta' sede del Provveditorato ((regionale o interregionale));
+                            f)
+                                un rappresentante dell'Agenzia del Demanio, designato dalle Direzioni territoriali interessate;
+                            g)
+                                un rappresentante del Ministero dell'agricoltura, della sovranita' alimentare e delle foreste;
+                            h)
+                                un rappresentante del Ministero del lavoro e delle politiche sociali;
+                            i)
+                                un rappresentante del Ministero della giustizia su designazione dei Presidenti delle Corti d'Appello i cui distretti rientrino nella competenza territoriale del Provveditorato;
+                            l)
+                                un rappresentante del Ministero della cultura, scelto tra i Soprintendenti nel territorio di competenza del Provveditorato;
+                            m)
+                                un rappresentante del Ministero dell'ambiente e della sicurezza energetica.
+
+4.
+
+Al Comitato di cui al comma 3 possono partecipare, in qualita' di esperti per la trattazione adi speciali problemi, studiosi e tecnici anche non appartenenti alle Amministrazioni dello Stato.
+
+5.
+
+Il decreto ministeriale di cui al comma 3 stabilisce le modalita' di convocazione e deliberazione dei Comitati.
+
+6.
+
+Il Comitato e' competente a pronunciarsi:
+                            a)
+                                sui progetti preliminari, definitivi ed esecutivi di opere attribuite alla competenza del Provveditorato ((regionale o interregionale)), da eseguire a cura dello Stato e a totale suo carico, nonche' sui progetti definitivi da eseguire da enti pubblici o da privati, quando siano finanziati dallo Stato per almeno il cinquanta per cento e comunque per opere per le quali le disposizioni di legge richiedano il parere degli organi consultivi del Ministero quando l'importo non ecceda i venticinque milioni di euro;
+                            b)
+                                sulle vertenze relative ai lavori attribuiti alla competenza del Provveditorato ((regionale o interregionale)) per maggiori oneri o per esonero di penalita' contrattuali e per somme non eccedenti i cinquantamila euro;
+                            c)
+                                sulle proposte di risoluzione o rescissione di contratti, nonche' sulle determinazioni di nuovi prezzi per opere di importi eccedenti i limiti di competenza del responsabile del procedimento;
+                            d)
+                                sulle perizie di manutenzione annuali e pluriennali di importo eccedenti i limiti di competenza del responsabile del procedimento;
+                            e)
+                                sulla concessione di proroghe superiori a trenta giorni dei termini contrattuali fissati per l'ultimazione dei lavori;
+                            f)
+                                sugli affari di competenza degli organi locali dell'Amministrazione dello Stato e degli enti locali per i quali le disposizioni vigenti richiedano il parere del Comitato;
+                            g)
+                                sugli affari per i quali il Provveditore ((regionale o interregionale)) ritenga opportuno richiedere il parere del Comitato.
+
+7.
+
+Ai componenti ed agli esperti del Comitato non sono corrisposte indennita', emolumenti o rimborsi spese.
+
+8.
+
+L'organizzazione, il numero e i compiti degli uffici dirigenziali di livello non generale in cui si articolano i ((Provveditorati regionali e interregionali)) per le opere pubbliche sono definiti con il decreto di cui all'articolo 18, comma 3.
+
+### Art. 11. — Direzioni generali territoriali
+
+1.
+
+Sono articolazioni periferiche del Ministero, dipendenti dal Dipartimento per i trasporti e la navigazione, le quattro direzioni generali territoriali di seguito individuate secondo le circoscrizioni territoriali e le sedi che seguono:
+                            a)
+                                Direzione generale territoriale del Nord-Ovest, per gli uffici aventi sede nelle regioni Piemonte, Lombardia e Liguria, con sede in Milano;
+                            b)
+                                Direzione generale territoriale del Nord-Est, per gli uffici aventi sede nelle regioni Veneto, Trentino-Alto Adige, Friuli-Venezia Giulia, Emilia-Romagna e Marche, con sede in Venezia;
+                            c)
+                                Direzione generale territoriale del Centro, per gli uffici aventi sede nelle regioni: Toscana, Umbria, Lazio, Abruzzo e Sardegna, con sede in Roma;
+                            d)
+                                Direzione generale territoriale del Sud, per gli uffici aventi sede nelle regioni Campania, Molise, Puglia, Basilicata, Calabria e Sicilia, con sede in Napoli.
+
+2.
+
+A ciascuna direzione generale territoriale, con funzioni di direzione e coordinamento, e' preposto un dirigente di livello generale, nominato ai sensi dell'[articolo 19, comma 4, del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md). In particolare, il direttore generale di ciascuna Direzione generale territoriale:
+                            a)
+                                alloca le risorse umane, finanziarie e strumentali disponibili per l'attuazione dei programmi secondo i principi di economicita', efficacia ed efficienza nonche' di rispondenza del servizio al pubblico interesse, disponendo, a tal fine, gli opportuni trasferimenti del personale all'interno della direzione generale;
+                            b)
+                                persegue gli obiettivi conferiti annualmente con la direttiva generale del Ministro;
+                            c)
+                                svolge funzioni di coordinamento di bilancio in relazione alle risorse assegnate alla direzione e di controllo digestione;
+                            d)
+                                promuove e mantiene le relazioni con gli organi istituzionali, con le regioni, le province e gli enti locali, nonche' le relazioni sindacali.
+
+3.
+
+I dirigenti di cui al comma 2 rispondono al Capo del Dipartimento per i trasporti e la navigazione in ordine al raggiungimento degli obiettivi ad essi affidati.
+
+Note all'[art. 11](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md): 
+ - Per l'[art. 19, comma 4, del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md) (Norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche), si veda nelle note all'art. 6.
+
+### Art. 12. — Competenze delle Direzioni generali territoriali
+
+1.
+
+Ferme restando le competenze in materia di trasporti attribuite alle regioni, anche a statuto speciale, e alle Province autonome di Trento e Bolzano e fatto salvo quanto disposto dal [decreto legislativo 31 marzo 1998, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md), e dai conseguenti provvedimenti di attuazione, le Direzioni generali territoriali assicurano, in sede periferica, l'esercizio delle funzioni e dei compiti di spettanza statale nelle aree funzionali di cui all'articolo 42, comma 1, lettere c), d) e, per quanto di competenza, [lettera d-bis), del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md).
+
+2.
+
+Le Direzioni generali territoriali svolgono, in particolare, le funzioni di competenza nei seguenti ambiti di attivita':
+                            a)
+                                omologazione dei veicoli a motore, loro rimorchi, componenti ed unita' tecniche indipendenti;
+                            b)
+                                collaudi e revisione dei veicoli in circolazione;
+                            c)
+                                attivita' in materia di conducenti: rilascio di patenti, certificati di abilitazione professionale;
+                            d)
+                                sicurezza dei sistemi di trasporto ad impianto fisso di competenza statale, ferme le competenze di ANSFISA relativamente alle attivita' ispettive e di vigilanza sui sistemi di trasporto rapido di massa;
+                            e)
+                                supporto tecnico e amministrativo per la realizzazione dei sistemi di trasporto ad impianti fissi;
+                            f)
+                                navigazione interna di competenza statale;
+                            g)
+                                immatricolazioni di veicoli;
+                            h)
+                                circolazione e sicurezza stradale;
+                            i)
+                                rapporti istituzionali con le regioni, le province e con gli enti locali;
+                            l)
+                                funzioni di certificazione di qualita', ispezione e controllo tecnico;
+                            m)
+                                espletamento del servizio di polizia stradale di cui all'[articolo 12, comma 3, lettera a), del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md);
+                            n)
+                                attivita' in materia di autotrasporto, autorizzazione all'esercizio della professione e provvedimenti connessi, controlli;
+                            o)
+                                formazione e aggiornamento del personale e attivita' di ricerca nelle materie di competenza;
+                            p)
+                                gestione del contenzioso nelle materie di competenza.
+
+Note all'[art. 12: 
+ - Per il decreto legislativo 31 marzo 1998, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md) (Conferimento di funzioni e compiti amministrativi dello Stato alle regioni ed agli enti locali, in attuazione del capo I della [legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md).), si veda nelle note all'art. 8. 
+ - Per l'[art. 42, comma 1, lettere c)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), [d)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) e [d-bis), del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) (Riforma dell'organizzazione del Governo, a norma dell'[art. 11 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md).), si veda nelle note all'art.
+ 9. 
+ - Per l'[art. 12, comma 3, lettera a), del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md) (Nuovo [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md)), si veda nelle note all'art. 9.
+
+### Art. 13. — Organizzazione delle Direzioni generali territoriali
+
+1.
+
+L'organizzazione delle Direzioni generali territoriali e' ispirata, stante la necessita' di assicurare l'erogazione dei servizi all'utenza, al criterio della razionalizzazione delle strutture, tenendo conto della qualita' e della quantita' dei servizi svolti, della rilevanza dei compiti e delle funzioni assegnate con riferimento al bacino di utenza e all'ambito territoriale di competenza nonche' alla dotazione organica complessiva del Ministero.
+
+2.
+
+L'organizzazione, il numero e i compiti degli uffici dirigenziali di livello non generale in cui si articolano le direzioni generali territoriali sono definiti con il decreto di cui all'articolo 18, comma 3.
+
+## Comando generale del corpo delle capitanerie di porto e altri  organismi e istituzioni operanti nel Ministero
+
+Capo IV
+
+### Art. 14. — Funzioni e compiti del Comando generale 
+ del corpo delle capitanerie di porto
+
+1.
+
+Il Comando generale del Corpo delle Capitanerie di Porto svolge le funzioni di competenza del Ministero nelle seguenti materie:
+                            a)
+                                ricerca e soccorso in mare, quale Centro nazionale di coordinamento del soccorso marittimo (I.M.R.C.C.), e nei laghi maggiori ove sia istituito un proprio apposito presidio, nonche' attivita' di organizzazione e coordinamento della formazione, della qualificazione e dell'addestramento;
+                            b)
+                                gestione operativa, a livello centrale, del sistema di monitoraggio e di informazione del traffico marittimo e interfaccia unica nazionale per l'arrivo e partenza delle navi, quale Autorita' Nazionale Competente in materia di VTS (Vessel Traffic Services) nonche' nodo primario di acquisizione e scambio diretto delle informazioni connesse agli usi civili e produttivi del mare;
+                            c)
+                                coordinamento del sistema di interfaccia unica marittima europea, quale autorita' nazionale competente (European maritime single window enviroment);
+                            d)
+                                esercizio delle competenze in materia di sicurezza della navigazione e del trasporto marittimo;
+                            e)
+                                rapporti con organismi nazionali e internazionali e cooperazione con le omologhe organizzazioni/agenzie che svolgono funzioni di Guardia costiera, in raccordo con gli uffici di diretta collaborazione del Ministro, per gli aspetti relativi al soccorso marittimo, alla sicurezza della navigazione, del trasporto marittimo e nei porti, anche relativamente all'impiego di personale del Corpo delle capitanerie di porto - Guardia costiera, in ambito nazionale e all'estero, sulla base di direttive generali o specifiche del Ministro, per gli altri profili funzionali correlati alle competenze del Ministero;
+                            f)
+                                addestramento del personale marittimo e certificazione degli enti di formazione e di addestramento;
+                            g)
+                                coordinamento delle attivita', organizzazione e ispezioni relative ai servizi degli uffici marittimi delle Capitanerie di Porto, anche attraverso l'adozione di disposizioni e direttive, e conseguente valutazione dei direttori marittimi;
+                            h)
+                                predisposizione della normativa tecnica di settore a favore dell'utenza marittima nelle materie di competenza del Ministero;
+                            i)
+                                impiego del personale militare del Corpo delle capitanerie di porto - Guardia costiera e approvazione delle dotazioni di personale degli uffici marittimi per l'assolvimento delle funzioni di cui al presente articolo;
+                            l)
+                                formazione specialistica del personale del Corpo delle capitanerie di porto nelle materie di specifica competenza e rilascio delle relative abilitazioni;
+                            m)
+                                vigilanza e controllo operativo in materia di sicurezza delle navi e delle strutture portuali nei confronti di minacce.
+
+2.
+
+Il Comandante generale delle capitanerie di porto - Guardia costiera, sulla base della direttiva annuale generale del Ministro, coordina l'attivita' degli Uffici marittimi.
+
+3.
+
+Il vice Comandante generale delle capitanerie di porto svolge funzioni vicarie del Comandante generale e per le quali non percepisce alcun compenso aggiuntivo.
+
+4.
+
+Le Capitanerie di Porto - Guardia costiera svolgono gli ulteriori compiti previsti dalla normativa vigente secondo le direttive dei Ministri competenti, mediante l'impiego di personale, nei limiti e secondo le modalita' previste dalla legge, in ambito nazionale e all'estero, in funzione di collegamento per gli aspetti connessi alle materie di competenza.
+
+### Art. 15. — Organizzazione marittima
+
+1.
+
+Sono uffici marittimi periferici del Ministero delle infrastrutture e dei trasporti, dipendenti dal Comando generale del Corpo delle capitanerie di porto - Guardia costiera, gli uffici di cui all'[articolo 16 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e all'articolo 2 del regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), retti da personale del Corpo delle capitanerie di porto - Guardia costiera e articolati in direzioni marittime, capitanerie di porto, uffici circondariali marittimi, uffici locali marittimi e delegazioni di spiaggia.
+
+2.
+
+Gli uffici marittimi di cui al comma 1 svolgono, in sede decentrata, le attribuzioni previste dal [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e dalle altre leggi speciali nelle materie di competenza del Ministero tramite il coordinamento del Comando generale del Corpo delle capitanerie di porto - Guardia costiera.
+
+3.
+
+Nei limiti delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente e al fine di rispondere con tempestivita' ad esigenze di carattere operativo ed organizzativo, con provvedimento del Ministro delle infrastrutture e dei trasporti, adottato su proposta del Comandante generale del Corpo delle capitanerie di porto - Guardia costiera, possono essere individuati nell'ambito della struttura organizzativa di cui al comma 1, le unita', i nuclei, i distaccamenti e i servizi organicamente costituti per i quali il predetto decreto individua i compiti, le mansioni, le dotazioni organiche e la dipendenza funzionale.
+
+Note all'art. 15: 
+ - Si riporta l'[art. 16 del regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) ([Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md)): 
+ «Art. 16 (Circoscrizione del litorale della Repubblica). - Il litorale della Repubblica e' diviso in zone marittime; le zone sono suddivise in compartimenti e questi in circondari. 
+ Alla zona e' preposto un direttore marittimo, al compartimento un capo del compartimento, al circondario un capo del circondario. Nell'ambito del compartimento in cui ha sede l'ufficio della direzione marittima, il direttore marittimo e' anche capo del compartimento. Nell'ambito del circondario in cui ha sede l'ufficio del compartimento, il capo del compartimento e' anche capo del circondario. 
+ Negli approdi di maggiore importanza in cui non hanno sede ne' l'ufficio del compartimento ne' l'ufficio del circondario sono istituiti uffici locali di porto o delegazioni di spiaggia, dipendenti dall'ufficio circondariale. 
+ Il capo del compartimento, il capo del circondario e i capi degli altri uffici marittimi dipendenti sono comandanti del porto o dell'approdo in cui hanno sede.
+ [c.n. 17]». 
+ - Si riporta l'[art. 2 del decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](../Codici/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md) (Approvazione del Regolamento per l'esecuzione del [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) - Navigazione marittima): 
+ «Art. 2 (Denominazione degli uffici marittimi). - L'ufficio della zona marittima e' denominato direzione marittima, l'ufficio del compartimento Capitaneria di porto, l'ufficio del circondario ufficio circondariale marittimo. 
+ Gli uffici che sono istituiti negli approdi di maggiore importanza in cui non hanno sede ne' l'ufficio del compartimento ne' l'ufficio del circondario sono denominati ufficio locale marittimo o delegazione di spiaggia».
+
+### Art. 16. — Consiglio superiore dei lavori pubblici
+
+1.
+
+Presso il Ministero e' incardinato, con piena autonomia organizzativa e funzionale, il Consiglio superiore dei lavori pubblici, il quale e' organizzato ai sensi dell'[articolo 47 del decreto legislativo 31 marzo 2023, n. 36](../Codici/Codice%20dei%20contratti%20pubblici%20in%20attuazione%20dellarticolo%201%20della%20legge%2021%20giugno%202022%20n.%2078%20recante%20delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2023G00044.md), e dell'Allegato I.11 al medesimo decreto legislativo.
+
+2.
+
+La dotazione delle posizioni di funzione dirigenziale presso il Consiglio superiore dei lavori pubblici e' determinata, nel quadro della dotazione organica di cui all'allegata tabella A, rispettivamente in numero di cinque posizioni dirigenziali generali, di cui una attribuita ai sensi dell'[articolo 19, comma 3, del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md).
+
+3.
+
+L'organizzazione, il numero e i compiti degli uffici dirigenziali di livello non generale in cui si articola il Consiglio superiore dei lavori pubblici sono definiti con il decreto ministeriale di cui all'articolo 18, comma 3.
+
+Note all'art. 16: 
+ - Si riporta l'[art. 47 del decreto legislativo 31 marzo 2023, n. 36](../Codici/Codice%20dei%20contratti%20pubblici%20in%20attuazione%20dellarticolo%201%20della%20legge%2021%20giugno%202022%20n.%2078%20recante%20delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2023G00044.md) ([Codice dei contratti pubblici](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md) in attuazione dell'[art. 1 della legge 21 giugno 2022, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2022G00087.md), recante delega al Governo in materia di contratti pubblici.): 
+ «Art. 47 (Consiglio superiore dei lavori pubblici). - 1. Il Consiglio superiore dei lavori pubblici e' il massimo organo tecnico consultivo dello Stato; opera con indipendenza di giudizio e di valutazione ed e' dotato di piena autonomia funzionale e organizzativa. 
+ 2. Il Consiglio superiore dei lavori pubblici e' presieduto dal Presidente ed e' costituito dall'Assemblea generale, da quattro Sezioni, dalla Segreteria generale, dal Servizio tecnico centrale e dall'Osservatorio del collegio consultivo tecnico. 
+ 3. Il Consiglio superiore dei lavori pubblici, nell'ambito dei compiti attribuiti allo Stato e nel rispetto delle prerogative delle regioni, delle province autonome, delle province, delle citta' metropolitane e dei comuni, esercita funzioni consultive ed esprime pareri obbligatori esclusivamente sui progetti di fattibilita' tecnica ed economica di competenza statale, dei concessionari statali e sulle altre opere finanziate per almeno il 50 per cento dallo Stato e pareri facoltativi sui documenti di fattibilita' delle alternative progettuali inseriti nei documenti pluriennali di programmazione dei ministeri competenti. I pareri di cui al primo periodo sono resi se il costo complessivo dell'opera, come derivante dal quadro economico, e' superiore a 200 milioni di euro, nel caso di infrastrutture lineari, o a 50 milioni di euro, negli altri casi. I Comitati tecnici amministrativi presso i Provveditorati interregionali per le opere pubbliche esprimono parere obbligatorio esclusivamente sui progetti di fattibilita' tecnico-economica di opere di competenza statale, dei concessionari statali e delle altre opere finanziate per almeno il 50 per cento dallo Stato se il costo complessivo dell'opera, come derivante dal quadro economico, e' superiore a 25 milioni di euro e inferiore a 200 milioni di euro, nel caso di infrastrutture lineari, oppure e' superiore a 25 milioni di euro e inferiore a 50 milioni di euro, negli altri casi. Non e' obbligatorio il parere sui progetti di fattibilita' tecnico-economica di opere di competenza statale, dei concessionari statali e delle altre opere finanziate per almeno il 50per cento dallo Stato se il costo complessivo dell'opera, come derivante dal quadro economico, e' inferiore a 25 milioni di euro. 
+ 4. Le ulteriori competenze, l'organizzazione del Consiglio superiore dei lavori pubblici, le regole di funzionamento, nonche' le ulteriori attribuzioni sono stabilite e disciplinate nell'allegato I.11. In sede di prima applicazione del codice, l'allegato I.11 e' abrogato a decorrere dalla data di entrata in vigore di un corrispondente regolamento adottato ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), con decreto del Ministro delle infrastrutture e dei trasporti, sentito il Consiglio superiore dei lavori pubblici, che lo sostituisce integralmente anche in qualita' di allegato al codice. 
+ 5. Il Consiglio superiore dei lavori pubblici esprime il parere entro quarantacinque giorni dalla trasmissione del progetto. Decorso tale termine, il parere si intende reso in senso favorevole.». 
+ - L'Allegato I.11 al [decreto legislativo 31 marzo 2023, n. 36](../Codici/Codice%20dei%20contratti%20pubblici%20in%20attuazione%20dellarticolo%201%20della%20legge%2021%20giugno%202022%20n.%2078%20recante%20delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2023G00044.md) ([Codice dei contratti pubblici](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md) in attuazione dell'[art. 1 della legge 21 giugno 2022, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2022G00087.md), recante delega al Governo in materia di contratti pubblici.) e' pubblicato nella Gazzetta Ufficiale 31 marzo 2023, n. 77. 
+ - Per l'[art. 19, comma 3, del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md) (Norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche), si veda la nota all'art. 6.
+
+### Art. 17. — Altri organismi operanti nel Ministero
+
+1.
+
+Operano nell'ambito del Ministero e alle dirette dipendenze del Ministro:
+                            a)
+                                l'Ufficio per le investigazioni ferroviarie e marittime, che svolge, anche in collaborazione con ANSFISA e in raccordo con gli uffici di diretta collaborazione del Ministro, i compiti di cui al [decreto legislativo 14 maggio 2019, n. 50](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202016-798%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20dell11%20maggio%202016%20sulla%20sicurezza%20delle%20ferrovie.%2019G00057.md), in materia di sicurezza delle ferrovie, al [decreto legislativo 6 settembre 2011, n. 165](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-18-CE%20che%20stabilisce%20i%20principi%20fondamentali%20in%20materia%20di%20inchieste%20sugli%20incidenti%20nel%20settore%20del%20trasporto%20marittimo%20e%20che%20modifica%20le%20direttive%201999-3_1d5dbcc32cc3.md), in materia di sinistri marittimi, e all'[articolo 15-ter, comma 4, del decreto-legge 16 ottobre 2017, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-10-16;148#art_15ter-com4), convertito, con modificazioni, dalla [legge 4 dicembre 2017, n. 172](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20ottobre%202017%20n.%20148%20recante%20disposizioni%20urgenti%20in%20materia%20finanziaria%20e%20per%20esigenze%20indifferibili.%20Modifica%20alla%20disciplina%20_76272513d08b.md), in materia di incidenti sulle reti ferroviarie funzionalmente isolate, nelle vie d'acqua interne nazionali e su tutti i sistemi di trasporto ad impianti fissi, cui e' preposto, nell'ambito della dotazione organica complessiva, un dirigente di livello non generale. L'Ufficio cura i rapporti con organismi internazionali, europei e nazionali nelle materie di competenza, in raccordo con gli uffici di diretta collaborazione del Ministro.
+                            b)
+                                la Struttura tecnica di missione di cui all'[articolo 223, comma 3, del decreto legislativo 31 marzo 2023, n. 36](../Codici/Codice%20dei%20contratti%20pubblici%20in%20attuazione%20dellarticolo%201%20della%20legge%2021%20giugno%202022%20n.%2078%20recante%20delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2023G00044.md), che si avvale di un contingente di personale individuato dal decreto attuativo del medesimo articolo 223, nell'ambito delle risorse finanziarie previste a legislazione vigente. Il Ministro puo' nominare il coordinatore della Struttura tecnica di missione fra persone, anche estranee alla pubblica amministrazione, in possesso di capacita' adeguata alle funzioni da svolgere avuto riguardo ai titoli professionali, culturali e scientifici e alle esperienze maturate;
+
+Note all'[art. 17: 
+ - Per il decreto legislativo 14 maggio 2019, n. 50](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202016-798%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20dell11%20maggio%202016%20sulla%20sicurezza%20delle%20ferrovie.%2019G00057.md) (Attuazione della [direttiva 2016/798 del Parlamento europeo e del Consiglio, dell'11 maggio 2016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2016;798), sulla sicurezza delle ferrovie), si veda la nota alle premesse. 
+ - Il [decreto legislativo 6 settembre 2011, n. 165](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-18-CE%20che%20stabilisce%20i%20principi%20fondamentali%20in%20materia%20di%20inchieste%20sugli%20incidenti%20nel%20settore%20del%20trasporto%20marittimo%20e%20che%20modifica%20le%20direttive%201999-3_1d5dbcc32cc3.md) (Attuazione della [direttiva 2009/18/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2009;18) che stabilisce i principi fondamentali in materia di inchieste sugli incidenti nel settore del trasporto marittimo e che modifica le [direttive 1999/35/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;35) e [2002/59/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;59).) e' pubblicato nella Gazzetta Ufficiale 6 ottobre 2011, n. 233. 
+ - Si riporta l'[art. 15-ter, comma 4, del decreto-legge 16 ottobre 2017, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-10-16;148#art_15ter-com4) (Disposizioni urgenti in materia finanziaria e per esigenze indifferibili.), convertito, con modificazioni, dalla [legge 4 dicembre 2017, n. 172](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20ottobre%202017%20n.%20148%20recante%20disposizioni%20urgenti%20in%20materia%20finanziaria%20e%20per%20esigenze%20indifferibili.%20Modifica%20alla%20disciplina%20_76272513d08b.md): 
+ «Art. 15-ter (Interventi per la tutela e il miglioramento della sicurezza ferroviaria e marittima). - 1. All'[art. 2 del decreto legislativo 10 agosto 2007, n. 162](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%202004-49-CE%20e%202004-51-CE%20relative%20alla%20sicurezza%20e%20allo%20sviluppo%20delle%20ferrovie%20comunitarie.md), sono apportate le seguenti modificazioni: 
+ a) al comma 4, lettera b), dopo le parole: «alle reti funzionalmente isolate dal resto del sistema ferroviario ed adibite unicamente a servizi passeggeri locali, urbani o suburbani, nonche' alle imprese ferroviarie che operano esclusivamente su tali reti» sono aggiunte le seguenti: ", fino al 30 giugno 2019"; 
+ b) dopo il comma 4 e' aggiunto il seguente: 
+ "4-bis. Entro il 31 dicembre 2018, l'Agenzia nazionale per la sicurezza delle ferrovie (ANSF) individua le norme tecniche e gli standard di sicurezza applicabili alle reti funzionalmente isolate dal resto del sistema ferroviario nonche' ai gestori del servizio che operano su tali reti, tenendo conto delle caratteristiche delle tratte ferroviarie, dei rotabili e del servizio di trasporto, fermo restando quanto previsto dai trattati internazionali per le reti isolate transfontaliere. A decorrere dal 30 giugno 2019, alle reti funzionalmente isolate dal resto del sistema ferroviario nonche' ai gestori del servizio che operano su tali reti si applicano in materia di sicurezza le disposizioni adottate ai sensi del presente comma. Nel rilasciare le autorizzazioni di propria competenza, l'ANSF valuta le misure mitigative o compensative proposte dai gestori del servizio sulla base di una analisi del rischio che tenga conto delle caratteristiche della tratta ferroviaria, dei rotabili e del servizio di trasporto". 
+ 2. A seguito dell'estensione dei compiti attribuiti all'Agenzia nazionale per la sicurezza delle ferrovie (ANFS) in materia di reti ferroviarie regionali ed al fine di garantire il corretto espletamento delle necessarie ed indifferibili attivita', essenziali per garantire un adeguato presidio della sicurezza ferroviaria, agli operatori ferroviari, in applicazione del decreto del Ministro delle infrastrutture e dei trasporti 5 agosto 2016, pubblicato nella Gazzetta Ufficiale n. 216 del 15 settembre 2016, nonche' per gestire le significative modifiche all'attuale quadro regolatorio in materia di sicurezza e interoperabilita' ferroviaria derivanti dal cosiddetto "IV pacchetto ferroviario", l'ANSF medesima e' autorizzata, in deroga alla normativa vigente, all'assunzione a tempo indeterminato tramite concorso pubblico di 20 unita' complessive di personale nel biennio 2018-2019, da inquadrare nel livello iniziale di ciascuna categoria/area. 
+ 3. Per le finalita' di cui ai commi 1 e 2, a decorrere dal 2018 l'ANSF e' autorizzata all'assunzione di 11 funzionari e 9 collaboratori, tenuto conto di quanto previsto all'[art. 4, comma 3, del decreto-legge 31 agosto 2013, n. 101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-08-31;101#art_4-com3), convertito, con modificazioni, dalla [legge 30 ottobre 2013, n. 125](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20agosto%202013%20n.%20101%20recante%20disposizioni%20urgenti%20per%20il%20perseguimento%20di%20obiettivi%20di%20razionalizzazione%20nelle%20pubbliche%20amminist_a2a2cc368cbd.md), in deroga a quanto previsto dall'[art. 30 del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), e dall'art. 4, comma 3-quinquies, del citato [decreto-legge n. 101 del 2013](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013;101), in relazione alle specifiche professionalita' necessarie per garantire il presidio della sicurezza ferroviaria. 
+ 4. A decorrere dall'anno 2018 la Direzione generale per le investigazioni ferroviarie e marittime del Ministero delle infrastrutture e dei trasporti provvede a effettuare le investigazioni anche su: 
+ a) gli incidenti sulle reti funzionalmente isolate dal resto del sistema ferroviario e adibite unicamente a servizi passeggeri locali, urbani o suburbani, nonche' gli incidenti che si verificano sui sistemi di trasporto ad impianti fissi, applicando i criteri e le procedure di investigazione definiti al capo V del [decreto legislativo 10 agosto 2007, n 162](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%202004-49-CE%20e%202004-51-CE%20relative%20alla%20sicurezza%20e%20allo%20sviluppo%20delle%20ferrovie%20comunitarie.md); 
+ b) gli incidenti nelle vie d'acqua interne nazionali, applicando i criteri e le procedure di investigazione stabiliti dal [decreto-legislativo 6 settembre 2011, n. 165](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-18-CE%20che%20stabilisce%20i%20principi%20fondamentali%20in%20materia%20di%20inchieste%20sugli%20incidenti%20nel%20settore%20del%20trasporto%20marittimo%20e%20che%20modifica%20le%20direttive%201999-3_1d5dbcc32cc3.md); 
+ c) gli incidenti su tutti i sistemi di trasporto ad impianti fissi. 
+ 5. Agli oneri derivanti dal presente articolo, pari a 966.971 euro a decorrere dell'anno 2018, si provvede mediante corrispondente riduzione delle proiezioni dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2017-2019, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2017, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero delle infrastrutture e dei trasporti. 
+ 6. All'[art. 18 della legge 7 luglio 2016, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-07-07;122#art_18), dopo il comma 1 e' inserito il seguente: 
+ "1-bis. Le inosservanze da parte degli operatori ferroviari delle disposizioni adottate dall'ANSF in materia di adeguamento dei sistemi di sicurezza ferroviaria sono punite con la sanzione amministrativa pecuniaria da euro 20.000 a euro 200.000 per il mancato adeguamento alle misure di sicurezza indicate nelle disposizioni emanate dall'ANSF entro il termine prescritto. Per ogni giorno di ritardo, successivo al primo, nell'adeguamento alle misure di sicurezza, si applica un'ulteriore sanzione amministrativa pecuniaria pari al 10 per cento della sanzione da applicare".». 
+ - Per l'[art. 223, comma 3, del decreto legislativo 31 marzo 2023, n. 36](../Codici/Codice%20dei%20contratti%20pubblici%20in%20attuazione%20dellarticolo%201%20della%20legge%2021%20giugno%202022%20n.%2078%20recante%20delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2023G00044.md) ([Codice dei contratti pubblici](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md) in attuazione dell'[art. 1 della legge 21 giugno 2022, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2022G00087.md), recante delega al Governo in materia di contratti pubblici.), si veda la nota alle premesse.
+
+## Dotazione organica e norme finali
+
+Capo V
+
+### Art. 18. — Determinazione posizioni di livello non generale e delle dotazioni organiche del Ministero
+
+1.
+
+La dotazione organica del personale del Ministero e' individuata nella Tabella A allegata al presente regolamento.
+
+2.
+
+Il numero delle posizioni dirigenziali di livello generale e quello relativo ai relativi posti di funzione e' determinato in ((quarantatre')) unita', mentre il numero degli uffici dirigenziali di livello non generale e' determinato in ((duecentodiciotto)) unita'. Il personale dirigenziale di livello generale e non generale del Ministero e' inserito nei ruoli del personale dirigenziale del Ministero delle infrastrutture e dei trasporti.
+
+3.
+
+Con decreto di natura non regolamentare del Ministro ((...)) si provvede alla individuazione e alla definizione dei compiti degli uffici dirigenziali di livello non generale del Ministero, ai sensi dell'[articolo 4, comma 4, del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md).
+
+4.
+
+Nell'ambito delle posizioni dirigenziali di livello generale di cui al comma 2 sono previsti, complessivamente, quattro incarichi di livello dirigenziale generale con funzioni ispettive, di consulenza, studio e ricerca, da utilizzarsi per funzioni istituzionali del Ministero, secondo le determinazioni del Ministro all'atto del conferimento dell'incarico.
+
+5.
+
+Nell'ambito del contingente numerico di cui al comma 4, un incarico di livello dirigenziale generale, da conferire ai sensi dell'[articolo 19, commi 4](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md) e [10, del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), e' assegnato al Comitato centrale per l'Albo nazionale degli autotrasportatori e fino a tre incarichi di livello generale, da conferire ai sensi dell'[articolo 19, commi 4](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md) e [10, del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), sono assegnati agli uffici di diretta collaborazione del Ministro anche per lo svolgimento degli incarichi di cui all'articolo 3, commi 4 e 6, del regolamento disciplinante la riorganizzazione dei citati Uffici di diretta collaborazione, ove conferiti.
+
+6.
+
+Al fine di assicurare la necessaria flessibilita' di utilizzo delle risorse umane alle effettive esigenze operative, il Ministro delle infrastrutture e dei trasporti, con proprio decreto, effettua la ripartizione dei contingenti di personale dirigenziale e non dirigenziale nonche' delle famiglie professionali, come determinati dal presente articolo, nelle strutture in cui si articola il Ministero. Detto provvedimento e' tempestivamente comunicato alla Presidenza del Consiglio dei ministri - Ministro per la pubblica amministrazione e al Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato.
+
+### Art. 19. — Verifica dell'organizzazione del Ministero
+
+1.
+
+Ogni due anni l'organizzazione del Ministero e' sottoposta a verifica, ai sensi dell'[articolo 4, comma 5, del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), al fine di accertarne la funzionalita' e l'efficienza.
+
+Note all'art. 19: 
+ - Si riporta l'[art. 5 del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) (Riforma dell'organizzazione del Governo, a norma dell'[art. 11 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md).): 
+ «Art. 5 (I dipartimenti). - 1. I dipartimenti sono costituiti per assicurare l'esercizio organico ed integrato delle funzioni del ministero. Ai dipartimenti sono attribuiti compiti finali concernenti grandi aree di materie omogenee e i relativi compiti strumentali, ivi compresi quelli di indirizzo e coordinamento delle unita' di gestione in cui si articolano i dipartimenti stessi, quelli di organizzazione e quelli di gestione delle risorse strumentali, finanziarie ed umane ad essi attribuite. 
+ 2. L'incarico di Capo del Dipartimento viene conferito in conformita' alle disposizioni di cui all'[art. 19 del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md) e successive modificazioni ed integrazioni. 
+ 3. Il Capo del Dipartimento svolge compiti di coordinamento, direzione e controllo degli uffici di livello dirigenziale generale compresi nel dipartimento stesso, al fine di assicurare la continuita' delle funzioni dell'amministrazione ed e' responsabile dei risultati complessivamente raggiunti dagli uffici da esso dipendenti, in attuazione degli indirizzi del ministro. 
+ 4. Dal Capo del Dipartimento dipendono funzionalmente gli uffici di livello dirigenziale generale compresi nel dipartimento stesso. 
+ 5. Nell'esercizio dei poteri di cui ai precedenti commi 3 e 4, in particolare, il Capo del Dipartimento: 
+ a) determina i programmi per dare attuazione agli indirizzi del ministro; 
+ b) alloca le risorse umane, finanziarie e strumentali disponibili per l'attuazione dei programmi secondo principi di economicita', efficacia ed efficienza, nonche' di rispondenza del servizio al pubblico interesse; 
+ c) svolge funzioni di propulsione, di coordinamento, di controllo e di vigilanza nei confronti degli uffici del dipartimento; 
+ d) promuove e mantiene relazioni con gli organi competenti dell'Unione europea per la trattazione di questioni e problemi attinenti al proprio dipartimento; 
+ e) adotta gli atti per l'utilizzazione ottimale del personale secondo criteri di efficienza, disponendo gli opportuni trasferimenti di personale all'interno del dipartimento; 
+ f) e' sentito dal ministro ai fini dell'esercizio del potere di proposta per il conferimento degli incarichi di direzione degli uffici di livello dirigenziale generale, ai sensi dell'[art. 19, comma 4, del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md); 
+ g) puo' proporre al ministro l'adozione dei provvedimenti di revoca degli incarichi di direzione degli uffici di livello dirigenziale generale, ai sensi dell'[art. 19, comma 7, del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md) e, comunque, viene sentito nel relativo procedimento; 
+ h) e' sentito dal ministro per l'esercizio delle attribuzioni a questi conferite dall'[art. 14, comma 1, del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md). 
+ 6. Con le modalita' di cui all'[art. 16, comma 5, del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), possono essere definiti ulteriori compiti del Capo del Dipartimento.».
+
+### Art. 20. — Disposizioni transitorie, finali e abrogazioni
+
+1.
+
+Fino all'adozione del decreto di cui all'articolo 18, comma 3, ciascun ufficio di livello dirigenziale generale opera avvalendosi dei preesistenti uffici dirigenziali di livello non generale in conformita' alle competenze del rispettivo settore di attribuzione.
+
+2.
+
+Fino all'adozione del decreto di cui all'articolo 18, comma 3, le attuali strutture periferiche del Ministero assicurano lo svolgimento delle attivita' di competenza avvalendosi dei preesistenti uffici dirigenziali di livello non generale.
+
+3.
+
+Il [decreto del Presidente del Consiglio dei ministri 23 dicembre 2020, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2020-12-23;190), e il [decreto del Presidente del Consiglio dei ministri 24 giugno 2021, n. 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2021-06-24;115), sono abrogati a decorrere dalla data di entrata in vigore del presente regolamento.
+
+4.
+
+Ferma l'applicazione dell'articolo 2, comma 8, primo periodo, del [decreto-legge 31 agosto 2013, n. 101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-08-31;101), convertito, con modificazioni, dalla [legge 30 ottobre 2013, n. 125](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20agosto%202013%20n.%20101%20recante%20disposizioni%20urgenti%20per%20il%20perseguimento%20di%20obiettivi%20di%20razionalizzazione%20nelle%20pubbliche%20amminist_a2a2cc368cbd.md), con riferimento alle strutture riorganizzate per effetto del presente regolamento, la decadenza dagli incarichi di livello generale e non generale relativi a dette strutture si verifica con la conclusione delle procedure di conferimento dei nuovi incarichi, rispettivamente di livello generale e non generale, ai sensi dell'[articolo 19 del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md).
+
+5.
+
+Dall'attuazione del presente regolamento non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
+
+Note all'[art. 20: 
+ - Il decreto del Presidente del Consiglio dei ministri 23 dicembre 2020, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2020-12-23;190#art_20) (Regolamento recante l'organizzazione del Ministero delle infrastrutture e dei trasporti), si veda nelle note alle premesse. 
+ - Il [decreto del Presidente del Consiglio dei ministri 24 giugno 2021, n. 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2021-06-24;115) (Regolamento recante modifiche ed integrazioni al [decreto del Presidente del Consiglio dei ministri 23 dicembre 2020, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2020-12-23;190), concernente il regolamento di organizzazione del Ministero delle infrastrutture e dei trasporti.) e' pubblicato nella Gazzetta Ufficiale 11 agosto 2021, n. 191. 
+ - Si riporta l'[art. 2, comma 8, del decreto-legge 31 agosto 2013, n. 101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-08-31;101#art_2-com8) (Disposizioni urgenti per il perseguimento di obiettivi di razionalizzazione nelle pubbliche amministrazioni.), convertito, con modificazioni, dalla [legge 30 ottobre 2013, n. 125](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20agosto%202013%20n.%20101%20recante%20disposizioni%20urgenti%20per%20il%20perseguimento%20di%20obiettivi%20di%20razionalizzazione%20nelle%20pubbliche%20amminist_a2a2cc368cbd.md). 
+ «Art. 2 (Disposizioni in tema di accesso nelle pubbliche amministrazioni, di assorbimento delle eccedenze e potenziamento della revisione della spesa anche in materia di personale). - (Omissis.). 
+ 8. Le amministrazioni di cui all'[art. 2, comma 1, del decreto-legge 6 luglio 2012, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95#art_2-com1), convertito, con modificazioni, dalla [legge 7 agosto 2012, n. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md), all'esito degli interventi di riorganizzazione di cui al comma 7, provvedono al conferimento degli incarichi dirigenziali per le strutture riorganizzate seguendo le modalita', le procedure ed i criteri previsti dall'[art. 19 del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md). Sono salvaguardati, fino alla scadenza dei relativi contratti, i rapporti di lavoro in essere alla data di entrata in vigore del [decreto-legge 6 luglio 2012, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95), convertito, con modificazioni, dalla [legge 7 agosto 2012, n. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md) mediante conferimento di incarico dirigenziale secondo la disciplina del presente comma. Per un numero corrispondente alle unita' di personale risultante in soprannumero all'esito delle procedure di conferimento degli incarichi dirigenziali, e' costituito, in via transitoria e non oltre il 31 dicembre 2014, un contingente ad esaurimento di incarichi dirigenziali da conferire ai sensi dell'[art. 19, comma 10, del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), fermo restando l'obbligo di rispettare le percentuali previste dall'[art. 19, commi 5-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165#art_19-com5bis) e [6, del decreto legislativo n. 165 del 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165#art_19-com6), calcolate sulla dotazione organica ridotta.
+ Il contingente di tali incarichi, che non puo' superare il valore degli effettivi soprannumeri, si riduce con le cessazioni dal servizio per qualsiasi causa dei dirigenti di ruolo, comprese le cessazioni in applicazione dell'[art. 2, comma 11, lettera a), del decreto-legge 6 luglio 2012, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95#art_2-com11-leta), convertito, con modificazioni, dalla [legge 7 agosto 2012, n. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md), nonche' con la scadenza degli incarichi dirigenziali non rinnovati del personale non appartenente ai ruoli dirigenziali dell'amministrazione. Per le amministrazioni di cui al presente comma e' fatta salva la possibilita', per esigenze funzionali strettamente necessarie e adeguatamente motivate, di proseguire gli incarichi conferiti a dirigenti di seconda fascia ai sensi del [comma 4 dell'art. 19 del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), fino alla data di adozione dei regolamenti organizzativi e comunque non oltre il 31 dicembre 2013.
+ Nelle more dei processi di riorganizzazione, per il conferimento degli incarichi dirigenziali di cui all'[art. 19, comma 3, del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), qualora l'applicazione percentuale per gli incarichi previsti dal comma 6 del medesimo art. 19 determini come risultato un numero con decimali, si procedera' all'arrotondamento all'unita' superiore. 
+ (Omissis.)». 
+ - Per l'[art. 19 del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md) (Norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche), si veda nelle note all'art. 6.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 30 ottobre 2023
+Roma, 30 ottobre 2023
 
-Il Presidente del Consiglio dei ministri Meloni Il Ministro delle infrastrutture e dei trasporti Salvini Il Ministro per la pubblica amministrazione Zangrillo Il Ministro dell'economia e delle finanze Giorgetti
-
-Visto, il Guardasigilli: Nordio Registrato alla Corte dei conti il 30 novembre 2023 Ufficio di controllo sugli atti del Ministero delle infrastrutture e dei trasporti e del Ministero dell'ambiente e della sicurezza
-
-energetica, n. 3971
-
-Note all'[art. 20:   
-- Il decreto del Presidente del Consiglio dei ministri 23 dicembre 2020, n. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2020-12-23;190~art20) (Regolamento recante l'organizzazione del Ministero delle infrastrutture e dei trasporti), si veda nelle note alle premesse.   
-- Il [decreto del Presidente del Consiglio dei ministri 24 giugno 2021, n. 115](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2021-06-24;115) (Regolamento recante modifiche ed integrazioni al [decreto del Presidente del Consiglio dei ministri 23 dicembre 2020, n. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2020-12-23;190), concernente il regolamento di organizzazione del Ministero delle infrastrutture e dei trasporti.) e' pubblicato nella Gazzetta Ufficiale 11 agosto 2021, n. 191.   
-- Si riporta l'[art. 2, comma 8, del decreto-legge 31 agosto 2013, n. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-08-31;101~art2-com8) (Disposizioni urgenti per il perseguimento di obiettivi di razionalizzazione nelle pubbliche amministrazioni.), convertito, con modificazioni, dalla [legge 30 ottobre 2013, n. 125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-10-30;125).   
-«Art. 2 (Disposizioni in tema di accesso nelle pubbliche amministrazioni, di assorbimento delle eccedenze e potenziamento della revisione della spesa anche in materia di personale). - (Omissis.).   
-8. Le amministrazioni di cui all'[art. 2, comma 1, del decreto-legge 6 luglio 2012, n. 95](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95~art2-com1), convertito, con modificazioni, dalla [legge 7 agosto 2012, n. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135), all'esito degli interventi di riorganizzazione di cui al comma 7, provvedono al conferimento degli incarichi dirigenziali per le strutture riorganizzate seguendo le modalita', le procedure ed i criteri previsti dall'[art. 19 del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art19). Sono salvaguardati, fino alla scadenza dei relativi contratti, i rapporti di lavoro in essere alla data di entrata in vigore del [decreto-legge 6 luglio 2012, n. 95](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95), convertito, con modificazioni, dalla [legge 7 agosto 2012, n. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135) mediante conferimento di incarico dirigenziale secondo la disciplina del presente comma. Per un numero corrispondente alle unita' di personale risultante in soprannumero all'esito delle procedure di conferimento degli incarichi dirigenziali, e' costituito, in via transitoria e non oltre il 31 dicembre 2014, un contingente ad esaurimento di incarichi dirigenziali da conferire ai sensi dell'[art. 19, comma 10, del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art19-com10), fermo restando l'obbligo di rispettare le percentuali previste dall'[art. 19, commi 5-bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165~art19-com5bis) e [6, del decreto legislativo n. 165 del 2001](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165~art19-com6), calcolate sulla dotazione organica ridotta.  
-Il contingente di tali incarichi, che non puo' superare il valore degli effettivi soprannumeri, si riduce con le cessazioni dal servizio per qualsiasi causa dei dirigenti di ruolo, comprese le cessazioni in applicazione dell'[art. 2, comma 11, lettera a), del decreto-legge 6 luglio 2012, n. 95](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95~art2-com11-leta), convertito, con modificazioni, dalla [legge 7 agosto 2012, n. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135), nonche' con la scadenza degli incarichi dirigenziali non rinnovati del personale non appartenente ai ruoli dirigenziali dell'amministrazione. Per le amministrazioni di cui al presente comma e' fatta salva la possibilita', per esigenze funzionali strettamente necessarie e adeguatamente motivate, di proseguire gli incarichi conferiti a dirigenti di seconda fascia ai sensi del [comma 4 dell'art. 19 del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art19-com4), fino alla data di adozione dei regolamenti organizzativi e comunque non oltre il 31 dicembre 2013.  
-Nelle more dei processi di riorganizzazione, per il conferimento degli incarichi dirigenziali di cui all'[art. 19, comma 3, del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art19-com3), qualora l'applicazione percentuale per gli incarichi previsti dal comma 6 del medesimo art. 19 determini come risultato un numero con decimali, si procedera' all'arrotondamento all'unita' superiore.   
-(Omissis.)».   
-- Per l'[art. 19 del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art19) (Norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche), si veda nelle note all'art. 6.
-
-Tabella A
-
-((Tabella A   
-Ministero delle infrastrutture e dei trasporti - Dotazione organica   
-  
-
-|  |  |
-| --- | --- |
-| Dirigenti di livello generale | 43\* |
-| Dirigenti di livello non generale | 218\*\* |
-| Totali dirigenti | 261 |
-| Area Elevate Professionalita' | 110 |
-| Area Funzionari | 3.699 |
-| Area Assistenti | 3.527 |
-| Area Operatori | 88 |
-| Totale Aree | 7.424 |
-| Totale complessivo | 7.685 |
-
-  
-  
-  
-\*di cui un numero fino a tre per lo svolgimento degli incarichi presso gli Uffici di diretta collaborazione del Ministro ai sensi dell'articolo 3, commi 4 e 6, del relativo regolamento, ove conferiti, e uno presso il Nucleo di cui all'[articolo 6, comma 6-septies, del decreto-legge 7 maggio 2024, n. 60](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2024-05-07;60~art6-com6septies).   
-  
-\*\*di cui un numero non superiore a sette presso gli Uffici di diretta collaborazione del Ministro ai sensi dell'articolo 10, comma 3, del relativo regolamento, uno nell'ambito della Struttura tecnica permanente per la misurazione delle performance, ai sensi dell'articolo 14, comma 2, del medesimo regolamento e tre presso il Nucleo di cui all'[articolo 6, comma 6-septies, del decreto-legge 7 maggio 2024, n. 60](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2024-05-07;60~art6-com6septies).))
+Il Presidente del Consiglio dei ministri Meloni Il Ministro delle infrastrutture e dei trasporti Salvini Il Ministro per la pubblica amministrazione Zangrillo Il Ministro dell'economia e delle finanze Giorgetti Visto, il Guardasigilli: Nordio Registrato alla Corte dei conti il 30 novembre 2023 Ufficio di controllo sugli atti del Ministero delle infrastrutture e dei trasporti e del Ministero dell'ambiente e della sicurezza energetica, n. 3971

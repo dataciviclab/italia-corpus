@@ -1,28 +1,26 @@
-DECRETO 30 giugno 1990 n. 197
-
-
-DECRETO 30 giugno 1990 n. 197
-=============================
-
-Regolamento per la disciplina delle modalita' di uso e di custodia delle matrici dei moduli di mandato di pagamento usati per la corresponsione delle pensioni, assegni ed indennita' spettanti ai mutilati ed invalidi civili, ai ciechi civili e ai sordomuti.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 8/8/1990
+---
+tipo: DECRETO
+numero: 197
+data: 1990-06-30
+titolo: "Regolamento per la disciplina delle modalita' di uso e di custodia delle matrici dei moduli di mandato di pagamento usati per la corresponsione delle pensioni, assegni ed indennita' spettanti ai mutilati ed invalidi civili, ai ciechi civili e ai sordomuti."
+urn: urn:nir:ministero.interno:decreto:1990-06-30;197
+codice_redazionale: 090G0236
+vigente: true
+---
 
 IL MINISTRO DELL'INTERNO
-------------------------
 
 DI CONCERTO CON
 
 IL MINISTRO DEL TESORO
 
-Vista la [legge 18 dicembre 1973, n. 854](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-18;854), concernente modalita' di erogazione degli assegni, delle pensioni ed indennita' di accompagnamento a favore dei sordomuti, dei ciechi civili e dei mutilati ed invalidi civili;
+Vista la [legge 18 dicembre 1973, n. 854](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-18;854), concernente modalita' di erogazione degli assegni, delle pensioni ed indennita' di accompagnamento a favore dei sordomuti, dei ciechi civili e dei mutilati ed invalidi civili;
 
-Vista la [legge 29 maggio 1989, n. 211](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-29;211), concernente modifiche ed integrazioni alla [legge n. 854 del 18 dicembre 1973](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-18;854);
+Vista la [legge 29 maggio 1989, n. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-29;211), concernente modifiche ed integrazioni alla [legge n. 854 del 18 dicembre 1973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-18;854);
 
-Considerato che l'[art. 3, comma 4, della legge 29 maggio 1989, n. 211](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-29;211~art3-com4), prevede l'adozione di un proprio decreto, di concerto con il Ministro del tesoro, inteso a stabilire le modalita' necessarie per l'uso e la custodia delle matrici recanti le firme a stampa dei funzionari di cui al comma 2 del succitato art. 3;
+Considerato che l'[art. 3, comma 4, della legge 29 maggio 1989, n. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-29;211#art_3-com4), prevede l'adozione di un proprio decreto, di concerto con il Ministro del tesoro, inteso a stabilire le modalita' necessarie per l'uso e la custodia delle matrici recanti le firme a stampa dei funzionari di cui al comma 2 del succitato art. 3;
 
-Vista la [legge 23 agosto 1988, n. 400, art. 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17);
+Vista la [legge 23 agosto 1988, n. 400, art. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17);
 
 Udito il parere del Consiglio di Stato reso all'adunanza generale del 24 maggio 1990;
 
@@ -30,81 +28,64 @@ Vista la comunicazione fatta al Presidente del Consiglio dei Ministri;
 
 A D O T T A il seguente regolamento:
 
-Art. 1
-------
+## Art. 1.
 
-1. Le firme dei prefetti, dei dirigenti di ragioneria delle prefetture e dei funzionari che li sostituiscono in caso di assenza, malattia o impedimento nonche' i timbri delle rispettive prefetture, apposti sulle matrici dei moduli di mandato di pagamento usati per la corresponsione delle pensioni, assegni ed indennita' spettanti ai mutilati ed invalidi civili, ai ciechi civili e ai sordomuti, sono riportati su
+1.
 
-((supporti magnetici))
+Le firme dei prefetti, dei dirigenti di ragioneria delle prefetture e dei funzionari che li sostituiscono in caso di assenza, malattia o impedimento nonche' i timbri delle rispettive prefetture, apposti sulle matrici dei moduli di mandato di pagamento usati per la corresponsione delle pensioni, assegni ed indennita' spettanti ai mutilati ed invalidi civili, ai ciechi civili e ai sordomuti, sono riportati su ((supporti magnetici)), in due esemplari, da utilizzare per la sottoscrizione, con procedimento automatizzato, dei titoli di pagamento di cui all'[art. 5, primo comma, della legge 18 dicembre 1973, n. 854](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-18;854#art_5-com1).
 
-, in due esemplari, da utilizzare per la sottoscrizione, con procedimento automatizzato, dei titoli di pagamento di cui all'[art. 5, primo comma, della legge 18 dicembre 1973, n. 854](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-18;854~art5-com1).
+## Art. 2.
 
-Art. 2
-------
+1.
 
-1. Un primo esemplare di ognuno dei
+Un primo esemplare di ognuno dei ((supporti magnetici)) di cui all'articolo precedente e' custodito nella cassaforte della divisione "Elaborazione dati e teletrasmissioni" del servizio informatica della Direzione centrale per i servizi elettorali del Ministero dell'interno, unitamente al relativo registro inventario.
 
-((supporti magnetici))
+2.
 
-di cui all'articolo precedente e' custodito nella cassaforte della divisione "Elaborazione dati e teletrasmissioni" del servizio informatica della Direzione centrale per i servizi elettorali del Ministero dell'interno, unitamente al relativo registro inventario.
+Ogni variazione nella consistenza ed ogni sostituzione del materiale predetto per cambiamento dei funzionari responsabili, per usura o per altra causa sono fatte constare con apposito verbale redatto sul registro stesso.
 
-2. Ogni variazione nella consistenza ed ogni sostituzione del materiale predetto per cambiamento dei funzionari responsabili, per usura o per altra causa sono fatte constare con apposito verbale redatto sul registro stesso.
+## Art. 3.
 
-Art. 3
-------
+1.
 
-1. Le chiavi della cassaforte di cui al primo comma dell'art. 2 del presente decreto sono tenute dal direttore della divisione "Elaborazione dati e teletrasmissioni" di cui allo stesso art. 2 o, in caso di assenza, malattia o impedimento, dal suo sostituto.
+Le chiavi della cassaforte di cui al primo comma dell'art. 2 del presente decreto sono tenute dal direttore della divisione "Elaborazione dati e teletrasmissioni" di cui allo stesso art. 2 o, in caso di assenza, malattia o impedimento, dal suo sostituto.
 
-2. I duplicati delle chiavi della cassaforte di cui al precedente comma, i secondi esemplari dei
+2.
 
-((supporti magnetici))
+I duplicati delle chiavi della cassaforte di cui al precedente comma, i secondi esemplari dei ((supporti magnetici)) di cui all'art. 1, e matrici dei moduli di mandato di pagamento menzionati nello stesso art. 1, recanti le firme dei funzionari e i timbri delle prefetture, sono custoditi, in buste sigillate, in altra cassaforte della divisione "Elaborazione dati e teletrasmissioni" di cui all'art. 2.
 
-di cui all'art. 1, e matrici dei moduli di mandato di pagamento menzionati nello stesso art. 1, recanti le firme dei funzionari e i timbri delle prefetture, sono custoditi, in buste sigillate, in altra cassaforte della divisione "Elaborazione dati e teletrasmissioni" di cui all'art. 2.
+## Art. 4.
 
-Art. 4
-------
+1.
 
-1. Il direttore della divisione "Elaborazione dati e teletrasmissioni" di cui all'art. 2 ed il suo sostituto esercitano i necessari controlli ai fini della regolare apposizione automatica delle firme sui titoli di pagamento.
+Il direttore della divisione "Elaborazione dati e teletrasmissioni" di cui all'art. 2 ed il suo sostituto esercitano i necessari controlli ai fini della regolare apposizione automatica delle firme sui titoli di pagamento.
 
-Art. 5
-------
+## Art. 5.
 
-1. I fac-simile delle firme dei prefetti, dei dirigenti di ragioneria delle prefetture, dei loro sostituti, nonche' dei timbri delle rispettive prefetture, ottenuti mediante riproduzione
+1.
 
-((in base a supporti magnetici))
+I fac-simile delle firme dei prefetti, dei dirigenti di ragioneria delle prefetture, dei loro sostituti, nonche' dei timbri delle rispettive prefetture, ottenuti mediante riproduzione ((in base a supporti magnetici)) su moduli di mandato di pagamento di cui all'art. 1, sono trasmessi alle competenti ragionerie provinciali delle Stato.
 
-su moduli di mandato di pagamento di cui all'art. 1, sono trasmessi alle competenti ragionerie provinciali delle Stato.
+## Art. 6.
 
-Art. 6
-------
+1.
 
-1. Il
+Il ((supporto magnetico )) delle firme e del timbro di cui all'art. 1, prescelto di volta in volta, dovra' essere prelevato ed utilizzato solo al momento della stampa dei mandati di pagamento di pensioni, assegni ed indennita' in carico ad ogni singola prefettura.
 
-((supporto magnetico ))
+2.
 
-delle firme e del timbro di cui all'art. 1, prescelto di volta in volta, dovra' essere prelevato ed utilizzato solo al momento della stampa dei mandati di pagamento di pensioni, assegni ed indennita' in carico ad ogni singola prefettura.
+Al termine della stampa dei mandati di pagamento di cui al precedente comma, il ((supporto magnetico)) medesimo dovra' essere reinserito nella cassaforte.
 
-2. Al termine della stampa dei mandati di pagamento di cui al precedente comma, il
+3.
 
-((supporto magnetico))
+Di ogni estrazione ed introduzione del ((supporto magnetico)) dovra' prendersi nota in apposito registro verbale; dette operazioni vanno eseguite con il controllo diretto del direttore della divisione "Eleborazione dati e teletrasmissioni" di cui all'art. 2 o del sostituto ed in caso di loro assenza o impedimento dell'incaricato delegato da entrambi, con atto da trasmettere in copia alla Direzione centrale per i servizi elettorali.
 
-medesimo dovra' essere reinserito nella cassaforte.
+4.
 
-3. Di ogni estrazione ed introduzione del
-
-((supporto magnetico))
-
-dovra' prendersi nota in apposito registro verbale; dette operazioni vanno eseguite con il controllo diretto del direttore della divisione "Eleborazione dati e teletrasmissioni" di cui all'art. 2 o del sostituto ed in caso di loro assenza o impedimento dell'incaricato delegato da entrambi, con atto da trasmettere in copia alla Direzione centrale per i servizi elettorali.
-
-4. La delega per l'espletamento delle operazioni di cui sopra non potra' essere rilasciata ad impiegati addetti agli apparati di elaborazione.
+La delega per l'espletamento delle operazioni di cui sopra non potra' essere rilasciata ad impiegati addetti agli apparati di elaborazione.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 30 giugno 1990
+Roma, 30 giugno 1990
 
-Il Ministro dell'interno GAVA Il Ministro del tesoro CARLI
-
-Visto, il Guardasigilli: VASSALLI Registrato alla Corte dei conti il 14 luglio 1990
-
-Registro n. 43 Interno, foglio n. 214
+Il Ministro dell'interno GAVA Il Ministro del tesoro CARLI Visto, il Guardasigilli: VASSALLI Registrato alla Corte dei conti il 14 luglio 1990 Registro n. 43 Interno, foglio n. 214

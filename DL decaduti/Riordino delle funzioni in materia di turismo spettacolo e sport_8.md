@@ -1,87 +1,64 @@
-DECRETO-LEGGE 30 settembre 1994 n. 562
+---
+tipo: DECRETO-LEGGE
+numero: 562
+data: 1994-09-30
+titolo: "Riordino delle funzioni in materia di turismo, spettacolo e sport."
+urn: urn:nir:stato:decreto.legge:1994-09-30;562
+codice_redazionale: 094G0604
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 30 settembre 1994 n. 562
-======================================
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 30 MAGGIO 1995, N. 203](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20marzo%201995%20n.%2097%20recante%20riordino%20delle%20funzioni%20in%20materia%20di%20turismo%20spettacolo%20e%20sport.md).
 
-Riordino delle funzioni in materia di turismo, spettacolo e sport.
-------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 1/10/1994.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 30 MAGGIO 1995, N. 203](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20marzo%201995%20n.%2097%20recante%20riordino%20delle%20funzioni%20in%20materia%20di%20turismo%20spettacolo%20e%20sport.md).
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 30 MAGGIO 1995, N. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-30;203).   
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 30 MAGGIO 1995, N. 203](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20marzo%201995%20n.%2097%20recante%20riordino%20delle%20funzioni%20in%20materia%20di%20turismo%20spettacolo%20e%20sport.md).
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 30 MAGGIO 1995, N. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-30;203).   
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 30 MAGGIO 1995, N. 203](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20marzo%201995%20n.%2097%20recante%20riordino%20delle%20funzioni%20in%20materia%20di%20turismo%20spettacolo%20e%20sport.md).
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 30 MAGGIO 1995, N. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-30;203).   
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 30 MAGGIO 1995, N. 203](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20marzo%201995%20n.%2097%20recante%20riordino%20delle%20funzioni%20in%20materia%20di%20turismo%20spettacolo%20e%20sport.md).
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 30 MAGGIO 1995, N. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-30;203).   
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 30 MAGGIO 1995, N. 203](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20marzo%201995%20n.%2097%20recante%20riordino%20delle%20funzioni%20in%20materia%20di%20turismo%20spettacolo%20e%20sport.md).
 
-Art. 5
-------
+## Art. 7.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 30 MAGGIO 1995, N. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-30;203).   
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 30 MAGGIO 1995, N. 203](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20marzo%201995%20n.%2097%20recante%20riordino%20delle%20funzioni%20in%20materia%20di%20turismo%20spettacolo%20e%20sport.md).
 
-Art. 6
-------
+## Art. 8.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 30 MAGGIO 1995, N. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-30;203).   
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 30 MAGGIO 1995, N. 203](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20marzo%201995%20n.%2097%20recante%20riordino%20delle%20funzioni%20in%20materia%20di%20turismo%20spettacolo%20e%20sport.md).
 
-Art. 7
-------
+## Art. 9.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 30 MAGGIO 1995, N. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-30;203).   
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 30 MAGGIO 1995, N. 203](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20marzo%201995%20n.%2097%20recante%20riordino%20delle%20funzioni%20in%20materia%20di%20turismo%20spettacolo%20e%20sport.md).
 
-Art. 8
-------
+## Art. 10.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 30 MAGGIO 1995, N. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-30;203).   
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 30 MAGGIO 1995, N. 203](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20marzo%201995%20n.%2097%20recante%20riordino%20delle%20funzioni%20in%20materia%20di%20turismo%20spettacolo%20e%20sport.md).
 
-Art. 9
-------
+## Art. 11.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 30 MAGGIO 1995, N. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-30;203).   
-
-Art. 10
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 30 MAGGIO 1995, N. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-30;203).   
-
-Art. 11
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 30 MAGGIO 1995, N. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-30;203).   
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 30 MAGGIO 1995, N. 203](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20marzo%201995%20n.%2097%20recante%20riordino%20delle%20funzioni%20in%20materia%20di%20turismo%20spettacolo%20e%20sport.md).

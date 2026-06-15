@@ -1,22 +1,20 @@
-DECRETO 04 febbraio 2016 n. 23
-
-
-DECRETO 04 febbraio 2016 n. 23
-==============================
-
-Regolamento recante norme di attuazione dell'articolo 4, comma 2, della legge 31 dicembre 2012, n. 247, per l'individuazione delle categorie di liberi professionisti che possono partecipare alle associazioni tra avvocati. (16G00031)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/03/2016
+---
+tipo: DECRETO
+numero: 23
+data: 2016-02-04
+titolo: "Regolamento recante norme di attuazione dell'articolo 4, comma 2, della legge 31 dicembre 2012, n. 247, per l'individuazione delle categorie di liberi professionisti che possono partecipare alle associazioni tra avvocati. (16G00031)"
+urn: urn:nir:ministero.giustizia:decreto:2016-02-04;23
+codice_redazionale: 16G00031
+vigente: true
+---
 
 IL MINISTRO DELLA GIUSTIZIA
----------------------------
 
-Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3);
+Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-Visto l'[articolo 4, comma 2, della legge 31 dicembre 2012, n. 247](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-31;247~art4-com2);
+Visto l'[articolo 4, comma 2, della legge 31 dicembre 2012, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-31;247#art_4-com2);
 
-Visto l'[articolo 1, comma 3, della legge 31 dicembre 2012, n. 247](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-31;247~art1-com3);
+Visto l'[articolo 1, comma 3, della legge 31 dicembre 2012, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-31;247#art_1-com3);
 
 Sentito il Consiglio nazionale forense che si e' espresso con parere in data 30 luglio 2015;
 
@@ -24,92 +22,85 @@ Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gl
 
 Acquisiti i pareri della competenti Commissioni della Camera dei deputati e del Senato della Repubblica;
 
-Vista la comunicazione al Presidente del Consiglio dei ministri, a norma del citato [articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3), effettuata con nota del 21 dicembre 2015;
+Vista la comunicazione al Presidente del Consiglio dei ministri, a norma del citato [articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), effettuata con nota del 21 dicembre 2015;
 
-Adotta
-------
+Adotta il seguente regolamento:
 
-il seguente regolamento:
+## Art. 1. — Oggetto e definizioni
 
-Art. 1
-------
+1.
 
-Oggetto e definizioni
+Il presente regolamento individua, ai sensi dell'[articolo 4, comma 2, legge 31 dicembre 2012, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-31;247#art_4-com2), le categorie di liberi professionisti che possono partecipare alle associazioni tra avvocati.
 
-1. Il presente regolamento individua, ai sensi dell'[articolo 4, comma 2, legge 31 dicembre 2012, n. 247](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-31;247~art4-com2), le categorie di liberi professionisti che possono partecipare alle associazioni tra avvocati.
+2.
 
-2. Ai fini del presente regolamento:
+Ai fini del presente regolamento:
+                        a)
+                            per «legge professionale» si intende la [legge 31 dicembre 2012, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-31;247), recante «Nuova disciplina dell'ordinamento della professione forense»;
+                        b)
+                            per «associazioni» si intendono le associazioni costituite o partecipate da avvocati con altri liberi professionisti, individuati ai sensi del presente regolamento.
 
-a) per «legge professionale» si intende la [legge 31 dicembre 2012, n. 247](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-31;247), recante «Nuova disciplina dell'ordinamento della professione forense»;
+Avvertenza: 
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ Note alle premesse: 
+ - Si riporta il testo dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri): 
+ «Art. 17 (Regolamenti). - 1.-2. (Omissis). 
+ 3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.
+ I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei ministri prima della loro emanazione. 
+ 4.-4-ter. (Omissis).». 
+ - Si riporta il testo degli articoli 1, comma 3, e 4 della [legge 31 dicembre 2012, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-31;247) (Nuova disciplina dell'ordinamento della professione forense): 
+ «Art. 1 (Disciplina dell'ordinamento forense). - 1.-2. (Omissis). 
+ 3. All'attuazione della presente legge si provvede mediante regolamenti adottati con decreto del Ministro della giustizia, ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), entro due anni dalla data della sua entrata in vigore, previo parere del Consiglio nazionale forense (CNF) e, per le sole materie di interesse di questa, della Cassa nazionale di previdenza e assistenza forense. Il CNF esprime i suddetti pareri entro novanta giorni dalla richiesta, sentiti i consigli dell'ordine territoriali e le associazioni forensi che siano costituite da almeno cinque anni e che siano state individuate come maggiormente rappresentative dal CNF. Gli schemi dei regolamenti sono trasmessi alle Camere, ciascuno corredato di relazione tecnica, che evidenzi gli effetti delle disposizioni recate, e dei pareri di cui al primo periodo, ove gli stessi risultino essere stati tempestivamente comunicati, perche' su di essi sia espresso, nel termine di sessanta giorni dalla richiesta, il parere delle Commissioni parlamentari competenti. 
+ 4.-6. (Omissis).». 
+ «Art. 4 (Associazioni tra avvocati e multidisciplinari). - 1. La professione forense puo' essere esercitata individualmente o con la partecipazione ad associazioni tra avvocati. L'incarico professionale e' tuttavia sempre conferito all'avvocato in via personale. La partecipazione ad un'associazione tra avvocati non puo' pregiudicare l'autonomia, la liberta' e l'indipendenza intellettuale o di giudizio dell'avvocato nello svolgimento dell'incarico che gli e' conferito. E' nullo ogni patto contrario. 
+ 2. Allo scopo di assicurare al cliente prestazioni anche a carattere multidisciplinare, possono partecipare alle associazioni di cui al comma 1, oltre agli iscritti all'albo forense, anche altri liberi professionisti appartenenti alle categorie individuate con regolamento del Ministro della giustizia ai sensi dell'art. 1, commi 3 e seguenti. La professione forense puo' essere altresi' esercitata da un avvocato che partecipa ad associazioni costituite fra altri liberi professionisti. 
+ 3. Possono essere soci delle associazioni tra avvocati solo coloro che sono iscritti al relativo albo. Le associazioni tra avvocati sono iscritte in un elenco tenuto presso il consiglio dell'ordine nel cui circondario hanno sede, ai sensi dell'art. 15, comma 1, lettera l). La sede dell'associazione e' fissata nel circondario ove si trova il centro principale degli affari. Gli associati hanno domicilio professionale nella sede della associazione.
+ L'attivita' professionale svolta dagli associati da' luogo agli obblighi e ai diritti previsti dalle disposizioni in materia previdenziale. 
+ 4. L'avvocato puo' essere associato ad una sola associazione. 
+ 5. Le associazioni tra professionisti possono indicare l'esercizio di attivita' proprie della professione forense fra quelle previste nel proprio oggetto sociale, oltre che in qualsiasi comunicazione a terzi, solo se tra gli associati vi e' almeno un avvocato iscritto all'albo. 
+ 6. La violazione di quanto previsto ai commi 4 e 5 costituisce illecito disciplinare. 
+ 7. I redditi delle associazioni tra avvocati sono determinati secondo i criteri di cassa, come per i professionisti che esercitano la professione in modo individuale. 
+ 8. Gli avvocati e le associazioni di cui al presente articolo possono stipulare fra loro contratti di associazione in partecipazione ai sensi degli [articoli 2549 e seguenti del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2549). 
+ 9. L'associato e' escluso se cancellato o sospeso dall'albo per un periodo non inferiore ad un anno con provvedimento disciplinare definitivo. Puo' essere escluso per effetto di quanto previsto dall'[art. 2286 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2286). 
+ 10. Le associazioni che hanno ad oggetto esclusivamente lo svolgimento di attivita' professionale non sono assoggettate alle procedure fallimentari e concorsuali.». 
+ 
+ Note all'art. 1: 
+ - Per il testo dell'art. 4 della citata [legge n. 247 del 2012](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012;247), si veda nelle note alle premesse.
 
-b) per «associazioni» si intendono le associazioni costituite o partecipate da avvocati con altri liberi professionisti, individuati ai sensi del presente regolamento.
+## Art. 2. — Individuazione delle categorie professionali
 
-Avvertenza:   
-Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.   
-Note alle premesse:   
-- Si riporta il testo dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri):   
-«Art. 17 (Regolamenti). - 1.-2. (Omissis).   
-3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.  
-I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei ministri prima della loro emanazione.   
-4.-4-ter. (Omissis).».   
-- Si riporta il testo degli articoli 1, comma 3, e 4 della [legge 31 dicembre 2012, n. 247](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-31;247) (Nuova disciplina dell'ordinamento della professione forense):   
-«Art. 1 (Disciplina dell'ordinamento forense). - 1.-2. (Omissis).   
-3. All'attuazione della presente legge si provvede mediante regolamenti adottati con decreto del Ministro della giustizia, ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3), entro due anni dalla data della sua entrata in vigore, previo parere del Consiglio nazionale forense (CNF) e, per le sole materie di interesse di questa, della Cassa nazionale di previdenza e assistenza forense. Il CNF esprime i suddetti pareri entro novanta giorni dalla richiesta, sentiti i consigli dell'ordine territoriali e le associazioni forensi che siano costituite da almeno cinque anni e che siano state individuate come maggiormente rappresentative dal CNF. Gli schemi dei regolamenti sono trasmessi alle Camere, ciascuno corredato di relazione tecnica, che evidenzi gli effetti delle disposizioni recate, e dei pareri di cui al primo periodo, ove gli stessi risultino essere stati tempestivamente comunicati, perche' su di essi sia espresso, nel termine di sessanta giorni dalla richiesta, il parere delle Commissioni parlamentari competenti.   
-4.-6. (Omissis).».   
-«Art. 4 (Associazioni tra avvocati e multidisciplinari). - 1. La professione forense puo' essere esercitata individualmente o con la partecipazione ad associazioni tra avvocati. L'incarico professionale e' tuttavia sempre conferito all'avvocato in via personale. La partecipazione ad un'associazione tra avvocati non puo' pregiudicare l'autonomia, la liberta' e l'indipendenza intellettuale o di giudizio dell'avvocato nello svolgimento dell'incarico che gli e' conferito. E' nullo ogni patto contrario.   
-2. Allo scopo di assicurare al cliente prestazioni anche a carattere multidisciplinare, possono partecipare alle associazioni di cui al comma 1, oltre agli iscritti all'albo forense, anche altri liberi professionisti appartenenti alle categorie individuate con regolamento del Ministro della giustizia ai sensi dell'art. 1, commi 3 e seguenti. La professione forense puo' essere altresi' esercitata da un avvocato che partecipa ad associazioni costituite fra altri liberi professionisti.   
-3. Possono essere soci delle associazioni tra avvocati solo coloro che sono iscritti al relativo albo. Le associazioni tra avvocati sono iscritte in un elenco tenuto presso il consiglio dell'ordine nel cui circondario hanno sede, ai sensi dell'art. 15, comma 1, lettera l). La sede dell'associazione e' fissata nel circondario ove si trova il centro principale degli affari. Gli associati hanno domicilio professionale nella sede della associazione.  
-L'attivita' professionale svolta dagli associati da' luogo agli obblighi e ai diritti previsti dalle disposizioni in materia previdenziale.   
-4. L'avvocato puo' essere associato ad una sola associazione.   
-5. Le associazioni tra professionisti possono indicare l'esercizio di attivita' proprie della professione forense fra quelle previste nel proprio oggetto sociale, oltre che in qualsiasi comunicazione a terzi, solo se tra gli associati vi e' almeno un avvocato iscritto all'albo.   
-6. La violazione di quanto previsto ai commi 4 e 5 costituisce illecito disciplinare.   
-7. I redditi delle associazioni tra avvocati sono determinati secondo i criteri di cassa, come per i professionisti che esercitano la professione in modo individuale.   
-8. Gli avvocati e le associazioni di cui al presente articolo possono stipulare fra loro contratti di associazione in partecipazione ai sensi degli [articoli 2549 e seguenti del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2549).   
-9. L'associato e' escluso se cancellato o sospeso dall'albo per un periodo non inferiore ad un anno con provvedimento disciplinare definitivo. Puo' essere escluso per effetto di quanto previsto dall'[art. 2286 del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2286).   
-10. Le associazioni che hanno ad oggetto esclusivamente lo svolgimento di attivita' professionale non sono assoggettate alle procedure fallimentari e concorsuali.».   
-  
-Note all'art. 1:   
-- Per il testo dell'art. 4 della citata [legge n. 247 del 2012](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012;247), si veda nelle note alle premesse.
+1.
 
-Art. 2
-------
+I liberi professionisti non iscritti nell'albo forense che partecipano ad una associazione multidisciplinare devono appartenere alle seguenti categorie organizzate in ordini e collegi professionali: 
+ ordine dei dottori agronomi e dottori forestali; 
+ ordine degli architetti, pianificatori, paesaggisti e conservatori; 
+ ordine degli assistenti sociali; 
+ ordine degli attuari; 
+ ordine nazionale dei biologi; 
+ ordine dei chimici; 
+ ordine dei dottori commercialisti e degli esperti contabili; 
+ ordine dei geologi; 
+ ordine degli ingegneri; 
+ ordine dei tecnologi alimentari; 
+ ordine dei consulenti del lavoro; 
+ ordine dei medici chirurghi e odontoiatri; 
+ ordine dei medici veterinari; 
+ ordine degli psicologi; 
+ ordine degli spedizionieri doganali; 
+ collegio dei periti agrari e dei periti agrari laureati; 
+ collegio degli agrotecnici e agrotecnici laureati; 
+ collegio dei periti industriali e dei periti industriali laureati;  collegio dei geometri e geometri laureati.
 
-Individuazione delle categorie professionali
-
-1. I liberi professionisti non iscritti nell'albo forense che partecipano ad una associazione multidisciplinare devono appartenere alle seguenti categorie organizzate in ordini e collegi professionali:   
-ordine dei dottori agronomi e dottori forestali;   
-ordine degli architetti, pianificatori, paesaggisti e conservatori;   
-ordine degli assistenti sociali;   
-ordine degli attuari;   
-ordine nazionale dei biologi;   
-ordine dei chimici;   
-ordine dei dottori commercialisti e degli esperti contabili;   
-ordine dei geologi;   
-ordine degli ingegneri;   
-ordine dei tecnologi alimentari;   
-ordine dei consulenti del lavoro;   
-ordine dei medici chirurghi e odontoiatri;   
-ordine dei medici veterinari;   
-ordine degli psicologi;   
-ordine degli spedizionieri doganali;   
-collegio dei periti agrari e dei periti agrari laureati;   
-collegio degli agrotecnici e agrotecnici laureati;   
-collegio dei periti industriali e dei periti industriali laureati; collegio dei geometri e geometri laureati.
-
-Art. 3
-------
+## Art. 3.
 
 Rinvio
 
-1. Per la regolamentazione delle associazioni di cui al presente decreto si ha riguardo a quanto disposto dall'articolo 4, commi 3 e seguenti, della legge professionale, nonche', in quanto compatibili, alle disposizioni del [codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262).
+1.
+
+Per la regolamentazione delle associazioni di cui al presente decreto si ha riguardo a quanto disposto dall'articolo 4, commi 3 e seguenti, della legge professionale, nonche', in quanto compatibili, alle disposizioni del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 4 febbraio 2016
+Roma, 4 febbraio 2016
 
-Il Ministro: Orlando
-
-Visto, il Guardasigilli: Orlando Registrato alla Corte dei conti il 24 febbraio 2016
-
-Ufficio controllo atti P.C.M. Ministeri giustizia e affari esteri, reg.ne prev. n. 517
+Il Ministro: Orlando Visto, il Guardasigilli: Orlando Registrato alla Corte dei conti il 24 febbraio 2016 Ufficio controllo atti P.C.M. Ministeri giustizia e affari esteri, reg.ne prev. n. 517

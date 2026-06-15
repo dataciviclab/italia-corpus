@@ -1,108 +1,18 @@
-DECRETO 06 aprile 1994 n. 288
-
-
-DECRETO 06 aprile 1994 n. 288
-=============================
-
-Regolamento recante aggiornamento del decreto ministeriale 31 marzo 1965 concernente la disciplina degli additivi alimentari consentiti nella preparazione e per la conservazione delle sostanze alimentari.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 29/5/1994
+---
+tipo: DECRETO
+numero: 582
+data: 1993-08-02
+titolo: "Regolamento recante aggiornamento del decreto ministeriale 31 marzo 1965 concernente la disciplina degli additivi alimentari consentiti nella preparazione e per la conservazione delle sostanze alimentari."
+urn: urn:nir:ministero.sanita:decreto:1993-08-02;582
+codice_redazionale: 094G0029
+vigente: true
+---
 
 IL MINISTRO DELLA SANITA'
--------------------------
 
-Visto il [decreto ministeriale 31 marzo 1965, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 101 del 22 aprile 1965](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1965-04-22&numeroGazzetta=101), concernente la disciplina degli additivi alimentari consentiti nella preparazione e per la conservazione delle sostanze alimentari, modificato da ultimo con il decreto 14 febbraio 1994, n. 225, [pubblicato nella Gazzetta Ufficiale n. 78 del 5 aprile 1994](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1994-04-05&numeroGazzetta=78);
+Visto il decreto ministeriale 31 marzo 1965, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 101 del 22 aprile 1965, concernente la disciplina degli additivi alimentari consentiti nella preparazione e per la conservazione delle sostanze alimentari;
 
-Considerato che il 31 dicembre 1992 e' scaduta la proroga per l'impiego del lisozima nei formaggi grana padano, asiago e montasio concessa con il decreto ministeriale 31 dicembre 1988;
-
-Ritenuto, nelle more dell'armonizzazione delle legislazioni degli Stati membri in materia, di prorogare l'autorizzazione di che trattasi;
-
-Vista la relazione della Direzione generale per l'igiene degli alimenti e per la nutrizione in data 4 gennaio 1993;
-
-Sentito il Consiglio superiore di sanita';
-
-Visti gli articoli 5, lettera g), e 22 della [legge 30 aprile 1962, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283);
-
-Visto l'[art. 17, comma 4, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com4);
-
-Udito il parere del Consiglio di Stato, reso nell'adunanza generale del 23 dicembre 1993;
-
-Ritenuto di dover applicare la clausola di mutuo riconoscimento, ai sensi degli [articoli 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-28;300~art11) e [12 della legge 28 luglio 1993, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-28;300~art12), anche ai formaggi originari dei Paesi EFTA che sono parti contraenti dell'accordo sullo spazio economico europeo;
-
-Vista la comunicazione al Presidente del Consiglio dei Ministri ai sensi dell'art. 17, punto 3, della [legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400);
-
-A D O T T A il seguente regolamento:
-
-Art. 1
-------
-
-1. Le disposizioni di cui al decreto ministeriale 1 agosto 1983, prorogate da ultimo con il decreto ministeriale 31 dicembre 1988, riguardanti l'impiego del lisozima nei formaggi "Grana padano", "Asiago" e "Montasio", valgono fino al recepimento, nell'ordinamento nazionale, di apposite disposizioni della Comunita' europea.
-
-2. Le limitazioni di impiego del lisozima di cui al decreto ministeriale 1 agosto 1983, prorogato da ultimo con il decreto ministeriale 31 dicembre 1988, non si applicano ai formaggi legalmente prodotti e/o commercializzati in un altro Stato della Comunita' europea ed a quelli originari dei Paesi contraenti dell'accordo sullo spazio economico europeo.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Roma, 6 aprile 1994
-
-Il Ministro: GARAVAGLIA
-
-Visto, il Guardasigilli: CONSO Registrato alla Corte dei conti il 3 maggio 1994
-
-Registro n. 1 Sanita', foglio n. 35 AVVERTENZA: Il testo delle note qui pubblicato e' stato redatto ai
-
-sensi dell'art. 10, comma 3, del testo unico delle
-
-disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica
-
-e sulle pubblicazioni ufficiali della Repubblica italiana,
-
-approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. Note alle premesse:
-
-- Il testo dell'art. 5, lettera g), della legge n. 283/1962 e' il seguente: "E' vietato impiegare nella preparazione di alimenti o
-
-bevande, vendere, detenere per vendere o somministrare come
-
-mercede ai propri dipendenti, o comunque distribuire per il
-
-consumo, sostanze alimentari: a) - f) (omissis); g) con aggiunta di additivi chimici di qualsiasi natura
-
-non autorizzati con decreto del Ministro per la sanita' o,
-
-nel caso che siano autorizzati, senza l'osservanza delle norme prescritte per il loro impiego. I decreti di autorizzazione sono soggetti a revisioni annuali". - Il testo dell'art. 22 della medesima legge n. 283/1962 e' il seguente:
-
-"Art. 22. - Il Ministro per la sanita', entro sei mesi
-
-dalla pubblicazione della presente legge, sentito il
-
-Consiglio superiore di sanita', pubblichera' con suo
-
-decreto, l'elenco degli additivi chimici consentiti nella preparazione e per la conservazione delle sostanze
-
-alimentari, nel quale dovranno essere specificate, oltre le
-
-loro caratteristiche chimico-fisiche, i requisiti di
-
-purezza, i metodi di dosaggio negli alimenti, i casi d'impiego e le dosi massime d'uso degli stessi. Entro un anno il Ministro per la sanita' pubblichera' l'elenco dei metodi ufficiali d'analisi delle sostanze alimentari. Il Ministro per la sanita' e' autorizzato a provvedere con successivi decreti ai periodici necessari aggiornamenti". - Il comma 3 della legge n. 400/1988 (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita'
-
-sottordinate al Ministro, quando la legge espressamente
-
-conferisca tale potere. Tali regolamenti, per materie di
-
-competenza di piu' Ministri, possono essere adottati con
-
-decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti
-
-debbano recare la denominazione di "regolamento", siano
-
-adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale. - Il testo degli articoli 11 e 12 della legge n. 300/1993 e' il seguente: "Art. 11. - Sono vietate fra le Parti contraenti le
-
-restrizioni quantitative all'importazione, nonche' qualsiasi misura di effetto equivalente". "Art. 12. - Sono vietate fra le Parti contraenti le
-
-restrizioni quantitative all'esportazione, nonche' qualsiasi misura di effetto equivalente". - I decreti ministeriali che hanno aggiornato il decreto
-
-ministeriale 31 marzo 1965, prima del presente decreto, sono di seguito elencati:
+Visti i decreti ministeriali:
 
 19 febbraio 1966, pubblicato nella Gazzetta Ufficiale n. 72 del 23 marzo 1966;
 
@@ -122,7 +32,9 @@ ministeriale 31 marzo 1965, prima del presente decreto, sono di seguito elencati
 
 3 maggio 1971, pubblicato nella Gazzetta Ufficiale n. 132 del 26 maggio 1971;
 
-30 luglio 1971, pubblicato nella Gazzetta Ufficiale n. 229 del'11 settembre 1971;
+3 maggio 1971, pubblicato nella Gazzetta Ufficiale n. 153 del 18 giugno 1971;
+
+30 luglio 1971, pubblicato nella Gazzetta Ufficiale n. 229 dell'11 settembre 1971;
 
 9 maggio 1972, pubblicato nella Gazzetta Ufficiale n. 135 del 25 maggio 1972;
 
@@ -178,8 +90,86 @@ ministeriale 31 marzo 1965, prima del presente decreto, sono di seguito elencati
 
 24 luglio 1990, n. 252, pubblicato nella Gazzetta Ufficiale n. 204 del 1 settembre 1990;
 
-6 novembre 1992, n. 525, pubblicato nella Gazzetta Ufficiale n. 6 del 6 gennaio 1993;
+6 novembre 1992, n. 525, pubblicato nella Gazzetta Ufficiale n. 6 del 9 gennaio 1993; riguardanti modificazioni ed aggiornamenti del decreto ministeriale sopracitato;
 
-2 agosto 1993, n. 582, pubblicato nella Gazzetta Ufficiale n. 13 del 18 gennaio 1994;
+Vista la [direttiva della Commissione n. 92/4/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;4) recante modifica della [direttiva 78/663/CEE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1978;663) che stabilisce i requisiti di purezza specifici per gli emulsionanti, (( gli stabilizzanti, gli addensanti ed i gelificanti )) che possono essere impiegati nei prodotti alimentari;
 
-14 febbraio 1994, n. 225, pubblicato nella Gazzetta Ufficiale n. 78 del 5 aprile 1994.
+Ritenuto di dover provvedere alle modificazioni ed integrazioni del decreto ministeriale 31 marzo 1965 necessarie per il recepimento della direttiva comunitaria sopra citata;
+
+Ritenuto di dover provvedere ad ulteriori modificazioni ed integrazioni del decreto ministeriale 31 marzo 1965;
+
+Viste le relazioni della Direzione generale per l'igiene degli alimenti e la nutrizione in data 10 giugno 1992 e 15 giugno 1993;
+
+Sentito il Consiglio superiore di sanita';
+
+Visti gli articoli 5, lettera g), e 22 della [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283);
+
+Visto l'[art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17);
+
+Udito il parere del Consiglio di Stato, reso nell'adunanza generale del 25 febbraio 1993;
+
+Vista la comunicazione alla Commissione delle Comunita' economiche europee effettuata in data 13 febbraio 1993 ai sensi delle [direttive n. 83/189/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1983;189) e [n. 88/182/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1988;182);
+
+Visto il parere circostanziato del 24 maggio 1993 con il quale la Commissione delle Comunita' economiche europee invita il Governo italiano a modificare le dosi d'impiego proposte per alcuni additivi alimentari al fine di renderle conformi a quelle previste nella proposta di direttiva del Consiglio CEE riguardante gli additivi diversi dagli edulcoranti e dai coloranti;
+
+Ritenuto necessario di doversi adeguare a quanto rilevato dalla Commissione delle Comunita' economiche europee;
+
+Vista la comunicazione al Presidente del Consiglio dei Ministri, ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
+
+A D O T T A il seguente regolamento:
+
+## Art. 1.
+
+1.
+
+L'allegato I del decreto ministeriale 31 marzo 1965, modificato per ultimo con il [decreto ministeriale 24 luglio 1990, n. 252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1990-07-24;252), e' modificato come segue:
+                        a)
+                            Titolo I A - ANTIMICROBICI. 
+ - Alle voci "E 200 acido sorbico, E 201 sodio sorbato, E 202 potassio sorbato, E 203 calcio sorbato" e' incluso il seguente caso d'impiego: "Grassi emulsionati, compresi il burro leggero e la margarina leggera a ridotto e basso tenore di materia grassa, 0,2%".
+                        b)
+                            Titolo I C - ANTIOSSIDANTI. 
+ - Alle voci "E 306 estratti (( d'origine naturale ricchi in tocoferoli, )) E 307 alfa tocoferolo di sintesi, E 308 gamma tocoferolo, E 309 delta tocoferolo di sintesi" e' inserito il seguente caso d'impiego: "Cereali per la prima colazione, pronti per il consumo, S.B.T.I.".
+                        c)
+                            Titolo II A - STABILIZZANTI, ADDENSANTI e GELIFICANTI. 
+ - Alle voci "E 400 acido alginico, E 401 alginato di sodio, E 402 alginato di potassio, E 403 alginato di ammonio, E 404 alginato di calcio, E 406 agar-agar, E 410 farina di semi di carruba, E 412 farina di semi di guar" e' incluso il seguente caso d'impiego: "Grassi emulsionati compresi il burro leggero e la margarina leggera a ridotto e basso tenore di materia grassa, S.B.T.I.". 
+ - Alla voce E 407 carragenine e' incluso il seguente campo d'impiego: "Grassi emulsionati compresi il burro leggero e la margarina leggera a ridotto e basso tenore di materia grassa, 1,5%". 
+ - Alla voce "E 415 gomma xantano" la dizione "salse per insalata alla dose dello 0,5%" e' sostituita dalla seguente: "salse, senape e condimenti liquidi, S.B.T.I.". 
+ - Alla voce "E 440 i) pectina ed E 440 ii) pectina amidata" e' inserito il seguente caso d'impiego: "Dessert a base di frutta, S.B.T.I.". 
+ - Alle voci "E 339 ortofosfati di sodio, E 340 ortofosfati di potassio, E 341 ortofosfati di calcio" sono inseriti i seguenti casi d'impiego: 
+ 1) "Cereali per la prima colazione, pronti per il consumo, 1%"; 
+ 2) "Latte di cocco in polvere, 1%".
+                        d)
+                            Titolo II B - EMULSIONANTI. 
+ - Alla voce "E 472 c) esteri citrici dei mono e digliceridi degli acidi grassi" e' aggiunto il seguente caso d'impiego: "Lievito secco per prodotti da forno, con esclusione del pane, e per pani speciali, S.B.T.I.". 
+ - I requisiti di purezza dell'additivo "E 473 sucresteri" sono cosi' modificati: 
+ 1) l'ultima frase del punto relativo alla descrizione chimica e' sostituita dalla frase seguente: "Nella loro preparazione non possono essere impiegati solventi organici diversi dal dimetilsulfossido, dalla dimetilformammide, dall'acetato di etile, dall'isopropanolo, dall'isobutanolo e dal metiletilchetone"; 
+ 2) dopo il punto relativo al tenore di isobutanolo, e' aggiunto il punto seguente: "tenore di metiletilchetone: non oltre 10 mg/kg".
+                        e)
+                            Titolo III - ESALTATORI DI SAPIDITA'. 
+ - Alla voce "Glutammato monosodico: 
+ 1) la dizione "Carni cotte comunque preparate o conservate, 0,25%" e' sostituita dalla seguente: "Carni preparate o comunque conservate, S.B.T.I."; 
+ 2) e' aggiunto il seguente caso d'impiego: "Liquido di governo delle olive in salamoia, S.B.T.I.". 
+ f) Titolo VII - ACIDIFICANTI. 
+ - E' inserita la seguente voce: "Acido malico: caramelle, S.B.T.I.". 
+ g) Titolo XIII - VARI. 
+ - Alla voce "calcio cloruro" e' inserito il seguente caso d'impiego: "Farcitura delle olive ripiene, S.B.T.I.". 
+ h) Titolo XIV - CORRETTORI DI ACIDITA'. 
+ - Alle voci: 
+ "E 270 acido lattico; 
+ E 325 sodio lattato; 
+ E 326 potassio lattato; 
+ E 327 calcio lattato; 
+ E 330 acido citrico; 
+ E 331 citrati di sodio; 
+ E 332 citrati di potassio", 
+e' aggiunto il seguente caso d'impiego: "bevande e preparati per bevande analcooliche gassate e non gassate, S.B.T.I.".
+
+## Art. 2.
+
+((ARTICOLO SOPPRESSO DALL'ERRATA-CORRIGE IN G.U. 1/3/94, n. 49))
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Roma, 2 agosto 1993
+
+Il Ministro: GARAVAGLIA Visto, il Guardasigilli: CONSO Registrato alla Corte dei conti il 4 gennaio 1994 Registro n. 1 Sanita', foglio n. 1

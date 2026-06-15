@@ -1,30 +1,25 @@
-DECRETO LEGISLATIVO 17 marzo 1995 n. 110
+---
+tipo: DECRETO LEGISLATIVO
+numero: 110
+data: 1995-03-17
+titolo: "Attuazione della direttiva 92/74/CEE in materia di medicinali omeopatici veterinari."
+urn: urn:nir:stato:decreto.legislativo:1995-03-17;110
+codice_redazionale: 095G0144
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 17 marzo 1995 n. 110
-========================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 APRILE 2006, N. 193))
 
-Attuazione della direttiva 92/74/CEE in materia di medicinali omeopatici veterinari.
-------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 27/4/1995
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 APRILE 2006, N. 193))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 APRILE 2006, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-06;193)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 APRILE 2006, N. 193))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 APRILE 2006, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-06;193)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 APRILE 2006, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-06;193)))
-
-Art. 4
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 APRILE 2006, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-06;193)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 APRILE 2006, N. 193))

@@ -1,34 +1,32 @@
-DECRETO 03 aprile 1990 n. 117
-
-
-DECRETO 03 aprile 1990 n. 117
-=============================
-
-Regolamento di riorganizzazione dell'Ufficio per la ricostruzione e lo sviluppo delle zone della Campania, della Basilicata e della Puglia, colpite dal terremoto 1980-81.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 2/6/1990
+---
+tipo: DECRETO
+numero: 117
+data: 1990-04-03
+titolo: "Regolamento di riorganizzazione dell'Ufficio per la ricostruzione e lo sviluppo delle zone della Campania, della Basilicata e della Puglia, colpite dal terremoto 1980-81."
+urn: urn:nir:ministro.interventi.straordinari.mezzogiorno:decreto:1990-04-03;117
+codice_redazionale: 090G0153
+vigente: true
+---
 
 IL MINISTRO PER GLI INTERVENTI
-------------------------------
 
 STRAORDINARI NEL MEZZOGIORNO
 
-Visto l'[art. 9 del decreto-legge 27 febbraio 1982, n. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-02-27;57~art9), convertito, con modificazioni, dalla [legge 29 aprile 1982, n. 187](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-04-29;187), e, in particolare, il comma 4, che autorizza il Ministro per gli interventi straordinari nel Mezzogiorno a costituire con proprio decreto, per far fronte a tutte le esigenze indicate dallo stesso art. 9, uno speciale ufficio, determinandone l'organizzazione, la dotazione di mezzi e di personale e individuandone gli oneri;
+Visto l'[art. 9 del decreto-legge 27 febbraio 1982, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-02-27;57#art_9), convertito, con modificazioni, dalla [legge 29 aprile 1982, n. 187](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20febbraio%201982%20n.%2057%20concernente%20disciplina%20per%20la%20gestione%20stralcio%20dellattivita%20del%20commissario%20per%20le%20zone%20terremotate%20della%20_0affa8529913.md), e, in particolare, il comma 4, che autorizza il Ministro per gli interventi straordinari nel Mezzogiorno a costituire con proprio decreto, per far fronte a tutte le esigenze indicate dallo stesso art. 9, uno speciale ufficio, determinandone l'organizzazione, la dotazione di mezzi e di personale e individuandone gli oneri;
 
-Visto il decreto del Ministro per gli interventi straordinari nel Mezzogiorno in data 2 settembre 1982, registrato alla [Corte dei conti il 7 settembre 1982](https://e-justice.europa.eu/ecli/ECLI::::), registro n. 8 Presidenza, foglio n. 130, relativo alla costituzione dell'Ufficio per la ricostruzione e lo sviluppo delle zone terremotate della Campania e Basilicata;
+Visto il decreto del Ministro per gli interventi straordinari nel Mezzogiorno in data 2 settembre 1982, registrato alla Corte dei conti il 7 settembre 1982, registro n. 8 Presidenza, foglio n. 130, relativo alla costituzione dell'Ufficio per la ricostruzione e lo sviluppo delle zone terremotate della Campania e Basilicata;
 
-Visto il decreto del Ministro per gli interventi straordinari nel Mezzogiorno 7 marzo 1988, registrato alla [Corte dei conti il 22 marzo 1989](https://e-justice.europa.eu/ecli/ECLI::::), registro n. 4 Presidenza, foglio n. 20, con il quale da ultimo e' stata disciplinata la riorganizzazione dell'Ufficio per la ricostruzione delle zone terremotate della Campania, della Basilicata e della Puglia;
+Visto il decreto del Ministro per gli interventi straordinari nel Mezzogiorno 7 marzo 1988, registrato alla Corte dei conti il 22 marzo 1989, registro n. 4 Presidenza, foglio n. 20, con il quale da ultimo e' stata disciplinata la riorganizzazione dell'Ufficio per la ricostruzione delle zone terremotate della Campania, della Basilicata e della Puglia;
 
-Visto l'[art. 13, comma 2, della legge 10 febbraio 1989, n. 48](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-02-10;48~art13-com2), che reca una nuova disciplina concernente l'attuazione degli [articoli 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219~art21) e [32 della legge 14 maggio 1981, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219~art32), e successive integrazioni e modificazioni, attribuendo ulteriori competenze al Ministro per gli interventi straordinari nel Mezzogiorno;
+Visto l'[art. 13, comma 2, della legge 10 febbraio 1989, n. 48](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-02-10;48#art_13-com2), che reca una nuova disciplina concernente l'attuazione degli [articoli 21](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20marzo%201981%20n.%2075%20recante%20ulteriori%20interventi%20in%20favore%20delle%20popolazioni%20colpite%20dagli%20eventi%20sismici%20del%20novembre%201980%20e%20del%20_91990da23b96.md) e [32 della legge 14 maggio 1981, n. 219](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20marzo%201981%20n.%2075%20recante%20ulteriori%20interventi%20in%20favore%20delle%20popolazioni%20colpite%20dagli%20eventi%20sismici%20del%20novembre%201980%20e%20del%20_91990da23b96.md), e successive integrazioni e modificazioni, attribuendo ulteriori competenze al Ministro per gli interventi straordinari nel Mezzogiorno;
 
-Visto il parere n. 1088/89, reso dalla [I sezione del Consiglio di Stato in data 21 giugno 1989](https://e-justice.europa.eu/ecli/ECLI::::);
+Visto il parere n. 1088/89, reso dalla I sezione del Consiglio di Stato in data 21 giugno 1989;
 
-Visto il decreto n. 751/GAB del 25 settembre 1989, [pubblicato nella Gazzetta Ufficiale n. 228 del 29 settembre 1989](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1989-09-29&numeroGazzetta=228), recante disposizioni dirette ad assicurare continuita' all'azione amministrativa nella fase di transizione dal sistema eccezionale e derogatorio a quello ordinario;
+Visto il decreto n. 751/GAB del 25 settembre 1989, pubblicato nella Gazzetta Ufficiale n. 228 del 29 settembre 1989, recante disposizioni dirette ad assicurare continuita' all'azione amministrativa nella fase di transizione dal sistema eccezionale e derogatorio a quello ordinario;
 
-Visto il decreto del Ministro del tesoro 10 ottobre 1989, registrato alla [Corte dei conti il 17 ottobre 1989](https://e-justice.europa.eu/ecli/ECLI::::), registro n. 28 Tesoro, foglio n. 314, con il quale sono state emanate disposizioni per la gestione dei fondi di cui alle contabilita' speciali costituite per gli interventi in questione;
+Visto il decreto del Ministro del tesoro 10 ottobre 1989, registrato alla Corte dei conti il 17 ottobre 1989, registro n. 28 Tesoro, foglio n. 314, con il quale sono state emanate disposizioni per la gestione dei fondi di cui alle contabilita' speciali costituite per gli interventi in questione;
 
-Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3);
+Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
 Considerato che ai sensi dell'art. 5 del succitato decreto ministeriale n. 751/GAB del 29 settembre 1989 occorre procedere alla ristrutturazione dell'ufficio speciale sopra indicato;
 
@@ -36,163 +34,162 @@ Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 22 m
 
 A D O T T A il seguente regolamento:
 
-Art. 1
-------
+## Art. 1. — Comitato di coordinamento
 
-Comitato di coordinamento
+1.
 
-1. E' istituito il comitato di coordinamento per la elaborazione degli indirizzi generali dell'attivita' da svolgere dai soggetti interessati alla realizzazione degli interventi di ricostruzione, riparazione e sviluppo delle zone terremotate.
+E' istituito il comitato di coordinamento per la elaborazione degli indirizzi generali dell'attivita' da svolgere dai soggetti interessati alla realizzazione degli interventi di ricostruzione, riparazione e sviluppo delle zone terremotate.
 
-2. Il Comitato e' composto dal Ministro per gli interventi straordinari nel Mezzogiorno, o dal Sottosegretario di Stato all'uopo delegato, con funzioni di presidente; dai presidenti delle giunte regionali delle regioni Campania e Basilicata o, per delega, dagli assessori alla ricostruzione delle predette regioni; dai prefetti di Avellino, Potenza e Salerno; dal capo del Dipartimento del Mezzogiorno; dal presidente dell'Agenzia per la promozione dello sviluppo del Mezzogiorno e dal direttore dell'Ufficio speciale di cui ai successivi articoli, con funzione di segretario. I prefetti, il capo del Dipartimento del Mezzogiorno e il presidente dell'Agenzia per la promozione dello sviluppo del Mezzogiorno, qualora non possano partecipare alle sedute del Comitato, possono essere sostituiti da propri delegati.
+2.
 
-AVVERTENZA:  
-Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.  
-Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.  
-Note alle premesse:  
-- Il testo dell'[art. 9, comma 4, del D.L. n. 57/1982](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982;57~art9-com4) (Disciplina per la gestione stralcio dell'attivita' di commissario per le zone terremotate della Campania e della Basilicata) e' il seguente: "Per tutte le esigenze di cui al presente articolo, il Ministro per gli interventi straordinari nel Mezzogiorno puo' costituire uno speciale ufficio determinandone, con proprio decreto, l'organizzazione, la dotazione di mezzi e di personale e la individuazione degli oneri, che fanno carico al fondo di cui all'[art. 3 della legge 14 maggio 1981, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219~art3), utilizzando, per quanto possibile, il personale gia' alle dipendenze della Cassa per il Mezzogiorno e degli enti collegati".  
-- Il D.M. 7 marzo 1988, relativo all'ultima modifica introdotta alla struttura dell'Ufficio per la ricostruzione e lo sviluppo delle zone terremotate della Campania e Basilicata, e' stato [pubblicato nella Gazzetta Ufficiale n. 120 del 25 maggio 1989](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1989-05-25&numeroGazzetta=120).  
-- Il testo dell'[art. 13, comma 2, della legge n. 48/1989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;48~art13-com2) (Proroga di termini previsti da disposizioni legislative) e' il seguente: "E' prorogato al 30 giugno 1989 il termine del 31 dicembre 1988 indicato nel [comma 1- bis, lettera c), dell'art. 1 del decreto-legge 20 novembre 1987, n. 474](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-11-20;474~art1-com1bis-letc), convertito, con modificazioni, dalla [legge 21 gennaio 1988, n. 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-01-21;12), concernente gli interventi previsti dagli [articoli 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219~art21) e [32 della legge 14 maggio 1981, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219~art32), e successive integrazioni e modificazioni. A partire dal 1› luglio 1989 l'istruttoria delle pratiche relative agli [articoli 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219~art21) e [32 della legge 14 maggio 1981, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219~art32), e successive modificazioni, segue l'iter e le modalita' previste dalla legge 1› marzo 1986, n. 64. I poteri ispettivi e di controllo, gia' di competenza della struttura speciale per le aree terremotate, sono affidati, sempre a datare dal 1› luglio 1989, al Ministro per gli interventi straordinari nel Mezzogiorno. Nell'ambito dell'istruttoria le regioni Campania, Basilicata e Puglia esprimono parere di conformita' sulla localizzazione, impatto ambientale e compatibilita' in rapporto alla programmazione regionale".  
-- Il [comma 3 dell'art. 17 della legge n. 400/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.  
-Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
+Il Comitato e' composto dal Ministro per gli interventi straordinari nel Mezzogiorno, o dal Sottosegretario di Stato all'uopo delegato, con funzioni di presidente; dai presidenti delle giunte regionali delle regioni Campania e Basilicata o, per delega, dagli assessori alla ricostruzione delle predette regioni; dai prefetti di Avellino, Potenza e Salerno; dal capo del Dipartimento del Mezzogiorno; dal presidente dell'Agenzia per la promozione dello sviluppo del Mezzogiorno e dal direttore dell'Ufficio speciale di cui ai successivi articoli, con funzione di segretario. I prefetti, il capo del Dipartimento del Mezzogiorno e il presidente dell'Agenzia per la promozione dello sviluppo del Mezzogiorno, qualora non possano partecipare alle sedute del Comitato, possono essere sostituiti da propri delegati.
 
-Art. 2
-------
+AVVERTENZA:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Note alle premesse:
+ - Il testo dell'[art. 9, comma 4, del D.L. n. 57/1982](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982;57#art_9-com4) (Disciplina per la gestione stralcio dell'attivita' di commissario per le zone terremotate della Campania e della Basilicata) e' il seguente: "Per tutte le esigenze di cui al presente articolo, il Ministro per gli interventi straordinari nel Mezzogiorno puo' costituire uno speciale ufficio determinandone, con proprio decreto, l'organizzazione, la dotazione di mezzi e di personale e la individuazione degli oneri, che fanno carico al fondo di cui all'[art. 3 della legge 14 maggio 1981, n. 219](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20marzo%201981%20n.%2075%20recante%20ulteriori%20interventi%20in%20favore%20delle%20popolazioni%20colpite%20dagli%20eventi%20sismici%20del%20novembre%201980%20e%20del%20_91990da23b96.md), utilizzando, per quanto possibile, il personale gia' alle dipendenze della Cassa per il Mezzogiorno e degli enti collegati".
+ - Il D.M. 7 marzo 1988, relativo all'ultima modifica introdotta alla struttura dell'Ufficio per la ricostruzione e lo sviluppo delle zone terremotate della Campania e Basilicata, e' stato pubblicato nella Gazzetta Ufficiale n. 120 del 25 maggio 1989.
+ - Il testo dell'[art. 13, comma 2, della legge n. 48/1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;48#art_13-com2) (Proroga di termini previsti da disposizioni legislative) e' il seguente: "E' prorogato al 30 giugno 1989 il termine del 31 dicembre 1988 indicato nel [comma 1- bis, lettera c), dell'art. 1 del decreto-legge 20 novembre 1987, n. 474](../DL%20proroghe/Proroga%20di%20termini%20per%20lattuazione%20di%20interventi%20nelle%20zone%20terremotate%20della%20Campania%20della%20Basilicata%20e%20della%20Puglia%20nonche%20altre%20disposizioni%20dirette%20ad%20accelerare%20lo%20sviluppo%20delle%20zone%20medesime_5.md), convertito, con modificazioni, dalla [legge 21 gennaio 1988, n. 12](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20novembre%201987%20n.%20474%20recante%20proroga%20di%20termini%20per%20lattuazione%20di%20interventi%20nelle%20zone%20terremotate%20della%20Campania%20della%20Basil_0fe01c2c2352.md), concernente gli interventi previsti dagli [articoli 21](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20marzo%201981%20n.%2075%20recante%20ulteriori%20interventi%20in%20favore%20delle%20popolazioni%20colpite%20dagli%20eventi%20sismici%20del%20novembre%201980%20e%20del%20_91990da23b96.md) e [32 della legge 14 maggio 1981, n. 219](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20marzo%201981%20n.%2075%20recante%20ulteriori%20interventi%20in%20favore%20delle%20popolazioni%20colpite%20dagli%20eventi%20sismici%20del%20novembre%201980%20e%20del%20_91990da23b96.md), e successive integrazioni e modificazioni. A partire dal 1 luglio 1989 l'istruttoria delle pratiche relative agli [articoli 21](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20marzo%201981%20n.%2075%20recante%20ulteriori%20interventi%20in%20favore%20delle%20popolazioni%20colpite%20dagli%20eventi%20sismici%20del%20novembre%201980%20e%20del%20_91990da23b96.md) e [32 della legge 14 maggio 1981, n. 219](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20marzo%201981%20n.%2075%20recante%20ulteriori%20interventi%20in%20favore%20delle%20popolazioni%20colpite%20dagli%20eventi%20sismici%20del%20novembre%201980%20e%20del%20_91990da23b96.md), e successive modificazioni, segue l'iter e le modalita' previste dalla legge 1 marzo 1986, n. 64. I poteri ispettivi e di controllo, gia' di competenza della struttura speciale per le aree terremotate, sono affidati, sempre a datare dal 1 luglio 1989, al Ministro per gli interventi straordinari nel Mezzogiorno. Nell'ambito dell'istruttoria le regioni Campania, Basilicata e Puglia esprimono parere di conformita' sulla localizzazione, impatto ambientale e compatibilita' in rapporto alla programmazione regionale".
+ - Il [comma 3 dell'art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.
+ Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
 
-Articolazione dell'Ufficio
+## Art. 2. — Articolazione dell'Ufficio
 
-1. L'Ufficio speciale per la ricostruzione e lo sviluppo delle zone terremotate si articola nei seguenti servizi:  
-servizio di coordinamento dei piani di riparazione e di ricostruzione;  
-servizio di supporto ai comuni nell'attivita' di ricostruzione e di riparazione;  
-servizio per il completamento degli interventi di sviluppo;  
-servizio affari generali.
+1.
 
-2. All'Ufficio e' preposto un direttore nominato con decreto del Ministro per gli interventi straordinari nel Mezzogiorno, scelto nell'ambito dei soggetti di cui all'[art. 29 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art29).
+L'Ufficio speciale per la ricostruzione e lo sviluppo delle zone terremotate si articola nei seguenti servizi:
+ servizio di coordinamento dei piani di riparazione e di ricostruzione;
+ servizio di supporto ai comuni nell'attivita' di ricostruzione e di riparazione;
+ servizio per il completamento degli interventi di sviluppo;
+ servizio affari generali.
 
-3. Il Ministro per gli interventi straordinari nel Mezzogiorno nomina, altresi', il vice direttore dell'Ufficio le cui funzioni sono corrispondenti a quelle di dirigente generale o equiparate, ai sensi del decreto del Presidente del Consiglio dei Ministri 12 dicembre 1987, concernente il Dipartimento per il Mezzogiorno.
+2.
 
-4. A capo dei servizi sono preposti funzionari le cui competenze sono corrispondenti a quelle di primo dirigente dello Stato o equiparate.
+All'Ufficio e' preposto un direttore nominato con decreto del Ministro per gli interventi straordinari nel Mezzogiorno, scelto nell'ambito dei soggetti di cui all'[art. 29 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_29).
 
-Note all'art. 2:  
-- Il testo dell'[art. 29 della legge n. 400/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400~art29) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) e' il seguente:  
-"Art. 29 (Consulenti e comitati di consulenza). - 1. Il Presidente del Consiglio dei Ministri puo' avvalersi di consulenti e costituire comitati di consulenza, di ricerca o di studio su specifiche questioni.  
-2. Per tali attivita' si provvede con incarichi a tempo determinato da conferire a magistrati, docenti universitari, avvocati dello Stato, dirigenti e altri dipendenti delle amministrazioni dello Stato, degli enti pubblici, anche economici, delle aziende a prevalente partecipazione pubblica o anche ad esperti estranei all'amministrazione dello Stato.  
-3. Gli incarichi sono conferiti con decreto del Presidente del Consiglio dei Ministri, che ne fissa il compenso di concerto con il Ministro del tesoro".  
-- Il D.P.C.M. 12 dicembre 1987 (Articolazione dei servizi del Dipartimento per il Mezzogiorno, istituito con [decreto del Presidente della Repubblica 19 gennaio 1987, n. 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1987-01-19;12)) e' stato pubblicato nella Gazzetta Ufficiale del 20 gennaio 1988, n. 15.
+3.
 
-Art. 3
-------
+Il Ministro per gli interventi straordinari nel Mezzogiorno nomina, altresi', il vice direttore dell'Ufficio le cui funzioni sono corrispondenti a quelle di dirigente generale o equiparate, ai sensi del decreto del Presidente del Consiglio dei Ministri 12 dicembre 1987, concernente il Dipartimento per il Mezzogiorno.
 
-Servizio del coordinamento  
-dei piani di riparazione e di ricostruzione
+4.
 
-1. Il servizio del coordinamento dei piani di riparazione e di ricostruzione cura il coordinamento dei piani annuali di ricostruzione e dei piani e programmi poliennali regionali di sviluppo, di cui all'[art. 35 della legge n. 219/1981](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;219~art35) e la loro integrazione con i programmi degli altri enti e amministrazioni interessati.
+A capo dei servizi sono preposti funzionari le cui competenze sono corrispondenti a quelle di primo dirigente dello Stato o equiparate.
 
-2. Il servizio stesso, avvalendosi anche del Servizio opere sul territorio dell'Agenzia per la promozione dello sviluppo del Mezzogiorno, verifica l'attuabilita' tecnica ed amministrativa dei piani e programmi comunali e regionali. Cura, altresi', la raccolta delle informazioni presso le amministrazioni statali, regionali e pubbliche in generale e i contatti diretti a riscontrare lo stato di attuazione degli interventi di rispettiva competenza, assistiti dai finanziamenti della [legge 14 maggio 1981, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219), e successive modificazioni, ai fini della piu' razionale e coordinata attivita' di ricostruzione delle zone colpite dal sisma.
+Note all'art. 2:
+ - Il testo dell'[art. 29 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_29) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) e' il seguente:
+ "Art. 29 (Consulenti e comitati di consulenza). - 1. Il Presidente del Consiglio dei Ministri puo' avvalersi di consulenti e costituire comitati di consulenza, di ricerca o di studio su specifiche questioni.
+ 2. Per tali attivita' si provvede con incarichi a tempo determinato da conferire a magistrati, docenti universitari, avvocati dello Stato, dirigenti e altri dipendenti delle amministrazioni dello Stato, degli enti pubblici, anche economici, delle aziende a prevalente partecipazione pubblica o anche ad esperti estranei all'amministrazione dello Stato.
+ 3. Gli incarichi sono conferiti con decreto del Presidente del Consiglio dei Ministri, che ne fissa il compenso di concerto con il Ministro del tesoro".
+ - Il D.P.C.M. 12 dicembre 1987 (Articolazione dei servizi del Dipartimento per il Mezzogiorno, istituito con [decreto del Presidente della Repubblica 19 gennaio 1987, n. 12](../DPR/Ordinamento%20del%20Dipartimento%20per%20il%20Mezzogiorno.md)) e' stato pubblicato nella Gazzetta Ufficiale del 20 gennaio 1988, n. 15.
 
-Nota all'art. 3:  
-- Il testo dell'[art. 35 della legge n. 219/1981](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;219~art35) (Provvedimenti organici per la ricostruzione e lo sviluppo dei territori colpiti da eventi sismici del novembre 1980 e 1981) e' il seguente:  
-"Art. 35 (Definizione dei progetti regionali di sviluppo). - 1. Le regioni Basilicata e Campania provvedono alla predisposizione di piani di assetto del territorio e di progetti di sviluppo con priorita' per le aree disastrate, per l'area napoletana, per le aree piu' densamente popolate dell'area salernitana e per le aree interne.  
-2. I piani ed i programmi di cui al presente articolo sono approvati con deliberazione del consiglio regionale ed inviati al CIPE che, su proposta del Ministro per gli interventi straordinari nel Mezzogiorno, assegna le relative risorse finanziarie in accordo con il programma triennale e tenendo conto dei programmi pluriennali di cui al successivo art. 36".
+## Art. 3. — Servizio del coordinamento
+ dei piani di riparazione e di ricostruzione
 
-Art. 4
-------
+1.
 
-Servizio di supporto ai comuni
+Il servizio del coordinamento dei piani di riparazione e di ricostruzione cura il coordinamento dei piani annuali di ricostruzione e dei piani e programmi poliennali regionali di sviluppo, di cui all'[art. 35 della legge n. 219/1981](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;219#art_35) e la loro integrazione con i programmi degli altri enti e amministrazioni interessati.
 
-1. Il servizio di supporto all'attivita' di ricostruzione e riparazione dell'edilizia abitativa assiste le amministrazioni comunali mediante atti di impulso, consulenza e direttive - anche su specifici quesiti rivolti dagli stessi enti interessati - per la piu' sollecita, omogenea e corretta attivita' rivolta alla ricostruzione e riparazione del patrimonio privato abitativo colpito dal sisma.
+2.
 
-2. Il predetto servizio attende, inoltre, al necessario coordinamento, anche mediante direttiva, dell'attivita' dei comuni in ordine all'attuazione degli interventi del patrimonio pubblico colpito dal sisma.
+Il servizio stesso, avvalendosi anche del Servizio opere sul territorio dell'Agenzia per la promozione dello sviluppo del Mezzogiorno, verifica l'attuabilita' tecnica ed amministrativa dei piani e programmi comunali e regionali. Cura, altresi', la raccolta delle informazioni presso le amministrazioni statali, regionali e pubbliche in generale e i contatti diretti a riscontrare lo stato di attuazione degli interventi di rispettiva competenza, assistiti dai finanziamenti della [legge 14 maggio 1981, n. 219](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20marzo%201981%20n.%2075%20recante%20ulteriori%20interventi%20in%20favore%20delle%20popolazioni%20colpite%20dagli%20eventi%20sismici%20del%20novembre%201980%20e%20del%20_91990da23b96.md), e successive modificazioni, ai fini della piu' razionale e coordinata attivita' di ricostruzione delle zone colpite dal sisma.
 
-3. Il servizio stesso cura, altresi', la predisposizione di direttive per l'uniforme applicazione delle norme, con particolare riguardo agli interventi su beni di interesse storico artistico o monumentale, vincolati ai sensi della legge 1› giugno 1939, n. 1089, di proprieta' sia pubblica che privata.
+Nota all'art. 3:
+ - Il testo dell'[art. 35 della legge n. 219/1981](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;219#art_35) (Provvedimenti organici per la ricostruzione e lo sviluppo dei territori colpiti da eventi sismici del novembre 1980 e 1981) e' il seguente:
+ "Art. 35 (Definizione dei progetti regionali di sviluppo). - 1. Le regioni Basilicata e Campania provvedono alla predisposizione di piani di assetto del territorio e di progetti di sviluppo con priorita' per le aree disastrate, per l'area napoletana, per le aree piu' densamente popolate dell'area salernitana e per le aree interne.
+ 2. I piani ed i programmi di cui al presente articolo sono approvati con deliberazione del consiglio regionale ed inviati al CIPE che, su proposta del Ministro per gli interventi straordinari nel Mezzogiorno, assegna le relative risorse finanziarie in accordo con il programma triennale e tenendo conto dei programmi pluriennali di cui al successivo art. 36".
 
-Nota all'[art. 4:  
-- La legge n. 1089/1939](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939;1089~art4) concerne la tutela delle cose d'interesse storico e artistico.
+## Art. 4. — Servizio di supporto ai comuni
 
-Art. 5
-------
+1.
 
-Servizio per il completamento degli interventi  
-di sviluppo
+Il servizio di supporto all'attivita' di ricostruzione e riparazione dell'edilizia abitativa assiste le amministrazioni comunali mediante atti di impulso, consulenza e direttive - anche su specifici quesiti rivolti dagli stessi enti interessati - per la piu' sollecita, omogenea e corretta attivita' rivolta alla ricostruzione e riparazione del patrimonio privato abitativo colpito dal sisma.
 
-1. Il servizio per il completamento degli interventi di sviluppo cura i rapporti con l'Agenzia per la promozione dello sviluppo del Mezzogiorno, con gli enti di gestione e manutenzione delle opere e con le autorita' locali comunque interessate agli interventi stessi.
+2.
 
-2. A decorrere dal 1› marzo 1990, nell'ambito del servizio di cui al comma 1 e' costituita la gestione stralcio per il completamento, fino al loro esaurimento, e comunque non oltre il 28 febbraio 1991, degli interventi di cui all'art. 4 del decreto ministeriale n. 751/GAB del 25 settembre 1989, [pubblicato nella Gazzetta Ufficiale n. 228 del 29 settembre 1989](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1989-09-29&numeroGazzetta=228), che opera secondo i criteri e con le modalita' ivi previsti e si avvale degli organismi e soggetti di cui all'art. 5 dello stesso decreto. In particolare, al Consorzio Italtecnasud saranno affidate prestazioni di assistenza tecnica e logistica, esclusa ogni delega di funzioni pubbliche.
+Il predetto servizio attende, inoltre, al necessario coordinamento, anche mediante direttiva, dell'attivita' dei comuni in ordine all'attuazione degli interventi del patrimonio pubblico colpito dal sisma.
 
-3. Alla prosecuzione degli interventi di cui ai commi 1 e 2 si fa fronte con le disponibilita' presso le due contabilita' speciali n. 1421/3 e n. 1249/8, intestate al Ministro per gli interventi straordinari nel Mezzogiorno, ai sensi del provvedimento del Ministro del tesoro in data 10 ottobre 1989.
+3.
 
-Art. 6
-------
+Il servizio stesso cura, altresi', la predisposizione di direttive per l'uniforme applicazione delle norme, con particolare riguardo agli interventi su beni di interesse storico artistico o monumentale, vincolati ai sensi della legge 1 giugno 1939, n. 1089, di proprieta' sia pubblica che privata.
 
-Servizio affari generali
+Nota all'[art. 4:
+ - La legge n. 1089/1939](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939;1089#art_4) concerne la tutela delle cose d'interesse storico e artistico.
 
-1. Il servizio affari generali cura la trattazione degli affari concernenti l'amministrazione, il personale e i beni in dotazione all'Ufficio speciale e la predisposizione di elementi utili ai referti al Parlamento.
+## Art. 5. — Servizio per il completamento degli interventi
+ di sviluppo
 
-2. Il servizio si articola nei seguenti reparti: amministrazione del personale; bilancio; contabilita' speciali e economato; ispettivo.
+1.
 
-3. L'attivita' di vigilanza e di ispezione prevista dall'[art. 13, comma 2, della legge n. 48/1989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;48~art13-com2) e' svolta, di norma, da funzionari del reparto ispettivo, nonche' da funzionari dell'Ufficio o della competente struttura dell'Agenzia per la promozione dello sviluppo del Mezzogiorno.
+Il servizio per il completamento degli interventi di sviluppo cura i rapporti con l'Agenzia per la promozione dello sviluppo del Mezzogiorno, con gli enti di gestione e manutenzione delle opere e con le autorita' locali comunque interessate agli interventi stessi.
 
-Nota all'art. 6:  
-- Per il testo dell'[art. 13, comma 2, della legge n. 48/1989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;48~art13-com2) si veda la terza nota alle premesse.
+2.
 
-Art. 7
-------
+A decorrere dal 1 marzo 1990, nell'ambito del servizio di cui al comma 1 e' costituita la gestione stralcio per il completamento, fino al loro esaurimento, e comunque non oltre il 28 febbraio 1991, degli interventi di cui all'art. 4 del decreto ministeriale n. 751/GAB del 25 settembre 1989, pubblicato nella Gazzetta Ufficiale n. 228 del 29 settembre 1989, che opera secondo i criteri e con le modalita' ivi previsti e si avvale degli organismi e soggetti di cui all'art. 5 dello stesso decreto. In particolare, al Consorzio Italtecnasud saranno affidate prestazioni di assistenza tecnica e logistica, esclusa ogni delega di funzioni pubbliche.
 
-Dotazione organica
+3.
 
-  
-La dotazione organica dell'Ufficio per la ricostruzione e lo sviluppo delle zone terremotate e' cosi' stabilita:  
-a) cinquanta unita' poste a disposizione dall'Agenzia per la promozione dello sviluppo del Mezzogiorno e dagli enti di promozione di cui al [decreto del Presidente della Repubblica 28 febbraio 1987, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1987-02-28;58);  
-b) quaranta esperti nominati dal Ministro per gli interventi straordinari nel Mezzogiorno a tempo determinato, sulla base di convenzioni;  
-c) dieci unita' comandate dalle amministrazioni dello Stato.  
+Alla prosecuzione degli interventi di cui ai commi 1 e 2 si fa fronte con le disponibilita' presso le due contabilita' speciali n. 1421/3 e n. 1249/8, intestate al Ministro per gli interventi straordinari nel Mezzogiorno, ai sensi del provvedimento del Ministro del tesoro in data 10 ottobre 1989.
 
-Nota all'[art. 7:  
-- Il D.P.R. n. 58/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1987;58~art7) concerne il riordinamento degli enti per la promozione e lo sviluppo del Mezzogiorno, ai sensi dell'art. 6 della legge 1› marzo 1986, n. 64.
+## Art. 6. — Servizio affari generali
 
-Art. 8
-------
+1.
 
-Oneri per il personale
+Il servizio affari generali cura la trattazione degli affari concernenti l'amministrazione, il personale e i beni in dotazione all'Ufficio speciale e la predisposizione di elementi utili ai referti al Parlamento.
 
-1. Gli oneri relativi al trattamento economico fondamentale del personale di cui alle lettere a) e c) dell'art. 7 sono a carico delle rispettive amministrazioni o enti di provenienza. Gli oneri per le prestazioni di lavoro straordinario e per il trattamento di missione, determinati nella misura e nei limiti previsti dai rispettivi ordinamenti, nonche' quelli relativi al personale di cui alla lettera b) dello stesso art. 7, gravano sui fondi posti a disposizione dell'Ufficio. Le prestazioni per lavoro straordinario sono determinate in conformita' al disposto dell'[art. 12 del decreto del Presidente della Repubblica 25 giugno 1983, n. 344](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1983-06-25;344~art12), e successive modificazioni.
+2.
 
-2. Al personale di cui alle lettere a) e c) dell'art. 7 spetta il trattamento accessorio corrisposto ai dipendenti del Dipartimento per il Mezzogiorno.
+Il servizio si articola nei seguenti reparti: amministrazione del personale; bilancio; contabilita' speciali e economato; ispettivo.
 
-Nota all'art. 8:  
-- Si riporta il testo dell'[art. 12 del D.P.R. n. 344/1983](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1983;344~art12) (Norme risultanti dalla disciplina prevista dall'accordo del 29 aprile 1983 concernente il personale dei Ministeri ed altre categorie):  
-"Art. 12 (Prestazioni straordinarie). - 1. Le amministrazioni non interessate alla sperimentazione di cui al precedente art. 11 possono presentare, entro il mese di ottobre di ciascun anno a decorrere dal 1983, particolareggiati progetti finalizzati al raggiungimento di ben definiti obiettivi, precisandone i tempi di attuazione ed i contingenti di operatori impegnati. I progetti, da definire con le modalita' previste dall'art. 3, punto 6), della legge quadro, contestualmente al monte ore occorrente alla realizzazione del progetto ed ai criteri di verifica dei risultati, sono approvati con decreto del Presidente del Consiglio dei Ministri, di concerto con il Ministro del tesoro e con il Ministro proponente.  
-2. Con accordi decentrati, ai sensi dell'art. 14 della legge quadro, sara' data attuazione al progetto anche in relazione ad eventuali articolazioni interne dell'amministrazione proponente.  
-3. Resta fermo quanto disposto dal primo comma del precedente art. 9 in materia di revisione della disciplina contenuta nel [decreto del Presidente della Repubblica n. 422/77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977;422).  
-4. Sono fatti salvi i criteri di attribuzione di ore di lavoro straordinario per gli uffici di diretta collaborazione del Presidente del Consiglio dei Ministri o dei Ministri, di cui all'[art. 19 della legge 15 novembre 1973, n. 734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-15;734~art19). Sono fatte salve, altresi', le attribuzioni di ore di lavoro straordinario per servizi particolari e per attivita' imprevedibili causate da calamita' o da eventi naturali.  
-5. La spesa derivante dal presente articolo e dal precedente art. 11 sara' contenuta nell'ambito del fondo di cui all'[art. 3 della legge 22 luglio 1978, n. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-22;385~art3)".
+3.
 
-Art. 9
-------
+L'attivita' di vigilanza e di ispezione prevista dall'[art. 13, comma 2, della legge n. 48/1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;48#art_13-com2) e' svolta, di norma, da funzionari del reparto ispettivo, nonche' da funzionari dell'Ufficio o della competente struttura dell'Agenzia per la promozione dello sviluppo del Mezzogiorno.
 
-Spese di funzionamento
+Nota all'art. 6:
+ - Per il testo dell'[art. 13, comma 2, della legge n. 48/1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;48#art_13-com2) si veda la terza nota alle premesse.
 
-  
-I fondi, di cui al capitolo 3354 dello stato di previsione della spesa della Presidenza del Consiglio dei Ministri, continuano ad essere gestiti mediante la contabilita' speciale n. 1422 istituita presso la sezione di tesoreria provinciale dello Stato di Roma, intestata al Ministro per gli interventi straordinari nel Mezzogiorno.  
+## Art. 7. — Dotazione organica
 
-Art. 10
--------
+La dotazione organica dell'Ufficio per la ricostruzione e lo sviluppo delle zone terremotate e' cosi' stabilita:
+ a) cinquanta unita' poste a disposizione dall'Agenzia per la promozione dello sviluppo del Mezzogiorno e dagli enti di promozione di cui al [decreto del Presidente della Repubblica 28 febbraio 1987, n. 58](../DPR/Riordinamento%20degli%20enti%20per%20la%20promozione%20e%20lo%20sviluppo%20del%20Mezzogiorno%20ai%20sensi%20dellart.%206%20della%20legge%201%20marzo%201986%20n.%2064.md);
+ b) quaranta esperti nominati dal Ministro per gli interventi straordinari nel Mezzogiorno a tempo determinato, sulla base di convenzioni;
+ c) dieci unita' comandate dalle amministrazioni dello Stato.
 
-Consegnatario-cassiere
+Nota all'[art. 7:
+ - Il D.P.R. n. 58/1987](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987;58#art_7) concerne il riordinamento degli enti per la promozione e lo sviluppo del Mezzogiorno, ai sensi dell'art. 6 della legge 1 marzo 1986, n. 64.
 
-  
-Le funzioni di consegnatario-cassiere sono svolte dal consegnatario-cassiere dell'Ufficio del Ministro per gli interventi straordinari nel Mezzogiorno.  
+## Art. 8. — Oneri per il personale
 
-Art. 11
--------
+1.
 
- Il [decreto ministeriale 7 marzo 1988, n. 577, pubblicato nella Gazzetta Ufficiale n. 120 del 25 maggio 1989](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1989-05-25&numeroGazzetta=120), e' sostituito dal presente regolamento.  
+Gli oneri relativi al trattamento economico fondamentale del personale di cui alle lettere a) e c) dell'art. 7 sono a carico delle rispettive amministrazioni o enti di provenienza. Gli oneri per le prestazioni di lavoro straordinario e per il trattamento di missione, determinati nella misura e nei limiti previsti dai rispettivi ordinamenti, nonche' quelli relativi al personale di cui alla lettera b) dello stesso art. 7, gravano sui fondi posti a disposizione dell'Ufficio. Le prestazioni per lavoro straordinario sono determinate in conformita' al disposto dell'[art. 12 del decreto del Presidente della Repubblica 25 giugno 1983, n. 344](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2029%20aprile%201983%20concernente%20il%20personale%20dei%20Ministeri%20ed%20altre%20categorie.md), e successive modificazioni.
+
+2.
+
+Al personale di cui alle lettere a) e c) dell'art. 7 spetta il trattamento accessorio corrisposto ai dipendenti del Dipartimento per il Mezzogiorno.
+
+Nota all'art. 8:
+ - Si riporta il testo dell'[art. 12 del D.P.R. n. 344/1983](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1983;344#art_12) (Norme risultanti dalla disciplina prevista dall'accordo del 29 aprile 1983 concernente il personale dei Ministeri ed altre categorie):
+ "Art. 12 (Prestazioni straordinarie). - 1. Le amministrazioni non interessate alla sperimentazione di cui al precedente art. 11 possono presentare, entro il mese di ottobre di ciascun anno a decorrere dal 1983, particolareggiati progetti finalizzati al raggiungimento di ben definiti obiettivi, precisandone i tempi di attuazione ed i contingenti di operatori impegnati. I progetti, da definire con le modalita' previste dall'art. 3, punto 6), della legge quadro, contestualmente al monte ore occorrente alla realizzazione del progetto ed ai criteri di verifica dei risultati, sono approvati con decreto del Presidente del Consiglio dei Ministri, di concerto con il Ministro del tesoro e con il Ministro proponente.
+ 2. Con accordi decentrati, ai sensi dell'art. 14 della legge quadro, sara' data attuazione al progetto anche in relazione ad eventuali articolazioni interne dell'amministrazione proponente.
+ 3. Resta fermo quanto disposto dal primo comma del precedente art. 9 in materia di revisione della disciplina contenuta nel [decreto del Presidente della Repubblica n. 422/77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977;422).
+ 4. Sono fatti salvi i criteri di attribuzione di ore di lavoro straordinario per gli uffici di diretta collaborazione del Presidente del Consiglio dei Ministri o dei Ministri, di cui all'[art. 19 della legge 15 novembre 1973, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-15;734#art_19). Sono fatte salve, altresi', le attribuzioni di ore di lavoro straordinario per servizi particolari e per attivita' imprevedibili causate da calamita' o da eventi naturali.
+ 5. La spesa derivante dal presente articolo e dal precedente art. 11 sara' contenuta nell'ambito del fondo di cui all'[art. 3 della legge 22 luglio 1978, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-22;385#art_3)".
+
+## Art. 9. — Spese di funzionamento
+
+I fondi, di cui al capitolo 3354 dello stato di previsione della spesa della Presidenza del Consiglio dei Ministri, continuano ad essere gestiti mediante la contabilita' speciale n. 1422 istituita presso la sezione di tesoreria provinciale dello Stato di Roma, intestata al Ministro per gli interventi straordinari nel Mezzogiorno.
+
+## Art. 10. — Consegnatario-cassiere
+
+Le funzioni di consegnatario-cassiere sono svolte dal consegnatario-cassiere dell'Ufficio del Ministro per gli interventi straordinari nel Mezzogiorno.
+
+## Art. 11.
+
+Il decreto ministeriale 7 marzo 1988, n. 577, pubblicato nella Gazzetta Ufficiale n. 120 del 25 maggio 1989, e' sostituito dal presente regolamento.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 3 aprile 1990
+Roma, 3 aprile 1990
 
-Il Ministro: MISASI
-
-Visto, il Guardasigilli: VASSALLI Registrato alla Corte dei conti il 27 aprile 1990
-
-Registro n. 5 Presidenza, foglio n. 354
+Il Ministro: MISASI Visto, il Guardasigilli: VASSALLI Registrato alla Corte dei conti il 27 aprile 1990 Registro n. 5 Presidenza, foglio n. 354

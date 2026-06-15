@@ -1,30 +1,28 @@
-DECRETO LEGISLATIVO 27 gennaio 2006 n. 69
-
-
-DECRETO LEGISLATIVO 27 gennaio 2006 n. 69
-=========================================
-
-Disposizioni sanzionatorie per la violazione del Regolamento (CE) n. 261/2004 che istituisce regole comuni in materia di compensazione ed assistenza ai passeggeri in caso di negato imbarco, di cancellazione del volo o di ritardo prolungato.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/3/2006
+---
+tipo: DECRETO LEGISLATIVO
+numero: 69
+data: 2006-01-27
+titolo: "Disposizioni sanzionatorie per la violazione del Regolamento (CE) n. 261/2004 che istituisce regole comuni in materia di compensazione ed assistenza ai passeggeri in caso di negato imbarco, di cancellazione del volo o di ritardo prolungato."
+urn: urn:nir:stato:decreto.legislativo:2006-01-27;69
+codice_redazionale: 006G0079
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visti gli [articoli 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art76) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
+Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge del 18 aprile 2005, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-04-18;62), ed in particolare l'articolo 3, comma 1, recante delega al Governo per la disciplina sanzionatoria di violazioni di disposizioni comunitarie;
+Vista la [legge del 18 aprile 2005, n. 62](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202004.md), ed in particolare l'articolo 3, comma 1, recante delega al Governo per la disciplina sanzionatoria di violazioni di disposizioni comunitarie;
 
-Visto il [Regolamento (CE) n. 261/2004 del Parlamento europeo e del Consiglio, dell'11 febbraio 2004](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32004R0261), che istituisce regole comuni in materia di compensazione ed assistenza ai passeggeri in caso di negato imbarco, di cancellazione del volo o di ritardo prolungato, ed in particolare l'articolo 16, relativo alle violazioni delle disposizioni ivi contenute;
+Visto il Regolamento (CE) n. 261/2004 del Parlamento europeo e del Consiglio, dell'11 febbraio 2004, che istituisce regole comuni in materia di compensazione ed assistenza ai passeggeri in caso di negato imbarco, di cancellazione del volo o di ritardo prolungato, ed in particolare l'articolo 16, relativo alle violazioni delle disposizioni ivi contenute;
 
-Vista la [legge del 24 novembre 1981, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689), recante modifiche al sistema penale;
+Vista la [legge del 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689), recante modifiche al sistema penale;
 
-Visto il [decreto legislativo del 25 luglio 1997, n. 250](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-25;250), istitutivo dell'Ente nazionale per l'aviazione civile (E.N.A.C.);
+Visto il [decreto legislativo del 25 luglio 1997, n. 250](Istituzione%20dellEnte%20nazionale%20per%20laviazione%20civile%20E.N.A.C.md), istitutivo dell'Ente nazionale per l'aviazione civile (E.N.A.C.);
 
-Visto il [decreto-legge dell'8 settembre 2004, n. 237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-09-08;237), convertito, con modificazioni, dalla [legge 9 novembre 2004, n. 265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-11-09;265), recante interventi urgenti nel settore dell'aviazione civile;
+Visto il [decreto-legge dell'8 settembre 2004, n. 237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-09-08;237), convertito, con modificazioni, dalla [legge 9 novembre 2004, n. 265](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20settembre%202004%20n.%20237%20recante%20interventi%20urgenti%20nel%20settore%20dellaviazione%20civile.%20Delega%20al%20Governo%20per%20lemanazione%20di%20disposiz_ae0b5d9b97cf.md), recante interventi urgenti nel settore dell'aviazione civile;
 
-Visto il [decreto legislativo del 9 maggio 2005, n. 96](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-05-09;96), recante la revisione della parte aeronautica del [codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327);
+Visto il [decreto legislativo del 9 maggio 2005, n. 96](Revisione%20della%20parte%20aeronautica%20del%20Codice%20della%20navigazione%20a%20norma%20dellarticolo%202%20della%20legge%209%20novembre%202004%20n.%20265.md), recante la revisione della parte aeronautica del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 29 luglio 2005;
 
@@ -34,139 +32,111 @@ Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 1
 
 Sulla proposta del Ministro per le politiche comunitarie e del Ministro della giustizia, di concerto con i Ministri degli affari esteri, dell'economia e delle finanze e delle infrastrutture e dei trasporti;
 
-Emana
------
+Emana il seguente decreto legislativo:
 
-il seguente decreto legislativo:
+## Art. 1. — Oggetto
 
-Art. 1
-------
+1.
 
-Oggetto
+Fatto salvo quanto previsto all'[articolo 1174 dal Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto del 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), il presente decreto detta la disciplina sanzionatoria per le violazioni del Regolamento (CE) n. 261/2004 del Parlamento europeo e del Consiglio, dell'11 febbraio 2004, che istituisce regole comuni in materia di compensazione ed assistenza ai passeggeri in caso di negato imbarco, di cancellazione del volo o di ritardo prolungato, di seguito denominato: «Regolamento».
 
-1. Fatto salvo quanto previsto all'[articolo 1174 dal Codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art1174), approvato con [regio decreto del 30 marzo 1942, n. 327](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327), il presente decreto detta la disciplina sanzionatoria per le violazioni del [Regolamento (CE) n. 261/2004 del Parlamento europeo e del Consiglio, dell'11 febbraio 2004](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32004R0261), che istituisce regole comuni in materia di compensazione ed assistenza ai passeggeri in caso di negato imbarco, di cancellazione del volo o di ritardo prolungato, di seguito denominato: «Regolamento».
+Avvertenza:
 
-Avvertenza:  
-  
-Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.  
-Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE).  
-  
-Note alle premesse:  
-  
-- L'[art. 76 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art76) stabilisce che l'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.  
-- L'[art. 87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgarele leggi e di emanare i decreti aventi valore di legge ed i regolamenti.  
-- L'[art. 3, comma 1, della legge 18 aprile 2005, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-04-18;62~art3-com1), pubblicata nella Gazzetta Ufficiale 27 aprile 2005, n. 96, supplemento ordinario, cosi' recita:  
-«Art. 3 (Delega al Governo per la disciplina sanzionatoria di violazioni di disposizioni comunitarie). - 1. Al fine di assicurare la piena integrazione delle norme comunitarie nell'ordinamento nazionale, il Governo, fatte salve le norme penali vigenti, e' delegato ad adottare, entro due anni dalla data di entrata in vigore della presente legge, disposizioni recanti sanzioni penali o amministrative per le violazioni di direttive comunitarie attuate in via regolamentare o amministrativa, ai sensi della [legge 22 febbraio 1994, n. 146](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;146), della [legge 24 aprile 1998, n. 128](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-04-24;128), e della presente legge, e di regolamenti comunitari vigenti alla data di entrata in vigore della presente legge, per i quali non siano gia' previste sanzioni penali o amministrative.».  
-- Il [regolamento (CE) n. 261/2004](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32004R0261) e' pubblicato nella GUCE n. L 46 del 17 febbraio 2004.  
-- La [legge 24 novembre 1981, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689) e' pubblicata nella Gazzetta Ufficiale 30 novembre 1981, n. 329, supplemento ordinario.  
-- Il [decreto legislativo del 25 luglio 1997, n. 250](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-25;250), e' pubblicato nella Gazzetta Ufficiale 31 luglio 1997, n. 177.  
-- Il [decreto-legge dell'8 settembre 2004, n. 237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-09-08;237), convertito, con modificazioni, dalla [legge 9 novembre 2004, n. 265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-11-09;265), e' pubblicato nella Gazzetta Ufficiale 10 settembre 2004, n. 213.  
-- Il [decreto legislativo del 9 maggio 2005, n. 96](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-05-09;96), e' pubblicato nella Gazzetta Ufficiale 8 giugno 2005, n. 131, supplemento ordinario.  
-Note all'[art. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art1):  
-- L'[art. 1174 del Codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art1174), cosi' recita:  
-«Art. 1174 (Inosservanza di norme di polizia). - 1.  
-Chiunque non osserva una disposizione di legge o di regolamento, ovvero un provvedimento legalmente dato dall'autorita' di polizia dei porti o degli aerodromi, e' punito, se il fatto non costituisce un piu' grave reato, con l'arresto fino a tre mesi, e fino a lire quattrocentomila.  
-2. Se 1'inosservanza riguarda un provvedimento dell'autorita' in materia di circolazione nell'ambito del demanio marittimo la sanzione amministrativa del pagamento di una somma da lire centomila a lire seicentomila.».  
-- Per il [regolamento (CE) n. 261/2004](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32004R0261) vedi note alle premesse.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE).
 
-Art. 2
-------
+ Note alle premesse:
 
-Organismo responsabile dell'applicazione delle disposizioni
+ - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) stabilisce che l'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
+ - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgarele leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
+ - L'[art. 3, comma 1, della legge 18 aprile 2005, n. 62](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202004.md), pubblicata nella Gazzetta Ufficiale 27 aprile 2005, n. 96, supplemento ordinario, cosi' recita:
+ «Art. 3 (Delega al Governo per la disciplina sanzionatoria di violazioni di disposizioni comunitarie). - 1. Al fine di assicurare la piena integrazione delle norme comunitarie nell'ordinamento nazionale, il Governo, fatte salve le norme penali vigenti, e' delegato ad adottare, entro due anni dalla data di entrata in vigore della presente legge, disposizioni recanti sanzioni penali o amministrative per le violazioni di direttive comunitarie attuate in via regolamentare o amministrativa, ai sensi della [legge 22 febbraio 1994, n. 146](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201993.md), della [legge 24 aprile 1998, n. 128](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), e della presente legge, e di regolamenti comunitari vigenti alla data di entrata in vigore della presente legge, per i quali non siano gia' previste sanzioni penali o amministrative.».
+ - Il regolamento (CE) n. 261/2004 e' pubblicato nella GUCE n. L 46 del 17 febbraio 2004.
+ - La [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689) e' pubblicata nella Gazzetta Ufficiale 30 novembre 1981, n. 329, supplemento ordinario.
+ - Il [decreto legislativo del 25 luglio 1997, n. 250](Istituzione%20dellEnte%20nazionale%20per%20laviazione%20civile%20E.N.A.C.md), e' pubblicato nella Gazzetta Ufficiale 31 luglio 1997, n. 177.
+ - Il [decreto-legge dell'8 settembre 2004, n. 237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-09-08;237), convertito, con modificazioni, dalla [legge 9 novembre 2004, n. 265](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20settembre%202004%20n.%20237%20recante%20interventi%20urgenti%20nel%20settore%20dellaviazione%20civile.%20Delega%20al%20Governo%20per%20lemanazione%20di%20disposiz_ae0b5d9b97cf.md), e' pubblicato nella Gazzetta Ufficiale 10 settembre 2004, n. 213.
+ - Il [decreto legislativo del 9 maggio 2005, n. 96](Revisione%20della%20parte%20aeronautica%20del%20Codice%20della%20navigazione%20a%20norma%20dellarticolo%202%20della%20legge%209%20novembre%202004%20n.%20265.md), e' pubblicato nella Gazzetta Ufficiale 8 giugno 2005, n. 131, supplemento ordinario.
+ Note all'[art. 1](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md):
+ - L'[art. 1174 del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' recita:
+ «Art. 1174 (Inosservanza di norme di polizia). - 1.
+ Chiunque non osserva una disposizione di legge o di regolamento, ovvero un provvedimento legalmente dato dall'autorita' di polizia dei porti o degli aerodromi, e' punito, se il fatto non costituisce un piu' grave reato, con l'arresto fino a tre mesi, e fino a lire quattrocentomila.
+ 2. Se 1'inosservanza riguarda un provvedimento dell'autorita' in materia di circolazione nell'ambito del demanio marittimo la sanzione amministrativa del pagamento di una somma da lire centomila a lire seicentomila.».
+ - Per il regolamento (CE) n. 261/2004 vedi note alle premesse.
 
-1. L'E.N.A.C. e' l'organismo responsabile dell'applicazione del Regolamento ed irroga le sanzioni amministrative previste negli articoli 3, 4, 5, 6, 7 e 8.
+## Art. 2. — Organismo responsabile dell'applicazione delle disposizioni
 
-Art. 3
-------
+1.
 
-Negato imbarco
+L'E.N.A.C. e' l'organismo responsabile dell'applicazione del Regolamento ed irroga le sanzioni amministrative previste negli articoli 3, 4, 5, 6, 7 e 8.
 
-1. Il vettore aereo che viola le disposizioni previste dall'articolo 4 del Regolamento, non rispettando le procedure ivi indicate, ovvero non provvede a versare la compensazione pecuniaria ai passeggeri per negato imbarco, e' punito con la sanzione amministrativa da euro diecimila ad euro cinquantamila.
+## Art. 3. — Negato imbarco
 
-Nota all'art. 3:  
-- Per i riferimenti del [regolamento (CE) n. 261/2004](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32004R0261), si veda nelle note alle premesse.
+1.
 
-Art. 4
-------
+Il vettore aereo che viola le disposizioni previste dall'articolo 4 del Regolamento, non rispettando le procedure ivi indicate, ovvero non provvede a versare la compensazione pecuniaria ai passeggeri per negato imbarco, e' punito con la sanzione amministrativa da euro diecimila ad euro cinquantamila.
 
-Cancellazione del volo
+Nota all'art. 3:
+ - Per i riferimenti del regolamento (CE) n. 261/2004, si veda nelle note alle premesse.
 
-1. Il vettore aereo che viola le disposizioni previste dall'articolo 5 del Regolamento, non rispettando le procedure ivi indicate, ovvero non provvede a versare la compensazione pecuniaria ai passeggeri per cancellazione del volo, e' punito con la sanzione amministrativa da euro diecimila ad euro cinquantamila.
+## Art. 4. — Cancellazione del volo
 
-Nota all'art. 4:  
-- Per i riferimenti del [regolamento (CE) n. 261/2004](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32004R0261), si veda nelle note alle premesse.
+1.
 
-Art. 5
-------
+Il vettore aereo che viola le disposizioni previste dall'articolo 5 del Regolamento, non rispettando le procedure ivi indicate, ovvero non provvede a versare la compensazione pecuniaria ai passeggeri per cancellazione del volo, e' punito con la sanzione amministrativa da euro diecimila ad euro cinquantamila.
 
-Ritardo
+Nota all'art. 4:
+ - Per i riferimenti del regolamento (CE) n. 261/2004, si veda nelle note alle premesse.
 
-1. Il vettore aereo che viola le disposizioni previste dall'articolo 6 del Regolamento, non rispettando le procedure ivi indicate, e' punito con la sanzione amministrativa da euro duemilacinquecento ad euro diecimila.
+## Art. 5. — Ritardo
 
-Nota all'art. 5:  
-- Per i riferimenti del [regolamento (CE) n. 261/2004](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32004R0261), si veda nelle note alle premesse.
+1.
 
-Art. 6
-------
+Il vettore aereo che viola le disposizioni previste dall'articolo 6 del Regolamento, non rispettando le procedure ivi indicate, e' punito con la sanzione amministrativa da euro duemilacinquecento ad euro diecimila.
 
-Sistemazione in classe superiore o inferiore
+Nota all'art. 5:
+ - Per i riferimenti del regolamento (CE) n. 261/2004, si veda nelle note alle premesse.
 
-1. Il vettore che non adempie agli obblighi di cui all'articolo 10 del Regolamento e' punito con la sanzione amministrativa da euro mille ad euro cinquemila.
+## Art. 6. — Sistemazione in classe superiore o inferiore
 
-Nota all'art. 6:  
-- Per i riferimenti del [regolamento (CE) n. 261/2004](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32004R0261) si veda nelle note alle premesse.
+1.
 
-Art. 7
-------
+Il vettore che non adempie agli obblighi di cui all'articolo 10 del Regolamento e' punito con la sanzione amministrativa da euro mille ad euro cinquemila.
 
-Precedenza ed assistenza alle persone con mobilita' ridotta ed ai bambini non accompagnati
+Nota all'art. 6:
+ - Per i riferimenti del regolamento (CE) n. 261/2004 si veda nelle note alle premesse.
 
-1. Il vettore aereo che viola le disposizioni previste dall'articolo 11 del Regolamento e' punito con la sanzione amministrativa da euro diecimila a euro cinquantamila.
+## Art. 7. — Precedenza ed assistenza alle persone con mobilita' ridotta ed ai bambini non accompagnati
 
-Nota all'art. 7:  
-- Per i riferimenti del [regolamento (CE) n. 261/2004](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32004R0261) si veda nelle note alle premesse.
+1.
 
-Art. 8
-------
+Il vettore aereo che viola le disposizioni previste dall'articolo 11 del Regolamento e' punito con la sanzione amministrativa da euro diecimila a euro cinquantamila.
 
-Obbligo d'informazione
+Nota all'art. 7:
+ - Per i riferimenti del regolamento (CE) n. 261/2004 si veda nelle note alle premesse.
 
-1. Il vettore aereo che viola gli obblighi informativi previsti dall'articolo 14 del Regolamento e' punito con la sanzione amministrativa da euro duemilacinquecento a euro diecimila.
+## Art. 8. — Obbligo d'informazione
 
-Nota all'art. 8:  
-- Per i riferimenti del [regolamento (CE) n. 261/2004](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32004R0261) si veda nelle note alle premesse.
+1.
 
-Art. 9
-------
+Il vettore aereo che viola gli obblighi informativi previsti dall'articolo 14 del Regolamento e' punito con la sanzione amministrativa da euro duemilacinquecento a euro diecimila.
 
-Attribuzione delle entrate derivanti dall'applicazione delle sanzioni
+Nota all'art. 8:
+ - Per i riferimenti del regolamento (CE) n. 261/2004 si veda nelle note alle premesse.
 
-1. Con decreto del Ministro dell'economia e delle finanze, di concerto con il Ministro delle infrastrutture e dei trasporti, sono definite le modalita' di attribuzione, anche all'E.N.A.C., delle maggiori entrate derivanti dal presente decreto legislativo.
+## Art. 9. — Attribuzione delle entrate derivanti dall'applicazione delle sanzioni
 
-Art. 10
--------
+1.
 
-Disposizioni finanziarie
+Con decreto del Ministro dell'economia e delle finanze, di concerto con il Ministro delle infrastrutture e dei trasporti, sono definite le modalita' di attribuzione, anche all'E.N.A.C., delle maggiori entrate derivanti dal presente decreto legislativo.
 
-1. Dall'attuazione del presente decreto non devono derivare nuovi o maggiori oneri per la finanza pubblica e, ai compiti di cui all'articolo 2, l'ENAC provvede con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
+## Art. 10. — Disposizioni finanziarie
+
+1.
+
+Dall'attuazione del presente decreto non devono derivare nuovi o maggiori oneri per la finanza pubblica e, ai compiti di cui all'articolo 2, l'ENAC provvede con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 gennaio 2006
+Dato a Roma, addi' 27 gennaio 2006
 
-CIAMPI
-
-Berlusconi, Presidente del Consiglio dei Ministri
-
-La Malfa, Ministro per le politiche comunitarie
-
-Castelli, Ministro della giustizia
-
-Fini, Ministro degli affari esteri
-
-Tremonti, Ministro del-l'economia e delle finanze
-
-Lunardi, Ministro delle infrastrutture e dei trasporti
-
-Visto, il Guardasigilli: Castelli
+CIAMPI Berlusconi, Presidente del Consiglio dei Ministri La Malfa, Ministro per le politiche comunitarie Castelli, Ministro della giustizia Fini, Ministro degli affari esteri Tremonti, Ministro del-l'economia e delle finanze Lunardi, Ministro delle infrastrutture e dei trasporti Visto, il Guardasigilli: Castelli

@@ -1,70 +1,73 @@
-DECRETO LEGISLATIVO 23 dicembre 1997 n. 469
+---
+tipo: DECRETO LEGISLATIVO
+numero: 469
+data: 1997-12-23
+titolo: "Conferimento alle regioni e agli enti locali di funzioni e compiti in materia di mercato del lavoro, a norma dell'articolo 1 della legge 15 marzo 1997, n. 59."
+urn: urn:nir:stato:decreto.legislativo:1997-12-23;469
+codice_redazionale: 097G0508
+vigente: true
+---
 
+## Conferimento di funzioni
 
-DECRETO LEGISLATIVO 23 dicembre 1997 n. 469
-===========================================
+Capo I
 
-Conferimento alle regioni e agli enti locali di funzioni e compiti in materia di mercato del lavoro, a norma dell'articolo 1 della legge 15 marzo 1997, n. 59.
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del decreto: 9-1-1998
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 SETTEMBRE 2015, N. 150))
 
-CAPO I Capo I Conferimento di funzioni
---------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 SETTEMBRE 2015, N. 150))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 SETTEMBRE 2015, N. 150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;150)))
+### Art. 3.
 
-### Art. 2
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 SETTEMBRE 2015, N. 150))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 SETTEMBRE 2015, N. 150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;150)))
+## Servizi regionali per l'impiego
 
-### Art. 3
+Capo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 SETTEMBRE 2015, N. 150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;150)))
+### Art. 4.
 
-CAPO II Capo II Servizi regionali per l'impiego
------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 SETTEMBRE 2015, N. 150))
 
-### Art. 4
+### Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 SETTEMBRE 2015, N. 150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;150)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 SETTEMBRE 2015, N. 150))
 
-### Art. 5
+### Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 SETTEMBRE 2015, N. 150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;150)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 SETTEMBRE 2015, N. 150))
 
-### Art. 6
+## Trasferimento risorse alle regioni e soppressione uffici
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 SETTEMBRE 2015, N. 150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;150)))
+Capo III
 
-CAPO III Capo III Trasferimento risorse alle regioni e soppressione uffici
---------------------------------------------------------------------------
+### Art. 7.
 
-### Art. 7
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 SETTEMBRE 2015, N. 150))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 SETTEMBRE 2015, N. 150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;150)))
+### Art. 8.
 
-### Art. 8
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 SETTEMBRE 2015, N. 150))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 SETTEMBRE 2015, N. 150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;150)))
+### Art. 9.
 
-### Art. 9
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 SETTEMBRE 2015, N. 150))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 SETTEMBRE 2015, N. 150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;150)))
+## Attivita' di mediazione tra domanda e offerta di lavoro - Sistema informativo lavoro
 
-CAPO IV Capo IV Attivita' di mediazione tra domanda e offerta di lavoro - Sistema informativo lavoro
-----------------------------------------------------------------------------------------------------
+Capo IV
 
-### Art. 10
+### Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 SETTEMBRE 2015, N. 150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;150)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 SETTEMBRE 2015, N. 150))
 
-### Art. 11
+### Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 SETTEMBRE 2015, N. 150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;150)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 SETTEMBRE 2015, N. 150))
 
-### Art. 12
+### Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 14 SETTEMBRE 2015, N. 150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;150)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 SETTEMBRE 2015, N. 150))

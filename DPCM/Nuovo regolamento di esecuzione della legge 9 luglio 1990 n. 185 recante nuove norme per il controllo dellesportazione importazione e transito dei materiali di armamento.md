@@ -1,94 +1,97 @@
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 25 settembre 1999 n. 448
+---
+tipo: DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
+numero: 448
+data: 1999-09-25
+titolo: "Nuovo regolamento di esecuzione della legge 9 luglio 1990, n. 185, recante nuove norme per il controllo dell'esportazione, importazione e transito dei materiali di armamento."
+urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:1999-09-25;448
+codice_redazionale: 099G0512
+vigente: true
+---
 
+## DISPOSIZIONI GENERALI
 
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 25 settembre 1999 n. 448
-==========================================================================
+Titolo I
 
-Nuovo regolamento di esecuzione della legge 9 luglio 1990, n. 185, recante nuove norme per il controllo dell'esportazione, importazione e transito dei materiali di armamento.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del decreto: 16-12-1999
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 14 GENNAIO 2005, N. 93))
 
-CAPO I Titolo I DISPOSIZIONI GENERALI
--------------------------------------
+## DISPOSIZIONI GENERALI Capo I Norme generali sui procedimenti
 
-### Art. 1
+Titolo I
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 14 GENNAIO 2005, N. 93](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-01-14;93)))
+### Art. 2.
 
-CAPO II Titolo I DISPOSIZIONI GENERALI Capo I Norme generali sui procedimenti
------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 14 GENNAIO 2005, N. 93))
 
-### Art. 2
+### Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 14 GENNAIO 2005, N. 93](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-01-14;93)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 14 GENNAIO 2005, N. 93))
 
-### Art. 3
+### Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 14 GENNAIO 2005, N. 93](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-01-14;93)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 14 GENNAIO 2005, N. 93))
 
-### Art. 4
+## DISPOSIZIONI GENERALI Capo II Dei singoli procedimenti
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 14 GENNAIO 2005, N. 93](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-01-14;93)))
+Titolo I
 
-CAPO III Titolo I DISPOSIZIONI GENERALI Capo II Dei singoli procedimenti
-------------------------------------------------------------------------
+### Art. 5.
 
-### Art. 5
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 14 GENNAIO 2005, N. 93))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 14 GENNAIO 2005, N. 93](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-01-14;93)))
+### Art. 6.
 
-### Art. 6
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 14 GENNAIO 2005, N. 93))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 14 GENNAIO 2005, N. 93](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-01-14;93)))
+### Art. 7.
 
-### Art. 7
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 14 GENNAIO 2005, N. 93))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 14 GENNAIO 2005, N. 93](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-01-14;93)))
+### Art. 8.
 
-### Art. 8
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 14 GENNAIO 2005, N. 93))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 14 GENNAIO 2005, N. 93](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-01-14;93)))
+### Art. 9.
 
-### Art. 9
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 14 GENNAIO 2005, N. 93))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 14 GENNAIO 2005, N. 93](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-01-14;93)))
+### Art. 10.
 
-### Art. 10
+(( ARTICOLO ABROGATO DAL D.P.C.M. 14 GENNAIO 2005, N. 93 ))
 
-(( ARTICOLO ABROGATO DAL [D.P.C.M. 14 GENNAIO 2005, N. 93](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-01-14;93) ))
+### Art. 11.
 
-### Art. 11
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 14 GENNAIO 2005, N. 93))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 14 GENNAIO 2005, N. 93](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-01-14;93)))
+### Art. 12.
 
-### Art. 12
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 14 GENNAIO 2005, N. 93))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 14 GENNAIO 2005, N. 93](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-01-14;93)))
+### Art. 13.
 
-### Art. 13
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 14 GENNAIO 2005, N. 93))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 14 GENNAIO 2005, N. 93](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-01-14;93)))
+## NORME ORGANIZZATIVE E PERSONALE
 
-CAPO IV Titolo II NORME ORGANIZZATIVE E PERSONALE
--------------------------------------------------
+Titolo II
 
-### Art. 14
+### Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 14 GENNAIO 2005, N. 93](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-01-14;93)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 14 GENNAIO 2005, N. 93))
 
-### Art. 15
+### Art. 15.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 14 GENNAIO 2005, N. 93](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-01-14;93)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 14 GENNAIO 2005, N. 93))
 
-### Art. 16
+### Art. 16.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 14 GENNAIO 2005, N. 93](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-01-14;93)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 14 GENNAIO 2005, N. 93))
 
-### Art. 17
+### Art. 17.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 14 GENNAIO 2005, N. 93](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-01-14;93)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 14 GENNAIO 2005, N. 93))
 
-### Art. 18
+### Art. 18.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 14 GENNAIO 2005, N. 93](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-01-14;93)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 14 GENNAIO 2005, N. 93))

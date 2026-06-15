@@ -1,28 +1,21 @@
-DECRETO-LEGGE 02 novembre 1999 n. 390
+---
+tipo: DECRETO-LEGGE
+numero: 390
+data: 1999-11-02
+titolo: "Disposizioni per il finanziamento di lavori socialmente utili."
+urn: urn:nir:stato:decreto.legge:1999-11-02;390
+codice_redazionale: 099G0475
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 02 novembre 1999 n. 390
-=====================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1999, N. 488](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md)
 
-Disposizioni per il finanziamento di lavori socialmente utili.
---------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 4-11-1999.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1999, N. 488](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md)
 
-Art. 1
-------
+## Art. 3.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1999, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488)
-  
-
-Art. 2
-------
-
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1999, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488)
-  
-
-Art. 3
-------
-
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1999, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1999, N. 488](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md)

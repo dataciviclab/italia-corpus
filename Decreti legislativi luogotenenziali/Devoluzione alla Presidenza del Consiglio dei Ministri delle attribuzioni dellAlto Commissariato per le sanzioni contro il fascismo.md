@@ -1,28 +1,25 @@
-DECRETO LEGISLATIVO LUOGOTENENZIALE 08 febbraio 1946 n. 22
+---
+tipo: DECRETO LEGISLATIVO LUOGOTENENZIALE
+numero: 22
+data: 1946-02-08
+titolo: "Devoluzione alla Presidenza del Consiglio dei Ministri delle attribuzioni dell'Alto Commissariato per le sanzioni contro il fascismo."
+urn: urn:nir:stato:decreto.legislativo.luogotenenziale:1946-02-08;22
+codice_redazionale: 046U0022
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO LUOGOTENENZIALE 08 febbraio 1946 n. 22
-==========================================================
+((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO, CON MODIFICAZIONI, DALLA [L. 18 FEBBRAIO 2009, N. 9](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20dicembre%202008%20n.%20200%20recante%20misure%20urgenti%20in%20materia%20di%20semplificazione%20normativa.md)))
 
-Devoluzione alla Presidenza del Consiglio dei Ministri delle attribuzioni dell'Alto Commissariato per le sanzioni contro il fascismo.
--------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO, CON MODIFICAZIONI, DALLA [L. 18 FEBBRAIO 2009, N. 9](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20dicembre%202008%20n.%20200%20recante%20misure%20urgenti%20in%20materia%20di%20semplificazione%20normativa.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO, CON MODIFICAZIONI, DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))  
+## Art. 3.
 
-Art. 2
-------
+((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO, CON MODIFICAZIONI, DALLA [L. 18 FEBBRAIO 2009, N. 9](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20dicembre%202008%20n.%20200%20recante%20misure%20urgenti%20in%20materia%20di%20semplificazione%20normativa.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO, CON MODIFICAZIONI, DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))  
+## Art. 4.
 
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO, CON MODIFICAZIONI, DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))  
-
-Art. 4
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO, CON MODIFICAZIONI, DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))  
+((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO, CON MODIFICAZIONI, DALLA [L. 18 FEBBRAIO 2009, N. 9](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20dicembre%202008%20n.%20200%20recante%20misure%20urgenti%20in%20materia%20di%20semplificazione%20normativa.md)))

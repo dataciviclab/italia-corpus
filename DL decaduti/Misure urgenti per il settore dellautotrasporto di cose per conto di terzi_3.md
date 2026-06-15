@@ -1,26 +1,19 @@
-DECRETO-LEGGE 30 luglio 1993 n. 262
+---
+tipo: DECRETO-LEGGE
+numero: 262
+data: 1993-07-30
+titolo: "Misure urgenti per il settore dell'autotrasporto di cose per conto di terzi."
+urn: urn:nir:stato:decreto.legge:1993-07-30;262
+codice_redazionale: 093G0345
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 30 luglio 1993 n. 262
-===================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 22 LUGLIO 1994, N. 459](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2023%20maggio%201994%20n.%20309%20recante%20misure%20urgenti%20per%20il%20settore%20dellautotrasporto%20di%20cose%20per%20conto%20di%20terzi.md)
 
-Misure urgenti per il settore dell'autotrasporto di cose per conto di terzi.
-----------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 01/08/1993.Decreto-Legge decaduto per mancata conversione.
-
-Art. 1
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 22 LUGLIO 1994, N. 459](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-22;459)
-  
-
-Art. 2
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 22 LUGLIO 1994, N. 459](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-22;459)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 22 LUGLIO 1994, N. 459](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2023%20maggio%201994%20n.%20309%20recante%20misure%20urgenti%20per%20il%20settore%20dellautotrasporto%20di%20cose%20per%20conto%20di%20terzi.md)

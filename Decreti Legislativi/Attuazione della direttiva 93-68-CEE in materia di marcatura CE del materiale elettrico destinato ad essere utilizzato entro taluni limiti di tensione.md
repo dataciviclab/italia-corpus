@@ -1,40 +1,33 @@
-DECRETO LEGISLATIVO 25 novembre 1996 n. 626
+---
+tipo: DECRETO LEGISLATIVO
+numero: 626
+data: 1996-11-25
+titolo: "Attuazione della direttiva 93/68/CEE in materia di marcatura CE del materiale elettrico destinato ad essere utilizzato entro taluni limiti di tensione."
+urn: urn:nir:stato:decreto.legislativo:1996-11-25;626
+codice_redazionale: 096G0645
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 25 novembre 1996 n. 626
-===========================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 19 MAGGIO 2016, N. 86))
 
-Attuazione della direttiva 93/68/CEE in materia di marcatura CE del materiale elettrico destinato ad essere utilizzato entro taluni limiti di tensione.
--------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore: 29/12/1996
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 19 MAGGIO 2016, N. 86))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 MAGGIO 2016, N. 86](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-19;86)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 19 MAGGIO 2016, N. 86))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 MAGGIO 2016, N. 86](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-19;86)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 19 MAGGIO 2016, N. 86))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 MAGGIO 2016, N. 86](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-19;86)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 19 MAGGIO 2016, N. 86))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 MAGGIO 2016, N. 86](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-19;86)))
-
-Art. 5
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 MAGGIO 2016, N. 86](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-19;86)))
-
-Art. 6
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 MAGGIO 2016, N. 86](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-05-19;86)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 19 MAGGIO 2016, N. 86))

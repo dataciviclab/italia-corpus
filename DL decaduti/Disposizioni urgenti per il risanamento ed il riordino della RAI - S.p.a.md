@@ -1,105 +1,64 @@
-DECRETO-LEGGE 30 dicembre 1993 n. 558
+---
+tipo: DECRETO-LEGGE
+numero: 558
+data: 1993-12-30
+titolo: "Disposizioni urgenti per il risanamento ed il riordino della RAI - S.p.a."
+urn: urn:nir:stato:decreto.legge:1993-12-30;558
+codice_redazionale: 093G0652
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 30 dicembre 1993 n. 558
-=====================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 23 DICEMBRE 1996, N. 650](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20ottobre%201996%20n.%20545%20recante%20disposizioni%20urgenti%20per%20lesercizio%20dellattivita%20radiotelevisiva.%20Interventi%20per%20il%20riordino%20della%20_45a184592461.md)
 
-Disposizioni urgenti per il risanamento ed il riordino della RAI - S.p.a.
--------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 31-12-1993.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 23 DICEMBRE 1996, N. 650](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20ottobre%201996%20n.%20545%20recante%20disposizioni%20urgenti%20per%20lesercizio%20dellattivita%20radiotelevisiva.%20Interventi%20per%20il%20riordino%20della%20_45a184592461.md)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 23 DICEMBRE 1996, N. 650](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20ottobre%201996%20n.%20545%20recante%20disposizioni%20urgenti%20per%20lesercizio%20dellattivita%20radiotelevisiva.%20Interventi%20per%20il%20riordino%20della%20_45a184592461.md)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 23 DICEMBRE 1996, N. 650](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20ottobre%201996%20n.%20545%20recante%20disposizioni%20urgenti%20per%20lesercizio%20dellattivita%20radiotelevisiva.%20Interventi%20per%20il%20riordino%20della%20_45a184592461.md)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 23 DICEMBRE 1996, N. 650](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20ottobre%201996%20n.%20545%20recante%20disposizioni%20urgenti%20per%20lesercizio%20dellattivita%20radiotelevisiva.%20Interventi%20per%20il%20riordino%20della%20_45a184592461.md)
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 23 DICEMBRE 1996, N. 650](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20ottobre%201996%20n.%20545%20recante%20disposizioni%20urgenti%20per%20lesercizio%20dellattivita%20radiotelevisiva.%20Interventi%20per%20il%20riordino%20della%20_45a184592461.md)
 
-Art. 5
-------
+## Art. 7.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 23 DICEMBRE 1996, N. 650](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20ottobre%201996%20n.%20545%20recante%20disposizioni%20urgenti%20per%20lesercizio%20dellattivita%20radiotelevisiva.%20Interventi%20per%20il%20riordino%20della%20_45a184592461.md)
 
-Art. 6
-------
+## Art. 8.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 23 DICEMBRE 1996, N. 650](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20ottobre%201996%20n.%20545%20recante%20disposizioni%20urgenti%20per%20lesercizio%20dellattivita%20radiotelevisiva.%20Interventi%20per%20il%20riordino%20della%20_45a184592461.md)
 
-Art. 7
-------
+## Art. 9.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 23 DICEMBRE 1996, N. 650](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20ottobre%201996%20n.%20545%20recante%20disposizioni%20urgenti%20per%20lesercizio%20dellattivita%20radiotelevisiva.%20Interventi%20per%20il%20riordino%20della%20_45a184592461.md)
 
-Art. 8
-------
+## Art. 10.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 23 DICEMBRE 1996, N. 650](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20ottobre%201996%20n.%20545%20recante%20disposizioni%20urgenti%20per%20lesercizio%20dellattivita%20radiotelevisiva.%20Interventi%20per%20il%20riordino%20della%20_45a184592461.md)
 
-Art. 9
-------
+## Art. 11.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650)
-  
-
-Art. 10
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650)
-  
-
-Art. 11
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650)
-  
-
-Tabella
-
- Tabella   
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 23 DICEMBRE 1996, N. 650](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20ottobre%201996%20n.%20545%20recante%20disposizioni%20urgenti%20per%20lesercizio%20dellattivita%20radiotelevisiva.%20Interventi%20per%20il%20riordino%20della%20_45a184592461.md)

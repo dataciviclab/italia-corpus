@@ -1,49 +1,41 @@
-DECRETO 14 agosto 1990 n. 294
-
-
-DECRETO 14 agosto 1990 n. 294
-=============================
-
-Regolamento recante i criteri e le modalita' di svolgimento degli esami nelle sessioni speciali riservate ai cittadini extracomunitari e agli apolidi ai fini dell'iscrizione nel registro degli esercenti il commercio e la somministrazione al pubblico di alimenti o bevande.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 03/11/1990
+---
+tipo: DECRETO
+numero: 294
+data: 1990-08-14
+titolo: "Regolamento recante i criteri e le modalita' di svolgimento degli esami nelle sessioni speciali riservate ai cittadini extracomunitari e agli apolidi ai fini dell'iscrizione nel registro degli esercenti il commercio e la somministrazione al pubblico di alimenti o bevande."
+urn: urn:nir:ministero.industria.commercio.e.artigianato:decreto:1990-08-14;294
+codice_redazionale: 090G0343
+vigente: true
+---
 
 IL MINISTRO DELL'INDUSTRIA
---------------------------
 
 DEL COMMERCIO E DELL'ARTIGIANATO
 
-Visto il [decreto-legge 30 dicembre 1989, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416), convertito dalla [legge 28 febbraio 1990, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;39), contenente norme in materia di asilo politico, di ingresso e soggiorno dei cittadini extracomunitari e di regolarizzazione dei cittadini extracomunitari e di apolidi gia' presenti nel territorio dello Stato;
+Visto il [decreto-legge 30 dicembre 1989, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416), convertito dalla [legge 28 febbraio 1990, n. 39](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201989%20n.%20416%20recante%20norme%20urgenti%20in%20materia%20di%20asilo%20politico%20di%20ingresso%20e%20soggiorno%20dei%20cittadini%20extracomunitari%20e_466cfea5d540.md), contenente norme in materia di asilo politico, di ingresso e soggiorno dei cittadini extracomunitari e di regolarizzazione dei cittadini extracomunitari e di apolidi gia' presenti nel territorio dello Stato;
 
-Visto l'art. 10, comma 2, del decreto-legge citato, come modificato dalla legge di conversione, che attribuisce al Ministro dell'industria, del commercio e dell'artigianato il compito di stabilire con decreto i criteri e le modalita' di svolgimento degli esami di cui agli [articoli 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-06-11;426~art5) e [6 della legge 11 giugno 1971, n. 426](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-06-11;426~art6), sostenuti dai cittadini extracomunitari ed apolidi suddetti;
+Visto l'art. 10, comma 2, del decreto-legge citato, come modificato dalla legge di conversione, che attribuisce al Ministro dell'industria, del commercio e dell'artigianato il compito di stabilire con decreto i criteri e le modalita' di svolgimento degli esami di cui agli [articoli 5](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20del%20commercio.md) e [6 della legge 11 giugno 1971, n. 426](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20del%20commercio.md), sostenuti dai cittadini extracomunitari ed apolidi suddetti;
 
 Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 31 maggio 1990;
 
-Visto l'[art. 17, commi 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3) e [4, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com4);
+Visto l'[art. 17, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) e [4, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4);
 
 Vista la comunicazione fatta alla Presidenza del Consiglio dei Ministri con nota 3 agosto 1990, n. 191118;
 
 E M A N A il seguente regolamento:
 
-Art. 1
-------
+## Art. 1.
 
-1. I cittadini extracomunitari e gli apolidi presenti nel territorio dello Stato alla data del 31 dicembre 1989, che intendano ottenere l'iscrizione nel registro istituito dalla [legge 11 giugno 1971, n. 426](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-06-11;426), sostenendo gli esami di cui agli articoli 5 e 6 di tale legge, debbono presentare la domanda d'esame alla camera di commercio, industria, artigianato e agricoltura nella cui circoscrizione territoriale hanno la dimora abituale o, se ottenuta, la residenza anagrafica. Al momento della presentazione della domanda debbono esibire il permesso di soggiorno, in corso di validita', rilasciato per motivi o di lavoro autonomo o di lavoro subordinato o di studio o di famiglia.
+1.
 
-2. Gli esami ai quali sono sottoposti nelle sessioni speciali i soggetti indicati nel precedente comma 1 sono sostenuti
+I cittadini extracomunitari e gli apolidi presenti nel territorio dello Stato alla data del 31 dicembre 1989, che intendano ottenere l'iscrizione nel registro istituito dalla [legge 11 giugno 1971, n. 426](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20del%20commercio.md), sostenendo gli esami di cui agli articoli 5 e 6 di tale legge, debbono presentare la domanda d'esame alla camera di commercio, industria, artigianato e agricoltura nella cui circoscrizione territoriale hanno la dimora abituale o, se ottenuta, la residenza anagrafica. Al momento della presentazione della domanda debbono esibire il permesso di soggiorno, in corso di validita', rilasciato per motivi o di lavoro autonomo o di lavoro subordinato o di studio o di famiglia.
 
-((sulle materie previste negli allegati 2 e 3 al [decreto ministeriale 4 agosto 1988, n. 375](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1988-08-04;375),))
+2.
 
-e con le modalita' osservate per gli altri soggetti tenuti ad iscriversi nel registro di cui alla [legge 11 giugno 1971, n. 426](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-06-11;426), davanti alla commissione prevista all'art. 14 del decreto ministeriale citato. Le domande rivolte al candidato nel corso dell'esame per l'accertamento della preparazione richiesta non possono essere poste in forma di "quiz". Le risposte fornite dal candidato sia per la parte scritta che per la parte orale dell'esame devono essere valutate anche ai fini della conoscenza della lingua italiana e di un grado di cultura generale equiparabile a quello derivante dal possesso della licenza elementare.
+Gli esami ai quali sono sottoposti nelle sessioni speciali i soggetti indicati nel precedente comma 1 sono sostenuti ((sulle materie previste negli allegati 2 e 3 al decreto ministeriale 4 agosto 1988, n. 375,)) e con le modalita' osservate per gli altri soggetti tenuti ad iscriversi nel registro di cui alla [legge 11 giugno 1971, n. 426](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20del%20commercio.md), davanti alla commissione prevista all'art. 14 del decreto ministeriale citato. Le domande rivolte al candidato nel corso dell'esame per l'accertamento della preparazione richiesta non possono essere poste in forma di "quiz". Le risposte fornite dal candidato sia per la parte scritta che per la parte orale dell'esame devono essere valutate anche ai fini della conoscenza della lingua italiana e di un grado di cultura generale equiparabile a quello derivante dal possesso della licenza elementare.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 14 agosto 1990
+Roma, 14 agosto 1990
 
-Il Ministro: BATTAGLIA
-
-Visto, il Guardasigilli: VASSALLI Registrato alla Corte dei conti il 28 settembre 1990
-
-Registro n. 19 Industria, foglio n. 385
+Il Ministro: BATTAGLIA Visto, il Guardasigilli: VASSALLI Registrato alla Corte dei conti il 28 settembre 1990 Registro n. 19 Industria, foglio n. 385

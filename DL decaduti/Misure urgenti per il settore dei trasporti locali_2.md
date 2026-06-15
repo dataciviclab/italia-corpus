@@ -1,42 +1,33 @@
-DECRETO-LEGGE 30 agosto 1986 n. 537
+---
+tipo: DECRETO-LEGGE
+numero: 537
+data: 1986-08-30
+titolo: "Misure urgenti per il settore dei trasporti locali."
+urn: urn:nir:stato:decreto.legge:1986-08-30;537
+codice_redazionale: 086U0537
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 30 agosto 1986 n. 537
-===================================
+DECRETO DECADUTO
 
-Misure urgenti per il settore dei trasporti locali.
----------------------------------------------------
+## Art. 2.
 
-Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 3
-------
+## Art. 5.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO   
-
-Art. 5
-------
-
- DECRETO DECADUTO  
-
-Art. 6
-------
-
- DECRETO DECADUTO  
+DECRETO DECADUTO

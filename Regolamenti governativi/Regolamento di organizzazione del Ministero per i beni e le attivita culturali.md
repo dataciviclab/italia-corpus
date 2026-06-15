@@ -1,123 +1,113 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 2004 n. 173
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 173
+data: 2004-06-10
+titolo: "Regolamento di organizzazione del Ministero per i beni e le attivita' culturali."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2004-06-10;173
+codice_redazionale: 004G0185
+vigente: true
+---
 
+## AMMINISTRAZIONE CENTRALE
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 2004 n. 173
-=============================================================
+Capo I
 
-Regolamento di organizzazione del Ministero per i beni e le attivita' culturali.
---------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del decreto: 1-8-2004
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 NOVEMBRE 2007, N. 233))
 
-CAPO I Capo I AMMINISTRAZIONE CENTRALE
---------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 NOVEMBRE 2007, N. 233))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 NOVEMBRE 2007, N. 233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-26;233)))
+### Art. 3.
 
-### Art. 2
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 NOVEMBRE 2007, N. 233))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 NOVEMBRE 2007, N. 233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-26;233)))
+### Art. 4.
 
-### Art. 3
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 NOVEMBRE 2007, N. 233))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 NOVEMBRE 2007, N. 233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-26;233)))
+### Art. 5.
 
-### Art. 4
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 NOVEMBRE 2007, N. 233))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 NOVEMBRE 2007, N. 233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-26;233)))
+### Art. 6.
 
-### Art. 5
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 NOVEMBRE 2007, N. 233))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 NOVEMBRE 2007, N. 233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-26;233)))
+### Art. 7.
 
-### Art. 6
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 NOVEMBRE 2007, N. 233))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 NOVEMBRE 2007, N. 233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-26;233)))
+### Art. 8.
 
-### Art. 7
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 NOVEMBRE 2007, N. 233))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 NOVEMBRE 2007, N. 233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-26;233)))
+### Art. 9.
 
-### Art. 8
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 NOVEMBRE 2007, N. 233))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 NOVEMBRE 2007, N. 233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-26;233)))
+### Art. 10.
 
-### Art. 9
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 NOVEMBRE 2007, N. 233))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 NOVEMBRE 2007, N. 233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-26;233)))
+### Art. 11.
 
-### Art. 10
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 NOVEMBRE 2007, N. 233))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 NOVEMBRE 2007, N. 233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-26;233)))
+### Art. 12.
 
-### Art. 11
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 NOVEMBRE 2007, N. 233))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 NOVEMBRE 2007, N. 233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-26;233)))
+### Art. 13.
 
-### Art. 12
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 NOVEMBRE 2007, N. 233))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 NOVEMBRE 2007, N. 233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-26;233)))
+### Art. 14.
 
-### Art. 13
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 NOVEMBRE 2007, N. 233))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 NOVEMBRE 2007, N. 233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-26;233)))
+### Art. 15.
 
-### Art. 14
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 NOVEMBRE 2007, N. 233))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 NOVEMBRE 2007, N. 233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-26;233)))
+### Art. 16.
 
-### Art. 15
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 NOVEMBRE 2007, N. 233))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 NOVEMBRE 2007, N. 233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-26;233)))
+## ORGANI CONSULTIVI CENTRALI
 
-### Art. 16
+Capo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 NOVEMBRE 2007, N. 233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-26;233)))
+### Art. 17.
 
-CAPO II Capo II ORGANI CONSULTIVI CENTRALI
-------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 NOVEMBRE 2007, N. 233))
 
-### Art. 17
+### Art. 18.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 NOVEMBRE 2007, N. 233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-26;233)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 NOVEMBRE 2007, N. 233))
 
-### Art. 18
+## AMMINISTRAZIONE PERIFERICA
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 NOVEMBRE 2007, N. 233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-26;233)))
+Capo III
 
-CAPO III Capo III AMMINISTRAZIONE PERIFERICA
---------------------------------------------
+### Art. 19.
 
-### Art. 19
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 NOVEMBRE 2007, N. 233))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 NOVEMBRE 2007, N. 233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-26;233)))
+### Art. 20.
 
-### Art. 20
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 NOVEMBRE 2007, N. 233))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 NOVEMBRE 2007, N. 233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-26;233)))
+### Art. 21.
 
-### Art. 21
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 NOVEMBRE 2007, N. 233))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 NOVEMBRE 2007, N. 233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-26;233)))
+### Art. 22.
 
-### Art. 22
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 NOVEMBRE 2007, N. 233))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 NOVEMBRE 2007, N. 233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-26;233)))
+### Art. 23.
 
-### Art. 23
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 NOVEMBRE 2007, N. 233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-26;233)))
-
-Tabella A
-
- Tabella A   
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 NOVEMBRE 2007, N. 233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-26;233)))
-
-Tabella B
-
- Tabella B   
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 NOVEMBRE 2007, N. 233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-26;233)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 NOVEMBRE 2007, N. 233))

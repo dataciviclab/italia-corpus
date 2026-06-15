@@ -1,18 +1,17 @@
-DECRETO LEGISLATIVO LUOGOTENENZIALE 31 agosto 1945 n. 604
+---
+tipo: DECRETO LEGISLATIVO LUOGOTENENZIALE
+numero: 604
+data: 1945-08-31
+titolo: "Autorizzazione della spesa di lire 50 milioni per l'esecuzione dei lavori di completamento del tronco ferroviario stazione di Palermo Lolli - Nuova stazione ferroviaria marittima di Palermo. (045U0604)"
+urn: urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-31;604
+codice_redazionale: 045U0604
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO LUOGOTENENZIALE 31 agosto 1945 n. 604
-=========================================================
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Autorizzazione della spesa di lire 50 milioni per l'esecuzione dei lavori di completamento del tronco ferroviario stazione di Palermo Lolli - Nuova stazione ferroviaria marittima di Palermo. (045U0604)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

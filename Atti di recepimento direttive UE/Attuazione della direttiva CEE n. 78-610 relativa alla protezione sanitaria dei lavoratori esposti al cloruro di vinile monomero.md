@@ -1,111 +1,69 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1982 n. 962
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 962
+data: 1982-09-10
+titolo: "Attuazione della direttiva (CEE) n. 78/610 relativa alla protezione sanitaria dei lavoratori esposti al cloruro di vinile monomero."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-09-10;962
+codice_redazionale: 082U0962
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1982 n. 962
-================================================================
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 25 FEBBRAIO 2000 N. 66 ))
 
-Attuazione della direttiva (CEE) n. 78/610 relativa alla protezione sanitaria dei lavoratori esposti al cloruro di vinile monomero.
------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 25 FEBBRAIO 2000 N. 66 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 25 FEBBRAIO 2000 N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-25;66) ))
+## Art. 3.
 
-Art. 2
-------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 25 FEBBRAIO 2000 N. 66 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 25 FEBBRAIO 2000 N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-25;66) ))
+## Art. 4.
 
-Art. 3
-------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 25 FEBBRAIO 2000 N. 66 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 25 FEBBRAIO 2000 N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-25;66) ))
+## Art. 5.
 
-Art. 4
-------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 25 FEBBRAIO 2000 N. 66 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 25 FEBBRAIO 2000 N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-25;66) ))
+## Art. 6.
 
-Art. 5
-------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 25 FEBBRAIO 2000 N. 66 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 25 FEBBRAIO 2000 N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-25;66) ))
+## Art. 7.
 
-Art. 6
-------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 25 FEBBRAIO 2000 N. 66 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 25 FEBBRAIO 2000 N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-25;66) ))
+## Art. 8.
 
-Art. 7
-------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 25 FEBBRAIO 2000 N. 66 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 25 FEBBRAIO 2000 N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-25;66) ))
+## Art. 9.
 
-Art. 8
-------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 25 FEBBRAIO 2000 N. 66 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 25 FEBBRAIO 2000 N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-25;66) ))
+## Art. 10.
 
-Art. 9
-------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 25 FEBBRAIO 2000 N. 66 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 25 FEBBRAIO 2000 N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-25;66) ))
+## Art. 11.
 
-Art. 10
--------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 25 FEBBRAIO 2000 N. 66 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 25 FEBBRAIO 2000 N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-25;66) ))
+## Art. 12.
 
-Art. 11
--------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 25 FEBBRAIO 2000 N. 66 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 25 FEBBRAIO 2000 N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-25;66) ))
+## Art. 13.
 
-Art. 12
--------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 25 FEBBRAIO 2000 N. 66 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 25 FEBBRAIO 2000 N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-25;66) ))
+## Art. 14.
 
-Art. 13
--------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 25 FEBBRAIO 2000 N. 66 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 25 FEBBRAIO 2000 N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-25;66) ))
+## Art. 15.
 
-Art. 14
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 25 FEBBRAIO 2000 N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-25;66) ))
-
-Art. 15
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 25 FEBBRAIO 2000 N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-25;66) ))
-
-Allegato I
-
- ALLEGATO I   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 25 FEBBRAIO 2000 N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-25;66) ))
-
-Allegato II
-
- ALLEGATO II   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 25 FEBBRAIO 2000 N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-25;66) ))
-
-Allegato III
-
- ALLEGATO III   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 25 FEBBRAIO 2000 N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-25;66) ))
-
-Allegato IV
-
- ALLEGATO IV   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 25 FEBBRAIO 2000 N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-25;66) ))
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 25 FEBBRAIO 2000 N. 66 ))

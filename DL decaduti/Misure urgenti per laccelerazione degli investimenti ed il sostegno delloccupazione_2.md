@@ -1,179 +1,139 @@
-DECRETO-LEGGE 07 giugno 1993 n. 180
+---
+tipo: DECRETO-LEGGE
+numero: 180
+data: 1993-06-07
+titolo: "Misure urgenti per l'accelerazione degli investimenti ed il sostegno dell'occupazione."
+urn: urn:nir:stato:decreto.legge:1993-06-07;180
+codice_redazionale: 093G0249
+vigente: true
+---
 
+## REVOCA E RIASSEGNAZIONE DI FINANZIAMENTI
 
-DECRETO-LEGGE 07 giugno 1993 n. 180
-===================================
+Capo I
 
-Misure urgenti per l'accelerazione degli investimenti ed il sostegno dell'occupazione.
---------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del decreto: 8/6/1993.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 DICEMBRE 1993, N. 493](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20ottobre%201993%20n.%20398%20recante%20disposizioni%20per%20laccelerazione%20degli%20investimenti%20a%20sostegno%20delloccupazione%20e%20per%20la%20semplificazio_99f0122da236.md)
 
-CAPO I Capo I REVOCA E RIASSEGNAZIONE DI FINANZIAMENTI
-------------------------------------------------------
+### Art. 2.
 
-### Art. 1
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 DICEMBRE 1993, N. 493](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20ottobre%201993%20n.%20398%20recante%20disposizioni%20per%20laccelerazione%20degli%20investimenti%20a%20sostegno%20delloccupazione%20e%20per%20la%20semplificazio_99f0122da236.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 DICEMBRE 1993, N. 493](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;493)
-  
+### Art. 3.
 
-### Art. 2
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 DICEMBRE 1993, N. 493](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20ottobre%201993%20n.%20398%20recante%20disposizioni%20per%20laccelerazione%20degli%20investimenti%20a%20sostegno%20delloccupazione%20e%20per%20la%20semplificazio_99f0122da236.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 DICEMBRE 1993, N. 493](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;493)
-  
+### Art. 4.
 
-### Art. 3
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 DICEMBRE 1993, N. 493](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20ottobre%201993%20n.%20398%20recante%20disposizioni%20per%20laccelerazione%20degli%20investimenti%20a%20sostegno%20delloccupazione%20e%20per%20la%20semplificazio_99f0122da236.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 DICEMBRE 1993, N. 493](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;493)
-  
+## INVESTIMENTI NELL'EDILIZIA
 
-### Art. 4
+Capo II
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 DICEMBRE 1993, N. 493](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;493)
-  
+### Art. 5.
 
-CAPO II Capo II INVESTIMENTI NELL'EDILIZIA
-------------------------------------------
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 DICEMBRE 1993, N. 493](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20ottobre%201993%20n.%20398%20recante%20disposizioni%20per%20laccelerazione%20degli%20investimenti%20a%20sostegno%20delloccupazione%20e%20per%20la%20semplificazio_99f0122da236.md)
 
-### Art. 5
+### Art. 6.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 DICEMBRE 1993, N. 493](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;493)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 DICEMBRE 1993, N. 493](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20ottobre%201993%20n.%20398%20recante%20disposizioni%20per%20laccelerazione%20degli%20investimenti%20a%20sostegno%20delloccupazione%20e%20per%20la%20semplificazio_99f0122da236.md)
 
-### Art. 6
+### Art. 7.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 DICEMBRE 1993, N. 493](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;493)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 DICEMBRE 1993, N. 493](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20ottobre%201993%20n.%20398%20recante%20disposizioni%20per%20laccelerazione%20degli%20investimenti%20a%20sostegno%20delloccupazione%20e%20per%20la%20semplificazio_99f0122da236.md)
 
-### Art. 7
+### Art. 8.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 DICEMBRE 1993, N. 493](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;493)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 DICEMBRE 1993, N. 493](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20ottobre%201993%20n.%20398%20recante%20disposizioni%20per%20laccelerazione%20degli%20investimenti%20a%20sostegno%20delloccupazione%20e%20per%20la%20semplificazio_99f0122da236.md)
 
-### Art. 8
+### Art. 9.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 DICEMBRE 1993, N. 493](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;493)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 DICEMBRE 1993, N. 493](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20ottobre%201993%20n.%20398%20recante%20disposizioni%20per%20laccelerazione%20degli%20investimenti%20a%20sostegno%20delloccupazione%20e%20per%20la%20semplificazio_99f0122da236.md)
 
-### Art. 9
+### Art. 10.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 DICEMBRE 1993, N. 493](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;493)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 DICEMBRE 1993, N. 493](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20ottobre%201993%20n.%20398%20recante%20disposizioni%20per%20laccelerazione%20degli%20investimenti%20a%20sostegno%20delloccupazione%20e%20per%20la%20semplificazio_99f0122da236.md)
 
-### Art. 10
+### Art. 11.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 DICEMBRE 1993, N. 493](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;493)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 DICEMBRE 1993, N. 493](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20ottobre%201993%20n.%20398%20recante%20disposizioni%20per%20laccelerazione%20degli%20investimenti%20a%20sostegno%20delloccupazione%20e%20per%20la%20semplificazio_99f0122da236.md)
 
-### Art. 11
+## RECUPERO URBANO
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 DICEMBRE 1993, N. 493](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;493)
-  
+Capo III
 
-CAPO III Capo III RECUPERO URBANO
----------------------------------
+### Art. 12.
 
-### Art. 12
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 DICEMBRE 1993, N. 493](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20ottobre%201993%20n.%20398%20recante%20disposizioni%20per%20laccelerazione%20degli%20investimenti%20a%20sostegno%20delloccupazione%20e%20per%20la%20semplificazio_99f0122da236.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 DICEMBRE 1993, N. 493](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;493)
-  
+### Art. 13.
 
-### Art. 13
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 DICEMBRE 1993, N. 493](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20ottobre%201993%20n.%20398%20recante%20disposizioni%20per%20laccelerazione%20degli%20investimenti%20a%20sostegno%20delloccupazione%20e%20per%20la%20semplificazio_99f0122da236.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 DICEMBRE 1993, N. 493](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;493)
-  
+### Art. 14.
 
-### Art. 14
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 DICEMBRE 1993, N. 493](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20ottobre%201993%20n.%20398%20recante%20disposizioni%20per%20laccelerazione%20degli%20investimenti%20a%20sostegno%20delloccupazione%20e%20per%20la%20semplificazio_99f0122da236.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 DICEMBRE 1993, N. 493](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;493)
-  
+### Art. 15.
 
-### Art. 15
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 DICEMBRE 1993, N. 493](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20ottobre%201993%20n.%20398%20recante%20disposizioni%20per%20laccelerazione%20degli%20investimenti%20a%20sostegno%20delloccupazione%20e%20per%20la%20semplificazio_99f0122da236.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 DICEMBRE 1993, N. 493](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;493)
-  
+### Art. 16.
 
-### Art. 16
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 DICEMBRE 1993, N. 493](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20ottobre%201993%20n.%20398%20recante%20disposizioni%20per%20laccelerazione%20degli%20investimenti%20a%20sostegno%20delloccupazione%20e%20per%20la%20semplificazio_99f0122da236.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 DICEMBRE 1993, N. 493](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;493)
-  
+## A M B I E N T E
 
-CAPO IV Capo IV A M B I E N T E
--------------------------------
+Capo IV
 
-### Art. 17
+### Art. 17.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 DICEMBRE 1993, N. 493](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;493)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 DICEMBRE 1993, N. 493](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20ottobre%201993%20n.%20398%20recante%20disposizioni%20per%20laccelerazione%20degli%20investimenti%20a%20sostegno%20delloccupazione%20e%20per%20la%20semplificazio_99f0122da236.md)
 
-### Art. 18
+### Art. 18.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 DICEMBRE 1993, N. 493](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;493)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 DICEMBRE 1993, N. 493](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20ottobre%201993%20n.%20398%20recante%20disposizioni%20per%20laccelerazione%20degli%20investimenti%20a%20sostegno%20delloccupazione%20e%20per%20la%20semplificazio_99f0122da236.md)
 
-CAPO V Capo V ALTRE INFRASTRUTTURE
-----------------------------------
+## ALTRE INFRASTRUTTURE
 
-### Art. 19
+Capo V
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 DICEMBRE 1993, N. 493](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;493)
-  
+### Art. 19.
 
-### Art. 20
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 DICEMBRE 1993, N. 493](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20ottobre%201993%20n.%20398%20recante%20disposizioni%20per%20laccelerazione%20degli%20investimenti%20a%20sostegno%20delloccupazione%20e%20per%20la%20semplificazio_99f0122da236.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 DICEMBRE 1993, N. 493](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;493)
-  
+### Art. 20.
 
-### Art. 21
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 DICEMBRE 1993, N. 493](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20ottobre%201993%20n.%20398%20recante%20disposizioni%20per%20laccelerazione%20degli%20investimenti%20a%20sostegno%20delloccupazione%20e%20per%20la%20semplificazio_99f0122da236.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 DICEMBRE 1993, N. 493](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;493)
-  
+### Art. 21.
 
-### Art. 22
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 DICEMBRE 1993, N. 493](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20ottobre%201993%20n.%20398%20recante%20disposizioni%20per%20laccelerazione%20degli%20investimenti%20a%20sostegno%20delloccupazione%20e%20per%20la%20semplificazio_99f0122da236.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 DICEMBRE 1993, N. 493](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;493)
-  
+### Art. 22.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 DICEMBRE 1993, N. 493](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20ottobre%201993%20n.%20398%20recante%20disposizioni%20per%20laccelerazione%20degli%20investimenti%20a%20sostegno%20delloccupazione%20e%20per%20la%20semplificazio_99f0122da236.md)

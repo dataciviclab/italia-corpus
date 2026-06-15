@@ -1,89 +1,93 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 maggio 2001 n. 284
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 284
+data: 2001-05-28
+titolo: "Regolamento di attuazione della legge 22 dicembre 1999, n. 512, concernente il Fondo di rotazione per la solidarieta' alle vittime dei reati di tipo mafioso."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2001-05-28;284
+codice_redazionale: 001G0342
+vigente: true
+---
 
+## Disposizioni generali
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 maggio 2001 n. 284
-=============================================================
+Titolo I
 
-Regolamento di attuazione della legge 22 dicembre 1999, n. 512, concernente il Fondo di rotazione per la solidarieta' alle vittime dei reati di tipo mafioso.
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-CAPO I Titolo I Disposizioni generali
--------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 FEBBRAIO 2014, n. 60))
 
-### Art. 1
+### Art. 2.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 FEBBRAIO 2014, n. 60](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2014-02-19;60)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 FEBBRAIO 2014, n. 60))
 
-### Art. 2
+### Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 FEBBRAIO 2014, n. 60](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2014-02-19;60)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 FEBBRAIO 2014, n. 60))
 
-### Art. 3
+### Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 FEBBRAIO 2014, n. 60](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2014-02-19;60)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 FEBBRAIO 2014, n. 60))
 
-### Art. 4
+### Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 FEBBRAIO 2014, n. 60](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2014-02-19;60)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 FEBBRAIO 2014, n. 60))
 
-### Art. 5
+### Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 FEBBRAIO 2014, n. 60](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2014-02-19;60)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 FEBBRAIO 2014, n. 60))
 
-### Art. 6
+### Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 FEBBRAIO 2014, n. 60](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2014-02-19;60)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 FEBBRAIO 2014, n. 60))
 
-### Art. 7
+## Procedimento di accesso al Fondo
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 FEBBRAIO 2014, n. 60](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2014-02-19;60)))
+Titolo II
 
-CAPO II Titolo II Procedimento di accesso al Fondo
---------------------------------------------------
+### Art. 8.
 
-### Art. 8
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 FEBBRAIO 2014, n. 60))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 FEBBRAIO 2014, n. 60](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2014-02-19;60)))
+### Art. 9.
 
-### Art. 9
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 FEBBRAIO 2014, n. 60))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 FEBBRAIO 2014, n. 60](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2014-02-19;60)))
+### Art. 10.
 
-### Art. 10
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 FEBBRAIO 2014, n. 60))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 FEBBRAIO 2014, n. 60](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2014-02-19;60)))
+### Art. 11.
 
-### Art. 11
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 FEBBRAIO 2014, n. 60))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 FEBBRAIO 2014, n. 60](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2014-02-19;60)))
+### Art. 12.
 
-### Art. 12
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 FEBBRAIO 2014, n. 60))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 FEBBRAIO 2014, n. 60](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2014-02-19;60)))
+### Art. 13.
 
-### Art. 13
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 FEBBRAIO 2014, n. 60))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 FEBBRAIO 2014, n. 60](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2014-02-19;60)))
+### Art. 14.
 
-### Art. 14
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 FEBBRAIO 2014, n. 60))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 FEBBRAIO 2014, n. 60](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2014-02-19;60)))
+### Art. 15.
 
-### Art. 15
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 FEBBRAIO 2014, n. 60))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 FEBBRAIO 2014, n. 60](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2014-02-19;60)))
+### Art. 15-bis.
 
-### Art. 15-bis
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 FEBBRAIO 2014, n. 60))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 FEBBRAIO 2014, n. 60](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2014-02-19;60)))
+### Art. 15-ter.
 
-### Art. 15-ter
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 FEBBRAIO 2014, n. 60))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 FEBBRAIO 2014, n. 60](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2014-02-19;60)))
+## Tutela delle informazioni
 
-CAPO III Titolo III Tutela delle informazioni
----------------------------------------------
+Titolo III
 
-### Art. 16
+### Art. 16.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 FEBBRAIO 2014, n. 60](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2014-02-19;60)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 FEBBRAIO 2014, n. 60))

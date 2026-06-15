@@ -1,113 +1,113 @@
-DECRETO LEGISLATIVO 11 maggio 1999 n. 135
+---
+tipo: DECRETO LEGISLATIVO
+numero: 135
+data: 1999-05-11
+titolo: "Disposizioni integrative della legge 31 dicembre 1996, n. 675, sul trattamento di dati sensibili da parte dei soggetti pubblici."
+urn: urn:nir:stato:decreto.legislativo:1999-05-11;135
+codice_redazionale: 099G0217
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 11 maggio 1999 n. 135
-=========================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196))
 
-Disposizioni integrative della legge 31 dicembre 1996, n. 675, sul trattamento di dati sensibili da parte dei soggetti pubblici.
---------------------------------------------------------------------------------------------------------------------------------
+## Principi generali in materia di trattamento di dati particolari da parte di soggetti pubblici
 
-Entrata in vigore del decreto: 18-5-1999
+Capo I
 
-Art. 1
-------
+### Art. 2.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196))
 
-CAPO II Capo I Principi generali in materia di trattamento di dati particolari da parte di soggetti pubblici
-------------------------------------------------------------------------------------------------------------
+### Art. 3.
 
-### Art. 2
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196)))
+### Art. 4.
 
-### Art. 3
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196)))
+### Art. 5.
 
-### Art. 4
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196)))
+## Individuazione di alcune rilevanti finalita' di interesse pubblico
 
-### Art. 5
+Capo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196)))
+### Art. 6.
 
-CAPO III Capo II Individuazione di alcune rilevanti finalita' di interesse pubblico
------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196))
 
-### Art. 6
+### Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196))
 
-### Art. 7
+### Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196))
 
-### Art. 8
+### Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196))
 
-### Art. 9
+### Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196))
 
-### Art. 10
+### Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196))
 
-### Art. 11
+### Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196))
 
-### Art. 12
+### Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196))
 
-### Art. 13
+### Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196))
 
-### Art. 14
+### Art. 15.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196))
 
-### Art. 15
+### Art. 16.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196))
 
-### Art. 16
+### Art. 17.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196))
 
-### Art. 17
+### Art. 18.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196))
 
-### Art. 18
+### Art. 19.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196))
 
-### Art. 19
+### Art. 20.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196))
 
-### Art. 20
+### Art. 21.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196))
 
-### Art. 21
+### Art. 22.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196))
 
-### Art. 22
+### Art. 23.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196))
 
-### Art. 23
+### Art. 24.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196)))
-
-### Art. 24
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196))

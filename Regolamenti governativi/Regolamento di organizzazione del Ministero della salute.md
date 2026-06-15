@@ -1,61 +1,49 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 2003 n. 129
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 129
+data: 2003-03-28
+titolo: "Regolamento di organizzazione del Ministero della salute."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2003-03-28;129
+codice_redazionale: 003G0151
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 2003 n. 129
-============================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 11 MARZO 2011, N. 108))
 
-Regolamento di organizzazione del Ministero della salute.
----------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 21-6-2003
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 11 MARZO 2011, N. 108))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 11 MARZO 2011, N. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2011-03-11;108)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 11 MARZO 2011, N. 108))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 11 MARZO 2011, N. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2011-03-11;108)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 11 MARZO 2011, N. 108))
 
-Art. 3
-------
+## Art. 4-bis.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 11 MARZO 2011, N. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2011-03-11;108)))
+Art. 4bis 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 11 MARZO 2011, N. 108))
 
-Art. 4
-------
+## Art. 4-ter.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 11 MARZO 2011, N. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2011-03-11;108)))
+Art. 4ter 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 11 MARZO 2011, N. 108))
 
-Art. 4-bis
-----------
+## Art. 5.
 
- Art. 4bis   
-  
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 11 MARZO 2011, N. 108))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 11 MARZO 2011, N. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2011-03-11;108)))
+## Art. 6.
 
-Art. 4-ter
-----------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 11 MARZO 2011, N. 108))
 
- Art. 4ter   
-  
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 11 MARZO 2011, N. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2011-03-11;108)))
-
-Art. 5
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 11 MARZO 2011, N. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2011-03-11;108)))
-
-Art. 6
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 11 MARZO 2011, N. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2011-03-11;108)))
-
-Art. 7
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 11 MARZO 2011, N. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2011-03-11;108)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 11 MARZO 2011, N. 108))

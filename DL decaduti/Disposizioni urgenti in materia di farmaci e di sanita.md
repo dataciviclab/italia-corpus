@@ -1,121 +1,125 @@
-DECRETO-LEGGE 16 luglio 1996 n. 377
+---
+tipo: DECRETO-LEGGE
+numero: 377
+data: 1996-07-16
+titolo: "Disposizioni urgenti in materia di farmaci e di sanita'."
+urn: urn:nir:stato:decreto.legge:1996-07-16;377
+codice_redazionale: 096G0400
+vigente: true
+---
 
+## DISPOSIZIONI SULLA VENDITA DEI MEDICINALI
 
-DECRETO-LEGGE 16 luglio 1996 n. 377
-===================================
+Capo I
 
-Disposizioni urgenti in materia di farmaci e di sanita'.
---------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del decreto: 18-7-1996.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20novembre%201996%20n.%20583%20recante%20disposizioni%20urgenti%20in%20materia%20sanitaria.md).
 
-CAPO I Capo I DISPOSIZIONI SULLA VENDITA DEI MEDICINALI
--------------------------------------------------------
+### Art. 2.
 
-### Art. 1
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20novembre%201996%20n.%20583%20recante%20disposizioni%20urgenti%20in%20materia%20sanitaria.md).
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-01-17;4).  
+### Art. 3.
 
-### Art. 2
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20novembre%201996%20n.%20583%20recante%20disposizioni%20urgenti%20in%20materia%20sanitaria.md).
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-01-17;4).  
+## DISPOSIZIONI IN MATERIA DI ISTITUTI DI RICOVERO E CURA A CARATTERE SCIENTIFICO
 
-### Art. 3
+Capo II
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-01-17;4).  
+### Art. 4.
 
-CAPO II Capo II DISPOSIZIONI IN MATERIA DI ISTITUTI DI RICOVERO E CURA A CARATTERE SCIENTIFICO
-----------------------------------------------------------------------------------------------
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20novembre%201996%20n.%20583%20recante%20disposizioni%20urgenti%20in%20materia%20sanitaria.md).
 
-### Art. 4
+## DISPOSIZIONI SUGLI ISTITUTI ZOOPROFILATTICI SPERIMENTALI E ALTRE DISPOSIZIONI IN MATERIA VETERINARIA
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-01-17;4).  
+Capo III
 
-CAPO III Capo III DISPOSIZIONI SUGLI ISTITUTI ZOOPROFILATTICI SPERIMENTALI E ALTRE DISPOSIZIONI IN MATERIA VETERINARIA
-----------------------------------------------------------------------------------------------------------------------
+### Art. 5.
 
-### Art. 5
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20novembre%201996%20n.%20583%20recante%20disposizioni%20urgenti%20in%20materia%20sanitaria.md).
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-01-17;4).  
+### Art. 6.
 
-### Art. 6
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20novembre%201996%20n.%20583%20recante%20disposizioni%20urgenti%20in%20materia%20sanitaria.md).
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-01-17;4).  
+### Art. 7.
 
-### Art. 7
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20novembre%201996%20n.%20583%20recante%20disposizioni%20urgenti%20in%20materia%20sanitaria.md).
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-01-17;4).  
+### Art. 8.
 
-### Art. 8
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20novembre%201996%20n.%20583%20recante%20disposizioni%20urgenti%20in%20materia%20sanitaria.md).
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-01-17;4).  
+### Art. 9.
 
-### Art. 9
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20novembre%201996%20n.%20583%20recante%20disposizioni%20urgenti%20in%20materia%20sanitaria.md).
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-01-17;4).  
+## DISPOSIZIONI IN MATERIA DI PERSONALE DEL SETTORE SANITARIO
 
-CAPO IV Capo IV DISPOSIZIONI IN MATERIA DI PERSONALE DEL SETTORE SANITARIO
---------------------------------------------------------------------------
+Capo IV
 
-### Art. 10
+### Art. 10.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-01-17;4).  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20novembre%201996%20n.%20583%20recante%20disposizioni%20urgenti%20in%20materia%20sanitaria.md).
 
-### Art. 11
+### Art. 11.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-01-17;4).  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20novembre%201996%20n.%20583%20recante%20disposizioni%20urgenti%20in%20materia%20sanitaria.md).
 
-### Art. 12
+### Art. 12.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-01-17;4).  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20novembre%201996%20n.%20583%20recante%20disposizioni%20urgenti%20in%20materia%20sanitaria.md).
 
-### Art. 13
+### Art. 13.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-01-17;4).  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20novembre%201996%20n.%20583%20recante%20disposizioni%20urgenti%20in%20materia%20sanitaria.md).
 
-### Art. 14
+### Art. 14.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-01-17;4).  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20novembre%201996%20n.%20583%20recante%20disposizioni%20urgenti%20in%20materia%20sanitaria.md).
 
-### Art. 15
+### Art. 15.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-01-17;4).  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20novembre%201996%20n.%20583%20recante%20disposizioni%20urgenti%20in%20materia%20sanitaria.md).
 
-CAPO V Capo V ALTRE DISPOSIZIONI IN MATERIA SANITARIA
------------------------------------------------------
+## ALTRE DISPOSIZIONI IN MATERIA SANITARIA
 
-### Art. 16
+Capo V
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-01-17;4).  
+### Art. 16.
 
-### Art. 17
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20novembre%201996%20n.%20583%20recante%20disposizioni%20urgenti%20in%20materia%20sanitaria.md).
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-01-17;4).  
+### Art. 17.
 
-### Art. 18
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20novembre%201996%20n.%20583%20recante%20disposizioni%20urgenti%20in%20materia%20sanitaria.md).
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-01-17;4).  
+### Art. 18.
 
-### Art. 19
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20novembre%201996%20n.%20583%20recante%20disposizioni%20urgenti%20in%20materia%20sanitaria.md).
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-01-17;4).  
+### Art. 19.
 
-### Art. 20
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20novembre%201996%20n.%20583%20recante%20disposizioni%20urgenti%20in%20materia%20sanitaria.md).
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-01-17;4).  
+### Art. 20.
 
-### Art. 21
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20novembre%201996%20n.%20583%20recante%20disposizioni%20urgenti%20in%20materia%20sanitaria.md).
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-01-17;4).  
+### Art. 21.
 
-### Art. 22
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20novembre%201996%20n.%20583%20recante%20disposizioni%20urgenti%20in%20materia%20sanitaria.md).
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-01-17;4).  
+### Art. 22.
 
-### Art. 23
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20novembre%201996%20n.%20583%20recante%20disposizioni%20urgenti%20in%20materia%20sanitaria.md).
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-01-17;4).  
+### Art. 23.
 
-### Art. 24
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20novembre%201996%20n.%20583%20recante%20disposizioni%20urgenti%20in%20materia%20sanitaria.md).
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-01-17;4).  
+### Art. 24.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20novembre%201996%20n.%20583%20recante%20disposizioni%20urgenti%20in%20materia%20sanitaria.md).

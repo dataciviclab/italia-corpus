@@ -1,103 +1,85 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 febbraio 1994 n. 241
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 241
+data: 1994-02-11
+titolo: "Regolamento recante attuazione della direttiva 89/556/CEE che stabilisce le condizioni di polizia sanitaria in materia di scambi intracomunitari e di importazioni da Paesi terzi di embrioni di animali della specie bovina."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1994-02-11;241
+codice_redazionale: 094G0139
+vigente: true
+---
 
+## DISPOSIZIONI GENERALI
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 febbraio 1994 n. 241
-===============================================================
+Capo I
 
-Regolamento recante attuazione della direttiva 89/556/CEE che stabilisce le condizioni di polizia sanitaria in materia di scambi intracomunitari e di importazioni da Paesi terzi di embrioni di animali della specie bovina.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del decreto: 7/5/1994
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-CAPO I Capo I DISPOSIZIONI GENERALI
------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+## NORME RELATIVE AGLI SCAMBI
 
-### Art. 2
+Capo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 3.
 
-CAPO II Capo II NORME RELATIVE AGLI SCAMBI
-------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 3
+### Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 4
+### Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 5
+## NORME RELATIVE ALL'IMPORTAZIONE
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+Capo III
 
-CAPO III Capo III NORME RELATIVE ALL'IMPORTAZIONE
--------------------------------------------------
+### Art. 6.
 
-### Art. 6
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 7.
 
-### Art. 7
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 8.
 
-### Art. 8
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 9.
 
-### Art. 9
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 10.
 
-### Art. 10
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 11.
 
-### Art. 11
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+### Art. 12.
 
-### Art. 12
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+## MISURE DI SALVAGUARDIA E DI CONTROLLO
 
-CAPO IV Capo IV MISURE DI SALVAGUARDIA E DI CONTROLLO
------------------------------------------------------
+Capo IV
 
-### Art. 13
+### Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 14
+### Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
 
-### Art. 15
+### Art. 15.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
-
-Allegato A
-
- Allegato A   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
-
-Allegato B
-
- Allegato B   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
-
-Allegato C
-
- Allegato C   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))

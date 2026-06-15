@@ -1,767 +1,785 @@
-REGIO DECRETO 26 luglio 1876 n. 3260
+---
+tipo: REGIO DECRETO
+numero: 3260
+data: 1876-07-26
+titolo: "Che approva il testo unico delle leggi sul reclutamento dell'esercito. (076U3260)"
+urn: urn:nir:stato:regio.decreto:1876-07-26;3260
+codice_redazionale: 076U3260
+vigente: true
+---
 
+## Disposizioni generali.
 
-REGIO DECRETO 26 luglio 1876 n. 3260
-====================================
+Capo I.
 
-Che approva il testo unico delle leggi sul reclutamento dell'esercito. (076U3260)
----------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del provvedimento: 23/08/1876 Il testo di legge annesso al provvedimento e' stato in parte pubblicato successivamente in [GU n. 185 del 09-08-1876](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1876-08-09&numeroGazzetta=185).
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-CAPO I Capo I. Disposizioni generali.
--------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 3.
 
-### Art. 2
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 4.
 
-### Art. 3
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+## Dell'obbligo di concorrere alla leva e del modo con cui è determinato e ripartito il contingente di 1ª categoria di ciascuna classe.
 
-### Art. 4
+Capo II.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 5.
 
-CAPO II Capo II. Dell'obbligo di concorrere alla leva e del modo con cui è determinato e ripartito il contingente di 1ª categoria di ciascuna classe.
------------------------------------------------------------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 5
+### Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 6
+### Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 7
+### Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 8
+### Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 9
+### Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 10
+### Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 11
+## Delle persone incaricate delle operazioni della leva.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+Capo III.
 
-CAPO III Capo III. Delle persone incaricate delle operazioni della leva.
-------------------------------------------------------------------------
+### Art. 12.
 
-### Art. 12
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 13.
 
-### Art. 13
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 14.
 
-### Art. 14
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 15.
 
-### Art. 15
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 16.
 
-### Art. 16
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 17.
 
-### Art. 17
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 18.
 
-### Art. 18
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+## Della formazione delle liste di leva.
 
-CAPO IV Capo IV. Della formazione delle liste di leva.
-------------------------------------------------------
+Capo IV.
 
-### Art. 19
+### Art. 19.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 20
+### Art. 20.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 21
+### Art. 21.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 22
+### Art. 22.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 23
+### Art. 23.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 24
+### Art. 24.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 25
+### Art. 25.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 26
+### Art. 26.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 27
+### Art. 27.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 28
+### Art. 28.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 29
+### Art. 29.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-CAPO V Capo V. Della chiamata alla leva e della convocazione del Consiglio in seduta preparatoria.
---------------------------------------------------------------------------------------------------
+## Della chiamata alla leva e della convocazione del Consiglio in seduta preparatoria.
 
-### Art. 30
+Capo V.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 30.
 
-### Art. 31
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 31.
 
-### Art. 32
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 32.
 
-CAPO VI Capo VI. Della verificazione definitiva delle liste, della estrazione e del primo esame degli inscritti.
-----------------------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 33
+## Della verificazione definitiva delle liste, della estrazione e del primo esame degli inscritti.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+Capo VI.
 
-### Art. 34
+### Art. 33.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 35
+### Art. 34.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 36
+### Art. 35.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 37
+### Art. 36.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 38
+### Art. 37.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 39
+### Art. 38.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 40
+### Art. 39.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 41
+### Art. 40.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 42
+### Art. 41.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 43
+### Art. 42.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 44
+### Art. 43.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 45
+### Art. 44.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 46
+### Art. 45.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 47
+### Art. 46.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 48
+### Art. 47.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 49
+### Art. 48.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 50
+### Art. 49.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 51
+### Art. 50.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 52
+### Art. 51.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 53
+### Art. 52.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-CAPO VII Capo VII. Dell'esame definitivo e dell'arruolamento.
--------------------------------------------------------------
+### Art. 53.
 
-### Art. 54
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+## Dell'esame definitivo e dell'arruolamento.
 
-### Art. 55
+Capo VII.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 54.
 
-### Art. 56
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 55.
 
-### Art. 57
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 56.
 
-### Art. 58
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 57.
 
-### Art. 59
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 58.
 
-### Art. 60
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 59.
 
-### Art. 61
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 60.
 
-### Art. 62
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 61.
 
-### Art. 63
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 62.
 
-### Art. 64
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 63.
 
-### Art. 65
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 64.
 
-### Art. 66
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 65.
 
-### Art. 67
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 66.
 
-### Art. 68
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 67.
 
-### Art. 69
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 68.
 
-### Art. 70
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 69.
 
-### Art. 71
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 70.
 
-### Art. 72
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 71.
 
-CAPO VIII Capo VIII. Delle operazioni completive.
--------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 73
+### Art. 72.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 74
+## Delle operazioni completive.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+Capo VIII.
 
-### Art. 75
+### Art. 73.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 76
+### Art. 74.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-CAPO IX Capo IX. Delle riforme.
--------------------------------
+### Art. 75.
 
-### Art. 77
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 76.
 
-### Art. 78
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+## Delle riforme.
 
-### Art. 79
+Capo IX.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 77.
 
-### Art. 80
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 78.
 
-### Art. 81
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 79.
 
-### Art. 82
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 80.
 
-### Art. 83
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 81.
 
-### Art. 84
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 82.
 
-### Art. 85
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 83.
 
-CAPO X Capo X. Delle esenzioni dal servizio di 1ª e di 2ª categoria.
---------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 86
+### Art. 84.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 87
+### Art. 85.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 88
+## Delle esenzioni dal servizio di 1ª e di 2ª categoria.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+Capo X.
 
-### Art. 89
+### Art. 86.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 90
+### Art. 87.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 91
+### Art. 88.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 92
+### Art. 89.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 93
+### Art. 90.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 94
+### Art. 91.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 95
+### Art. 92.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 96
+### Art. 93.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 97
+### Art. 94.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 98
+### Art. 95.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-CAPO XI Capo XI. Delle surrogazioni di fratello.
-------------------------------------------------
+### Art. 96.
 
-### Art. 99
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 97.
 
-### Art. 100
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 98.
 
-### Art. 101
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+## Delle surrogazioni di fratello.
 
-### Art. 102
+Capo XI.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 99.
 
-### Art. 103
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 100.
 
-### Art. 104
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 101.
 
-### Art. 105
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 102.
 
-### Art. 106
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 103.
 
-### Art. 107
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 104.
 
-CAPO XII Capo XII. Delle surrogazioni di fratello per iscambio di categoria.
-----------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 108
+### Art. 105.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 109
+### Art. 106.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 110
+### Art. 107.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-CAPO XIII Capo XIII. Degli arruolamenti volontari.
---------------------------------------------------
+## Delle surrogazioni di fratello per iscambio di categoria.
 
-### Art. 111
+Capo XII.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 108.
 
-### Art. 112
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 109.
 
-### Art. 113
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 110.
 
-### Art. 114
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+## Degli arruolamenti volontari.
 
-### Art. 115
+Capo XIII.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 111.
 
-### Art. 116
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 112.
 
-### Art. 117
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 113.
 
-### Art. 118
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 114.
 
-### Art. 119
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 115.
 
-### Art. 120
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 116.
 
-### Art. 121
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 117.
 
-CAPO XIV CAPO XIV. Della durata delle ferme e della ripartizione dell'obbligo del servizio.
--------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 122
+### Art. 118.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 123
+### Art. 119.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 124
+### Art. 120.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 125
+### Art. 121.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 126
+## Della durata delle ferme e della ripartizione dell'obbligo del servizio.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+CAPO XIV.
 
-### Art. 127
+### Art. 122.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 128
+### Art. 123.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 129
+### Art. 124.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 130
+### Art. 125.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 131
+### Art. 126.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 132
+### Art. 127.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 133
+### Art. 128.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 134
+### Art. 129.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 135
+### Art. 130.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-CAPO XV Capo XV. Delle rafferme.
---------------------------------
+### Art. 131.
 
-### Art. 136
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 132.
 
-### Art. 137
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 133.
 
-### Art. 138
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 134.
 
-### Art. 139
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 135.
 
-### Art. 140
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+## Delle rafferme.
 
-### Art. 141
+Capo XV.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 136.
 
-### Art. 142
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 137.
 
-### Art. 143
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 138.
 
-### Art. 144
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 139.
 
-### Art. 145
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 140.
 
-CAPO XVI CAPO XVI. Del caposoldo ai sott'ufficiali.
----------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 146
+### Art. 141.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 147
+### Art. 142.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-CAPO XVII CAPO XVII. Della Cassa militare.
-------------------------------------------
+### Art. 143.
 
-### Art. 148
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 144.
 
-### Art. 149
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 145.
 
-### Art. 150
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+## Del caposoldo ai sott'ufficiali.
 
-CAPO XVIII CAPO XVIII. Disposizioni penali e disciplinari.
-----------------------------------------------------------
+CAPO XVI.
 
-### Art. 151
+### Art. 146.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 152
+### Art. 147.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 153
+## Della Cassa militare.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+CAPO XVII.
 
-### Art. 154
+### Art. 148.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 155
+### Art. 149.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 156
+### Art. 150.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 157
+## Disposizioni penali e disciplinari.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+CAPO XVIII.
 
-### Art. 158
+### Art. 151.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 159
+### Art. 152.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 160
+### Art. 153.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 161
+### Art. 154.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 162
+### Art. 155.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 163
+### Art. 156.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 164
+### Art. 157.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-### Art. 165
+### Art. 158.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-CAPO XIX CAPO XIX. Disposizioni speciali e transitorie.
--------------------------------------------------------
+### Art. 159.
 
-### Art. 166
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 160.
 
-### Art. 167
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 161.
 
-### Art. 168
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 162.
 
-### Art. 169
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 163.
 
-### Art. 170
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 164.
 
-### Art. 171
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 165.
 
-### Art. 172
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+## Disposizioni speciali e transitorie.
 
-### Art. 173
+CAPO XIX.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 166.
 
-### Art. 174
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 167.
 
-### Art. 175
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+### Art. 168.
+
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
+
+### Art. 169.
+
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
+
+### Art. 170.
+
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
+
+### Art. 171.
+
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
+
+### Art. 172.
+
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
+
+### Art. 173.
+
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
+
+### Art. 174.
+
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))
+
+### Art. 175.
+
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](../Decreti%20Legislativi/Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)))

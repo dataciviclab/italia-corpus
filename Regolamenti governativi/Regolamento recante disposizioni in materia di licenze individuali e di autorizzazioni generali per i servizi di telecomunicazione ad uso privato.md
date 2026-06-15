@@ -1,0 +1,229 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 447
+data: 2001-10-05
+titolo: "Regolamento recante disposizioni in materia di licenze individuali e di autorizzazioni generali per i servizi di telecomunicazione ad uso privato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2001-10-05;447
+codice_redazionale: 001G0503
+vigente: true
+---
+
+## ATTIVITA' DI TELECOMUNICAZIONI AD USO PRIVATO Sezione 1 Definizioni, scopo ed ambito di applicazione
+
+Capo I
+
+### Art. 1.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+### Art. 2.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+### Art. 3.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+## Categorie di attivita' di telecomunicazioni ad uso privato
+
+Sezione 2
+
+### Art. 4.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+### Art. 5.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+### Art. 6.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+## Procedure
+
+Sezione 3
+
+### Art. 7.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+### Art. 8.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+## Disposizioni comuni alle attivita' di telecomunicazioni ad uso privato
+
+Sezione 4
+
+### Art. 9.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+### Art. 10.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+### Art. 11.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+### Art. 12.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+### Art. 13.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+### Art. 14.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+### Art. 15.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+### Art. 16.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+### Art. 17.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+### Art. 18.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+### Art. 19.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+### Art. 20.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+### Art. 21.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+### Art. 22.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+### Art. 23.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+## Impianto ed esercizio di stazioni radioelettriche richiedenti un'assegnazione di frequenze
+
+Sezione 5
+
+### Art. 24.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+### Art. 25.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+### Art. 26.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+### Art. 27.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+## Servizio radiomobile professionale autogestito
+
+Sezione 6
+
+### Art. 28.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+### Art. 29.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+### Art. 30.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+### Art. 31.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+## Radioamatori
+
+Sezione 7
+
+### Art. 32.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+### Art. 33.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+### Art. 34.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+### Art. 35.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+### Art. 36.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+### Art. 37.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+### Art. 38.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+### Art. 39.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+### Art. 40.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+### Art. 41.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+### Art. 42.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+### Art. 43.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+### Art. 44.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+## NORME FINALI E TRANSITORIE
+
+Capo II
+
+### Art. 45.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+### Art. 46.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
+
+### Art. 47.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))

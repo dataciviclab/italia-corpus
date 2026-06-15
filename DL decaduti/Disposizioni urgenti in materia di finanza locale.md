@@ -1,59 +1,44 @@
-DECRETO-LEGGE 28 giugno 1995 n. 255
+---
+tipo: DECRETO-LEGGE
+numero: 255
+data: 1995-06-28
+titolo: "Disposizioni urgenti in materia di finanza locale."
+urn: urn:nir:stato:decreto.legge:1995-06-28;255
+codice_redazionale: 095G0296
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 28 giugno 1995 n. 255
-===================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
+ DALLA [L. 20 DICEMBRE 1995, N. 539](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20ottobre%201995%20n.%20444%20recante%20disposizioni%20urgenti%20in%20materia%20di%20finanza%20locale.md)
 
-Disposizioni urgenti in materia di finanza locale.
---------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 29-6-1995.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
+ DALLA [L. 20 DICEMBRE 1995, N. 539](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20ottobre%201995%20n.%20444%20recante%20disposizioni%20urgenti%20in%20materia%20di%20finanza%20locale.md)
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
-DALLA [L. 20 DICEMBRE 1995, N. 539](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-20;539)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
+ DALLA [L. 20 DICEMBRE 1995, N. 539](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20ottobre%201995%20n.%20444%20recante%20disposizioni%20urgenti%20in%20materia%20di%20finanza%20locale.md)
 
-Art. 2
-------
+## Art. 4.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
-DALLA [L. 20 DICEMBRE 1995, N. 539](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-20;539)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
+ DALLA [L. 20 DICEMBRE 1995, N. 539](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20ottobre%201995%20n.%20444%20recante%20disposizioni%20urgenti%20in%20materia%20di%20finanza%20locale.md)
 
-Art. 3
-------
+## Art. 5.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
-DALLA [L. 20 DICEMBRE 1995, N. 539](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-20;539)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
+ DALLA [L. 20 DICEMBRE 1995, N. 539](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20ottobre%201995%20n.%20444%20recante%20disposizioni%20urgenti%20in%20materia%20di%20finanza%20locale.md)
 
-Art. 4
-------
+## Art. 6.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
-DALLA [L. 20 DICEMBRE 1995, N. 539](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-20;539)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
+ DALLA [L. 20 DICEMBRE 1995, N. 539](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20ottobre%201995%20n.%20444%20recante%20disposizioni%20urgenti%20in%20materia%20di%20finanza%20locale.md)
 
-Art. 5
-------
+## Art. 7.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
-DALLA [L. 20 DICEMBRE 1995, N. 539](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-20;539)
-  
-
-Art. 6
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
-DALLA [L. 20 DICEMBRE 1995, N. 539](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-20;539)
-  
-
-Art. 7
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
-DALLA [L. 20 DICEMBRE 1995, N. 539](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-20;539)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
+ DALLA [L. 20 DICEMBRE 1995, N. 539](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20ottobre%201995%20n.%20444%20recante%20disposizioni%20urgenti%20in%20materia%20di%20finanza%20locale.md)

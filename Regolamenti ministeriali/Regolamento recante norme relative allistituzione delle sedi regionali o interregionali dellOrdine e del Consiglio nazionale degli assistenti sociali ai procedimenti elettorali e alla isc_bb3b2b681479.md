@@ -1,16 +1,14 @@
-DECRETO 11 ottobre 1994 n. 615
-
-
-DECRETO 11 ottobre 1994 n. 615
-==============================
-
-Regolamento recante norme relative all'istituzione delle sedi regionali o interregionali dell'Ordine e del Consiglio nazionale degli assistenti sociali, ai procedimenti elettorali e alla iscrizione e cancellazione dall'albo professionale.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 22-11-1994
+---
+tipo: DECRETO
+numero: 615
+data: 1994-10-11
+titolo: "Regolamento recante norme relative all'istituzione delle sedi regionali o interregionali dell'Ordine e del Consiglio nazionale degli assistenti sociali, ai procedimenti elettorali e alla iscrizione e cancellazione dall'albo professionale."
+urn: urn:nir:ministero.grazia.e.giustizia:decreto:1994-10-11;615
+codice_redazionale: 094G0652
+vigente: true
+---
 
 IL MINISTRO DI GRAZIA E GIUSTIZIA
----------------------------------
 
 DI CONCERTO CON
 
@@ -24,343 +22,354 @@ IL MINISTRO PER LA FAMIGLIA
 
 E LA SOLIDARIETA' SOCIALE
 
-Visto l'[art. 4 della legge 23 marzo 1993, n. 84](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-23;84~art4), "Ordinamento della professione di assistente sociale ed istituzione dell'albo professionale";
+Visto l'[art. 4 della legge 23 marzo 1993, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-23;84#art_4), "Ordinamento della professione di assistente sociale ed istituzione dell'albo professionale";
 
-Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3);
+Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
 Udito il parere del Consiglio di Stato reso nell'adunanza generale del 17 marzo 1994;
 
-Vista la comunicazione al Presidente del Consiglio dei Ministri, a norma dell'art. 17, comma 3, della citata [legge n. 400 del 1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400) (nota n 2767-37/17-2 del 10 maggio 1994);
+Vista la comunicazione al Presidente del Consiglio dei Ministri, a norma dell'art. 17, comma 3, della citata [legge n. 400 del 1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400) (nota n 2767-37/17-2 del 10 maggio 1994);
 
 A D O T T A il seguente regolamento:
 
-Art. 1
-------
+## Art. 1. — Sedi dei consigli dell'ordine
 
-Sedi dei consigli dell'ordine
+1.
 
-1. Il consiglio di ciascuno degli ordini regionali ha sede nel capoluogo della regione.
+Il consiglio di ciascuno degli ordini regionali ha sede nel capoluogo della regione.
 
-2. Il Consiglio nazionale ha sede in Roma.
+2.
 
-3. Quando il numero degli iscritti all'albo in una regione e' inferiore a duecentocinquanta il consiglio dell'ordine regionale puo' richiedere al Ministero di grazia e giustizia di disporre l'accorpamento con l'ordine di una regione limitrofa d'ufficio o su richiesta del consiglio dell'ordine regionale, sentiti gli ordini professionali interessati. Il consiglio del nuovo ordine interregionale, che ha sede nel capoluogo della regione in cui risiede il maggior numero di iscritti all'albo, puo' a sua volta deliberare di richiedere un ulteriore accorpamento qualora il numero complessivo degli iscritti all'albo non superi le duecentocinquanta unita'.
+Il Consiglio nazionale ha sede in Roma.
 
-4. Nella prima formazione degli albi l'accorpamento e' disposto di ufficio dal commissario di cui all'art. 17 se il numero dei richiedenti l'iscrizione e' inferiore a trenta.
+3.
 
-AVVERTENZA:  
-Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.  
-  
-Note alle premesse:   
-- Il testo dell'[art. 4 della legge n. 84/1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;84~art4) e' il seguente:   
-"Art. 4 (Norme regolamentari). - 1. Entro novanta giorni dalla data di entrata in vigore della presente legge, con decreto del Ministro di grazia e giustizia, di concerto con il Ministro dell'universita' e della ricerca scientifica e tecnologica e con il Ministro per gli affari sociali, sono adottate le norme relative all'iscrizione e alla cancellazione dall'albo di cui all'articolo 3. Con il medesimo decreto sono disciplinati l'istituzione delle sedi regionali o interregionali dell'ordine, l'istituzione del consiglio nazionale e i procedimenti elettorali".   
-- Il [comma 3 dell'art. 17 della legge n. 400/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.  
-Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
+Quando il numero degli iscritti all'albo in una regione e' inferiore a duecentocinquanta il consiglio dell'ordine regionale puo' richiedere al Ministero di grazia e giustizia di disporre l'accorpamento con l'ordine di una regione limitrofa d'ufficio o su richiesta del consiglio dell'ordine regionale, sentiti gli ordini professionali interessati. Il consiglio del nuovo ordine interregionale, che ha sede nel capoluogo della regione in cui risiede il maggior numero di iscritti all'albo, puo' a sua volta deliberare di richiedere un ulteriore accorpamento qualora il numero complessivo degli iscritti all'albo non superi le duecentocinquanta unita'.
 
-Art. 2
-------
+4.
 
-Consiglio regionale o interregionale
+Nella prima formazione degli albi l'accorpamento e' disposto di ufficio dal commissario di cui all'art. 17 se il numero dei richiedenti l'iscrizione e' inferiore a trenta.
 
-1. 
+AVVERTENZA:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ 
+ Note alle premesse: 
+ - Il testo dell'[art. 4 della legge n. 84/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;84#art_4) e' il seguente: 
+ "Art. 4 (Norme regolamentari). - 1. Entro novanta giorni dalla data di entrata in vigore della presente legge, con decreto del Ministro di grazia e giustizia, di concerto con il Ministro dell'universita' e della ricerca scientifica e tecnologica e con il Ministro per gli affari sociali, sono adottate le norme relative all'iscrizione e alla cancellazione dall'albo di cui all'articolo 3. Con il medesimo decreto sono disciplinati l'istituzione delle sedi regionali o interregionali dell'ordine, l'istituzione del consiglio nazionale e i procedimenti elettorali". 
+ - Il [comma 3 dell'art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.
+ Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
 
-((COMMA ABROGATO DAL [D.P.R. 8 LUGLIO 2005, N. 169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2005-07-08;169)))
+## Art. 2. — Consiglio regionale o interregionale
 
-.
+1.
 
-2. 
+((COMMA ABROGATO DAL D.P.R. 8 LUGLIO 2005, N. 169)).
 
-((COMMA ABROGATO DAL [D.P.R. 8 LUGLIO 2005, N. 169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2005-07-08;169)))
+2.
 
-.
+((COMMA ABROGATO DAL D.P.R. 8 LUGLIO 2005, N. 169)).
 
-3. Il consiglio elegge tra i suoi componenti, nella prima seduta, il presidente, il vicepresidente, il segretario ed il tesoriere, ed esercita le seguenti attribuzioni:
+3.
 
-a) cura la tenuta dell'albo, provvedendo alle iscrizioni e alle cancellazioni dei professionisti ed effettuandone la revisione almeno ogni due anni;
+Il consiglio elegge tra i suoi componenti, nella prima seduta, il presidente, il vicepresidente, il segretario ed il tesoriere, ed esercita le seguenti attribuzioni:
+                        a)
+                            cura la tenuta dell'albo, provvedendo alle iscrizioni e alle cancellazioni dei professionisti ed effettuandone la revisione almeno ogni due anni;
+                        b)
+                            determina, con deliberazione approvata dal ministero vigilante la tassa di iscrizione all'albo ed il contributo annuale a carico degli iscritti stabilendone le modalita' di riscossione, con facolta' di determinare la tassa ed il contributo in misura minore per i primi anni di iscrizione all'albo dopo l'abilitazione professionale;
+                        c)
+                            adotta i provvedimenti disciplinari a carico dei professionisti iscritti all'albo;
+                        d)
+                            provvede all'amministrazione del patrimonio dell'ordine e redige annualmente la previsione di spesa e il conto consuntivo, sottoponendoli all'approvazione del collegio di cui all'art. 3.
 
-b) determina, con deliberazione approvata dal ministero vigilante la tassa di iscrizione all'albo ed il contributo annuale a carico degli iscritti stabilendone le modalita' di riscossione, con facolta' di determinare la tassa ed il contributo in misura minore per i primi anni di iscrizione all'albo dopo l'abilitazione professionale;
+4.
 
-c) adotta i provvedimenti disciplinari a carico dei professionisti iscritti all'albo;
+Il presidente rappresenta l'ordine regionale o interregionale e ne convoca e presiede il consiglio, formulando l'ordine del giorno delle riunioni.
 
-d) provvede all'amministrazione del patrimonio dell'ordine e redige annualmente la previsione di spesa e il conto consuntivo, sottoponendoli all'approvazione del collegio di cui all'art. 3.
+5.
 
-4. Il presidente rappresenta l'ordine regionale o interregionale e ne convoca e presiede il consiglio, formulando l'ordine del giorno delle riunioni.
+Il consiglio si riunisce almeno una volta ogni tre mesi ed ogni volta che ne facciano richiesta, con indicazione specifica delle questioni da trattare, la maggioranza dei suoi componenti o almeno un terzo degli iscritti all'albo. Il presidente e' tenuto ad inserire nell'ordine del giorno le questioni indicate dai richiedenti.
 
-5. Il consiglio si riunisce almeno una volta ogni tre mesi ed ogni volta che ne facciano richiesta, con indicazione specifica delle questioni da trattare, la maggioranza dei suoi componenti o almeno un terzo degli iscritti all'albo. Il presidente e' tenuto ad inserire nell'ordine del giorno le questioni indicate dai richiedenti.
+6.
 
-6. Il verbale della riunione, redatto dal segretario, che lo sottoscrive con il presidente, e' approvato dal consiglio nella prima riunione successiva. Una copia del verbale viene tenuta affissa nella sede dell'ordine per almeno trenta giorni.
+Il verbale della riunione, redatto dal segretario, che lo sottoscrive con il presidente, e' approvato dal consiglio nella prima riunione successiva. Una copia del verbale viene tenuta affissa nella sede dell'ordine per almeno trenta giorni.
 
-Art. 3
-------
+## Art. 3. — (( (Controllo sulla gestione patrimoniale). 
+ 
+ 1 Presso ciascun ordine regionale o interregionale il controllo sulla gestione patrimoniale e' attribuito ad un revisore dei conti iscritto nel registro dei revisori contabili, eletto dall'assemblea degli iscritti all'albo con le modalita' previste per l'elezione dei componenti del consiglio. 
+ 2. L'incarico di revisore contabile ha la stessa durata del consiglio. 
+ 3. Se il revisore non approva la previsione di spesa o il conto consuntivo, informa senza ritardo, trasmettendogli una dettagliata relazione, il Ministero vigilante, il quale scioglie il consiglio se sono state commesse gravi violazioni di norme di legge o regolamentari))
 
-(( (Controllo sulla gestione patrimoniale).   
-  
-1 Presso ciascun ordine regionale o interregionale il controllo sulla gestione patrimoniale e' attribuito ad un revisore dei conti iscritto nel registro dei revisori contabili, eletto dall'assemblea degli iscritti all'albo con le modalita' previste per l'elezione dei componenti del consiglio.   
-2. L'incarico di revisore contabile ha la stessa durata del consiglio.   
-3. Se il revisore non approva la previsione di spesa o il conto consuntivo, informa senza ritardo, trasmettendogli una dettagliata relazione, il Ministero vigilante, il quale scioglie il consiglio se sono state commesse gravi violazioni di norme di legge o regolamentari))
+## Art. 4. — Elezione dei componenti del consiglio regionale o interregionale
 
-Art. 4
-------
+1.
 
-Elezione dei componenti del consiglio regionale o interregionale
+((COMMA ABROGATO DAL D.P.R. 8 LUGLIO 2005, N. 169)).
 
-1. 
+2.
 
-((COMMA ABROGATO DAL [D.P.R. 8 LUGLIO 2005, N. 169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2005-07-08;169)))
+((COMMA ABROGATO DAL D.P.R. 8 LUGLIO 2005, N. 169)).
 
-.
+3.
 
-2. 
+((COMMA ABROGATO DAL D.P.R. 8 LUGLIO 2005, N. 169)).
 
-((COMMA ABROGATO DAL [D.P.R. 8 LUGLIO 2005, N. 169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2005-07-08;169)))
+4.
 
-.
+((COMMA ABROGATO DAL D.P.R. 8 LUGLIO 2005, N. 169)).
 
-3. 
+5.
 
-((COMMA ABROGATO DAL [D.P.R. 8 LUGLIO 2005, N. 169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2005-07-08;169)))
+((COMMA ABROGATO DAL D.P.R. 8 LUGLIO 2005, N. 169)).
 
-.
+6.
 
-4. 
+((COMMA ABROGATO DAL D.P.R. 8 LUGLIO 2005, N. 169)).
 
-((COMMA ABROGATO DAL [D.P.R. 8 LUGLIO 2005, N. 169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2005-07-08;169)))
+7.
 
-.
+Le schede da usare per la votazione sono vidimate dal presidente o dal vicepresidente e da almeno uno scrutatore.
 
-5. 
+## Art. 5.
 
-((COMMA ABROGATO DAL [D.P.R. 8 LUGLIO 2005, N. 169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2005-07-08;169)))
+((ARTICOLO ABROGATO DAL D.P.R. 8 LUGLIO 2005, N. 169))
 
-.
+## Art. 6. — Insediamento del consiglio
 
-6. 
+1.
 
-((COMMA ABROGATO DAL [D.P.R. 8 LUGLIO 2005, N. 169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2005-07-08;169)))
-
-.
-
-7. Le schede da usare per la votazione sono vidimate dal presidente o dal vicepresidente e da almeno uno scrutatore.
-
-Art. 5
-------
-
-((ARTICOLO ABROGATO DAL [D.P.R. 8 LUGLIO 2005, N. 169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2005-07-08;169)))
-
-Art. 6
-------
-
-Insediamento del consiglio
-
-1. Il presidente del consiglio uscente o il commissario, entro quindici giorni dalla proclamazione del risultato dell'elezione, convoca per l'insediamento i componenti del consiglio eletti.  
+Il presidente del consiglio uscente o il commissario, entro quindici giorni dalla proclamazione del risultato dell'elezione, convoca per l'insediamento i componenti del consiglio eletti.
 L'adunanza e' presieduta, fino all'elezione del presidente, dal consigliere piu' anziano per eta'. Copia del verbale della seduta e' trasmessa al Ministero di grazia e giustizia.
 
-2. Fino all'insediamento del nuovo consiglio quello uscente provvede all'ordinaria amministrazione e al disbrigo delle pratiche urgenti.
+2.
 
-Art. 7
-------
+Fino all'insediamento del nuovo consiglio quello uscente provvede all'ordinaria amministrazione e al disbrigo delle pratiche urgenti.
 
-Scioglimento del consiglio
+## Art. 7. — Scioglimento del consiglio
 
-1. Se il consiglio di un ordine regionale o interregionale non e' in grado di funzionare regolarmente o commette gravi violazioni di norme di legge o regolamentari, il Ministero di grazia e giustizia, sentito il Consiglio nazionale dell'ordine, ne dispone lo scioglimento e nomina un commissario.
+1.
 
-2. Il commissario convoca l'assemblea degli iscritti all'albo per eleggere il consiglio nel termine stabilito dal Ministero di grazia e giustizia, provvedendo all'ordinaria amministrazione e al disbrigo delle pratiche urgenti. Nel caso che l'elezione del consiglio non risulti valida, il commissario ne da immediata comunicazione al Ministero di grazia e giustizia che provvede a fissare il termine per la rinnovazione dell'elezione.
+Se il consiglio di un ordine regionale o interregionale non e' in grado di funzionare regolarmente o commette gravi violazioni di norme di legge o regolamentari, il Ministero di grazia e giustizia, sentito il Consiglio nazionale dell'ordine, ne dispone lo scioglimento e nomina un commissario.
 
-3. Il commissario puo' essere coadiuvato nell'esercizio delle sue funzioni da non piu' di due iscritti all'albo che egli nomina a tal fine.
+2.
 
-Art. 8
-------
+Il commissario convoca l'assemblea degli iscritti all'albo per eleggere il consiglio nel termine stabilito dal Ministero di grazia e giustizia, provvedendo all'ordinaria amministrazione e al disbrigo delle pratiche urgenti. Nel caso che l'elezione del consiglio non risulti valida, il commissario ne da immediata comunicazione al Ministero di grazia e giustizia che provvede a fissare il termine per la rinnovazione dell'elezione.
 
-Ricorsi in materia elettorale
+3.
 
-1. Contro i risultati dell'elezione ciascuno degli iscritti all'albo puo' proporre ricorso al Consiglio nazionale entro trenta giorni dalla proclamazione degli eletti.
+Il commissario puo' essere coadiuvato nell'esercizio delle sue funzioni da non piu' di due iscritti all'albo che egli nomina a tal fine.
 
-2. Il Consiglio nazionale, se ritiene fondato il ricorso, annulla l'elezione e comunica la decisione al Ministero di grazia e giustizia, che provvede, ove manchi, a nominare un commissario per rinnovare l'elezione.
+## Art. 8. — Ricorsi in materia elettorale
 
-Art. 9
-------
+1.
 
-Iscrizione all'albo
+Contro i risultati dell'elezione ciascuno degli iscritti all'albo puo' proporre ricorso al Consiglio nazionale entro trenta giorni dalla proclamazione degli eletti.
 
-1. Per essere iscritti all'albo e' necessario:
+2.
 
-a) avere conseguito l'abilitazione all'esercizio della professione;
+Il Consiglio nazionale, se ritiene fondato il ricorso, annulla l'elezione e comunica la decisione al Ministero di grazia e giustizia, che provvede, ove manchi, a nominare un commissario per rinnovare l'elezione.
 
-b) avere la residenza nella regione o in una delle regioni che costituiscono l'ambito territoriale dell'ordine;
+## Art. 9. — Iscrizione all'albo
 
-c) non essere stato gia' radiato dall'albo o condannato, con sentenza passata in giudicato, per un reato che comporta l'interdizione dalla professione.
+1.
 
-2. Gli interessati presentano domanda al consiglio dell'ordine regionale o interregionale allegando i documenti attestanti il possesso del requisito di cui al comma 1, lettera a), e il versamento delle tasse di iscrizione e di concessione governativa.
+Per essere iscritti all'albo e' necessario:
+                        a)
+                            avere conseguito l'abilitazione all'esercizio della professione;
+                        b)
+                            avere la residenza nella regione o in una delle regioni che costituiscono l'ambito territoriale dell'ordine;
+                        c)
+                            non essere stato gia' radiato dall'albo o condannato, con sentenza passata in giudicato, per un reato che comporta l'interdizione dalla professione.
 
-3. Il consiglio provvede sulle domande di iscrizione, in ordine di presentazione, nel termine di trenta giorni.  
-Trascorso tale termine la domanda si intende accolta.
+2.
 
-4. Non e' consentita l'iscrizione in piu' di un albo regionale o interregionale.
+Gli interessati presentano domanda al consiglio dell'ordine regionale o interregionale allegando i documenti attestanti il possesso del requisito di cui al comma 1, lettera a), e il versamento delle tasse di iscrizione e di concessione governativa.
 
-Art. 10
--------
+3.
 
-Cancellazione dall'albo
+Il consiglio provvede sulle domande di iscrizione, in ordine di presentazione, nel termine di trenta giorni.
+ Trascorso tale termine la domanda si intende accolta.
 
-1. Il consiglio provvede a cancellare dall'albo gli iscritti che ne facciano domanda e quelli per cui vengano a mancare i requisiti di cui all'art. 9, comma 1, lettere b) e c). La cancellazione decorre nel primo caso dalla data di ricevimento della domanda e nel secondo, rispettivamente, da quella in cui cessa la domiciliazione e da quella del passaggio in giudicato della sentenza di condanna.
+4.
 
-Art. 11
--------
+Non e' consentita l'iscrizione in piu' di un albo regionale o interregionale.
 
-Ricorsi in caso di diniego di iscrizione  
-o di cancellazione dall'albo
+## Art. 10. — Cancellazione dall'albo
 
-1. Contro il diniego di iscrizione all'albo o la cancellazione l'interessato, prima di adire l'autorita' giudiziaria, puo' proporre ricorso al Consiglio nazionale il quale se accoglie il ricorso, dispone l'iscrizione all'albo con decorrenza dalla data di scadenza del termine di cui all'art. 9, comma 3, o annulla il provvedimento di cancellazione dall'albo.
+1.
 
-2. Il ricorso e' presentato direttamente o trasmesso a mezzo del servizio postale in plico raccomandato con avviso di ricevimento al consiglio dell'ordine regionale o interregionale che ha emesso il provvedimento impugnato, il quale lo trasmette entro quindici giorni al Consiglio nazionale aggiungendo eventuali deduzioni.
+Il consiglio provvede a cancellare dall'albo gli iscritti che ne facciano domanda e quelli per cui vengano a mancare i requisiti di cui all'art. 9, comma 1, lettere b) e c). La cancellazione decorre nel primo caso dalla data di ricevimento della domanda e nel secondo, rispettivamente, da quella in cui cessa la domiciliazione e da quella del passaggio in giudicato della sentenza di condanna.
 
-3. Il Consiglio nazionale sentito l'interessato che ne faccia richiesta, decide il ricorso e ne da comunicazione all'interessato entro quarantacinque giorni. Trascorso tale termine il ricorso si intende respinto.
+## Art. 11. — Ricorsi in caso di diniego di iscrizione
+ o di cancellazione dall'albo
 
-Art. 12
--------
+1.
 
-Consiglio Nazionale
+Contro il diniego di iscrizione all'albo o la cancellazione l'interessato, prima di adire l'autorita' giudiziaria, puo' proporre ricorso al Consiglio nazionale il quale se accoglie il ricorso, dispone l'iscrizione all'albo con decorrenza dalla data di scadenza del termine di cui all'art. 9, comma 3, o annulla il provvedimento di cancellazione dall'albo.
 
-1. Il Consiglio nazionale e' composto da quindici membri eletti tra gli iscritti negli albi regionali e interregionali. La carica di consigliere nazionale e' incompatibile con quella di consigliere di un ordine regionale o interregionale.
+2.
 
-2. Il Consiglio nazionale elegge tra i suoi componenti, nella prima seduta, il presidente, il vicepresidente, il segretario ed il tesoriere, ed esercita le seguenti attribuzioni:
+Il ricorso e' presentato direttamente o trasmesso a mezzo del servizio postale in plico raccomandato con avviso di ricevimento al consiglio dell'ordine regionale o interregionale che ha emesso il provvedimento impugnato, il quale lo trasmette entro quindici giorni al Consiglio nazionale aggiungendo eventuali deduzioni.
 
-a) promuove e coordina le attivita' degli ordini regionali o interregionali dirette alla tutela della dignita' e del prestigio della professione;
+3.
 
-b) designa i rappresentanti dell'ordine in commissioni ed altri organismi nazionali ed internazionali;
+Il Consiglio nazionale sentito l'interessato che ne faccia richiesta, decide il ricorso e ne da comunicazione all'interessato entro quarantacinque giorni. Trascorso tale termine il ricorso si intende respinto.
 
-c) esprime pareri su questioni di carattere generale che interessano la professione;
+## Art. 12. — Consiglio Nazionale
 
-d) decide i ricorsi avverso le deliberazioni dei consigli degli ordini regionali o interregionali in materia elettorale e disciplinare o concernenti l'iscrizione e la cancellazione dall'albo;
+1.
 
-e) determina, con delibera approvata dal Ministero vigilante, il contributo annuale a carico degli iscritti negli albi e le relative modalita' di riscossione;
+Il Consiglio nazionale e' composto da quindici membri eletti tra gli iscritti negli albi regionali e interregionali. La carica di consigliere nazionale e' incompatibile con quella di consigliere di un ordine regionale o interregionale.
 
-f) provvede all'amministrazione del proprio patrimonio e redige annualmente la previsione di spesa e il conto consuntivo, sottoponendoli all'approvazione del collegio di cui all'art. 13.
+2.
 
-3. Il presidente rappresenta l'ordine professionale nel suo complesso e ne convoca e presiede il Consiglio nazionale, formulando l'ordine del giorno.
+Il Consiglio nazionale elegge tra i suoi componenti, nella prima seduta, il presidente, il vicepresidente, il segretario ed il tesoriere, ed esercita le seguenti attribuzioni:
+                        a)
+                            promuove e coordina le attivita' degli ordini regionali o interregionali dirette alla tutela della dignita' e del prestigio della professione;
+                        b)
+                            designa i rappresentanti dell'ordine in commissioni ed altri organismi nazionali ed internazionali;
+                        c)
+                            esprime pareri su questioni di carattere generale che interessano la professione;
+                        d)
+                            decide i ricorsi avverso le deliberazioni dei consigli degli ordini regionali o interregionali in materia elettorale e disciplinare o concernenti l'iscrizione e la cancellazione dall'albo;
+                        e)
+                            determina, con delibera approvata dal Ministero vigilante, il  contributo annuale a carico degli iscritti negli albi e le relative modalita' di riscossione;
+                        f)
+                            provvede all'amministrazione del proprio patrimonio e redige annualmente la previsione di spesa e il conto consuntivo, sottoponendoli all'approvazione del collegio di cui all'art. 13.
 
-4. Il Consiglio si riunisce almeno una volta ogni sei mesi ed ogni volta che ne facciano richiesta, con indicazione specifica delle questioni da trattare, la maggioranza dei suoi componenti o almeno cinque consigli di ordini regionali o interregionali. Il presidente e' tenuto ad inserire nell'ordine del giorno le questioni indicate dai richiedenti.
+3.
 
-5. Il verbale della riunione, redatto dal segretario, che lo sottoscrive con il presidente, e' approvato dal consiglio nella prima riunione successiva. Una copia del verbale viene trasmessa a ciascun ordine regionale o interregionale.
+Il presidente rappresenta l'ordine professionale nel suo complesso e ne convoca e presiede il Consiglio nazionale, formulando l'ordine del giorno.
+
+4.
+
+Il Consiglio si riunisce almeno una volta ogni sei mesi ed ogni volta che ne facciano richiesta, con indicazione specifica delle questioni da trattare, la maggioranza dei suoi componenti o almeno cinque consigli di ordini regionali o interregionali. Il presidente e' tenuto ad inserire nell'ordine del giorno le questioni indicate dai richiedenti.
+
+5.
+
+Il verbale della riunione, redatto dal segretario, che lo sottoscrive con il presidente, e' approvato dal consiglio nella prima riunione successiva. Una copia del verbale viene trasmessa a ciascun ordine regionale o interregionale.
 
 ((6. Presso il Consiglio nazionale il controllo sulla gestione patrimoniale e' attribuito ad un revisore dei conti iscritto nel registro dei revisori contabili, eletto dai consigli degli ordini regionali o interregionali con le modalita' previste per l'elezione dei componenti del Consiglio nazionale. Al revisore, si applica la disposizione di cui al comma 2 dell'articolo 3))
 
-Art. 13
--------
+## Art. 13. — Elezione del Consiglio nazionale
 
-Elezione del Consiglio nazionale
+1.
 
-1. All'elezione del Consiglio nazionale si procede, nei trenta giorni precedenti la scadenza del Consiglio in carica, presso ciascun ordine regionale o interregionale. A tal fine ciascun consiglio dell'ordine approva
+All'elezione del Consiglio nazionale si procede, nei trenta giorni precedenti la scadenza del Consiglio in carica, presso ciascun ordine regionale o interregionale. A tal fine ciascun consiglio dell'ordine approva ((...)) la lista dei ((...)) professionisti che intende eleggere al Consiglio nazionale e la trasmette alla commissione di cui al comma 3 con l'attestazione del numero degli iscritti al proprio albo.
 
-((...))
+2.
 
-la lista dei
+((COMMA ABROGATO DAL D.P.R. 8 LUGLIO 2005, N. 169)).
 
-((...))
+3.
 
-professionisti che intende eleggere al Consiglio nazionale e la trasmette alla commissione di cui al comma 3 con l'attestazione del numero degli iscritti al proprio albo.
+Presso il Ministero di grazia e giustizia, una commissione di cinque iscritti negli albi che non siano componenti del Consiglio nazionale o di quello di un ordine regionale o interregionale, nominata dal Consiglio nazionale e presieduta dal componente piu' anziano per iscrizione all'albo o, nel caso di pari anzianita' di iscrizione, per eta', forma in base ai voti spettanti a ciascun consiglio la graduatoria dei professionisti votati e proclama eletti consiglieri nazionali i primi quindici, dandone immediata comunicazione al presidente del Consiglio nazionale uscente o, se questo era stato sciolto, al commissario; i componenti della commissione durano in carica cinque anni e non sono immediatamente rieleggibili.
 
-2. 
+4.
 
-((COMMA ABROGATO DAL [D.P.R. 8 LUGLIO 2005, N. 169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2005-07-08;169)))
+Per la prima elezione del Consiglio nazionale la proclamazione degli eletti e' fatta dal direttore generale degli affari civili e delle libere professioni del Ministero di grazia e giustizia.
 
-.
+## Art. 14. — Insediamento del Consiglio nazionale
 
-3. Presso il Ministero di grazia e giustizia, una commissione di cinque iscritti negli albi che non siano componenti del Consiglio nazionale o di quello di un ordine regionale o interregionale, nominata dal Consiglio nazionale e presieduta dal componente piu' anziano per iscrizione all'albo o, nel caso di pari anzianita' di iscrizione, per eta', forma in base ai voti spettanti a ciascun consiglio la graduatoria dei professionisti votati e proclama eletti consiglieri nazionali i primi quindici, dandone immediata comunicazione al presidente del Consiglio nazionale uscente o, se questo era stato sciolto, al commissario; i componenti della commissione durano in carica cinque anni e non sono immediatamente rieleggibili.
+1.
 
-4. Per la prima elezione del Consiglio nazionale la proclamazione degli eletti e' fatta dal direttore generale degli affari civili e delle libere professioni del Ministero di grazia e giustizia.
-
-Art. 14
--------
-
-Insediamento del Consiglio nazionale
-
-1. Il presidente del Consiglio nazionale uscente, entro quindici giorni dalla comunicazione di cui all'art. 11, comma 3, convoca per l'insediamento i componenti del Consiglio nazionale eletti.  
+Il presidente del Consiglio nazionale uscente, entro quindici giorni dalla comunicazione di cui all'art. 11, comma 3, convoca per l'insediamento i componenti del Consiglio nazionale eletti.
 L'adunanza e' presieduta, fino all'elezione del presidente, dal consigliere piu' anziano per eta'. Copia del verbale della seduta e' trasmessa al Ministero di grazia e giustizia.
 
-2. Fino all'insediamento del nuovo Consiglio quello uscente provvede al disbrigo delle pratiche urgenti.
+2.
 
-3. Nella prima elezione del Consiglio nazionale all'insediamento provvede il Ministero di grazia e giustizia.
+Fino all'insediamento del nuovo Consiglio quello uscente provvede al disbrigo delle pratiche urgenti.
 
-Art. 15
--------
+3.
 
-Scioglimento del Consiglio nazionale
+Nella prima elezione del Consiglio nazionale all'insediamento provvede il Ministero di grazia e giustizia.
 
-1. Se il Consiglio nazionale non e' in grado di funzionare regolarmente o commette gravi violazioni di norme di legge o regolamentari il Ministero di grazia e giustizia ne dispone lo scioglimento e nomina un commissario per il disbrigo delle pratiche urgenti e dandone comunicazione ai consigli degli ordini regionali o interregionali.
+## Art. 15. — Scioglimento del Consiglio nazionale
 
-2. Presso ciascun ordine regionale o interregionale si provvede all'elezione dei componenti del Consiglio nazionale, entro trenta giorni dalla comunicazione di cui al comma 1, secondo quanto disposto nell'art. 13.
+1.
 
-Art. 16
--------
+Se il Consiglio nazionale non e' in grado di funzionare regolarmente o commette gravi violazioni di norme di legge o regolamentari il Ministero di grazia e giustizia ne dispone lo scioglimento e nomina un commissario per il disbrigo delle pratiche urgenti e dandone comunicazione ai consigli degli ordini regionali o interregionali.
 
-Sostituzione dei componenti dei consigli
+2.
 
-1. I componenti del consiglio regionale o interregionale deceduti, dimissionari o cancellati dall'albo per essere venuto meno il requisito di cui all'art. 9, comma 1, lettera c), sono sostituiti con i primi dei non eletti nelle rispettive graduatorie, i quali restano in carica fino alla scadenza del consiglio.
+Presso ciascun ordine regionale o interregionale si provvede all'elezione dei componenti del Consiglio nazionale, entro trenta giorni dalla comunicazione di cui al comma 1, secondo quanto disposto nell'art. 13.
 
-Art. 17
--------
+## Art. 16. — Sostituzione dei componenti dei consigli
 
-Sanzioni disciplinari
+1.
 
-1. All'iscritto all'albo che si rende colpevole di abuso o mancanza nell'esercizio della professione o che comunque tiene un comportamento non conforme al decoro o alla dignita' professionale il consiglio dell'ordine regionale o interregionale infligge, tenuto conto della gravita del fatto, una delle seguenti sanzioni:
+I componenti del consiglio regionale o interregionale deceduti, dimissionari o cancellati dall'albo per essere venuto meno il requisito di cui all'art. 9, comma 1, lettera c), sono sostituiti con i primi dei non eletti nelle rispettive graduatorie, i quali restano in carica fino alla scadenza del consiglio.
 
-a) ammonizione;
+## Art. 17. — Sanzioni disciplinari
 
-b) censura;
+1.
 
-c) sospensione dall'esercizio della professione fino ad un anno;
+All'iscritto all'albo che si rende colpevole di abuso o mancanza nell'esercizio della professione o che comunque tiene un comportamento non conforme al decoro o alla dignita' professionale il consiglio dell'ordine regionale o interregionale infligge, tenuto conto della gravita del fatto, una delle seguenti sanzioni:
+                        a)
+                            ammonizione;
+                        b)
+                            censura;
+                        c)
+                            sospensione dall'esercizio della professione fino ad un anno;
+                        d)
+                            radiazione dall'albo.
 
-d) radiazione dall'albo.
+2.
 
-2. L'interessato puo' proporre ricorso al Consiglio nazionale contro il provvedimento di irrogazione di una sanzione, salva la facolta' di adire in ogni momento l'autorita' giudiziaria.
+L'interessato puo' proporre ricorso al Consiglio nazionale contro il provvedimento di irrogazione di una sanzione, salva la facolta' di adire in ogni momento l'autorita' giudiziaria.
 
-3. Si applicano le disposizioni di cui all'art. 11, commi 2 e 3.
+3.
 
-Art. 18
--------
+Si applicano le disposizioni di cui all'art. 11, commi 2 e 3.
 
-Compensi per le prestazioni professionali
+## Art. 18. — Compensi per le prestazioni professionali
 
-1. I criteri per la determinazione dei compensi dovuti agli assistenti sociali che esercitano la professione in forma autonoma sono stabiliti, su proposta del Consiglio nazionale, con decreto del Ministro di grazia e giustizia di concerto con il Ministro per gli affari sociali.
+1.
 
-Art. 19
--------
+I criteri per la determinazione dei compensi dovuti agli assistenti sociali che esercitano la professione in forma autonoma sono stabiliti, su proposta del Consiglio nazionale, con decreto del Ministro di grazia e giustizia di concerto con il Ministro per gli affari sociali.
 
-Prima formazione degli albi
+## Art. 19. — Prima formazione degli albi
 
-1. Alla prima formazione degli albi regionali o interregionali si provvede per mezzo di commissari nominati, uno per ciascuna regione, dal Ministero di grazia e giustizia, su proposta del presidente della corte di appello avente sede nel capoluogo, tra i magistrati, anche a riposo, residenti nella regione e che non svolgano funzioni presso l'ufficio giudiziario competente per i ricorsi avverso i provvedimenti di formazione dell'albo.
+1.
 
-2. Il commissario puo' avvalersi della collaborazione di non piu' di due persone da lui scelte alle quali spetta un compenso a vacazioni, fino ad un massimo di sei al giorno. Per ciascuna vacazione, della durata di un'ora, il compenso e' di lire ventimila; i collaboratori sono nominati con decreto del Presidente della corte di appello nella cui circoscrizione si trova la sede del consiglio.  
+Alla prima formazione degli albi regionali o interregionali si provvede per mezzo di commissari nominati, uno per ciascuna regione, dal Ministero di grazia e giustizia, su proposta del presidente della corte di appello avente sede nel capoluogo, tra i magistrati, anche a riposo, residenti nella regione e che non svolgano funzioni presso l'ufficio giudiziario competente per i ricorsi avverso i provvedimenti di formazione dell'albo.
+
+2.
+
+Il commissario puo' avvalersi della collaborazione di non piu' di due persone da lui scelte alle quali spetta un compenso a vacazioni, fino ad un massimo di sei al giorno. Per ciascuna vacazione, della durata di un'ora, il compenso e' di lire ventimila; i collaboratori sono nominati con decreto del Presidente della corte di appello nella cui circoscrizione si trova la sede del consiglio.
 Con lo stesso decreto si provvede alla determinazione del relativo compenso a vacazione nei limiti di cui sopra.
 
-3. Gli aspiranti all'iscrizione all'albo devono presentare domanda in bollo al commissario, indirizzata alla corte di appello avente sede nel capoluogo della regione in cui sono domiciliati, entro sessanta giorni dalla pubblicazione nella Gazzetta Ufficiale del presente regolamento, allegando i documenti attestanti il diritto all'iscrizione, ai sensi della [legge 23 marzo 1993, n. 84](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-23;84), nonche' l'avvenuto versamento della tassa provvisoria di iscrizione di cui al comma 5 e di quella di concessione governativa. Le domande presentate oltre il termine anzidetto sono rimesse dal commissario al consiglio dell'ordine dopo la sua elezione.
+3.
 
-4. La domanda deve contenere, oltre ai dati anagrafici completi, l'indicazione del domicilio e del codice fiscale del richiedente, l'espressa dichiarazione che lo stesso non e' stato condannato, con sentenza passata in giudicato, per un reato che comporta l'interdizione dalla professione, nonche' la sua sottoscrizione autenticata ai sensi di legge.
+Gli aspiranti all'iscrizione all'albo devono presentare domanda in bollo al commissario, indirizzata alla corte di appello avente sede nel capoluogo della regione in cui sono domiciliati, entro sessanta giorni dalla pubblicazione nella Gazzetta Ufficiale del presente regolamento, allegando i documenti attestanti il diritto all'iscrizione, ai sensi della [legge 23 marzo 1993, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-23;84), nonche' l'avvenuto versamento della tassa provvisoria di iscrizione di cui al comma 5 e di quella di concessione governativa. Le domande presentate oltre il termine anzidetto sono rimesse dal commissario al consiglio dell'ordine dopo la sua elezione.
 
-5. La tassa provvisoria di iscrizione e' determinata in lire centomila; il versamento e' effettuato su di un conto corrente postale intestato al commissario.
+4.
 
-6. Al commissario spetta un compenso a vacazioni, fino ad un massimo di otto al giorno. Per ciascuna vacazione, della durata di un'ora, il compenso e' di lire ventimila; il compenso e' determinato con decreto del presidente della Corte di appello nella cui circoscrizione si trova la sede del consiglio.  
-L'onere delle vacazioni e' a carico dell'ordine professionale che vi provvede con le contribuzioni degli iscritti.
+La domanda deve contenere, oltre ai dati anagrafici completi, l'indicazione del domicilio e del codice fiscale del richiedente, l'espressa dichiarazione che lo stesso non e' stato condannato, con sentenza passata in giudicato, per un reato che comporta l'interdizione dalla professione, nonche' la sua sottoscrizione autenticata ai sensi di legge.
 
-Nota all'[art. 19:  
-- La legge n. 84/1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;84~art19) reca: "Ordinamento della professione di assistente sociale e istituzione dell'albo professionale".
+5.
 
-Art. 20
--------
+La tassa provvisoria di iscrizione e' determinata in lire centomila; il versamento e' effettuato su di un conto corrente postale intestato al commissario.
 
-Prima elezione dei consigli
+6.
 
-1. Entro novanta giorni dalla scadenza del termine indicato nell'art. 19, comma 3, il commissario, formato l'albo e trasmessane copia al Ministero di grazia e giustizia, procede all'elezione dei componenti del consiglio regionale o interregionale secondo le disposizioni contenute negli articoli 4, 5 e 6.
+Al commissario spetta un compenso a vacazioni, fino ad un massimo di otto al giorno. Per ciascuna vacazione, della durata di un'ora, il compenso e' di lire ventimila; il compenso e' determinato con decreto del presidente della Corte di appello nella cui circoscrizione si trova la sede del consiglio.
+ L'onere delle vacazioni e' a carico dell'ordine professionale che vi provvede con le contribuzioni degli iscritti.
 
-2. Entro quindici giorni dall'insediamento del consiglio il commissario gli rende il conto della propria gestione, presentandogli anche una nota specifica delle proprie competenze che il consiglio provvede a liquidare secondo quanto disposto nell'art. 19, comma 6.
+Nota all'[art. 19:
+ - La legge n. 84/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;84#art_19) reca: "Ordinamento della professione di assistente sociale e istituzione dell'albo professionale".
+
+## Art. 20. — Prima elezione dei consigli
+
+1.
+
+Entro novanta giorni dalla scadenza del termine indicato nell'art. 19, comma 3, il commissario, formato l'albo e trasmessane copia al Ministero di grazia e giustizia, procede all'elezione dei componenti del consiglio regionale o interregionale secondo le disposizioni contenute negli articoli 4, 5 e 6.
+
+2.
+
+Entro quindici giorni dall'insediamento del consiglio il commissario gli rende il conto della propria gestione, presentandogli anche una nota specifica delle proprie competenze che il consiglio provvede a liquidare secondo quanto disposto nell'art. 19, comma 6.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 11 ottobre 1994
+Roma, 11 ottobre 1994
 
-Il Ministro di grazia e giustizia BIONDI Il Ministro dell'universita' e della ricerca scientifica e tecnologica PODESTA' Il Ministro per la famiglia e la solidarieta' sociale GUIDI
-
-Visto, il Guardasigilli: BIONDI Registrato alla Corte dei conti il 19 ottobre 1994
-
-Registro n. 2 Giustizia, foglio n. 103
+Il Ministro di grazia e giustizia BIONDI Il Ministro dell'universita' e della ricerca scientifica e tecnologica PODESTA' Il Ministro per la famiglia e la solidarieta' sociale GUIDI Visto, il Guardasigilli: BIONDI Registrato alla Corte dei conti il 19 ottobre 1994 Registro n. 2 Giustizia, foglio n. 103

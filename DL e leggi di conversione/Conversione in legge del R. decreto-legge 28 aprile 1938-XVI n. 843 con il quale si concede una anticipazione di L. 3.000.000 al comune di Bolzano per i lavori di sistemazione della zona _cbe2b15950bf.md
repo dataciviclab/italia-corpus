@@ -1,16 +1,14 @@
-LEGGE 19 gennaio 1939 n. 424
+---
+tipo: LEGGE
+numero: 424
+data: 1939-01-19
+titolo: "Conversione in legge del R. decreto-legge 28 aprile 1938-XVI, n. 843, con il quale si concede una anticipazione di L. 3.000.000 al comune di Bolzano per i lavori di sistemazione della zona industriale. (039U0424)"
+urn: urn:nir:stato:legge:1939-01-19;424
+codice_redazionale: 039U0424
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 19 gennaio 1939 n. 424
-============================
-
-Conversione in legge del R. decreto-legge 28 aprile 1938-XVI, n. 843, con il quale si concede una anticipazione di L. 3.000.000 al comune di Bolzano per i lavori di sistemazione della zona industriale. (039U0424)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/03/1939
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

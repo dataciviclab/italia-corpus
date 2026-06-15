@@ -1,38 +1,29 @@
-DECRETO-LEGGE 18 luglio 1987 n. 283
+---
+tipo: DECRETO-LEGGE
+numero: 283
+data: 1987-07-18
+titolo: "Interventi urgenti per Roma, capitale della Repubblica."
+urn: urn:nir:stato:decreto.legge:1987-07-18;283
+codice_redazionale: 087U0283
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 18 luglio 1987 n. 283
-===================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 29 OTTOBRE 1987, N. 453](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20settembre%201987%20n.%20380%20recante%20interventi%20urgenti%20per%20Roma%20Capitale%20della%20Repubblica.md)
 
-Interventi urgenti per Roma, capitale della Repubblica.
--------------------------------------------------------
+## Art. 2.
 
-Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 29 OTTOBRE 1987, N. 453](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20settembre%201987%20n.%20380%20recante%20interventi%20urgenti%20per%20Roma%20Capitale%20della%20Repubblica.md)
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 29 OTTOBRE 1987, N. 453](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;453)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 29 OTTOBRE 1987, N. 453](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20settembre%201987%20n.%20380%20recante%20interventi%20urgenti%20per%20Roma%20Capitale%20della%20Repubblica.md)
 
-Art. 2
-------
+## Art. 4.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 29 OTTOBRE 1987, N. 453](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;453)
-  
-
-Art. 3
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 29 OTTOBRE 1987, N. 453](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;453)
-  
-
-Art. 4
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 29 OTTOBRE 1987, N. 453](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;453)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 29 OTTOBRE 1987, N. 453](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20settembre%201987%20n.%20380%20recante%20interventi%20urgenti%20per%20Roma%20Capitale%20della%20Repubblica.md)

@@ -1,30 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 agosto 1982 n. 801
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 801
+data: 1982-08-12
+titolo: "Attuazione della direttiva (CEE) n. 74/148 relativa ai pesi da 1 mg a 50 kg di precisione superiore alla precisione media."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-08-12;801
+codice_redazionale: 082U0801
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 agosto 1982 n. 801
-=============================================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 16 APRILE 2012, N. 46))
 
-Attuazione della direttiva (CEE) n. 74/148 relativa ai pesi da 1 mg a 50 kg di precisione superiore alla precisione media.
---------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 16 APRILE 2012, N. 46))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 APRILE 2012, N. 46](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-04-16;46)))
+## Art. 3.
 
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 APRILE 2012, N. 46](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-04-16;46)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 APRILE 2012, N. 46](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-04-16;46)))
-
-Allegato
-
- Allegato   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 APRILE 2012, N. 46](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-04-16;46)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 16 APRILE 2012, N. 46))

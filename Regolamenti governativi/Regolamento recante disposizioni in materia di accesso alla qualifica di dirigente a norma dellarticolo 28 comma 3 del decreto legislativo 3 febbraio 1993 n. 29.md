@@ -1,68 +1,57 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 settembre 2000 n. 324
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 324
+data: 2000-09-08
+titolo: "Regolamento recante disposizioni in materia di accesso alla qualifica di dirigente, a norma dell'articolo 28, comma 3, del decreto legislativo 3 febbraio 1993, n. 29."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2000-09-08;324
+codice_redazionale: 000G0378
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 settembre 2000 n. 324
-================================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 24 SETTEMBRE 2004, N. 272))
 
-Regolamento recante disposizioni in materia di accesso alla qualifica di dirigente, a norma dell'articolo 28, comma 3, del decreto legislativo 3 febbraio 1993, n. 29.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 24 SETTEMBRE 2004, N. 272))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 24 SETTEMBRE 2004, N. 272](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-09-24;272)))
+## Art. 3.
 
-Art. 2
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 24 SETTEMBRE 2004, N. 272))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 24 SETTEMBRE 2004, N. 272](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-09-24;272)))
+## Art. 4.
 
-Art. 3
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 24 SETTEMBRE 2004, N. 272))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 24 SETTEMBRE 2004, N. 272](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-09-24;272)))
+## Art. 5.
 
-Art. 4
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 24 SETTEMBRE 2004, N. 272))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 24 SETTEMBRE 2004, N. 272](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-09-24;272)))
+## Art. 6.
 
-Art. 5
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 24 SETTEMBRE 2004, N. 272))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 24 SETTEMBRE 2004, N. 272](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-09-24;272)))
+## Art. 7.
 
-Art. 6
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 24 SETTEMBRE 2004, N. 272))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 24 SETTEMBRE 2004, N. 272](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-09-24;272)))
+## Art. 8.
 
-Art. 7
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 24 SETTEMBRE 2004, N. 272))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 24 SETTEMBRE 2004, N. 272](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-09-24;272)))
+## Art. 9.
 
-Art. 8
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 24 SETTEMBRE 2004, N. 272))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 24 SETTEMBRE 2004, N. 272](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-09-24;272)))
+## Art. 10.
 
-Art. 9
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 24 SETTEMBRE 2004, N. 272))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 24 SETTEMBRE 2004, N. 272](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-09-24;272)))
+## Art. 11.
 
-Art. 10
--------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 24 SETTEMBRE 2004, N. 272))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 24 SETTEMBRE 2004, N. 272](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-09-24;272)))
+## Art. 12.
 
-Art. 11
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 24 SETTEMBRE 2004, N. 272](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-09-24;272)))
-
-Art. 12
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 24 SETTEMBRE 2004, N. 272](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-09-24;272)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 24 SETTEMBRE 2004, N. 272))

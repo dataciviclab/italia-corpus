@@ -1,33 +1,29 @@
-DECRETO LEGISLATIVO LUOGOTENENZIALE 18 giugno 1945 n. 392
+---
+tipo: DECRETO LEGISLATIVO LUOGOTENENZIALE
+numero: 392
+data: 1945-06-18
+titolo: "Modificazioni alla composizione del Consiglio di amministrazione dell'Amministrazione autonoma dei monopoli di Stato e adeguamento dei limiti di valore per contratti, forniture e servizi dell'Amministrazione stessa. (045U0392)"
+urn: urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-18;392
+codice_redazionale: 045U0392
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO LUOGOTENENZIALE 18 giugno 1945 n. 392
-=========================================================
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-Modificazioni alla composizione del Consiglio di amministrazione dell'Amministrazione autonoma dei monopoli di Stato e adeguamento dei limiti di valore per contratti, forniture e servizi dell'Amministrazione stessa. (045U0392)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+## Art. 3.
 
-Art. 2
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+## Art. 4.
 
-Art. 3
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+## Art. 5.
 
-Art. 4
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
-
-Art. 5
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

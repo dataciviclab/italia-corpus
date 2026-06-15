@@ -1,16 +1,14 @@
-LEGGE 07 maggio 1942 n. 553
+---
+tipo: LEGGE
+numero: 553
+data: 1942-05-07
+titolo: "Conversione in legge del R. decreto-legge 19 gennaio 1942-XX, n. 19, concernente maggiore assegnazione allo stato di previsione della spesa del Ministero dell'interno per l'esercizio finanziario 1941-42. (042U0553)"
+urn: urn:nir:stato:legge:1942-05-07;553
+codice_redazionale: 042U0553
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 07 maggio 1942 n. 553
-===========================
-
-Conversione in legge del R. decreto-legge 19 gennaio 1942-XX, n. 19, concernente maggiore assegnazione allo stato di previsione della spesa del Ministero dell'interno per l'esercizio finanziario 1941-42. (042U0553)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/06/1942
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),   
-CONVERTITO CON MODIFICAZIONI, DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200, 
+ CONVERTITO CON MODIFICAZIONI, DALLA L. 18 FEBBRAIO 2009, N. 9))

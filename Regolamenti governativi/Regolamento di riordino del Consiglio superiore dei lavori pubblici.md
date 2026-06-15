@@ -1,75 +1,61 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 aprile 2006 n. 204
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 204
+data: 2006-04-27
+titolo: "Regolamento di riordino del Consiglio superiore dei lavori pubblici."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2006-04-27;204
+codice_redazionale: 006G0221
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 aprile 2006 n. 204
-=============================================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 MARZO 2023, N. 36))
 
-Regolamento di riordino del Consiglio superiore dei lavori pubblici.
---------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 21/6/2006
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 MARZO 2023, N. 36))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 MARZO 2023, N. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 MARZO 2023, N. 36))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 MARZO 2023, N. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 MARZO 2023, N. 36))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 MARZO 2023, N. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 MARZO 2023, N. 36))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 MARZO 2023, N. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 MARZO 2023, N. 36))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 MARZO 2023, N. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 MARZO 2023, N. 36))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 MARZO 2023, N. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 MARZO 2023, N. 36))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 MARZO 2023, N. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 MARZO 2023, N. 36))
 
-Art. 8
-------
+## Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 MARZO 2023, N. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 MARZO 2023, N. 36))
 
-Art. 9
-------
+## Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 MARZO 2023, N. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 MARZO 2023, N. 36))
 
-Art. 10
--------
+## Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 MARZO 2023, N. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 MARZO 2023, N. 36))
 
-Art. 11
--------
+## Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 MARZO 2023, N. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36)))
-
-Art. 12
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 MARZO 2023, N. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36)))
-
-Art. 13
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 MARZO 2023, N. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 MARZO 2023, N. 36))

@@ -1,83 +1,85 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 luglio 1995 n. 389
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 389
+data: 1995-07-05
+titolo: "Regolamento recante norme per i lavori, le forniture ed i servizi eseguibili con procedure semplificate, riguardanti il Ministero delle poste e delle telecomunicazioni."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1995-07-05;389
+codice_redazionale: 095G0422
+vigente: true
+---
 
+## SPESE CONCERNENTI PUBBLICI SERVIZI, ONERI TRIBUTARI ED ESIGENZE PARTICOLARI
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 luglio 1995 n. 389
-=============================================================
+Capo I
 
-Regolamento recante norme per i lavori, le forniture ed i servizi eseguibili con procedure semplificate, riguardanti il Ministero delle poste e delle telecomunicazioni.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del decreto: 5/10/1995
+(( PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384 ))
 
-CAPO I Capo I SPESE CONCERNENTI PUBBLICI SERVIZI, ONERI TRIBUTARI ED ESIGENZE PARTICOLARI
------------------------------------------------------------------------------------------
+## PROCEDURE SEMPLIFICATE
 
-### Art. 1
+Capo II
 
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 AGOSTO 2001, N. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-08-20;384) ))
+### Art. 2.
 
-CAPO II Capo II PROCEDURE SEMPLIFICATE
---------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384))
 
-### Art. 2
+### Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 AGOSTO 2001, N. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-08-20;384)))
+(( PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384 ))
 
-### Art. 3
+### Art. 4.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 AGOSTO 2001, N. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-08-20;384) ))
+(( PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384 ))
 
-### Art. 4
+### Art. 5.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 AGOSTO 2001, N. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-08-20;384) ))
+(( PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384 ))
 
-### Art. 5
+### Art. 6.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 AGOSTO 2001, N. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-08-20;384) ))
+(( PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384 ))
 
-### Art. 6
+### Art. 7.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 AGOSTO 2001, N. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-08-20;384) ))
+(( PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384 ))
 
-### Art. 7
+### Art. 8.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 AGOSTO 2001, N. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-08-20;384) ))
+(( PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384 ))
 
-### Art. 8
+### Art. 9.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 AGOSTO 2001, N. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-08-20;384) ))
+(( PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384 ))
 
-### Art. 9
+### Art. 10.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 AGOSTO 2001, N. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-08-20;384) ))
+(( PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384 ))
 
-### Art. 10
+### Art. 11.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 AGOSTO 2001, N. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-08-20;384) ))
+(( PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384 ))
 
-### Art. 11
+### Art. 12.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 AGOSTO 2001, N. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-08-20;384) ))
+(( PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384 ))
 
-### Art. 12
+## DISPOSIZIONI COMUNI
 
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 AGOSTO 2001, N. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-08-20;384) ))
+Capo III
 
-CAPO III Capo III DISPOSIZIONI COMUNI
--------------------------------------
+### Art. 13.
 
-### Art. 13
+(( PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384 ))
 
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 AGOSTO 2001, N. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-08-20;384) ))
+### Art. 14.
 
-### Art. 14
+(( PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384 ))
 
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 AGOSTO 2001, N. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-08-20;384) ))
+### Art. 15.
 
-### Art. 15
+(( PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384 ))
 
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 AGOSTO 2001, N. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-08-20;384) ))
+### Art. 16.
 
-### Art. 16
-
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 AGOSTO 2001, N. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-08-20;384) ))
+(( PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384 ))

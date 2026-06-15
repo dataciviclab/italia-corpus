@@ -1,16 +1,14 @@
-LEGGE 05 febbraio 1934 n. 320
+---
+tipo: LEGGE
+numero: 320
+data: 1934-02-05
+titolo: "Conversione in legge, con modificazioni, del R. decreto-legge 5 ottobre 1933, n. 1414, contenente provvidenze varie a favore dell'industria cinematografica nazionale. (034U0320)"
+urn: urn:nir:stato:legge:1934-02-05;320
+codice_redazionale: 034U0320
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 05 febbraio 1934 n. 320
-=============================
-
-Conversione in legge, con modificazioni, del R. decreto-legge 5 ottobre 1933, n. 1414, contenente provvidenze varie a favore dell'industria cinematografica nazionale. (034U0320)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/03/1934
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

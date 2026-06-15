@@ -1,81 +1,61 @@
-DECRETO LEGISLATIVO 21 maggio 2004 n. 172
+---
+tipo: DECRETO LEGISLATIVO
+numero: 172
+data: 2004-05-21
+titolo: "Attuazione della direttiva n. 2001/95/CE relativa alla sicurezza generale dei prodotti."
+urn: urn:nir:stato:decreto.legislativo:2004-05-21;172
+codice_redazionale: 004G0202
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 21 maggio 2004 n. 172
-=========================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206))
 
-Attuazione della direttiva n. 2001/95/CE relativa alla sicurezza generale dei prodotti.
----------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 31-7-2004
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206))
 
-Art. 8
-------
+## Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206))
 
-Art. 9
-------
+## Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206))
 
-Art. 10
--------
+## Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206))
 
-Art. 11
--------
+## Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206)))
-
-Art. 12
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206)))
-
-Art. 13
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206)))
-
-Allegato I
-
- Allegato I   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206))

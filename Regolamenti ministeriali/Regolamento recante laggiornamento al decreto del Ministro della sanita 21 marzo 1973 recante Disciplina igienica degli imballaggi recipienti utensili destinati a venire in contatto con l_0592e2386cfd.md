@@ -1,233 +1,83 @@
-DECRETO 09 maggio 2019 n. 72
-
-
-DECRETO 09 maggio 2019 n. 72
-============================
-
-Regolamento recante l'aggiornamento al decreto del Ministro della sanita' 21 marzo 1973, recante: «Disciplina igienica degli imballaggi, recipienti, utensili, destinati a venire in contatto con le sostanze alimentari o con sostanze d'uso personale», limitatamente agli acciai inossidabili. (19G00079)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/08/2019
+---
+tipo: DECRETO
+numero: 72
+data: 2019-05-09
+titolo: "Regolamento recante l'aggiornamento al decreto del Ministro della sanita' 21 marzo 1973, recante: «Disciplina igienica degli imballaggi, recipienti, utensili, destinati a venire in contatto con le sostanze alimentari o con sostanze d'uso personale», limitatamente agli acciai inossidabili. (19G00079)"
+urn: urn:nir:ministero.salute:decreto:2019-05-09;72
+codice_redazionale: 19G00079
+vigente: true
+---
 
 IL MINISTRO DELLA SALUTE
-------------------------
 
-Vista la [legge 30 aprile 1962, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), concernente la disciplina igienica della produzione e della vendita delle sostanze alimentari e delle bevande;
+Vista la [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), concernente la disciplina igienica della produzione e della vendita delle sostanze alimentari e delle bevande;
 
-Visto l'[articolo 3 del decreto del Presidente della Repubblica 23 agosto 1982, n. 777](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-08-23;777~art3), recante «Attuazione della [direttiva (CEE) n. 76/893](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31976L0893) relativa ai materiali e agli oggetti destinati a venire a contatto con i prodotti alimentari» e successive modificazioni;
+Visto l'[articolo 3 del decreto del Presidente della Repubblica 23 agosto 1982, n. 777](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-893%20relativa%20ai%20materiali%20e%20agli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md), recante «Attuazione della [direttiva (CEE) n. 76/893](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1976;893) relativa ai materiali e agli oggetti destinati a venire a contatto con i prodotti alimentari» e successive modificazioni;
 
 Visto il decreto del Ministro della sanita' 21 marzo 1973, relativo alla disciplina igienica degli imballaggi, recipienti, utensili destinati a venire in contatto con le sostanze alimentari o con sostanze d'uso personale e, in particolare, gli articoli 36 e 37, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 20 aprile 1973, n. 104;
 
-Visto l'[articolo 17, commi 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3) e [4, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com4), recante disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri;
+Visto l'[articolo 17, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) e [4, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4), recante disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri;
 
-Visto il [regolamento (CE) n. 1935/2004 del Parlamento europeo e del Consiglio del 27 ottobre 2004](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32004R1935), riguardante i materiali e gli oggetti destinati a venire a contatto con i prodotti alimentari;
+Visto il regolamento (CE) n. 1935/2004 del Parlamento europeo e del Consiglio del 27 ottobre 2004, riguardante i materiali e gli oggetti destinati a venire a contatto con i prodotti alimentari;
 
-Visto il [decreto del Ministro della salute 6 agosto 2015, n. 195](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.salute:decreto:2015-08-06;195), concernente il regolamento recante aggiornamento limitatamente agli acciai inossidabili al decreto del Ministro della sanita' 21 marzo 1973, pubblicato nella Gazzetta Ufficiale 11 dicembre 2015, n. 288;
+Visto il [decreto del Ministro della salute 6 agosto 2015, n. 195](Regolamento%20recante%20aggiornamento%20limitatamente%20agli%20acciai%20inossidabili%20al%20decreto%20del%20Ministro%20della%20sanita%2021%20marzo%201973%20recante%20Disciplina%20igienica%20degli%20imballaggi%20recipienti%20utensil_a9786c178423.md), concernente il regolamento recante aggiornamento limitatamente agli acciai inossidabili al decreto del Ministro della sanita' 21 marzo 1973, pubblicato nella Gazzetta Ufficiale 11 dicembre 2015, n. 288;
 
 Visti i pareri espressi dall'Istituto superiore di sanita' in data 3, 4 novembre 2015 e 22 dicembre 2015;
 
 Acquisito il parere del Consiglio superiore di sanita', espresso nella seduta del 13 settembre 2016;
 
-Preso atto della comunicazione alla Commissione dell'Unione europea effettuata in data 19 settembre 2016, ai sensi della [direttiva n. 2015/1535/UE del Parlamento europeo e del Consiglio del 9 settembre 2015](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32015L1535);
+Preso atto della comunicazione alla Commissione dell'Unione europea effettuata in data 19 settembre 2016, ai sensi della [direttiva n. 2015/1535/UE del Parlamento europeo e del Consiglio del 9 settembre 2015](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2015;1535);
 
 Udito il parere del Consiglio di Stato espresso dalla Sezione consultiva per gli atti normativi, nell'adunanza del 26 luglio 2018;
 
-Vista la comunicazione alla Presidenza del Consiglio dei ministri, ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3), effettuata in data 18 settembre 2018 e 17 aprile 2019;
+Vista la comunicazione alla Presidenza del Consiglio dei ministri, ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), effettuata in data 18 settembre 2018 e 17 aprile 2019;
 
-Adotta
-------
+Adotta il seguente regolamento:
 
-il seguente regolamento:
+## Art. 1. — Inserimento di nuovi acciai
 
-Art. 1
-------
+1.
 
-Inserimento di nuovi acciai
+La «Sezione 6 Acciai inossidabili» dell'allegato II al decreto del Ministro della sanita' 21 marzo 1973 e' sostituita dall'allegato 1 al presente decreto.
 
-1. La «Sezione 6 Acciai inossidabili» dell'allegato II al decreto del Ministro della sanita' 21 marzo 1973 e' sostituita dall'allegato 1 al presente decreto.
+N O T E 
+ 
+ Avvertenza: 
+ 
+ - Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ - Per i provvedimenti comunitari vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale dell'Unione Europea (GUUE). 
+ 
+ Note alle premesse: 
+ 
+ - La [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283) (Modifica degli [artt. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_242), [243](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_243), [247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_247), [250](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_250) e [262 del T.U. delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_262) approvato con [R.D. 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265): Disciplina igienica della produzione e della vendita delle sostanze alimentari e delle bevande) estata pubblicata nella Gazzetta Ufficiale n. 139 del 4 giugno 1962. 
+ - Il testo dell'[art. 3 del decreto del Presidente della Repubblica 23 agosto 1982, n. 777](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-893%20relativa%20ai%20materiali%20e%20agli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md) (Attuazione della [direttiva CEE n. 76/893](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1976;893) relativa ai materiali ed agli oggetti destinati a venire a contatto con i prodotti alimentari), cosi' come modificato dall'[art. 3 del decreto legislativo 25 gennaio 1992, n. 108](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-109-CEE%20concernente%20i%20materiali%20e%20gli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md) (Attuazione della [direttiva 89/109/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;109) concernente i materiali e gli oggetti destinati a venire a contatto con i prodotti alimentari), e' il seguente : 
+ «Art. 3. - 1. Con decreti del Ministro della sanita', sentito il Consiglio superiore di sanita', sono indicati per i materiali e gli oggetti, destinati a venire a contatto con le sostanze alimentari, di cui all'allegato I, da soli o in combinazione tra loro, i componenti consentiti nella loro produzione, e, ove occorrano, i requisiti di purezza e le prove di cessione alle quali i materiali e gli oggetti debbono essere sottoposti per determinare l'idoneita' all'uso cui sono destinati nonche' le limitazioni, le tolleranze e le condizioni di impiego sia per i limiti di contaminazione degli alimenti che per gli eventuali pericoli risultanti dal contatto orale. 
+ 2. Per i materiali e gli oggetti di materia plastica, di gomma, di cellulosa rigenerata, di carta, di cartone, di vetro, di acciaio inossidabile, di banda stagnata, di ceramica e di banda cromata valgono le disposizioni contenute nei decreti ministeriali 21 marzo 1973, 3 agosto 1974, 13 settembre 1975, 18 giugno 1979, 2 dicembre 1980, 25 giugno 1981, 18 febbraio 1984, 4 aprile 1985 e [1° giugno 1988, n. 243](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1988-06-01;243). 
+ 3. Il Ministro della sanita', sentito il Consiglio superiore di sanita', procede all'aggiornamento e alle modifiche da apportare ai decreti di cui ai commi 1 e 2. 
+ 4. Chiunque impieghi nella produzione materiali o oggetti destinati, da soli o in combinazione tra loro, a venire a contatto con le sostanze alimentari, in difformita' da quanto stabilito nei decreti di cui ai commi 1 e 2, e' punito per cio' solo con l'arresto sino a tre mesi o con l'ammenda da lire cinquemilioni a lire quindicimilioni». 
+ - Il testo dell'[art.17, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) e [4, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) e' il seguente: 
+ «3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.
+ I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. 
+ 4. I regolamenti di cui al comma 1 ed i regolamenti ministeriali ed interministeriali, che devono recare la denominazione di "regolamento", sono adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale». 
+ Il regolamento CE n.1935/2004 del Parlamento europeo e del Consiglio del 27 ottobre 2004 riguardante i materiali e gli oggetti destinati a venire a contatto con i prodotti alimentari e che abroga le [direttive 80/590/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1980;590) e [89/109/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;109) e' stato pubblicato nella GUUE serie [L n. 338 del 13 novembre 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-11-13;338). 
+ 
+ Note all'art. 1: 
+ - La sezione 6 dell'allegato II del decreto del Ministro della sanita' 21 marzo 1973, come sostituita dal decreto qui pubblicato, riporta l'«Elenco degli acciai inossidabili che possono essere impiegati in contatto con gli alimenti».
 
-N O T E   
-  
-Avvertenza:   
-  
-- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.   
-- Per i provvedimenti comunitari vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale dell'Unione Europea (GUUE).   
-  
-Note alle premesse:   
-  
-- La [legge 30 aprile 1962, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283) (Modifica degli [artt. 242](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265~art242), [243](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265~art243), [247](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265~art247), [250](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265~art250) e [262 del T.U. delle leggi sanitarie](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265~art262) approvato con [R.D. 27 luglio 1934, n. 1265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265): Disciplina igienica della produzione e della vendita delle sostanze alimentari e delle bevande) estata [pubblicata nella Gazzetta Ufficiale n. 139 del 4 giugno 1962](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1962-06-04&numeroGazzetta=139).   
-- Il testo dell'[art. 3 del decreto del Presidente della Repubblica 23 agosto 1982, n. 777](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-08-23;777~art3) (Attuazione della [direttiva CEE n. 76/893](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31976L0893) relativa ai materiali ed agli oggetti destinati a venire a contatto con i prodotti alimentari), cosi' come modificato dall'[art. 3 del decreto legislativo 25 gennaio 1992, n. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-25;108~art3) (Attuazione della [direttiva 89/109/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31989L0109) concernente i materiali e gli oggetti destinati a venire a contatto con i prodotti alimentari), e' il seguente :   
-«Art. 3. - 1. Con decreti del Ministro della sanita', sentito il Consiglio superiore di sanita', sono indicati per i materiali e gli oggetti, destinati a venire a contatto con le sostanze alimentari, di cui all'allegato I, da soli o in combinazione tra loro, i componenti consentiti nella loro produzione, e, ove occorrano, i requisiti di purezza e le prove di cessione alle quali i materiali e gli oggetti debbono essere sottoposti per determinare l'idoneita' all'uso cui sono destinati nonche' le limitazioni, le tolleranze e le condizioni di impiego sia per i limiti di contaminazione degli alimenti che per gli eventuali pericoli risultanti dal contatto orale.   
-2. Per i materiali e gli oggetti di materia plastica, di gomma, di cellulosa rigenerata, di carta, di cartone, di vetro, di acciaio inossidabile, di banda stagnata, di ceramica e di banda cromata valgono le disposizioni contenute nei decreti ministeriali 21 marzo 1973, 3 agosto 1974, 13 settembre 1975, 18 giugno 1979, 2 dicembre 1980, 25 giugno 1981, 18 febbraio 1984, 4 aprile 1985 e [1° giugno 1988, n. 243](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1988-06-01;243).   
-3. Il Ministro della sanita', sentito il Consiglio superiore di sanita', procede all'aggiornamento e alle modifiche da apportare ai decreti di cui ai commi 1 e 2.   
-4. Chiunque impieghi nella produzione materiali o oggetti destinati, da soli o in combinazione tra loro, a venire a contatto con le sostanze alimentari, in difformita' da quanto stabilito nei decreti di cui ai commi 1 e 2, e' punito per cio' solo con l'arresto sino a tre mesi o con l'ammenda da lire cinquemilioni a lire quindicimilioni».   
-- Il testo dell'[art.17, commi 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3) e [4, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com4) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) e' il seguente:   
-«3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.  
-I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.   
-4. I regolamenti di cui al comma 1 ed i regolamenti ministeriali ed interministeriali, che devono recare la denominazione di "regolamento", sono adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale».   
-Il [regolamento CE n.1935/2004 del Parlamento europeo e del Consiglio del 27 ottobre 2004](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32004R1935) riguardante i materiali e gli oggetti destinati a venire a contatto con i prodotti alimentari e che abroga le [direttive 80/590/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31980L0590) e [89/109/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31989L0109) e' stato pubblicato nella GUUE serie [L n. 338 del 13 novembre 2004](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-11-13;338).   
-  
-Note all'art. 1:   
-- La sezione 6 dell'allegato II del decreto del Ministro della sanita' 21 marzo 1973, come sostituita dal decreto qui pubblicato, riporta l'«Elenco degli acciai inossidabili che possono essere impiegati in contatto con gli alimenti».
+## Art. 2. — Clausola di mutuo riconoscimento
 
-Art. 2
-------
+1.
 
-Clausola di mutuo riconoscimento
+All'articolo 36 del decreto del Ministro della sanita' 21 marzo 1973, dopo il comma 1, e' aggiunto il seguente: 
+ «1-bis. Le disposizioni di cui al presente capo non si applicano agli oggetti di acciaio inossidabile legalmente fabbricati e commercializzati, fabbricati o commercializzati in uno Stato membro dell'Unione europea o in Turchia ovvero legalmente fabbricati in uno degli Stati firmatari dell'Associazione europea di libero scambio (EFTA), parte contraente dell'Accordo sullo spazio economico europeo (SEE), purche' garantiscano un livello equivalente di protezione della salute».
 
-1. All'articolo 36 del decreto del Ministro della sanita' 21 marzo 1973, dopo il comma 1, e' aggiunto il seguente:   
-«1-bis. Le disposizioni di cui al presente capo non si applicano agli oggetti di acciaio inossidabile legalmente fabbricati e commercializzati, fabbricati o commercializzati in uno Stato membro dell'Unione europea o in Turchia ovvero legalmente fabbricati in uno degli Stati firmatari dell'Associazione europea di libero scambio (EFTA), parte contraente dell'Accordo sullo spazio economico europeo (SEE), purche' garantiscano un livello equivalente di protezione della salute».
+Note all'art. 2: 
+ Il testo dell'articolo 36 del decreto del Ministro della sanita' 21 marzo 1973, come modificato dal decreto qui pubblicato, e' il seguente: 
+ «Art. 36. - 1. Gli oggetti di acciaio inossidabile destinati al contatto con alimenti e disciplinati dal presente decreto possono essere preparati esclusivamente con i tipi di acciai inossidabili indicati nella sezione 6 dell'Allegato II del presente decreto, nelle condizioni, limitazioni e tolleranze di impiego previste in detto allegato e nell'articolo seguente. 
+ 1-bis. Le disposizioni di cui al presente capo non si applicano agli oggetti di acciaio inossidabile legalmente fabbricati e commercializzati, fabbricati o commercializzati in uno Stato membro dell'Unione europea o in Turchia ovvero legalmente fabbricati in uno degli Stati firmatari dell'Associazione europea di libero scambio (EFTA), parte contraente dell'Accordo sullo spazio economico europeo (SEE), purche' garantiscano un livello equivalente di protezione della salute.».
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 9 maggio 2019
+Roma, 9 maggio 2019
 
-Il Ministro: Grillo
-
-Visto, il Guardasigilli: Bonafede Registrato alla Corte dei conti il 3 luglio 2019
-
-Ufficio controllo atti MIUR, MIBAC, Min. salute e Min. lavoro e
-
-politiche sociali, reg.ne prev. n. 17
-
-Note all'art. 2:   
-Il testo dell'articolo 36 del decreto del Ministro della sanita' 21 marzo 1973, come modificato dal decreto qui pubblicato, e' il seguente:   
-«Art. 36. - 1. Gli oggetti di acciaio inossidabile destinati al contatto con alimenti e disciplinati dal presente decreto possono essere preparati esclusivamente con i tipi di acciai inossidabili indicati nella sezione 6 dell'Allegato II del presente decreto, nelle condizioni, limitazioni e tolleranze di impiego previste in detto allegato e nell'articolo seguente.   
-1-bis. Le disposizioni di cui al presente capo non si applicano agli oggetti di acciaio inossidabile legalmente fabbricati e commercializzati, fabbricati o commercializzati in uno Stato membro dell'Unione europea o in Turchia ovvero legalmente fabbricati in uno degli Stati firmatari dell'Associazione europea di libero scambio (EFTA), parte contraente dell'Accordo sullo spazio economico europeo (SEE), purche' garantiscano un livello equivalente di protezione della salute.».
-
-Allegato 1
-
-((Allegato 1   
-  
-(articolo 1, comma 1)   
-"Sezione 6 Acciai inossidabili"   
-  
-Elenco degli acciai inossidabili che possono essere impiegati in contatto con gli alimenti.   
-  
-  
-Parte A   
-Ciascun tipo di acciaio viene indicato con la sigla che ne caratterizza la composizione chimica secondo la norma UNI EN 10088-1:2014 e/o la classificazione della American Iron and Steel Institute (manuale AISI Agosto 1985) e/o le specifiche tecniche della American Society for Testing and Materials (ASTM) e/o le designazioni dell'Unified Numbering System (UNS).   
-  
-  
-=================================================================  
-| UNI EN 10088-1 | | | |  
-+==============+====================+ | | |  
-| Designazione | Designazione | AISI/ASTM | UNS | NOTE |  
-| numerica | alfanumerica | | | |  
-+==============+====================+=============================+  
-| 1.4373 | X12CrMnNiN 18-9-5 | AISI | 202 |S20200| |  
-+--------------+--------------------+---------+-----+------+------+  
-| 1.4310 | X10CrNi 18-8 | AISI | 301 |S30100| |  
-+--------------+--------------------+---------+-----+------+------+  
-| 1.4325 | X9CrNi 18-9 | AISI | 302 |S30200| |  
-+--------------+--------------------+---------+-----+------+------+  
-| 1.4305 | X8CrNiS 18-9 | AISI | 303 |S30300| |  
-+--------------+--------------------+---------+-----+------+------+  
-| ---- | ---- | AISI |303Se|S30323| |  
-+--------------+--------------------+---------+-----+------+------+  
-| 1.4301 | X5CrNi 18-10 | AISI | 304 |S30400| |  
-+--------------+--------------------+---------+-----+------+------+  
-| 1.4306 | X2CrNi 19-11 | | | | |  
-+--------------+--------------------+ AISI |304L |S30403| |  
-| 1.4307 | X2CrNi 18-9 | | | | |  
-+--------------+--------------------+---------+-----+------+------+  
-| 1.4303 | X4CrNi 18-12 | AISI | 305 |S30500| |  
-+--------------+--------------------+---------+-----+------+------+  
-| ---- | ---- | AISI | 308 |S30800| |  
-+--------------+--------------------+---------+-----+------+------+  
-| 1.4401 | X5CrNiMo 17-12-2 | | | | |  
-+--------------+--------------------+ AISI | 316 |S31600| |  
-| 1.4436 | X3CrNiMo 17-13-3 | | | | |  
-+--------------+--------------------+---------+-----+------+------+  
-| 1.4404 | X2CrNiMo 17-12-2 | | | | |  
-+--------------+--------------------+ AISI |316L |S31603| |  
-| 1.4432 | X2CrNiMo 17-12-3 | | | | |  
-+--------------+--------------------+---------+-----+------+------+  
-| | | AISI |316N |S31651| |  
-+--------------+--------------------+---------+-----+------+------+  
-| | | |Type | | |  
-| 1.4571 | X6CrNiMoTi 17-12-2 | ASTM |316Ti|S31635| |  
-+--------------+--------------------+---------+-----+------+------+  
-| 1.4541 | X6CrNiTi 18-10 | AISI | 321 |S32100| |  
-+--------------+--------------------+---------+-----+------+------+  
-| 1.4460 | X3CrNiMoN 27-5-2 | AISI | 329 |S32900| |  
-+--------------+--------------------+---------+-----+------+------+  
-| 1.4550 | X6CrNiNb 18-10 | AISI | 347 |S34700| |  
-+--------------+--------------------+---------+-----+------+------+  
-| 1.4006 | X12Cr 13 | AISI | 410 |S41000| |  
-+--------------+--------------------+---------+-----+------+------+  
-| ---- | ---- | AISI | 414 |S41400| |  
-+--------------+--------------------+---------+-----+------+------+  
-| 1.4005 | X12CrS 13 | AISI | 416 |S41600| |  
-+--------------+--------------------+---------+-----+------+------+  
-| 1.4021 | X20Cr 13 | | | | |  
-+--------------+--------------------+ | | | |  
-| 1.4028 | X30Cr 13 | AISI | 420 |S42000| |  
-+--------------+--------------------+ | | | |  
-| 1.4031 | X39Cr 13 | | | | |  
-+--------------+--------------------+---------+-----+------+------+  
-| 1.4016 | X6Cr 17 | AISI | 430 |S43000| |  
-+--------------+--------------------+---------+-----+------+------+  
-| 1.4105 | X6CrMoS 17 | AISI |430F |S43020| |  
-+--------------+--------------------+---------+-----+------+------+  
-| 1.4057 | X17CrNi 16-2 | AISI | 431 |S43100| |  
-+--------------+--------------------+---------+-----+------+------+  
-| 1.4125 | X105CrMo 17 | AISI |440C |S44004| (\*) |  
-+--------------+--------------------+---------+-----+------+------+  
-| | | |Type | | |  
-| 1.4542 | X5CrNiCuNb 16-4 | ASTM | 630 |S17400| |  
-+--------------+--------------------+---------+-----+------+------+  
-| 1.4462 | X2CrNiMoN 22-5-3 | ---- |---- |S31803| (\*\*) |  
-+--------------+--------------------+---------+-----+------+------+  
-| 1.4590 | X2CrNbZr 17 | ---- |---- |----- | (\*\*) |  
-+--------------+--------------------+---------+-----+------+------+  
-| 1.4362 | X2CrNiN 23-4 | ---- |---- |S32304| |  
-+--------------+--------------------+---------+-----+------+------+  
-| | | ---- |---- |S32101| |  
-+--------------+--------------------+---------+-----+------+------+  
-| 1.4510 | X3CrTi 17 | ---- |---- |----- | |  
-+--------------+--------------------+---------+-----+------+------+  
-| | | | |S43940| |  
-| 1.4509 | X2CrTiNb 18 | ---- |---- | | |  
-| | | | |S43932| |  
-+--------------+--------------------+---------+-----+------+------+  
-| 1.4521 | X2CrMoTi 18-2 | AISI | 444 |S44400| |  
-+--------------+--------------------+---------+-----+------+------+  
-| | | ASTM | |S44500| |  
-+--------------+--------------------+---------+-----+------+------+  
-| | | | |S82441| |  
-+--------------+--------------------+---------+-----+------+------+  
-| | | AISI |440A |S44002|(\*\*\*) |  
-+--------------+--------------------+---------+-----+------+------+  
-| | | |Type | | |  
-| 1.4876 | X10NiCrAlTi 32-21 | ASTM | 800 |N08800|(\*\*\*\*)|  
-+--------------+--------------------+---------+-----+------+------+  
-| | | |Type | | |  
-| 1.4526 | X6CrMoNb17-1 | ASTM | 436 |S43600| |  
-+--------------+--------------------+---------+-----+------+------+  
-| 1.4598 | | --- | --- | --- | (#) |  
-+--------------+--------------------+---------+-----+------+------+  
-| 1.4611 | X2CrTi 21 | --- | --- | --- | |  
-+--------------+--------------------+---------+-----+------+------+  
-| 1.4613 | X2CrTi 24 | --- | --- | --- | |  
-+--------------+--------------------+---------+-----+------+------+  
-| 1.4618 |X9CrMnNiCu 17-8-5-2 | --- | --- | --- | |  
-+--------------+--------------------+---------+-----+------+------+  
-| 1.4547 | X1CrNiMoCuN20-18-7 | | |S31254| |  
-+--------------+--------------------+---------+-----+------+------+  
-| --- | --- | --- | --- |S82031| |  
-+--------------+--------------------+---------+-----+------+------+  
-| --- | --- | --- | --- |S82012| |  
-+--------------+--------------------+---------+-----+------+------+  
-| --- | --- | --- | --- |S31655| |  
-+--------------+--------------------+---------+-----+------+------+  
-  
-  
-(\* ) Per materiali destinati a contatto momentaneo a temperatura ambiente per alimenti per i quali sono previste prove di migrazione con simulanti A e D.L'idoneita' al contatto alimentare deve essere accertata mediante prove in acqua distillata e in olio d'oliva a 40°C per 30 minuti; tre attacchi successivi con determinazione della migrazione globale e specifica di cromo, nichel e manganese sul liquido di cessione proveniente dal terzo attacco.   
-(\*\*) A condizione che gli oggetti fabbricati con l'acciaio in questione siano destinati esclusivamente:   
-ad uso ripetuto di breve durata a caldo o a temperatura ambiente;   
-ad uso prolungato a temperatura ambiente limitatamente agli alimenti per i quali sono previste prove di migrazione con il simulante D. In tal caso l'idoneita' al contatto alimentare deve essere accertata mediante prove in olio di oliva a 40°C per 10 giorni.   
-(\*\*\*) A condizione che gli oggetti fabbricati con l'acciaio in questione siano destinati esclusivamente per la manifattura di coltelleria ed oggetti da taglio. L'idoneita' al contatto alimentare deve essere accertata mediante prova in acqua distillata a 100°C per 3 giorni.   
-(\*\*\*\*) A condizione che gli oggetti fabbricati con l'acciaio in questione siano destinati esclusivamente per la manifattura di resistenze corazzate per diverse tipologie di distributori automatici di bevande. L'idoneita' al contatto alimentare deve essere accertata mediante prova in acqua distillata a 100°C per 3 giorni.   
-(#) A condizione che gli oggetti fabbricati con l'acciaio in questione siano destinati esclusivamente alla realizzazione di parti di componenti di valvole a contatto con acqua.))
+Il Ministro: Grillo Visto, il Guardasigilli: Bonafede Registrato alla Corte dei conti il 3 luglio 2019 Ufficio controllo atti MIUR, MIBAC, Min. salute e Min. lavoro e politiche sociali, reg.ne prev. n. 17

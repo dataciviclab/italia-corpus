@@ -1,162 +1,104 @@
-DECRETO-LEGGE 28 febbraio 1994 n. 138
+---
+tipo: DECRETO-LEGGE
+numero: 138
+data: 1994-02-28
+titolo: "Disposizioni tributarie urgenti."
+urn: urn:nir:stato:decreto.legge:1994-02-28;138
+codice_redazionale: 094G0169
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 28 febbraio 1994 n. 138
-=====================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 27 GIUGNO 1994, N. 413](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20aprile%201994%20n.%20260%20recante%20disposizioni%20tributarie%20urgenti.md)
 
-Disposizioni tributarie urgenti.
---------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 01-03-1994.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 27 GIUGNO 1994, N. 413](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20aprile%201994%20n.%20260%20recante%20disposizioni%20tributarie%20urgenti.md)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 27 GIUGNO 1994, N. 413](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-06-27;413)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 27 GIUGNO 1994, N. 413](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20aprile%201994%20n.%20260%20recante%20disposizioni%20tributarie%20urgenti.md)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 27 GIUGNO 1994, N. 413](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-06-27;413)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 27 GIUGNO 1994, N. 413](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20aprile%201994%20n.%20260%20recante%20disposizioni%20tributarie%20urgenti.md)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 27 GIUGNO 1994, N. 413](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-06-27;413)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 27 GIUGNO 1994, N. 413](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20aprile%201994%20n.%20260%20recante%20disposizioni%20tributarie%20urgenti.md)
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 27 GIUGNO 1994, N. 413](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-06-27;413)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 27 GIUGNO 1994, N. 413](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20aprile%201994%20n.%20260%20recante%20disposizioni%20tributarie%20urgenti.md)
 
-Art. 5
-------
+## Art. 7.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 27 GIUGNO 1994, N. 413](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-06-27;413)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 27 GIUGNO 1994, N. 413](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20aprile%201994%20n.%20260%20recante%20disposizioni%20tributarie%20urgenti.md)
 
-Art. 6
-------
+## Art. 8.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 27 GIUGNO 1994, N. 413](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-06-27;413)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 27 GIUGNO 1994, N. 413](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20aprile%201994%20n.%20260%20recante%20disposizioni%20tributarie%20urgenti.md)
 
-Art. 7
-------
+## Art. 9.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 27 GIUGNO 1994, N. 413](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-06-27;413)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 27 GIUGNO 1994, N. 413](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20aprile%201994%20n.%20260%20recante%20disposizioni%20tributarie%20urgenti.md)
 
-Art. 8
-------
+## Art. 10.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 27 GIUGNO 1994, N. 413](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-06-27;413)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 27 GIUGNO 1994, N. 413](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20aprile%201994%20n.%20260%20recante%20disposizioni%20tributarie%20urgenti.md)
 
-Art. 9
-------
+## Art. 11.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 27 GIUGNO 1994, N. 413](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-06-27;413)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 27 GIUGNO 1994, N. 413](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20aprile%201994%20n.%20260%20recante%20disposizioni%20tributarie%20urgenti.md)
 
-Art. 10
--------
+## Art. 12.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 27 GIUGNO 1994, N. 413](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-06-27;413)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 27 GIUGNO 1994, N. 413](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20aprile%201994%20n.%20260%20recante%20disposizioni%20tributarie%20urgenti.md)
 
-Art. 11
--------
+## Art. 13.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 27 GIUGNO 1994, N. 413](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-06-27;413)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 27 GIUGNO 1994, N. 413](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20aprile%201994%20n.%20260%20recante%20disposizioni%20tributarie%20urgenti.md)
 
-Art. 12
--------
+## Art. 14.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 27 GIUGNO 1994, N. 413](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-06-27;413)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 27 GIUGNO 1994, N. 413](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20aprile%201994%20n.%20260%20recante%20disposizioni%20tributarie%20urgenti.md)
 
-Art. 13
--------
+## Art. 15.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 27 GIUGNO 1994, N. 413](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-06-27;413)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 27 GIUGNO 1994, N. 413](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20aprile%201994%20n.%20260%20recante%20disposizioni%20tributarie%20urgenti.md)
 
-Art. 14
--------
+## Art. 16.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 27 GIUGNO 1994, N. 413](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-06-27;413)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 27 GIUGNO 1994, N. 413](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20aprile%201994%20n.%20260%20recante%20disposizioni%20tributarie%20urgenti.md)
 
-Art. 15
--------
+## Art. 17.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 27 GIUGNO 1994, N. 413](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-06-27;413)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 27 GIUGNO 1994, N. 413](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20aprile%201994%20n.%20260%20recante%20disposizioni%20tributarie%20urgenti.md)
 
-Art. 16
--------
+## Art. 18.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 27 GIUGNO 1994, N. 413](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-06-27;413)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 27 GIUGNO 1994, N. 413](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20aprile%201994%20n.%20260%20recante%20disposizioni%20tributarie%20urgenti.md)
 
-Art. 17
--------
+## Art. 19.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 27 GIUGNO 1994, N. 413](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-06-27;413)
-  
-
-Art. 18
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 27 GIUGNO 1994, N. 413](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-06-27;413)
-  
-
-Art. 19
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 27 GIUGNO 1994, N. 413](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-06-27;413)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 27 GIUGNO 1994, N. 413](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20aprile%201994%20n.%20260%20recante%20disposizioni%20tributarie%20urgenti.md)

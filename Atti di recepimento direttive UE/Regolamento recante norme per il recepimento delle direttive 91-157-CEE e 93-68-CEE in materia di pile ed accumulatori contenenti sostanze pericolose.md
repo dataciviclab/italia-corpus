@@ -1,62 +1,41 @@
-DECRETO 20 novembre 1997 n. 476
+---
+tipo: DECRETO
+numero: 476
+data: 1997-11-20
+titolo: "Regolamento recante norme per il recepimento delle direttive 91/157/CEE e 93/68/CEE in materia di pile ed accumulatori contenenti sostanze pericolose."
+urn: urn:nir:ministero.industria.commercio.e.artigianato:decreto:1997-11-20;476
+codice_redazionale: 098G0002
+vigente: true
+---
 
-
-DECRETO 20 novembre 1997 n. 476
-===============================
-
-Regolamento recante norme per il recepimento delle direttive 91/157/CEE e 93/68/CEE in materia di pile ed accumulatori contenenti sostanze pericolose.
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 28-1-1998
-
-Art. 1
-------
+## Art. 1.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 3 LUGLIO 2003, N. 194))
 
-Art. 2
-------
+## Art. 2.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 3 LUGLIO 2003, N. 194))
 
-Art. 3
-------
+## Art. 3.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 3 LUGLIO 2003, N. 194))
 
-Art. 4
-------
+## Art. 4.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 3 LUGLIO 2003, N. 194))
 
-Art. 5
-------
+## Art. 5.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 3 LUGLIO 2003, N. 194))
 
-Art. 6
-------
+## Art. 6.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 3 LUGLIO 2003, N. 194))
 
-Art. 7
-------
+## Art. 7.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 3 LUGLIO 2003, N. 194))
 
-Art. 8
-------
-
-((PROVVEDIMENTO ABROGATO DAL DECRETO 3 LUGLIO 2003, N. 194))
-
-Allegato I
-
- Allegato I   
-
-((PROVVEDIMENTO ABROGATO DAL DECRETO 3 LUGLIO 2003, N. 194))
-
-Allegato II
-
- Allegato II   
+## Art. 8.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 3 LUGLIO 2003, N. 194))

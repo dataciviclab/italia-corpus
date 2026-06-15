@@ -1,126 +1,73 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1996 n. 363
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 363
+data: 1996-05-17
+titolo: "Regolamento recante norme per l'attuazione della direttiva 91/685/CEE, del Consiglio dell'11 dicembre 1991, recante modifica della direttiva 80/217/CEE che stabilisce misure comunitarie di lotta contro la peste suina classica."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1996-05-17;363
+codice_redazionale: 096G0372
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1996 n. 363
-=============================================================
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 20 FEBBRAIO 2004, N. 55 ))
 
-Regolamento recante norme per l'attuazione della direttiva 91/685/CEE, del Consiglio dell'11 dicembre 1991, recante modifica della direttiva 80/217/CEE che stabilisce misure comunitarie di lotta contro la peste suina classica.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 25/7/1996
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 20 FEBBRAIO 2004, N. 55 ))
 
-Art. 1
-------
+## Art. 3.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 FEBBRAIO 2004, N. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-02-20;55) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 20 FEBBRAIO 2004, N. 55 ))
 
-Art. 2
-------
+## Art. 4.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 FEBBRAIO 2004, N. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-02-20;55) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 20 FEBBRAIO 2004, N. 55 ))
 
-Art. 3
-------
+## Art. 5.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 FEBBRAIO 2004, N. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-02-20;55) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 20 FEBBRAIO 2004, N. 55 ))
 
-Art. 4
-------
+## Art. 6.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 FEBBRAIO 2004, N. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-02-20;55) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 20 FEBBRAIO 2004, N. 55 ))
 
-Art. 5
-------
+## Art. 7.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 FEBBRAIO 2004, N. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-02-20;55) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 20 FEBBRAIO 2004, N. 55 ))
 
-Art. 6
-------
+## Art. 8.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 FEBBRAIO 2004, N. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-02-20;55) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 20 FEBBRAIO 2004, N. 55 ))
 
-Art. 7
-------
+## Art. 9.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 FEBBRAIO 2004, N. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-02-20;55) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 20 FEBBRAIO 2004, N. 55 ))
 
-Art. 8
-------
+## Art. 10.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 FEBBRAIO 2004, N. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-02-20;55) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 20 FEBBRAIO 2004, N. 55 ))
 
-Art. 9
-------
+## Art. 11.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 FEBBRAIO 2004, N. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-02-20;55) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 20 FEBBRAIO 2004, N. 55 ))
 
-Art. 10
--------
+## Art. 12.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 FEBBRAIO 2004, N. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-02-20;55) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 20 FEBBRAIO 2004, N. 55 ))
 
-Art. 11
--------
+## Art. 13.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 FEBBRAIO 2004, N. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-02-20;55) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 20 FEBBRAIO 2004, N. 55 ))
 
-Art. 12
--------
+## Art. 14.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 FEBBRAIO 2004, N. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-02-20;55) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 20 FEBBRAIO 2004, N. 55 ))
 
-Art. 13
--------
+## Art. 15.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 FEBBRAIO 2004, N. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-02-20;55) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 20 FEBBRAIO 2004, N. 55 ))
 
-Art. 14
--------
+## Art. 16.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 FEBBRAIO 2004, N. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-02-20;55) ))
-
-Art. 15
--------
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 FEBBRAIO 2004, N. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-02-20;55) ))
-
-Art. 16
--------
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 FEBBRAIO 2004, N. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-02-20;55) ))
-
-Allegato 1
-
- ALLEGATO 1   
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 FEBBRAIO 2004, N. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-02-20;55) ))
-
-Allegato II
-
- ALLEGATO II   
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 FEBBRAIO 2004, N. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-02-20;55) ))
-
-Allegato III
-
- ALLEGATO III   
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 FEBBRAIO 2004, N. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-02-20;55) ))
-
-Allegato IV
-
- ALLEGATO IV   
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 FEBBRAIO 2004, N. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-02-20;55) ))
-
-Allegato V
-
- ALLEGATO V   
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 FEBBRAIO 2004, N. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-02-20;55) ))
-
-Allegato VI
-
- ALLEGATO VI   
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 20 FEBBRAIO 2004, N. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-02-20;55) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 20 FEBBRAIO 2004, N. 55 ))

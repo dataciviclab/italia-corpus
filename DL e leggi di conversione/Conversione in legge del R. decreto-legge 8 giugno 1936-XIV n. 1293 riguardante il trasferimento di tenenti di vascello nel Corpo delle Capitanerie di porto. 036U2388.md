@@ -1,16 +1,14 @@
-LEGGE 28 dicembre 1936 n. 2388
+---
+tipo: LEGGE
+numero: 2388
+data: 1936-12-28
+titolo: "Conversione in legge del R. decreto-legge 8 giugno 1936-XIV, n. 1293, riguardante il trasferimento di tenenti di vascello nel Corpo delle Capitanerie di porto. (036U2388)"
+urn: urn:nir:stato:legge:1936-12-28;2388
+codice_redazionale: 036U2388
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 28 dicembre 1936 n. 2388
-==============================
-
-Conversione in legge del R. decreto-legge 8 giugno 1936-XIV, n. 1293, riguardante il trasferimento di tenenti di vascello nel Corpo delle Capitanerie di porto. (036U2388)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/02/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

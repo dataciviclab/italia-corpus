@@ -1,52 +1,39 @@
-DECRETO-LEGGE 31 dicembre 1986 n. 924
+---
+tipo: DECRETO-LEGGE
+numero: 924
+data: 1986-12-31
+titolo: "Disposizioni urgenti in materia di smaltimento dei rifiuti."
+urn: urn:nir:stato:decreto.legge:1986-12-31;924
+codice_redazionale: 086U0924
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 31 dicembre 1986 n. 924
-=====================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 29 OTTOBRE 1987, N. 441](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20agosto%201987%20n.%20361%20recante%20disposizioni%20urgenti%20in%20materia%20di%20smaltimento%20dei%20rifiuti.md)
 
-Disposizioni urgenti in materia di smaltimento dei rifiuti.
------------------------------------------------------------
+## Art. 2.
 
-Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 29 OTTOBRE 1987, N. 441](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20agosto%201987%20n.%20361%20recante%20disposizioni%20urgenti%20in%20materia%20di%20smaltimento%20dei%20rifiuti.md)
 
-Art. 1
-------
+## Art. 3.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 29 OTTOBRE 1987, N. 441](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;441)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 29 OTTOBRE 1987, N. 441](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20agosto%201987%20n.%20361%20recante%20disposizioni%20urgenti%20in%20materia%20di%20smaltimento%20dei%20rifiuti.md)
 
-Art. 2
-------
+## Art. 4.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 29 OTTOBRE 1987, N. 441](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;441)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 29 OTTOBRE 1987, N. 441](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20agosto%201987%20n.%20361%20recante%20disposizioni%20urgenti%20in%20materia%20di%20smaltimento%20dei%20rifiuti.md)
 
-Art. 3
-------
+## Art. 5.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 29 OTTOBRE 1987, N. 441](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;441)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 29 OTTOBRE 1987, N. 441](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20agosto%201987%20n.%20361%20recante%20disposizioni%20urgenti%20in%20materia%20di%20smaltimento%20dei%20rifiuti.md)
 
-Art. 4
-------
+## Art. 6.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 29 OTTOBRE 1987, N. 441](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;441)
-  
-
-Art. 5
-------
-
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 29 OTTOBRE 1987, N. 441](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;441)
-  
-
-Art. 6
-------
-
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 29 OTTOBRE 1987, N. 441](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;441)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 29 OTTOBRE 1987, N. 441](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20agosto%201987%20n.%20361%20recante%20disposizioni%20urgenti%20in%20materia%20di%20smaltimento%20dei%20rifiuti.md)

@@ -1,30 +1,25 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1996 n. 324
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 324
+data: 1996-05-17
+titolo: "Regolamento concernente norme sostitutive dell'art. 9 della legge 14 febbraio 1992, n. 185, sull'assicurazione agricola agevolata."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1996-05-17;324
+codice_redazionale: 096G0343
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1996 n. 324
-=============================================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 29 MARZO 2004, N. 102))
 
-Regolamento concernente norme sostitutive dell'art. 9 della legge 14 febbraio 1992, n. 185, sull'assicurazione agricola agevolata.
-----------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 5-7-1996
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 29 MARZO 2004, N. 102))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 29 MARZO 2004, N. 102](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-03-29;102)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 29 MARZO 2004, N. 102))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 29 MARZO 2004, N. 102](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-03-29;102)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 29 MARZO 2004, N. 102](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-03-29;102)))
-
-Art. 4
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 29 MARZO 2004, N. 102](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-03-29;102)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 29 MARZO 2004, N. 102))

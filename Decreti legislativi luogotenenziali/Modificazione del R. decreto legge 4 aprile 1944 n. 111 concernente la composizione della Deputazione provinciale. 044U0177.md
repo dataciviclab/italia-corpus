@@ -1,18 +1,17 @@
-DECRETO LEGISLATIVO LUOGOTENENZIALE 10 agosto 1944 n. 177
+---
+tipo: DECRETO LEGISLATIVO LUOGOTENENZIALE
+numero: 177
+data: 1944-08-10
+titolo: "Modificazione del R. decreto legge 4 aprile 1944, n. 111, concernente la composizione della Deputazione provinciale. (044U0177)"
+urn: urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-10;177
+codice_redazionale: 044U0177
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO LUOGOTENENZIALE 10 agosto 1944 n. 177
-=========================================================
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-Modificazione del R. decreto legge 4 aprile 1944, n. 111, concernente la composizione della Deputazione provinciale. (044U0177)
--------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

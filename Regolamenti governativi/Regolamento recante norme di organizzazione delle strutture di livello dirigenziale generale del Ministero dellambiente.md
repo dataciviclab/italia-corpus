@@ -1,75 +1,61 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1999 n. 549
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 549
+data: 1999-12-03
+titolo: "Regolamento recante norme di organizzazione delle strutture di livello dirigenziale generale del Ministero dell'ambiente."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1999-12-03;549
+codice_redazionale: 000G0100
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1999 n. 549
-===============================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 27 MARZO 2001, N. 178))
 
-Regolamento recante norme di organizzazione delle strutture di livello dirigenziale generale del Ministero dell'ambiente.
--------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 5/4/2000
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 27 MARZO 2001, N. 178))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 27 MARZO 2001, N. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-27;178)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 27 MARZO 2001, N. 178))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 27 MARZO 2001, N. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-27;178)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 27 MARZO 2001, N. 178))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 27 MARZO 2001, N. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-27;178)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 27 MARZO 2001, N. 178))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 27 MARZO 2001, N. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-27;178)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 27 MARZO 2001, N. 178))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 27 MARZO 2001, N. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-27;178)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 27 MARZO 2001, N. 178))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 27 MARZO 2001, N. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-27;178)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 27 MARZO 2001, N. 178))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 27 MARZO 2001, N. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-27;178)))
+(( PROVVEDIMENTO ABROGATO DAL D.P.R. 27 MARZO 2001, N. 178 ))
 
-Art. 8
-------
+## Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 27 MARZO 2001, N. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-27;178)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 27 MARZO 2001, N. 178))
 
-Art. 9
-------
+## Art. 11.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 27 MARZO 2001, N. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-27;178) ))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 27 MARZO 2001, N. 178))
 
-Art. 10
--------
+## Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 27 MARZO 2001, N. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-27;178)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 27 MARZO 2001, N. 178))
 
-Art. 11
--------
+## Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 27 MARZO 2001, N. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-27;178)))
-
-Art. 12
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 27 MARZO 2001, N. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-27;178)))
-
-Art. 13
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 27 MARZO 2001, N. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-27;178)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 27 MARZO 2001, N. 178))

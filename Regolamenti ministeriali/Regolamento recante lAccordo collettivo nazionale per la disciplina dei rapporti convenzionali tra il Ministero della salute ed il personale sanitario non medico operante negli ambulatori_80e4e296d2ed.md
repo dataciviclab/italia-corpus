@@ -1,32 +1,30 @@
-DECRETO 06 luglio 2012 n. 142
-
-
-DECRETO 06 luglio 2012 n. 142
-=============================
-
-Regolamento recante l'Accordo collettivo nazionale per la disciplina dei rapporti convenzionali tra il Ministero della salute ed il personale sanitario non medico operante negli ambulatori direttamente gestiti dal Ministero della salute per l'assistenza sanitaria e medico-legale al personale navigante, marittimo e dell'aviazione civile. (Parte economica - validita' 1° gennaio 2007-31 dicembre 2009). (12G0163)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/09/2012
+---
+tipo: DECRETO
+numero: 142
+data: 2012-07-06
+titolo: "Regolamento recante l'Accordo collettivo nazionale per la disciplina dei rapporti convenzionali tra il Ministero della salute ed il personale sanitario non medico operante negli ambulatori direttamente gestiti dal Ministero della salute per l'assistenza sanitaria e medico-legale al personale navigante, marittimo e dell'aviazione civile. (Parte economica - validita' 1° gennaio 2007-31 dicembre 2009). (12G0163)"
+urn: urn:nir:ministero.salute:decreto:2012-07-06;142
+codice_redazionale: 012G0163
+vigente: true
+---
 
 IL MINISTRO DELLA SALUTE
-------------------------
 
-Vista la [legge 23 dicembre 1978, n. 833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833);
+Vista la [legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833);
 
-Visto il [decreto del Presidente della Repubblica 31 luglio 1980, n. 620](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-31;620), recante norme sulla disciplina dell'assistenza sanitaria al personale navigante marittimo e dell'aviazione civile;
+Visto il [decreto del Presidente della Repubblica 31 luglio 1980, n. 620](../DPR/Disciplina%20dellassistenza%20sanitaria%20al%20personale%20navigante%20marittimo%20e%20dellaviazione%20civile%20art.%2037%20ultimo%20comma%20della%20legge%20n.%20833%20del%201978.md), recante norme sulla disciplina dell'assistenza sanitaria al personale navigante marittimo e dell'aviazione civile;
 
-Visto il [decreto del Ministro della sanita' 22 febbraio 1984, pubblicato nella Gazzetta Ufficiale n. 77 del 17 marzo 1984](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1984-03-17&numeroGazzetta=77), con il quale sono stati fissati i livelli delle prestazioni sanitarie e delle prestazioni economiche accessorie a quelle di malattia assicurate al personale di cui sopra;
+Visto il decreto del Ministro della sanita' 22 febbraio 1984, pubblicato nella Gazzetta Ufficiale n. 77 del 17 marzo 1984, con il quale sono stati fissati i livelli delle prestazioni sanitarie e delle prestazioni economiche accessorie a quelle di malattia assicurate al personale di cui sopra;
 
-Visto l'[articolo 18, comma 7, del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art18-com7), e successive modificazioni, il quale stabilisce che i rapporti con il personale sanitario per l'assistenza sanitaria e medico-legale al personale navigante sono disciplinati con regolamento ministeriale in conformita', per la parte compatibile, alle disposizioni di cui all'articolo 8 dello stesso decreto legislativo;
+Visto l'[articolo 18, comma 7, del decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, il quale stabilisce che i rapporti con il personale sanitario per l'assistenza sanitaria e medico-legale al personale navigante sono disciplinati con regolamento ministeriale in conformita', per la parte compatibile, alle disposizioni di cui all'articolo 8 dello stesso decreto legislativo;
 
-Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3);
+Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-Vista la [legge 13 novembre 2009, n. 172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-11-13;172), concernente l'istituzione del Ministero della salute;
+Vista la [legge 13 novembre 2009, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-11-13;172), concernente l'istituzione del Ministero della salute;
 
-Visto l'[articolo 4, comma 88, della legge 12 novembre 2011, n. 183](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-11-12;183~art4-com88), recante «Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (Legge di stabilita' per il 2012)»;
+Visto l'[articolo 4, comma 88, della legge 12 novembre 2011, n. 183](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202012.%2011G0234.md), recante «Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (Legge di stabilita' per il 2012)»;
 
-Visto il [decreto del Ministro della sanita' 30 dicembre 2005, n. 302](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:2005-12-30;302), con il quale e' stato reso esecutivo l'Accordo Collettivo Nazionale per la disciplina dei rapporti convenzionali tra il Ministero della salute ed il personale sanitario non medico operante negli ambulatori direttamente gestiti dal Ministero della salute per l'assistenza sanitaria e medico-legale al personale navigante, marittimo e dell'aviazione civile per il periodo 1° gennaio 2004-31 dicembre 2006;
+Visto il [decreto del Ministro della sanita' 30 dicembre 2005, n. 302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:2005-12-30;302), con il quale e' stato reso esecutivo l'Accordo Collettivo Nazionale per la disciplina dei rapporti convenzionali tra il Ministero della salute ed il personale sanitario non medico operante negli ambulatori direttamente gestiti dal Ministero della salute per l'assistenza sanitaria e medico-legale al personale navigante, marittimo e dell'aviazione civile per il periodo 1° gennaio 2004-31 dicembre 2006;
 
 Visto il Contratto Collettivo Nazionale di lavoro del comparto del personale «sanita'» riguardante il biennio economico 2004-2005, sottoscritto in data 5 giugno 2006;
 
@@ -34,9 +32,9 @@ Visto il Contratto Collettivo Nazionale di lavoro del comparto del personale «s
 
 Visto il Contratto Collettivo Nazionale di lavoro del comparto del personale «sanita'» riguardante il biennio economico 2008-2009 sottoscritto in data 31 luglio 2009;
 
-Visto l'Accordo Collettivo Nazionale per la disciplina dei rapporti con i medici specialisti ambulatoriali interni, medici veterinari ed altre professionalita' (biologi, chimici e psicologi) reso esecutivo in data 23 marzo 2005, ai sensi dell'[articolo 48 della legge 23 dicembre 1978, n. 833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833~art48) e dell'[articolo 8 del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art8) e successive modificazioni, ed in particolare l'articolo 43 concernente il trattamento economico spettante ai professionisti;
+Visto l'Accordo Collettivo Nazionale per la disciplina dei rapporti con i medici specialisti ambulatoriali interni, medici veterinari ed altre professionalita' (biologi, chimici e psicologi) reso esecutivo in data 23 marzo 2005, ai sensi dell'[articolo 48 della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_48) e dell'[articolo 8 del decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md) e successive modificazioni, ed in particolare l'articolo 43 concernente il trattamento economico spettante ai professionisti;
 
-Ritenuto di allineare, per la parte compatibile, la disciplina di cui al citato [decreto del Ministro della sanita' 30 dicembre 2005, n. 302](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:2005-12-30;302), agli istituti economici dei Contratti Collettivi Nazionali di Lavoro sopra citati;
+Ritenuto di allineare, per la parte compatibile, la disciplina di cui al citato [decreto del Ministro della sanita' 30 dicembre 2005, n. 302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:2005-12-30;302), agli istituti economici dei Contratti Collettivi Nazionali di Lavoro sopra citati;
 
 Considerato che in data 16 dicembre 2009 e' stato sottoscritto con le organizzazioni sindacali interessate l'Accordo Collettivo Nazionale per regolare il trattamento economico del personale sanitario non medico operante negli ambulatori gestiti dal Ministero della salute per l'assistenza sanitaria al personale navigante, marittimo e dell'aviazione civile;
 
@@ -50,224 +48,59 @@ Considerato che l'applicazione della suindicata disciplina ai rapporti convenzio
 
 Udito il parere del Consiglio di Stato, sezione consultiva per gli atti normativi, espresso nell'Adunanza del 3 aprile 2012;
 
-Vista la comunicazione al Presidente del Consiglio dei Ministri a norma dell'articolo 17, comma 3, della citata [legge n. 400 del 1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400), con nota n. 25251 in data 30 maggio 2012;
+Vista la comunicazione al Presidente del Consiglio dei Ministri a norma dell'articolo 17, comma 3, della citata [legge n. 400 del 1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400), con nota n. 25251 in data 30 maggio 2012;
 
-Adotta
-------
+Adotta il seguente regolamento:
 
-il seguente regolamento:
+## Art. 1.
 
-Art. 1
-------
+1.
 
-1. E' reso esecutivo l'Accordo Collettivo Nazionale per la disciplina dei rapporti convenzionali tra il Ministero della salute ed il personale sanitario non medico operante negli ambulatori direttamente gestiti dal Ministero della salute per l'assistenza sanitaria e medico legale al personale navigante, marittimo e dell'aviazione civile, parte economica, ai sensi dell'[articolo 18, comma 7, del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art18-com7), e successive modificazioni, per il periodo 1° gennaio 2007-31 dicembre 2009, riportato nel testo allegato.
+E' reso esecutivo l'Accordo Collettivo Nazionale per la disciplina dei rapporti convenzionali tra il Ministero della salute ed il personale sanitario non medico operante negli ambulatori direttamente gestiti dal Ministero della salute per l'assistenza sanitaria e medico legale al personale navigante, marittimo e dell'aviazione civile, parte economica, ai sensi dell'[articolo 18, comma 7, del decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, per il periodo 1° gennaio 2007-31 dicembre 2009, riportato nel testo allegato.
 
-2. Agli oneri derivanti dall'applicazione del presente regolamento, si provvede a valere sugli stanziamenti del capitolo 2423 «Somme occorrenti alla copertura degli Accordi Collettivi Nazionali stipulati tra l'Amministrazione e il personale sanitario che presta assistenza sanitaria in Italia al personale navigante» dello stato di previsione della spesa del Ministero della salute per l'esercizio finanziario 2012.
+2.
+
+Agli oneri derivanti dall'applicazione del presente regolamento, si provvede a valere sugli stanziamenti del capitolo 2423 «Somme occorrenti alla copertura degli Accordi Collettivi Nazionali stipulati tra l'Amministrazione e il personale sanitario che presta assistenza sanitaria in Italia al personale navigante» dello stato di previsione della spesa del Ministero della salute per l'esercizio finanziario 2012.
+
+Avvertenza: 
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ Note alle premesse: 
+ - La [legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833), reca: «Istituzione del Servizio sanitario nazionale». 
+ - Si trascrive il testo degli [articoli 6](../DPR/Disciplina%20dellassistenza%20sanitaria%20al%20personale%20navigante%20marittimo%20e%20dellaviazione%20civile%20art.%2037%20ultimo%20comma%20della%20legge%20n.%20833%20del%201978.md) e [12 del decreto del Presidente della Repubblica 31 luglio 1980, n. 620](../DPR/Disciplina%20dellassistenza%20sanitaria%20al%20personale%20navigante%20marittimo%20e%20dellaviazione%20civile%20art.%2037%20ultimo%20comma%20della%20legge%20n.%20833%20del%201978.md), con il quale e' stato previsto che il Ministero della sanita' puo' avvalersi del personale sanitario a rapporto convenzionale: 
+ «Art. 6 (Assistenza nel territorio italiano). - Le unita' sanitarie locali provvedono ad erogare al personale navigante, escluso quello di cui al secondo comma dell'art. 3, ed ai loro familiari aventi diritto le prestazioni sanitarie di competenza nel rispetto dei livelli stabiliti ai sensi dell'[art. 3 della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_3). 
+ Il personale ha diritto di accedere ai presidi e servizi di assistenza di qualsiasi unita' sanitaria locale nel cui territorio si trovi per ragioni di servizi. 
+ Gli uffici di sanita' marittima ed aerea del Ministero della sanita' provvedono: 
+ a) alle visite di prima iscrizione nelle matricole della gente di mare e dell'aria, avvalendosi dell'Istituto di medicina legale dell'aeronautica militare per gli accertamenti a carico degli aeronaviganti; 
+ b) alle visite preventive di imbarco ed alle visite periodiche di idoneita' del personale previste dalla vigente normativa sulla navigazione marittima ed aerea, nonche' alle eventuali indagini sanitarie necessarie fermo restando quanto indicato al punto a) per gli aeronaviganti; 
+ c) alle visite di controllo dei familiari imbarcati in base a contratto di cui all'art. 9. 
+ Gli uffici svolgono direttamente le funzioni medico-legali ed assicurano l'erogazione delle altre prestazioni sanitarie avvalendosi sulla base di direttive ministeriali, emanate sentito il comitato di cui all'art. 11, anche dei presidi e dei servizi delle unita' sanitarie locali e dei presidi e dei servizi multizonali competenti per territorio, nonche', ove occorra e in base ad apposite convenzioni, di strutture pubbliche o private e di personale sanitario a rapporto convenzionale. 
+ Gli uffici provvedono altresi' agli interventi di igiene e profilassi di propria competenza e collaborano con gli organi competenti in materia di prevenzione delle malattie e degli infortuni professionali negli impianti a terra ed a bordo dei natanti e degli aeromobili italiani e, compatibilmente con le norme internazionali, negli impianti e sui mezzi delle imprese straniere che impiegano personale italiano. 
+ Il Ministro della sanita' con proprio decreto, di concerto con i Ministri del tesoro, della marina mercantile e dei trasporti, sentito il Consiglio sanitario nazionale, disciplina i rapporti finanziari conseguenti alle prestazioni sanitarie erogate dalle USL. 
+ Il Ministero della sanita' coordina l'attivita' dei servizi, di intesa, per quanto occorra, con i Ministeri della marina mercantile, dei trasporti, degli affari esteri e della difesa, nonche' con le regioni nel cui territorio i servizi stessi hanno sede. Entro la scadenza indicata nel [terzo comma dell'art. 53 della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_53-com3), il Ministro della sanita', di intesa con i Ministri della marina mercantile e dei trasporti e sentito il comitato di rappresentanza degli assistiti previsto dal successivo art. 11, verifica la situazione dell'assistenza al personale navigante, al fine di formulare, in sede di piano sanitario nazionale, opportune proposte in ordine a gli uffici, alla delimitazione delle circoscrizioni e dalla dotazione di mezzi e di personale. 
+ Con la procedura di cui all'[art. 5 della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_5), sono emanati gli indirizzi per la disciplina dei rapporti fra gli uffici sanitari di porto e aeroporto e le unita' sanitarie locali, competenti per territorio, e per la definizione di modalita' di erogazione delle prestazioni atte a garantire, in considerazione della particolare condizione dei lavoratori interessati, una assistenza efficace e tempestiva.». 
+ «Art. 12 (Attribuzione dei beni e del personale delle soppresse gestioni sanitarie delle casse marittime). - I beni mobili ed immobili e le attrezzature appartenenti alle soppresse gestioni sanitarie delle casse marittime necessari per i servizi sanitari di cui al terzo e quarto comma dell'art. 6, sono trasferiti dal 1° gennaio 1981 al patrimonio dello Stato, con vincolo di destinazione agli uffici sanitari di porto ed aereoporto, mediante decreto del Ministro del tesoro, di concerto con i Ministri della sanita' e delle finanze. I restanti beni e attrezzature sono trasferiti con lo stesso decreto al patrimonio del comune in cui sono collocati con vincolo di destinazione alle unita' sanitarie locali. 
+ Entro la data di cui al primo comma i commissari liquidatori delle soppresse gestioni sanitarie delle casse marittime dispongono, sulla base di contingenti determinati dal Ministero della sanita' d'intesa con le organizzazioni sindacali maggiormente rappresentative in campo nazionale, l'assegnazione del personale amministrativo e sanitario delle gestioni stesse presso gli uffici portuali ed aeroportuali del Ministero della sanita' o presso le unita' sanitarie locali. 
+ Ai fini dell'inquadramento del personale assegnato al Ministero della sanita' si applicano le norme dell'[art. 24 del decreto-legge 30 dicembre 1969, n. 663](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1969-12-30;663#art_24), convertito nella [legge 29 febbraio 1980, n. 33](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201979%20n.%20663%20concernente%20provvedimenti%20per%20il%20finanziamento%20del%20Servizio%20sanitario%20nazionale%20per%20la%20previdenza%20per%20il%20c_9d4821b80b65.md). 
+ Con decorrenza dal 1° gennaio 1981 i vigenti rapporti convenzionali tra le soppresse gestioni sanitarie delle casse marittime e i medici fiduciari generici, medici ambulatoriali generici e specialisti nonche' con gli specialisti convenzionati esterni sono trasferiti al Ministero della sanita' o alle unita' sanitarie locali competenti per territorio in relazione alle rispettive esigenze di erogazione delle prestazioni disciplinate dal presente decreto.». 
+ - Si trascrive il testo aggiornato dell'[art. 18, comma 7 del decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), come modificato dal decreto legislativo 7 dicembre 1993, 517: 
+ «7. Restano salve le norme previste dai [decreti del Presidente della Repubblica 31 luglio 1980, n. 616](../DPR/Assistenza%20sanitaria%20ai%20cittadini%20del%20comune%20di%20Campione%20dItalia%20art.%2037%20primo%20comma%20lettera%20c%20della%20legge%20n.%20833%20del%201978.md), [n. 618](../DPR/Assistenza%20sanitaria%20ai%20cittadini%20italiani%20allestero%20art.%2037%20primo%20comma%20lettere%20a%20e%20b%20della%20legge%20n.%20833%20del%201978.md) e [n. 620](../DPR/Disciplina%20dellassistenza%20sanitaria%20al%20personale%20navigante%20marittimo%20e%20dellaviazione%20civile%20art.%2037%20ultimo%20comma%20della%20legge%20n.%20833%20del%201978.md), con gli adattamenti derivanti dalle disposizioni del presente decreto da effettuarsi con decreto del Ministro della sanita' di concerto con il Ministro del tesoro, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome. I rapporti con il personale sanitario per l'assistenza al personale navigante sono disciplinati con regolamento ministeriale in conformita', per la parte compatibile, alle disposizioni di cui all'art. 8. A decorrere dal 1° gennaio 1995 le entrate e le spese per l'assistenza sanitaria all'estero in base ai regolamenti della Comunita' europea e alle convenzioni bilaterali di sicurezza sociale sono imputate, tramite le regioni, ai bilanci delle unita' sanitarie locali di residenza degli assistiti. I relativi rapporti finanziari sono definiti in sede di ripartizione del fondo sanitario nazionale». 
+ - Il decreto del Presidente della Repubblica 28 luglio, n. 270, reca: «Accordo collettivo nazionale per la disciplina dei rapporti con i medici di medicina generale, ai sensi dell'[art. 8 del decreto legislativo n. 502/1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;502#art_8) come modificato dai [decreti legislativi n. 517/1993 e n. 229/1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999;229), sottoscritto il 9 marzo 2000». 
+ - Si trascrive il testo dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri): 
+ «3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. 
+ I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.». 
+ - Si trascrive il testo dell'art. 1 della legge istitutiva del [Ministero della salute n. 172 del 13 novembre 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.salute::2009-11-13;172): 
+ «1. Il [comma 376 dell'art. 1 della legge 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md), e' sostituito dal seguente: 
+ "376. Il numero dei Ministeri e' stabilito in tredici.
+ Il numero totale dei componenti del Governo a qualsiasi titolo, ivi compresi Ministri senza portafoglio, vice Ministri e Sottosegretari, non puo' essere superiore a sessantatre e la composizione del Governo deve essere coerente con il principio sancito nel secondo periodo del [primo comma dell'art. 51 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_51-com1)".». 
+ - Si trascrive il testo dell'[art. 4, comma 88, della legge 12 novembre 2011, n. 183](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202012.%2011G0234.md) (Disposizioni per la formazione del bilancio annuale e pluriennale dello stato - legge di stabilita' per il 2012): 
+ «88. Al fine di assicurare la copertura degli Accordi collettivi nazionali disciplinanti i rapporti tra il Ministero della salute e il personale sanitario per l'assistenza al personale navigante, di cui all'[art. 18, comma 7, del decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, e' istituito un fondo nello stato di previsione del medesimo Ministero la cui dotazione e' pari a 11,3 milioni di euro per l'anno 2012 e a 2 milioni di euro a decorrere dall'anno 2013». 
+ 
+ Note all'art. 1: 
+ - Per il testo dell'art. 6 del citato [decreto del Presidente della Repubblica n. 620/1980](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980;620), vedi nelle note alle premesse. 
+ - Per il testo dell'art. 18, comma 7 del citato [decreto legislativo n. 502/1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;502), cosi' come modificato dal [decreto legislativo 7 dicembre 1997, n. 517](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-07;517), vedi alle note alle premesse.
 
 Il presente regolamento, munito del sigillo dello Stato, e sottoposto al visto e alla registrazione della Corte dei Conti, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 6 luglio 2012
+Roma, 6 luglio 2012
 
-Il Ministro: Balduzzi
-
-Visto, il Guardasigilli: Severino Registrato alla Corte dei conti il 6 agosto 2012
-
-Ufficio di controllo sugli atti del MIUR, MIBAC, Min. Salute e Min.
-
-Lavoro, registro n. 11, foglio n. 241
-
-Avvertenza:   
-Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.   
-Note alle premesse:   
-- La [legge 23 dicembre 1978, n. 833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833), reca: «Istituzione del Servizio sanitario nazionale».   
-- Si trascrive il testo degli [articoli 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-31;620~art6) e [12 del decreto del Presidente della Repubblica 31 luglio 1980, n. 620](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-31;620~art12), con il quale e' stato previsto che il Ministero della sanita' puo' avvalersi del personale sanitario a rapporto convenzionale:   
-«Art. 6 (Assistenza nel territorio italiano). - Le unita' sanitarie locali provvedono ad erogare al personale navigante, escluso quello di cui al secondo comma dell'art. 3, ed ai loro familiari aventi diritto le prestazioni sanitarie di competenza nel rispetto dei livelli stabiliti ai sensi dell'[art. 3 della legge 23 dicembre 1978, n. 833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833~art3).   
-Il personale ha diritto di accedere ai presidi e servizi di assistenza di qualsiasi unita' sanitaria locale nel cui territorio si trovi per ragioni di servizi.   
-Gli uffici di sanita' marittima ed aerea del Ministero della sanita' provvedono:   
-a) alle visite di prima iscrizione nelle matricole della gente di mare e dell'aria, avvalendosi dell'Istituto di medicina legale dell'aeronautica militare per gli accertamenti a carico degli aeronaviganti;   
-b) alle visite preventive di imbarco ed alle visite periodiche di idoneita' del personale previste dalla vigente normativa sulla navigazione marittima ed aerea, nonche' alle eventuali indagini sanitarie necessarie fermo restando quanto indicato al punto a) per gli aeronaviganti;   
-c) alle visite di controllo dei familiari imbarcati in base a contratto di cui all'art. 9.   
-Gli uffici svolgono direttamente le funzioni medico-legali ed assicurano l'erogazione delle altre prestazioni sanitarie avvalendosi sulla base di direttive ministeriali, emanate sentito il comitato di cui all'art. 11, anche dei presidi e dei servizi delle unita' sanitarie locali e dei presidi e dei servizi multizonali competenti per territorio, nonche', ove occorra e in base ad apposite convenzioni, di strutture pubbliche o private e di personale sanitario a rapporto convenzionale.   
-Gli uffici provvedono altresi' agli interventi di igiene e profilassi di propria competenza e collaborano con gli organi competenti in materia di prevenzione delle malattie e degli infortuni professionali negli impianti a terra ed a bordo dei natanti e degli aeromobili italiani e, compatibilmente con le norme internazionali, negli impianti e sui mezzi delle imprese straniere che impiegano personale italiano.   
-Il Ministro della sanita' con proprio decreto, di concerto con i Ministri del tesoro, della marina mercantile e dei trasporti, sentito il Consiglio sanitario nazionale, disciplina i rapporti finanziari conseguenti alle prestazioni sanitarie erogate dalle USL.   
-Il Ministero della sanita' coordina l'attivita' dei servizi, di intesa, per quanto occorra, con i Ministeri della marina mercantile, dei trasporti, degli affari esteri e della difesa, nonche' con le regioni nel cui territorio i servizi stessi hanno sede. Entro la scadenza indicata nel [terzo comma dell'art. 53 della legge 23 dicembre 1978, n. 833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833~art53-com3), il Ministro della sanita', di intesa con i Ministri della marina mercantile e dei trasporti e sentito il comitato di rappresentanza degli assistiti previsto dal successivo art. 11, verifica la situazione dell'assistenza al personale navigante, al fine di formulare, in sede di piano sanitario nazionale, opportune proposte in ordine a gli uffici, alla delimitazione delle circoscrizioni e dalla dotazione di mezzi e di personale.   
-Con la procedura di cui all'[art. 5 della legge 23 dicembre 1978, n. 833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833~art5), sono emanati gli indirizzi per la disciplina dei rapporti fra gli uffici sanitari di porto e aeroporto e le unita' sanitarie locali, competenti per territorio, e per la definizione di modalita' di erogazione delle prestazioni atte a garantire, in considerazione della particolare condizione dei lavoratori interessati, una assistenza efficace e tempestiva.».   
-«Art. 12 (Attribuzione dei beni e del personale delle soppresse gestioni sanitarie delle casse marittime). - I beni mobili ed immobili e le attrezzature appartenenti alle soppresse gestioni sanitarie delle casse marittime necessari per i servizi sanitari di cui al terzo e quarto comma dell'art. 6, sono trasferiti dal 1° gennaio 1981 al patrimonio dello Stato, con vincolo di destinazione agli uffici sanitari di porto ed aereoporto, mediante decreto del Ministro del tesoro, di concerto con i Ministri della sanita' e delle finanze. I restanti beni e attrezzature sono trasferiti con lo stesso decreto al patrimonio del comune in cui sono collocati con vincolo di destinazione alle unita' sanitarie locali.   
-Entro la data di cui al primo comma i commissari liquidatori delle soppresse gestioni sanitarie delle casse marittime dispongono, sulla base di contingenti determinati dal Ministero della sanita' d'intesa con le organizzazioni sindacali maggiormente rappresentative in campo nazionale, l'assegnazione del personale amministrativo e sanitario delle gestioni stesse presso gli uffici portuali ed aeroportuali del Ministero della sanita' o presso le unita' sanitarie locali.   
-Ai fini dell'inquadramento del personale assegnato al Ministero della sanita' si applicano le norme dell'[art. 24 del decreto-legge 30 dicembre 1969, n. 663](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1969-12-30;663~art24), convertito nella [legge 29 febbraio 1980, n. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-29;33).   
-Con decorrenza dal 1° gennaio 1981 i vigenti rapporti convenzionali tra le soppresse gestioni sanitarie delle casse marittime e i medici fiduciari generici, medici ambulatoriali generici e specialisti nonche' con gli specialisti convenzionati esterni sono trasferiti al Ministero della sanita' o alle unita' sanitarie locali competenti per territorio in relazione alle rispettive esigenze di erogazione delle prestazioni disciplinate dal presente decreto.».   
-- Si trascrive il testo aggiornato dell'[art. 18, comma 7 del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art18-com7), come modificato dal decreto legislativo 7 dicembre 1993, 517:   
-«7. Restano salve le norme previste dai [decreti del Presidente della Repubblica 31 luglio 1980, n. 616](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-31;616), [n. 618](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-31;618) e [n. 620](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-31;620), con gli adattamenti derivanti dalle disposizioni del presente decreto da effettuarsi con decreto del Ministro della sanita' di concerto con il Ministro del tesoro, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome. I rapporti con il personale sanitario per l'assistenza al personale navigante sono disciplinati con regolamento ministeriale in conformita', per la parte compatibile, alle disposizioni di cui all'art. 8. A decorrere dal 1° gennaio 1995 le entrate e le spese per l'assistenza sanitaria all'estero in base ai regolamenti della Comunita' europea e alle convenzioni bilaterali di sicurezza sociale sono imputate, tramite le regioni, ai bilanci delle unita' sanitarie locali di residenza degli assistiti. I relativi rapporti finanziari sono definiti in sede di ripartizione del fondo sanitario nazionale».   
-- Il decreto del Presidente della Repubblica 28 luglio, n. 270, reca: «Accordo collettivo nazionale per la disciplina dei rapporti con i medici di medicina generale, ai sensi dell'[art. 8 del decreto legislativo n. 502/1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;502~art8) come modificato dai [decreti legislativi n. 517/1993 e n. 229/1999](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999;229), sottoscritto il 9 marzo 2000».   
-- Si trascrive il testo dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri):   
-«3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.   
-I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.».   
-- Si trascrive il testo dell'art. 1 della legge istitutiva del [Ministero della salute n. 172 del 13 novembre 2009](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.salute::2009-11-13;172):   
-«1. Il [comma 376 dell'art. 1 della legge 24 dicembre 2007, n. 244](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244~art1-com376), e' sostituito dal seguente:   
-"376. Il numero dei Ministeri e' stabilito in tredici.  
-Il numero totale dei componenti del Governo a qualsiasi titolo, ivi compresi Ministri senza portafoglio, vice Ministri e Sottosegretari, non puo' essere superiore a sessantatre e la composizione del Governo deve essere coerente con il principio sancito nel secondo periodo del [primo comma dell'art. 51 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art51-com1)".».   
-- Si trascrive il testo dell'[art. 4, comma 88, della legge 12 novembre 2011, n. 183](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-11-12;183~art4-com88) (Disposizioni per la formazione del bilancio annuale e pluriennale dello stato - legge di stabilita' per il 2012):   
-«88. Al fine di assicurare la copertura degli Accordi collettivi nazionali disciplinanti i rapporti tra il Ministero della salute e il personale sanitario per l'assistenza al personale navigante, di cui all'[art. 18, comma 7, del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art18-com7), e successive modificazioni, e' istituito un fondo nello stato di previsione del medesimo Ministero la cui dotazione e' pari a 11,3 milioni di euro per l'anno 2012 e a 2 milioni di euro a decorrere dall'anno 2013».   
-  
-Note all'art. 1:   
-- Per il testo dell'art. 6 del citato [decreto del Presidente della Repubblica n. 620/1980](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;620), vedi nelle note alle premesse.   
-- Per il testo dell'art. 18, comma 7 del citato [decreto legislativo n. 502/1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;502), cosi' come modificato dal [decreto legislativo 7 dicembre 1997, n. 517](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-07;517), vedi alle note alle premesse.
-
-Allegato Accordo Collettivo Nazionale personale sanitario non medico-art. 1
-
- Allegato   
-  
-  
-ACCORDO COLLETTIVO NAZIONALE PER LA DISCIPLINA DEI RAPPORTI CONVENZIONALI TRA IL MINISTERO DELLA SALUTE ED IL PERSONALE SANITARIO NON MEDICO OPERANTE NEGLI AMBULATORI DIRETTAMENTE GESTITI DAL MINISTERO DELLA SALUTE PER L'ASSISTENZA SANITARIA E MEDICO   
-LEGALE AL PERSONALE NAVIGANTE, MARITTIMO E DELL'AVIAZIONE CIVILE.   
-  
-Art. 1.   
-  
-  
-Campo di applicazione   
-  
-1. Ai sensi dell'[articolo 18, comma 7, del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art18-com7), e successive modificazioni, il presente accordo collettivo nazionale si applica a tutto il personale sanitario non medico (infermieri, infermieri generici, tecnici di radiologia, tecnici di laboratorio, tecnici dell'area della riabilitazione, chimici, psicologi e biologi) che opera negli ambulatori direttamente gestiti dai competenti uffici di assistenza sanitaria al personale navigante, marittimo e dell'aviazione civile (di seguito denominati uffici SASN), dipendenti dalla Direzione Generale delle Risorse Umane e Professioni sanitarie, ai sensi del [decreto del Presidente della Repubblica 31 luglio 1980, n. 620](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-31;620), del [decreto-legge 2 luglio 1982, n. 402](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-02;402), convertito nella [legge 3 settembre 1982, n. 627](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-09-03;627), e del decreto ministeriale 22 febbraio 1984.   
-2. Il presente accordo ha validita' per il periodo 1° gennaio 2007-31 dicembre 2009 e disciplina il trattamento economico del personale sanitario di cui al comma precedente.   
-3. Per quanto non espressamente previsto dal presente accordo, restano in vigore le norme del precedente accordo di cui al [decreto ministeriale 30 dicembre 2005, n. 302](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:2005-12-30;302).   
-
-Allegato Accordo Collettivo Nazionale personale sanitario non medico-art. 2
-
-  
-Art. 2.   
-  
-Trattamento economico degli infermieri (ex infermieri professionali), dei tecnici di radiologia, dei tecnici di laboratorio, dei tecnici dell'area della riabilitazione   
-  
-1. A decorrere dal 1° gennaio 2007, agli infermieri (ex infermieri professionali), ai tecnici di radiologia, ai tecnici di laboratorio e ai tecnici dell'area della riabilitazione, operanti negli ambulatori direttamente gestiti dal Ministero della salute per l'assistenza sanitaria al personale navigante, marittimo e dell'aviazione civile, e' corrisposto mensilmente un compenso orario forfetario omnicomprensivo nella misura lorda pari alla quota oraria attualmente prevista per il lavoro straordinario diurno festivo effettuato dal personale di cui al Contratto Collettivo Nazionale di Lavoro del comparto del Servizio Sanitario Nazionale, biennio economico 2008-2009, sottoscritto in data 31 luglio 2009.   
-2. Il compenso orario e' determinato con le modalita' di cui all'[articolo 10, commi 7](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-11-28;384~art10-com7) e [9, del decreto del Presidente della Repubblica 28 novembre 1990, n. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-11-28;384~art10-com9), tenuto conto degli stipendi tabellari attribuiti al personale dipendente del comparto sanita' inquadrato nella categoria D dai Contratti Collettivi Nazionali di Lavoro sottoscritti rispettivamente in data 5 giugno 2006 (biennio 2004-2005), in data 10 aprile 2008 (biennio 2006-2007), ed in data 31 luglio 2009 (biennio 2008-2009).   
-3. Il compenso orario e' pari ad € 15,17 dal 1° gennaio 2007, ad € 16,00 dal 1° febbraio 2007, ad € 16,07 dal 1° gennaio 2008, a € 16,62 dal 1° gennaio 2009.   
-4. I compensi gia' corrisposti dal 1° gennaio 2004 al 31 dicembre 2006 saranno ricalcolati secondo le variazioni intervenute nei rispettivi CCNL di riferimento in base ai compensi orari riportati nella tabella A, che forma parte integrante del presente Accordo.   
-5. Ai tecnici di radiologia si applica, in quanto compatibile la disposizione relativa all'indennita' di rischio di cui all'[articolo 48 del decreto del Presidente della Repubblica n. 348 del 1983](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1983;348~art48).   
-
-Allegato Accordo Collettivo Nazionale personale sanitario non medico-art. 3
-
-  
-Art. 3.   
-  
-  
-Trattamento economico degli infermieri generici   
-  
-1. A decorrere dal 1° gennaio 2007, agli infermieri generici operanti negli ambulatori direttamente gestiti dal Ministero della salute per l'assistenza sanitaria al personale navigante, marittimo e dell'aviazione civile, e' corrisposto mensilmente un compenso orario forfetario omnicomprensivo nella misura lorda pari alla quota oraria attualmente prevista per il lavoro straordinario diurno festivo effettuato dal personale del comparto «Sanita'», di cui al Contratto Collettivo Nazionale di Lavoro del comparto del Servizio Sanitario Nazionale, biennio economico 2008-2009, sottoscritto in data 31 luglio 2009.   
-2. Il compenso orario e' determinato con le modalita' di cui all'[articolo 10, commi 7](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-11-28;384~art10-com7) e [9, del decreto del Presidente della Repubblica 28 novembre 1990, n. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-11-28;384~art10-com9), tenuto conto degli stipendi tabellari attribuiti al personale dipendente del comparto sanita' inquadrato nella categoria BS dai Contratti Collettivi Nazionali di Lavoro sottoscritti rispettivamente in data 5 giugno 2006 (biennio 2004-2005), in data 10 aprile 2008 (biennio 2006-2007), ed in data 31 luglio 2009 (biennio 2008-2009).   
-3. Il compenso orario e' pari ad € 12,63 dal 1° gennaio 2007, a € 13,32 dal 1° febbraio 2007, a € 13,38 dal 1° gennaio 2008, a € 13,84 dal 1° gennaio 2009.   
-4. I compensi gia' corrisposti dal 1° gennaio 2004 al 31 dicembre 2006 saranno ricalcolati secondo le variazioni intervenute nei rispettivi CCNL di riferimento in base ai compensi orari riportati nella tabella B, che forma parte integrante del presente Accordo.   
-
-Allegato Accordo Collettivo Nazionale personale sanitario non medico-art. 4
-
-  
-Art. 4.   
-  
-  
-Trattamento economico e previdenziale dei chimici, biologi e psicologi   
-  
-1. A decorrere dal 1° gennaio 2007, ai chimici, ai biologi e agli psicologi operanti negli ambulatori direttamente gestiti dal Ministero della salute per l'assistenza sanitaria al personale navigante, marittimo e dell'aviazione civile e' corrisposto, mensilmente, un trattamento economico disciplinato, per quanto compatibile, dall'articolo 43 dell'Accordo Collettivo Nazionale per la disciplina dei rapporti con i medici specialisti ambulatoriali interni, ed altre professionalita' (biologi, chimici, psicologi), reso esecutivo in data 23 marzo 2005.   
-2. Tale trattamento economico si articola in:   
-A - QUOTA ORARIA   
-A1. A decorrere dal 1° gennaio 2007, ai chimici, biologi e psicologi e' corrisposto mensilmente un compenso orario di € 19,45.   
-A2. Al compenso di cui alla precedente lettera A1, vanno aggiunte ulteriori quote in relazione alle anzianita' di servizio maturate fino al 31 dicembre 1998 e pari a:   
-€ 0,042 per mese di servizio, fino al 192esimo mese;   
-€ 0,022 per mese di servizio, dal 193esimo mese.   
-B - QUOTA VARIABILE   
-B1. A decorrere dal 1° gennaio 2007, in analogia a quanto previsto dall'articolo 19, comma 1, lettera B, punto 1, dell'accordo collettivo nazionale per la disciplina dei rapporti tra il Ministero del lavoro, della salute e delle politiche sociali ed i medici ambulatoriali, specialisti e generici, operanti negli ambulatori a gestione diretta per l'assistenza sanitaria e medico-legale al personale navigante, marittimo e dell'aviazione civile - quinquennio 2001-2005, pubblicato nella Gazzetta Ufficiale 16 giugno 2009, n. 137, e' corrisposta una quota oraria di ponderazione qualitativa, non riassorbibile, quantificata in € 1,75.   
-3. I compensi gia' corrisposti dal 1° gennaio 2004 al 31 dicembre 2006 saranno ricalcolati secondo le variazioni intervenute nei rispettivi CCNL di riferimento in base ai compensi orari riportati nella tabella C, che forma parte integrante del presente Accordo.   
-4. Per gli anni 2001, 2002 e 2003 sono corrisposti arretrati nella misura indicata nella tabella C, che forma parte integrante del presente Accordo.   
-5. A partire dal 1° gennaio 2004, l'ufficio SASN competente versa trimestralmente ai professionisti (chimici, biologi e psicologi) un contributo del 24%, di cui il 14,19% a proprio carico ed il 9,81% a carico di ogni singolo professionista, calcolato su tutti i compensi di cui al presente articolo.   
-
-Allegato Accordo Collettivo Nazionale personale sanitario non medico-art. 5
-
-  
-Art. 5.   
-  
-  
-Oneri di spesa   
-  
-1. Gli oneri derivanti dall'applicazione del presente accordo sono valutati per gli anni 2001-2009 in € 2.038.045,39, con un maggiore onere a tutto il 2012 di € 1.505.510,46, nonche' in € 1.054.444,87 per contributi previdenziali e irap, per un onere complessivo di € 4.598.000,72.   
-
-Allegato Accordo Collettivo Nazionale personale sanitario non medico-Norma finale
-
-  
-Norma finale n. 1   
-  
-1. Ai fini dell'applicazione dell'articolo 4 del presente accordo, per i chimici, biologi e psicologi sono fatti salvi i livelli retributivi come determinati dall'[articolo 17 comma 1, del decreto ministeriale 30 dicembre 2005, n. 302](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:2005-12-30;302~art17-com1).   
-
-Allegato Accordo Collettivo Nazionale personale sanitario non medico-Dichiarazione congiunta
-
-  
-Dichiarazione congiunta   
-  
-1. A seguito del rinnovo degli accordi collettivi di riferimento, le parti avvieranno le trattative per l'eventuale adeguamento della presente convenzione alle condizioni di maggiore favore, per quanto compatibili, previste dagli accordi predetti.   
-2. Al fine di adeguare la disciplina contrattuale dei biologi, chimici e psicologi alle corrispondenti professionalita' del SSN, le parti si impegnano, per il successivo rinnovo contrattuale, ad avviare una trattativa congiunta con i medici ambulatoriali che operano negli ambulatori SASN.   
-
-Allegato Accordo Collettivo Nazionale personale sanitario non medico-Tabelle
-
- Tabella A   
-  
-Infermieri (ex infermieri professionali), tecnici di laboratorio, tecnici di radiologia, tecnici dell'area della riabilitazione.   
-
-|  |  |
-| --- | --- |
-| Dal 1 gennaio 2004 al 31 gennaio 2005 | € 14,58 |
-| Dal 1 febbraio 2005 al 30 dicembre 2005 | € 15,06 |
-| Dal 31 dicembre 2005 | € 15,10 |
-| Dal 1 gennaio 2006 al 31 dicembre 2006 | € 15,17 |
-
-  
-  
-  
-  
-Tabella B   
-  
-Infermieri generici   
-
-|  |  |
-| --- | --- |
-| Dal 1 gennaio 2004 al 31 gennaio 2005 | € 12,14 |
-| Dal 1 febbraio 2005 al 30 dicembre 2005 | € 12,54 |
-| Dal 31 dicembre 2005 | €. 12,57 |
-| Dal 1 gennaio 2006 al 31 dicembre 2006 | € 12,63 |
-
-  
-  
-  
-  
-Tabella C   
-  
-Biologi, chimici e psicologi   
-  
-  
----------------------------------------------------------------------  
-QUOTA ORARIA\* | QUOTA VARIABILE  
----------------------------------------------------------------------  
-Dal 1 gennaio 2004 | € 18,985 | Dal 1 gennaio 2004 | € 1,285  
----------------------------------------------------------------------  
-Dal 31 dicembre 2004 | € 19,23 | Dal 1 gennaio 2005 | € 1,53  
----------------------------------------------------------------------  
-Dal 31 dicembre 2005 | € 19,45 | Dal 1 gennaio 2006 | € 1,75  
----------------------------------------------------------------------
-  
-  
-  
-\*Ai compensi su riportati vanno aggiunte dal 1 gennaio 2004 le quote di anzianita' maturate fino alla data del 31.12.1998 calcolate come previsto dall'articolo 4, lettera A2.   
-  
-  
----------------------------------------------------------------------  
-ARRETRATI\*
-
-|  |  |
-| --- | --- |
-| Anno 2001 | € 0,727 moltiplicato per il numero delle ore totali 2001 |
-| Anno 2002 | € 0,727 moltiplicato per il numero delle ore totali 2002 |
-| Anno 2003 | € 1,022 moltiplicato per il numero delle ore totali 2003 |
-
-  
-\*Compenso forfetario calcolato al lordo del contributo previdenziale;   
-  
-20 DIC. 2011   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=012G016300100080110001&dgu=2012-08-27&art.dataPubblicazioneGazzetta=2012-08-27&art.codiceRedazionale=012G0163)
-  
+Il Ministro: Balduzzi Visto, il Guardasigilli: Severino Registrato alla Corte dei conti il 6 agosto 2012 Ufficio di controllo sugli atti del MIUR, MIBAC, Min. Salute e Min. Lavoro, registro n. 11, foglio n. 241

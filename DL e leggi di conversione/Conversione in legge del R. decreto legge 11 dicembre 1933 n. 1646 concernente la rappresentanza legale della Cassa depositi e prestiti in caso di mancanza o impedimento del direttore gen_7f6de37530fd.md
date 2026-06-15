@@ -1,16 +1,14 @@
-LEGGE 18 gennaio 1934 n. 83
+---
+tipo: LEGGE
+numero: 83
+data: 1934-01-18
+titolo: "Conversione in legge del R. decreto legge 11 dicembre 1933, n. 1646, concernente la rappresentanza legale della Cassa depositi e prestiti in caso di mancanza o impedimento del direttore generale. (034U0083)"
+urn: urn:nir:stato:legge:1934-01-18;83
+codice_redazionale: 034U0083
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 18 gennaio 1934 n. 83
-===========================
-
-Conversione in legge del R. decreto legge 11 dicembre 1933, n. 1646, concernente la rappresentanza legale della Cassa depositi e prestiti in caso di mancanza o impedimento del direttore generale. (034U0083)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/02/1934
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO   
-CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO 
+ CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))

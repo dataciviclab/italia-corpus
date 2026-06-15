@@ -1,20 +1,17 @@
-DECRETO-LEGGE 29 aprile 1996 n. 232
+---
+tipo: DECRETO-LEGGE
+numero: 232
+data: 1996-04-29
+titolo: "Disposizioni urgenti in materia contabile-finanziaria."
+urn: urn:nir:stato:decreto.legge:1996-04-29;232
+codice_redazionale: 096G0248
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 29 aprile 1996 n. 232
-===================================
+DECRETO DECADUTO
 
-Disposizioni urgenti in materia contabile-finanziaria.
-------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 1/5/1996.Decreto-Legge decaduto per mancata conversione.
-
-Art. 1
-------
-
- DECRETO DECADUTO  
-
-Art. 2
-------
-
- DECRETO DECADUTO  
+DECRETO DECADUTO

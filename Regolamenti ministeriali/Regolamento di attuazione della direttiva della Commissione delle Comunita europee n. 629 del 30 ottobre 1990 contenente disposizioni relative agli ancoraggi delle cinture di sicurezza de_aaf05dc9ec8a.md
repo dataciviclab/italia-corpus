@@ -1,93 +1,86 @@
-DECRETO 09 aprile 1992 n. 326
-
-
-DECRETO 09 aprile 1992 n. 326
-=============================
-
-Regolamento di attuazione della direttiva della Commissione delle Comunita' europee n. 629 del 30 ottobre 1990 contenente disposizioni relative agli ancoraggi delle cinture di sicurezza dei veicoli a motore.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 19/07/1992
+---
+tipo: DECRETO
+numero: 326
+data: 1992-04-09
+titolo: "Regolamento di attuazione della direttiva della Commissione delle Comunita' europee n. 629 del 30 ottobre 1990 contenente disposizioni relative agli ancoraggi delle cinture di sicurezza dei veicoli a motore."
+urn: urn:nir:ministero.trasporti:decreto:1992-04-09;326
+codice_redazionale: 092G0365
+vigente: true
+---
 
 IL MINISTRO DEI TRASPORTI
--------------------------
 
-Visti gli [articoli 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-27;942~art1) e [2 della legge 27 dicembre 1973, n. 942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-27;942~art2), in base ai quali i veicoli a motore destinati a circolare su strada, con o senza carrozzeria nonche' i loro rimorchi, ad eccezione dei veicoli che si spostano su rotaia, debbono essere sottoposti dal Ministero dei trasporti, previa presentazione di domanda da parte del costruttore o del suo legale rappresentante, all'esame del tipo per la omologazione CEE secondo prescrizioni tecniche emanate dal Ministro dei trasporti con propri decreti, in attuazione delle direttive del Consiglio o della Commissione delle Comunita' europee concernenti l'omologazione dei veicoli a motore e dei loro rimorchi;
+Visti gli [articoli 1](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ricezione%20nella%20legislazione%20italiana%20delle%20direttive%20della%20Comunita%20economica%20europea%20concernenti%20il%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alla%20omologazione%20dei%20v_b7608ff328ae.md) e [2 della legge 27 dicembre 1973, n. 942](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ricezione%20nella%20legislazione%20italiana%20delle%20direttive%20della%20Comunita%20economica%20europea%20concernenti%20il%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alla%20omologazione%20dei%20v_b7608ff328ae.md), in base ai quali i veicoli a motore destinati a circolare su strada, con o senza carrozzeria nonche' i loro rimorchi, ad eccezione dei veicoli che si spostano su rotaia, debbono essere sottoposti dal Ministero dei trasporti, previa presentazione di domanda da parte del costruttore o del suo legale rappresentante, all'esame del tipo per la omologazione CEE secondo prescrizioni tecniche emanate dal Ministro dei trasporti con propri decreti, in attuazione delle direttive del Consiglio o della Commissione delle Comunita' europee concernenti l'omologazione dei veicoli a motore e dei loro rimorchi;
 
-Visto l'[art. 10 della legge 27 dicembre 1973, n. 942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-27;942~art10), con cui viene conferita al Ministro dei trasporti la facolta' di rendere obbligatorie, con propri decreti, le prescrizioni tecniche riguardanti l'approvazione di singoli dispositivi o la omologazione di un tipo di veicolo, per quanto riguarda uno o piu' requisiti, prima che siano completate le prescrizioni tecniche necessarie per procedere alla omologazione CEE dei suddetti veicoli;
+Visto l'[art. 10 della legge 27 dicembre 1973, n. 942](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ricezione%20nella%20legislazione%20italiana%20delle%20direttive%20della%20Comunita%20economica%20europea%20concernenti%20il%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alla%20omologazione%20dei%20v_b7608ff328ae.md), con cui viene conferita al Ministro dei trasporti la facolta' di rendere obbligatorie, con propri decreti, le prescrizioni tecniche riguardanti l'approvazione di singoli dispositivi o la omologazione di un tipo di veicolo, per quanto riguarda uno o piu' requisiti, prima che siano completate le prescrizioni tecniche necessarie per procedere alla omologazione CEE dei suddetti veicoli;
 
-Visto il proprio decreto 28 dicembre 1982 nel quale sono elaborate in un testo unico le [direttive numero 76/115/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31976L0115), [n. 81/575/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31981L0575) e [n. 82/318/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31982L0318) dettanti norme relative alla omologazione parziale dei veicoli a motore per quanto attiene agli ancoraggi delle cinture di sicurezza; ([pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 86 del 29 marzo 1983](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1983-03-29&numeroGazzetta=86));
+Visto il proprio decreto 28 dicembre 1982 nel quale sono elaborate in un testo unico le [direttive numero 76/115/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1976;115), [n. 81/575/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1981;575) e [n. 82/318/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1982;318) dettanti norme relative alla omologazione parziale dei veicoli a motore per quanto attiene agli ancoraggi delle cinture di sicurezza; (pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 86 del 29 marzo 1983);
 
-Vista la [direttiva della Commissione n. 90/629/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31990L0629) con la quale vengono apportate modifiche ed integrazioni alle prescrizioni tecniche delle direttive soprarichiamate;
+Vista la [direttiva della Commissione n. 90/629/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;629) con la quale vengono apportate modifiche ed integrazioni alle prescrizioni tecniche delle direttive soprarichiamate;
 
 Ritenuto di dover corrispondentemente modificare ed integrare le disposizioni del proprio decreto del 28 dicembre 1982;
 
-Vista la [legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), in particolare l'art. 17, commi 3 e 4;
+Vista la [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), in particolare l'art. 17, commi 3 e 4;
 
 Udito il parere del Consiglio di Stato reso dall'adunanza generale del 19 dicembre 1991;
 
-Esperita la procedura prevista dalla sopracitata [legge n. 400/1988, art. 17, comma 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400~art17-com3), ultimo periodo, con la comunicazione al Presidente del Consiglio dei Ministri;
+Esperita la procedura prevista dalla sopracitata [legge n. 400/1988, art. 17, comma 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com3), ultimo periodo, con la comunicazione al Presidente del Consiglio dei Ministri;
 
 A D O T T A il seguente regolamento:
 
-Art. 1
-------
+## Art. 1.
 
-1. Gli allegati al [decreto ministeriale 28 dicembre 1982, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 86 del 29 marzo 1983](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1983-03-29&numeroGazzetta=86), recante norme relative alla omologazione parziale CEE dei tipi di veicolo a motore per quanto riguarda gli ancoraggi delle cinture di sicurezza sono modificati conformemente a quanto indicato nell'allegato A al presente decreto.
+1.
 
-AVVERTENZA:  
-Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.  
-Note alle premesse:  
-- La [legge n. 942/1973](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973;942) detta norme sulla "Ricezione nella legislazione italiana delle direttive della Comunita' economica europea concernenti il ravvicinamento delle legislazioni degli Stati membri relative alla omologazione dei veicoli a motore e dei loro rimorchi". Si trascrive il testo degli articoli 1, 2 e 10:  
-"Art. 1. - I veicoli a motore destinati a circolare su strada con o senza carrozzeria ed i loro rimorchi, esclusi i veicoli che si spostano su rotaia, debbono essere sottoposti, dal Ministero dei trasporti e dell'aviazione civile all'esame del tipo per l'omologazione CEE secondo le prescrizioni tecniche che saranno emanate entro sei mesi dal Ministro per i trasporti e l'aviazione civile, con propri decreti, in attuazione delle direttive del Consiglio o della commissione delle Comunita' europee concernenti l'omologazione dei veicoli a motore e dei loro rimorchi".  
-"Art. 2. - La domanda per l'omologazione di cui al precedente art. 1 e' presentata dal costruttore, o dal suo legale rappresentante, al Ministero dei trasporti e dell'aviazione civile; la domanda non e' accolta quando risulti che sia stata presentata, per lo stesso tipo di veicolo, richiesta di omologazione presso altro Stato membro della CEE".  
-"Art. 10. - Le prescrizioni tecniche man mano emanate dal Ministro per i trasporti e l'aviazione civile in attuazione delle direttive comunitarie possono essere rese obbligatorie con decreto dello stesso Ministro per i trasporti e l'aviazione civile, anche prima che siano completate prescrizioni tecniche necessarie per procedere alla omologazione CEE, in sostituzione di quelle concernenti l'omologazione nazionale o l'approvazione dei tipi di dispositivi provviste, rispettivamente dagli [articoli 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-01-18;54~art53) e [78 del testo unico delle norme sulla circolazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-01-18;54~art78) stradale, approvato con [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-06-15;393)".  
-- Il [comma 3 dell'art. 17 della legge n. 400/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.  
-Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
+Gli allegati al decreto ministeriale 28 dicembre 1982, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 86 del 29 marzo 1983, recante norme relative alla omologazione parziale CEE dei tipi di veicolo a motore per quanto riguarda gli ancoraggi delle cinture di sicurezza sono modificati conformemente a quanto indicato nell'allegato A al presente decreto.
 
-Art. 2
-------
+AVVERTENZA:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Note alle premesse:
+ - La [legge n. 942/1973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973;942) detta norme sulla "Ricezione nella legislazione italiana delle direttive della Comunita' economica europea concernenti il ravvicinamento delle legislazioni degli Stati membri relative alla omologazione dei veicoli a motore e dei loro rimorchi". Si trascrive il testo degli articoli 1, 2 e 10:
+ "Art. 1. - I veicoli a motore destinati a circolare su strada con o senza carrozzeria ed i loro rimorchi, esclusi i veicoli che si spostano su rotaia, debbono essere sottoposti, dal Ministero dei trasporti e dell'aviazione civile all'esame del tipo per l'omologazione CEE secondo le prescrizioni tecniche che saranno emanate entro sei mesi dal Ministro per i trasporti e l'aviazione civile, con propri decreti, in attuazione delle direttive del Consiglio o della commissione delle Comunita' europee concernenti l'omologazione dei veicoli a motore e dei loro rimorchi".
+ "Art. 2. - La domanda per l'omologazione di cui al precedente art. 1 e' presentata dal costruttore, o dal suo legale rappresentante, al Ministero dei trasporti e dell'aviazione civile; la domanda non e' accolta quando risulti che sia stata presentata, per lo stesso tipo di veicolo, richiesta di omologazione presso altro Stato membro della CEE".
+ "Art. 10. - Le prescrizioni tecniche man mano emanate dal Ministro per i trasporti e l'aviazione civile in attuazione delle direttive comunitarie possono essere rese obbligatorie con decreto dello stesso Ministro per i trasporti e l'aviazione civile, anche prima che siano completate prescrizioni tecniche necessarie per procedere alla omologazione CEE, in sostituzione di quelle concernenti l'omologazione nazionale o l'approvazione dei tipi di dispositivi provviste, rispettivamente dagli [articoli 53](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20circolazione%20e%20soggiorno%20dei%20cittadini%20degli%20Stati%20membri%20dellUnione%20europea.%20Testo%20A.md) e [78 del testo unico delle norme sulla circolazione](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20circolazione%20e%20soggiorno%20dei%20cittadini%20degli%20Stati%20membri%20dellUnione%20europea.%20Testo%20A.md) stradale, approvato con [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](../DPR/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md)".
+ - Il [comma 3 dell'art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.
+ Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
 
-1. Fino al 30 giugno 1992 e' ammesso il rilascio di omologazioni parziali CEE dei tipi di veicoli a motore per quanto attiene agli ancoraggi delle cinture di sicurezza, secondo le prescrizioni contenute nel decreto ministeriale 28 dicembre 1982 o, in alternativa, secondo le prescrizioni contenute nel decreto ministeriale 28 dicembre 1982 cosi' come aggiornato dal presente decreto.
+## Art. 2.
 
-Art. 3
-------
+1.
 
-1. Dal 1› luglio 1992 potranno ottenere l'omologazione parziale CEE:  
-solamente i tipi di veicolo a motore muniti di ancoraggi delle cinture di sicurezza che soddisfino le prescrizioni del decreto 28 dicembre 1982 cosi' come aggiornato dal presente decreto.
+Fino al 30 giugno 1992 e' ammesso il rilascio di omologazioni parziali CEE dei tipi di veicoli a motore per quanto attiene agli ancoraggi delle cinture di sicurezza, secondo le prescrizioni contenute nel decreto ministeriale 28 dicembre 1982 o, in alternativa, secondo le prescrizioni contenute nel decreto ministeriale 28 dicembre 1982 cosi' come aggiornato dal presente decreto.
 
-Art. 4
-------
+## Art. 3.
 
-1. Dal 1› ottobre 1993 potranno ottenere l'omologazione nazionale: solamente i tipi di veicolo a motore muniti di ancoraggi delle cinture di sicurezza che soddisfino le prescrizioni del presente decreto.
+1.
 
-Art. 5
-------
+Dal 1 luglio 1992 potranno ottenere l'omologazione parziale CEE:
+ solamente i tipi di veicolo a motore muniti di ancoraggi delle cinture di sicurezza che soddisfino le prescrizioni del decreto 28 dicembre 1982 cosi' come aggiornato dal presente decreto.
 
-1. Resta salva la facolta', prevista dall'[art. 9 della legge n. 942 del 27 dicembre 1973](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-27;942~art9), per i costruttori di richiedere, in alternativa a quanto disposto dall'art. 4, l'omologazione nazionale dei tipi di veicoli muniti di ancoraggi delle cinture di sicurezza omologati, in base alle prescrizioni tecniche contenute nei regolamenti e nelle raccomandazioni emanate dall'Ufficio europeo per le Nazioni Unite - Commissione economica per l'Europa.
+## Art. 4.
 
-Nota all'art. 5:  
-- Il testo dell'[art. 9 della legge n. 942/1973](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973;942~art9) e' il seguente:  
-"Art. 9. - A richiesta del produttore o del costruttore di un dispositivo o un veicolo per quanto riguarda uno o piu' requisiti puo' essere omologato in alternativa a quanto prescritto dall'art. 1, secondo le prescrizioni tecniche contenute nei regolamenti e nelle raccomandazioni emanate dall'Ufficio europeo per le Nazioni Unite - Commissioni economiche per l'Europa, accettate dal Ministro per i trasporti e l'aviazione civile".
+1.
 
-Art. 6
-------
+Dal 1 ottobre 1993 potranno ottenere l'omologazione nazionale: solamente i tipi di veicolo a motore muniti di ancoraggi delle cinture di sicurezza che soddisfino le prescrizioni del presente decreto.
 
-1. L'allegato A al presente decreto, completo di schemi e tabelle ne costituisce parte integrante a tutti gli effetti.
+## Art. 5.
+
+1.
+
+Resta salva la facolta', prevista dall'[art. 9 della legge n. 942 del 27 dicembre 1973](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ricezione%20nella%20legislazione%20italiana%20delle%20direttive%20della%20Comunita%20economica%20europea%20concernenti%20il%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alla%20omologazione%20dei%20v_b7608ff328ae.md), per i costruttori di richiedere, in alternativa a quanto disposto dall'art. 4, l'omologazione nazionale dei tipi di veicoli muniti di ancoraggi delle cinture di sicurezza omologati, in base alle prescrizioni tecniche contenute nei regolamenti e nelle raccomandazioni emanate dall'Ufficio europeo per le Nazioni Unite - Commissione economica per l'Europa.
+
+Nota all'art. 5:
+ - Il testo dell'[art. 9 della legge n. 942/1973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973;942#art_9) e' il seguente:
+ "Art. 9. - A richiesta del produttore o del costruttore di un dispositivo o un veicolo per quanto riguarda uno o piu' requisiti puo' essere omologato in alternativa a quanto prescritto dall'art. 1, secondo le prescrizioni tecniche contenute nei regolamenti e nelle raccomandazioni emanate dall'Ufficio europeo per le Nazioni Unite - Commissioni economiche per l'Europa, accettate dal Ministro per i trasporti e l'aviazione civile".
+
+## Art. 6.
+
+1.
+
+L'allegato A al presente decreto, completo di schemi e tabelle ne costituisce parte integrante a tutti gli effetti.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 9 aprile 1992
+Roma, 9 aprile 1992
 
-Il Ministro: BERNINI
-
-Visto, il Guardasigilli: MARTELLI Registrato alla Corte dei conti il 25 giugno 1992
-
-Registro n. 6 Trasporti, foglio n. 398
-
-Allegato A
-
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=092G036500100010110001&dgu=1992-07-04&art.dataPubblicazioneGazzetta=1992-07-04&art.codiceRedazionale=092G0365)
-  
+Il Ministro: BERNINI Visto, il Guardasigilli: MARTELLI Registrato alla Corte dei conti il 25 giugno 1992 Registro n. 6 Trasporti, foglio n. 398

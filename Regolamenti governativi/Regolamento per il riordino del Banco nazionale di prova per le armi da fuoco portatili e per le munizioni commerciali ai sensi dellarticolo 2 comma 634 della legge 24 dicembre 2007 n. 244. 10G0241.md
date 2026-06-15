@@ -1,90 +1,73 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 2010 n. 222
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 222
+data: 2010-10-29
+titolo: "Regolamento per il riordino del Banco nazionale di prova per le armi da fuoco portatili e per le munizioni commerciali ai sensi dell'articolo 2, comma 634, della legge 24 dicembre 2007, n. 244. (10G0241)"
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2010-10-29;222
+codice_redazionale: 010G0241
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 2010 n. 222
-==============================================================
+((PROVVEDIMENTO ABROGATO DALLA L. 4 AGOSTO 2017, N. 124))
 
-Regolamento per il riordino del Banco nazionale di prova per le armi da fuoco portatili e per le munizioni commerciali ai sensi dell'articolo 2, comma 634, della legge 24 dicembre 2007, n. 244. (10G0241)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 06/01/2011
+((PROVVEDIMENTO ABROGATO DALLA L. 4 AGOSTO 2017, N. 124))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 4 AGOSTO 2017, N. 124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-08-04;124)))
+((PROVVEDIMENTO ABROGATO DALLA L. 4 AGOSTO 2017, N. 124))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 4 AGOSTO 2017, N. 124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-08-04;124)))
+((PROVVEDIMENTO ABROGATO DALLA L. 4 AGOSTO 2017, N. 124))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 4 AGOSTO 2017, N. 124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-08-04;124)))
+((PROVVEDIMENTO ABROGATO DALLA L. 4 AGOSTO 2017, N. 124))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 4 AGOSTO 2017, N. 124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-08-04;124)))
+((PROVVEDIMENTO ABROGATO DALLA L. 4 AGOSTO 2017, N. 124))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 4 AGOSTO 2017, N. 124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-08-04;124)))
+((PROVVEDIMENTO ABROGATO DALLA L. 4 AGOSTO 2017, N. 124))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 4 AGOSTO 2017, N. 124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-08-04;124)))
+((PROVVEDIMENTO ABROGATO DALLA L. 4 AGOSTO 2017, N. 124))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 4 AGOSTO 2017, N. 124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-08-04;124)))
+((PROVVEDIMENTO ABROGATO DALLA L. 4 AGOSTO 2017, N. 124))
 
-Art. 8
-------
+## Art. 10.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 4 AGOSTO 2017, N. 124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-08-04;124)))
+((PROVVEDIMENTO ABROGATO DALLA L. 4 AGOSTO 2017, N. 124))
 
-Art. 9
-------
+## Art. 11.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 4 AGOSTO 2017, N. 124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-08-04;124)))
+((PROVVEDIMENTO ABROGATO DALLA L. 4 AGOSTO 2017, N. 124))
 
-Art. 10
--------
+## Art. 12.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 4 AGOSTO 2017, N. 124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-08-04;124)))
+((PROVVEDIMENTO ABROGATO DALLA L. 4 AGOSTO 2017, N. 124))
 
-Art. 11
--------
+## Art. 13.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 4 AGOSTO 2017, N. 124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-08-04;124)))
+((PROVVEDIMENTO ABROGATO DALLA L. 4 AGOSTO 2017, N. 124))
 
-Art. 12
--------
+## Art. 14.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 4 AGOSTO 2017, N. 124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-08-04;124)))
+((PROVVEDIMENTO ABROGATO DALLA L. 4 AGOSTO 2017, N. 124))
 
-Art. 13
--------
+## Art. 15.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 4 AGOSTO 2017, N. 124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-08-04;124)))
+((PROVVEDIMENTO ABROGATO DALLA L. 4 AGOSTO 2017, N. 124))
 
-Art. 14
--------
+## Art. 16.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 4 AGOSTO 2017, N. 124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-08-04;124)))
-
-Art. 15
--------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 4 AGOSTO 2017, N. 124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-08-04;124)))
-
-Art. 16
--------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 4 AGOSTO 2017, N. 124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-08-04;124)))
+((PROVVEDIMENTO ABROGATO DALLA L. 4 AGOSTO 2017, N. 124))

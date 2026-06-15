@@ -1,74 +1,49 @@
-DECRETO-LEGGE 30 giugno 1994 n. 422
+---
+tipo: DECRETO-LEGGE
+numero: 422
+data: 1994-06-30
+titolo: "Disposizioni urgenti per l'impiego delle Forze armate in attivita' di controllo del territorio nazionale, nonche' in missioni umanitarie all'estero."
+urn: urn:nir:stato:decreto.legge:1994-06-30;422
+codice_redazionale: 094G0464
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 30 giugno 1994 n. 422
-===================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 27 OTTOBRE 1994 N. 599](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20decreto-legge%2029%20agosto%201994%20n.%20521%20recante%20disposizioni%20urgenti%20per%20limpiego%20delle%20Forze%20armate%20in%20attivita%20di%20controllo%20del%20territorio%20nazionale%20nonche%20in%20missi_237264d1bc8c.md)
 
-Disposizioni urgenti per l'impiego delle Forze armate in attivita' di controllo del territorio nazionale, nonche' in missioni umanitarie all'estero.
-----------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 1-7-1994.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 27 OTTOBRE 1994 N. 599](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20decreto-legge%2029%20agosto%201994%20n.%20521%20recante%20disposizioni%20urgenti%20per%20limpiego%20delle%20Forze%20armate%20in%20attivita%20di%20controllo%20del%20territorio%20nazionale%20nonche%20in%20missi_237264d1bc8c.md)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 27 OTTOBRE 1994 N. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-10-27;599)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 27 OTTOBRE 1994 N. 599](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20decreto-legge%2029%20agosto%201994%20n.%20521%20recante%20disposizioni%20urgenti%20per%20limpiego%20delle%20Forze%20armate%20in%20attivita%20di%20controllo%20del%20territorio%20nazionale%20nonche%20in%20missi_237264d1bc8c.md)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 27 OTTOBRE 1994 N. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-10-27;599)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 27 OTTOBRE 1994 N. 599](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20decreto-legge%2029%20agosto%201994%20n.%20521%20recante%20disposizioni%20urgenti%20per%20limpiego%20delle%20Forze%20armate%20in%20attivita%20di%20controllo%20del%20territorio%20nazionale%20nonche%20in%20missi_237264d1bc8c.md)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 27 OTTOBRE 1994 N. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-10-27;599)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 27 OTTOBRE 1994 N. 599](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20decreto-legge%2029%20agosto%201994%20n.%20521%20recante%20disposizioni%20urgenti%20per%20limpiego%20delle%20Forze%20armate%20in%20attivita%20di%20controllo%20del%20territorio%20nazionale%20nonche%20in%20missi_237264d1bc8c.md)
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 27 OTTOBRE 1994 N. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-10-27;599)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 27 OTTOBRE 1994 N. 599](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20decreto-legge%2029%20agosto%201994%20n.%20521%20recante%20disposizioni%20urgenti%20per%20limpiego%20delle%20Forze%20armate%20in%20attivita%20di%20controllo%20del%20territorio%20nazionale%20nonche%20in%20missi_237264d1bc8c.md)
 
-Art. 5
-------
+## Art. 7.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 27 OTTOBRE 1994 N. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-10-27;599)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 27 OTTOBRE 1994 N. 599](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20decreto-legge%2029%20agosto%201994%20n.%20521%20recante%20disposizioni%20urgenti%20per%20limpiego%20delle%20Forze%20armate%20in%20attivita%20di%20controllo%20del%20territorio%20nazionale%20nonche%20in%20missi_237264d1bc8c.md)
 
-Art. 6
-------
+## Art. 8.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 27 OTTOBRE 1994 N. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-10-27;599)
-  
-
-Art. 7
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 27 OTTOBRE 1994 N. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-10-27;599)
-  
-
-Art. 8
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 27 OTTOBRE 1994 N. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-10-27;599)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 27 OTTOBRE 1994 N. 599](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20decreto-legge%2029%20agosto%201994%20n.%20521%20recante%20disposizioni%20urgenti%20per%20limpiego%20delle%20Forze%20armate%20in%20attivita%20di%20controllo%20del%20territorio%20nazionale%20nonche%20in%20missi_237264d1bc8c.md)

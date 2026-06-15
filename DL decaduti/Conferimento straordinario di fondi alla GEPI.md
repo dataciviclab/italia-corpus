@@ -1,28 +1,21 @@
-DECRETO-LEGGE 11 gennaio 1980 n. 3
+---
+tipo: DECRETO-LEGGE
+numero: 3
+data: 1980-01-11
+titolo: "Conferimento straordinario di fondi alla GEPI."
+urn: urn:nir:stato:decreto.legge:1980-01-11;3
+codice_redazionale: 080U0003
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 11 gennaio 1980 n. 3
-==================================
+DECRETO DECADUTO
 
-Conferimento straordinario di fondi alla GEPI.
-----------------------------------------------
+## Art. 2.
 
-Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO   
-
-Art. 2
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 3
-------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

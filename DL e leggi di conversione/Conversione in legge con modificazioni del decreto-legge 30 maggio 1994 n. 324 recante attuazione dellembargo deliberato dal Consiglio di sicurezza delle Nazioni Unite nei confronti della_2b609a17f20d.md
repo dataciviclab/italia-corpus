@@ -1,59 +1,31 @@
-LEGGE 27 luglio 1994 n. 472
-
-
-LEGGE 27 luglio 1994 n. 472
-===========================
-
-Conversione in legge, con modificazioni, del decreto-legge 30 maggio 1994, n. 324, recante attuazione dell'embargo deliberato dal Consiglio di sicurezza delle Nazioni Unite nei confronti della Libia, nonche' disposizioni procedurali in materia di embargo nei confronti degli Stati della ex Jugoslavia e per la missione umanitaria in Mozambico.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore della legge: 31/7/1994
+---
+tipo: LEGGE
+numero: 472
+data: 1994-07-27
+titolo: "Conversione in legge, con modificazioni, del decreto-legge 30 maggio 1994, n. 324, recante attuazione dell'embargo deliberato dal Consiglio di sicurezza delle Nazioni Unite nei confronti della Libia, nonche' disposizioni procedurali in materia di embargo nei confronti degli Stati della ex Jugoslavia e per la missione umanitaria in Mozambico."
+urn: urn:nir:stato:legge:1994-07-27;472
+codice_redazionale: 094G0510
+vigente: true
+---
 
 La Camera dei deputati ed il Senato della Repubblica hanno approvato;
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-PROMULGA
---------
+PROMULGA la seguente legge:
 
-la seguente legge:
+## Art. 1.
 
-Art. 1
-------
+1.
 
-1. Il [decreto-legge 30 maggio 1994, n. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-05-30;324), recante attuazione dell'embargo deliberato dal Consiglio di sicurezza delle Nazioni Unite nei confronti della Libia, nonche' disposizioni procedurali in materia di embargo nei confronti degli Stati della ex Jugoslavia e per la missione umanitaria in Mozambico, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
+Il [decreto-legge 30 maggio 1994, n. 324](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-05-30;324), recante attuazione dell'embargo deliberato dal Consiglio di sicurezza delle Nazioni Unite nei confronti della Libia, nonche' disposizioni procedurali in materia di embargo nei confronti degli Stati della ex Jugoslavia e per la missione umanitaria in Mozambico, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
 
-2. Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 2 dicembre 1993, n. 488, 29 gennaio 1994, n. 76, e 31 marzo 1994, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-03-31;217).
+2.
+
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 2 dicembre 1993, n. 488, 29 gennaio 1994, n. 76, e 31 marzo 1994, n. 217](../DL%20decaduti/Attuazione%20dellembargo%20deliberato%20dal%20Consiglio%20di%20sicurezza%20delle%20Nazioni%20Unite%20nei%20confronti%20della%20Libia%20nonche%20disposizioni%20procedurali%20in%20materia%20di%20embargo%20nei%20confronti%20degli%20Stati%20_3cad66647a5d.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data a Roma, addi' 27 luglio 1994
+Data a Roma, addi' 27 luglio 1994
 
-SCALFARO
-
-BERLUSCONI, Presidente del Consiglio dei Ministri
-
-MARTINO, Ministro degli affari esteri
-
-Visto, il Guardasigilli: BIONDI AVVERTENZA:
-
-Il decreto-legge 30 maggio 1994, n. 324, e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 126 del 1 giugno 1994.
-
-A norma dell'art. 15, comma 5, della legge 23 agosto
-
-1988, n. 400 (Disciplina dell'attivita' di Governo e
-
-ordinamento della Presidenza del Consiglio dei Ministri), le modifiche apportate dalla presente legge di conversione hanno efficacia dal giorno successivo a quello della sua pubblicazione. Il testo del decreto-legge coordinato con la legge di conversione e' pubblicato in questa stessa Gazzetta Ufficiale alla pag. 27. ------------
-
-Allegato
-
- ALLEGATO   
-MODIFICAZIONI APPORTATE IN SEDE DI CONVERSIONE AL DECRETO-LEGGE 30   
-MAGGIO 1994, N. 324.   
-All'articolo 5:   
-al comma 1, capoverso 2-bis, le parole: "tutte informazioni necessarie" sono sostituite dalle seguenti: "tutte le informazioni necessarie";   
-al comma 2, capoverso 3-ter, e' aggiunto, in fine, il seguente periodo: "Le disposizioni di cui al presente comma si applicano anche per le spese derivanti dalle operazioni di fermo, ispezione e sequestro effettuate in attuazione delle risoluzioni del Consiglio di sicurezza delle Nazioni Unite nn. 713/1991, 757/1992, 787/1992 e 820/1993 prima dell'entrata in vigore del presente decreto";   
-al comma 2, capoverso 3-quater, le parole: "un miliardo" sono sostituite dalle seguenti: "due miliardi".   
-L'articolo 6 e' soppresso.   
+SCALFARO BERLUSCONI, Presidente del Consiglio dei Ministri MARTINO, Ministro degli affari esteri Visto, il Guardasigilli: BIONDI AVVERTENZA: Il decreto-legge 30 maggio 1994, n. 324, e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 126 del 1 giugno 1994. A norma dell'art. 15, comma 5, della legge 23 agosto 1988, n. 400 (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), le modifiche apportate dalla presente legge di conversione hanno efficacia dal giorno successivo a quello della sua pubblicazione. Il testo del decreto-legge coordinato con la legge di conversione e' pubblicato in questa stessa Gazzetta Ufficiale alla pag. 27. ------------

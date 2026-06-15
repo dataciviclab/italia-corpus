@@ -1,30 +1,25 @@
-DECRETO LEGISLATIVO LUOGOTENENZIALE 31 agosto 1945 n. 579
+---
+tipo: DECRETO LEGISLATIVO LUOGOTENENZIALE
+numero: 579
+data: 1945-08-31
+titolo: "Corresponsione di assegni integrativi delle indennita' di disoccupazione. (045U0579)"
+urn: urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-31;579
+codice_redazionale: 045U0579
+vigente: true
+---
 
-
-DECRETO LEGISLATIVO LUOGOTENENZIALE 31 agosto 1945 n. 579
-=========================================================
-
-Corresponsione di assegni integrativi delle indennita' di disoccupazione. (045U0579)
-------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/09/1945
-
-Art. 1
-------
+## Art. 1.
 
 ((IL D.L. 22 DICEMBRE 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9, HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 2
-------
+## Art. 2.
 
 ((IL D.L. 22 DICEMBRE 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9, HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 3
-------
+## Art. 3.
 
 ((IL D.L. 22 DICEMBRE 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9, HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 4
-------
+## Art. 4.
 
 ((IL D.L. 22 DICEMBRE 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9, HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))

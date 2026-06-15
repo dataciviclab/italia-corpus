@@ -1,22 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 luglio 1982 n. 727
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 luglio 1982 n. 727
-=============================================================
-
-Attuazione della direttiva (CEE) n. 76/117 relativa al materiale elettrico destinato ad essere utilizzato in "atmosfera esplosiva".
------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 727
+data: 1982-07-21
+titolo: "Attuazione della direttiva (CEE) n. 76/117 relativa al materiale elettrico destinato ad essere utilizzato in \"atmosfera esplosiva\"."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-07-21;727
+codice_redazionale: 082U0727
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-visti gli [articoli 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art76) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
+visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 9 febbraio 1982, n. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;42), recante delega al Governo ad emanare norme per l'attuazione delle direttive della Comunita' economica europea;
+Vista la [legge 9 febbraio 1982, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea.md), recante delega al Governo ad emanare norme per l'attuazione delle direttive della Comunita' economica europea;
 
-Vista la [direttiva n. 76/117 del 18 dicembre 1975](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31976L0117), emanata dal Consiglio delle Comunita' europee, concernente il materiale elettrico destinato ad essere utilizzato in atmosfera esplosiva;
+Vista la [direttiva n. 76/117 del 18 dicembre 1975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1976;117), emanata dal Consiglio delle Comunita' europee, concernente il materiale elettrico destinato ad essere utilizzato in atmosfera esplosiva;
 
-Considerato che in data 14 maggio 1982, ai termini dell'[art. 1 della legge 9 febbraio 1982, n. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;42~art1), e' stato inviato lo schema del presente provvedimento ai Presidenti della Camera dei deputati e del Senato della Repubblica per gli adempimenti ivi previsti;
+Considerato che in data 14 maggio 1982, ai termini dell'[art. 1 della legge 9 febbraio 1982, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea.md), e' stato inviato lo schema del presente provvedimento ai Presidenti della Camera dei deputati e del Senato della Repubblica per gli adempimenti ivi previsti;
 
 Tenuto conto delle osservazioni formulate in sede parlamentare;
 
@@ -26,114 +26,80 @@ Sulla proposta del Ministro per il coordinamento interno delle politiche comunit
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione dell'8 luglio 1982;
 
-EMANA
------
+EMANA il seguente decreto:
 
-il seguente decreto:
+## Art. 1.
 
-Art. 1
-------
+Le disposizioni del presente decreto si applicano al materiale elettrico destinato ad essere utilizzato in "atmosfera potenzialmente esplosiva", ad eccezione del materiale destinato all'impiego nei lavori sotterranei delle miniere grisutose e del materiale elettrico usato in medicina.
 
-  
-Le disposizioni del presente decreto si applicano al materiale elettrico destinato ad essere utilizzato in "atmosfera potenzialmente esplosiva", ad eccezione del materiale destinato all'impiego nei lavori sotterranei delle miniere grisutose e del materiale elettrico usato in medicina.  
+## Art. 2.
 
-Art. 2
-------
+Per materiale elettrico, ai sensi del presente decreto, si intendono tutti i componenti che costituiscono gli impianti elettrici e qualsiasi altro apparato, dispositivo o macchina che impieghi l'elettricita'.
 
-  
-Per materiale elettrico, ai sensi del presente decreto, si intendono tutti i componenti che costituiscono gli impianti elettrici e qualsiasi altro apparato, dispositivo o macchina che impieghi l'elettricita'.  
+## Art. 3.
 
-Art. 3
-------
+Una "atmosfera potenzialmente esplosiva" esiste negli ambienti, interni ed esterni nei quali possono accumularsi quantita' pericolose di sostanze infiammabili allo stato di gas, vapore, nebbia o polveri, atte a formare con l'aria miscele esplosive.
 
-  
-Una "atmosfera potenzialmente esplosiva" esiste negli ambienti, interni ed esterni nei quali possono accumularsi quantita' pericolose di sostanze infiammabili allo stato di gas, vapore, nebbia o polveri, atte a formare con l'aria miscele esplosive.  
+## Art. 4.
 
-Art. 4
-------
+Il materiale elettrico di cui agli articoli 1 e 2 del presente decreto puo' essere venduto, circolare liberamente od essere usato in modo conforme alla sua destinazione solo se rispondente, per quanto attiene alla sicurezza di fabbricazione in previsione dell'impiego in atmosfera esplosiva, ad uno dei seguenti requisiti:
+ a) conformita' alle norme armonizzate comprovata da un certificato di conformita' rilasciato in base all'art. 5 e dall'apposizione del marchio distintivo di cui all'art. 7 del presente decreto;
+ b) accertamento, in base ad uno speciale esame della fabbricazione, che esso garantisce una sicurezza almeno equivalente a quella delle norme stesse, comprovata da un certificato di controllo rilasciato conformemente all'art. 6 e dall'apposizione del marchio distintivo di cui all'art. 7 del presente decreto.
+ Per uso conforme alla propria destinazione, ai sensi del presente articolo, si intende l'uso del materiale, in combinazione con gas, vapore, nebbia o polveri, atti a formare con l'aria miscele esplosive, quale e' previsto nelle norme armonizzate di costruzione e menzionato nei certificati di conformita' o di controllo.
+ Per norme armonizzate, ai sensi del presente decreto, si intendono le norme indicate nelle direttive particolari emanate dal Consiglio dei Ministri della Comunita' economica europea.
+ Le condizioni di installazione del materiale elettrico di cui al presente decreto restano soggette alle disposizioni vigenti che non siano discriminatorie nei confronti del materiale elettrico prodotto negli altri Stati membri, per quanto attiene alla sua utilizzazione.
 
-  
-Il materiale elettrico di cui agli articoli 1 e 2 del presente decreto puo' essere venduto, circolare liberamente od essere usato in modo conforme alla sua destinazione solo se rispondente, per quanto attiene alla sicurezza di fabbricazione in previsione dell'impiego in atmosfera esplosiva, ad uno dei seguenti requisiti:  
-a) conformita' alle norme armonizzate comprovata da un certificato di conformita' rilasciato in base all'art. 5 e dall'apposizione del marchio distintivo di cui all'art. 7 del presente decreto;  
-b) accertamento, in base ad uno speciale esame della fabbricazione, che esso garantisce una sicurezza almeno equivalente a quella delle norme stesse, comprovata da un certificato di controllo rilasciato conformemente all'art. 6 e dall'apposizione del marchio distintivo di cui all'art. 7 del presente decreto.  
-Per uso conforme alla propria destinazione, ai sensi del presente articolo, si intende l'uso del materiale, in combinazione con gas, vapore, nebbia o polveri, atti a formare con l'aria miscele esplosive, quale e' previsto nelle norme armonizzate di costruzione e menzionato nei certificati di conformita' o di controllo.  
-Per norme armonizzate, ai sensi del presente decreto, si intendono le norme indicate nelle direttive particolari emanate dal Consiglio dei Ministri della Comunita' economica europea.  
-Le condizioni di installazione del materiale elettrico di cui al presente decreto restano soggette alle disposizioni vigenti che non siano discriminatorie nei confronti del materiale elettrico prodotto negli altri Stati membri, per quanto attiene alla sua utilizzazione.
+## Art. 5.
 
-Art. 5
-------
+Il certificato di conformita' di cui all'art. 4, primo comma, lettera a), e' rilasciato da uno degli organismi di cui all'art. 8.
+Esso attesta che il tipo di materiale e' conforme alle norme armonizzate.
+ Una copia delle principali indicazioni del certificato di conformita' e' trasmessa, a cura dell'organismo autorizzato, sia al Ministero dell'industria, del commercio e dell'artigianato che agli altri Stati membri e alla commissione, entro il termine di un mese a decorrere dalla data del rilascio del certificato di conformita'.
+ L'organismo autorizzato, che procede all'esame del materiale, compila un verbale che e' tenuto a disposizione sia delle autorita' italiane che degli altri Stati membri della CEE.
+ Le spese necessarie all'espletamento delle operazioni di esame del materiale, del rilascio delle certificazioni di conformita' e di quelle di controllo di cui al successivo art. 6 sono poste a carico del richiedente, secondo le modalita' precisate nel decreto ministeriale di cui al successivo art. 8.
+ L'organismo autorizzato, che ha rilasciato il certificato di conformita', puo' revocarlo quando constata che detto certificato non avrebbe dovuto essere rilasciato o che le condizioni da esso imposte non sono state soddisfatte entro un termine adeguato. Esso puo' inoltre revocare il certificato di conformita' quando il fabbricante immette sul mercato materiale elettrico non conforme al prototipo autorizzato.
 
-  
-Il certificato di conformita' di cui all'art. 4, primo comma, lettera a), e' rilasciato da uno degli organismi di cui all'art. 8.  
-Esso attesta che il tipo di materiale e' conforme alle norme armonizzate.  
-Una copia delle principali indicazioni del certificato di conformita' e' trasmessa, a cura dell'organismo autorizzato, sia al Ministero dell'industria, del commercio e dell'artigianato che agli altri Stati membri e alla commissione, entro il termine di un mese a decorrere dalla data del rilascio del certificato di conformita'.  
-L'organismo autorizzato, che procede all'esame del materiale, compila un verbale che e' tenuto a disposizione sia delle autorita' italiane che degli altri Stati membri della CEE.  
-Le spese necessarie all'espletamento delle operazioni di esame del materiale, del rilascio delle certificazioni di conformita' e di quelle di controllo di cui al successivo art. 6 sono poste a carico del richiedente, secondo le modalita' precisate nel decreto ministeriale di cui al successivo art. 8.  
-L'organismo autorizzato, che ha rilasciato il certificato di conformita', puo' revocarlo quando constata che detto certificato non avrebbe dovuto essere rilasciato o che le condizioni da esso imposte non sono state soddisfatte entro un termine adeguato. Esso puo' inoltre revocare il certificato di conformita' quando il fabbricante immette sul mercato materiale elettrico non conforme al prototipo autorizzato.  
+## Art. 6.
 
-Art. 6
-------
+Il certificato di controllo, di cui all'art. 4, primo comma, lettera b), e' rilasciato da uno degli organismi autorizzati di cui all'art. 8.
+ Esso attesta che il tipo di materiale garantisce una sicurezza almeno uguale a quella delle norme armonizzate.
+ Prima di rilasciare tale certificato di controllo, l'organismo di controllo autorizzato che procede all'esame del materiale trasmette in via riservata i documenti descrittivi del materiale, i verbali ed i progetti di certificati di controllo agli altri Stati membri della CEE e/o ai rispettivi organismi di controllo autorizzati che, entro quattro mesi da questa informazione, possono presentare osservazioni, richiedere esami supplementari ed eventualmente appellarsi al comitato per l'adeguamento al progresso tecnico istituito dall'[art. 6 della direttiva (CEE) n. 76/117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1976;117) e secondo la procedura di cui all'art. 7 della direttiva stessa.
+ Qualora, prima della scadenza del termine stabilito, nessuno Stato membro si sia appellato al comitato, l'organismo autorizzato, dopo aver preso in considerazione le osservazioni presentate conformemente alla procedura di cui al comma precedente, rilascia il certificato di controllo se il risultato degli esami eventuali complementari e' soddisfacente.
+ In caso di appello al comitato, se il parere di quest'ultimo e' favorevole, l'organismo autorizzato rilascia il certificato in questione.
+ Una copia delle principali indicazioni del certificato di controllo e' trasmessa, a cura dell'organismo autorizzato, sia al Ministero dell'industria, del commercio e dell'artigianato che agli altri Stati membri, entro il termine di un mese a decorrere dalla data del suo rilascio.
+ L'organismo autorizzato che ha rilasciato il certificato di controllo puo' revocarlo quando constata che detto certificato non avrebbe dovuto essere rilasciato o che alcune condizioni da esso imposte non sono state soddisfatte entro un termine adeguato. Esso puo' inoltre revocare questo certificato quando il fabbricante immette sul mercato materiale elettrico non conforme al prototipo autorizzato.
 
-  
-Il certificato di controllo, di cui all'art. 4, primo comma, lettera b), e' rilasciato da uno degli organismi autorizzati di cui all'art. 8.  
-Esso attesta che il tipo di materiale garantisce una sicurezza almeno uguale a quella delle norme armonizzate.  
-Prima di rilasciare tale certificato di controllo, l'organismo di controllo autorizzato che procede all'esame del materiale trasmette in via riservata i documenti descrittivi del materiale, i verbali ed i progetti di certificati di controllo agli altri Stati membri della CEE e/o ai rispettivi organismi di controllo autorizzati che, entro quattro mesi da questa informazione, possono presentare osservazioni, richiedere esami supplementari ed eventualmente appellarsi al comitato per l'adeguamento al progresso tecnico istituito dall'[art. 6 della direttiva (CEE) n. 76/117](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31976L0117) e secondo la procedura di cui all'art. 7 della direttiva stessa.  
-Qualora, prima della scadenza del termine stabilito, nessuno Stato membro si sia appellato al comitato, l'organismo autorizzato, dopo aver preso in considerazione le osservazioni presentate conformemente alla procedura di cui al comma precedente, rilascia il certificato di controllo se il risultato degli esami eventuali complementari e' soddisfacente.  
-In caso di appello al comitato, se il parere di quest'ultimo e' favorevole, l'organismo autorizzato rilascia il certificato in questione.  
-Una copia delle principali indicazioni del certificato di controllo e' trasmessa, a cura dell'organismo autorizzato, sia al Ministero dell'industria, del commercio e dell'artigianato che agli altri Stati membri, entro il termine di un mese a decorrere dalla data del suo rilascio.  
-L'organismo autorizzato che ha rilasciato il certificato di controllo puo' revocarlo quando constata che detto certificato non avrebbe dovuto essere rilasciato o che alcune condizioni da esso imposte non sono state soddisfatte entro un termine adeguato. Esso puo' inoltre revocare questo certificato quando il fabbricante immette sul mercato materiale elettrico non conforme al prototipo autorizzato.  
+## Art. 7.
 
-Art. 7
-------
+Il marchio distintivo apposto dal fabbricante sul materiale attesta che il medesimo e' conforme al tipo che ha ottenuto un certificato di conformita' o di controllo e che e' stato sottoposto a prove individuali eventualmente previste dalle norme armonizzate e risponde alle condizioni imposte con il certificato di conformita' o con quello di controllo.
+ Il fabbricante puo' apporre tale marchio solo se possiede un valido certificato di conformita' o di controllo ed ha ottemperato alle disposizioni necessarie a garantire che il materiale corrisponde alle norme tecniche armonizzate.
+ Per garantire tale corrispondenza il Ministero dell'industria, del commercio e dell'artigianato procede, tramite gli organismi autorizzati, alla necessaria sorveglianza della fabbricazione e cura che il materiale venga sottoposto alle prove individuali previste e che non venga fatto uso improprio del marchio.
+ Se il certificato di conformita' o di controllo lo esige, il materiale deve essere accompagnato da istruzioni che ne precisino le particolari condizioni d'uso.
 
-  
-Il marchio distintivo apposto dal fabbricante sul materiale attesta che il medesimo e' conforme al tipo che ha ottenuto un certificato di conformita' o di controllo e che e' stato sottoposto a prove individuali eventualmente previste dalle norme armonizzate e risponde alle condizioni imposte con il certificato di conformita' o con quello di controllo.  
-Il fabbricante puo' apporre tale marchio solo se possiede un valido certificato di conformita' o di controllo ed ha ottemperato alle disposizioni necessarie a garantire che il materiale corrisponde alle norme tecniche armonizzate.  
-Per garantire tale corrispondenza il Ministero dell'industria, del commercio e dell'artigianato procede, tramite gli organismi autorizzati, alla necessaria sorveglianza della fabbricazione e cura che il materiale venga sottoposto alle prove individuali previste e che non venga fatto uso improprio del marchio.  
-Se il certificato di conformita' o di controllo lo esige, il materiale deve essere accompagnato da istruzioni che ne precisino le particolari condizioni d'uso.  
+## Art. 8.
 
-Art. 8
-------
+Il Ministro dell'industria, del commercio e dell'artigianato designa gli organismi da esso autorizzati a procedere, alla sorveglianza all'esame del materiale ed a rilasciare i certificati di conformita' e di controllo e notifica agli altri Stati membri e alla commissione della Comunita' europea l'elenco di tali organismi e quello dei destinatari della corrispondenza relativa ai certificati di conformita' e di controllo.
+ il Ministro dell'industria, del commercio e dell'artigianato dispone la pubblicazione nella Gazzetta Ufficiale della Repubblica italiana dell'elenco degli organismi degli altri Stati membri autorizzati a rilasciare i certificati di conformita' o di controllo.
 
-  
-Il Ministro dell'industria, del commercio e dell'artigianato designa gli organismi da esso autorizzati a procedere, alla sorveglianza all'esame del materiale ed a rilasciare i certificati di conformita' e di controllo e notifica agli altri Stati membri e alla commissione della Comunita' europea l'elenco di tali organismi e quello dei destinatari della corrispondenza relativa ai certificati di conformita' e di controllo.  
-il Ministro dell'industria, del commercio e dell'artigianato dispone la pubblicazione nella Gazzetta Ufficiale della Repubblica italiana dell'elenco degli organismi degli altri Stati membri autorizzati a rilasciare i certificati di conformita' o di controllo.
+## Art. 9.
 
-Art. 9
-------
+La vigilanza sul materiale elettrico e sulla regolarita' delle certificazioni oggetto del presente decreto e' demandata al Ministero dell'industria, del commercio e dell'artigianato, che ha facolta' di disporre accertamenti direttamente o a mezzo di istituti, enti o laboratori appositamente autorizzati.
+ Qualora il Ministero dell'industria, del commercio e dell'artigianato riscontri che il materiale, quantunque conforme alle prescrizioni delle direttive particolari in materia, possa mettere in pericolo la sicurezza, puo' evitarne temporaneamente o sottoporne a condizioni particolari l'immissione sul mercato.
 
-  
-La vigilanza sul materiale elettrico e sulla regolarita' delle certificazioni oggetto del presente decreto e' demandata al Ministero dell'industria, del commercio e dell'artigianato, che ha facolta' di disporre accertamenti direttamente o a mezzo di istituti, enti o laboratori appositamente autorizzati.  
-Qualora il Ministero dell'industria, del commercio e dell'artigianato riscontri che il materiale, quantunque conforme alle prescrizioni delle direttive particolari in materia, possa mettere in pericolo la sicurezza, puo' evitarne temporaneamente o sottoporne a condizioni particolari l'immissione sul mercato.  
+## Art. 10.
 
-Art. 10
--------
+Chiunque viola le disposizioni di cui al primo comma del precedente art. 4 e' punito con l'ammenda da lire 100.000 a lire 5 milioni o con l'arresto fino ad un anno. 
+ Salvo che il fatto costituisca reato: 
+ a) chiunque viola la disposizione di cui al secondo comma del precedente art. 7 e' soggetto alla sanzione pecuniaria amministrativa del pagamento di una somma da L. 100.000 a lire 2 milioni; 
+ b) chiunque viola la disposizione di cui al quarto comma del precedente art. 7 e' soggetto alla sanzione pecuniaria amministrativa del pagamento di una somma da L. 30.000 a L. 100.000. 
+ Per l'irrogazione delle predette sanzioni amministrative pecuniarie e per l'applicazione delle relative sanzioni accessorie si applicano le disposizioni di cui alla [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689). 
+ Fino all'emanazione del decreto del Presidente della Repubblica previsto all'art. 17, settimo comma, della legge di cui al comma precedente, si applicano in via transitoria le disposizioni di cui al [decreto del Presidente della Repubblica 13 maggio 1976, n. 407](../DPR/Individuazione%20degli%20uffici%20periferici%20dei%20Ministeri%20cui%20sono%20demandate%20attribuzioni%20per%20lapplicazione%20del%20sistema%20sanzionatorio%20previsto%20dalla%20legge%2024%20dicembre%201975%20n.%20706.md), che individuano gli uffici periferici dei Ministeri cui sono demandate attribuzioni per l'applicazione del sistema sanzionatorio previsto dalla [legge 24 dicembre 1975, n. 706](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sistema%20sanzionatorio%20delle%20norme%20che%20prevedono%20contravvenzioni%20punibili%20con%20lammenda.md), nonche' le disposizioni di cui agli articoli da 3 a 9 e 13 di quest'ultima legge.
 
-  
-  
-Chiunque viola le disposizioni di cui al primo comma del precedente art. 4 e' punito con l'ammenda da lire 100.000 a lire 5 milioni o con l'arresto fino ad un anno.   
-Salvo che il fatto costituisca reato:   
-a) chiunque viola la disposizione di cui al secondo comma del precedente art. 7 e' soggetto alla sanzione pecuniaria amministrativa del pagamento di una somma da L. 100.000 a lire 2 milioni;   
-b) chiunque viola la disposizione di cui al quarto comma del precedente art. 7 e' soggetto alla sanzione pecuniaria amministrativa del pagamento di una somma da L. 30.000 a L. 100.000.   
-Per l'irrogazione delle predette sanzioni amministrative pecuniarie e per l'applicazione delle relative sanzioni accessorie si applicano le disposizioni di cui alla [legge 24 novembre 1981, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689).   
-Fino all'emanazione del decreto del Presidente della Repubblica previsto all'art. 17, settimo comma, della legge di cui al comma precedente, si applicano in via transitoria le disposizioni di cui al [decreto del Presidente della Repubblica 13 maggio 1976, n. 407](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-05-13;407), che individuano gli uffici periferici dei Ministeri cui sono demandate attribuzioni per l'applicazione del sistema sanzionatorio previsto dalla [legge 24 dicembre 1975, n. 706](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-12-24;706), nonche' le disposizioni di cui agli articoli da 3 a 9 e 13 di quest'ultima legge.   
+## Art. 11.
 
-Art. 11
--------
-
-  
-Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
-  
+Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 luglio 1982
+Dato a Roma, addi' 21 luglio 1982
 
-PERTINI SPADOLINI - ABIS - COLOMBO - ANDREATTA - MARCORA - DARIDA
-
-Visto, il Guardasigilli: DARIDA
-
-Registrato alla Corte dei conti, addi' 7 ottobre 1982
-
-Atti di Governo, registro n. 42, foglio n. 26
+PERTINI SPADOLINI - ABIS - COLOMBO - ANDREATTA - MARCORA - DARIDA Visto, il Guardasigilli: DARIDA Registrato alla Corte dei conti, addi' 7 ottobre 1982 Atti di Governo, registro n. 42, foglio n. 26

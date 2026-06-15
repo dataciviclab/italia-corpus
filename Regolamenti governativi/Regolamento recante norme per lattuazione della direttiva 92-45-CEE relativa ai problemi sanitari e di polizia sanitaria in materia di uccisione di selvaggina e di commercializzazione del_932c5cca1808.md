@@ -1,110 +1,101 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1996 n. 607
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 607
+data: 1996-10-17
+titolo: "Regolamento recante norme per l'attuazione della direttiva 92/45/CEE relativa ai problemi sanitari e di polizia sanitaria in materia di uccisione di selvaggina e di commercializzazione delle relative carni."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1996-10-17;607
+codice_redazionale: 096G0630
+vigente: true
+---
 
+## DISPOSIZIONI GENERALI
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1996 n. 607
-==============================================================
+Capo I
 
-Regolamento recante norme per l'attuazione della direttiva 92/45/CEE relativa ai problemi sanitari e di polizia sanitaria in materia di uccisione di selvaggina e di commercializzazione delle relative carni.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del decreto: 14/12/1996
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193 ))
 
-CAPO I Capo I DISPOSIZIONI GENERALI
------------------------------------
+### Art. 2.
 
-### Art. 1
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193 ))
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
+## DISPOSIZIONI APPLICABILI ALLA PRODUZIONE E AGLI SCAMBI
 
-### Art. 2
+Capo II
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
+### Art. 3.
 
-CAPO II Capo II DISPOSIZIONI APPLICABILI ALLA PRODUZIONE E AGLI SCAMBI
-----------------------------------------------------------------------
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193 ))
 
-### Art. 3
+### Art. 4.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193 ))
 
-### Art. 4
+### Art. 5.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193 ))
 
-### Art. 5
+### Art. 6.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193 ))
 
-### Art. 6
+### Art. 7.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193 ))
 
-### Art. 7
+### Art. 8.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193 ))
 
-### Art. 8
+### Art. 9.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193 ))
 
-### Art. 9
+### Art. 10.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193 ))
 
-### Art. 10
+### Art. 11.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193 ))
 
-### Art. 11
+### Art. 12.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193 ))
 
-### Art. 12
+### Art. 13.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193 ))
 
-### Art. 13
+### Art. 14.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193 ))
 
-### Art. 14
+## DISPOSIZIONI APPLICABILI ALLE IMPORTAZIONI NELLA COMUNITA'
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
+Capo III
 
-CAPO III Capo III DISPOSIZIONI APPLICABILI ALLE IMPORTAZIONI NELLA COMUNITA'
-----------------------------------------------------------------------------
+### Art. 15.
 
-### Art. 15
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193 ))
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
+### Art. 16.
 
-### Art. 16
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193 ))
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
+### Art. 17.
 
-### Art. 17
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193 ))
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
+### Art. 18.
 
-### Art. 18
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193 ))
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
+## DISPOSIZIONI FINALI
 
-CAPO IV Capo IV DISPOSIZIONI FINALI
------------------------------------
+Capo IV
 
-### Art. 19
+### Art. 19.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
-
-Allegato I
-
- ALLEGATO I   
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
-
-Allegato II
-
- ALLEGATO II   
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193 ))

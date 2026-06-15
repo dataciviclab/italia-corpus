@@ -1,75 +1,61 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1997 n. 51
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 51
+data: 1997-01-29
+titolo: "Regolamento di attuazione dell'articolo 14 della legge 7 marzo 1996, n. 108, concernente il Fondo di solidarieta' per le vittime dell'usura."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1997-01-29;51
+codice_redazionale: 097G0081
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1997 n. 51
-=============================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 16 AGOSTO 1999, N. 455))
 
-Regolamento di attuazione dell'articolo 14 della legge 7 marzo 1996, n. 108, concernente il Fondo di solidarieta' per le vittime dell'usura.
---------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 26-3-1997
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 16 AGOSTO 1999, N. 455))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 16 AGOSTO 1999, N. 455](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1999-08-16;455)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 16 AGOSTO 1999, N. 455))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 16 AGOSTO 1999, N. 455](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1999-08-16;455)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 16 AGOSTO 1999, N. 455))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 16 AGOSTO 1999, N. 455](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1999-08-16;455)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 16 AGOSTO 1999, N. 455))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 16 AGOSTO 1999, N. 455](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1999-08-16;455)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 16 AGOSTO 1999, N. 455))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 16 AGOSTO 1999, N. 455](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1999-08-16;455)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 16 AGOSTO 1999, N. 455))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 16 AGOSTO 1999, N. 455](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1999-08-16;455)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 16 AGOSTO 1999, N. 455))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 16 AGOSTO 1999, N. 455](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1999-08-16;455)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 16 AGOSTO 1999, N. 455))
 
-Art. 8
-------
+## Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 16 AGOSTO 1999, N. 455](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1999-08-16;455)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 16 AGOSTO 1999, N. 455))
 
-Art. 9
-------
+## Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 16 AGOSTO 1999, N. 455](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1999-08-16;455)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 16 AGOSTO 1999, N. 455))
 
-Art. 10
--------
+## Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 16 AGOSTO 1999, N. 455](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1999-08-16;455)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 16 AGOSTO 1999, N. 455))
 
-Art. 11
--------
+## Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 16 AGOSTO 1999, N. 455](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1999-08-16;455)))
-
-Art. 12
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 16 AGOSTO 1999, N. 455](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1999-08-16;455)))
-
-Art. 13
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 16 AGOSTO 1999, N. 455](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1999-08-16;455)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 16 AGOSTO 1999, N. 455))

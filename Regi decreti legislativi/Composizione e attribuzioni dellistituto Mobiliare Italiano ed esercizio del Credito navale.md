@@ -1,33 +1,29 @@
-REGIO DECRETO LEGISLATIVO 02 giugno 1946 n. 491
+---
+tipo: REGIO DECRETO LEGISLATIVO
+numero: 491
+data: 1946-06-02
+titolo: "Composizione e attribuzioni dell'istituto Mobiliare Italiano ed esercizio del Credito navale."
+urn: urn:nir:stato:regio.decreto.legislativo:1946-06-02;491
+codice_redazionale: 046U0491
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO LEGISLATIVO 02 giugno 1946 n. 491
-===============================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-Composizione e attribuzioni dell'istituto Mobiliare Italiano ed esercizio del Credito navale.
----------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+## Art. 3.
 
-Art. 2
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+## Art. 4.
 
-Art. 3
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+## Art. 5.
 
-Art. 4
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
-
-Art. 5
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))

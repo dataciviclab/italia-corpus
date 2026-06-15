@@ -1,54 +1,27 @@
-LEGGE 19 febbraio 1992 n. 163
-
-
-LEGGE 19 febbraio 1992 n. 163
-=============================
-
-Conversione in legge del decreto-legge 18 gennaio 1992, n. 10, recante rinvio delle elezioni dei consigli comunali gia' fissate per il 15 marzo 1992.
------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore della legge: 27/02/1992
+---
+tipo: LEGGE
+numero: 163
+data: 1992-02-19
+titolo: "Conversione in legge del decreto-legge 18 gennaio 1992, n. 10, recante rinvio delle elezioni dei consigli comunali gia' fissate per il 15 marzo 1992."
+urn: urn:nir:stato:legge:1992-02-19;163
+codice_redazionale: 092G0196
+vigente: true
+---
 
 La Camera dei deputati ed il Senato della Repubblica hanno approvato;
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-PROMULGA
---------
+PROMULGA la seguente legge:
 
-la seguente legge:
+## Art. 1.
 
-Art. 1
-------
+1.
 
-1. E' convertito in legge il [decreto-legge 18 gennaio 1992, n. 10](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-01-18;10), recante rinvio delle elezioni dei consigli comunali gia' fissate per il 15 marzo 1992.
+E' convertito in legge il [decreto-legge 18 gennaio 1992, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-01-18;10), recante rinvio delle elezioni dei consigli comunali gia' fissate per il 15 marzo 1992.
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data a Roma, addi' 19 febbraio 1992
+Data a Roma, addi' 19 febbraio 1992
 
-COSSIGA
-
-ANDREOTTI, Presidente del Consiglio dei Ministri
-
-SCOTTI, Ministro dell'interno
-
-Visto, il Guardasigilli: MARTELLI AVVERTENZA:
-
-Il decreto-legge 18 gennaio 1992, n. 10, e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 15 del 20 gennaio 1992.
-
-In questa stessa Gazzetta Ufficiale, alla pag. 29, e'
-
-ripubblicato il testo del decreto-legge 18 gennaio 1992, n.
-
-10, corredato delle relative note, ai sensi dell'art. 8,
-
-comma 3, del regolamento di esecuzione del testo unico
-
-delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e
-
-sulle pubblicazioni ufficiali della Repubblica italiana, approvato con decreto del Presidente della Repubblica 14
-
-marzo 1986, n. 217.
+COSSIGA ANDREOTTI, Presidente del Consiglio dei Ministri SCOTTI, Ministro dell'interno Visto, il Guardasigilli: MARTELLI AVVERTENZA: Il decreto-legge 18 gennaio 1992, n. 10, e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 15 del 20 gennaio 1992. In questa stessa Gazzetta Ufficiale, alla pag. 29, e' ripubblicato il testo del decreto-legge 18 gennaio 1992, n. 10, corredato delle relative note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con decreto del Presidente della Repubblica 14 marzo 1986, n. 217.

@@ -1,35 +1,29 @@
-DECRETO LEGISLATIVO 04 agosto 1999 n. 343
+---
+tipo: DECRETO LEGISLATIVO
+numero: 343
+data: 1999-08-04
+titolo: "Attuazione della direttiva 95/26/CE in materia di rafforzamento della vigilanza prudenziale nel settore assicurativo."
+urn: urn:nir:stato:decreto.legislativo:1999-08-04;343
+codice_redazionale: 099G0417
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 04 agosto 1999 n. 343
-=========================================
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-Attuazione della direttiva 95/26/CE in materia di rafforzamento della vigilanza prudenziale nel settore assicurativo.
----------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 20/10/1999
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-Art. 1
-------
+## Art. 3.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 SETTEMBRE 2005, N. 209](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-07;209) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-Art. 2
-------
+## Art. 4.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 SETTEMBRE 2005, N. 209](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-07;209) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-Art. 3
-------
+## Art. 5.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 SETTEMBRE 2005, N. 209](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-07;209) ))
-
-Art. 4
-------
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 SETTEMBRE 2005, N. 209](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-07;209) ))
-
-Art. 5
-------
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 SETTEMBRE 2005, N. 209](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-07;209) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))

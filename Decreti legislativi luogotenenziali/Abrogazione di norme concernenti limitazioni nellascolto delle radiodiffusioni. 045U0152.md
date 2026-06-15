@@ -1,23 +1,21 @@
-DECRETO LEGISLATIVO LUOGOTENENZIALE 03 marzo 1945 n. 152
+---
+tipo: DECRETO LEGISLATIVO LUOGOTENENZIALE
+numero: 152
+data: 1945-03-03
+titolo: "Abrogazione di norme concernenti limitazioni nell'ascolto delle radiodiffusioni. (045U0152)"
+urn: urn:nir:stato:decreto.legislativo.luogotenenziale:1945-03-03;152
+codice_redazionale: 045U0152
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO LUOGOTENENZIALE 03 marzo 1945 n. 152
-========================================================
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-Abrogazione di norme concernenti limitazioni nell'ascolto delle radiodiffusioni. (045U0152)
--------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+## Art. 3.
 
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

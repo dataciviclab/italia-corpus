@@ -1,60 +1,49 @@
-DECRETO LEGISLATIVO 17 marzo 1995 n. 115
+---
+tipo: DECRETO LEGISLATIVO
+numero: 115
+data: 1995-03-17
+titolo: "Attuazione della direttiva 92/59/CEE relativa alla sicurezza generale dei prodotti."
+urn: urn:nir:stato:decreto.legislativo:1995-03-17;115
+codice_redazionale: 095G0150
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 17 marzo 1995 n. 115
-========================================
+((IL [D. LGS. 6 SETTEMBRE 2005, N. 206](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Attuazione della direttiva 92/59/CEE relativa alla sicurezza generale dei prodotti.
------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 5-5-1995
+((IL [D. LGS. 6 SETTEMBRE 2005, N. 206](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 1
-------
+## Art. 3.
 
-((IL [D. LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))  
+((IL [D. LGS. 6 SETTEMBRE 2005, N. 206](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 2
-------
+## Art. 4.
 
-((IL [D. LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))  
+((IL [D. LGS. 6 SETTEMBRE 2005, N. 206](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 3
-------
+## Art. 5.
 
-((IL [D. LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))  
+((IL [D. LGS. 6 SETTEMBRE 2005, N. 206](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 4
-------
+## Art. 6.
 
-((IL [D. LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))  
+((IL [D. LGS. 6 SETTEMBRE 2005, N. 206](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 5
-------
+## Art. 7.
 
-((IL [D. LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))  
+((IL [D. LGS. 6 SETTEMBRE 2005, N. 206](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 6
-------
+## Art. 8.
 
-((IL [D. LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))  
+((IL [D. LGS. 6 SETTEMBRE 2005, N. 206](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 7
-------
+## Art. 9.
 
-((IL [D. LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))  
+((IL [D. LGS. 6 SETTEMBRE 2005, N. 206](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 8
-------
+## Art. 10.
 
-((IL [D. LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))  
-
-Art. 9
-------
-
-((IL [D. LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))  
-
-Art. 10
--------
-
-((IL [D. LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))  
+((IL [D. LGS. 6 SETTEMBRE 2005, N. 206](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))

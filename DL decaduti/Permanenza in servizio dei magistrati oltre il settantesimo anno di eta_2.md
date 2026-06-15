@@ -1,50 +1,35 @@
-DECRETO-LEGGE 30 aprile 1992 n. 275
+---
+tipo: DECRETO-LEGGE
+numero: 275
+data: 1992-04-30
+titolo: "Permanenza in servizio dei magistrati oltre il settantesimo anno di eta'."
+urn: urn:nir:stato:decreto.legge:1992-04-30;275
+codice_redazionale: 092G0317
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 30 aprile 1992 n. 275
-===================================
+DECRETO DECADUTO
 
-Permanenza in servizio dei magistrati oltre il settantesimo anno di eta'.
--------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 4/5/1992.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; GLI EFFETTI DEL COMMA 2 DEL PRESENTE 
+ ARTICOLO SONO STATI FATTI SALVI DALLA [L. 24 APRILE 1993, N. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-04-24;125)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO; GLI EFFETTI DEL COMMA 1 DEL PRESENTE 
+ ARTICOLO SONO STATI FATTI SALVI DALLA [L. 24 APRILE 1993, N. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-04-24;125)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; GLI EFFETTI DEL COMMA 2 DEL PRESENTE   
-ARTICOLO SONO STATI FATTI SALVI DALLA [L. 24 APRILE 1993, N. 125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-04-24;125)
-  
+DECRETO DECADUTO
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; GLI EFFETTI DEL COMMA 1 DEL PRESENTE   
-ARTICOLO SONO STATI FATTI SALVI DALLA [L. 24 APRILE 1993, N. 125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-04-24;125)
-  
+DECRETO DECADUTO
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO   
-
-Art. 5
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 6
-------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

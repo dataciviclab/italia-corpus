@@ -1,40 +1,33 @@
-DECRETO-LEGGE 05 agosto 1996 n. 412
+---
+tipo: DECRETO-LEGGE
+numero: 412
+data: 1996-08-05
+titolo: "Interventi urgenti in materia sociale ed umanitaria."
+urn: urn:nir:stato:decreto.legge:1996-08-05;412
+codice_redazionale: 096G0442
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 05 agosto 1996 n. 412
-===================================
+DECRETO DECADUTO
 
-Interventi urgenti in materia sociale ed umanitaria.
-----------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 8/8/1996.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 3
-------
+## Art. 5.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 4
-------
+## Art. 6.
 
- DECRETO DECADUTO  
-
-Art. 5
-------
-
- DECRETO DECADUTO  
-
-Art. 6
-------
-
- DECRETO DECADUTO  
+DECRETO DECADUTO

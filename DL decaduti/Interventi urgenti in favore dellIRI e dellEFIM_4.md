@@ -1,22 +1,17 @@
-DECRETO-LEGGE 01 luglio 1992 n. 322
+---
+tipo: DECRETO-LEGGE
+numero: 322
+data: 1992-07-01
+titolo: "Interventi urgenti in favore dell'IRI e dell'EFIM."
+urn: urn:nir:stato:decreto.legge:1992-07-01;322
+codice_redazionale: 092G0372
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 01 luglio 1992 n. 322
-===================================
+DECRETO DECADUTO
 
-Interventi urgenti in favore dell'IRI e dell'EFIM.
---------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 2/7/1992.Decreto-Legge decaduto per mancata conversione.
-
-Art. 1
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 2
-------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

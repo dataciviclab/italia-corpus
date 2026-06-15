@@ -1,14 +1,14 @@
-DECRETO 30 dicembre 1992 n. 577
-
-
-DECRETO 30 dicembre 1992 n. 577
-===============================
-
-Regolamento recante norme sui trattamenti pensionistici per attivita' svolte all'estero e per i residenti all'estero.
----------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO
+numero: 577
+data: 1992-12-30
+titolo: "Regolamento recante norme sui trattamenti pensionistici per attivita' svolte all'estero e per i residenti all'estero."
+urn: urn:nir:ministero.lavoro.e.previdenza.sociale:decreto:1992-12-30;577
+codice_redazionale: 093G0213
+vigente: true
+---
 
 IL MINISTRO DEL LAVORO
-----------------------
 
 E DELLA PREVIDENZA SOCIALE
 
@@ -20,78 +20,72 @@ E
 
 IL MINISTRO DEL TESORO
 
-Vista la [legge 29 dicembre 1990, n. 407](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-29;407), recante "Disposizioni di- verse per l'attuazione della manovra di finanza pubblica 1991-1993";
+Vista la [legge 29 dicembre 1990, n. 407](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20diverse%20per%20lattuazione%20della%20manovra%20di%20finanza%20pubblica%201991-1993.md), recante "Disposizioni di- verse per l'attuazione della manovra di finanza pubblica 1991-1993";
 
-Visto in particolare l'art. 7, comma 4, della predetta legge, che prevede l'emanazione di norme regolamentari di attuazione dell'[art. 8, comma 2, della legge 30 aprile 1969, n. 153](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-30;153~art8-com2), come sostituito dal comma 1 dell'articolo stesso;
+Visto in particolare l'art. 7, comma 4, della predetta legge, che prevede l'emanazione di norme regolamentari di attuazione dell'[art. 8, comma 2, della legge 30 aprile 1969, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-30;153#art_8-com2), come sostituito dal comma 1 dell'articolo stesso;
 
-Vista la [legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), ed in particolare l'art. 17, comma 3, che, nel fissare i criteri per l'emanazione dei regolamenti ministeriali, stabilisce che gli stessi debbano essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione;
+Vista la [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), ed in particolare l'art. 17, comma 3, che, nel fissare i criteri per l'emanazione dei regolamenti ministeriali, stabilisce che gli stessi debbano essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione;
 
 Udito il parere del Consiglio di Stato espresso nella Adunanza Generale del 4 giugno 1992;
 
-Vista la comunicazione al Presidente del Consiglio dei Ministri, a norma dell'art. 17, comma 3, della citata [legge n. 400 del 1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400) (nota n. 1/1.14/31890.4.14.13 del 28 luglio 1992);
+Vista la comunicazione al Presidente del Consiglio dei Ministri, a norma dell'art. 17, comma 3, della citata [legge n. 400 del 1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400) (nota n. 1/1.14/31890.4.14.13 del 28 luglio 1992);
 
 A D O T T A il seguente regolamento:
 
-Art. 1
-------
+## Art. 1. — Campo di applicazione personale
 
-Campo di applicazione personale
+1.
 
-1. La norma di cui all'[art. 7, comma 1, della legge 29 dicembre 1990, n. 407](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-29;407~art7-com1), si applica sia ai lavoratori dipendenti, compresi i minatori, sia ai lavoratori autonomi, in analogia con quanto disposto dal comma 3 dello stesso articolo.
+La norma di cui all'[art. 7, comma 1, della legge 29 dicembre 1990, n. 407](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20diverse%20per%20lattuazione%20della%20manovra%20di%20finanza%20pubblica%201991-1993.md), si applica sia ai lavoratori dipendenti, compresi i minatori, sia ai lavoratori autonomi, in analogia con quanto disposto dal comma 3 dello stesso articolo.
 
-AVVERTENZA:  
-Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.  
-Note alle premesse:  
-La [legge n. 407/1990](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;407), reca: "Disposizione diverse per l'attuazione della manovra di finanza pubblica 1991-1993".  
-Si trascrive il testo dell'intero art. 7 di detta legge:  
-"Art. 7 (Trattamenti pensionistici per le attivita' svolte all'estero e per i residenti all'estero). - 1. Il [secondo comma dell'art. 8 della legge 30 aprile 1969, n. 153](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-30;153~art8-com2), e' sostituito dal seguente:  
-'I trattamenti minimi di cui al precedente comma sono dovuti anche ai titolari di pensione il cui diritto sia acquisito in virtu' del cumulo dei periodi assicurativi e contributivi previsto da accordi o convenzioni internazionali in materia di assicurazione sociale, a condizione che l'assicurato possa far valere nella competente gestione pensionistica un'anzianita' contributiva in costanza di rapporto di lavoro svolto in Italia non infeiore a un anno'.  
-2. Al [sesto comma dell'art. 20 del decreto del Presidente della Repubblica 27 aprile 1968, n. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-04-27;488~art20-com6), come sostituito dall'[art. 20 della legge 30 aprile 1969, n. 153](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-30;153~art20), sono abrogate le parole: 'ne' alle pensioni corrisposte a coloro che svolgono attivita' lavorativa alle dipendenze di terzi fuori del territorio nazionale'. Sono altresi' abrogati all'[ottavo comma dell'art. 22 della legge 30 aprile 1969, n. 153](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-30;153~art22-com8), inserito dall'[art. 23-quinquies del decreto-legge 30 giugno 1972, n. 267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-06-30;267~art23quinquies), convertito, con modificazioni, dalla [legge 11 agosto 1972, n. 485](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1972-08-11;485), le parole: 'nonche' fuori del territorio nazionale' e l'[art.  
-9- bis del decreto-legge 12 settembre 1983, n. 463](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;463~art9bis), convertito, con modificazioni, dalla [legge 11 novembre 1983, n. 638](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-11-11;638).  
-3. A decorrere dal 1 gennaio 1991, le pensioni dell'assicurazione generale obbligatoria per l'invalidita', la vecchiaia ed i superstiti dei lavoratori dipendenti, della gestione speciale minatori e delle gestioni previdenziali dei lavoratori autonomi integrate al trattamento minimo erogate a pensionati residenti all'estero, liquidate con il regime della totalizzazione dei periodi assicurativi italiani relativi ad anzianita' contributive in costanza di rapporto di lavoro inferiori a un anno, restano confermate nell'importo in pagamento al 1 gennaio 1991 fino a quando l'importo dell'integrazione al trattamento minimo non venga assorbito dalla perequazione della pensione base.  
-4. Con decreto del Ministro del lavoro e della previdenza sociale, di concerto con i Ministri degli affari esteri e del tesoro, sono emanate le norme regolamentari di attuazione del [secondo comma dell'art. 8 della legge 30 aprile 1969, n. 153](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-30;153~art8-com2), come sostituito dal comma 1 del presente articolo".  
-- Il [comma 3 dell'art. 17 della legge n. 400/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.  
-Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.  
-Nota all'art. 1:  
-- Per il testo dell'[art. 7 della legge n. 407/1990](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;407~art7) si veda in nota alle premesse.
+AVVERTENZA:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Note alle premesse:
+ La [legge n. 407/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;407), reca: "Disposizione diverse per l'attuazione della manovra di finanza pubblica 1991-1993".
+ Si trascrive il testo dell'intero art. 7 di detta legge:
+ "Art. 7 (Trattamenti pensionistici per le attivita' svolte all'estero e per i residenti all'estero). - 1. Il [secondo comma dell'art. 8 della legge 30 aprile 1969, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-30;153#art_8-com2), e' sostituito dal seguente:
+ 'I trattamenti minimi di cui al precedente comma sono dovuti anche ai titolari di pensione il cui diritto sia acquisito in virtu' del cumulo dei periodi assicurativi e contributivi previsto da accordi o convenzioni internazionali in materia di assicurazione sociale, a condizione che l'assicurato possa far valere nella competente gestione pensionistica un'anzianita' contributiva in costanza di rapporto di lavoro svolto in Italia non infeiore a un anno'.
+ 2. Al [sesto comma dell'art. 20 del decreto del Presidente della Repubblica 27 aprile 1968, n. 488](../DPR/Aumento%20e%20nuovo%20sistema%20di%20calcolo%20delle%20pensioni%20a%20carico%20dellassicurazione%20generale%20obbligatoria.md), come sostituito dall'[art. 20 della legge 30 aprile 1969, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-30;153#art_20), sono abrogate le parole: 'ne' alle pensioni corrisposte a coloro che svolgono attivita' lavorativa alle dipendenze di terzi fuori del territorio nazionale'. Sono altresi' abrogati all'[ottavo comma dell'art. 22 della legge 30 aprile 1969, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-30;153#art_22-com8), inserito dall'[art. 23-quinquies del decreto-legge 30 giugno 1972, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-06-30;267#art_23quinquies), convertito, con modificazioni, dalla [legge 11 agosto 1972, n. 485](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20giugno%201972%20n.%20267%20concernente%20miglioramenti%20ad%20alcuni%20trattamenti%20pensionistici%20ed%20assistenziali.md), le parole: 'nonche' fuori del territorio nazionale' e l'[art.
+ 9- bis del decreto-legge 12 settembre 1983, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;463#art_9bis), convertito, con modificazioni, dalla [legge 11 novembre 1983, n. 638](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20settembre%201983%20n.%20463%20recante%20misure%20urgenti%20in%20materia%20previdenziale%20e%20sanitaria%20e%20per%20il%20contenimento%20della%20spesa%20pubblica%20di_f3f924b1a07d.md).
+ 3. A decorrere dal 1 gennaio 1991, le pensioni dell'assicurazione generale obbligatoria per l'invalidita', la vecchiaia ed i superstiti dei lavoratori dipendenti, della gestione speciale minatori e delle gestioni previdenziali dei lavoratori autonomi integrate al trattamento minimo erogate a pensionati residenti all'estero, liquidate con il regime della totalizzazione dei periodi assicurativi italiani relativi ad anzianita' contributive in costanza di rapporto di lavoro inferiori a un anno, restano confermate nell'importo in pagamento al 1 gennaio 1991 fino a quando l'importo dell'integrazione al trattamento minimo non venga assorbito dalla perequazione della pensione base.
+ 4. Con decreto del Ministro del lavoro e della previdenza sociale, di concerto con i Ministri degli affari esteri e del tesoro, sono emanate le norme regolamentari di attuazione del [secondo comma dell'art. 8 della legge 30 aprile 1969, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-30;153#art_8-com2), come sostituito dal comma 1 del presente articolo".
+ - Il [comma 3 dell'art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.
+ Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
+ Nota all'art. 1:
+ - Per il testo dell'[art. 7 della legge n. 407/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;407#art_7) si veda in nota alle premesse.
 
-Art. 2
-------
+## Art. 2. — Anzianita' contributiva in costanza di rapporto di lavoro
 
-Anzianita' contributiva in costanza di rapporto di lavoro
+1.
 
-1. Ai fini del raggiungimento, nella competente gestione pensionistica, del requisito di anzianita' contributiva in costanza di rapporto di lavoro svolto in Italia, sono da considerarsi utili i seguenti contributi:  
-contribuzione versata a favore del lavoratore in relazione sia ad attivita' lavorativa dipendente che autonoma, con onere finanziario a suo carico e/o a carico del datore di lavoro o con trasferimento da altri enti di previdenza;  
-riscatti effettuati ai sensi dell'[art. 51, comma 2, della legge 30 aprile 1969, n. 153](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-30;153~art51-com2);  
-contributi trasferiti da altri Stati in applicazione di apposite norme internazionali comportanti annullamento della posizione assicurativa estera;  
-contributi figurativi accreditati per eventi verificatisi in costanza di rapporto di lavoro.
+Ai fini del raggiungimento, nella competente gestione pensionistica, del requisito di anzianita' contributiva in costanza di rapporto di lavoro svolto in Italia, sono da considerarsi utili i seguenti contributi:
+ contribuzione versata a favore del lavoratore in relazione sia ad attivita' lavorativa dipendente che autonoma, con onere finanziario a suo carico e/o a carico del datore di lavoro o con trasferimento da altri enti di previdenza;
+ riscatti effettuati ai sensi dell'[art. 51, comma 2, della legge 30 aprile 1969, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-30;153#art_51-com2);
+ contributi trasferiti da altri Stati in applicazione di apposite norme internazionali comportanti annullamento della posizione assicurativa estera;
+ contributi figurativi accreditati per eventi verificatisi in costanza di rapporto di lavoro.
 
-2. Sono invece da escludere per il raggiungimento del predetto requisito:  
-i contributi da riscatto del corso legale di laurea in cui all'[art. 2-novies del decreto-legge 2 marzo 1974, n. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1974-03-02;30~art2novies), convertito, con modificazioni, dalla [legge 16 aprile 1974, n. 114](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-04-16;114);  
-i contributi volontari;  
-i contributi figurativi accreditati per eventi verificatisi non in costanza di rapporto di lavoro.
+2.
 
-Note all'[art. 2:  
-- La legge n. 153/1969](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969;153~art2) reca la revisione degli ordinamenti pensionistici e norme in materia di sicurezza sociale. Si trascrive il testo del secondo comma del relativo art. 51: "La facolta' di riscatto, da esercitarsi nei modi previsti dal citato [art. 13 della legge 12 agosto 1962, n. 1338](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-08-12;1338~art13), e' estesa a tutti i cittadini italiani che abbiano prestato lavoro subordinato all'estero, nel territorio libico o delle ex colonie, non coperto da assicurazione sociale riconosciuta dalla legislazione italiana".  
-- Il [D.L. n. 30/1974](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1974;30) detta norme per il miglioramento di alcuni trattamenti previdenziali e assistenziali. Si trascrive il testo del relativo art. 2-novies: "Art. 2-novies (Riscatto laurea). - Il periodo di corso legale di laurea e' riscattabile con le norme e le modalita' di cui all'[art. 13 della legge 12 agosto 1962, n. 1338](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-08-12;1338~art13). L'onere del riscatto e' ridotto del cinquanta per cento".
+Sono invece da escludere per il raggiungimento del predetto requisito:
+ i contributi da riscatto del corso legale di laurea in cui all'[art. 2-novies del decreto-legge 2 marzo 1974, n. 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1974-03-02;30#art_2novies), convertito, con modificazioni, dalla [legge 16 aprile 1974, n. 114](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201974%20n.%2030%20concernente%20norme%20per%20il%20miglioramento%20di%20alcuni%20trattamenti%20previdenziali%20ed%20assistenziali.md);
+ i contributi volontari;
+ i contributi figurativi accreditati per eventi verificatisi non in costanza di rapporto di lavoro.
 
-Art. 3
-------
+Note all'[art. 2:
+ - La legge n. 153/1969](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969;153#art_2) reca la revisione degli ordinamenti pensionistici e norme in materia di sicurezza sociale. Si trascrive il testo del secondo comma del relativo art. 51: "La facolta' di riscatto, da esercitarsi nei modi previsti dal citato [art. 13 della legge 12 agosto 1962, n. 1338](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-08-12;1338#art_13), e' estesa a tutti i cittadini italiani che abbiano prestato lavoro subordinato all'estero, nel territorio libico o delle ex colonie, non coperto da assicurazione sociale riconosciuta dalla legislazione italiana".
+ - Il [D.L. n. 30/1974](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1974;30) detta norme per il miglioramento di alcuni trattamenti previdenziali e assistenziali. Si trascrive il testo del relativo art. 2-novies: "Art. 2-novies (Riscatto laurea). - Il periodo di corso legale di laurea e' riscattabile con le norme e le modalita' di cui all'[art. 13 della legge 12 agosto 1962, n. 1338](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-08-12;1338#art_13). L'onere del riscatto e' ridotto del cinquanta per cento".
 
-Garanzia del trattamento minimo
+## Art. 3. — Garanzia del trattamento minimo
 
-1. Qualora il titolare di pensione residente in Italia abbia acquisito il diritto in virtu' del cumulo di periodi assicurativi e contributivi previsto da Regolamenti della Comunita' economica europea o da accordi internazionali in materia di sicurezza sociale che stabiliscano l'obbligo, per l'istituzione del Paese di residenza, di garantire sul proprio territorio l'importo del trattamento minimo, fissato dalla legge nazionale, quest'ultimo viene concesso, ferma restando la sussistenza degli altri requisiti, anche in assenza del requisito di cui all'[art. 7, comma 1, della legge 29 dicembre 1990, n. 407](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-29;407~art7-com1).
+1.
+
+Qualora il titolare di pensione residente in Italia abbia acquisito il diritto in virtu' del cumulo di periodi assicurativi e contributivi previsto da Regolamenti della Comunita' economica europea o da accordi internazionali in materia di sicurezza sociale che stabiliscano l'obbligo, per l'istituzione del Paese di residenza, di garantire sul proprio territorio l'importo del trattamento minimo, fissato dalla legge nazionale, quest'ultimo viene concesso, ferma restando la sussistenza degli altri requisiti, anche in assenza del requisito di cui all'[art. 7, comma 1, della legge 29 dicembre 1990, n. 407](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20diverse%20per%20lattuazione%20della%20manovra%20di%20finanza%20pubblica%201991-1993.md).
+
+Nota all'art. 3:
+ - Per il testo dell'[art. 7 della legge n. 407/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;407#art_7) si veda in nota alle premesse.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 30 dicembre 1992
+Roma, 30 dicembre 1992
 
-Il Ministro del lavoro e della previdenza sociale CRISTOFORI Il Ministro degli affari esteri COLOMBO p. Il Ministro del tesoro GIAGU DEMARTINI
-
-Visto, il Guardasigilli: MARTELLI Registrato alla Corte dei conti il 4 maggio 1993
-
-Registro n. 7 Lavoro, foglio n. 160
-
-Nota all'art. 3:  
-- Per il testo dell'[art. 7 della legge n. 407/1990](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;407~art7) si veda in nota alle premesse.
+Il Ministro del lavoro e della previdenza sociale CRISTOFORI Il Ministro degli affari esteri COLOMBO p. Il Ministro del tesoro GIAGU DEMARTINI Visto, il Guardasigilli: MARTELLI Registrato alla Corte dei conti il 4 maggio 1993 Registro n. 7 Lavoro, foglio n. 160

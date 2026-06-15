@@ -1,58 +1,39 @@
-DECRETO-LEGGE 01 febbraio 1994 n. 79
+---
+tipo: DECRETO-LEGGE
+numero: 79
+data: 1994-02-01
+titolo: "Misure urgenti in materia di partecipazione alla spesa sanitaria, di formazione dei medici e di farmacovigilanza."
+urn: urn:nir:stato:decreto.legge:1994-02-01;79
+codice_redazionale: 094G0093
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 01 febbraio 1994 n. 79
-====================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 19 LUGLIO 1994, N. 467](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20maggio%201994%20n.%20325%20recante%20misure%20urgenti%20in%20materia%20di%20partecipazione%20alla%20spesa%20sanitaria%20di%20formazione%20dei%20medici%20e%20di%20farmacovigilanza.md)
 
-Misure urgenti in materia di partecipazione alla spesa sanitaria, di formazione dei medici e di farmacovigilanza.
------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 3/2/1994.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 19 LUGLIO 1994, N. 467](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20maggio%201994%20n.%20325%20recante%20misure%20urgenti%20in%20materia%20di%20partecipazione%20alla%20spesa%20sanitaria%20di%20formazione%20dei%20medici%20e%20di%20farmacovigilanza.md)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 19 LUGLIO 1994, N. 467](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-19;467)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 19 LUGLIO 1994, N. 467](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20maggio%201994%20n.%20325%20recante%20misure%20urgenti%20in%20materia%20di%20partecipazione%20alla%20spesa%20sanitaria%20di%20formazione%20dei%20medici%20e%20di%20farmacovigilanza.md)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 19 LUGLIO 1994, N. 467](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-19;467)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 19 LUGLIO 1994, N. 467](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20maggio%201994%20n.%20325%20recante%20misure%20urgenti%20in%20materia%20di%20partecipazione%20alla%20spesa%20sanitaria%20di%20formazione%20dei%20medici%20e%20di%20farmacovigilanza.md)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 19 LUGLIO 1994, N. 467](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-19;467)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 19 LUGLIO 1994, N. 467](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20maggio%201994%20n.%20325%20recante%20misure%20urgenti%20in%20materia%20di%20partecipazione%20alla%20spesa%20sanitaria%20di%20formazione%20dei%20medici%20e%20di%20farmacovigilanza.md)
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 19 LUGLIO 1994, N. 467](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-19;467)
-  
-
-Art. 5
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 19 LUGLIO 1994, N. 467](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-19;467)
-  
-
-Art. 6
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 19 LUGLIO 1994, N. 467](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-19;467)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 19 LUGLIO 1994, N. 467](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20maggio%201994%20n.%20325%20recante%20misure%20urgenti%20in%20materia%20di%20partecipazione%20alla%20spesa%20sanitaria%20di%20formazione%20dei%20medici%20e%20di%20farmacovigilanza.md)

@@ -1,136 +1,131 @@
-DECRETO 16 gennaio 1995 n. 70
-
-
-DECRETO 16 gennaio 1995 n. 70
-=============================
-
-Regolamento recante modificazione al decreto del Presidente della Repubblica 25 agosto 1980, n. 391, e successive modificazioni, in materia di imballaggi preconfezionati e gamme di quantita' e capacita' nominale.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 16/3/1995
+---
+tipo: DECRETO
+numero: 70
+data: 1995-01-16
+titolo: "Regolamento recante modificazione al decreto del Presidente della Repubblica 25 agosto 1980, n. 391, e successive modificazioni, in materia di imballaggi preconfezionati e gamme di quantita' e capacita' nominale."
+urn: urn:nir:ministero.industria.commercio.e.artigianato:decreto:1995-01-16;70
+codice_redazionale: 095G0099
+vigente: true
+---
 
 IL MINISTRO DELL'INDUSTRIA
---------------------------
 
 DEL COMMERCIO E DELL'ARTIGIANATO
 
-Visto l'[art. 9 della legge 25 ottobre 1978, n. 690](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-10-25;690~art9), relativa all'adeguamento dell'ordinamento interno alla direttiva del Consiglio delle Comunita' europee n. 76/211/CEE, con il quale e' stata conferita al Governo una delega legislativa per la revisione della disciplina metrologica del preconfezionamento in massa o in volume di alcuni prodotti in imballaggi preconfezionati;
+Visto l'[art. 9 della legge 25 ottobre 1978, n. 690](../Atti%20di%20recepimento%20direttive%20UE/Adeguamento%20dellordinamento%20interno%20alla%20direttiva%20del%20consiglio%20delle%20Comunita%20europee%20n.%2076-211-CEE%20relativa%20al%20precondizionamento%20in%20massa%20o%20in%20volume%20di%20alcuni%20prodotti%20in%20imballaggi%20_895a02ba5b9a.md), relativa all'adeguamento dell'ordinamento interno alla direttiva del Consiglio delle Comunita' europee n. 76/211/CEE, con il quale e' stata conferita al Governo una delega legislativa per la revisione della disciplina metrologica del preconfezionamento in massa o in volume di alcuni prodotti in imballaggi preconfezionati;
 
-Visto il [decreto del Presidente della Repubblica 26 maggio 1980, n. 391](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-05-26;391), adottato in attuazione della delega citata, concernente la disciplina metrologica del preconfezionamento in volume o in massa dei preimballaggi di tipo diverso da quello CEE;
+Visto il [decreto del Presidente della Repubblica 26 maggio 1980, n. 391](../DPR/Disciplina%20metrologica%20del%20preconfezionamento%20in%20volume%20o%20in%20massa%20dei%20preimballaggi%20di%20tipo%20diverso%20da%20quello%20C.E.E.md), adottato in attuazione della delega citata, concernente la disciplina metrologica del preconfezionamento in volume o in massa dei preimballaggi di tipo diverso da quello CEE;
 
-Visto il decreto del Ministro dell'industria, del commercio e dell'artigianato 12 giugno 1985, recante modifica delle gamme di quantita' nominali e capacita' nominali previste dal [decreto del Presidente della Repubblica 26 maggio 1980, n. 391](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-05-26;391), per taluni prodotti in imballaggi preconfezionati;
+Visto il decreto del Ministro dell'industria, del commercio e dell'artigianato 12 giugno 1985, recante modifica delle gamme di quantita' nominali e capacita' nominali previste dal [decreto del Presidente della Repubblica 26 maggio 1980, n. 391](../DPR/Disciplina%20metrologica%20del%20preconfezionamento%20in%20volume%20o%20in%20massa%20dei%20preimballaggi%20di%20tipo%20diverso%20da%20quello%20C.E.E.md), per taluni prodotti in imballaggi preconfezionati;
 
-Considerata l'opportunita', in relazione ad esigenze di produzione e di consumo, di stabilire, ai sensi dell'[art. 4, terzo comma, del decreto del Presidente della Repubblica n. 391/1980](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;391~art4-com3) sopracitato, gamme di capacita' nominali dei contenitori ampliate rispetto a quelle previste dall'allegato II, punto 2, del suddetto decreto n. 391/1980, cosi' come modificato dal decreto ministeriale 12 giugno 1985;
+Considerata l'opportunita', in relazione ad esigenze di produzione e di consumo, di stabilire, ai sensi dell'[art. 4, terzo comma, del decreto del Presidente della Repubblica n. 391/1980](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980;391#art_4-com3) sopracitato, gamme di capacita' nominali dei contenitori ampliate rispetto a quelle previste dall'allegato II, punto 2, del suddetto decreto n. 391/1980, cosi' come modificato dal decreto ministeriale 12 giugno 1985;
 
-Visto l'[art. 17, comma 4, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com4);
+Visto l'[art. 17, comma 4, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4);
 
-Udito il [parere del Consiglio di Stato n. 539/94](https://e-justice.europa.eu/ecli/ECLI::::) reso in adunanza generale del 22 settembre 1994;
+Udito il parere del Consiglio di Stato n. 539/94 reso in adunanza generale del 22 settembre 1994;
 
-Vista la nota n. 300039 del 16 gennaio 1995 con la quale e' stato assolto l'obbligo di comunicazione alla Presidenza del Consiglio dei Ministri di cui all'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3);
+Vista la nota n. 300039 del 16 gennaio 1995 con la quale e' stato assolto l'obbligo di comunicazione alla Presidenza del Consiglio dei Ministri di cui all'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
 E M A N A il seguente regolamento:
 
-Art. 1
-------
+## Art. 1.
 
-1. Il punto 2 dell'allegato II del [decreto del Presidente della Repubblica 26 maggio 1980, n. 391](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-05-26;391), cosi' come modificato dall'art. 2 del decreto del Ministro dell'industria, del commercio e dell'artigianato 12 giugno 1985, e' cosi' sostituito:  
-"2. Alimenti umidi per cani e gatti (capacita' in ml):  
-85 - 106 - 142 - 212 - 228 - 314 - 425 - 446 - 850 - 1062 - 1275 - 1700 2650 - 4250".  
-AVVERTENZA:  
-Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.  
-Note alle premesse:  
-- Il testo dell'[art. 9 della legge n. 690/1978](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978;690~art9) e' il seguente:  
-"Art. 9 (Delega al Governo). - Il Governo della Repubblica e' delegato ad emanare, entro diciotto mesi dalla data di entrata in vigore della presente legge, apposito decreto avente valore di legge ordinaria per la revisione della disciplina metrologica sul preconfezionamento in volume o in massa dei preimballaggi di tipo diverso da quello C.E.E. contemplato dalla presente legge, con l'osservanza dei seguenti criteri direttivi:  
-1) le iscrizioni concernenti il volume o la massa nominale devono essere normalizzate nelle loro caratteristiche dimensionali, nella loro ubicazione, nonche' nelle unita' di misura secondo cui il volume o la massa medesimi devono essere espressi;  
-2) i volumi o le masse nominali e gli errori massimi tollerati devono essere unificati secondo valori, ove possibile, coerenti con quelli previsti per i preimballaggi di tipo C.E.E.;  
-3) un codice deve consentire l'identificazione del lotto di appartenenza del preimballaggio;  
-4) nei casi in cui la quantita' contenuta nel preimballaggio non viene misurata all'atto stesso del preconfezionamento, ma e' controllata successivamente, dovra' essere precisato quando e' obbligatorio l'impiego di selezionatrici ponderali regolarmente legalizzate secondo le vigenti leggi metriche, ai fini di una idonea effettuazione del controllo medesimo;  
-5) i preimballaggi devono essere resi conformi alle nuove norme metrologiche fissate dal provvedimento delegato entro cinque anni dalla data della sua entrata in vigore".  
-- Il D.M. 12 giugno 1985 e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 144 del 20 giugno 1985.  
-- Il testo dell'intero [art. 4 del D.P.R. n. 391/1980](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;391~art4) e' il seguente:  
-"Art. 4 (Quantita' nominale). - I prodotti preimballati in quantita' nominali uguali o superiori a 5 g o 5 ml e inferiori o uguali a 10 kg o 10 l, contemplati negli allegati al presente decreto, devono essere posti in vendita esclusivamente:  
-a) per i prodotti previsti nell'allegato I, nelle masse o nei volumi nominali a fianco di ciascuno indicati.  
-Ove siano indicati termini speciali, la disposizione si applica a partire dalle date ivi contemplate;  
-b) per i prodotti previsti nell'allegato II se condizionati nei contenitori rigidi ivi specificati, in contenitori aventi le capacita' nominali indicate in detto allegato;  
-c) per i prodotti previsti nell'allegato III, nei volumi nominali e, se condizionati in contenitori metallici, in contenitori di capacita' nominali corrispondenti a quelle ivi fissate.  
-Con decreti del Ministro dell'industria, del commercio e dell'artigianato, possono essere stabilite per i preimballaggi contenenti prodotti non contemplati negli allegati al presente decreto, gamme di quantita' nominali e di capacita' nominali dei loro contenitori, corrispondenti, ove possibile, a quelle fissate negli stessi allegati per prodotti omogenei.  
-In relazione ad esigenze di produzione e di consumo, o ad impegni derivanti da convenzioni e trattati internazionali possono essere stabilite con decreti del Ministro dell'industria, del commercio e dell'artigianato, esenzioni dalle disposizioni dei commi precedenti, ovvero gamme di quantita' nominali o di capacita' nominali dei relativi contenitori rigidi ridotte, ampliate o comunque diverse da quelle sopra previste".  
-- Per il testo vigente dell'allegato II al citato [D.P.R.  
-n. 391/1980](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;391) si veda in nota all'art. 1.  
-- Il [comma 3 dell'art. 17 della legge n. 400/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.  
-Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
+1.
 
-Nota all'art. 1:  
-- Il testo dell'allegato II al citato [D.P.R. n. 391/1980](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;391), come modificato dall'art. 2 del D.M. 12 giugno 1985 e dal decreto qui pubblicato, e' il seguente:  
-"ALLEGATO II   
-GAMME DEI VALORI DELLE CAPACITA'  
-AMMESSE PER CONTENITORI  
-  
-Le norme EN 23, 1, seconda edizione (maggio 1978) e EN 76, prima edizione (dicembre 1978) sono applicabili eccettuati i casi in cui i prodotti e le gamme di capacita' previste da tali norme differiscono da quelle riportate nel presente allegato.  
-1. Conserve e semiconserve confezionate in scatole metalliche ed in imballaggi di vetro; prodotti vegetali (frutta, ortaggi, pomodori, patate, esclusi asparagi, minestre, succhi di frutta o di ortaggi e nettari di frutta) destinati all'alimentazione umana.  
-1.1 Scatole metalliche e imballaggi di vetro (capacita' in ml). 106 - 156 - 212 - 228 - 314 - 370 - 425 - 446 - 580 - 720 - 850 - 1062 -1700 2650-3100-4250-10200  
-1.1.1 Elenco supplementare per i bicchieri.  
-53-125-250  
-1.2 Elenco delle capacita' ammesse per i prodotti speciali (in ml):  
-- tartufi: 26-53-71-106-212-425-720-850  
-- pomodori:  
-concentrati: 71-142-212-370-425-720-850-3100-4250  
-pelati o non pelati: 236-370-425-580-720-850-2650-3100  
-- macedonie di frutta, frutta allo sciroppo: 106-156-212228-236 - 314 - 370 - 425 - 446 - 580 - 720 - 850 - 1062 - 1700 - 2650 3100 - 4250 - 10200  
-2. Alimenti umidi per cani e gatti (capacita' in ml).  
-85-106-142-212-228-314-425-446-850-1062-1275-1700-2650-4250 3. Prodotti in polvere per lavaggio e per pulitura.  
-3.1 Le capacita' degli imballaggi preconfezionati sono le seguenti:  
-  
-Scatola n. Volume in ml  
-- -  
-E 0,5 375  
-E 1 750  
-E 2 1500  
-E 3 2250  
-E 5 3750  
-E10 7700  
-E15 11450  
-E20 15200  
-E25 18950  
-E30 27700  
-Barili n. Volume in ml  
-- -  
-E 5 3950  
-E10 7700  
-E15 11450  
-E20 15200  
-E25 18950  
-E30 27700  
-  
-3.2 Le capacita' degli imballaggi preconfezionati senza limitazioni di forma e materiali sono le seguenti:  
-  
-Volume in ml  
--  
-375  
-750  
-1500  
-2250  
-3750  
-3950  
-5450  
-7700  
-11450  
-15200  
-18950  
-22700".
+Il punto 2 dell'allegato II del [decreto del Presidente della Repubblica 26 maggio 1980, n. 391](../DPR/Disciplina%20metrologica%20del%20preconfezionamento%20in%20volume%20o%20in%20massa%20dei%20preimballaggi%20di%20tipo%20diverso%20da%20quello%20C.E.E.md), cosi' come modificato dall'art. 2 del decreto del Ministro dell'industria, del commercio e dell'artigianato 12 giugno 1985, e' cosi' sostituito:
+ "2. Alimenti umidi per cani e gatti (capacita' in ml):
+85 - 106 - 142 - 212 - 228 - 314 - 425 - 446 - 850 - 1062 - 1275 - 1700 2650 - 4250".
+ AVVERTENZA:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Note alle premesse:
+ - Il testo dell'[art. 9 della legge n. 690/1978](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978;690#art_9) e' il seguente:
+ "Art. 9 (Delega al Governo). - Il Governo della Repubblica e' delegato ad emanare, entro diciotto mesi dalla data di entrata in vigore della presente legge, apposito decreto avente valore di legge ordinaria per la revisione della disciplina metrologica sul preconfezionamento in volume o in massa dei preimballaggi di tipo diverso da quello C.E.E. contemplato dalla presente legge, con l'osservanza dei seguenti criteri direttivi:
+ 1) le iscrizioni concernenti il volume o la massa nominale devono essere normalizzate nelle loro caratteristiche dimensionali, nella loro ubicazione, nonche' nelle unita' di misura secondo cui il volume o la massa medesimi devono essere espressi;
+ 2) i volumi o le masse nominali e gli errori massimi tollerati devono essere unificati secondo valori, ove possibile, coerenti con quelli previsti per i preimballaggi di tipo C.E.E.;
+ 3) un codice deve consentire l'identificazione del lotto di appartenenza del preimballaggio;
+ 4) nei casi in cui la quantita' contenuta nel preimballaggio non viene misurata all'atto stesso del preconfezionamento, ma e' controllata successivamente, dovra' essere precisato quando e' obbligatorio l'impiego di selezionatrici ponderali regolarmente legalizzate secondo le vigenti leggi metriche, ai fini di una idonea effettuazione del controllo medesimo;
+ 5) i preimballaggi devono essere resi conformi alle nuove norme metrologiche fissate dal provvedimento delegato entro cinque anni dalla data della sua entrata in vigore".
+ - Il D.M. 12 giugno 1985 e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 144 del 20 giugno 1985.
+ - Il testo dell'intero [art. 4 del D.P.R. n. 391/1980](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980;391#art_4) e' il seguente:
+ "Art. 4 (Quantita' nominale). - I prodotti preimballati in quantita' nominali uguali o superiori a 5 g o 5 ml e inferiori o uguali a 10 kg o 10 l, contemplati negli allegati al presente decreto, devono essere posti in vendita esclusivamente:
+ a) per i prodotti previsti nell'allegato I, nelle masse o nei volumi nominali a fianco di ciascuno indicati.
+ Ove siano indicati termini speciali, la disposizione si applica a partire dalle date ivi contemplate;
+ b) per i prodotti previsti nell'allegato II se condizionati nei contenitori rigidi ivi specificati, in contenitori aventi le capacita' nominali indicate in detto allegato;
+ c) per i prodotti previsti nell'allegato III, nei volumi nominali e, se condizionati in contenitori metallici, in contenitori di capacita' nominali corrispondenti a quelle ivi fissate.
+ Con decreti del Ministro dell'industria, del commercio e dell'artigianato, possono essere stabilite per i preimballaggi contenenti prodotti non contemplati negli allegati al presente decreto, gamme di quantita' nominali e di capacita' nominali dei loro contenitori, corrispondenti, ove possibile, a quelle fissate negli stessi allegati per prodotti omogenei.
+ In relazione ad esigenze di produzione e di consumo, o ad impegni derivanti da convenzioni e trattati internazionali possono essere stabilite con decreti del Ministro dell'industria, del commercio e dell'artigianato, esenzioni dalle disposizioni dei commi precedenti, ovvero gamme di quantita' nominali o di capacita' nominali dei relativi contenitori rigidi ridotte, ampliate o comunque diverse da quelle sopra previste".
+ - Per il testo vigente dell'allegato II al citato [D.P.R.
+ n. 391/1980](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980;391) si veda in nota all'art. 1.
+ - Il [comma 3 dell'art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.
+ Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
 
-Art. 2
-------
+Nota all'art. 1:
+ - Il testo dell'allegato II al citato [D.P.R. n. 391/1980](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980;391), come modificato dall'art. 2 del D.M. 12 giugno 1985 e dal decreto qui pubblicato, e' il seguente:
+ "ALLEGATO II 
+ GAMME DEI VALORI DELLE CAPACITA'
+ AMMESSE PER CONTENITORI
+ 
+ Le norme EN 23, 1, seconda edizione (maggio 1978) e EN 76, prima edizione (dicembre 1978) sono applicabili eccettuati i casi in cui i prodotti e le gamme di capacita' previste da tali norme differiscono da quelle riportate nel presente allegato.
+ 1. Conserve e semiconserve confezionate in scatole metalliche ed in imballaggi di vetro; prodotti vegetali (frutta, ortaggi, pomodori, patate, esclusi asparagi, minestre, succhi di frutta o di ortaggi e nettari di frutta) destinati all'alimentazione umana.
+ 1.1 Scatole metalliche e imballaggi di vetro (capacita' in ml). 106 - 156 - 212 - 228 - 314 - 370 - 425 - 446 - 580 - 720 - 850 - 1062 -1700 2650-3100-4250-10200
+ 1.1.1 Elenco supplementare per i bicchieri.
+ 53-125-250
+ 1.2 Elenco delle capacita' ammesse per i prodotti speciali (in ml):
+ - tartufi: 26-53-71-106-212-425-720-850
+ - pomodori:
+ concentrati: 71-142-212-370-425-720-850-3100-4250
+ pelati o non pelati: 236-370-425-580-720-850-2650-3100
+ - macedonie di frutta, frutta allo sciroppo: 106-156-212228-236 - 314 - 370 - 425 - 446 - 580 - 720 - 850 - 1062 - 1700 - 2650 3100 - 4250 - 10200
+ 2. Alimenti umidi per cani e gatti (capacita' in ml).
+ 85-106-142-212-228-314-425-446-850-1062-1275-1700-2650-4250 3. Prodotti in polvere per lavaggio e per pulitura.
+ 3.1 Le capacita' degli imballaggi preconfezionati sono le seguenti:
+ 
+ Scatola n. Volume in ml
+ - -
+ E 0,5 375
+ E 1 750
+ E 2 1500
+ E 3 2250
+ E 5 3750
+ E10 7700
+ E15 11450
+ E20 15200
+ E25 18950
+ E30 27700
+ Barili n. Volume in ml
+ - -
+ E 5 3950
+ E10 7700
+ E15 11450
+ E20 15200
+ E25 18950
+ E30 27700
+ 
+ 3.2 Le capacita' degli imballaggi preconfezionati senza limitazioni di forma e materiali sono le seguenti:
+ 
+ Volume in ml
+ -
+ 375
+ 750
+ 1500
+ 2250
+ 3750
+ 3950
+ 5450
+ 7700
+ 11450
+ 15200
+ 18950
+ 22700".
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
+## Art. 2.
+
+1.
+
+Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 16 gennaio 1995
+Roma, 16 gennaio 1995
 
-Il Ministro: GNUTTI
-
-Visto, il Guardasigilli: MANCUSO Registrato alla Corte dei conti il 20 febbraio 1995
-
-Registro n. 1 Industria, foglio n. 6
+Il Ministro: GNUTTI Visto, il Guardasigilli: MANCUSO Registrato alla Corte dei conti il 20 febbraio 1995 Registro n. 1 Industria, foglio n. 6

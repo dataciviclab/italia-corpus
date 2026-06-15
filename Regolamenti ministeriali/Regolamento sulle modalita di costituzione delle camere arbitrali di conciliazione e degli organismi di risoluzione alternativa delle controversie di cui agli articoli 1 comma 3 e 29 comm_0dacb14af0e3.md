@@ -1,20 +1,18 @@
-DECRETO 14 febbraio 2017 n. 34
-
-
-DECRETO 14 febbraio 2017 n. 34
-==============================
-
-Regolamento sulle modalita' di costituzione delle camere arbitrali, di conciliazione e degli organismi di risoluzione alternativa delle controversie di cui agli articoli 1, comma 3, e 29, comma 1, lettera n), della legge 31 dicembre 2012, n. 247. (17G00045)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/04/2017
+---
+tipo: DECRETO
+numero: 34
+data: 2017-02-14
+titolo: "Regolamento sulle modalita' di costituzione delle camere arbitrali, di conciliazione e degli organismi di risoluzione alternativa delle controversie di cui agli articoli 1, comma 3, e 29, comma 1, lettera n), della legge 31 dicembre 2012, n. 247. (17G00045)"
+urn: urn:nir:ministero.giustizia:decreto:2017-02-14;34
+codice_redazionale: 17G00045
+vigente: true
+---
 
 IL MINISTRO DELLA GIUSTIZIA
----------------------------
 
-Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3);
+Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-Vista la [legge 31 dicembre 2012, n. 247](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-31;247), e in particolare gli articoli 1, comma 3, e 29, comma 1, lettera n);
+Vista la [legge 31 dicembre 2012, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-31;247), e in particolare gli articoli 1, comma 3, e 29, comma 1, lettera n);
 
 Acquisito il parere del Consiglio nazionale forense, espresso nella seduta del 22 aprile 2016;
 
@@ -24,311 +22,363 @@ Acquisiti i pareri delle commissioni parlamentari;
 
 Vista la comunicazione al Presidente del Consiglio dei ministri effettuata con nota del 30 dicembre 2016;
 
-Adotta
-------
+Adotta il seguente regolamento:
 
-il seguente regolamento:
+## DISPOSIZIONI GENERALI
 
-CAPO I Capo I DISPOSIZIONI GENERALI
------------------------------------
+Capo I
 
-### Art. 1
+### Art. 1.
 
 Oggetto e finalita' del decreto
 
-1. Il presente decreto disciplina le modalita' di costituzione delle camere arbitrali e di conciliazione e degli organismi di risoluzione alternativa delle controversie di cui all'[articolo 29, comma 1, lettera n), della legge 31 dicembre 2012, n. 247](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-31;247~art29-com1-letn).
+1.
 
-Avvertenza:   
-Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.   
-Note alle premesse:   
-- Si riporta il testo del [comma 3 dell'art. 17 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri):   
-«Art. 17 (Regolamenti). - 1.-2. (Omissis).   
-3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.  
-I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei ministri prima della loro emanazione.   
-(Omissis).».   
-- Si riporta il testo degli [articoli 1, comma 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-31;247~art1-com3), e [29, comma 1, lettera n), della legge 31 dicembre 2012, n. 247](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-31;247~art29-com1-letn) (Nuova disciplina dell'ordinamento della professione forense), pubblicata nella Gazzetta Ufficiale 18 gennaio 2013, n. 15:   
-«Art. 1 (Disciplina dell'ordinamento forense). - (Omissis).   
-3. All'attuazione della presente legge si provvede mediante regolamenti adottati con decreto del Ministro della giustizia, ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3), entro due anni dalla data della sua entrata in vigore, previo parere del Consiglio nazionale forense (CNF) e, per le sole materie di interesse di questa, della Cassa nazionale di previdenza e assistenza forense. Il CNF esprime i suddetti pareri entro novanta giorni dalla richiesta, sentiti i consigli dell'ordine territoriali e le associazioni forensi che siano costituite da almeno cinque anni e che siano state individuate come maggiormente rappresentative dal CNF. Gli schemi dei regolamenti sono trasmessi alle Camere, ciascuno corredato di relazione tecnica, che evidenzi gli effetti delle disposizioni recate, e dei pareri di cui al primo periodo, ove gli stessi risultino essere stati tempestivamente comunicati, perche' su di essi sia espresso, nel termine di sessanta giorni dalla richiesta, il parere delle Commissioni parlamentari competenti.   
-(Omissis).».   
-«Art. 29 (Compiti e prerogative del consiglio). - 1. Il consiglio:   
-(Omissis);   
-n) puo' costituire camere arbitrali, di conciliazione ed organismi di risoluzione alternativa delle controversie, in conformita' a regolamento adottato ai sensi dell'art. 1 e con le modalita' nello stesso stabilite;   
-(Omissis).».   
-  
-Note all'art. 1:   
-- Per il testo dell'art. 29, comma 1, lettera n della citata [legge n. 247 del 2012](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012;247), si veda nelle note alle premesse.
+Il presente decreto disciplina le modalita' di costituzione delle camere arbitrali e di conciliazione e degli organismi di risoluzione alternativa delle controversie di cui all'[articolo 29, comma 1, lettera n), della legge 31 dicembre 2012, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-31;247#art_29-com1-letn).
 
-### Art. 2
+Avvertenza: 
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ Note alle premesse: 
+ - Si riporta il testo del [comma 3 dell'art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri): 
+ «Art. 17 (Regolamenti). - 1.-2. (Omissis). 
+ 3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.
+ I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei ministri prima della loro emanazione. 
+ (Omissis).». 
+ - Si riporta il testo degli [articoli 1, comma 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-31;247#art_1-com3), e [29, comma 1, lettera n), della legge 31 dicembre 2012, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-31;247#art_29-com1-letn) (Nuova disciplina dell'ordinamento della professione forense), pubblicata nella Gazzetta Ufficiale 18 gennaio 2013, n. 15: 
+ «Art. 1 (Disciplina dell'ordinamento forense). - (Omissis). 
+ 3. All'attuazione della presente legge si provvede mediante regolamenti adottati con decreto del Ministro della giustizia, ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), entro due anni dalla data della sua entrata in vigore, previo parere del Consiglio nazionale forense (CNF) e, per le sole materie di interesse di questa, della Cassa nazionale di previdenza e assistenza forense. Il CNF esprime i suddetti pareri entro novanta giorni dalla richiesta, sentiti i consigli dell'ordine territoriali e le associazioni forensi che siano costituite da almeno cinque anni e che siano state individuate come maggiormente rappresentative dal CNF. Gli schemi dei regolamenti sono trasmessi alle Camere, ciascuno corredato di relazione tecnica, che evidenzi gli effetti delle disposizioni recate, e dei pareri di cui al primo periodo, ove gli stessi risultino essere stati tempestivamente comunicati, perche' su di essi sia espresso, nel termine di sessanta giorni dalla richiesta, il parere delle Commissioni parlamentari competenti. 
+ (Omissis).». 
+ «Art. 29 (Compiti e prerogative del consiglio). - 1. Il consiglio: 
+ (Omissis); 
+ n) puo' costituire camere arbitrali, di conciliazione ed organismi di risoluzione alternativa delle controversie, in conformita' a regolamento adottato ai sensi dell'art. 1 e con le modalita' nello stesso stabilite; 
+ (Omissis).». 
+ 
+ Note all'art. 1: 
+ - Per il testo dell'art. 29, comma 1, lettera n della citata [legge n. 247 del 2012](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012;247), si veda nelle note alle premesse.
 
-Definizioni
+### Art. 2. — Definizioni
 
-1. Ai fini del presente regolamento si intende per:
+1.
 
-a) «consiglio dell'ordine»: il consiglio dell'ordine circondariale degli avvocati;
+Ai fini del presente regolamento si intende per:
+                            a)
+                                «consiglio dell'ordine»: il consiglio dell'ordine circondariale degli avvocati;
+                            b)
+                                «camera arbitrale e di conciliazione»: l'organismo di cui all'[articolo 29, comma 1, lettera n), della legge 31 dicembre 2012, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-31;247#art_29-com1-letn);
+                            c)
+                                «segreteria»: la segreteria della camera arbitrale e di conciliazione;
+                            d)
+                                «regolamento»: il regolamento della camera arbitrale e di conciliazione.
 
-b) «camera arbitrale e di conciliazione»: l'organismo di cui all'[articolo 29, comma 1, lettera n), della legge 31 dicembre 2012, n. 247](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-31;247~art29-com1-letn);
+Note all'art. 2: 
+ - Per il testo dell'art. 29, comma 1, lettera n della citata [legge n. 247 del 2012](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012;247), si veda nelle note alle premesse.
 
-c) «segreteria»: la segreteria della camera arbitrale e di conciliazione;
+## CAMERA ARBITRALE E DI CONCILIAZIONE
 
-d) «regolamento»: il regolamento della camera arbitrale e di conciliazione.
+Capo II
 
-Note all'art. 2:   
-- Per il testo dell'art. 29, comma 1, lettera n della citata [legge n. 247 del 2012](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012;247), si veda nelle note alle premesse.
+### Art. 3. — Istituzione della camera arbitrale e di conciliazione
 
-CAPO II Capo II CAMERA ARBITRALE E DI CONCILIAZIONE
----------------------------------------------------
+1.
 
-### Art. 3
+I consigli dell'ordine possono, anche d'intesa con altri ordini appartenenti allo stesso distretto, deliberare la costituzione di camere arbitrali e di conciliazione per l'amministrazione di procedure arbitrali, di conciliazione e di altri strumenti di risoluzione alternativa delle controversie.
 
-Istituzione della camera arbitrale e di conciliazione
+2.
 
-1. I consigli dell'ordine possono, anche d'intesa con altri ordini appartenenti allo stesso distretto, deliberare la costituzione di camere arbitrali e di conciliazione per l'amministrazione di procedure arbitrali, di conciliazione e di altri strumenti di risoluzione alternativa delle controversie.
+La costituzione avviene con delibera del consiglio dell'ordine contenente l'atto costitutivo e lo statuto che dovra' indicare:
+                            a)
+                                la denominazione della struttura;
+                            b)
+                                lo scopo;
+                            c)
+                                la sede;
+                            d)
+                                i criteri per l'adozione del regolamento recante le norme relative al funzionamento della camera arbitrale e di conciliazione e ai relativi costi.
 
-2. La costituzione avviene con delibera del consiglio dell'ordine contenente l'atto costitutivo e lo statuto che dovra' indicare:
+3.
 
-a) la denominazione della struttura;
+La delibera di cui al comma 2 e' pubblicata sul sito internet del consiglio dell'ordine.
 
-b) lo scopo;
+### Art. 4. — Natura giuridica, patrimonio 
+ e autonomia organizzativa
 
-c) la sede;
+1.
 
-d) i criteri per l'adozione del regolamento recante le norme relative al funzionamento della camera arbitrale e di conciliazione e ai relativi costi.
+La camera arbitrale e di conciliazione, dotata di autonomia organizzativa ed economica, amministra i procedimenti di arbitrato e di conciliazione in conformita' al presente decreto.
 
-3. La delibera di cui al comma 2 e' pubblicata sul sito internet del consiglio dell'ordine.
+2.
 
-### Art. 4
+Con il regolamento di cui all'articolo 3, comma 2, lettera d), la camera arbitrale e di conciliazione stabilisce altresi' le modalita' del proprio finanziamento e di tenuta della propria contabilita'.
 
-Natura giuridica, patrimonio   
-e autonomia organizzativa
+3.
 
-1. La camera arbitrale e di conciliazione, dotata di autonomia organizzativa ed economica, amministra i procedimenti di arbitrato e di conciliazione in conformita' al presente decreto.
+Il consiglio dell'ordine stipula, in conformita' ai criteri stabiliti dal Consiglio nazionale forense, una polizza assicurativa per la copertura dei rischi derivanti dalla responsabilita' civile verso terzi per i danni causati dagli arbitri e dai conciliatori designati per lo svolgimento di attivita' cui e' preposta la camera arbitrale e di conciliazione.
 
-2. Con il regolamento di cui all'articolo 3, comma 2, lettera d), la camera arbitrale e di conciliazione stabilisce altresi' le modalita' del proprio finanziamento e di tenuta della propria contabilita'.
+### Art. 5. — Sede e personale dipendente
 
-3. Il consiglio dell'ordine stipula, in conformita' ai criteri stabiliti dal Consiglio nazionale forense, una polizza assicurativa per la copertura dei rischi derivanti dalla responsabilita' civile verso terzi per i danni causati dagli arbitri e dai conciliatori designati per lo svolgimento di attivita' cui e' preposta la camera arbitrale e di conciliazione.
+1.
 
-### Art. 5
+La camera svolge le proprie funzioni presso la sede del consiglio dell'ordine ove e' istituita, ovvero presso locali messi a disposizione dallo stesso consiglio dell'ordine.
 
-Sede e personale dipendente
+2.
 
-1. La camera svolge le proprie funzioni presso la sede del consiglio dell'ordine ove e' istituita, ovvero presso locali messi a disposizione dallo stesso consiglio dell'ordine.
+La camera si avvale del personale dipendente del consiglio dell'ordine.
 
-2. La camera si avvale del personale dipendente del consiglio dell'ordine.
+## ORGANI E FUNZIONI DELLA CAMERA E CRITERI DI DESIGNAZIONE DEGLI  ARBITRI E DEI CONCILIATORI
 
-CAPO III Capo III ORGANI E FUNZIONI DELLA CAMERA E CRITERI DI DESIGNAZIONE DEGLI ARBITRI E DEI CONCILIATORI
------------------------------------------------------------------------------------------------------------
+Capo III
 
-### Art. 6
+### Art. 6. — Il consiglio direttivo
 
-Il consiglio direttivo
+1.
 
-1. La camera arbitrale e di conciliazione e' amministrata da un consiglio direttivo.
+La camera arbitrale e di conciliazione e' amministrata da un consiglio direttivo.
 
-2. Il consiglio direttivo e' composto da un numero di componenti, nominati con delibera dal consiglio dell'ordine e individuati tra soggetti dotati di specifica e comprovata competenza, non superiore:
+2.
 
-a) a tre, qualora l'ordine conti sino a duecento iscritti;
+Il consiglio direttivo e' composto da un numero di componenti, nominati con delibera dal consiglio dell'ordine e individuati tra soggetti dotati di specifica e comprovata competenza, non superiore:
+                            a)
+                                a tre, qualora l'ordine conti sino a duecento iscritti;
+                            b)
+                                a cinque, qualora l'ordine conti sino a mille iscritti;
+                            c)
+                                a sette, qualora l'ordine conti oltre mille iscritti.
 
-b) a cinque, qualora l'ordine conti sino a mille iscritti;
+3.
 
-c) a sette, qualora l'ordine conti oltre mille iscritti.
+Il numero massimo dei componenti e' stabilito dal consiglio dell'ordine, che potra' determinarlo in considerazione del numero degli iscritti.
 
-3. Il numero massimo dei componenti e' stabilito dal consiglio dell'ordine, che potra' determinarlo in considerazione del numero degli iscritti.
+4.
 
-4. I componenti del consiglio direttivo sono individuati tra soggetti che hanno i seguenti requisiti di onorabilita':
+I componenti del consiglio direttivo sono individuati tra soggetti che hanno i seguenti requisiti di onorabilita':
+                            a)
+                                non aver riportato condanne definitive per delitti non colposi o a pena detentiva non sospesa;
+                            b)
+                                non essere incorsi nell'interdizione perpetua o temporanea dai pubblici uffici;
+                            c)
+                                non essere stati sottoposti a misure di prevenzione o di sicurezza;
+                            d)
+                                non aver riportato sanzioni disciplinari definitive.
 
-a) non aver riportato condanne definitive per delitti non colposi o a pena detentiva non sospesa;
+5.
 
-b) non essere incorsi nell'interdizione perpetua o temporanea dai pubblici uffici;
+Ferma la necessita' che almeno due e non piu' di due terzi dei componenti siano avvocati iscritti all'albo, possono essere nominati componenti del consiglio direttivo:
+                            a)
+                                gli iscritti da almeno cinque anni all'albo del consiglio dell'ordine;
+                            b)
+                                i docenti universitari in materie giuridiche.
 
-c) non essere stati sottoposti a misure di prevenzione o di sicurezza;
+6.
 
-d) non aver riportato sanzioni disciplinari definitive.
+Il consiglio direttivo dura in carica un triennio e, comunque, resta in carica sino alla nomina, ai sensi del comma 2, del nuovo consiglio direttivo.
 
-5. Ferma la necessita' che almeno due e non piu' di due terzi dei componenti siano avvocati iscritti all'albo, possono essere nominati componenti del consiglio direttivo:
+7.
 
-a) gli iscritti da almeno cinque anni all'albo del consiglio dell'ordine;
+In caso di cessazione dalla carica per qualsiasi motivo di uno o piu' componenti del consiglio direttivo, il consiglio dell'ordine provvede alla sostituzione, nominando un nuovo componente che resta in carica sino allo scadere del mandato e comunque sino all'insediamento del nuovo consiglio dell'ordine.
 
-b) i docenti universitari in materie giuridiche.
+8.
 
-6. Il consiglio direttivo dura in carica un triennio e, comunque, resta in carica sino alla nomina, ai sensi del comma 2, del nuovo consiglio direttivo.
+I componenti del consiglio direttivo, compresi quelli nominati a norma del comma 7, non possono essere designati per piu' di due mandati consecutivi.
 
-7. In caso di cessazione dalla carica per qualsiasi motivo di uno o piu' componenti del consiglio direttivo, il consiglio dell'ordine provvede alla sostituzione, nominando un nuovo componente che resta in carica sino allo scadere del mandato e comunque sino all'insediamento del nuovo consiglio dell'ordine.
+9.
 
-8. I componenti del consiglio direttivo, compresi quelli nominati a norma del comma 7, non possono essere designati per piu' di due mandati consecutivi.
+I componenti del consiglio direttivo non possono ricoprire incarichi in procedure amministrate dalla camera arbitrale e di conciliazione, ovvero svolgere ogni altra attivita' che ne possa compromettere l'indipendenza e l'autonomia.
 
-9. I componenti del consiglio direttivo non possono ricoprire incarichi in procedure amministrate dalla camera arbitrale e di conciliazione, ovvero svolgere ogni altra attivita' che ne possa compromettere l'indipendenza e l'autonomia.
+10.
 
-10. I componenti del consiglio direttivo non possono ricevere indennita' diverse dal rimborso delle spese sostenute per l'adempimento del mandato.
+I componenti del consiglio direttivo non possono ricevere indennita' diverse dal rimborso delle spese sostenute per l'adempimento del mandato.
 
-### Art. 7
+### Art. 7. — Funzioni e compiti del presidente 
+ del consiglio direttivo
 
-Funzioni e compiti del presidente   
-del consiglio direttivo
+1.
 
-1. Il presidente e' eletto a maggioranza tra i componenti del consiglio direttivo. Tra i componenti che hanno ricevuto lo stesso numero di voti e' eletto presidente quello con la maggiore anzianita' di iscrizione all'albo.
+Il presidente e' eletto a maggioranza tra i componenti del consiglio direttivo. Tra i componenti che hanno ricevuto lo stesso numero di voti e' eletto presidente quello con la maggiore anzianita' di iscrizione all'albo.
 
-2. Il presidente convoca, presiede e coordina le sedute del consiglio direttivo della camera arbitrale e di conciliazione, determinandone l'ordine del giorno.
+2.
 
-3. Il presidente convoca il consiglio direttivo a mezzo di posta elettronica o con altri strumenti di comunicazione telematica.
+Il presidente convoca, presiede e coordina le sedute del consiglio direttivo della camera arbitrale e di conciliazione, determinandone l'ordine del giorno.
 
-### Art. 8
+3.
 
-Funzioni e compiti del consiglio direttivo
+Il presidente convoca il consiglio direttivo a mezzo di posta elettronica o con altri strumenti di comunicazione telematica.
 
-1. Il consiglio direttivo tiene e aggiorna l'elenco degli arbitri e dei conciliatori, nel quale iscrive gli avvocati che ne fanno richiesta sulla base delle aree individuate nella tabella A allegata al presente decreto.
+### Art. 8. — Funzioni e compiti del consiglio direttivo
 
-2. L'avvocato che rende la dichiarazione di disponibilita' indica l'area o le aree professionali di riferimento documentando le proprie competenze e la sussistenza dei requisiti di cui al titolo IV. La dichiarazione di disponibilita' e' revocabile. L'avvocato e' tenuto a comunicare immediatamente al consiglio direttivo il sopraggiungere di cause di incompatibilita' e il venir meno dei requisiti di onorabilita'.
+1.
 
-3. Il consiglio direttivo, verificata la sussistenza dei requisiti di cui al comma 2, procede, secondo l'ordine temporale di presentazione delle domande, all'iscrizione dell'avvocato in una o piu' aree di cui alla tabella A. Quando vengono meno i requisiti di onorabilita' dell'avvocato iscritto nell'elenco, il consiglio direttivo procede alla cancellazione. Il consiglio direttivo procede allo stesso modo quando l'avvocato revoca la dichiarazione di disponibilita'.
+Il consiglio direttivo tiene e aggiorna l'elenco degli arbitri e dei conciliatori, nel quale iscrive gli avvocati che ne fanno richiesta sulla base delle aree individuate nella tabella A allegata al presente decreto.
 
-4. L'avvocato iscritto nell'elenco puo' chiedere di modificare la propria disponibilita' quanto alle aree professionali di riferimento.  
+2.
+
+L'avvocato che rende la dichiarazione di disponibilita' indica l'area o le aree professionali di riferimento documentando le proprie competenze e la sussistenza dei requisiti di cui al titolo IV. La dichiarazione di disponibilita' e' revocabile. L'avvocato e' tenuto a comunicare immediatamente al consiglio direttivo il sopraggiungere di cause di incompatibilita' e il venir meno dei requisiti di onorabilita'.
+
+3.
+
+Il consiglio direttivo, verificata la sussistenza dei requisiti di cui al comma 2, procede, secondo l'ordine temporale di presentazione delle domande, all'iscrizione dell'avvocato in una o piu' aree di cui alla tabella A. Quando vengono meno i requisiti di onorabilita' dell'avvocato iscritto nell'elenco, il consiglio direttivo procede alla cancellazione. Il consiglio direttivo procede allo stesso modo quando l'avvocato revoca la dichiarazione di disponibilita'.
+
+4.
+
+L'avvocato iscritto nell'elenco puo' chiedere di modificare la propria disponibilita' quanto alle aree professionali di riferimento.
 Il consiglio direttivo procede ai sensi del comma 3.
 
-5. Il consiglio direttivo approva il codice etico che ciascun iscritto si impegna a rispettare prima di assumere l'incarico.
+5.
 
-6. Il consiglio direttivo, d'intesa con il consiglio dell'ordine, cura la comunicazione e l'assunzione di iniziative volte all'informazione, alla promozione e allo sviluppo della funzione e formazione arbitrale e conciliativa. Mantiene e sviluppa i rapporti con altri enti, istituzioni pubbliche o private, organismi nazionali e internazionali che hanno tra i loro scopi quello di promuovere la funzione arbitrale e conciliativa.
+Il consiglio direttivo approva il codice etico che ciascun iscritto si impegna a rispettare prima di assumere l'incarico.
 
-### Art. 9
+6.
 
-Criteri per l'assegnazione degli arbitrati   
-e degli affari di conciliazione
+Il consiglio direttivo, d'intesa con il consiglio dell'ordine, cura la comunicazione e l'assunzione di iniziative volte all'informazione, alla promozione e allo sviluppo della funzione e formazione arbitrale e conciliativa. Mantiene e sviluppa i rapporti con altri enti, istituzioni pubbliche o private, organismi nazionali e internazionali che hanno tra i loro scopi quello di promuovere la funzione arbitrale e conciliativa.
 
-1. Il consiglio direttivo procede alla designazione dell'arbitro o del conciliatore con rotazione nell'assegnazione degli incarichi in via automatica mediante l'utilizzo di sistemi informatizzati in dotazione alla camera arbitrale e di conciliazione.
+### Art. 9. — Criteri per l'assegnazione degli arbitrati 
+ e degli affari di conciliazione
 
-2. Il consiglio direttivo, in presenza di controversie connotate da particolare complessita' e specializzazione, individuate le ragioni e la materia del contendere, stabilisce l'area professionale di riferimento di cui alla tabella A e procede alla designazione di cui al comma 1.
+1.
 
-3. La rotazione automatica nell'assegnazione degli incarichi non opera nei casi nei quali gli arbitri o i conciliatori sono individuati concordemente dalle parti.
+Il consiglio direttivo procede alla designazione dell'arbitro o del conciliatore con rotazione nell'assegnazione degli incarichi in via automatica mediante l'utilizzo di sistemi informatizzati in dotazione alla camera arbitrale e di conciliazione.
 
-4. Il consiglio direttivo, previa audizione dell'interessato, dispone la cancellazione dagli elenchi dell'arbitro o del conciliatore per sopravvenuta incompatibilita' o per gravi violazioni del codice etico.
+2.
 
-5. Nel caso di cui all'articolo 8, comma 4, l'avvocato che viene iscritto nella diversa area di riferimento e' collocato, ai fini della rotazione, subito prima dell'avvocato che per ultimo e' stato designato a norma dei commi 1 e 2.
+Il consiglio direttivo, in presenza di controversie connotate da particolare complessita' e specializzazione, individuate le ragioni e la materia del contendere, stabilisce l'area professionale di riferimento di cui alla tabella A e procede alla designazione di cui al comma 1.
 
-6. Quando e' necessaria la sostituzione dell'arbitro o del conciliatore, si procede seguendo la rotazione automatica prevista dal comma 1.
+3.
 
-7. Il consiglio direttivo liquida i compensi degli arbitri o dei conciliatori in conformita' al [decreto del Ministro della giustizia 10 marzo 2014, n. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.giustizia:decreto:2014-03-10;55).
+La rotazione automatica nell'assegnazione degli incarichi non opera nei casi nei quali gli arbitri o i conciliatori sono individuati concordemente dalle parti.
 
-8. Il consiglio direttivo pubblica annualmente nel sito internet del consiglio dell'ordine le assegnazioni degli incarichi nel rispetto del principio di riservatezza delle parti del procedimento.
+4.
 
-Note all'[art. 9:   
-- Il decreto del Ministro della giustizia 10 marzo 2014, n. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.giustizia:decreto:2014-03-10;55~art9) (Regolamento recante la determinazione dei parametri per la liquidazione dei compensi per la professione forense, ai sensi dell'[art. 13, comma 6, della legge 31 dicembre 2012, n. 247](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-31;247~art13-com6)), e' pubblicato nella Gazzetta Ufficiale 2 aprile 2014, n. 77.
+Il consiglio direttivo, previa audizione dell'interessato, dispone la cancellazione dagli elenchi dell'arbitro o del conciliatore per sopravvenuta incompatibilita' o per gravi violazioni del codice etico.
 
-### Art. 10
+5.
 
-Segreteria
+Nel caso di cui all'articolo 8, comma 4, l'avvocato che viene iscritto nella diversa area di riferimento e' collocato, ai fini della rotazione, subito prima dell'avvocato che per ultimo e' stato designato a norma dei commi 1 e 2.
 
-1. La segreteria della camera arbitrale e di conciliazione svolge le funzioni amministrative di supporto connesse all'attivita' della stessa camera.
+6.
 
-2. La segreteria svolge altresi' le seguenti funzioni:
+Quando e' necessaria la sostituzione dell'arbitro o del conciliatore, si procede seguendo la rotazione automatica prevista dal comma 1.
 
-a) tiene un registro informatico per ogni procedimento della camera arbitrale e di conciliazione, con le annotazioni relative al numero d'ordine progressivo, all'oggetto del conflitto, ai dati identificativi delle parti, agli arbitri o al conciliatore, alla durata del procedimento e al relativo esito;
+7.
 
-b) verifica la conformita' della domanda di arbitrato e di conciliazione ai requisiti formali previsti dal regolamento della camera arbitrale e di conciliazione e la annota nel registro di cui alla lettera a);
+Il consiglio direttivo liquida i compensi degli arbitri o dei conciliatori in conformita' al [decreto del Ministro della giustizia 10 marzo 2014, n. 55](Regolamento%20recante%20la%20determinazione%20dei%20parametri%20per%20la%20liquidazione%20dei%20compensi%20per%20la%20professione%20forense%20ai%20sensi%20dellarticolo%2013%20comma%206%20della%20legge%2031%20dicembre%202012%20n.%20247.%2014G00067.md).
 
-c) provvede alla riscossione delle spese e di ogni altro compenso dovuto in relazione ai procedimenti svolti presso la camera arbitrale e di conciliazione;
+8.
 
-d) forma e conserva i fascicoli di tutte le procedure;
+Il consiglio direttivo pubblica annualmente nel sito internet del consiglio dell'ordine le assegnazioni degli incarichi nel rispetto del principio di riservatezza delle parti del procedimento.
 
-e) svolge le funzioni di segreteria del consiglio direttivo, degli arbitri e dei conciliatori, curando la verbalizzazione delle sedute, e provvedendo alle relative comunicazioni;
+Note all'[art. 9: 
+ - Il decreto del Ministro della giustizia 10 marzo 2014, n. 55](Regolamento%20recante%20la%20determinazione%20dei%20parametri%20per%20la%20liquidazione%20dei%20compensi%20per%20la%20professione%20forense%20ai%20sensi%20dellarticolo%2013%20comma%206%20della%20legge%2031%20dicembre%202012%20n.%20247.%2014G00067.md) (Regolamento recante la determinazione dei parametri per la liquidazione dei compensi per la professione forense, ai sensi dell'[art. 13, comma 6, della legge 31 dicembre 2012, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-31;247#art_13-com6)), e' pubblicato nella Gazzetta Ufficiale 2 aprile 2014, n. 77.
 
-f) provvede alle comunicazioni richieste dal consiglio direttivo, dagli arbitri e dal conciliatore;
+### Art. 10. — Segreteria
 
-g) rilascia alle parti, a loro richiesta, copia degli atti e dei documenti.
+1.
 
-### Art. 11
+La segreteria della camera arbitrale e di conciliazione svolge le funzioni amministrative di supporto connesse all'attivita' della stessa camera.
 
-Obbligo di riservatezza
+2.
 
-1. I membri del consiglio direttivo, gli arbitri, i conciliatori e il personale dipendente e ogni altro soggetto coinvolto, in qualsiasi qualita', nelle attivita' della camera arbitrale e di conciliazione, sono tenuti a mantenere riservata qualsiasi informazione riguardante lo svolgimento e l'esito dei procedimenti.
+La segreteria svolge altresi' le seguenti funzioni:
+                            a)
+                                tiene un registro informatico per ogni procedimento della camera arbitrale e di conciliazione, con le annotazioni relative al numero d'ordine progressivo, all'oggetto del conflitto, ai dati identificativi delle parti, agli arbitri o al conciliatore, alla durata del procedimento e al relativo esito;
+                            b)
+                                verifica la conformita' della domanda di arbitrato e di conciliazione ai requisiti formali previsti dal regolamento della camera arbitrale e di conciliazione e la annota nel registro di cui alla lettera a);
+                            c)
+                                provvede alla riscossione delle spese e di ogni altro compenso dovuto in relazione ai procedimenti svolti presso la camera arbitrale e di conciliazione;
+                            d)
+                                forma e conserva i fascicoli di tutte le procedure;
+                            e)
+                                svolge le funzioni di segreteria del consiglio direttivo, degli arbitri e dei conciliatori, curando la verbalizzazione delle sedute, e provvedendo alle relative comunicazioni;
+                            f)
+                                provvede alle comunicazioni richieste dal consiglio direttivo, dagli arbitri e dal conciliatore;
+                            g)
+                                rilascia alle parti, a loro richiesta, copia degli atti e dei documenti.
 
-2. Per finalita' di studio, e in ogni caso previo assenso delle parti, la camera arbitrale e di conciliazione puo' provvedere alla pubblicazione in forma anonima degli atti dei procedimenti e dei lodi.
+### Art. 11. — Obbligo di riservatezza
 
-CAPO IV Capo IV INCOMPATIBILITA' E ONORABILITA' DI ARBITRI E CONCILIATORI
--------------------------------------------------------------------------
+1.
 
-### Art. 12
+I membri del consiglio direttivo, gli arbitri, i conciliatori e il personale dipendente e ogni altro soggetto coinvolto, in qualsiasi qualita', nelle attivita' della camera arbitrale e di conciliazione, sono tenuti a mantenere riservata qualsiasi informazione riguardante lo svolgimento e l'esito dei procedimenti.
+
+2.
+
+Per finalita' di studio, e in ogni caso previo assenso delle parti, la camera arbitrale e di conciliazione puo' provvedere alla pubblicazione in forma anonima degli atti dei procedimenti e dei lodi.
+
+## INCOMPATIBILITA' E ONORABILITA' DI ARBITRI E CONCILIATORI
+
+Capo IV
+
+### Art. 12.
 
 Incompatibilita'
 
-1. Non possono essere nominati arbitri e conciliatori:
+1.
 
-a) i membri e i revisori appartenenti al consiglio dell'ordine presso cui e' istituita la camera arbitrale e di conciliazione;
+Non possono essere nominati arbitri e conciliatori:
+                            a)
+                                i membri e i revisori appartenenti al consiglio dell'ordine presso cui e' istituita la camera arbitrale e di conciliazione;
+                            b)
+                                i membri del consiglio direttivo e della segreteria;
+                            c)
+                                i dipendenti della camera arbitrale e di conciliazione e della segreteria;
+                            d)
+                                i soci, gli associati, i dipendenti di studio, gli avvocati che esercitano negli stessi locali, nonche' il coniuge, la persona unita civilmente, il convivente, il parente in linea retta e tutti coloro che hanno stabili rapporti di collaborazione con le persone indicate alle lettere a), b) e c).
 
-b) i membri del consiglio direttivo e della segreteria;
+2.
 
-c) i dipendenti della camera arbitrale e di conciliazione e della segreteria;
+Gli arbitri e i conciliatori devono essere al momento della nomina, e restare per tutta la durata del procedimento, indipendenti dalle parti, dai loro difensori e dagli altri componenti della camera arbitrale e di conciliazione.
 
-d) i soci, gli associati, i dipendenti di studio, gli avvocati che esercitano negli stessi locali, nonche' il coniuge, la persona unita civilmente, il convivente, il parente in linea retta e tutti coloro che hanno stabili rapporti di collaborazione con le persone indicate alle lettere a), b) e c).
+3.
 
-2. Gli arbitri e i conciliatori devono essere al momento della nomina, e restare per tutta la durata del procedimento, indipendenti dalle parti, dai loro difensori e dagli altri componenti della camera arbitrale e di conciliazione.
+In ogni caso, l'arbitro e il conciliatore non puo' considerarsi imparziale se egli stesso, ovvero un altro professionista di lui socio, con lui associato o che eserciti nei suoi stessi locali abbia assistito, anche in via stragiudiziale, una delle parti del procedimento nei tre anni precedenti.
 
-3. In ogni caso, l'arbitro e il conciliatore non puo' considerarsi imparziale se egli stesso, ovvero un altro professionista di lui socio, con lui associato o che eserciti nei suoi stessi locali abbia assistito, anche in via stragiudiziale, una delle parti del procedimento nei tre anni precedenti.
+4.
 
-4. Nel corso del procedimento l'arbitro e il conciliatore sono tenuti a comunicare ogni circostanza che possa costituire motivo di incompatibilita' con la prosecuzione dell'incarico.
+Nel corso del procedimento l'arbitro e il conciliatore sono tenuti a comunicare ogni circostanza che possa costituire motivo di incompatibilita' con la prosecuzione dell'incarico.
 
-### Art. 13
+### Art. 13.
 
 Requisiti di onorabilita'
 
-1. I requisiti di onorabilita' degli arbitri e dei conciliatori sono i seguenti:
+1.
 
-a) non aver riportato condanne definitive per delitti non colposi o a pena detentiva non sospesa;
+I requisiti di onorabilita' degli arbitri e dei conciliatori sono i seguenti:
+                            a)
+                                non aver riportato condanne definitive per delitti non colposi o a pena detentiva non sospesa;
+                            b)
+                                non essere stati oggetto di interdizione perpetua o temporanea dai pubblici uffici;
+                            c)
+                                non essere stati sottoposti a misure di prevenzione o di sicurezza;
+                            d)
+                                non aver riportato sanzioni disciplinari definitive piu' gravi dell'avvertimento.
 
-b) non essere stati oggetto di interdizione perpetua o temporanea dai pubblici uffici;
+## ALTRI STRUMENTI DI RISOLUZIONE ALTERNATIVA DELLE CONTROVERSIE
 
-c) non essere stati sottoposti a misure di prevenzione o di sicurezza;
+Capo V
 
-d) non aver riportato sanzioni disciplinari definitive piu' gravi dell'avvertimento.
+### Art. 14. — Altri strumenti di risoluzione 
+ alternativa delle controversie
 
-CAPO V Capo V ALTRI STRUMENTI DI RISOLUZIONE ALTERNATIVA DELLE CONTROVERSIE
----------------------------------------------------------------------------
+1.
 
-### Art. 14
+Qualora la Camera amministri altri strumenti di risoluzione alternativa delle controversie adotta specifico regolamento in coerenza con le disposizioni della legge e del presente decreto, soggetto all'approvazione del consiglio dell'ordine.
 
-Altri strumenti di risoluzione   
-alternativa delle controversie
+## DISPOSIZIONI FINANZIARIE E TRANSITORIE
 
-1. Qualora la Camera amministri altri strumenti di risoluzione alternativa delle controversie adotta specifico regolamento in coerenza con le disposizioni della legge e del presente decreto, soggetto all'approvazione del consiglio dell'ordine.
+Capo VI
 
-CAPO VI Capo VI DISPOSIZIONI FINANZIARIE E TRANSITORIE
-------------------------------------------------------
+### Art. 15. — Clausola di invarianza finanziaria
 
-### Art. 15
+1.
 
-Clausola di invarianza finanziaria
+Dalle disposizioni del presente decreto non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
 
-1. Dalle disposizioni del presente decreto non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
+### Art. 16. — Regime transitorio
 
-### Art. 16
+1.
 
-Regime transitorio
-
-1. Le disposizioni del presente decreto si applicano alle camere arbitrali e di conciliazione dell'avvocatura gia' costituite alla data di entrata in vigore del decreto medesimo, decorsi sei mesi dalla predetta data.
+Le disposizioni del presente decreto si applicano alle camere arbitrali e di conciliazione dell'avvocatura gia' costituite alla data di entrata in vigore del decreto medesimo, decorsi sei mesi dalla predetta data.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 14 febbraio 2017
+Roma, 14 febbraio 2017
 
-Il Ministro: Orlando
-
-Visto, il Guardasigilli: Orlando Registrato alla Corte dei conti il 14 marzo 2017
-
-Ufficio controllo atti P.C.M., Ministeri giustizia e affari esteri, reg.ne prev. n. 612
-
-Allegato
-
- Allegato   
-  
-Tabella A   
-(articolo 8, comma 1)   
-  
-
-|  |
-| --- |
-| Aree di competenza professionale |
-| Diritto delle persone e della famiglia, diritti reali, condominio e locazioni |
-| Diritto della responsabilita' civile |
-| Diritto dei contratti, diritto commerciale e diritto industriale, diritto bancario e finanziario, diritto delle procedure concorsuali |
-| Diritto del lavoro, della previdenza e dell'assistenza sociale |
-| Diritto amministrativo |
-| Diritto internazionale, diritto del commercio internazionale e diritto dell'Unione europea |
+Il Ministro: Orlando Visto, il Guardasigilli: Orlando Registrato alla Corte dei conti il 14 marzo 2017 Ufficio controllo atti P.C.M., Ministeri giustizia e affari esteri, reg.ne prev. n. 612

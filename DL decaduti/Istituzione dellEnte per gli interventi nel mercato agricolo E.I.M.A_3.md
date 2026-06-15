@@ -1,124 +1,85 @@
-DECRETO-LEGGE 23 settembre 1994 n. 548
+---
+tipo: DECRETO-LEGGE
+numero: 548
+data: 1994-09-23
+titolo: "Istituzione dell'Ente per gli interventi nel mercato agricolo E.I.M.A."
+urn: urn:nir:stato:decreto.legge:1994-09-23;548
+codice_redazionale: 094G0591
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 23 settembre 1994 n. 548
-======================================
+DECRETO DECADUTO
 
-Istituzione dell'Ente per gli interventi nel mercato agricolo E.I.M.A.
-----------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 25/9/1994.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 5
-------
+## Art. 7.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 6
-------
+## Art. 8.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 7
-------
+## Art. 9.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 8
-------
+## Art. 10.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 9
-------
+## Art. 11.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 10
--------
+## Art. 12.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 11
--------
+## Art. 13.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 12
--------
+## Art. 14.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 13
--------
+## Art. 15.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 14
--------
+## Art. 16.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 15
--------
+## Art. 17.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 16
--------
+## Art. 18.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 17
--------
+## Art. 19.
 
-  
-DECRETO DECADUTO   
-
-Art. 18
--------
-
-  
-DECRETO DECADUTO   
-
-Art. 19
--------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

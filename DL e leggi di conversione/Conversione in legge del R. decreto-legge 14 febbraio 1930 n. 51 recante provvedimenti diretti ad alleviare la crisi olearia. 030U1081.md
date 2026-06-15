@@ -1,16 +1,14 @@
-LEGGE 03 luglio 1930 n. 1081
+---
+tipo: LEGGE
+numero: 1081
+data: 1930-07-03
+titolo: "Conversione in legge del R. decreto-legge 14 febbraio 1930, n. 51, recante provvedimenti diretti ad alleviare la crisi olearia. (030U1081)"
+urn: urn:nir:stato:legge:1930-07-03;1081
+codice_redazionale: 030U1081
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 03 luglio 1930 n. 1081
-============================
-
-Conversione in legge del R. decreto-legge 14 febbraio 1930, n. 51, recante provvedimenti diretti ad alleviare la crisi olearia. (030U1081)
-------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/08/1930
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

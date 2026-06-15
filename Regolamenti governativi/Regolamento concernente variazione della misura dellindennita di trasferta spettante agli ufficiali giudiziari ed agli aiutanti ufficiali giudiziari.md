@@ -1,20 +1,17 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1996 n. 601
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 601
+data: 1996-10-17
+titolo: "Regolamento concernente variazione della misura dell'indennita' di trasferta spettante agli ufficiali giudiziari ed agli aiutanti ufficiali giudiziari."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1996-10-17;601
+codice_redazionale: 096G0625
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1996 n. 601
-==============================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115 ))
 
-Regolamento concernente variazione della misura dell'indennita' di trasferta spettante agli ufficiali giudiziari ed agli aiutanti ufficiali giudiziari.
--------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 1-12-1996
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 30 MAGGIO 2002, N. 115](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-05-30;115) ))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 30 MAGGIO 2002, N. 115](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-05-30;115) ))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115 ))

@@ -1,16 +1,14 @@
-LEGGE 14 giugno 1934 n. 1270
+---
+tipo: LEGGE
+numero: 1270
+data: 1934-06-14
+titolo: "Conversione in legge del R. decreto-legge 21 dicembre 1933, n. 1992, riflettente modifiche al R. decreto-legge 26 febbraio 1928, n. 355, sull'ordinamento del personale coloniale. (034U1270)"
+urn: urn:nir:stato:legge:1934-06-14;1270
+codice_redazionale: 034U1270
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 14 giugno 1934 n. 1270
-============================
-
-Conversione in legge del R. decreto-legge 21 dicembre 1933, n. 1992, riflettente modifiche al R. decreto-legge 26 febbraio 1928, n. 355, sull'ordinamento del personale coloniale. (034U1270)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/08/1934
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

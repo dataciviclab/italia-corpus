@@ -1,18 +1,17 @@
-LEGGE 22 febbraio 1952 n. 99
+---
+tipo: LEGGE
+numero: 99
+data: 1952-02-22
+titolo: "Modificazioni alla misura dell'indennita' giornaliera di reggenza per gli incaricati marittimi e delegati di spiaggia."
+urn: urn:nir:stato:legge:1952-02-22;99
+codice_redazionale: 052U0099
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 22 febbraio 1952 n. 99
-============================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Modificazioni alla misura dell'indennita' giornaliera di reggenza per gli incaricati marittimi e delegati di spiaggia.
-----------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

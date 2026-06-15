@@ -1,115 +1,121 @@
-DECRETO LEGISLATIVO LUOGOTENENZIALE 01 febbraio 1945 n. 123
+---
+tipo: DECRETO LEGISLATIVO LUOGOTENENZIALE
+numero: 123
+data: 1945-02-01
+titolo: "Riforma del Consiglio superiore di marina. (045U0123)"
+urn: urn:nir:stato:decreto.legislativo.luogotenenziale:1945-02-01;123
+codice_redazionale: 045U0123
+vigente: true
+---
 
+## Disposizioni generali
 
-DECRETO LEGISLATIVO LUOGOTENENZIALE 01 febbraio 1945 n. 123
-===========================================================
+CAPO I
 
-Riforma del Consiglio superiore di marina. (045U0123)
------------------------------------------------------
+### Art. 1.
 
-CAPO I CAPO I Disposizioni generali
------------------------------------
+((IL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9 HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
 
-### Art. 1
+### Art. 2.
 
-((IL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9) HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
+((IL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9 HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
 
-### Art. 2
+### Art. 3.
 
-((IL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9) HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
+((IL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9 HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
 
-### Art. 3
+## Composizione del Consiglio superiore di marina
 
-((IL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9) HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
+CAPO II
 
-CAPO II CAPO II Composizione del Consiglio superiore di marina
---------------------------------------------------------------
+### Art. 4.
 
-### Art. 4
+((IL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9 HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
 
-((IL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9) HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
+### Art. 5.
 
-### Art. 5
+((IL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9 HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
 
-((IL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9) HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
+### Art. 6.
 
-### Art. 6
+((IL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9 HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
 
-((IL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9) HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
+### Art. 7.
 
-### Art. 7
+((IL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9 HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
 
-((IL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9) HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
+### Art. 8.
 
-### Art. 8
+((IL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9 HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
 
-((IL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9) HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
+## Attribuzioni del Consiglio superiore di marina
 
-CAPO III CAPO III Attribuzioni del Consiglio superiore di marina
-----------------------------------------------------------------
+CAPO III
 
-### Art. 9
+### Art. 9.
 
-((IL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9) HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
+((IL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9 HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
 
-### Art. 10
+### Art. 10.
 
-((IL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9) HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
+((IL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9 HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
 
-CAPO IV CAPO IV Funzionamento del Consiglio superiore di marina
----------------------------------------------------------------
+## Funzionamento del Consiglio superiore di marina
 
-### Art. 11
+CAPO IV
 
-((IL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9) HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
+### Art. 11.
 
-### Art. 12
+((IL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9 HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
 
-((IL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9) HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
+### Art. 12.
 
-### Art. 13
+((IL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9 HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
 
-((IL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9) HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
+### Art. 13.
 
-### Art. 14
+((IL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9 HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
 
-((IL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9) HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
+### Art. 14.
 
-### Art. 15
+((IL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9 HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
 
-((IL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9) HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
+### Art. 15.
 
-### Art. 16
+((IL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9 HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
 
-((IL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9) HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
+### Art. 16.
 
-### Art. 17
+((IL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9 HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
 
-((IL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9) HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
+### Art. 17.
 
-### Art. 18
+((IL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9 HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
 
-((IL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9) HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
+### Art. 18.
 
-CAPO V CAPO V Disposizioni finali e transitorie
------------------------------------------------
+((IL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9 HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
 
-### Art. 19
+## Disposizioni finali e transitorie
 
-((IL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9) HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
+CAPO V
 
-### Art. 20
+### Art. 19.
 
-((IL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9) HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
+((IL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9 HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
 
-### Art. 21
+### Art. 20.
 
-((IL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9) HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
+((IL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9 HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
 
-### Art. 22
+### Art. 21.
 
-((IL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9) HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
+((IL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9 HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
 
-### Art. 23
+### Art. 22.
 
-((IL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9) HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
+((IL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9 HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
+
+### Art. 23.
+
+((IL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9 HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))

@@ -1,80 +1,59 @@
-DECRETO LEGISLATIVO 30 dicembre 1992 n. 534
+---
+tipo: DECRETO LEGISLATIVO
+numero: 534
+data: 1992-12-30
+titolo: "Attuazione della direttiva 91/630/CEE che stabilisce le norme minime per la protezione dei suini."
+urn: urn:nir:stato:decreto.legislativo:1992-12-30;534
+codice_redazionale: 093G0018
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 30 dicembre 1992 n. 534
-===========================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 122))
 
-Attuazione della direttiva 91/630/CEE che stabilisce le norme minime per la protezione dei suini.
--------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 26/1/1993
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 122))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;122)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 122))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;122)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 122))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;122)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 122))
 
-Art. 4
-------
+## Art. 5-bis.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;122)))
+Art. 5bis 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 122))
 
-Art. 5
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;122)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 122))
 
-Art. 5-bis
-----------
+## Art. 7.
 
- Art. 5bis   
-  
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 122))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;122)))
+## Art. 8.
 
-Art. 6
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 122))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;122)))
+## Art. 9.
 
-Art. 7
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 122))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;122)))
+## Art. 10.
 
-Art. 8
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 122))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;122)))
+## Art. 11.
 
-Art. 9
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;122)))
-
-Art. 10
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;122)))
-
-Art. 11
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;122)))
-
-Allegato
-
- Allegato   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;122)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 122))

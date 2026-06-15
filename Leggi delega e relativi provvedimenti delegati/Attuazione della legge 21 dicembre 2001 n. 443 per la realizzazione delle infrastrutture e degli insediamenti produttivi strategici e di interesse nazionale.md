@@ -1,173 +1,166 @@
-DECRETO LEGISLATIVO 20 agosto 2002 n. 190
+---
+tipo: DECRETO LEGISLATIVO
+numero: 190
+data: 2002-08-20
+titolo: "Attuazione della legge 21 dicembre 2001, n. 443, per la realizzazione delle infrastrutture e degli insediamenti produttivi strategici e di interesse nazionale."
+urn: urn:nir:stato:decreto.legislativo:2002-08-20;190
+codice_redazionale: 002G0220
+vigente: true
+---
 
+## Infrastrutture ed insediamenti produttivi
 
-DECRETO LEGISLATIVO 20 agosto 2002 n. 190
-=========================================
+Capo I
 
-Attuazione della legge 21 dicembre 2001, n. 443, per la realizzazione delle infrastrutture e degli insediamenti produttivi strategici e di interesse nazionale.
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del decreto: 10-9-2002
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-CAPO I Capo I Infrastrutture ed insediamenti produttivi
--------------------------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+### Art. 2-bis.
 
-### Art. 2
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+### Art. 3.
 
-### Art. 2-bis
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+### Art. 4.
 
-### Art. 3
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+### Art. 4-bis.
 
-### Art. 4
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+### Art. 4-ter.
 
-### Art. 4-bis
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+### Art. 4-quater.
 
-### Art. 4-ter
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+### Art. 5.
 
-### Art. 4-quater
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+### Art. 5-bis.
 
-### Art. 5
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+### Art. 5-ter.
 
-### Art. 5-bis
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+### Art. 6.
 
-### Art. 5-ter
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+### Art. 7.
 
-### Art. 6
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+### Art. 8.
 
-### Art. 7
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+### Art. 9.
 
-### Art. 8
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+### Art. 10.
 
-### Art. 9
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+### Art. 11.
 
-### Art. 10
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+### Art. 12.
 
-### Art. 11
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+### Art. 13.
 
-### Art. 12
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+### Art. 14.
 
-### Art. 13
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+### Art. 15.
 
-### Art. 14
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+### Art. 16.
 
-### Art. 15
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+## Procedure per la valutazione di impatto ambientale delle grandi opere
 
-### Art. 16
+Capo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+### Art. 17.
 
-CAPO II Capo II Procedure per la valutazione di impatto ambientale delle grandi opere
--------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-### Art. 17
+### Art. 18.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-### Art. 18
+### Art. 19.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-### Art. 19
+### Art. 20.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-### Art. 20
+## Qualificazione dei Contraenti Generali ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+((Capo II-Bis
 
-CAPO III ((Capo II-Bis Qualificazione dei Contraenti Generali ))
-----------------------------------------------------------------
+### Art. 20-bis.
 
-### Art. 20-bis
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+### Art. 20-ter.
 
-### Art. 20-ter
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+### Art. 20-quater.
 
-### Art. 20-quater
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+### Art. 20-quinquies.
 
-### Art. 20-quinquies
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+### Art. 20-sexies.
 
-### Art. 20-sexies
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+### Art. 20-septies.
 
-### Art. 20-septies
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+### Art. 20-octies.
 
-### Art. 20-octies
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+### Art. 20-novies.
 
-### Art. 20-novies
+Art. 20-nonies 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
- Art. 20-nonies   
+### Art. 20-decies.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-### Art. 20-decies
+### Art. 20-undecies.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
-
-### Art. 20-undecies
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
-
-Modello
-
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
-
-Allegato tecnico
-
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))

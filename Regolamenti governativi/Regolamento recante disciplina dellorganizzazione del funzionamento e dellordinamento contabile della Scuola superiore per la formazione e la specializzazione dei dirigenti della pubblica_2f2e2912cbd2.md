@@ -1,55 +1,45 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1998 n. 396
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 396
+data: 1998-10-20
+titolo: "Regolamento recante disciplina dell'organizzazione, del funzionamento e dell'ordinamento contabile della Scuola superiore per la formazione e la specializzazione dei dirigenti della pubblica amministrazione locale e delle scuole regionali ed interregionali, a norma dell'articolo 17, commi 77, 78, 79 e 80, della legge 15 maggio 1997, n. 127."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1998-10-20;396
+codice_redazionale: 098G0449
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1998 n. 396
-==============================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 28 GENNAIO 2008, N. 27))
 
-Regolamento recante disciplina dell'organizzazione, del funzionamento e dell'ordinamento contabile della Scuola superiore per la formazione e la specializzazione dei dirigenti della pubblica amministrazione locale e delle scuole regionali ed interregionali, a norma dell'articolo 17, commi 77, 78, 79 e 80, della legge 15 maggio 1997, n. 127.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 4-12-1998
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 28 GENNAIO 2008, N. 27))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 28 GENNAIO 2008, N. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-01-28;27)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 28 GENNAIO 2008, N. 27))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 28 GENNAIO 2008, N. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-01-28;27)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 28 GENNAIO 2008, N. 27))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 28 GENNAIO 2008, N. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-01-28;27)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 28 GENNAIO 2008, N. 27))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 28 GENNAIO 2008, N. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-01-28;27)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 28 GENNAIO 2008, N. 27))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 28 GENNAIO 2008, N. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-01-28;27)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 28 GENNAIO 2008, N. 27))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 28 GENNAIO 2008, N. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-01-28;27)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 28 GENNAIO 2008, N. 27))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 28 GENNAIO 2008, N. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-01-28;27)))
-
-Art. 8
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 28 GENNAIO 2008, N. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-01-28;27)))
-
-Art. 9
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 28 GENNAIO 2008, N. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-01-28;27)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 28 GENNAIO 2008, N. 27))

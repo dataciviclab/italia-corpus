@@ -1,58 +1,49 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 agosto 1982 n. 776
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 776
+data: 1982-08-23
+titolo: "Attuazione della direttiva (CEE) n. 75/339 che stabilisce l'obbligo degli Stati membri di mantenere un livello minimo di scorte di combustibili fossili presso le centrali termoelettriche."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-08-23;776
+codice_redazionale: 082U0776
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 agosto 1982 n. 776
-=============================================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 GENNAIO 2001 N. 22))
 
-Attuazione della direttiva (CEE) n. 75/339 che stabilisce l'obbligo degli Stati membri di mantenere un livello minimo di scorte di combustibili fossili presso le centrali termoelettriche.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 GENNAIO 2001 N. 22))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 GENNAIO 2001 N. 22](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-01-31;22)))
+## Art. 3.
 
-Art. 2
-------
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 GENNAIO 2001 N. 22](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2098-93-CE%20che%20modifica%20la%20direttiva%2068-414-CEE%20concernente%20lobbligo%20per%20gli%20Stati%20membri%20di%20mantenere%20un%20livello%20minimo%20di%20scorte%20di%20petrolio%20greggio%20e-o%20di%20prod_4781b0d019a4.md) ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 GENNAIO 2001 N. 22](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-01-31;22)))
+## Art. 4.
 
-Art. 3
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 GENNAIO 2001 N. 22))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 GENNAIO 2001 N. 22](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-01-31;22) ))  
+## Art. 5.
 
-Art. 4
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 GENNAIO 2001 N. 22))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 GENNAIO 2001 N. 22](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-01-31;22)))
+## Art. 6.
 
-Art. 5
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 GENNAIO 2001 N. 22))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 GENNAIO 2001 N. 22](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-01-31;22)))
+## Art. 7.
 
-Art. 6
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 GENNAIO 2001 N. 22))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 GENNAIO 2001 N. 22](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-01-31;22)))
+## Art. 8.
 
-Art. 7
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 GENNAIO 2001 N. 22))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 GENNAIO 2001 N. 22](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-01-31;22)))
+## Art. 9.
 
-Art. 8
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 GENNAIO 2001 N. 22))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 GENNAIO 2001 N. 22](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-01-31;22)))
+## Art. 10.
 
-Art. 9
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 GENNAIO 2001 N. 22](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-01-31;22)))
-
-Art. 10
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 GENNAIO 2001 N. 22](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-01-31;22)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 GENNAIO 2001 N. 22))

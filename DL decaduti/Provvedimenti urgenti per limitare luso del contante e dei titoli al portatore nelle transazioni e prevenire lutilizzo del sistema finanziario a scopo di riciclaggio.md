@@ -1,52 +1,37 @@
-DECRETO-LEGGE 04 gennaio 1991 n. 2
+---
+tipo: DECRETO-LEGGE
+numero: 2
+data: 1991-01-04
+titolo: "Provvedimenti urgenti per limitare l'uso del contante e dei titoli al portatore nelle transazioni e prevenire l'utilizzo del sistema finanziario a scopo di riciclaggio."
+urn: urn:nir:stato:decreto.legge:1991-01-04;2
+codice_redazionale: 091G0004
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 04 gennaio 1991 n. 2
-==================================
+DECRETO DECADUTO
 
-Provvedimenti urgenti per limitare l'uso del contante e dei titoli al portatore nelle transazioni e prevenire l'utilizzo del sistema finanziario a scopo di riciclaggio.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 5/1/1991.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 5
-------
+## Art. 7.
 
-  
-DECRETO DECADUTO   
-
-Art. 6
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 7
-------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

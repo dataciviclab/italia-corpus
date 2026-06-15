@@ -1,66 +1,34 @@
-DECRETO-LEGGE 27 giugno 1987 n. 244
+---
+tipo: DECRETO-LEGGE
+numero: 882
+data: 1986-12-22
+titolo: "Fiscalizzazione degli oneri sociali, proroga degli sgravi contributivi nel Mezzogiorno ed interventi per settori in crisi."
+urn: urn:nir:stato:decreto.legge:1986-12-22;882
+codice_redazionale: 086U0882
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 27 giugno 1987 n. 244
-===================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 FEBBRAIO 1988, N. 48](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201987%20n.%20536%20recante%20fiscalizzazione%20degli%20oneri%20sociali%20proroga%20degli%20sgravi%20contributivi%20nel%20Mezzogiorno%20interventi%20p_6585a660f0c7.md)
 
-Fiscalizzazione degli oneri sociali, proroga degli sgravi contributivi nel Mezzogiorno ed interventi per settori in crisi.
---------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 29 FEBBRAIO 1988, N. 48](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201987%20n.%20536%20recante%20fiscalizzazione%20degli%20oneri%20sociali%20proroga%20degli%20sgravi%20contributivi%20nel%20Mezzogiorno%20interventi%20p_6585a660f0c7.md)
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 29 FEBBRAIO 1988, N. 48](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-02-29;48)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 29 FEBBRAIO 1988, N. 48](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201987%20n.%20536%20recante%20fiscalizzazione%20degli%20oneri%20sociali%20proroga%20degli%20sgravi%20contributivi%20nel%20Mezzogiorno%20interventi%20p_6585a660f0c7.md)
 
-Art. 2
-------
+## Art. 4.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 29 FEBBRAIO 1988, N. 48](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-02-29;48)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 29 FEBBRAIO 1988, N. 48](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201987%20n.%20536%20recante%20fiscalizzazione%20degli%20oneri%20sociali%20proroga%20degli%20sgravi%20contributivi%20nel%20Mezzogiorno%20interventi%20p_6585a660f0c7.md)
 
-Art. 3
-------
+## Art. 5.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 29 FEBBRAIO 1988, N. 48](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-02-29;48)
-  
-
-Art. 4
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 29 FEBBRAIO 1988, N. 48](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-02-29;48)
-  
-
-Art. 5
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 29 FEBBRAIO 1988, N. 48](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-02-29;48)
-  
-
-Art. 6
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 29 FEBBRAIO 1988, N. 48](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-02-29;48)
-  
-
-Art. 7
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 29 FEBBRAIO 1988, N. 48](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-02-29;48)
-  
-
-Art. 8
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 29 FEBBRAIO 1988, N. 48](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-02-29;48)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 29 FEBBRAIO 1988, N. 48](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201987%20n.%20536%20recante%20fiscalizzazione%20degli%20oneri%20sociali%20proroga%20degli%20sgravi%20contributivi%20nel%20Mezzogiorno%20interventi%20p_6585a660f0c7.md)

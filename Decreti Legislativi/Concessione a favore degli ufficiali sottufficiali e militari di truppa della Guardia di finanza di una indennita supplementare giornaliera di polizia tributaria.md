@@ -1,33 +1,29 @@
-DECRETO LEGISLATIVO 13 aprile 1948 n. 819
+---
+tipo: DECRETO LEGISLATIVO
+numero: 819
+data: 1948-04-13
+titolo: "Concessione a favore degli ufficiali, sottufficiali e militari di truppa della Guardia di finanza di una indennita' supplementare giornaliera di polizia tributaria."
+urn: urn:nir:stato:decreto.legislativo:1948-04-13;819
+codice_redazionale: 048U0819
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 13 aprile 1948 n. 819
-=========================================
+((PROVVEDIMENTO ABROGATO DALLA L. 24 APRILE 1962, N. 193))
 
-Concessione a favore degli ufficiali, sottufficiali e militari di truppa della Guardia di finanza di una indennita' supplementare giornaliera di polizia tributaria.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 24 APRILE 1962, N. 193))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 24 APRILE 1962, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-24;193)))
+## Art. 3.
 
-Art. 2
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 24 APRILE 1962, N. 193))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 24 APRILE 1962, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-24;193)))
+## Art. 4.
 
-Art. 3
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 24 APRILE 1962, N. 193))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 24 APRILE 1962, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-24;193)))
+## Art. 5.
 
-Art. 4
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 24 APRILE 1962, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-24;193)))
-
-Art. 5
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 24 APRILE 1962, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-24;193)))
+((PROVVEDIMENTO ABROGATO DALLA L. 24 APRILE 1962, N. 193))

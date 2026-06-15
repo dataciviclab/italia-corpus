@@ -1,53 +1,36 @@
-LEGGE 21 dicembre 2009 n. 190
-
-
-LEGGE 21 dicembre 2009 n. 190
-=============================
-
-Conversione in legge, con modificazioni, del decreto-legge 27 novembre 2009, n. 170, recante disposizione correttiva del decreto-legge 25 settembre 2009, n. 134, convertito, con modificazioni, dalla legge 24 novembre 2009, n. 167, in materia di concorsi per dirigenti scolastici. (09G00200)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/12/2009
+---
+tipo: LEGGE
+numero: 190
+data: 2009-12-21
+titolo: "Conversione in legge, con modificazioni, del decreto-legge 27 novembre 2009, n. 170, recante disposizione correttiva del decreto-legge 25 settembre 2009, n. 134, convertito, con modificazioni, dalla legge 24 novembre 2009, n. 167, in materia di concorsi per dirigenti scolastici. (09G00200)"
+urn: urn:nir:stato:legge:2009-12-21;190
+codice_redazionale: 09G00200
+vigente: true
+---
 
 La Camera dei deputati ed il Senato della Repubblica hanno approvato;
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Promulga
---------
+Promulga la seguente legge:
 
-la seguente legge:
+## Art. 1.
 
-Art. 1
-------
+1.
 
-1. Il [decreto-legge 27 novembre 2009, n. 170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2009-11-27;170), recante disposizione correttiva del [decreto-legge 25 settembre 2009, n. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2009-09-25;134), convertito, con modificazioni, dalla [legge 24 novembre 2009, n. 167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-11-24;167), in materia di concorsi per dirigenti scolastici, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
+Il [decreto-legge 27 novembre 2009, n. 170](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2009-11-27;170), recante disposizione correttiva del [decreto-legge 25 settembre 2009, n. 134](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2009-09-25;134), convertito, con modificazioni, dalla [legge 24 novembre 2009, n. 167](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20settembre%202009%20n.%20134%20recante%20disposizioni%20urgenti%20per%20garantire%20la%20continuita%20del%20servizio%20scolastico%20ed%20educativo%20per%20lanno%202_7520ba6d23b4.md), in materia di concorsi per dirigenti scolastici, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
 
-2. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
+2.
+
+La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
+
+Avvertenza: 
+ Il [decreto-legge 27 novembre 2009, n. 170](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2009-11-27;170) e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 277 del 27 novembre 2009. 
+ A norma dell'[art. 15, comma 5, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_15-com5) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), le modifiche apportate dalla legge di conversione hanno efficacia dal giorno successivo a quello della sua pubblicazione. 
+ Il testo del decreto-legge coordinato con la legge di conversione e corredato delle relative note e' pubblicato in questa stessa Gazzetta Ufficiale alla pag. 57.
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data a Roma, addi' 21 dicembre 2009
+Data a Roma, addi' 21 dicembre 2009
 
-NAPOLITANO
-
-Berlusconi, Presidente del Consiglio dei Ministri
-
-Gelmini, Ministro dell'istruzione, dell'universita' e della ricerca
-
-Visto, il Guardasigilli: Alfano
-
-Avvertenza:   
-Il [decreto-legge 27 novembre 2009, n. 170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2009-11-27;170) e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 277 del 27 novembre 2009.   
-A norma dell'[art. 15, comma 5, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art15-com5) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), le modifiche apportate dalla legge di conversione hanno efficacia dal giorno successivo a quello della sua pubblicazione.   
-Il testo del decreto-legge coordinato con la legge di conversione e corredato delle relative note e' pubblicato in questa stessa Gazzetta Ufficiale alla pag. 57.
-
-Allegato
-
- Allegato   
-MODIFICAZIONE APPORTATE IN SEDE DI CONVERSIONE AL DECRETO-LEGGE 27 NOVEMBRE 2009, N. 170   
-All'articolo 1 sono aggiunti, in fine, i seguenti commi:   
-«2-bis. Fino all'avvenuta rinnovazione e al completamento, a seguito di annullamento giurisdizionale, della procedura concorsuale a posti di dirigente scolastico, di cui al decreto direttoriale 22 novembre 2004, pubblicato nella Gazzetta Ufficiale - 4ª serie speciale - n. 94 del 26 novembre 2004, il personale in servizio con funzioni di dirigente scolastico, a seguito della procedura concorsuale annullata, continua a esercitare le funzioni medesime in via transitoria nelle sedi di rispettiva assegnazione alla data di entrata in vigore del presente decreto. Sono fatti salvi gli atti adottati dal predetto personale nell'espletamento degli incarichi di cui al presente comma.   
-2-ter. Dall'attuazione del presente decreto non devono derivare nuovi o maggiori oneri per la finanza pubblica».   
+NAPOLITANO Berlusconi, Presidente del Consiglio dei Ministri Gelmini, Ministro dell'istruzione, dell'universita' e della ricerca Visto, il Guardasigilli: Alfano

@@ -1,150 +1,145 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1969 n. 1281
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1281
+data: 1969-10-15
+titolo: "Norme integrative e modificative del regolamento per il personale degli uffici dipendenti dal Ministero delle finanze e per l'ordinamento degli uffici direttivi finanziari, approvato con regio decreto 23 marzo 1933, n. 185 e del decreto del Presidente della Repubblica 28 settembre 1959, n. 1340, recante norme per i concorsi di ammissione e di promozione nelle carriere dell'amministrazione finanziaria."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-10-15;1281
+codice_redazionale: 069U1281
+vigente: true
+---
 
+## Disposizioni in materia di ordinamento degli uffici e di attribuzioni del personale
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1969 n. 1281
-===============================================================
+CAPO I
 
-Norme integrative e modificative del regolamento per il personale degli uffici dipendenti dal Ministero delle finanze e per l'ordinamento degli uffici direttivi finanziari, approvato con regio decreto 23 marzo 1933, n. 185 e del decreto del Presidente della Repubblica 28 settembre 1959, n. 1340, recante norme per i concorsi di ammissione e di promozione nelle carriere dell'amministrazione finanziaria.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-CAPO I CAPO I Disposizioni in materia di ordinamento degli uffici e di attribuzioni del personale
--------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-### Art. 1
+### Art. 2.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-### Art. 2
+### Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-### Art. 3
+### Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-### Art. 4
+### Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-### Art. 5
+### Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-### Art. 6
+### Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-### Art. 7
+### Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-### Art. 8
+### Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-### Art. 9
+## Disposizioni in materia di concorsi di ammissione e di promozione  SEZIONE I CONCORSI DI AMMISSIONE
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+CAPO II
 
-CAPO II CAPO II Disposizioni in materia di concorsi di ammissione e di promozione SEZIONE I CONCORSI DI AMMISSIONE
-------------------------------------------------------------------------------------------------------------------
+### Art. 10.
 
-### Art. 10
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 11.
 
-### Art. 11
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 12.
 
-### Art. 12
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 13.
 
-### Art. 13
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 14.
 
-### Art. 14
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 15.
 
-### Art. 15
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 16.
 
-### Art. 16
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 17.
 
-### Art. 17
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 18.
 
-### Art. 18
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 19.
 
-### Art. 19
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+## CONCORSI DI PROMOZIONE
 
-CAPO III SEZIONE II CONCORSI DI PROMOZIONE
-------------------------------------------
+SEZIONE II
 
-### Art. 20
+### Art. 20.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-### Art. 21
+### Art. 21.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-### Art. 22
+### Art. 22.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-### Art. 23
+### Art. 23.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-CAPO IV
--------
+### Art. 24.
 
-### Art. 24
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 25.
 
-### Art. 25
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 26.
 
-### Art. 26
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 27.
 
-### Art. 27
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 28.
 
-### Art. 28
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 29.
 
-### Art. 29
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 30.
 
-### Art. 30
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 31.
 
-### Art. 31
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
-
-Quadri
-
- Quadri   
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))

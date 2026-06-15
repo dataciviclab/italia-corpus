@@ -1,119 +1,89 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1988 n. 223
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 223
+data: 1988-05-24
+titolo: "Attuazione delle direttive CEE numeri 78/631, 81/187 e 84/291 concernenti il ravvicinamento delle legislazioni degli Stati membri relative alla classificazione, all'imballaggio e all'etichettatura dei preparati pericolosi (antiparassitari), ai sensi dell'art. 15 della legge 16 aprile 1987, n. 183."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1988-05-24;223
+codice_redazionale: 088G0262
+vigente: true
+---
 
+## CLASSIFICAZIONE, IMBALLAGGIO ED ETICHETTATURA DEI PREPARATI PERICOLOSI ANTIPARASSITARI . Capo I AREA DI APPLICAZIONE
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1988 n. 223
-=============================================================
+TITOLO I
 
-Attuazione delle direttive CEE numeri 78/631, 81/187 e 84/291 concernenti il ravvicinamento delle legislazioni degli Stati membri relative alla classificazione, all'imballaggio e all'etichettatura dei preparati pericolosi (antiparassitari), ai sensi dell'art. 15 della legge 16 aprile 1987, n. 183.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del decreto: 08/07/1988
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 14 MARZO 2003, N. 65))
 
-CAPO I TITOLO I CLASSIFICAZIONE, IMBALLAGGIO ED ETICHETTATURA DEI PREPARATI PERICOLOSI ANTIPARASSITARI . Capo I AREA DI APPLICAZIONE
-------------------------------------------------------------------------------------------------------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 14 MARZO 2003, N. 65))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 14 MARZO 2003, N. 65](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-03-14;65)))
+## CLASSIFICAZIONE, IMBALLAGGIO ED ETICHETTATURA DEI PREPARATI PERICOLOSI ANTIPARASSITARI . Capo II CLASSIFICAZIONE
 
-### Art. 2
+TITOLO I
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 14 MARZO 2003, N. 65](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-03-14;65)))
+### Art. 3.
 
-CAPO II TITOLO I CLASSIFICAZIONE, IMBALLAGGIO ED ETICHETTATURA DEI PREPARATI PERICOLOSI ANTIPARASSITARI . Capo II CLASSIFICAZIONE
----------------------------------------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 14 MARZO 2003, N. 65))
 
-### Art. 3
+## CLASSIFICAZIONE, IMBALLAGGIO ED ETICHETTATURA DEI PREPARATI PERICOLOSI ANTIPARASSITARI . Capo III IMBALLAGGIO
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 14 MARZO 2003, N. 65](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-03-14;65)))
+TITOLO I
 
-CAPO III TITOLO I CLASSIFICAZIONE, IMBALLAGGIO ED ETICHETTATURA DEI PREPARATI PERICOLOSI ANTIPARASSITARI . Capo III IMBALLAGGIO
--------------------------------------------------------------------------------------------------------------------------------
+### Art. 4.
 
-### Art. 4
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 14 MARZO 2003, N. 65))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 14 MARZO 2003, N. 65](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-03-14;65)))
+## CLASSIFICAZIONE, IMBALLAGGIO ED ETICHETTATURA DEI PREPARATI PERICOLOSI ANTIPARASSITARI . Capo IV ETICHETTATURA
 
-CAPO IV TITOLO I CLASSIFICAZIONE, IMBALLAGGIO ED ETICHETTATURA DEI PREPARATI PERICOLOSI ANTIPARASSITARI . Capo IV ETICHETTATURA
--------------------------------------------------------------------------------------------------------------------------------
+TITOLO I
 
-### Art. 5
+### Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 14 MARZO 2003, N. 65](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-03-14;65)))
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 14 MARZO 2003, N. 65))
 
-CAPO V TITOLO I CLASSIFICAZIONE, IMBALLAGGIO ED ETICHETTATURA DEI PREPARATI PERICOLOSI ANTIPARASSITARI . CAPO IV ETICHETTATURA
-------------------------------------------------------------------------------------------------------------------------------
+## CLASSIFICAZIONE, IMBALLAGGIO ED ETICHETTATURA DEI PREPARATI PERICOLOSI ANTIPARASSITARI . CAPO IV ETICHETTATURA
 
-### Art. 6
+TITOLO I
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 14 MARZO 2003, N. 65](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-03-14;65)))
+### Art. 6.
 
-### Art. 7
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 14 MARZO 2003, N. 65))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 14 MARZO 2003, N. 65](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-03-14;65)))
+### Art. 7.
 
-CAPO VI TITOLO II NORME DI ATTUAZIONE Capo I AREA DI APPLICAZIONE
------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 14 MARZO 2003, N. 65))
 
-### Art. 8
+## NORME DI ATTUAZIONE Capo I AREA DI APPLICAZIONE
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 14 MARZO 2003, N. 65](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-03-14;65)))
+TITOLO II
 
-### Art. 9
+### Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 14 MARZO 2003, N. 65](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-03-14;65)))
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 14 MARZO 2003, N. 65))
 
-### Art. 10
+### Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 14 MARZO 2003, N. 65](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-03-14;65)))
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 14 MARZO 2003, N. 65))
 
-### Art. 11
+### Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 14 MARZO 2003, N. 65](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-03-14;65)))
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 14 MARZO 2003, N. 65))
 
-CAPO VII TITOLO II NORME DI ATTUAZIONE Capo II NORME FINALI
------------------------------------------------------------
+### Art. 11.
 
-### Art. 12
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 14 MARZO 2003, N. 65))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 14 MARZO 2003, N. 65](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-03-14;65)))
+## NORME DI ATTUAZIONE Capo II NORME FINALI
 
-### Art. 13
+TITOLO II
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 14 MARZO 2003, N. 65](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-03-14;65)))
+### Art. 12.
 
-Allegato I
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 14 MARZO 2003, N. 65))
 
- Allegato I   
+### Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 14 MARZO 2003, N. 65](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-03-14;65)))
-
-Allegato II
-
- Allegato II   
-
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 14 MARZO 2003, N. 65](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-03-14;65)))
-
-Allegato III
-
- Allegato III   
-
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 14 MARZO 2003, N. 65](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-03-14;65)))
-
-Allegato IV
-
- Allegato IV   
-
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 14 MARZO 2003, N. 65](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-03-14;65)))
-
-Allegato V
-
- Allegato V   
-
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 14 MARZO 2003, N. 65](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-03-14;65)))
-
-Allegato VI
-
- Allegato VI   
-
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 14 MARZO 2003, N. 65](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-03-14;65)))
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 14 MARZO 2003, N. 65))

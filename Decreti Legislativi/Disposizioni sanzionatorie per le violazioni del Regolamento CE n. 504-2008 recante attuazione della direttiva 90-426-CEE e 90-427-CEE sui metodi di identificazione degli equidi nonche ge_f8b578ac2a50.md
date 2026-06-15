@@ -1,55 +1,45 @@
-DECRETO LEGISLATIVO 16 febbraio 2011 n. 29
+---
+tipo: DECRETO LEGISLATIVO
+numero: 29
+data: 2011-02-16
+titolo: "Disposizioni sanzionatorie per le violazioni del Regolamento (CE) n. 504/2008 recante attuazione della direttiva 90/426/CEE e 90/427/CEE sui metodi di identificazione degli equidi, nonche' gestione dell'anagrafe da parte dell'UNIRE. (11G0065)"
+urn: urn:nir:stato:decreto.legislativo:2011-02-16;29
+codice_redazionale: 011G0065
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 16 febbraio 2011 n. 29
-==========================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-Disposizioni sanzionatorie per le violazioni del Regolamento (CE) n. 504/2008 recante attuazione della direttiva 90/426/CEE e 90/427/CEE sui metodi di identificazione degli equidi, nonche' gestione dell'anagrafe da parte dell'UNIRE. (11G0065)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 30/03/2011
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
-
-Art. 8
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
-
-Art. 9
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 AGOSTO 2022, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;134)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))

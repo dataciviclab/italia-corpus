@@ -1,73 +1,61 @@
-DECRETO LEGISLATIVO 30 giugno 2003 n. 190
+---
+tipo: DECRETO LEGISLATIVO
+numero: 190
+data: 2003-06-30
+titolo: "Attuazione della direttiva 2000/26/CE in materia di assicurazione della responsabilita' civile risultante dalla circolazione di autoveicoli, che modifica anche le direttive 73/239/CEE e 88/357/CEE."
+urn: urn:nir:stato:decreto.legislativo:2003-06-30;190
+codice_redazionale: 003G0217
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 30 giugno 2003 n. 190
-=========================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209))
 
-Attuazione della direttiva 2000/26/CE in materia di assicurazione della responsabilita' civile risultante dalla circolazione di autoveicoli, che modifica anche le direttive 73/239/CEE e 88/357/CEE.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 SETTEMBRE 2005, N. 209](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-07;209)))
+## Art. 3.
 
-Art. 2
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 SETTEMBRE 2005, N. 209](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-07;209)))
+## Art. 4.
 
-Art. 3
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 SETTEMBRE 2005, N. 209](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-07;209)))
+## Art. 5.
 
-Art. 4
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 SETTEMBRE 2005, N. 209](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-07;209)))
+## Art. 6.
 
-Art. 5
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 SETTEMBRE 2005, N. 209](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-07;209)))
+## Art. 7.
 
-Art. 6
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 SETTEMBRE 2005, N. 209](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-07;209)))
+## Art. 8.
 
-Art. 7
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 SETTEMBRE 2005, N. 209](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-07;209)))
+## Art. 9.
 
-Art. 8
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 SETTEMBRE 2005, N. 209](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-07;209)))
+## Art. 10.
 
-Art. 9
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 SETTEMBRE 2005, N. 209](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-07;209)))
+## Art. 11.
 
-Art. 10
--------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 SETTEMBRE 2005, N. 209](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-07;209)))
+## Art. 12.
 
-Art. 11
--------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 SETTEMBRE 2005, N. 209](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-07;209)))
+## Art. 13.
 
-Art. 12
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 SETTEMBRE 2005, N. 209](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-07;209)))
-
-Art. 13
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 SETTEMBRE 2005, N. 209](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-07;209)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209))

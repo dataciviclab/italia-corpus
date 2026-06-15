@@ -1,40 +1,25 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1982 n. 872
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 872
+data: 1982-09-10
+titolo: "Attuazione della direttiva (CEE) n. 76/891 relativa ai contatori di energia elettrica."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-09-10;872
+codice_redazionale: 082U0872
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1982 n. 872
-================================================================
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2007, N. 22 ))
 
-Attuazione della direttiva (CEE) n. 76/891 relativa ai contatori di energia elettrica.
---------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2007, N. 22 ))
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2007, N. 22](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-02-02;22) ))
+## Art. 3.
 
-Art. 2
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2007, N. 22 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2007, N. 22](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-02-02;22) ))
+## Art. 4.
 
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2007, N. 22](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-02-02;22) ))
-
-Art. 4
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2007, N. 22](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-02-02;22) ))
-
-Allegato I
-
- ALLEGATO I   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2007, N. 22](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-02-02;22) ))
-
-Allegato 2
-
- ALLEGATO 2   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2007, N. 22](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-02-02;22) ))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2007, N. 22 ))

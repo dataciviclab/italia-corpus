@@ -1,25 +1,21 @@
-DECRETO LEGISLATIVO LUOGOTENENZIALE 07 settembre 1944 n. 274
+---
+tipo: DECRETO LEGISLATIVO LUOGOTENENZIALE
+numero: 274
+data: 1944-09-07
+titolo: "Riordinamento dei servizi dell'Amministrazione centrale della guerra. (044U0274)"
+urn: urn:nir:stato:decreto.legislativo.luogotenenziale:1944-09-07;274
+codice_redazionale: 044U0274
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO LUOGOTENENZIALE 07 settembre 1944 n. 274
-============================================================
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-Riordinamento dei servizi dell'Amministrazione centrale della guerra. (044U0274)
---------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 15/11/1944
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

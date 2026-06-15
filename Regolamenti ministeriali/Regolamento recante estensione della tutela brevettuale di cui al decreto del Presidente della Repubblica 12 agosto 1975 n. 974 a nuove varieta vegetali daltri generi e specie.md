@@ -1,16 +1,14 @@
-DECRETO 31 luglio 1993 n. 545
-
-
-DECRETO 31 luglio 1993 n. 545
-=============================
-
-Regolamento recante estensione della tutela brevettuale di cui al decreto del Presidente della Repubblica 12 agosto 1975, n. 974, a nuove varieta' vegetali d'altri generi e specie.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 13-1-1994
+---
+tipo: DECRETO
+numero: 545
+data: 1993-07-31
+titolo: "Regolamento recante estensione della tutela brevettuale di cui al decreto del Presidente della Repubblica 12 agosto 1975, n. 974, a nuove varieta' vegetali d'altri generi e specie."
+urn: urn:nir:ministero.industria.commercio.e.artigianato:decreto:1993-07-31;545
+codice_redazionale: 093G0618
+vigente: true
+---
 
 IL MINISTRO DELL'INDUSTRIA
---------------------------
 
 DEL COMMERCIO E DELL'ARTIGIANATO
 
@@ -20,78 +18,74 @@ IL MINISTRO DELL'AGRICOLTURA
 
 E DELLE FORESTE
 
-Vista la [legge 16 luglio 1974, n. 722](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-07-16;722), recante la ratifica ed esecuzione della convenzione per la protezione dei ritrovati vegetali, adottata a Parigi il 2 dicembre 1961 e dell'atto addizionale recante modifiche alla convenzione stessa, adottato a Ginevra il 10 novembre 1972;
+Vista la [legge 16 luglio 1974, n. 722](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20per%20la%20protezione%20dei%20ritrovati%20vegetali%20adottata%20a%20Parigi%20il%202%20dicembre%201961%20e%20dellatto%20addizionale%20recante%20modifiche%20alla%20convenzione%20stessa%20ado_d9bc95b606c0.md), recante la ratifica ed esecuzione della convenzione per la protezione dei ritrovati vegetali, adottata a Parigi il 2 dicembre 1961 e dell'atto addizionale recante modifiche alla convenzione stessa, adottato a Ginevra il 10 novembre 1972;
 
-Visto il [decreto del Presidente della Repubblica 12 agosto 1975, n. 974](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1975-08-12;974), contenente norme per la protezione delle nuove varieta' vegetali (come modificato dalla [legge 14 ottobre 1985, n. 620](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-10-14;620)) ed in particolare l'art. 24, comma 2, il quale prevede che, mediante decreto del Ministro dell'industria, del commercio e dell'artigianato, di concerto con il Ministro dell'agricoltura e delle foreste sono adottate le norme regolamentari per estendere le disposizioni medesime alle nuove varieta' vegetali di altri generi e specie;
+Visto il [decreto del Presidente della Repubblica 12 agosto 1975, n. 974](../DPR/Norme%20per%20la%20protezione%20delle%20nuove%20varieta%20vegetali%20in%20attuazione%20della%20delega%20di%20cui%20alla%20legge%2016%20luglio%201974%20n.%20722.md), contenente norme per la protezione delle nuove varieta' vegetali (come modificato dalla [legge 14 ottobre 1985, n. 620](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellatto%20di%20revisione%20della%20convenzione%20internazionale%20del%202%20dicembre%201961%20per%20la%20protezione%20dei%20ritrovati%20vegetali%20riveduta%20il%2010%20novembre%201972%20firmato%20a%20Ginevra%20i_6b238489b16b.md)) ed in particolare l'art. 24, comma 2, il quale prevede che, mediante decreto del Ministro dell'industria, del commercio e dell'artigianato, di concerto con il Ministro dell'agricoltura e delle foreste sono adottate le norme regolamentari per estendere le disposizioni medesime alle nuove varieta' vegetali di altri generi e specie;
 
 Visto l'art. 17, comma 3, della legge 23 agosto 1988,
 
 n. 400;
 
-Considerata l'opportunita' di estendere le disposizioni recate dal citato [decreto del Presidente della Repubblica n. 974 del 1975](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1975;974) ad altri generi e specie botanici;
+Considerata l'opportunita' di estendere le disposizioni recate dal citato [decreto del Presidente della Repubblica n. 974 del 1975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1975;974) ad altri generi e specie botanici;
 
 Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 30 novembre 1992 (n. 173/92 S.G.);
 
-Vista la comunicazione al Presidente del Consiglio dei Ministri a norma dell'art. 17, comma 3, della citata [legge n. 400/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400) (nota n. DAGL 1/1.1.4/31890/4.13.42 del 29 maggio 1993);
+Vista la comunicazione al Presidente del Consiglio dei Ministri a norma dell'art. 17, comma 3, della citata [legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400) (nota n. DAGL 1/1.1.4/31890/4.13.42 del 29 maggio 1993);
 
 A D O T T A il seguente regolamento:
 
-Art. 1
-------
+## Art. 1.
 
-1. L'applicazione delle norme contenute nel [decreto del Presidente della Repubblica 12 agosto 1975, n. 974](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1975-08-12;974), viene estesa alle nuove varieta' dei generi e delle specie le cui denominazioni nella versione latina e, laddove esiste, nella versione italiana, sono riportate nell'elenco che segue:  
-Allium Sativum L., Aglio  
-Beta Vulgaris L. Var. Cycla (L.) Ulrich, Bietola  
-da coste  
-Anthriscus Cerefolium (L.) Hoffm, Cerfoglio  
-Phaseolus Coccineus (L.), Fagiolo di Spagna  
-Lens Culinaris med., Lenticchia  
-Petroselinum Crispum (Mill.) Nym  
-Ex A.W. Hill, Prezzemolo  
-Raphanus Sativus, Rafano e ravanello  
-Scorzonera Hispanica L., Scorzonera  
-Valerianella Locusta (L.) Laterr., Valeriana  
-Cucurbita Maxima Dichesne, Zucca  
-Cynara Cardunculus L., Cardo  
-Brassica Pekinensis (Lour.) Rupr., Cavolo cinese  
-Lotus Corniculatus L., Ginestrino  
-Onobrychis Vicifolia Scop., Lupinella  
-Lupinus Albus L., Lupino bianco  
-Hedisarum Coronarium L., Sulla  
-Vicia Sativa L., Veccia comune  
-Vicia Villosa Roth, Veccia vellutata  
-Arrhenaterum Elatius (L.) P. Beauv ex J S. et K.B. Presl, Avena altissima  
-Cannabis Sativa L., Canapa  
-Carthamus Tinctorius L., Cartamo  
-Brassica Rapa L. Var. Silvestris (Lam.) Briggs, Ravizzone  
-Festuca Pratensis Hudson, Festuca dei prati  
-Festuca Ovina L., Festuca ovina  
-Festuca Rubra L., Festuca rossa  
-Fhleum Pratense L., Fleolo o coda di topo  
-Lolium x Beaucheanum Kunth., Loglio ibrido  
-Diospyros Kaki L., Diospiro o Kaki (cachi)  
-Aster (Gen.), Aster  
-Chamaecytisus Palmensis L.F. Link  
-Medicago Arborea L.  
-Amerpha Fruticosa L.  
-Acer Negundo L.  
-Lavandula Sp.  
-Kalachoe (gen.)  
-Delphinium
+1.
+
+L'applicazione delle norme contenute nel [decreto del Presidente della Repubblica 12 agosto 1975, n. 974](../DPR/Norme%20per%20la%20protezione%20delle%20nuove%20varieta%20vegetali%20in%20attuazione%20della%20delega%20di%20cui%20alla%20legge%2016%20luglio%201974%20n.%20722.md), viene estesa alle nuove varieta' dei generi e delle specie le cui denominazioni nella versione latina e, laddove esiste, nella versione italiana, sono riportate nell'elenco che segue:
+ Allium Sativum L., Aglio
+ Beta Vulgaris L. Var. Cycla (L.) Ulrich, Bietola
+da coste
+ Anthriscus Cerefolium (L.) Hoffm, Cerfoglio
+ Phaseolus Coccineus (L.), Fagiolo di Spagna
+ Lens Culinaris med., Lenticchia
+ Petroselinum Crispum (Mill.) Nym
+ Ex A.W. Hill, Prezzemolo
+ Raphanus Sativus, Rafano e ravanello
+ Scorzonera Hispanica L., Scorzonera
+ Valerianella Locusta (L.) Laterr., Valeriana
+ Cucurbita Maxima Dichesne, Zucca
+ Cynara Cardunculus L., Cardo
+ Brassica Pekinensis (Lour.) Rupr., Cavolo cinese
+ Lotus Corniculatus L., Ginestrino
+ Onobrychis Vicifolia Scop., Lupinella
+ Lupinus Albus L., Lupino bianco
+ Hedisarum Coronarium L., Sulla
+ Vicia Sativa L., Veccia comune
+ Vicia Villosa Roth, Veccia vellutata
+ Arrhenaterum Elatius (L.) P. Beauv ex J S. et K.B. Presl, Avena altissima
+ Cannabis Sativa L., Canapa
+ Carthamus Tinctorius L., Cartamo
+ Brassica Rapa L. Var. Silvestris (Lam.) Briggs, Ravizzone
+ Festuca Pratensis Hudson, Festuca dei prati
+ Festuca Ovina L., Festuca ovina
+ Festuca Rubra L., Festuca rossa
+ Fhleum Pratense L., Fleolo o coda di topo
+ Lolium x Beaucheanum Kunth., Loglio ibrido
+ Diospyros Kaki L., Diospiro o Kaki (cachi)
+ Aster (Gen.), Aster
+ Chamaecytisus Palmensis L.F. Link
+ Medicago Arborea L.
+ Amerpha Fruticosa L.
+ Acer Negundo L.
+ Lavandula Sp.
+ Kalachoe (gen.)
+ Delphinium
+
+AVVERTENZA:
+ Il testo della nota qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura della disposizione di legge alla quale e' operato il rinvio e della quale restano invariati il valore e l'efficacia.
+ Nota alle premesse:
+ - Il [comma 3 dell'art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.
+ Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 31 luglio 1993
+Roma, 31 luglio 1993
 
-Il Ministro dell'industria del commercio e dell'artigianato SAVONA Il Ministro dell'agricoltura e delle foreste DIANA
-
-Visto, il Guardasigilli: CONSO Registrato alla Corte dei conti il 9 novembre 1993
-
-Registro n. 6 Industria, foglio n. 183
-
-AVVERTENZA:  
-Il testo della nota qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura della disposizione di legge alla quale e' operato il rinvio e della quale restano invariati il valore e l'efficacia.  
-Nota alle premesse:  
-- Il [comma 3 dell'art. 17 della legge n. 400/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.  
-Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
+Il Ministro dell'industria del commercio e dell'artigianato SAVONA Il Ministro dell'agricoltura e delle foreste DIANA Visto, il Guardasigilli: CONSO Registrato alla Corte dei conti il 9 novembre 1993 Registro n. 6 Industria, foglio n. 183

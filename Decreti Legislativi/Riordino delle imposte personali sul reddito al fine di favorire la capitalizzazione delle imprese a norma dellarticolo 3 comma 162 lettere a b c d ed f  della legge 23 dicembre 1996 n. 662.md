@@ -1,45 +1,37 @@
-DECRETO LEGISLATIVO 18 dicembre 1997 n. 466
+---
+tipo: DECRETO LEGISLATIVO
+numero: 466
+data: 1997-12-18
+titolo: "Riordino delle imposte personali sul reddito al fine di favorire la capitalizzazione delle imprese, a norma dell'articolo 3, comma 162, lettere a), b), c), d) ed f) , della legge 23 dicembre 1996, n. 662."
+urn: urn:nir:stato:decreto.legislativo:1997-12-18;466
+codice_redazionale: 097G0503
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 18 dicembre 1997 n. 466
-===========================================
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 12 DICEMBRE 2003, N. 344 ))
 
-Riordino delle imposte personali sul reddito al fine di favorire la capitalizzazione delle imprese, a norma dell'articolo 3, comma 162, lettere a), b), c), d) ed f) , della legge 23 dicembre 1996, n. 662.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 20/1/1998
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 12 DICEMBRE 2003, N. 344 ))
 
-Art. 1
-------
+## Art. 3.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 DICEMBRE 2003, N. 344](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 12 DICEMBRE 2003, N. 344 ))
 
-Art. 2
-------
+## Art. 4.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 DICEMBRE 2003, N. 344](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 12 DICEMBRE 2003, N. 344 ))
 
-Art. 3
-------
+## Art. 5.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 DICEMBRE 2003, N. 344](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 12 DICEMBRE 2003, N. 344 ))
 
-Art. 4
-------
+## Art. 6.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 DICEMBRE 2003, N. 344](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 12 DICEMBRE 2003, N. 344 ))
 
-Art. 5
-------
+## Art. 7.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 DICEMBRE 2003, N. 344](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344) ))
-
-Art. 6
-------
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 DICEMBRE 2003, N. 344](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344) ))
-
-Art. 7
-------
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 DICEMBRE 2003, N. 344](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 12 DICEMBRE 2003, N. 344 ))

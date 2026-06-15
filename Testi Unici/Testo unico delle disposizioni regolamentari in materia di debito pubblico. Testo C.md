@@ -1,26 +1,24 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 dicembre 2003 n. 397
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 dicembre 2003 n. 397
-===============================================================
-
-Testo unico delle disposizioni regolamentari in materia di debito pubblico. (Testo C).
---------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/3/2004
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 397
+data: 2003-12-30
+titolo: "Testo unico delle disposizioni regolamentari in materia di debito pubblico. (Testo C)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2003-12-30;397
+codice_redazionale: 004G0078
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[articolo 87, quinto comma, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com2);
+Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2);
 
-Visto l'[articolo 1 della legge 24 novembre 2000, n. 340](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-24;340~art1), recante disposizioni per la delegificazione di norme e per la semplificazione di procedimenti amministrativi - Legge di semplificazione 1999;
+Visto l'[articolo 1 della legge 24 novembre 2000, n. 340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-24;340#art_1), recante disposizioni per la delegificazione di norme e per la semplificazione di procedimenti amministrativi - Legge di semplificazione 1999;
 
-Visto l'[articolo 7, comma 1, lettera c), della legge 8 marzo 1999, n. 50](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-08;50~art7-com1-letc), ed in particolare l'allegato n. 3;
+Visto l'[articolo 7, comma 1, lettera c), della legge 8 marzo 1999, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-08;50#art_7-com1-letc), ed in particolare l'allegato n. 3;
 
-Visto l'[articolo 23, comma 3, della legge 29 luglio 2003, n. 229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-29;229~art23-com3), recante interventi in materia di qualita' della regolazione, riassetto normativo e codificazione - Legge di semplificazione 2001;
+Visto l'[articolo 23, comma 3, della legge 29 luglio 2003, n. 229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-29;229#art_23-com3), recante interventi in materia di qualita' della regolazione, riassetto normativo e codificazione - Legge di semplificazione 2001;
 
 Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 24 marzo 2003;
 
@@ -32,1028 +30,1001 @@ Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 1
 
 Sulla proposta del Presidente del Consiglio dei Ministri, del Ministro per la funzione pubblica e del Ministro dell'economia e delle finanze;
 
-Emana
------
+Emana il seguente regolamento:
 
-il seguente regolamento:
+## OGGETTO ED AMBITO DI APPLICAZIONE DEL TESTO UNICO
 
-CAPO I Titolo I OGGETTO ED AMBITO DI APPLICAZIONE DEL TESTO UNICO
------------------------------------------------------------------
+Titolo I
 
-### Art. 1
+### Art. 1. — (L)
+ Oggetto
 
-(L)  
-Oggetto
+1.
 
-  
-1.  
+### Art. 2. — (L-R)
+ Definizioni
 
-### Art. 2
+1.
 
-(L-R)  
-Definizioni
+Nel presente decreto si intendono per:
+                            a)
+                                strumenti finanziari: gli strumenti finanziari previsti dall'[articolo 1, comma 2, lettere b)](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) e [d), del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), riguardante il testo unico delle disposizioni in materia di intermediazione finanziaria;
+                            b)
+                                Ministero: il Ministero dell'economia e delle finanze;
+                            c)
+                                Tesoro: Dipartimento del tesoro;
+                            d)
+                                Ministro: il Ministro dell'economia e delle finanze;
+                            e)
+                                Capo del debito pubblico: Dirigente generale, capo della Direzione seconda del Dipartimento del tesoro;
+                            f)
+                                Direzione: Dipartimento del tesoro - Direzione II;
+                            g)
+                                debito pubblico interno: strumenti finanziari a breve, medio e lungo termine emessi in euro;
+                            h)
+                                debito pubblico estero: titoli emessi in valuta e quelli emessi secondo le medesime modalita' procedurali;
+                            i)
+                                Fondo: conto detenuto presso la Banca d'Italia e denominato «Fondo per l'ammortamento dei titoli di Stato»;
+                            l)
+                                Conto: «disponibilita' del Tesoro per il servizio di tesoreria»;
+                            m)
+                                titoli di Stato: tutte le forme di indebitamento dello Stato, a breve, medio e lungo termine, nonche' i prestiti della Ferrovie dello Stato S.p.a. riconosciuti come debiti dello Stato ai sensi dell'[articolo 2, comma 12, della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md);
+                            n)
+                                titoli: documenti, certificati o scritture, anche nelle forme di iscrizioni contabili rappresentativi di diritti su strumenti finanziari;
+                            o)
+                                prodotti finanziari: obbligazioni e titoli non negoziabili;
+                            p)
+                                intermediari: i soggetti che sono intestatari di conti presso la societa' di gestione accentrata e tramite i quali possono esercitarsi i diritti patrimoniali ed effettuarsi le operazioni di trasferimento, di vincolo o svincolo sugli strumenti medesimi oggetto di gestione accentrata;
+                            q)
+                                ridenominazione: rideterminazione in euro dei valori degli strumenti finanziari espressi in un'unita' monetaria nazionale;
+                            r)
+                                societa' di gestione accentrata: le societa' di gestione aventi sede legale in Italia ovvero nell'Unione europea che svolgono in via prevalente o esclusiva servizi di gestione accentrata di strumenti finanziari;
+                            s)
+                                societa' di gestione MTS: societa' per il mercato dei titoli di Stato -- M.T.S. - S.p.a.;
+                            t)
+                                capitale sociale: l'ammontare del capitale sociale della societa' di gestione accentrata interamente versato ed esistente;
+                            u)
+                                sistemi: i sistemi di gestione accentrata di strumenti finanziari;
+                            v)
+                                separazione cedolare: l'operazione di separazione della componente cedolare dal valore di rimborso del titolo;
+                            z)
+                                mantello: il valore di rimborso del titolo privato delle componenti cedolari;
+                            aa)
+                                ricostituzione del titolo: l'operazione di riunione con il mantello delle componenti cedolari gia' separate, anche se originate da titoli diversi, al fine di ottenere nuovi titoli;
+                            bb)
+                                valute aderenti: valute degli Stati aderenti all'Unione economica e monetaria. (L-R).
 
-1. Nel presente decreto si intendono per:
+### Art. 3. — (L)
+ Emissione
 
-a) strumenti finanziari: gli strumenti finanziari previsti dall'[articolo 1, comma 2, lettere b)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58~art1-com2-letb) e [d), del decreto legislativo 24 febbraio 1998, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58~art1-com2-letd), riguardante il testo unico delle disposizioni in materia di intermediazione finanziaria;
+1.
+ 2.
 
-b) Ministero: il Ministero dell'economia e delle finanze;
+### Art. 4. — (L)
+ Strumenti finanziari
 
-c) Tesoro: Dipartimento del tesoro;
+1.
 
-d) Ministro: il Ministro dell'economia e delle finanze;
-
-e) Capo del debito pubblico: Dirigente generale, capo della Direzione seconda del Dipartimento del tesoro;
-
-f) Direzione: Dipartimento del tesoro - Direzione II;
-
-g) debito pubblico interno: strumenti finanziari a breve, medio e lungo termine emessi in euro;
-
-h) debito pubblico estero: titoli emessi in valuta e quelli emessi secondo le medesime modalita' procedurali;
-
-i) Fondo: conto detenuto presso la Banca d'Italia e denominato «Fondo per l'ammortamento dei titoli di Stato»;
-
-l) Conto: «disponibilita' del Tesoro per il servizio di tesoreria»;
-
-m) titoli di Stato: tutte le forme di indebitamento dello Stato, a breve, medio e lungo termine, nonche' i prestiti della Ferrovie dello Stato S.p.a. riconosciuti come debiti dello Stato ai sensi dell'[articolo 2, comma 12, della legge 23 dicembre 1996, n. 662](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662~art2-com12);
-
-n) titoli: documenti, certificati o scritture, anche nelle forme di iscrizioni contabili rappresentativi di diritti su strumenti finanziari;
-
-o) prodotti finanziari: obbligazioni e titoli non negoziabili;
-
-p) intermediari: i soggetti che sono intestatari di conti presso la societa' di gestione accentrata e tramite i quali possono esercitarsi i diritti patrimoniali ed effettuarsi le operazioni di trasferimento, di vincolo o svincolo sugli strumenti medesimi oggetto di gestione accentrata;
-
-q) ridenominazione: rideterminazione in euro dei valori degli strumenti finanziari espressi in un'unita' monetaria nazionale;
-
-r) societa' di gestione accentrata: le societa' di gestione aventi sede legale in Italia ovvero nell'Unione europea che svolgono in via prevalente o esclusiva servizi di gestione accentrata di strumenti finanziari;
-
-s) societa' di gestione MTS: societa' per il mercato dei titoli di Stato -- M.T.S. - S.p.a.;
-
-t) capitale sociale: l'ammontare del capitale sociale della societa' di gestione accentrata interamente versato ed esistente;
-
-u) sistemi: i sistemi di gestione accentrata di strumenti finanziari;
-
-v) separazione cedolare: l'operazione di separazione della componente cedolare dal valore di rimborso del titolo;
-
-z) mantello: il valore di rimborso del titolo privato delle componenti cedolari;
-
-aa) ricostituzione del titolo: l'operazione di riunione con il mantello delle componenti cedolari gia' separate, anche se originate da titoli diversi, al fine di ottenere nuovi titoli;
-
-bb) valute aderenti: valute degli Stati aderenti all'Unione economica e monetaria. (L-R).
-
-### Art. 3
-
-(L)  
-Emissione
-
-  
-1.  
-2.  
-
-### Art. 4
-
-(L)  
-Strumenti finanziari
-
-  
-1.  
-
-### Art. 5
-
-(L)  
+### Art. 5. — (L)
 Disciplina del conto intrattenuto dal Tesoro presso la Banca d'Italia per il servizio di tesoreria
 
-  
-1.  
-2.  
-3.  
-4.  
-5.  
-6.  
-7.  
-8.  
-9.  
+1.
+ 2.
+ 3.
+ 4.
+ 5.
+ 6.
+ 7.
+ 8.
+ 9.
 
-### Art. 6
+### Art. 6. — (L)
+ Denominazione del debito pubblico interno
 
-(L)  
-Denominazione del debito pubblico interno
+1.
 
-  
-1.  
+### Art. 7. — (L)
+ Unita' di conto per le negoziazioni sui mercati regolamentati
 
-### Art. 7
+1.
 
-(L)  
-Unita' di conto per le negoziazioni sui mercati regolamentati
+### Art. 8. — (L)
+ Pagamenti di debito pubblico
 
-  
-1.  
+1.
+ 2.
+ 3.
 
-### Art. 8
-
-(L)  
-Pagamenti di debito pubblico
-
-  
-1.  
-2.  
-3.  
-
-CAPO II
--------
-
-### Art. 9
-
-(R)  
+### Art. 9. — (R)
 Ridenominazione dei prestiti internazionali denominati nella valuta di uno Stato partecipante
 
-1. Il Tesoro puo' ridenominare i prestiti internazionali, emessi a norma del diritto italiano, denominati nelle valute che aderiscono all'Unione economica e monetaria, qualora gli Stati emittenti abbiano ridenominato in euro il loro debito pubblico. (R).
+1.
 
-2. I prestiti internazionali di cui al comma 1 sono ridenominati con le medesime regole indicate per i titoli in lire di cui all'art. 53, sulla base del taglio minimo indicato nei rispettivi prospetti di emissione. (R).
+Il Tesoro puo' ridenominare i prestiti internazionali, emessi a norma del diritto italiano, denominati nelle valute che aderiscono all'Unione economica e monetaria, qualora gli Stati emittenti abbiano ridenominato in euro il loro debito pubblico. (R).
 
-### Art. 10
+2.
 
-(L)  
+I prestiti internazionali di cui al comma 1 sono ridenominati con le medesime regole indicate per i titoli in lire di cui all'art. 53, sulla base del taglio minimo indicato nei rispettivi prospetti di emissione. (R).
+
+### Art. 10. — (L)
 Trattamento dei riferimenti alla lira degli strumenti non ridenominati
 
-  
-1.  
+1.
 
-### Art. 11
+### Art. 11. — (L)
+ Sistema di gestione accentrata
 
-(L)  
-Sistema di gestione accentrata
+1.
+ 2.
 
-  
-1.  
-2.  
+### Art. 12. — (L)
+ Attribuzioni della societa' di gestione e dell'intermediario
 
-### Art. 12
+1.
+ 2.
+ 3.
 
-(L)  
-Attribuzioni della societa' di gestione e dell'intermediario
+### Art. 13. — (L)
+ Compiti dell'intermediario
 
-  
-1.  
-2.  
-3.  
+1.
+ 2.
 
-### Art. 13
+### Art. 14. — (L)
+ Diritti del titolare del conto
 
-(L)  
-Compiti dell'intermediario
+1.
+ 2.
 
-  
-1.  
-2.  
+### Art. 15. — (L)
+ Costituzione di vincoli
 
-### Art. 14
+1.
 
-(L)  
-Diritti del titolare del conto
+### Art. 16. — (L)
+ Responsabilita' dell'intermediario
 
-  
-1.  
-2.  
+1.
 
-### Art. 15
-
-(L)  
-Costituzione di vincoli
-
-  
-1.  
-
-### Art. 16
-
-(L)  
-Responsabilita' dell'intermediario
-
-  
-1.  
-
-### Art. 17
-
-(L)  
+### Art. 17. — (L)
 Ammissibilita' del servizio di riproduzione in fac-simile nella partecipazione alle aste dei titoli di Stato
 
-  
-1.  
+1.
 
-### Art. 18
+### Art. 18. — (L)
+ Prestazioni, depositi o reinvestimenti in titoli di Stato
 
-(L)  
-Prestazioni, depositi o reinvestimenti in titoli di Stato
+1.
+ 2.
+ 3.
 
-  
-1.  
-2.  
-3.  
+### Art. 19. — (L)
+ Conservazione dei documenti
 
-### Art. 19
+1.
+ 2.
 
-(L)  
-Conservazione dei documenti
+### Art. 20. — (L)
+ Pagamento di valori
 
-  
-1.  
-2.  
+1.
 
-### Art. 20
+## Prescrizione
 
-(L)  
-Pagamento di valori
+Sezione II
 
-  
-1.  
+### Art. 21. — (L)
+ Prescrizione degli interessi e del capitale
 
-CAPO III Sezione II Prescrizione
---------------------------------
+1.
+ 2.
 
-### Art. 21
+### Art. 22. — (L)
+ Interruzione della prescrizione
 
-(L)  
-Prescrizione degli interessi e del capitale
+1.
+ 2.
 
-  
-1.  
-2.  
+### Art. 23. — (L)
+ Termini di prescrizione
 
-### Art. 22
+1.
 
-(L)  
-Interruzione della prescrizione
+## Gestione accentrata
 
-  
-1.  
-2.  
+Sezione III
 
-### Art. 23
+### Art. 24. — (R)
+ Individuazione delle societa' di gestione accentrata
 
-(L)  
-Termini di prescrizione
+1.
 
-  
-1.  
+La societa' di gestione accentrata dei titoli di Stato viene individuata tra quelle autorizzate ai sensi dell'[articolo 80, comma 9, del decreto legislativo n. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58#art_80-com9) oppure tra quelle che svolgono, in via prevalente o esclusiva, servizi di gestione accentrata di strumenti finanziari, purche' siano assoggettabili alla normativa sulla vigilanza prevista dall'articolo 82 del decreto legislativo medesimo. (R).
 
-CAPO IV Sezione III Gestione accentrata
----------------------------------------
+2.
 
-### Art. 24
+Le societa' di gestione accentrata che intendono svolgere l'attivita' di gestione accentrata dei titoli di Stato e che rispondono ai criteri di cui al comma 3 e ai requisiti previsti dall'[articolo 80, commi 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58#art_80-com4) e [6, del decreto legislativo n. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58#art_80-com6), inoltrano domanda al Ministero. (R).
 
-(R)  
-Individuazione delle societa' di gestione accentrata
+3.
 
-1. La societa' di gestione accentrata dei titoli di Stato viene individuata tra quelle autorizzate ai sensi dell'[articolo 80, comma 9, del decreto legislativo n. 58/1998](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58~art80-com9) oppure tra quelle che svolgono, in via prevalente o esclusiva, servizi di gestione accentrata di strumenti finanziari, purche' siano assoggettabili alla normativa sulla vigilanza prevista dall'articolo 82 del decreto legislativo medesimo. (R).
+Il Ministero individua la societa' di gestione accentrata dei titoli di Stato sulla base dei seguenti criteri, che dovranno risultare dallo statuto, dal regolamento dei servizi o da idonea documentazione:
+                            a)
+                                grado di patrimonializzazione, che comprenda un capitale sociale non inferiore a quindici milioni d'euro;
+                            b)
+                                struttura organizzativa, con particolare riferimento alle condizioni e modalita' di svolgimento delle attivita' di gestione accentrata, alla qualita' e tipologia dei servizi offerti ed al grado di trasparenza dei sistemi;
+                            c)
+                                operativita' con altre societa' di gestione accentrata;
+                            d)
+                                svolgimento di attivita' connesse e strumentali;
+                            e)
+                                eventuali costi del servizio per l'emittente e oneri per i partecipanti al sistema, nel rispetto di quanto previsto dall'[articolo 81, comma 3, del decreto legislativo n. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58#art_81-com3);
+                            f)
+                                intermediari ammessi al sistema;
+                            g)
+                                impegno ad osservare, nelle ipotesi di cui all'articolo 85, comma 1, del decreto legislativo di cui alla lettera e), le disposizioni previste dallo stesso articolo e dai successivi articoli 86, 87 e 88. (R).
 
-2. Le societa' di gestione accentrata che intendono svolgere l'attivita' di gestione accentrata dei titoli di Stato e che rispondono ai criteri di cui al comma 3 e ai requisiti previsti dall'[articolo 80, commi 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58~art80-com4) e [6, del decreto legislativo n. 58/1998](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58~art80-com6), inoltrano domanda al Ministero. (R).
+4.
 
-3. Il Ministero individua la societa' di gestione accentrata dei titoli di Stato sulla base dei seguenti criteri, che dovranno risultare dallo statuto, dal regolamento dei servizi o da idonea documentazione:
+Il Ministero comunica l'esito del procedimento attivato con la domanda di cui al comma 2, entro il termine di 60 giorni dalla data di ricevimento di tale domanda. Il predetto termine e' sospeso ove il Ministero richieda ulteriori informazioni, e, dalla data di ricezione delle stesse, decorre un nuovo termine di 30 giorni. (R).
 
-a) grado di patrimonializzazione, che comprenda un capitale sociale non inferiore a quindici milioni d'euro;
+5.
 
-b) struttura organizzativa, con particolare riferimento alle condizioni e modalita' di svolgimento delle attivita' di gestione accentrata, alla qualita' e tipologia dei servizi offerti ed al grado di trasparenza dei sistemi;
+Successivamente all'individuazione della societa' di gestione accentrata dei titoli di Stato, il Ministero puo' valutare nuove domande per l'affidamento dell'attivita' di gestione accentrata. (R).
 
-c) operativita' con altre societa' di gestione accentrata;
+6.
 
-d) svolgimento di attivita' connesse e strumentali;
+Il Ministero puo' affidare a piu' societa' la gestione accentrata dei titoli di Stato. (R).
 
-e) eventuali costi del servizio per l'emittente e oneri per i partecipanti al sistema, nel rispetto di quanto previsto dall'[articolo 81, comma 3, del decreto legislativo n. 58/1998](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58~art81-com3);
+### Art. 25. — (R)
+ Soggetti ammessi ai sistemi
 
-f) intermediari ammessi al sistema;
+1.
 
-g) impegno ad osservare, nelle ipotesi di cui all'articolo 85, comma 1, del decreto legislativo di cui alla lettera e), le disposizioni previste dallo stesso articolo e dai successivi articoli 86, 87 e 88. (R).
+Il Ministero e' ammesso ai sistemi e puo' aprire, presso le societa' di gestione accentrata dei titoli di Stato, anche conti di proprieta'. (R).
 
-4. Il Ministero comunica l'esito del procedimento attivato con la domanda di cui al comma 2, entro il termine di 60 giorni dalla data di ricevimento di tale domanda. Il predetto termine e' sospeso ove il Ministero richieda ulteriori informazioni, e, dalla data di ricezione delle stesse, decorre un nuovo termine di 30 giorni. (R).
+### Art. 26. — (R)
+ Rapporti tra il Tesoro e societa' di gestione accentrata
 
-5. Successivamente all'individuazione della societa' di gestione accentrata dei titoli di Stato, il Ministero puo' valutare nuove domande per l'affidamento dell'attivita' di gestione accentrata. (R).
+1.
 
-6. Il Ministero puo' affidare a piu' societa' la gestione accentrata dei titoli di Stato. (R).
+Il rapporto tra il Ministero e la gestione accentrata dei titoli di Stato e' regolato da una convenzione che in ogni caso deve prevedere:
+                            a)
+                                le modalita' di verifica dei saldi dei conti di cui all'articolo 27;
+                            b)
+                                la durata e le modalita' di rinnovo;
+                            c)
+                                le cause, le modalita' e i termini di recesso;
+                            d)
+                                le modalita' di svolgimento degli adempimenti di cui al comma 2;
+                            e)
+                                le modalita' e i termini di invio, anche alla Banca d'Italia, delle informazioni relative alle movimentazioni giornaliere delle consistenze dei titoli di Stato accentrati;
+                            f)
+                                le modalita' e i termini di invio, anche alla Banca d'Italia, delle informazioni relative ai pagamenti da effettuare per i valori in scadenza;
+                            g)
+                                le modalita' e i termini di informazione al pubblico dei valori nominali dei titoli di Stato oggetto di separazione cedolare;
+                            h)
+                                le modalita' per la cancellazione dei titoli oggetto di riacquisto a valere sulle disponibilita' del Fondo e i termini di informazione al pubblico delle suddette operazioni. (R).
 
-### Art. 25
+2.
 
-(R)  
-Soggetti ammessi ai sistemi
+A decorrere dal termine previsto dall'articolo 24, comma 4, gli adempimenti svolti dalla Banca d'Italia come gestore accentrato dei titoli di Stato sono eseguiti dalla societa' di gestione accentrata dei titoli di Stato. (R).
 
-1. Il Ministero e' ammesso ai sistemi e puo' aprire, presso le societa' di gestione accentrata dei titoli di Stato, anche conti di proprieta'. (R).
+3.
 
-### Art. 26
+La Banca d'Italia continua a svolgere il servizio di tesoreria relativo ai titoli di Stato in base alla normativa vigente. (R).
 
-(R)  
-Rapporti tra il Tesoro e societa' di gestione accentrata
+### Art. 27. — (R)
+ Quadratura dei conti
 
-1. Il rapporto tra il Ministero e la gestione accentrata dei titoli di Stato e' regolato da una convenzione che in ogni caso deve prevedere:
+1.
 
-a) le modalita' di verifica dei saldi dei conti di cui all'articolo 27;
+La societa' di gestione accentrata dei titoli di Stato, al termine delle elaborazioni di tutte le operazioni effettuate in ciascuna giornata contabile, per ciascun titolo di Stato immesso nel sistema, verifica che la somma dei saldi dei conti degli intermediari, di proprieta' e di terzi, e dell'eventuale conto per la gestione degli strumenti finanziari di proprieta' della societa' di gestione medesima, coincida con il capitale dematerializzato in circolazione di ciascuna emissione, tenendo eventualmente conto di acquisti sul mercato. (R).
 
-b) la durata e le modalita' di rinnovo;
+2.
 
-c) le cause, le modalita' e i termini di recesso;
+La societa' di gestione accentrata dei titoli di Stato invia, periodicamente, le movimentazioni effettuate e i saldi giornalieri di ciascuna emissione al Tesoro e alla Banca d'Italia, che effettuano la verifica di cui all'articolo 26, comma 1, lettera a), per le emissioni completamente dematerializzate. Le eventuali differenze riscontrate sono comunicate dal Tesoro, d'intesa con la Banca d'Italia, alla societa' di gestione accentrata dei titoli di Stato che provvede tempestivamente ai riscontri di competenza e alle opportune rettifiche. (R).
 
-d) le modalita' di svolgimento degli adempimenti di cui al comma 2;
+3.
 
-e) le modalita' e i termini di invio, anche alla Banca d'Italia, delle informazioni relative alle movimentazioni giornaliere delle consistenze dei titoli di Stato accentrati;
-
-f) le modalita' e i termini di invio, anche alla Banca d'Italia, delle informazioni relative ai pagamenti da effettuare per i valori in scadenza;
-
-g) le modalita' e i termini di informazione al pubblico dei valori nominali dei titoli di Stato oggetto di separazione cedolare;
-
-h) le modalita' per la cancellazione dei titoli oggetto di riacquisto a valere sulle disponibilita' del Fondo e i termini di informazione al pubblico delle suddette operazioni. (R).
-
-2. A decorrere dal termine previsto dall'articolo 24, comma 4, gli adempimenti svolti dalla Banca d'Italia come gestore accentrato dei titoli di Stato sono eseguiti dalla societa' di gestione accentrata dei titoli di Stato. (R).
-
-3. La Banca d'Italia continua a svolgere il servizio di tesoreria relativo ai titoli di Stato in base alla normativa vigente. (R).
-
-### Art. 27
-
-(R)  
-Quadratura dei conti
-
-1. La societa' di gestione accentrata dei titoli di Stato, al termine delle elaborazioni di tutte le operazioni effettuate in ciascuna giornata contabile, per ciascun titolo di Stato immesso nel sistema, verifica che la somma dei saldi dei conti degli intermediari, di proprieta' e di terzi, e dell'eventuale conto per la gestione degli strumenti finanziari di proprieta' della societa' di gestione medesima, coincida con il capitale dematerializzato in circolazione di ciascuna emissione, tenendo eventualmente conto di acquisti sul mercato. (R).
-
-2. La societa' di gestione accentrata dei titoli di Stato invia, periodicamente, le movimentazioni effettuate e i saldi giornalieri di ciascuna emissione al Tesoro e alla Banca d'Italia, che effettuano la verifica di cui all'articolo 26, comma 1, lettera a), per le emissioni completamente dematerializzate. Le eventuali differenze riscontrate sono comunicate dal Tesoro, d'intesa con la Banca d'Italia, alla societa' di gestione accentrata dei titoli di Stato che provvede tempestivamente ai riscontri di competenza e alle opportune rettifiche. (R).
-
-3. La Banca d'Italia, nell'ambito del servizio di tesoreria ad essa affidato e fermo restando l'ammontare del compenso corrisposto dal Tesoro per tale servizio in applicazione della convenzione del 17 gennaio 1992, provvede al tempestivo pagamento dei valori in scadenza, previa verifica delle informazioni inviate dalla societa' di gestione accentrata dei titoli di Stato ai sensi dell'articolo 26.  
+La Banca d'Italia, nell'ambito del servizio di tesoreria ad essa affidato e fermo restando l'ammontare del compenso corrisposto dal Tesoro per tale servizio in applicazione della convenzione del 17 gennaio 1992, provvede al tempestivo pagamento dei valori in scadenza, previa verifica delle informazioni inviate dalla societa' di gestione accentrata dei titoli di Stato ai sensi dell'articolo 26.
 La Banca d'Italia informa il Tesoro delle eventuali differenze riscontrate. Rimane confermato l'obbligo della rendicontazione dei pagamenti ai sensi della normativa sulla contabilita' di Stato. (R).
 
-4. La quadratura di cui al comma 1, relativa ai titoli di Stato oggetto delle operazioni di separazione cedolare e di ricostituzione ai sensi degli articoli 40, 41 e 42, viene effettuata dalla societa' di gestione accentrata dei titoli di Stato esclusivamente nei confronti degli intermediari. (R).
+4.
 
-CAPO V Capo II Mercato secondario dei titoli di Stato Sezione I Ammissione a quotazione dei titoli di Stato
------------------------------------------------------------------------------------------------------------
+La quadratura di cui al comma 1, relativa ai titoli di Stato oggetto delle operazioni di separazione cedolare e di ricostituzione ai sensi degli articoli 40, 41 e 42, viene effettuata dalla societa' di gestione accentrata dei titoli di Stato esclusivamente nei confronti degli intermediari. (R).
 
-### Art. 28
+## Mercato secondario dei titoli di Stato Sezione I Ammissione a quotazione dei titoli di Stato
 
-(R)  
+Capo II
+
+### Art. 28. — (R)
 Ammissione a quotazione sul mercato interno e sui mercati internazionali
 
-1. Sono ammesse alla quotazione ufficiale tutte le categorie di titoli di Stato a breve, medio e lungo termine, emessi con apposito decreto del Tesoro, compresi i titoli di Stato convertibili in azioni o con warrant di societa' per azioni quotate. (R).
+1.
 
-2. La quotazione dei titoli e' disposta dalla Commissione nazionale per le societa' e la borsa (CONSOB) a seguito di comunicazione dell'avvenuta emanazione del decreto di emissione da parte del Tesoro contenente anche la specificazione del taglio minimo dei titoli. Tale comunicazione si ritiene eseguita mediante trasmissione anche via fax, del decreto medesimo. (R).
+Sono ammesse alla quotazione ufficiale tutte le categorie di titoli di Stato a breve, medio e lungo termine, emessi con apposito decreto del Tesoro, compresi i titoli di Stato convertibili in azioni o con warrant di societa' per azioni quotate. (R).
 
-3. La quotazione dei titoli assegnati tramite la procedura d'asta ha luogo il giorno successivo all'effettuazione della stessa. (R).
+2.
 
-### Art. 29
+La quotazione dei titoli e' disposta dalla Commissione nazionale per le societa' e la borsa (CONSOB) a seguito di comunicazione dell'avvenuta emanazione del decreto di emissione da parte del Tesoro contenente anche la specificazione del taglio minimo dei titoli. Tale comunicazione si ritiene eseguita mediante trasmissione anche via fax, del decreto medesimo. (R).
 
-(R)  
-Informazione al pubblico
+3.
 
-1. Le informazioni al pubblico concernenti i diritti sia patrimoniali che non, derivanti dal possesso dei titoli, sono diffuse mediante la pubblicazione nella Gazzetta Ufficiale del relativo provvedimento del Tesoro. (R).
+La quotazione dei titoli assegnati tramite la procedura d'asta ha luogo il giorno successivo all'effettuazione della stessa. (R).
 
-### Art. 30
+### Art. 29. — (R)
+ Informazione al pubblico
 
-(R)  
-Cancellazione dal listino
+1.
 
-  
-La cancellazione dal listino dei titoli puo' essere disposta dalla CONSOB su richiesta del Tesoro, quando siano venute meno l'esigenza o l'utilita' della quotazione di borsa. (R).  
+Le informazioni al pubblico concernenti i diritti sia patrimoniali che non, derivanti dal possesso dei titoli, sono diffuse mediante la pubblicazione nella Gazzetta Ufficiale del relativo provvedimento del Tesoro. (R).
 
-CAPO VI Sezione II Regolamento dei mercati secondari all'ingrosso dei titoli di Stato
--------------------------------------------------------------------------------------
+### Art. 30. — (R)
+ Cancellazione dal listino
 
-### Art. 31
+La cancellazione dal listino dei titoli puo' essere disposta dalla CONSOB su richiesta del Tesoro, quando siano venute meno l'esigenza o l'utilita' della quotazione di borsa. (R).
 
-(R)  
-Regolamento del mercato
+## Regolamento dei mercati secondari all'ingrosso dei titoli di Stato
 
-1. L'organizzazione e la gestione dei mercati all'ingrosso dei titoli di Stato italiani ed esteri sono disciplinati da regolamenti deliberati dall'assemblea ordinaria delle rispettive societa' di gestione; i regolamenti possono attribuire al Consiglio di amministrazione il potere di dettare disposizioni d'attuazione. I regolamenti disciplinano in ogni caso:
+Sezione II
 
-a) le condizioni e le modalita' di ammissione degli operatori alle negoziazioni, con riferimento anche all'adeguatezza patrimoniale e ai livelli di operativita';
+### Art. 31. — (R)
+ Regolamento del mercato
 
-b) le condizioni e le modalita' per lo svolgimento delle negoziazioni anche con riferimento alle modalita' tecniche ed al numero minimo di partecipanti e gli eventuali obblighi degli operatori, nonche' le misure adottabili nei confronti degli operatori inadempienti;
+1.
 
-c) le caratteristiche organizzative, i livelli di patrimonializzazione e di operativita' degli operatori principali;
+L'organizzazione e la gestione dei mercati all'ingrosso dei titoli di Stato italiani ed esteri sono disciplinati da regolamenti deliberati dall'assemblea ordinaria delle rispettive societa' di gestione; i regolamenti possono attribuire al Consiglio di amministrazione il potere di dettare disposizioni d'attuazione. I regolamenti disciplinano in ogni caso:
+                            a)
+                                le condizioni e le modalita' di ammissione degli operatori alle negoziazioni, con riferimento anche all'adeguatezza patrimoniale e ai livelli di operativita';
+                            b)
+                                le condizioni e le modalita' per lo svolgimento delle negoziazioni anche con riferimento alle modalita' tecniche ed al numero minimo di partecipanti e gli eventuali obblighi degli operatori, nonche' le misure adottabili nei confronti degli operatori inadempienti;
+                            c)
+                                le caratteristiche organizzative, i livelli di patrimonializzazione e di operativita' degli operatori principali;
+                            d)
+                                gli obblighi degli operatori principali, che devono formulare in via continuativa offerte di acquisto e di vendita di titoli, differenziati per caratteristiche, mantenere condizioni competitive di prezzo e svolgere scambi significativi;
+                            e)
+                                i titoli e i contratti ammessi, nonche' i criteri per la determinazione dei quantitativi minimi negoziabili, che non potranno essere comunque inferiori a quelli determinati ai sensi dell'[articolo 61, comma 10, del decreto legislativo n. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58#art_61-com10);
+                            f)
+                                le condizioni e le modalita' per la sospensione e l'esclusione dei soggetti e dei titoli ammessi alle negoziazioni;
+                            g)
+                                le modalita' di accertamento, pubblicazione e diffusione dei prezzi, nonche' l'elaborazione e la diffusione in forma aggregata di prezzi e quantita' negoziate. (R).
 
-d) gli obblighi degli operatori principali, che devono formulare in via continuativa offerte di acquisto e di vendita di titoli, differenziati per caratteristiche, mantenere condizioni competitive di prezzo e svolgere scambi significativi;
+2.
 
-e) i titoli e i contratti ammessi, nonche' i criteri per la determinazione dei quantitativi minimi negoziabili, che non potranno essere comunque inferiori a quelli determinati ai sensi dell'[articolo 61, comma 10, del decreto legislativo n. 58/1998](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58~art61-com10);
+I regolamenti di cui al comma 1, e le eventuali successive modificazioni ai medesimi sono approvate, entro 90 giorni, dal Ministro, sentita la Banca d'Italia e la CONSOB, verificandone la conformita' al presente capo e alla disciplina comunitaria nonche' l'idoneita' ad assicurare l'efficienza complessiva del mercato, un'adeguata e corretta informativa e l'ordinato svolgimento degli scambi. (R).
 
-f) le condizioni e le modalita' per la sospensione e l'esclusione dei soggetti e dei titoli ammessi alle negoziazioni;
+3.
 
-g) le modalita' di accertamento, pubblicazione e diffusione dei prezzi, nonche' l'elaborazione e la diffusione in forma aggregata di prezzi e quantita' negoziate. (R).
+Per la pubblicita' dei regolamenti vengono osservate le disposizioni emanate dalla CONSOB ai sensi dell'[articolo 62, comma 3, del decreto legislativo n. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58#art_62-com3). (R).
 
-2. I regolamenti di cui al comma 1, e le eventuali successive modificazioni ai medesimi sono approvate, entro 90 giorni, dal Ministro, sentita la Banca d'Italia e la CONSOB, verificandone la conformita' al presente capo e alla disciplina comunitaria nonche' l'idoneita' ad assicurare l'efficienza complessiva del mercato, un'adeguata e corretta informativa e l'ordinato svolgimento degli scambi. (R).
+### Art. 32. — (R)
+ Autorizzazione dei mercati all'ingrosso di titoli di Stato
 
-3. Per la pubblicita' dei regolamenti vengono osservate le disposizioni emanate dalla CONSOB ai sensi dell'[articolo 62, comma 3, del decreto legislativo n. 58/1998](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58~art62-com3). (R).
+1.
 
-### Art. 32
+Entro il termine di 60 giorni dalla data di ricezione dell'istanza della societa' di gestione, il Tesoro, sentite la Banca d'Italia e la CONSOB che si pronunciano entro 30 giorni dalla richiesta, autorizza l'esercizio dei mercati quando:
+                            a)
+                                la societa' di gestione dimostra di possedere i requisiti previsti dall'articolo 61, commi 2, 3, 4, e 5, del [decreto legislativo n. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58);
+                            b)
+                                il regolamento e' stato approvato ai sensi dell'articolo 31, comma 2, del presente testo unico. (R).
 
-(R)  
-Autorizzazione dei mercati all'ingrosso di titoli di Stato
+2.
 
-1. Entro il termine di 60 giorni dalla data di ricezione dell'istanza della societa' di gestione, il Tesoro, sentite la Banca d'Italia e la CONSOB che si pronunciano entro 30 giorni dalla richiesta, autorizza l'esercizio dei mercati quando:
+Ove il Tesoro richieda informazioni complementari alla societa' di gestione del mercato, i termini di cui al comma 1 sono interrotti e, dalla data di ricezione di tali informazioni, decorre un nuovo termine di 30 giorni. (R).
 
-a) la societa' di gestione dimostra di possedere i requisiti previsti dall'articolo 61, commi 2, 3, 4, e 5, del [decreto legislativo n. 58/1998](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58);
+3.
 
-b) il regolamento e' stato approvato ai sensi dell'articolo 31, comma 2, del presente testo unico. (R).
+Il difetto dei requisiti di onorabilita' e professionalita' dei soggetti che svolgono funzioni di amministrazione, direzione e controllo di cui all'[articolo 61, comma 3, del decreto legislativo n. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58#art_61-com3), determina la decadenza dalla carica. Essa e' dichiarata dal consiglio di amministrazione entro 30 giorni dalla nomina o dalla conoscenza del difetto sopravvenuto. In caso d'inerzia, la decadenza e' pronunciata dalla Banca d'Italia. (R).
 
-2. Ove il Tesoro richieda informazioni complementari alla societa' di gestione del mercato, i termini di cui al comma 1 sono interrotti e, dalla data di ricezione di tali informazioni, decorre un nuovo termine di 30 giorni. (R).
+4.
 
-3. Il difetto dei requisiti di onorabilita' e professionalita' dei soggetti che svolgono funzioni di amministrazione, direzione e controllo di cui all'[articolo 61, comma 3, del decreto legislativo n. 58/1998](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58~art61-com3), determina la decadenza dalla carica. Essa e' dichiarata dal consiglio di amministrazione entro 30 giorni dalla nomina o dalla conoscenza del difetto sopravvenuto. In caso d'inerzia, la decadenza e' pronunciata dalla Banca d'Italia. (R).
+Le comunicazioni di cui all'[articolo 61, comma 6, del decreto legislativo n. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58#art_61-com6) sono effettuate anche al Tesoro e alla Banca d'Italia. Si applica l'[articolo 61, comma 7, del decreto legislativo n. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58#art_61-com7); in caso di inosservanza si applica l'articolo 14, comma 5, del decreto legislativo medesimo. L'impugnazione puo' essere proposta anche dalla Banca d'Italia entro il termine previsto dall'[articolo 14, comma 6, del decreto legislativo n. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58#art_14-com6). (R).
 
-4. Le comunicazioni di cui all'[articolo 61, comma 6, del decreto legislativo n. 58/1998](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58~art61-com6) sono effettuate anche al Tesoro e alla Banca d'Italia. Si applica l'[articolo 61, comma 7, del decreto legislativo n. 58/1998](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58~art61-com7); in caso di inosservanza si applica l'articolo 14, comma 5, del decreto legislativo medesimo. L'impugnazione puo' essere proposta anche dalla Banca d'Italia entro il termine previsto dall'[articolo 14, comma 6, del decreto legislativo n. 58/1998](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58~art14-com6). (R).
+5.
 
-5. La CONSOB iscrive i mercati autorizzati nell'elenco di cui all'[articolo 63, comma 2, del decreto legislativo n. 58/1998](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58~art63-com2), curando l'adempimento delle disposizioni comunitarie in materia. (R).
+La CONSOB iscrive i mercati autorizzati nell'elenco di cui all'[articolo 63, comma 2, del decreto legislativo n. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58#art_63-com2), curando l'adempimento delle disposizioni comunitarie in materia. (R).
 
-### Art. 33
+### Art. 33. — (R)
+ Specialisti in titoli di Stato
 
-(R)  
-Specialisti in titoli di Stato
+1.
 
-1. Per ciascun mercato all'ingrosso dei titoli di Stato, il Tesoro, in relazione alle esigenze connesse alla gestione del debito pubblico, iscrive, in un apposito elenco denominato «elenco degli specialisti in titoli di Stato» (gli «specialisti»), gli operatori principali di cui all'articolo 31, comma 1, lettera d), che ne facciano domanda e che siano in possesso dei requisiti indicati al comma seguente. (R).
+Per ciascun mercato all'ingrosso dei titoli di Stato, il Tesoro, in relazione alle esigenze connesse alla gestione del debito pubblico, iscrive, in un apposito elenco denominato «elenco degli specialisti in titoli di Stato» (gli «specialisti»), gli operatori principali di cui all'articolo 31, comma 1, lettera d), che ne facciano domanda e che siano in possesso dei requisiti indicati al comma seguente. (R).
 
-2. L'iscrizione nell'elenco di cui al comma 1, e' subordinata alle seguenti condizioni:
+2.
 
-a) possesso di un patrimonio netto di vigilanza pari ad almeno Euro 38.374.267,43;
+L'iscrizione nell'elenco di cui al comma 1, e' subordinata alle seguenti condizioni:
+                            a)
+                                possesso di un patrimonio netto di vigilanza pari ad almeno Euro 38.374.267,43;
+                            b)
+                                svolgimento di un'attivita' nei diversi comparti del mercato secondario coerente con gli obiettivi di gestione del debito pubblico, con particolare riguardo alla continuita' dell'attivita' svolta, al numero e alla tipologia dei titoli trattati, nonche' alle quantita' scambiate;
+                            c)
+                                possesso di una struttura organizzativa idonea, in particolare, ad assicurare il collocamento dei titoli di Stato presso gli investitori finali;
+                            d)
+                                aggiudicazione, su base annua, anche a livello di gruppo, di una quota pari ad almeno il 3 per cento del totale dei titoli emessi nelle aste sul mercato primario dei titoli di Stato. La suddetta quota verra' calcolata tenendo conto delle differenti caratteristiche finanziarie dei medesimi titoli. (R).
 
-b) svolgimento di un'attivita' nei diversi comparti del mercato secondario coerente con gli obiettivi di gestione del debito pubblico, con particolare riguardo alla continuita' dell'attivita' svolta, al numero e alla tipologia dei titoli trattati, nonche' alle quantita' scambiate;
+3.
 
-c) possesso di una struttura organizzativa idonea, in particolare, ad assicurare il collocamento dei titoli di Stato presso gli investitori finali;
+Si considerano appartenenti al gruppo del soggetto che ha richiesto l'iscrizione di cui al comma 1 coloro che:
+                            a)
+                                controllano il predetto soggetto, ovvero ne siano controllati;
+                            b)
+                                sono controllati dallo stesso soggetto che controlla il soggetto che ha richiesto l'scrizione.
+ 2. Ai fini dell'individuazione del rapporto di controllo si applica l'[articolo 23 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_23). (R).
 
-d) aggiudicazione, su base annua, anche a livello di gruppo, di una quota pari ad almeno il 3 per cento del totale dei titoli emessi nelle aste sul mercato primario dei titoli di Stato. La suddetta quota verra' calcolata tenendo conto delle differenti caratteristiche finanziarie dei medesimi titoli. (R).
+4.
 
-3. Si considerano appartenenti al gruppo del soggetto che ha richiesto l'iscrizione di cui al comma 1 coloro che:
+Gli operatori principali che richiedono l'iscrizione nell'elenco di cui al comma 1 devono dimostrare di possedere i requisiti di cui al comma 2 nei dodici mesi successivi alla data di presentazione della domanda. La verifica dei requisiti viene effettuata dal Tesoro. (R).
 
-a) controllano il predetto soggetto, ovvero ne siano controllati;
+5.
 
-b) sono controllati dallo stesso soggetto che controlla il soggetto che ha richiesto l'scrizione.  
-2. Ai fini dell'individuazione del rapporto di controllo si applica l'[articolo 23 del decreto legislativo 1° settembre 1993, n. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385~art23). (R).
+Il Tesoro sottopone a verifica ogni 2 anni l'elenco degli «specialisti» di cui al comma 1. Prima della scadenza del termine per la verifica dell'elenco degli «specialisti», l'esclusione di uno di essi puo' avvenire qualora venga meno uno dei requisiti di cui al comma 2 ovvero per gravi motivi, nel caso di comportamenti che contrastino con l'efficienza complessiva del mercato o con l'ordinato svolgimento delle negoziazioni. Gli operatori esclusi dall'elenco non possono presentare domanda d'iscrizione prima che sia trascorso un anno dalla data dell'esclusione. (R).
 
-4. Gli operatori principali che richiedono l'iscrizione nell'elenco di cui al comma 1 devono dimostrare di possedere i requisiti di cui al comma 2 nei dodici mesi successivi alla data di presentazione della domanda. La verifica dei requisiti viene effettuata dal Tesoro. (R).
+6.
 
-5. Il Tesoro sottopone a verifica ogni 2 anni l'elenco degli «specialisti» di cui al comma 1. Prima della scadenza del termine per la verifica dell'elenco degli «specialisti», l'esclusione di uno di essi puo' avvenire qualora venga meno uno dei requisiti di cui al comma 2 ovvero per gravi motivi, nel caso di comportamenti che contrastino con l'efficienza complessiva del mercato o con l'ordinato svolgimento delle negoziazioni. Gli operatori esclusi dall'elenco non possono presentare domanda d'iscrizione prima che sia trascorso un anno dalla data dell'esclusione. (R).
-
-6. Gli operatori di cui ai commi 1 e 4, trasmettono, su richiesta, al Tesoro e alla Banca d'Italia dati e notizie sull'attivita' svolta.  
+Gli operatori di cui ai commi 1 e 4, trasmettono, su richiesta, al Tesoro e alla Banca d'Italia dati e notizie sull'attivita' svolta.
 La societa' di gestione fornisce periodicamente e anche su richiesta al Tesoro, dati e notizie relative ai contratti conclusi e all'attivita' svolta dai partecipanti al mercato. Il Tesoro puo' richiedere alla Banca d'Italia ulteriori dati sull'attivita' realizzata dagli operatori di cui ai commi 1 e 4. (R).
 
-### Art. 34
+### Art. 34. — (R)
+ Societa' di gestione
 
-(R)  
-Societa' di gestione
+1.
 
-1. La societa' di gestione:
+La societa' di gestione:
+                            a)
+                                predispone le strutture, fornisce i servizi del mercato e determina i corrispettivi ad essa dovuti;
+                            b)
+                                adotta tutti gli atti necessari per il buon funzionamento del mercato e verifica il rispetto del regolamento;
+                            c)
+                                dispone l'ammissione, l'esclusione e la sospensione dei titoli, dei contratti e degli operatori dalle negoziazioni;
+                            d)
+                                comunica al Tesoro, alla Banca d'Italia e alla CONSOB le violazioni del regolamento del mercato, segnalando le iniziative assunte;
+                            e)
+                                provvede alla gestione e alla diffusione delle informazioni e dei documenti indicati nei regolamenti previsti dall'[articolo 65 del decreto legislativo n. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58#art_65). (R).
 
-a) predispone le strutture, fornisce i servizi del mercato e determina i corrispettivi ad essa dovuti;
+2.
 
-b) adotta tutti gli atti necessari per il buon funzionamento del mercato e verifica il rispetto del regolamento;
+La societa' di gestione provvede agli altri compiti ad essa eventualmente affidati dalla CONSOB. (R).
 
-c) dispone l'ammissione, l'esclusione e la sospensione dei titoli, dei contratti e degli operatori dalle negoziazioni;
+### Art. 35. — (R)
+ Vigilanza sui mercati
 
-d) comunica al Tesoro, alla Banca d'Italia e alla CONSOB le violazioni del regolamento del mercato, segnalando le iniziative assunte;
+1.
 
-e) provvede alla gestione e alla diffusione delle informazioni e dei documenti indicati nei regolamenti previsti dall'[articolo 65 del decreto legislativo n. 58/1998](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58~art65). (R).
+La Banca d'Italia vigila sui mercati all'ingrosso dei titoli di Stato avendo riguardo all'efficienza complessiva del mercato e all'ordinato svolgimento delle negoziazioni. La societa' di gestione fornisce alla Banca d'Italia dati e notizie relative ai contratti conclusi e all'attivita' svolta dagli operatori sul mercato. La Banca d'Italia informa tempestivamente il Tesoro dell'attivita' di vigilanza svolta e delle irregolarita' riscontrate. (R).
 
-2. La societa' di gestione provvede agli altri compiti ad essa eventualmente affidati dalla CONSOB. (R).
+2.
 
-### Art. 35
+La Banca d'Italia, con le modalita' e nei termini da essa stabiliti, puo' chiedere alle societa' di gestione la comunicazione anche periodica di dati, notizie, atti e documenti, nonche' effettuare ispezioni presso le medesime societa' e richiedere l'esibizione di documenti e il compimento degli atti ritenuti necessari. (R).
 
-(R)  
-Vigilanza sui mercati
+3.
 
-1. La Banca d'Italia vigila sui mercati all'ingrosso dei titoli di Stato avendo riguardo all'efficienza complessiva del mercato e all'ordinato svolgimento delle negoziazioni. La societa' di gestione fornisce alla Banca d'Italia dati e notizie relative ai contratti conclusi e all'attivita' svolta dagli operatori sul mercato. La Banca d'Italia informa tempestivamente il Tesoro dell'attivita' di vigilanza svolta e delle irregolarita' riscontrate. (R).
+In caso di necessita' ed urgenza, la Banca d'Italia adotta, per le finalita' indicate al comma 1, i provvedimenti necessari, anche sostituendosi alla societa' di gestione. (R).
 
-2. La Banca d'Italia, con le modalita' e nei termini da essa stabiliti, puo' chiedere alle societa' di gestione la comunicazione anche periodica di dati, notizie, atti e documenti, nonche' effettuare ispezioni presso le medesime societa' e richiedere l'esibizione di documenti e il compimento degli atti ritenuti necessari. (R).
+4.
 
-3. In caso di necessita' ed urgenza, la Banca d'Italia adotta, per le finalita' indicate al comma 1, i provvedimenti necessari, anche sostituendosi alla societa' di gestione. (R).
+La Banca d'Italia, per il perseguimento delle finalita' indicate nel comma 1, puo' richiedere ai partecipanti al mercato dati e notizie sull'attivita' svolta. (R).
 
-4. La Banca d'Italia, per il perseguimento delle finalita' indicate nel comma 1, puo' richiedere ai partecipanti al mercato dati e notizie sull'attivita' svolta. (R).
+5.
 
-5. La Banca d'Italia informa tempestivamente il Tesoro delle irregolarita' riscontrate nello svolgimento della sua attivita' di vigilanza, con particolare riguardo all'operativita' degli operatori di cui all'articolo 33, commi 1 e 4. (R),
+La Banca d'Italia informa tempestivamente il Tesoro delle irregolarita' riscontrate nello svolgimento della sua attivita' di vigilanza, con particolare riguardo all'operativita' degli operatori di cui all'articolo 33, commi 1 e 4. (R),
 
-### Art. 36
+### Art. 36. — (R)
+ Informativa alla CONSOB
 
-(R)  
-Informativa alla CONSOB
+1.
 
-1. La CONSOB accerta che sui mercati all'ingrosso dei titoli di Stato sia assicurata un'adeguata e corretta informativa ai partecipanti ed agli investitori. (R).
+La CONSOB accerta che sui mercati all'ingrosso dei titoli di Stato sia assicurata un'adeguata e corretta informativa ai partecipanti ed agli investitori. (R).
 
-2. La CONSOB puo' chiedere alle societa' di gestione la comunicazione anche periodica di dati, notizie, atti e documenti necessari allo svolgimento della attivita' di cui al comma 1. La CONSOB informa tempestivamente il Tesoro e la Banca d'Italia dell'attivita' di vigilanza svolta e delle irregolarita' riscontrate. (R).
+2.
 
-### Art. 37
+La CONSOB puo' chiedere alle societa' di gestione la comunicazione anche periodica di dati, notizie, atti e documenti necessari allo svolgimento della attivita' di cui al comma 1. La CONSOB informa tempestivamente il Tesoro e la Banca d'Italia dell'attivita' di vigilanza svolta e delle irregolarita' riscontrate. (R).
+
+### Art. 37.
 
 Vigilanza sulle societa' di gestione
 
-1. Le societa' di gestione sono soggette alla vigilanza della Banca d'Italia che a tal fine si avvale dei poteri previsti dall'articolo 35, comma 2. (R).
+1.
 
-2. Il Tesoro sentite la Banca d'Italia e la CONSOB, verifica che le modificazioni statutarie delle societa' di gestione non contrastino con i requisiti previsti dall'[articolo 61 del decreto legislativo n. 58/1998](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58~art61). Non si puo' dare corso al procedimento per l'iscrizione nel registro delle imprese se non consti tale verifica. (R).
+Le societa' di gestione sono soggette alla vigilanza della Banca d'Italia che a tal fine si avvale dei poteri previsti dall'articolo 35, comma 2. (R).
 
-3. La Banca d'Italia vigila affinche' la regolamentazione del mercato sia idonea ad assicurare l'effettivo conseguimento delle finalita' indicate nell'articolo 35, comma 1, e che sia conforme a quanto stabilito dal regolamento emanato dalla CONSOB ai sensi dell'[articolo 61, comma 2, del decreto legislativo n. 58/1998](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58~art61-com2). (R).
+2.
 
-4. Il Tesoro, su proposta della Banca d'Italia sentita la CONSOB, puo' richiedere alla societa' di gestione modifiche della regolamentazione del mercato stesso idonee a eliminare le disfunzioni riscontrate nell'attivita' di vigilanza di cui al comma 3. (R).
+Il Tesoro sentite la Banca d'Italia e la CONSOB, verifica che le modificazioni statutarie delle societa' di gestione non contrastino con i requisiti previsti dall'[articolo 61 del decreto legislativo n. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58#art_61). Non si puo' dare corso al procedimento per l'iscrizione nel registro delle imprese se non consti tale verifica. (R).
 
-### Art. 38
+3.
 
-(R)  
-Compensazione e liquidazione
+La Banca d'Italia vigila affinche' la regolamentazione del mercato sia idonea ad assicurare l'effettivo conseguimento delle finalita' indicate nell'articolo 35, comma 1, e che sia conforme a quanto stabilito dal regolamento emanato dalla CONSOB ai sensi dell'[articolo 61, comma 2, del decreto legislativo n. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58#art_61-com2). (R).
 
-1. Ciascun soggetto ammesso alle negoziazioni deve aderire, direttamente o attraverso un soggetto a cio' abilitato, ai sistemi che consentano la compensazione, liquidazione ed esecuzione delle operazioni su strumenti finanziari. (R).
+4.
 
-### Art. 39
+Il Tesoro, su proposta della Banca d'Italia sentita la CONSOB, puo' richiedere alla societa' di gestione modifiche della regolamentazione del mercato stesso idonee a eliminare le disfunzioni riscontrate nell'attivita' di vigilanza di cui al comma 3. (R).
 
-(R)  
+### Art. 38. — (R)
+ Compensazione e liquidazione
+
+1.
+
+Ciascun soggetto ammesso alle negoziazioni deve aderire, direttamente o attraverso un soggetto a cio' abilitato, ai sistemi che consentano la compensazione, liquidazione ed esecuzione delle operazioni su strumenti finanziari. (R).
+
+### Art. 39. — (R)
 Provvedimenti straordinari a tutela del mercato e crisi delle societa' di gestione
 
-  
-1. ln caso di gravi irregolarita' nella gestione dei mercati ovvero nell'amministrazione delle societa' di gestione e comunque in ogni caso in cui lo richieda il perseguimento delle finalita' indicate nell'articolo 31, comma 2, il Tesoro, su proposta della Banca d'Italia, dispone lo scioglimento degli organi amministrativi e di controllo delle societa' di gestione. I poteri dei disciolti organi amministrativi sono attribuiti a un commissario nominato con il medesimo provvedimento, che li esercita, sulla base delle direttive e sotto il controllo della Banca d'Italia, sino alla ricostituzione degli organi. Per quanto non previsto dal presente comma si applicano gli articoli 70, commi 2, 3, 4, 5 e 6, 72, ad eccezione dei commi 2 e 8, e 75 del [decreto legislativo n. 385/1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;385). (R).  
-2. Nel caso in cui le irregolarita' di cui al comma 1 siano di eccezionale gravita' il Tesoro, su proposta della Banca d'Italia, puo' revocare l'autorizzazione prevista dall'articolo 32. (R).  
-3. Entro 30 giorni dalla comunicazione del provvedimento di revoca dell'autorizzazione gli amministratori o il commissario convocano l'assemblea per modificare l'oggetto sociale o per assumere altre iniziative conseguenti al provvedimento stesso ovvero per deliberare la liquidazione volontaria della societa'. Qualora non si provveda alla convocazione entro detto termine ovvero l'assemblea non deliberi entro tre mesi dalla data della comunicazione del provvedimento di revoca, il Tesoro, su proposta della Banca d'Italia, puo' disporre lo scioglimento delle societa' di gestione nominando i liquidatori. Si applicano le disposizioni sulla liquidazione delle societa' per azioni, ad eccezione di quelle concernenti la revoca dei liquidatori. (R).  
-4. Nei casi previsti dai commi 1 e 2, il Tesoro, su proposta della Banca d'Italia, sentita la CONSOB, promuove gli accordi necessari ad assicurare la continuita' delle negoziazioni. A tal fine puo' disporre il trasferimento temporaneo della gestione del mercato ad altra societa', previo consenso di quest'ultima. Il trasferimento definitivo della gestione del mercato puo' avvenire anche in deroga alle norme del Titolo II, Capo VI, del [regio decreto 16 marzo 1942, n. 267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267), e successive modificazioni. (R).  
-5. I provvedimenti previsti dai commi 1 e 2 sono adottati dal Tesoro, su proposta della CONSOB sentita la Banca d'Italia, per quanto previsto dall'articolo 36. (R).  
-6. Le iniziative per la dichiarazione di fallimento o per l'ammissione alle procedure di concordato preventivo o amministrazione controllata e i relativi provvedimenti del tribunale sono comunicati entro tre giorni alla Banca d'Italia dal cancelliere. (R).  
+1. ln caso di gravi irregolarita' nella gestione dei mercati ovvero nell'amministrazione delle societa' di gestione e comunque in ogni caso in cui lo richieda il perseguimento delle finalita' indicate nell'articolo 31, comma 2, il Tesoro, su proposta della Banca d'Italia, dispone lo scioglimento degli organi amministrativi e di controllo delle societa' di gestione. I poteri dei disciolti organi amministrativi sono attribuiti a un commissario nominato con il medesimo provvedimento, che li esercita, sulla base delle direttive e sotto il controllo della Banca d'Italia, sino alla ricostituzione degli organi. Per quanto non previsto dal presente comma si applicano gli articoli 70, commi 2, 3, 4, 5 e 6, 72, ad eccezione dei commi 2 e 8, e 75 del [decreto legislativo n. 385/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;385). (R).
+ 2. Nel caso in cui le irregolarita' di cui al comma 1 siano di eccezionale gravita' il Tesoro, su proposta della Banca d'Italia, puo' revocare l'autorizzazione prevista dall'articolo 32. (R).
+ 3. Entro 30 giorni dalla comunicazione del provvedimento di revoca dell'autorizzazione gli amministratori o il commissario convocano l'assemblea per modificare l'oggetto sociale o per assumere altre iniziative conseguenti al provvedimento stesso ovvero per deliberare la liquidazione volontaria della societa'. Qualora non si provveda alla convocazione entro detto termine ovvero l'assemblea non deliberi entro tre mesi dalla data della comunicazione del provvedimento di revoca, il Tesoro, su proposta della Banca d'Italia, puo' disporre lo scioglimento delle societa' di gestione nominando i liquidatori. Si applicano le disposizioni sulla liquidazione delle societa' per azioni, ad eccezione di quelle concernenti la revoca dei liquidatori. (R).
+ 4. Nei casi previsti dai commi 1 e 2, il Tesoro, su proposta della Banca d'Italia, sentita la CONSOB, promuove gli accordi necessari ad assicurare la continuita' delle negoziazioni. A tal fine puo' disporre il trasferimento temporaneo della gestione del mercato ad altra societa', previo consenso di quest'ultima. Il trasferimento definitivo della gestione del mercato puo' avvenire anche in deroga alle norme del Titolo II, Capo VI, del [regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267), e successive modificazioni. (R).
+ 5. I provvedimenti previsti dai commi 1 e 2 sono adottati dal Tesoro, su proposta della CONSOB sentita la Banca d'Italia, per quanto previsto dall'articolo 36. (R).
+ 6. Le iniziative per la dichiarazione di fallimento o per l'ammissione alle procedure di concordato preventivo o amministrazione controllata e i relativi provvedimenti del tribunale sono comunicati entro tre giorni alla Banca d'Italia dal cancelliere. (R).
 
-CAPO VII Sezione III Operazioni di separazione cedolare e ricostituzione di titoli Stato
-----------------------------------------------------------------------------------------
+## Operazioni di separazione cedolare e ricostituzione di titoli Stato
 
-### Art. 40
+Sezione III
+
+### Art. 40.
 
 Oggetto delle operazioni di separazione cedolare
 
-1. Le operazioni di separazione cedolare di cui al presente testo unico possono avere per oggetto solo titoli di Stato a tasso fisso non rimborsabili anticipatamente, depositati presso il sistema di gestione centralizzata dei titoli di Stato. (R).
+1.
 
-2. L'operazione di ricostituzione di cui alla presente Sezione puo' avere per oggetto i titoli di Stato che hanno formato oggetto di separazione cedolare. (R).
+Le operazioni di separazione cedolare di cui al presente testo unico possono avere per oggetto solo titoli di Stato a tasso fisso non rimborsabili anticipatamente, depositati presso il sistema di gestione centralizzata dei titoli di Stato. (R).
 
-3. Le operazioni di cui ai commi 1 e 2 vengono effettuate dai soggetti nei confronti dei quali non si applica l'imposta sostitutiva delle imposte sui redditi. (R).
+2.
 
-4. Con decreto del Tesoro vengono individuati i singoli prestiti per i quali puo' essere effettuata l'operazione di separazione cedolare, e per ciascuno di essi, l'eventuale importo minimo del capitale nominale in circolazione oltre il quale l'operazione e' effettuabile nonche' l'ammontare complessivo massimo dei titoli che puo' formarne oggetto. (R).
+L'operazione di ricostituzione di cui alla presente Sezione puo' avere per oggetto i titoli di Stato che hanno formato oggetto di separazione cedolare. (R).
 
-### Art. 41
+3.
 
-(R)  
-Modalita' delle operazioni
+Le operazioni di cui ai commi 1 e 2 vengono effettuate dai soggetti nei confronti dei quali non si applica l'imposta sostitutiva delle imposte sui redditi. (R).
 
-1. Le operazioni di separazione cedolare e di ricostituzione dei titoli hanno luogo mediante annotazioni contabili su richiesta dei soggetti aderenti al sistema di gestione centralizzata dei titoli di Stato. (R).
+4.
 
-2. Ciascuna operazione di separazione cedolare e di ricostituzione e' ammessa per un importo pari o multiplo di 1.000 euro. (R).
+Con decreto del Tesoro vengono individuati i singoli prestiti per i quali puo' essere effettuata l'operazione di separazione cedolare, e per ciascuno di essi, l'eventuale importo minimo del capitale nominale in circolazione oltre il quale l'operazione e' effettuabile nonche' l'ammontare complessivo massimo dei titoli che puo' formarne oggetto. (R).
 
-### Art. 42
+### Art. 41. — (R)
+ Modalita' delle operazioni
 
-(R)  
-Caratteristiche dei titoli
+1.
 
-1. Ciascun titolo risultante dalle operazioni di cui all'articolo 40 rappresenta un autonomo titolo di Stato e ha circolazione solo all'interno del sistema di gestione centralizzata dei titoli di Stato. (R).
+Le operazioni di separazione cedolare e di ricostituzione dei titoli hanno luogo mediante annotazioni contabili su richiesta dei soggetti aderenti al sistema di gestione centralizzata dei titoli di Stato. (R).
 
-2. Le componenti cedolari separate dal mantello che hanno la medesima scadenza sono tra loro fungibili. (R).
+2.
 
-### Art. 43
+Ciascuna operazione di separazione cedolare e di ricostituzione e' ammessa per un importo pari o multiplo di 1.000 euro. (R).
+
+### Art. 42. — (R)
+ Caratteristiche dei titoli
+
+1.
+
+Ciascun titolo risultante dalle operazioni di cui all'articolo 40 rappresenta un autonomo titolo di Stato e ha circolazione solo all'interno del sistema di gestione centralizzata dei titoli di Stato. (R).
+
+2.
+
+Le componenti cedolari separate dal mantello che hanno la medesima scadenza sono tra loro fungibili. (R).
+
+### Art. 43.
 
 Lotti minimi di negoziazione
 
-1. Per le negoziazioni dei titoli risultanti da operazioni di separazione cedolare i lotti minimi di negoziazione sui mercati regolamentati all'ingrosso non potranno essere inferiori a 2,5 milioni di euro per i mantelli e a 100.000 euro per le componenti cedolari separate dal mantello. (R).
+1.
 
-CAPO VIII Capo III Fondo di ammortamento Sezione I Norme sostanziali
---------------------------------------------------------------------
+Per le negoziazioni dei titoli risultanti da operazioni di separazione cedolare i lotti minimi di negoziazione sui mercati regolamentati all'ingrosso non potranno essere inferiori a 2,5 milioni di euro per i mantelli e a 100.000 euro per le componenti cedolari separate dal mantello. (R).
 
-### Art. 44
+## Fondo di ammortamento Sezione I Norme sostanziali
 
-(L)  
-Fondo per l'ammortamento dei titoli di Stato
+Capo III
 
-  
-1.  
-2.  
-3.  
+### Art. 44. — (L)
+ Fondo per l'ammortamento dei titoli di Stato
 
-### Art. 45
+1.
+ 2.
+ 3.
 
-(L)  
-Conferimenti al Fondo
+### Art. 45. — (L)
+ Conferimenti al Fondo
 
-  
-1.  
-2.  
-3.  
+1.
+ 2.
+ 3.
 
-### Art. 46
+### Art. 46. — (L)
+ Criteri e modalita' per l'acquisto dei titoli di Stato
 
-(L)  
-Criteri e modalita' per l'acquisto dei titoli di Stato
+1.
+ 2.
+ 3.
+ 4.
 
-  
-1.  
-2.  
-3.  
-4.  
+### Art. 47. — (L)
+ Estinzione dei titoli detenuti dal Fondo
 
-### Art. 47
+1.
+ 2.
 
-(L)  
-Estinzione dei titoli detenuti dal Fondo
+## Norme procedurali
 
-  
-1.  
-2.  
+Sezione II
 
-CAPO IX Sezione II Norme procedurali
-------------------------------------
+### Art. 48. — (R)
+ Utilizzi del Fondo
 
-### Art. 48
+1.
 
-(R)  
-Utilizzi del Fondo
+L'utilizzo delle somme disponibili sul «Fondo» viene disposto con l'emissione di atti e provvedimenti del Direttore generale del Tesoro o, per delega, del Capo del debito pubblico per le seguenti finalita':
+                            a)
+                                acquisto di titoli di Stato in circolazione;
+                            b)
+                                rimborso di titoli di Stato in scadenza;
+                            c)
+                                acquisto di partecipazioni azionarie detenute da societa' delle quali il Ministero sia unico azionista, ai fini della loro dismissione. (R).
 
-1. L'utilizzo delle somme disponibili sul «Fondo» viene disposto con l'emissione di atti e provvedimenti del Direttore generale del Tesoro o, per delega, del Capo del debito pubblico per le seguenti finalita':
+2.
 
-a) acquisto di titoli di Stato in circolazione;
+Le operazioni di acquisto di cui alla lettera a) del comma 1 possono essere effettuate secondo le seguenti modalita':
+                            a)
+                                tramite incarico, conferito dal Direttore generale del Tesoro, o, per delega, dal Capo del debito pubblico, alla Banca d'Italia o ad altri intermediari, individuati, per i titoli emessi sul mercato interno, tra gli specialisti in titoli di Stato di cui all'articolo 33, con l'indicazione del prezzo massimo accoglibile;
+                            b)
+                                tramite asta competitiva riservata agli operatori specialisti in titoli di Stato di cui alla lettera a), che intervengono per conto proprio e della clientela. (R).
 
-b) rimborso di titoli di Stato in scadenza;
+3.
 
-c) acquisto di partecipazioni azionarie detenute da societa' delle quali il Ministero sia unico azionista, ai fini della loro dismissione. (R).
+Con le disponibilita' del Fondo e' sostenuto il costo delle operazioni di acquisto di cui al comma precedente. Il suddetto costo comprende il valore del titolo, le eventuali spese ed oneri accessori all'acquisto e gli eventuali dietimi di interessi maturati sulla cedola in corso di godimento. (R).
 
-2. Le operazioni di acquisto di cui alla lettera a) del comma 1 possono essere effettuate secondo le seguenti modalita':
+4.
 
-a) tramite incarico, conferito dal Direttore generale del Tesoro, o, per delega, dal Capo del debito pubblico, alla Banca d'Italia o ad altri intermediari, individuati, per i titoli emessi sul mercato interno, tra gli specialisti in titoli di Stato di cui all'articolo 33, con l'indicazione del prezzo massimo accoglibile;
+Con specifici accordi sono disciplinati i rapporti conseguenti fra il Ministero, la Banca d'Italia e, eventualmente, gli intermediari incaricati. (R).
 
-b) tramite asta competitiva riservata agli operatori specialisti in titoli di Stato di cui alla lettera a), che intervengono per conto proprio e della clientela. (R).
+5.
 
-3. Con le disponibilita' del Fondo e' sostenuto il costo delle operazioni di acquisto di cui al comma precedente. Il suddetto costo comprende il valore del titolo, le eventuali spese ed oneri accessori all'acquisto e gli eventuali dietimi di interessi maturati sulla cedola in corso di godimento. (R).
+Nel caso previsto al comma 1, lettere a) e b), il Direttore generale del Tesoro o, per delega, il Capo del debito pubblico comunica, di volta in volta, alla Banca d'Italia l'ammontare e la specie dei titoli di Stato che intende rimborsare o acquistare con l'utilizzo del Fondo e autorizza la Banca d'Italia a prelevare dal Fondo medesimo la somma corrispondente all'ammontare dei costi delle relative operazioni. (R).
 
-4. Con specifici accordi sono disciplinati i rapporti conseguenti fra il Ministero, la Banca d'Italia e, eventualmente, gli intermediari incaricati. (R).
+6.
 
-5. Nel caso previsto al comma 1, lettere a) e b), il Direttore generale del Tesoro o, per delega, il Capo del debito pubblico comunica, di volta in volta, alla Banca d'Italia l'ammontare e la specie dei titoli di Stato che intende rimborsare o acquistare con l'utilizzo del Fondo e autorizza la Banca d'Italia a prelevare dal Fondo medesimo la somma corrispondente all'ammontare dei costi delle relative operazioni. (R).
+Nel caso previsto dal comma 1, lettera c), si autorizza, di volta in volta, la Banca d'Italia a prelevare dal Fondo e ad effettuare i versamenti delle somme corrispondenti all'ammontare dei costi delle relative operazioni. (R).
 
-6. Nel caso previsto dal comma 1, lettera c), si autorizza, di volta in volta, la Banca d'Italia a prelevare dal Fondo e ad effettuare i versamenti delle somme corrispondenti all'ammontare dei costi delle relative operazioni. (R).
-
-### Art. 49
+### Art. 49.
 
 Adempimenti a carico della Banca d'Italia e degli intermediari incaricati
 
-1. Nel caso in cui i titoli acquistati appartengano ad emissioni sul mercato interno, la Banca d'Italia provvede a dare comunicazione alla Monte Titoli S.pa. per l'estinzione dei titoli stessi mediante apposita scritturazione nei conti accentrati e comunica alla Direzione gli addebiti effettuati, distinti per ciascun prestito in valori nominali, interessi ed eventuali costi. (R).
+1.
 
-2. Nel caso in cui i titoli acquistati siano prestiti emessi sui mercati internazionali, la Banca d'Italia o gli intermediari incaricati procedono tempestivamente a comunicare alla Direzione l'ammontare e le eventuali serie dei titoli. In presenza di certificato globale rappresentativo del prestito, la Direzione provvede al rilascio di un nuovo certificato globale, previa ricezione del vecchio, debitamente annullato. (R).
+Nel caso in cui i titoli acquistati appartengano ad emissioni sul mercato interno, la Banca d'Italia provvede a dare comunicazione alla Monte Titoli S.pa. per l'estinzione dei titoli stessi mediante apposita scritturazione nei conti accentrati e comunica alla Direzione gli addebiti effettuati, distinti per ciascun prestito in valori nominali, interessi ed eventuali costi. (R).
 
-### Art. 50
+2.
 
-(R)  
-Contenuto dell'incarico alla Banca d'Italia e agli intermediari
+Nel caso in cui i titoli acquistati siano prestiti emessi sui mercati internazionali, la Banca d'Italia o gli intermediari incaricati procedono tempestivamente a comunicare alla Direzione l'ammontare e le eventuali serie dei titoli. In presenza di certificato globale rappresentativo del prestito, la Direzione provvede al rilascio di un nuovo certificato globale, previa ricezione del vecchio, debitamente annullato. (R).
 
-1. L'incarico previsto dall'articolo 48, comma 2, lettera a), deve specificare:
+### Art. 50. — (R)
+ Contenuto dell'incarico alla Banca d'Italia e agli intermediari
 
-a) le specie dei titoli oggetto dell'operazione e l'importo complessivo che puo' essere riacquistato;
+1.
 
-b) il periodo di tempo durante il quale possono essere effettuate le operazioni di acquisto;
+L'incarico previsto dall'articolo 48, comma 2, lettera a), deve specificare:
+                            a)
+                                le specie dei titoli oggetto dell'operazione e l'importo complessivo che puo' essere riacquistato;
+                            b)
+                                il periodo di tempo durante il quale possono essere effettuate le operazioni di acquisto;
+                            c)
+                                il termine di regolamento delle operazioni;
+                            d)
+                                il prezzo massimo accoglibile per ciascun titolo;
+                            e)
+                                il compenso riconosciuto alla Banca d'Italia o agli altri intermediari per il servizio prestato. (R).
 
-c) il termine di regolamento delle operazioni;
+2.
 
-d) il prezzo massimo accoglibile per ciascun titolo;
+In ogni caso, il Ministero si riserva di rivedere il prezzo massimo di cui al punto d), ove le condizioni di mercato mutassero sensibilmente nel corso del periodo delle operazioni di acquisto. (R).
 
-e) il compenso riconosciuto alla Banca d'Italia o agli altri intermediari per il servizio prestato. (R).
+### Art. 51. — (R)
+ Modalita' d'asta
 
-2. In ogni caso, il Ministero si riserva di rivedere il prezzo massimo di cui al punto d), ove le condizioni di mercato mutassero sensibilmente nel corso del periodo delle operazioni di acquisto. (R).
+1.
 
-### Art. 51
+L'asta competitiva di cui all'articolo 48, comma 2, lettera b), riservata agli operatori specialisti, e' gestita dalla Banca d'Italia. Le operazioni d'asta sono effettuate alla presenza di un funzionario del Ministero con funzioni di ufficiale rogante, il quale provvede a redigere apposito verbale, dal quale risultano i prezzi di aggiudicazione. (R).
 
-(R)  
-Modalita' d'asta
+2.
 
-1. L'asta competitiva di cui all'articolo 48, comma 2, lettera b), riservata agli operatori specialisti, e' gestita dalla Banca d'Italia. Le operazioni d'asta sono effettuate alla presenza di un funzionario del Ministero con funzioni di ufficiale rogante, il quale provvede a redigere apposito verbale, dal quale risultano i prezzi di aggiudicazione. (R).
+Il Tesoro comunica la data e le modalita' dell'asta, nonche' la specie dei titoli che possono essere acquistati. (R).
 
-2. Il Tesoro comunica la data e le modalita' dell'asta, nonche' la specie dei titoli che possono essere acquistati. (R).
+3.
 
-3. Sono escluse le offerte che presentino condizioni di prezzo ritenute non convenienti. (R).
+Sono escluse le offerte che presentino condizioni di prezzo ritenute non convenienti. (R).
 
-### Art. 52
+### Art. 52.
 
 Adempimenti successivi allo svolgimento dell'asta
 
-1. Una volta completate le operazioni di acquisto, sono accertati, con apposito decreto, la specie e gli importi dei titoli di Stato effettivamente ritirati dal mercato, con riferimento anche alle relative cedole. (R).
+1.
 
-2. I titoli di Stato ritirati dal mercato, con le modalita' indicate nei precedenti articoli, sono comunicati alla Direzione che provvede:
+Una volta completate le operazioni di acquisto, sono accertati, con apposito decreto, la specie e gli importi dei titoli di Stato effettivamente ritirati dal mercato, con riferimento anche alle relative cedole. (R).
 
-a) a ridurre la consistenza del debito per l'ammontare corrispondente al valore nominale dei titoli medesimi;
+2.
 
-b) ad apportare le conseguenti modifiche ai capitoli di bilancio corrispondenti, sia per quel che concerne la previsione di spesa per interessi che per il relativo rimborso a scadenza. (R).
+I titoli di Stato ritirati dal mercato, con le modalita' indicate nei precedenti articoli, sono comunicati alla Direzione che provvede:
+                            a)
+                                a ridurre la consistenza del debito per l'ammontare corrispondente al valore nominale dei titoli medesimi;
+                            b)
+                                ad apportare le conseguenti modifiche ai capitoli di bilancio corrispondenti, sia per quel che concerne la previsione di spesa per interessi che per il relativo rimborso a scadenza. (R).
 
-CAPO X Titolo II DISPOSIZIONI TRANSITORIE Capo I Disciplina transitoria della ridenominazione
----------------------------------------------------------------------------------------------
+## DISPOSIZIONI TRANSITORIE Capo I Disciplina transitoria della ridenominazione
 
-### Art. 53
+Titolo II
 
-(R)  
-Modalita' di ridenominazione
+### Art. 53. — (R)
+ Modalita' di ridenominazione
 
-1. La ridenominazione in euro dei titoli emessi anteriormente al l° gennaio 1999, avviene calcolando, in base ai rispettivi tassi di conversione, il valore in euro del taglio minimo di ciascun prestito e moltiplicando il risultato ottenuto, arrotondato al secondo decimale per difetto o per eccesso a seconda che sia inferiore o non inferiore a 0,005 euro, per il numero di tagli minimi di cui e' composto il prestito. (R).
+1.
 
-2. Ai fini della conversione di cui al comma 1, per taglio minimo dei titoli emessi sul mercato interno si intende l'importo minimo sottoscrivibile in asta. (R).
+La ridenominazione in euro dei titoli emessi anteriormente al l° gennaio 1999, avviene calcolando, in base ai rispettivi tassi di conversione, il valore in euro del taglio minimo di ciascun prestito e moltiplicando il risultato ottenuto, arrotondato al secondo decimale per difetto o per eccesso a seconda che sia inferiore o non inferiore a 0,005 euro, per il numero di tagli minimi di cui e' composto il prestito. (R).
 
-3. Per i titoli emessi e assegnati a fronte del rimborso dei crediti dtimposta o per il ripiano di posizioni debitorie il taglio minimo e' quello previsto dal relativo decreto di emissione. (R).
+2.
 
-4. Il taglio minimo del prestito obbligazionario ex Ferrovie dello Stato S.pa. di ammontare pari a 1.500 miliardi di lire (euro 774.685,35) (codice titolo 26808) e' da intendersi pari a cinque milioni (euro 2.582,28). (R).
+Ai fini della conversione di cui al comma 1, per taglio minimo dei titoli emessi sul mercato interno si intende l'importo minimo sottoscrivibile in asta. (R).
 
-5. La ridenominazione dei titoli risultanti dalle operazioni «separazione cedolare» di cui all'articolo 40 avviene con le modalita' di cui al comma 1. I tagli minimi degli strumenti finanziari originati dalla negoziazione separata di cedole e quote di capitale (mantelli) sono rispettivamente pari a lire 1.250.000 (euro 645,57) e lire 5.000.000 (euro 2.582,28). (R).
+3.
 
-6. I titoli ridenominati sono costituiti da strumenti finanziari del valore nominale unitario pari ad un centesimo di euro. (R).
+Per i titoli emessi e assegnati a fronte del rimborso dei crediti dtimposta o per il ripiano di posizioni debitorie il taglio minimo e' quello previsto dal relativo decreto di emissione. (R).
 
-### Art. 54
+4.
 
-(R)  
-Pagamenti e negoziazioni riguardanti i titoli ridenominati
+Il taglio minimo del prestito obbligazionario ex Ferrovie dello Stato S.pa. di ammontare pari a 1.500 miliardi di lire (euro 774.685,35) (codice titolo 26808) e' da intendersi pari a cinque milioni (euro 2.582,28). (R).
 
-1. Fino al 31 dicembre 2001, i pagamenti connessi al servizio finanziario sui prestiti ridenominati in euro da regolare in contanti, sono effettuati al controvalore in lire dell'importo calcolato in euro. (R).
+5.
 
-2. Per effetto della ridenominazione di cui al presente testo unico, gli importi in lire riportati sul mantello e le cedole dei titoli di Stato circolanti in forma cartacea si intendono in euro a decorrere dal 1° gennaio 1999. (R).
+La ridenominazione dei titoli risultanti dalle operazioni «separazione cedolare» di cui all'articolo 40 avviene con le modalita' di cui al comma 1. I tagli minimi degli strumenti finanziari originati dalla negoziazione separata di cedole e quote di capitale (mantelli) sono rispettivamente pari a lire 1.250.000 (euro 645,57) e lire 5.000.000 (euro 2.582,28). (R).
 
-3. Il pagamento degli interessi sui titoli di Stato ridenominati in euro viene effettuato applicando il tasso di interesse, fisso o variabile, di ciascun prestito al valore nominale unitario in euro di ciascun prestito ridenominato e moltiplicando il risultato ottenuto, comprensivo di tutte le cifre decimali significative, per il numero di volte in cui detto valore nominale unitario e' contenuto nel valore nominale complessivo in euro del prestito medesimo. (R).
-
-4. I tassi cedolari dei titoli ridenominati espressi in termini percentuali devono utilizzare un numero di cifre decimali non inferiore a sei. Il relativo calcolo degli interessi e' effettuato applicando detti tassi cedolari al valore unitario in euro (0,01) di cui all'articolo 53, comma 6. Il risultato che ne consegue, comprensivo di un numero di cifre decimali non inferiore a dieci, e' moltiplicato per il valore nominale dei titoli oggetto del pagamento, a sua volta moltiplicato per cento. (R).
-
-5. Gli intermediari assicurano alla clientela la possibilita' di vendere o acquistare quantitativi di titoli ridenominati in euro, necessari a conseguire l'importo minimo di negoziazione dei titoli di Stato, o multipli dello stesso, fissato dalle societa' di gestione dei mercati, senza applicare oneri aggiuntivi oltre alle normali commissioni di negoziazione. Il prezzo di acquisto o di vendita praticato per tali operazioni e' quello registrato sui mercati regolamentati nel giorno di negoziazione. Quando in tale giorno non si registri alcun prezzo per il titolo oggetto della negoziazione di cui al presente comma, si fa riferimento all'ultima quotazione ufficiale disponibile. (R).
-
-CAPO XI Capo II Disciplina transitoria dei titoli dematerializzati
-------------------------------------------------------------------
-
-### Art. 55
-
-(L)  
-Gestione
-
-  
-1.  
-2.  
-
-CAPO XII Capo III Disciplina transitoria dei titoli non ancora dematerializzati
--------------------------------------------------------------------------------
-
-### Art. 56
-
-(R)  
-Rimborso dei titoli e delle frazioni di importo inferiore a cinque milioni di lire (euro 2.582,28) appartenenti a prestiti vigenti
-
-1. E' disposto il rimborso anticipato, in data 1° dicembre 1998, al prezzo ufficiale registrato sul mercato telematico delle obbligazioni (M.O.T.) del 26 novembre 1998 e comunicato dalla Banca d'Italia, di titoli al portatore e nominativi, appartenenti a prestiti vigenti emessi dal Tesoro, di importo inferiore a lire cinque milioni (euro 2.582,28) di capitale nominale. (R).
-
-2. Con le modalita' di cui al comma 1, si provvede altresi' al rimborso anticipato delle frazioni di capitale inferiore a cinque milioni di lire (euro 2.582,28) comprese nei titoli nominativi comunque intestati e vincolati di importo superiore a cinque milioni di lire (euro 2.582,28). In tal caso l'intermediario provvede ad iscrivere il relativo ammontare nominale, originariamente pari a lire cinque milioni (euro 2.582,28) o multipli di tale cifra, sul deposito accentrato presso la societa' di gestione e a registrare sulle proprie scritture gli eventuali vincoli. (R).
-
-3. I titoli nominativi di cui al comma 1, non sottoposti a vincolo cauzionale, sono rimborsati dalle sezioni di tesoreria provinciale dello Stato previo accertamento dell'identita' dell'esibitore, senza ulteriore documentazione o formalita'. I titoli medesimi, qualora sottoposti a vincolo cauzionale, sono rimborsati secondo le procedure indicate all'articolo 58. (R).
-
-4. I titoli da emettere in applicazione di norme vigenti per il rimborso dei crediti d'imposta sono assoggettati alla disciplina del presente testo unico. (R).
-
-### Art. 57
-
-(L-R)  
-Rimborso dei titoli di importo pari o superiore a cinque milioni di lire (euro 2.582,28)
-
-1. Il rimborso del capitale dei titoli di importo pari o superiore a cinque milioni di lire (euro 2.582,28) non sottoposti a vincolo cauzionale, si esegue su domanda a firma autenticata del titolare o del suo avente causa e su deposito dei titoli stessi. Si prescinde dall'autenticazione della firma sulla domanda, quando il titolare o i suoi aventi causa dichiarino di voler intervenire personalmente alla riscossione del capitale. (R).  
-2.  
-3.  
-4. Il capitale dei titoli nominativi e di quelli sottoposti a vincolo cauzionale, se di importo pari o superiore a cinque milioni di lire (euro 2.582,28), e' rimborsato previa presentazione della documentazione di cui al comma 3 e, in base all'articolo 56, su presentazione di apposita dichiarazione di un intermediario finanziario attestante l'apertura di un conto di deposito intestato e vincolato di importo pari ai titoli esibiti. (R).  
-5.  
 6.
 
-### Art. 58
+I titoli ridenominati sono costituiti da strumenti finanziari del valore nominale unitario pari ad un centesimo di euro. (R).
 
-(L)  
-Liberazione dei vincoli
+### Art. 54. — (R)
+ Pagamenti e negoziazioni riguardanti i titoli ridenominati
 
-  
-1.  
+1.
 
-### Art. 59
+Fino al 31 dicembre 2001, i pagamenti connessi al servizio finanziario sui prestiti ridenominati in euro da regolare in contanti, sono effettuati al controvalore in lire dell'importo calcolato in euro. (R).
 
-(L)  
-Cancellazione del vincolo di usufrutto
+2.
 
-  
-1.  
-2.  
+Per effetto della ridenominazione di cui al presente testo unico, gli importi in lire riportati sul mantello e le cedole dei titoli di Stato circolanti in forma cartacea si intendono in euro a decorrere dal 1° gennaio 1999. (R).
 
-### Art. 60
+3.
 
-(L)  
-Prova del diritto a succedere
+Il pagamento degli interessi sui titoli di Stato ridenominati in euro viene effettuato applicando il tasso di interesse, fisso o variabile, di ciascun prestito al valore nominale unitario in euro di ciascun prestito ridenominato e moltiplicando il risultato ottenuto, comprensivo di tutte le cifre decimali significative, per il numero di volte in cui detto valore nominale unitario e' contenuto nel valore nominale complessivo in euro del prestito medesimo. (R).
 
-  
-1.  
+4.
 
-### Art. 61
+I tassi cedolari dei titoli ridenominati espressi in termini percentuali devono utilizzare un numero di cifre decimali non inferiore a sei. Il relativo calcolo degli interessi e' effettuato applicando detti tassi cedolari al valore unitario in euro (0,01) di cui all'articolo 53, comma 6. Il risultato che ne consegue, comprensivo di un numero di cifre decimali non inferiore a dieci, e' moltiplicato per il valore nominale dei titoli oggetto del pagamento, a sua volta moltiplicato per cento. (R).
 
-(L)  
-Documenti integrativi
+5.
 
-  
-1.  
-2.  
+Gli intermediari assicurano alla clientela la possibilita' di vendere o acquistare quantitativi di titoli ridenominati in euro, necessari a conseguire l'importo minimo di negoziazione dei titoli di Stato, o multipli dello stesso, fissato dalle societa' di gestione dei mercati, senza applicare oneri aggiuntivi oltre alle normali commissioni di negoziazione. Il prezzo di acquisto o di vendita praticato per tali operazioni e' quello registrato sui mercati regolamentati nel giorno di negoziazione. Quando in tale giorno non si registri alcun prezzo per il titolo oggetto della negoziazione di cui al presente comma, si fa riferimento all'ultima quotazione ufficiale disponibile. (R).
 
-### Art. 62
+## Disciplina transitoria dei titoli dematerializzati
 
-(L)  
-Successione aperta all'estero
+Capo II
 
-  
-1.  
-2.  
-3.  
+### Art. 55. — (L)
+ Gestione
 
-### Art. 63
+1.
+ 2.
 
-(L)  
-Provvedimento giudiziale
+## Disciplina transitoria dei titoli non ancora dematerializzati
 
-  
-1.  
-2.  
+Capo III
 
-### Art. 64
+### Art. 56. — (R)
+Rimborso dei titoli e delle frazioni di importo inferiore a cinque milioni di lire (euro 2.582,28) appartenenti a prestiti vigenti
 
-(L)  
-Successione di eredi del titolare
+1.
 
-  
-1.  
-2.  
+E' disposto il rimborso anticipato, in data 1° dicembre 1998, al prezzo ufficiale registrato sul mercato telematico delle obbligazioni (M.O.T.) del 26 novembre 1998 e comunicato dalla Banca d'Italia, di titoli al portatore e nominativi, appartenenti a prestiti vigenti emessi dal Tesoro, di importo inferiore a lire cinque milioni (euro 2.582,28) di capitale nominale. (R).
 
-### Art. 65
+2.
 
-(L)  
-Legato di specie
+Con le modalita' di cui al comma 1, si provvede altresi' al rimborso anticipato delle frazioni di capitale inferiore a cinque milioni di lire (euro 2.582,28) comprese nei titoli nominativi comunque intestati e vincolati di importo superiore a cinque milioni di lire (euro 2.582,28). In tal caso l'intermediario provvede ad iscrivere il relativo ammontare nominale, originariamente pari a lire cinque milioni (euro 2.582,28) o multipli di tale cifra, sul deposito accentrato presso la societa' di gestione e a registrare sulle proprie scritture gli eventuali vincoli. (R).
 
-  
-1.  
-2.  
+3.
 
-### Art. 66
+I titoli nominativi di cui al comma 1, non sottoposti a vincolo cauzionale, sono rimborsati dalle sezioni di tesoreria provinciale dello Stato previo accertamento dell'identita' dell'esibitore, senza ulteriore documentazione o formalita'. I titoli medesimi, qualora sottoposti a vincolo cauzionale, sono rimborsati secondo le procedure indicate all'articolo 58. (R).
 
-(L-R)  
-Successione dell'avente causa
+4.
 
-1. Se il capitale da rimborsare e' di importo pari o superiore a cinque milioni le disposizioni contenute nei precedenti articoli si applicano anche nei casi in cui si tratti di successione dell'avente causa dal titolare e da ogni altra persona che abbia comunque diritti sulle iscrizioni oggetto dell'operazione richiesta, nonche' nei casi di svincolo di iscrizioni divenute libere per effetto delle leggi abolitive dei relativi vincoli. (L-R).
+I titoli da emettere in applicazione di norme vigenti per il rimborso dei crediti d'imposta sono assoggettati alla disciplina del presente testo unico. (R).
 
-### Art. 67
+### Art. 57. — (L-R)
+Rimborso dei titoli di importo pari o superiore a cinque milioni di lire (euro 2.582,28)
 
-(L)  
-Riscossione di capitali con reimpiego
+1.
 
-  
-1.  
-2.  
+Il rimborso del capitale dei titoli di importo pari o superiore a cinque milioni di lire (euro 2.582,28) non sottoposti a vincolo cauzionale, si esegue su domanda a firma autenticata del titolare o del suo avente causa e su deposito dei titoli stessi. Si prescinde dall'autenticazione della firma sulla domanda, quando il titolare o i suoi aventi causa dichiarino di voler intervenire personalmente alla riscossione del capitale. (R).
+ 2.
+ 3.
+ 4. Il capitale dei titoli nominativi e di quelli sottoposti a vincolo cauzionale, se di importo pari o superiore a cinque milioni di lire (euro 2.582,28), e' rimborsato previa presentazione della documentazione di cui al comma 3 e, in base all'articolo 56, su presentazione di apposita dichiarazione di un intermediario finanziario attestante l'apertura di un conto di deposito intestato e vincolato di importo pari ai titoli esibiti. (R).
+ 5.
+ 6.
 
-### Art. 68
+### Art. 58. — (L)
+ Liberazione dei vincoli
 
-(L)  
-Titoli al portatore
+1.
 
-  
-1.  
-2.  
-3.  
-4.  
-5.  
-6.  
+### Art. 59. — (L)
+ Cancellazione del vincolo di usufrutto
 
-### Art. 69
+1.
+ 2.
 
-(L)  
-Opposizione su iscrizioni nominative
+### Art. 60. — (L)
+ Prova del diritto a succedere
 
-  
-1.  
-2.  
-3.  
+1.
 
-### Art. 70
+### Art. 61. — (L)
+ Documenti integrativi
 
-(L)  
-Perdita di titoli nominativi
+1.
+ 2.
 
-  
-1.  
-2.  
+### Art. 62. — (L)
+ Successione aperta all'estero
 
-### Art. 71
+1.
+ 2.
+ 3.
 
-(L)  
-Esecuzione sui titoli nominativi
+### Art. 63. — (L)
+ Provvedimento giudiziale
 
-  
-1.  
-2.  
+1.
+ 2.
 
-### Art. 72
+### Art. 64. — (L)
+ Successione di eredi del titolare
 
-(L)  
-Pignoramento e sequestro di titoli
+1.
+ 2.
 
-  
-1.  
+### Art. 65. — (L)
+ Legato di specie
 
-### Art. 73
+1.
+ 2.
 
-(L)  
-Comunicazione al giudice penale
+### Art. 66. — (L-R)
+ Successione dell'avente causa
 
-  
-1.  
+1.
 
-### Art. 74
+Se il capitale da rimborsare e' di importo pari o superiore a cinque milioni le disposizioni contenute nei precedenti articoli si applicano anche nei casi in cui si tratti di successione dell'avente causa dal titolare e da ogni altra persona che abbia comunque diritti sulle iscrizioni oggetto dell'operazione richiesta, nonche' nei casi di svincolo di iscrizioni divenute libere per effetto delle leggi abolitive dei relativi vincoli. (L-R).
 
-(L)  
-Schede per opposizioni
+### Art. 67. — (L)
+ Riscossione di capitali con reimpiego
 
-  
-1.  
+1.
+ 2.
 
-### Art. 75
+### Art. 68. — (L)
+ Titoli al portatore
 
-(L)  
-Rifiuto di eseguire operazioni
+1.
+ 2.
+ 3.
+ 4.
+ 5.
+ 6.
 
-  
-1.  
-2.  
-3.  
+### Art. 69. — (L)
+ Opposizione su iscrizioni nominative
 
-### Art. 76
+1.
+ 2.
+ 3.
 
-(L)  
-Revoca tacita del mandato
+### Art. 70. — (L)
+ Perdita di titoli nominativi
 
-  
-1.  
-2.  
+1.
+ 2.
 
-### Art. 77
+### Art. 71. — (L)
+ Esecuzione sui titoli nominativi
 
-(L)  
-Pubblicazioni
+1.
+ 2.
 
-  
-1.  
+### Art. 72. — (L)
+ Pignoramento e sequestro di titoli
 
-### Art. 78
+1.
 
-(L)  
-Divieto di fabbricazione di stampati simili ai titoli
+### Art. 73. — (L)
+ Comunicazione al giudice penale
 
-  
-1.  
-2.  
-3.  
+1.
 
-CAPO XIII Capo IV Disciplina transitoria della prescrizione
------------------------------------------------------------
+### Art. 74. — (L)
+ Schede per opposizioni
 
-### Art. 79
+1.
 
-(L)  
-Decorrenza dei termini di prescrizione
+### Art. 75. — (L)
+ Rifiuto di eseguire operazioni
 
-  
-1.  
+1.
+ 2.
+ 3.
 
-### Art. 80
+### Art. 76. — (L)
+ Revoca tacita del mandato
 
-(R)  
-Immissione nei sistemi di titoli non dematerializzati
+1.
+ 2.
 
-1. Gli intermediari di cui all'articolo 12 continuano a ritirare i titoli al portatore e nominativi, appartenenti a prestiti vigenti e secondo quanto previsto dall'articolo 13, che vengono presentati presso i loro sportelli dai possessori, ai fini della dematerializzazione. Gli intermediari stessi provvedono:
+### Art. 77. — (L)
+ Pubblicazioni
 
-a) alla trasformazione dei titoli stessi in iscrizioni contabili, inoltrandone le distinte di presentazione alla societa' di gestione accentrata dei titoli di Stato per l'immissione nella gestione accentrata;
+1.
 
-b) all'invio dei titoli medesimi, unitamente alle distinte, alla Banca d'Italia, che previo accertamento della legittimita', procedera' ad annullarli e ad inviarli al Tesoro e a trasmettere le relative informazioni alla societa' di gestione accentrata dei titoli di Stato. (R).
+### Art. 78. — (L)
+ Divieto di fabbricazione di stampati simili ai titoli
 
-2. A seguito delle procedure di dematerializzazione di cui al precedente comma, la societa' di gestione accentrata dei titoli di Stato invia le informazioni sulle movimentazioni effettuate nel corso della giornata al Tesoro e alla Banca d'Italia che, entro il giorno lavorativo successivo, verificano che il saldo dei conti aperti presso la societa' di gestione accentrata dei titoli di Stato coincida con la quantita' emessa di ciascun titolo di Stato, tenendo eventualmente conto di acquisti sul mercato e della residua circolazione di titoli non dematerializzati. (R).
+1.
+ 2.
+ 3.
 
-3. Le eventuali differenze riscontrate in sede di verifica di cui al comma 2 sono comunicate dal Tesoro, d'intesa con la Banca d'Italia, alla societa' di gestione accentrata dei titoli di Stato che provvede tempestivamente ai riscontri di competenza e alle opportune rettifiche. (R).
+## Disciplina transitoria della prescrizione
 
-CAPO XIV Capo V Disposizioni finali
------------------------------------
+Capo IV
 
-### Art. 81
+### Art. 79. — (L)
+ Decorrenza dei termini di prescrizione
 
-(L)  
-Giurisdizione
+1.
 
-  
-1.  
+### Art. 80. — (R)
+ Immissione nei sistemi di titoli non dematerializzati
 
-### Art. 82
+1.
 
-(L)  
-Abrogazioni di norme
+Gli intermediari di cui all'articolo 12 continuano a ritirare i titoli al portatore e nominativi, appartenenti a prestiti vigenti e secondo quanto previsto dall'articolo 13, che vengono presentati presso i loro sportelli dai possessori, ai fini della dematerializzazione. Gli intermediari stessi provvedono:
+                            a)
+                                alla trasformazione dei titoli stessi in iscrizioni contabili, inoltrandone le distinte di presentazione alla societa' di gestione accentrata dei titoli di Stato per l'immissione nella gestione accentrata;
+                            b)
+                                all'invio dei titoli medesimi, unitamente alle distinte, alla Banca d'Italia, che previo accertamento della legittimita', procedera' ad annullarli e ad inviarli al Tesoro e a trasmettere le relative informazioni alla societa' di gestione accentrata dei titoli di Stato. (R).
 
-  
-1.  
+2.
 
-### Art. 83
+A seguito delle procedure di dematerializzazione di cui al precedente comma, la societa' di gestione accentrata dei titoli di Stato invia le informazioni sulle movimentazioni effettuate nel corso della giornata al Tesoro e alla Banca d'Italia che, entro il giorno lavorativo successivo, verificano che il saldo dei conti aperti presso la societa' di gestione accentrata dei titoli di Stato coincida con la quantita' emessa di ciascun titolo di Stato, tenendo eventualmente conto di acquisti sul mercato e della residua circolazione di titoli non dematerializzati. (R).
 
-(L)  
-Entrata in vigore del testo unico
+3.
 
-  
-1.  
-  
+Le eventuali differenze riscontrate in sede di verifica di cui al comma 2 sono comunicate dal Tesoro, d'intesa con la Banca d'Italia, alla societa' di gestione accentrata dei titoli di Stato che provvede tempestivamente ai riscontri di competenza e alle opportune rettifiche. (R).
+
+## Disposizioni finali
+
+Capo V
+
+### Art. 81. — (L)
+ Giurisdizione
+
+1.
+
+### Art. 82. — (L)
+ Abrogazioni di norme
+
+1.
+
+### Art. 83. — (L)
+ Entrata in vigore del testo unico
+
+1.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 dicembre 2003
+Dato a Roma, addi' 30 dicembre 2003
 
-CIAMPI
-
-Berlusconi, Presidente del Consiglio dei Ministri
-
-Mazzella, Ministro per la funzione pubblica
-
-Tremonti, Ministro dell'economia e delle finanze
-
-Visto, il Guardasigilli: Castelli Registrato alla Corte dei conti il 17 febbraio 2004
-
-Ministeri istituzionali, registro n. 2, foglio n. 81
+CIAMPI Berlusconi, Presidente del Consiglio dei Ministri Mazzella, Ministro per la funzione pubblica Tremonti, Ministro dell'economia e delle finanze Visto, il Guardasigilli: Castelli Registrato alla Corte dei conti il 17 febbraio 2004 Ministeri istituzionali, registro n. 2, foglio n. 81

@@ -1,38 +1,29 @@
-DECRETO-LEGGE 27 dicembre 1994 n. 720
+---
+tipo: DECRETO-LEGGE
+numero: 720
+data: 1994-12-27
+titolo: "Disposizioni urgenti in materia di gestioni aeroportuali."
+urn: urn:nir:stato:decreto.legge:1994-12-27;720
+codice_redazionale: 094G0767
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 27 dicembre 1994 n. 720
-=====================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 3 AGOSTO 1995, N. 351](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20giugno%201995%20n.%20251%20recante%20disposizioni%20urgenti%20in%20materia%20di%20gestioni%20aeroportuali%20di%20trasporti%20eccezionali%20e%20di%20veicoli%20adibi_8d109f92f861.md)
 
-Disposizioni urgenti in materia di gestioni aeroportuali.
----------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 29/12/1994.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 3 AGOSTO 1995, N. 351](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20giugno%201995%20n.%20251%20recante%20disposizioni%20urgenti%20in%20materia%20di%20gestioni%20aeroportuali%20di%20trasporti%20eccezionali%20e%20di%20veicoli%20adibi_8d109f92f861.md)
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 3 AGOSTO 1995, N. 351](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-03;351)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 3 AGOSTO 1995, N. 351](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20giugno%201995%20n.%20251%20recante%20disposizioni%20urgenti%20in%20materia%20di%20gestioni%20aeroportuali%20di%20trasporti%20eccezionali%20e%20di%20veicoli%20adibi_8d109f92f861.md)
 
-Art. 2
-------
+## Art. 4.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 3 AGOSTO 1995, N. 351](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-03;351)
-  
-
-Art. 3
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 3 AGOSTO 1995, N. 351](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-03;351)
-  
-
-Art. 4
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 3 AGOSTO 1995, N. 351](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-03;351)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 3 AGOSTO 1995, N. 351](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20giugno%201995%20n.%20251%20recante%20disposizioni%20urgenti%20in%20materia%20di%20gestioni%20aeroportuali%20di%20trasporti%20eccezionali%20e%20di%20veicoli%20adibi_8d109f92f861.md)

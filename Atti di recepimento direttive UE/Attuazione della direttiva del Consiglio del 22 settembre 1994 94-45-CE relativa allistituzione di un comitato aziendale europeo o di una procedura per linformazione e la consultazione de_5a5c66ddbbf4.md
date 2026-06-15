@@ -1,82 +1,85 @@
-DECRETO LEGISLATIVO 02 aprile 2002 n. 74
+---
+tipo: DECRETO LEGISLATIVO
+numero: 74
+data: 2002-04-02
+titolo: "Attuazione della direttiva del Consiglio del 22 settembre 1994, 94/45/CE, relativa all'istituzione di un comitato aziendale europeo o di una procedura per l'informazione e la consultazione dei lavoratori nelle imprese e nei gruppi di imprese di dimensioni comunitarie."
+urn: urn:nir:stato:decreto.legislativo:2002-04-02;74
+codice_redazionale: 002G0100
+vigente: true
+---
 
+## Disposizioni generali
 
-DECRETO LEGISLATIVO 02 aprile 2002 n. 74
-========================================
+Titolo I
 
-Attuazione della direttiva del Consiglio del 22 settembre 1994, 94/45/CE, relativa all'istituzione di un comitato aziendale europeo o di una procedura per l'informazione e la consultazione dei lavoratori nelle imprese e nei gruppi di imprese di dimensioni comunitarie.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-CAPO I Titolo I Disposizioni generali
--------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GIUGNO 2012, N. 113))
 
-### Art. 1
+### Art. 2.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GIUGNO 2012, N. 113](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-22;113)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GIUGNO 2012, N. 113))
 
-### Art. 2
+### Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GIUGNO 2012, N. 113](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-22;113)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GIUGNO 2012, N. 113))
 
-### Art. 3
+## Istituzione di un comitato aziendale europeo ovvero di una procedura per l'informazione e la consultazione dei lavoratori
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GIUGNO 2012, N. 113](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-22;113)))
+Titolo II
 
-CAPO II Titolo II Istituzione di un comitato aziendale europeo ovvero di una procedura per l'informazione e la consultazione dei lavoratori
--------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 4.
 
-### Art. 4
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GIUGNO 2012, N. 113))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GIUGNO 2012, N. 113](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-22;113)))
+### Art. 5.
 
-### Art. 5
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GIUGNO 2012, N. 113))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GIUGNO 2012, N. 113](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-22;113)))
+### Art. 6.
 
-### Art. 6
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GIUGNO 2012, N. 113))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GIUGNO 2012, N. 113](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-22;113)))
+### Art. 7.
 
-### Art. 7
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GIUGNO 2012, N. 113))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GIUGNO 2012, N. 113](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-22;113)))
+### Art. 8.
 
-### Art. 8
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GIUGNO 2012, N. 113))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GIUGNO 2012, N. 113](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-22;113)))
+### Art. 9.
 
-### Art. 9
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GIUGNO 2012, N. 113))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GIUGNO 2012, N. 113](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-22;113)))
+### Art. 10.
 
-### Art. 10
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GIUGNO 2012, N. 113))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GIUGNO 2012, N. 113](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-22;113)))
+### Art. 11.
 
-### Art. 11
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GIUGNO 2012, N. 113))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GIUGNO 2012, N. 113](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-22;113)))
+### Art. 12.
 
-### Art. 12
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GIUGNO 2012, N. 113))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GIUGNO 2012, N. 113](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-22;113)))
+### Art. 13.
 
-### Art. 13
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GIUGNO 2012, N. 113))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GIUGNO 2012, N. 113](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-22;113)))
+### Art. 14.
 
-### Art. 14
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GIUGNO 2012, N. 113))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GIUGNO 2012, N. 113](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-22;113)))
+### Art. 15.
 
-### Art. 15
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GIUGNO 2012, N. 113))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GIUGNO 2012, N. 113](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-22;113)))
+### Art. 16.
 
-### Art. 16
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GIUGNO 2012, N. 113))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GIUGNO 2012, N. 113](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-22;113)))
+### Art. 17.
 
-### Art. 17
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GIUGNO 2012, N. 113](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-22;113)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GIUGNO 2012, N. 113))

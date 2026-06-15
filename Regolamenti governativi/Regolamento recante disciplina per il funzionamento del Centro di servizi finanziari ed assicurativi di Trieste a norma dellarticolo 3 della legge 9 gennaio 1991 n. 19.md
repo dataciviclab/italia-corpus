@@ -1,91 +1,92 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 luglio 1999 n. 392
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 392
+data: 1999-07-13
+titolo: "Regolamento recante disciplina per il funzionamento del Centro di servizi finanziari ed assicurativi di Trieste a norma dell'articolo 3 della legge 9 gennaio 1991, n. 19."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1999-07-13;392
+codice_redazionale: 099G0455
+vigente: true
+---
 
+## Costituzione del comitato di cui all'articolo 3 della legge 9 gennaio 1991, n. 19
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 luglio 1999 n. 392
-=============================================================
+Capo I
 
-Regolamento recante disciplina per il funzionamento del Centro di servizi finanziari ed assicurativi di Trieste a norma dell'articolo 3 della legge 9 gennaio 1991, n. 19.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del decreto: 18-11-1999
+((PROVVEDIMENTO ABROGATO DAL D.L. 30 SETTEMBRE 2003, N. 269,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 24 NOVEMBRE 2003, N. 326 ))
 
-CAPO I Capo I Costituzione del comitato di cui all'articolo 3 della legge 9 gennaio 1991, n. 19
------------------------------------------------------------------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.L. 30 SETTEMBRE 2003, N. 269,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 24 NOVEMBRE 2003, N. 326 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 30 SETTEMBRE 2003, N. 269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-09-30;269),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 24 NOVEMBRE 2003, N. 326](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-11-24;326) ))
+### Art. 3.
 
-### Art. 2
+((PROVVEDIMENTO ABROGATO DAL D.L. 30 SETTEMBRE 2003, N. 269,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 24 NOVEMBRE 2003, N. 326 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 30 SETTEMBRE 2003, N. 269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-09-30;269),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 24 NOVEMBRE 2003, N. 326](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-11-24;326) ))
+### Art. 4.
 
-### Art. 3
+((PROVVEDIMENTO ABROGATO DAL D.L. 30 SETTEMBRE 2003, N. 269,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 24 NOVEMBRE 2003, N. 326 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 30 SETTEMBRE 2003, N. 269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-09-30;269),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 24 NOVEMBRE 2003, N. 326](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-11-24;326) ))
+### Art. 5.
 
-### Art. 4
+((PROVVEDIMENTO ABROGATO DAL D.L. 30 SETTEMBRE 2003, N. 269,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 24 NOVEMBRE 2003, N. 326 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 30 SETTEMBRE 2003, N. 269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-09-30;269),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 24 NOVEMBRE 2003, N. 326](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-11-24;326) ))
+### Art. 6.
 
-### Art. 5
+((PROVVEDIMENTO ABROGATO DAL D.L. 30 SETTEMBRE 2003, N. 269,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 24 NOVEMBRE 2003, N. 326 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 30 SETTEMBRE 2003, N. 269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-09-30;269),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 24 NOVEMBRE 2003, N. 326](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-11-24;326) ))
+### Art. 7.
 
-### Art. 6
+((PROVVEDIMENTO ABROGATO DAL D.L. 30 SETTEMBRE 2003, N. 269,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 24 NOVEMBRE 2003, N. 326 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 30 SETTEMBRE 2003, N. 269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-09-30;269),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 24 NOVEMBRE 2003, N. 326](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-11-24;326) ))
+### Art. 8.
 
-### Art. 7
+((PROVVEDIMENTO ABROGATO DAL D.L. 30 SETTEMBRE 2003, N. 269,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 24 NOVEMBRE 2003, N. 326 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 30 SETTEMBRE 2003, N. 269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-09-30;269),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 24 NOVEMBRE 2003, N. 326](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-11-24;326) ))
+### Art. 9.
 
-### Art. 8
+((PROVVEDIMENTO ABROGATO DAL D.L. 30 SETTEMBRE 2003, N. 269,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 24 NOVEMBRE 2003, N. 326 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 30 SETTEMBRE 2003, N. 269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-09-30;269),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 24 NOVEMBRE 2003, N. 326](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-11-24;326) ))
+## Disposizioni tributarie
 
-### Art. 9
+Capo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 30 SETTEMBRE 2003, N. 269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-09-30;269),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 24 NOVEMBRE 2003, N. 326](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-11-24;326) ))
+### Art. 10.
 
-CAPO II Capo II Disposizioni tributarie
----------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.L. 30 SETTEMBRE 2003, N. 269,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 24 NOVEMBRE 2003, N. 326 ))
 
-### Art. 10
+### Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 30 SETTEMBRE 2003, N. 269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-09-30;269),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 24 NOVEMBRE 2003, N. 326](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-11-24;326) ))
+((PROVVEDIMENTO ABROGATO DAL D.L. 30 SETTEMBRE 2003, N. 269,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 24 NOVEMBRE 2003, N. 326 ))
 
-### Art. 11
+### Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 30 SETTEMBRE 2003, N. 269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-09-30;269),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 24 NOVEMBRE 2003, N. 326](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-11-24;326) ))
+((PROVVEDIMENTO ABROGATO DAL D.L. 30 SETTEMBRE 2003, N. 269,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 24 NOVEMBRE 2003, N. 326 ))
 
-### Art. 12
+### Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 30 SETTEMBRE 2003, N. 269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-09-30;269),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 24 NOVEMBRE 2003, N. 326](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-11-24;326) ))
+((PROVVEDIMENTO ABROGATO DAL D.L. 30 SETTEMBRE 2003, N. 269,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 24 NOVEMBRE 2003, N. 326 ))
 
-### Art. 13
+### Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 30 SETTEMBRE 2003, N. 269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-09-30;269),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 24 NOVEMBRE 2003, N. 326](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-11-24;326) ))
+((PROVVEDIMENTO ABROGATO DAL D.L. 30 SETTEMBRE 2003, N. 269,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 24 NOVEMBRE 2003, N. 326 ))
 
-### Art. 14
+### Art. 15.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 30 SETTEMBRE 2003, N. 269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-09-30;269),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 24 NOVEMBRE 2003, N. 326](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-11-24;326) ))
-
-### Art. 15
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 30 SETTEMBRE 2003, N. 269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-09-30;269),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 24 NOVEMBRE 2003, N. 326](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-11-24;326) ))
+((PROVVEDIMENTO ABROGATO DAL D.L. 30 SETTEMBRE 2003, N. 269,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 24 NOVEMBRE 2003, N. 326 ))

@@ -1,124 +1,96 @@
-DECRETO-LEGGE 29 ottobre 1991 n. 346
+---
+tipo: DECRETO-LEGGE
+numero: 346
+data: 1991-10-29
+titolo: "Istituzione del Fondo di sostegno per le vittime di richieste estorsive."
+urn: urn:nir:stato:decreto.legge:1991-10-29;346
+codice_redazionale: 091G0395
+vigente: true
+---
 
+## DANNI PATRIMONIALI CAGIONATI PER FINALITA' ESTORSIVE
 
-DECRETO-LEGGE 29 ottobre 1991 n. 346
-====================================
+Capo I
 
-Istituzione del Fondo di sostegno per le vittime di richieste estorsive.
-------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del decreto: 03/11/1991.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 18 FEBBRAIO 1992, N. 172](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%201991%20n.%20419%20recante%20istituzione%20del%20Fondo%20di%20sostegno%20per%20le%20vittime%20di%20richieste%20estorsive.md)
 
-CAPO I Capo I DANNI PATRIMONIALI CAGIONATI PER FINALITA' ESTORSIVE
-------------------------------------------------------------------
+### Art. 2.
 
-### Art. 1
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 18 FEBBRAIO 1992, N. 172](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%201991%20n.%20419%20recante%20istituzione%20del%20Fondo%20di%20sostegno%20per%20le%20vittime%20di%20richieste%20estorsive.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 18 FEBBRAIO 1992, N. 172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-18;172)
-  
+### Art. 3.
 
-### Art. 2
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 18 FEBBRAIO 1992, N. 172](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%201991%20n.%20419%20recante%20istituzione%20del%20Fondo%20di%20sostegno%20per%20le%20vittime%20di%20richieste%20estorsive.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 18 FEBBRAIO 1992, N. 172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-18;172)
-  
+### Art. 4.
 
-### Art. 3
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 18 FEBBRAIO 1992, N. 172](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%201991%20n.%20419%20recante%20istituzione%20del%20Fondo%20di%20sostegno%20per%20le%20vittime%20di%20richieste%20estorsive.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 18 FEBBRAIO 1992, N. 172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-18;172)
-  
+### Art. 5.
 
-### Art. 4
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 18 FEBBRAIO 1992, N. 172](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%201991%20n.%20419%20recante%20istituzione%20del%20Fondo%20di%20sostegno%20per%20le%20vittime%20di%20richieste%20estorsive.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 18 FEBBRAIO 1992, N. 172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-18;172)
-  
+### Art. 6.
 
-### Art. 5
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 18 FEBBRAIO 1992, N. 172](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%201991%20n.%20419%20recante%20istituzione%20del%20Fondo%20di%20sostegno%20per%20le%20vittime%20di%20richieste%20estorsive.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 18 FEBBRAIO 1992, N. 172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-18;172)
-  
+## DISPOSIZIONI PENALI, PROCESSUALI ED IN MATERIA DI SICUREZZA PUBBLICA
 
-### Art. 6
+Capo II
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 18 FEBBRAIO 1992, N. 172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-18;172)
-  
+### Art. 7.
 
-CAPO II Capo II DISPOSIZIONI PENALI, PROCESSUALI ED IN MATERIA DI SICUREZZA PUBBLICA
-------------------------------------------------------------------------------------
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 18 FEBBRAIO 1992, N. 172](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%201991%20n.%20419%20recante%20istituzione%20del%20Fondo%20di%20sostegno%20per%20le%20vittime%20di%20richieste%20estorsive.md)
 
-### Art. 7
+### Art. 8.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 18 FEBBRAIO 1992, N. 172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-18;172)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 18 FEBBRAIO 1992, N. 172](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%201991%20n.%20419%20recante%20istituzione%20del%20Fondo%20di%20sostegno%20per%20le%20vittime%20di%20richieste%20estorsive.md)
 
-### Art. 8
+### Art. 9.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 18 FEBBRAIO 1992, N. 172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-18;172)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 18 FEBBRAIO 1992, N. 172](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%201991%20n.%20419%20recante%20istituzione%20del%20Fondo%20di%20sostegno%20per%20le%20vittime%20di%20richieste%20estorsive.md)
 
-### Art. 9
+### Art. 10.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 18 FEBBRAIO 1992, N. 172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-18;172)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 18 FEBBRAIO 1992, N. 172](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%201991%20n.%20419%20recante%20istituzione%20del%20Fondo%20di%20sostegno%20per%20le%20vittime%20di%20richieste%20estorsive.md)
 
-### Art. 10
+### Art. 11.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 18 FEBBRAIO 1992, N. 172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-18;172)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 18 FEBBRAIO 1992, N. 172](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%201991%20n.%20419%20recante%20istituzione%20del%20Fondo%20di%20sostegno%20per%20le%20vittime%20di%20richieste%20estorsive.md)
 
-### Art. 11
+### Art. 12.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 18 FEBBRAIO 1992, N. 172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-18;172)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 18 FEBBRAIO 1992, N. 172](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%201991%20n.%20419%20recante%20istituzione%20del%20Fondo%20di%20sostegno%20per%20le%20vittime%20di%20richieste%20estorsive.md)
 
-### Art. 12
+### Art. 13.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 18 FEBBRAIO 1992, N. 172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-18;172)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 18 FEBBRAIO 1992, N. 172](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%201991%20n.%20419%20recante%20istituzione%20del%20Fondo%20di%20sostegno%20per%20le%20vittime%20di%20richieste%20estorsive.md)
 
-### Art. 13
+## COPERTURA FINANZIARIA ED ENTRATA IN VIGORE
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 18 FEBBRAIO 1992, N. 172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-18;172)
-  
+Capo III
 
-CAPO III Capo III COPERTURA FINANZIARIA ED ENTRATA IN VIGORE
-------------------------------------------------------------
+### Art. 14.
 
-### Art. 14
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 18 FEBBRAIO 1992, N. 172](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%201991%20n.%20419%20recante%20istituzione%20del%20Fondo%20di%20sostegno%20per%20le%20vittime%20di%20richieste%20estorsive.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 18 FEBBRAIO 1992, N. 172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-18;172)
-  
+### Art. 15.
 
-### Art. 15
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 18 FEBBRAIO 1992, N. 172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-18;172)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 18 FEBBRAIO 1992, N. 172](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%201991%20n.%20419%20recante%20istituzione%20del%20Fondo%20di%20sostegno%20per%20le%20vittime%20di%20richieste%20estorsive.md)

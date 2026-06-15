@@ -1,76 +1,64 @@
-DECRETO-LEGGE 27 maggio 1996 n. 292
+---
+tipo: DECRETO-LEGGE
+numero: 292
+data: 1996-05-27
+titolo: "Interventi urgenti di protezione civile."
+urn: urn:nir:stato:decreto.legge:1996-05-27;292
+codice_redazionale: 096G0309
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 27 maggio 1996 n. 292
-===================================
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 25 SETTEMBRE 1996, N. 496](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20luglio%201996%20n.%20393%20recante%20interventi%20urgenti%20di%20protezione%20civile.md).
 
-Interventi urgenti di protezione civile.
-----------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 27-5-1996.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 25 SETTEMBRE 1996, N. 496](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20luglio%201996%20n.%20393%20recante%20interventi%20urgenti%20di%20protezione%20civile.md).
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 25 SETTEMBRE 1996, N. 496](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-09-25;496).  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 25 SETTEMBRE 1996, N. 496](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20luglio%201996%20n.%20393%20recante%20interventi%20urgenti%20di%20protezione%20civile.md).
 
-Art. 2
-------
+## Art. 4.
 
- DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 25 SETTEMBRE 1996, N. 496](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-09-25;496).  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 25 SETTEMBRE 1996, N. 496](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20luglio%201996%20n.%20393%20recante%20interventi%20urgenti%20di%20protezione%20civile.md).
 
-Art. 3
-------
+## Art. 5.
 
- DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 25 SETTEMBRE 1996, N. 496](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-09-25;496).  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 25 SETTEMBRE 1996, N. 496](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20luglio%201996%20n.%20393%20recante%20interventi%20urgenti%20di%20protezione%20civile.md).
 
-Art. 4
-------
+## Art. 6.
 
- DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 25 SETTEMBRE 1996, N. 496](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-09-25;496).  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 25 SETTEMBRE 1996, N. 496](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20luglio%201996%20n.%20393%20recante%20interventi%20urgenti%20di%20protezione%20civile.md).
 
-Art. 5
-------
+## Art. 7.
 
- DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 25 SETTEMBRE 1996, N. 496](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-09-25;496).  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 25 SETTEMBRE 1996, N. 496](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20luglio%201996%20n.%20393%20recante%20interventi%20urgenti%20di%20protezione%20civile.md).
 
-Art. 6
-------
+## Art. 8.
 
- DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 25 SETTEMBRE 1996, N. 496](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-09-25;496).  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 25 SETTEMBRE 1996, N. 496](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20luglio%201996%20n.%20393%20recante%20interventi%20urgenti%20di%20protezione%20civile.md).
 
-Art. 7
-------
+## Art. 9.
 
- DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 25 SETTEMBRE 1996, N. 496](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-09-25;496).  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 25 SETTEMBRE 1996, N. 496](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20luglio%201996%20n.%20393%20recante%20interventi%20urgenti%20di%20protezione%20civile.md).
 
-Art. 8
-------
+## Art. 10.
 
- DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 25 SETTEMBRE 1996, N. 496](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-09-25;496).  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 25 SETTEMBRE 1996, N. 496](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20luglio%201996%20n.%20393%20recante%20interventi%20urgenti%20di%20protezione%20civile.md).
 
-Art. 9
-------
+## Art. 11.
 
- DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 25 SETTEMBRE 1996, N. 496](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-09-25;496).  
-
-Art. 10
--------
-
- DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 25 SETTEMBRE 1996, N. 496](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-09-25;496).  
-
-Art. 11
--------
-
- DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 25 SETTEMBRE 1996, N. 496](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-09-25;496).  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 25 SETTEMBRE 1996, N. 496](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20luglio%201996%20n.%20393%20recante%20interventi%20urgenti%20di%20protezione%20civile.md).

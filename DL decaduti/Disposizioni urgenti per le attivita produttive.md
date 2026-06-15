@@ -1,87 +1,64 @@
-DECRETO-LEGGE 18 dicembre 1995 n. 532
+---
+tipo: DECRETO-LEGGE
+numero: 532
+data: 1995-12-18
+titolo: "Disposizioni urgenti per le attivita' produttive."
+urn: urn:nir:stato:decreto.legge:1995-12-18;532
+codice_redazionale: 095G0578
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 18 dicembre 1995 n. 532
-=====================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
+ DALLA [L. 8 AGOSTO 1996, N. 421](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20giugno%201996%20n.%20321%20recante%20disposizioni%20urgenti%20per%20le%20attivita%20produttive.md)
 
-Disposizioni urgenti per le attivita' produttive.
--------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 20/12/1995.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
+ DALLA [L. 8 AGOSTO 1996, N. 421](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20giugno%201996%20n.%20321%20recante%20disposizioni%20urgenti%20per%20le%20attivita%20produttive.md)
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
-DALLA [L. 8 AGOSTO 1996, N. 421](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;421)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
+ DALLA [L. 8 AGOSTO 1996, N. 421](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20giugno%201996%20n.%20321%20recante%20disposizioni%20urgenti%20per%20le%20attivita%20produttive.md)
 
-Art. 2
-------
+## Art. 4.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
-DALLA [L. 8 AGOSTO 1996, N. 421](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;421)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
+ DALLA [L. 8 AGOSTO 1996, N. 421](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20giugno%201996%20n.%20321%20recante%20disposizioni%20urgenti%20per%20le%20attivita%20produttive.md)
 
-Art. 3
-------
+## Art. 5.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
-DALLA [L. 8 AGOSTO 1996, N. 421](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;421)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
+ DALLA [L. 8 AGOSTO 1996, N. 421](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20giugno%201996%20n.%20321%20recante%20disposizioni%20urgenti%20per%20le%20attivita%20produttive.md)
 
-Art. 4
-------
+## Art. 6.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
-DALLA [L. 8 AGOSTO 1996, N. 421](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;421)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
+ DALLA [L. 8 AGOSTO 1996, N. 421](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20giugno%201996%20n.%20321%20recante%20disposizioni%20urgenti%20per%20le%20attivita%20produttive.md)
 
-Art. 5
-------
+## Art. 7.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
-DALLA [L. 8 AGOSTO 1996, N. 421](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;421)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
+ DALLA [L. 8 AGOSTO 1996, N. 421](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20giugno%201996%20n.%20321%20recante%20disposizioni%20urgenti%20per%20le%20attivita%20produttive.md)
 
-Art. 6
-------
+## Art. 8.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
-DALLA [L. 8 AGOSTO 1996, N. 421](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;421)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
+ DALLA [L. 8 AGOSTO 1996, N. 421](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20giugno%201996%20n.%20321%20recante%20disposizioni%20urgenti%20per%20le%20attivita%20produttive.md)
 
-Art. 7
-------
+## Art. 9.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
-DALLA [L. 8 AGOSTO 1996, N. 421](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;421)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
+ DALLA [L. 8 AGOSTO 1996, N. 421](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20giugno%201996%20n.%20321%20recante%20disposizioni%20urgenti%20per%20le%20attivita%20produttive.md)
 
-Art. 8
-------
+## Art. 10.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
-DALLA [L. 8 AGOSTO 1996, N. 421](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;421)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
+ DALLA [L. 8 AGOSTO 1996, N. 421](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20giugno%201996%20n.%20321%20recante%20disposizioni%20urgenti%20per%20le%20attivita%20produttive.md)
 
-Art. 9
-------
+## Art. 11.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
-DALLA [L. 8 AGOSTO 1996, N. 421](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;421)
-  
-
-Art. 10
--------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
-DALLA [L. 8 AGOSTO 1996, N. 421](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;421)
-  
-
-Art. 11
--------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
-DALLA [L. 8 AGOSTO 1996, N. 421](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;421)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
+ DALLA [L. 8 AGOSTO 1996, N. 421](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20giugno%201996%20n.%20321%20recante%20disposizioni%20urgenti%20per%20le%20attivita%20produttive.md)

@@ -1,46 +1,44 @@
-DECRETO LEGISLATIVO 07 marzo 2005 n. 82
-
-
-DECRETO LEGISLATIVO 07 marzo 2005 n. 82
-=======================================
-
-Codice dell'amministrazione digitale.
--------------------------------------
-
-Entrata in vigore del provvedimento: 1/1/2006.
+---
+tipo: DECRETO LEGISLATIVO
+numero: 82
+data: 2005-03-07
+titolo: "Codice dell'amministrazione digitale."
+urn: urn:nir:stato:decreto.legislativo:2005-03-07;82
+codice_redazionale: 005G0104
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visti gli [articoli 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art76), [87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87) e [117, secondo comma, lettera r), della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art117-com2-letr);
+Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76), [87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) e [117, secondo comma, lettera r), della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_117-com2-letr);
 
-Visto l'[articolo 14 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art14), recante disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri;
+Visto l'[articolo 14 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_14), recante disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri;
 
-Visto l'[articolo 10 della legge 29 luglio 2003, n. 229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-29;229~art10), recante interventi in materia di qualita' della regolazione, riassetto normativo e codificazione - legge di semplificazione 2001;
+Visto l'[articolo 10 della legge 29 luglio 2003, n. 229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-29;229#art_10), recante interventi in materia di qualita' della regolazione, riassetto normativo e codificazione - legge di semplificazione 2001;
 
-Vista la [legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241), recante nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi;
+Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241), recante nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi;
 
-Visto il [decreto legislativo 12 febbraio 1993, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-12;39), recante norme in materia di sistemi informativi automatizzati delle amministrazioni pubbliche, a norma dell'articolo 2, comma 1, lettera mm), della [legge 23 ottobre 1992, n. 421](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421);
+Visto il [decreto legislativo 12 febbraio 1993, n. 39](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20sistemi%20informativi%20automatizzati%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellart.%202%20comma%201%20lettera%20mm%20della%20legge%2023%20ottobre%201992%20n.%20421.md), recante norme in materia di sistemi informativi automatizzati delle amministrazioni pubbliche, a norma dell'articolo 2, comma 1, lettera mm), della [legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md);
 
-Visto il [decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300), recante disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri;
+Visto il [decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), recante disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri;
 
-Visto il [testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445) (Testo A), di cui al [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445);
+Visto il [testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md) (Testo A), di cui al [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md);
 
-Visto il [decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165), recante norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche;
+Visto il [decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), recante norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche;
 
-Visto il [decreto legislativo 23 gennaio 2002, n. 10](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2002-01-23;10), recante attuazione della [direttiva 1999/93/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31999L0093) relativa ad un quadro comunitario per le firme elettroniche;
+Visto il [decreto legislativo 23 gennaio 2002, n. 10](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%201999-93-CE%20relativa%20ad%20un%20quadro%20comunitario%20per%20le%20firme%20elettroniche.md), recante attuazione della [direttiva 1999/93/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;93) relativa ad un quadro comunitario per le firme elettroniche;
 
-Visto il [decreto legislativo 30 giugno 2003, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196), recante [codice in materia di protezione dei dati personali](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196);
+Visto il [decreto legislativo 30 giugno 2003, n. 196](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), recante [codice in materia di protezione dei dati personali](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md);
 
-Vista la [legge 9 gennaio 2004, n. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-01-09;4), recante disposizioni per favorire l'accesso dei soggetti disabili agli strumenti informatici;
+Vista la [legge 9 gennaio 2004, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-01-09;4), recante disposizioni per favorire l'accesso dei soggetti disabili agli strumenti informatici;
 
-Visto il [decreto legislativo 20 febbraio 2004, n. 52](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-02-20;52), recante attuazione della [direttiva 2001/115/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32001L0115) che semplifica ed armonizza le modalita' di fatturazione in materia di IVA;
+Visto il [decreto legislativo 20 febbraio 2004, n. 52](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-115-CE%20che%20semplifica%20ed%20armonizza%20le%20modalita%20di%20fatturazione%20in%20materia%20di%20IVA.md), recante attuazione della [direttiva 2001/115/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;115) che semplifica ed armonizza le modalita' di fatturazione in materia di IVA;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione dell'11 novembre 2004;
 
-Esperita la procedura di notifica alla Commissione europea di cui alla [direttiva 98/34/CE del Parlamento europeo e del Consiglio, del 22 giugno 1998](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31998L0034), modificata dalla [direttiva 98/48/CE del Parlamento europeo e del Consiglio, del 20 luglio 1998](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31998L0048), attuata dalla [legge 21 giugno 1986, n. 317](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-06-21;317), cosi' come modificata dal [decreto legislativo 23 novembre 2000, n. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-11-23;427);
+Esperita la procedura di notifica alla Commissione europea di cui alla [direttiva 98/34/CE del Parlamento europeo e del Consiglio, del 22 giugno 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;34), modificata dalla [direttiva 98/48/CE del Parlamento europeo e del Consiglio, del 20 luglio 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;48), attuata dalla [legge 21 giugno 1986, n. 317](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20di%20attuazione%20di%20disciplina%20europea%20in%20materia%20di%20normazione%20europea%20e%20procedura%20dinformazione%20nel%20settore%20delle%20regolamentazioni%20tecniche%20e%20delle%20regole%20relative%20ai%20servizi%20_a1d2667472c9.md), cosi' come modificata dal [decreto legislativo 23 novembre 2000, n. 427](../Atti%20di%20recepimento%20direttive%20UE/Modifiche%20ed%20integrazioni%20alla%20legge%2021%20giugno%201986%20n.%20317%20concernenti%20la%20procedura%20di%20informazione%20nel%20settore%20delle%20norme%20e%20regolamentazioni%20tecniche%20e%20delle%20regole%20relative%20ai%20servizi%20_dc279226938d.md);
 
-Acquisito il parere della Conferenza unificata, ai sensi dell'[articolo 8, del decreto legislativo 28 agosto 1997, n. 281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281~art8), espresso nella riunione del 13 gennaio 2005;
+Acquisito il parere della Conferenza unificata, ai sensi dell'[articolo 8, del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), espresso nella riunione del 13 gennaio 2005;
 
 Sentito il Garante per la protezione dei dati personali;
 
@@ -52,2553 +50,2411 @@ Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 4
 
 Sulla proposta del Ministro per l'innovazione e le tecnologie, di concerto con il Ministro per la funzione pubblica, con il Ministro dell'economia e delle finanze, con il Ministro dell'interno, con il Ministro della giustizia, con il Ministro delle attivita' produttive e con il Ministro delle comunicazioni;
 
-Emana
------
+Emana il seguente decreto legislativo:
+
+## Capo I PRINCIPI GENERALI Sezione I Definizioni, finalita' e ambito di applicazione
+
+-
+
+### Art. 1. — Definizioni
+
+1.
+
+Ai fini del presente codice si intende per: 
+ 0a) AgID: l'Agenzia per l'Italia digitale di cui all'[articolo 19 del decreto-legge 22 giugno 2012, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-22;83#art_19), convertito, con modificazioni, dalla [legge 7 agosto 2012, n. 134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20giugno%202012%20n.%2083%20recante%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0152.md);
+                            a)
+                                LETTERA SOPPRESSA DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md);
+                            b)
+                                LETTERA SOPPRESSA DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md);
+                            c)
+                                carta d'identita' elettronica: il documento d'identita' munito di elementi per l'identificazione fisica del titolare rilasciato su supporto informatico dalle amministrazioni comunali con la prevalente finalita' di dimostrare l'identita' anagrafica del suo titolare;
+                            d)
+                                carta nazionale dei servizi: il documento rilasciato su supporto informatico per consentire l'accesso per via telematica ai servizi erogati dalle pubbliche amministrazioni;
+                            e)
+                                LETTERA SOPPRESSA DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md);
+                            f)
+                                LETTERA SOPPRESSA DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md);
+                            g)
+                                LETTERA SOPPRESSA DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md);
+                            h)
+                                LETTERA SOPPRESSA DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md);
+                            i)
+                                LETTERA SOPPRESSA DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md);
+                            i-bis)
+                                copia informatica di documento analogico: il documento informatico avente contenuto identico a quello del documento analogico da cui e' tratto;
+                            i-ter)
+                                copia per immagine su supporto informatico di documento analogico: il documento informatico avente contenuto e forma identici a quelli del documento analogico da cui e' tratto;
+                            i-quater)
+                                copia informatica di documento informatico: il documento informatico avente contenuto identico a quello del documento da cui e' tratto su supporto informatico con diversa sequenza di valori binari;
+                            i-quinquies)
+                                duplicato informatico: il documento informatico ottenuto mediante la memorizzazione, sullo stesso dispositivo o su dispositivi diversi, della medesima sequenza di valori binari del documento originario;
+                            i-sexies)
+                                dati territoriali: i dati che attengono, direttamente o indirettamente, a una localita' o a un'area geografica specifica;
+                            l)
+                                LETTERA SOPPRESSA DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md);
+                            l-bis)
+                                formato aperto: un formato di dati reso pubblico, documentato esaustivamente e neutro rispetto agli strumenti tecnologici necessari per la fruizione dei dati stessi;
+                            l-ter)
+                                dati di tipo aperto: i dati che presentano le seguenti caratteristiche: 1) sono disponibili secondo i termini di una licenza o di una previsione normativa che ne permetta l'utilizzo da parte di chiunque, anche per finalita' commerciali, in formato disaggregato;
+2) sono accessibili attraverso le tecnologie dell'informazione e della comunicazione, ivi comprese le reti telematiche pubbliche e private, in formati aperti ai sensi della lettera l-bis), sono adatti all'utilizzo automatico da parte di programmi per elaboratori e sono provvisti dei relativi metadati; 3) sono resi disponibili gratuitamente attraverso le tecnologie dell'informazione e della comunicazione, ivi comprese le reti telematiche pubbliche e private, oppure sono resi disponibili ai costi marginali sostenuti per la loro riproduzione e divulgazione salvo quanto previsto dall'[articolo 7 del decreto legislativo 24 gennaio 2006, n. 36](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-1024%20relativa%20allapertura%20dei%20dati%20e%20al%20riutilizzo%20dellinformazione%20del%20settore%20pubblico%20che%20ha%20abrogato%20la%20direttiva%202003-98-CE.md);
+                            m)
+                                LETTERA SOPPRESSA DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md);
+                            n)
+                                LETTERA SOPPRESSA DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md);
+                            n-bis)
+                                Riutilizzo: uso del dato di cui all'[articolo 2, comma 1, lettera e), del decreto legislativo 24 gennaio 2006, n. 36](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-1024%20relativa%20allapertura%20dei%20dati%20e%20al%20riutilizzo%20dellinformazione%20del%20settore%20pubblico%20che%20ha%20abrogato%20la%20direttiva%202003-98-CE.md);
+                            n-ter)
+                                domicilio digitale: un indirizzo elettronico eletto presso un servizio di posta elettronica certificata o un servizio elettronico di recapito certificato qualificato, come definito dal regolamento (UE) 23 luglio 2014 n. 910 del Parlamento europeo e del Consiglio in materia di identificazione elettronica e servizi fiduciari per le transazioni elettroniche nel mercato interno e che abroga la [direttiva 1999/93/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;93), di seguito "Regolamento eIDAS",valido ai fini delle comunicazioni elettroniche aventi valore legale;
+                            n-quater)
+                                servizio in rete o on-line: qualsiasi servizio di una amministrazione pubblica fruibile a distanza per via elettronica;
+                            o)
+                                LETTERA SOPPRESSA DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md);
+                            p)
+                                documento informatico: il documento elettronico che contiene la rappresentazione informatica di atti, fatti o dati giuridicamente rilevanti;
+                            p-bis)
+                                documento analogico: la rappresentazione non informatica di atti, fatti o dati giuridicamente rilevanti;
+                            q)
+                                LETTERA SOPPRESSA DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md);
+                            q-bis)
+                                LETTERA SOPPRESSA DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md);
+                            r)
+                                LETTERA SOPPRESSA DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md);
+                            s)
+                                firma digitale: un particolare tipo di firma qualificata basata su un su un sistema di chiavi crittografiche, una pubblica e una privata, correlate tra loro, che consente al titolare ((di firma elettronica)) tramite la chiave privata ((e a un soggetto terzo)) tramite la chiave pubblica, rispettivamente, di rendere manifesta e di verificare la provenienza e l'integrita' di un documento informatico o di un insieme di documenti informatici;
+                            t)
+                                LETTERA SOPPRESSA DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md);
+                            u)
+                                LETTERA SOPPRESSA DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md);
+                            u-bis)
+                                gestore di posta elettronica certificata: il soggetto che presta servizi di trasmissione dei documenti informatici mediante la posta elettronica certificata; 
+ u-ter)LETTERA SOPPRESSA DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md); 
+ u-quater) identita' digitale: la rappresentazione informatica della corrispondenza tra un utente e i suoi attributi identificativi, verificata attraverso l'insieme dei dati raccolti e registrati in forma digitale secondo le modalita' fissate nel decreto attuativo dell'articolo 64;
+                            v)
+                                originali non unici: i documenti per i quali sia possibile risalire al loro contenuto attraverso altre scritture o documenti di cui sia obbligatoria la conservazione, anche se in possesso di terzi;
+                            v-bis)
+                                posta elettronica certificata: sistema di comunicazione in grado di attestare l'invio e l'avvenuta consegna di un messaggio di posta elettronica e di fornire ricevute opponibili ai terzi;
+                            z)
+                                LETTERA SOPPRESSA DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md);
+                            aa)
+                                titolare ((di firma elettronica)): la persona fisica cui e' attribuita la firma elettronica e che ha accesso ai dispositivi per la ((sua)) creazione ((nonche' alle applicazioni per la sua apposizione)) della firma elettronica;
+                            bb)
+                                LETTERA SOPPRESSA DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md);
+                            cc)
+                                titolare del dato: uno dei soggetti di cui all'articolo 2, comma 2, che ha originariamente formato per uso proprio o commissionato ad altro soggetto il documento che rappresenta il dato, o che ne ha la disponibilita';
+                            dd)
+                                interoperabilita': caratteristica di un sistema informativo, le cui interfacce sono pubbliche e aperte, di interagire in maniera automatica con altri sistemi informativi per lo scambio di informazioni e l'erogazione di servizi;
+                            ee)
+                                cooperazione applicativa: la parte del Sistema Pubblico di Connettivita' finalizzata all'interazione tra i sistemi informatici dei soggetti partecipanti, per garantire l'integrazione dei metadati, delle informazioni, dei processi e procedimenti amministrativi.))
+                            ff)
+                                Linee guida: le regole tecniche e di indirizzo adottate secondo il procedimento di cui all'articolo 71.
+
+1-bis.
+
+Ai fini del presente Codice, valgono le definizioni di cui all'articolo 3 del Regolamento eIDAS;
 
-il seguente decreto legislativo:
+1-ter.
 
-CAPO I - Capo I PRINCIPI GENERALI Sezione I Definizioni, finalita' e ambito di applicazione
--------------------------------------------------------------------------------------------
+Ove la legge consente l'utilizzo della posta elettronica certificata e' ammesso anche l'utilizzo di altro servizio elettronico di recapito certificato ((qualificato ai sensi degli articoli 3, numero 37), e 44 del Regolamento eIDAS)).
 
-### Art. 1
+### Art. 2. — Finalita' e ambito di applicazione
 
-Definizioni
+1.
 
-1. Ai fini del presente codice si intende per:   
-0a) AgID: l'Agenzia per l'Italia digitale di cui all'[articolo 19 del decreto-legge 22 giugno 2012, n. 83](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-22;83~art19), convertito, con modificazioni, dalla [legge 7 agosto 2012, n. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;134);
+Lo Stato, le Regioni e le autonomie locali assicurano la disponibilita', la gestione, l'accesso, la trasmissione, la conservazione e la fruibilita' dell'informazione in modalita' digitale e si organizzano ed agiscono a tale fine utilizzando con le modalita' piu' appropriate e nel modo piu' adeguato al soddisfacimento degli interessi degli utenti le tecnologie dell'informazione e della comunicazione.
 
-a) LETTERA SOPPRESSA DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179);
+2.
 
-b) LETTERA SOPPRESSA DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179);
+Le disposizioni del presente Codice si applicano:
+                            a)
+                                alle pubbliche amministrazioni di cui all'[articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), nel rispetto del riparto di competenza di cui all'[articolo 117 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_117), ivi comprese le autorita' di sistema portuale, nonche' alle autorita' amministrative indipendenti di garanzia, vigilanza e regolazione;
+                            b)
+                                ai gestori di servizi pubblici, ivi comprese le societa' quotate, in relazione ai servizi di pubblico interesse;
+                            c)
+                                alle societa' a controllo pubblico, come definite nel [decreto legislativo 19 agosto 2016, n. 175](../Testi%20Unici/Testo%20unico%20in%20materia%20di%20societa%20a%20partecipazione%20pubblica.%2016G00188.md), escluse le societa' quotate di cui all'articolo 2, comma 1, lettera p), del medesimo decreto che non rientrino nella categoria di cui alla lettera b).
 
-c) carta d'identita' elettronica: il documento d'identita' munito di elementi per l'identificazione fisica del titolare rilasciato su supporto informatico dalle amministrazioni comunali con la prevalente finalita' di dimostrare l'identita' anagrafica del suo titolare;
+2-bis.
 
-d) carta nazionale dei servizi: il documento rilasciato su supporto informatico per consentire l'accesso per via telematica ai servizi erogati dalle pubbliche amministrazioni;
+COMMA ABROGATO DAL [D.LGS. 30 DICEMBRE 2010, N. 235](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20recante%20Codice%20dellamministrazione%20digitale%20a%20norma%20dellarticolo%2033%20della%20legge%2018%20giugno%202009%20n.%2069.%2011G0002.md).
 
-e) LETTERA SOPPRESSA DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179);
+3.
 
-f) LETTERA SOPPRESSA DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179);
+Le disposizioni del presente Codice e le relative Linee guida concernenti il documento informatico, le firme elettroniche e i servizi fiduciari di cui al Capo II, la riproduzione e conservazione dei documenti di cui agli articoli 43 e 44, il domicilio digitale e le comunicazioni elettroniche di cui all'articolo 3-bis e al Capo IV, l'identita' digitale di cui agli articoli 3-bis e 64 si applicano anche ai privati, ove non diversamente previsto.
 
-g) LETTERA SOPPRESSA DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179);
+4.
 
-h) LETTERA SOPPRESSA DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179);
+Le disposizioni di cui al capo V, concernenti l'accesso ai documenti informatici e la fruibilita' delle informazioni digitali, si applicano anche agli organismi di diritto pubblico.
 
-i) LETTERA SOPPRESSA DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179);
+5.
 
-i-bis) copia informatica di documento analogico: il documento informatico avente contenuto identico a quello del documento analogico da cui e' tratto;
+Le disposizioni del presente Codice si applicano nel rispetto della disciplina in materia di trattamento dei dati personali e, in particolare, delle disposizioni del [Codice in materia di protezione dei dati personali](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md) approvato con [decreto legislativo 30 giugno 2003, n. 196](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md);
 
-i-ter) copia per immagine su supporto informatico di documento analogico: il documento informatico avente contenuto e forma identici a quelli del documento analogico da cui e' tratto;
+6.
 
-i-quater) copia informatica di documento informatico: il documento informatico avente contenuto identico a quello del documento da cui e' tratto su supporto informatico con diversa sequenza di valori binari;
+Le disposizioni del presente Codice non si applicano limitatamente all'esercizio delle attivita' e funzioni di ordine e sicurezza pubblica, difesa e sicurezza nazionale, polizia giudiziaria e polizia economico-finanziaria e consultazioni elettorali , nonche' alle comunicazioni di emergenza e di allerta in ambito di protezione civile. Le disposizioni del presente Codice si applicano al processo civile, penale, amministrativo, contabile e tributario, in quanto compatibili e salvo che non sia diversamente disposto dalle disposizioni in materia di processo telematico. ((52))
 
-i-quinquies) duplicato informatico: il documento informatico ottenuto mediante la memorizzazione, sullo stesso dispositivo o su dispositivi diversi, della medesima sequenza di valori binari del documento originario;
+6-bis.
 
-i-sexies) dati territoriali: i dati che attengono, direttamente o indirettamente, a una localita' o a un'area geografica specifica;
-
-l) LETTERA SOPPRESSA DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179);
-
-((
-
-l-bis) formato aperto: un formato di dati reso pubblico, documentato esaustivamente e neutro rispetto agli strumenti tecnologici necessari per la fruizione dei dati stessi;
-
-l-ter) dati di tipo aperto: i dati che presentano le seguenti caratteristiche: 1) sono disponibili secondo i termini di una licenza o di una previsione normativa che ne permetta l'utilizzo da parte di chiunque, anche per finalita' commerciali, in formato disaggregato;  
-2) sono accessibili attraverso le tecnologie dell'informazione e della comunicazione, ivi comprese le reti telematiche pubbliche e private, in formati aperti ai sensi della lettera l-bis), sono adatti all'utilizzo automatico da parte di programmi per elaboratori e sono provvisti dei relativi metadati; 3) sono resi disponibili gratuitamente attraverso le tecnologie dell'informazione e della comunicazione, ivi comprese le reti telematiche pubbliche e private, oppure sono resi disponibili ai costi marginali sostenuti per la loro riproduzione e divulgazione salvo quanto previsto dall'[articolo 7 del decreto legislativo 24 gennaio 2006, n. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-01-24;36~art7);
-
-))
-
-m) LETTERA SOPPRESSA DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179);
-
-n) LETTERA SOPPRESSA DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179);
-
-n-bis) Riutilizzo: uso del dato di cui all'[articolo 2, comma 1, lettera e), del decreto legislativo 24 gennaio 2006, n. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-01-24;36~art2-com1-lete);
-
-((
-
-n-ter) domicilio digitale: un indirizzo elettronico eletto presso un servizio di posta elettronica certificata o un servizio elettronico di recapito certificato qualificato, come definito dal [regolamento (UE) 23 luglio 2014 n. 910 del Parlamento europeo e del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32014R0910) in materia di identificazione elettronica e servizi fiduciari per le transazioni elettroniche nel mercato interno e che abroga la [direttiva 1999/93/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31999L0093), di seguito "Regolamento eIDAS",valido ai fini delle comunicazioni elettroniche aventi valore legale;
-
-))
-
-((
-
-n-quater) servizio in rete o on-line: qualsiasi servizio di una amministrazione pubblica fruibile a distanza per via elettronica;
-
-))
-
-o) LETTERA SOPPRESSA DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179);
-
-p) documento informatico: il documento elettronico che contiene la rappresentazione informatica di atti, fatti o dati giuridicamente rilevanti;
-
-p-bis) documento analogico: la rappresentazione non informatica di atti, fatti o dati giuridicamente rilevanti;
-
-q) LETTERA SOPPRESSA DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179);
-
-q-bis) LETTERA SOPPRESSA DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179);
-
-r) LETTERA SOPPRESSA DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179);
-
-s) firma digitale: un particolare tipo di firma qualificata basata su un su un sistema di chiavi crittografiche, una pubblica e una privata, correlate tra loro, che consente al titolare
-
-((di firma elettronica))
-
-tramite la chiave privata
-
-((e a un soggetto terzo))
-
-tramite la chiave pubblica, rispettivamente, di rendere manifesta e di verificare la provenienza e l'integrita' di un documento informatico o di un insieme di documenti informatici;
-
-t) LETTERA SOPPRESSA DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179);
-
-u) LETTERA SOPPRESSA DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179);
-
-u-bis) gestore di posta elettronica certificata: il soggetto che presta servizi di trasmissione dei documenti informatici mediante la posta elettronica certificata;   
-u-ter)LETTERA SOPPRESSA DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179);   
-u-quater) identita' digitale: la rappresentazione informatica della corrispondenza tra un utente e i suoi attributi identificativi, verificata attraverso l'insieme dei dati raccolti e registrati in forma digitale secondo le modalita' fissate nel decreto attuativo dell'articolo 64;
-
-v) originali non unici: i documenti per i quali sia possibile risalire al loro contenuto attraverso altre scritture o documenti di cui sia obbligatoria la conservazione, anche se in possesso di terzi;
-
-v-bis) posta elettronica certificata: sistema di comunicazione in grado di attestare l'invio e l'avvenuta consegna di un messaggio di posta elettronica e di fornire ricevute opponibili ai terzi;
-
-z) LETTERA SOPPRESSA DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179);
-
-aa) titolare
-
-((di firma elettronica))
-
-: la persona fisica cui e' attribuita la firma elettronica e che ha accesso ai dispositivi per la
-
-((sua))
-
-creazione
-
-((nonche' alle applicazioni per la sua apposizione))
-
-della firma elettronica;
-
-bb) LETTERA SOPPRESSA DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179);
-
-cc) titolare del dato: uno dei soggetti di cui all'articolo 2, comma 2, che ha originariamente formato per uso proprio o commissionato ad altro soggetto il documento che rappresenta il dato, o che ne ha la disponibilita';
-
-dd) interoperabilita': caratteristica di un sistema informativo, le cui interfacce sono pubbliche e aperte, di interagire in maniera automatica con altri sistemi informativi per lo scambio di informazioni e l'erogazione di servizi;
-
-ee) cooperazione applicativa: la parte del Sistema Pubblico di Connettivita' finalizzata all'interazione tra i sistemi informatici dei soggetti partecipanti, per garantire l'integrazione dei metadati, delle informazioni, dei processi e procedimenti amministrativi.))
-
-((
-
-ff) Linee guida: le regole tecniche e di indirizzo adottate secondo il procedimento di cui all'articolo 71.
-
-))
-
-1-bis. Ai fini del presente Codice, valgono le definizioni di cui all'articolo 3 del Regolamento eIDAS;
-
-1-ter. Ove la legge consente l'utilizzo della posta elettronica certificata e' ammesso anche l'utilizzo di altro servizio elettronico di recapito certificato
-
-((qualificato ai sensi degli articoli 3, numero 37), e 44 del Regolamento eIDAS))
-
-.
-
-### Art. 2
-
-Finalita' e ambito di applicazione
-
-1. Lo Stato, le Regioni e le autonomie locali assicurano la disponibilita', la gestione, l'accesso, la trasmissione, la conservazione e la fruibilita' dell'informazione in modalita' digitale e si organizzano ed agiscono a tale fine utilizzando con le modalita' piu' appropriate e nel modo piu' adeguato al soddisfacimento degli interessi degli utenti le tecnologie dell'informazione e della comunicazione.
-
-2. Le disposizioni del presente Codice si applicano:
-
-a) alle pubbliche amministrazioni di cui all'[articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art1-com2), nel rispetto del riparto di competenza di cui all'[articolo 117 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art117), ivi comprese le autorita' di sistema portuale, nonche' alle autorita' amministrative indipendenti di garanzia, vigilanza e regolazione;
-
-b) ai gestori di servizi pubblici, ivi comprese le societa' quotate, in relazione ai servizi di pubblico interesse;
-
-c) alle societa' a controllo pubblico, come definite nel [decreto legislativo 19 agosto 2016, n. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-19;175), escluse le societa' quotate di cui all'articolo 2, comma 1, lettera p), del medesimo decreto che non rientrino nella categoria di cui alla lettera b).
-
-2-bis. COMMA ABROGATO DAL [D.LGS. 30 DICEMBRE 2010, N. 235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-30;235).
-
-3. Le disposizioni del presente Codice e le relative Linee guida concernenti il documento informatico, le firme elettroniche e i servizi fiduciari di cui al Capo II, la riproduzione e conservazione dei documenti di cui agli articoli 43 e 44, il domicilio digitale e le comunicazioni elettroniche di cui all'articolo 3-bis e al Capo IV, l'identita' digitale di cui agli articoli 3-bis e 64 si applicano anche ai privati, ove non diversamente previsto.
-
-4. Le disposizioni di cui al capo V, concernenti l'accesso ai documenti informatici e la fruibilita' delle informazioni digitali, si applicano anche agli organismi di diritto pubblico.
-
-5. Le disposizioni del presente Codice si applicano nel rispetto della disciplina in materia di trattamento dei dati personali e, in particolare, delle disposizioni del [Codice in materia di protezione dei dati personali](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196) approvato con [decreto legislativo 30 giugno 2003, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196);
-
-6. Le disposizioni del presente Codice non si applicano limitatamente all'esercizio delle attivita' e funzioni di ordine e sicurezza pubblica, difesa e sicurezza nazionale, polizia giudiziaria e polizia economico-finanziaria e consultazioni elettorali , nonche' alle comunicazioni di emergenza e di allerta in ambito di protezione civile. Le disposizioni del presente Codice si applicano al processo civile, penale, amministrativo, contabile e tributario, in quanto compatibili e salvo che non sia diversamente disposto dalle disposizioni in materia di processo telematico.
-
-((52))
-
-6-bis. Ferma restando l'applicabilita' delle disposizioni del presente decreto agli atti di liquidazione, rettifica, accertamento e di irrogazione delle sanzioni di natura tributaria, con decreto del Presidente del Consiglio dei ministri o del Ministro delegato, adottato su proposta del Ministro dell'economia e delle finanze, sono stabiliti le modalita' e i termini di applicazione delle disposizioni del presente Codice alle attivita' e funzioni ispettive e di controllo fiscale.
+Ferma restando l'applicabilita' delle disposizioni del presente decreto agli atti di liquidazione, rettifica, accertamento e di irrogazione delle sanzioni di natura tributaria, con decreto del Presidente del Consiglio dei ministri o del Ministro delegato, adottato su proposta del Ministro dell'economia e delle finanze, sono stabiliti le modalita' e i termini di applicazione delle disposizioni del presente Codice alle attivita' e funzioni ispettive e di controllo fiscale.
 
 ------------
 
 AGGIORNAMENTO (52)
 
-La [Corte Costituzionale, con sentenza 11 dicembre 2024](https://e-justice.europa.eu/ecli/ECLI::::) - [23 gennaio 2025, n. 3 (in G.U.](https://e-justice.europa.eu/ecli/ECLI::::) [1a](https://e-justice.europa.eu/ecli/ECLI::::) s.s. 29/1/2025, n. 5), ha dichiarato "l'illegittimita' costituzionale degli [artt. 9, terzo comma, della legge 17 febbraio 1968, n. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-02-17;108~art9-com3) (Norme per la elezione dei Consigli regionali delle Regioni a statuto normale) e [2, comma 6, del decreto legislativo 7 marzo 2005, n. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82~art2-com6) ([Codice dell'amministrazione digitale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82)), nella parte in cui non prevedono per l'elettore, che non sia in grado di apporre una firma autografa per certificata impossibilita' derivante da un grave impedimento fisico o perche' si trova nelle condizioni per esercitare il voto domiciliare, la possibilita' di sottoscrivere un documento informatico con firma elettronica qualificata, cui e' associato un riferimento temporale validamente opponibile ai terzi".
+La Corte Costituzionale, con sentenza 11 dicembre 2024 - 23 gennaio 2025, n. 3 (in G.U. 1a s.s. 29/1/2025, n. 5), ha dichiarato "l'illegittimita' costituzionale degli [artt. 9, terzo comma, della legge 17 febbraio 1968, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-02-17;108#art_9-com3) (Norme per la elezione dei Consigli regionali delle Regioni a statuto normale) e [2, comma 6, del decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md) ([Codice dell'amministrazione digitale](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md)), nella parte in cui non prevedono per l'elettore, che non sia in grado di apporre una firma autografa per certificata impossibilita' derivante da un grave impedimento fisico o perche' si trova nelle condizioni per esercitare il voto domiciliare, la possibilita' di sottoscrivere un documento informatico con firma elettronica qualificata, cui e' associato un riferimento temporale validamente opponibile ai terzi".
 
-CAPO II - Sezione II ((Carta della cittadinanza digitale))
-----------------------------------------------------------
+## Sezione II ((Carta della cittadinanza digitale))
 
-### Art. 3
+-
 
-Diritto all'uso delle tecnologie
+### Art. 3. — Diritto all'uso delle tecnologie
 
-1. Chiunque ha il diritto di usare
+1.
 
-((, in modo accessibile ed efficace,))
+Chiunque ha il diritto di usare ((, in modo accessibile ed efficace,)) le soluzioni e gli strumenti di cui al presente Codice nei rapporti con i soggetti di cui all'articolo 2, comma 2, anche ai fini ((dell'esercizio dei diritti di accesso e)) della partecipazione al procedimento amministrativo, fermi restando i diritti delle minoranze linguistiche riconosciute.
 
-le soluzioni e gli strumenti di cui al presente Codice nei rapporti con i soggetti di cui all'articolo 2, comma 2, anche ai fini
+1-bis.
 
-((dell'esercizio dei diritti di accesso e))
+COMMA ABROGATO DAL [D.LGS. 30 DICEMBRE 2010, N. 235](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20recante%20Codice%20dellamministrazione%20digitale%20a%20norma%20dellarticolo%2033%20della%20legge%2018%20giugno%202009%20n.%2069.%2011G0002.md).
 
-della partecipazione al procedimento amministrativo, fermi restando i diritti delle minoranze linguistiche riconosciute.
+1-ter.
 
-1-bis. COMMA ABROGATO DAL [D.LGS. 30 DICEMBRE 2010, N. 235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-30;235).
+La tutela giurisdizionale davanti al giudice amministrativo e' disciplinata dal [codice del processo amministrativo](../Decreti%20Legislativi/Attuazione%20dellarticolo%2044%20della%20legge%2018%20giugno%202009%20n.%2069%20recante%20delega%20al%20governo%20per%20il%20riordino%20del%20processo%20amministrativo.%2010G0127.md).
 
-1-ter. La tutela giurisdizionale davanti al giudice amministrativo e' disciplinata dal [codice del processo amministrativo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-07-02;104).
+1-quater.
 
-1-quater. 
+((COMMA ABROGATO DAL D.LGS. 13 DICEMBRE 2017, N. 217)).
 
-((COMMA ABROGATO DAL [D.LGS. 13 DICEMBRE 2017, N. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217)))
+1-quinquies.
 
-.
+((COMMA ABROGATO DAL D.LGS. 13 DICEMBRE 2017, N. 217)).
 
-1-quinquies. 
+1-sexies.
 
-((COMMA ABROGATO DAL [D.LGS. 13 DICEMBRE 2017, N. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217)))
+((COMMA ABROGATO DAL D.LGS. 13 DICEMBRE 2017, N. 217)).
 
-.
+### Art. 3-bis. — Identita' digitale e Domicilio digitale
 
-1-sexies. 
+01.
 
-((COMMA ABROGATO DAL [D.LGS. 13 DICEMBRE 2017, N. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217)))
+Chiunque ha il diritto di accedere ai servizi on-line offerti dai soggetti di cui all'articolo 2, comma 2, tramite la propria identita' digitale e anche attraverso il punto di accesso telematico di cui all'articolo 64-bis. (29)
 
-.
+1.
 
-### Art. 3-bis
+I soggetti di cui all'articolo 2, comma 2, i professionisti tenuti all'iscrizione in albi ed elenchi e i soggetti tenuti all'iscrizione nel registro delle imprese hanno l'obbligo di dotarsi di un domicilio digitale iscritto nell'elenco di cui agli articoli 6-bis o 6-ter.
 
-Identita' digitale e Domicilio digitale
+1-bis.
 
-01. Chiunque ha il diritto di accedere ai servizi on-line offerti dai soggetti di cui all'articolo 2, comma 2, tramite la propria identita' digitale e anche attraverso il punto di accesso telematico di cui all'articolo 64-bis. (29)
+Fermo restando quanto previsto al comma 1, chiunque ha facolta' di eleggere o modificare il proprio domicilio digitale da iscrivere nell'elenco di cui all'articolo 6-quater. Nel caso in cui il domicilio eletto risulti non piu' attivo si procede alla cancellazione d'ufficio dall'indice di cui all'articolo 6-quater secondo le modalita' fissate nelle Linee guida.
 
-1. I soggetti di cui all'articolo 2, comma 2, i professionisti tenuti all'iscrizione in albi ed elenchi e i soggetti tenuti all'iscrizione nel registro delle imprese hanno l'obbligo di dotarsi di un domicilio digitale iscritto nell'elenco di cui agli articoli 6-bis o 6-ter.
+1-ter.
 
-1-bis. Fermo restando quanto previsto al comma 1, chiunque ha facolta' di eleggere o modificare il proprio domicilio digitale da iscrivere nell'elenco di cui all'articolo 6-quater. Nel caso in cui il domicilio eletto risulti non piu' attivo si procede alla cancellazione d'ufficio dall'indice di cui all'articolo 6-quater secondo le modalita' fissate nelle Linee guida.
+I domicili digitali di cui ai commi 1, 1-bis e 4-quinquies sono eletti secondo le modalita' stabilite con le Linee guida. Le persone fisiche possono altresi' eleggere il domicilio digitale avvalendosi del servizio di cui all'articolo 64-bis , di quello reso disponibile on-line dall'Anagrafe nazionale della popolazione residente (ANPR) di cui all'articolo 62, ovvero recandosi presso l'ufficio anagrafe del proprio comune di residenza.
 
-1-ter. I domicili digitali di cui ai commi 1, 1-bis e 4-quinquies sono eletti secondo le modalita' stabilite con le Linee guida. Le persone fisiche possono altresi' eleggere il domicilio digitale avvalendosi del servizio di cui all'articolo 64-bis , di quello reso disponibile on-line dall'Anagrafe nazionale della popolazione residente (ANPR) di cui all'articolo 62, ovvero recandosi presso l'ufficio anagrafe del proprio comune di residenza.
+1-quater.
 
-1-quater. I soggetti di cui ai commi 1 e 1-bis hanno l'obbligo di fare un uso diligente del proprio domicilio digitale e di comunicare ogni modifica o variazione del medesimo secondo le modalita' fissate nelle Linee guida. Con le stesse Linee guida, fermo restando quanto previsto ai commi 3-bis e 4-bis, sono definite le modalita' di gestione e di aggiornamento dell'elenco di cui all'articolo 6-quater anche nei casi di decesso del titolare del domicilio digitale eletto o di impossibilita' sopravvenuta di avvalersi del domicilio.
+I soggetti di cui ai commi 1 e 1-bis hanno l'obbligo di fare un uso diligente del proprio domicilio digitale e di comunicare ogni modifica o variazione del medesimo secondo le modalita' fissate nelle Linee guida. Con le stesse Linee guida, fermo restando quanto previsto ai commi 3-bis e 4-bis, sono definite le modalita' di gestione e di aggiornamento dell'elenco di cui all'articolo 6-quater anche nei casi di decesso del titolare del domicilio digitale eletto o di impossibilita' sopravvenuta di avvalersi del domicilio.
 
-2. COMMA ABROGATO DAL [D.LGS. 13 DICEMBRE 2017, N. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217).
+2.
 
-3. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
+COMMA ABROGATO DAL [D.LGS. 13 DICEMBRE 2017, N. 217](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%2026%20agosto%202016%20n.%20179%20concernente%20modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislati_7b5fbda60218.md).
 
-3-bis. Con decreto del Presidente del Consiglio dei ministri o del Ministro delegato per la semplificazione e la pubblica amministrazione, sentiti l'AgID e il Garante per la protezione dei dati personali e acquisito il parere della Conferenza unificata, e' stabilita la data a decorrere dalla quale le comunicazioni tra i soggetti di cui all'articolo 2, comma 2, e coloro che non hanno provveduto a eleggere un domicilio digitale ai sensi del comma 1-bis, avvengono esclusivamente in forma elettronica. Con lo stesso decreto sono determinate le modalita' con le quali ai predetti soggetti e' attribuito un domicilio digitale ovvero altre modalita' con le quali, anche per superare il divario digitale, i documenti possono essere messi a disposizione e consegnati a coloro che non hanno accesso ad un domicilio digitale.
+3.
 
-4. A decorrere dal 1° gennaio 2013, salvo i casi in cui e' prevista dalla normativa vigente una diversa modalita' di comunicazione o di pubblicazione in via telematica, le amministrazioni pubbliche e i gestori o esercenti di pubblici servizi comunicano con il cittadino esclusivamente tramite il domicilio digitale dallo stesso dichiarato
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
-((. Per la violazione della presente disposizione si applica l'articolo 18-bis))
+3-bis.
 
-. (28)
+Con decreto del Presidente del Consiglio dei ministri o del Ministro delegato per la semplificazione e la pubblica amministrazione, sentiti l'AgID e il Garante per la protezione dei dati personali e acquisito il parere della Conferenza unificata, e' stabilita la data a decorrere dalla quale le comunicazioni tra i soggetti di cui all'articolo 2, comma 2, e coloro che non hanno provveduto a eleggere un domicilio digitale ai sensi del comma 1-bis, avvengono esclusivamente in forma elettronica. Con lo stesso decreto sono determinate le modalita' con le quali ai predetti soggetti e' attribuito un domicilio digitale ovvero altre modalita' con le quali, anche per superare il divario digitale, i documenti possono essere messi a disposizione e consegnati a coloro che non hanno accesso ad un domicilio digitale.
 
-4-bis. Fino alla data fissata nel decreto di cui al comma 3-bis, i soggetti di cui all'articolo 2, comma 2, possono predisporre le comunicazioni ai soggetti che non hanno un domicilio digitale ovvero nei casi di domicilio digitale non attivo, non funzionante o non raggiungibile, come documenti informatici sottoscritti con firma digitale o altra firma elettronica qualificata, da conservare nei propri archivi, ed inviare agli stessi, per posta ordinaria o raccomandata con avviso di ricevimento, copia analogica di tali documenti su cui e' apposto a stampa il contrassegno di cui all'articolo 23, comma 2-bis o l'indicazione a mezzo stampa del responsabile pro tempore in sostituzione della firma autografa ai sensi dell'[articolo 3 del decreto legislativo 12 febbraio 1993, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-12;39~art3) ovvero un avviso con le indicazioni delle modalita' con le quali i suddetti documenti sono messi a disposizione e consegnati al destinatario.
+4.
 
-4-ter. Le disposizioni di cui al comma 4-bis soddisfano a tutti gli effetti di legge gli obblighi di conservazione e di esibizione dei documenti previsti dalla legislazione vigente laddove la copia analogica inviata al cittadino contenga una dicitura che specifichi che il documento informatico, da cui la copia e' tratta, e' stato predisposto come documento nativo digitale ed e' disponibile presso l'amministrazione. (28)
+A decorrere dal 1° gennaio 2013, salvo i casi in cui e' prevista dalla normativa vigente una diversa modalita' di comunicazione o di pubblicazione in via telematica, le amministrazioni pubbliche e i gestori o esercenti di pubblici servizi comunicano con il cittadino esclusivamente tramite il domicilio digitale dallo stesso dichiarato ((. Per la violazione della presente disposizione si applica l'articolo 18-bis)). (28)
 
-4-quater. La copia analogica con l'indicazione a mezzo stampa del responsabile in sostituzione della firma autografa ai sensi dell'[articolo 3 del decreto legislativo 12 febbraio 1993, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-12;39~art3), soddisfa le condizioni di cui all'articolo 23, comma 2-bis, salvo i casi in cui il documento rappresenti, per propria natura, una certificazione rilasciata dall'amministrazione da utilizzarsi nei rapporti tra privati.
+4-bis.
 
-4-quinquies. E' possibile eleggere anche un domicilio digitale speciale per determinati atti, procedimenti o affari. In tal caso, ferma restando la validita' ai fini delle comunicazioni elettroniche aventi valore legale, colui che lo ha eletto non puo' opporre eccezioni relative alla forma e alla data della spedizione e del ricevimento delle comunicazioni o notificazioni ivi indirizzate.
+Fino alla data fissata nel decreto di cui al comma 3-bis, i soggetti di cui all'articolo 2, comma 2, possono predisporre le comunicazioni ai soggetti che non hanno un domicilio digitale ovvero nei casi di domicilio digitale non attivo, non funzionante o non raggiungibile, come documenti informatici sottoscritti con firma digitale o altra firma elettronica qualificata, da conservare nei propri archivi, ed inviare agli stessi, per posta ordinaria o raccomandata con avviso di ricevimento, copia analogica di tali documenti su cui e' apposto a stampa il contrassegno di cui all'articolo 23, comma 2-bis o l'indicazione a mezzo stampa del responsabile pro tempore in sostituzione della firma autografa ai sensi dell'[articolo 3 del decreto legislativo 12 febbraio 1993, n. 39](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20sistemi%20informativi%20automatizzati%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellart.%202%20comma%201%20lettera%20mm%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ovvero un avviso con le indicazioni delle modalita' con le quali i suddetti documenti sono messi a disposizione e consegnati al destinatario.
 
-5. Dall'attuazione delle disposizioni di cui al presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.   
-(21)
+4-ter.
+
+Le disposizioni di cui al comma 4-bis soddisfano a tutti gli effetti di legge gli obblighi di conservazione e di esibizione dei documenti previsti dalla legislazione vigente laddove la copia analogica inviata al cittadino contenga una dicitura che specifichi che il documento informatico, da cui la copia e' tratta, e' stato predisposto come documento nativo digitale ed e' disponibile presso l'amministrazione. (28)
+
+4-quater.
+
+La copia analogica con l'indicazione a mezzo stampa del responsabile in sostituzione della firma autografa ai sensi dell'[articolo 3 del decreto legislativo 12 febbraio 1993, n. 39](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20sistemi%20informativi%20automatizzati%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellart.%202%20comma%201%20lettera%20mm%20della%20legge%2023%20ottobre%201992%20n.%20421.md), soddisfa le condizioni di cui all'articolo 23, comma 2-bis, salvo i casi in cui il documento rappresenti, per propria natura, una certificazione rilasciata dall'amministrazione da utilizzarsi nei rapporti tra privati.
+
+4-quinquies.
+
+E' possibile eleggere anche un domicilio digitale speciale per determinati atti, procedimenti o affari. In tal caso, ferma restando la validita' ai fini delle comunicazioni elettroniche aventi valore legale, colui che lo ha eletto non puo' opporre eccezioni relative alla forma e alla data della spedizione e del ricevimento delle comunicazioni o notificazioni ivi indirizzate.
+
+5.
+
+Dall'attuazione delle disposizioni di cui al presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. 
+ (21)
 
 ------------
 
 AGGIORNAMENTO (21)
 
-Il [D.L. 21 giugno 2013, n. 69](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69), convertito con modificazioni dalla [L. 9 agosto 2013, n. 98](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-08-09;98), nel modificare l'[art. 4 comma 1, del D.L. 18 ottobre 2012, n. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-18;179~art4-com1), convertito con modificazioni dalla [L. 17 dicembre 2012, n. 221](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-17;221), ha disposto (con l'art. 13, comma 2-quater) che il decreto ministeriale previsto dal presente articolo, qualora non ancora adottato e decorsi ulteriori trenta giorni dalla data di entrata in vigore della legge di conversione del [D.L. 69/2013](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013;69) suindicato, e' adottato dal Presidente del Consiglio dei ministri anche ove non sia pervenuto il concerto dei Ministri interessati.
+Il [D.L. 21 giugno 2013, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69), convertito con modificazioni dalla [L. 9 agosto 2013, n. 98](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20giugno%202013%20n.%2069%20recante%20disposizioni%20urgenti%20per%20il%20rilancio%20delleconomia.%2013G00140.md), nel modificare l'[art. 4 comma 1, del D.L. 18 ottobre 2012, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-18;179#art_4-com1), convertito con modificazioni dalla [L. 17 dicembre 2012, n. 221](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20ottobre%202012%20n.%20179%20recante%20ulteriori%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0244.md), ha disposto (con l'art. 13, comma 2-quater) che il decreto ministeriale previsto dal presente articolo, qualora non ancora adottato e decorsi ulteriori trenta giorni dalla data di entrata in vigore della legge di conversione del [D.L. 69/2013](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013;69) suindicato, e' adottato dal Presidente del Consiglio dei ministri anche ove non sia pervenuto il concerto dei Ministri interessati.
 
 ------------
 
 AGGIORNAMENTO (28)
 
-Il [D.Lgs. 26 agosto 2016, n. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179) ha disposto (con l'art. 61, comma 2, lettera d)) che la parola «cittadino», ovunque ricorra, si intende come «persona fisica».   
-Ha inoltre disposto (con l'art. 62, comma 1) che "Le disposizioni di cui ai [commi 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;82~art3bis-com2) e [3-bis dell'articolo 3-bis del decreto legislativo n. 82 del 2005](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;82~art3bis-com3bis), come modificato dall'articolo 4 del presente decreto, producono effetti a partire dalla completa attuazione dell'ANPR e, comunque, non oltre il 31 dicembre 2017".
+Il [D.Lgs. 26 agosto 2016, n. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md) ha disposto (con l'art. 61, comma 2, lettera d)) che la parola «cittadino», ovunque ricorra, si intende come «persona fisica». 
+ Ha inoltre disposto (con l'art. 62, comma 1) che "Le disposizioni di cui ai [commi 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;82#art_3bis-com2) e [3-bis dell'articolo 3-bis del decreto legislativo n. 82 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;82#art_3bis-com3bis), come modificato dall'articolo 4 del presente decreto, producono effetti a partire dalla completa attuazione dell'ANPR e, comunque, non oltre il 31 dicembre 2017".
 
 ------------
 
 AGGIORNAMENTO (29)
 
-Il [D.Lgs. 13 dicembre 2017, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217) ha disposto (con l'art. 65, comma 1) che "Il diritto di cui all'articolo 3-bis, comma 01, e' riconosciuto a decorrere dal 1° gennaio 2018".
+Il [D.Lgs. 13 dicembre 2017, n. 217](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%2026%20agosto%202016%20n.%20179%20concernente%20modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislati_7b5fbda60218.md) ha disposto (con l'art. 65, comma 1) che "Il diritto di cui all'articolo 3-bis, comma 01, e' riconosciuto a decorrere dal 1° gennaio 2018".
 
-### Art. 3-ter
+### Art. 3-ter. — (Diritto alla trasparenza e al controllo sugli strumenti digitali)
 
-(Diritto alla trasparenza e al controllo sugli strumenti digitali)
+1.
 
-1. Il cittadino puo' accedere alle informazioni relative ai propri strumenti digitali, attraverso un servizio dedicato reso disponibile in modalita' sicura dal portale dell'Anagrafe nazionale della popolazione residente (ANPR) di cui all'articolo 62.
+Il cittadino puo' accedere alle informazioni relative ai propri strumenti digitali, attraverso un servizio dedicato reso disponibile in modalita' sicura dal portale dell'Anagrafe nazionale della popolazione residente (ANPR) di cui all'articolo 62.
 
-2. Ai fini del comma 1 e' istituita nell'ANPR un'apposita sezione contenente i dati riferibili ai seguenti strumenti digitali intestati al cittadino, registrati e costantemente
+2.
 
-((aggiornati))
+Ai fini del comma 1 e' istituita nell'ANPR un'apposita sezione contenente i dati riferibili ai seguenti strumenti digitali intestati al cittadino, registrati e costantemente ((aggiornati)) dai gestori degli strumenti stessi:
+                            a)
+                                le identita' digitali di cui al ((sistema della carta di identita' elettronica, al sistema pubblico per la gestione dell'identita' digitale di cittadini e imprese (SPID) )) e alla Carta Nazionale dei Servizi nonche' gli attestati elettronici di dati di identificazione personale rilasciati ai sensi dell'articolo 64-quater;
+                            b)
+                                le deleghe di cui all'articolo 64-ter;
+                            c)
+                                i domicili digitali eletti ai sensi dell'articolo 3-bis.
 
-dai gestori degli strumenti stessi:
+3.
 
-a) le identita' digitali di cui al
+Per ogni strumento digitale di cui al comma 2, ((l'ANPR)) e' integrata e costantemente ((aggiornata)) con le seguenti informazioni:
+                            a)
+                                tipologia di strumento digitale;
+                            b)
+                                gestore dello strumento con la denominazione del soggetto emettitore;
+                            c)
+                                natura del gestore, se pubblico o privato;
+                            d)
+                                identificativo dello strumento: il numero di serie, l'identificativo o il codice seriale dello strumento, ove esistente;
+                            e)
+                                livello di garanzia dello strumento: l'indicatore del grado di affidabilita' dell'autenticazione, ove applicabile;
+                            f)
+                                stato dello strumento: se valido, revocato o scaduto;
+                            g)
+                                data di rilascio, nel formato giorno/mese/anno;
+                            h)
+                                scadenza, nel formato giorno/mese/anno;
+                            i)
+                                i) nel caso ((della piattaforma per la gestione delle deleghe)): i dati identificativi dei soggetti delegati e la data di inizio di validita' e termine della delega.
 
-((sistema della carta di identita' elettronica, al sistema pubblico per la gestione dell'identita' digitale di cittadini e imprese (SPID) ))
+4.
 
-e alla Carta Nazionale dei Servizi nonche' gli attestati elettronici di dati di identificazione personale rilasciati ai sensi dell'articolo 64-quater;
+Con decreto del Ministro dell'interno, di concerto con l'Autorita' politica delegata in materia di innovazione tecnologica e transizione ((digitale e con il)) Ministro per la pubblica amministrazione, sentito il Garante per la protezione dei dati personali, su proposta dell'Agenzia per l'Italia digitale (AgID), possono essere individuate ((informazioni ulteriori)) rispetto a quelle previste dal comma 3 e possono essere aggiornate, in relazione alla evoluzione tecnologica, le categorie di strumenti digitali di cui al comma 2.
 
-b) le deleghe di cui all'articolo 64-ter;
+5.
 
-c) i domicili digitali eletti ai sensi dell'articolo 3-bis.
+I dati di cui ai commi 3 e 4 sono messi a disposizione dell'ANPR dai gestori degli strumenti digitali tramite i servizi della piattaforma di cui all'articolo 50-ter entro il 30 aprile 2026 e costantemente ((aggiornati)) dagli stessi gestori al verificarsi delle variazioni di stato dello strumento mediante i servizi della medesima piattaforma di cui all'articolo 50-ter. In caso di mancata registrazione e ((aggiornamento)) nell'ANPR dei dati di cui al comma 2, ferme restando le responsabilita' dei gestori degli strumenti digitali nei confronti del cittadino, l'AgID, nell'ambito dei poteri di vigilanza di cui all'articolo 14-bis, comma 2, lettera i), applica le sanzioni previste dall'articolo 32-bis ovvero dall'articolo 18-bis. L'AgID assicura, tramite propri provvedimenti, il coordinamento con i gestori degli strumenti digitali ai fini del costante ((aggiornamento)) dei dati di cui ai commi 3 e 4.
 
-3. Per ogni strumento digitale di cui al comma 2,
+6.
 
-((l'ANPR))
+L'ANPR comunica al cittadino ogni nuova attivazione degli strumenti digitali a lui riferibili, anche avvalendosi del punto di accesso telematico di cui all'articolo 64-bis ovvero della piattaforma digitale per le notifiche di cui all' [articolo 1, comma 402, della legge 27 dicembre 2019, n. 160](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202020%20e%20bilancio%20pluriennale%20per%20il%20triennio%202020-2022.%2019G00165.md).
 
-e' integrata e costantemente
+7.
 
-((aggiornata))
+I gestori dell'identita' digitale, ad eccezione dell'identita' digitale connessa alla carta d'identita' elettronica, verificano e comunicano al richiedente prima del rilascio dell'identita' digitale, tramite la piattaforma di cui all'articolo 50-ter, la preesistenza di identita' digitali gia' associate alla medesima persona.
 
-con le seguenti informazioni:
+8.
 
-a) tipologia di strumento digitale;
+Previo consenso del cittadino, i gestori degli altri strumenti digitali di cui alle lettere b) e c) del comma 2, ad eccezione di quelli connessi alla carta d'identita' elettronica, in qualita' di gestori di pubblico servizio, possono, tramite ((la piattaforma di cui all'articolo 50-ter)) e prima del rilascio dello strumento, verificare l'eventuale esistenza di strumenti della medesima tipologia gia' associati alla persona fisica.
 
-b) gestore dello strumento con la denominazione del soggetto emettitore;
+9.
 
-c) natura del gestore, se pubblico o privato;
+Le verifiche di cui ai commi 7 e 8 restituiscono unicamente il numero di identita' digitali, senza alcun dettaglio ((delle stesse)); gli esiti sono resi disponibili al cittadino contestualmente alla verifica.
 
-d) identificativo dello strumento: il numero di serie, l'identificativo o il codice seriale dello strumento, ove esistente;
+10.
 
-e) livello di garanzia dello strumento: l'indicatore del grado di affidabilita' dell'autenticazione, ove applicabile;
+La titolarita' del trattamento dei dati contenuti nell'ANPR e' attribuita al Ministero dell'interno sotto i profili della conservazione, della comunicazione e dell'adozione delle relative misure di sicurezza; i gestori degli strumenti digitali di cui al comma 2 sono titolari del trattamento di registrazione e aggiornamento dei dati di propria competenza nell'ANPR.
 
-f) stato dello strumento: se valido, revocato o scaduto;
+11.
 
-g) data di rilascio, nel formato giorno/mese/anno;
+La societa' di cui all'[articolo 83, comma 15, del decreto-legge 25 giugno 2008, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112#art_83-com15), convertito, con modificazioni, dalla [legge 6 agosto 2008, n. 133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20economico%20la%20semplificazione%20la%20competitivita%20la%20stabilizzazion_29f97015e2f4.md), incaricata della realizzazione delle funzionalita' ((dell'ANPR)) e della gestione ((della sezione)) di cui al comma 2 ((del presente articolo)), e' nominata responsabile del trattamento ai sensi dell'articolo 28 del regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016.
 
-h) scadenza, nel formato giorno/mese/anno;
+12.
 
-i) i) nel caso
+Le societa' che registrano e aggiornano, per conto dei titolari del trattamento, ((i dati nella sezione dell'ANPR)) di cui al comma 2, con i dati degli strumenti digitali di cui ai commi 3 e 4, assumono la qualifica di responsabili del trattamento ai sensi dell'[articolo 28 del regolamento (UE) 2016/679](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2016;679#art_28).
 
-((della piattaforma per la gestione delle deleghe))
+13.
 
-: i dati identificativi dei soggetti delegati e la data di inizio di validita' e termine della delega.
+Le informazioni di cui ai commi 3 e 4 sono conservate nell'ANPR ((per la durata massima)) di dodici mesi dalla registrazione della revoca o della scadenza dello strumento da parte dei gestori e sono consultabili, previa autenticazione con livello di garanzia almeno significativo, esclusivamente dal cittadino cui si riferiscono, fermo restando quanto previsto ai commi 7, 8 e 9. Con riferimento ai trattamenti di dati personali, si applicano le misure tecniche e organizzative di cui all'allegato C al ((regolamento di cui al)) [decreto del Presidente del Consiglio dei ministri 10 novembre 2014, n. 194](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-11-10;194), oltre che le specifiche misure di sicurezza di cui alle linee guida adottate dall'AgID ai sensi dell'articolo 50-ter, comma 2.
 
-4. Con decreto del Ministro dell'interno, di concerto con l'Autorita' politica delegata in materia di innovazione tecnologica e transizione
+14.
 
-((digitale e con il))
+L'ANPR assicura l'accesso ai dati di cui ai commi 3 e 4 esclusivamente al cittadino cui si riferiscono o al suo delegato ai sensi dell'articolo 64-ter e ai gestori degli strumenti digitali di cui al comma 2 per le finalita' di cui al presente articolo.
 
-Ministro per la pubblica amministrazione, sentito il Garante per la protezione dei dati personali, su proposta dell'Agenzia per l'Italia digitale (AgID), possono essere individuate
+### Art. 4.
 
-((informazioni ulteriori))
+((ARTICOLO ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179))
 
-rispetto a quelle previste dal comma 3 e possono essere aggiornate, in relazione alla evoluzione tecnologica, le categorie di strumenti digitali di cui al comma 2.
+### Art. 5. — (Effettuazione di pagamenti con modalita' informatiche)
 
-5. I dati di cui ai commi 3 e 4 sono messi a disposizione dell'ANPR dai gestori degli strumenti digitali tramite i servizi della piattaforma di cui all'articolo 50-ter entro il 30 aprile 2026 e costantemente
+1.
 
-((aggiornati))
+I soggetti di cui all'articolo 2, comma 2, sono obbligati ad accettare, tramite la piattaforma di cui al comma 2, i pagamenti spettanti a qualsiasi titolo attraverso sistemi di pagamento elettronico, ivi inclusi, per i micro-pagamenti, quelli basati sull'uso del credito telefonico. Tramite la piattaforma elettronica di cui al comma 2, resta ferma la possibilita' di accettare anche altre forme di pagamento elettronico, senza discriminazione in relazione allo schema di pagamento abilitato per ciascuna tipologia di strumento di pagamento elettronico come definita ai sensi dell'articolo 2, punti 33), 34) e 35) del regolamento UE 2015/751 del Parlamento europeo e del Consiglio del 29 aprile 2015 relativo alle commissioni interbancarie sulle operazioni di pagamento basate su carta.
 
-dagli stessi gestori al verificarsi delle variazioni di stato dello strumento mediante i servizi della medesima piattaforma di cui all'articolo 50-ter. In caso di mancata registrazione e
+2.
 
-((aggiornamento))
+Al fine di dare attuazione al comma 1, la Presidenza del Consiglio dei ministri mette a disposizione, attraverso il Sistema pubblico di connettivita', una piattaforma tecnologica per l'interconnessione e l'interoperabilita' tra le pubbliche amministrazioni e i prestatori di servizi di pagamento abilitati, al fine di assicurare, attraverso gli strumenti di cui all'articolo 64, l'autenticazione dei soggetti interessati all'operazione in tutta la gestione del processo di pagamento. (29) (31) (34) (36)
 
-nell'ANPR dei dati di cui al comma 2, ferme restando le responsabilita' dei gestori degli strumenti digitali nei confronti del cittadino, l'AgID, nell'ambito dei poteri di vigilanza di cui all'articolo 14-bis, comma 2, lettera i), applica le sanzioni previste dall'articolo 32-bis ovvero dall'articolo 18-bis. L'AgID assicura, tramite propri provvedimenti, il coordinamento con i gestori degli strumenti digitali ai fini del costante
+2-bis.
 
-((aggiornamento))
+COMMA ABROGATO DAL [D.L. 6 NOVEMBRE 2021, N. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-11-06;152).
 
-dei dati di cui ai commi 3 e 4.
+2-ter.
 
-6. L'ANPR comunica al cittadino ogni nuova attivazione degli strumenti digitali a lui riferibili, anche avvalendosi del punto di accesso telematico di cui all'articolo 64-bis ovvero della piattaforma digitale per le notifiche di cui all' [articolo 1, comma 402, della legge 27 dicembre 2019, n. 160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160~art1-com402).
+I soggetti di cui all'articolo 2, comma 2, consentono di effettuare pagamenti elettronici tramite la piattaforma di cui al comma 2 anche per il pagamento spontaneo di tributi di cui all'[articolo 2-bis del decreto-legge 22 ottobre 2016, n. 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016-10-22;193#art_2bis), convertito, con modificazioni dalla [legge 1° dicembre 2016, n. 225](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20ottobre%202016%20n.%20193%20recante%20disposizioni%20urgenti%20in%20materia%20fiscale%20e%20per%20il%20finanziamento%20di%20esigenze%20indifferibili.%2016G00238.md).
 
-7. I gestori dell'identita' digitale, ad eccezione dell'identita' digitale connessa alla carta d'identita' elettronica, verificano e comunicano al richiedente prima del rilascio dell'identita' digitale, tramite la piattaforma di cui all'articolo 50-ter, la preesistenza di identita' digitali gia' associate alla medesima persona.
+2-quater.
 
-8. Previo consenso del cittadino, i gestori degli altri strumenti digitali di cui alle lettere b) e c) del comma 2, ad eccezione di quelli connessi alla carta d'identita' elettronica, in qualita' di gestori di pubblico servizio, possono, tramite
+I prestatori di servizi di pagamento abilitati eseguono pagamenti a favore delle pubbliche amministrazioni attraverso l'utilizzo della piattaforma di cui al comma 2. Resta fermo il sistema dei versamenti unitari di cui all'[articolo 17 e seguenti del decreto legislativo 9 luglio 1997, n. 241](../Decreti%20Legislativi/Norme%20di%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20sede%20di%20dichiarazione%20dei%20redditi%20e%20dellimposta%20sul%20valore%20aggiunto%20nonche%20di%20modernizzazione%20del%20sistema%20di%20gestione%20delle%20dichiarazioni.md), Capo III ((...)).
 
-((la piattaforma di cui all'articolo 50-ter))
+2-quinquies.
 
-e prima del rilascio dello strumento, verificare l'eventuale esistenza di strumenti della medesima tipologia gia' associati alla persona fisica.
+Tramite la piattaforma di cui al comma 2, le informazioni sui pagamenti sono messe a disposizione anche del Ministero dell'economia e delle finanze - Dipartimento Ragioneria generale dello Stato.
 
-9. Le verifiche di cui ai commi 7 e 8 restituiscono unicamente il numero di identita' digitali, senza alcun dettaglio
+2-sexies.
 
-((delle stesse))
+La piattaforma tecnologica di cui al comma 2 puo' essere utilizzata anche per facilitare e automatizzare, attraverso i pagamenti elettronici, i processi di certificazione fiscale tra soggetti privati, tra cui la fatturazione elettronica e la memorizzazione e trasmissione dei dati dei corrispettivi giornalieri di cui agli [articoli 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Trasmissione%20telematica%20delle%20operazioni%20IVA%20e%20di%20controllo%20delle%20cessioni%20di%20beni%20effettuate%20attraverso%20distributori%20automatici%20in%20attuazione%20dellarticolo%209%20comma%201%20lettere%20d%20e%20g%20della%20l_9be8793a2d20.md) e [2 del decreto legislativo 5 agosto 2015, n. 127](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Trasmissione%20telematica%20delle%20operazioni%20IVA%20e%20di%20controllo%20delle%20cessioni%20di%20beni%20effettuate%20attraverso%20distributori%20automatici%20in%20attuazione%20dellarticolo%209%20comma%201%20lettere%20d%20e%20g%20della%20l_9be8793a2d20.md).
 
-; gli esiti sono resi disponibili al cittadino contestualmente alla verifica.
+2-septies.
 
-10. La titolarita' del trattamento dei dati contenuti nell'ANPR e' attribuita al Ministero dell'interno sotto i profili della conservazione, della comunicazione e dell'adozione delle relative misure di sicurezza; i gestori degli strumenti digitali di cui al comma 2 sono titolari del trattamento di registrazione e aggiornamento dei dati di propria competenza nell'ANPR.
+Con decreto del Presidente del Consiglio dei Ministri o del Ministro delegato per l'innovazione tecnologica e la digitalizzazione, di concerto con il Ministro dell'economia e delle finanze, sono definite le regole tecniche di funzionamento della piattaforma tecnologica e dei processi di cui al comma 2-sexies.
 
-11. La societa' di cui all'[articolo 83, comma 15, del decreto-legge 25 giugno 2008, n. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112~art83-com15), convertito, con modificazioni, dalla [legge 6 agosto 2008, n. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133), incaricata della realizzazione delle funzionalita'
+3.
 
-((dell'ANPR))
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
-e della gestione
+3-bis.
 
-((della sezione))
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
-di cui al comma 2
+3-ter.
 
-((del presente articolo))
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
-, e' nominata responsabile del trattamento ai sensi dell'[articolo 28 del regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32016R0679).
+4.
 
-12. Le societa' che registrano e aggiornano, per conto dei titolari del trattamento,
+L'Agenzia per l'Italia digitale, sentita la Banca d'Italia, definisce linee guida per l'attuazione del presente articolo e per la specifica dei codici identificativi del pagamento di cui al comma 1 e le modalita' attraverso le quali il prestatore dei servizi di pagamento mette a disposizione dell'ente le informazioni relative al pagamento medesimo.
 
-((i dati nella sezione dell'ANPR))
+5.
 
-di cui al comma 2, con i dati degli strumenti digitali di cui ai commi 3 e 4, assumono la qualifica di responsabili del trattamento ai sensi dell'[articolo 28 del regolamento (UE) 2016/679](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2016;679~art28).
-
-13. Le informazioni di cui ai commi 3 e 4 sono conservate nell'ANPR
-
-((per la durata massima))
-
-di dodici mesi dalla registrazione della revoca o della scadenza dello strumento da parte dei gestori e sono consultabili, previa autenticazione con livello di garanzia almeno significativo, esclusivamente dal cittadino cui si riferiscono, fermo restando quanto previsto ai commi 7, 8 e 9. Con riferimento ai trattamenti di dati personali, si applicano le misure tecniche e organizzative di cui all'allegato C al
-
-((regolamento di cui al))
-
-[decreto del Presidente del Consiglio dei ministri 10 novembre 2014, n. 194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-11-10;194), oltre che le specifiche misure di sicurezza di cui alle linee guida adottate dall'AgID ai sensi dell'articolo 50-ter, comma 2.
-
-14. L'ANPR assicura l'accesso ai dati di cui ai commi 3 e 4 esclusivamente al cittadino cui si riferiscono o al suo delegato ai sensi dell'articolo 64-ter e ai gestori degli strumenti digitali di cui al comma 2 per le finalita' di cui al presente articolo.
-
-### Art. 4
-
-((ARTICOLO ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179)))
-
-### Art. 5
-
-(Effettuazione di pagamenti con modalita' informatiche)
-
-1. I soggetti di cui all'articolo 2, comma 2, sono obbligati ad accettare, tramite la piattaforma di cui al comma 2, i pagamenti spettanti a qualsiasi titolo attraverso sistemi di pagamento elettronico, ivi inclusi, per i micro-pagamenti, quelli basati sull'uso del credito telefonico. Tramite la piattaforma elettronica di cui al comma 2, resta ferma la possibilita' di accettare anche altre forme di pagamento elettronico, senza discriminazione in relazione allo schema di pagamento abilitato per ciascuna tipologia di strumento di pagamento elettronico come definita ai sensi dell'articolo 2, punti 33), 34) e 35) del [regolamento UE 2015/751 del Parlamento europeo e del Consiglio del 29 aprile 2015](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32015R0751) relativo alle commissioni interbancarie sulle operazioni di pagamento basate su carta.
-
-2. Al fine di dare attuazione al comma 1, la Presidenza del Consiglio dei ministri mette a disposizione, attraverso il Sistema pubblico di connettivita', una piattaforma tecnologica per l'interconnessione e l'interoperabilita' tra le pubbliche amministrazioni e i prestatori di servizi di pagamento abilitati, al fine di assicurare, attraverso gli strumenti di cui all'articolo 64, l'autenticazione dei soggetti interessati all'operazione in tutta la gestione del processo di pagamento. (29) (31) (34) (36)
-
-2-bis. COMMA ABROGATO DAL [D.L. 6 NOVEMBRE 2021, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-11-06;152).
-
-2-ter. I soggetti di cui all'articolo 2, comma 2, consentono di effettuare pagamenti elettronici tramite la piattaforma di cui al comma 2 anche per il pagamento spontaneo di tributi di cui all'[articolo 2-bis del decreto-legge 22 ottobre 2016, n. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016-10-22;193~art2bis), convertito, con modificazioni dalla [legge 1° dicembre 2016, n. 225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-01;225).
-
-2-quater. I prestatori di servizi di pagamento abilitati eseguono pagamenti a favore delle pubbliche amministrazioni attraverso l'utilizzo della piattaforma di cui al comma 2. Resta fermo il sistema dei versamenti unitari di cui all'[articolo 17 e seguenti del decreto legislativo 9 luglio 1997, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;241~art17), Capo III
-
-((...))
-
-.
-
-2-quinquies. Tramite la piattaforma di cui al comma 2, le informazioni sui pagamenti sono messe a disposizione anche del Ministero dell'economia e delle finanze - Dipartimento Ragioneria generale dello Stato.
-
-2-sexies. La piattaforma tecnologica di cui al comma 2 puo' essere utilizzata anche per facilitare e automatizzare, attraverso i pagamenti elettronici, i processi di certificazione fiscale tra soggetti privati, tra cui la fatturazione elettronica e la memorizzazione e trasmissione dei dati dei corrispettivi giornalieri di cui agli [articoli 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-05;127~art1) e [2 del decreto legislativo 5 agosto 2015, n. 127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-05;127~art2).
-
-2-septies. Con decreto del Presidente del Consiglio dei Ministri o del Ministro delegato per l'innovazione tecnologica e la digitalizzazione, di concerto con il Ministro dell'economia e delle finanze, sono definite le regole tecniche di funzionamento della piattaforma tecnologica e dei processi di cui al comma 2-sexies.
-
-3. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
-
-3-bis. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
-
-3-ter. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
-
-4. L'Agenzia per l'Italia digitale, sentita la Banca d'Italia, definisce linee guida per l'attuazione del presente articolo e per la specifica dei codici identificativi del pagamento di cui al comma 1 e le modalita' attraverso le quali il prestatore dei servizi di pagamento mette a disposizione dell'ente le informazioni relative al pagamento medesimo.
-
-5. Le attivita' previste dal presente articolo si svolgono con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
+Le attivita' previste dal presente articolo si svolgono con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
 
 ---------------
 
 AGGIORNAMENTO (16)
 
-Il [D.L. 9 febbraio 2012, n. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5), convertito con modificazioni dalla [L. 4 aprile 2012, n. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35), ha disposto (con l'art. 6-ter, comma 2) che " Gli obblighi introdotti per le amministrazioni pubbliche con le disposizioni di cui al comma 1 acquistano efficacia decorsi novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto."
+Il [D.L. 9 febbraio 2012, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5), convertito con modificazioni dalla [L. 4 aprile 2012, n. 35](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20febbraio%202012%20n.%205%20recante%20disposizioni%20urgenti%20in%20materia%20di%20semplificazione%20e%20di%20sviluppo.%2012G0056.md), ha disposto (con l'art. 6-ter, comma 2) che " Gli obblighi introdotti per le amministrazioni pubbliche con le disposizioni di cui al comma 1 acquistano efficacia decorsi novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto."
 
 ---------------
 
 AGGIORNAMENTO (29)
 
-Il [D.Lgs. 13 dicembre 2017, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217) ha disposto (con l'art. 65, comma 2) che "L'obbligo per i prestatori di servizi di pagamento abilitati di utilizzare esclusivamente la piattaforma di cui all'[articolo 5, comma 2, del decreto legislativo n. 82 del 2005](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;82~art5-com2) per i pagamenti verso le pubbliche amministrazioni decorre dal 1° gennaio 2019".
+Il [D.Lgs. 13 dicembre 2017, n. 217](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%2026%20agosto%202016%20n.%20179%20concernente%20modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislati_7b5fbda60218.md) ha disposto (con l'art. 65, comma 2) che "L'obbligo per i prestatori di servizi di pagamento abilitati di utilizzare esclusivamente la piattaforma di cui all'[articolo 5, comma 2, del decreto legislativo n. 82 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;82#art_5-com2) per i pagamenti verso le pubbliche amministrazioni decorre dal 1° gennaio 2019".
 
 ---------------
 
 AGGIORNAMENTO (31)
 
-Il [D.L. 14 dicembre 2018, n. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-12-14;135), convertito con modificazioni dalla [L. 11 febbraio 2019, n. 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-02-11;12), ha disposto (con l'art. 8, comma 1) che "Ai fini dell'attuazione degli obiettivi di cui all'Agenda digitale italiana anche in coerenza con gli obiettivi dell'Agenda digitale europea, la gestione della piattaforma di cui all'[articolo 5, comma 2, del decreto legislativo 7 marzo 2005, n. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82~art5-com2), nonche' i compiti, relativi a tale piattaforma, svolti dall'Agenzia per l'Italia digitale, sono trasferiti alla Presidenza del Consiglio dei ministri che a tal fine si avvale, se nominato, del Commissario straordinario di cui all'[articolo 63, comma 1, del decreto legislativo 26 agosto 2016, n. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179~art63-com1)".   
-Il [D.Lgs. 13 dicembre 2017, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217), come modificato dal [D.L. 14 dicembre 2018, n. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-12-14;135), convertito con modificazioni dalla [L. 11 febbraio 2019, n. 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-02-11;12), ha disposto (con l'art. 65, comma 2) che "L'obbligo per i prestatori di servizi di pagamento abilitati di utilizzare esclusivamente la piattaforma di cui all'[articolo 5, comma 2, del decreto legislativo n. 82 del 2005](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;82~art5-com2) per i pagamenti verso le pubbliche amministrazioni decorre dal 31 dicembre 2019".
+Il [D.L. 14 dicembre 2018, n. 135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-12-14;135), convertito con modificazioni dalla [L. 11 febbraio 2019, n. 12](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20dicembre%202018%20n.%20135%20recante%20disposizioni%20urgenti%20in%20materia%20di%20sostegno%20e%20semplificazione%20per%20le%20imprese%20e%20per%20la%20pubblica%20amm_7999d3f738ab.md), ha disposto (con l'art. 8, comma 1) che "Ai fini dell'attuazione degli obiettivi di cui all'Agenda digitale italiana anche in coerenza con gli obiettivi dell'Agenda digitale europea, la gestione della piattaforma di cui all'[articolo 5, comma 2, del decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), nonche' i compiti, relativi a tale piattaforma, svolti dall'Agenzia per l'Italia digitale, sono trasferiti alla Presidenza del Consiglio dei ministri che a tal fine si avvale, se nominato, del Commissario straordinario di cui all'[articolo 63, comma 1, del decreto legislativo 26 agosto 2016, n. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md)". 
+ Il [D.Lgs. 13 dicembre 2017, n. 217](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%2026%20agosto%202016%20n.%20179%20concernente%20modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislati_7b5fbda60218.md), come modificato dal [D.L. 14 dicembre 2018, n. 135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-12-14;135), convertito con modificazioni dalla [L. 11 febbraio 2019, n. 12](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20dicembre%202018%20n.%20135%20recante%20disposizioni%20urgenti%20in%20materia%20di%20sostegno%20e%20semplificazione%20per%20le%20imprese%20e%20per%20la%20pubblica%20amm_7999d3f738ab.md), ha disposto (con l'art. 65, comma 2) che "L'obbligo per i prestatori di servizi di pagamento abilitati di utilizzare esclusivamente la piattaforma di cui all'[articolo 5, comma 2, del decreto legislativo n. 82 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;82#art_5-com2) per i pagamenti verso le pubbliche amministrazioni decorre dal 31 dicembre 2019".
 
 --------------
 
 AGGIORNAMENTO (34)
 
-Il [D.Lgs. 13 dicembre 2017, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217), come modificato dal [D.L. 30 dicembre 2019, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2019-12-30;162), ha disposto (con l'art. 65, comma 2) che "L'obbligo per i prestatori di servizi di pagamento abilitati di utilizzare esclusivamente la piattaforma di cui all'[articolo 5, comma 2, del decreto legislativo n. 82 del 2005](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;82~art5-com2) per i pagamenti verso le pubbliche amministrazioni decorre dal 30 giugno 2020".
+Il [D.Lgs. 13 dicembre 2017, n. 217](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%2026%20agosto%202016%20n.%20179%20concernente%20modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislati_7b5fbda60218.md), come modificato dal [D.L. 30 dicembre 2019, n. 162](../DL%20proroghe/Disposizioni%20urgenti%20in%20materia%20di%20proroga%20di%20termini%20legislativi%20di%20organizzazione%20delle%20pubbliche%20amministrazioni%20nonche%20di%20innovazione%20tecnologica.%2019G00171.md), ha disposto (con l'art. 65, comma 2) che "L'obbligo per i prestatori di servizi di pagamento abilitati di utilizzare esclusivamente la piattaforma di cui all'[articolo 5, comma 2, del decreto legislativo n. 82 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;82#art_5-com2) per i pagamenti verso le pubbliche amministrazioni decorre dal 30 giugno 2020".
 
 ---------------
 
 AGGIORNAMENTO (36)
 
-Il [D.Lgs. 13 dicembre 2017, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217), come modificato dal [D.L. 16 luglio 2020, n. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-07-16;76), ha disposto (con l'art. 65, comma 2) che "L'obbligo per i prestatori di servizi di pagamento abilitati di utilizzare esclusivamente la piattaforma di cui all'[articolo 5, comma 2, del decreto legislativo n. 82 del 2005](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;82~art5-com2) per i pagamenti verso le pubbliche amministrazioni decorre dal 28 febbraio 2021".
+Il [D.Lgs. 13 dicembre 2017, n. 217](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%2026%20agosto%202016%20n.%20179%20concernente%20modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislati_7b5fbda60218.md), come modificato dal [D.L. 16 luglio 2020, n. 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-07-16;76), ha disposto (con l'art. 65, comma 2) che "L'obbligo per i prestatori di servizi di pagamento abilitati di utilizzare esclusivamente la piattaforma di cui all'[articolo 5, comma 2, del decreto legislativo n. 82 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;82#art_5-com2) per i pagamenti verso le pubbliche amministrazioni decorre dal 28 febbraio 2021".
 
-### Art. 5-bis
+### Art. 5-bis. — (Comunicazioni tra imprese e amministrazioni pubbliche).
 
-(Comunicazioni tra imprese e amministrazioni pubbliche).
+1.
 
-1. La presentazione di istanze, dichiarazioni, dati e lo scambio di informazioni e documenti, anche a fini statistici, tra le imprese e le amministrazioni pubbliche avviene esclusivamente utilizzando le tecnologie dell'informazione e della comunicazione. Con le medesime modalita' le amministrazioni pubbliche adottano e comunicano atti e provvedimenti amministrativi nei confronti delle imprese.
+La presentazione di istanze, dichiarazioni, dati e lo scambio di informazioni e documenti, anche a fini statistici, tra le imprese e le amministrazioni pubbliche avviene esclusivamente utilizzando le tecnologie dell'informazione e della comunicazione. Con le medesime modalita' le amministrazioni pubbliche adottano e comunicano atti e provvedimenti amministrativi nei confronti delle imprese.
 
-2. Con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro per la pubblica amministrazione e l'innovazione, di concerto con il Ministro dello sviluppo economico e con il Ministro per la semplificazione normativa, sono adottate le modalita' di attuazione del comma 1 da parte delle pubbliche amministrazioni centrali e fissati i relativi termini.
+2.
 
-3. 
+Con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro per la pubblica amministrazione e l'innovazione, di concerto con il Ministro dello sviluppo economico e con il Ministro per la semplificazione normativa, sono adottate le modalita' di attuazione del comma 1 da parte delle pubbliche amministrazioni centrali e fissati i relativi termini.
 
-((AgID))
+3.
 
-, anche avvalendosi degli uffici di cui all'articolo 17, provvede alla verifica dell'attuazione del comma 1 secondo le modalita' e i termini indicati nel decreto di cui al comma 2.
+((AgID)), anche avvalendosi degli uffici di cui all'articolo 17, provvede alla verifica dell'attuazione del comma 1 secondo le modalita' e i termini indicati nel decreto di cui al comma 2.
 
-4. Il Governo promuove l'intesa con regioni ed enti locali in sede di Conferenza unificata per l'adozione degli indirizzi utili alla realizzazione delle finalita' di cui al comma 1.
+4.
 
-### Art. 6
+Il Governo promuove l'intesa con regioni ed enti locali in sede di Conferenza unificata per l'adozione degli indirizzi utili alla realizzazione delle finalita' di cui al comma 1.
 
-((Utilizzo del domicilio digitale))
+### Art. 6. — ((Utilizzo del domicilio digitale))
 
 ((
 
-1. Le comunicazioni tramite i domicili digitali sono effettuate agli indirizzi inseriti negli elenchi di cui agli articoli 6-bis, 6-ter e 6-quater, o a quello eletto come domicilio speciale per determinati atti o affari ai sensi dell'articolo 3-bis, comma 4-quinquies. Le comunicazioni elettroniche trasmesse ad uno dei domicili digitali di cui all'articolo 3-bis producono, quanto al momento della spedizione e del ricevimento, gli stessi effetti giuridici delle comunicazioni a mezzo raccomandata con ricevuta di ritorno ed equivalgono alla notificazione per mezzo della posta salvo che la legge disponga diversamente. Le suddette comunicazioni si intendono spedite dal mittente se inviate al proprio gestore e si intendono consegnate se rese disponibili al domicilio digitale del destinatario, salva la prova che la mancata consegna sia dovuta a fatto non imputabile al destinatario medesimo. La data e l'ora di trasmissione e ricezione del documento informatico sono opponibili ai terzi se apposte in conformita' alle Linee guida.
+1.
+
+Le comunicazioni tramite i domicili digitali sono effettuate agli indirizzi inseriti negli elenchi di cui agli articoli 6-bis, 6-ter e 6-quater, o a quello eletto come domicilio speciale per determinati atti o affari ai sensi dell'articolo 3-bis, comma 4-quinquies. Le comunicazioni elettroniche trasmesse ad uno dei domicili digitali di cui all'articolo 3-bis producono, quanto al momento della spedizione e del ricevimento, gli stessi effetti giuridici delle comunicazioni a mezzo raccomandata con ricevuta di ritorno ed equivalgono alla notificazione per mezzo della posta salvo che la legge disponga diversamente. Le suddette comunicazioni si intendono spedite dal mittente se inviate al proprio gestore e si intendono consegnate se rese disponibili al domicilio digitale del destinatario, salva la prova che la mancata consegna sia dovuta a fatto non imputabile al destinatario medesimo. La data e l'ora di trasmissione e ricezione del documento informatico sono opponibili ai terzi se apposte in conformita' alle Linee guida.
 
 ))
 
-1-bis. 
+1-bis.
 
-((COMMA ABROGATO DAL [D.LGS. 13 DICEMBRE 2017, N. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217)))
-
-.
+((COMMA ABROGATO DAL D.LGS. 13 DICEMBRE 2017, N. 217)).
 
 ((
 
-1-ter. L'elenco dei domicili digitali delle imprese e dei professionisti e' l'Indice nazionale dei domicili digitali (INI-PEC) delle imprese e dei professionisti di cui all'articolo 6-bis.  
+1-ter.
+
+L'elenco dei domicili digitali delle imprese e dei professionisti e' l'Indice nazionale dei domicili digitali (INI-PEC) delle imprese e dei professionisti di cui all'articolo 6-bis.
 L'elenco dei domicili digitali dei soggetti di cui all'articolo 2, comma 2, lettere a) e b), e' l'Indice degli indirizzi della pubblica amministrazione e dei gestori di pubblici servizi, di cui all'articolo 6-ter. L'elenco dei domicili digitali delle persone fisiche e degli altri enti di diritto privato diversi da quelli di cui al primo e al secondo periodo e' l'Indice degli indirizzi delle persone fisiche e degli altri enti di diritto privato di cui all'articolo 6-quater.
 
-1-quater. I soggetti di cui all'articolo 2, comma 2, notificano direttamente presso i domicili digitali di cui all'articolo 3-bis i propri atti, compresi i verbali relativi alle sanzioni amministrative, gli atti impositivi di accertamento e di riscossione e le ingiunzioni di cui all'[articolo 2 del regio decreto 14 aprile 1910, n. 639](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-14;639~art2), fatte salve le specifiche disposizioni in ambito tributario. La conformita' della copia informatica del documento notificato all'originale e' attestata dal responsabile del procedimento in conformita' a quanto disposto agli articoli 22 e 23-bis.
+1-quater.
+
+I soggetti di cui all'articolo 2, comma 2, notificano direttamente presso i domicili digitali di cui all'articolo 3-bis i propri atti, compresi i verbali relativi alle sanzioni amministrative, gli atti impositivi di accertamento e di riscossione e le ingiunzioni di cui all'[articolo 2 del regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md), fatte salve le specifiche disposizioni in ambito tributario. La conformita' della copia informatica del documento notificato all'originale e' attestata dal responsabile del procedimento in conformita' a quanto disposto agli articoli 22 e 23-bis.
 
 ))
 
-2. COMMA ABROGATO DAL [D.LGS. 30 DICEMBRE 2010, N. 235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-30;235).
+2.
 
-2-bis. COMMA ABROGATO DAL [D.LGS. 30 DICEMBRE 2010, N. 235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-30;235).
+COMMA ABROGATO DAL [D.LGS. 30 DICEMBRE 2010, N. 235](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20recante%20Codice%20dellamministrazione%20digitale%20a%20norma%20dellarticolo%2033%20della%20legge%2018%20giugno%202009%20n.%2069.%2011G0002.md).
 
-### Art. 6-bis
+2-bis.
 
-(Indice nazionale dei domicili digitali delle imprese e dei professionisti)
+COMMA ABROGATO DAL [D.LGS. 30 DICEMBRE 2010, N. 235](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20recante%20Codice%20dellamministrazione%20digitale%20a%20norma%20dellarticolo%2033%20della%20legge%2018%20giugno%202009%20n.%2069.%2011G0002.md).
 
-1. Al fine di favorire la presentazione di istanze, dichiarazioni e dati, nonche' lo scambio di informazioni e documenti tra i soggetti di cui all'articolo 2, comma 2 e le imprese e i professionisti in modalita' telematica, e' istituito il pubblico elenco denominato Indice nazionale dei domicili digitali (INI-PEC) delle imprese e dei professionisti, presso il Ministero per lo sviluppo economico.
+### Art. 6-bis. — (Indice nazionale dei domicili digitali delle imprese e dei professionisti)
 
-2. L'Indice nazionale di cui al comma 1 e' realizzato a partire dagli elenchi di indirizzi PEC costituiti presso il registro delle imprese e gli ordini o collegi professionali, in attuazione di quanto previsto dall'[articolo 16 del decreto-legge 29 novembre 2008, n. 185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-11-29;185~art16), convertito, con modificazioni, dalla [legge 28 gennaio 2009, n. 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-01-28;2).
+1.
 
-((Nell'Indice nazionale sono inseriti anche i domicili digitali dei professionisti diversi da quelli di cui al primo periodo, iscritti in elenchi o registri detenuti dalle pubbliche amministrazioni e istituiti con legge dello Stato.))
+Al fine di favorire la presentazione di istanze, dichiarazioni e dati, nonche' lo scambio di informazioni e documenti tra i soggetti di cui all'articolo 2, comma 2 e le imprese e i professionisti in modalita' telematica, e' istituito il pubblico elenco denominato Indice nazionale dei domicili digitali (INI-PEC) delle imprese e dei professionisti, presso il Ministero per lo sviluppo economico.
 
-I domicili digitali inseriti in tale Indice costituiscono mezzo esclusivo di comunicazione e notifica con i soggetti di cui all'articolo 2, comma 2.
+2.
 
-2-bis. L'INI-PEC acquisisce dagli ordini e dai collegi professionali gli attributi qualificati dell'identita' digitale ai fini di quanto previsto dal decreto di cui all'articolo 64, comma 2-sexies.
+L'Indice nazionale di cui al comma 1 e' realizzato a partire dagli elenchi di indirizzi PEC costituiti presso il registro delle imprese e gli ordini o collegi professionali, in attuazione di quanto previsto dall'[articolo 16 del decreto-legge 29 novembre 2008, n. 185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-11-29;185#art_16), convertito, con modificazioni, dalla [legge 28 gennaio 2009, n. 2](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20novembre%202008%20n.%20185%20recante%20misure%20urgenti%20per%20il%20sostegno%20a%20famiglie%20lavoro%20occupazione%20e%20impresa%20e%20per%20ridisegnare%20in%20funzio_d34e2e16908a.md). ((Nell'Indice nazionale sono inseriti anche i domicili digitali dei professionisti diversi da quelli di cui al primo periodo, iscritti in elenchi o registri detenuti dalle pubbliche amministrazioni e istituiti con legge dello Stato.)) I domicili digitali inseriti in tale Indice costituiscono mezzo esclusivo di comunicazione e notifica con i soggetti di cui all'articolo 2, comma 2.
 
-3. COMMA ABROGATO DAL [D.LGS. 13 DICEMBRE 2017, N. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217).
+2-bis.
 
-4. Il Ministero per lo sviluppo economico, al fine del contenimento dei costi e dell'utilizzo razionale delle risorse, sentita l'Agenzia per l'Italia digitale, si avvale per la realizzazione e gestione operativa dell'Indice nazionale di cui al comma 1 delle strutture informatiche delle Camere di commercio deputate alla gestione del registro imprese e ne definisce con proprio decreto, da emanare entro 60 giorni dalla data di entrata in vigore della presente disposizione, le modalita' di accesso e di aggiornamento.
+L'INI-PEC acquisisce dagli ordini e dai collegi professionali gli attributi qualificati dell'identita' digitale ai fini di quanto previsto dal decreto di cui all'articolo 64, comma 2-sexies.
 
-5. Nel decreto di cui al comma 4 sono anche definite le modalita' e le forme con cui gli ordini e i collegi professionali
+3.
 
-((nonche' le pubbliche amministrazioni))
+COMMA ABROGATO DAL [D.LGS. 13 DICEMBRE 2017, N. 217](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%2026%20agosto%202016%20n.%20179%20concernente%20modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislati_7b5fbda60218.md).
 
-comunicano all'Indice nazionale di cui al comma 1 tutti gli indirizzi PEC relativi ai professionisti di propria competenza e sono previsti gli strumenti telematici resi disponibili dalle Camere di commercio per il tramite delle proprie strutture informatiche al fine di ottimizzare la raccolta e aggiornamento dei medesimi indirizzi.
+4.
 
-6. Dall'attuazione delle disposizioni di cui al presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
+Il Ministero per lo sviluppo economico, al fine del contenimento dei costi e dell'utilizzo razionale delle risorse, sentita l'Agenzia per l'Italia digitale, si avvale per la realizzazione e gestione operativa dell'Indice nazionale di cui al comma 1 delle strutture informatiche delle Camere di commercio deputate alla gestione del registro imprese e ne definisce con proprio decreto, da emanare entro 60 giorni dalla data di entrata in vigore della presente disposizione, le modalita' di accesso e di aggiornamento.
 
-### Art. 6-ter
+5.
 
-(Indice dei domicili digitali delle pubbliche amministrazioni, dei gestori di pubblici servizi e delle societa' a controllo pubblico)
+Nel decreto di cui al comma 4 sono anche definite le modalita' e le forme con cui gli ordini e i collegi professionali ((nonche' le pubbliche amministrazioni)) comunicano all'Indice nazionale di cui al comma 1 tutti gli indirizzi PEC relativi ai professionisti di propria competenza e sono previsti gli strumenti telematici resi disponibili dalle Camere di commercio per il tramite delle proprie strutture informatiche al fine di ottimizzare la raccolta e aggiornamento dei medesimi indirizzi.
 
-1. Al fine di assicurare la pubblicita' dei riferimenti telematici delle pubbliche amministrazioni, dei gestori dei pubblici servizi e delle societa' a controllo pubblico, e' istituito il pubblico elenco di fiducia denominato "Indice dei domicili digitali della pubblica amministrazione, dei gestori di pubblici servizi e delle societa' a controllo pubblico", nel quale sono indicati i domicili digitali da utilizzare per le comunicazioni, per lo scambio di informazioni e per l'invio di documenti a tutti gli effetti di legge tra le pubbliche amministrazioni, i gestori di pubblici servizi, le societa' a controllo pubblico e i privati.
+6.
 
-1-bis. Per ogni pubblica amministrazione o gestore di pubblico servizio nonche' per le societa' a controllo pubblico, l'Indice di cui al comma 1 garantisce, a richiesta del soggetto, l'inserimento dei dati utili per la gestione della fattura elettronica ai sensi dell'[articolo 1, commi 209](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244~art1-com209), [210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244~art1-com210), [211](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244~art1-com211), [212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244~art1-com212) e [213, della legge 24 dicembre 2007, n. 244](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244~art1-com213), e del [decreto legislativo 27 dicembre 2018, n. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-12-27;148).
+Dall'attuazione delle disposizioni di cui al presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
 
-2. La realizzazione e la gestione dell'Indice sono affidate all'AgID, che puo' utilizzare a tal fine elenchi e repertori gia' formati dalle amministrazioni pubbliche , incluso l'elenco di cui all'articolo 1, comma 3,
+### Art. 6-ter. — (Indice dei domicili digitali delle pubbliche amministrazioni, dei gestori di pubblici servizi e delle societa' a controllo pubblico)
 
-((della))
+1.
 
-[legge 31 dicembre 2009, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196)
+Al fine di assicurare la pubblicita' dei riferimenti telematici delle pubbliche amministrazioni, dei gestori dei pubblici servizi e delle societa' a controllo pubblico, e' istituito il pubblico elenco di fiducia denominato "Indice dei domicili digitali della pubblica amministrazione, dei gestori di pubblici servizi e delle societa' a controllo pubblico", nel quale sono indicati i domicili digitali da utilizzare per le comunicazioni, per lo scambio di informazioni e per l'invio di documenti a tutti gli effetti di legge tra le pubbliche amministrazioni, i gestori di pubblici servizi, le societa' a controllo pubblico e i privati.
 
-2-bis. L'iscrizione
+1-bis.
 
-((nell'Indice di cui al comma 1))
+Per ogni pubblica amministrazione o gestore di pubblico servizio nonche' per le societa' a controllo pubblico, l'Indice di cui al comma 1 garantisce, a richiesta del soggetto, l'inserimento dei dati utili per la gestione della fattura elettronica ai sensi dell'[articolo 1, commi 209](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md), [210](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md), [211](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md), [212](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) e [213, della legge 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md), e del [decreto legislativo 27 dicembre 2018, n. 148](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20UE%202014-55%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2016%20aprile%202014%20relativa%20alla%20fatturazione%20elettronica%20negli%20appalti%20pubblici.%2019G00004.md).
 
-avviene a richiesta del soggetto interessato o d'ufficio da parte dell'AgID e non e' incompatibile con l'iscrizione nell'Indice di cui all'articolo 6-bis. Ai fini di garantire l'univocita' dei domicili digitali nei pubblici elenchi, l'Indice di cui al presente articolo e quello di cui all'articolo 6-bis garantiscono il costante allineamento dei domicili digitali, tramite i servizi della piattaforma di cui all'articolo 50-ter.
+2.
 
-3. Le amministrazioni di cui al comma 1, i gestori di pubblici servizi e le societa' a controllo pubblico aggiornano gli indirizzi e i dati dell'Indice
+La realizzazione e la gestione dell'Indice sono affidate all'AgID, che puo' utilizzare a tal fine elenchi e repertori gia' formati dalle amministrazioni pubbliche , incluso l'elenco di cui all'articolo 1, comma 3, ((della)) [legge 31 dicembre 2009, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196)
 
-((di cui al medesimo comma 1))
+2-bis.
 
-tempestivamente e comunque con cadenza almeno semestrale, secondo le indicazioni dell'AgID. La mancata comunicazione degli elementi necessari al completamento dell'Indice e del loro aggiornamento e' valutata ai fini della responsabilita' dirigenziale e dell'attribuzione della retribuzione di risultato ai dirigenti responsabili. In caso di violazione delle disposizioni di cui al presente comma, si applica l'articolo 18-bis.
+L'iscrizione ((nell'Indice di cui al comma 1)) avviene a richiesta del soggetto interessato o d'ufficio da parte dell'AgID e non e' incompatibile con l'iscrizione nell'Indice di cui all'articolo 6-bis. Ai fini di garantire l'univocita' dei domicili digitali nei pubblici elenchi, l'Indice di cui al presente articolo e quello di cui all'articolo 6-bis garantiscono il costante allineamento dei domicili digitali, tramite i servizi della piattaforma di cui all'articolo 50-ter.
 
-### Art. 6-quater
+3.
 
-(Indice nazionale dei domicili digitali delle persone fisiche, dei professionisti e degli altri enti di diritto privato, non tenuti all'iscrizione in albi, elenchi o registri professionali o nel registro delle imprese)
+Le amministrazioni di cui al comma 1, i gestori di pubblici servizi e le societa' a controllo pubblico aggiornano gli indirizzi e i dati dell'Indice ((di cui al medesimo comma 1)) tempestivamente e comunque con cadenza almeno semestrale, secondo le indicazioni dell'AgID. La mancata comunicazione degli elementi necessari al completamento dell'Indice e del loro aggiornamento e' valutata ai fini della responsabilita' dirigenziale e dell'attribuzione della retribuzione di risultato ai dirigenti responsabili. In caso di violazione delle disposizioni di cui al presente comma, si applica l'articolo 18-bis.
 
-1. E' istituito il pubblico elenco dei domicili digitali delle persone fisiche, dei professionisti e degli altri enti di diritto privato non tenuti all'iscrizione nell'indice di cui all'articolo 6-bis, nel quale sono indicati i domicili eletti ai sensi dell'articolo 3-bis, comma 1-bis. La realizzazione e la gestione del presente Indice sono affidate all'AgID, che vi provvede avvalendosi delle strutture informatiche delle Camere di commercio gia' deputate alla gestione dell'elenco di cui all'articolo 6-bis. E' fatta salva la facolta' del professionista, non iscritto in albi, registri o elenchi professionali di cui all'articolo 6-bis, di eleggere presso il presente Indice un domicilio digitale professionale e un domicilio digitale personale diverso dal primo.
+### Art. 6-quater. — (Indice nazionale dei domicili digitali delle persone fisiche, dei professionisti e degli altri enti di diritto privato, non tenuti all'iscrizione in albi, elenchi o registri professionali o nel registro delle imprese)
 
-2. Per i professionisti iscritti in albi ed elenchi il domicilio digitale e' l'indirizzo inserito nell'elenco di cui all'articolo 6-bis, fermo restando il diritto di eleggerne uno diverso ai sensi dell'articolo 3-bis, comma 1-bis. Ai fini dell'inserimento dei domicili dei professionisti nel predetto elenco il Ministero dello sviluppo economico rende disponibili all'AgID, tramite servizi informatici individuati nelle Linee guida, i relativi indirizzi gia' contenuti nell'elenco di cui all'articolo 6-bis.
+1.
 
-3. AgID provvede costantemente all'aggiornamento e al trasferimento dei domicili digitali delle persone fisiche contenuti nell'elenco di cui al presente articolo nell'ANPR e il Ministero dell'interno provvede costantemente all'aggiornamento e al trasferimento dei domicili digitali delle persone fisiche contenuti
+E' istituito il pubblico elenco dei domicili digitali delle persone fisiche, dei professionisti e degli altri enti di diritto privato non tenuti all'iscrizione nell'indice di cui all'articolo 6-bis, nel quale sono indicati i domicili eletti ai sensi dell'articolo 3-bis, comma 1-bis. La realizzazione e la gestione del presente Indice sono affidate all'AgID, che vi provvede avvalendosi delle strutture informatiche delle Camere di commercio gia' deputate alla gestione dell'elenco di cui all'articolo 6-bis. E' fatta salva la facolta' del professionista, non iscritto in albi, registri o elenchi professionali di cui all'articolo 6-bis, di eleggere presso il presente Indice un domicilio digitale professionale e un domicilio digitale personale diverso dal primo.
 
-((nell'ANPR))
+2.
 
-nell'elenco di cui al presente articolo. Le funzioni di aggiornamento e trasferimento dei dati sono svolte con le risorse disponibili a legislazione vigente, senza nuovi o maggiori oneri a carico della
+Per i professionisti iscritti in albi ed elenchi il domicilio digitale e' l'indirizzo inserito nell'elenco di cui all'articolo 6-bis, fermo restando il diritto di eleggerne uno diverso ai sensi dell'articolo 3-bis, comma 1-bis. Ai fini dell'inserimento dei domicili dei professionisti nel predetto elenco il Ministero dello sviluppo economico rende disponibili all'AgID, tramite servizi informatici individuati nelle Linee guida, i relativi indirizzi gia' contenuti nell'elenco di cui all'articolo 6-bis.
 
-((finanza pubblica))
+3.
 
-.
+AgID provvede costantemente all'aggiornamento e al trasferimento dei domicili digitali delle persone fisiche contenuti nell'elenco di cui al presente articolo nell'ANPR e il Ministero dell'interno provvede costantemente all'aggiornamento e al trasferimento dei domicili digitali delle persone fisiche contenuti ((nell'ANPR)) nell'elenco di cui al presente articolo. Le funzioni di aggiornamento e trasferimento dei dati sono svolte con le risorse disponibili a legislazione vigente, senza nuovi o maggiori oneri a carico della ((finanza pubblica)).
 
-### Art. 6-quinquies
+### Art. 6-quinquies. — (Consultazione e accesso)
 
-(Consultazione e accesso)
+1.
 
-1. La consultazione on-line degli elenchi di cui agli articoli 6-bis, 6-ter e 6-quater e' consentita a chiunque senza necessita' di autenticazione. Gli elenchi sono realizzati in formato aperto.
+La consultazione on-line degli elenchi di cui agli articoli 6-bis, 6-ter e 6-quater e' consentita a chiunque senza necessita' di autenticazione. Gli elenchi sono realizzati in formato aperto.
 
-2. L'estrazione dei domicili digitali dagli elenchi, di cui agli articoli 6-bis, 6-ter e 6-quater, e' effettuata secondo le modalita' fissate da AgID nelle Linee guida.
+2.
 
-3. In assenza di preventiva autorizzazione del titolare dell'indirizzo, e' vietato l'utilizzo dei domicili digitali di cui al presente articolo
+L'estrazione dei domicili digitali dagli elenchi, di cui agli articoli 6-bis, 6-ter e 6-quater, e' effettuata secondo le modalita' fissate da AgID nelle Linee guida.
 
-((per l'invio di comunicazioni commerciali, come definite dall'[articolo 2, comma 1, lettera f), del decreto legislativo 9 aprile 2003, n. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-04-09;70~art2-com1-letf)))
+3.
 
-.
+In assenza di preventiva autorizzazione del titolare dell'indirizzo, e' vietato l'utilizzo dei domicili digitali di cui al presente articolo ((per l'invio di comunicazioni commerciali, come definite dall'articolo 2, comma 1, lettera f), del decreto legislativo 9 aprile 2003, n. 70)).
 
-4. Gli elenchi di cui agli articoli 6-bis, 6-ter e 6-quater contengono le informazioni relative alla elezione, modifica o cessazione del domicilio digitale.
+4.
 
-### Art. 7
+Gli elenchi di cui agli articoli 6-bis, 6-ter e 6-quater contengono le informazioni relative alla elezione, modifica o cessazione del domicilio digitale.
 
-((Diritto a servizi on-line semplici e integrati))
+### Art. 7. — ((Diritto a servizi on-line semplici e integrati))
 
-01. 
+01.
 
 ((Chiunque ha diritto di fruire dei servizi erogati dai soggetti di cui all'articolo 2, comma 2, in forma digitale e in modo integrato, tramite gli strumenti telematici messi a disposizione dalle pubbliche amministrazioni e il punto di accesso di cui all'articolo 64-bis, anche attraverso dispositivi mobili.))
+                                ((29))
 
-((29))
+1.
 
-1. I soggetti di cui all'articolo 2, comma 2, provvedono alla riorganizzazione e all'aggiornamento dei servizi resi, sulla base di una preventiva analisi delle reali esigenze
+I soggetti di cui all'articolo 2, comma 2, provvedono alla riorganizzazione e all'aggiornamento dei servizi resi, sulla base di una preventiva analisi delle reali esigenze ((degli utenti)) e rendono disponibili ((on-line i propri servizi)) nel rispetto delle disposizioni del presente Codice e degli standard ((e dei livelli di qualita' individuati e periodicamente aggiornati dall'AgID con proprie Linee guida tenuto anche conto dell'evoluzione tecnologica)).
 
-((degli utenti))
+2.
 
-e rendono disponibili
+((COMMA ABROGATO DAL D.LGS. 13 DICEMBRE 2017, N. 217)).
 
-((on-line i propri servizi))
+3.
 
-nel rispetto delle disposizioni del presente Codice e degli standard
+Per i servizi in rete, i soggetti di cui all'articolo 2, comma 2, consentono agli utenti di esprimere la soddisfazione rispetto alla qualita', anche in termini di fruibilita', accessibilita' e tempestivita', del servizio reso all'utente stesso e pubblicano sui propri siti i dati risultanti, ivi incluse le statistiche di utilizzo.
 
-((e dei livelli di qualita' individuati e periodicamente aggiornati dall'AgID con proprie Linee guida tenuto anche conto dell'evoluzione tecnologica))
+4.
 
-.
-
-2. 
-
-((COMMA ABROGATO DAL [D.LGS. 13 DICEMBRE 2017, N. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217)))
-
-.
-
-3. Per i servizi in rete, i soggetti di cui all'articolo 2, comma 2, consentono agli utenti di esprimere la soddisfazione rispetto alla qualita', anche in termini di fruibilita', accessibilita' e tempestivita', del servizio reso all'utente stesso e pubblicano sui propri siti i dati risultanti, ivi incluse le statistiche di utilizzo.
-
-4. In caso di violazione degli obblighi di cui al presente articolo,
-
-((gli utenti, fermo restando il diritto di rivolgersi al difensore civico digitale di cui all'articolo 17,))
-
-possono agire in giudizio, anche nei termini e con le modalita' stabilite nel [decreto legislativo 20 dicembre 2009, n. 198](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2009-12-20;198).
+In caso di violazione degli obblighi di cui al presente articolo, ((gli utenti, fermo restando il diritto di rivolgersi al difensore civico digitale di cui all'articolo 17,)) possono agire in giudizio, anche nei termini e con le modalita' stabilite nel [decreto legislativo 20 dicembre 2009, n. 198](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%204%20della%20legge%204%20marzo%202009%20n.%2015%20in%20materia%20di%20ricorso%20per%20lefficienza%20delle%20amministrazioni%20e%20dei%20concessionari%20di%20servizi%20pubblici.%2009G0207.md).
 
 ---------------
 
 AGGIORNAMENTO (29)
 
-Il [D.Lgs. 13 dicembre 2017, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217) ha disposto (con l'art. 65, comma 6) che "Il diritto di cui all'articolo 7, comma 01, e' riconosciuto a decorrere dalla data di attivazione del punto di accesso di cui all'articolo 64-bis".
+Il [D.Lgs. 13 dicembre 2017, n. 217](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%2026%20agosto%202016%20n.%20179%20concernente%20modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislati_7b5fbda60218.md) ha disposto (con l'art. 65, comma 6) che "Il diritto di cui all'articolo 7, comma 01, e' riconosciuto a decorrere dalla data di attivazione del punto di accesso di cui all'articolo 64-bis".
 
-### Art. 8
+### Art. 8. — Alfabetizzazione informatica dei cittadini
 
-Alfabetizzazione informatica dei cittadini
-
-1. 
+1.
 
 ((Lo Stato e i soggetti di cui all'articolo 2, comma 2, promuovono iniziative volte a favorire la diffusione della cultura digitale tra i cittadini con particolare riguardo ai minori e alle categorie a rischio di esclusione, anche al fine di favorire lo sviluppo di competenze di informatica giuridica e l'utilizzo dei servizi digitali delle pubbliche amministrazioni con azioni specifiche e concrete, avvalendosi di un insieme di mezzi diversi fra i quali il servizio radiotelevisivo.))
 
-### Art. 8-bis
+### Art. 8-bis. — (Connettivita' alla rete Internet negli uffici e luoghi pubblici)
 
-(Connettivita' alla rete Internet negli uffici e luoghi pubblici)
+1.
 
-1. I soggetti di cui all'articolo 2, comma 2, favoriscono, in linea con gli obiettivi dell'Agenda digitale europea, la disponibilita' di connettivita' alla rete Internet presso gli uffici pubblici e altri luoghi pubblici, in particolare nei settori scolastico, sanitario e di interesse turistico, anche prevedendo che la porzione di banda non utilizzata dagli stessi uffici sia messa a disposizione degli utenti
+I soggetti di cui all'articolo 2, comma 2, favoriscono, in linea con gli obiettivi dell'Agenda digitale europea, la disponibilita' di connettivita' alla rete Internet presso gli uffici pubblici e altri luoghi pubblici, in particolare nei settori scolastico, sanitario e di interesse turistico, anche prevedendo che la porzione di banda non utilizzata dagli stessi uffici sia messa a disposizione degli utenti ((nel rispetto degli)) standard di sicurezza fissati dall'Agid.
 
-((nel rispetto degli))
+2.
 
-standard di sicurezza fissati dall'Agid.
+I soggetti di cui all'articolo 2, comma 2, mettono a disposizione degli utenti connettivita' a banda larga per l'accesso alla rete Internet nei limiti della banda disponibile e con le modalita' determinate dall'AgID.
 
-2. I soggetti di cui all'articolo 2, comma 2, mettono a disposizione degli utenti connettivita' a banda larga per l'accesso alla rete Internet nei limiti della banda disponibile e con le modalita' determinate dall'AgID.
+### Art. 9. — Partecipazione democratica elettronica
 
-### Art. 9
+1.
 
-Partecipazione democratica elettronica
+((I soggetti di cui all'articolo 2, comma 2,)) favoriscono ogni forma di uso delle nuove tecnologie per promuovere una maggiore partecipazione dei cittadini, anche residenti all'estero, al processo democratico e per facilitare l'esercizio dei diritti politici e civili ((e migliorare la qualita' dei propri atti, anche attraverso l'utilizzo, ove previsto e nell'ambito delle risorse disponibili a legislazione vigente, di forme di consultazione preventiva per via telematica sugli schemi di atto da adottare)).
 
-1. 
+### Art. 10.
 
-((I soggetti di cui all'articolo 2, comma 2,))
+((ARTICOLO ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179))
 
-favoriscono ogni forma di uso delle nuove tecnologie per promuovere una maggiore partecipazione dei cittadini, anche residenti all'estero, al processo democratico e per facilitare l'esercizio dei diritti politici e civili
+### Art. 11.
 
-((e migliorare la qualita' dei propri atti, anche attraverso l'utilizzo, ove previsto e nell'ambito delle risorse disponibili a legislazione vigente, di forme di consultazione preventiva per via telematica sugli schemi di atto da adottare))
+((ARTICOLO ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179))
 
-.
+## Sezione III Organizzazione delle pubbliche amministrazioni Rapporti fra Stato, Regioni e autonomie locali
 
-### Art. 10
+-
 
-((ARTICOLO ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179)))
+### Art. 12. — Norme generali per l'uso delle tecnologie dell'informazione e delle comunicazioni nell'azione amministrativa
 
-### Art. 11
+1.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179)))
+Le pubbliche amministrazioni nell'organizzare autonomamente la propria attivita' utilizzano le tecnologie dell'informazione e della comunicazione per la realizzazione degli obiettivi di efficienza, efficacia, economicita', imparzialita', trasparenza, semplificazione e partecipazione nel rispetto dei principi di uguaglianza e di non discriminazione, nonche' per l'effettivo riconoscimento dei diritti dei cittadini e delle imprese di cui al presente Codice in conformita' agli obiettivi indicati nel Piano triennale per l'informatica nella pubblica amministrazione di cui all'articolo 14-bis, comma 2, lettera b).
 
-CAPO III - Sezione III Organizzazione delle pubbliche amministrazioni Rapporti fra Stato, Regioni e autonomie locali
---------------------------------------------------------------------------------------------------------------------
+1-bis.
 
-### Art. 12
+Gli organi di Governo nell'esercizio delle funzioni di indirizzo politico ed in particolare nell'emanazione delle direttive generali per l'attivita' amministrativa e per la gestione ai sensi del [comma 1 dell'articolo 14 del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), e le amministrazioni pubbliche nella redazione del piano di performance di cui all'[articolo 10 del decreto legislativo 27 ottobre 2009, n. 150](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%204%20marzo%202009%20n.%2015%20in%20materia%20di%20ottimizzazione%20della%20produttivita%20del%20lavoro%20pubblico%20e%20di%20efficienza%20e%20trasparenza%20delle%20pubbliche%20amministrazioni.%2009G0164.md), dettano disposizioni per l'attuazione delle disposizioni del presente Codice.
 
-Norme generali per l'uso delle tecnologie dell'informazione e delle comunicazioni nell'azione amministrativa
+1-ter.
 
-1. Le pubbliche amministrazioni nell'organizzare autonomamente la propria attivita' utilizzano le tecnologie dell'informazione e della comunicazione per la realizzazione degli obiettivi di efficienza, efficacia, economicita', imparzialita', trasparenza, semplificazione e partecipazione nel rispetto dei principi di uguaglianza e di non discriminazione, nonche' per l'effettivo riconoscimento dei diritti dei cittadini e delle imprese di cui al presente Codice in conformita' agli obiettivi indicati nel Piano triennale per l'informatica nella pubblica amministrazione di cui all'articolo 14-bis, comma 2, lettera b).
+I dirigenti rispondono dell'osservanza ed attuazione delle disposizioni di cui al presente Codice ai sensi e nei limiti degli [articoli 21](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md) e [55 del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), ferme restando le eventuali responsabilita' penali, civili e contabili previste dalle norme vigenti. L'attuazione delle disposizioni del presente Codice e' comunque rilevante ai fini della misurazione e valutazione della performance organizzativa ed individuale dei dirigenti.
 
-1-bis. Gli organi di Governo nell'esercizio delle funzioni di indirizzo politico ed in particolare nell'emanazione delle direttive generali per l'attivita' amministrativa e per la gestione ai sensi del [comma 1 dell'articolo 14 del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art14-com1), e le amministrazioni pubbliche nella redazione del piano di performance di cui all'[articolo 10 del decreto legislativo 27 ottobre 2009, n. 150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2009-10-27;150~art10), dettano disposizioni per l'attuazione delle disposizioni del presente Codice.
+2.
 
-1-ter. I dirigenti rispondono dell'osservanza ed attuazione delle disposizioni di cui al presente Codice ai sensi e nei limiti degli [articoli 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art21) e [55 del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art55), ferme restando le eventuali responsabilita' penali, civili e contabili previste dalle norme vigenti. L'attuazione delle disposizioni del presente Codice e' comunque rilevante ai fini della misurazione e valutazione della performance organizzativa ed individuale dei dirigenti.
+Le pubbliche amministrazioni utilizzano, nei rapporti interni, in quelli con altre amministrazioni e con i privati, le tecnologie dell'informazione e della comunicazione, garantendo l'interoperabilita' dei sistemi e l'integrazione dei processi di servizio fra le diverse amministrazioni nel rispetto delle Linee guida. (28)
 
-2. Le pubbliche amministrazioni utilizzano, nei rapporti interni, in quelli con altre amministrazioni e con i privati, le tecnologie dell'informazione e della comunicazione, garantendo l'interoperabilita' dei sistemi e l'integrazione dei processi di servizio fra le diverse amministrazioni nel rispetto delle Linee guida. (28)
+3.
 
-3. Le pubbliche amministrazioni operano per assicurare l'uniformita' e la graduale integrazione delle modalita' di interazione degli utenti con i servizi informatici , ivi comprese le reti di telefonia fissa e mobile in tutte le loro articolazioni, da esse erogati, qualunque sia il canale di erogazione, nel rispetto della autonomia e della specificita' di ciascun erogatore di servizi.
+Le pubbliche amministrazioni operano per assicurare l'uniformita' e la graduale integrazione delle modalita' di interazione degli utenti con i servizi informatici , ivi comprese le reti di telefonia fissa e mobile in tutte le loro articolazioni, da esse erogati, qualunque sia il canale di erogazione, nel rispetto della autonomia e della specificita' di ciascun erogatore di servizi.
 
-3-bis. I soggetti di cui all'articolo 2, comma 2, favoriscono l'uso da parte dei lavoratori di dispositivi elettronici personali o, se di proprieta' dei predetti soggetti, personalizzabili, al fine di ottimizzare la prestazione lavorativa, nel rispetto delle condizioni di sicurezza nell'utilizzo. In caso di uso di dispositivi elettronici personali, i soggetti di cui all'articolo 2, comma 2, nel rispetto della disciplina in materia di trattamento dei dati personali, adottano ogni misura atta a garantire la sicurezza e la protezione delle informazioni e dei dati, tenendo conto delle migliori pratiche e degli standard nazionali, europei e internazionali per la protezione delle proprie reti, nonche'
+3-bis.
 
-((a condizione che sia data al lavoratore adeguata informazione))
+I soggetti di cui all'articolo 2, comma 2, favoriscono l'uso da parte dei lavoratori di dispositivi elettronici personali o, se di proprieta' dei predetti soggetti, personalizzabili, al fine di ottimizzare la prestazione lavorativa, nel rispetto delle condizioni di sicurezza nell'utilizzo. In caso di uso di dispositivi elettronici personali, i soggetti di cui all'articolo 2, comma 2, nel rispetto della disciplina in materia di trattamento dei dati personali, adottano ogni misura atta a garantire la sicurezza e la protezione delle informazioni e dei dati, tenendo conto delle migliori pratiche e degli standard nazionali, europei e internazionali per la protezione delle proprie reti, nonche' ((a condizione che sia data al lavoratore adeguata informazione)) sull'uso sicuro dei dispositivi, anche attraverso la diffusione di apposite linee guida, e disciplinando, tra l'altro l'uso di webcam e microfoni ((, previa informazione alle organizzazioni sindacali)).
 
-sull'uso sicuro dei dispositivi, anche attraverso la diffusione di apposite linee guida, e disciplinando, tra l'altro l'uso di webcam e microfoni
+3-ter.
 
-((, previa informazione alle organizzazioni sindacali))
+Al fine di agevolare la diffusione del lavoro agile quale modalita' di esecuzione del rapporto di lavoro subordinato, i soggetti di cui all'articolo 2, comma 2, lettera a), acquistano beni e progettano e sviluppano i sistemi informativi e i servizi informatici con modalita' idonee a consentire ai lavoratori di accedere da remoto ad applicativi, dati e informazioni necessari allo svolgimento della prestazione lavorativa, nel rispetto della [legge 20 maggio 1970, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300), del [decreto legislativo 9 aprile 2008, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md) e della [legge 22 maggio 2017, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-05-22;81), assicurando un adeguato livello di sicurezza informatica, in linea con le migliori pratiche e gli standard nazionali ed internazionali per la protezione delle proprie reti, nonche' ((a condizione che sia data al lavoratore adeguata informazione)) sull'uso sicuro degli strumenti impiegati, con particolare riguardo a quelli erogati tramite fornitori di servizi in cloud, anche attraverso la diffusione di apposite linee guida, e disciplinando anche la tipologia di attivita' che possono essere svolte ((, previa informazione alle organizzazioni sindacali)).
 
-.
+4.
 
-3-ter. Al fine di agevolare la diffusione del lavoro agile quale modalita' di esecuzione del rapporto di lavoro subordinato, i soggetti di cui all'articolo 2, comma 2, lettera a), acquistano beni e progettano e sviluppano i sistemi informativi e i servizi informatici con modalita' idonee a consentire ai lavoratori di accedere da remoto ad applicativi, dati e informazioni necessari allo svolgimento della prestazione lavorativa, nel rispetto della [legge 20 maggio 1970, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300), del [decreto legislativo 9 aprile 2008, n. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81) e della [legge 22 maggio 2017, n. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-05-22;81), assicurando un adeguato livello di sicurezza informatica, in linea con le migliori pratiche e gli standard nazionali ed internazionali per la protezione delle proprie reti, nonche'
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
-((a condizione che sia data al lavoratore adeguata informazione))
+5.
 
-sull'uso sicuro degli strumenti impiegati, con particolare riguardo a quelli erogati tramite fornitori di servizi in cloud, anche attraverso la diffusione di apposite linee guida, e disciplinando anche la tipologia di attivita' che possono essere svolte
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
-((, previa informazione alle organizzazioni sindacali))
+5-bis.
 
-.
-
-4. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
-
-5. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
-
-5-bis. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
 ---------------
 
 AGGIORNAMENTO (28)
 
-Il [D.Lgs. 26 agosto 2016, n. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179) ha disposto (con l'art. 11, comma 2) che "Le disposizioni di cui al comma 1, lettera b), si applicano con riferimento ai nuovi sistemi informativi delle pubbliche amministrazioni".
+Il [D.Lgs. 26 agosto 2016, n. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md) ha disposto (con l'art. 11, comma 2) che "Le disposizioni di cui al comma 1, lettera b), si applicano con riferimento ai nuovi sistemi informativi delle pubbliche amministrazioni".
 
-### Art. 13
+### Art. 13. — Formazione informatica dei dipendenti pubblici
 
-Formazione informatica dei dipendenti pubblici
+1.
 
-1. Le pubbliche amministrazioni
+Le pubbliche amministrazioni ((, nell'ambito delle risorse finanziarie disponibili, attuano politiche di reclutamento e)) formazione del personale finalizzate alla conoscenza e all'uso delle tecnologie dell'informazione e della comunicazione, nonche' dei temi relativi all'accessibilita' e alle tecnologie assistive, ai sensi dell'[articolo 8 della legge 9 gennaio 2004, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-01-09;4#art_8).
 
-((, nell'ambito delle risorse finanziarie disponibili, attuano politiche di reclutamento e))
+1-bis.
 
-formazione del personale finalizzate alla conoscenza e all'uso delle tecnologie dell'informazione e della comunicazione, nonche' dei temi relativi all'accessibilita' e alle tecnologie assistive, ai sensi dell'[articolo 8 della legge 9 gennaio 2004, n. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-01-09;4~art8).
+Le politiche di formazione di cui al comma 1 sono altresi' volte allo sviluppo delle competenze tecnologiche, di informatica giuridica e manageriali dei dirigenti, per la transizione alla modalita' operativa digitale.
 
-1-bis. Le politiche di formazione di cui al comma 1 sono altresi' volte allo sviluppo delle competenze tecnologiche, di informatica giuridica e manageriali dei dirigenti, per la transizione alla modalita' operativa digitale.
+### Art. 13-bis. — (Codice di condotta tecnologica ed esperti)
 
-### Art. 13-bis
+1.
 
-(Codice di condotta tecnologica ed esperti)
-
-1. 1. Al fine di favorire la digitalizzazione della pubblica amministrazione e garantire il necessario coordinamento sul piano tecnico delle varie iniziative di innovazione tecnologica, i soggetti di cui all'articolo 2, comma 2, lettera a), nell'ambito delle risorse disponibili, progettano, realizzano e sviluppano i propri sistemi informatici e servizi digitali, in coerenza con gli obiettivi dell'agenda digitale italiana ed europea e nel rispetto del codice di condotta tecnologica adottato dal Capo dipartimento della struttura della Presidenza del Consiglio dei ministri competente per la trasformazione digitale,
-
-((sentiti l'AgID))
-
-e il nucleo per la sicurezza cibernetica di cui all'[articolo 12, comma 6, del decreto legislativo 18 maggio 2018, n. 65](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-05-18;65~art12-com6) e acquisito il parere della Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281~art8), entro sessanta giorni dall'entrata in vigore della presente disposizione.
+1. Al fine di favorire la digitalizzazione della pubblica amministrazione e garantire il necessario coordinamento sul piano tecnico delle varie iniziative di innovazione tecnologica, i soggetti di cui all'articolo 2, comma 2, lettera a), nell'ambito delle risorse disponibili, progettano, realizzano e sviluppano i propri sistemi informatici e servizi digitali, in coerenza con gli obiettivi dell'agenda digitale italiana ed europea e nel rispetto del codice di condotta tecnologica adottato dal Capo dipartimento della struttura della Presidenza del Consiglio dei ministri competente per la trasformazione digitale, ((sentiti l'AgID)) e il nucleo per la sicurezza cibernetica di cui all'[articolo 12, comma 6, del decreto legislativo 18 maggio 2018, n. 65](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20UE%202016-1148%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%206%20luglio%202016%20recante%20misure%20per%20un%20livello%20comune%20elevato%20di%20sicurezza%20delle%20reti%20e%20dei%20sistemi%20informa_4c10a7730421.md) e acquisito il parere della Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), entro sessanta giorni dall'entrata in vigore della presente disposizione.
 
 ((2. Il codice di condotta tecnologica disciplina le modalita' di progettazione, sviluppo e implementazione dei progetti, sistemi e servizi digitali delle amministrazioni pubbliche, nel rispetto del principio di non discriminazione, dei diritti e delle liberta' fondamentali delle persone e della disciplina in materia di perimetro nazionale di sicurezza cibernetica))
 
-3. I soggetti di cui all'articolo 2, comma 2, lettera a), che avviano progetti di sviluppo dei servizi digitali sono tenuti a rispettare il codice di condotta tecnologica
+3.
 
-((e possono avvalersi))
+I soggetti di cui all'articolo 2, comma 2, lettera a), che avviano progetti di sviluppo dei servizi digitali sono tenuti a rispettare il codice di condotta tecnologica ((e possono avvalersi)), singolarmente o in forma associata, di uno o piu' esperti in possesso di comprovata esperienza e qualificazione professionale nello sviluppo e nella gestione di processi complessi di trasformazione tecnologica e progetti di trasformazione digitale, nel limite delle risorse progettuali disponibili a legislazione vigente per lo scopo.
+Il codice di condotta tecnologica indica anche le principali attivita', ivi compresa la formazione del personale, che gli esperti svolgono in collaborazione con il responsabile per la transizione digitale dell'amministrazione pubblica interessata, nonche' il limite massimo di durata dell'incarico, i requisiti di esperienza e qualificazione professionale e il trattamento economico massimo da riconoscere agli esperti. 
+ 4.Nella realizzazione ((e nello sviluppo)) dei sistemi informativi, e' sempre assicurata l'integrazione con le piattaforme abilitanti previste dagli articoli 5, 62, 64 e 64-bis, nonche' la possibilita' di accedere da remoto ad applicativi, ((dati e informazioni necessari)) allo svolgimento della prestazione lavorativa in modalita' agile, assicurando un adeguato livello di sicurezza informatica, in linea con le migliori pratiche e gli standard nazionali ed internazionali per la protezione delle proprie reti, nonche' promuovendo la consapevolezza dei lavoratori sull'uso sicuro dei suddetti sistemi informativi, anche attraverso la diffusione di apposite linee guida, e disciplinando anche la tipologia di attivita' che possono essere svolte. 
+ 5. L'AgID verifica il rispetto del codice di condotta tecnologica da parte dei soggetti interessati e puo' diffidare i soggetti a conformare la propria condotta agli obblighi previsti dal codice. La progettazione, la realizzazione e lo sviluppo di servizi digitali e sistemi informatici in violazione del codice di condotta tecnologica costituiscono mancato raggiungimento di uno specifico risultato e di un rilevante obiettivo da parte dei dirigenti responsabili delle strutture competenti e comportano la riduzione, non inferiore al 30 per cento, della retribuzione di risultato e del trattamento accessorio collegato alla performance individuale dei dirigenti competenti, oltre al divieto di attribuire premi o incentivi nell'ambito delle medesime strutture.
 
-, singolarmente o in forma associata, di uno o piu' esperti in possesso di comprovata esperienza e qualificazione professionale nello sviluppo e nella gestione di processi complessi di trasformazione tecnologica e progetti di trasformazione digitale, nel limite delle risorse progettuali disponibili a legislazione vigente per lo scopo.  
-Il codice di condotta tecnologica indica anche le principali attivita', ivi compresa la formazione del personale, che gli esperti svolgono in collaborazione con il responsabile per la transizione digitale dell'amministrazione pubblica interessata, nonche' il limite massimo di durata dell'incarico, i requisiti di esperienza e qualificazione professionale e il trattamento economico massimo da riconoscere agli esperti.   
-4.Nella realizzazione
+### Art. 14. — Rapporti tra Stato, Regioni e autonomie locali
 
-((e nello sviluppo))
+1.
 
-dei sistemi informativi, e' sempre assicurata l'integrazione con le piattaforme abilitanti previste dagli articoli 5, 62, 64 e 64-bis, nonche' la possibilita' di accedere da remoto ad applicativi,
+In attuazione del disposto dell'[articolo 117, secondo comma, lettera r), della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_117-com2-letr), lo Stato disciplina il coordinamento informatico dei dati dell'amministrazione statale, regionale e locale, dettando anche le regole tecniche necessarie per garantire la sicurezza e l'interoperabilita' dei sistemi informatici e dei flussi informativi per la circolazione e lo scambio dei dati e per l'accesso ai servizi erogati in rete dalle amministrazioni medesime.
 
-((dati e informazioni necessari))
+2.
 
-allo svolgimento della prestazione lavorativa in modalita' agile, assicurando un adeguato livello di sicurezza informatica, in linea con le migliori pratiche e gli standard nazionali ed internazionali per la protezione delle proprie reti, nonche' promuovendo la consapevolezza dei lavoratori sull'uso sicuro dei suddetti sistemi informativi, anche attraverso la diffusione di apposite linee guida, e disciplinando anche la tipologia di attivita' che possono essere svolte.   
-5. L'AgID verifica il rispetto del codice di condotta tecnologica da parte dei soggetti interessati e puo' diffidare i soggetti a conformare la propria condotta agli obblighi previsti dal codice. La progettazione, la realizzazione e lo sviluppo di servizi digitali e sistemi informatici in violazione del codice di condotta tecnologica costituiscono mancato raggiungimento di uno specifico risultato e di un rilevante obiettivo da parte dei dirigenti responsabili delle strutture competenti e comportano la riduzione, non inferiore al 30 per cento, della retribuzione di risultato e del trattamento accessorio collegato alla performance individuale dei dirigenti competenti, oltre al divieto di attribuire premi o incentivi nell'ambito delle medesime strutture.
+Lo Stato, le regioni e le autonomie locali promuovono le intese e gli accordi e adottano, attraverso la Conferenza unificata, gli indirizzi utili per realizzare gli obiettivi dell'Agenda digitale europea e nazionale e realizzare un processo di digitalizzazione dell'azione amministrativa coordinato e condiviso e per l'individuazione delle Linee guida. ((La Presidenza del Consiglio dei ministri, anche avvalendosi dell'AgID,)) assicura il coordinamento informatico dell'amministrazione statale, regionale e locale, con la finalita' di progettare e monitorare l'evoluzione strategica del sistema informativo della pubblica amministrazione, favorendo l'adozione di infrastrutture e standard che riducano i costi sostenuti dalle amministrazioni e migliorino i servizi erogati ((assicurando un adeguato livello di sicurezza informatica, in linea con le migliori pratiche e gli standard nazionali ed internazionali per la protezione delle proprie reti, nonche' promuovendo la consapevolezza dei lavoratori sull'uso sicuro dei suddetti sistemi informativi, anche attraverso la diffusione di apposite linee guida che disciplinano anche la tipologia di attivita' che possono essere svolte.)).
 
-### Art. 14
+2-bis.
 
-Rapporti tra Stato, Regioni e autonomie locali
+Le regioni promuovono sul territorio azioni tese a realizzare un processo di digitalizzazione dell'azione amministrativa coordinato e condiviso tra le autonomie locali.
 
-1. In attuazione del disposto dell'[articolo 117, secondo comma, lettera r), della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art117-com2-letr), lo Stato disciplina il coordinamento informatico dei dati dell'amministrazione statale, regionale e locale, dettando anche le regole tecniche necessarie per garantire la sicurezza e l'interoperabilita' dei sistemi informatici e dei flussi informativi per la circolazione e lo scambio dei dati e per l'accesso ai servizi erogati in rete dalle amministrazioni medesime.
+2-ter.
 
-2. Lo Stato, le regioni e le autonomie locali promuovono le intese e gli accordi e adottano, attraverso la Conferenza unificata, gli indirizzi utili per realizzare gli obiettivi dell'Agenda digitale europea e nazionale e realizzare un processo di digitalizzazione dell'azione amministrativa coordinato e condiviso e per l'individuazione delle Linee guida.
+Le regioni e gli enti locali digitalizzano la loro azione amministrativa e implementano l'utilizzo delle tecnologie dell'informazione e della comunicazione per garantire servizi migliori ai cittadini e alle imprese, secondo le modalita' di cui al comma 2.
 
-((La Presidenza del Consiglio dei ministri, anche avvalendosi dell'AgID,))
+3.
 
-assicura il coordinamento informatico dell'amministrazione statale, regionale e locale, con la finalita' di progettare e monitorare l'evoluzione strategica del sistema informativo della pubblica amministrazione, favorendo l'adozione di infrastrutture e standard che riducano i costi sostenuti dalle amministrazioni e migliorino i servizi erogati
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
-((assicurando un adeguato livello di sicurezza informatica, in linea con le migliori pratiche e gli standard nazionali ed internazionali per la protezione delle proprie reti, nonche' promuovendo la consapevolezza dei lavoratori sull'uso sicuro dei suddetti sistemi informativi, anche attraverso la diffusione di apposite linee guida che disciplinano anche la tipologia di attivita' che possono essere svolte.))
+3-bis.
 
-.
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
-2-bis. Le regioni promuovono sul territorio azioni tese a realizzare un processo di digitalizzazione dell'azione amministrativa coordinato e condiviso tra le autonomie locali.
+### Art. 14-bis. — (Agenzia per l'Italia digitale)
 
-2-ter. Le regioni e gli enti locali digitalizzano la loro azione amministrativa e implementano l'utilizzo delle tecnologie dell'informazione e della comunicazione per garantire servizi migliori ai cittadini e alle imprese, secondo le modalita' di cui al comma 2.
+1.
 
-3. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
-
-3-bis. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
-
-### Art. 14-bis
-
-(Agenzia per l'Italia digitale)
-
-1. L'Agenzia per l'Italia Digitale (AgID) e' preposta alla realizzazione degli obiettivi dell'Agenda Digitale Italiana, in coerenza con gli indirizzi dettati dal Presidente del Consiglio dei ministri o dal Ministro delegato, e con l'Agenda digitale europea.  
+L'Agenzia per l'Italia Digitale (AgID) e' preposta alla realizzazione degli obiettivi dell'Agenda Digitale Italiana, in coerenza con gli indirizzi dettati dal Presidente del Consiglio dei ministri o dal Ministro delegato, e con l'Agenda digitale europea.
 AgID, in particolare, promuove l'innovazione digitale nel Paese e l'utilizzo delle tecnologie digitali nell'organizzazione della pubblica amministrazione e nel rapporto tra questa, i cittadini e le imprese, nel rispetto dei principi di legalita', imparzialita' e trasparenza e secondo criteri di efficienza, economicita' ed efficacia. Essa presta la propria collaborazione alle istituzioni dell'Unione europea e svolge i compiti necessari per l'adempimento degli obblighi internazionali assunti dallo Stato nelle materie di competenza.
 
-2. AgID svolge le funzioni di:
+2.
 
-a) emanazione di Linee guida contenenti regole, standard e guide tecniche, nonche' di indirizzo, vigilanza e controllo sull'attuazione e sul rispetto delle norme di cui al presente Codice, anche attraverso l'adozione di atti amministrativi generali, in materia di agenda digitale, digitalizzazione della pubblica amministrazione, sicurezza informatica, interoperabilita' e cooperazione applicativa tra sistemi informatici pubblici e quelli dell'Unione europea;
+AgID svolge le funzioni di:
+                            a)
+                                emanazione di Linee guida contenenti regole, standard e guide tecniche, nonche' di indirizzo, vigilanza e controllo sull'attuazione e sul rispetto delle norme di cui al presente Codice, anche attraverso l'adozione di atti amministrativi generali, in materia di agenda digitale, digitalizzazione della pubblica amministrazione, sicurezza informatica, interoperabilita' e cooperazione applicativa tra sistemi informatici pubblici e quelli dell'Unione europea;
+                            b)
+                                programmazione e coordinamento delle attivita' delle amministrazioni per l'uso delle tecnologie dell'informazione e della comunicazione, mediante la redazione e la successiva verifica dell'attuazione del Piano triennale per l'informatica nella pubblica amministrazione contenente la fissazione degli obiettivi e l'individuazione dei principali interventi di sviluppo e gestione dei sistemi informativi delle amministrazioni pubbliche. Il predetto Piano e' elaborato dall'AgID, anche sulla base dei dati e delle informazioni acquisiti dai soggetti di cui all'articolo 2, comma 2, ed e' approvato dal Presidente del Consiglio dei ministri o dal Ministro delegato entro il 30 settembre di ogni anno;
+                            c)
+                                monitoraggio delle attivita' svolte dalle amministrazioni, ivi inclusi gli investimenti effettuati ai sensi dell'[articolo 1, comma 492, lettera a-bis), della legge 11 dicembre 2016, n. 232](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202017%20e%20bilancio%20pluriennale%20per%20il%20triennio%202017-2019.%2016G00242.md), in relazione alla loro coerenza con il Piano triennale di cui alla lettera b) e verifica dei risultati conseguiti dalle singole amministrazioni con particolare riferimento ai costi e benefici dei sistemi informatici secondo le modalita' fissate dalla stessa Agenzia;
+                            d)
+                                predisposizione, realizzazione e gestione di interventi e progetti di innovazione, anche realizzando e gestendo direttamente o avvalendosi di soggetti terzi, specifici progetti in tema di innovazione ad essa assegnati nonche' svolgendo attivita' di progettazione e coordinamento delle iniziative strategiche e di preminente interesse nazionale, anche a carattere intersettoriale;
+                            e)
+                                promozione della cultura digitale e della ricerca anche tramite comunita' digitali regionali;
+                            f)
+                                rilascio di pareri tecnici, obbligatori e non vincolanti, sugli schemi di contratti e accordi quadro da parte delle pubbliche amministrazioni centrali concernenti l'acquisizione di beni e servizi relativi a sistemi informativi automatizzati per quanto riguarda la congruita' tecnico-economica, qualora il valore lordo di detti contratti sia superiore a euro 1.000.000,00 nel caso di procedura negoziata e a euro 2.000.000,00 nel caso di procedura ristretta o di procedura aperta. Il parere e' reso tenendo conto dei principi di efficacia, economicita', ottimizzazione della spesa delle pubbliche amministrazioni e favorendo l'adozione di infrastrutture condivise e standard che riducano i costi sostenuti dalle singole amministrazioni e il miglioramento dei servizi erogati, nonche' in coerenza con i principi, i criteri e le indicazioni contenuti nei piani triennali approvati. Il parere e' reso entro il termine di quarantacinque giorni dal ricevimento della relativa richiesta. Si applicano gli [articoli 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_16) e [17-bis della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_17bis), e successive modificazioni. Copia dei pareri tecnici attinenti a questioni di competenza dell'Autorita' nazionale anticorruzione e' trasmessa dall'AgID a detta Autorita';
+                            g)
+                                rilascio di pareri tecnici, obbligatori e vincolanti, sugli elementi essenziali delle procedure di gara bandite, ai sensi dell'[articolo 1, comma 512 della legge 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), da Consip e dai soggetti aggregatori di cui all'[articolo 9 del decreto-legge 24 aprile 2014, n. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-04-24;66#art_9), concernenti l'acquisizione di beni e servizi relativi a sistemi informativi automatizzati e definiti di carattere strategico nel piano triennale. Il parere e' reso entro il termine di quarantacinque giorni dal ricevimento della relativa richiesta e si applica l'[articolo 17-bis della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_17bis), e successive modificazioni. Ai fini della presente lettera per elementi essenziali si intendono l'oggetto della fornitura o del servizio, il valore economico del contratto, la tipologia di procedura che si intende adottare, il criterio di aggiudicazione e relativa ponderazione, le principali clausole che caratterizzano le prestazioni contrattuali. Si applica quanto previsto nei periodi da 2 a 5 della lettera f);
+                            h)
+                                definizione di criteri e modalita' per il monitoraggio sull'esecuzione dei contratti da parte dell'amministrazione interessata ((...));
+                            i)
+                                vigilanza sui servizi fiduciari ai sensi dell'articolo 17 del regolamento UE 910/2014 in qualita' di organismo a tal fine designato, sui gestori di posta elettronica certificata, sui (( soggetti di cui all'articolo 34, comma 1-bis, lettera b) )), nonche' sui soggetti, pubblici e privati, che partecipano a SPID di cui all'articolo 64; nell'esercizio di tale funzione l'Agenzia puo' irrogare per le violazioni accertate a carico dei soggetti vigilati le sanzioni amministrative di cui all'articolo 32-bis in relazione alla gravita' della violazione accertata e all'entita' del danno provocato all'utenza;
+                            l)
+                                ogni altra funzione attribuitale da specifiche disposizioni di legge e dallo Statuto.
 
-b) programmazione e coordinamento delle attivita' delle amministrazioni per l'uso delle tecnologie dell'informazione e della comunicazione, mediante la redazione e la successiva verifica dell'attuazione del Piano triennale per l'informatica nella pubblica amministrazione contenente la fissazione degli obiettivi e l'individuazione dei principali interventi di sviluppo e gestione dei sistemi informativi delle amministrazioni pubbliche. Il predetto Piano e' elaborato dall'AgID, anche sulla base dei dati e delle informazioni acquisiti dai soggetti di cui all'articolo 2, comma 2, ed e' approvato dal Presidente del Consiglio dei ministri o dal Ministro delegato entro il 30 settembre di ogni anno;
+3.
 
-c) monitoraggio delle attivita' svolte dalle amministrazioni, ivi inclusi gli investimenti effettuati ai sensi dell'[articolo 1, comma 492, lettera a-bis), della legge 11 dicembre 2016, n. 232](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-11;232~art1-com492-letabis), in relazione alla loro coerenza con il Piano triennale di cui alla lettera b) e verifica dei risultati conseguiti dalle singole amministrazioni con particolare riferimento ai costi e benefici dei sistemi informatici secondo le modalita' fissate dalla stessa Agenzia;
+Fermo restando quanto previsto al comma 2, AgID svolge ogni altra funzione prevista da leggi e regolamenti gia' attribuita a DigitPA, all'Agenzia per la diffusione delle tecnologie per l'innovazione ((...)).
 
-d) predisposizione, realizzazione e gestione di interventi e progetti di innovazione, anche realizzando e gestendo direttamente o avvalendosi di soggetti terzi, specifici progetti in tema di innovazione ad essa assegnati nonche' svolgendo attivita' di progettazione e coordinamento delle iniziative strategiche e di preminente interesse nazionale, anche a carattere intersettoriale;
+### Art. 15. — Digitalizzazione e riorganizzazione
 
-e) promozione della cultura digitale e della ricerca anche tramite comunita' digitali regionali;
+1.
 
-f) rilascio di pareri tecnici, obbligatori e non vincolanti, sugli schemi di contratti e accordi quadro da parte delle pubbliche amministrazioni centrali concernenti l'acquisizione di beni e servizi relativi a sistemi informativi automatizzati per quanto riguarda la congruita' tecnico-economica, qualora il valore lordo di detti contratti sia superiore a euro 1.000.000,00 nel caso di procedura negoziata e a euro 2.000.000,00 nel caso di procedura ristretta o di procedura aperta. Il parere e' reso tenendo conto dei principi di efficacia, economicita', ottimizzazione della spesa delle pubbliche amministrazioni e favorendo l'adozione di infrastrutture condivise e standard che riducano i costi sostenuti dalle singole amministrazioni e il miglioramento dei servizi erogati, nonche' in coerenza con i principi, i criteri e le indicazioni contenuti nei piani triennali approvati. Il parere e' reso entro il termine di quarantacinque giorni dal ricevimento della relativa richiesta. Si applicano gli [articoli 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art16) e [17-bis della legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art17bis), e successive modificazioni. Copia dei pareri tecnici attinenti a questioni di competenza dell'Autorita' nazionale anticorruzione e' trasmessa dall'AgID a detta Autorita';
+La riorganizzazione strutturale e gestionale delle pubbliche amministrazioni volta al perseguimento degli obiettivi di cui all'articolo 12, comma 1, avviene anche attraverso il migliore e piu' esteso utilizzo delle tecnologie dell'informazione e della comunicazione nell'ambito di una coordinata strategia che garantisca il coerente sviluppo del processo di digitalizzazione.
 
-g) rilascio di pareri tecnici, obbligatori e vincolanti, sugli elementi essenziali delle procedure di gara bandite, ai sensi dell'[articolo 1, comma 512 della legge 28 dicembre 2015, n. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208~art1-com512), da Consip e dai soggetti aggregatori di cui all'[articolo 9 del decreto-legge 24 aprile 2014, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-04-24;66~art9), concernenti l'acquisizione di beni e servizi relativi a sistemi informativi automatizzati e definiti di carattere strategico nel piano triennale. Il parere e' reso entro il termine di quarantacinque giorni dal ricevimento della relativa richiesta e si applica l'[articolo 17-bis della legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art17bis), e successive modificazioni. Ai fini della presente lettera per elementi essenziali si intendono l'oggetto della fornitura o del servizio, il valore economico del contratto, la tipologia di procedura che si intende adottare, il criterio di aggiudicazione e relativa ponderazione, le principali clausole che caratterizzano le prestazioni contrattuali. Si applica quanto previsto nei periodi da 2 a 5 della lettera f);
+2.
 
-h) definizione di criteri e modalita' per il monitoraggio sull'esecuzione dei contratti da parte dell'amministrazione interessata
+In attuazione del comma 1, le pubbliche amministrazioni provvedono in particolare a razionalizzare e semplificare i procedimenti amministrativi, le attivita' gestionali, i documenti, la modulistica, le modalita' di accesso e di presentazione delle istanze da parte dei cittadini e delle imprese, assicurando che l'utilizzo delle tecnologie dell'informazione e della comunicazione avvenga in conformita' alle prescrizioni tecnologiche definite nelle ((Linee guida)).
 
-((...))
+2-bis.
 
-;
+Le pubbliche amministrazioni nella valutazione dei progetti di investimento in materia di innovazione tecnologica tengono conto degli effettivi risparmi derivanti dalla razionalizzazione di cui al comma 2, nonche' dei costi e delle economie che ne derivano.
 
-i) vigilanza sui servizi fiduciari ai sensi dell'[articolo 17 del regolamento UE 910/2014](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32014R0910) in qualita' di organismo a tal fine designato, sui gestori di posta elettronica certificata, sui
+2-ter.
 
-(( soggetti di cui all'articolo 34, comma 1-bis, lettera b) ))
-
-, nonche' sui soggetti, pubblici e privati, che partecipano a SPID di cui all'articolo 64; nell'esercizio di tale funzione l'Agenzia puo' irrogare per le violazioni accertate a carico dei soggetti vigilati le sanzioni amministrative di cui all'articolo 32-bis in relazione alla gravita' della violazione accertata e all'entita' del danno provocato all'utenza;
-
-l) ogni altra funzione attribuitale da specifiche disposizioni di legge e dallo Statuto.
-
-3. Fermo restando quanto previsto al comma 2, AgID svolge ogni altra funzione prevista da leggi e regolamenti gia' attribuita a DigitPA, all'Agenzia per la diffusione delle tecnologie per l'innovazione
-
-((...))
-
-.
-
-### Art. 15
-
-Digitalizzazione e riorganizzazione
-
-1. La riorganizzazione strutturale e gestionale delle pubbliche amministrazioni volta al perseguimento degli obiettivi di cui all'articolo 12, comma 1, avviene anche attraverso il migliore e piu' esteso utilizzo delle tecnologie dell'informazione e della comunicazione nell'ambito di una coordinata strategia che garantisca il coerente sviluppo del processo di digitalizzazione.
-
-2. In attuazione del comma 1, le pubbliche amministrazioni provvedono in particolare a razionalizzare e semplificare i procedimenti amministrativi, le attivita' gestionali, i documenti, la modulistica, le modalita' di accesso e di presentazione delle istanze da parte dei cittadini e delle imprese, assicurando che l'utilizzo delle tecnologie dell'informazione e della comunicazione avvenga in conformita' alle prescrizioni tecnologiche definite nelle
-
-((Linee guida))
-
-.
-
-2-bis. Le pubbliche amministrazioni nella valutazione dei progetti di investimento in materia di innovazione tecnologica tengono conto degli effettivi risparmi derivanti dalla razionalizzazione di cui al comma 2, nonche' dei costi e delle economie che ne derivano.
-
-2-ter. Le pubbliche amministrazioni, quantificano annualmente, ai sensi dell'[articolo 27, del decreto legislativo 27 ottobre 2009, n.150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2009-10-27;150~art27), i risparmi effettivamente conseguiti in attuazione delle disposizioni di cui ai commi 1 e 2. Tali risparmi sono utilizzati, per due terzi secondo quanto previsto dall'articolo 27, comma 1, del citato [decreto legislativo n. 150 del 2009](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2009;150) e in misura pari ad un terzo per il finanziamento di ulteriori progetti di innovazione.
+Le pubbliche amministrazioni, quantificano annualmente, ai sensi dell'[articolo 27, del decreto legislativo 27 ottobre 2009, n.150](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%204%20marzo%202009%20n.%2015%20in%20materia%20di%20ottimizzazione%20della%20produttivita%20del%20lavoro%20pubblico%20e%20di%20efficienza%20e%20trasparenza%20delle%20pubbliche%20amministrazioni.%2009G0164.md), i risparmi effettivamente conseguiti in attuazione delle disposizioni di cui ai commi 1 e 2. Tali risparmi sono utilizzati, per due terzi secondo quanto previsto dall'articolo 27, comma 1, del citato [decreto legislativo n. 150 del 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2009;150) e in misura pari ad un terzo per il finanziamento di ulteriori progetti di innovazione.
 
 ((
 
-2-quater. AgID individua, nell'ambito delle Linee guida, criteri e modalita' di attuazione dei commi 2-bis e 2-ter, prevedendo che ogni pubblica amministrazione dia conto annualmente delle attivita' previste dai predetti commi nella relazione sulla gestione di cui all'[articolo 11, comma 6, del decreto legislativo 23 giugno 2011, n. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118~art11-com6).
+2-quater.
+
+AgID individua, nell'ambito delle Linee guida, criteri e modalita' di attuazione dei commi 2-bis e 2-ter, prevedendo che ogni pubblica amministrazione dia conto annualmente delle attivita' previste dai predetti commi nella relazione sulla gestione di cui all'[articolo 11, comma 6, del decreto legislativo 23 giugno 2011, n. 118](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20armonizzazione%20dei%20sistemi%20contabili%20e%20degli%20schemi%20di%20bilancio%20delle%20Regioni%20degli%20enti%20locali%20e%20dei%20loro%20organismi%20a%20norma%20degli%20articoli%201%20e%202%20della%20legge%205%20_d31410e5ac35.md).
 
 ))
 
-3. La digitalizzazione dell'azione amministrativa e' attuata dalle pubbliche amministrazioni con modalita' idonee a garantire la partecipazione dell'Italia alla costruzione di reti transeuropee per lo scambio elettronico di dati e servizi fra le amministrazioni dei Paesi membri dell'Unione europea.
+3.
 
-3-bis. COMMA ABROGATO DAL [D.L. 6 LUGLIO 2012, N. 95](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95), CONVERTITO CON MODIFICAZIONI DALLA [L. 7 AGOSTO 2012, N. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135).
+La digitalizzazione dell'azione amministrativa e' attuata dalle pubbliche amministrazioni con modalita' idonee a garantire la partecipazione dell'Italia alla costruzione di reti transeuropee per lo scambio elettronico di dati e servizi fra le amministrazioni dei Paesi membri dell'Unione europea.
 
-3-ter. COMMA ABROGATO DAL [D.L. 6 LUGLIO 2012, N. 95](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95), CONVERTITO CON MODIFICAZIONI DALLA [L. 7 AGOSTO 2012, N. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135).
+3-bis.
 
-3-quater. COMMA ABROGATO DAL [D.L. 6 LUGLIO 2012, N. 95](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95), CONVERTITO CON MODIFICAZIONI DALLA [L. 7 AGOSTO 2012, N. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135).
+COMMA ABROGATO DAL [D.L. 6 LUGLIO 2012, N. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95), CONVERTITO CON MODIFICAZIONI DALLA [L. 7 AGOSTO 2012, N. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md).
 
-3-quinquies. COMMA ABROGATO DAL [D.L. 6 LUGLIO 2012, N. 95](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95), CONVERTITO CON MODIFICAZIONI DALLA [L. 7 AGOSTO 2012, N. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135).
+3-ter.
 
-3-sexies. COMMA ABROGATO DAL [D.L. 6 LUGLIO 2012, N. 95](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95), CONVERTITO CON MODIFICAZIONI DALLA [L. 7 AGOSTO 2012, N. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135).
+COMMA ABROGATO DAL [D.L. 6 LUGLIO 2012, N. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95), CONVERTITO CON MODIFICAZIONI DALLA [L. 7 AGOSTO 2012, N. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md).
 
-3-septies. COMMA ABROGATO DAL [D.L. 6 LUGLIO 2012, N. 95](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95), CONVERTITO CON MODIFICAZIONI DALLA [L. 7 AGOSTO 2012, N. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135).
+3-quater.
 
-3-octies. COMMA ABROGATO DAL [D.L. 6 LUGLIO 2012, N. 95](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95), CONVERTITO CON MODIFICAZIONI DALLA [L. 7 AGOSTO 2012, N. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135).
+COMMA ABROGATO DAL [D.L. 6 LUGLIO 2012, N. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95), CONVERTITO CON MODIFICAZIONI DALLA [L. 7 AGOSTO 2012, N. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md).
 
-### Art. 16
+3-quinquies.
 
-Competenze del Presidente del Consiglio dei Ministri in materia di innovazione e tecnologie
+COMMA ABROGATO DAL [D.L. 6 LUGLIO 2012, N. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95), CONVERTITO CON MODIFICAZIONI DALLA [L. 7 AGOSTO 2012, N. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md).
 
-1. Per il perseguimento dei fini di cui al presente codice, il Presidente del Consiglio dei Ministri o il Ministro delegato per l'innovazione e le tecnologie, nell'attivita' di coordinamento del processo di digitalizzazione e di coordinamento e di valutazione dei programmi, dei progetti e dei piani di azione formulati dalle pubbliche amministrazioni centrali per lo sviluppo dei sistemi informativi:
+3-sexies.
 
-a) definisce con proprie direttive le linee strategiche, la pianificazione e le aree di intervento dell'innovazione tecnologica nelle pubbliche amministrazioni centrali, e ne verifica l'attuazione;
+COMMA ABROGATO DAL [D.L. 6 LUGLIO 2012, N. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95), CONVERTITO CON MODIFICAZIONI DALLA [L. 7 AGOSTO 2012, N. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md).
 
-b)
+3-septies.
 
-((approva il piano triennale di cui all'articolo 14-bis, comma 2, lettera b), e))
+COMMA ABROGATO DAL [D.L. 6 LUGLIO 2012, N. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95), CONVERTITO CON MODIFICAZIONI DALLA [L. 7 AGOSTO 2012, N. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md).
 
-valuta, sulla base di criteri e metodiche di ottimizzazione della spesa, il corretto utilizzo delle risorse finanziarie per l'informatica e la telematica da parte delle singole amministrazioni centrali;
+3-octies.
 
-c)
+COMMA ABROGATO DAL [D.L. 6 LUGLIO 2012, N. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95), CONVERTITO CON MODIFICAZIONI DALLA [L. 7 AGOSTO 2012, N. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md).
 
-((promuove e))
+### Art. 16. — Competenze del Presidente del Consiglio dei Ministri in materia di innovazione e tecnologie
 
-sostiene progetti di grande contenuto innovativo, di rilevanza strategica, di preminente interesse nazionale, con particolare attenzione per i progetti di carattere intersettoriale;
+1.
 
-d) promuove l'informazione circa le iniziative per la diffusione delle nuove tecnologie;
+Per il perseguimento dei fini di cui al presente codice, il Presidente del Consiglio dei Ministri o il Ministro delegato per l'innovazione e le tecnologie, nell'attivita' di coordinamento del processo di digitalizzazione e di coordinamento e di valutazione dei programmi, dei progetti e dei piani di azione formulati dalle pubbliche amministrazioni centrali per lo sviluppo dei sistemi informativi:
+                            a)
+                                definisce con proprie direttive le linee strategiche, la pianificazione e le aree di intervento dell'innovazione tecnologica nelle pubbliche amministrazioni centrali, e ne verifica l'attuazione;
+                            b)
+                                ((approva il piano triennale di cui all'articolo 14-bis, comma 2, lettera b), e)) valuta, sulla base di criteri e metodiche di ottimizzazione della spesa, il corretto utilizzo delle risorse finanziarie per l'informatica e la telematica da parte delle singole amministrazioni centrali;
+                            c)
+                                ((promuove e)) sostiene progetti di grande contenuto innovativo, di rilevanza strategica, di preminente interesse nazionale, con particolare attenzione per i progetti di carattere intersettoriale;
+                            d)
+                                promuove l'informazione circa le iniziative per la diffusione delle nuove tecnologie;
+                            e)
+                                ((stabilisce i)) criteri in tema di pianificazione, progettazione, realizzazione, gestione, mantenimento dei sistemi informativi automatizzati delle pubbliche amministrazioni centrali e delle loro interconnessioni, nonche' della loro qualita' e relativi aspetti organizzativi e della loro sicurezza.
 
-e)
+2.
 
-((stabilisce i))
+Il Presidente del Consiglio dei Ministri o il Ministro delegato per l'innovazione e le tecnologie riferisce annualmente al Parlamento sullo stato di attuazione del presente codice.
 
-criteri in tema di pianificazione, progettazione, realizzazione, gestione, mantenimento dei sistemi informativi automatizzati delle pubbliche amministrazioni centrali e delle loro interconnessioni, nonche' della loro qualita' e relativi aspetti organizzativi e della loro sicurezza.
+### Art. 17. — Responsabile per la transizione digitale e difensore civico digitale
 
-2. Il Presidente del Consiglio dei Ministri o il Ministro delegato per l'innovazione e le tecnologie riferisce annualmente al Parlamento sullo stato di attuazione del presente codice.
+1.
 
-### Art. 17
+Le pubbliche amministrazioni garantiscono l'attuazione delle linee strategiche per la riorganizzazione e la digitalizzazione dell'amministrazione definite dal Governo in coerenza con le Linee guida. A tal fine, ciascuna pubblica amministrazione affida a un unico ufficio dirigenziale generale, fermo restando il numero complessivo di tali uffici, la transizione alla modalita' operativa digitale e i conseguenti processi di riorganizzazione finalizzati alla realizzazione di un'amministrazione digitale e aperta, di servizi facilmente utilizzabili e di qualita', attraverso una maggiore efficienza ed economicita'. Al suddetto ufficio sono inoltre attribuiti i compiti relativi a:
+                            a)
+                                coordinamento strategico dello sviluppo dei sistemi informativi, di telecomunicazione e fonia, in modo da assicurare anche la coerenza con gli standard tecnici e organizzativi comuni;
+                            b)
+                                indirizzo e coordinamento dello sviluppo dei servizi, sia interni che esterni, forniti dai sistemi informativi di telecomunicazione e fonia dell'amministrazione;
+                            c)
+                                indirizzo, pianificazione, coordinamento e monitoraggio della sicurezza informatica relativamente ai dati, ai sistemi e alle infrastrutture anche in relazione al sistema pubblico di connettivita', nel rispetto delle regole tecniche di cui all'articolo 51, comma 1;
+                            d)
+                                accesso dei soggetti disabili agli strumenti informatici e promozione dell'accessibilita' anche in attuazione di quanto previsto dalla [legge 9 gennaio 2004, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-01-09;4);
+                            e)
+                                analisi periodica della coerenza tra l'organizzazione dell'amministrazione e l'utilizzo delle tecnologie dell'informazione e della comunicazione, al fine di migliorare la soddisfazione dell'utenza e la qualita' dei servizi nonche' di ridurre i tempi e i costi dell'azione amministrativa;
+                            f)
+                                cooperazione alla revisione della riorganizzazione dell'amministrazione ai fini di cui alla lettera e);
+                            g)
+                                indirizzo, coordinamento e monitoraggio della pianificazione prevista per lo sviluppo e la gestione dei sistemi informativi di telecomunicazione e fonia;
+                            h)
+                                progettazione e coordinamento delle iniziative rilevanti ai fini di una piu' efficace erogazione di servizi in rete a cittadini e imprese mediante gli strumenti della cooperazione applicativa tra pubbliche amministrazioni, ivi inclusa la predisposizione e l'attuazione di accordi di servizio tra amministrazioni per la realizzazione e compartecipazione dei sistemi informativi cooperativi;(28)
+                            i)
+                                promozione delle iniziative attinenti l'attuazione delle direttive impartite dal Presidente del Consiglio dei Ministri o dal Ministro delegato per l'innovazione e le tecnologie;
+                            j)
+                                pianificazione e coordinamento del processo di diffusione, all'interno dell'amministrazione, dei sistemi di identita' e domicilio digitale, posta elettronica, protocollo informatico, firma digitale o firma elettronica qualificata e mandato informatico, e delle norme in materia di accessibilita' e fruibilita' nonche' del processo di integrazione e interoperabilita' tra i sistemi e servizi dell'amministrazione e quello di cui all'articolo 64-bis.
+                            j-bis)
+                                pianificazione e coordinamento degli acquisti di soluzioni e sistemi informatici, telematici e di telecomunicazione al fine di garantirne la compatibilita' con gli obiettivi di attuazione dell'agenda digitale e, in particolare, con quelli stabiliti nel piano triennale di cui all'articolo 16, comma 1, lettera b).
 
-Responsabile per la transizione digitale e difensore civico digitale
+1-bis.
 
-1. Le pubbliche amministrazioni garantiscono l'attuazione delle linee strategiche per la riorganizzazione e la digitalizzazione dell'amministrazione definite dal Governo in coerenza con le Linee guida. A tal fine, ciascuna pubblica amministrazione affida a un unico ufficio dirigenziale generale, fermo restando il numero complessivo di tali uffici, la transizione alla modalita' operativa digitale e i conseguenti processi di riorganizzazione finalizzati alla realizzazione di un'amministrazione digitale e aperta, di servizi facilmente utilizzabili e di qualita', attraverso una maggiore efficienza ed economicita'. Al suddetto ufficio sono inoltre attribuiti i compiti relativi a:
+Per lo svolgimento dei compiti di cui al comma 1, le Agenzie, le Forze armate, compresa l'Arma dei carabinieri e il Corpo delle capitanerie di porto, nonche' i Corpi di polizia hanno facolta' di individuare propri uffici senza incrementare il numero complessivo di quelli gia' previsti nei rispettivi assetti organizzativi.
 
-a) coordinamento strategico dello sviluppo dei sistemi informativi, di telecomunicazione e fonia, in modo da assicurare anche la coerenza con gli standard tecnici e organizzativi comuni;
+1-ter.
 
-b) indirizzo e coordinamento dello sviluppo dei servizi, sia interni che esterni, forniti dai sistemi informativi di telecomunicazione e fonia dell'amministrazione;
+Il responsabile dell'ufficio di cui al comma 1 e' dotato di adeguate competenze tecnologiche, di informatica giuridica e manageriali e risponde, con riferimento ai compiti relativi alla transizione, alla modalita' digitale direttamente all'organo di vertice politico.
 
-c) indirizzo, pianificazione, coordinamento e monitoraggio della sicurezza informatica relativamente ai dati, ai sistemi e alle infrastrutture anche in relazione al sistema pubblico di connettivita', nel rispetto delle regole tecniche di cui all'articolo 51, comma 1;
+1-quater.
 
-d) accesso dei soggetti disabili agli strumenti informatici e promozione dell'accessibilita' anche in attuazione di quanto previsto dalla [legge 9 gennaio 2004, n. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-01-09;4);
+E' istituito presso l'AgID l'ufficio del difensore civico per il digitale, a cui e' preposto un soggetto in possesso di adeguati requisiti di terzieta', autonomia e imparzialita'. Chiunque puo' presentare al difensore civico per il digitale, attraverso apposita area presente sul sito istituzionale dell'AgID, segnalazioni relative a presunte violazioni del presente Codice e di ogni altra norma in materia di digitalizzazione ed innovazione della pubblica amministrazione da parte dei soggetti di cui all'articolo 2, comma 2.
+Il difensore civico, accertata la non manifesta infondatezza della segnalazione, la trasmette al Direttore generale dell'AgID per l'esercizio dei poteri di cui all'articolo 18-bis. PERIODO SOPPRESSO DAL [D.L. 31 MAGGIO 2021, N. 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-31;77). PERIODO SOPPRESSO DAL [D.L. 31 MAGGIO 2021, N. 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-31;77). PERIODO SOPPRESSO DAL [D.L. 31 MAGGIO 2021, N. 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-31;77).
 
-e) analisi periodica della coerenza tra l'organizzazione dell'amministrazione e l'utilizzo delle tecnologie dell'informazione e della comunicazione, al fine di migliorare la soddisfazione dell'utenza e la qualita' dei servizi nonche' di ridurre i tempi e i costi dell'azione amministrativa;
+1-quinquies.
 
-f) cooperazione alla revisione della riorganizzazione dell'amministrazione ai fini di cui alla lettera e);
+AgID pubblica sul proprio sito una guida di riepilogo dei diritti di cittadinanza digitali previsti dal presente Codice.
 
-g) indirizzo, coordinamento e monitoraggio della pianificazione prevista per lo sviluppo e la gestione dei sistemi informativi di telecomunicazione e fonia;
+1-sexies.
 
-h) progettazione e coordinamento delle iniziative rilevanti ai fini di una piu' efficace erogazione di servizi in rete a cittadini e imprese mediante gli strumenti della cooperazione applicativa tra pubbliche amministrazioni, ivi inclusa la predisposizione e l'attuazione di accordi di servizio tra amministrazioni per la realizzazione e compartecipazione dei sistemi informativi cooperativi;(28)
+Nel rispetto della propria autonomia organizzativa, le pubbliche amministrazioni diverse dalle amministrazioni dello Stato individuano l'ufficio per il digitale di cui al comma 1 tra quelli di livello dirigenziale oppure, ove ne siano privi, individuano un responsabile per il digitale tra le proprie posizioni apicali. In assenza del vertice politico, il responsabile dell'ufficio per il digitale di cui al comma 1 risponde direttamente a quello amministrativo dell'ente.
 
-i) promozione delle iniziative attinenti l'attuazione delle direttive impartite dal Presidente del Consiglio dei Ministri o dal Ministro delegato per l'innovazione e le tecnologie;
+1-septies.
 
-j) pianificazione e coordinamento del processo di diffusione, all'interno dell'amministrazione, dei sistemi di identita' e domicilio digitale, posta elettronica, protocollo informatico, firma digitale o firma elettronica qualificata e mandato informatico, e delle norme in materia di accessibilita' e fruibilita' nonche' del processo di integrazione e interoperabilita' tra i sistemi e servizi dell'amministrazione e quello di cui all'articolo 64-bis.
-
-j-bis) pianificazione e coordinamento degli acquisti di soluzioni e sistemi informatici, telematici e di telecomunicazione al fine di garantirne la compatibilita' con gli obiettivi di attuazione dell'agenda digitale e, in particolare, con quelli stabiliti nel piano triennale di cui all'articolo 16, comma 1, lettera b).
-
-1-bis. Per lo svolgimento dei compiti di cui al comma 1, le Agenzie, le Forze armate, compresa l'Arma dei carabinieri e il Corpo delle capitanerie di porto, nonche' i Corpi di polizia hanno facolta' di individuare propri uffici senza incrementare il numero complessivo di quelli gia' previsti nei rispettivi assetti organizzativi.
-
-1-ter. Il responsabile dell'ufficio di cui al comma 1 e' dotato di adeguate competenze tecnologiche, di informatica giuridica e manageriali e risponde, con riferimento ai compiti relativi alla transizione, alla modalita' digitale direttamente all'organo di vertice politico.
-
-1-quater. E' istituito presso l'AgID l'ufficio del difensore civico per il digitale, a cui e' preposto un soggetto in possesso di adeguati requisiti di terzieta', autonomia e imparzialita'. Chiunque puo' presentare al difensore civico per il digitale, attraverso apposita area presente sul sito istituzionale dell'AgID, segnalazioni relative a presunte violazioni del presente Codice e di ogni altra norma in materia di digitalizzazione ed innovazione della pubblica amministrazione da parte dei soggetti di cui all'articolo 2, comma 2.  
-Il difensore civico, accertata la non manifesta infondatezza della segnalazione, la trasmette al Direttore generale dell'AgID per l'esercizio dei poteri di cui all'articolo 18-bis. PERIODO SOPPRESSO DAL [D.L. 31 MAGGIO 2021, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-31;77). PERIODO SOPPRESSO DAL [D.L. 31 MAGGIO 2021, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-31;77). PERIODO SOPPRESSO DAL [D.L. 31 MAGGIO 2021, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-31;77).
-
-1-quinquies. AgID pubblica sul proprio sito una guida di riepilogo dei diritti di cittadinanza digitali previsti dal presente Codice.
-
-1-sexies. Nel rispetto della propria autonomia organizzativa, le pubbliche amministrazioni diverse dalle amministrazioni dello Stato individuano l'ufficio per il digitale di cui al comma 1 tra quelli di livello dirigenziale oppure, ove ne siano privi, individuano un responsabile per il digitale tra le proprie posizioni apicali. In assenza del vertice politico, il responsabile dell'ufficio per il digitale di cui al comma 1 risponde direttamente a quello amministrativo dell'ente.
-
-1-septies. I soggetti di cui al comma 1-sexies possono esercitare le funzioni di cui al medesimo comma anche in forma associata.
-
-((E' fatta salva la facolta' di avvalersi, mediante apposite convenzioni e senza nuovi o maggiori oneri a carico della finanza pubblica, del supporto di societa' in house.))
+I soggetti di cui al comma 1-sexies possono esercitare le funzioni di cui al medesimo comma anche in forma associata. ((E' fatta salva la facolta' di avvalersi, mediante apposite convenzioni e senza nuovi o maggiori oneri a carico della finanza pubblica, del supporto di societa' in house.))
 
 -------------
 
 AGGIORNAMENTO (28)
 
-Il [D.Lgs. 26 agosto 2016, n. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179) ha disposto (con l'art. 61, comma 2, lettera d)) che l'espressione «cittadini e imprese», ovunque ricorra, si intende come «soggetti giuridici».
+Il [D.Lgs. 26 agosto 2016, n. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md) ha disposto (con l'art. 61, comma 2, lettera d)) che l'espressione «cittadini e imprese», ovunque ricorra, si intende come «soggetti giuridici».
 
-### Art. 18
-
-(( (Piattaforma nazionale per la governance della trasformazione digitale). ))
+### Art. 18. — (( (Piattaforma nazionale per la governance della trasformazione digitale). ))
 
 ((
 
-1. E' realizzata presso l'AgID una piattaforma per la consultazione pubblica e il confronto tra i portatori di interesse in relazione ai provvedimenti connessi all'attuazione dell'agenda digitale.
+1.
 
-2. AgID identifica le caratteristiche tecnico-funzionali della piattaforma in maniera tale da garantire che la stessa sia accessibile ai portatori di interessi pubblici e privati e che sia idonea a raccogliere suggerimenti e proposte emendative in maniera trasparente, qualificata ed efficace.
+E' realizzata presso l'AgID una piattaforma per la consultazione pubblica e il confronto tra i portatori di interesse in relazione ai provvedimenti connessi all'attuazione dell'agenda digitale.
 
-3. Il Piano triennale per l'informatica nella pubblica amministrazione di cui all'articolo 14-bis e' pubblicato sulla piattaforma e aggiornato di anno in anno.
+2.
 
-4. Tutti i soggetti di cui all'articolo 2, comma 2, lettera a), possono pubblicare sulla piattaforma i provvedimenti che intendono adottare o, qualora si tratti di provvedimenti soggetti a modifiche e aggiornamenti periodici, gia' adottati, aventi ad oggetto l'attuazione dell'agenda digitale.
+AgID identifica le caratteristiche tecnico-funzionali della piattaforma in maniera tale da garantire che la stessa sia accessibile ai portatori di interessi pubblici e privati e che sia idonea a raccogliere suggerimenti e proposte emendative in maniera trasparente, qualificata ed efficace.
 
-5. I soggetti di cui all'articolo 2, comma 2, lettera a), tengono conto di suggerimenti e proposte emendative raccolte attraverso la piattaforma.
+3.
+
+Il Piano triennale per l'informatica nella pubblica amministrazione di cui all'articolo 14-bis e' pubblicato sulla piattaforma e aggiornato di anno in anno.
+
+4.
+
+Tutti i soggetti di cui all'articolo 2, comma 2, lettera a), possono pubblicare sulla piattaforma i provvedimenti che intendono adottare o, qualora si tratti di provvedimenti soggetti a modifiche e aggiornamenti periodici, gia' adottati, aventi ad oggetto l'attuazione dell'agenda digitale.
+
+5.
+
+I soggetti di cui all'articolo 2, comma 2, lettera a), tengono conto di suggerimenti e proposte emendative raccolte attraverso la piattaforma.
 
 ))
 
-### Art. 18-bis
+### Art. 18-bis. — (Violazione degli obblighi di transizione digitale)
 
-(Violazione degli obblighi di transizione digitale)
+1.
 
-1. L'AgID esercita poteri di vigilanza, verifica, controllo e monitoraggio sul rispetto delle disposizioni del presente Codice e di ogni altra norma in materia di innovazione tecnologica e digitalizzazione della pubblica amministrazione, ivi comprese quelle contenute nelle Linee guida e nel Piano triennale per l'informatica nella pubblica amministrazione, e procede, d'ufficio ovvero su segnalazione del difensore civico digitale, all'accertamento delle relative violazioni da parte dei soggetti di cui all'articolo 2, comma 2. Nell'esercizio dei poteri di vigilanza, verifica, controllo e monitoraggio, l'AgID richiede e acquisisce presso i soggetti di cui all'articolo 2, comma 2, dati, documenti e ogni altra informazione strumentale e necessaria. La mancata ottemperanza alla richiesta di dati, documenti o informazioni di cui al secondo periodo ovvero la trasmissione di informazioni o dati parziali o non veritieri e' punita ai sensi del comma 5, con applicazione della sanzione ivi prevista ridotta della meta'.
+L'AgID esercita poteri di vigilanza, verifica, controllo e monitoraggio sul rispetto delle disposizioni del presente Codice e di ogni altra norma in materia di innovazione tecnologica e digitalizzazione della pubblica amministrazione, ivi comprese quelle contenute nelle Linee guida e nel Piano triennale per l'informatica nella pubblica amministrazione, e procede, d'ufficio ovvero su segnalazione del difensore civico digitale, all'accertamento delle relative violazioni da parte dei soggetti di cui all'articolo 2, comma 2. Nell'esercizio dei poteri di vigilanza, verifica, controllo e monitoraggio, l'AgID richiede e acquisisce presso i soggetti di cui all'articolo 2, comma 2, dati, documenti e ogni altra informazione strumentale e necessaria. La mancata ottemperanza alla richiesta di dati, documenti o informazioni di cui al secondo periodo ovvero la trasmissione di informazioni o dati parziali o non veritieri e' punita ai sensi del comma 5, con applicazione della sanzione ivi prevista ridotta della meta'.
 
-2. L'AgID, quando dagli elementi acquisiti risulta che sono state commesse una o piu' violazioni delle disposizioni di cui al comma 1, procede alla contestazione nei confronti del trasgressore, assegnandogli un termine perentorio per inviare scritti difensivi e documentazione e per chiedere di essere sentito.
+2.
 
-3. L'AgID, ove accerti la sussistenza delle violazioni contestate, assegna al trasgressore un congruo termine perentorio, proporzionato rispetto al tipo e alla gravita' della violazione, per conformare la condotta agli obblighi previsti dalla normativa vigente, segnalando le violazioni all'ufficio competente per i procedimenti disciplinari di ciascuna amministrazione, nonche' ai competenti organismi indipendenti di valutazione. L'AgID pubblica le predette segnalazioni su apposita area del proprio sito internet istituzionale.
+L'AgID, quando dagli elementi acquisiti risulta che sono state commesse una o piu' violazioni delle disposizioni di cui al comma 1, procede alla contestazione nei confronti del trasgressore, assegnandogli un termine perentorio per inviare scritti difensivi e documentazione e per chiedere di essere sentito.
 
-4. Le violazioni accertate dall'AgID rilevano ai fini della misurazione e della valutazione della performance individuale dei dirigenti responsabili e comportano responsabilita' dirigenziale e disciplinare ai sensi degli [articoli 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art21) e [55 del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art55). Resta fermo quanto previsto dagli articoli 13-bis, 50, 50-ter, 64-bis, comma 1-quinquies, del presente Codice e dall'[articolo 33-septies del decreto-legge 18 ottobre 2012, n. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-18;179~art33septies), convertito, con modificazioni, dalla [legge 17 dicembre 2012, n. 221](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-17;221).
+3.
 
-5. In caso di mancata ottemperanza alla richiesta di dati, documenti o informazioni di cui al comma 1, ultimo periodo, ovvero di trasmissione di informazioni o dati parziali o non veritieri, nonche' di violazione degli obblighi previsti dagli articoli 5, 7, comma 3, 41, commi 2 e 2-bis, 43, comma 1-bis, 50, comma 3-ter, 50-ter, comma 5, 64, comma 3­bis, 64-bis del presente Codice, dall'[articolo 65, comma 1, del decreto legislativo 13 dicembre 2017, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217~art65-com1) e dall'[articolo 33-septies, comma 4, del decreto-legge 18 ottobre 2012, n. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-18;179~art33septies-com4), convertito, con modificazioni, dalla [legge 17 dicembre 2012, n. 221](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-17;221), ove il soggetto di cui all'articolo 2, comma 2, non ottemperi all'obbligo di conformare la condotta nel termine di cui al comma 3, l'AgID irroga la sanzione amministrativa pecuniaria nel minimo di euro 10.000 e nel massimo di euro 100.000. Si applica, per quanto non espressamente previsto dal presente articolo, la disciplina della [legge 24 novembre 1981, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689). I proventi delle sanzioni sono versati in apposito capitolo di entrata del bilancio dello Stato per essere riassegnati allo stato di previsione della spesa del Ministero dell'economia e delle finanze a favore per il 50 per cento dell'AgID e per la restante parte al Fondo di cui all'[articolo 239 del decreto-legge 19 maggio 2020, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-19;34~art239), convertito, con modificazioni, dalla [legge 17 luglio 2020, n. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-07-17;77).
+L'AgID, ove accerti la sussistenza delle violazioni contestate, assegna al trasgressore un congruo termine perentorio, proporzionato rispetto al tipo e alla gravita' della violazione, per conformare la condotta agli obblighi previsti dalla normativa vigente, segnalando le violazioni all'ufficio competente per i procedimenti disciplinari di ciascuna amministrazione, nonche' ai competenti organismi indipendenti di valutazione. L'AgID pubblica le predette segnalazioni su apposita area del proprio sito internet istituzionale.
 
-6. Contestualmente all'irrogazione della sanzione nei casi di violazione delle norme specificamente indicate al comma 5, nonche' di violazione degli obblighi di cui all'articolo 13-bis, comma 4, l'AgID segnala la violazione alla struttura della Presidenza del Consiglio dei ministri competente per l'innovazione tecnologica e la transizione digitale che, ricevuta la segnalazione, diffida ulteriormente il soggetto responsabile a conformare la propria condotta agli obblighi previsti dalla disciplina vigente entro un congruo termine perentorio, proporzionato al tipo e alla gravita' della violazione, avvisandolo che, in caso di inottemperanza, potranno essere esercitati i poteri sostitutivi del Presidente del Consiglio dei ministri o del Ministro delegato. Decorso inutilmente il termine, il Presidente del Consiglio dei ministri o il Ministro delegato per l'innovazione tecnologica e la transizione digitale, valutata la gravita' della violazione, puo' nominare un commissario ad acta incaricato di provvedere in sostituzione. Al commissario non spettano compensi, indennita' o rimborsi. Nel caso di inerzia o ritardi riguardanti amministrazioni locali, si procede all'esercizio del potere sostitutivo di cui agli [articoli 117, quinto comma](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art117-com5), e [120, secondo comma, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art120-com2), ai sensi dell'[articolo 8 della legge 5 giugno 2003, n. 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-06-05;131~art8).
+4.
 
-7. L'AgID, con proprio regolamento, disciplina le procedure di contestazione, accertamento, segnalazione e irrogazione delle sanzioni per le violazioni di cui alla presente disposizione.
+Le violazioni accertate dall'AgID rilevano ai fini della misurazione e della valutazione della performance individuale dei dirigenti responsabili e comportano responsabilita' dirigenziale e disciplinare ai sensi degli [articoli 21](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md) e [55 del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md). Resta fermo quanto previsto dagli articoli 13-bis, 50, 50-ter, 64-bis, comma 1-quinquies, del presente Codice e dall'[articolo 33-septies del decreto-legge 18 ottobre 2012, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-18;179#art_33septies), convertito, con modificazioni, dalla [legge 17 dicembre 2012, n. 221](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20ottobre%202012%20n.%20179%20recante%20ulteriori%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0244.md).
 
-8. All'attuazione della presente disposizione si provvede con le risorse umane, strumentali e finanziarie gia' previste a legislazione vigente.
+5.
+
+In caso di mancata ottemperanza alla richiesta di dati, documenti o informazioni di cui al comma 1, ultimo periodo, ovvero di trasmissione di informazioni o dati parziali o non veritieri, nonche' di violazione degli obblighi previsti dagli articoli 5, 7, comma 3, 41, commi 2 e 2-bis, 43, comma 1-bis, 50, comma 3-ter, 50-ter, comma 5, 64, comma 3­bis, 64-bis del presente Codice, dall'[articolo 65, comma 1, del decreto legislativo 13 dicembre 2017, n. 217](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%2026%20agosto%202016%20n.%20179%20concernente%20modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislati_7b5fbda60218.md) e dall'[articolo 33-septies, comma 4, del decreto-legge 18 ottobre 2012, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-18;179#art_33septies-com4), convertito, con modificazioni, dalla [legge 17 dicembre 2012, n. 221](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20ottobre%202012%20n.%20179%20recante%20ulteriori%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0244.md), ove il soggetto di cui all'articolo 2, comma 2, non ottemperi all'obbligo di conformare la condotta nel termine di cui al comma 3, l'AgID irroga la sanzione amministrativa pecuniaria nel minimo di euro 10.000 e nel massimo di euro 100.000. Si applica, per quanto non espressamente previsto dal presente articolo, la disciplina della [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689). I proventi delle sanzioni sono versati in apposito capitolo di entrata del bilancio dello Stato per essere riassegnati allo stato di previsione della spesa del Ministero dell'economia e delle finanze a favore per il 50 per cento dell'AgID e per la restante parte al Fondo di cui all'[articolo 239 del decreto-legge 19 maggio 2020, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-19;34#art_239), convertito, con modificazioni, dalla [legge 17 luglio 2020, n. 77](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20maggio%202020%20n.%2034%20recante%20misure%20urgenti%20in%20materia%20di%20salute%20sostegno%20al%20lavoro%20e%20alleconomia%20nonche%20di%20politiche%20sociali%20conn_7955b884286a.md).
+
+6.
+
+Contestualmente all'irrogazione della sanzione nei casi di violazione delle norme specificamente indicate al comma 5, nonche' di violazione degli obblighi di cui all'articolo 13-bis, comma 4, l'AgID segnala la violazione alla struttura della Presidenza del Consiglio dei ministri competente per l'innovazione tecnologica e la transizione digitale che, ricevuta la segnalazione, diffida ulteriormente il soggetto responsabile a conformare la propria condotta agli obblighi previsti dalla disciplina vigente entro un congruo termine perentorio, proporzionato al tipo e alla gravita' della violazione, avvisandolo che, in caso di inottemperanza, potranno essere esercitati i poteri sostitutivi del Presidente del Consiglio dei ministri o del Ministro delegato. Decorso inutilmente il termine, il Presidente del Consiglio dei ministri o il Ministro delegato per l'innovazione tecnologica e la transizione digitale, valutata la gravita' della violazione, puo' nominare un commissario ad acta incaricato di provvedere in sostituzione. Al commissario non spettano compensi, indennita' o rimborsi. Nel caso di inerzia o ritardi riguardanti amministrazioni locali, si procede all'esercizio del potere sostitutivo di cui agli [articoli 117, quinto comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_117-com5), e [120, secondo comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_120-com2), ai sensi dell'[articolo 8 della legge 5 giugno 2003, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-06-05;131#art_8).
+
+7.
+
+L'AgID, con proprio regolamento, disciplina le procedure di contestazione, accertamento, segnalazione e irrogazione delle sanzioni per le violazioni di cui alla presente disposizione.
+
+8.
+
+All'attuazione della presente disposizione si provvede con le risorse umane, strumentali e finanziarie gia' previste a legislazione vigente.
 
 ((8-bis. Le disposizioni del presente articolo trovano applicazione in tutti i casi in cui l'AgID esercita poteri sanzionatori attribuiti dalla legge))
 
-### Art. 19
+### Art. 19.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179)))
+((ARTICOLO ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179))
 
-CAPO IV - Capo II ((DOCUMENTO INFORMATICO, FIRME ELETTRONICHE, SERVIZI FIDUCIARI E TRASFERIMENTI DI FONDI)) Sezione I Documento informatico
--------------------------------------------------------------------------------------------------------------------------------------------
+## Capo II ((DOCUMENTO INFORMATICO, FIRME ELETTRONICHE, SERVIZI FIDUCIARI E TRASFERIMENTI DI FONDI)) Sezione I Documento informatico
 
-### Art. 20
+-
 
-Validita' ed efficacia probatoria dei documenti informatici
+### Art. 20. — Validita' ed efficacia probatoria dei documenti informatici
 
-1. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
+1.
+
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
 ((
 
-1-bis. Il documento informatico soddisfa il requisito della forma scritta e ha l'efficacia prevista dall'[articolo 2702 del Codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2702) quando vi e' apposta una firma digitale, altro tipo di firma elettronica qualificata o una firma elettronica avanzata o, comunque, e' formato, previa identificazione informatica del suo autore, attraverso un processo avente i requisiti fissati dall'AgID ai sensi dell'articolo 71 con modalita' tali da garantire la sicurezza, integrita' e immodificabilita' del documento e, in maniera manifesta e inequivoca, la sua riconducibilita' all'autore. In tutti gli altri casi, l'idoneita' del documento informatico a soddisfare il requisito della forma scritta e il suo valore probatorio sono liberamente valutabili in giudizio, in relazione alle caratteristiche di sicurezza, integrita' e immodificabilita'. La data e l'ora di formazione del documento informatico sono opponibili ai terzi se apposte in conformita' alle Linee guida.
+1-bis.
+
+Il documento informatico soddisfa il requisito della forma scritta e ha l'efficacia prevista dall'[articolo 2702 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2702) quando vi e' apposta una firma digitale, altro tipo di firma elettronica qualificata o una firma elettronica avanzata o, comunque, e' formato, previa identificazione informatica del suo autore, attraverso un processo avente i requisiti fissati dall'AgID ai sensi dell'articolo 71 con modalita' tali da garantire la sicurezza, integrita' e immodificabilita' del documento e, in maniera manifesta e inequivoca, la sua riconducibilita' all'autore. In tutti gli altri casi, l'idoneita' del documento informatico a soddisfare il requisito della forma scritta e il suo valore probatorio sono liberamente valutabili in giudizio, in relazione alle caratteristiche di sicurezza, integrita' e immodificabilita'. La data e l'ora di formazione del documento informatico sono opponibili ai terzi se apposte in conformita' alle Linee guida.
 
 ))
 
 ((
 
-1-ter. L'utilizzo del dispositivo di firma elettronica qualificata o digitale si presume riconducibile al titolare di firma elettronica, salvo che questi dia prova contraria.
+1-ter.
 
-1-quater. Restano ferme le disposizioni concernenti il deposito degli atti e dei documenti in via telematica secondo la normativa, anche regolamentare, in materia di processo telematico.
+L'utilizzo del dispositivo di firma elettronica qualificata o digitale si presume riconducibile al titolare di firma elettronica, salvo che questi dia prova contraria.
+
+1-quater.
+
+Restano ferme le disposizioni concernenti il deposito degli atti e dei documenti in via telematica secondo la normativa, anche regolamentare, in materia di processo telematico.
 
 ))
 
-2. COMMA ABROGATO DAL [D.LGS. 30 DICEMBRE 2010, N. 235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-30;235).
+2.
 
-3. Le regole tecniche per la formazione, per la trasmissione, la conservazione, la copia, la duplicazione, la riproduzione e la validazione dei documenti informatici, nonche' quelle in materia di generazione, apposizione e verifica di qualsiasi tipo di firma elettronica, sono stabilite
+COMMA ABROGATO DAL [D.LGS. 30 DICEMBRE 2010, N. 235](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20recante%20Codice%20dellamministrazione%20digitale%20a%20norma%20dellarticolo%2033%20della%20legge%2018%20giugno%202009%20n.%2069.%2011G0002.md).
 
-((con le Linee guida))
+3.
 
-.
+Le regole tecniche per la formazione, per la trasmissione, la conservazione, la copia, la duplicazione, la riproduzione e la validazione dei documenti informatici, nonche' quelle in materia di generazione, apposizione e verifica di qualsiasi tipo di firma elettronica, sono stabilite ((con le Linee guida)). ((PERIODO SOPPRESSO DAL D.LGS. 13 DICEMBRE 2017, N. 217)).
 
-((PERIODO SOPPRESSO DAL [D.LGS. 13 DICEMBRE 2017, N. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217)))
+4.
 
-.
+Con le medesime regole tecniche sono definite le misure tecniche, organizzative e gestionali volte a garantire l'integrita', la disponibilita' e la riservatezza delle informazioni contenute nel documento informatico.
 
-4. Con le medesime regole tecniche sono definite le misure tecniche, organizzative e gestionali volte a garantire l'integrita', la disponibilita' e la riservatezza delle informazioni contenute nel documento informatico.
+5.
 
-5. Restano ferme le disposizioni di legge in materia di protezione dei dati personali.
+Restano ferme le disposizioni di legge in materia di protezione dei dati personali.
 
-5-bis. Gli obblighi di conservazione e di esibizione di documenti previsti dalla legislazione vigente si intendono soddisfatti a tutti gli effetti di legge a mezzo di documenti informatici, se le procedure utilizzate sono conformi alle
+5-bis.
 
-((Linee guida))
+Gli obblighi di conservazione e di esibizione di documenti previsti dalla legislazione vigente si intendono soddisfatti a tutti gli effetti di legge a mezzo di documenti informatici, se le procedure utilizzate sono conformi alle ((Linee guida)).
 
-.
+### Art. 21. — ((Ulteriori disposizioni relative ai documenti informatici, sottoscritti con firma elettronica avanzata, qualificata o digitale))
 
-### Art. 21
+1.
 
-((Ulteriori disposizioni relative ai documenti informatici, sottoscritti con firma elettronica avanzata, qualificata o digitale))
+((COMMA ABROGATO DAL D.LGS. 13 DICEMBRE 2017, N. 217)).
 
-1. 
+2.
 
-((COMMA ABROGATO DAL [D.LGS. 13 DICEMBRE 2017, N. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217)))
+((COMMA ABROGATO DAL D.LGS. 13 DICEMBRE 2017, N. 217)). 
+ 2-bis). Salvo il caso di sottoscrizione autenticata, le scritture private di cui all'[articolo 1350, primo comma, numeri da 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1350-com1-num1) [a 12, del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1350-com1-num12), se fatte con documento informatico, sono sottoscritte, a pena di nullita', con firma elettronica qualificata o con firma digitale. Gli atti di cui all'[articolo 1350, numero 13), del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1350-num13) redatti su documento informatico o formati attraverso procedimenti informatici sono sottoscritti, a pena di nullita', con firma elettronica avanzata, qualificata o digitale ((ovvero sono formati con le ulteriori modalita' di cui all'articolo 20, comma 1-bis, primo periodo)). 
+ 2-ter. Fatto salvo quanto previsto dal [decreto legislativo 2 luglio 2010, n. 110](../Decreti%20Legislativi/Disposizioni%20in%20materia%20di%20atto%20pubblico%20informatico%20redatto%20dal%20notaio%20a%20norma%20dellarticolo%2065%20della%20legge%2018%20giugno%202009%20n.%2069.%2010G0132.md), ogni altro atto pubblico redatto su documento informatico e' sottoscritto dal pubblico ufficiale a pena di nullita' con firma qualificata o digitale. Le parti, i fidefacenti, l'interprete e i testimoni sottoscrivono personalmente l'atto, in presenza del pubblico ufficiale, con firma avanzata, qualificata o digitale ovvero con firma autografa acquisita digitalmente e allegata agli atti.
 
-.
+3.
 
-2. 
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
-((COMMA ABROGATO DAL [D.LGS. 13 DICEMBRE 2017, N. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217)))
+4.
 
-.   
-2-bis). Salvo il caso di sottoscrizione autenticata, le scritture private di cui all'[articolo 1350, primo comma, numeri da 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1350-com1-num1) [a 12, del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1350-com1-num12), se fatte con documento informatico, sono sottoscritte, a pena di nullita', con firma elettronica qualificata o con firma digitale. Gli atti di cui all'[articolo 1350, numero 13), del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1350-num13) redatti su documento informatico o formati attraverso procedimenti informatici sono sottoscritti, a pena di nullita', con firma elettronica avanzata, qualificata o digitale
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
-((ovvero sono formati con le ulteriori modalita' di cui all'articolo 20, comma 1-bis, primo periodo))
+5.
 
-.   
-2-ter. Fatto salvo quanto previsto dal [decreto legislativo 2 luglio 2010, n. 110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-07-02;110), ogni altro atto pubblico redatto su documento informatico e' sottoscritto dal pubblico ufficiale a pena di nullita' con firma qualificata o digitale. Le parti, i fidefacenti, l'interprete e i testimoni sottoscrivono personalmente l'atto, in presenza del pubblico ufficiale, con firma avanzata, qualificata o digitale ovvero con firma autografa acquisita digitalmente e allegata agli atti.
+Gli obblighi fiscali relativi ai documenti informatici ed alla loro riproduzione su diversi tipi di supporto sono assolti secondo le modalita' definite con uno o piu' decreti del Ministro dell'economia e delle finanze, sentito il Ministro delegato per l'innovazione e le tecnologie.
 
-3. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
+### Art. 22. — (Copie informatiche di documenti analogici).
 
-4. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
+1.
 
-5. Gli obblighi fiscali relativi ai documenti informatici ed alla loro riproduzione su diversi tipi di supporto sono assolti secondo le modalita' definite con uno o piu' decreti del Ministro dell'economia e delle finanze, sentito il Ministro delegato per l'innovazione e le tecnologie.
+I documenti informatici contenenti copia di atti pubblici, scritture private e documenti in genere, compresi gli atti e documenti amministrativi di ogni tipo formati in origine su supporto analogico, spediti o rilasciati dai depositari pubblici autorizzati e dai pubblici ufficiali, hanno piena efficacia, ai sensi degli [articoli 2714](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2714) e [2715 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2715), se sono formati ai sensi dell'articolo 20, comma 1-bis, primo periodo. La loro esibizione e produzione sostituisce quella dell'originale.
 
-### Art. 22
+1-bis.
 
-(Copie informatiche di documenti analogici).
+La copia per immagine su supporto informatico di un documento analogico e' prodotta mediante processi e strumenti che assicurano che il documento informatico abbia contenuto e forma identici a quelli del documento analogico da cui e' tratto, previo raffronto dei documenti o attraverso certificazione di processo nei casi in cui siano adottate tecniche in grado di garantire la corrispondenza della forma e del contenuto dell'originale e della copia.
 
-1. I documenti informatici contenenti copia di atti pubblici, scritture private e documenti in genere, compresi gli atti e documenti amministrativi di ogni tipo formati in origine su supporto analogico, spediti o rilasciati dai depositari pubblici autorizzati e dai pubblici ufficiali, hanno piena efficacia, ai sensi degli [articoli 2714](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2714) e [2715 del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2715), se sono formati ai sensi dell'articolo 20, comma 1-bis, primo periodo. La loro esibizione e produzione sostituisce quella dell'originale.
+2.
 
-1-bis. La copia per immagine su supporto informatico di un documento analogico e' prodotta mediante processi e strumenti che assicurano che il documento informatico abbia contenuto e forma identici a quelli del documento analogico da cui e' tratto, previo raffronto dei documenti o attraverso certificazione di processo nei casi in cui siano adottate tecniche in grado di garantire la corrispondenza della forma e del contenuto dell'originale e della copia.
+Le copie per immagine su supporto informatico di documenti originali formati in origine su supporto analogico hanno la stessa efficacia probatoria degli originali da cui sono estratte, se la loro conformita' e' attestata da un notaio o da altro pubblico ufficiale a cio' autorizzato, secondo le Linee guida.
 
-2. Le copie per immagine su supporto informatico di documenti originali formati in origine su supporto analogico hanno la stessa efficacia probatoria degli originali da cui sono estratte, se la loro conformita' e' attestata da un notaio o da altro pubblico ufficiale a cio' autorizzato, secondo le Linee guida.
+3.
 
-3. Le copie per immagine su supporto informatico di documenti originali formati in origine su supporto analogico nel rispetto delle Linee guida hanno la stessa efficacia probatoria degli originali da cui sono tratte se la loro conformita' all'originale non e' espressamente disconosciuta.
+Le copie per immagine su supporto informatico di documenti originali formati in origine su supporto analogico nel rispetto delle Linee guida hanno la stessa efficacia probatoria degli originali da cui sono tratte se la loro conformita' all'originale non e' espressamente disconosciuta.
 
-4. Le copie formate ai sensi dei commi 1, 1-bis, 2 e 3 sostituiscono ad ogni effetto di legge gli originali formati in origine su supporto analogico, e sono idonee ad assolvere gli obblighi di conservazione previsti dalla legge, salvo quanto stabilito dal comma 5.
+4.
 
-4-bis. Le copie per immagine su supporto informatico di atti e documenti originali formati in origine su supporto analogico, depositati in procedimenti giudiziari civili definiti con provvedimento decisorio non piu' soggetto a impugnazione da almeno un anno, sono idonee ad
+Le copie formate ai sensi dei commi 1, 1-bis, 2 e 3 sostituiscono ad ogni effetto di legge gli originali formati in origine su supporto analogico, e sono idonee ad assolvere gli obblighi di conservazione previsti dalla legge, salvo quanto stabilito dal comma 5.
 
-((assolvere agli obblighi))
+4-bis.
 
-di conservazione previsti dalla legge se il cancelliere vi appone la firma digitale, ne attesta la conformita' all'originale e le inserisce nel fascicolo informatico nel rispetto della normativa anche regolamentare concernente il processo civile telematico. In tali casi, si puo' procedere alla distruzione degli originali analogici, secondo le modalita' previste con decreto del Ministro della giustizia, sentiti il Garante per la protezione dei dati personali e l'Agenzia per l'Italia digitale.
+Le copie per immagine su supporto informatico di atti e documenti originali formati in origine su supporto analogico, depositati in procedimenti giudiziari civili definiti con provvedimento decisorio non piu' soggetto a impugnazione da almeno un anno, sono idonee ad ((assolvere agli obblighi)) di conservazione previsti dalla legge se il cancelliere vi appone la firma digitale, ne attesta la conformita' all'originale e le inserisce nel fascicolo informatico nel rispetto della normativa anche regolamentare concernente il processo civile telematico. In tali casi, si puo' procedere alla distruzione degli originali analogici, secondo le modalita' previste con decreto del Ministro della giustizia, sentiti il Garante per la protezione dei dati personali e l'Agenzia per l'Italia digitale.
 
-5. Salvo quanto previsto dal comma 4-bis, con decreto del Presidente del Consiglio dei ministri possono essere individuate particolari tipologie di documenti analogici originali unici per le quali, in ragione di esigenze di natura pubblicistica, permane l'obbligo della conservazione dell'originale analogico oppure, in caso di conservazione sostitutiva, la loro conformita' all'originale deve essere autenticata da un notaio o da altro pubblico ufficiale a cio' autorizzato con dichiarazione da questi firmata digitalmente ed allegata al documento informatico.
+5.
 
-6. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
+Salvo quanto previsto dal comma 4-bis, con decreto del Presidente del Consiglio dei ministri possono essere individuate particolari tipologie di documenti analogici originali unici per le quali, in ragione di esigenze di natura pubblicistica, permane l'obbligo della conservazione dell'originale analogico oppure, in caso di conservazione sostitutiva, la loro conformita' all'originale deve essere autenticata da un notaio o da altro pubblico ufficiale a cio' autorizzato con dichiarazione da questi firmata digitalmente ed allegata al documento informatico.
 
-### Art. 23
+6.
 
-(Copie analogiche di documenti informatici).
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
-1. Le copie su supporto analogico di documento informatico, anche sottoscritto con firma elettronica avanzata, qualificata o digitale, hanno la stessa efficacia probatoria dell'originale da cui sono tratte se la loro conformita' all'originale in tutte le sue componenti e' attestata da un pubblico ufficiale a cio' autorizzato.
+### Art. 23. — (Copie analogiche di documenti informatici).
 
-2. Le copie e gli estratti su supporto analogico del documento informatico, conformi alle vigenti regole tecniche, hanno la stessa efficacia probatoria dell'originale se la loto conformita' non e' espressamente disconosciuta. Resta fermo, ove previsto l'obbligo di conservazione dell'originale informatico.
+1.
 
-2-bis. Sulle copie analogiche di documenti informatici puo' essere apposto a stampa un contrassegno, sulla base dei criteri definiti con le
+Le copie su supporto analogico di documento informatico, anche sottoscritto con firma elettronica avanzata, qualificata o digitale, hanno la stessa efficacia probatoria dell'originale da cui sono tratte se la loro conformita' all'originale in tutte le sue componenti e' attestata da un pubblico ufficiale a cio' autorizzato.
 
-((Linee guida))
+2.
 
-, tramite il quale e' possibile accedere al documento informatico, ovvero verificare la corrispondenza allo stesso della copia analogica. Il contrassegno apposto ai sensi del primo periodo sostituisce a tutti gli effetti di legge la sottoscrizione autografa del pubblico ufficiale e non puo' essere richiesta la produzione di altra copia analogica con sottoscrizione autografa del medesimo documento informatico.
+Le copie e gli estratti su supporto analogico del documento informatico, conformi alle vigenti regole tecniche, hanno la stessa efficacia probatoria dell'originale se la loto conformita' non e' espressamente disconosciuta. Resta fermo, ove previsto l'obbligo di conservazione dell'originale informatico.
 
-((I soggetti che procedono all'apposizione del contrassegno rendono disponibili gratuitamente sul proprio sito Internet istituzionale idonee soluzioni per la verifica del contrassegno medesimo.))
+2-bis.
 
-.
+Sulle copie analogiche di documenti informatici puo' essere apposto a stampa un contrassegno, sulla base dei criteri definiti con le ((Linee guida)), tramite il quale e' possibile accedere al documento informatico, ovvero verificare la corrispondenza allo stesso della copia analogica. Il contrassegno apposto ai sensi del primo periodo sostituisce a tutti gli effetti di legge la sottoscrizione autografa del pubblico ufficiale e non puo' essere richiesta la produzione di altra copia analogica con sottoscrizione autografa del medesimo documento informatico. ((I soggetti che procedono all'apposizione del contrassegno rendono disponibili gratuitamente sul proprio sito Internet istituzionale idonee soluzioni per la verifica del contrassegno medesimo.)).
 
-### Art. 23-bis
+### Art. 23-bis. — (Duplicati e copie informatiche di documenti informatici).
 
-(Duplicati e copie informatiche di documenti informatici).
+1.
 
-1. I duplicati informatici hanno il medesimo valore giuridico, ad ogni effetto di legge, del documento informatico da cui sono tratti, se prodotti in conformita' alle
+I duplicati informatici hanno il medesimo valore giuridico, ad ogni effetto di legge, del documento informatico da cui sono tratti, se prodotti in conformita' alle ((Linee guida)).
 
-((Linee guida))
+2.
 
-.
+Le copie e gli estratti informatici del documento informatico, se prodotti in conformita' alle vigenti ((Linee guida)), hanno la stessa efficacia probatoria dell'originale da cui sono tratte se la loro conformita' all'originale, in tutti le sue componenti, e' attestata da un pubblico ufficiale a cio' autorizzato o se la conformita' non e' espressamente disconosciuta. Resta fermo, ove previsto, l'obbligo di conservazione dell'originale informatico.
 
-2. Le copie e gli estratti informatici del documento informatico, se prodotti in conformita' alle vigenti
+### Art. 23-ter. — (Documenti amministrativi informatici).
 
-((Linee guida))
+1.
 
-, hanno la stessa efficacia probatoria dell'originale da cui sono tratte se la loro conformita' all'originale, in tutti le sue componenti, e' attestata da un pubblico ufficiale a cio' autorizzato o se la conformita' non e' espressamente disconosciuta. Resta fermo, ove previsto, l'obbligo di conservazione dell'originale informatico.
-
-### Art. 23-ter
-
-(Documenti amministrativi informatici).
-
-1. Gli atti formati dalle pubbliche amministrazioni con strumenti informatici, nonche' i dati e i documenti informatici detenuti dalle stesse, costituiscono informazione primaria ed originale da cui e' possibile effettuare, su diversi o identici tipi di supporto, duplicazioni e copie per gli usi consentiti dalla legge.
+Gli atti formati dalle pubbliche amministrazioni con strumenti informatici, nonche' i dati e i documenti informatici detenuti dalle stesse, costituiscono informazione primaria ed originale da cui e' possibile effettuare, su diversi o identici tipi di supporto, duplicazioni e copie per gli usi consentiti dalla legge.
 
 ((
 
-1-bis. La copia su supporto informatico di documenti formati dalle pubbliche amministrazioni in origine su supporto analogico e' prodotta mediante processi e strumenti che assicurano che il documento informatico abbia contenuto identico a quello del documento analogico da cui e' tratto, previo raffronto dei documenti o attraverso certificazione di processo nei casi in cui siano adottate tecniche in grado di garantire la corrispondenza del contenuto dell'originale e della copia.
+1-bis.
+
+La copia su supporto informatico di documenti formati dalle pubbliche amministrazioni in origine su supporto analogico e' prodotta mediante processi e strumenti che assicurano che il documento informatico abbia contenuto identico a quello del documento analogico da cui e' tratto, previo raffronto dei documenti o attraverso certificazione di processo nei casi in cui siano adottate tecniche in grado di garantire la corrispondenza del contenuto dell'originale e della copia.
 
 ))
 
-2. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
+2.
 
-3. Le copie su supporto informatico di documenti formati dalla pubblica amministrazione in origine su supporto analogico ovvero da essa detenuti, hanno il medesimo valore giuridico, ad ogni effetto di legge, degli originali da cui sono tratte, se la loro conformita' all'originale e' assicurata dal funzionario a cio' delegato nell'ambito dell'ordinamento proprio dell'amministrazione di appartenenza, mediante l'utilizzo della firma digitale o di altra firma elettronica qualificata e nel rispetto delle
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
-((Linee guida))
+3.
 
-; in tale caso l'obbligo di conservazione dell'originale del documento e' soddisfatto con la conservazione della copia su supporto informatico.
+Le copie su supporto informatico di documenti formati dalla pubblica amministrazione in origine su supporto analogico ovvero da essa detenuti, hanno il medesimo valore giuridico, ad ogni effetto di legge, degli originali da cui sono tratte, se la loro conformita' all'originale e' assicurata dal funzionario a cio' delegato nell'ambito dell'ordinamento proprio dell'amministrazione di appartenenza, mediante l'utilizzo della firma digitale o di altra firma elettronica qualificata e nel rispetto delle ((Linee guida)); in tale caso l'obbligo di conservazione dell'originale del documento e' soddisfatto con la conservazione della copia su supporto informatico.
 
 ((
 
-4. In materia di formazione e conservazione di documenti informatici delle pubbliche amministrazioni, le Linee guida sono definite anche sentito il Ministero dei beni e delle attivita' culturali e del turismo.
+4.
+
+In materia di formazione e conservazione di documenti informatici delle pubbliche amministrazioni, le Linee guida sono definite anche sentito il Ministero dei beni e delle attivita' culturali e del turismo.
 
 ))
 
-5. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
+5.
 
-5-bis. I documenti di cui al presente articolo devono essere fruibili indipendentemente dalla condizione di disabilita' personale, applicando i criteri di accessibilita' definiti dai requisiti tecnici di cui all'[articolo 11 della legge 9 gennaio 2004, n. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-01-09;4~art11).
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
-6. Per quanto non previsto dal presente articolo si applicano gli articoli 21, 22 , 23 e 23-bis.
+5-bis.
 
-### Art. 23-quater
+I documenti di cui al presente articolo devono essere fruibili indipendentemente dalla condizione di disabilita' personale, applicando i criteri di accessibilita' definiti dai requisiti tecnici di cui all'[articolo 11 della legge 9 gennaio 2004, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-01-09;4#art_11).
 
-(( (Riproduzioni informatiche). ))
+6.
+
+Per quanto non previsto dal presente articolo si applicano gli articoli 21, 22 , 23 e 23-bis.
+
+### Art. 23-quater. — (( (Riproduzioni informatiche). ))
 
 ((
 
-1. All'[articolo 2712 del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2712) dopo le parole: "riproduzioni fotografiche" e' inserita la seguente: ", informatiche".
+1.
+
+All'[articolo 2712 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2712) dopo le parole: "riproduzioni fotografiche" e' inserita la seguente: ", informatiche".
 
 ))
 
-CAPO V - Sezione II ((Firme elettroniche, certificati e prestatori di servizi fiduciari))
------------------------------------------------------------------------------------------
+## Sezione II ((Firme elettroniche, certificati e prestatori di servizi fiduciari))
 
-### Art. 24
+-
 
-Firma digitale
+### Art. 24. — Firma digitale
 
-1. La firma digitale deve riferirsi in maniera univoca ad un solo soggetto ed al documento o all'insieme di documenti cui e' apposta o associata.
+1.
 
-2. L'apposizione di firma digitale integra e sostituisce l'apposizione di sigilli, punzoni, timbri, contrassegni e marchi di qualsiasi genere ad ogni fine previsto dalla normativa vigente.
+La firma digitale deve riferirsi in maniera univoca ad un solo soggetto ed al documento o all'insieme di documenti cui e' apposta o associata.
 
-3. Per la generazione della firma digitale deve adoperarsi un certificato qualificato che, al momento della sottoscrizione, non risulti scaduto di validita' ovvero non risulti revocato o sospeso.
+2.
 
-4. Attraverso il certificato qualificato si devono rilevare, secondo le
+L'apposizione di firma digitale integra e sostituisce l'apposizione di sigilli, punzoni, timbri, contrassegni e marchi di qualsiasi genere ad ogni fine previsto dalla normativa vigente.
 
-((Linee guida))
+3.
 
-, la validita' del certificato stesso, nonche' gli elementi identificativi del titolare
+Per la generazione della firma digitale deve adoperarsi un certificato qualificato che, al momento della sottoscrizione, non risulti scaduto di validita' ovvero non risulti revocato o sospeso.
 
-((di firma digitale))
+4.
 
-e del certificatore e gli eventuali limiti d'uso.
+Attraverso il certificato qualificato si devono rilevare, secondo le ((Linee guida)), la validita' del certificato stesso, nonche' gli elementi identificativi del titolare ((di firma digitale)) e del certificatore e gli eventuali limiti d'uso. ((Le linee guida definiscono altresi' le modalita', anche temporali, di apposizione della firma.))
 
-((Le linee guida definiscono altresi' le modalita', anche temporali, di apposizione della firma.))
+4-bis.
 
-4-bis. L'apposizione a un documento informatico di una firma digitale o di un altro tipo di firma elettronica qualificata basata su un certificato elettronico revocato, scaduto o sospeso equivale a mancata sottoscrizione, salvo che lo stato di sospensione sia stato annullato. La revoca o la sospensione, comunque motivate, hanno effetto dal momento della pubblicazione, salvo che il revocante, o chi richiede la sospensione, non dimostri che essa era gia' a conoscenza di tutte le parti interessate.
+L'apposizione a un documento informatico di una firma digitale o di un altro tipo di firma elettronica qualificata basata su un certificato elettronico revocato, scaduto o sospeso equivale a mancata sottoscrizione, salvo che lo stato di sospensione sia stato annullato. La revoca o la sospensione, comunque motivate, hanno effetto dal momento della pubblicazione, salvo che il revocante, o chi richiede la sospensione, non dimostri che essa era gia' a conoscenza di tutte le parti interessate.
 
-4-ter. Le disposizioni del presente articolo si applicano anche se la firma elettronica e' basata su un certificato qualificato rilasciato da un certificatore stabilito in uno Stato non facente parte dell'Unione europea, quando ricorre una delle seguenti condizioni:
+4-ter.
 
-a) il certificatore possiede i requisiti previsti dal regolamento eIDAS ed e' qualificato in uno Stato membro;
+Le disposizioni del presente articolo si applicano anche se la firma elettronica e' basata su un certificato qualificato rilasciato da un certificatore stabilito in uno Stato non facente parte dell'Unione europea, quando ricorre una delle seguenti condizioni:
+                            a)
+                                il certificatore possiede i requisiti previsti dal regolamento eIDAS ed e' qualificato in uno Stato membro;
+                            b)
+                                il certificato qualificato e' garantito da un certificatore stabilito nella Unione europea, in possesso dei requisiti di cui al medesimo regolamento;
+                            c)
+                                il certificato qualificato, o il certificatore, e' riconosciuto in forza di un accordo bilaterale o multilaterale tra l'Unione europea e Paesi terzi o organizzazioni internazionali.
 
-b) il certificato qualificato e' garantito da un certificatore stabilito nella Unione europea, in possesso dei requisiti di cui al medesimo regolamento;
+### Art. 25. — (Firma autenticata)
 
-c) il certificato qualificato, o il certificatore, e' riconosciuto in forza di un accordo bilaterale o multilaterale tra l'Unione europea e Paesi terzi o organizzazioni internazionali.
+1.
 
-### Art. 25
+Si ha per riconosciuta, ai sensi dell'[articolo 2703 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2703), la firma elettronica o qualsiasi altro tipo di firma ((elettronica))avanzata autenticata dal notaio o da altro pubblico ufficiale a cio' autorizzato.
 
-(Firma autenticata)
+2.
 
-1. Si ha per riconosciuta, ai sensi dell'[articolo 2703 del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2703), la firma elettronica o qualsiasi altro tipo di firma
+L'autenticazione della firma elettronica, anche mediante l'acquisizione digitale della sottoscrizione autografa, o di qualsiasi altro tipo di firma elettronica avanzata consiste nell'attestazione, da parte del pubblico ufficiale, che la firma e' stata apposta in sua presenza dal titolare, previo accertamento della sua identita' personale, della validita' dell'eventuale certificato elettronico utilizzato e del fatto che il documento sottoscritto non e' in contrasto con l'ordinamento giuridico.
 
-((elettronica))
+3.
 
-avanzata autenticata dal notaio o da altro pubblico ufficiale a cio' autorizzato.
+L'apposizione della firma digitale da parte del pubblico ufficiale ha l'efficacia di cui all'articolo 24, comma 2.
 
-2. L'autenticazione della firma elettronica, anche mediante l'acquisizione digitale della sottoscrizione autografa, o di qualsiasi altro tipo di firma elettronica avanzata consiste nell'attestazione, da parte del pubblico ufficiale, che la firma e' stata apposta in sua presenza dal titolare, previo accertamento della sua identita' personale, della validita' dell'eventuale certificato elettronico utilizzato e del fatto che il documento sottoscritto non e' in contrasto con l'ordinamento giuridico.
+4.
 
-3. L'apposizione della firma digitale da parte del pubblico ufficiale ha l'efficacia di cui all'articolo 24, comma 2.
+Se al documento informatico autenticato deve essere allegato altro documento formato in originale su altro tipo di supporto, il pubblico ufficiale puo' allegare copia informatica autenticata dell'originale, secondo le disposizioni dell'articolo 23((...)).
 
-4. Se al documento informatico autenticato deve essere allegato altro documento formato in originale su altro tipo di supporto, il pubblico ufficiale puo' allegare copia informatica autenticata dell'originale, secondo le disposizioni dell'articolo 23
+### Art. 26.
 
-((...))
+((ARTICOLO ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179))
 
-.
+### Art. 27.
 
-### Art. 26
+((ARTICOLO ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179)))
-
-### Art. 27
-
-((ARTICOLO ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179)))
-
-### Art. 28
+### Art. 28.
 
 Certificati di firma elettronica qualificata
 
-1. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
+1.
 
-2. In aggiunta alle informazioni previste nel Regolamento eIDAS
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
-((...))
+2.
 
-nel certificato di firma elettronica qualificata puo' essere inserito il codice fiscale. Per i titolari residenti all'estero cui non risulti attribuito il codice fiscale, si puo' indicare il codice fiscale rilasciato dall'autorita' fiscale del Paese di residenza o, in mancanza, un analogo codice identificativo univoco
+In aggiunta alle informazioni previste nel Regolamento eIDAS ((...)) nel certificato di firma elettronica qualificata puo' essere inserito il codice fiscale. Per i titolari residenti all'estero cui non risulti attribuito il codice fiscale, si puo' indicare il codice fiscale rilasciato dall'autorita' fiscale del Paese di residenza o, in mancanza, un analogo codice identificativo univoco ((...)).
 
-((...))
+3.
 
-.
+Il certificato di firma elettronica qualificata puo' contenere, ove richiesto dal titolare ((di firma elettronica)) o dal terzo interessato, le seguenti informazioni, se pertinenti e non eccedenti rispetto allo scopo per il quale il certificato e' richiesto:
+                            a)
+                                le qualifiche specifiche del titolare ((di firma elettronica)), quali l'appartenenza ad ordini o collegi professionali, la qualifica di pubblico ufficiale, l'iscrizione ad albi o il possesso di altre abilitazioni professionali, nonche' poteri di rappresentanza;
+                            b)
+                                i limiti d'uso del certificato, inclusi quelli derivanti dalla titolarita' delle qualifiche e dai poteri di rappresentanza di cui alla lettera a) ai sensi dell'articolo 30, comma 3.
+                            c)
+                                limiti del valore degli atti unilaterali e dei contratti per i quali il certificato puo' essere usato, ove applicabili.
+                            c-bis)
+                                uno pseudonimo, qualificato come tale.
 
-3. Il certificato di firma elettronica qualificata puo' contenere, ove richiesto dal titolare
+3-bis.
 
-((di firma elettronica))
+((Le informazioni di cui al comma 3 sono riconoscibili da parte dei terzi e chiaramente evidenziati nel certificato.)) Le informazioni di cui al comma 3 possono ((anche)) essere contenute in un separato certificato elettronico e possono essere rese disponibili anche in rete. ((Con le Linee guida)) sono definite le modalita' di attuazione del presente comma, anche in riferimento alle pubbliche amministrazioni e agli ordini professionali.
 
-o dal terzo interessato, le seguenti informazioni, se pertinenti e non eccedenti rispetto allo scopo per il quale il certificato e' richiesto:
+4.
 
-a) le qualifiche specifiche del titolare
-
-((di firma elettronica))
-
-, quali l'appartenenza ad ordini o collegi professionali, la qualifica di pubblico ufficiale, l'iscrizione ad albi o il possesso di altre abilitazioni professionali, nonche' poteri di rappresentanza;
-
-b) i limiti d'uso del certificato, inclusi quelli derivanti dalla titolarita' delle qualifiche e dai poteri di rappresentanza di cui alla lettera a) ai sensi dell'articolo 30, comma 3.
-
-c) limiti del valore degli atti unilaterali e dei contratti per i quali il certificato puo' essere usato, ove applicabili.
-
-((
-
-c-bis) uno pseudonimo, qualificato come tale.
-
-))
-
-3-bis. 
-
-((Le informazioni di cui al comma 3 sono riconoscibili da parte dei terzi e chiaramente evidenziati nel certificato.))
-
-Le informazioni di cui al comma 3 possono
-
-((anche))
-
-essere contenute in un separato certificato elettronico e possono essere rese disponibili anche in rete.
-
-((Con le Linee guida))
-
-sono definite le modalita' di attuazione del presente comma, anche in riferimento alle pubbliche amministrazioni e agli ordini professionali.
-
-4. Il titolare
-
-((di firma elettronica))
-
-, ovvero il terzo interessato se richiedente ai sensi del comma 3, comunicano tempestivamente al certificatore il modificarsi o venir meno delle circostanze oggetto delle informazioni di cui al presente articolo.
+Il titolare ((di firma elettronica)), ovvero il terzo interessato se richiedente ai sensi del comma 3, comunicano tempestivamente al certificatore il modificarsi o venir meno delle circostanze oggetto delle informazioni di cui al presente articolo.
 
 ((4-bis. Il certificatore ha l'obbligo di conservare le informazioni di cui ai commi 3 e 4 per almeno venti anni decorrenti dalla scadenza del certificato di firma.))
 
-### Art. 29
+### Art. 29. — ((Qualificazione dei fornitori di servizi))
 
-((Qualificazione dei fornitori di servizi))
+1.
 
-1. I soggetti che intendono fornire servizi fiduciari qualificati o svolgere l'attivita' di gestore di posta elettronica certificata
+I soggetti che intendono fornire servizi fiduciari qualificati o svolgere l'attivita' di gestore di posta elettronica certificata ((...)) presentano all'AgID domanda di qualificazione, secondo le modalita' fissate dalle Linee guida. ((PERIODO SOPPRESSO DAL D.L. 16 LUGLIO 2020, N. 76)).
 
-((...))
+2.
 
-presentano all'AgID domanda di qualificazione, secondo le modalita' fissate dalle Linee guida.
+((Ai fini della qualificazione, i soggetti di cui al comma 1 devono possedere i requisiti di cui all'articolo 24 del Regolamento (UE) 23 luglio 2014, n. 910/2014, disporre di requisiti di onorabilita', affidabilita', tecnologici e organizzativi compatibili con la disciplina europea, nonche' di garanzie assicurative adeguate rispetto all'attivita' svolta. Con decreto del Presidente del Consiglio dei ministri, o del Ministro delegato per l'innovazione tecnologica e la digitalizzazione, sentita l'AgID, nel rispetto della disciplina europea, sono definiti i predetti requisiti in relazione alla specifica attivita' che i soggetti di cui al comma 1 intendono svolgere.)) Il predetto decreto determina altresi' i criteri per la fissazione delle tariffe dovute all'AgID per lo svolgimento delle predette attivita', nonche' i requisiti e le condizioni per lo svolgimento delle attivita' di cui al comma 1 da parte di amministrazioni pubbliche.
 
-((PERIODO SOPPRESSO DAL [D.L. 16 LUGLIO 2020, N. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-07-16;76)))
+3.
 
-.
+COMMA ABROGATO DAL [D.LGS. 13 DICEMBRE 2017, N. 217](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%2026%20agosto%202016%20n.%20179%20concernente%20modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislati_7b5fbda60218.md). (29)
 
-2. 
+4.
 
-((Ai fini della qualificazione, i soggetti di cui al comma 1 devono possedere i requisiti di cui all'[articolo 24 del Regolamento (UE) 23 luglio 2014, n. 910/2014](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32014R0910), disporre di requisiti di onorabilita', affidabilita', tecnologici e organizzativi compatibili con la disciplina europea, nonche' di garanzie assicurative adeguate rispetto all'attivita' svolta. Con decreto del Presidente del Consiglio dei ministri, o del Ministro delegato per l'innovazione tecnologica e la digitalizzazione, sentita l'AgID, nel rispetto della disciplina europea, sono definiti i predetti requisiti in relazione alla specifica attivita' che i soggetti di cui al comma 1 intendono svolgere.))
+La domanda di qualificazione ((...)) si considera accolta qualora non venga comunicato all'interessato il provvedimento di diniego entro novanta giorni dalla data di presentazione della stessa.
 
-Il predetto decreto determina altresi' i criteri per la fissazione delle tariffe dovute all'AgID per lo svolgimento delle predette attivita', nonche' i requisiti e le condizioni per lo svolgimento delle attivita' di cui al comma 1 da parte di amministrazioni pubbliche.
+5.
 
-3. COMMA ABROGATO DAL [D.LGS. 13 DICEMBRE 2017, N. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217). (29)
+Il termine di cui al comma 4, puo' essere sospeso una sola volta entro trenta giorni dalla data di presentazione della domanda, esclusivamente per la motivata richiesta di documenti che integrino o completino la documentazione presentata e che non siano gia' nella disponibilita' del AgID o che questo non possa acquisire autonomamente. In tale caso, il termine riprende a decorrere dalla data di ricezione della documentazione integrativa.
 
-4. La domanda di qualificazione
+6.
 
-((...))
+A seguito dell'accoglimento della domanda, il AgID dispone l'iscrizione del richiedente in un apposito elenco di fiducia pubblico, tenuto dal AgID stesso e consultabile anche in via telematica, ai fini dell'applicazione della disciplina in questione.
 
-si considera accolta qualora non venga comunicato all'interessato il provvedimento di diniego entro novanta giorni dalla data di presentazione della stessa.
+7.
 
-5. Il termine di cui al comma 4, puo' essere sospeso una sola volta entro trenta giorni dalla data di presentazione della domanda, esclusivamente per la motivata richiesta di documenti che integrino o completino la documentazione presentata e che non siano gia' nella disponibilita' del AgID o che questo non possa acquisire autonomamente. In tale caso, il termine riprende a decorrere dalla data di ricezione della documentazione integrativa.
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
-6. A seguito dell'accoglimento della domanda, il AgID dispone l'iscrizione del richiedente in un apposito elenco di fiducia pubblico, tenuto dal AgID stesso e consultabile anche in via telematica, ai fini dell'applicazione della disciplina in questione.
+8.
 
-7. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
-8. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
+9.
 
-9. Alle attivita' previste dal presente articolo si fa fronte nell'ambito delle risorse del AgID, senza nuovi o maggiori oneri per la finanza pubblica.   
-(28)
+Alle attivita' previste dal presente articolo si fa fronte nell'ambito delle risorse del AgID, senza nuovi o maggiori oneri per la finanza pubblica. 
+ (28)
 
 --------------
 
 AGGIORNAMENTO (28)
 
-Il [D.Lgs. 26 agosto 2016, n. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179) ha disposto (con l'art. 62, comma 5) che "Il prestatore di servizi che ha presentato la relazione di conformita', ai sensi dell'articolo 51 del regolamento eIDAS, e' considerato prestatore di servizi fiduciari qualificato a norma del predetto regolamento e dell'[articolo 29 del decreto legislativo n. 82 del 2005](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;82~art29), come modificato dall'articolo 25 del presente decreto, fino al completamento della valutazione della relazione da parte dell'AgID".
+Il [D.Lgs. 26 agosto 2016, n. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md) ha disposto (con l'art. 62, comma 5) che "Il prestatore di servizi che ha presentato la relazione di conformita', ai sensi dell'articolo 51 del regolamento eIDAS, e' considerato prestatore di servizi fiduciari qualificato a norma del predetto regolamento e dell'[articolo 29 del decreto legislativo n. 82 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;82#art_29), come modificato dall'articolo 25 del presente decreto, fino al completamento della valutazione della relazione da parte dell'AgID".
 
 ---------------
 
 AGGIORNAMENTO (29)
 
-Il [D.Lgs. 13 dicembre 2017, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217) ha disposto (con l'art. 65, comma 8) che "Il decreto del Presidente del Consiglio dei ministri di cui all'[articolo 29, comma 2, del decreto legislativo n. 82 del 2005](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;82~art29-com2), come modificato dal presente decreto, e' adottato entro centottanta giorni dalla data di entrata in vigore del presente decreto. Fino all'adozione del predetto decreto, restano efficaci le disposizioni dell'articolo 29, comma 3, dello stesso decreto nella formulazione previgente all'entrata in vigore del [decreto legislativo 26 agosto 2016, n. 179 e dell'articolo 44-bis, commi 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179~art44bis-com2) e [3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179~art44bis-com3), del [decreto legislativo n. 82 del 2005](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;82) nella formulazione previgente all'entrata in vigore del presente decreto".
+Il [D.Lgs. 13 dicembre 2017, n. 217](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%2026%20agosto%202016%20n.%20179%20concernente%20modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislati_7b5fbda60218.md) ha disposto (con l'art. 65, comma 8) che "Il decreto del Presidente del Consiglio dei ministri di cui all'[articolo 29, comma 2, del decreto legislativo n. 82 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;82#art_29-com2), come modificato dal presente decreto, e' adottato entro centottanta giorni dalla data di entrata in vigore del presente decreto. Fino all'adozione del predetto decreto, restano efficaci le disposizioni dell'articolo 29, comma 3, dello stesso decreto nella formulazione previgente all'entrata in vigore del [decreto legislativo 26 agosto 2016, n. 179 e dell'articolo 44-bis, commi 2](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md) e [3](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md), del [decreto legislativo n. 82 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;82) nella formulazione previgente all'entrata in vigore del presente decreto".
 
-### Art. 30
+### Art. 30. — Responsabilita' dei prestatori di servizi fiduciari qualificati, dei gestori di posta elettronica certificata, dei gestori dell'identita' digitale e dei conservatori
 
-Responsabilita' dei prestatori di servizi fiduciari qualificati, dei gestori di posta elettronica certificata, dei gestori dell'identita' digitale e dei conservatori
+1.
 
-1. 
+((I prestatori di servizi fiduciari qualificati e i gestori di posta elettronica certificata, iscritti nell'elenco di cui all'articolo 29, comma 6, nonche' i gestori dell'identita' digitale e i conservatori di documenti informatici)), che cagionano danno ad altri nello svolgimento della loro attivita', sono tenuti al risarcimento, se non provano di avere adottato tutte le misure idonee a evitare il danno.
 
-((I prestatori di servizi fiduciari qualificati e i gestori di posta elettronica certificata, iscritti nell'elenco di cui all'articolo 29, comma 6, nonche' i gestori dell'identita' digitale e i conservatori di documenti informatici))
+2.
 
-, che cagionano danno ad altri nello svolgimento della loro attivita', sono tenuti al risarcimento, se non provano di avere adottato tutte le misure idonee a evitare il danno.
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
-2. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
+3.
 
-3. PERIODO SOPPRESSO DAL [D.LGS. 13 DICEMBRE 2017, N. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217). Il prestatore di servizi di firma digitale o di altra firma elettronica qualificata non e' responsabile dei danni derivanti dall'uso di un certificato qualificato che ecceda i limiti eventualmente posti dallo stesso ai sensi dell'articolo 28, comma 3, a condizione che limiti d'uso e di valore siano chiaramente riconoscibili secondo quanto previsto dall'articolo 28, comma 3-bis.
+PERIODO SOPPRESSO DAL [D.LGS. 13 DICEMBRE 2017, N. 217](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%2026%20agosto%202016%20n.%20179%20concernente%20modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislati_7b5fbda60218.md). Il prestatore di servizi di firma digitale o di altra firma elettronica qualificata non e' responsabile dei danni derivanti dall'uso di un certificato qualificato che ecceda i limiti eventualmente posti dallo stesso ai sensi dell'articolo 28, comma 3, a condizione che limiti d'uso e di valore siano chiaramente riconoscibili secondo quanto previsto dall'articolo 28, comma 3-bis.
 
-### Art. 31
+### Art. 31.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179)))
+((ARTICOLO ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179))
 
-### Art. 32
+### Art. 32.
 
-Obblighi del titolare
+Obblighi del titolare ((di firma elettronica qualificata)) e del prestatore di servizi di firma elettronica qualificata
 
-((di firma elettronica qualificata))
+1.
 
-e del prestatore di servizi di firma elettronica qualificata
+Il titolare del certificato di firma e' tenuto ad assicurare la custodia del dispositivo di firma o degli strumenti di autenticazione informatica per l'utilizzo del dispositivo di firma da remoto, e ad adottare tutte le misure organizzative e tecniche idonee ad evitare danno ad altri; e' altresi' tenuto ad utilizzare personalmente il dispositivo di firma.
 
-1. Il titolare del certificato di firma e' tenuto ad assicurare la custodia del dispositivo di firma o degli strumenti di autenticazione informatica per l'utilizzo del dispositivo di firma da remoto, e ad adottare tutte le misure organizzative e tecniche idonee ad evitare danno ad altri; e' altresi' tenuto ad utilizzare personalmente il dispositivo di firma.
+2.
 
-2. Il prestatore di servizi di firma elettronica qualificata e' tenuto ad adottare tutte le misure organizzative e tecniche idonee ad evitare danno a terzi.
+Il prestatore di servizi di firma elettronica qualificata e' tenuto ad adottare tutte le misure organizzative e tecniche idonee ad evitare danno a terzi.
 
-3. Il prestatore di servizi di firma elettronica qualificata che rilascia
+3.
 
-((...))
+Il prestatore di servizi di firma elettronica qualificata che rilascia ((...)) certificati qualificati deve comunque:
+                            a)
+                                provvedere con certezza alla identificazione della persona che fa richiesta della certificazione;
+                            b)
+                                rilasciare e rendere pubblico il certificato elettronico nei modi o nei casi stabiliti dalle ((Linee guida)), nel rispetto del [decreto legislativo 30 giugno 2003, n. 196](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), e successive modificazioni;
+                            c)
+                                specificare, nel certificato qualificato su richiesta dell'istante, e con il consenso del terzo interessato, i poteri di rappresentanza o altri titoli relativi all'attivita' professionale o a cariche rivestite, previa verifica della documentazione presentata dal richiedente che attesta la sussistenza degli stessi;
+                            d)
+                                attenersi alle ((Linee guida));
+                            e)
+                                informare i richiedenti in modo compiuto e chiaro, sulla procedura di certificazione e sui necessari requisiti tecnici per accedervi e sulle caratteristiche e sulle limitazioni d'uso delle firme emesse sulla base del servizio di certificazione;
+                            f)
+                                LETTERA SOPPRESSA DAL [D.LGS. 30 DICEMBRE 2010, N. 235](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20recante%20Codice%20dellamministrazione%20digitale%20a%20norma%20dellarticolo%2033%20della%20legge%2018%20giugno%202009%20n.%2069.%2011G0002.md);
+                            g)
+                                procedere alla tempestiva pubblicazione della revoca e della sospensione del certificato elettronico in caso di richiesta da parte del titolare ((di firma elettronica qualificata)) o del terzo dal quale derivino i poteri del titolare ((di firma elettronica qualificata)) medesimo, di perdita del possesso o della compromissione del dispositivo di firma o degli strumenti di autenticazione informatica per l'utilizzo del dispositivo di firma, di provvedimento dell'autorita', di acquisizione della conoscenza di cause limitative della capacita' del titolare ((di firma elettronica qualificata)), di sospetti abusi o falsificazioni, secondo quanto previsto dalle ((Linee guida));
+                            h)
+                                garantire un servizio di revoca e sospensione dei certificati elettronici sicuro e tempestivo nonche' garantire il funzionamento efficiente, puntuale e sicuro degli elenchi dei certificati di firma emessi, sospesi e revocati;
+                            i)
+                                assicurare la precisa determinazione della data e dell'ora di rilascio, di revoca e di sospensione dei certificati elettronici;
+                            j)
+                                tenere registrazione, anche elettronica, di tutte le informazioni relative al certificato qualificato dal momento della sua emissione almeno per venti anni anche al fine di fornire prova della certificazione in eventuali procedimenti giudiziari;
+                            k)
+                                non copiare, ne' conservare, le chiavi private di firma del soggetto cui il prestatore di servizi di firma elettronica qualificata ha fornito il servizio di certificazione;
+                            l)
+                                predisporre su mezzi di comunicazione durevoli tutte le informazioni utili ai soggetti che richiedono il servizio di certificazione, tra cui in particolare gli esatti termini e condizioni relative all'uso del certificato, compresa ogni limitazione dell'uso, l'esistenza di un sistema di accreditamento facoltativo e le procedure di reclamo e di risoluzione delle controversie; dette informazioni, che possono essere trasmesse elettronicamente, devono essere scritte in linguaggio chiaro ed essere fornite prima dell'accordo tra il richiedente il servizio ed il prestatore di servizi di firma elettronica qualificata;
+                            m)
+                                utilizzare sistemi affidabili per la gestione del registro dei certificati con modalita' tali da garantire che soltanto le persone autorizzate possano effettuare inserimenti e modifiche, che l'autenticita' delle informazioni sia verificabile, che i certificati siano accessibili alla consultazione del pubblico soltanto nei casi consentiti dal titolare del certificato e che l'operatore possa rendersi conto di qualsiasi evento che comprometta i requisiti di sicurezza. Su richiesta, elementi pertinenti delle informazioni possono essere resi accessibili a terzi che facciano affidamento sul certificato.
+                            m-bis)
+                                garantire il corretto funzionamento e la continuita' del sistema e comunicare immediatamente a AgID e agli utenti eventuali malfunzionamenti che determinano disservizio, sospensione o interruzione del servizio stesso.
 
-certificati qualificati deve comunque:
+4.
 
-a) provvedere con certezza alla identificazione della persona che fa richiesta della certificazione;
+Il prestatore di servizi di firma elettronica qualificata e' responsabile dell'identificazione del soggetto che richiede il certificato qualificato di firma anche se tale attivita' e' delegata a terzi.
 
-b) rilasciare e rendere pubblico il certificato elettronico nei modi o nei casi stabiliti dalle
+5.
 
-((Linee guida))
+Il prestatore di servizi di firma elettronica qualificata raccoglie i dati personali direttamente dalla persona cui si riferiscono o, previo suo esplicito consenso, tramite il terzo, e soltanto nella misura necessaria al rilascio e al mantenimento del certificato, fornendo l'informativa prevista dall'[articolo 13 del decreto legislativo 30 giugno 2003, n. 196](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md). I dati non possono essere raccolti o elaborati per fini diversi senza l'espresso consenso della persona cui si riferiscono.
 
-, nel rispetto del [decreto legislativo 30 giugno 2003, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196), e successive modificazioni;
+### Art. 32-bis. — (Sanzioni per i prestatori di servizi fiduciari qualificati, per i gestori di posta elettronica certificata, per i gestori dell'identita' digitale e per i conservatori)
 
-c) specificare, nel certificato qualificato su richiesta dell'istante, e con il consenso del terzo interessato, i poteri di rappresentanza o altri titoli relativi all'attivita' professionale o a cariche rivestite, previa verifica della documentazione presentata dal richiedente che attesta la sussistenza degli stessi;
+1.
 
-d) attenersi alle
+L'AgID puo' irrogare ai prestatori di servizi fiduciari qualificati, ai gestori di posta elettronica certificata, ai gestori dell'identita' digitale e ai soggetti di cui all'articolo 34, comma 1-bis, lettera b) , che abbiano violato gli obblighi del Regolamento eIDAS o del presente Codice relative alla prestazione dei predetti servizi, sanzioni amministrative in relazione alla gravita' della violazione accertata e all'entita' del danno provocato all'utenza, per importi da un minimo di euro 40.000,00 a un massimo di euro 400.000,00, fermo restando il diritto al risarcimento del maggior danno. Le sanzioni per le violazioni commesse dai soggetti di cui all'articolo 34, comma 1-bis, lettera b), sono fissate nel minimo in euro 4.000,00 e nel massimo in euro 40.000,00. Le violazioni del presente Codice idonee a esporre a rischio i diritti e gli interessi di una pluralita' di utenti o relative a significative carenze infrastrutturali o di processo del fornitore di servizio si considerano gravi. AgID, laddove accerti tali gravi violazioni, dispone altresi' la cancellazione del fornitore del servizio dall'elenco dei soggetti qualificati e il divieto di accreditamento o qualificazione per un periodo fino ad un massimo di due anni. Le sanzioni vengono irrogate dal direttore generale dell'AgID ((...)).
+Si applica, in quanto compatibile, la disciplina della [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689).
 
-((Linee guida))
+1-bis.
 
-;
+L'AgID irroga la sanzione amministrativa di cui al comma 1 e diffida i soggetti a conformare la propria condotta agli obblighi previsti dalla disciplina vigente.
 
-e) informare i richiedenti in modo compiuto e chiaro, sulla procedura di certificazione e sui necessari requisiti tecnici per accedervi e sulle caratteristiche e sulle limitazioni d'uso delle firme emesse sulla base del servizio di certificazione;
+2.
 
-f) LETTERA SOPPRESSA DAL [D.LGS. 30 DICEMBRE 2010, N. 235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-30;235);
+Fatti salvi i casi di forza maggiore o di caso fortuito, qualora si verifichi un malfunzionamento nei servizi forniti dai soggetti di cui al comma 1 che determini l'interruzione del servizio, ovvero in caso di mancata o intempestiva comunicazione dello stesso disservizio a AgID o agli utenti, ai sensi dell'articolo 32, comma 3, lettera m-bis), AgID, ferma restando l'irrogazione delle sanzioni amministrative, diffida altresi' i soggetti di cui al comma 1 a ripristinare la regolarita' del servizio o ad effettuare le comunicazioni previste. Se l'interruzione del servizio ovvero la mancata o intempestiva comunicazione sono reiterati nel corso di un biennio, successivamente alla prima diffida si applica la sanzione della cancellazione dall'elenco pubblico.
 
-g) procedere alla tempestiva pubblicazione della revoca e della sospensione del certificato elettronico in caso di richiesta da parte del titolare
+3.
 
-((di firma elettronica qualificata))
+Nei casi di cui ai commi 1, 1-bis; e 2 puo' essere applicata la sanzione amministrativa accessoria della pubblicazione dei provvedimenti di diffida o di cancellazione secondo la legislazione vigente in materia di pubblicita' legale.
 
-o del terzo dal quale derivino i poteri del titolare
+4.
 
-((di firma elettronica qualificata))
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
-medesimo, di perdita del possesso o della compromissione del dispositivo di firma o degli strumenti di autenticazione informatica per l'utilizzo del dispositivo di firma, di provvedimento dell'autorita', di acquisizione della conoscenza di cause limitative della capacita' del titolare
+### Art. 33.
 
-((di firma elettronica qualificata))
+((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2017, N. 217))
 
-, di sospetti abusi o falsificazioni, secondo quanto previsto dalle
+### Art. 34. — Norme particolari per le pubbliche amministrazioni
 
-((Linee guida))
+1.
 
-;
+Ai fini della sottoscrizione, ove prevista, di documenti informatici di rilevanza esterna, le pubbliche amministrazioni:
+                            a)
+                                possono svolgere direttamente l'attivita' di rilascio dei certificati qualificati avendo a tale fine l'obbligo di qualificarsi ai sensi dell'articolo 29; tale attivita' puo' essere svolta esclusivamente nei confronti dei propri organi ed uffici, nonche' di categorie di terzi, pubblici o privati. PERIODO SOPPRESSO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md);
+                            b)
+                                possono rivolgersi a prestatori di servizi di firma digitale o di altra firma elettronica qualificata, secondo la vigente normativa in materia di contratti pubblici.
 
-h) garantire un servizio di revoca e sospensione dei certificati elettronici sicuro e tempestivo nonche' garantire il funzionamento efficiente, puntuale e sicuro degli elenchi dei certificati di firma emessi, sospesi e revocati;
+1-bis.
 
-i) assicurare la precisa determinazione della data e dell'ora di rilascio, di revoca e di sospensione dei certificati elettronici;
+Le pubbliche amministrazioni possono procedere alla conservazione dei documenti informatici:
+                            a)
+                                all'interno della propria struttura organizzativa;
+                            b)
+                                affidandola, in modo totale o parziale, nel rispetto della disciplina vigente, ad altri soggetti, pubblici o privati ((che possiedono i requisiti di qualita', di sicurezza e organizzazione individuati, nel rispetto della disciplina europea, nelle Linee guida di cui all'art 71 relative alla formazione, gestione e conservazione dei documenti informatici nonche' in un regolamento sui criteri per la fornitura dei servizi di conservazione dei documenti informatici emanato da AgID, avuto riguardo all'esigenza di assicurare la conformita' dei documenti conservati agli originali nonche' la qualita' e la sicurezza del sistema di conservazione.))
 
-j) tenere registrazione, anche elettronica, di tutte le informazioni relative al certificato qualificato dal momento della sua emissione almeno per venti anni anche al fine di fornire prova della certificazione in eventuali procedimenti giudiziari;
+2.
 
-k) non copiare, ne' conservare, le chiavi private di firma del soggetto cui il prestatore di servizi di firma elettronica qualificata ha fornito il servizio di certificazione;
+COMMA ABROGATO DAL [D.LGS. 13 DICEMBRE 2017, N. 217](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%2026%20agosto%202016%20n.%20179%20concernente%20modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislati_7b5fbda60218.md).
 
-l) predisporre su mezzi di comunicazione durevoli tutte le informazioni utili ai soggetti che richiedono il servizio di certificazione, tra cui in particolare gli esatti termini e condizioni relative all'uso del certificato, compresa ogni limitazione dell'uso, l'esistenza di un sistema di accreditamento facoltativo e le procedure di reclamo e di risoluzione delle controversie; dette informazioni, che possono essere trasmesse elettronicamente, devono essere scritte in linguaggio chiaro ed essere fornite prima dell'accordo tra il richiedente il servizio ed il prestatore di servizi di firma elettronica qualificata;
+3.
 
-m) utilizzare sistemi affidabili per la gestione del registro dei certificati con modalita' tali da garantire che soltanto le persone autorizzate possano effettuare inserimenti e modifiche, che l'autenticita' delle informazioni sia verificabile, che i certificati siano accessibili alla consultazione del pubblico soltanto nei casi consentiti dal titolare del certificato e che l'operatore possa rendersi conto di qualsiasi evento che comprometta i requisiti di sicurezza. Su richiesta, elementi pertinenti delle informazioni possono essere resi accessibili a terzi che facciano affidamento sul certificato.
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
-m-bis) garantire il corretto funzionamento e la continuita' del sistema e comunicare immediatamente a AgID e agli utenti eventuali malfunzionamenti che determinano disservizio, sospensione o interruzione del servizio stesso.
+4.
 
-4. Il prestatore di servizi di firma elettronica qualificata e' responsabile dell'identificazione del soggetto che richiede il certificato qualificato di firma anche se tale attivita' e' delegata a terzi.
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
-5. Il prestatore di servizi di firma elettronica qualificata raccoglie i dati personali direttamente dalla persona cui si riferiscono o, previo suo esplicito consenso, tramite il terzo, e soltanto nella misura necessaria al rilascio e al mantenimento del certificato, fornendo l'informativa prevista dall'[articolo 13 del decreto legislativo 30 giugno 2003, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art13). I dati non possono essere raccolti o elaborati per fini diversi senza l'espresso consenso della persona cui si riferiscono.
+5.
 
-### Art. 32-bis
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
-(Sanzioni per i prestatori di servizi fiduciari qualificati, per i gestori di posta elettronica certificata, per i gestori dell'identita' digitale e per i conservatori)
+### Art. 35. — Dispositivi sicuri e procedure per la generazione della firma qualificata
 
-1. L'AgID puo' irrogare ai prestatori di servizi fiduciari qualificati, ai gestori di posta elettronica certificata, ai gestori dell'identita' digitale e ai soggetti di cui all'articolo 34, comma 1-bis, lettera b) , che abbiano violato gli obblighi del Regolamento eIDAS o del presente Codice relative alla prestazione dei predetti servizi, sanzioni amministrative in relazione alla gravita' della violazione accertata e all'entita' del danno provocato all'utenza, per importi da un minimo di euro 40.000,00 a un massimo di euro 400.000,00, fermo restando il diritto al risarcimento del maggior danno. Le sanzioni per le violazioni commesse dai soggetti di cui all'articolo 34, comma 1-bis, lettera b), sono fissate nel minimo in euro 4.000,00 e nel massimo in euro 40.000,00. Le violazioni del presente Codice idonee a esporre a rischio i diritti e gli interessi di una pluralita' di utenti o relative a significative carenze infrastrutturali o di processo del fornitore di servizio si considerano gravi. AgID, laddove accerti tali gravi violazioni, dispone altresi' la cancellazione del fornitore del servizio dall'elenco dei soggetti qualificati e il divieto di accreditamento o qualificazione per un periodo fino ad un massimo di due anni. Le sanzioni vengono irrogate dal direttore generale dell'AgID
+1.
 
-((...))
+I dispositivi sicuri e le procedure utilizzate per la generazione delle firme devono presentare requisiti di sicurezza tali da garantire che la chiave privata:
+                            a)
+                                sia riservata;
+                            b)
+                                non possa essere derivata e che la relativa firma sia protetta da contraffazioni;
+                            c)
+                                possa essere sufficientemente protetta dal titolare dall'uso da parte di terzi. 
+ 1-bis) Fermo restando quanto previsto dal comma 1, i dispositivi per la creazione di una firma elettronica qualificata o di un sigillo elettronico soddisfano i requisiti di cui all'Allegato II del Regolamento eIDAS.
 
-.  
-Si applica, in quanto compatibile, la disciplina della [legge 24 novembre 1981, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689).
+2.
 
-1-bis. L'AgID irroga la sanzione amministrativa di cui al comma 1 e diffida i soggetti a conformare la propria condotta agli obblighi previsti dalla disciplina vigente.
+I dispositivi sicuri e le procedure di cui al comma 1 devono garantire l'integrita' dei documenti informatici a cui la firma si riferisce. I documenti informatici devono essere presentati al titolare ((di firma elettronica)), prima dell'apposizione della firma, chiaramente e senza ambiguita', e si deve richiedere conferma della volonta' di generare la firma secondo quanto previsto dalle ((Linee guida)).
 
-2. Fatti salvi i casi di forza maggiore o di caso fortuito, qualora si verifichi un malfunzionamento nei servizi forniti dai soggetti di cui al comma 1 che determini l'interruzione del servizio, ovvero in caso di mancata o intempestiva comunicazione dello stesso disservizio a AgID o agli utenti, ai sensi dell'articolo 32, comma 3, lettera m-bis), AgID, ferma restando l'irrogazione delle sanzioni amministrative, diffida altresi' i soggetti di cui al comma 1 a ripristinare la regolarita' del servizio o ad effettuare le comunicazioni previste. Se l'interruzione del servizio ovvero la mancata o intempestiva comunicazione sono reiterati nel corso di un biennio, successivamente alla prima diffida si applica la sanzione della cancellazione dall'elenco pubblico.
+3.
 
-3. Nei casi di cui ai commi 1, 1-bis; e 2 puo' essere applicata la sanzione amministrativa accessoria della pubblicazione dei provvedimenti di diffida o di cancellazione secondo la legislazione vigente in materia di pubblicita' legale.
+Il secondo periodo del comma 2 non si applica alle firme apposte con procedura automatica. La firma con procedura automatica e' valida se apposta previo consenso del titolare all'adozione della procedura medesima.
 
-4. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
+4.
 
-### Art. 33
+I dispositivi sicuri di firma devono essere dotati di certificazione di sicurezza ai sensi dello schema nazionale di cui al comma 5.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 13 DICEMBRE 2017, N. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217)))
+5.
 
-### Art. 34
-
-Norme particolari per le pubbliche amministrazioni
-
-1. Ai fini della sottoscrizione, ove prevista, di documenti informatici di rilevanza esterna, le pubbliche amministrazioni:
-
-a) possono svolgere direttamente l'attivita' di rilascio dei certificati qualificati avendo a tale fine l'obbligo di qualificarsi ai sensi dell'articolo 29; tale attivita' puo' essere svolta esclusivamente nei confronti dei propri organi ed uffici, nonche' di categorie di terzi, pubblici o privati. PERIODO SOPPRESSO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179);
-
-b) possono rivolgersi a prestatori di servizi di firma digitale o di altra firma elettronica qualificata, secondo la vigente normativa in materia di contratti pubblici.
-
-1-bis. Le pubbliche amministrazioni possono procedere alla conservazione dei documenti informatici:
-
-a) all'interno della propria struttura organizzativa;
-
-b) affidandola, in modo totale o parziale, nel rispetto della disciplina vigente, ad altri soggetti, pubblici o privati
-
-((che possiedono i requisiti di qualita', di sicurezza e organizzazione individuati, nel rispetto della disciplina europea, nelle Linee guida di cui all'art 71 relative alla formazione, gestione e conservazione dei documenti informatici nonche' in un regolamento sui criteri per la fornitura dei servizi di conservazione dei documenti informatici emanato da AgID, avuto riguardo all'esigenza di assicurare la conformita' dei documenti conservati agli originali nonche' la qualita' e la sicurezza del sistema di conservazione.))
-
-2. COMMA ABROGATO DAL [D.LGS. 13 DICEMBRE 2017, N. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217).
-
-3. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
-
-4. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
-
-5. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
-
-### Art. 35
-
-Dispositivi sicuri e procedure per la generazione della firma qualificata
-
-1. I dispositivi sicuri e le procedure utilizzate per la generazione delle firme devono presentare requisiti di sicurezza tali da garantire che la chiave privata:
-
-a) sia riservata;
-
-b) non possa essere derivata e che la relativa firma sia protetta da contraffazioni;
-
-c) possa essere sufficientemente protetta dal titolare dall'uso da parte di terzi.   
-1-bis) Fermo restando quanto previsto dal comma 1, i dispositivi per la creazione di una firma elettronica qualificata o di un sigillo elettronico soddisfano i requisiti di cui all'Allegato II del Regolamento eIDAS.
-
-2. I dispositivi sicuri e le procedure di cui al comma 1 devono garantire l'integrita' dei documenti informatici a cui la firma si riferisce. I documenti informatici devono essere presentati al titolare
-
-((di firma elettronica))
-
-, prima dell'apposizione della firma, chiaramente e senza ambiguita', e si deve richiedere conferma della volonta' di generare la firma secondo quanto previsto dalle
-
-((Linee guida))
-
-.
-
-3. Il secondo periodo del comma 2 non si applica alle firme apposte con procedura automatica. La firma con procedura automatica e' valida se apposta previo consenso del titolare all'adozione della procedura medesima.
-
-4. I dispositivi sicuri di firma devono essere dotati di certificazione di sicurezza ai sensi dello schema nazionale di cui al comma 5.
-
-5. La conformita' dei requisiti di sicurezza dei dispositivi per la creazione di una firma elettronica qualificata o di un sigillo elettronico prescritti dall'Allegato II del regolamento eIDAS e' accertata, in Italia, dall'Organismo di certificazione della sicurezza informatica in base allo schema nazionale per la valutazione e certificazione di sicurezza nel settore della tecnologia dell'informazione, fissato con decreto del Presidente del Consiglio dei Ministri, o, per sua delega, del Ministro per l'innovazione e le tecnologie, di concerto con i Ministri delle comunicazioni, delle attivita' produttive e dell'economia e delle finanze. L'attuazione dello schema nazionale non deve determinare nuovi o maggiori oneri per il bilancio dello Stato. Lo schema nazionale puo' prevedere altresi' la valutazione e la certificazione relativamente ad ulteriori criteri europei ed internazionali, anche riguardanti altri sistemi e prodotti afferenti al settore suddetto.  
+La conformita' dei requisiti di sicurezza dei dispositivi per la creazione di una firma elettronica qualificata o di un sigillo elettronico prescritti dall'Allegato II del regolamento eIDAS e' accertata, in Italia, dall'Organismo di certificazione della sicurezza informatica in base allo schema nazionale per la valutazione e certificazione di sicurezza nel settore della tecnologia dell'informazione, fissato con decreto del Presidente del Consiglio dei Ministri, o, per sua delega, del Ministro per l'innovazione e le tecnologie, di concerto con i Ministri delle comunicazioni, delle attivita' produttive e dell'economia e delle finanze. L'attuazione dello schema nazionale non deve determinare nuovi o maggiori oneri per il bilancio dello Stato. Lo schema nazionale puo' prevedere altresi' la valutazione e la certificazione relativamente ad ulteriori criteri europei ed internazionali, anche riguardanti altri sistemi e prodotti afferenti al settore suddetto.
 La valutazione della conformita' del sistema e degli strumenti di autenticazione utilizzati dal titolare delle chiavi di firma e' effettuata dall'Agenzia per l'Italia digitale in conformita' ad apposite linee guida da questa emanate, acquisito il parere obbligatorio dell'Organismo di certificazione della sicurezza informatica.
 
-6. La conformita' di cui al comma 5 e' inoltre riconosciuta se accertata da un organismo all'uopo designato da un altro Stato membro e notificato ai sensi dell'articolo 30, comma 2, del Regolamento eIDAS. Ove previsto dall'organismo di cui al periodo precedente, la valutazione della conformita' del sistema e degli strumenti di autenticazione utilizzati dal titolare delle chiavi di firma e' effettuata dall'AgID in conformita' alle linee guida di cui al comma 5.
+6.
 
-### Art. 36
+La conformita' di cui al comma 5 e' inoltre riconosciuta se accertata da un organismo all'uopo designato da un altro Stato membro e notificato ai sensi dell'articolo 30, comma 2, del Regolamento eIDAS. Ove previsto dall'organismo di cui al periodo precedente, la valutazione della conformita' del sistema e degli strumenti di autenticazione utilizzati dal titolare delle chiavi di firma e' effettuata dall'AgID in conformita' alle linee guida di cui al comma 5.
 
-Revoca e sospensione dei certificati qualificati
+### Art. 36. — Revoca e sospensione dei certificati qualificati
 
-1. Il certificato qualificato deve essere a cura del certificatore:
+1.
 
-a) revocato in caso di cessazione dell'attivita' del certificatore salvo quanto previsto dal comma 2 dell'articolo 37;
+Il certificato qualificato deve essere a cura del certificatore:
+                            a)
+                                revocato in caso di cessazione dell'attivita' del certificatore salvo quanto previsto dal comma 2 dell'articolo 37;
+                            b)
+                                revocato o sospeso in esecuzione di un provvedimento dell'autorita';
+                            c)
+                                revocato o sospeso a seguito di richiesta del titolare o del terzo dal quale derivano i poteri del titolare, secondo le modalita' previste nel presente codice;
+                            d)
+                                revocato o sospeso in presenza di cause limitative della capacita' del titolare o di abusi o falsificazioni.
 
-b) revocato o sospeso in esecuzione di un provvedimento dell'autorita';
+2.
 
-c) revocato o sospeso a seguito di richiesta del titolare o del terzo dal quale derivano i poteri del titolare, secondo le modalita' previste nel presente codice;
+Il certificato qualificato puo', inoltre, essere revocato o sospeso nei casi previsti dalle ((Linee guida))
+                                ((, per violazione delle regole tecniche ivi contenute)).
 
-d) revocato o sospeso in presenza di cause limitative della capacita' del titolare o di abusi o falsificazioni.
+3.
 
-2. Il certificato qualificato puo', inoltre, essere revocato o sospeso nei casi previsti dalle
+La revoca o la sospensione del certificato qualificato, qualunque ne sia la causa, ha effetto dal momento della pubblicazione della lista che lo contiene. Il momento della pubblicazione deve essere attestato mediante adeguato riferimento temporale.
 
-((Linee guida))
+4.
 
-((, per violazione delle regole tecniche ivi contenute))
+Le modalita' di revoca o sospensione sono previste nelle ((Linee guida)).
 
-.
+### Art. 37. — Cessazione dell'attivita'
 
-3. La revoca o la sospensione del certificato qualificato, qualunque ne sia la causa, ha effetto dal momento della pubblicazione della lista che lo contiene. Il momento della pubblicazione deve essere attestato mediante adeguato riferimento temporale.
+1.
 
-4. Le modalita' di revoca o sospensione sono previste nelle
+((Il prestatore di servizi fiduciari qualificato)) che intende cessare l'attivita' deve, almeno sessanta giorni prima della data di cessazione, darne avviso al ((AgID)) e informare senza indugio i titolari dei certificati da lui emessi specificando che tutti i certificati non scaduti al momento della cessazione saranno revocati.
 
-((Linee guida))
+2.
 
-.
+Il ((prestatore)) di cui al comma 1 comunica contestualmente la rilevazione della documentazione da parte di altro ((prestatore)) o l'annullamento della stessa. L'indicazione di un ((prestatore di servizi fiduciari qualificato)) sostitutivo evita la revoca di tutti i certificati non scaduti al momento della cessazione.
 
-### Art. 37
+3.
 
-Cessazione dell'attivita'
+Il ((prestatore)) di cui al comma 1 indica altro depositario del registro dei certificati e della relativa documentazione.
 
-1. 
+4.
 
-((Il prestatore di servizi fiduciari qualificato))
+Il ((AgID)) rende nota la data di cessazione dell'attivita' del ((prestatore di cui al comma 1)) tramite l'elenco di cui all'articolo 29, comma 6.
 
-che intende cessare l'attivita' deve, almeno sessanta giorni prima della data di cessazione, darne avviso al
+4-bis.
 
-((AgID))
-
-e informare senza indugio i titolari dei certificati da lui emessi specificando che tutti i certificati non scaduti al momento della cessazione saranno revocati.
-
-2. Il
-
-((prestatore))
-
-di cui al comma 1 comunica contestualmente la rilevazione della documentazione da parte di altro
-
-((prestatore))
-
-o l'annullamento della stessa. L'indicazione di un
-
-((prestatore di servizi fiduciari qualificato))
-
-sostitutivo evita la revoca di tutti i certificati non scaduti al momento della cessazione.
-
-3. Il
-
-((prestatore))
-
-di cui al comma 1 indica altro depositario del registro dei certificati e della relativa documentazione.
-
-4. Il
-
-((AgID))
-
-rende nota la data di cessazione dell'attivita' del
-
-((prestatore di cui al comma 1))
-
-tramite l'elenco di cui all'articolo 29, comma 6.
-
-4-bis. Qualora il
-
-((prestatore di cui al comma 1))
-
-cessi la propria attivita' senza indicare, ai sensi del comma 2,
-
-((un prestatore di servizi fiduciari qualificato))
-
-sostitutivo e non si impegni a garantire la conservazione e la disponibilita' della documentazione prevista dagli articoli 33 e 32, comma 3, lettera j) e delle ultime liste di revoca emesse, deve provvedere al deposito presso
-
-((AgID))
-
-che ne garantisce la conservazione e la disponibilita'.
+Qualora il ((prestatore di cui al comma 1)) cessi la propria attivita' senza indicare, ai sensi del comma 2, ((un prestatore di servizi fiduciari qualificato)) sostitutivo e non si impegni a garantire la conservazione e la disponibilita' della documentazione prevista dagli articoli 33 e 32, comma 3, lettera j) e delle ultime liste di revoca emesse, deve provvedere al deposito presso ((AgID)) che ne garantisce la conservazione e la disponibilita'.
 
 ((
 
-4-ter. Nel caso in cui il prestatore di cui al comma 1 non ottemperi agli obblighi previsti dal presente articolo, AgID intima al prestatore di ottemperarvi entro un termine non superiore a trenta giorni. In caso di mancata ottemperanza entro il suddetto termine, si applicano le sanzioni di cui all'articolo 32-bis; le sanzioni pecuniarie previste dal predetto articolo sono aumentate fino al doppio.
+4-ter.
+
+Nel caso in cui il prestatore di cui al comma 1 non ottemperi agli obblighi previsti dal presente articolo, AgID intima al prestatore di ottemperarvi entro un termine non superiore a trenta giorni. In caso di mancata ottemperanza entro il suddetto termine, si applicano le sanzioni di cui all'articolo 32-bis; le sanzioni pecuniarie previste dal predetto articolo sono aumentate fino al doppio.
 
 ))
 
-CAPO VI - Sezione III ((Trasferimenti di fondi, libri e scritture))
--------------------------------------------------------------------
+## Sezione III ((Trasferimenti di fondi, libri e scritture))
 
-### Art. 38
+-
 
-Trasferimenti di fondi
+### Art. 38. — Trasferimenti di fondi
 
-1. Il trasferimento in via telematica di fondi tra pubbliche amministrazioni e tra queste e soggetti privati e' effettuato secondo le
+1.
 
-((Linee guida))
+Il trasferimento in via telematica di fondi tra pubbliche amministrazioni e tra queste e soggetti privati e' effettuato secondo le ((Linee guida))
+                                ((, sentiti il Dipartimento della funzione pubblica, i Ministeri della giustizia e dell'economia e delle finanze, nonche')) il Garante per la protezione dei dati personali e la Banca d'Italia.
 
-((, sentiti il Dipartimento della funzione pubblica, i Ministeri della giustizia e dell'economia e delle finanze, nonche'))
+### Art. 39. — Libri e scritture
 
-il Garante per la protezione dei dati personali e la Banca d'Italia.
+1.
 
-### Art. 39
+I libri, i repertori e le scritture, ivi compresi quelli previsti dalla legge sull'ordinamento del notariato e degli archivi notarili, di cui sia obbligatoria la tenuta possono essere formati e conservati su supporti informatici in conformita' alle disposizioni del presente codice e secondo le ((Linee guida)).
 
-Libri e scritture
-
-1. I libri, i repertori e le scritture, ivi compresi quelli previsti dalla legge sull'ordinamento del notariato e degli archivi notarili, di cui sia obbligatoria la tenuta possono essere formati e conservati su supporti informatici in conformita' alle disposizioni del presente codice e secondo le
-
-((Linee guida))
-
-.
-
-CAPO VII - Capo III ((GESTIONE, CONSERVAZIONE E
+## Capo III ((GESTIONE, CONSERVAZIONE E
 ACCESSIBILITA' DEI DOCUMENTI E FASCICOLI INFORMATICI)) ((Sezione I Documenti della pubblica amministrazione))
--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Art. 40
+-
 
-Formazione di documenti informatici
+### Art. 40. — Formazione di documenti informatici
 
-1. Le pubbliche amministrazioni formano gli originali dei propri documenti, inclusi quelli inerenti ad albi, elenchi e pubblici registri, con mezzi informatici secondo le disposizioni di cui al presente codice e le
+1.
 
-((Linee guida))
+Le pubbliche amministrazioni formano gli originali dei propri documenti, inclusi quelli inerenti ad albi, elenchi e pubblici registri, con mezzi informatici secondo le disposizioni di cui al presente codice e le ((Linee guida)).
 
-.
+2.
 
-2. COMMA ABROGATO DAL [D.LGS. 30 DICEMBRE 2010, N. 235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-30;235).
+COMMA ABROGATO DAL [D.LGS. 30 DICEMBRE 2010, N. 235](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20recante%20Codice%20dellamministrazione%20digitale%20a%20norma%20dellarticolo%2033%20della%20legge%2018%20giugno%202009%20n.%2069.%2011G0002.md).
 
-3. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
+3.
 
-4. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
-### Art. 40-bis
+4.
 
-(Protocollo informatico)
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
-1. Formano comunque oggetto di registrazione di protocollo ai sensi dell'[articolo 53 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445~art53), le comunicazioni che
+### Art. 40-bis. — (Protocollo informatico)
 
-((provengono da o sono inviate a domicili digitali eletti ai sensi di quanto previsto all'articolo 3-bis,))
+1.
 
-nonche' le istanze e le dichiarazioni di cui all'articolo 65 in conformita' alle
+Formano comunque oggetto di registrazione di protocollo ai sensi dell'[articolo 53 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), le comunicazioni che ((provengono da o sono inviate a domicili digitali eletti ai sensi di quanto previsto all'articolo 3-bis,)) nonche' le istanze e le dichiarazioni di cui all'articolo 65 in conformita' alle ((Linee guida)).
 
-((Linee guida))
-
-.
-
-### Art. 40-ter
-
-(( (Sistema pubblico di ricerca documentale).))
+### Art. 40-ter. — (( (Sistema pubblico di ricerca documentale).))
 
 ((
 
-1. La Presidenza del Consiglio dei ministri promuove lo sviluppo e la sperimentazione di un sistema volto a facilitare la ricerca dei documenti soggetti a obblighi di pubblicita' legale, trasparenza o a registrazione di protocollo ai sensi dell'[articolo 53 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445~art53), e di cui all'articolo 40-bis e dei fascicoli dei procedimenti di cui all'articolo 41, nonche' a consentirne l'accesso on-line ai soggetti che ne abbiano diritto ai sensi della disciplina vigente.
+1.
+
+La Presidenza del Consiglio dei ministri promuove lo sviluppo e la sperimentazione di un sistema volto a facilitare la ricerca dei documenti soggetti a obblighi di pubblicita' legale, trasparenza o a registrazione di protocollo ai sensi dell'[articolo 53 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), e di cui all'articolo 40-bis e dei fascicoli dei procedimenti di cui all'articolo 41, nonche' a consentirne l'accesso on-line ai soggetti che ne abbiano diritto ai sensi della disciplina vigente.
 
 ))
 
-CAPO VIII - ((Sezione II Gestione e conservazione dei documenti))
------------------------------------------------------------------
+## ((Sezione II Gestione e conservazione dei documenti))
 
-### Art. 41
+-
 
-Procedimento e fascicolo informatico
+### Art. 41. — Procedimento e fascicolo informatico
 
-1. Le pubbliche amministrazioni gestiscono i procedimenti amministrativi utilizzando le tecnologie dell'informazione e della comunicazione. Per ciascun procedimento amministrativo di loro competenza, esse forniscono gli opportuni servizi di interoperabilita'
+1.
 
-((o integrazione))
+Le pubbliche amministrazioni gestiscono i procedimenti amministrativi utilizzando le tecnologie dell'informazione e della comunicazione. Per ciascun procedimento amministrativo di loro competenza, esse forniscono gli opportuni servizi di interoperabilita' ((o integrazione)), ai sensi di quanto previsto ((dagli articoli 12 e 64-bis)).
 
-, ai sensi di quanto previsto
+1-bis.
 
-((dagli articoli 12 e 64-bis))
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
-.
+2.
 
-1-bis. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
+La pubblica amministrazione titolare del procedimento raccoglie in un fascicolo informatico gli atti, i documenti e i dati del procedimento medesimo da chiunque formati; all'atto della comunicazione dell'avvio del procedimento ai sensi dell'[articolo 8 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_8), comunica agli interessati le modalita' per esercitare in via telematica i diritti di cui all'articolo 10 della citata [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241). (28)
 
-2. La pubblica amministrazione titolare del procedimento raccoglie in un fascicolo informatico gli atti, i documenti e i dati del procedimento medesimo da chiunque formati; all'atto della comunicazione dell'avvio del procedimento ai sensi dell'[articolo 8 della legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art8), comunica agli interessati le modalita' per esercitare in via telematica i diritti di cui all'articolo 10 della citata [legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241). (28)
+2-bis.
 
-2-bis. Il fascicolo informatico e' realizzato garantendo la possibilita' di essere direttamente consultato ed alimentato da tutte le amministrazioni coinvolte nel procedimento
+Il fascicolo informatico e' realizzato garantendo la possibilita' di essere direttamente consultato ed alimentato da tutte le amministrazioni coinvolte nel procedimento ((e dagli interessati, nei limiti ed alle condizioni previste dalla disciplina vigente, attraverso i servizi di cui agli articoli 40-ter e 64-bis)). ((Le Linee guida)) per la costituzione, l'identificazione ((, l'accessibilita' attraverso i suddetti servizi)) e l'utilizzo del fascicolo ((sono dettate dall'AgID ai sensi dell'articolo 71 e)) sono conformi ai principi di una corretta gestione documentale ed alla disciplina della formazione, gestione, conservazione e trasmissione del documento informatico, ivi comprese le regole concernenti il protocollo informatico ed il sistema pubblico di connettivita', e comunque rispettano i criteri dell'interoperabilita' e ((dell'integrazione)).
 
-((e dagli interessati, nei limiti ed alle condizioni previste dalla disciplina vigente, attraverso i servizi di cui agli articoli 40-ter e 64-bis))
+2-ter.
 
-.
+Il fascicolo informatico reca l'indicazione:
+                            a)
+                                dell'amministrazione titolare del procedimento, che cura la costituzione e la gestione del fascicolo medesimo;
+                            b)
+                                delle altre amministrazioni partecipanti;
+                            c)
+                                del responsabile del procedimento;
+                            d)
+                                dell'oggetto del procedimento;
+                            e)
+                                dell'elenco dei documenti contenuti, salvo quanto disposto dal comma 2-quater.
+                            e-bis)
+                                dell'identificativo del fascicolo medesimo ((apposto con modalita' idonee a consentirne l'indicizzazione e la ricerca attraverso il sistema di cui all'articolo 40-ter nel rispetto delle Linee guida)).
 
-((Le Linee guida))
+2-quater.
 
-per la costituzione, l'identificazione
+Il fascicolo informatico puo' contenere aree a cui hanno accesso solo l'amministrazione titolare e gli altri soggetti da essa individuati; esso e' formato in modo da garantire la corretta collocazione, la facile reperibilita' e la collegabilita', in relazione al contenuto ed alle finalita', ((dei singoli documenti. Il fascicolo informatico)) e' inoltre costituito in modo da garantire l'esercizio in via telematica dei diritti previsti dalla citata [legge n. 241 del 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;241) ((e dall'articolo 5, comma 2, del decreto legislativo 14 marzo 2013, n. 33, nonche' l'immediata conoscibilita' anche attraverso i servizi di cui agli articoli 40-ter e 64-bis, sempre per via telematica, dello stato di avanzamento del procedimento, del nominativo e del recapito elettronico del responsabile del procedimento. AgID detta, ai sensi dell'articolo 71, Linee guida idonee a garantire l'interoperabilita' tra i sistemi di gestione dei fascicoli dei procedimenti e i servizi di cui agli articoli 40-ter e 64-bis)).
 
-((, l'accessibilita' attraverso i suddetti servizi))
+3.
 
-e l'utilizzo del fascicolo
-
-((sono dettate dall'AgID ai sensi dell'articolo 71 e))
-
-sono conformi ai principi di una corretta gestione documentale ed alla disciplina della formazione, gestione, conservazione e trasmissione del documento informatico, ivi comprese le regole concernenti il protocollo informatico ed il sistema pubblico di connettivita', e comunque rispettano i criteri dell'interoperabilita' e
-
-((dell'integrazione))
-
-.
-
-2-ter. Il fascicolo informatico reca l'indicazione:
-
-a) dell'amministrazione titolare del procedimento, che cura la costituzione e la gestione del fascicolo medesimo;
-
-b) delle altre amministrazioni partecipanti;
-
-c) del responsabile del procedimento;
-
-d) dell'oggetto del procedimento;
-
-e) dell'elenco dei documenti contenuti, salvo quanto disposto dal comma 2-quater.
-
-e-bis) dell'identificativo del fascicolo medesimo
-
-((apposto con modalita' idonee a consentirne l'indicizzazione e la ricerca attraverso il sistema di cui all'articolo 40-ter nel rispetto delle Linee guida))
-
-.
-
-2-quater. Il fascicolo informatico puo' contenere aree a cui hanno accesso solo l'amministrazione titolare e gli altri soggetti da essa individuati; esso e' formato in modo da garantire la corretta collocazione, la facile reperibilita' e la collegabilita', in relazione al contenuto ed alle finalita',
-
-((dei singoli documenti. Il fascicolo informatico))
-
-e' inoltre costituito in modo da garantire l'esercizio in via telematica dei diritti previsti dalla citata [legge n. 241 del 1990](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;241)
-
-((e dall'[articolo 5, comma 2, del decreto legislativo 14 marzo 2013, n. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33~art5-com2), nonche' l'immediata conoscibilita' anche attraverso i servizi di cui agli articoli 40-ter e 64-bis, sempre per via telematica, dello stato di avanzamento del procedimento, del nominativo e del recapito elettronico del responsabile del procedimento. AgID detta, ai sensi dell'articolo 71, Linee guida idonee a garantire l'interoperabilita' tra i sistemi di gestione dei fascicoli dei procedimenti e i servizi di cui agli articoli 40-ter e 64-bis))
-
-.
-
-3. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
 --------------
 
 AGGIORNAMENTO (28)
 
-Il [D.Lgs. 26 agosto 2016, n. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179) ha disposto (con l'art. 61, comma 2, lettera d)) che l' espressione «chiunque», ovunque ricorra, si intende come «soggetti giuridici».
+Il [D.Lgs. 26 agosto 2016, n. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md) ha disposto (con l'art. 61, comma 2, lettera d)) che l' espressione «chiunque», ovunque ricorra, si intende come «soggetti giuridici».
 
-### Art. 42
+### Art. 42. — Dematerializzazione dei documenti delle pubbliche amministrazioni
 
-Dematerializzazione dei documenti delle pubbliche amministrazioni
+1.
 
-1. Le pubbliche amministrazioni valutano in termini di rapporto tra costi e benefici il recupero su supporto informatico dei documenti e degli atti cartacei dei quali sia obbligatoria o opportuna la conservazione e provvedono alla predisposizione dei conseguenti piani di sostituzione degli archivi cartacei con archivi informatici, nel rispetto delle
+Le pubbliche amministrazioni valutano in termini di rapporto tra costi e benefici il recupero su supporto informatico dei documenti e degli atti cartacei dei quali sia obbligatoria o opportuna la conservazione e provvedono alla predisposizione dei conseguenti piani di sostituzione degli archivi cartacei con archivi informatici, nel rispetto delle ((Linee guida)).
 
-((Linee guida))
-
-.
-
-### Art. 43
-
-((Conservazione ed esibizione dei documenti))
+### Art. 43. — ((Conservazione ed esibizione dei documenti))
 
 ((
 
-1. Gli obblighi di conservazione e di esibizione di documenti si intendono soddisfatti a tutti gli effetti di legge a mezzo di documenti informatici, se le relative procedure sono effettuate in modo tale da garantire la conformita' ai documenti originali e sono conformi alle Linee guida.
+1.
+
+Gli obblighi di conservazione e di esibizione di documenti si intendono soddisfatti a tutti gli effetti di legge a mezzo di documenti informatici, se le relative procedure sono effettuate in modo tale da garantire la conformita' ai documenti originali e sono conformi alle Linee guida.
 
 ))
 
-1-bis. Se il documento informatico e' conservato per legge da uno dei soggetti di cui all'articolo 2, comma 2, cessa l'obbligo di conservazione a carico dei cittadini e delle imprese che possono in ogni momento richiedere accesso al documento stesso
+1-bis.
 
-((ai medesimi soggetti di cui all'articolo 2, comma 2. Le amministrazioni rendono disponibili a cittadini ed imprese i predetti documenti attraverso servizi on-line accessibili previa identificazione con l'identita' digitale di cui all'articolo 64 ed integrati con i servizi di cui agli articoli 40-ter e 64-bis))
+Se il documento informatico e' conservato per legge da uno dei soggetti di cui all'articolo 2, comma 2, cessa l'obbligo di conservazione a carico dei cittadini e delle imprese che possono in ogni momento richiedere accesso al documento stesso ((ai medesimi soggetti di cui all'articolo 2, comma 2. Le amministrazioni rendono disponibili a cittadini ed imprese i predetti documenti attraverso servizi on-line accessibili previa identificazione con l'identita' digitale di cui all'articolo 64 ed integrati con i servizi di cui agli articoli 40-ter e 64-bis)).
 
-.
+2.
 
-2. Restano validi i documenti degli archivi, le scritture contabili, la corrispondenza ed ogni atto, dato o documento gia' conservati mediante riproduzione su supporto fotografico, su supporto ottico o con altro processo idoneo a garantire la conformita' dei documenti agli originali
+Restano validi i documenti degli archivi, le scritture contabili, la corrispondenza ed ogni atto, dato o documento gia' conservati mediante riproduzione su supporto fotografico, su supporto ottico o con altro processo idoneo a garantire la conformita' dei documenti agli originali ((ai sensi della disciplina vigente al momento dell'invio dei singoli documenti nel sistema di conservazione)).
 
-((ai sensi della disciplina vigente al momento dell'invio dei singoli documenti nel sistema di conservazione))
+3.
 
-.
+I documenti informatici, di cui e' prescritta la conservazione per legge o regolamento, possono essere archiviati per le esigenze correnti anche con modalita' cartacee e sono conservati in modo permanente con modalita' digitali, nel rispetto delle ((Linee guida)).
 
-3. I documenti informatici, di cui e' prescritta la conservazione per legge o regolamento, possono essere archiviati per le esigenze correnti anche con modalita' cartacee e sono conservati in modo permanente con modalita' digitali, nel rispetto delle
+4.
 
-((Linee guida))
+Sono fatti salvi i poteri di controllo del Ministero per i beni e le attivita' culturali sugli archivi delle pubbliche amministrazioni e sugli archivi privati dichiarati di notevole interesse storico ai sensi delle disposizioni del [decreto legislativo 22 gennaio 2004, n. 42](Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md).
 
-.
-
-4. Sono fatti salvi i poteri di controllo del Ministero per i beni e le attivita' culturali sugli archivi delle pubbliche amministrazioni e sugli archivi privati dichiarati di notevole interesse storico ai sensi delle disposizioni del [decreto legislativo 22 gennaio 2004, n. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42).
-
-### Art. 44
+### Art. 44.
 
 Requisiti per la gestione e conservazione dei documenti informatici
 
-1. Il sistema di gestione informatica dei documenti delle pubbliche amministrazioni, di cui all'[articolo 52 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445~art52), e' organizzato e gestito, anche in modo da assicurare l'indicizzazione e la ricerca dei documenti e fascicoli informatici attraverso il sistema di cui all'articolo 40-ter nel rispetto delle Linee guida.
+1.
 
-1-bis. Il sistema di gestione dei documenti informatici delle pubbliche amministrazioni e' gestito da un responsabile che opera d'intesa con il dirigente dell'ufficio di cui all'articolo 17 del presente Codice, il responsabile del trattamento dei dati personali di cui all'[articolo 29 del decreto legislativo 30 giugno 2003, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art29), ove nominato, e con il responsabile del sistema della conservazione dei documenti informatici delle pubbliche amministrazioni, nella definizione e gestione delle attivita' di rispettiva competenza. Almeno una volta all'anno il responsabile della gestione dei documenti informatici provvede a trasmettere al sistema di conservazione i fascicoli e le serie documentarie anche relative a procedimenti non conclusi.
+Il sistema di gestione informatica dei documenti delle pubbliche amministrazioni, di cui all'[articolo 52 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), e' organizzato e gestito, anche in modo da assicurare l'indicizzazione e la ricerca dei documenti e fascicoli informatici attraverso il sistema di cui all'articolo 40-ter nel rispetto delle Linee guida.
 
-1-ter. 
+1-bis.
 
-((In tutti i casi in cui la legge prescrive obblighi di conservazione, anche a carico di soggetti privati, il sistema))
+Il sistema di gestione dei documenti informatici delle pubbliche amministrazioni e' gestito da un responsabile che opera d'intesa con il dirigente dell'ufficio di cui all'articolo 17 del presente Codice, il responsabile del trattamento dei dati personali di cui all'[articolo 29 del decreto legislativo 30 giugno 2003, n. 196](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), ove nominato, e con il responsabile del sistema della conservazione dei documenti informatici delle pubbliche amministrazioni, nella definizione e gestione delle attivita' di rispettiva competenza. Almeno una volta all'anno il responsabile della gestione dei documenti informatici provvede a trasmettere al sistema di conservazione i fascicoli e le serie documentarie anche relative a procedimenti non conclusi.
 
-di conservazione dei documenti informatici assicura, per quanto in esso conservato, caratteristiche di autenticita', integrita', affidabilita', leggibilita', reperibilita', secondo le modalita' indicate nelle Linee guida.
+1-ter.
 
-1-quater. Il responsabile della conservazione, che opera d'intesa con il responsabile del trattamento dei dati personali, con il responsabile della sicurezza e con il responsabile dei sistemi informativi, puo' affidare, ai sensi dell'articolo 34, comma 1-bis, lettera b), la conservazione dei documenti informatici ad altri soggetti, pubblici o privati, che offrono idonee garanzie organizzative, e tecnologiche e di protezione dei dati personali. Il responsabile della conservazione della pubblica amministrazione, che opera d'intesa, oltre che con i responsabili di cui al comma 1-bis, anche con il responsabile della gestione documentale, effettua la conservazione dei documenti informatici secondo quanto previsto all'articolo 34, comma 1-bis.
+((In tutti i casi in cui la legge prescrive obblighi di conservazione, anche a carico di soggetti privati, il sistema)) di conservazione dei documenti informatici assicura, per quanto in esso conservato, caratteristiche di autenticita', integrita', affidabilita', leggibilita', reperibilita', secondo le modalita' indicate nelle Linee guida.
 
-### Art. 44-bis
+1-quater.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 13 DICEMBRE 2017, N. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217)))
+Il responsabile della conservazione, che opera d'intesa con il responsabile del trattamento dei dati personali, con il responsabile della sicurezza e con il responsabile dei sistemi informativi, puo' affidare, ai sensi dell'articolo 34, comma 1-bis, lettera b), la conservazione dei documenti informatici ad altri soggetti, pubblici o privati, che offrono idonee garanzie organizzative, e tecnologiche e di protezione dei dati personali. Il responsabile della conservazione della pubblica amministrazione, che opera d'intesa, oltre che con i responsabili di cui al comma 1-bis, anche con il responsabile della gestione documentale, effettua la conservazione dei documenti informatici secondo quanto previsto all'articolo 34, comma 1-bis.
 
-((29))
+### Art. 44-bis.
+
+((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2017, N. 217))
+                                ((29))
 
 ---------------
 
 AGGIORNAMENTO (29)
 
-Il [D.Lgs. 13 dicembre 2017, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217) ha disposto (con l'art. 65, comma 8) che "Il decreto del Presidente del Consiglio dei ministri di cui all'[articolo 29, comma 2, del decreto legislativo n. 82 del 2005](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;82~art29-com2), come modificato dal presente decreto, e' adottato entro centottanta giorni dalla data di entrata in vigore del presente decreto. Fino all'adozione del predetto decreto, restano efficaci le disposizioni dell'articolo 29, comma 3, dello stesso decreto nella formulazione previgente all'entrata in vigore del [decreto legislativo 26 agosto 2016, n. 179 e dell'articolo 44-bis, commi 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179~art44bis-com2) e [3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179~art44bis-com3), del [decreto legislativo n. 82 del 2005](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;82) nella formulazione previgente all'entrata in vigore del presente decreto".
+Il [D.Lgs. 13 dicembre 2017, n. 217](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%2026%20agosto%202016%20n.%20179%20concernente%20modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislati_7b5fbda60218.md) ha disposto (con l'art. 65, comma 8) che "Il decreto del Presidente del Consiglio dei ministri di cui all'[articolo 29, comma 2, del decreto legislativo n. 82 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;82#art_29-com2), come modificato dal presente decreto, e' adottato entro centottanta giorni dalla data di entrata in vigore del presente decreto. Fino all'adozione del predetto decreto, restano efficaci le disposizioni dell'articolo 29, comma 3, dello stesso decreto nella formulazione previgente all'entrata in vigore del [decreto legislativo 26 agosto 2016, n. 179 e dell'articolo 44-bis, commi 2](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md) e [3](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md), del [decreto legislativo n. 82 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;82) nella formulazione previgente all'entrata in vigore del presente decreto".
 
-CAPO IX - Capo IV TRASMISSIONE INFORMATICA DEI DOCUMENTI
---------------------------------------------------------
+## Capo IV TRASMISSIONE INFORMATICA DEI DOCUMENTI
 
-### Art. 45
+-
 
-Valore giuridico della trasmissione
+### Art. 45. — Valore giuridico della trasmissione
 
-1. I documenti trasmessi da chiunque ad una pubblica amministrazione con qualsiasi mezzo telematico o informatico, idoneo ad accertarne la
+1.
 
-((...))
+I documenti trasmessi da chiunque ad una pubblica amministrazione con qualsiasi mezzo telematico o informatico, idoneo ad accertarne la ((...)) provenienza, soddisfano il requisito della forma scritta e la loro trasmissione non deve essere seguita da quella del documento originale. (28)
 
-provenienza, soddisfano il requisito della forma scritta e la loro trasmissione non deve essere seguita da quella del documento originale. (28)
+2.
 
-2. Il documento informatico trasmesso per via telematica si intende spedito dal mittente se inviato al proprio gestore, e si intende consegnato al destinatario se reso disponibile all'indirizzo elettronico da questi dichiarato, nella casella di posta elettronica del destinatario messa a disposizione dal gestore.
+Il documento informatico trasmesso per via telematica si intende spedito dal mittente se inviato al proprio gestore, e si intende consegnato al destinatario se reso disponibile all'indirizzo elettronico da questi dichiarato, nella casella di posta elettronica del destinatario messa a disposizione dal gestore.
 
 --------------
 
 AGGIORNAMENTO (28)
 
-Il [D.Lgs. 26 agosto 2016, n. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179) ha disposto (con l'art. 61, comma 2, lettera d)) che l'espressione «chiunque», ovunque ricorra, si intende come «soggetti giuridici».
+Il [D.Lgs. 26 agosto 2016, n. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md) ha disposto (con l'art. 61, comma 2, lettera d)) che l'espressione «chiunque», ovunque ricorra, si intende come «soggetti giuridici».
 
-### Art. 46
+### Art. 46. — Dati particolari contenuti nei documenti trasmessi
 
-Dati particolari contenuti nei documenti trasmessi
+1.
 
-1. Al fine di garantire la riservatezza dei dati sensibili o giudiziari di cui all'[articolo 4, comma 1, lettere d)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art4-com1-letd) ed [e), del decreto legislativo 30 giugno 2003, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art4-com1-lete), i documenti informatici trasmessi ad altre pubbliche amministrazioni per via
+Al fine di garantire la riservatezza dei dati sensibili o giudiziari di cui all'[articolo 4, comma 1, lettere d)](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md) ed [e), del decreto legislativo 30 giugno 2003, n. 196](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), i documenti informatici trasmessi ad altre pubbliche amministrazioni per via ((digitale)) possono contenere soltanto ((i dati sensibili e giudiziari consentiti)) da legge o da regolamento e indispensabili per il perseguimento delle finalita' per le quali sono acquisite.
 
-((digitale))
-
-possono contenere soltanto
-
-((i dati sensibili e giudiziari consentiti))
-
-da legge o da regolamento e indispensabili per il perseguimento delle finalita' per le quali sono acquisite.
-
-### Art. 47
+### Art. 47.
 
 Trasmissione dei documenti tra le pubbliche amministrazioni
 
-1. Le comunicazioni di documenti tra le pubbliche amministrazioni avvengono mediante l'utilizzo della posta elettronica o in cooperazione applicativa; esse sono valide ai fini del procedimento amministrativo una volta che ne sia verificata la provenienza. Il documento puo' essere, altresi', reso disponibile previa comunicazione delle modalita' di accesso telematico allo stesso.
+1.
 
-1-bis. L'inosservanza della disposizione di cui al comma 1, ferma restando l'eventuale responsabilita' per danno erariale, comporta responsabilita' dirigenziale e responsabilita' disciplinare.
+Le comunicazioni di documenti tra le pubbliche amministrazioni avvengono mediante l'utilizzo della posta elettronica o in cooperazione applicativa; esse sono valide ai fini del procedimento amministrativo una volta che ne sia verificata la provenienza. Il documento puo' essere, altresi', reso disponibile previa comunicazione delle modalita' di accesso telematico allo stesso.
 
-2. Ai fini della verifica della provenienza le comunicazioni sono valide se:
+1-bis.
 
-a) sono sottoscritte con firma digitale o altro tipo di firma elettronica qualificata;
+L'inosservanza della disposizione di cui al comma 1, ferma restando l'eventuale responsabilita' per danno erariale, comporta responsabilita' dirigenziale e responsabilita' disciplinare.
 
-b) ovvero sono dotate di segnatura di protocollo di cui all'[articolo 55 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445~art55);
+2.
 
-c) ovvero e' comunque possibile accertarne altrimenti la provenienza, secondo quanto previsto dalla normativa vigente o dalle
+Ai fini della verifica della provenienza le comunicazioni sono valide se:
+                            a)
+                                sono sottoscritte con firma digitale o altro tipo di firma elettronica qualificata;
+                            b)
+                                ovvero sono dotate di segnatura di protocollo di cui all'[articolo 55 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md);
+                            c)
+                                ovvero e' comunque possibile accertarne altrimenti la provenienza, secondo quanto previsto dalla normativa vigente o dalle ((Linee guida)). E' in ogni caso esclusa la trasmissione di documenti a mezzo fax;
+                            d)
+                                ovvero trasmesse attraverso sistemi di posta elettronica certificata di cui al [decreto del Presidente della Repubblica 11 febbraio 2005, n. 68](../Regolamenti%20governativi/Regolamento%20recante%20disposizioni%20per%20lutilizzo%20della%20posta%20elettronica%20certificata%20a%20norma%20dellarticolo%2027%20della%20legge%2016%20gennaio%202003%20n.%203.md).
 
-((Linee guida))
+3.
 
-. E' in ogni caso esclusa la trasmissione di documenti a mezzo fax;
+((I soggetti di cui all'articolo 2, comma 2, lettere a) e b),)) provvedono ad istituire e pubblicare ((nell'Indice dei domicili digitali delle pubbliche amministrazioni e dei gestori di pubblici servizi)) almeno una casella di posta elettronica certificata per ciascun registro di protocollo. ((Le pubbliche amministrazioni)) utilizzano per le comunicazioni tra l'amministrazione ed i propri dipendenti la posta elettronica o altri strumenti informatici di comunicazione nel rispetto delle norme in materia di protezione dei dati personali e previa informativa agli interessati in merito al grado di riservatezza degli strumenti utilizzati.
 
-d) ovvero trasmesse attraverso sistemi di posta elettronica certificata di cui al [decreto del Presidente della Repubblica 11 febbraio 2005, n. 68](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2005-02-11;68).
+### Art. 48. — (Posta elettronica certificata)
 
-3. 
+1.
 
-((I soggetti di cui all'articolo 2, comma 2, lettere a) e b),))
+La trasmissione telematica di comunicazioni che necessitano di una ricevuta di invio e di una ricevuta di consegna avviene mediante la posta elettronica certificata ai sensi del [decreto del Presidente della Repubblica 11 febbraio 2005, n. 68](../Regolamenti%20governativi/Regolamento%20recante%20disposizioni%20per%20lutilizzo%20della%20posta%20elettronica%20certificata%20a%20norma%20dellarticolo%2027%20della%20legge%2016%20gennaio%202003%20n.%203.md), o mediante altre soluzioni tecnologiche individuate con le Linee guida.
 
-provvedono ad istituire e pubblicare
+2.
 
-((nell'Indice dei domicili digitali delle pubbliche amministrazioni e dei gestori di pubblici servizi))
+La trasmissione del documento informatico per via telematica, effettuata ai sensi del comma 1, equivale, salvo che la legge disponga diversamente, alla notificazione per mezzo della posta.
 
-almeno una casella di posta elettronica certificata per ciascun registro di protocollo.
+3.
 
-((Le pubbliche amministrazioni))
-
-utilizzano per le comunicazioni tra l'amministrazione ed i propri dipendenti la posta elettronica o altri strumenti informatici di comunicazione nel rispetto delle norme in materia di protezione dei dati personali e previa informativa agli interessati in merito al grado di riservatezza degli strumenti utilizzati.
-
-### Art. 48
-
-(Posta elettronica certificata)
-
-1. La trasmissione telematica di comunicazioni che necessitano di una ricevuta di invio e di una ricevuta di consegna avviene mediante la posta elettronica certificata ai sensi del [decreto del Presidente della Repubblica 11 febbraio 2005, n. 68](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2005-02-11;68), o mediante altre soluzioni tecnologiche individuate con le Linee guida.
-
-2. La trasmissione del documento informatico per via telematica, effettuata ai sensi del comma 1, equivale, salvo che la legge disponga diversamente, alla notificazione per mezzo della posta.
-
-3. La data e l'ora di trasmissione e di ricezione di un documento informatico trasmesso ai sensi del comma 1 sono opponibili ai terzi se conformi alle disposizioni di cui al [decreto del Presidente della Repubblica 11 febbraio 2005, n. 68](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2005-02-11;68), ed alle relative regole tecniche, ovvero conformi alle Linee guida.   
-
-((31))
+La data e l'ora di trasmissione e di ricezione di un documento informatico trasmesso ai sensi del comma 1 sono opponibili ai terzi se conformi alle disposizioni di cui al [decreto del Presidente della Repubblica 11 febbraio 2005, n. 68](../Regolamenti%20governativi/Regolamento%20recante%20disposizioni%20per%20lutilizzo%20della%20posta%20elettronica%20certificata%20a%20norma%20dellarticolo%2027%20della%20legge%2016%20gennaio%202003%20n.%203.md), ed alle relative regole tecniche, ovvero conformi alle Linee guida. 
+ ((31))
 
 --------------
 
 AGGIORNAMENTO (31)
 
-Il [D.Lgs. 13 dicembre 2017, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217), come modificato dal [D.L. 14 dicembre 2018, n. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-12-14;135), convertito con modificazioni dalla [L. 11 febbraio 2019, n. 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-02-11;12), ha disposto (con l'art. 65, comma 7) che "Con decreto del Presidente del Consiglio dei ministri, sentiti l'Agenzia per l'Italia digitale e il Garante per la protezione dei dati personali, sono adottate le misure necessarie a garantire la conformita' dei servizi di posta elettronica certificata di cui agli [articoli 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82~art29) e [48 del decreto legislativo del 7 marzo 2005, n. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82~art48), al [regolamento (UE) n. 910/2014 del Parlamento europeo e del Consiglio, del 23 luglio 2014](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32014R0910), in materia di identificazione elettronica e servizi fiduciari per le transazioni elettroniche nel mercato interno e che abroga la [direttiva 1999/93/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31999L0093). A far data dall'entrata in vigore del decreto di cui al primo periodo, l'[articolo 48 del decreto legislativo n. 82 del 2005](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;82~art48) e' abrogato".
+Il [D.Lgs. 13 dicembre 2017, n. 217](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%2026%20agosto%202016%20n.%20179%20concernente%20modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislati_7b5fbda60218.md), come modificato dal [D.L. 14 dicembre 2018, n. 135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-12-14;135), convertito con modificazioni dalla [L. 11 febbraio 2019, n. 12](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20dicembre%202018%20n.%20135%20recante%20disposizioni%20urgenti%20in%20materia%20di%20sostegno%20e%20semplificazione%20per%20le%20imprese%20e%20per%20la%20pubblica%20amm_7999d3f738ab.md), ha disposto (con l'art. 65, comma 7) che "Con decreto del Presidente del Consiglio dei ministri, sentiti l'Agenzia per l'Italia digitale e il Garante per la protezione dei dati personali, sono adottate le misure necessarie a garantire la conformita' dei servizi di posta elettronica certificata di cui agli [articoli 29](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md) e [48 del decreto legislativo del 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), al regolamento (UE) n. 910/2014 del Parlamento europeo e del Consiglio, del 23 luglio 2014, in materia di identificazione elettronica e servizi fiduciari per le transazioni elettroniche nel mercato interno e che abroga la [direttiva 1999/93/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;93). A far data dall'entrata in vigore del decreto di cui al primo periodo, l'[articolo 48 del decreto legislativo n. 82 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;82#art_48) e' abrogato".
 
-### Art. 49
+### Art. 49. — Segretezza della corrispondenza trasmessa per via telematica
 
-Segretezza della corrispondenza trasmessa per via telematica
+1.
 
-1. Gli addetti alle operazioni di trasmissione per via telematica di atti, dati e documenti formati con strumenti informatici non possono prendere cognizione della corrispondenza telematica, duplicare con qualsiasi mezzo o cedere a terzi a qualsiasi titolo informazioni anche in forma sintetica o per estratto sull'esistenza o sul contenuto di corrispondenza, comunicazioni o messaggi trasmessi per via telematica, salvo che si tratti di informazioni per loro natura o per espressa indicazione del mittente destinate ad essere rese pubbliche.
+Gli addetti alle operazioni di trasmissione per via telematica di atti, dati e documenti formati con strumenti informatici non possono prendere cognizione della corrispondenza telematica, duplicare con qualsiasi mezzo o cedere a terzi a qualsiasi titolo informazioni anche in forma sintetica o per estratto sull'esistenza o sul contenuto di corrispondenza, comunicazioni o messaggi trasmessi per via telematica, salvo che si tratti di informazioni per loro natura o per espressa indicazione del mittente destinate ad essere rese pubbliche.
 
-2. Agli effetti del presente codice, gli atti, i dati e i documenti trasmessi per via telematica si considerano, nei confronti del gestore del sistema di trasporto delle informazioni, di proprieta' del mittente sino a che non sia avvenuta la consegna al destinatario.
+2.
 
-CAPO X - Capo V DATI DELLE PUBBLICHE AMMINISTRAZIONI ((, IDENTITA' DIGITALI, ISTANZE E SERVIZI ONLINE)) Sezione I Dati delle pubbliche amministrazioni
-------------------------------------------------------------------------------------------------------------------------------------------------------
+Agli effetti del presente codice, gli atti, i dati e i documenti trasmessi per via telematica si considerano, nei confronti del gestore del sistema di trasporto delle informazioni, di proprieta' del mittente sino a che non sia avvenuta la consegna al destinatario.
 
-### Art. 50
+## Capo V DATI DELLE PUBBLICHE AMMINISTRAZIONI ((, IDENTITA' DIGITALI, ISTANZE E SERVIZI ONLINE)) Sezione I Dati delle pubbliche amministrazioni
 
-Disponibilita' dei dati delle pubbliche amministrazioni
+-
 
-1. I dati delle pubbliche amministrazioni sono formati, raccolti, conservati, resi disponibili e accessibili con l'uso delle tecnologie dell'informazione e della comunicazione che ne consentano la fruizione e riutilizzazione, alle condizioni fissate dall'ordinamento, da parte delle altre pubbliche amministrazioni e dai privati; restano salvi i limiti alla conoscibilita' dei dati previsti dalle leggi e dai regolamenti, le norme in materia di protezione dei dati personali ed il rispetto della normativa comunitaria in materia di riutilizzo delle informazioni del settore pubblico.
+### Art. 50. — Disponibilita' dei dati delle pubbliche amministrazioni
 
-2. Qualunque dato trattato da una pubblica amministrazione, con le esclusioni di cui all'articolo 2, comma 6, salvi i casi previsti dall'[articolo 24 della legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art24), e nel rispetto della normativa in materia di protezione dei dati personali, e' reso accessibile e fruibile alle altre amministrazioni quando l'utilizzazione del dato sia necessaria per lo svolgimento dei compiti istituzionali dell'amministrazione richiedente, senza oneri a carico di quest'ultima, salvo per la prestazione di elaborazioni aggiuntive; e' fatto comunque salvo il disposto degli [articoli 43, commi 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445~art43-com4) e [71, del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445~art43-com71).
+1.
 
-2-bis. Le pubbliche amministrazioni, nell'ambito delle proprie funzioni istituzionali, procedono all'analisi dei propri dati anche in combinazione con quelli detenuti da altri soggetti di cui all'articolo 2, comma 2, fermi restando i limiti di cui al comma 1.  
+I dati delle pubbliche amministrazioni sono formati, raccolti, conservati, resi disponibili e accessibili con l'uso delle tecnologie dell'informazione e della comunicazione che ne consentano la fruizione e riutilizzazione, alle condizioni fissate dall'ordinamento, da parte delle altre pubbliche amministrazioni e dai privati; restano salvi i limiti alla conoscibilita' dei dati previsti dalle leggi e dai regolamenti, le norme in materia di protezione dei dati personali ed il rispetto della normativa comunitaria in materia di riutilizzo delle informazioni del settore pubblico.
+
+2.
+
+Qualunque dato trattato da una pubblica amministrazione, con le esclusioni di cui all'articolo 2, comma 6, salvi i casi previsti dall'[articolo 24 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_24), e nel rispetto della normativa in materia di protezione dei dati personali, e' reso accessibile e fruibile alle altre amministrazioni quando l'utilizzazione del dato sia necessaria per lo svolgimento dei compiti istituzionali dell'amministrazione richiedente, senza oneri a carico di quest'ultima, salvo per la prestazione di elaborazioni aggiuntive; e' fatto comunque salvo il disposto degli [articoli 43, commi 4](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md) e [71, del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md).
+
+2-bis.
+
+Le pubbliche amministrazioni, nell'ambito delle proprie funzioni istituzionali, procedono all'analisi dei propri dati anche in combinazione con quelli detenuti da altri soggetti di cui all'articolo 2, comma 2, fermi restando i limiti di cui al comma 1.
 La predetta attivita' si svolge secondo le modalita' individuate dall'AgID con le Linee guida.
 
-2-ter. Le pubbliche amministrazioni certificanti detentrici dei dati di cui al comma 1 ne assicurano la fruizione da parte dei soggetti che hanno diritto ad accedervi. Le pubbliche amministrazioni detentrici dei dati assicurano, su richiesta dei soggetti privati di cui all'[articolo 2 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445~art2), conferma scritta della corrispondenza di quanto dichiarato con le risultanze dei dati da essa custoditi, con le modalita' di cui all'articolo 71, comma 4 del medesimo decreto. (38)
+2-ter.
 
-2-quater. Le pubbliche amministrazioni, in attuazione del principio dell'unicita' dell'invio, non richiedono ai cittadini e alle imprese dati e informazioni gia' detenuti da un'amministrazione e assicurano
+Le pubbliche amministrazioni certificanti detentrici dei dati di cui al comma 1 ne assicurano la fruizione da parte dei soggetti che hanno diritto ad accedervi. Le pubbliche amministrazioni detentrici dei dati assicurano, su richiesta dei soggetti privati di cui all'[articolo 2 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), conferma scritta della corrispondenza di quanto dichiarato con le risultanze dei dati da essa custoditi, con le modalita' di cui all'articolo 71, comma 4 del medesimo decreto. (38)
 
-((lo scambio))
+2-quater.
 
-delle informazioni mediante la piattaforma di cui all'articolo 50-ter fin dalla progettazione dei servizi e mediante l'identificativo univoco di cui all'articolo 62, integrato nei loro sistemi. Ai sensi dell'[articolo 43 del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445~art43), di cui al [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445), si considera operata per finalita' di rilevante interesse pubblico la consultazione diretta ai sensi del presente comma da parte dei soggetti di cui all'articolo 2, comma 2, delle banche dati pubbliche e i relativi servizi di accertamento d'ufficio di atti, fatti, qualita' e stati soggettivi sono resi automaticamente disponibili mediante la piattaforma di cui all'articolo 50-ter a semplice richiesta per i soggetti di cui all'articolo 2, comma 2. La vigilanza sugli accessi e' effettuata secondo quanto previsto dalle linee guida adottate dall'AgID.
+Le pubbliche amministrazioni, in attuazione del principio dell'unicita' dell'invio, non richiedono ai cittadini e alle imprese dati e informazioni gia' detenuti da un'amministrazione e assicurano ((lo scambio)) delle informazioni mediante la piattaforma di cui all'articolo 50-ter fin dalla progettazione dei servizi e mediante l'identificativo univoco di cui all'articolo 62, integrato nei loro sistemi. Ai sensi dell'[articolo 43 del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), di cui al [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), si considera operata per finalita' di rilevante interesse pubblico la consultazione diretta ai sensi del presente comma da parte dei soggetti di cui all'articolo 2, comma 2, delle banche dati pubbliche e i relativi servizi di accertamento d'ufficio di atti, fatti, qualita' e stati soggettivi sono resi automaticamente disponibili mediante la piattaforma di cui all'articolo 50-ter a semplice richiesta per i soggetti di cui all'articolo 2, comma 2. La vigilanza sugli accessi e' effettuata secondo quanto previsto dalle linee guida adottate dall'AgID.
 
-3. COMMA ABROGATO DAL [D.LGS. 13 DICEMBRE 2017, N. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217).
+3.
 
-3-bis. Il trasferimento di un dato da un sistema informativo a un altro non modifica la titolarita' del dato e del trattamento, ferme restando le responsabilita' delle amministrazioni che ricevono e trattano il dato in qualita' di titolari autonomi del trattamento. (38)
+COMMA ABROGATO DAL [D.LGS. 13 DICEMBRE 2017, N. 217](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%2026%20agosto%202016%20n.%20179%20concernente%20modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislati_7b5fbda60218.md).
 
-3-ter. L'inadempimento dell'obbligo di rendere disponibili i dati ai sensi del presente articolo ovvero il ritardo nell'abilitazione dell'accesso ai servizi della piattaforma di cui all'articolo 50-ter costituisce mancato raggiungimento di uno specifico risultato e di un rilevante obiettivo da parte dei dirigenti responsabili delle strutture competenti e comporta la riduzione, non inferiore al 30 per cento, della retribuzione di risultato e del trattamento accessorio collegato alla performance individuale dei dirigenti competenti, oltre al divieto di attribuire premi o incentivi nell'ambito delle medesime strutture. L'AgID effettua controlli annuali sul rispetto degli obblighi di cui al presente articolo. In caso di violazione degli obblighi di cui al presente articolo si applica l'articolo 18-bis.
+3-bis.
 
--------------
+Il trasferimento di un dato da un sistema informativo a un altro non modifica la titolarita' del dato e del trattamento, ferme restando le responsabilita' delle amministrazioni che ricevono e trattano il dato in qualita' di titolari autonomi del trattamento. (38)
 
-AGGIORNAMENTO (38)
+3-ter.
 
-Il [D.L. 31 maggio 2021, n. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-31;77), convertito con modificazioni dalla [L. 29 luglio 2021, n. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-07-29;108) ha disposto (con l'art. 39, comma 3) che "Con esclusione della lettera c) del comma 1, l'efficacia delle disposizioni dei commi 1 e 2, i cui oneri sono a carico delle risorse previste per l'attuazione di progetti compresi nel PNRR, resta subordinata alla definitiva approvazione del PNRR da parte del Consiglio dell'Unione europea".
-
-### Art. 50-bis
-
-((ARTICOLO ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179)))
-
-### Art. 50-ter
-
-(Piattaforma Digitale Nazionale Dati)
-
-1. La Presidenza del Consiglio dei ministri promuove la progettazione, lo sviluppo e la realizzazione di una Piattaforma Digitale Nazionale Dati (PDND) finalizzata a favorire la conoscenza e l'utilizzo del patrimonio informativo detenuto, per finalita' istituzionali, dai soggetti di cui all'articolo 2, comma 2, nonche' la condivisione dei dati tra i soggetti che hanno diritto ad accedervi ai fini dell'attuazione dell'articolo 50 e della semplificazione degli adempimenti amministrativi dei cittadini e delle imprese, in conformita' alla disciplina vigente. (38)
-
-2. La Piattaforma Digitale Nazionale Dati e' gestita dalla Presidenza del Consiglio dei ministri ed e' costituita da un'infrastruttura tecnologica che rende possibile l'interoperabilita' dei sistemi informativi e delle basi di dati delle pubbliche amministrazioni e dei gestori di servizi pubblici per le finalita' di cui al comma 1, mediante l'accreditamento, l'identificazione e la gestione dei livelli di autorizzazione dei soggetti abilitati ad operare sulla stessa, nonche' la raccolta e conservazione delle informazioni relative agli accessi e alle transazioni effettuate suo tramite. La condivisione di dati e informazioni avviene attraverso la messa a disposizione e l'utilizzo, da parte dei soggetti accreditati, di interfacce di programmazione delle applicazioni (API). Le interfacce, sviluppate dai soggetti abilitati con il supporto della Presidenza del Consiglio dei ministri e in conformita' alle Linee guida AgID in materia interoperabilita', sono raccolte nel "catalogo API" reso disponibile dalla Piattaforma ai soggetti accreditati. I soggetti di cui all'articolo 2, comma 2, sono tenuti ad accreditarsi alla piattaforma, a sviluppare le interfacce e a rendere disponibili le proprie basi dati senza nuovi o maggiori oneri per la finanza pubblica. In fase di prima applicazione, la Piattaforma assicura prioritariamente l'interoperabilita' con le basi di dati di interesse nazionale di cui all'articolo 60, comma 3-bis e con le banche dati dell'Agenzie delle entrate individuate dal Direttore della stessa Agenzia. L'AgID, sentito il Garante per la protezione dei dati personali e acquisito il parere della Conferenza unificata, di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281~art8), adotta linee guida con cui definisce gli standard tecnologici e criteri di sicurezza, di accessibilita', di disponibilita' e di interoperabilita' per la gestione della piattaforma nonche' il processo di accreditamento e di fruizione del catalogo API con i limiti e le condizioni di accesso volti ad assicurare il corretto trattamento dei dati personali ai sensi della normativa vigente. (38)
-
-2-bis. Il Presidente del Consiglio dei Ministri o il Ministro delegato per l'innovazione tecnologica e la transizione digitale, ultimati i test e le prove tecniche di corretto funzionamento della piattaforma, fissa il termine entro il quale i soggetti di cui all'articolo 2, comma 2, sono tenuti ad accreditarsi alla stessa, a sviluppare le interfacce di cui al comma 2 e a rendere disponibili le proprie basi dati. (38)
-
-3. Nella Piattaforma Digitale Nazionale Dati non sono conservati, ne' comunque trattati, oltre quanto strettamente necessario per le finalita' di cui al comma 1, i dati, che possono essere resi disponibili, attinenti a ordine e sicurezza pubblica, difesa e sicurezza nazionale, difesa civile e soccorso pubblico, indagini preliminari, polizia giudiziaria e polizia economico-finanziaria. Non possono comunque essere conferiti, conservati, ne' trattati i dati coperti da segreto o riservati nell'ambito delle materie indicate al periodo precedente.
-
-4. Con decreto adottato dal Presidente del Consiglio dei ministri entro sessanta giorni dalla data di entrata in vigore della presente disposizione,, di concerto con il Ministero dell'economia e delle finanze e il Ministero dell'interno, sentito il Garante per la protezione dei dati personali e acquisito il parere della Conferenza Unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281~art8), e' stabilita la strategia nazionale dati. Con la strategia nazionale dati sono identificate le tipologie, i limiti, le finalita' e le modalita' di messa a disposizione, su richiesta della Presidenza del Consiglio dei ministri, dei dati aggregati e anonimizzati di cui sono titolari i soggetti di cui all'articolo 2, comma 2, in apposita infrastruttura tecnologica della Piattaforma Digitale Nazionale Dati finalizzata al supporto di politiche pubbliche basate sui dati, separata dall'infrastruttura tecnologica dedicata all'interoperabilita' dei sistemi informativi di cui al comma 2. Il decreto di cui al presente comma e' comunicato alle Commissioni parlamentari competenti. (38)
-
-5. L'inadempimento dell'obbligo di rendere disponibili e accessibili le proprie basi dati ovvero i dati aggregati e anonimizzati costituisce mancato raggiungimento di uno specifico risultato e di un rilevante obiettivo da parte dei dirigenti responsabili delle strutture competenti e comporta la riduzione, non inferiore al 30 per cento, della retribuzione di risultato e del trattamento accessorio collegato alla performance individuale dei dirigenti competenti, oltre al divieto di attribuire premi o incentivi nell'ambito delle medesime strutture.
-
-6. L'accesso ai dati attraverso la Piattaforma Digitale Nazionale Dati non modifica la disciplina relativa alla titolarita' del trattamento, ferme restando le specifiche responsabilita' ai sensi dell'[articolo 28 del Regolamento (UE) 2016/679 del Parlamento Europeo e del Consiglio del 27 aprile 2016](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32016R0679) in capo al soggetto gestore della Piattaforma nonche' le responsabilita' dei soggetti accreditati che trattano i dati in qualita' di titolari autonomi del trattamento.
-
-7. Resta fermo che i soggetti di cui all'articolo 2, comma 2, possono continuare a utilizzare anche i sistemi di interoperabilita' gia'
-
-((attivi))
-
-.
-
-8. Le attivita' previste dal presente articolo si svolgono con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
+L'inadempimento dell'obbligo di rendere disponibili i dati ai sensi del presente articolo ovvero il ritardo nell'abilitazione dell'accesso ai servizi della piattaforma di cui all'articolo 50-ter costituisce mancato raggiungimento di uno specifico risultato e di un rilevante obiettivo da parte dei dirigenti responsabili delle strutture competenti e comporta la riduzione, non inferiore al 30 per cento, della retribuzione di risultato e del trattamento accessorio collegato alla performance individuale dei dirigenti competenti, oltre al divieto di attribuire premi o incentivi nell'ambito delle medesime strutture. L'AgID effettua controlli annuali sul rispetto degli obblighi di cui al presente articolo. In caso di violazione degli obblighi di cui al presente articolo si applica l'articolo 18-bis.
 
 -------------
 
 AGGIORNAMENTO (38)
 
-Il [D.L. 31 maggio 2021, n. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-31;77), convertito con modificazioni dalla [L. 29 luglio 2021, n. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-07-29;108) ha disposto (con l'art. 39, comma 3) che "Con esclusione della lettera c) del comma 1, l'efficacia delle disposizioni dei commi 1 e 2, i cui oneri sono a carico delle risorse previste per l'attuazione di progetti compresi nel PNRR, resta subordinata alla definitiva approvazione del PNRR da parte del Consiglio dell'Unione europea".
+Il [D.L. 31 maggio 2021, n. 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-31;77), convertito con modificazioni dalla [L. 29 luglio 2021, n. 108](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20maggio%202021%20n.%2077%20recante%20governance%20del%20Piano%20nazionale%20di%20ripresa%20e%20resilienza%20e%20prime%20misure%20di%20rafforzamento%20delle%20struttur_55630b637f4d.md) ha disposto (con l'art. 39, comma 3) che "Con esclusione della lettera c) del comma 1, l'efficacia delle disposizioni dei commi 1 e 2, i cui oneri sono a carico delle risorse previste per l'attuazione di progetti compresi nel PNRR, resta subordinata alla definitiva approvazione del PNRR da parte del Consiglio dell'Unione europea".
 
-### Art. 50-quater
+### Art. 50-bis.
 
-(Disponibilita' dei dati generati nella fornitura di servizi in concessione)
+((ARTICOLO ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179))
 
-1. Al fine di promuovere la valorizzazione del patrimonio informativo pubblico, per fini statistici e di ricerca e per lo svolgimento dei compiti istituzionali delle pubbliche amministrazioni, nei contratti e nei capitolati con i quali le pubbliche amministrazioni affidano lo svolgimento di servizi in concessione e' previsto l'obbligo del concessionario di rendere disponibili all'amministrazione concedente
+### Art. 50-ter. — (Piattaforma Digitale Nazionale Dati)
 
-((, che a sua volta li rende disponibili alle altre pubbliche amministrazioni per i medesimi fini e nel rispetto dell'articolo 50,))
+1.
 
-tutti i dati acquisiti e generati nella fornitura del servizio agli utenti e relativi anche all'utilizzo del servizio medesimo da parte degli utenti, come dati di tipo aperto ai sensi dell'articolo 1, comma 1, lettera l-ter), nel rispetto delle linee guida adottate da AgID, sentito il Garante per la protezione dei dati personali.
+La Presidenza del Consiglio dei ministri promuove la progettazione, lo sviluppo e la realizzazione di una Piattaforma Digitale Nazionale Dati (PDND) finalizzata a favorire la conoscenza e l'utilizzo del patrimonio informativo detenuto, per finalita' istituzionali, dai soggetti di cui all'articolo 2, comma 2, nonche' la condivisione dei dati tra i soggetti che hanno diritto ad accedervi ai fini dell'attuazione dell'articolo 50 e della semplificazione degli adempimenti amministrativi dei cittadini e delle imprese, in conformita' alla disciplina vigente. (38)
 
-### Art. 51
+2.
 
-Sicurezza
+La Piattaforma Digitale Nazionale Dati e' gestita dalla Presidenza del Consiglio dei ministri ed e' costituita da un'infrastruttura tecnologica che rende possibile l'interoperabilita' dei sistemi informativi e delle basi di dati delle pubbliche amministrazioni e dei gestori di servizi pubblici per le finalita' di cui al comma 1, mediante l'accreditamento, l'identificazione e la gestione dei livelli di autorizzazione dei soggetti abilitati ad operare sulla stessa, nonche' la raccolta e conservazione delle informazioni relative agli accessi e alle transazioni effettuate suo tramite. La condivisione di dati e informazioni avviene attraverso la messa a disposizione e l'utilizzo, da parte dei soggetti accreditati, di interfacce di programmazione delle applicazioni (API). Le interfacce, sviluppate dai soggetti abilitati con il supporto della Presidenza del Consiglio dei ministri e in conformita' alle Linee guida AgID in materia interoperabilita', sono raccolte nel "catalogo API" reso disponibile dalla Piattaforma ai soggetti accreditati. I soggetti di cui all'articolo 2, comma 2, sono tenuti ad accreditarsi alla piattaforma, a sviluppare le interfacce e a rendere disponibili le proprie basi dati senza nuovi o maggiori oneri per la finanza pubblica. In fase di prima applicazione, la Piattaforma assicura prioritariamente l'interoperabilita' con le basi di dati di interesse nazionale di cui all'articolo 60, comma 3-bis e con le banche dati dell'Agenzie delle entrate individuate dal Direttore della stessa Agenzia. L'AgID, sentito il Garante per la protezione dei dati personali e acquisito il parere della Conferenza unificata, di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), adotta linee guida con cui definisce gli standard tecnologici e criteri di sicurezza, di accessibilita', di disponibilita' e di interoperabilita' per la gestione della piattaforma nonche' il processo di accreditamento e di fruizione del catalogo API con i limiti e le condizioni di accesso volti ad assicurare il corretto trattamento dei dati personali ai sensi della normativa vigente. (38)
 
-((e disponibilita'))
+2-bis.
 
-dei dati,   
+Il Presidente del Consiglio dei Ministri o il Ministro delegato per l'innovazione tecnologica e la transizione digitale, ultimati i test e le prove tecniche di corretto funzionamento della piattaforma, fissa il termine entro il quale i soggetti di cui all'articolo 2, comma 2, sono tenuti ad accreditarsi alla stessa, a sviluppare le interfacce di cui al comma 2 e a rendere disponibili le proprie basi dati. (38)
+
+3.
+
+Nella Piattaforma Digitale Nazionale Dati non sono conservati, ne' comunque trattati, oltre quanto strettamente necessario per le finalita' di cui al comma 1, i dati, che possono essere resi disponibili, attinenti a ordine e sicurezza pubblica, difesa e sicurezza nazionale, difesa civile e soccorso pubblico, indagini preliminari, polizia giudiziaria e polizia economico-finanziaria. Non possono comunque essere conferiti, conservati, ne' trattati i dati coperti da segreto o riservati nell'ambito delle materie indicate al periodo precedente.
+
+4.
+
+Con decreto adottato dal Presidente del Consiglio dei ministri entro sessanta giorni dalla data di entrata in vigore della presente disposizione,, di concerto con il Ministero dell'economia e delle finanze e il Ministero dell'interno, sentito il Garante per la protezione dei dati personali e acquisito il parere della Conferenza Unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), e' stabilita la strategia nazionale dati. Con la strategia nazionale dati sono identificate le tipologie, i limiti, le finalita' e le modalita' di messa a disposizione, su richiesta della Presidenza del Consiglio dei ministri, dei dati aggregati e anonimizzati di cui sono titolari i soggetti di cui all'articolo 2, comma 2, in apposita infrastruttura tecnologica della Piattaforma Digitale Nazionale Dati finalizzata al supporto di politiche pubbliche basate sui dati, separata dall'infrastruttura tecnologica dedicata all'interoperabilita' dei sistemi informativi di cui al comma 2. Il decreto di cui al presente comma e' comunicato alle Commissioni parlamentari competenti. (38)
+
+5.
+
+L'inadempimento dell'obbligo di rendere disponibili e accessibili le proprie basi dati ovvero i dati aggregati e anonimizzati costituisce mancato raggiungimento di uno specifico risultato e di un rilevante obiettivo da parte dei dirigenti responsabili delle strutture competenti e comporta la riduzione, non inferiore al 30 per cento, della retribuzione di risultato e del trattamento accessorio collegato alla performance individuale dei dirigenti competenti, oltre al divieto di attribuire premi o incentivi nell'ambito delle medesime strutture.
+
+6.
+
+L'accesso ai dati attraverso la Piattaforma Digitale Nazionale Dati non modifica la disciplina relativa alla titolarita' del trattamento, ferme restando le specifiche responsabilita' ai sensi dell'articolo 28 del Regolamento (UE) 2016/679 del Parlamento Europeo e del Consiglio del 27 aprile 2016 in capo al soggetto gestore della Piattaforma nonche' le responsabilita' dei soggetti accreditati che trattano i dati in qualita' di titolari autonomi del trattamento.
+
+7.
+
+Resta fermo che i soggetti di cui all'articolo 2, comma 2, possono continuare a utilizzare anche i sistemi di interoperabilita' gia' ((attivi)).
+
+8.
+
+Le attivita' previste dal presente articolo si svolgono con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
+
+-------------
+
+AGGIORNAMENTO (38)
+
+Il [D.L. 31 maggio 2021, n. 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-31;77), convertito con modificazioni dalla [L. 29 luglio 2021, n. 108](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20maggio%202021%20n.%2077%20recante%20governance%20del%20Piano%20nazionale%20di%20ripresa%20e%20resilienza%20e%20prime%20misure%20di%20rafforzamento%20delle%20struttur_55630b637f4d.md) ha disposto (con l'art. 39, comma 3) che "Con esclusione della lettera c) del comma 1, l'efficacia delle disposizioni dei commi 1 e 2, i cui oneri sono a carico delle risorse previste per l'attuazione di progetti compresi nel PNRR, resta subordinata alla definitiva approvazione del PNRR da parte del Consiglio dell'Unione europea".
+
+### Art. 50-quater. — (Disponibilita' dei dati generati nella fornitura di servizi in concessione)
+
+1.
+
+Al fine di promuovere la valorizzazione del patrimonio informativo pubblico, per fini statistici e di ricerca e per lo svolgimento dei compiti istituzionali delle pubbliche amministrazioni, nei contratti e nei capitolati con i quali le pubbliche amministrazioni affidano lo svolgimento di servizi in concessione e' previsto l'obbligo del concessionario di rendere disponibili all'amministrazione concedente ((, che a sua volta li rende disponibili alle altre pubbliche amministrazioni per i medesimi fini e nel rispetto dell'articolo 50,)) tutti i dati acquisiti e generati nella fornitura del servizio agli utenti e relativi anche all'utilizzo del servizio medesimo da parte degli utenti, come dati di tipo aperto ai sensi dell'articolo 1, comma 1, lettera l-ter), nel rispetto delle linee guida adottate da AgID, sentito il Garante per la protezione dei dati personali.
+
+### Art. 51.
+
+Sicurezza ((e disponibilita')) dei dati, 
 dei sistemi e delle infrastrutture delle pubbliche amministrazioni
 
-1. Con le
+1.
 
-((Linee guida))
+Con le ((Linee guida)) sono individuate le soluzioni tecniche idonee a garantire la protezione, la disponibilita', l'accessibilita', l'integrita' e la riservatezza dei dati e la continuita' operativa dei sistemi e delle infrastrutture.
 
-sono individuate le soluzioni tecniche idonee a garantire la protezione, la disponibilita', l'accessibilita', l'integrita' e la riservatezza dei dati e la continuita' operativa dei sistemi e delle infrastrutture.
+1-bis.
 
-1-bis. AgID attua, per quanto di competenza e in raccordo con le altre autorita' competenti in materia, il Quadro strategico nazionale per la sicurezza dello spazio cibernetico e il Piano nazionale per la sicurezza cibernetica e la sicurezza informatica. AgID, in tale ambito:
+AgID attua, per quanto di competenza e in raccordo con le altre autorita' competenti in materia, il Quadro strategico nazionale per la sicurezza dello spazio cibernetico e il Piano nazionale per la sicurezza cibernetica e la sicurezza informatica. AgID, in tale ambito:
+                            a)
+                                coordina, tramite il Computer Emergency Response Team Pubblica Amministrazione (CERT-PA) istituito nel suo ambito, le iniziative di prevenzione e gestione degli incidenti di sicurezza informatici;
+                            b)
+                                promuove intese con le analoghe strutture internazionali;
+                            c)
+                                segnala al Ministro per ((la semplificazione e la pubblica amministrazione)) il mancato rispetto delle regole tecniche di cui al comma 1 da parte delle pubbliche amministrazioni.
 
-a) coordina, tramite il Computer Emergency Response Team Pubblica Amministrazione (CERT-PA) istituito nel suo ambito, le iniziative di prevenzione e gestione degli incidenti di sicurezza informatici;
+2.
 
-b) promuove intese con le analoghe strutture internazionali;
+I documenti informatici delle pubbliche amministrazioni devono essere custoditi e controllati con modalita' tali da ridurre al minimo i rischi di distruzione, perdita, accesso non autorizzato o non consentito o non conforme alle finalita' della raccolta.
 
-c) segnala al Ministro per
+2-bis.
 
-((la semplificazione e la pubblica amministrazione))
-
-il mancato rispetto delle regole tecniche di cui al comma 1 da parte delle pubbliche amministrazioni.
-
-2. I documenti informatici delle pubbliche amministrazioni devono essere custoditi e controllati con modalita' tali da ridurre al minimo i rischi di distruzione, perdita, accesso non autorizzato o non consentito o non conforme alle finalita' della raccolta.
-
-2-bis. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
 ((
 
-2-ter. I soggetti di cui all'articolo 2, comma 2, aderiscono ogni anno ai programmi di sicurezza preventiva coordinati e promossi da AgID secondo le procedure dettate dalla medesima AgID con le Linee guida.
+2-ter.
 
-2-quater. I soggetti di cui articolo 2, comma 2, predispongono, nel rispetto delle Linee guida adottate dall'AgID, piani di emergenza in grado di assicurare la continuita' operativa delle operazioni indispensabili per i servizi erogati e il ritorno alla normale operativita'. Onde garantire quanto previsto, e' possibile il ricorso all'[articolo 15 della legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art15), per l'erogazione di servizi applicativi, infrastrutturali e di dati, con ristoro dei soli costi di funzionamento. Per le Amministrazioni dello Stato coinvolte si provvede mediante rimodulazione degli stanziamenti dei pertinenti capitoli di spesa o mediante riassegnazione alla spesa degli importi versati a tale titolo ad apposito capitolo di entrata del bilancio statale))
+I soggetti di cui all'articolo 2, comma 2, aderiscono ogni anno ai programmi di sicurezza preventiva coordinati e promossi da AgID secondo le procedure dettate dalla medesima AgID con le Linee guida.
 
-### Art. 52
+2-quater. I soggetti di cui articolo 2, comma 2, predispongono, nel rispetto delle Linee guida adottate dall'AgID, piani di emergenza in grado di assicurare la continuita' operativa delle operazioni indispensabili per i servizi erogati e il ritorno alla normale operativita'. Onde garantire quanto previsto, e' possibile il ricorso all'[articolo 15 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_15), per l'erogazione di servizi applicativi, infrastrutturali e di dati, con ristoro dei soli costi di funzionamento. Per le Amministrazioni dello Stato coinvolte si provvede mediante rimodulazione degli stanziamenti dei pertinenti capitoli di spesa o mediante riassegnazione alla spesa degli importi versati a tale titolo ad apposito capitolo di entrata del bilancio statale))
 
-(Accesso telematico e riutilizzo dei dati
+### Art. 52.
 
-((...))
+(Accesso telematico e riutilizzo dei dati ((...)) ).
 
-).
+1.
 
-1. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
-2. I dati e i documenti che
+2.
 
-((i soggetti di cui all'articolo 2, comma 2,))
+I dati e i documenti che ((i soggetti di cui all'articolo 2, comma 2,)) pubblicano, con qualsiasi modalita', senza l'espressa adozione di una licenza di cui all'[articolo 2, comma 1, lettera h), del decreto legislativo 24 gennaio 2006, n. 36](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-1024%20relativa%20allapertura%20dei%20dati%20e%20al%20riutilizzo%20dellinformazione%20del%20settore%20pubblico%20che%20ha%20abrogato%20la%20direttiva%202003-98-CE.md), si intendono rilasciati come dati di tipo aperto ai sensi ((all'articolo 1, comma 1, lettere l-bis) e l-ter),)) del presente Codice, ad eccezione dei casi in cui la pubblicazione riguardi dati personali del presente Codice. ((PERIODO SOPPRESSO DAL D.LGS. 13 DICEMBRE 2017, N. 217)).
 
-pubblicano, con qualsiasi modalita', senza l'espressa adozione di una licenza di cui all'[articolo 2, comma 1, lettera h), del decreto legislativo 24 gennaio 2006, n. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-01-24;36~art2-com1-leth), si intendono rilasciati come dati di tipo aperto ai sensi
+3.
 
-((all'articolo 1, comma 1, lettere l-bis) e l-ter),))
+Nella definizione dei capitolati o degli schemi dei contratti di appalto relativi a prodotti e servizi che comportino ((la formazione, la raccolta e la gestione di dati, i soggetti di cui all'articolo 2, comma 2, prevedono clausole idonee a consentirne l'utilizzazione in conformita' a quanto previsto dall'articolo 50)).
 
-del presente Codice, ad eccezione dei casi in cui la pubblicazione riguardi dati personali del presente Codice.
+4.
 
-((PERIODO SOPPRESSO DAL [D.LGS. 13 DICEMBRE 2017, N. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217)))
+Le attivita' volte a garantire l'accesso telematico e il riutilizzo dei dati delle pubbliche amministrazioni rientrano tra i parametri di valutazione della performance dirigenziale ((...)).
 
-.
+5.
 
-3. Nella definizione dei capitolati o degli schemi dei contratti di appalto relativi a prodotti e servizi che comportino
+((COMMA ABROGATO DAL D.LGS. 13 DICEMBRE 2017, N. 217)).
 
-((la formazione, la raccolta e la gestione di dati, i soggetti di cui all'articolo 2, comma 2, prevedono clausole idonee a consentirne l'utilizzazione in conformita' a quanto previsto dall'articolo 50))
+6.
 
-.
+((COMMA ABROGATO DAL D.LGS. 13 DICEMBRE 2017, N. 217)).
 
-4. Le attivita' volte a garantire l'accesso telematico e il riutilizzo dei dati delle pubbliche amministrazioni rientrano tra i parametri di valutazione della performance dirigenziale
+7.
 
-((...))
+((COMMA ABROGATO DAL D.LGS. 13 DICEMBRE 2017, N. 217)).
 
-.
+8.
 
-5. 
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
-((COMMA ABROGATO DAL [D.LGS. 13 DICEMBRE 2017, N. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217)))
+9.
 
-.
-
-6. 
-
-((COMMA ABROGATO DAL [D.LGS. 13 DICEMBRE 2017, N. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217)))
-
-.
-
-7. 
-
-((COMMA ABROGATO DAL [D.LGS. 13 DICEMBRE 2017, N. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217)))
-
-.
-
-8. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
-
-9. L'Agenzia svolge le attivita' indicate dal presente articolo con le risorse umane, strumentali, e finanziarie previste a legislazione vigente.(19)
+L'Agenzia svolge le attivita' indicate dal presente articolo con le risorse umane, strumentali, e finanziarie previste a legislazione vigente.(19)
 
 --------------
 
 AGGIORNAMENTO (19)
 
-Il [D.L. 18 ottobre 2012, n. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-18;179), convertito con modificazioni dalla [L. 17 dicembre 2012, n. 221](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-17;221), ha disposto (con l'art. 9, comma 3) che "In sede di prima applicazione, i regolamenti di cui all'articolo 52, comma 1, del citato [decreto legislativo n. 82 del 2005](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;82), come sostituito dal comma 1 del presente articolo, sono pubblicati entro 120 giorni dalla data di entrata in vigore della legge di conversione del presente decreto-legge. Con riferimento ai documenti e ai dati gia' pubblicati, la disposizione di cui all'articolo 52, comma 2, del citato [decreto legislativo n. 82 del 2005](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;82), trova applicazione entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto."
+Il [D.L. 18 ottobre 2012, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-18;179), convertito con modificazioni dalla [L. 17 dicembre 2012, n. 221](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20ottobre%202012%20n.%20179%20recante%20ulteriori%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0244.md), ha disposto (con l'art. 9, comma 3) che "In sede di prima applicazione, i regolamenti di cui all'articolo 52, comma 1, del citato [decreto legislativo n. 82 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;82), come sostituito dal comma 1 del presente articolo, sono pubblicati entro 120 giorni dalla data di entrata in vigore della legge di conversione del presente decreto-legge. Con riferimento ai documenti e ai dati gia' pubblicati, la disposizione di cui all'articolo 52, comma 2, del citato [decreto legislativo n. 82 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;82), trova applicazione entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto."
 
-### Art. 53
+### Art. 53.
 
 Siti Internet delle pubbliche amministrazioni
 
-1. Le pubbliche amministrazioni realizzano siti istituzionali su reti telematiche che rispettano i principi di accessibilita', nonche' di elevata usabilita' e reperibilita', anche da parte delle persone disabili, completezza di informazione, chiarezza di linguaggio, affidabilita', semplicita' di' consultazione, qualita', omogeneita' ed interoperabilita'. Sono in particolare resi facilmente reperibili e consultabili i dati di cui all'articolo 54.
+1.
 
-1-bis. Le pubbliche amministrazioni pubblicano, ai sensi dell'[articolo 9 del decreto legislativo 14 marzo 2013, n. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33~art9), anche il catalogo dei dati e dei metadati
+Le pubbliche amministrazioni realizzano siti istituzionali su reti telematiche che rispettano i principi di accessibilita', nonche' di elevata usabilita' e reperibilita', anche da parte delle persone disabili, completezza di informazione, chiarezza di linguaggio, affidabilita', semplicita' di' consultazione, qualita', omogeneita' ed interoperabilita'. Sono in particolare resi facilmente reperibili e consultabili i dati di cui all'articolo 54.
 
-((...))
+1-bis.
 
-, nonche' delle relative banche dati in loro possesso e i regolamenti che disciplinano l'esercizio della facolta' di accesso telematico e il riutilizzo di tali dati e metadati, fatti salvi i dati presenti in Anagrafe tributaria.
+Le pubbliche amministrazioni pubblicano, ai sensi dell'[articolo 9 del decreto legislativo 14 marzo 2013, n. 33](../Decreti%20Legislativi/Riordino%20della%20disciplina%20riguardante%20il%20diritto%20di%20accesso%20civico%20e%20gli%20obblighi%20di%20pubblicita%20trasparenza%20e%20diffusione%20di%20informazioni%20da%20parte%20delle%20pubbliche%20amministrazioni.%2013G00076.md), anche il catalogo dei dati e dei metadati ((...)), nonche' delle relative banche dati in loro possesso e i regolamenti che disciplinano l'esercizio della facolta' di accesso telematico e il riutilizzo di tali dati e metadati, fatti salvi i dati presenti in Anagrafe tributaria.
 
-1-ter. Con le
+1-ter.
 
-((Linee guida))
+Con le ((Linee guida)) sono definite le modalita' per la realizzazione e la modifica dei siti delle amministrazioni.
 
-sono definite le modalita' per la realizzazione e la modifica dei siti delle amministrazioni.
+2.
 
-2. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
-3. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
+3.
 
-### Art. 54
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
-(Contenuto dei siti delle pubbliche amministrazioni)
+### Art. 54. — (Contenuto dei siti delle pubbliche amministrazioni)
 
-1. I siti delle pubbliche amministrazioni contengono i dati di cui al [decreto legislativo 14 marzo 2013, n. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33), e successive modificazioni, recante il riordino della disciplina riguardante gli obblighi di pubblicita', trasparenza e diffusione di informazioni da parte delle pubbliche amministrazioni
+1.
 
-((, nonche' quelli previsti dalla legislazione vigente))
+I siti delle pubbliche amministrazioni contengono i dati di cui al [decreto legislativo 14 marzo 2013, n. 33](../Decreti%20Legislativi/Riordino%20della%20disciplina%20riguardante%20il%20diritto%20di%20accesso%20civico%20e%20gli%20obblighi%20di%20pubblicita%20trasparenza%20e%20diffusione%20di%20informazioni%20da%20parte%20delle%20pubbliche%20amministrazioni.%2013G00076.md), e successive modificazioni, recante il riordino della disciplina riguardante gli obblighi di pubblicita', trasparenza e diffusione di informazioni da parte delle pubbliche amministrazioni ((, nonche' quelli previsti dalla legislazione vigente)).
 
-.
+### Art. 55.
 
-### Art. 55
+((ARTICOLO ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179)))
+### Art. 56. — Dati identificativi delle questioni pendenti
+ dinanzi autorita' giudiziaria di ogni ordine e grado
 
-### Art. 56
+1.
 
-Dati identificativi delle questioni pendenti  
-dinanzi autorita' giudiziaria di ogni ordine e grado
+I dati identificativi delle questioni pendenti dinanzi al giudice amministrativo e contabile sono resi accessibili a chi vi abbia interesse mediante pubblicazione sul sistema informativo interno e sul sito istituzionale ((...)) delle autorita' emananti.
 
-1. I dati identificativi delle questioni pendenti dinanzi al giudice amministrativo e contabile sono resi accessibili a chi vi abbia interesse mediante pubblicazione sul sistema informativo interno e sul sito istituzionale
+2.
 
-((...))
+Le sentenze e le altre decisioni del giudice amministrativo e contabile, rese pubbliche mediante deposito in segreteria, sono contestualmente inserite nel sistema informativo interno e sul sito istituzionale ((...)), osservando le cautele previste dalla normativa in materia di tutela dei dati personali.
 
-delle autorita' emananti.
+2-bis.
 
-2. Le sentenze e le altre decisioni del giudice amministrativo e contabile, rese pubbliche mediante deposito in segreteria, sono contestualmente inserite nel sistema informativo interno e sul sito istituzionale
+I dati identificativi delle questioni pendenti, le sentenze e le altre decisioni depositate in cancelleria o segreteria dell'autorita' giudiziaria di ogni ordine e grado sono, comunque, rese accessibili ai sensi dell'[articolo 51 del codice in materia di protezione dei dati personali](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md) approvato con [decreto legislativo n. 196 del 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003;196).
 
-((...))
+### Art. 57.
 
-, osservando le cautele previste dalla normativa in materia di tutela dei dati personali.
+((ARTICOLO ABROGATO DAL D.LGS. 14 MARZO 2013, N. 33)).
 
-2-bis. I dati identificativi delle questioni pendenti, le sentenze e le altre decisioni depositate in cancelleria o segreteria dell'autorita' giudiziaria di ogni ordine e grado sono, comunque, rese accessibili ai sensi dell'[articolo 51 del codice in materia di protezione dei dati personali](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art51) approvato con [decreto legislativo n. 196 del 2003](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003;196).
+### Art. 57-bis.
 
-### Art. 57
+((ARTICOLO ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 14 MARZO 2013, N. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33)))
+## Sezione II Fruibilita' dei dati
 
-.   
+-
 
-### Art. 57-bis
+### Art. 58.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179)))
+((ARTICOLO ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179))
 
-CAPO XI - Sezione II Fruibilita' dei dati
------------------------------------------
+### Art. 59. — Dati territoriali
 
-### Art. 58
+1.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179)))
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
-### Art. 59
+2.
 
-Dati territoriali
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
-1. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
+3.
 
-2. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
+Per agevolare la pubblicita' dei dati di interesse generale, disponibili presso le pubbliche amministrazioni a livello nazionale, regionale e locale, presso l'AgID e' istituito il Repertorio nazionale dei dati territoriali, quale infrastruttura di riferimento per l'erogazione dei servizi di ricerca dei dati territoriali, e relativi servizi, e punto di accesso nazionale ai fini dell'attuazione della [direttiva 2007/2/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2007;2) (direttiva INSPIRE) per quanto riguarda i metadati.
 
-3. Per agevolare la pubblicita' dei dati di interesse generale, disponibili presso le pubbliche amministrazioni a livello nazionale, regionale e locale, presso l'AgID e' istituito il Repertorio nazionale dei dati territoriali, quale infrastruttura di riferimento per l'erogazione dei servizi di ricerca dei dati territoriali, e relativi servizi, e punto di accesso nazionale ai fini dell'attuazione della [direttiva 2007/2/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32007L0002) (direttiva INSPIRE) per quanto riguarda i metadati.
+4.
 
-4. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
-5. 
+5.
 
-((Ai))
+((Ai)) sensi dell'articolo 71 sono adottate, anche su proposta delle amministrazioni competenti, le regole tecniche per la definizione e l'aggiornamento del contenuto del Repertorio nazionale dei dati territoriali di cui al comma 3 nonche' per la formazione, la documentazione, lo scambio e il riutilizzo dei dati territoriali detenuti dalle amministrazioni stesse.
 
-sensi dell'articolo 71 sono adottate, anche su proposta delle amministrazioni competenti, le regole tecniche per la definizione e l'aggiornamento del contenuto del Repertorio nazionale dei dati territoriali di cui al comma 3 nonche' per la formazione, la documentazione, lo scambio e il riutilizzo dei dati territoriali detenuti dalle amministrazioni stesse.
+6.
 
-6. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
-7. Agli oneri finanziari di cui al comma 3 si provvede con il fondo di finanziamento per i progetti strategici del settore informatico di cui all'[articolo 27, comma 2, della legge 16 gennaio 2003, n. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-01-16;3~art27-com2).
+7.
 
-7-bis. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
+Agli oneri finanziari di cui al comma 3 si provvede con il fondo di finanziamento per i progetti strategici del settore informatico di cui all'[articolo 27, comma 2, della legge 16 gennaio 2003, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-01-16;3#art_27-com2).
 
-### Art. 60
+7-bis.
 
-Base di dati di interesse nazionale
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
-1. Si definisce base di dati di interesse nazionale l'insieme delle informazioni raccolte e gestite digitalmente dalle pubbliche amministrazioni, omogenee per tipologia e contenuto e la cui conoscenza e' rilevante per lo svolgimento delle funzioni istituzionali delle altre pubbliche amministrazioni, anche solo per fini statistici, nel rispetto delle competenze e delle normative vigenti e possiedono i requisiti di cui al comma 2.
+### Art. 60. — Base di dati di interesse nazionale
 
-2. Ferme le competenze di ciascuna pubblica amministrazione, le basi di dati di interesse nazionale costituiscono, per ciascuna tipologia di dati, un sistema informativo unitario che tiene conto dei diversi livelli istituzionali e territoriali e che garantisce l'allineamento delle informazioni e l'accesso alle medesime da parte delle pubbliche amministrazioni interessate. Tali sistemi informativi possiedono le caratteristiche minime di sicurezza, accessibilita' e interoperabilita' e sono realizzati e aggiornati secondo le Linee guida e secondo le vigenti regole del Sistema statistico nazionale di cui al [decreto legislativo 6 settembre 1989, n. 322](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-09-06;322), e successive modificazioni.
+1.
 
-2-bis. Le pubbliche amministrazioni responsabili delle basi dati di interesse nazionale consentono il pieno utilizzo delle informazioni ai soggetti di cui all'articolo 2, comma 2, secondo standard e criteri di sicurezza e di gestione definiti nelle Linee guida e mediante la piattaforma di cui all'articolo 50-ter.
+Si definisce base di dati di interesse nazionale l'insieme delle informazioni raccolte e gestite digitalmente dalle pubbliche amministrazioni, omogenee per tipologia e contenuto e la cui conoscenza e' rilevante per lo svolgimento delle funzioni istituzionali delle altre pubbliche amministrazioni, anche solo per fini statistici, nel rispetto delle competenze e delle normative vigenti e possiedono i requisiti di cui al comma 2.
 
-2-ter. COMMA ABROGATO DAL [D.L. 16 LUGLIO 2020, N. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-07-16;76).
+2.
 
-3. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
+Ferme le competenze di ciascuna pubblica amministrazione, le basi di dati di interesse nazionale costituiscono, per ciascuna tipologia di dati, un sistema informativo unitario che tiene conto dei diversi livelli istituzionali e territoriali e che garantisce l'allineamento delle informazioni e l'accesso alle medesime da parte delle pubbliche amministrazioni interessate. Tali sistemi informativi possiedono le caratteristiche minime di sicurezza, accessibilita' e interoperabilita' e sono realizzati e aggiornati secondo le Linee guida e secondo le vigenti regole del Sistema statistico nazionale di cui al [decreto legislativo 6 settembre 1989, n. 322](../Decreti%20Legislativi/Norme%20sul%20Sistema%20statistico%20nazionale%20e%20sulla%20riorganizzazione%20dellIstituto%20nazionale%20di%20statistica%20ai%20sensi%20dellart.%2024%20della%20legge%2023%20agosto%201988%20n.%20400.md), e successive modificazioni.
 
-3-bis. In sede di prima applicazione , sono individuate le seguenti basi di dati di interesse nazionale:
+2-bis.
 
-a) repertorio nazionale dei dati territoriali;
+Le pubbliche amministrazioni responsabili delle basi dati di interesse nazionale consentono il pieno utilizzo delle informazioni ai soggetti di cui all'articolo 2, comma 2, secondo standard e criteri di sicurezza e di gestione definiti nelle Linee guida e mediante la piattaforma di cui all'articolo 50-ter.
 
-b) anagrafe nazionale della popolazione residente;
+2-ter.
 
-c) banca dati nazionale dei contratti pubblici di cui all'articolo 62-bis;
+COMMA ABROGATO DAL [D.L. 16 LUGLIO 2020, N. 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-07-16;76).
 
-d) casellario giudiziale;
+3.
 
-e) registro delle imprese;
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
-f) gli archivi automatizzati in materia di immigrazione e di asilo di cui all'[articolo 2, comma 2, del decreto del Presidente della Repubblica 27 luglio 2004, n. 242](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-07-27;242~art2-com2);
+3-bis.
 
-f-bis) Anagrafe nazionale degli assistiti (ANA);
+In sede di prima applicazione , sono individuate le seguenti basi di dati di interesse nazionale:
+                            a)
+                                repertorio nazionale dei dati territoriali;
+                            b)
+                                anagrafe nazionale della popolazione residente;
+                            c)
+                                banca dati nazionale dei contratti pubblici di cui all'articolo 62-bis;
+                            d)
+                                casellario giudiziale;
+                            e)
+                                registro delle imprese;
+                            f)
+                                gli archivi automatizzati in materia di immigrazione e di asilo di cui all'[articolo 2, comma 2, del decreto del Presidente della Repubblica 27 luglio 2004, n. 242](../Regolamenti%20governativi/Regolamento%20per%20la%20razionalizzazione%20e%20la%20interconnessione%20delle%20comunicazioni%20tra%20Amministrazioni%20pubbliche%20in%20materia%20di%20immigrazione.md);
+                            f-bis)
+                                Anagrafe nazionale degli assistiti (ANA);
+                            f-ter)
+                                anagrafe delle aziende agricole di cui all'articolo 1, comma 1, del regolamento di cui al [decreto del Presidente della Repubblica 1º dicembre 1999, n. 503](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1999-12-01;503).
+                            f-quater)
+                                l'archivio nazionale dei veicoli e l'anagrafe nazionale degli abilitati alla guida di cui agli [articoli 225](Nuovo%20codice%20della%20strada.md) e [226 del decreto legislativo 30 aprile 1992, n. 285](Nuovo%20codice%20della%20strada.md); ((38))
+                            f-quinquies)
+                                il sistema informativo dell'indicatore della situazione economica equivalente (ISEE) di cui all'[articolo 5 del decreto-legge 6 dicembre 2011, n. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201#art_5), convertito, con modificazioni, dalla [legge 22 dicembre 2011, n. 214](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20dicembre%202011%20n.%20201%20recante%20disposizioni%20urgenti%20per%20la%20crescita%20lequita%20e%20il%20consolidamento%20dei%20conti%20pubblici.%2011G0256.md); ((38))
+                            f-sexies)
+                                l'anagrafe nazionale dei numeri civici e delle strade urbane (ANNCSU), di cui all'[articolo 3 del decreto-legge 18 ottobre 2012, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-18;179#art_3) convertito, con modificazioni, dalla [legge 17 dicembre 2012, n. 221](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20ottobre%202012%20n.%20179%20recante%20ulteriori%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0244.md); ((38))
+                            f-septies)
+                                l'indice nazionale dei domicili digitali delle persone fisiche, dei professionisti e degli altri enti di diritto privato, non tenuti all'iscrizione in albi, elenchi o registri professionali o nel registro delle imprese di cui all'articolo 6-quater. ((38))
 
-f-ter) anagrafe delle aziende agricole di cui all'articolo 1, comma 1, del regolamento di cui al [decreto del Presidente della Repubblica 1º dicembre 1999, n. 503](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1999-12-01;503).
+3-ter.
 
-f-quater) l'archivio nazionale dei veicoli e l'anagrafe nazionale degli abilitati alla guida di cui agli [articoli 225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art225) e [226 del decreto legislativo 30 aprile 1992, n. 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art226);
+AgID, tenuto conto delle esigenze delle pubbliche amministrazioni e degli obblighi derivanti dai regolamenti comunitari, individua, aggiorna e pubblica l'elenco delle basi di dati di interesse nazionale, ulteriori rispetto a quelle individuate in via prioritaria dal comma 3-bis. ((38))
 
-((38))
+4.
 
-f-quinquies) il sistema informativo dell'indicatore della situazione economica equivalente (ISEE) di cui all'[articolo 5 del decreto-legge 6 dicembre 2011, n. 201](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201~art5), convertito, con modificazioni, dalla [legge 22 dicembre 2011, n. 214](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-12-22;214);
-
-((38))
-
-f-sexies) l'anagrafe nazionale dei numeri civici e delle strade urbane (ANNCSU), di cui all'[articolo 3 del decreto-legge 18 ottobre 2012, n. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-18;179~art3) convertito, con modificazioni, dalla [legge 17 dicembre 2012, n. 221](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-17;221);
-
-((38))
-
-f-septies) l'indice nazionale dei domicili digitali delle persone fisiche, dei professionisti e degli altri enti di diritto privato, non tenuti all'iscrizione in albi, elenchi o registri professionali o nel registro delle imprese di cui all'articolo 6-quater.
-
-((38))
-
-3-ter. AgID, tenuto conto delle esigenze delle pubbliche amministrazioni e degli obblighi derivanti dai regolamenti comunitari, individua, aggiorna e pubblica l'elenco delle basi di dati di interesse nazionale, ulteriori rispetto a quelle individuate in via prioritaria dal comma 3-bis.
-
-((38))
-
-4. Agli oneri finanziari di cui al presente articolo si provvede con il fondo di finanziamento per i progetti strategici del settore informatico di cui all'[articolo 27, comma 2, della legge 16 gennaio 2003, n. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-01-16;3~art27-com2).
+Agli oneri finanziari di cui al presente articolo si provvede con il fondo di finanziamento per i progetti strategici del settore informatico di cui all'[articolo 27, comma 2, della legge 16 gennaio 2003, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-01-16;3#art_27-com2).
 
 -------------
 
 AGGIORNAMENTO (38)
 
-Il [D.L. 31 maggio 2021, n. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-31;77), convertito con modificazioni dalla [L. 29 luglio 2021, n. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-07-29;108) ha disposto (con l'art. 39, comma 3) che "Con esclusione della lettera c) del comma 1, l'efficacia delle disposizioni dei commi 1 e 2, i cui oneri sono a carico delle risorse previste per l'attuazione di progetti compresi nel PNRR, resta subordinata alla definitiva approvazione del PNRR da parte del Consiglio dell'Unione europea".
+Il [D.L. 31 maggio 2021, n. 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-31;77), convertito con modificazioni dalla [L. 29 luglio 2021, n. 108](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20maggio%202021%20n.%2077%20recante%20governance%20del%20Piano%20nazionale%20di%20ripresa%20e%20resilienza%20e%20prime%20misure%20di%20rafforzamento%20delle%20struttur_55630b637f4d.md) ha disposto (con l'art. 39, comma 3) che "Con esclusione della lettera c) del comma 1, l'efficacia delle disposizioni dei commi 1 e 2, i cui oneri sono a carico delle risorse previste per l'attuazione di progetti compresi nel PNRR, resta subordinata alla definitiva approvazione del PNRR da parte del Consiglio dell'Unione europea".
 
-### Art. 61
+### Art. 61. — Delocalizzazione dei registri informatici
 
-Delocalizzazione dei registri informatici
+1.
 
-1. I pubblici registri immobiliari possono essere formati e conservati su supporti informatici in conformita' alle disposizioni del presente codice, secondo le
+I pubblici registri immobiliari possono essere formati e conservati su supporti informatici in conformita' alle disposizioni del presente codice, secondo le ((Linee guida)), nel rispetto delle normativa speciale e dei principi stabiliti dal [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262). In tal caso i predetti registri possono essere conservati anche in luogo diverso dall'Ufficio territoriale competente.
 
-((Linee guida))
+### Art. 62. — (Anagrafe nazionale della popolazione residente - ANPR).
 
-, nel rispetto delle normativa speciale e dei principi stabiliti dal [codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262). In tal caso i predetti registri possono essere conservati anche in luogo diverso dall'Ufficio territoriale competente.
+1.
 
-### Art. 62
+E' istituita presso il Ministero dell'interno l'ANPR, quale base di dati di interesse nazionale, ai sensi dell'articolo 60, che subentra all'Indice nazionale delle anagrafi (INA), istituito ai sensi del [quinto comma dell'articolo 1 della legge 24 dicembre 1954, n. 1228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-24;1228#art_1-com5), recante "Ordinamento delle anagrafi della popolazione residente" e all'Anagrafe della popolazione italiana residente all'estero (AIRE), istituita ai sensi della [legge 27 ottobre 1988, n. 470](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-10-27;470), recante "Anagrafe e censimento degli italiani all'estero" Tale base di dati e' sottoposta ad un audit di sicurezza con cadenza annuale in conformita' alle regole tecniche di cui all'articolo 51. I risultati dell'audit sono inseriti nella relazione annuale del Garante per la protezione dei dati personali.
 
-(Anagrafe nazionale della popolazione residente - ANPR).
+2.
 
-1. E' istituita presso il Ministero dell'interno l'ANPR, quale base di dati di interesse nazionale, ai sensi dell'articolo 60, che subentra all'Indice nazionale delle anagrafi (INA), istituito ai sensi del [quinto comma dell'articolo 1 della legge 24 dicembre 1954, n. 1228](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-24;1228~art1-com5), recante "Ordinamento delle anagrafi della popolazione residente" e all'Anagrafe della popolazione italiana residente all'estero (AIRE), istituita ai sensi della [legge 27 ottobre 1988, n. 470](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-10-27;470), recante "Anagrafe e censimento degli italiani all'estero" Tale base di dati e' sottoposta ad un audit di sicurezza con cadenza annuale in conformita' alle regole tecniche di cui all'articolo 51. I risultati dell'audit sono inseriti nella relazione annuale del Garante per la protezione dei dati personali.
+Ferme restando le attribuzioni del sindaco di cui all'articolo 54, comma 3, del testo unico delle leggi sull'ordinamento degli enti locali, approvato con il [decreto legislativo 18 agosto 2000, n. 267](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md), l'ANPR subentra altresi' alle anagrafi della popolazione residente e dei cittadini italiani residenti all'estero tenute dai comuni. Con il decreto di cui al comma 6 e' definito un piano per il graduale subentro dell'ANPR alle citate anagrafi, da completare entro il 31 dicembre 2014. Fino alla completa attuazione di detto piano, l'ANPR acquisisce automaticamente in via telematica i dati contenuti nelle anagrafi tenute dai comuni per i quali non e' ancora avvenuto il subentro. L'ANPR e' organizzata secondo modalita' funzionali e operative che garantiscono la univocita' dei dati stessi.
 
-2. Ferme restando le attribuzioni del sindaco di cui all'articolo 54, comma 3, del testo unico delle leggi sull'ordinamento degli enti locali, approvato con il [decreto legislativo 18 agosto 2000, n. 267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-18;267), l'ANPR subentra altresi' alle anagrafi della popolazione residente e dei cittadini italiani residenti all'estero tenute dai comuni. Con il decreto di cui al comma 6 e' definito un piano per il graduale subentro dell'ANPR alle citate anagrafi, da completare entro il 31 dicembre 2014. Fino alla completa attuazione di detto piano, l'ANPR acquisisce automaticamente in via telematica i dati contenuti nelle anagrafi tenute dai comuni per i quali non e' ancora avvenuto il subentro. L'ANPR e' organizzata secondo modalita' funzionali e operative che garantiscono la univocita' dei dati stessi.
+2-bis.
 
-2-bis. L'ANPR contiene altresi' l'archivio nazionale informatizzato dei registri di stato civile tenuti dai comuni garantendo agli stessi, anche progressivamente, i servizi necessari all'utilizzo del medesimo e fornisce i dati ai fini della tenuta delle liste di cui all'[articolo 1931 del codice dell'ordinamento militare](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66~art1931) di cui al [decreto legislativo 15 marzo 2010, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66), secondo le modalita' definite con uno o piu' decreti di cui al comma 6-bis. Le modalita' e i tempi di adesione da parte dei comuni all'archivio nazionale informatizzato, con conseguente dismissione della versione analogica dei registri di stato civile, sono definiti con uno o piu' decreti di cui al comma 6-bis. (38)
+L'ANPR contiene altresi' l'archivio nazionale informatizzato dei registri di stato civile tenuti dai comuni garantendo agli stessi, anche progressivamente, i servizi necessari all'utilizzo del medesimo e fornisce i dati ai fini della tenuta delle liste di cui all'[articolo 1931 del codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md) di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), secondo le modalita' definite con uno o piu' decreti di cui al comma 6-bis. Le modalita' e i tempi di adesione da parte dei comuni all'archivio nazionale informatizzato, con conseguente dismissione della versione analogica dei registri di stato civile, sono definiti con uno o piu' decreti di cui al comma 6-bis. (38)
 
-2-ter. Con uno o piu' decreti di cui al comma 6-bis sono definite le modalita' di integrazione nell'ANPR delle liste elettorali e dei dati relativi all'iscrizione nelle liste di sezione di cui al [decreto del Presidente della Repubblica 20 marzo 1967, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-03-20;223). (38)
+2-ter.
 
-2-quater. I dati relativi alle strade urbane e ai numeri civici contenuti nell'ANPR sono costantemente allineati con i medesimi dati resi disponibili dall'Archivio nazionale dei numeri civici delle strade urbane (ANNCSU), di cui all'[articolo 3 del decreto-legge 18 ottobre 2012, n. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-18;179~art3), convertito, con modificazioni, dalla [legge 17 dicembre 2012, n. 221](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-17;221).
+Con uno o piu' decreti di cui al comma 6-bis sono definite le modalita' di integrazione nell'ANPR delle liste elettorali e dei dati relativi all'iscrizione nelle liste di sezione di cui al [decreto del Presidente della Repubblica 20 marzo 1967, n. 223](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20per%20la%20disciplina%20dellelettorato%20attivo%20e%20per%20la%20tenuta%20e%20la%20revisione%20delle%20liste%20elettorali.md). (38)
 
-3. L'ANPR assicura ai comuni la disponibilita' dei dati, degli atti e degli strumenti per lo svolgimento delle funzioni di competenza statale attribuite al sindaco ai sensi dell'articolo 54, comma 3, del testo unico delle leggi sull'ordinamento degli enti locali di cui al [decreto legislativo 18 agosto 2000, n. 267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-18;267), e mette a disposizione dei comuni un sistema di controllo, gestione e interscambio, puntuale e massivo, di dati, servizi e transazioni necessario ai sistemi locali per lo svolgimento delle funzioni istituzionali di competenza comunale. Al fine dello svolgimento delle proprie funzioni, anche ampliando l'offerta dei servizi erogati on-line a cittadini e imprese, direttamente o tramite soggetti affidatari dei servizi, il Comune puo' utilizzare i dati anagrafici eventualmente detenuti localmente e costantemente allineati con ANPR al fine esclusivo di erogare o usufruire di servizi o funzionalita' non fornite da ANPR. I Comuni accedono alle informazioni anagrafiche contenute nell'ANPR, nel rispetto delle disposizioni in materia di protezione dei dati personali e delle misure di sicurezza definite con decreto del Presidente del Consiglio dei ministri ai sensi del comma 6, lettera a), per l'espletamento, anche con modalita' automatiche, delle verifiche necessarie all'erogazione dei propri servizi e allo svolgimento delle proprie funzioni. L'ANPR consente ai comuni la certificazione dei dati anagrafici nel rispetto di quanto previsto dall'[articolo 33 del decreto del Presidente della Repubblica 30 maggio 1989, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1989-05-30;223~art33), anche in modalita' telematica. La certificazione dei dati anagrafici in modalita' telematica e' assicurata dal Ministero dell'Interno tramite l'ANPR mediante l'emissione di documenti digitali muniti di sigillo elettronico qualificato, ai sensi del [Regolamento (UE) n. 910/2014 del Parlamento europeo e del Consiglio, del 23 luglio 2014](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32014R0910), esenti da imposta di bollo limitatamente agli anni 2021 e 2022. I comuni inoltre possono consentire, mediante la piattaforma di cui all'articolo 50-ter ovvero anche mediante apposite convenzioni, la fruizione dei dati anagrafici da parte dei soggetti aventi diritto. L'ANPR assicura ai soggetti di cui all'articolo 2, comma 2, lettere a) e b), l'accesso ai dati contenuti nell'ANPR. L'ANPR attribuisce a ciascun cittadino un codice identificativo univoco per garantire la circolarita' dei dati anagrafici e l'interoperabilita' con le altre banche dati delle pubbliche amministrazioni e dei gestori di servizi pubblici di cui all'articolo 2, comma 2, lettere a) e b). Il codice identificativo univoco di cui all' ottavo periodo consente l'interoperabilita' tra banche dati delle pubbliche amministrazioni e dei gestori di servizi pubblici.
+2-quater.
 
-3-bis. I soggetti di cui all'articolo 2, comma 2, lettere a) e b), accedono automaticamente ai dati contenuti nell'ANPR, per le finalita' istituzionali dichiarate, tramite la piattaforma di cui all'articolo 50-ter, in qualita' di titolari autonomi del trattamento e rispondono in via esclusiva della pertinenza, liceita' e sicurezza dei trattamenti per i quali e' effettuato l'accesso.  
-L'amministrazione titolare
+I dati relativi alle strade urbane e ai numeri civici contenuti nell'ANPR sono costantemente allineati con i medesimi dati resi disponibili dall'Archivio nazionale dei numeri civici delle strade urbane (ANNCSU), di cui all'[articolo 3 del decreto-legge 18 ottobre 2012, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-18;179#art_3), convertito, con modificazioni, dalla [legge 17 dicembre 2012, n. 221](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20ottobre%202012%20n.%20179%20recante%20ulteriori%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0244.md).
 
-((dell'ANPR))
+3.
 
-non e' responsabile per il trattamento dei dati effettuati dai medesimi soggetti in difformita' dalle finalita' dichiarate,
+L'ANPR assicura ai comuni la disponibilita' dei dati, degli atti e degli strumenti per lo svolgimento delle funzioni di competenza statale attribuite al sindaco ai sensi dell'articolo 54, comma 3, del testo unico delle leggi sull'ordinamento degli enti locali di cui al [decreto legislativo 18 agosto 2000, n. 267](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md), e mette a disposizione dei comuni un sistema di controllo, gestione e interscambio, puntuale e massivo, di dati, servizi e transazioni necessario ai sistemi locali per lo svolgimento delle funzioni istituzionali di competenza comunale. Al fine dello svolgimento delle proprie funzioni, anche ampliando l'offerta dei servizi erogati on-line a cittadini e imprese, direttamente o tramite soggetti affidatari dei servizi, il Comune puo' utilizzare i dati anagrafici eventualmente detenuti localmente e costantemente allineati con ANPR al fine esclusivo di erogare o usufruire di servizi o funzionalita' non fornite da ANPR. I Comuni accedono alle informazioni anagrafiche contenute nell'ANPR, nel rispetto delle disposizioni in materia di protezione dei dati personali e delle misure di sicurezza definite con decreto del Presidente del Consiglio dei ministri ai sensi del comma 6, lettera a), per l'espletamento, anche con modalita' automatiche, delle verifiche necessarie all'erogazione dei propri servizi e allo svolgimento delle proprie funzioni. L'ANPR consente ai comuni la certificazione dei dati anagrafici nel rispetto di quanto previsto dall'[articolo 33 del decreto del Presidente della Repubblica 30 maggio 1989, n. 223](../Regolamenti%20governativi/Approvazione%20del%20nuovo%20regolamento%20anagrafico%20della%20popolazione%20residente.md), anche in modalita' telematica. La certificazione dei dati anagrafici in modalita' telematica e' assicurata dal Ministero dell'Interno tramite l'ANPR mediante l'emissione di documenti digitali muniti di sigillo elettronico qualificato, ai sensi del Regolamento (UE) n. 910/2014 del Parlamento europeo e del Consiglio, del 23 luglio 2014, esenti da imposta di bollo limitatamente agli anni 2021 e 2022. I comuni inoltre possono consentire, mediante la piattaforma di cui all'articolo 50-ter ovvero anche mediante apposite convenzioni, la fruizione dei dati anagrafici da parte dei soggetti aventi diritto. L'ANPR assicura ai soggetti di cui all'articolo 2, comma 2, lettere a) e b), l'accesso ai dati contenuti nell'ANPR. L'ANPR attribuisce a ciascun cittadino un codice identificativo univoco per garantire la circolarita' dei dati anagrafici e l'interoperabilita' con le altre banche dati delle pubbliche amministrazioni e dei gestori di servizi pubblici di cui all'articolo 2, comma 2, lettere a) e b). Il codice identificativo univoco di cui all' ottavo periodo consente l'interoperabilita' tra banche dati delle pubbliche amministrazioni e dei gestori di servizi pubblici.
 
-((ferma restando))
+3-bis.
 
-la vigilanza sugli accessi effettuata secondo le linee guida adottate
+I soggetti di cui all'articolo 2, comma 2, lettere a) e b), accedono automaticamente ai dati contenuti nell'ANPR, per le finalita' istituzionali dichiarate, tramite la piattaforma di cui all'articolo 50-ter, in qualita' di titolari autonomi del trattamento e rispondono in via esclusiva della pertinenza, liceita' e sicurezza dei trattamenti per i quali e' effettuato l'accesso.
+L'amministrazione titolare ((dell'ANPR)) non e' responsabile per il trattamento dei dati effettuati dai medesimi soggetti in difformita' dalle finalita' dichiarate, ((ferma restando)) la vigilanza sugli accessi effettuata secondo le linee guida adottate ((dall'AgID)).
 
-((dall'AgID))
+4.
 
-.
+Con il decreto di cui al comma 6 sono disciplinate le modalita' di integrazione nell'ANPR dei dati dei cittadini attualmente registrati in anagrafi istituite presso altre amministrazioni nonche' dei dati relativi al numero e alla data di emissione e di scadenza della carta di identita' della popolazione residente.
 
-4. Con il decreto di cui al comma 6 sono disciplinate le modalita' di integrazione nell'ANPR dei dati dei cittadini attualmente registrati in anagrafi istituite presso altre amministrazioni nonche' dei dati relativi al numero e alla data di emissione e di scadenza della carta di identita' della popolazione residente.
+5.
 
-5. Ai fini della gestione e della raccolta informatizzata di dati dei cittadini, i soggetti di cui all'articolo 2, comma 2, lettere a) e b), si avvalgono esclusivamente dell'ANPR, che viene integrata con gli ulteriori dati a tal fine necessari, o garantiscono un costante allineamento dei propri archivi informatizzati, integrati con il codice identificativo univoco di cui al comma 3, con le anagrafiche contenute nell'ANPR.
+Ai fini della gestione e della raccolta informatizzata di dati dei cittadini, i soggetti di cui all'articolo 2, comma 2, lettere a) e b), si avvalgono esclusivamente dell'ANPR, che viene integrata con gli ulteriori dati a tal fine necessari, o garantiscono un costante allineamento dei propri archivi informatizzati, integrati con il codice identificativo univoco di cui al comma 3, con le anagrafiche contenute nell'ANPR.
 
-6. Con uno o piu' decreti del Presidente del Consiglio dei Ministri, su proposta del Ministro dell'interno, del Ministro per la pubblica amministrazione e la semplificazione e del Ministro delegato all'innovazione tecnologica, di concerto con il Ministro dell'economia e delle finanze, d'intesa con l'Agenzia per l'Italia digitale, la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano nonche' con la Conferenza Stato - citta', di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281~art8), per gli aspetti d'interesse dei comuni, sentita l'ISTAT e acquisito il parere del Garante per la protezione dei dati personali, sono stabiliti i tempi e le modalita' di attuazione delle disposizioni del presente articolo, anche con riferimento:
+6.
 
-a) alle garanzie e alle misure di sicurezza da adottare nel trattamento dei dati personali, alle modalita' e ai tempi di conservazione dei dati e all'accesso ai dati da parte delle pubbliche amministrazioni per le proprie finalita' istituzionali secondo le modalita' di cui all'articolo (50);
+Con uno o piu' decreti del Presidente del Consiglio dei Ministri, su proposta del Ministro dell'interno, del Ministro per la pubblica amministrazione e la semplificazione e del Ministro delegato all'innovazione tecnologica, di concerto con il Ministro dell'economia e delle finanze, d'intesa con l'Agenzia per l'Italia digitale, la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano nonche' con la Conferenza Stato - citta', di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), per gli aspetti d'interesse dei comuni, sentita l'ISTAT e acquisito il parere del Garante per la protezione dei dati personali, sono stabiliti i tempi e le modalita' di attuazione delle disposizioni del presente articolo, anche con riferimento:
+                            a)
+                                alle garanzie e alle misure di sicurezza da adottare nel trattamento dei dati personali, alle modalita' e ai tempi di conservazione dei dati e all'accesso ai dati da parte delle pubbliche amministrazioni per le proprie finalita' istituzionali secondo le modalita' di cui all'articolo (50);
+                            b)
+                                ai criteri per l'interoperabilita' dell'ANPR con le altre banche dati di rilevanza nazionale e regionale, secondo le regole tecniche del sistema pubblico di connettivita' di cui al capo VIII del presente Codice, in modo che le informazioni di anagrafe, una volta rese dai cittadini, si intendano acquisite dalle pubbliche amministrazioni senza necessita' di ulteriori adempimenti o duplicazioni da parte degli stessi;
+                            c)
+                                all'erogazione di altri servizi resi disponibili dall'ANPR, tra i quali il servizio di invio telematico delle attestazioni e delle dichiarazioni di nascita ai sensi dell'[articolo 30, comma 4, del decreto del Presidente della Repubblica 3 novembre 2000, n. 396](../Regolamenti%20governativi/Regolamento%20per%20la%20revisione%20e%20la%20semplificazione%20dellordinamento%20dello%20stato%20civile%20a%20norma%20dellarticolo%202%20comma%2012%20della%20legge%2015%20maggio%201997%20n.%20127.md), e della dichiarazione di morte ai sensi degli articoli 72 e 74 dello stesso decreto nonche' della denuncia di morte prevista dall'articolo 1 del regolamento di polizia mortuaria di cui al [decreto del Presidente della Repubblica 10 settembre 1990, n. 285](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20polizia%20mortuaria.md), compatibile con il sistema di trasmissione di cui al decreto del Ministro della salute in data 26 febbraio 2010, pubblicato nella Gazzetta Ufficiale n. 65 del 19 marzo 2010.
 
-b) ai criteri per l'interoperabilita' dell'ANPR con le altre banche dati di rilevanza nazionale e regionale, secondo le regole tecniche del sistema pubblico di connettivita' di cui al capo VIII del presente Codice, in modo che le informazioni di anagrafe, una volta rese dai cittadini, si intendano acquisite dalle pubbliche amministrazioni senza necessita' di ulteriori adempimenti o duplicazioni da parte degli stessi;
+6-bis.
 
-c) all'erogazione di altri servizi resi disponibili dall'ANPR, tra i quali il servizio di invio telematico delle attestazioni e delle dichiarazioni di nascita ai sensi dell'[articolo 30, comma 4, del decreto del Presidente della Repubblica 3 novembre 2000, n. 396](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-11-03;396~art30-com4), e della dichiarazione di morte ai sensi degli articoli 72 e 74 dello stesso decreto nonche' della denuncia di morte prevista dall'articolo 1 del regolamento di polizia mortuaria di cui al [decreto del Presidente della Repubblica 10 settembre 1990, n. 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-09-10;285), compatibile con il sistema di trasmissione di cui al [decreto del Ministro della salute in data 26 febbraio 2010, pubblicato nella Gazzetta Ufficiale n. 65 del 19 marzo 2010](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2010-03-19&numeroGazzetta=65).
-
-6-bis. Con uno o piu' decreti del Ministro dell'interno, adottati di concerto con il Ministro per l'innovazione tecnologica e la transizione digitale e il Ministro per la pubblica amministrazione, sentiti il Garante per la protezione dei dati personali e la Conferenza Stato-citta' ed autonomie locali, sono assicurati l'aggiornamento dei servizi resi disponibili dall'ANPR alle pubbliche amministrazioni, agli organismi che erogano pubblici servizi e ai privati, nonche' l'adeguamento e l'evoluzione delle caratteristiche tecniche della piattaforma di funzionamento dell'ANPR. (38)   
-(21)
+Con uno o piu' decreti del Ministro dell'interno, adottati di concerto con il Ministro per l'innovazione tecnologica e la transizione digitale e il Ministro per la pubblica amministrazione, sentiti il Garante per la protezione dei dati personali e la Conferenza Stato-citta' ed autonomie locali, sono assicurati l'aggiornamento dei servizi resi disponibili dall'ANPR alle pubbliche amministrazioni, agli organismi che erogano pubblici servizi e ai privati, nonche' l'adeguamento e l'evoluzione delle caratteristiche tecniche della piattaforma di funzionamento dell'ANPR. (38) 
+ (21)
 
 -------------
 
 AGGIORNAMENTO (21)
 
-Il [D.L. 21 giugno 2013, n. 69](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69), convertito con modificazioni dalla [L. 9 agosto 2013, n. 98](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-08-09;98), nel modificare l'art, [2 comma 1, del D.L. 18 ottobre 2012, n. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-18;179~art2-com1), convertito con modificazioni dalla [L. 17 dicembre 2012, n. 221](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-17;221), ha disposto (con l'art. 13, comma 2-ter) che i decreti del Presidente del Consiglio dei ministri previsti dalle disposizioni di cui al presente articolo qualora non ancora adottati e decorsi ulteriori trenta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, sono adottati anche ove non sia pervenuto il concerto dei Ministri interessati.
+Il [D.L. 21 giugno 2013, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69), convertito con modificazioni dalla [L. 9 agosto 2013, n. 98](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20giugno%202013%20n.%2069%20recante%20disposizioni%20urgenti%20per%20il%20rilancio%20delleconomia.%2013G00140.md), nel modificare l'art, [2 comma 1, del D.L. 18 ottobre 2012, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-18;179#art_2-com1), convertito con modificazioni dalla [L. 17 dicembre 2012, n. 221](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20ottobre%202012%20n.%20179%20recante%20ulteriori%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0244.md), ha disposto (con l'art. 13, comma 2-ter) che i decreti del Presidente del Consiglio dei ministri previsti dalle disposizioni di cui al presente articolo qualora non ancora adottati e decorsi ulteriori trenta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, sono adottati anche ove non sia pervenuto il concerto dei Ministri interessati.
 
 -------------
 
 AGGIORNAMENTO (38)
 
-Il [D.L. 31 maggio 2021, n. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-31;77), convertito con modificazioni dalla [L. 29 luglio 2021, n. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-07-29;108), ha disposto (con l'art. 39, comma 3) che "Con esclusione della lettera c) del comma 1, l'efficacia delle disposizioni dei commi 1 e 2, i cui oneri sono a carico delle risorse previste per l'attuazione di progetti compresi nel PNRR, resta subordinata alla definitiva approvazione del PNRR da parte del Consiglio dell'Unione europea".
+Il [D.L. 31 maggio 2021, n. 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-31;77), convertito con modificazioni dalla [L. 29 luglio 2021, n. 108](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20maggio%202021%20n.%2077%20recante%20governance%20del%20Piano%20nazionale%20di%20ripresa%20e%20resilienza%20e%20prime%20misure%20di%20rafforzamento%20delle%20struttur_55630b637f4d.md), ha disposto (con l'art. 39, comma 3) che "Con esclusione della lettera c) del comma 1, l'efficacia delle disposizioni dei commi 1 e 2, i cui oneri sono a carico delle risorse previste per l'attuazione di progetti compresi nel PNRR, resta subordinata alla definitiva approvazione del PNRR da parte del Consiglio dell'Unione europea".
 
-### Art. 62-bis
+### Art. 62-bis. — (Banca dati nazionale dei contratti pubblici).
 
-(Banca dati nazionale dei contratti pubblici).
+1.Per favorire la riduzione degli oneri amministrativi derivanti dagli obblighi informativi ed assicurare l'efficacia, la trasparenza e il controllo in tempo reale dell'azione amministrativa per l'allocazione della spesa pubblica in lavori, servizi e forniture, anche al fine del rispetto della legalita' e del corretto agire della pubblica amministrazione e prevenire fenomeni di corruzione, si utilizza la "Banca dati nazionale dei contratti pubblici" (BDNCP) ((gestita dall'Autorita' Nazionale Anticorruzione ai sensi dell'articolo 213 del decreto legislativo 18 aprile 2016, n. 50)).
 
-  
-  
-1.Per favorire la riduzione degli oneri amministrativi derivanti dagli obblighi informativi ed assicurare l'efficacia, la trasparenza e il controllo in tempo reale dell'azione amministrativa per l'allocazione della spesa pubblica in lavori, servizi e forniture, anche al fine del rispetto della legalita' e del corretto agire della pubblica amministrazione e prevenire fenomeni di corruzione, si utilizza la "Banca dati nazionale dei contratti pubblici" (BDNCP)
+### Art. 62-ter. — (Anagrafe nazionale degli assistiti).
 
-((gestita dall'Autorita' Nazionale Anticorruzione ai sensi dell'[articolo 213 del decreto legislativo 18 aprile 2016, n. 50](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-04-18;50~art213)))
+1.
 
-.   
+Per rafforzare gli interventi in tema di monitoraggio della spesa del settore sanitario, accelerare il processo di automazione amministrativa e migliorare i servizi per i cittadini e le pubbliche amministrazioni, e' istituita, nell'ambito del sistema informativo realizzato dal Ministero dell'economia e delle finanze in attuazione di quanto disposto dall'[articolo 50 del decreto-legge 30 settembre 2003, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-09-30;269#art_50), convertito, con modificazioni, dalla [legge 24 novembre 2003, n. 326](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20settembre%202003%20n.%20269%20recante%20disposizioni%20urgenti%20per%20favorire%20lo%20sviluppo%20e%20per%20la%20correzione%20dellandamento%20dei%20conti%20pubblici.md), l'Anagrafe nazionale degli assistiti (ANA).
 
-### Art. 62-ter
+2.
 
-(Anagrafe nazionale degli assistiti).
+L'ANA, realizzata dal Ministero dell'economia e delle finanze, in accordo con il Ministero della salute in relazione alle specifiche esigenze di monitoraggio dei livelli essenziali di assistenza (LEA), nel rispetto delle previsioni di cui al comma 5 dell'articolo 62 del presente Codice, subentra, per tutte le finalita' previste dalla normativa vigente, alle anagrafi e agli elenchi degli assistiti tenuti dalle singole aziende sanitarie locali, ai sensi dell'[articolo 7 della legge 7 agosto 1982, n. 526](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-07;526#art_7), che mantengono la titolarita' dei dati di propria competenza e ne assicurano l'aggiornamento.
 
-1. Per rafforzare gli interventi in tema di monitoraggio della spesa del settore sanitario, accelerare il processo di automazione amministrativa e migliorare i servizi per i cittadini e le pubbliche amministrazioni, e' istituita, nell'ambito del sistema informativo realizzato dal Ministero dell'economia e delle finanze in attuazione di quanto disposto dall'[articolo 50 del decreto-legge 30 settembre 2003, n. 269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-09-30;269~art50), convertito, con modificazioni, dalla [legge 24 novembre 2003, n. 326](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-11-24;326), l'Anagrafe nazionale degli assistiti (ANA).
+3.
 
-2. L'ANA, realizzata dal Ministero dell'economia e delle finanze, in accordo con il Ministero della salute in relazione alle specifiche esigenze di monitoraggio dei livelli essenziali di assistenza (LEA), nel rispetto delle previsioni di cui al comma 5 dell'articolo 62 del presente Codice, subentra, per tutte le finalita' previste dalla normativa vigente, alle anagrafi e agli elenchi degli assistiti tenuti dalle singole aziende sanitarie locali, ai sensi dell'[articolo 7 della legge 7 agosto 1982, n. 526](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-07;526~art7), che mantengono la titolarita' dei dati di propria competenza e ne assicurano l'aggiornamento.
+L'ANA assicura alla singola azienda sanitaria locale la disponibilita' dei dati e degli strumenti per lo svolgimento delle funzioni di propria competenza e garantisce l'accesso ai dati in essa contenuti da parte delle pubbliche amministrazioni per le relative finalita' istituzionali, secondo le modalita' di cui ((all'articolo 60, comma 2-bis,)) del presente Codice.
 
-3. L'ANA assicura alla singola azienda sanitaria locale la disponibilita' dei dati e degli strumenti per lo svolgimento delle funzioni di propria competenza e garantisce l'accesso ai dati in essa contenuti da parte delle pubbliche amministrazioni per le relative finalita' istituzionali, secondo le modalita' di cui
+4.
 
-((all'articolo 60, comma 2-bis,))
+Con il subentro dell'ANA, l'azienda sanitaria locale cessa di fornire ai cittadini il libretto sanitario personale previsto dall'[articolo 27 della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_27). E' facolta' dei cittadini di accedere in rete ai propri dati contenuti nell'ANA, secondo le modalita' di cui al comma 1 dell'articolo 6 del presente Codice, ovvero di richiedere presso l'azienda sanitaria locale competente copia cartacea degli stessi.
 
-del presente Codice.
+5.
 
-4. Con il subentro dell'ANA, l'azienda sanitaria locale cessa di fornire ai cittadini il libretto sanitario personale previsto dall'[articolo 27 della legge 23 dicembre 1978, n. 833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833~art27). E' facolta' dei cittadini di accedere in rete ai propri dati contenuti nell'ANA, secondo le modalita' di cui al comma 1 dell'articolo 6 del presente Codice, ovvero di richiedere presso l'azienda sanitaria locale competente copia cartacea degli stessi.
+In caso di trasferimento di residenza del cittadino, l'ANA ne da' immediata comunicazione in modalita' telematica alle aziende sanitarie locali interessate dal trasferimento. L'azienda sanitaria locale nel cui territorio e' compresa la nuova residenza provvede alla presa in carico del cittadino, nonche' all'aggiornamento dell'ANA per i dati di propria competenza. Nessun'altra comunicazione in merito al trasferimento di residenza e' dovuta dal cittadino alle aziende sanitarie locali interessate. (28)
 
-5. In caso di trasferimento di residenza del cittadino, l'ANA ne da' immediata comunicazione in modalita' telematica alle aziende sanitarie locali interessate dal trasferimento. L'azienda sanitaria locale nel cui territorio e' compresa la nuova residenza provvede alla presa in carico del cittadino, nonche' all'aggiornamento dell'ANA per i dati di propria competenza. Nessun'altra comunicazione in merito al trasferimento di residenza e' dovuta dal cittadino alle aziende sanitarie locali interessate. (28)
+6.
 
-6. L'ANA assicura al nuovo sistema informativo sanitario nazionale realizzato dal Ministero della salute in attuazione di quanto disposto dall'[articolo 87 della legge 23 dicembre 2000, n. 388](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388~art87), con le modalita' definite dal decreto del Presidente del Consiglio dei ministri di cui al comma 7, l'accesso ai dati e la disponibilita' degli strumenti funzionali a garantire l'appropriatezza e l'efficacia delle prestazioni di cura erogate al cittadino, nonche' per le finalita' di cui all'[articolo 15, comma 25-bis, del decreto-legge 6 luglio 2012, n. 95](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95~art15-com25bis), convertito, con modificazioni, dalla [legge 7 agosto 2012, n. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135). (28)
+L'ANA assicura al nuovo sistema informativo sanitario nazionale realizzato dal Ministero della salute in attuazione di quanto disposto dall'[articolo 87 della legge 23 dicembre 2000, n. 388](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), con le modalita' definite dal decreto del Presidente del Consiglio dei ministri di cui al comma 7, l'accesso ai dati e la disponibilita' degli strumenti funzionali a garantire l'appropriatezza e l'efficacia delle prestazioni di cura erogate al cittadino, nonche' per le finalita' di cui all'[articolo 15, comma 25-bis, del decreto-legge 6 luglio 2012, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95#art_15-com25bis), convertito, con modificazioni, dalla [legge 7 agosto 2012, n. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md). (28)
 
-7. Entro il 30 giugno 2014, con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro della salute e del Ministro dell'economia e delle finanze, previa intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sono stabiliti:
+7.
 
-a) i contenuti dell'ANA, tra i quali devono essere inclusi
-
-((le scelte del medico di medicina generale e del pediatra di libera scelta))
-
-, il codice esenzione e il domicilio;
-
-b) il piano per il graduale subentro dell'ANA alle anagrafi e agli elenchi degli assistiti tenuti dalle singole aziende sanitarie locali, da completare entro il 30 giugno 2015;
-
-c) le garanzie e le misure di sicurezza da adottare, i criteri per l'interoperabilita' dell'ANA con le altre banche dati di rilevanza nazionale e regionale, nonche' le modalita' di cooperazione dell'ANA con banche dati gia' istituite a livello regionale per le medesime finalita', nel rispetto della normativa sulla protezione dei dati personali, di cui al [decreto legislativo 30 giugno 2003, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196), e delle regole tecniche del sistema pubblico di connettivita', ai sensi del presente Codice.
+Entro il 30 giugno 2014, con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro della salute e del Ministro dell'economia e delle finanze, previa intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sono stabiliti:
+                            a)
+                                i contenuti dell'ANA, tra i quali devono essere inclusi ((le scelte del medico di medicina generale e del pediatra di libera scelta)), il codice esenzione e il domicilio;
+                            b)
+                                il piano per il graduale subentro dell'ANA alle anagrafi e agli elenchi degli assistiti tenuti dalle singole aziende sanitarie locali, da completare entro il 30 giugno 2015;
+                            c)
+                                le garanzie e le misure di sicurezza da adottare, i criteri per l'interoperabilita' dell'ANA con le altre banche dati di rilevanza nazionale e regionale, nonche' le modalita' di cooperazione dell'ANA con banche dati gia' istituite a livello regionale per le medesime finalita', nel rispetto della normativa sulla protezione dei dati personali, di cui al [decreto legislativo 30 giugno 2003, n. 196](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), e delle regole tecniche del sistema pubblico di connettivita', ai sensi del presente Codice.
 
 ------------
 
 AGGIORNAMENTO (28)
 
-Il [D.Lgs. 26 agosto 2016, n. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179) ha disposto (con l'art. 61, comma 2, lettera d)) che la parola «cittadino», ovunque ricorra, si intende come «persona fisica».
+Il [D.Lgs. 26 agosto 2016, n. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md) ha disposto (con l'art. 61, comma 2, lettera d)) che la parola «cittadino», ovunque ricorra, si intende come «persona fisica».
 
-### Art. 62-quater
-
-(( (Anagrafe nazionale dell'istruzione). ))
+### Art. 62-quater. — (( (Anagrafe nazionale dell'istruzione). ))
 
 ((
 
-1. Per rafforzare gli interventi nel settore dell'istruzione, accelerare il processo di automazione amministrativa e migliorare i servizi per i cittadini e per le pubbliche amministrazioni, e' istituita, nell'ambito di un apposito sistema informativo denominato hubscuola, realizzato dal Ministero dell'istruzione, l'Anagrafe nazionale dell'istruzione (ANIST).
+1.
 
-2. L'ANIST, realizzata dal Ministero dell'istruzione, subentra, per tutte le finalita' previste dalla normativa vigente, alle anagrafi e alle banche di dati degli studenti, dei docenti, del personale amministrativo, tecnico e ausiliario (ATA), delle istituzioni scolastiche e degli edifici scolastici, anche istituite a livello regionale, provinciale e locale per le medesime finalita', che mantengono la titolarita' dei dati di propria competenza e ne assicurano l'aggiornamento.
+Per rafforzare gli interventi nel settore dell'istruzione, accelerare il processo di automazione amministrativa e migliorare i servizi per i cittadini e per le pubbliche amministrazioni, e' istituita, nell'ambito di un apposito sistema informativo denominato hubscuola, realizzato dal Ministero dell'istruzione, l'Anagrafe nazionale dell'istruzione (ANIST).
 
-3. L'ANIST assicura alle regioni, ai comuni e alle istituzioni scolastiche la disponibilita' dei dati e degli strumenti per lo svolgimento delle funzioni di propria competenza, garantisce l'accesso ai dati in essa contenuti da parte delle pubbliche amministrazioni per le relative finalita' istituzionali e mette a disposizione del Ministero dell'interno le informazioni relative ai titoli di studio per il loro inserimento nell'ANPR.
+2.
 
-4. Anche ai fini del comma 5 dell'articolo 62, l'ANIST e' costantemente allineata con l'ANPR per quanto riguarda i dati degli studenti e delle loro famiglie, dei docenti e del personale ATA.  
-L'ANIST e' costantemente alimentata con i dati relativi al rendimento scolastico degli studenti attraverso l'interoperabilita' con i registri scolastici di cui all'[articolo 7, comma 31, del decreto-legge 6 luglio 2012, n. 95](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95~art7-com31), convertito, con modificazioni, dalla [legge 7 agosto 2012, n. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135). L'ANIST, con riferimento alla codifica e al georiferimento dei numeri civici in essa contenuti, e' costantemente aggiornata attraverso l'allineamento con le risultanze dell'Archivio nazionale dei numeri civici delle strade urbane, di cui all'[articolo 3 del decreto-legge 18 ottobre 2012, n. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-18;179~art3), convertito, con modificazioni, dalla [legge 17 dicembre 2012, n. 221](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-17;221).
+L'ANIST, realizzata dal Ministero dell'istruzione, subentra, per tutte le finalita' previste dalla normativa vigente, alle anagrafi e alle banche di dati degli studenti, dei docenti, del personale amministrativo, tecnico e ausiliario (ATA), delle istituzioni scolastiche e degli edifici scolastici, anche istituite a livello regionale, provinciale e locale per le medesime finalita', che mantengono la titolarita' dei dati di propria competenza e ne assicurano l'aggiornamento.
 
-5. I cittadini, per consultare i propri dati e ottenere il rilascio di certificazioni, possono accedere all'ANIST con le modalita' di cui al comma 2-quater dell'articolo 64 ovvero tramite il punto di accesso di cui all'articolo 64-bis. L'ANIST rende disponibili i dati necessari per automatizzare le procedure di iscrizione on line alle istituzioni scolastiche di ogni ordine e grado, di cui all'[articolo 7, comma 28, del decreto-legge 6 luglio 2012, n. 95](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95~art7-com28), convertito, con modificazioni, dalla [legge 7 agosto 2012, n. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135).
+3.
 
-6. Con decreto del Ministro dell'istruzione, di concerto con il Ministro per l'innovazione tecnologica e la transizione digitale e con il Ministro per la pubblica amministrazione, da adottare entro il 30 settembre 2021, previa intesa in sede di Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281~art8), acquisito il parere del Garante per la protezione dei dati personali, sono stabiliti:
+L'ANIST assicura alle regioni, ai comuni e alle istituzioni scolastiche la disponibilita' dei dati e degli strumenti per lo svolgimento delle funzioni di propria competenza, garantisce l'accesso ai dati in essa contenuti da parte delle pubbliche amministrazioni per le relative finalita' istituzionali e mette a disposizione del Ministero dell'interno le informazioni relative ai titoli di studio per il loro inserimento nell'ANPR.
+
+4.
+
+Anche ai fini del comma 5 dell'articolo 62, l'ANIST e' costantemente allineata con l'ANPR per quanto riguarda i dati degli studenti e delle loro famiglie, dei docenti e del personale ATA.
+L'ANIST e' costantemente alimentata con i dati relativi al rendimento scolastico degli studenti attraverso l'interoperabilita' con i registri scolastici di cui all'[articolo 7, comma 31, del decreto-legge 6 luglio 2012, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95#art_7-com31), convertito, con modificazioni, dalla [legge 7 agosto 2012, n. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md). L'ANIST, con riferimento alla codifica e al georiferimento dei numeri civici in essa contenuti, e' costantemente aggiornata attraverso l'allineamento con le risultanze dell'Archivio nazionale dei numeri civici delle strade urbane, di cui all'[articolo 3 del decreto-legge 18 ottobre 2012, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-18;179#art_3), convertito, con modificazioni, dalla [legge 17 dicembre 2012, n. 221](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20ottobre%202012%20n.%20179%20recante%20ulteriori%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0244.md).
+
+5.
+
+I cittadini, per consultare i propri dati e ottenere il rilascio di certificazioni, possono accedere all'ANIST con le modalita' di cui al comma 2-quater dell'articolo 64 ovvero tramite il punto di accesso di cui all'articolo 64-bis. L'ANIST rende disponibili i dati necessari per automatizzare le procedure di iscrizione on line alle istituzioni scolastiche di ogni ordine e grado, di cui all'[articolo 7, comma 28, del decreto-legge 6 luglio 2012, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95#art_7-com28), convertito, con modificazioni, dalla [legge 7 agosto 2012, n. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md).
+
+6. Con decreto del Ministro dell'istruzione, di concerto con il Ministro per l'innovazione tecnologica e la transizione digitale e con il Ministro per la pubblica amministrazione, da adottare entro il 30 settembre 2021, previa intesa in sede di Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), acquisito il parere del Garante per la protezione dei dati personali, sono stabiliti:
 
 a) i dati che devono essere contenuti nell'ANIST, con riferimento alle tre componenti degli studenti, dei docenti e personale ATA e delle istituzioni scolastiche ed edifici scolastici;
 
-b) le garanzie e le misure di sicurezza da adottare, le modalita' di cooperazione dell'ANIST con banche di dati istituite a livello regionale, provinciale e locale per le medesime finalita', nonche' le modalita' di alimentazione da parte dei registri scolastici di cui all'[articolo 7, comma 31, del decreto-legge 6 luglio 2012, n. 95](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95~art7-com31), convertito, con modificazioni, dalla [legge 7 agosto 2012, n. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135), nel rispetto della normativa in materia di protezione dei dati personali e delle regole tecniche del sistema pubblico di connettivita'.  
+b) le garanzie e le misure di sicurezza da adottare, le modalita' di cooperazione dell'ANIST con banche di dati istituite a livello regionale, provinciale e locale per le medesime finalita', nonche' le modalita' di alimentazione da parte dei registri scolastici di cui all'[articolo 7, comma 31, del decreto-legge 6 luglio 2012, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95#art_7-com31), convertito, con modificazioni, dalla [legge 7 agosto 2012, n. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md), nel rispetto della normativa in materia di protezione dei dati personali e delle regole tecniche del sistema pubblico di connettivita'.
 L'allineamento dell'ANIST con le altre banche di dati di rilevanza nazionale, regionale, provinciale e locale avviene in conformita' alle linee guida adottate dall'AgID in materia di interoperabilita'))
 
-### Art. 62-quinquies
-
-(( (Anagrafe nazionale dell'istruzione superiore). ))
+### Art. 62-quinquies. — (( (Anagrafe nazionale dell'istruzione superiore). ))
 
 ((
 
-1. Per rafforzare gli interventi nel settore dell'universita' e della ricerca, accelerare il processo di automazione amministrativa e migliorare i servizi per i cittadini e le pubbliche amministrazioni, e' istituita, a cura del Ministero dell'universita' e della ricerca, l'Anagrafe nazionale dell'istruzione superiore (ANIS).
+1.
 
-2. L'ANIS e' alimentata, con le modalita' individuate con il decreto di cui al comma 5, dalle istituzioni della formazione superiore, che mantengono la titolarita' dei dati di propria competenza e ne assicurano l'aggiornamento, nonche' tramite l'Anagrafe nazionale degli studenti, dei diplomati e dei laureati degli istituti tecnici superiori e delle istituzioni della formazione superiore, di cui all'[articolo 1-bis del decreto-legge 9 maggio 2003, n. 105](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-05-09;105~art1bis), convertito, con modificazioni, dalla [legge 11 luglio 2003, n. 170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-11;170). L'ANIS assicura alla singola istituzione la disponibilita' dei dati e degli strumenti per lo svolgimento delle funzioni di propria competenza e garantisce l'accesso ai dati in essa contenuti da parte delle pubbliche amministrazioni per le relative finalita' istituzionali. L'ANIS rende disponibili i dati necessari per automatizzare le procedure di iscrizione on line alle istituzioni della formazione superiore e assicura l'interoperabilita' con le altre banche di dati di rilevanza nazionale che sono di interesse del Ministero dell'universita' e della ricerca per le relative finalita' istituzionali.
+Per rafforzare gli interventi nel settore dell'universita' e della ricerca, accelerare il processo di automazione amministrativa e migliorare i servizi per i cittadini e le pubbliche amministrazioni, e' istituita, a cura del Ministero dell'universita' e della ricerca, l'Anagrafe nazionale dell'istruzione superiore (ANIS).
 
-3. Ai sensi del comma 5 dell'articolo 62 del presente codice, l'ANIS e' costantemente allineata con l'ANPR per quanto riguarda i dati degli studenti e dei laureati.
+2.
 
-4. I cittadini, per consultare i propri dati e ottenere il rilascio di certificazioni, possono accedere all'ANIS mediante le modalita' di cui al comma 2-quater dell'articolo 64 ovvero tramite il punto di accesso di cui all'articolo 64-bis.
+L'ANIS e' alimentata, con le modalita' individuate con il decreto di cui al comma 5, dalle istituzioni della formazione superiore, che mantengono la titolarita' dei dati di propria competenza e ne assicurano l'aggiornamento, nonche' tramite l'Anagrafe nazionale degli studenti, dei diplomati e dei laureati degli istituti tecnici superiori e delle istituzioni della formazione superiore, di cui all'[articolo 1-bis del decreto-legge 9 maggio 2003, n. 105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-05-09;105#art_1bis), convertito, con modificazioni, dalla [legge 11 luglio 2003, n. 170](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20maggio%202003%20n.%20105%20recante%20disposizioni%20urgenti%20per%20le%20universita%20e%20gli%20enti%20di%20ricerca.md). L'ANIS assicura alla singola istituzione la disponibilita' dei dati e degli strumenti per lo svolgimento delle funzioni di propria competenza e garantisce l'accesso ai dati in essa contenuti da parte delle pubbliche amministrazioni per le relative finalita' istituzionali. L'ANIS rende disponibili i dati necessari per automatizzare le procedure di iscrizione on line alle istituzioni della formazione superiore e assicura l'interoperabilita' con le altre banche di dati di rilevanza nazionale che sono di interesse del Ministero dell'universita' e della ricerca per le relative finalita' istituzionali.
+
+3.
+
+Ai sensi del comma 5 dell'articolo 62 del presente codice, l'ANIS e' costantemente allineata con l'ANPR per quanto riguarda i dati degli studenti e dei laureati.
+
+4.
+
+I cittadini, per consultare i propri dati e ottenere il rilascio di certificazioni, possono accedere all'ANIS mediante le modalita' di cui al comma 2-quater dell'articolo 64 ovvero tramite il punto di accesso di cui all'articolo 64-bis.
 
 5. Con decreto del Ministro dell'universita' e della ricerca, di concerto con il Ministro per l'innovazione tecnologica e la transizione digitale e con il Ministro per la pubblica amministrazione, da adottare entro il 31 dicembre 2021, acquisito il parere del Garante per la protezione dei dati personali, sono stabiliti:
 
 a) i contenuti dell'ANIS, tra i quali i dati relativi alle iscrizioni degli studenti, all'istituzione di appartenenza e al relativo corso di studi, i titoli conseguiti e gli ulteriori dati relativi presenti nelle altre banche di dati di rilevanza nazionale di interesse del Ministero dell'universita' e della ricerca cui lo stesso puo' accedere per le relative finalita' istituzionali;
 
-b) le garanzie e le misure di sicurezza da adottare nonche' le modalita' di alimentazione da parte delle istituzioni della formazione superiore nonche' tramite l'Anagrafe nazionale degli studenti, dei diplomati e dei laureati degli istituti tecnici superiori e delle istituzioni della formazione superiore, nel rispetto della normativa in materia di protezione dei dati personali e delle regole tecniche del sistema pubblico di connettivita'.  
+b) le garanzie e le misure di sicurezza da adottare nonche' le modalita' di alimentazione da parte delle istituzioni della formazione superiore nonche' tramite l'Anagrafe nazionale degli studenti, dei diplomati e dei laureati degli istituti tecnici superiori e delle istituzioni della formazione superiore, nel rispetto della normativa in materia di protezione dei dati personali e delle regole tecniche del sistema pubblico di connettivita'.
 L'allineamento dell'ANIS con l'Anagrafe nazionale degli studenti, dei diplomati e dei laureati degli istituti tecnici superiori e delle istituzioni della formazione superiore, con l'ANPR e con le altre anagrafi di interesse del Ministero dell'universita' e della ricerca per le relative finalita' istituzionali avviene in conformita' alle linee guida adottate dall'AgID in materia di interoperabilita'))
 
-### Art. 62-sexies
+### Art. 62-sexies. — (Anagrafe nazionale digitale della gente di mare - ANGEMAR)
 
-(Anagrafe nazionale digitale della gente di mare - ANGEMAR)
+1.
 
-1. E' istituita, presso il Ministero delle infrastrutture e dei trasporti, l'Anagrafe nazionale digitale della gente di mare (ANGEMAR), finalizzata alla gestione unitaria, digitale e interoperabile dei dati relativi alla carriera professionale, ai titoli, agli imbarchi e alle abilitazioni e certificazioni della gente di mare, anche ai fini del collocamento e del monitoraggio del mercato del lavoro marittimo. L'ANGEMAR, al raggiungimento della piena operativita', sostituisce le anagrafi,
+E' istituita, presso il Ministero delle infrastrutture e dei trasporti, l'Anagrafe nazionale digitale della gente di mare (ANGEMAR), finalizzata alla gestione unitaria, digitale e interoperabile dei dati relativi alla carriera professionale, ai titoli, agli imbarchi e alle abilitazioni e certificazioni della gente di mare, anche ai fini del collocamento e del monitoraggio del mercato del lavoro marittimo. L'ANGEMAR, al raggiungimento della piena operativita', sostituisce le anagrafi, ((i registri e gli archivi)) previsti a legislazione vigente, ivi ((compresi quelli previsti dal)) [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), di cui al [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), ((dal regolamento di cui al decreto)) del [Presidente della Repubblica 15 febbraio 1952, n. 328](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica::1952-02-15;328), e ((dal regolamento di cui al decreto)) del [Presidente della Repubblica 18 aprile 2006, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica::2006-04-18;231).
 
-((i registri e gli archivi))
+2.
 
-previsti a legislazione vigente, ivi
+L'ANGEMAR e' integrata con i servizi della piattaforma digitale nazionale dati di cui all'articolo 50-ter e consente l'alimentazione, l'aggiornamento e la consultazione dei dati da parte degli ((uffici)) d'iscrizione della gente di mare, del personale appartenente alla gente di mare, degli armatori e dei centri di formazione autorizzati nonche' dei soggetti internazionali convenzionati per le parti di rispettiva competenza. L'ANGEMAR, per il tramite dei servizi resi disponibili dalla piattaforma di cui all'articolo 50-ter, e' costantemente aggiornata al fine di assicurare la coerenza dei dati ivi contenuti con l'anagrafe di cui all'articolo 62 (ANPR), con le anagrafi di cui all'articolo 62-quater (ANIST) e all'articolo 62-quinquies (ANIS), con i servizi di assistenza sanitaria al personale navigante (SASN) nonche', per le informazioni di competenza, con le anagrafi e le ((basi di dati)) detenute da altre amministrazioni.
 
-((compresi quelli previsti dal))
+3.
 
-[codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327), di cui al [regio decreto 30 marzo 1942, n. 327](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327),
+Entro centottanta giorni dalla piena operativita' dell'ANGEMAR, il libretto di navigazione di cui all'[articolo 122 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) ((,)) di cui al [regio decreto n. 327 del 1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;327), e' rilasciato sulla base delle informazioni contenute nell'ANGEMAR ed e' reso disponibile anche tramite il Sistema di portafoglio digitale italiano - Sistema IT-Wallet, ai sensi dell'articolo 64-quater. Il libretto di navigazione, dotato di microprocessore per la memorizzazione delle informazioni necessarie alla verifica dell'identita' del titolare e di quelle definite dai decreti di cui al comma 4, e' carta valore ai sensi dell'[articolo 2, comma 10-bis, della legge 13 luglio 1966, n. 559](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-13;559#art_2-com10bis), e la sua produzione e fornitura sono affidate dal Ministero delle infrastrutture e dei trasporti alla societa' di cui all'articolo 1 della medesima [legge n. 559 del 1966](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966;559).
 
-((dal regolamento di cui al decreto))
+4.
 
-del [Presidente della Repubblica 15 febbraio 1952, n. 328](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica::1952-02-15;328), e
+Con uno o piu' decreti del Ministro delle infrastrutture e dei trasporti, di concerto con l'Autorita' politica delegata in materia di innovazione tecnologica e transizione digitale, ove nominata, sono definiti:
+                            a)
+                                i dati contenuti nell'ANGEMAR, nonche' le modalita' di alimentazione, aggiornamento e conservazione degli stessi, con particolare riguardo alle misure di sicurezza informatica e alle specifiche tecniche e organizzative per la gestione e il trattamento dei dati personali, in conformita' al regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016;
+                            b)
+                                le caratteristiche del libretto di navigazione di cui all'[articolo 122 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) di cui al [regio decreto n. 327 del 1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;327), rilasciato ai sensi del comma 3, nonche' le modalita' di verifica e consultazione dello stesso.
 
-((dal regolamento di cui al decreto))
+5.
 
-del [Presidente della Repubblica 18 aprile 2006, n. 231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica::2006-04-18;231).
+Nelle more della piena operativita', ((l'ANGEMAR)) mette a disposizione un servizio informatico provvisorio per l'inserimento ((dei dati e delle informazioni essenziali da parte del personale appartenente alla gente di mare e dei centri di formazione autorizzati)), secondo le modalita' definite con decreto direttoriale del Ministero delle infrastrutture e dei trasporti. I dati e le informazioni di cui al primo periodo confluiscono nell'ANGEMAR e sono oggetto di successiva validazione secondo le modalita' stabilite dai decreti di cui al comma 4.
 
-2. L'ANGEMAR e' integrata con i servizi della piattaforma digitale nazionale dati di cui all'articolo 50-ter e consente l'alimentazione, l'aggiornamento e la consultazione dei dati da parte degli
-
-((uffici))
-
-d'iscrizione della gente di mare, del personale appartenente alla gente di mare, degli armatori e dei centri di formazione autorizzati nonche' dei soggetti internazionali convenzionati per le parti di rispettiva competenza. L'ANGEMAR, per il tramite dei servizi resi disponibili dalla piattaforma di cui all'articolo 50-ter, e' costantemente aggiornata al fine di assicurare la coerenza dei dati ivi contenuti con l'anagrafe di cui all'articolo 62 (ANPR), con le anagrafi di cui all'articolo 62-quater (ANIST) e all'articolo 62-quinquies (ANIS), con i servizi di assistenza sanitaria al personale navigante (SASN) nonche', per le informazioni di competenza, con le anagrafi e le
-
-((basi di dati))
-
-detenute da altre amministrazioni.
-
-3. Entro centottanta giorni dalla piena operativita' dell'ANGEMAR, il libretto di navigazione di cui all'[articolo 122 del codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art122)
-
-((,))
-
-di cui al [regio decreto n. 327 del 1942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;327), e' rilasciato sulla base delle informazioni contenute nell'ANGEMAR ed e' reso disponibile anche tramite il Sistema di portafoglio digitale italiano - Sistema IT-Wallet, ai sensi dell'articolo 64-quater. Il libretto di navigazione, dotato di microprocessore per la memorizzazione delle informazioni necessarie alla verifica dell'identita' del titolare e di quelle definite dai decreti di cui al comma 4, e' carta valore ai sensi dell'[articolo 2, comma 10-bis, della legge 13 luglio 1966, n. 559](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-13;559~art2-com10bis), e la sua produzione e fornitura sono affidate dal Ministero delle infrastrutture e dei trasporti alla societa' di cui all'articolo 1 della medesima [legge n. 559 del 1966](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966;559).
-
-4. Con uno o piu' decreti del Ministro delle infrastrutture e dei trasporti, di concerto con l'Autorita' politica delegata in materia di innovazione tecnologica e transizione digitale, ove nominata, sono definiti:
-
-a) i dati contenuti nell'ANGEMAR, nonche' le modalita' di alimentazione, aggiornamento e conservazione degli stessi, con particolare riguardo alle misure di sicurezza informatica e alle specifiche tecniche e organizzative per la gestione e il trattamento dei dati personali, in conformita' al [regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32016R0679);
-
-b) le caratteristiche del libretto di navigazione di cui all'[articolo 122 del codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art122) di cui al [regio decreto n. 327 del 1942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;327), rilasciato ai sensi del comma 3, nonche' le modalita' di verifica e consultazione dello stesso.
-
-5. Nelle more della piena operativita',
-
-((l'ANGEMAR))
-
-mette a disposizione un servizio informatico provvisorio per l'inserimento
-
-((dei dati e delle informazioni essenziali da parte del personale appartenente alla gente di mare e dei centri di formazione autorizzati))
-
-, secondo le modalita' definite con decreto direttoriale del Ministero delle infrastrutture e dei trasporti. I dati e le informazioni di cui al primo periodo confluiscono nell'ANGEMAR e sono oggetto di successiva validazione secondo le modalita' stabilite dai decreti di cui al comma 4.
-
-CAPO XII - Sezione III ((Identita' digitali,
+## Sezione III ((Identita' digitali,
 istanze e servizi online))
------------------------------------------------------------------------
 
-### Art. 63
+-
 
-((ARTICOLO ABROGATO DAL [D.LGS. 13 DICEMBRE 2017, N. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217)))
+### Art. 63.
 
-### Art. 64
+((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2017, N. 217))
 
-Sistema pubblico per la gestione delle identita' digitali e modalita' di accesso ai servizi erogati in rete dalle pubbliche amministrazioni
+### Art. 64. — Sistema pubblico per la gestione delle identita' digitali e modalita' di accesso ai servizi erogati in rete dalle pubbliche amministrazioni
 
-1. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
+1.
 
-2. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
-2-bis. Per favorire la diffusione di servizi in rete e agevolare l'accesso agli stessi da parte di cittadini e imprese, anche in mobilita', e' istituito, a cura dell'Agenzia per l'Italia digitale, il sistema pubblico per la gestione dell'identita' digitale di cittadini e imprese (SPID). (28)
+2.
 
-2-ter. Il sistema SPID e' costituito come insieme aperto di soggetti pubblici e privati che, previo accreditamento da parte dell'AgID, secondo modalita' definite con il decreto di cui al comma 2-sexies, identificano gli utenti per consentire loro il compimento di attivita' e l'accesso ai servizi in rete.
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
-2-quater. L'accesso ai servizi in rete erogati dalle pubbliche amministrazioni che richiedono identificazione informatica avviene tramite SPID, nonche' tramite la carta di identita' elettronica. Il sistema SPID e' adottato dalle pubbliche amministrazioni nei tempi e secondo le modalita' definiti con il decreto di cui al comma 2-sexies. Resta fermo quanto previsto dall'articolo 3-bis, comma 01.
+2-bis.
 
-2-quinquies. Ai fini dell'erogazione dei propri servizi in rete, e' altresi' riconosciuta ai soggetti privati, secondo le modalita' definite con il decreto di cui al comma 2-sexies, la facolta' di avvalersi del sistema SPID per la gestione dell'identita' digitale dei propri utenti, nonche' la facolta' di avvalersi della carta di identita' elettronica. L'adesione al sistema SPID ovvero l'utilizzo della carta di identita' elettronica per la verifica dell'accesso ai propri servizi erogati in rete per i quali e' richiesto il riconoscimento dell'utente esonera i predetti soggetti da un obbligo generale di sorveglianza delle attivita' sui propri siti, ai sensi dell'[articolo 17 del decreto legislativo 9 aprile 2003, n. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-04-09;70~art17).
+Per favorire la diffusione di servizi in rete e agevolare l'accesso agli stessi da parte di cittadini e imprese, anche in mobilita', e' istituito, a cura dell'Agenzia per l'Italia digitale, il sistema pubblico per la gestione dell'identita' digitale di cittadini e imprese (SPID). (28)
 
-2-sexies. Con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro delegato per l'innovazione tecnologica e del Ministro per la pubblica amministrazione e la semplificazione, di concerto con il Ministro dell'economia e delle finanze, sentito il Garante per la protezione dei dati personali, sono definite le caratteristiche del sistema SPID, anche con riferimento:
+2-ter.
 
-a) al modello architetturale e organizzativo del sistema;
+Il sistema SPID e' costituito come insieme aperto di soggetti pubblici e privati che, previo accreditamento da parte dell'AgID, secondo modalita' definite con il decreto di cui al comma 2-sexies, identificano gli utenti per consentire loro il compimento di attivita' e l'accesso ai servizi in rete.
 
-b) alle modalita' e ai requisiti necessari per l'accreditamento dei gestori dell'identita' digitale;
+2-quater.
 
-c) agli standard tecnologici e alle soluzioni tecniche e organizzative da adottare anche al fine di garantire l'interoperabilita' delle credenziali e degli strumenti di accesso resi disponibili dai gestori dell'identita' digitale nei riguardi di cittadini e imprese; (28)
+L'accesso ai servizi in rete erogati dalle pubbliche amministrazioni che richiedono identificazione informatica avviene tramite SPID, nonche' tramite la carta di identita' elettronica. Il sistema SPID e' adottato dalle pubbliche amministrazioni nei tempi e secondo le modalita' definiti con il decreto di cui al comma 2-sexies. Resta fermo quanto previsto dall'articolo 3-bis, comma 01.
 
-d) alle modalita' di adesione da parte di cittadini e imprese in qualita' di utenti di servizi in rete; (28)
+2-quinquies.
 
-e) ai tempi e alle modalita' di adozione da parte delle pubbliche amministrazioni in qualita' di erogatori di servizi in rete;
+Ai fini dell'erogazione dei propri servizi in rete, e' altresi' riconosciuta ai soggetti privati, secondo le modalita' definite con il decreto di cui al comma 2-sexies, la facolta' di avvalersi del sistema SPID per la gestione dell'identita' digitale dei propri utenti, nonche' la facolta' di avvalersi della carta di identita' elettronica. L'adesione al sistema SPID ovvero l'utilizzo della carta di identita' elettronica per la verifica dell'accesso ai propri servizi erogati in rete per i quali e' richiesto il riconoscimento dell'utente esonera i predetti soggetti da un obbligo generale di sorveglianza delle attivita' sui propri siti, ai sensi dell'[articolo 17 del decreto legislativo 9 aprile 2003, n. 70](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202000-31-CE%20relativa%20a%20taluni%20aspetti%20giuridici%20dei%20servizi%20della%20societa%20dellinformazione%20nel%20mercato%20interno%20con%20particolare%20riferimento%20al%20commercio%20elettronico.md).
 
-f) alle modalita' di adesione da parte delle imprese interessate in qualita' di erogatori di servizi in rete.
+2-sexies.
 
-2-septies. COMMA ABROGATO DAL [D.LGS. 13 DICEMBRE 2017, N. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217).
+Con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro delegato per l'innovazione tecnologica e del Ministro per la pubblica amministrazione e la semplificazione, di concerto con il Ministro dell'economia e delle finanze, sentito il Garante per la protezione dei dati personali, sono definite le caratteristiche del sistema SPID, anche con riferimento:
+                            a)
+                                al modello architetturale e organizzativo del sistema;
+                            b)
+                                alle modalita' e ai requisiti necessari per l'accreditamento dei gestori dell'identita' digitale;
+                            c)
+                                agli standard tecnologici e alle soluzioni tecniche e organizzative da adottare anche al fine di garantire l'interoperabilita' delle credenziali e degli strumenti di accesso resi disponibili dai gestori dell'identita' digitale nei riguardi di cittadini e imprese; (28)
+                            d)
+                                alle modalita' di adesione da parte di cittadini e imprese in qualita' di utenti di servizi in rete; (28)
+                            e)
+                                ai tempi e alle modalita' di adozione da parte delle pubbliche amministrazioni in qualita' di erogatori di servizi in rete;
+                            f)
+                                alle modalita' di adesione da parte delle imprese interessate in qualita' di erogatori di servizi in rete.
 
-2-octies. COMMA ABROGATO DAL [D.LGS. 13 DICEMBRE 2017, N. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217).
+2-septies.
 
-2-nonies. L'accesso di cui al comma 2-quater puo' avvenire anche con la carta nazionale dei servizi.
+COMMA ABROGATO DAL [D.LGS. 13 DICEMBRE 2017, N. 217](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%2026%20agosto%202016%20n.%20179%20concernente%20modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislati_7b5fbda60218.md).
 
-2-decies. Le pubbliche amministrazioni, in qualita' di fornitori dei servizi, usufruiscono gratuitamente delle verifiche rese disponibili dai gestori di identita' digitali e dai gestori di attributi qualificati.
+2-octies.
 
-2-undecies. I gestori dell'identita' digitale accreditati sono iscritti in un apposito elenco pubblico, tenuto da AgID, consultabile anche in via telematica.
+COMMA ABROGATO DAL [D.LGS. 13 DICEMBRE 2017, N. 217](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%2026%20agosto%202016%20n.%20179%20concernente%20modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislati_7b5fbda60218.md).
 
-2-duodecies. La verifica dell'identita' digitale con livello di garanzia almeno significativo, ai sensi dell'[articolo 8, paragrafo 2, del Regolamento (UE) n. 910/2014](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32014R0910) del Parlamento e del Consiglio europeo del 23 luglio 2014, produce, nelle transazioni elettroniche o per l'accesso ai servizi in rete, gli effetti del documento di riconoscimento equipollente, di cui all'articolo 35 del testo unico di cui al [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445).
+2-nonies.
 
-((La disposizione di cui al periodo precedente si applica altresi' in caso di identificazione elettronica ai fini dell'accesso ai servizi erogati dalle pubbliche amministrazioni e dai soggetti privati tramite canali fisici))
+L'accesso di cui al comma 2-quater puo' avvenire anche con la carta nazionale dei servizi.
 
-. L'identita' digitale, verificata ai sensi del presente articolo e con livello di sicurezza almeno significativo, attesta gli attributi qualificati dell'utente, ivi compresi i dati relativi al possesso di abilitazioni o autorizzazioni richieste dalla legge ovvero stati, qualita' personali e fatti contenuti in albi, elenchi o registri pubblici o comunque accertati da soggetti titolari di funzioni pubbliche,
+2-decies.
 
-((ovvero gli altri dati, fatti e informazioni funzionali alla fruizione di un servizio attestati da un gestore di attributi qualificati,))
+Le pubbliche amministrazioni, in qualita' di fornitori dei servizi, usufruiscono gratuitamente delle verifiche rese disponibili dai gestori di identita' digitali e dai gestori di attributi qualificati.
 
-secondo le modalita' stabilite da AgID con Linee guida.
+2-undecies.
 
-3. COMMA ABROGATO DAL [D.LGS. 30 DICEMBRE 2010, N. 235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-30;235). (11)
+I gestori dell'identita' digitale accreditati sono iscritti in un apposito elenco pubblico, tenuto da AgID, consultabile anche in via telematica.
 
-3-bis. Fatto salvo quanto previsto dal comma 2-nonies, i soggetti di cui all'articolo 2, comma 2, lettera a), utilizzano esclusivamente le identita' digitali SPID e la carta di identita' elettronica ai fini dell'identificazione dei cittadini che accedono ai propri servizi in rete. Con uno o piu' decreti del Presidente del Consiglio dei ministri o del Ministro delegato per l'innovazione tecnologica e la transizione digitale e' stabilita la data a decorrere dalla quale i soggetti di cui all'articolo 2, comma 2, lettera a), utilizzano esclusivamente le identita' digitali SPID, la carta di identita' elettronica e la Carta Nazionale dei servizi per consentire l'accesso delle imprese e dei professionisti ai propri servizi in rete, nonche' la data a decorrere dalla quale i soggetti di cui all'articolo 2, comma 2, lettere b) e c) utilizzano esclusivamente le identita' digitali SPID, la carta di identita' elettronica e la carta Nazionale dei servizi ai fini dell'identificazione degli utenti dei propri servizi on-line.
+2-duodecies.
+
+La verifica dell'identita' digitale con livello di garanzia almeno significativo, ai sensi dell'articolo 8, paragrafo 2, del Regolamento (UE) n. 910/2014 del Parlamento e del Consiglio europeo del 23 luglio 2014, produce, nelle transazioni elettroniche o per l'accesso ai servizi in rete, gli effetti del documento di riconoscimento equipollente, di cui all'articolo 35 del testo unico di cui al [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md). ((La disposizione di cui al periodo precedente si applica altresi' in caso di identificazione elettronica ai fini dell'accesso ai servizi erogati dalle pubbliche amministrazioni e dai soggetti privati tramite canali fisici)). L'identita' digitale, verificata ai sensi del presente articolo e con livello di sicurezza almeno significativo, attesta gli attributi qualificati dell'utente, ivi compresi i dati relativi al possesso di abilitazioni o autorizzazioni richieste dalla legge ovvero stati, qualita' personali e fatti contenuti in albi, elenchi o registri pubblici o comunque accertati da soggetti titolari di funzioni pubbliche, ((ovvero gli altri dati, fatti e informazioni funzionali alla fruizione di un servizio attestati da un gestore di attributi qualificati,)) secondo le modalita' stabilite da AgID con Linee guida.
+
+3.
+
+COMMA ABROGATO DAL [D.LGS. 30 DICEMBRE 2010, N. 235](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20recante%20Codice%20dellamministrazione%20digitale%20a%20norma%20dellarticolo%2033%20della%20legge%2018%20giugno%202009%20n.%2069.%2011G0002.md). (11)
+
+3-bis.
+
+Fatto salvo quanto previsto dal comma 2-nonies, i soggetti di cui all'articolo 2, comma 2, lettera a), utilizzano esclusivamente le identita' digitali SPID e la carta di identita' elettronica ai fini dell'identificazione dei cittadini che accedono ai propri servizi in rete. Con uno o piu' decreti del Presidente del Consiglio dei ministri o del Ministro delegato per l'innovazione tecnologica e la transizione digitale e' stabilita la data a decorrere dalla quale i soggetti di cui all'articolo 2, comma 2, lettera a), utilizzano esclusivamente le identita' digitali SPID, la carta di identita' elettronica e la Carta Nazionale dei servizi per consentire l'accesso delle imprese e dei professionisti ai propri servizi in rete, nonche' la data a decorrere dalla quale i soggetti di cui all'articolo 2, comma 2, lettere b) e c) utilizzano esclusivamente le identita' digitali SPID, la carta di identita' elettronica e la carta Nazionale dei servizi ai fini dell'identificazione degli utenti dei propri servizi on-line.
 
 ((3-ter. I gestori dell'identita' digitale accreditati, in qualita' di gestori di pubblico servizio, prima del rilascio dell'identita' digitale a una persona fisica, verificano i dati identificativi del richiedente, ivi inclusi l'indirizzo di residenza e, ove disponibili, il domicilio digitale o altro indirizzo di contatto, mediante consultazione gratuita dei dati disponibili presso l'ANPR di cui all'articolo 62, anche tramite la piattaforma prevista dall'articolo 50-ter. Tali verifiche sono svolte anche successivamente al rilascio dell'identita' digitale, con cadenza almeno annuale, anche ai fini della verifica dell'esistenza in vita. Il direttore dell'AgID, previo accertamento dell'operativita' delle funzionalita' necessarie, fissa la data a decorrere dalla quale i gestori dell'identita' digitale accreditati sono tenuti ad effettuare le verifiche di cui ai precedenti periodi))
 
@@ -2606,7 +2462,7 @@ secondo le modalita' stabilite da AgID con Linee guida.
 
 AGGIORNAMENTO (11)
 
-Il [D.L. 29 dicembre 2010, n. 225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-12-29;225), convertito con modificazioni dalla [L. 26 febbraio 2011, n. 10](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-02-26;10), ha disposto (con l'art. 1, comma 1), in relazione al comma 3 del presente articolo, che "E' fissato al 31 marzo 2011 il termine di scadenza dei termini e dei regimi giuridici indicati nella tabella 1 allegata con scadenza in data anteriore al 15 marzo 2011".
+Il [D.L. 29 dicembre 2010, n. 225](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20di%20interventi%20urgenti%20in%20materia%20tributaria%20e%20di%20sostegno%20alle%20imprese%20e%20alle%20famiglie.%2010G0251.md), convertito con modificazioni dalla [L. 26 febbraio 2011, n. 10](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20dicembre%202010%20n.%20225%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20di%20interventi%20urgenti%20in%20materia%20tributa_d5d5f921efa2.md), ha disposto (con l'art. 1, comma 1), in relazione al comma 3 del presente articolo, che "E' fissato al 31 marzo 2011 il termine di scadenza dei termini e dei regimi giuridici indicati nella tabella 1 allegata con scadenza in data anteriore al 15 marzo 2011".
 
 -------------
 
@@ -2614,463 +2470,377 @@ AGGIORNAMENTO (28)
 
 Il D.Lga. 26 agosto 2016, n. 179 ha disposto (con l'art. 61, comma 2, lettera d)) che l'espressione «cittadini e imprese», ovunque ricorra, si intende come «soggetti giuridici».
 
-### Art. 64-bis
+### Art. 64-bis. — (Accesso telematico ai servizi della Pubblica Amministrazione)
 
-(Accesso telematico ai servizi della Pubblica Amministrazione)
+1.
 
-1. I soggetti di cui all'articolo 2, comma 2, rendono fruibili i propri servizi in rete, in conformita' alle Linee guida, tramite il punto di accesso telematico attivato presso la Presidenza del Consiglio dei ministri, senza nuovi o maggiori oneri per la finanza pubblica.
+I soggetti di cui all'articolo 2, comma 2, rendono fruibili i propri servizi in rete, in conformita' alle Linee guida, tramite il punto di accesso telematico attivato presso la Presidenza del Consiglio dei ministri, senza nuovi o maggiori oneri per la finanza pubblica.
 
-1-bis. Al fine di rendere effettivo il diritto di cui all'articolo 7, comma 01, i soggetti di cui all'articolo 2, comma 2, i fornitori di identita' digitali e i prestatori dei servizi fiduciari qualificati, in sede di evoluzione, progettano e sviluppano i propri sistemi e servizi in modo da garantire l'integrazione e l'interoperabilita' tra i diversi sistemi e servizi e con i servizi di cui ai commi 1 e 1-ter, espongono per ogni servizio le relative interfacce applicative e, al fine di consentire la verifica del rispetto degli standard e livelli di qualita' di cui all'articolo 7, comma 1, adottano gli strumenti di analisi individuati dall'AgID con le Linee guida.
+1-bis.
 
-1-ter. I soggetti di cui all'articolo 2, comma 2, lettera a), rendono fruibili i propri servizi in rete, nel rispetto del principio di neutralita' tecnologica, tramite applicazione su dispositivi mobili anche attraverso il punto di accesso telematico di cui al presente articolo, salvo impedimenti di natura tecnologica attestati dalla societa' di cui all'[articolo 8, comma 2 del decreto-legge 14 dicembre 2018, n. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-12-14;135~art8-com2), convertito, con modificazioni, dalla [legge 11 febbraio 2019, n. 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-02-11;12).
+Al fine di rendere effettivo il diritto di cui all'articolo 7, comma 01, i soggetti di cui all'articolo 2, comma 2, i fornitori di identita' digitali e i prestatori dei servizi fiduciari qualificati, in sede di evoluzione, progettano e sviluppano i propri sistemi e servizi in modo da garantire l'integrazione e l'interoperabilita' tra i diversi sistemi e servizi e con i servizi di cui ai commi 1 e 1-ter, espongono per ogni servizio le relative interfacce applicative e, al fine di consentire la verifica del rispetto degli standard e livelli di qualita' di cui all'articolo 7, comma 1, adottano gli strumenti di analisi individuati dall'AgID con le Linee guida.
 
-1-quater. I soggetti di cui all'articolo 2, comma 2, lettera a), rendono fruibili tutti i loro servizi anche in modalita' digitale e, al fine di attuare il presente articolo, avviano i relativi progetti di trasformazione digitale entro il 28 febbraio 2021.
+1-ter.
 
-1-quinquies. La violazione dell'articolo 64, comma 3-bis e delle disposizioni di cui al presente articolo, costituisce mancato raggiungimento di uno specifico risultato e di un rilevante obiettivo da parte dei dirigenti responsabili delle strutture competenti e comporta la riduzione, non inferiore al 30 per cento della retribuzione di risultato e del trattamento accessorio collegato alla performance individuale dei dirigenti competenti, oltre al divieto di attribuire premi o incentivi nell'ambito delle medesime strutture.
+I soggetti di cui all'articolo 2, comma 2, lettera a), rendono fruibili i propri servizi in rete, nel rispetto del principio di neutralita' tecnologica, tramite applicazione su dispositivi mobili anche attraverso il punto di accesso telematico di cui al presente articolo, salvo impedimenti di natura tecnologica attestati dalla societa' di cui all'[articolo 8, comma 2 del decreto-legge 14 dicembre 2018, n. 135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-12-14;135#art_8-com2), convertito, con modificazioni, dalla [legge 11 febbraio 2019, n. 12](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20dicembre%202018%20n.%20135%20recante%20disposizioni%20urgenti%20in%20materia%20di%20sostegno%20e%20semplificazione%20per%20le%20imprese%20e%20per%20la%20pubblica%20amm_7999d3f738ab.md).
 
-1-sexies. 
+1-quater.
 
-((Ai minori che abbiano compiuto il quattordicesimo anno di eta' sono consentiti l'accesso e l'utilizzo del punto di accesso telematico di cui al presente articolo, anche per l'ottenimento e l'esibizione di attestazioni, titoli o abilitazioni aventi effetti giuridici, compresi quelli resi disponibili mediante il Sistema di portafoglio digitale italiano (Sistema IT-Wallet) di cui all'articolo 64-quater, senza che sia necessario l'assenso dell'esercente la responsabilita' genitoriale, fatti salvi i casi in cui la legge richieda espressamente l'intervento o l'autorizzazione dell'esercente la responsabilita' genitoriale per l'ottenimento di specifiche attestazioni, titoli o abilitazioni ovvero per la fruizione di specifici servizi))
+I soggetti di cui all'articolo 2, comma 2, lettera a), rendono fruibili tutti i loro servizi anche in modalita' digitale e, al fine di attuare il presente articolo, avviano i relativi progetti di trasformazione digitale entro il 28 febbraio 2021.
 
-.
+1-quinquies.
 
-### Art. 64-ter
+La violazione dell'articolo 64, comma 3-bis e delle disposizioni di cui al presente articolo, costituisce mancato raggiungimento di uno specifico risultato e di un rilevante obiettivo da parte dei dirigenti responsabili delle strutture competenti e comporta la riduzione, non inferiore al 30 per cento della retribuzione di risultato e del trattamento accessorio collegato alla performance individuale dei dirigenti competenti, oltre al divieto di attribuire premi o incentivi nell'ambito delle medesime strutture.
 
-(Piattaforma di gestione deleghe)
+1-sexies.
 
-1. Il cittadino iscritto
+((Ai minori che abbiano compiuto il quattordicesimo anno di eta' sono consentiti l'accesso e l'utilizzo del punto di accesso telematico di cui al presente articolo, anche per l'ottenimento e l'esibizione di attestazioni, titoli o abilitazioni aventi effetti giuridici, compresi quelli resi disponibili mediante il Sistema di portafoglio digitale italiano (Sistema IT-Wallet) di cui all'articolo 64-quater, senza che sia necessario l'assenso dell'esercente la responsabilita' genitoriale, fatti salvi i casi in cui la legge richieda espressamente l'intervento o l'autorizzazione dell'esercente la responsabilita' genitoriale per l'ottenimento di specifiche attestazioni, titoli o abilitazioni ovvero per la fruizione di specifici servizi)).
 
-((nell'ANPR))
+### Art. 64-ter. — (Piattaforma di gestione deleghe)
 
-puo' delegare l'accesso ai servizi in rete erogati dalle pubbliche amministrazioni che richiedono
+1.
 
-((l'identificazione informatica a))
+Il cittadino iscritto ((nell'ANPR)) puo' delegare l'accesso ai servizi in rete erogati dalle pubbliche amministrazioni che richiedono ((l'identificazione informatica a)) non piu' di due soggetti iscritti ((nell'ANPR)), titolari dell'identita' digitale di cui all'articolo 64, comma 2-quater, con livello di sicurezza almeno significativo.
 
-non piu' di due soggetti iscritti
+2.
 
-((nell'ANPR))
+((Il cittadino presenta la delega di cui al comma 1)) tramite la piattaforma di cui al comma 5, mediante una delle modalita' previste dall'articolo 65, comma 1, o recandosi presso gli uffici del comune di residenza. La delega e' revocabile in ogni momento. Il delegante viene puntualmente informato dalla piattaforma di cui ((al comma 5 dell'esercizio)) della delega da parte del delegato.
 
-, titolari dell'identita' digitale di cui all'articolo 64, comma 2-quater, con livello di sicurezza almeno significativo.
+3.
 
-2. 
+Per i soggetti sottoposti alle forme di tutela previste dal [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) nei casi di incapacita' totale o parziale a provvedere ai propri interessi, il Ministero della giustizia rende disponibile ((nella piattaforma)) di cui al comma 5, per il tramite della piattaforma di cui all'articolo 50-ter, le informazioni, ove disponibili in formato digitale idoneo, relative alla qualifica di tutore, di curatore o di amministratore di sostegno del soggetto che richiede l'accesso ai servizi in rete quale rappresentante del soggetto tutelato.
 
-((Il cittadino presenta la delega di cui al comma 1))
+4.
 
-tramite la piattaforma di cui al comma 5, mediante una delle modalita' previste dall'articolo 65, comma 1, o recandosi presso gli uffici del comune di residenza. La delega e' revocabile in ogni momento. Il delegante viene puntualmente informato dalla piattaforma di cui
+I gestori di identita' digitale, tramite la piattaforma di cui al comma 5, verificano l'esistenza di eventuali deleghe ((conferite)) al cittadino che effettua l'accesso ai servizi in rete erogati dalle pubbliche amministrazioni.
 
-((al comma 5 dell'esercizio))
+5.
 
-della delega da parte del delegato.
+Ai fini di cui al comma 1, l'Istituto Poligrafico e Zecca dello Stato S.p.A. realizza, gestisce e cura la manutenzione della piattaforma per la gestione delle deleghe. L'accesso ai dati attraverso la piattaforma non modifica la disciplina relativa alla titolarita' del trattamento, ferme restando le specifiche responsabilita' ai sensi dell'articolo 28 del regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, in capo all'Istituto Poligrafico e Zecca dello Stato S.p.A., nonche' le responsabilita' dei soggetti che trattano i dati in qualita' di titolari autonomi del trattamento. La realizzazione della piattaforma di cui al primo periodo rientra nel programma «Servizi digitali e cittadinanza digitale» del PNC di cui all'[articolo 1, comma 2, lettera a), numero 1), del decreto-legge 6 maggio 2021, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-06;59#art_1-com2-leta-num1), convertito, con modificazioni, dalla [legge 1° luglio 2021, n. 101](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20maggio%202021%20n.%2059%20recante%20misure%20urgenti%20relative%20al%20Fondo%20complementare%20al%20Piano%20nazionale%20di%20ripresa%20e%20resilienza%20e%20altre%20misu_e5b088cf92d2.md).
 
-3. Per i soggetti sottoposti alle forme di tutela previste dal [codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) nei casi di incapacita' totale o parziale a provvedere ai propri interessi, il Ministero della giustizia rende disponibile
+6.
 
-((nella piattaforma))
+Con decreto del Presidente del Consiglio dei ministri ovvero dell'Autorita' politica delegata in materia di innovazione tecnologica, ove nominata, adottato di concerto con il Ministro della giustizia, sentiti il Garante per la protezione dei dati personali e l'Agenzia per la cybersicurezza nazionale, sono definiti le caratteristiche tecniche, l'architettura generale, i requisiti di sicurezza, le modalita' di funzionamento della piattaforma di cui al comma 5, nonche' le tipologie di dati oggetto di trattamento e, in generale, le modalita' e le procedure per assicurare il rispetto dell'[articolo 5 del regolamento (UE) 2016/679](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2016;679#art_5).
 
-di cui al comma 5, per il tramite della piattaforma di cui all'articolo 50-ter, le informazioni, ove disponibili in formato digitale idoneo, relative alla qualifica di tutore, di curatore o di amministratore di sostegno del soggetto che richiede l'accesso ai servizi in rete quale rappresentante del soggetto tutelato.
+7.
 
-4. I gestori di identita' digitale, tramite la piattaforma di cui al comma 5, verificano l'esistenza di eventuali deleghe
+Agli oneri derivanti dalla progettazione, realizzazione e graduale messa a disposizione della piattaforma di cui al comma 5, pari a 1.589.784 euro per l'anno 2024 ed a 3.070.216 euro per l'anno 2025, si provvede a valere sulle risorse assegnate, nell'ambito del Fondo complementare al PNRR, per l'Investimento 1.4 della Missione 1, Componente 1 ((,)) di titolarita' della struttura della Presidenza del Consiglio dei ministri competente per l'innovazione tecnologica e la transizione digitale.
 
-((conferite))
+### Art. 64-quater. — (Sistema di portafoglio digitale italiano - Sistema IT-Wallet)
 
-al cittadino che effettua l'accesso ai servizi in rete erogati dalle pubbliche amministrazioni.
+1.
 
-5. Ai fini di cui al comma 1, l'Istituto Poligrafico e Zecca dello Stato S.p.A. realizza, gestisce e cura la manutenzione della piattaforma per la gestione delle deleghe. L'accesso ai dati attraverso la piattaforma non modifica la disciplina relativa alla titolarita' del trattamento, ferme restando le specifiche responsabilita' ai sensi dell'[articolo 28 del regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32016R0679), in capo all'Istituto Poligrafico e Zecca dello Stato S.p.A., nonche' le responsabilita' dei soggetti che trattano i dati in qualita' di titolari autonomi del trattamento. La realizzazione della piattaforma di cui al primo periodo rientra nel programma «Servizi digitali e cittadinanza digitale» del PNC di cui all'[articolo 1, comma 2, lettera a), numero 1), del decreto-legge 6 maggio 2021, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-06;59~art1-com2-leta-num1), convertito, con modificazioni, dalla [legge 1° luglio 2021, n. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-07-01;101).
+Al fine di valorizzare e rafforzare l'interoperabilita' tra le banche dati pubbliche attraverso la Piattaforma Digitale Nazionale Dati (PDND) di cui all'articolo 50-ter, nonche' di favorire la diffusione e l'utilizzo di servizi in rete erogati da soggetti pubblici e privati, e' istituito il Sistema di portafoglio digitale italiano (Sistema IT-Wallet).
 
-6. Con decreto del Presidente del Consiglio dei ministri ovvero dell'Autorita' politica delegata in materia di innovazione tecnologica, ove nominata, adottato di concerto con il Ministro della giustizia, sentiti il Garante per la protezione dei dati personali e l'Agenzia per la cybersicurezza nazionale, sono definiti le caratteristiche tecniche, l'architettura generale, i requisiti di sicurezza, le modalita' di funzionamento della piattaforma di cui al comma 5, nonche' le tipologie di dati oggetto di trattamento e, in generale, le modalita' e le procedure per assicurare il rispetto dell'[articolo 5 del regolamento (UE) 2016/679](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2016;679~art5).
+2.
 
-7. Agli oneri derivanti dalla progettazione, realizzazione e graduale messa a disposizione della piattaforma di cui al comma 5, pari a 1.589.784 euro per l'anno 2024 ed a 3.070.216 euro per l'anno 2025, si provvede a valere sulle risorse assegnate, nell'ambito del Fondo complementare al PNRR, per l'Investimento 1.4 della Missione 1, Componente 1
+Il Sistema IT-Wallet e' costituito da una soluzione di portafoglio digitale pubblico (IT-Wallet pubblico), resa disponibile mediante il punto di accesso telematico di cui all'articolo 64-bis, nonche' da soluzioni di portafoglio digitale private (IT-Wallet privato), rese disponibili dai soggetti privati interessati, previo accreditamento da parte dell'AgID, secondo le modalita' di cui al comma 3.
 
-((,))
+3.
 
-di titolarita' della struttura della Presidenza del Consiglio dei ministri competente per l'innovazione tecnologica e la transizione digitale.
+Al fine di garantire la necessaria celere evoluzione del Sistema IT-Wallet, con decreto del Presidente del Consiglio dei ministri ovvero dell'Autorita' politica delegata in materia di innovazione tecnologica, ove nominata, adottato su proposta ((dell'AgID)) e di concerto con il Ministro dell'economia e delle finanze e con il Ministro per la pubblica amministrazione, sentite l'Agenzia per la cybersicurezza nazionale, per i profili di competenza, e la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sono approvate apposite linee guida. Le linee guida di cui al primo periodo, adottate entro sessanta giorni dalla data di entrata in vigore della presente disposizione ((e)) periodicamente aggiornate, definiscono:
+                            a)
+                                le caratteristiche tecniche e le modalita' di adozione dell'IT-Wallet pubblico e delle soluzioni di IT-Wallet privato da parte di cittadini e imprese, nonche' la tipologia di servizi resi disponibili dalle soluzioni IT-Wallet;
+                            b)
+                                le modalita' di accreditamento presso l'AgID dei soggetti privati fornitori delle soluzioni IT- Wallet privato;
+                            c)
+                                i servizi resi disponibili alle pubbliche amministrazioni e ai soggetti privati accreditati, sia in qualita' di erogatori di servizi, sia in qualita' di erogatori di attestazioni elettroniche relative a prerogative, ((deleghe,)) caratteristiche, licenze o qualita' di persone fisiche e giuridiche, per il tramite della piattaforma di cui all'articolo-50-ter;
+                            d)
+                                gli standard tecnici adottati per ((garantire l'interoperabilita')) del Sistema IT-Wallet con le banche dati e i sistemi informativi della pubblica amministrazione e dei soggetti privati accreditati, inclusa la piattaforma di cui all'articolo 50-ter, anche al fine di garantire la compatibilita' dell'IT-Wallet pubblico e delle soluzioni di IT-Wallet privato con precedenti sistemi di identita' digitale e con i relativi sistemi di autenticazione per l'accesso in rete gia' predisposti;
+                            e)
+                                le misure da adottare sul piano tecnico e organizzativo per assicurare livelli di affidabilita', disponibilita' e sicurezza adeguati al Sistema IT-Wallet;
+                            f)
+                                le modalita' per la messa a disposizione del codice sorgente di tutte le componenti dell'IT- Wallet pubblico e delle soluzioni di IT-Wallet privato, ai sensi dell'articolo 69.
 
-### Art. 64-quater
+4.
 
-(Sistema di portafoglio digitale italiano - Sistema IT-Wallet)
+La societa' di cui all'[articolo 8, comma 2, del decreto-legge 14 dicembre 2018, n. 135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-12-14;135#art_8-com2), convertito, con modificazioni, dalla [legge 11 febbraio 2019, n. 12](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20dicembre%202018%20n.%20135%20recante%20disposizioni%20urgenti%20in%20materia%20di%20sostegno%20e%20semplificazione%20per%20le%20imprese%20e%20per%20la%20pubblica%20amm_7999d3f738ab.md), e la societa' di cui all'[articolo 1 del decreto legislativo 21 aprile 1999, n. 116](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20dellIstituto%20Poligrafico%20e%20Zecca%20dello%20Stato%20ai%20fini%20della%20sua%20trasformazione%20in%20societa%20per%20azioni%20a%20norma%20degli%20articoli%2011%20e%2014%20della%20legge%2015%20marzo%201997%20n.%2059.md) provvedono, nel rispetto delle linee guida di cui al comma 3 ((del presente articolo)), alla realizzazione e gestione della infrastruttura organizzativa e tecnologica necessaria per l'attuazione del Sistema ((IT-Wallet)), assicurando, in particolare, la disponibilita' dell'IT-Wallet pubblico e dei servizi necessari ai soggetti privati interessati a rendere disponibili soluzioni di IT-Wallet privato. Alla societa' di cui all'[articolo 1 del decreto legislativo 21 aprile 1999, n. 116](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20dellIstituto%20Poligrafico%20e%20Zecca%20dello%20Stato%20ai%20fini%20della%20sua%20trasformazione%20in%20societa%20per%20azioni%20a%20norma%20degli%20articoli%2011%20e%2014%20della%20legge%2015%20marzo%201997%20n.%2059.md) ((, sono affidate)) la progettazione, la realizzazione, l'implementazione e la gestione dell'infrastruttura tecnologica dei sistemi ((di rilascio nonche' la certificazione)) e la verifica delle attestazioni elettroniche di identita' digitale, di quelle relative a prerogative, ((deleghe,)) caratteristiche, licenze o qualita' presenti nelle banche dati della pubblica amministrazione ((e dei registri)) fiduciari per l'accreditamento dei soggetti coinvolti nei processi di rilascio, certificazione e verifica nonche' per la verifica della validita' e la gestione del ciclo di vita delle attestazioni elettroniche. Agli oneri occorrenti per rendere disponibili da parte degli Identity provider pubblici i servizi di verifica ((di cui al secondo periodo)) del presente comma si provvede a valere sulle risorse disponibili a legislazione vigente.
 
-1. Al fine di valorizzare e rafforzare l'interoperabilita' tra le banche dati pubbliche attraverso la Piattaforma Digitale Nazionale Dati (PDND) di cui all'articolo 50-ter, nonche' di favorire la diffusione e l'utilizzo di servizi in rete erogati da soggetti pubblici e privati, e' istituito il Sistema di portafoglio digitale italiano (Sistema IT-Wallet).
+5.
 
-2. Il Sistema IT-Wallet e' costituito da una soluzione di portafoglio digitale pubblico (IT-Wallet pubblico), resa disponibile mediante il punto di accesso telematico di cui all'articolo 64-bis, nonche' da soluzioni di portafoglio digitale private (IT-Wallet privato), rese disponibili dai soggetti privati interessati, previo accreditamento da parte dell'AgID, secondo le modalita' di cui al comma 3.
+Con decreto del Presidente del Consiglio dei ministri ovvero dell'Autorita' politica delegata in materia di innovazione tecnologica, ove nominata, adottato di concerto con il Ministro dell'economia e delle finanze e con il Ministro per la pubblica amministrazione, sentito il Garante per la protezione dei dati personali per gli aspetti di competenza, sono definiti:
+                            a)
+                                i compiti e le funzioni attribuiti a ciascuna delle societa' di cui al comma 4;
+                            b)
+                                la data a decorrere dalla quale l'IT-Wallet pubblico e' reso disponibile, nonche' il termine entro il quale i soggetti di cui all'articolo 2, comma 2, sono tenuti a rendere disponibili i dati e i documenti relativi a prerogative, ((deleghe,)) caratteristiche, licenze o qualita' di persone fisiche e giuridiche sotto forma di attestazioni elettroniche ovvero a rendere disponibili i dati e i documenti per la generazione di attestazioni elettroniche, nonche' ad avvalersi delle attestazioni elettroniche presenti nelle istanze e nelle dichiarazioni formulate nei loro confronti con esenzione dei controlli di cui al capo V del ((testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, di cui al)) [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md);
+                            c)
+                                la data a decorrere dalla quale i soggetti privati accreditati possono rendere disponibili soluzioni di IT-Wallet privato;
+                            d)
+                                al fine di concorrere alla sostenibilita' economica del Sistema IT-Wallet a regime e ferma restando la gratuita' dell'emissione dell'IT-Wallet pubblico per cittadini e imprese, la tipologia di servizi che possono essere oggetto di remunerazione da parte del titolare del Wallet e dei soggetti privati accreditati in qualita' di erogatori di servizi, incluse le relative indicazioni di costo.
 
-3. Al fine di garantire la necessaria celere evoluzione del Sistema IT-Wallet, con decreto del Presidente del Consiglio dei ministri ovvero dell'Autorita' politica delegata in materia di innovazione tecnologica, ove nominata, adottato su proposta
+6.
 
-((dell'AgID))
+Agli oneri derivanti dalla progettazione, realizzazione e graduale messa a disposizione dell'infrastruttura tecnologica per l'attuazione del Sistema IT-Wallet, di cui al comma 4, pari a complessivi 102 milioni di euro per gli anni 2024, 2025 e 2026, si provvede ((,)) quanto a 69 milioni ((di euro,)) a valere sulle risorse assegnate per l'Investimento 1.3 "Dati e interoperabilita'" della Missione 1 "Digitalizzazione, innovazione, competitivita' e cultura", Componente 1 "Digitalizzazione, innovazione e sicurezza nella PA" ((, del PNRR e)), quanto a 33 milioni ((di euro,)) a valere sul Fondo per l'innovazione tecnologica e la digitalizzazione di cui all'articolo 239 del ((decreto-legge)) 19 maggio 2020, n. 34 ((, convertito, con modificazioni,)) dalla [legge 17 luglio 2020, n. 77](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20maggio%202020%20n.%2034%20recante%20misure%20urgenti%20in%20materia%20di%20salute%20sostegno%20al%20lavoro%20e%20alleconomia%20nonche%20di%20politiche%20sociali%20conn_7955b884286a.md).
 
-e di concerto con il Ministro dell'economia e delle finanze e con il Ministro per la pubblica amministrazione, sentite l'Agenzia per la cybersicurezza nazionale, per i profili di competenza, e la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sono approvate apposite linee guida. Le linee guida di cui al primo periodo, adottate entro sessanta giorni dalla data di entrata in vigore della presente disposizione
+7.
 
-((e))
+Nelle more della piena funzionalita' del Sistema ((IT-Wallet)), sono rese disponibili, a richiesta, attraverso il punto di accesso telematico di cui all'articolo 64-bis, le versioni digitali della Tessera sanitaria - Tessera europea di assicurazione di malattia (TS/TEAM), della patente di guida mobile e della Carta europea della disabilita'. La verifica di validita' di tali versioni digitali e' consentita, anche a soggetti terzi, mediante funzionalita' rese disponibili dal punto di accesso telematico. La versione digitale della TS/TEAM e' disponibile secondo le modalita' previste dal regolamento (UE) 2018/1724 del Parlamento europeo e del Consiglio, del 2 ottobre 2018, concernente lo sportello digitale unico. I dati e i documenti necessari per la generazione delle ((versioni digitali della)) patente di guida mobile e della Carta europea della disabilita' sono resi disponibili, rispettivamente, dal Ministero delle infrastrutture e trasporti e dall'Istituto nazionale ((della previdenza sociale)) (INPS) alla societa' di cui all'[articolo 1 del decreto legislativo 21 aprile 1999, n. 116](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20dellIstituto%20Poligrafico%20e%20Zecca%20dello%20Stato%20ai%20fini%20della%20sua%20trasformazione%20in%20societa%20per%20azioni%20a%20norma%20degli%20articoli%2011%20e%2014%20della%20legge%2015%20marzo%201997%20n.%2059.md), per il tramite della piattaforma ((di cui all'articolo 50-ter del presente codice)). Salvo gli utilizzi previsti ((della TS/TEAM)) in qualita' di Carta Nazionale dei Servizi, la versione digitale della TS/TEAM ha lo stesso valore, per la fruizione di servizi erogati online o in presenza, del documento rilasciato dal Ministero dell'economia e delle finanze su supporto plastificato ai sensi dell'[articolo 50 del decreto-legge 30 settembre 2003, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-09-30;269#art_50), convertito, con modificazioni, dalla [legge 24 novembre 2003, n. 326, e dell'articolo 11, comma 15](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20settembre%202003%20n.%20269%20recante%20disposizioni%20urgenti%20per%20favorire%20lo%20sviluppo%20e%20per%20la%20correzione%20dellandamento%20dei%20conti%20pubblici.md), del [decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20maggio%202010%20n.%2078%20recante%20misure%20urgenti%20in%20materia%20di%20stabilizzazione%20finanziaria%20e%20di%20competitivita%20economica.%2010G0146.md) . La patente di guida mobile e' la versione digitale della patente di guida di cui un conducente residente in Italia ai sensi dell'articolo 118-bis del ((codice della strada, di cui al)) [decreto legislativo 30 aprile 1992, n. 285](Nuovo%20codice%20della%20strada.md), e' titolare. Tale patente mobile consente la verifica, tramite collegamento con l'anagrafe nazionale degli abilitati alla guida di cui all'articolo 226, comma 10, del citato ((codice di cui al decreto legislativo)) n. 285 del 1992, dell'esistenza e della validita' del diritto alla guida del suo titolare ed e' equipollente a documento di identita' dello stesso. Ai fini della circolazione sul territorio nazionale la patente di guida mobile soddisfa gli obblighi di cui all'articolo 180, comma 1, lettera b), del ((codice di cui al decreto legislativo)) n. 285 del 1992.
 
-periodicamente aggiornate, definiscono:
+### Art. 65. — Istanze e dichiarazioni presentate alle pubbliche amministrazioni per via telematica
 
-a) le caratteristiche tecniche e le modalita' di adozione dell'IT-Wallet pubblico e delle soluzioni di IT-Wallet privato da parte di cittadini e imprese, nonche' la tipologia di servizi resi disponibili dalle soluzioni IT-Wallet;
+1.
 
-b) le modalita' di accreditamento presso l'AgID dei soggetti privati fornitori delle soluzioni IT- Wallet privato;
+Le istanze e le dichiarazioni presentate per via telematica alle pubbliche amministrazioni e ai gestori dei servizi pubblici ai sensi dell'[articolo 38, commi 1](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md) e [3, del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), sono valide:
+                            a)
+                                se sottoscritte mediante una delle forme di cui all'articolo 20;
+                            b)
+                                ovvero, quando l'istante o il dichiarante e' identificato attraverso il sistema pubblico di identita' digitale (SPID), la carta di identita' elettronica o la carta nazionale dei servizi;;
+                            b-bis)
+                                ovvero formate tramite il punto di accesso telematico per i dispositivi mobili di cui all'articolo 64-bis;
+                            c)
+                                ovvero sono sottoscritte e presentate unitamente alla copia del documento d'identita';;
+                            c-bis)
+                                ovvero se trasmesse dall'istante o dal dichiarante dal proprio domicilio digitale iscritto in uno degli elenchi di cui all'articolo 6-bis, 6-ter o 6-quater ovvero, in assenza di un domicilio digitale iscritto, da un indirizzo elettronico eletto presso un servizio di posta elettronica certificata o un servizio elettronico di recapito certificato qualificato, come definito dal Regolamento eIDAS. In tale ultimo caso, ((in assenza)) di un domicilio digitale iscritto, la trasmissione costituisce elezione di domicilio digitale ((speciale, ai sensi dell'articolo 3-bis, comma 4-quinquies, per gli atti e le comunicazioni a cui e' riferita l'istanza o la dichiarazione)). Sono fatte salve le disposizioni normative che prevedono l'uso di specifici sistemi di trasmissione telematica nel settore tributario;
 
-c) i servizi resi disponibili alle pubbliche amministrazioni e ai soggetti privati accreditati, sia in qualita' di erogatori di servizi, sia in qualita' di erogatori di attestazioni elettroniche relative a prerogative,
+1-bis.
 
-((deleghe,))
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
-caratteristiche, licenze o qualita' di persone fisiche e giuridiche, per il tramite della piattaforma di cui all'articolo-50-ter;
+1-ter.
 
-d) gli standard tecnici adottati per
+Il mancato avvio del procedimento da parte del titolare dell'ufficio competente a seguito di istanza o dichiarazione inviate ai sensi e con le modalita' di cui al comma 1 comporta responsabilita' dirigenziale e responsabilita' disciplinare dello stesso.
 
-((garantire l'interoperabilita'))
+2.
 
-del Sistema IT-Wallet con le banche dati e i sistemi informativi della pubblica amministrazione e dei soggetti privati accreditati, inclusa la piattaforma di cui all'articolo 50-ter, anche al fine di garantire la compatibilita' dell'IT-Wallet pubblico e delle soluzioni di IT-Wallet privato con precedenti sistemi di identita' digitale e con i relativi sistemi di autenticazione per l'accesso in rete gia' predisposti;
+Le istanze e le dichiarazioni di cui al comma 1 sono equivalenti alle istanze e alle dichiarazioni sottoscritte con firma autografa apposta in presenza del dipendente addetto al procedimento ;
 
-e) le misure da adottare sul piano tecnico e organizzativo per assicurare livelli di affidabilita', disponibilita' e sicurezza adeguati al Sistema IT-Wallet;
+3.
 
-f) le modalita' per la messa a disposizione del codice sorgente di tutte le componenti dell'IT- Wallet pubblico e delle soluzioni di IT-Wallet privato, ai sensi dell'articolo 69.
+COMMA ABROGATO DAL [D.LGS. 30 DICEMBRE 2010, N. 235](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20recante%20Codice%20dellamministrazione%20digitale%20a%20norma%20dellarticolo%2033%20della%20legge%2018%20giugno%202009%20n.%2069.%2011G0002.md).
 
-4. La societa' di cui all'[articolo 8, comma 2, del decreto-legge 14 dicembre 2018, n. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-12-14;135~art8-com2), convertito, con modificazioni, dalla [legge 11 febbraio 2019, n. 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-02-11;12), e la societa' di cui all'[articolo 1 del decreto legislativo 21 aprile 1999, n. 116](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-04-21;116~art1) provvedono, nel rispetto delle linee guida di cui al comma 3
+4.
 
-((del presente articolo))
+Il [comma 2 dell'articolo 38 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), e' sostituito dal seguente: 
+"2. Le istanze e le dichiarazioni inviate per via telematica sono valide se effettuate secondo quanto previsto dall'[articolo 65 del decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md)".
 
-, alla realizzazione e gestione della infrastruttura organizzativa e tecnologica necessaria per l'attuazione del Sistema
+## ((...))
 
-((IT-Wallet))
+-
 
-, assicurando, in particolare, la disponibilita' dell'IT-Wallet pubblico e dei servizi necessari ai soggetti privati interessati a rendere disponibili soluzioni di IT-Wallet privato. Alla societa' di cui all'[articolo 1 del decreto legislativo 21 aprile 1999, n. 116](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-04-21;116~art1)
+### Art. 66. — Carta d'identita' elettronica e carta nazionale dei servizi
 
-((, sono affidate))
+1.
 
-la progettazione, la realizzazione, l'implementazione e la gestione dell'infrastruttura tecnologica dei sistemi
+Le caratteristiche e le modalita' per il rilascio, della carta d'identita' elettronica sono definite ((dal comma 2-bis dell'articolo 7-vicies ter del decreto-legge 31 gennaio 2005, n. 7, convertito, con modificazioni, dalla legge 31 marzo 2005, n. 43)).
 
-((di rilascio nonche' la certificazione))
+2.
 
-e la verifica delle attestazioni elettroniche di identita' digitale, di quelle relative a prerogative,
+Le caratteristiche e le modalita' per il rilascio, per la diffusione e l'uso della carta nazionale dei servizi sono definite con uno o piu' regolamenti, ai sensi dell'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2), adottati su proposta congiunta dei Ministri per la funzione pubblica e per l'innovazione e le tecnologie, di concerto con il Ministro dell'economia e delle finanze, sentito il Garante per la protezione dei dati personali e d'intesa con la Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), nel rispetto dei seguenti principi:
+                            a)
+                                all'emissione della carta nazionale dei servizi provvedono, su richiesta del soggetto interessato, le pubbliche amministrazioni che intendono rilasciarla;
+                            b)
+                                l'onere economico di produzione e rilascio delle carte nazionale dei servizi e' a carico delle singole amministrazioni che le emettono;
+                            c)
+                                eventuali indicazioni di carattere individuale connesse all'erogazione dei servizi al cittadino, sono possibili nei limiti di cui al [decreto legislativo 30 giugno 2003, n. 196](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md); (28)
+                            d)
+                                le pubbliche amministrazioni che erogano servizi in rete devono consentirne l'accesso ai titolari delle carta nazionale dei servizi indipendentemente dall'ente di emissione, che e' responsabile del suo rilascio;
+                            e)
+                                la carta nazionale dei servizi puo' essere utilizzata anche per i pagamenti informatici tra soggetti privati e pubbliche amministrazioni, secondo quanto previsto dalla normativa vigente.
 
-((deleghe,))
+3.
 
-caratteristiche, licenze o qualita' presenti nelle banche dati della pubblica amministrazione
+La carta d'identita' elettronica e l'analogo documento, rilasciato a seguito della denuncia di nascita e prima del compimento dell'eta' prevista dalla legge per il rilascio della carta d'identita' elettronica, devono contenere:
+                            a)
+                                i dati identificativi della persona;
+                            b)
+                                il codice fiscale.
 
-((e dei registri))
+4.
 
-fiduciari per l'accreditamento dei soggetti coinvolti nei processi di rilascio, certificazione e verifica nonche' per la verifica della validita' e la gestione del ciclo di vita delle attestazioni elettroniche. Agli oneri occorrenti per rendere disponibili da parte degli Identity provider pubblici i servizi di verifica
+La carta d'identita' elettronica e l'analogo documento, rilasciato a seguito della denuncia di nascita e prima del compimento dell'eta' prevista dalla legge per il rilascio della carta d'identita' elettronica, possono contenere, a richiesta dell'interessato ove si tratti di dati sensibili:
+                            a)
+                                l'indicazione del gruppo sanguigno;
+                            b)
+                                le opzioni di carattere sanitario previste dalla legge;
+                            c)
+                                i dati biometrici indicati col decreto di cui al comma 1, con esclusione, in ogni caso, del DNA;
+                            d)
+                                tutti gli altri dati utili al fine di razionalizzare e semplificare l'azione amministrativa e i servizi resi al cittadino, anche per mezzo dei portali, nel rispetto della normativa in materia di riservatezza; (28)
+                            e)
+                                le procedure informatiche e le informazioni che possono o debbono essere conosciute dalla pubblica amministrazione e da altri soggetti, occorrenti per la firma elettronica.
 
-((di cui al secondo periodo))
+5.
 
-del presente comma si provvede a valere sulle risorse disponibili a legislazione vigente.
+La carta d'identita' elettronica e la carta nazionale dei servizi possono essere utilizzate quali strumenti di autenticazione telematica per l'effettuazione di pagamenti tra soggetti privati e pubbliche amministrazioni, secondo le modalita' stabilite con le Linee guida, sentiti il Ministro dell'economia e delle finanze e la Banca d'Italia.
 
-5. Con decreto del Presidente del Consiglio dei ministri ovvero dell'Autorita' politica delegata in materia di innovazione tecnologica, ove nominata, adottato di concerto con il Ministro dell'economia e delle finanze e con il Ministro per la pubblica amministrazione, sentito il Garante per la protezione dei dati personali per gli aspetti di competenza, sono definiti:
+6.
 
-a) i compiti e le funzioni attribuiti a ciascuna delle societa' di cui al comma 4;
+Con decreto del Ministro dell'interno, del Ministro per l'innovazione e le tecnologie e del Ministro dell'economia e delle finanze, sentito il Garante per la protezione dei dati personali e d'intesa con la Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), sono dettate le regole tecniche e di sicurezza relative alle tecnologie e ai materiali utilizzati per la produzione della carta di identita' elettronica, del documento di identita' elettronico e della carta nazionale dei servizi, nonche' le modalita' di impiego.
 
-b) la data a decorrere dalla quale l'IT-Wallet pubblico e' reso disponibile, nonche' il termine entro il quale i soggetti di cui all'articolo 2, comma 2, sono tenuti a rendere disponibili i dati e i documenti relativi a prerogative,
+7.
 
-((deleghe,))
+Nel rispetto della disciplina generale fissata dai decreti di cui al presente articolo e delle vigenti disposizioni in materia di protezione dei dati personali, le pubbliche amministrazioni, nell'ambito dei rispettivi ordinamenti, possono sperimentare modalita' di utilizzazione dei documenti di cui al presente articolo per l'erogazione di ulteriori servizi o utilita'.
 
-caratteristiche, licenze o qualita' di persone fisiche e giuridiche sotto forma di attestazioni elettroniche ovvero a rendere disponibili i dati e i documenti per la generazione di attestazioni elettroniche, nonche' ad avvalersi delle attestazioni elettroniche presenti nelle istanze e nelle dichiarazioni formulate nei loro confronti con esenzione dei controlli di cui al capo V del
+8.
 
-(([testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445), di cui al))
+Le tessere di riconoscimento rilasciate dalle amministrazioni dello Stato ai sensi del [decreto del Presidente della Repubblica 28 luglio 1967, n. 851](../DPR/Norme%20in%20materia%20di%20tessere%20di%20riconoscimento%20rilasciate%20dalle%20Amministrazioni%20dello%20Stato.md), possono essere realizzate anche con modalita' elettroniche, nel rispetto delle Linee guida, e contenere le funzionalita' della carta nazionale dei servizi per consentire l'accesso per via telematica ai servizi erogati in rete dalle pubbliche amministrazioni.
 
-[decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445);
+8-bis.
 
-c) la data a decorrere dalla quale i soggetti privati accreditati possono rendere disponibili soluzioni di IT-Wallet privato;
-
-d) al fine di concorrere alla sostenibilita' economica del Sistema IT-Wallet a regime e ferma restando la gratuita' dell'emissione dell'IT-Wallet pubblico per cittadini e imprese, la tipologia di servizi che possono essere oggetto di remunerazione da parte del titolare del Wallet e dei soggetti privati accreditati in qualita' di erogatori di servizi, incluse le relative indicazioni di costo.
-
-6. Agli oneri derivanti dalla progettazione, realizzazione e graduale messa a disposizione dell'infrastruttura tecnologica per l'attuazione del Sistema IT-Wallet, di cui al comma 4, pari a complessivi 102 milioni di euro per gli anni 2024, 2025 e 2026, si provvede
-
-((,))
-
-quanto a 69 milioni
-
-((di euro,))
-
-a valere sulle risorse assegnate per l'Investimento 1.3 "Dati e interoperabilita'" della Missione 1 "Digitalizzazione, innovazione, competitivita' e cultura", Componente 1 "Digitalizzazione, innovazione e sicurezza nella PA"
-
-((, del PNRR e))
-
-, quanto a 33 milioni
-
-((di euro,))
-
-a valere sul Fondo per l'innovazione tecnologica e la digitalizzazione di cui all'articolo 239 del
-
-((decreto-legge))
-
-19 maggio 2020, n. 34
-
-((, convertito, con modificazioni,))
-
-dalla [legge 17 luglio 2020, n. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-07-17;77).
-
-7. Nelle more della piena funzionalita' del Sistema
-
-((IT-Wallet))
-
-, sono rese disponibili, a richiesta, attraverso il punto di accesso telematico di cui all'articolo 64-bis, le versioni digitali della Tessera sanitaria - Tessera europea di assicurazione di malattia (TS/TEAM), della patente di guida mobile e della Carta europea della disabilita'. La verifica di validita' di tali versioni digitali e' consentita, anche a soggetti terzi, mediante funzionalita' rese disponibili dal punto di accesso telematico. La versione digitale della TS/TEAM e' disponibile secondo le modalita' previste dal [regolamento (UE) 2018/1724 del Parlamento europeo e del Consiglio, del 2 ottobre 2018](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32018R1724), concernente lo sportello digitale unico. I dati e i documenti necessari per la generazione delle
-
-((versioni digitali della))
-
-patente di guida mobile e della Carta europea della disabilita' sono resi disponibili, rispettivamente, dal Ministero delle infrastrutture e trasporti e dall'Istituto nazionale
-
-((della previdenza sociale))
-
-(INPS) alla societa' di cui all'[articolo 1 del decreto legislativo 21 aprile 1999, n. 116](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-04-21;116~art1), per il tramite della piattaforma
-
-((di cui all'articolo 50-ter del presente codice))
-
-. Salvo gli utilizzi previsti
-
-((della TS/TEAM))
-
-in qualita' di Carta Nazionale dei Servizi, la versione digitale della TS/TEAM ha lo stesso valore, per la fruizione di servizi erogati online o in presenza, del documento rilasciato dal Ministero dell'economia e delle finanze su supporto plastificato ai sensi dell'[articolo 50 del decreto-legge 30 settembre 2003, n. 269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-09-30;269~art50), convertito, con modificazioni, dalla [legge 24 novembre 2003, n. 326, e dell'articolo 11, comma 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-11-24;326~art11-com15), del [decreto-legge 31 maggio 2010, n. 78](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-30;122) . La patente di guida mobile e' la versione digitale della patente di guida di cui un conducente residente in Italia ai sensi dell'articolo 118-bis del
-
-(([codice della strada](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), di cui al))
-
-[decreto legislativo 30 aprile 1992, n. 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), e' titolare. Tale patente mobile consente la verifica, tramite collegamento con l'anagrafe nazionale degli abilitati alla guida di cui all'articolo 226, comma 10, del citato
-
-((codice di cui al decreto legislativo))
-
-n. 285 del 1992, dell'esistenza e della validita' del diritto alla guida del suo titolare ed e' equipollente a documento di identita' dello stesso. Ai fini della circolazione sul territorio nazionale la patente di guida mobile soddisfa gli obblighi di cui all'articolo 180, comma 1, lettera b), del
-
-((codice di cui al decreto legislativo))
-
-n. 285 del 1992.
-
-### Art. 65
-
-Istanze e dichiarazioni presentate alle pubbliche amministrazioni per via telematica
-
-1. Le istanze e le dichiarazioni presentate per via telematica alle pubbliche amministrazioni e ai gestori dei servizi pubblici ai sensi dell'[articolo 38, commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445~art38-com1) e [3, del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445~art38-com3), sono valide:
-
-a) se sottoscritte mediante una delle forme di cui all'articolo 20;
-
-b) ovvero, quando l'istante o il dichiarante e' identificato attraverso il sistema pubblico di identita' digitale (SPID), la carta di identita' elettronica o la carta nazionale dei servizi;;
-
-b-bis) ovvero formate tramite il punto di accesso telematico per i dispositivi mobili di cui all'articolo 64-bis;
-
-c) ovvero sono sottoscritte e presentate unitamente alla copia del documento d'identita';;
-
-c-bis) ovvero se trasmesse dall'istante o dal dichiarante dal proprio domicilio digitale iscritto in uno degli elenchi di cui all'articolo 6-bis, 6-ter o 6-quater ovvero, in assenza di un domicilio digitale iscritto, da un indirizzo elettronico eletto presso un servizio di posta elettronica certificata o un servizio elettronico di recapito certificato qualificato, come definito dal Regolamento eIDAS. In tale ultimo caso,
-
-((in assenza))
-
-di un domicilio digitale iscritto, la trasmissione costituisce elezione di domicilio digitale
-
-((speciale, ai sensi dell'articolo 3-bis, comma 4-quinquies, per gli atti e le comunicazioni a cui e' riferita l'istanza o la dichiarazione))
-
-. Sono fatte salve le disposizioni normative che prevedono l'uso di specifici sistemi di trasmissione telematica nel settore tributario;
-
-1-bis. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
-
-1-ter. Il mancato avvio del procedimento da parte del titolare dell'ufficio competente a seguito di istanza o dichiarazione inviate ai sensi e con le modalita' di cui al comma 1 comporta responsabilita' dirigenziale e responsabilita' disciplinare dello stesso.
-
-2. Le istanze e le dichiarazioni di cui al comma 1 sono equivalenti alle istanze e alle dichiarazioni sottoscritte con firma autografa apposta in presenza del dipendente addetto al procedimento ;
-
-3. COMMA ABROGATO DAL [D.LGS. 30 DICEMBRE 2010, N. 235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-30;235).
-
-4. Il [comma 2 dell'articolo 38 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445~art38-com2), e' sostituito dal seguente:   
-"2. Le istanze e le dichiarazioni inviate per via telematica sono valide se effettuate secondo quanto previsto dall'[articolo 65 del decreto legislativo 7 marzo 2005, n. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82~art65)".
-
-CAPO XIII - ((...))
--------------------
-
-### Art. 66
-
-Carta d'identita' elettronica e carta nazionale dei servizi
-
-1. Le caratteristiche e le modalita' per il rilascio, della carta d'identita' elettronica sono definite
-
-((dal [comma 2-bis dell'articolo 7-vicies ter del decreto-legge 31 gennaio 2005, n. 7](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-01-31;7~art7tervicies-com2bis), convertito, con modificazioni, dalla [legge 31 marzo 2005, n. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-03-31;43)))
-
-.
-
-2. Le caratteristiche e le modalita' per il rilascio, per la diffusione e l'uso della carta nazionale dei servizi sono definite con uno o piu' regolamenti, ai sensi dell'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com2), adottati su proposta congiunta dei Ministri per la funzione pubblica e per l'innovazione e le tecnologie, di concerto con il Ministro dell'economia e delle finanze, sentito il Garante per la protezione dei dati personali e d'intesa con la Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281~art8), nel rispetto dei seguenti principi:
-
-a) all'emissione della carta nazionale dei servizi provvedono, su richiesta del soggetto interessato, le pubbliche amministrazioni che intendono rilasciarla;
-
-b) l'onere economico di produzione e rilascio delle carte nazionale dei servizi e' a carico delle singole amministrazioni che le emettono;
-
-c) eventuali indicazioni di carattere individuale connesse all'erogazione dei servizi al cittadino, sono possibili nei limiti di cui al [decreto legislativo 30 giugno 2003, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196); (28)
-
-d) le pubbliche amministrazioni che erogano servizi in rete devono consentirne l'accesso ai titolari delle carta nazionale dei servizi indipendentemente dall'ente di emissione, che e' responsabile del suo rilascio;
-
-e) la carta nazionale dei servizi puo' essere utilizzata anche per i pagamenti informatici tra soggetti privati e pubbliche amministrazioni, secondo quanto previsto dalla normativa vigente.
-
-3. La carta d'identita' elettronica e l'analogo documento, rilasciato a seguito della denuncia di nascita e prima del compimento dell'eta' prevista dalla legge per il rilascio della carta d'identita' elettronica, devono contenere:
-
-a) i dati identificativi della persona;
-
-b) il codice fiscale.
-
-4. La carta d'identita' elettronica e l'analogo documento, rilasciato a seguito della denuncia di nascita e prima del compimento dell'eta' prevista dalla legge per il rilascio della carta d'identita' elettronica, possono contenere, a richiesta dell'interessato ove si tratti di dati sensibili:
-
-a) l'indicazione del gruppo sanguigno;
-
-b) le opzioni di carattere sanitario previste dalla legge;
-
-c) i dati biometrici indicati col decreto di cui al comma 1, con esclusione, in ogni caso, del DNA;
-
-d) tutti gli altri dati utili al fine di razionalizzare e semplificare l'azione amministrativa e i servizi resi al cittadino, anche per mezzo dei portali, nel rispetto della normativa in materia di riservatezza; (28)
-
-e) le procedure informatiche e le informazioni che possono o debbono essere conosciute dalla pubblica amministrazione e da altri soggetti, occorrenti per la firma elettronica.
-
-5. La carta d'identita' elettronica e la carta nazionale dei servizi possono essere utilizzate quali strumenti di autenticazione telematica per l'effettuazione di pagamenti tra soggetti privati e pubbliche amministrazioni, secondo le modalita' stabilite con le Linee guida, sentiti il Ministro dell'economia e delle finanze e la Banca d'Italia.
-
-6. Con decreto del Ministro dell'interno, del Ministro per l'innovazione e le tecnologie e del Ministro dell'economia e delle finanze, sentito il Garante per la protezione dei dati personali e d'intesa con la Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281~art8), sono dettate le regole tecniche e di sicurezza relative alle tecnologie e ai materiali utilizzati per la produzione della carta di identita' elettronica, del documento di identita' elettronico e della carta nazionale dei servizi, nonche' le modalita' di impiego.
-
-7. Nel rispetto della disciplina generale fissata dai decreti di cui al presente articolo e delle vigenti disposizioni in materia di protezione dei dati personali, le pubbliche amministrazioni, nell'ambito dei rispettivi ordinamenti, possono sperimentare modalita' di utilizzazione dei documenti di cui al presente articolo per l'erogazione di ulteriori servizi o utilita'.
-
-8. Le tessere di riconoscimento rilasciate dalle amministrazioni dello Stato ai sensi del [decreto del Presidente della Repubblica 28 luglio 1967, n. 851](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-07-28;851), possono essere realizzate anche con modalita' elettroniche, nel rispetto delle Linee guida, e contenere le funzionalita' della carta nazionale dei servizi per consentire l'accesso per via telematica ai servizi erogati in rete dalle pubbliche amministrazioni.
-
-8-bis. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
 ------------
 
 AGGIORNAMENTO (28)
 
-Il [D.Lgs. 26 agosto 2016, n. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179) ha disposto (con l'art. 61, comma 2, lettera d)) che la parola «cittadino», ovunque ricorra, si intende come «persona fisica».
+Il [D.Lgs. 26 agosto 2016, n. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md) ha disposto (con l'art. 61, comma 2, lettera d)) che la parola «cittadino», ovunque ricorra, si intende come «persona fisica».
 
-CAPO XIV - Capo VI SVILUPPO, ACQUISIZIONE E RIUSO DI SISTEMI INFORMATICI NELLE PUBBLICHE AMMINISTRAZIONI
---------------------------------------------------------------------------------------------------------
+## Capo VI SVILUPPO, ACQUISIZIONE E RIUSO DI SISTEMI INFORMATICI NELLE PUBBLICHE AMMINISTRAZIONI
 
-### Art. 67
+-
 
-((ARTICOLO ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179)))
+### Art. 67.
 
-### Art. 68
+((ARTICOLO ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179))
 
-Analisi comparativa delle soluzioni
+### Art. 68. — Analisi comparativa delle soluzioni
 
-1. Le pubbliche amministrazioni acquisiscono programmi informatici o parti di essi nel rispetto dei principi di economicita' e di efficienza, tutela degli investimenti, riuso e neutralita' tecnologica, a seguito di una valutazione comparativa di tipo tecnico ed economico tra le seguenti soluzioni disponibili sul mercato:
+1.
 
-a) software sviluppato per conto della pubblica amministrazione;
+Le pubbliche amministrazioni acquisiscono programmi informatici o parti di essi nel rispetto dei principi di economicita' e di efficienza, tutela degli investimenti, riuso e neutralita' tecnologica, a seguito di una valutazione comparativa di tipo tecnico ed economico tra le seguenti soluzioni disponibili sul mercato:
+                            a)
+                                software sviluppato per conto della pubblica amministrazione;
+                            b)
+                                riutilizzo di software o parti di esso sviluppati per conto della pubblica amministrazione;
+                            c)
+                                software libero o a codice sorgente aperto;
+                            d)
+                                software fruibile in modalita' cloud computing;
+                            e)
+                                software di tipo proprietario mediante ricorso a licenza d'uso;
+                            f)
+                                software combinazione delle precedenti soluzioni.
 
-b) riutilizzo di software o parti di esso sviluppati per conto della pubblica amministrazione;
+1-bis.
 
-c) software libero o a codice sorgente aperto;
+A tal fine, le pubbliche amministrazioni prima di procedere all'acquisto, secondo le procedure di cui al codice di cui al decreto legislativo ((n. 50 del 2016)), effettuano una valutazione comparativa delle diverse soluzioni disponibili sulla base dei seguenti criteri:
+                            a)
+                                costo complessivo del programma o soluzione quale costo di acquisto, di implementazione, di mantenimento e supporto;
+                            b)
+                                livello di utilizzo di formati di dati e di interfacce di tipo aperto nonche' di standard in grado di assicurare l'interoperabilita' e la cooperazione applicativa tra i diversi sistemi informatici della pubblica amministrazione;
+                            c)
+                                garanzie del fornitore in materia di livelli di sicurezza, conformita' alla normativa in materia di protezione dei dati personali, livelli di servizio tenuto conto della tipologia di software acquisito.
 
-d) software fruibile in modalita' cloud computing;
+1-ter.
 
-e) software di tipo proprietario mediante ricorso a licenza d'uso;
+Ove dalla valutazione comparativa di tipo tecnico ed economico, secondo i criteri di cui al comma 1-bis, risulti motivatamente l'impossibilita' di accedere a soluzioni gia' disponibili all'interno della pubblica amministrazione, o a software liberi o a codici sorgente aperto, adeguati alle esigenze da soddisfare, e' consentita l'acquisizione di programmi informatici di tipo proprietario mediante ricorso a licenza d'uso. La valutazione di cui al presente comma e' effettuata secondo le modalita' e i criteri definiti dall'AgID.
 
-f) software combinazione delle precedenti soluzioni.
+2.
 
-1-bis. A tal fine, le pubbliche amministrazioni prima di procedere all'acquisto, secondo le procedure di cui al codice di cui al decreto legislativo
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
-((n. 50 del 2016))
+2-bis.
 
-, effettuano una valutazione comparativa delle diverse soluzioni disponibili sulla base dei seguenti criteri:
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
-a) costo complessivo del programma o soluzione quale costo di acquisto, di implementazione, di mantenimento e supporto;
+3.
 
-b) livello di utilizzo di formati di dati e di interfacce di tipo aperto nonche' di standard in grado di assicurare l'interoperabilita' e la cooperazione applicativa tra i diversi sistemi informatici della pubblica amministrazione;
+((COMMA ABROGATO DAL D.LGS. 13 DICEMBRE 2017, N. 217)).
 
-c) garanzie del fornitore in materia di livelli di sicurezza, conformita' alla normativa in materia di protezione dei dati personali, livelli di servizio tenuto conto della tipologia di software acquisito.
+4.
 
-1-ter. Ove dalla valutazione comparativa di tipo tecnico ed economico, secondo i criteri di cui al comma 1-bis, risulti motivatamente l'impossibilita' di accedere a soluzioni gia' disponibili all'interno della pubblica amministrazione, o a software liberi o a codici sorgente aperto, adeguati alle esigenze da soddisfare, e' consentita l'acquisizione di programmi informatici di tipo proprietario mediante ricorso a licenza d'uso. La valutazione di cui al presente comma e' effettuata secondo le modalita' e i criteri definiti dall'AgID.
-
-2. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
-
-2-bis. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
-
-3. 
-
-((COMMA ABROGATO DAL [D.LGS. 13 DICEMBRE 2017, N. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217)))
-
-.
-
-4. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).   
-(28)
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md). 
+ (28)
 
 -------------
 
 AGGIORNAMENTO (28)
 
-Il [D.Lgs. 26 agosto 2016, n. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179) ha disposto (con l'art. 61, comma 2, lettera d)) che l'espressione «chiunque» ovunque ricorra, si intende come «soggetti giuridici».
+Il [D.Lgs. 26 agosto 2016, n. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md) ha disposto (con l'art. 61, comma 2, lettera d)) che l'espressione «chiunque» ovunque ricorra, si intende come «soggetti giuridici».
 
-### Art. 69
+### Art. 69. — (Riuso delle soluzioni e standard aperti)
 
-(Riuso delle soluzioni e standard aperti)
+1.
 
-1. Le pubbliche amministrazioni che siano titolari di soluzioni e programmi informatici realizzati su specifiche indicazioni del committente pubblico, hanno l'obbligo di rendere disponibile il relativo codice sorgente, completo della documentazione e rilasciato in repertorio pubblico sotto licenza aperta, in uso gratuito ad altre pubbliche amministrazioni o ai soggetti giuridici che intendano adattarli alle proprie esigenze, salvo motivate ragioni di ordine e sicurezza pubblica, difesa nazionale e consultazioni elettorali.
+Le pubbliche amministrazioni che siano titolari di soluzioni e programmi informatici realizzati su specifiche indicazioni del committente pubblico, hanno l'obbligo di rendere disponibile il relativo codice sorgente, completo della documentazione e rilasciato in repertorio pubblico sotto licenza aperta, in uso gratuito ad altre pubbliche amministrazioni o ai soggetti giuridici che intendano adattarli alle proprie esigenze, salvo motivate ragioni di ordine e sicurezza pubblica, difesa nazionale e consultazioni elettorali.
 
-2. Al fine di favorire il riuso dei programmi informatici di proprieta' delle pubbliche amministrazioni, ai sensi del comma 1, nei capitolati o nelle specifiche di progetto e' previsto,
+2.
 
-((salvo che cio' risulti eccessivamente oneroso per comprovate ragioni di carattere tecnico-economico, che l'amministrazione committente sia sempre titolare di tutti i diritti sui programmi e i servizi delle tecnologie dell'informazione e della comunicazione, appositamente sviluppati per essa))
-
-.
+Al fine di favorire il riuso dei programmi informatici di proprieta' delle pubbliche amministrazioni, ai sensi del comma 1, nei capitolati o nelle specifiche di progetto e' previsto, ((salvo che cio' risulti eccessivamente oneroso per comprovate ragioni di carattere tecnico-economico, che l'amministrazione committente sia sempre titolare di tutti i diritti sui programmi e i servizi delle tecnologie dell'informazione e della comunicazione, appositamente sviluppati per essa)).
 
 ((
 
-2-bis. Al medesimo fine di cui al comma 2, il codice sorgente, la documentazione e la relativa descrizione tecnico funzionale di tutte le soluzioni informatiche di cui al comma 1 sono pubblicati attraverso una o piu' piattaforme individuate dall'AgID con proprie Linee guida.
+2-bis.
+
+Al medesimo fine di cui al comma 2, il codice sorgente, la documentazione e la relativa descrizione tecnico funzionale di tutte le soluzioni informatiche di cui al comma 1 sono pubblicati attraverso una o piu' piattaforme individuate dall'AgID con proprie Linee guida.
 
 ))
 
-### Art. 70
+### Art. 70.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 13 DICEMBRE 2017, N. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217)))
+((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2017, N. 217))
 
-CAPO XV - Capo VII REGOLE TECNICHE
-----------------------------------
+## Capo VII REGOLE TECNICHE
 
-### Art. 71
+-
 
-Regole tecniche
+### Art. 71. — Regole tecniche
 
 ((
 
-1. L'AgID, previa consultazione pubblica da svolgersi entro il termine di trenta giorni, sentiti le amministrazioni competenti e il Garante per la protezione dei dati personali nelle materie di competenza, nonche' acquisito il parere della Conferenza unificata, adotta Linee guida contenenti le regole tecniche e di indirizzo per l'attuazione del presente Codice. Le Linee guida divengono efficaci dopo la loro pubblicazione nell'apposita area del sito Internet istituzionale dell'AgID e di essa ne e' data notizia nella Gazzetta Ufficiale della Repubblica italiana. Le Linee guida sono aggiornate o modificate con la procedura di cui al primo periodo.
+1.
+
+L'AgID, previa consultazione pubblica da svolgersi entro il termine di trenta giorni, sentiti le amministrazioni competenti e il Garante per la protezione dei dati personali nelle materie di competenza, nonche' acquisito il parere della Conferenza unificata, adotta Linee guida contenenti le regole tecniche e di indirizzo per l'attuazione del presente Codice. Le Linee guida divengono efficaci dopo la loro pubblicazione nell'apposita area del sito Internet istituzionale dell'AgID e di essa ne e' data notizia nella Gazzetta Ufficiale della Repubblica italiana. Le Linee guida sono aggiornate o modificate con la procedura di cui al primo periodo.
 
 ))
 
-1-bis. COMMA ABROGATO DAL [D.LGS. 30 DICEMBRE 2010, N. 235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-30;235).
+1-bis.
 
-1-ter. Le regole tecniche di cui al presente codice sono dettate in conformita' ai requisiti tecnici di accessibilita' di cui all'[articolo 11 della legge 9 gennaio 2004, n. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-01-09;4~art11), alle discipline risultanti dal processo di standardizzazione tecnologica a livello internazionale ed alle normative dell'Unione europea.
+COMMA ABROGATO DAL [D.LGS. 30 DICEMBRE 2010, N. 235](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20recante%20Codice%20dellamministrazione%20digitale%20a%20norma%20dellarticolo%2033%20della%20legge%2018%20giugno%202009%20n.%2069.%2011G0002.md).
 
-2. COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179).
+1-ter.
 
-CAPO XVI - Capo VIII ((SISTEMA PUBBLICO DI CONNETTIVITA'))
-----------------------------------------------------------
+Le regole tecniche di cui al presente codice sono dettate in conformita' ai requisiti tecnici di accessibilita' di cui all'[articolo 11 della legge 9 gennaio 2004, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-01-09;4#art_11), alle discipline risultanti dal processo di standardizzazione tecnologica a livello internazionale ed alle normative dell'Unione europea.
 
-### Art. 72
+2.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179)))
+COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20Codice%20dellamministrazione%20digitale%20di%20cui%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20ai%20sensi%20dellarticolo%201%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20ri_86cee14b8d07.md).
 
-### Art. 73
+## Capo VIII ((SISTEMA PUBBLICO DI CONNETTIVITA'))
 
-Sistema pubblico di connettivita' (SPC)
+-
 
-1. Nel rispetto dell'[articolo 117, secondo comma, lettera r), della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art117-com2-letr), e nel rispetto dell'autonomia dell'organizzazione interna delle funzioni informative delle regioni e delle autonomie locali il presente Capo definisce e disciplina il Sistema pubblico di connettivita'
+### Art. 72.
 
-(( e cooperazione (SPC), quale insieme di infrastrutture tecnologiche e di regole tecniche che assicura l'interoperabilita' tra i sistemi informativi delle pubbliche amministrazioni, permette il coordinamento informativo e informatico dei dati tra le amministrazioni centrali, regionali e locali e tra queste e i sistemi dell'Unione europea ed e' aperto all'adesione da parte dei gestori di servizi pubblici e dei soggetti privati.))
+((ARTICOLO ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179))
+
+### Art. 73. — Sistema pubblico di connettivita' (SPC)
+
+1.
+
+Nel rispetto dell'[articolo 117, secondo comma, lettera r), della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_117-com2-letr), e nel rispetto dell'autonomia dell'organizzazione interna delle funzioni informative delle regioni e delle autonomie locali il presente Capo definisce e disciplina il Sistema pubblico di connettivita' (( e cooperazione (SPC), quale insieme di infrastrutture tecnologiche e di regole tecniche che assicura l'interoperabilita' tra i sistemi informativi delle pubbliche amministrazioni, permette il coordinamento informativo e informatico dei dati tra le amministrazioni centrali, regionali e locali e tra queste e i sistemi dell'Unione europea ed e' aperto all'adesione da parte dei gestori di servizi pubblici e dei soggetti privati.))
 
 ((
 
-2. Il SPC garantisce la sicurezza e la riservatezza delle informazioni, nonche' la salvaguardia e l'autonomia del patrimonio informativo di ciascun soggetto aderente.
+2.
+
+Il SPC garantisce la sicurezza e la riservatezza delle informazioni, nonche' la salvaguardia e l'autonomia del patrimonio informativo di ciascun soggetto aderente.
 
 ))
 
-3. La realizzazione del SPC avviene nel rispetto dei seguenti principi:   
+3.
 
-((a) sviluppo architetturale e organizzativo atto a garantire la federabilita' dei sistemi;))
+La realizzazione del SPC avviene nel rispetto dei seguenti principi: 
+ ((a) sviluppo architetturale e organizzativo atto a garantire la federabilita' dei sistemi;)) 
+ b) economicita' nell'utilizzo dei servizi di rete, di interoperabilita' e di supporto alla cooperazione applicativa; 
+ ((b-bis) aggiornamento continuo del sistema e aderenza alle migliori pratiche internazionali;)) 
+ c) sviluppo del mercato e della concorrenza nel settore delle tecnologie dell'informazione e della comunicazione. (1)
 
-  
-b) economicita' nell'utilizzo dei servizi di rete, di interoperabilita' e di supporto alla cooperazione applicativa;   
+3-bis.
 
-((b-bis) aggiornamento continuo del sistema e aderenza alle migliori pratiche internazionali;))
-
-  
-c) sviluppo del mercato e della concorrenza nel settore delle tecnologie dell'informazione e della comunicazione. (1)
-
-3-bis. 
-
-((COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179)))
-
-.
+((COMMA ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179)).
 
 ((
 
-3-ter. Il SPC e' costituito da un insieme di elementi che comprendono:
+3-ter.
 
-a) infrastrutture, architetture e interfacce tecnologiche;
-
-b) linee guida e regole per la cooperazione e l'interoperabilita';
-
-c) catalogo di servizi e applicazioni.
+Il SPC e' costituito da un insieme di elementi che comprendono:
+                            a)
+                                infrastrutture, architetture e interfacce tecnologiche;
+                            b)
+                                linee guida e regole per la cooperazione e l'interoperabilita';
+                            c)
+                                catalogo di servizi e applicazioni.
 
 3-quater. Ai sensi dell'articolo 71 sono dettate le regole tecniche del Sistema pubblico di connettivita' e cooperazione, al fine di assicurarne: l'aggiornamento rispetto alla evoluzione della tecnologia; l'aderenza alle linee guida europee in materia di interoperabilita'; l'adeguatezza rispetto alle esigenze delle pubbliche amministrazioni e dei suoi utenti; la piu' efficace e semplice adozione da parte di tutti i soggetti, pubblici e privati, il rispetto di necessari livelli di sicurezza.))
 
@@ -3078,193 +2848,175 @@ c) catalogo di servizi e applicazioni.
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 4 aprile 2006, n. 159](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-04;159) ha disposto (con l'art. 31, comma 1) che nel presente decreto legislativo l'espressione "Capo VIII" e' sostituita dalla seguente: "Capo IX" e conseguentemente la numerazione degli articoli da 72 a 76 e' sostituita dalla numerazione progressiva da 88 a 92.
+Il [D.Lgs. 4 aprile 2006, n. 159](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20recante%20codice%20dellamministrazione%20digitale.md) ha disposto (con l'art. 31, comma 1) che nel presente decreto legislativo l'espressione "Capo VIII" e' sostituita dalla seguente: "Capo IX" e conseguentemente la numerazione degli articoli da 72 a 76 e' sostituita dalla numerazione progressiva da 88 a 92.
 
-### Art. 74
+### Art. 74.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179)))
+((ARTICOLO ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179))
 
-### Art. 75
-
-Partecipazione al Sistema pubblico di connettivita'
+### Art. 75. — Partecipazione al Sistema pubblico di connettivita'
 
 ((
 
-1. I soggetti di cui all'articolo 2, comma 2, partecipano al SPC, salve le esclusioni collegate all'esercizio delle funzioni di ordine e sicurezza pubblica, difesa nazionale, consultazioni elettorali.
+1.
 
-2. Chiunque puo' partecipare al SPC nel rispetto delle regole tecniche di cui all'articolo 73, comma 3-quater.
+I soggetti di cui all'articolo 2, comma 2, partecipano al SPC, salve le esclusioni collegate all'esercizio delle funzioni di ordine e sicurezza pubblica, difesa nazionale, consultazioni elettorali.
 
-3. AgID rende gratuitamente disponibili specifiche delle interfacce tecnologiche, le linee guida, le regole di cooperazione e ogni altra informazione necessaria a garantire l'interoperabilita' del SPC con ogni soluzione informatica sviluppata autonomamente da privati o da altre amministrazioni che rispettano le regole definite ai sensi dell'articolo 73, comma 3-quater.
+2.
+
+Chiunque puo' partecipare al SPC nel rispetto delle regole tecniche di cui all'articolo 73, comma 3-quater.
+
+3.
+
+AgID rende gratuitamente disponibili specifiche delle interfacce tecnologiche, le linee guida, le regole di cooperazione e ogni altra informazione necessaria a garantire l'interoperabilita' del SPC con ogni soluzione informatica sviluppata autonomamente da privati o da altre amministrazioni che rispettano le regole definite ai sensi dell'articolo 73, comma 3-quater.
 
 ))
 
-3-bis. 
+3-bis.
 
-((COMMA ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179)))
-
-.
+((COMMA ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179)).
 
 ------------
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 4 aprile 2006, n. 159](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-04;159) ha disposto (con l'art. 31, comma 1) che nel presente decreto legislativo l'espressione "Capo VIII" e' sostituita dalla seguente: "Capo IX" e conseguentemente la numerazione degli articoli da 72 a 76 e' sostituita dalla numerazione progressiva da 88 a 92.
+Il [D.Lgs. 4 aprile 2006, n. 159](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20recante%20codice%20dellamministrazione%20digitale.md) ha disposto (con l'art. 31, comma 1) che nel presente decreto legislativo l'espressione "Capo VIII" e' sostituita dalla seguente: "Capo IX" e conseguentemente la numerazione degli articoli da 72 a 76 e' sostituita dalla numerazione progressiva da 88 a 92.
 
-### Art. 76
+### Art. 76. — Scambio di documenti informatici nell'ambito del Sistema pubblico diconnettivita'
 
-Scambio di documenti informatici nell'ambito del Sistema pubblico diconnettivita'
+1.
 
-1. Gli scambi di documenti informatici
-
-((...))
-
-nell'ambito del SPC, realizzati attraverso la cooperazione applicativa e nel rispetto delle relative procedure e regole tecniche di sicurezza, costituiscono invio documentale valido ad ogni effetto di legge. (1)
+Gli scambi di documenti informatici ((...)) nell'ambito del SPC, realizzati attraverso la cooperazione applicativa e nel rispetto delle relative procedure e regole tecniche di sicurezza, costituiscono invio documentale valido ad ogni effetto di legge. (1)
 
 ------------
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 4 aprile 2006, n. 159](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-04;159) ha disposto (con l'art. 31, comma 1) che nel presente decreto legislativo l'espressione "Capo VIII" e' sostituita dalla seguente: "Capo IX" e conseguentemente la numerazione degli articoli da 72 a 76 e' sostituita dalla numerazione progressiva da 88 a 92.
+Il [D.Lgs. 4 aprile 2006, n. 159](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20recante%20codice%20dellamministrazione%20digitale.md) ha disposto (con l'art. 31, comma 1) che nel presente decreto legislativo l'espressione "Capo VIII" e' sostituita dalla seguente: "Capo IX" e conseguentemente la numerazione degli articoli da 72 a 76 e' sostituita dalla numerazione progressiva da 88 a 92.
 
-### Art. 76-bis
-
-(( (Costi del SPC).))
+### Art. 76-bis. — (( (Costi del SPC).))
 
 ((
 
-1. I costi relativi alle infrastrutture nazionali per l'interoperabilita' sono a carico dei fornitori, per i servizi da essi direttamente utilizzati e proporzionalmente agli importi dei relativi contratti di fornitura e una quota di tali costi e' a carico delle pubbliche amministrazioni relativamente ai servizi da esse utilizzati. L'eventuale parte del contributo di cui all'[articolo 18, comma 3, del decreto legislativo 1° dicembre 2009, n. 177](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2009-12-01;177~art18-com3), che eccede la copertura dei costi diretti e indiretti, comprensivi di rimborsi per eventuali attivita' specificamente richieste dalla Consip ad AgID in relazione alle singole procedure, sostenuti dalla stessa Consip per le attivita' di centrale di committenza di cui all'[articolo 4, comma 3-quater, del decreto-legge 6 luglio 2012, n. 95](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95~art4-com3quater), convertito, con modificazioni, dalla [legge 7 agosto 2012, n. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135), e' destinata a parziale copertura della quota dei costi relativi alle infrastrutture nazionali gestite da AgID.
+1.
+
+I costi relativi alle infrastrutture nazionali per l'interoperabilita' sono a carico dei fornitori, per i servizi da essi direttamente utilizzati e proporzionalmente agli importi dei relativi contratti di fornitura e una quota di tali costi e' a carico delle pubbliche amministrazioni relativamente ai servizi da esse utilizzati. L'eventuale parte del contributo di cui all'[articolo 18, comma 3, del decreto legislativo 1° dicembre 2009, n. 177](../Decreti%20Legislativi/Riorganizzazione%20del%20Centro%20nazionale%20per%20linformatica%20nella%20pubblica%20amministrazione%20a%20norma%20dellarticolo%2024%20della%20legge%2018%20giugno%202009%20n.%2069.%2009G0189.md), che eccede la copertura dei costi diretti e indiretti, comprensivi di rimborsi per eventuali attivita' specificamente richieste dalla Consip ad AgID in relazione alle singole procedure, sostenuti dalla stessa Consip per le attivita' di centrale di committenza di cui all'[articolo 4, comma 3-quater, del decreto-legge 6 luglio 2012, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95#art_4-com3quater), convertito, con modificazioni, dalla [legge 7 agosto 2012, n. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md), e' destinata a parziale copertura della quota dei costi relativi alle infrastrutture nazionali gestite da AgID.
 
 ))
 
-### Art. 77
+### Art. 77.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179)))
+((ARTICOLO ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179))
 
-### Art. 78
+### Art. 78.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179)))
+((ARTICOLO ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179))
 
-### Art. 79
+### Art. 79.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179)))
+((ARTICOLO ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179))
 
-### Art. 80
+### Art. 80.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179)))
+((ARTICOLO ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179))
 
-### Art. 81
+### Art. 81.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179)))
+((ARTICOLO ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179))
 
-### Art. 82
+### Art. 82.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179)))
+((ARTICOLO ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179))
 
-### Art. 83
+### Art. 83.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179)))
+((ARTICOLO ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179))
 
-### Art. 84
+### Art. 84.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179)))
+((ARTICOLO ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179))
 
-### Art. 85
+### Art. 85.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179)))
+((ARTICOLO ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179))
 
-### Art. 86
+### Art. 86.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179)))
+((ARTICOLO ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179))
 
-### Art. 87
+### Art. 87.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179)))
+((ARTICOLO ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179))
 
-CAPO XVII - ((Capo IX)) DISPOSIZIONI TRANSITORIE FINALI E ABROGAZIONI
----------------------------------------------------------------------
+## ((Capo IX)) DISPOSIZIONI TRANSITORIE FINALI E ABROGAZIONI
 
-### Art. 88
+-
 
-((ARTICOLO ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179)))
+### Art. 88.
 
-### Art. 89
+((ARTICOLO ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179)))
+### Art. 89.
 
-### Art. 90
+((ARTICOLO ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179))
 
-Oneri finanziari
+### Art. 90. — Oneri finanziari
 
-1. All'attuazione del
+1.
 
-((presente Codice))
-
-si provvede nell'ambito delle risorse previste a legislazione vigente.(1)
+All'attuazione del ((presente Codice)) si provvede nell'ambito delle risorse previste a legislazione vigente.(1)
 
 ------------
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 4 aprile 2006, n. 159](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-04;159) ha disposto (con l'art. 31, comma 1) che nel presente decreto legislativo l'espressione "Capo VIII" e' sostituita dalla seguente: "Capo IX" e conseguentemente la numerazione degli articoli da 72 a 76 e' sostituita dalla numerazione progressiva da 88 a 92.
+Il [D.Lgs. 4 aprile 2006, n. 159](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20recante%20codice%20dellamministrazione%20digitale.md) ha disposto (con l'art. 31, comma 1) che nel presente decreto legislativo l'espressione "Capo VIII" e' sostituita dalla seguente: "Capo IX" e conseguentemente la numerazione degli articoli da 72 a 76 e' sostituita dalla numerazione progressiva da 88 a 92.
 
-### Art. 91
+### Art. 91. — Abrogazioni
 
-Abrogazioni
+1.
 
-1. Dalla data di entrata in vigore del presente testo unico sono abrogati:
+Dalla data di entrata in vigore del presente testo unico sono abrogati:
+                            a)
+                                il [decreto legislativo 23 gennaio 2002, n. 10](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%201999-93-CE%20relativa%20ad%20un%20quadro%20comunitario%20per%20le%20firme%20elettroniche.md);
+                            b)
+                                gli articoli 1, comma 1, lettere t), u), v), z), aa), bb), cc), dd), ee), ff), gg), hh), ii), ll), mm), nn), oo); 2, comma 1, ultimo periodo, 6; 8; 9; 10; 11; 12; 13; 14; 17; 20; 22; 23; 24; 25; 26; 27; 27-bis; 28; 28-bis; 29; 29-bis; 29-ter; 29-quater; 29-quinquies; 29-sexies; 29-septies; 29-octies; 36, commi 1, 2, 3, 4, 5 e 6; 51; del [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md) (Testo A);
+                            c)
+                                l'[articolo 26 comma 2, lettera a)](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202003.md), [e)](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202003.md), [h), della legge 27 dicembre 2002, n. 289](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202003.md);
+                            d)
+                                [articolo 27, comma 8, lettera b), della legge 16 gennaio 2003, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-01-16;3#art_27-com8-letb);
+ ;
+                            e)
+                                gli [articoli 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-29;229#art_16), [17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-29;229#art_17), [18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-29;229#art_18) e [19 della legge 29 luglio 2003, n. 229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-29;229#art_19).
 
-a) il [decreto legislativo 23 gennaio 2002, n. 10](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2002-01-23;10);
+2.
 
-b) gli articoli 1, comma 1, lettere t), u), v), z), aa), bb), cc), dd), ee), ff), gg), hh), ii), ll), mm), nn), oo); 2, comma 1, ultimo periodo, 6; 8; 9; 10; 11; 12; 13; 14; 17; 20; 22; 23; 24; 25; 26; 27; 27-bis; 28; 28-bis; 29; 29-bis; 29-ter; 29-quater; 29-quinquies; 29-sexies; 29-septies; 29-octies; 36, commi 1, 2, 3, 4, 5 e 6; 51; del [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445) (Testo A);
+Le abrogazioni degli articoli 2, comma 1, ultimo periodo, 6, commi 1 e 2; 10; [36, commi 1](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), [2](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), [3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), [4](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), [5](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md) e [6; del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md) (Testo A), si intendono riferite anche al [decreto legislativo 28 dicembre 2000, n. 443](../Decreti%20Legislativi/Disposizioni%20legislative%20in%20materia%20di%20documentazione%20amministrativa.Testo%20B.md) (Testo B).
 
-c) l'[articolo 26 comma 2, lettera a)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-27;289~art26-com2-leta), [e)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-27;289~art26-com2-lete), [h), della legge 27 dicembre 2002, n. 289](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-27;289~art26-com2-leth);
+3.
 
-d) [articolo 27, comma 8, lettera b), della legge 16 gennaio 2003, n. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-01-16;3~art27-com8-letb);  
-;
-
-e) gli [articoli 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-29;229~art16), [17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-29;229~art17), [18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-29;229~art18) e [19 della legge 29 luglio 2003, n. 229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-29;229~art19).
-
-2. Le abrogazioni degli articoli 2, comma 1, ultimo periodo, 6, commi 1 e 2; 10; [36, commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445~art36-com1), [2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445~art36-com2), [3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445~art36-com3), [4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445~art36-com4), [5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445~art36-com5) e [6; del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445~art36-com6) (Testo A), si intendono riferite anche al [decreto legislativo 28 dicembre 2000, n. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-12-28;443) (Testo B).
-
-3. Le abrogazioni degli articoli 1, comma 1, lettere t), u), v), z), aa), bb), cc), dd), ee), ff), gg), hh), ii), ll), mm), nn), oo); 6, commi 3 e 4; 8; 9; 11; 12; 13; 14; 17; 20; 22; 23; 24; 25; 26; 27; 27-bis; 28; 28-bis; 29; 29-bis; 29-ter; 29-quater; 29-quinquies; 29-sexies; 29-septies; 29-octies; 51; del [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445) (Testo A), si intendono riferite anche al [decreto del Presidente della Repubblica 28 dicembre 2000, n. 444](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;444) (Testo C).
+Le abrogazioni degli articoli 1, comma 1, lettere t), u), v), z), aa), bb), cc), dd), ee), ff), gg), hh), ii), ll), mm), nn), oo); 6, commi 3 e 4; 8; 9; 11; 12; 13; 14; 17; 20; 22; 23; 24; 25; 26; 27; 27-bis; 28; 28-bis; 29; 29-bis; 29-ter; 29-quater; 29-quinquies; 29-sexies; 29-septies; 29-octies; 51; del [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md) (Testo A), si intendono riferite anche al [decreto del Presidente della Repubblica 28 dicembre 2000, n. 444](../DPR/Disposizioni%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20C.md) (Testo C).
 
 ((
 
-3-bis. L'[articolo 15, comma 1, della legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art15-com1), e' abrogato.
+3-bis.
 
-3-ter. Il [decreto legislativo 28 febbraio 2005, n. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;42), e' abrogato.))
+L'[articolo 15, comma 1, della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), e' abrogato.
+
+3-ter. Il [decreto legislativo 28 febbraio 2005, n. 42](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20del%20sistema%20pubblico%20di%20connettivita%20e%20della%20rete%20internazionale%20della%20pubblica%20amministrazione%20a%20norma%20dellarticolo%2010%20della%20legge%2029%20luglio%202003%20n.%20229.md), e' abrogato.))
 
 ------------
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 4 aprile 2006, n. 159](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-04;159) ha disposto (con l'art. 31, comma 1) che nel presente decreto legislativo l'espressione "Capo VIII" e' sostituita dalla seguente: "Capo IX" e conseguentemente la numerazione degli articoli da 72 a 76 e' sostituita dalla numerazione progressiva da 88 a 92.
+Il [D.Lgs. 4 aprile 2006, n. 159](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%207%20marzo%202005%20n.%2082%20recante%20codice%20dellamministrazione%20digitale.md) ha disposto (con l'art. 31, comma 1) che nel presente decreto legislativo l'espressione "Capo VIII" e' sostituita dalla seguente: "Capo IX" e conseguentemente la numerazione degli articoli da 72 a 76 e' sostituita dalla numerazione progressiva da 88 a 92.
 
-### Art. 92
+### Art. 92.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 26 AGOSTO 2016, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179)))
+((ARTICOLO ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179))
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 marzo 2005
+Dato a Roma, addi' 7 marzo 2005
 
-CIAMPI
-
-Berlusconi, Presidente del Consiglio dei Ministri
-
-Stanca, Ministro per l'innovazione e le tecnologie
-
-Baccini, Ministro per la funzione pubblica
-
-Siniscalco, Ministro del-l'economia e delle finanze
-
-Pisanu, Ministro dell'interno
-
-Castelli, Ministro della giustizia
-
-Marzano, Ministro delle attivita' produttive
-
-Gasparri, Ministro delle comunicazioni
-
-Visto, il Guardasigilli: Castelli
+CIAMPI Berlusconi, Presidente del Consiglio dei Ministri Stanca, Ministro per l'innovazione e le tecnologie Baccini, Ministro per la funzione pubblica Siniscalco, Ministro del-l'economia e delle finanze Pisanu, Ministro dell'interno Castelli, Ministro della giustizia Marzano, Ministro delle attivita' produttive Gasparri, Ministro delle comunicazioni Visto, il Guardasigilli: Castelli

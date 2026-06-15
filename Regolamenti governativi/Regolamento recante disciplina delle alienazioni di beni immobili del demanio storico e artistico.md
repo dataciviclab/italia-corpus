@@ -1,130 +1,137 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 settembre 2000 n. 283
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 283
+data: 2000-09-07
+titolo: "Regolamento recante disciplina delle alienazioni di beni immobili del demanio storico e artistico."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2000-09-07;283
+codice_redazionale: 000G0331
+vigente: true
+---
 
+## DISPOSIZIONI GENERALI
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 settembre 2000 n. 283
-================================================================
+Capo I
 
-Regolamento recante disciplina delle alienazioni di beni immobili del demanio storico e artistico.
---------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del decreto: 28/10/2000
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GENNAIO 2004, N. 42))
 
-CAPO I Capo I DISPOSIZIONI GENERALI
------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GENNAIO 2004, N. 42))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GENNAIO 2004, N. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42)))
+## ALIENAZIONI Sezione I Individuazione dei beni
 
-### Art. 2
+Capo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GENNAIO 2004, N. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42)))
+### Art. 3.
 
-CAPO II Capo II ALIENAZIONI Sezione I Individuazione dei beni
--------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GENNAIO 2004, N. 42))
 
-### Art. 3
+### Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GENNAIO 2004, N. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GENNAIO 2004, N. 42))
 
-### Art. 4
+### Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GENNAIO 2004, N. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GENNAIO 2004, N. 42))
 
-### Art. 5
+### Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GENNAIO 2004, N. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GENNAIO 2004, N. 42))
 
-### Art. 6
+## Regime dell'autorizzazione
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GENNAIO 2004, N. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42)))
+Sezione II
 
-CAPO III Sezione II Regime dell'autorizzazione
-----------------------------------------------
+### Art. 7.
 
-### Art. 7
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GENNAIO 2004, N. 42))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GENNAIO 2004, N. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42)))
+### Art. 8.
 
-### Art. 8
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GENNAIO 2004, N. 42))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GENNAIO 2004, N. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42)))
+### Art. 9.
 
-### Art. 9
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GENNAIO 2004, N. 42))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GENNAIO 2004, N. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42)))
+### Art. 10.
 
-### Art. 10
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GENNAIO 2004, N. 42))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GENNAIO 2004, N. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42)))
+## Risoluzione del contratto di alienazione
 
-CAPO IV Sezione III Risoluzione del contratto di alienazione
-------------------------------------------------------------
+Sezione III
 
-### Art. 11
+### Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GENNAIO 2004, N. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GENNAIO 2004, N. 42))
 
-CAPO V Sezione IV Prelazione
-----------------------------
+## Prelazione
 
-### Art. 12
+Sezione IV
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GENNAIO 2004, N. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42)))
+### Art. 12.
 
-### Art. 13
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GENNAIO 2004, N. 42))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GENNAIO 2004, N. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42)))
+### Art. 13.
 
-CAPO VI Capo III CONCESSIONI E CONVENZIONI
-------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GENNAIO 2004, N. 42))
 
-### Art. 14
+## CONCESSIONI E CONVENZIONI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GENNAIO 2004, N. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42)))
+Capo III
 
-### Art. 15
+### Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GENNAIO 2004, N. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GENNAIO 2004, N. 42))
 
-### Art. 16
+### Art. 15.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GENNAIO 2004, N. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GENNAIO 2004, N. 42))
 
-### Art. 17
+### Art. 16.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GENNAIO 2004, N. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GENNAIO 2004, N. 42))
 
-### Art. 18
+### Art. 17.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GENNAIO 2004, N. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GENNAIO 2004, N. 42))
 
-CAPO VII Capo IV ALIENAZIONE DEL DEMANIO STORICO-ARTISTICO DELLO STATO
-----------------------------------------------------------------------
+### Art. 18.
 
-### Art. 19
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GENNAIO 2004, N. 42))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GENNAIO 2004, N. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42)))
+## ALIENAZIONE DEL DEMANIO STORICO-ARTISTICO DELLO STATO
 
-CAPO VIII Capo V DISPOSIZIONI FINALI E TRANSITORIE
---------------------------------------------------
+Capo IV
 
-### Art. 20
+### Art. 19.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GENNAIO 2004, N. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GENNAIO 2004, N. 42))
 
-### Art. 21
+## DISPOSIZIONI FINALI E TRANSITORIE
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GENNAIO 2004, N. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42)))
+Capo V
 
-### Art. 22
+### Art. 20.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GENNAIO 2004, N. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GENNAIO 2004, N. 42))
 
-### Art. 23
+### Art. 21.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GENNAIO 2004, N. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GENNAIO 2004, N. 42))
 
-### Art. 24
+### Art. 22.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 22 GENNAIO 2004, N. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GENNAIO 2004, N. 42))
+
+### Art. 23.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GENNAIO 2004, N. 42))
+
+### Art. 24.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 22 GENNAIO 2004, N. 42))

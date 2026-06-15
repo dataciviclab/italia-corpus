@@ -1,38 +1,33 @@
-DECRETO LEGISLATIVO 16 aprile 1948 n. 569
+---
+tipo: DECRETO LEGISLATIVO
+numero: 569
+data: 1948-04-16
+titolo: "Norme sull'ordinamento delle banche popolari."
+urn: urn:nir:stato:decreto.legislativo:1948-04-16;569
+codice_redazionale: 048U0569
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 16 aprile 1948 n. 569
-=========================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-Norme sull'ordinamento delle banche popolari.
----------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+## Art. 3.
 
-Art. 2
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+## Art. 4.
 
-Art. 3
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+## Art. 5.
 
-Art. 4
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+## Art. 6.
 
-Art. 5
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
-
-Art. 6
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))

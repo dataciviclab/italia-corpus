@@ -1,34 +1,25 @@
-DECRETO-LEGGE 09 ottobre 1993 n. 407
+---
+tipo: DECRETO-LEGGE
+numero: 407
+data: 1993-10-09
+titolo: "Modifiche ed integrazioni alla legge 7 agosto 1990, n. 250, recante provvidenze per l'editoria."
+urn: urn:nir:stato:decreto.legge:1993-10-09;407
+codice_redazionale: 093G0483
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 09 ottobre 1993 n. 407
-====================================
+DECRETO DECADUTO
 
-Modifiche ed integrazioni alla legge 7 agosto 1990, n. 250, recante provvidenze per l'editoria.
------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 10-10-1993.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO   
-
-Art. 3
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 4
-------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

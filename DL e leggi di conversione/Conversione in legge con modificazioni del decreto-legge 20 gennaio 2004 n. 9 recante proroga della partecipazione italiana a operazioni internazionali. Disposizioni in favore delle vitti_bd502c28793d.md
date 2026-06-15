@@ -1,107 +1,65 @@
-LEGGE 12 marzo 2004 n. 68
-
-
-LEGGE 12 marzo 2004 n. 68
-=========================
-
-Conversione in legge, con modificazioni, del decreto-legge 20 gennaio 2004, n. 9, recante proroga della partecipazione italiana a operazioni internazionali. Disposizioni in favore delle vittime militari e civili di attentati terroristici all'estero.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/3/2004
+---
+tipo: LEGGE
+numero: 68
+data: 2004-03-12
+titolo: "Conversione in legge, con modificazioni, del decreto-legge 20 gennaio 2004, n. 9, recante proroga della partecipazione italiana a operazioni internazionali. Disposizioni in favore delle vittime militari e civili di attentati terroristici all'estero."
+urn: urn:nir:stato:legge:2004-03-12;68
+codice_redazionale: 004G0097
+vigente: true
+---
 
 La Camera dei deputati ed il Senato della Repubblica hanno approvato;
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Promulga
---------
+Promulga la seguente legge:
 
-la seguente legge:
+## Art. 1.
 
-Art. 1
-------
+1.
 
-1. Il [decreto-legge 20 gennaio 2004, n. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-01-20;9), recante proroga della partecipazione italiana a operazioni internazionali, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
+Il [decreto-legge 20 gennaio 2004, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-01-20;9), recante proroga della partecipazione italiana a operazioni internazionali, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
 
-2. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.   
-  
+2.
 
-((2))
+La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale. 
+ 
+ ((2))
 
 -------------
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 24 febbraio 2012, n. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-02-24;20), nel modificare l'[art. 2268, comma 1, numero 1022) del D.Lgs. 24 febbraio 2012, n. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-02-24;20~art2268-com1-num1022), ha conseguentemente disposto (con l'art. 9, comma 1, lettera p), numero 10)) il venir meno dell'abrogazione dell'intero provvedimento.   
-Ha inoltre disposto (con l'art. 10, comma 8, lettera a), numero 5)) che riprende vigore "l'[articolo 1-bis) del decreto-legge 20 gennaio 2004, n. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-01-20;9~art1bis), convertito, con modificazioni, dalla [legge 12 marzo 2004, n. 68](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-03-12;68)".
+Il [D.Lgs. 24 febbraio 2012, n. 20](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2015%20marzo%202010%20n.%2066%20recante%20codice%20dellordinamento%20militare%20a%20norma%20dellarticolo%2014%20comma%2018%20della%20legge%2028%20novembre%202005%20n.%20246.%2012G0038.md), nel modificare l'[art. 2268, comma 1, numero 1022) del D.Lgs. 24 febbraio 2012, n. 20](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2015%20marzo%202010%20n.%2066%20recante%20codice%20dellordinamento%20militare%20a%20norma%20dellarticolo%2014%20comma%2018%20della%20legge%2028%20novembre%202005%20n.%20246.%2012G0038.md), ha conseguentemente disposto (con l'art. 9, comma 1, lettera p), numero 10)) il venir meno dell'abrogazione dell'intero provvedimento. 
+ Ha inoltre disposto (con l'art. 10, comma 8, lettera a), numero 5)) che riprende vigore "l'[articolo 1-bis) del decreto-legge 20 gennaio 2004, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-01-20;9#art_1bis), convertito, con modificazioni, dalla [legge 12 marzo 2004, n. 68](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20gennaio%202004%20n.%209%20recante%20proroga%20della%20partecipazione%20italiana%20a%20operazioni%20internazionali.%20Disposizioni%20in%20favore%20delle%20vitti_bd502c28793d.md)".
 
-Art. 2
-------
+## Art. 2.
 
-1. Al [comma 1 dell'articolo 3 del decreto-legge 28 novembre 2003, n. 337](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-11-28;337~art3-com1), convertito, con modificazioni, dalla [legge 24 dicembre 2003, n. 369](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;369), dopo le parole: "[legge 13 agosto 1980, n. 466](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-08-13;466)," sono inserite le seguenti: "compreso il personale appartenente agli organismi di   
+1.
+
+Al [comma 1 dell'articolo 3 del decreto-legge 28 novembre 2003, n. 337](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-11-28;337#art_3-com1), convertito, con modificazioni, dalla [legge 24 dicembre 2003, n. 369](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20novembre%202003%20n.%20337%20recante%20disposizioni%20urgenti%20in%20favore%20delle%20vittime%20militari%20e%20civili%20di%20attentati%20terroristici%20allestero.md), dopo le parole: "[legge 13 agosto 1980, n. 466](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-08-13;466)," sono inserite le seguenti: "compreso il personale appartenente agli organismi di 
 informazione e sicurezza,".
 
-2. Al [comma 2 dell'articolo 3 del decreto-legge 28 novembre 2003, n. 337](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-11-28;337~art3-com2), convertito, con modificazioni, dalla [legge 24 dicembre 2003, n. 369](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;369), le parole: "310.000 euro" sono sostituite dalle seguenti:   
+2.
+
+Al [comma 2 dell'articolo 3 del decreto-legge 28 novembre 2003, n. 337](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-11-28;337#art_3-com2), convertito, con modificazioni, dalla [legge 24 dicembre 2003, n. 369](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20novembre%202003%20n.%20337%20recante%20disposizioni%20urgenti%20in%20favore%20delle%20vittime%20militari%20e%20civili%20di%20attentati%20terroristici%20allestero.md), le parole: "310.000 euro" sono sostituite dalle seguenti: 
 "346.000 euro".
 
-3. All'onere di cui al comma 2, valutato in 36.000 euro a decorrere dall'anno 2004, si provvede mediante riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2004-2006, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2004, allo scopo parzialmente utilizzando l'accantonamento   
+3.
+
+All'onere di cui al comma 2, valutato in 36.000 euro a decorrere dall'anno 2004, si provvede mediante riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2004-2006, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2004, allo scopo parzialmente utilizzando l'accantonamento 
 relativo al medesimo Ministero.
 
-4. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+4.
 
-5. Il Ministro dell'economia e delle finanze provvede al monitoraggio dell'attuazione del presente articolo, anche ai fini dell'applicazione dell'[articolo 11-ter, comma 7, della legge 5 agosto 1978, n. 468](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-05;468~art11ter-com7), e successive modificazioni, e trasmette alle Camere, corredati da apposite relazioni, gli eventuali decreti emanati ai sensi dell'articolo 7, secondo comma, numero 2), della citata [legge n. 468 del 1978](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978;468).
+Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+
+5.
+
+Il Ministro dell'economia e delle finanze provvede al monitoraggio dell'attuazione del presente articolo, anche ai fini dell'applicazione dell'[articolo 11-ter, comma 7, della legge 5 agosto 1978, n. 468](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20di%20alcune%20norme%20di%20contabilita%20generale%20dello%20Stato%20in%20materia%20di%20bilancio.md), e successive modificazioni, e trasmette alle Camere, corredati da apposite relazioni, gli eventuali decreti emanati ai sensi dell'articolo 7, secondo comma, numero 2), della citata [legge n. 468 del 1978](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978;468).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### osservare come legge dello Stato.
+osservare come legge dello Stato.
 
-Data a Roma, addi' 12 marzo 2004 CIAMPI
-
-Berlusconi, Presidente del Consiglio dei Ministri
-
-Frattini, Ministro degli affari esteri
-
-Martino, Ministro della difesa
-
-Pisanu, Ministro dell'interno
-
-Visto, il Guardasigilli: Castelli
-
-Allegato
-
-  
-  
-Allegato   
-Modificazioni apportate in sede di conversione al [decreto-legge 20 gennaio 2004, n. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-01-20;9)
-  
-
-((. . .))
-
-  
-Dopo l'articolo 1, e' inserito il seguente:   
-"ART. 1-bis. - (Disposizioni in favore delle famiglie delle vittime civili italiane degli attentati di Nassiriya e di Istanbul).  
-- 1. Al [comma 1 dell'articolo 1 del decreto-legge 28 novembre 2003, n. 337](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-11-28;337~art1-com1), convertito, con modificazioni, dalla [legge 24 dicembre 2003, n. 369](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;369), dopo le parole: "alla data dell'evento", sono inserite le seguenti: ", nonche' il diritto al collocamento obbligatorio previsto all'[articolo 1, comma 2, della legge 23 novembre 1998, n. 407](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-11-23;407~art1-com2), e successive modificazioni, e il beneficio delle borse di studio previsto all'articolo 4, comma 1, della medesima legge, e successive modificazioni, nei limiti delle risorse ivi previste"".   
-
-((. . .))
-
-((. . .))
-
-((. . .))
-
-((. . .))
-
-((. . .))
-
-((. . .))
-
-((. . .))
-
-((. . .))
-
-((. . .))
-
-((. . .))
-
-((. . .))
+Data a Roma, addi' 12 marzo 2004 CIAMPI Berlusconi, Presidente del Consiglio dei Ministri Frattini, Ministro degli affari esteri Martino, Ministro della difesa Pisanu, Ministro dell'interno Visto, il Guardasigilli: Castelli

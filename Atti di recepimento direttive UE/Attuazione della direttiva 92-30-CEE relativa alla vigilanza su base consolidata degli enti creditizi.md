@@ -1,45 +1,37 @@
-DECRETO LEGISLATIVO 30 dicembre 1992 n. 528
+---
+tipo: DECRETO LEGISLATIVO
+numero: 528
+data: 1992-12-30
+titolo: "Attuazione della direttiva 92/30/CEE relativa alla vigilanza su base consolidata degli enti creditizi."
+urn: urn:nir:stato:decreto.legislativo:1992-12-30;528
+codice_redazionale: 093G0012
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 30 dicembre 1992 n. 528
-===========================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993 N. 385))
 
-Attuazione della direttiva 92/30/CEE relativa alla vigilanza su base consolidata degli enti creditizi.
-------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 26/01/1993
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993 N. 385))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993 N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993 N. 385))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993 N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993 N. 385))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993 N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993 N. 385))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993 N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993 N. 385))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993 N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
-
-Art. 6
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993 N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
-
-Art. 7
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993 N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993 N. 385))

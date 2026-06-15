@@ -1,52 +1,39 @@
-DECRETO-LEGGE 27 agosto 1987 n. 348
+---
+tipo: DECRETO-LEGGE
+numero: 348
+data: 1987-08-27
+titolo: "Misure fiscali urgenti di riequilibrio congiunturale."
+urn: urn:nir:stato:decreto.legge:1987-08-27;348
+codice_redazionale: 087U0348
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 27 agosto 1987 n. 348
-===================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 21 NOVEMBRE 1987, N. 477](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20settembre%201987%20n.%20391%20concernente%20modificazioni%20dellimposta%20di%20fabbricazione%20sui%20gas%20di%20petrolio%20liquefatti%20e%20di%20talune%20tasse%20e_65d78f480d89.md)
 
-Misure fiscali urgenti di riequilibrio congiunturale.
------------------------------------------------------
+## Art. 2.
 
-Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 21 NOVEMBRE 1987, N. 477](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20settembre%201987%20n.%20391%20concernente%20modificazioni%20dellimposta%20di%20fabbricazione%20sui%20gas%20di%20petrolio%20liquefatti%20e%20di%20talune%20tasse%20e_65d78f480d89.md)
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 21 NOVEMBRE 1987, N. 477](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-21;477)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 21 NOVEMBRE 1987, N. 477](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20settembre%201987%20n.%20391%20concernente%20modificazioni%20dellimposta%20di%20fabbricazione%20sui%20gas%20di%20petrolio%20liquefatti%20e%20di%20talune%20tasse%20e_65d78f480d89.md)
 
-Art. 2
-------
+## Art. 4.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 21 NOVEMBRE 1987, N. 477](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-21;477)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 21 NOVEMBRE 1987, N. 477](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20settembre%201987%20n.%20391%20concernente%20modificazioni%20dellimposta%20di%20fabbricazione%20sui%20gas%20di%20petrolio%20liquefatti%20e%20di%20talune%20tasse%20e_65d78f480d89.md)
 
-Art. 3
-------
+## Art. 5.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 21 NOVEMBRE 1987, N. 477](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-21;477)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 21 NOVEMBRE 1987, N. 477](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20settembre%201987%20n.%20391%20concernente%20modificazioni%20dellimposta%20di%20fabbricazione%20sui%20gas%20di%20petrolio%20liquefatti%20e%20di%20talune%20tasse%20e_65d78f480d89.md)
 
-Art. 4
-------
+## Art. 6.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 21 NOVEMBRE 1987, N. 477](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-21;477)
-  
-
-Art. 5
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 21 NOVEMBRE 1987, N. 477](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-21;477)
-  
-
-Art. 6
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 21 NOVEMBRE 1987, N. 477](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-21;477)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 21 NOVEMBRE 1987, N. 477](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20settembre%201987%20n.%20391%20concernente%20modificazioni%20dellimposta%20di%20fabbricazione%20sui%20gas%20di%20petrolio%20liquefatti%20e%20di%20talune%20tasse%20e_65d78f480d89.md)

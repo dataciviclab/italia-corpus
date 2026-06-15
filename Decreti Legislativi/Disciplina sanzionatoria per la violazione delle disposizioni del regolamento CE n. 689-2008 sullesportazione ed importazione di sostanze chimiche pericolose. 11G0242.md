@@ -1,70 +1,57 @@
-DECRETO LEGISLATIVO 27 ottobre 2011 n. 200
+---
+tipo: DECRETO LEGISLATIVO
+numero: 200
+data: 2011-10-27
+titolo: "Disciplina sanzionatoria per la violazione delle disposizioni del regolamento (CE) n. 689/2008 sull'esportazione ed importazione di sostanze chimiche pericolose. (11G0242)"
+urn: urn:nir:stato:decreto.legislativo:2011-10-27;200
+codice_redazionale: 011G0242
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 27 ottobre 2011 n. 200
-==========================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2017, N. 28))
 
-Disciplina sanzionatoria per la violazione delle disposizioni del regolamento (CE) n. 689/2008 sull'esportazione ed importazione di sostanze chimiche pericolose. (11G0242)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 20/12/2011
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2017, N. 28))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2017, N. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-02-10;28)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2017, N. 28))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2017, N. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-02-10;28)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2017, N. 28))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2017, N. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-02-10;28)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2017, N. 28))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2017, N. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-02-10;28)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2017, N. 28))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2017, N. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-02-10;28)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2017, N. 28))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2017, N. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-02-10;28)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2017, N. 28))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2017, N. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-02-10;28)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2017, N. 28))
 
-Art. 8
-------
+## Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2017, N. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-02-10;28)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2017, N. 28))
 
-Art. 9
-------
+## Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2017, N. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-02-10;28)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2017, N. 28))
 
-Art. 10
--------
+## Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2017, N. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-02-10;28)))
-
-Art. 11
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2017, N. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-02-10;28)))
-
-Art. 12
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2017, N. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-02-10;28)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2017, N. 28))

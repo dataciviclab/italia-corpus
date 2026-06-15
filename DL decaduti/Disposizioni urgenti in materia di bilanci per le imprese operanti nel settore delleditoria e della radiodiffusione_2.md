@@ -1,52 +1,37 @@
-DECRETO-LEGGE 26 aprile 1994 n. 252
+---
+tipo: DECRETO-LEGGE
+numero: 252
+data: 1994-04-26
+titolo: "Disposizioni urgenti in materia di bilanci per le imprese operanti nel settore dell'editoria e della radiodiffusione."
+urn: urn:nir:stato:decreto.legge:1994-04-26;252
+codice_redazionale: 094G0285
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 26 aprile 1994 n. 252
-===================================
+DECRETO DECADUTO
 
-Disposizioni urgenti in materia di bilanci per le imprese operanti nel settore dell'editoria e della radiodiffusione.
----------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 28-4-1994.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 5
-------
+## Art. 7.
 
-  
-DECRETO DECADUTO   
-
-Art. 6
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 7
-------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

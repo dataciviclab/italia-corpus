@@ -1,61 +1,45 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 novembre 2007 n. 254
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 254
+data: 2007-11-19
+titolo: "Regolamento concernente le disposizioni di organizzazione del Ministero delle infrastrutture."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2007-11-19;254
+codice_redazionale: 008G0001
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 novembre 2007 n. 254
-===============================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 211))
 
-Regolamento concernente le disposizioni di organizzazione del Ministero delle infrastrutture.
----------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 24-1-2008
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 211))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 211](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;211)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 211))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 211](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;211)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 211))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 211](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;211)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 211))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 211](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;211)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 211))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 211](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;211)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 211))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 211](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;211)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 211))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 211](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;211)))
-
-Art. 8
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 211](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;211)))
-
-Art. 9
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 211](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;211)))
-
-Allegato
-
- Allegato   
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 DICEMBRE 2008, N. 211](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-12-03;211)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 DICEMBRE 2008, N. 211))

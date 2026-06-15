@@ -1,16 +1,14 @@
-DECRETO 05 marzo 1991 n. 174
-
-
-DECRETO 05 marzo 1991 n. 174
-============================
-
-Regolamento recante criteri e norme di applicazione dell'art. 9, comma 4, del decreto-legge 30 dicembre 1989, n. 416, convertito, con modificazioni, dalla legge 28 febbraio 1990, n. 39, che prevede l'utilizzo di cittadini stranieri per l'esercizio dei profili professionali infermieristici nell'ambito del Servizio sanitario nazionale.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 23/6/1991
+---
+tipo: DECRETO
+numero: 174
+data: 1991-03-05
+titolo: "Regolamento recante criteri e norme di applicazione dell'art. 9, comma 4, del decreto-legge 30 dicembre 1989, n. 416, convertito, con modificazioni, dalla legge 28 febbraio 1990, n. 39, che prevede l'utilizzo di cittadini stranieri per l'esercizio dei profili professionali infermieristici nell'ambito del Servizio sanitario nazionale."
+urn: urn:nir:ministero.sanita:decreto:1991-03-05;174
+codice_redazionale: 091G0215
+vigente: true
+---
 
 IL MINISTRO DELLA SANITA'
--------------------------
 
 DI CONCERTO CON
 
@@ -22,7 +20,7 @@ IL MINISTRO DEL LAVORO
 
 E DELLA PREVIDENZA SOCIALE
 
-Vista la [legge 28 febbraio 1990, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;39), concernente la "Conversione in legge, con modificazioni, del [decretolegge 30 dicembre 1989, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416), recante norme urgenti in materia di asilo politico, di ingresso e soggiorno di cittadini extracomunitari e di regolarizzazione dei cittadini extracomunitari ed apolidi gia' presenti nel territorio dello Stato. Disposizioni in materia di asilo";
+Vista la [legge 28 febbraio 1990, n. 39](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201989%20n.%20416%20recante%20norme%20urgenti%20in%20materia%20di%20asilo%20politico%20di%20ingresso%20e%20soggiorno%20dei%20cittadini%20extracomunitari%20e_466cfea5d540.md), concernente la "Conversione in legge, con modificazioni, del [decretolegge 30 dicembre 1989, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416), recante norme urgenti in materia di asilo politico, di ingresso e soggiorno di cittadini extracomunitari e di regolarizzazione dei cittadini extracomunitari ed apolidi gia' presenti nel territorio dello Stato. Disposizioni in materia di asilo";
 
 Visto, in particolare, l'art. 9, comma 4, della predetta legge, il quale prevede l'utilizzo di cittadini stranieri extracomunitari e l'utilizzo di stranieri per l'esercizio dei profili professionali infermieristici nell'ambito del Servizio sanitario nazionale mediante contratti biennali di diritto privato che possono essere stipulati dalle unita' sanitarie locali e case di cura private convenzionate e che, inoltre, tale utilizzo debba effettuarsi in conformita' di disposizioni stabilite con decreto del Ministro della sanita', di concerto con il Ministro del tesoro e con il Ministro del lavoro e della previdenza sociale nel quale sono fissati: i contingenti per regioni in misura proporzionale rispetto alle carenze di organico esistenti, i criteri di valutazione dei titoli e di verifica delle professionalita' per l'effettivo esercizio della professione ai fini dell'accesso ai contratti suddetti nonche' le modalita' retributive e previdenziali;
 
@@ -30,144 +28,112 @@ Visto, altresi', l'art. 2, comma 3, della stessa legge;
 
 Viste le indicazioni relative alle carenze di organico esistenti per l'anno 1991 fornite dalle regioni e dalle province autonome di Trento e Bolzano;
 
-Visto l'[art. 17 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17);
+Visto l'[art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17);
 
 Udito il Consiglio di Stato;
 
 A D O T T A il seguente regolamento:
 
-Art. 1
-------
+## Art. 1. — Contingenti per regioni
 
-Contingenti per regioni
+1.
 
-1. I contingenti per regioni e province autonome di operatori appartenenti ai profili professionali infermieristici che possono accedere al rapporto di lavoro regolato dal contratto di diritto privato di durata biennale di cui all'[art. 9, comma 4, della legge 28 febbraio 1990, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;39~art9-com4), sono stati determinati rispetto alle carenze di organico esistenti, per l'anno 1991, secondo i dati risultanti dall'allegata tabella.
+I contingenti per regioni e province autonome di operatori appartenenti ai profili professionali infermieristici che possono accedere al rapporto di lavoro regolato dal contratto di diritto privato di durata biennale di cui all'[art. 9, comma 4, della legge 28 febbraio 1990, n. 39](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201989%20n.%20416%20recante%20norme%20urgenti%20in%20materia%20di%20asilo%20politico%20di%20ingresso%20e%20soggiorno%20dei%20cittadini%20extracomunitari%20e_466cfea5d540.md), sono stati determinati rispetto alle carenze di organico esistenti, per l'anno 1991, secondo i dati risultanti dall'allegata tabella.
 
-2. Con successivo, analogo provvedimento saranno determinati i contingenti relativi a carenze di organico accertate successivamente all'emanazione del presente decreto.  
-AVVERTENZA:  
-Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+2.
 
-Note alle premesse:  
-- Il [comma 4 dell'art. 9 del D.L. n. 416/1989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989;416~art9-com4), convertito, con modificazioni, dalla [legge n. 39/1990](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;39), e' cosi' formulato: "4. E' consentito l'utilizzo di cittadini stranieri per l'esercizio dei profili professionali infermieristici nell'ambito del Servizio sanitario nazionale; a tal fine possono essere stipulati dalle unita' sanitarie locali e da enti e case di cura private convenzionate contratti biennali rinnovabili di diritto privato. Con decreto del Ministro della sanita' di concerto con il Ministro del tesoro e con il Ministro del lavoro e della previdenza sociale sono fissati i contingenti per regioni in misura proporzionale rispetto alle carenze di organico esistenti, i criteri di valutazione dei titoli e di verifica della professionalita' per l'effettivo esercizio della professione ai fini dell'accesso ai contratti di cui al presente comma nonche' le modalita' retributive e previdenziali".  
-- Il comma 3 dell'art. 2 del sopracitato decreto e' cosi' formulato: "3. Con decreti adottati di concerto dai Ministri degli affari esteri, dell'interno, del bilancio e della programmazione economica, del lavoro e della previdenza sociale, sentiti i Ministri di settore eventualmente interessati, il CNEL, le organizzazioni sindacali maggiormente rappresentative sul piano nazionale e la conferenza Stato-regioni, vengono definite entro il 30 ottobre di ogni anno la programmazione dei flussi di ingresso in Italia per ragioni di lavoro degli stranieri extracomunitari e del loro inserimento socio-culturale, nonche' le sue modalita', sperimentando l'individuazione di criteri omogenei anche in sede comunitaria. Con gli stessi decreti viene altresi' definito il programma degli interventi sociali ed economici atti a favorire l'inserimento socio-culturale degli stranieri, il mantenimento dell'identita' culturale ed il diritto allo studio e alla casa".  
-- Il [comma 3 dell'art. 17 della legge n. 400/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.  
-Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.  
-Nota all'art. 1:  
-- Per il testo del [comma 4 dell'art. 9 del D.L. n. 416/1989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989;416~art9-com4), convertito, con modificazioni, nella [legge n. 39/1990](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;39), si veda nelle note alle premesse.
+Con successivo, analogo provvedimento saranno determinati i contingenti relativi a carenze di organico accertate successivamente all'emanazione del presente decreto.
+ AVVERTENZA:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
 
-Art. 2
-------
+Note alle premesse:
+ - Il [comma 4 dell'art. 9 del D.L. n. 416/1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989;416#art_9-com4), convertito, con modificazioni, dalla [legge n. 39/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;39), e' cosi' formulato: "4. E' consentito l'utilizzo di cittadini stranieri per l'esercizio dei profili professionali infermieristici nell'ambito del Servizio sanitario nazionale; a tal fine possono essere stipulati dalle unita' sanitarie locali e da enti e case di cura private convenzionate contratti biennali rinnovabili di diritto privato. Con decreto del Ministro della sanita' di concerto con il Ministro del tesoro e con il Ministro del lavoro e della previdenza sociale sono fissati i contingenti per regioni in misura proporzionale rispetto alle carenze di organico esistenti, i criteri di valutazione dei titoli e di verifica della professionalita' per l'effettivo esercizio della professione ai fini dell'accesso ai contratti di cui al presente comma nonche' le modalita' retributive e previdenziali".
+ - Il comma 3 dell'art. 2 del sopracitato decreto e' cosi' formulato: "3. Con decreti adottati di concerto dai Ministri degli affari esteri, dell'interno, del bilancio e della programmazione economica, del lavoro e della previdenza sociale, sentiti i Ministri di settore eventualmente interessati, il CNEL, le organizzazioni sindacali maggiormente rappresentative sul piano nazionale e la conferenza Stato-regioni, vengono definite entro il 30 ottobre di ogni anno la programmazione dei flussi di ingresso in Italia per ragioni di lavoro degli stranieri extracomunitari e del loro inserimento socio-culturale, nonche' le sue modalita', sperimentando l'individuazione di criteri omogenei anche in sede comunitaria. Con gli stessi decreti viene altresi' definito il programma degli interventi sociali ed economici atti a favorire l'inserimento socio-culturale degli stranieri, il mantenimento dell'identita' culturale ed il diritto allo studio e alla casa".
+ - Il [comma 3 dell'art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.
+ Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
+ Nota all'art. 1:
+ - Per il testo del [comma 4 dell'art. 9 del D.L. n. 416/1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989;416#art_9-com4), convertito, con modificazioni, nella [legge n. 39/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;39), si veda nelle note alle premesse.
 
-Criteri di valutazione dei titoli
+## Art. 2. — Criteri di valutazione dei titoli
 
-1. Al fine di accedere ai rapporti di lavoro di cui al precedente articolo, i cittadini extracomunitari che hanno conseguito all'estero un titolo infermieristico equiparabile a quelli previsti dalla vigente normativa statale in materia devono presentare al Ministero della sanita' domanda in carta legale intesa ad ottenere il riconoscimento e l'equiparazione del titolo stesso.
+1.
 
-2. La domanda e la relativa documentazione dovranno essere conformi alle disposizioni di cui alla [legge 8 novembre 1984, n. 752](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-11-08;752), e al [decreto ministeriale 16 luglio 1986, pubblicato nella Gazzetta Ufficiale n. 302 del 31 dicembre 1986](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1986-12-31&numeroGazzetta=302), concernente il "Riconoscimento di titolo abilitante all'esercizio delle professioni sanitarie ausiliarie, delle arti ausiliarie delle professioni sanitarie e delle professioni sanitarie tecniche per le quali non sia richiesta la laurea".
+Al fine di accedere ai rapporti di lavoro di cui al precedente articolo, i cittadini extracomunitari che hanno conseguito all'estero un titolo infermieristico equiparabile a quelli previsti dalla vigente normativa statale in materia devono presentare al Ministero della sanita' domanda in carta legale intesa ad ottenere il riconoscimento e l'equiparazione del titolo stesso.
 
-3. Il Ministero della sanita' provvede, secondo i criteri e le modalita' indicati nelle disposizioni citate, al rilascio della dichiarazione di equipollenza dei titoli suddetti.
+2.
 
-Note all'art. 2:  
-- Si riporta il testo della [legge n. 752/1984](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984;752), recante riconoscimento di titoli abilitanti all'esercizio delle professioni sanitarie ausiliarie, delle arti ausiliarie delle professioni sanitarie e delle professioni sanitarie tecniche per le quali non sia richiesta la laurea:  
-"Articolo unico. - I cittadini italiani che hanno conseguito all'estero titoli abilitanti all'esercizio delle professioni sanitarie ausiliarie, delle arti ausiliarie delle professioni sanitarie e delle professioni sanitarie tecniche per le quali non sia richiesta la laurea, possono chiedere al Ministero della sanita' il riconoscimento di tali titoli, anche se conseguiti prima dell'acquisizione della cittadinanza.  
-Il riconoscimento e' effettuato in conformita' dei criteri stabiliti con decreto del Ministro della sanita', di concerto con il Ministro della pubblica istruzione e con il Ministro degli affari esteri, da emanarsi entro sei mesi dall'entrata in vigore della presente legge; tale decreto terra' conto del curriculum degli studi del richiedente per durata e per contenuti teorici e pratici in relazione al curriculum necessario per il conseguimento del titolo in Italia.  
-In detto decreto sono in particolare stabiliti i casi di diretta equipollenza ai titoli nazionale di determinati titoli di cui al primo comma, nonche' i casi in cui il richiedente possa essere autorizzato, sulla base dello specifico curriculum scolastico, a sostenere il corrispondente esame di Stato ovvero ad iscriversi all'ultimo anno o ad un anno intermedio del relativo corso di studi presso una scuola italiana".  
-- Si trascrive il testo del dispositivo del D.M. 16 luglio 1986, riguardante il riconoscimento di titoli abilitanti all'esercizio delle professioni sanitarie ausiliarie, delle arti ausiliarie delle professioni sanitarie e delle professioni sanitarie tecniche per le quali non sia richiesta la laurea, pubblicato nella Gazzetta Ufficiale - serie generale - n. 302 del 31 dicembre 1986:  
-"Art. 1. - 1. I cittadini italiani che hanno conseguito all'estero un titolo di cui alla [legge 8 novembre 1984, n. 752](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-11-08;752), per ottenere il riconoscimento di detti titoli in Italia devono presentare al Ministero della sanita' domanda in carta legale corredata di:  
-a) titolo di studio di cui si chiede il riconoscimento in originale o copia autenticata;  
-b) programmi degli studi previsti per il conseguimento del suddetto titolo con indicazione delle singole materie e delle esercitazioni pratiche;  
-c) traduzione del titolo e dei programmi in lingua italiana, certificata conforme al testo originale dalla rappresentanza diplomatica o dall'autorita' consolare italiana nel Paese in cui il titolo e' stato rilasciato;  
-d) dichiarazione della suddetta rappresentanza diplomatica o autorita' consolare dalla quale risulti che il titolo e' stato rilasciato da autorita' competente ed e' riconosciuto abilitante 'in loco' e dalla quale risultino, altresi', gli anni di scolarita' necessari per l'ammissione al corso per il conseguimento del titolo e gli anni di durata del corso stesso;  
-e) foglio di carta legale in bianco per la certificazione di eventuale equipollenza.  
-Art. 2. - 1. E' riconosciuta l'equipollenza del titolo conseguito all'estero con quello italiano soltanto nel caso in cui dalla documentazione prescritta dall'art. 1 risulti la corrispondenza in ordine al livello degli studi, alla durata del corso ed ai relativi programmi.  
-2. Detta equipollenza va accertata con riferimento alla normativa vigente in Italia all'epoca in cui il titolo e' stato rilasciato.  
-Art. 3. - 1. Quando il corso di studi svolto per il conseguimento del titolo sia corrispondente a quello italiano quanto a durata e a livello degli studi, ma i contenuti teorici e pratici dei relativi programmi presentino difformita' tali da non pregiudicare la necessaria formazione professionale, il possessore del titolo e' ammesso a sostenere l'esame di Stato, ove prescritto, ovvero l'esame finale del corrispondente corso italiano.  
-Art. 4. - 1. Nel caso in cui il corso di studi necessario per il conseguimento del titolo sia corrispondente a quello italiano quanto a durata e a livello degli studi, ma presenti difformita' sostanziali nei contenuti teorici e pratici dei relativi programmi, il possessore del titolo e' ammesso all'ultimo anno del corrispondente corso italiano.  
-2. Nei casi in cui non ci sia corrispondenza di durata o di livello di studi, previa valutazione dei contenuti teorici e pratici dei relativi programmi, l'interessato puo' essere iscritto ad un anno intermedio del corrispondente corso italiano.  
-3. Il presente decreto sara' pubblicato nella Gazzetta Ufficiale della Repubblica".
+La domanda e la relativa documentazione dovranno essere conformi alle disposizioni di cui alla [legge 8 novembre 1984, n. 752](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-11-08;752), e al decreto ministeriale 16 luglio 1986, pubblicato nella Gazzetta Ufficiale n. 302 del 31 dicembre 1986, concernente il "Riconoscimento di titolo abilitante all'esercizio delle professioni sanitarie ausiliarie, delle arti ausiliarie delle professioni sanitarie e delle professioni sanitarie tecniche per le quali non sia richiesta la laurea".
 
-Art. 3
-------
+3.
 
-Verifica della professionalita'
+Il Ministero della sanita' provvede, secondo i criteri e le modalita' indicati nelle disposizioni citate, al rilascio della dichiarazione di equipollenza dei titoli suddetti.
 
-1. Ai fini della stipula del contratto di lavoro e del rinnovo dello stesso, le unita' sanitarie locali e gli altri enti pubblici e privati provvedono in via preliminare a verificare i livelli di conoscenza della lingua italiana e di professionalita' corrispondente al titolo posseduto sufficienti e necessari per l'esercizio delle attivita' professionali previste dal contratto, sulla base di un giudizio formulato da un collegio composto dal coordinatore sanitario o dal direttore sanitario, da un dirigente dei servizi infermieristici e da un infermiere professionale abilitato alle funzioni direttive.
+Note all'art. 2:
+ - Si riporta il testo della [legge n. 752/1984](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984;752), recante riconoscimento di titoli abilitanti all'esercizio delle professioni sanitarie ausiliarie, delle arti ausiliarie delle professioni sanitarie e delle professioni sanitarie tecniche per le quali non sia richiesta la laurea:
+ "Articolo unico. - I cittadini italiani che hanno conseguito all'estero titoli abilitanti all'esercizio delle professioni sanitarie ausiliarie, delle arti ausiliarie delle professioni sanitarie e delle professioni sanitarie tecniche per le quali non sia richiesta la laurea, possono chiedere al Ministero della sanita' il riconoscimento di tali titoli, anche se conseguiti prima dell'acquisizione della cittadinanza.
+ Il riconoscimento e' effettuato in conformita' dei criteri stabiliti con decreto del Ministro della sanita', di concerto con il Ministro della pubblica istruzione e con il Ministro degli affari esteri, da emanarsi entro sei mesi dall'entrata in vigore della presente legge; tale decreto terra' conto del curriculum degli studi del richiedente per durata e per contenuti teorici e pratici in relazione al curriculum necessario per il conseguimento del titolo in Italia.
+ In detto decreto sono in particolare stabiliti i casi di diretta equipollenza ai titoli nazionale di determinati titoli di cui al primo comma, nonche' i casi in cui il richiedente possa essere autorizzato, sulla base dello specifico curriculum scolastico, a sostenere il corrispondente esame di Stato ovvero ad iscriversi all'ultimo anno o ad un anno intermedio del relativo corso di studi presso una scuola italiana".
+ - Si trascrive il testo del dispositivo del D.M. 16 luglio 1986, riguardante il riconoscimento di titoli abilitanti all'esercizio delle professioni sanitarie ausiliarie, delle arti ausiliarie delle professioni sanitarie e delle professioni sanitarie tecniche per le quali non sia richiesta la laurea, pubblicato nella Gazzetta Ufficiale - serie generale - n. 302 del 31 dicembre 1986:
+ "Art. 1. - 1. I cittadini italiani che hanno conseguito all'estero un titolo di cui alla [legge 8 novembre 1984, n. 752](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-11-08;752), per ottenere il riconoscimento di detti titoli in Italia devono presentare al Ministero della sanita' domanda in carta legale corredata di:
+ a) titolo di studio di cui si chiede il riconoscimento in originale o copia autenticata;
+ b) programmi degli studi previsti per il conseguimento del suddetto titolo con indicazione delle singole materie e delle esercitazioni pratiche;
+ c) traduzione del titolo e dei programmi in lingua italiana, certificata conforme al testo originale dalla rappresentanza diplomatica o dall'autorita' consolare italiana nel Paese in cui il titolo e' stato rilasciato;
+ d) dichiarazione della suddetta rappresentanza diplomatica o autorita' consolare dalla quale risulti che il titolo e' stato rilasciato da autorita' competente ed e' riconosciuto abilitante 'in loco' e dalla quale risultino, altresi', gli anni di scolarita' necessari per l'ammissione al corso per il conseguimento del titolo e gli anni di durata del corso stesso;
+ e) foglio di carta legale in bianco per la certificazione di eventuale equipollenza.
+ Art. 2. - 1. E' riconosciuta l'equipollenza del titolo conseguito all'estero con quello italiano soltanto nel caso in cui dalla documentazione prescritta dall'art. 1 risulti la corrispondenza in ordine al livello degli studi, alla durata del corso ed ai relativi programmi.
+ 2. Detta equipollenza va accertata con riferimento alla normativa vigente in Italia all'epoca in cui il titolo e' stato rilasciato.
+ Art. 3. - 1. Quando il corso di studi svolto per il conseguimento del titolo sia corrispondente a quello italiano quanto a durata e a livello degli studi, ma i contenuti teorici e pratici dei relativi programmi presentino difformita' tali da non pregiudicare la necessaria formazione professionale, il possessore del titolo e' ammesso a sostenere l'esame di Stato, ove prescritto, ovvero l'esame finale del corrispondente corso italiano.
+ Art. 4. - 1. Nel caso in cui il corso di studi necessario per il conseguimento del titolo sia corrispondente a quello italiano quanto a durata e a livello degli studi, ma presenti difformita' sostanziali nei contenuti teorici e pratici dei relativi programmi, il possessore del titolo e' ammesso all'ultimo anno del corrispondente corso italiano.
+ 2. Nei casi in cui non ci sia corrispondenza di durata o di livello di studi, previa valutazione dei contenuti teorici e pratici dei relativi programmi, l'interessato puo' essere iscritto ad un anno intermedio del corrispondente corso italiano.
+ 3. Il presente decreto sara' pubblicato nella Gazzetta Ufficiale della Repubblica".
 
-2. Sulla base di tale giudizio e' fomulata la relativa graduatoria di merito.
+## Art. 3. — Verifica della professionalita'
 
-Art. 4
-------
+1.
 
-Modalita' retributive
+Ai fini della stipula del contratto di lavoro e del rinnovo dello stesso, le unita' sanitarie locali e gli altri enti pubblici e privati provvedono in via preliminare a verificare i livelli di conoscenza della lingua italiana e di professionalita' corrispondente al titolo posseduto sufficienti e necessari per l'esercizio delle attivita' professionali previste dal contratto, sulla base di un giudizio formulato da un collegio composto dal coordinatore sanitario o dal direttore sanitario, da un dirigente dei servizi infermieristici e da un infermiere professionale abilitato alle funzioni direttive.
 
-1. Al contrattista in possesso dei prescritti requisiti e condizioni inerenti all'esercizio di funzioni infermieristiche ed equiparato ad operatore professionale di prima categoria spettano, in relazione alla qualifica di infermiere professionale, lo stipendio annuo lordo: L. 11.631.000, ed un'indennita' infermieristica annua lorda fissa e ricorrente di L. 2.400.000.
+2.
 
-2. Al personale infermieristico equiparato all'operatore professionale di seconda categoria spettano uno stipendio annuo lordo di L. 10.521.000 ed una indennita' pari al 10% di quella sopra fissata. Spetta altresi' ad entrambi l'adeguamento annuale in ragione degli scatti di contingenza maturati dall'inizio del contratto.
+Sulla base di tale giudizio e' fomulata la relativa graduatoria di merito.
 
-3. Al personale di cui al comma uno verranno, inoltre, corrisposte le seguenti specifiche e particolari indennita' connesse sia all'attivita' espletata sia all'organizzazione del lavoro:
+## Art. 4. — Modalita' retributive
 
-a) L. 8.000 lorde giornaliere per il personale infermieristico operante nelle terapie intensive, sub-intensive, nelle sale operatorie e nei servizi di nefrologia e dialisi. Detta indennita' deve essere maggiorata di L. 2.000 giornaliere e compete al personale infermieristico assegnato ai servizi di malattie infettive;
+1.
 
-b) L. 6.000 lorde quale indennita' giornaliera per chi opera in tutti i turni di servizio;
+Al contrattista in possesso dei prescritti requisiti e condizioni inerenti all'esercizio di funzioni infermieristiche ed equiparato ad operatore professionale di prima categoria spettano, in relazione alla qualifica di infermiere professionale, lo stipendio annuo lordo: L. 11.631.000, ed un'indennita' infermieristica annua lorda fissa e ricorrente di L. 2.400.000.
 
-c) L. 4.500 lorde per ogni ora di servizio notturno prestato tra le ore 22 e le ore 6;
+2.
 
-d) L. 30.000 giornaliere lorde se le prestazioni fornite per servizio festivo sono di durata superiore alla meta' dell'orario del turno, ridotta a L. 15.000 giornaliere lorde se le prestazioni sono di durata pari o inferiore alla meta' di detto orario. Nell'arco delle 24 ore del giorno festivo non puo' essere corrisposta piu' di un'indennita' festiva per ogni singolo dipendente.
+Al personale infermieristico equiparato all'operatore professionale di seconda categoria spettano uno stipendio annuo lordo di L. 10.521.000 ed una indennita' pari al 10% di quella sopra fissata. Spetta altresi' ad entrambi l'adeguamento annuale in ragione degli scatti di contingenza maturati dall'inizio del contratto.
 
-Art. 5
-------
+3.
 
-Modalita' previdenziali
+Al personale di cui al comma uno verranno, inoltre, corrisposte le seguenti specifiche e particolari indennita' connesse sia all'attivita' espletata sia all'organizzazione del lavoro:
+                        a)
+                            L. 8.000 lorde giornaliere per il personale infermieristico operante nelle terapie intensive, sub-intensive, nelle sale operatorie e nei servizi di nefrologia e dialisi. Detta indennita' deve essere maggiorata di L. 2.000 giornaliere e compete al personale infermieristico assegnato ai servizi di malattie infettive;
+                        b)
+                            L. 6.000 lorde quale indennita' giornaliera per chi opera in tutti i turni di servizio;
+                        c)
+                            L. 4.500 lorde per ogni ora di servizio notturno prestato tra le ore 22 e le ore 6;
+                        d)
+                            L. 30.000 giornaliere lorde se le prestazioni fornite per servizio festivo sono di durata superiore alla meta' dell'orario del turno, ridotta a L. 15.000 giornaliere lorde se le prestazioni sono di durata pari o inferiore alla meta' di detto orario. Nell'arco delle 24 ore del giorno festivo non puo' essere corrisposta piu' di un'indennita' festiva per ogni singolo dipendente.
 
-1. I cittadini stranieri che esercitano attivita' infermieristica nell'ambito del Servizio sanitario nazionale ovvero presso enti e case di cura private convenzionate in conseguenza dei contratti stipulati ai sensi dell'[art. 9, comma 4, del decreto-legge 30 dicembre 1989, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416~art9-com4), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;39), sono iscritti alle forme di previdenza obbligatorie gestite dall'INPS, nonche' alle assicurazioni contro gli infortuni sul lavoro e malattie professionali secondo la normativa vigente.  
-Il presente decreto, munito del sigillo di Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.  
-Roma, 5 marzo 1991  
-Il Ministro della sanita'  
-DE LORENZO  
-Il Ministro del tesoro  
-CARLI  
-p. Il Ministro del lavoro e della previdenza sociale GRIPPO  
-Visto, il Guardasigilli: MARTELLI  
-Registrato alla [Corte dei conti il 22 maggio 1991  
-Registro n. 6](https://e-justice.europa.eu/ecli/ECLI::::) Sanita', foglio n. 281
+## Art. 5. — Modalita' previdenziali
 
-Nota all'art. 5:  
-- Per il testo del [comma 4 dell'art. 9 del D.L. n. 416/1989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989;416~art9-com4), convertito, con modificazioni, nella [legge n. 39/1990](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;39), si veda nelle note alle premesse.
+1.
 
-Allegato
+I cittadini stranieri che esercitano attivita' infermieristica nell'ambito del Servizio sanitario nazionale ovvero presso enti e case di cura private convenzionate in conseguenza dei contratti stipulati ai sensi dell'[art. 9, comma 4, del decreto-legge 30 dicembre 1989, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416#art_9-com4), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201989%20n.%20416%20recante%20norme%20urgenti%20in%20materia%20di%20asilo%20politico%20di%20ingresso%20e%20soggiorno%20dei%20cittadini%20extracomunitari%20e_466cfea5d540.md), sono iscritti alle forme di previdenza obbligatorie gestite dall'INPS, nonche' alle assicurazioni contro gli infortuni sul lavoro e malattie professionali secondo la normativa vigente.
+ Il presente decreto, munito del sigillo di Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+ Roma, 5 marzo 1991
+ Il Ministro della sanita'
+ DE LORENZO
+ Il Ministro del tesoro
+ CARLI
+ p. Il Ministro del lavoro e della previdenza sociale GRIPPO
+Visto, il Guardasigilli: MARTELLI
+ Registrato alla Corte dei conti il 22 maggio 1991
+ Registro n. 6 Sanita', foglio n. 281
 
- ALLEGATO   
-  
-  
-=====================================================================  
-  
-  
-Regione Operatore professionale Operatore professionale   
-o province autonome di prima categoria di seconda categoria   
-  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 1) Abruzzo......... - -  
-2) Basilicata ..... - -  
-3) Calabria........ - -  
-4) Campania........ - -  
-5) Emilia-Romagna.. 810 (45% su 1.800) -  
-6) Friuli-Venezia  
-Giulia......... 165 (50% su 330) -  
-7) Lazio.......... 100 (10% su 1.000) -  
-8) Liguria ....... - -  
-9) Lombardia...... 950 (6,4% su 14.667) -  
-10) Marche.......... 522 (25% su 2.090) -  
-11) Molise.......... - -  
-12) Piemonte........ 1.665 (50% su 3.331) -  
-13) Puglia.......... - -  
-14) Provincia  
-autonoma  
-di Bolzano...... 60 (32% su 186) -  
-15) Provincia autonoma  
-di Trento....... 45 (30% su 155) -  
-16) Sardegna........ - -  
-17) Sicilia......... - -  
-18) Toscana......... 500 (8,3% su 6.000) -  
-19) Umbria.......... 350 (28% su 1.250) -  
-20) Valle d'Aosta... 30 (20% su 150) -  
-21) Veneto.......... 500 (16,6% su 3.012) -  
-  
-  
+Nota all'art. 5:
+ - Per il testo del [comma 4 dell'art. 9 del D.L. n. 416/1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989;416#art_9-com4), convertito, con modificazioni, nella [legge n. 39/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;39), si veda nelle note alle premesse.

@@ -1,25 +1,21 @@
-REGIO DECRETO 13 aprile 1905 n. CLXII
+---
+tipo: REGIO DECRETO
+numero: CLXII
+data: 1905-04-13
+titolo: "Che approva il testo unico dello statuto organico della Societa' di mutuo soccorso artistico-commerciale con sede in Verona. (0500162R)"
+urn: urn:nir:stato:regio.decreto:1905-04-13;162
+codice_redazionale: 0500162R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 13 aprile 1905 n. CLXII
-=====================================
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-Che approva il testo unico dello statuto organico della Societa' di mutuo soccorso artistico-commerciale con sede in Verona. (0500162R)
----------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 01/12/1905
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

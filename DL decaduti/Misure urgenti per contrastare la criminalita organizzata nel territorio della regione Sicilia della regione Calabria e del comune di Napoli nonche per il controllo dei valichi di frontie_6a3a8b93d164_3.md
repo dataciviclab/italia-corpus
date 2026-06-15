@@ -1,42 +1,29 @@
-DECRETO-LEGGE 29 aprile 1994 n. 258
+---
+tipo: DECRETO-LEGGE
+numero: 258
+data: 1994-04-29
+titolo: "Misure urgenti per contrastare la criminalita' organizzata nel territorio della regione Sicilia, della regione Calabria e del comune di Napoli, nonche' per il controllo dei valichi di frontiera nella regione Friuli-Venezia Giulia."
+urn: urn:nir:stato:decreto.legge:1994-04-29;258
+codice_redazionale: 094G0294
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 29 aprile 1994 n. 258
-===================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 27 OTTOBRE 1994 N. 599](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20decreto-legge%2029%20agosto%201994%20n.%20521%20recante%20disposizioni%20urgenti%20per%20limpiego%20delle%20Forze%20armate%20in%20attivita%20di%20controllo%20del%20territorio%20nazionale%20nonche%20in%20missi_237264d1bc8c.md)
 
-Misure urgenti per contrastare la criminalita' organizzata nel territorio della regione Sicilia, della regione Calabria e del comune di Napoli, nonche' per il controllo dei valichi di frontiera nella regione Friuli-Venezia Giulia.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 1/5/1994.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 27 OTTOBRE 1994 N. 599](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20decreto-legge%2029%20agosto%201994%20n.%20521%20recante%20disposizioni%20urgenti%20per%20limpiego%20delle%20Forze%20armate%20in%20attivita%20di%20controllo%20del%20territorio%20nazionale%20nonche%20in%20missi_237264d1bc8c.md)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 27 OTTOBRE 1994 N. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-10-27;599)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 27 OTTOBRE 1994 N. 599](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20decreto-legge%2029%20agosto%201994%20n.%20521%20recante%20disposizioni%20urgenti%20per%20limpiego%20delle%20Forze%20armate%20in%20attivita%20di%20controllo%20del%20territorio%20nazionale%20nonche%20in%20missi_237264d1bc8c.md)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 27 OTTOBRE 1994 N. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-10-27;599)
-  
-
-Art. 3
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 27 OTTOBRE 1994 N. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-10-27;599)
-  
-
-Art. 4
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 27 OTTOBRE 1994 N. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-10-27;599)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 27 OTTOBRE 1994 N. 599](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20decreto-legge%2029%20agosto%201994%20n.%20521%20recante%20disposizioni%20urgenti%20per%20limpiego%20delle%20Forze%20armate%20in%20attivita%20di%20controllo%20del%20territorio%20nazionale%20nonche%20in%20missi_237264d1bc8c.md)

@@ -1,13 +1,13 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 settembre 2002 n. 300
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 300
+data: 2002-09-04
+titolo: "Regolamento recante rideterminazione delle unita' addette agli uffici di diretta collaborazione del Ministro delle attivita' produttive."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2002-09-04;300
+codice_redazionale: 003G0005
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 settembre 2002 n. 300
-================================================================
-
-Regolamento recante rideterminazione delle unita' addette agli uffici di diretta collaborazione del Ministro delle attivita' produttive.
-----------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 SETTEMBRE 2007, N. 187](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-09-20;187)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 SETTEMBRE 2007, N. 187))

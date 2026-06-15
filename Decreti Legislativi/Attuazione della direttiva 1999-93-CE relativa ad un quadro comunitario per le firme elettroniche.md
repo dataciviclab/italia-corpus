@@ -1,75 +1,61 @@
-DECRETO LEGISLATIVO 23 gennaio 2002 n. 10
+---
+tipo: DECRETO LEGISLATIVO
+numero: 10
+data: 2002-01-23
+titolo: "Attuazione della direttiva 1999/93/CE relativa ad un quadro comunitario per le firme elettroniche."
+urn: urn:nir:stato:decreto.legislativo:2002-01-23;10
+codice_redazionale: 002G0032
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 23 gennaio 2002 n. 10
-=========================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 MARZO 2005, N. 82))
 
-Attuazione della direttiva 1999/93/CE relativa ad un quadro comunitario per le firme elettroniche.
---------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 2-3-2002
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 MARZO 2005, N. 82))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 MARZO 2005, N. 82))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 MARZO 2005, N. 82))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 MARZO 2005, N. 82))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 MARZO 2005, N. 82))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 MARZO 2005, N. 82))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 MARZO 2005, N. 82))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 MARZO 2005, N. 82))
 
-Art. 8
-------
+## Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 MARZO 2005, N. 82))
 
-Art. 9
-------
+## Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 MARZO 2005, N. 82))
 
-Art. 10
--------
+## Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 MARZO 2005, N. 82))
 
-Art. 11
--------
+## Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82)))
-
-Art. 12
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82)))
-
-Art. 13
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 MARZO 2005, N. 82))

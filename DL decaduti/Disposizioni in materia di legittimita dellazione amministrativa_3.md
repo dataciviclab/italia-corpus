@@ -1,106 +1,69 @@
-DECRETO-LEGGE 14 settembre 1993 n. 359
+---
+tipo: DECRETO-LEGGE
+numero: 359
+data: 1993-09-14
+titolo: "Disposizioni in materia di legittimita' dell'azione amministrativa."
+urn: urn:nir:stato:decreto.legge:1993-09-14;359
+codice_redazionale: 093G0439
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 14 settembre 1993 n. 359
-======================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 14 GENNAIO 1994, N. 19](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20novembre%201993%20n.%20453%20recante%20disposizioni%20in%20materia%20di%20giurisdizione%20e%20controllo%20della%20Corte%20dei%20conti.md)
 
-Disposizioni in materia di legittimita' dell'azione amministrativa.
--------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 16/9/1993.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 14 GENNAIO 1994, N. 19](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20novembre%201993%20n.%20453%20recante%20disposizioni%20in%20materia%20di%20giurisdizione%20e%20controllo%20della%20Corte%20dei%20conti.md)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 14 GENNAIO 1994, N. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;19)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 14 GENNAIO 1994, N. 19](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20novembre%201993%20n.%20453%20recante%20disposizioni%20in%20materia%20di%20giurisdizione%20e%20controllo%20della%20Corte%20dei%20conti.md)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 14 GENNAIO 1994, N. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;19)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 14 GENNAIO 1994, N. 19](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20novembre%201993%20n.%20453%20recante%20disposizioni%20in%20materia%20di%20giurisdizione%20e%20controllo%20della%20Corte%20dei%20conti.md)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 14 GENNAIO 1994, N. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;19)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 14 GENNAIO 1994, N. 19](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20novembre%201993%20n.%20453%20recante%20disposizioni%20in%20materia%20di%20giurisdizione%20e%20controllo%20della%20Corte%20dei%20conti.md)
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 14 GENNAIO 1994, N. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;19)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 14 GENNAIO 1994, N. 19](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20novembre%201993%20n.%20453%20recante%20disposizioni%20in%20materia%20di%20giurisdizione%20e%20controllo%20della%20Corte%20dei%20conti.md)
 
-Art. 5
-------
+## Art. 7.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 14 GENNAIO 1994, N. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;19)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 14 GENNAIO 1994, N. 19](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20novembre%201993%20n.%20453%20recante%20disposizioni%20in%20materia%20di%20giurisdizione%20e%20controllo%20della%20Corte%20dei%20conti.md)
 
-Art. 6
-------
+## Art. 8.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 14 GENNAIO 1994, N. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;19)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 14 GENNAIO 1994, N. 19](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20novembre%201993%20n.%20453%20recante%20disposizioni%20in%20materia%20di%20giurisdizione%20e%20controllo%20della%20Corte%20dei%20conti.md)
 
-Art. 7
-------
+## Art. 9.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 14 GENNAIO 1994, N. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;19)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 14 GENNAIO 1994, N. 19](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20novembre%201993%20n.%20453%20recante%20disposizioni%20in%20materia%20di%20giurisdizione%20e%20controllo%20della%20Corte%20dei%20conti.md)
 
-Art. 8
-------
+## Art. 10.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 14 GENNAIO 1994, N. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;19)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 14 GENNAIO 1994, N. 19](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20novembre%201993%20n.%20453%20recante%20disposizioni%20in%20materia%20di%20giurisdizione%20e%20controllo%20della%20Corte%20dei%20conti.md)
 
-Art. 9
-------
+## Art. 11.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 14 GENNAIO 1994, N. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;19)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 14 GENNAIO 1994, N. 19](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20novembre%201993%20n.%20453%20recante%20disposizioni%20in%20materia%20di%20giurisdizione%20e%20controllo%20della%20Corte%20dei%20conti.md)
 
-Art. 10
--------
+## Art. 12.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 14 GENNAIO 1994, N. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;19)
-  
-
-Art. 11
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 14 GENNAIO 1994, N. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;19)
-  
-
-Art. 12
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 14 GENNAIO 1994, N. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;19)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 14 GENNAIO 1994, N. 19](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20novembre%201993%20n.%20453%20recante%20disposizioni%20in%20materia%20di%20giurisdizione%20e%20controllo%20della%20Corte%20dei%20conti.md)

@@ -1,52 +1,39 @@
-DECRETO-LEGGE 15 settembre 1997 n. 305
+---
+tipo: DECRETO-LEGGE
+numero: 305
+data: 1997-09-15
+titolo: "Disposizioni urgenti in tema di impegni finanziari dell'A.I.M.A."
+urn: urn:nir:stato:decreto.legge:1997-09-15;305
+codice_redazionale: 097G0349
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 15 settembre 1997 n. 305
-======================================
+DECRETO DECADUTO; I SUOI EFFETTI
+ SONO STATI FATTI SALVI DALLA [L. 27 GENNAIO 1998, N. 5](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20dicembre%201997%20n.%20411%20recante%20misure%20urgenti%20per%20gli%20accertamenti%20in%20materia%20di%20produzione%20lattiera.md)
 
-Disposizioni urgenti in tema di impegni finanziari dell'A.I.M.A.
-----------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 17-9-1997.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI
+ SONO STATI FATTI SALVI DALLA [L. 27 GENNAIO 1998, N. 5](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20dicembre%201997%20n.%20411%20recante%20misure%20urgenti%20per%20gli%20accertamenti%20in%20materia%20di%20produzione%20lattiera.md)
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO; I SUOI EFFETTI  
-SONO STATI FATTI SALVI DALLA [L. 27 GENNAIO 1998, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-01-27;5)
-  
+DECRETO DECADUTO; I SUOI EFFETTI PERALTRO
+ SONO STATI FATTI SALVI DALLA [L. 27 GENNAIO 1998, N. 5](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20dicembre%201997%20n.%20411%20recante%20misure%20urgenti%20per%20gli%20accertamenti%20in%20materia%20di%20produzione%20lattiera.md)
 
-Art. 2
-------
+## Art. 4.
 
- DECRETO DECADUTO; I SUOI EFFETTI  
-SONO STATI FATTI SALVI DALLA [L. 27 GENNAIO 1998, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-01-27;5)
-  
+DECRETO DECADUTO; I SUOI EFFETTI
+ SONO STATI FATTI SALVI DALLA [L. 27 GENNAIO 1998, N. 5](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20dicembre%201997%20n.%20411%20recante%20misure%20urgenti%20per%20gli%20accertamenti%20in%20materia%20di%20produzione%20lattiera.md)
 
-Art. 3
-------
+## Art. 5.
 
- DECRETO DECADUTO; I SUOI EFFETTI PERALTRO  
-SONO STATI FATTI SALVI DALLA [L. 27 GENNAIO 1998, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-01-27;5)
-  
+DECRETO DECADUTO; I SUOI EFFETTI
+ SONO STATI FATTI SALVI DALLA [L. 27 GENNAIO 1998, N. 5](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20dicembre%201997%20n.%20411%20recante%20misure%20urgenti%20per%20gli%20accertamenti%20in%20materia%20di%20produzione%20lattiera.md)
 
-Art. 4
-------
+## Art. 6.
 
- DECRETO DECADUTO; I SUOI EFFETTI  
-SONO STATI FATTI SALVI DALLA [L. 27 GENNAIO 1998, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-01-27;5)
-  
-
-Art. 5
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI  
-SONO STATI FATTI SALVI DALLA [L. 27 GENNAIO 1998, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-01-27;5)
-  
-
-Art. 6
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI  
-SONO STATI FATTI SALVI DALLA [L. 27 GENNAIO 1998, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-01-27;5)
-  
+DECRETO DECADUTO; I SUOI EFFETTI
+ SONO STATI FATTI SALVI DALLA [L. 27 GENNAIO 1998, N. 5](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20dicembre%201997%20n.%20411%20recante%20misure%20urgenti%20per%20gli%20accertamenti%20in%20materia%20di%20produzione%20lattiera.md)

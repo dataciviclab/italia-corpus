@@ -1,67 +1,49 @@
-DECRETO-LEGGE 29 agosto 1984 n. 519
+---
+tipo: DECRETO-LEGGE
+numero: 519
+data: 1984-08-29
+titolo: "Misure urgenti a sostegno e ad incremento dei livelli occupazionali."
+urn: urn:nir:stato:decreto.legge:1984-08-29;519
+codice_redazionale: 084U0519
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 29 agosto 1984 n. 519
-===================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 19 DICEMBRE 1984 N. 863](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20ottobre%201984%20n.%20726%20recante%20misure%20urgenti%20a%20sostegno%20e%20ad%20incremento%20dei%20livelli%20occupazionali.md)
 
-Misure urgenti a sostegno e ad incremento dei livelli occupazionali.
---------------------------------------------------------------------
+## Art. 2.
 
-Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 19 DICEMBRE 1984 N. 863](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20ottobre%201984%20n.%20726%20recante%20misure%20urgenti%20a%20sostegno%20e%20ad%20incremento%20dei%20livelli%20occupazionali.md)
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 19 DICEMBRE 1984 N. 863](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-19;863)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 19 DICEMBRE 1984 N. 863](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20ottobre%201984%20n.%20726%20recante%20misure%20urgenti%20a%20sostegno%20e%20ad%20incremento%20dei%20livelli%20occupazionali.md)
 
-Art. 2
-------
+## Art. 4.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 19 DICEMBRE 1984 N. 863](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-19;863)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 19 DICEMBRE 1984 N. 863](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20ottobre%201984%20n.%20726%20recante%20misure%20urgenti%20a%20sostegno%20e%20ad%20incremento%20dei%20livelli%20occupazionali.md)
 
-Art. 3
-------
+## Art. 5.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 19 DICEMBRE 1984 N. 863](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-19;863)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 19 DICEMBRE 1984 N. 863](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20ottobre%201984%20n.%20726%20recante%20misure%20urgenti%20a%20sostegno%20e%20ad%20incremento%20dei%20livelli%20occupazionali.md)
 
-Art. 4
-------
+## Art. 6.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 19 DICEMBRE 1984 N. 863](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-19;863)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 19 DICEMBRE 1984 N. 863](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20ottobre%201984%20n.%20726%20recante%20misure%20urgenti%20a%20sostegno%20e%20ad%20incremento%20dei%20livelli%20occupazionali.md)
 
-Art. 5
-------
+## Art. 7.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 19 DICEMBRE 1984 N. 863](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-19;863)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 19 DICEMBRE 1984 N. 863](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20ottobre%201984%20n.%20726%20recante%20misure%20urgenti%20a%20sostegno%20e%20ad%20incremento%20dei%20livelli%20occupazionali.md)
 
-Art. 6
-------
+## Art. 8.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 19 DICEMBRE 1984 N. 863](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-19;863)
-  
-
-Art. 7
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 19 DICEMBRE 1984 N. 863](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-19;863)
-  
-
-Art. 8
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 19 DICEMBRE 1984 N. 863](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-19;863)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 19 DICEMBRE 1984 N. 863](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20ottobre%201984%20n.%20726%20recante%20misure%20urgenti%20a%20sostegno%20e%20ad%20incremento%20dei%20livelli%20occupazionali.md)

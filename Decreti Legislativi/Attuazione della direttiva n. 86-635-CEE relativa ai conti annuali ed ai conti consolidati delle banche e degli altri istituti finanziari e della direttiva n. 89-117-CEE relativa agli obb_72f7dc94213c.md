@@ -1,610 +1,574 @@
-DECRETO LEGISLATIVO 27 gennaio 1992 n. 87
+---
+tipo: DECRETO LEGISLATIVO
+numero: 87
+data: 1992-01-27
+titolo: "Attuazione della direttiva n. 86/635/CEE relativa ai conti annuali ed ai conti consolidati delle banche e degli altri istituti finanziari, e della direttiva n. 89/117/CEE relativa agli obblighi in materia di pubblicita' dei documenti contabili delle succursali, stabilite in uno Stato membro, di enti creditizi ed istituti finanziari con sede sociale fuori di tale Stato membro."
+urn: urn:nir:stato:decreto.legislativo:1992-01-27;87
+codice_redazionale: 092G0133
+vigente: true
+---
 
+## DISPOSIZIONI COMUNI
 
-DECRETO LEGISLATIVO 27 gennaio 1992 n. 87
-=========================================
+CAPO I
 
-Attuazione della direttiva n. 86/635/CEE relativa ai conti annuali ed ai conti consolidati delle banche e degli altri istituti finanziari, e della direttiva n. 89/117/CEE relativa agli obblighi in materia di pubblicita' dei documenti contabili delle succursali, stabilite in uno Stato membro, di enti creditizi ed istituti finanziari con sede sociale fuori di tale Stato membro.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del decreto: 29-2-1992
-
-CAPO I CAPO I DISPOSIZIONI COMUNI
----------------------------------
-
-### Art. 1
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
-
------------
-
-AGGIORNAMENTO (13)
-
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
-
-### Art. 2
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
 
 -----------
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
 
-### Art. 2-bis
+### Art. 2.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
-
------------
-
-AGGIORNAMENTO (13)
-
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
-
-### Art. 3
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
 
 -----------
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
 
-### Art. 4
+### Art. 2-bis.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
-
------------
-
-AGGIORNAMENTO (13)
-
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
-
-### Art. 5
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
 
 -----------
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
 
-CAPO II CAPO II BILANCIO DELL'IMPRESA Sezione I DISPOSIZIONI GENERALI
----------------------------------------------------------------------
+### Art. 3.
 
-### Art. 6
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
 
 -----------
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
 
-### Art. 7
+### Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
-
------------
-
-AGGIORNAMENTO (13)
-
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
-
-CAPO III Sezione II DISPOSIZIONI RELATIVE ALLO STATO PATRIMONIALE
------------------------------------------------------------------
-
-### Art. 8
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
 
 -----------
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
 
-### Art. 9
+### Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
-
------------
-
-AGGIORNAMENTO (13)
-
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
-
-### Art. 10
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
 
 -----------
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
 
-### Art. 11
+## BILANCIO DELL'IMPRESA Sezione I DISPOSIZIONI GENERALI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
+CAPO II
 
-((13))
+### Art. 6.
 
------------
-
-AGGIORNAMENTO (13)
-
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
-
-### Art. 12
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
 
 -----------
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
 
-CAPO IV Sezione III DISPOSIZIONI RELATIVE AL CONTO ECONOMICO
-------------------------------------------------------------
+### Art. 7.
 
-### Art. 13
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
 
 -----------
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
 
-### Art. 14
+## DISPOSIZIONI RELATIVE ALLO STATO PATRIMONIALE
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
+Sezione II
 
-((13))
+### Art. 8.
 
------------
-
-AGGIORNAMENTO (13)
-
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
-
-CAPO V Sezione IV CRITERI DI VALUTAZIONE
-----------------------------------------
-
-### Art. 15
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
 
 -----------
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
 
-### Art. 16
+### Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
-
------------
-
-AGGIORNAMENTO (13)
-
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
-
-### Art. 17
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
 
 -----------
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
 
-### Art. 18
+### Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
-
------------
-
-AGGIORNAMENTO (13)
-
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
-
-### Art. 19
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
 
 -----------
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
 
-### Art. 20
+### Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
-
------------
-
-AGGIORNAMENTO (13)
-
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
-
-### Art. 21
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
 
 -----------
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
 
-CAPO VI Sezione V DISPOSIZIONI RELATIVE ALLA NOTA INTEGRATIVA
--------------------------------------------------------------
+### Art. 12.
 
-### Art. 22
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
 
 -----------
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
 
-### Art. 23
+## DISPOSIZIONI RELATIVE AL CONTO ECONOMICO
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
+Sezione III
 
-((13))
+### Art. 13.
 
------------
-
-AGGIORNAMENTO (13)
-
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
-
-CAPO VII CAPO III BILANCIO CONSOLIDATO Sezione I AMBITO DI APPLICAZIONE
------------------------------------------------------------------------
-
-### Art. 24
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
 
 -----------
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
 
-### Art. 25
+### Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
-
------------
-
-AGGIORNAMENTO (13)
-
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
-
-### Art. 26
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
 
 -----------
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
 
-### Art. 27
+## CRITERI DI VALUTAZIONE
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
+Sezione IV
 
-((13))
+### Art. 15.
 
------------
-
-AGGIORNAMENTO (13)
-
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
-
-### Art. 28
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
 
 -----------
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
 
-### Art. 29
+### Art. 16.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
-
------------
-
-AGGIORNAMENTO (13)
-
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
-
-CAPO VIII Sezione II CRITERI DI REDAZIONE
------------------------------------------
-
-### Art. 30
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
 
 -----------
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
 
-### Art. 31
+### Art. 17.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
-
------------
-
-AGGIORNAMENTO (13)
-
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
-
-### Art. 32
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
 
 -----------
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
 
-### Art. 33
+### Art. 18.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
-
------------
-
-AGGIORNAMENTO (13)
-
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
-
-### Art. 34
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
 
 -----------
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
 
-### Art. 35
+### Art. 19.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
-
------------
-
-AGGIORNAMENTO (13)
-
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
-
-### Art. 36
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
 
 -----------
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
 
-### Art. 37
+### Art. 20.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
-
------------
-
-AGGIORNAMENTO (13)
-
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
-
-CAPO IX Sezione III CRITERI DI VALUTAZIONE
-------------------------------------------
-
-### Art. 38
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
 
 -----------
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
 
-### Art. 39
+### Art. 21.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
-
------------
-
-AGGIORNAMENTO (13)
-
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
-
-CAPO X Sezione IV DISPOSIZIONI RELATIVE ALLA NOTA INTEGRATIVA
--------------------------------------------------------------
-
-### Art. 40
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
 
 -----------
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
 
-CAPO XI ((CAPO IV)) DOCUMENTI CONTABILI DELLE SUCCURSALI DI ENTI CREDITIZI E FINANZIARI DI ALTRI PAESI
-------------------------------------------------------------------------------------------------------
+## DISPOSIZIONI RELATIVE ALLA NOTA INTEGRATIVA
 
-### Art. 41
+Sezione V
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
+### Art. 22.
 
-((13))
-
------------
-
-AGGIORNAMENTO (13)
-
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
-
-CAPO XII CAPO V DISPOSIZIONI TRANSITORIE E FINALI
--------------------------------------------------
-
-### Art. 42
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
 
 -----------
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
 
-### Art. 43
+### Art. 23.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
-
------------
-
-AGGIORNAMENTO (13)
-
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
-
-### Art. 44
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
 
 -----------
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
 
-### Art. 45
+## BILANCIO CONSOLIDATO Sezione I AMBITO DI APPLICAZIONE
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
+CAPO III
 
-((13))
+### Art. 24.
 
------------
-
-AGGIORNAMENTO (13)
-
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
-
-### Art. 46
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136)))
-
-((13))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
 
 -----------
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 agosto 2015, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com1), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;141~art10-com4-lete), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87), del [decreto legislativo 28 febbraio 2005, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;87~art5), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+
+### Art. 25.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
+
+-----------
+
+AGGIORNAMENTO (13)
+
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+
+### Art. 26.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
+
+-----------
+
+AGGIORNAMENTO (13)
+
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+
+### Art. 27.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
+
+-----------
+
+AGGIORNAMENTO (13)
+
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+
+### Art. 28.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
+
+-----------
+
+AGGIORNAMENTO (13)
+
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+
+### Art. 29.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
+
+-----------
+
+AGGIORNAMENTO (13)
+
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+
+## CRITERI DI REDAZIONE
+
+Sezione II
+
+### Art. 30.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
+
+-----------
+
+AGGIORNAMENTO (13)
+
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+
+### Art. 31.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
+
+-----------
+
+AGGIORNAMENTO (13)
+
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+
+### Art. 32.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
+
+-----------
+
+AGGIORNAMENTO (13)
+
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+
+### Art. 33.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
+
+-----------
+
+AGGIORNAMENTO (13)
+
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+
+### Art. 34.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
+
+-----------
+
+AGGIORNAMENTO (13)
+
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+
+### Art. 35.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
+
+-----------
+
+AGGIORNAMENTO (13)
+
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+
+### Art. 36.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
+
+-----------
+
+AGGIORNAMENTO (13)
+
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+
+### Art. 37.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
+
+-----------
+
+AGGIORNAMENTO (13)
+
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+
+## CRITERI DI VALUTAZIONE
+
+Sezione III
+
+### Art. 38.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
+
+-----------
+
+AGGIORNAMENTO (13)
+
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+
+### Art. 39.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
+
+-----------
+
+AGGIORNAMENTO (13)
+
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+
+## DISPOSIZIONI RELATIVE ALLA NOTA INTEGRATIVA
+
+Sezione IV
+
+### Art. 40.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
+
+-----------
+
+AGGIORNAMENTO (13)
+
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+
+## DOCUMENTI CONTABILI DELLE SUCCURSALI DI ENTI CREDITIZI E FINANZIARI DI ALTRI PAESI
+
+((CAPO IV))
+
+### Art. 41.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
+
+-----------
+
+AGGIORNAMENTO (13)
+
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+
+## DISPOSIZIONI TRANSITORIE E FINALI
+
+CAPO V
+
+### Art. 42.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
+
+-----------
+
+AGGIORNAMENTO (13)
+
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+
+### Art. 43.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
+
+-----------
+
+AGGIORNAMENTO (13)
+
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+
+### Art. 44.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
+
+-----------
+
+AGGIORNAMENTO (13)
+
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+
+### Art. 45.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
+
+-----------
+
+AGGIORNAMENTO (13)
+
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".
+
+### Art. 46.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 136))
+                                ((13))
+
+-----------
+
+AGGIORNAMENTO (13)
+
+Il [D.Lgs. 18 agosto 2015, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;136) ha disposto (con l'art. 48, comma 2) che "Nei confronti dei soggetti che possono continuare a operare ai sensi dell'[articolo 10, comma 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), o dell'[articolo 10, comma 4, lettera e), del decreto legislativo 13 agosto 2010, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-48-CE%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20nonche%20modifiche%20del%20titolo%20VI%20del%20testo%20unico%20bancario%20decreto%20legislativo%20n.%20385%20del%201993%20in%20merito_dcbc80ba21fa.md), e degli intermediari non IFRS, ai fini del bilancio dell'impresa e del bilancio consolidato relativi all'esercizio chiuso o in corso al 31 dicembre 2015, continuano ad applicarsi le pertinenti disposizioni del [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), del [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), e degli atti emanati nell'esercizio dei poteri di cui all'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, vigenti alla data di entrata in vigore del presente decreto".

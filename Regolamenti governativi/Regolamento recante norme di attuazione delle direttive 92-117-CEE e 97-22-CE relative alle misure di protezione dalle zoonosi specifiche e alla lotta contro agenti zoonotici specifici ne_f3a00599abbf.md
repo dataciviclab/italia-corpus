@@ -1,89 +1,53 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 novembre 1998 n. 497
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 497
+data: 1998-11-30
+titolo: "Regolamento recante norme di attuazione delle direttive 92/117/CEE e 97/22/CE relative alle misure di protezione dalle zoonosi specifiche e alla lotta contro agenti zoonotici specifici negli animali e nei prodotti di origine animale."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1998-11-30;497
+codice_redazionale: 099G0039
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 novembre 1998 n. 497
-===============================================================
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 4 APRILE 2006, N. 191 ))
 
-Regolamento recante norme di attuazione delle direttive 92/117/CEE e 97/22/CE relative alle misure di protezione dalle zoonosi specifiche e alla lotta contro agenti zoonotici specifici negli animali e nei prodotti di origine animale.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 9/2/1999
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 APRILE 2006, N. 191 ))
 
-Art. 1
-------
+## Art. 3.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 APRILE 2006, N. 191](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-04;191) ))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 APRILE 2006, N. 191 ))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 APRILE 2006, N. 191](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-04;191) ))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 APRILE 2006, N. 191 ))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 APRILE 2006, N. 191](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-04;191) ))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 APRILE 2006, N. 191 ))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 APRILE 2006, N. 191](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-04;191) ))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 APRILE 2006, N. 191 ))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 APRILE 2006, N. 191](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-04;191) ))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 APRILE 2006, N. 191 ))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 APRILE 2006, N. 191](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-04;191) ))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 APRILE 2006, N. 191 ))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 APRILE 2006, N. 191](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-04;191) ))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 APRILE 2006, N. 191 ))
 
-Art. 8
-------
+## Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 APRILE 2006, N. 191](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-04;191) ))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 APRILE 2006, N. 191 ))
 
-Art. 9
-------
+## Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 APRILE 2006, N. 191](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-04;191) ))
-
-Art. 10
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 APRILE 2006, N. 191](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-04;191) ))
-
-Art. 11
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 APRILE 2006, N. 191](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-04;191) ))
-
-Allegato I
-
- ALLEGATO I   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 APRILE 2006, N. 191](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-04;191) ))
-
-Allegato II
-
- ALLEGATO II   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 APRILE 2006, N. 191](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-04;191) ))
-
-Allegato III
-
- ALLEGATO III   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 APRILE 2006, N. 191](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-04;191) ))
-
-Allegato IV
-
- ALLEGATO IV   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 APRILE 2006, N. 191](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-04;191) ))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 APRILE 2006, N. 191 ))

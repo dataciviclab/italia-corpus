@@ -1,35 +1,29 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 aprile 2006 n. 214
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 214
+data: 2006-04-12
+titolo: "Regolamento recante semplificazione delle procedure di prevenzione di incendi relative ai depositi di g.p.l. in serbatoi fissi di capacita' complessiva non superiore a 5 metri cubi."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2006-04-12;214
+codice_redazionale: 006G0233
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 aprile 2006 n. 214
-=============================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 1 AGOSTO 2011, N. 151))
 
-Regolamento recante semplificazione delle procedure di prevenzione di incendi relative ai depositi di g.p.l. in serbatoi fissi di capacita' complessiva non superiore a 5 metri cubi.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 1/7/2006
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 1 AGOSTO 2011, N. 151))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 1 AGOSTO 2011, N. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2011-08-01;151)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 1 AGOSTO 2011, N. 151))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 1 AGOSTO 2011, N. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2011-08-01;151)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 1 AGOSTO 2011, N. 151))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 1 AGOSTO 2011, N. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2011-08-01;151)))
-
-Art. 4
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 1 AGOSTO 2011, N. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2011-08-01;151)))
-
-Art. 5
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 1 AGOSTO 2011, N. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2011-08-01;151)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 1 AGOSTO 2011, N. 151))

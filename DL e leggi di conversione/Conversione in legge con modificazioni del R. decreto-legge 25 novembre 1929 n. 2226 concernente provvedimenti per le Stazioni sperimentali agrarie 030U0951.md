@@ -1,16 +1,14 @@
-LEGGE 05 giugno 1930 n. 951
+---
+tipo: LEGGE
+numero: 951
+data: 1930-06-05
+titolo: "Conversione in legge, con modificazioni, del R. decreto-legge 25 novembre 1929, n. 2226, concernente provvedimenti per le Stazioni sperimentali agrarie, (030U0951)"
+urn: urn:nir:stato:legge:1930-06-05;951
+codice_redazionale: 030U0951
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 05 giugno 1930 n. 951
-===========================
-
-Conversione in legge, con modificazioni, del R. decreto-legge 25 novembre 1929, n. 2226, concernente provvedimenti per le Stazioni sperimentali agrarie, (030U0951)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/07/1930
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO   
-CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO 
+ CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))

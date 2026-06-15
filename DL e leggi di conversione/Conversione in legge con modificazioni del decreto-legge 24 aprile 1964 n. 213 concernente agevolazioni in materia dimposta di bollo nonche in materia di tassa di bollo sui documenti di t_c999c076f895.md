@@ -1,13 +1,13 @@
-LEGGE 24 giugno 1964 n. 421
+---
+tipo: LEGGE
+numero: 421
+data: 1964-06-24
+titolo: "Conversione in legge, con modificazioni, del decreto-legge 24 aprile 1964, n. 213, concernente agevolazioni in materia d'imposta di bollo nonche' in materia di tassa di bollo sui documenti di trasporto per taluni atti relativi al commercio internazionale."
+urn: urn:nir:stato:legge:1964-06-24;421
+codice_redazionale: 064U0421
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 24 giugno 1964 n. 421
-===========================
-
-Conversione in legge, con modificazioni, del decreto-legge 24 aprile 1964, n. 213, concernente agevolazioni in materia d'imposta di bollo nonche' in materia di tassa di bollo sui documenti di trasporto per taluni atti relativi al commercio internazionale.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

@@ -1,21 +1,21 @@
-DECRETO-LEGGE 28 febbraio 1981 n. 35
+---
+tipo: DECRETO-LEGGE
+numero: 36
+data: 1980-02-29
+titolo: "Differimento del termine di cui all'art. 89 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616, in materia di opere idrauliche relative ai bacini idrografici interregionali."
+urn: urn:nir:stato:decreto.legge:1980-02-29;36
+codice_redazionale: 080U0036
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 28 febbraio 1981 n. 35
-====================================
+DECRETO DECADUTO
 
-Differimento del termine di cui all'art. 89 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616, in materia di opere idrauliche relative ai bacini idrografici interregionali.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Decreto-Legge convertito dalla [L. 29 aprile 1981, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-29;162) (in G.U. 30/04/1981, n.118).
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO  
-
-Art. 2
-------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

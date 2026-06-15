@@ -1,24 +1,19 @@
-DECRETO-LEGGE 02 gennaio 1996 n. 3
+---
+tipo: DECRETO-LEGGE
+numero: 3
+data: 1996-01-02
+titolo: "Disposizioni urgenti in materia di lavoro portuale."
+urn: urn:nir:stato:decreto.legge:1996-01-02;3
+codice_redazionale: 096G0001
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 02 gennaio 1996 n. 3
-==================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 23 DICEMBRE 1996, N. 647](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20ottobre%201996%20n.%20535%20recante%20disposizioni%20urgenti%20per%20i%20settori%20portuale%20marittimo%20cantieristico%20ed%20armatoriale%20nonche%20intervent_2731948f00b7.md)
 
-Disposizioni urgenti in materia di lavoro portuale.
----------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 4-1-1996.Decreto-Legge decaduto per mancata conversione.
-
-Art. 1
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 23 DICEMBRE 1996, N. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
-  
-
-Art. 2
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 23 DICEMBRE 1996, N. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 23 DICEMBRE 1996, N. 647](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20ottobre%201996%20n.%20535%20recante%20disposizioni%20urgenti%20per%20i%20settori%20portuale%20marittimo%20cantieristico%20ed%20armatoriale%20nonche%20intervent_2731948f00b7.md)

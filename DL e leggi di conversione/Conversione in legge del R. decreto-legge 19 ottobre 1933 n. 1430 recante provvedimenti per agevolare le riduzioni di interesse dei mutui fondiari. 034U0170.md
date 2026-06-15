@@ -1,16 +1,14 @@
-LEGGE 18 gennaio 1934 n. 170
+---
+tipo: LEGGE
+numero: 170
+data: 1934-01-18
+titolo: "Conversione in legge del R. decreto-legge 19 ottobre 1933, n. 1430, recante provvedimenti per agevolare le riduzioni di interesse dei mutui fondiari. (034U0170)"
+urn: urn:nir:stato:legge:1934-01-18;170
+codice_redazionale: 034U0170
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 18 gennaio 1934 n. 170
-============================
-
-Conversione in legge del R. decreto-legge 19 ottobre 1933, n. 1430, recante provvedimenti per agevolare le riduzioni di interesse dei mutui fondiari. (034U0170)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/02/1934
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO   
-CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO 
+ CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))

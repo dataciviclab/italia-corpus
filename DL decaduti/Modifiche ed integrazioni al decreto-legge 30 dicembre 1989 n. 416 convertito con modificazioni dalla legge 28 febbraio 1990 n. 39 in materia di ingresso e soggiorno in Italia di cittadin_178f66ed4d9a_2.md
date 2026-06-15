@@ -1,52 +1,37 @@
-DECRETO-LEGGE 30 aprile 1992 n. 272
+---
+tipo: DECRETO-LEGGE
+numero: 272
+data: 1992-04-30
+titolo: "Modifiche ed integrazioni al decreto-legge 30 dicembre 1989, n. 416, convertito, con modificazioni, dalla legge 28 febbraio 1990, n. 39, in materia di ingresso e soggiorno in Italia di cittadini extracomunitari."
+urn: urn:nir:stato:decreto.legge:1992-04-30;272
+codice_redazionale: 092G0314
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 30 aprile 1992 n. 272
-===================================
+DECRETO DECADUTO
 
-Modifiche ed integrazioni al decreto-legge 30 dicembre 1989, n. 416, convertito, con modificazioni, dalla legge 28 febbraio 1990, n. 39, in materia di ingresso e soggiorno in Italia di cittadini extracomunitari.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 3/5/1992.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 5
-------
+## Art. 7.
 
-  
-DECRETO DECADUTO   
-
-Art. 6
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 7
-------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

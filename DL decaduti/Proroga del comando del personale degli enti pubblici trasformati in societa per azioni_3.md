@@ -1,26 +1,19 @@
-DECRETO-LEGGE 12 novembre 1993 n. 451
+---
+tipo: DECRETO-LEGGE
+numero: 451
+data: 1993-11-12
+titolo: "Proroga del comando del personale degli enti pubblici trasformati in societa' per azioni."
+urn: urn:nir:stato:decreto.legge:1993-11-12;451
+codice_redazionale: 093G0533
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 12 novembre 1993 n. 451
-=====================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 17 FEBBRAIO 1994, N. 150](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20decreto-legge%2011%20gennaio%201994%20n.%2017%20recante%20proroga%20del%20comando%20del%20personale%20degli%20enti%20pubblici%20trasformati%20in%20societa%20per%20azioni.md)
 
-Proroga del comando del personale degli enti pubblici trasformati in societa' per azioni.
------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 13/11/1993.Decreto-Legge decaduto per mancata conversione.
-
-Art. 1
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 17 FEBBRAIO 1994, N. 150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-17;150)
-  
-
-Art. 2
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 17 FEBBRAIO 1994, N. 150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-17;150)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 17 FEBBRAIO 1994, N. 150](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20decreto-legge%2011%20gennaio%201994%20n.%2017%20recante%20proroga%20del%20comando%20del%20personale%20degli%20enti%20pubblici%20trasformati%20in%20societa%20per%20azioni.md)

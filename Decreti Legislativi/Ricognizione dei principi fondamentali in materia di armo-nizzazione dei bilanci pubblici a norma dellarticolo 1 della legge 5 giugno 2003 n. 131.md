@@ -1,147 +1,149 @@
-DECRETO LEGISLATIVO 12 aprile 2006 n. 170
+---
+tipo: DECRETO LEGISLATIVO
+numero: 170
+data: 2006-04-12
+titolo: "Ricognizione dei principi fondamentali in materia di armo-nizzazione dei bilanci pubblici, a norma dell'articolo 1 della legge 5 giugno 2003, n. 131."
+urn: urn:nir:stato:decreto.legislativo:2006-04-12;170
+codice_redazionale: 006G0189
+vigente: true
+---
 
+## Principi per l'armonizzazione dei bilanci pubblici
 
-DECRETO LEGISLATIVO 12 aprile 2006 n. 170
-=========================================
+Capo I
 
-Ricognizione dei principi fondamentali in materia di armo-nizzazione dei bilanci pubblici, a norma dell'articolo 1 della legge 5 giugno 2003, n. 131.
------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del provvedimento: 27/5/2006
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126))
 
-CAPO I Capo I Principi per l'armonizzazione dei bilanci pubblici
-----------------------------------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 23 GIUGNO 2011, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118), COME MODIFICATO DAL [D.LGS. 10 AGOSTO 2014, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-08-10;126)))
+## Principi per l'armonizzazione dei bilanci regionali
 
-### Art. 2
+Capo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 23 GIUGNO 2011, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118), COME MODIFICATO DAL [D.LGS. 10 AGOSTO 2014, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-08-10;126)))
+### Art. 3.
 
-CAPO II Capo II Principi per l'armonizzazione dei bilanci regionali
--------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126))
 
-### Art. 3
+### Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 23 GIUGNO 2011, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118), COME MODIFICATO DAL [D.LGS. 10 AGOSTO 2014, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-08-10;126)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126))
 
-### Art. 4
+### Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 23 GIUGNO 2011, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118), COME MODIFICATO DAL [D.LGS. 10 AGOSTO 2014, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-08-10;126)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126))
 
-### Art. 5
+### Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 23 GIUGNO 2011, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118), COME MODIFICATO DAL [D.LGS. 10 AGOSTO 2014, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-08-10;126)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126))
 
-### Art. 6
+### Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 23 GIUGNO 2011, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118), COME MODIFICATO DAL [D.LGS. 10 AGOSTO 2014, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-08-10;126)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126))
 
-### Art. 7
+### Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 23 GIUGNO 2011, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118), COME MODIFICATO DAL [D.LGS. 10 AGOSTO 2014, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-08-10;126)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126))
 
-### Art. 8
+### Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 23 GIUGNO 2011, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118), COME MODIFICATO DAL [D.LGS. 10 AGOSTO 2014, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-08-10;126)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126))
 
-### Art. 9
+### Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 23 GIUGNO 2011, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118), COME MODIFICATO DAL [D.LGS. 10 AGOSTO 2014, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-08-10;126)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126))
 
-### Art. 10
+### Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 23 GIUGNO 2011, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118), COME MODIFICATO DAL [D.LGS. 10 AGOSTO 2014, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-08-10;126)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126))
 
-### Art. 11
+### Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 23 GIUGNO 2011, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118), COME MODIFICATO DAL [D.LGS. 10 AGOSTO 2014, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-08-10;126)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126))
 
-### Art. 12
+## Principi per l'armonizzazione dei bilanci degli enti locali
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 23 GIUGNO 2011, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118), COME MODIFICATO DAL [D.LGS. 10 AGOSTO 2014, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-08-10;126)))
+Capo III
 
-CAPO III Capo III Principi per l'armonizzazione dei bilanci degli enti locali
------------------------------------------------------------------------------
+### Art. 13.
 
-### Art. 13
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 23 GIUGNO 2011, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118), COME MODIFICATO DAL [D.LGS. 10 AGOSTO 2014, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-08-10;126)))
+### Art. 14.
 
-### Art. 14
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 23 GIUGNO 2011, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118), COME MODIFICATO DAL [D.LGS. 10 AGOSTO 2014, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-08-10;126)))
+### Art. 15.
 
-### Art. 15
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 23 GIUGNO 2011, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118), COME MODIFICATO DAL [D.LGS. 10 AGOSTO 2014, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-08-10;126)))
+### Art. 16.
 
-### Art. 16
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 23 GIUGNO 2011, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118), COME MODIFICATO DAL [D.LGS. 10 AGOSTO 2014, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-08-10;126)))
+### Art. 17.
 
-### Art. 17
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 23 GIUGNO 2011, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118), COME MODIFICATO DAL [D.LGS. 10 AGOSTO 2014, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-08-10;126)))
+### Art. 18.
 
-### Art. 18
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 23 GIUGNO 2011, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118), COME MODIFICATO DAL [D.LGS. 10 AGOSTO 2014, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-08-10;126)))
+### Art. 19.
 
-### Art. 19
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 23 GIUGNO 2011, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118), COME MODIFICATO DAL [D.LGS. 10 AGOSTO 2014, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-08-10;126)))
+### Art. 20.
 
-### Art. 20
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 23 GIUGNO 2011, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118), COME MODIFICATO DAL [D.LGS. 10 AGOSTO 2014, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-08-10;126)))
+### Art. 21.
 
-### Art. 21
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 23 GIUGNO 2011, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118), COME MODIFICATO DAL [D.LGS. 10 AGOSTO 2014, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-08-10;126)))
+### Art. 22.
 
-### Art. 22
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 23 GIUGNO 2011, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118), COME MODIFICATO DAL [D.LGS. 10 AGOSTO 2014, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-08-10;126)))
+### Art. 23.
 
-### Art. 23
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 23 GIUGNO 2011, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118), COME MODIFICATO DAL [D.LGS. 10 AGOSTO 2014, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-08-10;126)))
+### Art. 24.
 
-### Art. 24
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 23 GIUGNO 2011, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118), COME MODIFICATO DAL [D.LGS. 10 AGOSTO 2014, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-08-10;126)))
+### Art. 25.
 
-### Art. 25
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 23 GIUGNO 2011, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118), COME MODIFICATO DAL [D.LGS. 10 AGOSTO 2014, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-08-10;126)))
+### Art. 26.
 
-### Art. 26
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 23 GIUGNO 2011, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118), COME MODIFICATO DAL [D.LGS. 10 AGOSTO 2014, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-08-10;126)))
+### Art. 27.
 
-### Art. 27
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 23 GIUGNO 2011, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118), COME MODIFICATO DAL [D.LGS. 10 AGOSTO 2014, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-08-10;126)))
+### Art. 28.
 
-### Art. 28
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 23 GIUGNO 2011, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118), COME MODIFICATO DAL [D.LGS. 10 AGOSTO 2014, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-08-10;126)))
+### Art. 29.
 
-### Art. 29
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 23 GIUGNO 2011, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118), COME MODIFICATO DAL [D.LGS. 10 AGOSTO 2014, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-08-10;126)))
+### Art. 30.
 
-### Art. 30
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 23 GIUGNO 2011, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118), COME MODIFICATO DAL [D.LGS. 10 AGOSTO 2014, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-08-10;126)))
+### Art. 31.
 
-### Art. 31
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 23 GIUGNO 2011, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118), COME MODIFICATO DAL [D.LGS. 10 AGOSTO 2014, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-08-10;126)))
+### Art. 32.
 
-### Art. 32
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 23 GIUGNO 2011, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118), COME MODIFICATO DAL [D.LGS. 10 AGOSTO 2014, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-08-10;126)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126))

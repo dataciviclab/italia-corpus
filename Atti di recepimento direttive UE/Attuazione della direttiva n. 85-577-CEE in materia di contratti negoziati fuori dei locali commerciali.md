@@ -1,75 +1,61 @@
-DECRETO LEGISLATIVO 15 gennaio 1992 n. 50
+---
+tipo: DECRETO LEGISLATIVO
+numero: 50
+data: 1992-01-15
+titolo: "Attuazione della direttiva n. 85/577/CEE in materia di contratti negoziati fuori dei locali commerciali."
+urn: urn:nir:stato:decreto.legislativo:1992-01-15;50
+codice_redazionale: 092G0056
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 15 gennaio 1992 n. 50
-=========================================
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206 ))
 
-Attuazione della direttiva n. 85/577/CEE in materia di contratti negoziati fuori dei locali commerciali.
---------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 18-2-1992
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206 ))
 
-Art. 1
-------
+## Art. 3.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206 ))
 
-Art. 2
-------
+## Art. 4.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206 ))
 
-Art. 3
-------
+## Art. 5.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206 ))
 
-Art. 4
-------
+## Art. 6.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206 ))
 
-Art. 5
-------
+## Art. 7.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206 ))
 
-Art. 6
-------
+## Art. 8.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206 ))
 
-Art. 7
-------
+## Art. 9.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206 ))
 
-Art. 8
-------
+## Art. 10.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206 ))
 
-Art. 9
-------
+## Art. 11.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206 ))
 
-Art. 10
--------
+## Art. 12.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206 ))
 
-Art. 11
--------
+## Art. 13.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) ))
-
-Art. 12
--------
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) ))
-
-Art. 13
--------
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206 ))

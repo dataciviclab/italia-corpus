@@ -1,65 +1,53 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 novembre 1994 n. 681
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 681
+data: 1994-11-07
+titolo: "Regolamento recante norme sul sistema delle spese derivanti dal funzionamento del Comitato centrale per l'Albo degli autotrasportatori di cose per conto di terzi."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1994-11-07;681
+codice_redazionale: 094G0726
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 novembre 1994 n. 681
-===============================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 9 LUGLIO 2010, N. 134))
 
-Regolamento recante norme sul sistema delle spese derivanti dal funzionamento del Comitato centrale per l'Albo degli autotrasportatori di cose per conto di terzi.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 29-12-1994
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 9 LUGLIO 2010, N. 134))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 9 LUGLIO 2010, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-07-09;134)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 9 LUGLIO 2010, N. 134))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 9 LUGLIO 2010, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-07-09;134)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 9 LUGLIO 2010, N. 134))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 9 LUGLIO 2010, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-07-09;134)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 9 LUGLIO 2010, N. 134))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 9 LUGLIO 2010, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-07-09;134)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 9 LUGLIO 2010, N. 134))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 9 LUGLIO 2010, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-07-09;134)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 9 LUGLIO 2010, N. 134))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 9 LUGLIO 2010, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-07-09;134)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 9 LUGLIO 2010, N. 134))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 9 LUGLIO 2010, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-07-09;134)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 9 LUGLIO 2010, N. 134))
 
-Art. 8
-------
+## Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 9 LUGLIO 2010, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-07-09;134)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 9 LUGLIO 2010, N. 134))
 
-Art. 9
-------
+## Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 9 LUGLIO 2010, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-07-09;134)))
-
-Art. 10
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 9 LUGLIO 2010, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-07-09;134)))
-
-Art. 11
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 9 LUGLIO 2010, N. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-07-09;134)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 9 LUGLIO 2010, N. 134))

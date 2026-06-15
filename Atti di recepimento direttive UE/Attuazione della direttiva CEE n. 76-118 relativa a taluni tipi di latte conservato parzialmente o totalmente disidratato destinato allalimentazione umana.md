@@ -1,80 +1,61 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1982 n. 514
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 514
+data: 1982-05-10
+titolo: "Attuazione della direttiva (CEE) n. 76/118 relativa a taluni tipi di latte conservato parzialmente o totalmente disidratato destinato all'alimentazione umana."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-05-10;514
+codice_redazionale: 082U0514
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1982 n. 514
-=============================================================
+((IL D.LGS. 8 OTTOBRE 2011, N. 175 HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
 
-Attuazione della direttiva (CEE) n. 76/118 relativa a taluni tipi di latte conservato parzialmente o totalmente disidratato destinato all'alimentazione umana.
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((IL D.LGS. 8 OTTOBRE 2011, N. 175 HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
 
-((IL [D.LGS. 8 OTTOBRE 2011, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-10-08;175) HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
+## Art. 3.
 
-Art. 2
-------
+((IL D.LGS. 8 OTTOBRE 2011, N. 175 HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
 
-((IL [D.LGS. 8 OTTOBRE 2011, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-10-08;175) HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
+## Art. 4.
 
-Art. 3
-------
+((IL D.LGS. 8 OTTOBRE 2011, N. 175 HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
 
-((IL [D.LGS. 8 OTTOBRE 2011, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-10-08;175) HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
+## Art. 5.
 
-Art. 4
-------
+((IL D.LGS. 8 OTTOBRE 2011, N. 175 HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
 
-((IL [D.LGS. 8 OTTOBRE 2011, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-10-08;175) HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
+## Art. 6.
 
-Art. 5
-------
+((IL D.LGS. 8 OTTOBRE 2011, N. 175 HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
 
-((IL [D.LGS. 8 OTTOBRE 2011, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-10-08;175) HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
+## Art. 7.
 
-Art. 6
-------
+((IL D.LGS. 8 OTTOBRE 2011, N. 175 HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
 
-((IL [D.LGS. 8 OTTOBRE 2011, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-10-08;175) HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
+## Art. 8.
 
-Art. 7
-------
+((IL D.LGS. 8 OTTOBRE 2011, N. 175 HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
 
-((IL [D.LGS. 8 OTTOBRE 2011, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-10-08;175) HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
+## Art. 9.
 
-Art. 8
-------
+((IL D.LGS. 8 OTTOBRE 2011, N. 175 HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
 
-((IL [D.LGS. 8 OTTOBRE 2011, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-10-08;175) HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
+## Art. 10.
 
-Art. 9
-------
+((IL D.LGS. 8 OTTOBRE 2011, N. 175 HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
 
-((IL [D.LGS. 8 OTTOBRE 2011, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-10-08;175) HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
+## Art. 11.
 
-Art. 10
--------
+((IL D.LGS. 8 OTTOBRE 2011, N. 175 HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
 
-((IL [D.LGS. 8 OTTOBRE 2011, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-10-08;175) HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
+## Art. 12.
 
-Art. 11
--------
+((IL D.LGS. 8 OTTOBRE 2011, N. 175 HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
 
-((IL [D.LGS. 8 OTTOBRE 2011, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-10-08;175) HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
+## Art. 13.
 
-Art. 12
--------
-
-((IL [D.LGS. 8 OTTOBRE 2011, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-10-08;175) HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
-
-Art. 13
--------
-
-((IL [D.LGS. 8 OTTOBRE 2011, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-10-08;175) HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
-
-Allegato
-
- ALLEGATO   
-  
-
-((IL [D.LGS. 8 OTTOBRE 2011, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-10-08;175) HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))
+((IL D.LGS. 8 OTTOBRE 2011, N. 175 HA CONFERMATO L'ABROGAZIONE DELL'INTERO PROVVEDIMENTO))

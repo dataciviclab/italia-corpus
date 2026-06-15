@@ -1,309 +1,253 @@
-DECRETO LEGISLATIVO 19 dicembre 1991 n. 406
+---
+tipo: DECRETO LEGISLATIVO
+numero: 406
+data: 1991-12-19
+titolo: "Attuazione della direttiva n. 89/440/CEE in materie di procedure di aggiudicazione degli appalti di lavori pubblici."
+urn: urn:nir:stato:decreto.legislativo:1991-12-19;406
+codice_redazionale: 091G0455
+vigente: true
+---
 
+## Disposizioni Generali
 
-DECRETO LEGISLATIVO 19 dicembre 1991 n. 406
-===========================================
+TITOLO I
 
-Attuazione della direttiva n. 89/440/CEE in materie di procedure di aggiudicazione degli appalti di lavori pubblici.
---------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-CAPO I TITOLO I Disposizioni Generali
--------------------------------------
+(( IL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO 
+ L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 1
+### Art. 2.
 
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+(( IL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO 
+ L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 2
+### Art. 3.
 
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+(( IL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO 
+ L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 3
+### Art. 4.
 
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+(( IL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO 
+ L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 4
+### Art. 5.
 
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+(( IL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO 
+ L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 5
+### Art. 6.
 
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+(( IL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO 
+ L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 6
+### Art. 7.
 
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+(( IL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO 
+ L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 7
+### Art. 8.
 
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+(( IL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO 
+ L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 8
+### Art. 9.
 
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+(( IL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO 
+ L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 9
+## Norme comuni nel settore tecnico
 
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+TITOLO II
 
-CAPO II TITOLO II Norme comuni nel settore tecnico
---------------------------------------------------
+### Art. 10.
 
-### Art. 10
+(( IL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO 
+ L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+### Art. 11.
 
-### Art. 11
+(( IL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO 
+ L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+## Norme comuni di pubblicita'
 
-CAPO III TITOLO III Norme comuni di pubblicita'
------------------------------------------------
+TITOLO III
 
-### Art. 12
+### Art. 12.
 
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+(( IL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO 
+ L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 13
+### Art. 13.
 
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+(( IL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO 
+ L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 14
+### Art. 14.
 
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+(( IL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO 
+ L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 15
+### Art. 15.
 
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+(( IL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO 
+ L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 16
+### Art. 16.
 
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+(( IL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO 
+ L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 17
+### Art. 17.
 
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+(( IL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO 
+ L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-CAPO IV TITOLO IV Criteri di selezione
---------------------------------------
+## Criteri di selezione
 
-### Art. 18
+TITOLO IV
 
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+### Art. 18.
 
-### Art. 19
+(( IL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO 
+ L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+### Art. 19.
 
-### Art. 20
+(( IL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO 
+ L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+### Art. 20.
 
-### Art. 21
+(( IL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO 
+ L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+### Art. 21.
 
-CAPO V TITOLO V Norme comuni di partecipazione
-----------------------------------------------
+(( IL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO 
+ L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 22
+## Norme comuni di partecipazione
 
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+TITOLO V
 
-### Art. 23
+### Art. 22.
 
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+(( IL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO 
+ L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 24
+### Art. 23.
 
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+(( IL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO 
+ L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 25
+### Art. 24.
 
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+(( IL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO 
+ L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 26
+### Art. 25.
 
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+(( IL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO 
+ L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 27
+### Art. 26.
 
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+(( IL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO 
+ L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 28
+### Art. 27.
 
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+(( IL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO 
+ L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-CAPO VI TITOLO VI Aggiudicazione
---------------------------------
+### Art. 28.
 
-### Art. 29
+(( IL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO 
+ L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+## Aggiudicazione
 
-### Art. 30
+TITOLO VI
 
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+### Art. 29.
 
-### Art. 31
+(( IL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO 
+ L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+### Art. 30.
 
-### Art. 32
+(( IL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO 
+ L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+### Art. 31.
 
-CAPO VII TITOLO VII Disposizioni finali
----------------------------------------
+(( IL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO 
+ L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 33
+### Art. 32.
 
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+(( IL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO 
+ L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 34
+## Disposizioni finali
 
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+TITOLO VII
 
-### Art. 35
+### Art. 33.
 
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+(( IL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO 
+ L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-### Art. 36
+### Art. 34.
 
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+(( IL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO 
+ L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-Allegato A
+### Art. 35.
 
- ALLEGATO A   
+(( IL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO 
+ L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
 
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+### Art. 36.
 
-Allegato B
-
- ALLEGATO B   
-
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
-
-Allegato C
-
- ALLEGATO C   
-
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
-
-Allegato D
-
- ALLEGATO D   
-
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
-
-Allegato E
-
- ALLEGATO E   
-
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
-
-Allegato F
-
- ALLEGATO F   
-
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
-
-Allegato G
-
- ALLEGATO G   
-
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
-
-Allegato H
-
- ALLEGATO H   
-
-(( IL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) HA CONFERMATO   
-L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))
+(( IL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO 
+ L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO ))

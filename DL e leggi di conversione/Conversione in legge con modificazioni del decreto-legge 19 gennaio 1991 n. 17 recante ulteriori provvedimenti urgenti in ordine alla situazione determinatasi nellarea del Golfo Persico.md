@@ -1,21 +1,13 @@
-LEGGE 20 marzo 1991 n. 88
+---
+tipo: LEGGE
+numero: 88
+data: 1991-03-20
+titolo: "Conversione in legge, con modificazioni, del decreto-legge 19 gennaio 1991, n. 17, recante ulteriori provvedimenti urgenti in ordine alla situazione determinatasi nell'area del Golfo Persico."
+urn: urn:nir:stato:legge:1991-03-20;88
+codice_redazionale: 091G0130
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 20 marzo 1991 n. 88
-=========================
-
-Conversione in legge, con modificazioni, del decreto-legge 19 gennaio 1991, n. 17, recante ulteriori provvedimenti urgenti in ordine alla situazione determinatasi nell'area del Golfo Persico.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore della legge: 21/3/1991
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
-
-Allegato
-
- Allegato   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))

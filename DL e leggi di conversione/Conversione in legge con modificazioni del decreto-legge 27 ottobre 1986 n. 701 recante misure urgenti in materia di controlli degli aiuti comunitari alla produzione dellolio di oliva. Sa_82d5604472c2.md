@@ -1,109 +1,122 @@
-LEGGE 23 dicembre 1986 n. 898
-
-
-LEGGE 23 dicembre 1986 n. 898
-=============================
-
-Conversione in legge, con modificazioni, del decreto-legge 27 ottobre 1986, n. 701, recante misure urgenti in materia di controlli degli aiuti comunitari alla produzione dell'olio di oliva. Sanzioni amministrative e penali in materia di aiuti comunitari al settore agricolo.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: LEGGE
+numero: 898
+data: 1986-12-23
+titolo: "Conversione in legge, con modificazioni, del decreto-legge 27 ottobre 1986, n. 701, recante misure urgenti in materia di controlli degli aiuti comunitari alla produzione dell'olio di oliva. Sanzioni amministrative e penali in materia di aiuti comunitari al settore agricolo."
+urn: urn:nir:stato:legge:1986-12-23;898
+codice_redazionale: 086U0898
+vigente: true
+---
 
 La Camera dei deputati ed il Senato della Repubblica hanno
-----------------------------------------------------------
 
 approvato;
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-PROMULGA
---------
+PROMULGA la seguente legge:
 
-la seguente legge:
+## Art. 1.
 
-Art. 1
-------
+1.
 
-1. Il [decreto-legge 27 ottobre 1986, n. 701](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-10-27;701), recante misure urgenti in materia di controlli degli aiuti comunitari alla produzione dell'olio di oliva, e' convertito in legge con le seguenti modificazioni:   
-L'articolo 1 e' sostituito dal seguente:   
-"Art. 1. - 1. L'Agenzia per i controlli e le azioni comunitarie nel quadro del regime di aiuto alla produzione dell'olio di oliva (AGE-Control S.p.a.) svolge i compiti e assolve le pubbliche funzioni di controllo ad essa assegnati dai [regolamenti CEE n. 2262 del Consiglio in data 17 luglio 1984](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31984R2262) e [n. 27](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31984R0027) della commissione in data 4 gennaio 1985.   
-2. La struttura dell'Agenzia, la sua organizzazione e la sua gestione, comprese la predisposizione e l'approvazione del bilancio e del programma di attivita', la selezione e la formazione del personale e la vigilanza del Ministero dell'agricoltura e delle foreste e della commissione delle Comunita' europee, sono disciplinate dai predetti regolamenti CEE; per gli aspetti da questi non regolati si applicano le norme dell'ordinamento giuridico italiano sulle societa' per azioni.   
-3. Nell'assolvimento dei compiti e delle funzioni assegnati dai predetti regolamenti CEE e, in particolare, nell'esercizio dei controlli e nella esecuzione degli accessi previsti dall'articolo 2, n. 4, del citato [regolamento CEE n. 27 del 1985](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31985R0027), gli ispettori dell'AGE-Control esercitano i poteri propri della loro qualita' di pubblici ufficiali e sono soggetti ai relativi doveri. Si applicano le disposizioni degli articoli 4, quarto comma, 5 e 7 del [decreto del Presidente della Repubblica 8 giugno 1982, n. 447](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-06-08;447).   
-4. Dal 1° gennaio 1987 la partecipazione all'AGE-Control e' riservata a soggetti pubblici.   
-5. Il rapporto di lavoro dei dipendenti dell'AGE-Control e' disciplinato dal consiglio di amministrazione con riferimento ai criteri fissati dai contratti collettivi nazionali di lavoro vigenti nel settore industriale, tenuto conto delle specifiche esigenze funzionali ed organizzative dell'AGE-Control. Al personale in servizio presso l'AGE-Control e' fatto divieto di assumere altro impiego o incarico e di esercitare attivita' professionali, commerciali o industriali".   
-L'articolo 2 e' sostituito dal seguente:   
-"Art. 2. - 1. Gli ispettori dell'AGE-Control riferiscono sui risultati dei loro controlli al Ministero dell'agricoltura e delle foreste, alle regioni e province autonome interessate, all'Azienda di Stato per gli interventi nel mercato agricolo - AIMA e, all'occorrenza, alla commissione delle Comunita' europee per i provvedimenti, le determinazioni e le valutazioni di rispettiva competenza.   
-2. Qualora riscontrino la violazione di norme penali, gli ispettori dell'AGE-Control presentano rapporto all'autorita' giudiziaria ai sensi dell'[articolo 2 del codice di procedura penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447~art2), informandone il proprio presidente.   
-3. Salva restando l'autonomia di azione della polizia tributaria, dalla data di entrata in vigore del presente decreto si applica altresi' la disposizione di cui al [terzo comma dell'articolo 4 del decreto del Presidente della Repubblica 8 giugno 1982, n. 447](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-06-08;447~art4-com3)".
+Il [decreto-legge 27 ottobre 1986, n. 701](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-10-27;701), recante misure urgenti in materia di controlli degli aiuti comunitari alla produzione dell'olio di oliva, e' convertito in legge con le seguenti modificazioni: 
+ L'articolo 1 e' sostituito dal seguente: 
+ "Art. 1. - 1. L'Agenzia per i controlli e le azioni comunitarie nel quadro del regime di aiuto alla produzione dell'olio di oliva (AGE-Control S.p.a.) svolge i compiti e assolve le pubbliche funzioni di controllo ad essa assegnati dai regolamenti CEE n. 2262 del Consiglio in data 17 luglio 1984 e n. 27 della commissione in data 4 gennaio 1985. 
+ 2. La struttura dell'Agenzia, la sua organizzazione e la sua gestione, comprese la predisposizione e l'approvazione del bilancio e del programma di attivita', la selezione e la formazione del personale e la vigilanza del Ministero dell'agricoltura e delle foreste e della commissione delle Comunita' europee, sono disciplinate dai predetti regolamenti CEE; per gli aspetti da questi non regolati si applicano le norme dell'ordinamento giuridico italiano sulle societa' per azioni. 
+ 3. Nell'assolvimento dei compiti e delle funzioni assegnati dai predetti regolamenti CEE e, in particolare, nell'esercizio dei controlli e nella esecuzione degli accessi previsti dall'articolo 2, n. 4, del citato regolamento CEE n. 27 del 1985, gli ispettori dell'AGE-Control esercitano i poteri propri della loro qualita' di pubblici ufficiali e sono soggetti ai relativi doveri. Si applicano le disposizioni degli articoli 4, quarto comma, 5 e 7 del [decreto del Presidente della Repubblica 8 giugno 1982, n. 447](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2077-435%20relativa%20ai%20controlli%20da%20parte%20degli%20Stati%20membri%20delle%20operazioni%20che%20rientrano%20nel%20sistema%20di%20finanziamento%20del%20Fondo%20europeo%20agricolo%20di%20orient_b8cb17c08278.md). 
+ 4. Dal 1° gennaio 1987 la partecipazione all'AGE-Control e' riservata a soggetti pubblici. 
+ 5. Il rapporto di lavoro dei dipendenti dell'AGE-Control e' disciplinato dal consiglio di amministrazione con riferimento ai criteri fissati dai contratti collettivi nazionali di lavoro vigenti nel settore industriale, tenuto conto delle specifiche esigenze funzionali ed organizzative dell'AGE-Control. Al personale in servizio presso l'AGE-Control e' fatto divieto di assumere altro impiego o incarico e di esercitare attivita' professionali, commerciali o industriali". 
+ L'articolo 2 e' sostituito dal seguente: 
+ "Art. 2. - 1. Gli ispettori dell'AGE-Control riferiscono sui risultati dei loro controlli al Ministero dell'agricoltura e delle foreste, alle regioni e province autonome interessate, all'Azienda di Stato per gli interventi nel mercato agricolo - AIMA e, all'occorrenza, alla commissione delle Comunita' europee per i provvedimenti, le determinazioni e le valutazioni di rispettiva competenza. 
+ 2. Qualora riscontrino la violazione di norme penali, gli ispettori dell'AGE-Control presentano rapporto all'autorita' giudiziaria ai sensi dell'[articolo 2 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_2), informandone il proprio presidente. 
+ 3. Salva restando l'autonomia di azione della polizia tributaria, dalla data di entrata in vigore del presente decreto si applica altresi' la disposizione di cui al [terzo comma dell'articolo 4 del decreto del Presidente della Repubblica 8 giugno 1982, n. 447](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2077-435%20relativa%20ai%20controlli%20da%20parte%20degli%20Stati%20membri%20delle%20operazioni%20che%20rientrano%20nel%20sistema%20di%20finanziamento%20del%20Fondo%20europeo%20agricolo%20di%20orient_b8cb17c08278.md)".
 
-2. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
+2.
 
-AVVERTENZE:  
-  
-Il [decreto-legge 27 ottobre 1986, n. 701](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-10-27;701), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 251 del 28 ottobre 1986.  
-Il testo del decreto-legge coordinato con la legge di conversione sara' pubblicato nella Gazzetta Ufficiale del giorno 9 gennaio 1987.
+La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
-Art. 2
-------
+AVVERTENZE:
 
-1. Ove il fatto non configuri il piu' grave reato previsto dall'[articolo 640-bis del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art640bis), chiunque, mediante l'esposizione di dati o notizie falsi, consegue indebitamente, per se' o per altri, aiuti, premi, indennita', restituzioni, contributi o altre erogazioni a carico totale o parziale del Fondo europeo agricolo di garanzia e del Fondo europeo agricolo per lo sviluppo rurale e' punito con la reclusione da sei mesi a tre anni. La pena e' della reclusione da sei mesi a quattro anni quando il danno o il profitto sono superiori a euro 100.000. Quando la somma indebitamente percepita e' pari o inferiore a 5.000 euro si applica soltanto la sanzione amministrativa di cui agli articoli seguenti.
+ Il [decreto-legge 27 ottobre 1986, n. 701](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-10-27;701), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 251 del 28 ottobre 1986.
+ Il testo del decreto-legge coordinato con la legge di conversione sara' pubblicato nella Gazzetta Ufficiale del giorno 9 gennaio 1987.
 
-2. Agli effetti della disposizione del precedente comma 1 e di quella del comma 1 dell'articolo 3, alle erogazioni a carico del Fondo europeo agricolo di garanzia e del Fondo europeo agricolo per lo sviluppo rurale sono assimilate le quote nazionali previste dalla normativa comunitaria a complemento delle somme a carico di detti Fondi, nonche' le erogazioni poste a totale carico della finanza nazionale sulla base della normativa comunitaria.
+## Art. 2.
 
-3. Con la sentenza il giudice determina altresi' l'importo indebitamente percepito e condanna il colpevole alla restituzione di esso all'amministrazione che ha disposto la erogazione di cui al comma 1. (1)
+1.
 
-((3-bis. Nei casi di condanna o di applicazione della pena su richiesta a norma dell'[articolo 444 del codice di procedura penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447~art444) per il delitto di cui al comma 1, si osservano le disposizioni contenute negli [articoli 240-bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art240bis) e [322-ter del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art322ter), in quanto compatibili))
+Ove il fatto non configuri il piu' grave reato previsto dall'[articolo 640-bis del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), chiunque, mediante l'esposizione di dati o notizie falsi, consegue indebitamente, per se' o per altri, aiuti, premi, indennita', restituzioni, contributi o altre erogazioni a carico totale o parziale del Fondo europeo agricolo di garanzia e del Fondo europeo agricolo per lo sviluppo rurale e' punito con la reclusione da sei mesi a tre anni. La pena e' della reclusione da sei mesi a quattro anni quando il danno o il profitto sono superiori a euro 100.000. Quando la somma indebitamente percepita e' pari o inferiore a 5.000 euro si applica soltanto la sanzione amministrativa di cui agli articoli seguenti.
+
+2.
+
+Agli effetti della disposizione del precedente comma 1 e di quella del comma 1 dell'articolo 3, alle erogazioni a carico del Fondo europeo agricolo di garanzia e del Fondo europeo agricolo per lo sviluppo rurale sono assimilate le quote nazionali previste dalla normativa comunitaria a complemento delle somme a carico di detti Fondi, nonche' le erogazioni poste a totale carico della finanza nazionale sulla base della normativa comunitaria.
+
+3.
+
+Con la sentenza il giudice determina altresi' l'importo indebitamente percepito e condanna il colpevole alla restituzione di esso all'amministrazione che ha disposto la erogazione di cui al comma 1. (1)
+
+((3-bis. Nei casi di condanna o di applicazione della pena su richiesta a norma dell'[articolo 444 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_444) per il delitto di cui al comma 1, si osservano le disposizioni contenute negli [articoli 240-bis](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [322-ter del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), in quanto compatibili))
 
 ---------------
 
 AGGIORNAMENTO (1)
 
-Il [D.L. 7 settembre 1987, n. 370](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-07;370) (in G.U. 10/09/1987, n. 211) convertito in legge con modificazioni con la [L. 4 novembre 1987, n. 460](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-04;460) (in G.U. 09/11/1987, n. 262) ha disposto che la disposizione di cui all'articolo 2, comma 1, secondo periodo, della presente legge e' da intendersi nel senso che la sanzione penale si applica solo quando concorrono congiuntamente le condizioni ivi previste, ossia che la somma indebitamente percepita risulti pari o superiore ad un decimo del beneficio legittimamente spettante e che essa sia comunque superiore a lire venti milioni.
+Il [D.L. 7 settembre 1987, n. 370](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-07;370) (in G.U. 10/09/1987, n. 211) convertito in legge con modificazioni con la [L. 4 novembre 1987, n. 460](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20settembre%201987%20n.%20370%20recante%20nuove%20norme%20in%20materia%20di%20produzione%20e%20commercializzazione%20dei%20prodotti%20vitivinicoli%20nonche%20sanzio_69d04f0feb47.md) (in G.U. 09/11/1987, n. 262) ha disposto che la disposizione di cui all'articolo 2, comma 1, secondo periodo, della presente legge e' da intendersi nel senso che la sanzione penale si applica solo quando concorrono congiuntamente le condizioni ivi previste, ossia che la somma indebitamente percepita risulti pari o superiore ad un decimo del beneficio legittimamente spettante e che essa sia comunque superiore a lire venti milioni.
 
-Art. 3
-------
+## Art. 3.
 
-1. .
+1.
 
-2. L'amministrazione competente determina le somme dovute ai sensi del comma 1 ed emette ingiunzione di pagamento della somma stessa.  
+.
+
+2.
+
+L'amministrazione competente determina le somme dovute ai sensi del comma 1 ed emette ingiunzione di pagamento della somma stessa.
 Qualora l'istanza sia stata inoltrata per il tramite di un'associazione o unione di produttori, l'ingiunzione viene notificata alla stessa associazione o unione, la quale e' tenuta in solido con il produttore al versamento delle somme dovute ove ne risulti la corresponsabilita'.
 
-3. L'irrogazione della sanzione amministrativa non resta sospesa nel caso che per il fatto sia promosso procedimento penale. Fermo il disposto del comma 5, qualora sia proposta opposizione all'ingiunzione dinanzi al pretore, questi sospende il giudizio di opposizione e puo' sospendere l'esecutivita' dell'ingiunzione a norma dell'ultimo comma dell'[articolo 22 della legge 24 novembre 1981, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689~art22).
+3.
 
-4. Il versamento deve avvenire entro il termine di novanta giorni dalla ricezione dell'ingiunzione.
+L'irrogazione della sanzione amministrativa non resta sospesa nel caso che per il fatto sia promosso procedimento penale. Fermo il disposto del comma 5, qualora sia proposta opposizione all'ingiunzione dinanzi al pretore, questi sospende il giudizio di opposizione e puo' sospendere l'esecutivita' dell'ingiunzione a norma dell'ultimo comma dell'[articolo 22 della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_22).
 
-5. Fino all'avvenuto pagamento resta sospesa la corresponsione di qualsiasi aiuto, premio, indennita', restituzione, contributo o altra erogazione richiesti dal debitore e da percepire dalla stessa amministrazione che ha emesso l'ingiunzione, per qualunque importo e anche per periodi temporali successivi a quello cui si riferisce l'infrazione.
+4.
 
-6. Entro novanta giorni dalla notificazione della sentenza esecutiva, ancorche' non irrevocabile o non passata in giudicato, l'amministrazione competente e tenuta a rimborsare le somme che giudizialmente risultino da essa recuperate in eccedenza.
+Il versamento deve avvenire entro il termine di novanta giorni dalla ricezione dell'ingiunzione.
 
-7. Le somme indebitamente erogate, che vengono recuperate ai sensi del presente articolo in favore della Comunita' economica europea o di amministrazioni statali diverse dall'Azienda di Stato per gli interventi nel mercato agricolo (AIMA) sono versate all'entrata del bilancio dello Stato, per essere iscritte su apposito capitolo dello stato di previsione del Ministero del tesoro, ai fini della successiva restituzione ai predetti soggetti per la parte di effettiva pertinenza. Le somme dovute ad amministrazioni statali sono iscritte nei rispettivi stati di previsione. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio. Le somme recuperate dagli organismi di intervento in favore della Comunita' economica europea sono alla stessa rimborsate dagli organismi predetti, anche mediante conguaglio, ove autorizzato dalla Comunita' economica europea nell'ambito del sistema FEOGA-Sezione garanzia.
+5.
 
-Art. 4
-------
+Fino all'avvenuto pagamento resta sospesa la corresponsione di qualsiasi aiuto, premio, indennita', restituzione, contributo o altra erogazione richiesti dal debitore e da percepire dalla stessa amministrazione che ha emesso l'ingiunzione, per qualunque importo e anche per periodi temporali successivi a quello cui si riferisce l'infrazione.
 
-1. All'accertamento delle violazioni amministrative previste nei precedenti articoli 2 e 3 e all'irrogazione delle relative sanzioni si applica il capo I della [legge 24 novembre 1981, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689), con le seguenti modificazioni:
+6.
 
-a) se non e' avvenuta la contestazione immediata, gli estremi della violazione devono essere notificati, in deroga all'[articolo 14 della legge 24 novembre 1981, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689~art14), agli interessati residenti nel territorio dello Stato entro il termine di centottanta giorni e a quelli residenti all'estero entro il termine di trecentosessanta giorni dall'accertamento;
+Entro novanta giorni dalla notificazione della sentenza esecutiva, ancorche' non irrevocabile o non passata in giudicato, l'amministrazione competente e tenuta a rimborsare le somme che giudizialmente risultino da essa recuperate in eccedenza.
 
-b) e' escluso il pagamento in misura ridotta;
+7.
 
-c) l'ordinanza-ingiunzione e' emessa dal Ministro competente o che esercita la vigilanza sull'amministrazione competente ovvero da un funzionario da lui delegato;  
-nelle materie di competenza delle regioni e per le funzioni amministrative ad esse delegate l'ordinanza-ingiunzione e' emessa dal presidente della giunta regionale o da un funzionario da lui delegato;
+Le somme indebitamente erogate, che vengono recuperate ai sensi del presente articolo in favore della Comunita' economica europea o di amministrazioni statali diverse dall'Azienda di Stato per gli interventi nel mercato agricolo (AIMA) sono versate all'entrata del bilancio dello Stato, per essere iscritte su apposito capitolo dello stato di previsione del Ministero del tesoro, ai fini della successiva restituzione ai predetti soggetti per la parte di effettiva pertinenza. Le somme dovute ad amministrazioni statali sono iscritte nei rispettivi stati di previsione. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio. Le somme recuperate dagli organismi di intervento in favore della Comunita' economica europea sono alla stessa rimborsate dagli organismi predetti, anche mediante conguaglio, ove autorizzato dalla Comunita' economica europea nell'ambito del sistema FEOGA-Sezione garanzia.
 
-d) il rapporto previsto nell'[articolo 17 della legge 24 novembre 1981, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689~art17), deve essere presentato all'autorita' indicata nella precedente lettera c).
+## Art. 4.
 
-Art. 5
-------
+1.
 
-1. Sono abrogati l'[articolo 9 del decreto-legge 21 novembre 1967, n. 1051](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1967-11-21;1051~art9), convertito, con modificazioni, dalla [legge 18 gennaio 1968, n. 10, e il primo comma dell'articolo 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-18;10~art4-com1) della [legge 13 agosto 1979, n. 424](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-08-13;424).
+All'accertamento delle violazioni amministrative previste nei precedenti articoli 2 e 3 e all'irrogazione delle relative sanzioni si applica il capo I della [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689), con le seguenti modificazioni:
+                        a)
+                            se non e' avvenuta la contestazione immediata, gli estremi della violazione devono essere notificati, in deroga all'[articolo 14 della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_14), agli interessati residenti nel territorio dello Stato entro il termine di centottanta giorni e a quelli residenti all'estero entro il termine di trecentosessanta giorni dall'accertamento;
+                        b)
+                            e' escluso il pagamento in misura ridotta;
+                        c)
+                            l'ordinanza-ingiunzione e' emessa dal Ministro competente o che esercita la vigilanza sull'amministrazione competente ovvero da un funzionario da lui delegato;
+ nelle materie di competenza delle regioni e per le funzioni amministrative ad esse delegate l'ordinanza-ingiunzione e' emessa dal presidente della giunta regionale o da un funzionario da lui delegato;
+                        d)
+                            il rapporto previsto nell'[articolo 17 della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_17), deve essere presentato all'autorita' indicata nella precedente lettera c).
+
+## Art. 5.
+
+1.
+
+Sono abrogati l'[articolo 9 del decreto-legge 21 novembre 1967, n. 1051](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20lerogazione%20della%20integrazione%20di%20prezzo%20per%20lolio%20di%20oliva%20di%20produzione%201967-68.md), convertito, con modificazioni, dalla [legge 18 gennaio 1968, n. 10, e il primo comma dell'articolo 4](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20novembre%201967%20n.%201051%20recante%20norme%20per%20lerogazione%20dellintegrazione%20di%20prezzo%20per%20lolio%20di%20oliva%20di%20produzione%201967-68.md) della [legge 13 agosto 1979, n. 424](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-08-13;424).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data a Roma, addi' 23 dicembre 1986
+Data a Roma, addi' 23 dicembre 1986
 
-COSSIGA
-
-CRAXI, Presidente del Consiglio dei Ministri
-
-PANDOLFI, Ministro dell'agricoltura e delle foreste
-
-Visto, il Guardasigilli: ROGNONI
+COSSIGA CRAXI, Presidente del Consiglio dei Ministri PANDOLFI, Ministro dell'agricoltura e delle foreste Visto, il Guardasigilli: ROGNONI

@@ -1,16 +1,14 @@
-LEGGE 20 marzo 1940 n. 384
+---
+tipo: LEGGE
+numero: 384
+data: 1940-03-20
+titolo: "Conversione in legge del Regio decreto-legge 31 dicembre 1939-XVIII, n. 1953, concernente l'istituzione del Commissariato generale per la pesca. (040U0384)"
+urn: urn:nir:stato:legge:1940-03-20;384
+codice_redazionale: 040U0384
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 20 marzo 1940 n. 384
-==========================
-
-Conversione in legge del Regio decreto-legge 31 dicembre 1939-XVIII, n. 1953, concernente l'istituzione del Commissariato generale per la pesca. (040U0384)
------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/05/1940
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO  
-CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO
+ CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))

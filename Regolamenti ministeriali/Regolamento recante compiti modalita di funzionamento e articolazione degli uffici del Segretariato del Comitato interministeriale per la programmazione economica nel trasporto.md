@@ -1,26 +1,24 @@
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 21 febbraio 1992 n. 315
-
-
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 21 febbraio 1992 n. 315
-=========================================================================
-
-Regolamento recante compiti, modalita' di funzionamento e articolazione degli uffici del Segretariato del Comitato interministeriale per la programmazione economica nel trasporto.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 3/7/1992
+---
+tipo: DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
+numero: 315
+data: 1992-02-21
+titolo: "Regolamento recante compiti, modalita' di funzionamento e articolazione degli uffici del Segretariato del Comitato interministeriale per la programmazione economica nel trasporto."
+urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:1992-02-21;315
+codice_redazionale: 092G0356
+vigente: true
+---
 
 IL PRESIDENTE
--------------
 
 DEL CONSIGLIO DEI MINISTRI
 
-Vista la [legge 4 giugno 1991, n. 186](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-04;186), concernente l'istituzione del Comitato interministeriale per la programmazione economica nel trasporto (CIPET);
+Vista la [legge 4 giugno 1991, n. 186](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-04;186), concernente l'istituzione del Comitato interministeriale per la programmazione economica nel trasporto (CIPET);
 
-Visto l'art. 3 della citata [legge n. 186 del 1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;186), che istituisce, presso il Ministero dei trasporti, il Segretariato del CIPET e demanda al Presidente del Consiglio dei Ministri di determinare con proprio decreto, su conforme parere del CIPET, l'articolazione degli uffici del Segretariato;
+Visto l'art. 3 della citata [legge n. 186 del 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;186), che istituisce, presso il Ministero dei trasporti, il Segretariato del CIPET e demanda al Presidente del Consiglio dei Ministri di determinare con proprio decreto, su conforme parere del CIPET, l'articolazione degli uffici del Segretariato;
 
-Visto l'art. 4 della citata [legge n. 186 del 1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;186), che determina le funzioni del Segretariato del CIPET;
+Visto l'art. 4 della citata [legge n. 186 del 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;186), che determina le funzioni del Segretariato del CIPET;
 
-Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3);
+Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
 Visto il parere conforme espresso dal CIPET nella seduta del 2 agosto 1991;
 
@@ -30,94 +28,107 @@ Sulla proposta del Ministro dei trasporti;
 
 A D O T T A il seguente regolamento:
 
-Art. 1
-------
+## Art. 1.
 
-1. Il Segretariato del CIPET, istituito presso il Ministero dei trasporti, assiste il comitato nell'esercizio delle funzioni ad esso attribuite, svolgendo a tal fine tutti i compiti di istruttoria, preparazione, analisi, raccolta ed elaborazione dei dati e delle informazioni, studio e valutazione, formulazione di proposte.
+1.
 
-2. I compiti di cui al comma 1 sono svolti secondo le direttive del CIPET e in collaborazione con gli uffici della segreteria generale della programmazione per tutto cio' che concerne l'istruttoria, la formulazione e la valutazione delle attivita' di programmazione. Il Segretariato assicura, altresi', in relazione a singoli argomenti, il raccordo con i Ministeri interessati.
+Il Segretariato del CIPET, istituito presso il Ministero dei trasporti, assiste il comitato nell'esercizio delle funzioni ad esso attribuite, svolgendo a tal fine tutti i compiti di istruttoria, preparazione, analisi, raccolta ed elaborazione dei dati e delle informazioni, studio e valutazione, formulazione di proposte.
 
-3. Il CIPET adotta criteri di coordinamento per il Segretariato e il servizio di segreteria amministrativa assicurato, per le sedute del CIPET, dalla Direzione generale per l'attuazione della programmazione economica del Ministero del bilancio e della programmazione economica.
+2.
 
-AVVERTENZA:  
-Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui' trascritti.  
-Note alle premesse:  
-- Il testo dell'[art. 3, comma 5, della legge n. 186/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;186~art3-com5) (Istituzione del Comitato interministeriale per la programmazione economica nel trasporto - CIPET) e' il seguente: "L'articolazione degli uffici del Segretariato e' determinata, su conforme parere del CIPET, con decreto del Presidente del Consiglio dei Ministri pubblicato nella Gazzetta Ufficiale della Repubblica. A decorrere dalla data di pubblicazione di tale decreto cessano le funzioni della segreteria tecnica istituita presso il Ministero dei trasporti ai fini dell'approntamento del piano generale dei trasporti, ed e' abrogato l'[art. 3 della legge 15 giugno 1984, n. 245](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-06-15;245~art3)".  
-- Il testo dell'art. 4 della medesima [legge n. 186/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;186) e' il seguente:  
-"Art. 4. - 1. Il Segretariato del CIPET:  
-a) compie, in raccordo con gli uffici dei Ministeri interessati ai singoli argomenti, il cui eventuale parere e' tenuto a trasmettere al CIPET, l'istruttoria tecnica ed assiste il CIPET nell'esercizio delle funzioni ad esso attribuite;  
-b) raccoglie, analizza, elabora e conserva i dati e le informazioni tecnico-amministrative concernenti il piano generale dei trasporti;  
-c) in collaborazione con gli organi della programmazione economica generale, valuta i progetti previsti dal piano generale dei trasporti, secondo i criteri dell'analisi costi-benefici e della fattibilita' degli interventi.  
-2. Il Segretariato del CIPET, per l'espletamento delle sue funzioni, si avvale, qualora sia necessario, di societa' a prevalente partecipazione pubblica quale l'Istituto superiore dei trasporti - ISTRA S.p.a., nonche' di istituti universitari e di enti pubblici di ricerca specializzati nei diversi settori del trasporto".  
-- Il [comma 3 dell'art. 17 della legge n. 400/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.  
-Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare le denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
+I compiti di cui al comma 1 sono svolti secondo le direttive del CIPET e in collaborazione con gli uffici della segreteria generale della programmazione per tutto cio' che concerne l'istruttoria, la formulazione e la valutazione delle attivita' di programmazione. Il Segretariato assicura, altresi', in relazione a singoli argomenti, il raccordo con i Ministeri interessati.
 
-Art. 2
-------
+3.
 
-1. Il coordinatore, preposto al Segretariato, avvalendosi di una struttura di supporto, elabora, sulla base degli elementi raccolti ed istruiti dagli uffici, gli schemi concernenti le direttive, i pareri, le proposte, le delibere di valutazione e ogni altra determinazione di competenza del CIPET.
+Il CIPET adotta criteri di coordinamento per il Segretariato e il servizio di segreteria amministrativa assicurato, per le sedute del CIPET, dalla Direzione generale per l'attuazione della programmazione economica del Ministero del bilancio e della programmazione economica.
 
-Art. 3
-------
+AVVERTENZA:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui' trascritti.
+ Note alle premesse:
+ - Il testo dell'[art. 3, comma 5, della legge n. 186/1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;186#art_3-com5) (Istituzione del Comitato interministeriale per la programmazione economica nel trasporto - CIPET) e' il seguente: "L'articolazione degli uffici del Segretariato e' determinata, su conforme parere del CIPET, con decreto del Presidente del Consiglio dei Ministri pubblicato nella Gazzetta Ufficiale della Repubblica. A decorrere dalla data di pubblicazione di tale decreto cessano le funzioni della segreteria tecnica istituita presso il Ministero dei trasporti ai fini dell'approntamento del piano generale dei trasporti, ed e' abrogato l'[art. 3 della legge 15 giugno 1984, n. 245](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-06-15;245#art_3)".
+ - Il testo dell'art. 4 della medesima [legge n. 186/1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;186) e' il seguente:
+ "Art. 4. - 1. Il Segretariato del CIPET:
+ a) compie, in raccordo con gli uffici dei Ministeri interessati ai singoli argomenti, il cui eventuale parere e' tenuto a trasmettere al CIPET, l'istruttoria tecnica ed assiste il CIPET nell'esercizio delle funzioni ad esso attribuite;
+ b) raccoglie, analizza, elabora e conserva i dati e le informazioni tecnico-amministrative concernenti il piano generale dei trasporti;
+ c) in collaborazione con gli organi della programmazione economica generale, valuta i progetti previsti dal piano generale dei trasporti, secondo i criteri dell'analisi costi-benefici e della fattibilita' degli interventi.
+ 2. Il Segretariato del CIPET, per l'espletamento delle sue funzioni, si avvale, qualora sia necessario, di societa' a prevalente partecipazione pubblica quale l'Istituto superiore dei trasporti - ISTRA S.p.a., nonche' di istituti universitari e di enti pubblici di ricerca specializzati nei diversi settori del trasporto".
+ - Il [comma 3 dell'art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.
+ Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare le denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
 
-1. Il coordinatore sovrintende e coordina l'attivita' del personale addetto al Segretariato, compresi gli esperti e ne e' responsabile di fronte al CIPET. Cura i rapporti con le amministrazioni e gli enti pubblici e con i soggetti privati.
+## Art. 2.
 
-2. L'attivita' degli uffici del Segretariato e' organizzata in modo da assicurare la piena collaborazione tra i vari uffici e tra questi e gli esperti, al fine di conseguire una efficiente azione complessiva.
+1.
 
-3. Il coordinatore puo' istituire gruppi interni di lavoro, al fine di garantire il necessario coordinamento delle attivita' di cui all'art. 1.
+Il coordinatore, preposto al Segretariato, avvalendosi di una struttura di supporto, elabora, sulla base degli elementi raccolti ed istruiti dagli uffici, gli schemi concernenti le direttive, i pareri, le proposte, le delibere di valutazione e ogni altra determinazione di competenza del CIPET.
 
-Art. 4
-------
+## Art. 3.
 
-1. Il Segretariato si articola, oltre che nella struttura di supporto diretta al coordinatore, nei seguenti uffici:  
-1) affari generali, contratti, amministrazione del personale, gestione finanziaria;  
-2) studi, ricerche, istruttorie, verifiche, elaborazione dati, preparazione schemi di atti, delibere, determinazioni di competenza del CIPET, con esclusione di quanto previsto nel successivo punto;  
-3) esame ed elaborazione degli elementi necessari: per l'aggiornamento del piano generale dei trasporti; per l'adeguamento e il coordinamento, con detto piano generale, dei piani e programmi di amministrazioni ed enti pubblici e privati;  
-4) valutazione di conformita' dei piani e programmi generali, incidenti sul settore dei trasporti, agli obiettivi del piano generale dei trasporti; nonche' per i rapporti con gli enti suindicati.
+1.
 
-Art. 5
-------
+Il coordinatore sovrintende e coordina l'attivita' del personale addetto al Segretariato, compresi gli esperti e ne e' responsabile di fronte al CIPET. Cura i rapporti con le amministrazioni e gli enti pubblici e con i soggetti privati.
 
-1. Il coordinatore e' assistito da una segreteria per lo svolgimento degli affari correnti di sua competenza.
+2.
 
-Art. 6
-------
+L'attivita' degli uffici del Segretariato e' organizzata in modo da assicurare la piena collaborazione tra i vari uffici e tra questi e gli esperti, al fine di conseguire una efficiente azione complessiva.
 
-1. Alla struttura di supporto, agli uffici e alla segreteria di cui agli articoli precedenti e' addetto il seguente personale, nel numero complessivo di cinquanta unita':  
-Unita' -
+3.
 
-a) personale dirigenziale.............................. 10
+Il coordinatore puo' istituire gruppi interni di lavoro, al fine di garantire il necessario coordinamento delle attivita' di cui all'art. 1.
 
-b) personale qualifiche VII e superiore  
-o equiparate....................................... 10
+## Art. 4.
 
-c) personale qualifiche inferiori alla VII  
-o equiparate........................................ 15
+1.
 
-d) esperti............................................. 15
+Il Segretariato si articola, oltre che nella struttura di supporto diretta al coordinatore, nei seguenti uffici:
+ 1) affari generali, contratti, amministrazione del personale, gestione finanziaria;
+ 2) studi, ricerche, istruttorie, verifiche, elaborazione dati, preparazione schemi di atti, delibere, determinazioni di competenza del CIPET, con esclusione di quanto previsto nel successivo punto;
+ 3) esame ed elaborazione degli elementi necessari: per l'aggiornamento del piano generale dei trasporti; per l'adeguamento e il coordinamento, con detto piano generale, dei piani e programmi di amministrazioni ed enti pubblici e privati;
+ 4) valutazione di conformita' dei piani e programmi generali, incidenti sul settore dei trasporti, agli obiettivi del piano generale dei trasporti; nonche' per i rapporti con gli enti suindicati.
 
-Art. 7
-------
+## Art. 5.
 
-1. Possono essere assunti in qualita' di esperti, ai sensi dell'[art. 3, comma 4, della legge 4 giugno 1991, n. 186](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-04;186~art3-com4), persone con particolare competenza o comprovata qualificazione professionale in una o piu' discipline attinenti alle attivita' istituzionali del CIPET.
+1.
 
-Nota all'art. 7:  
-- Si trascrive il [comma 4 dell'art. 3 della legge n. 186/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;186~art3-com4), gia' citata: "4. - Su proposta del CIPET possono essere chiamati a svolgere funzioni dirigenziali nell'ambito del Segretariato, nel rispetto del limite numerico complessivo di personale indicato dal comma 3, dirigenti statali collocati fuori ruolo per un periodo massimo di cinque anni, con la procedura di cui all'art. 58 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-01-10;3), ovvero esperti assunti con contratto quinquennale di diritto privato".
+Il coordinatore e' assistito da una segreteria per lo svolgimento degli affari correnti di sua competenza.
 
-Art. 8
-------
+## Art. 6.
 
-1. L'assegnazione del personale e degli esperti alla struttura di supporto, ai diversi uffici e alla segreteria e' disposta dal coordinatore, secondo il criterio di una equilibrata distribuzione tenuto conto delle esigenze dei servizi.
+1.
 
-2. Il coordinatore provvede a conferire a dirigenti o ad esperti la preposizione agli uffici.
+Alla struttura di supporto, agli uffici e alla segreteria di cui agli articoli precedenti e' addetto il seguente personale, nel numero complessivo di cinquanta unita':
+ Unita' -
+                        a)
+                            personale dirigenziale.............................. 10
+                        b)
+                            personale qualifiche VII e superiore
+ o equiparate....................................... 10
+                        c)
+                            personale qualifiche inferiori alla VII
+ o equiparate........................................ 15
+                        d)
+                            esperti............................................. 15
+
+## Art. 7.
+
+1.
+
+Possono essere assunti in qualita' di esperti, ai sensi dell'[art. 3, comma 4, della legge 4 giugno 1991, n. 186](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-04;186#art_3-com4), persone con particolare competenza o comprovata qualificazione professionale in una o piu' discipline attinenti alle attivita' istituzionali del CIPET.
+
+Nota all'art. 7:
+ - Si trascrive il [comma 4 dell'art. 3 della legge n. 186/1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;186#art_3-com4), gia' citata: "4. - Su proposta del CIPET possono essere chiamati a svolgere funzioni dirigenziali nell'ambito del Segretariato, nel rispetto del limite numerico complessivo di personale indicato dal comma 3, dirigenti statali collocati fuori ruolo per un periodo massimo di cinque anni, con la procedura di cui all'art. 58 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), ovvero esperti assunti con contratto quinquennale di diritto privato".
+
+## Art. 8.
+
+1.
+
+L'assegnazione del personale e degli esperti alla struttura di supporto, ai diversi uffici e alla segreteria e' disposta dal coordinatore, secondo il criterio di una equilibrata distribuzione tenuto conto delle esigenze dei servizi.
+
+2.
+
+Il coordinatore provvede a conferire a dirigenti o ad esperti la preposizione agli uffici.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 21 febbraio 1992
+Roma, 21 febbraio 1992
 
-Il Presidente del Consiglio dei Ministri ANDREOTTI Il Ministro dei trasporti BERNINI
-
-Visto, il Guardasigilli: MARTELLI Registrato alla Corte dei conti il 28 aprile 1992
-
-Registro n. 5 Trasporti, foglio n. 137
+Il Presidente del Consiglio dei Ministri ANDREOTTI Il Ministro dei trasporti BERNINI Visto, il Guardasigilli: MARTELLI Registrato alla Corte dei conti il 28 aprile 1992 Registro n. 5 Trasporti, foglio n. 137

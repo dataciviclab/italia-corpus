@@ -1,45 +1,37 @@
-DECRETO-LEGGE 05 marzo 1988 n. 59
+---
+tipo: DECRETO-LEGGE
+numero: 59
+data: 1988-03-05
+titolo: "Interventi urgenti nel settore delle opere pubbliche."
+urn: urn:nir:stato:decreto.legge:1988-03-05;59
+codice_redazionale: 088G0112
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 05 marzo 1988 n. 59
-=================================
+DECRETO DECADUTO
 
-Interventi urgenti nel settore delle opere pubbliche.
------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 8/3/1988.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 3
-------
+## Art. 5.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 4
-------
+## Art. 6.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 5
-------
+## Art. 7.
 
- DECRETO DECADUTO  
-
-Art. 6
-------
-
- DECRETO DECADUTO  
-
-Art. 7
-------
-
- DECRETO DECADUTO  
+DECRETO DECADUTO

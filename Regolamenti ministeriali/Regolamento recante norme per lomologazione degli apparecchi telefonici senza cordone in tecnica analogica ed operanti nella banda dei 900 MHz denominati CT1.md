@@ -1,48 +1,46 @@
-DECRETO 04 dicembre 1997 n. 501
-
-
-DECRETO 04 dicembre 1997 n. 501
-===============================
-
-Regolamento recante norme per l'omologazione degli apparecchi telefonici senza cordone in tecnica analogica ed operanti nella banda dei 900 MHz, denominati CT1.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 12-2-1998
+---
+tipo: DECRETO
+numero: 501
+data: 1997-12-04
+titolo: "Regolamento recante norme per l'omologazione degli apparecchi telefonici senza cordone in tecnica analogica ed operanti nella banda dei 900 MHz, denominati CT1."
+urn: urn:nir:ministero.comunicazioni:decreto:1997-12-04;501
+codice_redazionale: 098G0032
+vigente: true
+---
 
 IL MINISTRO DELLE COMUNICAZIONI
--------------------------------
 
-Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-03-29;156), ed in particolare gli articoli 2 e 139;
+Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), ed in particolare gli articoli 2 e 139;
 
-Vista la [legge 22 maggio 1980, n. 209](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-05-22;209), che modifica gli articoli 398 e 399 del citato testo unico relativamente alla prevenzione ed all'eliminazione dei disturbi alle radiotrasmissioni ed alle radioricezioni;
+Vista la [legge 22 maggio 1980, n. 209](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-05-22;209), che modifica gli articoli 398 e 399 del citato testo unico relativamente alla prevenzione ed all'eliminazione dei disturbi alle radiotrasmissioni ed alle radioricezioni;
 
-Visto il decreto ministeriale 31 gennaio 1983, con il quale e' stato approvato il piano nazionale di ripartizione delle radiofrequenze, [pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 47 del 17 febbraio 1983](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1983-02-17&numeroGazzetta=47);
+Visto il decreto ministeriale 31 gennaio 1983, con il quale e' stato approvato il piano nazionale di ripartizione delle radiofrequenze, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 47 del 17 febbraio 1983;
 
-Visto il decreto ministeriale 5 luglio 1983, con il quale e' stata approvata la normativa tecnica per i telefoni senza cordone, [pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 210 del 2 agosto 1983](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1983-08-02&numeroGazzetta=210);
+Visto il decreto ministeriale 5 luglio 1983, con il quale e' stata approvata la normativa tecnica per i telefoni senza cordone, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 210 del 2 agosto 1983;
 
-Visto il decreto ministeriale 2 luglio 1985, con il quale sono state approvate le condizioni per l'utilizzazione dei telefoni senza cordone, [pubblicato nella Gazzetta Ufficiale n. 173 del 24 luglio 1985](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1985-07-24&numeroGazzetta=173);
+Visto il decreto ministeriale 2 luglio 1985, con il quale sono state approvate le condizioni per l'utilizzazione dei telefoni senza cordone, pubblicato nella Gazzetta Ufficiale n. 173 del 24 luglio 1985;
 
-Vista la [legge 21 giugno 1986, n. 317](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-06-21;317), per l'attuazione della [direttiva 83/189/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31983L0189) relativa alla procedura d'informazione nel settore delle norme e delle regolamentazioni tecniche - notifica 96/382/I;
+Vista la [legge 21 giugno 1986, n. 317](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20di%20attuazione%20di%20disciplina%20europea%20in%20materia%20di%20normazione%20europea%20e%20procedura%20dinformazione%20nel%20settore%20delle%20regolamentazioni%20tecniche%20e%20delle%20regole%20relative%20ai%20servizi%20_a1d2667472c9.md), per l'attuazione della [direttiva 83/189/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1983;189) relativa alla procedura d'informazione nel settore delle norme e delle regolamentazioni tecniche - notifica 96/382/I;
 
-Visto il [decreto ministeriale 11 febbraio 1987, n. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1987-02-11;126), relativo alla prevenzione ed eliminazione dei disturbi provocati dagli apparecchi telefonici senza cordone;
+Visto il [decreto ministeriale 11 febbraio 1987, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1987-02-11;126), relativo alla prevenzione ed eliminazione dei disturbi provocati dagli apparecchi telefonici senza cordone;
 
-Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3);
+Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-Visto il [decreto ministeriale 9 maggio 1990, pubblicato nella Gazzetta Ufficiale n. 115 del 19 maggio 1990](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1990-05-19&numeroGazzetta=115), con cui sono state approvate modifiche al piano nazionale di ripartizione delle radiofrequenze;
+Visto il decreto ministeriale 9 maggio 1990, pubblicato nella Gazzetta Ufficiale n. 115 del 19 maggio 1990, con cui sono state approvate modifiche al piano nazionale di ripartizione delle radiofrequenze;
 
-Vista la [legge 28 marzo 1991, n. 109](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-03-28;109), recante disposizioni in materia di allacciamenti e collaudi degli impianti telefonici interni;
+Vista la [legge 28 marzo 1991, n. 109](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20disposizioni%20in%20materia%20di%20allacciamenti%20e%20collaudi%20degli%20impianti%20telefonici%20interni.md), recante disposizioni in materia di allacciamenti e collaudi degli impianti telefonici interni;
 
-Visto il [decreto ministeriale 23 maggio 1992, n. 314](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1992-05-23;314), che approva il regolamento recante disposizioni di attuazione della predetta [legge 28 marzo 1991, n. 109](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-03-28;109);
+Visto il [decreto ministeriale 23 maggio 1992, n. 314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1992-05-23;314), che approva il regolamento recante disposizioni di attuazione della predetta [legge 28 marzo 1991, n. 109](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20disposizioni%20in%20materia%20di%20allacciamenti%20e%20collaudi%20degli%20impianti%20telefonici%20interni.md);
 
-Visto il decreto ministeriale 4 maggio 1993 per l'attuazione della [direttiva 87/372/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31987L0372) relativa alla designazione per il servizio radiomobile cellulare digitale "GSM" delle bande di frequenza 905-914 e 950-959 MHz, [pubblicato nella Gazzetta Ufficiale n. 137 del 14 giugno 1993](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1993-06-14&numeroGazzetta=137);
+Visto il decreto ministeriale 4 maggio 1993 per l'attuazione della [direttiva 87/372/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1987;372) relativa alla designazione per il servizio radiomobile cellulare digitale "GSM" delle bande di frequenza 905-914 e 950-959 MHz, pubblicato nella Gazzetta Ufficiale n. 137 del 14 giugno 1993;
 
-Visto il [decreto del Presidente della Repubblica 24 marzo 1995, n. 166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1995-03-24;166), riguardante il regolamento recante la riorganizzazione del Ministero delle poste e delle telecomunicazioni;
+Visto il [decreto del Presidente della Repubblica 24 marzo 1995, n. 166](../Regolamenti%20governativi/Regolamento%20recante%20riorganizzazione%20del%20Ministero%20delle%20poste%20e%20delle%20telecomunicazioni.md), riguardante il regolamento recante la riorganizzazione del Ministero delle poste e delle telecomunicazioni;
 
-Visto il [decreto ministeriale 9 gennaio 1996, n. 125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1996-01-09;125), che approva il regolamento concernente modificazioni al codice di identificazione delle apparecchiature terminali senza cordone;
+Visto il [decreto ministeriale 9 gennaio 1996, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1996-01-09;125), che approva il regolamento concernente modificazioni al codice di identificazione delle apparecchiature terminali senza cordone;
 
-Visto il [decreto legislativo 12 novembre 1996, n. 614](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1996-11-12;614), concernente l'attuazione della [direttiva 91/263/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31991L0263) in materia di ravvicinamento delle legislazioni degli Stati membri relative alle apparecchiature terminali di telecomunicazioni, incluso il reciproco riconoscimento della loro conformita', come modificata dalla [direttiva 93/68/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31993L0068) ed integrata dalla [direttiva 93/97/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31993L0097);
+Visto il [decreto legislativo 12 novembre 1996, n. 614](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2091-263-CEE%20concernente%20il%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alle%20apparecchiature%20terminali%20di%20telecomunicazioni%20incluso%20il%20reciproco_426130cd5bac.md), concernente l'attuazione della [direttiva 91/263/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;263) in materia di ravvicinamento delle legislazioni degli Stati membri relative alle apparecchiature terminali di telecomunicazioni, incluso il reciproco riconoscimento della loro conformita', come modificata dalla [direttiva 93/68/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;68) ed integrata dalla [direttiva 93/97/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;97);
 
-Visto il [decreto legislativo 12 novembre 1996, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1996-11-12;615), concernente l'attuazione della [direttiva 89/336/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31989L0336) in materia di ravvicinamento delle legislazioni degli Stati membri relative alla compatibilita' elettromagnetica, modificata dalle [direttive 92/31/CEE del 28 aprile 1992](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31992L0031), [93/68/CEE del 22 luglio 1993](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31993L0068) e [93/97/CEE del 29 ottobre 1993](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31993L0097);
+Visto il [decreto legislativo 12 novembre 1996, n. 615](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2089-336-CEE%20del%20Consiglio%20del%203%20maggio%201989%20in%20materia%20di%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alla%20compatibilita%20elettromagnetica%20modif_f10d34c04a81.md), concernente l'attuazione della [direttiva 89/336/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;336) in materia di ravvicinamento delle legislazioni degli Stati membri relative alla compatibilita' elettromagnetica, modificata dalle [direttive 92/31/CEE del 28 aprile 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;31), [93/68/CEE del 22 luglio 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;68) e [93/97/CEE del 29 ottobre 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;97);
 
 Visto il decreto 17 aprile 1997, n. 160, recante il regolamento per la procedura di approvazione nazionale delle apparecchiature terminali di telecomunicazioni;
 
@@ -56,244 +54,125 @@ Visto il parere del consiglio superiore tecnico delle poste e delle telecomunica
 
 Sentito il Ministero dell'industria, del commercio e dell'artigianato;
 
-Udito il [parere del Consiglio di Stato n. 163/97](https://e-justice.europa.eu/ecli/ECLI::::) reso nell'adunanza della sezione consultiva per gli atti normativi del 17 novembre 1997;
+Udito il parere del Consiglio di Stato n. 163/97 reso nell'adunanza della sezione consultiva per gli atti normativi del 17 novembre 1997;
 
-Vista la comunicazione al Presidente del Consiglio dei Ministri a norma dell'art. 17, comma 3, della citata [legge n. 400/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400), nota GM 107662/4419 DL/CR del 28 novembre 1997;
+Vista la comunicazione al Presidente del Consiglio dei Ministri a norma dell'art. 17, comma 3, della citata [legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400), nota GM 107662/4419 DL/CR del 28 novembre 1997;
 
-Adotta
-------
+Adotta il seguente regolamento:
 
-il seguente regolamento:
+## Art. 1. — Definizioni
 
-Art. 1
-------
+1.
 
-Definizioni
+Per "apparecchiatura terminale" si intende l'apparecchio d'utente destinato ad essere collegato direttamente o indirettamente ad un punto terminale di una rete pubblica di telecomunicazioni o ad interfunzionare con essa per la trasmissione, il trattamento o la ricezione di informazioni. Il collegamento puo' essere realizzato mediante un sistema cablato, radio, ottico o altro sistema elettromagnetico.
 
-1. Per "apparecchiatura terminale" si intende l'apparecchio d'utente destinato ad essere collegato direttamente o indirettamente ad un punto terminale di una rete pubblica di telecomunicazioni o ad interfunzionare con essa per la trasmissione, il trattamento o la ricezione di informazioni. Il collegamento puo' essere realizzato mediante un sistema cablato, radio, ottico o altro sistema elettromagnetico.
+2.
 
-2. Per "apparecchi telefonici senza cordone in tecnica analogica", si intendono gli apparecchi operanti nelle bande di frequenze 914-915 MHz/959-960 MHz e denominati CT1, cosi' come definiti nella norma ETSI I-ETS-300 235.
+Per "apparecchi telefonici senza cordone in tecnica analogica", si intendono gli apparecchi operanti nelle bande di frequenze 914-915 MHz/959-960 MHz e denominati CT1, cosi' come definiti nella norma ETSI I-ETS-300 235.
 
-Avvertenza:  
-Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+Avvertenza:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
-Art. 2
-------
+## Art. 2. — Campo di applicazione
 
-Campo di applicazione
+1.
 
-1. La regola tecnica, costituente l'allegato al presente decreto, si applica agli apparecchi telefonici cosi' come definiti dal comma 2 dell'articolo 1, ai fini dell'omologazione.
+La regola tecnica, costituente l'allegato al presente decreto, si applica agli apparecchi telefonici cosi' come definiti dal comma 2 dell'articolo 1, ai fini dell'omologazione.
 
-2. La regola tecnica allegata e' valida per l'applicazione del disposto dell'articolo 398 del testo unico approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-03-29;156), cosi' come modificato dalla [legge 22 maggio 1980, n. 209](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-05-22;209).
+2.
 
-Nota all'art. 2:  
-- Si riporta il testo dell'art. 398 del codice postale e delle telecomunicazioni ([D.P.R. 29 marzo 1973, n. 156](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-03-29;156)), come modificato dalla [legge 22 maggio 1980, n. 209](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-05-22;209):  
-"Art. 398. - E' vietato costruire od importare nel territorio nazionale, a scopo di commercio, usare od esercitare, a qualsiasi titolo, apparati od impianti elettrici, radioelettrici o linee di trasmissione di energia elettrica non rispondenti alle norme stabilite per la prevenzione e per la eliminazione dei disturbi alle radiotrasmissioni ed alle radioricezioni.  
-All'emanazione di dette norme, che determinano anche il metodo da seguire per l'accertamento della rispondenza, si provvede con decreto del Ministro delle poste e delle telecomunicazioni, di concerto con il Ministro dell'industria, del commercio e dell'artigianato, in conformita' alle direttive delle Comunita' europee.  
-L'immissione in commercio e l'importazione a scopo di commercio dei materiali indicati nel primo comma, sono subordinate al rilascio di una certificazione, di un contrassegno, di una attestazione di rispondenza ovvero alla presentazione di una dichiarazione di rispondenza nei modi da stabilire con il decreto di cui al secondo comma.  
-Con il decreto del Ministro delle poste e delle telecomunicazioni, di concerto con il Ministro dell'industria, del commercio e dell'artigianato, e' effettuata la designazione degli organismi o dei soggetti che rilasciano i contrassegni o gli attestati di rispondenza previsti dal precedente comma".
+La regola tecnica allegata e' valida per l'applicazione del disposto dell'articolo 398 del testo unico approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), cosi' come modificato dalla [legge 22 maggio 1980, n. 209](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-05-22;209).
 
-Art. 3
-------
+Nota all'art. 2:
+ - Si riporta il testo dell'art. 398 del codice postale e delle telecomunicazioni ([D.P.R. 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md)), come modificato dalla [legge 22 maggio 1980, n. 209](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-05-22;209):
+ "Art. 398. - E' vietato costruire od importare nel territorio nazionale, a scopo di commercio, usare od esercitare, a qualsiasi titolo, apparati od impianti elettrici, radioelettrici o linee di trasmissione di energia elettrica non rispondenti alle norme stabilite per la prevenzione e per la eliminazione dei disturbi alle radiotrasmissioni ed alle radioricezioni.
+ All'emanazione di dette norme, che determinano anche il metodo da seguire per l'accertamento della rispondenza, si provvede con decreto del Ministro delle poste e delle telecomunicazioni, di concerto con il Ministro dell'industria, del commercio e dell'artigianato, in conformita' alle direttive delle Comunita' europee.
+ L'immissione in commercio e l'importazione a scopo di commercio dei materiali indicati nel primo comma, sono subordinate al rilascio di una certificazione, di un contrassegno, di una attestazione di rispondenza ovvero alla presentazione di una dichiarazione di rispondenza nei modi da stabilire con il decreto di cui al secondo comma.
+ Con il decreto del Ministro delle poste e delle telecomunicazioni, di concerto con il Ministro dell'industria, del commercio e dell'artigianato, e' effettuata la designazione degli organismi o dei soggetti che rilasciano i contrassegni o gli attestati di rispondenza previsti dal precedente comma".
 
-Immissione nel mercato
+## Art. 3. — Immissione nel mercato
 
-1. L'immissione nel mercato e l'importazione a qualsiasi titolo degli apparecchi telefonici senza cordone sono subordinate all'accertamento della conformita' alla regola tecnica di cui all'articolo 2, comma 1, ed alla omologazione rilasciata dal Ministero delle comunicazioni o dall'autorita' competente di un altro Stato membro.
+1.
 
-Art. 4
-------
+L'immissione nel mercato e l'importazione a qualsiasi titolo degli apparecchi telefonici senza cordone sono subordinate all'accertamento della conformita' alla regola tecnica di cui all'articolo 2, comma 1, ed alla omologazione rilasciata dal Ministero delle comunicazioni o dall'autorita' competente di un altro Stato membro.
 
-Marcatura
+## Art. 4. — Marcatura
 
-1. La marcatura che attesta la rispondenza dell'apparecchio alla regola tecnica e' quella di cui all'[articolo 9 del decreto ministeriale 17 aprile 1997, n. 160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1997-04-17;160~art9).
+1.
 
-Nota all'art. 4:  
-- Si riporta il testo dell'[art. 9 del D.M. 17 aprile 1997, n. 160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1997-04-17;160~art9):  
-"Art. 9 (Marcatura nazionale). - 1. Su ogni esemplare del terminale approvato deve essere apposta una marcatura nazionale (allegato 5) contenente le seguenti informazioni:  
-a) nominativo del titolare dell'approvazione nazionale;  
-b) modello del terminale;  
-c) numero dell'approvazione nazionale.  
-2. La marcatura deve essere indelebile e visibile sulla superficie esterna del terminale.  
-3. Ogni terminale, oltre a recare la marcatura di cui al comma 1, deve essere identificato dal fabbricante mediante l'indicazione del modello, del lotto o del numero di matricola, del nome del costruttore o del fornitore".
+La marcatura che attesta la rispondenza dell'apparecchio alla regola tecnica e' quella di cui all'[articolo 9 del decreto ministeriale 17 aprile 1997, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1997-04-17;160#art_9).
 
-Art. 5
-------
+Nota all'art. 4:
+ - Si riporta il testo dell'[art. 9 del D.M. 17 aprile 1997, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1997-04-17;160#art_9):
+ "Art. 9 (Marcatura nazionale). - 1. Su ogni esemplare del terminale approvato deve essere apposta una marcatura nazionale (allegato 5) contenente le seguenti informazioni:
+ a) nominativo del titolare dell'approvazione nazionale;
+ b) modello del terminale;
+ c) numero dell'approvazione nazionale.
+ 2. La marcatura deve essere indelebile e visibile sulla superficie esterna del terminale.
+ 3. Ogni terminale, oltre a recare la marcatura di cui al comma 1, deve essere identificato dal fabbricante mediante l'indicazione del modello, del lotto o del numero di matricola, del nome del costruttore o del fornitore".
 
-Compatibilita' elettromagnetica
+## Art. 5. — Compatibilita' elettromagnetica
 
-1. Agli apparecchi telefonici senza cordone si applica quanto disposto dal [decreto legislativo 12 novembre 1996, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1996-11-12;615), di attuazione della [direttiva 89/336/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31989L0336).
+1.
 
-Nota all'[art. 5:  
-- Il D.Lgs. 12 novembre 1996, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1996-11-12;615~art5), da' attuazione alla [direttiva 89/336/CEE del Consiglio del 3 maggio 1989](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31989L0336), in materia di ravvicinamento delle legislazioni degli Stati membri relative alla compatibilita' elettromagnetica, modificata ed integrata dalla [direttiva 92/31/CEE del Consiglio del 28 aprile 1992](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31992L0031), dalla [direttiva 93/68/CEE del Consiglio del 22 luglio 1993](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31993L0068) e dalla [direttiva 93/97/CEE del Consiglio del 29 ottobre 1993](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31993L0097).
+Agli apparecchi telefonici senza cordone si applica quanto disposto dal [decreto legislativo 12 novembre 1996, n. 615](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2089-336-CEE%20del%20Consiglio%20del%203%20maggio%201989%20in%20materia%20di%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alla%20compatibilita%20elettromagnetica%20modif_f10d34c04a81.md), di attuazione della [direttiva 89/336/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;336).
 
-Art. 6
-------
+Nota all'[art. 5:
+ - Il D.Lgs. 12 novembre 1996, n. 615](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2089-336-CEE%20del%20Consiglio%20del%203%20maggio%201989%20in%20materia%20di%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alla%20compatibilita%20elettromagnetica%20modif_f10d34c04a81.md), da' attuazione alla [direttiva 89/336/CEE del Consiglio del 3 maggio 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;336), in materia di ravvicinamento delle legislazioni degli Stati membri relative alla compatibilita' elettromagnetica, modificata ed integrata dalla [direttiva 92/31/CEE del Consiglio del 28 aprile 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;31), dalla [direttiva 93/68/CEE del Consiglio del 22 luglio 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;68) e dalla [direttiva 93/97/CEE del Consiglio del 29 ottobre 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;97).
 
-Procedura di omologazione
+## Art. 6. — Procedura di omologazione
 
-1. La procedura di omologazione degli apparecchi telefonici definiti al comma 2 dell'articolo 1 e' descritto nel [decreto ministeriale 17 aprile 1997, n. 160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1997-04-17;160).
+1.
 
-2. Ai fini del rilascio del certificato di omologazione sono validi anche i rapporti di prova rilasciati da laboratori di altri Paesi della CEPT (Conferenza europea delle poste e delle telecomunicazioni) accreditati ai sensi delle norme EN 45001 e EN 45002 o ISO 25 e ISO 38, compilati, per quanto riguarda la norma ETSI I-ETS 300 235, su modulari pubblicati dalla CEPT.
+La procedura di omologazione degli apparecchi telefonici definiti al comma 2 dell'articolo 1 e' descritto nel [decreto ministeriale 17 aprile 1997, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1997-04-17;160).
 
-3. I rapporti di prova, in originale od in copia debitamente autenticata, devono essere allegati alla domanda di omogolazione e devono dimostrare la piena conformita' alla regola tecnica allegata al presente decreto.
+2.
 
-Nota all'[art. 6:  
-- Il D.M. 17 aprile 1997, n. 160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1997-04-17;160~art6), detta il regolamento per la procedura di approvazione nazionale delle apparecchiature terminali di telecomunicazioni.
+Ai fini del rilascio del certificato di omologazione sono validi anche i rapporti di prova rilasciati da laboratori di altri Paesi della CEPT (Conferenza europea delle poste e delle telecomunicazioni) accreditati ai sensi delle norme EN 45001 e EN 45002 o ISO 25 e ISO 38, compilati, per quanto riguarda la norma ETSI I-ETS 300 235, su modulari pubblicati dalla CEPT.
 
-Art. 7
-------
+3.
 
-Contributo
+I rapporti di prova, in originale od in copia debitamente autenticata, devono essere allegati alla domanda di omogolazione e devono dimostrare la piena conformita' alla regola tecnica allegata al presente decreto.
 
-1. Il rimborso delle spese amministrative riguardanti l'istruttoria ed il rilascio del certificato di omologazione e' disciplinato dall'[articolo 19 del decreto ministeriale 17 aprile 1997, n. 160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1997-04-17;160~art19).
+Nota all'[art. 6:
+ - Il D.M. 17 aprile 1997, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1997-04-17;160#art_6), detta il regolamento per la procedura di approvazione nazionale delle apparecchiature terminali di telecomunicazioni.
 
-Nota all'art. 7:  
-- Si riporta il testo dell'[art. 19 del D.M. 17 aprile 1997, n. 160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1997-04-17;160~art19):  
-"Art. 19 (Contributo). - 1. Il richiedente l'approvazione nazionale di un terminale secondo le procedure di cui all'art. 4, comma 1, lettere a) e b), e' tenuto al versamento della somma di lire 600.000 a titolo di contributo per le spese amministrative riguardanti l'istruttoria ed il rilascio dell'approvazione.  
-2. Il richiedente l'approvazione nazionale di un terminale secondo la procedura di cui all'art. 4, comma 1, lettera c), e' tenuto al versamento della somma di lire 100.000 a titolo di contributo per le spese amministrative riguardanti il rilascio dell'approvazione.  
-3. Nei casi previsti dagli articoli 13, 14, 15, 16 e 22 il richiedente e' tenuto al versamento della somma di lire 100.000 a titolo di contributo per le relative spese amministrative.  
-4. Il versamento delle somme, di cui ai commi, 1, 2 e 3 puo' essere effettuato con le seguenti modalita':  
-a) versamento in conto corrente postale intestato alla tesoreria dello Stato;  
-b) versamento con vaglia postale ordinario nazionale o internazionale intestato alla tesoreria dello Stato;  
-c) accreditamento bancario a favore dell'Ufficio italiano cambi per il successivo versamento sull'apposito capitolo del Ministero del tesoro per prestazioni effettuate dal Ministero delle poste e delle telecomunicazioni.  
-5. Gli importi indicati nel presente articolo sono adeguati ogni biennio sulla base dell'indice dei prezzi al consumo per l'intera collettivita' nazionale accertato dall'Istituto nazionale di statistica".
+## Art. 7. — Contributo
 
-Art. 8
-------
+1.
 
-Disposizioni transitorie e finali
+Il rimborso delle spese amministrative riguardanti l'istruttoria ed il rilascio del certificato di omologazione e' disciplinato dall'[articolo 19 del decreto ministeriale 17 aprile 1997, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1997-04-17;160#art_19).
 
-1. Per un periodo di sei mesi, a partire dalla data di entrata in vigore del presente decreto, e' consentita la presentazione di domanda di omologazione o di autorizzazione sulla base della normativa di cui al decreto ministeriale 5 luglio 1983, citato nelle premesse.
+Nota all'art. 7:
+ - Si riporta il testo dell'[art. 19 del D.M. 17 aprile 1997, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1997-04-17;160#art_19):
+ "Art. 19 (Contributo). - 1. Il richiedente l'approvazione nazionale di un terminale secondo le procedure di cui all'art. 4, comma 1, lettere a) e b), e' tenuto al versamento della somma di lire 600.000 a titolo di contributo per le spese amministrative riguardanti l'istruttoria ed il rilascio dell'approvazione.
+ 2. Il richiedente l'approvazione nazionale di un terminale secondo la procedura di cui all'art. 4, comma 1, lettera c), e' tenuto al versamento della somma di lire 100.000 a titolo di contributo per le spese amministrative riguardanti il rilascio dell'approvazione.
+ 3. Nei casi previsti dagli articoli 13, 14, 15, 16 e 22 il richiedente e' tenuto al versamento della somma di lire 100.000 a titolo di contributo per le relative spese amministrative.
+ 4. Il versamento delle somme, di cui ai commi, 1, 2 e 3 puo' essere effettuato con le seguenti modalita':
+ a) versamento in conto corrente postale intestato alla tesoreria dello Stato;
+ b) versamento con vaglia postale ordinario nazionale o internazionale intestato alla tesoreria dello Stato;
+ c) accreditamento bancario a favore dell'Ufficio italiano cambi per il successivo versamento sull'apposito capitolo del Ministero del tesoro per prestazioni effettuate dal Ministero delle poste e delle telecomunicazioni.
+ 5. Gli importi indicati nel presente articolo sono adeguati ogni biennio sulla base dell'indice dei prezzi al consumo per l'intera collettivita' nazionale accertato dall'Istituto nazionale di statistica".
 
-2. Le apparecchiature omologate o autorizzate sulla base della normativa di cui al decreto ministeriale citato nel comma 1 possono continuare ad essere collegate alla rete pubblica di telecomunicazioni.
+## Art. 8. — Disposizioni transitorie e finali
 
-3. Trascorso il periodo di cui al comma 1, sono abrogati il decreto ministeriale 5 luglio 1983 ed il [decreto ministeriale 11 febbraio 1987, n. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1987-02-11;126), citati nelle premesse.
+1.
+
+Per un periodo di sei mesi, a partire dalla data di entrata in vigore del presente decreto, e' consentita la presentazione di domanda di omologazione o di autorizzazione sulla base della normativa di cui al decreto ministeriale 5 luglio 1983, citato nelle premesse.
+
+2.
+
+Le apparecchiature omologate o autorizzate sulla base della normativa di cui al decreto ministeriale citato nel comma 1 possono continuare ad essere collegate alla rete pubblica di telecomunicazioni.
+
+3.
+
+Trascorso il periodo di cui al comma 1, sono abrogati il decreto ministeriale 5 luglio 1983 ed il [decreto ministeriale 11 febbraio 1987, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1987-02-11;126), citati nelle premesse.
+
+Nota all'art. 8:
+ - Il D.M. 5 luglio 1983 ha approvato la normativa tecnica per i telefoni senza cordone.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 4 dicembre 1997
+Roma, 4 dicembre 1997
 
-Il Ministro: Maccanico
-
-Visto, il Guardasigilli: Flick Registrato alla Corte dei conti il 30 dicembre 1997
-
-Registro n. 8 Comunicazioni, foglio n. 165
-
-Nota all'art. 8:  
-- Il D.M. 5 luglio 1983 ha approvato la normativa tecnica per i telefoni senza cordone.
-
-Allegato
-
- Allegato   
-REGOLA TECNICA PER L'OMOLOGAZIONE DEGLI APPARECCHI TELEFONICI SENZA CORDONE IN TECNICA ANALOGICA.   
-1. Generalita'.   
-1.1. Oggetto e scopo.   
-La presente regola tecnica ha lo scopo di fissare la terminologia e di stabilire le prescrizioni di carattere tecnico per la omologazione degli apparecchi telefonici senza cordone di tipo analogico operanti nelle bande di frequenze 914-915 MHz/959-960 MHz, denominati "CT1".   
-1.2. Costituzione degli apparecchi.   
-Gli apparecchi telefonici senza cordone sono costituiti da una parte fissa collegata ad una linea telefonica e da una o piu' parti mobili collegate tramite onde elettromagnetiche alla parte fissa ed atte a consentire il servizio di un normale apparecchio telefonico entro un'area limitata attorno alla parte fissa.   
-1.3. Impiego.   
-I telefoni senza cordone possono essere impiegati per comunicazioni telefoniche effettuate tramite la "rete telefonica pubblica" direttamente o indirettamente attraverso un impianto interno (Pabx); pertanto il circuito fonico deve consentire, una od entrambe, le seguenti modalita' operative:   
-predisposizione per l'accesso diretto alla rete telefonica nazionale (RTN);   
-predisposizione per l'accesso tramite impianto interno alla RTN (Pabx).   
-Il raggio d'azione del telefono senza cordone e' limitato a circa 20-50 metri all'interno di edifici ed a circa 200 metri all'aperto in assenza di ostacoli.   
-1.4. Riferimenti normativi.   
-La presente regola tecnica fa riferimento alle seguenti normative vigenti:   
-a) I-ETS 300-235 - radio equipment and system (RES); technical characteristics, test conditions and methods of measurements for radio aspects of cordless telephones CT1;   
-b) NET 4 (ETS 300-001) - attachments to public switched telephone network (PSTN) general technical requirements for equipments connected to analogue subscriber interface in the PSTN;   
-c) norma tecnica CEI 303-12- apparecchi telefonici con collegamento analogico alla rete telefonica italiana;   
-d) CENELEC EN 60950 - safety of information technology equipment, including electrical business equipment;   
-e) CENELEC EN 41003 - particular safety requirements for equipment to be connected to telecommunication networks.   
-1.5. Abbreviazioni.   
-ERP: punto di riferimento dell'orecchio (ear reference point);   
-MRP: punto di riferimento della bocca (mouth reference point);   
-LRGP: posizione dell'anello di guardia per la misura indice intensita' soggettiva;   
-RTN: rete telefonica nazionale.   
-2. Prescrizioni tecniche generali.   
-2.1. Prestazioni.   
-L'apparecchio telefonico senza cordone permette all'utente di attuare le seguenti funzioni entro un determinato raggio d'azione dalla base: impegno, selezione, comunicazione, risposta, disimpegno.   
-La parte fissa e la parte portatile dell'apparecchio telefonico senza cordone devono emettere la chiamata acustica; la parte fissa e' prevista per inserzione multipla sulla stessa linea.   
-2.2. Segnalazioni.   
-Le segnalazioni sono quelle previste dalla norma ETSI I-ETS 300-235; inoltre la parte fissa dell'apparecchio telefonico senza cordone deve avere le seguenti segnalazioni:   
-a) alimentazione, indica che la parte fissa e' accesa ed alimentata;   
-b) collegamento radio, indica che sull'apparecchio telefonico senza cordone e' avvenuto l'impegno di un canale radio.   
-Quando e' previsto il dispositivo caricabatteria, deve esistere una indicazione ottica che segnali che la parte portatile e' in posizione di ricarica.   
-2.3. Disimpegno automatico.   
-Con conversazione in corso, quando la parte portatile viene posta in posizione di ricarica, devono essere disimpegnati automaticamente sia il canale radio, sia la RTN.   
-2.4. Prescrizioni per la sicurezza del collegamento nell'apparecchio telefonico dotato di piu' parti mobili.   
-Le parti portatili aggiuntive dell'apparecchio telefonico senza cordone devono potersi collegare alla parte fissa inviando il codice di identificazione, cosi' come previsto dalla norma ETSI I-ETS 300-235; tale codice deve contenere la parte di identificativo assegnato dal Ministero delle comunicazioni.   
-3. Prescrizioni per il collegamento alla linea telefonica.   
-Le prescrizioni relative al collegamento alla linea telefonica e le modalita' di misura sono definite nella NET 4 per quanto applicabile con le deroghe sottoriportate.   
-3.1. Livello di rumore.   
-Il livello di rumore psofometrico in emissione deve essere leq -60 dBmps (NET 4 par. 4.5.1).   
-3.2. Chiamata.   
-L'organo di chiamata inserito nelle parti fisse deve attivarsi durante il primo segnale di chiamata (NET 4 ed. agosto 1992 par. 6.2.1 I 1-2) entro 1s, invece che 200 ms.   
-3.3. Selezione.   
-Il valore della pausa intercifra "Tp" (NET 4 ed. agosto 1992 par.  
-5.4.7.2) deve essere compreso tra 65 ms e 1000 ms, invece che tra 65 ms e 150 ms.   
-3.4. Esclusioni.   
-I remark italiani 7.1(I)1 e 7.2(I)1 (NET 4 ed. agosto 1992), relativi alla presenza della funzionalita' telefonica in caso di interruzione della tensione di alimentazione, sono esclusi.   
-4. Caratteristiche in bassa frequenza.   
-Le prescrizioni relative alle caratteristiche in bassa frequenza sono definite nella norma tecnica CEI 303-12 per quanto applicabile con le deroghe sotto riportate.   
-4.1. Curva di risposta in emissione.   
-La curva di risposta in emissione del sistema d'utente, espressa in dB riferiti a 1 V/Pa in funzione della frequenza, deve essere compresa, dopo opportuna traslazione lungo l'asse delle ordinate, nella maschera definita dai limiti indicati in tabella 4.1.   
-  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_   
-  
-Frequenza (Hz) Limite inferiore (dB) Limite superiore (dB)   
-  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 100 - + 2  
-300 - 13 + 2  
-1.500 0 + 12  
-2.200 0 + 12  
-3.000 - 3 + 12  
-4.000 - + 12  
-7.000 - - 8  
-10.000 - - 8  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_   
-  
-Tabella 4.1   
-La misura deve essere effettuata con linea artificiale CEI da 300 Ohm. Il sistema d'utente e' chiuso su di un carico resistivo di 600 Ohm. Il portatile e' montato in posizione LRGP sulla testa artificiale.   
-La bocca artificiale ITU/T P.51 viene eccitata in modo da generare in campo libero, al MPR, un rumore gaussiano con spettro conforme alla racc/ne ITU/P P.50 e con livello di pressione sonora pari a 89,3 dB(L).   
-La curva di risposta, espressa in dB riferiti a 1 V/Pa , e' definita come la differenza fra il livello spettrale a terzi di ottava della tensione misurata in uscita al sistema chiuso su 600 Ohm ed il livello spettrale della pressione acustica erogata al MRP.   
-4.2. Curva di risposta in ricezione.   
-La curva di risposta in ricezione del sistema d'utente, espressa in dB riferiti a 1 Pa/V in funzione della frequenza, deve essere compresa, dopo opportuna traslazione lungo l'asse delle ordinate, nella maschera definita dai limiti riportati in tabella 4.2.   
-  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_   
-  
-Frequenza (Hz) Limite inferiore (dB) Limite superiore (dB)   
-  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 100 - 0  
-300 -13 0  
-500 -10 0  
-1.000 -10 0  
-2.000 -10 +2  
-2.200 -10 +2  
-3.000 -13 +2  
-4.000 - +2  
-7.000 - -18  
-10.000 - -18  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_   
-  
-Tabella 4.2   
-La misura deve essere effettuata con linea artificiale CEI da 300 Ohm.   
-Il portatile e' montato in posizione LRGP sulla testa artificiale ed il ricevitore e' accoppiato ermeticamente all'orecchio artificiale ITU/T P.57 tipo 1.   
-Il livello di pressione acustica generato dal ricevitore e' determinato mediante un microfono di misura, precedentemente calibrato, inserito nell'orecchio artificiale sopracitato.   
-Il processo di calibrazione consiste nel determinare la sensibilita' della catena microfonica, costituita dal microfono di misura e dal preamplificatore, utilizzando una sorgente di pressione sonora di riferimento.   
-La curva di risposta in ricezione si intende rilevata eccitando il sistema d'utente con un generatore di rumore gaussiano avente spettro conforme alla racc/ne ITU/P P.51, impedenza interna di 600 Ohm e con una f.e.m. di 490 mVeff.   
-La curva di risposta, espressa in dB riferiti a 1 Pa/V, e' definita come la differenza fra il livello spettrale a terzi d'ottava del segnale acustico rilevato all'ERP ed il livello spettrale del segnale elettrico erogato dal generatore su di un carico resistivo di 600 Ohm.   
-4.3. Rumore.   
-Il livello di rumore in ricezione (norma tecnica CEI 303-12 par. 5.1), rilevato con l'eventuale controllo del regolatore di volume in condizioni nominali, deve essere leq -49 dB Pa(A).   
-4.4. Distorsione di non linearita'.   
-La distorsione di non linearita' in emissione, ricezione e per effetto locale (norma tecnica CEI 303-12 par. 6.4, 6.5, 6.6) deve essere rilevata utilizzando come livelli di eccitazione quelli prescritti per i relativi indici di intensita' soggettiva definiti nella norma tecnica CEI 303-12 ai par. 6.3.1, 6.3.2 e 6.3.3, applicando i limiti e le condizioni prescritte dalla I-ETS 300-235 - annesso C3.   
-4.5. Chiamata.   
-Il livello sonoro generato dall'organo di chiamata (norma tecnica CEI 303-12 par. 7.1) inserito nelle parti mobili, deve essere geq -43 dB Pa(A).   
-4.6. Esclusioni.   
-Il par. 4 (norma tecnica CEI 303-12), per quanto concerne l'alimentazione dalla linea di telecomunicazione della parte telefonica, e' escluso.   
-Il par. 8.2 (norma tecnica CEI 303-12), relativo all'ausilio per deboli d'udito, e' escluso.   
-5. Caratteristiche radioelettriche.   
-Le prescrizioni relative alle caratteristiche radioelettriche sono definite nella norma ETSI I-ETS 300-235, con l'esclusione dell'annesso B relativo alle prescrizioni tecniche per gli apparecchi telefonici senza cordone tipo CT1+.   
-6. Requisiti di sicurezza.   
-Le prescrizioni relative ai requisiti di sicurezza sono definite nella EN 41003 e nella EN 60950.   
-Visto, il Ministro delle comunicazioni   
-Maccanico   
+Il Ministro: Maccanico Visto, il Guardasigilli: Flick Registrato alla Corte dei conti il 30 dicembre 1997 Registro n. 8 Comunicazioni, foglio n. 165

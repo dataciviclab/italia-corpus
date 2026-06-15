@@ -1,128 +1,92 @@
-DECRETO-LEGGE 30 settembre 1993 n. 390
+---
+tipo: DECRETO-LEGGE
+numero: 390
+data: 1993-09-30
+titolo: "Trasformazione dell'Amministrazione delle poste e delle telecomunicazioni in ente pubblico economico e riorganizzazione del Ministero."
+urn: urn:nir:stato:decreto.legge:1993-09-30;390
+codice_redazionale: 093G0464
+vigente: true
+---
 
+## ENTE POSTE ITALIANE
 
-DECRETO-LEGGE 30 settembre 1993 n. 390
-======================================
+Capo I
 
-Trasformazione dell'Amministrazione delle poste e delle telecomunicazioni in ente pubblico economico e riorganizzazione del Ministero.
---------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del decreto: 03/10/1993.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 29 GENNAIO 1994, N. 71](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20dicembre%201993%20n.%20487%20recante%20trasformazione%20dellAmministrazione%20delle%20poste%20e%20delle%20telecomunicazioni%20in%20ente%20pubblico%20economico_f513628cd1cd.md)
 
-CAPO I Capo I ENTE POSTE ITALIANE
----------------------------------
+### Art. 2.
 
-### Art. 1
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 29 GENNAIO 1994, N. 71](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20dicembre%201993%20n.%20487%20recante%20trasformazione%20dellAmministrazione%20delle%20poste%20e%20delle%20telecomunicazioni%20in%20ente%20pubblico%20economico_f513628cd1cd.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 29 GENNAIO 1994, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-29;71)
-  
+### Art. 3.
 
-### Art. 2
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 29 GENNAIO 1994, N. 71](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20dicembre%201993%20n.%20487%20recante%20trasformazione%20dellAmministrazione%20delle%20poste%20e%20delle%20telecomunicazioni%20in%20ente%20pubblico%20economico_f513628cd1cd.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 29 GENNAIO 1994, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-29;71)
-  
+### Art. 4.
 
-### Art. 3
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 29 GENNAIO 1994, N. 71](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20dicembre%201993%20n.%20487%20recante%20trasformazione%20dellAmministrazione%20delle%20poste%20e%20delle%20telecomunicazioni%20in%20ente%20pubblico%20economico_f513628cd1cd.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 29 GENNAIO 1994, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-29;71)
-  
+### Art. 5.
 
-### Art. 4
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 29 GENNAIO 1994, N. 71](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20dicembre%201993%20n.%20487%20recante%20trasformazione%20dellAmministrazione%20delle%20poste%20e%20delle%20telecomunicazioni%20in%20ente%20pubblico%20economico_f513628cd1cd.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 29 GENNAIO 1994, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-29;71)
-  
+### Art. 6.
 
-### Art. 5
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 29 GENNAIO 1994, N. 71](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20dicembre%201993%20n.%20487%20recante%20trasformazione%20dellAmministrazione%20delle%20poste%20e%20delle%20telecomunicazioni%20in%20ente%20pubblico%20economico_f513628cd1cd.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 29 GENNAIO 1994, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-29;71)
-  
+### Art. 7.
 
-### Art. 6
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 29 GENNAIO 1994, N. 71](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20dicembre%201993%20n.%20487%20recante%20trasformazione%20dellAmministrazione%20delle%20poste%20e%20delle%20telecomunicazioni%20in%20ente%20pubblico%20economico_f513628cd1cd.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 29 GENNAIO 1994, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-29;71)
-  
+### Art. 8.
 
-### Art. 7
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 29 GENNAIO 1994, N. 71](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20dicembre%201993%20n.%20487%20recante%20trasformazione%20dellAmministrazione%20delle%20poste%20e%20delle%20telecomunicazioni%20in%20ente%20pubblico%20economico_f513628cd1cd.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 29 GENNAIO 1994, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-29;71)
-  
+### Art. 9.
 
-### Art. 8
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 29 GENNAIO 1994, N. 71](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20dicembre%201993%20n.%20487%20recante%20trasformazione%20dellAmministrazione%20delle%20poste%20e%20delle%20telecomunicazioni%20in%20ente%20pubblico%20economico_f513628cd1cd.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 29 GENNAIO 1994, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-29;71)
-  
+### Art. 10.
 
-### Art. 9
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 29 GENNAIO 1994, N. 71](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20dicembre%201993%20n.%20487%20recante%20trasformazione%20dellAmministrazione%20delle%20poste%20e%20delle%20telecomunicazioni%20in%20ente%20pubblico%20economico_f513628cd1cd.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 29 GENNAIO 1994, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-29;71)
-  
+## MINISTERO DELLE POSTE E DELLE TELECOMUNICAZIONI
 
-### Art. 10
+Capo II
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 29 GENNAIO 1994, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-29;71)
-  
+### Art. 11.
 
-CAPO II Capo II MINISTERO DELLE POSTE E DELLE TELECOMUNICAZIONI
----------------------------------------------------------------
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 29 GENNAIO 1994, N. 71](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20dicembre%201993%20n.%20487%20recante%20trasformazione%20dellAmministrazione%20delle%20poste%20e%20delle%20telecomunicazioni%20in%20ente%20pubblico%20economico_f513628cd1cd.md)
 
-### Art. 11
+### Art. 12.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 29 GENNAIO 1994, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-29;71)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 29 GENNAIO 1994, N. 71](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20dicembre%201993%20n.%20487%20recante%20trasformazione%20dellAmministrazione%20delle%20poste%20e%20delle%20telecomunicazioni%20in%20ente%20pubblico%20economico_f513628cd1cd.md)
 
-### Art. 12
+### Art. 13.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 29 GENNAIO 1994, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-29;71)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 29 GENNAIO 1994, N. 71](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20dicembre%201993%20n.%20487%20recante%20trasformazione%20dellAmministrazione%20delle%20poste%20e%20delle%20telecomunicazioni%20in%20ente%20pubblico%20economico_f513628cd1cd.md)
 
-### Art. 13
+### Art. 14.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 29 GENNAIO 1994, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-29;71)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 29 GENNAIO 1994, N. 71](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20dicembre%201993%20n.%20487%20recante%20trasformazione%20dellAmministrazione%20delle%20poste%20e%20delle%20telecomunicazioni%20in%20ente%20pubblico%20economico_f513628cd1cd.md)
 
-### Art. 14
+### Art. 15.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 29 GENNAIO 1994, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-29;71)
-  
-
-### Art. 15
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 29 GENNAIO 1994, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-29;71)
-  
-
-all. 1 - art. 1
-
- ALLEGATO   
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 29 GENNAIO 1994, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-29;71)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 29 GENNAIO 1994, N. 71](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20dicembre%201993%20n.%20487%20recante%20trasformazione%20dellAmministrazione%20delle%20poste%20e%20delle%20telecomunicazioni%20in%20ente%20pubblico%20economico_f513628cd1cd.md)

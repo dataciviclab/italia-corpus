@@ -1,16 +1,14 @@
-LEGGE 30 giugno 1927 n. 1144
+---
+tipo: LEGGE
+numero: 1144
+data: 1927-06-30
+titolo: "Conversione in legge del R. decreto-legge 30 giugno 1926, n. 1240, relativo alla integrazione dei fondi stanziati in bilancio per compensi di costruzione a navi in acciaio. (027U1144)"
+urn: urn:nir:stato:legge:1927-06-30;1144
+codice_redazionale: 027U1144
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 30 giugno 1927 n. 1144
-============================
-
-Conversione in legge del R. decreto-legge 30 giugno 1926, n. 1240, relativo alla integrazione dei fondi stanziati in bilancio per compensi di costruzione a navi in acciaio. (027U1144)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/07/1927
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

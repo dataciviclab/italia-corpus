@@ -1,80 +1,65 @@
-DECRETO LEGISLATIVO 25 febbraio 2000 n. 61
+---
+tipo: DECRETO LEGISLATIVO
+numero: 61
+data: 2000-02-25
+titolo: "Attuazione della direttiva 97/81/CE relativa all'accordo-quadro sul lavoro a tempo parziale concluso dall'UNICE, dal CEEP e dalla CES."
+urn: urn:nir:stato:decreto.legislativo:2000-02-25;61
+codice_redazionale: 000G0103
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 25 febbraio 2000 n. 61
-==========================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
-Attuazione della direttiva 97/81/CE relativa all'accordo-quadro sul lavoro a tempo parziale concluso dall'UNICE, dal CEEP e dalla CES.
---------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 4-4-2000
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 GIUGNO 2015, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-06-15;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 GIUGNO 2015, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-06-15;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 GIUGNO 2015, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-06-15;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 GIUGNO 2015, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-06-15;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 GIUGNO 2015, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-06-15;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 GIUGNO 2015, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-06-15;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 GIUGNO 2015, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-06-15;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
-Art. 8
-------
+## Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 GIUGNO 2015, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-06-15;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
-Art. 9
-------
+## Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 GIUGNO 2015, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-06-15;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
-Art. 10
--------
+## Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 GIUGNO 2015, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-06-15;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
-Art. 11
--------
+## Art. 12-bis.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 GIUGNO 2015, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-06-15;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
-Art. 12
--------
+## Art. 12-ter.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 GIUGNO 2015, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-06-15;81)))
-
-Art. 12-bis
------------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 GIUGNO 2015, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-06-15;81)))
-
-Art. 12-ter
------------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 GIUGNO 2015, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-06-15;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))

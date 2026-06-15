@@ -1,30 +1,25 @@
-DECRETO-LEGGE 09 luglio 1974 n. 266
+---
+tipo: DECRETO-LEGGE
+numero: 266
+data: 1974-07-09
+titolo: "Norme per il finanziamento degli enti di sviluppo."
+urn: urn:nir:stato:decreto.legge:1974-07-09;266
+codice_redazionale: 074U0266
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 09 luglio 1974 n. 266
-===================================
+DECRETO DECADUTO
 
-Norme per il finanziamento degli enti di sviluppo.
---------------------------------------------------
+## Art. 2.
 
-Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
- DECRETO DECADUTO  
-
-Art. 3
-------
-
- DECRETO DECADUTO  
-
-Art. 4
-------
-
- DECRETO DECADUTO  
+DECRETO DECADUTO

@@ -1,88 +1,85 @@
-DECRETO LEGISLATIVO 30 dicembre 1992 n. 532
+---
+tipo: DECRETO LEGISLATIVO
+numero: 532
+data: 1992-12-30
+titolo: "Attuazione della direttiva 91/628/CEE relativa alla protezione degli animali durante il trasporto."
+urn: urn:nir:stato:decreto.legislativo:1992-12-30;532
+codice_redazionale: 093G0016
+vigente: true
+---
 
+## Disposizioni generali
 
-DECRETO LEGISLATIVO 30 dicembre 1992 n. 532
-===========================================
+CAPITOLO I
 
-Attuazione della direttiva 91/628/CEE relativa alla protezione degli animali durante il trasporto.
---------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore: 26/1/1993
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 25 LUGLIO 2007, N. 151))
 
-CAPO I CAPITOLO I Disposizioni generali
----------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 25 LUGLIO 2007, N. 151))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 LUGLIO 2007, N. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-07-25;151)))
+## Trasporto e controlli nel territorio della Comunita'
 
-### Art. 2
+CAPITOLO II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 LUGLIO 2007, N. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-07-25;151)))
+### Art. 3.
 
-CAPO II CAPITOLO II Trasporto e controlli nel territorio della Comunita'
-------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 25 LUGLIO 2007, N. 151))
 
-### Art. 3
+### Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 LUGLIO 2007, N. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-07-25;151)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 25 LUGLIO 2007, N. 151))
 
-### Art. 4
+### Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 LUGLIO 2007, N. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-07-25;151)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 25 LUGLIO 2007, N. 151))
 
-### Art. 5
+### Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 LUGLIO 2007, N. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-07-25;151)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 25 LUGLIO 2007, N. 151))
 
-### Art. 6
+### Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 LUGLIO 2007, N. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-07-25;151)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 25 LUGLIO 2007, N. 151))
 
-### Art. 7
+### Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 LUGLIO 2007, N. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-07-25;151)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 25 LUGLIO 2007, N. 151))
 
-### Art. 8
+### Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 LUGLIO 2007, N. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-07-25;151)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 25 LUGLIO 2007, N. 151))
 
-### Art. 9
+### Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 LUGLIO 2007, N. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-07-25;151)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 25 LUGLIO 2007, N. 151))
 
-### Art. 10
+## Importazione da Paesi terzi
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 LUGLIO 2007, N. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-07-25;151)))
+CAPITOLO III
 
-CAPO III CAPITOLO III Importazione da Paesi terzi
--------------------------------------------------
+### Art. 11.
 
-### Art. 11
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 25 LUGLIO 2007, N. 151))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 LUGLIO 2007, N. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-07-25;151)))
+## Disposizioni finali
 
-CAPO IV CAPITOLO IV Disposizioni finali
----------------------------------------
+CAPITOLO IV
 
-### Art. 12
+### Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 LUGLIO 2007, N. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-07-25;151)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 25 LUGLIO 2007, N. 151))
 
-### Art. 13
+### Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 LUGLIO 2007, N. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-07-25;151)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 25 LUGLIO 2007, N. 151))
 
-### Art. 14
+### Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 LUGLIO 2007, N. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-07-25;151)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 25 LUGLIO 2007, N. 151))
 
-### Art. 14-bis
+### Art. 14-bis.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 LUGLIO 2007, N. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-07-25;151)))
-
-Allegato
-
- Allegato   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 LUGLIO 2007, N. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-07-25;151)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 25 LUGLIO 2007, N. 151))

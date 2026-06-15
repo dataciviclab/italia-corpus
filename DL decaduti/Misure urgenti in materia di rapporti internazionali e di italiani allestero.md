@@ -1,58 +1,39 @@
-DECRETO-LEGGE 26 marzo 1992 n. 245
+---
+tipo: DECRETO-LEGGE
+numero: 245
+data: 1992-03-26
+titolo: "Misure urgenti in materia di rapporti internazionali e di italiani all'estero."
+urn: urn:nir:stato:decreto.legge:1992-03-26;245
+codice_redazionale: 092G0281
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 26 marzo 1992 n. 245
-==================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 24 SETTEMBRE 1992 N. 390](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20luglio%201992%20n.%20350%20recante%20interventi%20straordinari%20di%20carattere%20umanitario%20a%20favore%20degli%20sfollati%20delle%20Repubbliche%20sorte%20nei%20_f95a0fc888ae.md)
 
-Misure urgenti in materia di rapporti internazionali e di italiani all'estero.
-------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 27/03/1992.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 24 SETTEMBRE 1992 N. 390](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20luglio%201992%20n.%20350%20recante%20interventi%20straordinari%20di%20carattere%20umanitario%20a%20favore%20degli%20sfollati%20delle%20Repubbliche%20sorte%20nei%20_f95a0fc888ae.md)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 24 SETTEMBRE 1992 N. 390](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-09-24;390)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 24 SETTEMBRE 1992 N. 390](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20luglio%201992%20n.%20350%20recante%20interventi%20straordinari%20di%20carattere%20umanitario%20a%20favore%20degli%20sfollati%20delle%20Repubbliche%20sorte%20nei%20_f95a0fc888ae.md)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 24 SETTEMBRE 1992 N. 390](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-09-24;390)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 24 SETTEMBRE 1992 N. 390](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20luglio%201992%20n.%20350%20recante%20interventi%20straordinari%20di%20carattere%20umanitario%20a%20favore%20degli%20sfollati%20delle%20Repubbliche%20sorte%20nei%20_f95a0fc888ae.md)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 24 SETTEMBRE 1992 N. 390](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-09-24;390)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 24 SETTEMBRE 1992 N. 390](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20luglio%201992%20n.%20350%20recante%20interventi%20straordinari%20di%20carattere%20umanitario%20a%20favore%20degli%20sfollati%20delle%20Repubbliche%20sorte%20nei%20_f95a0fc888ae.md)
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 24 SETTEMBRE 1992 N. 390](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-09-24;390)
-  
-
-Art. 5
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 24 SETTEMBRE 1992 N. 390](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-09-24;390)
-  
-
-Art. 6
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 24 SETTEMBRE 1992 N. 390](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-09-24;390)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 24 SETTEMBRE 1992 N. 390](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20luglio%201992%20n.%20350%20recante%20interventi%20straordinari%20di%20carattere%20umanitario%20a%20favore%20degli%20sfollati%20delle%20Repubbliche%20sorte%20nei%20_f95a0fc888ae.md)

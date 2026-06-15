@@ -1,63 +1,55 @@
-DECRETO LEGISLATIVO 07 giugno 1999 n. 160
-
-
-DECRETO LEGISLATIVO 07 giugno 1999 n. 160
-=========================================
-
-Disposizioni correttive della tabella A allegata al decreto legislativo 19 febbraio 1998, n. 51, in materia di competenze territoriali di uffici giudiziari.
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 8/6/1999
+---
+tipo: DECRETO LEGISLATIVO
+numero: 160
+data: 1999-06-07
+titolo: "Disposizioni correttive della tabella A allegata al decreto legislativo 19 febbraio 1998, n. 51, in materia di competenze territoriali di uffici giudiziari."
+urn: urn:nir:stato:decreto.legislativo:1999-06-07;160
+codice_redazionale: 099G0239
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visti gli [articoli 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art76) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
+Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[articolo 1, comma 4, della legge 16 luglio 1997, n. 254](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-07-16;254~art1-com4), recante delega al Governo per l'emanazione di disposizioni correttive al decreto legislativo recante norme in materia di istituzione del giudice unico di primo grado;
+Visto l'[articolo 1, comma 4, della legge 16 luglio 1997, n. 254](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20listituzione%20del%20giudice%20unico%20di%20primo%20grado.md), recante delega al Governo per l'emanazione di disposizioni correttive al decreto legislativo recante norme in materia di istituzione del giudice unico di primo grado;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 30 aprile 1999;
 
-Acquisiti i pareri delle competenti commissioni permanenti del Senato della Repubblica e della Camera dei deputati, a norma dell'articolo 1, comma 3, della citata [legge 16 luglio 1997, n. 254](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-07-16;254);
+Acquisiti i pareri delle competenti commissioni permanenti del Senato della Repubblica e della Camera dei deputati, a norma dell'articolo 1, comma 3, della citata [legge 16 luglio 1997, n. 254](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20listituzione%20del%20giudice%20unico%20di%20primo%20grado.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 4 giugno 1999;
 
 Sulla proposta del Ministro di grazia e giustizia;
 
-Emana
------
+Emana il seguente decreto legislativo:
 
-il seguente decreto legislativo:
+## Art. 1.
 
-Art. 1
-------
+1.
 
-1. Nella tabella A allegata al [regio decreto 30 gennaio 1941, n. 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), come da ultimo modificata dall'[articolo 16, comma 1, del decreto legislativo 19 febbraio 1998, n. 51](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-19;51~art16-com1), gli elenchi dei comuni formanti i circondari del tribunale di Treviso e della sezione distaccata di Conegliano sono rispettivamente modificati come segue:
+Nella tabella A allegata al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), come da ultimo modificata dall'[articolo 16, comma 1, del decreto legislativo 19 febbraio 1998, n. 51](Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md), gli elenchi dei comuni formanti i circondari del tribunale di Treviso e della sezione distaccata di Conegliano sono rispettivamente modificati come segue:
+                        a)
+                            quanto al circondario del tribunale di Treviso, sono aggiunti i comuni di Cessalto, Chiarano, Cimadolmo, Fontanelle, Gorgo al Monticano, Mansue', Meduna di Livenza, Motta di Livenza, Ormelle, Ponte di Piave, Portobuffole', Salgareda e San Polo di Piave;
+                        b)
+                            quanto al circondario del tribunale di Treviso - sezione distaccata di Conegliano, sono soppressi i comuni di Cessalto, Chiarano, Cimadolmo, Fontanelle, Gorgo al Monticano, Mansue', Meduna di Livenza, Motta di Livenza, Ormelle, Ponte di Piave, Portobuffole', Salgareda e San Polo di Piave.
 
-a) quanto al circondario del tribunale di Treviso, sono aggiunti i comuni di Cessalto, Chiarano, Cimadolmo, Fontanelle, Gorgo al Monticano, Mansue', Meduna di Livenza, Motta di Livenza, Ormelle, Ponte di Piave, Portobuffole', Salgareda e San Polo di Piave;
+2.
 
-b) quanto al circondario del tribunale di Treviso - sezione distaccata di Conegliano, sono soppressi i comuni di Cessalto, Chiarano, Cimadolmo, Fontanelle, Gorgo al Monticano, Mansue', Meduna di Livenza, Motta di Livenza, Ormelle, Ponte di Piave, Portobuffole', Salgareda e San Polo di Piave.
+Nella tabella A allegata al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), come da ultimo modificata dall'[articolo 16, comma 1, del decreto legislativo 19 febbraio 1998, n. 51](Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md), gli elenchi dei comuni formanti i circondari del tribunale di Perugia e della sezione distaccata di Todi sono rispettivamente modificati come segue:
+                        a)
+                            quanto al circondario del tribunale di Perugia sono soppressi i comuni di Deruta e Marsciano;
+                        b)
+                            quanto al circondario del tribunale di Perugia - sezione distaccata di Todi, sono aggiunti i comuni di Deruta e Marsciano.
 
-2. Nella tabella A allegata al [regio decreto 30 gennaio 1941, n. 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), come da ultimo modificata dall'[articolo 16, comma 1, del decreto legislativo 19 febbraio 1998, n. 51](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-19;51~art16-com1), gli elenchi dei comuni formanti i circondari del tribunale di Perugia e della sezione distaccata di Todi sono rispettivamente modificati come segue:
+## Art. 2.
 
-a) quanto al circondario del tribunale di Perugia sono soppressi i comuni di Deruta e Marsciano;
+1.
 
-b) quanto al circondario del tribunale di Perugia - sezione distaccata di Todi, sono aggiunti i comuni di Deruta e Marsciano.
-
-Art. 2
-------
-
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
+Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 giugno 1999
+Dato a Roma, addi' 7 giugno 1999
 
-CIAMPI
-
-D'Alema, Presidente del Consiglio dei Ministri
-
-Diliberto, Ministro di grazia e giustizia
-
-Visto, il Guardasigilli: Diliberto
+CIAMPI D'Alema, Presidente del Consiglio dei Ministri Diliberto, Ministro di grazia e giustizia Visto, il Guardasigilli: Diliberto

@@ -1,18 +1,17 @@
-DECRETO LEGISLATIVO 28 febbraio 1948 n. 112
+---
+tipo: DECRETO LEGISLATIVO
+numero: 112
+data: 1948-02-28
+titolo: "Abolizione del divieto di commercio delle monete d'oro e d'argento."
+urn: urn:nir:stato:decreto.legislativo:1948-02-28;112
+codice_redazionale: 048U0112
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 28 febbraio 1948 n. 112
-===========================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Abolizione del divieto di commercio delle monete d'oro e d'argento.
--------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

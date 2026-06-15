@@ -1,35 +1,29 @@
-DECRETO LEGISLATIVO 04 marzo 2002 n. 21
+---
+tipo: DECRETO LEGISLATIVO
+numero: 21
+data: 2002-03-04
+titolo: "Attuazione della direttiva 1999/64/CE, che modifica la direttiva 90/388/CEE, in materia di reti di telecomunicazioni e reti televisive via cavo."
+urn: urn:nir:stato:decreto.legislativo:2002-03-04;21
+codice_redazionale: 002G0050
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 04 marzo 2002 n. 21
-=======================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-Attuazione della direttiva 1999/64/CE, che modifica la direttiva 90/388/CEE, in materia di reti di telecomunicazioni e reti televisive via cavo.
-------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 22-3-2002
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259)))
-
-Art. 4
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259)))
-
-Art. 5
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))

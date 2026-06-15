@@ -1,26 +1,19 @@
-DECRETO-LEGGE 28 settembre 1994 n. 553
+---
+tipo: DECRETO-LEGGE
+numero: 553
+data: 1994-09-28
+titolo: "Sospensione temporanea dell'efficacia delle domande di pensionamento anticipato nel settore pubblico e privato."
+urn: urn:nir:stato:decreto.legge:1994-09-28;553
+codice_redazionale: 094G0600
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 28 settembre 1994 n. 553
-======================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 23 DICEMBRE 1994, N. 724](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica.md)
 
-Sospensione temporanea dell'efficacia delle domande di pensionamento anticipato nel settore pubblico e privato.
----------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 28/9/1994.Decreto-Legge decaduto per mancata conversione.
-
-Art. 1
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 23 DICEMBRE 1994, N. 724](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724)
-  
-
-Art. 2
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 23 DICEMBRE 1994, N. 724](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 23 DICEMBRE 1994, N. 724](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica.md)

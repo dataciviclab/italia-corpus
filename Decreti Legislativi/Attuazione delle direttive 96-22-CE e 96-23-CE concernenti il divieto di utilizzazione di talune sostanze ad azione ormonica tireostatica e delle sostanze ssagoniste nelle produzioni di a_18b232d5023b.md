@@ -1,197 +1,173 @@
-DECRETO LEGISLATIVO 04 agosto 1999 n. 336
+---
+tipo: DECRETO LEGISLATIVO
+numero: 336
+data: 1999-08-04
+titolo: "Attuazione delle direttive 96/22/CE e 96/23/CE concernenti il divieto di utilizzazione di talune sostanze ad azione ormonica, tireostatica e delle sostanze ssagoniste nelle produzioni di animali e le misure di controllo su talune sostanze e sui loro residui negli animali vivi e nei loro prodotti."
+urn: urn:nir:stato:decreto.legislativo:1999-08-04;336
+codice_redazionale: 099G0409
+vigente: true
+---
 
+## Campo d'applicazione e definizioni
 
-DECRETO LEGISLATIVO 04 agosto 1999 n. 336
-=========================================
+Capo I
 
-Attuazione delle direttive 96/22/CE e 96/23/CE concernenti il divieto di utilizzazione di talune sostanze ad azione ormonica, tireostatica e delle sostanze ssagoniste nelle produzioni di animali e le misure di controllo su talune sostanze e sui loro residui negli animali vivi e nei loro prodotti.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del decreto: 15-10-1999
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 16 MARZO 2006, N. 158 ))
 
-CAPO I Capo I Campo d'applicazione e definizioni
-------------------------------------------------
+### Art. 2.
 
-### Art. 1
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 16 MARZO 2006, N. 158 ))
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 MARZO 2006, N. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-16;158) ))
+### Art. 3.
 
-### Art. 2
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 16 MARZO 2006, N. 158 ))
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 MARZO 2006, N. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-16;158) ))
+### Art. 4.
 
-### Art. 3
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 16 MARZO 2006, N. 158 ))
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 MARZO 2006, N. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-16;158) ))
+### Art. 5.
 
-### Art. 4
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 16 MARZO 2006, N. 158 ))
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 MARZO 2006, N. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-16;158) ))
+### Art. 6.
 
-### Art. 5
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 16 MARZO 2006, N. 158 ))
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 MARZO 2006, N. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-16;158) ))
+### Art. 7.
 
-### Art. 6
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 16 MARZO 2006, N. 158 ))
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 MARZO 2006, N. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-16;158) ))
+### Art. 8.
 
-### Art. 7
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 16 MARZO 2006, N. 158 ))
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 MARZO 2006, N. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-16;158) ))
+### Art. 9.
 
-### Art. 8
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 16 MARZO 2006, N. 158 ))
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 MARZO 2006, N. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-16;158) ))
+### Art. 10.
 
-### Art. 9
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 16 MARZO 2006, N. 158 ))
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 MARZO 2006, N. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-16;158) ))
+## Piani di sorveglianza per la ricerca dei residui o delle sostanze
 
-### Art. 10
+Capo II
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 MARZO 2006, N. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-16;158) ))
+### Art. 11.
 
-CAPO II Capo II Piani di sorveglianza per la ricerca dei residui o delle sostanze
----------------------------------------------------------------------------------
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 16 MARZO 2006, N. 158 ))
 
-### Art. 11
+### Art. 12.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 MARZO 2006, N. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-16;158) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 16 MARZO 2006, N. 158 ))
 
-### Art. 12
+### Art. 13.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 MARZO 2006, N. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-16;158) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 16 MARZO 2006, N. 158 ))
 
-### Art. 13
+## Autocontrollo e corresponsabilita' degli operatori
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 MARZO 2006, N. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-16;158) ))
+Capo III
 
-CAPO III Capo III Autocontrollo e corresponsabilita' degli operatori
---------------------------------------------------------------------
+### Art. 14.
 
-### Art. 14
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 16 MARZO 2006, N. 158 ))
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 MARZO 2006, N. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-16;158) ))
+### Art. 15.
 
-### Art. 15
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 16 MARZO 2006, N. 158 ))
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 MARZO 2006, N. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-16;158) ))
+## Controlli ufficiali
 
-CAPO IV Capo IV Controlli ufficiali
------------------------------------
+Capo IV
 
-### Art. 16
+### Art. 16.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 MARZO 2006, N. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-16;158) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 16 MARZO 2006, N. 158 ))
 
-### Art. 17
+### Art. 17.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 MARZO 2006, N. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-16;158) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 16 MARZO 2006, N. 158 ))
 
-### Art. 18
+### Art. 18.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 MARZO 2006, N. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-16;158) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 16 MARZO 2006, N. 158 ))
 
-### Art. 19
+### Art. 19.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 MARZO 2006, N. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-16;158) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 16 MARZO 2006, N. 158 ))
 
-### Art. 20
+### Art. 20.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 MARZO 2006, N. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-16;158) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 16 MARZO 2006, N. 158 ))
 
-### Art. 21
+### Art. 21.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 MARZO 2006, N. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-16;158) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 16 MARZO 2006, N. 158 ))
 
-### Art. 22
+### Art. 22.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 MARZO 2006, N. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-16;158) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 16 MARZO 2006, N. 158 ))
 
-### Art. 23
+### Art. 23.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 MARZO 2006, N. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-16;158) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 16 MARZO 2006, N. 158 ))
 
-### Art. 24
+### Art. 24.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 MARZO 2006, N. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-16;158) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 16 MARZO 2006, N. 158 ))
 
-CAPO V Capo V Misure da adottare in caso di infrazione
-------------------------------------------------------
+## Misure da adottare in caso di infrazione
 
-### Art. 25
+Capo V
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 MARZO 2006, N. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-16;158) ))
+### Art. 25.
 
-### Art. 26
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 16 MARZO 2006, N. 158 ))
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 MARZO 2006, N. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-16;158) ))
+### Art. 26.
 
-### Art. 27
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 16 MARZO 2006, N. 158 ))
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 MARZO 2006, N. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-16;158) ))
+### Art. 27.
 
-CAPO VI Capo VI Importazioni
-----------------------------
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 16 MARZO 2006, N. 158 ))
 
-### Art. 28
+## Importazioni
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 MARZO 2006, N. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-16;158) ))
+Capo VI
 
-CAPO VII Capo VII Disposizioni generali
----------------------------------------
+### Art. 28.
 
-### Art. 29
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 16 MARZO 2006, N. 158 ))
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 MARZO 2006, N. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-16;158) ))
+## Disposizioni generali
 
-### Art. 30
+Capo VII
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 MARZO 2006, N. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-16;158) ))
+### Art. 29.
 
-### Art. 31
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 16 MARZO 2006, N. 158 ))
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 MARZO 2006, N. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-16;158) ))
+### Art. 30.
 
-### Art. 32
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 16 MARZO 2006, N. 158 ))
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 MARZO 2006, N. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-16;158) ))
+### Art. 31.
 
-### Art. 33
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 16 MARZO 2006, N. 158 ))
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 MARZO 2006, N. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-16;158) ))
+### Art. 32.
 
-### Art. 34
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 16 MARZO 2006, N. 158 ))
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 MARZO 2006, N. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-16;158) ))
+### Art. 33.
 
-Allegato I
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 16 MARZO 2006, N. 158 ))
 
- ALLEGATO I   
+### Art. 34.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 MARZO 2006, N. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-16;158) ))
-
-Allegato II
-
- ALLEGATO II   
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 MARZO 2006, N. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-16;158) ))
-
-Allegato III
-
- ALLEGATO III   
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 MARZO 2006, N. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-16;158) ))
-
-Allegato IV
-
- ALLEGATO IV   
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 MARZO 2006, N. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-16;158) ))
-
-Allegato V
-
- ALLEGATO V   
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 16 MARZO 2006, N. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-16;158) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 16 MARZO 2006, N. 158 ))

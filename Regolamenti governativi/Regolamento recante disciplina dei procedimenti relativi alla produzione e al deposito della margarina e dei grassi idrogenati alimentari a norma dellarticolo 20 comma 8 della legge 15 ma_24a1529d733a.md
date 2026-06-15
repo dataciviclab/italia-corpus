@@ -1,70 +1,57 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 novembre 1997 n. 519
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 519
+data: 1997-11-13
+titolo: "Regolamento recante disciplina dei procedimenti relativi alla produzione e al deposito della margarina e dei grassi idrogenati alimentari, a norma dell'articolo 20, comma 8, della legge 15 marzo 1997, n. 59."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1997-11-13;519
+codice_redazionale: 098G0083
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 novembre 1997 n. 519
-===============================================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 MARZO 2010, n. 59, COME MODIFICATO DAL D.LGS. 6 AGOSTO 2012, n. 147))
 
-Regolamento recante disciplina dei procedimenti relativi alla produzione e al deposito della margarina e dei grassi idrogenati alimentari, a norma dell'articolo 20, comma 8, della legge 15 marzo 1997, n. 59.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 23-5-1998
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 MARZO 2010, n. 59, COME MODIFICATO DAL D.LGS. 6 AGOSTO 2012, n. 147))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 MARZO 2010, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-26;59), COME MODIFICATO DAL [D.LGS. 6 AGOSTO 2012, n. 147](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-08-06;147)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 MARZO 2010, n. 59, COME MODIFICATO DAL D.LGS. 6 AGOSTO 2012, n. 147))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 MARZO 2010, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-26;59), COME MODIFICATO DAL [D.LGS. 6 AGOSTO 2012, n. 147](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-08-06;147)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 MARZO 2010, n. 59, COME MODIFICATO DAL D.LGS. 6 AGOSTO 2012, n. 147))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 MARZO 2010, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-26;59), COME MODIFICATO DAL [D.LGS. 6 AGOSTO 2012, n. 147](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-08-06;147)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 MARZO 2010, n. 59, COME MODIFICATO DAL D.LGS. 6 AGOSTO 2012, n. 147))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 MARZO 2010, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-26;59), COME MODIFICATO DAL [D.LGS. 6 AGOSTO 2012, n. 147](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-08-06;147)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 MARZO 2010, n. 59, COME MODIFICATO DAL D.LGS. 6 AGOSTO 2012, n. 147))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 MARZO 2010, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-26;59), COME MODIFICATO DAL [D.LGS. 6 AGOSTO 2012, n. 147](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-08-06;147)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 MARZO 2010, n. 59, COME MODIFICATO DAL D.LGS. 6 AGOSTO 2012, n. 147))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 MARZO 2010, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-26;59), COME MODIFICATO DAL [D.LGS. 6 AGOSTO 2012, n. 147](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-08-06;147)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 MARZO 2010, n. 59, COME MODIFICATO DAL D.LGS. 6 AGOSTO 2012, n. 147))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 MARZO 2010, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-26;59), COME MODIFICATO DAL [D.LGS. 6 AGOSTO 2012, n. 147](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-08-06;147)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 MARZO 2010, n. 59, COME MODIFICATO DAL D.LGS. 6 AGOSTO 2012, n. 147))
 
-Art. 8
-------
+## Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 MARZO 2010, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-26;59), COME MODIFICATO DAL [D.LGS. 6 AGOSTO 2012, n. 147](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-08-06;147)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 MARZO 2010, n. 59, COME MODIFICATO DAL D.LGS. 6 AGOSTO 2012, n. 147))
 
-Art. 9
-------
+## Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 MARZO 2010, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-26;59), COME MODIFICATO DAL [D.LGS. 6 AGOSTO 2012, n. 147](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-08-06;147)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 MARZO 2010, n. 59, COME MODIFICATO DAL D.LGS. 6 AGOSTO 2012, n. 147))
 
-Art. 10
--------
+## Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 MARZO 2010, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-26;59), COME MODIFICATO DAL [D.LGS. 6 AGOSTO 2012, n. 147](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-08-06;147)))
-
-Art. 11
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 MARZO 2010, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-26;59), COME MODIFICATO DAL [D.LGS. 6 AGOSTO 2012, n. 147](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-08-06;147)))
-
-Art. 12
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 26 MARZO 2010, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-26;59), COME MODIFICATO DAL [D.LGS. 6 AGOSTO 2012, n. 147](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-08-06;147)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 MARZO 2010, n. 59, COME MODIFICATO DAL D.LGS. 6 AGOSTO 2012, n. 147))

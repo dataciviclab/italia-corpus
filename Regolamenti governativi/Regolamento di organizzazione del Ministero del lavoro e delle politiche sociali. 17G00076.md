@@ -1,98 +1,93 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 2017 n. 57
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 57
+data: 2017-03-15
+titolo: "Regolamento di organizzazione del Ministero del lavoro e delle politiche sociali. (17G00076)"
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2017-03-15;57
+codice_redazionale: 17G00076
+vigente: true
+---
 
+## Organizzazione del Ministero del lavoro   e delle politiche sociali
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 2017 n. 57
-===========================================================
+Capo I
 
-Regolamento di organizzazione del Ministero del lavoro e delle politiche sociali. (17G00076)
---------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del provvedimento: 20/05/2017
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 22 NOVEMBRE 2023, N. 230))
 
-CAPO I Capo I Organizzazione del Ministero del lavoro e delle politiche sociali
--------------------------------------------------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 22 NOVEMBRE 2023, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 22 NOVEMBRE 2023, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-11-22;230)))
+### Art. 3.
 
-### Art. 2
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 22 NOVEMBRE 2023, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 22 NOVEMBRE 2023, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-11-22;230)))
+### Art. 4.
 
-### Art. 3
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 22 NOVEMBRE 2023, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 22 NOVEMBRE 2023, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-11-22;230)))
+### Art. 5.
 
-### Art. 4
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 22 NOVEMBRE 2023, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 22 NOVEMBRE 2023, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-11-22;230)))
+### Art. 6.
 
-### Art. 5
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 22 NOVEMBRE 2023, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 22 NOVEMBRE 2023, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-11-22;230)))
+### Art. 6-bis.
 
-### Art. 6
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 22 NOVEMBRE 2023, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 22 NOVEMBRE 2023, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-11-22;230)))
+### Art. 6-ter.
 
-### Art. 6-bis
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 22 NOVEMBRE 2023, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 22 NOVEMBRE 2023, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-11-22;230)))
+### Art. 7.
 
-### Art. 6-ter
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 22 NOVEMBRE 2023, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 22 NOVEMBRE 2023, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-11-22;230)))
+### Art. 8.
 
-### Art. 7
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 22 NOVEMBRE 2023, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 22 NOVEMBRE 2023, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-11-22;230)))
+### Art. 9.
 
-### Art. 8
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 22 NOVEMBRE 2023, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 22 NOVEMBRE 2023, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-11-22;230)))
+### Art. 10.
 
-### Art. 9
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 22 NOVEMBRE 2023, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 22 NOVEMBRE 2023, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-11-22;230)))
+### Art. 11.
 
-### Art. 10
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 22 NOVEMBRE 2023, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 22 NOVEMBRE 2023, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-11-22;230)))
+## Disposizioni in materia di organizzazione e di personale
 
-### Art. 11
+Capo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 22 NOVEMBRE 2023, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-11-22;230)))
+### Art. 12.
 
-CAPO II Capo II Disposizioni in materia di organizzazione e di personale
-------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 22 NOVEMBRE 2023, N. 230))
 
-### Art. 12
+### Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 22 NOVEMBRE 2023, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-11-22;230)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 22 NOVEMBRE 2023, N. 230))
 
-### Art. 13
+## Norme di abrogazione e finali
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 22 NOVEMBRE 2023, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-11-22;230)))
+Capo III
 
-CAPO III Capo III Norme di abrogazione e finali
------------------------------------------------
+### Art. 14.
 
-### Art. 14
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 22 NOVEMBRE 2023, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 22 NOVEMBRE 2023, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-11-22;230)))
+### Art. 15.
 
-### Art. 15
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 22 NOVEMBRE 2023, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 22 NOVEMBRE 2023, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-11-22;230)))
+### Art. 16.
 
-### Art. 16
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 22 NOVEMBRE 2023, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-11-22;230)))
-
-Tabella A
-
- Tabella A   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 22 NOVEMBRE 2023, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-11-22;230)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 22 NOVEMBRE 2023, N. 230))

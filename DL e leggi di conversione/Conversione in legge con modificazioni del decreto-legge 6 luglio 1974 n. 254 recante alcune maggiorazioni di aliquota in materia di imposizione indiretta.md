@@ -1,75 +1,66 @@
-LEGGE 17 agosto 1974 n. 383
-
-
-LEGGE 17 agosto 1974 n. 383
-===========================
-
-Conversione in legge, con modificazioni, del decreto-legge 6 luglio 1974, n. 254, recante alcune maggiorazioni di aliquota in materia di imposizione indiretta.
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: LEGGE
+numero: 383
+data: 1974-08-17
+titolo: "Conversione in legge, con modificazioni, del decreto-legge 6 luglio 1974, n. 254, recante alcune maggiorazioni di aliquota in materia di imposizione indiretta."
+urn: urn:nir:stato:legge:1974-08-17;383
+codice_redazionale: 074U0383
+vigente: true
+---
 
 La Camera dei deputati ed il Senato della Repubblica hanno approvato;
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-PROMULGA
---------
+PROMULGA la seguente legge:
 
-la seguente legge:
+## Articolo unico
 
-Articolo unico
---------------
+Il [decreto-legge 6 luglio 1974, n. 254](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1974-07-06;254), recante alcune maggiorazioni di aliquota in materia di imposizione indiretta, e' convertito in legge con le seguenti modificazioni:
 
-  
-Il [decreto-legge 6 luglio 1974, n. 254](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1974-07-06;254), recante alcune maggiorazioni di aliquota in materia di imposizione indiretta, e' convertito in legge con le seguenti modificazioni:  
-  
-All'articolo 1 sono aggiunti i seguenti commi:  
-"Per le operazioni soggette all'aliquota del 30 per cento, la percentuale di cui al [quarto comma dell'articolo 27 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-10-26;633~art27-com4), e' stabilita nel 23,05 per cento.  
-Per le cessioni e le importazioni di tabacchi lavorati l'imposta sul valore aggiunto e' dovuta nella misura indicata nelle tabelle allegato A, B, C, D, E al [decreto-legge 22 febbraio 1974, n. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1974-02-22;18), convertito nella [legge 3 aprile 1974, n. 106](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-04-03;106)".  
-All'articolo 3,  
-le parole: "frattaglie e parti commestibili" sono sostituite dalle altre: "e parti commestibili, escluse le frattaglie", e dopo le parole: "della specie bovina" sono inserite le altre: "compresi quelli del genere bufalo";  
-e' aggiunto il seguente comma:  
-"Sono soggetti a disciplina di prezzo da parte del CIP, fino al 31 dicembre 1975, i seguenti prodotti:  
-carni degli animali diversi da quelli della specie bovina;  
-pane comune e/o di piu' largo consumo;  
-paste normali di piu' largo consumo;  
-oli alimentari di oliva e di semi vari miscelati;  
-latte pastorizzato ed omogeneizzato intero e/o di piu' largo consumo;  
-mangimi per la zootecnia".  
-  
-All'articolo 4 e' aggiunto il seguente comma:  
-"L'elevazione dell'aliquota non riguarda il settore dell'edilizia residenziale pubblica".  
-  
-Dopo l'articolo 5 e' inserito il seguente:  
-"Art. 5-bis. - La riduzione all'1 per cento dell'aliquota dell'imposta sul valore aggiunto prevista dall'[articolo 78, primo comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-10-26;633~art78-com1), e' prorogata al 31 dicembre 1975.  
-La riduzione al 3 per cento dell'aliquota IVA prevista dall'[articolo 2 della legge 23 dicembre 1972, n. 821](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1972-12-23;821~art2), e' prorogata al 31 dicembre 1975".  
-  
-All'articolo 6,  
-il primo alinea e' sostituito dal seguente:  
-"al numero 5), dopo la parola: "lince" la locuzione "visone selvaggio e le relative confezioni " e' sostituita con la seguente: "Visone, Pekan, Breitschwanz, Martora, Lontra sealskin, Lontra di fiume, Volpe argentata, Volpe bianca, Ghiottone, Scimmia, Scoiattolo, Orso bianco, Donnola, e le relative confezioni "";  
-al secondo alinea, dopo le parole: "estratti" sono aggiunte le altre: "cosmetici, esclusi saponi, dentifrici, e tutti i prodotti per l'igiene e la pulizia del corpo e per i capelli";  
-al terzo alinea:  
-al numero 25) sono aggiunte le seguenti voci: "apparecchi riceventi, anche combinati con un apparecchio di registrazione o di riproduzione del suono per la radio diffusione; combinati per giradischi e/o per giranastri (v.d. ex15/A.III-b-3";  
-al numero 26) sono soppresse le parole: "dischi" e "nastri"; la parola: "eccetera" e' sostituita con le altre: "e similari"; la locuzione: "v.d. 92.12" e' sostituita dalla seguente: "v.d. ex 92.12";  
-dopo il numero 26) e' aggiunto il seguente: "27) gin e acqueviti, escluse quelle di vino, di vinacce e di frutta";  
-  
-sono aggiunti i seguenti commi:  
-"Per gli acquisti e le importazioni dei prodotti indicati ai numeri 14), 22), 23), 24), 25) e 26) del precedente comma, la detrazione dell'imposta, prevista dall'[articolo 19 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-10-26;633~art19), e' ammessa anche quando i prodotti medesimi sono destinati dall'acquirente o dall'importatore ad essere utilizzati come beni strumentali nella attivita' propria dell'impresa. La detrazione e', altresi', ammessa quando l'acquisto o l'importazione dei prodotti stessi sono effettuati per il diretto impiego, come beni strumentali, nell'esercizio di un'arte o professione.  
-I prodotti di cui ai numeri 22), 23), 24), 25) e 26), se acquistati o importati direttamente dall'utilizzatore, sono esclusi dai previsti aumenti, sempreche' destinati all'uso di scuole elementari e medie, di ospedali e di istituti di ricerca e comunque destinati a scopi scientifici e pedagogici.  
-Sono altresi' esclusi dagli aumenti i consumi di metalli e di minerali, i fossili, gli insetti, i pesci, gli animali conservati o impagliati, gli scheletri, gusci e altre parti di animali che siano destinati alle raccolte delle scuole di ogni ordine e grado, alle universita' ed agli istituti di ricerca e comunque impiegati a scopi di studio e pedagogici".  
-All'articolo 7,  
-al primo comma sono aggiunte, in fine, le seguenti parole: "con esclusione degli atti di concessione di aree demaniali per industria navale, anche se aventi per oggetto opifici ed impianti".  
-Dopo l'articolo 9 e' inserito il seguente:  
-"Art. 9-bis. - Le cambiali, i vaglia cambiari e gli assegni bancari emessi nei quindici giorni successivi alla data di pubblicazione del presente decreto e regolarmente assoggettati al bollo nelle misure anteriormente vigenti, possono essere integrati dell'imposta dovuta nelle misure fissate dal precedente articolo 9, senza applicazione di penalita', entro quindici giorni dalla data di pubblicazione della legge di conversione.  
-All'integrazione sara' provveduto mediante marche per cambiali da annullarsi dagli uffici del Registro e, ove occorra, anche a mezzo visto per bollo.  
-Le cambiali, i vaglia cambiari e gli assegni bancari, regolarizzati nei modi indicati dal precedente comma, conservano la qualita' di titolo esecutivo sin dalla loro emissione".  
-  
+ All'articolo 1 sono aggiunti i seguenti commi:
+ "Per le operazioni soggette all'aliquota del 30 per cento, la percentuale di cui al [quarto comma dell'articolo 27 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), e' stabilita nel 23,05 per cento.
+ Per le cessioni e le importazioni di tabacchi lavorati l'imposta sul valore aggiunto e' dovuta nella misura indicata nelle tabelle allegato A, B, C, D, E al [decreto-legge 22 febbraio 1974, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1974-02-22;18), convertito nella [legge 3 aprile 1974, n. 106](Conversione%20in%20legge%20del%20decreto-legge%2022%20febbraio%201974%20n.%2018%20che%20modifica%20le%20tabelle%20allegate%20A%20B%20C%20D%20ed%20E%20al%20decreto-legge%2018%20dicembre%201972%20n.%20787%20convertito%20con%20modificazioni%20nella%20leg_be4eb8b42330.md)".
+ All'articolo 3,
+ le parole: "frattaglie e parti commestibili" sono sostituite dalle altre: "e parti commestibili, escluse le frattaglie", e dopo le parole: "della specie bovina" sono inserite le altre: "compresi quelli del genere bufalo";
+ e' aggiunto il seguente comma:
+ "Sono soggetti a disciplina di prezzo da parte del CIP, fino al 31 dicembre 1975, i seguenti prodotti:
+ carni degli animali diversi da quelli della specie bovina;
+ pane comune e/o di piu' largo consumo;
+ paste normali di piu' largo consumo;
+ oli alimentari di oliva e di semi vari miscelati;
+ latte pastorizzato ed omogeneizzato intero e/o di piu' largo consumo;
+ mangimi per la zootecnia".
+
+ All'articolo 4 e' aggiunto il seguente comma:
+ "L'elevazione dell'aliquota non riguarda il settore dell'edilizia residenziale pubblica".
+
+ Dopo l'articolo 5 e' inserito il seguente:
+ "Art. 5-bis. - La riduzione all'1 per cento dell'aliquota dell'imposta sul valore aggiunto prevista dall'[articolo 78, primo comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), e' prorogata al 31 dicembre 1975.
+ La riduzione al 3 per cento dell'aliquota IVA prevista dall'[articolo 2 della legge 23 dicembre 1972, n. 821](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1972-12-23;821#art_2), e' prorogata al 31 dicembre 1975".
+
+ All'articolo 6,
+ il primo alinea e' sostituito dal seguente:
+ "al numero 5), dopo la parola: "lince" la locuzione "visone selvaggio e le relative confezioni " e' sostituita con la seguente: "Visone, Pekan, Breitschwanz, Martora, Lontra sealskin, Lontra di fiume, Volpe argentata, Volpe bianca, Ghiottone, Scimmia, Scoiattolo, Orso bianco, Donnola, e le relative confezioni "";
+ al secondo alinea, dopo le parole: "estratti" sono aggiunte le altre: "cosmetici, esclusi saponi, dentifrici, e tutti i prodotti per l'igiene e la pulizia del corpo e per i capelli";
+ al terzo alinea:
+ al numero 25) sono aggiunte le seguenti voci: "apparecchi riceventi, anche combinati con un apparecchio di registrazione o di riproduzione del suono per la radio diffusione; combinati per giradischi e/o per giranastri (v.d. ex15/A.III-b-3";
+ al numero 26) sono soppresse le parole: "dischi" e "nastri"; la parola: "eccetera" e' sostituita con le altre: "e similari"; la locuzione: "v.d. 92.12" e' sostituita dalla seguente: "v.d. ex 92.12";
+ dopo il numero 26) e' aggiunto il seguente: "27) gin e acqueviti, escluse quelle di vino, di vinacce e di frutta";
+
+ sono aggiunti i seguenti commi:
+ "Per gli acquisti e le importazioni dei prodotti indicati ai numeri 14), 22), 23), 24), 25) e 26) del precedente comma, la detrazione dell'imposta, prevista dall'[articolo 19 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), e' ammessa anche quando i prodotti medesimi sono destinati dall'acquirente o dall'importatore ad essere utilizzati come beni strumentali nella attivita' propria dell'impresa. La detrazione e', altresi', ammessa quando l'acquisto o l'importazione dei prodotti stessi sono effettuati per il diretto impiego, come beni strumentali, nell'esercizio di un'arte o professione.
+ I prodotti di cui ai numeri 22), 23), 24), 25) e 26), se acquistati o importati direttamente dall'utilizzatore, sono esclusi dai previsti aumenti, sempreche' destinati all'uso di scuole elementari e medie, di ospedali e di istituti di ricerca e comunque destinati a scopi scientifici e pedagogici.
+ Sono altresi' esclusi dagli aumenti i consumi di metalli e di minerali, i fossili, gli insetti, i pesci, gli animali conservati o impagliati, gli scheletri, gusci e altre parti di animali che siano destinati alle raccolte delle scuole di ogni ordine e grado, alle universita' ed agli istituti di ricerca e comunque impiegati a scopi di studio e pedagogici".
+ All'articolo 7,
+ al primo comma sono aggiunte, in fine, le seguenti parole: "con esclusione degli atti di concessione di aree demaniali per industria navale, anche se aventi per oggetto opifici ed impianti".
+ Dopo l'articolo 9 e' inserito il seguente:
+ "Art. 9-bis. - Le cambiali, i vaglia cambiari e gli assegni bancari emessi nei quindici giorni successivi alla data di pubblicazione del presente decreto e regolarmente assoggettati al bollo nelle misure anteriormente vigenti, possono essere integrati dell'imposta dovuta nelle misure fissate dal precedente articolo 9, senza applicazione di penalita', entro quindici giorni dalla data di pubblicazione della legge di conversione.
+ All'integrazione sara' provveduto mediante marche per cambiali da annullarsi dagli uffici del Registro e, ove occorra, anche a mezzo visto per bollo.
+ Le cambiali, i vaglia cambiari e gli assegni bancari, regolarizzati nei modi indicati dal precedente comma, conservano la qualita' di titolo esecutivo sin dalla loro emissione".
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data a Roma, addi' 17 agosto 1974
+Data a Roma, addi' 17 agosto 1974
 
-LEONE RUMOR - TANASSI - GIOLITTI - COLOMBO
-
-Visto, il Guardasigilli: ZAGARI
+LEONE RUMOR - TANASSI - GIOLITTI - COLOMBO Visto, il Guardasigilli: ZAGARI

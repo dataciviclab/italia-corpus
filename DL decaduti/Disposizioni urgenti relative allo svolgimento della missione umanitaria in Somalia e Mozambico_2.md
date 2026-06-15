@@ -1,50 +1,34 @@
-DECRETO-LEGGE 14 maggio 1993 n. 141
+---
+tipo: DECRETO-LEGGE
+numero: 141
+data: 1993-05-14
+titolo: "Disposizioni urgenti relative allo svolgimento della missione umanitaria in Somalia e Mozambico."
+urn: urn:nir:stato:decreto.legge:1993-05-14;141
+codice_redazionale: 093G0207
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 14 maggio 1993 n. 141
-===================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 22 FEBBRAIO 1994, N. 125](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201993%20n.%20551%20recante%20disposizioni%20urgenti%20relative%20allo%20svolgimento%20della%20missione%20umanitaria%20in%20Somalia%20e%20Mozambico.md)
 
-Disposizioni urgenti relative allo svolgimento della missione umanitaria in Somalia e Mozambico.
-------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 15/5/93.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 22 FEBBRAIO 1994, N. 125](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201993%20n.%20551%20recante%20disposizioni%20urgenti%20relative%20allo%20svolgimento%20della%20missione%20umanitaria%20in%20Somalia%20e%20Mozambico.md)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 22 FEBBRAIO 1994, N. 125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;125)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 22 FEBBRAIO 1994, N. 125](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201993%20n.%20551%20recante%20disposizioni%20urgenti%20relative%20allo%20svolgimento%20della%20missione%20umanitaria%20in%20Somalia%20e%20Mozambico.md)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 22 FEBBRAIO 1994, N. 125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;125)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 22 FEBBRAIO 1994, N. 125](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201993%20n.%20551%20recante%20disposizioni%20urgenti%20relative%20allo%20svolgimento%20della%20missione%20umanitaria%20in%20Somalia%20e%20Mozambico.md)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 22 FEBBRAIO 1994, N. 125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;125)
-  
-
-Art. 4
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 22 FEBBRAIO 1994, N. 125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;125)
-  
-
-Art. 5
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 22 FEBBRAIO 1994, N. 125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;125)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 22 FEBBRAIO 1994, N. 125](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201993%20n.%20551%20recante%20disposizioni%20urgenti%20relative%20allo%20svolgimento%20della%20missione%20umanitaria%20in%20Somalia%20e%20Mozambico.md)

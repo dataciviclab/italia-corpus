@@ -1,24 +1,19 @@
-DECRETO-LEGGE 07 maggio 1996 n. 247
+---
+tipo: DECRETO-LEGGE
+numero: 247
+data: 1996-05-07
+titolo: "Disposizioni urgenti per il personale della Federconsorzi."
+urn: urn:nir:stato:decreto.legge:1996-05-07;247
+codice_redazionale: 096G0263
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 07 maggio 1996 n. 247
-===================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 20 DICEMBRE 1996, N. 642](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20ottobre%201996%20n.%20552%20recante%20interventi%20urgenti%20nei%20settori%20agricoli%20e%20fermo%20biologico%20della%20pesca%20per%20il%201996.md)
 
-Disposizioni urgenti per il personale della Federconsorzi.
-----------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 9/5/1996.Decreto-Legge decaduto per mancata conversione.
-
-Art. 1
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 20 DICEMBRE 1996, N. 642](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-20;642)
-  
-
-Art. 2
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 20 DICEMBRE 1996, N. 642](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-20;642)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 20 DICEMBRE 1996, N. 642](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20ottobre%201996%20n.%20552%20recante%20interventi%20urgenti%20nei%20settori%20agricoli%20e%20fermo%20biologico%20della%20pesca%20per%20il%201996.md)

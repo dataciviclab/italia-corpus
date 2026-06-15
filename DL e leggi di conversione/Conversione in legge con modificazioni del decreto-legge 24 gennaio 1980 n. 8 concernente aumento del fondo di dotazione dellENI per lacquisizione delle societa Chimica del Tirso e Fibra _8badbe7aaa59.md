@@ -1,39 +1,30 @@
-LEGGE 24 marzo 1980 n. 81
-
-
-LEGGE 24 marzo 1980 n. 81
-=========================
-
-Conversione in legge, con modificazioni, del decreto-legge 24 gennaio 1980, n. 8, concernente aumento del fondo di dotazione dell'ENI per l'acquisizione delle societa' Chimica del Tirso e Fibra del Tirso e per il risanamento del settore fibre dell'ENI.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: LEGGE
+numero: 81
+data: 1980-03-24
+titolo: "Conversione in legge, con modificazioni, del decreto-legge 24 gennaio 1980, n. 8, concernente aumento del fondo di dotazione dell'ENI per l'acquisizione delle societa' Chimica del Tirso e Fibra del Tirso e per il risanamento del settore fibre dell'ENI."
+urn: urn:nir:stato:legge:1980-03-24;81
+codice_redazionale: 080U0081
+vigente: true
+---
 
 La Camera dei deputati ed il Senato della Repubblica hanno approvato;
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-PROMULGA
---------
+PROMULGA la seguente legge:
 
-la seguente legge:
+## Articolo unico
 
-Articolo unico
---------------
-
-  
-Il [decreto-legge 24 gennaio 1980, n. 8](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1980-01-24;8), concernente l'aumento del fondo di dotazione dell'ENI per l'acquisizione delle societa' Chimica del Tirso e Fibra del Tirso e per il risanamento del settore fibre dell'ENI, e' convertito in legge con la seguente modificazione:  
-L'articolo 2 e' sostituito dal seguente:  
-"Le iniziative industriali del settore fibre in corso di realizzazione nei comuni di Ottana, Isili e Lula sono ammesse, ancorche' non interamente compiute per effetto di deliberazioni del CIPI, e anche in deroga alle disposizioni delle leggi per l'industrializzazione del Mezzogiorno, ai contributi in conto capitale previsti dai concessi pareri di conformita', in misura corrispondente all'ammontare degli investimenti effettivamente realizzati alla data di entrata in vigore del presente decreto e comunque non superiori a lire miliardi 37,6.  
-I contributi di cui al precedente comma sono erogati sulla base di dichiarazioni degli istituti finanziatori che certifichino lo stato di avanzamento lavori da essi gia' riconosciuto ai fini dell'erogazione dei mutui.  
-I contributi erogati in conto interessi sui finanziamenti gia concessi dagli istituti di credito per le iniziative di cui al primo comma sono mantenuti nell'importo massimo di lire miliardi 10, per tutta la durata prevista dai contratti.  
-Le agevolazioni di cui ai precedenti commi sono mantenute anche in caso di alienazione, in tutto o in parte, dei cespiti oggetto dell'intervento".  
-  
+Il [decreto-legge 24 gennaio 1980, n. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1980-01-24;8), concernente l'aumento del fondo di dotazione dell'ENI per l'acquisizione delle societa' Chimica del Tirso e Fibra del Tirso e per il risanamento del settore fibre dell'ENI, e' convertito in legge con la seguente modificazione:
+ L'articolo 2 e' sostituito dal seguente:
+ "Le iniziative industriali del settore fibre in corso di realizzazione nei comuni di Ottana, Isili e Lula sono ammesse, ancorche' non interamente compiute per effetto di deliberazioni del CIPI, e anche in deroga alle disposizioni delle leggi per l'industrializzazione del Mezzogiorno, ai contributi in conto capitale previsti dai concessi pareri di conformita', in misura corrispondente all'ammontare degli investimenti effettivamente realizzati alla data di entrata in vigore del presente decreto e comunque non superiori a lire miliardi 37,6.
+ I contributi di cui al precedente comma sono erogati sulla base di dichiarazioni degli istituti finanziatori che certifichino lo stato di avanzamento lavori da essi gia' riconosciuto ai fini dell'erogazione dei mutui.
+ I contributi erogati in conto interessi sui finanziamenti gia concessi dagli istituti di credito per le iniziative di cui al primo comma sono mantenuti nell'importo massimo di lire miliardi 10, per tutta la durata prevista dai contratti.
+ Le agevolazioni di cui ai precedenti commi sono mantenute anche in caso di alienazione, in tutto o in parte, dei cespiti oggetto dell'intervento".
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data a Roma, addi' 24 marzo 1980
+Data a Roma, addi' 24 marzo 1980
 
-PERTINI COSSIGA - LOMBARDINI BISAGLIA
-
-Visto, il Guardasigilli: MORLINO
+PERTINI COSSIGA - LOMBARDINI BISAGLIA Visto, il Guardasigilli: MORLINO

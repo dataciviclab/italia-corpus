@@ -1,106 +1,69 @@
-DECRETO-LEGGE 11 settembre 1992 n. 374
+---
+tipo: DECRETO-LEGGE
+numero: 374
+data: 1992-09-11
+titolo: "Disposizioni urgenti concernenti l'incremento dell'organico del Corpo di polizia penitenziaria, il trattamento di persone detenute affette da infezione da HIV, le modifiche al testo unico delle leggi in materia di stupefacenti e le norme per l'attivazione di nuovi uffici giudiziari."
+urn: urn:nir:stato:decreto.legge:1992-09-11;374
+codice_redazionale: 092G0419
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 11 settembre 1992 n. 374
-======================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 14 LUGLIO 1993, N. 222](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20maggio%201993%20n.%20139%20recante%20disposizioni%20urgenti%20relative%20al%20trattamento%20di%20persone%20detenute%20affette%20da%20infezione%20da%20HIV%20e%20di%20to_e2b340453a71.md)
 
-Disposizioni urgenti concernenti l'incremento dell'organico del Corpo di polizia penitenziaria, il trattamento di persone detenute affette da infezione da HIV, le modifiche al testo unico delle leggi in materia di stupefacenti e le norme per l'attivazione di nuovi uffici giudiziari.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 13-09-1992.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 14 LUGLIO 1993, N. 222](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20maggio%201993%20n.%20139%20recante%20disposizioni%20urgenti%20relative%20al%20trattamento%20di%20persone%20detenute%20affette%20da%20infezione%20da%20HIV%20e%20di%20to_e2b340453a71.md)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 14 LUGLIO 1993, N. 222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-14;222)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 14 LUGLIO 1993, N. 222](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20maggio%201993%20n.%20139%20recante%20disposizioni%20urgenti%20relative%20al%20trattamento%20di%20persone%20detenute%20affette%20da%20infezione%20da%20HIV%20e%20di%20to_e2b340453a71.md)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 14 LUGLIO 1993, N. 222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-14;222)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 14 LUGLIO 1993, N. 222](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20maggio%201993%20n.%20139%20recante%20disposizioni%20urgenti%20relative%20al%20trattamento%20di%20persone%20detenute%20affette%20da%20infezione%20da%20HIV%20e%20di%20to_e2b340453a71.md)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 14 LUGLIO 1993, N. 222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-14;222)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 14 LUGLIO 1993, N. 222](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20maggio%201993%20n.%20139%20recante%20disposizioni%20urgenti%20relative%20al%20trattamento%20di%20persone%20detenute%20affette%20da%20infezione%20da%20HIV%20e%20di%20to_e2b340453a71.md)
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 14 LUGLIO 1993, N. 222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-14;222)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 14 LUGLIO 1993, N. 222](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20maggio%201993%20n.%20139%20recante%20disposizioni%20urgenti%20relative%20al%20trattamento%20di%20persone%20detenute%20affette%20da%20infezione%20da%20HIV%20e%20di%20to_e2b340453a71.md)
 
-Art. 5
-------
+## Art. 7.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 14 LUGLIO 1993, N. 222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-14;222)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 14 LUGLIO 1993, N. 222](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20maggio%201993%20n.%20139%20recante%20disposizioni%20urgenti%20relative%20al%20trattamento%20di%20persone%20detenute%20affette%20da%20infezione%20da%20HIV%20e%20di%20to_e2b340453a71.md)
 
-Art. 6
-------
+## Art. 8.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 14 LUGLIO 1993, N. 222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-14;222)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 14 LUGLIO 1993, N. 222](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20maggio%201993%20n.%20139%20recante%20disposizioni%20urgenti%20relative%20al%20trattamento%20di%20persone%20detenute%20affette%20da%20infezione%20da%20HIV%20e%20di%20to_e2b340453a71.md)
 
-Art. 7
-------
+## Art. 9.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 14 LUGLIO 1993, N. 222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-14;222)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 14 LUGLIO 1993, N. 222](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20maggio%201993%20n.%20139%20recante%20disposizioni%20urgenti%20relative%20al%20trattamento%20di%20persone%20detenute%20affette%20da%20infezione%20da%20HIV%20e%20di%20to_e2b340453a71.md)
 
-Art. 8
-------
+## Art. 10.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 14 LUGLIO 1993, N. 222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-14;222)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 14 LUGLIO 1993, N. 222](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20maggio%201993%20n.%20139%20recante%20disposizioni%20urgenti%20relative%20al%20trattamento%20di%20persone%20detenute%20affette%20da%20infezione%20da%20HIV%20e%20di%20to_e2b340453a71.md)
 
-Art. 9
-------
+## Art. 11.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 14 LUGLIO 1993, N. 222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-14;222)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 14 LUGLIO 1993, N. 222](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20maggio%201993%20n.%20139%20recante%20disposizioni%20urgenti%20relative%20al%20trattamento%20di%20persone%20detenute%20affette%20da%20infezione%20da%20HIV%20e%20di%20to_e2b340453a71.md)
 
-Art. 10
--------
+## Art. 12.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 14 LUGLIO 1993, N. 222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-14;222)
-  
-
-Art. 11
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 14 LUGLIO 1993, N. 222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-14;222)
-  
-
-Art. 12
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 14 LUGLIO 1993, N. 222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-14;222)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 14 LUGLIO 1993, N. 222](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20maggio%201993%20n.%20139%20recante%20disposizioni%20urgenti%20relative%20al%20trattamento%20di%20persone%20detenute%20affette%20da%20infezione%20da%20HIV%20e%20di%20to_e2b340453a71.md)

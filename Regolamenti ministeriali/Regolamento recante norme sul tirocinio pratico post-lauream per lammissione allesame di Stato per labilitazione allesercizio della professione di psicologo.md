@@ -1,28 +1,26 @@
-DECRETO 13 gennaio 1992 n. 239
-
-
-DECRETO 13 gennaio 1992 n. 239
-==============================
-
-Regolamento recante norme sul tirocinio pratico post-lauream per l'ammissione all'esame di Stato per l'abilitazione all'esercizio della professione di psicologo.
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 8/4/1992
+---
+tipo: DECRETO
+numero: 239
+data: 1992-01-13
+titolo: "Regolamento recante norme sul tirocinio pratico post-lauream per l'ammissione all'esame di Stato per l'abilitazione all'esercizio della professione di psicologo."
+urn: urn:nir:ministero.universita.e.ricerca.scientifica.e.tecnologica:decreto:1992-01-13;239
+codice_redazionale: 092G0265
+vigente: true
+---
 
 IL MINISTRO DELL'UNIVERSITA' E DELLA
-------------------------------------
 
 RICERCA SCIENTIFICA E TECNOLOGICA
 
-Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Vista la [legge 9 maggio 1989, n. 168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-09;168);
+Vista la [legge 9 maggio 1989, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-09;168);
 
-Vista la [legge 18 febbraio 1989, n. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-02-18;56), concernente l'ordinamento della professione di psicologo ed in particolare l'art. 2, comma 3, che rimette ad apposito decreto ministeriale la disciplina del tirocinio pratico annuale per i laureati in psicologia;
+Vista la [legge 18 febbraio 1989, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-02-18;56), concernente l'ordinamento della professione di psicologo ed in particolare l'art. 2, comma 3, che rimette ad apposito decreto ministeriale la disciplina del tirocinio pratico annuale per i laureati in psicologia;
 
-Visto l'[art. 17 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17);
+Visto l'[art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17);
 
-Vista la [legge 12 gennaio 1991, n. 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-12;13);
+Vista la [legge 12 gennaio 1991, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-12;13);
 
 Udito il parere del Consiglio universitario nazionale espresso nell'adunanza del 15 febbraio 1991;
 
@@ -32,52 +30,65 @@ Vista la nota n. 19/UGAL/92/V.3 dell'8 gennaio 1992 con cui e' stata data comuni
 
 A D O T T A il seguente regolamento:
 
-Art. 1
-------
+## Art. 1.
 
-1. All'esame di Stato per l'abilitazione all'esercizio della professione di psicologo possono essere ammessi i laureati in psicologia che abbiano compiuto un tirocinio pratico annuale post- lauream.
+1.
 
-2. Il tirocinio deve essere effettuato presso i dipartimenti e gli istituti di discipline psicologiche delle universita' ovvero presso strutture pubbliche o private ritenute idonee dalle autorita' accademiche d'intesa con il competente consiglio dell'Ordine.
+All'esame di Stato per l'abilitazione all'esercizio della professione di psicologo possono essere ammessi i laureati in psicologia che abbiano compiuto un tirocinio pratico annuale post- lauream.
 
-3. La pratica professionale che si articola in due semestri deve riguardare gli aspetti applicativi di due delle seguenti aree: psicologia generale, psicologia clinica, psicologia sociale e psicologia dello sviluppo.
+2.
 
-4. Lo svolgimento del tirocinio viene documentato da un apposito attestato rilasciato dalla competente universita' che rechi il diario di presenza giornaliera di ciascun tirocinante.
+Il tirocinio deve essere effettuato presso i dipartimenti e gli istituti di discipline psicologiche delle universita' ovvero presso strutture pubbliche o private ritenute idonee dalle autorita' accademiche d'intesa con il competente consiglio dell'Ordine.
 
-5. Coloro che intendano svolgere il tirocinio pratico presso istituti universitari debbono farne domanda con l'indicazione delle due aree scelte al rettore dell'universita' il quale sulla base delle istanze pervenute e delle aree prescelte provvedera' alla assegnazione degli aspiranti agli istituti o ai dipartimenti, sentite le facolta' interessate.
+3.
 
-6. Coloro che intendano svolgere il tirocinio presso strutture non universitarie debbono farne domanda direttamente all'amministrazione degli enti ai quali tali strutture appartengono comunicando preventivamente alla rispettiva universita' l'ente prescelto.
+La pratica professionale che si articola in due semestri deve riguardare gli aspetti applicativi di due delle seguenti aree: psicologia generale, psicologia clinica, psicologia sociale e psicologia dello sviluppo.
 
-7. E' ammessa la successiva sostituzione con altri enti previsti dal presente decreto, previa autorizzazione del rettore. I responsabili del tirocinio debbono giornalmente annotare le esercitazioni pratiche frequantate nonche' le eventuali assenze del praticante. I tirocinanti che siano risultati assenti per qualsiasi motivo per un periodo superiore ad un terzo del periodo di frequenza prescritto non possono accedere agli esami di Stato ma devono ripetere il tirocinio pratico con l'osservanza delle stesse modalita' sopraindicate.
+4.
 
-8. Le attestazioni di frequenza controfirmate dal responsabile della struttura universitaria o dell'ente debbono essere consegnate al compimento del tirocinio alla segreteria della competente facolta' che le conserva nel fascicolo personale di ogni interessato rilasciando un unico attestato dal quale risulti l'effettivo svolgimento del tirocinio stesso.
+Lo svolgimento del tirocinio viene documentato da un apposito attestato rilasciato dalla competente universita' che rechi il diario di presenza giornaliera di ciascun tirocinante.
 
-9. I due semestri di tirocinio avranno carattere continuativo con inizio il 15 marzo ed il 15 settembre di ogni anno.  
-AVVERTENZA:  
-Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+5.
 
-Note alle premesse:  
-- La [legge n. 168/1989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;168) istituisce il Ministero dell'universita' e della ricerca scientifica e tecnologica;  
-- Il [comma 3 dell'art. 2 della legge n. 56/1989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;56~art2-com3), istitutiva della professione di psicologo, cosi' recita: "Sono ammessi all'esame di Stato i laureati in psicologia che siano in possesso di adeguata documentazione attestante l'effettuazione di un tirocinio pratico secondo modalita' stabilite con decreto del Ministro della pubblica istruzione, da emanarsi tassativamente entro un anno dalla data di entrata in vigore della presente legge".  
-- Il [comma 3 dell'art. 17 della legge n. 400/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.  
-Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.  
-- La [legge n. 13/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;13) reca norme sulla: "Determinazione degli atti amministrativi da adottarsi nella forma del decreto del Presidente della Repubblica".
+Coloro che intendano svolgere il tirocinio pratico presso istituti universitari debbono farne domanda con l'indicazione delle due aree scelte al rettore dell'universita' il quale sulla base delle istanze pervenute e delle aree prescelte provvedera' alla assegnazione degli aspiranti agli istituti o ai dipartimenti, sentite le facolta' interessate.
 
-Art. 2
-------
+6.
 
-Norme transitorie
+Coloro che intendano svolgere il tirocinio presso strutture non universitarie debbono farne domanda direttamente all'amministrazione degli enti ai quali tali strutture appartengono comunicando preventivamente alla rispettiva universita' l'ente prescelto.
 
-1. Alle prime due sessioni di esami di Stato per l'abilitazione all'esercizio della professione di psicologo potranno essere ammessi prescindendo dall'anno di tirocinio e comunque subordinatamente alla approvazione delle autorita' accademiche anche coloro che dopo la laurea abbiano svolto continuativamente per almeno un anno presso universita', enti pubblici o privati attivita' - debitamente documentata - che forma oggetto della professione di psicologo.
+7.
 
-2. La disposizione relativa all'intesa tra le autorita' accademiche ed i consigli dell'ordine avra' effetto a decorrere dalle elezioni dei consigli dell'Ordine.
+E' ammessa la successiva sostituzione con altri enti previsti dal presente decreto, previa autorizzazione del rettore. I responsabili del tirocinio debbono giornalmente annotare le esercitazioni pratiche frequantate nonche' le eventuali assenze del praticante. I tirocinanti che siano risultati assenti per qualsiasi motivo per un periodo superiore ad un terzo del periodo di frequenza prescritto non possono accedere agli esami di Stato ma devono ripetere il tirocinio pratico con l'osservanza delle stesse modalita' sopraindicate.
+
+8.
+
+Le attestazioni di frequenza controfirmate dal responsabile della struttura universitaria o dell'ente debbono essere consegnate al compimento del tirocinio alla segreteria della competente facolta' che le conserva nel fascicolo personale di ogni interessato rilasciando un unico attestato dal quale risulti l'effettivo svolgimento del tirocinio stesso.
+
+9.
+
+I due semestri di tirocinio avranno carattere continuativo con inizio il 15 marzo ed il 15 settembre di ogni anno.
+ AVVERTENZA:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+
+Note alle premesse:
+ - La [legge n. 168/1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;168) istituisce il Ministero dell'universita' e della ricerca scientifica e tecnologica;
+ - Il [comma 3 dell'art. 2 della legge n. 56/1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;56#art_2-com3), istitutiva della professione di psicologo, cosi' recita: "Sono ammessi all'esame di Stato i laureati in psicologia che siano in possesso di adeguata documentazione attestante l'effettuazione di un tirocinio pratico secondo modalita' stabilite con decreto del Ministro della pubblica istruzione, da emanarsi tassativamente entro un anno dalla data di entrata in vigore della presente legge".
+ - Il [comma 3 dell'art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.
+ Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
+ - La [legge n. 13/1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;13) reca norme sulla: "Determinazione degli atti amministrativi da adottarsi nella forma del decreto del Presidente della Repubblica".
+
+## Art. 2. — Norme transitorie
+
+1.
+
+Alle prime due sessioni di esami di Stato per l'abilitazione all'esercizio della professione di psicologo potranno essere ammessi prescindendo dall'anno di tirocinio e comunque subordinatamente alla approvazione delle autorita' accademiche anche coloro che dopo la laurea abbiano svolto continuativamente per almeno un anno presso universita', enti pubblici o privati attivita' - debitamente documentata - che forma oggetto della professione di psicologo.
+
+2.
+
+La disposizione relativa all'intesa tra le autorita' accademiche ed i consigli dell'ordine avra' effetto a decorrere dalle elezioni dei consigli dell'Ordine.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 13 gennaio 1992
+Roma, 13 gennaio 1992
 
-Il Ministro: RUBERTI
-
-Visto, il Guardasigilli: MARTELLI Registrato alla Corte dei conti il 3 marzo 1992
-
-Registro n. 5 Universita' e ricerca, foglio n. 32
+Il Ministro: RUBERTI Visto, il Guardasigilli: MARTELLI Registrato alla Corte dei conti il 3 marzo 1992 Registro n. 5 Universita' e ricerca, foglio n. 32

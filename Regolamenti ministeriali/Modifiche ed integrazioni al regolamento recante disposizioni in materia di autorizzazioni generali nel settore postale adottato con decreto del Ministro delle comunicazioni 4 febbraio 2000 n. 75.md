@@ -1,287 +1,171 @@
-DECRETO 15 febbraio 2006 n. 134
-
-
-DECRETO 15 febbraio 2006 n. 134
-===============================
-
-Modifiche ed integrazioni al regolamento recante disposizioni in materia di autorizzazioni generali nel settore postale, adottato con decreto del Ministro delle comunicazioni 4 febbraio 2000, n. 75.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/4/2006
+---
+tipo: DECRETO
+numero: 134
+data: 2006-02-15
+titolo: "Modifiche ed integrazioni al regolamento recante disposizioni in materia di autorizzazioni generali nel settore postale, adottato con decreto del Ministro delle comunicazioni 4 febbraio 2000, n. 75."
+urn: urn:nir:ministero.comunicazioni:decreto:2006-02-15;134
+codice_redazionale: 006G0150
+vigente: true
+---
 
 IL MINISTRO DELLE COMUNICAZIONI
--------------------------------
 
-Visto il codice postale e delle telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-03-29;156);
+Visto il codice postale e delle telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
-Visto il [decreto del Presidente della Repubblica 29 maggio 1982, n. 655](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-05-29;655), che ha approvato il regolamento riguardante i servizi delle corrispondenze e dei pacchi;
+Visto il [decreto del Presidente della Repubblica 29 maggio 1982, n. 655](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20libri%20I%20e%20II%20del%20codice%20postale%20e%20delle%20telecomunicazioni%20norme%20generali%20e%20servizi%20delle%20corrispondenze%20e%20dei%20pacchi.md), che ha approvato il regolamento riguardante i servizi delle corrispondenze e dei pacchi;
 
-Vista la [legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241);
+Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241);
 
-Visto il [decreto-legge 1° dicembre 1993, n. 487](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-12-01;487), convertito, con modificazioni, dalla [legge 29 gennaio 1994, n. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-29;71), recante la trasformazione dell'Amministrazione delle poste e delle telecomunicazioni in ente pubblico economico e la riorganizzazione del Ministero delle poste e delle telecomunicazioni;
+Visto il [decreto-legge 1° dicembre 1993, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-12-01;487), convertito, con modificazioni, dalla [legge 29 gennaio 1994, n. 71](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20dicembre%201993%20n.%20487%20recante%20trasformazione%20dellAmministrazione%20delle%20poste%20e%20delle%20telecomunicazioni%20in%20ente%20pubblico%20economico_f513628cd1cd.md), recante la trasformazione dell'Amministrazione delle poste e delle telecomunicazioni in ente pubblico economico e la riorganizzazione del Ministero delle poste e delle telecomunicazioni;
 
-Vista la direttiva del Presidente del Consiglio dei Ministri 27 gennaio 1994, recante «Principi in materia di erogazione dei servizi pubblici», [pubblicata nella Gazzetta Ufficiale n. 43 del 22 febbraio 1994](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1994-02-22&numeroGazzetta=43);
+Vista la direttiva del Presidente del Consiglio dei Ministri 27 gennaio 1994, recante «Principi in materia di erogazione dei servizi pubblici», pubblicata nella Gazzetta Ufficiale n. 43 del 22 febbraio 1994;
 
-Vista la [direttiva n. 97/67/CE del Parlamento europeo e del Consiglio del 15 dicembre 1997](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31997L0067) concernente regole comuni per lo sviluppo del mercato interno dei servizi postali comunitari ed il miglioramento della qualita' del servizio;
+Vista la [direttiva n. 97/67/CE del Parlamento europeo e del Consiglio del 15 dicembre 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1997;67) concernente regole comuni per lo sviluppo del mercato interno dei servizi postali comunitari ed il miglioramento della qualita' del servizio;
 
-Visto il [decreto legislativo 22 luglio 1999, n. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-22;261), che ha trasposto la predetta [direttiva 97/67/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31997L0067) ed, in particolare, l'articolo 2, comma 1, che ha designato quale autorita' di regolamentazione del settore postale il Ministero delle comunicazioni e l'articolo 6 che prevede l'emanazione di un regolamento ministeriale per il conseguimento delle autorizzazioni generali relative ai servizi non rientranti nell'ambito del servizio universale;
+Visto il [decreto legislativo 22 luglio 1999, n. 261](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2097-67-CE%20concernente%20regole%20comuni%20per%20lo%20sviluppo%20del%20mercato%20interno%20dei%20servizi%20postali%20comunitari%20e%20per%20il%20miglioramento%20della%20qualita%20del%20servizio.md), che ha trasposto la predetta [direttiva 97/67/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1997;67) ed, in particolare, l'articolo 2, comma 1, che ha designato quale autorita' di regolamentazione del settore postale il Ministero delle comunicazioni e l'articolo 6 che prevede l'emanazione di un regolamento ministeriale per il conseguimento delle autorizzazioni generali relative ai servizi non rientranti nell'ambito del servizio universale;
 
 Visto, altresi', l'articolo 23, comma 2, del medesimo decreto legislativo, che affida a Poste Italiane S.p.a. l'espletamento del servizio postale universale;
 
-Visto il [decreto legislativo 30 luglio 1999, n. 286](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;286), ed in particolare l'articolo 11, che dispone in tema di qualita' dei servizi pubblici e carte dei servizi;
+Visto il [decreto legislativo 30 luglio 1999, n. 286](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20e%20potenziamento%20dei%20meccanismi%20e%20strumenti%20di%20monitoraggio%20e%20valutazione%20dei%20costi%20dei%20rendimenti%20e%20dei%20risultati%20dellattivita%20svolta%20dalle%20amministrazioni%20pubbliche%20a%20norma%20dell_79b83f91a15a.md), ed in particolare l'articolo 11, che dispone in tema di qualita' dei servizi pubblici e carte dei servizi;
 
-Visto il [decreto del Ministro delle comunicazioni 4 febbraio 2000, n. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.comunicazioni:decreto:2000-02-04;75), che dispone in materia di autorizzazioni generali nel settore postale;
+Visto il [decreto del Ministro delle comunicazioni 4 febbraio 2000, n. 75](Regolamento%20recante%20disposizioni%20in%20materia%20di%20autorizzazioni%20generali%20nel%20settore%20postale.md), che dispone in materia di autorizzazioni generali nel settore postale;
 
-Visto il decreto del Ministro delle comunicazioni 17 aprile 2000 con il quale e' stata confermata la concessione del servizio postale universale alla societa' Poste Italiane S.p.a. [pubblicato nella Gazzetta Ufficiale n. 102 del 4 maggio 2000](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2000-05-04&numeroGazzetta=102);
+Visto il decreto del Ministro delle comunicazioni 17 aprile 2000 con il quale e' stata confermata la concessione del servizio postale universale alla societa' Poste Italiane S.p.a. pubblicato nella Gazzetta Ufficiale n. 102 del 4 maggio 2000;
 
-Visto il decreto del Ministro delle comunicazioni, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica 20 aprile 2000, in materia di contributi per le licenze individuali e per le autorizzazioni generali concernenti l'offerta al pubblico dei servizi postali, [pubblicato nella Gazzetta Ufficiale n. 105 dell'8 maggio 2000](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2000-05-08&numeroGazzetta=105), e successive modificazioni;
+Visto il decreto del Ministro delle comunicazioni, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica 20 aprile 2000, in materia di contributi per le licenze individuali e per le autorizzazioni generali concernenti l'offerta al pubblico dei servizi postali, pubblicato nella Gazzetta Ufficiale n. 105 dell'8 maggio 2000, e successive modificazioni;
 
-Vista la [direttiva 2002/39/CE del Parlamento europeo e del Consiglio del 10 giugno 2002](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32002L0039), che modifica la [direttiva 97/67/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31997L0067) per quanto riguarda l'ulteriore apertura alla concorrenza dei servizi postali della Comunita';
+Vista la [direttiva 2002/39/CE del Parlamento europeo e del Consiglio del 10 giugno 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;39), che modifica la [direttiva 97/67/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1997;67) per quanto riguarda l'ulteriore apertura alla concorrenza dei servizi postali della Comunita';
 
-Visto il [decreto legislativo 23 dicembre 2003, n. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-23;384), che ha trasposto la predetta [direttiva 2002/39/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32002L0039);
+Visto il [decreto legislativo 23 dicembre 2003, n. 384](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202002-39-CE%20che%20modifica%20la%20direttiva%2097-67-CE%20relativamente%20allulteriore%20apertura%20alla%20concorrenza%20dei%20servizi%20postali%20della%20Comunita.md), che ha trasposto la predetta [direttiva 2002/39/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;39);
 
-Visto il [decreto legislativo 30 dicembre 2003, n. 366](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-30;366), concernente le modifiche ed integrazioni al [decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300), in materia di funzioni e di struttura organizzativa del Ministero delle comunicazioni, a norma dell'[articolo 1 della legge 6 luglio 2002, n. 137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-06;137~art1);
+Visto il [decreto legislativo 30 dicembre 2003, n. 366](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2030%20luglio%201999%20n.%20300%20concernenti%20le%20funzioni%20e%20la%20struttura%20organizzativa%20del%20Ministero%20delle%20comunicazioni%20a%20norma%20dellarticolo%201%20della%20_bcb5105b5285.md), concernente le modifiche ed integrazioni al [decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), in materia di funzioni e di struttura organizzativa del Ministero delle comunicazioni, a norma dell'[articolo 1 della legge 6 luglio 2002, n. 137](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20per%20la%20riforma%20dellorganizzazione%20del%20Governo%20e%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20nonche%20di%20enti%20pubblici.md);
 
-Visto il [decreto del Presidente della Repubblica 22 giugno 2004, n. 176](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-06-22;176), concernente il regolamento di riorganizzazione del Ministero delle comunicazioni;
+Visto il [decreto del Presidente della Repubblica 22 giugno 2004, n. 176](../Regolamenti%20governativi/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20comunicazioni.md), concernente il regolamento di riorganizzazione del Ministero delle comunicazioni;
 
-Visto il decreto del Ministro delle comunicazioni del 16 dicembre 2004 concernente la riorganizzazione del Ministero delle comunicazioni, [pubblicato nella Gazzetta Ufficiale n. 302 del 27 dicembre 2004](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2004-12-27&numeroGazzetta=302);
+Visto il decreto del Ministro delle comunicazioni del 16 dicembre 2004 concernente la riorganizzazione del Ministero delle comunicazioni, pubblicato nella Gazzetta Ufficiale n. 302 del 27 dicembre 2004;
 
-Vista la deliberazione del Ministro delle comunicazioni 18 dicembre 2002 concernente l'ambito della riserva per il mantenimento del servizio universale [pubblicata nella Gazzetta Ufficiale n. 304 del 30 dicembre 2002](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2002-12-30&numeroGazzetta=304);
+Vista la deliberazione del Ministro delle comunicazioni 18 dicembre 2002 concernente l'ambito della riserva per il mantenimento del servizio universale pubblicata nella Gazzetta Ufficiale n. 304 del 30 dicembre 2002;
 
-Vista la deliberazione del Ministro delle comunicazioni 13 gennaio 2004 concernente la modifica alla deliberazione del Ministro delle comunicazioni 18 dicembre 2002, recante la definizione dell'ambito della riserva postale per il mantenimento del servizio universale, [pubblicata nella Gazzetta Ufficiale n. 16 del 21 gennaio 2004](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2004-01-21&numeroGazzetta=16);
+Vista la deliberazione del Ministro delle comunicazioni 13 gennaio 2004 concernente la modifica alla deliberazione del Ministro delle comunicazioni 18 dicembre 2002, recante la definizione dell'ambito della riserva postale per il mantenimento del servizio universale, pubblicata nella Gazzetta Ufficiale n. 16 del 21 gennaio 2004;
 
-Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3);
+Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
 Udito il parere del Consiglio di Stato, reso nell'adunanza della sezione consultiva per gli atti normativi del 16 settembre 2005;
 
-Ritenuto di non poter aderire a quanto segnalato dal Consiglio di Stato nel citato parere in relazione alla introduzione di una specifica previsione con il termine minimo stabilito dall'[articolo 19 della legge n. 241 del 1990](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;241~art19) per l'esercizio di casellario privato per la distribuzione della corrispondenza, in quanto l'avvio di tale servizio contestualmente alla presentazione della inerente dichiarazione soddisfa i principi di semplificazione e accelerazione di cui alla disciplina nazionale, fatti salvi i poteri di controllo e verifica del Ministero delle comunicazioni in qualita' di Autorita' di regolamentazione del settore postale nei confronti dei soggetti titolari di autorizzazioni generali;
+Ritenuto di non poter aderire a quanto segnalato dal Consiglio di Stato nel citato parere in relazione alla introduzione di una specifica previsione con il termine minimo stabilito dall'[articolo 19 della legge n. 241 del 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;241#art_19) per l'esercizio di casellario privato per la distribuzione della corrispondenza, in quanto l'avvio di tale servizio contestualmente alla presentazione della inerente dichiarazione soddisfa i principi di semplificazione e accelerazione di cui alla disciplina nazionale, fatti salvi i poteri di controllo e verifica del Ministero delle comunicazioni in qualita' di Autorita' di regolamentazione del settore postale nei confronti dei soggetti titolari di autorizzazioni generali;
 
-Vista la comunicazione alla Presidenza del Consiglio dei Ministri, di cui all'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3), effettuata con nota GM/144225/4694/DL del 22 dicembre 2005;
+Vista la comunicazione alla Presidenza del Consiglio dei Ministri, di cui all'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), effettuata con nota GM/144225/4694/DL del 22 dicembre 2005;
 
-Adotta
-------
+Adotta il seguente regolamento:
 
-il seguente regolamento:
+## Art. 1. — Modifiche all'articolo 2 del decreto del Ministro delle comunicazioni n. 75 del 2000
 
-Art. 1
-------
+1.
 
-Modifiche all'articolo 2 del decreto del Ministro delle comunicazioni n. 75 del 2000
+Il [comma 3 dell'articolo 2 del decreto del Ministro delle comunicazioni 4 febbraio 2000, n. 75](Regolamento%20recante%20disposizioni%20in%20materia%20di%20autorizzazioni%20generali%20nel%20settore%20postale.md), e' sostituito dal seguente:
+ «3. Il presente regolamento fissa le disposizioni per il conseguimento delle autorizzazioni per l'offerta al pubblico di servizi non rientranti nel campo di applicazione del servizio postale universale da intendersi quale definito dall'[articolo 3 del decreto legislativo n. 261 del 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999;261#art_3), tra i quali i servizi di recapito della posta elettronica ibrida a data od ora certa.».
 
-1. Il [comma 3 dell'articolo 2 del decreto del Ministro delle comunicazioni 4 febbraio 2000, n. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.comunicazioni:decreto:2000-02-04;75~art2-com3), e' sostituito dal seguente:  
-«3. Il presente regolamento fissa le disposizioni per il conseguimento delle autorizzazioni per l'offerta al pubblico di servizi non rientranti nel campo di applicazione del servizio postale universale da intendersi quale definito dall'[articolo 3 del decreto legislativo n. 261 del 1999](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999;261~art3), tra i quali i servizi di recapito della posta elettronica ibrida a data od ora certa.».
+Avvertenza:
 
-Avvertenza:  
-  
-Il testo delle note qui pubblicato' e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascrilti.  
-Per le direttive CEE vengono forniti gli estremi di pubblicazione nella GazzettaUfficiale delle Comunita' europee (GUCE).  
-  
-Note alle premesse:  
-  
-- Il [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-03-29;156) (Approvazione del testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni) e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 3 maggio 1973, n. 113.  
-- Il [decreto del Presidente della Repubblica 29 maggio 1982, n. 655](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-05-29;655) [Approvazione del regolamento di esecuzione dei libri I e II del codice postale e delle telecomunicazioni (norme generali e servizi delle corrispondenze e dei pacchi)] e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale del 16 settembre 1982, n. 256.  
-- La [legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241) (Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi) e' pubblicata nella Gazzetta Ufficiale 18 agosto 1990, n. 192.  
-- Il [decreto-legge 1° dicembre 1993, n. 487](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-12-01;487) (Trasformazione dell'Amministrazione delle poste e delle telecomunicazioni in ente pubblico economico e riorganizzazione del Ministero) e' pubblicato nella Gazzetta Ufficiale del 2 dicembre 1993, n. 283, e convertito in legge, con modificazioni, dalla [legge 29 gennaio 1994, n. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-29;71), pubblicata nella Gazzetta Ufficiale 31 gennaio 1994, n. 24.  
-- La [direttiva 97/67/CE del Parlamento europeo e del Consiglio del 15 dicembre 1997](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31997L0067) e' pubblicata nella G.U.C.E. 21 gennaio 1998, n. L 15.  
-- L'[art. 2, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-22;261~art2-com1), l'[art. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-22;261~art6) e l'[art. 23, comma 2, del decreto legislativo 22 luglio 1999, n. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-22;261~art23-com2) (Attuazione della [direttiva 97/67/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31997L0067) concernente regole comuni per lo sviluppo del mercato interno dei servizi postali comunitari e per il miglioramento della qualita' del servizio) pubblicato nella Gazzetta Ufficiale del 5 agosto 1999, n. 182, sono i seguenti:  
-«Art. 2 (Autorita' di regolamentazione). - 1.  
-L'autorita' di regolamentazione del settore postale e' il Ministero delle comunicazioni.».  
-«Art. 6 (Autorizzazione generale). - 1. L'offerta al pubblico di servizi non rientranti nel servizio universale, compreso l'esercizio di casellari privati per la distribuzione di invii di corrispondenza, e' soggetta ad autorizzazione generale dell'autorita' di regolamentazione.  
-2. Con regolamento del Ministro delle comunicazioni, da emanarsi entro novanta giorni dalla data di entrata in vigore del presente decreto, sono individuati i casi in cui e' possibile avviare l'attivita' contestualmente all'invio all'autorita' di regolamentazione della dichiarazione mediante raccomandata con avviso di ricevimento e gli altri nei quali l'attivita' puo' avere inizio dopo quarantacinque giorni dal ricevimento della relativa comunicazione, salvo che sia comunicato il diniego da parte dell'autorita' di regolamentazione; in caso di richiesta di chiarimenti o di documenti, il predetto termine e' sospeso fino alla ricezione di questi ultimi. L'atto, di assenso, se illegittimamente formato, e' annullato salvo che l'interessato provveda, ove possibile, a sanare il vizio entro il termine assegnatogli.  
-3. Con il regolamento di cui al comma 2 sono determinati i requisiti e gli obblighi dei soggetti che svolgono attivita' sottoposte ad autorizzazione generale, le modalita' dei controlli presso le sedi di attivita' nonche' le procedure di diffida, di sospensione e di interdizione dell'attivita' in caso di violazione degli obblighi.».  
-«2. In sede di prima attuazione, con riferimento all'[art. 14 del decreto-legge 11 luglio 1992, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333~art14), convertito, con modificazioni, dalla [legge 8 agosto 1992, n. 359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-08-08;359), il servizio universale e' affidato alla societa' p.a. Poste Italiane per un periodo, comunque non superiore a quindici anni dalla data di entrata in vigore del presente decreto, da determinarsi dall'autorita' di regolamentazione, compatibilmente con il processo di liberalizzazione in sede comunitaria.».  
-- L'[art. 11 del decreto legislativo 30 luglio 1999, n. 286](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;286~art11) (Riordino e potenziamento dei meccanismi e strumenti di monitoraggio e valutazione dei costi, dei rendimenti e dei risultati dell'attivita' svolta dalle amministrazioni pubbliche, a norma dell'[art. 11 della legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art11)) pubblicato nella Gazzetta Ufficiale 18 agosto 1999, n. 193, e' il seguente:  
-«Art. 1 (Qualita' dei servizi pubblici). - 1. I servizi pubblici nazionali e locali sono erogati con modalita' che promuovono il miglioramento della qualita' e assicurano la tutela dei cittadini e degli utenti e la loro partecipazione, nelle forme, anche associative, riconosciute dalla legge, alle inerenti procedure di valutazione e definizione degli standard qualitativi.  
-2. Le modalita' di definizione, adozione e pubblicizzazione degli standard di qualita', i casi e le modalita' di adozione delle carte dei servizi, i criteri di misurazione della qualita' dei servizi, le condizioni di tutela degli utenti, nonche' i casi e le modalita' di indennizzo automatico e forfettario all'utenza per mancato rispetto degli standard di qualita' sono stabilite con direttive, aggiornabili annualmente, del Presidente del Consiglio dei Ministri. Per quanto riguarda i servizi erogati direttamente o indirettamente dalle regioni e dagli enti locali, si provvede con atti di indirizzo e coordinamento adottati d'intesa con la conferenza unificata di cui al [decreto legislativo 28 agosto 1997, n. 281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281).  
-3. Le iniziative di coordinamento, supporto operativo alle amministrazioni interessate e monitoraggio sull'attuazione del presente articolo sono adottate dal Presidente del Consiglio dei Ministri, supportato da apposita struttura della Presidenza del Consiglio dei Ministri. E' ammesso il ricorso a un soggetto privato, da scegliersi con gara europea di assistenza tecnica, sulla base di criteri oggettivi e trasparenti.  
-4. Sono in ogni caso fatte salve le funzioni e i compiti legislativamente assegnati, per alcuni servizi pubblici, ad autorita' indipendenti.  
-5. E' abrogato l'[art. 2 della legge 11 luglio 1995, n. 273](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-11;273~art2). Restano applicabili, sino a diversa disposizione adottata ai sensi del comma 2, i decreti del Presidente del Consiglio dei Ministri recanti gli schemi generali di riferimento gia' emanati ai sensi del suddetto articolo».  
-- Il [decreto del Ministro delle comunicazioni 4 febbraio 2000, n. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.comunicazioni:decreto:2000-02-04;75) (Regolamento recante disposizioni in materia di autorizzazioni generali nel settore postale) e' pubblicato nella Gazzetta Ufficiale 31 marzo 2000, n. 76.  
-- La [direttiva 2002/39/CE del Parlamento europeo e del Consiglio del 1° giugno 2002](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32002L0039), (Direttiva del Parlamento europeo e del Consiglio che modifica la [direttiva 97/67/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31997L0067) per quanto riguarda l'ulteriore apertura alla concorrenza dei servizi postali della Comunita) e' pubblicata nella G.U.C.E. 5 luglio 2002, n. L 176.  
-- Il [decreto legislativo 23 dicembre 2003, n. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-23;384) (Attuazione della [direttiva 2002/39/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32002L0039) che modifica la [direttiva 97/67/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31997L0067) relativamente all'ulteriore apertura alla concorrenza dei servizi postali della Comunita) e' pubblicato nella Gazzetta Ufficiale 28 gennaio 2004, n. 22.  
-- Il [decreto legislativo 30 dicembre 2003, n. 366](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-30;366) (Modifiche ed integrazioni al [decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300), concernenti le funzioni e la struttura organizzativa del Ministero delle comunicazioni, a norma dell'[art. 1 della legge 6 luglio 2002, n. 137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-06;137~art1)) e' pubblicato nella Gazzetta Ufficiale 8 gennaio 2004, n. 5.  
-- L'[art. 1 della legge 6 luglio 2002, n. 137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-06;137~art1) (Delega per la riforma dell'organizzazione del Governo e della Presidenza del Consiglio dei Ministri, nonche' di enti pubblici) pubblicata nella Gazzetta Ufficiale 8 luglio 2002, n. 158, e' il seguente:  
-«Art. 1 (Deleghe di cui all'[art. 11 della legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art11)). - 1. Il Governo e' delegato ad adottare, entro diciotto mesi dalla data di entrata in vigore della presente legge, nel rispetto delle competenze costituzionali delle regioni e delle province autonome di Trento e di Bolzano, uno o piu' decreti legislativi, correttivi o modificativi di decreti legislativi gia' emanati, ai sensi dell'[art. 11, comma 1, lettere a)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art11-com1-leta), [b)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art11-com1-letb), [c)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art11-com1-letc) e [d), della legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art11-com1-letd), e successive modificazioni. Resta fermo quanto previsto dall'[art. 28 della legge 28 dicembre 2001, n. 448](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-28;448~art28), come modificato dall'art. 2 della presente legge.  
-2. Nell'attuazione della delega di cui al comma 1, il Governo si attiene ai principi e criteri direttivi indicati negli [articoli 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art12), [14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art14), [17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art17) e [18 della legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art18), e successive modificazioni.  
-3. I decreti legislativi di cui al comma 1 sono adottati previo parere della Commissione di cui all'art. 5 della citata [legge n. 59 del 1997](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997;59), da rendere entro trenta giorni dalla data di trasmissione dei relativi schemi.  
-Decorso tale termine, i decreti legislativi possono essere comunque adottati.  
-4. Al [comma 6, dell'art. 55, del decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300~art55-com6), e' aggiunto, in fine, il seguente periodo: "Qualora ricorrano specifiche e motivate esigenze, il Presidente del Consiglio dei Ministri, su proposta del Ministro competente, puo', con proprio decreto, differire o gradualizzare temporalmente singoli adempimenti od atti, relativi ai procedimenti di riorganizzazione dei Ministeri".».  
-- Il [decreto del Presidente della Repubblica 22 giugno 2004, n. 176](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-06-22;176) (Regolamento di organizzazione del Ministero delle comunicazioni) e' pubblicato nella Gazzetta Ufficiale 19 luglio 2004, n. 167.  
-- L'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), pubblicata nel supplemento ordinario alla Gazzetta Ufficiale 12 settembre 1988, n. 214, e' il seguente:  
-«3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del ministro o di autorita' sottordinate al ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.  
-I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.».  
-  
-Nota all'art. 1:  
-- Il testo dell'[art. 2 del decreto del Ministro delle comunicazioni 4 febbraio 2000, n. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.comunicazioni:decreto:2000-02-04;75~art2) (Regolamento recante disposizioni in materia di autorizzazioni generali nel settore postale), come modificato dal presente decreto, e' il seguente:  
-«Art. 2 (Oggetto ed ambito di applicazione). - 1.  
-L'autorita' di regolamentazione per il settore postale, individuata nel Ministero delle comunicazioni dall'[art. 2, comma 1, del decreto legislativo 22 luglio 1999, n. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-22;261~art2-com1), e' detta di seguito "Autorita'".  
-2. Si intendono recepite nel presente regolamento le definizioni contenute nell'[art. 1 del decreto legislativo n. 261 del 1999](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999;261~art1).  
-3. Il presente regolamento fissa le disposizioni per il conseguimento delle autorizzazioni per l'offerta al pubblico di servizi non rientranti nel campo di applicazione del servizio postale universale da intendersi quale definito dall'[art. 3 del decreto legislativo n. 261 del 1999](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999;261~art3), tra i quali i servizi di recapito della posta elettronica ibrida a data od ora certa.».
+ Il testo delle note qui pubblicato' e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascrilti.
+ Per le direttive CEE vengono forniti gli estremi di pubblicazione nella GazzettaUfficiale delle Comunita' europee (GUCE).
 
-Art. 2
-------
+ Note alle premesse:
 
-Modifiche all'articolo 4 del decreto del Ministro delle comunicazioni n. 75 del 2000
+ - Il [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md) (Approvazione del testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni) e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 3 maggio 1973, n. 113.
+ - Il [decreto del Presidente della Repubblica 29 maggio 1982, n. 655](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20libri%20I%20e%20II%20del%20codice%20postale%20e%20delle%20telecomunicazioni%20norme%20generali%20e%20servizi%20delle%20corrispondenze%20e%20dei%20pacchi.md) [Approvazione del regolamento di esecuzione dei libri I e II del codice postale e delle telecomunicazioni (norme generali e servizi delle corrispondenze e dei pacchi)] e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale del 16 settembre 1982, n. 256.
+ - La [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241) (Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi) e' pubblicata nella Gazzetta Ufficiale 18 agosto 1990, n. 192.
+ - Il [decreto-legge 1° dicembre 1993, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-12-01;487) (Trasformazione dell'Amministrazione delle poste e delle telecomunicazioni in ente pubblico economico e riorganizzazione del Ministero) e' pubblicato nella Gazzetta Ufficiale del 2 dicembre 1993, n. 283, e convertito in legge, con modificazioni, dalla [legge 29 gennaio 1994, n. 71](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20dicembre%201993%20n.%20487%20recante%20trasformazione%20dellAmministrazione%20delle%20poste%20e%20delle%20telecomunicazioni%20in%20ente%20pubblico%20economico_f513628cd1cd.md), pubblicata nella Gazzetta Ufficiale 31 gennaio 1994, n. 24.
+ - La [direttiva 97/67/CE del Parlamento europeo e del Consiglio del 15 dicembre 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1997;67) e' pubblicata nella G.U.C.E. 21 gennaio 1998, n. L 15.
+ - L'[art. 2, comma 1](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2097-67-CE%20concernente%20regole%20comuni%20per%20lo%20sviluppo%20del%20mercato%20interno%20dei%20servizi%20postali%20comunitari%20e%20per%20il%20miglioramento%20della%20qualita%20del%20servizio.md), l'[art. 6](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2097-67-CE%20concernente%20regole%20comuni%20per%20lo%20sviluppo%20del%20mercato%20interno%20dei%20servizi%20postali%20comunitari%20e%20per%20il%20miglioramento%20della%20qualita%20del%20servizio.md) e l'[art. 23, comma 2, del decreto legislativo 22 luglio 1999, n. 261](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2097-67-CE%20concernente%20regole%20comuni%20per%20lo%20sviluppo%20del%20mercato%20interno%20dei%20servizi%20postali%20comunitari%20e%20per%20il%20miglioramento%20della%20qualita%20del%20servizio.md) (Attuazione della [direttiva 97/67/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1997;67) concernente regole comuni per lo sviluppo del mercato interno dei servizi postali comunitari e per il miglioramento della qualita' del servizio) pubblicato nella Gazzetta Ufficiale del 5 agosto 1999, n. 182, sono i seguenti:
+ «Art. 2 (Autorita' di regolamentazione). - 1.
+ L'autorita' di regolamentazione del settore postale e' il Ministero delle comunicazioni.».
+ «Art. 6 (Autorizzazione generale). - 1. L'offerta al pubblico di servizi non rientranti nel servizio universale, compreso l'esercizio di casellari privati per la distribuzione di invii di corrispondenza, e' soggetta ad autorizzazione generale dell'autorita' di regolamentazione.
+ 2. Con regolamento del Ministro delle comunicazioni, da emanarsi entro novanta giorni dalla data di entrata in vigore del presente decreto, sono individuati i casi in cui e' possibile avviare l'attivita' contestualmente all'invio all'autorita' di regolamentazione della dichiarazione mediante raccomandata con avviso di ricevimento e gli altri nei quali l'attivita' puo' avere inizio dopo quarantacinque giorni dal ricevimento della relativa comunicazione, salvo che sia comunicato il diniego da parte dell'autorita' di regolamentazione; in caso di richiesta di chiarimenti o di documenti, il predetto termine e' sospeso fino alla ricezione di questi ultimi. L'atto, di assenso, se illegittimamente formato, e' annullato salvo che l'interessato provveda, ove possibile, a sanare il vizio entro il termine assegnatogli.
+ 3. Con il regolamento di cui al comma 2 sono determinati i requisiti e gli obblighi dei soggetti che svolgono attivita' sottoposte ad autorizzazione generale, le modalita' dei controlli presso le sedi di attivita' nonche' le procedure di diffida, di sospensione e di interdizione dell'attivita' in caso di violazione degli obblighi.».
+ «2. In sede di prima attuazione, con riferimento all'[art. 14 del decreto-legge 11 luglio 1992, n. 333](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333#art_14), convertito, con modificazioni, dalla [legge 8 agosto 1992, n. 359](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2011%20luglio%201992%20n.%20333%20recante%20misure%20urgenti%20per%20il%20risanamento%20della%20finanza%20pubblica.md), il servizio universale e' affidato alla societa' p.a. Poste Italiane per un periodo, comunque non superiore a quindici anni dalla data di entrata in vigore del presente decreto, da determinarsi dall'autorita' di regolamentazione, compatibilmente con il processo di liberalizzazione in sede comunitaria.».
+ - L'[art. 11 del decreto legislativo 30 luglio 1999, n. 286](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20e%20potenziamento%20dei%20meccanismi%20e%20strumenti%20di%20monitoraggio%20e%20valutazione%20dei%20costi%20dei%20rendimenti%20e%20dei%20risultati%20dellattivita%20svolta%20dalle%20amministrazioni%20pubbliche%20a%20norma%20dell_79b83f91a15a.md) (Riordino e potenziamento dei meccanismi e strumenti di monitoraggio e valutazione dei costi, dei rendimenti e dei risultati dell'attivita' svolta dalle amministrazioni pubbliche, a norma dell'[art. 11 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md)) pubblicato nella Gazzetta Ufficiale 18 agosto 1999, n. 193, e' il seguente:
+ «Art. 1 (Qualita' dei servizi pubblici). - 1. I servizi pubblici nazionali e locali sono erogati con modalita' che promuovono il miglioramento della qualita' e assicurano la tutela dei cittadini e degli utenti e la loro partecipazione, nelle forme, anche associative, riconosciute dalla legge, alle inerenti procedure di valutazione e definizione degli standard qualitativi.
+ 2. Le modalita' di definizione, adozione e pubblicizzazione degli standard di qualita', i casi e le modalita' di adozione delle carte dei servizi, i criteri di misurazione della qualita' dei servizi, le condizioni di tutela degli utenti, nonche' i casi e le modalita' di indennizzo automatico e forfettario all'utenza per mancato rispetto degli standard di qualita' sono stabilite con direttive, aggiornabili annualmente, del Presidente del Consiglio dei Ministri. Per quanto riguarda i servizi erogati direttamente o indirettamente dalle regioni e dagli enti locali, si provvede con atti di indirizzo e coordinamento adottati d'intesa con la conferenza unificata di cui al [decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md).
+ 3. Le iniziative di coordinamento, supporto operativo alle amministrazioni interessate e monitoraggio sull'attuazione del presente articolo sono adottate dal Presidente del Consiglio dei Ministri, supportato da apposita struttura della Presidenza del Consiglio dei Ministri. E' ammesso il ricorso a un soggetto privato, da scegliersi con gara europea di assistenza tecnica, sulla base di criteri oggettivi e trasparenti.
+ 4. Sono in ogni caso fatte salve le funzioni e i compiti legislativamente assegnati, per alcuni servizi pubblici, ad autorita' indipendenti.
+ 5. E' abrogato l'[art. 2 della legge 11 luglio 1995, n. 273](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20maggio%201995%20n.%20163%20recante%20misure%20urgenti%20per%20la%20semplificazione%20dei%20procedimenti%20amministrativi%20e%20per%20il%20miglioramento%20delleff_5ae7f6a3e032.md). Restano applicabili, sino a diversa disposizione adottata ai sensi del comma 2, i decreti del Presidente del Consiglio dei Ministri recanti gli schemi generali di riferimento gia' emanati ai sensi del suddetto articolo».
+ - Il [decreto del Ministro delle comunicazioni 4 febbraio 2000, n. 75](Regolamento%20recante%20disposizioni%20in%20materia%20di%20autorizzazioni%20generali%20nel%20settore%20postale.md) (Regolamento recante disposizioni in materia di autorizzazioni generali nel settore postale) e' pubblicato nella Gazzetta Ufficiale 31 marzo 2000, n. 76.
+ - La [direttiva 2002/39/CE del Parlamento europeo e del Consiglio del 1° giugno 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;39), (Direttiva del Parlamento europeo e del Consiglio che modifica la [direttiva 97/67/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1997;67) per quanto riguarda l'ulteriore apertura alla concorrenza dei servizi postali della Comunita) e' pubblicata nella G.U.C.E. 5 luglio 2002, n. L 176.
+ - Il [decreto legislativo 23 dicembre 2003, n. 384](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202002-39-CE%20che%20modifica%20la%20direttiva%2097-67-CE%20relativamente%20allulteriore%20apertura%20alla%20concorrenza%20dei%20servizi%20postali%20della%20Comunita.md) (Attuazione della [direttiva 2002/39/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;39) che modifica la [direttiva 97/67/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1997;67) relativamente all'ulteriore apertura alla concorrenza dei servizi postali della Comunita) e' pubblicato nella Gazzetta Ufficiale 28 gennaio 2004, n. 22.
+ - Il [decreto legislativo 30 dicembre 2003, n. 366](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2030%20luglio%201999%20n.%20300%20concernenti%20le%20funzioni%20e%20la%20struttura%20organizzativa%20del%20Ministero%20delle%20comunicazioni%20a%20norma%20dellarticolo%201%20della%20_bcb5105b5285.md) (Modifiche ed integrazioni al [decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), concernenti le funzioni e la struttura organizzativa del Ministero delle comunicazioni, a norma dell'[art. 1 della legge 6 luglio 2002, n. 137](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20per%20la%20riforma%20dellorganizzazione%20del%20Governo%20e%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20nonche%20di%20enti%20pubblici.md)) e' pubblicato nella Gazzetta Ufficiale 8 gennaio 2004, n. 5.
+ - L'[art. 1 della legge 6 luglio 2002, n. 137](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20per%20la%20riforma%20dellorganizzazione%20del%20Governo%20e%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20nonche%20di%20enti%20pubblici.md) (Delega per la riforma dell'organizzazione del Governo e della Presidenza del Consiglio dei Ministri, nonche' di enti pubblici) pubblicata nella Gazzetta Ufficiale 8 luglio 2002, n. 158, e' il seguente:
+ «Art. 1 (Deleghe di cui all'[art. 11 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md)). - 1. Il Governo e' delegato ad adottare, entro diciotto mesi dalla data di entrata in vigore della presente legge, nel rispetto delle competenze costituzionali delle regioni e delle province autonome di Trento e di Bolzano, uno o piu' decreti legislativi, correttivi o modificativi di decreti legislativi gia' emanati, ai sensi dell'[art. 11, comma 1, lettere a)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), [b)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), [c)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md) e [d), della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), e successive modificazioni. Resta fermo quanto previsto dall'[art. 28 della legge 28 dicembre 2001, n. 448](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202002.md), come modificato dall'art. 2 della presente legge.
+ 2. Nell'attuazione della delega di cui al comma 1, il Governo si attiene ai principi e criteri direttivi indicati negli [articoli 12](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), [14](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), [17](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md) e [18 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), e successive modificazioni.
+ 3. I decreti legislativi di cui al comma 1 sono adottati previo parere della Commissione di cui all'art. 5 della citata [legge n. 59 del 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997;59), da rendere entro trenta giorni dalla data di trasmissione dei relativi schemi.
+ Decorso tale termine, i decreti legislativi possono essere comunque adottati.
+ 4. Al [comma 6, dell'art. 55, del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), e' aggiunto, in fine, il seguente periodo: "Qualora ricorrano specifiche e motivate esigenze, il Presidente del Consiglio dei Ministri, su proposta del Ministro competente, puo', con proprio decreto, differire o gradualizzare temporalmente singoli adempimenti od atti, relativi ai procedimenti di riorganizzazione dei Ministeri".».
+ - Il [decreto del Presidente della Repubblica 22 giugno 2004, n. 176](../Regolamenti%20governativi/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20comunicazioni.md) (Regolamento di organizzazione del Ministero delle comunicazioni) e' pubblicato nella Gazzetta Ufficiale 19 luglio 2004, n. 167.
+ - L'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), pubblicata nel supplemento ordinario alla Gazzetta Ufficiale 12 settembre 1988, n. 214, e' il seguente:
+ «3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del ministro o di autorita' sottordinate al ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.
+ I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.».
 
-1. All'[articolo 4, comma 1, del decreto del Ministro delle comunicazioni 4 febbraio 2000, n. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.comunicazioni:decreto:2000-02-04;75~art4-com1), dopo la lettera e) sono inserite le seguenti:  
-«f) a comunicare all'Autorita' ogni eventuale modifica, estensione o riduzione degli elementi dell'autorizzazione, ai sensi dell'articolo 3, comma 7, del presente regolamento nonche' ogni altra variazione;  
-g) a fornire, su richiesta dell'Autorita', informazioni sull'attivita' svolta per gli studi del settore di competenza dell'Autorita' medesima.».
+ Nota all'art. 1:
+ - Il testo dell'[art. 2 del decreto del Ministro delle comunicazioni 4 febbraio 2000, n. 75](Regolamento%20recante%20disposizioni%20in%20materia%20di%20autorizzazioni%20generali%20nel%20settore%20postale.md) (Regolamento recante disposizioni in materia di autorizzazioni generali nel settore postale), come modificato dal presente decreto, e' il seguente:
+ «Art. 2 (Oggetto ed ambito di applicazione). - 1.
+ L'autorita' di regolamentazione per il settore postale, individuata nel Ministero delle comunicazioni dall'[art. 2, comma 1, del decreto legislativo 22 luglio 1999, n. 261](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2097-67-CE%20concernente%20regole%20comuni%20per%20lo%20sviluppo%20del%20mercato%20interno%20dei%20servizi%20postali%20comunitari%20e%20per%20il%20miglioramento%20della%20qualita%20del%20servizio.md), e' detta di seguito "Autorita'".
+ 2. Si intendono recepite nel presente regolamento le definizioni contenute nell'[art. 1 del decreto legislativo n. 261 del 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999;261#art_1).
+ 3. Il presente regolamento fissa le disposizioni per il conseguimento delle autorizzazioni per l'offerta al pubblico di servizi non rientranti nel campo di applicazione del servizio postale universale da intendersi quale definito dall'[art. 3 del decreto legislativo n. 261 del 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999;261#art_3), tra i quali i servizi di recapito della posta elettronica ibrida a data od ora certa.».
 
-Nota all'art. 2:  
-- Il testo dell'[art. 4 del decreto del Ministro delle comunicazioni 4 febbraio 2000, n. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.comunicazioni:decreto:2000-02-04;75~art4) (Regolamento recante disposizioni in materia di autorizzazioni generali nel settore postale), come modificato dal presente decreto, e' il seguente:  
-«Art. 4 (Obblighi connessi all'autorizzazione). - 1. Il titolare di un'autorizzazione di cui all'art. 1 e' tenuto:  
-a) ad osservare le esigenze essenziali indicate nell'[art. 1, comma 2, lettera u), del decreto legislativo n. 261 del 1999](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999;261~art1-com2-letu);  
-b) a fornire informazioni agli utenti, nelle sedi della ditta o dei mandatari della medesima, circa le caratteristiche del servizio offerto con specifico riguardo alle condizioni generali di accesso, ai prezzi ed al livello di qualita', dandone comunicazione all'Autorita';  
-c) a non impiegare personale che risulti condannato a pena detentiva per delitto non colposo superiore ai sei mesi o sottoposto a misure di sicurezza e di prevenzione;  
-d) ad effettuare il versamento dei contributi riguardanti l'istruttoria e l'attivita' di verifica e controllo;  
-e) ad istituire una procedura di reclamo semplice, rapida e non onerosa per valutare le denunce di disservizi presentate dagli utenti;  
-f) a comunicare all'Autorita' ogni eventuale modifica, estensione o riduzione degli elementi dell'autorizzazione, ai sensi dell'art. 3, comma 7, del presente regolamento nonche' ogni altra variazione;  
-g) a fornire, su richiesta dell'Autorita', informazioni sull'attivita' svolta per gli studi del settore di competenza dell'Autorita' medesima.».
+## Art. 2. — Modifiche all'articolo 4 del decreto del Ministro delle comunicazioni n. 75 del 2000
 
-Art. 3
-------
+1.
 
-Modifiche all'articolo 5 del decreto del Ministr o delle comunicazioni n. 75 del 2000
+All'[articolo 4, comma 1, del decreto del Ministro delle comunicazioni 4 febbraio 2000, n. 75](Regolamento%20recante%20disposizioni%20in%20materia%20di%20autorizzazioni%20generali%20nel%20settore%20postale.md), dopo la lettera e) sono inserite le seguenti:
+ «f) a comunicare all'Autorita' ogni eventuale modifica, estensione o riduzione degli elementi dell'autorizzazione, ai sensi dell'articolo 3, comma 7, del presente regolamento nonche' ogni altra variazione;
+ g) a fornire, su richiesta dell'Autorita', informazioni sull'attivita' svolta per gli studi del settore di competenza dell'Autorita' medesima.».
 
-1. Il [comma 2 dell'articolo 5 del decreto del Ministro delle comunicazioni 4 febbraio 2000, n. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.comunicazioni:decreto:2000-02-04;75~art5-com2) e' sostituito dal seguente:  
-«2. I contributi di cui al comma 1 sono fissati ad anno, compreso quello di decorrenza dell'autoriz-zazione e, salvo quanto previsto per l'avvio dell'attivita', sono versati entro il 31 gennaio di ciascun anno; copia dell'attestato di avvenuto pagamento e' inviata all'Autorita'.».
+Nota all'art. 2:
+ - Il testo dell'[art. 4 del decreto del Ministro delle comunicazioni 4 febbraio 2000, n. 75](Regolamento%20recante%20disposizioni%20in%20materia%20di%20autorizzazioni%20generali%20nel%20settore%20postale.md) (Regolamento recante disposizioni in materia di autorizzazioni generali nel settore postale), come modificato dal presente decreto, e' il seguente:
+ «Art. 4 (Obblighi connessi all'autorizzazione). - 1. Il titolare di un'autorizzazione di cui all'art. 1 e' tenuto:
+ a) ad osservare le esigenze essenziali indicate nell'[art. 1, comma 2, lettera u), del decreto legislativo n. 261 del 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999;261#art_1-com2-letu);
+ b) a fornire informazioni agli utenti, nelle sedi della ditta o dei mandatari della medesima, circa le caratteristiche del servizio offerto con specifico riguardo alle condizioni generali di accesso, ai prezzi ed al livello di qualita', dandone comunicazione all'Autorita';
+ c) a non impiegare personale che risulti condannato a pena detentiva per delitto non colposo superiore ai sei mesi o sottoposto a misure di sicurezza e di prevenzione;
+ d) ad effettuare il versamento dei contributi riguardanti l'istruttoria e l'attivita' di verifica e controllo;
+ e) ad istituire una procedura di reclamo semplice, rapida e non onerosa per valutare le denunce di disservizi presentate dagli utenti;
+ f) a comunicare all'Autorita' ogni eventuale modifica, estensione o riduzione degli elementi dell'autorizzazione, ai sensi dell'art. 3, comma 7, del presente regolamento nonche' ogni altra variazione;
+ g) a fornire, su richiesta dell'Autorita', informazioni sull'attivita' svolta per gli studi del settore di competenza dell'Autorita' medesima.».
 
-Nota all'art. 3:  
-- Il testo dell'[art. 5 del decreto del Ministro delle comunicazioni 4 febbraio 2000, n. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.comunicazioni:decreto:2000-02-04;75~art5) (Regolamento recante disposizioni in materia di autorizzazioni generali nel settore postale), come modificato dal presente decreto, e' il seguente:  
-«Art. 5 (Contributi). - 1. L'autorizzazione, nonche' le richieste di modifica, di estensione, di riduzione o di variazione di qualsiasi natura, sono assoggettate al pagamento di contributi finalizzati alla copertura dei costi amministrativi sostenuti dall'Autorita':  
-a) per l'istruttoria delle pratiche;  
-b) per le verifiche ed i controlli della gestione del servizio e del mantenimento delle relative condizioni.  
-2. I contributi di cui al comma 1 sono fissati ad anno, compreso quello di decorrenza dell'autorizzazione e, salvo quanto previsto per l'avvio dell'attivita', sono versati entro il 31 gennaio di ciascun anno; copia dell'attestato di avvenuto pagamento e' inviata all'Autorita'.  
-3. Con il decreto di cui all'[art. 15, comma 2, del decreto legislativo n. 261/1999](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999;261~art15-com2) sono stabiliti:  
-a) la misura dei contributi e l'aggiornamento degli stessi;  
-b) le modalita' di pagamento ed i relativi termini con riferimento all'avvio dell'attivita' ed all'attivita' medesima a regime;  
-c) la procedura da utilizzare in caso di mancato pagamento.  
-4. Nei casi di sospensione, revoca e decadenza dell'autorizzazione, i contributi versati rimangono acquisiti all'entrata del bilancio dello Stato.».
+## Art. 3. — Modifiche all'articolo 5 del decreto del Ministr o delle comunicazioni n. 75 del 2000
 
-Art. 4
-------
+1.
 
-Procedura per il conseguimento dell'autorizzazione
+Il [comma 2 dell'articolo 5 del decreto del Ministro delle comunicazioni 4 febbraio 2000, n. 75](Regolamento%20recante%20disposizioni%20in%20materia%20di%20autorizzazioni%20generali%20nel%20settore%20postale.md) e' sostituito dal seguente:
+ «2. I contributi di cui al comma 1 sono fissati ad anno, compreso quello di decorrenza dell'autoriz-zazione e, salvo quanto previsto per l'avvio dell'attivita', sono versati entro il 31 gennaio di ciascun anno; copia dell'attestato di avvenuto pagamento e' inviata all'Autorita'.».
 
-1. L'allegato 1 di cui all'[articolo 3, comma 1, del decreto del Ministro delle comunicazioni 4 febbraio 2000, n. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.comunicazioni:decreto:2000-02-04;75~art3-com1), e' sostituito dall'allegato 1 al presente regolamento.
+Nota all'art. 3:
+ - Il testo dell'[art. 5 del decreto del Ministro delle comunicazioni 4 febbraio 2000, n. 75](Regolamento%20recante%20disposizioni%20in%20materia%20di%20autorizzazioni%20generali%20nel%20settore%20postale.md) (Regolamento recante disposizioni in materia di autorizzazioni generali nel settore postale), come modificato dal presente decreto, e' il seguente:
+ «Art. 5 (Contributi). - 1. L'autorizzazione, nonche' le richieste di modifica, di estensione, di riduzione o di variazione di qualsiasi natura, sono assoggettate al pagamento di contributi finalizzati alla copertura dei costi amministrativi sostenuti dall'Autorita':
+ a) per l'istruttoria delle pratiche;
+ b) per le verifiche ed i controlli della gestione del servizio e del mantenimento delle relative condizioni.
+ 2. I contributi di cui al comma 1 sono fissati ad anno, compreso quello di decorrenza dell'autorizzazione e, salvo quanto previsto per l'avvio dell'attivita', sono versati entro il 31 gennaio di ciascun anno; copia dell'attestato di avvenuto pagamento e' inviata all'Autorita'.
+ 3. Con il decreto di cui all'[art. 15, comma 2, del decreto legislativo n. 261/1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999;261#art_15-com2) sono stabiliti:
+ a) la misura dei contributi e l'aggiornamento degli stessi;
+ b) le modalita' di pagamento ed i relativi termini con riferimento all'avvio dell'attivita' ed all'attivita' medesima a regime;
+ c) la procedura da utilizzare in caso di mancato pagamento.
+ 4. Nei casi di sospensione, revoca e decadenza dell'autorizzazione, i contributi versati rimangono acquisiti all'entrata del bilancio dello Stato.».
 
-2. L'allegato 2 di cui all'[articolo 3, comma 1, del decreto del Ministro delle comunicazioni 4 febbraio 2000, n. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.comunicazioni:decreto:2000-02-04;75~art3-com1), e' sostituito dall'allegato 2 al presente regolamento.
+## Art. 4. — Procedura per il conseguimento dell'autorizzazione
 
-3. L'allegato 3 del [decreto del Ministro delle comunicazioni 4 febbraio 2000, n. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.comunicazioni:decreto:2000-02-04;75), e' sostituito dall'allegato 3 al presente regolamento.
+1.
+
+L'allegato 1 di cui all'[articolo 3, comma 1, del decreto del Ministro delle comunicazioni 4 febbraio 2000, n. 75](Regolamento%20recante%20disposizioni%20in%20materia%20di%20autorizzazioni%20generali%20nel%20settore%20postale.md), e' sostituito dall'allegato 1 al presente regolamento.
+
+2.
+
+L'allegato 2 di cui all'[articolo 3, comma 1, del decreto del Ministro delle comunicazioni 4 febbraio 2000, n. 75](Regolamento%20recante%20disposizioni%20in%20materia%20di%20autorizzazioni%20generali%20nel%20settore%20postale.md), e' sostituito dall'allegato 2 al presente regolamento.
+
+3.
+
+L'allegato 3 del [decreto del Ministro delle comunicazioni 4 febbraio 2000, n. 75](Regolamento%20recante%20disposizioni%20in%20materia%20di%20autorizzazioni%20generali%20nel%20settore%20postale.md), e' sostituito dall'allegato 3 al presente regolamento.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 15 febbraio 2006
+Roma, 15 febbraio 2006
 
-Il Ministro: Landolfi
-
-Visto, il Guardasigilli: Castelli Registrato alla Corte dei conti il 10 marzo 2006
-
-Ufficio di controllo atti, Ministeri delle attivita' produttive,
-
-registro n. 1, foglio n. 317
-
-Allegato 1
-
- Allegato 1   
-(art. 3, comma 1)   
-  
-Al Ministero delle comuni-cazioni - Direzione generale per la regolamentazione del settore postale - Ufficio II - Viale America n. 201 - 00144 Roma   
-Il sottoscritto .... luogo e data di nascita .... residenza e domicilio .... cittadinanza .... societa/ditta .... sede legale .... codice fiscale e partita IVA.... telefono .... fax .... indirizzo di posta elettronica .... sito web .... dati del rappresentante legale .... cognome e nome .... luogo e data di nascita .... residenza e domicilio .... codice fiscale .... ai fini del conseguimento dell'autorizzazione generale di cui all'[art. 6 del decreto   
-legislativo n. 261 del 1999](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999;261~art6) e all'art. 3 del presente regolamento   
-  
-dichiara   
-  
-di essere in possesso dei requisiti prescritti e di voler espletare la seguente attivita': .... fino al 31 dicembre .................... e comunque per un periodo non superiore a sei anni;   
-fornisce i seguenti dati e notizie in ordine:   
-1) al capitale sociale (ove trattasi di persone giuridiche);   
-2) alla composizione dell'azionariato e al possesso delle quote sociali (ove trattasi di persone giuridiche);   
-3) al numero e tipo di licenze e di autorizzazioni eventualmente conseguite in altri Paesi dello SEE (anche in caso negativo);   
-4) alla localizzazione delle sedi operative, comprese quelle di mandatari;   
-5) alle condizioni economiche e operative dell'offerta del servizio (indicare i prezzi, le modalita' di svolgimento del servizio) nonche' ai parametri di qualita' del servizio stesso.   
-  
-Allega:   
-  
-a) documentazione o dichiarazione sostitutiva di atto di notorieta' resa ai sensi dell'[art. 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445~art47), corredata da fotocopia di un valido documento di riconoscimento del dichiarante, attestante che gli amministratori della societa' richiedente o il titolare della ditta richiedente non sono stati condannati a pena detentiva per delitto non colposo superiore ai sei mesi e non sono stati sottoposti a misure di sicurezza e di prevenzione;   
-b) certificato di iscrizione alla Camera di commercio, industria, artigianato e agricoltura (la visura non ha valore di certificazione) comprensiva di nulla osta antimafia, ai sensi del [decreto legislativo 8 agosto 1994, n. 490](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-08-08;490) e del [decreto del Presidente della Repubblica 3 giugno 1998, n. 252](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-06-03;252), oppure certificato equivalente per soggetti con sede in uno dei Paesi dello Spazio Economico Europeo (SEE);   
-c) in alternativa al nulla osta antimafia di cui alla lettera b), dichiarazione sostitutiva di atto di notorieta' resa ai sensi dell'[art. 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445~art47), corredata da fotocopia di un valido documento di riconoscimento del dichiarante da parte dei soggetti per i quali va acquisita la documentazione antimafia ai sensi del [decreto legislativo 8 agosto 1994, n. 490](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-08-08;490) e del [decreto del Presidente della Repubblica 3 giugno 1998, n. 252](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-06-03;252), secondo il modulo riportato nell'allegato 3;   
-d) dichiarazione sostitutiva di atto di notorieta' resa ai sensi dell'[art. 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445~art47), corredata da fotocopia di un valido documento di riconoscimento del dichiarante concernente il rispetto degli obblighi contributivi e previdenziali e del contratto collettivo di lavoro per il personale impiegato (in alternativa, specificare che non viene impiegato personale);   
-e) attestati dell'avvenuto pagamento del contributo a titolo di rimborso delle spese riguardanti l'istruttoria e del contributo per verifiche e controlli relativo al primo anno dal quale decorre l'autorizzazione generale, ai sensi del decreto 20 aprile 2000, e successive modifiche [pubblicato nella Gazzetta Ufficiale n. 105 dell'8 maggio 2000](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2000-05-08&numeroGazzetta=105).   
-  
-Si impegna:   
-1) a comunicare tempestivamente ogni modifica al contenuto della presente domanda;   
-2) a rispettare le norme in materia di sicurezza, di protezione ambientale e di salute pubblica;   
-3) ad osservare, in ogni caso, le disposizioni previste dal [decreto legislativo n. 261 del 1999](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999;261), dal presente regolamento e successive modifiche;   
-4) a versare il contributo annuo per l'attivita' di vigilanza e controllo entro il 31 gennaio di ciascun anno, inviando copia dell'attestato di avvenuto pagamento all'indirizzo: Ministero delle comunicazioni - Direzione generale per la regolamentazione del settore postale - Ufficio II, viale America n. 201 - 00144 Roma.   
-  
-Notizie facoltative   
-  
-chiede che la corrispondenza sia recapitata presso il seguente indirizzo (se diverso rispetto a quello della sede legale): .... ....; segnala il seguente nominativo e numero telefonico dell'incaricato da contattare per eventuali informazioni o comunicazioni: .... ....   
-  
-Data ....   
-  
-Timbro del richiedente   
-
-Allegato 2
-
- Allegato 2   
-(art. 3, comma 1)   
-  
-Al Ministero delle comunicazioni - Direzione generale per la   
-regolamentazione del settore postale - Ufficio II - Viale America n. 201 - 00144 Roma   
-Il sottoscritto .... luogo e data di nascita .... residenza e domicilio .... cittadinanza .... societa/ditta .... sede legale .... codice fiscale e partita IVA .... telefono .... fax .... indirizzo di posta elettronica .... sito web .... dati del rappresentante legale .... cognome e nome .... luogo e data di nascita .... residenza e domicilio .... codice fiscale ....
-
-(( ai fini del conseguimento dell'autorizzazione generale ad effetto immediato di cui all'art. 3, comma 1, del presente regolamento e successive modificazioni ))
-
-  
-  
-dichiara:   
-  
-di essere in possesso dei requisiti prescritti e di voler espletare il servizio di esercizio di casellario privato per la distribuzione della corrispondenza fino al 31 dicembre .......... e comunque per un periodo non superiore a sei anni;   
-fornisce i seguenti dati e notizie in ordine:   
-1) al capitale sociale (ove trattasi di persone giuridiche);   
-2) alla composizione dell'azionariato e al possesso delle quote sociali (ove trattasi di persone giuridiche);   
-3) al numero e tipo di licenze e di autorizzazioni eventualmente conseguite in altri Paesi dello SEE (anche in caso negativo);   
-4) alla localizzazione delle sedi operative, comprese quelle di mandatari, e al numero delle caselle gestite;   
-5) alle condizioni economiche e operative dell'offerta del servizio nonche' ai parametri di qualita' del servizio stesso.   
-  
-Allega:   
-  
-a) documentazione o dichiarazione sostitutiva di atto di notorieta' resa ai sensi dell'[art. 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445~art47), corredata da fotocopia di un valido documento di riconoscimento del dichiarante, attestante che gli amministratori della societa' richiedente o il titolare della ditta richiedente non sono stati condannati a pena detentiva per delitto non colposo superiore ai sei mesi e non sono stati sottoposti a misure di sicurezza e di prevenzione;   
-b) certificato di iscrizione alla Camera di commercio, industria, artigianato e agricoltura (la visura non ha valore di certificazione) comprensiva di nulla osta antimafia, ai sensi del [decreto legislativo 8 agosto 1994, n. 490](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-08-08;490) e del [decreto del Presidente della Repubblica 3 giugno 1998, n. 252](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-06-03;252), oppure certificato equivalente per soggetti con sede in uno dei Paesi dello Spazio Economico Europeo (SEE);   
-c) in alternativa al nulla osta antimafia di cui alla lettera b), dichiarazione sostitutiva di atto di notorieta' resa ai sensi dell'[art. 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445~art47), corredata da fotocopia di un valido documento di riconoscimento del dichiarante da parte dei soggetti per i quali va acquisita la documentazione antimafia ai sensi del [decreto legislativo 8 agosto 1994, n. 490](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-08-08;490) e del [decreto del Presidente della Repubblica 3 giugno 1998, n. 252](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-06-03;252), secondo il modulo riportato nell'allegato 3;   
-d) dichiarazione sostitutiva di atto di notorieta' resa ai sensi dell'[art. 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445~art47), corredata da fotocopia di un valido documento di riconoscimento del dichiarante, concernente il rispetto degli obblighi contributivi e previdenziali e del contratto collettivo di lavoro per il personale impiegato (in alternativa, specificare che non viene impiegato personale);   
-e) attestati dell'avvenuto pagamento del contributo a titolo di rimborso delle spese riguardanti l'istruttoria e del contributo per verifiche e controlli relativo al primo anno dal quale decorre l'autorizzazione generale, ai sensi del decreto 20 aprile 2000 e successive modifiche.   
-Si impegna:   
-1) a comunicare tempestivamente ogni modifica al contenuto della presente domanda;   
-2) a rispettare le norme in materia di sicurezza, di protezione ambientale e di salute pubblica;   
-3) ad osservare, in ogni caso, le disposizioni previste dal [decreto legislativo n. 261 del 1999](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999;261), dal presente regolamento e successive modificazioni;   
-4) a versare il contributo annuo per l'attivita' di vigilanza e controllo entro il 31 gennaio di ciascun anno, inviando copia dell'attestato di avvenuto pagamento all'indirizzo: Ministero delle comunicazioni - Direzione generale per la regolamentazione del settore postale - Ufficio II, viale America n. 201 - 00144 Roma.   
-  
-Notizie facoltative:   
-  
-chiede che la corrispondenza sia recapitata presso il seguente indirizzo (se diverso rispetto a quello della sede legale): .... ....;   
-segnala il seguente nominativo e numero telefonico dell'incaricato da contattare per eventuali informazioni o comunicazioni: .... ....   
-  
-Data ....   
-  
-Timbro del richiedente   
-
-Allegato 3
-
- Allegato 3   
-(allegati 1 e 2)   
-  
-DICHIARAZIONE SOSTITUTIVA DI ATTO DI NOTORIETA'   
-(ai sensi dell'[art. 47 del D.P.R. 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445~art47))   
-  
-Il sottoscritto .... nato a .... residente in .... via .... n. .......... nella qualita' di ....   
-  
-Dichiara   
-  
-in riferimento all'[art. 5, comma 1, del decreto del Presidente della Repubblica 3 giugno 1998, n. 252](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-06-03;252~art5-com1), che nei propri confronti non sussistono le cause di divieto, di decadenza o di sospensione di cui all'[art. 10 della legge 31 maggio 1965, n. 575](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575~art10).   
-  
-Data ....   
-  
-Timbro del richiedente   
+Il Ministro: Landolfi Visto, il Guardasigilli: Castelli Registrato alla Corte dei conti il 10 marzo 2006 Ufficio di controllo atti, Ministeri delle attivita' produttive, registro n. 1, foglio n. 317

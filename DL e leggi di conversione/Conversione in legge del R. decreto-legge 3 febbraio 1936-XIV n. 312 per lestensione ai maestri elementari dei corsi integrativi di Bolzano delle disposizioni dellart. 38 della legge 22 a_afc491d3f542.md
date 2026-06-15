@@ -1,16 +1,14 @@
-LEGGE 14 maggio 1936 n. 990
+---
+tipo: LEGGE
+numero: 990
+data: 1936-05-14
+titolo: "Conversione in legge del R. decreto-legge 3 febbraio 1936-XIV, n. 312, per l'estensione ai maestri elementari dei corsi integrativi di Bolzano delle disposizioni dell'art. 38 della legge 22 aprile 1932-X, n. 490. (036U0990)"
+urn: urn:nir:stato:legge:1936-05-14;990
+codice_redazionale: 036U0990
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 14 maggio 1936 n. 990
-===========================
-
-Conversione in legge del R. decreto-legge 3 febbraio 1936-XIV, n. 312, per l'estensione ai maestri elementari dei corsi integrativi di Bolzano delle disposizioni dell'art. 38 della legge 22 aprile 1932-X, n. 490. (036U0990)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/06/1936
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

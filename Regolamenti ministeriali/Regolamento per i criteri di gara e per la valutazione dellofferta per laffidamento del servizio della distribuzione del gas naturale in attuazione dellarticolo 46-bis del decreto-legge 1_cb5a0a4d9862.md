@@ -1,16 +1,14 @@
-DECRETO 12 novembre 2011 n. 226
-
-
-DECRETO 12 novembre 2011 n. 226
-===============================
-
-Regolamento per i criteri di gara e per la valutazione dell'offerta per l'affidamento del servizio della distribuzione del gas naturale, in attuazione dell'articolo 46-bis del decreto-legge 1° ottobre 2007, n. 159, convertito in legge, con modificazioni, dalla legge 29 novembre 2007, n. 222. (12G0010)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/02/2012
+---
+tipo: DECRETO
+numero: 226
+data: 2011-11-12
+titolo: "Regolamento per i criteri di gara e per la valutazione dell'offerta per l'affidamento del servizio della distribuzione del gas naturale, in attuazione dell'articolo 46-bis del decreto-legge 1° ottobre 2007, n. 159, convertito in legge, con modificazioni, dalla legge 29 novembre 2007, n. 222. (12G0010)"
+urn: urn:nir:ministero.sviluppo.economico:decreto:2011-11-12;226
+codice_redazionale: 012G0010
+vigente: true
+---
 
 IL MINISTRO DELLO SVILUPPO ECONOMICO
-------------------------------------
 
 E
 
@@ -18,21 +16,21 @@ IL MINISTRO PER I RAPPORTI CON LE REGIONI
 
 E LA COESIONE TERRITORIALE
 
-Visto l'[articolo 87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
+Visto l'[articolo 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [decreto legislativo 23 maggio 2000, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164), recante norme comuni per il mercato interno del gas, ed in particolare gli articoli 14 e 15 sull'attivita' di distribuzione e il regime di transizione;
+Visto il [decreto legislativo 23 maggio 2000, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md), recante norme comuni per il mercato interno del gas, ed in particolare gli articoli 14 e 15 sull'attivita' di distribuzione e il regime di transizione;
 
-Vista la [legge 23 agosto 2004, n. 239](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-08-23;239), recante riordino del settore energetico, la quale stabilisce disposizioni per il settore energetico atte a garantire la tutela della concorrenza e dei livelli essenziali delle prestazioni concernenti i diritti civili e sociali, ed in particolare l'articolo 1, comma 2, lettera c) secondo cui le attivita' di distribuzione di gas sono attribuite in concessione secondo le disposizioni di legge;
+Vista la [legge 23 agosto 2004, n. 239](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20del%20settore%20energetico%20nonche%20delega%20al%20Governo%20per%20il%20riassetto%20delle%20disposizioni%20vigenti%20in%20materia%20di%20energia.md), recante riordino del settore energetico, la quale stabilisce disposizioni per il settore energetico atte a garantire la tutela della concorrenza e dei livelli essenziali delle prestazioni concernenti i diritti civili e sociali, ed in particolare l'articolo 1, comma 2, lettera c) secondo cui le attivita' di distribuzione di gas sono attribuite in concessione secondo le disposizioni di legge;
 
-Visto il [decreto-legge 1° ottobre 2007, n. 159](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-10-01;159) convertito, con modificazioni, in [legge 29 novembre 2007, n. 222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-11-29;222), recante interventi urgenti in materia economico - finanziaria, per lo sviluppo e l'equita' sociale, ed in particolare l'articolo 46 - bis, comma 1, che nell'ambito delle disposizioni in materia di concorrenza e qualita' dei servizi essenziali nel settore della distribuzione del gas, stabilisce che con decreto dei Ministri dello sviluppo economico e per i rapporti con le regioni, sentita la Conferenza unificata e su parere dell'Autorita' per l'energia elettrica e il gas, sono individuati i criteri di gara e di valutazione dell'offerta per l'affidamento del servizio di distribuzione del gas previsto dall'[articolo 14, comma 1, del decreto legislativo 23 maggio 2000, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164~art14-com1), tenendo conto in materia adeguata, oltre che delle condizioni economiche offerte, e in particolare di quelle a vantaggio dei consumatori, degli standard qualitativi e di sicurezza del servizio, dei piani di investimento e di sviluppo delle reti e degli impianti;
+Visto il [decreto-legge 1° ottobre 2007, n. 159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-10-01;159) convertito, con modificazioni, in [legge 29 novembre 2007, n. 222](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20ottobre%202007%20n.%20159%20recante%20interventi%20urgenti%20in%20materia%20economico-finanziaria%20per%20lo%20sviluppo%20e%20lequita%20sociale.md), recante interventi urgenti in materia economico - finanziaria, per lo sviluppo e l'equita' sociale, ed in particolare l'articolo 46 - bis, comma 1, che nell'ambito delle disposizioni in materia di concorrenza e qualita' dei servizi essenziali nel settore della distribuzione del gas, stabilisce che con decreto dei Ministri dello sviluppo economico e per i rapporti con le regioni, sentita la Conferenza unificata e su parere dell'Autorita' per l'energia elettrica e il gas, sono individuati i criteri di gara e di valutazione dell'offerta per l'affidamento del servizio di distribuzione del gas previsto dall'[articolo 14, comma 1, del decreto legislativo 23 maggio 2000, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md), tenendo conto in materia adeguata, oltre che delle condizioni economiche offerte, e in particolare di quelle a vantaggio dei consumatori, degli standard qualitativi e di sicurezza del servizio, dei piani di investimento e di sviluppo delle reti e degli impianti;
 
-Visto il [decreto-legge 25 giugno 2008, n. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112) convertito, con modificazioni, in [legge 6 agosto 2008, n. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133), recante disposizioni urgenti per lo sviluppo economico, la semplificazione, la competitivita', la stabilizzazione della finanza pubblica e la perequazione tributaria;
+Visto il [decreto-legge 25 giugno 2008, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112) convertito, con modificazioni, in [legge 6 agosto 2008, n. 133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20economico%20la%20semplificazione%20la%20competitivita%20la%20stabilizzazion_29f97015e2f4.md), recante disposizioni urgenti per lo sviluppo economico, la semplificazione, la competitivita', la stabilizzazione della finanza pubblica e la perequazione tributaria;
 
-Vista la [legge 23 luglio 2009, n. 99](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), recante disposizioni per lo sviluppo e l'internazionalizzazione delle imprese, nonche' in materia di energia;
+Vista la [legge 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), recante disposizioni per lo sviluppo e l'internazionalizzazione delle imprese, nonche' in materia di energia;
 
-Vista la [legge 4 giugno 2010, n. 96](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-06-04;96) concernente disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge comunitaria 2009 e in particolare l'articolo 17, comma 4, che prevede che, nella predisposizione del decreto legislativo di attuazione della [direttiva 2009/73/CE del Parlamento europeo e del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009L0073), relativa a norme comuni per il mercato interno del gas naturale, il Governo e' tenuto a seguire il criterio direttivo di prevedere che, nella situazione a regime, al termine della durata delle nuove concessioni di distribuzione del gas naturale affidate ai sensi dell'[articolo 14 del decreto legislativo 23 maggio 2000, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164~art14), i meccanismi di valorizzazione delle reti siano coerenti con i criteri posti alla base della definizione delle rispettive tariffe;
+Vista la [legge 4 giugno 2010, n. 96](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md) concernente disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge comunitaria 2009 e in particolare l'articolo 17, comma 4, che prevede che, nella predisposizione del decreto legislativo di attuazione della [direttiva 2009/73/CE del Parlamento europeo e del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2009;73), relativa a norme comuni per il mercato interno del gas naturale, il Governo e' tenuto a seguire il criterio direttivo di prevedere che, nella situazione a regime, al termine della durata delle nuove concessioni di distribuzione del gas naturale affidate ai sensi dell'[articolo 14 del decreto legislativo 23 maggio 2000, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md), i meccanismi di valorizzazione delle reti siano coerenti con i criteri posti alla base della definizione delle rispettive tariffe;
 
-Visto il [decreto legislativo 1 giugno 2011, n. 93](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-01;93), recante, fra l'altro, attuazione della [direttiva 2009/73/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009L0073) concernente il mercato interno del gas naturale, ed in particolare l'art. 24 che, tra l'altro, modifica l'[art. 14 del decreto legislativo 23 maggio 2000, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164~art14) per rendere la determinazione del valore di rimborso a regime congruente con la valorizzazione delle reti in base alla regolazione tariffaria, prevede che l'Autorita' per l'energia elettrica e il gas riconosca in tariffa l'ammortamento della differenza fra il valore di rimborso nel primo periodo, come determinato dal presente regolamento, e il valore delle immobilizzazioni nette, al netto dei contributi, determinato dalla regolazione tariffaria;
+Visto il [decreto legislativo 1 giugno 2011, n. 93](../Decreti%20Legislativi/Attuazione%20delle%20direttive%202009-72-CE%202009-73-CE%20e%202008-92-CE%20relative%20a%20norme%20comuni%20per%20il%20mercato%20interno%20dellenergia%20elettrica%20del%20gas%20naturale%20e%20ad%20una%20procedura%20comunitaria%20sulla%20tr_ae722651dcf4.md), recante, fra l'altro, attuazione della [direttiva 2009/73/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2009;73) concernente il mercato interno del gas naturale, ed in particolare l'art. 24 che, tra l'altro, modifica l'[art. 14 del decreto legislativo 23 maggio 2000, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md) per rendere la determinazione del valore di rimborso a regime congruente con la valorizzazione delle reti in base alla regolazione tariffaria, prevede che l'Autorita' per l'energia elettrica e il gas riconosca in tariffa l'ammortamento della differenza fra il valore di rimborso nel primo periodo, come determinato dal presente regolamento, e il valore delle immobilizzazioni nette, al netto dei contributi, determinato dalla regolazione tariffaria;
 
 Visto il decreto 19 gennaio 2011 del Ministro dello sviluppo economico di concerto con il Ministro per i rapporti con le Regioni e la Coesione Territoriale, pubblicato sulla Gazzetta Ufficiale del 31 marzo 2011 n. 74, sulla determinazione degli ambiti territoriali nel settore della distribuzione del gas naturale;
 
@@ -40,9 +38,9 @@ Considerato che, il presente provvedimento, contribuendo ad accelerare il proces
 
 Considerato che, ai fini di un efficace e efficiente processo di affidamento del servizio di distribuzione per ambito territoriale, si ritiene indispensabile che gli Enti locali appartenenti ad un ambito individuino un'amministrazione o un'organizzazione gia' istituita cui delegare l'espletamento della procedura di gara e che un'amministrazione, quale il Comune Capoluogo o la Provincia, favorisca il processo di aggregazione dei numerosi Enti locali appartenenti all'ambito;
 
-Ritenuto che, come richiesto in sede di Conferenza Unificata, l'amministrazione con funzione di stazione appaltante possa essere il Comune capoluogo di provincia, qualora presente nell'ambito; mentre negli altri casi possa essere un Comune capofila o la Provincia o altro soggetto, come una societa' patrimoniale delle reti costituita ai sensi dell'[articolo 113, comma 13, del decreto legislativo 18 agosto 2000, n. 267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-18;267~art113-com13), dove presente, e che la sua scelta debba essere effettuata dai Comuni dell'ambito;
+Ritenuto che, come richiesto in sede di Conferenza Unificata, l'amministrazione con funzione di stazione appaltante possa essere il Comune capoluogo di provincia, qualora presente nell'ambito; mentre negli altri casi possa essere un Comune capofila o la Provincia o altro soggetto, come una societa' patrimoniale delle reti costituita ai sensi dell'[articolo 113, comma 13, del decreto legislativo 18 agosto 2000, n. 267](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md), dove presente, e che la sua scelta debba essere effettuata dai Comuni dell'ambito;
 
-Ritenuto che la funzione di indirizzo e di programmazione di cui all'[articolo 14, comma 1, del decreto legislativo 23 maggio 2000, n.164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164~art14-com1) possa essere svolta dai singoli Enti locali, fornendo alla stazione appaltante le informazioni sullo stato dell'impianto e sulle esigenze di sviluppo della distribuzione del gas naturale nel territorio di riferimento;
+Ritenuto che la funzione di indirizzo e di programmazione di cui all'[articolo 14, comma 1, del decreto legislativo 23 maggio 2000, n.164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md) possa essere svolta dai singoli Enti locali, fornendo alla stazione appaltante le informazioni sullo stato dell'impianto e sulle esigenze di sviluppo della distribuzione del gas naturale nel territorio di riferimento;
 
 Ritenuto che, per una piu' efficace e ordinata gestione del servizio, e' indispensabile un unico canale di comunicazione tra il gestore dell'impianto e gli Enti locali e che quindi, la stazione appaltante, o altro soggetto individuato dai Comuni appartenenti all'ambito, debba gestire il rapporto con l'impresa di distribuzione durante l'esercizio dell'impianto per delega degli Enti locali concedenti, coadiuvata da un comitato di monitoraggio, costituito dai rappresentanti degli altri Enti locali medesimi, coordinando cosi' la vigilanza e il controllo dei vari Enti locali sul rispetto degli impegni assunti dal gestore nel contratto di esercizio, nonche' le esigenze di nuovi investimenti che possano insorgere nel tempo;
 
@@ -50,21 +48,21 @@ Ritenuto che sia necessario prevedere una preferenza per lo scaglionamento delle
 
 Ritenuto che l'ordine di priorita' per le date di scadenza debba seguire un criterio oggettivo quale la media ponderale di scadenza "ope legis" delle concessioni in vigore per gli impianti di distribuzione appartenenti a ciascun ambito, pesata sul numero dei clienti; insieme ad un criterio di scaglionamento territoriale che eviti che la maggior parte degli ambiti di una stessa Regione vada in gara nello stesso anno;
 
-Considerato che il [decreto legislativo 12 aprile 2006, n. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163) si applica automaticamente alle concessioni del servizio di distribuzione del gas naturale solo per gli articoli 216 e 30 e per la parte IV sul contenzioso, per cui le altre disposizioni del medesimo decreto troveranno applicazione alla materia qui disciplinata solo laddove espressamente richiamate dal presente regolamento;
+Considerato che il [decreto legislativo 12 aprile 2006, n. 163](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md) si applica automaticamente alle concessioni del servizio di distribuzione del gas naturale solo per gli articoli 216 e 30 e per la parte IV sul contenzioso, per cui le altre disposizioni del medesimo decreto troveranno applicazione alla materia qui disciplinata solo laddove espressamente richiamate dal presente regolamento;
 
-Considerato che l'[articolo 15, comma 5, del decreto legislativo 23 maggio 2000, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164~art15-com5) prevede che per gli affidamenti e le concessioni in essere, per i quali non e' previsto un termine di scadenza o e' previsto un termine che supera il periodo transitorio, e' riconosciuto un rimborso, a carico del nuovo gestore, calcolato nel rispetto di quanto stabilito nelle convenzioni o nei contratti e, per quanto non desumibile dalla volonta' delle parti, con i criteri di cui alle [lettere a)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;2578~art24-leta) e [b) dell'articolo 24 del regio decreto 15 ottobre 1925, n. 2578](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;2578~art24-letb), ma che, tuttavia, tale previsione necessita di una metodologia applicativa dettagliata, nei casi in cui non sia gia' prevista nelle convenzioni o nei contratti, per evitare contenziosi sulla sua applicazione;
+Considerato che l'[articolo 15, comma 5, del decreto legislativo 23 maggio 2000, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md) prevede che per gli affidamenti e le concessioni in essere, per i quali non e' previsto un termine di scadenza o e' previsto un termine che supera il periodo transitorio, e' riconosciuto un rimborso, a carico del nuovo gestore, calcolato nel rispetto di quanto stabilito nelle convenzioni o nei contratti e, per quanto non desumibile dalla volonta' delle parti, con i criteri di cui alle [lettere a)](../Regi%20decreti/Approvazione%20del%20testo%20unico%20della%20legge%20sullassunzione%20diretta%20dei%20pubblici%20servizi%20da%20parte%20dei%20Comuni%20e%20delle%20Provincie.%20025U2578.md) e [b) dell'articolo 24 del regio decreto 15 ottobre 1925, n. 2578](../Regi%20decreti/Approvazione%20del%20testo%20unico%20della%20legge%20sullassunzione%20diretta%20dei%20pubblici%20servizi%20da%20parte%20dei%20Comuni%20e%20delle%20Provincie.%20025U2578.md), ma che, tuttavia, tale previsione necessita di una metodologia applicativa dettagliata, nei casi in cui non sia gia' prevista nelle convenzioni o nei contratti, per evitare contenziosi sulla sua applicazione;
 
-Ritenuto che sia indispensabile ai fini della definizione dei criteri di gara e di valutazione dell'offerta, l'identificazione degli elementi necessari per la determinazione del valore di rimborso al gestore uscente sia nel primo periodo transitorio che in quelli successivi, a regime, in conformita' rispettivamente con gli [articoli 15 comma 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164~art15-com5) e [14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164~art15-com14) [comma 8 del decreto legislativo 23 maggio 2000, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164~art15-com8), in quanto tali valori costituiscono importanti parametri da introdurre nel bando di gara sia ai fini della concorrenza, sia ai fini della tutela dei diritti del gestore uscente;
+Ritenuto che sia indispensabile ai fini della definizione dei criteri di gara e di valutazione dell'offerta, l'identificazione degli elementi necessari per la determinazione del valore di rimborso al gestore uscente sia nel primo periodo transitorio che in quelli successivi, a regime, in conformita' rispettivamente con gli [articoli 15 comma 5](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md) e [14](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md) [comma 8 del decreto legislativo 23 maggio 2000, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md), in quanto tali valori costituiscono importanti parametri da introdurre nel bando di gara sia ai fini della concorrenza, sia ai fini della tutela dei diritti del gestore uscente;
 
-Considerato che l'[articolo 30, comma 21, della legge 23 luglio 2009, n. 99](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99~art30-com21) prevede una validita' dei bolli metrici sui misuratori di gas con portata massima di 10 metri cubi/h pari a 15 anni, che le tubazioni in ghisa con giunti in piombo e canapa sono obsolete in quanto l'Autorita' per l'energia elettrica e il gas, nella regolazione della qualita', prevede l' obbligo della loro sostituzione o risanamento, che le tubazioni in acciaio senza protezione catodica si degradano in maniera accelerata, tanto che la medesima regolazione ha previsto un calendario con l'obbligo di messa in protezione catodica efficace di tali tubazioni;
+Considerato che l'[articolo 30, comma 21, della legge 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99#art_30-com21) prevede una validita' dei bolli metrici sui misuratori di gas con portata massima di 10 metri cubi/h pari a 15 anni, che le tubazioni in ghisa con giunti in piombo e canapa sono obsolete in quanto l'Autorita' per l'energia elettrica e il gas, nella regolazione della qualita', prevede l' obbligo della loro sostituzione o risanamento, che le tubazioni in acciaio senza protezione catodica si degradano in maniera accelerata, tanto che la medesima regolazione ha previsto un calendario con l'obbligo di messa in protezione catodica efficace di tali tubazioni;
 
 Considerato che le tariffe determinate dall'Autorita' per l'Energia Elettrica e il Gas a partire dal 1° ottobre 2004 hanno riconosciuto quote annuali di ammortamento in linea con le vite utili ai fini regolatori;
 
-Considerato che l'[articolo 30 del decreto legislativo 12 aprile 2006, n. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163~art30), applicabile alle concessioni nel gas ai sensi dell'articolo 216 del medesimo decreto legislativo, prevede che nella concessione di servizi la controprestazione a favore del concessionario consiste unicamente nel diritto di gestire funzionalmente e di sfruttare economicamente il servizio, e che un premio debba essere corrisposto dall'ente concedente, qualora il concessionario debba applicare tariffe piu' basse di quelle determinate per mantenere l'equilibrio economico-finanziario della gestione;
+Considerato che l'[articolo 30 del decreto legislativo 12 aprile 2006, n. 163](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), applicabile alle concessioni nel gas ai sensi dell'articolo 216 del medesimo decreto legislativo, prevede che nella concessione di servizi la controprestazione a favore del concessionario consiste unicamente nel diritto di gestire funzionalmente e di sfruttare economicamente il servizio, e che un premio debba essere corrisposto dall'ente concedente, qualora il concessionario debba applicare tariffe piu' basse di quelle determinate per mantenere l'equilibrio economico-finanziario della gestione;
 
 Ritenuto, quindi, che gli oneri dovuti dal distributore agli Enti locali concedenti e ai soggetti da loro delegati debbano coprire i costi effettivamente sostenuti e la remunerazione del capitale investito, qualora la rete sia di proprieta' del Comune stesso, mentre il concessionario debba essere valutato soprattutto sulle condizioni economiche a favore dei clienti finali, sui livelli di sicurezza e qualita' con cui gestisce gli impianti e sulla bonta' del piano di sviluppo degli impianti, contenente sia gli investimenti per espansione e potenziamento sia quelli per il mantenimento in efficienza degli impianti;
 
-Acquisito il parere dell'Autorita' per l'energia elettrica e il gas ai sensi dell'[articolo 46 - bis, comma 1, della legge 29 novembre 2007, n. 222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-11-29;222~art46bis-com1), concernente la conversione in legge, con modificazioni, del [decreto legge 1° ottobre 2007, n. 159](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-10-01;159), acquisito con deliberazione 5 agosto 2010 - PAS 17/10;
+Acquisito il parere dell'Autorita' per l'energia elettrica e il gas ai sensi dell'[articolo 46 - bis, comma 1, della legge 29 novembre 2007, n. 222](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20ottobre%202007%20n.%20159%20recante%20interventi%20urgenti%20in%20materia%20economico-finanziaria%20per%20lo%20sviluppo%20e%20lequita%20sociale.md), concernente la conversione in legge, con modificazioni, del [decreto legge 1° ottobre 2007, n. 159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-10-01;159), acquisito con deliberazione 5 agosto 2010 - PAS 17/10;
 
 Sentita la Conferenza Unificata, di cui all'articolo 8 del decreto legislativo 28 agosto 1997, nella seduta del 16 dicembre 2010;
 
@@ -72,712 +70,746 @@ Udito il parere del Consiglio di Stato espresso dalla Sezione consultiva per gli
 
 Vista la comunicazione al Presidente del Consiglio dei Ministri effettuata con nota del 7 novembre 2011, protocollo n. 21704;
 
-Visto l'[articolo 17, commi 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3) e [4, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com4);
+Visto l'[articolo 17, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) e [4, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4);
 
-Emanano
--------
+Emanano il seguente regolamento:
 
-il seguente regolamento:
+## Art. 1. — Definizioni
 
-Art. 1
-------
+1.
 
-Definizioni
+Ai fini del presente decreto si applicano le definizioni che seguono:
+                        a)
+                            "Ambito" e' l'ambito territoriale minimo ai sensi dell'[articolo 46-bis, comma 2, del decreto legge 1 ottobre 2007, n. 159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-10-01;159#art_46bis-com2), convertito con modificazioni, dalla [legge 29 novembre 2007, n. 222 e dell'articolo 30, comma 26](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20ottobre%202007%20n.%20159%20recante%20interventi%20urgenti%20in%20materia%20economico-finanziaria%20per%20lo%20sviluppo%20e%20lequita%20sociale.md), della [legge 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99).
+                        b)
+                            "Allegato 1" e' l'allegato 1 "Data limite entro cui la Provincia, in assenza del Comune capoluogo di provincia, convoca i Comuni d'ambito per l'individuazione della stazione appaltante e da cui decorre il tempo per un eventuale intervento della Regione di cui all'articolo 3 del regolamento", facente parte integrante del presente regolamento.
+                        c)
+                            "Allegato 2" e' l'allegato 2 "Bando di gara tipo", facente parte integrante del presente regolamento.
+                        d)
+                            "Allegato 3" e' l'allegato 3 "Disciplinare di gara tipo", facente parte integrante del presente regolamento.
+                        e)
+                            "Allegato 4" e' l'allegato 4 "Dati significativi di aggiudicazione della gara per il monitoraggio degli effetti del decreto", facente parte integrante del presente regolamento.
+                        f)
+                            "Autorita'" e' l'Autorita' per l'energia elettrica e il gas.
+                        g)
+                            "Impianto con scadenza ope legis della concessione successiva alla gara" e' un impianto di distribuzione avente una scadenza ope legis della concessione almeno un anno dopo la data di affidamento del servizio del primo impianto dell'ambito al gestore aggiudicatario della gara d'ambito.
+                        h)
+                            "Primo periodo" e' la situazione transitoria, caratterizzata dalla scadenza anticipata ope legis della concessione, a cui si applica l'[articolo 15 del decreto legislativo 23 maggio 2000, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md), fino al subentro del gestore aggiudicatario della prima gara d'ambito effettuata ai sensi dell'articolo 14 del medesimo decreto legislativo.
+                        i)
+                            "Regime" e' la situazione, caratterizzata dalla scadenza dell'affidamento come prevista negli atti concessori, comunque non superiore a 12 anni dall'affidamento, al termine della durata delle concessioni affidate per la prima volta ai sensi dell' [articolo 14 del decreto legislativo 23 maggio 2000, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md).
+                        j)
+                            "Scadenza naturale" e' la scadenza dell'affidamento prevista nell'atto di concessione originario o nei successivi atti aggiuntivi, purche' stipulati antecedentemente l'entrata in vigore del [decreto legislativo 23 maggio 2000, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md).
+                        k)
+                            "Scadenza ope legis" e' la scadenza della concessione, anticipata rispetto alla scadenza naturale, prevista dall'[articolo 15 del decreto legislativo 23 maggio 2000, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md), come modificato dall'[articolo 69 della legge 23 agosto 2004, n.239](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20del%20settore%20energetico%20nonche%20delega%20al%20Governo%20per%20il%20riassetto%20delle%20disposizioni%20vigenti%20in%20materia%20di%20energia.md) e dall'[articolo 23 della legge 23 febbraio 2006, n. 51](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202005%20n.%20273%20recante%20definizione%20e%20proroga%20di%20termini%20nonche%20conseguenti%20disposizioni%20urgenti.%20Proroga%20di%20termini%20relat_8fa6bc6dddf9.md), di conversione in legge del [decreto legge 30 dicembre 2005, n. 273](../DL%20proroghe/Definizione%20e%20proroga%20di%20termini%20nonche%20conseguenti%20disposizioni%20urgenti.md).
+                        l)
+                            "Stato di consistenza" e' l'insieme di documenti comprendente la cartografia, come definita nell'allegato alla deliberazione ARG/gas 120/08 dell'Autorita', e la descrizione delle reti e degli impianti afferenti il servizio di distribuzione di gas naturale, con evidenza dell'anno di realizzazione e delle loro caratteristiche costruttive, funzionali e conservative; in particolare per ogni tratto di rete dovra' essere registrato almeno l'anno di posa, il materiale e il diametro.
+                        m)
+                            "Stazione appaltante" e' il soggetto che, su delega degli Enti locali concedenti appartenenti all'ambito, ha la responsabilita' di bandire, gestire e aggiudicare la gara di affidamento del servizio di distribuzione in tutti i Comuni dell'ambito.
+                        n)
+                            "Valore annuo del servizio" e' la somma dei vincoli ai ricavi approvati dall'Autorita' attribuibili a tutti gli impianti di distribuzione dei singoli Comuni dell'ambito, inclusi quelli con scadenza ope legis della concessione successiva alla data di affidamento del servizio del primo impianto.
+                        o)
+                            Per quanto non diversamente disposto dal presente regolamento si applicano le definizioni in materia di attivita' di distribuzione di cui alle pertinenti delibere dell'Autorita' per l'energia elettrica e il gas.
 
-1. Ai fini del presente decreto si applicano le definizioni che seguono:
+Avvertenza: 
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art.10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n.1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE). 
+ Note alle premesse: 
+ L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi ed emanare i decreti aventi valore di legge e i regolamenti. 
+ Si riporta il testo degli [articoli 14](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md) e [15 del decreto legislativo 23 maggio 2000, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md) (Attuazione della [direttiva 98/30/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;30) recante norme comuni per il mercato interno del gas), pubblicato nella Gazz. Uff. 20 giugno 2000, n. 142: 
+ "Art. 14. Attivita' di distribuzione. 
+ 1. L'attivita' di distribuzione di gas naturale e' attivita' di servizio pubblico. Il servizio e' affidato esclusivamente mediante gara per periodi non superiori a dodici anni. Gli enti locali che affidano il servizio, anche in forma associata, svolgono attivita' di indirizzo, di vigilanza, di programmazione e di controllo sulle attivita' di distribuzione, ed i loro rapporti con il gestore del servizio sono regolati da appositi contratti di servizio, sulla base di un contratto tipo predisposto dall'Autorita' per l'energia elettrica e il gas ed approvato dal Ministero dell'industria, del commercio e dell'artigianato entro sei mesi dalla data di entrata in vigore del presente decreto. 
+ 2. Ai fini del presente decreto, per enti locali si intendono comuni, unioni di comuni e comunita' montane. 
+ 3. Nell' ambito dei contratti di servizio di cui al comma 1 sono stabiliti la durata, le modalita' di espletamento del servizio, gli obiettivi qualitativi, l'equa distribuzione del servizio sul territorio, gli aspetti economici del rapporto, i diritti degli utenti, i poteri di verifica dell'ente che affida il servizio, le conseguenze degli inadempimenti, le condizioni del recesso anticipato dell'ente stesso per inadempimento del gestore del servizio. 
+ 4. Alla scadenza del periodo di affidamento del servizio, le reti, nonche' gli impianti e le dotazioni dichiarati reversibili, rientrano nella piena disponibilita' dell'ente locale. Gli stessi beni, se realizzati durante il periodo di affidamento, sono trasferiti all'ente locale alle condizioni stabilite nel bando di gara e nel contratto di servizio. 
+ 5. Alle gare di cui al comma 1 sono ammesse, senza limitazioni territoriali, societa' per azioni o a responsabilita' limitata, anche a partecipazione pubblica, e societa' cooperative a responsabilita' limitata, sulla base di requisiti oggettivi, proporzionati e non discriminatori, con la sola esclusione delle societa', delle loro controllate, controllanti e controllate da una medesima controllante, che, in Italia o in altri Paesi dell'Unione europea, gestiscono di fatto, o per disposizioni di legge, di atto amministrativo o per contratto, servizi pubblici locali in virtu' di affidamento diretto o di una procedura non ad evidenza pubblica. Alle gare sono ammessi inoltre i gruppi europei di interesse economico. 
+ 6. Nel rispetto degli standard qualitativi, quantitativi, ambientali, di equa distribuzione sul territorio e di sicurezza, la gara e' aggiudicata sulla base delle migliori condizioni economiche e di prestazione del servizio, del livello di qualita' e sicurezza, dei piani di investimento per lo sviluppo e il potenziamento delle reti e degli impianti, per il loro rinnovo e manutenzione, nonche' dei contenuti di innovazione tecnologica e gestionale presentati dalle imprese concorrenti. Tali elementi fanno parte integrante del contratto di servizio. 
+ 7. Gli enti locali avviano la procedura di gara non oltre un anno prima della scadenza dell'affidamento, in modo da evitare soluzioni di continuita' nella gestione del servizio. Il gestore uscente resta comunque obbligato a proseguire la gestione del servizio, limitatamente all'ordinaria amministrazione, fino alla data di decorrenza del nuovo affidamento. Ove l'ente locale non provveda entro il termine indicato, la regione, anche attraverso la nomina di un commissario ad acta, avvia la procedura di gara. 
+ 8. Il nuovo gestore, con riferimento agli investimenti realizzati sugli impianti oggetto di trasferimento di proprieta' nei precedenti affidamenti o concessioni, e' tenuto a subentrare nelle garanzie e nelle obbligazioni relative ai contratti di finanziamento in essere o ad estinguere queste ultime e a corrispondere una somma al distributore uscente in misura pari al valore di rimborso per gli impianti la cui proprieta' e' trasferita dal distributore uscente al nuovo gestore. Nella situazione a regime, al termine della durata delle nuove concessioni di distribuzione del gas naturale affidate ai sensi del comma 1, il valore di rimborso al gestore uscente e' pari al valore delle immobilizzazioni nette di localita' del servizio di distribuzione e misura, relativo agli impianti la cui proprieta' viene trasferita dal distributore uscente al nuovo gestore, incluse le immobilizzazioni in corso di realizzazione, al netto dei contributi pubblici in conto capitale e dei contributi privati relativi ai cespiti di localita', calcolato secondo la metodologia della regolazione tariffaria vigente e sulla base della consistenza degli impianti al momento del trasferimento della proprieta'. 
+ 9. Gli oneri gravanti sul nuovo gestore ai sensi del comma 8 sono indicati nel bando di gara stimando il valore di rimborso delle immobilizzazioni previste dopo l'emissione del bando di gara. Il bando di gara riporta le modalita' per regolare il valore di rimborso relativo a queste ultime immobilizzazioni. Il gestore subentrante acquisisce la disponibilita' degli impianti dalla data del pagamento della somma corrispondente agli oneri suddetti, ovvero dalla data di offerta reale della stessa. 
+ 10. Le imprese di gas che svolgono l'attivita' di distribuzione sono tenute alla certificazione di bilancio a decorrere dal 1° gennaio 2002." 
+ "Art. 15. Regime di transizione nell'attivita' di distribuzione. 
+ 1. Entro il 1° gennaio 2003 sono adottate dagli enti locali le deliberazioni di adeguamento alle disposizioni del presente decreto. Tale adeguamento avviene mediante l'indizione di gare per l'affidamento del servizio ovvero attraverso la trasformazione delle gestioni in societa' di capitali o in societa' cooperative a responsabilita' limitata, anche tra dipendenti. Detta trasformazione puo' anche comportare il frazionamento societario. Ove l'adeguamento di cui al presente comma non avvenga entro il termine indicato, provvede nei successivi tre mesi, anche attraverso la nomina di un proprio delegato, il rappresentante dell'ente titolare del servizio. Per gestioni associate o per ambiti a dimensione sovracomunale, in caso di inerzia, la regione procede all'affidamento immediato del servizio mediante gara, nominando a tal fine un commissario ad acta. 
+ 2. La trasformazione in societa' di capitali delle aziende che gestiscono il servizio di distribuzione gas avviene con le modalita' di cui all'[articolo 17, commi 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_17-com51), [52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_17-com52), [53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_17-com53), [56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_17-com56) e [57, della legge 15 maggio 1997, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_17-com57). Le stesse modalita' si applicano anche alla trasformazione di aziende consortili, intendendosi sostituita al consiglio comunale l'assemblea consortile. In questo caso le deliberazioni sono adottate a maggioranza dei componenti; gli enti locali che non intendono partecipare alla societa' hanno diritto alla liquidazione sulla base del valore nominale iscritto a bilancio della relativa quota di capitale. L'ente titolare del servizio puo' restare socio unico delle societa' di cui al presente comma per un periodo non superiore a due anni dalla trasformazione. 
+ 3. Per la determinazione della quota di capitale sociale spettante a ciascun ente locale, socio della societa' risultante dalla trasformazione delle aziende consortili, si tiene conto esclusivamente dei criteri di ripartizione del patrimonio previsti per il caso di liquidazione dell'azienda consortile. 
+ 4. Con riferimento al servizio di distribuzione del gas, l'affidamento diretto a societa' controllate dall'ente titolare del servizio prosegue per i periodi indicati ai commi 5 e 6, anche nel caso in cui l'ente locale, per effetto di operazioni di privatizzazione, abbia perduto il controllo della societa'. 
+ 5. Per l'attivita' di distribuzione del gas, gli affidamenti e le concessioni in essere alla data di entrata in vigore del presente decreto, nonche' quelli alle societa' derivate dalla trasformazione delle attuali gestioni, proseguono fino alla scadenza stabilita, se compresa entro i termini previsti dal comma 7 per il periodo transitorio. Gli affidamenti e le concessioni in essere per i quali non e' previsto un termine di scadenza o e' previsto un termine che supera il periodo transitorio, proseguono fino al completamento del periodo transitorio stesso. In quest'ultimo caso, ai titolari degli affidamenti e delle concessioni in essere e' riconosciuto un rimborso, a carico del nuovo gestore ai sensi del comma 8 dell'articolo 14, calcolato nel rispetto di quanto stabilito nelle convenzioni o nei contratti e, per quanto non desumibile dalla volonta' delle parti, con i criteri di cui alle [lettere a)](../Regi%20decreti/Approvazione%20del%20testo%20unico%20della%20legge%20sullassunzione%20diretta%20dei%20pubblici%20servizi%20da%20parte%20dei%20Comuni%20e%20delle%20Provincie.%20025U2578.md) e [b) dell'articolo 24 del regio decreto 15 ottobre 1925, n. 2578](../Regi%20decreti/Approvazione%20del%20testo%20unico%20della%20legge%20sullassunzione%20diretta%20dei%20pubblici%20servizi%20da%20parte%20dei%20Comuni%20e%20delle%20Provincie.%20025U2578.md). Resta sempre esclusa la valutazione del mancato profitto derivante dalla conclusione anticipata del rapporto di gestione. 
+ 6. Decorso il periodo transitorio, l'ente locale procede all'affidamento del servizio secondo le modalita' previste dall'articolo 14. 
+ 7. Il periodo transitorio di cui al comma 5 e' fissato in cinque anni a decorrere dal 31 dicembre 2000. Tale periodo puo' essere incrementato, alle condizioni sotto indicate, in misura non superiore a: 
+ a) un anno nel caso in cui, almeno un anno prima dello scadere dei cinque anni, si realizzi una fusione societaria che consenta di servire un'utenza complessivamente non inferiore a due volte quella originariamente servita dalla maggiore delle societa' oggetto di fusione; 
+ b) due anni nel caso in cui, entro il termine di cui alla lettera a), l'utenza servita risulti superiore a centomila clienti finali, o il gas naturale distribuito superi i cento milioni di metri cubi all'anno, ovvero l'impresa operi in un ambito corrispondente almeno all'intero territorio provinciale; 
+ c) due anni nel caso in cui, entro il termine di cui alla lettera a), il capitale privato costituisca almeno il 40% del capitale sociale. 
+ 8. 
+ 9. Gli affidamenti e le concessioni in essere alla data di entrata in vigore del presente decreto sono mantenuti per la durata in essi stabilita ove questi siano stati attribuiti mediante gara, e comunque per un periodo non superiore a dodici anni a partire dal 31 dicembre 2000. 
+ 10. I soggetti titolari degli affidamenti o delle concessioni di cui al comma 5 del presente articolo possono partecipare alle gare indette a norma dell'articolo 14, comma 1, senza limitazioni. Per i soggetti che devono essere costituiti o trasformati ai sensi dei commi 1, 2, e 3 del presente articolo, la partecipazione alle gare e' consentita a partire dalla data dell'avvenuta costituzione o trasformazione. 
+ 10-bis. Per le concessioni e gli affidamenti in essere per la realizzazione delle reti e la gestione della distribuzione del gas metano ai sensi dell'[articolo 11 della legge 28 novembre 1980, n. 784](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-11-28;784#art_11), e successive modificazioni, e dell'[articolo 9 della legge 7 agosto 1997, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-08-07;266#art_9), come modificato dall'[articolo 28 della legge 17 maggio 1999, n. 144](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Misure%20in%20materia%20di%20investimenti%20delega%20al%20Governo%20per%20il%20riordino%20degli%20incentivi%20alloccupazione%20e%20della%20normativa%20che%20disciplina%20lINAIL%20nonche%20disposizioni%20per%20il%20riordino%20degli%20enti%20previdenziali.md), il periodo transitorio disciplinato dal comma 7 e il periodo di cui al comma 9 del presente articolo decorrono, tenuto conto del tempo necessario alla costruzione delle reti, decorsi quattro anni dalla data di entrata in vigore del decreto del Ministero del tesoro, del bilancio e della programmazione economica di concessione del contributo.". 
+ Si riporta il testo dell'[articolo 1, comma 2, lettera c), della legge 23 agosto 2004, n. 239](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20del%20settore%20energetico%20nonche%20delega%20al%20Governo%20per%20il%20riassetto%20delle%20disposizioni%20vigenti%20in%20materia%20di%20energia.md) ( Riordino del settore energetico): 
+ "2. Le attivita' del settore energetico sono cosi' disciplinate: 
+ a) le attivita' di produzione, importazione, esportazione, stoccaggio non in sotterraneo anche di oli minerali, acquisto e vendita di energia ai clienti idonei, nonche' di trasformazione delle materie fonti di energia, sono libere su tutto il territorio nazionale, nel rispetto degli obblighi di servizio pubblico derivanti dalla normativa comunitaria e dalla legislazione vigente; 
+ b) le attivita' di trasporto e dispacciamento del gas naturale a rete, nonche' la gestione di infrastrutture di approvvigionamento di energia connesse alle attivita' di trasporto e dispacciamento di energia a rete, sono di interesse pubblico e sono sottoposte agli obblighi di servizio pubblico derivanti dalla normativa comunitaria, dalla legislazione vigente e da apposite convenzioni con le autorita' competenti; 
+ c) le attivita' di distribuzione di energia elettrica e gas naturale a rete, di esplorazione, coltivazione, stoccaggio sotterraneo di idrocarburi, nonche' di trasmissione e dispacciamento di energia elettrica sono attribuite in concessione secondo le disposizioni di legge.". 
+ Si riporta il testo dell'[articolo 46-bis del decreto legge 1° ottobre 2007, n. 159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-10-01;159#art_46bis), convertito, con modificazioni, in [legge 29 novembre 2007, n. 222](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20ottobre%202007%20n.%20159%20recante%20interventi%20urgenti%20in%20materia%20economico-finanziaria%20per%20lo%20sviluppo%20e%20lequita%20sociale.md) (Interventi urgenti in materia economico - finanziaria, per lo sviluppo e l'equita' sociale): 
+ "Art. 46-bis. Disposizioni in materia di concorrenza e qualita' dei servizi essenziali nel settore della distribuzione del gas. 
+ 1. Al fine di garantire al settore della distribuzione di gas naturale maggiore concorrenza e livelli minimi di qualita' dei servizi essenziali, i Ministri dello sviluppo economico e per gli affari regionali e le autonomie locali, sentita la Conferenza unificata e su parere dell'Autorita' per l'energia elettrica e il gas, individuano entro tre mesi dalla data di entrata in vigore della legge di conversione del presente decreto i criteri di gara e di valutazione dell'offerta per l'affidamento del servizio di distribuzione di gas previsto dall'[articolo 14, comma 1, del decreto legislativo 23 maggio 2000, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md), tenendo conto in maniera adeguata, oltre che delle condizioni economiche offerte, e in particolare di quelle a vantaggio dei consumatori, degli standard qualitativi e di sicurezza del servizio, dei piani di investimento e di sviluppo delle reti e degli impianti. 
+ 2. I Ministri dello sviluppo economico e per gli affari regionali e le autonomie locali, su proposta dell'Autorita' per l'energia elettrica e il gas e sentita la Conferenza unificata, determinano gli ambiti territoriali minimi per lo svolgimento delle gare per l'affidamento del servizio di distribuzione del gas, a partire da quelli tariffari, secondo l'identificazione di bacini ottimali di utenza, in base a criteri di efficienza e riduzione dei costi, e determinano misure per l'incentivazione delle relative operazioni di aggregazione. 
+ 3. Al fine di incentivare le operazioni di aggregazione di cui al comma 2, la gara per l'affidamento del servizio di distribuzione di gas e' bandita per ciascun bacino ottimale di utenza entro due anni dall'individuazione del relativo ambito territoriale, che deve avvenire entro un anno dalla data di entrata in vigore della legge di conversione del presente decreto. 
+ 4. A decorrere dal 1° gennaio 2008, i comuni interessati dalle nuove gare di cui al comma 3 possono incrementare il canone delle concessioni di distribuzione, solo ove minore e fino al nuovo affidamento, fino al 10 per cento del vincolo sui ricavi di distribuzione di cui alla delibera dell'Autorita' per l'energia elettrica e il gas n. 237 del 28 dicembre 2000, pubblicata nel supplemento ordinario alla Gazzetta Ufficiale n. 4 del 5 gennaio 2001, e successive modificazioni, destinando prioritariamente le risorse aggiuntive all'attivazione di meccanismi di tutela relativi ai costi dei consumi di gas da parte delle fasce deboli di utenti. 
+ 4- bis. A decorrere dal 1° gennaio 2008, alle gare di cui al comma 1 del presente articolo si applicano, oltre alle disposizioni di cui all'[articolo 15, comma 10, del decreto legislativo 23 maggio 2000, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md), anche le disposizioni di cui all'articolo 113, comma 15- quater, del testo unico delle leggi sull'ordinamento degli enti locali, di cui al [decreto legislativo 18 agosto 2000, n. 267](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md), che si intendono estese a tutti i servizi pubblici locali a rete.". 
+ Il [decreto legge 25 giugno 2008, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112) convertito, con modificazioni, in [legge 6 agosto 2008, n. 133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20economico%20la%20semplificazione%20la%20competitivita%20la%20stabilizzazion_29f97015e2f4.md), (Disposizioni urgenti per lo sviluppo economico, la semplificazione, la competitivita', la stabilizzazione della finanza pubblica e la perequazione tributaria), e' pubblicato nella Gazz. Uff. 25 giugno 2008, n. 147, S.O. 
+ La [legge 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) (Disposizioni per lo sviluppo e l'internazionalizzazione delle imprese, nonche' in materia di energia), e' pubblicata nella Gazz. Uff. 31 luglio 2009, n. 176, S.O. 
+ Si riporta il testo dell'[articolo 17, comma 4, della legge 4 giugno 2010, n. 96](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md), (Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge comunitaria 2009): 
+ "Art. 17. Principi e criteri direttivi per l'attuazione delle [direttive 2009/28/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2009;28), [2009/72/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2009;72), [2009/73/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2009;73) e [2009/119/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2009;119). Misure per l'adeguamento dell'ordinamento nazionale alla normativa comunitaria in materia di energia, nonche' in materia di recupero di rifiuti. 
+ (Omissis). 
+ 4. Nella predisposizione del decreto legislativo di attuazione della [direttiva 2009/73/CE del Parlamento europeo e del Consiglio, del 13 luglio 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2009;73), relativa a norme comuni per il mercato interno del gas naturale e che abroga la [direttiva 2003/55/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;55), il Governo e' tenuto a seguire, oltre ai principi e criteri direttivi di cui all' articolo 2 della presente legge, in quanto compatibili, anche i seguenti principi e criteri direttivi: 
+ a) prevedere misure per aumentare gli scambi transfrontalieri, in modo da conseguire una maggiore efficienza, prezzi competitivi e piu' elevati livelli di servizio, contribuendo anche alla sicurezza degli approvvigionamenti e allo sviluppo sostenibile; 
+ b) prevedere, senza nuovi o maggiori oneri per la finanza pubblica, misure per la cooperazione bilaterale e regionale, in uno spirito di solidarieta' tra gli Stati membri, in particolare in casi di crisi del sistema energetico; 
+ c) promuovere la realizzazione di capacita' bidirezionale ai punti di interconnessione, anche al fine di realizzare una piattaforma di scambio di gas nell'ambito del sistema italiano; 
+ d) assicurare che i gestori dei sistemi di trasporto dispongano di sistemi integrati a livello di due o piu' Stati membri per l'assegnazione della capacita' e per il controllo della sicurezza delle reti; 
+ e) prevedere che i gestori dei sistemi di trasporto presentino un piano decennale di sviluppo della rete basato sulla domanda e sull'offerta esistenti e previste, contenente misure atte a garantire l'adeguatezza del sistema e la sicurezza di approvvigionamento; 
+ f) promuovere, senza nuovi o maggiori oneri per la finanza pubblica, una concorrenza effettiva e garantire l'efficiente funzionamento del mercato, anche predisponendo misure in favore della concorrenza con effetti analoghi ai programmi di cessione del gas; 
+ g) assoggettare le transazioni su contratti di fornitura di gas e su strumenti derivati ad obblighi di trasparenza nella disciplina degli scambi; 
+ h) assicurare una efficace separazione tra le attivita' di trasporto, bilanciamento, distribuzione e stoccaggio e le altre attivita' del settore del gas naturale; 
+ i) prevedere misure che assicurino maggiore trasparenza ed efficienza nel settore del gas naturale, ottimizzando l'utilizzo del gas naturale e introducendo sistemi di misurazione intelligenti, anche ai fini della diversificazione dei prezzi di fornitura; 
+ l) prevedere misure che tengano conto, nel procedimento autorizzativo per la realizzazione di un'infrastruttura del sistema del gas, della rilevanza dell'infrastruttura stessa per il mercato interno del gas naturale e della sua coerenza con gli obiettivi di politica energetica nazionali e comunitari; 
+ m) garantire, senza nuovi o maggiori oneri per la finanza pubblica, il controllo della sicurezza degli approvvigionamenti, l'equilibrio tra domanda e offerta, il livello della domanda attesa in futuro e degli stoccaggi disponibili, la prevista capacita' addizionale in corso di programmazione e in costruzione, l'adeguata copertura dei picchi della domanda nonche' delle possibili carenze di fornitura; 
+ n) introdurre misure che garantiscano maggiore disponibilita' di capacita' di stoccaggio di gas naturale, anche favorendo l'accesso a parita' di condizioni di una pluralita' di operatori nella gestione delle nuove attivita' di stoccaggio e valutando la possibilita' di ampliare le modalita' di accesso al servizio previste dalla normativa vigente; 
+ o) prevedere che le sanzioni amministrative pecuniarie applicabili in caso di mancato rispetto delle disposizioni del regolamento (CE) n. 715/2009 del Parlamento europeo e del Consiglio, del 13 luglio 2009, nonche' di mancato rispetto degli obblighi imposti alle imprese di gas naturale dalla [direttiva 2009/73/CE del Parlamento europeo e del Consiglio, del 13 luglio 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2009;73), nelle fattispecie assegnate alla competenza dell'Autorita' per l'energia elettrica e il gas, siano non inferiori nel minimo a euro 2.500 e non superiori a euro 154.937.069,73; 
+ p) prevedere che i clienti non civili con consumi inferiori o pari a 50.000 metri cubi annui e tutti i civili siano definiti clienti vulnerabili e pertanto meritevoli di apposita tutela in termini di condizioni economiche loro applicate e di continuita' e sicurezza della fornitura; 
+ q) promuovere l'efficienza e la concorrenza nel settore del gas naturale, anche demandando all'Autorita' per l'energia elettrica e il gas la definizione, sulla base di appositi indirizzi del Ministero dello sviluppo economico, della disciplina del bilanciamento di merito economico; 
+ r) prevedere, ai sensi degli [articoli 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::2009-07-13;73#art_13) e [17 della direttiva 2009/73/CE del Parlamento europeo e del Consiglio, del 13 luglio 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2009;73), misure che, ai fini dell'accesso ai servizi di trasporto e bilanciamento del gas naturale, consentano la definizione di un'unica controparte indipendente a livello nazionale; 
+ s) prevedere la rimozione degli ostacoli, anche di tipo normativo, al processo di aggregazione delle piccole imprese di distribuzione del gas naturale, per favorirne l'efficienza e la terzieta'; 
+ t) prevedere misure atte a garantire che imprese di distribuzione verticalmente integrate non siano in condizione di trarre impropri vantaggi dalla loro attivita' di gestione delle reti di distribuzione ostacolando le dinamiche concorrenziali del mercato; 
+ u) prevedere, senza nuovi o maggiori oneri per il bilancio dello Stato, che, nella situazione a regime, al termine della durata delle nuove concessioni di distribuzione del gas naturale affidate ai sensi dell' [articolo 14 del decreto legislativo 23 maggio 2000, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md), i meccanismi di valorizzazione delle reti siano coerenti con i criteri posti alla base della definizione delle rispettive tariffe; 
+ v) prevedere che l'Autorita' per l'energia elettrica e il gas disponga di risorse finanziarie idonee allo svolgimento delle proprie attivita', attraverso il sistema di totale autofinanziamento previsto dall' [articolo 2, comma 38, della legge 14 novembre 1995, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-11-14;481#art_2-com38), mediante il contributo versato dai soggetti operanti nei settori di competenza, da utilizzarsi esclusivamente per gli oneri di funzionamento della stessa; 
+ z) prevedere che, nell'osservanza delle rispettive competenze, l'Autorita' per l'energia elettrica e il gas e l'Autorita' garante della concorrenza e del mercato si prestino reciproca assistenza, agiscano in modo coordinato, stipulando a tale fine appositi protocolli di intesa, e collaborino tra loro anche mediante lo scambio di informazioni, senza che sia opponibile il segreto d'ufficio.". 
+ La [direttiva 2009/73/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2009;73) e' pubblicata nella G.U.C.E. [L 211/94 del 14.8.2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-08-14;211). 
+ Si riporta il testo dell'[articolo 24 del decreto legislativo 1 giugno 2011, n. 93](../Decreti%20Legislativi/Attuazione%20delle%20direttive%202009-72-CE%202009-73-CE%20e%202008-92-CE%20relative%20a%20norme%20comuni%20per%20il%20mercato%20interno%20dellenergia%20elettrica%20del%20gas%20naturale%20e%20ad%20una%20procedura%20comunitaria%20sulla%20tr_ae722651dcf4.md), recante, fra l'altro, attuazione della [direttiva 2009/73/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2009;73) concernente il mercato interno del gas naturale, che modifica l'[art. 14 del decreto legislativo 23 maggio 2000, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md): 
+ "Art. 24. Valore di rimborso degli impianti di distribuzione. 
+ 1. All'[articolo 14 del decreto legislativo n. 164 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;164#art_14), il comma 8 e' sostituito dal seguente: 
+ «8. Il nuovo gestore, con riferimento agli investimenti realizzati sugli impianti oggetto di trasferimento di proprieta' nei precedenti affidamenti o concessioni, e' tenuto a subentrare nelle garanzie e nelle obbligazioni relative ai contratti di finanziamento in essere o ad estinguere queste ultime e a corrispondere una somma al distributore uscente in misura pari al valore di rimborso per gli impianti la cui proprieta' e' trasferita dal distributore uscente al nuovo gestore. Nella situazione a regime, al termine della durata delle nuove concessioni di distribuzione del gas naturale affidate ai sensi del comma 1, il valore di rimborso al gestore uscente e' pari al valore delle immobilizzazioni nette di localita' del servizio di distribuzione e misura, relativo agli impianti la cui proprieta' viene trasferita dal distributore uscente al nuovo gestore, incluse le immobilizzazioni in corso di realizzazione, al netto dei contributi pubblici in conto capitale e dei contributi privati relativi ai cespiti di localita', calcolato secondo la metodologia della regolazione tariffaria vigente e sulla base della consistenza degli impianti al momento del trasferimento della proprieta'.». 
+ 2. All'[articolo 14, comma 9, del decreto legislativo n. 164 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;164#art_14-com9), primo periodo, dopo le parole: «indicati nel bando di gara» sono inserite le seguenti: «stimando il valore di rimborso delle immobilizzazioni previste dopo l'emissione del bando di gara. Il bando di gara riporta le modalita' per regolare il valore di rimborso relativo a queste ultime immobilizzazioni.». 
+ 3. L'Autorita' per l'energia elettrica e il gas, limitatamente al primo periodo di esercizio delle concessioni assegnate per ambiti territoriali minimi di cui all'[articolo 46-bis, comma 2, del decreto-legge 1° ottobre 2007, n. 159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-10-01;159#art_46bis-com2), convertito, con modificazioni, dalla [legge 29 novembre 2007, n. 222](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20ottobre%202007%20n.%20159%20recante%20interventi%20urgenti%20in%20materia%20economico-finanziaria%20per%20lo%20sviluppo%20e%20lequita%20sociale.md), riconosce in tariffa al gestore entrante l'ammortamento della differenza tra il valore di rimborso, come determinato ai sensi del decreto di cui all'[articolo 46-bis, comma 1, del decreto-legge 1° ottobre 2007, n. 159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-10-01;159#art_46bis-com1), convertito, con modificazioni, dalla [legge 29 novembre 2007, n. 222](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20ottobre%202007%20n.%20159%20recante%20interventi%20urgenti%20in%20materia%20economico-finanziaria%20per%20lo%20sviluppo%20e%20lequita%20sociale.md), e il valore delle immobilizzazioni nette, al netto dei contributi pubblici in conto capitale e dei contributi privati relativi ai cespiti di localita'. 
+ 4. Gli enti locali che, per l'affidamento del servizio di distribuzione di gas naturale, alla data di entrata in vigore del presente decreto, in caso di procedura di gara aperta, abbiano pubblicato bandi di gara, o, in caso di procedura di gara ristretta, abbiano inviato anche le lettere di invito, includenti in entrambi i casi la definizione dei criteri di valutazione dell'offerta e del valore di rimborso al gestore uscente, e non siano pervenuti all'aggiudicazione dell'impresa vincitrice, possono procedere all'affidamento del servizio di distribuzione di gas naturale secondo le procedure applicabili alla data di indizione della relativa gara.
+ Fatto salvo quanto previsto dal periodo precedente, a decorrere dalla data di entrata in vigore del presente decreto le gare per l'affidamento del servizio di distribuzione sono effettuate unicamente per ambiti territoriali di cui all'[articolo 46-bis, comma 2, del decreto-legge 1° ottobre 2007, n. 159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-10-01;159#art_46bis-com2), convertito, con modificazioni, dalla [legge 29 novembre 2007, n. 222](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20ottobre%202007%20n.%20159%20recante%20interventi%20urgenti%20in%20materia%20economico-finanziaria%20per%20lo%20sviluppo%20e%20lequita%20sociale.md).". 
+ Si riporta il testo dell'[articolo 113, comma 13, del decreto legislativo 18 agosto 2000, n. 267](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md) (Testo unico delle leggi sull'ordinamento degli enti locali), pubblicato nella Gazz. Uff. 28 settembre 2000, n. 227, S.O.: 
+ "Art. 113. Gestione delle reti ed erogazione dei servizi pubblici locali di rilevanza economica. 
+ (Omissis). 
+ 13. Gli enti locali, anche in forma associata, nei casi in cui non sia vietato dalle normative di settore, possono conferire la proprieta' delle reti, degli impianti, e delle altre dotazioni patrimoniali a societa' a capitale interamente pubblico, che e' incedibile. Tali societa' pongono le reti, gli impianti e le altre dotazioni patrimoniali a disposizione dei gestori incaricati della gestione del servizio o, ove prevista la gestione separata della rete, dei gestori di quest'ultima, a fronte di un canone stabilito dalla competente Autorita' di settore, ove prevista, o dagli enti locali. Alla societa' suddetta gli enti locali possono anche assegnare, ai sensi della lettera a) del comma 4, la gestione delle reti, nonche' il compito di espletare le gare di cui al comma 5.". 
+ Si riporta il testo degli [articoli 30](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md) e [216 del decreto legislativo 12 aprile 2006, n. 163](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md) ([Codice dei contratti pubblici](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md) relativi a lavori, servizi e forniture in attuazione delle [direttive 2004/17/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;17) e [2004/18/CE)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;18), pubblicato nella Gazz. Uff. 2 maggio 2006, n. 100, S.O.: 
+ "Art. 30. Concessione di servizi. 
+ ([artt. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::2018;2004#art_3) e [17, direttiva 2004/18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2018;2004); art. 3, co. 8, [L. n. 415/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998;415)) 
+ 1. Salvo quanto disposto nel presente articolo, le disposizioni del codice non si applicano alle concessioni di servizi. 
+ 2. Nella concessione di servizi la controprestazione a favore del concessionario consiste unicamente nel diritto di gestire funzionalmente e di sfruttare economicamente il servizio. Il soggetto concedente stabilisce in sede di gara anche un prezzo, qualora al concessionario venga imposto di praticare nei confronti degli utenti prezzi inferiori a quelli corrispondenti alla somma del costo del servizio e dell'ordinario utile di impresa, ovvero qualora sia necessario assicurare al concessionario il perseguimento dell'equilibrio economico - finanziario degli investimenti e della connessa gestione in relazione alla qualita' del servizio da prestare. 
+ 3. La scelta del concessionario deve avvenire nel rispetto dei principi desumibili dal Trattato e dei principi generali relativi ai contratti pubblici e, in particolare, dei principi di trasparenza, adeguata pubblicita', non discriminazione, parita' di trattamento, mutuo riconoscimento, proporzionalita', previa gara informale a cui sono invitati almeno cinque concorrenti, se sussistono in tale numero soggetti qualificati in relazione all'oggetto della concessione, e con predeterminazione dei criteri selettivi. 
+ 4. Sono fatte salve discipline specifiche che prevedono forme piu' ampie di tutela della concorrenza. 
+ 5. Restano ferme, purche' conformi ai principi dell'ordinamento comunitario le discipline specifiche che prevedono, in luogo delle concessione di servizi a terzi, l'affidamento di servizi a soggetti che sono a loro volta amministrazioni aggiudicatrici. 
+ 6. Se un'amministrazione aggiudicatrice concede ad un soggetto che non e' un'amministrazione aggiudicatrice diritti speciali o esclusivi di esercitare un'attivita' di servizio pubblico, l'atto di concessione prevede che, per gli appalti di forniture conclusi con terzi nell'ambito di tale attivita', detto soggetto rispetti il principio di non discriminazione in base alla nazionalita'. 
+ 7. Si applicano le disposizioni della parte IV. Si applica, inoltre, in quanto compatibile l'articolo 143, comma 7." 
+ "Art. 216. Concessioni di lavori e di servizi. 
+ ([art. 18, direttiva 2004/17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2017;2004)) 
+ 1. Salva l'applicazione dell'articolo 30 in tema di concessione di servizi, la presente parte non si applica alle concessioni di lavori e di servizi rilasciate da enti aggiudicatori che esercitano una o piu' attivita' di cui agli articoli da 208 a 213, quando la concessione ha per oggetto l'esercizio di dette attivita'. 
+ 1-bis. Il concessionario che non sia uno degli enti aggiudicatori che esercitano una o piu' attivita' di cui agli articoli da 208 a 213, scelto senza il ricorso ad una procedura di gara aperta o ristretta, e' tenuto ad applicare le stesse disposizioni alle quali sono assoggettati i predetti enti.". 
+ Si riporta il testo dell'[articolo 24, lettere a)](../Regi%20decreti/Approvazione%20del%20testo%20unico%20della%20legge%20sullassunzione%20diretta%20dei%20pubblici%20servizi%20da%20parte%20dei%20Comuni%20e%20delle%20Provincie.%20025U2578.md) e [b), del regio decreto 15 ottobre 1925, n. 2578](../Regi%20decreti/Approvazione%20del%20testo%20unico%20della%20legge%20sullassunzione%20diretta%20dei%20pubblici%20servizi%20da%20parte%20dei%20Comuni%20e%20delle%20Provincie.%20025U2578.md) (Approvazione del testo unico della legge sull'assunzione diretta dei pubblici servizi da parte dei comuni e delle province), pubblicato nella Gazz. Uff. 4 marzo 1926, n. 52: 
+ "Art. 24. ([art. 25 della legge 29 marzo 1903, n. 103](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sullassunzione%20diretta%20dei%20pubblici%20servizi%20da%20parte%20dei%20Comuni.%20003U0103.md), e art. 1° del [regio decreto 4 febbraio 1923, numero 253](../Regi%20decreti/Col%20quale%20si%20provvede%20alla%20soppressione%20della%20Commissione%20Reale%20pel%20credito%20comunale%20e%20provinciale%20e%20per%20lassunzione%20diretta%20dei%20pubblici%20servizi%20da%20parte%20dei%20Comuni.%20023U0253.md)). - I comuni possono valersi delle facolta' consentite dall' art. 1 pei servizi che siano gia' affidati all'industria privata quando dall'effettivo cominciamento dell'esercizio sia trascorso un terzo della durata complessiva del tempo per cui la concessione fu fatta. Tuttavia i comuni hanno sempre diritto al riscatto quando sieno passati venti anni dall'effettivo cominciamento dell'esercizio; ma in ogni caso non possono esercitarlo prima che ne siano passati dieci. 
+ Qualora i comuni non facciano uso delle facolta' di riscatto nelle epoche sopra determinate, non possono valersene se non trascorso un quinquennio, e cosi' in seguito di cinque in cinque anni. 
+ Il riscatto deve essere sempre preceduto dal preavviso di un anno. 
+ Quando i comuni procedono al riscatto debbono pagare ai concessionari un'equa indennita', nella quale si tenga conto dei seguenti termini: 
+ a) valore industriale dell'impianto e del relativo materiale mobile ed immobile, tenuto conto del tempo trascorso dall'effettivo cominciamento dell'esercizio e dagli eventuali ripristini avvenuti nell'impianto o nel materiale ed inoltre considerate le clausole che nel contratto di concessione siano contenute circa la proprieta' di detto materiale, allo spirare della concessione medesima; 
+ b) anticipazioni o sussidi dati dai comuni, nonche' importo delle tasse proporzionali di registro anticipate dai concessionari e premi eventualmente pagati ai comuni concedenti, sempre tenuto conto degli elementi indicati nella lettera precedente;". 
+ Si riporta il testo dell'[articolo 30, comma 21, della legge 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99#art_30-com21) (Disposizioni per lo sviluppo e l'internazionalizzazione delle imprese, nonche' in materia di energia), pubblicata nella Gazz. Uff. 31 luglio 2009, n. 176, S.O.: 
+ "Art. 30. Misure per l'efficienza del settore energetico. 
+ (Omissis). 
+ 21. La validita' temporale dei bolli metrici e della marcatura «CE» apposti sui misuratori di gas con portata massima fino a 10 metri cubi/h e' di quindici anni, decorrenti dall'anno della loro apposizione, in sede di verificazione o accertamento della conformita' prima della loro immissione in commercio.". 
+ Si riporta il testo dell'articolo 8 del decreto legislativo 28 agosto 1997 (Definizione ed ampliamento delle attribuzioni della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano ed unificazione, per le materie ed i compiti di interesse comune delle regioni, delle province e dei comuni, con la Conferenza Stato-citta' ed autonomie locali): 
+ "Art. 8. Conferenza Stato-citta' ed autonomie locali e Conferenza unificata. 
+ 1. La Conferenza Stato-citta' ed autonomie locali e' unificata per le materie ed i compiti di interesse comune delle regioni, delle province, dei comuni e delle comunita' montane, con la Conferenza Stato-regioni. 
+ 2. La Conferenza Stato-citta' ed autonomie locali e' presieduta dal Presidente del Consiglio dei Ministri o, per sua delega, dal Ministro dell'interno o dal Ministro per gli affari regionali nella materia di rispettiva competenza; ne fanno parte altresi' il Ministro del tesoro e del bilancio e della programmazione economica, il Ministro delle finanze, il Ministro dei lavori pubblici, il Ministro della sanita', il presidente dell'Associazione nazionale dei comuni d'Italia - ANCI, il presidente dell'Unione province d'Italia - UPI ed il presidente dell'Unione nazionale comuni, comunita' ed enti montani - UNCEM. Ne fanno parte inoltre quattordici sindaci designati dall'ANCI e sei presidenti di provincia designati dall'UPI.
+ Dei quattordici sindaci designati dall'ANCI cinque rappresentano le citta' individuate dall'[articolo 17 della legge 8 giugno 1990, n. 142](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20delle%20autonomie%20locali.md). Alle riunioni possono essere invitati altri membri del Governo, nonche' rappresentanti di amministrazioni statali, locali o di enti pubblici. 
+ 3. La Conferenza Stato-citta' ed autonomie locali e' convocata almeno ogni tre mesi, e comunque in tutti i casi il presidente ne ravvisi la necessita' o qualora ne faccia richiesta il presidente dell'ANCI, dell'UPI o dell'UNCEM. 
+ 4. La Conferenza unificata di cui al comma 1 e' convocata dal Presidente del Consiglio dei Ministri. Le sedute sono presiedute dal Presidente del Consiglio dei Ministri o, su sua delega, dal Ministro per gli affari regionali o, se tale incarico non e' conferito, dal Ministro dell'interno.". 
+ Si riporta il testo dell'[articolo 17, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) e [4, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri): 
+ "Art. 17. Regolamenti. 
+ (Omissis). 
+ 3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del ministro o di autorita' sottordinate al ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.
+ I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei ministri prima della loro emanazione. 
+ 4. I regolamenti di cui al comma 1 ed i regolamenti ministeriali ed interministeriali, che devono recare la denominazione di «regolamento», sono adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.". 
+ Note all'art. 1: 
+ Per il testo dell'articolo 46-bis, comma 2, del citato [decreto legge n. 159 del 2007, e dell'articolo 30, comma 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007;159#art_30-com26), della citata [legge n. 99 del 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009;99), si veda nelle note alle premesse. 
+ Per i riferimenti al [decreto legislativo n. 164 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;164) e per il testo degli articoli 14 e 15 dello stesso, si veda nelle note alle premesse. 
+ Si riporta il testo dell'[articolo 69 della legge 23 agosto 2004, n. 239](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20del%20settore%20energetico%20nonche%20delega%20al%20Governo%20per%20il%20riassetto%20delle%20disposizioni%20vigenti%20in%20materia%20di%20energia.md) (Riordino del settore energetico, nonche' delega al Governo per il riassetto delle disposizioni vigenti in materia di energia): 
+ "Art. 69. La disposizione di cui all'[articolo 15, comma 5, del decreto legislativo 23 maggio 2000, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md), relativa al regime transitorio degli affidamenti e delle concessioni in essere al 21 giugno 2000, data di entrata in vigore del medesimo decreto legislativo, va interpretata nel senso che e' fatta salva la facolta' di riscatto anticipato, durante il periodo transitorio, se stabilita nei relativi atti di affidamento o di concessione. Tale facolta' va esercitata secondo le norme ivi stabilite. Le gare sono svolte in conformita' all'[articolo 14 del decreto legislativo 23 maggio 2000, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md). Il periodo transitorio di cui al citato articolo 15, comma 5, termina entro il 31 dicembre 2007, fatta salva la facolta' per l'ente locale affidante o concedente di prorogare, entro sei mesi dalla data di entrata in vigore della presente legge, per un anno la durata del periodo transitorio, qualora vengano ravvisate motivazioni di pubblico interesse. Nei casi previsti dall'[articolo 15, comma 9, del decreto legislativo 23 maggio 2000, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md), il periodo transitorio non puo' comunque terminare oltre il 31 dicembre 2012. E' abrogato il comma 8 dell'articolo 15 dello stesso [decreto legislativo n. 164 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;164).". 
+ Si riporta il testo dell'[articolo 23 del decreto legge 30 dicembre 2005, n. 273](../DL%20proroghe/Definizione%20e%20proroga%20di%20termini%20nonche%20conseguenti%20disposizioni%20urgenti.md), convertito in legge dalla [legge 23 febbraio 2006, n. 51](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202005%20n.%20273%20recante%20definizione%20e%20proroga%20di%20termini%20nonche%20conseguenti%20disposizioni%20urgenti.%20Proroga%20di%20termini%20relat_8fa6bc6dddf9.md): 
+ "Art. 23. Disposizioni in materia di energia e attivita' produttive. 
+ 1. Il termine del periodo transitorio previsto dall'[articolo 15, comma 5, del decreto legislativo 23 maggio 2000, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md), e' prorogato al 31 dicembre 2007 ed e' automaticamente prolungato fino al 31 dicembre 2009 qualora si verifichi almeno una delle condizioni indicate al comma 7 del medesimo articolo 15. 
+ 2. I termini di cui al comma 1 possono essere ulteriormente prorogati di un anno, con atto dell'ente locale affidante o concedente, per comprovate e motivate ragioni di pubblico interesse. 
+ 3. Sono fatte salve le disposizioni di cui al [comma 9 dell'articolo 15 del decreto legislativo 23 maggio 2000, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md), nonche' la facolta' di riscatto anticipato durante il periodo transitorio, di cui al comma 1, se prevista nell'atto di affidamento o di concessione. 
+ 4. I termini di durata delle concessioni e degli affidamenti per la realizzazione delle reti e la gestione della distribuzione di gas naturale ai sensi dell'[articolo 11 della legge 28 novembre 1980, n. 784](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-11-28;784#art_11), e dell'[articolo 9 della legge 7 agosto 1997, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-08-07;266#art_9), sono prorogati fino al dodicesimo anno decorrente dalla data di entrata in vigore del [decreto legislativo 23 maggio 2000, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md), oppure, se successiva, dalla data di entrata in vigore del decreto del Ministero dell'economia e delle finanze di approvazione delle risultanze finali dell'intervento. 
+ 5. I termini, non ancora scaduti alla data di entrata in vigore del presente decreto, previsti per l'adeguamento alle prescrizioni contenute nei decreti autorizzativi di impianti che generano emissioni in atmosfera sono prorogati di sessanta giorni, decorrenti: 
+ a) dalla «messa in esercizio dell'impianto», intesa come data di avvio delle prime prove di funzionamento del medesimo; 
+ b) dalla «entrata in esercizio dell'impianto», intesa come data successiva al completamento del collaudo, a partire dalla quale l'impianto, nel suo complesso, risulta in funzione nelle condizioni operative definitive, ossia quando, decorsi sei mesi dalla comunicazione di cui all'[articolo 8, comma 2, del decreto del Presidente della Repubblica 24 maggio 1988, n. 203](../DPR/Attuazione%20delle%20direttive%20CEE%20numeri%2080-779%2082-884%2084-360%20e%2085-203%20concernenti%20norme%20in%20materia%20di%20qualita%20dellaria%20relativamente%20a%20specifici%20agenti%20inquinanti%20e%20di%20inquinamento%20prodotto_78c2a13bac87.md), si prevede il passaggio del rilevamento delle emissioni da base giornaliera a base oraria. 
+ 5-bis. I termini scaduti nel 2005 per la presentazione delle domande di liquidazione degli interventi per le finalita' di cui all'[articolo 103, comma 5, della legge 23 dicembre 2000, n. 388](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), sono prorogati fino al 31 marzo 2006. Le disponibilita' finanziarie per i medesimi interventi che a tale data dovessero risultare ancora non liquidate possono essere destinate alla prosecuzione delle incentivazioni al commercio elettronico con provvedimento del Ministero delle attivita' produttive da adottare entro il 30 giugno 2006.". 
+ La deliberazione ARG/gas 120/08 dell'Autorita', e' pubblicata sul sito www.autorita.energia.it in data 8 agosto 2008 e nella Gazz. Uff. 4.11.2008, n. 258, S.O.
 
-a) "Ambito" e' l'ambito territoriale minimo ai sensi dell'[articolo 46-bis, comma 2, del decreto legge 1 ottobre 2007, n. 159](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-10-01;159~art46bis-com2), convertito con modificazioni, dalla [legge 29 novembre 2007, n. 222 e dell'articolo 30, comma 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-11-29;222~art30-com26), della [legge 23 luglio 2009, n. 99](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99).
+## Art. 2. — Soggetto che gestisce la gara
 
-b) "Allegato 1" e' l'allegato 1 "Data limite entro cui la Provincia, in assenza del Comune capoluogo di provincia, convoca i Comuni d'ambito per l'individuazione della stazione appaltante e da cui decorre il tempo per un eventuale intervento della Regione di cui all'articolo 3 del regolamento", facente parte integrante del presente regolamento.
+1.
 
-c) "Allegato 2" e' l'allegato 2 "Bando di gara tipo", facente parte integrante del presente regolamento.
+Gli Enti locali concedenti appartenenti a ciascun ambito demandano al Comune capoluogo di provincia il ruolo di stazione appaltante per la gestione della gara per l'affidamento del servizio di distribuzione del gas naturale in forma associata secondo la normativa vigente in materia di Enti locali, ferma restando la possibilita' di demandare in alternativa tale ruolo a una societa' di patrimonio delle reti, costituita ai sensi dell'[articolo 113, comma 13, del decreto legislativo 18 agosto 2000, n. 267](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md), ove presente. Nel caso in cui il Comune capoluogo di provincia non appartenga all'ambito, i sopra citati Enti locali individuano un Comune capofila, o la Provincia, o un altro soggetto gia' istituito, quale una societa' di patrimonio delle reti, al quale demandare il ruolo di stazione appaltante. ((La convenzione fra i Comuni facenti parte dell'ambito e' approvata con la maggioranza qualificata dei Comuni d'ambito di cui all'articolo 4, comma 3, del decreto-legge 21 giugno 2013, n. 69, convertito con modificazioni in legge 9 agosto 2013, n. 98)).
 
-d) "Allegato 3" e' l'allegato 3 "Disciplinare di gara tipo", facente parte integrante del presente regolamento.
+2.
 
-e) "Allegato 4" e' l'allegato 4 "Dati significativi di aggiudicazione della gara per il monitoraggio degli effetti del decreto", facente parte integrante del presente regolamento.
+Il Comune capoluogo di provincia, qualora appartenente all'ambito, o la Provincia, negli altri casi, convoca, entro la data di cui all'allegato 1 ((, come espressamente prorogata dalle norme vigenti,)) per il primo periodo di applicazione, gli Enti locali concedenti appartenenti all'ambito per gli adempimenti di cui al comma 1.
 
-f) "Autorita'" e' l'Autorita' per l'energia elettrica e il gas.
+3.
 
-g) "Impianto con scadenza ope legis della concessione successiva alla gara" e' un impianto di distribuzione avente una scadenza ope legis della concessione almeno un anno dopo la data di affidamento del servizio del primo impianto dell'ambito al gestore aggiudicatario della gara d'ambito.
+Nel primo periodo di applicazione, decorsi 6 mesi dalla data di cui all'allegato 1 ((, come espressamente prorogata dalle norme vigenti,)) senza che si sia proceduto all'individuazione del soggetto di cui al secondo periodo del comma 1, il Comune con il maggior numero di abitanti o la Provincia competente trasmette alla Regione una relazione sulla situazione e sulle attivita' svolte, per l'eventuale intervento di cui all'articolo 3. Negli altri casi, il ruolo di stazione appaltante e' svolto dal Comune capoluogo di provincia.
 
-h) "Primo periodo" e' la situazione transitoria, caratterizzata dalla scadenza anticipata ope legis della concessione, a cui si applica l'[articolo 15 del decreto legislativo 23 maggio 2000, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164~art15), fino al subentro del gestore aggiudicatario della prima gara d'ambito effettuata ai sensi dell'articolo 14 del medesimo decreto legislativo.
+4.
 
-i) "Regime" e' la situazione, caratterizzata dalla scadenza dell'affidamento come prevista negli atti concessori, comunque non superiore a 12 anni dall'affidamento, al termine della durata delle concessioni affidate per la prima volta ai sensi dell' [articolo 14 del decreto legislativo 23 maggio 2000, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164~art14).
+La stazione appaltante prepara e pubblica il bando di gara e il disciplinare di gara, svolge e aggiudica la gara per delega degli Enti locali concedenti.
 
-j) "Scadenza naturale" e' la scadenza dell'affidamento prevista nell'atto di concessione originario o nei successivi atti aggiuntivi, purche' stipulati antecedentemente l'entrata in vigore del [decreto legislativo 23 maggio 2000, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164).
+5.
 
-k) "Scadenza ope legis" e' la scadenza della concessione, anticipata rispetto alla scadenza naturale, prevista dall'[articolo 15 del decreto legislativo 23 maggio 2000, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164~art15), come modificato dall'[articolo 69 della legge 23 agosto 2004, n.239](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-08-23;239~art69) e dall'[articolo 23 della legge 23 febbraio 2006, n. 51](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-23;51~art23), di conversione in legge del [decreto legge 30 dicembre 2005, n. 273](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-12-30;273).
+Salvo l'individuazione, da parte degli Enti locali concedenti, di un diverso soggetto, sempre con le modalita' di cui al comma 1, la stazione appaltante cura anche ogni rapporto con il gestore, in particolare svolge la funzione di controparte del contratto di servizio, per delega ((...)) degli Enti locali concedenti, ed e' coadiuvata, nella funzione di vigilanza e controllo, da un comitato di monitoraggio costituito dai rappresentanti degli Enti locali concedenti appartenenti all'ambito, per un massimo di 15 membri.
 
-l) "Stato di consistenza" e' l'insieme di documenti comprendente la cartografia, come definita nell'allegato alla deliberazione ARG/gas 120/08 dell'Autorita', e la descrizione delle reti e degli impianti afferenti il servizio di distribuzione di gas naturale, con evidenza dell'anno di realizzazione e delle loro caratteristiche costruttive, funzionali e conservative; in particolare per ogni tratto di rete dovra' essere registrato almeno l'anno di posa, il materiale e il diametro.
+6.
 
-m) "Stazione appaltante" e' il soggetto che, su delega degli Enti locali concedenti appartenenti all'ambito, ha la responsabilita' di bandire, gestire e aggiudicare la gara di affidamento del servizio di distribuzione in tutti i Comuni dell'ambito.
-
-n) "Valore annuo del servizio" e' la somma dei vincoli ai ricavi approvati dall'Autorita' attribuibili a tutti gli impianti di distribuzione dei singoli Comuni dell'ambito, inclusi quelli con scadenza ope legis della concessione successiva alla data di affidamento del servizio del primo impianto.
-
-o) Per quanto non diversamente disposto dal presente regolamento si applicano le definizioni in materia di attivita' di distribuzione di cui alle pertinenti delibere dell'Autorita' per l'energia elettrica e il gas.
-
-Avvertenza:   
-Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art.10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n.1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.   
-Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE).   
-Note alle premesse:   
-L'[art. 87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi ed emanare i decreti aventi valore di legge e i regolamenti.   
-Si riporta il testo degli [articoli 14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164~art14) e [15 del decreto legislativo 23 maggio 2000, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164~art15) (Attuazione della [direttiva 98/30/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31998L0030) recante norme comuni per il mercato interno del gas), pubblicato nella Gazz. Uff. 20 giugno 2000, n. 142:   
-"Art. 14. Attivita' di distribuzione.   
-1. L'attivita' di distribuzione di gas naturale e' attivita' di servizio pubblico. Il servizio e' affidato esclusivamente mediante gara per periodi non superiori a dodici anni. Gli enti locali che affidano il servizio, anche in forma associata, svolgono attivita' di indirizzo, di vigilanza, di programmazione e di controllo sulle attivita' di distribuzione, ed i loro rapporti con il gestore del servizio sono regolati da appositi contratti di servizio, sulla base di un contratto tipo predisposto dall'Autorita' per l'energia elettrica e il gas ed approvato dal Ministero dell'industria, del commercio e dell'artigianato entro sei mesi dalla data di entrata in vigore del presente decreto.   
-2. Ai fini del presente decreto, per enti locali si intendono comuni, unioni di comuni e comunita' montane.   
-3. Nell' ambito dei contratti di servizio di cui al comma 1 sono stabiliti la durata, le modalita' di espletamento del servizio, gli obiettivi qualitativi, l'equa distribuzione del servizio sul territorio, gli aspetti economici del rapporto, i diritti degli utenti, i poteri di verifica dell'ente che affida il servizio, le conseguenze degli inadempimenti, le condizioni del recesso anticipato dell'ente stesso per inadempimento del gestore del servizio.   
-4. Alla scadenza del periodo di affidamento del servizio, le reti, nonche' gli impianti e le dotazioni dichiarati reversibili, rientrano nella piena disponibilita' dell'ente locale. Gli stessi beni, se realizzati durante il periodo di affidamento, sono trasferiti all'ente locale alle condizioni stabilite nel bando di gara e nel contratto di servizio.   
-5. Alle gare di cui al comma 1 sono ammesse, senza limitazioni territoriali, societa' per azioni o a responsabilita' limitata, anche a partecipazione pubblica, e societa' cooperative a responsabilita' limitata, sulla base di requisiti oggettivi, proporzionati e non discriminatori, con la sola esclusione delle societa', delle loro controllate, controllanti e controllate da una medesima controllante, che, in Italia o in altri Paesi dell'Unione europea, gestiscono di fatto, o per disposizioni di legge, di atto amministrativo o per contratto, servizi pubblici locali in virtu' di affidamento diretto o di una procedura non ad evidenza pubblica. Alle gare sono ammessi inoltre i gruppi europei di interesse economico.   
-6. Nel rispetto degli standard qualitativi, quantitativi, ambientali, di equa distribuzione sul territorio e di sicurezza, la gara e' aggiudicata sulla base delle migliori condizioni economiche e di prestazione del servizio, del livello di qualita' e sicurezza, dei piani di investimento per lo sviluppo e il potenziamento delle reti e degli impianti, per il loro rinnovo e manutenzione, nonche' dei contenuti di innovazione tecnologica e gestionale presentati dalle imprese concorrenti. Tali elementi fanno parte integrante del contratto di servizio.   
-7. Gli enti locali avviano la procedura di gara non oltre un anno prima della scadenza dell'affidamento, in modo da evitare soluzioni di continuita' nella gestione del servizio. Il gestore uscente resta comunque obbligato a proseguire la gestione del servizio, limitatamente all'ordinaria amministrazione, fino alla data di decorrenza del nuovo affidamento. Ove l'ente locale non provveda entro il termine indicato, la regione, anche attraverso la nomina di un commissario ad acta, avvia la procedura di gara.   
-8. Il nuovo gestore, con riferimento agli investimenti realizzati sugli impianti oggetto di trasferimento di proprieta' nei precedenti affidamenti o concessioni, e' tenuto a subentrare nelle garanzie e nelle obbligazioni relative ai contratti di finanziamento in essere o ad estinguere queste ultime e a corrispondere una somma al distributore uscente in misura pari al valore di rimborso per gli impianti la cui proprieta' e' trasferita dal distributore uscente al nuovo gestore. Nella situazione a regime, al termine della durata delle nuove concessioni di distribuzione del gas naturale affidate ai sensi del comma 1, il valore di rimborso al gestore uscente e' pari al valore delle immobilizzazioni nette di localita' del servizio di distribuzione e misura, relativo agli impianti la cui proprieta' viene trasferita dal distributore uscente al nuovo gestore, incluse le immobilizzazioni in corso di realizzazione, al netto dei contributi pubblici in conto capitale e dei contributi privati relativi ai cespiti di localita', calcolato secondo la metodologia della regolazione tariffaria vigente e sulla base della consistenza degli impianti al momento del trasferimento della proprieta'.   
-9. Gli oneri gravanti sul nuovo gestore ai sensi del comma 8 sono indicati nel bando di gara stimando il valore di rimborso delle immobilizzazioni previste dopo l'emissione del bando di gara. Il bando di gara riporta le modalita' per regolare il valore di rimborso relativo a queste ultime immobilizzazioni. Il gestore subentrante acquisisce la disponibilita' degli impianti dalla data del pagamento della somma corrispondente agli oneri suddetti, ovvero dalla data di offerta reale della stessa.   
-10. Le imprese di gas che svolgono l'attivita' di distribuzione sono tenute alla certificazione di bilancio a decorrere dal 1° gennaio 2002."   
-"Art. 15. Regime di transizione nell'attivita' di distribuzione.   
-1. Entro il 1° gennaio 2003 sono adottate dagli enti locali le deliberazioni di adeguamento alle disposizioni del presente decreto. Tale adeguamento avviene mediante l'indizione di gare per l'affidamento del servizio ovvero attraverso la trasformazione delle gestioni in societa' di capitali o in societa' cooperative a responsabilita' limitata, anche tra dipendenti. Detta trasformazione puo' anche comportare il frazionamento societario. Ove l'adeguamento di cui al presente comma non avvenga entro il termine indicato, provvede nei successivi tre mesi, anche attraverso la nomina di un proprio delegato, il rappresentante dell'ente titolare del servizio. Per gestioni associate o per ambiti a dimensione sovracomunale, in caso di inerzia, la regione procede all'affidamento immediato del servizio mediante gara, nominando a tal fine un commissario ad acta.   
-2. La trasformazione in societa' di capitali delle aziende che gestiscono il servizio di distribuzione gas avviene con le modalita' di cui all'[articolo 17, commi 51](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127~art17-com51), [52](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127~art17-com52), [53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127~art17-com53), [56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127~art17-com56) e [57, della legge 15 maggio 1997, n. 127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127~art17-com57). Le stesse modalita' si applicano anche alla trasformazione di aziende consortili, intendendosi sostituita al consiglio comunale l'assemblea consortile. In questo caso le deliberazioni sono adottate a maggioranza dei componenti; gli enti locali che non intendono partecipare alla societa' hanno diritto alla liquidazione sulla base del valore nominale iscritto a bilancio della relativa quota di capitale. L'ente titolare del servizio puo' restare socio unico delle societa' di cui al presente comma per un periodo non superiore a due anni dalla trasformazione.   
-3. Per la determinazione della quota di capitale sociale spettante a ciascun ente locale, socio della societa' risultante dalla trasformazione delle aziende consortili, si tiene conto esclusivamente dei criteri di ripartizione del patrimonio previsti per il caso di liquidazione dell'azienda consortile.   
-4. Con riferimento al servizio di distribuzione del gas, l'affidamento diretto a societa' controllate dall'ente titolare del servizio prosegue per i periodi indicati ai commi 5 e 6, anche nel caso in cui l'ente locale, per effetto di operazioni di privatizzazione, abbia perduto il controllo della societa'.   
-5. Per l'attivita' di distribuzione del gas, gli affidamenti e le concessioni in essere alla data di entrata in vigore del presente decreto, nonche' quelli alle societa' derivate dalla trasformazione delle attuali gestioni, proseguono fino alla scadenza stabilita, se compresa entro i termini previsti dal comma 7 per il periodo transitorio. Gli affidamenti e le concessioni in essere per i quali non e' previsto un termine di scadenza o e' previsto un termine che supera il periodo transitorio, proseguono fino al completamento del periodo transitorio stesso. In quest'ultimo caso, ai titolari degli affidamenti e delle concessioni in essere e' riconosciuto un rimborso, a carico del nuovo gestore ai sensi del comma 8 dell'articolo 14, calcolato nel rispetto di quanto stabilito nelle convenzioni o nei contratti e, per quanto non desumibile dalla volonta' delle parti, con i criteri di cui alle [lettere a)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;2578~art24-leta) e [b) dell'articolo 24 del regio decreto 15 ottobre 1925, n. 2578](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;2578~art24-letb). Resta sempre esclusa la valutazione del mancato profitto derivante dalla conclusione anticipata del rapporto di gestione.   
-6. Decorso il periodo transitorio, l'ente locale procede all'affidamento del servizio secondo le modalita' previste dall'articolo 14.   
-7. Il periodo transitorio di cui al comma 5 e' fissato in cinque anni a decorrere dal 31 dicembre 2000. Tale periodo puo' essere incrementato, alle condizioni sotto indicate, in misura non superiore a:   
-a) un anno nel caso in cui, almeno un anno prima dello scadere dei cinque anni, si realizzi una fusione societaria che consenta di servire un'utenza complessivamente non inferiore a due volte quella originariamente servita dalla maggiore delle societa' oggetto di fusione;   
-b) due anni nel caso in cui, entro il termine di cui alla lettera a), l'utenza servita risulti superiore a centomila clienti finali, o il gas naturale distribuito superi i cento milioni di metri cubi all'anno, ovvero l'impresa operi in un ambito corrispondente almeno all'intero territorio provinciale;   
-c) due anni nel caso in cui, entro il termine di cui alla lettera a), il capitale privato costituisca almeno il 40% del capitale sociale.   
-8.   
-9. Gli affidamenti e le concessioni in essere alla data di entrata in vigore del presente decreto sono mantenuti per la durata in essi stabilita ove questi siano stati attribuiti mediante gara, e comunque per un periodo non superiore a dodici anni a partire dal 31 dicembre 2000.   
-10. I soggetti titolari degli affidamenti o delle concessioni di cui al comma 5 del presente articolo possono partecipare alle gare indette a norma dell'articolo 14, comma 1, senza limitazioni. Per i soggetti che devono essere costituiti o trasformati ai sensi dei commi 1, 2, e 3 del presente articolo, la partecipazione alle gare e' consentita a partire dalla data dell'avvenuta costituzione o trasformazione.   
-10-bis. Per le concessioni e gli affidamenti in essere per la realizzazione delle reti e la gestione della distribuzione del gas metano ai sensi dell'[articolo 11 della legge 28 novembre 1980, n. 784](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-11-28;784~art11), e successive modificazioni, e dell'[articolo 9 della legge 7 agosto 1997, n. 266](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-08-07;266~art9), come modificato dall'[articolo 28 della legge 17 maggio 1999, n. 144](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-05-17;144~art28), il periodo transitorio disciplinato dal comma 7 e il periodo di cui al comma 9 del presente articolo decorrono, tenuto conto del tempo necessario alla costruzione delle reti, decorsi quattro anni dalla data di entrata in vigore del decreto del Ministero del tesoro, del bilancio e della programmazione economica di concessione del contributo.".   
-Si riporta il testo dell'[articolo 1, comma 2, lettera c), della legge 23 agosto 2004, n. 239](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-08-23;239~art1-com2-letc) ( Riordino del settore energetico):   
-"2. Le attivita' del settore energetico sono cosi' disciplinate:   
-a) le attivita' di produzione, importazione, esportazione, stoccaggio non in sotterraneo anche di oli minerali, acquisto e vendita di energia ai clienti idonei, nonche' di trasformazione delle materie fonti di energia, sono libere su tutto il territorio nazionale, nel rispetto degli obblighi di servizio pubblico derivanti dalla normativa comunitaria e dalla legislazione vigente;   
-b) le attivita' di trasporto e dispacciamento del gas naturale a rete, nonche' la gestione di infrastrutture di approvvigionamento di energia connesse alle attivita' di trasporto e dispacciamento di energia a rete, sono di interesse pubblico e sono sottoposte agli obblighi di servizio pubblico derivanti dalla normativa comunitaria, dalla legislazione vigente e da apposite convenzioni con le autorita' competenti;   
-c) le attivita' di distribuzione di energia elettrica e gas naturale a rete, di esplorazione, coltivazione, stoccaggio sotterraneo di idrocarburi, nonche' di trasmissione e dispacciamento di energia elettrica sono attribuite in concessione secondo le disposizioni di legge.".   
-Si riporta il testo dell'[articolo 46-bis del decreto legge 1° ottobre 2007, n. 159](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-10-01;159~art46bis), convertito, con modificazioni, in [legge 29 novembre 2007, n. 222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-11-29;222) (Interventi urgenti in materia economico - finanziaria, per lo sviluppo e l'equita' sociale):   
-"Art. 46-bis. Disposizioni in materia di concorrenza e qualita' dei servizi essenziali nel settore della distribuzione del gas.   
-1. Al fine di garantire al settore della distribuzione di gas naturale maggiore concorrenza e livelli minimi di qualita' dei servizi essenziali, i Ministri dello sviluppo economico e per gli affari regionali e le autonomie locali, sentita la Conferenza unificata e su parere dell'Autorita' per l'energia elettrica e il gas, individuano entro tre mesi dalla data di entrata in vigore della legge di conversione del presente decreto i criteri di gara e di valutazione dell'offerta per l'affidamento del servizio di distribuzione di gas previsto dall'[articolo 14, comma 1, del decreto legislativo 23 maggio 2000, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164~art14-com1), tenendo conto in maniera adeguata, oltre che delle condizioni economiche offerte, e in particolare di quelle a vantaggio dei consumatori, degli standard qualitativi e di sicurezza del servizio, dei piani di investimento e di sviluppo delle reti e degli impianti.   
-2. I Ministri dello sviluppo economico e per gli affari regionali e le autonomie locali, su proposta dell'Autorita' per l'energia elettrica e il gas e sentita la Conferenza unificata, determinano gli ambiti territoriali minimi per lo svolgimento delle gare per l'affidamento del servizio di distribuzione del gas, a partire da quelli tariffari, secondo l'identificazione di bacini ottimali di utenza, in base a criteri di efficienza e riduzione dei costi, e determinano misure per l'incentivazione delle relative operazioni di aggregazione.   
-3. Al fine di incentivare le operazioni di aggregazione di cui al comma 2, la gara per l'affidamento del servizio di distribuzione di gas e' bandita per ciascun bacino ottimale di utenza entro due anni dall'individuazione del relativo ambito territoriale, che deve avvenire entro un anno dalla data di entrata in vigore della legge di conversione del presente decreto.   
-4. A decorrere dal 1° gennaio 2008, i comuni interessati dalle nuove gare di cui al comma 3 possono incrementare il canone delle concessioni di distribuzione, solo ove minore e fino al nuovo affidamento, fino al 10 per cento del vincolo sui ricavi di distribuzione di cui alla [delibera dell'Autorita' per l'energia elettrica e il gas n. 237 del 28 dicembre 2000, pubblicata nel supplemento ordinario alla Gazzetta Ufficiale n. 4 del 5 gennaio 2001](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2001-01-05&numeroGazzetta=4), e successive modificazioni, destinando prioritariamente le risorse aggiuntive all'attivazione di meccanismi di tutela relativi ai costi dei consumi di gas da parte delle fasce deboli di utenti.   
-4- bis. A decorrere dal 1° gennaio 2008, alle gare di cui al comma 1 del presente articolo si applicano, oltre alle disposizioni di cui all'[articolo 15, comma 10, del decreto legislativo 23 maggio 2000, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164~art15-com10), anche le disposizioni di cui all'articolo 113, comma 15- quater, del testo unico delle leggi sull'ordinamento degli enti locali, di cui al [decreto legislativo 18 agosto 2000, n. 267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-18;267), che si intendono estese a tutti i servizi pubblici locali a rete.".   
-Il [decreto legge 25 giugno 2008, n. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112) convertito, con modificazioni, in [legge 6 agosto 2008, n. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133), (Disposizioni urgenti per lo sviluppo economico, la semplificazione, la competitivita', la stabilizzazione della finanza pubblica e la perequazione tributaria), e' pubblicato nella Gazz. Uff. 25 giugno 2008, n. 147, S.O.   
-La [legge 23 luglio 2009, n. 99](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) (Disposizioni per lo sviluppo e l'internazionalizzazione delle imprese, nonche' in materia di energia), e' pubblicata nella Gazz. Uff. 31 luglio 2009, n. 176, S.O.   
-Si riporta il testo dell'[articolo 17, comma 4, della legge 4 giugno 2010, n. 96](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-06-04;96~art17-com4), (Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge comunitaria 2009):   
-"Art. 17. Principi e criteri direttivi per l'attuazione delle [direttive 2009/28/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009L0028), [2009/72/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009L0072), [2009/73/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009L0073) e [2009/119/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009L0119). Misure per l'adeguamento dell'ordinamento nazionale alla normativa comunitaria in materia di energia, nonche' in materia di recupero di rifiuti.   
-(Omissis).   
-4. Nella predisposizione del decreto legislativo di attuazione della [direttiva 2009/73/CE del Parlamento europeo e del Consiglio, del 13 luglio 2009](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009L0073), relativa a norme comuni per il mercato interno del gas naturale e che abroga la [direttiva 2003/55/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32003L0055), il Governo e' tenuto a seguire, oltre ai principi e criteri direttivi di cui all' articolo 2 della presente legge, in quanto compatibili, anche i seguenti principi e criteri direttivi:   
-a) prevedere misure per aumentare gli scambi transfrontalieri, in modo da conseguire una maggiore efficienza, prezzi competitivi e piu' elevati livelli di servizio, contribuendo anche alla sicurezza degli approvvigionamenti e allo sviluppo sostenibile;   
-b) prevedere, senza nuovi o maggiori oneri per la finanza pubblica, misure per la cooperazione bilaterale e regionale, in uno spirito di solidarieta' tra gli Stati membri, in particolare in casi di crisi del sistema energetico;   
-c) promuovere la realizzazione di capacita' bidirezionale ai punti di interconnessione, anche al fine di realizzare una piattaforma di scambio di gas nell'ambito del sistema italiano;   
-d) assicurare che i gestori dei sistemi di trasporto dispongano di sistemi integrati a livello di due o piu' Stati membri per l'assegnazione della capacita' e per il controllo della sicurezza delle reti;   
-e) prevedere che i gestori dei sistemi di trasporto presentino un piano decennale di sviluppo della rete basato sulla domanda e sull'offerta esistenti e previste, contenente misure atte a garantire l'adeguatezza del sistema e la sicurezza di approvvigionamento;   
-f) promuovere, senza nuovi o maggiori oneri per la finanza pubblica, una concorrenza effettiva e garantire l'efficiente funzionamento del mercato, anche predisponendo misure in favore della concorrenza con effetti analoghi ai programmi di cessione del gas;   
-g) assoggettare le transazioni su contratti di fornitura di gas e su strumenti derivati ad obblighi di trasparenza nella disciplina degli scambi;   
-h) assicurare una efficace separazione tra le attivita' di trasporto, bilanciamento, distribuzione e stoccaggio e le altre attivita' del settore del gas naturale;   
-i) prevedere misure che assicurino maggiore trasparenza ed efficienza nel settore del gas naturale, ottimizzando l'utilizzo del gas naturale e introducendo sistemi di misurazione intelligenti, anche ai fini della diversificazione dei prezzi di fornitura;   
-l) prevedere misure che tengano conto, nel procedimento autorizzativo per la realizzazione di un'infrastruttura del sistema del gas, della rilevanza dell'infrastruttura stessa per il mercato interno del gas naturale e della sua coerenza con gli obiettivi di politica energetica nazionali e comunitari;   
-m) garantire, senza nuovi o maggiori oneri per la finanza pubblica, il controllo della sicurezza degli approvvigionamenti, l'equilibrio tra domanda e offerta, il livello della domanda attesa in futuro e degli stoccaggi disponibili, la prevista capacita' addizionale in corso di programmazione e in costruzione, l'adeguata copertura dei picchi della domanda nonche' delle possibili carenze di fornitura;   
-n) introdurre misure che garantiscano maggiore disponibilita' di capacita' di stoccaggio di gas naturale, anche favorendo l'accesso a parita' di condizioni di una pluralita' di operatori nella gestione delle nuove attivita' di stoccaggio e valutando la possibilita' di ampliare le modalita' di accesso al servizio previste dalla normativa vigente;   
-o) prevedere che le sanzioni amministrative pecuniarie applicabili in caso di mancato rispetto delle disposizioni del [regolamento (CE) n. 715/2009 del Parlamento europeo e del Consiglio, del 13 luglio 2009](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009R0715), nonche' di mancato rispetto degli obblighi imposti alle imprese di gas naturale dalla [direttiva 2009/73/CE del Parlamento europeo e del Consiglio, del 13 luglio 2009](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009L0073), nelle fattispecie assegnate alla competenza dell'Autorita' per l'energia elettrica e il gas, siano non inferiori nel minimo a euro 2.500 e non superiori a euro 154.937.069,73;   
-p) prevedere che i clienti non civili con consumi inferiori o pari a 50.000 metri cubi annui e tutti i civili siano definiti clienti vulnerabili e pertanto meritevoli di apposita tutela in termini di condizioni economiche loro applicate e di continuita' e sicurezza della fornitura;   
-q) promuovere l'efficienza e la concorrenza nel settore del gas naturale, anche demandando all'Autorita' per l'energia elettrica e il gas la definizione, sulla base di appositi indirizzi del Ministero dello sviluppo economico, della disciplina del bilanciamento di merito economico;   
-r) prevedere, ai sensi degli [articoli 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::2009-07-13;73~art13) e [17 della direttiva 2009/73/CE del Parlamento europeo e del Consiglio, del 13 luglio 2009](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009L0073), misure che, ai fini dell'accesso ai servizi di trasporto e bilanciamento del gas naturale, consentano la definizione di un'unica controparte indipendente a livello nazionale;   
-s) prevedere la rimozione degli ostacoli, anche di tipo normativo, al processo di aggregazione delle piccole imprese di distribuzione del gas naturale, per favorirne l'efficienza e la terzieta';   
-t) prevedere misure atte a garantire che imprese di distribuzione verticalmente integrate non siano in condizione di trarre impropri vantaggi dalla loro attivita' di gestione delle reti di distribuzione ostacolando le dinamiche concorrenziali del mercato;   
-u) prevedere, senza nuovi o maggiori oneri per il bilancio dello Stato, che, nella situazione a regime, al termine della durata delle nuove concessioni di distribuzione del gas naturale affidate ai sensi dell' [articolo 14 del decreto legislativo 23 maggio 2000, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164~art14), i meccanismi di valorizzazione delle reti siano coerenti con i criteri posti alla base della definizione delle rispettive tariffe;   
-v) prevedere che l'Autorita' per l'energia elettrica e il gas disponga di risorse finanziarie idonee allo svolgimento delle proprie attivita', attraverso il sistema di totale autofinanziamento previsto dall' [articolo 2, comma 38, della legge 14 novembre 1995, n. 481](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-11-14;481~art2-com38), mediante il contributo versato dai soggetti operanti nei settori di competenza, da utilizzarsi esclusivamente per gli oneri di funzionamento della stessa;   
-z) prevedere che, nell'osservanza delle rispettive competenze, l'Autorita' per l'energia elettrica e il gas e l'Autorita' garante della concorrenza e del mercato si prestino reciproca assistenza, agiscano in modo coordinato, stipulando a tale fine appositi protocolli di intesa, e collaborino tra loro anche mediante lo scambio di informazioni, senza che sia opponibile il segreto d'ufficio.".   
-La [direttiva 2009/73/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009L0073) e' pubblicata nella G.U.C.E. [L 211/94 del 14.8.2009](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-08-14;211).   
-Si riporta il testo dell'[articolo 24 del decreto legislativo 1 giugno 2011, n. 93](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-01;93~art24), recante, fra l'altro, attuazione della [direttiva 2009/73/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009L0073) concernente il mercato interno del gas naturale, che modifica l'[art. 14 del decreto legislativo 23 maggio 2000, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164~art14):   
-"Art. 24. Valore di rimborso degli impianti di distribuzione.   
-1. All'[articolo 14 del decreto legislativo n. 164 del 2000](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;164~art14), il comma 8 e' sostituito dal seguente:   
-«8. Il nuovo gestore, con riferimento agli investimenti realizzati sugli impianti oggetto di trasferimento di proprieta' nei precedenti affidamenti o concessioni, e' tenuto a subentrare nelle garanzie e nelle obbligazioni relative ai contratti di finanziamento in essere o ad estinguere queste ultime e a corrispondere una somma al distributore uscente in misura pari al valore di rimborso per gli impianti la cui proprieta' e' trasferita dal distributore uscente al nuovo gestore. Nella situazione a regime, al termine della durata delle nuove concessioni di distribuzione del gas naturale affidate ai sensi del comma 1, il valore di rimborso al gestore uscente e' pari al valore delle immobilizzazioni nette di localita' del servizio di distribuzione e misura, relativo agli impianti la cui proprieta' viene trasferita dal distributore uscente al nuovo gestore, incluse le immobilizzazioni in corso di realizzazione, al netto dei contributi pubblici in conto capitale e dei contributi privati relativi ai cespiti di localita', calcolato secondo la metodologia della regolazione tariffaria vigente e sulla base della consistenza degli impianti al momento del trasferimento della proprieta'.».   
-2. All'[articolo 14, comma 9, del decreto legislativo n. 164 del 2000](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;164~art14-com9), primo periodo, dopo le parole: «indicati nel bando di gara» sono inserite le seguenti: «stimando il valore di rimborso delle immobilizzazioni previste dopo l'emissione del bando di gara. Il bando di gara riporta le modalita' per regolare il valore di rimborso relativo a queste ultime immobilizzazioni.».   
-3. L'Autorita' per l'energia elettrica e il gas, limitatamente al primo periodo di esercizio delle concessioni assegnate per ambiti territoriali minimi di cui all'[articolo 46-bis, comma 2, del decreto-legge 1° ottobre 2007, n. 159](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-10-01;159~art46bis-com2), convertito, con modificazioni, dalla [legge 29 novembre 2007, n. 222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-11-29;222), riconosce in tariffa al gestore entrante l'ammortamento della differenza tra il valore di rimborso, come determinato ai sensi del decreto di cui all'[articolo 46-bis, comma 1, del decreto-legge 1° ottobre 2007, n. 159](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-10-01;159~art46bis-com1), convertito, con modificazioni, dalla [legge 29 novembre 2007, n. 222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-11-29;222), e il valore delle immobilizzazioni nette, al netto dei contributi pubblici in conto capitale e dei contributi privati relativi ai cespiti di localita'.   
-4. Gli enti locali che, per l'affidamento del servizio di distribuzione di gas naturale, alla data di entrata in vigore del presente decreto, in caso di procedura di gara aperta, abbiano pubblicato bandi di gara, o, in caso di procedura di gara ristretta, abbiano inviato anche le lettere di invito, includenti in entrambi i casi la definizione dei criteri di valutazione dell'offerta e del valore di rimborso al gestore uscente, e non siano pervenuti all'aggiudicazione dell'impresa vincitrice, possono procedere all'affidamento del servizio di distribuzione di gas naturale secondo le procedure applicabili alla data di indizione della relativa gara.  
-Fatto salvo quanto previsto dal periodo precedente, a decorrere dalla data di entrata in vigore del presente decreto le gare per l'affidamento del servizio di distribuzione sono effettuate unicamente per ambiti territoriali di cui all'[articolo 46-bis, comma 2, del decreto-legge 1° ottobre 2007, n. 159](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-10-01;159~art46bis-com2), convertito, con modificazioni, dalla [legge 29 novembre 2007, n. 222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-11-29;222).".   
-Si riporta il testo dell'[articolo 113, comma 13, del decreto legislativo 18 agosto 2000, n. 267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-18;267~art113-com13) (Testo unico delle leggi sull'ordinamento degli enti locali), pubblicato nella Gazz. Uff. 28 settembre 2000, n. 227, S.O.:   
-"Art. 113. Gestione delle reti ed erogazione dei servizi pubblici locali di rilevanza economica.   
-(Omissis).   
-13. Gli enti locali, anche in forma associata, nei casi in cui non sia vietato dalle normative di settore, possono conferire la proprieta' delle reti, degli impianti, e delle altre dotazioni patrimoniali a societa' a capitale interamente pubblico, che e' incedibile. Tali societa' pongono le reti, gli impianti e le altre dotazioni patrimoniali a disposizione dei gestori incaricati della gestione del servizio o, ove prevista la gestione separata della rete, dei gestori di quest'ultima, a fronte di un canone stabilito dalla competente Autorita' di settore, ove prevista, o dagli enti locali. Alla societa' suddetta gli enti locali possono anche assegnare, ai sensi della lettera a) del comma 4, la gestione delle reti, nonche' il compito di espletare le gare di cui al comma 5.".   
-Si riporta il testo degli [articoli 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163~art30) e [216 del decreto legislativo 12 aprile 2006, n. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163~art216) ([Codice dei contratti pubblici](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163) relativi a lavori, servizi e forniture in attuazione delle [direttive 2004/17/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32004L0017) e [2004/18/CE)](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32004L0018), pubblicato nella Gazz. Uff. 2 maggio 2006, n. 100, S.O.:   
-"Art. 30. Concessione di servizi.   
-([artt. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::2018;2004~art3) e [17, direttiva 2004/18](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32018L2004); art. 3, co. 8, [L. n. 415/1998](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998;415))   
-1. Salvo quanto disposto nel presente articolo, le disposizioni del codice non si applicano alle concessioni di servizi.   
-2. Nella concessione di servizi la controprestazione a favore del concessionario consiste unicamente nel diritto di gestire funzionalmente e di sfruttare economicamente il servizio. Il soggetto concedente stabilisce in sede di gara anche un prezzo, qualora al concessionario venga imposto di praticare nei confronti degli utenti prezzi inferiori a quelli corrispondenti alla somma del costo del servizio e dell'ordinario utile di impresa, ovvero qualora sia necessario assicurare al concessionario il perseguimento dell'equilibrio economico - finanziario degli investimenti e della connessa gestione in relazione alla qualita' del servizio da prestare.   
-3. La scelta del concessionario deve avvenire nel rispetto dei principi desumibili dal Trattato e dei principi generali relativi ai contratti pubblici e, in particolare, dei principi di trasparenza, adeguata pubblicita', non discriminazione, parita' di trattamento, mutuo riconoscimento, proporzionalita', previa gara informale a cui sono invitati almeno cinque concorrenti, se sussistono in tale numero soggetti qualificati in relazione all'oggetto della concessione, e con predeterminazione dei criteri selettivi.   
-4. Sono fatte salve discipline specifiche che prevedono forme piu' ampie di tutela della concorrenza.   
-5. Restano ferme, purche' conformi ai principi dell'ordinamento comunitario le discipline specifiche che prevedono, in luogo delle concessione di servizi a terzi, l'affidamento di servizi a soggetti che sono a loro volta amministrazioni aggiudicatrici.   
-6. Se un'amministrazione aggiudicatrice concede ad un soggetto che non e' un'amministrazione aggiudicatrice diritti speciali o esclusivi di esercitare un'attivita' di servizio pubblico, l'atto di concessione prevede che, per gli appalti di forniture conclusi con terzi nell'ambito di tale attivita', detto soggetto rispetti il principio di non discriminazione in base alla nazionalita'.   
-7. Si applicano le disposizioni della parte IV. Si applica, inoltre, in quanto compatibile l'articolo 143, comma 7."   
-"Art. 216. Concessioni di lavori e di servizi.   
-([art. 18, direttiva 2004/17](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32017L2004))   
-1. Salva l'applicazione dell'articolo 30 in tema di concessione di servizi, la presente parte non si applica alle concessioni di lavori e di servizi rilasciate da enti aggiudicatori che esercitano una o piu' attivita' di cui agli articoli da 208 a 213, quando la concessione ha per oggetto l'esercizio di dette attivita'.   
-1-bis. Il concessionario che non sia uno degli enti aggiudicatori che esercitano una o piu' attivita' di cui agli articoli da 208 a 213, scelto senza il ricorso ad una procedura di gara aperta o ristretta, e' tenuto ad applicare le stesse disposizioni alle quali sono assoggettati i predetti enti.".   
-Si riporta il testo dell'[articolo 24, lettere a)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;2578~art24-leta) e [b), del regio decreto 15 ottobre 1925, n. 2578](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;2578~art24-letb) (Approvazione del testo unico della legge sull'assunzione diretta dei pubblici servizi da parte dei comuni e delle province), pubblicato nella Gazz. Uff. 4 marzo 1926, n. 52:   
-"Art. 24. ([art. 25 della legge 29 marzo 1903, n. 103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-03-29;103~art25), e art. 1° del [regio decreto 4 febbraio 1923, numero 253](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-04;253)). - I comuni possono valersi delle facolta' consentite dall' art. 1 pei servizi che siano gia' affidati all'industria privata quando dall'effettivo cominciamento dell'esercizio sia trascorso un terzo della durata complessiva del tempo per cui la concessione fu fatta. Tuttavia i comuni hanno sempre diritto al riscatto quando sieno passati venti anni dall'effettivo cominciamento dell'esercizio; ma in ogni caso non possono esercitarlo prima che ne siano passati dieci.   
-Qualora i comuni non facciano uso delle facolta' di riscatto nelle epoche sopra determinate, non possono valersene se non trascorso un quinquennio, e cosi' in seguito di cinque in cinque anni.   
-Il riscatto deve essere sempre preceduto dal preavviso di un anno.   
-Quando i comuni procedono al riscatto debbono pagare ai concessionari un'equa indennita', nella quale si tenga conto dei seguenti termini:   
-a) valore industriale dell'impianto e del relativo materiale mobile ed immobile, tenuto conto del tempo trascorso dall'effettivo cominciamento dell'esercizio e dagli eventuali ripristini avvenuti nell'impianto o nel materiale ed inoltre considerate le clausole che nel contratto di concessione siano contenute circa la proprieta' di detto materiale, allo spirare della concessione medesima;   
-b) anticipazioni o sussidi dati dai comuni, nonche' importo delle tasse proporzionali di registro anticipate dai concessionari e premi eventualmente pagati ai comuni concedenti, sempre tenuto conto degli elementi indicati nella lettera precedente;".   
-Si riporta il testo dell'[articolo 30, comma 21, della legge 23 luglio 2009, n. 99](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99~art30-com21) (Disposizioni per lo sviluppo e l'internazionalizzazione delle imprese, nonche' in materia di energia), pubblicata nella Gazz. Uff. 31 luglio 2009, n. 176, S.O.:   
-"Art. 30. Misure per l'efficienza del settore energetico.   
-(Omissis).   
-21. La validita' temporale dei bolli metrici e della marcatura «CE» apposti sui misuratori di gas con portata massima fino a 10 metri cubi/h e' di quindici anni, decorrenti dall'anno della loro apposizione, in sede di verificazione o accertamento della conformita' prima della loro immissione in commercio.".   
-Si riporta il testo dell'articolo 8 del decreto legislativo 28 agosto 1997 (Definizione ed ampliamento delle attribuzioni della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano ed unificazione, per le materie ed i compiti di interesse comune delle regioni, delle province e dei comuni, con la Conferenza Stato-citta' ed autonomie locali):   
-"Art. 8. Conferenza Stato-citta' ed autonomie locali e Conferenza unificata.   
-1. La Conferenza Stato-citta' ed autonomie locali e' unificata per le materie ed i compiti di interesse comune delle regioni, delle province, dei comuni e delle comunita' montane, con la Conferenza Stato-regioni.   
-2. La Conferenza Stato-citta' ed autonomie locali e' presieduta dal Presidente del Consiglio dei Ministri o, per sua delega, dal Ministro dell'interno o dal Ministro per gli affari regionali nella materia di rispettiva competenza; ne fanno parte altresi' il Ministro del tesoro e del bilancio e della programmazione economica, il Ministro delle finanze, il Ministro dei lavori pubblici, il Ministro della sanita', il presidente dell'Associazione nazionale dei comuni d'Italia - ANCI, il presidente dell'Unione province d'Italia - UPI ed il presidente dell'Unione nazionale comuni, comunita' ed enti montani - UNCEM. Ne fanno parte inoltre quattordici sindaci designati dall'ANCI e sei presidenti di provincia designati dall'UPI.  
-Dei quattordici sindaci designati dall'ANCI cinque rappresentano le citta' individuate dall'[articolo 17 della legge 8 giugno 1990, n. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-08;142~art17). Alle riunioni possono essere invitati altri membri del Governo, nonche' rappresentanti di amministrazioni statali, locali o di enti pubblici.   
-3. La Conferenza Stato-citta' ed autonomie locali e' convocata almeno ogni tre mesi, e comunque in tutti i casi il presidente ne ravvisi la necessita' o qualora ne faccia richiesta il presidente dell'ANCI, dell'UPI o dell'UNCEM.   
-4. La Conferenza unificata di cui al comma 1 e' convocata dal Presidente del Consiglio dei Ministri. Le sedute sono presiedute dal Presidente del Consiglio dei Ministri o, su sua delega, dal Ministro per gli affari regionali o, se tale incarico non e' conferito, dal Ministro dell'interno.".   
-Si riporta il testo dell'[articolo 17, commi 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3) e [4, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com4) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri):   
-"Art. 17. Regolamenti.   
-(Omissis).   
-3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del ministro o di autorita' sottordinate al ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.  
-I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei ministri prima della loro emanazione.   
-4. I regolamenti di cui al comma 1 ed i regolamenti ministeriali ed interministeriali, che devono recare la denominazione di «regolamento», sono adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.".   
-Note all'art. 1:   
-Per il testo dell'articolo 46-bis, comma 2, del citato [decreto legge n. 159 del 2007, e dell'articolo 30, comma 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007;159~art30-com26), della citata [legge n. 99 del 2009](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009;99), si veda nelle note alle premesse.   
-Per i riferimenti al [decreto legislativo n. 164 del 2000](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;164) e per il testo degli articoli 14 e 15 dello stesso, si veda nelle note alle premesse.   
-Si riporta il testo dell'[articolo 69 della legge 23 agosto 2004, n. 239](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-08-23;239~art69) (Riordino del settore energetico, nonche' delega al Governo per il riassetto delle disposizioni vigenti in materia di energia):   
-"Art. 69. La disposizione di cui all'[articolo 15, comma 5, del decreto legislativo 23 maggio 2000, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164~art15-com5), relativa al regime transitorio degli affidamenti e delle concessioni in essere al 21 giugno 2000, data di entrata in vigore del medesimo decreto legislativo, va interpretata nel senso che e' fatta salva la facolta' di riscatto anticipato, durante il periodo transitorio, se stabilita nei relativi atti di affidamento o di concessione. Tale facolta' va esercitata secondo le norme ivi stabilite. Le gare sono svolte in conformita' all'[articolo 14 del decreto legislativo 23 maggio 2000, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164~art14). Il periodo transitorio di cui al citato articolo 15, comma 5, termina entro il 31 dicembre 2007, fatta salva la facolta' per l'ente locale affidante o concedente di prorogare, entro sei mesi dalla data di entrata in vigore della presente legge, per un anno la durata del periodo transitorio, qualora vengano ravvisate motivazioni di pubblico interesse. Nei casi previsti dall'[articolo 15, comma 9, del decreto legislativo 23 maggio 2000, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164~art15-com9), il periodo transitorio non puo' comunque terminare oltre il 31 dicembre 2012. E' abrogato il comma 8 dell'articolo 15 dello stesso [decreto legislativo n. 164 del 2000](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;164).".   
-Si riporta il testo dell'[articolo 23 del decreto legge 30 dicembre 2005, n. 273](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-12-30;273~art23), convertito in legge dalla [legge 23 febbraio 2006, n. 51](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-23;51):   
-"Art. 23. Disposizioni in materia di energia e attivita' produttive.   
-1. Il termine del periodo transitorio previsto dall'[articolo 15, comma 5, del decreto legislativo 23 maggio 2000, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164~art15-com5), e' prorogato al 31 dicembre 2007 ed e' automaticamente prolungato fino al 31 dicembre 2009 qualora si verifichi almeno una delle condizioni indicate al comma 7 del medesimo articolo 15.   
-2. I termini di cui al comma 1 possono essere ulteriormente prorogati di un anno, con atto dell'ente locale affidante o concedente, per comprovate e motivate ragioni di pubblico interesse.   
-3. Sono fatte salve le disposizioni di cui al [comma 9 dell'articolo 15 del decreto legislativo 23 maggio 2000, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164~art15-com9), nonche' la facolta' di riscatto anticipato durante il periodo transitorio, di cui al comma 1, se prevista nell'atto di affidamento o di concessione.   
-4. I termini di durata delle concessioni e degli affidamenti per la realizzazione delle reti e la gestione della distribuzione di gas naturale ai sensi dell'[articolo 11 della legge 28 novembre 1980, n. 784](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-11-28;784~art11), e dell'[articolo 9 della legge 7 agosto 1997, n. 266](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-08-07;266~art9), sono prorogati fino al dodicesimo anno decorrente dalla data di entrata in vigore del [decreto legislativo 23 maggio 2000, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164), oppure, se successiva, dalla data di entrata in vigore del decreto del Ministero dell'economia e delle finanze di approvazione delle risultanze finali dell'intervento.   
-5. I termini, non ancora scaduti alla data di entrata in vigore del presente decreto, previsti per l'adeguamento alle prescrizioni contenute nei decreti autorizzativi di impianti che generano emissioni in atmosfera sono prorogati di sessanta giorni, decorrenti:   
-a) dalla «messa in esercizio dell'impianto», intesa come data di avvio delle prime prove di funzionamento del medesimo;   
-b) dalla «entrata in esercizio dell'impianto», intesa come data successiva al completamento del collaudo, a partire dalla quale l'impianto, nel suo complesso, risulta in funzione nelle condizioni operative definitive, ossia quando, decorsi sei mesi dalla comunicazione di cui all'[articolo 8, comma 2, del decreto del Presidente della Repubblica 24 maggio 1988, n. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988-05-24;203~art8-com2), si prevede il passaggio del rilevamento delle emissioni da base giornaliera a base oraria.   
-5-bis. I termini scaduti nel 2005 per la presentazione delle domande di liquidazione degli interventi per le finalita' di cui all'[articolo 103, comma 5, della legge 23 dicembre 2000, n. 388](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388~art103-com5), sono prorogati fino al 31 marzo 2006. Le disponibilita' finanziarie per i medesimi interventi che a tale data dovessero risultare ancora non liquidate possono essere destinate alla prosecuzione delle incentivazioni al commercio elettronico con provvedimento del Ministero delle attivita' produttive da adottare entro il 30 giugno 2006.".   
-La deliberazione ARG/gas 120/08 dell'Autorita', e' pubblicata sul sito www.autorita.energia.it in data 8 agosto 2008 e nella Gazz. Uff. 4.11.2008, n. 258, S.O.
-
-Art. 2
-------
-
-Soggetto che gestisce la gara
-
-1. Gli Enti locali concedenti appartenenti a ciascun ambito demandano al Comune capoluogo di provincia il ruolo di stazione appaltante per la gestione della gara per l'affidamento del servizio di distribuzione del gas naturale in forma associata secondo la normativa vigente in materia di Enti locali, ferma restando la possibilita' di demandare in alternativa tale ruolo a una societa' di patrimonio delle reti, costituita ai sensi dell'[articolo 113, comma 13, del decreto legislativo 18 agosto 2000, n. 267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-18;267~art113-com13), ove presente. Nel caso in cui il Comune capoluogo di provincia non appartenga all'ambito, i sopra citati Enti locali individuano un Comune capofila, o la Provincia, o un altro soggetto gia' istituito, quale una societa' di patrimonio delle reti, al quale demandare il ruolo di stazione appaltante.
-
-((La convenzione fra i Comuni facenti parte dell'ambito e' approvata con la maggioranza qualificata dei Comuni d'ambito di cui all'[articolo 4, comma 3, del decreto-legge 21 giugno 2013, n. 69](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69~art4-com3), convertito con modificazioni in [legge 9 agosto 2013, n. 98](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-08-09;98)))
-
-.
-
-2. Il Comune capoluogo di provincia, qualora appartenente all'ambito, o la Provincia, negli altri casi, convoca, entro la data di cui all'allegato 1
-
-((, come espressamente prorogata dalle norme vigenti,))
-
-per il primo periodo di applicazione, gli Enti locali concedenti appartenenti all'ambito per gli adempimenti di cui al comma 1.
-
-3. Nel primo periodo di applicazione, decorsi 6 mesi dalla data di cui all'allegato 1
-
-((, come espressamente prorogata dalle norme vigenti,))
-
-senza che si sia proceduto all'individuazione del soggetto di cui al secondo periodo del comma 1, il Comune con il maggior numero di abitanti o la Provincia competente trasmette alla Regione una relazione sulla situazione e sulle attivita' svolte, per l'eventuale intervento di cui all'articolo 3. Negli altri casi, il ruolo di stazione appaltante e' svolto dal Comune capoluogo di provincia.
-
-4. La stazione appaltante prepara e pubblica il bando di gara e il disciplinare di gara, svolge e aggiudica la gara per delega degli Enti locali concedenti.
-
-5. Salvo l'individuazione, da parte degli Enti locali concedenti, di un diverso soggetto, sempre con le modalita' di cui al comma 1, la stazione appaltante cura anche ogni rapporto con il gestore, in particolare svolge la funzione di controparte del contratto di servizio, per delega
-
-((...))
-
-degli Enti locali concedenti, ed e' coadiuvata, nella funzione di vigilanza e controllo, da un comitato di monitoraggio costituito dai rappresentanti degli Enti locali concedenti appartenenti all'ambito, per un massimo di 15 membri.
-
-6. Entro 6 mesi dall'individuazione della stazione appaltante, gli Enti locali concedenti forniscono alla stazione appaltante medesima la documentazione necessaria alla preparazione del bando di gara.  
-L'Ente locale concedente puo' delegare la stazione appaltante per il reperimento diretto delle informazioni presso il gestore uscente.
-
-((Trascorsi i termini di cui sopra senza ricevere le informazioni utili per la pubblicazione del bando di gara, la stazione appaltante, previa diffida ai Comuni inadempienti contenente un termine perentorio a provvedere, provvede al reperimento diretto delle informazioni, anche nei confronti dei gestori uscenti, e a tutti gli atti necessari alla preparazione e pubblicazione del bando di gara di cui all'articolo 9, in sostituzione dei Comuni che dovessero rimanere inadempienti. In questo caso l'Allegato B al bando di gara riporta l'eventuale evidenza delle informazioni non fornite direttamente dal Comune.))
+Entro 6 mesi dall'individuazione della stazione appaltante, gli Enti locali concedenti forniscono alla stazione appaltante medesima la documentazione necessaria alla preparazione del bando di gara.
+L'Ente locale concedente puo' delegare la stazione appaltante per il reperimento diretto delle informazioni presso il gestore uscente. ((Trascorsi i termini di cui sopra senza ricevere le informazioni utili per la pubblicazione del bando di gara, la stazione appaltante, previa diffida ai Comuni inadempienti contenente un termine perentorio a provvedere, provvede al reperimento diretto delle informazioni, anche nei confronti dei gestori uscenti, e a tutti gli atti necessari alla preparazione e pubblicazione del bando di gara di cui all'articolo 9, in sostituzione dei Comuni che dovessero rimanere inadempienti. In questo caso l'Allegato B al bando di gara riporta l'eventuale evidenza delle informazioni non fornite direttamente dal Comune.))
 
 ((
 
-7. Il soggetto di cui al comma 5, previa determinazione che puo' essere assunta dalla maggioranza dei comuni dell'ambito di cui all'[articolo 4, comma 3, del decreto-legge 21 giugno 2013, n. 69](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69~art4-com3) convertito, con modificazioni, dalla [legge 9 agosto 2013, n. 98](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-08-09;98), puo' - ricorrendone le condizioni - chiedere la risoluzione del contratto di affidamento al gestore dell'ambito, ai sensi dell'[articolo 1455 del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1455).
+7.
+
+Il soggetto di cui al comma 5, previa determinazione che puo' essere assunta dalla maggioranza dei comuni dell'ambito di cui all'[articolo 4, comma 3, del decreto-legge 21 giugno 2013, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69#art_4-com3) convertito, con modificazioni, dalla [legge 9 agosto 2013, n. 98](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20giugno%202013%20n.%2069%20recante%20disposizioni%20urgenti%20per%20il%20rilancio%20delleconomia.%2013G00140.md), puo' - ricorrendone le condizioni - chiedere la risoluzione del contratto di affidamento al gestore dell'ambito, ai sensi dell'[articolo 1455 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1455).
 
 ))
 
-Art. 3
-------
+## Art. 3. — Intervento della Regione
 
-Intervento della Regione
+1.
 
-1. Fatto salvo quanto previsto all'[articolo 4, commi 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69~art4-com2), [3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69~art4-com3), [3-bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69~art4-com3bis), [4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69~art4-com4) e [5 del decreto-legge 21 giugno 2013, n. 69](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69~art4-com5), convertito con modificazioni in [legge 9 agosto 2013, n. 98](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-08-09;98), e dalle altre norme vigenti che espressamente prorogano i termini, Nel primo periodo di applicazione, qualora, trascorsi 7 mesi dal termine fissato nell'allegato 1, gli Enti locali concedenti non abbiano identificato la stazione appaltante, di cui all'articolo 2, comma 1, secondo periodo, o qualora, nel caso di presenza nell'ambito del Comune capoluogo di provincia, trascorsi 15 mesi o, negli altri casi, 18 mesi dal termine fissato nell'allegato 1, la stazione appaltante non abbia pubblicato il bando di gara, la Regione con competenza sull'ambito, previa diffida ai soggetti inadempienti contenente un termine perentorio a provvedere, avvia la procedura di gara ai sensi dell'[articolo 14, comma 7, del decreto legislativo 23 maggio 2000, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164~art14-com7). (3) (4) (6)
+Fatto salvo quanto previsto all'[articolo 4, commi 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69#art_4-com2), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69#art_4-com3), [3-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69#art_4-com3bis), [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69#art_4-com4) e [5 del decreto-legge 21 giugno 2013, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69#art_4-com5), convertito con modificazioni in [legge 9 agosto 2013, n. 98](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20giugno%202013%20n.%2069%20recante%20disposizioni%20urgenti%20per%20il%20rilancio%20delleconomia.%2013G00140.md), e dalle altre norme vigenti che espressamente prorogano i termini, Nel primo periodo di applicazione, qualora, trascorsi 7 mesi dal termine fissato nell'allegato 1, gli Enti locali concedenti non abbiano identificato la stazione appaltante, di cui all'articolo 2, comma 1, secondo periodo, o qualora, nel caso di presenza nell'ambito del Comune capoluogo di provincia, trascorsi 15 mesi o, negli altri casi, 18 mesi dal termine fissato nell'allegato 1, la stazione appaltante non abbia pubblicato il bando di gara, la Regione con competenza sull'ambito, previa diffida ai soggetti inadempienti contenente un termine perentorio a provvedere, avvia la procedura di gara ai sensi dell'[articolo 14, comma 7, del decreto legislativo 23 maggio 2000, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md). (3) (4) (6) ((7))
 
-((7))
+1-bis.
 
-1-bis. Nel caso in cui gli enti locali di due o piu' ambiti confinanti decidano di effettuare la gara in maniera congiunta ai sensi dell'articolo 2, comma 4, del decreto ministeriale 19 gennaio 2011, si considera come termine di scadenza per la pubblicazione del bando di gara la data piu' lontana tra le scadenze degli ambiti che si uniscono, con la condizione vincolante che la decisione di gara congiunta, nonche' la nomina della stazione appaltante, vengano formalizzate entro il termine piu' ravvicinato fra quelli previsti per la nomina della stazione appaltante in ciascun ambito.
+Nel caso in cui gli enti locali di due o piu' ambiti confinanti decidano di effettuare la gara in maniera congiunta ai sensi dell'articolo 2, comma 4, del decreto ministeriale 19 gennaio 2011, si considera come termine di scadenza per la pubblicazione del bando di gara la data piu' lontana tra le scadenze degli ambiti che si uniscono, con la condizione vincolante che la decisione di gara congiunta, nonche' la nomina della stazione appaltante, vengano formalizzate entro il termine piu' ravvicinato fra quelli previsti per la nomina della stazione appaltante in ciascun ambito.
 
-2. A regime valgono i termini e le modalita' indicate nell'[articolo 14 , comma 7, del decreto legislativo 23 maggio 2000, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164~art14-com7), per l'intero ambito.   
-(1) (2)
+2.
+
+A regime valgono i termini e le modalita' indicate nell'[articolo 14 , comma 7, del decreto legislativo 23 maggio 2000, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md), per l'intero ambito. 
+ (1) (2)
 
 -------------
 
 AGGIORNAMENTO (1)
 
-Il [D.L. 21 giugno 2013, n. 69](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69) convertito con modificazioni dalla [L. 9 agosto 2013, n. 98](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-08-09;98) ha disposto (con l'art. 4, comma 2) che "I termini previsti dall'articolo 3 del regolamento di cui al [decreto del Ministro dello sviluppo economico 12 novembre 2011, n. 226](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sviluppo.economico:decreto:2011-11-12;226), come modificati ai sensi del comma 3 del presente articolo, relativi all'avvio delle procedure di gara per l'affidamento del servizio di distribuzione del gas naturale)), sono da intendersi di natura perentoria. In particolare, scaduti tali termini, la Regione con competenza sull'ambito, avvia la procedura di gara attraverso la nomina di un commissario ad acta, ai sensi dell'[articolo 14, comma 7, del decreto legislativo 23 maggio 2000, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164~art14-com7)".
+Il [D.L. 21 giugno 2013, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69) convertito con modificazioni dalla [L. 9 agosto 2013, n. 98](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20giugno%202013%20n.%2069%20recante%20disposizioni%20urgenti%20per%20il%20rilancio%20delleconomia.%2013G00140.md) ha disposto (con l'art. 4, comma 2) che "I termini previsti dall'articolo 3 del regolamento di cui al [decreto del Ministro dello sviluppo economico 12 novembre 2011, n. 226](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sviluppo.economico:decreto:2011-11-12;226), come modificati ai sensi del comma 3 del presente articolo, relativi all'avvio delle procedure di gara per l'affidamento del servizio di distribuzione del gas naturale)), sono da intendersi di natura perentoria. In particolare, scaduti tali termini, la Regione con competenza sull'ambito, avvia la procedura di gara attraverso la nomina di un commissario ad acta, ai sensi dell'[articolo 14, comma 7, del decreto legislativo 23 maggio 2000, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md)".
 
 -------------
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 23 maggio 2000, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164), come modificato dal [D.L. 23 dicembre 2013, n. 145](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-12-23;145), convertito con modificazioni dalla [L. 21 febbraio 2014, n. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-02-21;9), ha disposto (con l'art. 15, comma 5) che "Le date limite di cui all'allegato 1 al regolamento di cui al [decreto del Ministro dello sviluppo economico 12 novembre 2011, n. 226](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sviluppo.economico:decreto:2011-11-12;226), relative agli ambiti ricadenti nel terzo raggruppamento dello stesso allegato 1, nonche' i rispettivi termini di cui all'articolo 3 del medesimo regolamento, sono prorogati di quattro mesi".
+Il [D.Lgs. 23 maggio 2000, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md), come modificato dal [D.L. 23 dicembre 2013, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-12-23;145), convertito con modificazioni dalla [L. 21 febbraio 2014, n. 9](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20dicembre%202013%20n.%20145%20recante%20interventi%20urgenti%20di%20avvio%20del%20piano%20Destinazione%20Italia%20per%20il%20contenimento%20delle%20tariffe%20elettr_0f4dac28da91.md), ha disposto (con l'art. 15, comma 5) che "Le date limite di cui all'allegato 1 al regolamento di cui al [decreto del Ministro dello sviluppo economico 12 novembre 2011, n. 226](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sviluppo.economico:decreto:2011-11-12;226), relative agli ambiti ricadenti nel terzo raggruppamento dello stesso allegato 1, nonche' i rispettivi termini di cui all'articolo 3 del medesimo regolamento, sono prorogati di quattro mesi".
 
 -------------
 
 AGGIORNAMENTO (3)
 
-Il [D.L. 24 giugno 2014, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-06-24;91) convertito con modificazioni dalla [L. 11 agosto 2014, n. 116](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;116) ha disposto (con l'art. 30-bis, comma 2) che "I termini di cui all'articolo 3, comma 1, del regolamento di cui al decreto del Ministro dello sviluppo economico e del Ministro per i rapporti con le regioni e la coesione territoriale 12 novembre 2011, n. 226, relativi alla mancata pubblicazione del bando di gara, sono prorogati di otto mesi per gli ambiti del primo raggruppamento di cui all'allegato 1 dello stesso decreto, di sei mesi per gli ambiti del secondo, terzo e quarto raggruppamento e di quattro mesi per gli ambiti del quinto e sesto raggruppamento, in aggiunta alle proroghe di cui all'[articolo 1, comma 16, del decreto-legge 23 dicembre 2013, n. 145](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-12-23;145~art1-com16), convertito, con modificazioni, dalla [legge 21 febbraio 2014, n. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-02-21;9)".
+Il [D.L. 24 giugno 2014, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-06-24;91) convertito con modificazioni dalla [L. 11 agosto 2014, n. 116](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20giugno%202014%20n.%2091%20recante%20disposizioni%20urgenti%20per%20il%20settore%20agricolo%20la%20tutela%20ambientale%20e%20lefficientamento%20energetico%20delle_0330d926bce6.md) ha disposto (con l'art. 30-bis, comma 2) che "I termini di cui all'articolo 3, comma 1, del regolamento di cui al decreto del Ministro dello sviluppo economico e del Ministro per i rapporti con le regioni e la coesione territoriale 12 novembre 2011, n. 226, relativi alla mancata pubblicazione del bando di gara, sono prorogati di otto mesi per gli ambiti del primo raggruppamento di cui all'allegato 1 dello stesso decreto, di sei mesi per gli ambiti del secondo, terzo e quarto raggruppamento e di quattro mesi per gli ambiti del quinto e sesto raggruppamento, in aggiunta alle proroghe di cui all'[articolo 1, comma 16, del decreto-legge 23 dicembre 2013, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-12-23;145#art_1-com16), convertito, con modificazioni, dalla [legge 21 febbraio 2014, n. 9](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20dicembre%202013%20n.%20145%20recante%20interventi%20urgenti%20di%20avvio%20del%20piano%20Destinazione%20Italia%20per%20il%20contenimento%20delle%20tariffe%20elettr_0f4dac28da91.md)".
 
 ---------------
 
 AGGIORNAMENTO (4)
 
-Il [D.L. 31 dicembre 2014, n. 192](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-12-31;192) convertito con modificazioni dalla [L. 27 febbraio 2015, n. 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-02-27;11) ha disposto (con l'art. 3, comma 3-quater) che "I termini di cui all'articolo 3, comma 1, del regolamento di cui al comma 3-ter, relativi alla mancata pubblicazione del bando di gara, per gli ambiti del primo raggruppamento di cui all'allegato 1 allo stesso regolamento, sono prorogati all'11 luglio 2015, con esclusione degli ambiti di cui all'[articolo 4, comma 3-bis, del decreto-legge 21 giugno 2013, n. 69](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69~art4-com3bis), convertito, con modificazioni, dalla [legge 9 agosto 2013, n. 98](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-08-09;98). ".
+Il [D.L. 31 dicembre 2014, n. 192](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2014G00205.md) convertito con modificazioni dalla [L. 27 febbraio 2015, n. 11](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%202014%20n.%20192%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2015G00031.md) ha disposto (con l'art. 3, comma 3-quater) che "I termini di cui all'articolo 3, comma 1, del regolamento di cui al comma 3-ter, relativi alla mancata pubblicazione del bando di gara, per gli ambiti del primo raggruppamento di cui all'allegato 1 allo stesso regolamento, sono prorogati all'11 luglio 2015, con esclusione degli ambiti di cui all'[articolo 4, comma 3-bis, del decreto-legge 21 giugno 2013, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69#art_4-com3bis), convertito, con modificazioni, dalla [legge 9 agosto 2013, n. 98](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20giugno%202013%20n.%2069%20recante%20disposizioni%20urgenti%20per%20il%20rilancio%20delleconomia.%2013G00140.md). ".
 
 -------------
 
 AGGIORNAMENTO (6)
 
-Il [D.L. 30 dicembre 2015, n. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2015-12-30;210) convertito con modificazioni dalla [L. 25 febbraio 2016, n. 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-02-25;21) ha disposto (con l'art. 3, comma 2-bis) che "I termini di cui all'articolo 3, comma 1, del regolamento di cui al decreto del Ministro dello sviluppo economico e del Ministro per i rapporti con le regioni e la coesione territoriale 12 novembre 2011, n. 226, relativi alla mancata pubblicazione del bando di gara di cui all'allegato 1 annesso allo stesso regolamento, sono prorogati rispettivamente di dodici mesi per gli ambiti del primo raggruppamento, di quattordici mesi per gli ambiti del secondo raggruppamento, di tredici mesi per gli ambiti del terzo, quarto e quinto raggruppamento, di nove mesi per gli ambiti del sesto e settimo raggruppamento e di cinque mesi per gli ambiti dell'ottavo raggruppamento, in aggiunta alle proroghe vigenti alla data di entrata in vigore della legge di conversione del presente decreto".
+Il [D.L. 30 dicembre 2015, n. 210](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2015G00225.md) convertito con modificazioni dalla [L. 25 febbraio 2016, n. 21](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202015%20n.%20210%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2016G00029.md) ha disposto (con l'art. 3, comma 2-bis) che "I termini di cui all'articolo 3, comma 1, del regolamento di cui al decreto del Ministro dello sviluppo economico e del Ministro per i rapporti con le regioni e la coesione territoriale 12 novembre 2011, n. 226, relativi alla mancata pubblicazione del bando di gara di cui all'allegato 1 annesso allo stesso regolamento, sono prorogati rispettivamente di dodici mesi per gli ambiti del primo raggruppamento, di quattordici mesi per gli ambiti del secondo raggruppamento, di tredici mesi per gli ambiti del terzo, quarto e quinto raggruppamento, di nove mesi per gli ambiti del sesto e settimo raggruppamento e di cinque mesi per gli ambiti dell'ottavo raggruppamento, in aggiunta alle proroghe vigenti alla data di entrata in vigore della legge di conversione del presente decreto".
 
 -------------
 
 AGGIORNAMENTO (7)
 
-Il [D.L. 30 dicembre 2016, n. 244](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016-12-30;244), convertito con modificazioni dalla [L. 27 febbraio 2017, n. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-02-27;19), ha disposto (con l'art. 6, comma 5) che "I termini di cui all'articolo 3, comma 1, del regolamento di cui al decreto del Ministro dello sviluppo economico e del Ministro per i rapporti con le regioni e la coesione territoriale 12 novembre 2011, n. 226, relativi alla mancata pubblicazione del bando di gara di cui all'allegato 1 annesso allo stesso regolamento, come prorogati dall'[articolo 3, comma 2-bis, del decreto-legge 30 dicembre 2015, n. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2015-12-30;210~art3-com2bis), convertito, con modificazioni, dalla [legge 25 febbraio 2016, n. 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-02-25;21), sono ulteriormente prorogati di ventiquattro mesi per gli ambiti nei quali sono presenti i comuni di cui all'[articolo 1 del decreto-legge 17 ottobre 2016, n. 189](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016-10-17;189~art1), convertito, con modificazioni, dalla [legge 15 dicembre 2016, n. 229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-15;229), per consentire alle stazioni appaltanti di determinare i piani di ricostruzione delle reti di distribuzione da includere nel bando di gara".
+Il [D.L. 30 dicembre 2016, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016-12-30;244), convertito con modificazioni dalla [L. 27 febbraio 2017, n. 19](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202016%20n.%20244%20recante%20proroga%20e%20definizione%20di%20termini.%20Proroga%20del%20termine%20per%20lesercizio%20di%20deleghe%20legislative.%2017G00033.md), ha disposto (con l'art. 6, comma 5) che "I termini di cui all'articolo 3, comma 1, del regolamento di cui al decreto del Ministro dello sviluppo economico e del Ministro per i rapporti con le regioni e la coesione territoriale 12 novembre 2011, n. 226, relativi alla mancata pubblicazione del bando di gara di cui all'allegato 1 annesso allo stesso regolamento, come prorogati dall'[articolo 3, comma 2-bis, del decreto-legge 30 dicembre 2015, n. 210](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2015G00225.md), convertito, con modificazioni, dalla [legge 25 febbraio 2016, n. 21](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202015%20n.%20210%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2016G00029.md), sono ulteriormente prorogati di ventiquattro mesi per gli ambiti nei quali sono presenti i comuni di cui all'[articolo 1 del decreto-legge 17 ottobre 2016, n. 189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016-10-17;189#art_1), convertito, con modificazioni, dalla [legge 15 dicembre 2016, n. 229](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20ottobre%202016%20n.%20189%20recante%20interventi%20urgenti%20in%20favore%20delle%20popolazioni%20colpite%20dal%20sisma%20del%2024%20agosto%202016.%2016G00243.md), per consentire alle stazioni appaltanti di determinare i piani di ricostruzione delle reti di distribuzione da includere nel bando di gara".
 
-Art. 4
-------
+## Art. 4. — Obblighi informativi dei gestori
 
-Obblighi informativi dei gestori
+1.
 
-1. I gestori hanno l'obbligo di fornire all'Ente locale concedente:   
-a. lo stato di consistenza dell'impianto di distribuzione del gas naturale con indicazione dei tratti di condotte in acciaio non protetti catodicamente e della proprieta' dei singoli tratti di rete, ivi compresi i componenti situati nel territorio comunale in esame che hanno impatto su impianti di distribuzione appartenenti a diversi Comuni;   
-b. il protocollo di comunicazione delle apparecchiature installate per lo svolgimento dell'attivita' di misura;   
-c. le informazioni sulle obbligazioni finanziarie in essere relative agli investimenti realizzati nel precedente periodo di affidamento e sui contratti pubblici e privati relativi allo svolgimento del servizio di distribuzione e connessi alla proprieta' degli impianti, quali servitu' e concessioni di attraversamento;   
-d. la relazione sullo stato dell'impianto di distribuzione, con indicazione delle zone con maggiore carenza strutturale e dei dati di ricerca fughe degli ultimi tre anni, evidenziati per tipologia di impianto e per modalita' di individuazione della fuga;   
-e. il numero di punti di riconsegna e i volumi distribuiti riferiti ai tre anni precedenti, oltre che alle caratteristiche medie degli allacciamenti;   
-f. il costo riconosciuto di localita' e la tariffa di riferimento definiti dall'Autorita', mettendo a disposizione su formato elettronico i dati delle schede contenenti tutti i dati rilevanti per il calcolo delle tariffe (schede localita'), in particolare i dati dei costi di capitale e ammortamenti segmentati per tipologia di cespite e localita' e ripartiti per soggetto proprietario e con indicazione se i dati sono approvati dall'Autorita' o meno, e i contributi pubblici in conto capitale e i contributi privati relativi ai cespiti di localita';   
-g. le informazioni sul personale addetto alla gestione locale dell'impianto, in forma anonima, con riferimento, in particolare, all'anzianita' di servizio, al livello di inquadramento, alla qualifica, allo retribuzione annua lorda, all'eventuale TFR maturato, oltre alla data in cui l'addetto e' stato assegnato alla gestione locale dell'impianto di distribuzione; analoghe informazioni sulla quota parte del personale che svolge funzioni centrali con obbligo di assunzione da parte del gestore subentrante, sono fornite alla stazione appaltante, specificando anche la sede di lavoro, il numero dei punti di riconsegna gestiti dall'impresa nell'ambito oggetto di gara, il numero totale di punti di riconsegna gestiti dalla medesima impresa a livello nazionale e il numero totale di propri dipendenti che svolgono funzioni centrali.
+I gestori hanno l'obbligo di fornire all'Ente locale concedente: 
+ a. lo stato di consistenza dell'impianto di distribuzione del gas naturale con indicazione dei tratti di condotte in acciaio non protetti catodicamente e della proprieta' dei singoli tratti di rete, ivi compresi i componenti situati nel territorio comunale in esame che hanno impatto su impianti di distribuzione appartenenti a diversi Comuni; 
+ b. il protocollo di comunicazione delle apparecchiature installate per lo svolgimento dell'attivita' di misura; 
+ c. le informazioni sulle obbligazioni finanziarie in essere relative agli investimenti realizzati nel precedente periodo di affidamento e sui contratti pubblici e privati relativi allo svolgimento del servizio di distribuzione e connessi alla proprieta' degli impianti, quali servitu' e concessioni di attraversamento; 
+ d. la relazione sullo stato dell'impianto di distribuzione, con indicazione delle zone con maggiore carenza strutturale e dei dati di ricerca fughe degli ultimi tre anni, evidenziati per tipologia di impianto e per modalita' di individuazione della fuga; 
+ e. il numero di punti di riconsegna e i volumi distribuiti riferiti ai tre anni precedenti, oltre che alle caratteristiche medie degli allacciamenti; 
+ f. il costo riconosciuto di localita' e la tariffa di riferimento definiti dall'Autorita', mettendo a disposizione su formato elettronico i dati delle schede contenenti tutti i dati rilevanti per il calcolo delle tariffe (schede localita'), in particolare i dati dei costi di capitale e ammortamenti segmentati per tipologia di cespite e localita' e ripartiti per soggetto proprietario e con indicazione se i dati sono approvati dall'Autorita' o meno, e i contributi pubblici in conto capitale e i contributi privati relativi ai cespiti di localita'; 
+ g. le informazioni sul personale addetto alla gestione locale dell'impianto, in forma anonima, con riferimento, in particolare, all'anzianita' di servizio, al livello di inquadramento, alla qualifica, allo retribuzione annua lorda, all'eventuale TFR maturato, oltre alla data in cui l'addetto e' stato assegnato alla gestione locale dell'impianto di distribuzione; analoghe informazioni sulla quota parte del personale che svolge funzioni centrali con obbligo di assunzione da parte del gestore subentrante, sono fornite alla stazione appaltante, specificando anche la sede di lavoro, il numero dei punti di riconsegna gestiti dall'impresa nell'ambito oggetto di gara, il numero totale di punti di riconsegna gestiti dalla medesima impresa a livello nazionale e il numero totale di propri dipendenti che svolgono funzioni centrali.
 
-2. I gestori degli impianti con scadenza ope legis della concessione successiva alla gara, oltre alle informazioni di cui al comma 1, sono tenuti a presentare il piano di sviluppo degli impianti gestiti, relativamente all'attuazione degli obblighi previsti in concessione, per l'intero periodo residuo di concessione. Per i medesimi impianti, il gestore e' tenuto a fornire annualmente all'Ente locale concedente lo stato di attuazione del piano di sviluppo degli impianti con giustificazione degli scostamenti e con l'aggiornamento del medesimo piano per il periodo residuo di concessione.
+2.
 
-3. I dati di cui al comma 1 sono forniti entro un termine di 60 giorni dalla richiesta dell'Ente locale concedente, termine prorogabile di altri 30 giorni dall'Ente locale medesimo in casi di particolare complessita'.
+I gestori degli impianti con scadenza ope legis della concessione successiva alla gara, oltre alle informazioni di cui al comma 1, sono tenuti a presentare il piano di sviluppo degli impianti gestiti, relativamente all'attuazione degli obblighi previsti in concessione, per l'intero periodo residuo di concessione. Per i medesimi impianti, il gestore e' tenuto a fornire annualmente all'Ente locale concedente lo stato di attuazione del piano di sviluppo degli impianti con giustificazione degli scostamenti e con l'aggiornamento del medesimo piano per il periodo residuo di concessione.
 
-4. L'Ente locale concedente, entro 60 giorni dal ricevimento dello stato di consistenza, anche previo accesso all'impianto, o dal ricevimento di altre informazioni di cui ai commi 1 e 2 puo' comunicare al concessionario le eventuali osservazioni e proposte di rettifica a cui il gestore e' tenuto a rispondere entro 30 giorni.
+3.
 
-5. In caso di mancata fornitura dello stato di consistenza entro i termini di cui al comma 3 si applica l'[art.10 del DPR 4 ottobre 1986, n. 902](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-10-04;902~art10).
+I dati di cui al comma 1 sono forniti entro un termine di 60 giorni dalla richiesta dell'Ente locale concedente, termine prorogabile di altri 30 giorni dall'Ente locale medesimo in casi di particolare complessita'.
 
-6. Ferma restando la disciplina in tema di risarcimento del danno ingiusto, il rifiuto del gestore uscente a fornire i dati necessari per l'effettuazione della gara, di cui al comma 1, o il loro ritardo nel fornirli, trascorso il termine perentorio indicato tramite una procedura di messa in mora, puo' costituire motivo per la richiesta di risarcimento danni conseguenti al ritardo nella effettuazione della gara d'ambito.
+4.
 
-7. I dati sullo stato di consistenza sono forniti in supporto informatico secondo un formato stabilito dall'Autorita' entro 180 giorni dall'entrata in vigore del presente regolamento. L'Autorita' nel proprio provvedimento stabilisce la data entro cui entra in vigore l'obbligo di utilizzare il formato individuato. Fino alla data di utilizzo obbligatorio del formato unico il gestore uscente fornisce lo stato di consistenza in formato cartaceo, unitamente ad un foglio elettronico contenente i dati piu' significativi della rete e degli impianti necessari alla determinazione del valore di rimborso e alla compilazione delle informazioni dell'Allegato B al bando di gara tipo di cui all'Allegato 2 del presente decreto, secondo schede tecniche redatte dall'Autorita', entro 90 giorni dall'entrata in vigore del presente decreto.
+L'Ente locale concedente, entro 60 giorni dal ricevimento dello stato di consistenza, anche previo accesso all'impianto, o dal ricevimento di altre informazioni di cui ai commi 1 e 2 puo' comunicare al concessionario le eventuali osservazioni e proposte di rettifica a cui il gestore e' tenuto a rispondere entro 30 giorni.
 
-8. Il gestore uscente ha l'obbligo di permettere l'accesso al proprio impianto ai rappresentanti dell'Ente locale concedente, o di un suo delegato, e ai concorrenti partecipanti alla gara di ambito per la verifica dello stato di conservazione dell'impianto medesimo.
+5.
 
-9. Il gestore uscente ha l'obbligo di rendere disponibile al gestore subentrante la banca dati dei punti di riconsegna, le fonti contabili obbligatorie e i dati relativi alla gestione in corso d'anno necessari per gli adempimenti previsti dalla regolazione a carico del gestore subentrante, quali la rendicontazione annuale dei dati delle qualita' e della sicurezza.
+In caso di mancata fornitura dello stato di consistenza entro i termini di cui al comma 3 si applica l'[art.10 del DPR 4 ottobre 1986, n. 902](../Regolamenti%20governativi/Approvazione%20del%20nuovo%20regolamento%20delle%20aziende%20di%20servizi%20dipendenti%20dagli%20enti%20locali.md).
 
-Note all'art. 4:   
-Si riporta il testo dell'[articolo 10 del decreto del Presidente della Repubblica 4 ottobre 1986, n. 902](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-10-04;902~art10) (Approvazione del nuovo regolamento delle aziende di servizi dipendenti dagli enti locali):   
-"Art. 10. Entro trenta giorni dall'avvenuta notifica del preavviso, il concessionario deve redigere lo stato di consistenza dell'impianto o dell'esercizio riferito alla data in cui il preavviso e' notificato.   
-Detto stato di consistenza dovra' essere immediatamente comunicato all'ente concedente che, previo accesso all'impianto od esercizio, dovra', entro trenta giorni successivi al ricevimento, comunicare al concessionario il proprio accordo o le eventuali osservazioni e proposte di rettifica.   
-Le comunicazioni di cui al precedente comma sono fatte a mezzo lettera raccomandata con avviso di ricevimento.   
-Nel caso di rifiuto o di mancato rispetto del termine perentorio di cui al primo comma da parte del concessionario, lo stato di consistenza e' formato, nel termine dei successivi centoventi giorni, dall'ente concedente, i cui incaricati, in base ad un decreto del prefetto, potranno accedere anche coattivamente nelle officine o negli altri locali dell'impianto o dell'esercizio.   
-Lo stato di consistenza e' immediatamente comunicato dal comune al concessionario che, nel termine perentorio dei quindici giorni successivi al ricevimento della comunicazione, potra' far pervenire le sue controdeduzioni, in mancanza delle quali lo stato di consistenza s'intende accettato. Nel caso di disaccordo fra le parti decide, limitatamente all'oggetto della controversia, un collegio di tre periti, nominati uno per parte dall'ente concedente e dal concessionario, ed un terzo, con funzioni di presidente, dal presidente del tribunale nella cui giurisdizione ha sede l'ente riscattante.".
+6.
 
-Art. 5
-------
+Ferma restando la disciplina in tema di risarcimento del danno ingiusto, il rifiuto del gestore uscente a fornire i dati necessari per l'effettuazione della gara, di cui al comma 1, o il loro ritardo nel fornirli, trascorso il termine perentorio indicato tramite una procedura di messa in mora, puo' costituire motivo per la richiesta di risarcimento danni conseguenti al ritardo nella effettuazione della gara d'ambito.
 
-Rimborso al gestore uscente nel primo periodo
+7.
 
-1. Il valore di rimborso ai titolari degli affidamenti e concessioni cessanti, per i quali e' previsto un termine di scadenza naturale non posteriore alla data di cessazione del servizio prevista nel bando di gara del nuovo affidamento, viene calcolato in base a quanto stabilito dalle convenzioni o dai contratti alla scadenza naturale dell'affidamento.
+I dati sullo stato di consistenza sono forniti in supporto informatico secondo un formato stabilito dall'Autorita' entro 180 giorni dall'entrata in vigore del presente regolamento. L'Autorita' nel proprio provvedimento stabilisce la data entro cui entra in vigore l'obbligo di utilizzare il formato individuato. Fino alla data di utilizzo obbligatorio del formato unico il gestore uscente fornisce lo stato di consistenza in formato cartaceo, unitamente ad un foglio elettronico contenente i dati piu' significativi della rete e degli impianti necessari alla determinazione del valore di rimborso e alla compilazione delle informazioni dell'Allegato B al bando di gara tipo di cui all'Allegato 2 del presente decreto, secondo schede tecniche redatte dall'Autorita', entro 90 giorni dall'entrata in vigore del presente decreto.
 
-2. Il valore di rimborso ai titolari degli affidamenti e concessioni cessanti, per i quali non e' previsto un termine di scadenza o e' previsto un termine di scadenza naturale che supera la data di cessazione del servizio prevista nel bando di gara del nuovo affidamento, viene calcolato in base a quanto stabilito nelle convenzioni o nei contratti, conformemente a quanto previsto nell'[articolo 15, comma 5, del decreto legislativo 23 maggio 2000, n.164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164~art15-com5) e sue modificazioni, in particolare per i casi di cessazione anticipata del contratto rispetto alla scadenza naturale
+8.
 
-((, purche' i documenti contrattuali siano stati stipulati prima dell'11 febbraio 2012 e contengano tutti gli elementi metodologici, quali le voci di prezzario applicabili alle diverse tipologie di cespiti da applicare allo stato di consistenza aggiornato e il trattamento del degrado fisico, incluse le durate utili per le diverse tipologie di cespiti, per il calcolo e per la verifica del valore di rimborso anche da parte dell'Autorita'.))
+Il gestore uscente ha l'obbligo di permettere l'accesso al proprio impianto ai rappresentanti dell'Ente locale concedente, o di un suo delegato, e ai concorrenti partecipanti alla gara di ambito per la verifica dello stato di conservazione dell'impianto medesimo.
+
+9.
+
+Il gestore uscente ha l'obbligo di rendere disponibile al gestore subentrante la banca dati dei punti di riconsegna, le fonti contabili obbligatorie e i dati relativi alla gestione in corso d'anno necessari per gli adempimenti previsti dalla regolazione a carico del gestore subentrante, quali la rendicontazione annuale dei dati delle qualita' e della sicurezza.
+
+Note all'art. 4: 
+ Si riporta il testo dell'[articolo 10 del decreto del Presidente della Repubblica 4 ottobre 1986, n. 902](../Regolamenti%20governativi/Approvazione%20del%20nuovo%20regolamento%20delle%20aziende%20di%20servizi%20dipendenti%20dagli%20enti%20locali.md) (Approvazione del nuovo regolamento delle aziende di servizi dipendenti dagli enti locali): 
+ "Art. 10. Entro trenta giorni dall'avvenuta notifica del preavviso, il concessionario deve redigere lo stato di consistenza dell'impianto o dell'esercizio riferito alla data in cui il preavviso e' notificato. 
+ Detto stato di consistenza dovra' essere immediatamente comunicato all'ente concedente che, previo accesso all'impianto od esercizio, dovra', entro trenta giorni successivi al ricevimento, comunicare al concessionario il proprio accordo o le eventuali osservazioni e proposte di rettifica. 
+ Le comunicazioni di cui al precedente comma sono fatte a mezzo lettera raccomandata con avviso di ricevimento. 
+ Nel caso di rifiuto o di mancato rispetto del termine perentorio di cui al primo comma da parte del concessionario, lo stato di consistenza e' formato, nel termine dei successivi centoventi giorni, dall'ente concedente, i cui incaricati, in base ad un decreto del prefetto, potranno accedere anche coattivamente nelle officine o negli altri locali dell'impianto o dell'esercizio. 
+ Lo stato di consistenza e' immediatamente comunicato dal comune al concessionario che, nel termine perentorio dei quindici giorni successivi al ricevimento della comunicazione, potra' far pervenire le sue controdeduzioni, in mancanza delle quali lo stato di consistenza s'intende accettato. Nel caso di disaccordo fra le parti decide, limitatamente all'oggetto della controversia, un collegio di tre periti, nominati uno per parte dall'ente concedente e dal concessionario, ed un terzo, con funzioni di presidente, dal presidente del tribunale nella cui giurisdizione ha sede l'ente riscattante.".
+
+## Art. 5. — Rimborso al gestore uscente nel primo periodo
+
+1.
+
+Il valore di rimborso ai titolari degli affidamenti e concessioni cessanti, per i quali e' previsto un termine di scadenza naturale non posteriore alla data di cessazione del servizio prevista nel bando di gara del nuovo affidamento, viene calcolato in base a quanto stabilito dalle convenzioni o dai contratti alla scadenza naturale dell'affidamento.
+
+2.
+
+Il valore di rimborso ai titolari degli affidamenti e concessioni cessanti, per i quali non e' previsto un termine di scadenza o e' previsto un termine di scadenza naturale che supera la data di cessazione del servizio prevista nel bando di gara del nuovo affidamento, viene calcolato in base a quanto stabilito nelle convenzioni o nei contratti, conformemente a quanto previsto nell'[articolo 15, comma 5, del decreto legislativo 23 maggio 2000, n.164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md) e sue modificazioni, in particolare per i casi di cessazione anticipata del contratto rispetto alla scadenza naturale ((, purche' i documenti contrattuali siano stati stipulati prima dell'11 febbraio 2012 e contengano tutti gli elementi metodologici, quali le voci di prezzario applicabili alle diverse tipologie di cespiti da applicare allo stato di consistenza aggiornato e il trattamento del degrado fisico, incluse le durate utili per le diverse tipologie di cespiti, per il calcolo e per la verifica del valore di rimborso anche da parte dell'Autorita'.))
 
 ((
 
-2-bis. Nei casi di cui ai commi 1 e 2, indipendentemente da quanto contenuto nei documenti contrattuali, vengono detratti i contributi privati relativi ai cespiti di localita', relativi alla porzione di impianto di proprieta' del gestore uscente che non sia ceduta all'ente locale concedente a devoluzione gratuita, valutati in base alla metodologia della regolazione tariffaria vigente, ed assumendo le vite utili dei cespiti a cui si riferiscono, di cui al comma 10.
+2-bis.
+
+Nei casi di cui ai commi 1 e 2, indipendentemente da quanto contenuto nei documenti contrattuali, vengono detratti i contributi privati relativi ai cespiti di localita', relativi alla porzione di impianto di proprieta' del gestore uscente che non sia ceduta all'ente locale concedente a devoluzione gratuita, valutati in base alla metodologia della regolazione tariffaria vigente, ed assumendo le vite utili dei cespiti a cui si riferiscono, di cui al comma 10.
 
 ))
 
 ((
 
-3. Nel caso in cui la metodologia di calcolo del valore di rimborso ai titolari di cui al comma 2 non sia desumibile da documenti contrattuali stipulati prima dell'11 febbraio 2012, inclusi i casi in cui sia genericamente indicato che il valore di rimborso debba essere calcolato in base al [regio decreto 15 ottobre 1925 n. 2578](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;2578), senza precisare la metodologia, o debba essere valutato a prezzi di mercato, si applicano le modalita' specificate nei commi da 5 a 13, limitatamente alla porzione di impianto di proprieta' del gestore che, alla scadenza naturale dell'affidamento, non sia prevista essere trasferita in devoluzione gratuita all'Ente locale concedente, con le modalita' operative specificate nelle linee guida su criteri e modalita' operative per la valutazione del valore di rimborso, di cui all'[articolo 4, comma 6 del decreto-legge 21 giugno 2013, n. 69](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69~art4-com6) convertito con modificazioni dalla [legge 9 agosto 2013, n. 98](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-08-09;98). Le modalita' di cui sopra si applicano per la determinazione del valore di rimborso anche nel caso in cui atti aggiuntivi, successivi all'entrata in vigore del [decreto legislativo 23 maggio 2000, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164), definiscano solo un valore economico del valore di rimborso, anche se rivalutabile, senza riportare la metodologia di calcolo.
+3.
+
+Nel caso in cui la metodologia di calcolo del valore di rimborso ai titolari di cui al comma 2 non sia desumibile da documenti contrattuali stipulati prima dell'11 febbraio 2012, inclusi i casi in cui sia genericamente indicato che il valore di rimborso debba essere calcolato in base al [regio decreto 15 ottobre 1925 n. 2578](../Regi%20decreti/Approvazione%20del%20testo%20unico%20della%20legge%20sullassunzione%20diretta%20dei%20pubblici%20servizi%20da%20parte%20dei%20Comuni%20e%20delle%20Provincie.%20025U2578.md), senza precisare la metodologia, o debba essere valutato a prezzi di mercato, si applicano le modalita' specificate nei commi da 5 a 13, limitatamente alla porzione di impianto di proprieta' del gestore che, alla scadenza naturale dell'affidamento, non sia prevista essere trasferita in devoluzione gratuita all'Ente locale concedente, con le modalita' operative specificate nelle linee guida su criteri e modalita' operative per la valutazione del valore di rimborso, di cui all'[articolo 4, comma 6 del decreto-legge 21 giugno 2013, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69#art_4-com6) convertito con modificazioni dalla [legge 9 agosto 2013, n. 98](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20giugno%202013%20n.%2069%20recante%20disposizioni%20urgenti%20per%20il%20rilancio%20delleconomia.%2013G00140.md). Le modalita' di cui sopra si applicano per la determinazione del valore di rimborso anche nel caso in cui atti aggiuntivi, successivi all'entrata in vigore del [decreto legislativo 23 maggio 2000, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md), definiscano solo un valore economico del valore di rimborso, anche se rivalutabile, senza riportare la metodologia di calcolo.
 
 ))
 
-4. Nel caso in cui le convenzioni o i contratti contengano la metodologia generale di calcolo, ma non prevedano uno o piu' dettagli applicativi, si applica il comma o i commi pertinenti tra quelli da 5 a 13 per la determinazione degli elementi applicativi mancanti, mentre per gli altri parametri si considerano i dati e le modalita' desumibili dai documenti contrattuali. Cio' vale anche nel caso di cui al comma 1, qualora la modalita' di rimborso alla scadenza naturale dell'affidamento prevista nella convenzione o nel contratto faccia riferimento all'[articolo 24, comma 4 del regio decreto 15 ottobre 1925 n. 2578](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;2578~art24-com4).
+4.
 
-((5))
+Nel caso in cui le convenzioni o i contratti contengano la metodologia generale di calcolo, ma non prevedano uno o piu' dettagli applicativi, si applica il comma o i commi pertinenti tra quelli da 5 a 13 per la determinazione degli elementi applicativi mancanti, mentre per gli altri parametri si considerano i dati e le modalita' desumibili dai documenti contrattuali. Cio' vale anche nel caso di cui al comma 1, qualora la modalita' di rimborso alla scadenza naturale dell'affidamento prevista nella convenzione o nel contratto faccia riferimento all'[articolo 24, comma 4 del regio decreto 15 ottobre 1925 n. 2578](../Regi%20decreti/Approvazione%20del%20testo%20unico%20della%20legge%20sullassunzione%20diretta%20dei%20pubblici%20servizi%20da%20parte%20dei%20Comuni%20e%20delle%20Provincie.%20025U2578.md). ((5))
 
-5. Il valore industriale della parte di impianto di proprieta' del gestore uscente di cui alla [lettera a) dell'articolo 24, comma 4, del regio decreto 15 ottobre 1925, n. 2578](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;2578~art24-com4-leta) e' pari al costo che dovrebbe essere sostenuto per la sua ricostruzione a nuovo, decurtato del valore del degrado fisico di cui al comma 10, includendo anche le immobilizzazioni in corso come risultano dai libri contabili.
+5.
 
-6. Il costo per la ricostruzione a nuovo di cui al comma 5 e' calcolato partendo dallo stato di consistenza dell'impianto, applicando il prezzario contenuto nei documenti contrattuali, qualora esplicitamente previsto, unitamente ad un meccanismo di indicizzazione, per la valorizzazione dell'impianto in caso di cessazione anticipata del contratto, ed aggiungendo gli oneri generali di cui al comma 9, qualora non siano gia' contenuti nel prezzario utilizzato. Per gli impianti oggetto di finanziamenti pubblici
+Il valore industriale della parte di impianto di proprieta' del gestore uscente di cui alla [lettera a) dell'articolo 24, comma 4, del regio decreto 15 ottobre 1925, n. 2578](../Regi%20decreti/Approvazione%20del%20testo%20unico%20della%20legge%20sullassunzione%20diretta%20dei%20pubblici%20servizi%20da%20parte%20dei%20Comuni%20e%20delle%20Provincie.%20025U2578.md) e' pari al costo che dovrebbe essere sostenuto per la sua ricostruzione a nuovo, decurtato del valore del degrado fisico di cui al comma 10, includendo anche le immobilizzazioni in corso come risultano dai libri contabili.
 
-((con prima metanizzazione))
+6.
 
-dopo l'anno 2000, il costo per la ricostruzione a nuovo e' calcolato sulla base dei costi effettivamente sostenuti, aggiornati con il deflatore degli investimenti fissi lordi, se le condizioni di posa e di accessibilita' non si sono modificate.
+Il costo per la ricostruzione a nuovo di cui al comma 5 e' calcolato partendo dallo stato di consistenza dell'impianto, applicando il prezzario contenuto nei documenti contrattuali, qualora esplicitamente previsto, unitamente ad un meccanismo di indicizzazione, per la valorizzazione dell'impianto in caso di cessazione anticipata del contratto, ed aggiungendo gli oneri generali di cui al comma 9, qualora non siano gia' contenuti nel prezzario utilizzato. Per gli impianti oggetto di finanziamenti pubblici ((con prima metanizzazione)) dopo l'anno 2000, il costo per la ricostruzione a nuovo e' calcolato sulla base dei costi effettivamente sostenuti, aggiornati con il deflatore degli investimenti fissi lordi, se le condizioni di posa e di accessibilita' non si sono modificate.
 
 ((
 
-7. Qualora i documenti contrattuali non contengano il prezzario di cui al comma 6, si utilizzano i prezzari per lavori edili e per installazione di impianti tecnologici della Camera di commercio, industria, artigianato e agricoltura della provincia dell'ambito, o, in assenza di questi, gli analoghi prezzari regionali, purche' i valori non siano considerati inidonei per la specifica applicazione.  
-Le voci contenute in prezziari vigenti il cui prezzo e' ritenuto inidoneo per la costruzione di impianti di distribuzione del gas naturale sono evidenziate nelle linee guida su criteri e modalita' operative per la valutazione del valore di rimborso degli impianti di distribuzione del gas naturale del Ministero dello sviluppo economico, di cui all'[articolo 4, comma 6 del decreto-legge 21 giugno 2013, n. 69](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69~art4-com6), convertito con modificazioni in [legge 9 agosto 2013, n. 98](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-08-09;98), unitamente a suggerimenti sui prezzi alternativi da utilizzare. I prezzi da derivare dai prezzari devono essere la valorizzazione delle effettive prestazioni di manodopera, materiali e noli per le lavorazioni previste, al netto dell'eventuale utile di impresa. Per il valore di acquisto e installazione dei componenti specifici della distribuzione gas, come impianti principali e secondari di regolazione e misura, gruppi di misura gas, impianti di protezione catodica, tubazioni per reti di distribuzione di gas di notevole estensione, si utilizza il prezzario emanato dall'Autorita' per la valutazione degli investimenti e, in sua mancanza, i valori di mercato come risultano dai contratti piu' recenti. I valori di mercato per le tipologie di componenti piu' diffuse e per le installazioni piu' comuni sono riportati nelle linee guida su criteri e modalita' operative per la valutazione del valore di rimborso, di cui all'[articolo 4, del decreto-legge 21 giugno 2013, n. 69](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69~art4), convertito con modificazioni in [legge 9 agosto 2013, n. 98](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-08-09;98). Le previsioni contenute nel presente comma si applicano anche all'eventuale prezzario previsto nei documenti contrattuali, di cui al comma 6, qualora sia un prezzario regionale o provinciale.
+7.
+
+Qualora i documenti contrattuali non contengano il prezzario di cui al comma 6, si utilizzano i prezzari per lavori edili e per installazione di impianti tecnologici della Camera di commercio, industria, artigianato e agricoltura della provincia dell'ambito, o, in assenza di questi, gli analoghi prezzari regionali, purche' i valori non siano considerati inidonei per la specifica applicazione.
+Le voci contenute in prezziari vigenti il cui prezzo e' ritenuto inidoneo per la costruzione di impianti di distribuzione del gas naturale sono evidenziate nelle linee guida su criteri e modalita' operative per la valutazione del valore di rimborso degli impianti di distribuzione del gas naturale del Ministero dello sviluppo economico, di cui all'[articolo 4, comma 6 del decreto-legge 21 giugno 2013, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69#art_4-com6), convertito con modificazioni in [legge 9 agosto 2013, n. 98](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20giugno%202013%20n.%2069%20recante%20disposizioni%20urgenti%20per%20il%20rilancio%20delleconomia.%2013G00140.md), unitamente a suggerimenti sui prezzi alternativi da utilizzare. I prezzi da derivare dai prezzari devono essere la valorizzazione delle effettive prestazioni di manodopera, materiali e noli per le lavorazioni previste, al netto dell'eventuale utile di impresa. Per il valore di acquisto e installazione dei componenti specifici della distribuzione gas, come impianti principali e secondari di regolazione e misura, gruppi di misura gas, impianti di protezione catodica, tubazioni per reti di distribuzione di gas di notevole estensione, si utilizza il prezzario emanato dall'Autorita' per la valutazione degli investimenti e, in sua mancanza, i valori di mercato come risultano dai contratti piu' recenti. I valori di mercato per le tipologie di componenti piu' diffuse e per le installazioni piu' comuni sono riportati nelle linee guida su criteri e modalita' operative per la valutazione del valore di rimborso, di cui all'[articolo 4, del decreto-legge 21 giugno 2013, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69#art_4), convertito con modificazioni in [legge 9 agosto 2013, n. 98](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20giugno%202013%20n.%2069%20recante%20disposizioni%20urgenti%20per%20il%20rilancio%20delleconomia.%2013G00140.md). Le previsioni contenute nel presente comma si applicano anche all'eventuale prezzario previsto nei documenti contrattuali, di cui al comma 6, qualora sia un prezzario regionale o provinciale.
 
 ))
 
-8. Nell'applicazione del prezzario di cui ai commi 6 e 7, in particolare per la rete, si considerano:   
-a. eventuali pezzi speciali o opere particolari, quali sovra e sottopassi in corrispondenza delle interferenze con altri sottoservizi;   
-b. le modalita' di posa che tengano conto della tipologia delle condizioni morfologiche del suolo e sottosuolo, della loro accessibilita' e di eventuali particolari prescrizioni realizzative;   
-c. la tipologia dei ripristini delle superfici interessate dalla posa, sempre considerando l'accessibilita' dei luoghi di posa.
+8.
+
+Nell'applicazione del prezzario di cui ai commi 6 e 7, in particolare per la rete, si considerano: 
+ a. eventuali pezzi speciali o opere particolari, quali sovra e sottopassi in corrispondenza delle interferenze con altri sottoservizi; 
+ b. le modalita' di posa che tengano conto della tipologia delle condizioni morfologiche del suolo e sottosuolo, della loro accessibilita' e di eventuali particolari prescrizioni realizzative; 
+ c. la tipologia dei ripristini delle superfici interessate dalla posa, sempre considerando l'accessibilita' dei luoghi di posa.
 
 ((
 
-9. Nel caso in cui i costi effettivamente sostenuti o la voce del prezzario di cui ai commi 6 e 7 non contengano le spese generali, si incrementa il valore ottenuto, come previsto nei commi 6 e 7, della percentuale minima di cui all'[articolo 32, comma 2 lettera b, del D.P.R. 5 ottobre 2010, n. 207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-10-05;207~art32-com2-letb), pari al 13%, per tener conto sia degli oneri amministrativi relativi alle autorizzazioni, alla progettazione, alla direzione lavori, alla redazione del piano di sicurezza e controllo in fase di progettazione e di coordinamento esecuzione lavori e ai collaudi, sia delle spese generali. Nel caso in cui la voce del prezzario contenga gia' una percentuale di spese generali uguale o maggiore del 13% si mantiene unicamente la percentuale del prezzario, senza ulteriore incremento, anche nel caso in cui la descrizione, riportata nel prezzario, del contenuto delle spese generali non dovesse esplicitare tutti gli oneri di cui sopra.
+9.
+
+Nel caso in cui i costi effettivamente sostenuti o la voce del prezzario di cui ai commi 6 e 7 non contengano le spese generali, si incrementa il valore ottenuto, come previsto nei commi 6 e 7, della percentuale minima di cui all'[articolo 32, comma 2 lettera b, del D.P.R. 5 ottobre 2010, n. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), pari al 13%, per tener conto sia degli oneri amministrativi relativi alle autorizzazioni, alla progettazione, alla direzione lavori, alla redazione del piano di sicurezza e controllo in fase di progettazione e di coordinamento esecuzione lavori e ai collaudi, sia delle spese generali. Nel caso in cui la voce del prezzario contenga gia' una percentuale di spese generali uguale o maggiore del 13% si mantiene unicamente la percentuale del prezzario, senza ulteriore incremento, anche nel caso in cui la descrizione, riportata nel prezzario, del contenuto delle spese generali non dovesse esplicitare tutti gli oneri di cui sopra.
 
 ))
 
-10. Il valore del degrado fisico e' determinato considerando durate utili degli impianti come specificate nei documenti contrattuali o, in assenza di indicazioni, considerando fino al 30 settembre 2004 durate utili come riportate nella tabella 1 di cui all'allegato A, facente parte integrante del presente regolamento, e dal 1° ottobre 2004 le vite utili ai fini regolatori contenute nel Testo Unico della regolazione tariffaria allegato alla deliberazione ARG/Gas 159/08 dell'Autorita',
+10.
 
-((con la modifica della vita utile dei cespiti relativi a gruppi di misura tradizionali di classe fino a G6, in coerenza con le disposizioni di cui all'[articolo 30, comma 21, della legge 23 luglio 2009, n. 99](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99~art30-com21),))
+Il valore del degrado fisico e' determinato considerando durate utili degli impianti come specificate nei documenti contrattuali o, in assenza di indicazioni, considerando fino al 30 settembre 2004 durate utili come riportate nella tabella 1 di cui all'allegato A, facente parte integrante del presente regolamento, e dal 1° ottobre 2004 le vite utili ai fini regolatori contenute nel Testo Unico della regolazione tariffaria allegato alla deliberazione ARG/Gas 159/08 dell'Autorita', ((con la modifica della vita utile dei cespiti relativi a gruppi di misura tradizionali di classe fino a G6, in coerenza con le disposizioni di cui all'articolo 30, comma 21, della legge 23 luglio 2009, n. 99,)) e tenendo conto dell'anno di installazione dei componenti e di realizzazione dei singoli tratti di rete come risulta dallo stato di consistenza. Qualora lo stato di consistenza non riporti la data di realizzazione dei componenti o delle condotte e questa non sia desumibile da documenti amministrativi o altri riferimenti, la data da assumere per le valutazioni del valore residuo deve essere coerente con i dati presentati all'Autorita' ai fini della determinazione delle tariffe, o, in loro mancanza, e' calcolata sulla base del rapporto tra fondo di ammortamento e valore del cespite riportato in bilancio, opportunamente rettificato da eventuali operazioni straordinarie, moltiplicato per la durata utile del cespite.
 
-e tenendo conto dell'anno di installazione dei componenti e di realizzazione dei singoli tratti di rete come risulta dallo stato di consistenza. Qualora lo stato di consistenza non riporti la data di realizzazione dei componenti o delle condotte e questa non sia desumibile da documenti amministrativi o altri riferimenti, la data da assumere per le valutazioni del valore residuo deve essere coerente con i dati presentati all'Autorita' ai fini della determinazione delle tariffe, o, in loro mancanza, e' calcolata sulla base del rapporto tra fondo di ammortamento e valore del cespite riportato in bilancio, opportunamente rettificato da eventuali operazioni straordinarie, moltiplicato per la durata utile del cespite.
+11.
 
-11. Il valore di rimborso al gestore uscente e' ottenuto deducendo dal valore industriale di cui al comma 5 le anticipazioni e sussidi concessi dai Comuni e da altri finanziatori pubblici
-
-((e i contributi privati relativi ai cespiti di localita', limitatamente alla porzione di impianto che non sia ceduta all'ente locale concedente a devoluzione gratuita,))
-
-e aggiungendo eventuali premi pagati agli Enti locali concedenti, valutati con le modalita' di cui ai commi 12 e 13.
+Il valore di rimborso al gestore uscente e' ottenuto deducendo dal valore industriale di cui al comma 5 le anticipazioni e sussidi concessi dai Comuni e da altri finanziatori pubblici ((e i contributi privati relativi ai cespiti di localita', limitatamente alla porzione di impianto che non sia ceduta all'ente locale concedente a devoluzione gratuita,)) e aggiungendo eventuali premi pagati agli Enti locali concedenti, valutati con le modalita' di cui ai commi 12 e 13.
 
 ((
 
-12. I valori da detrarre per le anticipazioni e sussidi concessi dai Comuni e da altri finanziatori pubblici e i contributi privati relativi ai cespiti di localita', limitatamente alla porzione di impianto che non sia ceduta all'ente locale concedente a devoluzione gratuita, sono, al netto di eventuali imposte pagate direttamente connesse con tali anticipazioni e sussidi, con esclusione dalla detrazione dell'IRES e delle altre imposte legate al reddito d'impresa, rivalutati applicando il deflatore degli investimenti fissi lordi utilizzato nella regolazione tariffaria. I valori dei contributi pubblici e privati si degradano secondo le regole previste dalle disposizioni dell'Autorita' in materia di tariffe, ma utilizzando le durate utili di cui al comma 10. Pertanto per la determinazione del valore netto residuo al 31 dicembre 2011 dei contributi percepiti fino all'anno 2011 si applicano le formule dell'articolo 16, commi 16.3, 16.4 e 16.5 del Testo Unico della regolazione delle tariffe dei servizi di distribuzione e misura del gas per il periodo di regolazione 2009-2012, emanato con deliberazione ARG/Gas 159/08, assumendo le durate utili dei cespiti a cui si riferiscono, di cui al comma 10. Per i periodi successivi al 31 dicembre 2011 il degrado dello stock di contributi esistente a tale data si calcola in coerenza con l'opzione adottata dalle imprese ai sensi delle disposizioni dell'articolo 2 della deliberazione dell'Autorita' 573/2013/R/gas. In ogni caso ai fini del presente regolamento non si applicano le disposizioni dei commi 13.2 e 13.3 della regolazione delle tariffe dei servizi di distribuzione e misura (RTDG 2014-2019), Allegato A della [deliberazione 573/2013/R/gas](http://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:2013;573).  
+12.
+
+I valori da detrarre per le anticipazioni e sussidi concessi dai Comuni e da altri finanziatori pubblici e i contributi privati relativi ai cespiti di localita', limitatamente alla porzione di impianto che non sia ceduta all'ente locale concedente a devoluzione gratuita, sono, al netto di eventuali imposte pagate direttamente connesse con tali anticipazioni e sussidi, con esclusione dalla detrazione dell'IRES e delle altre imposte legate al reddito d'impresa, rivalutati applicando il deflatore degli investimenti fissi lordi utilizzato nella regolazione tariffaria. I valori dei contributi pubblici e privati si degradano secondo le regole previste dalle disposizioni dell'Autorita' in materia di tariffe, ma utilizzando le durate utili di cui al comma 10. Pertanto per la determinazione del valore netto residuo al 31 dicembre 2011 dei contributi percepiti fino all'anno 2011 si applicano le formule dell'articolo 16, commi 16.3, 16.4 e 16.5 del Testo Unico della regolazione delle tariffe dei servizi di distribuzione e misura del gas per il periodo di regolazione 2009-2012, emanato con deliberazione ARG/Gas 159/08, assumendo le durate utili dei cespiti a cui si riferiscono, di cui al comma 10. Per i periodi successivi al 31 dicembre 2011 il degrado dello stock di contributi esistente a tale data si calcola in coerenza con l'opzione adottata dalle imprese ai sensi delle disposizioni dell'articolo 2 della deliberazione dell'Autorita' 573/2013/R/gas. In ogni caso ai fini del presente regolamento non si applicano le disposizioni dei commi 13.2 e 13.3 della regolazione delle tariffe dei servizi di distribuzione e misura (RTDG 2014-2019), Allegato A della [deliberazione 573/2013/R/gas](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:2013;573).
 Tutti i contributi percepiti successivamente al 31 dicembre 2011 sono soggetti a degrado, secondo quanto disposto dall'articolo 39 della RTDG 2014-2019 di cui sopra.
 
 ))
 
-13. Nel caso in cui il gestore abbia versato, prima dell'entrata in vigore del [decreto legislativo 23 maggio 2000, n.164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164), un premio all'Ente locale concedente per l'affidamento, la prosecuzione o il rinnovo della gestione con una scadenza naturale che supera la data di effettiva cessazione del servizio, il valore di rimborso include anche le quote residue del premio versato, calcolate rivalutando i premi con l'applicazione del deflatore degli investimenti fissi lordi utilizzato nella regolazione tariffaria e degradandoli considerando una durata utile pari alla differenza fra la data di scadenza naturale della concessione e l'anno di versamento del premio.
+13.
 
-14. Qualora la concessione preveda, alla sua scadenza naturale, la devoluzione gratuita all'Ente locale concedente di una porzione di impianto e la data di scadenza naturale superi la data di effettiva cessazione del servizio, il valore di rimborso al gestore uscente di tale porzione di impianto e' valutato:   
-a. secondo quanto desumibile dal contratto o concessione in caso di cessazione anticipata del contratto; in particolare, nel caso di riferimento al [regio decreto 15 ottobre 1925, n. 2578](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;2578), valgono i commi pertinenti tra quelli da 5 a 13, per gli elementi applicativi mancanti; resta sempre esclusa la valutazione del mancato profitto derivante dalla conclusione anticipata del rapporto di gestione;   
-b. nel caso in cui le modalita' per la cessazione anticipata del contratto non siano desumibili nelle convenzioni o nei contratti, valgono i commi da 5 a 9 e da 11 a 13, considerando, per il calcolo del valore del degrado fisico, una durata utile convenzionale pari alla differenza fra la data di scadenza naturale della concessione e la data di realizzazione dell'investimento, qualora tale differenza sia inferiore alla presunta durata utile della tipologia di cespite di cui al comma 10.   
-Il valore di rimborso relativo alla porzione di impianto per cui la concessione non prevede la devoluzione gratuita viene determinato seguendo i commi pertinenti da 1 a 13.
+Nel caso in cui il gestore abbia versato, prima dell'entrata in vigore del [decreto legislativo 23 maggio 2000, n.164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md), un premio all'Ente locale concedente per l'affidamento, la prosecuzione o il rinnovo della gestione con una scadenza naturale che supera la data di effettiva cessazione del servizio, il valore di rimborso include anche le quote residue del premio versato, calcolate rivalutando i premi con l'applicazione del deflatore degli investimenti fissi lordi utilizzato nella regolazione tariffaria e degradandoli considerando una durata utile pari alla differenza fra la data di scadenza naturale della concessione e l'anno di versamento del premio.
 
-((Qualora il valore di rimborso risulti maggiore del 10 per cento del valore delle immobilizzazioni nette di localita', relative alla porzione di impianto che non sia ceduta all'ente locale concedente a devoluzione gratuita, calcolate nella regolazione tariffaria, al netto dei contributi pubblici in conto capitale e dei contributi privati relativi ai cespiti di localita', come calcolati ai fini tariffari ma senza applicazione dei commi 13.2 e 13.3 dell'allegato A della [deliberazione 573/2013/R/gas](http://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:2013;573), l'ente locale concedente trasmette le relative valutazioni di dettaglio del valore di rimborso all'Autorita' per la verifica prima della pubblicazione del bando di gara, motivando l'eventuale mancato utilizzo o eventuali scostamenti dai parametri utilizzati nella metodologia riportata nelle linee guida su criteri e modalita' operative del Ministero dello sviluppo economico ai sensi dell'[articolo 4 del decreto-legge 21 giugno 2013, n. 69](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69~art4), convertito con modificazioni in [legge 9 agosto 2013, n. 98](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-08-09;98).  
-L'Autorita' esegue la verifica secondo modalita' da essa stabilite. I tempi di istruttoria dell'Autorita' oltre i 90 giorni sospendono i termini ai fini del rispetto delle date limite per la pubblicazione del bando di gara previste dall'articolo 3, comma 1 relativamente all'intervento sostitutivo della Regione e all'applicazione della penalizzazione di cui all'[articolo 4, comma 5 del decreto-legge 21 giugno 2013, n. 69](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69~art4-com5), convertito con modificazioni in [legge 9 agosto 2013, n. 98](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-08-09;98). La stazione appaltante deve tenere conto delle eventuali osservazioni dell'Autorita' ai fini della determinazione del valore di rimborso da inserire nel bando di gara.))
+14.
+
+Qualora la concessione preveda, alla sua scadenza naturale, la devoluzione gratuita all'Ente locale concedente di una porzione di impianto e la data di scadenza naturale superi la data di effettiva cessazione del servizio, il valore di rimborso al gestore uscente di tale porzione di impianto e' valutato: 
+ a. secondo quanto desumibile dal contratto o concessione in caso di cessazione anticipata del contratto; in particolare, nel caso di riferimento al [regio decreto 15 ottobre 1925, n. 2578](../Regi%20decreti/Approvazione%20del%20testo%20unico%20della%20legge%20sullassunzione%20diretta%20dei%20pubblici%20servizi%20da%20parte%20dei%20Comuni%20e%20delle%20Provincie.%20025U2578.md), valgono i commi pertinenti tra quelli da 5 a 13, per gli elementi applicativi mancanti; resta sempre esclusa la valutazione del mancato profitto derivante dalla conclusione anticipata del rapporto di gestione; 
+ b. nel caso in cui le modalita' per la cessazione anticipata del contratto non siano desumibili nelle convenzioni o nei contratti, valgono i commi da 5 a 9 e da 11 a 13, considerando, per il calcolo del valore del degrado fisico, una durata utile convenzionale pari alla differenza fra la data di scadenza naturale della concessione e la data di realizzazione dell'investimento, qualora tale differenza sia inferiore alla presunta durata utile della tipologia di cespite di cui al comma 10. 
+ Il valore di rimborso relativo alla porzione di impianto per cui la concessione non prevede la devoluzione gratuita viene determinato seguendo i commi pertinenti da 1 a 13. ((Qualora il valore di rimborso risulti maggiore del 10 per cento del valore delle immobilizzazioni nette di localita', relative alla porzione di impianto che non sia ceduta all'ente locale concedente a devoluzione gratuita, calcolate nella regolazione tariffaria, al netto dei contributi pubblici in conto capitale e dei contributi privati relativi ai cespiti di localita', come calcolati ai fini tariffari ma senza applicazione dei commi 13.2 e 13.3 dell'allegato A della deliberazione 573/2013/R/gas, l'ente locale concedente trasmette le relative valutazioni di dettaglio del valore di rimborso all'Autorita' per la verifica prima della pubblicazione del bando di gara, motivando l'eventuale mancato utilizzo o eventuali scostamenti dai parametri utilizzati nella metodologia riportata nelle linee guida su criteri e modalita' operative del Ministero dello sviluppo economico ai sensi dell'articolo 4 del decreto-legge 21 giugno 2013, n. 69, convertito con modificazioni in legge 9 agosto 2013, n. 98.
+L'Autorita' esegue la verifica secondo modalita' da essa stabilite. I tempi di istruttoria dell'Autorita' oltre i 90 giorni sospendono i termini ai fini del rispetto delle date limite per la pubblicazione del bando di gara previste dall'articolo 3, comma 1 relativamente all'intervento sostitutivo della Regione e all'applicazione della penalizzazione di cui all'articolo 4, comma 5 del decreto-legge 21 giugno 2013, n. 69, convertito con modificazioni in legge 9 agosto 2013, n. 98. La stazione appaltante deve tenere conto delle eventuali osservazioni dell'Autorita' ai fini della determinazione del valore di rimborso da inserire nel bando di gara.))
 
 ((
 
-15. Il gestore subentrante acquisisce la disponibilita' dell'impianto dalla data in cui esegue il pagamento, al gestore uscente, del valore di rimborso residuo dell'impianto e subentra in eventuali obbligazioni finanziarie, in conformita' con l'[articolo 14, comma 9, del decreto legislativo 23 maggio 2000, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164~art14-com9), detraendo dal valore di rimborso i debiti relativi a tali obbligazioni finanziarie, e, se applicabile, dalla data in cui l'Ente locale concedente esegue il pagamento al gestore uscente del valore di rimborso per la porzione di impianto a cui e' applicabile il comma 14 lettera b.
+15.
+
+Il gestore subentrante acquisisce la disponibilita' dell'impianto dalla data in cui esegue il pagamento, al gestore uscente, del valore di rimborso residuo dell'impianto e subentra in eventuali obbligazioni finanziarie, in conformita' con l'[articolo 14, comma 9, del decreto legislativo 23 maggio 2000, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md), detraendo dal valore di rimborso i debiti relativi a tali obbligazioni finanziarie, e, se applicabile, dalla data in cui l'Ente locale concedente esegue il pagamento al gestore uscente del valore di rimborso per la porzione di impianto a cui e' applicabile il comma 14 lettera b.
 
 ))
 
-16. Qualora, trascorso il periodo di tempo disponibile per emettere il bando di gara d'ambito, si manifesti un disaccordo tra l'Ente locale concedente e il gestore uscente con riferimento alla determinazione del valore di rimborso del gestore uscente, il bando di gara riporta, per l'impianto oggetto del disaccordo e soggetto a passaggio di proprieta' al gestore subentrante, oltre alla stima dell'Ente locale concedente e la stima del gestore uscente, un valore di riferimento da utilizzare ai fini della gara, in particolare per la verifica dei requisiti di partecipazione e della valutazione delle offerte, determinato come il piu' grande fra i seguenti valori:   
-a. la stima dell'Ente locale concedente;   
-b. il valore delle immobilizzazioni nette di localita', al netto dei contributi pubblici in conto capitale e dei contributi privati relativi ai cespiti di localita', riconosciuto dal sistema tariffario.   
+16.
 
-((Inoltre il bando di gara riporta sia i principali punti di divergenza nel calcolo fra le valutazioni del valore di rimborso effettuate dall'ente locale concedente e quelle del gestore uscente, sia eventuali previsioni su metodologie di calcolo particolari contenute nei documenti concessori che differiscono dalle metodologie contenute nel presente articolo.))
-
-Il gestore subentrante versa al gestore uscente il valore di riferimento, previsto nel bando di gara all'atto del passaggio di proprieta' dell'impianto. L'eventuale differenza tra il valore accertato in esito alla definitiva risoluzione del contenzioso e quello di riferimento versato dal gestore subentrante e' regolata fra il gestore entrante e il gestore uscente.
+Qualora, trascorso il periodo di tempo disponibile per emettere il bando di gara d'ambito, si manifesti un disaccordo tra l'Ente locale concedente e il gestore uscente con riferimento alla determinazione del valore di rimborso del gestore uscente, il bando di gara riporta, per l'impianto oggetto del disaccordo e soggetto a passaggio di proprieta' al gestore subentrante, oltre alla stima dell'Ente locale concedente e la stima del gestore uscente, un valore di riferimento da utilizzare ai fini della gara, in particolare per la verifica dei requisiti di partecipazione e della valutazione delle offerte, determinato come il piu' grande fra i seguenti valori: 
+ a. la stima dell'Ente locale concedente; 
+ b. il valore delle immobilizzazioni nette di localita', al netto dei contributi pubblici in conto capitale e dei contributi privati relativi ai cespiti di localita', riconosciuto dal sistema tariffario. 
+ ((Inoltre il bando di gara riporta sia i principali punti di divergenza nel calcolo fra le valutazioni del valore di rimborso effettuate dall'ente locale concedente e quelle del gestore uscente, sia eventuali previsioni su metodologie di calcolo particolari contenute nei documenti concessori che differiscono dalle metodologie contenute nel presente articolo.)) Il gestore subentrante versa al gestore uscente il valore di riferimento, previsto nel bando di gara all'atto del passaggio di proprieta' dell'impianto. L'eventuale differenza tra il valore accertato in esito alla definitiva risoluzione del contenzioso e quello di riferimento versato dal gestore subentrante e' regolata fra il gestore entrante e il gestore uscente.
 
 ------------
 
 AGGIORNAMENTO (5)
 
-Il Decreto 20 maggio 2015, n. 106 ha disposto (con l'art. 1, comma 12) che "All'articolo 5, comma 4, dopo le parole "si applica il comma o i commi pertinenti tra quelli da 5 a 13 per la determinazione degli elementi mancanti" sono aggiunte le parole "e le sezioni applicabili delle linee guida su criteri e modalita' operative per la valutazione del valore di rimborso di cui all'[articolo 4 comma 6 del decreto-legge 21 giugno 2013, n. 69](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69~art4-com6) convertito con modificazioni dalla [legge 9 agosto 2013, n. 98](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-08-09;98)"."
+Il Decreto 20 maggio 2015, n. 106 ha disposto (con l'art. 1, comma 12) che "All'articolo 5, comma 4, dopo le parole "si applica il comma o i commi pertinenti tra quelli da 5 a 13 per la determinazione degli elementi mancanti" sono aggiunte le parole "e le sezioni applicabili delle linee guida su criteri e modalita' operative per la valutazione del valore di rimborso di cui all'[articolo 4 comma 6 del decreto-legge 21 giugno 2013, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69#art_4-com6) convertito con modificazioni dalla [legge 9 agosto 2013, n. 98](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20giugno%202013%20n.%2069%20recante%20disposizioni%20urgenti%20per%20il%20rilancio%20delleconomia.%2013G00140.md)"."
 
-Art. 6
-------
+## Art. 6. — Rimborso al gestore uscente a regime
 
-Rimborso al gestore uscente a regime
+1.
 
-1. Nei periodi successivi al primo, il rimborso al gestore uscente e' valutato come previsto nell'[articolo 14, comma 8, del decreto legislativo 23 maggio 2000, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164~art14-com8) e sue modificazioni.
+Nei periodi successivi al primo, il rimborso al gestore uscente e' valutato come previsto nell'[articolo 14, comma 8, del decreto legislativo 23 maggio 2000, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md) e sue modificazioni.
 
-Note all'art. 6:   
-Per il testo dell'articolo 14, comma 8, del citato [decreto legislativo n. 164 del 2000](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;164), si veda nelle note alle premesse.
+Note all'art. 6: 
+ Per il testo dell'articolo 14, comma 8, del citato [decreto legislativo n. 164 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;164), si veda nelle note alle premesse.
 
-Art. 7
-------
+## Art. 7. — Proprieta' degli impianti
 
-Proprieta' degli impianti
+1.
 
-1. Nel caso in cui la concessione preveda a fine affidamento la devoluzione gratuita di una porzione di impianto, l'Ente locale concedente acquisisce la proprieta' di tale porzione di impianto se:   
-a. alla data di cessazione effettiva dell'affidamento si e' raggiunta la scadenza naturale del contratto;   
-b. o si e' nelle condizioni previste nell'articolo 5, comma 14, lettera b), previo pagamento, da parte dell'Ente locale, del valore di rimborso al gestore uscente ivi determinato.
+Nel caso in cui la concessione preveda a fine affidamento la devoluzione gratuita di una porzione di impianto, l'Ente locale concedente acquisisce la proprieta' di tale porzione di impianto se: 
+ a. alla data di cessazione effettiva dell'affidamento si e' raggiunta la scadenza naturale del contratto; 
+ b. o si e' nelle condizioni previste nell'articolo 5, comma 14, lettera b), previo pagamento, da parte dell'Ente locale, del valore di rimborso al gestore uscente ivi determinato.
 
 ((
 
-1-bis Nel caso in cui vi sia una porzione di rete soggetta alle condizioni di cui all'articolo 5, comma 14, lettera b, l'Ente locale concedente puo' optare per il passaggio di proprieta' di tale porzione di rete direttamente dal gestore uscente al gestore subentrante, previo pagamento da parte del gestore subentrante al gestore uscente del valore di rimborso di cui all'articolo 5, comma 14, lettera b e all'Ente locale concedente di una somma pari alla differenza tra il valore di rimborso calcolato secondo l'articolo 5, commi da 5 a 13, e il valore di rimborso di cui all'articolo 5, comma 14, lettera b. Come ulteriore alternativa, l'Ente locale concedente puo' optare che una frazione di tale porzione di rete, con valore, calcolato secondo l'articolo 5, commi da 5 a 13, pari al valore di rimborso di cui all'articolo 5, comma 14, lettera b relativo all'intera porzione di rete, passi di proprieta' direttamente dal gestore uscente al gestore subentrante, previo pagamento da parte del gestore subentrante al gestore uscente del valore di rimborso di cui all'articolo 5, comma 14, lettera b. In questa ultima alternativa la rimanente frazione della porzione di rete, soggetta alle condizioni di cui all'articolo 5, comma 14, lettera b, passa di proprieta' dell'Ente locale concedente a titolo gratuito.
+1-bis
+
+Nel caso in cui vi sia una porzione di rete soggetta alle condizioni di cui all'articolo 5, comma 14, lettera b, l'Ente locale concedente puo' optare per il passaggio di proprieta' di tale porzione di rete direttamente dal gestore uscente al gestore subentrante, previo pagamento da parte del gestore subentrante al gestore uscente del valore di rimborso di cui all'articolo 5, comma 14, lettera b e all'Ente locale concedente di una somma pari alla differenza tra il valore di rimborso calcolato secondo l'articolo 5, commi da 5 a 13, e il valore di rimborso di cui all'articolo 5, comma 14, lettera b. Come ulteriore alternativa, l'Ente locale concedente puo' optare che una frazione di tale porzione di rete, con valore, calcolato secondo l'articolo 5, commi da 5 a 13, pari al valore di rimborso di cui all'articolo 5, comma 14, lettera b relativo all'intera porzione di rete, passi di proprieta' direttamente dal gestore uscente al gestore subentrante, previo pagamento da parte del gestore subentrante al gestore uscente del valore di rimborso di cui all'articolo 5, comma 14, lettera b. In questa ultima alternativa la rimanente frazione della porzione di rete, soggetta alle condizioni di cui all'articolo 5, comma 14, lettera b, passa di proprieta' dell'Ente locale concedente a titolo gratuito.
 
 ))
 
-2. Nei casi differenti da quelli del comma 1 e di quelli in cui la proprieta' dell'impianto era gia' dell'Ente locale concedente o di una societa' patrimoniale delle reti, il gestore uscente cede la proprieta' della propria porzione di impianto al gestore subentrante, previo pagamento da parte di questo ultimo del valore di rimborso di cui all'articolo 5 o 6
+2.
 
-((, al netto degli eventuali debiti relativi alle obbligazioni finanziarie in essere del gestore uscente, di cui all'articolo 9, comma 6, lettera d, nelle quali il nuovo gestore deve subentrare))
+Nei casi differenti da quelli del comma 1 e di quelli in cui la proprieta' dell'impianto era gia' dell'Ente locale concedente o di una societa' patrimoniale delle reti, il gestore uscente cede la proprieta' della propria porzione di impianto al gestore subentrante, previo pagamento da parte di questo ultimo del valore di rimborso di cui all'articolo 5 o 6 ((, al netto degli eventuali debiti relativi alle obbligazioni finanziarie in essere del gestore uscente, di cui all'articolo 9, comma 6, lettera d, nelle quali il nuovo gestore deve subentrare)). Il gestore subentrante mantiene la proprieta' di tale porzione per la durata dell'affidamento, con il vincolo di farla rientrare nella piena disponibilita' funzionale dell'Ente locale concedente alla fine del periodo di affidamento, nel rispetto di quanto previsto dal presente regolamento e dal contratto di servizio.
 
-. Il gestore subentrante mantiene la proprieta' di tale porzione per la durata dell'affidamento, con il vincolo di farla rientrare nella piena disponibilita' funzionale dell'Ente locale concedente alla fine del periodo di affidamento, nel rispetto di quanto previsto dal presente regolamento e dal contratto di servizio.
-
-Art. 8
-------
-
-Oneri da riconoscere all'Ente locale concedente e ai proprietari di impianti
+## Art. 8. — Oneri da riconoscere all'Ente locale concedente e ai proprietari di impianti
 
 ((
 
-1. I gestori uscenti anticipano alla stazione appaltante il corrispettivo una tantum per la copertura degli oneri di gara, ivi inclusi gli oneri di funzionamento della commissione di gara di cui all'articolo 11, comma 1, come definito dall'Autorita' con le [deliberazioni n. 407/2012/R/gas](http://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:2012;407) e [230/2013/R/gas](http://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:2013;230) e successive modifiche e integrazioni. Il 90% del corrispettivo e' versato diciotto mesi prima del termine di scadenza della pubblicazione del bando di gara, di cui all'articolo 3, comma 1, come pubblicato nel sito internet del Ministero dello sviluppo economico, e il saldo e' versato entro 15 giorni dalla pubblicazione del bando di gara. Nel caso di due o piu' gestori, l'anticipazione e' proporzionale ai punti di riconsegna serviti nei Comuni dell'ambito territoriale di riferimento, come risultanti dai dati di riferimento per la formazione degli ambiti pubblicati nel sito internet del Ministero dello sviluppo economico. Il gestore aggiudicatario della gara rimborsa ai gestori uscenti l'importo, comprensivo di interessi, entro 15 giorni dall'atto dell'avvenuta aggiudicazione della gara, con modalita' definite dall'Autorita'. In caso di ritardato pagamento degli oneri all'ente locale interessato, il gestore uscente dovra' corrispondere altresi' gli interessi relativi a tali oneri in ragione del ritardo maturato.
+1.
+
+I gestori uscenti anticipano alla stazione appaltante il corrispettivo una tantum per la copertura degli oneri di gara, ivi inclusi gli oneri di funzionamento della commissione di gara di cui all'articolo 11, comma 1, come definito dall'Autorita' con le [deliberazioni n. 407/2012/R/gas](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:2012;407) e [230/2013/R/gas](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:2013;230) e successive modifiche e integrazioni. Il 90% del corrispettivo e' versato diciotto mesi prima del termine di scadenza della pubblicazione del bando di gara, di cui all'articolo 3, comma 1, come pubblicato nel sito internet del Ministero dello sviluppo economico, e il saldo e' versato entro 15 giorni dalla pubblicazione del bando di gara. Nel caso di due o piu' gestori, l'anticipazione e' proporzionale ai punti di riconsegna serviti nei Comuni dell'ambito territoriale di riferimento, come risultanti dai dati di riferimento per la formazione degli ambiti pubblicati nel sito internet del Ministero dello sviluppo economico. Il gestore aggiudicatario della gara rimborsa ai gestori uscenti l'importo, comprensivo di interessi, entro 15 giorni dall'atto dell'avvenuta aggiudicazione della gara, con modalita' definite dall'Autorita'. In caso di ritardato pagamento degli oneri all'ente locale interessato, il gestore uscente dovra' corrispondere altresi' gli interessi relativi a tali oneri in ragione del ritardo maturato.
 
 ))
 
-2. Il gestore corrisponde annualmente al soggetto di cui all'articolo 2, comma 5, un corrispettivo pari all'1% della somma della remunerazione del capitale di localita' relativi ai servizi di distribuzione e misura e della relativa quota di ammortamento annuale, a titolo di rimborso forfettario degli oneri sostenuti dal soggetto medesimo e dagli Enti locali concedenti per lo svolgimento delle attivita' di controllo e vigilanza sulla conduzione del servizio.
+2.
 
-3. Il gestore corrisponde annualmente agli Enti locali e alle societa' patrimoniali delle reti che risultino proprietarie di una parte degli impianti dell'ambito la remunerazione del relativo capitale investito netto che l'Autorita' riconosce ai fini tariffari sulla base dei dati relativi alla parte di impianto di loro proprieta', che i proprietari stessi devono fornire al gestore, da inserire nella proposta tariffaria all'Autorita' e a condizione che tale parte concorra quindi effettivamente all'ammontare del capitale investito netto di localita' riconosciuto dall'Autorita'.
+Il gestore corrisponde annualmente al soggetto di cui all'articolo 2, comma 5, un corrispettivo pari all'1% della somma della remunerazione del capitale di localita' relativi ai servizi di distribuzione e misura e della relativa quota di ammortamento annuale, a titolo di rimborso forfettario degli oneri sostenuti dal soggetto medesimo e dagli Enti locali concedenti per lo svolgimento delle attivita' di controllo e vigilanza sulla conduzione del servizio.
 
-4. Il gestore corrisponde annualmente agli Enti locali una quota parte della remunerazione del capitale di localita' relativo ai servizi di distribuzione e misura, relativa al proprio territorio comunale sia nel caso in cui la rete sia di proprieta' dell'Ente locale sia nel caso in cui sia di proprieta' del gestore, nonche' della relativa quota di ammortamento annuale di cui all'articolo 13, comma 1, lettera d),
+3.
 
-((fino al 10%))
+Il gestore corrisponde annualmente agli Enti locali e alle societa' patrimoniali delle reti che risultino proprietarie di una parte degli impianti dell'ambito la remunerazione del relativo capitale investito netto che l'Autorita' riconosce ai fini tariffari sulla base dei dati relativi alla parte di impianto di loro proprieta', che i proprietari stessi devono fornire al gestore, da inserire nella proposta tariffaria all'Autorita' e a condizione che tale parte concorra quindi effettivamente all'ammontare del capitale investito netto di localita' riconosciuto dall'Autorita'.
 
-, come risultato dell'esito della gara.
+4.
 
-5. Il gestore e' tenuto al pagamento della tassa e/o canone di occupazione del suolo e sottosuolo della porzione di impianto di sua proprieta', a meno che la concessione preveda la devoluzione gratuita all'Ente locale alla sua scadenza.
+Il gestore corrisponde annualmente agli Enti locali una quota parte della remunerazione del capitale di localita' relativo ai servizi di distribuzione e misura, relativa al proprio territorio comunale sia nel caso in cui la rete sia di proprieta' dell'Ente locale sia nel caso in cui sia di proprieta' del gestore, nonche' della relativa quota di ammortamento annuale di cui all'articolo 13, comma 1, lettera d), ((fino al 10%)), come risultato dell'esito della gara.
+
+5.
+
+Il gestore e' tenuto al pagamento della tassa e/o canone di occupazione del suolo e sottosuolo della porzione di impianto di sua proprieta', a meno che la concessione preveda la devoluzione gratuita all'Ente locale alla sua scadenza.
 
 ((
 
-6. Il gestore e' tenuto ad effettuare gli interventi di efficienza energetica di cui all'articolo 13, comma 1, lettera e), come risultato dell'esito di gara; il valore dei relativi titoli di efficienza energetica e' corrisposto agli Enti locali concedenti, in proporzione al gas distribuito in ciascun Comune nell'anno precedente all'ultimo trascorso. Ciascun anno il gestore anticipa agli Enti locali concedenti una somma pari al valore dei titoli di efficienza degli interventi su cui si e' impegnato in sede di gara per l'anno in corso, valutati secondo il prezzo unitario previsto dall'Autorita' nell'anno precedente. Qualora l'anno successivo, quando i titoli devono essere presentati al GSE per soddisfare l'impegno preso in sede di gara, il prezzo unitario del titolo stabilito dall'Autorita' aumenti, il gestore versa il conguaglio agli Enti locali concedenti; nessun aggiustamento e' dovuto nel caso in cui il prezzo unitario diminuisca. A fronte di tali versamenti, i titoli rimangono di proprieta' del gestore. A tali titoli e' riconosciuta la copertura dei costi prevista dalle normative in materia di efficienza energetica emanate dal Ministero dello sviluppo economico e dall'Autorita' ai sensi dell'[articolo 16, comma 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164~art16-com4), e dell'[articolo 23, comma 4, del decreto legislativo 23 maggio 2000, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164~art23-com4), nella percentuale del 50%. Tale percentuale sara' innalzata al 100%, qualora i decreti ministeriali, che fisseranno gli obiettivi quantitativi nazionali di efficienza energetica da parte delle imprese di distribuzione del gas per gli anni successivi all'anno 2016, considereranno i titoli offerti in sede di gara contribuire agli impegni presi dall'Italia in sede europea, riducendo il valore degli obiettivi quantitativi nazionali stessi, in modo da non introdurre ulteriori oneri per i clienti gas.
+6.
+
+Il gestore e' tenuto ad effettuare gli interventi di efficienza energetica di cui all'articolo 13, comma 1, lettera e), come risultato dell'esito di gara; il valore dei relativi titoli di efficienza energetica e' corrisposto agli Enti locali concedenti, in proporzione al gas distribuito in ciascun Comune nell'anno precedente all'ultimo trascorso. Ciascun anno il gestore anticipa agli Enti locali concedenti una somma pari al valore dei titoli di efficienza degli interventi su cui si e' impegnato in sede di gara per l'anno in corso, valutati secondo il prezzo unitario previsto dall'Autorita' nell'anno precedente. Qualora l'anno successivo, quando i titoli devono essere presentati al GSE per soddisfare l'impegno preso in sede di gara, il prezzo unitario del titolo stabilito dall'Autorita' aumenti, il gestore versa il conguaglio agli Enti locali concedenti; nessun aggiustamento e' dovuto nel caso in cui il prezzo unitario diminuisca. A fronte di tali versamenti, i titoli rimangono di proprieta' del gestore. A tali titoli e' riconosciuta la copertura dei costi prevista dalle normative in materia di efficienza energetica emanate dal Ministero dello sviluppo economico e dall'Autorita' ai sensi dell'[articolo 16, comma 4](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md), e dell'[articolo 23, comma 4, del decreto legislativo 23 maggio 2000, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md), nella percentuale del 50%. Tale percentuale sara' innalzata al 100%, qualora i decreti ministeriali, che fisseranno gli obiettivi quantitativi nazionali di efficienza energetica da parte delle imprese di distribuzione del gas per gli anni successivi all'anno 2016, considereranno i titoli offerti in sede di gara contribuire agli impegni presi dall'Italia in sede europea, riducendo il valore degli obiettivi quantitativi nazionali stessi, in modo da non introdurre ulteriori oneri per i clienti gas.
 
 ))
 
-Art. 9
-------
+## Art. 9. — Bando di gara e Disciplinare di gara
 
-Bando di gara e Disciplinare di gara
+1.
 
-1. La stazione appaltante predispone e pubblica il bando di gara e il disciplinare di gara attenendosi agli schemi e alle indicazioni del bando di gara tipo e il disciplinare di gara tipo di cui, rispettivamente, agli allegati 2 e 3. Eventuali scostamenti dal bando di gara tipo e dal disciplinare di gara tipo, nonche' la scelta dei punteggi utilizzati nei criteri di valutazione della gara, devono essere giustificati in una apposita nota.
+La stazione appaltante predispone e pubblica il bando di gara e il disciplinare di gara attenendosi agli schemi e alle indicazioni del bando di gara tipo e il disciplinare di gara tipo di cui, rispettivamente, agli allegati 2 e 3. Eventuali scostamenti dal bando di gara tipo e dal disciplinare di gara tipo, nonche' la scelta dei punteggi utilizzati nei criteri di valutazione della gara, devono essere giustificati in una apposita nota. ((La gara e' effettuata adottando la procedura ristretta, ad eccezione degli ambiti in cui un gestore uscente gestisca piu' del 60% dei punti di riconsegna dell'ambito, per i quali si adotta la procedura aperta.))
 
-((La gara e' effettuata adottando la procedura ristretta, ad eccezione degli ambiti in cui un gestore uscente gestisca piu' del 60% dei punti di riconsegna dell'ambito, per i quali si adotta la procedura aperta.))
+2.
 
-2. 
+((La stazione appaltante invia all'Autorita', secondo modalita' stabilite dall'Autorita', il bando di gara, il disciplinare di gara e le linee guida programmatiche d'ambito con le condizioni minime di sviluppo, insieme alla nota giustificativa di cui al comma 1.)) L'Autorita' puo' inviare entro 30 giorni proprie osservazioni alla stazione appaltante.
 
-((La stazione appaltante invia all'Autorita', secondo modalita' stabilite dall'Autorita', il bando di gara, il disciplinare di gara e le linee guida programmatiche d'ambito con le condizioni minime di sviluppo, insieme alla nota giustificativa di cui al comma 1.))
+3.
 
-L'Autorita' puo' inviare entro 30 giorni proprie osservazioni alla stazione appaltante.
+Al fine di uniformare la preparazione dei documenti guida per gli interventi di estensione, manutenzione e potenziamento da allegare al bando di gara, la stazione appaltante prepara le linee guida programmatiche d'ambito con le condizioni minime di sviluppo, differenziate, se necessario, rispetto al grado di metanizzazione raggiunto nel Comune, alla vetusta' dell'impianto, all'espansione territoriale e alle caratteristiche territoriali, in particolare alla prevalenza orografica e alla densita' abitativa. Le condizioni minime di sviluppo e gli interventi contenuti nelle linee guida programmatiche d'ambito devono essere tali da consentire l'equilibrio economico e finanziario del gestore e devono essere giustificati da un'analisi dei benefici per i consumatori rispetto ai costi da sostenere ((, rispetto anche ad eventuali soluzioni alternative all'uso del gas naturale negli usi finali, come il teleriscaldamento)). Le condizioni minime di sviluppo possono comprendere: 
+ a. la densita' minima di nuovi punti di riconsegna per chilometro di rete, in nuove aree, che rendono obbligatorio lo sviluppo dell'impianto di distribuzione (estensione di rete e eventualmente potenziamento della rete esistente); 
+ b. il volume di gas distribuito per chilometro di rete, che, in seguito a incrementi sulle reti esistenti, rende obbligatorio il potenziamento dell'impianto di distribuzione; 
+ c. gli interventi per la sicurezza e per l'ammodernamento degli impianti come previsti dalla regolazione, quale la sostituzione o risanamento delle tubazioni in ghisa con giunti in piombo e canapa, la messa in protezione catodica efficace delle condotte in acciaio, la introduzione dei misuratori elettronici; 
+ d. la vita residua media ponderata dell'impianto, al di sotto della quale, qualora si superi anche un valore limite del tasso di dispersione per km di rete, e' obbligatoria la sostituzione di alcuni tratti di rete e/o impianti.
 
-3. Al fine di uniformare la preparazione dei documenti guida per gli interventi di estensione, manutenzione e potenziamento da allegare al bando di gara, la stazione appaltante prepara le linee guida programmatiche d'ambito con le condizioni minime di sviluppo, differenziate, se necessario, rispetto al grado di metanizzazione raggiunto nel Comune, alla vetusta' dell'impianto, all'espansione territoriale e alle caratteristiche territoriali, in particolare alla prevalenza orografica e alla densita' abitativa. Le condizioni minime di sviluppo e gli interventi contenuti nelle linee guida programmatiche d'ambito devono essere tali da consentire l'equilibrio economico e finanziario del gestore e devono essere giustificati da un'analisi dei benefici per i consumatori rispetto ai costi da sostenere
+4.
 
-((, rispetto anche ad eventuali soluzioni alternative all'uso del gas naturale negli usi finali, come il teleriscaldamento))
+Ciascun Ente locale concedente fornisce gli elementi programmatici di sviluppo del proprio territorio nel periodo di durata dell'affidamento e lo stato del proprio impianto di distribuzione, in modo che la stazione appaltante, in collaborazione con gli Enti locali concedenti interessati dal medesimo impianto, possa, in conformita' con le linee guida programmatiche d'ambito, preparare il documento guida per gli interventi di estensione, manutenzione e potenziamento nei singoli Comuni, in base a cui i concorrenti redigono il piano di sviluppo dell'impianto di cui all'articolo 15. In particolare il documento guida contiene: 
+ a. gli interventi di massima di estensione della rete ritenuti compatibili con lo sviluppo territoriale del Comune e con il periodo di affidamento; 
+ b. le zone con eventuali problematiche di fornitura che necessitano di interventi di potenziamento della rete, anche in funzione della potenziale acquisizione di nuove utenze in base al grado di metanizzazione della zona e dei piani urbanistici comunali; 
+ c. la relazione sullo stato dell'impianto, con indicazione delle zone con maggiore carenza strutturale, supportata dai dati di ricerca fughe degli ultimi tre anni per tipologia di impianti e per modalita' di individuazione della fuga, necessari ad identificare eventuali priorita' negli interventi di sostituzione.
 
-. Le condizioni minime di sviluppo possono comprendere:   
-a. la densita' minima di nuovi punti di riconsegna per chilometro di rete, in nuove aree, che rendono obbligatorio lo sviluppo dell'impianto di distribuzione (estensione di rete e eventualmente potenziamento della rete esistente);   
-b. il volume di gas distribuito per chilometro di rete, che, in seguito a incrementi sulle reti esistenti, rende obbligatorio il potenziamento dell'impianto di distribuzione;   
-c. gli interventi per la sicurezza e per l'ammodernamento degli impianti come previsti dalla regolazione, quale la sostituzione o risanamento delle tubazioni in ghisa con giunti in piombo e canapa, la messa in protezione catodica efficace delle condotte in acciaio, la introduzione dei misuratori elettronici;   
-d. la vita residua media ponderata dell'impianto, al di sotto della quale, qualora si superi anche un valore limite del tasso di dispersione per km di rete, e' obbligatoria la sostituzione di alcuni tratti di rete e/o impianti.
+5.
 
-4. Ciascun Ente locale concedente fornisce gli elementi programmatici di sviluppo del proprio territorio nel periodo di durata dell'affidamento e lo stato del proprio impianto di distribuzione, in modo che la stazione appaltante, in collaborazione con gli Enti locali concedenti interessati dal medesimo impianto, possa, in conformita' con le linee guida programmatiche d'ambito, preparare il documento guida per gli interventi di estensione, manutenzione e potenziamento nei singoli Comuni, in base a cui i concorrenti redigono il piano di sviluppo dell'impianto di cui all'articolo 15. In particolare il documento guida contiene:   
-a. gli interventi di massima di estensione della rete ritenuti compatibili con lo sviluppo territoriale del Comune e con il periodo di affidamento;   
-b. le zone con eventuali problematiche di fornitura che necessitano di interventi di potenziamento della rete, anche in funzione della potenziale acquisizione di nuove utenze in base al grado di metanizzazione della zona e dei piani urbanistici comunali;   
-c. la relazione sullo stato dell'impianto, con indicazione delle zone con maggiore carenza strutturale, supportata dai dati di ricerca fughe degli ultimi tre anni per tipologia di impianti e per modalita' di individuazione della fuga, necessari ad identificare eventuali priorita' negli interventi di sostituzione.
+Il bando di gara e' unico per ciascun ambito ed e' costituito dalla parte generale, con le informazioni dettagliate per la partecipazione alla gara e informazioni di massima per la sua gestione, nonche' gli oneri da riconoscere una tantum ed annualmente alla stazione appaltante, la cauzione provvisoria per i partecipanti alla gara e la cauzione definitiva da produrre in caso di aggiudicazione, all'atto della stipula del contratto di servizio, e da una serie di allegati contenente le informazioni specifiche per ogni Comune appartenente all'ambito.
 
-5. Il bando di gara e' unico per ciascun ambito ed e' costituito dalla parte generale, con le informazioni dettagliate per la partecipazione alla gara e informazioni di massima per la sua gestione, nonche' gli oneri da riconoscere una tantum ed annualmente alla stazione appaltante, la cauzione provvisoria per i partecipanti alla gara e la cauzione definitiva da produrre in caso di aggiudicazione, all'atto della stipula del contratto di servizio, e da una serie di allegati contenente le informazioni specifiche per ogni Comune appartenente all'ambito.
+6.
 
-6. Le informazioni specifiche per ogni Comune, contenute negli allegati di cui al comma 5, sono le seguenti:   
-a. i dati dell'impianto di distribuzione, costituiti da un sommario dei dati piu' significativi della rete e degli impianti, e dallo stato di consistenza diviso per proprietario, dal numero dei punti di riconsegna articolato per tipologia di utenza e da una loro ipotesi di tasso di crescita annua sulla rete esistente e dai volumi distribuiti;   
-b. i valori delle immobilizzazioni lorde e nette, valutati con il metodo del costo storico rivalutato e utilizzati nel calcolo del vincolo dei ricavi in base alla regolazione tariffaria, articolati per tipologia di cespite e ripartiti per soggetto proprietario, e le corrispondenti vite utili ai fini tariffari, oltre i contributi pubblici in conto capitale e i contributi privati relativi ai cespiti di localita'. In particolare devono essere disponibili su formato elettronico le schede con tutti i dati rilevanti per il calcolo delle tariffe con riferimento all'ultimo anno tariffario, oltre i dati sugli investimenti realizzati successivamente;   
-c. il documento guida per gli interventi di estensione, manutenzione e potenziamento di cui al comma 4;   
-d. l'eventuale valore di rimborso da riconoscere al gestore uscente, le obbligazioni finanziarie in essere relative agli investimenti realizzati nel precedente periodo di affidamento e i contratti pubblici e privati dei gestori uscenti, relativi allo svolgimento del servizio di distribuzione e connessi con la proprieta' degli impianti, quali servitu' e concessioni di attraversamento;   
-e. in presenza di Enti locali concedenti proprietari o di societa' patrimoniali delle reti, gli oneri annuali di cui all'articolo 8, comma 3;   
-f. le informazioni sul personale di cui all'articolo 4 comma 1, lettera g);   
-g. per gli impianti con scadenza ope legis della concessione successiva alla gara:   
-i. la data di subentro;   
-ii. i contratti di concessione in vigore e i piani di sviluppo degli impianti gestiti, relativamente agli obblighi previsti in concessione, per l'intero periodo residuo di concessione;   
-iii. oltre alle informazioni di cui ai punti precedenti al momento della pubblicazione del bando, anche le informazioni prevedibili al momento di trasferimento di gestione;   
-h. il regolamento comunale e provinciale per l'esecuzione dei lavori stradali;   
-i. L'entita' della tassa o canone di occupazione del suolo e sottosuolo (TOSAP o COSAP) comunale e provinciale, nonche' i relativi regolamenti.
+Le informazioni specifiche per ogni Comune, contenute negli allegati di cui al comma 5, sono le seguenti: 
+ a. i dati dell'impianto di distribuzione, costituiti da un sommario dei dati piu' significativi della rete e degli impianti, e dallo stato di consistenza diviso per proprietario, dal numero dei punti di riconsegna articolato per tipologia di utenza e da una loro ipotesi di tasso di crescita annua sulla rete esistente e dai volumi distribuiti; 
+ b. i valori delle immobilizzazioni lorde e nette, valutati con il metodo del costo storico rivalutato e utilizzati nel calcolo del vincolo dei ricavi in base alla regolazione tariffaria, articolati per tipologia di cespite e ripartiti per soggetto proprietario, e le corrispondenti vite utili ai fini tariffari, oltre i contributi pubblici in conto capitale e i contributi privati relativi ai cespiti di localita'. In particolare devono essere disponibili su formato elettronico le schede con tutti i dati rilevanti per il calcolo delle tariffe con riferimento all'ultimo anno tariffario, oltre i dati sugli investimenti realizzati successivamente; 
+ c. il documento guida per gli interventi di estensione, manutenzione e potenziamento di cui al comma 4; 
+ d. l'eventuale valore di rimborso da riconoscere al gestore uscente, le obbligazioni finanziarie in essere relative agli investimenti realizzati nel precedente periodo di affidamento e i contratti pubblici e privati dei gestori uscenti, relativi allo svolgimento del servizio di distribuzione e connessi con la proprieta' degli impianti, quali servitu' e concessioni di attraversamento; 
+ e. in presenza di Enti locali concedenti proprietari o di societa' patrimoniali delle reti, gli oneri annuali di cui all'articolo 8, comma 3; 
+ f. le informazioni sul personale di cui all'articolo 4 comma 1, lettera g); 
+ g. per gli impianti con scadenza ope legis della concessione successiva alla gara: 
+ i. la data di subentro; 
+ ii. i contratti di concessione in vigore e i piani di sviluppo degli impianti gestiti, relativamente agli obblighi previsti in concessione, per l'intero periodo residuo di concessione; 
+ iii. oltre alle informazioni di cui ai punti precedenti al momento della pubblicazione del bando, anche le informazioni prevedibili al momento di trasferimento di gestione; 
+ h. il regolamento comunale e provinciale per l'esecuzione dei lavori stradali; 
+ i. L'entita' della tassa o canone di occupazione del suolo e sottosuolo (TOSAP o COSAP) comunale e provinciale, nonche' i relativi regolamenti.
 
 ((
 
-6-bis Il bando di gara deve contenere le informazioni relative alle porzioni di impianti interconnessi situati su territori di Comuni di ambiti adiacenti, quali il numero e le tipologie di clienti dei due impianti, i volumi di gas scambiati e le caratteristiche di pressione delle condotte di collegamento tra le due porzioni di impianto, oltre allo stato di consistenza e il relativo valore di rimborso delle due porzioni di impianto. Il bando di gara deve specificare che la gestione tecnica delle due porzioni di impianto sara' oggetto di accordi, anche variabili nel tempo, fra i gestori degli ambiti interessati, sentiti i soggetti di cui all'articolo 2, comma 5, dei medesimi ambiti, mentre, a regime, ciascun gestore d'ambito sara' proprietario della porzione di impianto situato nel territorio del proprio ambito. Il bando di gara deve, inoltre, prevedere l'obbligo per il gestore d'ambito che entrera' in servizio per primo, di assumere temporaneamente la gestione anche di porzioni di reti non prevalenti dei Comuni adiacenti, per assicurarne la continuita' di servizio, anticipando anche il pagamento del valore di rimborso al gestore uscente. Come eccezione a quanto sopra, nei casi in cui la porzione di impianto di sconfinamento abbia un numero di punti di riconsegna inferiore a 30, con attraversamenti con condotte in bassa pressione del confine degli ambiti, le stazioni appaltanti interessate possono prevedere nei rispettivi bandi di gara che l'intero impianto rimanga di proprieta', e in gestione, del gestore dell'ambito sul cui territorio e' situata la porzione di impianto con il maggior numero di punti di riconsegna.
+6-bis
+
+Il bando di gara deve contenere le informazioni relative alle porzioni di impianti interconnessi situati su territori di Comuni di ambiti adiacenti, quali il numero e le tipologie di clienti dei due impianti, i volumi di gas scambiati e le caratteristiche di pressione delle condotte di collegamento tra le due porzioni di impianto, oltre allo stato di consistenza e il relativo valore di rimborso delle due porzioni di impianto. Il bando di gara deve specificare che la gestione tecnica delle due porzioni di impianto sara' oggetto di accordi, anche variabili nel tempo, fra i gestori degli ambiti interessati, sentiti i soggetti di cui all'articolo 2, comma 5, dei medesimi ambiti, mentre, a regime, ciascun gestore d'ambito sara' proprietario della porzione di impianto situato nel territorio del proprio ambito. Il bando di gara deve, inoltre, prevedere l'obbligo per il gestore d'ambito che entrera' in servizio per primo, di assumere temporaneamente la gestione anche di porzioni di reti non prevalenti dei Comuni adiacenti, per assicurarne la continuita' di servizio, anticipando anche il pagamento del valore di rimborso al gestore uscente. Come eccezione a quanto sopra, nei casi in cui la porzione di impianto di sconfinamento abbia un numero di punti di riconsegna inferiore a 30, con attraversamenti con condotte in bassa pressione del confine degli ambiti, le stazioni appaltanti interessate possono prevedere nei rispettivi bandi di gara che l'intero impianto rimanga di proprieta', e in gestione, del gestore dell'ambito sul cui territorio e' situata la porzione di impianto con il maggior numero di punti di riconsegna.
 
 ))
 
-7. Il bando di gara esplicita l'obbligo per il gestore di provvedere alla costruzione della rete nei Comuni dell'ambito non ancora metanizzati, qualora durante il periodo di affidamento si rendano disponibili finanziamenti pubblici in conto capitale di almeno il 50% del valore complessivo dell'opera e gli interventi siano programmabili tre anni prima del termine di scadenza dell'affidamento, anche se l'intervento non e' previsto nel piano di sviluppo iniziale. Eventuali interventi in condizioni differenti possono essere oggetto di negoziazione tra le parti.
+7.
 
-8. Il bando di gara riporta in allegato la bozza di contratto di servizio, preparato dalla stazione appaltante sulla base del contratto di servizio tipo, predisposto dall'Autorita' ed approvato dal Ministro dello sviluppo economico, di cui all'[articolo 14, comma 1, del decreto legislativo 23 maggio 2000, n.164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164~art14-com1). Il contratto di servizio e' finalizzato, successivamente alla aggiudicazione della gara, con il piano di sviluppo degli impianti di cui all'articolo 15 e gli altri impegni assunti dall'impresa aggiudicataria in sede di offerta. ll contratto di servizio deve prevedere il diritto da parte del gestore di alienare eventuali beni di proprieta' degli Enti locali concedenti o della societa' patrimoniale delle reti qualora il piano di sviluppo degli impianti preveda la loro sostituzione.
+Il bando di gara esplicita l'obbligo per il gestore di provvedere alla costruzione della rete nei Comuni dell'ambito non ancora metanizzati, qualora durante il periodo di affidamento si rendano disponibili finanziamenti pubblici in conto capitale di almeno il 50% del valore complessivo dell'opera e gli interventi siano programmabili tre anni prima del termine di scadenza dell'affidamento, anche se l'intervento non e' previsto nel piano di sviluppo iniziale. Eventuali interventi in condizioni differenti possono essere oggetto di negoziazione tra le parti.
 
-9. Il disciplinare di gara e' unico per ambito e riporta i criteri di valutazione della gara e le informazioni dettagliate per la presentazione delle offerte.
+8.
 
-10. Tutti i documenti presentati dalle imprese concorrenti per la gara sono trasmessi con dichiarazione sottoscritta dal legale rappresentante di ciascun concorrente o partecipante ai raggruppamenti temporanei di imprese o consorzi, come precisato negli allegati 2 e 3.
+Il bando di gara riporta in allegato la bozza di contratto di servizio, preparato dalla stazione appaltante sulla base del contratto di servizio tipo, predisposto dall'Autorita' ed approvato dal Ministro dello sviluppo economico, di cui all'[articolo 14, comma 1, del decreto legislativo 23 maggio 2000, n.164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md). Il contratto di servizio e' finalizzato, successivamente alla aggiudicazione della gara, con il piano di sviluppo degli impianti di cui all'articolo 15 e gli altri impegni assunti dall'impresa aggiudicataria in sede di offerta. ll contratto di servizio deve prevedere il diritto da parte del gestore di alienare eventuali beni di proprieta' degli Enti locali concedenti o della societa' patrimoniale delle reti qualora il piano di sviluppo degli impianti preveda la loro sostituzione.
 
-Art. 10
--------
+9.
 
-Requisiti per la partecipazione alla gara
+Il disciplinare di gara e' unico per ambito e riporta i criteri di valutazione della gara e le informazioni dettagliate per la presentazione delle offerte.
 
-1. I soggetti partecipanti alla gara devono soddisfare le disposizioni dell'[articolo 14, comma 5, del decreto legislativo 23 maggio 2000, n.164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164~art14-com5). Per la prima gara, indetta dopo il periodo transitorio di cui all'[articolo 15, comma 7, del decreto legislativo 23 maggio 2000, n.164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164~art15-com7) e sue modificazioni, si applicano le disposizioni dell'articolo 15, comma 10, del sopracitato decreto legislativo e dell'[articolo 46-bis, comma 4-bis, della legge 29 novembre 2007, n. 222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-11-29;222~art46bis-com4bis), concernente la conversione in legge, con modificazioni, del [decreto-legge 1° ottobre 2007, n. 159](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-10-01;159).
+10.
 
-2. Sono esclusi dalla partecipazione alla gara i soggetti che sono incorsi in una delle cause di esclusione di cui all'[articolo 38 del decreto legislativo 12 aprile 2006, n. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163~art38), come da ultimo modificato dall'[art.4, comma 2, lettera b) del decreto-legge 13 maggio 2011, n. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70~art4-com2-letb). Non rientra nelle cause di esclusione automatica la applicazione di sanzioni da parte dell'Autorita' dell'energia elettrica e il gas.
+Tutti i documenti presentati dalle imprese concorrenti per la gara sono trasmessi con dichiarazione sottoscritta dal legale rappresentante di ciascun concorrente o partecipante ai raggruppamenti temporanei di imprese o consorzi, come precisato negli allegati 2 e 3.
 
-3. Non possono partecipare alla medesima gara concorrenti che si trovino, rispetto ad un altro partecipante alla medesima procedura di affidamento, in una situazione di controllo di cui all'[articolo 2359 del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2359) o in una qualsiasi relazione, anche di fatto, se la situazione di controllo o la relazione comporti che le offerte sono imputabili ad un unico centro decisionale. E' fatto anche divieto ai concorrenti di partecipare alla gara in piu' di un raggruppamento temporaneo o consorzio ordinario di concorrenti, ovvero di partecipare alla gara anche in forma individuale qualora partecipino in un raggruppamento temporaneo o consorzio ordinario di concorrenti.
+## Art. 10. — Requisiti per la partecipazione alla gara
 
-4. I partecipanti alla gara devono essere in regola con l'assolvimento degli obblighi previsti dalle norme che disciplinano il diritto al lavoro di disabili di cui alla [legge 12 marzo 1999, n. 68](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-12;68), devono dichiarare che non si sono avvalsi dei piani individuali di emersione del lavoro sommerso di cui alla [legge 18 ottobre 2001, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-10-18;383) e al [decreto legislativo 25 settembre 2002, n. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2002-09-25;210) o che, qualora se ne siano avvalsi, i piani si sono conclusi, e dimostrare il possesso da almeno un anno di un adeguato codice etico.
+1.
 
-5. I soggetti partecipanti alla gara devono possedere i seguenti requisiti di capacita' economica e finanziaria:   
-a. un fatturato medio annuo nel triennio precedente all'indizione della gara, almeno pari al 50% del valore annuo del servizio oggetto di gara, da dimostrare con i dati di bilancio della societa' partecipante alla gara o con i dati del bilancio consolidato della sua controllante, relativi agli ultimi tre anni;   
-b. in alternativa, possedere garanzie finanziarie da due primari istituti di credito attestanti che l'impresa negli ultimi tre anni ha fatto fronte ai propri impegni e che ha la possibilita' di accedere al credito per un valore pari o superiore alla somma del 50% del valore annuo del servizio oggetto di gara e del valore di rimborso ai gestori uscenti nell'ambito di gara, inclusi quelli relativi agli impianti con scadenza ope legis successiva alla gara.
+I soggetti partecipanti alla gara devono soddisfare le disposizioni dell'[articolo 14, comma 5, del decreto legislativo 23 maggio 2000, n.164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md). Per la prima gara, indetta dopo il periodo transitorio di cui all'[articolo 15, comma 7, del decreto legislativo 23 maggio 2000, n.164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md) e sue modificazioni, si applicano le disposizioni dell'articolo 15, comma 10, del sopracitato decreto legislativo e dell'[articolo 46-bis, comma 4-bis, della legge 29 novembre 2007, n. 222](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20ottobre%202007%20n.%20159%20recante%20interventi%20urgenti%20in%20materia%20economico-finanziaria%20per%20lo%20sviluppo%20e%20lequita%20sociale.md), concernente la conversione in legge, con modificazioni, del [decreto-legge 1° ottobre 2007, n. 159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-10-01;159).
 
-6. I soggetti partecipanti alla gara devono possedere i seguenti requisiti di capacita' tecnica:   
-a. Iscrizione al registro delle imprese della Camera di commercio, industria, artigianato e agricoltura con capacita' di operare nell'ambito dei servizi di distribuzione gas; oppure, per i soggetti aventi sede in uno Stato dell'Unione Europea diverso dall'Italia, analoga iscrizione in registri professionali di organismi equivalenti;   
-b. Esperienza gestionale da dimostrare in base a:   
-b1. titolarita' di concessioni di impianti di distribuzione del gas naturale per un numero complessivo di clienti pari almeno al 50% del numero di clienti effettivi dell'ambito oggetto della gara, da possedere al momento della partecipazione alla gara o precedentemente, purche' in data non anteriore a 18 mesi dalla scadenza della presentazione della domanda di partecipazione alla gara. Nella prima gara di ciascun ambito le imprese di distribuzione di gas naturale che alla data di entrata in vigore del presente regolamento sono titolari di concessioni che servono il 50% del numero di clienti effettivi dell'ambito oggetto di gara soddisfano il presente requisito;   
-b2. in alternativa al punto b1. rispetto di tutti e tre i seguenti requisiti:   
-b.2.1. titolarita' di concessioni di impianti di distribuzione di gas naturale, da possedere non anteriormente a 36 mesi dalla scadenza della presentazione della domanda di partecipazione alla gara, o, da almeno 18 mesi dalla scadenza della presentazione della domanda di partecipazione alla gara, titolarita' di concessioni di impianti di distribuzione di GPL, oppure di miscela aria-propano, di energia elettrica, o di acqua o di reti urbane di teleriscaldamento Nella prima gara di ciascun ambito le imprese di distribuzione di gas naturale che alla data di entrata in vigore del presente regolamento sono titolari di concessioni di gas naturale soddisfano il presente requisito;   
-b.2.2. dimostrazione di avere, dal momento dell'affidamento del primo impianto, la capacita' di gestire gli impianti di distribuzione gas dell'ambito oggetto di gara, fornendo in particolare la dimostrazione di:   
-b.2.2.1. disponibilita' di strutture, mezzi e personale a livello manageriale per la gestione delle situazioni di emergenze gas (pronto intervento e incidenti gas);   
-b.2.2.2. disponibilita' di personale a livello manageriale e di funzione centrale, di strutture, quali sale controllo, di mezzi tecnici e di sistemi informativi adeguati a garantire il monitoraggio, il controllo e lo sviluppo della rete gas dell'ambito di gara e a gestire le operazioni previste dal codice di rete tipo di distribuzione gas approvato dall'Autorita', quali l'allacciamento e l'attivazione di nuove utenze, il cambio di fornitore, gli altri servizi richiesti dall'utenza, l'allocazione del gas alle societa' di vendita e alle singole utenze, per un numero di clienti pari a quello dell'ambito oggetto di gara;   
-b.2.3. esperienza di almeno cinque anni nel settore gas e nella funzione specifica per i responsabili delle funzioni di ingegneria, vettoriamento, qualita' del servizio e gestione operativa dell'impresa, risultante dai curriculum vitae allegati all'offerta;   
-c. Possesso di certificazione di qualita' aziendale UNI ISO 9001 conseguita nella gestione di infrastrutture a rete energetiche o idriche;   
-d. Esperienza di operare in conformita' con la regolazione di sicurezza, da dimostrare mediante predisposizione di procedure di gestione delle operazioni di sicurezza nel rispetto delle norme tecniche vigenti,
+2.
 
-((come previste all'articolo 12, comma 12.8, della Regolazione della qualita' dei servizi di distribuzione e misura del gas 2014-2019, Allegato A della [deliberazione 574/2013/R/gas](http://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:2013;574) e successive modifiche e integrazioni.))
+Sono esclusi dalla partecipazione alla gara i soggetti che sono incorsi in una delle cause di esclusione di cui all'[articolo 38 del decreto legislativo 12 aprile 2006, n. 163](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), come da ultimo modificato dall'[art.4, comma 2, lettera b) del decreto-legge 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com2-letb). Non rientra nelle cause di esclusione automatica la applicazione di sanzioni da parte dell'Autorita' dell'energia elettrica e il gas.
 
-7. Per i raggruppamenti temporanei di impresa e per i consorzi ordinari si applicano le disposizioni di cui all'[articolo 37 del decreto legislativo 12 aprile 2006, n. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163~art37). I singoli partecipanti al raggruppamento devono possedere individualmente i requisiti di cui ai commi 1, 2, 3, 4, alle lettere a), c) e d) del comma 6. I requisiti di cui al comma 5 e alla lettera b) del comma 6 devono essere posseduti cumulativamente dalle imprese partecipanti al raggruppamento temporaneo o al consorzio, con l'obbligo per l'impresa mandataria di possedere tali requisiti in misura minima del 40%. Nel caso di partecipazione di una nuova societa' di capitali costituita dalla partecipazione di differenti imprese, questa puo' far valere i requisiti di cui al comma 5 e alla lettera b) del comma 6 posseduti cumulativamente dalle imprese partecipanti alla medesima societa'.
+3.
 
-8. I rappresentanti legali di un raggruppamento temporaneo di imprese o di un consorzio ordinario si devono impegnare, in caso di aggiudicazione della gara, a costituire, entro un mese dall'aggiudicazione medesima, un soggetto giuridico unitario avente la forma di societa' di capitali e ad adempiere solidalmente a tutti gli obblighi assunti dal nuovo soggetto. Il nuovo soggetto sottoscrive il contratto di servizio. La capogruppo deve anche impegnarsi a far parte del nuovo soggetto per tutta la durata dell'affidamento del servizio e le mandanti per almeno 5 anni dal primo affidamento. Qualora una impresa mandante ceda la propria partecipazione nel soggetto giuridico unitario, l'acquirente della partecipazione deve sottoporre preventivamente, al soggetto di cui all'articolo 2, comma 5, la documentazione attestante il possesso di requisiti di capacita' economica e finanziaria e di capacita' tecnica in misura non inferiore a quella detenuta dall'impresa cedente la partecipazione, che e' stata utilizzata ai fini del rispetto dei requisiti di partecipazione alla gara del raggruppamento di imprese, di cui al comma 7. Il soggetto di cui all'articolo 2, comma 5, puo' fare osservazioni entro 30 giorni dalla ricezione della documentazione relativa.
+Non possono partecipare alla medesima gara concorrenti che si trovino, rispetto ad un altro partecipante alla medesima procedura di affidamento, in una situazione di controllo di cui all'[articolo 2359 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2359) o in una qualsiasi relazione, anche di fatto, se la situazione di controllo o la relazione comporti che le offerte sono imputabili ad un unico centro decisionale. E' fatto anche divieto ai concorrenti di partecipare alla gara in piu' di un raggruppamento temporaneo o consorzio ordinario di concorrenti, ovvero di partecipare alla gara anche in forma individuale qualora partecipino in un raggruppamento temporaneo o consorzio ordinario di concorrenti.
 
-9. La stazione appaltante ha la facolta' di verificare il possesso dei requisiti in accordo a quanto previsto all'[articolo 48 del decreto legislativo 12 aprile 2006, n. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163~art48).
+4.
 
-10. Il gestore subentrante e' tenuto al rispetto degli obblighi sulla tutela all'occupazione del personale dei gestori uscenti di cui al decreto di cui all'[articolo 28, comma 6, decreto legislativo 23 maggio 2000, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164~art28-com6).
+I partecipanti alla gara devono essere in regola con l'assolvimento degli obblighi previsti dalle norme che disciplinano il diritto al lavoro di disabili di cui alla [legge 12 marzo 1999, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-12;68), devono dichiarare che non si sono avvalsi dei piani individuali di emersione del lavoro sommerso di cui alla [legge 18 ottobre 2001, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-10-18;383) e al [decreto legislativo 25 settembre 2002, n. 210](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2002-09-25;210) o che, qualora se ne siano avvalsi, i piani si sono conclusi, e dimostrare il possesso da almeno un anno di un adeguato codice etico.
 
-Art. 11
--------
+5.
 
-Commissione di gara
+I soggetti partecipanti alla gara devono possedere i seguenti requisiti di capacita' economica e finanziaria: 
+ a. un fatturato medio annuo nel triennio precedente all'indizione della gara, almeno pari al 50% del valore annuo del servizio oggetto di gara, da dimostrare con i dati di bilancio della societa' partecipante alla gara o con i dati del bilancio consolidato della sua controllante, relativi agli ultimi tre anni; 
+ b. in alternativa, possedere garanzie finanziarie da due primari istituti di credito attestanti che l'impresa negli ultimi tre anni ha fatto fronte ai propri impegni e che ha la possibilita' di accedere al credito per un valore pari o superiore alla somma del 50% del valore annuo del servizio oggetto di gara e del valore di rimborso ai gestori uscenti nell'ambito di gara, inclusi quelli relativi agli impianti con scadenza ope legis successiva alla gara.
 
-1. La commissione di gara e' composta da cinque esperti di comprovata esperienza nel campo della distribuzione gas o dei servizi pubblici locali.
+6.
 
-2. I commissari, incluso il presidente, sono nominati dalla stazione appaltante.
+I soggetti partecipanti alla gara devono possedere i seguenti requisiti di capacita' tecnica: 
+ a. Iscrizione al registro delle imprese della Camera di commercio, industria, artigianato e agricoltura con capacita' di operare nell'ambito dei servizi di distribuzione gas; oppure, per i soggetti aventi sede in uno Stato dell'Unione Europea diverso dall'Italia, analoga iscrizione in registri professionali di organismi equivalenti; 
+ b. Esperienza gestionale da dimostrare in base a: 
+ b1. titolarita' di concessioni di impianti di distribuzione del gas naturale per un numero complessivo di clienti pari almeno al 50% del numero di clienti effettivi dell'ambito oggetto della gara, da possedere al momento della partecipazione alla gara o precedentemente, purche' in data non anteriore a 18 mesi dalla scadenza della presentazione della domanda di partecipazione alla gara. Nella prima gara di ciascun ambito le imprese di distribuzione di gas naturale che alla data di entrata in vigore del presente regolamento sono titolari di concessioni che servono il 50% del numero di clienti effettivi dell'ambito oggetto di gara soddisfano il presente requisito; 
+ b2. in alternativa al punto b1. rispetto di tutti e tre i seguenti requisiti: 
+ b.2.1. titolarita' di concessioni di impianti di distribuzione di gas naturale, da possedere non anteriormente a 36 mesi dalla scadenza della presentazione della domanda di partecipazione alla gara, o, da almeno 18 mesi dalla scadenza della presentazione della domanda di partecipazione alla gara, titolarita' di concessioni di impianti di distribuzione di GPL, oppure di miscela aria-propano, di energia elettrica, o di acqua o di reti urbane di teleriscaldamento Nella prima gara di ciascun ambito le imprese di distribuzione di gas naturale che alla data di entrata in vigore del presente regolamento sono titolari di concessioni di gas naturale soddisfano il presente requisito; 
+ b.2.2. dimostrazione di avere, dal momento dell'affidamento del primo impianto, la capacita' di gestire gli impianti di distribuzione gas dell'ambito oggetto di gara, fornendo in particolare la dimostrazione di: 
+ b.2.2.1. disponibilita' di strutture, mezzi e personale a livello manageriale per la gestione delle situazioni di emergenze gas (pronto intervento e incidenti gas); 
+ b.2.2.2. disponibilita' di personale a livello manageriale e di funzione centrale, di strutture, quali sale controllo, di mezzi tecnici e di sistemi informativi adeguati a garantire il monitoraggio, il controllo e lo sviluppo della rete gas dell'ambito di gara e a gestire le operazioni previste dal codice di rete tipo di distribuzione gas approvato dall'Autorita', quali l'allacciamento e l'attivazione di nuove utenze, il cambio di fornitore, gli altri servizi richiesti dall'utenza, l'allocazione del gas alle societa' di vendita e alle singole utenze, per un numero di clienti pari a quello dell'ambito oggetto di gara; 
+ b.2.3. esperienza di almeno cinque anni nel settore gas e nella funzione specifica per i responsabili delle funzioni di ingegneria, vettoriamento, qualita' del servizio e gestione operativa dell'impresa, risultante dai curriculum vitae allegati all'offerta; 
+ c. Possesso di certificazione di qualita' aziendale UNI ISO 9001 conseguita nella gestione di infrastrutture a rete energetiche o idriche; 
+ d. Esperienza di operare in conformita' con la regolazione di sicurezza, da dimostrare mediante predisposizione di procedure di gestione delle operazioni di sicurezza nel rispetto delle norme tecniche vigenti, ((come previste all'articolo 12, comma 12.8, della Regolazione della qualita' dei servizi di distribuzione e misura del gas 2014-2019, Allegato A della deliberazione 574/2013/R/gas e successive modifiche e integrazioni.))
 
-3. La nomina dei commissari e la costituzione della commissione devono avvenire dopo la scadenza del termine fissato per la presentazione dell'offerta.
+7.
 
-4. I commissari di cui al comma 2, oltre a soddisfare i requisiti di cui ai commi 6, 7 e 8, nei cinque anni precedenti la scadenza della presentazione della domanda di partecipazione alla gara, non devono essere stati pubblici amministratori o dipendenti degli Enti locali appartenenti all'ambito di gara ne' della relativa Provincia o Regione; inoltre, in tale periodo, non devono aver avuto alcun rapporto di collaborazione con le suddette istituzioni, ad eccezione di eventuali partecipazioni a commissioni di gara.
+Per i raggruppamenti temporanei di impresa e per i consorzi ordinari si applicano le disposizioni di cui all'[articolo 37 del decreto legislativo 12 aprile 2006, n. 163](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md). I singoli partecipanti al raggruppamento devono possedere individualmente i requisiti di cui ai commi 1, 2, 3, 4, alle lettere a), c) e d) del comma 6. I requisiti di cui al comma 5 e alla lettera b) del comma 6 devono essere posseduti cumulativamente dalle imprese partecipanti al raggruppamento temporaneo o al consorzio, con l'obbligo per l'impresa mandataria di possedere tali requisiti in misura minima del 40%. Nel caso di partecipazione di una nuova societa' di capitali costituita dalla partecipazione di differenti imprese, questa puo' far valere i requisiti di cui al comma 5 e alla lettera b) del comma 6 posseduti cumulativamente dalle imprese partecipanti alla medesima societa'.
 
-5. I commissari sono scelti tra professionisti iscritti da almeno dieci anni negli albi professionali o laureati con almeno dieci anni di esperienza nel settore gas presso imprese e/o istituzioni o professori universitari di ruolo.
+8.
 
-6. I commissari non devono essere in potenziale conflitto di interesse, e in particolare, oltre a soddisfare i requisiti di cui al comma 4, non devono aver svolto nel biennio precedente ne' possono svolgere alcun'altra funzione o incarico tecnico o amministrativo relativamente allo specifico contratto di affidamento.
+I rappresentanti legali di un raggruppamento temporaneo di imprese o di un consorzio ordinario si devono impegnare, in caso di aggiudicazione della gara, a costituire, entro un mese dall'aggiudicazione medesima, un soggetto giuridico unitario avente la forma di societa' di capitali e ad adempiere solidalmente a tutti gli obblighi assunti dal nuovo soggetto. Il nuovo soggetto sottoscrive il contratto di servizio. La capogruppo deve anche impegnarsi a far parte del nuovo soggetto per tutta la durata dell'affidamento del servizio e le mandanti per almeno 5 anni dal primo affidamento. Qualora una impresa mandante ceda la propria partecipazione nel soggetto giuridico unitario, l'acquirente della partecipazione deve sottoporre preventivamente, al soggetto di cui all'articolo 2, comma 5, la documentazione attestante il possesso di requisiti di capacita' economica e finanziaria e di capacita' tecnica in misura non inferiore a quella detenuta dall'impresa cedente la partecipazione, che e' stata utilizzata ai fini del rispetto dei requisiti di partecipazione alla gara del raggruppamento di imprese, di cui al comma 7. Il soggetto di cui all'articolo 2, comma 5, puo' fare osservazioni entro 30 giorni dalla ricezione della documentazione relativa.
 
-7. Sono esclusi dalla nomina a commissario coloro che, in qualita' di membri delle commissioni giudicatrici, abbiano concorso, con dolo o colpa grave, accertati in sede giurisdizionale con sentenza non sospesa, all'approvazione di atti dichiarati illegittimi.
+9.
 
-8. Si applicano ai commissari le cause di astensione previste dall'[articolo 51 del codice di procedura civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art51).
+La stazione appaltante ha la facolta' di verificare il possesso dei requisiti in accordo a quanto previsto all'[articolo 48 del decreto legislativo 12 aprile 2006, n. 163](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md).
 
-Note all'art. 11:   
-Si riporta il testo dell' [articolo 51 del Codice di procedura civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art51):   
-"Art. 51. Astensione del giudice.   
-Il giudice ha l'obbligo di astenersi:   
-1) se ha interesse nella causa o in altra vertente su identica questione di diritto;   
-2) se egli stesso o la moglie e' parente fino al quarto grado o legato da vincoli di affiliazione, o e' convivente o commensale abituale di una delle parti o di alcuno dei difensori;   
-3) se egli stesso o la moglie ha causa pendente o grave inimicizia o rapporti di credito o debito con una delle parti o alcuno dei suoi difensori;   
-4) se ha dato consiglio o prestato patrocinio nella causa, o ha deposto in essa come testimone, oppure ne ha conosciuto come magistrato in altro grado del processo o come arbitro o vi ha prestato assistenza come consulente tecnico;   
-5) se e' tutore, curatore, amministratore di sostegno, procuratore, agente o datore di lavoro di una delle parti; se, inoltre, e' amministratore o gerente di un ente, di un'associazione anche non riconosciuta, di un comitato, di una societa' o stabilimento che ha interesse nella causa.   
-In ogni altro caso in cui esistono gravi ragioni di convenienza, il giudice puo' richiedere al capo dell'ufficio l'autorizzazione ad astenersi; quando l'astensione riguarda il capo dell'ufficio l'autorizzazione e' chiesta al capo dell'ufficio superiore.".
+10.
 
-Art. 12
--------
+Il gestore subentrante e' tenuto al rispetto degli obblighi sulla tutela all'occupazione del personale dei gestori uscenti di cui al decreto di cui all'[articolo 28, comma 6, decreto legislativo 23 maggio 2000, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md).
 
-Criteri di aggiudicazione delle offerte
+## Art. 11. — Commissione di gara
 
-1. L'aggiudicazione e' effettuata con il criterio dell'offerta economicamente piu' vantaggiosa in base ai seguenti criteri:   
-a. condizioni economiche di cui all'articolo 13;   
-b. criteri di sicurezza e di qualita' di cui all'articolo 14;   
-c. piani di sviluppo degli impianti di cui all'articolo 15.
+1.
 
-2. Il disciplinare di gara specifica dettagliatamente per ciascun criterio di valutazione i sub-criteri e i relativi punteggi, che possono essere modificati in base alle specificita' della rete e alle esigenze locali, purche' giustificati nella nota di cui all'articolo 9, comma 1. Il disciplinare di gara tipo in allegato 3 fornisce indicazioni piu' dettagliate sui sub-criteri.
+La commissione di gara e' composta da cinque esperti di comprovata esperienza nel campo della distribuzione gas o dei servizi pubblici locali.
 
-Art. 13
--------
+2.
 
-Condizioni economiche
+I commissari, incluso il presidente, sono nominati dalla stazione appaltante.
 
-1. Le condizioni economiche oggetto di gara sono:   
-a. Entita' dello sconto tariffario rispetto alle tariffe previste dall'Autorita', espressa come percentuale del valore massimo dello sconto. Il valore massimo dello sconto e' pari in ciascun anno alla somma di:   
-i. la quota annua di ammortamento
+3.
 
-((...))
+La nomina dei commissari e la costituzione della commissione devono avvenire dopo la scadenza del termine fissato per la presentazione dell'offerta.
 
-della differenza fra il valore complessivo di rimborso ai gestori uscenti e la somma delle immobilizzazioni nette di localita' appartenenti all'ambito, al netto dei contributi pubblici capitalizzati e dei contributi privati relativi ai cespiti di localita', da ammortizzare nei 12 anni di durata dell'affidamento ed includendo in entrambi i parametri gli impianti con scadenza ope legis successiva alla gara;
+4.
 
-((tale termine ha valore zero se la sopracitata differenza e' negativa;))
+I commissari di cui al comma 2, oltre a soddisfare i requisiti di cui ai commi 6, 7 e 8, nei cinque anni precedenti la scadenza della presentazione della domanda di partecipazione alla gara, non devono essere stati pubblici amministratori o dipendenti degli Enti locali appartenenti all'ambito di gara ne' della relativa Provincia o Regione; inoltre, in tale periodo, non devono aver avuto alcun rapporto di collaborazione con le suddette istituzioni, ad eccezione di eventuali partecipazioni a commissioni di gara.
 
-  
-ii. gli oneri annuali versati al soggetto di cui all'articolo 2 comma 5, previsti nell'articolo 8 comma 2, nella misura riconosciuta in tariffa;   
-b. sconto sui corrispettivi di prestazioni di servizi rispetto a corrispettivi di riferimento;   
-c. metri di rete per cliente per cui il distributore si impegna a realizzare, in Comuni gia' metanizzati, estensioni successive non previste nel piano di sviluppo degli impianti, anche eventualmente differenziati per i Comuni in condizioni di disagio, quali alcuni comuni montani, qualora gli Enti locali e la stazione appaltante, in conformita' con le linee guida programmatiche d'ambito, ne ravvisano la necessita';   
-d. percentuale della remunerazione del capitale di localita' relativo ai servizi di distribuzione e misura e della relativa quota di ammortamento annuale, a favore degli Enti locali concedenti,
+5.
 
-((con un tetto del 10%))
+I commissari sono scelti tra professionisti iscritti da almeno dieci anni negli albi professionali o laureati con almeno dieci anni di esperienza nel settore gas presso imprese e/o istituzioni o professori universitari di ruolo.
 
-;   
+6.
 
-((e) investimenti di efficienza energetica da effettuare nell'ambito gestito, addizionali rispetto agli eventuali obiettivi annuali del distributore di gas naturale previsti dall'articolo 4, comma 4, del decreto ministeriale 28 dicembre 2012 e sue successive modificazioni e integrazioni, che danno luogo all'emissione di titoli di efficienza energetica il cui valore e' riconosciuto agli Enti locali concedenti con le modalita' di cui all'articolo 8, comma 6. I titoli di efficienza energetica, associati ai risparmi certificati dal GSE, utilizzabili per soddisfare gli impegni assunti dal distributore in sede di gara, devono derivare da progetti di riduzione dei consumi di energia primaria nel territorio dell'ambito oggetto di gara, aventi data di prima attivazione successiva al 10 febbraio 2012. Il distributore puo' anche acquistare, tramite specifici accordi, i titoli relativi ai risparmi di energia primaria ottenuti in uno specifico periodo di rendicontazione da progetti eseguiti, alle medesime condizioni, da altri soggetti. Sono ammissibili tutte le tipologie di titoli, in particolare quelle previste dai decreti ministeriali 20 luglio 2004 e successive modificazioni ed integrazioni, dal [decreto legislativo 3 marzo 2011, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-03-03;28) e dal decreto ministeriale 28 dicembre 2012, relative a riduzione dei consumi sugli usi finali di gas naturale o di energia elettrica, o in riduzione di altri combustibili, dal decreto ministeriale 5 settembre 2011, pubblicato in Gazzetta Ufficiale del 19 settembre 2011, n. 218, relativamente a impianti di cogenerazione ad alto rendimento, in caso di titoli non ritirati direttamente dal GSE, nonche' i risparmi di energia primaria derivati da interventi per rendere piu' efficienti le reti elettriche o del gas naturale di cui all'[articolo 29, comma 3, del decreto legislativo 3 marzo 2011, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-03-03;28~art29-com3). Il distributore trasmette annualmente i volumi di gas naturale distribuiti all'Autorita', per la determinazione degli obiettivi annuali, che vengono comunicati ai distributori dal GSE. Il GSE, in qualita' di soggetto responsabile dell'attivita' di gestione del meccanismo di certificazione dei titoli di efficienza energetica, definisce apposite procedure operative per la valutazione, certificazione ed annullamento su base annuale dei risparmi associati agli interventi di efficienza energetica che possono essere utilizzati dal distributore d'ambito per l'assolvimento dell'obbligo assunto in sede di gara, nonche' definisce le procedure relative agli accordi tra il distributore d'ambito e gli altri soggetti per l'acquisto dei relativi titoli di efficienza energetica. Le procedure sono approvate dal Ministero dello Sviluppo Economico, sentita l'Autorita'. Il GSE verifica il rispetto degli obiettivi annuali e comunica l'esito al distributore, al Ministero dello sviluppo economico, all'Autorita' e al soggetto individuato ai sensi dell'articolo 2, comma 5, del presente regolamento.))
+I commissari non devono essere in potenziale conflitto di interesse, e in particolare, oltre a soddisfare i requisiti di cui al comma 4, non devono aver svolto nel biennio precedente ne' possono svolgere alcun'altra funzione o incarico tecnico o amministrativo relativamente allo specifico contratto di affidamento.
 
-2. Il punteggio massimo per lo sconto tariffario di cui alla lettera a del comma 1 e' 13 punti, per l'insieme delle condizioni economiche di cui alle lettere b e c del comma 1 e' 5 punti, per la condizione di cui alla lettera d del comma 1 e' di 5 punti e per gli investimenti di efficienza energetica di cui alla lettera e del comma 1 e' di 5 punti.
+7.
 
-3. La ripartizione dei punteggi fra le due condizioni di cui alle lettere b e c del comma 1 dipende dal livello di metanizzazione dell'ambito e dalla stima del valore economico, in corrispondenza del massimo punteggio, per ciascuna condizione. Negli ambiti in cui si e' gia' raggiunto un elevato livello di metanizzazione, la stazione appaltante attribuisce un basso valore al punteggio massimo per la condizione di cui al comma 1, lettera c.
+Sono esclusi dalla nomina a commissario coloro che, in qualita' di membri delle commissioni giudicatrici, abbiano concorso, con dolo o colpa grave, accertati in sede giurisdizionale con sentenza non sospesa, all'approvazione di atti dichiarati illegittimi.
 
-4. Qualora, per la condizione di cui alla lettera b del comma 1, lo sconto totale sui corrispettivi di prestazione dei servizi o, per la condizione di cui alla lettera c del comma 1, una lunghezza eccessiva dell'estensione di rete comporti un importo troppo grande da incidere significativamente sulla redditivita' economica finanziaria dell'impresa, a potenziale discapito della qualita' del servizio e della sicurezza, o sia ritenuto tale da dar luogo a richieste di prestazioni inutili da parte dei clienti, la stazione appaltante stabilisce una soglia allo sconto o alla lunghezza dell'estensione di rete, al di sopra della quale il punteggio non aumenta.
+8.
 
-5. Nel caso di non raggiungimento del numero di titoli di efficienza energetica di cui alla lettera e del comma 1, il gestore versa comunque agli Enti locali concedenti un ammontare pari al valore dei titoli di efficienza energetica per cui si e' impegnato in sede di gara, valutati secondo il prezzo unitario previsto dall'Autorita' e con le modalita' indicate all'articolo 8 comma 6, oltre ad una penale, per mancato rispetto del parametro di gara offerto, da prevedere nel contratto di servizio.
+Si applicano ai commissari le cause di astensione previste dall'[articolo 51 del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_51).
 
-((Sono previsti due anni di tolleranza))
+Note all'art. 11: 
+ Si riporta il testo dell' [articolo 51 del Codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_51): 
+ "Art. 51. Astensione del giudice. 
+ Il giudice ha l'obbligo di astenersi: 
+ 1) se ha interesse nella causa o in altra vertente su identica questione di diritto; 
+ 2) se egli stesso o la moglie e' parente fino al quarto grado o legato da vincoli di affiliazione, o e' convivente o commensale abituale di una delle parti o di alcuno dei difensori; 
+ 3) se egli stesso o la moglie ha causa pendente o grave inimicizia o rapporti di credito o debito con una delle parti o alcuno dei suoi difensori; 
+ 4) se ha dato consiglio o prestato patrocinio nella causa, o ha deposto in essa come testimone, oppure ne ha conosciuto come magistrato in altro grado del processo o come arbitro o vi ha prestato assistenza come consulente tecnico; 
+ 5) se e' tutore, curatore, amministratore di sostegno, procuratore, agente o datore di lavoro di una delle parti; se, inoltre, e' amministratore o gerente di un ente, di un'associazione anche non riconosciuta, di un comitato, di una societa' o stabilimento che ha interesse nella causa. 
+ In ogni altro caso in cui esistono gravi ragioni di convenienza, il giudice puo' richiedere al capo dell'ufficio l'autorizzazione ad astenersi; quando l'astensione riguarda il capo dell'ufficio l'autorizzazione e' chiesta al capo dell'ufficio superiore.".
 
-entro cui il gestore, senza oneri addizionali, puo' completare gli investimenti previsti nell'anno precedente.
+## Art. 12. — Criteri di aggiudicazione delle offerte
 
-Art. 14
--------
+1.
 
-Criteri di sicurezza e qualita' del servizio
+L'aggiudicazione e' effettuata con il criterio dell'offerta economicamente piu' vantaggiosa in base ai seguenti criteri: 
+ a. condizioni economiche di cui all'articolo 13; 
+ b. criteri di sicurezza e di qualita' di cui all'articolo 14; 
+ c. piani di sviluppo degli impianti di cui all'articolo 15.
 
-1. I criteri relativi alla sicurezza da considerare nella valutazione della gara sono i livelli incrementali, rispetto agli obblighi
+2.
 
-((...))
+Il disciplinare di gara specifica dettagliatamente per ciascun criterio di valutazione i sub-criteri e i relativi punteggi, che possono essere modificati in base alle specificita' della rete e alle esigenze locali, purche' giustificati nella nota di cui all'articolo 9, comma 1. Il disciplinare di gara tipo in allegato 3 fornisce indicazioni piu' dettagliate sui sub-criteri.
 
-fissati dall'Autorita', che l'impresa concorrente si impegna a rispettare nell'ambito oggetto di gara in ciascun anno del periodo di affidamento per i seguenti parametri di sicurezza:   
-i. percentuale annua di rete di media e alta pressione sottoposta ad ispezione, di cui all'articolo 4 della Regolazione della qualita' dei servizi di distribuzione e misura del gas, allegata alla
+## Art. 13. — Condizioni economiche
 
-((deliberazione dell'Autorita' 574/2013/R/gas e successive modifiche e integrazioni.))
+1.
 
-;   
-ii. percentuale annua di rete di bassa pressione sottoposta ad ispezione, di cui all'articolo 5 della Regolazione della qualita' dei servizi di distribuzione e misura del gas, allegata alla
+Le condizioni economiche oggetto di gara sono: 
+ a. Entita' dello sconto tariffario rispetto alle tariffe previste dall'Autorita', espressa come percentuale del valore massimo dello sconto. Il valore massimo dello sconto e' pari in ciascun anno alla somma di: 
+ i. la quota annua di ammortamento ((...)) della differenza fra il valore complessivo di rimborso ai gestori uscenti e la somma delle immobilizzazioni nette di localita' appartenenti all'ambito, al netto dei contributi pubblici capitalizzati e dei contributi privati relativi ai cespiti di localita', da ammortizzare nei 12 anni di durata dell'affidamento ed includendo in entrambi i parametri gli impianti con scadenza ope legis successiva alla gara; ((tale termine ha valore zero se la sopracitata differenza e' negativa;)) 
+ ii. gli oneri annuali versati al soggetto di cui all'articolo 2 comma 5, previsti nell'articolo 8 comma 2, nella misura riconosciuta in tariffa; 
+ b. sconto sui corrispettivi di prestazioni di servizi rispetto a corrispettivi di riferimento; 
+ c. metri di rete per cliente per cui il distributore si impegna a realizzare, in Comuni gia' metanizzati, estensioni successive non previste nel piano di sviluppo degli impianti, anche eventualmente differenziati per i Comuni in condizioni di disagio, quali alcuni comuni montani, qualora gli Enti locali e la stazione appaltante, in conformita' con le linee guida programmatiche d'ambito, ne ravvisano la necessita'; 
+ d. percentuale della remunerazione del capitale di localita' relativo ai servizi di distribuzione e misura e della relativa quota di ammortamento annuale, a favore degli Enti locali concedenti, ((con un tetto del 10%)); 
+ ((e) investimenti di efficienza energetica da effettuare nell'ambito gestito, addizionali rispetto agli eventuali obiettivi annuali del distributore di gas naturale previsti dall'articolo 4, comma 4, del decreto ministeriale 28 dicembre 2012 e sue successive modificazioni e integrazioni, che danno luogo all'emissione di titoli di efficienza energetica il cui valore e' riconosciuto agli Enti locali concedenti con le modalita' di cui all'articolo 8, comma 6. I titoli di efficienza energetica, associati ai risparmi certificati dal GSE, utilizzabili per soddisfare gli impegni assunti dal distributore in sede di gara, devono derivare da progetti di riduzione dei consumi di energia primaria nel territorio dell'ambito oggetto di gara, aventi data di prima attivazione successiva al 10 febbraio 2012. Il distributore puo' anche acquistare, tramite specifici accordi, i titoli relativi ai risparmi di energia primaria ottenuti in uno specifico periodo di rendicontazione da progetti eseguiti, alle medesime condizioni, da altri soggetti. Sono ammissibili tutte le tipologie di titoli, in particolare quelle previste dai decreti ministeriali 20 luglio 2004 e successive modificazioni ed integrazioni, dal decreto legislativo 3 marzo 2011, n. 28 e dal decreto ministeriale 28 dicembre 2012, relative a riduzione dei consumi sugli usi finali di gas naturale o di energia elettrica, o in riduzione di altri combustibili, dal decreto ministeriale 5 settembre 2011, pubblicato in Gazzetta Ufficiale del 19 settembre 2011, n. 218, relativamente a impianti di cogenerazione ad alto rendimento, in caso di titoli non ritirati direttamente dal GSE, nonche' i risparmi di energia primaria derivati da interventi per rendere piu' efficienti le reti elettriche o del gas naturale di cui all'articolo 29, comma 3, del decreto legislativo 3 marzo 2011, n. 28. Il distributore trasmette annualmente i volumi di gas naturale distribuiti all'Autorita', per la determinazione degli obiettivi annuali, che vengono comunicati ai distributori dal GSE. Il GSE, in qualita' di soggetto responsabile dell'attivita' di gestione del meccanismo di certificazione dei titoli di efficienza energetica, definisce apposite procedure operative per la valutazione, certificazione ed annullamento su base annuale dei risparmi associati agli interventi di efficienza energetica che possono essere utilizzati dal distributore d'ambito per l'assolvimento dell'obbligo assunto in sede di gara, nonche' definisce le procedure relative agli accordi tra il distributore d'ambito e gli altri soggetti per l'acquisto dei relativi titoli di efficienza energetica. Le procedure sono approvate dal Ministero dello Sviluppo Economico, sentita l'Autorita'. Il GSE verifica il rispetto degli obiettivi annuali e comunica l'esito al distributore, al Ministero dello sviluppo economico, all'Autorita' e al soggetto individuato ai sensi dell'articolo 2, comma 5, del presente regolamento.))
 
-((deliberazione dell'Autorita' 574/2013/R/gas e successive modifiche e integrazioni.))
+2.
 
-;   
-iii. percentuale di chiamate di pronto intervento con tempo di arrivo entro 60 minuti, di cui all'articolo 10 della Regolazione della qualita' dei servizi di distribuzione e misura del gas, allegata alla
+Il punteggio massimo per lo sconto tariffario di cui alla lettera a del comma 1 e' 13 punti, per l'insieme delle condizioni economiche di cui alle lettere b e c del comma 1 e' 5 punti, per la condizione di cui alla lettera d del comma 1 e' di 5 punti e per gli investimenti di efficienza energetica di cui alla lettera e del comma 1 e' di 5 punti.
 
-((deliberazione dell'Autorita' 574/2013/R/gas e successive modifiche e integrazioni.))
+3.
 
-;   
-iv. numero annuo convenzionale di misure del grado di odorizzazione di gas per migliaio di clienti finali effettuate nel rispetto di quanto previsto dall'articolo 8 e dall'articolo 32, comma 32.2, lettera a) della Regolazione della qualita' dei servizi di distribuzione e misura del gas, allegata alla
+La ripartizione dei punteggi fra le due condizioni di cui alle lettere b e c del comma 1 dipende dal livello di metanizzazione dell'ambito e dalla stima del valore economico, in corrispondenza del massimo punteggio, per ciascuna condizione. Negli ambiti in cui si e' gia' raggiunto un elevato livello di metanizzazione, la stazione appaltante attribuisce un basso valore al punteggio massimo per la condizione di cui al comma 1, lettera c.
 
-((deliberazione dell'Autorita' 574/2013/R/gas e successive modifiche e integrazioni.))
+4.
 
-((5))
+Qualora, per la condizione di cui alla lettera b del comma 1, lo sconto totale sui corrispettivi di prestazione dei servizi o, per la condizione di cui alla lettera c del comma 1, una lunghezza eccessiva dell'estensione di rete comporti un importo troppo grande da incidere significativamente sulla redditivita' economica finanziaria dell'impresa, a potenziale discapito della qualita' del servizio e della sicurezza, o sia ritenuto tale da dar luogo a richieste di prestazioni inutili da parte dei clienti, la stazione appaltante stabilisce una soglia allo sconto o alla lunghezza dell'estensione di rete, al di sopra della quale il punteggio non aumenta.
 
-2. Il criterio relativo alla qualita' del servizio e' il livello incrementale, rispetto all'obbligo fissato dall'Autorita', che l'impresa concorrente si impegna a rispettare nell'ambito oggetto di gara per un parametro della qualita' del servizio, scelto dalla stazione appaltante, tra quelli fissati nel Testo integrato della regolazione della qualita' dei servizi di distribuzione e misura del gas emanato dall'Autorita', vigente al momento dell'emissione del bando di gara. Per un ambito con un basso livello di metanizzazione puo' essere scelto il tempo di attivazione della fornitura, mentre per ambiti in cui e' stato raggiunto un buon livello di maturita' della metanizzazione puo' essere scelta la fascia di puntualita' per gli appuntamenti o il tempo di risposta ai reclami od altri parametri piu' attinenti alle caratteristiche dell'ambito.
+5.
 
-3. Il punteggio massimo attribuibile ai criteri di sicurezza e' di 22 punti e quello al criterio della qualita' del servizio di 5 punti.
+Nel caso di non raggiungimento del numero di titoli di efficienza energetica di cui alla lettera e del comma 1, il gestore versa comunque agli Enti locali concedenti un ammontare pari al valore dei titoli di efficienza energetica per cui si e' impegnato in sede di gara, valutati secondo il prezzo unitario previsto dall'Autorita' e con le modalita' indicate all'articolo 8 comma 6, oltre ad una penale, per mancato rispetto del parametro di gara offerto, da prevedere nel contratto di servizio. ((Sono previsti due anni di tolleranza)) entro cui il gestore, senza oneri addizionali, puo' completare gli investimenti previsti nell'anno precedente.
 
-4. Il disciplinare di gara tipo di cui all'Allegato 3 riporta in dettaglio gli indicatori da considerare per ciascun parametro al fine dell'attribuzione del punteggio e della verifica annuale, anche in funzione di eventuali variazioni che l'Autorita' abbia deliberato, prima della lettera di invito a presentare l'offerta di gara, di apportare ai livelli obbligatori nei successivi periodi di regolazione, e la specificazione del livello utile per il massimo punteggio. Ad offerte di livelli di sicurezza o di qualita' al di sopra del livello utile per il massimo punteggio non viene attribuito alcun punteggio addizionale. Il livello utile per il massimo punteggio puo' essere modificato dall'Autorita' in concomitanza di variazioni dei livelli obbligatori all'inizio dei successivi periodi regolatori, con impatto solo sulle gare successive alla modifica.
+## Art. 14. — Criteri di sicurezza e qualita' del servizio
 
-5. L'offerta deve essere corredata da una nota sull'organizzazione prevista dall'impresa che giustifichi il valore incrementale offerto per il parametro relativo al pronto intervento
+1.
 
-((di cui al comma 1 punto iii.))
+I criteri relativi alla sicurezza da considerare nella valutazione della gara sono i livelli incrementali, rispetto agli obblighi ((...)) fissati dall'Autorita', che l'impresa concorrente si impegna a rispettare nell'ambito oggetto di gara in ciascun anno del periodo di affidamento per i seguenti parametri di sicurezza: 
+ i. percentuale annua di rete di media e alta pressione sottoposta ad ispezione, di cui all'articolo 4 della Regolazione della qualita' dei servizi di distribuzione e misura del gas, allegata alla ((deliberazione dell'Autorita' 574/2013/R/gas e successive modifiche e integrazioni.)); 
+ ii. percentuale annua di rete di bassa pressione sottoposta ad ispezione, di cui all'articolo 5 della Regolazione della qualita' dei servizi di distribuzione e misura del gas, allegata alla ((deliberazione dell'Autorita' 574/2013/R/gas e successive modifiche e integrazioni.)); 
+ iii. percentuale di chiamate di pronto intervento con tempo di arrivo entro 60 minuti, di cui all'articolo 10 della Regolazione della qualita' dei servizi di distribuzione e misura del gas, allegata alla ((deliberazione dell'Autorita' 574/2013/R/gas e successive modifiche e integrazioni.)); 
+ iv. numero annuo convenzionale di misure del grado di odorizzazione di gas per migliaio di clienti finali effettuate nel rispetto di quanto previsto dall'articolo 8 e dall'articolo 32, comma 32.2, lettera a) della Regolazione della qualita' dei servizi di distribuzione e misura del gas, allegata alla ((deliberazione dell'Autorita' 574/2013/R/gas e successive modifiche e integrazioni.))
+                            ((5))
 
-e al parametro di qualita' di cui al comma 2.
+2.
 
-6. Il contratto di servizio prevede le modalita' per la verifica annuale degli impegni rispetto ai livelli di sicurezza e qualita' offerti, le penali a favore degli Enti locali in caso di non rispetto annuale di tali livelli, con un minimo di 2500 euro ed un massimo di 2,5 milioni di euro, e la previsione di decadenza del contratto in caso di mancato rispetto per tre anni dei livelli offerti al di sotto di un valore soglia, valutato con le modalita' di cui al comma 7.
+Il criterio relativo alla qualita' del servizio e' il livello incrementale, rispetto all'obbligo fissato dall'Autorita', che l'impresa concorrente si impegna a rispettare nell'ambito oggetto di gara per un parametro della qualita' del servizio, scelto dalla stazione appaltante, tra quelli fissati nel Testo integrato della regolazione della qualita' dei servizi di distribuzione e misura del gas emanato dall'Autorita', vigente al momento dell'emissione del bando di gara. Per un ambito con un basso livello di metanizzazione puo' essere scelto il tempo di attivazione della fornitura, mentre per ambiti in cui e' stato raggiunto un buon livello di maturita' della metanizzazione puo' essere scelta la fascia di puntualita' per gli appuntamenti o il tempo di risposta ai reclami od altri parametri piu' attinenti alle caratteristiche dell'ambito.
 
-7. Al fine della previsione di decadenza viene considerato, come indicatore complessivo di sicurezza e qualita', la somma dei punteggi corrispondenti ai livelli effettivi per i parametri di sicurezza e qualita' raggiunti nell'anno, calcolati con le formule utilizzate nel disciplinare di gara, e come valore soglia, da inserire nel contratto di servizio, il valore piu' alto fra:   
-a. il punteggio relativo ai criteri di sicurezza e qualita' in base ai livelli offerti dall'impresa aggiudicataria in sede di gara meno la differenza tra il punteggio complessivo di gara della medesima impresa e quello della seconda classificata;   
-b. il 90% del punteggio relativo ai criteri di sicurezza e qualita' in base ai livelli offerti dall' impresa aggiudicataria in sede di gara.
+3.
+
+Il punteggio massimo attribuibile ai criteri di sicurezza e' di 22 punti e quello al criterio della qualita' del servizio di 5 punti.
+
+4.
+
+Il disciplinare di gara tipo di cui all'Allegato 3 riporta in dettaglio gli indicatori da considerare per ciascun parametro al fine dell'attribuzione del punteggio e della verifica annuale, anche in funzione di eventuali variazioni che l'Autorita' abbia deliberato, prima della lettera di invito a presentare l'offerta di gara, di apportare ai livelli obbligatori nei successivi periodi di regolazione, e la specificazione del livello utile per il massimo punteggio. Ad offerte di livelli di sicurezza o di qualita' al di sopra del livello utile per il massimo punteggio non viene attribuito alcun punteggio addizionale. Il livello utile per il massimo punteggio puo' essere modificato dall'Autorita' in concomitanza di variazioni dei livelli obbligatori all'inizio dei successivi periodi regolatori, con impatto solo sulle gare successive alla modifica.
+
+5.
+
+L'offerta deve essere corredata da una nota sull'organizzazione prevista dall'impresa che giustifichi il valore incrementale offerto per il parametro relativo al pronto intervento ((di cui al comma 1 punto iii.)) e al parametro di qualita' di cui al comma 2.
+
+6.
+
+Il contratto di servizio prevede le modalita' per la verifica annuale degli impegni rispetto ai livelli di sicurezza e qualita' offerti, le penali a favore degli Enti locali in caso di non rispetto annuale di tali livelli, con un minimo di 2500 euro ed un massimo di 2,5 milioni di euro, e la previsione di decadenza del contratto in caso di mancato rispetto per tre anni dei livelli offerti al di sotto di un valore soglia, valutato con le modalita' di cui al comma 7.
+
+7.
+
+Al fine della previsione di decadenza viene considerato, come indicatore complessivo di sicurezza e qualita', la somma dei punteggi corrispondenti ai livelli effettivi per i parametri di sicurezza e qualita' raggiunti nell'anno, calcolati con le formule utilizzate nel disciplinare di gara, e come valore soglia, da inserire nel contratto di servizio, il valore piu' alto fra: 
+ a. il punteggio relativo ai criteri di sicurezza e qualita' in base ai livelli offerti dall'impresa aggiudicataria in sede di gara meno la differenza tra il punteggio complessivo di gara della medesima impresa e quello della seconda classificata; 
+ b. il 90% del punteggio relativo ai criteri di sicurezza e qualita' in base ai livelli offerti dall' impresa aggiudicataria in sede di gara.
 
 ---------------
 
@@ -785,1918 +817,119 @@ AGGIORNAMENTO (5)
 
 Il Decreto 20 maggio 2015, n. 106 ha disposto (con l'art. 1, comma 41) che "All'articolo 14, comma 1, punto iv., le parole "e dall'articolo 32.2, lettera a)" sono soppresse".
 
-Art. 15
--------
+## Art. 15. — Piano di sviluppo degli impianti
 
-Piano di sviluppo degli impianti
+1.
 
-1. Ogni concorrente redige un piano di sviluppo degli impianti, partendo dai documenti guida sugli interventi di estensione e potenziamento della rete ed impianti, di cui all'articolo 9, comma 4, e dallo stato di consistenza di ciascun impianto.
+Ogni concorrente redige un piano di sviluppo degli impianti, partendo dai documenti guida sugli interventi di estensione e potenziamento della rete ed impianti, di cui all'articolo 9, comma 4, e dallo stato di consistenza di ciascun impianto.
 
-2. Il piano e' costituito da una relazione tecnica, che contiene il programma dei lavori e illustra gli interventi, e da elaborati progettuali, in particolare planimetrie e schematiche illustrative degli interventi. Il concorrente ottimizza quanto previsto nel documento guida e puo' prevedere anche interventi integrativi e scostamenti, giustificati evidenziando i benefici a fronte dei corrispondenti costi.
+2.
 
-((Il piano degli investimenti deve evidenziare le richieste di modifica delle condizioni di interfaccia con la rete di trasporto nazionale e/o con le eventuali reti di trasporto regionali, che potrebbero richiedere modifiche impiantistiche.))
+Il piano e' costituito da una relazione tecnica, che contiene il programma dei lavori e illustra gli interventi, e da elaborati progettuali, in particolare planimetrie e schematiche illustrative degli interventi. Il concorrente ottimizza quanto previsto nel documento guida e puo' prevedere anche interventi integrativi e scostamenti, giustificati evidenziando i benefici a fronte dei corrispondenti costi. ((Il piano degli investimenti deve evidenziare le richieste di modifica delle condizioni di interfaccia con la rete di trasporto nazionale e/o con le eventuali reti di trasporto regionali, che potrebbero richiedere modifiche impiantistiche.))
 
-3. I criteri di valutazione del piano degli investimenti riguardano i seguenti aspetti:   
-a. Adeguatezza dell'analisi di assetto di rete e degli impianti e della relativa documentazione;   
-b. Valutazione degli interventi di estensione e potenziamento in termini di:   
-i. accuratezza e dettaglio del progetto e giustificazioni delle scelte anche con analisi di costi-benefici quantitative e, dove non e' possibile, qualitative;   
-ii. miglioramento della continuita' di servizio in caso di disfunzione, tramite la realizzazione di magliature della rete;   
-iii. quantita' di rete complessivamente offerti per estensione e potenziamento, purche' giustificata da analisi di costi-benefici, mettendo in evidenza gli investimenti in zone disagiate come nei comuni montani. Investimenti non adeguatamente giustificati non verranno considerati agli effetti del punteggio;   
-c. Valutazione degli interventi per mantenimento in efficienza della rete e degli impianti in termini di:   
-i. attendibilita' delle proposte di sostituzione per rinnovo della rete e degli allacciamenti, in base alla vita utile e allo stato di conservazione;   
-ii. quantita' di rete complessivamente offerta per rinnovo delle condotte e degli allacciamenti, purche' giustificata da analisi di costi benefici. Investimenti non adeguatamente giustificati non verranno considerati agli effetti del punteggio.   
-d. Innovazione tecnologica, attuata in maniera accelerata o addizionale a quanto previsto dalla regolazione, subordinata alla dimostrazione di credibilita' dell'offerta in impianti di distribuzione gia' gestiti dal distributore, in particolare sara' valutata l'offerta del numero dei seguenti componenti:   
-i. impianti telecontrollati;   
-ii. sistemi di dosaggio ad iniezione dell'odorizzante o equivalenti;   
-iii. sistemi di misura in continuo della protezione catodica;   
-iv. percentuale di tubazioni in acciaio messe in protezione catodica efficace in maniera anticipata rispetto al programma previsto dall'Autorita' nella regolazione della qualita' del servizio;   
-v. contatori elettronici con un programma di messa in servizio accelerato rispetto a quello previsto dall'Autorita'.
+3.
 
-4. Il punteggio massimo attribuibile e' di 45 punti. Negli ambiti in cui la metanizzazione e' in via di sviluppo, il punteggio maggiore e' attribuito alla valutazione delle estensioni e dei potenziamenti, mentre negli ambiti con un grado di metanizzazione gia' maturo alla valutazione del mantenimento in efficienza degli impianti.
+I criteri di valutazione del piano degli investimenti riguardano i seguenti aspetti: 
+ a. Adeguatezza dell'analisi di assetto di rete e degli impianti e della relativa documentazione; 
+ b. Valutazione degli interventi di estensione e potenziamento in termini di: 
+ i. accuratezza e dettaglio del progetto e giustificazioni delle scelte anche con analisi di costi-benefici quantitative e, dove non e' possibile, qualitative; 
+ ii. miglioramento della continuita' di servizio in caso di disfunzione, tramite la realizzazione di magliature della rete; 
+ iii. quantita' di rete complessivamente offerti per estensione e potenziamento, purche' giustificata da analisi di costi-benefici, mettendo in evidenza gli investimenti in zone disagiate come nei comuni montani. Investimenti non adeguatamente giustificati non verranno considerati agli effetti del punteggio; 
+ c. Valutazione degli interventi per mantenimento in efficienza della rete e degli impianti in termini di: 
+ i. attendibilita' delle proposte di sostituzione per rinnovo della rete e degli allacciamenti, in base alla vita utile e allo stato di conservazione; 
+ ii. quantita' di rete complessivamente offerta per rinnovo delle condotte e degli allacciamenti, purche' giustificata da analisi di costi benefici. Investimenti non adeguatamente giustificati non verranno considerati agli effetti del punteggio. 
+ d. Innovazione tecnologica, attuata in maniera accelerata o addizionale a quanto previsto dalla regolazione, subordinata alla dimostrazione di credibilita' dell'offerta in impianti di distribuzione gia' gestiti dal distributore, in particolare sara' valutata l'offerta del numero dei seguenti componenti: 
+ i. impianti telecontrollati; 
+ ii. sistemi di dosaggio ad iniezione dell'odorizzante o equivalenti; 
+ iii. sistemi di misura in continuo della protezione catodica; 
+ iv. percentuale di tubazioni in acciaio messe in protezione catodica efficace in maniera anticipata rispetto al programma previsto dall'Autorita' nella regolazione della qualita' del servizio; 
+ v. contatori elettronici con un programma di messa in servizio accelerato rispetto a quello previsto dall'Autorita'.
 
-5. I criteri di valutazione del piano di sviluppo degli impianti sono prevalentemente qualitativi. Il disciplinare di gara tipo in allegato 3 riporta la griglia dettagliata dei sub-criteri con il corrispondente punteggio indicativo. In base alle specificita' degli ambiti, la stazione appaltante puo' modificare i punteggi, giustificando la modifica nella nota di cui all'articolo 9, comma 1.
+4.
 
-6. Le voci relative all'innovazione tecnologica possono cambiare con il tempo per tenere conto dell'evoluzione tecnologica e della standardizzazione di alcune soluzioni che, alla data di emanazione del presente regolamento, sono ritenute innovative o su cui non vige un obbligo di realizzazione.
+Il punteggio massimo attribuibile e' di 45 punti. Negli ambiti in cui la metanizzazione e' in via di sviluppo, il punteggio maggiore e' attribuito alla valutazione delle estensioni e dei potenziamenti, mentre negli ambiti con un grado di metanizzazione gia' maturo alla valutazione del mantenimento in efficienza degli impianti.
 
-7. Il contratto di servizio riporta il piano dello sviluppo degli impianti, con le previsioni sia delle penalita' economiche sia delle ipotesi di decadenza per i casi in cui il concessionario, per cause da lui dipendenti, non lo rispetti o lo realizzi con eccessivo ritardo. Le penalita', con un minimo di 2500 euro ed un massimo di 2,5 milioni di euro, e le ipotesi di decadenza sono riportate anche nella bozza di contratto di servizio allegata al bando di gara.
+5.
 
-8. L'offerta, al solo fine della giustificazione delle condizioni offerte e della verifica della sostenibilita' economica degli investimenti proposti e delle condizioni offerte di cui ai commi 13 e 14 e, quindi, dell'identificazione di offerte anomali, e' corredata dal piano industriale previsionale per gli anni di durata dell'affidamento redatto secondo lo schema contenuto nel disciplinare di gara tipo e da una nota illustrativa che riporta tra l'altro:   
-a. la metodologia utilizzata per la valutazione dei ricavi;   
-b. la composizione e la giustificazione dei costi di gestione e dei costi indiretti/generali allocati sulla concessione. In particolare e' richiesta una descrizione dettagliata degli organici tecnici del distributore ed i servizi esterni di cui si avvarra', nonche' l'attrezzatura, il materiale e l'equipaggiamento di cui disporra' per l'esecuzione del servizio, oltre ai costi operativi unitari. Inoltre devono essere evidenziati i costi e le modalita' di calcolo correlati ai livelli di sicurezza e qualita' offerti, di cui all'articolo 14;   
-c. la composizione e la giustificazione degli eventuali altri oneri derivanti dall'affidamento, quali gli oneri a favore dei proprietari degli impianti, se diversi dal gestore;   
-d. gli investimenti materiali, valutati secondo il prezzario allegato allo schema di contratto di servizio di cui all'articolo 9, comma 8, ed il loro piano di ammortamento. Nel caso in cui vengano utilizzati valori diversi, devono essere giustificati;   
-e. la composizione e la giustificazione degli investimenti immateriali, incluse le spese di gara e la differenza fra il valore di rimborso ai gestori uscenti e le immobilizzazioni nette valutate ai fini regolatori;   
-f. il valore residuo risultante al termine dell'affidamento;   
-g. le forme di finanziamento che saranno utilizzate.
+I criteri di valutazione del piano di sviluppo degli impianti sono prevalentemente qualitativi. Il disciplinare di gara tipo in allegato 3 riporta la griglia dettagliata dei sub-criteri con il corrispondente punteggio indicativo. In base alle specificita' degli ambiti, la stazione appaltante puo' modificare i punteggi, giustificando la modifica nella nota di cui all'articolo 9, comma 1.
 
-Art. 16
--------
+6.
 
-Offerte anomale
+Le voci relative all'innovazione tecnologica possono cambiare con il tempo per tenere conto dell'evoluzione tecnologica e della standardizzazione di alcune soluzioni che, alla data di emanazione del presente regolamento, sono ritenute innovative o su cui non vige un obbligo di realizzazione.
 
-1. La Commissione valuta la congruita' delle offerte quando la somma dei punti relativi alle condizioni economiche e quelli del piano di investimento e' pari o superiore ai quattro quinti del corrispondente punteggio massimo previsto nel bando di gara.
+7.
 
-2. La Commissione valuta la congruita' delle offerte quando la somma dei punteggi dovuti ai criteri di sicurezza e di qualita' e' pari o superiore ai quattro quinti del corrispondente punteggio massimo previsto nel bando di gara.
+Il contratto di servizio riporta il piano dello sviluppo degli impianti, con le previsioni sia delle penalita' economiche sia delle ipotesi di decadenza per i casi in cui il concessionario, per cause da lui dipendenti, non lo rispetti o lo realizzi con eccessivo ritardo. Le penalita', con un minimo di 2500 euro ed un massimo di 2,5 milioni di euro, e le ipotesi di decadenza sono riportate anche nella bozza di contratto di servizio allegata al bando di gara.
 
-3. La Commissione valuta la congruita' delle offerte quando il tasso interno di redditivita' degli investimenti nel piano industriale di cui all'articolo 15, comma 8, risulta inferiore al
+8.
 
-((4%))
+L'offerta, al solo fine della giustificazione delle condizioni offerte e della verifica della sostenibilita' economica degli investimenti proposti e delle condizioni offerte di cui ai commi 13 e 14 e, quindi, dell'identificazione di offerte anomali, e' corredata dal piano industriale previsionale per gli anni di durata dell'affidamento redatto secondo lo schema contenuto nel disciplinare di gara tipo e da una nota illustrativa che riporta tra l'altro: 
+ a. la metodologia utilizzata per la valutazione dei ricavi; 
+ b. la composizione e la giustificazione dei costi di gestione e dei costi indiretti/generali allocati sulla concessione. In particolare e' richiesta una descrizione dettagliata degli organici tecnici del distributore ed i servizi esterni di cui si avvarra', nonche' l'attrezzatura, il materiale e l'equipaggiamento di cui disporra' per l'esecuzione del servizio, oltre ai costi operativi unitari. Inoltre devono essere evidenziati i costi e le modalita' di calcolo correlati ai livelli di sicurezza e qualita' offerti, di cui all'articolo 14; 
+ c. la composizione e la giustificazione degli eventuali altri oneri derivanti dall'affidamento, quali gli oneri a favore dei proprietari degli impianti, se diversi dal gestore; 
+ d. gli investimenti materiali, valutati secondo il prezzario allegato allo schema di contratto di servizio di cui all'articolo 9, comma 8, ed il loro piano di ammortamento. Nel caso in cui vengano utilizzati valori diversi, devono essere giustificati; 
+ e. la composizione e la giustificazione degli investimenti immateriali, incluse le spese di gara e la differenza fra il valore di rimborso ai gestori uscenti e le immobilizzazioni nette valutate ai fini regolatori; 
+ f. il valore residuo risultante al termine dell'affidamento; 
+ g. le forme di finanziamento che saranno utilizzate.
 
-in termini reali, al netto delle imposte.
+## Art. 16. — Offerte anomale
 
-4. La Commissione verifica sistematicamente che il piano industriale sia in accordo con le istruzioni contenute nel bando di gara e i valori utilizzati siano consistenti con la prassi del settore e della regolazione in vigore.
+1.
 
-5. Qualora nel piano industriale i costi operativi, i ricavi o la valutazione degli investimenti siano differenti da quelli utilizzati dagli altri concorrenti, o comunque le istruzioni appaiono essere state disattese, e le motivazioni nella nota giustificativa non sembrano chiare o plausibili, la Commissione richiede informazioni aggiuntive applicando il procedimento di verifica delle offerte anomale di cui al comma 7 e, se i valori utilizzati continuano a non essere giustificati, procede all'esclusione dell'offerta.
+La Commissione valuta la congruita' delle offerte quando la somma dei punti relativi alle condizioni economiche e quelli del piano di investimento e' pari o superiore ai quattro quinti del corrispondente punteggio massimo previsto nel bando di gara.
 
-6. La Commissione ha la facolta' di verificare la congruita' dell'offerta quando un punteggio, anche parziale, appaia anormalmente elevato rispetto alle altre offerte.
+2.
 
-7. Il procedimento di verifica delle offerte anomale e della loro eventuale esclusione dalla gara avviene secondo le disposizioni degli [articoli 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163~art87) e [88 del decreto legislativo 12 aprile 2006, n. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163~art88).
+La Commissione valuta la congruita' delle offerte quando la somma dei punteggi dovuti ai criteri di sicurezza e di qualita' e' pari o superiore ai quattro quinti del corrispondente punteggio massimo previsto nel bando di gara.
 
-8. La Commissione procede ad una verifica rigorosa delle giustificazioni dell'impresa che ha presentato l'offerta anomala, esprimendo un proprio giudizio sulla validita' di tali giustificazioni.
+3.
 
-Art. 17
--------
+La Commissione valuta la congruita' delle offerte quando il tasso interno di redditivita' degli investimenti nel piano industriale di cui all'articolo 15, comma 8, risulta inferiore al ((4%)) in termini reali, al netto delle imposte.
 
-Monitoraggio degli effetti del decreto e supporto agli Enti locali
+4.
 
-1. Ai fini del monitoraggio degli effetti del presente regolamento, tutti i soggetti che agiscono da stazione appaltante, di cui all'articolo 2, comma 1, sono tenuti, entro 60 giorni dall'aggiudicazione della gara, a trasmettere al Ministero dello sviluppo economico - Dipartimento dell'energia i dati significativi con cui si sono aggiudicate le gare, come riportati nello schema in allegato 4. Su richiesta, la stazione appaltante invia il verbale della gara al Ministero dello sviluppo economico.
+La Commissione verifica sistematicamente che il piano industriale sia in accordo con le istruzioni contenute nel bando di gara e i valori utilizzati siano consistenti con la prassi del settore e della regolazione in vigore.
 
-2. Il Ministro dello sviluppo economico e il Ministro per i rapporti con le Regioni e per la Coesione Territoriale stipulano, entro 60 giorni dall'entrata in vigore del presente regolamento, un apposito protocollo d'intesa con ANCI e l'Autorita' per l'energia elettrica e il gas per porre in essere, con le risorse umane, finanziarie e strumentali a legislazione vigente, specifiche iniziative di sensibilizzazione, informazione ed assistenza agli Enti locali, nonche' per istituire un comitato, che puo' essere allargato anche ad altri soggetti istituzionali, per monitorare lo svolgimento e gli esiti delle gare ed esaminare l'opportunita' di eventuali chiarimenti e proposte di modifiche al presente regolamento.
+5.
 
-Art. 18
--------
+Qualora nel piano industriale i costi operativi, i ricavi o la valutazione degli investimenti siano differenti da quelli utilizzati dagli altri concorrenti, o comunque le istruzioni appaiono essere state disattese, e le motivazioni nella nota giustificativa non sembrano chiare o plausibili, la Commissione richiede informazioni aggiuntive applicando il procedimento di verifica delle offerte anomale di cui al comma 7 e, se i valori utilizzati continuano a non essere giustificati, procede all'esclusione dell'offerta.
 
-Prerogative delle Regioni a statuto speciale e delle Province autonome di Trento e Bolzano
+6.
 
-1. Sono fatte salve le prerogative statutarie delle Regioni a statuto speciale e delle province autonome di Trento e Bolzano.
+La Commissione ha la facolta' di verificare la congruita' dell'offerta quando un punteggio, anche parziale, appaia anormalmente elevato rispetto alle altre offerte.
 
-Art. 19
--------
+7.
 
-Entrata in vigore
+Il procedimento di verifica delle offerte anomale e della loro eventuale esclusione dalla gara avviene secondo le disposizioni degli [articoli 87](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md) e [88 del decreto legislativo 12 aprile 2006, n. 163](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md).
 
-1. Il presente regolamento sara' pubblicato nella Gazzetta ufficiale della Repubblica Italiana e nei siti internet dei Ministeri dello sviluppo economico e per i rapporti con le Regioni e per la Coesione Territoriale, ed entra in vigore il quindicesimo giorno successivo alla data della pubblicazione nella Gazzetta ufficiale della Repubblica Italiana.
+8.
+
+La Commissione procede ad una verifica rigorosa delle giustificazioni dell'impresa che ha presentato l'offerta anomala, esprimendo un proprio giudizio sulla validita' di tali giustificazioni.
+
+## Art. 17. — Monitoraggio degli effetti del decreto e supporto agli Enti locali
+
+1.
+
+Ai fini del monitoraggio degli effetti del presente regolamento, tutti i soggetti che agiscono da stazione appaltante, di cui all'articolo 2, comma 1, sono tenuti, entro 60 giorni dall'aggiudicazione della gara, a trasmettere al Ministero dello sviluppo economico - Dipartimento dell'energia i dati significativi con cui si sono aggiudicate le gare, come riportati nello schema in allegato 4. Su richiesta, la stazione appaltante invia il verbale della gara al Ministero dello sviluppo economico.
+
+2.
+
+Il Ministro dello sviluppo economico e il Ministro per i rapporti con le Regioni e per la Coesione Territoriale stipulano, entro 60 giorni dall'entrata in vigore del presente regolamento, un apposito protocollo d'intesa con ANCI e l'Autorita' per l'energia elettrica e il gas per porre in essere, con le risorse umane, finanziarie e strumentali a legislazione vigente, specifiche iniziative di sensibilizzazione, informazione ed assistenza agli Enti locali, nonche' per istituire un comitato, che puo' essere allargato anche ad altri soggetti istituzionali, per monitorare lo svolgimento e gli esiti delle gare ed esaminare l'opportunita' di eventuali chiarimenti e proposte di modifiche al presente regolamento.
+
+## Art. 18. — Prerogative delle Regioni a statuto speciale e delle Province autonome di Trento e Bolzano
+
+1.
+
+Sono fatte salve le prerogative statutarie delle Regioni a statuto speciale e delle province autonome di Trento e Bolzano.
+
+## Art. 19. — Entrata in vigore
+
+1.
+
+Il presente regolamento sara' pubblicato nella Gazzetta ufficiale della Repubblica Italiana e nei siti internet dei Ministeri dello sviluppo economico e per i rapporti con le Regioni e per la Coesione Territoriale, ed entra in vigore il quindicesimo giorno successivo alla data della pubblicazione nella Gazzetta ufficiale della Repubblica Italiana.
 
 Il presente regolamento, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 12 novembre 2011
+Roma, 12 novembre 2011
 
-Il Ministro dello sviluppo economico Romani Il Ministro per i rapporti con le regioni e per la coesione territoriale Fitto
-
-Visto, il Guardasigilli: Severino Registrato alla Corte dei conti il 27 dicembre 2011
-
-Ufficio di controllo atti MISE - MIPAAF, registro n. 10, foglio n. 301
-
-Allegato A-Tabella 1
-
- Allegato A   
-  
-  
-  
-Tabella 1- Durata utile ai fini del calcolo del valore industriale residuo degli impianti di distribuzione nel primo periodo(1 )   
-
-|  |  |
-| --- | --- |
-| Cespite | Durata utile (anni) |
-| Fabbricati industriali | 60 |
-| Condotte stradali in polietil- ene o acciaio con protezione catodica | 60 |
-| Condotte stradali in acciaio senza protezione catodica | 45 |
-| Condotte stradali in ghisa e giunti in piombo e canapa non risanati | Obsolete |
-| Condotte stradali in ghisa grigia con giunti meccanici | 45 |
-| Condotte stradali in ghisa sferoidale con giunti meccanici | 60 |
-| Impianti di derivazione utenza | 50 |
-| Impianti principali e secondari di regolazione e misura | 25 |
-| Gruppi di misura convenzionali con portata massima di 10 mc/h | 15 |
-| Gruppi di misura convenzionali con portata superiore a 10 mc/h | 20 |
-| Gruppi di misura elettronici | 15 |
-| Impianti di telecontrollo | 7 |
-
-  
-  
-  
-  
---------   
-(1 ) Da utilizzare per determinare la percentuale di degrado fino al 30 settembre 2004. Le condotte stradali in ghisa e giunti in piombo e canapa non risanati hanno sempre un valore residuo nullo.   
-  
---------   
-(2 ) Una condotta in acciaio si considera protetta catodicamente se allo stato attuale risulta essere in stato di regolare e conforme esercizio rispetto alle norme; gli impianti di regolazione catodica sono compresi nelle condotte in acciaio.   
-
-Allegato 1
-
-Allegato 1 Data limite entro cui la Provincia, in assenza del Comune capoluogo di provincia, convoca i Comuni dell'ambito per la scelta della stazione appaltante e da cui decorre il tempo per un eventuale intervento della Regione di cui all'articolo 3 del regolamento(1 )   
-  
-
-|  |
-| --- |
-| 6 mesi dall'entrata in vigore del presente regolamento |
-| Alessandria 1 - Nord |
-| Alessandria 2 - Centro |
-| Alessandria 3 - Sud - Ovest |
-| Belluno |
-| Bologna 1 - Citta' e Impianto di Bologna |
-| Brescia 1 - Nord - Ovest |
-| Lecco 1 - Nord |
-| Livorno |
-| Lodi 1 - Nord |
-| Macerata 2 - Nord - Est |
-| Massa - Carrara |
-| Milano 1 - Citta' e Impianto di Milano |
-| Monza e Brianza 1 - Est |
-| Padova 2 - Euganei e Ovest |
-| Parma |
-| Pavia 1 - Lomellina Ovest |
-| Pavia 4 - Oltrepo' Pavese |
-| Perugia 2 - Sud e Est |
-| Pesaro e Urbino |
-| Reggio nell'Emilia |
-| Roma 1 - Citta' e Impianto di Roma |
-| Torino 1 - Citta' di Torino |
-| Torino 2 - Impianto di Torino |
-| Trento 2 - Nord e Est |
-| Trento 3 - Sud - Ovest |
-
-  
-  
-  
-  
---------   
-(1 ) Si applica al primo periodo.   
-  
-  
-  
-
-|  |
-| --- |
-| 12 mesi dall'entrata in vigore del presente regolamento |
-| Alessandria 4 - Sud - Est |
-| Ascoli Piceno |
-| Biella |
-| Bologna 2 - Provincia |
-| Como 1- Triangolo Lariano e Brianza Comasca |
-| Como 3 - Impianto di Cernobbio e Nord - Sondrio |
-| Cremona 2 - Centro |
-| Gorizia |
-| L'Aquila 3 - Est |
-| Lodi 2 - Sud |
-| Milano 3 - Provincia Sud |
-| Milano 4 - Provincia Nord - Est |
-| Modena 2 - Sud |
-| Padova 1 - Citta' di Padova e Nord |
-| Padova 3 - Bassa Padovana |
-| Pavia 3 - Campagna Sottana e Lomellina Est |
-| Prato |
-| Siena |
-| Torino 3 - Sud - Ovest |
-| Torino 5 - Nord - Est |
-| Trieste |
-| Udine 1 - Nord |
-| Verona 2 - Pianure Veronesi |
-| Vicenza 1 - Citta' di Vicenza e Sud - Est |
-| Vicenza 2 - Nord - Est |
-
-|  |
-| --- |
-| 18 mesi dall'entrata in vigore del presente regolamento |
-| Ancona |
-| Arezzo |
-| Asti |
-| Bergamo 1 - Nord - Ovest |
-| Bergamo 6 - Sud - Est |
-| Brescia 4 - Sud - Ovest |
-| Como 2 - Como e Olgiatese |
-| Cremona 3 - Sud |
-| Fermo |
-| L'Aquila 1 - Nord - Ovest |
-| Lecco 2 - Sud |
-| Lucca |
-| Macerata 1 - Citta' di Macerata e Ovest |
-| Modena 1 - Nord |
-| Monza e Brianza 2 - Ovest |
-| Pavia 2 - Citta' e Impianto di Pavia |
-| Perugia 1 - Citta' di Perugia e Nord - Ovest |
-| Rieti |
-| Roma 2 - Litorale Nord |
-| Rovigo |
-| Trento 1 - Impianto di Trento |
-| Varese 2 - Centro |
-| Venezia 2 - Entroterra e Veneto Orientale |
-| Vercelli |
-| Viterbo |
-
-|  |
-| --- |
-| 24 mesi dall'entrata in vigore del presente regolamento |
-| Bergamo 2 - Nord - Est |
-| Bergamo 5 - Sud - Ovest |
-| Caserta 1 - Sud - Est |
-| Chieti 2 - Est e Sud |
-| Cuneo 1 - Nord - Ovest |
-| Cuneo 2 - Citta' di Cuneo e Sud |
-| Cuneo 3 - Nord - Est |
-| Ferrara |
-| Firenze 1 - Citta' e Impianto di Firenze |
-| Genova 2 - Provincia |
-| Milano 2 - Provincia Nord - Ovest |
-| Novara 1 - Nord |
-| Novara 2 - Sud |
-| Piacenza 1 - Ovest |
-| Pordenone |
-| Rimini |
-| Roma 3 - Valle del Tevere e Tiburtino |
-| Savona 1 - Sud - Ovest |
-| Savona 2 - Nord - Est |
-| Torino 4 - Nord - Ovest |
-| Treviso 2 - Nord |
-| Udine 2 - Citta' di Udine e Centro |
-| Udine 3 - Sud |
-| Venezia 1 - Laguna Veneta |
-| Vicenza 4 - Valli dell'Agno e del Chiampo |
-
-|  |
-| --- |
-| 30 mesi dall'entrata in vigore del presente regolamento |
-| Bari 1 - Nord |
-| Barletta - Andria - Trani |
-| Bergamo 3 - Dintorni ad Ovest di Bergamo |
-| Bergamo 4 - Bergamo e Dintorni ad Est |
-| Brescia 3 - Citta' e Impianto di Brescia |
-| Brescia 5 -Sud - Est |
-| Campobasso |
-| Catanzaro - Crotone |
-| Chieti 1 - Nord - Ovest |
-| Forli' - Cesena |
-| Genova 1 - Citta' e Impianto di Genova |
-| Imperia |
-| La Spezia |
-| Mantova 2 - Sud e Est |
-| Napoli 1 - Citta' di Napoli e Impianto Costiero |
-| Napoli 2 - Nord - Ovest |
-| Pisa |
-| Pistoia |
-| Ravenna |
-| Salerno 1 - Amalfitano e Nocerino Ovest |
-| Salerno 2 - Salerno, Sele e Cilento |
-| Torino 6 - Po Orientale |
-| Valle d'Aosta |
-| Varese 3 - Sud |
-| Verona 1 - Citta' di Verona e Nord |
-
-|  |
-| --- |
-| 36 mesi dall'entrata in vigore del presente regolamento |
-| Bari 2 - Sud |
-| Brescia 2 - Nord - Est |
-| Cosenza 1 - Ovest |
-| Cremona 1 - Nord |
-| Enna |
-| Firenze 2 - Provincia |
-| Foggia 2 - Sud |
-| Frosinone 1 - Ovest |
-| Frosinone 2 - Est |
-| Grosseto |
-| L'Aquila 2 - Sud - Ovest |
-| Latina |
-| Mantova 1 - Citta' di Mantova e Nord - Ovest |
-| Matera |
-| Napoli 3 - Nord - Est |
-| Palermo 1 - Citta' di Palermo |
-| Piacenza 2 - Est |
-| Roma 4 - Litorale Sud e Castelli Romani |
-| Roma 5 - Prenestino, Monte Lepini e Aniene |
-| Teramo |
-| Terni |
-| Treviso 1 - Sud |
-| Varese 1 - Nord |
-| Verbano - Cusio - Ossola |
-| Vicenza 3 - Valli Astico, Leogra e Timonchio |
-
-|  |
-| --- |
-| 42 mesi dall'entrata in vigore del presente regolamento |
-| Agrigento |
-| Avellino |
-| Benevento |
-| Brindisi |
-| Caltanisetta |
-| Caserta 2 - Nord e Ovest |
-| Catania 1 - Nord |
-| Catania 2 - Sud |
-| Cosenza 2 - Est |
-| Foggia 1 - Nord |
-| Isernia |
-| Lecce 1 - Nord |
-| Lecce 2 - Sud |
-| Messina 2 - Ovest |
-| Napoli 4 - Sud - Est |
-| Palermo 2 - Provincia |
-| Pescara |
-| Potenza 1 - Nord |
-| Potenza 2 - Sud |
-| Reggio di Calabria - Vibo Valentia |
-| Salerno 3 - Nord e Est |
-| Taranto |
-| Trapani |
-
-|  |
-| --- |
-| La data piu' lontana fra 42 mesi dall'entrata in vigore del presente regolamento e 30 mesi prima della scadenza della prima concessione nell'ambito |
-| Bolzano |
-| Messina 1 - Est |
-| Ragusa |
-| Siracusa |
-
-((1))
-
-((2))
-
-------------
-
-AGGIORNAMENTO (1)
-
-Il [D.L. 21 giugno 2013, n. 69](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69) convertito con modificazioni dalla [L. 9 agosto 2013, n. 98](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-08-09;98) ha disposto (con l'art. 4, comma 3) che "Le date limite di cui all'Allegato 1 del regolamento di cui al [decreto del Ministro dello sviluppo economico 12 novembre 2011, n. 226](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sviluppo.economico:decreto:2011-11-12;226), relative agli ambiti ricadenti nel primo e secondo raggruppamento dello stesso Allegato 1, che sono scadute o che verrebbero a scadere entro il mese di ottobre 2013, sono prorogate di quattro mesi, con uno spostamento dei rispettivi termini di cui all'articolo 3 del medesimo regolamento relativi alla mancata nomina della stazione appaltante comunque a data non anteriore al 1° gennaio 2014".   
-Ha inoltre disposto (con l'art. 4, comma 3-bis) che "Le date stabilite dall'Allegato 1 annesso al regolamento di cui al [decreto del Ministro dello sviluppo economico 12 novembre 2011, n. 226](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sviluppo.economico:decreto:2011-11-12;226), sono prorogate di ventiquattro mesi, comprensivi delle proroghe disposte dal comma 3 del presente articolo, per gli ambiti in cui almeno il 15 per cento dei punti di riconsegna e' situato nei comuni colpiti dagli eventi sismici del 20 e 29 maggio 2012 e inseriti nell'elenco di cui all'Allegato 1 annesso al [decreto del Ministro dell'economia e delle finanze 1° giugno 2012, pubblicato nella Gazzetta Ufficiale n. 130 del 6 giugno 2012](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2012-06-06&numeroGazzetta=130), e successive modificazioni".
-
-------------
-
-AGGIORNAMENTO (2)
-
-Il [D.Lgs. 23 maggio 2000, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164), come modificato dal [D.L. 23 dicembre 2013, n. 145](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-12-23;145), convertito con modificazioni dalla [L. 21 febbraio 2014, n. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-02-21;9), ha disposto (con l'art. 15, comma 5) che "Le date limite di cui all'allegato 1 al regolamento di cui al [decreto del Ministro dello sviluppo economico 12 novembre 2011, n. 226](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sviluppo.economico:decreto:2011-11-12;226), relative agli ambiti ricadenti nel terzo raggruppamento dello stesso allegato 1, nonche' i rispettivi termini di cui all'articolo 3 del medesimo regolamento, sono prorogati di quattro mesi)".
-
-Allegato 2-Bando di gara tipo
-
-Allegato 2 - Bando di gara tipo   
-  
-  
-BANDO DI GARA PER L'AFFIDAMENTO IN CONCESSIONE DEL SERVIZIO DI   
-DISTRIBUZIONE DEL GAS NATURALE NELL'AMBITO TERRITORIALE............   
-  
-1. Ente appaltante: ............., Via......N°...-CAP........., tel........., fax......., e-mail.............   
-  
-2. Categoria di servizio: Affidamento del servizio pubblico di distribuzione del gas naturale mediante tubazioni in tutti i territori dei Comuni dell'ambito territoriale di .... , riportati in allegato A.   
-  
-3. Importo contrattuale: € ...... (Somma degli importi contrattuali per i singoli Comuni dell'ambito, ottenuti moltiplicando l'ultimo vincolo ai ricavi per l'erogazione del servizio di distribuzione e della misura approvato e attribuibile all'impianto di distribuzione del singolo Comune(1 ) per la durata contrattuale prevista, tenendo conto, nel primo periodo, di scadenze differenziate delle concessioni in essere). Valore annuo del servizio € .... (Somma dei vincoli ai ricavi approvati attribuibili a tutti gli impianti di distribuzione dei singoli Comuni dell'ambito, inclusi quelli con scadenza della concessione in vigore successivamente alla data di affidamento del servizio del primo impianto).   
-  
---------   
-(1 ) Il vincolo dei ricavi relativi all'impresa (es. vincolo a copertura dei costi centralizzati del servizio di distribuzione) e' attribuito ai singoli Comuni in base al numero di clienti effettivi nel Comune rispetto a quelli totali di impresa.   
-  
-4. Luogo di esecuzione: Gli interi territori comunali dei Comuni riportati in allegato A.   
-  
-5. Riferimenti legislativi: [Decreto Legislativo 23 maggio 2000, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164) e sue modificazioni, decreto 19 gennaio 2011 del Ministro dello sviluppo economico di concerto con il Ministro per i rapporti con le Regioni e la coesione territoriale, sulla determinazione degli ambiti territoriali nel settore della distribuzione del gas naturale (in seguito definito: "decreto sulla determinazione degli ambiti territoriali minimi"), decreto ..... del Ministro dello sviluppo economico di concerto con il Ministro per i rapporti con le Regioni e la coesione territoriale, sull'elenco dei Comuni per ambito territoriale minimo (in seguito definito: "decreto sulla determinazione dei Comuni per ambito") e regolamento ..... del Ministro dello sviluppo economico e del Ministro per i rapporti con le Regioni e coesione territoriale .... , sui criteri di gara e sulla valutazione dell'offerta (presente regolamento, in seguito definito "regolamento sui criteri di gara").   
-  
-6. Durata dell'affidamento del servizio: 12 anni dalla data di sottoscrizione del verbale di consegna del primo impianto. La data indicativa dell'affidamento del primo impianto e' ... (nel fissare la data occorre prevedere un ragionevole lasso di tempo - almeno quattro mesi- dalla data di aggiudicazione della gara, per permettere l'attivazione delle tutele per il personale e un ordinato passaggio di consegne fra gestore uscente e gestore subentrante). L'allegato A riporta, per ogni Comune e impianto, la data di scadenza della concessione in vigore e, quindi, la data indicativa di inizio del servizio da parte della societa' aggiudicataria per le concessioni ancora non scadute. Il subentro nella gestione avviene con le modalita' previste nel decreto sulla determinazione degli ambiti territoriali minimi. L'Allegato A riporta anche la data presunta di inizio metanizzazione per i Comuni che non hanno ancora un impianto di distribuzione del gas naturale e la cui metanizzazione e' oggetto di gara.   
-  
-7. Documentazione riguardante l'affidamento:   
-a. il presente bando di gara, con i relativi allegati;   
-b. la lettera di invito
-
-(( (solo in caso di procedura ristretta) ))
-
-e il disciplinare di gara;   
-c. lo schema di Contratto di servizio;   
-d. le informazioni di cui all'articolo 9, comma 6 del regolamento sui criteri di gara, per ciascuno dei Comuni dell'ambito territoriale (elenco da specificare nel bando di gara).   
-  
-8. Ufficio a cui rivolgersi per la documentazione di gara: La documentazione di gara e' liberamente consultabile presso l'ufficio .... , via ....., n ...., ...., tel. ....., nei giorni .... dalle ore .... alle ore ... E' altresi' possibile avere copia della documentazione su supporto informatico previo versamento della somma di € ... , o su supporto cartaceo previo versamento della somma di €...., da effettuarsi con le seguenti modalita' ....   
-  
-9. Dati significativi degli impianti: i dati significativi dell'impianto di distribuzione del gas naturale di ogni singolo Comune sono riportati nell'allegato B, inclusa la identificazione della porzione di impianto di cui l'aggiudicataria acquisisce la proprieta'.   
-  
-10. Obbligo di assunzione del personale: l'Allegato C riporta per ogni singolo Comune l'elenco del personale del gestore uscente, che il gestore subentrante ha l'obbligo di assumere, salvo espressa rinuncia degli interessati, in conformita' con il decreto 21 aprile 2011 del Ministro dello sviluppo economico e del Ministro del lavoro e delle politiche sociali ai sensi dell'[articolo 28, comma 6, decreto legislativo 23 maggio 2000, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164~art28-com6), sulla tutela dell'occupazione del personale.   
-  
-11. Partecipazione alla gara: Alla gara sono ammessi i soggetti che soddisfano:   
-a. i requisiti generali di cui all'articolo 10, commi 1, 2, 3 e 4, del regolamento sui criteri di gara;   
-b. i requisiti di capacita' economica e finanziaria di cui all'articolo 10, comma 5, del regolamento sui criteri di gara, per un fatturato medio annuo nel triennio precedente di € .... (50% del valore annuo del servizio di cui al precedente punto 3)
-
-((o per possedere garanzie finanziarie da due primari istituti di credito che l'impresa negli ultimi tre anni ha fatto fronte ai propri impegni e che ha la possibilita' di accedere al credito di €...))
-
-(somma del 50% del valore annuo del servizio di cui al precedente punto 3 e del valore di rimborso ai gestori uscenti, inclusi quelli degli impianti con scadenza ope legis successiva alla gara; in caso di disaccordo fra l'Ente locale e il gestore uscente il valore di rimborso da considerare per i requisiti di capacita' economica e finanziaria e' il valore di riferimento esplicitato nel bando di gara ai sensi dell'articolo 5, comma 16 del regolamento sui criteri);   
-c. i requisiti di capacita' tecnica di cui all'articolo 10, comma 6, del regolamento sui criteri di gara, tenendo conto che il numero di clienti effettivi nell'ambito di gara e' pari a .... (somma del numero dei clienti finali al 31 dicembre dell'anno precedente alla pubblicazione del bando di gara di tutti i Comuni dell'ambito, inclusi i clienti degli impianti in cui le concessioni in vigore hanno scadenza ope legis successiva alla data di affidamento del primo impianto).   
-Per i raggruppamenti temporanei d'impresa e i consorzi ordinari di concorrenti si applicano le previsioni di cui all'articolo 10, commi 7 e 8, del regolamento sui criteri di gara.   
-  
-12. Domanda di partecipazione: Il concorrente deve presentare la domanda di partecipazione alla gara entro e non oltre le ore ... del giorno ......, pena la tassativa esclusione dalla gara, all'indirizzo .....
-
-(( (in caso di procedura aperta la data di scadenza della presentazione della domanda di partecipazione e' la stessa della presentazione delle offerte e l'invio del relativo plico e' trasmesso contemporaneamente all'offerta, ma con plico separato) ))
-
-  
-Le imprese che intendono partecipare alla gara devono far pervenire in un unico plico, adeguatamente sigillato con nastro adesivo e controfirmato sui lembi esterni, sul quale devono essere indicati i dati del mittente (inclusi fax, e-mail e numero telefonico) e la seguente dicitura: "Gara per l'affidamento del servizio pubblico di distribuzione del gas naturale nel territorio dell'ambito di ..... - Domanda di partecipazione", contenente la domanda di partecipazione, redatta su carta intestata del concorrente e sottoscritta dal legale rappresentante, con sottoscrizione
-
-((in conformita' con l'[articolo 38, comma 3 del D.P.R. 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445~art38-com3)))
-
-, pena l'esclusione dalla gara.   
-La domanda, a pena di esclusione, deve contenere tutti gli allegati richiesti. Le imprese straniere devono presentare tutta la documentazione in lingua italiana e i documenti dovranno essere tradotti con asseverazione.   
-Il plico contenente la domanda deve essere trasmesso con lettera raccomandata A.R. del servizio postale, o mediante ditte specializzate, o mediante presentazione all'Ufficio Protocollo di .... entro i termini sopra indicati. Il recapito della domanda rimane ad esclusivo rischio del mittente, non sono, pertanto, prese in considerazione le domande pervenute oltre il termine sopra indicato, ancorche' spedite in data anteriore, neppure se con contenuto aggiuntivo rispetto a domande precedentemente recapitate. La domanda deve essere formulata come in allegato D, facente parte integrante del presente bando di gara.   
-Alla domanda devono essere allegati:   
-a) fotocopia di un documento di identita' personale del legale rappresentante in corso di validita';   
-b) il certificato di iscrizione alla C.C.I.A.A o documento equivalente se l'impresa non e' di nazionalita' italiana, come specificato nell'articolo 10, lettera a) del comma 6 del regolamento sui criteri di gara;   
-c) allegati come necessari a provare la capacita' tecnica nel caso in cui l'impresa non sia titolare di concessioni di distribuzione di gas naturale per un numero complessivo di clienti pari almeno al 50% dei clienti finali dell'ambito, come precisato nell'allegato D.   
-Al fine di soddisfare il requisito di cui al'articolo 10 del comma 3 del regolamento sui criteri di gara, i concorrenti allegano, alternativamente:   
-1) la dichiarazione di non essere in una situazione di controllo di cui all'[articolo 2359 del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2359) con altri partecipanti alla medesima procedura di gara;   
-2) la dichiarazione di essere in una situazione di controllo di cui all'[articolo 2359 del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2359) e di aver formulato autonomamente l'offerta, con indicazione del concorrente con cui sussiste tale situazione; tale dichiarazione e' corredata dai documenti utili a dimostrare che la situazione di controllo non ha influito sulla formulazione dell'offerta, inseriti in separata busta chiusa.   
-La stazione appaltante esclude i concorrenti per i quali accerta che le relative offerte sono imputabili ad un unico centro decisionale, sulla base di univoci elementi. La verifica e l'eventuale esclusione sono disposte dopo l'apertura delle buste contenenti l'offerta economica.
-
-((E' fatto divieto ai concorrenti di partecipare alla gara in piu' di un raggruppamento temporaneo o consorzio ordinario di concorrenti, ovvero di partecipare alla gara anche in forma individuale qualora partecipino in un raggruppamento temporaneo o consorzio ordinario di concorrenti.))
-
-  
-In caso di raggruppamenti temporanei d'impresa e di consorzi ordinari si deve presentare in unico plico:   
-1. una lettera di partecipazione, sottoscritta da tutti i legali rappresentanti della riunione, che identifica tutti i partecipanti e contiene la dichiarazione del possesso cumulativo dei requisiti di cui all'articolo 10, comma 5 e all'articolo 10, comma 6, lettera b) del regolamento sui criteri di gara (punti 8 e 9 dell'allegato D), oltre l'impegno ad assumere il personale addetto alla gestione dell'impianto ai sensi del decreto 21 aprile 2011 del Ministro dello sviluppo economico e del Ministro del lavoro e delle politiche sociali (punto 12 dell'allegato D);   
-2. una dichiarazione per ciascuna delle imprese partecipanti alla riunione, sottoscritta dal relativo legale rappresentante, da cui emerga:   
-i) il contributo di ciascuna impresa al rispetto dei requisiti cumulativi di cui all'articolo 10, comma 5 e all'articolo 10, comma 6, lettera b del regolamento sui criteri di gara (punti 8 e 9 dell'allegato D);   
-ii) il rispetto individuale degli altri requisiti di cui all'articolo 10 del regolamento sui criteri di gara (punti 1, 2, 3, 4, 5, 6, 7, 10 e 11 dell'allegato D). In particolare, per soddisfare il requisito di cui all'articolo 10 del comma 3 del regolamento sui criteri di gara, ciascun partecipante allega la propria dichiarazione;   
-3. la fotocopia del documento di identita' e il certificato dell'iscrizione alla C.C.I.A.A, come sopra richiesto, per ciascuna impresa partecipante alla riunione.   
-L'Ente appaltante ha la facolta' di verificare il possesso dei requisiti, anche richiedendo i documenti originali.   
-  
-13. Apertura dei plichi contenenti le domande di partecipazione:   
-La data di apertura dei plichi relativi alle domande di partecipazione da parte della stazione appaltante e' fissata per il giorno ... ... alle ore ... presso ... ... oppure e' comunicata ai partecipanti a mezzo fax
-
-((o posta elettronica certificata))
-
-all'indirizzo desumibile dai dati del mittente contenuti nel plico presentato in sede di domanda di partecipazione. L'apertura della busta avviene in forma pubblica. I legali rappresentanti, o altri soggetti muniti di delega, possono assistere alle operazioni di apertura e valutazione dei documenti da parte della stazione appaltante. L'ammissione o l'eventuale esclusione alla fase successiva e' comunicata ai partecipanti
-
-(( (in caso di procedura ristretta) ))
-
-.   
-  
-14. Termine ultimo per la presentazione delle offerte: Il termine per la spedizione degli inviti a presentare offerta e' previsto in giorni .... decorrenti dalla data del termine fissato per la presentazione della domanda di partecipazione
-
-(( (solo per la procedura ristretta) ))
-
-.   
-Le offerte, redatte in lingua italiana, devono pervenire, pena l'esclusione dalla gara, entro il termine indicato nella lettera d'invito
-
-(( (in caso di procedura ristretta, mentre in caso di procedura aperta: "entro e non oltre le ore ... del giorno ..., pena la tassativa esclusione della gara, all'indirizzo...") ))
-
-con le modalita' descritte nel Disciplinare di gara. E' obbligatoria per i legali rappresentanti delle imprese concorrenti o loro delegati il sopralluogo agli impianti. Le modalita' per la visita sono fissate nella lettera di invito
-
-(( (o nel bando di gara in caso di procedura aperta) ))
-
-, successivamente alla visita e' rilasciato un certificato di presa visione da allegarsi ai documenti di offerta, pena l'esclusione dalla gara.
-
-((5))
-
-  
-  
-15. Apertura delle offerte e aggiudicazione: L'apertura dei plichi d'offerta avviene a porte aperte. La gara viene aggiudicata con il criterio dell'offerta economica piu' vantaggiosa sulla base del punteggio attribuito secondo i criteri di aggiudicazione contenuti nel Disciplinare di gara. Pena l'esclusione dalla gara, non sono ammesse offerte incomplete, parziali o condizionate. L'esito della gara e' comunicato al soggetto aggiudicatario e agli altri soggetti presenti nella graduatoria definitiva.   
-  
-16. Lingua prescritta: Italiano. Le imprese straniere devono presentare tutta la documentazione in lingua italiana
-
-((, mentre i documenti, i certificati e le dichiarazioni sostitutive, presentati per soddisfare i requisiti di partecipazione, se redatti in lingua straniera devono essere tradotti con asseverazione.))
-
-  
-  
-17. Garanzia contrattuale: I concorrenti devono presentare in sede di offerta un deposito cauzionale di € ..... (2% del valore annuo del servizio di cui al punto 3), mediante fidejussione bancaria o polizza fideiussoria, presentata a garanzia dell'obbligo di stipulare il contratto in caso di aggiudicazione.   
-La cauzione deve avere validita' di almeno 180 giorni dalla data di scadenza della presentazione dell'offerta e deve soddisfare quanto previsto
-
-((all'[articolo 113, comma 4, del decreto legislativo 12 aprile 2006, n. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163~art113-com4)))
-
-.   
-Alle imprese che non risultino aggiudicatarie la cauzione e' restituita non appena avvenuta l'aggiudicazione. Per l'impresa aggiudicataria la cauzione provvisoria e' svincolata dopo la sottoscrizione del contratto di servizio e previo rilascio e consegna della cauzione definitiva di € ...... , da mantenersi costante in tutto il periodo di affidamento (30% del valore annuo del servizio di cui al punto 3) e da prestarsi mediante garanzia bancaria o assicurativa a prima richiesta di primario istituto di credito. Vale quanto previsto all'[articolo 113, commi 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163~art113-com2), [4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163~art113-com4) e [5 del decreto legislativo 12 aprile 2006, n. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163~art113-com5).   
-  
-18. Oneri generali di gara: L'impresa aggiudicataria
-
-((, entro 15 giorni dall'aggiudicazione della gara, versa ai gestori uscenti € .... , oltre agli oneri finanziari, secondo le modalita' previste dall'Autorita' con deliberazione ...., e all'IVA))
-
-per la copertura degli oneri di gara.   
-  
-19. Oneri a carico dell'impresa aggiudicataria: L'impresa aggiudicataria e' tenuta:   
-a. a corrispondere alle societa' concessionarie uscenti, all'atto della sottoscrizione del relativo verbale di consegna del servizio, la somma complessiva di € ..... per il primo anno (di cui € .... e' la stima della variazione del valore di rimborso fra la data del .... e il ......, data presunta di subentro; tale valore sara' calcolato a consuntivo alla data effettiva di subentro secondo le modalita' riportate nell'allegato ...) e la somma stimata di € .... negli anni successivi, allo scadere delle concessioni in essere, a titolo di rimborso, come previsto negli articoli 5 e 6 del regolamento sui criteri di gara. A fronte di tale rimborso l'impresa aggiudicataria acquisisce, per la durata dell'affidamento, la proprieta' degli impianti di distribuzione o di una loro porzione, come specificato nell'allegato B relativo al singolo Comune. (In caso di contenzioso sul valore di rimborso, inserire il valore di riferimento e l'indicazione della stima massima del gestore uscente e la stima minima dell'Ente locale, con l'impegno per il concorrente a regolare con il gestore uscente, a risoluzione del contenzioso, la differenza fra il valore definitivamente accertato per il valore di rimborso e il valore di riferimento esplicitato nel bando di gara);
-
-((a tale somma deve essere detratto il valore di eventuali debiti relativi alle obbligazioni finanziarie in essere del gestore uscente a cui il gestore entrante subentra, di cui alla lettera e);))
-
-  
-b. a corrispondere annualmente alla stazione appaltante (o da specificare se soggetto differente, in conformita' con l'articolo 2 comma 5 del decreto sui criteri) un corrispettivo pari all' 1 % della somma della remunerazione del capitale di localita' relativi ai servizi di distribuzione e misura e della relativa quota di ammortamento annuale, relative agli impianti di distribuzione gestiti nell'anno dall'impresa aggiudicataria, a titolo di rimborso forfettario degli oneri da loro sostenuti per lo svolgimento delle attivita' di controllo e vigilanza sulla conduzione del servizio e per il rapporto gestionale con l'impresa aggiudicataria. Il valore del corrispettivo nel primo anno del servizio e' di € .... Il valore del corrispettivo varia negli anni sia per la variazione del valore dei costi di capitale di localita' sia per l'acquisizione della gestione di altri impianti di distribuzione del gas naturale allo scadere delle concessioni in essere;   
-c. a corrispondere annualmente ai proprietari degli impianti o di una loro porzione, gestiti dall'impresa aggiudicataria, la quota parte del vincolo ai ricavi corrispondente alla remunerazione del relativo capitale investito netto. La remunerazione e' calcolata applicando al valore del relativo capitale investito netto, rivalutato annualmente, il tasso di remunerazione riconosciuto dall'Autorita' per l'energia elettrica e il gas nella regolazione tariffaria per l'anno in esame.  
-Nel primo anno di gestione l'importo e' di € ..... . La suddivisione per Comune e per proprietario e' riportata nell'allegato B;   
-d. a corrispondere annualmente agli Enti locali una quota parte della remunerazione del capitale di localita'
-
-((e della relativa quota di ammortamento annuale))
-
-relativo ai servizi di distribuzione e misura, relativa al proprio territorio comunale sia nel caso in cui la rete sia di proprieta' dell'Ente locale sia nel caso in cui sia di proprieta' del gestore, come risultato dell'esito della gara.   
-e. a subentrare nelle obbligazioni finanziarie dei gestori uscenti relative agli investimenti realizzati nel precedente periodo di affidamento o a indennizzare il gestore uscente per la estinzione delle obbligazioni finanziarie, a scelta del gestore entrante, e a subentrare nei contratti pubblici e privati dei medesimi gestori uscenti, relativi allo svolgimento del servizio di distribuzione e connessi alla proprieta' degli impianti (quali servitu' e concessioni di attraversamento). Nel caso in cui un'obbligazione finanziaria escluda la sua cessione a terzi o richieda il consenso della controparte per tale cessione e la controparte neghi il consenso,
-
-((l'obbligo di subentro in tale obbligazione non sussiste per il gestore entrante.))
-
-(da specificare in allegato B. Inoltre, l'Allegato B fornisce per ciascuna obbligazione : 1) l'oggetto e la durata dell'obbligazione, 2) il suo valore, 3) le principali obbligazioni, 4) la facolta' di recesso e le eventuali penali previste per l'esercizio del recesso, 5)l'eventuale vincolo di consenso della controparte per la cessione dell'obbligazione a terzi);   
-f. ad effettuare gli interventi di efficienza energetica di cui all'articolo 13, comma 1, lettera e) del regolamento sui criteri di gara, come risultato dell'esito di gara, corrispondendo il valore dei relativi titoli di efficienza energetica agli Enti locali concedenti, in proporzione al gas distribuito in ciascun Comune nell'anno precedente. Ciascun anno il gestore anticipa agli Enti locali concedenti una somma pari al valore dei titoli di efficienza degli interventi su cui si e' impegnato in sede di gara per l'anno in corso, valutati secondo il prezzo unitario previsto dall'Autorita' nell'anno precedente. Qualora l'anno successivo il prezzo unitario del titolo stabilito dall'Autorita' aumenti, il gestore versa il conguaglio agli Enti locali concedenti; nessun aggiustamento e' dovuto nel caso in cui il prezzo unitario diminuisca.
-
-((PERIODO SOPPRESSO DAL DECRETO 20 MAGGIO 2015, N. 106))
-
-.   
-g. ad assumere tutte le spese necessarie per la stipula del contratto di servizio;   
-h. a stipulare una polizza assicurativa responsabilita' civile per danni agli impianti, all'esercizio degli stessi ed a terzi per un massimale minimo di € ... .   
-L'impresa e' obbligata alla realizzazione della rete nei Comuni dell'ambito non ancora metanizzati, qualora durante il periodo di affidamento si rendano disponibili finanziamenti pubblici in conto capitale di almeno il 50% del valore complessivo dell'opera e gli interventi siano programmabili tre anni prima del termine di scadenza dell'affidamento, anche se l'intervento non e' previsto nel piano di sviluppo iniziale. Eventuali interventi in condizioni differenti possono essere oggetto di negoziazione tra le parti.   
-  
-20. Periodo durante il quale l'offerente e' vincolato dalla propria offerta: L'offerta si intende valida per 180 giorni dalla data di scadenza per la presentazione delle offerte senza che il soggetto possa avanzare pretesa alcuna per qualsivoglia titolo. In caso di non aggiudicazione della gara nulla e' dovuto alle imprese concorrenti.   
-  
-21. Trattamento dati personali: Ai sensi dell'[articolo 13 del Decreto legislativo 30 giugno 2003, n.196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art13):   
-a. i dati dichiarati sono utilizzati dagli uffici esclusivamente per la gara per l'affidamento del servizio di distribuzione del gas naturale nell'ambito di ....;   
-b. il conferimento dei dati ha natura obbligatoria;   
-c. l'eventuale rifiuto, da parte dell'interessato, al consenso alla loro utilizzazione comporta l'impossibilita' di partecipare alla gara;   
-d. i dati personali forniti possono costituire oggetto di comunicazione nell'ambito e per le finalita' strettamente connesse al procedimento relativo alla gara, sia all'interno alla struttura del Titolare, sia all'esterno, a soggetti individuati dalla normativa vigente;   
-e. il Titolare garantisce all'interessato i diritti di cui all'[articolo 7 del Decreto Legislativo 30 giugno 2003, n.196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art7) e pertanto l'interessato: 1) ha il diritto di ottenere conferma o meno di dati personali che lo riguardano; 2) ha il diritto di ottenere indicazioni circa l'origine dei dati personali, finalita' e modalita' di trattamento, logica applicata per il trattamento con strumenti elettronici, estremi identificativi del Titolare e responsabili, soggetti ai quali i dati possono essere comunicati o che possono venirne a conoscenza; 3) ha il diritto di ottenere l'aggiornamento, la rettificazione e, quando vi ha interesse, l'integrazione dei dati e, inoltre, la cancellazione, la trasformazione in forma anonima, il blocco dei dati, l'attestazione che le operazioni che precedono sono state portate a conoscenza di coloro ai quali i dati sono stati comunicati o diffusi, eccettuato il caso in cui tale adempimento si rileva impossibile o comporta un impiego di mezzi manifestamente sproporzionato rispetto al diritto tutelato; 4) ha il diritto di opporsi, in tutto o in parte e per motivi legittimi, al trattamento dei dati personali che lo riguardano, ancorche' pertinenti allo scopo della raccolta;   
-f. Titolare del trattamento dei dati e' ..... .   
-  
-22. Data invio e ricezione del bando alla Gazzetta Ufficiale della Comunita' Europea: Bando spedito alla G.U.C.E. in data ...... e ricevuto dalla G.U.C.E. in data ....   
-  
-  
-...... ,li......   
-  
-  
-IL RESPONSABILE DEL PROCEDIMENTO   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v012G00100030001011000102&dgu=2012-01-27&art.dataPubblicazioneGazzetta=2012-01-27&art.codiceRedazionale=012G0010)
-  
-  
-  
-  
-
--------------
-
-AGGIORNAMENTO (5)
-
-Il Decreto 20 maggio 2015, n. 106 ha disposto (con l'art. 2, comma 10) che "le parole ", pena di esclusione" sono sostituite dalle parole ". Il mancato sopralluogo e' causa di esclusione dalla gara"".
-
-Allegato 2-Allegato A
-
-Allegato A al Bando di gara   
-  
-  
-Elenco Comuni dell'ambito di .....   
-  
-  
-------|------------------|------------|-------------|--------------- Codice| Comune/Impianto | Provincia | Data di | Data prevista  
-ISTAT | | | scadenza | di inizio  
-| | | della | metanizzazione | | | concessione | (2)  
-| | | in essere |  
-------|------------------|------------|-------------|--------------- ------|------------------|------------|-------------|--------------- ------|------------------|------------|-------------|--------------- ------|------------------|------------|-------------|--------------- ------|------------------|------------|-------------|--------------- ------|------------------|------------|-------------|--------------- ------|------------------|------------|-------------|--------------- ------|------------------|------------|-------------|--------------- ------|------------------|------------|-------------|--------------- ------|------------------|------------|-------------|--------------- ------|------------------|------------|-------------|--------------- ------|------------------|------------|-------------|--------------- ------|------------------|------------|-------------|--------------- ------|------------------|------------|-------------|--------------- ------|------------------|------------|-------------|--------------- ------|------------------|------------|-------------|--------------- ------|------------------|------------|-------------|--------------- ------|------------------|------------|-------------|--------------- ------|------------------|------------|-------------|--------------- ------|------------------|------------|-------------|--------------- ------|------------------|------------|-------------|--------------- ------|------------------|------------|-------------|--------------- ------|------------------|------------|-------------|--------------- ------|------------------|------------|-------------|--------------- ------|------------------|------------|-------------|---------------  
-  
-  
----------   
-(2 ) Per i Comuni in cui la metanizzazione e' oggetto di gara   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=012G001000300020110001&dgu=2012-01-27&art.dataPubblicazioneGazzetta=2012-01-27&art.codiceRedazionale=012G0010)
-  
-
-Allegato 2-Allegato B
-
-Allegato B al bando di gara   
-  
-  
-Dati significativi dell'impianto di distribuzione gas del Comune di ....   
-  
-• N...... cabine di......   
-• m ..... di rete esercita in alta pressione   
-• m ..... di rete esercita in media pressione   
-• m ..... di rete esercita in bassa pressione   
-• m...... di condotte in acciaio non protette con protezione catodica efficace.   
-• n...... gruppi di riduzione finale della pressione con potenza ≥ 1200 kW e almeno 200 m di rete in bassa pressione a valle   
-• n...... gruppi di riduzione finale della pressione, con caratteristiche differenti   
-• n...... punti di riconsegna attivi alla data del 31 dicembre ...
-
-(( (per i tre anni precedenti la pubblicazione del bando di gara) suddivisi per le seguenti categorie di uso della deliberazione dell'Autorita' 17/07 per dati di competenza fino al 31 dicembre 2012 (Nota: I dati di competenza successiva al 1° gennaio 2013 sono forniti secondo le categorie di uso di cui alla [deliberazione 229/2012/R/gas](http://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:2012;229) e successive modifiche e integrazioni dell'Autorita'.) ))
-
-:   
-n...... uso cottura cibi   
-n...... produzione di acqua calda sanitaria   
-n...... uso cottura cibi + produzione di acqua calda sanitaria   
-n...... uso tecnologico (artigianale-industriale)   
-n...... uso condizionamento   
-n...... riscaldamento individuale/centralizzato   
-n...... riscaldamento individuale + uso cottura cibi + produzione di acqua calda sanitaria   
-n...... riscaldamento individuale + uso cottura cibi   
-n...... riscaldamento individuale + produzione di acqua calda sanitaria   
-n...... riscaldamento centralizzato + uso cottura cibi + produzione di acqua calda sanitaria   
-n...... riscaldamento centralizzato + produzione di acqua calda sanitaria   
-n...... uso tecnologico + riscaldamento   
-n...... uso condizionamento + riscaldamento   
-  
-•
-
-((Smc....volumi di gas distribuiti nell'anno .... (per i tre anni precedenti la pubblicazione del bando di gara) suddivisi per le seguenti categorie di uso della deliberazione dell'Autorita' 17/07 per dati di competenza fino al 31 dicembre 2012 (Nota: I dati di competenza successiva al 1° gennaio 2013 sono forniti secondo le categorie di uso di cui alla [deliberazione 229/2012/R/gas](http://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:2012;229) e successive modifiche e integrazioni dell'Autorita'.) ))
-
-:   
-
-((Smc))
-
-..... uso cottura cibi   
-
-((Smc))
-
-..... produzione di acqua calda sanitaria   
-
-((Smc))
-
-..... uso cottura cibi + produzione di acqua calda sanitaria   
-
-((Smc))
-
-..... uso tecnologico (artigianale-industriale)   
-
-((Smc))
-
-..... uso condizionamento   
-
-((Smc))
-
-..... riscaldamento individuale/centralizzato   
-
-((Smc))
-
-..... riscaldamento individuale + uso cottura cibi + produzione di acqua calda sanitaria   
-
-((Smc))
-
-..... riscaldamento individuale + uso cottura cibi   
-
-((Smc))
-
-..... riscaldamento individuale + produzione di acqua calda sanitaria   
-
-((Smc))
-
-..... riscaldamento centralizzato + uso cottura cibi + produzione di acqua calda sanitaria   
-
-((Smc))
-
-..... riscaldamento centralizzato + produzione di acqua calda sanitaria   
-
-((Smc))
-
-..... uso tecnologico + riscaldamento   
-
-((Smc))
-
-..... uso condizionamento + riscaldamento   
-• tasso di crescita annua del numero di punti di riconsegna attivi previsto sulla rete esistente da utilizzare nel piano industriale: % (o specificare i valori da assumere nei 12 anni di affidamento)   
-• m ... lunghezza media interrata per presa   
-• m ... lunghezza media aerea per presa   
-• n ... numero medio di punti di riconsegna per presa   
-• mc ... media volumi di gas distribuito nell'anno ....   
-• Proprieta' degli impianti all'inizio dell'affidamento:  
-....................................... ... (vedi anche stato di consistenza con cartografie divise per proprietario)   
-• Rimborso da riconoscere al gestore uscente da parte dell'impresa aggiudicataria relativo alla porzione di impianto di cui acquisisce la proprieta' (se applicabile): € ...(In caso di contenzioso sul valore di rimborso, inserire il valore di riferimento e l'indicazione della stima massima e minima, in conformita' con l'articolo 5, comma 16 del regolamento sui criteri di gara)   
-• Valori delle immobilizzazioni della porzione di impianto acquisita dal'impresa aggiudicataria da considerarsi nel calcolo dei vincoli ai ricavi in base alla regolazione tariffaria, riferite all'anno di riferimento delle tariffe in corso (specificando se approvate dall'Autorita' o ancora in fase di definizione, e fornendo a parte anche i valori per gli investimenti successivi alla data di riferimento delle tariffe):   
-  
-° Immobilizzazioni lorde: € ... alla data del ....   
-di cui :   
-• Immobili e fabbricati: € ...   
-• Terreni: € ...   
-• Condotte stradali: € ...   
-• Impianti principali e secondari: € ...   
-• Impianti di derivazione (allacciamenti): €....   
-• Gruppi di misura convenzionali: € ...   
-• Gruppi di misura elettronici € ....   
-• Altre immobilizzazioni materiali e immateriali €...   
-  
-° Immobilizzazioni nette: € ... alla data del ....   
-di cui:   
-• Immobili e fabbricati: € ...   
-• Terreni: € ...   
-• Condotte stradali: € ...   
-• Impianti principali e secondari: € ...   
-• Impianti di derivazione (allacciamenti): €...   
-• Gruppi di misura convenzionali: € ...   
-• Gruppi di misura elettronici € ...   
-• Altre immobilizzazioni materiali e immateriali €...   
-  
-° Immobilizzazioni nette, al netto dei contributi pubblici capitalizzati e dei contributi privati relativi ai cespiti di localita': € ... alla data del ....   
-di cui:   
-• Immobili e fabbricati: € ...   
-• Terreni: € ...   
-• Condotte stradali: € ...   
-• Impianti principali e secondari: € ...   
-• Impianti di derivazione (allacciamenti): €...   
-• Gruppi di misura convenzionali: € ...   
-• Gruppi di misura elettronici € ...   
-• Altre immobilizzazioni materiali e immateriali €...   
-  
-° Vite utili ai fini regolatori (anni):   
-• Immobili e fabbricati: ...   
-• Terreni: ...   
-• Condotte stradali: ...   
-• Impianti principali e secondari: ...   
-• Impianti di derivazione (allacciamenti): ...   
-• Gruppi di misura convenzionali: ...   
-• Gruppi di misura elettronici ...   
-• Altre immobilizzazioni materiali e immateriali ...   
-• Valori delle immobilizzazioni della porzione di impianto di proprieta' degli Enti locali o di societa' patrimoniale della rete (dettagliate come sopra indicato)   
-• Vincolo ai ricavi approvato relativo all'impianto di distribuzione gas nel Comune nell'anno ... € .... .   
-• Costi di capitale di localita' di distribuzione e misura nell'anno .... € ....   
-• Quota del vincolo ai ricavi relativo alla porzione di impianto di proprieta' di:   
-° Ente concedente: remunerazione del capitale € ... per l'anno ...., a fronte di un capitale investito netto iniziale di € ...;   
-° .... (eventuale societa' di patrimonio delle reti): remunerazione del capitale € ... per l'anno ...., a fronte di un capitale investito netto iniziale di € ....   
-• Valore annuo da riconoscere al soggetto delegato per il rapporto con il gestore a titolo di rimborso forfettario per attivita' di controllo, vigilanza e gestione del contratto: € ... per l'anno .... • Obbligazioni finanziarie del gestore uscente relative agli investimenti realizzati nel precedente periodo di affidamento (specificando per ciascuna obbligazione : 1) l'oggetto e la durata dell'obbligazione, 2) il suo valore, 3) le principali obbligazioni, 4) la facolta' di recesso e le eventuali penali previste per l'esercizio del recesso, 5)l'eventuale vincolo di consenso della controparte per la cessione dell'obbligazione a terzi):   
-  
-  
-Nota   
-  
-Per i Comuni in cui la scadenza ope legis della concessione in essere e' successiva alla data di affidamento del servizio nell'ambito, nell'Allegato B devono essere indicate sia le informazioni al momento della pubblicazione del bando di gara sia le informazioni prevedibili al momento del trasferimento di gestione, con indicazione delle regole per la determinazione del valore di rimborso al gestore uscente e degli oneri annuali nel caso in cui lo stato della rete e degli impianti sia differente da quello ipotizzato, in conformita' con l'articolo 9, comma 6, lettera g) del regolamento sui criteri di gara.   
-
-((Nei casi in cui la stazione appaltante esercita il potere sostitutivo, di cui all'articolo 2, comma 6 del regolamento sui criteri di gara, si da' evidenza delle eventuali informazioni non fornite direttamente dal Comune.))
-
-  
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v012G00100030003011000102&dgu=2012-01-27&art.dataPubblicazioneGazzetta=2012-01-27&art.codiceRedazionale=012G0010)
-  
-
-Allegato 2-Allegato C
-
-Allegato C al bando di gara   
-  
-  
-Elenco del personale uscente addetto alla gestione dell'impianto di distribuzione del Comune di.......   
-  
-Numero di addetti alla gestione dell'impianto alla data ... . (12 mesi precedenti alla pubblicazione del bando di gara): n. ...   
-  
-Numeri di clienti nel Comune al 31.12. ....(anno precedente la pubblicazione del bando di gara): n.   
-...   
-  
-  
-  
-Personale con obbligo di assunzione immediata  
-|--|----------|------------|-------|---------|------------|---------| |N°|Anzianita'| Anzianita' |Livello|Qualifica|Retribuzione|Eventuale| | |complessi-|di servizio | CCNL | |annua lorda | TFR (1) | | |va di ser-|nell'impian-| | | (1) | | | |vizio |to specifico| | | | | |--|----------|------------|-------|---------|------------|---------| |1 | | | | | | | |--|----------|------------|-------|---------|------------|---------| |2 | | | | | | | |--|----------|------------|-------|---------|------------|---------| |3 | | | | | | | |--|----------|------------|-------|---------|------------|---------| |4 | | | | | | | |--|----------|------------|-------|---------|------------|---------| |5 | | | | | | | |--|----------|------------|-------|---------|------------|---------|   
-...  
-  
-Personale in esubero (se esistente)  
-|--|----------|------------|-------|---------|  
-|N°|Anzianita'| Anzianita' |Livello|Qualifica|  
-| |complessi-|di servizio | CCNL | |  
-| |va di ser-|nell'impian-| | |  
-| |vizio |to specifico| | |  
-|--|----------|------------|-------|---------|  
-|--|----------|------------|-------|---------|  
-|--|----------|------------|-------|---------|  
-|--|----------|------------|-------|---------|  
-|--|----------|------------|-------|---------|  
-|--|----------|------------|-------|---------|  
-  
-  
-  
-1. Le informazioni economiche possono essere fornite in forma aggregata per tutto il personale dell'impianto con obbligo di assunzione   
-  
-Analoghe informazioni devono essere fornite per il personale che svolge funzioni centrali su cui vi e' l'obbligo di assunzione da parte del gestore subentrante,.   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=012G001000300040110001&dgu=2012-01-27&art.dataPubblicazioneGazzetta=2012-01-27&art.codiceRedazionale=012G0010)
-  
-
-Allegato 2-Allegato D
-
-Allegato D al bando di gara   
-  
-  
-Domanda di partecipazione alla gara   
-  
-A.......................   
-Via.....................   
-........................   
-  
-Oggetto: Richiesta di partecipazione alla gara per l'affidamento del servizio pubblico di distribuzione del gas naturale nell'ambito territoriale di ....   
-  
-Il/la sottoscritto/a................................................   
-Nato/a a .....................il....................................   
-Residente........................................................... nella sua qualita' di rappresentante dell'impresa................... con sede in.........................................................   
-  
-Chiede di partecipare alla gara in oggetto.   
-Al fine dell'ammissione alla gara, ai sensi del [DPR 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445), consapevole del fatto che in caso di mendace dichiarazione verranno applicate nei suoi riguardi le sanzioni previste dal [codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398) e dalle leggi speciali in materia di falsita' negli atti, oltre alle conseguenze di natura amministrativa previste (revoca dell'aggiudicazione), sotto la propria responsabilita'   
-  
-DICHIARA   
-  
-che:   
-  
-1. l'impresa e' costituita in (indicare la ragione sociale):   
-...........................................................   
-e' iscritta alla Camera di Commercio.......con il n.°.......per le attivita' corrispondenti al servizio della distribuzione del gas naturale, come risulta dal certificato allegato (di data non anteriore a sei mesi alla scadenza della presentazione della presente domanda);   
-il codice fiscale.................................................. partita IVA........................................................ le generalita' del/dei legale/i rappresentante/i (nominativo, data di nascita, poteri):   
-...................................................................   
-  
-2. l'impresa di cui sopra o le societa', che si trovano con l'impresa in una delle situazioni di controllo di cui all'[articolo 2359 del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2359), non gestiscono servizi pubblici locali in virtu' di affidamento diretto o di una procedura non ad evidenza pubblica oppure (solo per la prima gara e qualora li gestissero), si trovano nelle condizioni di cui all'[articolo 15, comma 5, del decreto legislativo 23 maggio 2000, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164~art15-com5) o nelle condizioni di cui all'[articolo 46 bis, comma 4- bis, della legge 29 novembre 2007, n. 22](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-11-29;22~art46bis-com4bis), concernente la conversione in legge del [decreto legge 1 ottobre 2007, n. 159](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-10-01;159) (specificare quale condizione si applica);   
-  
-3. l'impresa non si trova in una delle cause di esclusione di cui all'[articolo 38 del decreto legislativo 12 aprile 2006, n. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163~art38);   
-  
-4. l'impresa non e' a conoscenza di rapporti di collegamento o controllo, ai sensi dell'[articolo 2359 del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2359), con altre imprese partecipanti alla gara, inclusi i partecipanti a raggruppamenti temporanei di imprese o consorzi ordinari, e si impegna a manifestare tali rapporti ove dovesse verificarne l'esistenza in sede di gara; oppure l'impresa e' in una situazione di controllo di cui all'[articolo 2359 del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2359) con l'impresa ....(indicare il concorrente o il partecipante al raggruppamento temporaneo di imprese o consorzi ordinari) e ha formulato autonomamente l'offerta, si allegano in separata busta chiusa i documenti .........utili a dimostrare che la situazione di controllo non ha influito sulla formulazione dell'offerta.   
-  
-5. l'impresa e' in regola con l'assolvimento degli obblighi previsti dalle norme che disciplinano il diritto al lavoro di disabili di cui alla [legge 12 marzo 1999, n. 68](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-12;68);   
-  
-6. l'impresa non si e' avvalsa dei piani individuali di emersione del lavoro sommerso di cui alla [legge 18 ottobre 2001, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-10-18;383) e
-
-((al [decreto-legge 25 settembre 2002, n. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2002-09-25;210)))
-
-oppure(qualora si sia avvalsa) l'impresa si e' avvalsa dei piani di emersione di cui alla [legge 18 ottobre 2001, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-10-18;383) e
-
-((al [decreto-legge 25 settembre 2002, n. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2002-09-25;210)))
-
-, che si sono conclusi;   
-  
-7. l'impresa ha adottato un codice etico a partire dalla data .... (documento da allegare in formato elettronico).   
-  
-8. l'impresa (o in alternativa: l'impresa controllante .....) ha avuto un fatturato annuo di € ... nell'anno .... , € .... nell'anno .... e di € .... nell'anno ... (ultimi tre anni) come risulta dai suoi dati di bilancio (o in alternativa, se i dati sono relativi alla controllante: dai dati di bilancio consolidato); e (qualora non sia sufficiente a soddisfare il requisito) possiede garanzie finanziarie da ..... e da ... (citare due primari istituti di credito ) attestanti che negli ultimi tre anni l'impresa ha fatto fronte ai propri impegni e che ha la possibilita' di accedere al credito per un valore almeno pari a € .... ( somma del 50% del valore annuo del servizio oggetto di gara e del valore di rimborso ai gestori uscenti; in caso di contenzioso sul valore di rimborso fra Ente locale e gestore uscente inserire il valore di riferimento);   
-  
-9. l'impresa e' titolare ( oppure e' stata titolare alla data di ...) di concessioni di impianti di distribuzione di gas naturale per un numero complessivo di clienti pari a ...... (qualora il numero di utenze di gas naturale non sia superiore al 50% dei clienti dell'ambito di gara, aggiungere:) e ha la capacita' di gestire, a partire dalla data di ... (data indicativa di affidamento del primo impianto riportata nel bando di gara), gli impianti di distribuzione gas oggetto di gara, avendo disponibile:   
-a. strutture, mezzi e personale a livello manageriale per la gestione delle situazioni di emergenze gas (pronto intervento e incidenti gas), come da relazione allegata .... (in particolare descrivere la organizzazione che si intende adottare per il presidio del servizio di pronto intervento e delle situazioni di emergenza e la relativa disponibilita' di dotazioni e di personale manageriale, in caso di aggiudicazione della gara);   
-b. personale a livello manageriale in numero di ... e un organico di personale tecnico-amministrativo di funzioni centrali di n. ... addetti, e strutture ....., mezzi tecnici e di sistemi informativi adeguati a garantire il monitoraggio, il controllo e lo sviluppo della rete gas e in grado di gestire le operazioni previste dal codice di rete tipo di distribuzione gas per un numero di clienti pari a ..., come risulta dalla relazione allegata. (allegare organigramma,con numero di addetti per ciascuna funzione centrale e nome dei responsabili, e documenti che identificano e provano la disponibilita' dell'impresa di strutture, mezzi tecnici e sistemi informativi per soddisfare i requisiti dell'articolo 10, comma 6, lettera b, punto b.2.2 del regolamento sui criteri di gara; in particolare: 1) indicazione delle potenzialita' attualmente disponibile e l'eventuale espansione per gestire nuovi impianti relativamente ai mezzi tecnici e sistemi informativi dedicati al controllo/telecontrollo delle reti, 2) mezzi tecnici e sistemi informativi dedicati alla verifica delle reti e alla progettazione di nuove reti, con indicazioni della potenzialita' dei sistemi a gestire i principali elementi fisici (reti, cabine Remi, gruppi di decompressione) e attuale utilizzazione nella gestione in altri ambiti. 3)struttura organizzativa, dotazioni e architettura, principali funzionalita' e potenzialita' dei sistemi informativi preposti per la gestione delle operazioni previste dal codice di rete tipo, nonche' dei sistemi centrali di elaborazione, dei sistemi di archiviazione e fatturazione, e delle modalita' di comunicazione con le societa' di vendita).   
-c. i responsabili delle funzioni ingegneria, vettoriamento, qualita' del servizio e della gestione operativa dell'impresa hanno oltre cinque anni di esperienza nel settore gas e nella funzione specifica come risulta dai curriculum vitae allegati.   
-  
-(Nel caso in cui l'impresa non sia titolare di concessioni di distribuzione gas cambiare appropriatamente la prima parte , specificando l'esperienza nella gestione di infrastrutture a rete come precisato all'articolo 10, comma 6, lettera b, punto b.2.1 del regolamento sui criteri di gara).   
-  
-10. l'impresa e' in possesso di certificazione di qualita' aziendale UNI ISO 9001 conseguita nella gestione di ... e, in caso di aggiudicazione della gara, si impegna a mantenerla fino alla fine del contratto;   
-  
-11. l'impresa ha predisposto le procedure di gestione delle operazioni di sicurezza nel rispetto delle norme tecniche vigenti,
-
-((come previste all'articolo 12, comma 12.8 della Regolazione della qualita' dei servizi di distribuzione e misura del gas, allegata alla deliberazione dell'Autorita' 574/2013/R/gas e successive modifiche e integrazioni.))
-
-(procedure da allegare in formato elettronico);   
-  
-12. L'impresa si impegna al rispetto degli obblighi sulla tutela all'occupazione del personale di cui al decreto 21 aprile 2011 del Ministro dello sviluppo economico e del Ministro del lavoro e delle politiche sociali ai sensi dell'[articolo 28, comma 6, decreto legislativo 23 maggio 2000, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164~art28-com6), sulla tutela dell'occupazione, ed in particolare ad assumere il personale con obbligo di assunzione di cui agli allegati C, all'applicazione del contratto collettivo nazionale di lavoro unico del settore gas, al coinvolgimento dei sindacati di categoria nel processo di riorganizzazione e di riqualificazione del personale.   
-  
-Il numero di fax o indirizzo telematico a cui far pervenire l'eventuale richiesta di comprovare i requisiti relativi alla capacita' tecnico-organizzativa ed economico-finanziaria e' il seguente:   
-...................................................................   
-  
-Sottoscrive la presente dichiarazione consapevole delle responsabilita' penali, amministrative e civili in caso di dichiarazione false o incomplete.   
-  
-  
-Addi',............   
-  
-  
-IL LEGALE RAPPRESENTANTE   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v012G00100030005011000102&dgu=2012-01-27&art.dataPubblicazioneGazzetta=2012-01-27&art.codiceRedazionale=012G0010)
-  
-
-Allegato 3 - Disciplinare
-
-Allegato 3 - Disciplinare di gara tipo   
-  
-DISCIPLINARE DI GARA PER L'AFFIDAMENTO IN CONCESSIONE DEL SERVIZIO DI   
-DISTRIBUZIONE DEL GAS NATURALE NELL'AMBITO TERRITORIALE............   
-  
-Il Comune/La provincia/...... di ... ... Via ......, N. ... - CAP ......... . (tel. ..... , fax ....., e-mail ...... .), in qualita' di stazione appaltante delegata, indice una gara, ai sensi dell'[articolo 14 del decreto legislativo 23 maggio 2000, n. 164, del decreto 19 gennaio 2011](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-01-19;164~art14) del Ministro dello sviluppo economico di concerto con il Ministro dei rapporti con le Regioni e la coesione territoriale, sulla determinazione degli ambiti territoriali minimi della distribuzione del gas naturale, ( (in seguito definito: "decreto sulla determinazione degli ambiti territoriali minimi"), del decreto .... del Ministro dello sviluppo economico di concerto con il Ministro per i rapporti con le Regioni e coesione territoriale, sull'elenco dei Comuni per ambito territoriale della distribuzione del gas naturale (in seguito definito: "decreto sulla determinazione dei Comuni per ambito") e del (presente) regolamento .... del Ministro dello sviluppo economico e del Ministro dei rapporti con le Regioni e la coesione territoriale, sui criteri di gara e sulla valutazione dell'offerta ( in seguito definito "regolamento sui criteri di gara"), per l'affidamento in concessione del servizio pubblico di distribuzione del gas naturale in tutti i territori dei Comuni dell'ambito territoriale minimo di...... , riportati in allegato A.   
-La descrizione del servizio, delle condizioni contrattuali e delle modalita' di svolgimento del servizio sono specificate nello schema di Contratto di servizio.   
-I documenti a cui fare riferimento per lo svolgimento della gara sono i seguenti:   
-a) il bando di gara con gli allegati;   
-b) la lettera di invito e il presente disciplinare di gara;   
-c) lo schema di "Contratto di servizio";   
-d) le informazioni di cui all'articolo 9, comma 6 del regolamento sui criteri di gara per ciascuno dei Comuni dell'ambito territoriale (elenco da specificare nel disciplinare di gara).   
-  
-1. CRITERI DI AGGIUDICAZIONE   
-  
-La scelta del soggetto affidatario del servizio avverra' con il sistema dell'offerta economicamente piu' vantaggiosa, determinata in base ai sotto elencati elementi di valutazione, da valutarsi con punteggio nei limiti massimi previsti per ognuno:   
-  
-A. Offerta economica ... punti (28)   
-  
-A1 Entita' dello sconto tariffario rispetto alle tariffe fissate dall'Autorita', punteggio massimo di 13 punti   
-  
-Si prendono in considerazioni le migliori condizioni economiche in termini di ribasso, espresso come percentuale di un valore massimo dello sconto, che il gestore e' tenuto a praticare ai clienti finali del proprio ambito rispetto alle tariffe approvate dall'Autorita'. Al massimo valore di sconto percentuale, pari al 100% ,corrisponde un valore massimo dello sconto, VLim, pari in ciascun anno alla somma di:   
-i. la quota annua di ammortamento, nella misura riconosciuta in tariffa, della differenza fra il valore complessivo di rimborso ai gestori uscenti e la somma delle immobilizzazioni nette di localita' appartenenti all'ambito, al netto dei contributi pubblici in conto capitale e dei contributi privati relativi ai cespiti di localita', da ammortizzare nei 12 anni di durata dell'affidamento ed includendo in entrambi i parametri gli impianti con scadenza ope legis successiva alla gara;   
-ii. gli oneri annuali versati al soggetto di cui all'articolo 2 comma 5, previsti nell'articolo 8 comma 2 del regolamento sui criteri di gara, nella misura riconosciuta in tariffa.   
-  
-All'offerta con sconto percentuale S e' attribuito il punteggio P pari a:   
-  
-P = Pmax x S/SLim   
-dove Pmax e' il punteggio massimo di 13 punti   
-SLim = 100%, al di sopra del quale non viene attribuito un punteggio addizionale.   
-  
-In ciascun anno lo sconto tariffario in valore assoluto e' pari a S\*VLim . In caso in cui al momento della gara vi sia disaccordo, fra Ente locale e gestore uscente, sul valore di rimborso, lo sconto in valore assoluto da applicarsi sara' calcolato considerando in VLim il valore di rimborso definitivamente accertato al termine del contenzioso, anche se il bando di gara riporta un valore di riferimento.   
-  
-A2 Sconto sui corrispettivi di prestazioni di servizi all'utenza, punteggio massimo di ... punti   
-(La ripartizione dei punteggi fra le condizioni A2, A3 e, se presenti, A4 dipende dalle condizioni di metanizzazione dell'ambito e dal valore economico stimato, in corrispondenza del massimo punteggio, per le singole condizioni, il punteggio massimo per l'insieme delle tre condizioni e' 5 punti) ).   
-  
-Si prendono in considerazioni le migliori condizioni economiche in termini di ribasso percentuale (unico per tutte le voci) che il gestore e' tenuto a praticare al cliente finale rispetto ai valori di riferimento dei corrispettivi di prestazione di servizi presenti nello schema di Contratto di servizio (corrispettivi di riferimento fissati dall'Autorita' per l'energia elettrica e gas, o in assenza, rispetto a altri riferimenti presenti nello schema di Contratto di servizio allegato al bando di gara) per le seguenti voci:   
-  
-Contributo di allacciamento (entro la lunghezza limite)   
-Quota per supero della lunghezza limite   
-Attivazione della fornitura   
-Cambio contatore   
-Spostamento contatore   
-Cessazione di utenza   
-  
-All'offerta con il maggiore sconto (Smax ) e' attribuito il punteggio massimo Pmax di .... punti. Alle altre offerte (con sconto S) il punteggio e' assegnato in maniera proporzionale, troncato alla seconda cifra decimale:   
-  
-P = Pmax x S/Smax   
-  
-Qualora vi siano le condizioni indicate all'art. 13, comma 4 del regolamento sui criteri di gara la stazione appaltante stabilisce un limite allo sconto (SLim ) al di sopra del quale non viene attribuito un punteggio addizionale, in tal caso il punteggio P=Pmax per S≥SLim .   
-Non sono ammesse offerte in aumento rispetto al valore di riferimento.   
-  
-A3 Metri di rete per cliente per cui la concessionaria si impegna a realizzare estensioni successive non previste nel piano di sviluppo, per un punteggio massimo di ..... punti (per ambiti con elevata metanizzazione il punteggio massimo attribuito dalla stazione appaltante e' piccolo)   
-  
-In caso di estensioni della rete di distribuzione lo schema di Contratto di servizio prevede l'impegno dell'impresa concessionaria ad estendere la rete nei Comuni gia' metanizzati, anche se non previsto inizialmente nel piano di sviluppo degli impianti, purche' sui nuovi tronchi sia assicurato almeno un cliente finale, che richieda l'allacciamento e l'attivazione della fornitura, per ogni ..... (Mr ) metri di nuove condotte. All'offerta che prevede il valore piu' alto di metri di nuove condotte per cliente, Mmax viene attribuito il massimo punteggio Pmax . Alle altre offerte con un'offerta di M metri di rete viene attribuito un punteggio, troncato alla seconda cifra decimale, pari a:   
-  
-P = Pmax x (M-Mr )/(Mmax -Mr )   
-  
-Qualora vi siano le condizioni indicate all'art. 13, comma 4 del regolamento sui criteri di gara la stazione appaltante stabilisce un limite alla lunghezza massima di estensione al di sopra del quale non viene attribuito un punteggio addizionale, in tal caso il punteggio P≡ Pmax per M≥MLim .   
-Non sono ammesse offerte in aumento rispetto al valore di riferimento.   
-  
-A4 (Opzionale) Metri di rete per cliente si impegna a realizzare estensioni successive non previste nel piano di sviluppo in Comuni con particolari condizioni di disagio, per un punteggio massimo di ..... punti   
-  
-Per i Comuni di...... ., gia' metanizzati e caratterizzati da .....  
-(es. Comuni montani di altitudine superiore a..) l'impegno ad estendere la rete con un'offerta di metri superiore al valore di riferimento... (Mr ) per l'ambito e' premiato con un punteggio P con modalita' di valutazione identiche a quelle del criterio A3.   
-  
-A5 Percentuale della remunerazione del capitale di localita' relativo ai servizi di distribuzione e misura e della relativa quota di ammortamento annuale, a favore degli Enti locali concedenti, per un punteggio massimo di 5 punti   
-  
-All'offerta in cui l'impresa si impegna a corrispondere annualmente a tutti gli Enti locali la percentuale A della somma della remunerazione del capitale di localita' relativo ai servizi di distribuzione e misura
-
-((e della relativa quota di ammortamento annuale))
-
-, indipendentemente se l'impianto e' di proprieta' del gestore o dell'Ente locale concedente, e' attribuito un punteggio pari a:   
-  
-P = Pmax x A/ALim   
-  
-dove Pmax e' il punteggio massimo di 5 punti   
-e ALim e' la soglia del 5% al di sopra della quale non viene attribuito nessun punteggio addizionale (P=Pmax per A≥ALim )   
-  
-A6 Investimenti di efficienza energetica nell'ambito gestito aggiuntivi rispetto agli obblighi del distributore, per un punteggio massimo di 5 punti   
-  
-
-((Gli interventi di efficienza energetica considerati sono addizionali agli obblighi del distributore di cui all'articolo 4, comma 4, del decreto ministeriale 28 dicembre 2012 e sue successive modifiche e integrazioni, e devono derivare da progetti di riduzione dei consumi di energia primaria nel territorio dell'ambito oggetto di gara, inclusi i territori di eventuali Comuni che siano transitoriamente in regime di concessione comunale, e avere una data di prima attivazione successiva al 10 febbraio 2012. Come previsto nell'[articolo 13, comma 1, lettera e) del decreto ministeriale 12 novembre 2011, n. 226](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:2011-11-12;226~art13-com1-lete) e successive modifiche e integrazioni, sono ammissibili sia i progetti che danno luogo a titoli di efficienza energetica di qualsiasi tipologia, sia i progetti per rendere piu' efficienti le reti elettriche o del gas di cui all'[articolo 29, comma 3, del decreto legislativo 3 marzo 2011, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-03-03;28~art29-com3). Il distributore puo' anche acquistare i titoli da soggetti terzi, secondo le procedure operative definite dal GSE di cui all'[articolo 13, comma 1, lettera e) del decreto ministeriale 12 novembre 2011, n. 226](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:2011-11-12;226~art13-com1-lete) e successive modifiche e integrazioni, purche' derivati da progetti aventi le medesime caratteristiche di cui sopra. Il valore dei relativi titoli di efficienza energetica e' riconosciuto agli Enti locali concedenti con le modalita' di cui all'[articolo 8, comma 6, del decreto ministeriale 12 novembre 2011, n. 226](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:2011-11-12;226~art8-com6) e successive modifiche e integrazioni.   
-Il parametro da considerare e' la percentuale di titoli di efficienza energetica addizionali (T) che l'impresa aggiudicataria si impegna ad ottenere, nell'anno t, rispetto all'obbligo che avrebbe un distributore che distribuisca una quantita' di gas naturale pari a quella effettivamente distribuita dal concessionario nell'ambito oggetto di gara, nell'anno t-2 (due anni antecedenti all'anno considerato), prescindendo pero' dal numero delle utenze. Il valore assoluto dell'obbligo cambia anche a causa del progressivo affidamento degli impianti e della evoluzione degli obiettivi nazionali. In pratica, l'obiettivo annuale relativo all'anno t di titoli di efficienza energetica nell'ambito j, qambj, e' espresso dalla seguente formula:   
-  
-qambj = (Vcomambj/ΣVobi)\*T\*Obnaz   
-  
-dove   
-Vcomambj e' il volume di gas distribuito nell'anno t-2 nei Comuni dell'ambito j gestiti nell'anno t-2 in concessione di ambito, che il gestore comunica all'Autorita' nell'anno t-1;   
-ΣVobi e' il volume di gas distribuito nazionalmente dai soggetti obbligati nell'anno t-2 in base al decreto ministeriale 28 dicembre 2012 e successive modifiche e integrazioni, comunicato dall'Autorita' nell'anno t-1;   
-Obnaz sono gli obblighi quantitativi nazionali annui di incremento dell'efficienza energetica degli usi finali di gas naturale nell'anno t di cui all'articolo 4, comma 4, del decreto ministeriale 28 dicembre 2012 e successive modifiche e integrazioni;   
-T e' la percentuale annuale di titoli di efficienza energetica addizionali offerti in sede di gara.   
-Qualora per gli anni successivi al 2016 non vengano definiti gli obiettivi nazionali, l'obiettivo annuale per il distributore d'ambito e' calcolato con la formula precedente, dove Obnaz mantiene il valore dell'ultimo anno in cui e' stato fissato l'obiettivo nazionale e ΣVobi e' pari al volume di gas naturale distribuito a livello nazionale nell'anno t-2.   
-Il punteggio per l'impresa che offre una percentuale annuale T di titoli di efficienza energetica addizionali e' pari a:   
-  
-P= Pmax × T/Tmax   
-  
-dove P=Pmax e' il punteggio massimo attribuibile a tale criterio   
-Tmax = 20% e' il valore soglia, al di sopra del quale il punteggio non viene incrementato, della percentuale di titoli di efficienza energetica addizionali rispetto all'obbligo annuale che avrebbe un distributore che distribuisca una quantita' di gas naturale pari a quello effettivamente distribuito dal concessionario, due anni antecedenti a ciascun anno d'obbligo, nell'ambito oggetto di gara.   
-Nel caso in cui e' effettuata un'unica gara per due o piu' ambiti confinanti, come previsto nell'articolo 2, comma 4, del decreto ministeriale 19 gennaio 2011, l'impegno preso in sede di gara e' unico per l'unione degli ambiti, e l'obiettivo annuale e' proporzionale alla somma delle quantita' di gas distribuito in tutti i Comuni degli ambiti uniti gestiti nell'anno t-2 in concessione di ambito. Gli interventi validi sono quelli sull'intero territorio degli ambiti che si sono uniti. Non vi e' alcun obbligo da rispettare a livello di singolo ambito.   
-L'obiettivo annuale e' comunicato ai distributori d'ambito dal GSE in base alle informazioni relative ai volumi distribuiti raccolte dall'Autorita'. Entro maggio dell'anno t+1 il distributore comunica al GSE i risparmi certificati che intende annullare per rispettare l'obiettivo dell'anno t, maggiorato di eventuali quote aggiuntive derivanti dalle compensazioni dei due anni precedenti. GSE procede alla verifica e comunica l'esito al distributore, al Ministero dello sviluppo economico, all'Autorita' e al soggetto individuato ai sensi dell'[articolo 2, comma 5 del decreto ministeriale 12 novembre 2011, n. 226](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:2011-11-12;226~art2-com5). Il distributore puo' compensare la quota residua nel biennio successivo senza incorrere nelle penali.   
-Nel caso di non raggiungimento degli obiettivi il distributore deve comunque versare agli Enti locali concedenti un ammontare pari al valore dei titoli di efficienza energetica per cui si e' impegnato in sede di gara, al prezzo unitario fissato dall'Autorita' e con le modalita' indicate all'articolo 8, comma 6, del regolamento sui criteri di gara. Inoltre, nel caso di non compensazione degli obiettivi dell'anno precedente all'ultimo trascorso, il distributore e' soggetto al pagamento della penale di cui all'articolo 13, comma 5, che viene applicata dal soggetto individuato ai sensi dell'[articolo 2, comma 5, del decreto ministeriale 12 novembre 2011, n. 226](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:2011-11-12;226~art2-com5), per mancato rispetto del parametro di gara offerto, come specificato nel contratto di servizio.   
-Il primo anno di obbligo e' il terzo dall'inizio della concessione, in quanto gli obblighi sono basati sul volume di gas distribuito nell'anno t-2.   
-Per la verifica del raggiungimento degli obiettivi nell'ultimo anno di concessione, che avverra' nell'anno successivo alla cessazione del servizio, il distributore, alla cessazione del servizio, deve versare a garanzia un deposito cauzionale pari all'eventuale penale, mediante fidejussione bancaria o polizza fideiussoria.   
-Qualora l'impresa effettui investimenti che diano luogo in un anno a un numero di titoli di efficienza energetica addizionali maggiore dell'obiettivo dell'anno in esame, determinato sulla base della percentuale offerta in sede di gara, i titoli di efficienza in eccesso possono essere utilizzati per soddisfare l'obiettivo di titoli di efficienza addizionali degli anni successivi.))
-
-  
-  
-B. Criteri di sicurezza e qualita', ... (27) punti   
-  
-B1 Livelli di sicurezza offerti dall'impresa, per un punteggio massimo di 22 punti   
-  
-1. Si prendono in considerazione i livelli incrementali, rispetto ai livelli obbligatori o il livello generale, per il tempo di pronto intervento, fissati dall'Autorita', che l'impresa concorrente si impegna a rispettare nell'ambito oggetto di gara in ciascun anno del periodo di affidamento per i seguenti parametri di sicurezza:   
-i. percentuale annua di rete di media e alta pressione sottoposta ad ispezione, di cui all'articolo 4 della Regolazione della qualita' dei servizi di distribuzione e misura del gas allegata alla deliberazione dell'Autorita'
-
-((574/2013/R/gas))
-
-e s.m.i.;   
-ii. percentuale annua di rete di bassa pressione sottoposta ad ispezione, di cui all'articolo 5 della Regolazione della qualita' dei servizi di distribuzione e misura del gas allegata alla deliberazione dell'Autorita'
-
-((574/2013/R/gas))
-
-e s.m.i.;   
-iii. percentuale di chiamate di pronto intervento con tempo di arrivo entro 60 minuti, di cui all'articolo 10 della Regolazione della qualita' dei servizi di distribuzione e misura del gas allegata alla deliberazione dell'Autorita'
-
-((574/2013/R/gas))
-
-e s.m.i.;   
-iv. numero annuo convenzionale di misure del grado di odorizzazione di gas per migliaio di clienti finali effettuate nel rispetto di quanto previsto dall'articolo 8
-
-((...))
-
-della Regolazione della qualita' dei servizi di distribuzione e misura del gas allegata alla deliberazione dell'Autorita'
-
-((574/2013/R/gas))
-
-e s.m.i..   
-  
-I livelli incrementali offerti da ciascun concorrente sono rappresentati dagli indicatori IIRMA , IIRB , IPI e IOD rispettivamente per i parametri di cui ai precedenti punti i), ii), iii) e iv), definiti come indicato ai commi 2, 3, 4 e 5. Nel caso in cui dalla formule indicate nei commi successivi si ottenga per uno degli indicatori un valore inferiore a zero il valore dell'indicatore e' posto convenzionalmente pari a zero, mentre, nel caso in cui si ottenga un valore superiore a 100 l'indicatore e' convenzionalmente posto pari a 100.   
-  
-2. L'indicatore IIRMA , relativo al parametro percentuale annua di rete di media e alta pressione sottoposta ad ispezione, e' valutato con la seguente formula, con troncamento alla seconda cifra decimale:   
-  
-IIRMA = (LE,IRMA - LO,IRMA )/(LU,IRMA -LO,IRMA ) x 100   
-  
-dove:   
-LO,IRMA e' il livello obbligatorio per il parametro considerato, definito dall'Autorita' per l'energia e il gas nella regolazione per la qualita' del servizio di distribuzione del gas nel periodo di regolazione vigente al momento dell'emissione del bando di gara (o in sede di verifica, nell'anno in cui e' effettuata la verifica, se il valore e' stato deliberato dall'Autorita' prima della data della lettera di invito a presentare l'offerta di gara, altrimenti pari al valore dell'ultimo anno, deliberato dall'Autorita' prima della data della lettera di invito a presentare l'offerta di gara)
-
-(( (ai soli fini dell'impegno offerto in sede di gara e della relativa verifica, il livello obbligatorio previsto dall'Autorita' per l'ispezione delle tubazioni di materiali piu' diffusi nel periodo 2009-2014, pari a 100% della rete in tre anni mobili, e' considerato nella formula pari a 33,3% per il periodo 2014-2019) ))
-
-;   
-LE,IRMA (in sede di gara) e' il livello che l'impresa concorrente si impegna a rispettare in ciascun anno del periodo di affidamento per il parametro in esame in tutti gli impianti dell'ambito oggetto di gara (in sede di verifica, e' il valore effettivo nell'anno nell'ambito);   
-LU,IRMA e' il livello utile per il massimo punteggio per la percentuale annua di rete di media e alta pressione sottoposta ad ispezione
-
-(( (70% per le gare effettuate nel periodo 2014-2019) ))
-
-.   
-  
-3. L'indicatore IIRB , relativo al parametro percentuale annuo di rete di bassa pressione sottoposta ad ispezione, e' valutato con la seguente formula, con troncamento alla seconda cifra decimale:   
-  
-IIRB = (LE,IRB - LO,IRB ) /(LU,IRB -LO,IRB )) x 100   
-  
-dove   
-  
-LO,IRB e' il livello obbligatorio per il parametro considerato, definito dall'Autorita' per l'energia e il gas nella regolazione per la qualita' del servizio di distribuzione del gas nel periodo di regolazione vigente al momento dell'emissione del bando di gara (o in sede di verifica, nell'anno in cui e' effettuata la verifica, se il valore e' stato deliberato dall'Autorita' prima della data della lettera di invito a presentare l'offerta di gara, altrimenti pari al valore dell'ultimo anno, deliberato dall'Autorita' prima della data della lettera di invito a presentare l'offerta di gara)   
-
-(( (ai soli fini dell'impegno offerto in sede di gara e della relativa verifica, il livello obbligatorio previsto dall'Autorita' per l'ispezione delle tubazioni di materiali piu' diffusi nel periodo 2009-2014, pari a 100% della rete in quattro anni mobili, e' considerato nella formula pari a 25% per il periodo 2014-2019) ))
-
-;   
-LU,IRB e' il livello utile per il massimo punteggio per la percentuale annua di rete di bassa pressione sottoposta ad ispezione
-
-(( (50% per le gare effettuate nel periodo 2014-2019) ))
-
-;   
-LE,IRB e' definito come LE,IRMA per il parametro considerato.   
-  
-4. L'indicatore IPI , relativo al parametro percentuale di chiamate di pronto intervento con tempo di arrivo entro 60 minuti, e' valutato con la seguente formula, con troncamento alla seconda cifra decimale:   
-  
-IPI = (LE,PI -
-
-((LO,PI ))
-
-)/(LU,PI -
-
-((LO,PI ))
-
-) x 100   
-  
-dove   
-  
-
-((LO,PI = e' il livello obbligatorio))
-
-per la percentuale di chiamate di pronto intervento con tempo di arrivo entro 60 minuti definito dall'Autorita' per l'energia e il gas nella regolazione per la qualita' del servizio di distribuzione del gas nel periodo di regolazione vigente al momento dell'emissione del bando di gara (o in sede di verifica, nell'anno in cui e' effettuata la verifica, se il valore e' stato deliberato dall'Autorita' prima della data della lettera di invito a presentare l'offerta di gara, altrimenti pari al valore dell'ultimo anno, deliberato dall'Autorita' prima della data della lettera di invito a presentare l'offerta di gara)
-
-(( (90% per il periodo 2014-2019) ))
-
-,   
-LU,PI e' il livello utile per il massimo punteggio per la percentuale di chiamate di pronto intervento con tempo di arrivo entro 60 minuti (99% per le gare effettuate nel
-
-((periodo 2014-2019))
-
-);   
-LE,PI e' definito come LE,IRMA per il parametro considerato.   
-  
-5. L'indicatore IOD, relativo al parametro numero annuo di misure del grado di odorizzazione di gas, che risultano conformi, per migliaio di clienti finali, e' valutato con la seguente formula:   
-  
-IOD = (LE,OD - LO,ODv )/ (LU,OD - LO,OD ) x 100   
-  
-dove   
-  
-LO,OD = (ΣNODmin, i x NUi, ) / ΣNUi )   
-  
-dove   
-NODmin, i (valore NODmin come valutato nell'articolo 8, comma 8.5 del Testo unico della regolazione di qualita' del servizio per il
-
-((periodo 2014-2019))
-
-) e' il numero minimo di misure del grado di odorizzazione prescritto dall'Autorita' per l'energia e il gas nella regolazione per la qualita' del servizio di distribuzione del gas nell'anno dell'emissione del bando di gara (o in sede di verifica, nell'anno in cui e' effettuata la verifica, se il valore e' stato deliberato dall'Autorita' prima della data della lettera di invito a presentare l'offerta di gara, altrimenti pari al valore dell'ultimo anno, deliberato dall'Autorita' prima della data della lettera di invito a presentare l'offerta di garaa), per lo specifico impianto i di distribuzione appartenente all'ambito oggetto di gara;   
-NUi e' il numero dei clienti dell'impianto di distribuzione i al 31 dicembre dell'anno precedente all'emissione del bando di gara (o, in sede di verifica, all'anno in cui e' effettuata la verifica).   
-La sommatoria e' estesa a tutti gli impianti oggetto di gara.   
-LU,OD = e' il livello utile per il massimo punteggio per il numero annuo di misure del grado di odorizzazione di gas, che risultano conformi, per migliaio di clienti finali (pari a 3 x LO,OD per le gare effettuate nel
-
-((periodo 2014-2019))
-
-).   
-LE,OD e' definito come LE,IRMA per il parametro considerato. Sono considerate valide solo le misure eseguite mediante analisi gascromatografica, in campo o tramite un invio di un campione di gas prelevato dall'impianto ad un laboratorio accreditato SINAL.   
-  
-6. Ad ogni impresa concorrente viene attribuito un punteggio complessivo Psic relativo agli impegni sui sicurezza con la seguente formula, con troncamento alla seconda cifra decimale:   
-  
-Psic = Isic x Pmax,sic =(0,0015 x IIRMA +0,0015 x IIRB +0,005 x IPI +0,002 x IOD ) x Pmax,sic   
-  
-dove:   
-  
-Pmax,sic = .... e' il punteggio massimo attribuito a tale criterio   
-  
-Isic e' il livello complessivo incrementale sugli impegni della sicurezza, rispetto agli obblighi fissati dall'Autorita'.   
-  
-7. L'offerta deve essere accompagnata da una nota sull'organizzazione territoriale del pronto intervento che giustifichi il livello incrementale offerto IPI .   
-  
-8. Ogni anno del periodo di affidamento il soggetto, di cui all'articolo 2, comma 5 del regolamento sui criteri di gara, verifica il rispetto degli impegni assunti dall'impresa aggiudicataria sugli indicatori IIRMA , IIRB , IPI e IOD nell'anno precedente. Ai fini della verifica valgono le formule contenute nei commi 2, 3, 4 e 5 con adeguamento dei valori dei livelli LO,IRMA , LO,IRB ,
-
-((LO,PI ))
-
-e LO,OD ai valori per l'anno oggetto di verifica deliberati dall'Autorita' prima della data della lettera di invito a presentare l'offerta di gara. Per gli anni in cui i valori per l'anno oggetto di verifica non sono stati deliberati al prima della data della lettera di invito a presentare l'offerta di gara,si utilizzano i valori dell'ultimo anno deliberati dall'Autorita' prima della data della lettera di invito a presentare l'offerta di gara . Nel periodo di affidamento i valori LU,IRMA , LU,IRB e LU,PI rimangono invece costanti e pari ai valori fissati in sede di gara. Il valore di LU,OD , pur rimanendo costante nella sua formulazione LU,OD = 3 x LO,OD viene adeguato al variare di LO,OD .   
-  
-B2 Livelli di qualita' offerti dall'impresa, per un punteggio massimo di 5 punti   
-  
-1. Si prende in considerazione il livello incrementale offerto dall'impresa concorrente in tutti gli impianti di distribuzione dell'ambito per l'intero periodo di regolazione per il seguente parametro di qualita' ......... , di cui all'articolo .... della Regolazione della qualita' dei servizi di distribuzione e misura del gas allegata alla deliberazione dell'Autorita' n... :...   
-L'indicatore relativo al parametro e' valutato con la formula seguente, ponendo l'indicatore convenzionalmente pari a zero nel caso in cui dalla formula si ottenga un valore negativo e pari a 100 nel caso in cui si ottenga un valore superiore a 100:   
-(Caso in cui la stazione appaltante scelga un parametro relativo al tempo di effettuazione di una prestazione per cui la regolazione della qualita' prevede un livello specifico di qualita' commerciale per il servizio di distribuzione)   
-  
-IQ = (LO,Q - LE,Q )/(LO,Q -LU,Q )   
-  
-dove   
-  
-LE,Q e' il livello che l'impresa concorrente si impegna a rispettare in ciascun anno del periodo di affidamento per il parametro in esame in tutti gli impianti dell'ambito oggetto di gara (in sede di verifica, e' il valore effettivo nell'anno ottenuto come media di tutte le prestazioni nell'ambito);   
-LO,Q e' il livello specifico di qualita' commerciale previsto dalla regolazione di qualita' per il parametro considerato;   
-LU,Q = .... e' il livello utile per il massimo punteggio (stabilito dalla stazione appaltante, che non puo' essere inferiore al 50% del livello specifico di qualita' commerciale previsto dalla regolazione della qualita' vigente al momento dell'emissione del bando di gara). (Caso in cui la stazione appaltante scelga un parametro relativo alla percentuale di prestazioni conformi allo standard per cui la regolazione della qualita' prevede un livello generale di qualita' commerciale per il servizio di distribuzione)   
-  
-IQ = (LE,Q - LG,Q )/(LU,Q -LG,Q )   
-  
-dove   
-  
-LE,Q e' il livello che l'impresa concorrente si impegna a rispettare in ciascun anno del periodo di affidamento per il parametro in esame in tutti gli impianti dell'ambito oggetto di gara (in sede di verifica, e' il valore effettivo nell'anno ottenuto come media di tutte le prestazioni nell'ambito);   
-LG,Q e' il livello generale di qualita' commerciale previsto dalla regolazione di qualita' per il parametro considerato;   
-LU,Q = .... e' il livello utile per il massimo punteggio (stabilito dalla stazione appaltante, che non puo' essere superiore al 109% del livello generale di qualita' commerciale previsto dalla regolazione della qualita' vigente al momento dell'emissione del bando di gara).   
-  
-2. Ad ogni impresa concorrente viene attribuito un punteggio pari a:   
-  
-PQ = IQ x Pmax,Q   
-  
-dove   
-  
-Pmax,Q e' il punteggio massimo attribuibile al criterio sulla qualita'.   
-  
-3. L'offerta deve essere accompagnata da una nota che descrive l'organizzazione dell'impresa, al fine di giustificare il livello incrementale offerto IQ .   
-  
-4. Ogni anno del periodo di affidamento il soggetto, di cui all'articolo 2, comma 5 del regolamento sui criteri di gara, verifica il rispetto degli impegni assunti dall'impresa aggiudicataria sull'indicatore IQ nell'anno precedente. Ai fini della verifica vale la formula di cui sopra con adeguamento del valore LO,Q al valore vigente nel Testo Unico della regolazione della qualita' per l'anno oggetto di verifica, se deliberato dall'Autorita' prima della data della lettera di invito a presentare l'offerta di gara, altrimenti il valore dell'ultimo anno deliberato dall'Autorita' prima della data della lettera di invito. Nel periodo di affidamento il valore LU,Q rimane invece costante e pari al valore fissato in sede di gara.   
-  
-C. Piano di sviluppo degli impianti, 45 punti   
-  
-Ogni concorrente redige un progetto di dettaglio partendo dai documenti guida per gli interventi di estensione, manutenzione e potenziamento degli impianti di distribuzione nei singoli Comuni dell'ambito territoriale e dai relativi stati di consistenza divisi per proprietario.   
-Sono oggetto di progetto gli interventi di sviluppo e di ottimizzazione delle reti e degli impianti per l'adeguamento, ammodernamento e potenziamento degli impianti di distribuzione attuali, ai fini dell'affidabilita' e della continuita' del servizio, oltre che una loro estensione e potenziamento per far fronte alle nuove utenze acquisibili in funzione dei piani urbanistici dei Comuni, in accordo con quanto identificato nei documenti guida. Gli interventi proposti sono da realizzare nell'arco della durata dell'affidamento.   
-Il concorrente puo', motivando adeguatamente le proprie scelte, ottimizzare quanto previsto dal documento guida e prevedere anche interventi integrativi, evidenziando i benefici a fronte dei corrispondenti costi.   
-Il progetto deve essere costituito da:   
-• una relazione tecnica che contiene il programma dei lavori e illustra gli interventi;   
-• elaborati progettuali, in particolare planimetrie e schematiche illustrative degli interventi.   
-  
-Il finanziamento di tutte le opere previste nel piano di sviluppo e' a completo carico della societa' aggiudicataria (oppure specificare diversamente in caso di finanziamenti pubblici)   
-Il piano degli interventi di sviluppo e di mantenimento degli impianti e' valutato in base ai seguenti criteri:   
-  
-a. Adeguatezza dell'analisi di assetto di rete e degli impianti e della relativa documentazione;   
-b. Valutazione degli interventi di estensione e potenziamento;   
-c. Valutazione degli interventi per mantenimento in efficienza della rete e degli impianti;   
-d. Innovazione tecnologica, adottata in maniera accelerata o addizionale a quanto previsto dalla regolazione.   
-  
-1. Adeguatezza dell'analisi di assetto di rete e degli impianti e della relativa documentazione, per un punteggio massimo di 5 punti   
-  
-Il punteggio e' attribuito mediante la griglia di sub - criteri in tabella 1 e utilizzando la seguente formula, troncando il valore alla seconda cifra decimale:   
-  
-11   
-P = Pmax x Σ Ii / 22   
-i=1   
-  
-Tab. 1 - Adeguatezza analisi assetto di rete e impianti e relativa documentazione(1 )   
-  
-  
-|==|=================================|=============================|  
-|N°| Sub - criterio | Indicatore (Ii) |  
-|==|=================================|======|======|===============|  
-|1 |Possesso di procedure aziendali | Si | No | |  
-| |(da allegare) che definiscono le |------|------| |  
-| |modalita' operative del processo | 2 | 0 | |  
-| |di verifica dell'assetto di rete | | | |  
-|--|---------------------------------|------|------|---------------|  
-|2 |Estensione della verifica di | a) | b) | |  
-| |rete: a) sulla media e bassa |------|------| |  
-| |pressione, b) solo sulla media | 2 | 0 | |  
-| |pressione | | | |  
-|--|---------------------------------|------|------|---------------|  
-|3 |Sono state verificate le |Tutte |Alcune| Nessuna |  
-| |possibili estensioni di rete |------|------|---------------|  
-| |previste nei documenti guida? | 2 | 1 | 0 |  
-|--|---------------------------------|------|------|---------------|  
-|4 |Estensione della simulazione nel | b) | a) | |  
-| |tempo della verifica di rete: a) |------|------|---------------|  
-| |la verifica e' stata effettuata | 2 | 0 | |  
-| |solo con i consumi attuali; b) | | | |  
-| |anche con i consumi previsti a | | | |  
-| |fine concessione | | | |  
-|--|---------------------------------|------|------|---------------|  
-|5 |Estensione della simulazione | b) | a) | |  
-| |della verifica di rete a |------|------|---------------|  
-| |situazioni particolari: a) la | 2 | 0 | |  
-| |verifica e' stata effettuata solo|------|------|---------------|  
-| |in condizioni di normale | | | |  
-| |funzionamento della rete; b) | | | |  
-| |anche in condizioni di emergenza | | | |  
-| |(parzializzazione e/o rotture sui| | | |  
-| |punti di alimentazione della rete| | | |  
-| |o sulla rete di media pressione) | | | |  
-|--|---------------------------------|------|------|---------------|  
-|6 |E' stato verificato il corretto | a) | b) | c) |  
-| |dimensionamento delle cabine |------|------|---------------|  
-| |RE.MI?: a) anche con i consumi | 2 | 1 | 0 |  
-| |previsti a fine concessione; b) |------|------|---------------|  
-| |solo con i consumi attuali c) non| | | |  
-| |e' stato verificato | | | |  
-|--|---------------------------------|------|------|---------------|  
-|7 |Estensione della verifica del | b) | a) | |  
-| |dimensionamento delle cabine |------|------|---------------|  
-| |RE.MI: a) la verifica e' stata | 2 | 0 | |  
-| |effettuata solo in condizioni di |------|------|---------------|  
-| |normale funzionamento della rete;| | | |  
-| |b) anche in condizioni di | | | |  
-| |emergenza (parzializzazione e/o | | | |  
-| |fuori servizio) | | | |  
-|--|---------------------------------|------|------|---------------|  
-|8 |E' stato verificato il corretto | Si | No | |  
-| |dimensionamento dei Gruppi di |------|------|---------------|  
-| |Riduzione Finali | 2 | 0 | |  
-|--|---------------------------------|------|------|---------------|  
-|9 |Adeguatezza della relazione |Ottima|Suffi-| Insufficiente |  
-| |illustrativa a descrivere | |ciente| |  
-| |adeguatamente il modello di |------|------|---------------|  
-| |calcolo e la metodologia | 2 | 1 | 0 |  
-| |utilizzata | | | |  
-|--|---------------------------------|------|------|---------------|  
-|10|Adeguatezza della relazione e dei|Ottima|Suffi-| Insufficiente |  
-| |documenti progettuali a descrive-| |ciente| |  
-| |re i risultati della verifica |------|------|---------------|  
-| | | 2 | 1 | 0 |  
-|--|---------------------------------|------|------|---------------|  
-|11|Adeguatezza della presentazione | a) | b) | |  
-| |del piano temporale degli inter- |------|------|---------------|  
-| |venti in base alle verifiche: | 2 | 0 | |  
-| |a) identifica e giustifica gli |------|------|---------------|  
-| |elementi significativi e stabili-| | | |  
-| |sce un ordine di priorita'; b) fa| | | |  
-| |solo un sommario esame | | | |  
-|==|=================================|======|======|===============|  
-  
-  
--------- 
-  
-(1 ) Riferita a tutti gli impianti oggetto dell'affidamento   
-  
-C1. Valutazione degli interventi di estensione e potenziamento della rete ed impianti, per un punteggio massimo di..... (5 - 20) punti   
-  
-Il punteggio e' attribuito mediante la griglia di sub - criteri in tabella 2 e utilizzando la seguente formula, troncando il valore alla seconda cifra decimale:   
-  
-7   
-P = Pmax x Σ Ii / 25   
-i=1   
-  
-Tab. 2 - Valutazione degli interventi di estensione e potenziamento della rete e degli impianti   
-  
-  
-|==|==================================|============================|  
-|N°| Sub - criterio | Indicatore (Ii) |  
-|==|==================================|======|======|=======|======|  
-|1 |Grado di dettaglio del progetto: | A | B | c | d |  
-| |a) elevato grado di dettaglio |------|------|-------|------|  
-| |equivalente ad un progetto | 5 | 3 | 1 | 0 |  
-| |esecutivo b) buon grado di |------|------|-------|------|  
-| |dettaglio equivalente ad un | | | | |  
-| |progetto definitivo; c) suffi- | | | | |  
-| |ciente grado di dettaglio | | | | |  
-| |equiparabile ad un progetto | | | | |  
-| |preliminare; | | | | |  
-| |d) insufficiente | | | | |  
-|--|----------------------------------|------|------|-------|------|  
-|2 |La scelta degli investimenti |Accu- |Gene- | No | |  
-| |proposti segue una logica di |rata |rica | | |  
-| |ottimizzazione tecnico/economica |------|------|-------|------|  
-| | | 4 | 2 | 0 | |  
-|--|----------------------------------|------|------|-------|------|  
-|3 |Estensione di rete proposte: | A | B | c | d |  
-| |a) recepisce e ottimizza tutti |------|------|-------|------|  
-| |gli interventi dello studio | 3 | 2 | 1 | 0 |  
-| |guida; b) recepisce tutti gli |------|------|-------|------|  
-| |interventi senza ottimizzazione; | | | | |  
-| |c) ne recepisce piu' del 60% | | | | |  
-| |(in termini di sviluppo in metri);| | | | |  
-| |d) ne recepisce meno del 60% | | | | |  
-|--|----------------------------------|------|------|-------|------|  
-|4 |Le sostituzioni per potenziamento | A | B | c | |  
-| |delle rete e dei GRF(2) | | | | |  
-| |proposte sono a) attendibili e | 3 | 1 | 0 | |  
-| |trovano giustificazioni nei |------|------|-------|------|  
-| |documenti di offerta in partico- | | | | |  
-| |lare nell'analisi di assetto di | | | | |  
-| |rete b) solo parzialmente c) no | | | | |  
-|--|----------------------------------|------|------|-------|------|  
-|5 |I potenziamenti proposti permet- | Si | No | | |  
-| |tono di migliorare la continuita' |------|------|-------|------|  
-| |del servizio in caso di disfun- | 2 | 0 | | |  
-| |zioni sulla rete (magliature) | | | | |  
-|--|----------------------------------|------|------|-------|------|  
-|6 |Le proposte di potenziamento del- | A | B | c | d |  
-| |le cabine RE.MI: a) recepiscono |------|------|-------|------|  
-| |le finalita' del progetto dello | 4 | 2 | 1 | 0 |  
-| |studio guida, ottimizzandolo e/o |------|------|-------|------|  
-| |integrandolo con proposte condi- | | | | |  
-| |visibili e adeguatamente giusti- | | | | |  
-| |ficate; b) recepiscono quanto | | | | |  
-| |previsto nello studio guida; | | | | |  
-| |c) sono solo parzialmente giusti- | | | | |  
-| |ficate; d) non sono giustificate | | | | |  
-|--|----------------------------------|------|------|-------|------|  
-|7 |Quantita' di rete complessivamente| |  
-| |posata per estensione e potenzia- | |  
-| |mento, solo se ritenuta attendi- | |  
-| |bile e giustificata da un'accura- | |  
-| |ta logica di ottimizzazione tec- | |  
-| |nico/economica nei sub-criteri | I7= 4 x (Moff)/Mmax |  
-| |2, 3 e 4 (dove: Moff sono i metri | |  
-| |offerti dal concorrente, qualora | |  
-| |gli interventi sono ritenuti giu- | |  
-| |stificati e Mmax sono i metri | |  
-| |offerti dal soggetto che offre la | |  
-| |quantita' massima con interventi | |  
-| |giustificati) | |  
-|==|==================================|============================|
-  
-  
-  
---------   
-(2 ) Per GRF, in questa tabella, si intende un gruppo di riduzione finale della pressione con potenza ≥ 1200 kW con almeno 200 metri di rete di bassa pressione a valle.   
-  
-C2. Valutazione degli interventi per mantenimento in efficienza della rete ed impianti, per un punteggio massimo di .... (5 - 20) punti   
-  
-Il punteggio e' attribuito mediante la griglia di sub - criteri in tabella 3 e utilizzando la seguente formula, troncando il valore alla seconda cifra decimale:   
-  
-5   
-P = Pmax x Σ Ii / 12   
-i=1   
-  
-  
-Tab. 3 - Valutazione degli interventi per mantenimento in efficienza della rete e degli impianti  
-  
-  
-|==|==================================|============================|  
-|N°| Sub - criterio | Indicatore (Ii) |  
-|==|==================================|=========|=========|========|  
-|1 |Gli interventi di sostituzione | A | b | C |  
-| |proposti per rinnovo della rete |---------|---------|--------|  
-| |hanno: a) adeguata giustificazio- | 4 | 2 | 0 |  
-| |ne nella relazione sulla base |---------|---------|--------|  
-| |della vita utile dei componenti e | | | |  
-| |dei riscontri evidenziati nei | | | |  
-| |documenti guida ed in particolare | | | |  
-| |nelle relazioni sullo stato della | | | |  
-| |rete e degli impianti; b) giusti- | | | |  
-| |ficazione solo parziale c) giusti-| | | |  
-| |ficazione insufficiente | | | |  
-|--|----------------------------------|---------|---------|--------|  
-|2 |Gli interventi proposti di rinno- | A | b | C |  
-| |vo allacciamenti utenti hanno: |---------|---------|--------|  
-| |a) adeguata giustificazione nella | 2 | 1 | 0 |  
-| |relazione sulla base della vita |---------|---------|--------|  
-| |utile dei componenti e dei ris- | | | |  
-| |contri evidenziati nei documenti | | | |  
-| |guida e in particolare nelle | | | |  
-| |relazioni sullo stato della rete e| | | |  
-| |degli impianti; b) giustificazio- | | | |  
-| |ne solo parziale c) giustifica- | | | |  
-| |zione insufficiente | | | |  
-|--|----------------------------------|---------|---------|--------|  
-|3 |Gli interventi proposti di rinno- | A | b | C |  
-| |vo RE.MI e GRF hanno: a) adeguata |---------|---------|--------|  
-| |giustificazione nella relazione | 2 | 1 | 0 |  
-| |sulla base della vita utile dei |---------|---------|--------|  
-| |componenti e dei riscontri eviden-| | | |  
-| |ziati nei documenti guida e in | | | |  
-| |particolare nelle relazioni sullo | | | |  
-| |stato della rete e degli impian- | | | |  
-| |ti; b) giustificazione solo par- | | | |  
-| |ziale c) giustificazione insuffi- | | | |  
-| |ciente | | | |  
-|--|----------------------------------|---------|---------|--------|  
-|4 |Gli interventi proposti di rinno- | A | b | C |  
-| |vo dei sistemi di protezione |---------|---------|--------|  
-| |catodica hanno: a) adeguata giu- | 2 | 1 | 0 |  
-| |stificazione nella relazione |---------|---------|--------|  
-| |sulla base della vita utile dei | | | |  
-| |componenti e dei riscontri evi- | | | |  
-| |denziati nei documenti guida e | | | |  
-| |nelle relazioni sullo stato della | | | |  
-| |rete e degli impianti; b) giusti- | | | |  
-| |ficazione solo parziale c) giu- | | | |  
-| |stificazione insufficiente | | | |  
-|--|----------------------------------|---------|---------|--------|  
-|5 |Quantita' di rete complessivamente| |  
-| |offerta per rinnovo rete ed allac-| |  
-| |ciamenti, qualora nei subcriteri | |  
-| |1 e 2 gli interventi sono consi- | |  
-| |derati adeguatamente giustificati,| |  
-| |(dove: Moff sono i metri offer- | I5=2 x (Moff)/Mmax |  
-| |ti dal concorrente, se gli inter- | |  
-| |venti sono ritenuti adeguatamente | |  
-| |giustificati, e Mmax sono i metri | |  
-| |massimi offerti ritenuti adegua- | |  
-| |tamente giustificati) | |  
-|==|==================================|============================|
-  
-  
-  
-C3. Innovazione tecnologica, per un punteggio massimo di... (5 - 10) punti   
-  
-Il punteggio sara' attribuito mediante la griglia di sub - criteri in tabella 4 e utilizzando la seguente formula, troncando il valore alla seconda cifra decimale:   
-  
-5   
-P = Pmax x Σ Ii / 12   
-&#160;i=1   
-  
-Tab. 4 - Valutazione degli interventi di innovazione tecnologica   
-  
-  
-|==|=====================================|=========================|  
-|N°| Sub - criterio | Indicatore (Ii) |  
-|==|=====================================|=========================|  
-|1 |Numero di impianti telecontrollati(3)| |  
-| |offerti (dove: Noff e' il numero | |  
-| |offerto dal concorrente, Nmax e' il | I1- 3 x ( (Noff/Nmax) |  
-| |numero offerto dal soggetto che | |  
-| |offre la quantita' massima) | |  
-|--|-------------------------------------|-------------------------|  
-|2 |Numero di sistemi di dosaggio | |  
-| |dell'odorizzante ad iniezione o | |  
-| |equivalenti in cabine RE.MI offerti | I2= 3 x ( (Noff/Nmax) |  
-| |(dove: Noff e' il numero offerto | |  
-| |dal concorrente, Nmax e' il numero | |  
-| |massimo offerto) | |  
-|--|-------------------------------------|------------|------------|  
-|3 |Programma di messa in protezione | Si | No |  
-| |catodica delle tubazioni in acciaio |------------|------------|  
-| |in bassa pressione accelerato ris- | 1 | 0 |  
-| |petto a quello previsto nella rego- |------------|------------|  
-| |lazione della qualita' | | |  
-| |dall'Autorita' per l'energia elet- | | |  
-| |trica e gas: raggiungimento del | | |  
-| |95% al 31 dicembre 2013 | | |  
-| |(anziche' 2015) | | |  
-|--|-------------------------------------|------------|------------|  
-|4 |Numero di sistemi di misurazione in | |  
-| |continuo della protezione catodica | |  
-| |offerti (dove: Noff e' il numero | I4= 3 x ( (Noff)/Nmax) |  
-| |offerto dal concorrente, Nmax e' il | |  
-| |numero massimo offerto) | |  
-|--|-------------------------------------|------------|------------|  
-|5 |Programma di installazione dei | Si | No |  
-| |misuratori elettronici accelerato |------------|------------|  
-| |rispetto a quello previsto nella | 2 | 0 |  
-| |regolazione dall'Autorita' per |------------|------------|  
-| |l'energia elettrica e gas: | |  
-| |raggiungimento del ...% al | |  
-| |31 dicembre ... (anziche' ...) | |  
-|==|=====================================|=========================|
-  
-  
-  
-  
-La Stazione appaltante ha la facolta' di sostituire il valore Nmax , pari al numero massimo di componenti offerti dalle imprese partecipanti, con un valore soglia prefissato prima della gara, NLim ; per un numero di componenti installati in eccesso di tale valore non si attribuiscono punteggi aggiuntivi.   
-  
---------   
-(3 ) Ai fini del disciplinare di gara per impianto telecontrollato si intende un impianto con tutte le cabine RE.MI telecontrollate e con un rapporto IP , definito come rapporto tra il numero di GRF (con potenza ≥ 1200 kW e con almeno 200 metri di rete di bassa pressione a valle).con telecontrollo almeno della pressione di ingresso e di uscita e numero totale dei GRF (sempre con potenza ≥1200kW e almeno 200 metri di rete di bassa pressione a valle), pari o maggiore di 0,06.   
-  
-2. Piano industriale e verifica di offerte anomale   
-  
-L'offerta deve essere corredata, pena l'esclusione dalla gara, dal Piano industriale previsionale per gli anni di durata dell'affidamento redatto secondo lo schema del flusso di cassa operativo contenuto nell'allegato B.   
-  
-Il piano deve essere corredato anche da:   
-a. Piano degli investimenti   
-b. Piano degli ammortamenti   
-c. Una nota illustrativa per dimostrare l'attendibilita' delle ipotesi tecnico - economiche e finanziarie in cui risulti quantomeno:   
-i. la metodologia utilizzata per la valutazione dei ricavi;   
-ii. la composizione e la giustificazione dei costi di gestione e dei costi indiretti/generali allocati sulla concessione. In particolare e' richiesta una descrizione dettagliata degli organici tecnici del distributore ed i servizi esterni di cui si avvarra', nonche' l'attrezzatura materiale e l'equipaggiamento di cui disporra' per l'esecuzione del servizio, oltre ai costi operativi unitari.  
-Inoltre devono essere evidenziati i costi e le modalita' di calcolo correlati ai livelli di sicurezza e qualita' offerti;   
-iii. la composizione e la giustificazione degli eventuali altri oneri derivanti dall'affidamento, quali gli oneri a favore dei proprietari degli impianti, se diversi dal gestore;   
-iv. gli investimenti materiali, valutati secondo il prezzario allegato allo schema di contratto di servizio di cui all'articolo 9, comma 9, ed il loro piano di ammortamento. Nel caso in cui vengano utilizzati valori diversi, devono essere giustificati;   
-v. la composizione e giustificazione degli investimenti immateriali, incluse le spese di gara e il valore di rimborso ai gestori uscenti.   
-vi. il valore residuo risultante al termine dell'affidamento;   
-vii. le forme di finanziamento che saranno utilizzate.   
-  
-L'allegato B riporta sia lo schema secondo cui andra' redatto il Flusso di cassa operativo sia le istruzioni per la sua redazione, sia informazioni piu' dettagliate che deve contenere la nota illustrativa.   
-Le offerte che conducono ad un Tasso di Ritorno Interno (T.I.R), calcolato al netto delle imposte, inferiore al
-
-((4%, in termini reali, sono considerate soggette a verifica di anomalia))
-
-.   
-La Commissione verifica la congruita' delle ipotesi a base del Piano industriale e puo' richiedere giustificazioni.   
-In particolare la Commissione valuta le eventuali anomalie dei costi di gestione del concorrente, in particolare, qualora i costi di gestione del concorrente siano inferiori inferiori ai valori limite contenuti nell'Allegato B la Commissione procede alla verifica della congruita' dell'offerta.   
-Inoltre la Commissione verifica che la struttura ed i valori del piano industriale siano in accordo con le istruzioni contenute nell'Allegato B, che i ricavi siano congruenti con la regolazione in vigore e che la valutazione degli investimenti unitari non si discosti da quella degli altri concorrenti   
-Per gli altri casi di identificazione di offerte anomale e per il procedimento di verifica si applicano le previsioni dell'articolo 16 del regolamento sui criteri di gara.   
-  
-3. Contenuto e presentazione dell'offerta   
-  
-Presentazione dell'offerta   
-  
-Le imprese invitate che intendono partecipare alla gara devono far pervenire al seguente indirizzo ......... . entro il termine indicato nella lettera d'invito un unico plico debitamente sigillato con nastro adesivo e controfirmato sui lembi esterni, sul quale devono essere indicati i dati del mittente e la seguente dicitura. "Offerta per l'aggiudicazione dell'affidamento del servizio pubblico di distribuzione del gas naturale nel territorio dell'ambito di .....".   
-Il plico deve essere spedito mediante raccomandata A.R. del servizio postale o tramite ditte private specializzate o mediante consegna a mano presso l'Ufficio Protocollo......   
-Fa fede la data apposta dall'Ufficio protocollo. Tutti i rischi per il mancato recapito del plico o per la ricezione oltre il termine sono esclusivamente a carico del mittente. Non sono, pertanto, prese in considerazione le offerte pervenute oltre il termine indicato nella lettera d'invito, ancorche' spedite in data anteriore, neppure se aggiuntive rispetto ad offerte precedentemente recapitate.   
-Pena l'esclusione dalla gara, non sono ammesse offerte incomplete, parziali o condizionate.   
-Nel plico devono essere inserite tre buste a loro volta debitamente chiuse, sigillate e siglate sui lembi di chiusura. Su ciascuna busta deve essere indicato, oltre all'oggetto della gara, il contenuto identificato con le seguenti diciture:   
-  
-Busta 1 "Documentazione amministrativa"   
-Busta 2 "Offerta tecnica"   
-Busta 3 "Offerta economica"   
-  
-Le tre buste devono contenere la documentazione sotto elencata:   
-  
-Contenuto della busta 1 "Documentazione amministrativa"   
-In questa busta devono essere inseriti:   
-1. Dichiarazione in lingua italiana, sottoscritta dal legale rappresentante dell'impresa partecipante, successivamente verificabile, e, nel caso di concorrente costituito da riunione di imprese o consorzio, sottoscritta dal legale rappresentante di tutti i soggetti che costituiscono la predetta riunione o consorzio, redatta conformemente al [DPR 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445) (e allegando copia di un documento valido d'identita') attestante:   
-i. di aver preso visione della lettera d'invito e delle condizioni riportate nel contratto di servizio per la distribuzione del gas naturale e di accettarle tutte indistintamente, senza alcuna riserva;   
-ii. di aver preso visione degli elaborati relativi alla consistenza degli impianti e di essersi recata sui luoghi dove deve essere effettuato il servizio, di aver constatato la consistenza degli impianti e del loro stato di efficienza e conservazione (come da certificazione di presa visione rilasciata dall'Ente concedente e allegata alla presente dichiarazione), di aver preso conoscenza delle condizioni locali e contrattuali, nonche' di aver valutato tutte le circostanze generali e particolari che possono aver influito sulla determinazione dell'offerta e di aver giudicato l'affidamento del servizio remunerativo nel suo complesso e tale da consentire l'offerta formulata;   
-iii. di aver compreso nella determinazione dell'offerta economica tutti gli oneri necessari a garantire la sicurezza dei lavoratori;   
-iv. di rispettare il contratto collettivo nazionale di lavoro unico del settore gas e le altre obbligazioni contenute nel decreto 21 aprile 2011 del Ministro dello sviluppo economico e del Ministro del lavoro e delle politiche sociali emanato ai sensi dell'[articolo 28, comma 6, decreto legislativo 23 maggio 2000, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164~art28-com6), sulla tutela dell'occupazione del personale;   
-v. di autorizzare l'Amministrazione al trattamento dei dati indicati nella presente dichiarazione e di quelli contenuti nell'offerta;   
-vi. che non sono intervenute modificazioni rispetto alle condizioni dichiarate nell'istanza di partecipazione alla gara (in caso positivo indicare quali).   
-vii. di confermare, essendo noti i soggetti partecipanti alla gara, che non vi sono rapporti di collegamento o controllo, ai sensi dell'[articolo 2359 del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2359), con altri soggetti partecipanti alla gara oppure di essere in una situazione di controllo di cui all'[articolo 2359 del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2359), con indicazione del concorrente con cui sussiste tale situazione, e di aver formulato autonomamente l'offerta; corredando tale dichiarazione dai documenti utili a dimostrare che la situazione di controllo non ha influito sulla formulazione dell'offerta, inseriti in separata busta chiusa.   
-  
-2. Cauzione provvisoria tramite fidejussione bancaria o polizza assicurativa presentata a garanzia dell'obbligo di stipulare il contratto dell'importo di € .....   
-  
-3. Dichiarazione in lingua italiana, in carta legale e sottoscritta dal legale rappresentante dell'impresa concorrente, con la quale la concessionaria si impegna, salvo espressa rinuncia degli interessati, all'assunzione del personale dipendente delle concessionarie uscenti addetto alla gestione degli impianti e di funzioni centrali, di cui all'elenco allegato al bando di gara, per un numero complessivo di ... addetti nel primo anno, e di un numero complessivo di ... addetti stimato negli anni successivi, secondo le modalita' previste nel decreto 21 aprile 2011 del Ministro dello sviluppo economico e del Ministro del lavoro e delle politiche sociali, emanato ai sensi dell'[articolo 28, comma 6, decreto legislativo 23 maggio 2000, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164~art28-com6), sulla tutela dell'occupazione del personale.   
-  
-4. Dichiarazione in lingua italiana, in carta legale e sottoscritta dal legale rappresentante, contenente l'impegno della aggiudicataria a corrispondere alle societa' concessionarie uscenti, all'atto della sottoscrizione del relativo verbale di consegna del servizio, la somma complessiva di € ..... per il primo anno e la somma stimata di € .... negli anni successivi, allo scadere delle concessioni in essere, a titolo di rimborso, come previsto negli articoli 5 e 6 del regolamento sui criteri di gara, oltre a subentrare nelle obbligazioni finanziarie del gestore uscente, relative agli investimenti realizzati nel precedente periodo di affidamento, o a indennizzare il gestore uscente per la loro estinzione, nonche' a subentrare nei contratti pubblici o privati dei gestori uscenti relativi allo svolgimento del servizio e connessi alla proprieta' degli impianti. (In caso di disaccordo sul valore di rimborso fra l'Ente locale e il gestore entrante, inserire il valore di riferimento e una dichiarazione in cui il concorrente prende atto dell'esistenza di un contenzioso sulla determinazione del valore di rimborso e della stima massima e minima esplicitata nel bando di gara e si impegna a regolare con il gestore uscente, a risoluzione definitiva del contenzioso, la differenza fra il valore definitivamente accertato per il valore di rimborso e il valore di riferimento esplicitato nel bando di gara).   
-  
-5. Copia del Contratto di servizio sottoscritta per accettazione in tutte le pagine dal legale rappresentante dell'impresa concorrente.   
-  
-6. Limitatamente ai raggruppamenti temporanei di imprese e consorzi ordinari, la dichiarazione, sottoscritta nelle forme di cui al [DPR 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445), contenente l'impegno, in caso di aggiudicazione della gara, di tutti i rappresentanti legali del raggruppamento:   
-i. a costituire un soggetto giuridico unitario, avente la forma di societa' di capitali, che sottoscrivera' il Contratto di servizio;   
-ii. ad adempiere solidalmente a tutti gli obblighi assunti dal soggetto di cui al punto i).   
-Tale dichiarazione deve contenere anche l'impegno della capogruppo di obbligarsi a far parte del nuovo soggetto per tutta la durata dell'affidamento del servizio e da parte delle mandanti per almeno 5 anni dal primo affidamento. Per la mandante inoltre la dichiarazione deve contenere anche l'impegno di procedere ad una eventuale cessione della propria partecipazione nel soggetto giuridico unitario solo dopo che l'aspirante acquirente della partecipazione ha sottoposto al soggetto che gestisce il contratto di servizio la documentazione attestante il possesso di requisiti di capacita' economica-finanziaria e di capacita' tecnica non inferiori a quelli che la mandante ha utilizzato, ai fini dei requisiti di partecipazione alla gara.   
-  
-Contenuto della busta 2 "Offerta tecnica"   
-In questa busta devono essere inseriti:   
-1. I livelli di sicurezza e di qualita' offerti, , di cui all'articolo 1, lettera B.   
-2. Il piano di sviluppo degli impianti, di cui all'articolo 1, lettera C.   
-  
-Contenuto della busta 3 "offerta economica   
-In questa busta devono essere inseriti:   
-1. la dichiarazione redatta in lingua italiana su carta legale, sottoscritta dal legale rappresentante dell'impresa concorrente contenente i valori di cui ai punti A1,A2, A3, A5, A6 e (eventualmente) A4;   
-2. il Piano industriale sottoscritto dal legale rappresentante dell'impresa.   
-  
-Ogni pagina dei progetti, degli allegati e delle relazioni deve essere numerata e la prima deve essere sottoscritta dal legale rappresentante dell'impresa concorrente con l'indicazione del numero di pagine di cui si compone il documento.   
-In caso di raggruppamenti di imprese o consorzi ordinari qualora il mandato collettivo non sia stato conferito precedentemente alla presentazione dell'offerta, deve essere presentata una offerta congiunta e sottoscritta da tutte le imprese partecipanti al raggruppamento.   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v012G00100040001011000102&dgu=2012-01-27&art.dataPubblicazioneGazzetta=2012-01-27&art.codiceRedazionale=012G0010)
-  
-
-Allegato 3-Allegato A
-
-Allegato A al Disciplinare di gara   
-  
-Elenco Comuni dell'ambito di .....   
-  
-
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| Codice ISTAT | Comune | Provincia | Data di scadenza della concessione in essere | Data prevista di inizio metanizzazione |
-| ...... | .................. | ............ | ............. | ................ |
-| ...... | .................. | ............ | ............. | ................ |
-| ...... | .................. | ............ | ............. | ................ |
-| ...... | .................. | ............ | ............. | ................ |
-| ...... | .................. | ............ | ............. | ................ |
-| ...... | .................. | ............ | ............. | ................ |
-| ...... | .................. | ............ | ............. | ................ |
-| ...... | .................. | ............ | ............. | ................ |
-| ...... | .................. | ............ | ............. | ................ |
-| ...... | .................. | ............ | ............. | ................ |
-| ...... | .................. | ............ | ............. | ................ |
-
-  
-  
-  
-  
---------   
-(4 ) Per i Comuni in cui la metanizzazione e' oggetto di gara   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=012G001000400020110001&dgu=2012-01-27&art.dataPubblicazioneGazzetta=2012-01-27&art.codiceRedazionale=012G0010)
-  
-
-Allegato 3-Allegato B
-
-Allegato B - Schema di Piano Industriale - Istruzioni per la   
-redazione   
-  
-Il piano industriale deve contenere il flusso di cassa operativo secondo lo schema B 1. La Commissione verifica la congruita' del piano proposto anche calcolando il TIR dell'operazione in termini reali. Lo schema e la nota illustrativa devono essere compilati in base alle seguenti istruzioni. In caso di disaccordo sul valore di rimborso fra l'Ente locale e il gestore uscente, il valore da considerare nel piano industriale e' il valore di riferimento riportato nel bando di gara.   
-  
-Istruzioni per la compilazione   
-  
-Numero di punti di riconsegna attivi   
-Si deve riportare il numero di punti di riconsegna attivi per ogni anno di gestione. Nella nota illustrativa devono essere riportate le considerazioni a base del calcolo; in particolare, devono essere indicati in maniera dettagliata:   
-  
-a) i nuovi punti di riconsegna attivi dovuti al subentro nella gestione di impianti di distribuzione con scadenza della concessione in vigore successiva alla data del primo affidamento e al tasso di crescita annuo sulla rete esistente;   
-b) i nuovi punti di riconsegna nelle zone di nuova urbanizzazione o comunque interessate dall'estensione della rete collegati ad interventi di espansione della rete analiticamente indicati nel Piano di sviluppo degli impianti;   
-c) punti di riconsegna addizionali nel caso in cui l'impresa offra ai punti A3 e A4 dell'offerta economica una estensione di rete maggiore di quanto previsto nella bozza di contratto di servizio allegata al bando di gara e quindi non prevedibile analiticamente nel Piano di sviluppo degli impianti.   
-  
-Il tasso di crescita sulla rete esistente e' fissato dalla Stazione appaltante, sulla base dei dati storici degli impianti di distribuzione che costituiscono l'ambito e del grado di penetrazione del servizio (v. Allegato B al bando di gara).   
-Il tasso di crescita nelle zone di nuova urbanizzazione o interessate dall'estensione della rete di cui alla lettera b) e' indicato dal concorrente ed e' adeguatamente giustificato sulla base dei dati dei residenti gia' esistenti nelle zone di espansione e dei programmi di sviluppo urbanistico contenuti nel documento guida, in coerenza con il progetto reti presentato in offerta.   
-L'incremento del numero di punti di riconsegna per estensione di rete successive , non previste nel piano di sviluppo, di cui alla lettera c), deve essere indicato dal concorrente ed essere giustificato in funzione:   
-  
-1) di quanto gia' previsto nel Piano di Sviluppo degli Impianti;   
-2) delle condizioni offerte di cui ai punti A3 e A4 dell'offerta economica;   
-3) delle indicazioni di sviluppo urbanistico del territorio fornite dalla Stazione Appaltante.   
-  
-Vincoli ai ricavi (a1)   
-Si devono riportare tutti i ricavi tariffari (vincoli ai ricavi) provenienti dall'erogazione del servizio di distribuzione e misura relativi agli impianti di distribuzione gestiti nell'ambito, tenendo conto dello sconto tariffario offerto in sede di gara. Per i ricavi dovuti ai costi centralizzati si riporta la quota parte dei vincoli ai ricavi a copertura dei costi centralizzati dell'impresa relativa agli impianti d'ambito in base al numero di punti di riconsegna gestiti nell'ambito rispetto al totale dell'impresa.   
-Nella voce considerata e' inclusa anche la quota parte dovuta alla remunerazione del capitale e di ammortamento di porzioni di impianto di proprieta' di altri soggetti differenti dal gestore.   
-Il calcolo del vincolo dei ricavi e' il risultato della somma delle seguenti componenti:   
-  
-a) costi operativi;   
-b) costi di capitale e ammortamenti relativi al capitale investito tariffario iniziale, relativo agli impianti acquisiti in gestione; in questa voce e' riportato anche l'ammortamento della differenza fra valore di rimborso nel primo periodo e la somma delle immobilizzazioni nette di localita', al netto dei contributi pubblici in conto capitale e dei contributi privati relativi ai cespiti di localita'.   
-c) costi di capitale e ammortamenti relativi al capitale investito tariffario relativi ad investimenti realizzati nel corso della gestione.   
-  
-La Stazione appaltante, come indicato nel regolamento sui criteri di gara e nell'Allegato B al bando di gara, fornisce i dati dei costi di capitale e ammortamenti di cui alla lettera b) precedente con riferimento all'ultimo anno tariffario disponibile, segmentati per tipologia di cespite e localita' e ripartiti per soggetto proprietario. La stazione appaltante mette a disposizione dei concorrenti su formato elettronico i dati delle schede contenenti tutti i dati rilevanti per il calcolo delle tariffe (schede localita' o schede similari).   
-La Stazione Appaltante fornisce anche il dato sugli investimenti realizzati successivamente alla data di riferimento del capitale investito iniziale, con il medesimo dettaglio per tipologia e localita'.   
-La Stazione Appaltante, inoltre, indica nell'Allegato B al "bando di gara" se il capitale investito iniziale e' condiviso con l'Autorita' per l'energia elettrica ed il gas e da questa approvato oppure se viceversa sia potenzialmente suscettibile di subire delle variazioni, specificandone, se disponibili, i motivi e la possibile entita'.  
-Tuttavia, le valutazioni sono effettuate in conformita' con i dati forniti nell'Allegato B del bando di gara.   
-Nella nota illustrativa deve essere esplicitato il calcolo dei ricavi tariffari sulla base della metodologia del Testo Unico della regolazione tariffaria emanato dall'Autorita' per l'energia elettrica e il gas e vigente alla data di presentazione dell'offerta e dello sconto offerto in sede di gara per il criterio A1. Tale metodologia e' utilizzata per il calcolo dei ricavi in tutto il periodo di affidamento, tenendo conto dell'andamento nel tempo del numero di clienti, degli investimenti e dei relativi ammortamenti, unica eccezione e' fatta per il recupero di efficienza. Con riguardo alla proiezione dei costi operativi, ai fini del business plan, la valorizzazione deve avvenire ipotizzando che, a partire dall'inizio del periodo regolatorio successivo alla presentazione dell'offerta, il coefficiente di recupero di efficienza (X factor, price cap) sia pari a zero, a meno che i valori di tale coefficiente nel periodo regolatorio successivo non siano gia' definiti dall'Autorita' al momento dell'emissione della lettera di invito alla gara.   
-Il piano deve contenere la valorizzazione, oltre che dell'evoluzione del vincolo ai ricavi, anche del capitale investito tariffario complessivo dell'ambito, distinguendo tra capitale di localita' e capitale centralizzato.   
-  
-Ricavi da nuovi allacciamenti (a2)   
-Si devono riportare i ricavi da nuovi allacciamenti tenendo conto dell'eventuale sconto offerto in sede di gara.   
-Ai fini del piano industriale, il numero dei nuovi allacciamenti si considera coincidente con l'incremento annuo dei punti di riconsegna attivi contenuti nella voce "Numero dei punti di riconsegna attivi", al netto dei punti di riconsegna addizionali dovuti al subentro nella gestione di impianti di distribuzione con scadenza ope legis successiva alla gara.   
-La valutazione dei contributi per allacciamenti e degli investimenti in nuovi allacciamenti sono quindi determinati facendo riferimento a dei contributi medi unitari e a dei costi di investimento unitari riferiti al singolo punto di riconsegna   
-Quota annua di contributi pubblici (a3)   
-Si devono riportare le quote annue rilasciate a conto economico dei contributi pubblici incassati e capitalizzati.   
-  
-Altri ricavi (a4)   
-Si devono riportare eventuali altri ricavi che il concorrente prevede di ottenere dall'affidamento, in particolare dalle altre prestazioni ai clienti e dalla loro gestione (quali addebiti diritti fissi, gestione clienti morosi, accertamenti della sicurezza degli impianti di utenza gas, verifiche gruppi di misura), esplicitando il valore del ricavo medio unitario per cliente. In tutti i casi devono essere considerati eventuali sconti sui corrispettivi offerti in sede di offerta.   
-Per semplicita' e per maggiore uniformita' dei piani industriali, per tale voce deve essere utilizzato un valore convenzionale di ricavo medio per utente per prestazioni di servizi previsti al criterio A2 dell'offerta economica , pari a ... (stabilito dalla Stazione appaltante sulla base dei dati resi noti dai gestori uscenti) e su cui ciascun concorrente dovra' applicare lo sconto offerto in sede di gara ed un valore convenzionale di ricavo medio per utente per le altre prestazioni, pari a ..., (qualora) non previste nel criterio A2 dell'offerta economica e a cui non si applica quindi lo sconto offerto.   
-Il piano deve dare rappresentazione dei ricavi generati dalle attivita' tipiche della distribuzione, ossia le attivita' che sono remunerate dalla tariffa di distribuzione e misura, denominate "Servizio Principale", e quelle denominate "Accessorie e Opzionali" come previste dal distributore nel proprio Codice di Rete redatto in conformita' a quanto disposto dalla delibera AEEG n. 108/06 e sue modificazioni o di quelle oggetto di offerta di gara.   
-Il piano non deve contemplare invece quelle voci di ricavo (e dunque anche i costi correlati) che si riferiscono ad attivita' che, pure se poste in capo al distributore da disposizioni degli enti di regolazione, sono riferite ad obblighi imposti da meccanismi di incentivazione e penale, aventi per lo piu' riferimento all'intera attivita' aziendale, e quindi senza specifici riferimenti all'attivita' svolta nel singolo ambito oggetto della gara.   
-A titolo esemplificativo, non possono essere comprese le seguenti voci di ricavo:   
-  
-- ricavi connessi ai meccanismi incentivanti i recuperi di sicurezza (premi/penalita') del servizio di distribuzione del gas naturale, stabiliti dall'Autorita' ai sensi della deliberazione ARG/gas n. 120/08 (vedi considerazioni per la voce "costi esterni di gestione/altri costi");   
-- ricavi connessi agli obblighi di conseguimento degli obiettivi di risparmio energetico stabiliti dal decreto ministeriale. 20.07.2004 e sue modificazioni e dai corrispondenti provvedimenti dell'Autorita'.   
-Come norma, qualora una voce di ricavo e' esposta nel piano e' vincolante che sia esposta anche la corrispondente voce di costo.   
-  
-Costi lavoro personale (b1)   
-Si devono riportare i costi che si prevede di sostenere per il personale, sia per gli addetti alla gestione degli impianti sia per il personale di funzione centrale attribuibili agli impianti in gestione. La nota illustrativa deve giustificare dettagliatamente tale valore, riportando il numero di addetti, divisi fra gestione degli impianti e funzioni centrali, per questi ultimi deve essere evidenziata la ripartizione fra le varie funzioni ed eventuali sinergie con la gestione di impianti di altri ambiti. Inoltre la nota deve evidenziare il costo medio annuo degli addetti della gestione degli impianti e il costo medio del personale delle funzioni centrali e riportare l'eventuale ipotesi di incremento annuo di tale costo medio.  
-Occorre anche evidenziare per quali funzioni si intende ricorrere a personale esterno. Inoltre la nota deve evidenziare i costi del personale e la modalita' di calcolo, correlati ai livelli di sicurezza e qualita' offerti.   
-  
-Costi materiali (b2)   
-Il concorrente deve riportare i costi che prevede di sostenere per l'acquisto dei materiali, giustificandoli nella nota illustrativa, riportando anche l'attrezzatura e l'equipaggiamento che disporra' per l'esecuzione del servizio.   
-  
-Costi remunerazione capitale proprietari (b3)   
-Si devono riportare i costi per la remunerazione del capitale investito netto ai proprietari di porzioni di rete, differenti dal gestore medesimo. La nota illustrativa deve riportare i dettagli del calcolo suddivisi per proprietario ed impianto, in base anche al progressivo subentro nella gestione degli impianti con scadenza successiva al primo affidamento. Il tasso di remunerazione e' supposto costante in tutto il periodo dell'affidamento e pari al valore stabilito dall'Autorita' per l'energia elettrica e il gas nella regolazione vigente all'atto della presentazione dell'offerta.   
-  
-Costi esterni di gestione/Altri costi (b4)   
-Si devono riportare i costi esterni di gestione e tutti gli altri costi, differenti dai costi lavoro personale (b1), costi materiali (b2) e costi remunerazione capitale proprietari (b3), che sono residuali a conto economico, con le eccezioni successivamente citate, e che si prevede di sostenere in funzione di quanto presentato in offerta, inclusi i costi per interventi di efficienza energetica addizionali rispetto agli obblighi del distributori, offerti in sede di gara al punto A6 dell'offerta economica e i costi a favore degli Enti locali concedenti relativi alla percentuale della remunerazione del capitale di localita' relativo ai servizi di distribuzione e misura e della relativa quota di ammortamento annuale, offerti in sede di gara al punto A5 dell'offerta economica.   
-Gli altri costi comprendono anche gli accantonamenti a fondi costituiti a vario titolo afferenti alla gestione dell'attivita' di distribuzione.   
-Sono esclusi i costi per interventi di efficienza energetica in ottemperanza degli obblighi di cui al decreto ministeriale 20 luglio 2004 e s.m.i. e altri costi di attivita' per cui non e' stata considerata la corrispondente voce di ricavo in conformita' con le motivazioni contenute nelle considerazioni della voce "altri ricavi".   
-Relativamente ai costi (e agli investimenti) connessi ai meccanismi incentivanti i recuperi di sicurezza (premi/penalita') del servizio di distribuzione del gas naturale, stabiliti dall'Autorita' ai sensi della deliberazione ARG/gas n. 120/08, si considerano solo i costi (e gli investimenti) relativi al periodo per cui l'Autorita' ha fissato i livelli obiettivo e di riferimento e di entita' tale da essere in una condizione neutra (ricavo 0) per il distributore ai fini del meccanismo di premi e penali.   
-Nella nota illustrativa occorre giustificare i costi esterni di gestione/altri costi, evidenziando, tra l'altro, quelli a favore della stazione appaltante e degli Enti locali concedenti ed i costi dei servizi di funzioni centrali e di gestione locale appaltati. Per questi ultimi occorre evidenziare anche il costo medio del personale, oltre a dare indicazione del numero di personale equivalente, diviso fra quello con compito di funzione centrale e quello di gestione operativa.   
-  
-Considerazioni per il complesso dei costi lavoro personale (b1),   
-costi materiali (b2) e costi esterni di gestione/altri costi (b4)   
-I valori di costo di cui alle voci b1, b2 e b4, indicati nel Piano devono nel complesso coprire:   
-1) tutti i costi direttamente attribuibili alla gestione del servizio di distribuzione oggetto di gara;   
-2) la quota parte dei costi aziendali condivisi con le altre attivita' di gestione del servizio di distribuzione attribuibili indirettamente alla gestione del servizio di distribuzione nell'ambito oggetto di gara;   
-3) la quota parte dei costi generali aziendali attribuibili indirettamente alla gestione del servizio di distribuzione oggetto di gara.   
-I costi di cui ai numeri 1) e 2) dovranno comprendere, tra l'altro:   
-  
-1. costi per il servizio principale di cui all'art. 3.1 del Codice di Rete Tipo di cui all'allegato 2 della delibera AEEG n. 108/06 e s.m.i., in particolare costi per le seguenti attivita':   
-a) conduzione e manutenzione delle apparecchiature di regolazione e misura ai Punti di Consegna fisici;   
-b) gestione tecnica degli impianti di distribuzione, anche attraverso eventuali sistemi di telecontrollo;   
-c) ricerca ed eliminazione dispersioni;   
-d) protezione catodica delle condotte in acciaio;   
-e) odorizzazione del gas e suo controllo;   
-f) condizionamento del gas;   
-g) pronto intervento, gestione delle emergenze e degli incidenti da gas;   
-h) misura del gas ai Punti di Consegna e ai Punti di Riconsegna;   
-i) attivazione di servizi sostitutivi di alimentazione nei casi di sospensione dell'erogazione del servizio di cui al [comma 1 dell'articolo 17 della deliberazione n. 138/04](http://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:2004;138~art17-com1) e s.m.i., con ripartizione dei costi della materia prima tra gli Utenti interessati;   
-j) raccolta, aggregazione e trasmissione dei dati funzionali all'Allocazione;   
-k) accesso per sostituzione nella fornitura a Clienti finali (switching);   
-l) ogni altra attivita' prevista dalle [deliberazioni n. 152/03](http://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:2003;152), [n. 40/04](http://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:2004;40) e s.m.i., n. 168/04 e s.m.i., n. 10/07 e s.m.i., n. 157/07 e s.m.i., ARG/gas n. 120/08 e s.m.i. (RQDG), ARG/gas n. 159/08 e s.m.i. (RTDG), ARG/gas n. 88/09, ARG/gas n. 119/09.   
-2. Costi per prestazioni accessorie indicate all'art. 3.2 del Codice di Rete Tipo di cui all'allegato 2 della delibera AEEG n. 108/06 e s.m.i.:   
-a) esecuzione di lavori semplici (al netto delle relative quote capitalizzate);   
-b) esecuzione di lavori complessi (al netto delle relative quote capitalizzate);   
-c) attivazione della fornitura;   
-d) disattivazione della fornitura su richiesta del Cliente finale;   
-e) riattivazione della fornitura in seguito a sospensione per morosita';   
-f) verifica del Gruppo di misura su richiesta del Cliente finale;   
-g) verifica della pressione di fornitura su richiesta del Cliente finale;   
-h) sospensione o interruzione della fornitura, su richiesta dell'Utente, per morosita' del Cliente finale;   
-i) riapertura del Punto di Riconsegna, su richiesta dell'Utente, a seguito di sospensione per cause dipendenti dall'impianto del Cliente finale;   
-j) attivazione di servizi sostitutivi di alimentazione in caso di mancata consegna del gas al Punto di Riconsegna della Rete di trasporto;   
-k) manutenzione periodica e verifica metrologica dei Correttori dei volumi installati presso i Punti di Riconsegna, ai sensi dell'[articolo 17, comma 2, della deliberazione n. 237/00](http://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:2000;237~art17-com2) e s.m.i.;   
-l) sopralluoghi tecnici, su richiesta dell'Utente, al Contatore/Gruppo di misura, per la verifica di eventuali manomissioni.   
-3. Costi per prestazioni opzionali indicate all'art. 3.1 del Codice di Rete Tipo di cui all'allegato 2 della delibera AEEG n. 108/06 e s.m.i., relativi ad ogni altra prestazione, richiesta da soggetti terzi, connessa all'esercizio del servizio di distribuzione. A titolo puramente esemplificativo e non esaustivo:   
-a. manutenzione dei gruppi di riduzione e/o misura di proprieta' del Cliente finale;   
-b. attivazione di servizi sostitutivi di alimentazione dei Punti di Riconsegna per affrontare situazioni non previste dalla [deliberazione n. 138/04](http://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:2004;138) e s.m.i. e nel caso di specifiche esigenze dei Clienti finali.   
-4. Costi per interventi di efficienza energetica addizionali rispetto agli obblighi del distributori, offerti in sede di gara al punto A6 dell'offerta economica   
-5. Costi a favore degli Enti locali relativi alla percentuale della remunerazione del capitale di localita' relativo ai servizi di distribuzione e misura e della relativa quota di ammortamento annuale, offerti in sede di gara al punto A5 dell'offerta economica   
-Con riguardo ai costi, di cui ai numeri 1) e 2), deve essere fornita una esauriente descrizione delle loro modalita' di stima, in relazione anche alle caratteristiche dell'offerta ed agli obblighi di trasferimento del personale da parte del gestore uscente.   
-I costi di cui al punto 3), data l'oggettiva maggiore discrezionalita' di stima e al fine di rendere omogenei e confrontabili i piani presentati dai vari concorrenti, si assumono convenzionalmente pari al 30% della componente tariffaria di distribuzione e misura a copertura dei costi operativi per lo specifico operatore. Tuttavia, qualora l'operatore prima della gara serva un numero di clienti inferiore a quello dell'ambito di gara, la componente tariffaria dei costi operativi e' assunta pari a quella di un operatore con lo stesso numero di clienti dell'ambito oggetto di gara e densita' di clienti del medesimo ambito.   
-In alternativa al valore convenzionale, qualora vi siano valide giustificazioni, per i costi di cui al punto 3) si puo' utilizzare un valore inferiore purche' la somma di tutti costi ( punto1, punto 2 e punto 3 e voci b1, b2 e b4) dia luogo ad un costo medio per cliente che non sia inferiore al valore medio del costo complessivo per cliente per le voci b1, b2 e b4), che risulta dai documenti dell'unbundling contabile inviati all'Autorita', relativi ai due anni precedenti la presentazione dell'offerta, con un miglioramento di efficienza annuale non superiore al valore di price cap fissato dall'Autorita' per lo specifico anno.   
-  
-La Commissione procede alla verifica di anomalia qualora:   
-  
-1. il livello complessivo dei costi indicato nelle voci b1, b2 e b4 risulti inferiore al valore medio del costo complessivo per cliente per le voci b1, b2 e b4), che risulta dai documenti dell'unbundling contabile inviati all'Autorita', relativi ai due anni precedenti la presentazione dell'offerta con un miglioramento di efficienza annuale non superiore al valore di price cap fissato dall'Autorita' per lo specifico anno.   
-2. il livello complessivo dei costi indicato nelle voci b1, b2 e b4 risulti in un costo complessivo per cliente inferiore al .... % (90% o altro valore fissato dalla Stazione appaltante) rispetto alla somma del valore della componente tariffaria a copertura dei costi operativi del servizio di distribuzione, misura e loro commercializzazione, per un operatore di dimensione del proponente e per una densita' di clientela dell'ambito oggetto di gara, e la componente unitaria (per cliente) degli "altri ricavi".   
-  
-In ambiti particolari, quali quelli in cui la stragrande maggioranza dei clienti (es. 70-80%) e' in localita' montane (es. 70-80%) o lagunari, la Stazione appaltante puo' aggiungere come criterio di verifica dell'anomalia il caso in cui il livello complessivo dei costi indicato nelle voci b1, b2 e b4 da un concorrente e' inferiore ad un valore prefissato di scostamento massimo rispetto alla media dei costi di tutti i concorrenti alla gara.   
-  
-Ammortamenti (D)   
-Si devono riportare le quote di ammortamento annuo degli investimenti effettuati, distinguendo fra ammortamenti di investimenti immateriali e ammortamenti di investimenti materiali. In allegato si deve riportare il piano di ammortamento degli investimenti.   
-Le quote indicate devono essere coerenti con i valori di investimento offerti o previsti nell'ambito della procedura di gara e con i coefficienti di ammortamento previsti dalle normative civilistica e fiscale vigenti.   
-  
-Imposte (F)   
-Si deve riportare il valore delle imposte IRAP e IRES.   
-Il piano deve dettagliare il calcolo della base imponibile ai fini IRES e IRAP.   
-  
-Investimenti materiali (H1)   
-Deve essere riportato il valore degli investimenti eseguiti a carico del gestore e iscritti nel capitale investito del gestore.  
-Deve essere allegato un prospetto degli investimenti a carico del gestore, evidenziando gli investimenti per manutenzione straordinaria, sostituzione e potenziamento di porzioni di impianto. Il prospetto deve contenere l'indicazione dei tempi di realizzazione degli investimenti e gli importi.   
-Inoltre il piano industriale deve prevedere gli investimenti nel periodo di gestione, non individuabili puntualmente al momento della gara, ma "fisiologicamente" prevedibili, quali gli investimenti per nuovi allacci e per estensioni successive delle reti di distribuzione di cui ai punti A3 e A4 dell'offerta economica, e investimenti a seguito di guasti.   
-Per ragioni di uniformita', ai fini del piano industriale, questi investimenti devono essere cosi' individuati:   
-1. Gli investimenti per nuovi allacciamenti sono convenzionalmente stimati considerando:   
-  
-a. il numero degli allacciamenti pari al numero utilizzato nella voce a2;   
-b. il costo unitario del singolo allaccio, comprensivo del misuratore e dei relativi accessori, e' determinato in base alle caratteristiche fisiche medie degli allacciamenti rilevabilinei comuni costituenti l'ambito (lunghezza media interrata, incidenza della presa per singolo PDR, lunghezza media aerea, indicate nell'Allegato B al bando di gara)   
-  
-2. Gli investimenti per estensioni successivi della rete di distribuzione, in base ai punti A3 e A4 dell'offerta economica, non previste nel piano di sviluppo, sono convenzionalmente stimati considerando:   
-a. una lunghezza di rete posata annualmente pari al prodotto del numero dei punti di riconsegna aggiuntivi determinato annualmente per tale estensione (lettera c della voce numero di punti di riconsegna attivi) per i metri di rete offerti dal concorrente ai punti A3 e A4 dell'offerta economica;   
-b. un costo unitario per metro di retepari al costo medio per le opere di estensione di rete decritte nel Piano di sviluppo degli impianti presentato.   
-  
-3. Gli investimenti "fisiologicamente" prevedibili nel periodo di gestione correlati ai guasti sono convenzionalmente stimati considerando la numerosita' dei guasti in base alla precedente esperienza, opportunamente corretta in base agli investimenti di sostituzione previsti nel piano, e un costo medio unitario per tipologia di impianto interessato.   
-  
-Investimenti immateriali (H2)   
-Deve essere riportato il valore degli investimenti immateriali ivi compresi gli investimenti funzionali all'acquisizione della concessione, che sono costituite dalle seguenti voci:   
-- la differenza fra i valori di rimborso ai gestori uscenti e le immobilizzazioni valutate in base alla regolazione tariffaria. I valori di rimborso sono valutati nel primo periodo in base all'[articolo 15 del decreto legislativo 23 maggio 2000, n.164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;164~art15) e all'articolo 5 del regolamento sui criteri di gara e sulla valutazione dell'offerta e, a regime, in base all'articolo 6 del suddetto decreto. La nota illustrativa deve giustificare il valore per tale voce ripartendolo fra i vari impianti.   
-- le spese di gara quali:   
-  
-• Spese previste nel disciplinare di gara a copertura degli oneri sostenuti dalla stazione appaltante e degli Enti locali concedenti, ivi inclusi i costi della Commissione di gara e per lo studio guida;   
-• Spese per la stipula del contratto di servizio;   
-• Spese per la cauzione provvisoria e per la cauzione definitiva.   
-  
-Nella voce investimenti immateriali devono essere compresi gli eventuali investimenti per interventi di efficienza energetica, addizionali agli obblighi del distributore, offerti in sede di gara, di cui al punto A6 dell'offerta economica. Non vengono invece riportati eventuali investimenti per interventi di efficienza energetica per soddisfare gli obblighi del distributore di cui al decreto interministeriale 20 luglio 2004 e successive modificazioni. Deve essere allegata una nota giustificativa che evidenzi i titoli di efficienza energetica addizionali annualmente previsti in base al punto A6 dell'offerta economica, evidenziando la quantita' di gas distribuita, gli obblighi di cui al decreto interministeriale 20 luglio 2004 e successive modificazioni, i titoli di efficienza addizionali offerti, .gli interventi pianificati per raggiungere tali obiettivi addizionali. Per gli anni in cui non sono stati fissati obiettivi nazionali, si assume per uniformita' un obiettivo costante pari a quello dell'ultimo anno disponibile.   
-La nota illustrativa deve riportare la giustificazione del valore complessivo per le spese di gara come per gli altri investimenti immateriali.   
-  
-Valore residuo impianti (H3)   
-Si deve riportare, nell'ultimo anno di affidamento, il valore residuo degli impianti oggetto di rimborso calcolato in base all'articolo 6 del regolamento sui criteri di gara. Nella nota illustrativa deve essere riportato il dettaglio del calcolo.   
-  
-Capitale circolante (I1, I2)   
-La nota illustrativa deve contenere le ipotesi a base della stima delle voci I1 e I2 del prospetto.   
-In particolare nella nota illustrativa dovranno essere evidenziati a supporto dei valori indicati alle voci I1 e I2 del prospetto Schema B1 - Flusso di cassa:   
-- tempi medi di incasso per la fatturazione del vettoriamento gas;   
-- tempi medi di incasso/pagamento verso CCSE;   
-- tempi medi di incasso delle altre tipologie di ricavi distinguendo le singole fattispecie gia' elencate alla voce "Altri ricavi";   
-- tempi medi di pagamento dei fornitori;   
-- tempi medi di pagamento di altri soggetti/Enti pubblici (quali Amministrazioni concedenti, Erario e altri Enti pubblici, ecc.);   
-- risconti/ratei;   
-- gestione magazzino   
-I tempi medi di incasso/pagamento verso CCSE devono essere coerenti con quanto previsto dalla regolazione tariffaria vigente al momento della gara.   
-Gli altri tempi medi devono essere coerenti con gli standard aziendali comprovati da documenti contrattuali o di bilancio degli ultimi due anni (da rendere disponibili alla Commissione su eventuale richiesta di verifica della medesima Commissione).   
-La Commissione richiede la verifica qualora il valore del capitale circolante e' superiore al valore previsto a base della regolazione tariffaria vigente al momento della gara (per il periodo fino al 2012 per valori superiori a 0,8% del valore delle immobilizzazioni materiali lorde).   
-La stazione appaltante puo' specificare i tempi di pagamento degli oneri previsti alle Amministrazioni concedenti.   
-In ogni caso la somma dei flussi di cassa annui generati dalle variazioni del capitale circolante, nell'arco del periodo di piano devono annullarsi.   
-  
-Finanziamenti   
-La nota illustrativa deve riportare gli strumenti finanziari che l'impresa intende utilizzare per realizzare gli investimenti ed in caso di accensione dei mutui il relativo piano di restituzione.   
-  
-  
-Schema B1 - Flusso di cassa   
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Annualita' | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-| Numero di punti di riconsegna attivi | - | - | - | - | - | - | - | - | - | -- | -- | --- |
-| a 1 - Vincoli ai ricavi | - | - | - | - | - | - | - | - | - | -- | -- | --- |
-| a 2 - Ricavi da nuovi allacciamenti | - | - | - | - | - | - | - | - | - | -- | -- | --- |
-| a3 - Quota annua contributi pubblici | - | - | - | - | - | - | - | - | - | -- | -- | --- |
-| a 4 - Altri ricavi | - | - | - | - | - | - | - | - | - | -- | -- | --- |
-| A -Totale ricavi | - | - | - | - | - | - | - | - | - | -- | -- | --- |
-| b 1 - Costi lavoro personale | - | - | - | - | - | - | - | - | - | -- | -- | --- |
-| b 2 - Costi materiali | - | - | - | - | - | - | - | - | - | -- | -- | --- |
-| b 3 - Costi remunerazione capitale proprietari | - - | - - | - - | - - | - - | - - | - - | - - | - - | -- -- | -- -- | --- --- |
-| b 4 - Costi esterni di gestione/altri costi | - - | - - | - - | - - | - - | - - | - - | - - | - - | -- -- | -- -- | --- --- |
-| B - Costi di gestione | - | - | - | - | - | - | - | - | - | -- | -- | --- |
-| C - Margine operativo lordo (A-B) | - | - | - | - | - | - | - | - | - | -- | -- | --- |
-| d1 - Ammortamenti di beni materiali | - | - | - | - | - | - | - | - | - | -- | -- | --- |
-| d2 - Ammortamenti immateriali | - | - | - | - | - | - | - | - | - | -- | -- | --- |
-| D- Ammortamenti | - | - | - | - | - | - | - | - | - | -- | -- | --- |
-| E - Margine operativo netto (C- D) | - | - | - | - | - | - | - | - | - | -- | -- | --- |
-| F - Imposte | - | - | - | - | - | - | - | - | - | -- | -- | --- |
-| G - Risultato operativo al netto delle imposte (E-F) | - - | - - | - - | - - | - - | - - | - - | - - | - - | -- -- | -- -- | --- --- |
-| H1- Totale investimenti materiali | - | - | - | - | - | - | - | - | - | -- | -- | --- |
-| H2- Totale investimenti immateriali | - | - | - | - | - | - | - | - | - | -- | -- | --- |
-| H3 - valore residuo impianti | - | - | - | - | - | - | - | - | - | -- | -- | --- |
-| H Voci attinenti il Patrimonio \_(H3 - H1-H2) | - - | - - | - - | - - | - - | - - | - - | - - | - - | -- -- | -- -- | --- --- |
-| I1 - capitale circolante | - | - | - | - | - | - | - | - | - | -- | -- | --- |
-| I2- Variazione capitale circolante | - | - | - | - | - | - | - | - | - | -- | -- | --- |
-| L - Flusso di cassa operativo (G +D +H -I2) | - - | - - | - - | - - | - - | - - | - - | - - | - - | -- -- | -- -- | --- --- |
-| M - VAN (5%) | - | - | - | - | - | - | - | - | - | -- | -- | --- |
-| N - TIR | - | - | - | - | - | - | - | - | - | -- | -- | --- |
-
-Allegato 4
-
-Allegato 4 - Dati significativi di aggiudicazione della gara per il monitoraggio degli effetti del regolamento   
-  
-Ambito ...   
-  
-Stazione appaltante......   
-Soggetto delegato per la controparte del contratto di servizio .....   
-Eventuale intervento della Regione per la pubblicazione del bando di gara esercitato in data ....:   
-  
-Data di prima convocazione Comuni per scelta della stazione appaltante ...   
-Data di scelta della stazione appaltante ...   
-Data di pubblicazione del bando di gara ...   
-Data di scadenza della presentazione delle domande di partecipazione....   
-Data di apertura delle domande di partecipazione ...   
-Data di invio delle lettere di invito...   
-Data di nomina della commissione aggiudicatrice ...   
-Data di scadenza delle offerte...   
-Data di apertura delle offerte ....   
-Data di aggiudicazione della gara ...   
-  
-Numero di imprese che ha presentato domanda di partecipazione ...   
-di cui numero di ATI/consorzi ...   
-Numero di imprese invitate a presentare offerta ...   
-di cui numero di ATI/consorzi ...   
-Numero di imprese che hanno presentato offerta ...   
-di cui numero di ATI/consorzi ...   
-  
-  
-  
-Punteggio di aggiudicazione della gara  
-----------|---------|----------------|------------------|----------- Criteri | Sub- | Punteggio | Punteggio | Punteggio  
-|Criteri | massimo nel | impresa | seconda  
-| | disciplinare | aggiudicataria | impresa  
-| | di gara | |  
-----------|---------|----------------|------------------|----------- Condizioni| A1 | | |  
-economiche|---------|----------------|------------------|----------- | A2 | | |  
-|---------|----------------|------------------|----------- | A3 | | |  
-|---------|----------------|------------------|----------- | A4 | | |  
-|---------|----------------|------------------|----------- | A5 | | |  
-|---------|----------------|------------------|----------- | A6 | | |  
-|---------|----------------|------------------|----------- | Sub - | | |  
-| totale | | |  
-----------|---------|----------------|------------------|----------- Criteri di|Livelli | | |  
-sicurezza |di | | |  
-e qualita'|sicurezza| | |  
-|---------|----------------|------------------|----------- |Livelli | | |  
-|di | | |  
-|qualita' | | |  
-|---------|----------------|------------------|----------- | Sub- | | |  
-| totale | | |  
-----------|---------|----------------|------------------|----------- Piano di | C1 | | |  
-sviluppo |---------|----------------|------------------|----------- degli | C2 | | |  
-impianti |---------|----------------|------------------|----------- | C3 | | |  
-|---------|----------------|------------------|----------- | C4 | | |  
-|---------|----------------|------------------|----------- | Sub- | | |  
-| totale | | |  
-----------|---------|----------------|------------------|----------- Totale | | | |  
-----------|---------|----------------|------------------|----------- T.I.R | | | |  
-piano | | | |  
-indu- | | | |  
-striale | | | |  
-----------|---------|----------------|------------------|-----------   
-  
-  
-Impresa aggiudicataria: ...  
-  
-Verifica di offerte anomale : no  
-si in base al comma .... ... dell'articolo 16 del regolamento sui criteri di gara  
-Numero di imprese verificate ...  
-Risultato della verifica di offerte anomale.........................  
-  
-Valore annuo del servizio...  
-  
-Valore di riscatto che l'impresa aggiudicataria deve versare ai gestori uscenti nel primo anno ...: € ...  
-Valore complessivo di immobilizzazioni nette, al netto dei contributi pubblici in conto capitale e dei contributi privati relativi ai cespiti di localita',valutate secondo la regolazione tariffaria, relativo agli impianti per cui deve essere versato il valore di riscatto da parte del gestore aggiudicatario nel primo anno: € ...  
-  
-Segnalazioni di particolari situazioni nello svolgimento della gara ..............  
-  
-Segnalazione di particolari difficolta' nell'interpretazione del regolamento o suggerimenti di modifica ..............  
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=012G001000500010110001&dgu=2012-01-27&art.dataPubblicazioneGazzetta=2012-01-27&art.codiceRedazionale=012G0010)
-  
+Il Ministro dello sviluppo economico Romani Il Ministro per i rapporti con le regioni e per la coesione territoriale Fitto Visto, il Guardasigilli: Severino Registrato alla Corte dei conti il 27 dicembre 2011 Ufficio di controllo atti MISE - MIPAAF, registro n. 10, foglio n. 301

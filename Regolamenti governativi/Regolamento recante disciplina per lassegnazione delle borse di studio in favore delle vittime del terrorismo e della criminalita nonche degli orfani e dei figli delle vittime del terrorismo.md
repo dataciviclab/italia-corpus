@@ -1,36 +1,25 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 2001 n. 318
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 318
+data: 2001-03-14
+titolo: "Regolamento recante disciplina per l'assegnazione delle borse di studio in favore delle vittime del terrorismo e della criminalita', nonche' degli orfani e dei figli delle vittime del terrorismo."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2001-03-14;318
+codice_redazionale: 001G0380
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 2001 n. 318
-============================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 5 MAGGIO 2009, N. 58))
 
-Regolamento recante disciplina per l'assegnazione delle borse di studio in favore delle vittime del terrorismo e della criminalita', nonche' degli orfani e dei figli delle vittime del terrorismo.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 22-8-2001
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 5 MAGGIO 2009, N. 58))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 5 MAGGIO 2009, N. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2009-05-05;58)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 5 MAGGIO 2009, N. 58))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 5 MAGGIO 2009, N. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2009-05-05;58)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 5 MAGGIO 2009, N. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2009-05-05;58)))
-
-Art. 4
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 5 MAGGIO 2009, N. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2009-05-05;58)))
-
-Allegato A
-
- Allegato A   
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 5 MAGGIO 2009, N. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2009-05-05;58)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 5 MAGGIO 2009, N. 58))

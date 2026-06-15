@@ -1,16 +1,14 @@
-LEGGE 13 giugno 1929 n. 1161
+---
+tipo: LEGGE
+numero: 1161
+data: 1929-06-13
+titolo: "Conversione in legge del R. decreto-legge 21 febbraio 1929, n. 388, che approva la convenzione concernente l'aumento della sovvenzione ordinaria e la concessione di una sovvenzione straordinaria a favore della ferrovia Siliqua-Calasetta con diramazione Palmas Suergiu-Iglesias. (029U1161)"
+urn: urn:nir:stato:legge:1929-06-13;1161
+codice_redazionale: 029U1161
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 13 giugno 1929 n. 1161
-============================
-
-Conversione in legge del R. decreto-legge 21 febbraio 1929, n. 388, che approva la convenzione concernente l'aumento della sovvenzione ordinaria e la concessione di una sovvenzione straordinaria a favore della ferrovia Siliqua-Calasetta con diramazione Palmas Suergiu-Iglesias. (029U1161)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/07/1929
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

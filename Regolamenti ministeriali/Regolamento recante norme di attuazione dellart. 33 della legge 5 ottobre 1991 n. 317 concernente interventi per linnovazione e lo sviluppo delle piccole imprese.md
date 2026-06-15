@@ -1,16 +1,14 @@
-DECRETO 20 settembre 1993 n. 576
-
-
-DECRETO 20 settembre 1993 n. 576
-================================
-
-Regolamento recante norme di attuazione dell'art. 33 della legge 5 ottobre 1991, n. 317, concernente interventi per l'innovazione e lo sviluppo delle piccole imprese.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 22/1/1994
+---
+tipo: DECRETO
+numero: 576
+data: 1993-09-20
+titolo: "Regolamento recante norme di attuazione dell'art. 33 della legge 5 ottobre 1991, n. 317, concernente interventi per l'innovazione e lo sviluppo delle piccole imprese."
+urn: urn:nir:ministero.industria.commercio.e.artigianato:decreto:1993-09-20;576
+codice_redazionale: 093G0654
+vigente: true
+---
 
 IL MINISTRO DELL'INDUSTRIA
---------------------------
 
 DEL COMMERCIO E DELL'ARTIGIANATO
 
@@ -18,13 +16,13 @@ DI CONCERTO CON
 
 IL MINISTRO DEL TESORO
 
-Vista la [legge 5 ottobre 1991, n. 317](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-10-05;317), recante interventi per l'innovazione e lo sviluppo delle piccole imprese;
+Vista la [legge 5 ottobre 1991, n. 317](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-10-05;317), recante interventi per l'innovazione e lo sviluppo delle piccole imprese;
 
 Visto in particolare il capo V della predetta legge concernente i consorzi di garanzia collettiva fidi, ed in particolare l'art. 33 che prevede contributi a favore dei fondi interconsortili e per la realizzazione di programmi gestionali;
 
 Visto l'art. 33, comma 4, della medesima legge che prevede l'emanazione di un decreto per la determinazione delle modalita' per la concessione e l'erogazione dei contributi di cui al citato art. 33;
 
-Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3);
+Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
 Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 28 gennaio 1993;
 
@@ -34,227 +32,255 @@ A D O T T A
 
 il seguente regolamento recante norme per la concessione e l'erogazione dei contributi previsti dall'art. 33 della legge 5 ottobre 1991, n. 317, a favore dei consorzi, societa' consortili e cooperative di garazia collettiva fidi per i fondi interconsortili di secondo grado e per la realizzazione di programmi gestionali.
 
-CAPO I Capo I DEFINIZIONI E RIPARTIZIONE RISORSE FINANZIARIE
-------------------------------------------------------------
+## DEFINIZIONI E RIPARTIZIONE RISORSE FINANZIARIE
 
-### Art. 1
+Capo I
 
-Definizioni
+### Art. 1. — Definizioni
 
-1. Ai sensi del presente regolamento si intende per:
+1.
 
-a) legge: la [legge 5 ottobre 1991, n. 317](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-10-05;317), interventi per l'innovazione e lo sviluppo delle piccole imprese;
+Ai sensi del presente regolamento si intende per:
+                            a)
+                                legge: la [legge 5 ottobre 1991, n. 317](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-10-05;317), interventi per l'innovazione e lo sviluppo delle piccole imprese;
+                            b)
+                                Confidi: i consorzi, le societa' consortili e le cooperative di garanzia collettiva fidi di cui agli articoli 29 e 30 della legge.
 
-b) Confidi: i consorzi, le societa' consortili e le cooperative di garanzia collettiva fidi di cui agli articoli 29 e 30 della legge.
+AVVERTENZA:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Nota al titolo:
+ - Si trascrive il testo dell'[art. 33 della legge n. 317/1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;317#art_33) (Interventi per l'innovazione e lo sviluppo delle piccole imprese):
+ "Art. 33 (Contributi a fondi interconsortili e programmi gestionali). - 1. I consorzi, le societa' consortili e le cooperative di garanzia collettiva fidi di cui agli articoli 29 e 30, che concorrono alla costituzione di fondi interconsortili di secondo grado a carattere nazionale volti a convalidare la capacita' operativa dei consorzi stessi attraverso l'attenuazione dei rischi incontrati nell'ambito della propria attivita' istituzionale, possono beneficiare, a valere sul fondo di cui all'art. 43, comma 1, del contributo dello Stato nella misura massima del 50 per cento delle quote apportate al fondo da ciascun consorzio, societa' consortile o cooperativa fino ad un massimo di 40 milioni di lire annui. Tali limiti sono elevati rispettivamente al 70 per cento e a 100 milioni di lire per i consorzi, societa' consortili o cooperative operanti nei territori di cui all'allegato al regolamento CEE n. 2052/88 del Consiglio, e nei territori italiani colpiti da fenomeni di declino industriale, individuati con decisione della Commissione delle Comunita' europee del 21 marzo 1989 e interessati dalle azioni comunitarie di sviluppo di cui al citato regolamento CEE n. 2052/88. Tale contributo e' dedotto da quello concesso agli stessi consorzi ai sensi dell'art. 31.
+ 2. Ai consorzi, alle societa' consortili e alle cooper- ative di garanzia collettiva fidi di cui agli articoli 29 e 30 possono essere accordati altresi' contributi in conto capitale a carico del medesimo fondo di cui al comma 1, per la realizzazione di programmi di sviluppo organizzativo e gestionale, anche con l'impiego di strumenti informatici, per la fornitura di servizi di natura finanziaria alle piccole imprese consorziate.
+ 3. Il contributo non puo' superare il 50 per cento del costo del progetto fino ad un massimo di 100 milioni di lire ed e' cumulabile solo entro tali limiti con altri contributi in conto capitale concessi per lo stesso programma di gestione dallo Stato o da altri enti pubblici.
+ Tali limiti sono elevati rispettivamente al 70 per cento e a 200 milioni di lire per i territori di cui all'allegato al regolamento CEE n. 2052/88 del Consiglio, e nei territori italiani colpiti da fenomeni di declino industriale, individuati con decisione della Commissione delle Comunita' europee del 21 marzo 1989 e interessati dalle azioni comunitarie di sviluppo di cui al citato regolamento CEE n. 2052/88.
+ 4. Con decreto del Ministro dell'industria, del commercio e dell'artigianato, di concerto con il Ministro del tesoro, sono stabilite le modalita' per la concessione e l'erogazione dei contributi di cui al presente articolo.
+ 5. Gli oneri derivanti dall'applicazione del presente articolo gravano sul fondo di cui all'art. 43, comma 1, che e' a tal fine integrato di lire 900 milioni per ciascuno degli anni 1991, 1992 e 1993.
+ 6. I consorzi di garanzia collettiva fidi di secondo grado costituiti da almeno cinque cooperative artigiane di garanzia collettiva fidi iscritte alla separata sezione dell'albo delle imprese artigiane di cui all'[art. 6, primo comma, della legge 8 agosto 1985, n. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443#art_6-com1), sono ammessi a beneficiare dell'intervento dello Stato di cui all'art. 31 della presente legge nei limiti dell'autorizzazione di spesa prevista dal comma 6 del medesimo art. 31.
+ 7. Per beneficiare dell'intervento dello Stato di cui all'art. 31 e' necessario che ciascuna cooperativa di cui al comma 1 del presente articolo sia costituita da un numero minimo di cinquanta imprese artigiane e che il consorzio di cui al medesimo comma 1 disponga di fondi di garanzia monetaria di importo non inferiore a lire 150 milioni".
+ Note alle premesse:
+ - Per il testo dell'[art. 33 della legge n. 317/1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;317#art_33) si veda in nota al titolo.
+ - Il [comma 3 dell'art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.
+ Essi debbono essere comunitati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
+ Nota all'art. 1:
+ - Si trascrive il testo degli articoli 29 e 30 della citata [legge n. 317/1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;317):
+ "Art. 29 (Consorzi di garanzia collettiva fidi). - 1. Ai fini dell'ammissione ai benefici di cui all'art. 31, si considerano consorzi e cooperative di garanzia collettiva fidi i consorzi, le societa' consortili e le cooperative di cui all'art. 30 che abbiano come scopi sociali:
+ a) l'attivita' di prestazione di garanzie collettive per favorire la concessione di finanziamenti da parte di aziende e istituti di credito, di societa' di locazione finanziaria, di societa' di cessione di crediti di imprese e di enti parabancari alle piccole imprese associate;
+ b) l'attivita' di informazione, di consulenza e di assistenza alle imprese consorziate per il reperimento e il migliore utilizzo delle fonti finanziarie, nonche' le prestazioni di servizi per il miglioramento della gestione finanziaria delle stesse imprese. A tale attivita', in quanto connessa e complementare a quella di prestazione di garanzie collettive, si applicano le disposizioni tributarie specificamente previste per quest'ultima.
+ 2. Sono ammessi ai medesimi benefici di cui all'art. 31 i consorzi e le cooperative di garanzia collettiva fidi ai quali, alla data del 30 giugno 1990, partecipano piccole imprese industriali con non piu' di trecento dipendenti, fermo il limite del capitale investito di cui all'art. 1, in misura non superiore ad un sesto del numero complessivo delle aziende consorziate".
+ "Art. 30 (Ammissione alle agevolazioni statali). - Le co- operative, i consorzi e le societa' consortili, anche in forma cooperativa, che svolgono le attivita' di cui all'art. 29 sono ammessi a beneficiare dell'intervento dello Stato previsto dalle disposizioni del presente Capo se costituiti da almeno 50 piccole imprese industriali, commerciali e di servizi e da imprese artigiane di cui alla [legge 8 agosto 1985, n. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443), anche a carattere intersettoriale e dispongono di fondi di garanzia monetari (fondi rischi) costituiti da versamenti delle stesse imprese consorziate di importo non inferiore a lire 50 milioni".
 
-AVVERTENZA:  
-Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.  
-Nota al titolo:  
-- Si trascrive il testo dell'[art. 33 della legge n. 317/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;317~art33) (Interventi per l'innovazione e lo sviluppo delle piccole imprese):  
-"Art. 33 (Contributi a fondi interconsortili e programmi gestionali). - 1. I consorzi, le societa' consortili e le cooperative di garanzia collettiva fidi di cui agli articoli 29 e 30, che concorrono alla costituzione di fondi interconsortili di secondo grado a carattere nazionale volti a convalidare la capacita' operativa dei consorzi stessi attraverso l'attenuazione dei rischi incontrati nell'ambito della propria attivita' istituzionale, possono beneficiare, a valere sul fondo di cui all'art. 43, comma 1, del contributo dello Stato nella misura massima del 50 per cento delle quote apportate al fondo da ciascun consorzio, societa' consortile o cooperativa fino ad un massimo di 40 milioni di lire annui. Tali limiti sono elevati rispettivamente al 70 per cento e a 100 milioni di lire per i consorzi, societa' consortili o cooperative operanti nei territori di cui all'allegato al [regolamento CEE n. 2052/88 del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31988R2052), e nei territori italiani colpiti da fenomeni di declino industriale, individuati con decisione della Commissione delle Comunita' europee del 21 marzo 1989 e interessati dalle azioni comunitarie di sviluppo di cui al citato [regolamento CEE n. 2052/88](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31988R2052). Tale contributo e' dedotto da quello concesso agli stessi consorzi ai sensi dell'art. 31.  
-2. Ai consorzi, alle societa' consortili e alle cooper- ative di garanzia collettiva fidi di cui agli articoli 29 e 30 possono essere accordati altresi' contributi in conto capitale a carico del medesimo fondo di cui al comma 1, per la realizzazione di programmi di sviluppo organizzativo e gestionale, anche con l'impiego di strumenti informatici, per la fornitura di servizi di natura finanziaria alle piccole imprese consorziate.  
-3. Il contributo non puo' superare il 50 per cento del costo del progetto fino ad un massimo di 100 milioni di lire ed e' cumulabile solo entro tali limiti con altri contributi in conto capitale concessi per lo stesso programma di gestione dallo Stato o da altri enti pubblici.  
-Tali limiti sono elevati rispettivamente al 70 per cento e a 200 milioni di lire per i territori di cui all'allegato al [regolamento CEE n. 2052/88 del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31988R2052), e nei territori italiani colpiti da fenomeni di declino industriale, individuati con decisione della Commissione delle Comunita' europee del 21 marzo 1989 e interessati dalle azioni comunitarie di sviluppo di cui al citato [regolamento CEE n. 2052/88](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31988R2052).  
-4. Con decreto del Ministro dell'industria, del commercio e dell'artigianato, di concerto con il Ministro del tesoro, sono stabilite le modalita' per la concessione e l'erogazione dei contributi di cui al presente articolo.  
-5. Gli oneri derivanti dall'applicazione del presente articolo gravano sul fondo di cui all'art. 43, comma 1, che e' a tal fine integrato di lire 900 milioni per ciascuno degli anni 1991, 1992 e 1993.  
-6. I consorzi di garanzia collettiva fidi di secondo grado costituiti da almeno cinque cooperative artigiane di garanzia collettiva fidi iscritte alla separata sezione dell'albo delle imprese artigiane di cui all'[art. 6, primo comma, della legge 8 agosto 1985, n. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443~art6-com1), sono ammessi a beneficiare dell'intervento dello Stato di cui all'art. 31 della presente legge nei limiti dell'autorizzazione di spesa prevista dal comma 6 del medesimo art. 31.  
-7. Per beneficiare dell'intervento dello Stato di cui all'art. 31 e' necessario che ciascuna cooperativa di cui al comma 1 del presente articolo sia costituita da un numero minimo di cinquanta imprese artigiane e che il consorzio di cui al medesimo comma 1 disponga di fondi di garanzia monetaria di importo non inferiore a lire 150 milioni".  
-Note alle premesse:  
-- Per il testo dell'[art. 33 della legge n. 317/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;317~art33) si veda in nota al titolo.  
-- Il [comma 3 dell'art. 17 della legge n. 400/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.  
-Essi debbono essere comunitati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.  
-Nota all'art. 1:  
-- Si trascrive il testo degli articoli 29 e 30 della citata [legge n. 317/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;317):  
-"Art. 29 (Consorzi di garanzia collettiva fidi). - 1. Ai fini dell'ammissione ai benefici di cui all'art. 31, si considerano consorzi e cooperative di garanzia collettiva fidi i consorzi, le societa' consortili e le cooperative di cui all'art. 30 che abbiano come scopi sociali:  
-a) l'attivita' di prestazione di garanzie collettive per favorire la concessione di finanziamenti da parte di aziende e istituti di credito, di societa' di locazione finanziaria, di societa' di cessione di crediti di imprese e di enti parabancari alle piccole imprese associate;  
-b) l'attivita' di informazione, di consulenza e di assistenza alle imprese consorziate per il reperimento e il migliore utilizzo delle fonti finanziarie, nonche' le prestazioni di servizi per il miglioramento della gestione finanziaria delle stesse imprese. A tale attivita', in quanto connessa e complementare a quella di prestazione di garanzie collettive, si applicano le disposizioni tributarie specificamente previste per quest'ultima.  
-2. Sono ammessi ai medesimi benefici di cui all'art. 31 i consorzi e le cooperative di garanzia collettiva fidi ai quali, alla data del 30 giugno 1990, partecipano piccole imprese industriali con non piu' di trecento dipendenti, fermo il limite del capitale investito di cui all'art. 1, in misura non superiore ad un sesto del numero complessivo delle aziende consorziate".  
-"Art. 30 (Ammissione alle agevolazioni statali). - Le co- operative, i consorzi e le societa' consortili, anche in forma cooperativa, che svolgono le attivita' di cui all'art. 29 sono ammessi a beneficiare dell'intervento dello Stato previsto dalle disposizioni del presente Capo se costituiti da almeno 50 piccole imprese industriali, commerciali e di servizi e da imprese artigiane di cui alla [legge 8 agosto 1985, n. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443), anche a carattere intersettoriale e dispongono di fondi di garanzia monetari (fondi rischi) costituiti da versamenti delle stesse imprese consorziate di importo non inferiore a lire 50 milioni".
+### Art. 2. — Disponibilita' finanziarie
 
-### Art. 2
+1.
 
-Disponibilita' finanziarie
+Gli stanziamenti di cui al comma 5 dell'art. 33 della legge sono riservati: per il 40% agli interventi di cui al comma 1 dell'art. 33 della legge e per il 60% agli interventi di cui al secondo comma dello stesso articolo.
 
-1. Gli stanziamenti di cui al comma 5 dell'art. 33 della legge sono riservati: per il 40% agli interventi di cui al comma 1 dell'art. 33 della legge e per il 60% agli interventi di cui al secondo comma dello stesso articolo.
+Nota all'art. 2:
+ - Per il riferimento all'[art. 33 della legge n. 317/1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;317#art_33) si veda in nota al titolo.
 
-Nota all'art. 2:  
-- Per il riferimento all'[art. 33 della legge n. 317/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;317~art33) si veda in nota al titolo.
+## CONTRIBUTI PER I FONDI INTERCONSORTILI DI SECONDO GRADO
 
-CAPO II Capo II CONTRIBUTI PER I FONDI INTERCONSORTILI DI SECONDO GRADO
------------------------------------------------------------------------
+Capo II
 
-### Art. 3
+### Art. 3. — Termine per la presentazione delle domande
 
-Termine per la presentazione delle domande
+1.
 
-1. Per accedere al contributo per il 1993 le domande devono essere presentate entro sessanta giorni dalla pubblicazione del presente regolamento.
+Per accedere al contributo per il 1993 le domande devono essere presentate entro sessanta giorni dalla pubblicazione del presente regolamento.
 
-2. Per gli anni successivi le domande devono essere presentate entro il 30 settembre di ciascun anno.
+2.
 
-### Art. 4
+Per gli anni successivi le domande devono essere presentate entro il 30 settembre di ciascun anno.
 
-Procedura per la concessione del contributo
+### Art. 4. — Procedura per la concessione del contributo
 
-1. Ai fini della concessione del contributo, i Confidi trasmettono al Ministero dell'industria, del commercio e dell'artigianato:
+1.
 
-a) domanda, in regola con le disposizioni vigenti in materia di bollo, di ammissione agli interventi firmata dal rappresentante legale;
-
-b) copia autentica dell'atto costitutivo e dello statuto vigente al momento della domanda;
-
-c) atto notorio, o dichiarazione sostitutiva resa dal rappresentante legale secondo le disposizioni della [legge 4 gennaio 1968, n. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15) e successive modificazioni, dove si attesti la conformita' del soggetto richiedente ai requisiti e alle condizioni della legge e del presente regolamento. Da tale atto dovra' risultare in particolare:  
-1) la data di costituzione della Confidi;  
-2) l'indicazione del legale rappresentante e dei componenti il consiglio di amministrazione, nonche' di eventuali consorziati che detengano una quota del fondo consortile o capitale sociale superiore al 10%, nonche' di quelli per conto dei quali il Confidi operi in modo esclusivo nei confronti della pubblica amministrazione;
-
-d) elenco delle imprese consorziate o socie al momento della presentazione della domanda;
-
-e) copia autentica dell'atto o della delibera con il quale e' stato costituito il fondo interconsortile di secondo grado a cui si aderisce, unitamente ad una relazione sulla consistenza del fondo, sui criteri di gestione attuati e sugli interventi effettuati a favore del Confidi richiedente negli ultimi tre anni. La trasmissione di tale documentazione da parte del richiedente non sara' necessaria se essa sia stata inviata al Ministero dell'industria del commercio e dell'artigianato dall'organismo, associazione, ente gestore del fondo in questione, unitamente all'elenco degli aderenti allo stesso.  
+Ai fini della concessione del contributo, i Confidi trasmettono al Ministero dell'industria, del commercio e dell'artigianato:
+                            a)
+                                domanda, in regola con le disposizioni vigenti in materia di bollo, di ammissione agli interventi firmata dal rappresentante legale;
+                            b)
+                                copia autentica dell'atto costitutivo e dello statuto vigente al momento della domanda;
+                            c)
+                                atto notorio, o dichiarazione sostitutiva resa dal rappresentante legale secondo le disposizioni della [legge 4 gennaio 1968, n. 15](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md) e successive modificazioni, dove si attesti la conformita' del soggetto richiedente ai requisiti e alle condizioni della legge e del presente regolamento. Da tale atto dovra' risultare in particolare:
+ 1) la data di costituzione della Confidi;
+ 2) l'indicazione del legale rappresentante e dei componenti il consiglio di amministrazione, nonche' di eventuali consorziati che detengano una quota del fondo consortile o capitale sociale superiore al 10%, nonche' di quelli per conto dei quali il Confidi operi in modo esclusivo nei confronti della pubblica amministrazione;
+                            d)
+                                elenco delle imprese consorziate o socie al momento della presentazione della domanda;
+                            e)
+                                copia autentica dell'atto o della delibera con il quale e' stato costituito il fondo interconsortile di secondo grado a cui si aderisce, unitamente ad una relazione sulla consistenza del fondo, sui criteri di gestione attuati e sugli interventi effettuati a favore del Confidi richiedente negli ultimi tre anni. La trasmissione di tale documentazione da parte del richiedente non sara' necessaria se essa sia stata inviata al Ministero dell'industria del commercio e dell'artigianato dall'organismo, associazione, ente gestore del fondo in questione, unitamente all'elenco degli aderenti allo stesso.
 Verificandosi tale ipotesi, gli interessati dovranno farne menzione esplicita nella domanda;
+                            f)
+                                certificazione o autocertificazione "antimafia" ai sensi della [legge 19 marzo 1990, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-19;55), e successive modificazioni ed integrazioni, riguardanti il Confidi nonche' il legale rappresentante e gli eventuali altri componenti l'organo di amministrazione; analoga certificazione e' altresi' richiesta nei confronti dei singoli consorziati o soci che detengono quote del fondo consortile superiori al 10% ed eventuali consorziati per conto dei quali il Confidi operi in modo esclusivo nei confronti della pubblica amministrazione;
+                            g)
+                                copia della ricevuta bancaria del bonifico od altra documentazione equivalente, attestante l'apporto effettuato nell'anno precedente la domanda, all'organizzazione, associazione, o ente gestore del fondo interconsortile per le finalita' del fondo stesso;
+                            h)
+                                il numero del conto corrente sul quale accreditare il contributo, specificando l'Istituto bancario, nonche' la sede o filiale o sportello.
 
-f) certificazione o autocertificazione "antimafia" ai sensi della [legge 19 marzo 1990, n. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-19;55), e successive modificazioni ed integrazioni, riguardanti il Confidi nonche' il legale rappresentante e gli eventuali altri componenti l'organo di amministrazione; analoga certificazione e' altresi' richiesta nei confronti dei singoli consorziati o soci che detengono quote del fondo consortile superiori al 10% ed eventuali consorziati per conto dei quali il Confidi operi in modo esclusivo nei confronti della pubblica amministrazione;
+2.
 
-g) copia della ricevuta bancaria del bonifico od altra documentazione equivalente, attestante l'apporto effettuato nell'anno precedente la domanda, all'organizzazione, associazione, o ente gestore del fondo interconsortile per le finalita' del fondo stesso;
+Il contributo e' concesso con decreto del Ministro dell'industria, del commercio e dell'artigianato ed e' erogato in unica soluzione contestualmente al provvedimento di concessione.
 
-h) il numero del conto corrente sul quale accreditare il contributo, specificando l'Istituto bancario, nonche' la sede o filiale o sportello.
+3.
 
-2. Il contributo e' concesso con decreto del Ministro dell'industria, del commercio e dell'artigianato ed e' erogato in unica soluzione contestualmente al provvedimento di concessione.
+Qualora le disponibilita' finanziarie non permettano la concessione nella misura massima, il Ministro dell'industria, del commercio e dell'artigianato ne dispone la riduzione percentuale in eguale misura.
 
-3. Qualora le disponibilita' finanziarie non permettano la concessione nella misura massima, il Ministro dell'industria, del commercio e dell'artigianato ne dispone la riduzione percentuale in eguale misura.
+Note all'[art. 4:
+ - La legge n. 15/1968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968;15#art_4) reca: "Norme sulla documentazione amministrativa e sulla legalizzazione e autenticazione delle firme". Si trascrive qui di seguito il testo degli articoli 4 e 20:
+ "Art. 4 (Dichiarazione sostitutiva dell'atto di notorieta'). - L'atto di notorieta' concernente fatti, stati o qualita' personali che siano a diretta conoscenza dell'interessato e' sostituito da dichiarazione resa e sottoscritta dal medesimo dinanzi al funzionario competente a ricevere la documentazione, o dinanzi a un notaio, cancelliere, segretario comunale, o altro funzionario incaricato dal sindaco, il quale provvede all'autenticazione della sottoscrizione con l'osservanza delle modalita' di cui all'art. 20".
+ "Art. 20 (Autenticazione delle sottoscrizioni). - La sottoscrizione di istanze da produrre agli organi della pubblica amministrazione puo' essere autenticata, ove l'autenticazione sia prescritta, dal funzionario competente a ricevere la documentazione, o da un notaio, cancelliere, segretario comunale, o altro funzionario incaricato dal sindaco.
+ L'autenticazione deve essere redatta di seguito alla sottoscrizione e consiste nell'attestazione, da parte del pubblico ufficiale, che la sottoscrizione stessa e' stata apposta in sua presenza, previo accertamento dell'identita' della persona che sottoscrive.
+ Il pubblico ufficiale che autentica deve indicare le modalita' di identificazione, la data e il luogo della autenticazione, il proprio nome e cognome, la qualita' rivestita, nonche' apporre la propria firma per esteso ed il timbro dell'ufficio.
+ Per l'autenticazione delle firme apposte sui margini dei fogli intermedi e' sufficiente che il pubblico ufficiale aggiunga la propria firma".
+ - La certificazione "antimafia" di cui trattasi e' disciplinata dall'[art. 10-sexies della legge 31 maggio 1965, n. 575](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20contro%20la%20mafia.md), di seguito riportato:
+ "Art. 10-sexies (aggiunto dall'[art. 7 della legge 19 marzo 1990, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-19;55#art_7), poi modificato dall'[art. 20 del D.L. 13 maggio 1991, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-05-13;152#art_20), convertito, con modificazioni, dalla [legge 12 luglio 1991, n. 203, e dall'art. 22- bis](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%201991%20n.%20152%20recante%20provvedimenti%20urgenti%20in%20tema%20di%20lotta%20alla%20criminalita%20organizzata%20e%20di%20trasparenza%20e%20buon%20andament_fb790f2eaee8.md) del [D.L. 8 giugno 1992, n. 306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-06-08;306), convertito, con modificazioni, dalla [legge 7 agosto 1992, n. 356](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20giugno%201992%20n.%20306%20recante%20modifiche%20urgenti%20al%20nuovo%20codice%20di%20procedura%20penale%20e%20provvedimenti%20di%20contrasto%20alla%20criminalita%20mafiosa.md)). - 1. La pubblica amministrazione, prima di rilasciare o consentire le licenze, le autorizzazioni, le concessioni, le erogazioni, le abilitazioni e le iscrizioni previste dall'art. 10, e prima di stipulare, approvare o autorizzare i contratti e i subcontratti di cui al medesimo articolo deve acquisire apposita certificazione relativa all'interessato circa la sussistenza a suo carico di un procedimento per l'applicazione, a norma della presente legge, di una misura di prevenzione, nonche' circa la sussistenza di provvedimenti che applicano una misura di prevenzione o di condanna, nei casi previsti dall'art. 10, comma 5- ter, e di quelli che dispongono divieti, sospensioni o decadenze a norma dell'art. 10, ovvero del secondo comma dell'articolo 10-quater. Per i rinnovi, allorche' la legge dispone che gli stessi abbiano luogo con provvedimento formale, per i provvedimenti comunque conseguenti a provvedimenti gia' disposti, salvo gli atti di esecuzione, e per i contratti derivati da altri gia' stipulati dalla pubblica amministrazione l'obbligo sussiste con riguardo alla certificazione dei provvedimenti definitivi o provvisori che applicano la misura di prevenzione o dispongono i divieti, le sospensioni o le decadenze. Per i contratti concernenti obbligazioni a carattere periodico o continuativo per forniture di beni o servizi, la certificazione deve essere acquisita per ciascun anno di durata del contratto.
+ 2. La certificazione e' rilasciata dalla prefettura nella cui circoscrizione gli atti o in contratti devono essere perfezionati, su richiesta dell'amministrazione o dell'ente pubblico, previa esibizione dei certificati di residenza e di stato di famiglia di data non anteriore a tre mesi.
+ 3. Nel caso di contratti stipulati da un concessionario di opere o servizi pubblici, la certificazione, oltre che su richiesta dell'amministrazione o dell'ente pubblico interessati, puo' essere rilasciata anche a richiesta del concessionario, previa acquisizione dall'interessato dei certificati di residenza e di stato di famiglia di data non anteriore a tre mesi.
+ 4. Quando gli atti o i contratti riguardano societa', la certificazione e' richiesta nei confronti della stessa societa'. Essa e' altresi' richiesta, se trattasi di societa' di capitali anche consortili ai sensi dell'[art.
+ 2615- ter del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2615ter) o di societa' cooperative, di consorzi cooperativi, ovvero di consorzi di cui al libro V, titolo X, capo II, sezione II del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), nei confronti del legale rappresentante e degli eventuali altri componenti l'organo di amministrazione, nonche' di ciascuno dei consorziati che nei consorzi e nelle societa' consortili detenga una partecipazione superiore al 10 per cento, e di quei soci o consorziati per conto dei quali le societa' consortili o i consorzi operino in modo esclusivo nei confronti della pubblica amministrazione; per i consorzi di cui all'[art. 2602 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2602) la certificazione e' richiesta nei confronti di chi ne ha la rappresentanza e degli imprenditori o societa' consorziate.
+ Se trattasi di societa' in nome collettivo, la certificazione e' richiesta nei confronti di tutti i soci; se trattasi di societa' in accomandita semplice, nei confronti dei soci accomandatari. Se trattasi delle societa' di cui all'[art. 2506 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2506) la certificazione e' richiesta nei confronti di coloro che le rappresentano stabilmente nel territorio dello Stato.
+ 5. Ai fini dell'applicazione della specifica disciplina dell'albo nazionale dei costruttori, la certificazione e' altresi' richiesta nei confronti del direttore tecnico dell'impresa.
+ 6. Le certificazioni possono anche essere rilasciate su richiesta del privato interessato presentata alla prefettura competente per il luogo ove lo stesso ha la residenza ovvero la sede, se trattasi di societa', impresa o ente. La relativa domanda, alla quale vanno allegati i certificati prescritti, deve specificare i provvedimenti, atti o contratti per i quali la certificazione e' richiesta o anche solo le amministrazioni o enti pubblici interessati ed indicare il numero degli esemplari occorrenti e la persona, munita di procura speciale, incaricata di ritirarli. La certificazione deve essere acquisita dalla pubblica amministrazione o dal concessionario entro tre mesi dalla data del rilascio prodotta anche in copia autenticata ai sensi dell'[art. 14 della legge 4 gennaio 1968, n. 15](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md).
+ 7. Nei casi di urgenza, in attesa che pervenga alla pubblica amministrazione o al concessionario la certificazione prefettizia, l'esecuzione dei contratti di cui all'art. 10 puo' essere effettuata sulla base di una dichiarazione con la quale l'interessato attesti di non essere stato sottoposto a misura di prevenzione e di non essere a conoscenza della esistenza a suo carico e dei propri conviventi di procedimenti in corso per l'applicazione della misura di prevenzione o di una delle cause ostative all'iscrizione negli albi appaltatori o fornitori pubblici ovvero nell'albo nazionale dei costruttori. La sottoscrizione della dichiarazione deve essere autenticata con le modalita' stabilite dall'[art. 20 della legge 4 gennaio 1968, n. 15](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md). le stesse disposizioni si applicano quando e' richiesta l'autorizzazione di subcontratti, cessioni e cottimi concernenti la realizzazione delle opere e dei lavori e la prestazione di servizi riguardanti la pubblica amministrazione.
+ 8. La certificazione non e' richiesta quando beneficiario dell'atto o contraente con l'amministrazione e' un'altra amministrazione pubblica ovvero quando si tratta di licenze e autorizzazioni rilasciate dall'autorita' provinciale di pubblica sicurezza o del loro rinnovo.
+ 9. La certificazione non e' inoltre richiesta ed e' sostituita dalla dichiarazione di cui al comma 7:
+ a) per la stipulazione o approvazione di contratti con artigiani o con esercenti professioni intellettuali;
+ b) per la stipulazione o l'approvazione dei contratti di cui all'art. 10 e per le concessioni di costruzione, nonche' di costruzione e gestione di opere riguardanti la pubblica amministrazione o di servizi pubblici, il cui valore complessivo non supera i cento milioni di lire;
+ c) per l'autorizzazione di subcontratti, cessioni e cottimi concernenti la realizzazione delle opere e la prestazione dei servizi di cui alla lettera b) il cui valore complessivo non supera i cento milioni di lire;
+ d) per la concessione di contributi, finanziamenti e mutui agevolati e altre erogazioni dello stesso tipo, comunque denominate, per lo svolgimento di attivita' imprenditoriali il cui valore complessivo non supera i cinquanta milioni di lire.
+ 10. E' fatta comunque salva la facolta' della pubblica amministrazione che procede sulla base delle dichiarazioni sostitutive di richiedere successivamente ulteriore certificazione alla prefettura territorialmente competente.
+ 11. L'impresa aggiudicataria e' tenuta a comunicare tempestivamente all'amministrazione appaltante ogni modificazione intervenuta negli assetti proprietari e nella struttura di impresa e negli organismi tecnici e amministrativi.
+ 12. Le certificazioni prefettizie, le relative istanze nonche' la documentazione accessoria previste dal presente articolo sono esenti da imposta di bollo.
+ 13. Le certificazioni prefettizie sono rilasciate entro trenta giorni dalla richiesta. Le prefetture sono tenute a rilasciare apposita ricevuta attestante la data di presentazione dell'istanza di certificazione, nonche' i soggetti per cui la medesima e' richiesta; trascorsi inutilmente trenta giorni dalla presentazione dell'istanza, gli interessati possono sostituire ad ogni effetto la certificazione con la dichiarazione di cui al comma 7, ferma restando la possibilita' per l'amministrazione di avvalersi della facolta' di cui al comma 10.
+ 14. Chiunque, nelle dichiarazioni sostitutive di cui al presente articolo, attesta il falso e' punito con la reclusione da uno a quattro anni.
+ 15. Nel caso di opere pubbliche il Ministero dei lavori pubblici ha facolta' di verificare anche in corso d'opera la permanenza dei requisiti previsti dalla presente legge per l'affidamento dei lavori. Alla predetta verifica possono altresi' procedere le altre amministrazioni o enti pubblici committenti o concedenti.
+ 16. Decorso un anno dalla firma del contratto riguardante opere o lavori per la pubblica amministrazione, l'amministrazione o ente pubblico committente o concedente e' comunque tenuto ad effettuare la verifica di cui al comma 15".
 
-Note all'[art. 4:  
-- La legge n. 15/1968](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968;15~art4) reca: "Norme sulla documentazione amministrativa e sulla legalizzazione e autenticazione delle firme". Si trascrive qui di seguito il testo degli articoli 4 e 20:  
-"Art. 4 (Dichiarazione sostitutiva dell'atto di notorieta'). - L'atto di notorieta' concernente fatti, stati o qualita' personali che siano a diretta conoscenza dell'interessato e' sostituito da dichiarazione resa e sottoscritta dal medesimo dinanzi al funzionario competente a ricevere la documentazione, o dinanzi a un notaio, cancelliere, segretario comunale, o altro funzionario incaricato dal sindaco, il quale provvede all'autenticazione della sottoscrizione con l'osservanza delle modalita' di cui all'art. 20".  
-"Art. 20 (Autenticazione delle sottoscrizioni). - La sottoscrizione di istanze da produrre agli organi della pubblica amministrazione puo' essere autenticata, ove l'autenticazione sia prescritta, dal funzionario competente a ricevere la documentazione, o da un notaio, cancelliere, segretario comunale, o altro funzionario incaricato dal sindaco.  
-L'autenticazione deve essere redatta di seguito alla sottoscrizione e consiste nell'attestazione, da parte del pubblico ufficiale, che la sottoscrizione stessa e' stata apposta in sua presenza, previo accertamento dell'identita' della persona che sottoscrive.  
-Il pubblico ufficiale che autentica deve indicare le modalita' di identificazione, la data e il luogo della autenticazione, il proprio nome e cognome, la qualita' rivestita, nonche' apporre la propria firma per esteso ed il timbro dell'ufficio.  
-Per l'autenticazione delle firme apposte sui margini dei fogli intermedi e' sufficiente che il pubblico ufficiale aggiunga la propria firma".  
-- La certificazione "antimafia" di cui trattasi e' disciplinata dall'[art. 10-sexies della legge 31 maggio 1965, n. 575](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575~art10sexies), di seguito riportato:  
-"Art. 10-sexies (aggiunto dall'[art. 7 della legge 19 marzo 1990, n. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-19;55~art7), poi modificato dall'[art. 20 del D.L. 13 maggio 1991, n. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-05-13;152~art20), convertito, con modificazioni, dalla [legge 12 luglio 1991, n. 203, e dall'art. 22- bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-12;203~art22bis) del [D.L. 8 giugno 1992, n. 306](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-06-08;306), convertito, con modificazioni, dalla [legge 7 agosto 1992, n. 356](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-08-07;356)). - 1. La pubblica amministrazione, prima di rilasciare o consentire le licenze, le autorizzazioni, le concessioni, le erogazioni, le abilitazioni e le iscrizioni previste dall'art. 10, e prima di stipulare, approvare o autorizzare i contratti e i subcontratti di cui al medesimo articolo deve acquisire apposita certificazione relativa all'interessato circa la sussistenza a suo carico di un procedimento per l'applicazione, a norma della presente legge, di una misura di prevenzione, nonche' circa la sussistenza di provvedimenti che applicano una misura di prevenzione o di condanna, nei casi previsti dall'art. 10, comma 5- ter, e di quelli che dispongono divieti, sospensioni o decadenze a norma dell'art. 10, ovvero del secondo comma dell'articolo 10-quater. Per i rinnovi, allorche' la legge dispone che gli stessi abbiano luogo con provvedimento formale, per i provvedimenti comunque conseguenti a provvedimenti gia' disposti, salvo gli atti di esecuzione, e per i contratti derivati da altri gia' stipulati dalla pubblica amministrazione l'obbligo sussiste con riguardo alla certificazione dei provvedimenti definitivi o provvisori che applicano la misura di prevenzione o dispongono i divieti, le sospensioni o le decadenze. Per i contratti concernenti obbligazioni a carattere periodico o continuativo per forniture di beni o servizi, la certificazione deve essere acquisita per ciascun anno di durata del contratto.  
-2. La certificazione e' rilasciata dalla prefettura nella cui circoscrizione gli atti o in contratti devono essere perfezionati, su richiesta dell'amministrazione o dell'ente pubblico, previa esibizione dei certificati di residenza e di stato di famiglia di data non anteriore a tre mesi.  
-3. Nel caso di contratti stipulati da un concessionario di opere o servizi pubblici, la certificazione, oltre che su richiesta dell'amministrazione o dell'ente pubblico interessati, puo' essere rilasciata anche a richiesta del concessionario, previa acquisizione dall'interessato dei certificati di residenza e di stato di famiglia di data non anteriore a tre mesi.  
-4. Quando gli atti o i contratti riguardano societa', la certificazione e' richiesta nei confronti della stessa societa'. Essa e' altresi' richiesta, se trattasi di societa' di capitali anche consortili ai sensi dell'[art.  
-2615- ter del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2615ter) o di societa' cooperative, di consorzi cooperativi, ovvero di consorzi di cui al libro V, titolo X, capo II, sezione II del [codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), nei confronti del legale rappresentante e degli eventuali altri componenti l'organo di amministrazione, nonche' di ciascuno dei consorziati che nei consorzi e nelle societa' consortili detenga una partecipazione superiore al 10 per cento, e di quei soci o consorziati per conto dei quali le societa' consortili o i consorzi operino in modo esclusivo nei confronti della pubblica amministrazione; per i consorzi di cui all'[art. 2602 del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2602) la certificazione e' richiesta nei confronti di chi ne ha la rappresentanza e degli imprenditori o societa' consorziate.  
-Se trattasi di societa' in nome collettivo, la certificazione e' richiesta nei confronti di tutti i soci; se trattasi di societa' in accomandita semplice, nei confronti dei soci accomandatari. Se trattasi delle societa' di cui all'[art. 2506 del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2506) la certificazione e' richiesta nei confronti di coloro che le rappresentano stabilmente nel territorio dello Stato.  
-5. Ai fini dell'applicazione della specifica disciplina dell'albo nazionale dei costruttori, la certificazione e' altresi' richiesta nei confronti del direttore tecnico dell'impresa.  
-6. Le certificazioni possono anche essere rilasciate su richiesta del privato interessato presentata alla prefettura competente per il luogo ove lo stesso ha la residenza ovvero la sede, se trattasi di societa', impresa o ente. La relativa domanda, alla quale vanno allegati i certificati prescritti, deve specificare i provvedimenti, atti o contratti per i quali la certificazione e' richiesta o anche solo le amministrazioni o enti pubblici interessati ed indicare il numero degli esemplari occorrenti e la persona, munita di procura speciale, incaricata di ritirarli. La certificazione deve essere acquisita dalla pubblica amministrazione o dal concessionario entro tre mesi dalla data del rilascio prodotta anche in copia autenticata ai sensi dell'[art. 14 della legge 4 gennaio 1968, n. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15~art14).  
-7. Nei casi di urgenza, in attesa che pervenga alla pubblica amministrazione o al concessionario la certificazione prefettizia, l'esecuzione dei contratti di cui all'art. 10 puo' essere effettuata sulla base di una dichiarazione con la quale l'interessato attesti di non essere stato sottoposto a misura di prevenzione e di non essere a conoscenza della esistenza a suo carico e dei propri conviventi di procedimenti in corso per l'applicazione della misura di prevenzione o di una delle cause ostative all'iscrizione negli albi appaltatori o fornitori pubblici ovvero nell'albo nazionale dei costruttori. La sottoscrizione della dichiarazione deve essere autenticata con le modalita' stabilite dall'[art. 20 della legge 4 gennaio 1968, n. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15~art20). le stesse disposizioni si applicano quando e' richiesta l'autorizzazione di subcontratti, cessioni e cottimi concernenti la realizzazione delle opere e dei lavori e la prestazione di servizi riguardanti la pubblica amministrazione.  
-8. La certificazione non e' richiesta quando beneficiario dell'atto o contraente con l'amministrazione e' un'altra amministrazione pubblica ovvero quando si tratta di licenze e autorizzazioni rilasciate dall'autorita' provinciale di pubblica sicurezza o del loro rinnovo.  
-9. La certificazione non e' inoltre richiesta ed e' sostituita dalla dichiarazione di cui al comma 7:  
-a) per la stipulazione o approvazione di contratti con artigiani o con esercenti professioni intellettuali;  
-b) per la stipulazione o l'approvazione dei contratti di cui all'art. 10 e per le concessioni di costruzione, nonche' di costruzione e gestione di opere riguardanti la pubblica amministrazione o di servizi pubblici, il cui valore complessivo non supera i cento milioni di lire;  
-c) per l'autorizzazione di subcontratti, cessioni e cottimi concernenti la realizzazione delle opere e la prestazione dei servizi di cui alla lettera b) il cui valore complessivo non supera i cento milioni di lire;  
-d) per la concessione di contributi, finanziamenti e mutui agevolati e altre erogazioni dello stesso tipo, comunque denominate, per lo svolgimento di attivita' imprenditoriali il cui valore complessivo non supera i cinquanta milioni di lire.  
-10. E' fatta comunque salva la facolta' della pubblica amministrazione che procede sulla base delle dichiarazioni sostitutive di richiedere successivamente ulteriore certificazione alla prefettura territorialmente competente.  
-11. L'impresa aggiudicataria e' tenuta a comunicare tempestivamente all'amministrazione appaltante ogni modificazione intervenuta negli assetti proprietari e nella struttura di impresa e negli organismi tecnici e amministrativi.  
-12. Le certificazioni prefettizie, le relative istanze nonche' la documentazione accessoria previste dal presente articolo sono esenti da imposta di bollo.  
-13. Le certificazioni prefettizie sono rilasciate entro trenta giorni dalla richiesta. Le prefetture sono tenute a rilasciare apposita ricevuta attestante la data di presentazione dell'istanza di certificazione, nonche' i soggetti per cui la medesima e' richiesta; trascorsi inutilmente trenta giorni dalla presentazione dell'istanza, gli interessati possono sostituire ad ogni effetto la certificazione con la dichiarazione di cui al comma 7, ferma restando la possibilita' per l'amministrazione di avvalersi della facolta' di cui al comma 10.  
-14. Chiunque, nelle dichiarazioni sostitutive di cui al presente articolo, attesta il falso e' punito con la reclusione da uno a quattro anni.  
-15. Nel caso di opere pubbliche il Ministero dei lavori pubblici ha facolta' di verificare anche in corso d'opera la permanenza dei requisiti previsti dalla presente legge per l'affidamento dei lavori. Alla predetta verifica possono altresi' procedere le altre amministrazioni o enti pubblici committenti o concedenti.  
-16. Decorso un anno dalla firma del contratto riguardante opere o lavori per la pubblica amministrazione, l'amministrazione o ente pubblico committente o concedente e' comunque tenuto ad effettuare la verifica di cui al comma 15".
+## CONTRIBUTI PER I PROGRAMMI GESTIONALI
 
-CAPO III Capo III CONTRIBUTI PER I PROGRAMMI GESTIONALI
--------------------------------------------------------
+Capo III
 
-### Art. 5
+### Art. 5. — Termine per la presentazione delle domande
 
-Termine per la presentazione delle domande
+1.
 
-1. Le domande per la concessione del contributo per i programmi di cui al comma 2 dell'art. 33 della legge devono essere trasmesse al Ministero dell'industria, del commercio e dell'artigianato con cadenza semestrale e, precisamente, entro il 30 aprile ed il 30 ottobre di ciascun anno. La trasmissione dovra' avvenire esclusivamente mediante raccomandata postale con avviso di ricevimento.
+Le domande per la concessione del contributo per i programmi di cui al comma 2 dell'art. 33 della legge devono essere trasmesse al Ministero dell'industria, del commercio e dell'artigianato con cadenza semestrale e, precisamente, entro il 30 aprile ed il 30 ottobre di ciascun anno. La trasmissione dovra' avvenire esclusivamente mediante raccomandata postale con avviso di ricevimento.
 
-Nota all'art. 5:  
-- Per il riferimento all'[art. 33 della legge n. 317/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;317~art33) si veda in nota al titolo.
+Nota all'art. 5:
+ - Per il riferimento all'[art. 33 della legge n. 317/1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;317#art_33) si veda in nota al titolo.
 
-### Art. 6
+### Art. 6. — Investimenti ammissibili
 
-Investimenti ammissibili
+1.
 
-1. Sono ammessi al contributo gli acquisti esterni in beni materiali o immateriali effettuati successivamente al 25 ottobre 1991, finalizzati alla realizzazione dei programmi diretti a rendere nuovi servizi finanziari alle imprese consorziate o socie, ovvero a migliorare i servizi gia' resi.
+Sono ammessi al contributo gli acquisti esterni in beni materiali o immateriali effettuati successivamente al 25 ottobre 1991, finalizzati alla realizzazione dei programmi diretti a rendere nuovi servizi finanziari alle imprese consorziate o socie, ovvero a migliorare i servizi gia' resi.
 
-2. Rientrano tra le spese ammissibili quelle relative a:
+2.
 
-a) acquisto di elaboratori e programmi informatici;
+Rientrano tra le spese ammissibili quelle relative a:
+                            a)
+                                acquisto di elaboratori e programmi informatici;
+                            b)
+                                partecipazione a corsi di formazione per il personale addetto all'attivita' consortile;
+                            c)
+                                acquisizione di consulenze esterne in materia gestionale ed organizzativa.
 
-b) partecipazione a corsi di formazione per il personale addetto all'attivita' consortile;
+3.
 
-c) acquisizione di consulenze esterne in materia gestionale ed organizzativa.
+I beni acquistati per la realizzazione del programma devono essere di nuova fabbricazione e devono rimanere di proprieta' dei Confidi per almeno tre anni.
 
-3. I beni acquistati per la realizzazione del programma devono essere di nuova fabbricazione e devono rimanere di proprieta' dei Confidi per almeno tre anni.
+4.
 
-4. I costi indicati nel programma ed ammissibili al contributo si intendono al netto dell'IVA, degli interessi e di ogni altro onere accessorio.
+I costi indicati nel programma ed ammissibili al contributo si intendono al netto dell'IVA, degli interessi e di ogni altro onere accessorio.
 
-5. Sono in ogni caso escluse le spese amministrative e di gestione che non attengano strettamente al programma.
+5.
 
-### Art. 7
+Sono in ogni caso escluse le spese amministrative e di gestione che non attengano strettamente al programma.
 
-Procedura per la concessione del contributo
+### Art. 7. — Procedura per la concessione del contributo
 
-1. Ai fini della concessione del contributo, i Confidi trasmettono al Ministero dell'industria, del commercio e dell'artigianato:
+1.
 
-a) domanda di ammissione agli interventi, in regola con le disposizioni vigenti in materia di bollo, firmata dal rappresentante legale;
+Ai fini della concessione del contributo, i Confidi trasmettono al Ministero dell'industria, del commercio e dell'artigianato:
+                            a)
+                                domanda di ammissione agli interventi, in regola con le disposizioni vigenti in materia di bollo, firmata dal rappresentante legale;
+                            b)
+                                copia dell'atto costitutivo e dello statuto vigente al momento della domanda;
+                            c)
+                                atto notorio o dichiarazione sostitutiva resa dal rappresentante legale secondo le disposizioni della [legge 4 gennaio 1968, n. 15](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md), e successive modificazioni, dove si attesti la conformita' del soggetto richiedente ai requisiti e alle condizioni della legge e del presente regolamento. Da tale atto dovra' risultare in particolare:
+ 1) la data di costituzione del Confidi;
+ 2) l'indicazione del legale rappresentante e dei componenti il consiglio di amministrazione; l'indicazione di eventuali consorziati che detengano una quota del fondo consortile o capitale sociale superiore al 10%, nonche' di quelli per conto dei quali il Confidi operi in modo esclusivo nei confronti della pubblica amministrazione;
+ 3) impegno a rispettare il termine stabilito al comma 3 dell'art. 6;
+                            d)
+                                elenco delle imprese consorziate o socie al momento della presentazione della domanda;
+                            e)
+                                il programma che si intende realizzare e che deve indicare:
+ 1) descrizione dell'iniziativa;
+ 2) specifica delle singole voci di spesa relative agli investimenti in beni materiali od immateriali, con allegata la documentazione delle spese previste;
+ 3) spesa complessiva e sua eventuale articolazione temporale;
+ 4) piano finanziario di copertura;
+ 5) obiettivi che si intendono conseguire;
+ 6) modalita' e tempi di realizzazione;
+                            f)
+                                certificazione o autocertificazione "antimafia" ai sensi della [legge 19 marzo 1990, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-19;55), e successive modificazioni ed integrazioni, riguardanti il Confidi nonche' il legale rappresentante e gli eventuali altri componenti l'organo di amministrazione; analoga certificazione e' altresi' richiesta nei confronti dei singoli consorziati o soci che detengono quote del fondo consortile superiori al 10% ed eventuali consorziati per conto dei quali il Confidi operi in modo esclusivo nei confronti della pubblica amministrazione.
 
-b) copia dell'atto costitutivo e dello statuto vigente al momento della domanda;
+2.
 
-c) atto notorio o dichiarazione sostitutiva resa dal rappresentante legale secondo le disposizioni della [legge 4 gennaio 1968, n. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15), e successive modificazioni, dove si attesti la conformita' del soggetto richiedente ai requisiti e alle condizioni della legge e del presente regolamento. Da tale atto dovra' risultare in particolare:  
-1) la data di costituzione del Confidi;  
-2) l'indicazione del legale rappresentante e dei componenti il consiglio di amministrazione; l'indicazione di eventuali consorziati che detengano una quota del fondo consortile o capitale sociale superiore al 10%, nonche' di quelli per conto dei quali il Confidi operi in modo esclusivo nei confronti della pubblica amministrazione;  
-3) impegno a rispettare il termine stabilito al comma 3 dell'art. 6;
+Le domande pervenute nello stesso semestre saranno esaminate congiuntamente e alle stesse sara' riservata la meta' dei fondi disponibili nell'anno. I fondi eventualmente non utilizzati saranno disponibili per le domande relative al semestre successivo.
 
-d) elenco delle imprese consorziate o socie al momento della presentazione della domanda;
+3.
 
-e) il programma che si intende realizzare e che deve indicare:  
-1) descrizione dell'iniziativa;  
-2) specifica delle singole voci di spesa relative agli investimenti in beni materiali od immateriali, con allegata la documentazione delle spese previste;  
-3) spesa complessiva e sua eventuale articolazione temporale;  
-4) piano finanziario di copertura;  
-5) obiettivi che si intendono conseguire;  
-6) modalita' e tempi di realizzazione;
+Il contributo e' concesso con decreto del Ministro dell'industria, del commercio e dell'artigianato.
 
-f) certificazione o autocertificazione "antimafia" ai sensi della [legge 19 marzo 1990, n. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-19;55), e successive modificazioni ed integrazioni, riguardanti il Confidi nonche' il legale rappresentante e gli eventuali altri componenti l'organo di amministrazione; analoga certificazione e' altresi' richiesta nei confronti dei singoli consorziati o soci che detengono quote del fondo consortile superiori al 10% ed eventuali consorziati per conto dei quali il Confidi operi in modo esclusivo nei confronti della pubblica amministrazione.
+4.
 
-2. Le domande pervenute nello stesso semestre saranno esaminate congiuntamente e alle stesse sara' riservata la meta' dei fondi disponibili nell'anno. I fondi eventualmente non utilizzati saranno disponibili per le domande relative al semestre successivo.
+Qualora, per le domande pervenute in uno stesso semestre, le disponibilita' finanziarie disponibili non permettano la concessione del contributo nella misura massima prevista dalla legge, il Ministro dell'industria, del commercio e dell'artigianato ne dispone la riduzione percentuale in eguale misura.
 
-3. Il contributo e' concesso con decreto del Ministro dell'industria, del commercio e dell'artigianato.
+Note all'art. 7:
+ - Per il riferimento alla [legge n. 15/1968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968;15) vedasi la nota all'art. 4.
+ - Per il riferimento alla [legge n. 55/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;55) vedasi la nota all'art. 4.
 
-4. Qualora, per le domande pervenute in uno stesso semestre, le disponibilita' finanziarie disponibili non permettano la concessione del contributo nella misura massima prevista dalla legge, il Ministro dell'industria, del commercio e dell'artigianato ne dispone la riduzione percentuale in eguale misura.
+### Art. 8. — Erogazioni
 
-Note all'art. 7:  
-- Per il riferimento alla [legge n. 15/1968](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968;15) vedasi la nota all'art. 4.  
-- Per il riferimento alla [legge n. 55/1990](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;55) vedasi la nota all'art. 4.
+1.
 
-### Art. 8
+L'erogazione del contributo avverra' in unica soluzione da liquidarsi al completamento del programma.
 
-Erogazioni
+2.
 
-1. L'erogazione del contributo avverra' in unica soluzione da liquidarsi al completamento del programma.
+Al fine di comprovare lo stato di realizzazione degli investimenti i soggetti beneficiari dovranno presentare rendiconti contabili attenendosi alle seguenti disposizioni: gli acquisti da terzi dovranno essere documentati mediante elenchi di fatture e di altri titoli giustificativi, ovvero mediante elaborati meccanografici di contabilita' contenenti precisi riferimenti idonei a far risalire alla natura delle spese ed alle loro componenti tecniche ed economiche.
 
-2. Al fine di comprovare lo stato di realizzazione degli investimenti i soggetti beneficiari dovranno presentare rendiconti contabili attenendosi alle seguenti disposizioni: gli acquisti da terzi dovranno essere documentati mediante elenchi di fatture e di altri titoli giustificativi, ovvero mediante elaborati meccanografici di contabilita' contenenti precisi riferimenti idonei a far risalire alla natura delle spese ed alle loro componenti tecniche ed economiche.
+3.
 
-3. I rendiconti contabili devono essere articolati secondo le voci di investimento previste nella domanda, di ciascuna voce dovra' essere indicato il totale parziale e, a conclusione, dovra' essere indicato il totale generale dell'investimento.
+I rendiconti contabili devono essere articolati secondo le voci di investimento previste nella domanda, di ciascuna voce dovra' essere indicato il totale parziale e, a conclusione, dovra' essere indicato il totale generale dell'investimento.
 
-4. I rendiconti dovranno essere firmati dal legale rappresentante del soggetto beneficiario e dovranno essere accompagnati da un atto notorio o da dichiarazione sostitutiva resa dallo stesso rappresentante legale secondo le disposizioni della [legge 4 gennaio 1968, n. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15), e successive modificazioni, dove si attesti:  
-- che le spese esposte riguardano effettivamente ed unicamente gli investimenti previsti nel programma ammesso ad agevolazione;  
-- che i titoli di spesa indicati nei rendiconti sono fiscalmente regolari ed integralmente pagati;  
-- che i beni acquistati sono di nuova fabbricazione;  
-- che il programma di investimento approvato non ha subito variazioni. Nel caso vi siano variazioni, le stesse devono essere preventivamente approvate dal Ministero dell'industria, del commercio e dell'artigianato.
+4.
 
-5. Ai fini della erogazione dovranno essere trasmesse:
+I rendiconti dovranno essere firmati dal legale rappresentante del soggetto beneficiario e dovranno essere accompagnati da un atto notorio o da dichiarazione sostitutiva resa dallo stesso rappresentante legale secondo le disposizioni della [legge 4 gennaio 1968, n. 15](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md), e successive modificazioni, dove si attesti:
+ - che le spese esposte riguardano effettivamente ed unicamente gli investimenti previsti nel programma ammesso ad agevolazione;
+ - che i titoli di spesa indicati nei rendiconti sono fiscalmente regolari ed integralmente pagati;
+ - che i beni acquistati sono di nuova fabbricazione;
+ - che il programma di investimento approvato non ha subito variazioni. Nel caso vi siano variazioni, le stesse devono essere preventivamente approvate dal Ministero dell'industria, del commercio e dell'artigianato.
 
-a) il numero del conto corrente bancario sul quale accreditare il contributo, specificando l'Istituto bancario, nonche' la sede o filiale o sportello;
+5.
 
-b) certificazione o autocertificazione "antimafia" ai sensi della [legge 19 marzo 1990, n. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-19;55), e successive modificazioni ed integrazioni, riguardanti il Confidi nonche' il legale rappresentante e gli eventuali altri componenti l'organo di amministrazione; analoga certificazione e' altresi' richiesta nei confronti dei singoli consorziati o soci che detengono quote del fondo consortile superiori al 10% ed eventuali consorziati per conto dei quali il Confidi operi in modo esclusivo nei confronti della pubblica amministrazione.
+Ai fini della erogazione dovranno essere trasmesse:
+                            a)
+                                il numero del conto corrente bancario sul quale accreditare il contributo, specificando l'Istituto bancario, nonche' la sede o filiale o sportello;
+                            b)
+                                certificazione o autocertificazione "antimafia" ai sensi della [legge 19 marzo 1990, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-19;55), e successive modificazioni ed integrazioni, riguardanti il Confidi nonche' il legale rappresentante e gli eventuali altri componenti l'organo di amministrazione; analoga certificazione e' altresi' richiesta nei confronti dei singoli consorziati o soci che detengono quote del fondo consortile superiori al 10% ed eventuali consorziati per conto dei quali il Confidi operi in modo esclusivo nei confronti della pubblica amministrazione.
 
-6. Qualora al momento della presentazione della domanda l'investimento fosse gia' terminato, la documentazione relativa alla erogazione puo' essere inviata contestualmente alla domanda stessa.
+6.
+
+Qualora al momento della presentazione della domanda l'investimento fosse gia' terminato, la documentazione relativa alla erogazione puo' essere inviata contestualmente alla domanda stessa.
+
+Note all'art. 8:
+ - Per il riferimento alla [legge n. 15/1968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968;15) vedasi la nota all'art. 4.
+ - Per il riferimento alla [legge n. 55/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;55) vedasi la nota all'art. 4.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 20 settembre 1993
+Roma, 20 settembre 1993
 
-Il Ministro dell'industria del commercio e dell'artigianato SAVONA Il Ministro del tesoro BARUCCI
-
-Visto, il Guardasigilli: CONSO Registrato alla Corte dei conti il 1 dicembre 1993
-
-Registro n. 6 Industria, foglio n. 186
-
-Note all'art. 8:  
-- Per il riferimento alla [legge n. 15/1968](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968;15) vedasi la nota all'art. 4.  
-- Per il riferimento alla [legge n. 55/1990](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;55) vedasi la nota all'art. 4.
+Il Ministro dell'industria del commercio e dell'artigianato SAVONA Il Ministro del tesoro BARUCCI Visto, il Guardasigilli: CONSO Registrato alla Corte dei conti il 1 dicembre 1993 Registro n. 6 Industria, foglio n. 186

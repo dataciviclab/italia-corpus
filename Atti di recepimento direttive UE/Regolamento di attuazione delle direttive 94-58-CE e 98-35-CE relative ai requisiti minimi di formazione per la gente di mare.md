@@ -1,141 +1,123 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 maggio 2001 n. 324
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 324
+data: 2001-05-09
+titolo: "Regolamento di attuazione delle direttive 94/58/CE e 98/35/CE relative ai requisiti minimi di formazione per la gente di mare."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2001-05-09;324
+codice_redazionale: 001G0367
+vigente: true
+---
 
+## Campo di applicazione e definizioni
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 maggio 2001 n. 324
-=============================================================
+Capo I
 
-Regolamento di attuazione delle direttive 94/58/CE e 98/35/CE relative ai requisiti minimi di formazione per la gente di mare.
-------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del decreto: 28-8-2001
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 136))
 
-CAPO I Capo I Campo di applicazione e definizioni
--------------------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;136)))
+## Certificati
 
-### Art. 2
+Capo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;136)))
+### Art. 3.
 
-CAPO II Capo II Certificati
----------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 136))
 
-### Art. 3
+### Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 136))
 
-### Art. 4
+### Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 136))
 
-### Art. 5
+### Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 136))
 
-### Art. 6
+### Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 136))
 
-### Art. 7
+### Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 136))
 
-### Art. 8
+### Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 136))
 
-### Art. 9
+### Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 136))
 
-### Art. 10
+### Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 136))
 
-### Art. 11
+### Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 136))
 
-### Art. 12
+## Addestramento
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;136)))
+Capo III
 
-CAPO III Capo III Addestramento
--------------------------------
+### Art. 13.
 
-### Art. 13
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;136)))
+### Art. 14.
 
-### Art. 14
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;136)))
+### Art. 15.
 
-### Art. 15
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;136)))
+## Controlli e sanzioni
 
-CAPO IV Capo IV Controlli e sanzioni
-------------------------------------
+Capo IV
 
-### Art. 16
+### Art. 16.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 136))
 
-### Art. 17
+### Art. 17.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 136))
 
-### Art. 18
+### Art. 18.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 136))
 
-### Art. 19
+### Art. 19.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 136))
 
-CAPO V Capo V Norme transitorie e finali
-----------------------------------------
+## Norme transitorie e finali
 
-### Art. 20
+Capo V
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;136)))
+### Art. 20.
 
-### Art. 21
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 136))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;136)))
+### Art. 21.
 
-### Art. 21-bis
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 136))
 
- Art. 21bis   
-  
+### Art. 21-bis.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;136)))
+Art. 21bis 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 136))
 
-### Art. 22
+### Art. 22.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;136)))
-
-Allegato I
-
- Allegato I   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;136)))
-
-Allegato II
-
- Allegato II   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;136)))
-
-Allegato III
-
- Allegato III   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;136)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 136))

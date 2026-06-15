@@ -1,18 +1,17 @@
-DECRETO LEGISLATIVO 16 aprile 1948 n. 577
+---
+tipo: DECRETO LEGISLATIVO
+numero: 577
+data: 1948-04-16
+titolo: "Conferimento di cattedre negli Istituti medi di istruzione ad alcune categorie di perseguitati politici e razziali."
+urn: urn:nir:stato:decreto.legislativo:1948-04-16;577
+codice_redazionale: 048U0577
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 16 aprile 1948 n. 577
-=========================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Conferimento di cattedre negli Istituti medi di istruzione ad alcune categorie di perseguitati politici e razziali.
--------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

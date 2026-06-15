@@ -1,16 +1,14 @@
-LEGGE 16 giugno 1927 n. 1274
+---
+tipo: LEGGE
+numero: 1274
+data: 1927-06-16
+titolo: "Conversione in legge del R. decreto 13 agosto 1926, n. 1554, che stabilisce le norme per la liquidazione dei consorzi e delle associazioni cooperative. (027U1274)"
+urn: urn:nir:stato:legge:1927-06-16;1274
+codice_redazionale: 027U1274
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 16 giugno 1927 n. 1274
-============================
-
-Conversione in legge del R. decreto 13 agosto 1926, n. 1554, che stabilisce le norme per la liquidazione dei consorzi e delle associazioni cooperative. (027U1274)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/08/1927
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO   
-CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO 
+ CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))

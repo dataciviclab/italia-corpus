@@ -1,29 +1,21 @@
-DECRETO-LEGGE 27 aprile 1989 n. 152
+---
+tipo: DECRETO-LEGGE
+numero: 152
+data: 1989-04-27
+titolo: "Nuove disposizioni in materia di prestazioni sanitarie."
+urn: urn:nir:stato:decreto.legge:1989-04-27;152
+codice_redazionale: 089G0185
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 27 aprile 1989 n. 152
-===================================
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 25 GENNAIO 1990, N. 8](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20novembre%201989%20n.%20382%20recante%20disposizioni%20urgenti%20sulla%20partecipazione%20alla%20spesa%20sanitaria%20e%20sul%20ripiano%20dei%20disavanzi%20delle%20u_c7f533721ca5.md)
 
-Nuove disposizioni in materia di prestazioni sanitarie.
--------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 29/04/1989.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 25 GENNAIO 1990, N. 8](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-01-25;8)
-  
-
-Art. 2
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 3
-------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

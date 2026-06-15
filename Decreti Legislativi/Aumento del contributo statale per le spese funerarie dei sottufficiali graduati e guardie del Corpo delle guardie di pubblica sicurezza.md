@@ -1,18 +1,17 @@
-DECRETO LEGISLATIVO 16 febbraio 1948 n. 134
+---
+tipo: DECRETO LEGISLATIVO
+numero: 134
+data: 1948-02-16
+titolo: "Aumento del contributo statale per le spese funerarie dei sottufficiali, graduati e guardie del Corpo delle guardie di pubblica sicurezza."
+urn: urn:nir:stato:decreto.legislativo:1948-02-16;134
+codice_redazionale: 048U0134
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 16 febbraio 1948 n. 134
-===========================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Aumento del contributo statale per le spese funerarie dei sottufficiali, graduati e guardie del Corpo delle guardie di pubblica sicurezza.
-------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

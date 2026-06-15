@@ -1,65 +1,53 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 dicembre 2000 n. 421
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 421
+data: 2000-12-01
+titolo: "Regolamento concernente i lavori, le forniture e i servizi da eseguire in economia da parte del Ministero dell'ambiente."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2000-12-01;421
+codice_redazionale: 001G0022
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 dicembre 2000 n. 421
-===============================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384))
 
-Regolamento concernente i lavori, le forniture e i servizi da eseguire in economia da parte del Ministero dell'ambiente.
-------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 3/2/2001
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 AGOSTO 2001, N. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-08-20;384)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 AGOSTO 2001, N. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-08-20;384)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 AGOSTO 2001, N. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-08-20;384)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 AGOSTO 2001, N. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-08-20;384)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 AGOSTO 2001, N. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-08-20;384)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 AGOSTO 2001, N. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-08-20;384)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 AGOSTO 2001, N. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-08-20;384)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384))
 
-Art. 8
-------
+## Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 AGOSTO 2001, N. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-08-20;384)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384))
 
-Art. 9
-------
+## Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 AGOSTO 2001, N. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-08-20;384)))
-
-Art. 10
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 AGOSTO 2001, N. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-08-20;384)))
-
-Art. 11
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 AGOSTO 2001, N. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-08-20;384)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384))

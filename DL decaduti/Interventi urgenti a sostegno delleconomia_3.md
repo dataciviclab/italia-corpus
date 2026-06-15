@@ -1,106 +1,69 @@
-DECRETO-LEGGE 25 maggio 1994 n. 312
+---
+tipo: DECRETO-LEGGE
+numero: 312
+data: 1994-05-25
+titolo: "Interventi urgenti a sostegno dell'economia."
+urn: urn:nir:stato:decreto.legge:1994-05-25;312
+codice_redazionale: 094G0392
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 25 maggio 1994 n. 312
-===================================
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 22 NOVEMBRE 1994, N. 644](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20settembre%201994%20n.%20547%20recante%20interventi%20urgenti%20a%20sostegno%20delleconomia.md)
 
-Interventi urgenti a sostegno dell'economia.
---------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 25/5/1994.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 22 NOVEMBRE 1994, N. 644](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20settembre%201994%20n.%20547%20recante%20interventi%20urgenti%20a%20sostegno%20delleconomia.md)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 22 NOVEMBRE 1994, N. 644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-11-22;644)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 22 NOVEMBRE 1994, N. 644](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20settembre%201994%20n.%20547%20recante%20interventi%20urgenti%20a%20sostegno%20delleconomia.md)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 22 NOVEMBRE 1994, N. 644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-11-22;644)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 22 NOVEMBRE 1994, N. 644](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20settembre%201994%20n.%20547%20recante%20interventi%20urgenti%20a%20sostegno%20delleconomia.md)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 22 NOVEMBRE 1994, N. 644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-11-22;644)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 22 NOVEMBRE 1994, N. 644](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20settembre%201994%20n.%20547%20recante%20interventi%20urgenti%20a%20sostegno%20delleconomia.md)
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 22 NOVEMBRE 1994, N. 644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-11-22;644)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 22 NOVEMBRE 1994, N. 644](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20settembre%201994%20n.%20547%20recante%20interventi%20urgenti%20a%20sostegno%20delleconomia.md)
 
-Art. 5
-------
+## Art. 7.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 22 NOVEMBRE 1994, N. 644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-11-22;644)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 22 NOVEMBRE 1994, N. 644](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20settembre%201994%20n.%20547%20recante%20interventi%20urgenti%20a%20sostegno%20delleconomia.md)
 
-Art. 6
-------
+## Art. 8.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 22 NOVEMBRE 1994, N. 644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-11-22;644)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 22 NOVEMBRE 1994, N. 644](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20settembre%201994%20n.%20547%20recante%20interventi%20urgenti%20a%20sostegno%20delleconomia.md)
 
-Art. 7
-------
+## Art. 9.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 22 NOVEMBRE 1994, N. 644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-11-22;644)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 22 NOVEMBRE 1994, N. 644](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20settembre%201994%20n.%20547%20recante%20interventi%20urgenti%20a%20sostegno%20delleconomia.md)
 
-Art. 8
-------
+## Art. 10.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 22 NOVEMBRE 1994, N. 644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-11-22;644)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 22 NOVEMBRE 1994, N. 644](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20settembre%201994%20n.%20547%20recante%20interventi%20urgenti%20a%20sostegno%20delleconomia.md)
 
-Art. 9
-------
+## Art. 11.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 22 NOVEMBRE 1994, N. 644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-11-22;644)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 22 NOVEMBRE 1994, N. 644](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20settembre%201994%20n.%20547%20recante%20interventi%20urgenti%20a%20sostegno%20delleconomia.md)
 
-Art. 10
--------
+## Art. 12.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 22 NOVEMBRE 1994, N. 644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-11-22;644)
-  
-
-Art. 11
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 22 NOVEMBRE 1994, N. 644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-11-22;644)
-  
-
-Art. 12
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 22 NOVEMBRE 1994, N. 644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-11-22;644)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 22 NOVEMBRE 1994, N. 644](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20settembre%201994%20n.%20547%20recante%20interventi%20urgenti%20a%20sostegno%20delleconomia.md)

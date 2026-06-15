@@ -1,286 +1,193 @@
-DECRETO-LEGGE 19 novembre 1968 n. 1149
+---
+tipo: DECRETO-LEGGE
+numero: 1149
+data: 1968-11-19
+titolo: "Ulteriori provvedimenti in favore delle zone colpite dalla alluvione dell'autunno 1968."
+urn: urn:nir:stato:decreto.legge:1968-11-19;1149
+codice_redazionale: 068U1149
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 19 novembre 1968 n. 1149
-======================================
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Ulteriori provvedimenti in favore delle zone colpite dalla alluvione dell'autunno 1968.
----------------------------------------------------------------------------------------
+## Art. 2.
 
-Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 1
-------
+## Art. 3.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 2
-------
+## Art. 4.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 3
-------
+## Art. 5.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 4
-------
+## Art. 6.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 5
-------
+## Art. 7.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 6
-------
+## Art. 8.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 7
-------
+## Art. 9.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 8
-------
+## Art. 10.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 9
-------
+## Art. 11.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 10
--------
+## Art. 12.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 11
--------
+## Art. 13.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 12
--------
+## Art. 14.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 13
--------
+## Art. 15.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 14
--------
+## Art. 16.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 15
--------
+## Art. 17.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 16
--------
+## Art. 18.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 17
--------
+## Art. 19.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 18
--------
+## Art. 20.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 19
--------
+## Art. 21.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 20
--------
+## Art. 22.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 21
--------
+## Art. 23.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 22
--------
+## Art. 24.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 23
--------
+## Art. 25.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 24
--------
+## Art. 26.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 25
--------
+## Art. 27.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 26
--------
+## Art. 28.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 27
--------
+## Art. 29.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 28
--------
+## Art. 30.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 29
--------
+## Art. 31.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 30
--------
+## Art. 32.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 31
--------
+## Art. 33.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 32
--------
+## Art. 34.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 33
--------
+## Art. 35.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 34
--------
+## Art. 36.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 35
--------
+## Art. 37.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 36
--------
+## Art. 38.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 37
--------
+## Art. 39.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 38
--------
+## Art. 40.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 39
--------
+## Art. 41.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 40
--------
+## Art. 42.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 41
--------
+## Art. 43.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 42
--------
+## Art. 44.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 43
--------
+## Art. 45.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
 
-Art. 44
--------
+## Art. 46.
 
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
-
-Art. 45
--------
-
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
-
-Art. 46
--------
-
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DAL [D.L. 18 DICEMBRE 1968, N. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233)

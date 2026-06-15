@@ -1,99 +1,97 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 marzo 2001 n. 175
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 175
+data: 2001-03-26
+titolo: "Regolamento di organizzazione del Ministero delle attivita' produttive."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2001-03-26;175
+codice_redazionale: 001G0232
+vigente: true
+---
 
+## Attribuzioni dei Dipartimenti e di altri organismi del Ministero
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 marzo 2001 n. 175
-============================================================
+Capo I
 
-Regolamento di organizzazione del Ministero delle attivita' produttive.
------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del decreto: 10-6-2001
+((IL [D.P.R. 14 NOVEMBRE 2007, N. 253](../DPR/Regolamento%20di%20riorganizzazione%20del%20Ministero%20del%20commercio%20internazionale%20a%20norma%20dellarticolo%201%20comma%20404%20della%20legge%2027%20dicembre%202006%20n.%20296.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-CAPO I Capo I Attribuzioni dei Dipartimenti e di altri organismi del Ministero
-------------------------------------------------------------------------------
+### Art. 2.
 
-### Art. 1
+((IL [D.P.R. 14 NOVEMBRE 2007, N. 253](../DPR/Regolamento%20di%20riorganizzazione%20del%20Ministero%20del%20commercio%20internazionale%20a%20norma%20dellarticolo%201%20comma%20404%20della%20legge%2027%20dicembre%202006%20n.%20296.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-((IL [D.P.R. 14 NOVEMBRE 2007, N. 253](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-14;253) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))  
+### Art. 3.
 
-### Art. 2
+((IL [D.P.R. 14 NOVEMBRE 2007, N. 253](../DPR/Regolamento%20di%20riorganizzazione%20del%20Ministero%20del%20commercio%20internazionale%20a%20norma%20dellarticolo%201%20comma%20404%20della%20legge%2027%20dicembre%202006%20n.%20296.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-((IL [D.P.R. 14 NOVEMBRE 2007, N. 253](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-14;253) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))  
+### Art. 4.
 
-### Art. 3
+((IL [D.P.R. 14 NOVEMBRE 2007, N. 253](../DPR/Regolamento%20di%20riorganizzazione%20del%20Ministero%20del%20commercio%20internazionale%20a%20norma%20dellarticolo%201%20comma%20404%20della%20legge%2027%20dicembre%202006%20n.%20296.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-((IL [D.P.R. 14 NOVEMBRE 2007, N. 253](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-14;253) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))  
+### Art. 5.
 
-### Art. 4
+((IL [D.P.R. 14 NOVEMBRE 2007, N. 253](../DPR/Regolamento%20di%20riorganizzazione%20del%20Ministero%20del%20commercio%20internazionale%20a%20norma%20dellarticolo%201%20comma%20404%20della%20legge%2027%20dicembre%202006%20n.%20296.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-((IL [D.P.R. 14 NOVEMBRE 2007, N. 253](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-14;253) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))  
+### Art. 6.
 
-### Art. 5
+((IL [D.P.R. 14 NOVEMBRE 2007, N. 253](../DPR/Regolamento%20di%20riorganizzazione%20del%20Ministero%20del%20commercio%20internazionale%20a%20norma%20dellarticolo%201%20comma%20404%20della%20legge%2027%20dicembre%202006%20n.%20296.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-((IL [D.P.R. 14 NOVEMBRE 2007, N. 253](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-14;253) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))  
+## Articolazione dei Dipartimenti
 
-### Art. 6
+Capo II
 
-((IL [D.P.R. 14 NOVEMBRE 2007, N. 253](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-14;253) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))  
+### Art. 7.
 
-CAPO II Capo II Articolazione dei Dipartimenti
-----------------------------------------------
+((IL [D.P.R. 14 NOVEMBRE 2007, N. 253](../DPR/Regolamento%20di%20riorganizzazione%20del%20Ministero%20del%20commercio%20internazionale%20a%20norma%20dellarticolo%201%20comma%20404%20della%20legge%2027%20dicembre%202006%20n.%20296.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-### Art. 7
+### Art. 8.
 
-((IL [D.P.R. 14 NOVEMBRE 2007, N. 253](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-14;253) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))  
+((IL [D.P.R. 14 NOVEMBRE 2007, N. 253](../DPR/Regolamento%20di%20riorganizzazione%20del%20Ministero%20del%20commercio%20internazionale%20a%20norma%20dellarticolo%201%20comma%20404%20della%20legge%2027%20dicembre%202006%20n.%20296.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-### Art. 8
+### Art. 9.
 
-((IL [D.P.R. 14 NOVEMBRE 2007, N. 253](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-14;253) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))  
+((IL [D.P.R. 14 NOVEMBRE 2007, N. 253](../DPR/Regolamento%20di%20riorganizzazione%20del%20Ministero%20del%20commercio%20internazionale%20a%20norma%20dellarticolo%201%20comma%20404%20della%20legge%2027%20dicembre%202006%20n.%20296.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-### Art. 9
+### Art. 10.
 
-((IL [D.P.R. 14 NOVEMBRE 2007, N. 253](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-14;253) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))  
+((IL [D.P.R. 14 NOVEMBRE 2007, N. 253](../DPR/Regolamento%20di%20riorganizzazione%20del%20Ministero%20del%20commercio%20internazionale%20a%20norma%20dellarticolo%201%20comma%20404%20della%20legge%2027%20dicembre%202006%20n.%20296.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-### Art. 10
+## Disposizioni in materia di organizzazione e di personale
 
-((IL [D.P.R. 14 NOVEMBRE 2007, N. 253](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-14;253) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))  
+Capo III
 
-CAPO III Capo III Disposizioni in materia di organizzazione e di personale
---------------------------------------------------------------------------
+### Art. 11.
 
-### Art. 11
+((IL [D.P.R. 14 NOVEMBRE 2007, N. 253](../DPR/Regolamento%20di%20riorganizzazione%20del%20Ministero%20del%20commercio%20internazionale%20a%20norma%20dellarticolo%201%20comma%20404%20della%20legge%2027%20dicembre%202006%20n.%20296.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-((IL [D.P.R. 14 NOVEMBRE 2007, N. 253](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-14;253) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))  
+### Art. 12.
 
-### Art. 12
+((IL [D.P.R. 14 NOVEMBRE 2007, N. 253](../DPR/Regolamento%20di%20riorganizzazione%20del%20Ministero%20del%20commercio%20internazionale%20a%20norma%20dellarticolo%201%20comma%20404%20della%20legge%2027%20dicembre%202006%20n.%20296.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-((IL [D.P.R. 14 NOVEMBRE 2007, N. 253](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-14;253) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))  
+## Uffici di diretta collaborazione del Ministro
 
-CAPO IV Capo IV Uffici di diretta collaborazione del Ministro
--------------------------------------------------------------
+Capo IV
 
-### Art. 13
+### Art. 13.
 
-((IL [D.P.R. 14 NOVEMBRE 2007, N. 253](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-14;253) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))  
+((IL [D.P.R. 14 NOVEMBRE 2007, N. 253](../DPR/Regolamento%20di%20riorganizzazione%20del%20Ministero%20del%20commercio%20internazionale%20a%20norma%20dellarticolo%201%20comma%20404%20della%20legge%2027%20dicembre%202006%20n.%20296.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-### Art. 14
+### Art. 14.
 
-((IL [D.P.R. 14 NOVEMBRE 2007, N. 253](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-14;253) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))  
+((IL [D.P.R. 14 NOVEMBRE 2007, N. 253](../DPR/Regolamento%20di%20riorganizzazione%20del%20Ministero%20del%20commercio%20internazionale%20a%20norma%20dellarticolo%201%20comma%20404%20della%20legge%2027%20dicembre%202006%20n.%20296.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-CAPO V Capo V Norme finali e transitorie e abrogazioni
-------------------------------------------------------
+## Norme finali e transitorie e abrogazioni
 
-### Art. 15
+Capo V
 
-((IL [D.P.R. 14 NOVEMBRE 2007, N. 253](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-14;253) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))  
+### Art. 15.
 
-### Art. 16
+((IL [D.P.R. 14 NOVEMBRE 2007, N. 253](../DPR/Regolamento%20di%20riorganizzazione%20del%20Ministero%20del%20commercio%20internazionale%20a%20norma%20dellarticolo%201%20comma%20404%20della%20legge%2027%20dicembre%202006%20n.%20296.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-((IL [D.P.R. 14 NOVEMBRE 2007, N. 253](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-14;253) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))  
+### Art. 16.
 
-### Art. 17
+((IL [D.P.R. 14 NOVEMBRE 2007, N. 253](../DPR/Regolamento%20di%20riorganizzazione%20del%20Ministero%20del%20commercio%20internazionale%20a%20norma%20dellarticolo%201%20comma%20404%20della%20legge%2027%20dicembre%202006%20n.%20296.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-((IL [D.P.R. 14 NOVEMBRE 2007, N. 253](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-14;253) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))  
+### Art. 17.
 
-Tabelle
-
- Tabelle   
-
-((IL [D.P.R. 14 NOVEMBRE 2007, N. 253](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-11-14;253) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL [D.P.R. 14 NOVEMBRE 2007, N. 253](../DPR/Regolamento%20di%20riorganizzazione%20del%20Ministero%20del%20commercio%20internazionale%20a%20norma%20dellarticolo%201%20comma%20404%20della%20legge%2027%20dicembre%202006%20n.%20296.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))

@@ -1,28 +1,26 @@
-DECRETO 21 marzo 1997 n. 158
-
-
-DECRETO 21 marzo 1997 n. 158
-============================
-
-Regolamento per gli esami di Stato per l'abilitazione all'esercizio della professione di dottore agronomo e dottore forestale.
-------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 29-6-1997
+---
+tipo: DECRETO
+numero: 158
+data: 1997-03-21
+titolo: "Regolamento per gli esami di Stato per l'abilitazione all'esercizio della professione di dottore agronomo e dottore forestale."
+urn: urn:nir:ministero.universita.e.ricerca.scientifica.e.tecnologica:decreto:1997-03-21;158
+codice_redazionale: 097G0199
+vigente: true
+---
 
 IL MINISTRO DELL'UNIVERSITA' E DELLA
-------------------------------------
 
 RICERCA SCIENTIFICA E TECNOLOGICA
 
-Visto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1993, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1993-08-31;1592);
+Visto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1993, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1993-08-31;1592);
 
-Vista la [legge 9 maggio 1989, n. 168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-09;168);
+Vista la [legge 9 maggio 1989, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-09;168);
 
-Vista la [legge 10 febbraio 1992, n. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-10;152) relativa a "modifiche ed integrazioni alla [legge 7 gennaio 1976, n. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-01-07;3) e nuove norme concernenti l'ordinamento della professione di dottore agronomo e di dottore forestale";
+Vista la [legge 10 febbraio 1992, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-10;152) relativa a "modifiche ed integrazioni alla [legge 7 gennaio 1976, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-01-07;3) e nuove norme concernenti l'ordinamento della professione di dottore agronomo e di dottore forestale";
 
-Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3);
+Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-Vista la [legge 8 dicembre 1956, n. 1378](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-08;1378);
+Vista la [legge 8 dicembre 1956, n. 1378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-08;1378);
 
 Visto il regolamento sugli esami di Stato di abilitazione all'esercizio delle professioni approvato con decreto ministeriale 9 settembre 1957 e successive modificazioni;
 
@@ -34,93 +32,116 @@ Udito il parere del Ministro della pubblica istruzione;
 
 Udito il parere del Consiglio di Stato espresso nell'adunanza generale dell'11 aprile 1996;
 
-Ritenuto di recepire le osservazioni del Consiglio di Stato, salvo per quanto concerne la rimozione della laurea in scienze agrarie tropicali e subtropicali, atteso che la [legge 10 febbraio 1992, n. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-10;152) prevede espressamente per tutti i laureati della facolta' di agraria la possibilita' di accedere all'esame di Stato di dottore agronomo e dottore forestale;
+Ritenuto di recepire le osservazioni del Consiglio di Stato, salvo per quanto concerne la rimozione della laurea in scienze agrarie tropicali e subtropicali, atteso che la [legge 10 febbraio 1992, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-10;152) prevede espressamente per tutti i laureati della facolta' di agraria la possibilita' di accedere all'esame di Stato di dottore agronomo e dottore forestale;
 
-Vista
------
+Vista la nota n. 1.1.4/31890/4.23.15 - 16 del 23 ottobre 1996 con cui il Dipartimento per gli affari giuridici e legislativi della Presidenza del Consiglio dei Ministri ha preso atto del presente regolamento; Adottail seguente regolamento:
 
-la nota n. 1.1.4/31890/4.23.15 - 16 del 23 ottobre 1996 con cui il Dipartimento per gli affari giuridici e legislativi della Presidenza del Consiglio dei Ministri ha preso atto del presente regolamento; Adottail seguente regolamento:
+## Art. 1.
 
-Art. 1
-------
+1.
 
-1. All'esame di Stato per l'abilitazione all'esercizio della professione di dottore agronomo e dottore forestale sono ammessi i laureati della facolta' di agraria in possesso delle lauree in scienze e tecnologie agrarie (gia' laurea in scienze agrarie), scienze e tecnologie della produzione animale (gia' laurea in scienze della produzione animale), scienze agrarie tropicali e subtropicali (gia' laurea in agricoltura tropicale e subtropicale), e scienze forestali ed ambientali (gia' laurea in scienze forestali).
+All'esame di Stato per l'abilitazione all'esercizio della professione di dottore agronomo e dottore forestale sono ammessi i laureati della facolta' di agraria in possesso delle lauree in scienze e tecnologie agrarie (gia' laurea in scienze agrarie), scienze e tecnologie della produzione animale (gia' laurea in scienze della produzione animale), scienze agrarie tropicali e subtropicali (gia' laurea in agricoltura tropicale e subtropicale), e scienze forestali ed ambientali (gia' laurea in scienze forestali).
 
-2. In attesa della istituzione dell'albo dei tecnologi alimentari, di cui alla [legge 18 gennaio 1994, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-18;59), i laureati in scienze e tecnologie alimentari (gia' scienze delle preparazioni alimentari) sono ammessi a partecipare agli esami per l'iscrizione all'albo dei dottori agronomi e forestali.
+2.
 
-3. Le prove di esame sono differenziate a seconda della laurea posseduta prefigurando in tal modo l'accesso alle sezioni dell'albo professionale di cui all'[articolo 9 della legge 10 febbraio 1992, n. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-10;152~art9). Il certificato di abilitazione all'esercizio della professione fa specifica menzione della sezione dell'albo professionale a cui l'abilitato puo' iscriversi.
+In attesa della istituzione dell'albo dei tecnologi alimentari, di cui alla [legge 18 gennaio 1994, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-18;59), i laureati in scienze e tecnologie alimentari (gia' scienze delle preparazioni alimentari) sono ammessi a partecipare agli esami per l'iscrizione all'albo dei dottori agronomi e forestali.
 
-Avvertenza:  
-ll testo delle note qui pubblicate e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.  
-Note alle premesse:  
-- La [legge 9 maggio 1989, n. 168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-09;168), istituisce il Ministero dell'universita' e della ricerca scientifica.  
-- Il [comma 3 dell'art. 17 della legge n. 400/ 1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce cbe gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazetta Ufficiale.  
-- La [legge 8 dicembre 1956, n. 1378](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-08;1378), reca norme sugli esami di Stato di abilitazione all'esercizio delle professioni.  
-- Il regolamento ministeriale 9 settembre 1957 e' [pubblicato nella Gazzetta Ufficiale n. 271 del 2 novembre 1957](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1957-11-02&numeroGazzetta=271).  
-Note all'[art. 1:  
-- La legge 18 gennaio 1994, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-18;59~art1), reca norme sull'ordinamento della professione di tecnologo alimentare.  
-- L'[art. 9 della legge 10 febbraio 1992, n. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-10;152~art9), cosi' recita:  
-"Art. 9. - 1. Il [primo comma dell'art. 30 della legge 7 gennaio 1976, n. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-01-07;3~art30-com1), e' sostituito dal seguente:  
-''L'albo dei dottori agronomi e forestali e' distinto in piu' sezioni riguardanti i diversi diplomi di laurea. Esso contiene il cognome, il nome, la data e il luogo di nascita, la residenza e l'indirizzo degli iscritti, nonche' la data di iscrizione e il titolo in base al quale questa e' avvenuta, oltre alla annotazione a margine dello stato giuridico degli iscritti che siano dipendenti pubblici. Esso viene compilato secondo l'ordine di anzianita' di iscrizione e porta un indice alfabetico che ripete il numero di iscrizione''".
+3.
 
-Art. 2
-------
+Le prove di esame sono differenziate a seconda della laurea posseduta prefigurando in tal modo l'accesso alle sezioni dell'albo professionale di cui all'[articolo 9 della legge 10 febbraio 1992, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-10;152#art_9). Il certificato di abilitazione all'esercizio della professione fa specifica menzione della sezione dell'albo professionale a cui l'abilitato puo' iscriversi.
 
-1. Gli esami di Stato per l'esercizio della professione di dottore agronomo e dottore forestale hanno luogo ogni anno in due sessioni.  
+Avvertenza:
+ ll testo delle note qui pubblicate e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Note alle premesse:
+ - La [legge 9 maggio 1989, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-09;168), istituisce il Ministero dell'universita' e della ricerca scientifica.
+ - Il [comma 3 dell'art. 17 della legge n. 400/ 1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce cbe gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazetta Ufficiale.
+ - La [legge 8 dicembre 1956, n. 1378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-08;1378), reca norme sugli esami di Stato di abilitazione all'esercizio delle professioni.
+ - Il regolamento ministeriale 9 settembre 1957 e' pubblicato nella Gazzetta Ufficiale n. 271 del 2 novembre 1957.
+ Note all'[art. 1:
+ - La legge 18 gennaio 1994, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-18;59#art_1), reca norme sull'ordinamento della professione di tecnologo alimentare.
+ - L'[art. 9 della legge 10 febbraio 1992, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-10;152#art_9), cosi' recita:
+ "Art. 9. - 1. Il [primo comma dell'art. 30 della legge 7 gennaio 1976, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-01-07;3#art_30-com1), e' sostituito dal seguente:
+ ''L'albo dei dottori agronomi e forestali e' distinto in piu' sezioni riguardanti i diversi diplomi di laurea. Esso contiene il cognome, il nome, la data e il luogo di nascita, la residenza e l'indirizzo degli iscritti, nonche' la data di iscrizione e il titolo in base al quale questa e' avvenuta, oltre alla annotazione a margine dello stato giuridico degli iscritti che siano dipendenti pubblici. Esso viene compilato secondo l'ordine di anzianita' di iscrizione e porta un indice alfabetico che ripete il numero di iscrizione''".
+
+## Art. 2.
+
+1.
+
+Gli esami di Stato per l'esercizio della professione di dottore agronomo e dottore forestale hanno luogo ogni anno in due sessioni.
 Essi sono indetti con ordinanza del Ministro dell'universita' e della ricerca scientifica e tecnologica che precisa le sedi, le lauree ammesse per ciascuna sede, la data d'inizio delle prove.
 
-2. Le sedi sono prescelte fra le citta' che ospitano la facolta' di agraria.  
-Le lauree ammesse nelle diverse sedi, fra quelle elencate all'articolo del presente regolamento, corrispondono a quelle conferite dalle rispettive facolta' di agraria purche' i relativi corsi di laurea siano attivati da oltre cinque anni.
+2.
 
-3. Ai candidati e' data facolta' di sostenere gli esami di Stato per l'esercizio della professione di dottore agronomo e dottore forestale in una qualsiasi delle sedi in cui svolgono le prove corrispondenti allo specifico titolo di studio posseduto.
+Le sedi sono prescelte fra le citta' che ospitano la facolta' di agraria.
+ Le lauree ammesse nelle diverse sedi, fra quelle elencate all'articolo del presente regolamento, corrispondono a quelle conferite dalle rispettive facolta' di agraria purche' i relativi corsi di laurea siano attivati da oltre cinque anni.
 
-4. Il candidato che non si presenti all'inizio delle prove o in una delle scadenze fissate dalla commissione perde il diritto all'esame senza alcun rimborso delle tasse e dei contributi versati.
+3.
 
-5. Il candidato che si ritira durante le prove d'esame e' considerato respinto.
+Ai candidati e' data facolta' di sostenere gli esami di Stato per l'esercizio della professione di dottore agronomo e dottore forestale in una qualsiasi delle sedi in cui svolgono le prove corrispondenti allo specifico titolo di studio posseduto.
 
-Art. 3
-------
+4.
 
-1. Le commissioni giudicatrici dell'esame di Stato per l'abilitazione all'esercizio della professione di dottore agronomo e dottore forestale nominate con decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica, ai sensi dell'[articolo 13 della legge 10 febbraio 1992, n. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-10;152~art13) sono composte da:  
-un presidente e da quattro liberi professionisti designati dalla federazione regionale dei dottori agronomi e dottori forestali. I liberi professionisti, anche appartenenti ad ordini di regioni diverse, devono essere iscritti all'albo professionale da almeno dieci anni;  
-una terna di professori universitari di ruolo designati dal rettore fra i professori ordinari e ossociati della facolta' di agraria avente sede nella citta' in cui si svolge l'esame o, in mancanza, in una citta' vicina. Se nella facolta' di agraria della citta' sede degli esami di Stato sono attivati piu' corsi di laurea, il numero delle terne dei professori universitari di ruolo da nominare sara' pari al numero dei corsi di laurea attivati da oltre cinque anni.
+Il candidato che non si presenti all'inizio delle prove o in una delle scadenze fissate dalla commissione perde il diritto all'esame senza alcun rimborso delle tasse e dei contributi versati.
 
-2. Il presidente e i quattro commissari liberi professionisti partecipano agli esami di tutti i candidati. I tre professori di ruolo di ciascun corso di laurea partecipano soltanto agli esami dei candidati in possesso della laurea corrispondente. Pertanto il giudizio collegiale su ciascun candidato e' sempre espresso dal presidente e da sette commissari.
+5.
 
-Nota all'[art. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-10;152~art3):  
-- L'[art. 13 della legge 10 febbraio 1992, n. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-10;152~art13), cosi' recita:  
-"Art. 13. - 1. Le commissioni giudicatrici di cui all'[art. 2 della legge 8 dicembre 1956, n. 1378](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-08;1378~art2), sono nominate con decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica e sono composte da un presidente, designato dalla federazione regionale degli ordini dei dottori agronomi e dei dottori forestali, nonche' da quattro membri liberi professionisti designati dalla medesima federazione e da tre membri scelti tra i professori ordinari o associati della facolta' di agraria avente sede nella citta' in cui si svolge l'esame o, in mancanza, nella citta' piu' vicina.  
-2. Il giudizio complessivo sul candidato deve essere espresso collegialmente dalla commissione. In caso di parita' prevale il voto del presidente".
+Il candidato che si ritira durante le prove d'esame e' considerato respinto.
 
-Art. 4
-------
+## Art. 3.
 
-1. Gli esami di Stato per l'esercizio della professione di dottore agronomo e dottore forestale si articolano in due prove scritte ed una prova orale.
+1.
 
-2. Le prove scritte consistono nello svolgimento di due temi a carattere spiccatamente professionale a scelta del candidato tra almeno due proposti per ciascuna prova e per ciascuna laurea dalla commissione. Lo svolgimento delle prove avviene in due giorni consecutivi: il primo tema e' dedicato allo sviluppo di aspetti tecnici; il secondo ad analisi economicoestimative e ad eventuali risvolti giuridici stabiliti e dettati dalla commissione.
+Le commissioni giudicatrici dell'esame di Stato per l'abilitazione all'esercizio della professione di dottore agronomo e dottore forestale nominate con decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica, ai sensi dell'[articolo 13 della legge 10 febbraio 1992, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-10;152#art_13) sono composte da:
+ un presidente e da quattro liberi professionisti designati dalla federazione regionale dei dottori agronomi e dottori forestali. I liberi professionisti, anche appartenenti ad ordini di regioni diverse, devono essere iscritti all'albo professionale da almeno dieci anni;
+ una terna di professori universitari di ruolo designati dal rettore fra i professori ordinari e ossociati della facolta' di agraria avente sede nella citta' in cui si svolge l'esame o, in mancanza, in una citta' vicina. Se nella facolta' di agraria della citta' sede degli esami di Stato sono attivati piu' corsi di laurea, il numero delle terne dei professori universitari di ruolo da nominare sara' pari al numero dei corsi di laurea attivati da oltre cinque anni.
 
-3. Il tempo da dedicare allo svolgimento di ciascuno dei due elaborati e' di otto ore consecutive.
+2.
 
-4. La prova orale consiste in un colloquio su argomenti professionali specifici relativi prevalentemente alla laurea posseduta dal candidato, tendente ad accertare la capacita' d'uso del sapere tecnicoprofessionale nonche' l'attitudine all'esercizio della professione. Nel corso del colloquio deve inoltre essere accertata la conoscenza delle norme che regolano l'esercizio dell'attivita' professionale.
+Il presidente e i quattro commissari liberi professionisti partecipano agli esami di tutti i candidati. I tre professori di ruolo di ciascun corso di laurea partecipano soltanto agli esami dei candidati in possesso della laurea corrispondente. Pertanto il giudizio collegiale su ciascun candidato e' sempre espresso dal presidente e da sette commissari.
 
-5. La prova orale si svolge dinanzi a tutta la commissione ed ha una durata minima di trenta minuti. L'ammissione alla prova orale si ottiene avendo superato ciascuna delle prove scritte con un voto non inferiore a sei decimi. La prova orale si considera superata quando la sua valutazione e' non inferiore a sei decimi.
+Nota all'[art. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-10;152#art_3):
+ - L'[art. 13 della legge 10 febbraio 1992, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-10;152#art_13), cosi' recita:
+ "Art. 13. - 1. Le commissioni giudicatrici di cui all'[art. 2 della legge 8 dicembre 1956, n. 1378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-08;1378#art_2), sono nominate con decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica e sono composte da un presidente, designato dalla federazione regionale degli ordini dei dottori agronomi e dei dottori forestali, nonche' da quattro membri liberi professionisti designati dalla medesima federazione e da tre membri scelti tra i professori ordinari o associati della facolta' di agraria avente sede nella citta' in cui si svolge l'esame o, in mancanza, nella citta' piu' vicina.
+ 2. Il giudizio complessivo sul candidato deve essere espresso collegialmente dalla commissione. In caso di parita' prevale il voto del presidente".
 
-6. Al termine dei lavori la commissione riassume i risultati raggiunti da ogni candidato in ogni prova ed esprime il voto complessivo. Gli elenchi degli abilitati sono divisi per laurea posseduta.
+## Art. 4.
 
-7. L'abilitazione all'esercizio della professione di dottore agronomo e dottore forestale consente l'iscrizione all'albo dei dottori agronomi e dei dottori forestali, nella specifica sezione.
+1.
 
-Art. 5
-------
+Gli esami di Stato per l'esercizio della professione di dottore agronomo e dottore forestale si articolano in due prove scritte ed una prova orale.
 
-1. Per quanto non espressamente previsto dal presente regolamento si applicano le disposizioni del vigente regolamento sugli esami di Stato approvato con decreto ministeriale 9 settembre 1957, e successive modificazioni.
+2.
+
+Le prove scritte consistono nello svolgimento di due temi a carattere spiccatamente professionale a scelta del candidato tra almeno due proposti per ciascuna prova e per ciascuna laurea dalla commissione. Lo svolgimento delle prove avviene in due giorni consecutivi: il primo tema e' dedicato allo sviluppo di aspetti tecnici; il secondo ad analisi economicoestimative e ad eventuali risvolti giuridici stabiliti e dettati dalla commissione.
+
+3.
+
+Il tempo da dedicare allo svolgimento di ciascuno dei due elaborati e' di otto ore consecutive.
+
+4.
+
+La prova orale consiste in un colloquio su argomenti professionali specifici relativi prevalentemente alla laurea posseduta dal candidato, tendente ad accertare la capacita' d'uso del sapere tecnicoprofessionale nonche' l'attitudine all'esercizio della professione. Nel corso del colloquio deve inoltre essere accertata la conoscenza delle norme che regolano l'esercizio dell'attivita' professionale.
+
+5.
+
+La prova orale si svolge dinanzi a tutta la commissione ed ha una durata minima di trenta minuti. L'ammissione alla prova orale si ottiene avendo superato ciascuna delle prove scritte con un voto non inferiore a sei decimi. La prova orale si considera superata quando la sua valutazione e' non inferiore a sei decimi.
+
+6.
+
+Al termine dei lavori la commissione riassume i risultati raggiunti da ogni candidato in ogni prova ed esprime il voto complessivo. Gli elenchi degli abilitati sono divisi per laurea posseduta.
+
+7.
+
+L'abilitazione all'esercizio della professione di dottore agronomo e dottore forestale consente l'iscrizione all'albo dei dottori agronomi e dei dottori forestali, nella specifica sezione.
+
+## Art. 5.
+
+1.
+
+Per quanto non espressamente previsto dal presente regolamento si applicano le disposizioni del vigente regolamento sugli esami di Stato approvato con decreto ministeriale 9 settembre 1957, e successive modificazioni.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 21 marzo 1997
+Roma, 21 marzo 1997
 
-p. Il Ministro: Guerzoni
-
-Visto, il Guardasigilli: Flick Registrato alla Corte dei conti il 26 maggio 1997
-
-Registro n. 1 Universita' e ricerca, foglio n. 61
+p. Il Ministro: Guerzoni Visto, il Guardasigilli: Flick Registrato alla Corte dei conti il 26 maggio 1997 Registro n. 1 Universita' e ricerca, foglio n. 61

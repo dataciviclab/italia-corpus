@@ -1,25 +1,21 @@
-DECRETO-LEGGE 08 marzo 2000 n. 46
+---
+tipo: DECRETO-LEGGE
+numero: 46
+data: 2000-03-08
+titolo: "Disposizioni urgenti in materia sanitaria."
+urn: urn:nir:stato:decreto.legge:2000-03-08;46
+codice_redazionale: 000G0084
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 08 marzo 2000 n. 46
-=================================
+DECRETO DECADUTO
 
-Disposizioni urgenti in materia sanitaria.
-------------------------------------------
+## Art. 2.
 
-Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO  
-
-Art. 2
-------
-
- DECRETO DECADUTO  
-
-Art. 3
-------
-
- DECRETO DECADUTO  
+DECRETO DECADUTO

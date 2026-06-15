@@ -1,134 +1,125 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 novembre 2000 n. 362
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 362
+data: 2000-11-02
+titolo: "Regolamento recante norme sul reclutamento, avanzamento ed impiego del personale volontario del Corpo nazionale dei vigili del fuoco."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2000-11-02;362
+codice_redazionale: 000G0413
+vigente: true
+---
 
+## Disposizioni generali
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 novembre 2000 n. 362
-===============================================================
+Capo I
 
-Regolamento recante norme sul reclutamento, avanzamento ed impiego del personale volontario del Corpo nazionale dei vigili del fuoco.
--------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del decreto: 22-12-2000
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 6 FEBBRAIO 2004, N. 76))
 
-CAPO I Capo I Disposizioni generali
------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 6 FEBBRAIO 2004, N. 76))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 6 FEBBRAIO 2004, N. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-02-06;76)))
+### Art. 3.
 
-### Art. 2
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 6 FEBBRAIO 2004, N. 76))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 6 FEBBRAIO 2004, N. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-02-06;76)))
+### Art. 4.
 
-### Art. 3
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 6 FEBBRAIO 2004, N. 76))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 6 FEBBRAIO 2004, N. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-02-06;76)))
+## Reclutamento
 
-### Art. 4
+Capo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 6 FEBBRAIO 2004, N. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-02-06;76)))
+### Art. 5.
 
-CAPO II Capo II Reclutamento
-----------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 6 FEBBRAIO 2004, N. 76))
 
-### Art. 5
+### Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 6 FEBBRAIO 2004, N. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-02-06;76)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 6 FEBBRAIO 2004, N. 76))
 
-### Art. 6
+### Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 6 FEBBRAIO 2004, N. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-02-06;76)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 6 FEBBRAIO 2004, N. 76))
 
-### Art. 7
+### Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 6 FEBBRAIO 2004, N. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-02-06;76)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 6 FEBBRAIO 2004, N. 76))
 
-### Art. 8
+### Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 6 FEBBRAIO 2004, N. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-02-06;76)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 6 FEBBRAIO 2004, N. 76))
 
-### Art. 9
+### Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 6 FEBBRAIO 2004, N. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-02-06;76)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 6 FEBBRAIO 2004, N. 76))
 
-### Art. 10
+### Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 6 FEBBRAIO 2004, N. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-02-06;76)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 6 FEBBRAIO 2004, N. 76))
 
-### Art. 11
+### Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 6 FEBBRAIO 2004, N. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-02-06;76)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 6 FEBBRAIO 2004, N. 76))
 
-### Art. 12
+## Avanzamento
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 6 FEBBRAIO 2004, N. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-02-06;76)))
+Capo III
 
-CAPO III Capo III Avanzamento
------------------------------
+### Art. 13.
 
-### Art. 13
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 6 FEBBRAIO 2004, N. 76))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 6 FEBBRAIO 2004, N. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-02-06;76)))
+### Art. 14.
 
-### Art. 14
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 6 FEBBRAIO 2004, N. 76))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 6 FEBBRAIO 2004, N. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-02-06;76)))
+### Art. 15.
 
-### Art. 15
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 6 FEBBRAIO 2004, N. 76))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 6 FEBBRAIO 2004, N. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-02-06;76)))
+### Art. 16.
 
-### Art. 16
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 6 FEBBRAIO 2004, N. 76))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 6 FEBBRAIO 2004, N. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-02-06;76)))
+## Impiego
 
-CAPO IV Capo IV Impiego
------------------------
+Capo IV
 
-### Art. 17
+### Art. 17.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 6 FEBBRAIO 2004, N. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-02-06;76)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 6 FEBBRAIO 2004, N. 76))
 
-### Art. 18
+### Art. 18.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 6 FEBBRAIO 2004, N. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-02-06;76)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 6 FEBBRAIO 2004, N. 76))
 
-### Art. 19
+### Art. 19.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 6 FEBBRAIO 2004, N. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-02-06;76)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 6 FEBBRAIO 2004, N. 76))
 
-### Art. 20
+### Art. 20.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 6 FEBBRAIO 2004, N. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-02-06;76)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 6 FEBBRAIO 2004, N. 76))
 
-### Art. 21
+### Art. 21.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 6 FEBBRAIO 2004, N. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-02-06;76)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 6 FEBBRAIO 2004, N. 76))
 
-### Art. 22
+### Art. 22.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 6 FEBBRAIO 2004, N. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-02-06;76)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 6 FEBBRAIO 2004, N. 76))
 
-### Art. 23
+### Art. 23.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 6 FEBBRAIO 2004, N. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-02-06;76)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 6 FEBBRAIO 2004, N. 76))
 
-### Art. 24
+### Art. 24.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 6 FEBBRAIO 2004, N. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-02-06;76)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 6 FEBBRAIO 2004, N. 76))
 
-### Art. 25
+### Art. 25.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 6 FEBBRAIO 2004, N. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-02-06;76)))
-
-Tabella I
-
- Tabella I   
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 6 FEBBRAIO 2004, N. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-02-06;76)))
-
-Tabella II
-
- Tabella II   
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 6 FEBBRAIO 2004, N. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2004-02-06;76)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 6 FEBBRAIO 2004, N. 76))

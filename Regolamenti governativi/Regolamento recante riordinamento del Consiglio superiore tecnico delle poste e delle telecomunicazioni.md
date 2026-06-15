@@ -1,30 +1,25 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1994 n. 632
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 632
+data: 1994-10-27
+titolo: "Regolamento recante riordinamento del Consiglio superiore tecnico delle poste e delle telecomunicazioni."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1994-10-27;632
+codice_redazionale: 094G0677
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1994 n. 632
-==============================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 9 NOVEMBRE 2005, N. 243))
 
-Regolamento recante riordinamento del Consiglio superiore tecnico delle poste e delle telecomunicazioni.
---------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 2/12/1994
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 9 NOVEMBRE 2005, N. 243))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 9 NOVEMBRE 2005, N. 243](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2005-11-09;243)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 9 NOVEMBRE 2005, N. 243))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 9 NOVEMBRE 2005, N. 243](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2005-11-09;243)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 9 NOVEMBRE 2005, N. 243](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2005-11-09;243)))
-
-Art. 4
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 9 NOVEMBRE 2005, N. 243](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2005-11-09;243)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 9 NOVEMBRE 2005, N. 243))

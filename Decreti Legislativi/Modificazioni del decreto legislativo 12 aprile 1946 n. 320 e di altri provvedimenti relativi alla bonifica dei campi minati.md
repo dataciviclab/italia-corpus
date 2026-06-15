@@ -1,18 +1,17 @@
-DECRETO LEGISLATIVO 17 aprile 1948 n. 1181
+---
+tipo: DECRETO LEGISLATIVO
+numero: 1181
+data: 1948-04-17
+titolo: "Modificazioni del decreto legislativo 12 aprile 1946, n. 320, e di altri provvedimenti relativi alla bonifica dei campi minati."
+urn: urn:nir:stato:decreto.legislativo:1948-04-17;1181
+codice_redazionale: 048U1181
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 17 aprile 1948 n. 1181
-==========================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-Modificazioni del decreto legislativo 12 aprile 1946, n. 320, e di altri provvedimenti relativi alla bonifica dei campi minati.
--------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))

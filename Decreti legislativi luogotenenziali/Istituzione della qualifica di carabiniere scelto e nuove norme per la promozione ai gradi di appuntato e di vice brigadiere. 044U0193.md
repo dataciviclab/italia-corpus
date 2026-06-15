@@ -1,32 +1,29 @@
-DECRETO LEGISLATIVO LUOGOTENENZIALE 03 agosto 1944 n. 193
+---
+tipo: DECRETO LEGISLATIVO LUOGOTENENZIALE
+numero: 193
+data: 1944-08-03
+titolo: "Istituzione della qualifica di carabiniere scelto e nuove norme per la promozione ai gradi di appuntato e di vice brigadiere. (044U0193)"
+urn: urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-03;193
+codice_redazionale: 044U0193
+vigente: true
+---
 
-
-DECRETO LEGISLATIVO LUOGOTENENZIALE 03 agosto 1944 n. 193
-=========================================================
-
-Istituzione della qualifica di carabiniere scelto e nuove norme per la promozione ai gradi di appuntato e di vice brigadiere. (044U0193)
-----------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 Art
 
-1. 
+1.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-Art. 2
-------
+## Art. 2.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-Art. 3
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-Art. 4
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))

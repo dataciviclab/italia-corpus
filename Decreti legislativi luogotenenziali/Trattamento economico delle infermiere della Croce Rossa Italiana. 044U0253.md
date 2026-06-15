@@ -1,20 +1,17 @@
-DECRETO LEGISLATIVO LUOGOTENENZIALE 03 agosto 1944 n. 253
+---
+tipo: DECRETO LEGISLATIVO LUOGOTENENZIALE
+numero: 253
+data: 1944-08-03
+titolo: "Trattamento economico delle infermiere della Croce Rossa Italiana. (044U0253)"
+urn: urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-03;253
+codice_redazionale: 044U0253
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO LUOGOTENENZIALE 03 agosto 1944 n. 253
-=========================================================
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Trattamento economico delle infermiere della Croce Rossa Italiana. (044U0253)
------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 08/11/1944
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

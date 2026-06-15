@@ -1,46 +1,33 @@
-DECRETO-LEGGE 23 gennaio 1993 n. 18
+---
+tipo: DECRETO-LEGGE
+numero: 18
+data: 1993-01-23
+titolo: "Misure urgenti in materia di affitti agrari."
+urn: urn:nir:stato:decreto.legge:1993-01-23;18
+codice_redazionale: 093G0048
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 23 gennaio 1993 n. 18
-===================================
+DECRETO DECADUTO
 
-Misure urgenti in materia di affitti agrari.
---------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 25/1/1993.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO   
-
-Art. 5
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 6
-------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

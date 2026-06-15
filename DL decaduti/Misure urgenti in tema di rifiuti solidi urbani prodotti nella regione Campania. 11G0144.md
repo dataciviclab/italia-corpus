@@ -1,24 +1,17 @@
-DECRETO-LEGGE 01 luglio 2011 n. 94
+---
+tipo: DECRETO-LEGGE
+numero: 94
+data: 2011-07-01
+titolo: "((Misure urgenti in tema di rifiuti solidi urbani prodotti nella regione Campania.)) (11G0144)"
+urn: urn:nir:stato:decreto.legge:2011-07-01;94
+codice_redazionale: 011G0144
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 01 luglio 2011 n. 94
-==================================
+DECRETO DECADUTO
 
-((Misure urgenti in tema di rifiuti solidi urbani prodotti nella regione Campania.)) (11G0144)
-----------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 01/07/2011.Decreto-Legge decaduto per mancata conversione.
-
-Art. 1
-------
-
-  
-  
-DECRETO DECADUTO   
-
-Art. 2
-------
-
-  
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

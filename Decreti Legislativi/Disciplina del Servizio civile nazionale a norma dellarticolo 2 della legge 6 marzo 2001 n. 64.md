@@ -1,0 +1,65 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 77
+data: 2002-04-05
+titolo: "Disciplina del Servizio civile nazionale a norma dell'articolo 2 della legge 6 marzo 2001, n. 64."
+urn: urn:nir:stato:decreto.legislativo:2002-04-05;77
+codice_redazionale: 002G0107
+vigente: true
+---
+
+## Art. 1.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 MARZO 2017, N. 40))
+
+## Art. 2.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 MARZO 2017, N. 40))
+
+## Art. 3.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 MARZO 2017, N. 40))
+
+## Art. 4.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 MARZO 2017, N. 40))
+
+## Art. 5.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 MARZO 2017, N. 40))
+
+## Art. 6.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 MARZO 2017, N. 40))
+
+## Art. 7.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 MARZO 2017, N. 40))
+
+## Art. 8.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 MARZO 2017, N. 40))
+
+## Art. 9.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 MARZO 2017, N. 40))
+
+## Art. 10.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 MARZO 2017, N. 40))
+
+## Art. 11.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 MARZO 2017, N. 40))
+
+## Art. 12.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 MARZO 2017, N. 40))
+
+## Art. 13.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 MARZO 2017, N. 40))
+
+## Art. 14.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 MARZO 2017, N. 40))

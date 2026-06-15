@@ -1,160 +1,96 @@
-DECRETO 12 luglio 1990 n. 186
-
-
-DECRETO 12 luglio 1990 n. 186
-=============================
-
-Regolamento concernente la determinazione delle procedure diagnostiche e medico-legali per accertare l'uso abituale di sostanze stupefacenti o psicotrope, delle metodiche per quantificare l'assunzione abituale nelle 24 ore e dei limiti quantitativi massimi di principio attivo per le dosi medie giornaliere.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 15/7/1990
+---
+tipo: DECRETO
+numero: 186
+data: 1990-07-12
+titolo: "Regolamento concernente la determinazione delle procedure diagnostiche e medico-legali per accertare l'uso abituale di sostanze stupefacenti o psicotrope, delle metodiche per quantificare l'assunzione abituale nelle 24 ore e dei limiti quantitativi massimi di principio attivo per le dosi medie giornaliere."
+urn: urn:nir:ministero.sanita:decreto:1990-07-12;186
+codice_redazionale: 090G0228
+vigente: true
+---
 
 IL MINISTRO DELLA SANITA'
--------------------------
 
-Vista la [legge 22 dicembre 1975, n. 685](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-12-22;685), come modificata dalla [legge 26 giugno 1990, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-26;162), e, in particolare, l'art. 72-quater, il quale prevede che, mediante decreto del Ministro della sanita' sono adottate norme regolamentari per la determinazione della dose media giornaliera delle sostanze stupefacenti o psicotrope;
+Vista la [legge 22 dicembre 1975, n. 685](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-12-22;685), come modificata dalla [legge 26 giugno 1990, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-26;162), e, in particolare, l'art. 72-quater, il quale prevede che, mediante decreto del Ministro della sanita' sono adottate norme regolamentari per la determinazione della dose media giornaliera delle sostanze stupefacenti o psicotrope;
 
-Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3);
+Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
 Sentito l'Istituto superiore di sanita';
 
 Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 12 luglio 1990;
 
-Vista la comunicazione al Presidente del Consiglio dei Ministri, a norma dell'art. 17, comma 3, della citata [legge n. 400/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400) (nota n. 500.5.DA/10/411 del 10 luglio 1990);
+Vista la comunicazione al Presidente del Consiglio dei Ministri, a norma dell'art. 17, comma 3, della citata [legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400) (nota n. 500.5.DA/10/411 del 10 luglio 1990);
 
-ADOTTA
-------
+ADOTTA il seguente regolamento:
 
-il seguente regolamento:
+## Art. 1. — Procedure diagnostiche e medico-legali
 
-Art. 1
-------
+1.
 
-Procedure diagnostiche e medico-legali
+L'accertamento dell'uso abituale di sostanze stupefacenti o psicotrope si fonda su uno o piu' degli elementi valutativi appresso indicati:
+                        a)
+                            riscontro documentale di trattamenti sociosanitari per le tossicodipendenze presso strutture pubbliche e private, di soccorsi ricevuti da strutture di pronto soccorso, di ricovero per trattamento di patologie correlate all'abuso abituale di sostanze stupefacenti o psicotrope, di precedenti accertamenti medico-legali;
+                        b)
+                            segni di assunzione abituale della sostanza stupefacante o psicotropa;
+                        c)
+                            sintomi fisici e psichici di intossicazione in atto da sostanze stupefacenti o psicotrope;
+                        d)
+                            sindrome di astinenza in atto;
+                        e)
+                            presenza di sostanze stupefacenti e/o loro metaboliti nei liquidi biologici e/o nei tessuti.
 
-1. L'accertamento dell'uso abituale di sostanze stupefacenti o psicotrope si fonda su uno o piu' degli elementi valutativi appresso indicati:
+AVVERTENZA:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Note alle premesse:
+ - La [legge n. 685/1975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975;685) reca: "Disciplina degli stupefacenti e sostanze psicotrope. Prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza". Si trascrive il testo del relativo art. 72-quater, aggiunto dall'[art. 16, comma 1, della legge n. 162/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;162#art_16-com1):
+ "Art. 72-quater (Quantificazione delle sostanze). - 1.
+ Con decreto del Ministro della sanita' da emanarsi previo parere dell'Istituto superiore di sanita' sono determinati:
+ a) le procedure diagnostiche e medico-legali per accertare l'uso abituale di sostanze stupefacenti o psicotrope;
+ b) le metodiche per quantificare l'assunzione abituale nelle ventiquattro ore;
+ c) i limiti quantitativi massimi di principio attivo per le dosi medie giornaliere.
+ 2. Il decreto deve essere periodicamente aggiornato in relazione all'evoluzione delle conoscenze nel settore".
+ Il [comma 2 dell'art. 16 della legge n. 162/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;162#art_16-com2) prevede che il decreto del Ministro della sanita' di cui all'articolo soprariportato sia emanato entro due mesi dalla data di entrata in vigore della legge stessa, avvenuta l'11 luglio 1990.
+ - Il [comma 3 dell'art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.
+ Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
 
-a) riscontro documentale di trattamenti sociosanitari per le tossicodipendenze presso strutture pubbliche e private, di soccorsi ricevuti da strutture di pronto soccorso, di ricovero per trattamento di patologie correlate all'abuso abituale di sostanze stupefacenti o psicotrope, di precedenti accertamenti medico-legali;
+## Art. 2. — Assunzione nelle ventiquattro ore
 
-b) segni di assunzione abituale della sostanza stupefacante o psicotropa;
+1.
 
-c) sintomi fisici e psichici di intossicazione in atto da sostanze stupefacenti o psicotrope;
-
-d) sindrome di astinenza in atto;
-
-e) presenza di sostanze stupefacenti e/o loro metaboliti nei liquidi biologici e/o nei tessuti.
-
-AVVERTENZA:  
-Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.  
-Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.  
-Note alle premesse:  
-- La [legge n. 685/1975](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975;685) reca: "Disciplina degli stupefacenti e sostanze psicotrope. Prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza". Si trascrive il testo del relativo art. 72-quater, aggiunto dall'[art. 16, comma 1, della legge n. 162/1990](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;162~art16-com1):  
-"Art. 72-quater (Quantificazione delle sostanze). - 1.  
-Con decreto del Ministro della sanita' da emanarsi previo parere dell'Istituto superiore di sanita' sono determinati:  
-a) le procedure diagnostiche e medico-legali per accertare l'uso abituale di sostanze stupefacenti o psicotrope;  
-b) le metodiche per quantificare l'assunzione abituale nelle ventiquattro ore;  
-c) i limiti quantitativi massimi di principio attivo per le dosi medie giornaliere.  
-2. Il decreto deve essere periodicamente aggiornato in relazione all'evoluzione delle conoscenze nel settore".  
-Il [comma 2 dell'art. 16 della legge n. 162/1990](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;162~art16-com2) prevede che il decreto del Ministro della sanita' di cui all'articolo soprariportato sia emanato entro due mesi dalla data di entrata in vigore della legge stessa, avvenuta l'11 luglio 1990.  
-- Il [comma 3 dell'art. 17 della legge n. 400/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.  
-Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
-
-Art. 2
-------
-
-Assunzione nelle ventiquattro ore
-
-1. Le metodiche per quantificare l'assunzione abituale nelle 24 ore sono le seguenti:
-
-a) procedure diagnostiche e medico-legali di cui all'art. 1;
-
-b) valutazione clinico-funzionale del grado di dipendenza e/o dell'intensita' dell'abuso finalizzata a stimare in termini quantitativi la dose abitualmente assunta nelle 24 ore.  
-Le indagini sono svolte in strutture pubbliche adeguatamente  
+Le metodiche per quantificare l'assunzione abituale nelle 24 ore sono le seguenti:
+                        a)
+                            procedure diagnostiche e medico-legali di cui all'art. 1;
+                        b)
+                            valutazione clinico-funzionale del grado di dipendenza e/o dell'intensita' dell'abuso finalizzata a stimare in termini quantitativi la dose abitualmente assunta nelle 24 ore.
+ Le indagini sono svolte in strutture pubbliche adeguatamente
 attrezzate in condizioni di sicurezza clinica e con l'esclusione, ai fini della suddetta stima, del ricorso a metodiche invasive;
+                        c)
+                            specifiche procedure analitiche di laboratorio rivolte a correlare i reperti ai tempi e ai modi di assunzione, da effettuarsi con tempestivita' e tenendo comunque conto delle condizioni metaboliche del soggetto.
 
-c) specifiche procedure analitiche di laboratorio rivolte a correlare i reperti ai tempi e ai modi di assunzione, da effettuarsi con tempestivita' e tenendo comunque conto delle condizioni metaboliche del soggetto.
+2.
 
-2. La scelta della o delle metodiche di cui al comma 1 deve rispondere alla necessita' dei relativi accertamenti.
+La scelta della o delle metodiche di cui al comma 1 deve rispondere alla necessita' dei relativi accertamenti.
 
-Art. 3
-------
+## Art. 3. — Limiti quantitativi massimi di principio attivo
 
-Limiti quantitativi massimi di principio attivo
+1.
 
-1. I limiti quantitativi massimi di principio attivo per le dosi medie giornaliere sono elencati nelle tabelle, con note esplicative, allegate al presente regolamento.
+I limiti quantitativi massimi di principio attivo per le dosi medie giornaliere sono elencati nelle tabelle, con note esplicative, allegate al presente regolamento.
 
-Art. 4
-------
+## Art. 4. — Accertamenti clinici e di laboratorio
 
-Accertamenti clinici e di laboratorio
+1.
 
-1. Gli accertamenti clinici e quelli di laboratorio, se necessari, sono effettuati presso strutture pubbliche da medici e da analisti di laboratorio, ivi operanti, con esperienza nei rispettivi settori.
+Gli accertamenti clinici e quelli di laboratorio, se necessari, sono effettuati presso strutture pubbliche da medici e da analisti di laboratorio, ivi operanti, con esperienza nei rispettivi settori.
 
-Art. 5
-------
+## Art. 5. — Entrata in vigore
 
-Entrata in vigore
+1.
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
+Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 12 luglio 1990
+Roma, 12 luglio 1990
 
-Il Ministro: DE LORENZO
-
-Visto, il Guardasigilli: VASSALLI Registrato alla Corte dei conti il 14 luglio 1990
-
-Registro n. 8 Sanita', foglio n. 147
-
-Tabelle
-
-  
-  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-TABELLE DETERMINAZIONE DEI LIMITI QUANTITATIVI MASSIMI DI PRINCIPIO ATTIVO  
-PER LE DOSI MEDIE GIORNALIERE DELLE SOSTANZE STUPEFACENTI O PSICOTROPE.  
-TABELLA I  
-Acetildiidrocodeina . . . . . . . . . . 0,10 (2) Acetorfina . . . . . . . . . . . . . . 2,5 milligrammi (2) Alfacetilmetadolo . . . . . . . . . . . 0,08 (2) Alfaprodina . . . . . . . . . . . . . . 1,0 (3) Alfentanil . . . . . . . . . . . . . . 0,03 (2) Anileridina . . . . . . . . . . . . . 0,20 (2) Benzilmorfina . . . . . . . . . . . . . 0,02 (2) Benzitramide . . . . . . . . . . . . . 0,01 (2) Chetobemidone . . . . . . . . . . . . . 0,01 (2) Codeina . . . . . . . . . . . . . . . . 0,20  
-Destromoramide . . . . . . . . . . . . 0,02  
-Diacetilmorfina (Eroina) . . . . . . . 0,10 (1) Difenossilato . . . . . . . . . . . . . 0,04 (2) Difenossina . . . . . . . . . . . . . . 0,06 (2) Diidrocodeina . . . . . . . . . . . . . 0,30  
-Dipipanone . . . . . . . . . . . . . . 0,80 (3) Drotebanolo . . . . . . . . . . . . . . 0,016 (2) Etilmorfina . . . . . . . . . . . . . . 0,15 (3) Fenadoxone . . . . . . . . . . . . . . 0,05 (2) Fenazocina . . . . . . . . . . . . . . 0,012 (2) Fenoperidina . . . . . . . . . . . . . 5,0 milligrammi (2) Fentanil . . . . . . . . . . . . . . . 0,5 milligrammi (2) Folcodina . . . . . . . . . . . . . . . 0,06 (2) Idrocodone . . . . . . . . . . . . . . 0,06 (2) Idromorfone . . . . . . . . . . . . . . 0,015 (2) Idrossipetidina . . . . . . . . . . . . 0,010 (2) Levorfanolo . . . . . . . . . . . . . . 0,010 (2) Metadone . . . . . . . . . . . . . . . 0,05 (1) Morfina . . . . . . . . . . . . . . . . 0,20  
-Nicocodeina . . . . . . . . . . . . . . 0,05 (2) Nicomorfina . . . . . . . . . . . . . . 0,05 (2) Norpipanone . . . . . . . . . . . . . . 0,02 (2) Oppio . . . . . . . . . . . . . . . . . 1,0 (3) Oppio, alcaloidi totali . . . . . . . . 0,30 (3) Ossicodone . . . . . . . . . . . . . . 0,20 (3) Ossimorfone . . . . . . . . . . . . . . 0,04 (3) Papavero, paglia . . . . . . . . . . . 5,0 (3) Petidina . . . . . . . . . . . . . . . 0,20 (2) Piminodina . . . . . . . . . . . . . . 0,20 (2) Piritramide . . . . . . . . . . . . . . 0,08 (2) Propiram . . . . . . . . . . . . . . . 0,15 (2) Racemorfano . . . . . . . . . . . . . . 0,15 (3) Sufentanil . . . . . . . . . . . . . . 0,7 milligrammi (2) Tebacone . . . . . . . . . . . . . . . 5,0 milligrammi (2) Tebaina . . . . . . . . . . . . . . . . 0,05 (3) Tilidina . . . . . . . . . . . . . . . 0,40 (2) Trimeperidina . . . . . . . . . . . . . 0,20 (2) Cocaina cloridrato . . . . . . . . . . 0,15 (1) (5) Cocaina, base libera (crack) . . . . . 0,02 (1) (5) Amfetamina . . . . . . . . . . . . . . 0,05  
-Catina . . . . . . . . . . . . . . . . 0,06 (2) Dexamfetamina . . . . . . . . . . . . . 0,03 (2) Fenmetrazina . . . . . . . . . . . . . 0,08 (2) MDA . . . . . . . . . . . . . . . . . . 0,05 (1) MDMA . . . . . . . . . . . . . . . . . 0,05 (1) Metamfetamina . . . . . . . . . . . . . 0,025 (2) Metilfenidato . . . . . . . . . . . . . 0,06 (2) DET . . . . . . . . . . . . . . . . . . 0,07  
-Dietilamide dell'acido 1-metil  
-lisergico . . . . . . . . . . . . . . 0,1 milligrammi  
-DMT . . . . . . . . . . . . . . . . . . 0,06  
-Lisergide - (LSD) . . . . . . . . . . . 50 microgrammi  
-LSD - Acetil-dietilamide . . . . . . . 50 microgrammi  
-LSD - Monoetilamide . . . . . . . . . . 0,2 milligrammi  
-Mescalina . . . . . . . . . . . . . . . 0,5 (2) Psilocibina . . . . . . . . . . . . . . 0,01 (2) Psilocina . . . . . . . . . . . . . . . 0,01 (2) Delta-9-THC . . . . . . . . . . . . . . 0,05  
-Fenciclidina . . . . . . . . . . . . . 0,06 (2) TABELLA II  
-Cannabis indica, foglie e infio  
-rescenze (2% Delta-9-THC) . . . . . . 2,5 (4) Hashish (10% Delta-9-THC) . . . . . . . 0,5 (4) Altre preparazioni, il cui con  
-tenuto di Delta-9-THC non  
-superi . . . . . . . . . . . . . . . 50 milligrammi (4) TABELLA III  
-Amobarbital . . . . . . . . . . . . . . 0,6 (2) Ciclobarbital . . . . . . . . . . . . . 0,6 (2) Eptabarbital . . . . . . . . . . . . . 0,6 (2) Etclorvinolo . . . . . . . . . . . . . 1,0  
-Glutetimide . . . . . . . . . . . . . . 1,0 (2) Mecloqualone . . . . . . . . . . . . . 1,0 (2) Metaqualone . . . . . . . . . . . . . . 1,0 (2) Metilpirolone . . . . . . . . . . . . . 1,0  
-Pentobarbital . . . . . . . . . . . . . 0,6 (2) Secobarbital . . . . . . . . . . . . . 0,6 (2) TABELLA IV  
-Allobarbitale . . . . . . . . . . . . . 1,0 (2) Amfepramone . . . . . . . . . . . . . . 0,6 (2) Barbexaclone . . . . . . . . . . . . . 1,25 (2) Benzfetamina . . . . . . . . . . . . . 1,0  
-Brallobarbitale . . . . . . . . . . . . 0,5  
-Buprenorfina . . . . . . . . . . . . . 2,0 milligrammi (2) Butalbitale . . . . . . . . . . . . . . 1,25  
-Butobarbitale . . . . . . . . . . . . . 1,0  
-Butorfanolo . . . . . . . . . . . . . . 10 milligrammi  
-Destropropossifene . . . . . . . . . . 0,4 (2) Fendimetrazina . . . . . . . . . . . . 0,5  
-Fenobarbitale . . . . . . . . . . . . . 0,2 (2) Fentermina . . . . . . . . . . . . . . 0,3  
-Lefetamina . . . . . . . . . . . . . . 0,3  
-Pentazocina . . . . . . . . . . . . . . 0,15  
-Note esplicative:  
-Le quantita' sono espresse di regola in grammi.  
-In casi particolari vengono esplicitamente riportati i rispettivi sottomultipli.  
-(1) Le quantita' riportate sono individuate sulla base dei dati epidemiologici relativi all'uso abituale.  
-Per le sostanze di cui non si registrano fenomeni di abuso le quantita' indicate si riferiscono:  
-(2) alla dose giornaliera complessiva Farmacopea ufficiale;  
-(3) alla dose equipotente a quella della sostanza d'abuso di riferimento.  
-(4) Dose media giornaliera sulla base delle variazioni del contenuto medio di THC presente nei prodotti della Cannabis.  
-(5) Per la cocaina vengono specificate rispettivamente sia la dose come cocaina cloridrato sia la dose come cocaina base in quanto il potere tossicomanigeno delle due forme chimiche e' molto diverso.  
-  
-  
-  
+Il Ministro: DE LORENZO Visto, il Guardasigilli: VASSALLI Registrato alla Corte dei conti il 14 luglio 1990 Registro n. 8 Sanita', foglio n. 147

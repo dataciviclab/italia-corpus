@@ -1,115 +1,84 @@
-DECRETO-LEGGE 30 giugno 2008 n. 113
+---
+tipo: DECRETO-LEGGE
+numero: 113
+data: 2008-06-30
+titolo: "Proroga di termini previsti da disposizioni legislative."
+urn: urn:nir:stato:decreto.legge:2008-06-30;113
+codice_redazionale: 008G0136
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 30 giugno 2008 n. 113
-===================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 2 AGOSTO 2008, N. 129](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20giugno%202008%20n.%2097%20recante%20disposizioni%20urgenti%20in%20materia%20di%20monitoraggio%20e%20trasparenza%20dei%20meccanismi%20di%20allocazione%20della%20spes_fd4b07d99aec.md)
 
-Proroga di termini previsti da disposizioni legislative.
---------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 30/6/2008.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 2 AGOSTO 2008, N. 129](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20giugno%202008%20n.%2097%20recante%20disposizioni%20urgenti%20in%20materia%20di%20monitoraggio%20e%20trasparenza%20dei%20meccanismi%20di%20allocazione%20della%20spes_fd4b07d99aec.md)
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 2 AGOSTO 2008, N. 129](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-02;129)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 2 AGOSTO 2008, N. 129](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20giugno%202008%20n.%2097%20recante%20disposizioni%20urgenti%20in%20materia%20di%20monitoraggio%20e%20trasparenza%20dei%20meccanismi%20di%20allocazione%20della%20spes_fd4b07d99aec.md)
 
-Art. 2
-------
+## Art. 4.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 2 AGOSTO 2008, N. 129](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-02;129)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 2 AGOSTO 2008, N. 129](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20giugno%202008%20n.%2097%20recante%20disposizioni%20urgenti%20in%20materia%20di%20monitoraggio%20e%20trasparenza%20dei%20meccanismi%20di%20allocazione%20della%20spes_fd4b07d99aec.md)
 
-Art. 3
-------
+## Art. 5.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 2 AGOSTO 2008, N. 129](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-02;129)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 2 AGOSTO 2008, N. 129](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20giugno%202008%20n.%2097%20recante%20disposizioni%20urgenti%20in%20materia%20di%20monitoraggio%20e%20trasparenza%20dei%20meccanismi%20di%20allocazione%20della%20spes_fd4b07d99aec.md)
 
-Art. 4
-------
+## Art. 6.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 2 AGOSTO 2008, N. 129](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-02;129)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 2 AGOSTO 2008, N. 129](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20giugno%202008%20n.%2097%20recante%20disposizioni%20urgenti%20in%20materia%20di%20monitoraggio%20e%20trasparenza%20dei%20meccanismi%20di%20allocazione%20della%20spes_fd4b07d99aec.md)
 
-Art. 5
-------
+## Art. 7.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 2 AGOSTO 2008, N. 129](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-02;129)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 2 AGOSTO 2008, N. 129](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20giugno%202008%20n.%2097%20recante%20disposizioni%20urgenti%20in%20materia%20di%20monitoraggio%20e%20trasparenza%20dei%20meccanismi%20di%20allocazione%20della%20spes_fd4b07d99aec.md)
 
-Art. 6
-------
+## Art. 8.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 2 AGOSTO 2008, N. 129](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-02;129)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 2 AGOSTO 2008, N. 129](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20giugno%202008%20n.%2097%20recante%20disposizioni%20urgenti%20in%20materia%20di%20monitoraggio%20e%20trasparenza%20dei%20meccanismi%20di%20allocazione%20della%20spes_fd4b07d99aec.md)
 
-Art. 7
-------
+## Art. 9.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 2 AGOSTO 2008, N. 129](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-02;129)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 2 AGOSTO 2008, N. 129](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20giugno%202008%20n.%2097%20recante%20disposizioni%20urgenti%20in%20materia%20di%20monitoraggio%20e%20trasparenza%20dei%20meccanismi%20di%20allocazione%20della%20spes_fd4b07d99aec.md)
 
-Art. 8
-------
+## Art. 10.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 2 AGOSTO 2008, N. 129](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-02;129)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 2 AGOSTO 2008, N. 129](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20giugno%202008%20n.%2097%20recante%20disposizioni%20urgenti%20in%20materia%20di%20monitoraggio%20e%20trasparenza%20dei%20meccanismi%20di%20allocazione%20della%20spes_fd4b07d99aec.md)
 
-Art. 9
-------
+## Art. 11.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 2 AGOSTO 2008, N. 129](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-02;129)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 2 AGOSTO 2008, N. 129](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20giugno%202008%20n.%2097%20recante%20disposizioni%20urgenti%20in%20materia%20di%20monitoraggio%20e%20trasparenza%20dei%20meccanismi%20di%20allocazione%20della%20spes_fd4b07d99aec.md)
 
-Art. 10
--------
+## Art. 12.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 2 AGOSTO 2008, N. 129](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-02;129)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 2 AGOSTO 2008, N. 129](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20giugno%202008%20n.%2097%20recante%20disposizioni%20urgenti%20in%20materia%20di%20monitoraggio%20e%20trasparenza%20dei%20meccanismi%20di%20allocazione%20della%20spes_fd4b07d99aec.md)
 
-Art. 11
--------
+## Art. 13.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 2 AGOSTO 2008, N. 129](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-02;129)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 2 AGOSTO 2008, N. 129](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20giugno%202008%20n.%2097%20recante%20disposizioni%20urgenti%20in%20materia%20di%20monitoraggio%20e%20trasparenza%20dei%20meccanismi%20di%20allocazione%20della%20spes_fd4b07d99aec.md)
 
-Art. 12
--------
+## Art. 14.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 2 AGOSTO 2008, N. 129](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-02;129)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 2 AGOSTO 2008, N. 129](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20giugno%202008%20n.%2097%20recante%20disposizioni%20urgenti%20in%20materia%20di%20monitoraggio%20e%20trasparenza%20dei%20meccanismi%20di%20allocazione%20della%20spes_fd4b07d99aec.md)
 
-Art. 13
--------
+## Art. 15.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 2 AGOSTO 2008, N. 129](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-02;129)
-  
-
-Art. 14
--------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 2 AGOSTO 2008, N. 129](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-02;129)
-  
-
-Art. 15
--------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 2 AGOSTO 2008, N. 129](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-02;129)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 2 AGOSTO 2008, N. 129](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20giugno%202008%20n.%2097%20recante%20disposizioni%20urgenti%20in%20materia%20di%20monitoraggio%20e%20trasparenza%20dei%20meccanismi%20di%20allocazione%20della%20spes_fd4b07d99aec.md)

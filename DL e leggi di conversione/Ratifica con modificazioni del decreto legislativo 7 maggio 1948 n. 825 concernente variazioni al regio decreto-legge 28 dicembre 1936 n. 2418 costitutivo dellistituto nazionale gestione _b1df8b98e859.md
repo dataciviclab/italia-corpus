@@ -1,13 +1,13 @@
-LEGGE 03 marzo 1951 n. 189
+---
+tipo: LEGGE
+numero: 189
+data: 1951-03-03
+titolo: "Ratifica, con modificazioni, del decreto legislativo 7 maggio 1948, n. 825, concernente variazioni al regio decreto-legge 28 dicembre 1936, n. 2418, costitutivo dell'istituto nazionale gestione imposte di consumo."
+urn: urn:nir:stato:legge:1951-03-03;189
+codice_redazionale: 051U0189
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 03 marzo 1951 n. 189
-==========================
-
-Ratifica, con modificazioni, del decreto legislativo 7 maggio 1948, n. 825, concernente variazioni al regio decreto-legge 28 dicembre 1936, n. 2418, costitutivo dell'istituto nazionale gestione imposte di consumo.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO, CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))  
+((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO, CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20economico%20la%20semplificazione%20la%20competitivita%20la%20stabilizzazion_29f97015e2f4.md)))

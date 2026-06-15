@@ -1,34 +1,25 @@
-DECRETO-LEGGE 19 settembre 1994 n. 540
+---
+tipo: DECRETO-LEGGE
+numero: 540
+data: 1994-09-19
+titolo: "Disposizioni in materia di versamento della quota fissa individuale annua per l'assistenza medica di base e di tariffe per prestazioni sanitarie."
+urn: urn:nir:stato:decreto.legge:1994-09-19;540
+codice_redazionale: 094G0582
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 19 settembre 1994 n. 540
-======================================
+DECRETO DECADUTO
 
-Disposizioni in materia di versamento della quota fissa individuale annua per l'assistenza medica di base e di tariffe per prestazioni sanitarie.
--------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 19-9-1994.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO   
-
-Art. 3
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 4
-------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

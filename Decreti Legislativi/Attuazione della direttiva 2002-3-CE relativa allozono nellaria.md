@@ -1,108 +1,49 @@
-DECRETO LEGISLATIVO 21 maggio 2004 n. 183
+---
+tipo: DECRETO LEGISLATIVO
+numero: 183
+data: 2004-05-21
+titolo: "Attuazione della direttiva 2002/3/CE relativa all'ozono nell'aria."
+urn: urn:nir:stato:decreto.legislativo:2004-05-21;183
+codice_redazionale: 004G0209
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 21 maggio 2004 n. 183
-=========================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
 
-Attuazione della direttiva 2002/3/CE relativa all'ozono nell'aria.
-------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 7/8/2004
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 AGOSTO 2010, N. 155](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;155)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 AGOSTO 2010, N. 155](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;155)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 AGOSTO 2010, N. 155](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;155)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 AGOSTO 2010, N. 155](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;155)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 AGOSTO 2010, N. 155](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;155)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 AGOSTO 2010, N. 155](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;155)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 AGOSTO 2010, N. 155](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;155)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))
 
-Art. 8
-------
+## Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 AGOSTO 2010, N. 155](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;155)))
-
-Art. 9
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 AGOSTO 2010, N. 155](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;155)))
-
-Art. 10
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 AGOSTO 2010, N. 155](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;155)))
-
-Allegato I
-
- Allegato I   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 AGOSTO 2010, N. 155](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;155)))
-
-Allegato II
-
- Allegato II   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 AGOSTO 2010, N. 155](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;155)))
-
-Allegato III
-
- Allegato III   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 AGOSTO 2010, N. 155](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;155)))
-
-Allegato IV
-
- Allegato IV   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 AGOSTO 2010, N. 155](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;155)))
-
-Allegato V
-
- Allegato V   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 AGOSTO 2010, N. 155](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;155)))
-
-Allegato VI
-
- Allegato VI   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 AGOSTO 2010, N. 155](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;155)))
-
-Allegato VII
-
- Allegato VII   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 AGOSTO 2010, N. 155](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;155)))
-
-Allegato VIII
-
- Allegato VIII   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 AGOSTO 2010, N. 155](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;155)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 155))

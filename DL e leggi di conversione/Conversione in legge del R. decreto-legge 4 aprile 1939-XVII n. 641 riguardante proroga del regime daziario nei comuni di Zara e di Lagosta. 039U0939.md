@@ -1,16 +1,14 @@
-LEGGE 23 giugno 1939 n. 939
+---
+tipo: LEGGE
+numero: 939
+data: 1939-06-23
+titolo: "Conversione in legge del R. decreto-legge 4 aprile 1939-XVII, n. 641, riguardante proroga del regime daziario nei comuni di Zara e di Lagosta. (039U0939)"
+urn: urn:nir:stato:legge:1939-06-23;939
+codice_redazionale: 039U0939
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 23 giugno 1939 n. 939
-===========================
-
-Conversione in legge del R. decreto-legge 4 aprile 1939-XVII, n. 641, riguardante proroga del regime daziario nei comuni di Zara e di Lagosta. (039U0939)
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/07/1939
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

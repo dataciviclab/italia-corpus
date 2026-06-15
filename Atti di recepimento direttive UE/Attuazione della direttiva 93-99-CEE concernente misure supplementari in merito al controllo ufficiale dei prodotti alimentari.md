@@ -1,50 +1,41 @@
-DECRETO LEGISLATIVO 26 maggio 1997 n. 156
+---
+tipo: DECRETO LEGISLATIVO
+numero: 156
+data: 1997-05-26
+titolo: "Attuazione della direttiva 93/99/CEE concernente misure supplementari in merito al controllo ufficiale dei prodotti alimentari."
+urn: urn:nir:stato:decreto.legislativo:1997-05-26;156
+codice_redazionale: 097G0190
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 26 maggio 1997 n. 156
-=========================================
+((IL D.LGS. 2 FEBBRAIO 2021, N. 27 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Attuazione della direttiva 93/99/CEE concernente misure supplementari in merito al controllo ufficiale dei prodotti alimentari.
--------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 27-06-1997
+((IL D.LGS. 2 FEBBRAIO 2021, N. 27 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 1
-------
+## Art. 3.
 
-((IL [D.LGS. 2 FEBBRAIO 2021, N. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;27) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D.LGS. 2 FEBBRAIO 2021, N. 27 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 2
-------
+## Art. 4.
 
-((IL [D.LGS. 2 FEBBRAIO 2021, N. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;27) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D.LGS. 2 FEBBRAIO 2021, N. 27 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 3
-------
+## Art. 5.
 
-((IL [D.LGS. 2 FEBBRAIO 2021, N. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;27) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D.LGS. 2 FEBBRAIO 2021, N. 27 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 4
-------
+## Art. 6.
 
-((IL [D.LGS. 2 FEBBRAIO 2021, N. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;27) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D.LGS. 2 FEBBRAIO 2021, N. 27 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 5
-------
+## Art. 7.
 
-((IL [D.LGS. 2 FEBBRAIO 2021, N. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;27) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D.LGS. 2 FEBBRAIO 2021, N. 27 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 6
-------
+## Art. 8.
 
-((IL [D.LGS. 2 FEBBRAIO 2021, N. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;27) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
-
-Art. 7
-------
-
-((IL [D.LGS. 2 FEBBRAIO 2021, N. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;27) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
-
-Art. 8
-------
-
-((IL [D.LGS. 2 FEBBRAIO 2021, N. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;27) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D.LGS. 2 FEBBRAIO 2021, N. 27 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))

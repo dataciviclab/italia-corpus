@@ -1,30 +1,25 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 luglio 1995 n. 377
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 377
+data: 1995-07-27
+titolo: "Regolamento recante norme sulle procedure di avanzamento nella carriera diplomatica."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1995-07-27;377
+codice_redazionale: 095G0416
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 luglio 1995 n. 377
-=============================================================
+(( PROVVEDIMENTO ABROGATO DAL D. LGS. 24 MARZO 2000, N. 85 ))
 
-Regolamento recante norme sulle procedure di avanzamento nella carriera diplomatica.
-------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 28-9-1995
+(( PROVVEDIMENTO ABROGATO DAL D. LGS. 24 MARZO 2000, N. 85 ))
 
-Art. 1
-------
+## Art. 3.
 
-(( PROVVEDIMENTO ABROGATO DAL [D. LGS. 24 MARZO 2000, N. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-03-24;85) ))
+(( PROVVEDIMENTO ABROGATO DAL D. LGS. 24 MARZO 2000, N. 85 ))
 
-Art. 2
-------
+## Art. 4.
 
-(( PROVVEDIMENTO ABROGATO DAL [D. LGS. 24 MARZO 2000, N. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-03-24;85) ))
-
-Art. 3
-------
-
-(( PROVVEDIMENTO ABROGATO DAL [D. LGS. 24 MARZO 2000, N. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-03-24;85) ))
-
-Art. 4
-------
-
-(( PROVVEDIMENTO ABROGATO DAL [D. LGS. 24 MARZO 2000, N. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-03-24;85) ))
+(( PROVVEDIMENTO ABROGATO DAL D. LGS. 24 MARZO 2000, N. 85 ))

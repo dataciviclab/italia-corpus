@@ -1,122 +1,73 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1982 n. 489
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 489
+data: 1982-05-18
+titolo: "Attuazione delle direttive (CEE) n. 75/726 e n. 79/168 relative ai succhi di frutta e prodotti simili."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-05-18;489
+codice_redazionale: 082U0489
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1982 n. 489
-=============================================================
+((PROVVEDIMENTO ABROGATO DAL [D. LGS. 21 MAGGIO 2004, N. 151](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-112-CE%20concernente%20i%20succhi%20di%20frutta%20ed%20altri%20prodotti%20analoghi%20destinati%20allalimentazione%20umana.md))).
 
-Attuazione delle direttive (CEE) n. 75/726 e n. 79/168 relative ai succhi di frutta e prodotti simili.
-------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 21 MAGGIO 2004, N. 151)).
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 21 MAGGIO 2004, N. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-05-21;151))).  
+## Art. 3.
 
-Art. 2
-------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 21 MAGGIO 2004, N. 151)).
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 21 MAGGIO 2004, N. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-05-21;151)))
+## Art. 4.
 
-.   
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 21 MAGGIO 2004, N. 151)).
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 21 MAGGIO 2004, N. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-05-21;151)))
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 21 MAGGIO 2004, N. 151)).
 
-.  
+## Art. 6.
 
-Art. 4
-------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 21 MAGGIO 2004, N. 151)).
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 21 MAGGIO 2004, N. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-05-21;151)))
+## Art. 7.
 
-.  
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 21 MAGGIO 2004, N. 151)).
 
-Art. 5
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 21 MAGGIO 2004, N. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-05-21;151)))
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 21 MAGGIO 2004, N. 151)).
 
-.  
+## Art. 9.
 
-Art. 6
-------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 21 MAGGIO 2004, N. 151)).
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 21 MAGGIO 2004, N. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-05-21;151)))
+## Art. 10.
 
-.  
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 21 MAGGIO 2004, N. 151)).
 
-Art. 7
-------
+## Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 21 MAGGIO 2004, N. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-05-21;151)))
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 21 MAGGIO 2004, N. 151)).
 
-.  
+## Art. 12.
 
-Art. 8
-------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 21 MAGGIO 2004, N. 151)).
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 21 MAGGIO 2004, N. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-05-21;151)))
+## Art. 13.
 
-.  
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 21 MAGGIO 2004, N. 151)).
 
-Art. 9
-------
+## Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 21 MAGGIO 2004, N. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-05-21;151)))
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 21 MAGGIO 2004, N. 151)).
 
-.  
+## Art. 15.
 
-Art. 10
--------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 21 MAGGIO 2004, N. 151)).
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 21 MAGGIO 2004, N. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-05-21;151)))
+## Art. 16.
 
-.  
-
-Art. 11
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 21 MAGGIO 2004, N. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-05-21;151)))
-
-.  
-
-Art. 12
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 21 MAGGIO 2004, N. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-05-21;151)))
-
-.  
-
-Art. 13
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 21 MAGGIO 2004, N. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-05-21;151)))
-
-.  
-
-Art. 14
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 21 MAGGIO 2004, N. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-05-21;151)))
-
-.  
-
-Art. 15
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 21 MAGGIO 2004, N. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-05-21;151)))
-
-.  
-
-Art. 16
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 21 MAGGIO 2004, N. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-05-21;151)))
-
-.  
-
-Allegato
-
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 21 MAGGIO 2004, N. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-05-21;151))).   
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 21 MAGGIO 2004, N. 151)).

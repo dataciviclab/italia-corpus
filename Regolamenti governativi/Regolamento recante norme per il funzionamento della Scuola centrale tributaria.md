@@ -1,45 +1,36 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1996 n. 526
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 526
+data: 1996-07-31
+titolo: "Regolamento recante norme per il funzionamento della Scuola centrale tributaria."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1996-07-31;526
+codice_redazionale: 096G0543
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1996 n. 526
-=============================================================
-
-Regolamento recante norme per il funzionamento della Scuola centrale tributaria.
---------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 26-10-1996
-
-Art. 1
-------
+## Art. 1.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 28 SETTEMBRE 2000, N. 301))
 
-Art. 2
-------
+## Art. 2.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 28 SETTEMBRE 2000, N. 301))
 
-Art. 3
-------
+## Art. 3.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 28 SETTEMBRE 2000, N. 301))
 
-Art. 4
-------
+## Art. 4.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 28 SETTEMBRE 2000, N. 301))
 
-Art. 5
-------
+## Art. 5.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 28 SETTEMBRE 2000, N. 301))
 
-Art. 6
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL DECRETO 28 SETTEMBRE 2000, N. 301))
-
-((1))
+((PROVVEDIMENTO ABROGATO DAL DECRETO 28 SETTEMBRE 2000, N. 301)) ((1))
 
 -------------
 
@@ -47,72 +38,58 @@ AGGIORNAMENTO (1)
 
 Il Decreto 28 settembre 2000, n. 301 ha disposto (con l'art. 9, comma 1) che resta ferma l'organizzazione interna della Scuola fino all'adozione dei relativi provvedimenti di cui al presente articolo 6 del suddetto decreto.
 
-Art. 7
-------
+## Art. 7.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 28 SETTEMBRE 2000, N. 301))
 
-Art. 8
-------
+## Art. 8.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 28 SETTEMBRE 2000, N. 301))
 
-Art. 9
-------
+## Art. 9.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 28 SETTEMBRE 2000, N. 301))
 
-Art. 10
--------
+## Art. 10.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 28 SETTEMBRE 2000, N. 301))
 
-Art. 11
--------
+## Art. 11.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 28 SETTEMBRE 2000, N. 301))
 
-Art. 12
--------
+## Art. 12.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 28 SETTEMBRE 2000, N. 301))
 
-Art. 13
--------
+## Art. 13.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 28 SETTEMBRE 2000, N. 301))
 
-Art. 14
--------
+## Art. 14.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 28 SETTEMBRE 2000, N. 301))
 
-Art. 15
--------
+## Art. 15.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 28 SETTEMBRE 2000, N. 301))
 
-Art. 16
--------
+## Art. 16.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 28 SETTEMBRE 2000, N. 301))
 
-Art. 17
--------
+## Art. 17.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 28 SETTEMBRE 2000, N. 301))
 
-Art. 18
--------
+## Art. 18.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 28 SETTEMBRE 2000, N. 301))
 
-Art. 19
--------
+## Art. 19.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 28 SETTEMBRE 2000, N. 301))
 
-Art. 20
--------
+## Art. 20.
 
 ((PROVVEDIMENTO ABROGATO DAL DECRETO 28 SETTEMBRE 2000, N. 301))

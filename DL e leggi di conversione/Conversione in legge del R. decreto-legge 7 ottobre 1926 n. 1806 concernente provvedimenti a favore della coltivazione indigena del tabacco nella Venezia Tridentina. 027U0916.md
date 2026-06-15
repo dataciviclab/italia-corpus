@@ -1,16 +1,14 @@
-LEGGE 09 giugno 1927 n. 916
+---
+tipo: LEGGE
+numero: 916
+data: 1927-06-09
+titolo: "Conversione in legge del R. decreto-legge 7 ottobre 1926, n. 1806, concernente provvedimenti a favore della coltivazione indigena del tabacco nella Venezia Tridentina. (027U0916)"
+urn: urn:nir:stato:legge:1927-06-09;916
+codice_redazionale: 027U0916
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 09 giugno 1927 n. 916
-===========================
-
-Conversione in legge del R. decreto-legge 7 ottobre 1926, n. 1806, concernente provvedimenti a favore della coltivazione indigena del tabacco nella Venezia Tridentina. (027U0916)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/06/1927
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

@@ -1,20 +1,19 @@
-DECRETO LEGISLATIVO LUOGOTENENZIALE 24 aprile 1946 n. 469
+---
+tipo: DECRETO LEGISLATIVO LUOGOTENENZIALE
+numero: 469
+data: 1946-04-24
+titolo: "Esenzione dal pagamento dei diritti doganali per le merci offerte in dono all'Associazione italiana della Croce Rossa e da questa importate per essere gratuitamente distribuite nel Regno."
+urn: urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-24;469
+codice_redazionale: 046U0469
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO LUOGOTENENZIALE 24 aprile 1946 n. 469
-=========================================================
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200, 
+ CONVERTITO CON MODIFICAZIONI, DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Esenzione dal pagamento dei diritti doganali per le merci offerte in dono all'Associazione italiana della Croce Rossa e da questa importate per essere gratuitamente distribuite nel Regno.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),   
-CONVERTITO CON MODIFICAZIONI, DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),   
-CONVERTITO CON MODIFICAZIONI, DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200, 
+ CONVERTITO CON MODIFICAZIONI, DALLA L. 18 FEBBRAIO 2009, N. 9))

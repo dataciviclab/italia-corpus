@@ -1,36 +1,29 @@
-DECRETO-LEGGE 30 agosto 1996 n. 456
+---
+tipo: DECRETO-LEGGE
+numero: 456
+data: 1996-08-30
+titolo: "Istituzione dell'Ente tabacchi italiani."
+urn: urn:nir:stato:decreto.legge:1996-08-30;456
+codice_redazionale: 096G0478
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 30 agosto 1996 n. 456
-===================================
+DECRETO DECADUTO
 
-Istituzione dell'Ente tabacchi italiani.
-----------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 3/9/1996.  
-Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 3
-------
+## Art. 5.
 
- DECRETO DECADUTO  
-
-Art. 4
-------
-
- DECRETO DECADUTO  
-
-Art. 5
-------
-
- DECRETO DECADUTO  
+DECRETO DECADUTO

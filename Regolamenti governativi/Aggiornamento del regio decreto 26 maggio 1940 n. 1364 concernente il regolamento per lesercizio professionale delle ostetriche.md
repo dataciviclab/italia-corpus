@@ -1,63 +1,53 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 marzo 1975 n. 163
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 163
+data: 1975-03-07
+titolo: "Aggiornamento del regio decreto 26 maggio 1940, n. 1364, concernente il regolamento per l'esercizio professionale delle ostetriche."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1975-03-07;163
+codice_redazionale: 075U0163
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 marzo 1975 n. 163
-============================================================
+((PROVVEDIMENTO ABROGATO DALLA L. 26 FEBBRAIO 1999, N. 42))
 
-Aggiornamento del regio decreto 26 maggio 1940, n. 1364, concernente il regolamento per l'esercizio professionale delle ostetriche.
------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 26 FEBBRAIO 1999, N. 42))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 FEBBRAIO 1999, N. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-02-26;42)))
+## Art. 3.
 
-Art. 2
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 26 FEBBRAIO 1999, N. 42))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 FEBBRAIO 1999, N. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-02-26;42)))
+## Art. 4.
 
-Art. 3
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 26 FEBBRAIO 1999, N. 42))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 FEBBRAIO 1999, N. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-02-26;42)))
+## Art. 5.
 
-Art. 4
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 26 FEBBRAIO 1999, N. 42))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 FEBBRAIO 1999, N. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-02-26;42)))
+## Art. 6.
 
-Art. 5
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 26 FEBBRAIO 1999, N. 42))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 FEBBRAIO 1999, N. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-02-26;42)))
+## Art. 7.
 
-Art. 6
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 26 FEBBRAIO 1999, N. 42))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 FEBBRAIO 1999, N. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-02-26;42)))
+## Art. 8.
 
-Art. 7
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 26 FEBBRAIO 1999, N. 42))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 FEBBRAIO 1999, N. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-02-26;42)))
+## Art. 9.
 
-Art. 8
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 26 FEBBRAIO 1999, N. 42))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 FEBBRAIO 1999, N. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-02-26;42)))
+## Art. 10.
 
-Art. 9
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 26 FEBBRAIO 1999, N. 42))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 FEBBRAIO 1999, N. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-02-26;42)))
+## Art. 11.
 
-Art. 10
--------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 FEBBRAIO 1999, N. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-02-26;42)))
-
-Art. 11
--------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 FEBBRAIO 1999, N. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-02-26;42)))
+((PROVVEDIMENTO ABROGATO DALLA L. 26 FEBBRAIO 1999, N. 42))

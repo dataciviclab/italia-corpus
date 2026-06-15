@@ -1,98 +1,81 @@
-DECRETO LEGISLATIVO 25 febbraio 2000 n. 65
+---
+tipo: DECRETO LEGISLATIVO
+numero: 65
+data: 2000-02-25
+titolo: "Attuazione delle direttive 97/52/CE e 98/4/CE, che modificano ed integrano, rispettivamente, le direttive 92/50/CEE, in materia di appalti pubblici di servizi, e 93/38/CEE, limitatamente ai concorsi di progettazione."
+urn: urn:nir:stato:decreto.legislativo:2000-02-25;65
+codice_redazionale: 000G0105
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 25 febbraio 2000 n. 65
-==========================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-Attuazione delle direttive 97/52/CE e 98/4/CE, che modificano ed integrano, rispettivamente, le direttive 92/50/CEE, in materia di appalti pubblici di servizi, e 93/38/CEE, limitatamente ai concorsi di progettazione.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+## Art. 3.
 
-Art. 2
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+## Art. 4.
 
-Art. 3
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+## Art. 5.
 
-Art. 4
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+## Art. 6.
 
-Art. 5
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+## Art. 7.
 
-Art. 6
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+## Art. 8.
 
-Art. 7
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+## Art. 9.
 
-Art. 8
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+## Art. 10.
 
-Art. 9
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+## Art. 11.
 
-Art. 10
--------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+## Art. 12.
 
-Art. 11
--------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+## Art. 13.
 
-Art. 12
--------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+## Art. 14.
 
-Art. 13
--------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+## Art. 15.
 
-Art. 14
--------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+## Art. 16.
 
-Art. 15
--------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+## Art. 17.
 
-Art. 16
--------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+## Art. 18.
 
-Art. 17
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
-
-Art. 18
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))

@@ -1,16 +1,14 @@
-LEGGE 03 gennaio 1939 n. 58
+---
+tipo: LEGGE
+numero: 58
+data: 1939-01-03
+titolo: "Conversione in legge del R. decreto-legge 29 luglio 1938-XVI, n. 1121, riguardante l'unificazione del regime tributario per l'automobilismo industriale. (039U0058)"
+urn: urn:nir:stato:legge:1939-01-03;58
+codice_redazionale: 039U0058
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 03 gennaio 1939 n. 58
-===========================
-
-Conversione in legge del R. decreto-legge 29 luglio 1938-XVI, n. 1121, riguardante l'unificazione del regime tributario per l'automobilismo industriale. (039U0058)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/02/1939
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))

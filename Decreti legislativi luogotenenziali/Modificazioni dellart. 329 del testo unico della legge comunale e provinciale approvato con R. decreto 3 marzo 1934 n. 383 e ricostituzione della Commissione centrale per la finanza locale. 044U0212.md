@@ -1,23 +1,21 @@
-DECRETO LEGISLATIVO LUOGOTENENZIALE 24 agosto 1944 n. 212
+---
+tipo: DECRETO LEGISLATIVO LUOGOTENENZIALE
+numero: 212
+data: 1944-08-24
+titolo: "Modificazioni dell'art. 329 del testo unico della legge comunale e provinciale approvato con R. decreto 3 marzo 1934, n. 383, e ricostituzione della Commissione centrale per la finanza locale. (044U0212)"
+urn: urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-24;212
+codice_redazionale: 044U0212
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO LUOGOTENENZIALE 24 agosto 1944 n. 212
-=========================================================
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-Modificazioni dell'art. 329 del testo unico della legge comunale e provinciale approvato con R. decreto 3 marzo 1934, n. 383, e ricostituzione della Commissione centrale per la finanza locale. (044U0212)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+## Art. 3.
 
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

@@ -1,87 +1,88 @@
-DECRETO 19 febbraio 1991 n. 64
-
-
-DECRETO 19 febbraio 1991 n. 64
-==============================
-
-Regolamento recante disposizioni di adattamento alla realta' nazionale del regime di aiuto per l'estensivizzazione della produzione di cui al regolamento CEE del Consiglio delle Comunita' europee n. 797/85.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 17-3-1991
+---
+tipo: DECRETO
+numero: 64
+data: 1991-02-19
+titolo: "Regolamento recante disposizioni di adattamento alla realta' nazionale del regime di aiuto per l'estensivizzazione della produzione di cui al regolamento CEE del Consiglio delle Comunita' europee n. 797/85."
+urn: urn:nir:ministero.agricoltura.e.foreste:decreto:1991-02-19;64
+codice_redazionale: 091G0087
+vigente: true
+---
 
 IL MINISTRO
------------
 
 DELL'AGRICOLTURA E DELLE FORESTE
 
-Visto il [regolamento CEE del Consiglio n. 797/85 del 12 marzo 1985](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31985R0797) concernente il miglioramento dell'efficienza delle strutture agricole;
+Visto il regolamento CEE del Consiglio n. 797/85 del 12 marzo 1985 concernente il miglioramento dell'efficienza delle strutture agricole;
 
-Visto il [regolamento CEE del Consiglio n. 1094/88 del 25 aprile 1988](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31988R1094) che modifica i [regolamenti CEE n. 797/85](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31985R0797) e CEE n. 1760/87 per quanto riguarda l'estensivizzazione della produzione;
+Visto il regolamento CEE del Consiglio n. 1094/88 del 25 aprile 1988 che modifica i regolamenti CEE n. 797/85 e CEE n. 1760/87 per quanto riguarda l'estensivizzazione della produzione;
 
-Visto il [regolamento CEE della Commissione n. 4115/88 del 21 dicembre 1988](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31988R4115), che stabilisce le condizioni di applicazione del regime di aiuto all'estensivizzazione della produzione;
+Visto il regolamento CEE della Commissione n. 4115/88 del 21 dicembre 1988, che stabilisce le condizioni di applicazione del regime di aiuto all'estensivizzazione della produzione;
 
-Visto il [regolamento CEE del Consiglio n. 591/89 del 6 marzo 1989](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31989R0591) che modifica il [regolamento n. 1094/88](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1988;1094) per quanto riguarda l'estensivizzazione della produzione;
+Visto il regolamento CEE del Consiglio n. 591/89 del 6 marzo 1989 che modifica il [regolamento n. 1094/88](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1988;1094) per quanto riguarda l'estensivizzazione della produzione;
 
-Visto il [regolamento CEE della Commissione n. 1273/88 del 29 aprile 1988](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31988R1273), che stabilisce i criteri applicabili per la delimitazione delle regioni o zone che possono essere esentate dai regimi di messa a riposo di seminativi, di estensivizzazione e di riconversione della produzione;
+Visto il regolamento CEE della Commissione n. 1273/88 del 29 aprile 1988, che stabilisce i criteri applicabili per la delimitazione delle regioni o zone che possono essere esentate dai regimi di messa a riposo di seminativi, di estensivizzazione e di riconversione della produzione;
 
-Visti i decreti ministeriali 12 e 26 settembre 1985 e 26 marzo 1986 recanti disposizioni di attuazione del [regolamento CEE n. 797/85](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31985R0797);
+Visti i decreti ministeriali 12 e 26 settembre 1985 e 26 marzo 1986 recanti disposizioni di attuazione del regolamento CEE n. 797/85;
 
-Visto l'[art. 6 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-07-24;616~art6), che trasferisce alle regioni le funzioni amministrative relative all'applicazione dei regolamenti delle Comunita' europee, nelle materie di loro competenza;
+Visto l'[art. 6 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), che trasferisce alle regioni le funzioni amministrative relative all'applicazione dei regolamenti delle Comunita' europee, nelle materie di loro competenza;
 
-Visto il [decreto-legge 27 ottobre 1986, n. 701](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-10-27;701), convertito, con modificazioni, nella [legge 23 dicembre 1986, n. 898](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-23;898), con cui sono state stabilite sanzioni amministrative e penali in materia di aiuti comunitari al settore agricolo;
+Visto il [decreto-legge 27 ottobre 1986, n. 701](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-10-27;701), convertito, con modificazioni, nella [legge 23 dicembre 1986, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20ottobre%201986%20n.%20701%20recante%20misure%20urgenti%20in%20materia%20di%20controlli%20degli%20aiuti%20comunitari%20alla%20produzione%20dellolio%20di%20oliva.%20Sa_82d5604472c2.md), con cui sono state stabilite sanzioni amministrative e penali in materia di aiuti comunitari al settore agricolo;
 
-Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3);
+Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-Udito il parere espresso dal [Consiglio di Stato nell'adunanza generale del 7 febbraio 1991](https://e-justice.europa.eu/ecli/ECLI::::);
+Udito il parere espresso dal Consiglio di Stato nell'adunanza generale del 7 febbraio 1991;
 
 Vista la comunicazione al Presidente del Consiglio dei Ministri con nota n. 476 del 19 febbraio 1991;
 
 A D O T T A il seguente regolamento:
 
-Art. 1
-------
+## Art. 1.
 
-1. A parziale modifica del [decreto del Ministro dell'agricoltura e delle foreste n. 34 dell'8 febbraio 1990](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.agricoltura.foreste:decreto:1990-02-08;34) (Gazzetta Ufficiale 27 febbraio 1990, n. 48) per la campagna 1990-91 l'introduzione del metodo delle tecniche di produzione, nel settore vegetale e nel settore zootecnico, ai sensi dell'art. 4, primo comma, e' sospesa.
+1.
 
-2. E' altresi' sospesa la disposizione del quarto comma dello stesso articolo.
+A parziale modifica del [decreto del Ministro dell'agricoltura e delle foreste n. 34 dell'8 febbraio 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.agricoltura.foreste:decreto:1990-02-08;34) (Gazzetta Ufficiale 27 febbraio 1990, n. 48) per la campagna 1990-91 l'introduzione del metodo delle tecniche di produzione, nel settore vegetale e nel settore zootecnico, ai sensi dell'art. 4, primo comma, e' sospesa.
 
-AVVERTENZA:  
-Il testo delle note qui' pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.  
-Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.  
-Note alle premesse:  
-- Il [regolamento CEE n. 797/85](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31985R0797) e' stato pubblicato nella "Gazzetta Ufficiale" delle Comunita' europee n. L 93 del 30 marzo 1985.  
-- Il [regolamento CEE n. 1094/88](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31988R1094) e' stato pubblicato nella "Gazzetta Ufficiale" delle Comunita' europee n. L 106 del 27 aprile 1988.  
-- Il [regolamento CEE n. 4115/88](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31988R4115) e' stato pubblicato nella "Gazzetta Ufficiale" delle Comunita' europee n. L 121 dell'11 maggio 1988.  
-- Il [regolamento CEE n. 591/89](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31989R0591) e' stato pubblicato nella "Gazzetta Ufficiale" delle Comunita' europee n. L 65 del 9 marzo 1989.  
-- Il [regolamento CEE n. 1273/88](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31988R1273) e' stato pubblicato nella "Gazzetta Ufficiale" delle Comunita' europee n. L 121 dell'11 maggio 1988.  
-- Il D.M. 12 settembre 1985 e' stato [pubblicato nella Gazzetta Ufficiale n. 223 del 21 settembre 1985](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1985-09-21&numeroGazzetta=223).  
-- Il D.M. 26 settembre 1985 e' stato [pubblicato nella Gazzetta Ufficiale n. 231 del 1 ottobre 1985](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1985-10-01&numeroGazzetta=231).  
-- Il D.M. 26 marzo 1986 e' stato [pubblicato nella Gazzetta Ufficiale n. 80 del 7 aprile 1986](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1986-04-07&numeroGazzetta=80).  
-- Il [D.P.R. n. 616/1977](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977;616) reca attuazione della delega di cui all'[art. 1 della legge 22 luglio 1975, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-22;382~art1), in materia di trasferimento e di delega di funzioni statali alle regioni a statuto ordinario.  
-- Il [comma 3 dell'art. 17 della legge n. 400/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.  
-Essi debbono essere comunicati al presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei Conti e pubblicati nella Gazzetta Ufficiale.  
-Nota all'[art. 1:  
-- Il D.M. n. 34/1990](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1990;34~art1), pubblicato nel supplemento ordinario alla Gazzetta Ufficiale - serie generale - n. 48 del 27 febbraio 1990, approva il regolamento recante disposizioni di adattamento alla realta' nazionale del regime di aiuto per l'estensivizzazione della produzione di cui al regolamento CEE del Consiglio delle Comunita' europee n. 797/85. Si trascrive il testo dei commi 1 e 4 dell'art. 4 di detto decreto:  
-"1. La riduzione della produzione e' realizzata dal beneficiario applicando il metodo quantitativo e/o il metodo delle tecniche di produzione, previsti dall'[art. 4 del regolamento CEE n. 4115/88](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31988R4115)".  
-"4. A partire dalla compagna 1990-91 le regioni e le province autonome possono fissare, in caso di particolari situazioni debitamente comprovate, condizioni specifiche per la concessione dell'aiuto per le zone dove le produzioni o i sistemi di produzione sono gia' estensivi.  
-In tal caso comunicano tempestivamente al Ministero le decisioni adottate per la prevista autorizzazione della Commissione".
+2.
 
-Art. 2
-------
+E' altresi' sospesa la disposizione del quarto comma dello stesso articolo.
 
-1. Per la campagna 1990-91, le domande di aiuto, in duplice copia, dovranno essere entrambe indirizzate ai competenti uffici delle regioni e della provincia autonoma di Bolzano, utilizzando unicamente gli appositi moduli (modd. E ed E1), predisposti dal Ministero dell'agricoltura e delle foreste, in distribuzione presso le regioni, la provincia autonoma di Bolzano e gli enti delegati.
+AVVERTENZA:
+ Il testo delle note qui' pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Note alle premesse:
+ - Il regolamento CEE n. 797/85 e' stato pubblicato nella "Gazzetta Ufficiale" delle Comunita' europee n. L 93 del 30 marzo 1985.
+ - Il regolamento CEE n. 1094/88 e' stato pubblicato nella "Gazzetta Ufficiale" delle Comunita' europee n. L 106 del 27 aprile 1988.
+ - Il regolamento CEE n. 4115/88 e' stato pubblicato nella "Gazzetta Ufficiale" delle Comunita' europee n. L 121 dell'11 maggio 1988.
+ - Il regolamento CEE n. 591/89 e' stato pubblicato nella "Gazzetta Ufficiale" delle Comunita' europee n. L 65 del 9 marzo 1989.
+ - Il regolamento CEE n. 1273/88 e' stato pubblicato nella "Gazzetta Ufficiale" delle Comunita' europee n. L 121 dell'11 maggio 1988.
+ - Il D.M. 12 settembre 1985 e' stato pubblicato nella Gazzetta Ufficiale n. 223 del 21 settembre 1985.
+ - Il D.M. 26 settembre 1985 e' stato pubblicato nella Gazzetta Ufficiale n. 231 del 1 ottobre 1985.
+ - Il D.M. 26 marzo 1986 e' stato pubblicato nella Gazzetta Ufficiale n. 80 del 7 aprile 1986.
+ - Il [D.P.R. n. 616/1977](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977;616) reca attuazione della delega di cui all'[art. 1 della legge 22 luglio 1975, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-22;382#art_1), in materia di trasferimento e di delega di funzioni statali alle regioni a statuto ordinario.
+ - Il [comma 3 dell'art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.
+ Essi debbono essere comunicati al presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei Conti e pubblicati nella Gazzetta Ufficiale.
+ Nota all'[art. 1:
+ - Il D.M. n. 34/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1990;34#art_1), pubblicato nel supplemento ordinario alla Gazzetta Ufficiale - serie generale - n. 48 del 27 febbraio 1990, approva il regolamento recante disposizioni di adattamento alla realta' nazionale del regime di aiuto per l'estensivizzazione della produzione di cui al regolamento CEE del Consiglio delle Comunita' europee n. 797/85. Si trascrive il testo dei commi 1 e 4 dell'art. 4 di detto decreto:
+ "1. La riduzione della produzione e' realizzata dal beneficiario applicando il metodo quantitativo e/o il metodo delle tecniche di produzione, previsti dall'art. 4 del regolamento CEE n. 4115/88".
+ "4. A partire dalla compagna 1990-91 le regioni e le province autonome possono fissare, in caso di particolari situazioni debitamente comprovate, condizioni specifiche per la concessione dell'aiuto per le zone dove le produzioni o i sistemi di produzione sono gia' estensivi.
+ In tal caso comunicano tempestivamente al Ministero le decisioni adottate per la prevista autorizzazione della Commissione".
 
-2. Il termine di presentazione e' fissato perentoriamente al 31 marzo 1991. Per le successive campagne il termine e' fissato al 31 dicembre di ciascun anno, purche' il relativo provvedimento venga pubblicato nella Gazzetta Ufficiale almeno trenta giorni prima delle date predette. Altrimenti, il suddetto termine di trenta giorni decorrera' dalla data della pubblicazione del provvedimento stesso.
+## Art. 2.
 
-3. Le regioni e la provincia autonoma di Bolzano provvederanno ad inviare una delle due copie della domanda di aiuto al Ministero dell'agricoltura e delle foreste - Gabinetto del Ministro - Ufficio Agroindustria entro sessanta giorni dalla data ultima di presentazione delle domande.
+1.
+
+Per la campagna 1990-91, le domande di aiuto, in duplice copia, dovranno essere entrambe indirizzate ai competenti uffici delle regioni e della provincia autonoma di Bolzano, utilizzando unicamente gli appositi moduli (modd. E ed E1), predisposti dal Ministero dell'agricoltura e delle foreste, in distribuzione presso le regioni, la provincia autonoma di Bolzano e gli enti delegati.
+
+2.
+
+Il termine di presentazione e' fissato perentoriamente al 31 marzo 1991. Per le successive campagne il termine e' fissato al 31 dicembre di ciascun anno, purche' il relativo provvedimento venga pubblicato nella Gazzetta Ufficiale almeno trenta giorni prima delle date predette. Altrimenti, il suddetto termine di trenta giorni decorrera' dalla data della pubblicazione del provvedimento stesso.
+
+3.
+
+Le regioni e la provincia autonoma di Bolzano provvederanno ad inviare una delle due copie della domanda di aiuto al Ministero dell'agricoltura e delle foreste - Gabinetto del Ministro - Ufficio Agroindustria entro sessanta giorni dalla data ultima di presentazione delle domande.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 19 febbraio 1991
+Roma, 19 febbraio 1991
 
-Il Ministro: SACCOMANDI
-
-Visto, il Guardasigilli: MARTELLI Registrato alla Corte dei conti il 28 febbraio 1991
-
-Registro n. 5 Agricoltura, foglio n. 147
+Il Ministro: SACCOMANDI Visto, il Guardasigilli: MARTELLI Registrato alla Corte dei conti il 28 febbraio 1991 Registro n. 5 Agricoltura, foglio n. 147

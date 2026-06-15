@@ -1,51 +1,41 @@
-DECRETO-LEGGE 18 marzo 1975 n. 51
+---
+tipo: DECRETO-LEGGE
+numero: 51
+data: 1975-03-18
+titolo: "Disposizioni urgenti in materia di servizi di telecomunicazioni."
+urn: urn:nir:stato:decreto.legge:1975-03-18;51
+codice_redazionale: 075U0051
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 18 marzo 1975 n. 51
-=================================
+DECRETO DECADUTO
 
-Disposizioni urgenti in materia di servizi di telecomunicazioni.
-----------------------------------------------------------------
+## Art. 2.
 
-Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 3
-------
+## Art. 5.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 5
-------
+## Art. 7.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 6
-------
+## Art. 8.
 
- DECRETO DECADUTO  
-
-Art. 7
-------
-
- DECRETO DECADUTO  
-
-Art. 8
-------
-
- DECRETO DECADUTO  
+DECRETO DECADUTO

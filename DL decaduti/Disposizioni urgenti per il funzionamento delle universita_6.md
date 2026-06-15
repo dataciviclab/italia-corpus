@@ -1,154 +1,99 @@
-DECRETO-LEGGE 21 ottobre 1994 n. 588
+---
+tipo: DECRETO-LEGGE
+numero: 588
+data: 1994-10-21
+titolo: "Disposizioni urgenti per il funzionamento delle universita'."
+urn: urn:nir:stato:decreto.legge:1994-10-21;588
+codice_redazionale: 094G0630
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 21 ottobre 1994 n. 588
-====================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 21 GIUGNO 1995, N. 236](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20aprile%201995%20n.%20120%20recante%20disposizioni%20urgenti%20per%20il%20funzionamento%20delle%20universita.md)
 
-Disposizioni urgenti per il funzionamento delle universita'.
-------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 24-10-1994.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 21 GIUGNO 1995, N. 236](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20aprile%201995%20n.%20120%20recante%20disposizioni%20urgenti%20per%20il%20funzionamento%20delle%20universita.md)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 21 GIUGNO 1995, N. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-06-21;236)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 21 GIUGNO 1995, N. 236](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20aprile%201995%20n.%20120%20recante%20disposizioni%20urgenti%20per%20il%20funzionamento%20delle%20universita.md)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 21 GIUGNO 1995, N. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-06-21;236)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 21 GIUGNO 1995, N. 236](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20aprile%201995%20n.%20120%20recante%20disposizioni%20urgenti%20per%20il%20funzionamento%20delle%20universita.md)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 21 GIUGNO 1995, N. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-06-21;236)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 21 GIUGNO 1995, N. 236](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20aprile%201995%20n.%20120%20recante%20disposizioni%20urgenti%20per%20il%20funzionamento%20delle%20universita.md)
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 21 GIUGNO 1995, N. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-06-21;236)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 21 GIUGNO 1995, N. 236](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20aprile%201995%20n.%20120%20recante%20disposizioni%20urgenti%20per%20il%20funzionamento%20delle%20universita.md)
 
-Art. 5
-------
+## Art. 7.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 21 GIUGNO 1995, N. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-06-21;236)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 21 GIUGNO 1995, N. 236](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20aprile%201995%20n.%20120%20recante%20disposizioni%20urgenti%20per%20il%20funzionamento%20delle%20universita.md)
 
-Art. 6
-------
+## Art. 8.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 21 GIUGNO 1995, N. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-06-21;236)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 21 GIUGNO 1995, N. 236](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20aprile%201995%20n.%20120%20recante%20disposizioni%20urgenti%20per%20il%20funzionamento%20delle%20universita.md)
 
-Art. 7
-------
+## Art. 9.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 21 GIUGNO 1995, N. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-06-21;236)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 21 GIUGNO 1995, N. 236](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20aprile%201995%20n.%20120%20recante%20disposizioni%20urgenti%20per%20il%20funzionamento%20delle%20universita.md)
 
-Art. 8
-------
+## Art. 10.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 21 GIUGNO 1995, N. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-06-21;236)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 21 GIUGNO 1995, N. 236](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20aprile%201995%20n.%20120%20recante%20disposizioni%20urgenti%20per%20il%20funzionamento%20delle%20universita.md)
 
-Art. 9
-------
+## Art. 11.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 21 GIUGNO 1995, N. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-06-21;236)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 21 GIUGNO 1995, N. 236](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20aprile%201995%20n.%20120%20recante%20disposizioni%20urgenti%20per%20il%20funzionamento%20delle%20universita.md)
 
-Art. 10
--------
+## Art. 12.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 21 GIUGNO 1995, N. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-06-21;236)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 21 GIUGNO 1995, N. 236](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20aprile%201995%20n.%20120%20recante%20disposizioni%20urgenti%20per%20il%20funzionamento%20delle%20universita.md)
 
-Art. 11
--------
+## Art. 13.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 21 GIUGNO 1995, N. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-06-21;236)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 21 GIUGNO 1995, N. 236](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20aprile%201995%20n.%20120%20recante%20disposizioni%20urgenti%20per%20il%20funzionamento%20delle%20universita.md)
 
-Art. 12
--------
+## Art. 14.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 21 GIUGNO 1995, N. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-06-21;236)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 21 GIUGNO 1995, N. 236](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20aprile%201995%20n.%20120%20recante%20disposizioni%20urgenti%20per%20il%20funzionamento%20delle%20universita.md)
 
-Art. 13
--------
+## Art. 15.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 21 GIUGNO 1995, N. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-06-21;236)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 21 GIUGNO 1995, N. 236](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20aprile%201995%20n.%20120%20recante%20disposizioni%20urgenti%20per%20il%20funzionamento%20delle%20universita.md)
 
-Art. 14
--------
+## Art. 16.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 21 GIUGNO 1995, N. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-06-21;236)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 21 GIUGNO 1995, N. 236](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20aprile%201995%20n.%20120%20recante%20disposizioni%20urgenti%20per%20il%20funzionamento%20delle%20universita.md)
 
-Art. 15
--------
+## Art. 17.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 21 GIUGNO 1995, N. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-06-21;236)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 21 GIUGNO 1995, N. 236](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20aprile%201995%20n.%20120%20recante%20disposizioni%20urgenti%20per%20il%20funzionamento%20delle%20universita.md)
 
-Art. 16
--------
+## Art. 18.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 21 GIUGNO 1995, N. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-06-21;236)
-  
-
-Art. 17
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 21 GIUGNO 1995, N. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-06-21;236)
-  
-
-Art. 18
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 21 GIUGNO 1995, N. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-06-21;236)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 21 GIUGNO 1995, N. 236](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20aprile%201995%20n.%20120%20recante%20disposizioni%20urgenti%20per%20il%20funzionamento%20delle%20universita.md)

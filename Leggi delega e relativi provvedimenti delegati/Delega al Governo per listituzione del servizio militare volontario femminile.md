@@ -1,15 +1,13 @@
-LEGGE 20 ottobre 1999 n. 380
+---
+tipo: LEGGE
+numero: 380
+data: 1999-10-20
+titolo: "Delega al Governo per l'istituzione del servizio militare volontario femminile."
+urn: urn:nir:stato:legge:1999-10-20;380
+codice_redazionale: 099G0468
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 20 ottobre 1999 n. 380
-============================
-
-Delega al Governo per l'istituzione del servizio militare volontario femminile.
--------------------------------------------------------------------------------
-
-13-11-1999
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))

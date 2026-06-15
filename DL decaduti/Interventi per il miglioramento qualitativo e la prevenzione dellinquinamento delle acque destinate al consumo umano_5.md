@@ -1,40 +1,29 @@
-DECRETO-LEGGE 21 luglio 1992 n. 344
+---
+tipo: DECRETO-LEGGE
+numero: 344
+data: 1992-07-21
+titolo: "Interventi per il miglioramento qualitativo e la prevenzione dell'inquinamento delle acque destinate al consumo umano."
+urn: urn:nir:stato:decreto.legge:1992-07-21;344
+codice_redazionale: 092G0387
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 21 luglio 1992 n. 344
-===================================
+DECRETO DECADUTO
 
-Interventi per il miglioramento qualitativo e la prevenzione dell'inquinamento delle acque destinate al consumo umano.
-----------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 21-7-1992.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO   
-
-Art. 4
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 5
-------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

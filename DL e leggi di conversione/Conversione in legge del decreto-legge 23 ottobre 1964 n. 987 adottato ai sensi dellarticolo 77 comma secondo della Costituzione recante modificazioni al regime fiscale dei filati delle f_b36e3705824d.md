@@ -1,13 +1,13 @@
-LEGGE 13 dicembre 1964 n. 1349
+---
+tipo: LEGGE
+numero: 1349
+data: 1964-12-13
+titolo: "Conversione in legge del decreto-legge 23 ottobre 1964, n. 987, adottato ai sensi dell'articolo 77, comma secondo, della Costituzione, recante modificazioni al regime fiscale dei filati delle fibre tessili artificiali e sintetiche."
+urn: urn:nir:stato:legge:1964-12-13;1349
+codice_redazionale: 064U1349
+vigente: true
+---
 
+## Articolo unico.
 
-LEGGE 13 dicembre 1964 n. 1349
-==============================
-
-Conversione in legge del decreto-legge 23 ottobre 1964, n. 987, adottato ai sensi dell'articolo 77, comma secondo, della Costituzione, recante modificazioni al regime fiscale dei filati delle fibre tessili artificiali e sintetiche.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Articolo unico
---------------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO, CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133))

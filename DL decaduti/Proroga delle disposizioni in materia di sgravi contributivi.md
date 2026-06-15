@@ -1,26 +1,19 @@
-DECRETO-LEGGE 20 luglio 1993 n. 245
+---
+tipo: DECRETO-LEGGE
+numero: 245
+data: 1993-07-20
+titolo: "Proroga delle disposizioni in materia di sgravi contributivi."
+urn: urn:nir:stato:decreto.legge:1993-07-20;245
+codice_redazionale: 093G0326
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 20 luglio 1993 n. 245
-===================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 14 GENNAIO 1994, N. 21](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20novembre%201993%20n.%20465%20recante%20proroga%20delle%20disposizioni%20in%20materia%20di%20sgravi%20contributivi.md)
 
-Proroga delle disposizioni in materia di sgravi contributivi.
--------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 21/07/1993.Decreto-Legge decaduto per mancata conversione.
-
-Art. 1
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 14 GENNAIO 1994, N. 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;21)
-  
-
-Art. 2
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 14 GENNAIO 1994, N. 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;21)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 14 GENNAIO 1994, N. 21](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20novembre%201993%20n.%20465%20recante%20proroga%20delle%20disposizioni%20in%20materia%20di%20sgravi%20contributivi.md)

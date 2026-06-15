@@ -1,16 +1,14 @@
-LEGGE 30 dicembre 1938 n. 2211
+---
+tipo: LEGGE
+numero: 2211
+data: 1938-12-30
+titolo: "Conversione in legge del R. decreto-legge 17 maggio 1938-XVI, n. 701, relativo a provvedimenti per un piano di colonizzazione demografica in Libia. (038U2211)"
+urn: urn:nir:stato:legge:1938-12-30;2211
+codice_redazionale: 038U2211
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 30 dicembre 1938 n. 2211
-==============================
-
-Conversione in legge del R. decreto-legge 17 maggio 1938-XVI, n. 701, relativo a provvedimenti per un piano di colonizzazione demografica in Libia. (038U2211)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/03/1939
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

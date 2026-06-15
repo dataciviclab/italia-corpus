@@ -1,15 +1,13 @@
-LEGGE 13 luglio 1995 n. 285
+---
+tipo: LEGGE
+numero: 285
+data: 1995-07-13
+titolo: "Conversione in legge del decreto-legge 19 maggio 1995, n. 180, recante disposizioni urgenti relative allo svolgimento della missione in Somalia."
+urn: urn:nir:stato:legge:1995-07-13;285
+codice_redazionale: 095G0334
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 13 luglio 1995 n. 285
-===========================
-
-Conversione in legge del decreto-legge 19 maggio 1995, n. 180, recante disposizioni urgenti relative allo svolgimento della missione in Somalia.
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore della legge: 20-7-1995
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))

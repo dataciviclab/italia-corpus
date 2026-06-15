@@ -1,121 +1,92 @@
-DECRETO-LEGGE 17 settembre 1994 n. 538
+---
+tipo: DECRETO-LEGGE
+numero: 538
+data: 1994-09-17
+titolo: "Disposizioni fiscali urgenti in materia di accertamento, contenzioso, potenziamento degli organici, controlli e anagrafe patrimoniale dei dipendenti, al fine di contrastare l'evasione e la corruzione."
+urn: urn:nir:stato:decreto.legge:1994-09-17;538
+codice_redazionale: 094G0580
+vigente: true
+---
 
+## DISPOSIZIONI IN MATERIA DI ACCERTAMENTO E CONTENZIOSO TRIBUTARIO
 
-DECRETO-LEGGE 17 settembre 1994 n. 538
-======================================
+Capo I
 
-Disposizioni fiscali urgenti in materia di accertamento, contenzioso, potenziamento degli organici, controlli e anagrafe patrimoniale dei dipendenti, al fine di contrastare l'evasione e la corruzione.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del decreto: 18/09/1994.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 24 OTTOBRE 1996, N. 556](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20agosto%201996%20n.%20437%20recante%20disposizioni%20urgenti%20in%20materia%20di%20imposizione%20diretta%20ed%20indiretta%20di%20funzionalita%20dellAmministrazio_97bff93e21b2.md)
 
-CAPO I Capo I DISPOSIZIONI IN MATERIA DI ACCERTAMENTO E CONTENZIOSO TRIBUTARIO
-------------------------------------------------------------------------------
+### Art. 2.
 
-### Art. 1
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 24 OTTOBRE 1996, N. 556](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20agosto%201996%20n.%20437%20recante%20disposizioni%20urgenti%20in%20materia%20di%20imposizione%20diretta%20ed%20indiretta%20di%20funzionalita%20dellAmministrazio_97bff93e21b2.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 24 OTTOBRE 1996, N. 556](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-10-24;556)
-  
+### Art. 3.
 
-### Art. 2
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 24 OTTOBRE 1996, N. 556](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20agosto%201996%20n.%20437%20recante%20disposizioni%20urgenti%20in%20materia%20di%20imposizione%20diretta%20ed%20indiretta%20di%20funzionalita%20dellAmministrazio_97bff93e21b2.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 24 OTTOBRE 1996, N. 556](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-10-24;556)
-  
+### Art. 4.
 
-### Art. 3
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 24 OTTOBRE 1996, N. 556](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20agosto%201996%20n.%20437%20recante%20disposizioni%20urgenti%20in%20materia%20di%20imposizione%20diretta%20ed%20indiretta%20di%20funzionalita%20dellAmministrazio_97bff93e21b2.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 24 OTTOBRE 1996, N. 556](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-10-24;556)
-  
+### Art. 5.
 
-### Art. 4
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 24 OTTOBRE 1996, N. 556](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20agosto%201996%20n.%20437%20recante%20disposizioni%20urgenti%20in%20materia%20di%20imposizione%20diretta%20ed%20indiretta%20di%20funzionalita%20dellAmministrazio_97bff93e21b2.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 24 OTTOBRE 1996, N. 556](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-10-24;556)
-  
+### Art. 6.
 
-### Art. 5
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 24 OTTOBRE 1996, N. 556](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20agosto%201996%20n.%20437%20recante%20disposizioni%20urgenti%20in%20materia%20di%20imposizione%20diretta%20ed%20indiretta%20di%20funzionalita%20dellAmministrazio_97bff93e21b2.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 24 OTTOBRE 1996, N. 556](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-10-24;556)
-  
+## DISPOSIZIONI CONCERNENTI IL PERSONALE DELL'AMMINISTRAZIONE FINANZIARIA
 
-### Art. 6
+Capo II
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 24 OTTOBRE 1996, N. 556](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-10-24;556)
-  
+### Art. 7.
 
-CAPO II Capo II DISPOSIZIONI CONCERNENTI IL PERSONALE DELL'AMMINISTRAZIONE FINANZIARIA
---------------------------------------------------------------------------------------
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 24 OTTOBRE 1996, N. 556](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20agosto%201996%20n.%20437%20recante%20disposizioni%20urgenti%20in%20materia%20di%20imposizione%20diretta%20ed%20indiretta%20di%20funzionalita%20dellAmministrazio_97bff93e21b2.md)
 
-### Art. 7
+### Art. 8.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 24 OTTOBRE 1996, N. 556](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-10-24;556)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 24 OTTOBRE 1996, N. 556](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20agosto%201996%20n.%20437%20recante%20disposizioni%20urgenti%20in%20materia%20di%20imposizione%20diretta%20ed%20indiretta%20di%20funzionalita%20dellAmministrazio_97bff93e21b2.md)
 
-### Art. 8
+### Art. 9.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 24 OTTOBRE 1996, N. 556](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-10-24;556)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 24 OTTOBRE 1996, N. 556](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20agosto%201996%20n.%20437%20recante%20disposizioni%20urgenti%20in%20materia%20di%20imposizione%20diretta%20ed%20indiretta%20di%20funzionalita%20dellAmministrazio_97bff93e21b2.md)
 
-### Art. 9
+### Art. 10.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 24 OTTOBRE 1996, N. 556](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-10-24;556)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 24 OTTOBRE 1996, N. 556](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20agosto%201996%20n.%20437%20recante%20disposizioni%20urgenti%20in%20materia%20di%20imposizione%20diretta%20ed%20indiretta%20di%20funzionalita%20dellAmministrazio_97bff93e21b2.md)
 
-### Art. 10
+### Art. 11.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 24 OTTOBRE 1996, N. 556](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-10-24;556)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 24 OTTOBRE 1996, N. 556](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20agosto%201996%20n.%20437%20recante%20disposizioni%20urgenti%20in%20materia%20di%20imposizione%20diretta%20ed%20indiretta%20di%20funzionalita%20dellAmministrazio_97bff93e21b2.md)
 
-### Art. 11
+### Art. 12.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 24 OTTOBRE 1996, N. 556](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-10-24;556)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 24 OTTOBRE 1996, N. 556](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20agosto%201996%20n.%20437%20recante%20disposizioni%20urgenti%20in%20materia%20di%20imposizione%20diretta%20ed%20indiretta%20di%20funzionalita%20dellAmministrazio_97bff93e21b2.md)
 
-### Art. 12
+### Art. 13.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 24 OTTOBRE 1996, N. 556](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-10-24;556)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 24 OTTOBRE 1996, N. 556](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20agosto%201996%20n.%20437%20recante%20disposizioni%20urgenti%20in%20materia%20di%20imposizione%20diretta%20ed%20indiretta%20di%20funzionalita%20dellAmministrazio_97bff93e21b2.md)
 
-### Art. 13
+### Art. 14.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 24 OTTOBRE 1996, N. 556](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-10-24;556)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 24 OTTOBRE 1996, N. 556](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20agosto%201996%20n.%20437%20recante%20disposizioni%20urgenti%20in%20materia%20di%20imposizione%20diretta%20ed%20indiretta%20di%20funzionalita%20dellAmministrazio_97bff93e21b2.md)
 
-### Art. 14
+### Art. 15.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 24 OTTOBRE 1996, N. 556](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-10-24;556)
-  
-
-### Art. 15
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 24 OTTOBRE 1996, N. 556](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-10-24;556)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 24 OTTOBRE 1996, N. 556](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20agosto%201996%20n.%20437%20recante%20disposizioni%20urgenti%20in%20materia%20di%20imposizione%20diretta%20ed%20indiretta%20di%20funzionalita%20dellAmministrazio_97bff93e21b2.md)

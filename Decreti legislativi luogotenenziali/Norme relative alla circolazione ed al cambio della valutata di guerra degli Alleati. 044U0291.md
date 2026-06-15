@@ -1,40 +1,33 @@
-DECRETO LEGISLATIVO LUOGOTENENZIALE 12 ottobre 1944 n. 291
+---
+tipo: DECRETO LEGISLATIVO LUOGOTENENZIALE
+numero: 291
+data: 1944-10-12
+titolo: "Norme relative alla circolazione ed al cambio della valutata di guerra degli Alleati. (044U0291)"
+urn: urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-12;291
+codice_redazionale: 044U0291
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO LUOGOTENENZIALE 12 ottobre 1944 n. 291
-==========================================================
+((IL D.LGS. 13 DICEMBRE 2012, N. 212 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Norme relative alla circolazione ed al cambio della valutata di guerra degli Alleati. (044U0291)
-------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 11/11/1944
+((IL D.LGS. 13 DICEMBRE 2012, N. 212 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 1
-------
+## Art. 3.
 
-((IL [D.LGS. 13 DICEMBRE 2012, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-12-13;212) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D.LGS. 13 DICEMBRE 2012, N. 212 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 2
-------
+## Art. 4.
 
-((IL [D.LGS. 13 DICEMBRE 2012, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-12-13;212) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D.LGS. 13 DICEMBRE 2012, N. 212 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 3
-------
+## Art. 5.
 
-((IL [D.LGS. 13 DICEMBRE 2012, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-12-13;212) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D.LGS. 13 DICEMBRE 2012, N. 212 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 4
-------
+## Art. 6.
 
-((IL [D.LGS. 13 DICEMBRE 2012, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-12-13;212) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
-
-Art. 5
-------
-
-((IL [D.LGS. 13 DICEMBRE 2012, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-12-13;212) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
-
-Art. 6
-------
-
-((IL [D.LGS. 13 DICEMBRE 2012, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-12-13;212) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D.LGS. 13 DICEMBRE 2012, N. 212 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))

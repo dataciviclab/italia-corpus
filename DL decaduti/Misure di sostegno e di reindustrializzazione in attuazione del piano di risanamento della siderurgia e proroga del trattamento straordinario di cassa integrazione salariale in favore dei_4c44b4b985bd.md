@@ -1,101 +1,82 @@
-DECRETO-LEGGE 11 gennaio 1989 n. 5
+---
+tipo: DECRETO-LEGGE
+numero: 5
+data: 1989-01-11
+titolo: "Misure di sostegno e di reindustrializzazione in attuazione del piano di risanamento della siderurgia e proroga del trattamento straordinario di cassa integrazione salariale in favore dei dipendenti delle societa' GEPI."
+urn: urn:nir:stato:decreto.legge:1989-01-11;5
+codice_redazionale: 089G0024
+vigente: true
+---
 
+## MISURE DI SOSTEGNO SOCIALE
 
-DECRETO-LEGGE 11 gennaio 1989 n. 5
-==================================
+Capo I
 
-Misure di sostegno e di reindustrializzazione in attuazione del piano di risanamento della siderurgia e proroga del trattamento straordinario di cassa integrazione salariale in favore dei dipendenti delle societa' GEPI.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del decreto: 12/01/1989.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 15 MAGGIO 1989, N. 181](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20aprile%201989%20n.%20120%20recante%20misure%20di%20sostegno%20e%20di%20reindustrializzazione%20in%20attuazione%20del%20piano%20di%20risanamento%20della%20siderurgia.md)
 
-CAPO I Capo I MISURE DI SOSTEGNO SOCIALE
-----------------------------------------
+### Art. 2.
 
-### Art. 1
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 15 MAGGIO 1989, N. 181](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20aprile%201989%20n.%20120%20recante%20misure%20di%20sostegno%20e%20di%20reindustrializzazione%20in%20attuazione%20del%20piano%20di%20risanamento%20della%20siderurgia.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 15 MAGGIO 1989, N. 181](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-15;181)
-  
+### Art. 3.
 
-### Art. 2
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 15 MAGGIO 1989, N. 181](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20aprile%201989%20n.%20120%20recante%20misure%20di%20sostegno%20e%20di%20reindustrializzazione%20in%20attuazione%20del%20piano%20di%20risanamento%20della%20siderurgia.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 15 MAGGIO 1989, N. 181](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-15;181)
-  
+### Art. 4.
 
-### Art. 3
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 15 MAGGIO 1989, N. 181](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20aprile%201989%20n.%20120%20recante%20misure%20di%20sostegno%20e%20di%20reindustrializzazione%20in%20attuazione%20del%20piano%20di%20risanamento%20della%20siderurgia.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 15 MAGGIO 1989, N. 181](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-15;181)
-  
+### Art. 5.
 
-### Art. 4
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 15 MAGGIO 1989, N. 181](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20aprile%201989%20n.%20120%20recante%20misure%20di%20sostegno%20e%20di%20reindustrializzazione%20in%20attuazione%20del%20piano%20di%20risanamento%20della%20siderurgia.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 15 MAGGIO 1989, N. 181](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-15;181)
-  
+### Art. 6.
 
-### Art. 5
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 15 MAGGIO 1989, N. 181](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20aprile%201989%20n.%20120%20recante%20misure%20di%20sostegno%20e%20di%20reindustrializzazione%20in%20attuazione%20del%20piano%20di%20risanamento%20della%20siderurgia.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 15 MAGGIO 1989, N. 181](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-15;181)
-  
+### Art. 7.
 
-### Art. 6
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 15 MAGGIO 1989, N. 181](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20aprile%201989%20n.%20120%20recante%20misure%20di%20sostegno%20e%20di%20reindustrializzazione%20in%20attuazione%20del%20piano%20di%20risanamento%20della%20siderurgia.md)
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 15 MAGGIO 1989, N. 181](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-15;181)
-  
+## INCENTIVI PER LA REINDUSTRIALIZZAZIONE
 
-### Art. 7
+Capo II
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 15 MAGGIO 1989, N. 181](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-15;181)
-  
+### Art. 8.
 
-CAPO II Capo II INCENTIVI PER LA REINDUSTRIALIZZAZIONE
-------------------------------------------------------
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 15 MAGGIO 1989, N. 181](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20aprile%201989%20n.%20120%20recante%20misure%20di%20sostegno%20e%20di%20reindustrializzazione%20in%20attuazione%20del%20piano%20di%20risanamento%20della%20siderurgia.md)
 
-### Art. 8
+### Art. 9.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 15 MAGGIO 1989, N. 181](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-15;181)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 15 MAGGIO 1989, N. 181](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20aprile%201989%20n.%20120%20recante%20misure%20di%20sostegno%20e%20di%20reindustrializzazione%20in%20attuazione%20del%20piano%20di%20risanamento%20della%20siderurgia.md)
 
-### Art. 9
+### Art. 10.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 15 MAGGIO 1989, N. 181](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-15;181)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 15 MAGGIO 1989, N. 181](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20aprile%201989%20n.%20120%20recante%20misure%20di%20sostegno%20e%20di%20reindustrializzazione%20in%20attuazione%20del%20piano%20di%20risanamento%20della%20siderurgia.md)
 
-### Art. 10
+### Art. 11.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 15 MAGGIO 1989, N. 181](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-15;181)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 15 MAGGIO 1989, N. 181](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20aprile%201989%20n.%20120%20recante%20misure%20di%20sostegno%20e%20di%20reindustrializzazione%20in%20attuazione%20del%20piano%20di%20risanamento%20della%20siderurgia.md)
 
-### Art. 11
+### Art. 12.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 15 MAGGIO 1989, N. 181](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-15;181)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 15 MAGGIO 1989, N. 181](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20aprile%201989%20n.%20120%20recante%20misure%20di%20sostegno%20e%20di%20reindustrializzazione%20in%20attuazione%20del%20piano%20di%20risanamento%20della%20siderurgia.md)
 
-### Art. 12
+### Art. 13.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 15 MAGGIO 1989, N. 181](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-15;181)
-  
-
-### Art. 13
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 15 MAGGIO 1989, N. 181](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-15;181)
-  
-
-Elenco
-
- Allegato   
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 15 MAGGIO 1989, N. 181](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-15;181)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 15 MAGGIO 1989, N. 181](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20aprile%201989%20n.%20120%20recante%20misure%20di%20sostegno%20e%20di%20reindustrializzazione%20in%20attuazione%20del%20piano%20di%20risanamento%20della%20siderurgia.md)

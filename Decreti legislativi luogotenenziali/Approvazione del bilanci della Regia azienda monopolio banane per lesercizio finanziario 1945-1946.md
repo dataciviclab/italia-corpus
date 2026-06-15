@@ -1,20 +1,14 @@
-DECRETO LEGISLATIVO LUOGOTENENZIALE 05 aprile 1946 n. 290
+---
+tipo: DECRETO LEGISLATIVO LUOGOTENENZIALE
+numero: 290
+data: 1946-04-05
+titolo: "Approvazione del bilanci della Regia azienda monopolio banane per l'esercizio finanziario 1945-1946."
+urn: urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-05;290
+codice_redazionale: 046U0290
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO LUOGOTENENZIALE 05 aprile 1946 n. 290
-=========================================================
-
-Approvazione del bilanci della Regia azienda monopolio banane per l'esercizio finanziario 1945-1946.
-----------------------------------------------------------------------------------------------------
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI, DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
-
-Tabella
-
- TABELLA   
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI, DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI, DALLA L. 18 FEBBRAIO 2009, N. 9))

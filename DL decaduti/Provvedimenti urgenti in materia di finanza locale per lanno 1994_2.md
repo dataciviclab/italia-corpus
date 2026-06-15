@@ -1,62 +1,41 @@
-DECRETO-LEGGE 26 aprile 1994 n. 253
+---
+tipo: DECRETO-LEGGE
+numero: 253
+data: 1994-04-26
+titolo: "Provvedimenti urgenti in materia di finanza locale per l'anno 1994."
+urn: urn:nir:stato:decreto.legge:1994-04-26;253
+codice_redazionale: 094G0286
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 26 aprile 1994 n. 253
-===================================
+DECRETO DECADUTO
 
-Provvedimenti urgenti in materia di finanza locale per l'anno 1994.
--------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 28-4-1994.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 5
-------
+## Art. 7.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 6
-------
+## Art. 8.
 
-  
-DECRETO DECADUTO   
-
-Art. 7
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 8
-------
-
-  
-DECRETO DECADUTO   
-
-Prospetti
-
- DECRETO DECADUTO   
+DECRETO DECADUTO

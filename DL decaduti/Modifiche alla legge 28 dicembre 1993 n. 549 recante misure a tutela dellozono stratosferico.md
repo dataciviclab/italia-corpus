@@ -1,59 +1,37 @@
-DECRETO-LEGGE 04 ottobre 1996 n. 520
+---
+tipo: DECRETO-LEGGE
+numero: 56
+data: 1996-02-10
+titolo: "Modifiche alla legge 28 dicembre 1993, n. 549, recante misure a tutela dell'ozono stratosferico."
+urn: urn:nir:stato:decreto.legge:1996-02-10;56
+codice_redazionale: 096G0064
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 04 ottobre 1996 n. 520
-====================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 16 GIUGNO 1997, N. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-06-16;179)
 
-Modifiche alla legge 28 dicembre 1993, n. 549, recante misure a tutela dell'ozono stratosferico.
-------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 07/10/1996.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 16 GIUGNO 1997, N. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-06-16;179)
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
-DALLA [L. 16 GIUGNO 1997, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-06-16;179)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 16 GIUGNO 1997, N. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-06-16;179)
 
-Art. 2
-------
+## Art. 4.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
-DALLA [L. 16 GIUGNO 1997, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-06-16;179)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 16 GIUGNO 1997, N. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-06-16;179)
 
-Art. 3
-------
+## Art. 5.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
-DALLA [L. 16 GIUGNO 1997, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-06-16;179)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 16 GIUGNO 1997, N. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-06-16;179)
 
-Art. 4
-------
+## Art. 6.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
-DALLA [L. 16 GIUGNO 1997, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-06-16;179)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 16 GIUGNO 1997, N. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-06-16;179)
 
-Art. 5
-------
+## Art. 7.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
-DALLA [L. 16 GIUGNO 1997, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-06-16;179)
-  
-
-Art. 6
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
-DALLA [L. 16 GIUGNO 1997, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-06-16;179)
-  
-
-Art. 7
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
-DALLA [L. 16 GIUGNO 1997, N. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-06-16;179)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 16 GIUGNO 1997, N. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-06-16;179)

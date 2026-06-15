@@ -1,20 +1,17 @@
-DECRETO-LEGGE 25 maggio 1981 n. 247
+---
+tipo: DECRETO-LEGGE
+numero: 247
+data: 1981-05-25
+titolo: "Blocco degli organici delle unita' sanitarie locali."
+urn: urn:nir:stato:decreto.legge:1981-05-25;247
+codice_redazionale: 081U0247
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 25 maggio 1981 n. 247
-===================================
+DECRETO DECADUTO
 
-Blocco degli organici delle unita' sanitarie locali.
-----------------------------------------------------
+## Art. 2.
 
-Decreto-Legge decaduto per mancata conversione.
-
-Art. 1
-------
-
- DECRETO DECADUTO  
-
-Art. 2
-------
-
- DECRETO DECADUTO  
+DECRETO DECADUTO

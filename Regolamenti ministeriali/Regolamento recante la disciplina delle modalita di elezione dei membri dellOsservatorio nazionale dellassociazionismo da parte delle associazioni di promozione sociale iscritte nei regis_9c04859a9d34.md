@@ -1,24 +1,22 @@
-DECRETO 20 dicembre 2012 n. 264
-
-
-DECRETO 20 dicembre 2012 n. 264
-===============================
-
-Regolamento recante la disciplina delle modalita' di elezione dei membri dell'Osservatorio nazionale dell'associazionismo da parte delle associazioni di promozione sociale iscritte nei registri nazionale e regionali, ai sensi dell'articolo 11, comma 6, della legge 7 dicembre 2000, n. 383. (13G00042)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/03/2013
+---
+tipo: DECRETO
+numero: 264
+data: 2012-12-20
+titolo: "Regolamento recante la disciplina delle modalita' di elezione dei membri dell'Osservatorio nazionale dell'associazionismo da parte delle associazioni di promozione sociale iscritte nei registri nazionale e regionali, ai sensi dell'articolo 11, comma 6, della legge 7 dicembre 2000, n. 383. (13G00042)"
+urn: urn:nir:ministero.lavoro.e.politiche.sociali:decreto:2012-12-20;264
+codice_redazionale: 13G00042
+vigente: true
+---
 
 IL MINISTRO DEL LAVORO
-----------------------
 
 E DELLE POLITICHE SOCIALI
 
-Vista la [legge 7 dicembre 2000, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-07;383), recante «Disciplina delle associazioni di promozione sociale»;
+Vista la [legge 7 dicembre 2000, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-07;383), recante «Disciplina delle associazioni di promozione sociale»;
 
-Visto, in particolare, il [comma 6 dell'articolo 11 della legge 7 dicembre 2000, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-07;383~art11-com6), che stabilisce che entro tre anni dalla data di entrata in vigore della citata legge il Ministro per la solidarieta' sociale, sentite le competenti Commissioni parlamentari, emana un regolamento per disciplinare le modalita' di elezione dei membri dell'Osservatorio nazionale dell'associazionismo da parte delle associazioni di promozione sociale iscritte nei registri nazionale e regionali;
+Visto, in particolare, il [comma 6 dell'articolo 11 della legge 7 dicembre 2000, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-07;383#art_11-com6), che stabilisce che entro tre anni dalla data di entrata in vigore della citata legge il Ministro per la solidarieta' sociale, sentite le competenti Commissioni parlamentari, emana un regolamento per disciplinare le modalita' di elezione dei membri dell'Osservatorio nazionale dell'associazionismo da parte delle associazioni di promozione sociale iscritte nei registri nazionale e regionali;
 
-Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3), recante «Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri»;
+Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), recante «Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri»;
 
 Acquisito il parere favorevole dell'Osservatorio nazionale dell'associazionismo espresso nella riunione del 28 settembre 2009;
 
@@ -30,126 +28,146 @@ Udito il Consiglio di Stato il quale ha espresso il proprio definitivo parere ne
 
 Sentite le competenti Commissioni parlamentari;
 
-Vista la comunicazione al Presidente del Consiglio dei Ministri, effettuata ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3), con nota del 12 dicembre 2012;
+Vista la comunicazione al Presidente del Consiglio dei Ministri, effettuata ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), con nota del 12 dicembre 2012;
 
 Adotta
 
 il seguente regolamento recante la disciplina delle modalita' di elezione dei membri dell'Osservatorio nazionale dell'associazionismo da parte delle associazioni di promozione sociale iscritte nei registri nazionale e regionali, ai sensi dell'articolo 11, comma 6, della legge 7 dicembre 2000, n. 383.
 
-Art. 1
-------
+## Art. 1. — Indizione delle elezioni
 
-Indizione delle elezioni
+1.
 
-1. Ai fini della costituzione dell'Osservatorio nazionale dell'associazionismo istituito presso il Ministero del lavoro e delle politiche sociali, la Direzione Generale per il terzo settore e le formazioni sociali del Ministero del lavoro e delle politiche sociali indice, con propria comunicazione adeguatamente pubblicizzata, l'elezione di venti membri dell'Osservatorio, rappresentativi delle associazioni di promozione sociale iscritte nel registro nazionale e nei registri regionali e delle province autonome di Trento e di Bolzano, di cui all'[articolo 7 della legge 7 dicembre 2000, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-07;383~art7).
+Ai fini della costituzione dell'Osservatorio nazionale dell'associazionismo istituito presso il Ministero del lavoro e delle politiche sociali, la Direzione Generale per il terzo settore e le formazioni sociali del Ministero del lavoro e delle politiche sociali indice, con propria comunicazione adeguatamente pubblicizzata, l'elezione di venti membri dell'Osservatorio, rappresentativi delle associazioni di promozione sociale iscritte nel registro nazionale e nei registri regionali e delle province autonome di Trento e di Bolzano, di cui all'[articolo 7 della legge 7 dicembre 2000, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-07;383#art_7).
 
-2. Nella comunicazione di cui al comma 1 sono indicati la data, l'orario, il luogo e le modalita' di svolgimento delle elezioni. Tra la data della comunicazione e lo svolgimento delle elezioni deve intercorrere un termine non inferiore a novanta giorni.
+2.
 
-Avvertenza:   
-Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.   
-Nota al titolo:   
-Il testo dell'[art. 11, comma 6, della legge 7 dicembre 2000, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-07;383~art11-com6) (Disciplina delle associazioni di promozione sociale), e' il seguente:   
-«Art. 11 (Istituzione e composizione dell'Osservatorio nazionale). - (Omissis).   
-6. Entro tre anni dalla data di entrata in vigore della presente legge, il Ministro per la solidarieta' sociale, sentite le Commissioni parlamentari competenti, emana un regolamento per disciplinare le modalita' di elezione dei membri dell'Osservatorio nazionale da parte delle associazioni di promozione sociale iscritte nei registri nazionale e regionali.».   
-Note alle premesse:   
-- Il testo della citata [legge n. 383 del 2000](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000;383) e' pubblicato nella Gazzetta Ufficiale del 27 dicembre 2000, n. 300.   
-- Per il testo del comma 6, dell'art. 11, della citata [legge n. 383 del 2000](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000;383), si veda la note al titolo.   
-- Il testo dell'[art. 17, comma 3, della legge 23 agosto 1998, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-08-23;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) e' il seguente:   
-«Art. 17 (Regolamenti). - 3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.  
-Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.».   
-  
-Note all'art. 1:   
-- Il testo dell'art. 7 della citata [legge n. 383 del 2000](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000;383), e' il seguente:   
-«Art. 7 (Registri). - 1. Presso la Presidenza del Consiglio dei Ministri - Dipartimento per gli affari sociali e' istituito un registro nazionale al quale possono iscriversi, ai fini dell'applicazione della presente legge, le associazioni di promozione sociale a carattere nazionale in possesso dei requisiti di cui all'art. 2, costituite ed operanti da almeno un anno. Alla tenuta del registro si provvede con le ordinarie risorse finanziarie, umane e strumentali del Dipartimento per gli affari sociali.   
-2. Per associazioni di promozione sociale a carattere nazionale si intendono quelle che svolgono attivita' in almeno cinque regioni ed in almeno venti province del territorio nazionale.   
-3. L'iscrizione nel registro nazionale delle associazioni a carattere nazionale comporta il diritto di automatica iscrizione nel registro medesimo dei relativi livelli di organizzazione territoriale e dei circoli affiliati, mantenendo a tali soggetti i benefici connessi alla iscrizione nei registri di cui al comma 4.   
-4. Le regioni e le province autonome di Trento e di Bolzano istituiscono, rispettivamente, registri su scala regionale e provinciale, cui possono iscriversi tutte le associazioni in possesso dei requisiti di cui all'art. 2, che svolgono attivita', rispettivamente, in ambito regionale o provinciale.».
+Nella comunicazione di cui al comma 1 sono indicati la data, l'orario, il luogo e le modalita' di svolgimento delle elezioni. Tra la data della comunicazione e lo svolgimento delle elezioni deve intercorrere un termine non inferiore a novanta giorni.
 
-Art. 2
-------
+Avvertenza: 
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ Nota al titolo: 
+ Il testo dell'[art. 11, comma 6, della legge 7 dicembre 2000, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-07;383#art_11-com6) (Disciplina delle associazioni di promozione sociale), e' il seguente: 
+ «Art. 11 (Istituzione e composizione dell'Osservatorio nazionale). - (Omissis). 
+ 6. Entro tre anni dalla data di entrata in vigore della presente legge, il Ministro per la solidarieta' sociale, sentite le Commissioni parlamentari competenti, emana un regolamento per disciplinare le modalita' di elezione dei membri dell'Osservatorio nazionale da parte delle associazioni di promozione sociale iscritte nei registri nazionale e regionali.». 
+ Note alle premesse: 
+ - Il testo della citata [legge n. 383 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000;383) e' pubblicato nella Gazzetta Ufficiale del 27 dicembre 2000, n. 300. 
+ - Per il testo del comma 6, dell'art. 11, della citata [legge n. 383 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000;383), si veda la note al titolo. 
+ - Il testo dell'[art. 17, comma 3, della legge 23 agosto 1998, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-08-23;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) e' il seguente: 
+ «Art. 17 (Regolamenti). - 3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.
+ Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.». 
+ 
+ Note all'art. 1: 
+ - Il testo dell'art. 7 della citata [legge n. 383 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000;383), e' il seguente: 
+ «Art. 7 (Registri). - 1. Presso la Presidenza del Consiglio dei Ministri - Dipartimento per gli affari sociali e' istituito un registro nazionale al quale possono iscriversi, ai fini dell'applicazione della presente legge, le associazioni di promozione sociale a carattere nazionale in possesso dei requisiti di cui all'art. 2, costituite ed operanti da almeno un anno. Alla tenuta del registro si provvede con le ordinarie risorse finanziarie, umane e strumentali del Dipartimento per gli affari sociali. 
+ 2. Per associazioni di promozione sociale a carattere nazionale si intendono quelle che svolgono attivita' in almeno cinque regioni ed in almeno venti province del territorio nazionale. 
+ 3. L'iscrizione nel registro nazionale delle associazioni a carattere nazionale comporta il diritto di automatica iscrizione nel registro medesimo dei relativi livelli di organizzazione territoriale e dei circoli affiliati, mantenendo a tali soggetti i benefici connessi alla iscrizione nei registri di cui al comma 4. 
+ 4. Le regioni e le province autonome di Trento e di Bolzano istituiscono, rispettivamente, registri su scala regionale e provinciale, cui possono iscriversi tutte le associazioni in possesso dei requisiti di cui all'art. 2, che svolgono attivita', rispettivamente, in ambito regionale o provinciale.».
 
-Elettorato attivo e passivo per le associazioni   
-iscritte nel registro nazionale
+## Art. 2. — Elettorato attivo e passivo per le associazioni 
+ iscritte nel registro nazionale
 
-1. Le associazioni di promozione sociale iscritte nel registro nazionale e che risultino maggiormente rappresentative in relazione al numero degli associati concorrono ad eleggere dieci membri dell'Osservatorio nazionale dell'associazionismo, mediante l'espressione di una preferenza.
+1.
 
-2. Ai fini del presente articolo, si intendono per associati coloro che, secondo le norme statutarie, hanno diritto di voto nell'assemblea dell'associazione, con esclusione degli associati ai circoli affiliati e alle articolazioni territoriali della medesima associazione iscritti ai registri di cui all'[articolo 7 della legge 7 dicembre 2000, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-07;383~art7).
+Le associazioni di promozione sociale iscritte nel registro nazionale e che risultino maggiormente rappresentative in relazione al numero degli associati concorrono ad eleggere dieci membri dell'Osservatorio nazionale dell'associazionismo, mediante l'espressione di una preferenza.
 
-3. Ai fini dell'individuazione del requisito della maggiore rappresentativita', la Direzione Generale per il terzo settore e le formazioni sociali del Ministero del lavoro e delle politiche sociali richiede a tutte le associazioni iscritte nel registro nazionale idonea dichiarazione, da rendere ai sensi del [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445), dalla quale risulti il numero degli associati.
+2.
 
-4. Sulla base delle risultanze delle dichiarazioni di cui al comma 3, alle quali viene data adeguata pubblicita' sul sito istituzionale del Ministero del lavoro e delle politiche sociali, la Direzione Generale per il terzo settore e le formazioni sociali invita le prime trenta associazioni con il maggior numero di associati a designare, nel rispetto del principio di pari opportunita' di genere, fino a due candidati alle elezioni dei dieci membri nazionali dell'Osservatorio nazionale dell'associazionismo. L'elenco dei candidati designati dalle associazioni ai sensi del presente comma e' pubblicato sul sito istituzionale del Ministero del lavoro e delle politiche sociali almeno venti giorni prima della data di svolgimento delle elezioni ed e' reso disponibile presso la sede elettorale.
+Ai fini del presente articolo, si intendono per associati coloro che, secondo le norme statutarie, hanno diritto di voto nell'assemblea dell'associazione, con esclusione degli associati ai circoli affiliati e alle articolazioni territoriali della medesima associazione iscritti ai registri di cui all'[articolo 7 della legge 7 dicembre 2000, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-07;383#art_7).
 
-5. Ai sensi dell'[articolo 11, comma 4, della legge 7 dicembre 2000, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-07;383~art11-com4), non possono essere candidati coloro che abbiano rivestito la carica di componente dell'Osservatorio per due mandati.
+3.
 
-6. Possono esercitare il diritto di voto coloro ai quali e' conferita, secondo le norme statutarie, la rappresentanza legale delle associazioni di cui al comma 1.
+Ai fini dell'individuazione del requisito della maggiore rappresentativita', la Direzione Generale per il terzo settore e le formazioni sociali del Ministero del lavoro e delle politiche sociali richiede a tutte le associazioni iscritte nel registro nazionale idonea dichiarazione, da rendere ai sensi del [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), dalla quale risulti il numero degli associati.
 
-Note all'art. 2:   
-- Per il testo dell'art. 7, della citata [legge n. 383 del 2000](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000;383), si vedano le note all'art. 1.   
-- Il testo del [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445) ([Testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445) - Testo A), e' stato pubblicato nella Gazzetta Ufficiale 20 febbraio 2001, n. 42, S.O.   
-- Il testo dell'art. 11, comma 4, della citata [legge n. 383 del 2000](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000;383), e' il seguente:   
-«Art. 11 (Istituzione e composizione dell'Osservatorio nazionale). - (Omissis).   
-4. L'Osservatorio si riunisce al massimo otto volte l'anno, dura in carica tre anni ed i suoi componenti non possono essere nominati per piu' di due mandati.».
+4.
 
-Art. 3
-------
+Sulla base delle risultanze delle dichiarazioni di cui al comma 3, alle quali viene data adeguata pubblicita' sul sito istituzionale del Ministero del lavoro e delle politiche sociali, la Direzione Generale per il terzo settore e le formazioni sociali invita le prime trenta associazioni con il maggior numero di associati a designare, nel rispetto del principio di pari opportunita' di genere, fino a due candidati alle elezioni dei dieci membri nazionali dell'Osservatorio nazionale dell'associazionismo. L'elenco dei candidati designati dalle associazioni ai sensi del presente comma e' pubblicato sul sito istituzionale del Ministero del lavoro e delle politiche sociali almeno venti giorni prima della data di svolgimento delle elezioni ed e' reso disponibile presso la sede elettorale.
 
-Elettorato attivo e passivo per le associazioni   
-iscritte nei registri regionali e delle province autonome
+5.
 
-1. Le associazioni di promozione sociale iscritte nei registri regionali e delle province autonome di Trento e di Bolzano, che non siano circoli affiliati o articolazioni territoriali di associazioni a carattere nazionale e che risultino maggiormente rappresentative nei relativi territori, concorrono ad eleggere dieci membri dell'Osservatorio nazionale dell'associazionismo, mediante l'espressione di una preferenza. Ai fini del presente articolo, si intendono per associati coloro che, secondo le norme statutarie, hanno diritto di voto nell'assemblea dell'associazione.
+Ai sensi dell'[articolo 11, comma 4, della legge 7 dicembre 2000, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-07;383#art_11-com4), non possono essere candidati coloro che abbiano rivestito la carica di componente dell'Osservatorio per due mandati.
 
-2. Ai fini dell'individuazione del requisito della maggiore rappresentativita', le associazioni iscritte nei registri regionali e delle province autonome di Trento e di Bolzano comunicano agli uffici regionali e delle province autonome il numero dei propri associati mediante idonea dichiarazione, da rendere ai sensi del [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445), entro il termine stabilito dalla Direzione Generale per il terzo settore e le formazioni sociali del Ministero del lavoro e delle politiche sociali ed adeguatamente pubblicizzato sul sito istituzionale dello stesso Ministero e delle regioni e province autonome.
+6.
 
-3. Sulla base delle risultanze delle dichiarazioni di cui al comma 3, alle quali viene data adeguata pubblicita' sul sito istituzionale del Ministero del lavoro e delle politiche sociali e sui siti delle regioni e delle province autonome, la Direzione Generale per il terzo settore e le formazioni sociali del Ministero invita le prime trenta associazioni con il maggior numero di associati a designare, nel rispetto del principio di pari opportunita' di genere, fino a due candidati alle elezioni dei dieci membri regionali e provinciali dell'Osservatorio nazionale dell'associazionismo. L'elenco dei candidati designati dalle associazioni ai sensi del presente comma e' pubblicato sul sito istituzionale del Ministero del lavoro e delle politiche sociali almeno venti giorni prima della data di svolgimento delle elezioni ed e' reso disponibile presso la sede elettorale.
+Possono esercitare il diritto di voto coloro ai quali e' conferita, secondo le norme statutarie, la rappresentanza legale delle associazioni di cui al comma 1.
 
-4. Ai sensi dell'[articolo 11, comma 4, della legge 7 dicembre 2000, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-07;383~art11-com4), non possono essere candidati coloro che abbiano rivestito la carica di componente dell'Osservatorio per due mandati.
+Note all'art. 2: 
+ - Per il testo dell'art. 7, della citata [legge n. 383 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000;383), si vedano le note all'art. 1. 
+ - Il testo del [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md) ([Testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md) - Testo A), e' stato pubblicato nella Gazzetta Ufficiale 20 febbraio 2001, n. 42, S.O. 
+ - Il testo dell'art. 11, comma 4, della citata [legge n. 383 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000;383), e' il seguente: 
+ «Art. 11 (Istituzione e composizione dell'Osservatorio nazionale). - (Omissis). 
+ 4. L'Osservatorio si riunisce al massimo otto volte l'anno, dura in carica tre anni ed i suoi componenti non possono essere nominati per piu' di due mandati.».
 
-5. Possono esercitare il diritto di voto coloro ai quali e' conferita, secondo le norme statutarie, la rappresentanza legale delle associazioni di cui al comma 1.
+## Art. 3. — Elettorato attivo e passivo per le associazioni 
+ iscritte nei registri regionali e delle province autonome
 
-Note all'art. 3:   
-- Per il testo del [decreto del Presidente della Repubblica n. 445 del 2000](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000;445), si vedano le note all'art. 2.   
-- Per il testo dell'[art. 11, comma 4, della legge n. 383 del 2000](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000;383~art11-com4), si vedano le note all'art. 2.
+1.
 
-Art. 4
-------
+Le associazioni di promozione sociale iscritte nei registri regionali e delle province autonome di Trento e di Bolzano, che non siano circoli affiliati o articolazioni territoriali di associazioni a carattere nazionale e che risultino maggiormente rappresentative nei relativi territori, concorrono ad eleggere dieci membri dell'Osservatorio nazionale dell'associazionismo, mediante l'espressione di una preferenza. Ai fini del presente articolo, si intendono per associati coloro che, secondo le norme statutarie, hanno diritto di voto nell'assemblea dell'associazione.
+
+2.
+
+Ai fini dell'individuazione del requisito della maggiore rappresentativita', le associazioni iscritte nei registri regionali e delle province autonome di Trento e di Bolzano comunicano agli uffici regionali e delle province autonome il numero dei propri associati mediante idonea dichiarazione, da rendere ai sensi del [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), entro il termine stabilito dalla Direzione Generale per il terzo settore e le formazioni sociali del Ministero del lavoro e delle politiche sociali ed adeguatamente pubblicizzato sul sito istituzionale dello stesso Ministero e delle regioni e province autonome.
+
+3.
+
+Sulla base delle risultanze delle dichiarazioni di cui al comma 3, alle quali viene data adeguata pubblicita' sul sito istituzionale del Ministero del lavoro e delle politiche sociali e sui siti delle regioni e delle province autonome, la Direzione Generale per il terzo settore e le formazioni sociali del Ministero invita le prime trenta associazioni con il maggior numero di associati a designare, nel rispetto del principio di pari opportunita' di genere, fino a due candidati alle elezioni dei dieci membri regionali e provinciali dell'Osservatorio nazionale dell'associazionismo. L'elenco dei candidati designati dalle associazioni ai sensi del presente comma e' pubblicato sul sito istituzionale del Ministero del lavoro e delle politiche sociali almeno venti giorni prima della data di svolgimento delle elezioni ed e' reso disponibile presso la sede elettorale.
+
+4.
+
+Ai sensi dell'[articolo 11, comma 4, della legge 7 dicembre 2000, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-07;383#art_11-com4), non possono essere candidati coloro che abbiano rivestito la carica di componente dell'Osservatorio per due mandati.
+
+5.
+
+Possono esercitare il diritto di voto coloro ai quali e' conferita, secondo le norme statutarie, la rappresentanza legale delle associazioni di cui al comma 1.
+
+Note all'art. 3: 
+ - Per il testo del [decreto del Presidente della Repubblica n. 445 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2000;445), si vedano le note all'art. 2. 
+ - Per il testo dell'[art. 11, comma 4, della legge n. 383 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000;383#art_11-com4), si vedano le note all'art. 2.
+
+## Art. 4.
 
 Modalita' di svolgimento delle elezioni
 
-1. Le elezioni dei membri dell'Osservatorio nazionale dell'associazionismo sono valide qualunque sia il numero dei votanti rispetto agli aventi diritto al voto e si svolgono in due distinti seggi, destinati rispettivamente all'elezione dei dieci membri rappresentativi delle associazioni a carattere nazionale di cui all'articolo 2 e all'elezione dei dieci membri rappresentativi delle associazioni iscritte nei registri regionali e delle province autonome di cui all'articolo 3.
+1.
 
-2. Con la comunicazione di cui all'articolo 1, comma 1, si provvede inoltre:
+Le elezioni dei membri dell'Osservatorio nazionale dell'associazionismo sono valide qualunque sia il numero dei votanti rispetto agli aventi diritto al voto e si svolgono in due distinti seggi, destinati rispettivamente all'elezione dei dieci membri rappresentativi delle associazioni a carattere nazionale di cui all'articolo 2 e all'elezione dei dieci membri rappresentativi delle associazioni iscritte nei registri regionali e delle province autonome di cui all'articolo 3.
 
-a) alla individuazione delle modalita' di presentazione delle candidature, di svolgimento delle operazioni elettorali e di espressione e conteggio dei voti espressi;
+2.
 
-b) alla definizione del formato e delle caratteristiche delle schede elettorali;
+Con la comunicazione di cui all'articolo 1, comma 1, si provvede inoltre:
+                        a)
+                            alla individuazione delle modalita' di presentazione delle candidature, di svolgimento delle operazioni elettorali e di espressione e conteggio dei voti espressi;
+                        b)
+                            alla definizione del formato e delle caratteristiche delle schede elettorali;
+                        c)
+                            alla definizione della composizione dei seggi elettorali e delle relative attribuzioni, anche con riferimento alla definizione di eventuali reclami.
 
-c) alla definizione della composizione dei seggi elettorali e delle relative attribuzioni, anche con riferimento alla definizione di eventuali reclami.
+## Art. 5. — Proclamazione degli eletti, nomina degli esperti 
+ e durata in carica
 
-Art. 5
-------
+1.
 
-Proclamazione degli eletti, nomina degli esperti   
-e durata in carica
+Al termine delle operazioni elettorali, il Ministro del lavoro e delle politiche sociali provvede, con proprio decreto, a proclamare eletti i candidati che hanno ottenuto il maggior numero di voti, sino a concorrenza del numero di membri da eleggere, secondo una graduatoria decrescente. Qualora ai fini della proclamazione dell'ultimo degli eletti si riscontri che piu' candidati abbiano riportato lo stesso numero di voti, l'individuazione del candidato eletto avviene per sorteggio. In ogni caso ciascuna associazione non puo' essere rappresentata da piu' di un membro.
 
-1. Al termine delle operazioni elettorali, il Ministro del lavoro e delle politiche sociali provvede, con proprio decreto, a proclamare eletti i candidati che hanno ottenuto il maggior numero di voti, sino a concorrenza del numero di membri da eleggere, secondo una graduatoria decrescente. Qualora ai fini della proclamazione dell'ultimo degli eletti si riscontri che piu' candidati abbiano riportato lo stesso numero di voti, l'individuazione del candidato eletto avviene per sorteggio. In ogni caso ciascuna associazione non puo' essere rappresentata da piu' di un membro.
+2.
 
-2. Con il medesimo decreto di cui al comma 1, il Ministro del lavoro e delle politiche sociali provvede, inoltre, a nominare sei membri dell'Osservatorio individuati tra esperti di particolare e comprovata qualificazione professionale, che abbiano svolto attivita' in organismi ed enti pubblici o privati o aziende pubbliche e private ovvero che abbiano conseguito una particolare specializzazione professionale, culturale e scientifica desumibile dalla formazione universitaria e post-universitaria, da pubblicazioni scientifiche o da concrete esperienze di lavoro ovvero ancora provenienti dai settori della ricerca, della docenza universitaria o che abbiano acquisito meriti pubblicamente riconosciuti in campo umanitario.
+Con il medesimo decreto di cui al comma 1, il Ministro del lavoro e delle politiche sociali provvede, inoltre, a nominare sei membri dell'Osservatorio individuati tra esperti di particolare e comprovata qualificazione professionale, che abbiano svolto attivita' in organismi ed enti pubblici o privati o aziende pubbliche e private ovvero che abbiano conseguito una particolare specializzazione professionale, culturale e scientifica desumibile dalla formazione universitaria e post-universitaria, da pubblicazioni scientifiche o da concrete esperienze di lavoro ovvero ancora provenienti dai settori della ricerca, della docenza universitaria o che abbiano acquisito meriti pubblicamente riconosciuti in campo umanitario.
 
-3. L'Osservatorio dura in carica tre anni e puo' esercitare le sue funzioni quando sia stata nominata la maggioranza dei suoi ventisei membri.
+3.
 
-4. In caso di dimissioni, decadenza o impedimento permanente di uno dei membri dell'Osservatorio, il Ministro del lavoro e delle politiche sociali nomina in sostituzione, con proprio decreto, il primo dei non eletti nell'ambito del seggio nel quale era risultato eletto il membro da sostituire.
+L'Osservatorio dura in carica tre anni e puo' esercitare le sue funzioni quando sia stata nominata la maggioranza dei suoi ventisei membri.
 
-5. Sei mesi prima della scadenza dell'Osservatorio, la Direzione generale per il terzo settore e le formazioni sociali del Ministero del lavoro e delle politiche sociali indice nuove elezioni ai sensi del presente regolamento, mediante la comunicazione di cui all'articolo 1, comma 1.
+4.
+
+In caso di dimissioni, decadenza o impedimento permanente di uno dei membri dell'Osservatorio, il Ministro del lavoro e delle politiche sociali nomina in sostituzione, con proprio decreto, il primo dei non eletti nell'ambito del seggio nel quale era risultato eletto il membro da sostituire.
+
+5.
+
+Sei mesi prima della scadenza dell'Osservatorio, la Direzione generale per il terzo settore e le formazioni sociali del Ministero del lavoro e delle politiche sociali indice nuove elezioni ai sensi del presente regolamento, mediante la comunicazione di cui all'articolo 1, comma 1.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 20 dicembre 2012
+Roma, 20 dicembre 2012
 
-Il Ministro del lavoro e delle politiche sociali Fornero
-
-Visto, il Guardasigilli: Severino Registrato alla Corte dei conti il 28 gennaio 2013
-
-Ufficio di controllo sugli atti del MIUR, MIBAC, Min. salute e Min.
-
-lavoro, registro n. 1, foglio n. 318
+Il Ministro del lavoro e delle politiche sociali Fornero Visto, il Guardasigilli: Severino Registrato alla Corte dei conti il 28 gennaio 2013 Ufficio di controllo sugli atti del MIUR, MIBAC, Min. salute e Min. lavoro, registro n. 1, foglio n. 318

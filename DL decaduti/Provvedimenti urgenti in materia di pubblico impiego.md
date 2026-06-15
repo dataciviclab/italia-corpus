@@ -1,103 +1,105 @@
-DECRETO-LEGGE 10 luglio 1987 n. 271
+---
+tipo: DECRETO-LEGGE
+numero: 271
+data: 1987-07-10
+titolo: "Provvedimenti urgenti in materia di pubblico impiego."
+urn: urn:nir:stato:decreto.legge:1987-07-10;271
+codice_redazionale: 087U0271
+vigente: true
+---
 
+## DISPOSIZIONI GENERALI
 
-DECRETO-LEGGE 10 luglio 1987 n. 271
-===================================
+Titolo I
 
-Provvedimenti urgenti in materia di pubblico impiego.
------------------------------------------------------
+### Art. 1.
 
-Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-CAPO I Titolo I DISPOSIZIONI GENERALI
--------------------------------------
+### Art. 2.
 
-### Art. 1
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 3.
 
-### Art. 2
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+## DISPOSIZIONI RELATIVE A SINGOLI COMPARTI
 
-### Art. 3
+Titolo II
 
- DECRETO DECADUTO  
+### Art. 4.
 
-CAPO II Titolo II DISPOSIZIONI RELATIVE A SINGOLI COMPARTI
-----------------------------------------------------------
+DECRETO DECADUTO
 
-### Art. 4
+### Art. 5.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-### Art. 5
+### Art. 6.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-### Art. 6
+### Art. 7.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-### Art. 7
+### Art. 8.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-### Art. 8
+### Art. 9.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-### Art. 9
+### Art. 10.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-### Art. 10
+### Art. 11.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-### Art. 11
+### Art. 12.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-### Art. 12
+### Art. 13.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-### Art. 13
+### Art. 14.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-### Art. 14
+### Art. 15.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-### Art. 15
+### Art. 16.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-### Art. 16
+## DISPOSIZIONI TRANSITORIE
 
- DECRETO DECADUTO  
+TITOLO III
 
-CAPO III TITOLO III DISPOSIZIONI TRANSITORIE
---------------------------------------------
+### Art. 17.
 
-### Art. 17
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 18.
 
-### Art. 18
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 19.
 
-### Art. 19
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 20.
 
-### Art. 20
+DECRETO DECADUTO
 
- DECRETO DECADUTO  
+### Art. 21.
 
-### Art. 21
-
- DECRETO DECADUTO  
+DECRETO DECADUTO

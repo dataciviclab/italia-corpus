@@ -1,207 +1,149 @@
-DECRETO-LEGGE 03 luglio 1980 n. 288
+---
+tipo: DECRETO-LEGGE
+numero: 288
+data: 1980-07-03
+titolo: "Disposizioni in materia tributaria."
+urn: urn:nir:stato:decreto.legge:1980-07-03;288
+codice_redazionale: 080U0288
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 03 luglio 1980 n. 288
-===================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 28 OTTOBRE 1980, N. 687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
 
-Disposizioni in materia tributaria.
------------------------------------
+## Art. 2.
 
-Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 28 OTTOBRE 1980, N. 687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 28 OTTOBRE 1980, N. 687](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 28 OTTOBRE 1980, N. 687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
 
-Art. 2
-------
+## Art. 4.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 28 OTTOBRE 1980, N. 687](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 28 OTTOBRE 1980, N. 687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
 
-Art. 3
-------
+## Art. 5.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 28 OTTOBRE 1980, N. 687](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 28 OTTOBRE 1980, N. 687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
 
-Art. 4
-------
+## Art. 6.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 28 OTTOBRE 1980, N. 687](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 28 OTTOBRE 1980, N. 687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
 
-Art. 5
-------
+## Art. 7.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 28 OTTOBRE 1980, N. 687](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 28 OTTOBRE 1980, N. 687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
 
-Art. 6
-------
+## Art. 8.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 28 OTTOBRE 1980, N. 687](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 28 OTTOBRE 1980, N. 687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
 
-Art. 7
-------
+## Art. 9.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 28 OTTOBRE 1980, N. 687](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 28 OTTOBRE 1980, N. 687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
 
-Art. 8
-------
+## Art. 10.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 28 OTTOBRE 1980, N. 687](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 28 OTTOBRE 1980, N. 687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
 
-Art. 9
-------
+## Art. 11.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 28 OTTOBRE 1980, N. 687](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 28 OTTOBRE 1980, N. 687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
 
-Art. 10
--------
+## Art. 12.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 28 OTTOBRE 1980, N. 687](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 28 OTTOBRE 1980, N. 687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
 
-Art. 11
--------
+## Art. 13.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 28 OTTOBRE 1980, N. 687](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 28 OTTOBRE 1980, N. 687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
 
-Art. 12
--------
+## Art. 14.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 28 OTTOBRE 1980, N. 687](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 28 OTTOBRE 1980, N. 687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
 
-Art. 13
--------
+## Art. 15.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 28 OTTOBRE 1980, N. 687](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 28 OTTOBRE 1980, N. 687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
 
-Art. 14
--------
+## Art. 16.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 28 OTTOBRE 1980, N. 687](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 28 OTTOBRE 1980, N. 687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
 
-Art. 15
--------
+## Art. 17.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 28 OTTOBRE 1980, N. 687](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 28 OTTOBRE 1980, N. 687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
 
-Art. 16
--------
+## Art. 18.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 28 OTTOBRE 1980, N. 687](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 28 OTTOBRE 1980, N. 687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
 
-Art. 17
--------
+## Art. 19.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 28 OTTOBRE 1980, N. 687](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 28 OTTOBRE 1980, N. 687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
 
-Art. 18
--------
+## Art. 20.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 28 OTTOBRE 1980, N. 687](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 28 OTTOBRE 1980, N. 687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
 
-Art. 19
--------
+## Art. 21.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 28 OTTOBRE 1980, N. 687](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 28 OTTOBRE 1980, N. 687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
 
-Art. 20
--------
+## Art. 22.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 28 OTTOBRE 1980, N. 687](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 28 OTTOBRE 1980, N. 687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
 
-Art. 21
--------
+## Art. 23.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 28 OTTOBRE 1980, N. 687](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 28 OTTOBRE 1980, N. 687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
 
-Art. 22
--------
+## Art. 24.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 28 OTTOBRE 1980, N. 687](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 28 OTTOBRE 1980, N. 687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
 
-Art. 23
--------
+## Art. 25.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 28 OTTOBRE 1980, N. 687](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 28 OTTOBRE 1980, N. 687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
 
-Art. 24
--------
+## Art. 26.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 28 OTTOBRE 1980, N. 687](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 28 OTTOBRE 1980, N. 687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
 
-Art. 25
--------
+## Art. 27.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 28 OTTOBRE 1980, N. 687](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 28 OTTOBRE 1980, N. 687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
 
-Art. 26
--------
+## Art. 28.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 28 OTTOBRE 1980, N. 687](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
-  
-
-Art. 27
--------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 28 OTTOBRE 1980, N. 687](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
-  
-
-Art. 28
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 28 OTTOBRE 1980, N. 687](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 28 OTTOBRE 1980, N. 687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-10-28;687)

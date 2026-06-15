@@ -1,58 +1,33 @@
-DECRETO-LEGGE 16 dicembre 2014 n. 185
+---
+tipo: DECRETO-LEGGE
+numero: 185
+data: 2014-12-16
+titolo: "Disposizioni urgenti in materia di proroga dei termini di pagamento IMU per i terreni agricoli montani e di interventi di regolazione contabile di fine esercizio finanziario. (14G00200)"
+urn: urn:nir:stato:decreto.legge:2014-12-16;185
+codice_redazionale: 14G00200
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 16 dicembre 2014 n. 185
-=====================================
+DECRETO DECADUTO
 
-Disposizioni urgenti in materia di proroga dei termini di pagamento IMU per i terreni agricoli montani e di interventi di regolazione contabile di fine esercizio finanziario. (14G00200)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 16/12/2014.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
-  
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 3
-------
+## Art. 5.
 
-  
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 4
-------
+## Art. 6.
 
-  
-  
-DECRETO DECADUTO   
-
-Art. 5
-------
-
-  
-  
-DECRETO DECADUTO   
-
-Art. 6
-------
-
-  
-  
-DECRETO DECADUTO   
-
-Allegato 1
-
- Allegato 1   
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

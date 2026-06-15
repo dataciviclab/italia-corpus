@@ -1,137 +1,150 @@
-DECRETO 18 settembre 1997 n. 383
-
-
-DECRETO 18 settembre 1997 n. 383
-================================
-
-Regolamento recante norme per la determinazione dei limiti dei cali tecnicamente ammissibili nella lavorazione dei prodotti soggetti ad accisa, ai fini della concessione dell'abbuono.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 20-11-1997
+---
+tipo: DECRETO
+numero: 383
+data: 1997-09-18
+titolo: "Regolamento recante norme per la determinazione dei limiti dei cali tecnicamente ammissibili nella lavorazione dei prodotti soggetti ad accisa, ai fini della concessione dell'abbuono."
+urn: urn:nir:ministero.finanze:decreto:1997-09-18;383
+codice_redazionale: 097G0413
+vigente: true
+---
 
 IL MINISTRO DELLE FINANZE
--------------------------
 
-Visto il testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, approvato con [decreto legislativo 26 ottobre 1995, n. 504](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-10-26;504);
+Visto il testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, approvato con [decreto legislativo 26 ottobre 1995, n. 504](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md);
 
 Visti l'articolo 67, comma 1, del predetto testo unico, che conferisce al Ministro delle finanze la facolta' di stabilire, con proprio decreto, le norme regolamentari per l'applicazione del testo unico medesimo, nonche' l'articolo 4, comma 2, del testo unico, che prevede, in particolare, che il Ministro delle finanze determini, con proprio decreto, relativamente alle perdite dei prodotti, in regime sospensivo, avvenute durante il processo di fabbricazione o di lavorazione al quale gli stessi vengono sottoposti nel caso in cui e' gia' sorta l'obbligazione tributaria, i cali tecnicamente ammissibili nei limiti dei quali puo' essere concesso l'abbuono d'accisa;
 
-Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3);
+Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
 Udito il parere del Consiglio di Stato espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 23 giugno 1997;
 
-Vista la comunicazione al Presidente del Consiglio dei Ministri effettuata, a norma dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3), con nota n. 3-6228/UCL del 1 settembre 1997;
+Vista la comunicazione al Presidente del Consiglio dei Ministri effettuata, a norma dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), con nota n. 3-6228/UCL del 1 settembre 1997;
 
-Adotta
-------
+Adotta il seguente regolamento:
 
-il seguente regolamento:
+## Art. 1. — Cali di lavorazione degli oli minerali
 
-Art. 1
-------
+1.
 
-Cali di lavorazione degli oli minerali
+In caso di rilavorazione in regime sospensivo, ai sensi dell'articolo 4, comma 2, del testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, approvato con [decreto legislativo 26 ottobre 1995, n. 504](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md), d'ora in avanti denominato "testo unico", di oli minerali soggetti ad accisa, ai fini della loro rimessa a norma, il calo massimo tecnicamente ammissibile entro il quale viene concesso l'abbuono sulle perdite effettivamente verificatesi e' fissato nella misura dell'1 per cento del quantitativo rilavorato, riferita al peso od al volume a seconda del parametro preso a base per la tassazione.
 
-1. In caso di rilavorazione in regime sospensivo, ai sensi dell'articolo 4, comma 2, del testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, approvato con [decreto legislativo 26 ottobre 1995, n. 504](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-10-26;504), d'ora in avanti denominato "testo unico", di oli minerali soggetti ad accisa, ai fini della loro rimessa a norma, il calo massimo tecnicamente ammissibile entro il quale viene concesso l'abbuono sulle perdite effettivamente verificatesi e' fissato nella misura dell'1 per cento del quantitativo rilavorato, riferita al peso od al volume a seconda del parametro preso a base per la tassazione.
+2.
 
-2. A richiesta dell'operatore puo' essere riconosciuto dall'ufficio tecnico di finanza (UTF) o dalla dogana, per le rilavorazioni successive alla richiesta medesima, una misura del calo superiore a quella di cui al comma 1, sulla base di esperimenti effettuati dall'UTF. Analoga procedura viene seguita in caso di lavorazioni in regime sospensivo diverse da quelle previste al comma 1.
+A richiesta dell'operatore puo' essere riconosciuto dall'ufficio tecnico di finanza (UTF) o dalla dogana, per le rilavorazioni successive alla richiesta medesima, una misura del calo superiore a quella di cui al comma 1, sulla base di esperimenti effettuati dall'UTF. Analoga procedura viene seguita in caso di lavorazioni in regime sospensivo diverse da quelle previste al comma 1.
 
-3. Qualora le lavorazioni di cui ai commi 1 e 2 avvengano, su autorizzazione dell'amministrazione finanziaria, promiscuamente con materie prime, con semilavorati o con altri prodotti, l'effettuazione di tali operazioni comporta l'annullamento del carico d'imposta sui prodotti sottoposti alle medesime.  
-Avvertenza:  
-Il testo delle note qui pubblicato e' stato redatto ai sensi dell'articolo 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+3.
 
-Note alle premesse:  
-- Il testo dell'art. 67, comma 1, del testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative (piu' brevemente "testo unico") approvato con [decreto legislativo 26 ottobre 1995, n. 504](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-10-26;504), [pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 279 del 29 novembre 1995](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1995-11-29&numeroGazzetta=279) e' il seguente: "1. Con decreto del Ministro delle finanze, da emanare ai sensi dell'art. 17, comma 3, della legge 23 agosto 1988, n, 400, sono stabilite le norme regolamentari per l'applicazione del presente testo unico, con particolare riferimento all'accertamento e contabilizzazione dell'imposta, all'istituzione dei depositi fiscali, al riconoscimento delle qualita' di operatore professionale, di rappresentante fiscale o di obbligato d'imposta diversa dalle accise, alla concessione di agevolazioni, esenzioni, abbuoni o restituzioni, al riconoscimento di non assoggettabilita' al regime delle accise, all'effettuazione della vigilanza finanziaria e fiscale, alla circolazione e deposito dei prodotti sottoposti ad imposta o a vigilanza fiscale, alla cessione dei contrassegni di Stato, all'istituzione degli uffici finanziari di fabbrica. In attuazione dei criteri di carattere generale stabiliti dalle norme regolamentari, l'amministrazione finanziaria impartisce le disposizioni specifiche per i singoli casi. Fino a quando non saranno emanate le predette norme regolamentari restano in vigore quelle vigenti, in quanto applicabili. I cali ammissibili all'abbuono dell'imposta, fino a quando non saranno determinati con il decreto previsto dall'art. 4, comma 2, si determinano in base alle percentuali stabilite dalle norme vigenti".  
-- Il testo dell'art. 4, comma 2, del testo unico e' il seguente: "2. Per le perdite dei prodotti, in regime sospensivo, avvenute durante il processo di fabbricazione o di lavorazione al quale gli stessi vengono sottoposti nel caso in cui e' gia' sorta l'obbligazione tributaria, l'abbuono e' concesso nei limiti dei cali tecnicamente ammissibili determinati dal Ministro delle finanze con proprio decreto, da emanare ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3)".  
-- Il [comma 3 dell'art. 17 della legge n. 400/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo, essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.  
-Nota all'art. 1:  
-- Per il riferimento all'art. 4, comma 2, del testo unico, vedansi note alle premesse.
+Qualora le lavorazioni di cui ai commi 1 e 2 avvengano, su autorizzazione dell'amministrazione finanziaria, promiscuamente con materie prime, con semilavorati o con altri prodotti, l'effettuazione di tali operazioni comporta l'annullamento del carico d'imposta sui prodotti sottoposti alle medesime.
+ Avvertenza:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'articolo 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
-Art. 2
-------
+Note alle premesse:
+ - Il testo dell'art. 67, comma 1, del testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative (piu' brevemente "testo unico") approvato con [decreto legislativo 26 ottobre 1995, n. 504](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md), pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 279 del 29 novembre 1995 e' il seguente: "1. Con decreto del Ministro delle finanze, da emanare ai sensi dell'art. 17, comma 3, della legge 23 agosto 1988, n, 400, sono stabilite le norme regolamentari per l'applicazione del presente testo unico, con particolare riferimento all'accertamento e contabilizzazione dell'imposta, all'istituzione dei depositi fiscali, al riconoscimento delle qualita' di operatore professionale, di rappresentante fiscale o di obbligato d'imposta diversa dalle accise, alla concessione di agevolazioni, esenzioni, abbuoni o restituzioni, al riconoscimento di non assoggettabilita' al regime delle accise, all'effettuazione della vigilanza finanziaria e fiscale, alla circolazione e deposito dei prodotti sottoposti ad imposta o a vigilanza fiscale, alla cessione dei contrassegni di Stato, all'istituzione degli uffici finanziari di fabbrica. In attuazione dei criteri di carattere generale stabiliti dalle norme regolamentari, l'amministrazione finanziaria impartisce le disposizioni specifiche per i singoli casi. Fino a quando non saranno emanate le predette norme regolamentari restano in vigore quelle vigenti, in quanto applicabili. I cali ammissibili all'abbuono dell'imposta, fino a quando non saranno determinati con il decreto previsto dall'art. 4, comma 2, si determinano in base alle percentuali stabilite dalle norme vigenti".
+ - Il testo dell'art. 4, comma 2, del testo unico e' il seguente: "2. Per le perdite dei prodotti, in regime sospensivo, avvenute durante il processo di fabbricazione o di lavorazione al quale gli stessi vengono sottoposti nel caso in cui e' gia' sorta l'obbligazione tributaria, l'abbuono e' concesso nei limiti dei cali tecnicamente ammissibili determinati dal Ministro delle finanze con proprio decreto, da emanare ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3)".
+ - Il [comma 3 dell'art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo, essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
+ Nota all'art. 1:
+ - Per il riferimento all'art. 4, comma 2, del testo unico, vedansi note alle premesse.
 
-Cali di lavorazione dell'alcole etilico  
-e dei prodotti alcolici
+## Art. 2. — Cali di lavorazione dell'alcole etilico
+ e dei prodotti alcolici
 
-1. In caso di ridistillazione o di rettifica, in regime sospensivo, di alcole etilico o di acquaviti soggetti ad accisa, l'abbuono di cui all'articolo 4, comma 2, del testo unico si applica sulle perdite riscontrate fino alla misura dell'1,5 per cento del quantitativo sottoposto alla rilavorazione.
+1.
 
-2. In caso di rilavorazione della birra promiscuamente con semilavorati o con prodotto non ancora accertato si applicano le disposizioni di cui all'articolo 1, comma 3.
+In caso di ridistillazione o di rettifica, in regime sospensivo, di alcole etilico o di acquaviti soggetti ad accisa, l'abbuono di cui all'articolo 4, comma 2, del testo unico si applica sulle perdite riscontrate fino alla misura dell'1,5 per cento del quantitativo sottoposto alla rilavorazione.
 
-3. Per l'impiego, in regime sospensivo, di alcole etilico, compreso quello contenuto negli aromi, nella preparazione di liquori, di acquaviti e di frutta allo spirito l'abbuono di cui all'articolo 4, comma 2, del testo unico si applica sulle deficienze riscontrate in sede di inventario, purche' non superino le seguenti misure, riferite al periodo preso a base per l'inventario:
+2.
 
-a) 2,5 per cento dell'alcole impiegato, per le perdite connesse alle operazioni di trasformazione e preparazione;
+In caso di rilavorazione della birra promiscuamente con semilavorati o con prodotto non ancora accertato si applicano le disposizioni di cui all'articolo 1, comma 3.
 
-b) le percentuali previste dalla normativa doganale, per i cali naturali relativi al periodo di trasformazione, preparazione e giacenza e per i cali tecnici relativi alle operazioni semplici di condizionamento.
+3.
 
-4. Quando la deficienza riscontrata e' inferiore al calo complessivamente ammissibile, la differenza, fino al limite determinato applicando la percentuale stabilita nel comma 3, lettera a), eventualmente aumentata ai sensi del comma 5, all'alcole contenuto nei prodotti in corso di lavorazione al momento dell'effettuazione dell'inventario, va ad incrementare il calo ammissibile relativo all'inventario successivo.
+Per l'impiego, in regime sospensivo, di alcole etilico, compreso quello contenuto negli aromi, nella preparazione di liquori, di acquaviti e di frutta allo spirito l'abbuono di cui all'articolo 4, comma 2, del testo unico si applica sulle deficienze riscontrate in sede di inventario, purche' non superino le seguenti misure, riferite al periodo preso a base per l'inventario:
+                        a)
+                            2,5 per cento dell'alcole impiegato, per le perdite connesse alle operazioni di trasformazione e preparazione;
+                        b)
+                            le percentuali previste dalla normativa doganale, per i cali naturali relativi al periodo di trasformazione, preparazione e giacenza e per i cali tecnici relativi alle operazioni semplici di condizionamento.
 
-5. Le disposizioni di cui ai commi 3 e 4 si applicano anche all'alcole impiegato in regime sospensivo nella preparazione di prodotti destinati ad usi esenti o all'esportazione.
+4.
 
-6. A richiesta dell'operatore puo' essere riconosciuta dall'UTF o dalla dogana, per le lavorazioni successive alla richiesta medesima, un calo superiore a quello previsto dal comma 3, lettera a), sulla base di esperimenti eseguiti dall'UTF. La medesima procedura di determinazione del calo mediante esperimenti si applica anche nel caso di impiego in regime sospensivo di prodotti alcolici diversi dal'alcole etilico e dagli aromi, di fabbricazione di prodotti diversi da quelli dei commi 3 e 7, o quando nell'opificio venga introdotto, per il completamento della lavorazione, alcole contenuto in prodotti provenienti da altri opifici. Resta ferma la facolta' dell'UTF di eseguire riscontri, mediante esperimenti, per verificare la congruita' delle perdite, anche se contenute nei limiti previsti dai commi 3 e 7; per i depositi sotto il controllo della dogana tali esperimenti vengono effettuati su richiesta della dogana medesima.
+Quando la deficienza riscontrata e' inferiore al calo complessivamente ammissibile, la differenza, fino al limite determinato applicando la percentuale stabilita nel comma 3, lettera a), eventualmente aumentata ai sensi del comma 5, all'alcole contenuto nei prodotti in corso di lavorazione al momento dell'effettuazione dell'inventario, va ad incrementare il calo ammissibile relativo all'inventario successivo.
 
-7. Le disposizioni dei commi 3, 4, 5 e 6 si applicano anche per la preparazione degli aromi, in regime sospensivo, sostituendo alla percentuale indicata nel comma 3, lettera a), quella del 7 per cento.
+5.
 
-8. I fabbricanti dei prodotti di cui ai commi 3, 6 e 7 tengono, secondo modalita' stabilite dall'amministrazione finanziaria, registrazioni contabili, relativamente:
+Le disposizioni di cui ai commi 3 e 4 si applicano anche all'alcole impiegato in regime sospensivo nella preparazione di prodotti destinati ad usi esenti o all'esportazione.
 
-a) al magazzino dell'alcole da impiegare;
+6.
 
-b) all'opificio di trasformazione;
+A richiesta dell'operatore puo' essere riconosciuta dall'UTF o dalla dogana, per le lavorazioni successive alla richiesta medesima, un calo superiore a quello previsto dal comma 3, lettera a), sulla base di esperimenti eseguiti dall'UTF. La medesima procedura di determinazione del calo mediante esperimenti si applica anche nel caso di impiego in regime sospensivo di prodotti alcolici diversi dal'alcole etilico e dagli aromi, di fabbricazione di prodotti diversi da quelli dei commi 3 e 7, o quando nell'opificio venga introdotto, per il completamento della lavorazione, alcole contenuto in prodotti provenienti da altri opifici. Resta ferma la facolta' dell'UTF di eseguire riscontri, mediante esperimenti, per verificare la congruita' delle perdite, anche se contenute nei limiti previsti dai commi 3 e 7; per i depositi sotto il controllo della dogana tali esperimenti vengono effettuati su richiesta della dogana medesima.
 
-c) al magazzino del prodotto condizionato.
+7.
 
-9. Per la scritturazione e la conservazione dei registri utilizzati per le contabilizzazioni di cui al comma 8 si seguono le disposizioni di cui all'[articolo 12 del decreto del Ministro delle finanze 9 luglio 1996, n. 524](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze:decreto:1996-07-09;524~art12).
+Le disposizioni dei commi 3, 4, 5 e 6 si applicano anche per la preparazione degli aromi, in regime sospensivo, sostituendo alla percentuale indicata nel comma 3, lettera a), quella del 7 per cento.
 
-10. Negli opifici di cui al comma 8, le operazioni d'inventario riguardano distintamente il magazzino dell'alcole, l'opificio di trasformazione considerato nel suo complesso ed il magazzino dei prodotti condizionati. Gli inventari ordinari hanno periodicita' annuale; resta ferma la facolta' di effettuare inventari straordinari, quando ritenuto opportuno.
+8.
 
-11. Nei depositi fiscali di vino sono ammessi cali di lavorazione nelle misure derivanti dall'applicazione dell'[articolo 10 del decreto del Ministro delle risorse agricole, alimentari e forestali 19 dicembre 1994, n. 768](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.risorse.agricole.alimentari.forestali:decreto:1994-12-19;768~art10).
+I fabbricanti dei prodotti di cui ai commi 3, 6 e 7 tengono, secondo modalita' stabilite dall'amministrazione finanziaria, registrazioni contabili, relativamente:
+                        a)
+                            al magazzino dell'alcole da impiegare;
+                        b)
+                            all'opificio di trasformazione;
+                        c)
+                            al magazzino del prodotto condizionato.
 
-Note all'art. 2:  
-- Per il riferimento all'art. 4, comma 2, del testo unico, vedansi note alle premesse.  
-- Il testo dell'[art. 12 del decreto ministeriale 9 luglio 1996, n. 524](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1996-07-09;524~art12), recante norme per disciplinare l'impiego dell'alcole etilico e delle bevande alcoliche in usi esenti da accisa, [pubblicato nella Gazzetta Ufficiale n. 237 del 9 ottobre 1996](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1996-10-09&numeroGazzetta=237), e' il seguente:  
-"Art. 12 (Scritturazione e conservazione dei registri). - 1. I registri previsti dal presente regolamento devono essere approntati dalle ditte interessate e sottoposti, prima del loro uso, alla vidimazione dell'UTF competente per territorio.  
-Alla fine dell'esercizio finanziario i registri devono essere chiusi e le giacenze effettive finali devono essere riportate sui registri dell'anno successivo. E' fatto obbligo all'esercente di custodire i registri e la documentazione di accompagnamento per i cinque anni successivi alla chiusura dell'esercizio finanziario.  
-2. I registri possono essere costituiti da schede o da fogli mobili, numerati progressivamente, oppure predisposti in modelli, idonei alla scritturazione mediante procedure informatizzate, preventivamente approvati dal competente UTF.  
-3. I registri ed i documenti di accompagnamento devono essere scritturati senza correzioni o raschiature; le parole e i numeri errati devono essere annullati mediante una linea orizzontale in modo da restare leggibili; le annotazioni esatte devono essere riportate in corrispondenza.  
-4. Oltre che nei casi di scritturazione non conforme al precedente comma 3, si considera irregolare la tenuta del registro quando la differenza fra la giacenza contabile e quella effettiva superi i limiti previsti dalla normativa doganale".  
-- Il testo dell'[art. 10 del decreto del Ministro dell'agricoltura 19 dicembre 1994, n. 760](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.agricoltura:decreto:1994-12-19;760~art10), recante disposizioni nazionali di attuazione delle norme comunitarie relative ai documenti di trasporto ed alla tenuta dei registri dei prodotti vitivinicoli, [pubblicato nella Gazzetta Ufficiale n. 69 del 23 marzo 1995](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1995-03-23&numeroGazzetta=69), e' il seguente:  
-"Art. 10. - 1. Le perdite, i superi e i cali dovuti a lavorazioni, trasformazioni o giacenze, sempre che si verifichino realmente, devono essere riportati nei registri all'atto in cui vengano ultimate le operazioni che li hanno determinati o posti in evidenza. Le perdite, i superi e i cali che, in una campagna vitivinicola, risultino maggiori dell'1,5% ragguagliato ad anno e rapportato al complesso delle singole quantita' detenute, ancorche' cedute, devono essere comunicati ed adeguatamente motivati, all'ufficio periferico dell'Ispettorato centrale repressione frodi competente per territorio, all'atto in cui si accertano e, comunque, entro la data stabilita per la presentazione delle dichiarazioni di giacenza di cui al [regolamento CEE n. 3929/87](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31987R3929).  
-2. Nella percentuale di cui al precedente comma non rientrano le quantita' di prodotti distrutti o perduti per causa di forza maggiore: tale distruzione o perdita deve essere immediatamente comunicata, a mezzo lettera raccomandata, all'ufficio periferico dell'Ispettorato centrale repressione frodi competente per territorio e annotata nei registri".
+9.
 
-Art. 3
-------
+Per la scritturazione e la conservazione dei registri utilizzati per le contabilizzazioni di cui al comma 8 si seguono le disposizioni di cui all'[articolo 12 del decreto del Ministro delle finanze 9 luglio 1996, n. 524](Regolamento%20recante%20norme%20per%20disciplinare%20limpiego%20dellalcole%20etilico%20e%20delle%20bevande%20alcoliche%20in%20usi%20esenti%20da%20accisa.md).
 
-Disposizioni comuni
+10.
 
-1. Qualora vengano sottoposti a lavorazione promiscuamente prodotti allo stato estero e prodotti in regime sospensivo, i cali ammissibili sono quelli stabiliti dalla normativa doganale.
+Negli opifici di cui al comma 8, le operazioni d'inventario riguardano distintamente il magazzino dell'alcole, l'opificio di trasformazione considerato nel suo complesso ed il magazzino dei prodotti condizionati. Gli inventari ordinari hanno periodicita' annuale; resta ferma la facolta' di effettuare inventari straordinari, quando ritenuto opportuno.
 
-2. In caso di variazione d'aliquota nel periodo cui si riferisce l'inventario, la liquidazione dell'imposta e' effettuata ripartendo le deficienze eccedenti i cali ammissibili all'abbuono proporzionalmente ai periodi di vigenza delle diverse aliquote.
+11.
 
-Art. 4
-------
+Nei depositi fiscali di vino sono ammessi cali di lavorazione nelle misure derivanti dall'applicazione dell'[articolo 10 del decreto del Ministro delle risorse agricole, alimentari e forestali 19 dicembre 1994, n. 768](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.risorse.agricole.alimentari.forestali:decreto:1994-12-19;768#art_10).
 
-Disposizioni transitorie
+Note all'art. 2:
+ - Per il riferimento all'art. 4, comma 2, del testo unico, vedansi note alle premesse.
+ - Il testo dell'[art. 12 del decreto ministeriale 9 luglio 1996, n. 524](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1996-07-09;524#art_12), recante norme per disciplinare l'impiego dell'alcole etilico e delle bevande alcoliche in usi esenti da accisa, pubblicato nella Gazzetta Ufficiale n. 237 del 9 ottobre 1996, e' il seguente:
+ "Art. 12 (Scritturazione e conservazione dei registri). - 1. I registri previsti dal presente regolamento devono essere approntati dalle ditte interessate e sottoposti, prima del loro uso, alla vidimazione dell'UTF competente per territorio.
+ Alla fine dell'esercizio finanziario i registri devono essere chiusi e le giacenze effettive finali devono essere riportate sui registri dell'anno successivo. E' fatto obbligo all'esercente di custodire i registri e la documentazione di accompagnamento per i cinque anni successivi alla chiusura dell'esercizio finanziario.
+ 2. I registri possono essere costituiti da schede o da fogli mobili, numerati progressivamente, oppure predisposti in modelli, idonei alla scritturazione mediante procedure informatizzate, preventivamente approvati dal competente UTF.
+ 3. I registri ed i documenti di accompagnamento devono essere scritturati senza correzioni o raschiature; le parole e i numeri errati devono essere annullati mediante una linea orizzontale in modo da restare leggibili; le annotazioni esatte devono essere riportate in corrispondenza.
+ 4. Oltre che nei casi di scritturazione non conforme al precedente comma 3, si considera irregolare la tenuta del registro quando la differenza fra la giacenza contabile e quella effettiva superi i limiti previsti dalla normativa doganale".
+ - Il testo dell'[art. 10 del decreto del Ministro dell'agricoltura 19 dicembre 1994, n. 760](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.agricoltura:decreto:1994-12-19;760#art_10), recante disposizioni nazionali di attuazione delle norme comunitarie relative ai documenti di trasporto ed alla tenuta dei registri dei prodotti vitivinicoli, pubblicato nella Gazzetta Ufficiale n. 69 del 23 marzo 1995, e' il seguente:
+ "Art. 10. - 1. Le perdite, i superi e i cali dovuti a lavorazioni, trasformazioni o giacenze, sempre che si verifichino realmente, devono essere riportati nei registri all'atto in cui vengano ultimate le operazioni che li hanno determinati o posti in evidenza. Le perdite, i superi e i cali che, in una campagna vitivinicola, risultino maggiori dell'1,5% ragguagliato ad anno e rapportato al complesso delle singole quantita' detenute, ancorche' cedute, devono essere comunicati ed adeguatamente motivati, all'ufficio periferico dell'Ispettorato centrale repressione frodi competente per territorio, all'atto in cui si accertano e, comunque, entro la data stabilita per la presentazione delle dichiarazioni di giacenza di cui al regolamento CEE n. 3929/87.
+ 2. Nella percentuale di cui al precedente comma non rientrano le quantita' di prodotti distrutti o perduti per causa di forza maggiore: tale distruzione o perdita deve essere immediatamente comunicata, a mezzo lettera raccomandata, all'ufficio periferico dell'Ispettorato centrale repressione frodi competente per territorio e annotata nei registri".
 
-1. Il precedente regime di abbuono dei cali di lavorazione dell'alcole etilico si applica fino al primo inventario successivo alla data di entrata in vigore del presente regolamento. I fabbricanti che intendano beneficiare immediatamente della nuova normativa comunicano all'UTF o alla dogana competenti la consistenza delle giacenze, rilevata sotto la propria responsabilita', perche' sia presa a base per l'elaborazione del primo inventario, riferito alla data del rilevamento della consistenza delle giacenze.
+## Art. 3. — Disposizioni comuni
 
-2. All'alcole contenuto nei prodotti in corso di lavorazione al momento dell'effettuazione del primo inventario, si applica, in occasione dell'inventario successivo, la percentuale di cui all'articolo 2, comma 3, lettera a).
+1.
 
-Art. 5
-------
+Qualora vengano sottoposti a lavorazione promiscuamente prodotti allo stato estero e prodotti in regime sospensivo, i cali ammissibili sono quelli stabiliti dalla normativa doganale.
 
-Abrogazione di norme
+2.
 
-1. Il [decreto del Ministro delle finanze 21 settembre 1988, n. 437](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze:decreto:1988-09-21;437), si intende abrogato.
+In caso di variazione d'aliquota nel periodo cui si riferisce l'inventario, la liquidazione dell'imposta e' effettuata ripartendo le deficienze eccedenti i cali ammissibili all'abbuono proporzionalmente ai periodi di vigenza delle diverse aliquote.
+
+## Art. 4. — Disposizioni transitorie
+
+1.
+
+Il precedente regime di abbuono dei cali di lavorazione dell'alcole etilico si applica fino al primo inventario successivo alla data di entrata in vigore del presente regolamento. I fabbricanti che intendano beneficiare immediatamente della nuova normativa comunicano all'UTF o alla dogana competenti la consistenza delle giacenze, rilevata sotto la propria responsabilita', perche' sia presa a base per l'elaborazione del primo inventario, riferito alla data del rilevamento della consistenza delle giacenze.
+
+2.
+
+All'alcole contenuto nei prodotti in corso di lavorazione al momento dell'effettuazione del primo inventario, si applica, in occasione dell'inventario successivo, la percentuale di cui all'articolo 2, comma 3, lettera a).
+
+## Art. 5. — Abrogazione di norme
+
+1.
+
+Il [decreto del Ministro delle finanze 21 settembre 1988, n. 437](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20le%20ditte%20produttrici%20di%20bevande%20alcoliche%20per%20lapplicazione%20dellart.%205%20del%20decreto-legge%2015%20giugno%201984%20n.%20232%20convertito%20con%20modificazioni%20nella%20legge%2028%20luglio%201984%20n.%20408.md), si intende abrogato.
+
+Nota all'[art. 5:
+ - Il decreto ministeriale 21 settembre 1988, n. 437](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1988-09-21;437#art_5), recante disposizioni per le ditte produttrici di bevande alcoliche, e' stato pubblicato nella Gazzetta Ufficiale n. 243 del 15 ottobre 1988.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 18 settembre 1997
+Roma, 18 settembre 1997
 
-Il Ministro: Visco
-
-Visto, il Guardasigilli: Flick Registrato alla Corte dei conti il 22 ottobre 1997
-
-Registro n. 2 Finanze, foglio n. 295
-
-Nota all'[art. 5:  
-- Il decreto ministeriale 21 settembre 1988, n. 437](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1988-09-21;437~art5), recante disposizioni per le ditte produttrici di bevande alcoliche, e' stato [pubblicato nella Gazzetta Ufficiale n. 243 del 15 ottobre 1988](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1988-10-15&numeroGazzetta=243).
+Il Ministro: Visco Visto, il Guardasigilli: Flick Registrato alla Corte dei conti il 22 ottobre 1997 Registro n. 2 Finanze, foglio n. 295

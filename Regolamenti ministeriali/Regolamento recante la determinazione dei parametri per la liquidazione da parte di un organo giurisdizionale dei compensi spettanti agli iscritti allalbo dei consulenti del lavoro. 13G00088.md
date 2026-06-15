@@ -1,344 +1,252 @@
-DECRETO 21 febbraio 2013 n. 46
-
-
-DECRETO 21 febbraio 2013 n. 46
-==============================
-
-Regolamento recante la determinazione dei parametri per la liquidazione da parte di un organo giurisdizionale, dei compensi spettanti agli iscritti all'albo dei consulenti del lavoro. (13G00088)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/05/2013
+---
+tipo: DECRETO
+numero: 46
+data: 2013-02-21
+titolo: "Regolamento recante la determinazione dei parametri per la liquidazione da parte di un organo giurisdizionale, dei compensi spettanti agli iscritti all'albo dei consulenti del lavoro. (13G00088)"
+urn: urn:nir:ministero.lavoro.e.politiche.sociali:decreto:2013-02-21;46
+codice_redazionale: 13G00088
+vigente: true
+---
 
 IL MINISTRO DEL LAVORO
-----------------------
 
 E DELLE POLITICHE SOCIALI
 
-Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3);
+Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-Visto l'articolo 9, comma 2, primo periodo, del [decreto-legge 24 gennaio 2012, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-01-24;1), convertito, con modificazioni, dalla [legge 24 marzo 2012, n. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-03-24;27) che prevede «nel caso di liquidazione da parte di un organo giurisdizionale, il compenso del professionista», appartenente alle professioni regolamentate nel sistema ordinistico, «e' determinato con riferimento a parametri stabiliti con decreto del Ministro vigilante»;
+Visto l'articolo 9, comma 2, primo periodo, del [decreto-legge 24 gennaio 2012, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-01-24;1), convertito, con modificazioni, dalla [legge 24 marzo 2012, n. 27](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20gennaio%202012%20n.%201%20recante%20disposizioni%20urgenti%20per%20la%20concorrenza%20lo%20sviluppo%20delle%20infrastrutture%20e%20la%20competitivita.%2012G0048.md) che prevede «nel caso di liquidazione da parte di un organo giurisdizionale, il compenso del professionista», appartenente alle professioni regolamentate nel sistema ordinistico, «e' determinato con riferimento a parametri stabiliti con decreto del Ministro vigilante»;
 
-Vista la [legge 11 gennaio 1979, n. 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-01-11;12), recante «Norme per l'ordinamento della professione di consulente del lavoro»;
+Vista la [legge 11 gennaio 1979, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-01-11;12), recante «Norme per l'ordinamento della professione di consulente del lavoro»;
 
-Acquisita l'intesa del Ministro della Giustizia, ai sensi dell'articolo 25, primo comma della citata [legge 11 gennaio 1979, n. 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-01-11;12);
+Acquisita l'intesa del Ministro della Giustizia, ai sensi dell'articolo 25, primo comma della citata [legge 11 gennaio 1979, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-01-11;12);
 
-Udito il [parere del Consiglio di Stato n. 12414/2012](https://e-justice.europa.eu/ecli/ECLI::::), favorevole con osservazioni, espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 20 dicembre 2012;
+Udito il parere del Consiglio di Stato n. 12414/2012, favorevole con osservazioni, espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 20 dicembre 2012;
 
 Vista la comunicazione alla Presidenza del Consiglio dei Ministri in data 8 febbraio 2013;
 
-Adotta
-------
+Adotta il seguente regolamento:
 
-il seguente regolamento:
+## Disposizioni generali
 
-CAPO I Sezione I Disposizioni generali
---------------------------------------
+Sezione I
 
-### Art. 1
+### Art. 1. — Regole generali
 
-Regole generali
+1.
 
-1. L'organo giurisdizionale che deve liquidare il compenso dei professionisti iscritti nell' Albo dei Consulenti del lavoro, applica, in difetto di accordo tra le parti in ordine allo stesso compenso, le disposizioni del presente decreto. L'organo giurisdizionale puo' sempre applicare analogicamente, le disposizioni del presente decreto ai casi non espressamente regolati dallo stesso.
+L'organo giurisdizionale che deve liquidare il compenso dei professionisti iscritti nell' Albo dei Consulenti del lavoro, applica, in difetto di accordo tra le parti in ordine allo stesso compenso, le disposizioni del presente decreto. L'organo giurisdizionale puo' sempre applicare analogicamente, le disposizioni del presente decreto ai casi non espressamente regolati dallo stesso.
 
-2. Nei compensi non sono comprese le spese da rimborsare secondo qualsiasi modalita', inclusa quella concordata in modo forfettario.  
+2.
+
+Nei compensi non sono comprese le spese da rimborsare secondo qualsiasi modalita', inclusa quella concordata in modo forfettario.
 Non sono altresi' compresi oneri e contributi dovuti a qualsiasi titolo. I costi degli ausiliari incaricati dal professionista sono ricompresi tra le spese dello stesso. Il provvedimento di liquidazione indica in modo distinto l'ammontare del compenso dovuto al professionista, delle spese, degli oneri e dei contributi, nonche' il totale onnicomprensivo di tali voci.
 
-3. I compensi liquidati comprendono l'intero corrispettivo per la prestazione professionale, incluse le attivita' accessorie alla stessa.
+3.
 
-4. Nel caso di incarico collegiale, il compenso e' unico, ma l'organo giurisdizionale puo' aumentarlo fino al doppio. Quando l'incarico professionale e' conferito a una societa' tra professionisti, si applica il compenso spettante a uno solo di essi, anche per la stessa prestazione eseguita da piu' soci.
+I compensi liquidati comprendono l'intero corrispettivo per la prestazione professionale, incluse le attivita' accessorie alla stessa.
 
-5. Per gli incarichi non conclusi o che siano prosecuzione di precedenti incarichi, si tiene conto dell'opera effettivamente svolta.
+4.
 
-6. L'assenza di prova del preventivo di massima di cui all'articolo 9, comma 4, terzo periodo del [decreto-legge 24 gennaio 2012, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-01-24;1), convertito con modificazioni dalla [legge 24 marzo 2012, n. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-03-24;27), costituisce elemento di valutazione negativa da parte dell'organo giurisdizionale per la liquidazione del compenso.
+Nel caso di incarico collegiale, il compenso e' unico, ma l'organo giurisdizionale puo' aumentarlo fino al doppio. Quando l'incarico professionale e' conferito a una societa' tra professionisti, si applica il compenso spettante a uno solo di essi, anche per la stessa prestazione eseguita da piu' soci.
 
-7. In nessun caso le soglie numeriche indicate nel presente decreto e nelle tabelle allegate per la liquidazione del compenso, anche a mezzo di percentuale, sia nei minimi che nei massimi, sono vincolanti per la liquidazione stessa.
+5.
 
-NOTE   
-Avvertenza:   
-Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.   
-Note alle premesse:   
-Il testo dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), e' il seguente:   
-«Art. 17. (Regolamenti). - (Omissis).   
-3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del ministro o di autorita' sottordinate al ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.  
-I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei ministri prima della loro emanazione.».   
-Il testo dell'[art. 9, comma 2, del decreto-legge 24 gennaio 2012, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-01-24;1~art9-com2), convertito, con modificazioni, dalla [legge 24 marzo 2012, n. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-03-24;27) (Disposizioni urgenti per la concorrenza, lo sviluppo delle infrastrutture e la competitivita'), e' il seguente:   
-«Art. 9. (Disposizioni sulle professioni regolamentate). - (In vigore dal 26 giugno 2012) - (Omissis).   
-2.Ferma restando l'abrogazione di cui al comma 1, nel caso di liquidazione da parte di un organo giurisdizionale, il compenso del professionista e' determinato con riferimento a parametri stabiliti con decreto del Ministro vigilante, da adottare nel termine di centoventi giorni successivi alla data di entrata in vigore della legge di conversione del presente decreto. Entro lo stesso termine, con decreto del Ministro della giustizia, di concerto con il Ministro dell'economia e delle finanze, sono anche stabiliti i parametri per oneri e contribuzioni alle casse professionali e agli archivi precedentemente basati sulle tariffe. Il decreto deve salvaguardare l'equilibrio finanziario, anche di lungo periodo, delle casse previdenziali professionali. Ai fini della determinazione dei corrispettivi da porre a base di gara nelle procedure di affidamento di contratti pubblici dei servizi relativi all'architettura e all'ingegneria di cui alla parte II, titolo I, capo IV del [decreto legislativo 12 aprile 2006, n. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163), si applicano i parametri individuati con il decreto di cui al primo periodo, da emanarsi, per gli aspetti relativi alle disposizioni di cui al presente periodo, di concerto con il Ministro delle infrastrutture e dei trasporti; con il medesimo decreto sono altresi' definite le classificazioni delle prestazioni professionali relative ai predetti servizi. I parametri individuati non possono condurre alla determinazione di un importo a base di gara superiore a quello derivante dall'applicazione delle tariffe professionali vigenti prima dell'entrata in vigore del presente decreto.».   
-La [legge 11 gennaio 1979, n. 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-01-11;12) (Norme per l'ordinamento della professione di consulente del lavoro) e' pubblicata nella Gazzetta Ufficiale 20 gennaio 1979, n. 20.   
-Il testo dell'art. 25 della citata [legge n. 12 del 1979](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979;12) e' il seguente:   
-«Art. 25. (Vigilanza sul Consiglio nazionale). - La vigilanza sul Consiglio nazionale e' esercitata dal Ministro del lavoro e della previdenza sociale d'intesa con il Ministro della giustizia.   
-Il Consiglio nazionale puo' essere sciolto se non sia in grado di funzionare o in caso di constatate gravi irregolarita'.   
-In caso di scioglimento del Consiglio nazionale le relative funzioni sono affidate a un commissario straordinario, che provvede entro novanta giorni ad indire le elezioni del Consiglio.   
-Lo scioglimento del Consiglio e la nomina del commissario sono disposti con decreto del Ministro del lavoro e della previdenza sociale di concerto con il Ministro della giustizia.».   
-  
-Note all'art. 1:   
-Il testo dell'art. 9, comma 4, del citato [decreto-legge n. 1 del 2012](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012;1), e' il seguente:   
-«Art. 9. (Disposizioni sulle professioni regolamentate). - (In vigore dal 26 giugno 2012) - (Omissis).   
-4. Il compenso per le prestazioni professionali e' pattuito, nelle forme previste dall'ordinamento, al momento del conferimento dell'incarico professionale. Il professionista deve rendere noto al cliente il grado di complessita' dell'incarico, fornendo tutte le informazioni utili circa gli oneri ipotizzabili dal momento del conferimento fino alla conclusione dell'incarico e deve altresi' indicare i dati della polizza assicurativa per i danni provocati nell'esercizio dell'attivita' professionale. In ogni caso la misura del compenso e' previamente resa nota al cliente con un preventivo di massima, deve essere adeguata all'importanza dell'opera e va pattuita indicando per le singole prestazioni tutte le voci di costo, comprensive di spese, oneri e contributi. Al tirocinante e' riconosciuto un rimborso spese forfettariamente concordato dopo i primi sei mesi di tirocinio.».
+Per gli incarichi non conclusi o che siano prosecuzione di precedenti incarichi, si tiene conto dell'opera effettivamente svolta.
 
-### Art. 2
+6.
+
+L'assenza di prova del preventivo di massima di cui all'articolo 9, comma 4, terzo periodo del [decreto-legge 24 gennaio 2012, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-01-24;1), convertito con modificazioni dalla [legge 24 marzo 2012, n. 27](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20gennaio%202012%20n.%201%20recante%20disposizioni%20urgenti%20per%20la%20concorrenza%20lo%20sviluppo%20delle%20infrastrutture%20e%20la%20competitivita.%2012G0048.md), costituisce elemento di valutazione negativa da parte dell'organo giurisdizionale per la liquidazione del compenso.
+
+7.
+
+In nessun caso le soglie numeriche indicate nel presente decreto e nelle tabelle allegate per la liquidazione del compenso, anche a mezzo di percentuale, sia nei minimi che nei massimi, sono vincolanti per la liquidazione stessa.
+
+NOTE 
+ Avvertenza: 
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ Note alle premesse: 
+ Il testo dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), e' il seguente: 
+ «Art. 17. (Regolamenti). - (Omissis). 
+ 3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del ministro o di autorita' sottordinate al ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.
+ I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei ministri prima della loro emanazione.». 
+ Il testo dell'[art. 9, comma 2, del decreto-legge 24 gennaio 2012, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-01-24;1#art_9-com2), convertito, con modificazioni, dalla [legge 24 marzo 2012, n. 27](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20gennaio%202012%20n.%201%20recante%20disposizioni%20urgenti%20per%20la%20concorrenza%20lo%20sviluppo%20delle%20infrastrutture%20e%20la%20competitivita.%2012G0048.md) (Disposizioni urgenti per la concorrenza, lo sviluppo delle infrastrutture e la competitivita'), e' il seguente: 
+ «Art. 9. (Disposizioni sulle professioni regolamentate). - (In vigore dal 26 giugno 2012) - (Omissis). 
+ 2.Ferma restando l'abrogazione di cui al comma 1, nel caso di liquidazione da parte di un organo giurisdizionale, il compenso del professionista e' determinato con riferimento a parametri stabiliti con decreto del Ministro vigilante, da adottare nel termine di centoventi giorni successivi alla data di entrata in vigore della legge di conversione del presente decreto. Entro lo stesso termine, con decreto del Ministro della giustizia, di concerto con il Ministro dell'economia e delle finanze, sono anche stabiliti i parametri per oneri e contribuzioni alle casse professionali e agli archivi precedentemente basati sulle tariffe. Il decreto deve salvaguardare l'equilibrio finanziario, anche di lungo periodo, delle casse previdenziali professionali. Ai fini della determinazione dei corrispettivi da porre a base di gara nelle procedure di affidamento di contratti pubblici dei servizi relativi all'architettura e all'ingegneria di cui alla parte II, titolo I, capo IV del [decreto legislativo 12 aprile 2006, n. 163](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), si applicano i parametri individuati con il decreto di cui al primo periodo, da emanarsi, per gli aspetti relativi alle disposizioni di cui al presente periodo, di concerto con il Ministro delle infrastrutture e dei trasporti; con il medesimo decreto sono altresi' definite le classificazioni delle prestazioni professionali relative ai predetti servizi. I parametri individuati non possono condurre alla determinazione di un importo a base di gara superiore a quello derivante dall'applicazione delle tariffe professionali vigenti prima dell'entrata in vigore del presente decreto.». 
+ La [legge 11 gennaio 1979, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-01-11;12) (Norme per l'ordinamento della professione di consulente del lavoro) e' pubblicata nella Gazzetta Ufficiale 20 gennaio 1979, n. 20. 
+ Il testo dell'art. 25 della citata [legge n. 12 del 1979](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979;12) e' il seguente: 
+ «Art. 25. (Vigilanza sul Consiglio nazionale). - La vigilanza sul Consiglio nazionale e' esercitata dal Ministro del lavoro e della previdenza sociale d'intesa con il Ministro della giustizia. 
+ Il Consiglio nazionale puo' essere sciolto se non sia in grado di funzionare o in caso di constatate gravi irregolarita'. 
+ In caso di scioglimento del Consiglio nazionale le relative funzioni sono affidate a un commissario straordinario, che provvede entro novanta giorni ad indire le elezioni del Consiglio. 
+ Lo scioglimento del Consiglio e la nomina del commissario sono disposti con decreto del Ministro del lavoro e della previdenza sociale di concerto con il Ministro della giustizia.». 
+ 
+ Note all'art. 1: 
+ Il testo dell'art. 9, comma 4, del citato [decreto-legge n. 1 del 2012](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012;1), e' il seguente: 
+ «Art. 9. (Disposizioni sulle professioni regolamentate). - (In vigore dal 26 giugno 2012) - (Omissis). 
+ 4. Il compenso per le prestazioni professionali e' pattuito, nelle forme previste dall'ordinamento, al momento del conferimento dell'incarico professionale. Il professionista deve rendere noto al cliente il grado di complessita' dell'incarico, fornendo tutte le informazioni utili circa gli oneri ipotizzabili dal momento del conferimento fino alla conclusione dell'incarico e deve altresi' indicare i dati della polizza assicurativa per i danni provocati nell'esercizio dell'attivita' professionale. In ogni caso la misura del compenso e' previamente resa nota al cliente con un preventivo di massima, deve essere adeguata all'importanza dell'opera e va pattuita indicando per le singole prestazioni tutte le voci di costo, comprensive di spese, oneri e contributi. Al tirocinante e' riconosciuto un rimborso spese forfettariamente concordato dopo i primi sei mesi di tirocinio.».
+
+### Art. 2.
 
 Tipologia di attivita'
 
-1. Per l'applicazione delle disposizioni del presente decreto, sono individuate le seguenti attivita' svolte dai Consulenti del lavoro:
+1.
 
-a) amministrazione del personale (subordinato, autonomo e parasubordinato);
+Per l'applicazione delle disposizioni del presente decreto, sono individuate le seguenti attivita' svolte dai Consulenti del lavoro:
+                            a)
+                                amministrazione del personale (subordinato, autonomo e parasubordinato);
+                            b)
+                                calcolo del costo del lavoro, determinazione e calcolo del trattamento di fine rapporto;
+                            c)
+                                ammortizzatori sociali;
+                            d)
+                                risoluzione rapporti;
+                            e)
+                                dichiarazioni e denunce previdenziali, assistenziali, assicurative e fiscali;
+                            f)
+                                contenzioso fiscale, dichiarazioni e prestazioni amministrative, contabili, fiscali-tributarie;
+                            g)
+                                contenzioso del lavoro, amministrativo, previdenziale, assicurativo, sindacale, giudiziale e stragiudiziale;
+                            h)
+                                contrattualistica;
+                            i)
+                                consulenze tecniche di parte;
+                            l)
+                                altre prestazioni specifiche e compensi a tempo.
 
-b) calcolo del costo del lavoro, determinazione e calcolo del trattamento di fine rapporto;
+### Art. 3. — Definizioni
 
-c) ammortizzatori sociali;
+Ai fini del presente decreto, si intendono per: 
+ a) «professionista iscritto nell'Albo dei Consulenti del lavoro»: il Consulente del lavoro iscritto nell'Albo; 
+ b) «valore medio»: l'entita' numerica espressa in euro che costituisce il parametro di base per la liquidazione delle singole attivita' professionali, partendo dal valore complessivo dell'oggetto dell'attivita' professionale o, piu' in generale, dell'affare trattato; 
+ c) «valore medio della liquidazione»: l'entita' numerica espressa in euro che costituisce il parametro di base per la liquidazione delle singole attivita' professionali, partendo da un valore economico di base di volta in volta individuato nelle tabelle allegate al presente decreto; 
+ d) «adempimenti in materia di lavoro, previdenza e assistenza sociale»: la predisposizione su richiesta ed interesse del cliente di atti e documenti inerenti alla gestione dei rapporti di lavoro; 
+ e) «consulenza del lavoro»: la consulenza in qualsiasi materia giuslavoristica, di carattere generale o specifico, prestata per l'analisi della legislazione, dell'interpretazione e dell'applicazione, anche giurisprudenziale, di disposizioni e problemi specifici, anche in sede di assistenza previdenziale, assistenziale e tributaria e in ambito contenzioso; 
+ f) «consulenza e rappresentanza tributaria»: la consulenza in qualsiasi materia tributaria e l'intervento personale, quale mandatario del cliente, presso gli uffici tributari, le commissioni tributarie e in qualunque altra sede anche in relazione alle verifiche fiscali, nonche' ogni adempimento amministrativo contabile e dichiarativo; 
+ g) «ammortizzatori sociali»: ogni misura di agevolazione e sostegno alle imprese che comporti una integrazione del reddito dei lavoratori.
 
-d) risoluzione rapporti;
+### Art. 4. — Parametri generali
 
-e) dichiarazioni e denunce previdenziali, assistenziali, assicurative e fiscali;
+1.
 
-f) contenzioso fiscale, dichiarazioni e prestazioni amministrative, contabili, fiscali-tributarie;
+Il compenso del professionista e' determinato con riferimento ai seguenti parametri:
+                            a)
+                                valore e natura della pratica;
+                            b)
+                                importanza, difficolta', complessita' della pratica;
+                            c)
+                                condizioni d'urgenza per l'espletamento dell'incarico;
+                            d)
+                                risultati e vantaggi, anche non economici, ottenuti dal cliente;
+                            e)
+                                impegno profuso e pregio dell'opera prestata, anche in considerazione del tempo impiegato;
 
-g) contenzioso del lavoro, amministrativo, previdenziale, assicurativo, sindacale, giudiziale e stragiudiziale;
+2.
 
-h) contrattualistica;
+Il valore della prestazione e' determinato, in relazione alle singole attivita' svolte dal professionista, secondo i criteri specificati nelle disposizioni della sezione seconda del presente decreto.
 
-i) consulenze tecniche di parte;
+3.
 
-l) altre prestazioni specifiche e compensi a tempo.
+Il compenso e' di norma liquidato, salve le ulteriori variazioni determinate dai parametri di cui al comma 1, applicando al valore della prestazione le percentuali variabili stabilite nella tabella A allegata, nonche' utilizzando, di norma, gli ulteriori valori monetari indicati nella stessa tabella.
 
-### Art. 3
+4.
 
-Definizioni
+In via generale, i valori medi e le percentuali degli scaglioni superiori vanno applicati sull'eccedenza rispetto allo scaglione precedente.
 
-  
-  
-Ai fini del presente decreto, si intendono per:   
-a) «professionista iscritto nell'Albo dei Consulenti del lavoro»: il Consulente del lavoro iscritto nell'Albo;   
-b) «valore medio»: l'entita' numerica espressa in euro che costituisce il parametro di base per la liquidazione delle singole attivita' professionali, partendo dal valore complessivo dell'oggetto dell'attivita' professionale o, piu' in generale, dell'affare trattato;   
-c) «valore medio della liquidazione»: l'entita' numerica espressa in euro che costituisce il parametro di base per la liquidazione delle singole attivita' professionali, partendo da un valore economico di base di volta in volta individuato nelle tabelle allegate al presente decreto;   
-d) «adempimenti in materia di lavoro, previdenza e assistenza sociale»: la predisposizione su richiesta ed interesse del cliente di atti e documenti inerenti alla gestione dei rapporti di lavoro;   
-e) «consulenza del lavoro»: la consulenza in qualsiasi materia giuslavoristica, di carattere generale o specifico, prestata per l'analisi della legislazione, dell'interpretazione e dell'applicazione, anche giurisprudenziale, di disposizioni e problemi specifici, anche in sede di assistenza previdenziale, assistenziale e tributaria e in ambito contenzioso;   
-f) «consulenza e rappresentanza tributaria»: la consulenza in qualsiasi materia tributaria e l'intervento personale, quale mandatario del cliente, presso gli uffici tributari, le commissioni tributarie e in qualunque altra sede anche in relazione alle verifiche fiscali, nonche' ogni adempimento amministrativo contabile e dichiarativo;   
-g) «ammortizzatori sociali»: ogni misura di agevolazione e sostegno alle imprese che comporti una integrazione del reddito dei lavoratori.   
+### Art. 5. — Maggiorazioni e riduzioni
 
-### Art. 4
+1.
 
-Parametri generali
+Per le pratiche di eccezionale importanza, complessita' o difficolta', ovvero per le prestazioni compiute in condizioni di particolare urgenza, al compenso del professionista puo' essere applicata una maggiorazione nella misura massima del 100 per cento.
 
-1. Il compenso del professionista e' determinato con riferimento ai seguenti parametri:
+2.
 
-a) valore e natura della pratica;
+Nel caso in cui la prestazione possa essere eseguita in modo celere e non implichi la soluzione di questioni rilevanti, al compenso del professionista puo' essere applicata una riduzione nella misura minima del 50 per cento.
 
-b) importanza, difficolta', complessita' della pratica;
+## Parametri specifici
 
-c) condizioni d'urgenza per l'espletamento dell'incarico;
+Sezione II
 
-d) risultati e vantaggi, anche non economici, ottenuti dal cliente;
+### Art. 6. — Amministrazione del personale
 
-e) impegno profuso e pregio dell'opera prestata, anche in considerazione del tempo impiegato;
+1.
 
-2. Il valore della prestazione e' determinato, in relazione alle singole attivita' svolte dal professionista, secondo i criteri specificati nelle disposizioni della sezione seconda del presente decreto.
+Il valore della prestazione per la liquidazione relativa ad incarichi di amministrazione del personale e' determinato dalla sommatoria degli emolumenti lordi e il compenso e' liquidato, di norma, in misura pari a quanto indicato nel riquadro 1 della tabella A.
 
-3. Il compenso e' di norma liquidato, salve le ulteriori variazioni determinate dai parametri di cui al comma 1, applicando al valore della prestazione le percentuali variabili stabilite nella tabella A allegata, nonche' utilizzando, di norma, gli ulteriori valori monetari indicati nella stessa tabella.
+### Art. 7. — Calcolo del costo del lavoro, determinazione e calcolo del trattamento di fine rapporto
 
-4. In via generale, i valori medi e le percentuali degli scaglioni superiori vanno applicati sull'eccedenza rispetto allo scaglione precedente.
+1.
 
-### Art. 5
+Il valore della prestazione per il calcolo del costo del lavoro e per la determinazione e il calcolo del trattamento di fine rapporto e' determinato dalla sommatoria del numero dei dipendenti e il compenso e' liquidato, di norma, in misura pari a quanto indicato nel riquadro 2 della tabella A.
 
-Maggiorazioni e riduzioni
+### Art. 8. — Ammortizzatori sociali
 
-1. Per le pratiche di eccezionale importanza, complessita' o difficolta', ovvero per le prestazioni compiute in condizioni di particolare urgenza, al compenso del professionista puo' essere applicata una maggiorazione nella misura massima del 100 per cento.
+1.
 
-2. Nel caso in cui la prestazione possa essere eseguita in modo celere e non implichi la soluzione di questioni rilevanti, al compenso del professionista puo' essere applicata una riduzione nella misura minima del 50 per cento.
+Il valore della prestazione per la consulenza e l'assistenza in materia di ammortizzatori sociali e' determinato dalla sommatoria degli emolumenti orari lordi richiesti a favore dei lavoratori dipendenti e il compenso e' liquidato, di norma, in misura pari a quanto indicato nel riquadro 3 della tabella A.
 
-CAPO II Sezione II Parametri specifici
---------------------------------------
+### Art. 9. — Risoluzione rapporti
 
-### Art. 6
+1.
 
-Amministrazione del personale
+Il valore della prestazione per la consulenza e l'assistenza in materia di risoluzione dei rapporti di lavoro e' determinato in base alle procedure di licenziamento poste in essere, e il compenso e' liquidato, di norma, in misura pari a quanto indicato nel riquadro 4 della tabella A.
 
-1. Il valore della prestazione per la liquidazione relativa ad incarichi di amministrazione del personale e' determinato dalla sommatoria degli emolumenti lordi e il compenso e' liquidato, di norma, in misura pari a quanto indicato nel riquadro 1 della tabella A.
+### Art. 10. — Dichiarazioni e denunce previdenziali, assistenziali, assicurative e fiscali
 
-### Art. 7
+1.
 
-Calcolo del costo del lavoro, determinazione e calcolo del trattamento di fine rapporto
+Il valore della prestazione per la consulenza e assistenza in materia di dichiarazioni e denunce previdenziali, assistenziali, assicurative e fiscali, e' determinato dalla sommatoria degli emolumenti lordi dichiarati agli Enti previdenziali, assistenziali, assicurativi e fiscali, e il compenso e' liquidato, di norma, in misura pari a quanto indicato nel riquadro 5 della tabella A.
 
-1. Il valore della prestazione per il calcolo del costo del lavoro e per la determinazione e il calcolo del trattamento di fine rapporto e' determinato dalla sommatoria del numero dei dipendenti e il compenso e' liquidato, di norma, in misura pari a quanto indicato nel riquadro 2 della tabella A.
+### Art. 11. — Contenzioso del lavoro, amministrativo, previdenziale, assicurativo, sindacale, giudiziale e stragiudiziale
 
-### Art. 8
+1.
 
-Ammortizzatori sociali
+Il valore della prestazione per il contenzioso del lavoro, amministrativo, previdenziale, assicurativo, sindacale, giudiziale e stragiudiziale, e' determinato in base alla richiesta complessiva pervenuta sulla materia del contendere, e il compenso e' liquidato, di norma, in misura pari a quanto indicato nel riquadro 6 della tabella A.
 
-1. Il valore della prestazione per la consulenza e l'assistenza in materia di ammortizzatori sociali e' determinato dalla sommatoria degli emolumenti orari lordi richiesti a favore dei lavoratori dipendenti e il compenso e' liquidato, di norma, in misura pari a quanto indicato nel riquadro 3 della tabella A.
+### Art. 12. — Contenzioso fiscale, operazioni societarie, dichiarazioni e prestazioni amministrative, contabili, fiscali-tributarie e formazione del bilancio
 
-### Art. 9
+1.
 
-Risoluzione rapporti
+Il compenso per il contenzioso fiscale, operazioni societarie, dichiarazioni e prestazioni amministrative, contabili, fiscali-tributarie e formazione del bilancio e' liquidato utilizzando i parametri nella misura indicata, al Capo III sezione prima in rubrica, Disposizioni concernenti Dottori Commercialisti ed Esperti contabili, del [decreto del Ministro della giustizia n. 140 del 20 luglio 2012](Regolamento%20recante%20la%20determinazione%20dei%20parametri%20per%20la%20liquidazione%20da%20parte%20di%20un%20organo%20giurisdizionale%20dei%20compensi%20per%20le%20professioni%20regolarmente%20vigilate%20dal%20Ministero%20della%20giu_381da50c0c65.md) e successive modificazioni.
 
-1. Il valore della prestazione per la consulenza e l'assistenza in materia di risoluzione dei rapporti di lavoro e' determinato in base alle procedure di licenziamento poste in essere, e il compenso e' liquidato, di norma, in misura pari a quanto indicato nel riquadro 4 della tabella A.
+### Art. 13. — Contrattualistica
 
-### Art. 10
+1.
 
-Dichiarazioni e denunce previdenziali, assistenziali, assicurative e fiscali
+Il valore della prestazione per la consulenza e assistenza in materia di obbligazioni e contratti e' determinato dalla tipologia e dal valore dell'atto negoziale stabilito tra le parti, e il compenso e' liquidato, di norma, in misura pari a quanto indicato nel riquadro 7 della tabella A.
 
-1. Il valore della prestazione per la consulenza e assistenza in materia di dichiarazioni e denunce previdenziali, assistenziali, assicurative e fiscali, e' determinato dalla sommatoria degli emolumenti lordi dichiarati agli Enti previdenziali, assistenziali, assicurativi e fiscali, e il compenso e' liquidato, di norma, in misura pari a quanto indicato nel riquadro 5 della tabella A.
+### Art. 14. — Consulenze tecniche di parte
 
-### Art. 11
+1.
 
-Contenzioso del lavoro, amministrativo, previdenziale, assicurativo, sindacale, giudiziale e stragiudiziale
+Il valore della prestazione per la consulenza tecnica di parte nelle controversie di lavoro, previdenziali, assicurative, di assistenza sociale, fiscali e in atti aventi natura negoziale e' determinato sulle somme oggetto di controversia e, in caso di determinazione di spettanze nelle controversie di lavoro, dalla sommatoria delle retribuzioni complessivamente calcolate e il compenso e' liquidato, di norma, in misura pari a quanto indicato nel riquadro 8 della tabella A.
 
-1. Il valore della prestazione per il contenzioso del lavoro, amministrativo, previdenziale, assicurativo, sindacale, giudiziale e stragiudiziale, e' determinato in base alla richiesta complessiva pervenuta sulla materia del contendere, e il compenso e' liquidato, di norma, in misura pari a quanto indicato nel riquadro 6 della tabella A.
+### Art. 15. — Altre prestazioni specifiche
 
-### Art. 12
+1.
 
-Contenzioso fiscale, operazioni societarie, dichiarazioni e prestazioni amministrative, contabili, fiscali-tributarie e formazione del bilancio
+Il valore della prestazione per eventuali altre prestazioni non indicate in precedenza e' determinato sull'entita' della prestazione stessa, e il compenso e' liquidato, di norma, in misura pari a quanto indicato nel riquadro 9 della tabella A.
 
-1. Il compenso per il contenzioso fiscale, operazioni societarie, dichiarazioni e prestazioni amministrative, contabili, fiscali-tributarie e formazione del bilancio e' liquidato utilizzando i parametri nella misura indicata, al Capo III sezione prima in rubrica, Disposizioni concernenti Dottori Commercialisti ed Esperti contabili, del [decreto del Ministro della giustizia n. 140 del 20 luglio 2012](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.giustizia:decreto:2012-07-20;140) e successive modificazioni.
+2.
 
-### Art. 13
+In assenza di un valore della prestazione si applica il compenso a tempo liquidato, di norma, in misura pari a quanto indicato nel riquadro 9 della tabella A.
 
-Contrattualistica
+## Disciplina transitoria ed entrata in vigore
 
-1. Il valore della prestazione per la consulenza e assistenza in materia di obbligazioni e contratti e' determinato dalla tipologia e dal valore dell'atto negoziale stabilito tra le parti, e il compenso e' liquidato, di norma, in misura pari a quanto indicato nel riquadro 7 della tabella A.
+Sezione III
 
-### Art. 14
+### Art. 16. — Disposizione temporale
 
-Consulenze tecniche di parte
+1.
 
-1. Il valore della prestazione per la consulenza tecnica di parte nelle controversie di lavoro, previdenziali, assicurative, di assistenza sociale, fiscali e in atti aventi natura negoziale e' determinato sulle somme oggetto di controversia e, in caso di determinazione di spettanze nelle controversie di lavoro, dalla sommatoria delle retribuzioni complessivamente calcolate e il compenso e' liquidato, di norma, in misura pari a quanto indicato nel riquadro 8 della tabella A.
+Le disposizioni di cui al presente decreto si applicano alle liquidazioni successive alla sua entrata in vigore.
 
-### Art. 15
+### Art. 17. — Entrata in vigore
 
-Altre prestazioni specifiche
+1.
 
-1. Il valore della prestazione per eventuali altre prestazioni non indicate in precedenza e' determinato sull'entita' della prestazione stessa, e il compenso e' liquidato, di norma, in misura pari a quanto indicato nel riquadro 9 della tabella A.
-
-2. In assenza di un valore della prestazione si applica il compenso a tempo liquidato, di norma, in misura pari a quanto indicato nel riquadro 9 della tabella A.
-
-CAPO III Sezione III Disciplina transitoria ed entrata in vigore
-----------------------------------------------------------------
-
-### Art. 16
-
-Disposizione temporale
-
-1. Le disposizioni di cui al presente decreto si applicano alle liquidazioni successive alla sua entrata in vigore.
-
-### Art. 17
-
-Entrata in vigore
-
-1. Il presente decreto entra in vigore il quindicesimo giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
+Il presente decreto entra in vigore il quindicesimo giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 21 febbraio 2013
+Roma, 21 febbraio 2013
 
-Il Ministro: Fornero
-
-Visto, il Guardasigilli: Severino Registrato alla Corte dei conti il 23 aprile 2013
-
-Ufficio di controllo sugli atti del MIUR, MIBAC, Min. salute e Min.
-
-lavoro, registro n. 5, foglio n. 18
-
-Tabella A
-
-  
-Tabella A   
-  
-COMPENSI SPETTANTI AGLI ISCRITTI NEGLI ALBI DEI CONSULENTI DEL LAVORO   
-  
-Le soglie numeriche indicate nella presente tabella, quali valori medi della prestazione, possono, in fase di liquidazione da parte del Giudice, subire una variazione in aumento o in diminuzione pari al cinquanta per cento.   
-Tale potere dell'Organo giudicante lascia impregiudicato quanto disposto dagli articoli 4 e 5 del presente decreto.   
-Riquadro 1 (art. 6) - Amministrazione del personale (subordinato, autonomo e parasubordinato)   
-Il valore medio e' rappresentato dall' importo globale lordo delle retribuzioni virtuali di computo del TFR per ciascun addetto, per ogni mensilita' elaborata per amministrazione del personale.   
-da 1 a 10 addetti: percentuale del valore medio: 5,00 %; forbice: riduzione fino al 2,7%; aumento fino al 12%;   
-da 11 a 20 addetti: percentuale del valore medio: 4,00 %; forbice: riduzione fino al 2,2%; aumento fino al 10%;   
-da 21 a 50 addetti: percentuale del valore medio: 3,00 %; forbice: riduzione fino al 1,7%; aumento fino al 8%;   
-da 51 a 100 addetti: percentuale del valore medio: 2,00 %; forbice: riduzione fino al 1,5%; aumento fino al 5%;   
-oltre 100 addetti: percentuale del valore medio: 1,00 %; forbice: riduzione fino allo 0,75%; aumento fino al 2,5%;   
-Riquadro 2 (art. 7) - Calcolo e asseverazione del costo del lavoro, determinazione e calcolo dell'accantonamento del trattamento di fine rapporto   
-A) Calcolo del costo del lavoro:   
-da 1 a 10 addetti - valore medio di liquidazione: euro 50 per ciascuna unita'; forbice: aumento fino al 60% e diminuzione fino al 50%;   
-da 11 a 30 addetti - valore medio di liquidazione: euro 40 per ciascuna unita'; forbice: aumento fino al 60% e diminuzione fino al 50%;   
-da 31 a 60 addetti - valore medio di liquidazione: euro 30 per ciascuna unita'; forbice: aumento fino al 60% e diminuzione fino al 50%;   
-da 61 a 100 addetti - valore medio di liquidazione: euro 20 per ciascuna unita'; forbice: aumento fino al 60% e diminuzione fino al 50%;   
-oltre 100 addetti - valore medio di liquidazione: euro 15 per ciascuna unita'; forbice: aumento fino al 60% e diminuzione fino al 50%;   
-B) Asseverazione del costo del lavoro:   
-da 1 a 10 addetti valore medio di liquidazione: euro 150 per ciascuna unita'; forbice: aumento fino al 60% e diminuzione fino al 50%;   
-da 11 a 30 addetti - valore medio di liquidazione: euro 120 per ciascuna unita'; forbice: aumento fino al 60% e diminuzione fino al 50%;   
-da 31 a 60 addetti - valore medio di liquidazione: euro 100 per ciascuna unita'; forbice: aumento fino al 60% e diminuzione fino al 50%;   
-da 61 a 100 addetti - valore medio di liquidazione: euro 70 per ciascuna unita'; forbice: aumento fino al 60% e diminuzione fino al 50%;   
-oltre 100 addetti - valore medio di liquidazione: euro 50 per ciascuna unita'; forbice: aumento fino al 60% e diminuzione fino al 50%.   
-C) Determinazione e calcolo dell'accantonamento del trattamento di fine rapporto   
-da 1 a 10 addetti - valore medio di liquidazione: euro 100 per ciascuna unita'; forbice: aumento fino al 60% e diminuzione fino al 50%;   
-da 11 a 30 addetti - valore medio di liquidazione: euro 80 per ciascuna unita'; forbice: aumento fino al 60% e diminuzione fino al 50%;   
-da 31 a 60 addetti - valore medio di liquidazione: euro 60 per ciascuna unita'; forbice: aumento fino al 60% e diminuzione fino al 50%;   
-da 61 a 100 addetti - valore medio di liquidazione: euro 40 per ciascuna unita'; forbice: aumento fino al 60% e diminuzione fino al 50%;   
-oltre 100 addetti - valore medio di liquidazione: euro 30 per ciascuna unita'; forbice: aumento fino al 60% e diminuzione fino al 50%.   
-Riquadro 3 (art. 8) - Ammortizzatori sociali   
-Il valore medio e' costituito dalla percentuale sulla sommatoria degli emolumenti orari lordi richiesti nella specifica domanda a favore dei lavoratori:   
-valore medio fino a euro 50.000,00: percentuale del valore medio fino a 7,00 %; forbice: riduzione fino al 4%; aumento: fino al 10%; valore medio oltre euro 50.000,00; percentuale del valore medio fino a 5,00 %; forbice: riduzione fino al 2,50%; aumento: fino all'8%   
-Riquadro 4 (art. 9) - Risoluzione rapporti   
-Onorari calcolati per ogni singola procedura di mobilita' o di licenziamenti collettivi a scaglioni come segue;   
-Procedura mobilita' e licenziamenti collettivi:   
-da 1 a 10 addetti: valore medio di liquidazione euro 2.000,00, con aumento fino al 60% e diminuzione fino al - 50% - e, in aggiunta, un ulteriore valore medio di liquidazione di euro 80,00 per ciascuna unita', con aumento fino al 60% e diminuzione fino al - 50%;   
-da 11 a 30 addetti: valore medio di liquidazione euro 2.500,00, con aumento fino al 60% e diminuzione fino al - 50% - e, in aggiunta, un ulteriore valore medio di liquidazione di euro 70,00 per ciascuna unita', con aumento fino al 60% e diminuzione fino al - 50%;   
-da 31 a 60 addetti: valore medio di liquidazione euro 3.000,00, con aumento fino al 60% e diminuzione fino al - 50% - e, in aggiunta, un ulteriore valore medio di liquidazione di euro 60,00 per ciascuna unita', con aumento fino al 60% e diminuzione fino al - 50%;   
-da 61 a 100 addetti: valore medio di liquidazione euro 3.500,00, con aumento fino al 60% e diminuzione fino al - 50% - e, in aggiunta, un ulteriore valore medio di liquidazione di euro 50,00 per ciascuna unita', con aumento fino al 60% e diminuzione fino al - 50%;   
-oltre 100 addetti: valore medio di liquidazione euro 4.000,00, con aumento fino al 60% e diminuzione fino al - 50% - e, in aggiunta, un ulteriore valore medio di liquidazione di euro 40,00 per ciascuna unita', con aumento fino al 60% e diminuzione fino al - 50%.   
-Licenziamenti per giustificato motivo oggettivo e soggettivo individuali   
-Fino a 5 licenziamenti nell'anno solare:   
-sessione informativa, consultazione ed esame con il cliente: valore medio di liquidazione euro 50,00 per ogni addetto; aumento: fino a + 50%; diminuzione:fino a - 40%;   
-predisposizione procedura e lettere di licenziamento: valore medio di liquidazione euro 100,00 per ogni addetto; aumento: fino a + 40%; diminuzione: fino a - 30%;   
-licenziamento disciplinare:valore medio di liquidazione euro 250,00 per ogni procedimento; aumento: fino a + 30%; diminuzione: fino a - 20%;   
-Oltre 5 licenziamenti nell'anno solare:   
-sessione informativa, consultazione ed esame con il cliente: valore medio di liquidazione euro 40,00 per ogni addetto; aumento: fino a + 50%; diminuzione: fino a - 40%;   
-predisposizione procedura e lettere di licenziamento: valore medio di liquidazione: euro 70,00 per ogni addetto; aumento: fino a + 40%; diminuzione: fino a - 30%;   
-licenziamento disciplinare: valore medio di liquidazione euro 160,00 per ogni procedimento; aumento: fino a + 30%; diminuzione: fino a - 20%.   
-Riquadro 5 (art. 10) - Dichiarazioni e denunce previdenziali, assistenziali, assicurative e fiscali   
-Il valore medio e' costituito dagli emolumenti lordi dichiarati agli Enti previdenziali, assistenziali, assicurativi e fiscali:   
-1) Uni-emens mensili: percentuale del valore medio: 0,15 %; forbice: riduzione fino allo 0,07%; aumento fino allo 0,40%   
-2) autoliquidazione annuale Inail: percentuale del valore medio 0,60 %; forbice: riduzione fino allo 0,25; aumento fino all' 1,30%   
-3) Mod. 770 semplificato/ordinario: percentuale del valore medio 1,00 %; forbice: riduzione fino allo 0,45; aumento fino al 2,10%   
-Altre dichiarazioni:   
-Fino a 20 dichiarazioni nell'anno solare per singolo richiedente:   
-1) comunicazioni obbligatorie di instaurazione, variazione, trasformazione e cessazione rapporti di lavoro: valore medio di liquidazione euro 50,00 per comunicazione, con aumento fino a + 60% e diminuzione fino a - 50%;   
-2) apertura delle posizioni previdenziali e assistenziali INPS-INAIL: valore medio di liquidazione euro100,00 per posizione assicurativa, con aumento fino a + 60%, diminuzione fino a - 50%;   
-3) denunce di infortunio, malattia professionale, disoccupazione: valore medio di liquidazione euro 60,00 a modello; con aumento fino a + 60%, diminuzione fino a - 50%;   
-4) altre denunce obbligatorie (a titolo esemplificativo e non esaustivo, denuncia aziendale collocamento obbligatorio, denuncia Inail possesso sostanze radioattive ed apparecchi radiologici, DMAG unico): valore medio di liquidazione euro 120 per ogni modello; con aumento fino a + 60%, diminuzione fino a - 50%;   
-5) dichiarazione periodica ai fondi di previdenza complementare: valore medio di liquidazione euro 8,00 per ogni addetto e per ogni comunicazione; con aumento fino a + 60%, diminuzione fino a - 50%;   
-Oltre 20 dichiarazioni nell'anno solare per singolo richiedente:   
-1) comunicazioni obbligatorie di instaurazione, variazione, trasformazione e cessazione rapporti di lavoro: valore medio di liquidazione euro 40,00 per comunicazione; con aumento fino a + 60%, diminuzione fino a - 50%;   
-2) apertura delle posizioni previdenziali e assistenziali INPS-INAIL: valore medio di liquidazione euro 80,00 per posizione assicurativa; con aumento fino a 60%, diminuzione fino a - 50%;   
-3) denunce di infortunio, malattia professionale, disoccupazione: valore medio di liquidazione euro 40,00 a modello; con aumento fino a 60%, diminuzione fino a - 50%;   
-4) altre denunce obbligatorie (a titolo esemplificativo e non esaustivo, denuncia aziendale collocamento obbligatorio, denuncia Inail possesso sostanze radioattive ed apparecchi radiologici, DMAG unico): valore medio di liquidazione euro 100 per ogni modello; con aumento fino a 60%, diminuzione fino a - 50%;   
-5) dichiarazione periodica ai fondi di previdenza complementare:valore medio di liquidazione euro 6,00 per ogni addetto e per ogni comunicazione; con aumento fino a 60%, diminuzione fino a - 50%.   
-Riquadro 6 (art. 11) - Contenzioso del lavoro, amministrativo, previdenziale, assicurativo, sindacale, giudiziale e stragiudiziale In percentuale sulla richiesta economica complessiva pervenuta sulla materia del contendere:   
-valore medio fino a euro 10.000,00: percentuale di liquidazione 7,00%; forbice: riduzione fino al 3,25%; aumento fino al 15%;   
-valore medio da euro 10.001 fino a euro 30.000,00: percentuale di liquidazione 6,00%: forbice: riduzione fino al 2,75%; aumento fino al 13%;   
-valore medio da euro 30.001 fino a euro 70.000,00: percentuale di liquidazione 4,50%: forbice: riduzione fino al 2,00%; aumento fino al 10%;   
-valore medio oltre euro 70.000,00: percentuale di liquidazione 3,00 %; forbice: riduzione fino all'1,25%; aumento fino al 7%;   
-pratiche senza valore espresso o con valore indeterminato: valore medio di liquidazione euro 250,00 con aumento fino a + 60%, diminuzione fino a - 50%.   
-Riquadro 7 (art. 13) - Contrattualistica   
-Predisposizione contratti di lavoro previsti dalla normativa vigente:   
-da 1 a 5 contratti: valore medio di liquidazione euro 200,00 cadauno; aumento fino al 50%; diminuzione fino al 40%   
-da 6 a 10 contratti: valore medio di liquidazione euro 150,00 cadauno; aumento fino al 50%; diminuzione fino al 40%;   
-da 11 a 30 contratti: valore medio di liquidazione euro 100,00 cadauno; aumento fino al 50%; diminuzione fino al 40%;   
-da 31 a 70 contratti: valore medio di liquidazione euro 70,00 cadauno; aumento fino al 50%; diminuzione fino al 40%;   
-oltre 70 contratti: valore medio di liquidazione euro 50,00 cadauno; aumento fino al 50%; diminuzione fino al 40%.   
-Istruttoria e assistenza della pratica per la certificazione dei contratti di lavoro:   
-da 1 a 5 pratiche di certificazione: valore medio di liquidazione euro 300,00 cadauna; aumento fino al 50%; diminuzione fino al 40%;   
-da 6 a 10 pratiche di certificazione: valore medio di liquidazione euro 220,00 cadauna; aumento fino al 50%; diminuzione fino al 40%;   
-da 11 a 30 pratiche di certificazione: valore medio di liquidazione euro 150,00 cadauna; aumento fino al 50%; diminuzione fino al 40%;   
-da 31 a 70 pratiche di certificazione: valore medio di liquidazione euro 100,00 cadauna; aumento fino al 50%; diminuzione fino al 40%;   
-oltre 70 pratiche di certificazione: valore medio di certificazione euro 70,00 cadauno; aumento fino al 50%; diminuzione fino al 40%.   
-consulenza ed assistenza in materia di conciliazioni ed arbitrati presso le competenti commissioni:   
-valore medio di liquidazione euro 300,00 con aumento fino al 60% e diminuzione fino al 40% e in aggiunta, 3% sul valore della conciliazione e dell'arbitrato; forbice: riduzione fino all'1,25%; aumento fino al 6,75%;   
-altri atti aventi natura negoziale: il valore medio e' costituito dal valore dell'atto stabilito dalle parti. Percentuale del valore medio: 5,00%; forbice: riduzione fino al 2,25%; aumento fino al 10, 75%   
-Riquadro 8 (art. 14) - Consulenze tecniche di parte   
-Il valore medio e' costituito dal valore della controversia.  
-Percentuale sul valore medio: 5,00%; forbice: riduzione fino al 2,7%; aumento fino al 11,75%   
-In caso di determinazione di spettanze nelle controversie di lavoro, il valore medio e' costituito dalla sommatoria delle retribuzioni complessivamente calcolate. Percentuale del valore medio 2,00%, forbice: riduzione: fino al 0,75%; aumento: fino al 5,00%.   
-Riquadro 9 (art. 15) - Altre prestazioni specifiche e compensi a tempo   
-Per prestazioni non indicate in precedenza, il valore medio e' costituito dal valore della pratica. Percentuale del valore medio 4,00%; forbice: riduzione fino al 2,2%; aumento fino al 9,75%.   
-Compensi a tempo, per ogni ora o frazione di ora: valore medio di liquidazione: euro 50,00, con aumento fino al 60% e diminuzione fino al 40%.   
+Il Ministro: Fornero Visto, il Guardasigilli: Severino Registrato alla Corte dei conti il 23 aprile 2013 Ufficio di controllo sugli atti del MIUR, MIBAC, Min. salute e Min. lavoro, registro n. 5, foglio n. 18

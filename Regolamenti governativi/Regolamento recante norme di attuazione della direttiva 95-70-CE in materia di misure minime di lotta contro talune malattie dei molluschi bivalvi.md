@@ -1,69 +1,37 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1998 n. 395
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 395
+data: 1998-10-20
+titolo: "Regolamento recante norme di attuazione della direttiva 95/70/CE in materia di misure minime di lotta contro talune malattie dei molluschi bivalvi."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1998-10-20;395
+codice_redazionale: 098G0447
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1998 n. 395
-==============================================================
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148 ))
 
-Regolamento recante norme di attuazione della direttiva 95/70/CE in materia di misure minime di lotta contro talune malattie dei molluschi bivalvi.
----------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 3-12-1998
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148 ))
 
-Art. 1
-------
+## Art. 3.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148 ))
 
-Art. 2
-------
+## Art. 4.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148 ))
 
-Art. 3
-------
+## Art. 5.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148 ))
 
-Art. 4
-------
+## Art. 6.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148 ))
 
-Art. 5
-------
+## Art. 7.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148) ))
-
-Art. 6
-------
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148) ))
-
-Art. 7
-------
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148) ))
-
-Allegato A
-
- ALLEGATO A
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148) ))
-
-Allegato C
-
- ALLEGATO B   
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148) ))
-
-Allegato C
-
- ALLEGATO C   
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148) ))
-
-Allegato D
-
- ALLEGATO D   
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148 ))

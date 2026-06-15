@@ -1,34 +1,25 @@
-LEGGE 21 maggio 1982 n. 275
-
-
-LEGGE 21 maggio 1982 n. 275
-===========================
-
-Conversione in legge del decreto-legge 30 marzo 1982, n. 109, recante ulteriore proroga dei termini sostanziali e processuali di cui al decreto-legge 30 aprile 1981, n. 168, convertito, con modificazioni, nella legge 27 giugno 1981, n. 331, relativi all'assunzione da parte dell'Avvocatura dello Stato del contenzioso degli enti mutualistici soppressi.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: LEGGE
+numero: 275
+data: 1982-05-21
+titolo: "Conversione in legge del decreto-legge 30 marzo 1982, n. 109, recante ulteriore proroga dei termini sostanziali e processuali di cui al decreto-legge 30 aprile 1981, n. 168, convertito, con modificazioni, nella legge 27 giugno 1981, n. 331, relativi all'assunzione da parte dell'Avvocatura dello Stato del contenzioso degli enti mutualistici soppressi."
+urn: urn:nir:stato:legge:1982-05-21;275
+codice_redazionale: 082U0275
+vigente: true
+---
 
 La Camera dei deputati ed il Senato della Repubblica hanno approvato;
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-PROMULGA
---------
+PROMULGA la seguente legge:
 
-la seguente legge:
+## Articolo unico
 
-Articolo unico
---------------
-
-  
-E' convertito in legge il [decreto-legge 30 marzo 1982, n. 109](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-03-30;109), recante ulteriore proroga dei termini sostanziali e processuali di cui al [decreto-legge 30 aprile 1981, n. 168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-04-30;168), convertito, con modificazioni, nella [legge 27 giugno 1981, n. 331](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-06-27;331), relativi all'assunzione da parte dell'Avvocatura dello Stato del contenzioso degli enti mutualistici soppressi.  
-  
+E' convertito in legge il [decreto-legge 30 marzo 1982, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-03-30;109), recante ulteriore proroga dei termini sostanziali e processuali di cui al [decreto-legge 30 aprile 1981, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-04-30;168), convertito, con modificazioni, nella [legge 27 giugno 1981, n. 331](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20aprile%201981%20n.%20168%20concernente%20misure%20urgenti%20in%20materia%20di%20assistenza%20sanitaria.md), relativi all'assunzione da parte dell'Avvocatura dello Stato del contenzioso degli enti mutualistici soppressi.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data a Roma, addi' 21 maggio 1982
+Data a Roma, addi' 21 maggio 1982
 
-PERTINI SPADOLINI - ANDREATTA
-
-Visto, il Guardasigilli: DARIDA
+PERTINI SPADOLINI - ANDREATTA Visto, il Guardasigilli: DARIDA

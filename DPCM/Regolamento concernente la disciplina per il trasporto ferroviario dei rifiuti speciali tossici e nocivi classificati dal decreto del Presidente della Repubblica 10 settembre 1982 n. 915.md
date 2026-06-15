@@ -1,46 +1,44 @@
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 07 giugno 1991 n. 308
-
-
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 07 giugno 1991 n. 308
-=======================================================================
-
-Regolamento concernente la disciplina per il trasporto ferroviario dei rifiuti speciali, tossici e nocivi, classificati dal decreto del Presidente della Repubblica 10 settembre 1982, n. 915.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 17/10/1991
+---
+tipo: DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
+numero: 308
+data: 1991-06-07
+titolo: "Regolamento concernente la disciplina per il trasporto ferroviario dei rifiuti speciali, tossici e nocivi, classificati dal decreto del Presidente della Repubblica 10 settembre 1982, n. 915."
+urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:1991-06-07;308
+codice_redazionale: 091G0351
+vigente: true
+---
 
 IL PRESIDENTE
--------------
 
 DEL CONSIGLIO DEI MINISTRI
 
-Visto l'[art. 11 del decreto-legge 31 agosto 1987, n. 361](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-31;361~art11), convertito, con modificazioni, dalla [legge 29 ottobre 1987, n. 441](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;441), recante disposizioni urgenti in materia di smaltimento dei rifiuti, che attribuisce al Presidente del Consiglio dei Ministri la competenza ad emanare il regolamento per il trasporto ferroviario protetto di rifiuti speciali, tossici e nocivi;
+Visto l'[art. 11 del decreto-legge 31 agosto 1987, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-31;361#art_11), convertito, con modificazioni, dalla [legge 29 ottobre 1987, n. 441](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20agosto%201987%20n.%20361%20recante%20disposizioni%20urgenti%20in%20materia%20di%20smaltimento%20dei%20rifiuti.md), recante disposizioni urgenti in materia di smaltimento dei rifiuti, che attribuisce al Presidente del Consiglio dei Ministri la competenza ad emanare il regolamento per il trasporto ferroviario protetto di rifiuti speciali, tossici e nocivi;
 
-Visto il [decreto del Presidente della Repubblica 10 settembre 1982, n. 915](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-09-10;915), recante attuazione delle [direttive (CEE) n. 75/442](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31975L0442) relativa ai rifiuti, n. 76/403 relativa allo smaltimento dei policlorodifenili e dei policlorotrifenili e n. 78/319 relativa ai rifiuti tossici e nocivi;
+Visto il [decreto del Presidente della Repubblica 10 settembre 1982, n. 915](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md), recante attuazione delle [direttive (CEE) n. 75/442](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1975;442) relativa ai rifiuti, n. 76/403 relativa allo smaltimento dei policlorodifenili e dei policlorotrifenili e n. 78/319 relativa ai rifiuti tossici e nocivi;
 
-Vista la deliberazione in data 27 luglio 1984 del Comitato interministeriale di cui all'[art. 5 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-09-10;915~art5);
+Vista la deliberazione in data 27 luglio 1984 del Comitato interministeriale di cui all'[art. 5 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md);
 
-Vista la [legge 8 luglio 1986, n. 349](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-07-08;349), recante istituzione del Ministero dell'ambiente e norme in materia di danno ambientale;
+Vista la [legge 8 luglio 1986, n. 349](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-07-08;349), recante istituzione del Ministero dell'ambiente e norme in materia di danno ambientale;
 
-Visto il [decreto del Presidente della Repubblica 19 giugno 1987, n. 306](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1987-06-19;306), che ha approvato il regolamento per l'organizzazione del Ministero dell'ambiente;
+Visto il [decreto del Presidente della Repubblica 19 giugno 1987, n. 306](../Regolamenti%20governativi/Regolamento%20per%20lorganizzazione%20del%20Ministero%20dellambiente.md), che ha approvato il regolamento per l'organizzazione del Ministero dell'ambiente;
 
-Vista la [legge 3 marzo 1987, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-03-03;59), recante disposizioni transitorie ed urgenti per il funzionamento del Ministero dell'ambiente;
+Vista la [legge 3 marzo 1987, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-03-03;59), recante disposizioni transitorie ed urgenti per il funzionamento del Ministero dell'ambiente;
 
 Considerata la necessita' di uniformare il trasporto ferroviario nazionale di rifiuti speciali, tossici e nocivi al trasporto ferroviario internazionale degli stessi;
 
-Vista la [legge 18 dicembre 1984, n. 976](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-18;976), che ratifica la convenzione relativa ai trasporti internazionali ferroviari (COTIF), ed in particolare l'allegato I "Regolamento concernente il trasporto internazionale ferroviario delle merci pericolose (RID)" all'appendice B "Regole uniformi concernenti il contratto internazionale ferroviario delle merci (RU/CIM)";
+Vista la [legge 18 dicembre 1984, n. 976](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20relativa%20ai%20trasporti%20ferroviari%20internazionali%20COTIF%20adottata%20a%20Berna%20il%209%20maggio%201980%20con%20i%20seguenti%20atti%20connessi%20protocollo%20sui%20privilegi%20e%20le_efa727a4e612.md), che ratifica la convenzione relativa ai trasporti internazionali ferroviari (COTIF), ed in particolare l'allegato I "Regolamento concernente il trasporto internazionale ferroviario delle merci pericolose (RID)" all'appendice B "Regole uniformi concernenti il contratto internazionale ferroviario delle merci (RU/CIM)";
 
-Sentito il comitato tecnico-scientifico di cui all'[art. 15 della legge 29 ottobre 1987, n. 441](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;441~art15);
+Sentito il comitato tecnico-scientifico di cui all'[art. 15 della legge 29 ottobre 1987, n. 441](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20agosto%201987%20n.%20361%20recante%20disposizioni%20urgenti%20in%20materia%20di%20smaltimento%20dei%20rifiuti.md);
 
-Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3), recante disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri;
+Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), recante disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri;
 
-Sulla proposta del Ministro dell'ambiente, sentiti i Ministri della sanita' e dei trasporti, nonche' la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano, come ridisciplinata dal [decreto legislativo 16 dicembre 1989, n. 418](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-12-16;418);
+Sulla proposta del Ministro dell'ambiente, sentiti i Ministri della sanita' e dei trasporti, nonche' la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano, come ridisciplinata dal [decreto legislativo 16 dicembre 1989, n. 418](../Decreti%20Legislativi/Riordinamento%20delle%20funzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20e%20degli%20organismi%20a%20composizione%20mista%20Stato-reg_1120106d199c.md);
 
 Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 25 marzo 1991;
 
 Ritenuto di poter aderire alle osservazioni ivi contenute, salvo che:
 
-a) nella formulazione del titolo del regolamento, in quanto il [decreto del Presidente della Repubblica 10 settembre 1982, n. 915](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-09-10;915), non "prevede", bensi' "classifica" i rifiuti speciali, tossici e nocivi;
+a) nella formulazione del titolo del regolamento, in quanto il [decreto del Presidente della Repubblica 10 settembre 1982, n. 915](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md), non "prevede", bensi' "classifica" i rifiuti speciali, tossici e nocivi;
 
 b) nella previsione di un'etichettatura, "conforme" e non "uguale" a quella dell'allegato 2, sugli imballaggi dei rifiuti speciali, tossici e nocivi trasportati, dovendosi meramente conseguire lo scopo di dotare gli imballaggi stessi dell'indicazione di tutti i dati necessari - indicati nell'allegato 2 - senza alcun vincolo di carattere formale nell'esposizione dei dati stessi;
 
@@ -48,209 +46,124 @@ c) nella sostituzione, all'art. 3, della locuzione "dalle imprese" con quella "a
 
 A D O T T A il seguente regolamento:
 
-Art. 1
-------
+## Art. 1.
 
-1. Le imprese esercenti il trasporto ferroviario sono autorizzate ad effettuare il trasporto dei rifiuti speciali, tossici e nocivi, in conformita' alle norme del presente regolamento, sulle linee ferroviarie da esse esercitate, nonche' sulle navi traghetto munite dell'attestazione di idoneita' al trasporto di merci pericolose ai sensi dell'[art. 13 del decreto del Presidente della Repubblica 9 maggio 1968, n. 1008](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-05-09;1008~art13).
+1.
 
-(( 2. L'attivita' di trasporto di cui al comma precedente deve ritenersi comprensiva delle c omplementari attivita' di carrellamento dei carri ferroviari per mezzo di carrelli stradali provvisti di tutte le autorizzazioni prescritte per la circolazione stradale delle merci pericolose di cui all'art. 168 del decreto legislativo 30 aprile 1992. n. 285, e successive modifiche, concernente il Nuovo [codice della strada, ed all'art. 368, comma 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art368-com2), del relativo regolamento di attuazione e di esecuzione ))
+Le imprese esercenti il trasporto ferroviario sono autorizzate ad effettuare il trasporto dei rifiuti speciali, tossici e nocivi, in conformita' alle norme del presente regolamento, sulle linee ferroviarie da esse esercitate, nonche' sulle navi traghetto munite dell'attestazione di idoneita' al trasporto di merci pericolose ai sensi dell'[art. 13 del decreto del Presidente della Repubblica 9 maggio 1968, n. 1008](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20per%20limbarco%20trasporto%20per%20mare%20sbarco%20e%20trasbordo%20delle%20merci%20pericolose%20in%20colli.md).
 
-Art. 2
-------
+(( 2. L'attivita' di trasporto di cui al comma precedente deve ritenersi comprensiva delle c omplementari attivita' di carrellamento dei carri ferroviari per mezzo di carrelli stradali provvisti di tutte le autorizzazioni prescritte per la circolazione stradale delle merci pericolose di cui all'art. 168 del decreto legislativo 30 aprile 1992. n. 285, e successive modifiche, concernente il Nuovo [codice della strada, ed all'art. 368, comma 2](../Codici/Nuovo%20codice%20della%20strada.md), del relativo regolamento di attuazione e di esecuzione ))
 
-1. Il trasporto per ferrovia dei rifiuti previsti dall'art. 1 deve avvenire in conformita' con le disposizioni vigenti che regolano il trasporto ferroviario nazionale ed internazionale, ed in particolare con le disposizioni di cui al "Regolamento concernente il trasporto internazionale ferroviario delle merci pericolose (RID)" - allegato I all'appendice B ("Regole uniformi concernenti il contratto di trasporto internazionale per ferrovia delle merci (RU/CIM)") alla convenzione di Berna relativa ai trasporti internazionali ferroviari (COTIF) approvata e resa esecutiva con la [legge 18 dicembre 1984, n. 976](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-18;976), nonche' alle modifiche allo stesso regolamento apportate secondo il combinato disposto degli articoli 8 par. 2 e 19 par. 4 della COTIF.
+## Art. 2.
 
-2. Sull'imballagio dei rifiuti speciali, tossici e nocivi, oltre alle etichette di pericolo previste dal regolamento di cui al comma 1, e' apposta un'etichetta inamovibile, conforme a quella riportata all'allegato 2 che e' parte integrante del presente regolamento, indicante, in modo facilmente leggibile, il produttore o il detentore, la natura, la composizione e il quantitativo dei rifiuti, nonche' i rischi derivanti dagli stessi e le istruzioni da seguire in caso di pericolo o di incidente ed il periodo massimo nel quale i rifiuti possono essere contenuti nell'imballaggio senza pericolo per l'incolumita' pubblica e per l'ambiente.
+1.
 
-3. In ogni caso, durante il trasporto sono adottate tutte le precauzioni necessarie ad evitare danni alle persone e all'ambiente.  
+Il trasporto per ferrovia dei rifiuti previsti dall'art. 1 deve avvenire in conformita' con le disposizioni vigenti che regolano il trasporto ferroviario nazionale ed internazionale, ed in particolare con le disposizioni di cui al "Regolamento concernente il trasporto internazionale ferroviario delle merci pericolose (RID)" - allegato I all'appendice B ("Regole uniformi concernenti il contratto di trasporto internazionale per ferrovia delle merci (RU/CIM)") alla convenzione di Berna relativa ai trasporti internazionali ferroviari (COTIF) approvata e resa esecutiva con la [legge 18 dicembre 1984, n. 976](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20relativa%20ai%20trasporti%20ferroviari%20internazionali%20COTIF%20adottata%20a%20Berna%20il%209%20maggio%201980%20con%20i%20seguenti%20atti%20connessi%20protocollo%20sui%20privilegi%20e%20le_efa727a4e612.md), nonche' alle modifiche allo stesso regolamento apportate secondo il combinato disposto degli articoli 8 par. 2 e 19 par. 4 della COTIF.
+
+2.
+
+Sull'imballagio dei rifiuti speciali, tossici e nocivi, oltre alle etichette di pericolo previste dal regolamento di cui al comma 1, e' apposta un'etichetta inamovibile, conforme a quella riportata all'allegato 2 che e' parte integrante del presente regolamento, indicante, in modo facilmente leggibile, il produttore o il detentore, la natura, la composizione e il quantitativo dei rifiuti, nonche' i rischi derivanti dagli stessi e le istruzioni da seguire in caso di pericolo o di incidente ed il periodo massimo nel quale i rifiuti possono essere contenuti nell'imballaggio senza pericolo per l'incolumita' pubblica e per l'ambiente.
+
+3.
+
+In ogni caso, durante il trasporto sono adottate tutte le precauzioni necessarie ad evitare danni alle persone e all'ambiente.
 Analoghe precauzioni incombono al mittente e al destinatario durante le operazioni di carico e scarico.
 
-Art. 3
-------
+## Art. 3.
 
-1. Durante il trasporto i rifiuti speciali, tossici e nocivi sono accompagnati, oltre che dalla documentazione richiesta dalle imprese esercenti il trasporto ferroviario, da:
+1.
 
-a) una copia del contratto tra il produttore o detentore e lo smaltitore, con gli estremi dell'autorizzazione rilasciata dalla regione competente ai sensi dell'[art. 6, lettera d), del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-09-10;915~art6-letd);
+Durante il trasporto i rifiuti speciali, tossici e nocivi sono accompagnati, oltre che dalla documentazione richiesta dalle imprese esercenti il trasporto ferroviario, da:
+                        a)
+                            una copia del contratto tra il produttore o detentore e lo smaltitore, con gli estremi dell'autorizzazione rilasciata dalla regione competente ai sensi dell'[art. 6, lettera d), del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md);
+                        b)
+                            un formulario contenente i seguenti dati e notizie, come indicati nell'allegato 1 che e' parte integrante del presente regolamento:
+ 1) nome o ragione sociale, indirizzo e codice fiscale del produttore o detentore, nonche' il luogo della produzione o detenzione;
+ 2) nome o ragione sociale, indirizzo e codice fiscale del destinatario e luogo di destinazione, nonche' gli estremi dell'autorizzazionedi cui all'[art. 6 del decreto del Presidente della Repubblica n. 915/1982](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982;915#art_6);
+ 3) nome o ragione sociale, indirizzo e codice fiscale dell'eventuale vettore stradale effettuante il trasporto tra il produttore o detentore e la stazione ferroviaria di partenza, nonche' di quello effettuante il trasporto tra la stazione ferroviaria di arrivo e il luogo di destinazione, nonche' gli estremi dell'autorizzazione di cui all'[art. 6, lettera d), del decreto del Presidente della Repubblica n. 915/1982](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982;915#art_6-letd);
+ 4) natura, composizione, caratteristiche chimico-fisiche, volume e massa dei rifiuti trasportati;
+ 5) le istruzioni da seguire in caso di pericolo o incidente;
+ 6) l'indicazione del periodo massimo nel quale i rifiuti possono essere contenuti nell'imballaggio senza pericoli per l'incolumita' pubblica e per l'ambiente.
 
-b) un formulario contenente i seguenti dati e notizie, come indicati nell'allegato 1 che e' parte integrante del presente regolamento:  
-1) nome o ragione sociale, indirizzo e codice fiscale del produttore o detentore, nonche' il luogo della produzione o detenzione;  
-2) nome o ragione sociale, indirizzo e codice fiscale del destinatario e luogo di destinazione, nonche' gli estremi dell'autorizzazionedi cui all'[art. 6 del decreto del Presidente della Repubblica n. 915/1982](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;915~art6);  
-3) nome o ragione sociale, indirizzo e codice fiscale dell'eventuale vettore stradale effettuante il trasporto tra il produttore o detentore e la stazione ferroviaria di partenza, nonche' di quello effettuante il trasporto tra la stazione ferroviaria di arrivo e il luogo di destinazione, nonche' gli estremi dell'autorizzazione di cui all'[art. 6, lettera d), del decreto del Presidente della Repubblica n. 915/1982](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;915~art6-letd);  
-4) natura, composizione, caratteristiche chimico-fisiche, volume e massa dei rifiuti trasportati;  
-5) le istruzioni da seguire in caso di pericolo o incidente;  
-6) l'indicazione del periodo massimo nel quale i rifiuti possono essere contenuti nell'imballaggio senza pericoli per l'incolumita' pubblica e per l'ambiente.
+Nota all'art. 3:
+ - Il testo dell'intero [art. 6 del D.P.R. n. 915/1982](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982;915#art_6) (Attuazione delle [direttive CEE n. 75/442](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1975;442) relativa ai rifiuti, n. 76/403 relativa allo smaltimento dei policlorodifenili e dei policlorotrifenili e n. 78/319 relativa ai rifiuti tossici e nocivi) e' il seguente:
+ "Art. 6 (Competenze delle regioni). - Alle regioni competono:
+ a) l'elaborazione, la predisposizione e l'aggiornamento sentiti i comuni, dei piani di organizzazione dei servizi di smaltimento dei rifiuti.
+ I piani debbono prevedere:
+ i tipi ed i quantitativi di rifiuti da smaltire;
+ i metodi di trattamento ottimali in relazione ai tipi ed alle quantita';
+ le zone, nonche' le modalita' di stoccaggio temporaneo e definitivo, ivi comprese le discariche controllate;
+ per i rifiuti tossici e nocivi, le piattaforme specializzate per i trattamenti.
+ I piani regionali possono prevedere la costituzione di consorzi tra comuni, anche con la partecipazione di comunita' montane, per lo smaltimento dei rifiuti, ai quali possono partecipare anche imprese singole o associate;
+ b) l'individuazione, sentiti i comuni interessati, delle zone idonee in cui realizzare gli impianti di trattamento e/o stoccaggio temporaneo e definitivo dei rifiuti; se del caso, l'individuazione delle zone puo' essere attuata mediante accordi interregionali. Alla individuazione di cui sopra si applicano le disposizioni di cui all'[art. 2, commi secondo](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201981%20n.%20801%20concernente%20provvedimenti%20urgenti%20in%20materia%20di%20tutela%20delle%20acque%20dallinquinamento.md), [terzo](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201981%20n.%20801%20concernente%20provvedimenti%20urgenti%20in%20materia%20di%20tutela%20delle%20acque%20dallinquinamento.md), [quarto](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201981%20n.%20801%20concernente%20provvedimenti%20urgenti%20in%20materia%20di%20tutela%20delle%20acque%20dallinquinamento.md) e [quinto, della legge 5 marzo 1982, n. 62](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201981%20n.%20801%20concernente%20provvedimenti%20urgenti%20in%20materia%20di%20tutela%20delle%20acque%20dallinquinamento.md);
+ c) l'approvazione dei progetti e degli elaborati tecnici riguardanti gli impianti di smaltimento dei rifiuti urbani e di innocuizzazione e di eliminazione dei rifiuti speciali;
+ d) l'autorizzazione ad enti o imprese ad effettuare lo smaltimento dei rifiuti urbani e speciali prodotti da terzi; le autorizzazioni ad effettuare le operazioni di smaltimento dei rifiuti tossici e nocivi; le autorizzazioni all'installazione e alla gestione delle discariche e degli impianti di innocuizzazione e di eliminazione dei rifiuti speciali, approvati ai sensi della precedente lettera c);
+ e) il rilevamento statistico dei dati inerenti la produzione e lo smaltimento dei rifiuti nonche', per quelli tossici e nocivi, i dati relativi all'importazione ed esportazione; la trasmissione delle informazioni necessarie per le previste comunicazioni e relazioni di cui alla lettera i) dell'art. 4.
+ I predetti dati saranno trasmessi al Comitato dei Ministri;
+ f) l'emanazione di norme integrative e di attuazione del presente decreto per l'organizzazione dei servizi di smaltimento e le procedure di controllo e di autorizzazione.
+ Le regioni promuovono iniziative dirette a limitare le formazioni dei rifiuti, a favorire il riciclo e la riutilizzazione degli stessi e/o l'estrazione di materie utilizzabili e di energia; a realizzare impianti che assicurino un corretto smaltimento dei rifiuti tossici e nocivi.
+ Sono fatte salve le competenze delle regioni a statuto speciale e delle province autonome di Trento e Bolzano".
 
-Nota all'art. 3:  
-- Il testo dell'intero [art. 6 del D.P.R. n. 915/1982](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;915~art6) (Attuazione delle [direttive CEE n. 75/442](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31975L0442) relativa ai rifiuti, n. 76/403 relativa allo smaltimento dei policlorodifenili e dei policlorotrifenili e n. 78/319 relativa ai rifiuti tossici e nocivi) e' il seguente:  
-"Art. 6 (Competenze delle regioni). - Alle regioni competono:  
-a) l'elaborazione, la predisposizione e l'aggiornamento sentiti i comuni, dei piani di organizzazione dei servizi di smaltimento dei rifiuti.  
-I piani debbono prevedere:  
-i tipi ed i quantitativi di rifiuti da smaltire;  
-i metodi di trattamento ottimali in relazione ai tipi ed alle quantita';  
-le zone, nonche' le modalita' di stoccaggio temporaneo e definitivo, ivi comprese le discariche controllate;  
-per i rifiuti tossici e nocivi, le piattaforme specializzate per i trattamenti.  
-I piani regionali possono prevedere la costituzione di consorzi tra comuni, anche con la partecipazione di comunita' montane, per lo smaltimento dei rifiuti, ai quali possono partecipare anche imprese singole o associate;  
-b) l'individuazione, sentiti i comuni interessati, delle zone idonee in cui realizzare gli impianti di trattamento e/o stoccaggio temporaneo e definitivo dei rifiuti; se del caso, l'individuazione delle zone puo' essere attuata mediante accordi interregionali. Alla individuazione di cui sopra si applicano le disposizioni di cui all'[art. 2, commi secondo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-03-05;62~art2-com2), [terzo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-03-05;62~art2-com3), [quarto](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-03-05;62~art2-com4) e [quinto, della legge 5 marzo 1982, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-03-05;62~art2-com5);  
-c) l'approvazione dei progetti e degli elaborati tecnici riguardanti gli impianti di smaltimento dei rifiuti urbani e di innocuizzazione e di eliminazione dei rifiuti speciali;  
-d) l'autorizzazione ad enti o imprese ad effettuare lo smaltimento dei rifiuti urbani e speciali prodotti da terzi; le autorizzazioni ad effettuare le operazioni di smaltimento dei rifiuti tossici e nocivi; le autorizzazioni all'installazione e alla gestione delle discariche e degli impianti di innocuizzazione e di eliminazione dei rifiuti speciali, approvati ai sensi della precedente lettera c);  
-e) il rilevamento statistico dei dati inerenti la produzione e lo smaltimento dei rifiuti nonche', per quelli tossici e nocivi, i dati relativi all'importazione ed esportazione; la trasmissione delle informazioni necessarie per le previste comunicazioni e relazioni di cui alla lettera i) dell'art. 4.  
-I predetti dati saranno trasmessi al Comitato dei Ministri;  
-f) l'emanazione di norme integrative e di attuazione del presente decreto per l'organizzazione dei servizi di smaltimento e le procedure di controllo e di autorizzazione.  
-Le regioni promuovono iniziative dirette a limitare le formazioni dei rifiuti, a favorire il riciclo e la riutilizzazione degli stessi e/o l'estrazione di materie utilizzabili e di energia; a realizzare impianti che assicurino un corretto smaltimento dei rifiuti tossici e nocivi.  
-Sono fatte salve le competenze delle regioni a statuto speciale e delle province autonome di Trento e Bolzano".
+## Art. 4.
 
-Art. 4
-------
+1.
 
-1. Il formulario previsto dal precedente art. 3 deve essere sottoscritto e datato dal produttore o detentore dei rifiuti e dal vettore stradale, ove diverso dal produttore o detentore, il quale effettua il trasporto alla stazione ferroviaria di partenza.
+Il formulario previsto dal precedente art. 3 deve essere sottoscritto e datato dal produttore o detentore dei rifiuti e dal vettore stradale, ove diverso dal produttore o detentore, il quale effettua il trasporto alla stazione ferroviaria di partenza.
 
-2. Il formulario deve essere redatto in cinque esemplari:
+2.
 
-a) un esemplare e' trattenuto dal produttore o detentore di rifiuti, il quale ne invia copia all'amministrazione provinciale competente prima dell'inizio del trasporto;
+Il formulario deve essere redatto in cinque esemplari:
+                        a)
+                            un esemplare e' trattenuto dal produttore o detentore di rifiuti, il quale ne invia copia all'amministrazione provinciale competente prima dell'inizio del trasporto;
+                        b)
+                            un esemplare deve essere consegnato al vettore stradale che effettua il trasporto alla stazione di partenza, ove il produttore o detentore non provveda direttamente, e deve essere datato e timbrato dall'impresa esercente il trasporto ferroviario all'atto di prendere in carico i rifiuti;
+                        c)
+                            un esemplare deve essere consegnato all'impresa ferroviaria;
+                        d)
+                            un esemplare deve essere consegnato dall'impresa esercente il trasporto ferroviario al vettore stradale che effettua il trasporto dalla stazione di arrivo all'impianto di smaltimento.
+ Tale esemplare deve essere datato e sottoscritto in arrivo dal destinatario dei rifiuti il quale provvede ad inviarne copia all'amministrazione provinciale di cui al punto a) e, al termine del trasporto, a quella competente per il territorio del luogo di destinazione dei rifiuti;
+                        e)
+                            un esemplare deve essere consegnato al destinatario dei rifiuti il quale ne invia copia all'amministrazione provinciale di cui al punto a) e a quella competente per il territorio del luogo di destinazione dei rifiuti, nonche' al produttore o detentore di rifiuti.
 
-b) un esemplare deve essere consegnato al vettore stradale che effettua il trasporto alla stazione di partenza, ove il produttore o detentore non provveda direttamente, e deve essere datato e timbrato dall'impresa esercente il trasporto ferroviario all'atto di prendere in carico i rifiuti;
+3.
 
-c) un esemplare deve essere consegnato all'impresa ferroviaria;
+Gli esemplari del formulario devono essere trattenuti per un periodo di almeno cinque anni.
 
-d) un esemplare deve essere consegnato dall'impresa esercente il trasporto ferroviario al vettore stradale che effettua il trasporto dalla stazione di arrivo all'impianto di smaltimento.  
-Tale esemplare deve essere datato e sottoscritto in arrivo dal destinatario dei rifiuti il quale provvede ad inviarne copia all'amministrazione provinciale di cui al punto a) e, al termine del trasporto, a quella competente per il territorio del luogo di destinazione dei rifiuti;
+4.
 
-e) un esemplare deve essere consegnato al destinatario dei rifiuti il quale ne invia copia all'amministrazione provinciale di cui al punto a) e a quella competente per il territorio del luogo di destinazione dei rifiuti, nonche' al produttore o detentore di rifiuti.
+Le province comunicano annualmente ai Ministeri dell'ambiente, della sanita' e alle regioni, i dati relativi al trasporto ferroviario dei rifiuti.
 
-3. Gli esemplari del formulario devono essere trattenuti per un periodo di almeno cinque anni.
+## Art. 5.
 
-4. Le province comunicano annualmente ai Ministeri dell'ambiente, della sanita' e alle regioni, i dati relativi al trasporto ferroviario dei rifiuti.
+1.
 
-Art. 5
-------
+Nel caso in cui il trasporto per ferrovia abbia inizio o termine in un porto, il produttore o il detentore di rifiuti deve provare, alle imprese esercenti il trasporto ferroviario, di aver assunto precedenti accordi per il trasporto marittimo e di essere munito delle necessarie autorizzazioni.
 
-1. Nel caso in cui il trasporto per ferrovia abbia inizio o termine in un porto, il produttore o il detentore di rifiuti deve provare, alle imprese esercenti il trasporto ferroviario, di aver assunto precedenti accordi per il trasporto marittimo e di essere munito delle necessarie autorizzazioni.
+2.
 
-2. Nel caso in cui il trasporto per ferrovia sia precedente o successivo al trasporto su strada non effettuato direttamente dal produttore o detentore di rifiuti, quest'ultimo deve provare all'impresa esercente il trasporto ferroviario di aver assunto precedenti accordi con il vettore stradale.
+Nel caso in cui il trasporto per ferrovia sia precedente o successivo al trasporto su strada non effettuato direttamente dal produttore o detentore di rifiuti, quest'ultimo deve provare all'impresa esercente il trasporto ferroviario di aver assunto precedenti accordi con il vettore stradale.
 
-3. Qualora i rifiuti speciali, tossici e nocivi non vengano ritirati alla stazione ferroviaria di arrivo, l'impresa esercente il trasporto ne da' immediata comunicazione al produttore o detentore dei rifiuti, nonche' all'amministrazione provinciale territorialmente competente, ai fini dell'adozione di tempestivi provvedimenti atti ad evitare le gravi conseguenze che potrebbero derivare dalla permanenza nella stazione stessa dei rifiuti anzidetti.
+3.
 
-4. Nel caso in cui i rifiuti non vengano ritirati presso la stazione ferroviaria, l'impresa esercente il trasporto, tenuto anche conto del periodo massimo durante il quale i rifiuti tossici e nocivi possono essere contenuti nell'imballaggio senza pericoli per l'incolumita' pubblica e per l'ambiente, puo' rispedirli al produttore o detentore, a loro spese.
+Qualora i rifiuti speciali, tossici e nocivi non vengano ritirati alla stazione ferroviaria di arrivo, l'impresa esercente il trasporto ne da' immediata comunicazione al produttore o detentore dei rifiuti, nonche' all'amministrazione provinciale territorialmente competente, ai fini dell'adozione di tempestivi provvedimenti atti ad evitare le gravi conseguenze che potrebbero derivare dalla permanenza nella stazione stessa dei rifiuti anzidetti.
 
-Art. 6
-------
+4.
 
-1. L'osservanza delle disposizioni del presente regolamento e' soggetta al controllo da parte delle province interessate in conformita' all'[art. 7 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-09-10;915~art7).
+Nel caso in cui i rifiuti non vengano ritirati presso la stazione ferroviaria, l'impresa esercente il trasporto, tenuto anche conto del periodo massimo durante il quale i rifiuti tossici e nocivi possono essere contenuti nell'imballaggio senza pericoli per l'incolumita' pubblica e per l'ambiente, puo' rispedirli al produttore o detentore, a loro spese.
+
+## Art. 6.
+
+1.
+
+L'osservanza delle disposizioni del presente regolamento e' soggetta al controllo da parte delle province interessate in conformita' all'[art. 7 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md).
+
+Nota all'art. 6:
+ - Il testo dell'[art. 7 del D.P.R. n. 915/1982](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982;915#art_7) (per il titolo si veda la nota precedente) e' il seguente:
+ "Art. 7 (Competenze delle province). - In attuazione al disposto dell'[art. 104, secondo comma, del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), le province sono preposte al controllo dello smaltimento dei rifiuti.
+ Esse si avvalgono dei servizi di igiene ambientale e medicina del lavoro delle competenti unita' sanitarie locali nonche' dei servizi e presidi multizonali di cui all'[art. 22 della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_22), e, ove questi ultimi non siano ancora istituiti, dei laboratori provinciali di igiene e profilassi".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 7 giugno 1991
+Roma, 7 giugno 1991
 
-Il Presidente del Consiglio dei Ministri ANDREOTTI Il Ministro dell'ambiente RUFFOLO
-
-Visto, il Guardasigilli: MARTELLI Registrato alla Corte dei conti il 13 agosto 1991
-
-Registro n. 11 Presidenza, foglio n. 241
-
-Nota all'art. 6:  
-- Il testo dell'[art. 7 del D.P.R. n. 915/1982](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;915~art7) (per il titolo si veda la nota precedente) e' il seguente:  
-"Art. 7 (Competenze delle province). - In attuazione al disposto dell'[art. 104, secondo comma, del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-07-24;616~art104-com2), le province sono preposte al controllo dello smaltimento dei rifiuti.  
-Esse si avvalgono dei servizi di igiene ambientale e medicina del lavoro delle competenti unita' sanitarie locali nonche' dei servizi e presidi multizonali di cui all'[art. 22 della legge 23 dicembre 1978, n. 833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833~art22), e, ove questi ultimi non siano ancora istituiti, dei laboratori provinciali di igiene e profilassi".
-
-Allegato 1
-
- ALLEGATO 1   
-  
-(Etichettatura prevista dal comma 2 dell'art. 2)   
-  
-  
-PRODUTTORE O DETENTORE   
-Ragione sociale   
-Indirizzo   
-  
-NOTIZIE RELATIVE AL RIFIUTO (da compilare a cura del produttore   
-o detentore)   
-Classificazione secondo [d.P.R. n. 915/1962](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962;915) e delibera 27   
-luglio 1984 .........................................................   
-Nome chimico e composizione percentuale delle sostanze   
-pericolose (1) ......................................................   
-.....................................................................   
-Quantita' (kg).............. Densita' apparente (kg/1)...............   
-Volume (2).................. Massa (2)...............................   
-Aspetto esterno dei rifiuti alla temperatura di....................›C   
-() polvere o polverulento () solido () vischioso o sciropposo   
-() fangoso () liquido () gassoso () altro   
-Colore rifiuti ......................................................   
-Luogo e processo di formazione dei rifiuti ..........................   
-.....................................................................   
-Luogo di detenzione dei rifiuti .....................................   
-.....................................................................   
-Classificazione secondo il RID ......................................   
-Tipo di imballaggio (3) .............................................   
-Data max di sicurezza .....................................   
-Natura dei rischi attribuiti al rifiuto (4) .........................   
-.....................................................................   
-Istruzioni in caso di pericolo o di incidente .............   
-.....................................................................   
-.....................................................................   
-Note:   
-(1) Indicare il o i due componenti principali del rifiuto. (2) Indicare l'unita' di misura.   
-(3) Indicare il codice secondo l'appendice V al RID oppure "CI" (cisterne fisse) o "CC" (contenitore cisterna).   
-(4) Riportare sia le sigle che le frasi tipo indicate   
-nell'allegato III al D.M. del Ministero della sanita' 17   
-dicembre 1977.   
-
-Allegato 2
-
- ALLEGATO 2   
-  
-(Formulario per la spedizione dei rifiuti speciali, tossici e nocivi previsto dal comma 1, lettera b), dell'art. 3)   
-  
-\_\_ PRODUTTORE O DETENTORE cod. Fisc........ Autorizzazione   
-1 Ragione sociale n..............   
-Indirizzo ([art.6 DPR 915/82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;915~art6)) SMALTITORE cod. Fisc........ Autorizzazione   
-2 Ragione sociale n..............   
-Indirizzo ([art.6 DPR 915/82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;915~art6)) I VETTORE STRADALE cod. Fisc........ Autorizzazione   
-3 Ragione sociale n..............   
-Indirizzo Targa veicolo.... ([art.6 DPR 915/82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;915~art6)) II VETTORE STRADALE cod. Fisc........ Autorizzazione   
-4 Ragione sociale n..............   
-Indirizzo Targa veicolo.... ([art.6 DPR 915/82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;915~art6)) VETTORE MARITTIMO cod. Fisc........   
-5 Ragione sociale   
-Indirizzo   
-\_\_ VETTORE FERROVIARIO cod. Fisc........   
-6 Ragione sociale   
-Indirizzo   
-Cod. Stazione partenza ..................   
-Cod. Stazione arrivo ..................   
-Numero Treno di partenza ..................   
-Data di partenza .................. TIMBRO   
-Numero della spedizione ..................   
-Numero di carro ..................   
-  
-NOTIZIE RELATIVE AL RIFIUTO   
-(da compilare a cura del produttore o detentore)   
-Classificazione secondo [DPR 915/82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;915) e Delibera 27 luglio 1984.........   
-Nome chimico e composizione percentuale della sostanza pericolosa....   
-.....................................................................   
-Quantita' (kg)................ Densita' apparente (kg/1).............   
-Volume (2).................... Massa (2).............................   
-Aspetto esterno dei rifiuti alla temperatura di....................C›   
-- polvere o polverulento - solido - vischioso o sciropposo   
-- fangoso - liquido - gassoso - altro   
-Colore rifiuti ......................................................   
-Luogo e processo di formazione dei rifiuti ..........................   
-.....................................................................   
-Luogo di detenzione dei rifiuti .....................................   
-.....................................................................   
-Classificazione secondo il RID ......................................   
-Tipo di imballaggio (3)......... Data max. di sicurezza..............   
-Natura dei rischi attribuiti ai rifiuti (4) .........................   
-Istruzioni in caso di pericolo o di incidente .......................   
-.....................................................................   
-Dichiaro che la spedizione risponde per contenuto ed imballaggio alle vigenti norme di trasporto e di averne comunicato l'invio allo smaltitore.   
-IL PRODUTTORE O DETENTORE DATA   
-.................................. ..................   
-  
-  
-Note:   
-(1) Indicare il o i due componenti principali del rifiuto. (2) Indicare l'unita' di misura.   
-(3) Indicare il codice secondo l'appendice V al RID oppure "CI" (cisterne fisse) o "CC" (contenitore cisterna).   
-(4) Riportare sia le sigle che le frasi tipo indicate   
-nell'allegato III al D.M. del Ministero della sanita'   
-dicembre 1977.   
+Il Presidente del Consiglio dei Ministri ANDREOTTI Il Ministro dell'ambiente RUFFOLO Visto, il Guardasigilli: MARTELLI Registrato alla Corte dei conti il 13 agosto 1991 Registro n. 11 Presidenza, foglio n. 241

@@ -1,20 +1,17 @@
-DECRETO-LEGGE 08 gennaio 1996 n. 7
+---
+tipo: DECRETO-LEGGE
+numero: 7
+data: 1996-01-08
+titolo: "Disposizioni urgenti in materia di partecipazioni ex EAGAT."
+urn: urn:nir:stato:decreto.legge:1996-01-08;7
+codice_redazionale: 095G0006
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 08 gennaio 1996 n. 7
-==================================
+DECRETO DECADUTO
 
-Disposizioni urgenti in materia di partecipazioni ex EAGAT.
------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 9/1/1996.Decreto-Legge decaduto per mancata conversione.
-
-Art. 1
-------
-
- DECRETO DECADUTO  
-
-Art. 2
-------
-
- DECRETO DECADUTO  
+DECRETO DECADUTO

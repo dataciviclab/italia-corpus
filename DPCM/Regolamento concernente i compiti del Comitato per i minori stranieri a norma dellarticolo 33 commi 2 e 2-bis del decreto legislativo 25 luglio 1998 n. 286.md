@@ -1,58 +1,61 @@
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 09 dicembre 1999 n. 535
+---
+tipo: DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
+numero: 535
+data: 1999-12-09
+titolo: "Regolamento concernente i compiti del Comitato per i minori stranieri, a norma dell'articolo 33, commi 2 e 2-bis, del decreto legislativo 25 luglio 1998, n. 286."
+urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:1999-12-09;535
+codice_redazionale: 000G0029
+vigente: true
+---
 
+## Disposizioni generali
 
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 09 dicembre 1999 n. 535
-=========================================================================
+Capo I
 
-Regolamento concernente i compiti del Comitato per i minori stranieri, a norma dell'articolo 33, commi 2 e 2-bis, del decreto legislativo 25 luglio 1998, n. 286.
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del provvedimento: 9/2/2000.
+((PROVVEDIMENTO ABROGATO DAL DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 DICEMBRE 2023, N. 231))
 
-CAPO I Capo I Disposizioni generali
------------------------------------
+## Comitato per i minori stranieri
 
-### Art. 1
+Capo II
 
-((PROVVEDIMENTO ABROGATO DAL DECRETO DEL [PRESIDENTE DELLA REPUBBLICA 27 DICEMBRE 2023, N. 231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica::2023-12-27;231)))
+### Art. 2.
 
-CAPO II Capo II Comitato per i minori stranieri
------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 DICEMBRE 2023, N. 231))
 
-### Art. 2
+### Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL DECRETO DEL [PRESIDENTE DELLA REPUBBLICA 27 DICEMBRE 2023, N. 231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica::2023-12-27;231)))
+((PROVVEDIMENTO ABROGATO DAL DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 DICEMBRE 2023, N. 231))
 
-### Art. 3
+### Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL DECRETO DEL [PRESIDENTE DELLA REPUBBLICA 27 DICEMBRE 2023, N. 231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica::2023-12-27;231)))
+((PROVVEDIMENTO ABROGATO DAL DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 DICEMBRE 2023, N. 231))
 
-### Art. 4
+## Censimento e accoglienza dei minori presenti non accompagnati
 
-((PROVVEDIMENTO ABROGATO DAL DECRETO DEL [PRESIDENTE DELLA REPUBBLICA 27 DICEMBRE 2023, N. 231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica::2023-12-27;231)))
+Capo III
 
-CAPO III Capo III Censimento e accoglienza dei minori presenti non accompagnati
--------------------------------------------------------------------------------
+### Art. 5.
 
-### Art. 5
+((PROVVEDIMENTO ABROGATO DAL DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 DICEMBRE 2023, N. 231))
 
-((PROVVEDIMENTO ABROGATO DAL DECRETO DEL [PRESIDENTE DELLA REPUBBLICA 27 DICEMBRE 2023, N. 231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica::2023-12-27;231)))
+### Art. 6.
 
-### Art. 6
+((PROVVEDIMENTO ABROGATO DAL DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 DICEMBRE 2023, N. 231))
 
-((PROVVEDIMENTO ABROGATO DAL DECRETO DEL [PRESIDENTE DELLA REPUBBLICA 27 DICEMBRE 2023, N. 231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica::2023-12-27;231)))
+### Art. 7.
 
-### Art. 7
+((PROVVEDIMENTO ABROGATO DAL DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 DICEMBRE 2023, N. 231))
 
-((PROVVEDIMENTO ABROGATO DAL DECRETO DEL [PRESIDENTE DELLA REPUBBLICA 27 DICEMBRE 2023, N. 231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica::2023-12-27;231)))
+## Ingresso e soggiorno dei minori accolti
 
-CAPO IV Capo IV Ingresso e soggiorno dei minori accolti
--------------------------------------------------------
+Capo IV
 
-### Art. 8
+### Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL DECRETO DEL [PRESIDENTE DELLA REPUBBLICA 27 DICEMBRE 2023, N. 231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica::2023-12-27;231)))
+((PROVVEDIMENTO ABROGATO DAL DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 DICEMBRE 2023, N. 231))
 
-### Art. 9
+### Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL DECRETO DEL [PRESIDENTE DELLA REPUBBLICA 27 DICEMBRE 2023, N. 231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica::2023-12-27;231)))
+((PROVVEDIMENTO ABROGATO DAL DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 DICEMBRE 2023, N. 231))

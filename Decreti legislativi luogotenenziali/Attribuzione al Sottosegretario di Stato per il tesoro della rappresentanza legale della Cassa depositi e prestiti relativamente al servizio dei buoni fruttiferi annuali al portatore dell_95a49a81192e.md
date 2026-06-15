@@ -1,20 +1,17 @@
-DECRETO LEGISLATIVO LUOGOTENENZIALE 03 ottobre 1944 n. 289
+---
+tipo: DECRETO LEGISLATIVO LUOGOTENENZIALE
+numero: 289
+data: 1944-10-03
+titolo: "Attribuzione al Sottosegretario di Stato per il tesoro della rappresentanza legale della Cassa depositi e prestiti relativamente al servizio dei buoni fruttiferi annuali al portatore della Cassa stessa. (044U0289)"
+urn: urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-03;289
+codice_redazionale: 044U0289
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO LUOGOTENENZIALE 03 ottobre 1944 n. 289
-==========================================================
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Attribuzione al Sottosegretario di Stato per il tesoro della rappresentanza legale della Cassa depositi e prestiti relativamente al servizio dei buoni fruttiferi annuali al portatore della Cassa stessa. (044U0289)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 09/11/1944
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

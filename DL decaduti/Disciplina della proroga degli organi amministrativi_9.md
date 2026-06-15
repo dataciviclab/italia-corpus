@@ -1,90 +1,59 @@
-DECRETO-LEGGE 17 gennaio 1994 n. 33
+---
+tipo: DECRETO-LEGGE
+numero: 33
+data: 1994-01-17
+titolo: "Disciplina della proroga degli organi amministrativi."
+urn: urn:nir:stato:decreto.legge:1994-01-17;33
+codice_redazionale: 094G0045
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 17 gennaio 1994 n. 33
-===================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 15 LUGLIO 1994, N. 444](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20maggio%201994%20n.%20293%20recante%20disciplina%20della%20proroga%20degli%20organi%20amministrativi.md)
 
-Disciplina della proroga degli organi amministrativi.
------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 19/1/1994.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 15 LUGLIO 1994, N. 444](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20maggio%201994%20n.%20293%20recante%20disciplina%20della%20proroga%20degli%20organi%20amministrativi.md)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 15 LUGLIO 1994, N. 444](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-15;444)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 15 LUGLIO 1994, N. 444](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20maggio%201994%20n.%20293%20recante%20disciplina%20della%20proroga%20degli%20organi%20amministrativi.md)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 15 LUGLIO 1994, N. 444](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-15;444)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 15 LUGLIO 1994, N. 444](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20maggio%201994%20n.%20293%20recante%20disciplina%20della%20proroga%20degli%20organi%20amministrativi.md)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 15 LUGLIO 1994, N. 444](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-15;444)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 15 LUGLIO 1994, N. 444](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20maggio%201994%20n.%20293%20recante%20disciplina%20della%20proroga%20degli%20organi%20amministrativi.md)
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 15 LUGLIO 1994, N. 444](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-15;444)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 15 LUGLIO 1994, N. 444](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20maggio%201994%20n.%20293%20recante%20disciplina%20della%20proroga%20degli%20organi%20amministrativi.md)
 
-Art. 5
-------
+## Art. 7.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 15 LUGLIO 1994, N. 444](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-15;444)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 15 LUGLIO 1994, N. 444](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20maggio%201994%20n.%20293%20recante%20disciplina%20della%20proroga%20degli%20organi%20amministrativi.md)
 
-Art. 6
-------
+## Art. 8.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 15 LUGLIO 1994, N. 444](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-15;444)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 15 LUGLIO 1994, N. 444](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20maggio%201994%20n.%20293%20recante%20disciplina%20della%20proroga%20degli%20organi%20amministrativi.md)
 
-Art. 7
-------
+## Art. 9.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 15 LUGLIO 1994, N. 444](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-15;444)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 15 LUGLIO 1994, N. 444](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20maggio%201994%20n.%20293%20recante%20disciplina%20della%20proroga%20degli%20organi%20amministrativi.md)
 
-Art. 8
-------
+## Art. 10.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 15 LUGLIO 1994, N. 444](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-15;444)
-  
-
-Art. 9
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 15 LUGLIO 1994, N. 444](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-15;444)
-  
-
-Art. 10
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 15 LUGLIO 1994, N. 444](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-15;444)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 15 LUGLIO 1994, N. 444](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20maggio%201994%20n.%20293%20recante%20disciplina%20della%20proroga%20degli%20organi%20amministrativi.md)

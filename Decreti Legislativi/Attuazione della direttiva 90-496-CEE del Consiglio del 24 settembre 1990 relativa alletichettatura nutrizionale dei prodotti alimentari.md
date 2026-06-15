@@ -1,77 +1,57 @@
-DECRETO LEGISLATIVO 16 febbraio 1993 n. 77
+---
+tipo: DECRETO LEGISLATIVO
+numero: 77
+data: 1993-02-16
+titolo: "Attuazione della direttiva 90/496/CEE del Consiglio del 24 settembre 1990 relativa all'etichettatura nutrizionale dei prodotti alimentari."
+urn: urn:nir:stato:decreto.legislativo:1993-02-16;77
+codice_redazionale: 093G0116
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 16 febbraio 1993 n. 77
-==========================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 DICEMBRE 2017, N. 231))
 
-Attuazione della direttiva 90/496/CEE del Consiglio del 24 settembre 1990 relativa all'etichettatura nutrizionale dei prodotti alimentari.
-------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 08/04/1993
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 DICEMBRE 2017, N. 231))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 DICEMBRE 2017, N. 231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-15;231)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 DICEMBRE 2017, N. 231))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 DICEMBRE 2017, N. 231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-15;231)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 DICEMBRE 2017, N. 231))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 DICEMBRE 2017, N. 231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-15;231)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 DICEMBRE 2017, N. 231))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 DICEMBRE 2017, N. 231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-15;231)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 DICEMBRE 2017, N. 231))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 DICEMBRE 2017, N. 231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-15;231)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 DICEMBRE 2017, N. 231))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 DICEMBRE 2017, N. 231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-15;231)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 DICEMBRE 2017, N. 231))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 DICEMBRE 2017, N. 231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-15;231)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 DICEMBRE 2017, N. 231))
 
-Art. 8
-------
+## Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 DICEMBRE 2017, N. 231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-15;231)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 DICEMBRE 2017, N. 231))
 
-Art. 9
-------
+## Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 DICEMBRE 2017, N. 231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-15;231)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 DICEMBRE 2017, N. 231))
 
-Art. 10
--------
+## Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 DICEMBRE 2017, N. 231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-15;231)))
-
-Art. 11
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 DICEMBRE 2017, N. 231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-15;231)))
-
-Art. 12
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 DICEMBRE 2017, N. 231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-15;231)))
-
-Allegato
-
- Allegato   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 DICEMBRE 2017, N. 231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-15;231)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 DICEMBRE 2017, N. 231))

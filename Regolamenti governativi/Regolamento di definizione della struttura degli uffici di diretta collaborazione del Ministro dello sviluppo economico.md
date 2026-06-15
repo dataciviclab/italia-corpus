@@ -1,60 +1,49 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 novembre 2008 n. 198
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 198
+data: 2008-11-28
+titolo: "Regolamento di definizione della struttura degli uffici di diretta collaborazione del Ministro dello sviluppo economico."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2008-11-28;198
+codice_redazionale: 008G0221
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 novembre 2008 n. 198
-===============================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 173))
 
-Regolamento di definizione della struttura degli uffici di diretta collaborazione del Ministro dello sviluppo economico.
-------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 1-1-2009
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 173))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 173](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;173)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 173))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 173](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;173)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 173))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 173](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;173)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 173))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 173](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;173)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 173))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 173](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;173)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 173))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 173](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;173)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 173))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 173](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;173)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 173))
 
-Art. 8
-------
+## Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 173](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;173)))
-
-Art. 9
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 173](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;173)))
-
-Art. 10
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 173](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;173)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 173))

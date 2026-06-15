@@ -1,60 +1,49 @@
-DECRETO LEGISLATIVO 17 maggio 1999 n. 191
+---
+tipo: DECRETO LEGISLATIVO
+numero: 191
+data: 1999-05-17
+titolo: "Attuazione della direttiva 95/47/CE in materia di emissione di segnali televisivi."
+urn: urn:nir:stato:decreto.legislativo:1999-05-17;191
+codice_redazionale: 099G0273
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 17 maggio 1999 n. 191
-=========================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-Attuazione della direttiva 95/47/CE in materia di emissione di segnali televisivi.
-----------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 8-7-1999
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-Art. 8
-------
+## Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259)))
-
-Art. 9
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259)))
-
-Art. 10
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))

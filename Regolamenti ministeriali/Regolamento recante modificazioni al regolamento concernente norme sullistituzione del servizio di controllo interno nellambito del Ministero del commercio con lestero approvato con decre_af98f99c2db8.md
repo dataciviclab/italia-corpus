@@ -1,180 +1,53 @@
-DECRETO 21 luglio 1999 n. 316
-
-
-DECRETO 21 luglio 1999 n. 316
-=============================
-
-Regolamento recante modificazioni al regolamento concernente norme sull'istituzione del servizio di controllo interno nell'ambito del Ministero del commercio con l'estero, approvato con decreto ministeriale 24 febbraio 1997, n. 95.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 28/9/1999
+---
+tipo: DECRETO
+numero: 316
+data: 1999-07-21
+titolo: "Regolamento recante modificazioni al regolamento concernente norme sull'istituzione del servizio di controllo interno nell'ambito del Ministero del commercio con l'estero, approvato con decreto ministeriale 24 febbraio 1997, n. 95."
+urn: urn:nir:ministero.commercio.estero:decreto:1999-07-21;316
+codice_redazionale: 099G0390
+vigente: true
+---
 
 IL MINISTRO
------------
 
 DEL COMMERCIO CON L'ESTERO
 
-Visto l'[articolo 20 del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art20), come sostituito dall'[articolo 6 del decreto legislativo 18 novembre 1993, n. 470](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-11-18;470~art6);
+Visto l'[articolo 20 del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), come sostituito dall'[articolo 6 del decreto legislativo 18 novembre 1993, n. 470](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20del%20decreto%20legislativo%203%20febbraio%201993%20n.%2029%20recante%20razionalizzazione%20dellorganizzazione%20delle%20amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20_de1af61c91ea.md);
 
-Visto il [decreto del Presidente della Repubblica 18 aprile 1994, n. 302](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1994-04-18;302);
+Visto il [decreto del Presidente della Repubblica 18 aprile 1994, n. 302](../Regolamenti%20governativi/Regolamento%20concernente%20lindividuazione%20degli%20uffici%20di%20livello%20dirigenziale%20del%20Ministero%20del%20commercio%20con%20lestero.md);
 
-Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3);
+Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-Visto il [decreto del Ministro del commercio con l'estero 24 febbraio 1997, n. 95](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.commercio.estero:decreto:1997-02-24;95);
+Visto il [decreto del Ministro del commercio con l'estero 24 febbraio 1997, n. 95](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20sullistituzione%20del%20servizio%20di%20controllo%20interno%20nellambito%20del%20Ministero.md);
 
 Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 5 luglio 1999;
 
-Vista la comunicazione al Presidente del Consiglio dei Ministri, a norma dell'articolo 17, comma 3, della citata [legge n. 400 del 1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400), inviata con nota n. 35826 del 16 luglio 1999;
+Vista la comunicazione al Presidente del Consiglio dei Ministri, a norma dell'articolo 17, comma 3, della citata [legge n. 400 del 1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400), inviata con nota n. 35826 del 16 luglio 1999;
 
-Adotta
-------
+Adotta il seguente regolamento:
 
-il seguente regolamento:
+## Art. 1. — Modifica dell'organizzazione del servizio
+ di controllo interno
 
-Art. 1
-------
+1.
 
-Modifica dell'organizzazione del servizio  
-di controllo interno
+I [commi 1](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20sullistituzione%20del%20servizio%20di%20controllo%20interno%20nellambito%20del%20Ministero.md) e [2 dell'articolo 3 del decreto del Ministro del commercio con l'estero del 24 febbraio 1997, n. 95](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20sullistituzione%20del%20servizio%20di%20controllo%20interno%20nellambito%20del%20Ministero.md), sono sostituiti dai seguenti:
+ " 1. Alla direzione del servizio e' preposto un collegio, denominato collegio per il controllo interno, nominato con decreto del Ministro del commercio con l'estero e composto da tre membri di cui uno, che assume la funzione di presidente, scelto tra i magistrati amministrativi e contabili o tra il personale appartenente al ruolo unico dei dirigenti di prima fascia di cui all'[articolo 23 del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e di altri due scelti tra i dirigenti di seconda fascia dello stesso ruolo unico. I dirigenti assegnati al collegio di cui al presente comma svolgono esclusivamente le attivita' inerenti al servizio di controllo interno.
+ 2. Con ulteriore decreto del Ministro del commercio con l'estero si provvede, altresi', ad assegnare al servizio un contingente di dirigenti di seconda fascia fino ad un massimo di tre unita', di cinque unita' di personale con qualifica non inferiore alla settima e di tre unita' con qualifica non superiore alla quinta.".
 
-1. I [commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.commercio.estero:decreto:1997-02-24;95~art3-com1) e [2 dell'articolo 3 del decreto del Ministro del commercio con l'estero del 24 febbraio 1997, n. 95](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.commercio.estero:decreto:1997-02-24;95~art3-com2), sono sostituiti dai seguenti:  
-" 1. Alla direzione del servizio e' preposto un collegio, denominato collegio per il controllo interno, nominato con decreto del Ministro del commercio con l'estero e composto da tre membri di cui uno, che assume la funzione di presidente, scelto tra i magistrati amministrativi e contabili o tra il personale appartenente al ruolo unico dei dirigenti di prima fascia di cui all'[articolo 23 del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art23), e di altri due scelti tra i dirigenti di seconda fascia dello stesso ruolo unico. I dirigenti assegnati al collegio di cui al presente comma svolgono esclusivamente le attivita' inerenti al servizio di controllo interno.  
-2. Con ulteriore decreto del Ministro del commercio con l'estero si provvede, altresi', ad assegnare al servizio un contingente di dirigenti di seconda fascia fino ad un massimo di tre unita', di cinque unita' di personale con qualifica non inferiore alla settima e di tre unita' con qualifica non superiore alla quinta.".
+Note all'art. 1:
+ - Si riporta il testo vigente dell'[art. 3, commi 1](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20sullistituzione%20del%20servizio%20di%20controllo%20interno%20nellambito%20del%20Ministero.md) e [2, del decreto del Ministro del commercio con l'estero 24 febbraio 1997, n. 95](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20sullistituzione%20del%20servizio%20di%20controllo%20interno%20nellambito%20del%20Ministero.md), citato nelle note alle premesse, come modificati dal presente regolamento:
+ "Art. 3 (Organizzazione del servizio). - 1. Alla direzione del servizio e' preposto un collegio, denominato Collegio per il controllo interno, nominato con decreto del Ministro del Commercio con l'estero e composto da tre membri di cui uno, che assume la funzione di Presidente, scelto tra i magistrati amministrativi e contabili o tra il personale appartenente al ruolo unico dei dirigenti di prima fascia di cui all'[art. 23 del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e di altri due scelti tra i dirigenti di seconda fascia dello stesso ruolo unico. I dirigenti assegnati al Collegio di cui al presente comma svolgono esclusivamente le attivita' inerenti al servizio di controllo interno.
+ 2. Con ulteriore decreto del Ministro del commercio con l'estero si provvede, altresi', ad assegnare al servizio un contingente di dirigenti di seconda fascia fino ad un massimo di tre unita', di cinque unita' di personale con qualifica non inferiore alla settima e di tre unita' con qualifica non inferiore alla quinta".
+ - Si riporta il testo dell'[art. 23 del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), citato nelle note alle premesse:
+ "Art. 23 (Ruolo unico dei dirigenti). - 1. E' istituito presso la Presidenza del Consiglio dei Ministri, il ruolo unico dei dirigenti delle amministrazioni dello Stato, anche ad ordinamento autonomo, articolato in due fasce.
+ La distinzione in fasce ha rilievo agli effetti del trattamento economico e, limitatamente a quanto previsto dall'art. 19, ai fini del conferimento degli incarichi di dirigenza generale.
+ 2. Nella prima fascia del ruolo unico sono inseriti in sede di prima applicazione del presente decreto i dirigenti generali in servizio alla data di entrata in vigore del regolamento di cui al comma 3 e, successivamente, i dirigenti che abbiano ricoperto incarichi di direzione di uffici dirigenziali generali ai sensi dell'art. 19 per un tempo pari ad almeno cinque anni, senza essere incorsi nelle misure previste dall'art. 21, comma 2, per le ipotesi di responsabilita' dirigenziale. Nella seconda fascia sono inseriti gli altri dirigenti in servizio alla medesima data e i dirigenti reclutati attraverso i meccanismi di accesso di cui all'art. 28.
+ 3. Con regolamento da emanare, entro il 31 luglio 1998, ai sensi dell'[art. 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2), sono disciplinate le modalita' di costituzione e tenuta del ruolo unico, articolato in modo da garantire la necessaria specificita' tecnica, nonche' le modalita' dei concorsi per l'accesso alla dirigenza di cui all'art. 28. Il regolamento disciplina altresi' le modalita' di elezione del componente del comitato di garanti di cui all'art. 21, comma 3.
+ 4. La Presidenza del Consiglio dei Ministri cura una banca dati informatica contenente i dati curricolari e professionali di ciascun dirigente, al fine di promuovere la mobilita' e l'interscambio professionale degli stessi fra amministrazioni statali, amministrazioni centrali e locali, organismi ed enti internazionali e dell'Unione europea".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 21 luglio 1999
+Roma, 21 luglio 1999
 
-Il Ministro: Fassino
-
-Visto, il Guardasigilli: Diliberto Registrato alla Corte dei conti il 2 settembre 1999
-
-Registro n. 1 Commercio estero, foglio n. 116 Avvertenza: Il testo delle note qui pubblicato e' stato
-
-redatto dall'amministrazione competente per materia, ai
-
-sensi dell'art. 10, commi 2 e 3, del testo unico delle
-
-disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica italiana e sulle pubblicazioni ufficiali della
-
-Repubblica italiana, approvato con D.P.R. 28 dicembre
-
-1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' applicato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. Note alle premesse:
-
-- Il decreto legislativo 3 febbraio 1993, n. 29, recante: "Razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisione della
-
-disciplina in materia di pubblico impiego, a norma
-
-dell'art. 2 della legge 23 ottobre 1992, n. 421", e'
-
-pubblicato nella Gazzetta Ufficiale 6 febbraio 1993,
-
-n. 30. Si riporta il testo vigente dell'art. 20, come modificato dall'art. 6 del decreto legislativo 18
-
-novembre 1993, n. 470, pubblicato nella Gazzetta
-
-Ufficiale 24 novembre 1993, n. 276. "Art. 20 (Verifica dei risultati. Responsabilita' dirigenziali). - 1. I dirigenti generali ed i dirigenti sono responsabili del risultato dell'attivita'
-
-svolta dagli uffici ai quali sono preposti, della realizzazione dei programmi e dei progetti loro affidati in relazione agli obiettivi dei rendimenti e
-
-dei risultati della gestione finanziaria, tecnica,
-
-ed amministrativa, incluse le decisioni organizzative
-
-e di gestione del personale. All'inizio di ogni anno, i
-
-dirigenti presentano al direttore generale, e questi al
-
-Ministro, una relazione sull'attivita' svolta nell'anno precedente.
-
-2. Nelle amministrazioni pubbliche, ove gia' non
-
-esistano, sono istituiti servizi di controllo interno, o
-
-nuclei di valutazione, con il compito di verificare, mediante valutazioni comparative dei costi e dei
-
-rendimenti, la realizzazione degli obietti, la corretta
-
-ed economica gestione delle risorse pubbliche, l'imparzialita' ed il buon andamento dell'azione amministrativa. I servizi o nuclei determinano almeno
-
-annualmente, anche su indicazione degli organi di vertice, i parametri di riferimento del controllo. 3. Gli uffici di cui al comma 2 operano in posizione di autonomia e rispondono esclusivamente agli organi di
-
-direzione politica. Ad essi e' attribuito, nell'ambito
-
-delle dotazioni organiche vigenti, un apposito contingente di personale. Puo' essere utilizzato anche personale gia' collocato fuori ruolo. Per motivate
-
-esigenze, le amministrazioni pubbliche possono altresi'
-
-avvalersi di consulenti esterni, esperti in tecniche di valutazione e nel controllo di gestione.
-
-4. I nuclei di valutazione, ove istituiti, sono composti da dirigenti generali e da esperti anche esterni alle amministrazioni. In casi di particolare
-
-complessita', il Presidente del Consiglio puo' stipulare,
-
-anche cumulativamente per piu' amministrazioni, convenzioni apposite con soggetti pubblici o privati particolarmente qualificati. 5. I servizi e nuclei hanno accesso ai documenti
-
-amministrativi e possono richiedere, oralmente o per
-
-iscritto, informazioni agli uffici pubblici. Riferiscono trimestralmente sui risultati della loro attivita' agli organi generali di direzione. Gli uffici di controllo interno delle amministrazioni territoriali e periferiche riferiscono altresi' ai comitati di cui al comma 6. 6. I comitati provinciali delle pubbliche amministrazioni e i comitati metropolitani di cui
-
-all'art. 18 del decreto-legge 24 novembre 1990, n. 344,
-
-convertito, con modificazioni, dalla legge 23 gennaio
-
-1991, n. 21, e al decreto del Presidente del Consiglio
-
-dei Ministri 10 giugno 1992, si avvalgono degli uffici di controllo interno delle amministrazioni territoriali e periferiche. 7. All'istituzione degli uffici di cui al comma 2 si provvede con regolamenti delle singole amministrazioni da emanarsi entro il 1 febbraio 1994. E' consentito
-
-avvalersi, sulla base di apposite convenzioni, di uffici gia' istituiti in altre amministrazioni. 8. Per la Presidenza del Consiglio dei Ministri e per le amministrazioni che esercitano competenze in
-
-materia di difesa e sicurezza dello Stato, di polizia e
-
-di giustizia, le operazioni di cui al comma 2 sono effettuate dal Ministro per i dirigenti e dal Consiglio dei Ministri per i dirigenti generali. I termini e le modalita' di attuazione del procedimento di verifica dei risultati da parte del Ministro competente e del Consiglio dei Ministri sono stabiliti rispettivamente con regolamento ministeriale e con decreto del Presidente
-
-della Repubblica da adottarsi entro sei mesi, ai sensi
-
-dell'art. 17, della legge 23 agosto 1988, n. 400". - Il decreto del Presidente della Repubblica 18 aprile
-
-1994, n. 302, recante: "Regolamento concernente l'individuazione degli uffici di livello dirigenziale del
-
-Ministero del commercio con l'estero", e' pubblicato nella
-
-Gazzetta Ufficiale 23 maggio 1994, n. 118.
-
-- La legge 23 agosto 1988, n. 400, recante: "Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri". Si
-
-riporta il testo vigente dell'art. 17, comma 3, come
-
-modificato dall'art. 13 della legge 15 marzo 1997, n. 59, recante: "Delega al Governo per il conferimento di
-
-funzioni e compiti alle regioni ed enti locali, per la riforma della pubblica amministrazione e per la
-
-semplificazione amministrativa", pubblicata nella Gazzetta
-
-Ufficiale 17 marzo 1997, n. 63: "3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di
-
-autorita' sottordinate al Ministro, quando la legge
-
-espressamente conferisca tale potere. Tali regolamenti,
-
-per materie di competenza di piu' Ministri, possono essere
-
-adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione".
-
-- Il decreto ministeriale 24 febbraio 1997, n. 95, concernente: "Regolamento recante norme sull'istituzione del servizio di controllo interno nell'ambito del
-
-Ministero", e' pubblicato nella Gazzetta Ufficiale 10
-
-aprile 1997, n. 83.
-
-Note all'art. 1:  
-- Si riporta il testo vigente dell'[art. 3, commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.commercio.estero:decreto:1997-02-24;95~art3-com1) e [2, del decreto del Ministro del commercio con l'estero 24 febbraio 1997, n. 95](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.commercio.estero:decreto:1997-02-24;95~art3-com2), citato nelle note alle premesse, come modificati dal presente regolamento:  
-"Art. 3 (Organizzazione del servizio). - 1. Alla direzione del servizio e' preposto un collegio, denominato Collegio per il controllo interno, nominato con decreto del Ministro del Commercio con l'estero e composto da tre membri di cui uno, che assume la funzione di Presidente, scelto tra i magistrati amministrativi e contabili o tra il personale appartenente al ruolo unico dei dirigenti di prima fascia di cui all'[art. 23 del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art23), e di altri due scelti tra i dirigenti di seconda fascia dello stesso ruolo unico. I dirigenti assegnati al Collegio di cui al presente comma svolgono esclusivamente le attivita' inerenti al servizio di controllo interno.  
-2. Con ulteriore decreto del Ministro del commercio con l'estero si provvede, altresi', ad assegnare al servizio un contingente di dirigenti di seconda fascia fino ad un massimo di tre unita', di cinque unita' di personale con qualifica non inferiore alla settima e di tre unita' con qualifica non inferiore alla quinta".  
-- Si riporta il testo dell'[art. 23 del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art23), citato nelle note alle premesse:  
-"Art. 23 (Ruolo unico dei dirigenti). - 1. E' istituito presso la Presidenza del Consiglio dei Ministri, il ruolo unico dei dirigenti delle amministrazioni dello Stato, anche ad ordinamento autonomo, articolato in due fasce.  
-La distinzione in fasce ha rilievo agli effetti del trattamento economico e, limitatamente a quanto previsto dall'art. 19, ai fini del conferimento degli incarichi di dirigenza generale.  
-2. Nella prima fascia del ruolo unico sono inseriti in sede di prima applicazione del presente decreto i dirigenti generali in servizio alla data di entrata in vigore del regolamento di cui al comma 3 e, successivamente, i dirigenti che abbiano ricoperto incarichi di direzione di uffici dirigenziali generali ai sensi dell'art. 19 per un tempo pari ad almeno cinque anni, senza essere incorsi nelle misure previste dall'art. 21, comma 2, per le ipotesi di responsabilita' dirigenziale. Nella seconda fascia sono inseriti gli altri dirigenti in servizio alla medesima data e i dirigenti reclutati attraverso i meccanismi di accesso di cui all'art. 28.  
-3. Con regolamento da emanare, entro il 31 luglio 1998, ai sensi dell'[art. 17, comma 2, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com2), sono disciplinate le modalita' di costituzione e tenuta del ruolo unico, articolato in modo da garantire la necessaria specificita' tecnica, nonche' le modalita' dei concorsi per l'accesso alla dirigenza di cui all'art. 28. Il regolamento disciplina altresi' le modalita' di elezione del componente del comitato di garanti di cui all'art. 21, comma 3.  
-4. La Presidenza del Consiglio dei Ministri cura una banca dati informatica contenente i dati curricolari e professionali di ciascun dirigente, al fine di promuovere la mobilita' e l'interscambio professionale degli stessi fra amministrazioni statali, amministrazioni centrali e locali, organismi ed enti internazionali e dell'Unione europea".
+Il Ministro: Fassino Visto, il Guardasigilli: Diliberto Registrato alla Corte dei conti il 2 settembre 1999 Registro n. 1 Commercio estero, foglio n. 116 Avvertenza: Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica italiana e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' applicato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. Note alle premesse: - Il decreto legislativo 3 febbraio 1993, n. 29, recante: "Razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego, a norma dell'art. 2 della legge 23 ottobre 1992, n. 421", e' pubblicato nella Gazzetta Ufficiale 6 febbraio 1993, n. 30. Si riporta il testo vigente dell'art. 20, come modificato dall'art. 6 del decreto legislativo 18 novembre 1993, n. 470, pubblicato nella Gazzetta Ufficiale 24 novembre 1993, n. 276. "Art. 20 (Verifica dei risultati. Responsabilita' dirigenziali). - 1. I dirigenti generali ed i dirigenti sono responsabili del risultato dell'attivita' svolta dagli uffici ai quali sono preposti, della realizzazione dei programmi e dei progetti loro affidati in relazione agli obiettivi dei rendimenti e dei risultati della gestione finanziaria, tecnica, ed amministrativa, incluse le decisioni organizzative e di gestione del personale. All'inizio di ogni anno, i dirigenti presentano al direttore generale, e questi al Ministro, una relazione sull'attivita' svolta nell'anno precedente. 2. Nelle amministrazioni pubbliche, ove gia' non esistano, sono istituiti servizi di controllo interno, o nuclei di valutazione, con il compito di verificare, mediante valutazioni comparative dei costi e dei rendimenti, la realizzazione degli obietti, la corretta ed economica gestione delle risorse pubbliche, l'imparzialita' ed il buon andamento dell'azione amministrativa. I servizi o nuclei determinano almeno annualmente, anche su indicazione degli organi di vertice, i parametri di riferimento del controllo. 3. Gli uffici di cui al comma 2 operano in posizione di autonomia e rispondono esclusivamente agli organi di direzione politica. Ad essi e' attribuito, nell'ambito delle dotazioni organiche vigenti, un apposito contingente di personale. Puo' essere utilizzato anche personale gia' collocato fuori ruolo. Per motivate esigenze, le amministrazioni pubbliche possono altresi' avvalersi di consulenti esterni, esperti in tecniche di valutazione e nel controllo di gestione. 4. I nuclei di valutazione, ove istituiti, sono composti da dirigenti generali e da esperti anche esterni alle amministrazioni. In casi di particolare complessita', il Presidente del Consiglio puo' stipulare, anche cumulativamente per piu' amministrazioni, convenzioni apposite con soggetti pubblici o privati particolarmente qualificati. 5. I servizi e nuclei hanno accesso ai documenti amministrativi e possono richiedere, oralmente o per iscritto, informazioni agli uffici pubblici. Riferiscono trimestralmente sui risultati della loro attivita' agli organi generali di direzione. Gli uffici di controllo interno delle amministrazioni territoriali e periferiche riferiscono altresi' ai comitati di cui al comma 6. 6. I comitati provinciali delle pubbliche amministrazioni e i comitati metropolitani di cui all'art. 18 del decreto-legge 24 novembre 1990, n. 344, convertito, con modificazioni, dalla legge 23 gennaio 1991, n. 21, e al decreto del Presidente del Consiglio dei Ministri 10 giugno 1992, si avvalgono degli uffici di controllo interno delle amministrazioni territoriali e periferiche. 7. All'istituzione degli uffici di cui al comma 2 si provvede con regolamenti delle singole amministrazioni da emanarsi entro il 1 febbraio 1994. E' consentito avvalersi, sulla base di apposite convenzioni, di uffici gia' istituiti in altre amministrazioni. 8. Per la Presidenza del Consiglio dei Ministri e per le amministrazioni che esercitano competenze in materia di difesa e sicurezza dello Stato, di polizia e di giustizia, le operazioni di cui al comma 2 sono effettuate dal Ministro per i dirigenti e dal Consiglio dei Ministri per i dirigenti generali. I termini e le modalita' di attuazione del procedimento di verifica dei risultati da parte del Ministro competente e del Consiglio dei Ministri sono stabiliti rispettivamente con regolamento ministeriale e con decreto del Presidente della Repubblica da adottarsi entro sei mesi, ai sensi dell'art. 17, della legge 23 agosto 1988, n. 400". - Il decreto del Presidente della Repubblica 18 aprile 1994, n. 302, recante: "Regolamento concernente l'individuazione degli uffici di livello dirigenziale del Ministero del commercio con l'estero", e' pubblicato nella Gazzetta Ufficiale 23 maggio 1994, n. 118. - La legge 23 agosto 1988, n. 400, recante: "Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri". Si riporta il testo vigente dell'art. 17, comma 3, come modificato dall'art. 13 della legge 15 marzo 1997, n. 59, recante: "Delega al Governo per il conferimento di funzioni e compiti alle regioni ed enti locali, per la riforma della pubblica amministrazione e per la semplificazione amministrativa", pubblicata nella Gazzetta Ufficiale 17 marzo 1997, n. 63: "3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione". - Il decreto ministeriale 24 febbraio 1997, n. 95, concernente: "Regolamento recante norme sull'istituzione del servizio di controllo interno nell'ambito del Ministero", e' pubblicato nella Gazzetta Ufficiale 10 aprile 1997, n. 83.

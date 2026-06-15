@@ -1,18 +1,17 @@
-DECRETO LEGISLATIVO 12 febbraio 1948 n. 95
+---
+tipo: DECRETO LEGISLATIVO
+numero: 95
+data: 1948-02-12
+titolo: "Condono di sanzioni disciplinari in occasione della nuova Costituzione dello Stato."
+urn: urn:nir:stato:decreto.legislativo:1948-02-12;95
+codice_redazionale: 048U0095
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 12 febbraio 1948 n. 95
-==========================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Condono di sanzioni disciplinari in occasione della nuova Costituzione dello Stato.
------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

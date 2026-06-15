@@ -1,46 +1,33 @@
-DECRETO-LEGGE 06 agosto 1993 n. 279
+---
+tipo: DECRETO-LEGGE
+numero: 279
+data: 1993-08-06
+titolo: "Disposizioni urgenti in materia di edilizia sanitaria."
+urn: urn:nir:stato:decreto.legge:1993-08-06;279
+codice_redazionale: 093G0361
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 06 agosto 1993 n. 279
-===================================
+DECRETO DECADUTO
 
-Disposizioni urgenti in materia di edilizia sanitaria.
-------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 08/08/1993.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO   
-
-Art. 5
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 6
-------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

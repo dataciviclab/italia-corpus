@@ -1,26 +1,24 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 dicembre 1995 n. 582
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 dicembre 1995 n. 582
-===============================================================
-
-Regolamento di cui all'art. 4, comma 3, della legge 28 dicembre 1993, n. 561, recante trasformazione di reati minori in illeciti amministrativi.
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 23-2-1996
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 582
+data: 1995-12-30
+titolo: "Regolamento di cui all'art. 4, comma 3, della legge 28 dicembre 1993, n. 561, recante trasformazione di reati minori in illeciti amministrativi."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1995-12-30;582
+codice_redazionale: 096G0058
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art. 17, comma 1, lettera a), della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com1-leta);
+Visto l'[art. 17, comma 1, lettera a), della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1-leta);
 
-Vista la [legge 28 dicembre 1993, n. 561](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-28;561), recante trasformazione di reati minori in illeciti amministrativi;
+Vista la [legge 28 dicembre 1993, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-28;561), recante trasformazione di reati minori in illeciti amministrativi;
 
-Considerato che l'art. 4, comma 3, della citata [legge n. 561 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;561) prevede la individuazione degli uffici periferici ai quali deve essere inviato il rapporto di cui all'[art. 17 della legge 24 novembre 1981, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689~art17);
+Considerato che l'art. 4, comma 3, della citata [legge n. 561 del 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;561) prevede la individuazione degli uffici periferici ai quali deve essere inviato il rapporto di cui all'[art. 17 della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_17);
 
-Considerata la necessita' di procedere alla suddetta indicazione, in relazione ai reati minori trasformati in illeciti amministrativi, di cui agli articoli 1 e 3 della citata [legge n. 561 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;561);
+Considerata la necessita' di procedere alla suddetta indicazione, in relazione ai reati minori trasformati in illeciti amministrativi, di cui agli articoli 1 e 3 della citata [legge n. 561 del 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;561);
 
 Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 9 novembre 1995;
 
@@ -30,81 +28,67 @@ Sulla proposta del Presidente del Consiglio dei Ministri;
 
 E M A N A il seguente regolamento:
 
-Art. 1
-------
+## Art. 1.
 
-1. Gli uffici periferici dei Ministeri ai quali deve essere inviato il rapporto previsto dall'[art. 17 della legge 24 novembre 1981, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689~art17), e dall'[art. 4 della legge 28 dicembre 1993, n. 561](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-28;561~art4), in relazione alle violazioni di cui agli articoli 1 e 3 della citata [legge n. 561 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;561), sono individuati come segue:
+1.
 
-a) Ministero dell'interno: prefetto, in relazione alle violazioni di cui all'art. 1, comma 1, lettere a), g), i) e m), della citata [legge n. 561 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;561);
+Gli uffici periferici dei Ministeri ai quali deve essere inviato il rapporto previsto dall'[art. 17 della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_17), e dall'[art. 4 della legge 28 dicembre 1993, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-28;561#art_4), in relazione alle violazioni di cui agli articoli 1 e 3 della citata [legge n. 561 del 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;561), sono individuati come segue:
+                        a)
+                            Ministero dell'interno: prefetto, in relazione alle violazioni di cui all'art. 1, comma 1, lettere a), g), i) e m), della citata [legge n. 561 del 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;561);
+                        b)
+                            Ministero delle finanze: direzione regionale delle entrate e direzioni compartimentali delle dogane e delle imposte indirette, in relazione alle violazioni di cui all'art. 1, comma 1, rispettivamente lettera b), e lettere e), f) ed l), della citata [legge n. 561 del 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;561);
+                        c)
+                            Ministero dell'industria, del commercio e dell'artigianato: ufficio provinciale dell'industria, del commercio e dell'artigianato, in relazione alla violazione di cui all'art. 1, comma 1, lettera c), della citata [legge n. 561 del 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;561);
+                        d)
+                            Ministero del lavoro e della previdenza sociale: ispettorato del lavoro, in relazione alla violazione di cui all'art. 1, comma 1, lettera d), della citata [legge n. 561 del 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;561);
+                        e)
+                            Ministero dei trasporti e della navigazione: uffici speciali per i trasporti e impianti fissi (U.S.T.I.F.) e capitanerie di porto, rispettivamente in relazione alle violazioni di cui all'art. 1, comma 1, lettera h), ed all'art. 3, della citata [legge n. 561 del 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;561).
 
-b) Ministero delle finanze: direzione regionale delle entrate e direzioni compartimentali delle dogane e delle imposte indirette, in relazione alle violazioni di cui all'art. 1, comma 1, rispettivamente lettera b), e lettere e), f) ed l), della citata [legge n. 561 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;561);
-
-c) Ministero dell'industria, del commercio e dell'artigianato: ufficio provinciale dell'industria, del commercio e dell'artigianato, in relazione alla violazione di cui all'art. 1, comma 1, lettera c), della citata [legge n. 561 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;561);
-
-d) Ministero del lavoro e della previdenza sociale: ispettorato del lavoro, in relazione alla violazione di cui all'art. 1, comma 1, lettera d), della citata [legge n. 561 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;561);
-
-e) Ministero dei trasporti e della navigazione: uffici speciali per i trasporti e impianti fissi (U.S.T.I.F.) e capitanerie di porto, rispettivamente in relazione alle violazioni di cui all'art. 1, comma 1, lettera h), ed all'art. 3, della citata [legge n. 561 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;561).
+Nota al titolo:
+ - Il testo dell'[art. 4 della legge 28 dicembre 1993, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-28;561#art_4) (Trasformazione di reati minori in illeciti amministrativi), e' il seguente:
+ "Art. 4 (Disposizioni finali e transitorie). - 1. Le disposizioni di cui agli articoli 1, 2 e 3 della presente legge si applicano anche alle violazioni commesse anteriormente alla data della sua entrata in vigore quando il procedimento penale non sia stato definito con sentenza passata in giudicato o con decreto irrevocabile.
+ 2. Per quanto non espressamente previsto nella presente legge si applicano le disposizioni della [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689), e successive modificazioni, in quanto compatibili.
+ 3. Con decreto del Presidente della Repubblica, su proposta del Presidente del Consiglio dei Ministri, da emanare entro centottanta giorni dalla data di entrata in vigore della presente legge, sono indicati gli uffici periferici ai quali deve essere inviato il rapporto di cui all'[art.17 della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_17)".
+ Note alle premesse:
+ - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
+ - Il [comma 1, lettera a), dell'art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com1-leta) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il parere del Consiglio di Stato che deve pronunziarsi entro novanta giorni dalla richiesta, possano essere emanati regolamenti per disciplinare l'esecuzione delle leggi e dei decreti legislativi. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
+ - Per il testo dell'art. 4 della citata [legge n. 561/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;561) si veda in nota al titolo.
+ - Il testo dell'[art. 17 della legge n. 689/1981](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;689#art_17) (Modifiche al sistema penale) e' il seguente:
+ "Art. 17 (Obbligo del rapporto). - Qualora non sia stato effettuato il pagamento in misura ridotta, il funzionario o l'agente che ha accertato la violazione, salvo che ricorra l'ipotesi prevista nell'art. 24, deve presentare rapporto, con la prova delle eseguite contestazioni o notificazioni, all'ufficio periferico cui sono demandati attribuzioni e compiti del Ministero nella cui competenza rientra la materia alla quale si riferisce la violazione o, in mancanza, al prefetto.
+ Deve essere presentato al prefetto il rapporto relativo alle violazioni previste dal [testo unico delle norme sulla circolazione](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20circolazione%20e%20soggiorno%20dei%20cittadini%20degli%20Stati%20membri%20dellUnione%20europea.%20Testo%20A.md) stradale, approvato con [D.P.R. 15 giugno 1959, n. 393](../DPR/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md), dal testo unico per la tutela delle strade, approvato con [R.D. 8 dicembre 1933, n. 1740](../Regi%20decreti/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), e dalla [legge 20 giugno 1935, n. 1349](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplinamento%20dei%20servizi%20di%20trasporto%20merci%20mediante%20autoveicoli.%20035U1349.md), sui servizi di trasporto merci.
+ Nelle materie di competenza delle regioni e negli altri casi, per le funzioni amministrative ad esse delegate, il rapporto e' presentato all'ufficio regionale competente.
+ Per le violazioni dei regolamenti provinciali e comunali il rapporto e' presentato, rispettivamente, al presidente della giunta provinciale o al sindaco.
+ L'ufficio territorialmente competente e' quello del luogo in cui e' stata commessa la violazione.
+ Il funzionario o l'agente che ha proceduto al sequestro previsto dall'art. 13 deve immediatamente informare l'autorita' amministrativa competente a norma dei precedenti commi, inviandole il processo verbale di sequestro.
+ Con decreto del Presidente della Repubblica, su proposta del Presidente del Consiglio dei Ministri, da emanare entro centottanta giorni dalla pubblicazione della presente legge, in sostituzione del [D.P.R. 13 maggio 1976, n. 407](../DPR/Individuazione%20degli%20uffici%20periferici%20dei%20Ministeri%20cui%20sono%20demandate%20attribuzioni%20per%20lapplicazione%20del%20sistema%20sanzionatorio%20previsto%20dalla%20legge%2024%20dicembre%201975%20n.%20706.md), saranno indicati gli uffici periferici dei singoli Ministeri, previsti nel primo comma, anche per i casi in cui leggi precedenti abbiano regolato diversamente la competenza.
+ Con il decreto indicato nel comma precedente saranno stabilite le modalita' relative alla esecuzione del sequestro previsto dall'art. 13, al trasporto ed alla consegna delle cose sequestrate, alla custodia ed alla eventuale alienazione o distruzione delle stesse; sara' altresi' stabilita la destinazione delle cose confiscate.
+ Le regioni, per le materie di loro competenza, provvederanno con legge nel termine previsto dal comma precedente".
+ - Il testo dell'art. 1 della citata [legge n. 561/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;561) e' il seguente:
+ "Art. 1 (Casi di trasformazione di reati minori in illeciti amministrativi). - 1. Non costituiscono reato e sono soggette alla sanzione amministrativa del pagamento di una somma di denaro le violazioni previste dalle seguenti disposizioni:
+ a) [art. 10 del regio decreto-legge 15 marzo 1927, n. 436](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-15;436#art_10),
+ convertito dalla [legge 19 febbraio 1928, n. 510](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2015%20marzo%201927%20n.%20436%20riguardante%20la%20disciplina%20dei%20contratti%20di%20compra-vendita%20degli%20autoveicoli%20e%20listituzione%20del%20pubblico%20registro%20automobilis_468c3b2ba2d0.md), e successive modificazioni, in materia di privilegi nella compravendita di autoveicoli;
+ b) [art. 114 del regio decreto-legge 19 ottobre 1938, n. 1933](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-10-19;1933#art_114), convertito, con modificazioni, dalla [legge 5 giugno 1939, n. 973](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2019%20ottobre%201938-XVI%20n.%201933%20riguardante%20la%20riforma%20delle%20leggi%20sul%20lotto%20pubblico.%20039U0973.md), e successive modificazioni, in materia di operazioni di lotteria o di sorte in genere;
+ c) art. 235 delle disposizioni approvate con [regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267), e successive modificazioni, in materia di elenchi di protesti cambiari;
+ d) [articoli 53](../DPR/Testo%20unico%20delle%20disposizioni%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali.md) e [54 del decreto del Presidente della Repubblica 30 giugno 1965, n. 1124](../DPR/Testo%20unico%20delle%20disposizioni%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali.md), e successive modificazioni, in materia di denuncia di infortuni;
+ e) [art. 8 del decreto-legge 20 aprile 1971, n. 163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1971-04-20;163#art_8), convertito, con modificazioni, dalla [legge 18 giugno 1971, n. 376](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20aprile%201971%20n.%20163%20concernente%20il%20regime%20fiscale%20degli%20apparecchi%20di%20accensione.md), e successive modificazioni, in materia di regime fiscale degli apparecchi di accensione;
+ f) [art. 8 del decreto del Presidente della Repubblica 1 ottobre 1971, n. 1198](../DPR/Regime%20fiscale%20degli%20accendigas%20per%20uso%20domestico.md), in materia di regime fiscale degli accendigas per uso domestico;
+ g) art. 195, comma 2, del testo unico aprovato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), e successive modificazioni, limitatamente agli impianti radioelettrici soggetti ad autorizzazione;
+ h) articoli 19, terzo comma, 26 e 30 del [decreto del Presidente della Repubblica 11 luglio 1980, n. 753](../DPR/Nuove%20norme%20in%20materia%20di%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20ferrovie%20e%20di%20altri%20servizi%20di%20trasporto.md), in materia di trasporti ferroviari;
+ i) [art. 11, terzo comma, della legge 24 ottobre 1942, n. 1415](../Atti%20normativi%20abrogati%20%28in%20originale%29/Impianto%20ed%20esercizio%20di%20ascensori%20e%20di%20montacarichi%20in%20servizio%20privato.%20042U1415.md), e successive modificazioni, in materia di ascensori e montacarichi;
+ l) articoli 13, secondo comma, e 17 del [decreto-legge 5 maggio 1957, n. 271](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20la%20prevenzione%20e%20la%20repressione%20delle%20frodi%20nel%20settore%20degli%20oli%20minerali.md), convertito, con modificazioni, dalla [legge 2 luglio 1957, n. 474](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20maggio%201957%20n.%20271%20concernente%20disposizioni%20per%20la%20prevenzione%20e%20la%20repressione%20delle%20frodi%20nel%20settore%20degli%20oli%20minerali.md), in materia di oli minerali;
+ m) articoli 5-quinquies, primo comma, e 17, ultimo comma, del [decreto-legge 8 aprile 1974, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1974-04-08;95), convertito, con modificazioni, dalla [legge 7 giugno 1974, n. 216](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20aprile%201974%20n.%2095%20recante%20disposizioni%20relative%20al%20mercato%20mobiliare%20ed%20al%20trattamento%20fiscale%20dei%20titoli%20azionari.md), e successive modificazioni, in materia di mercato mobiliare, limitatamente ai fatti di tardiva dichiarazione o comunicazione eseguite con un ritardo non superiore a trenta giorni; articoli 18 e 18-ter del medesimo decreto-legge".
+ - L'art. 3 della medesima [legge n. 561/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;561) sostituisce il testo degli [articoli 1161](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [1174 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) con il seguente:
+ "Art. 1161 (Abusiva occupazione di spazio demaniale e inosservanza di limiti alla proprieta' privata). - Chiunque arbitrariamente occupa uno spazio del demanio marittimo o aeronautico o delle zone portuali della navigazione interna, ne impedisce l'uso pubblico o vi fa innovazioni non autorizzate, ovvero non osserva le disposizioni degli articoli 55, 714 e 716, e' punito con l'arresto fino a sei mesi o con l'ammenda fino a lire un milione, sempre che il fatto non costituisca un piu' grave reato.
+ Se l'occupazione di cui al primo comma e' effettuata con un veicolo, si applica la sanzione amministrativa del pagamento di una somma da lire duecentomila a lire un milioneduecentomila; in tal caso si puo' procedere alla immediata rimozione forzata del veicolo in deroga alla procedura di cui all'art. 54".
+ "Art. 1174 (Inosservanza di norme di polizia). - Chiunque non osserva una disposizione di legge o di regolamento, ovvero un provvedimento legalmente dato dall'autorita' competente in materia di polizia dei porti o degli aerodromi, e' punito, se il fatto non costituisce un piu' grave reato, con l'arresto fino a tre mesi, ovvero con l'ammenda fino a lire quattrocentomila.
+ Se l'inosservanza riguarda un provvedimento dell'autorita' in materia di circolazione nell'ambito del demanio marittimo o aeronautico, si applica la sanzione amministrativa del pagamento di una somma da lire centomila a lire seicentomila".
+ Note all'art. 1:
+ - Per il testo dell'art. 17 della citata [legge n. 689/1981](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;689) si veda in nota alle premesse.
+ - Per il testo dell'art. 4 della citata [legge n. 561/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;561) si veda in nota al titolo.
+ - Per il testo degli articoli 1 e 3 della citata [legge n. 561/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;561) si veda in nota alle premesse.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 dicembre 1995
+Dato a Roma, addi' 30 dicembre 1995
 
-SCALFARO
-
-DINI, Presidente del Consiglio dei Ministri
-
-Visto, il Guardasigilli: DINI Registrato alla Corte dei conti il 2 febbraio 1996
-
-Atti di Governo, registro n. 98, foglio n. 9 AVVERTENZA: Il testo delle note qui pubblicato e' stato redatto ai
-
-sensi dell'art. 10, comma 3, del testo unico delle
-
-disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica
-
-e sulle pubblicazioni ufficiali della Repubblica italiana,
-
-approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
-
-Nota al titolo:  
-- Il testo dell'[art. 4 della legge 28 dicembre 1993, n. 561](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-28;561~art4) (Trasformazione di reati minori in illeciti amministrativi), e' il seguente:  
-"Art. 4 (Disposizioni finali e transitorie). - 1. Le disposizioni di cui agli articoli 1, 2 e 3 della presente legge si applicano anche alle violazioni commesse anteriormente alla data della sua entrata in vigore quando il procedimento penale non sia stato definito con sentenza passata in giudicato o con decreto irrevocabile.  
-2. Per quanto non espressamente previsto nella presente legge si applicano le disposizioni della [legge 24 novembre 1981, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689), e successive modificazioni, in quanto compatibili.  
-3. Con decreto del Presidente della Repubblica, su proposta del Presidente del Consiglio dei Ministri, da emanare entro centottanta giorni dalla data di entrata in vigore della presente legge, sono indicati gli uffici periferici ai quali deve essere inviato il rapporto di cui all'[art.17 della legge 24 novembre 1981, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689~art17)".  
-Note alle premesse:  
-- L'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.  
-- Il [comma 1, lettera a), dell'art. 17 della legge n. 400/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400~art17-com1-leta) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il parere del Consiglio di Stato che deve pronunziarsi entro novanta giorni dalla richiesta, possano essere emanati regolamenti per disciplinare l'esecuzione delle leggi e dei decreti legislativi. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.  
-- Per il testo dell'art. 4 della citata [legge n. 561/1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;561) si veda in nota al titolo.  
-- Il testo dell'[art. 17 della legge n. 689/1981](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;689~art17) (Modifiche al sistema penale) e' il seguente:  
-"Art. 17 (Obbligo del rapporto). - Qualora non sia stato effettuato il pagamento in misura ridotta, il funzionario o l'agente che ha accertato la violazione, salvo che ricorra l'ipotesi prevista nell'art. 24, deve presentare rapporto, con la prova delle eseguite contestazioni o notificazioni, all'ufficio periferico cui sono demandati attribuzioni e compiti del Ministero nella cui competenza rientra la materia alla quale si riferisce la violazione o, in mancanza, al prefetto.  
-Deve essere presentato al prefetto il rapporto relativo alle violazioni previste dal [testo unico delle norme sulla circolazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-01-18;54) stradale, approvato con [D.P.R. 15 giugno 1959, n. 393](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-06-15;393), dal testo unico per la tutela delle strade, approvato con [R.D. 8 dicembre 1933, n. 1740](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-08;1740), e dalla [legge 20 giugno 1935, n. 1349](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-06-20;1349), sui servizi di trasporto merci.  
-Nelle materie di competenza delle regioni e negli altri casi, per le funzioni amministrative ad esse delegate, il rapporto e' presentato all'ufficio regionale competente.  
-Per le violazioni dei regolamenti provinciali e comunali il rapporto e' presentato, rispettivamente, al presidente della giunta provinciale o al sindaco.  
-L'ufficio territorialmente competente e' quello del luogo in cui e' stata commessa la violazione.  
-Il funzionario o l'agente che ha proceduto al sequestro previsto dall'art. 13 deve immediatamente informare l'autorita' amministrativa competente a norma dei precedenti commi, inviandole il processo verbale di sequestro.  
-Con decreto del Presidente della Repubblica, su proposta del Presidente del Consiglio dei Ministri, da emanare entro centottanta giorni dalla pubblicazione della presente legge, in sostituzione del [D.P.R. 13 maggio 1976, n. 407](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-05-13;407), saranno indicati gli uffici periferici dei singoli Ministeri, previsti nel primo comma, anche per i casi in cui leggi precedenti abbiano regolato diversamente la competenza.  
-Con il decreto indicato nel comma precedente saranno stabilite le modalita' relative alla esecuzione del sequestro previsto dall'art. 13, al trasporto ed alla consegna delle cose sequestrate, alla custodia ed alla eventuale alienazione o distruzione delle stesse; sara' altresi' stabilita la destinazione delle cose confiscate.  
-Le regioni, per le materie di loro competenza, provvederanno con legge nel termine previsto dal comma precedente".  
-- Il testo dell'art. 1 della citata [legge n. 561/1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;561) e' il seguente:  
-"Art. 1 (Casi di trasformazione di reati minori in illeciti amministrativi). - 1. Non costituiscono reato e sono soggette alla sanzione amministrativa del pagamento di una somma di denaro le violazioni previste dalle seguenti disposizioni:  
-a) [art. 10 del regio decreto-legge 15 marzo 1927, n. 436](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-15;436~art10),  
-convertito dalla [legge 19 febbraio 1928, n. 510](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-02-19;510), e successive modificazioni, in materia di privilegi nella compravendita di autoveicoli;  
-b) [art. 114 del regio decreto-legge 19 ottobre 1938, n. 1933](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-10-19;1933~art114), convertito, con modificazioni, dalla [legge 5 giugno 1939, n. 973](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-05;973), e successive modificazioni, in materia di operazioni di lotteria o di sorte in genere;  
-c) art. 235 delle disposizioni approvate con [regio decreto 16 marzo 1942, n. 267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267), e successive modificazioni, in materia di elenchi di protesti cambiari;  
-d) [articoli 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-06-30;1124~art53) e [54 del decreto del Presidente della Repubblica 30 giugno 1965, n. 1124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-06-30;1124~art54), e successive modificazioni, in materia di denuncia di infortuni;  
-e) [art. 8 del decreto-legge 20 aprile 1971, n. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1971-04-20;163~art8), convertito, con modificazioni, dalla [legge 18 giugno 1971, n. 376](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-06-18;376), e successive modificazioni, in materia di regime fiscale degli apparecchi di accensione;  
-f) [art. 8 del decreto del Presidente della Repubblica 1 ottobre 1971, n. 1198](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-10-01;1198~art8), in materia di regime fiscale degli accendigas per uso domestico;  
-g) art. 195, comma 2, del testo unico aprovato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-03-29;156), e successive modificazioni, limitatamente agli impianti radioelettrici soggetti ad autorizzazione;  
-h) articoli 19, terzo comma, 26 e 30 del [decreto del Presidente della Repubblica 11 luglio 1980, n. 753](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;753), in materia di trasporti ferroviari;  
-i) [art. 11, terzo comma, della legge 24 ottobre 1942, n. 1415](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-10-24;1415~art11-com3), e successive modificazioni, in materia di ascensori e montacarichi;  
-l) articoli 13, secondo comma, e 17 del [decreto-legge 5 maggio 1957, n. 271](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1957-05-05;271), convertito, con modificazioni, dalla [legge 2 luglio 1957, n. 474](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-07-02;474), in materia di oli minerali;  
-m) articoli 5-quinquies, primo comma, e 17, ultimo comma, del [decreto-legge 8 aprile 1974, n. 95](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1974-04-08;95), convertito, con modificazioni, dalla [legge 7 giugno 1974, n. 216](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-06-07;216), e successive modificazioni, in materia di mercato mobiliare, limitatamente ai fatti di tardiva dichiarazione o comunicazione eseguite con un ritardo non superiore a trenta giorni; articoli 18 e 18-ter del medesimo decreto-legge".  
-- L'art. 3 della medesima [legge n. 561/1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;561) sostituisce il testo degli [articoli 1161](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art1161) e [1174 del codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art1174) con il seguente:  
-"Art. 1161 (Abusiva occupazione di spazio demaniale e inosservanza di limiti alla proprieta' privata). - Chiunque arbitrariamente occupa uno spazio del demanio marittimo o aeronautico o delle zone portuali della navigazione interna, ne impedisce l'uso pubblico o vi fa innovazioni non autorizzate, ovvero non osserva le disposizioni degli articoli 55, 714 e 716, e' punito con l'arresto fino a sei mesi o con l'ammenda fino a lire un milione, sempre che il fatto non costituisca un piu' grave reato.  
-Se l'occupazione di cui al primo comma e' effettuata con un veicolo, si applica la sanzione amministrativa del pagamento di una somma da lire duecentomila a lire un milioneduecentomila; in tal caso si puo' procedere alla immediata rimozione forzata del veicolo in deroga alla procedura di cui all'art. 54".  
-"Art. 1174 (Inosservanza di norme di polizia). - Chiunque non osserva una disposizione di legge o di regolamento, ovvero un provvedimento legalmente dato dall'autorita' competente in materia di polizia dei porti o degli aerodromi, e' punito, se il fatto non costituisce un piu' grave reato, con l'arresto fino a tre mesi, ovvero con l'ammenda fino a lire quattrocentomila.  
-Se l'inosservanza riguarda un provvedimento dell'autorita' in materia di circolazione nell'ambito del demanio marittimo o aeronautico, si applica la sanzione amministrativa del pagamento di una somma da lire centomila a lire seicentomila".  
-Note all'art. 1:  
-- Per il testo dell'art. 17 della citata [legge n. 689/1981](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;689) si veda in nota alle premesse.  
-- Per il testo dell'art. 4 della citata [legge n. 561/1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;561) si veda in nota al titolo.  
-- Per il testo degli articoli 1 e 3 della citata [legge n. 561/1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;561) si veda in nota alle premesse.
+SCALFARO DINI, Presidente del Consiglio dei Ministri Visto, il Guardasigilli: DINI Registrato alla Corte dei conti il 2 febbraio 1996 Atti di Governo, registro n. 98, foglio n. 9 AVVERTENZA: Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.

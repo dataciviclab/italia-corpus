@@ -1,55 +1,45 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 luglio 1998 n. 277
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 277
+data: 1998-07-08
+titolo: "Regolamento recante norme di attuazione della direttiva 91/440/CEE relativa allo sviluppo delle ferrovie comunitarie."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1998-07-08;277
+codice_redazionale: 098G0340
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 luglio 1998 n. 277
-=============================================================
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 8 LUGLIO 2003, N. 188 ))
 
-Regolamento recante norme di attuazione della direttiva 91/440/CEE relativa allo sviluppo delle ferrovie comunitarie.
----------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 27-8-1998
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 8 LUGLIO 2003, N. 188 ))
 
-Art. 1
-------
+## Art. 3.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 LUGLIO 2003, N. 188](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-07-08;188) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 8 LUGLIO 2003, N. 188 ))
 
-Art. 2
-------
+## Art. 4.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 LUGLIO 2003, N. 188](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-07-08;188) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 8 LUGLIO 2003, N. 188 ))
 
-Art. 3
-------
+## Art. 5.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 LUGLIO 2003, N. 188](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-07-08;188) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 8 LUGLIO 2003, N. 188 ))
 
-Art. 4
-------
+## Art. 6.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 LUGLIO 2003, N. 188](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-07-08;188) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 8 LUGLIO 2003, N. 188 ))
 
-Art. 5
-------
+## Art. 7.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 LUGLIO 2003, N. 188](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-07-08;188) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 8 LUGLIO 2003, N. 188 ))
 
-Art. 6
-------
+## Art. 8.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 LUGLIO 2003, N. 188](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-07-08;188) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 8 LUGLIO 2003, N. 188 ))
 
-Art. 7
-------
+## Art. 9.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 LUGLIO 2003, N. 188](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-07-08;188) ))
-
-Art. 8
-------
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 LUGLIO 2003, N. 188](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-07-08;188) ))
-
-Art. 9
-------
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 LUGLIO 2003, N. 188](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-07-08;188) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 8 LUGLIO 2003, N. 188 ))

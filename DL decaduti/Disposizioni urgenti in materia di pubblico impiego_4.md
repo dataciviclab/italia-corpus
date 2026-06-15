@@ -1,48 +1,33 @@
-DECRETO-LEGGE 26 luglio 1989 n. 260
+---
+tipo: DECRETO-LEGGE
+numero: 260
+data: 1989-07-26
+titolo: "Disposizioni urgenti in materia di pubblico impiego."
+urn: urn:nir:stato:decreto.legge:1989-07-26;260
+codice_redazionale: 089G0339
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 26 luglio 1989 n. 260
-===================================
+DECRETO DECADUTO
 
-Disposizioni urgenti in materia di pubblico impiego.
-----------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 27/7/1989.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 8 AGOSTO 1991, N. 265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-08;265)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 8 AGOSTO 1991, N. 265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-08;265)
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 8 AGOSTO 1991, N. 265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-08;265)
-  
-
-Art. 5
-------
-
-  
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 8 AGOSTO 1991, N. 265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-08;265)
-  
-
-Art. 6
-------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

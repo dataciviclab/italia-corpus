@@ -1,65 +1,53 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 2001 n. 241
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 241
+data: 2001-05-14
+titolo: "Regolamento di organizzazione degli uffici di diretta collaborazione del Ministro della difesa."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2001-05-14;241
+codice_redazionale: 001G0298
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 2001 n. 241
-=============================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 24 FEBBRAIO 2006, N. 162))
 
-Regolamento di organizzazione degli uffici di diretta collaborazione del Ministro della difesa.
------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 11-7-2001
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 24 FEBBRAIO 2006, N. 162))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 24 FEBBRAIO 2006, N. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2006-02-24;162)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 24 FEBBRAIO 2006, N. 162))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 24 FEBBRAIO 2006, N. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2006-02-24;162)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 24 FEBBRAIO 2006, N. 162))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 24 FEBBRAIO 2006, N. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2006-02-24;162)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 24 FEBBRAIO 2006, N. 162))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 24 FEBBRAIO 2006, N. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2006-02-24;162)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 24 FEBBRAIO 2006, N. 162))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 24 FEBBRAIO 2006, N. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2006-02-24;162)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 24 FEBBRAIO 2006, N. 162))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 24 FEBBRAIO 2006, N. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2006-02-24;162)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 24 FEBBRAIO 2006, N. 162))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 24 FEBBRAIO 2006, N. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2006-02-24;162)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 24 FEBBRAIO 2006, N. 162))
 
-Art. 8
-------
+## Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 24 FEBBRAIO 2006, N. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2006-02-24;162)))
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 24 FEBBRAIO 2006, N. 162](../DPR/Regolamento%20di%20organizzazione%20degli%20uffici%20di%20diretta%20collaborazione%20del%20Ministro%20della%20difesa_2.md)))
 
-Art. 9
-------
+## Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 24 FEBBRAIO 2006, N. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2006-02-24;162)))
-
-Art. 10
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 24 FEBBRAIO 2006, N. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2006-02-24;162)))  
-
-Art. 11
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 24 FEBBRAIO 2006, N. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2006-02-24;162)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 24 FEBBRAIO 2006, N. 162))

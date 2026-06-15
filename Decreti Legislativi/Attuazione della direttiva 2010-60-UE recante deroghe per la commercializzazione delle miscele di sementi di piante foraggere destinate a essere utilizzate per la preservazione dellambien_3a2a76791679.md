@@ -1,90 +1,73 @@
-DECRETO LEGISLATIVO 14 agosto 2012 n. 148
+---
+tipo: DECRETO LEGISLATIVO
+numero: 148
+data: 2012-08-14
+titolo: "Attuazione della direttiva 2010/60/UE, recante deroghe per la commercializzazione delle miscele di sementi di piante foraggere destinate a essere utilizzate per la preservazione dell'ambiente naturale. (12G0169)"
+urn: urn:nir:stato:decreto.legislativo:2012-08-14;148
+codice_redazionale: 012G0169
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 14 agosto 2012 n. 148
-=========================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-Attuazione della direttiva 2010/60/UE, recante deroghe per la commercializzazione delle miscele di sementi di piante foraggere destinate a essere utilizzate per la preservazione dell'ambiente naturale. (12G0169)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 14/09/2012
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;20)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;20)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;20)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;20)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;20)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;20)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;20)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-Art. 8
-------
+## Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;20)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-Art. 9
-------
+## Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;20)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-Art. 10
--------
+## Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;20)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-Art. 11
--------
+## Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;20)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-Art. 12
--------
+## Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;20)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-Art. 13
--------
+## Art. 15.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;20)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-Art. 14
--------
+## Art. 16.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;20)))
-
-Art. 15
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;20)))
-
-Art. 16
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;20)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))

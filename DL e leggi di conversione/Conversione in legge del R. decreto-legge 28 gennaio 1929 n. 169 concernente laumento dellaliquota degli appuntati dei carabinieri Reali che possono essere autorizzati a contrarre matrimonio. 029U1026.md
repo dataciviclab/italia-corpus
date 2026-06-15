@@ -1,16 +1,14 @@
-LEGGE 13 giugno 1929 n. 1026
+---
+tipo: LEGGE
+numero: 1026
+data: 1929-06-13
+titolo: "Conversione in legge del R. decreto-legge 28 gennaio 1929, n. 169, concernente l'aumento dell'aliquota degli appuntati dei carabinieri Reali che possono essere autorizzati a contrarre matrimonio. (029U1026)"
+urn: urn:nir:stato:legge:1929-06-13;1026
+codice_redazionale: 029U1026
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 13 giugno 1929 n. 1026
-============================
-
-Conversione in legge del R. decreto-legge 28 gennaio 1929, n. 169, concernente l'aumento dell'aliquota degli appuntati dei carabinieri Reali che possono essere autorizzati a contrarre matrimonio. (029U1026)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/07/1929
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

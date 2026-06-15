@@ -1,51 +1,33 @@
-DECRETO-LEGGE 08 maggio 1987 n. 177
+---
+tipo: DECRETO-LEGGE
+numero: 177
+data: 1987-05-08
+titolo: "Interventi urgenti in materia di opere di difesa del suolo."
+urn: urn:nir:stato:decreto.legge:1987-05-08;177
+codice_redazionale: 087U0177
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 08 maggio 1987 n. 177
-===================================
+DECRETO DECADUTO
 
-Interventi urgenti in materia di opere di difesa del suolo.
------------------------------------------------------------
+## Art. 2.
 
-Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 3
-------
+## Art. 5.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 4
-------
+## Art. 6.
 
- DECRETO DECADUTO  
-
-Art. 5
-------
-
- DECRETO DECADUTO  
-
-Art. 6
-------
-
- DECRETO DECADUTO  
-
-Tabella A
-
- Tabella A   
-DECRETO DECADUTO   
-
-aTabella B
-
- Tabella B   
-DECRETO DECADUTO   
+DECRETO DECADUTO

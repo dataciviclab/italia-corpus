@@ -1,64 +1,54 @@
-DECRETO LEGISLATIVO 28 febbraio 1992 n. 263
+---
+tipo: DECRETO LEGISLATIVO
+numero: 263
+data: 1992-02-28
+titolo: "Istituzione dell'imposta del cinque per cento sulle concessioni e locazioni dei beni pubblici in attuazione alla delega di cui all'art. 3 della legge 12 luglio 1991, n. 202."
+urn: urn:nir:stato:decreto.legislativo:1992-02-28;263
+codice_redazionale: 092G0304
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 28 febbraio 1992 n. 263
-===========================================
+((PROVVEDIMENTO ABROGATO DAL D.L. 30 AGOSTO 1993, N. 331, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 29 OTTOBRE 1993, N. 427))
 
-Istituzione dell'imposta del cinque per cento sulle concessioni e locazioni dei beni pubblici in attuazione alla delega di cui all'art. 3 della legge 12 luglio 1991, n. 202.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 17/04/1992
+((PROVVEDIMENTO ABROGATO DAL D.L. 30 AGOSTO 1993, N. 331, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 29 OTTOBRE 1993, N. 427))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 30 AGOSTO 1993, N. 331](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-30;331), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 30 AGOSTO 1993, N. 331, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 29 OTTOBRE 1993, N. 427))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 30 AGOSTO 1993, N. 331](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-30;331), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 30 AGOSTO 1993, N. 331, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 29 OTTOBRE 1993, N. 427))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 30 AGOSTO 1993, N. 331](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-30;331), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 30 AGOSTO 1993, N. 331, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 29 OTTOBRE 1993, N. 427))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 30 AGOSTO 1993, N. 331](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-30;331), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 30 AGOSTO 1993, N. 331, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 29 OTTOBRE 1993, N. 427))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 30 AGOSTO 1993, N. 331](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-30;331), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 30 AGOSTO 1993, N. 331, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 29 OTTOBRE 1993, N. 427))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 30 AGOSTO 1993, N. 331](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-30;331), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 30 AGOSTO 1993, N. 331, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 29 OTTOBRE 1993, N. 427))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 30 AGOSTO 1993, N. 331](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-30;331), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)))
-
-Art. 8
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 30 AGOSTO 1993, N. 331](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-30;331), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)))
-
-Art. 9
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 30 AGOSTO 1993, N. 331](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-30;331), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 30 AGOSTO 1993, N. 331, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 29 OTTOBRE 1993, N. 427))

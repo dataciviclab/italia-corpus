@@ -1,16 +1,14 @@
-LEGGE 09 giugno 1927 n. 961
+---
+tipo: LEGGE
+numero: 961
+data: 1927-06-09
+titolo: "Conversione in legge del R. decreto-legge 13 agosto 1926, n. 1448, concernente provvedimenti per l'abburattamento delle farine per la panificazione e per i dolciumi. (027U0961)"
+urn: urn:nir:stato:legge:1927-06-09;961
+codice_redazionale: 027U0961
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 09 giugno 1927 n. 961
-===========================
-
-Conversione in legge del R. decreto-legge 13 agosto 1926, n. 1448, concernente provvedimenti per l'abburattamento delle farine per la panificazione e per i dolciumi. (027U0961)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/06/1927
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

@@ -1,22 +1,17 @@
-DECRETO-LEGGE 30 gennaio 1992 n. 42
+---
+tipo: DECRETO-LEGGE
+numero: 42
+data: 1992-01-30
+titolo: "Copertura dei disavanzi nel settore dei trasporti pubblici locali."
+urn: urn:nir:stato:decreto.legge:1992-01-30;42
+codice_redazionale: 092G0072
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 30 gennaio 1992 n. 42
-===================================
+DECREDO DECADUTO
 
-Copertura dei disavanzi nel settore dei trasporti pubblici locali.
-------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 1/2/1992.Decreto-Legge decaduto per mancata conversione.
-
-Art. 1
-------
-
-  
-DECREDO DECADUTO   
-
-Art. 2
-------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

@@ -1,82 +1,77 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 dicembre 2011 n. 235
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 235
+data: 2011-12-15
+titolo: "Regolamento recante la disciplina sull'organizzazione e la dotazione delle risorse umane e strumentali per il funzionamento dell'Agenzia nazionale per l'amministrazione e la destinazione dei beni sequestrati e confiscati alla criminalita' organizzata, ai sensi dell'articolo 113, comma 1, lettera a), del decreto legislativo 6 settembre 2011, n. 159. (12G0029)"
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2011-12-15;235
+codice_redazionale: 012G0029
+vigente: true
+---
 
+## Organizzazione
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 dicembre 2011 n. 235
-===============================================================
+Capo I
 
-Regolamento recante la disciplina sull'organizzazione e la dotazione delle risorse umane e strumentali per il funzionamento dell'Agenzia nazionale per l'amministrazione e la destinazione dei beni sequestrati e confiscati alla criminalita' organizzata, ai sensi dell'articolo 113, comma 1, lettera a), del decreto legislativo 6 settembre 2011, n. 159. (12G0029)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del provvedimento: 15/03/2012
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 9 AGOSTO 2018, N. 118))
 
-CAPO I Capo I Organizzazione
-----------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 9 AGOSTO 2018, N. 118))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 9 AGOSTO 2018, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2018-08-09;118)))
+### Art. 3.
 
-### Art. 2
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 9 AGOSTO 2018, N. 118))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 9 AGOSTO 2018, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2018-08-09;118)))
+### Art. 4.
 
-### Art. 3
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 9 AGOSTO 2018, N. 118))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 9 AGOSTO 2018, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2018-08-09;118)))
+## Ordinamento e dotazione del personale
 
-### Art. 4
+Capo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 9 AGOSTO 2018, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2018-08-09;118)))
+### Art. 5.
 
-CAPO II Capo II Ordinamento e dotazione del personale
------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 9 AGOSTO 2018, N. 118))
 
-### Art. 5
+### Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 9 AGOSTO 2018, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2018-08-09;118)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 9 AGOSTO 2018, N. 118))
 
-### Art. 6
+### Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 9 AGOSTO 2018, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2018-08-09;118)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 9 AGOSTO 2018, N. 118))
 
-### Art. 7
+### Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 9 AGOSTO 2018, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2018-08-09;118)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 9 AGOSTO 2018, N. 118))
 
-### Art. 8
+### Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 9 AGOSTO 2018, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2018-08-09;118)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 9 AGOSTO 2018, N. 118))
 
-### Art. 9
+### Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 9 AGOSTO 2018, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2018-08-09;118)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 9 AGOSTO 2018, N. 118))
 
-### Art. 10
+### Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 9 AGOSTO 2018, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2018-08-09;118)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 9 AGOSTO 2018, N. 118))
 
-### Art. 11
+### Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 9 AGOSTO 2018, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2018-08-09;118)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 9 AGOSTO 2018, N. 118))
 
-### Art. 12
+## Disposizioni transitorie e finanziarie
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 9 AGOSTO 2018, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2018-08-09;118)))
+Capo III
 
-CAPO III Capo III Disposizioni transitorie e finanziarie
---------------------------------------------------------
+### Art. 13.
 
-### Art. 13
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 9 AGOSTO 2018, N. 118))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 9 AGOSTO 2018, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2018-08-09;118)))
+### Art. 14.
 
-### Art. 14
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 9 AGOSTO 2018, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2018-08-09;118)))
-
-Allegato 1
-
-Allegato 1   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 9 AGOSTO 2018, N. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2018-08-09;118)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 9 AGOSTO 2018, N. 118))

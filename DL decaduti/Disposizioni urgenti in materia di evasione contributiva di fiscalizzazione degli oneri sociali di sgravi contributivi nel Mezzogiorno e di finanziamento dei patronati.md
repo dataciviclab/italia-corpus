@@ -1,59 +1,44 @@
-DECRETO-LEGGE 29 maggio 1989 n. 196
+---
+tipo: DECRETO-LEGGE
+numero: 196
+data: 1989-05-29
+titolo: "Disposizioni urgenti in materia di evasione contributiva, di fiscalizzazione degli oneri sociali, di sgravi contributivi nel Mezzogiorno e di finanziamento dei patronati."
+urn: urn:nir:stato:decreto.legge:1989-05-29;196
+codice_redazionale: 089G0270
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 29 maggio 1989 n. 196
-===================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 7 DICEMBRE 1989, N. 389](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20ottobre%201989%20n.%20338%20recante%20disposizioni%20urgenti%20in%20materia%20di%20evasione%20contributiva%20di%20fiscalizzazione%20degli%20oneri%20sociali%20di%20s_803fd82e1fcd.md)
 
-Disposizioni urgenti in materia di evasione contributiva, di fiscalizzazione degli oneri sociali, di sgravi contributivi nel Mezzogiorno e di finanziamento dei patronati.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 29/05/1989.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 7 DICEMBRE 1989, N. 389](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20ottobre%201989%20n.%20338%20recante%20disposizioni%20urgenti%20in%20materia%20di%20evasione%20contributiva%20di%20fiscalizzazione%20degli%20oneri%20sociali%20di%20s_803fd82e1fcd.md)
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 7 DICEMBRE 1989, N. 389](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-07;389)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 7 DICEMBRE 1989, N. 389](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20ottobre%201989%20n.%20338%20recante%20disposizioni%20urgenti%20in%20materia%20di%20evasione%20contributiva%20di%20fiscalizzazione%20degli%20oneri%20sociali%20di%20s_803fd82e1fcd.md)
 
-Art. 2
-------
+## Art. 4.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 7 DICEMBRE 1989, N. 389](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-07;389)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 7 DICEMBRE 1989, N. 389](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20ottobre%201989%20n.%20338%20recante%20disposizioni%20urgenti%20in%20materia%20di%20evasione%20contributiva%20di%20fiscalizzazione%20degli%20oneri%20sociali%20di%20s_803fd82e1fcd.md)
 
-Art. 3
-------
+## Art. 5.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 7 DICEMBRE 1989, N. 389](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-07;389)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 7 DICEMBRE 1989, N. 389](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20ottobre%201989%20n.%20338%20recante%20disposizioni%20urgenti%20in%20materia%20di%20evasione%20contributiva%20di%20fiscalizzazione%20degli%20oneri%20sociali%20di%20s_803fd82e1fcd.md)
 
-Art. 4
-------
+## Art. 6.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 7 DICEMBRE 1989, N. 389](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-07;389)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 7 DICEMBRE 1989, N. 389](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20ottobre%201989%20n.%20338%20recante%20disposizioni%20urgenti%20in%20materia%20di%20evasione%20contributiva%20di%20fiscalizzazione%20degli%20oneri%20sociali%20di%20s_803fd82e1fcd.md)
 
-Art. 5
-------
+## Art. 7.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 7 DICEMBRE 1989, N. 389](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-07;389)
-  
-
-Art. 6
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 7 DICEMBRE 1989, N. 389](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-07;389)
-  
-
-Art. 7
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 7 DICEMBRE 1989, N. 389](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-07;389)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 7 DICEMBRE 1989, N. 389](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20ottobre%201989%20n.%20338%20recante%20disposizioni%20urgenti%20in%20materia%20di%20evasione%20contributiva%20di%20fiscalizzazione%20degli%20oneri%20sociali%20di%20s_803fd82e1fcd.md)

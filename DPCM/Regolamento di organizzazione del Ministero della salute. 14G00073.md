@@ -1,112 +1,85 @@
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 11 febbraio 2014 n. 59
+---
+tipo: DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
+numero: 59
+data: 2014-02-11
+titolo: "Regolamento di organizzazione del Ministero della salute. (14G00073)"
+urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2014-02-11;59
+codice_redazionale: 14G00073
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 11 febbraio 2014 n. 59
-========================================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 196))
 
-Regolamento di organizzazione del Ministero della salute. (14G00073)
---------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 23/04/2014
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 196))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;196)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 196))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;196)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 196))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;196)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 196))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;196)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 196))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;196)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 196))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;196)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 196))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;196)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 196))
 
-Art. 8
-------
+## Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;196)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 196))
 
-Art. 9
-------
+## Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;196)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 196))
 
-Art. 10
--------
+## Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;196)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 196))
 
-Art. 11
--------
+## Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;196)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 196))
 
-Art. 12
--------
+## Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;196)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 196))
 
-Art. 13
--------
+## Art. 15.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;196)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 196))
 
-Art. 14
--------
+## Art. 16.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;196)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 196))
 
-Art. 15
--------
+## Art. 17.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;196)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 196))
 
-Art. 16
--------
+## Art. 18.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;196)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 196))
 
-Art. 17
--------
+## Art. 19.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;196)))
-
-Art. 18
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;196)))
-
-Art. 19
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;196)))
-
-Tabella A
-
- Tabella A   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;196)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 196))

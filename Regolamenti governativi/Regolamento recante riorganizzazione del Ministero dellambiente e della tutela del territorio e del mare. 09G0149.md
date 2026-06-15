@@ -1,77 +1,57 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 2009 n. 140
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 140
+data: 2009-08-03
+titolo: "Regolamento recante riorganizzazione del Ministero dell'ambiente e della tutela del territorio e del mare. (09G0149)"
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2009-08-03;140
+codice_redazionale: 009G0149
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 2009 n. 140
-=============================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 10 LUGLIO 2014, N. 142))
 
-Regolamento recante riorganizzazione del Ministero dell'ambiente e della tutela del territorio e del mare. (09G0149)
---------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 16/10/2009
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 10 LUGLIO 2014, N. 142))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 10 LUGLIO 2014, N. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-07-10;142)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 10 LUGLIO 2014, N. 142))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 10 LUGLIO 2014, N. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-07-10;142)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 10 LUGLIO 2014, N. 142))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 10 LUGLIO 2014, N. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-07-10;142)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 10 LUGLIO 2014, N. 142))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 10 LUGLIO 2014, N. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-07-10;142)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 10 LUGLIO 2014, N. 142))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 10 LUGLIO 2014, N. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-07-10;142)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 10 LUGLIO 2014, N. 142))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 10 LUGLIO 2014, N. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-07-10;142)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 10 LUGLIO 2014, N. 142))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 10 LUGLIO 2014, N. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-07-10;142)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 10 LUGLIO 2014, N. 142))
 
-Art. 8
-------
+## Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 10 LUGLIO 2014, N. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-07-10;142)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 10 LUGLIO 2014, N. 142))
 
-Art. 9
-------
+## Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 10 LUGLIO 2014, N. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-07-10;142)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 10 LUGLIO 2014, N. 142))
 
-Art. 10
--------
+## Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 10 LUGLIO 2014, N. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-07-10;142)))
-
-Art. 11
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 10 LUGLIO 2014, N. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-07-10;142)))
-
-Art. 12
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 10 LUGLIO 2014, N. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-07-10;142)))
-
-Allegato
-
- Allegato   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 10 LUGLIO 2014, N. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-07-10;142)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 10 LUGLIO 2014, N. 142))

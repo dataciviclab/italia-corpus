@@ -1,30 +1,25 @@
-DECRETO-LEGGE 31 agosto 1964 n. 705
+---
+tipo: DECRETO-LEGGE
+numero: 705
+data: 1964-08-31
+titolo: "Aumento delle aliquote in materia di imposta generale sull'entrata."
+urn: urn:nir:stato:decreto.legge:1964-08-31;705
+codice_redazionale: 064U0705
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 31 agosto 1964 n. 705
-===================================
+DECRETO DECADUTO
 
-Aumento delle aliquote in materia di imposta generale sull'entrata.
--------------------------------------------------------------------
+## Art. 2.
 
-Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
- DECRETO DECADUTO  
-
-Art. 3
-------
-
- DECRETO DECADUTO  
-
-Art. 4
-------
-
- DECRETO DECADUTO  
+DECRETO DECADUTO

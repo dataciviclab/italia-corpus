@@ -1,28 +1,25 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 agosto 2000 n. 368
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 368
+data: 2000-08-10
+titolo: "Regolamento recante norme per l'individuazione dei posti di funzione di livello dirigenziale del Ministero degli affari esteri non attribuibili alla carriera diplomatica, a norma dell'articolo 2 della legge 28 luglio 1999, n. 266."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2000-08-10;368
+codice_redazionale: 000G0418
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 agosto 2000 n. 368
-=============================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 29 DICEMBRE 2016, N. 260))
 
-Regolamento recante norme per l'individuazione dei posti di funzione di livello dirigenziale del Ministero degli affari esteri non attribuibili alla carriera diplomatica, a norma dell'articolo 2 della legge 28 luglio 1999, n. 266.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 29 DICEMBRE 2016, N. 260))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 29 DICEMBRE 2016, N. 260](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2016-12-29;260)))
+## Art. 3.
 
-Art. 2
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 29 DICEMBRE 2016, N. 260))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 29 DICEMBRE 2016, N. 260](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2016-12-29;260)))
+## Art. 4.
 
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 29 DICEMBRE 2016, N. 260](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2016-12-29;260)))
-
-Art. 4
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 29 DICEMBRE 2016, N. 260](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2016-12-29;260)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 29 DICEMBRE 2016, N. 260))

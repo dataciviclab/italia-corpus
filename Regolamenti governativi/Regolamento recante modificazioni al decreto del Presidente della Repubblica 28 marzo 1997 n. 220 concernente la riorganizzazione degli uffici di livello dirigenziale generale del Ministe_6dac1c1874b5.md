@@ -1,35 +1,29 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 marzo 2000 n. 116
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 116
+data: 2000-03-16
+titolo: "Regolamento recante modificazioni al decreto del Presidente della Repubblica 28 marzo 1997, n. 220, concernente la riorganizzazione degli uffici di livello dirigenziale generale del Ministero dell'industria, del commercio e dell'artigianato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2000-03-16;116
+codice_redazionale: 000G0156
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 marzo 2000 n. 116
-============================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 175))
 
-Regolamento recante modificazioni al decreto del Presidente della Repubblica 28 marzo 1997, n. 220, concernente la riorganizzazione degli uffici di livello dirigenziale generale del Ministero dell'industria, del commercio e dell'artigianato.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 26/5/2000
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 175))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;175)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 175))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;175)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 175))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;175)))
-
-Art. 4
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;175)))
-
-Art. 5
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;175)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 175))

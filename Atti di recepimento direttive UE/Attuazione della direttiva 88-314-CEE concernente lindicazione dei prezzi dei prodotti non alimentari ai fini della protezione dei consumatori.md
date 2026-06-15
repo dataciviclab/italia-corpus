@@ -1,46 +1,33 @@
-DECRETO LEGISLATIVO 27 gennaio 1992 n. 78
+---
+tipo: DECRETO LEGISLATIVO
+numero: 78
+data: 1992-01-27
+titolo: "Attuazione della direttiva 88/314/CEE concernente l'indicazione dei prezzi dei prodotti non alimentari ai fini della protezione dei consumatori."
+urn: urn:nir:stato:decreto.legislativo:1992-01-27;78
+codice_redazionale: 092G0104
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 27 gennaio 1992 n. 78
-=========================================
+((IL D. LGS. 6 SETTEMBRE 2005, N. 206 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Attuazione della direttiva 88/314/CEE concernente l'indicazione dei prezzi dei prodotti non alimentari ai fini della protezione dei consumatori.
-------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore: 28/02/1992
+((IL D. LGS. 6 SETTEMBRE 2005, N. 206 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 1
-------
+## Art. 3.
 
-((IL [D. LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D. LGS. 6 SETTEMBRE 2005, N. 206 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 2
-------
+## Art. 4.
 
-((IL [D. LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D. LGS. 6 SETTEMBRE 2005, N. 206 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 3
-------
+## Art. 5.
 
-((IL [D. LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D. LGS. 6 SETTEMBRE 2005, N. 206 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 4
-------
+## Art. 6.
 
-((IL [D. LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
-
-Art. 5
-------
-
-((IL [D. LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
-
-Art. 6
-------
-
-((IL [D. LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
-
-Allegato
-
- Allegato   
-
-((IL [D. LGS. 6 SETTEMBRE 2005, N. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D. LGS. 6 SETTEMBRE 2005, N. 206 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))

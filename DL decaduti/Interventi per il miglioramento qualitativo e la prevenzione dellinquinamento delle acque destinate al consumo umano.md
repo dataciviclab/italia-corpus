@@ -1,46 +1,33 @@
-DECRETO-LEGGE 18 novembre 1991 n. 364
+---
+tipo: DECRETO-LEGGE
+numero: 364
+data: 1991-11-18
+titolo: "Interventi per il miglioramento qualitativo e la prevenzione dell'inquinamento delle acque destinate al consumo umano."
+urn: urn:nir:stato:decreto.legge:1991-11-18;364
+codice_redazionale: 091G0413
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 18 novembre 1991 n. 364
-=====================================
+DECRETO DECADUTO
 
-Interventi per il miglioramento qualitativo e la prevenzione dell'inquinamento delle acque destinate al consumo umano.
-----------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 18/11/1991.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO   
-
-Art. 5
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 6
-------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

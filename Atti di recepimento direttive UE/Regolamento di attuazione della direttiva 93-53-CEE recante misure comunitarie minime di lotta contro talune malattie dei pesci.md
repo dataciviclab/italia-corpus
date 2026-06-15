@@ -1,124 +1,97 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1997 n. 263
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 263
+data: 1997-07-03
+titolo: "Regolamento di attuazione della direttiva 93/53/CEE recante misure comunitarie minime di lotta contro talune malattie dei pesci."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1997-07-03;263
+codice_redazionale: 097G0301
+vigente: true
+---
 
+## DISPOSIZIONI GENERALI
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1997 n. 263
-=============================================================
+SEZIONE I
 
-Regolamento di attuazione della direttiva 93/53/CEE recante misure comunitarie minime di lotta contro talune malattie dei pesci.
---------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del decreto: 9/8/1997
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
 
-CAPO I SEZIONE I DISPOSIZIONI GENERALI
---------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
+### Art. 3.
 
-### Art. 2
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
+### Art. 4.
 
-### Art. 3
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
+## MISURE DI LOTTA CONTRO LE MALATTIE DELL'ELENCO I
 
-### Art. 4
+SEZIONE II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
+### Art. 5.
 
-CAPO II SEZIONE II MISURE DI LOTTA CONTRO LE MALATTIE DELL'ELENCO I
--------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
 
-### Art. 5
+### Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
 
-### Art. 6
+### Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
 
-### Art. 7
+### Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
 
-### Art. 8
+## MISURE DI LOTTA CONTRO LE MALATTE DELL'ELENCO II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
+SEZIONE III
 
-CAPO III SEZIONE III MISURE DI LOTTA CONTRO LE MALATTE DELL'ELENCO II
----------------------------------------------------------------------
+### Art. 9.
 
-### Art. 9
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
+### Art. 10.
 
-### Art. 10
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
+## DISPOSIZIONI FINALI
 
-CAPO IV SEZIONE IV DISPOSIZIONI FINALI
---------------------------------------
+SEZIONE IV
 
-### Art. 11
+### Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
 
-### Art. 12
+### Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
 
-### Art. 13
+### Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
 
-### Art. 14
+### Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
 
-### Art. 15
+### Art. 15.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
 
-### Art. 16
+### Art. 16.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
 
-### Art. 17
+### Art. 17.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
 
-### Art. 18
+### Art. 18.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
-
-Allegato A
-
- ALLEGATO A   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
-
-Allegato B
-
- ALLEGATO B   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
-
-Allegato C
-
- ALLEGATO C   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
-
-Allegato D
-
- ALLEGATO D   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
-
-Allegato E
-
- ALLEGATO E   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))

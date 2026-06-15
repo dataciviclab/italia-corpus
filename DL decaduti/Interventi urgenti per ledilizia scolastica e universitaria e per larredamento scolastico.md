@@ -1,58 +1,39 @@
-DECRETO-LEGGE 31 dicembre 1990 n. 425
+---
+tipo: DECRETO-LEGGE
+numero: 425
+data: 1990-12-31
+titolo: "Interventi urgenti per l'edilizia scolastica e universitaria e per l'arredamento scolastico."
+urn: urn:nir:stato:decreto.legge:1990-12-31;425
+codice_redazionale: 091G0001
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 31 dicembre 1990 n. 425
-=====================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 12 LUGLIO 1991 N. 205](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2016%20maggio%201991%20n.%20155%20recante%20interventi%20urgenti%20per%20la%20sede%20dellIstituto%20tecnico%20commerciale%20Gaetano%20Salvemini%20di%20Casalecchio%20di%20Reno.md)
 
-Interventi urgenti per l'edilizia scolastica e universitaria e per l'arredamento scolastico.
---------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 9/1/1991.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 12 LUGLIO 1991 N. 205](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2016%20maggio%201991%20n.%20155%20recante%20interventi%20urgenti%20per%20la%20sede%20dellIstituto%20tecnico%20commerciale%20Gaetano%20Salvemini%20di%20Casalecchio%20di%20Reno.md)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 12 LUGLIO 1991 N. 205](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-12;205)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 12 LUGLIO 1991 N. 205](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2016%20maggio%201991%20n.%20155%20recante%20interventi%20urgenti%20per%20la%20sede%20dellIstituto%20tecnico%20commerciale%20Gaetano%20Salvemini%20di%20Casalecchio%20di%20Reno.md)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 12 LUGLIO 1991 N. 205](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-12;205)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 12 LUGLIO 1991 N. 205](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2016%20maggio%201991%20n.%20155%20recante%20interventi%20urgenti%20per%20la%20sede%20dellIstituto%20tecnico%20commerciale%20Gaetano%20Salvemini%20di%20Casalecchio%20di%20Reno.md)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 12 LUGLIO 1991 N. 205](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-12;205)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 12 LUGLIO 1991 N. 205](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2016%20maggio%201991%20n.%20155%20recante%20interventi%20urgenti%20per%20la%20sede%20dellIstituto%20tecnico%20commerciale%20Gaetano%20Salvemini%20di%20Casalecchio%20di%20Reno.md)
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 12 LUGLIO 1991 N. 205](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-12;205)
-  
-
-Art. 5
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 12 LUGLIO 1991 N. 205](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-12;205)
-  
-
-Art. 6
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 12 LUGLIO 1991 N. 205](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-12;205)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 12 LUGLIO 1991 N. 205](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2016%20maggio%201991%20n.%20155%20recante%20interventi%20urgenti%20per%20la%20sede%20dellIstituto%20tecnico%20commerciale%20Gaetano%20Salvemini%20di%20Casalecchio%20di%20Reno.md)

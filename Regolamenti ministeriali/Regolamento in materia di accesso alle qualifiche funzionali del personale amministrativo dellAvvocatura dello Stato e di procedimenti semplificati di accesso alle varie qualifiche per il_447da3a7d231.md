@@ -1,331 +1,392 @@
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 04 agosto 1989 n. 296
-
-
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 04 agosto 1989 n. 296
-=======================================================================
-
-Regolamento in materia di accesso alle qualifiche funzionali del personale amministrativo dell'Avvocatura dello Stato e di procedimenti semplificati di accesso alle varie qualifiche per il personale in servizio, a norma degli articoli 2, comma 1, e 6, comma 2, della legge 15 ottobre 1986, n. 664.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 7/9/1989
+---
+tipo: DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
+numero: 296
+data: 1989-08-04
+titolo: "Regolamento in materia di accesso alle qualifiche funzionali del personale amministrativo dell'Avvocatura dello Stato e di procedimenti semplificati di accesso alle varie qualifiche per il personale in servizio, a norma degli articoli 2, comma 1, e 6, comma 2, della legge 15 ottobre 1986, n. 664."
+urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:1989-08-04;296
+codice_redazionale: 089G0372
+vigente: true
+---
 
 IL PRESIDENTE
--------------
 
 DEL CONSIGLIO DEI MINISTRI
 
-Visto il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-01-10;3);
+Visto il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md);
 
-Visto il [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-05-03;686);
+Visto il [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md);
 
-Visto il [decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-12-28;1077);
+Visto il [decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](../DPR/Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md);
 
-Vista la [legge 11 luglio 1980, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312);
+Vista la [legge 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312);
 
-Vista la [legge 29 marzo 1983, n. 93](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-29;93);
+Vista la [legge 29 marzo 1983, n. 93](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-29;93);
 
-Vista la [legge 11 dicembre 1984, n. 839, nonche' l'art. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-11;839~art15) del [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092);
+Vista la [legge 11 dicembre 1984, n. 839, nonche' l'art. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-11;839#art_15) del [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md);
 
-Visto il [decreto del Presidente della Repubblica 29 dicembre 1984, n. 1219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1984-12-29;1219);
+Visto il [decreto del Presidente della Repubblica 29 dicembre 1984, n. 1219](../DPR/Individuazione%20dei%20profili%20professionali%20del%20personale%20dei%20Ministeri%20in%20attuazione%20dellart.%203%20della%20legge%2011%20luglio%201980%20n.%20312.md);
 
-Visto il [decreto-legge 28 gennaio 1986, n. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-01-28;9), convertito, con modificazioni, dalla [legge 24 marzo 1986, n. 78](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-03-24;78);
+Visto il [decreto-legge 28 gennaio 1986, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-01-28;9), convertito, con modificazioni, dalla [legge 24 marzo 1986, n. 78](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20gennaio%201986%20n.%209%20concernente%20interpretazione%20autentica%20del%20quarto%20comma%20dellarticolo%204%20della%20legge%2011%20luglio%201980%20n.%20312.md);
 
-Visto il [decreto del Presidente del Consiglio dei Ministri 10 giugno 1986, pubblicato nella Gazzetta Ufficiale n. 190 del 18 agosto 1986](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1986-08-18&numeroGazzetta=190);
+Visto il decreto del Presidente del Consiglio dei Ministri 10 giugno 1986, pubblicato nella Gazzetta Ufficiale n. 190 del 18 agosto 1986;
 
-Vista la [legge 15 ottobre 1986, n. 664](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-15;664);
+Vista la [legge 15 ottobre 1986, n. 664](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-15;664);
 
-Visto il [decreto del Presidente della Repubblica 8 maggio 1987, n. 266](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1987-05-08;266);
+Visto il [decreto del Presidente della Repubblica 8 maggio 1987, n. 266](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2026%20marzo%201987%20concernente%20il%20comparto%20del%20personale%20dipendente%20dai%20Ministeri.md);
 
-Visto il [decreto del Presidente della Repubblica 17 settembre 1987, n. 494](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1987-09-17;494);
+Visto il [decreto del Presidente della Repubblica 17 settembre 1987, n. 494](../DPR/Norme%20risultanti%20dagli%20accordi%20contrattuali%20definiti%20con%20le%20organizzazioni%20sindacali%20per%20il%20triennio%201985-87%20relativi%20al%20personale%20dei%20Ministeri%20degli%20enti%20pubblici%20non%20economici%20degli%20en_fdc168e5c455.md);
 
 Sulla proposta dell'Avvocato generale dello Stato;
 
 Sentite le organizzazioni sindacali maggiormente rappresentative sul piano nazionale;
 
-Visto l'[art. 17 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17);
+Visto l'[art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17);
 
 Udito il parere del Consiglio di Stato;
 
 E M A N A il seguente regolamento:
 
-CAPO I TITOLO I ACCESSO ALLE QUALIFICHE FUNZIONALI DEL PERSONALE AMMINISTRATIVO DELL'AVVOCATURA DELLO STATO. Capo I MODALITA' DI ACCESSO ALLE SINGOLE QUALIFICHE E PROCEDURE DEI RELATIVI CONCORSI
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## ACCESSO ALLE QUALIFICHE FUNZIONALI DEL PERSONALE AMMINISTRATIVO DELL'AVVOCATURA DELLO STATO. Capo I MODALITA' DI ACCESSO ALLE SINGOLE QUALIFICHE E PROCEDURE DEI RELATIVI CONCORSI
 
-### Art. 1
+TITOLO I
 
-Disposizioni generali
+### Art. 1. — Disposizioni generali
 
-1. L'accesso ai ruoli organici del personale amministrativo dell'Avvocatura dello Stato avviene mediante concorsi pubblici - banditi con decreto dell'Avvocato generale dello Stato - ovvero nelle altre forme previste dalla legge.
+1.
 
-2. I concorsi sono banditi su base nazionale, con possibilita' di previa ripartizione dei posti tra le sedi distrettuali, secondo le modalita' di cui al successivo capo II. Per l'accesso alle qualifiche inferiori alla settima i concorsi possono essere banditi anche su base decentrata, distrettuale o regionale, ai fini dell'assunzione presso l'avvocatura generale ovvero presso determinate avvocature distrettuali.
+L'accesso ai ruoli organici del personale amministrativo dell'Avvocatura dello Stato avviene mediante concorsi pubblici - banditi con decreto dell'Avvocato generale dello Stato - ovvero nelle altre forme previste dalla legge.
 
-3. Le commissioni esaminatrici, composte secondo le disposizioni del presente capo, sono nominate con decreto dell'Avvocato generale dello Stato. Con il medesimo decreto, o successivo, sono nominati il presidente, i componenti e il segretario supplenti, nonche' gli eventuali membri aggiunti a norma dell'[art. 3, quinto comma, del decreto del Presidente della Repubblica 3 maggio 1957, n. 686](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-05-03;686~art3-com5).
+2.
 
-4. Le graduatorie sono approvate con decreto dell'Avvocato generale dello Stato e vengono pubblicate nel Bollettino ufficiale della Presidenza del Consiglio dei Ministri; di tale pubblicazione viene data notizia mediante avviso nella Gazzetta Ufficiale della Repubblica.
+I concorsi sono banditi su base nazionale, con possibilita' di previa ripartizione dei posti tra le sedi distrettuali, secondo le modalita' di cui al successivo capo II. Per l'accesso alle qualifiche inferiori alla settima i concorsi possono essere banditi anche su base decentrata, distrettuale o regionale, ai fini dell'assunzione presso l'avvocatura generale ovvero presso determinate avvocature distrettuali.
 
-Nota all'art. 1:  
-Il testo dell'[art. 3, quinto comma, del D.P.R. n. 686/1957](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957;686~art3-com5) e' il seguente: "Alle commissioni possono essere aggregati membri aggiunti per gli esami di lingue estere o per materie speciali".
+3.
 
-### Art. 2
+Le commissioni esaminatrici, composte secondo le disposizioni del presente capo, sono nominate con decreto dell'Avvocato generale dello Stato. Con il medesimo decreto, o successivo, sono nominati il presidente, i componenti e il segretario supplenti, nonche' gli eventuali membri aggiunti a norma dell'[art. 3, quinto comma, del decreto del Presidente della Repubblica 3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md).
 
-Qualifiche settima e superiori
+4.
 
-1. I concorsi per l'accesso alle qualifiche settima e superiori possono essere per esami, per titoli ed esami o per corso-concorso, in conformita' alle disposizioni di cui al [decreto del Presidente della Repubblica 29 dicembre 1984, n. 1219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1984-12-29;1219).
+Le graduatorie sono approvate con decreto dell'Avvocato generale dello Stato e vengono pubblicate nel Bollettino ufficiale della Presidenza del Consiglio dei Ministri; di tale pubblicazione viene data notizia mediante avviso nella Gazzetta Ufficiale della Repubblica.
 
-2. Il corso-concorso si effettua secondo le disposizioni di cui all'[art. 7, commi settimo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312~art7-com7) ed [ottavo, della legge 11 luglio 1980, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312~art7-com8), e delle ulteriori disposizioni ivi previste.
+Nota all'art. 1:
+ Il testo dell'[art. 3, quinto comma, del D.P.R. n. 686/1957](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957;686#art_3-com5) e' il seguente: "Alle commissioni possono essere aggregati membri aggiunti per gli esami di lingue estere o per materie speciali".
 
-3. Il bando di concorso, per titoli ed esami, indica i titoli valutabili ed il punteggio massimo attribuibile a ciascuno di essi.
+### Art. 2. — Qualifiche settima e superiori
 
-4. Gli esami consistono in due prove scritte e un colloquio.
+1.
 
-5. Per i profili professionali comportanti l'espletamento di mansioni attinenti ai servizi di cui alle [lettere a)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-15;664~art1-leta) e [b) dell'art. 1, comma 1, della legge 15 ottobre 1986, n. 664](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-15;664~art1-com1-letb), esclusi i profili comportanti specificamente l'espletamento di mansioni tecnico-contabili, la prima prova scritta concerne la risoluzione di una serie di quesiti a risposta sintetica aventi per oggetto le seguenti materie, con diversa accentuazione secondo i profili professionali e secondo i diversi livelli: diritto costituzionale, diritto amministrativo, diritto privato, diritto processuale civile e penale. La seconda prova scritta concerne la risoluzione di quesiti teorico-pratici sullo stato giuridico degli impiegati civili dello Stato e sulla contabilita' generale dello Stato.
+I concorsi per l'accesso alle qualifiche settima e superiori possono essere per esami, per titoli ed esami o per corso-concorso, in conformita' alle disposizioni di cui al [decreto del Presidente della Repubblica 29 dicembre 1984, n. 1219](../DPR/Individuazione%20dei%20profili%20professionali%20del%20personale%20dei%20Ministeri%20in%20attuazione%20dellart.%203%20della%20legge%2011%20luglio%201980%20n.%20312.md).
 
-6. Il colloquio verte sulle materie oggetto delle prove scritte, nonche' sulle seguenti altre: ordinamento giudiziario e della giustizia amministrativa; ordinamento dell'Avvocatura dello Stato; ragioneria generale (nozioni); statistica; informatica ed organizzazione.
+2.
 
-7. Il colloquio comprende inoltre, con diversa gradazione di difficolta' rispetto alla qualifica di accesso, la prova di conoscenza di una lingua straniera tra quelle indicate nel bando di concorso.
+Il corso-concorso si effettua secondo le disposizioni di cui all'[art. 7, commi settimo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312#art_7-com7) ed [ottavo, della legge 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312#art_7-com8), e delle ulteriori disposizioni ivi previste.
 
-8. Per i profili professionali diversi da quelli considerati nel precedente comma 5 le due prove scritte, rispettivamente con quesiti a risposta sintetica e con quesiti teorico-pratici, ed il colloquio hanno per oggetto le materie indicate dai relativi bandi di concorso in conformita' alle disposizioni di cui al [decreto del Presidente della Repubblica 29 dicembre 1984, n. 1219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1984-12-29;1219).
+3.
 
-9. La commissione esaminatrice e' composta da un avvocato dello Stato almeno alla terza classe di stipendio, con funzioni di presidente, e da due avvocati dello Stato di classi di stipendio inferiore; le funzioni di segretario sono svolte da un funzionario appartenente almeno alla settima qualifica funzionale.
+Il bando di concorso, per titoli ed esami, indica i titoli valutabili ed il punteggio massimo attribuibile a ciascuno di essi.
 
-Note all'art. 2:  
-- Per il titolo del [D.P.R. n. 1219/1984](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1984;1219) si veda nelle precedenti note alle premesse.  
-- Il testo dell'[art. 7, settimo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980;312~art7-com7) e [ottavo comma, della legge n. 312/1980](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980;312~art7-com8) e' il seguente:  
-"Le norme di cui all'[art. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-04-21;472~art1), [1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-04-21;472~art1)) e all'[art. 2 del decreto del Presidente della Repubblica 21 aprile 1972, n. 472](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-04-21;472~art2), relativi ai corsi di preparazione, con concessione di borse di studio per il reclutamento di impiegati continuano a trovare applicazione ai fini dell'accesso ai profili professionali ascritti alla settima e alla ottava qualifica funzionale.  
-Le modalita' di ammissione ai corsi e del relativo svolgimento, i criteri per le prove di esame, la nomina e composizione delle commissioni esaminatrici, nonche' quanto altro occorra per la organizzazione e lo svolgimento dei corsi medesimi, saranno dettate con decreto del Presidente del Consiglio dei Ministri. L'accesso alle qualifiche avverra' indipendentemente dal tipo di diploma di laurea".  
-- Il testo dell'[art. 1, comma 1, lettere a)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986;664~art1-com1-leta) e [b), della legge n. 664/1986](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986;664~art1-com1-letb), e' il seguente:  
-"1. Il personale amministrativo dell'Avvocatura dello Stato e' addetto ai servizi relativi:  
-a) agli affari generali e amministrativo-contabili;  
-b) all'attivita' professionale".  
-- Per il titolo del [D.P.R. n. 1219/1984](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1984;1219) si veda nella precedenti note alle premesse.
+4.
 
-### Art. 3
+Gli esami consistono in due prove scritte e un colloquio.
 
-Qualifiche quinta e sesta
+5.
 
-1. Fermo restando il disposto degli [articoli 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1987-05-08;266~art27) e [28 del decreto del Presidente della Repubblica 8 maggio 1987, n. 266](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1987-05-08;266~art28), cosi' come integrato dall'[art. 10 del decreto del Presidente della Repubblica 17 settembre 1987, n. 494](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1987-09-17;494~art10), i concorsi per l'accesso alle qualifiche quinta e sesta sono per esami.
+Per i profili professionali comportanti l'espletamento di mansioni attinenti ai servizi di cui alle [lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-15;664#art_1-leta) e [b) dell'art. 1, comma 1, della legge 15 ottobre 1986, n. 664](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-15;664#art_1-com1-letb), esclusi i profili comportanti specificamente l'espletamento di mansioni tecnico-contabili, la prima prova scritta concerne la risoluzione di una serie di quesiti a risposta sintetica aventi per oggetto le seguenti materie, con diversa accentuazione secondo i profili professionali e secondo i diversi livelli: diritto costituzionale, diritto amministrativo, diritto privato, diritto processuale civile e penale. La seconda prova scritta concerne la risoluzione di quesiti teorico-pratici sullo stato giuridico degli impiegati civili dello Stato e sulla contabilita' generale dello Stato.
 
-2. Gli esami consistono in due prove scritte e un colloquio.
+6.
 
-3. Per i profili professionali comportanti l'espletamento di mansioni attinenti ai servizi di cui alle [lettere a)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-15;664~art1-leta) e [b) dell'art. 1, comma 1, della legge 15 ottobre 1986, n. 664](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-15;664~art1-com1-letb), esclusi i profili comportanti specificamente l'espletamento di mansioni tecnico-contabili, la prima prova scritta concerne la risoluzione di tests bilanciati sulla conoscenza di nozioni delle seguenti materie, con diversa accentuazione secondo i profili professionali e secondo i diversi livelli: diritto costituzionale, diritto amministrativo, diritto privato, diritto processuale civile e penale. La seconda prova scritta, a carattere pratico o teorico-pratico, puo' consistere, con riferimento ai diversi profili professionali ed in conformita' alle disposizioni del [decreto del Presidente della Repubblica 29 dicembre 1984, n. 1219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1984-12-29;1219), in un saggio stanodattilografico ovvero nella risoluzione di tests bilanciati aventi per oggetto nozioni sullo stato giuridico degli impiegati civili dello Stato e sulla contabilita' generale dello Stato.
+Il colloquio verte sulle materie oggetto delle prove scritte, nonche' sulle seguenti altre: ordinamento giudiziario e della giustizia amministrativa; ordinamento dell'Avvocatura dello Stato; ragioneria generale (nozioni); statistica; informatica ed organizzazione.
 
-4. Il colloquio verte sulla conoscenza, a livello di nozioni, delle materie oggetto delle prove scritte nonche' delle seguenti altre: ordinamento giudiziario e della giustizia amministrativa; ordinamento dell'Avvocatura dello Stato; ragioneria generale; statistica; informatica.
+7.
 
-5. Per i profili professionali diversi da quelli considerati nel precedente comma 3 le due prove scritte, rispettivamente con quesiti a risposta sintetica e con quesiti teorico-pratici, ed il colloquio hanno per oggetto le materie indicate dai relativi bandi di concorso in conformita' alle disposizioni di cui al [decreto del Presidente della Repubblica 29 dicembre 1984, n. 1219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1984-12-29;1219).
+Il colloquio comprende inoltre, con diversa gradazione di difficolta' rispetto alla qualifica di accesso, la prova di conoscenza di una lingua straniera tra quelle indicate nel bando di concorso.
 
-6. La commissione esaminatrice e' composta da un avvocato dello Stato almeno alla seconda classe di stipendio, con funzioni di presidente, e da due componenti scelti tra avvocati dello Stato di classe di stipendio inferiore o procuratori dello Stato alla terza classe di stipendio o impiegati della nona qualifica funzionale; le funzioni di segretario sono svolte da un impiegato appartenente almeno alla sesta qualifica funzionale.
+8.
 
-Note all'art. 3:  
-- Il testo degli [articoli 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1987;266~art27) e [28 del D.P.R. n. 266/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1987;266~art28), inseriti dall'[art. 10 del D.P.R. n. 494/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1987;494~art10), e' il seguente:  
-"Art. 27 (Ammissione ai concorsi di personale in servizio). - 1. Alla copertura dei posti disponibili nei profili professionali, a conclusione del primo inquadramento ed in deroga a quanto previsto dall'[art. 14 della legge 31 luglio 1980, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-31;312~art14), si provvede mediante concorsi ai quali possono partecipare i dipendenti in possesso di un'anzianita' di almeno tre anni nel profilo immediatamente inferiore con le modalita' che saranno stabilite con il decreto del Presidente del Consiglio dei Ministri di cui all'[art. 9 della legge 11 luglio 1980, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312~art9).  
-Art. 28 (Accesso alle qualifiche IV e VI). - 1. La disposizione transitoria di cui all'[art. 8 della legge 11 luglio 1980, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312~art8), e' prorogata per il periodo di vigenza dell'accordo recepito con il presente decreto".  
-- Per il testo dell'[art. 1, comma 1, lettere a)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986;664~art1-com1-leta) e [b), della legge n. 664/1986](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986;664~art1-com1-letb) si veda nelle precedenti note all'art. 2.  
-- Per il titolo del [D.P.R. n. 1219/1984](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1984;1219) si veda nelle precedenti note alle premesse.
+Per i profili professionali diversi da quelli considerati nel precedente comma 5 le due prove scritte, rispettivamente con quesiti a risposta sintetica e con quesiti teorico-pratici, ed il colloquio hanno per oggetto le materie indicate dai relativi bandi di concorso in conformita' alle disposizioni di cui al [decreto del Presidente della Repubblica 29 dicembre 1984, n. 1219](../DPR/Individuazione%20dei%20profili%20professionali%20del%20personale%20dei%20Ministeri%20in%20attuazione%20dellart.%203%20della%20legge%2011%20luglio%201980%20n.%20312.md).
 
-### Art. 4
+9.
 
-Qualifiche terza e quarta
+La commissione esaminatrice e' composta da un avvocato dello Stato almeno alla terza classe di stipendio, con funzioni di presidente, e da due avvocati dello Stato di classi di stipendio inferiore; le funzioni di segretario sono svolte da un funzionario appartenente almeno alla settima qualifica funzionale.
 
-1. Fermo restando il disposto degli [articoli 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1987-05-08;266~art27) e [28 del decreto del Presidente della Repubblica 8 maggio 1987, n. 266](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1987-05-08;266~art28), come integrato dall'[art. 10 del decreto del Presidente della Repubblica 17 settembre 1987, n. 494](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1987-09-17;494~art10), e fuori dei casi previsti dall'[art. 16 della legge 28 febbraio 1987, n. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-28;56~art16), e dal [decreto del Presidente del Consiglio dei Ministri 18 settembre 1987, n. 392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:1987-09-18;392), i concorsi per l'accesso alle qualifiche terza e quarta sono per esami.
+Note all'art. 2:
+ - Per il titolo del [D.P.R. n. 1219/1984](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1984;1219) si veda nelle precedenti note alle premesse.
+ - Il testo dell'[art. 7, settimo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980;312#art_7-com7) e [ottavo comma, della legge n. 312/1980](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980;312#art_7-com8) e' il seguente:
+ "Le norme di cui all'[art. 1](../DPR/Riordinamento%20e%20potenziamento%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione.md), [1](../DPR/Riordinamento%20e%20potenziamento%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione.md)) e all'[art. 2 del decreto del Presidente della Repubblica 21 aprile 1972, n. 472](../DPR/Riordinamento%20e%20potenziamento%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione.md), relativi ai corsi di preparazione, con concessione di borse di studio per il reclutamento di impiegati continuano a trovare applicazione ai fini dell'accesso ai profili professionali ascritti alla settima e alla ottava qualifica funzionale.
+ Le modalita' di ammissione ai corsi e del relativo svolgimento, i criteri per le prove di esame, la nomina e composizione delle commissioni esaminatrici, nonche' quanto altro occorra per la organizzazione e lo svolgimento dei corsi medesimi, saranno dettate con decreto del Presidente del Consiglio dei Ministri. L'accesso alle qualifiche avverra' indipendentemente dal tipo di diploma di laurea".
+ - Il testo dell'[art. 1, comma 1, lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986;664#art_1-com1-leta) e [b), della legge n. 664/1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986;664#art_1-com1-letb), e' il seguente:
+ "1. Il personale amministrativo dell'Avvocatura dello Stato e' addetto ai servizi relativi:
+ a) agli affari generali e amministrativo-contabili;
+ b) all'attivita' professionale".
+ - Per il titolo del [D.P.R. n. 1219/1984](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1984;1219) si veda nella precedenti note alle premesse.
 
-2. Gli esami consistono in due prove scritte e un colloquio.
+### Art. 3. — Qualifiche quinta e sesta
 
-3. La prima prova concerne la risoluzione di tests bilanciati sulla conoscenza di nozioni elementari relativi all'ordinamento costituzionale dello Stato e all'ordinamento degli impiegati.
+1.
 
-4. La seconda prova, a carattere pratico attitudinale, puo' consistere, con riferimento ai diversi profili professionali ed in conformita' alle disposizioni del [decreto del Presidente della Repubblica 29 dicembre 1984, n. 1219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1984-12-29;1219), in un saggio dattilografico ovvero in altra prova comunque finalizzata all'accertamento delle qualita' necessarie per le attivita' da svolgersi, secondo le indicazioni del bando di concorso.
+Fermo restando il disposto degli [articoli 27](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2026%20marzo%201987%20concernente%20il%20comparto%20del%20personale%20dipendente%20dai%20Ministeri.md) e [28 del decreto del Presidente della Repubblica 8 maggio 1987, n. 266](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2026%20marzo%201987%20concernente%20il%20comparto%20del%20personale%20dipendente%20dai%20Ministeri.md), cosi' come integrato dall'[art. 10 del decreto del Presidente della Repubblica 17 settembre 1987, n. 494](../DPR/Norme%20risultanti%20dagli%20accordi%20contrattuali%20definiti%20con%20le%20organizzazioni%20sindacali%20per%20il%20triennio%201985-87%20relativi%20al%20personale%20dei%20Ministeri%20degli%20enti%20pubblici%20non%20economici%20degli%20en_fdc168e5c455.md), i concorsi per l'accesso alle qualifiche quinta e sesta sono per esami.
 
-5. Il colloquio verte sulla conoscenza, a livello di nozioni elementari, delle materie oggetto della prima prova scritta, nonche' delle altre materie indicate dal bando di concorso in relazione a specifici profili professionali, ricomprese tra le seguenti: ordinamento dell'Avvocatura dello Stato, contabilita' generale dello Stato, statistica, informatica, archivistica.
+2.
 
-6. La commissione esaminatrice e' composta da un avvocato dello Stato alla classe di stipendio prima o superiori, con funzioni di presidente, e da due funzionari della carriera direttiva con qualifica non inferiore alla settima; le funzioni di segretario sono svolte da un impiegato appartenente almeno alla sesta qualifica funzionale.
+Gli esami consistono in due prove scritte e un colloquio.
 
-Note all'art. 4:  
-- Per il testo degli [articoli 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1987;266~art27) e [28 del D.P.R. n. 266/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1987;266~art28) si veda nelle precedenti note all'art. 3.  
-- Il testo dell'[art. 16 della legge 28 febbraio 1987, n. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-28;56~art16) (Norme sull'organizzazione del mercato del lavoro), come modificato dall'[art. 4, commi 4- bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-03-21;86~art4-com4bis) e [4-quinquies, del D.L. 21 marzo 1988, n. 86](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-03-21;86~art4-com4quinquies), convertito nella [legge 20 maggio 1988, n. 160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-20;160), e' il seguente:  
-"Art. 16 (Disposizioni concernenti lo Stato e gli enti pubblici). - 1. Le amministrazioni dello Stato anche ad ordinamento autonomo, gli enti pubblici non economici a carattere nazionale e quelli che svolgono attivita' in una o piu' regioni, le province, i comuni e le unita' sanitarie locali effettuano le assunzioni dei lavoratori da inquadrare nei livelli retributivo-funzionali per i quali non e' richiesto il titolo di studio superiore a quello della scuola dell'obbligo, sulla base di selezioni effettuate tra gli iscritti nelle liste di collocamento ed in quelle di mobilita' che abbiano la professionalita' eventualmente richiesta e i requisiti previsti per l'accesso al pubblico impiego. Essi sono avviati numericamente alla selezione secondo l'ordine delle graduatorie risultante dalle liste delle circoscrizioni territorialmente competenti.  
-2. I lavoratori di cui al comma 1 hanno facolta' di iscriversi nella lista di collocamento di una seconda circoscrizione, anche di altra regione, mantenendo l'iscrizione presso la prima. L'anzianita' maturata presso quest'ultima viene riconosciuta ai fini della graduatoria.  
-3. Gli avviamenti vengono effettuati sulla base delle graduatorie circoscrizionali, ovvero, nel caso di enti la cui attivita' si esplichi nel territorio di piu' circoscrizioni, con riferimento alle graduatorie delle circoscrizioni interessate e, per gli enti la cui attivita' si esplichi nell'intero territorio regionale, con riferimento alle graduatorie di tutte le circoscrizioni della regione, secondo un sistema integrato definito ai sensi del decreto del Presidente del Consiglio dei Ministri di cui al comma 4.  
-4. Le modalita' di avviamento dei lavoratori nonche' le modalita' e i criteri delle selezioni tra i lavoratori avviati sono determinati con decreto del Presidente del Consiglio dei Ministri, da emanarsi entro sei mesi dalla data di entrata in vigore della presente legge, sentite le confederazioni sindacali maggiormente rappresentative sul piano nazionale.  
-5. Le amministrazioni centrali dello Stato, gli enti pubblici non economici a carattere nazionale e quelli, che svolgono attivita' in piu' regioni, per i posti da ricoprire nella sede centrale, procedono all'assunzione dei lavoratori di cui al comma 1 mediante selezione sulla base della graduatoria delle domande presentate dagli interessati. Con il decreto di cui al comma 4 sono stabiliti i criteri per la formazione della graduatoria unica nonche' i criteri e le modalita' per la informatizzazione delle liste.  
-6. Le offerte di lavoro da parte della pubblica amministrazione sono programmate in modo da rendere annuale la cadenza dei bandi, secondo le direttive impartite dal Ministro per la funzione pubblica.  
-7. Le disposizioni di cui ai commi 1, 2 e 3 hanno valore di principio e di indirizzo per la legislazione delle regioni a statuto ordinario.  
-8. Sono escluse dalla disciplina del presente articolo le assunzioni presso le Forze armate e i corpi civili militarmente ordinati".  
-- Il [D.P.C.M. 18 settembre 1987, n. 392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:1987-09-18;392), reca: "Modalita' e criteri per l'avviamento e la selezione dei lavoratori ai sensi dell'[art. 16 della legge 28 febbraio 1987, n. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-28;56~art16), recante norme sull'organizzazione del mercato del lavoro".  
-- Per il titolo del [D.P.R. n. 1219/1984](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1984;1219) si veda nelle precedenti note alle premesse.
+3.
 
-### Art. 5
+Per i profili professionali comportanti l'espletamento di mansioni attinenti ai servizi di cui alle [lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-15;664#art_1-leta) e [b) dell'art. 1, comma 1, della legge 15 ottobre 1986, n. 664](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-15;664#art_1-com1-letb), esclusi i profili comportanti specificamente l'espletamento di mansioni tecnico-contabili, la prima prova scritta concerne la risoluzione di tests bilanciati sulla conoscenza di nozioni delle seguenti materie, con diversa accentuazione secondo i profili professionali e secondo i diversi livelli: diritto costituzionale, diritto amministrativo, diritto privato, diritto processuale civile e penale. La seconda prova scritta, a carattere pratico o teorico-pratico, puo' consistere, con riferimento ai diversi profili professionali ed in conformita' alle disposizioni del [decreto del Presidente della Repubblica 29 dicembre 1984, n. 1219](../DPR/Individuazione%20dei%20profili%20professionali%20del%20personale%20dei%20Ministeri%20in%20attuazione%20dellart.%203%20della%20legge%2011%20luglio%201980%20n.%20312.md), in un saggio stanodattilografico ovvero nella risoluzione di tests bilanciati aventi per oggetto nozioni sullo stato giuridico degli impiegati civili dello Stato e sulla contabilita' generale dello Stato.
 
-Seconda qualifica
+4.
 
-1. I concorsi per l'accesso alla seconda qualifica funzionale sono per titoli e prova pratica, fuori dei casi previsti dall'[art. 16 della legge 28 febbraio 1987, n. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-28;56~art16), e dal [decreto del Presidente del Consiglio dei Ministri 18 settembre 1987, n. 392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:1987-09-18;392).
+Il colloquio verte sulla conoscenza, a livello di nozioni, delle materie oggetto delle prove scritte nonche' delle seguenti altre: ordinamento giudiziario e della giustizia amministrativa; ordinamento dell'Avvocatura dello Stato; ragioneria generale; statistica; informatica.
 
-2. I titoli valutabili ed il punteggio massimo attribuibile a ciascuno di essi sono indicati nel bando di concorso.
+5.
 
-3. La prova pratica tende all'accertamento dell'idoneita' del candidato, secondo le indicazioni del bando, in relazione alle attivita' da svolgersi.
+Per i profili professionali diversi da quelli considerati nel precedente comma 3 le due prove scritte, rispettivamente con quesiti a risposta sintetica e con quesiti teorico-pratici, ed il colloquio hanno per oggetto le materie indicate dai relativi bandi di concorso in conformita' alle disposizioni di cui al [decreto del Presidente della Repubblica 29 dicembre 1984, n. 1219](../DPR/Individuazione%20dei%20profili%20professionali%20del%20personale%20dei%20Ministeri%20in%20attuazione%20dellart.%203%20della%20legge%2011%20luglio%201980%20n.%20312.md).
 
-4. La commissione esaminatrice e' composta a norma del comma 6 del precedente art. 4.
+6.
 
-Nota all'art. 5:  
-Per il testo dell'[art. 16 della legge n. 56/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;56~art16) si veda nelle precedenti note all'art. 4.
+La commissione esaminatrice e' composta da un avvocato dello Stato almeno alla seconda classe di stipendio, con funzioni di presidente, e da due componenti scelti tra avvocati dello Stato di classe di stipendio inferiore o procuratori dello Stato alla terza classe di stipendio o impiegati della nona qualifica funzionale; le funzioni di segretario sono svolte da un impiegato appartenente almeno alla sesta qualifica funzionale.
 
-CAPO II TITOLO I ACCESSO ALLE QUALIFICHE FUNZIONALI DEL PERSONALE AMMINISTRATIVO DELL'AVVOCATURA DELLO STATO. Capo II DESTINAZIONE DEI VINCITORI
-------------------------------------------------------------------------------------------------------------------------------------------------
+Note all'art. 3:
+ - Il testo degli [articoli 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987;266#art_27) e [28 del D.P.R. n. 266/1987](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987;266#art_28), inseriti dall'[art. 10 del D.P.R. n. 494/1987](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987;494#art_10), e' il seguente:
+ "Art. 27 (Ammissione ai concorsi di personale in servizio). - 1. Alla copertura dei posti disponibili nei profili professionali, a conclusione del primo inquadramento ed in deroga a quanto previsto dall'[art. 14 della legge 31 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-31;312#art_14), si provvede mediante concorsi ai quali possono partecipare i dipendenti in possesso di un'anzianita' di almeno tre anni nel profilo immediatamente inferiore con le modalita' che saranno stabilite con il decreto del Presidente del Consiglio dei Ministri di cui all'[art. 9 della legge 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312#art_9).
+ Art. 28 (Accesso alle qualifiche IV e VI). - 1. La disposizione transitoria di cui all'[art. 8 della legge 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312#art_8), e' prorogata per il periodo di vigenza dell'accordo recepito con il presente decreto".
+ - Per il testo dell'[art. 1, comma 1, lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986;664#art_1-com1-leta) e [b), della legge n. 664/1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986;664#art_1-com1-letb) si veda nelle precedenti note all'art. 2.
+ - Per il titolo del [D.P.R. n. 1219/1984](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1984;1219) si veda nelle precedenti note alle premesse.
 
-### Art. 6
+### Art. 4. — Qualifiche terza e quarta
 
-Concorsi nazionali e regionali
+1.
 
-1. Con il bando di concorso su base nazionale o regionale relativo a ciascuna qualifica funzionale i posti possono essere ripartiti tra varie sedi distrettuali. In tal caso ciascun candidato puo' concorrere per una sede soltanto, salva la facolta' di richiesta espressa di inserimento, in via subordinata, in una seconda graduatoria relativa a diversa sede distrettuale.
+Fermo restando il disposto degli [articoli 27](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2026%20marzo%201987%20concernente%20il%20comparto%20del%20personale%20dipendente%20dai%20Ministeri.md) e [28 del decreto del Presidente della Repubblica 8 maggio 1987, n. 266](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2026%20marzo%201987%20concernente%20il%20comparto%20del%20personale%20dipendente%20dai%20Ministeri.md), come integrato dall'[art. 10 del decreto del Presidente della Repubblica 17 settembre 1987, n. 494](../DPR/Norme%20risultanti%20dagli%20accordi%20contrattuali%20definiti%20con%20le%20organizzazioni%20sindacali%20per%20il%20triennio%201985-87%20relativi%20al%20personale%20dei%20Ministeri%20degli%20enti%20pubblici%20non%20economici%20degli%20en_fdc168e5c455.md), e fuori dei casi previsti dall'[art. 16 della legge 28 febbraio 1987, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-28;56#art_16), e dal [decreto del Presidente del Consiglio dei Ministri 18 settembre 1987, n. 392](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:1987-09-18;392), i concorsi per l'accesso alle qualifiche terza e quarta sono per esami.
 
-2. L'inserimento nella graduatoria per tale seconda sede avviene dopo l'ultimo dei concorrenti per essa risultati idonei e secondo l'ordine determinato dal punteggio conseguito da tutti coloro che, nel valersi dell'anzidetta facolta', avranno indicato la medesima sede.
+2.
 
-3. Esaurite le graduatorie formate per ogni sede, i posti rimasti scoperti vengono assegnati secondo l'ordine della graduatoria generale di tutti gli idonei.
+Gli esami consistono in due prove scritte e un colloquio.
 
-CAPO III TITOLO I ACCESSO ALLE QUALIFICHE FUNZIONALI DEL PERSONALE AMMINISTRATIVO DELL'AVVOCATURA DELLO STATO. Capo III DISPOSIZIONE TRANSITORIA
-------------------------------------------------------------------------------------------------------------------------------------------------
+3.
 
-### Art. 7
+La prima prova concerne la risoluzione di tests bilanciati sulla conoscenza di nozioni elementari relativi all'ordinamento costituzionale dello Stato e all'ordinamento degli impiegati.
 
-Graduatorie di concorsi precedentemente espletati
+4.
 
-1. Ai candidati risultati idonei in concorsi gia' espletati alla data di entrata in vigore del presente regolamento possono essere conferiti, nel limite del triennio dalla data di approvazione delle rispettive graduatorie e secondo l'ordine di queste, i posti disponibili nelle qualifiche funzionali corrispondenti alle soppresse qualifiche dei ruoli di cui alle [leggi 22 maggio 1960, n. 520, e 5 aprile 1964, n. 284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-04-05;284), per le sedi previamente individuate con decreto dell'Avvocato generale dello Stato.
+La seconda prova, a carattere pratico attitudinale, puo' consistere, con riferimento ai diversi profili professionali ed in conformita' alle disposizioni del [decreto del Presidente della Repubblica 29 dicembre 1984, n. 1219](../DPR/Individuazione%20dei%20profili%20professionali%20del%20personale%20dei%20Ministeri%20in%20attuazione%20dellart.%203%20della%20legge%2011%20luglio%201980%20n.%20312.md), in un saggio dattilografico ovvero in altra prova comunque finalizzata all'accertamento delle qualita' necessarie per le attivita' da svolgersi, secondo le indicazioni del bando di concorso.
 
-2. Il personale anzidetto e' collocato in ruolo dopo gli impiegati di cui all'art. 13, comma 4, del presente regolamento.
+5.
 
-Note all'[art. 7:  
-- La legge 22 maggio 1960, n. 520](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-05-22;520~art7), reca: "Istituzione del ruolo dei segretari e revisione degli organici del personale esecutivo ed ausiliario dell'Avvocatura dello Stato".  
-- La [legge 5 aprile 1964, n. 284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-04-05;284), reca: "Ordinamento delle carriere di concetto, esecutiva ed ausiliaria dell'Avvocatura dello Stato".
+Il colloquio verte sulla conoscenza, a livello di nozioni elementari, delle materie oggetto della prima prova scritta, nonche' delle altre materie indicate dal bando di concorso in relazione a specifici profili professionali, ricomprese tra le seguenti: ordinamento dell'Avvocatura dello Stato, contabilita' generale dello Stato, statistica, informatica, archivistica.
 
-CAPO IV TITOLO II PROCEDIMENTI SEMPLIFICATI DI ACCESSO ALLE VARIE QUALIFICHE PER IL PERSONALE IN SERVIZIO.
-----------------------------------------------------------------------------------------------------------
+6.
 
-### Art. 8
+La commissione esaminatrice e' composta da un avvocato dello Stato alla classe di stipendio prima o superiori, con funzioni di presidente, e da due funzionari della carriera direttiva con qualifica non inferiore alla settima; le funzioni di segretario sono svolte da un impiegato appartenente almeno alla sesta qualifica funzionale.
 
-Modalita' di accesso alla qualifica superiore
+Note all'art. 4:
+ - Per il testo degli [articoli 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987;266#art_27) e [28 del D.P.R. n. 266/1987](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987;266#art_28) si veda nelle precedenti note all'art. 3.
+ - Il testo dell'[art. 16 della legge 28 febbraio 1987, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-28;56#art_16) (Norme sull'organizzazione del mercato del lavoro), come modificato dall'[art. 4, commi 4- bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-03-21;86#art_4-com4bis) e [4-quinquies, del D.L. 21 marzo 1988, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-03-21;86#art_4-com4quinquies), convertito nella [legge 20 maggio 1988, n. 160](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20marzo%201988%20n.%2086%20recante%20norme%20in%20materia%20previdenziale%20di%20occupazione%20giovanile%20e%20di%20mercato%20del%20lavoro%20nonche%20per%20il%20potenzia_d8243932aa59.md), e' il seguente:
+ "Art. 16 (Disposizioni concernenti lo Stato e gli enti pubblici). - 1. Le amministrazioni dello Stato anche ad ordinamento autonomo, gli enti pubblici non economici a carattere nazionale e quelli che svolgono attivita' in una o piu' regioni, le province, i comuni e le unita' sanitarie locali effettuano le assunzioni dei lavoratori da inquadrare nei livelli retributivo-funzionali per i quali non e' richiesto il titolo di studio superiore a quello della scuola dell'obbligo, sulla base di selezioni effettuate tra gli iscritti nelle liste di collocamento ed in quelle di mobilita' che abbiano la professionalita' eventualmente richiesta e i requisiti previsti per l'accesso al pubblico impiego. Essi sono avviati numericamente alla selezione secondo l'ordine delle graduatorie risultante dalle liste delle circoscrizioni territorialmente competenti.
+ 2. I lavoratori di cui al comma 1 hanno facolta' di iscriversi nella lista di collocamento di una seconda circoscrizione, anche di altra regione, mantenendo l'iscrizione presso la prima. L'anzianita' maturata presso quest'ultima viene riconosciuta ai fini della graduatoria.
+ 3. Gli avviamenti vengono effettuati sulla base delle graduatorie circoscrizionali, ovvero, nel caso di enti la cui attivita' si esplichi nel territorio di piu' circoscrizioni, con riferimento alle graduatorie delle circoscrizioni interessate e, per gli enti la cui attivita' si esplichi nell'intero territorio regionale, con riferimento alle graduatorie di tutte le circoscrizioni della regione, secondo un sistema integrato definito ai sensi del decreto del Presidente del Consiglio dei Ministri di cui al comma 4.
+ 4. Le modalita' di avviamento dei lavoratori nonche' le modalita' e i criteri delle selezioni tra i lavoratori avviati sono determinati con decreto del Presidente del Consiglio dei Ministri, da emanarsi entro sei mesi dalla data di entrata in vigore della presente legge, sentite le confederazioni sindacali maggiormente rappresentative sul piano nazionale.
+ 5. Le amministrazioni centrali dello Stato, gli enti pubblici non economici a carattere nazionale e quelli, che svolgono attivita' in piu' regioni, per i posti da ricoprire nella sede centrale, procedono all'assunzione dei lavoratori di cui al comma 1 mediante selezione sulla base della graduatoria delle domande presentate dagli interessati. Con il decreto di cui al comma 4 sono stabiliti i criteri per la formazione della graduatoria unica nonche' i criteri e le modalita' per la informatizzazione delle liste.
+ 6. Le offerte di lavoro da parte della pubblica amministrazione sono programmate in modo da rendere annuale la cadenza dei bandi, secondo le direttive impartite dal Ministro per la funzione pubblica.
+ 7. Le disposizioni di cui ai commi 1, 2 e 3 hanno valore di principio e di indirizzo per la legislazione delle regioni a statuto ordinario.
+ 8. Sono escluse dalla disciplina del presente articolo le assunzioni presso le Forze armate e i corpi civili militarmente ordinati".
+ - Il [D.P.C.M. 18 settembre 1987, n. 392](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:1987-09-18;392), reca: "Modalita' e criteri per l'avviamento e la selezione dei lavoratori ai sensi dell'[art. 16 della legge 28 febbraio 1987, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-28;56#art_16), recante norme sull'organizzazione del mercato del lavoro".
+ - Per il titolo del [D.P.R. n. 1219/1984](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1984;1219) si veda nelle precedenti note alle premesse.
 
-1. Il personale di cui all'[art. 6, comma 2, della legge 15 ottobre 1986, n. 664](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-15;664~art6-com2), puo' accedere alla qualifica immediatamente superiore a quella rivestita mediante procedimento concorsuale riservato consistente nella valutazione del servizio prestato, sulla base degli elementi di cui al successivo art. 11, nonche' nell'accertamento dell'idoneita' a ricoprire mansioni della qualifica immediatamente superiore a quella di appartenenza, sulla base di un esame-colloquio da svolgersi secondo le modalita' di cui al successivo art. 12.
+### Art. 5. — Seconda qualifica
 
-Nota all'art. 8:  
-Il testo dell'[art. 6, comma 2, della legge n. 664/1986](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986;664~art6-com2) e' il seguente:  
-"2. Nella prima applicazione della presente legge, salvo il disposto dell'[art. 14 della legge 11 luglio 1980, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312~art14), per la copertura dei posti che risulteranno disponibili nelle singole qualifiche funzionali, il regolamento di cui all'art. 2, comma 1, potra' prevedere, per una sola volta, l'espletamento di procedimenti semplificati di accesso riservati al personale in servizio presso l'Avvocatura dello Stato, che abbia maturato un'anzianita' di almeno tre anni di servizio di ruolo nella qualifica immediatamente inferiore".
+1.
 
-### Art. 9
+I concorsi per l'accesso alla seconda qualifica funzionale sono per titoli e prova pratica, fuori dei casi previsti dall'[art. 16 della legge 28 febbraio 1987, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-28;56#art_16), e dal [decreto del Presidente del Consiglio dei Ministri 18 settembre 1987, n. 392](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:1987-09-18;392).
 
-Presentazione delle domande
+2.
 
-1. La domanda di ammissione, indirizzata all'Avvocato generale dello Stato, dovra' essere presentata all'ufficio di appartenenza entro il termine perentorio di trenta giorni dalla data di pubblicazione del presente regolamento nella Gazzetta Ufficiale della Repubblica.
+I titoli valutabili ed il punteggio massimo attribuibile a ciascuno di essi sono indicati nel bando di concorso.
 
-2. La data di presentazione della domanda e' stabilita dal timbro a data apposto sulla stessa dall'ufficio ricevente.
+3.
 
-3. La domanda di ammissione deve essere redatta secondo lo schema allegato al presente regolamento.
+La prova pratica tende all'accertamento dell'idoneita' del candidato, secondo le indicazioni del bando, in relazione alle attivita' da svolgersi.
 
-4. Nella domanda gli interessati devono indicare:  
-A) Il nome, il cognome, il luogo e la data di nascita.  
-B) Il comune di residenza e l'indicazione dell'indirizzo presso il quale dovranno essere inviate tutte le eventuali comunicazioni.  
-C) La qualifica attualmente ricoperta e la data dalla quale prestano servizio in tale qualifica, nonche' l'ufficio presso il quale prestano attualmente servizio.  
-D) La richiesta di essere ammessi ai procedimenti semplificati di cui all'[art. 6, comma 2, della legge 15 ottobre 1986, n. 664](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-15;664~art6-com2).  
-E) La qualifica funzionale alla quale chiedono di accedere.
+4.
 
-5. La firma posta in calce alla domanda stessa dovra' essere autenticata o vistata ai sensi di legge.
+La commissione esaminatrice e' composta a norma del comma 6 del precedente art. 4.
 
-Nota all'art. 9:  
-Per il testo dell'[art. 6, comma 2, della legge n. 664/1986](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986;664~art6-com2) si veda la precedente nota all'art. 8.
+Nota all'art. 5:
+ Per il testo dell'[art. 16 della legge n. 56/1987](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;56#art_16) si veda nelle precedenti note all'art. 4.
 
-### Art. 10
+## ACCESSO ALLE QUALIFICHE FUNZIONALI DEL PERSONALE AMMINISTRATIVO DELL'AVVOCATURA DELLO STATO. Capo II DESTINAZIONE DEI VINCITORI
 
-Commissione esaminatrice
+TITOLO I
 
-1. Alle operazioni connesse all'espletamento delle procedure semplificate provvede una commissione nominata con decreto dell'Avvocato generale dello Stato, composta da un avvocato dello Stato alla quarta classe di stipendio, con funzioni di presidente, e da due avvocati dello Stato almeno alla seconda classe di stipendio.  
+### Art. 6. — Concorsi nazionali e regionali
+
+1.
+
+Con il bando di concorso su base nazionale o regionale relativo a ciascuna qualifica funzionale i posti possono essere ripartiti tra varie sedi distrettuali. In tal caso ciascun candidato puo' concorrere per una sede soltanto, salva la facolta' di richiesta espressa di inserimento, in via subordinata, in una seconda graduatoria relativa a diversa sede distrettuale.
+
+2.
+
+L'inserimento nella graduatoria per tale seconda sede avviene dopo l'ultimo dei concorrenti per essa risultati idonei e secondo l'ordine determinato dal punteggio conseguito da tutti coloro che, nel valersi dell'anzidetta facolta', avranno indicato la medesima sede.
+
+3.
+
+Esaurite le graduatorie formate per ogni sede, i posti rimasti scoperti vengono assegnati secondo l'ordine della graduatoria generale di tutti gli idonei.
+
+## ACCESSO ALLE QUALIFICHE FUNZIONALI DEL PERSONALE AMMINISTRATIVO DELL'AVVOCATURA DELLO STATO. Capo III DISPOSIZIONE TRANSITORIA
+
+TITOLO I
+
+### Art. 7. — Graduatorie di concorsi precedentemente espletati
+
+1.
+
+Ai candidati risultati idonei in concorsi gia' espletati alla data di entrata in vigore del presente regolamento possono essere conferiti, nel limite del triennio dalla data di approvazione delle rispettive graduatorie e secondo l'ordine di queste, i posti disponibili nelle qualifiche funzionali corrispondenti alle soppresse qualifiche dei ruoli di cui alle [leggi 22 maggio 1960, n. 520, e 5 aprile 1964, n. 284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-04-05;284), per le sedi previamente individuate con decreto dell'Avvocato generale dello Stato.
+
+2.
+
+Il personale anzidetto e' collocato in ruolo dopo gli impiegati di cui all'art. 13, comma 4, del presente regolamento.
+
+Note all'[art. 7:
+ - La legge 22 maggio 1960, n. 520](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20del%20ruolo%20dei%20segretari%20e%20revisione%20degli%20organici%20del%20personale%20esecutivo%20ed%20ausiliario%20dellAvvocatura%20dello%20Stato.md), reca: "Istituzione del ruolo dei segretari e revisione degli organici del personale esecutivo ed ausiliario dell'Avvocatura dello Stato".
+ - La [legge 5 aprile 1964, n. 284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-04-05;284), reca: "Ordinamento delle carriere di concetto, esecutiva ed ausiliaria dell'Avvocatura dello Stato".
+
+## PROCEDIMENTI SEMPLIFICATI DI ACCESSO ALLE VARIE QUALIFICHE PER IL PERSONALE IN SERVIZIO.
+
+TITOLO II
+
+### Art. 8. — Modalita' di accesso alla qualifica superiore
+
+1.
+
+Il personale di cui all'[art. 6, comma 2, della legge 15 ottobre 1986, n. 664](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-15;664#art_6-com2), puo' accedere alla qualifica immediatamente superiore a quella rivestita mediante procedimento concorsuale riservato consistente nella valutazione del servizio prestato, sulla base degli elementi di cui al successivo art. 11, nonche' nell'accertamento dell'idoneita' a ricoprire mansioni della qualifica immediatamente superiore a quella di appartenenza, sulla base di un esame-colloquio da svolgersi secondo le modalita' di cui al successivo art. 12.
+
+Nota all'art. 8:
+ Il testo dell'[art. 6, comma 2, della legge n. 664/1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986;664#art_6-com2) e' il seguente:
+ "2. Nella prima applicazione della presente legge, salvo il disposto dell'[art. 14 della legge 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312#art_14), per la copertura dei posti che risulteranno disponibili nelle singole qualifiche funzionali, il regolamento di cui all'art. 2, comma 1, potra' prevedere, per una sola volta, l'espletamento di procedimenti semplificati di accesso riservati al personale in servizio presso l'Avvocatura dello Stato, che abbia maturato un'anzianita' di almeno tre anni di servizio di ruolo nella qualifica immediatamente inferiore".
+
+### Art. 9. — Presentazione delle domande
+
+1.
+
+La domanda di ammissione, indirizzata all'Avvocato generale dello Stato, dovra' essere presentata all'ufficio di appartenenza entro il termine perentorio di trenta giorni dalla data di pubblicazione del presente regolamento nella Gazzetta Ufficiale della Repubblica.
+
+2.
+
+La data di presentazione della domanda e' stabilita dal timbro a data apposto sulla stessa dall'ufficio ricevente.
+
+3.
+
+La domanda di ammissione deve essere redatta secondo lo schema allegato al presente regolamento.
+
+4.
+
+Nella domanda gli interessati devono indicare:
+ A) Il nome, il cognome, il luogo e la data di nascita.
+ B) Il comune di residenza e l'indicazione dell'indirizzo presso il quale dovranno essere inviate tutte le eventuali comunicazioni.
+ C) La qualifica attualmente ricoperta e la data dalla quale prestano servizio in tale qualifica, nonche' l'ufficio presso il quale prestano attualmente servizio.
+ D) La richiesta di essere ammessi ai procedimenti semplificati di cui all'[art. 6, comma 2, della legge 15 ottobre 1986, n. 664](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-15;664#art_6-com2).
+ E) La qualifica funzionale alla quale chiedono di accedere.
+
+5.
+
+La firma posta in calce alla domanda stessa dovra' essere autenticata o vistata ai sensi di legge.
+
+Nota all'art. 9:
+ Per il testo dell'[art. 6, comma 2, della legge n. 664/1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986;664#art_6-com2) si veda la precedente nota all'art. 8.
+
+### Art. 10. — Commissione esaminatrice
+
+1.
+
+Alle operazioni connesse all'espletamento delle procedure semplificate provvede una commissione nominata con decreto dell'Avvocato generale dello Stato, composta da un avvocato dello Stato alla quarta classe di stipendio, con funzioni di presidente, e da due avvocati dello Stato almeno alla seconda classe di stipendio.
 Le funzioni di segretario sono svolte da un procuratore dello Stato.
 
-### Art. 11
+### Art. 11. — Valutazione del servizio
 
-Valutazione del servizio
+1.
 
-1. Decorso il termine di cui al precedente art. 9, l'avvocato distrettuale provvede a trasmettere le domande presentategli al segretario generale dell'Avvocatura dello Stato, unendo a ciascuna di esse una relazione sul servizio prestato dal dipendente, nella quale sia in particolare specificato:
+Decorso il termine di cui al precedente art. 9, l'avvocato distrettuale provvede a trasmettere le domande presentategli al segretario generale dell'Avvocatura dello Stato, unendo a ciascuna di esse una relazione sul servizio prestato dal dipendente, nella quale sia in particolare specificato:
+                            a)
+                                per gli impiegati appartenenti alle qualifiche sesta e superiori: l'anzianita' di servizio nella qualifica posseduta; la qualita' del servizo prestato; la capacita' organizzativa; il rendimento, la cultura generale e la capacita' professionale; l'attitudine ad assumere maggiori responsabilita' e ad assolvere le funzioni della qualifica superiore; i lavori originali elaborati per il servizio; gli incarichi svolti; i corsi professionali superati; le pubblicazioni scientifiche; le qualita' morali e di carattere; la stima e il prestigio goduti in ufficio;
+                            b)
+                                per gli impiegati appartenenti alla quinta, quarta, terza e seconda qualifica: l'anzianita' di servizio nella qualifica posseduta; l'osservanza dell'orario e degli altri doveri d'ufficio; la qualita' del servizio prestato; il rendimento; la cultura generale e la capacita' professionale; l'attitudine ad assolvere le mansioni della qualifica superiore; i corsi professionali superati; le qualita' morali e di carattere.
 
-a) per gli impiegati appartenenti alle qualifiche sesta e superiori: l'anzianita' di servizio nella qualifica posseduta; la qualita' del servizo prestato; la capacita' organizzativa; il rendimento, la cultura generale e la capacita' professionale; l'attitudine ad assumere maggiori responsabilita' e ad assolvere le funzioni della qualifica superiore; i lavori originali elaborati per il servizio; gli incarichi svolti; i corsi professionali superati; le pubblicazioni scientifiche; le qualita' morali e di carattere; la stima e il prestigio goduti in ufficio;
+2.
 
-b) per gli impiegati appartenenti alla quinta, quarta, terza e seconda qualifica: l'anzianita' di servizio nella qualifica posseduta; l'osservanza dell'orario e degli altri doveri d'ufficio; la qualita' del servizio prestato; il rendimento; la cultura generale e la capacita' professionale; l'attitudine ad assolvere le mansioni della qualifica superiore; i corsi professionali superati; le qualita' morali e di carattere.
+Per gli impiegati che a decorrere dal 1 gennaio 1980 hanno prestato servizio anche in sedi diverse dall'attuale, la relazione viene integrata dal segretario generale con gli elementi forniti dagli avvocati distrettuali delle sedi nelle quali e' stato prestato precedentemente servizio nel periodo anzidetto.
 
-2. Per gli impiegati che a decorrere dal 1› gennaio 1980 hanno prestato servizio anche in sedi diverse dall'attuale, la relazione viene integrata dal segretario generale con gli elementi forniti dagli avvocati distrettuali delle sedi nelle quali e' stato prestato precedentemente servizio nel periodo anzidetto.
+3.
 
-3. Per i dipendenti in servizio presso l'Avvocatura generale, la relazione di cui comma 1 e' redatta dal segretario generale.
+Per i dipendenti in servizio presso l'Avvocatura generale, la relazione di cui comma 1 e' redatta dal segretario generale.
 
-4. Copia della relazione di cui al commi precedenti viene comunicata a ciascun interessato.
+4.
 
-5. L'ammissione alle procedure semplificate per l'accesso alle diverse qualifiche funzionali viene disposta con provvedimento dell'Avvocato generale.
+Copia della relazione di cui al commi precedenti viene comunicata a ciascun interessato.
 
-6. Il segretario generale trasmette le relazioni concernenti gli impiegati ammessi, nonche' i fascicoli personali dei medesimi alla commissione di cui al precedente art. 10.
+5.
 
-7. La commissione esaminatrice procede, previa determinazione dei criteri di massima, alla valutazione dell'anzianita' nella qualifica posseduta e del servizio prestato, sulla base degli elementi di cui al comma 1 del presente articolo, nonche' degli altri atti di ufficio risultanti dal fascicolo personale di ciascun aspirante. Per la valutazione complessiva dei titoli ogni commissario dispone di dieci punti.
+L'ammissione alle procedure semplificate per l'accesso alle diverse qualifiche funzionali viene disposta con provvedimento dell'Avvocato generale.
 
-### Art. 12
+6.
 
-Esame-colloquio
+Il segretario generale trasmette le relazioni concernenti gli impiegati ammessi, nonche' i fascicoli personali dei medesimi alla commissione di cui al precedente art. 10.
 
-1. Per l'accesso alle qualifiche settima ed ottava l'esame-colloquio verte sull'attivita' istituzionale dell'Avvocatura dello Stato ed e' diretto ad accertare il possesso di una adeguata preparazione giuridica e amministrativa, l'attitudine alla soluzione di quesiti inerenti ai servizi di istituto e il possesso delle doti organizzative e direttive richieste in relazione alla qualifica funzionale alla quale l'aspirante abbia chiesto di accedere.
+7.
 
-2. Per l'accesso alle altre qualifiche funzionali, l'esame-colloquio e' diretto ad accertare il possesso di nozioni generali giuridico-amministrative, di nozioni generali relative all'attivita' dell'Avvocatura dello Stato ed il possesso di cognizioni tecnico-pratiche adeguate allo svolgimento delle mansioni proprie della qualifica funzionale alla quale l'aspirante abbia chiesto di accedere.
+La commissione esaminatrice procede, previa determinazione dei criteri di massima, alla valutazione dell'anzianita' nella qualifica posseduta e del servizio prestato, sulla base degli elementi di cui al comma 1 del presente articolo, nonche' degli altri atti di ufficio risultanti dal fascicolo personale di ciascun aspirante. Per la valutazione complessiva dei titoli ogni commissario dispone di dieci punti.
 
-3. Per l'accesso alle qualifiche sesta e superiori, l'esame-colloquio consiste nell'illustrazione di un argomento, avente ad oggetto le materie indicate rispettivamente nei precedenti commi, reso noto all'aspirante almeno ventiquattro ore prima dell'espletamento della prova.
+### Art. 12. — Esame-colloquio
 
-4. Per la valutazione dell'esame-colloquio ogni commissario dispone di dieci punti. L'esame-colloquio si intende superato ove il candidato abbia conseguito una valutazione non inferiore a ventuno punti.
+1.
 
-### Art. 13
+Per l'accesso alle qualifiche settima ed ottava l'esame-colloquio verte sull'attivita' istituzionale dell'Avvocatura dello Stato ed e' diretto ad accertare il possesso di una adeguata preparazione giuridica e amministrativa, l'attitudine alla soluzione di quesiti inerenti ai servizi di istituto e il possesso delle doti organizzative e direttive richieste in relazione alla qualifica funzionale alla quale l'aspirante abbia chiesto di accedere.
 
-Accesso alla qualifica superiore
+2.
 
-1. Espletati gli adempimenti relativi all'esame-colloquio, la commissione di cui al precedente art. 10 provvede alla compilazione delle graduatorie riferite a ciascuna qualifica funzionale.
+Per l'accesso alle altre qualifiche funzionali, l'esame-colloquio e' diretto ad accertare il possesso di nozioni generali giuridico-amministrative, di nozioni generali relative all'attivita' dell'Avvocatura dello Stato ed il possesso di cognizioni tecnico-pratiche adeguate allo svolgimento delle mansioni proprie della qualifica funzionale alla quale l'aspirante abbia chiesto di accedere.
 
-2. A tal fine il punteggio complessivo da attribuirsi a ciascun impiegato e' determinato dalla somma dei punti attribuiti per la valutazione effettuata ai sensi del precedente art. 11 e del punteggio riportato all'esito favorevole dell'esame-colloquio.
+3.
 
-3. Le predette graduatorie sono approvate con decreto dell'Avvocato generale dello Stato e pubblicate nel Bollettino ufficiale della Presidenza del Consiglio dei Ministri. Di tale pubblicazione viene data notizia mediante avviso nella Gazzetta Ufficiale della Repubblica.
+Per l'accesso alle qualifiche sesta e superiori, l'esame-colloquio consiste nell'illustrazione di un argomento, avente ad oggetto le materie indicate rispettivamente nei precedenti commi, reso noto all'aspirante almeno ventiquattro ore prima dell'espletamento della prova.
 
-4. Con decreto dell'Avvocato generale dello Stato gli impiegati utilmente classificati nelle graduatorie di cui ai precedenti commi 1 e 3 accedono, nel limite dei posti disponibili, alla qualifica funzionale superiore e sono collocati in ruolo con decorrenza dalla scadenza del termine previsto dall'[art. 2, comma 1, della legge 15 ottobre 1986, n. 664](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-15;664~art2-com1).
+4.
 
-Nota all'art. 13:  
-Il testo dell'[art. 2, comma 1, della legge n. 664/1986](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986;664~art2-com1) e' il seguente: "1. Con regolamento da emanarsi entro sei mesi dalla data di entrata in vigore della presente legge, con decreto del Presidente del Consiglio dei Ministri, su proposta dell'Avvocato generale dello Stato, sentite le organizzazioni sindacali maggiormente rappresentative sul piano nazionale, saranno disciplinati le modalita' di accesso alle singole qualifiche e le procedure dei relativi concorsi, nonche' i criteri di destinazione dei vincitori, nel rispetto dei principi generali vigenti per i dipendenti civili dello Stato".
+Per la valutazione dell'esame-colloquio ogni commissario dispone di dieci punti. L'esame-colloquio si intende superato ove il candidato abbia conseguito una valutazione non inferiore a ventuno punti.
 
-CAPO V TITOLO III DISPOSIZIONE FINALE
--------------------------------------
+### Art. 13. — Accesso alla qualifica superiore
 
-### Art. 14
+1.
 
-R i n v i o
+Espletati gli adempimenti relativi all'esame-colloquio, la commissione di cui al precedente art. 10 provvede alla compilazione delle graduatorie riferite a ciascuna qualifica funzionale.
 
-  
-Per quanto non espressamente disciplinato dal presente regolamento trovano applicazione le disposizioni generali del [decreto del Presidente del Consiglio dei Ministri 10 giugno 1986, pubblicato nella Gazzetta Ufficiale n. 190 del 18 agosto 1986](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1986-08-18&numeroGazzetta=190).  
+2.
+
+A tal fine il punteggio complessivo da attribuirsi a ciascun impiegato e' determinato dalla somma dei punti attribuiti per la valutazione effettuata ai sensi del precedente art. 11 e del punteggio riportato all'esito favorevole dell'esame-colloquio.
+
+3.
+
+Le predette graduatorie sono approvate con decreto dell'Avvocato generale dello Stato e pubblicate nel Bollettino ufficiale della Presidenza del Consiglio dei Ministri. Di tale pubblicazione viene data notizia mediante avviso nella Gazzetta Ufficiale della Repubblica.
+
+4.
+
+Con decreto dell'Avvocato generale dello Stato gli impiegati utilmente classificati nelle graduatorie di cui ai precedenti commi 1 e 3 accedono, nel limite dei posti disponibili, alla qualifica funzionale superiore e sono collocati in ruolo con decorrenza dalla scadenza del termine previsto dall'[art. 2, comma 1, della legge 15 ottobre 1986, n. 664](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-15;664#art_2-com1).
+
+Nota all'art. 13:
+ Il testo dell'[art. 2, comma 1, della legge n. 664/1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986;664#art_2-com1) e' il seguente: "1. Con regolamento da emanarsi entro sei mesi dalla data di entrata in vigore della presente legge, con decreto del Presidente del Consiglio dei Ministri, su proposta dell'Avvocato generale dello Stato, sentite le organizzazioni sindacali maggiormente rappresentative sul piano nazionale, saranno disciplinati le modalita' di accesso alle singole qualifiche e le procedure dei relativi concorsi, nonche' i criteri di destinazione dei vincitori, nel rispetto dei principi generali vigenti per i dipendenti civili dello Stato".
+
+## DISPOSIZIONE FINALE
+
+TITOLO III
+
+### Art. 14. — R i n v i o
+
+Per quanto non espressamente disciplinato dal presente regolamento trovano applicazione le disposizioni generali del decreto del Presidente del Consiglio dei Ministri 10 giugno 1986, pubblicato nella Gazzetta Ufficiale n. 190 del 18 agosto 1986.
+
+Nota all'art. 14:
+ Per il titolo del D.P.C.M. 10 giugno 1986 si veda nelle precedenti note alle premesse.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, addi' 4 agosto 1989
+Roma, addi' 4 agosto 1989
 
-Il Presidente: ANDREOTTI
-
-Visto, il Guardasigilli: VASSALLI
-
-Registrato alla Corte dei conti, addi' 18 agosto 1989
-
-Atti di governo, registro n. 78, foglio n. 44
-
-Nota all'art. 14:  
-Per il titolo del D.P.C.M. 10 giugno 1986 si veda nelle precedenti note alle premesse.
-
-Allegato
-
- ALLEGATO   
-(previsto dall'art. 9, comma 3)   
-Schema di domanda   
-(da redigere possibilmente dattiloscritta)   
-All'Avvocatura generale dello Stato   
-- Segreteria generale - Via dei   
-Portoghesi, 12 - ROMA   
-Il sottoscritto/a .............................................. nato/a a..................................... (provincia di   
-....................................................................)   
-il..................................... residente in via   
-........................................................ n...........   
-c.a.p. ............... appartenente alla......... qualifica funzionale dal .................................................... attualmente in servizio presso l'Avvocatura (distrettuale di ...... o generale), chiede di essere ammesso al procedimento di cui all'[art.   
-6, comma 2, della legge 15 ottobre 1986, n. 664](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-15;664~art6-com2), al fine di conseguire l'accesso alla.............. qualifica funzionale del personale amministrativo dell'Avvocatura dello Stato.   
-Data ..........................................................   
-Firma ............................................................   
+Il Presidente: ANDREOTTI Visto, il Guardasigilli: VASSALLI Registrato alla Corte dei conti, addi' 18 agosto 1989 Atti di governo, registro n. 78, foglio n. 44

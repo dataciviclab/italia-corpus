@@ -1,126 +1,109 @@
-DECRETO LEGISLATIVO 27 gennaio 1992 n. 116
+---
+tipo: DECRETO LEGISLATIVO
+numero: 116
+data: 1992-01-27
+titolo: "Attuazione della direttiva n. 86/609/CEE in materia di protezione degli animali utilizzati a fini sperimentali o ad altri fini scientifici."
+urn: urn:nir:stato:decreto.legislativo:1992-01-27;116
+codice_redazionale: 092G0157
+vigente: true
+---
 
+## DISPOSIZIONI GENERALI
 
-DECRETO LEGISLATIVO 27 gennaio 1992 n. 116
-==========================================
+Capo I
 
-Attuazione della direttiva n. 86/609/CEE in materia di protezione degli animali utilizzati a fini sperimentali o ad altri fini scientifici.
--------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del decreto: 4-3-1992
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 26))
 
-CAPO I Capo I DISPOSIZIONI GENERALI
------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 26))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 MARZO 2014, N. 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-03-04;26)))
+### Art. 3.
 
-### Art. 2
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 26))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 MARZO 2014, N. 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-03-04;26)))
+### Art. 4.
 
-### Art. 3
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 26))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 MARZO 2014, N. 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-03-04;26)))
+### Art. 5.
 
-### Art. 4
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 26))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 MARZO 2014, N. 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-03-04;26)))
+### Art. 6.
 
-### Art. 5
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 26))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 MARZO 2014, N. 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-03-04;26)))
+### Art. 7.
 
-### Art. 6
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 26))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 MARZO 2014, N. 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-03-04;26)))
+## Disposizioni Derogatorie
 
-### Art. 7
+Capo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 MARZO 2014, N. 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-03-04;26)))
+### Art. 8.
 
-CAPO II Capo II Disposizioni Derogatorie
-----------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 26))
 
-### Art. 8
+### Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 MARZO 2014, N. 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-03-04;26)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 26))
 
-### Art. 9
+## Stabilimenti
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 MARZO 2014, N. 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-03-04;26)))
+Capo III
 
-CAPO III Capo III Stabilimenti
-------------------------------
+### Art. 10.
 
-### Art. 10
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 26))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 MARZO 2014, N. 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-03-04;26)))
+### Art. 11.
 
-### Art. 11
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 26))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 MARZO 2014, N. 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-03-04;26)))
+### Art. 12.
 
-### Art. 12
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 26))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 MARZO 2014, N. 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-03-04;26)))
+### Art. 13.
 
-### Art. 13
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 26))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 MARZO 2014, N. 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-03-04;26)))
+## S A N Z I O N I
 
-CAPO IV Capo IV S A N Z I O N I
--------------------------------
+Capo IV
 
-### Art. 14
+### Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 MARZO 2014, N. 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-03-04;26)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 26))
 
-CAPO V Capo V NORME FINALI E TRANSITORIE
-----------------------------------------
+## NORME FINALI E TRANSITORIE
 
-### Art. 15
+Capo V
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 MARZO 2014, N. 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-03-04;26)))
+### Art. 15.
 
-### Art. 16
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 26))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 MARZO 2014, N. 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-03-04;26)))
+### Art. 16.
 
-### Art. 17
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 26))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 MARZO 2014, N. 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-03-04;26)))
+### Art. 17.
 
-### Art. 18
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 26))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 MARZO 2014, N. 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-03-04;26)))
+### Art. 18.
 
-### Art. 19
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 26))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 MARZO 2014, N. 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-03-04;26)))
+### Art. 19.
 
-### Art. 20
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 26))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 MARZO 2014, N. 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-03-04;26)))
+### Art. 20.
 
-Allegato I
-
-Allegato I   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 MARZO 2014, N. 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-03-04;26)))
-
-Allegato II
-
-Allegato II   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 MARZO 2014, N. 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-03-04;26)))
-
-Tabelle
-
-Tabelle   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 MARZO 2014, N. 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-03-04;26)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 26))

@@ -1,79 +1,45 @@
-DECRETO-LEGGE 05 novembre 2012 n. 188
+---
+tipo: DECRETO-LEGGE
+numero: 188
+data: 2012-11-05
+titolo: "Disposizioni urgenti in materia di Province e Citta' metropolitane. (12G0210)"
+urn: urn:nir:stato:decreto.legge:2012-11-05;188
+codice_redazionale: 012G0210
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 05 novembre 2012 n. 188
-=====================================
+DECRETO DECADUTO
 
-Disposizioni urgenti in materia di Province e Citta' metropolitane. (12G0210)
------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 07/11/2012.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
-  
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 3
-------
+## Art. 5.
 
-  
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 4
-------
+## Art. 6.
 
-  
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 5
-------
+## Art. 7.
 
-  
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 6
-------
+## Art. 8.
 
-  
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 7
-------
+## Art. 9.
 
-  
-  
-DECRETO DECADUTO   
-
-Art. 8
-------
-
-  
-  
-DECRETO DECADUTO   
-
-Art. 9
-------
-
-  
-  
-DECRETO DECADUTO   
-
-Tabella
-
- Tabella   
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

@@ -1,26 +1,17 @@
-DECRETO-LEGGE 28 settembre 1990 n. 268
+---
+tipo: DECRETO-LEGGE
+numero: 199
+data: 1990-07-24
+titolo: "Sospensione delle procedure di rinnovo degli organi di gestione delle unita' sanitarie locali."
+urn: urn:nir:stato:decreto.legge:1990-07-24;199
+codice_redazionale: 090G0245
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 28 settembre 1990 n. 268
-======================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 4 APRILE 1991, N. 111](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20febbraio%201991%20n.%2035%20recante%20norme%20sulla%20gestione%20transitoria%20delle%20unita%20sanitarie%20locali.md)
 
-Sospensione delle procedure di rinnovo degli organi di gestione delle unita' sanitarie locali.
-----------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 01/10/1990.Decreto-Legge decaduto per mancata conversione.
-
-Art. 1
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 4 APRILE 1991, N. 111](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-04-04;111)
-  
-
-Art. 2
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 4 APRILE 1991, N. 111](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-04-04;111)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 4 APRILE 1991, N. 111](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20febbraio%201991%20n.%2035%20recante%20norme%20sulla%20gestione%20transitoria%20delle%20unita%20sanitarie%20locali.md)

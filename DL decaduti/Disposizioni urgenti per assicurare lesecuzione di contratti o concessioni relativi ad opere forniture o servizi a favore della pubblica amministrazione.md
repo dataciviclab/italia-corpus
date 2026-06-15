@@ -1,22 +1,17 @@
-DECRETO-LEGGE 06 marzo 1993 n. 52
+---
+tipo: DECRETO-LEGGE
+numero: 52
+data: 1993-03-06
+titolo: "Disposizioni urgenti per assicurare l'esecuzione di contratti o concessioni relativi ad opere, forniture o servizi a favore della pubblica amministrazione."
+urn: urn:nir:stato:decreto.legge:1993-03-06;52
+codice_redazionale: 093G0111
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 06 marzo 1993 n. 52
-=================================
+DECRETO DECADUTO
 
-Disposizioni urgenti per assicurare l'esecuzione di contratti o concessioni relativi ad opere, forniture o servizi a favore della pubblica amministrazione.
------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 7-3-1993.Decreto-Legge decaduto per mancata conversione.
-
-Art. 1
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 2
-------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

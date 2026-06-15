@@ -1,22 +1,17 @@
-DECRETO-LEGGE 01 dicembre 1990 n. 355
+---
+tipo: DECRETO-LEGGE
+numero: 355
+data: 1990-12-01
+titolo: "Norme sulla gestione transitoria delle unita' sanitarie locali."
+urn: urn:nir:stato:decreto.legge:1990-12-01;355
+codice_redazionale: 090G0408
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 01 dicembre 1990 n. 355
-=====================================
+DECRETO DECADUTO
 
-Norme sulla gestione transitoria delle unita' sanitarie locali.
----------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 1/12/1990.Decreto-Legge decaduto per mancata conversione.
-
-Art. 1
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 2
-------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

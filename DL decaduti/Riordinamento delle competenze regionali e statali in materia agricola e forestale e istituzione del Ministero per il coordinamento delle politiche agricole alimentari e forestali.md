@@ -1,58 +1,39 @@
-DECRETO-LEGGE 04 agosto 1993 n. 272
+---
+tipo: DECRETO-LEGGE
+numero: 272
+data: 1993-08-04
+titolo: "Riordinamento delle competenze regionali e statali in materia agricola e forestale e istituzione del Ministero per il coordinamento delle politiche agricole, alimentari e forestali."
+urn: urn:nir:stato:decreto.legge:1993-08-04;272
+codice_redazionale: 093G0356
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 04 agosto 1993 n. 272
-===================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 4 DICEMBRE 1993, N. 491](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20delle%20competenze%20regionali%20e%20statali%20in%20materia%20agricola%20e%20forestale%20e%20istituzione%20del%20Ministero%20delle%20risorse%20agricole%20alimentari%20e%20forestali.md)
 
-Riordinamento delle competenze regionali e statali in materia agricola e forestale e istituzione del Ministero per il coordinamento delle politiche agricole, alimentari e forestali.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 5/8/1993.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 4 DICEMBRE 1993, N. 491](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20delle%20competenze%20regionali%20e%20statali%20in%20materia%20agricola%20e%20forestale%20e%20istituzione%20del%20Ministero%20delle%20risorse%20agricole%20alimentari%20e%20forestali.md)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 4 DICEMBRE 1993, N. 491](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;491)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 4 DICEMBRE 1993, N. 491](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20delle%20competenze%20regionali%20e%20statali%20in%20materia%20agricola%20e%20forestale%20e%20istituzione%20del%20Ministero%20delle%20risorse%20agricole%20alimentari%20e%20forestali.md)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 4 DICEMBRE 1993, N. 491](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;491)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 4 DICEMBRE 1993, N. 491](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20delle%20competenze%20regionali%20e%20statali%20in%20materia%20agricola%20e%20forestale%20e%20istituzione%20del%20Ministero%20delle%20risorse%20agricole%20alimentari%20e%20forestali.md)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 4 DICEMBRE 1993, N. 491](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;491)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 4 DICEMBRE 1993, N. 491](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20delle%20competenze%20regionali%20e%20statali%20in%20materia%20agricola%20e%20forestale%20e%20istituzione%20del%20Ministero%20delle%20risorse%20agricole%20alimentari%20e%20forestali.md)
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 4 DICEMBRE 1993, N. 491](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;491)
-  
-
-Art. 5
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 4 DICEMBRE 1993, N. 491](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;491)
-  
-
-Art. 6
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 4 DICEMBRE 1993, N. 491](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;491)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 4 DICEMBRE 1993, N. 491](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20delle%20competenze%20regionali%20e%20statali%20in%20materia%20agricola%20e%20forestale%20e%20istituzione%20del%20Ministero%20delle%20risorse%20agricole%20alimentari%20e%20forestali.md)

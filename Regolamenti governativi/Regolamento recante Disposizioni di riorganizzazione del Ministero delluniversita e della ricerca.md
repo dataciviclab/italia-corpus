@@ -1,61 +1,45 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 novembre 2007 n. 264
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 264
+data: 2007-11-19
+titolo: "Regolamento recante «Disposizioni di riorganizzazione del Ministero dell'universita' e della ricerca»."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2007-11-19;264
+codice_redazionale: 008G0022
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 novembre 2007 n. 264
-===============================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 GENNAIO 2009, N. 17))
 
-Regolamento recante «Disposizioni di riorganizzazione del Ministero dell'universita' e della ricerca».
-------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 9-2-2008
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 GENNAIO 2009, N. 17))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 GENNAIO 2009, N. 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2009-01-20;17)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 GENNAIO 2009, N. 17))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 GENNAIO 2009, N. 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2009-01-20;17)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 GENNAIO 2009, N. 17))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 GENNAIO 2009, N. 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2009-01-20;17)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 GENNAIO 2009, N. 17))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 GENNAIO 2009, N. 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2009-01-20;17)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 GENNAIO 2009, N. 17))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 GENNAIO 2009, N. 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2009-01-20;17)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 GENNAIO 2009, N. 17))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 GENNAIO 2009, N. 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2009-01-20;17)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 GENNAIO 2009, N. 17))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 GENNAIO 2009, N. 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2009-01-20;17)))
-
-Art. 8
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 GENNAIO 2009, N. 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2009-01-20;17)))
-
-Art. 9
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 GENNAIO 2009, N. 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2009-01-20;17)))
-
-Allegato
-
- Allegato   
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 20 GENNAIO 2009, N. 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2009-01-20;17)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 GENNAIO 2009, N. 17))

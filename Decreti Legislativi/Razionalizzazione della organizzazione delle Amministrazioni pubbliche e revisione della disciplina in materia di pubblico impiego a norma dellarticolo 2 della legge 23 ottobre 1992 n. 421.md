@@ -1,404 +1,411 @@
-DECRETO LEGISLATIVO 03 febbraio 1993 n. 29
+---
+tipo: DECRETO LEGISLATIVO
+numero: 29
+data: 1993-02-03
+titolo: "Razionalizzazione della organizzazione delle Amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego, a norma dell'articolo 2 della legge 23 ottobre 1992, n. 421."
+urn: urn:nir:stato:decreto.legislativo:1993-02-03;29
+codice_redazionale: 093G0067
+vigente: true
+---
 
+## PRINCIPI GENERALI
 
-DECRETO LEGISLATIVO 03 febbraio 1993 n. 29
-==========================================
+TITOLO I
 
-Razionalizzazione della organizzazione delle Amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego, a norma dell'articolo 2 della legge 23 ottobre 1992, n. 421.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del decreto: 21-2-1993
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-CAPO I TITOLO I PRINCIPI GENERALI
----------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+### Art. 3.
 
-### Art. 2
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+### Art. 4.
 
-### Art. 3
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+### Art. 5.
 
-### Art. 4
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+### Art. 6.
 
-### Art. 5
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+### Art. 7.
 
-### Art. 6
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+### Art. 8.
 
-### Art. 7
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+### Art. 9.
 
-### Art. 8
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+### Art. 10.
 
-### Art. 9
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+## ORGANIZZAZIONE Capo I RELAZIONI CON IL PUBBLICO
 
-### Art. 10
+TITOLO II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+### Art. 11.
 
-CAPO II TITOLO II ORGANIZZAZIONE Capo I RELAZIONI CON IL PUBBLICO
------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 11
+### Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 12
+### Art. 12-bis.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 12-bis
+## ORGANIZZAZIONE Capo II DIRIGENZA Sezione I - Qualifiche, uffici dirigenziali ed attribuzioni
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+TITOLO II
 
-CAPO III TITOLO II ORGANIZZAZIONE Capo II DIRIGENZA Sezione I - Qualifiche, uffici dirigenziali ed attribuzioni
----------------------------------------------------------------------------------------------------------------
+### Art. 13.
 
-### Art. 13
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+### Art. 14.
 
-### Art. 14
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+### Art. 15.
 
-### Art. 15
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+### Art. 16.
 
-### Art. 16
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+### Art. 17.
 
-### Art. 17
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+### Art. 18.
 
-### Art. 18
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+### Art. 19.
 
-### Art. 19
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+### Art. 20.
 
-### Art. 20
-
-  
-PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)
-
-((37))
+PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md) ((37))
 
 --------------
 
 AGGIORNAMENTO (37)
 
-La Corte Costituzionale, con sentenza 9 - 16 maggio 2002, n. 193 (in G.U. 1a s.s. 22/05/2002, n. 20), ha dichiarato "l'illegittimita' costituzionale dell'art. 20, comma 9, ultimo periodo, del [decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29) (Razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego, a norma dell'[art. 2 della legge 23 ottobre 1992, n. 421](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421~art2)) nel testo sostituito dall'[art. 6 del decreto legislativo 18 novembre 1993, n. 470](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-11-18;470~art6) (Disposizioni correttive del [decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29), recante razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego)."
+La Corte Costituzionale, con sentenza 9 - 16 maggio 2002, n. 193 (in G.U. 1a s.s. 22/05/2002, n. 20), ha dichiarato "l'illegittimita' costituzionale dell'art. 20, comma 9, ultimo periodo, del [decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md) (Razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego, a norma dell'[art. 2 della legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md)) nel testo sostituito dall'[art. 6 del decreto legislativo 18 novembre 1993, n. 470](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20del%20decreto%20legislativo%203%20febbraio%201993%20n.%2029%20recante%20razionalizzazione%20dellorganizzazione%20delle%20amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20_de1af61c91ea.md) (Disposizioni correttive del [decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), recante razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego)."
 
-### Art. 21
+### Art. 21.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 22
+### Art. 22.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 23
+### Art. 23.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 24
+### Art. 24.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 25
+### Art. 25.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 25-bis
+### Art. 25-bis.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 25-ter
+### Art. 25-ter.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 26
+### Art. 26.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 27
+### Art. 27.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 27-bis
+### Art. 27-bis.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-CAPO IV TITOLO II ORGANIZZAZIONE Capo II DIRIGENZA Sezione II - Accesso alla dirigenza e riordino della Scuola superiore della pubblica amministrazione.
---------------------------------------------------------------------------------------------------------------------------------------------------------
+## ORGANIZZAZIONE Capo II DIRIGENZA Sezione II - Accesso alla dirigenza e riordino della Scuola superiore della pubblica amministrazione.
 
-### Art. 28
+TITOLO II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+### Art. 28.
 
-### Art. 28-bis
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+### Art. 28-bis.
 
-### Art. 29
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+### Art. 29.
 
-CAPO V Capo III UFFICI, PIANTE ORGANICHE, MOBILITA' E ACCESSI
--------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 30
+## UFFICI, PIANTE ORGANICHE, MOBILITA' E ACCESSI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+Capo III
 
-### Art. 31
+### Art. 30.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 32
+### Art. 31.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 33
+### Art. 32.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 33-bis
+### Art. 33.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 34
+### Art. 33-bis.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 35
+### Art. 34.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 35-bis
+### Art. 35.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 36
+### Art. 35-bis.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 36-bis
+### Art. 36.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 36-ter
+### Art. 36-bis.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 37
+### Art. 36-ter.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 38
+### Art. 37.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 39
+### Art. 38.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 40
+### Art. 39.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 41
+### Art. 40.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 42
+### Art. 41.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 43
+### Art. 42.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 44
+### Art. 43.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-CAPO VI TITOLO III CONTRATTAZIONE COLLETTIVA E RAPPRESENTATIVITA' SINDACALE
----------------------------------------------------------------------------
+### Art. 44.
 
-### Art. 45
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+## CONTRATTAZIONE COLLETTIVA E RAPPRESENTATIVITA' SINDACALE
 
-### Art. 46
+TITOLO III
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+### Art. 45.
 
-### Art. 47
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+### Art. 46.
 
-### Art. 47-bis
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+### Art. 47.
 
-### Art. 48
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+### Art. 47-bis.
 
-### Art. 49
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+### Art. 48.
 
-### Art. 50
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+### Art. 49.
 
-### Art. 51
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+### Art. 50.
 
-### Art. 52
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+### Art. 51.
 
-### Art. 53
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+### Art. 52.
 
-### Art. 54
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+### Art. 53.
 
-CAPO VII TITOLO IV RAPPORTO DI LAVORO
--------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 55
+### Art. 54.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 56
+## RAPPORTO DI LAVORO
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+TITOLO IV
 
-### Art. 57
+### Art. 55.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 58
+### Art. 56.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 58-bis
+### Art. 57.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 59
+### Art. 58.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 59-bis
+### Art. 58-bis.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 60
+### Art. 59.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 61
+### Art. 59-bis.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 62
+### Art. 60.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-CAPO VIII TITOLO V CONTROLLO DELLA SPESA
-----------------------------------------
+### Art. 61.
 
-### Art. 63
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+### Art. 62.
 
-### Art. 64
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+## CONTROLLO DELLA SPESA
 
-### Art. 65
+TITOLO V
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+### Art. 63.
 
-### Art. 66
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+### Art. 64.
 
-### Art. 67
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+### Art. 65.
 
-CAPO IX TITOLO VI GIURISDIZIONE
--------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 68
+### Art. 66.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 68-bis
+### Art. 67.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 69
+## GIURISDIZIONE
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+TITOLO VI
 
-### Art. 69-bis
+### Art. 68.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-CAPO X TITOLO VII DISPOSIZIONI DIVERSE E NORME TRANSITORIE E FINALI Capo I DISPOSIZIONI DIVERSE
------------------------------------------------------------------------------------------------
+### Art. 68-bis.
 
-### Art. 70
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+### Art. 69.
 
-### Art. 71
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+### Art. 69-bis.
 
-CAPO XI TITOLO VII DISPOSIZIONI DIVERSE E NORME TRANSITORIE E FINALI Capo II NORME TRANSITORIE E FINALI
--------------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 72
+## DISPOSIZIONI DIVERSE E NORME TRANSITORIE E FINALI Capo I DISPOSIZIONI DIVERSE
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+TITOLO VII
 
-### Art. 73
+### Art. 70.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
 
-### Art. 74
+### Art. 71.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
+
+## DISPOSIZIONI DIVERSE E NORME TRANSITORIE E FINALI Capo II NORME TRANSITORIE E FINALI
+
+TITOLO VII
+
+### Art. 72.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
+
+### Art. 73.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))
+
+### Art. 74.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 30 MARZO 2001, N. 165))

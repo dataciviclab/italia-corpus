@@ -1,18 +1,17 @@
-LEGGE 29 giugno 1951 n. 550
+---
+tipo: LEGGE
+numero: 550
+data: 1951-06-29
+titolo: "Ratifica, con modificazioni, del decreto legislativo 7 maggio 1948, n. 817, concernente: \"Concorsi a posti di insegnante nelle scuole elementari\"."
+urn: urn:nir:stato:legge:1951-06-29;550
+codice_redazionale: 051U0550
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 29 giugno 1951 n. 550
-===========================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Ratifica, con modificazioni, del decreto legislativo 7 maggio 1948, n. 817, concernente: "Concorsi a posti di insegnante nelle scuole elementari".
---------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

@@ -1,61 +1,48 @@
-DECRETO LEGISLATIVO 12 maggio 2016 n. 75
+---
+tipo: DECRETO LEGISLATIVO
+numero: 75
+data: 2016-05-12
+titolo: "Attuazione della decisione 2009/316/GAI che istituisce il Sistema europeo di informazione sui casellari giudiziari (ECRIS), in applicazione dell'articolo 11 della decisione quadro 2009/315/GAI. (16G00088)"
+urn: urn:nir:stato:decreto.legislativo:2016-05-12;75
+codice_redazionale: 16G00088
+vigente: true
+---
 
+## Disposizioni generali
 
-DECRETO LEGISLATIVO 12 maggio 2016 n. 75
-========================================
+Capo I
 
-Attuazione della decisione 2009/316/GAI che istituisce il Sistema europeo di informazione sui casellari giudiziari (ECRIS), in applicazione dell'articolo 11 della decisione quadro 2009/315/GAI. (16G00088)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del provvedimento: 04/06/2016
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 27 MAGGIO 2022, N. 76))
 
-CAPO I Capo I Disposizioni generali
------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 27 MAGGIO 2022, N. 76))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 27 MAGGIO 2022, N. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-05-27;76)))
+## Sistema informatizzato ECRIS
 
-### Art. 2
+Capo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 27 MAGGIO 2022, N. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-05-27;76)))
+### Art. 3.
 
-CAPO II Capo II Sistema informatizzato ECRIS
---------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 27 MAGGIO 2022, N. 76))
 
-### Art. 3
+### Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 27 MAGGIO 2022, N. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-05-27;76)))
-
-### Art. 4
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 27 MAGGIO 2022, N. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-05-27;76)))
-
-((1))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 27 MAGGIO 2022, N. 76))
+                                ((1))
 
 -------------
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 27 maggio 2022, n. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-05-27;76) ha disposto (con l'art. 4, comma 3) che il presente articolo continua ad applicarsi, nella trasmissione delle informazioni sui casellari giudiziali, sino all'emanazione dei decreti del Ministero della giustizia di cui all'[articolo 42, comma 1-ter, del decreto del Presidente della Repubblica 14 novembre 2002, n. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313~art42-com1ter), inserito dall'articolo 3, comma 1, lettera g), del suindicato decreto.
+Il [D.Lgs. 27 maggio 2022, n. 76](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20lattuazione%20della%20direttiva%20UE%202019-884%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2017%20aprile%202019%20che%20modifica%20la%20decisione%20quadro%202009-315-GAI%20del%20Consiglio%20per%20quanto%20r_a3e9df267a41.md) ha disposto (con l'art. 4, comma 3) che il presente articolo continua ad applicarsi, nella trasmissione delle informazioni sui casellari giudiziali, sino all'emanazione dei decreti del Ministero della giustizia di cui all'[articolo 42, comma 1-ter, del decreto del Presidente della Repubblica 14 novembre 2002, n. 313](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20casellario%20giudiziale%20di%20casellario%20giudiziale%20europeo%20di%20anagrafe%20delle%20sanzioni%20amministrative%20dipendenti%20da%20rea_be60a1201735.md), inserito dall'articolo 3, comma 1, lettera g), del suindicato decreto.
 
-CAPO III Capo III Disposizioni finali
--------------------------------------
+## Disposizioni finali
 
-### Art. 5
+Capo III
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 27 MAGGIO 2022, N. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-05-27;76)))
+### Art. 5.
 
-Allegato A
-
- Allegato A   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 27 MAGGIO 2022, N. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-05-27;76)))
-
-Allegato B
-
- Allegato B   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 27 MAGGIO 2022, N. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-05-27;76)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 27 MAGGIO 2022, N. 76))

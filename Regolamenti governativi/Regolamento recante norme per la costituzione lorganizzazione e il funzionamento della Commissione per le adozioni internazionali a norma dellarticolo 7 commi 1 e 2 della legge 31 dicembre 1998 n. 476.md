@@ -1,98 +1,101 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 dicembre 1999 n. 492
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 492
+data: 1999-12-01
+titolo: "Regolamento recante norme per la costituzione, l'organizzazione e il funzionamento della Commissione per le adozioni internazionali, a norma dell'articolo 7, commi 1 e 2, della legge 31 dicembre 1998, n. 476."
+urn: urn:nir:presidenza.repubblica:decreto.del.presidente.della.repubblica:1999-12-01;492
+codice_redazionale: 099G0564
+vigente: true
+---
 
+## Disposizioni generali
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 dicembre 1999 n. 492
-===============================================================
+Capo I
 
-Regolamento recante norme per la costituzione, l'organizzazione e il funzionamento della Commissione per le adozioni internazionali, a norma dell'articolo 7, commi 1 e 2, della legge 31 dicembre 1998, n. 476.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del decreto: 11-1-2000
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 GIUGNO 2007, N. 108))
 
-CAPO I Capo I Disposizioni generali
------------------------------------
+## Costituzione e organizzazione della Commissione per le adozioni internazionali
 
-### Art. 1
+Capo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 GIUGNO 2007, N. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-06-08;108)))
+### Art. 2.
 
-CAPO II Capo II Costituzione e organizzazione della Commissione per le adozioni internazionali
-----------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 GIUGNO 2007, N. 108))
 
-### Art. 2
+### Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 GIUGNO 2007, N. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-06-08;108)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 GIUGNO 2007, N. 108))
 
-### Art. 3
+### Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 GIUGNO 2007, N. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-06-08;108)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 GIUGNO 2007, N. 108))
 
-### Art. 4
+### Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 GIUGNO 2007, N. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-06-08;108)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 GIUGNO 2007, N. 108))
 
-### Art. 5
+### Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 GIUGNO 2007, N. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-06-08;108)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 GIUGNO 2007, N. 108))
 
-### Art. 6
+### Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 GIUGNO 2007, N. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-06-08;108)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 GIUGNO 2007, N. 108))
 
-### Art. 7
+## Autorizzazione agli enti
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 GIUGNO 2007, N. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-06-08;108)))
+Capo III
 
-CAPO III Capo III Autorizzazione agli enti
-------------------------------------------
+### Art. 8.
 
-### Art. 8
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 GIUGNO 2007, N. 108))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 GIUGNO 2007, N. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-06-08;108)))
+### Art. 9.
 
-### Art. 9
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 GIUGNO 2007, N. 108))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 GIUGNO 2007, N. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-06-08;108)))
+### Art. 10.
 
-### Art. 10
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 GIUGNO 2007, N. 108))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 GIUGNO 2007, N. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-06-08;108)))
+### Art. 11.
 
-### Art. 11
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 GIUGNO 2007, N. 108))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 GIUGNO 2007, N. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-06-08;108)))
+### Art. 12.
 
-### Art. 12
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 GIUGNO 2007, N. 108))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 GIUGNO 2007, N. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-06-08;108)))
+### Art. 13.
 
-### Art. 13
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 GIUGNO 2007, N. 108))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 GIUGNO 2007, N. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-06-08;108)))
+### Art. 14.
 
-### Art. 14
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 GIUGNO 2007, N. 108))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 GIUGNO 2007, N. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-06-08;108)))
+### Art. 15.
 
-### Art. 15
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 GIUGNO 2007, N. 108))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 GIUGNO 2007, N. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-06-08;108)))
+## Norme transitorie, finanziarie e finali
 
-CAPO IV Capo IV Norme transitorie, finanziarie e finali
--------------------------------------------------------
+Capo IV
 
-### Art. 16
+### Art. 16.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 GIUGNO 2007, N. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-06-08;108)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 GIUGNO 2007, N. 108))
 
-### Art. 17
+### Art. 17.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 GIUGNO 2007, N. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-06-08;108)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 GIUGNO 2007, N. 108))
 
-### Art. 18
+### Art. 18.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 GIUGNO 2007, N. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-06-08;108)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 GIUGNO 2007, N. 108))
 
-### Art. 19
+### Art. 19.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 GIUGNO 2007, N. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-06-08;108)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 GIUGNO 2007, N. 108))

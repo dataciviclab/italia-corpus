@@ -1,20 +1,17 @@
-DECRETO LEGISLATIVO LUOGOTENENZIALE 21 settembre 1944 n. 236
+---
+tipo: DECRETO LEGISLATIVO LUOGOTENENZIALE
+numero: 236
+data: 1944-09-21
+titolo: "Scioglimento del Consiglio superiore per gli Archivi del Regno e della Giunta per gli Archivi del Regno. (044U0236)"
+urn: urn:nir:stato:decreto.legislativo.luogotenenziale:1944-09-21;236
+codice_redazionale: 044U0236
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO LUOGOTENENZIALE 21 settembre 1944 n. 236
-============================================================
+((IL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Scioglimento del Consiglio superiore per gli Archivi del Regno e della Giunta per gli Archivi del Regno. (044U0236)
--------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 27/10/1944
-
-Art. 1
-------
-
-((IL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
-
-Art. 2
-------
-
-((IL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))

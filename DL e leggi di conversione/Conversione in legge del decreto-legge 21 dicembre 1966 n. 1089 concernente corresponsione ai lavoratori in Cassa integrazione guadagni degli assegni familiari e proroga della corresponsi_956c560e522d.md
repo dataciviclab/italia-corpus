@@ -1,13 +1,13 @@
-LEGGE 16 febbraio 1967 n. 15
+---
+tipo: LEGGE
+numero: 15
+data: 1967-02-16
+titolo: "Conversione in legge del decreto-legge 21 dicembre 1966, n. 1089, concernente corresponsione ai lavoratori in Cassa integrazione guadagni degli assegni familiari e proroga della corresponsione degli assegni familiari ai disoccupati in luogo delle maggiorazioni per carichi di famiglia."
+urn: urn:nir:stato:legge:1967-02-16;15
+codice_redazionale: 067U0015
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 16 febbraio 1967 n. 15
-============================
-
-Conversione in legge del decreto-legge 21 dicembre 1966, n. 1089, concernente corresponsione ai lavoratori in Cassa integrazione guadagni degli assegni familiari e proroga della corresponsione degli assegni familiari ai disoccupati in luogo delle maggiorazioni per carichi di famiglia.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

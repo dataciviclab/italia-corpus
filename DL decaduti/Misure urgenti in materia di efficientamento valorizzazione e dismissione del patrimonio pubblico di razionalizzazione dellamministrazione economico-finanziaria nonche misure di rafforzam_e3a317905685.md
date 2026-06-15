@@ -1,100 +1,77 @@
-DECRETO-LEGGE 27 giugno 2012 n. 87
+---
+tipo: DECRETO-LEGGE
+numero: 87
+data: 2012-06-27
+titolo: "Misure urgenti in materia di efficientamento, valorizzazione e dismissione del patrimonio pubblico, di razionalizzazione dell'amministrazione economico-finanziaria, nonche' misure di rafforzamento del patrimonio delle imprese del settore bancario. (12G0110)"
+urn: urn:nir:stato:decreto.legge:2012-06-27;87
+codice_redazionale: 012G0110
+vigente: true
+---
 
+## Efficientamento, valorizzazione e dismissione del patrimonio pubblico, e misure di razionalizzazione dell'amministrazione  economico-finanziaria
 
-DECRETO-LEGGE 27 giugno 2012 n. 87
-==================================
+Capo I
 
-Misure urgenti in materia di efficientamento, valorizzazione e dismissione del patrimonio pubblico, di razionalizzazione dell'amministrazione economico-finanziaria, nonche' misure di rafforzamento del patrimonio delle imprese del settore bancario. (12G0110)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del provvedimento: 27/06/2012.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 7 AGOSTO 2012, N. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md)
 
-CAPO I Capo I Efficientamento, valorizzazione e dismissione del patrimonio pubblico, e misure di razionalizzazione dell'amministrazione economico-finanziaria
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 2.
 
-### Art. 1
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 7 AGOSTO 2012, N. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md)
 
-  
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 7 AGOSTO 2012, N. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135)
-  
+### Art. 3.
 
-### Art. 2
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 7 AGOSTO 2012, N. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md)
 
-  
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 7 AGOSTO 2012, N. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135)
-  
+### Art. 4.
 
-### Art. 3
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 7 AGOSTO 2012, N. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md)
 
-  
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 7 AGOSTO 2012, N. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135)
-  
+## Misure di rafforzamento patrimoniale delle imprese del settore  bancario
 
-### Art. 4
+Capo II
 
-  
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 7 AGOSTO 2012, N. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135)
-  
+### Art. 5.
 
-CAPO II Capo II Misure di rafforzamento patrimoniale delle imprese del settore bancario
----------------------------------------------------------------------------------------
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 7 AGOSTO 2012, N. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md)
 
-### Art. 5
+### Art. 6.
 
-  
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 7 AGOSTO 2012, N. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 7 AGOSTO 2012, N. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md)
 
-### Art. 6
+### Art. 7.
 
-  
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 7 AGOSTO 2012, N. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 7 AGOSTO 2012, N. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md)
 
-### Art. 7
+### Art. 8.
 
-  
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 7 AGOSTO 2012, N. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 7 AGOSTO 2012, N. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md)
 
-### Art. 8
+### Art. 9.
 
-  
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 7 AGOSTO 2012, N. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 7 AGOSTO 2012, N. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md)
 
-### Art. 9
+### Art. 10.
 
-  
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 7 AGOSTO 2012, N. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 7 AGOSTO 2012, N. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md)
 
-### Art. 10
+### Art. 11.
 
-  
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 7 AGOSTO 2012, N. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 7 AGOSTO 2012, N. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md)
 
-### Art. 11
+### Art. 12.
 
-  
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 7 AGOSTO 2012, N. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135)
-  
-
-### Art. 12
-
-  
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 7 AGOSTO 2012, N. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 7 AGOSTO 2012, N. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md)

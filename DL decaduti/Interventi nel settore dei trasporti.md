@@ -1,52 +1,37 @@
-DECRETO-LEGGE 14 giugno 1996 n. 320
+---
+tipo: DECRETO-LEGGE
+numero: 320
+data: 1996-06-14
+titolo: "Interventi nel settore dei trasporti."
+urn: urn:nir:stato:decreto.legge:1996-06-14;320
+codice_redazionale: 096G0339
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 14 giugno 1996 n. 320
-===================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 4 DICEMBRE 1996, N. 611](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20ottobre%201996%20n.%20517%20recante%20interventi%20nel%20settore%20dei%20trasporti.md)
 
-Interventi nel settore dei trasporti.
--------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 16-6-1996.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 4 DICEMBRE 1996, N. 611](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20ottobre%201996%20n.%20517%20recante%20interventi%20nel%20settore%20dei%20trasporti.md)
 
-Art. 1
-------
+## Art. 3.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 4 DICEMBRE 1996, N. 611](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-04;611)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 4 DICEMBRE 1996, N. 611](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20ottobre%201996%20n.%20517%20recante%20interventi%20nel%20settore%20dei%20trasporti.md)
 
-Art. 2
-------
+## Art. 4.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 4 DICEMBRE 1996, N. 611](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-04;611)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 4 DICEMBRE 1996, N. 611](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20ottobre%201996%20n.%20517%20recante%20interventi%20nel%20settore%20dei%20trasporti.md)
 
-Art. 3
-------
+## Art. 5.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 4 DICEMBRE 1996, N. 611](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-04;611)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 4 DICEMBRE 1996, N. 611](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20ottobre%201996%20n.%20517%20recante%20interventi%20nel%20settore%20dei%20trasporti.md)
 
-Art. 4
-------
+## Art. 6.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 4 DICEMBRE 1996, N. 611](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-04;611)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 4 DICEMBRE 1996, N. 611](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20ottobre%201996%20n.%20517%20recante%20interventi%20nel%20settore%20dei%20trasporti.md)
 
-Art. 5
-------
+## Art. 7.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 4 DICEMBRE 1996, N. 611](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-04;611)
-  
-
-Art. 6
-------
-
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 4 DICEMBRE 1996, N. 611](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-04;611)
-  
-
-Art. 7
-------
-
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 4 DICEMBRE 1996, N. 611](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-04;611)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 4 DICEMBRE 1996, N. 611](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20ottobre%201996%20n.%20517%20recante%20interventi%20nel%20settore%20dei%20trasporti.md)

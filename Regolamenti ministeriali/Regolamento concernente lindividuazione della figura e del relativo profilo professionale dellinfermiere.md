@@ -1,18 +1,16 @@
-DECRETO 14 settembre 1994 n. 739
-
-
-DECRETO 14 settembre 1994 n. 739
-================================
-
-Regolamento concernente l'individuazione della figura e del relativo profilo professionale dell'infermiere.
------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 24/1/1995
+---
+tipo: DECRETO
+numero: 739
+data: 1994-09-14
+titolo: "Regolamento concernente l'individuazione della figura e del relativo profilo professionale dell'infermiere."
+urn: urn:nir:ministero.sanita:decreto:1994-09-14;739
+codice_redazionale: 095G0001
+vigente: true
+---
 
 IL MINISTRO DELLA SANITA'
--------------------------
 
-Visto l'[art. 6, comma 3, del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art6-com3), recante: "Riordino della disciplina in materia sanitaria, a norma dell'[art. 1 della legge 23 ottobre 1992, n. 421](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421~art1)", nel testo modificato dal [decreto legislativo 7 dicembre 1993, n. 517](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-07;517);
+Visto l'[art. 6, comma 3, del decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), recante: "Riordino della disciplina in materia sanitaria, a norma dell'[art. 1 della legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md)", nel testo modificato dal [decreto legislativo 7 dicembre 1993, n. 517](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20al%20decreto%20legislativo%2030%20dicembre%201992%20n.%20502%20recante%20riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
 
 Ritenuto che, in ottemperanza alle precitate disposizioni, spetta al Ministro della sanita' di individuare con proprio decreto le figure professionali da formare ed i relativi profili, relativamente alle aree del personale sanitario infermieristico, tecnico e della riabilitazione;
 
@@ -28,79 +26,89 @@ Ritenuto che, in considerazione della priorita' attribuita dal piano sanitario n
 
 Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 4 luglio 1994;
 
-Vista la nota, in data 13 settembre 1994, con cui lo schema di regolamento e' stato trasmesso, ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3),
+Vista la nota, in data 13 settembre 1994, con cui lo schema di regolamento e' stato trasmesso, ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3),
 
 al Presidente del Consiglio dei Ministri;
 
 A D O T T A il seguente regolamento:
 
-Art. 1
-------
+## Art. 1.
 
-1. E' individuata la figura professionale dell'infermiere con il seguente profilo: l'infermiere e' l'operatore sanitario che, in possesso del diploma universitario abilitante e dell'iscrizione all'albo professionale e' responsabile dell'assistenza generale infermieristica.
+1.
 
-2. L'assistenza infermieristica preventiva, curativa, palliativa e riabilitativa e' di natura tecnica, relazionale, educativa. Le principali funzioni sono la prevenzione delle malattie, l'assistenza dei malati e dei disabili di tutte le eta' e l'educazione sanitaria.
+E' individuata la figura professionale dell'infermiere con il seguente profilo: l'infermiere e' l'operatore sanitario che, in possesso del diploma universitario abilitante e dell'iscrizione all'albo professionale e' responsabile dell'assistenza generale infermieristica.
 
-3. L'infermiere:
+2.
 
-a) partecipa all'identificazione dei bisogni di salute della persona e della collettivita';
+L'assistenza infermieristica preventiva, curativa, palliativa e riabilitativa e' di natura tecnica, relazionale, educativa. Le principali funzioni sono la prevenzione delle malattie, l'assistenza dei malati e dei disabili di tutte le eta' e l'educazione sanitaria.
 
-b) identifica i bisogni di assistenza infermieristica della persona e della collettivita' e formula i relativi obiettivi;
+3.
 
-c) pianifica, gestisce e valuta l'intervento assistenziale infermieristico;
+L'infermiere:
+                        a)
+                            partecipa all'identificazione dei bisogni di salute della persona e della collettivita';
+                        b)
+                            identifica i bisogni di assistenza infermieristica della persona e della collettivita' e formula i relativi obiettivi;
+                        c)
+                            pianifica, gestisce e valuta l'intervento assistenziale infermieristico;
+                        d)
+                            garantisce la corretta applicazione delle prescrizioni diagnostico-terapeutiche;
+                        e)
+                            agisce sia individualmente sia in collaborazione con gli altri operatori sanitari e sociali;
+                        f)
+                            per l'espletamento delle funzioni si avvale, ove necessario, dell'opera del personale di supporto;
+                        g)
+                            svolge la sua attivita' professionale in strutture sanitarie pubbliche o private, nel territorio e nell'assistenza domiciliare, in regime di dipendenza o libero-professionale.
 
-d) garantisce la corretta applicazione delle prescrizioni diagnostico-terapeutiche;
+4.
 
-e) agisce sia individualmente sia in collaborazione con gli altri operatori sanitari e sociali;
+L'infermiere contribuisce alla formazione del personale di supporto e concorre direttamente all'aggiornamento relativo al proprio profilo professionale e alla ricerca.
 
-f) per l'espletamento delle funzioni si avvale, ove necessario, dell'opera del personale di supporto;
+5.
 
-g) svolge la sua attivita' professionale in strutture sanitarie pubbliche o private, nel territorio e nell'assistenza domiciliare, in regime di dipendenza o libero-professionale.
+La formazione infermieristica post-base per la pratica specialistica e' intesa a fornire agli infermieri di assistenza generale delle conoscenze cliniche avanzate e delle capacita' che permettano loro di fornire specifiche prestazioni infermieristiche nelle seguenti aree:
+                        a)
+                            sanita' pubblica: infermiere di sanita' pubblica;
+                        b)
+                            pediatria: infermiere pediatrico;
+                        c)
+                            salute mentale-psichiatria: infermiere psichiatrico;
+                        d)
+                            geriatria: infermiere geriatrico;
+                        e)
+                            area critica: infermiere di area critica.
 
-4. L'infermiere contribuisce alla formazione del personale di supporto e concorre direttamente all'aggiornamento relativo al proprio profilo professionale e alla ricerca.
+6.
 
-5. La formazione infermieristica post-base per la pratica specialistica e' intesa a fornire agli infermieri di assistenza generale delle conoscenze cliniche avanzate e delle capacita' che permettano loro di fornire specifiche prestazioni infermieristiche nelle seguenti aree:
+In relazione a motivate esigenze emergenti dal Servizio sanitario nazionale, potranno essere individuate, con decreto del Ministero della sanita', ulteriori aree richiedenti una formazione complementare specifica.
 
-a) sanita' pubblica: infermiere di sanita' pubblica;
+7.
 
-b) pediatria: infermiere pediatrico;
+Il percorso formativo viene definito con decreto del Ministero della sanita' e si conclude con il rilascio di un attestato di formazione specialistica che costituisce titolo preferenziale per l'esercizio delle funzioni specifiche nelle diverse aree, dopo il superamento di apposite prove valutative. La natura preferenziale del titolo e' strettamente legata alla sussistenza di obiettive necessita' del servizio e recede in presenza di mutate condizioni di fatto.
+ AVVERTENZA:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Note alle premesse:
+ - Il testo dell'[art. 6, comma 3, del D.Lgs. 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), nel testo modificato dal [D.Lgs. 7 dicembre 1993, n. 517](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20al%20decreto%20legislativo%2030%20dicembre%201992%20n.%20502%20recante%20riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e' il seguente: "A norma dell'[art. 1, lettera o), della legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md), la formazione del personale sanitario infermieristico, tecnico e della riabilitazione avviene in sede ospedaliera ovvero presso altre strutture del Servizio sanitario nazionale e istituzioni private accreditate. I requisiti di idoneita' e l'accreditamento delle strutture sono disciplinati con decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica d'intesa con il Ministro della sanita'. Il Ministro della sanita' individua con proprio decreto le figure professionali da formare ed i relativi profili. Il relativo ordinamento didattico e' definito, ai sensi dell'[art. 9 della legge 19 novembre 1990, n. 341](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-19;341#art_9), con decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica emanato di concerto con il Ministro della sanita'".
+ - Il [comma 3 dell'art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.
+ Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
 
-c) salute mentale-psichiatria: infermiere psichiatrico;
+## Art. 2.
 
-d) geriatria: infermiere geriatrico;
+1.
 
-e) area critica: infermiere di area critica.
+Il diploma universitario di infermiere, conseguito ai sensi dell'[art. 6, comma 3, del decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, abilita all'esercizio della professione, previa iscrizione al relativo albo professionale.
 
-6. In relazione a motivate esigenze emergenti dal Servizio sanitario nazionale, potranno essere individuate, con decreto del Ministero della sanita', ulteriori aree richiedenti una formazione complementare specifica.
+Nota all'art. 2:
+ - Per il testo del [comma 3 dell'art. 6 del D.Lgs n. 502/1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;502#art_6-com3) si veda in nota alle premesse.
 
-7. Il percorso formativo viene definito con decreto del Ministero della sanita' e si conclude con il rilascio di un attestato di formazione specialistica che costituisce titolo preferenziale per l'esercizio delle funzioni specifiche nelle diverse aree, dopo il superamento di apposite prove valutative. La natura preferenziale del titolo e' strettamente legata alla sussistenza di obiettive necessita' del servizio e recede in presenza di mutate condizioni di fatto.  
-AVVERTENZA:  
-Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.  
-Note alle premesse:  
-- Il testo dell'[art. 6, comma 3, del D.Lgs. 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art6-com3), nel testo modificato dal [D.Lgs. 7 dicembre 1993, n. 517](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-07;517), e' il seguente: "A norma dell'[art. 1, lettera o), della legge 23 ottobre 1992, n. 421](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421~art1-leto), la formazione del personale sanitario infermieristico, tecnico e della riabilitazione avviene in sede ospedaliera ovvero presso altre strutture del Servizio sanitario nazionale e istituzioni private accreditate. I requisiti di idoneita' e l'accreditamento delle strutture sono disciplinati con decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica d'intesa con il Ministro della sanita'. Il Ministro della sanita' individua con proprio decreto le figure professionali da formare ed i relativi profili. Il relativo ordinamento didattico e' definito, ai sensi dell'[art. 9 della legge 19 novembre 1990, n. 341](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-19;341~art9), con decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica emanato di concerto con il Ministro della sanita'".  
-- Il [comma 3 dell'art. 17 della legge n. 400/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.  
-Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
+## Art. 3.
 
-Art. 2
-------
+1.
 
-1. Il diploma universitario di infermiere, conseguito ai sensi dell'[art. 6, comma 3, del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art6-com3), e successive modificazioni, abilita all'esercizio della professione, previa iscrizione al relativo albo professionale.
-
-Nota all'art. 2:  
-- Per il testo del [comma 3 dell'art. 6 del D.Lgs n. 502/1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;502~art6-com3) si veda in nota alle premesse.
-
-Art. 3
-------
-
-1. Con decreto del Ministro della sanita' di concerto con il Ministro dell'universita' e della ricerca scientifica e tecnologica sono individuati i diplomi e gli attestati, conseguiti in base al precedente ordinamento, che sono equipollenti al diploma universitario di cui all'art. 2 ai fini dell'esercizio della relativa attivita' professionale e dell'accesso ai pubblici uffici.
+Con decreto del Ministro della sanita' di concerto con il Ministro dell'universita' e della ricerca scientifica e tecnologica sono individuati i diplomi e gli attestati, conseguiti in base al precedente ordinamento, che sono equipollenti al diploma universitario di cui all'art. 2 ai fini dell'esercizio della relativa attivita' professionale e dell'accesso ai pubblici uffici.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 14 settembre 1994
+Roma, 14 settembre 1994
 
-Il Ministro: COSTA
-
-Visto, il Guardasigilli: BIONDI Registrato alla Corte dei conti il 24 dicembre 1994
-
-Registro n. 1 Sanita', foglio n. 359
+Il Ministro: COSTA Visto, il Guardasigilli: BIONDI Registrato alla Corte dei conti il 24 dicembre 1994 Registro n. 1 Sanita', foglio n. 359

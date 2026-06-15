@@ -1,348 +1,337 @@
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 02 dicembre 2019 n. 169
+---
+tipo: DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
+numero: 169
+data: 2019-12-02
+titolo: "Regolamento di organizzazione del Ministero ((della cultura)), degli uffici di diretta collaborazione del Ministro e dell'Organismo indipendente di valutazione della performance. (20G00006)"
+urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2019-12-02;169
+codice_redazionale: 20G00006
+vigente: true
+---
 
+## Funzioni e organizzazione del Ministero per i beni e le attivita'  culturali e per il turismo
 
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 02 dicembre 2019 n. 169
-=========================================================================
+Capo I
 
-Regolamento di organizzazione del Ministero ((della cultura)), degli uffici di diretta collaborazione del Ministro e dell'Organismo indipendente di valutazione della performance. (20G00006)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del provvedimento: 05/02/2020
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
 
-CAPO I Capo I Funzioni e organizzazione del Ministero per i beni e le attivita' culturali e per il turismo
-----------------------------------------------------------------------------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+## Ministro per i beni e le attivita' culturali e per il turismo e articolazione degli uffici di funzioni dirigenziali di livello  generale del Ministero
 
-### Art. 2
+Capo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+### Art. 3.
 
-CAPO II Capo II Ministro per i beni e le attivita' culturali e per il turismo e articolazione degli uffici di funzioni dirigenziali di livello generale del Ministero
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
 
-### Art. 3
+### Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
 
-### Art. 4
+## Uffici di diretta collaborazione del Ministro, Organismo indipendente di valutazione della performance e Comando Carabinieri per la tutela  del patrimonio culturale
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+Capo III
 
-CAPO III Capo III Uffici di diretta collaborazione del Ministro, Organismo indipendente di valutazione della performance e Comando Carabinieri per la tutela del patrimonio culturale
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 5.
 
-### Art. 5
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+### Art. 6.
 
-### Art. 6
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+### Art. 7.
 
-### Art. 7
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+### Art. 8.
 
-### Art. 8
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+### Art. 9.
 
-### Art. 9
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+### Art. 10.
 
-### Art. 10
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+### Art. 11.
 
-### Art. 11
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+### Art. 12.
 
-### Art. 12
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+## Amministrazione centrale
 
-CAPO IV Capo IV Amministrazione centrale
-----------------------------------------
+Capo IV
 
-### Art. 13
+### Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
 
-### Art. 14
+### Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
 
-### Art. 15
+### Art. 15.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
 
-### Art. 16
+### Art. 16.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
 
-### Art. 17
+### Art. 17.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
 
-### Art. 18
+### Art. 18.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
 
-### Art. 19
+### Art. 19.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
 
-### Art. 20
+### Art. 20.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
 
-### Art. 21
+### Art. 21.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
 
-### Art. 22
+### Art. 22.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
 
-### Art. 23
+### Art. 23.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
 
-### Art. 24
+### Art. 24.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
 
-### Art. 25
+### Art. 25.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
 
-### Art. 26
+### Art. 26.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
 
-CAPO V ((Capo IV-bis Strutture per l'attuazione del PNRR))
-----------------------------------------------------------
+## Strutture per l'attuazione del PNRR))
 
-### Art. 26-bis
+((Capo IV-bis
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+### Art. 26-bis.
 
-### Art. 26-ter
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+### Art. 26-ter.
 
-CAPO VI Capo V Organi consultivi centrali
------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
 
-### Art. 27
+## Organi consultivi centrali
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+Capo V
 
-### Art. 28
+### Art. 27.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
 
-### Art. 29
+### Art. 28.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
 
-### Art. 30
+### Art. 29.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
 
-### Art. 31
+### Art. 30.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
 
-### Art. 32
+### Art. 31.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
 
-### Art. 32-bis
+### Art. 32.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
 
-CAPO VII Capo VI Istituti centrali e uffici con finalita' particolari
----------------------------------------------------------------------
+### Art. 32-bis.
 
-### Art. 33
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+## Istituti centrali e uffici con finalita' particolari
 
-### Art. 34
+Capo VI
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+### Art. 33.
 
-((5))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
+
+### Art. 34.
+
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
+                                ((5))
 
 --------------
 
 AGGIORNAMENTO (5)
 
-Il [D.P.C.M. 15 marzo 2024, n. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57), ha disposto (con l'art. 41, comma 1) che "Fino all'adozione dei corrispondenti decreti di cui all'articolo 40, comma 2, continuano ad applicarsi, in quanto compatibili, le disposizioni di cui agli articoli 34, 35, 36, 37, 38, 40, 41, 42, 43, 44, 45 e 46, del d. P.C.M. n. 169 del 2019".
+Il [D.P.C.M. 15 marzo 2024, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57), ha disposto (con l'art. 41, comma 1) che "Fino all'adozione dei corrispondenti decreti di cui all'articolo 40, comma 2, continuano ad applicarsi, in quanto compatibili, le disposizioni di cui agli articoli 34, 35, 36, 37, 38, 40, 41, 42, 43, 44, 45 e 46, del d. P.C.M. n. 169 del 2019".
 
-### Art. 35
+### Art. 35.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
-
-((5))
-
---------------
-
-AGGIORNAMENTO (5)
-
-Il [D.P.C.M. 15 marzo 2024, n. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57), ha disposto (con l'art. 41, comma 1) che "Fino all'adozione dei corrispondenti decreti di cui all'articolo 40, comma 2, continuano ad applicarsi, in quanto compatibili, le disposizioni di cui agli articoli 34, 35, 36, 37, 38, 40, 41, 42, 43, 44, 45 e 46, del d. P.C.M. n. 169 del 2019".
-
-### Art. 36
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
-
-((5))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
+                                ((5))
 
 --------------
 
 AGGIORNAMENTO (5)
 
-Il [D.P.C.M. 15 marzo 2024, n. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57), ha disposto (con l'art. 41, comma 1) che "Fino all'adozione dei corrispondenti decreti di cui all'articolo 40, comma 2, continuano ad applicarsi, in quanto compatibili, le disposizioni di cui agli articoli 34, 35, 36, 37, 38, 40, 41, 42, 43, 44, 45 e 46, del d. P.C.M. n. 169 del 2019".
+Il [D.P.C.M. 15 marzo 2024, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57), ha disposto (con l'art. 41, comma 1) che "Fino all'adozione dei corrispondenti decreti di cui all'articolo 40, comma 2, continuano ad applicarsi, in quanto compatibili, le disposizioni di cui agli articoli 34, 35, 36, 37, 38, 40, 41, 42, 43, 44, 45 e 46, del d. P.C.M. n. 169 del 2019".
 
-### Art. 37
+### Art. 36.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
-
-((5))
-
---------------
-
-AGGIORNAMENTO (5)
-
-Il [D.P.C.M. 15 marzo 2024, n. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57), ha disposto (con l'art. 41, comma 1) che "Fino all'adozione dei corrispondenti decreti di cui all'articolo 40, comma 2, continuano ad applicarsi, in quanto compatibili, le disposizioni di cui agli articoli 34, 35, 36, 37, 38, 40, 41, 42, 43, 44, 45 e 46, del d. P.C.M. n. 169 del 2019".
-
-### Art. 38
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
-
-((5))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
+                                ((5))
 
 --------------
 
 AGGIORNAMENTO (5)
 
-Il [D.P.C.M. 15 marzo 2024, n. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57), ha disposto (con l'art. 41, comma 1) che "Fino all'adozione dei corrispondenti decreti di cui all'articolo 40, comma 2, continuano ad applicarsi, in quanto compatibili, le disposizioni di cui agli articoli 34, 35, 36, 37, 38, 40, 41, 42, 43, 44, 45 e 46, del d. P.C.M. n. 169 del 2019".
+Il [D.P.C.M. 15 marzo 2024, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57), ha disposto (con l'art. 41, comma 1) che "Fino all'adozione dei corrispondenti decreti di cui all'articolo 40, comma 2, continuano ad applicarsi, in quanto compatibili, le disposizioni di cui agli articoli 34, 35, 36, 37, 38, 40, 41, 42, 43, 44, 45 e 46, del d. P.C.M. n. 169 del 2019".
 
-CAPO VIII Capo VII Amministrazione periferica
----------------------------------------------
+### Art. 37.
 
-### Art. 39
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
-
-### Art. 40
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
-
-((5))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
+                                ((5))
 
 --------------
 
 AGGIORNAMENTO (5)
 
-Il [D.P.C.M. 15 marzo 2024, n. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57), ha disposto (con l'art. 41, comma 1) che "Fino all'adozione dei corrispondenti decreti di cui all'articolo 40, comma 2, continuano ad applicarsi, in quanto compatibili, le disposizioni di cui agli articoli 34, 35, 36, 37, 38, 40, 41, 42, 43, 44, 45 e 46, del d. P.C.M. n. 169 del 2019".
+Il [D.P.C.M. 15 marzo 2024, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57), ha disposto (con l'art. 41, comma 1) che "Fino all'adozione dei corrispondenti decreti di cui all'articolo 40, comma 2, continuano ad applicarsi, in quanto compatibili, le disposizioni di cui agli articoli 34, 35, 36, 37, 38, 40, 41, 42, 43, 44, 45 e 46, del d. P.C.M. n. 169 del 2019".
 
-### Art. 41
+### Art. 38.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
-
-((5))
-
---------------
-
-AGGIORNAMENTO (5)
-
-Il [D.P.C.M. 15 marzo 2024, n. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57), ha disposto (con l'art. 41, comma 1) che "Fino all'adozione dei corrispondenti decreti di cui all'articolo 40, comma 2, continuano ad applicarsi, in quanto compatibili, le disposizioni di cui agli articoli 34, 35, 36, 37, 38, 40, 41, 42, 43, 44, 45 e 46, del d. P.C.M. n. 169 del 2019".
-
-### Art. 42
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
-
-((5))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
+                                ((5))
 
 --------------
 
 AGGIORNAMENTO (5)
 
-Il [D.P.C.M. 15 marzo 2024, n. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57), ha disposto (con l'art. 41, comma 1) che "Fino all'adozione dei corrispondenti decreti di cui all'articolo 40, comma 2, continuano ad applicarsi, in quanto compatibili, le disposizioni di cui agli articoli 34, 35, 36, 37, 38, 40, 41, 42, 43, 44, 45 e 46, del d. P.C.M. n. 169 del 2019".
+Il [D.P.C.M. 15 marzo 2024, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57), ha disposto (con l'art. 41, comma 1) che "Fino all'adozione dei corrispondenti decreti di cui all'articolo 40, comma 2, continuano ad applicarsi, in quanto compatibili, le disposizioni di cui agli articoli 34, 35, 36, 37, 38, 40, 41, 42, 43, 44, 45 e 46, del d. P.C.M. n. 169 del 2019".
 
-### Art. 43
+## Amministrazione periferica
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+Capo VII
 
-((5))
+### Art. 39.
 
---------------
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
 
-AGGIORNAMENTO (5)
+### Art. 40.
 
-Il [D.P.C.M. 15 marzo 2024, n. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57), ha disposto (con l'art. 41, comma 1) che "Fino all'adozione dei corrispondenti decreti di cui all'articolo 40, comma 2, continuano ad applicarsi, in quanto compatibili, le disposizioni di cui agli articoli 34, 35, 36, 37, 38, 40, 41, 42, 43, 44, 45 e 46, del d. P.C.M. n. 169 del 2019".
-
-### Art. 44
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
-
-((5))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
+                                ((5))
 
 --------------
 
 AGGIORNAMENTO (5)
 
-Il [D.P.C.M. 15 marzo 2024, n. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57), ha disposto (con l'art. 41, comma 1) che "Fino all'adozione dei corrispondenti decreti di cui all'articolo 40, comma 2, continuano ad applicarsi, in quanto compatibili, le disposizioni di cui agli articoli 34, 35, 36, 37, 38, 40, 41, 42, 43, 44, 45 e 46, del d. P.C.M. n. 169 del 2019".
+Il [D.P.C.M. 15 marzo 2024, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57), ha disposto (con l'art. 41, comma 1) che "Fino all'adozione dei corrispondenti decreti di cui all'articolo 40, comma 2, continuano ad applicarsi, in quanto compatibili, le disposizioni di cui agli articoli 34, 35, 36, 37, 38, 40, 41, 42, 43, 44, 45 e 46, del d. P.C.M. n. 169 del 2019".
 
-### Art. 45
+### Art. 41.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
-
-((5))
-
---------------
-
-AGGIORNAMENTO (5)
-
-Il [D.P.C.M. 15 marzo 2024, n. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57), ha disposto (con l'art. 41, comma 1) che "Fino all'adozione dei corrispondenti decreti di cui all'articolo 40, comma 2, continuano ad applicarsi, in quanto compatibili, le disposizioni di cui agli articoli 34, 35, 36, 37, 38, 40, 41, 42, 43, 44, 45 e 46, del d. P.C.M. n. 169 del 2019".
-
-### Art. 46
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
-
-((5))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
+                                ((5))
 
 --------------
 
 AGGIORNAMENTO (5)
 
-Il [D.P.C.M. 15 marzo 2024, n. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57), ha disposto (con l'art. 41, comma 1) che "Fino all'adozione dei corrispondenti decreti di cui all'articolo 40, comma 2, continuano ad applicarsi, in quanto compatibili, le disposizioni di cui agli articoli 34, 35, 36, 37, 38, 40, 41, 42, 43, 44, 45 e 46, del d. P.C.M. n. 169 del 2019".
+Il [D.P.C.M. 15 marzo 2024, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57), ha disposto (con l'art. 41, comma 1) che "Fino all'adozione dei corrispondenti decreti di cui all'articolo 40, comma 2, continuano ad applicarsi, in quanto compatibili, le disposizioni di cui agli articoli 34, 35, 36, 37, 38, 40, 41, 42, 43, 44, 45 e 46, del d. P.C.M. n. 169 del 2019".
 
-### Art. 47
+### Art. 42.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
+                                ((5))
 
-CAPO IX Capo VIII Disposizioni finali
--------------------------------------
+--------------
 
-### Art. 48
+AGGIORNAMENTO (5)
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+Il [D.P.C.M. 15 marzo 2024, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57), ha disposto (con l'art. 41, comma 1) che "Fino all'adozione dei corrispondenti decreti di cui all'articolo 40, comma 2, continuano ad applicarsi, in quanto compatibili, le disposizioni di cui agli articoli 34, 35, 36, 37, 38, 40, 41, 42, 43, 44, 45 e 46, del d. P.C.M. n. 169 del 2019".
 
-### Art. 49
+### Art. 43.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
+                                ((5))
 
-Allegato
+--------------
 
- Allegato   
-  
+AGGIORNAMENTO (5)
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 15 MARZO 2024, N. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57)))
+Il [D.P.C.M. 15 marzo 2024, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57), ha disposto (con l'art. 41, comma 1) che "Fino all'adozione dei corrispondenti decreti di cui all'articolo 40, comma 2, continuano ad applicarsi, in quanto compatibili, le disposizioni di cui agli articoli 34, 35, 36, 37, 38, 40, 41, 42, 43, 44, 45 e 46, del d. P.C.M. n. 169 del 2019".
+
+### Art. 44.
+
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
+                                ((5))
+
+--------------
+
+AGGIORNAMENTO (5)
+
+Il [D.P.C.M. 15 marzo 2024, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57), ha disposto (con l'art. 41, comma 1) che "Fino all'adozione dei corrispondenti decreti di cui all'articolo 40, comma 2, continuano ad applicarsi, in quanto compatibili, le disposizioni di cui agli articoli 34, 35, 36, 37, 38, 40, 41, 42, 43, 44, 45 e 46, del d. P.C.M. n. 169 del 2019".
+
+### Art. 45.
+
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
+                                ((5))
+
+--------------
+
+AGGIORNAMENTO (5)
+
+Il [D.P.C.M. 15 marzo 2024, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57), ha disposto (con l'art. 41, comma 1) che "Fino all'adozione dei corrispondenti decreti di cui all'articolo 40, comma 2, continuano ad applicarsi, in quanto compatibili, le disposizioni di cui agli articoli 34, 35, 36, 37, 38, 40, 41, 42, 43, 44, 45 e 46, del d. P.C.M. n. 169 del 2019".
+
+### Art. 46.
+
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
+                                ((5))
+
+--------------
+
+AGGIORNAMENTO (5)
+
+Il [D.P.C.M. 15 marzo 2024, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2024-03-15;57), ha disposto (con l'art. 41, comma 1) che "Fino all'adozione dei corrispondenti decreti di cui all'articolo 40, comma 2, continuano ad applicarsi, in quanto compatibili, le disposizioni di cui agli articoli 34, 35, 36, 37, 38, 40, 41, 42, 43, 44, 45 e 46, del d. P.C.M. n. 169 del 2019".
+
+### Art. 47.
+
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
+
+## Disposizioni finali
+
+Capo VIII
+
+### Art. 48.
+
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))
+
+### Art. 49.
+
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 15 MARZO 2024, N. 57))

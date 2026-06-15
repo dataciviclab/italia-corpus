@@ -1,115 +1,69 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 1998 n. 309
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 309
+data: 1998-08-03
+titolo: "Regolamento recante norme di attuazione della direttiva 94/65/CE, relativa ai requisiti applicabili all'immissione sul mercato di carni macinate e di preparazione di carni."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1998-08-03;309
+codice_redazionale: 098G0363
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 1998 n. 309
-=============================================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193 ))
 
-Regolamento recante norme di attuazione della direttiva 94/65/CE, relativa ai requisiti applicabili all'immissione sul mercato di carni macinate e di preparazione di carni.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 11-9-1998
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193 ))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193 ))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193 ))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193 ))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193 ))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193 ))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193 ))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193 ))
 
-Art. 8
-------
+## Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193 ))
 
-Art. 9
-------
+## Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193 ))
 
-Art. 10
--------
+## Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193 ))
 
-Art. 11
--------
+## Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193 ))
 
-Art. 12
--------
+## Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193 ))
 
-Art. 13
--------
+## Art. 15.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
-
-Art. 14
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
-
-Art. 15
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
-
-Allegato I
-
- ALLEGATO I   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
-
-Allegato II
-
- ALLEGATO II   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
-
-Allegato III
-
- ALLEGATO III   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
-
-Allegato IV
-
- ALLEGATO IV   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
-
-Allegato V
-
- ALLEGATO V   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 6 NOVEMBRE 2007, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193) ))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193 ))

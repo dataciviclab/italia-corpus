@@ -1,38 +1,33 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 aprile 1994 n. 368
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 368
+data: 1994-04-22
+titolo: "Regolamento recante semplificazione del procedimento di programmazione ed esecuzione di interventi di manutenzione straordinaria su edifici di interesse storico-artistico."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-22;368
+codice_redazionale: 094G0361
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 aprile 1994 n. 368
-=============================================================
+(( PROVVEDIMENTO ABROGATO DAL D. LGS. 29 OTTOBRE 1999, N. 490 ))
 
-Regolamento recante semplificazione del procedimento di programmazione ed esecuzione di interventi di manutenzione straordinaria su edifici di interesse storico-artistico.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+(( PROVVEDIMENTO ABROGATO DAL D. LGS. 29 OTTOBRE 1999, N. 490 ))
 
-(( PROVVEDIMENTO ABROGATO DAL [D. LGS. 29 OTTOBRE 1999, N. 490](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-10-29;490) ))
+## Art. 3.
 
-Art. 2
-------
+(( PROVVEDIMENTO ABROGATO DAL D. LGS. 29 OTTOBRE 1999, N. 490 ))
 
-(( PROVVEDIMENTO ABROGATO DAL [D. LGS. 29 OTTOBRE 1999, N. 490](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-10-29;490) ))
+## Art. 4.
 
-Art. 3
-------
+(( PROVVEDIMENTO ABROGATO DAL D. LGS. 29 OTTOBRE 1999, N. 490 ))
 
-(( PROVVEDIMENTO ABROGATO DAL [D. LGS. 29 OTTOBRE 1999, N. 490](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-10-29;490) ))
+## Art. 5.
 
-Art. 4
-------
+(( PROVVEDIMENTO ABROGATO DAL D. LGS. 29 OTTOBRE 1999, N. 490 ))
 
-(( PROVVEDIMENTO ABROGATO DAL [D. LGS. 29 OTTOBRE 1999, N. 490](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-10-29;490) ))
+## Art. 6.
 
-Art. 5
-------
-
-(( PROVVEDIMENTO ABROGATO DAL [D. LGS. 29 OTTOBRE 1999, N. 490](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-10-29;490) ))
-
-Art. 6
-------
-
-(( PROVVEDIMENTO ABROGATO DAL [D. LGS. 29 OTTOBRE 1999, N. 490](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-10-29;490) ))
+(( PROVVEDIMENTO ABROGATO DAL D. LGS. 29 OTTOBRE 1999, N. 490 ))

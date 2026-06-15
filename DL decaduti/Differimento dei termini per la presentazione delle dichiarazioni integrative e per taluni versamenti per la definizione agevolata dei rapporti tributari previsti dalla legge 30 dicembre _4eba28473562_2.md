@@ -1,74 +1,49 @@
-DECRETO-LEGGE 27 aprile 1992 n. 269
+---
+tipo: DECRETO-LEGGE
+numero: 269
+data: 1992-04-27
+titolo: "Differimento dei termini per la presentazione delle dichiarazioni integrative e per taluni versamenti per la definizione agevolata dei rapporti tributari, previsti dalla legge 30 dicembre 1991, n. 413, nonche' differimento dei termini per la presentazione delle dichiarazioni dei redditi per l'anno 1991 e altre disposizioni tributarie urgenti."
+urn: urn:nir:stato:decreto.legge:1992-04-27;269
+codice_redazionale: 092G0308
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 27 aprile 1992 n. 269
-===================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 24 MARZO 1993, N. 75](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20gennaio%201993%20n.%2016%20recante%20disposizioni%20in%20materia%20di%20imposte%20sui%20redditi%20sui%20trasferimenti%20di%20immobili%20di%20civile%20abitazione%20di_d7e44fdc9d83.md)
 
-Differimento dei termini per la presentazione delle dichiarazioni integrative e per taluni versamenti per la definizione agevolata dei rapporti tributari, previsti dalla legge 30 dicembre 1991, n. 413, nonche' differimento dei termini per la presentazione delle dichiarazioni dei redditi per l'anno 1991 e altre disposizioni tributarie urgenti.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 29/4/1992.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 24 MARZO 1993, N. 75](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20gennaio%201993%20n.%2016%20recante%20disposizioni%20in%20materia%20di%20imposte%20sui%20redditi%20sui%20trasferimenti%20di%20immobili%20di%20civile%20abitazione%20di_d7e44fdc9d83.md)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 24 MARZO 1993, N. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-24;75)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 24 MARZO 1993, N. 75](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20gennaio%201993%20n.%2016%20recante%20disposizioni%20in%20materia%20di%20imposte%20sui%20redditi%20sui%20trasferimenti%20di%20immobili%20di%20civile%20abitazione%20di_d7e44fdc9d83.md)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 24 MARZO 1993, N. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-24;75)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 24 MARZO 1993, N. 75](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20gennaio%201993%20n.%2016%20recante%20disposizioni%20in%20materia%20di%20imposte%20sui%20redditi%20sui%20trasferimenti%20di%20immobili%20di%20civile%20abitazione%20di_d7e44fdc9d83.md)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 24 MARZO 1993, N. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-24;75)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 24 MARZO 1993, N. 75](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20gennaio%201993%20n.%2016%20recante%20disposizioni%20in%20materia%20di%20imposte%20sui%20redditi%20sui%20trasferimenti%20di%20immobili%20di%20civile%20abitazione%20di_d7e44fdc9d83.md)
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 24 MARZO 1993, N. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-24;75)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 24 MARZO 1993, N. 75](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20gennaio%201993%20n.%2016%20recante%20disposizioni%20in%20materia%20di%20imposte%20sui%20redditi%20sui%20trasferimenti%20di%20immobili%20di%20civile%20abitazione%20di_d7e44fdc9d83.md)
 
-Art. 5
-------
+## Art. 7.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 24 MARZO 1993, N. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-24;75)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 24 MARZO 1993, N. 75](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20gennaio%201993%20n.%2016%20recante%20disposizioni%20in%20materia%20di%20imposte%20sui%20redditi%20sui%20trasferimenti%20di%20immobili%20di%20civile%20abitazione%20di_d7e44fdc9d83.md)
 
-Art. 6
-------
+## Art. 8.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 24 MARZO 1993, N. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-24;75)
-  
-
-Art. 7
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 24 MARZO 1993, N. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-24;75)
-  
-
-Art. 8
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 24 MARZO 1993, N. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-24;75)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 24 MARZO 1993, N. 75](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20gennaio%201993%20n.%2016%20recante%20disposizioni%20in%20materia%20di%20imposte%20sui%20redditi%20sui%20trasferimenti%20di%20immobili%20di%20civile%20abitazione%20di_d7e44fdc9d83.md)

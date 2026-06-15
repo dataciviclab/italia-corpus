@@ -1,177 +1,141 @@
-DECRETO-LEGGE 28 febbraio 1986 n. 47
+---
+tipo: DECRETO-LEGGE
+numero: 47
+data: 1986-02-28
+titolo: "Provvedimenti urgenti per la finanza locale."
+urn: urn:nir:stato:decreto.legge:1986-02-28;47
+codice_redazionale: 086U0047
+vigente: true
+---
 
+## BILANCI, TRASFERIMENTI E MUTUI
 
-DECRETO-LEGGE 28 febbraio 1986 n. 47
-====================================
+Titolo I
 
-Provvedimenti urgenti per la finanza locale.
---------------------------------------------
+### Art. 1.
 
-Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20luglio%201986%20n.%20318%20recante%20provvedimenti%20urgenti%20per%20la%20finanza%20locale.md)
 
-CAPO I Titolo I BILANCI, TRASFERIMENTI E MUTUI
-----------------------------------------------
+### Art. 2.
 
-### Art. 1
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20luglio%201986%20n.%20318%20recante%20provvedimenti%20urgenti%20per%20la%20finanza%20locale.md)
 
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488)
-  
+### Art. 3.
 
-### Art. 2
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20luglio%201986%20n.%20318%20recante%20provvedimenti%20urgenti%20per%20la%20finanza%20locale.md)
 
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488)
-  
+### Art. 4.
 
-### Art. 3
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20luglio%201986%20n.%20318%20recante%20provvedimenti%20urgenti%20per%20la%20finanza%20locale.md)
 
-  
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488)
-  
+### Art. 5.
 
-### Art. 4
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20luglio%201986%20n.%20318%20recante%20provvedimenti%20urgenti%20per%20la%20finanza%20locale.md)
 
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488)
-  
+### Art. 6.
 
-### Art. 5
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20luglio%201986%20n.%20318%20recante%20provvedimenti%20urgenti%20per%20la%20finanza%20locale.md)
 
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488)
-  
+### Art. 7.
 
-### Art. 6
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20luglio%201986%20n.%20318%20recante%20provvedimenti%20urgenti%20per%20la%20finanza%20locale.md)
 
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488)
-  
+### Art. 8.
 
-### Art. 7
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20luglio%201986%20n.%20318%20recante%20provvedimenti%20urgenti%20per%20la%20finanza%20locale.md)
 
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488)
-  
+### Art. 9.
 
-### Art. 8
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20luglio%201986%20n.%20318%20recante%20provvedimenti%20urgenti%20per%20la%20finanza%20locale.md)
 
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488)
-  
+### Art. 10.
 
-### Art. 9
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20luglio%201986%20n.%20318%20recante%20provvedimenti%20urgenti%20per%20la%20finanza%20locale.md)
 
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488)
-  
+### Art. 11.
 
-### Art. 10
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20luglio%201986%20n.%20318%20recante%20provvedimenti%20urgenti%20per%20la%20finanza%20locale.md)
 
-  
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488)
-  
+### Art. 12.
 
-### Art. 11
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20luglio%201986%20n.%20318%20recante%20provvedimenti%20urgenti%20per%20la%20finanza%20locale.md)
 
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488)
-  
+## TASSA PER I SERVIZI COMUNALI
 
-### Art. 12
+Titolo II
 
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488)
-  
+### Art. 13.
 
-CAPO II Titolo II TASSA PER I SERVIZI COMUNALI
-----------------------------------------------
+DECRETO DECADUTO
 
-### Art. 13
+### Art. 14.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-### Art. 14
+### Art. 15.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-### Art. 15
+### Art. 16.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-### Art. 16
+### Art. 17.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-### Art. 17
+### Art. 18.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-### Art. 18
+### Art. 19.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-### Art. 19
+### Art. 20.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-### Art. 20
+### Art. 21.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-### Art. 21
+### Art. 22.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-### Art. 22
+### Art. 23.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-### Art. 23
+## ALTRE DISPOSIZIONI FISCALI
 
-  
-DECRETO DECADUTO   
+Titolo III
 
-CAPO III Titolo III ALTRE DISPOSIZIONI FISCALI
-----------------------------------------------
+### Art. 24.
 
-### Art. 24
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20luglio%201986%20n.%20318%20recante%20provvedimenti%20urgenti%20per%20la%20finanza%20locale.md)
 
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488)
-  
+### Art. 25.
 
-### Art. 25
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20luglio%201986%20n.%20318%20recante%20provvedimenti%20urgenti%20per%20la%20finanza%20locale.md)
 
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488)
-  
+### Art. 26.
 
-### Art. 26
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20luglio%201986%20n.%20318%20recante%20provvedimenti%20urgenti%20per%20la%20finanza%20locale.md)
 
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488)
-  
+### Art. 27.
 
-### Art. 27
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20luglio%201986%20n.%20318%20recante%20provvedimenti%20urgenti%20per%20la%20finanza%20locale.md)
 
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488)
-  
+### Art. 28.
 
-### Art. 28
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20luglio%201986%20n.%20318%20recante%20provvedimenti%20urgenti%20per%20la%20finanza%20locale.md)
 
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488)
-  
+### Art. 29.
 
-### Art. 29
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20luglio%201986%20n.%20318%20recante%20provvedimenti%20urgenti%20per%20la%20finanza%20locale.md)
 
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488)
-  
+### Art. 30.
 
-### Art. 30
-
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488)
-  
-
-Tabella A
-
- Tabella A   
-DECRETO DECADUTO   
-
-Tabella B
-
- Tabella B   
-DECRETO DECADUTO   
-
-Tabella C
-
- Tabella C   
-DECRETO DECADUTO   
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20luglio%201986%20n.%20318%20recante%20provvedimenti%20urgenti%20per%20la%20finanza%20locale.md)

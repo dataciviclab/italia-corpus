@@ -1,33 +1,29 @@
-DECRETO LEGISLATIVO 05 maggio 1948 n. 642
+---
+tipo: DECRETO LEGISLATIVO
+numero: 642
+data: 1948-05-05
+titolo: "Provvedimenti per accelerare i giudizi presso le Sezioni giurisdizionali del Consiglio di Stato."
+urn: urn:nir:stato:decreto.legislativo:1948-05-05;642
+codice_redazionale: 048U0642
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 05 maggio 1948 n. 642
-=========================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 LUGLIO 2010, N. 104))
 
-Provvedimenti per accelerare i giudizi presso le Sezioni giurisdizionali del Consiglio di Stato.
-------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 LUGLIO 2010, N. 104))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 LUGLIO 2010, N. 104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-07-02;104)))
+## Art. 3.
 
-Art. 2
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 LUGLIO 2010, N. 104))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 LUGLIO 2010, N. 104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-07-02;104)))
+## Art. 4.
 
-Art. 3
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 LUGLIO 2010, N. 104))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 LUGLIO 2010, N. 104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-07-02;104)))
+## Art. 5.
 
-Art. 4
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 LUGLIO 2010, N. 104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-07-02;104)))
-
-Art. 5
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 LUGLIO 2010, N. 104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-07-02;104)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 LUGLIO 2010, N. 104))

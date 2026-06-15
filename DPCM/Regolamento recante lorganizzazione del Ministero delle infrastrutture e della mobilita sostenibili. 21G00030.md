@@ -1,110 +1,109 @@
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 23 dicembre 2020 n. 190
+---
+tipo: DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
+numero: 190
+data: 2020-12-23
+titolo: "Regolamento recante l'organizzazione del ((Ministero delle infrastrutture e della mobilita' sostenibili)). (21G00030)"
+urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2020-12-23;190
+codice_redazionale: 21G00030
+vigente: true
+---
 
+## Organizzazione del Ministero
 
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 23 dicembre 2020 n. 190
-=========================================================================
+Capo I
 
-Regolamento recante l'organizzazione del ((Ministero delle infrastrutture e della mobilita' sostenibili)). (21G00030)
----------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del provvedimento: 21/03/2021
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 186))
 
-CAPO I Capo I Organizzazione del Ministero
-------------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 186))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 186](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;186)))
+## Dipartimenti
 
-### Art. 2
+Capo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 186](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;186)))
+### Art. 3.
 
-CAPO II Capo II Dipartimenti
-----------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 186))
 
-### Art. 3
+## Articolazione dei Dipartimenti
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 186](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;186)))
+Capo III
 
-CAPO III Capo III Articolazione dei Dipartimenti
-------------------------------------------------
+### Art. 4.
 
-### Art. 4
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 186))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 186](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;186)))
+### Art. 5.
 
-### Art. 5
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 186))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 186](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;186)))
+### Art. 6.
 
-### Art. 6
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 186))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 186](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;186)))
+## Organizzazione territoriale
 
-CAPO IV Capo IV Organizzazione territoriale
--------------------------------------------
+Capo IV
 
-### Art. 7
+### Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 186](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;186)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 186))
 
-### Art. 8
+### Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 186](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;186)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 186))
 
-### Art. 9
+### Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 186](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;186)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 186))
 
-### Art. 10
+### Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 186](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;186)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 186))
 
-### Art. 11
+### Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 186](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;186)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 186))
 
-### Art. 12
+### Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 186](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;186)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 186))
 
-CAPO V Capo V Comando generale del Corpo delle capitanerie di porto
--------------------------------------------------------------------
+## Comando generale del Corpo delle capitanerie di porto
 
-### Art. 13
+Capo V
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 186](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;186)))
+### Art. 13.
 
-CAPO VI Capo VI Organismi e istituzioni operanti nel Ministero
---------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 186))
 
-### Art. 14
+## Organismi e istituzioni operanti nel Ministero
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 186](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;186)))
+Capo VI
 
-### Art. 15
+### Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 186](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;186)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 186))
 
-CAPO VII Capo VII Dotazione organica e norme finali
----------------------------------------------------
+### Art. 15.
 
-### Art. 16
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 186))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 186](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;186)))
+## Dotazione organica e norme finali
 
-### Art. 17
+Capo VII
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 186](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;186)))
+### Art. 16.
 
-### Art. 18
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 186))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 186](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;186)))
+### Art. 17.
 
-Tabella A
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 186))
 
- Tabella A   
-  
+### Art. 18.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 30 OTTOBRE 2023, N. 186](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2023-10-30;186)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 30 OTTOBRE 2023, N. 186))

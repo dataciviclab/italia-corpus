@@ -1,58 +1,45 @@
-DECRETO-LEGGE 25 novembre 1986 n. 780
+---
+tipo: DECRETO-LEGGE
+numero: 780
+data: 1986-11-25
+titolo: "Disposizioni urgenti in materia di scarichi dei frantoi oleari."
+urn: urn:nir:stato:decreto.legge:1986-11-25;780
+codice_redazionale: 086U0780
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 25 novembre 1986 n. 780
-=====================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DAL
+[D.L. 26 GENNAIO 1987, N. 10](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20scarichi%20dei%20frantoi%20oleari_2.md), CONVERTITO, CON MODIFICAZIONI, DALLA
+ [L. 24 MARZO 1987, N. 119](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20gennaio%201987%20n.%2010%20recante%20disposizioni%20urgenti%20in%20materia%20di%20scarichi%20dei%20frantoi%20oleari.md)
 
-Disposizioni urgenti in materia di scarichi dei frantoi oleari.
----------------------------------------------------------------
+## Art. 2.
 
-Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DAL
+[D.L. 26 GENNAIO 1987, N. 10](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20scarichi%20dei%20frantoi%20oleari_2.md), CONVERTITO, CON MODIFICAZIONI, DALLA
+ [L. 24 MARZO 1987, N. 119](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20gennaio%201987%20n.%2010%20recante%20disposizioni%20urgenti%20in%20materia%20di%20scarichi%20dei%20frantoi%20oleari.md)
 
-Art. 1
-------
+## Art. 3.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DAL  
-[D.L. 26 GENNAIO 1987, N. 10](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-01-26;10), CONVERTITO, CON MODIFICAZIONI, DALLA  
-[L. 24 MARZO 1987, N. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-03-24;119)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DAL
+[D.L. 26 GENNAIO 1987, N. 10](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20scarichi%20dei%20frantoi%20oleari_2.md), CONVERTITO, CON MODIFICAZIONI, DALLA
+ [L. 24 MARZO 1987, N. 119](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20gennaio%201987%20n.%2010%20recante%20disposizioni%20urgenti%20in%20materia%20di%20scarichi%20dei%20frantoi%20oleari.md)
 
-Art. 2
-------
+## Art. 4.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DAL  
-[D.L. 26 GENNAIO 1987, N. 10](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-01-26;10), CONVERTITO, CON MODIFICAZIONI, DALLA  
-[L. 24 MARZO 1987, N. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-03-24;119)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DAL
+[D.L. 26 GENNAIO 1987, N. 10](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20scarichi%20dei%20frantoi%20oleari_2.md), CONVERTITO, CON MODIFICAZIONI, DALLA
+ [L. 24 MARZO 1987, N. 119](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20gennaio%201987%20n.%2010%20recante%20disposizioni%20urgenti%20in%20materia%20di%20scarichi%20dei%20frantoi%20oleari.md)
 
-Art. 3
-------
+## Art. 5.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DAL  
-[D.L. 26 GENNAIO 1987, N. 10](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-01-26;10), CONVERTITO, CON MODIFICAZIONI, DALLA  
-[L. 24 MARZO 1987, N. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-03-24;119)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DAL
+[D.L. 26 GENNAIO 1987, N. 10](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20scarichi%20dei%20frantoi%20oleari_2.md), CONVERTITO, CON MODIFICAZIONI, DALLA
+ [L. 24 MARZO 1987, N. 119](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20gennaio%201987%20n.%2010%20recante%20disposizioni%20urgenti%20in%20materia%20di%20scarichi%20dei%20frantoi%20oleari.md)
 
-Art. 4
-------
+## Art. 6.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DAL  
-[D.L. 26 GENNAIO 1987, N. 10](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-01-26;10), CONVERTITO, CON MODIFICAZIONI, DALLA  
-[L. 24 MARZO 1987, N. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-03-24;119)
-  
-
-Art. 5
-------
-
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DAL  
-[D.L. 26 GENNAIO 1987, N. 10](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-01-26;10), CONVERTITO, CON MODIFICAZIONI, DALLA  
-[L. 24 MARZO 1987, N. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-03-24;119)
-  
-
-Art. 6
-------
-
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DAL  
-[D.L. 26 GENNAIO 1987, N. 10](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-01-26;10), CONVERTITO, CON MODIFICAZIONI, DALLA  
-[L. 24 MARZO 1987, N. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-03-24;119)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DAL
+[D.L. 26 GENNAIO 1987, N. 10](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20scarichi%20dei%20frantoi%20oleari_2.md), CONVERTITO, CON MODIFICAZIONI, DALLA
+ [L. 24 MARZO 1987, N. 119](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20gennaio%201987%20n.%2010%20recante%20disposizioni%20urgenti%20in%20materia%20di%20scarichi%20dei%20frantoi%20oleari.md)

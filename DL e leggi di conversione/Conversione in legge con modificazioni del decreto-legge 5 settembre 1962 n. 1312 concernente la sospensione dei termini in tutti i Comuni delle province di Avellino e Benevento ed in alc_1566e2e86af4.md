@@ -1,35 +1,31 @@
-LEGGE 16 ottobre 1962 n. 1470
+---
+tipo: LEGGE
+numero: 1470
+data: 1962-10-16
+titolo: "Conversione in legge, con modificazioni, del decreto-legge 5 settembre 1962, n. 1312, concernente la sospensione dei termini in tutti i Comuni delle province di Avellino e Benevento ed in alcuni Comuni delle province di Caserta, Foggia, Campobasso e Salerno."
+urn: urn:nir:stato:legge:1962-10-16;1470
+codice_redazionale: 062U1470
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 16 ottobre 1962 n. 1470
-=============================
+La Camera dei deputati ed il senato della Repubblica hanno approvato:
 
-Conversione in legge, con modificazioni, del decreto-legge 5 settembre 1962, n. 1312, concernente la sospensione dei termini in tutti i Comuni delle province di Avellino e Benevento ed in alcuni Comuni delle province di Caserta, Foggia, Campobasso e Salerno.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ IL PRESIDENTE DELLA REPUBBLICA
 
-Art. 1
-------
+ PROMULGA
 
- La Camera dei deputati ed il senato della Repubblica hanno approvato:  
-  
-IL PRESIDENTE DELLA REPUBBLICA  
-  
-PROMULGA  
-  
-la seguente legge:  
-  
-E' convertito in legge il [decreto-legge 5 settembre 1962, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1962-09-05;1312), concernente, la sospensione dei termine in tutti i Comuni delle province di Avellino e Benevento ed in alcuni Comuni delle province di Caserta, Foggia, Campobasso e Salerno, con la seguente modificazione:  
-  
-L'articolo 1 e' sostituito dal seguente:  
-"In tutti i Comuni delle province di Avellino e Benevento; nei comuni di Alife, Arienzo, Capua, San Felice a Cancello, Cesa, Conca della Campania, Formicola, Maddaloni, Mignano, Montelungo, Pietramelara, Roccaromana, San Pietro in Fine, Santa Maria a Vico, Sessa Aurunca, Teano e Roccadevandro della provincia di Caserta: nei comuni di Accadia, Anzano di Puglia, Bovino, Castelluccio Valmaggiore, Celle San Vito, Faeto, Monteleone Puglia e Roseto Valfortore della provincia di Foggia; nei comuni di Ururi, Gambatesa e San Martino in Pensilis della provincia di Campobasso nei comuni di Mercato San Severino, Sarno e Baronissi della provincia di Salerno, il corso dei termini di prescrizione e di decadenza, scadenti dal 21 agosto al 15 ottobre 1962, e' sospeso fino al giorno 30 novembre 1962.  
-E' parimenti sospeso fino al 30 novembre 1962 il termine della scadenza dei vaglia cambiari, delle cambiali e di ogni titolo di credito avente forza esecutiva, emessi prima del 21 agosto 1962, scadenti tra il 21 agosto 1962 e il 13 ottobre 1962 e pagabili da debitori residenti nei Comuni anzidetti".  
-  
+la seguente legge:
+
+ E' convertito in legge il [decreto-legge 5 settembre 1962, n. 1312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1962-09-05;1312), concernente, la sospensione dei termine in tutti i Comuni delle province di Avellino e Benevento ed in alcuni Comuni delle province di Caserta, Foggia, Campobasso e Salerno, con la seguente modificazione:
+
+ L'articolo 1 e' sostituito dal seguente:
+ "In tutti i Comuni delle province di Avellino e Benevento; nei comuni di Alife, Arienzo, Capua, San Felice a Cancello, Cesa, Conca della Campania, Formicola, Maddaloni, Mignano, Montelungo, Pietramelara, Roccaromana, San Pietro in Fine, Santa Maria a Vico, Sessa Aurunca, Teano e Roccadevandro della provincia di Caserta: nei comuni di Accadia, Anzano di Puglia, Bovino, Castelluccio Valmaggiore, Celle San Vito, Faeto, Monteleone Puglia e Roseto Valfortore della provincia di Foggia; nei comuni di Ururi, Gambatesa e San Martino in Pensilis della provincia di Campobasso nei comuni di Mercato San Severino, Sarno e Baronissi della provincia di Salerno, il corso dei termini di prescrizione e di decadenza, scadenti dal 21 agosto al 15 ottobre 1962, e' sospeso fino al giorno 30 novembre 1962.
+ E' parimenti sospeso fino al 30 novembre 1962 il termine della scadenza dei vaglia cambiari, delle cambiali e di ogni titolo di credito avente forza esecutiva, emessi prima del 21 agosto 1962, scadenti tra il 21 agosto 1962 e il 13 ottobre 1962 e pagabili da debitori residenti nei Comuni anzidetti".
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data a Roma, addi' 16 ottobre 1962
+Data a Roma, addi' 16 ottobre 1962
 
-SEGNI FANFANI - BOSCO - TAVIANI - TREMELLONI
-
-Visto, il Guardasigilli: BOSCO
+SEGNI FANFANI - BOSCO - TAVIANI - TREMELLONI Visto, il Guardasigilli: BOSCO

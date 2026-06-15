@@ -1,34 +1,25 @@
-DECRETO-LEGGE 17 settembre 1993 n. 365
+---
+tipo: DECRETO-LEGGE
+numero: 365
+data: 1993-09-17
+titolo: "Disposizioni in materia di versamento della quota fissa individuale annua per l'assistenza medica di base."
+urn: urn:nir:stato:decreto.legge:1993-09-17;365
+codice_redazionale: 093G0446
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 17 settembre 1993 n. 365
-======================================
+DECRETO DECADUTO
 
-Disposizioni in materia di versamento della quota fissa individuale annua per l'assistenza medica di base.
-----------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 18/9/1993.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO   
-
-Art. 3
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 4
-------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

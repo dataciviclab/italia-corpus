@@ -1,26 +1,24 @@
-DECRETO 21 aprile 1995 n. 164
-
-
-DECRETO 21 aprile 1995 n. 164
-=============================
-
-Regolamento recante modificazioni al decreto ministeriale 18 giugno 1992, n. 565, concernente le modalita' di espletamento dei concorsi interni per l'accesso ai profili professionali del personale del Corpo nazionale dei vigili del fuoco.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 27-5-1995
+---
+tipo: DECRETO
+numero: 164
+data: 1995-04-21
+titolo: "Regolamento recante modificazioni al decreto ministeriale 18 giugno 1992, n. 565, concernente le modalita' di espletamento dei concorsi interni per l'accesso ai profili professionali del personale del Corpo nazionale dei vigili del fuoco."
+urn: urn:nir:ministero.interno:decreto:1995-04-21;164
+codice_redazionale: 095G0193
+vigente: true
+---
 
 IL MINISTRO DELL'INTERNO
-------------------------
 
-Visto l'[art. 70 del decreto del Presidente della Repubblica 4 agosto 1990, n. 335](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-08-04;335~art70), recante tra l'altro la definizione dei nuovi profili professionali del personale del Corpo nazionale dei vigili del fuoco, che rinvia ad apposito decreto ministeriale la regolamentazione delle modalita', delle materie di esame e delle prove per la ammissione ai menzionati profili, ai quali si accede dall'interno;
+Visto l'[art. 70 del decreto del Presidente della Repubblica 4 agosto 1990, n. 335](../Regolamenti%20governativi/Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2010%20febbraio%201990%20concernente%20il%20personale%20del%20comparto%20delle%20aziende%20e%20delle%20amministrazion_4fcd7e854c67.md), recante tra l'altro la definizione dei nuovi profili professionali del personale del Corpo nazionale dei vigili del fuoco, che rinvia ad apposito decreto ministeriale la regolamentazione delle modalita', delle materie di esame e delle prove per la ammissione ai menzionati profili, ai quali si accede dall'interno;
 
-Visto il [decreto ministeriale 18 giugno 1992, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1992-06-18;565), con il quale e' stato disciplinato attraverso apposite disposizioni il passaggio del personale del Corpo nazionale dei vigili del fuoco da un profilo professionale ad altro superiore nell'ambito della medesima qualifica funzionale ovvero da un profilo professionale ad altro di qualifica superiore;
+Visto il [decreto ministeriale 18 giugno 1992, n. 565](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1992-06-18;565), con il quale e' stato disciplinato attraverso apposite disposizioni il passaggio del personale del Corpo nazionale dei vigili del fuoco da un profilo professionale ad altro superiore nell'ambito della medesima qualifica funzionale ovvero da un profilo professionale ad altro di qualifica superiore;
 
-Ritenuto di dover modificare l'art. 17 dell'anzidetto [decreto ministeriale n. 565/1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1992;565) allo scopo di semplificare le procedure concorsuali intese alla copertura dei posti vacanti dal 1 gennaio 1988 al 31 dicembre 1994, sopperendo cosi' alle improcrastinabili esigenze di funzionalita' del servizio d'istituto;
+Ritenuto di dover modificare l'art. 17 dell'anzidetto [decreto ministeriale n. 565/1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1992;565) allo scopo di semplificare le procedure concorsuali intese alla copertura dei posti vacanti dal 1 gennaio 1988 al 31 dicembre 1994, sopperendo cosi' alle improcrastinabili esigenze di funzionalita' del servizio d'istituto;
 
-Visto il [decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29);
+Visto il [decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
 
-Visto l'[art. 17 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17);
+Visto l'[art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17);
 
 Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 6 aprile 1995;
 
@@ -28,53 +26,39 @@ Vista la comunicazione fatta al Presidente del Consiglio dei Ministri in data 18
 
 A D O T T A il seguente regolamento:
 
-Art. 1
-------
+## Art. 1.
 
- Il [comma 1 dell'art. 17 del decreto ministeriale 18 giugno 1992, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1992-06-18;565~art17-com1), e' sostituito dai seguenti commi:  
-" 1. Per la copertura dei posti vacanti dal 1 gennaio 1988 al 31 dicembre 1994, saranno espletate distinte procedure concorsuali per ciascun anno, senza riferimento alla sede di servizio, cui i candidati saranno ammessi in ordine di ruolo fino alla copertura dei posti da conferire. Le sedi disponibili nei singoli profili professionali sono quelle che residuano dopo l'espletamento delle operazioni di mobilita' del personale gia' appartenente ai profili medesimi. Le sedi di servizio saranno assegnate, ai concorrenti che avranno superato gli esami finali sulla base delle preferenze espresse secondo l'ordine di ruolo posseduto nel profilo di provenienza.  
-1-bis. Per lo svolgimento delle prove selettive, oltre alla commissione esaminatrice, potranno essere costituite piu' sottocommissioni, unico restando il presidente, alle quali potra' essere assegnato un numero di candidati non inferiore a trecento. La commissione esaminatrice, nominata con decreto del direttore generale, e' composta da un funzionario con qualifica non inferiore a dirigente, con funzioni di presidente, e da due funzionari, con qualifica non inferiore all'ottava. I candidati che non avranno superato la prova selettiva ovvero l'esame di fine corso, nonche' i candidati che ne fossero impediti per sopraggiunti giustificati motivi, saranno ammessi alla prima successiva procedura utile per la copertura dei posti fino al 31 dicembre 1994, fermo restando la preferenza espressa per la sede di servizio.  
-1-ter. Il corso di formazione e l'esame di fine corso potranno essere effettuati anche in sede decentrata. Al termine del corso conclusivo di ciascuna procedura concorsuale i candidati sostengono l'esame finale consistente in un questionario sulle materie del corso stesso".  
+Il [comma 1 dell'art. 17 del decreto ministeriale 18 giugno 1992, n. 565](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1992-06-18;565#art_17-com1), e' sostituito dai seguenti commi:
+ " 1. Per la copertura dei posti vacanti dal 1 gennaio 1988 al 31 dicembre 1994, saranno espletate distinte procedure concorsuali per ciascun anno, senza riferimento alla sede di servizio, cui i candidati saranno ammessi in ordine di ruolo fino alla copertura dei posti da conferire. Le sedi disponibili nei singoli profili professionali sono quelle che residuano dopo l'espletamento delle operazioni di mobilita' del personale gia' appartenente ai profili medesimi. Le sedi di servizio saranno assegnate, ai concorrenti che avranno superato gli esami finali sulla base delle preferenze espresse secondo l'ordine di ruolo posseduto nel profilo di provenienza.
+ 1-bis. Per lo svolgimento delle prove selettive, oltre alla commissione esaminatrice, potranno essere costituite piu' sottocommissioni, unico restando il presidente, alle quali potra' essere assegnato un numero di candidati non inferiore a trecento. La commissione esaminatrice, nominata con decreto del direttore generale, e' composta da un funzionario con qualifica non inferiore a dirigente, con funzioni di presidente, e da due funzionari, con qualifica non inferiore all'ottava. I candidati che non avranno superato la prova selettiva ovvero l'esame di fine corso, nonche' i candidati che ne fossero impediti per sopraggiunti giustificati motivi, saranno ammessi alla prima successiva procedura utile per la copertura dei posti fino al 31 dicembre 1994, fermo restando la preferenza espressa per la sede di servizio.
+ 1-ter. Il corso di formazione e l'esame di fine corso potranno essere effettuati anche in sede decentrata. Al termine del corso conclusivo di ciascuna procedura concorsuale i candidati sostengono l'esame finale consistente in un questionario sulle materie del corso stesso".
+
+Note alle premesse:
+ - Il testo dell'[art. 70 del D.P.R. n. 335/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990;335#art_70) (Regolamento per il recepimento delle norme risultanti dalla disciplina prevista dall'accordo del 10 febbraio 1990 concernente il personale del comparto delle aziende e delle amministrazioni dello Stato ad ordinamento autonomo, di cui all'[art. 5 del decreto del Presidente della Repubblica 5 marzo 1986, n. 68](../DPR/Determinazione%20e%20composizione%20dei%20comparti%20di%20contrattazione%20collettiva%20di%20cui%20allart.%205%20della%20legge-quadro%20sul%20pubblico%20impiego%2029%20marzo%201983%20n.%2093.md)), e' il seguente:
+ "Art. 70 (Disciplina concorsi interni). - 1. Con decreto del Ministro dell'interno sono stabilite le modalita', le materie d'esame e le prove per l'ammissione ai profili ai quali si accede esclusivamente dall'interno".
+ - Il [D.M. n. 565/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1988;565) concerne il regolamento recante le modalita' di espletamento dei concorsi interni per l'accesso ai profili professionali del personale del Corpo nazionale dei vigili del fuoco. In particolare, si riporta di seguito il testo dell'art. 17, comma 1, di cui si propone la sostituzione: "1. Per la copertura dei posti resisi vacanti dal 1 gennaio 1988 all'entrata in vigore del presente regolamento saranno espletate distinte procedure concorsuali per ciascun anno di riferimento delle vacanze per singole sedi provinciali".
+ - Il [D.Lgs. n. 29/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29) reca: "Razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego, a norma dell'[art. 2 della legge 23 ottobre 1993, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-23;421#art_2)".
+ - Il testo dell'[art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), come modificato dall'[art. 74 del D.Lgs. 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e' il seguente:
+ "Art. 17 (Regolamenti). - 1. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il parere del Consiglio di Stato che deve pronunziarsi entro novanta giorni dalla richiesta, possono essere emanati i regolamenti per disciplinare:
+ a) l'esecuzione delle leggi e dei decreti legislativi;
+ b) l'attuazione e l'integrazione delle leggi e dei decreti legislativi recanti norme di principio, esclusi quelli relativi a materie riservate alla competenza regionale;
+ c) le materie in cui manchi la disciplina da parte di leggi o di atti aventi forza di legge, sempre che non si tratti di materie comunque riservate alla legge;
+ d) l'organizzazione ed il funzionamento delle amministrazioni pubbliche secondo le disposizioni dettate dalla legge;
+ e) (soppressa).
+ 2. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il Consiglio di Stato, sono emanati i regolamenti per la disciplina delle materie, non coperte da riserva assoluta di legge prevista dalla Costituzione, per le quali le leggi della Repubblica, autorizzando l'esercizio della potesta' regolamentare del Governo, determinano le norme generali regolatrici della materia e dispongono l'abrogazione delle norme vigenti, con effetto dall'entrata in vigore delle norme regolamentari.
+ 3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.
+ I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.
+ 4. I regolamenti di cui al comma 1 ed i regolamenti ministeriali ed interministeriali, che devono recare la denominazione di 'regolamento', sono adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale".
+ Nota all'art. 1:
+ - Il testo dell'art. 17 del citato [D.M. n. 565/1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1992;565), come sopra modificato, e' il seguente:
+ "Art. 17. - 1. Per la copertura dei posti vacanti dal 1 gennaio 1988 al 31 dicembre 1994, saranno espletate distinte procedure concorsuali per ciascun anno, senza riferimento alla sede di servizio, cui i candidati saranno ammessi in ordine di ruolo fino alla copertura dei posti da conferire. Le sedi disponibili nei singoli profili professionali sono quelle che residuano dopo l'espletamento delle operazioni di mobilita' del personale gia' appartenente ai profili medesimi. Le sedi di servizio saranno assegnate, ai concorrenti che avranno superato gli esami finali sulla base delle preferenze espresse secondo l'ordine di ruolo posseduto nel profilo di provenienza.
+ 1-bis. Per lo svolgimento delle prove selettive, oltre alla commissione esaminatrice, potranno essere costituite piu' sottocommissioni, unico restando il presidente, alle quali potra' essere assegnato un numero di candidati non inferiore a trecento. La commissione esaminatrice, nominata con decreto del direttore generale, e' composta da un funzionario con qualifica non inferiore a dirigente, con funzioni di presidente, e da due funzionari, con qualifica non inferiore all'ottava. I candidati che non avranno superato la prova selettiva ovvero l'esame di fine corso, nonche' i candidati che ne fossero impediti per sopraggiunti giustificati motivi, saranno ammessi alla prima successiva procedura utile per la copertura dei posti fino al 31 dicembre 1994, fermo restando la preferenza espressa per la sede di servizio.
+ 1-ter. Il corso di formazione e l'esame di fine corso potranno essere effettuati anche in sede decentrata. Al termine del corso conclusivo di ciascuna procedura concorsuale i candidati sostengono l'esame finale consistente in un questionario sulle materie del corso stesso.
+ 2. L'attribuzione del nuovo profilo professionale, dell'inerente qualifica funzionale nonche' del relativo trattamento economico viene operata, ora per allora, nel limite dei posti annualmente disponibili nelle singole sedi provinciali.
+ 3. Il termine ultimo per la conclusione delle procedure concorsuali sara' indicato nei singoli bandi di concorso in conformita' di quanto previsto dalle disposizioni regolamentari per l'attuazione della [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241)".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 21 aprile 1995
+Roma, 21 aprile 1995
 
-Il Ministro: BRANCACCIO
-
-Visto, il Guardasigilli: MANCUSO Registrato alla Corte dei conti il 4 maggio 1995
-
-Registro n. 1 Interno, foglio n. 281 AVVERTENZA: Il testo delle note qui pubblicato e' stato redatto ai
-
-sensi dell'art. 10, commi 2 e 3, del testo unico delle
-
-disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica
-
-e sulle pubblicazioni ufficiali della Repubblica italiana,
-
-approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
-
-Note alle premesse:  
-- Il testo dell'[art. 70 del D.P.R. n. 335/1990](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990;335~art70) (Regolamento per il recepimento delle norme risultanti dalla disciplina prevista dall'accordo del 10 febbraio 1990 concernente il personale del comparto delle aziende e delle amministrazioni dello Stato ad ordinamento autonomo, di cui all'[art. 5 del decreto del Presidente della Repubblica 5 marzo 1986, n. 68](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-03-05;68~art5)), e' il seguente:  
-"Art. 70 (Disciplina concorsi interni). - 1. Con decreto del Ministro dell'interno sono stabilite le modalita', le materie d'esame e le prove per l'ammissione ai profili ai quali si accede esclusivamente dall'interno".  
-- Il [D.M. n. 565/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1988;565) concerne il regolamento recante le modalita' di espletamento dei concorsi interni per l'accesso ai profili professionali del personale del Corpo nazionale dei vigili del fuoco. In particolare, si riporta di seguito il testo dell'art. 17, comma 1, di cui si propone la sostituzione: "1. Per la copertura dei posti resisi vacanti dal 1 gennaio 1988 all'entrata in vigore del presente regolamento saranno espletate distinte procedure concorsuali per ciascun anno di riferimento delle vacanze per singole sedi provinciali".  
-- Il [D.Lgs. n. 29/1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29) reca: "Razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego, a norma dell'[art. 2 della legge 23 ottobre 1993, n. 421](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-23;421~art2)".  
-- Il testo dell'[art. 17 della legge n. 400/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400~art17) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), come modificato dall'[art. 74 del D.Lgs. 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art74), e' il seguente:  
-"Art. 17 (Regolamenti). - 1. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il parere del Consiglio di Stato che deve pronunziarsi entro novanta giorni dalla richiesta, possono essere emanati i regolamenti per disciplinare:  
-a) l'esecuzione delle leggi e dei decreti legislativi;  
-b) l'attuazione e l'integrazione delle leggi e dei decreti legislativi recanti norme di principio, esclusi quelli relativi a materie riservate alla competenza regionale;  
-c) le materie in cui manchi la disciplina da parte di leggi o di atti aventi forza di legge, sempre che non si tratti di materie comunque riservate alla legge;  
-d) l'organizzazione ed il funzionamento delle amministrazioni pubbliche secondo le disposizioni dettate dalla legge;  
-e) (soppressa).  
-2. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il Consiglio di Stato, sono emanati i regolamenti per la disciplina delle materie, non coperte da riserva assoluta di legge prevista dalla Costituzione, per le quali le leggi della Repubblica, autorizzando l'esercizio della potesta' regolamentare del Governo, determinano le norme generali regolatrici della materia e dispongono l'abrogazione delle norme vigenti, con effetto dall'entrata in vigore delle norme regolamentari.  
-3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.  
-I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.  
-4. I regolamenti di cui al comma 1 ed i regolamenti ministeriali ed interministeriali, che devono recare la denominazione di 'regolamento', sono adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale".  
-Nota all'art. 1:  
-- Il testo dell'art. 17 del citato [D.M. n. 565/1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1992;565), come sopra modificato, e' il seguente:  
-"Art. 17. - 1. Per la copertura dei posti vacanti dal 1 gennaio 1988 al 31 dicembre 1994, saranno espletate distinte procedure concorsuali per ciascun anno, senza riferimento alla sede di servizio, cui i candidati saranno ammessi in ordine di ruolo fino alla copertura dei posti da conferire. Le sedi disponibili nei singoli profili professionali sono quelle che residuano dopo l'espletamento delle operazioni di mobilita' del personale gia' appartenente ai profili medesimi. Le sedi di servizio saranno assegnate, ai concorrenti che avranno superato gli esami finali sulla base delle preferenze espresse secondo l'ordine di ruolo posseduto nel profilo di provenienza.  
-1-bis. Per lo svolgimento delle prove selettive, oltre alla commissione esaminatrice, potranno essere costituite piu' sottocommissioni, unico restando il presidente, alle quali potra' essere assegnato un numero di candidati non inferiore a trecento. La commissione esaminatrice, nominata con decreto del direttore generale, e' composta da un funzionario con qualifica non inferiore a dirigente, con funzioni di presidente, e da due funzionari, con qualifica non inferiore all'ottava. I candidati che non avranno superato la prova selettiva ovvero l'esame di fine corso, nonche' i candidati che ne fossero impediti per sopraggiunti giustificati motivi, saranno ammessi alla prima successiva procedura utile per la copertura dei posti fino al 31 dicembre 1994, fermo restando la preferenza espressa per la sede di servizio.  
-1-ter. Il corso di formazione e l'esame di fine corso potranno essere effettuati anche in sede decentrata. Al termine del corso conclusivo di ciascuna procedura concorsuale i candidati sostengono l'esame finale consistente in un questionario sulle materie del corso stesso.  
-2. L'attribuzione del nuovo profilo professionale, dell'inerente qualifica funzionale nonche' del relativo trattamento economico viene operata, ora per allora, nel limite dei posti annualmente disponibili nelle singole sedi provinciali.  
-3. Il termine ultimo per la conclusione delle procedure concorsuali sara' indicato nei singoli bandi di concorso in conformita' di quanto previsto dalle disposizioni regolamentari per l'attuazione della [legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241)".
+Il Ministro: BRANCACCIO Visto, il Guardasigilli: MANCUSO Registrato alla Corte dei conti il 4 maggio 1995 Registro n. 1 Interno, foglio n. 281 AVVERTENZA: Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.

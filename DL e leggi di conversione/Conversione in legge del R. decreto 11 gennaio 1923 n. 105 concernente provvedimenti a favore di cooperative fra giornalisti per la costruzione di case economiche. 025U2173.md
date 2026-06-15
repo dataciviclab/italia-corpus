@@ -1,16 +1,14 @@
-LEGGE 26 novembre 1925 n. 2173
+---
+tipo: LEGGE
+numero: 2173
+data: 1925-11-26
+titolo: "Conversione in legge del R. decreto 11 gennaio 1923, n. 105, concernente provvedimenti a favore di cooperative fra giornalisti per la costruzione di case economiche. (025U2173)"
+urn: urn:nir:stato:legge:1925-11-26;2173
+codice_redazionale: 025U2173
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 26 novembre 1925 n. 2173
-==============================
-
-Conversione in legge del R. decreto 11 gennaio 1923, n. 105, concernente provvedimenti a favore di cooperative fra giornalisti per la costruzione di case economiche. (025U2173)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/12/1925
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

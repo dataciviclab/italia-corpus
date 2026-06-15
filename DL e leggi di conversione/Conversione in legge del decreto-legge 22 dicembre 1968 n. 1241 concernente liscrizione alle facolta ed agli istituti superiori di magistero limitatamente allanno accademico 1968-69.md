@@ -1,35 +1,25 @@
-LEGGE 12 febbraio 1969 n. 8
-
-
-LEGGE 12 febbraio 1969 n. 8
-===========================
-
-Conversione in legge del decreto-legge 22 dicembre 1968, n. 1241, concernente l'iscrizione alle facolta' ed agli istituti superiori di magistero limitatamente all'anno accademico 1968-69.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: LEGGE
+numero: 8
+data: 1969-02-12
+titolo: "Conversione in legge del decreto-legge 22 dicembre 1968, n. 1241, concernente l'iscrizione alle facolta' ed agli istituti superiori di magistero limitatamente all'anno accademico 1968-69."
+urn: urn:nir:stato:legge:1969-02-12;8
+codice_redazionale: 069U0008
+vigente: true
+---
 
 La Camera dei deputati ed il Senato della Repubblica hanno approvato;
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-PROMULGA
---------
+PROMULGA la seguente legge:
 
-la seguente legge:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' convertito in legge il [decreto-legge 22 dicembre 1968, n. 1241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-22;1241), concernente l'iscrizione alle facolta' ed agli istituti superiori di magistero limitatamente all'anno accademico 1968-69.  
-  
+E' convertito in legge il [decreto-legge 22 dicembre 1968, n. 1241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-22;1241), concernente l'iscrizione alle facolta' ed agli istituti superiori di magistero limitatamente all'anno accademico 1968-69.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data a Roma, addi' 12 febbraio 1969
+Data a Roma, addi' 12 febbraio 1969
 
-SARAGAT RUMOR - SULLO
-
-Visto, il Guardasigilli: GAVA
+SARAGAT RUMOR - SULLO Visto, il Guardasigilli: GAVA

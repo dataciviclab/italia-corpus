@@ -1,55 +1,45 @@
-DECRETO LEGISLATIVO 28 luglio 2000 n. 253
+---
+tipo: DECRETO LEGISLATIVO
+numero: 253
+data: 2000-07-28
+titolo: "Attuazione della direttiva 97/5/CEE sui bonifici transfrontalieri."
+urn: urn:nir:stato:decreto.legislativo:2000-07-28;253
+codice_redazionale: 000G0303
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 28 luglio 2000 n. 253
-=========================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 11))
 
-Attuazione della direttiva 97/5/CEE sui bonifici transfrontalieri.
-------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 26-9-2000
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 11))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 27 GENNAIO 2010, N. 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;11)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 11))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 27 GENNAIO 2010, N. 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;11)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 11))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 27 GENNAIO 2010, N. 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;11)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 11))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 27 GENNAIO 2010, N. 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;11)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 11))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 27 GENNAIO 2010, N. 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;11)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 11))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 27 GENNAIO 2010, N. 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;11)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 11))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 27 GENNAIO 2010, N. 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;11)))
-
-Art. 8
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 27 GENNAIO 2010, N. 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;11)))
-
-Art. 9
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 27 GENNAIO 2010, N. 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;11)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 11))

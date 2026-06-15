@@ -1,65 +1,49 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1982 n. 515
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 515
+data: 1982-07-03
+titolo: "Attuazione della direttiva (CEE) n. 75/440 concernente la qualita' delle acque superficiali destinate alla produzione di acqua potabile."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-07-03;515
+codice_redazionale: 082U0515
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1982 n. 515
-=============================================================
+((IL [D.LGS. 3 APRILE 2006, N.152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Attuazione della direttiva (CEE) n. 75/440 concernente la qualita' delle acque superficiali destinate alla produzione di acqua potabile.
-----------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((IL [D.LGS. 3 APRILE 2006, N.152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-((IL [D.LGS. 3 APRILE 2006, N.152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))  
+## Art. 3.
 
-Art. 2
-------
+((IL [D.LGS. 3 APRILE 2006, N.152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-((IL [D.LGS. 3 APRILE 2006, N.152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))  
+## Art. 4.
 
-Art. 3
-------
+((IL [D.LGS. 3 APRILE 2006, N.152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-((IL [D.LGS. 3 APRILE 2006, N.152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))  
+## Art. 5.
 
-Art. 4
-------
+((IL D.LGS. 3 APRILE 2006, N.152, HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-((IL [D.LGS. 3 APRILE 2006, N.152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))  
+## Art. 6.
 
-Art. 5
-------
+((IL [D.LGS. 3 APRILE 2006, N.152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-((IL [D.LGS. 3 APRILE 2006, N.152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+## Art. 7.
 
-Art. 6
-------
+((IL [D.LGS. 3 APRILE 2006, N.152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-((IL [D.LGS. 3 APRILE 2006, N.152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))  
+## Art. 8.
 
-Art. 7
-------
+((IL D.LGS. 3 APRILE 2006, N.152, HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-((IL [D.LGS. 3 APRILE 2006, N.152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))  
+## Art. 9.
 
-Art. 8
-------
+((IL [D.LGS. 3 APRILE 2006, N.152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-((IL [D.LGS. 3 APRILE 2006, N.152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+## Art. 10.
 
-Art. 9
-------
-
-((IL [D.LGS. 3 APRILE 2006, N.152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))  
-
-Art. 10
--------
-
-((IL [D.LGS. 3 APRILE 2006, N.152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
-
-Allegato
-
- Allegato   
-
-((IL [D.LGS. 3 APRILE 2006, N.152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152), HA CONFERMATO L'ABROGAZIONE DEL   
-PREESENTE PROVVEDIMENTO))
+((IL D.LGS. 3 APRILE 2006, N.152, HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))

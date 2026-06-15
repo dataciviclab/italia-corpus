@@ -1,27 +1,14 @@
-LEGGE 04 aprile 1991 n. 111
+---
+tipo: LEGGE
+numero: 111
+data: 1991-04-04
+titolo: "Conversione in legge, con modificazioni, del decreto-legge 6 febbraio 1991, n. 35, recante norme sulla gestione transitoria delle unita' sanitarie locali."
+urn: urn:nir:stato:legge:1991-04-04;111
+codice_redazionale: 091G0146
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 04 aprile 1991 n. 111
-===========================
-
-Conversione in legge, con modificazioni, del decreto-legge 6 febbraio 1991, n. 35, recante norme sulla gestione transitoria delle unita' sanitarie locali.
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore della legge: 7/4/1991
-
-Art. 1
-------
-
-(( PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N.112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) ))
-
-.   
-
-Allegato
-
- ALLEGATO   
-
-(( PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N.112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO,   
-CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) ))
-
-.   
+(( PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N.112, CONVERTITO, 
+ CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 )).

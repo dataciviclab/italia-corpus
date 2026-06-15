@@ -1,31 +1,24 @@
-DECRETO-LEGGE 15 marzo 1996 n. 124
+---
+tipo: DECRETO-LEGGE
+numero: 124
+data: 1996-03-15
+titolo: "Regime comunitario di produzione lattiera."
+urn: urn:nir:stato:decreto.legge:1996-03-15;124
+codice_redazionale: 096G0149
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 15 marzo 1996 n. 124
-==================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 20 DICEMBRE 1996, N. 642](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20ottobre%201996%20n.%20552%20recante%20interventi%20urgenti%20nei%20settori%20agricoli%20e%20fermo%20biologico%20della%20pesca%20per%20il%201996.md)
 
-Regime comunitario di produzione lattiera.
-------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 17-3-1996.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 20 DICEMBRE 1996, N. 642](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20ottobre%201996%20n.%20552%20recante%20interventi%20urgenti%20nei%20settori%20agricoli%20e%20fermo%20biologico%20della%20pesca%20per%20il%201996.md)
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 20 DICEMBRE 1996, N. 642](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-20;642)
-  
-
-Art. 2
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 20 DICEMBRE 1996, N. 642](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-20;642)
-  
-
-Art. 3
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 20 DICEMBRE 1996, N. 642](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-20;642)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 20 DICEMBRE 1996, N. 642](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20ottobre%201996%20n.%20552%20recante%20interventi%20urgenti%20nei%20settori%20agricoli%20e%20fermo%20biologico%20della%20pesca%20per%20il%201996.md)

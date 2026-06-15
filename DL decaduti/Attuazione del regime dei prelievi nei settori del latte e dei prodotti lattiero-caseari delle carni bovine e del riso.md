@@ -1,115 +1,93 @@
-DECRETO-LEGGE 29 ottobre 1964 n. 1014
+---
+tipo: DECRETO-LEGGE
+numero: 1014
+data: 1964-10-29
+titolo: "Attuazione del regime dei prelievi nei settori del latte e dei prodotti lattiero-caseari, delle carni bovine e del riso."
+urn: urn:nir:stato:decreto.legge:1964-10-29;1014
+codice_redazionale: 064U1014
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 29 ottobre 1964 n. 1014
-=====================================
+DECRETO DECADUTO
 
-Attuazione del regime dei prelievi nei settori del latte e dei prodotti lattiero-caseari, delle carni bovine e del riso.
-------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 3
-------
+## Art. 5.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 4
-------
+## Art. 6.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 5
-------
+## Art. 7.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 6
-------
+## Art. 8.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 7
-------
+## Art. 9.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 8
-------
+## Art. 10.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 9
-------
+## Art. 11.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 10
--------
+## Art. 12.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 11
--------
+## Art. 13.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 12
--------
+## Art. 14.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 13
--------
+## Art. 15.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 14
--------
+## Art. 16.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 15
--------
+## Art. 17.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 16
--------
+## Art. 18.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 17
--------
+## Art. 19.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 18
--------
+## Art. 20.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 19
--------
+## Art. 21.
 
- DECRETO DECADUTO  
-
-Art. 20
--------
-
- DECRETO DECADUTO  
-
-Art. 21
--------
-
- DECRETO DECADUTO  
+DECRETO DECADUTO

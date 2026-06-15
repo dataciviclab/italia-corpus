@@ -1,22 +1,17 @@
-DECRETO-LEGGE 21 aprile 1993 n. 115
+---
+tipo: DECRETO-LEGGE
+numero: 115
+data: 1993-04-21
+titolo: "Acquisizione al demanio dello Stato della Villa Blanc di Roma."
+urn: urn:nir:stato:decreto.legge:1993-04-21;115
+codice_redazionale: 093G0179
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 21 aprile 1993 n. 115
-===================================
+DECRETO DECADUTO
 
-Acquisizione al demanio dello Stato della Villa Blanc di Roma.
---------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 22/04/1993.Decreto-Legge decaduto per mancata conversione.
-
-Art. 1
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 2
-------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

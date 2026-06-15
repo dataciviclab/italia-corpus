@@ -1,16 +1,14 @@
-LEGGE 14 giugno 1934 n. 1122
+---
+tipo: LEGGE
+numero: 1122
+data: 1934-06-14
+titolo: "Conversione in legge del R. decreto-legge 9 aprile 1934, n. 607, che modifica il regime doganale del legname e dei prodotti derivati. (034U1122)"
+urn: urn:nir:stato:legge:1934-06-14;1122
+codice_redazionale: 034U1122
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 14 giugno 1934 n. 1122
-============================
-
-Conversione in legge del R. decreto-legge 9 aprile 1934, n. 607, che modifica il regime doganale del legname e dei prodotti derivati. (034U1122)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/07/1934
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

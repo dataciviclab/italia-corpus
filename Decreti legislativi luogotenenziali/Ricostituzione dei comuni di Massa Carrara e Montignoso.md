@@ -1,14 +1,14 @@
-DECRETO LEGISLATIVO LUOGOTENENZIALE 01 marzo 1946 n. 48
-
-
-DECRETO LEGISLATIVO LUOGOTENENZIALE 01 marzo 1946 n. 48
-=======================================================
-
-Ricostituzione dei comuni di Massa, Carrara e Montignoso.
----------------------------------------------------------
+---
+tipo: DECRETO LEGISLATIVO LUOGOTENENZIALE
+numero: 48
+data: 1946-03-01
+titolo: "Ricostituzione dei comuni di Massa, Carrara e Montignoso."
+urn: urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-01;48
+codice_redazionale: 046U0048
+vigente: true
+---
 
 UMBERTO DI SAVOIA
------------------
 
 PRINCIPE DI PIEMONTE
 
@@ -16,64 +16,46 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 16 dicembre 1938, n. 1860](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-12-16;1860);
+Visto il [R. decreto 16 dicembre 1938, n. 1860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-12-16;1860);
 
-Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
+Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-02-01;58);
+Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno; Abbiamo sanzionato e promulghiamo quanto segue:
 
-proposta del Ministro Segretario di Stato per gli affari dell'interno; Abbiamo sanzionato e promulghiamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+I comuni di Massa, Carrara e Montignoso, riuniti in un solo comune denominato Apuania con [R. decreto 16 dicembre 1938, n. 1860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-12-16;1860), sono ricostituiti con la circoscrizione preesistente all'entrata in vigore del decreto medesimo.
 
-  
-  
-I comuni di Massa, Carrara e Montignoso, riuniti in un solo comune denominato Apuania con [R. decreto 16 dicembre 1938, n. 1860](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-12-16;1860), sono ricostituiti con la circoscrizione preesistente all'entrata in vigore del decreto medesimo.   
+## Art. 2.
 
-Art. 2
-------
+La provincia di Apuania riprendera' l'antica denominazione di Massa-Carrara e avra' il suo capoluogo nel comune di Massa.
 
-  
-  
-La provincia di Apuania riprendera' l'antica denominazione di Massa-Carrara e avra' il suo capoluogo nel comune di Massa.   
+## Art. 3.
 
-Art. 3
-------
+Il Prefetto della provincia di Massa Carrara, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i comuni di Massa, Carrara e Montignoso.
 
-  
-  
-Il Prefetto della provincia di Massa Carrara, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i comuni di Massa, Carrara e Montignoso.   
+## Art. 4.
 
-Art. 4
-------
+Gli organici dei ricostituiti comuni di Massa, Carrara e Montignoso saranno stabiliti dal Prefetto, sentita la Giunta provinciale amministrativa. 
+ Il numero dei posti ed i gradi relativi non potranno essere superiori, rispettivamente, a quelli organicamente assegnati ai Comuni suddetti anteriormente alla loro fusione disposta con [R. decreto 16 dicembre 1938, n. 1860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-12-16;1860). 
+ Al personale gia' in servizio presso l'unico comune di Apuania, che sara' inquadrato nei, predetti organici non potranno essere attribuiti posizione gerarchica e trattamento economico superiori a quelli goduti all'atto dell'inquadramento medesimo.
 
-  
-  
-Gli organici dei ricostituiti comuni di Massa, Carrara e Montignoso saranno stabiliti dal Prefetto, sentita la Giunta provinciale amministrativa.   
-Il numero dei posti ed i gradi relativi non potranno essere superiori, rispettivamente, a quelli organicamente assegnati ai Comuni suddetti anteriormente alla loro fusione disposta con [R. decreto 16 dicembre 1938, n. 1860](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-12-16;1860).   
-Al personale gia' in servizio presso l'unico comune di Apuania, che sara' inquadrato nei, predetti organici non potranno essere attribuiti posizione gerarchica e trattamento economico superiori a quelli goduti all'atto dell'inquadramento medesimo.   
+## Art. 5.
 
-Art. 5
-------
-
-  
-  
-Il presente decreto entrera' in vigore lo stesso giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.   
-  
-Dato a Roma, addi' 1° marzo 1946   
-  
-UMBERTO DI SAVOIA   
-  
-DE GASPERI - ROMITA   
-  
-Visto, il Guardasigilli: TOGLIATTI   
-Registrato alla Corte dei conti, addi' 2 marzo 1946   
-Atti del Governo, registro n. 9, foglio n. 10. - FRASCA   
+Il presente decreto entrera' in vigore lo stesso giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato. 
+ 
+ Dato a Roma, addi' 1° marzo 1946 
+ 
+ UMBERTO DI SAVOIA 
+ 
+ DE GASPERI - ROMITA 
+ 
+Visto, il Guardasigilli: TOGLIATTI 
+ Registrato alla Corte dei conti, addi' 2 marzo 1946 
+ Atti del Governo, registro n. 9, foglio n. 10. - FRASCA

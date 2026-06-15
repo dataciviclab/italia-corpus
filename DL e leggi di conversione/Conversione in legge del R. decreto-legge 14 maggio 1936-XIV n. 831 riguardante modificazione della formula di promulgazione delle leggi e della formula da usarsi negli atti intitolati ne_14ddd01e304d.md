@@ -1,16 +1,14 @@
-LEGGE 28 dicembre 1936 n. 2274
+---
+tipo: LEGGE
+numero: 2274
+data: 1936-12-28
+titolo: "Conversione in legge del R. decreto-legge 14 maggio 1936-XIV, n. 831, riguardante modificazione della formula di promulgazione delle leggi e della formula da usarsi negli atti intitolati nel Nome del Re. (036U2274)"
+urn: urn:nir:stato:legge:1936-12-28;2274
+codice_redazionale: 036U2274
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 28 dicembre 1936 n. 2274
-==============================
-
-Conversione in legge del R. decreto-legge 14 maggio 1936-XIV, n. 831, riguardante modificazione della formula di promulgazione delle leggi e della formula da usarsi negli atti intitolati nel Nome del Re. (036U2274)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/01/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

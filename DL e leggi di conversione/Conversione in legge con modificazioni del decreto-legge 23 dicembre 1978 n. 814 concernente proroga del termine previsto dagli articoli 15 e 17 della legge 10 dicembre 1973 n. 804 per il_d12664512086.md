@@ -1,18 +1,17 @@
-LEGGE 19 febbraio 1979 n. 52
+---
+tipo: LEGGE
+numero: 52
+data: 1979-02-19
+titolo: "Conversione in legge, con modificazioni, del decreto-legge 23 dicembre 1978, n. 814, concernente proroga del termine previsto dagli articoli 15 e 17 della legge 10 dicembre 1973, n. 804, per il collocamento in aspettativa per riduzione di quadri degli ufficiali delle Forze armate e dei Corpi di polizia."
+urn: urn:nir:stato:legge:1979-02-19;52
+codice_redazionale: 079U0052
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 19 febbraio 1979 n. 52
-============================
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66))
 
-Conversione in legge, con modificazioni, del decreto-legge 23 dicembre 1978, n. 814, concernente proroga del termine previsto dagli articoli 15 e 17 della legge 10 dicembre 1973, n. 804, per il collocamento in aspettativa per riduzione di quadri degli ufficiali delle Forze armate e dei Corpi di polizia.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66))

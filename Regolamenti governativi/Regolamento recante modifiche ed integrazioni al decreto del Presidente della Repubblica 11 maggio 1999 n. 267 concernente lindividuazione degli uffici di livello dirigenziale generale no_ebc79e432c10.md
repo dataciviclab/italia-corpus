@@ -1,43 +1,37 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 giugno 2002 n. 157
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 157
+data: 2002-06-24
+titolo: "Regolamento recante modifiche ed integrazioni al decreto del Presidente della Repubblica 11 maggio 1999, n. 267, concernente l'individuazione degli uffici di livello dirigenziale generale, nonche' delle relative funzioni, dell'amministrazione centrale del Ministero degli affari esteri."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2002-06-24;157
+codice_redazionale: 002G0196
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 giugno 2002 n. 157
-=============================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 DICEMBRE 2007, N. 258))
 
-Regolamento recante modifiche ed integrazioni al decreto del Presidente della Repubblica 11 maggio 1999, n. 267, concernente l'individuazione degli uffici di livello dirigenziale generale, nonche' delle relative funzioni, dell'amministrazione centrale del Ministero degli affari esteri.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 DICEMBRE 2007, N. 258))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 DICEMBRE 2007, N. 258](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-12-19;258)))
+## Art. 3.
 
-Art. 2
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 DICEMBRE 2007, N. 258))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 DICEMBRE 2007, N. 258](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-12-19;258)))
+## Art. 4.
 
-Art. 3
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 DICEMBRE 2007, N. 258))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 DICEMBRE 2007, N. 258](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-12-19;258)))
+## Art. 5.
 
-Art. 4
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 DICEMBRE 2007, N. 258))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 DICEMBRE 2007, N. 258](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-12-19;258)))
+## Art. 6.
 
-Art. 5
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 DICEMBRE 2007, N. 258))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 DICEMBRE 2007, N. 258](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-12-19;258)))
+## Art. 7.
 
-Art. 6
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 DICEMBRE 2007, N. 258](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-12-19;258)))
-
-Art. 7
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 DICEMBRE 2007, N. 258](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-12-19;258)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 DICEMBRE 2007, N. 258))

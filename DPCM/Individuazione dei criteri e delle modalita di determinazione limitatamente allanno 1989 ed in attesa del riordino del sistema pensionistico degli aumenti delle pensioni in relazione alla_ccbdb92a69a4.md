@@ -1,61 +1,54 @@
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 09 dicembre 1988 n. 525
-
-
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 09 dicembre 1988 n. 525
-=========================================================================
-
-Individuazione dei criteri e delle modalita' di determinazione, limitatamente all'anno 1989 ed in attesa del riordino del sistema pensionistico, degli aumenti delle pensioni in relazione alla variazione media delle retribuzioni contrattuali dei lavoratori dipendenti privati e pubblici, in attuazione dell'art. 21, comma 5, della legge 11 marzo 1988, n. 67 (legge finanziaria 1988).
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 28/12/1988
+---
+tipo: DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
+numero: 525
+data: 1988-12-09
+titolo: "Individuazione dei criteri e delle modalita' di determinazione, limitatamente all'anno 1989 ed in attesa del riordino del sistema pensionistico, degli aumenti delle pensioni in relazione alla variazione media delle retribuzioni contrattuali dei lavoratori dipendenti privati e pubblici, in attuazione dell'art. 21, comma 5, della legge 11 marzo 1988, n. 67 (legge finanziaria 1988)."
+urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:1988-12-09;525
+codice_redazionale: 088G0603
+vigente: true
+---
 
 IL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
-----------------------------------------
 
-Visti gli [articoli 21 della legge 27 dicembre 1983, n. 730](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-12-27;730~art21), e 24 della [legge 28 febbraio 1986, n. 41](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41), recanti la disciplina della perequazione automatica delle pensioni ed in particolare le disposizioni concernenti la determinazione delle percentuali di variazione per il calcolo degli aumenti derivanti dalla dinamica salariale, degli aumenti semestrali e dei conguagli;
+Visti gli [articoli 21 della legge 27 dicembre 1983, n. 730](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201984.md), e 24 della [legge 28 febbraio 1986, n. 41](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md), recanti la disciplina della perequazione automatica delle pensioni ed in particolare le disposizioni concernenti la determinazione delle percentuali di variazione per il calcolo degli aumenti derivanti dalla dinamica salariale, degli aumenti semestrali e dei conguagli;
 
-Visto l'[art. 21, comma 5, della legge 11 marzo 1988, n. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67~art21-com5), concernente la determinazione dei criteri e delle modalita' relativi agli aumenti delle pensioni per dinamica salariale per l'anno 1989, nonche' la copertura degli oneri che ne derivano;
+Visto l'[art. 21, comma 5, della legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md), concernente la determinazione dei criteri e delle modalita' relativi agli aumenti delle pensioni per dinamica salariale per l'anno 1989, nonche' la copertura degli oneri che ne derivano;
 
 Acquisito il parere delle competenti commissioni parlamentari;
 
-Sulla
------
+Sulla proposta del Ministro del lavoro e della previdenza sociale e del Ministro del tesoro; Decreta:
 
-proposta del Ministro del lavoro e della previdenza sociale e del Ministro del tesoro; Decreta:
+## Art. 1.
 
-Art. 1
-------
+1.
 
-1. In attesa del riordino del sistema pensionistico, limitatamente all'anno 1989, la misura degli aumenti delle pensioni ai sensi dell'[art. 21, comma settimo, della legge 27 dicembre 1983, n. 730](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-12-27;730~art21-com7), e' calcolata secondo i seguenti criteri e modalita' di determinazione:
+In attesa del riordino del sistema pensionistico, limitatamente all'anno 1989, la misura degli aumenti delle pensioni ai sensi dell'[art. 21, comma settimo, della legge 27 dicembre 1983, n. 730](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201984.md), e' calcolata secondo i seguenti criteri e modalita' di determinazione:
+                        a)
+                            si calcola la retribuzione media complessiva con riferimento al periodo agosto 1986-luglio 1987, riguardante i settori ed i comparti privati e pubblici presi in considerazione dall'Istituto centrale di statistica nelle elaborazioni correnti degli indici delle retribuzioni contrattuali;
+                        b)
+                            si calcola l'incremento retributivo medio assoluto determinatosi nel periodo agosto 1987-luglio 1988, relativamente agli stessi settori e comparti di cui alla lettera a), al netto dell'incremento dovuto agli scatti di anzianita', ai meccanismi di scala mobile e ai trattamenti di famiglia, comunque denominati; detto incremento e' rettificato per tenere conto integralmente di arretrati derivanti da eventuali ritardi nella conclusione di accordi contrattuali privati e pubblici, comunque avvenuta nel corso dello stesso periodo;
+                        c)
+                            si calcola la variazione percentuale risultante dal rapporto tra il valore medio di cui alla lettera b) e quello di cui alla lettera a);
+                        d)
+                            si calcola l'incremento retributivo medio assoluto complessivo determinatosi nel periodo agosto 1987-luglio 1988, al lordo di quello dovuto agli scatti di anzianita' ed ai meccanismi di scala mobile; detto incremento e' rettificato per tenere conto integralmente di arretrati derivanti da eventuali ritardi nella conclusione di accordi contrattuali privati e pubblici, comunque avvenuta nel corso dello stesso periodo;
+                        e)
+                            si calcola la variazione percentuale risultante dal rapporto tra il valore medio di cui alla lettera d) e quello di cui alla lettera a);
+                        f)
+                            si calcola la variazione percentuale complessiva risultante dalle percentuali di variazione dell'indice del costo della vita accertate in via definitiva per l'anno 1988 ai fini della perequazione automatica semestrale delle pensioni;
+                        g)
+                            si determina la percentuale di aumento da applicare per la perequazione delle pensioni relativa alla dinamica salariale, agli effetti dell'[art. 21, comma settimo, della legge 27 dicembre 1983, n. 
+730](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201984.md), in misura pari alla parte di variazione di cui alla lettera c) corrispondente alla differenza tra la variazione di cui alla lettera e) e quella di cui alla lettera f).
 
-a) si calcola la retribuzione media complessiva con riferimento al periodo agosto 1986-luglio 1987, riguardante i settori ed i comparti privati e pubblici presi in considerazione dall'Istituto centrale di statistica nelle elaborazioni correnti degli indici delle retribuzioni contrattuali;
+2.
 
-b) si calcola l'incremento retributivo medio assoluto determinatosi nel periodo agosto 1987-luglio 1988, relativamente agli stessi settori e comparti di cui alla lettera a), al netto dell'incremento dovuto agli scatti di anzianita', ai meccanismi di scala mobile e ai trattamenti di famiglia, comunque denominati; detto incremento e' rettificato per tenere conto integralmente di arretrati derivanti da eventuali ritardi nella conclusione di accordi contrattuali privati e pubblici, comunque avvenuta nel corso dello stesso periodo;
+L'Istituto centrale di statistica deve comunicare immediatamente ai Ministri del tesoro e del lavoro e della previdenza sociale i risultati delle elaborazioni di cui al comma 1.
 
-c) si calcola la variazione percentuale risultante dal rapporto tra il valore medio di cui alla lettera b) e quello di cui alla lettera a);
+3.
 
-d) si calcola l'incremento retributivo medio assoluto complessivo determinatosi nel periodo agosto 1987-luglio 1988, al lordo di quello dovuto agli scatti di anzianita' ed ai meccanismi di scala mobile; detto incremento e' rettificato per tenere conto integralmente di arretrati derivanti da eventuali ritardi nella conclusione di accordi contrattuali privati e pubblici, comunque avvenuta nel corso dello stesso periodo;
-
-e) si calcola la variazione percentuale risultante dal rapporto tra il valore medio di cui alla lettera d) e quello di cui alla lettera a);
-
-f) si calcola la variazione percentuale complessiva risultante dalle percentuali di variazione dell'indice del costo della vita accertate in via definitiva per l'anno 1988 ai fini della perequazione automatica semestrale delle pensioni;
-
-g) si determina la percentuale di aumento da applicare per la perequazione delle pensioni relativa alla dinamica salariale, agli effetti dell'[art. 21, comma settimo, della legge 27 dicembre 1983, n.   
-730](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-12-27;730~art21-com7), in misura pari alla parte di variazione di cui alla lettera c) corrispondente alla differenza tra la variazione di cui alla lettera e) e quella di cui alla lettera f).
-
-2. L'Istituto centrale di statistica deve comunicare immediatamente ai Ministri del tesoro e del lavoro e della previdenza sociale i risultati delle elaborazioni di cui al comma 1.
-
-3. Al maggior onere derivante dagli aumenti delle pensioni per dinamica salariale, ai sensi delle disposizioni del presente decreto, rispetto agli aumenti determinati dalla differenza tra la variazione percentuale dell'indice delle retribuzioni minime, di cui
-
-(( all' [art. 9 della legge 3 giugno 1975, n. 160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-06-03;160~art9), e la variazione percentuale dell'indice del costo della vita di cui ))
-
-all'[art. 19 della legge 30 aprile 1969, n. 153](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-30;153~art19), e successive modificazioni, si fa fronte, ove occorra sulla base del fabbisogno delle singole gestioni, mediante corrispondenti aumenti delle aliquote contributive disposti, con effetto dal periodo di paga in corso al 1 gennaio 1989, secondo le procedure e le modalita' previste dall'ordinamento di ciascuna gestione; per le forme pensionistiche di cui all'[art. 1 della legge 29 aprile 1976, n. 177](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-29;177~art1), gli anzidetti aumenti delle aliquote contributive sono disposti con decreto del Ministro del tesoro.
+Al maggior onere derivante dagli aumenti delle pensioni per dinamica salariale, ai sensi delle disposizioni del presente decreto, rispetto agli aumenti determinati dalla differenza tra la variazione percentuale dell'indice delle retribuzioni minime, di cui (( all' art. 9 della legge 3 giugno 1975, n. 160, e la variazione percentuale dell'indice del costo della vita di cui )) all'[art. 19 della legge 30 aprile 1969, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-30;153#art_19), e successive modificazioni, si fa fronte, ove occorra sulla base del fabbisogno delle singole gestioni, mediante corrispondenti aumenti delle aliquote contributive disposti, con effetto dal periodo di paga in corso al 1 gennaio 1989, secondo le procedure e le modalita' previste dall'ordinamento di ciascuna gestione; per le forme pensionistiche di cui all'[art. 1 della legge 29 aprile 1976, n. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-29;177#art_1), gli anzidetti aumenti delle aliquote contributive sono disposti con decreto del Ministro del tesoro.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, addi' 9 dicembre 1988
+Roma, addi' 9 dicembre 1988
 
-Il Presidente del Consiglio dei Ministri DE MITA Il Ministro del lavoro e della previdenza sociale FORMICA Il Ministro del tesoro AMATO
-
-Visto, il Guardasigilli: VASSALLI
+Il Presidente del Consiglio dei Ministri DE MITA Il Ministro del lavoro e della previdenza sociale FORMICA Il Ministro del tesoro AMATO Visto, il Guardasigilli: VASSALLI

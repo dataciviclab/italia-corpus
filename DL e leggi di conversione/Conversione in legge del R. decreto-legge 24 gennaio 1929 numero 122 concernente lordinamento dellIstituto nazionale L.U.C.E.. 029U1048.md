@@ -1,16 +1,14 @@
-LEGGE 24 giugno 1929 n. 1048
+---
+tipo: LEGGE
+numero: 1048
+data: 1929-06-24
+titolo: "Conversione in legge del R. decreto-legge 24 gennaio 1929, numero 122, concernente l'ordinamento dell'Istituto nazionale «L.U.C.E.». (029U1048)"
+urn: urn:nir:stato:legge:1929-06-24;1048
+codice_redazionale: 029U1048
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 24 giugno 1929 n. 1048
-============================
-
-Conversione in legge del R. decreto-legge 24 gennaio 1929, numero 122, concernente l'ordinamento dell'Istituto nazionale «L.U.C.E.». (029U1048)
------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/07/1929
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

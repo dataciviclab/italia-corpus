@@ -1,74 +1,77 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1998 n. 403
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 403
+data: 1998-10-20
+titolo: "Regolamento di attuazione degli articoli 1, 2 e 3 della legge 15 maggio 1997, n. 127, in materia di semplificazione delle certificazioni amministrative."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1998-10-20;403
+codice_redazionale: 098G0455
+vigente: true
+---
 
+## Disposizioni in materia di dichiarazioni sostitutive
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1998 n. 403
-==============================================================
+Capo I
 
-Regolamento di attuazione degli articoli 1, 2 e 3 della legge 15 maggio 1997, n. 127, in materia di semplificazione delle certificazioni amministrative.
---------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del decreto: 9/12/1998
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 28 DICEMBRE 2000, N. 445))
 
-CAPO I Capo I Disposizioni in materia di dichiarazioni sostitutive
-------------------------------------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 28 DICEMBRE 2000, N. 445))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 28 DICEMBRE 2000, N. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445)))
+### Art. 3.
 
-### Art. 2
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 28 DICEMBRE 2000, N. 445))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 28 DICEMBRE 2000, N. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445)))
+### Art. 4.
 
-### Art. 3
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 28 DICEMBRE 2000, N. 445))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 28 DICEMBRE 2000, N. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445)))
+### Art. 5.
 
-### Art. 4
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 28 DICEMBRE 2000, N. 445))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 28 DICEMBRE 2000, N. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445)))
+### Art. 6.
 
-### Art. 5
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 28 DICEMBRE 2000, N. 445))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 28 DICEMBRE 2000, N. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445)))
+## Acquisizione diretta di documenti da parte delle pubbliche amministrazioni ed esibizione di documenti di riconoscimento da parte degli interessati.
 
-### Art. 6
+Capo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 28 DICEMBRE 2000, N. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445)))
+### Art. 7.
 
-CAPO II Capo II Acquisizione diretta di documenti da parte delle pubbliche amministrazioni ed esibizione di documenti di riconoscimento da parte degli interessati.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 28 DICEMBRE 2000, N. 445))
 
-### Art. 7
+### Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 28 DICEMBRE 2000, N. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 28 DICEMBRE 2000, N. 445))
 
-### Art. 8
+### Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 28 DICEMBRE 2000, N. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 28 DICEMBRE 2000, N. 445))
 
-### Art. 9
+## Attestazioni di soggetti privati e certificati non sostituibili con altri strumenti di certezza
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 28 DICEMBRE 2000, N. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445)))
+Capo III
 
-CAPO III Capo III Attestazioni di soggetti privati e certificati non sostituibili con altri strumenti di certezza
------------------------------------------------------------------------------------------------------------------
+### Art. 10.
 
-### Art. 10
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 28 DICEMBRE 2000, N. 445))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 28 DICEMBRE 2000, N. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445)))
+## Disposizioni finali
 
-CAPO IV Capo IV Disposizioni finali
------------------------------------
+Capo IV
 
-### Art. 11
+### Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 28 DICEMBRE 2000, N. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 28 DICEMBRE 2000, N. 445))
 
-### Art. 12
+### Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 28 DICEMBRE 2000, N. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 28 DICEMBRE 2000, N. 445))
 
-### Art. 13
+### Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 28 DICEMBRE 2000, N. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 28 DICEMBRE 2000, N. 445))

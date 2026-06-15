@@ -1,16 +1,14 @@
-LEGGE 30 dicembre 1926 n. 2490
+---
+tipo: LEGGE
+numero: 2490
+data: 1926-12-30
+titolo: "Conversione in legge del R. decreto 21 febbraio 1926, n. 439, riflettente l'assegnazione straordinaria di 3 milioni al bilancio della Somalia per il riscatto di opere di pubblica utilita'. (026U2490)"
+urn: urn:nir:stato:legge:1926-12-30;2490
+codice_redazionale: 026U2490
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 30 dicembre 1926 n. 2490
-==============================
-
-Conversione in legge del R. decreto 21 febbraio 1926, n. 439, riflettente l'assegnazione straordinaria di 3 milioni al bilancio della Somalia per il riscatto di opere di pubblica utilita'. (026U2490)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/07/1927
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

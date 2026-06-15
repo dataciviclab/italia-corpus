@@ -1,114 +1,113 @@
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 11 febbraio 2014 n. 72
+---
+tipo: DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
+numero: 72
+data: 2014-02-11
+titolo: "Regolamento di organizzazione del Ministero delle infrastrutture e dei trasporti, ai sensi dell'articolo 2 del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135. (14G00084)"
+urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2014-02-11;72
+codice_redazionale: 14G00084
+vigente: true
+---
 
+## Organizzazione del Ministero
 
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 11 febbraio 2014 n. 72
-========================================================================
+Capo I
 
-Regolamento di organizzazione del Ministero delle infrastrutture e dei trasporti, ai sensi dell'articolo 2 del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135. (14G00084)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del provvedimento: 23/05/2014
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 23 DICEMBRE 2020, N. 190))
 
-CAPO I Capo I Organizzazione del Ministero
-------------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 23 DICEMBRE 2020, N. 190))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 23 DICEMBRE 2020, N. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2020-12-23;190)))
+### Art. 3.
 
-### Art. 2
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 23 DICEMBRE 2020, N. 190))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 23 DICEMBRE 2020, N. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2020-12-23;190)))
+## Dipartimenti
 
-### Art. 3
+Capo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 23 DICEMBRE 2020, N. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2020-12-23;190)))
+### Art. 4.
 
-CAPO II Capo II Dipartimenti
-----------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 23 DICEMBRE 2020, N. 190))
 
-### Art. 4
+## Articolazione dei Dipartimenti
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 23 DICEMBRE 2020, N. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2020-12-23;190)))
+Capo III
 
-CAPO III Capo III Articolazione dei Dipartimenti
-------------------------------------------------
+### Art. 5.
 
-### Art. 5
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 23 DICEMBRE 2020, N. 190))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 23 DICEMBRE 2020, N. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2020-12-23;190)))
+### Art. 6.
 
-### Art. 6
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 23 DICEMBRE 2020, N. 190))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 23 DICEMBRE 2020, N. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2020-12-23;190)))
+## Organizzazione territoriale
 
-CAPO IV Capo IV Organizzazione territoriale
--------------------------------------------
+Capo IV
 
-### Art. 7
+### Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 23 DICEMBRE 2020, N. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2020-12-23;190)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 23 DICEMBRE 2020, N. 190))
 
-### Art. 8
+### Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 23 DICEMBRE 2020, N. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2020-12-23;190)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 23 DICEMBRE 2020, N. 190))
 
-### Art. 9
+### Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 23 DICEMBRE 2020, N. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2020-12-23;190)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 23 DICEMBRE 2020, N. 190))
 
-### Art. 10
+### Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 23 DICEMBRE 2020, N. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2020-12-23;190)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 23 DICEMBRE 2020, N. 190))
 
-### Art. 11
+### Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 23 DICEMBRE 2020, N. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2020-12-23;190)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 23 DICEMBRE 2020, N. 190))
 
-### Art. 12
+### Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 23 DICEMBRE 2020, N. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2020-12-23;190)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 23 DICEMBRE 2020, N. 190))
 
-CAPO V Capo V Comando generale del Corpo delle Capitanerie di Porto
--------------------------------------------------------------------
+## Comando generale del Corpo delle Capitanerie di Porto
 
-### Art. 13
+Capo V
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 23 DICEMBRE 2020, N. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2020-12-23;190)))
+### Art. 13.
 
-CAPO VI Capo VI Organismi ed istituzioni operanti nel Ministero
----------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 23 DICEMBRE 2020, N. 190))
 
-### Art. 14
+## Organismi ed istituzioni operanti nel Ministero
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 23 DICEMBRE 2020, N. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2020-12-23;190)))
+Capo VI
 
-### Art. 15
+### Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 23 DICEMBRE 2020, N. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2020-12-23;190)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 23 DICEMBRE 2020, N. 190))
 
-CAPO VII Capo VII Dotazione organica e norme finali
----------------------------------------------------
+### Art. 15.
 
-### Art. 16
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 23 DICEMBRE 2020, N. 190))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 23 DICEMBRE 2020, N. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2020-12-23;190)))
+## Dotazione organica e norme finali
 
-### Art. 17
+Capo VII
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 23 DICEMBRE 2020, N. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2020-12-23;190)))
+### Art. 16.
 
-### Art. 18
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 23 DICEMBRE 2020, N. 190))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 23 DICEMBRE 2020, N. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2020-12-23;190)))
+### Art. 17.
 
-### Art. 19
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 23 DICEMBRE 2020, N. 190))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 23 DICEMBRE 2020, N. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2020-12-23;190)))
+### Art. 18.
 
-Tabella A
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 23 DICEMBRE 2020, N. 190))
 
- Tabella A   
-  
+### Art. 19.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 23 DICEMBRE 2020, N. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2020-12-23;190)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 23 DICEMBRE 2020, N. 190))

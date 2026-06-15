@@ -1,32 +1,30 @@
-DECRETO 07 luglio 1993 n. 327
-
-
-DECRETO 07 luglio 1993 n. 327
-=============================
-
-Regolamento recante modificazioni al regolamento per la disciplina delle modalita' di uso e di custodia delle matrici dei moduli di mandato di pagamento usati per la corresponsione delle pensioni, assegni ed indennita' spettanti ai mutilati ed invalidi civili, ai ciechi civili e ai sordomuti, approvato con decreto ministeriale 30 giugno 1990, n. 197.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 12/09/1993
+---
+tipo: DECRETO
+numero: 327
+data: 1993-07-07
+titolo: "Regolamento recante modificazioni al regolamento per la disciplina delle modalita' di uso e di custodia delle matrici dei moduli di mandato di pagamento usati per la corresponsione delle pensioni, assegni ed indennita' spettanti ai mutilati ed invalidi civili, ai ciechi civili e ai sordomuti, approvato con decreto ministeriale 30 giugno 1990, n. 197."
+urn: urn:nir:ministero.interno:decreto:1993-07-07;327
+codice_redazionale: 093G0405
+vigente: true
+---
 
 IL MINISTRO DELL'INTERNO
-------------------------
 
 DI CONCERTO CON
 
 IL MINISTRO DEL TESORO
 
-Vista la [legge 18 dicembre 1973, n. 854](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-18;854), concernente modalita' di erogazione degli assegni, delle pensioni ed indennita' di accompagnamento a favore dei sordomuti, dei ciechi civili e dei mutilati ed invalidi civili;
+Vista la [legge 18 dicembre 1973, n. 854](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-18;854), concernente modalita' di erogazione degli assegni, delle pensioni ed indennita' di accompagnamento a favore dei sordomuti, dei ciechi civili e dei mutilati ed invalidi civili;
 
-Vista la [legge 29 maggio 1989, n. 211](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-29;211), concernente modifiche ed integrazioni alla [legge n. 854 del 18 dicembre 1973](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-18;854);
+Vista la [legge 29 maggio 1989, n. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-29;211), concernente modifiche ed integrazioni alla [legge n. 854 del 18 dicembre 1973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-18;854);
 
 Visto il proprio decreto 30 giugno 1990, n. 197, emanato di concerto con il Ministro del tesoro per stabilire, ai sensi dell'art.
 
-3, comma 4, della menzionata [legge n. 211/1989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;211), le modalita' necessarie per l'uso e la custodia delle matrici recanti le firme a stampa dei funzionari di cui al comma 2 del succitato art. 3;
+3, comma 4, della menzionata [legge n. 211/1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;211), le modalita' necessarie per l'uso e la custodia delle matrici recanti le firme a stampa dei funzionari di cui al comma 2 del succitato art. 3;
 
-Ritenuta la necessita', a causa di sopravvenute esigenze di ordine tecnico, di sostituire, per quanto concerne i procedimenti di riproduzione delle firme e dei timbri sui moduli di mandato di pagamento, i riferimenti ai "cliche's fotografici", contenuti nel sopraindicato [decreto ministeriale n. 197/1990](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1990;197), con quelli a "supporti magnetici";
+Ritenuta la necessita', a causa di sopravvenute esigenze di ordine tecnico, di sostituire, per quanto concerne i procedimenti di riproduzione delle firme e dei timbri sui moduli di mandato di pagamento, i riferimenti ai "cliche's fotografici", contenuti nel sopraindicato [decreto ministeriale n. 197/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1990;197), con quelli a "supporti magnetici";
 
-Vista la [legge 23 agosto 1988, n. 400, art. 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17);
+Vista la [legge 23 agosto 1988, n. 400, art. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17);
 
 Visto il parere del Consiglio di Stato reso all'adunanza generale del 15 aprile 1993;
 
@@ -34,45 +32,43 @@ Vista la comunicazione fatta al Presidente del Consiglio dei Ministri;
 
 A D O T T A il seguente regolamento:
 
-Articolo unico
---------------
+## Articolo unico
 
-1. Gli [articoli 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.interno:decreto:1990-06-30;197~art1), [2, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.interno:decreto:1990-06-30;197~art2-com1), [3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.interno:decreto:1990-06-30;197~art2-com3), [comma 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.interno:decreto:1990-06-30;197~art2-com2), [6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.interno:decreto:1990-06-30;197~art2-com6), [commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.interno:decreto:1990-06-30;197~art2-com1), [2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.interno:decreto:1990-06-30;197~art2-com2) e [3, del decreto del Ministro dell'interno 30 giugno 1990, n. 197](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.interno:decreto:1990-06-30;197~art2-com3), sono modificati nel senso che le parole "cliche' fotografico" e "cliche's fotografici" sono sostituite rispettivamente con le parole "supporto magnetico" e "supporti magnetici".
+1.
 
-2. L'art. 5, comma 1, del citato [decreto ministeriale 30 giugno 1990, n. 197](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1990-06-30;197), e' modificato nel senso che le parole "con cliche's fotografici" sono sostituite con le parole "in base a supporti magnetici".
+Gli [articoli 1](Regolamento%20per%20la%20disciplina%20delle%20modalita%20di%20uso%20e%20di%20custodia%20delle%20matrici%20dei%20moduli%20di%20mandato%20di%20pagamento%20usati%20per%20la%20corresponsione%20delle%20pensioni%20assegni%20ed%20indennita%20spettant_5c6d17e3eaf1.md), [2, comma 1](Regolamento%20per%20la%20disciplina%20delle%20modalita%20di%20uso%20e%20di%20custodia%20delle%20matrici%20dei%20moduli%20di%20mandato%20di%20pagamento%20usati%20per%20la%20corresponsione%20delle%20pensioni%20assegni%20ed%20indennita%20spettant_5c6d17e3eaf1.md), [3](Regolamento%20per%20la%20disciplina%20delle%20modalita%20di%20uso%20e%20di%20custodia%20delle%20matrici%20dei%20moduli%20di%20mandato%20di%20pagamento%20usati%20per%20la%20corresponsione%20delle%20pensioni%20assegni%20ed%20indennita%20spettant_5c6d17e3eaf1.md), [comma 2](Regolamento%20per%20la%20disciplina%20delle%20modalita%20di%20uso%20e%20di%20custodia%20delle%20matrici%20dei%20moduli%20di%20mandato%20di%20pagamento%20usati%20per%20la%20corresponsione%20delle%20pensioni%20assegni%20ed%20indennita%20spettant_5c6d17e3eaf1.md), [6](Regolamento%20per%20la%20disciplina%20delle%20modalita%20di%20uso%20e%20di%20custodia%20delle%20matrici%20dei%20moduli%20di%20mandato%20di%20pagamento%20usati%20per%20la%20corresponsione%20delle%20pensioni%20assegni%20ed%20indennita%20spettant_5c6d17e3eaf1.md), [commi 1](Regolamento%20per%20la%20disciplina%20delle%20modalita%20di%20uso%20e%20di%20custodia%20delle%20matrici%20dei%20moduli%20di%20mandato%20di%20pagamento%20usati%20per%20la%20corresponsione%20delle%20pensioni%20assegni%20ed%20indennita%20spettant_5c6d17e3eaf1.md), [2](Regolamento%20per%20la%20disciplina%20delle%20modalita%20di%20uso%20e%20di%20custodia%20delle%20matrici%20dei%20moduli%20di%20mandato%20di%20pagamento%20usati%20per%20la%20corresponsione%20delle%20pensioni%20assegni%20ed%20indennita%20spettant_5c6d17e3eaf1.md) e [3, del decreto del Ministro dell'interno 30 giugno 1990, n. 197](Regolamento%20per%20la%20disciplina%20delle%20modalita%20di%20uso%20e%20di%20custodia%20delle%20matrici%20dei%20moduli%20di%20mandato%20di%20pagamento%20usati%20per%20la%20corresponsione%20delle%20pensioni%20assegni%20ed%20indennita%20spettant_5c6d17e3eaf1.md), sono modificati nel senso che le parole "cliche' fotografico" e "cliche's fotografici" sono sostituite rispettivamente con le parole "supporto magnetico" e "supporti magnetici".
+
+2.
+
+L'art. 5, comma 1, del citato [decreto ministeriale 30 giugno 1990, n. 197](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1990-06-30;197), e' modificato nel senso che le parole "con cliche's fotografici" sono sostituite con le parole "in base a supporti magnetici".
+
+AVVERTENZA: 
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il volore e l'efficacia degli atti legislativi qui trascritti. 
+ Note alle premesse: 
+ - Si trascrive il testo dei [commi 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;211#art_3-com2) e [4 dell'art. 3 
+ della legge n. 211/1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;211#art_3-com4): 
+ "2. L'ultimo comma dell'art. 5 della citata [legge 18 dicembre 1973, n. 854](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-18;854), e' sostituito dal seguente: 
+ 'I mandati di pagamento indicati nel primo comma, firmati dal prefetto e, ai fini del riscontro contabile, dal dirigente di ragioneria della prefettura, costituiscono ordini di pagamento; essi debbono contenere l'indicazione dell'ufficio postale pagatore, delle generalita' dell'avente diritto, ed eventualmente del rappresentante legale o della persona delegata alla riscossione, del numero del libretto, dell'importo da corrispondere, del numero di conto corrente postale ove richiesto, della deliberazione del comitato provinciale di assistenza e beneficienza pubblica con il riconoscimento del diritto alla provvidenza. Le firme del prefetto e del dirigente di ragioneria della prefettura sui mandati di pagamento e sugli elenchi, nonche' il timbro della prefettura possono essere impressi a stampa da parte del competente centro elettronico del Ministero dell'interno, salvo che si tratti di titoli non compresi negli elenchi di cui al primo comma. 
+ I fac-simile delle firme sono trasmessi alla competente ragioneria provinciale dello Stato'". 
+ "4. Con decreto del Ministro dell'interno, di concerto con il Ministro del tesoro, saranno stabilite le modalita' necessarie per l'uso e la custodia delle matrici recanti le firme a stampa dei funzionari di cui al comma 2". 
+ - Il [comma 3, dell'art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.
+ Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbono recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale. 
+ Nota all'articolo unico: 
+ Si trascrive il testo vigente del [D.M. n. 197/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1990;197): 
+ "Art. 1. - 1. Le firme dei prefetti, dei dirigenti di ragioneria delle prefetture e dei funzionari che li sostituiscono in caso di assenza, malattia o impedimento nonche' i timbri delle rispettive prefetture, apposti sulle matrici dei moduli di mandato di pagamento usati per la corresponsione delle pensioni, assegni ed indennita' spettanti ai mutilati ed invalidi civili, ai ciechi civili e ai sordomuti, sono riportati su supporti magnetici, in due esemplari, da utilizzare per la sottoscrizione, con procedimento automatizzato, dei titoli di pagamento di cui all'[art. 5, primo comma, della legge 18 dicembre 1973, n. 854](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-18;854#art_5-com1)". 
+ "Art. 2. - 1. Un primo esemplare di ognuno dei supporti magnetici di cui all'articolo precedente e' custodito nella cassaforte della divisione 'Elaborazione dati e teletrasmissioni' del servizio informatica della Direzione centrale per i servizi elettorali del Ministero dell'interno, unitamente al relativo registro inventario. 
+ 2. Ogni variazione nella consistenza ed ogni sostituzione del materiale predetto per cambiamento dei funzionari responsabili, per usura o per altra causa sono fatte constare con apposito verbale redatto sul registro stesso". 
+ "Art. 3. - 1. Le chiavi della cassaforte di cui al primo comma dell'art. 2 del presente decreto sono tenute dal direttore della divisione 'Elaborazione dati e teletrasmissioni' di cui allo stesso art. 2 o, in caso di assenza, malattia o impedimento, dal suo sostituto. 
+ 2. I duplicati delle chiavi della cassaforte di cui al precedente comma, i secondi esemplari dei supporti magnetici di cui all'art. 1, e matrici dei moduli di mandato di pagamento menzionati nello stesso art. 1, recanti le firme dei funzionari e i timbri delle prefetture, sono custoditi, in buste sigillate, in altra cassaforte della divisione 'Elaborazione dati e teletrasmissioni' di cui all'art. 2". 
+ "Art. 4. - 1. Il direttore della divisione 'Elaborazione dati e teletrasmissioni' di cui all'art. 2 ed il suo sostituto esercitano i necessari controlli ai fini della regolare apposizione automatica delle firme sui titoli di pagamento". 
+ "Art. 5. - 1. I fac-simile delle firme dei prefetti, dei dirigenti di ragioneria delle prefetture, dei loro sostituti, nonche' dei timbri delle rispettive prefetture, ottenuti mediante riproduzione in base a supporti magnetici su moduli di mandato di pagamento di cui all'art. 1, sono trasmessi alle competenti ragionerie provinciali dello Stato". 
+ "Art. 6. - 1. Il supporto magnetico delle firme e del timbro di cui all'art. 1, prescelto di volta in volta, dovra' essere prelevato ed utilizzato solo al momento della stampa dei mandati di pagamento di pensioni, assegni ed indennita' in carico ad ogni singola prefettura. 
+ 2. Al termine della stampa dei mandati di pagamento di cui al precedente comma, il supporto magnetico medesimo dovra' essere reinserito nella cassaforte. 
+ 3. Di ogni estrazione ed introduzione del supporto magnetico dovra' prendersi nota in apposito registro verbale; dette operazioni vanno eseguite con il controllo diretto del direttore della divisione 'Eleborazione dati e teletrasmissioni' di cui all'art. 2 o del sostituto ed in caso di loro assenza o impedimento dell'incaricato delegato da entrambi, con atto da trasmettere in copia alla Direzione centrale per i servizi elettorali. 
+ 4. La delega per l'espletamento delle operazioni di cui sopra non potra' essere rilasciata ad impiegati addetti agli apparati di elaborazione".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 7 luglio 1993
+Roma, 7 luglio 1993
 
-Il Ministro dell'interno MANCINO Il Ministro del tesoro BARUCCI
-
-Visto, il Guardasigilli: CONSO Registrato alla Corte dei conti il 16 agosto 1993
-
-Registro n. 28 Interno, foglio n. 372
-
-AVVERTENZA:   
-Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il volore e l'efficacia degli atti legislativi qui trascritti.   
-Note alle premesse:   
-- Si trascrive il testo dei [commi 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;211~art3-com2) e [4 dell'art. 3   
-della legge n. 211/1989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;211~art3-com4):   
-"2. L'ultimo comma dell'art. 5 della citata [legge 18 dicembre 1973, n. 854](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-18;854), e' sostituito dal seguente:   
-'I mandati di pagamento indicati nel primo comma, firmati dal prefetto e, ai fini del riscontro contabile, dal dirigente di ragioneria della prefettura, costituiscono ordini di pagamento; essi debbono contenere l'indicazione dell'ufficio postale pagatore, delle generalita' dell'avente diritto, ed eventualmente del rappresentante legale o della persona delegata alla riscossione, del numero del libretto, dell'importo da corrispondere, del numero di conto corrente postale ove richiesto, della deliberazione del comitato provinciale di assistenza e beneficienza pubblica con il riconoscimento del diritto alla provvidenza. Le firme del prefetto e del dirigente di ragioneria della prefettura sui mandati di pagamento e sugli elenchi, nonche' il timbro della prefettura possono essere impressi a stampa da parte del competente centro elettronico del Ministero dell'interno, salvo che si tratti di titoli non compresi negli elenchi di cui al primo comma.   
-I fac-simile delle firme sono trasmessi alla competente ragioneria provinciale dello Stato'".   
-"4. Con decreto del Ministro dell'interno, di concerto con il Ministro del tesoro, saranno stabilite le modalita' necessarie per l'uso e la custodia delle matrici recanti le firme a stampa dei funzionari di cui al comma 2".   
-- Il [comma 3, dell'art. 17 della legge n. 400/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.  
-Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbono recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.   
-Nota all'articolo unico:   
-Si trascrive il testo vigente del [D.M. n. 197/1990](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1990;197):   
-"Art. 1. - 1. Le firme dei prefetti, dei dirigenti di ragioneria delle prefetture e dei funzionari che li sostituiscono in caso di assenza, malattia o impedimento nonche' i timbri delle rispettive prefetture, apposti sulle matrici dei moduli di mandato di pagamento usati per la corresponsione delle pensioni, assegni ed indennita' spettanti ai mutilati ed invalidi civili, ai ciechi civili e ai sordomuti, sono riportati su supporti magnetici, in due esemplari, da utilizzare per la sottoscrizione, con procedimento automatizzato, dei titoli di pagamento di cui all'[art. 5, primo comma, della legge 18 dicembre 1973, n. 854](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-18;854~art5-com1)".   
-"Art. 2. - 1. Un primo esemplare di ognuno dei supporti magnetici di cui all'articolo precedente e' custodito nella cassaforte della divisione 'Elaborazione dati e teletrasmissioni' del servizio informatica della Direzione centrale per i servizi elettorali del Ministero dell'interno, unitamente al relativo registro inventario.   
-2. Ogni variazione nella consistenza ed ogni sostituzione del materiale predetto per cambiamento dei funzionari responsabili, per usura o per altra causa sono fatte constare con apposito verbale redatto sul registro stesso".   
-"Art. 3. - 1. Le chiavi della cassaforte di cui al primo comma dell'art. 2 del presente decreto sono tenute dal direttore della divisione 'Elaborazione dati e teletrasmissioni' di cui allo stesso art. 2 o, in caso di assenza, malattia o impedimento, dal suo sostituto.   
-2. I duplicati delle chiavi della cassaforte di cui al precedente comma, i secondi esemplari dei supporti magnetici di cui all'art. 1, e matrici dei moduli di mandato di pagamento menzionati nello stesso art. 1, recanti le firme dei funzionari e i timbri delle prefetture, sono custoditi, in buste sigillate, in altra cassaforte della divisione 'Elaborazione dati e teletrasmissioni' di cui all'art. 2".   
-"Art. 4. - 1. Il direttore della divisione 'Elaborazione dati e teletrasmissioni' di cui all'art. 2 ed il suo sostituto esercitano i necessari controlli ai fini della regolare apposizione automatica delle firme sui titoli di pagamento".   
-"Art. 5. - 1. I fac-simile delle firme dei prefetti, dei dirigenti di ragioneria delle prefetture, dei loro sostituti, nonche' dei timbri delle rispettive prefetture, ottenuti mediante riproduzione in base a supporti magnetici su moduli di mandato di pagamento di cui all'art. 1, sono trasmessi alle competenti ragionerie provinciali dello Stato".   
-"Art. 6. - 1. Il supporto magnetico delle firme e del timbro di cui all'art. 1, prescelto di volta in volta, dovra' essere prelevato ed utilizzato solo al momento della stampa dei mandati di pagamento di pensioni, assegni ed indennita' in carico ad ogni singola prefettura.   
-2. Al termine della stampa dei mandati di pagamento di cui al precedente comma, il supporto magnetico medesimo dovra' essere reinserito nella cassaforte.   
-3. Di ogni estrazione ed introduzione del supporto magnetico dovra' prendersi nota in apposito registro verbale; dette operazioni vanno eseguite con il controllo diretto del direttore della divisione 'Eleborazione dati e teletrasmissioni' di cui all'art. 2 o del sostituto ed in caso di loro assenza o impedimento dell'incaricato delegato da entrambi, con atto da trasmettere in copia alla Direzione centrale per i servizi elettorali.   
-4. La delega per l'espletamento delle operazioni di cui sopra non potra' essere rilasciata ad impiegati addetti agli apparati di elaborazione".
+Il Ministro dell'interno MANCINO Il Ministro del tesoro BARUCCI Visto, il Guardasigilli: CONSO Registrato alla Corte dei conti il 16 agosto 1993 Registro n. 28 Interno, foglio n. 372

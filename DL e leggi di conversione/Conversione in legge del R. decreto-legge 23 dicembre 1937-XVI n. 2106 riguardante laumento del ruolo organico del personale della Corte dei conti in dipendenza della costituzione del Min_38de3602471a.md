@@ -1,0 +1,14 @@
+---
+tipo: LEGGE
+numero: 362
+data: 1938-04-07
+titolo: "Conversione in legge del R. decreto-legge 23 dicembre 1937-XVI, n. 2106, riguardante l'aumento del ruolo organico del personale della Corte dei conti in dipendenza della costituzione del Ministero per gli scambi e per le valute. (038U0362)"
+urn: urn:nir:stato:legge:1938-04-07;362
+codice_redazionale: 038U0362
+vigente: true
+---
+
+## Art. 1.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

@@ -1,107 +1,88 @@
-LEGGE 12 luglio 2006 n. 228
-
-
-LEGGE 12 luglio 2006 n. 228
-===========================
-
-Conversione in legge, con modificazioni, del decreto-legge 12 maggio 2006, n. 173, recante proroga di termini per l'emanazione di atti di natura regolamentare. Ulteriori proroghe per l'esercizio di deleghe legislative e in materia di istruzione.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore della legge: 13-7-2006
+---
+tipo: LEGGE
+numero: 228
+data: 2006-07-12
+titolo: "Conversione in legge, con modificazioni, del decreto-legge 12 maggio 2006, n. 173, recante proroga di termini per l'emanazione di atti di natura regolamentare. Ulteriori proroghe per l'esercizio di deleghe legislative e in materia di istruzione."
+urn: urn:nir:stato:legge:2006-07-12;228
+codice_redazionale: 006G0251
+vigente: true
+---
 
 La Camera dei deputati ed il Senato della Repubblica hanno approvato;
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Promulga
---------
+Promulga la seguente legge:
 
-la seguente legge:
+## Art. 1.
 
-Art. 1
-------
+1.
 
-1. Il [decreto-legge 12 maggio 2006, n. 173](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-05-12;173), recante proroga di termini per l'emanazione di atti di natura regolamentare, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
+Il [decreto-legge 12 maggio 2006, n. 173](../DL%20proroghe/Proroga%20di%20termini%20per%20lemanazione%20di%20atti%20di%20natura%20regolamentare%20e%20legislativa.md), recante proroga di termini per l'emanazione di atti di natura regolamentare, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
 
-2. Le disposizioni di cui all'[articolo 8, comma 2, del decreto-legge 30 giugno 2005, n. 115](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-06-30;115~art8-com2), convertito, con modificazioni, dalla [legge 17 agosto 2005, n. 168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-08-17;168), continuano ad applicarsi fino al 30 giugno 2007.
+2.
 
-3. All'[articolo 1 della legge 14 maggio 2005, n. 80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-05-14;80~art1), dopo il comma 5 e' inserito il seguente:  
-"5-bis. Entro un anno dalla data di entrata in vigore del decreto legislativo adottato nell'esercizio della delega di cui al comma 5, il Governo puo' adottare disposizioni correttive e integrative, nel rispetto dei principi e dei criteri direttivi di cui al comma 6 e con la procedura di cui al medesimo comma 5".
+Le disposizioni di cui all'[articolo 8, comma 2, del decreto-legge 30 giugno 2005, n. 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-06-30;115#art_8-com2), convertito, con modificazioni, dalla [legge 17 agosto 2005, n. 168](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20giugno%202005%20n.%20115%20recante%20disposizioni%20urgenti%20per%20assicurare%20la%20funzionalita%20di%20settori%20della%20pubblica%20amministrazione.%20Dispo_ecba8012d3e7.md), continuano ad applicarsi fino al 30 giugno 2007.
 
-4. All'[articolo 40, comma 1, della legge 28 dicembre 2005, n. 262](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-28;262~art40-com1), le parole: "sei mesi" sono sostituite dalle seguenti: "dodici mesi".
+3.
 
-5. Le disposizioni correttive e integrative di cui all'[articolo 1, comma 4, della legge 28 marzo 2003, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-03-28;53~art1-com4), possono essere adottate, relativamente ai [decreti legislativi 15 aprile 2005, n. 76, 15 aprile 2005, n. 77, 17 ottobre 2005, n. 226, e 17 ottobre 2005, n. 227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-10-17;227), entro trentasei mesi dalla data della loro entrata in vigore.
+All'[articolo 1 della legge 14 maggio 2005, n. 80](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%202005%20n.%2035%20recante%20disposizioni%20urgenti%20nellambito%20del%20Piano%20di%20azione%20per%20lo%20sviluppo%20economico%20sociale%20e%20territoriale.%20_2088e331563c.md), dopo il comma 5 e' inserito il seguente:
+ "5-bis. Entro un anno dalla data di entrata in vigore del decreto legislativo adottato nell'esercizio della delega di cui al comma 5, il Governo puo' adottare disposizioni correttive e integrative, nel rispetto dei principi e dei criteri direttivi di cui al comma 6 e con la procedura di cui al medesimo comma 5".
 
-6. E' prorogato all'anno scolastico 2007-2008 il regime transitorio concernente l'accesso anticipato alla scuola dell'infanzia, di cui all'[articolo 7, comma 4, della legge 28 marzo 2003, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-03-28;53~art7-com4), e successive modificazioni. Conseguentemente, l'[articolo 2 del decreto legislativo 19 febbraio 2004, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-02-19;59~art2), si applica a decorrere dall'anno scolastico 2008-2009.
+4.
 
-7. All'[articolo 14, comma 3, del decreto legislativo 19 febbraio 2004, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-02-19;59~art14-com3), le parole: "e fino alla messa a regime della scuola secondaria di primo grado," sono sostituite dalle seguenti: "e fino all'anno scolastico 2008-2009,".
+All'[articolo 40, comma 1, della legge 28 dicembre 2005, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-28;262#art_40-com1), le parole: "sei mesi" sono sostituite dalle seguenti: "dodici mesi".
 
-8. 
+5.
 
-((COMMA ABROGATO DAL [D.L. 30 DICEMBRE 2008, N. 207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-30;207), CONVERTITO CON MODIFICAZIONI DALLA [L. 27 FEBBRAIO 2009, N. 14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-27;14)))
+Le disposizioni correttive e integrative di cui all'[articolo 1, comma 4, della legge 28 marzo 2003, n. 53](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20definizione%20delle%20norme%20generali%20sullistruzione%20e%20dei%20livelli%20essenziali%20delle%20prestazioni%20in%20materia%20di%20istruzione%20e%20formazione%20professionale.md), possono essere adottate, relativamente ai [decreti legislativi 15 aprile 2005, n. 76, 15 aprile 2005, n. 77, 17 ottobre 2005, n. 226, e 17 ottobre 2005, n. 227](../Atti%20normativi%20abrogati%20%28in%20originale%29/Definizione%20delle%20norme%20generali%20in%20materia%20di%20formazione%20degli%20insegnanti%20ai%20fini%20dellaccesso%20allinsegnamento%20a%20norma%20dellarticolo%205%20della%20legge%2028%20marzo%202003%20n.%2053.md), entro trentasei mesi dalla data della loro entrata in vigore.
 
-.
+6.
 
-9. All'[articolo 2, comma 3, della legge 30 settembre 2004, n. 252](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-09-30;252~art2-com3), le parole: "dodici mesi" sono sostituite dalle seguenti: "ventiquattro mesi".
+E' prorogato all'anno scolastico 2007-2008 il regime transitorio concernente l'accesso anticipato alla scuola dell'infanzia, di cui all'[articolo 7, comma 4, della legge 28 marzo 2003, n. 53](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20definizione%20delle%20norme%20generali%20sullistruzione%20e%20dei%20livelli%20essenziali%20delle%20prestazioni%20in%20materia%20di%20istruzione%20e%20formazione%20professionale.md), e successive modificazioni. Conseguentemente, l'[articolo 2 del decreto legislativo 19 febbraio 2004, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20delle%20norme%20generali%20relative%20alla%20scuola%20dellinfanzia%20e%20al%20primo%20ciclo%20dellistruzione%20a%20norma%20dellarticolo%201%20della%20legge%2028%20marzo%202003%20n.%2053.md), si applica a decorrere dall'anno scolastico 2008-2009.
 
-10. All'[articolo 5, comma 1, della legge 28 novembre 2005, n. 246](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-11-28;246~art5-com1), le parole: "diciotto mesi dalla data di entrata in vigore della presente legge" sono sostituite dalle seguenti: "il 31 dicembre 2007".
+7.
 
-11. All'[articolo 6, comma 1, della legge 29 luglio 2003, n. 229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-29;229~art6-com1), le parole: "tre anni" sono sostituite dalle seguenti: "quattro anni".
+All'[articolo 14, comma 3, del decreto legislativo 19 febbraio 2004, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20delle%20norme%20generali%20relative%20alla%20scuola%20dellinfanzia%20e%20al%20primo%20ciclo%20dellistruzione%20a%20norma%20dellarticolo%201%20della%20legge%2028%20marzo%202003%20n.%2053.md), le parole: "e fino alla messa a regime della scuola secondaria di primo grado," sono sostituite dalle seguenti: "e fino all'anno scolastico 2008-2009,".
 
-12. Entro due anni dalla data di entrata in vigore della presente legge, senza nuovi o maggiori oneri per la finanza pubblica, il Governo e' delegato ad adottare, su proposta del Ministro delle politiche agricole, alimentari e forestali e del Ministro per le politiche europee nei casi di cui all'[articolo 10, commi 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-02-04;11~art10-com4) e [5, della legge 4 febbraio 2005, n. 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-02-04;11~art10-com5), e successive modificazioni, uno o piu' decreti legislativi correttivi e integrativi dei decreti legislativi adottati in attuazione delle deleghe di cui agli [articoli 7](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-05;57~art7) e [8 della legge 5 marzo 2001, n. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-05;57~art8), e di cui all'[articolo 1 della legge 7 marzo 2003, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-03-07;38~art1), e successive modificazioni, nel rispetto dei principi e criteri di delega indicati dalle predette leggi e con le stesse procedure.
+8.
 
-13. All'[articolo 3, comma 1, della legge 28 novembre 2005, n. 246](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-11-28;246~art3-com1), le parole: "entro un anno" sono sostituite dalle seguenti: "entro tre anni".
+((COMMA ABROGATO DAL D.L. 30 DICEMBRE 2008, N. 207, CONVERTITO CON MODIFICAZIONI DALLA L. 27 FEBBRAIO 2009, N. 14)).
 
-14. E' prorogato di un anno il termine di cui al [comma 1 dell'articolo 20-bis della legge 29 luglio 2003, n. 229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-29;229~art20bis-com1), per l'adozione di uno o piu' decreti legislativi recanti disposizioni integrative e correttive dei decreti legislativi di cui agli articoli 4 e 7 della citata [legge 29 luglio 2003, n. 229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-29;229), nel rispetto degli oggetti, dei principi e criteri direttivi e della procedura di cui al medesimo articolo 20-bis.
+9.
 
-15. All'[articolo 6, comma 5, della legge 8 luglio 2003, n. 172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-08;172~art6-com5), le parole: "Entro un anno" sono sostituite dalle seguenti: "Entro due anni".
+All'[articolo 2, comma 3, della legge 30 settembre 2004, n. 252](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20disciplina%20in%20materia%20di%20rapporto%20di%20impiego%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.md), le parole: "dodici mesi" sono sostituite dalle seguenti: "ventiquattro mesi".
 
-16. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
+10.
+
+All'[articolo 5, comma 1, della legge 28 novembre 2005, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-11-28;246#art_5-com1), le parole: "diciotto mesi dalla data di entrata in vigore della presente legge" sono sostituite dalle seguenti: "il 31 dicembre 2007".
+
+11.
+
+All'[articolo 6, comma 1, della legge 29 luglio 2003, n. 229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-29;229#art_6-com1), le parole: "tre anni" sono sostituite dalle seguenti: "quattro anni".
+
+12.
+
+Entro due anni dalla data di entrata in vigore della presente legge, senza nuovi o maggiori oneri per la finanza pubblica, il Governo e' delegato ad adottare, su proposta del Ministro delle politiche agricole, alimentari e forestali e del Ministro per le politiche europee nei casi di cui all'[articolo 10, commi 4](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20dellUnione%20europea%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md) e [5, della legge 4 febbraio 2005, n. 11](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20dellUnione%20europea%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md), e successive modificazioni, uno o piu' decreti legislativi correttivi e integrativi dei decreti legislativi adottati in attuazione delle deleghe di cui agli [articoli 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-05;57#art_7) e [8 della legge 5 marzo 2001, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-05;57#art_8), e di cui all'[articolo 1 della legge 7 marzo 2003, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-03-07;38#art_1), e successive modificazioni, nel rispetto dei principi e criteri di delega indicati dalle predette leggi e con le stesse procedure.
+
+13.
+
+All'[articolo 3, comma 1, della legge 28 novembre 2005, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-11-28;246#art_3-com1), le parole: "entro un anno" sono sostituite dalle seguenti: "entro tre anni".
+
+14.
+
+E' prorogato di un anno il termine di cui al [comma 1 dell'articolo 20-bis della legge 29 luglio 2003, n. 229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-29;229#art_20bis-com1), per l'adozione di uno o piu' decreti legislativi recanti disposizioni integrative e correttive dei decreti legislativi di cui agli articoli 4 e 7 della citata [legge 29 luglio 2003, n. 229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-29;229), nel rispetto degli oggetti, dei principi e criteri direttivi e della procedura di cui al medesimo articolo 20-bis.
+
+15.
+
+All'[articolo 6, comma 5, della legge 8 luglio 2003, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-08;172#art_6-com5), le parole: "Entro un anno" sono sostituite dalle seguenti: "Entro due anni".
+
+16.
+
+La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data a Roma, addi' 12 luglio 2006
+Data a Roma, addi' 12 luglio 2006
 
-NAPOLITANO
-
-Prodi, Presidente del Consiglio dei Ministri
-
-Visto, il Guardasigilli: Mastella
-
-Allegato
-
- Allegato   
-MODIFICAZIONI APPORTATE IN SEDE DI CONVERSIONE AL DECRETO - LEGGE 12 MAGGIO 2006, N. 173   
-  
-L'articolo 1 e' sostituito dal seguente:   
-"Art. 1. - (Proroga di termini in materia di protezione dei dati personali). - 1. All'[articolo 181, comma 1, lettera a), del codice in materia di protezione dei dati personali](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art181-com1-leta) di cui al [decreto legislativo 30 giugno 2003, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196), e successive modificazioni, le parole: "15 maggio 2006" sono sostituite dalle seguenti: "31 dicembre 2006"".   
-Dopo l'articolo 1 sono inseriti i seguenti:   
-"Art. 1-bis. - (Proroga di termini in materia di previdenza agricola). - 1. All'[articolo 01, comma 3, del decreto-legge 10 gennaio 2006, n. 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-01-10;2~art01-com3), convertito, con modificazioni, dalla [legge 11 marzo 2006, n. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-03-11;81), le parole: "31 luglio 2006" sono sostituite dalle seguenti: "15 ottobre 2006".   
-2. All'[articolo 01 del decreto-legge 10 gennaio 2006, n. 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-01-10;2~art01), convertito, con modificazioni, dalla [legge 11 marzo 2006, n. 81, il comma 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-03-11;81~com16) e' sostituito dal seguente:   
-"16. Per le imprese agricole, le disposizioni contenute nell'[articolo 10, comma 7, del decreto-legge 30 settembre 2005, n. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-09-30;203~art10-com7), convertito, con modificazioni, dalla [legge 2 dicembre 2005, n. 248, e nell'articolo 1, comma 553](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-02;248~art1-com553), della [legge 23 dicembre 2005, n. 266](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266), si applicano limitatamente ai contributi dovuti per le prestazioni lavorative effettuate a decorrere dal 1° gennaio 2006".   
-3. All'onere derivante dall'attuazione del comma 1, pari a 2,5 milioni di euro per l'anno 2006, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2006-2008, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2006, utilizzando per l'anno medesimo l'accantonamento relativo al Ministero del lavoro e delle politiche sociali.   
-4. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.   
-Art. 1-ter. - (Proroga del termine per la gestione finanziaria del Fondo per le attivita' cinematografiche). - 1. All'[articolo 12, comma 8, del decreto legislativo 22 gennaio 2004, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;28~art12-com8), e successive modificazioni, le parole: "non oltre il 30 giugno 2006" sono sostituite dalle seguenti: "fino al 31 dicembre 2006".   
-Art. 1-quater. - (Proroga di termine in materia di patrimonio abitativo). - 1. Il termine previsto dall'[articolo 5-bis, comma 2, del decreto-legge 27 maggio 2005, n. 86](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-05-27;86~art5bis-com2), convertito, con modificazioni, dalla [legge 26 luglio 2005, n. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-07-26;148), e' prorogato fino all'attuazione dell'[articolo 11-quaterdecies, comma 13, del decreto-legge 30 settembre 2005, n. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-09-30;203~art11quaterdecies-com13), convertito, con modificazioni, dalla [legge 2 dicembre 2005, n. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-02;248), e comunque non oltre il 1° gennaio 2007.   
-Art. 1-quinquies. - (Proroga del termine di cui all'[articolo 20 del decreto legislativo 25 luglio 2005, n. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-07-25;151~art20)). - 1. Il termine di cui all'[articolo 20, comma 5, del decreto legislativo 25 luglio 2005, n. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-07-25;151~art20-com5), e' prorogato fino all'emanazione dei provvedimenti attuativi di cui agli articoli 13, comma 8, e 15, comma 1, del medesimo decreto legislativo e comunque non oltre il 31 dicembre 2006.   
-Art. 1-sexies. - (Efficacia di disposizioni in materia di docenza universitaria). - 1. Al fine di garantire la copertura degli insegnamenti, mediante affidamento e supplenze, le universita' continuano ad applicare, fino al termine dell'anno accademico 2006-2007, le disposizioni di cui all'[articolo 12 della legge 19 novembre 1990, n. 341](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-19;341~art12), e successive modificazioni.   
-Art. 1-septies. - (Modifica al [decreto legislativo 3 aprile 2006, n. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152)). - 1. All'[articolo 52, comma 1, del decreto legislativo 3 aprile 2006, n. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152~art52-com1), le parole da: "centoventi giorni" fino alla fine del comma sono sostituite dalle seguenti: "il 31 gennaio 2007".   
-Art. 1-octies. - (Modifiche al [decreto legislativo 12 aprile 2006, n. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)). - 1. Al [codice dei contratti pubblici](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163) relativi a lavori, servizi e forniture, di cui al [decreto legislativo 12 aprile 2006, n.   
-163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163), sono apportate le seguenti modificazioni:   
-a) all'articolo 177, comma 4, la lettera f) e' abrogata;   
-b) all'articolo 253, il comma 1 e' sostituito dal seguente:   
-"1. Fermo quanto stabilito ai commi 1-bis e 1-ter, le disposizioni di cui al presente codice si applicano alle procedure e ai contratti i cui bandi o avvisi con cui si indice una gara siano pubblicati successivamente alla data della sua entrata in vigore, nonche', in caso di contratti senza pubblicazione di bandi o avvisi, alle procedure e ai contratti in cui, alla data di entrata in vigore del presente codice, non siano ancora stati inviati gli inviti a presentare le offerte";   
-c) all'articolo 253, dopo il comma 1 sono inseriti i seguenti:   
-"1-bis. Per i contratti relativi a lavori, servizi e forniture, nei settori ordinari e speciali, le seguenti disposizioni si applicano alle procedure i cui bandi o avvisi siano pubblicati successivamente al 1° febbraio 2007:   
-a) articolo 33, commi 1 e 2, nonche' comma 3, secondo periodo, limitatamente alle sole centrali di committenza;   
-b) articolo 49, comma 10;   
-c) articolo 58;   
-d) articolo 59, limitatamente ai settori ordinari.   
-1-ter. Per gli appalti di lavori pubblici di qualsiasi importo, nei settori ordinari, le disposizioni degli articoli 3, comma 7, 53, commi 2 e 3, e 56 si applicano alle procedure i cui bandi siano pubblicati successivamente al 1° febbraio 2007. Le disposizioni dell'articolo 57 si applicano alle procedure per le quali l'invito a presentare l'offerta sia inviato successivamente al 1° febbraio 2007";   
-d) all'articolo 257, dopo il comma 2 e' inserito il seguente:   
-"2-bis. Le disposizioni di cui all'articolo 8, comma 6, hanno efficacia a decorrere dal 1° febbraio 2007".   
-2. Le procedure di cui al comma 1, lettera c), del presente articolo i cui bandi o avvisi siano stati pubblicati tra il 1° luglio 2006 e la data di entrata in vigore della legge di conversione del presente decreto, nonche', in caso di contratti senza pubblicazione di bandi o avvisi, quelle i cui inviti a presentare le offerte siano stati inviati nello stesso termine, restano disciplinate dalle disposizioni alle stesse applicabili alla data di pubblicazione dei relativi bandi o avvisi ovvero a quella di invio degli inviti. A tal fine, le disposizioni di cui all'articolo 256, comma 1, del citato codice di cui al [decreto legislativo 12 aprile 2006, n. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163), riferite alle fattispecie di cui al comma 1, lettera c), del presente articolo, continuano ad applicarsi per il periodo transitorio compreso tra la data di entrata in vigore della legge di conversione del presente decreto e il 31 gennaio 2007".   
-All'articolo 2 e' inserita la seguente rubrica: "Entrata in vigore".   
-Al titolo sono aggiunte, in fine, le seguenti parole: "e legislativa".   
+NAPOLITANO Prodi, Presidente del Consiglio dei Ministri Visto, il Guardasigilli: Mastella

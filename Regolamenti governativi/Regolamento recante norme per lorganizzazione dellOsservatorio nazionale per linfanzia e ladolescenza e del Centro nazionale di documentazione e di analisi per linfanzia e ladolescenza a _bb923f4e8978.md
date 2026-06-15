@@ -1,35 +1,29 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 ottobre 1998 n. 369
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 369
+data: 1998-10-05
+titolo: "Regolamento recante norme per l'organizzazione dell'Osservatorio nazionale per l'infanzia e l'adolescenza e del Centro nazionale di documentazione e di analisi per l'infanzia e l'adolescenza, a norma dell'articolo 4, comma 1, della legge 23 dicembre 1997, n. 451."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1998-10-05;369
+codice_redazionale: 098G0419
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 ottobre 1998 n. 369
-==============================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 MAGGIO 2007, N. 103))
 
-Regolamento recante norme per l'organizzazione dell'Osservatorio nazionale per l'infanzia e l'adolescenza e del Centro nazionale di documentazione e di analisi per l'infanzia e l'adolescenza, a norma dell'articolo 4, comma 1, della legge 23 dicembre 1997, n. 451.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 10-11-1998
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 MAGGIO 2007, N. 103))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 MAGGIO 2007, N. 103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-05-14;103)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 MAGGIO 2007, N. 103))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 MAGGIO 2007, N. 103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-05-14;103)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 MAGGIO 2007, N. 103))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 MAGGIO 2007, N. 103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-05-14;103)))
-
-Art. 4
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 MAGGIO 2007, N. 103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-05-14;103)))
-
-Art. 5
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 MAGGIO 2007, N. 103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-05-14;103)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 14 MAGGIO 2007, N. 103))

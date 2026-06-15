@@ -1,100 +1,57 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 dicembre 1992 n. 556
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 556
+data: 1992-12-30
+titolo: "Regolamento per l'attuazione della direttiva 91/68/CEE relativa alle condizioni di polizia sanitaria da applicare negli scambi intracomunitari di ovini e caprini."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1992-12-30;556
+codice_redazionale: 093G0060
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 dicembre 1992 n. 556
-===============================================================
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 19 AGOSTO 2005, N. 193 ))
 
-Regolamento per l'attuazione della direttiva 91/68/CEE relativa alle condizioni di polizia sanitaria da applicare negli scambi intracomunitari di ovini e caprini.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 19-2-1993
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 19 AGOSTO 2005, N. 193 ))
 
-Art. 1
-------
+## Art. 3.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 AGOSTO 2005, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;193) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 19 AGOSTO 2005, N. 193 ))
 
-Art. 2
-------
+## Art. 4.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 AGOSTO 2005, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;193) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 19 AGOSTO 2005, N. 193 ))
 
-Art. 3
-------
+## Art. 5.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 AGOSTO 2005, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;193) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 19 AGOSTO 2005, N. 193 ))
 
-Art. 4
-------
+## Art. 6.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 AGOSTO 2005, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;193) ))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 19 AGOSTO 2005, N. 193))
 
-Art. 5
-------
+## Art. 7.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 AGOSTO 2005, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;193) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 19 AGOSTO 2005, N. 193 ))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 AGOSTO 2005, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;193)))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 19 AGOSTO 2005, N. 193 ))
 
-Art. 7
-------
+## Art. 9.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 AGOSTO 2005, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;193) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 19 AGOSTO 2005, N. 193 ))
 
-Art. 8
-------
+## Art. 10.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 AGOSTO 2005, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;193) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 19 AGOSTO 2005, N. 193 ))
 
-Art. 9
-------
+## Art. 11.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 AGOSTO 2005, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;193) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 19 AGOSTO 2005, N. 193 ))
 
-Art. 10
--------
+## Art. 12.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 AGOSTO 2005, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;193) ))
-
-Art. 11
--------
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 AGOSTO 2005, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;193) ))
-
-Art. 12
--------
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 AGOSTO 2005, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;193) ))
-
-allegato A
-
- ALLEGATO A   
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 AGOSTO 2005, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;193) ))
-
-Allegato B
-
- ALLEGATO B   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 AGOSTO 2005, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;193)))
-
-Allegato C
-
- ALLEGATO C   
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 AGOSTO 2005, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;193) ))
-
-Allegato D
-
- ALLEGATO D   
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 AGOSTO 2005, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;193) ))
-
-Allegato E
-
- ALLEGATO E   
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 AGOSTO 2005, N. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;193) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 19 AGOSTO 2005, N. 193 ))

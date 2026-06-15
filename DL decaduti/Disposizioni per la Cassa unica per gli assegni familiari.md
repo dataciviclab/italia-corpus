@@ -1,27 +1,21 @@
-DECRETO-LEGGE 22 gennaio 1973 n. 1
+---
+tipo: DECRETO-LEGGE
+numero: 1
+data: 1973-01-22
+titolo: "Disposizioni per la Cassa unica per gli assegni familiari."
+urn: urn:nir:stato:decreto.legge:1973-01-22;1
+codice_redazionale: 073U0001
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 22 gennaio 1973 n. 1
-==================================
+DECRETO DECADUTO
 
-Disposizioni per la Cassa unica per gli assegni familiari.
-----------------------------------------------------------
+## Art. 2.
 
-Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO   
-
-Art. 2
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 3
-------
-
- DECRETO DECADUTO  
+DECRETO DECADUTO

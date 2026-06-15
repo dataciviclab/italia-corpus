@@ -1,14 +1,14 @@
-DECRETO LEGISLATIVO LUOGOTENENZIALE 04 gennaio 1946 n. 8
+---
+tipo: DECRETO LEGISLATIVO LUOGOTENENZIALE
+numero: 8
+data: 1946-01-04
+titolo: "Trasferimento dei professori universitari per l'anno accademico 1945-46."
+urn: urn:nir:stato:decreto.legislativo.luogotenenziale:1946-01-04;8
+codice_redazionale: 046U0008
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO LUOGOTENENZIALE 04 gennaio 1946 n. 8
-========================================================
-
-Trasferimento dei professori universitari per l'anno accademico 1945-46.
-------------------------------------------------------------------------
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI, DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI, DALLA L. 18 FEBBRAIO 2009, N. 9))

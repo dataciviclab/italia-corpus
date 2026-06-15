@@ -1,22 +1,17 @@
-DECRETO-LEGGE 08 maggio 1992 n. 278
+---
+tipo: DECRETO-LEGGE
+numero: 278
+data: 1992-05-08
+titolo: "Disposizioni urgenti in materia di tariffe telefoniche nazionali."
+urn: urn:nir:stato:decreto.legge:1992-05-08;278
+codice_redazionale: 092G0320
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 08 maggio 1992 n. 278
-===================================
+DECRETO DECADUTO
 
-Disposizioni urgenti in materia di tariffe telefoniche nazionali.
------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 10/05/1992.Decreto-Legge decaduto per mancata conversione.
-
-Art. 1
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 2
-------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

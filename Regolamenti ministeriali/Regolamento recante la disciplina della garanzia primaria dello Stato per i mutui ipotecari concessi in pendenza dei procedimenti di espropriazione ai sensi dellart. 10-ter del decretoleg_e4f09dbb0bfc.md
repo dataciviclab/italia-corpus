@@ -1,130 +1,138 @@
-DECRETO 07 ottobre 1997 n. 390
-
-
-DECRETO 07 ottobre 1997 n. 390
-==============================
-
-Regolamento recante la disciplina della garanzia primaria dello Stato per i mutui ipotecari concessi in pendenza dei procedimenti di espropriazione, ai sensi dell'art. 10-ter del decretolegge 13 agosto 1975, n. 376, convertito, con modificazioni, dalla legge 16 ottobre 1975, n. 492.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 27-11-1997
+---
+tipo: DECRETO
+numero: 390
+data: 1997-10-07
+titolo: "Regolamento recante la disciplina della garanzia primaria dello Stato per i mutui ipotecari concessi in pendenza dei procedimenti di espropriazione, ai sensi dell'art. 10-ter del decretolegge 13 agosto 1975, n. 376, convertito, con modificazioni, dalla legge 16 ottobre 1975, n. 492."
+urn: urn:nir:ministero.tesoro:decreto:1997-10-07;390
+codice_redazionale: 097G0427
+vigente: true
+---
 
 IL MINISTRO DEL TESORO E DEL BILANCIO
--------------------------------------
 
 E DELLA PROGRAMMAZIONE ECONOMICA
 
-Visto l'[articolo 6 della legge 17 febbraio 1992, n. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-17;179~art6), recante: "Norme per l'edilizia residenziale pubblica" ed in particolare, il comma 5, il quale dispone che "gli istituti e sezioni di credito fondiario ed edilizio" sono tenuti a concedere, prioritariamente ai programmi edilizi assistiti dai contributi di cui all'[articolo 19 della legge 5 agosto 1978, n. 457](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-05;457~art19), finanziamenti a tasso sia costante che variabile o in qualsivoglia altra forma tecnica ed alle condizioni di mercato;
+Visto l'[articolo 6 della legge 17 febbraio 1992, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-17;179#art_6), recante: "Norme per l'edilizia residenziale pubblica" ed in particolare, il comma 5, il quale dispone che "gli istituti e sezioni di credito fondiario ed edilizio" sono tenuti a concedere, prioritariamente ai programmi edilizi assistiti dai contributi di cui all'[articolo 19 della legge 5 agosto 1978, n. 457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-05;457#art_19), finanziamenti a tasso sia costante che variabile o in qualsivoglia altra forma tecnica ed alle condizioni di mercato;
 
-Visto, altresi', il comma 6 del citato [articolo 6 della legge n. 179 del 1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;179~art6), il quale stabilisce che i mutui di cui al cennato comma 5, concessi in pendenza dei procedimenti di espropriazione ai sensi dell'[articolo 10-ter del decreto - legge 13 agosto 1975, n. 376](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1975-08-13;376~art10ter), convertito con modificazioni dalla [legge 16 ottobre 1975, n. 492](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-10-16;492), usufruiscono della garanzia primaria dello Stato, a valere sulle disponibilita' di cui all'[articolo 4 -bis del decretolegge 12 settembre 1983, n. 462](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;462~art4bis), convertito, con modificazioni, dalla [legge 10 novembre 1983, n. 637](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-11-10;637), secondo modalita' da stabilirsi con decreto del Ministro del tesoro;
+Visto, altresi', il comma 6 del citato [articolo 6 della legge n. 179 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;179#art_6), il quale stabilisce che i mutui di cui al cennato comma 5, concessi in pendenza dei procedimenti di espropriazione ai sensi dell'[articolo 10-ter del decreto - legge 13 agosto 1975, n. 376](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1975-08-13;376#art_10ter), convertito con modificazioni dalla [legge 16 ottobre 1975, n. 492](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%201975%20n.%20376%20concernente%20provvedimenti%20per%20il%20rilancio%20delleconomia%20riguardanti%20le%20esportazioni%20ledilizia%20e%20le%20opere%20pubbliche.md), usufruiscono della garanzia primaria dello Stato, a valere sulle disponibilita' di cui all'[articolo 4 -bis del decretolegge 12 settembre 1983, n. 462](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;462#art_4bis), convertito, con modificazioni, dalla [legge 10 novembre 1983, n. 637](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20settembre%201983%20n.%20462%20concernente%20modifiche%20agli%20articoli%2010%20e%2014%20del%20decreto-legge%2023%20gennaio%201982%20n.%209%20convertito%20con%20modific_caaa51e95453.md), secondo modalita' da stabilirsi con decreto del Ministro del tesoro;
 
-Visto l'[articolo 17, commi 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3) e [4, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com4);
+Visto l'[articolo 17, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) e [4, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4);
 
-Visto il [decreto legislativo 1 settembre 1993, n. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), recante: "Testo unico delle leggi in materia bancaria e creditizia";
+Visto il [decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), recante: "Testo unico delle leggi in materia bancaria e creditizia";
 
 Udito il parere del Consiglio di Stato espresso nell'adunanza della sezione consultiva per gli atti normativi del 9 giugno 1997;
 
 Visto il nulla osta della Presidenza del Consiglio dei Ministri in data 29 settembre 1997;
 
-Adotta
-------
+Adotta il seguente: "Regolamento recante la disciplina della garanzia primaria dello Stato per i mutui ipotecari concessi in pendenza dei procedimenti di espropriazione, ai sensi dell'articolo 10-ter del decreto-legge 13 agosto 1975, n. 376, convertito, con modificazioni, dalla legge 16 ottobre 1975, n. 492":
 
-il seguente: "Regolamento recante la disciplina della garanzia primaria dello Stato per i mutui ipotecari concessi in pendenza dei procedimenti di espropriazione, ai sensi dell'articolo 10-ter del decreto-legge 13 agosto 1975, n. 376, convertito, con modificazioni, dalla legge 16 ottobre 1975, n. 492":
+## Art. 1.
 
-Art. 1
-------
+1.
 
-1. Le banche concedono i mutui di cui all'[articolo 6 della legge 17 febbraio 1992, n. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-17;179~art6), dopo aver accertato che siano stati posti in essere ritualmente e tempestivamente gli atti e le formalita' occorrenti per la concessione e la iscrizione di congrue garanzie ipotecarie ancorche', ove consentito dalla legge, su immobili ancora altrui.
+Le banche concedono i mutui di cui all'[articolo 6 della legge 17 febbraio 1992, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-17;179#art_6), dopo aver accertato che siano stati posti in essere ritualmente e tempestivamente gli atti e le formalita' occorrenti per la concessione e la iscrizione di congrue garanzie ipotecarie ancorche', ove consentito dalla legge, su immobili ancora altrui.
 
-2. La concessione dei mutui ad una impresa, ad una cooperativa o ad altro soggetto privato e' condizionata, se il mutuatario svolge anche attivita' diverse da quella finanziata ai sensi delle disposizioni citate in premessa, alla regolare tenuta da parte del beneficiario del mutuo, di una separata contabilita' ordinaria ed all'assunzione dell'obbligo di esibirla, a richiesta, al mutuante. Non sono concessi mutui ad una impresa non iscritta, per i lavori da realizzarsi, nell'albo nazionale dei costruttori o in analogo albo regionale, oppure priva dei requisiti di idoneita' finanziaria e tecnica necessari per la partecipazione alle gare concernenti appalti di opere pubbliche.
+2.
 
-3. La garanzia dello Stato non copre operazioni di finanziamento diverse dai mutui edilizi, ancorche' ad essi preordinate, e diviene operante allorche' la banca abbia osservato quanto disposto nei commi precedenti.
+La concessione dei mutui ad una impresa, ad una cooperativa o ad altro soggetto privato e' condizionata, se il mutuatario svolge anche attivita' diverse da quella finanziata ai sensi delle disposizioni citate in premessa, alla regolare tenuta da parte del beneficiario del mutuo, di una separata contabilita' ordinaria ed all'assunzione dell'obbligo di esibirla, a richiesta, al mutuante. Non sono concessi mutui ad una impresa non iscritta, per i lavori da realizzarsi, nell'albo nazionale dei costruttori o in analogo albo regionale, oppure priva dei requisiti di idoneita' finanziaria e tecnica necessari per la partecipazione alle gare concernenti appalti di opere pubbliche.
 
-Avvertenza:  
-Il presente decreto regolamentare, concernente la materia creditizia, non e' soggetto al controllo preventivo di legittimita' da parte della Corte dei conti, ai sensi dell'[art. 3, comma 13, della legge 14 gennaio 1994, n. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;20~art3-com13).  
-N O T E  
-Avvertenza:  
-Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.  
-Note alle premesse:  
-- Il testo dell'[art. 6, commi 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-17;179~art6-com5) e [6, della legge 17 febbraio 1992, n. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-17;179~art6-com6) (Norme per l'edilizia residenziale pubblica), e' il seguente:  
-"5. Gli istituti e le sezioni di credito fondiario ed edilizio sono tenuti a concedere prioritariamente ai programmi edilizi assistiti dai contributi previsti dal presente articolo finanziamenti a tasso sia costante che variabile o in qualsivoglia altra forma tecnica, alle condizioni di mercato. In tal caso il contributo pubblico concesso ai beneficiari puo' essere ceduto pro solvendo all'ente mutuante. I finanziamenti predetti sono assistiti dalla garanzia dello Stato ai sensi dell'[art. 17 della legge 5 agosto 1978, n. 457](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-05;457~art17) e successive modificazioni.  
-6. I mutui di cui al comma 5 concessi in pendenza dei procedimenti di espropriazione ai sensi dell'[art. 10 -ter del decreto - legge 13 agosto 1975, n. 376](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1975-08-13;376~art10ter), convertito in legge, con modificazioni dalla [legge 16 ottobre 1975, n. 492](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-10-16;492), usufruiscono della garanzia primaria dello Stato, a valere sulle disponibilita' di cui all'[art. 4 -bis del decreto-legge 12 settembre 1983, n. 462](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;462~art4bis), convertito in legge con modificazioni dalla [legge 10 novembre 1983, n. 637](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-11-10;637), secondo le modalita' da stabilirsi con decreto del Ministro del tesoro".  
-- Il testo dell'[art. 17, commi 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3) e [4, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com4) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), e' il seguente:  
-"3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' subordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.  
-4. I regolamenti di cui al comma 1 ed i regolamenti ministeriali ed interministeriali, che devono recare la denominazione di "regolamento", sono adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale".  
-- Il [d.lgs. 1 settembre 1993, n. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385) (Testo unico delle leggi in materia bancaria e creditizia) definisce, all'art. 1, lettera b), "banca" l'impresa autorizzata all'esercizio dell'attivita' bancaria.  
-Nota all'art. 1:  
-- Il testo dell'[art. 6, commi 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-17;179~art6-com5) e [6, della legge 17 febbraio 1992, n. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-17;179~art6-com6), e' riportato nelle note alle premesse.
+3.
 
-Art. 2
-------
+La garanzia dello Stato non copre operazioni di finanziamento diverse dai mutui edilizi, ancorche' ad essi preordinate, e diviene operante allorche' la banca abbia osservato quanto disposto nei commi precedenti.
 
-1. In caso di inadempimento del mutuatario, la garanzia prevista dall'[articolo 6, comma 6, della legge 17 febbraio 1992, n. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-17;179~art6-com6), diviene operante in seguito alla cancellazione delle ipoteche iscritte e nei limiti dell'importo cancellato, nei seguenti casi:
+Avvertenza:
+ Il presente decreto regolamentare, concernente la materia creditizia, non e' soggetto al controllo preventivo di legittimita' da parte della Corte dei conti, ai sensi dell'[art. 3, comma 13, della legge 14 gennaio 1994, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;20#art_3-com13).
+ N O T E
+ Avvertenza:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Note alle premesse:
+ - Il testo dell'[art. 6, commi 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-17;179#art_6-com5) e [6, della legge 17 febbraio 1992, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-17;179#art_6-com6) (Norme per l'edilizia residenziale pubblica), e' il seguente:
+ "5. Gli istituti e le sezioni di credito fondiario ed edilizio sono tenuti a concedere prioritariamente ai programmi edilizi assistiti dai contributi previsti dal presente articolo finanziamenti a tasso sia costante che variabile o in qualsivoglia altra forma tecnica, alle condizioni di mercato. In tal caso il contributo pubblico concesso ai beneficiari puo' essere ceduto pro solvendo all'ente mutuante. I finanziamenti predetti sono assistiti dalla garanzia dello Stato ai sensi dell'[art. 17 della legge 5 agosto 1978, n. 457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-05;457#art_17) e successive modificazioni.
+ 6. I mutui di cui al comma 5 concessi in pendenza dei procedimenti di espropriazione ai sensi dell'[art. 10 -ter del decreto - legge 13 agosto 1975, n. 376](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1975-08-13;376#art_10ter), convertito in legge, con modificazioni dalla [legge 16 ottobre 1975, n. 492](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%201975%20n.%20376%20concernente%20provvedimenti%20per%20il%20rilancio%20delleconomia%20riguardanti%20le%20esportazioni%20ledilizia%20e%20le%20opere%20pubbliche.md), usufruiscono della garanzia primaria dello Stato, a valere sulle disponibilita' di cui all'[art. 4 -bis del decreto-legge 12 settembre 1983, n. 462](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;462#art_4bis), convertito in legge con modificazioni dalla [legge 10 novembre 1983, n. 637](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20settembre%201983%20n.%20462%20concernente%20modifiche%20agli%20articoli%2010%20e%2014%20del%20decreto-legge%2023%20gennaio%201982%20n.%209%20convertito%20con%20modific_caaa51e95453.md), secondo le modalita' da stabilirsi con decreto del Ministro del tesoro".
+ - Il testo dell'[art. 17, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) e [4, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), e' il seguente:
+ "3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' subordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.
+ 4. I regolamenti di cui al comma 1 ed i regolamenti ministeriali ed interministeriali, che devono recare la denominazione di "regolamento", sono adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale".
+ - Il [d.lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385) (Testo unico delle leggi in materia bancaria e creditizia) definisce, all'art. 1, lettera b), "banca" l'impresa autorizzata all'esercizio dell'attivita' bancaria.
+ Nota all'art. 1:
+ - Il testo dell'[art. 6, commi 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-17;179#art_6-com5) e [6, della legge 17 febbraio 1992, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-17;179#art_6-com6), e' riportato nelle note alle premesse.
 
-a) per sopravvenuto accertamento della inefficacia definitiva delle iscrizioni ritualmente effettuate sugli immobili rimasti altrui;
+## Art. 2.
 
-b) per definitivo annullamento, senza possibilita' di rinnovazione, del decreto di espropriazione, se gli immobili ipotecati non sono stati altrimenti acquisiti dal comune o dal consorzio di comuni;
+1.
 
-c) per consolidamento dell'atto che dispone la risoluzione della cessione dell'area in proprieta' o la decadenza dalla concessione in superficie sull'area stessa, se la legge non prescrive il subentro del comune ai sensi dell'[articolo 37 della legge 22 ottobre 1971, n. 865](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-22;865~art37).
+In caso di inadempimento del mutuatario, la garanzia prevista dall'[articolo 6, comma 6, della legge 17 febbraio 1992, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-17;179#art_6-com6), diviene operante in seguito alla cancellazione delle ipoteche iscritte e nei limiti dell'importo cancellato, nei seguenti casi:
+                        a)
+                            per sopravvenuto accertamento della inefficacia definitiva delle iscrizioni ritualmente effettuate sugli immobili rimasti altrui;
+                        b)
+                            per definitivo annullamento, senza possibilita' di rinnovazione, del decreto di espropriazione, se gli immobili ipotecati non sono stati altrimenti acquisiti dal comune o dal consorzio di comuni;
+                        c)
+                            per consolidamento dell'atto che dispone la risoluzione della cessione dell'area in proprieta' o la decadenza dalla concessione in superficie sull'area stessa, se la legge non prescrive il subentro del comune ai sensi dell'[articolo 37 della legge 22 ottobre 1971, n. 865](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-22;865#art_37).
 
-Note all'art. 2;  
-- Il testo dell'[art. 6, comma 6, della legge 17 febbraio 1992, n. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-17;179~art6-com6), e' riportato nelle note alle premesse.  
-- Il testo dell'[art. 37 della legge 22 ottobre 1971, n. 865](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-22;865~art37), e' il seguente:  
-"In tutti i casi in cui si verifichi la decadenza della concessione e la conseguente estinzione del diritto di superficie di cui all'ottavo comma, lettera f) dell'art. 35, ovvero la risoluzione dell'atto di cessione in proprieta' di cui al tredicesimo comma, lettera d) dell'articolo medesimo, l'ente che ha concesso il diritto di superficie o che ha ceduto la proprieta' subentrera' nei rapporti obbligatori derivanti da mutui ipotecari concessi dagli istituti di credito per il finanziamento delle costruzioni sulle aree comprese nei piani approvati a norma della presente legge, con l'obbligo di soddisfare sino alla estinzione le ragioni di credito dei detti istituti.  
-I pagamenti da effettuare in adempimento di quanto previsto al comma precedente, saranno considerati come spese obbligatorie da iscrivere in bilancio da parte degli enti obbligati, i quali sono tenuti a vincolare agli stessi pagamenti le rendite derivanti dalle costruzioni acquisite per devoluzione o risoluzione della cessione in proprieta'".
+Note all'art. 2;
+ - Il testo dell'[art. 6, comma 6, della legge 17 febbraio 1992, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-17;179#art_6-com6), e' riportato nelle note alle premesse.
+ - Il testo dell'[art. 37 della legge 22 ottobre 1971, n. 865](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-22;865#art_37), e' il seguente:
+ "In tutti i casi in cui si verifichi la decadenza della concessione e la conseguente estinzione del diritto di superficie di cui all'ottavo comma, lettera f) dell'art. 35, ovvero la risoluzione dell'atto di cessione in proprieta' di cui al tredicesimo comma, lettera d) dell'articolo medesimo, l'ente che ha concesso il diritto di superficie o che ha ceduto la proprieta' subentrera' nei rapporti obbligatori derivanti da mutui ipotecari concessi dagli istituti di credito per il finanziamento delle costruzioni sulle aree comprese nei piani approvati a norma della presente legge, con l'obbligo di soddisfare sino alla estinzione le ragioni di credito dei detti istituti.
+ I pagamenti da effettuare in adempimento di quanto previsto al comma precedente, saranno considerati come spese obbligatorie da iscrivere in bilancio da parte degli enti obbligati, i quali sono tenuti a vincolare agli stessi pagamenti le rendite derivanti dalle costruzioni acquisite per devoluzione o risoluzione della cessione in proprieta'".
 
-Art. 3
-------
+## Art. 3.
 
-1. Ai sensi delle disposizioni citate in premessa, lo Stato garantisce il pagamento delle rate insolute, delle rate non ancora scadute nonche' gli eventuali oneri contrattuali accessori, purche' di importo complessivo non superiore all'uno per cento della somma data a mutuo. Gli interessi di mora sono garantiti nella misura massima del tasso di interesse corrispettivo, maggiorato di un punto.
+1.
 
-2. Le rate non ancora scadute sono pagate alle scadenze stabilite dal contratto di mutuo, senza decadenza dal beneficio del termine.
+Ai sensi delle disposizioni citate in premessa, lo Stato garantisce il pagamento delle rate insolute, delle rate non ancora scadute nonche' gli eventuali oneri contrattuali accessori, purche' di importo complessivo non superiore all'uno per cento della somma data a mutuo. Gli interessi di mora sono garantiti nella misura massima del tasso di interesse corrispettivo, maggiorato di un punto.
 
-Art. 4
-------
+2.
 
-1. Una volta disposto il pagamento ai sensi del primo comma del precedente articolo 3, lo Stato succede nei diritti spettanti agli istituti mutuanti, con l'obbligo per gli stessi di curare per conto e nell'interesse dello Stato il recupero dei crediti erariali.
+Le rate non ancora scadute sono pagate alle scadenze stabilite dal contratto di mutuo, senza decadenza dal beneficio del termine.
 
-2. La garanzia dello Stato viene meno se gli istituti mutuanti non ne richiedono l'attivazione entro un anno dal giorno in cui essa e' divenuta operante.
+## Art. 4.
 
-Art. 5
-------
+1.
 
-1. La richiesta di attivazione della garanzia, inoltrata al Ministero del tesoro - Direzione generale del tesoro - Servizio IV, a mezzo raccomandata con avviso di ricevimento, e' corredata dalla seguente documentazione in copia debitamente autenticata:  
-1) contratto di mutuo e relativo piano di ammortamento, con indicazione delle rate insolute, delle rate non scadute, degli interessi di mora e degli eventuali oneri accessori;  
-2) atti di erogazione e quietanza del mutuo nonche' documentazione relativa alla corrispondenza tra le erogazioni effettuate e lo stato di avanzamento dei lavori;  
-3) decreto regionale di concessione dei contributi pubblici di cui all'[articolo 6 della legge 17 febbraio 1992, n. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-17;179~art6);  
-4) convenzione stipulata ai sensi dell'[articolo 35 della legge n. 865 del 1971](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971;865~art35), unitamente all'atto di cessione in proprieta' o di concessione in superficie, ritualmente ed efficacemente trascritta;  
-5) decreto che ha autorizzato l'occupazione d'urgenza e relativo atto di controllo nonche' verbale di immissione nel possesso delle aree interessate;  
-6) attestazione rilasciata dal comune o dal consorzio di comuni relativa alla data di inizio delle procedure di espropriazione;  
-7) atti che hanno determinato la cancellazione delle ipoteche iscritte;  
-8) documentazione tecnica in ordine allo stato delle costruzioni ed alle cause di eventuale sospensione dei lavori;  
-9) conteggio dimostrativo dell'importo chiesto all'erario, elaborato imputando i pagamenti effettuati dal mutuatario nei limiti dell'ammontare del credito insoluto garantito dallo Stato (specificato per capitale, interessi corrispettivi e di mora, oneri accessori).
+Una volta disposto il pagamento ai sensi del primo comma del precedente articolo 3, lo Stato succede nei diritti spettanti agli istituti mutuanti, con l'obbligo per gli stessi di curare per conto e nell'interesse dello Stato il recupero dei crediti erariali.
 
-2. L'Amministrazione del tesoro puo' richiedere alla banca, all'uopo fissando uno o piu' termini, l'esibizione di altri atti o la comunicazione di altre informazioni. Il termine del procedimento decorre nuovamente per intero dalla data di presentazione della documentazione integrativa o delle informazioni.
+2.
 
-Nota all'art. 5:  
-- La convenzione di concessione in superficie o di cessione in proprieta' e' prevista dall'[art. 35, commi 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-22;865~art35-com5), [7](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-22;865~art35-com7) e [13, della legge 22 ottobre 1971, n. 865](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-22;865~art35-com13), il cui testo e' il seguente:  
-"5. La concessione del diritto di superficie ad enti pubblici per la realizzazione di impianti e servizi pubblici e' a tempo indeterminato, in tutti gli altri casi ha una durata non inferiore ad anni 60 e non superiore ad anni 99.  
-6. (Omissis).  
-7. La concessione e' deliberata dal consiglio comunale o dall'assemblea del consorzio. Con la stessa delibera viene determinato il contenuto della convenzione da stipularsi, per atto pubblico, da trascriversi presso il competente ufficio dei registri immobiliari fra l'ente concedente ed il richiedente.  
-8-12. (Omissis).  
-13. Contestualmente all'atto della cessione della proprieta' dell'area, tra il comune o il consorzio e il cessionario, viene stipulata una convenzione per atto pubblico la quale deve prevedere:  
-a) gli elementi progettati degli edifici da costruire e le modalita' del controllo sulla loro costruzione;  
-b) le caratteristiche costruttive e tipologiche degli edifici da costruire;  
-c) i termini di inizio e di ultimazione degli edifici;  
-d) i casi nei quali l'inosservanza degli obblighi previsti dalla convenzione comporta la risoluzione dell'atto di cessione".
+La garanzia dello Stato viene meno se gli istituti mutuanti non ne richiedono l'attivazione entro un anno dal giorno in cui essa e' divenuta operante.
 
-Art. 6
-------
+## Art. 5.
 
-1. Gli istituti mutuanti comunicano tempestivamente al Ministero del tesoro - Direzione generale del tesoro - Servizio IV, mediante raccomandata con avviso di ricevimento, ogni notizia riguardante il fallimento, la liquidazione coatta amministrativa o l'amministrazione controllata del soggetto mutuatario.
+1.
+
+La richiesta di attivazione della garanzia, inoltrata al Ministero del tesoro - Direzione generale del tesoro - Servizio IV, a mezzo raccomandata con avviso di ricevimento, e' corredata dalla seguente documentazione in copia debitamente autenticata:
+ 1) contratto di mutuo e relativo piano di ammortamento, con indicazione delle rate insolute, delle rate non scadute, degli interessi di mora e degli eventuali oneri accessori;
+ 2) atti di erogazione e quietanza del mutuo nonche' documentazione relativa alla corrispondenza tra le erogazioni effettuate e lo stato di avanzamento dei lavori;
+ 3) decreto regionale di concessione dei contributi pubblici di cui all'[articolo 6 della legge 17 febbraio 1992, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-17;179#art_6);
+ 4) convenzione stipulata ai sensi dell'[articolo 35 della legge n. 865 del 1971](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971;865#art_35), unitamente all'atto di cessione in proprieta' o di concessione in superficie, ritualmente ed efficacemente trascritta;
+ 5) decreto che ha autorizzato l'occupazione d'urgenza e relativo atto di controllo nonche' verbale di immissione nel possesso delle aree interessate;
+ 6) attestazione rilasciata dal comune o dal consorzio di comuni relativa alla data di inizio delle procedure di espropriazione;
+ 7) atti che hanno determinato la cancellazione delle ipoteche iscritte;
+ 8) documentazione tecnica in ordine allo stato delle costruzioni ed alle cause di eventuale sospensione dei lavori;
+ 9) conteggio dimostrativo dell'importo chiesto all'erario, elaborato imputando i pagamenti effettuati dal mutuatario nei limiti dell'ammontare del credito insoluto garantito dallo Stato (specificato per capitale, interessi corrispettivi e di mora, oneri accessori).
+
+2.
+
+L'Amministrazione del tesoro puo' richiedere alla banca, all'uopo fissando uno o piu' termini, l'esibizione di altri atti o la comunicazione di altre informazioni. Il termine del procedimento decorre nuovamente per intero dalla data di presentazione della documentazione integrativa o delle informazioni.
+
+Nota all'art. 5:
+ - La convenzione di concessione in superficie o di cessione in proprieta' e' prevista dall'[art. 35, commi 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-22;865#art_35-com5), [7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-22;865#art_35-com7) e [13, della legge 22 ottobre 1971, n. 865](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-22;865#art_35-com13), il cui testo e' il seguente:
+ "5. La concessione del diritto di superficie ad enti pubblici per la realizzazione di impianti e servizi pubblici e' a tempo indeterminato, in tutti gli altri casi ha una durata non inferiore ad anni 60 e non superiore ad anni 99.
+ 6. (Omissis).
+ 7. La concessione e' deliberata dal consiglio comunale o dall'assemblea del consorzio. Con la stessa delibera viene determinato il contenuto della convenzione da stipularsi, per atto pubblico, da trascriversi presso il competente ufficio dei registri immobiliari fra l'ente concedente ed il richiedente.
+ 8-12. (Omissis).
+ 13. Contestualmente all'atto della cessione della proprieta' dell'area, tra il comune o il consorzio e il cessionario, viene stipulata una convenzione per atto pubblico la quale deve prevedere:
+ a) gli elementi progettati degli edifici da costruire e le modalita' del controllo sulla loro costruzione;
+ b) le caratteristiche costruttive e tipologiche degli edifici da costruire;
+ c) i termini di inizio e di ultimazione degli edifici;
+ d) i casi nei quali l'inosservanza degli obblighi previsti dalla convenzione comporta la risoluzione dell'atto di cessione".
+
+## Art. 6.
+
+1.
+
+Gli istituti mutuanti comunicano tempestivamente al Ministero del tesoro - Direzione generale del tesoro - Servizio IV, mediante raccomandata con avviso di ricevimento, ogni notizia riguardante il fallimento, la liquidazione coatta amministrativa o l'amministrazione controllata del soggetto mutuatario.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 7 ottobre 1997
+Roma, 7 ottobre 1997
 
-Il Ministro: Ciampi
-
-Visto, il Guardasigilli: Flick
+Il Ministro: Ciampi Visto, il Guardasigilli: Flick

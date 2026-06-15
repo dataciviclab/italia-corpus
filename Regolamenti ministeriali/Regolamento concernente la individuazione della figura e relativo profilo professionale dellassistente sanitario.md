@@ -1,18 +1,16 @@
-DECRETO 17 gennaio 1997 n. 69
-
-
-DECRETO 17 gennaio 1997 n. 69
-=============================
-
-Regolamento concernente la individuazione della figura e relativo profilo professionale dell'assistente sanitario
------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 11-4-97
+---
+tipo: DECRETO
+numero: 69
+data: 1997-01-17
+titolo: "Regolamento concernente la individuazione della figura e relativo profilo professionale dell'assistente sanitario"
+urn: urn:nir:ministero.sanita:decreto:1997-01-17;69
+codice_redazionale: 097G0106
+vigente: true
+---
 
 IL MINISTRO DELLA SANITA'
--------------------------
 
-Visto l'[articolo 6, comma 3, del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art6-com3), recante: "Riordino della disciplina in materia sanitaria, a norma dell'[articolo 1 della legge 23 ottobre 1992, n. 421](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421~art1)", nel testo modificato dal [decreto legislativo 7 dicembre 1993, n. 517](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-07;517);
+Visto l'[articolo 6, comma 3, del decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), recante: "Riordino della disciplina in materia sanitaria, a norma dell'[articolo 1 della legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md)", nel testo modificato dal [decreto legislativo 7 dicembre 1993, n. 517](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20al%20decreto%20legislativo%2030%20dicembre%201992%20n.%20502%20recante%20riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
 
 Ritenuto che, in ottemperanza alle precitate disposizioni, spetta al Ministro della sanita' di individuare con proprio decreto le figure professionali da formare ed i relativi profili, relativamente alle aree del personale sanitario infermieristico, tecnico e della riabilitazione;
 
@@ -24,80 +22,82 @@ Visto il parere del Consiglio superiore di sanita', espresso nella seduta del 15
 
 Udito il parere del Consiglio di Stato espresso nella adunanza generale del 19 dicembre 1996;
 
-Vista la nota, in data 17 gennaio 1997 con cui lo schema di regolamento e' stato trasmesso, ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3), al Presidente del Consiglio dei Ministri;
+Vista la nota, in data 17 gennaio 1997 con cui lo schema di regolamento e' stato trasmesso, ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), al Presidente del Consiglio dei Ministri;
 
-Adotta
-------
+Adotta il seguente regolamento:
 
-il seguente regolamento:
+## Art. 1.
 
-Art. 1
-------
+1.
 
-1. E' individuata la figura professionale dell'assistente sanitario con il seguente profilo: l'assistente sanitario e' l'operatore sanitario che, in possesso del diploma universitario abilitante e dell'iscrizione all'albo professionale, e' addetto alla prevenzione, alla promozione ed alla educazione per la salute.
+E' individuata la figura professionale dell'assistente sanitario con il seguente profilo: l'assistente sanitario e' l'operatore sanitario che, in possesso del diploma universitario abilitante e dell'iscrizione all'albo professionale, e' addetto alla prevenzione, alla promozione ed alla educazione per la salute.
 
-2. L'attivita' dell'assistente sanitario e' rivolta alla persona, alla famiglia e alla collettivita'; individua i bisogni di salute e le priorita' di intervento preventivo, educativo e di recupero.
+2.
 
-3. L'assistente sanitario:
+L'attivita' dell'assistente sanitario e' rivolta alla persona, alla famiglia e alla collettivita'; individua i bisogni di salute e le priorita' di intervento preventivo, educativo e di recupero.
 
-a) identifica i bisogni di salute sulla base dei dati epidemiologici e socio-culturali, individua i fattori biologici e sociali di rischio ed e' responsabile dell'attuazione e della soluzione e degli interventi che rientrano nell'ambito delle proprie competenze;
+3.
 
-b) progetta, programma, attua e valuta gli interventi di educazione alla salute in tutte le fasi della vita della persona;
+L'assistente sanitario:
+                        a)
+                            identifica i bisogni di salute sulla base dei dati epidemiologici e socio-culturali, individua i fattori biologici e sociali di rischio ed e' responsabile dell'attuazione e della soluzione e degli interventi che rientrano nell'ambito delle proprie competenze;
+                        b)
+                            progetta, programma, attua e valuta gli interventi di educazione alla salute in tutte le fasi della vita della persona;
+                        c)
+                            collabora alla definizione delle metodologie di comunicazione, ai programmi ed a campagne per le promozione e l'educazione sanitaria;
+                        d)
+                            concorre alla formazione e all'aggiornamento degli operatori sanitari e scolastici per quanto concerne la metodologia dell'educazione sanitaria;
+                        e)
+                            interviene nei programmi di pianificazione familiare e di educazione sanitaria, sessuale e socio-affettiva;
+                        f)
+                            attua interventi specifici di sostegno alla famiglia, attiva risorse di rete anche in collaborazione con i medici di medicina generale ed altri operatori sul territorio e partecipa ai programmi di terapia per la famiglia;
+                        g)
+                            sorveglia, per quanto di sua competenza, le condizioni igienico-sanitarie nelle famiglie, nelle scuole e nelle comunita' assistite e controlla l'igiene dell'ambiente e del rischio infettivo;
+                        h)
+                            relaziona e verbalizza alle autorita' competenti e propone soluzioni operative;
+                        i)
+                            opera nell'ambito dei Centri congiuntamente o in alternativa con i Servizi di educazione alla salute, negli uffici di relazione con il pubblico;
+                        l)
+                            collabora, per quanto di sua competenza, agli interventi di promozione ed educazione alla salute nelle scuole;
+                        m)
+                            partecipa alle iniziative di valutazione e miglioramento alla qualita' delle prestazioni dei servizi sanitari rilevando, in particolare, i livelli di gradimento da parte degli utenti;
+                        n)
+                            concorre alle iniziative dirette alla tutela dei diritti dei cittadini con particolare riferimento alla promozione della salute;
+                        o)
+                            partecipa alle attivita' organizzate in forma dipartimentale, sia distrettuali che ospedaliere, con funzioni di raccordo interprofessionale, con particolare riguardo ai dipartimenti destinati a dare attuazione ai progetti-obiettivo individuati dalla programmazione sanitaria nazionale, regionale e locale;
+                        p)
+                            svolge le proprie funzioni con autonomia professionale anche mediante l'uso di tecniche e strumenti specifici;
+                        q)
+                            svolge attivita' didattico-formativa e di consulenza nei servizi, ove richiesta la sua competenza professionale;
+                        r)
+                            agisce sia individualmente sia in collaborazione con altri operatori sanitari, sociali e scolastici, avvalendosi, ove necessario, dell'opera del personale di supporto.
 
-c) collabora alla definizione delle metodologie di comunicazione, ai programmi ed a campagne per le promozione e l'educazione sanitaria;
+4.
 
-d) concorre alla formazione e all'aggiornamento degli operatori sanitari e scolastici per quanto concerne la metodologia dell'educazione sanitaria;
+L'assistente sanitario contribuisce alla formazione del personale di supporto e concorre direttamente all'aggiornamento relativo al proprio profilo professionale.
 
-e) interviene nei programmi di pianificazione familiare e di educazione sanitaria, sessuale e socio-affettiva;
+5.
 
-f) attua interventi specifici di sostegno alla famiglia, attiva risorse di rete anche in collaborazione con i medici di medicina generale ed altri operatori sul territorio e partecipa ai programmi di terapia per la famiglia;
+L'assistente sanitario svolge la sua attivita' in strutture pubbliche e private, in regime di dipendenza o libero professionale.
 
-g) sorveglia, per quanto di sua competenza, le condizioni igienico-sanitarie nelle famiglie, nelle scuole e nelle comunita' assistite e controlla l'igiene dell'ambiente e del rischio infettivo;
+Avvertenza:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Note alle premesse:
+ - Il testo dell'[art. 6, comma 3, del D.Lgs. 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), nel testo modificato dal [D.Lgs. 7 dicembre 1993, n. 517](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20al%20decreto%20legislativo%2030%20dicembre%201992%20n.%20502%20recante%20riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e' il seguente: "A norma dell'[art. 1, lettera o), della legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md), la formazione del personale sanitario infermieristico, tecnico e della riabilitazione avviene in sede ospedaliera ovvero presso altre strutture del Servizio sanitario nazionale e istituzioni private accreditate. I requisiti di idoneita' e l'accreditamento delle strutture sono disciplinati con decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica d'intesa con il Ministro della sanita'. Il Ministro della sanita' individua con proprio decreto le figure professionali da formare ed i relativi profili. Il relativo ordinamento didattico e' definito, ai sensi dell'[art. 9 della legge 19 novembre 1990, n. 341](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-19;341#art_9), con decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica emanato di concerto con il Ministro della sanita'".
+ - Il [comma 3 dell'art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.
+ Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
 
-h) relaziona e verbalizza alle autorita' competenti e propone soluzioni operative;
+## Art. 2.
 
-i) opera nell'ambito dei Centri congiuntamente o in alternativa con i Servizi di educazione alla salute, negli uffici di relazione con il pubblico;
+1.
 
-l) collabora, per quanto di sua competenza, agli interventi di promozione ed educazione alla salute nelle scuole;
+Il diploma universitario dell'assistente sanitario, conseguito ai sensi dell'[articolo 6, comma 3, del decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, abilita all'esercizio della professione, previa iscrizione al relativo albo professionale.
 
-m) partecipa alle iniziative di valutazione e miglioramento alla qualita' delle prestazioni dei servizi sanitari rilevando, in particolare, i livelli di gradimento da parte degli utenti;
-
-n) concorre alle iniziative dirette alla tutela dei diritti dei cittadini con particolare riferimento alla promozione della salute;
-
-o) partecipa alle attivita' organizzate in forma dipartimentale, sia distrettuali che ospedaliere, con funzioni di raccordo interprofessionale, con particolare riguardo ai dipartimenti destinati a dare attuazione ai progetti-obiettivo individuati dalla programmazione sanitaria nazionale, regionale e locale;
-
-p) svolge le proprie funzioni con autonomia professionale anche mediante l'uso di tecniche e strumenti specifici;
-
-q) svolge attivita' didattico-formativa e di consulenza nei servizi, ove richiesta la sua competenza professionale;
-
-r) agisce sia individualmente sia in collaborazione con altri operatori sanitari, sociali e scolastici, avvalendosi, ove necessario, dell'opera del personale di supporto.
-
-4. L'assistente sanitario contribuisce alla formazione del personale di supporto e concorre direttamente all'aggiornamento relativo al proprio profilo professionale.
-
-5. L'assistente sanitario svolge la sua attivita' in strutture pubbliche e private, in regime di dipendenza o libero professionale.
-
-Avvertenza:  
-Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.  
-Note alle premesse:  
-- Il testo dell'[art. 6, comma 3, del D.Lgs. 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art6-com3), nel testo modificato dal [D.Lgs. 7 dicembre 1993, n. 517](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-07;517), e' il seguente: "A norma dell'[art. 1, lettera o), della legge 23 ottobre 1992, n. 421](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421~art1-leto), la formazione del personale sanitario infermieristico, tecnico e della riabilitazione avviene in sede ospedaliera ovvero presso altre strutture del Servizio sanitario nazionale e istituzioni private accreditate. I requisiti di idoneita' e l'accreditamento delle strutture sono disciplinati con decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica d'intesa con il Ministro della sanita'. Il Ministro della sanita' individua con proprio decreto le figure professionali da formare ed i relativi profili. Il relativo ordinamento didattico e' definito, ai sensi dell'[art. 9 della legge 19 novembre 1990, n. 341](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-19;341~art9), con decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica emanato di concerto con il Ministro della sanita'".  
-- Il [comma 3 dell'art. 17 della legge n. 400/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.  
-Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
-
-Art. 2
-------
-
-1. Il diploma universitario dell'assistente sanitario, conseguito ai sensi dell'[articolo 6, comma 3, del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art6-com3), e successive modificazioni, abilita all'esercizio della professione, previa iscrizione al relativo albo professionale.
+Nota all'art. 2:
+ - Per il testo del [comma 3 dell'art. 6 del D.Lgs. n. 502/1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;502#art_6-com3) si veda in nota alle premesse.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 17 gennaio 1997
+Roma, 17 gennaio 1997
 
-Il Ministro: Bindi
-
-Visto, il Guardasigilli: Flick Registrato alla Corte dei conti il 14 marzo 1997
-
-Registro n. 1 Sanita', foglio n. 50
-
-Nota all'art. 2:  
-- Per il testo del [comma 3 dell'art. 6 del D.Lgs. n. 502/1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;502~art6-com3) si veda in nota alle premesse.
+Il Ministro: Bindi Visto, il Guardasigilli: Flick Registrato alla Corte dei conti il 14 marzo 1997 Registro n. 1 Sanita', foglio n. 50

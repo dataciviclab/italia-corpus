@@ -1,306 +1,131 @@
-DECRETO 31 maggio 2016 n. 142
-
-
-DECRETO 31 maggio 2016 n. 142
-=============================
-
-Regolamento recante aggiornamento al decreto del Ministro della sanita' 21 marzo 1973 concernente la «Disciplina igienica degli imballaggi, recipienti, utensili, destinati a venire in contatto con le sostanze alimentari o con sostanze d'uso personale», limitatamente agli oggetti di cellulosa rigenerata. (16G00154)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/08/2016
+---
+tipo: DECRETO
+numero: 142
+data: 2016-05-31
+titolo: "Regolamento recante aggiornamento al decreto del Ministro della sanita' 21 marzo 1973 concernente la «Disciplina igienica degli imballaggi, recipienti, utensili, destinati a venire in contatto con le sostanze alimentari o con sostanze d'uso personale», limitatamente agli oggetti di cellulosa rigenerata. (16G00154)"
+urn: urn:nir:ministero.salute:decreto:2016-05-31;142
+codice_redazionale: 16G00154
+vigente: true
+---
 
 IL MINISTRO DELLA SALUTE
-------------------------
 
-Visto il [regolamento (CE) n. 1935/2004 del Parlamento europeo e del Consiglio del 27 ottobre 2004](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32004R1935) riguardante i materiali e gli oggetti destinati a venire a contatto con i prodotti alimentari e che abroga le [direttive 80/590/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31980L0590) e [89/109/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31989L0109);
+Visto il regolamento (CE) n. 1935/2004 del Parlamento europeo e del Consiglio del 27 ottobre 2004 riguardante i materiali e gli oggetti destinati a venire a contatto con i prodotti alimentari e che abroga le [direttive 80/590/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1980;590) e [89/109/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;109);
 
-Visto il [regolamento (CE) n. 2023/2006 della Commissione del 22 dicembre 2006](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32006R2023) sulle buone pratiche di fabbricazione dei materiali e degli oggetti destinati a venire a contatto con prodotti alimentari;
+Visto il regolamento (CE) n. 2023/2006 della Commissione del 22 dicembre 2006 sulle buone pratiche di fabbricazione dei materiali e degli oggetti destinati a venire a contatto con prodotti alimentari;
 
-Vista la [direttiva (CE) n. 2007/42 della Commissione del 29 giugno 2007](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31942L2007) che modifica la [direttiva 2004/14/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32004L0014), relativa ai materiali e agli oggetti di pellicola rigenerata destinati a venire a contatto con i prodotti alimentari;
+Vista la [direttiva (CE) n. 2007/42 della Commissione del 29 giugno 2007](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1942;2007) che modifica la [direttiva 2004/14/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;14), relativa ai materiali e agli oggetti di pellicola rigenerata destinati a venire a contatto con i prodotti alimentari;
 
-Visto il [regolamento (UE) n. 10/2011 della Commissione del 14 gennaio 2011](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32011R0010) riguardante i materiali e gli oggetti di materia plastica destinati a venire a contatto con i prodotti alimentari;
+Visto il regolamento (UE) n. 10/2011 della Commissione del 14 gennaio 2011 riguardante i materiali e gli oggetti di materia plastica destinati a venire a contatto con i prodotti alimentari;
 
-Vista la [legge 30 aprile 1962, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), concernente la disciplina igienica della produzione e della vendita delle sostanze alimentari e delle bevande e successive modifiche;
+Vista la [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), concernente la disciplina igienica della produzione e della vendita delle sostanze alimentari e delle bevande e successive modifiche;
 
-Visto l'[articolo 3 del decreto del Presidente della Repubblica 23 agosto 1982, n. 777](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-08-23;777~art3), come modificato dall'[articolo 3 del decreto legislativo 25 gennaio 1992, n. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-25;108~art3);
+Visto l'[articolo 3 del decreto del Presidente della Repubblica 23 agosto 1982, n. 777](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-893%20relativa%20ai%20materiali%20e%20agli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md), come modificato dall'[articolo 3 del decreto legislativo 25 gennaio 1992, n. 108](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-109-CEE%20concernente%20i%20materiali%20e%20gli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md);
 
-Visto il [decreto del Ministro della sanita' 21 marzo 1973, pubblicato nel supplemento ordinario della Gazzetta Ufficiale n. 104 del 20 aprile 1973](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1973-04-20&numeroGazzetta=104), concernente la disciplina igienica degli imballaggi, recipienti, utensili destinati a venire in contatto con le sostanze alimentari o con sostanze d'uso personale e successive modificazioni;
+Visto il decreto del Ministro della sanita' 21 marzo 1973, pubblicato nel supplemento ordinario della Gazzetta Ufficiale n. 104 del 20 aprile 1973, concernente la disciplina igienica degli imballaggi, recipienti, utensili destinati a venire in contatto con le sostanze alimentari o con sostanze d'uso personale e successive modificazioni;
 
-Visto il [decreto del Ministro della sanita' 2 dicembre 1980, pubblicato nella Gazzetta Ufficiale n. 347 del 19 dicembre 1980](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1980-12-19&numeroGazzetta=347);
+Visto il decreto del Ministro della sanita' 2 dicembre 1980, pubblicato nella Gazzetta Ufficiale n. 347 del 19 dicembre 1980;
 
-Visto il [decreto del Ministro della sanita' 2 giugno 1982, pubblicato nella Gazzetta Ufficiale n. 200 del 22 luglio 1982](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1982-07-22&numeroGazzetta=200);
+Visto il decreto del Ministro della sanita' 2 giugno 1982, pubblicato nella Gazzetta Ufficiale n. 200 del 22 luglio 1982;
 
-Visto il decreto del Ministro della salute 4 aprile 1985, recante aggiornamento del citato decreto del Ministro della sanita' 21 marzo 1973, concernente la disciplina igienica degli imballaggi, recipienti, utensili destinati a venire in contatto con le sostanze alimentari o con le sostanze d'uso personale, [pubblicato nella Gazzetta Ufficiale n. 120 del 23 maggio 1985](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1985-05-23&numeroGazzetta=120);
+Visto il decreto del Ministro della salute 4 aprile 1985, recante aggiornamento del citato decreto del Ministro della sanita' 21 marzo 1973, concernente la disciplina igienica degli imballaggi, recipienti, utensili destinati a venire in contatto con le sostanze alimentari o con le sostanze d'uso personale, pubblicato nella Gazzetta Ufficiale n. 120 del 23 maggio 1985;
 
-Visto il [decreto del Ministro della salute 1° luglio 1994, n. 556](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.salute:decreto:1994-07-01;556), recante aggiornamento del citato decreto del Ministro della sanita' 21 marzo 1973, concernente la disciplina igienica degli imballaggi, recipienti, utensili destinati a venire in contatto con le sostanze alimentari o con le sostanze d'uso personale. Attuazione delle [direttive 93/10/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31993L0010) e [93/111/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31993L0111) [pubblicato nel supplemento ordinario della Gazzetta Ufficiale n. 229 del 30 settembre 1994](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1994-09-30&numeroGazzetta=229);
+Visto il [decreto del Ministro della salute 1° luglio 1994, n. 556](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.salute:decreto:1994-07-01;556), recante aggiornamento del citato decreto del Ministro della sanita' 21 marzo 1973, concernente la disciplina igienica degli imballaggi, recipienti, utensili destinati a venire in contatto con le sostanze alimentari o con le sostanze d'uso personale. Attuazione delle [direttive 93/10/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;10) e [93/111/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;111) pubblicato nel supplemento ordinario della Gazzetta Ufficiale n. 229 del 30 settembre 1994;
 
-Visto il [decreto del Ministro della sanita' 17 dicembre 1999, n. 538](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:1999-12-17;538), recante aggiornamento del citato decreto del Ministro della sanita' 21 marzo 1973 concernente la disciplina igienica degli imballaggi, recipienti, utensili destinati a venire in contatto con le sostanze alimentari o con sostanze d'uso personale, [pubblicato nella Gazzetta Ufficiale n. 28 del 4 febbraio 2000](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2000-02-04&numeroGazzetta=28);
+Visto il [decreto del Ministro della sanita' 17 dicembre 1999, n. 538](Regolamento%20recante%20aggiornamento%20del%20decreto%20ministeriale%2021%20marzo%201973%20concernente%20la%20disciplina%20igienica%20degli%20imballaggi%20recipienti%20utensili%20destinati%20a%20venire%20in%20contatto%20con%20le%20sost_c4617ef6a8b8_2.md), recante aggiornamento del citato decreto del Ministro della sanita' 21 marzo 1973 concernente la disciplina igienica degli imballaggi, recipienti, utensili destinati a venire in contatto con le sostanze alimentari o con sostanze d'uso personale, pubblicato nella Gazzetta Ufficiale n. 28 del 4 febbraio 2000;
 
-Visto il [decreto del Ministro della salute 10 maggio 2006, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.salute:decreto:2006-05-10;230), recante recepimento della [direttiva 2004/14/CE del 29 gennaio 2004](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32004L0014) che modifica la [direttiva 93/10/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31993L0010), relativa ai materiali e agli oggetti di pellicola rigenerata destinati a venire a contatto con gli alimenti, [pubblicato nella Gazzetta Ufficiale n. 160 del 12 luglio 2006](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2006-07-12&numeroGazzetta=160);
+Visto il [decreto del Ministro della salute 10 maggio 2006, n. 230](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20recepimento%20della%20direttiva%202004-14-CE%20del%2029%20gennaio%202004%20che%20modifica%20la%20direttiva%2093-10-CEE%20relativa%20ai%20materiali%20e%20agli%20oggetti%20di%20pellicola%20di%20cellulosa%20rigenerat_7e64a434b64c.md), recante recepimento della [direttiva 2004/14/CE del 29 gennaio 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;14) che modifica la [direttiva 93/10/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;10), relativa ai materiali e agli oggetti di pellicola rigenerata destinati a venire a contatto con gli alimenti, pubblicato nella Gazzetta Ufficiale n. 160 del 12 luglio 2006;
 
-Ritenuto di dover procedere per ragioni di chiarezza e semplificazione normativa all'elaborazione di un articolato coordinato del decreto ministeriale 21 marzo 1973 limitatamente agli oggetti di cellulosa rigenerata destinati a venire a contatto con le sostanze alimentari, che recepisca la [direttiva 2007/42/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32007L0042), e all'abrogazione espressa di disposizioni preesistenti relative alla cellulosa rigenerata;
+Ritenuto di dover procedere per ragioni di chiarezza e semplificazione normativa all'elaborazione di un articolato coordinato del decreto ministeriale 21 marzo 1973 limitatamente agli oggetti di cellulosa rigenerata destinati a venire a contatto con le sostanze alimentari, che recepisca la [direttiva 2007/42/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2007;42), e all'abrogazione espressa di disposizioni preesistenti relative alla cellulosa rigenerata;
 
 Sentito il Consiglio superiore di sanita' che si e' espresso nella seduta del 9 giugno 2015;
 
 Udito il parere del Consiglio di Stato espresso nella sezione consultiva per gli atti normativi nell'adunanza del 19 novembre 2015;
 
-Visto l'[articolo 17 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17) e successive modificazioni;
+Visto l'[articolo 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17) e successive modificazioni;
 
-Vista la comunicazione al Presidente del Consiglio dei ministri ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3) e successive modificazioni, effettuata in data 3 dicembre 2015, prot.
+Vista la comunicazione al Presidente del Consiglio dei ministri ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) e successive modificazioni, effettuata in data 3 dicembre 2015, prot.
 
 n. 45190 e la nota del 16 febbraio 2016 prot. n. DAGL 1846 con la quale il Dipartimento per gli affari giuridici e legislativi della Presidenza del Consiglio dei ministri ha preso atto della comunicazione effettuata;
 
-Adotta
-------
+Adotta il seguente regolamento:
 
-il seguente regolamento:
+## Art. 1.
 
-Art. 1
-------
+1.
 
-1. Al decreto del Ministro della sanita' 21 marzo 1973 citato in premessa sono apportate le seguenti modifiche:
+Al decreto del Ministro della sanita' 21 marzo 1973 citato in premessa sono apportate le seguenti modifiche:
+                        a)
+                            l'articolo 20 e' sostituito dal seguente: 
+ «Art. 20 - 1. Il presente capo disciplina le pellicole di cellulosa rigenerata le quali: 
+ a) costituiscono di per se' un prodotto finito, oppure 
+ b) sono parte di un prodotto finito contenente altri materiali, e che sono destinate a venire a contatto con prodotti alimentari, o vengono con essi a contatto conformemente a tale destinazione. 
+ 2. La pellicola di cellulosa rigenerata e' un foglio sottile prodotto a partire da cellulosa raffinata ottenuta da legno o cotone non riciclati. Per esigenze tecnologiche, opportune sostanze possono essere incorporate nella massa o in superficie. Le pellicole di cellulosa rigenerata possono essere rivestite su uno o su ambedue i lati.»;
+                        b)
+                            l'articolo 21 e' sostituito dal seguente: 
+ «Art. 21 - 1. Le pellicole di cellulosa rigenerata di cui all'articolo 20 appartengono ad una delle seguenti categorie: 
+ a) pellicole di cellulosa rigenerata non rivestita; 
+ b) pellicole di cellulosa rigenerata con un rivestimento derivato dalla cellulosa; 
+ c) pellicole di cellulosa rigenerata con un rivestimento in materia plastica.»;
+                        c)
+                            dopo l'articolo 21 e' inserito il seguente: 
+ «Art. 21-bis - 1. Le pellicole di cellulosa rigenerata di cui all'articolo 21, comma 1, lettere a) e b), devono essere prodotte utilizzando solo le sostanze e i gruppi di sostanze elencate nell'allegato II sezione 3-bis del presente decreto alle condizioni ivi stabilite. 
+ 2. Le pellicole di cellulosa rigenerata di cui all'articolo 21, comma 1, lettera c), devono essere prodotte, prima di essere rivestite, utilizzando solo le sostanze o i gruppi di sostanze elencati nell'allegato II, sezione 3-bis, Parte prima, del presente decreto alle condizioni ivi stabilite. 
+ 3. In deroga al comma 1, sostanze non elencate nell'allegato II, sezione 3-bis del presente decreto possono essere utilizzate come coloranti (tinture e pigmenti) o come adesivi, a condizione che non vi sia traccia di migrazione di dette sostanze all'interno o sulla superficie dei prodotti alimentari, rilevabile con un metodo convalidato conformemente a quanto stabilito dal presente decreto. 
+ 4. Il controllo della conformita' delle pellicole di cellulosa rigenerata e' effettuato secondo le modalita' di cui alla sezione 5 dell'allegato IV del presente decreto o in alternativa con metodi di prestazioni adeguate ai limiti e prescrizioni previste nell'Allegato II sez. 3-bis.»;
+                        d)
+                            l'articolo 23 e' sostituito dal seguente: 
+ «Art. 23 - 1. Il rivestimento delle pellicole di cellulosa rigenerata definite all'articolo 21, comma 1, lettera c), deve essere prodotto utilizzando le sostanze consentite per i materiali e gli oggetti di materia plastica destinati a venire a contatto con i prodotti alimentari dal regolamento UE n. 10/2011 e successive modificazioni, alle condizioni ivi stabilite. 
+ 2. I materiali ed oggetti ottenuti con le pellicole di cui all'articolo 21, comma 1, lettera c), devono essere conformi alle disposizioni di cui all'articolo 12 del regolamento UE n. 10/2011 e successive modificazioni.»;
+                        e)
+                            dopo l'articolo 23 e' inserito il seguente: 
+ «Art. 23-bis - 1. I budelli sintetici di cellulosa rigenerata sono ammessi all'impiego in contatto con gli alimenti a condizione che siano formati esclusivamente di cellulosa rigenerata plastificata con glicerina. 
+ 2. Prima dell'uso tali budelli devono essere lavati in maniera che il contenuto massimo di glicerina non superi il 13%. 
+ 3. Le disposizioni di cui ai commi 1 e 2 del presente articolo non si applicano ai budelli sintetici di cellulosa rigenerata legalmente prodotti e/o commercializzati in un altro Stato membro dell'Unione europea o in Turchia ovvero legalmente fabbricati in uno degli Stati firmatari dell'Associazione europea di libero scambio (EFTA), parte contraente dell'accordo sullo spazio economico europeo (SEE), purche' garantiscano un livello equivalente di protezione della salute.»;
+                        f)
+                            dopo l'articolo 25 e' inserito il seguente: 
+ «Art. 25-bis - 1. Nelle fasi di commercializzazione diverse dalla vendita al dettaglio, i materiali e gli oggetti di pellicola di cellulosa rigenerata destinati a venire a contatto con gli alimenti devono essere accompagnati da una dichiarazione scritta secondo quanto disposto dall'articolo 16, paragrafo 1, del regolamento (CE) n. 1935/2004. 
+ 2. Le disposizioni del comma 1 non si applicano ai materiali e agli oggetti di pellicola di cellulosa rigenerata che per loro natura sono chiaramente destinati a venire a contatto con alimenti. 
+ 3. Qualora siano previste particolari condizioni d'uso, il materiale o l'articolo di pellicola di cellulosa rigenerata sono etichettati conformemente.»;
+                        g)
+                            l'allegato II, sezione 3-bis: «Cellulosa rigenerata» e' sostituito dall'allegato I al presente decreto.
 
-a) l'articolo 20 e' sostituito dal seguente:   
-«Art. 20 - 1. Il presente capo disciplina le pellicole di cellulosa rigenerata le quali:   
-a) costituiscono di per se' un prodotto finito, oppure   
-b) sono parte di un prodotto finito contenente altri materiali, e che sono destinate a venire a contatto con prodotti alimentari, o vengono con essi a contatto conformemente a tale destinazione.   
-2. La pellicola di cellulosa rigenerata e' un foglio sottile prodotto a partire da cellulosa raffinata ottenuta da legno o cotone non riciclati. Per esigenze tecnologiche, opportune sostanze possono essere incorporate nella massa o in superficie. Le pellicole di cellulosa rigenerata possono essere rivestite su uno o su ambedue i lati.»;
+Avvertenza: 
+ - Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ - Per i provvedimenti comunitari vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale dell'Unione Europea (GUUE). 
+ Note alle premesse: 
+ - Il regolamento CE n. 1935/2004 del Parlamento europeo e del Consiglio del 27 ottobre 2004 riguardante i materiali e gli oggetti destinati a venire a contatto con i prodotti alimentari e che abroga le [direttive 80/590/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1980;590) e [89/109/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;109) e' stato pubblicato nella GUUE serie [L n. 338 del 13 novembre 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-11-13;338). 
+ - Il regolamento CE n. 2023/2006 della Commissione del 22 dicembre 2006 sulle buone pratiche di fabbricazione dei materiali e degli oggetti destinati a venire a contatto con prodotti alimentari e' stato pubblicato nella GUUE serie [L n. 384 del 29 dicembre 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-29;384). 
+ - La [direttiva 2007/42/CE della Commissione del 29 giugno 2007](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2007;42) relativa ai materiali e agli oggetti di pellicola di cellulosa rigenerata destinati a venire a contatto con i prodotti alimentari e' stata pubblicata nella GUUE serie [L n. 172 del 30 giugno 2007](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-06-30;172). 
+ - Il regolamento CE n. 10/2011 della Commissione del 14 gennaio 2011 riguardante i materiali e gli oggetti di materia plastica destinati a venire a contatto con i prodotti alimentari e' stato pubblicato nella GUUE serie [L n. 12 del 15 gennaio 2011](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-01-15;12). 
+ - La [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283) (Modifica degli [articoli 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_242), [243](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_243), [247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_247), [250](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_250) e [262 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_262) approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265): Disciplina igienica della produzione e della vendita delle sostanze alimentari e delle bevande) e' stata pubblicata nella Gazzetta Ufficiale n. 139 del 4 giugno 1962. 
+ - Il testo dell'[art. 3 del decreto del Presidente della Repubblica 23 agosto 1982, n. 777](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-893%20relativa%20ai%20materiali%20e%20agli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md) (Attuazione della [direttiva CEE n. 76/893](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1976;893) relativa ai materiali ed agli oggetti destinati a venire a contatto con i prodotti alimentari), come modificato dall'[art. 3 del decreto legislativo 25 gennaio 1992, n. 108](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-109-CEE%20concernente%20i%20materiali%20e%20gli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md) (Attuazione della [direttiva 89/109/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;109) concernente i materiali e gli oggetti destinati a venire a contatto con i prodotti alimentari), e' il seguente: 
+ «Art. 3. - 1. Con decreti del Ministro della sanita', sentito il Consiglio superiore di sanita', sono indicati per i materiali e gli oggetti, destinati a venire a contatto con le sostanze alimentari, di cui all'allegato I, da soli o in combinazione tra loro, i componenti consentiti nella loro produzione, e, ove occorrano, i requisiti di purezza e le prove di cessione alle quali i materiali e gli oggetti debbono essere sottoposti per determinare l'idoneita' all'uso cui sono destinati nonche' le limitazioni, le tolleranze e le condizioni di impiego sia per i limiti di contaminazione degli alimenti che per gli eventuali pericoli risultanti dal contatto orale. 
+ 2. Per i materiali e gli oggetti di materia plastica, di gomma, di cellulosa rigenerata, di carta, di cartone, di vetro, di acciaio inossidabile, di banda stagnata, di ceramica e di banda cromata valgono le disposizioni contenute nei decreti ministeriali 21 marzo 1973, 3 agosto 1974, 13 settembre 1975, 18 giugno 1979, 2 dicembre 1980, 25 giugno 1981, 18 febbraio 1984, 4 aprile 1985 e [1° giugno 1988, n. 243](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1988-06-01;243). 
+ 3. Il Ministro della sanita', sentito il Consiglio superiore di sanita', procede all'aggiornamento e alle modifiche da apportare ai decreti di cui ai commi 1 e 2. 
+ 4. Chiunque impieghi nella produzione materiali o oggetti destinati, da soli o in combinazione tra loro, a venire a contatto con le sostanze alimentari, in difformita' da quanto stabilito nei decreti di cui ai commi 1 e 2, e' punito per cio' solo con l'arresto sino a tre mesi o con l'ammenda da lire cinquemilioni a lire quindicimilioni». 
+ - Il testo dell'[art. 17, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) e [4, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri) e' il seguente: 
+ «3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.
+ I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei ministri prima della loro emanazione. 
+ 4. I regolamenti di cui al comma 1 ed i regolamenti ministeriali ed interministeriali, che devono recare la denominazione di "regolamento", sono adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.». 
+ 
+ Note all'art. 1: 
+ - L'allegato II, sezione 3-bis, del decreto ministeriale 21 marzo 1973, riportato nell'allegato I al presente decreto, reca l'elenco delle sostanze autorizzate nella fabbricazione di pellicole di cellulosa rigenerata.
 
-b) l'articolo 21 e' sostituito dal seguente:   
-«Art. 21 - 1. Le pellicole di cellulosa rigenerata di cui all'articolo 20 appartengono ad una delle seguenti categorie:   
-a) pellicole di cellulosa rigenerata non rivestita;   
-b) pellicole di cellulosa rigenerata con un rivestimento derivato dalla cellulosa;   
-c) pellicole di cellulosa rigenerata con un rivestimento in materia plastica.»;
+## Art. 2.
 
-c) dopo l'articolo 21 e' inserito il seguente:   
-«Art. 21-bis - 1. Le pellicole di cellulosa rigenerata di cui all'articolo 21, comma 1, lettere a) e b), devono essere prodotte utilizzando solo le sostanze e i gruppi di sostanze elencate nell'allegato II sezione 3-bis del presente decreto alle condizioni ivi stabilite.   
-2. Le pellicole di cellulosa rigenerata di cui all'articolo 21, comma 1, lettera c), devono essere prodotte, prima di essere rivestite, utilizzando solo le sostanze o i gruppi di sostanze elencati nell'allegato II, sezione 3-bis, Parte prima, del presente decreto alle condizioni ivi stabilite.   
-3. In deroga al comma 1, sostanze non elencate nell'allegato II, sezione 3-bis del presente decreto possono essere utilizzate come coloranti (tinture e pigmenti) o come adesivi, a condizione che non vi sia traccia di migrazione di dette sostanze all'interno o sulla superficie dei prodotti alimentari, rilevabile con un metodo convalidato conformemente a quanto stabilito dal presente decreto.   
-4. Il controllo della conformita' delle pellicole di cellulosa rigenerata e' effettuato secondo le modalita' di cui alla sezione 5 dell'allegato IV del presente decreto o in alternativa con metodi di prestazioni adeguate ai limiti e prescrizioni previste nell'Allegato II sez. 3-bis.»;
+1.
 
-d) l'articolo 23 e' sostituito dal seguente:   
-«Art. 23 - 1. Il rivestimento delle pellicole di cellulosa rigenerata definite all'articolo 21, comma 1, lettera c), deve essere prodotto utilizzando le sostanze consentite per i materiali e gli oggetti di materia plastica destinati a venire a contatto con i prodotti alimentari dal [regolamento UE n. 10/2011](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32011R0010) e successive modificazioni, alle condizioni ivi stabilite.   
-2. I materiali ed oggetti ottenuti con le pellicole di cui all'articolo 21, comma 1, lettera c), devono essere conformi alle disposizioni di cui all'[articolo 12 del regolamento UE n. 10/2011](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32011R0010) e successive modificazioni.»;
-
-e) dopo l'articolo 23 e' inserito il seguente:   
-«Art. 23-bis - 1. I budelli sintetici di cellulosa rigenerata sono ammessi all'impiego in contatto con gli alimenti a condizione che siano formati esclusivamente di cellulosa rigenerata plastificata con glicerina.   
-2. Prima dell'uso tali budelli devono essere lavati in maniera che il contenuto massimo di glicerina non superi il 13%.   
-3. Le disposizioni di cui ai commi 1 e 2 del presente articolo non si applicano ai budelli sintetici di cellulosa rigenerata legalmente prodotti e/o commercializzati in un altro Stato membro dell'Unione europea o in Turchia ovvero legalmente fabbricati in uno degli Stati firmatari dell'Associazione europea di libero scambio (EFTA), parte contraente dell'accordo sullo spazio economico europeo (SEE), purche' garantiscano un livello equivalente di protezione della salute.»;
-
-f) dopo l'articolo 25 e' inserito il seguente:   
-«Art. 25-bis - 1. Nelle fasi di commercializzazione diverse dalla vendita al dettaglio, i materiali e gli oggetti di pellicola di cellulosa rigenerata destinati a venire a contatto con gli alimenti devono essere accompagnati da una dichiarazione scritta secondo quanto disposto dall'[articolo 16, paragrafo 1, del regolamento (CE) n. 1935/2004](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32004R1935).   
-2. Le disposizioni del comma 1 non si applicano ai materiali e agli oggetti di pellicola di cellulosa rigenerata che per loro natura sono chiaramente destinati a venire a contatto con alimenti.   
-3. Qualora siano previste particolari condizioni d'uso, il materiale o l'articolo di pellicola di cellulosa rigenerata sono etichettati conformemente.»;
-
-g) l'allegato II, sezione 3-bis: «Cellulosa rigenerata» e' sostituito dall'allegato I al presente decreto.
-
-Avvertenza:   
-- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.   
-- Per i provvedimenti comunitari vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale dell'Unione Europea (GUUE).   
-Note alle premesse:   
-- Il [regolamento CE n. 1935/2004 del Parlamento europeo e del Consiglio del 27 ottobre 2004](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32004R1935) riguardante i materiali e gli oggetti destinati a venire a contatto con i prodotti alimentari e che abroga le [direttive 80/590/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31980L0590) e [89/109/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31989L0109) e' stato pubblicato nella GUUE serie [L n. 338 del 13 novembre 2004](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-11-13;338).   
-- Il [regolamento CE n. 2023/2006 della Commissione del 22 dicembre 2006](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32006R2023) sulle buone pratiche di fabbricazione dei materiali e degli oggetti destinati a venire a contatto con prodotti alimentari e' stato pubblicato nella GUUE serie [L n. 384 del 29 dicembre 2006](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-29;384).   
-- La [direttiva 2007/42/CE della Commissione del 29 giugno 2007](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32007L0042) relativa ai materiali e agli oggetti di pellicola di cellulosa rigenerata destinati a venire a contatto con i prodotti alimentari e' stata pubblicata nella GUUE serie [L n. 172 del 30 giugno 2007](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-06-30;172).   
-- Il [regolamento CE n. 10/2011 della Commissione del 14 gennaio 2011](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32011R0010) riguardante i materiali e gli oggetti di materia plastica destinati a venire a contatto con i prodotti alimentari e' stato pubblicato nella GUUE serie [L n. 12 del 15 gennaio 2011](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-01-15;12).   
-- La [legge 30 aprile 1962, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283) (Modifica degli [articoli 242](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265~art242), [243](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265~art243), [247](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265~art247), [250](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265~art250) e [262 del testo unico delle leggi sanitarie](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265~art262) approvato con [regio decreto 27 luglio 1934, n. 1265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265): Disciplina igienica della produzione e della vendita delle sostanze alimentari e delle bevande) e' stata [pubblicata nella Gazzetta Ufficiale n. 139 del 4 giugno 1962](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1962-06-04&numeroGazzetta=139).   
-- Il testo dell'[art. 3 del decreto del Presidente della Repubblica 23 agosto 1982, n. 777](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-08-23;777~art3) (Attuazione della [direttiva CEE n. 76/893](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31976L0893) relativa ai materiali ed agli oggetti destinati a venire a contatto con i prodotti alimentari), come modificato dall'[art. 3 del decreto legislativo 25 gennaio 1992, n. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-25;108~art3) (Attuazione della [direttiva 89/109/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31989L0109) concernente i materiali e gli oggetti destinati a venire a contatto con i prodotti alimentari), e' il seguente:   
-«Art. 3. - 1. Con decreti del Ministro della sanita', sentito il Consiglio superiore di sanita', sono indicati per i materiali e gli oggetti, destinati a venire a contatto con le sostanze alimentari, di cui all'allegato I, da soli o in combinazione tra loro, i componenti consentiti nella loro produzione, e, ove occorrano, i requisiti di purezza e le prove di cessione alle quali i materiali e gli oggetti debbono essere sottoposti per determinare l'idoneita' all'uso cui sono destinati nonche' le limitazioni, le tolleranze e le condizioni di impiego sia per i limiti di contaminazione degli alimenti che per gli eventuali pericoli risultanti dal contatto orale.   
-2. Per i materiali e gli oggetti di materia plastica, di gomma, di cellulosa rigenerata, di carta, di cartone, di vetro, di acciaio inossidabile, di banda stagnata, di ceramica e di banda cromata valgono le disposizioni contenute nei decreti ministeriali 21 marzo 1973, 3 agosto 1974, 13 settembre 1975, 18 giugno 1979, 2 dicembre 1980, 25 giugno 1981, 18 febbraio 1984, 4 aprile 1985 e [1° giugno 1988, n. 243](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1988-06-01;243).   
-3. Il Ministro della sanita', sentito il Consiglio superiore di sanita', procede all'aggiornamento e alle modifiche da apportare ai decreti di cui ai commi 1 e 2.   
-4. Chiunque impieghi nella produzione materiali o oggetti destinati, da soli o in combinazione tra loro, a venire a contatto con le sostanze alimentari, in difformita' da quanto stabilito nei decreti di cui ai commi 1 e 2, e' punito per cio' solo con l'arresto sino a tre mesi o con l'ammenda da lire cinquemilioni a lire quindicimilioni».   
-- Il testo dell'[art. 17, commi 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3) e [4, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com4) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri) e' il seguente:   
-«3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.  
-I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei ministri prima della loro emanazione.   
-4. I regolamenti di cui al comma 1 ed i regolamenti ministeriali ed interministeriali, che devono recare la denominazione di "regolamento", sono adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.».   
-  
-Note all'art. 1:   
-- L'allegato II, sezione 3-bis, del decreto ministeriale 21 marzo 1973, riportato nell'allegato I al presente decreto, reca l'elenco delle sostanze autorizzate nella fabbricazione di pellicole di cellulosa rigenerata.
-
-Art. 2
-------
-
-1. Sono abrogati i seguenti provvedimenti citati in premessa:
-
-a) [decreto del Ministro della sanita' 1° luglio 1994, n. 556](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:1994-07-01;556);
-
-b) [decreto del Ministro della salute 10 maggio 2006, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.salute:decreto:2006-05-10;230);
-
-c) [articolo 1, comma 3, del decreto del Ministro della sanita' 17 dicembre 1999, n. 538](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:1999-12-17;538~art1-com3).
+Sono abrogati i seguenti provvedimenti citati in premessa:
+                        a)
+                            [decreto del Ministro della sanita' 1° luglio 1994, n. 556](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:1994-07-01;556);
+                        b)
+                            [decreto del Ministro della salute 10 maggio 2006, n. 230](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20recepimento%20della%20direttiva%202004-14-CE%20del%2029%20gennaio%202004%20che%20modifica%20la%20direttiva%2093-10-CEE%20relativa%20ai%20materiali%20e%20agli%20oggetti%20di%20pellicola%20di%20cellulosa%20rigenerat_7e64a434b64c.md);
+                        c)
+                            [articolo 1, comma 3, del decreto del Ministro della sanita' 17 dicembre 1999, n. 538](Regolamento%20recante%20aggiornamento%20del%20decreto%20ministeriale%2021%20marzo%201973%20concernente%20la%20disciplina%20igienica%20degli%20imballaggi%20recipienti%20utensili%20destinati%20a%20venire%20in%20contatto%20con%20le%20sost_c4617ef6a8b8_2.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 31 maggio 2016
+Roma, 31 maggio 2016
 
-Il Ministro: Lorenzin
-
-Visto, il Guardasigilli: Orlando Registrato alla Corte dei conti il 19 luglio 2016
-
-Ufficio controllo sugli atti del MIUR, MIBAC, Min. salute e Min.
-
-lavoro, n. 2948
-
-Allegato I
-
- Allegato I   
-  
-(articolo 1, lettera G))   
-Allegato II sezione 3-bis   
-  
-ELENCO DELLE SOSTANZE AUTORIZZATE NELLA FABBRICAZIONE DI PELLICOLE DI CELLULOSA RIGENERATA   
-  
-N.B.:   
-- Le percentuali che figurano nella prima e seconda parte del presente allegato sono espresse in massa/massa (m/m) e calcolate in rapporto alla quantita' di pellicola di cellulosa rigenerata anidra e non rivestita.   
-- Le usuali denominazioni tecniche vengono riportate tra parentesi quadre.   
-- Le sostanze utilizzate devono essere di buona qualita' tecnica, per quanto riguarda i requisiti di purezza.   
-  
-PARTE PRIMA   
-  
-PELLICOLE DI CELLULOSA RIGENERATA NON RIVESTITA   
-
-|  |  |
-| --- | --- |
-| NOME | LIMITAZIONE |
-| A. Cellulosa rigenerata | Superiore o uguale a 72% (m/m) |
-| B. Additivi |  |
-| 1. Ammorbidenti | Inferiore o uguale a 27% (m/m) in totale |
-| - Bis (2-idrossietil)etere [= dietilenglicole] - Etandiolo [= monoetilenglicole] | Soltanto per pellicole destinate ad essere rivestite e solo per l'imballaggio di prodotti alimentari non umidi, cioe' di prodotti alimentari che non contengono acqua fisicamente libera in superficie. Il contenuto massimo di bis (2-idrossietil)etere ed etandiolo presente nei prodotti alimentari che sono stati a contatto con pellicole di questo tipo non deve superare 30 mg/kg del prodotto alimentare. |
-| - 1,3 Butandiolo |  |
-| - Glicerina |  |
-| - 1,2 Propandiolo [= 1,2 propilenglicole] |  |
-| - Polietilene ossido [= polietilenglicole] | Peso molecolare medio tra 250 e 1200 |
-| -1,2 Polipropilene ossido [=1,2- polipropilenglicole] | Peso molecolare medio inferiore o uguale a 400 e contenuto di 1,3-propandiolo inferiore o uguale a 1% (m/m) di sostanza |
-| - Sorbitolo |  |
-| - Glicole tetraetilenico |  |
-| - Glicole trietilenico |  |
-| - Urea |  |
-| 2. Altri additivi | Inferiore o uguale a 1% (m/m) in totale |
-| Prima classe | La quantita' di ciascuna sostanza o di ciascun gruppo di sostanze non deve essere superiore a 2 mg/dm² di pellicola non rivestita |
-| - Acido acetico e suoi sali di NH4, Ca, Mg, K e Na |  |
-| - Acido ascorbico e suoi sali di NH4, Ca, Mg, K e Na |  |
-| - Acido benzoico e benzoato di sodio |  |
-| - Acido formico ed i suoi sali di NH4, Ca, Mg, K e Na |  |
-| - Acidi grassi lineari, saturi e insaturi, con un numero pari di atomi di carbonio da C8 a C20 compresi e anche gli acidi beenico e ricinoleico ed i loro sali di NH4 Ca, Mg, K, Na, A1 e Zn |  |
-| - Acido citrico, d-1 lattico, maleico, 1-tartarico ed i loro sali Na e K |  |
-| - Acido sorbico ed i suoi sali di NH4, Ca, Mg, K e Na |  |
-| - Ammidi di acidi grassi lineari, saturi o insaturi, con un numero pari di atomi di carbonio da C8 a C20 compresi e anche gli ammidi degli acidi beenico e ricinoleico |  |
-| - Amidi e farine alimentari naturali |  |
-| - Amidi e farine alimentari modificati per trattamento chimico |  |
-| - Amilosio |  |
-| - Carbonati e cloruri di calcio e di magnesio |  |
-| - Esteri di glicerina con acidi grassi lineari, saturi o insaturi, aventi un numero pari di atomi di carbonio da C8 a C20 compresi e/o con acidi adipico, citrico, 12-idrossistearico (= ossistearina) e ricinoleico |  |
-| - Esteri di poliossietilene (numero dei gruppi ossietilenici tra 8 e 14) con acidi grassi lineari, saturi o insaturi, con un numero pari di atomi di carbonio da C8 a C20 compresi |  |
-| - Esteri di sorbitolo con acidi grassi lineari, saturi o insaturi, con un numero pari di atomi di carbonio da C8 a C20 compresi |  |
-| - Mono e/o diesteri dell'acido stearico con etandiolo e/o bis (2-idrossietil) etere e/o trietilenglicole u' |  |
-| - Ossidi e idrossidi di alluminio, calcio, magnesio e silicio e silicati e silicati idrati di alluminio, calcio, magnesio e potassio |  |
-| - Ossido di polietilene [= polietilenglicole] | Peso molecolare medio tra 1200 e 4000 |
-| - Propionato di sodio |  |
-| Seconda classe | La quantita' totale delle sostanze deve essere inferiore o uguale a 1 mg/dm² della pellicola non rivestita e la quantita' di ciascuna sostanza o di ciascun gruppo di sostanze indicato in ciascun trattino non deve superare 0,2 mg/dm² (o un limite inferiore, se cosi' indicato) della pellicola non rivestita |
-| - Alchil (C8-C18) benzensolfonato di sodio |  |
-| - Isopropil naftalensolfonato di sodio |  |
-| - Alchil (C8-C18) solfato di sodio |  |
-| - Alchil (C8-C18) solfonato di sodio |  |
-| - Diottilsolfosuccinato di sodio |  |
-| - Distearato di monoacetato di di-idrossietil dietilen triammina | Inferiore o uguale a 0,05 mg/dm² della pellicola non rivestita |
-| - Laurilsolfato di ammonio, magnesio, potassio |  |
-| - Diamminoetano di N,N'distearolo, N,N' dipalmitolo e N,N' dioliolo |  |
-| - 2-eptadecil 4,4 bis (metilen-stearato) ossazolina |  |
-| - Etilsolfato di polietilenamminostearammide | Inferiore o uguale a 0,1 mg/dm² della pellicola non rivestita |
-| Terza classe - Agenti ancoranti | La quantita' totale delle sostanze deve essere inferiore o uguale a 1 mg/dm² della pellicola non rivestita |
-| - Prodotto di condensazione di melamminaformaldeide, non modificato o modificato con uno o piu' dei prodotti seguenti: butanolo, dietilentriammina, etanolo, trietilentetrammina, tetraetilenpentammina, tris(2- idrossietil) ammina, 3,3'-diamminodi- propilammina, 4,4'-diamminodibutilammina | Contenuto di formaldeide libera uguale a 0,5 mg/dm² della pellicola non rivestita. Contenuto di melammina libera inferiore o uguale a 0,3 mg/dm² della pellicola non rivestita |
-| - Prodotto di condensazione di melamine- ureaformaldeide modificato con tris-(2-idrossietil) ammina | Contenuto di formaldeide libera inferiore o uguale a 0,5 mg/dm² della pellicola non rivestita |
-|  | Contenuto di melammina libera inferiore o uguale a 0,3 mg/dm² della pellicola non rivestita |
-| - Polialchilenammine cationiche reticolate | Conformemente alle direttive comunitarie e, in loro assenza, alla legislazione nazionale, in attesa dell'adozione delle disposizioni comunitarie |
-| a) Resina poliammide-epicloridrina a base di diamminopropilmetilammina ed epicloridrina |  |
-| b) Resina poliammide-epicloridrina a base di epicloridrina, acido adipico, caprolattame, dietilentriammina e/o etilendiammina |  |
-| c) Resina poliammide-epicloridrina a base di acido adipico, dietilentriammina ed epicloridrina o una miscela di epicloridrina ed ammoniaca |  |
-| d) Resina poliammide-poliammina- epicloridrina a base di epicloridrina, dimetiladipato e dietilentriammina |  |
-| e) Resina poliammide-poliammina- epicloridrina a base di epicloridrina, adipammide e diamminopropilmetilammina |  |
-| - Polietilenammine e polietilenimmine | Inferiore o uguale a 0,75 mg/dm² della pellicola non rivestita |
-| - Prodotto di condensazione di urea-formaldeide non modificato o modificato con uno o piu' dei seguenti prodotti: | Contenuto di formaldeide libera inferiore o uguale a 0,5 mg/dm² della pellicola non rivestita |
-| acido amminometilsolfonico, acido solfanilico, butanolo, diamminobutano, diamminodietilammina, diammino- dipropilammina, diammino-propano, dietilentriammina, etanolo, guanidina, metanolo, tetraetilenpentammina, trietilentetrammina, solfito di sodio. |  |
-| Quarta classe: | La quantita' totale delle sostanze deve essere inferiore o uguale a 0,01 mg/dm² della pellicola non rivestita |
-| - Prodotti di reazioni di ammine di oli alimentari con ossido di polietilene |  |
-| - Laurilsolfato di monoetanolammina |  |
-
-  
-  
-  
-  
-PARTE SECONDA   
-  
-PELLICOLE DI CELLULOSA RIGENERATA RIVESTITA   
-
-|  |  |
-| --- | --- |
-| NOME | LIMITAZIONI |
-| A. Cellulosa rigenerata | Cfr. Parte Prima |
-| B. Additivi | Cfr. Parte Prima |
-| C. Rivestimenti |  |
-| 1. Polimeri | La quantita' totale delle sostanze deve essere inferiore o uguale a 50 mg/dm² del rivestimento sul lato a contatto con il prodotto alimentare |
-| - Eteri etilici, idrossietilici, idrossipropilici e metilici di cellulosa |  |
-| - Nitrato di cellulosa | Inferiore o uguale a 20 mg/dm² del rivestimento sul lato a contatto con il prodotto alimentare; contenuto di azoto nel nitrato di cellulosa compreso tra 10,8% (m/m) e 12,2% (m/m) |
-| 2. Resine | La quantita' totale delle sostanze deve essere inferiore o uguale a 12,5 mg/dm² del rivestimento sul lato a contatto con il prodotto alimentare e unicamente per la preparazione di pellicole di cellulosa rigenerata con rivestimenti a base di nitrato di cellulosa. |
-| - Caseina |  |
-| - Colofonia e/o suoi prodotti di polimerizzazione, idrogenazione o disproporzione e i loro esteri di metile, etile o alcoli polivalenti da C2 a C6 o miscele di questi alcoli |  |
-| - Colofonia e/o suoi prodotti di polimerizzazione, idrogenazione o disproporzione condensati con acidi acrilico, maleico, citrico, fumarico e/o ftalico e/o 2,2-bis (4-idrossifenil) propano formaldeide ed esterificati con alcoli metilico, etilico, o alcoli polivalenti da C2 a C6 o miscele di questi alcoli |  |
-| - Esteri derivati dal bis (2-idrossietil) etere con i prodotti di addizione del betapinene e/o dipentene e/o diterpene e anidride maleica |  |
-| - Gelatina alimentare |  |
-| - Olio di ricino e suoi prodotti di idrogenazione o disidratazione e suoi prodotti di condensazione con la poliglicerina e acidi adipico, citrico, maleico, ftalico e sebacico |  |
-| - Gomma naturale (= resine damar) |  |
-| - Poli-beta-pinene (= resine terpeniche) |  |
-| - Resine urea-formaldeide (vedi agenti ancoranti) |  |
-| 3. Plastificanti | La quantita' totale delle sostanze deve essere inferiore o uguale a 6 mg/dm² del rivestimento sul lato a contatto con il prodotto alimentare |
-| - Acetil tributil citrato |  |
-| - Acetil tri(2-etilesil) citrato |  |
-| - Adipato di di-isobutile |  |
-| - Adipato di di-n-butile |  |
-| - Di-n-esilazelato |  |
-| - Dicicloesilftalato | Inferiore o uguale a 4,0 mg/dm² del rivestimento sul lato a contatto con il prodotto alimentare |
-| - 2-Etilesildifenilfosfato (sinonimo: acido fosforico, 2-etilesildifenil estere) | La quantita' di 2-etiliesilidifenilfosfato deve essere inferiore o uguale a: |
-|  | a) 2,4 mg/kg del prodotto alimentare a contatto con questo tipo di pellicola; o: |
-|  | b) 0,4 mg/dm² del rivestimento sul lato a contatto con il prodotto alimentare |
-| - Monoacetato di glicerina (= monoacetina) |  |
-| - Diacetato di glicerina (= diacetina) |  |
-| - Triacetato di glicerina (= triacetina) |  |
-| - Dibutil sebacato |  |
-| - Di-n-butiltartrato |  |
-| - Diisobutil-tartrato |  |
-| 4. Altri additivi | La quantita' totale delle sostanze deve essere inferiore o uguale a 6 mg/dm² della pellicola di cellulosa rigenerata non rivestita, compreso il rivestimento sul lato a contatto con il prodotto alimentare |
-| 4.1 Additivi elencati nella Parte prima | Stesse restrizioni previste nella parte prima (le quantita' in mg/dm² vanno riferite pero' alla pellicola di cellulosa rigenerata non rivestita compreso il rivestimento sul lato a contatto con il prodotto alimentare) |
-| 4.2 Additivi specifici per rivestimento | La quantita' di ciascuna sostanza o di ciascun gruppo di sostanze indicate in ciascun trattino non deve essere superiore a 2 mg/dm² (o a un limite inferiore se cosi' indicato) del rivestimento sul lato a contatto con il prodotto alimentare |
-| - 1-Esadecanolo e 1-ottadecanolo |  |
-| - Esteri degli acidi grassi lineari saturi o insaturi, con un numero pari di atomi di carbonio da C8 a C20 compresi e dell'acido ricinoleico con gli alcoli lineari etilico, butilico, amilico ed oleico |  |
-| - Cere «Montana», comprendenti acidi montanici da (C26 a C32) purificati e/o loro esteri con etandiolo e/o 1-3-butandiolo e/o loro sali di calcio e potassio |  |
-| - Cera Carnauba |  |
-| - Cera d'api |  |
-| - Cera di Sparto |  |
-| - Cera Candelilla |  |
-| - Dimetilpolisilossano | Inferiore o uguale a 1 mg/dm² del rivestimento sul lato a contatto con il prodotto alimentare |
-| - Olio di soia epossidato (con tenore in ossirano compreso tra 6-8%) |  |
-| - Paraffina raffinata e cere microcristalline raffinate |  |
-| - Pentaeritritolo tetrastearato |  |
-| - Mono e bis (ottadecil di etilenossido) fosfati | Inferiore o uguale a 0,2 mg/dm² del rivestimento sul lato a contatto con il prodotto alimentare |
-| - Acidi alifatici da C8 a C20, esterificati con mono-o di-(2-idrossietil) ammina |  |
-| - 2- e 3-Terz-butil-4-idrossianisolo [=idrossianisolo butilato-BHA] | Inferiore o uguale a 0,06 mg/dm² del rivestimento sul lato a contatto con il prodotto alimentare |
-| - 2,6-di-Terz-butil-4-metilfenolo [=idrossitoluene butilato-BHT] | Inferiore o uguale a 0,06 mg/dm² del rivestimento sul lato a contatto con il prodotto alimentare |
-| -Di-n-ottile-bis(2-etilesil) maleato | Inferiore o uguale a 0,06 mg/dm² del rivestimento sul lato a contatto con il prodotto alimentare |
-| 5. Solventi | La quantita' massima delle sostanze deve essere inferiore o uguale a 0,6 mg/dm² del rivestimento sul lato a contatto con il prodotto alimentare |
-| - Butilacetato |  |
-| - Etilacetato |  |
-| - Isobutilacetato |  |
-| - Isopropilacetato |  |
-| - Propilacetato |  |
-| - Acetone |  |
-| - 1-Butanolo |  |
-| - Etanolo |  |
-| - 2-Butanolo |  |
-| - 2-Propanolo |  |
-| - 1-Propanolo |  |
-| - Cicloesano |  |
-| - Glicoletilenico monobutiletere |  |
-| - Glicoletilenico monobutiletere acetato |  |
-| - Metiletilchetone |  |
-| - Metilisobutilchetone |  |
-| - Tetraidrofurano |  |
-| - Toluene | Inferiore o uguale a 0,06 mg/dm² del rivestimento sul lato a contatto con il prodotto alimentare |
+Il Ministro: Lorenzin Visto, il Guardasigilli: Orlando Registrato alla Corte dei conti il 19 luglio 2016 Ufficio controllo sugli atti del MIUR, MIBAC, Min. salute e Min. lavoro, n. 2948

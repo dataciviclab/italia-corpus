@@ -1,28 +1,25 @@
-DECRETO LEGISLATIVO LUOGOTENENZIALE 22 dicembre 1945 n. 824
+---
+tipo: DECRETO LEGISLATIVO LUOGOTENENZIALE
+numero: 824
+data: 1945-12-22
+titolo: "Soppressione del Ministero della ricostruzione e devoluzione delle sue attribuzioni al Ministero dell'industria e del commercio ad eccezione di quelle che si riferiscono alla Presidenza del Comitato interministeriale per la ricostruzione."
+urn: urn:nir:stato:decreto.legislativo.luogotenenziale:1945-12-22;824
+codice_redazionale: 045U0824
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO LUOGOTENENZIALE 22 dicembre 1945 n. 824
-===========================================================
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-Soppressione del Ministero della ricostruzione e devoluzione delle sue attribuzioni al Ministero dell'industria e del commercio ad eccezione di quelle che si riferiscono alla Presidenza del Comitato interministeriale per la ricostruzione.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+## Art. 3.
 
-Art. 2
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+## Art. 4.
 
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
-
-Art. 4
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

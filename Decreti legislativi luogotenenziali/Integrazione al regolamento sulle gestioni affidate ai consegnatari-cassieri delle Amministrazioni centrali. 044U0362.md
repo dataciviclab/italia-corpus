@@ -1,15 +1,13 @@
-DECRETO LEGISLATIVO LUOGOTENENZIALE 12 novembre 1944 n. 362
+---
+tipo: DECRETO LEGISLATIVO LUOGOTENENZIALE
+numero: 362
+data: 1944-11-12
+titolo: "Integrazione al regolamento sulle gestioni affidate ai consegnatari-cassieri delle Amministrazioni centrali. (044U0362)"
+urn: urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-12;362
+codice_redazionale: 044U0362
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO LUOGOTENENZIALE 12 novembre 1944 n. 362
-===========================================================
-
-Integrazione al regolamento sulle gestioni affidate ai consegnatari-cassieri delle Amministrazioni centrali. (044U0362)
------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/12/1944
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

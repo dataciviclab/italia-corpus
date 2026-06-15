@@ -1,28 +1,21 @@
-DECRETO-LEGGE 17 maggio 1991 n. 156
+---
+tipo: DECRETO-LEGGE
+numero: 156
+data: 1991-05-17
+titolo: "Interventi per il miglioramento qualitativo e la prevenzione dell'inquinamento delle acque destinate al consumo umano, nonche' differimento del termine in materia di qualita' delle acque di balneazione."
+urn: urn:nir:stato:decreto.legge:1991-05-17;156
+codice_redazionale: 091G0196
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 17 maggio 1991 n. 156
-===================================
+DECRETO DECADUTO
 
-Interventi per il miglioramento qualitativo e la prevenzione dell'inquinamento delle acque destinate al consumo umano, nonche' differimento del termine in materia di qualita' delle acque di balneazione.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 19/5/1991.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO   
-
-Art. 2
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 3
-------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

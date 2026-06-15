@@ -1,35 +1,29 @@
-DECRETO-LEGGE 04 giugno 1986 n. 232
+---
+tipo: DECRETO-LEGGE
+numero: 232
+data: 1986-06-04
+titolo: "Misure urgenti per il settore dei trasporti locali."
+urn: urn:nir:stato:decreto.legge:1986-06-04;232
+codice_redazionale: 086U0232
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 04 giugno 1986 n. 232
-===================================
+DECRETO DECADUTO
 
-Misure urgenti per il settore dei trasporti locali.
----------------------------------------------------
+## Art. 2.
 
-Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 3
-------
+## Art. 5.
 
- DECRETO DECADUTO  
-
-Art. 4
-------
-
- DECRETO DECADUTO  
-
-Art. 5
-------
-
- DECRETO DECADUTO  
+DECRETO DECADUTO

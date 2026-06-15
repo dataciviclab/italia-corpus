@@ -1,50 +1,41 @@
-DECRETO LEGISLATIVO 17 marzo 1995 n. 185
+---
+tipo: DECRETO LEGISLATIVO
+numero: 185
+data: 1995-03-17
+titolo: "Attuazione della direttiva 92/73/CEE in materia di medicinali omeopatici."
+urn: urn:nir:stato:decreto.legislativo:1995-03-17;185
+codice_redazionale: 095G0219
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 17 marzo 1995 n. 185
-========================================
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 24 APRILE 2006, N. 219 ))
 
-Attuazione della direttiva 92/73/CEE in materia di medicinali omeopatici.
--------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 6-6-1995
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 24 APRILE 2006, N. 219 ))
 
-Art. 1
-------
+## Art. 3.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 24 APRILE 2006, N. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-24;219) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 24 APRILE 2006, N. 219 ))
 
-Art. 2
-------
+## Art. 4.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 24 APRILE 2006, N. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-24;219) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 24 APRILE 2006, N. 219 ))
 
-Art. 3
-------
+## Art. 5.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 24 APRILE 2006, N. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-24;219) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 24 APRILE 2006, N. 219 ))
 
-Art. 4
-------
+## Art. 6.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 24 APRILE 2006, N. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-24;219) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 24 APRILE 2006, N. 219 ))
 
-Art. 5
-------
+## Art. 7.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 24 APRILE 2006, N. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-24;219) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 24 APRILE 2006, N. 219 ))
 
-Art. 6
-------
+## Art. 8.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 24 APRILE 2006, N. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-24;219) ))
-
-Art. 7
-------
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 24 APRILE 2006, N. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-24;219) ))
-
-Art. 8
-------
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 24 APRILE 2006, N. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-24;219) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 24 APRILE 2006, N. 219 ))

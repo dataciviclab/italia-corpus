@@ -1,526 +1,393 @@
-DECRETO-LEGGE 02 marzo 1993 n. 47
+---
+tipo: DECRETO-LEGGE
+numero: 47
+data: 1993-03-02
+titolo: "Armonizzazione delle disposizioni in materia di imposte sugli oli minerali, sull'alcole, sulle bevande alcoliche, sui tabacchi lavorati e in materia di IVA con quelle recate da direttive CEE e modificazioni conseguenti a detta armonizzazione, nonche' disposizioni concernenti la disciplina dei centri autorizzati di assistenza fiscale, le procedure dei rimborsi di imposta, l'esclusione dall'ILOR dei redditi di impresa fino all'ammontare corrispondente al contributo diretto lavorativo, l'istituzione per il 1993 di un'imposta erariale straordinaria su taluni beni ed altre disposizioni tributarie."
+urn: urn:nir:stato:decreto.legge:1993-03-02;47
+codice_redazionale: 093G0105
+vigente: true
+---
 
+## ARMONIZZAZIONE DELLA DISCIPLINA DELLE ACCISE SU OLI MINERALI, ALCOLE, BEVANDE ALCOLICHE E TABACCHI LAVORATI, NONCHE' ALTRE IMPOSIZIONI INDIRETTE SUI CONSUMI. Capo I REGIME GENERALE, DETENZIONE, CIRCOLAZIONE E CONTROLLI DEI PRODOTTI SOGGETTI AD ACCISE
 
-DECRETO-LEGGE 02 marzo 1993 n. 47
-=================================
+TITOLO I
 
-Armonizzazione delle disposizioni in materia di imposte sugli oli minerali, sull'alcole, sulle bevande alcoliche, sui tabacchi lavorati e in materia di IVA con quelle recate da direttive CEE e modificazioni conseguenti a detta armonizzazione, nonche' disposizioni concernenti la disciplina dei centri autorizzati di assistenza fiscale, le procedure dei rimborsi di imposta, l'esclusione dall'ILOR dei redditi di impresa fino all'ammontare corrispondente al contributo diretto lavorativo, l'istituzione per il 1993 di un'imposta erariale straordinaria su taluni beni ed altre disposizioni tributarie.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del decreto: 2/3/1993.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-CAPO I TITOLO I ARMONIZZAZIONE DELLA DISCIPLINA DELLE ACCISE SU OLI MINERALI, ALCOLE, BEVANDE ALCOLICHE E TABACCHI LAVORATI, NONCHE' ALTRE IMPOSIZIONI INDIRETTE SUI CONSUMI. Capo I REGIME GENERALE, DETENZIONE, CIRCOLAZIONE E CONTROLLI DEI PRODOTTI SOGGETTI AD ACCISE
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 2.
 
-### Art. 1
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+### Art. 3.
 
-### Art. 2
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+### Art. 4.
 
-### Art. 3
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+### Art. 5.
 
-### Art. 4
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+### Art. 6.
 
-### Art. 5
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+### Art. 7.
 
-### Art. 6
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+### Art. 8.
 
-### Art. 7
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+### Art. 9.
 
-### Art. 8
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+### Art. 10.
 
-### Art. 9
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+### Art. 11.
 
-### Art. 10
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+### Art. 12.
 
-### Art. 11
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+### Art. 13.
 
-### Art. 12
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+### Art. 14.
 
-### Art. 13
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+### Art. 15.
 
-### Art. 14
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+### Art. 16.
 
-### Art. 15
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+## ARMONIZZAZIONE DELLA DISCIPLINA DELLE ACCISE SU OLI MINERALI, ALCOLE, BEVANDE ALCOLICHE E TABACCHI LAVORATI, NONCHE' ALTRE IMPOSIZIONI INDIRETTE SUI CONSUMI. Capo II STRUTTURA E ALIQUOTE DELLE ACCISE SUGLI OLI MINERALI
 
-### Art. 16
+TITOLO I
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+### Art. 17.
 
-CAPO II TITOLO I ARMONIZZAZIONE DELLA DISCIPLINA DELLE ACCISE SU OLI MINERALI, ALCOLE, BEVANDE ALCOLICHE E TABACCHI LAVORATI, NONCHE' ALTRE IMPOSIZIONI INDIRETTE SUI CONSUMI. Capo II STRUTTURA E ALIQUOTE DELLE ACCISE SUGLI OLI MINERALI
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-### Art. 17
+### Art. 18.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-### Art. 18
+### Art. 19.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-### Art. 19
+### Art. 20.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-### Art. 20
+## ARMONIZZAZIONE DELLA DISCIPLINA DELLE ACCISE SU OLI MINERALI, ALCOLE, BEVANDE ALCOLICHE E TABACCHI LAVORATI, NONCHE' ALTRE IMPOSIZIONI INDIRETTE SUI CONSUMI. Capo III STRUTTURA E ALIQUOTE DELLE ACCISE SULL'ALCOLE E SULLE BEVANDE ALCOLICHE
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+TITOLO I
 
-CAPO III TITOLO I ARMONIZZAZIONE DELLA DISCIPLINA DELLE ACCISE SU OLI MINERALI, ALCOLE, BEVANDE ALCOLICHE E TABACCHI LAVORATI, NONCHE' ALTRE IMPOSIZIONI INDIRETTE SUI CONSUMI. Capo III STRUTTURA E ALIQUOTE DELLE ACCISE SULL'ALCOLE E SULLE BEVANDE ALCOLICHE
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 21.
 
-### Art. 21
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+### Art. 22.
 
-### Art. 22
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+### Art. 23.
 
-### Art. 23
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+### Art. 24.
 
-### Art. 24
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+### Art. 25.
 
-### Art. 25
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+### Art. 26.
 
-### Art. 26
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+## ARMONIZZAZIONE DELLA DISCIPLINA DELLE ACCISE SU OLI MINERALI, ALCOLE, BEVANDE ALCOLICHE E TABACCHI LAVORATI, NONCHE' ALTRE IMPOSIZIONI INDIRETTE SUI CONSUMI. Capo IV STRUTTURA E ALIQUOTE DELLE ACCISE SUI TABACCHI LAVORATI
 
-CAPO IV TITOLO I ARMONIZZAZIONE DELLA DISCIPLINA DELLE ACCISE SU OLI MINERALI, ALCOLE, BEVANDE ALCOLICHE E TABACCHI LAVORATI, NONCHE' ALTRE IMPOSIZIONI INDIRETTE SUI CONSUMI. Capo IV STRUTTURA E ALIQUOTE DELLE ACCISE SUI TABACCHI LAVORATI
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TITOLO I
 
-### Art. 27
+### Art. 27.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-### Art. 28
+### Art. 28.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-CAPO V TITOLO I ARMONIZZAZIONE DELLA DISCIPLINA DELLE ACCISE SU OLI MINERALI, ALCOLE, BEVANDE ALCOLICHE E TABACCHI LAVORATI, NONCHE' ALTRE IMPOSIZIONI INDIRETTE SUI CONSUMI. Capo V ALTRE IMPOSIZIONI INDIRETTE
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## ARMONIZZAZIONE DELLA DISCIPLINA DELLE ACCISE SU OLI MINERALI, ALCOLE, BEVANDE ALCOLICHE E TABACCHI LAVORATI, NONCHE' ALTRE IMPOSIZIONI INDIRETTE SUI CONSUMI. Capo V ALTRE IMPOSIZIONI INDIRETTE
 
-### Art. 29
+TITOLO I
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+### Art. 29.
 
-### Art. 30
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+### Art. 30.
 
-CAPO VI TITOLO I ARMONIZZAZIONE DELLA DISCIPLINA DELLE ACCISE SU OLI MINERALI, ALCOLE, BEVANDE ALCOLICHE E TABACCHI LAVORATI, NONCHE' ALTRE IMPOSIZIONI INDIRETTE SUI CONSUMI. Capo VI DISPOSIZIONI FINALI E TRANSITORIE
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-### Art. 31
+## ARMONIZZAZIONE DELLA DISCIPLINA DELLE ACCISE SU OLI MINERALI, ALCOLE, BEVANDE ALCOLICHE E TABACCHI LAVORATI, NONCHE' ALTRE IMPOSIZIONI INDIRETTE SUI CONSUMI. Capo VI DISPOSIZIONI FINALI E TRANSITORIE
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+TITOLO I
 
-### Art. 32
+### Art. 31.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-### Art. 33
+### Art. 32.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-### Art. 34
+### Art. 33.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-### Art. 35
+### Art. 34.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-CAPO VII TITOLO II ARMONIZZAZIONE DELLA DISCIPLINA DELL'IMPOSTA SUL VALORE AGGIUNTO Capo I ARMONIZZAZIONE DELLE ALIQUOTE
-------------------------------------------------------------------------------------------------------------------------
+### Art. 35.
 
-### Art. 36
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+## ARMONIZZAZIONE DELLA DISCIPLINA DELL'IMPOSTA SUL VALORE AGGIUNTO Capo I ARMONIZZAZIONE DELLE ALIQUOTE
 
-CAPO VIII TITOLO II ARMONIZZAZIONE DELLA DISCIPLINA DELL'IMPOSTA SUL VALORE AGGIUNTO Capo II DISCIPLINA TEMPORANEA DELLE OPERAZIONI INTRACOMUNITARIE E DELL'IMPOSTA SUL VALORE AGGIUNTO
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TITOLO II
 
-### Art. 37
+### Art. 36.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-### Art. 38
+## ARMONIZZAZIONE DELLA DISCIPLINA DELL'IMPOSTA SUL VALORE AGGIUNTO Capo II DISCIPLINA TEMPORANEA DELLE OPERAZIONI INTRACOMUNITARIE E DELL'IMPOSTA SUL VALORE AGGIUNTO
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+TITOLO II
 
-### Art. 39
+### Art. 37.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-### Art. 40
+### Art. 38.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-### Art. 41
+### Art. 39.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-### Art. 42
+### Art. 40.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-### Art. 43
+### Art. 41.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-### Art. 44
+### Art. 42.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-### Art. 45
+### Art. 43.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-### Art. 46
+### Art. 44.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-### Art. 47
+### Art. 45.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-### Art. 48
+### Art. 46.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-### Art. 49
+### Art. 47.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-### Art. 50
+### Art. 48.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-### Art. 51
+### Art. 49.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-### Art. 52
+### Art. 50.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-### Art. 53
+### Art. 51.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-### Art. 54
+### Art. 52.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-### Art. 55
+### Art. 53.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-### Art. 56
+### Art. 54.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-CAPO IX TITOLO II ARMONIZZAZIONE DELLA DISCIPLINA DELL'IMPOSTA SUL VALORE AGGIUNTO Capo III MODIFICHE ALLA DISCIPLINA DELL'IMPOSTA SUL VALORE AGGIUNTO CONNESSE AL REGIME TEMPORANEO DEGLI SCAMBI INTRACOMUNITARI.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 55.
 
-### Art. 57
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+### Art. 56.
 
-### Art. 58
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+## ARMONIZZAZIONE DELLA DISCIPLINA DELL'IMPOSTA SUL VALORE AGGIUNTO Capo III MODIFICHE ALLA DISCIPLINA DELL'IMPOSTA SUL VALORE AGGIUNTO CONNESSE AL REGIME TEMPORANEO DEGLI SCAMBI INTRACOMUNITARI.
 
-### Art. 59
+TITOLO II
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+### Art. 57.
 
-### Art. 60
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+### Art. 58.
 
-CAPO X TITOLO III ADEGUAMENTO DI ALTRE DISPOSIZIONI TRIBUTARIE Capo I MODIFICA DELLA TASSA DI CONCESSIONE GOVERNATIVA PER L'ISCRIZIONE NEL REGISTRO DELLE IMPRESE E SOPPRESSIONE DELLA RELATIVA TASSA ANNUALE.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-### Art. 61
+### Art. 59.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-CAPO XI TITOLO III ADEGUAMENTO DI ALTRE DISPOSIZIONI TRIBUTARIE Capo II ALTRE DISPOSIZIONI TRIBUTARIE
------------------------------------------------------------------------------------------------------
+### Art. 60.
 
-### Art. 62
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+## ADEGUAMENTO DI ALTRE DISPOSIZIONI TRIBUTARIE Capo I MODIFICA DELLA TASSA DI CONCESSIONE GOVERNATIVA PER L'ISCRIZIONE NEL REGISTRO DELLE IMPRESE E SOPPRESSIONE DELLA RELATIVA TASSA ANNUALE.
 
-### Art. 63
+TITOLO III
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+### Art. 61.
 
-### Art. 64
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+## ADEGUAMENTO DI ALTRE DISPOSIZIONI TRIBUTARIE Capo II ALTRE DISPOSIZIONI TRIBUTARIE
 
-### Art. 65
+TITOLO III
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+### Art. 62.
 
-### Art. 66
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+### Art. 63.
 
-### Art. 67
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+### Art. 64.
 
-### Art. 68
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+### Art. 65.
 
-all. 1 - Tabella A
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
 
- ALLEGATO   
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 OTTOBRE 1993, N. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427)
-  
+### Art. 66.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
+
+### Art. 67.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)
+
+### Art. 68.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 29 OTTOBRE 1993, N. 427](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201993%20n.%20331%20recante%20armonizzazione%20delle%20disposizioni%20in%20materia%20di%20imposte%20sugli%20oli%20minerali%20sullalcole%20sulle%20bevande%20_c74580add766.md)

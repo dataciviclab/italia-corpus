@@ -1,88 +1,73 @@
-DECRETO LEGISLATIVO 10 febbraio 1948 n. 105
+---
+tipo: DECRETO LEGISLATIVO
+numero: 105
+data: 1948-02-10
+titolo: "Disposizioni sull'ordinamento delle banche popolari."
+urn: urn:nir:stato:decreto.legislativo:1948-02-10;105
+codice_redazionale: 048U0105
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 10 febbraio 1948 n. 105
-===========================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-Disposizioni sull'ordinamento delle banche popolari.
-----------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+## Art. 3.
 
-Art. 2
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+## Art. 4.
 
-Art. 3
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+## Art. 5.
 
-Art. 4
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+## Art. 6.
 
-Art. 5
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+## Art. 7.
 
-Art. 6
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+## Art. 8.
 
-Art. 7
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+## Art. 9.
 
-Art. 8
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+## Art. 10.
 
-Art. 9
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+## Art. 11.
 
-Art. 10
--------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+## Art. 12.
 
-Art. 11
--------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+## Art. 13.
 
-Art. 12
--------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+## Art. 14.
 
-Art. 13
--------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+## Art. 15.
 
-Art. 14
--------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+## Art. 16.
 
-Art. 15
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
-
-Art. 16
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 SETTEMBRE 1993, N. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))

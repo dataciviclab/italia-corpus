@@ -1,16 +1,14 @@
-DECRETO 28 settembre 2004 n. 285
-
-
-DECRETO 28 settembre 2004 n. 285
-================================
-
-Regolamento recante modalita' e criteri di attuazione della soppressione dei Fondi speciali di previdenza per gli impiegati gestiti dall'INA S.p.a., ai sensi dell'articolo 70 della legge 17 maggio 1999, n. 144.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/12/2004
+---
+tipo: DECRETO
+numero: 285
+data: 2004-09-28
+titolo: "Regolamento recante modalita' e criteri di attuazione della soppressione dei Fondi speciali di previdenza per gli impiegati gestiti dall'INA S.p.a., ai sensi dell'articolo 70 della legge 17 maggio 1999, n. 144."
+urn: urn:nir:ministero.lavoro.e.politiche.sociali:decreto:2004-09-28;285
+codice_redazionale: 004G0316
+vigente: true
+---
 
 IL MINISTRO DEL LAVORO E DELLE POLITICHE SOCIALI
-------------------------------------------------
 
 di concerto con
 
@@ -20,86 +18,90 @@ e
 
 IL MINISTRO DELLE ATTIVITA' PRODUTTIVE
 
-Visto l'[articolo 70 della legge 17 maggio 1999, n. 144](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-05-17;144~art70), che, nel disporre, a decorrere dal 30 giugno 1999, la soppressione dei Fondi speciali di previdenza per gli impiegati gestiti dall'Istituto nazionale assicurazioni s.p.a. (INA s.p.a.), per effetto di contratti collettivi nazionali di lavoro, con conseguente cessazione dell'obbligo della contribuzione, e il trasferimento delle disponibilita' economiche dei Fondi stessi al Fondo pensioni dei lavoratori dipendenti, in apposita evidenza contabile, deferisce ad un decreto dell'allora Ministro del lavoro e della previdenza sociale, ora del lavoro e delle politiche sociali, di concerto con quello dell'allora tesoro, bilancio e programmazione economica, ora dell'economia e delle finanze, e quello dell'allora industria, commercio e artigianato, ora delle attivita' produttive, da adottarsi ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3), la determinazione di modalita' e di criteri di attuazione, con particolare riferimento alla regolamentazione delle posizioni maturate;
+Visto l'[articolo 70 della legge 17 maggio 1999, n. 144](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Misure%20in%20materia%20di%20investimenti%20delega%20al%20Governo%20per%20il%20riordino%20degli%20incentivi%20alloccupazione%20e%20della%20normativa%20che%20disciplina%20lINAIL%20nonche%20disposizioni%20per%20il%20riordino%20degli%20enti%20previdenziali.md), che, nel disporre, a decorrere dal 30 giugno 1999, la soppressione dei Fondi speciali di previdenza per gli impiegati gestiti dall'Istituto nazionale assicurazioni s.p.a. (INA s.p.a.), per effetto di contratti collettivi nazionali di lavoro, con conseguente cessazione dell'obbligo della contribuzione, e il trasferimento delle disponibilita' economiche dei Fondi stessi al Fondo pensioni dei lavoratori dipendenti, in apposita evidenza contabile, deferisce ad un decreto dell'allora Ministro del lavoro e della previdenza sociale, ora del lavoro e delle politiche sociali, di concerto con quello dell'allora tesoro, bilancio e programmazione economica, ora dell'economia e delle finanze, e quello dell'allora industria, commercio e artigianato, ora delle attivita' produttive, da adottarsi ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), la determinazione di modalita' e di criteri di attuazione, con particolare riferimento alla regolamentazione delle posizioni maturate;
 
-Considerato che le gestioni soppresse, in base al citato [articolo 70 della legge n. 144 del 1999](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999;144~art70), sono costituite dal Fondo di previdenza per gli impiegati dell'industria, dal Fondo di previdenza per i viaggiatori e piazzisti dipendenti da aziende industriali, dal Fondo di previdenza per i dipendenti da proprietari di fabbricati, istituiti con contratti collettivi nazionali di lavoro stipulati, rispettivamente, in data 5 agosto 1937, 1° dicembre 1937 e 29 febbraio 1940;
+Considerato che le gestioni soppresse, in base al citato [articolo 70 della legge n. 144 del 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999;144#art_70), sono costituite dal Fondo di previdenza per gli impiegati dell'industria, dal Fondo di previdenza per i viaggiatori e piazzisti dipendenti da aziende industriali, dal Fondo di previdenza per i dipendenti da proprietari di fabbricati, istituiti con contratti collettivi nazionali di lavoro stipulati, rispettivamente, in data 5 agosto 1937, 1° dicembre 1937 e 29 febbraio 1940;
 
 Considerato che l'INA s.p.a. gestisce anche il Fondo di accantonamento dell'indennita' di licenziamento per i dipendenti da studi professionali, il Fondo di accantonamento dell'indennita' di licenziamento per i dipendenti da farmacie e il Fondo di accantonamento dell'indennita' di licenziamento per i farmacisti collaboratori;
 
 Tenuto conto che per i Fondi da ultimo citati non risultano, secondo quanto riferito dall'INA s.p.a., movimentazioni finanziarie in entrata o in uscita sin dal 1953, tanto da essere ritenute gestioni a stralcio;
 
-Ritenuto pertanto opportuno e conforme allo spirito della norma di cui al citato [articolo 70 della legge n. 144 del 1999](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999;144~art70), procedere alla soppressione anche di tali Fondi di accantonamento;
+Ritenuto pertanto opportuno e conforme allo spirito della norma di cui al citato [articolo 70 della legge n. 144 del 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999;144#art_70), procedere alla soppressione anche di tali Fondi di accantonamento;
 
 Visti i regolamenti di tutti i fondi precedentemente citati, che, nell'attribuire all'INA s.p.a. la gestione dei contributi, strutturano il funzionamento della forma assicurativa attraverso meccanismi di accumulo di ricchezza su conti individuali;
 
-Ritenuto potersi procedere alla regolamentazione delle posizioni maturate, secondo quanto previsto dal citato [articolo 70 della legge n. 144 del 1999](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999;144~art70), garantendo il rispetto delle modalita' di calcolo delle spettanze imputate a ciascun conto individuale;
+Ritenuto potersi procedere alla regolamentazione delle posizioni maturate, secondo quanto previsto dal citato [articolo 70 della legge n. 144 del 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999;144#art_70), garantendo il rispetto delle modalita' di calcolo delle spettanze imputate a ciascun conto individuale;
 
-Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3);
+Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
 Udito il parere del Consiglio di Stato, espresso nell'adunanza della Sezione consultiva degli atti normativi del 4 giugno 2001;
 
 Vista la comunicazione al Presidente del Consiglio, eseguita con atto del 14 settembre 2004;
 
-Adotta
-------
+Adotta il seguente regolamento:
 
-il seguente regolamento:
+## Art. 1.
 
-Art. 1
-------
+1.
 
-1. Per fondi speciali di previdenza soppressi ai sensi dell'[articolo 70 della legge 17 maggio 1999, n. 144](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-05-17;144~art70), si intendono i seguenti:
+Per fondi speciali di previdenza soppressi ai sensi dell'[articolo 70 della legge 17 maggio 1999, n. 144](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Misure%20in%20materia%20di%20investimenti%20delega%20al%20Governo%20per%20il%20riordino%20degli%20incentivi%20alloccupazione%20e%20della%20normativa%20che%20disciplina%20lINAIL%20nonche%20disposizioni%20per%20il%20riordino%20degli%20enti%20previdenziali.md), si intendono i seguenti:
+                        a)
+                            Fondo di previdenza per gli impiegati dell'industria;
+                        b)
+                            Fondo di previdenza per i viaggiatori e piazzisti dipendenti da aziende industriali;
+                        c)
+                            Fondo di previdenza per gli impiegati dipendenti da proprietari di fabbricati;
+                        d)
+                            Fondo di accantonamento dell'indennita' di licenziamento per i dipendenti da studi professionali;
+                        e)
+                            Fondo di accantonamento dell'indennita' di licenziamento per i dipendenti da farmacie;
+                        f)
+                            Fondo di accantonamento dell'indennita' di licenziamento per i farmacisti collaboratori.
 
-a) Fondo di previdenza per gli impiegati dell'industria;
+2.
 
-b) Fondo di previdenza per i viaggiatori e piazzisti dipendenti da aziende industriali;
+Le disponibilita' economiche dei fondi soppressi di cui al comma 1 sono trasferite dall'INA s.p.a. al Fondo pensioni lavoratori dipendenti in apposita evidenza contabile, comprensive delle somme corrispondenti ai rendimenti economici maturati dal 30 giugno 1999 fino alla data dell'effettivo trasferimento. Tali somme non devono comunque risultare inferiori agli interessi legali.
 
-c) Fondo di previdenza per gli impiegati dipendenti da proprietari di fabbricati;
+3.
 
-d) Fondo di accantonamento dell'indennita' di licenziamento per i dipendenti da studi professionali;
+La liquidazione delle spettanze imputate a ciascun conto individuale aperto presso i soppressi fondi e' effettuata, a domanda degli interessati, secondo le modalita' di calcolo previste nei relativi regolamenti.
 
-e) Fondo di accantonamento dell'indennita' di licenziamento per i dipendenti da farmacie;
+4.
 
-f) Fondo di accantonamento dell'indennita' di licenziamento per i farmacisti collaboratori.
+Alle modalita' di corresponsione delle somme risultanti dalla liquidazione dei conti individuali di cui al comma 3, si puo' provvedere anche sulla base di convenzione tra I.N.P.S. e I.N.A.
+s.p.a. avente ad oggetto la gestione e la liquidazione del trattamento previdenziale e degli importi dei conti personali maturati. Detta Convenzione, qualora adottata, va sottoposta all'approvazione del Ministero del lavoro e delle politiche sociali, sentiti il Ministero dell'economia e delle finanze e il Ministero delle attivita' produttive entro sessanta giorni dalla stipula.
+ Il presente decreto, munito del sigillo di Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e farlo osservare.
+ Roma, 28 settembre 2004
 
-2. Le disponibilita' economiche dei fondi soppressi di cui al comma 1 sono trasferite dall'INA s.p.a. al Fondo pensioni lavoratori dipendenti in apposita evidenza contabile, comprensive delle somme corrispondenti ai rendimenti economici maturati dal 30 giugno 1999 fino alla data dell'effettivo trasferimento. Tali somme non devono comunque risultare inferiori agli interessi legali.
+ Il Ministro del lavoro
+ delle politiche sociali
+ Maroni
 
-3. La liquidazione delle spettanze imputate a ciascun conto individuale aperto presso i soppressi fondi e' effettuata, a domanda degli interessati, secondo le modalita' di calcolo previste nei relativi regolamenti.
+ Il Ministro dell'economia
+ e delle finanze
+ Siniscalco
 
-4. Alle modalita' di corresponsione delle somme risultanti dalla liquidazione dei conti individuali di cui al comma 3, si puo' provvedere anche sulla base di convenzione tra I.N.P.S. e I.N.A.  
-s.p.a. avente ad oggetto la gestione e la liquidazione del trattamento previdenziale e degli importi dei conti personali maturati. Detta Convenzione, qualora adottata, va sottoposta all'approvazione del Ministero del lavoro e delle politiche sociali, sentiti il Ministero dell'economia e delle finanze e il Ministero delle attivita' produttive entro sessanta giorni dalla stipula.  
-Il presente decreto, munito del sigillo di Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e farlo osservare.  
-Roma, 28 settembre 2004  
-  
-Il Ministro del lavoro  
-delle politiche sociali  
-Maroni  
-  
-Il Ministro dell'economia  
-e delle finanze  
-Siniscalco  
-  
-Il Ministro delle attivita' produttive  
-Marzano  
-  
-Visto, il Guardasigilli: Castelli  
-  
-Registrato alla [Corte dei conti il 16 novembre 2004  
-Ufficio di controllo preventivo sui Ministeri dei servizi alla  
-persona e dei beni culturali, registro n. 6](https://e-justice.europa.eu/ecli/ECLI::::), foglio n. 229
+ Il Ministro delle attivita' produttive
+ Marzano
 
-Avvertenza:  
-  
-Il testo delle note qui' pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.  
-  
-Note alle premesse:  
-  
-- Il testo dell'[art. 70 della legge 17 maggio 1999, n. 144](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-05-17;144~art70) (Misure in materia di investimenti, delega al Governo per il riordino degli incentivi all'occupazione e della normativa che disciplina l'INAIL, nonche' disposizioni per il riordino degli enti previdenziali), e' il seguente:  
-"Art. 70 (Soppressione di fondi speciali di previdenza INA). - 1. A decorrere dal 30 giugno 1999 i fondi speciali di previdenza per gli impiegati gestiti dall'Istituto nazionale assicurazioni S.p.a. (INA S.p.a.), per effetto di contratti collettivi nazionali di lavoro, sono soppressi.  
-Dalla stessa data cessa l'obbligo della contribuzione e le disponibilita' economiche esistenti presso i fondi soppressi sono trasferite al Fondo pensioni lavoratori dipendenti in apposita evidenza contabile. Con decreto del Ministro del lavoro e della previdenza sociale, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica e con il Ministro dell'industria, del commercio e dell'artigianato, da emanare ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3) e successive modificazioni, sono determinati le modalita' ed i criteri per l'attuazione del presente articolo e in particolare per la regolamentazione delle posizioni maturate.".  
-- Il testo dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), e' il seguente:  
-"3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.  
-I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.".  
-  
-Nota all'art. 1:  
-- Per il testo dell'[art. 70 della legge 17 maggio 1999, n. 144](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-05-17;144~art70), si veda nota alle premesse.
+Visto, il Guardasigilli: Castelli
+
+ Registrato alla Corte dei conti il 16 novembre 2004
+ Ufficio di controllo preventivo sui Ministeri dei servizi alla
+persona e dei beni culturali, registro n. 6, foglio n. 229
+
+Avvertenza:
+
+ Il testo delle note qui' pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+
+ Note alle premesse:
+
+ - Il testo dell'[art. 70 della legge 17 maggio 1999, n. 144](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Misure%20in%20materia%20di%20investimenti%20delega%20al%20Governo%20per%20il%20riordino%20degli%20incentivi%20alloccupazione%20e%20della%20normativa%20che%20disciplina%20lINAIL%20nonche%20disposizioni%20per%20il%20riordino%20degli%20enti%20previdenziali.md) (Misure in materia di investimenti, delega al Governo per il riordino degli incentivi all'occupazione e della normativa che disciplina l'INAIL, nonche' disposizioni per il riordino degli enti previdenziali), e' il seguente:
+ "Art. 70 (Soppressione di fondi speciali di previdenza INA). - 1. A decorrere dal 30 giugno 1999 i fondi speciali di previdenza per gli impiegati gestiti dall'Istituto nazionale assicurazioni S.p.a. (INA S.p.a.), per effetto di contratti collettivi nazionali di lavoro, sono soppressi.
+ Dalla stessa data cessa l'obbligo della contribuzione e le disponibilita' economiche esistenti presso i fondi soppressi sono trasferite al Fondo pensioni lavoratori dipendenti in apposita evidenza contabile. Con decreto del Ministro del lavoro e della previdenza sociale, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica e con il Ministro dell'industria, del commercio e dell'artigianato, da emanare ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) e successive modificazioni, sono determinati le modalita' ed i criteri per l'attuazione del presente articolo e in particolare per la regolamentazione delle posizioni maturate.".
+ - Il testo dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), e' il seguente:
+ "3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.
+ I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.".
+
+ Nota all'art. 1:
+ - Per il testo dell'[art. 70 della legge 17 maggio 1999, n. 144](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Misure%20in%20materia%20di%20investimenti%20delega%20al%20Governo%20per%20il%20riordino%20degli%20incentivi%20alloccupazione%20e%20della%20normativa%20che%20disciplina%20lINAIL%20nonche%20disposizioni%20per%20il%20riordino%20degli%20enti%20previdenziali.md), si veda nota alle premesse.

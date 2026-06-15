@@ -1,39 +1,29 @@
-DECRETO-LEGGE 30 marzo 1989 n. 114
+---
+tipo: DECRETO-LEGGE
+numero: 114
+data: 1989-03-30
+titolo: "Disposizioni in materia di aliquote dell'imposta sul valore aggiunto, dell'imposta di fabbricazione su taluni prodotti petroliferi e dell'imposta di consumo sul gas metano usato come combustibile, nonche' in materia di agevolazioni tributarie previste dall'articolo 11 del decreto-legge 19 settembre 1987, n. 384, convertito, con modificazioni, dalla legge 19 novembre 1987, n. 470."
+urn: urn:nir:stato:decreto.legge:1989-03-30;114
+codice_redazionale: 089G0144
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 30 marzo 1989 n. 114
-==================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 28 LUGLIO 1989, N. 263](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20maggio%201989%20n.%20202%20recante%20disposizioni%20urgenti%20in%20materia%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20agevolazioni%20tributarie%20per%20le%20z_37522897a618.md)
 
-Disposizioni in materia di aliquote dell'imposta sul valore aggiunto, dell'imposta di fabbricazione su taluni prodotti petroliferi e dell'imposta di consumo sul gas metano usato come combustibile, nonche' in materia di agevolazioni tributarie previste dall'articolo 11 del decreto-legge 19 settembre 1987, n. 384, convertito, con modificazioni, dalla legge 19 novembre 1987, n. 470.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 30/03/1989.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 28 LUGLIO 1989, N. 263](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20maggio%201989%20n.%20202%20recante%20disposizioni%20urgenti%20in%20materia%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20agevolazioni%20tributarie%20per%20le%20z_37522897a618.md)
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 28 LUGLIO 1989, N. 263](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-07-28;263)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 28 LUGLIO 1989, N. 263](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20maggio%201989%20n.%20202%20recante%20disposizioni%20urgenti%20in%20materia%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20agevolazioni%20tributarie%20per%20le%20z_37522897a618.md)
 
-Art. 2
-------
+## Art. 4.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 28 LUGLIO 1989, N. 263](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-07-28;263)
-  
-
-Art. 3
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 28 LUGLIO 1989, N. 263](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-07-28;263)
-  
-
-Art. 4
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 28 LUGLIO 1989, N. 263](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-07-28;263)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 28 LUGLIO 1989, N. 263](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20maggio%201989%20n.%20202%20recante%20disposizioni%20urgenti%20in%20materia%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20agevolazioni%20tributarie%20per%20le%20z_37522897a618.md)

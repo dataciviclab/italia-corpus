@@ -1,15 +1,13 @@
-DECRETO LEGISLATIVO LUOGOTENENZIALE 31 maggio 1945 n. 567
+---
+tipo: DECRETO LEGISLATIVO LUOGOTENENZIALE
+numero: 567
+data: 1945-05-31
+titolo: "Autorizzazione a contrarre matrimonio per gli ufficiali della Regia aeronautica. (045U0567)"
+urn: urn:nir:stato:decreto.legislativo.luogotenenziale:1945-05-31;567
+codice_redazionale: 045U0567
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO LUOGOTENENZIALE 31 maggio 1945 n. 567
-=========================================================
-
-Autorizzazione a contrarre matrimonio per gli ufficiali della Regia aeronautica. (045U0567)
--------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/09/1945
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))

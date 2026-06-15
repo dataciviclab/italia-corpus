@@ -1,59 +1,44 @@
-DECRETO-LEGGE 02 gennaio 1996 n. 1
+---
+tipo: DECRETO-LEGGE
+numero: 1
+data: 1996-01-02
+titolo: "Partecipazione italiana alla missione di pace in Bosnia."
+urn: urn:nir:stato:decreto.legge:1996-01-02;1
+codice_redazionale: 095G0620
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 02 gennaio 1996 n. 1
-==================================
+DECRETO DECADUTO; I SUOI EFFETTI
+ SONO STATI FATTI SALVI DALLA [L. 8 AGOSTO 1996, N. 428](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20luglio%201996%20n.%20346%20concernente%20partecipazione%20italiana%20alla%20missione%20di%20pace%20in%20Bosnia.md)
 
-Partecipazione italiana alla missione di pace in Bosnia.
---------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 2/1/1996.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI
+ SONO STATI FATTI SALVI DALLA [L. 8 AGOSTO 1996, N. 428](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20luglio%201996%20n.%20346%20concernente%20partecipazione%20italiana%20alla%20missione%20di%20pace%20in%20Bosnia.md)
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO; I SUOI EFFETTI  
-SONO STATI FATTI SALVI DALLA [L. 8 AGOSTO 1996, N. 428](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;428)
-  
+DECRETO DECADUTO; I SUOI EFFETTI
+ SONO STATI FATTI SALVI DALLA [L. 8 AGOSTO 1996, N. 428](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20luglio%201996%20n.%20346%20concernente%20partecipazione%20italiana%20alla%20missione%20di%20pace%20in%20Bosnia.md)
 
-Art. 2
-------
+## Art. 4.
 
- DECRETO DECADUTO; I SUOI EFFETTI  
-SONO STATI FATTI SALVI DALLA [L. 8 AGOSTO 1996, N. 428](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;428)
-  
+DECRETO DECADUTO; I SUOI EFFETTI
+ SONO STATI FATTI SALVI DALLA [L. 8 AGOSTO 1996, N. 428](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20luglio%201996%20n.%20346%20concernente%20partecipazione%20italiana%20alla%20missione%20di%20pace%20in%20Bosnia.md)
 
-Art. 3
-------
+## Art. 5.
 
- DECRETO DECADUTO; I SUOI EFFETTI  
-SONO STATI FATTI SALVI DALLA [L. 8 AGOSTO 1996, N. 428](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;428)
-  
+DECRETO DECADUTO; I SUOI EFFETTI
+ SONO STATI FATTI SALVI DALLA [L. 8 AGOSTO 1996, N. 428](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20luglio%201996%20n.%20346%20concernente%20partecipazione%20italiana%20alla%20missione%20di%20pace%20in%20Bosnia.md)
 
-Art. 4
-------
+## Art. 6.
 
- DECRETO DECADUTO; I SUOI EFFETTI  
-SONO STATI FATTI SALVI DALLA [L. 8 AGOSTO 1996, N. 428](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;428)
-  
+DECRETO DECADUTO; I SUOI EFFETTI
+ SONO STATI FATTI SALVI DALLA [L. 8 AGOSTO 1996, N. 428](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20luglio%201996%20n.%20346%20concernente%20partecipazione%20italiana%20alla%20missione%20di%20pace%20in%20Bosnia.md)
 
-Art. 5
-------
+## Art. 7.
 
- DECRETO DECADUTO; I SUOI EFFETTI  
-SONO STATI FATTI SALVI DALLA [L. 8 AGOSTO 1996, N. 428](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;428)
-  
-
-Art. 6
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI  
-SONO STATI FATTI SALVI DALLA [L. 8 AGOSTO 1996, N. 428](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;428)
-  
-
-Art. 7
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI  
-SONO STATI FATTI SALVI DALLA [L. 8 AGOSTO 1996, N. 428](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;428)
-  
+DECRETO DECADUTO; I SUOI EFFETTI
+ SONO STATI FATTI SALVI DALLA [L. 8 AGOSTO 1996, N. 428](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20luglio%201996%20n.%20346%20concernente%20partecipazione%20italiana%20alla%20missione%20di%20pace%20in%20Bosnia.md)

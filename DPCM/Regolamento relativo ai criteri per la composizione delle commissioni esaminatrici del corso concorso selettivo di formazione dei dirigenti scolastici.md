@@ -1,35 +1,29 @@
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 30 maggio 2001 n. 341
+---
+tipo: DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
+numero: 341
+data: 2001-05-30
+titolo: "Regolamento relativo ai criteri per la composizione delle commissioni esaminatrici del corso concorso selettivo di formazione dei dirigenti scolastici."
+urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2001-05-30;341
+codice_redazionale: 001G0401
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 30 maggio 2001 n. 341
-=======================================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 10 LUGLIO 2008, N. 140))
 
-Regolamento relativo ai criteri per la composizione delle commissioni esaminatrici del corso concorso selettivo di formazione dei dirigenti scolastici.
--------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 7-9-2001
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 10 LUGLIO 2008, N. 140))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 10 LUGLIO 2008, N. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-07-10;140)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 10 LUGLIO 2008, N. 140))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 10 LUGLIO 2008, N. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-07-10;140)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 10 LUGLIO 2008, N. 140))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 10 LUGLIO 2008, N. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-07-10;140)))
-
-Art. 4
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 10 LUGLIO 2008, N. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-07-10;140)))
-
-Art. 5
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 10 LUGLIO 2008, N. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2008-07-10;140)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 10 LUGLIO 2008, N. 140))

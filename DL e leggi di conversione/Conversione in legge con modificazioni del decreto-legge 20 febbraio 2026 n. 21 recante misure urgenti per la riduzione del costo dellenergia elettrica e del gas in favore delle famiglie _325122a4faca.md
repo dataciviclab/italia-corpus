@@ -1,263 +1,36 @@
-LEGGE 10 aprile 2026 n. 49
-
-
-LEGGE 10 aprile 2026 n. 49
-==========================
-
-Conversione in legge, con modificazioni, del decreto-legge 20 febbraio 2026, n. 21, recante misure urgenti per la riduzione del costo dell'energia elettrica e del gas in favore delle famiglie e delle imprese, per la competitivita' delle imprese e per la decarbonizzazione delle industrie, nonche' disposizioni urgenti in materia di risoluzione della saturazione virtuale delle reti elettriche e di integrazione dei centri di elaborazione dati nel sistema elettrico. (26G00066)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/04/2026
+---
+tipo: LEGGE
+numero: 49
+data: 2026-04-10
+titolo: "Conversione in legge, con modificazioni, del decreto-legge 20 febbraio 2026, n. 21, recante misure urgenti per la riduzione del costo dell'energia elettrica e del gas in favore delle famiglie e delle imprese, per la competitivita' delle imprese e per la decarbonizzazione delle industrie, nonche' disposizioni urgenti in materia di risoluzione della saturazione virtuale delle reti elettriche e di integrazione dei centri di elaborazione dati nel sistema elettrico. (26G00066)"
+urn: urn:nir:stato:legge:2026-04-10;49
+codice_redazionale: 26G00066
+vigente: true
+---
 
 La Camera dei deputati ed il Senato della Repubblica hanno approvato;
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Promulga
---------
+Promulga la seguente legge:
 
-la seguente legge:
+## Art. 1.
 
-Art. 1
-------
+1.
 
-1. Il [decreto-legge 20 febbraio 2026, n. 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-20;21), recante misure urgenti per la riduzione del costo dell'energia elettrica e del gas in favore delle famiglie e delle imprese, per la competitivita' delle imprese e per la decarbonizzazione delle industrie, nonche' disposizioni urgenti in materia di risoluzione della saturazione virtuale delle reti elettriche e di integrazione dei centri di elaborazione dati nel sistema elettrico, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
+Il [decreto-legge 20 febbraio 2026, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-20;21), recante misure urgenti per la riduzione del costo dell'energia elettrica e del gas in favore delle famiglie e delle imprese, per la competitivita' delle imprese e per la decarbonizzazione delle industrie, nonche' disposizioni urgenti in materia di risoluzione della saturazione virtuale delle reti elettriche e di integrazione dei centri di elaborazione dati nel sistema elettrico, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
 
-2. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
+2.
+
+La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
+
+Avvertenza: 
+ Il [decreto-legge 20 febbraio 2026, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-20;21), e' stato pubblicato nella Gazzetta Ufficiale - Serie generale - n. 42 del 20 febbraio 2026. 
+ A norma dell'[art. 15, comma 5, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_15-com5) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri), le modifiche apportate dalla presente legge di conversione hanno efficacia dal giorno successivo a quello della sua pubblicazione. 
+ Il testo del decreto-legge coordinato con la legge di conversione e' pubblicato in questa stessa Gazzetta Ufficiale alla pag. 29.
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data a Roma, addi' 10 aprile 2026
+Data a Roma, addi' 10 aprile 2026
 
-MATTARELLA
-
-Meloni, Presidente del Consiglio dei ministri
-
-Pichetto Fratin, Ministro dell'ambiente e della sicurezza energetica
-
-Visto, il Guardasigilli: Nordio
-
-Avvertenza:   
-Il [decreto-legge 20 febbraio 2026, n. 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-20;21), e' stato pubblicato nella Gazzetta Ufficiale - Serie generale - n. 42 del 20 febbraio 2026.   
-A norma dell'[art. 15, comma 5, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art15-com5) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri), le modifiche apportate dalla presente legge di conversione hanno efficacia dal giorno successivo a quello della sua pubblicazione.   
-Il testo del decreto-legge coordinato con la legge di conversione e' pubblicato in questa stessa Gazzetta Ufficiale alla pag. 29.
-
-Allegato
-
- Allegato   
-MODIFICAZIONI APPORTATE IN SEDE DI CONVERSIONE AL DECRETO-LEGGE 20 FEBBRAIO 2026, N. 21   
-All'articolo 1:   
-al comma 1, dopo le parole: «contributo straordinario» sono inserite le seguenti: «, che deve essere riportato in fattura con dicitura univoca e standardizzata definita dall'Autorita' di regolazione per energia, reti e ambiente (ARERA),» e le parole: «Autorita' di regolazione per energia, reti e ambiente» sono sostituite dalla seguente: «ARERA»;   
-al comma 2:   
-al primo periodo, la parola: «ISEE» e' sostituita dalle seguenti: «indicatore della situazione economica equivalente»;   
-al secondo periodo, la parola: «PE» e' sostituita dalle seguenti: «"prezzo dell'energia" (PE)», le parole: «Delibera ARERA n. 428/25/R/eel» sono sostituite dalle seguenti: «deliberazione dell'ARERA 26 settembre 2025, n. 428/25/R/eel,» e le parole: «clienti attivati» sono sostituite dalle seguenti: «clienti i cui contratti sono stati attivati»;   
-al terzo periodo, le parole: «MWh, e» sono sostituite dalle seguenti: «MWh e»;   
-al quinto periodo, le parole: «della presente disposizione» sono sostituite dalle seguenti: «del presente decreto»;   
-e' aggiunto, in fine, il seguente periodo: «Il riconoscimento del contributo non puo' essere subordinato all'adesione a servizi o a prodotti accessori ne' comportare modifiche peggiorative delle condizioni contrattuali»;   
-al comma 3, secondo periodo, le parole: «sul proprio portale» sono sostituite dalle seguenti: «nel proprio sito internet»;   
-dopo il comma 5 e' aggiunto il seguente:   
-«5-bis. All'[articolo 51 del codice del consumo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206~art51), di cui al [decreto legislativo 6 settembre 2005, n. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206), dopo il comma 8 sono inseriti i seguenti:   
-"8-bis. Al fine di rafforzare la tutela dei clienti finali domestici e il loro diritto di scelta delle condizioni economiche, decorsi sessanta giorni dalla data di entrata in vigore della presente disposizione, e' vietato effettuare sollecitazioni commerciali per telefono, anche mediante l'invio di messaggi a consumatori, finalizzate alla proposta o alla conclusione di contratti di fornitura di energia elettrica e gas. Il professionista puo' contattare il consumatore per telefono, anche mediante l'invio di messaggi, qualora vi sia stata una richiesta effettuata direttamente al professionista stesso attraverso interfacce informatiche di quest'ultimo oppure nel caso in cui il contatto sia stato effettuato nei confronti dei propri clienti di energia elettrica e gas che abbiano espresso specifico consenso a ricevere proposte commerciali. E' onere del professionista dimostrare la validita' del contatto.   
-8-ter. I contatti telefonici di cui al comma 8-bis sono effettuati dal professionista da un numero che lo identifica univocamente. I contratti stipulati a seguito di contatto effettuato in violazione di quanto previsto dal comma 8-bis e dal presente comma sono nulli. Il consumatore puo' avvalersi degli strumenti di risoluzione alternativa delle controversie di cui alla parte V, titolo II-bis, e del servizio di conciliazione dell'Autorita' di regolazione per energia, reti e ambiente.   
-8-quater. Gli utenti possono segnalare al Garante per la protezione dei dati personali e all'Autorita' per le garanzie nelle comunicazioni (AGCOM) i casi di chiamata effettuata in violazione di quanto previsto dai commi 8-bis e 8-ter, indicando il numero da cui proviene la chiamata. Qualora l'AGCOM, nell'ambito dell'attivita' istruttoria svolta d'ufficio o a seguito della segnalazione di cui al primo periodo, accerti che la chiamata proviene da numeri diversi da quelli assegnati al professionista, ordina al gestore telefonico competente l'immediata sospensione dell'utilizzo delle linee allo stesso assegnate. Il Garante per la protezione dei dati personali, nell'ambito della propria attivita' istruttoria, puo' chiedere all'AGCOM, in presenza di un numero significativo di segnalazioni di chiamate effettuate senza previo consenso, di procedere alla sospensione di cui al secondo periodo"»;   
-la rubrica e' sostituita dalla seguente: «Misure straordinarie volte a sostenere le famiglie nell'affrontare i costi di acquisto dell'energia elettrica e disposizioni per la tutela dei clienti finali domestici».   
-Dopo l'articolo 1 sono inseriti i seguenti:   
-«Art. 1-bis (Modifiche al [decreto-legge 29 novembre 2008, n. 185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-11-29;185), convertito, con modificazioni, dalla [legge 28 gennaio 2009, n. 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-01-28;2), in materia di compensazione della spesa per la fornitura del teleriscaldamento). - 1. All'[articolo 3 del decreto-legge 29 novembre 2008, n. 185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-11-29;185~art3), convertito, con modificazioni, dalla [legge 28 gennaio 2009, n. 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-01-28;2), sono apportate le seguenti modificazioni:   
-a) al comma 9:   
-1) al secondo periodo sono aggiunte, in fine, le seguenti parole: "e, a decorrere dal 1° gennaio 2026, per la fornitura del teleriscaldamento";   
-2) al quinto periodo sono premesse le seguenti parole: "Nel caso della fornitura di gas naturale,";   
-3) e' aggiunto, in fine, il seguente periodo: "Nel caso della fornitura del teleriscaldamento, l'Autorita' di regolazione per energia, reti e ambiente istituisce un'apposita componente tariffaria volta ad alimentare un conto gestito dalla Cassa per i servizi energetici e ambientali e stabilisce, altresi', le misure tecniche necessarie per l'attribuzione del beneficio";   
-b) al comma 9-bis, dopo le parole: "per la fornitura di gas naturale" sono inserite le seguenti: "e del teleriscaldamento".   
-Art. 1-ter (Modifica all'[articolo 9 del decreto legislativo 4 luglio 2014, n. 102](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-07-04;102~art9), in materia di informazioni ai clienti delle societa' di vendita di energia al dettaglio). - 1. All'[articolo 9, comma 7, lettera b), del decreto legislativo 4 luglio 2014, n. 102](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-07-04;102~art9-com7-letb), le parole: "ai clienti finali sia offerta l'opzione di ricevere in via elettronica informazioni sulla fatturazione, sulle bollette e sull'identita' dell'intermediario con cui e' stata sottoscritta l'offerta e sia fornita" sono sostituite dalle seguenti: "i clienti finali ricevano in via elettronica informazioni sulla fatturazione e sulle bollette che comprendono, a beneficio dei medesimi clienti finali, l'indicazione dell'identita' dell'intermediario mediante il quale e' stata sottoscritta la fornitura; tale informazione e' resa disponibile esclusivamente al venditore che emette la bolletta e al cliente finale; sia fornita".   
-Art. 1-quater (Correttezza, trasparenza e adeguatezza delle attivita' di consulenza e di formulazione della proposta contrattuale nei settori dell'energia elettrica, del gas naturale e delle telecomunicazioni). - 1. Gli operatori dei settori dell'energia elettrica, del gas naturale e delle telecomunicazioni che offrono o promuovono contratti di fornitura a clienti finali sono responsabili della correttezza, della trasparenza e dell'adeguatezza delle attivita' di consulenza e di formulazione della proposta contrattuale svolte direttamente o tramite reti di vendita.   
-2. Prima della stipulazione del contratto, gli operatori di cui al comma 1 acquisiscono le informazioni necessarie sulle esigenze del cliente e valutano l'adeguatezza della proposta contrattuale.   
-3. Le autorita' di regolazione competenti dettano, ove non gia' previste, le prescrizioni necessarie ad assicurare il rispetto dei principi di cui ai commi 1 e 2, senza nuovi o maggiori oneri a carico della finanza pubblica.   
-Art. 1-quinquies (Disposizioni in materia di trasparenza nel settore dell'energia). - 1. Al fine di promuovere la trasparenza, la concorrenza e il corretto funzionamento del mercato energetico, entro sei mesi dalla data di entrata in vigore della legge di conversione del presente decreto, l'Autorita' di regolazione per energia, reti e ambiente definisce, con proprio provvedimento, le modalita' e i criteri con cui gli operatori della vendita al dettaglio nei settori dell'energia elettrica e del gas naturale forniscono alla medesima Autorita' le informazioni relative ai margini di profitto, distinte per tipologie di cliente o di offerta.   
-2. Con il provvedimento di cui al comma 1 sono altresi' definiti la frequenza della rendicontazione, comunque non inferiore a un anno, i soggetti obbligati e le eventuali soglie dimensionali per l'applicazione dell'obbligo, nel rispetto dei principi di proporzionalita', trasparenza e comparabilita' delle informazioni, tenuto conto dell'esigenza di minimizzare i correlati oneri informativi.   
-Art. 1-sexies (Disposizioni per la tutela dei clienti finali e la mitigazione dei prezzi attraverso la trasparenza del processo di cambio del fornitore). - 1. Al fine di garantire la libera scelta dei clienti finali di energia e assicurare la trasparenza delle condizioni economiche sottoscritte, le informazioni acquisite nell'ambito del processo di cambio del fornitore, gestito tramite il sistema informativo integrato per la gestione dei flussi informativi relativi ai mercati dell'energia elettrica e del gas, di cui all'[articolo 1-bis del decreto-legge 8 luglio 2010, n. 105](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-07-08;105~art1bis), convertito, con modificazioni, dalla [legge 13 agosto 2010, n. 129](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-08-13;129), sono utilizzate esclusivamente per finalita' tecniche connesse all'esecuzione del medesimo processo.   
-2. Entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, l'Autorita' di regolazione per energia, reti e ambiente provvede, con propria deliberazione, all'istituzione di un tavolo tecnico finalizzato alla definizione di un accordo quadro per la regolamentazione delle procedure di cambio del fornitore coerente con le disposizioni di cui al comma 1, nel rispetto dei principi di neutralita', trasparenza e tutela della concorrenza. Per la partecipazione al tavolo tecnico non spettano compensi, gettoni di presenza, rimborsi di spese o altri emolumenti comunque denominati».   
-All'articolo 2:   
-al comma 1, alinea, le parole: «alle energie rinnovabili» sono sostituite dalle seguenti: «alla produzione di energia da fonti rinnovabili,», dopo le parole: «28 luglio 2005,» sono inserite le seguenti: «[pubblicato nella Gazzetta Ufficiale n. 181 del 5 agosto 2005](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2005-08-05&numeroGazzetta=181),», dopo le parole: «19 febbraio 2007,» sono inserite le seguenti: «[pubblicato nella Gazzetta Ufficiale n. 45 del 23 febbraio 2007](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2007-02-23&numeroGazzetta=45),», dopo le parole: «6 agosto 2010» sono inserite le seguenti: «, [pubblicato nella Gazzetta Ufficiale n. 197 del 24 agosto 2010](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2010-08-24&numeroGazzetta=197),» e dopo le parole: «5 maggio 2011,» sono inserite le seguenti: «[pubblicato nella Gazzetta Ufficiale n. 109 del 12 maggio 2011](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2011-05-12&numeroGazzetta=109),»;   
-al comma 4:   
-all'alinea, le parole: «Gestore dei servizi energetici - GSE S.p.A.» sono sostituite dalla seguente: «GSE», dopo le parole: «in attuazione del» e' inserita la seguente: «citato» e dopo le parole: «e dei» e' inserita la seguente: «citati»;   
-alla lettera b):   
-al numero 1), le parole: «MW, e» sono sostituite dalle seguenti: «MW e»;   
-al numero 2), le parole: «numero 1), sono» sono sostituite dalle seguenti: «numero 1) sono»;   
-alla lettera c):   
-all'alinea, le parole: «concorrenza, e» sono sostituite dalle seguenti: «concorrenza e»;   
-al numero 2), le parole: «ciascun impianto, ed» sono sostituite dalle seguenti: «ciascun impianto ed»;   
-al numero 4), dopo le parole: «di cui alla» e' inserita la seguente: «lettera»;   
-alla lettera e):   
-all'alinea, le parole: «o d), ricevono» sono sostituite dalle seguenti: «o d) ricevono»;   
-al numero 2), dopo le parole: «n. 181,» sono inserite le seguenti: «convertito, con modificazioni, dalla [legge 2 febbraio 2024, n. 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-02-02;11),»;   
-ai numeri 3) e 4), le parole: «ad almeno il 40%» sono sostituite dalle seguenti: «almeno al 30 per cento»;   
-al numero 8), le parole: «n. 199;» sono sostituite dalle seguenti: «n. 199.»;   
-al comma 6, la parola: «incluse» e' sostituita dalla seguente: «compresi»;   
-al comma 7, le parole: «dall'entrata» sono sostituite dalle seguenti: «dalla data di entrata» e le parole: «[Delibera 618/2023/R/com](http://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:2023;618) e s.m.i.» sono sostituite dalle seguenti: «deliberazione dell'ARERA 27 dicembre 2023, n. 618/2023/R/com, e successive modifiche e integrazioni»;   
-al comma 8, dopo le parole: «dell'articolo 3» sono inserite le seguenti: «, comma 10, lettera b),».   
-All'articolo 3:   
-al comma 1, le parole: «comma 1 e 1-bis» sono sostituite dalle seguenti: «commi 1 e 1-bis»;   
-al comma 2, dopo le parole: «dell'acconto» sono inserite le seguenti: «dell'imposta regionale sulle attivita' produttive»;   
-al comma 3, le parole: «nell'anno 2026» sono sostituite dalle seguenti: «per l'anno 2026», le parole: «nell'anno 2027» sono sostituite dalle seguenti: «per l'anno 2027», le parole: «nell'anno 2028» sono sostituite dalle seguenti: «per l'anno 2028,» e dopo le parole: «dell'articolo 3» sono inserite le seguenti: «, comma 10, lettera b),»;   
-al comma 4, la parola: «derivante» e' sostituita dalla seguente: «derivanti» e le parole: «per gli interventi strutturali di politica economica» sono sostituite dalle seguenti: «per interventi strutturali di politica economica,».   
-Dopo l'articolo 3 e' inserito il seguente:   
-«Art. 3-bis (Disposizioni in materia di cooperative elettriche storiche). - 1. All'[articolo 1, comma 258, della legge 30 dicembre 2023, n. 213](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-12-30;213~art1-com258), le parole: "non oltre il 31 dicembre 2025" sono sostituite dalle seguenti: "non oltre il 31 dicembre 2026"».   
-All'articolo 4:   
-al comma 1, primo periodo, le parole: «del [decreto legislativo 8 novembre 2021 n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;199)» sono sostituite dalle seguenti: «, del [decreto legislativo 8 novembre 2021, n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;199)»;   
-al comma 2, secondo periodo, le parole: «del [decreto legislativo 8 novembre 2021 n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;199)» sono sostituite dalle seguenti: «del [decreto legislativo 8 novembre 2021, n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;199)»;   
-i commi 3 e 4 sono sostituiti dai seguenti:   
-«3. Il GSE individua, nell'ambito delle regole operative di cui al comma 4 e nel rispetto del limite di spesa di cui all'[articolo 28, comma 2-ter, del decreto legislativo 8 novembre 2021, n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;199~art28-com2ter), forme di minimizzazione e trasferimento del rischio dei contraenti nell'ambito delle tipologie di contratto definite, anche avvalendosi del supporto della societa' SACE S.p.A. - Servizi assicurativi del commercio estero, che, per la parte eccedente e solo una volta esaurite le risorse destinate alla garanzia di ultima istanza di cui all'articolo 28, comma 2-bis, del citato [decreto legislativo n. 199 del 2021](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021;199), e' autorizzata a rilasciare, a favore dello stesso GSE, garanzie a condizioni di mercato, per una percentuale massima di copertura non eccedente il 70 per cento. Gli impegni derivanti dall'attivita' di cui al presente comma sono assunti dalla SACE S.p.A. nella misura del 20 per cento e dallo Stato nella misura dell'80 per cento di ciascun impegno, senza vincolo di solidarieta'.  
-Per ciascuno degli anni 2026 e 2027, l'importo massimo degli impegni assumibili dalla SACE S.p.A., per l'operativita' di cui al presente comma, e' pari a 250 milioni di euro, a valere sulle disponibilita' del fondo di cui all'[articolo 1, comma 14, del decreto-legge 8 aprile 2020, n. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-04-08;23~art1-com14), convertito, con modificazioni, dalla [legge 5 giugno 2020, n. 40](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-06-05;40).   
-4. Entro novanta giorni dalla data di entrata in vigore del presente decreto, con decreto del Ministro dell'ambiente e della sicurezza energetica, di concerto con il Ministro dell'economia e delle finanze, sono approvate, su proposta del GSE, le regole operative per l'attuazione dei commi 1, 2 e 3 del presente articolo, con riferimento ai requisiti da soddisfare da parte delle imprese per l'accesso alla garanzia di ultima istanza di cui all'[articolo 28, comma 2-bis, del decreto legislativo 8 novembre 2021, n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;199~art28-com2bis), anche ai fini del rispetto del limite di spesa di cui al comma 2-ter dell'articolo 28 del medesimo [decreto legislativo n. 199 del 2021](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021;199), nonche' agli schemi di contratto di adesione al servizio di garanzia di ultima istanza. Con apposita convenzione, da stipulare tra il GSE e la SACE S.p.A., sono stabilite le procedure e le modalita' operative per il rilascio delle garanzie e delle coperture assicurative da parte della SACE S.p.A. Alla garanzia di cui al presente comma si applica l'[articolo 1, comma 880, della legge 30 dicembre 2025, n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-30;199~art1-com880)»;   
-al comma 6, dopo le parole: «energia elettrica da fonti rinnovabili» sono aggiunte le seguenti: «, promuovendo il coinvolgimento delle piccole e medie imprese e delle organizzazioni rappresentative dei consumatori e delle famiglie in condizioni di vulnerabilita' economica»;   
-dopo il comma 6 e' inserito il seguente:   
-«6-bis. All'articolo 3, comma 6, primo periodo, del [decreto-legge 28 febbraio 2025, n. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-02-28;19), convertito, con modificazioni, dalla [legge 24 aprile 2025, n. 60](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-24;60), sono aggiunte, in fine, le seguenti parole: "nonche' i dati necessari all'individuazione delle microimprese e delle piccole e medie imprese, come definite ai sensi della [raccomandazione 2003/361/CE della Commissione](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32003H0361) europea, del 6 maggio 2003"»;   
-al comma 8, dopo le parole: «[Direttiva (UE) 2019/944](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32019L0944)» sono inserite le seguenti: «del Parlamento europeo e del Consiglio, del 5 giugno 2019» e dopo le parole: «del Parlamento europeo e del Consiglio» e' inserito il seguente segno di interpunzione: «,»;   
-al comma 9:   
-all'alinea, secondo periodo, le parole: «i medesimi Consorzi,» sono sostituite dalle seguenti: «i medesimi Consorzi»;   
-al numero 3), le parole: «[decreto legislativo 8 novembre 2021 n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;199)» sono sostituite dalle seguenti: «del [decreto legislativo 8 novembre 2021, n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;199)»;   
-al comma 10, le parole: «[decreto legislativo 8 novembre 2021 n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;199)» sono sostituite dalle seguenti: «del [decreto legislativo 8 novembre 2021, n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;199)»;   
-al comma 11:   
-all'alinea, le parole: «convertito con legge» sono sostituite dalle seguenti: «convertito, con modificazioni, dalla legge»;   
-alla lettera b), numero 3), le parole: «al comma 1, e» sono sostituite dalle seguenti: «al comma 1 e»;   
-al comma 13, la parola: «Ministero», ovunque ricorre, e' sostituita dalla seguente: «Ministro», dopo le parole: «18 dicembre 2008,» sono inserite le seguenti: «[pubblicato nella Gazzetta Ufficiale n. 1 del 2 gennaio 2009](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2009-01-02&numeroGazzetta=1),», dopo le parole: «6 luglio 2012,» sono inserite le seguenti: «pubblicato nel supplemento ordinario n. 143 alla [Gazzetta Ufficiale n. 159 del 10 luglio 2012](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2012-07-10&numeroGazzetta=159),», dopo le parole: «23 giugno 2016,» sono inserite le seguenti: «[pubblicato nella Gazzetta Ufficiale n. 150 del 29 giugno 2016](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2016-06-29&numeroGazzetta=150),» e dopo le parole: «5 luglio 2012» sono aggiunte le seguenti: «, pubblicato nel supplemento ordinario n. 143 alla [Gazzetta Ufficiale n. 159 del 10 luglio 2012](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2012-07-10&numeroGazzetta=159)».   
-All'articolo 5:   
-al comma 1:   
-alla lettera b), le parole: «e sino» sono sostituite dalla seguente: «sino»;   
-alla lettera c), capoverso 2-bis:   
-all'alinea, le parole: «intercorre dal» sono sostituite dalle seguenti: «intercorre tra il»;   
-la lettera a) e' sostituita dalla seguente:   
-«a) i prezzi minimi garantiti sono riconosciuti per un numero massimo di ore equivalenti su base semestrale, differenziate fra tipologie di impianti, tenendo conto delle esigenze di copertura della domanda attesa e delle esigenze di continuita' di produzione degli impianti connessi ai siti produttivi anche in assetto di autoproduzione. In particolare, nel caso di impianti di produzione asserviti a un processo produttivo, il numero massimo di ore equivalenti su base semestrale e' definito dal GSE con riferimento al tendenziale di spesa e nel rispetto delle condizioni di cui alla lettera c), a partire dal numero di ore di funzionamento del medesimo processo produttivo; nel caso degli altri impianti di produzione, il numero massimo di ore equivalenti su base semestrale e' definito dal GSE con riferimento al tendenziale di spesa e nel rispetto delle condizioni di cui alla lettera c), a partire dalle ore individuate dalla societa' Terna Spa al fine di assicurare il contributo di questi impianti alla flessibilita' del sistema e di rispettare i vincoli di permanenza in servizio degli impianti stessi, tenendo conto dell'eventuale necessita' di utilizzo di combustibili di origine fossile nelle fasi di accensione e spegnimento e della quota massima di utilizzo di tali combustibili prevista dalla normativa vigente»;   
-alla lettera b), dopo le parole: «in termini elettrici» e' inserito il seguente segno di interpunzione: «,» e le parole: «e/o» sono sostituite dalla seguente: «o»;   
-alla lettera c):   
-all'alinea, le parole: «il numero delle ore semestrali di cui alla lettera a) e' ridefinito in riduzione del medesimo numero di ore per tutti gli impianti di produzione per i quali sono riconosciuti i prezzi minimi garantiti, distinguendo» sono sostituite dalle seguenti: «il numero delle ore equivalenti su base semestrale di cui alla lettera a) e' ridefinito in riduzione del medesimo numero di ore equivalenti per tutti gli impianti di produzione per i quali sono riconosciuti i prezzi minimi garantiti, fatta salva la distinzione»;   
-il numero 2) e' sostituito dal seguente:   
-«2) l'eventuale riduzione, fino all'azzeramento, si applica prioritariamente agli impianti di produzione non asserviti a un processo produttivo; in subordine, agli impianti asserviti a un processo produttivo; infine, a partire da quelli non asserviti a un processo produttivo, agli impianti da bioliquidi sostenibili da filiera come definiti dall'[articolo 2, comma 1, lettera v), del decreto del Ministro dello sviluppo economico 23 giugno 2016, pubblicato nella Gazzetta Ufficiale n. 150 del 29 giugno 2016](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2016-06-29&numeroGazzetta=150)»;   
-al comma 2:   
-l'alinea e' sostituito dalle seguenti parole: «All'[articolo 24 del decreto legislativo 3 marzo 2011, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-03-03;28~art24), sono apportate le seguenti modificazioni:   
-a) al comma 8, alinea, le parole: "31 dicembre 2027" sono sostituite dalle seguenti: "31 dicembre 2029";   
-b) dopo il comma 8 e' inserito il seguente: »;   
-al capoverso 8-bis:   
-all'alinea, le parole: «intercorre dal» sono sostituite dalle seguenti: «intercorre tra il»;   
-la lettera a) e' sostituita dalla seguente:   
-«a) i prezzi minimi garantiti sono riconosciuti per un numero massimo di ore equivalenti su base semestrale, differenziate fra tipologie di impianti, tenendo conto delle esigenze di copertura della domanda attesa e delle esigenze di continuita' di produzione degli impianti connessi ai siti produttivi anche in assetto di autoproduzione. In particolare, nel caso di impianti di produzione asserviti a un processo produttivo, il numero massimo di ore equivalenti su base semestrale e' definito dal GSE con riferimento al tendenziale di spesa e nel rispetto delle condizioni di cui alla lettera c), a partire dal numero di ore di funzionamento del medesimo processo produttivo; nel caso degli altri impianti di produzione, il numero massimo di ore equivalenti su base semestrale e' definito dal GSE con riferimento al tendenziale di spesa e nel rispetto delle condizioni di cui alla lettera c), a partire dalle ore individuate dalla societa' Terna Spa al fine di assicurare il contributo alla flessibilita' del sistema di questi impianti e di rispettare i vincoli di permanenza in servizio degli impianti stessi, tenendo conto dell'eventuale necessita' di utilizzo di combustibili di origine fossile nelle fasi di accensione e spegnimento e della quota massima di utilizzo di tali combustibili prevista dalla normativa vigente»;   
-alla lettera b), dopo le parole: «in termini elettrici» e' inserito il seguente segno di interpunzione: «,» e le parole: «e/o» sono sostituite dalla seguente: «o»;   
-alla lettera c):   
-all'alinea, le parole: «il numero delle ore semestrali di cui alla lettera a) e' ridefinito in riduzione del medesimo numero di ore per tutti gli impianti di produzione per i quali sono riconosciuti i prezzi minimi garantiti, distinguendo» sono sostituite dalle seguenti: «il numero delle ore equivalenti su base semestrale di cui alla lettera a) e' ridefinito in riduzione del medesimo numero di ore equivalenti per tutti gli impianti di produzione per i quali sono riconosciuti i prezzi minimi garantiti, fatta salva la distinzione»; il numero 2) e' sostituito dal seguente:   
-«2) l'eventuale riduzione, fino all'azzeramento, si applica prioritariamente agli impianti di produzione non asserviti a un processo produttivo; in subordine, agli impianti asserviti a un processo produttivo; infine, a partire da quelli non asserviti a un processo produttivo, agli impianti da filiera come definiti dall'[articolo 2, comma 1, lettera v), del decreto del Ministro dello sviluppo economico 23 giugno 2016, pubblicato nella Gazzetta Ufficiale n. 150 del 29 giugno 2016](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2016-06-29&numeroGazzetta=150)»;   
-alla lettera d), le parole: «la permanenza o l'accesso al meccanismo di cui al comma 8 e' consentito» sono sostituite dalle seguenti: «la permanenza nel meccanismo di cui al comma 8 o l'accesso al medesimo sono consentiti,» e le parole: «previo impegno alla riconversione dell'impianto a biometano, secondo le modalita' definite con decreto del Ministro dell'ambiente e della sicurezza energetica, su proposta del GSE» sono sostituite dalle seguenti: «al fine di garantire la progressiva riconversione degli impianti a biometano»;   
-alla lettera e) sono aggiunte, in fine, le seguenti parole: «e nel caso di impianti a biogas che hanno realizzato gli interventi incentivati ai sensi del decreto del Ministro dell'ambiente e della sicurezza energetica n. 99 del 13 marzo 2024, di cui al comunicato [pubblicato nella Gazzetta Ufficiale n. 102 del 3 maggio 2024](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2024-05-03&numeroGazzetta=102)»;   
-la lettera g) e' sostituita dalla seguente:   
-«g) il tendenziale di spesa per gli impianti a biogas, a valere sugli oneri generali di sistema, derivante dall'aggiornamento del meccanismo e' pari a 160 milioni di euro per l'anno 2026, ivi compresi gli oneri afferenti al periodo gennaio-marzo 2026, a 278,5 milioni di euro per l'anno 2027, a 432,4 milioni di euro per l'anno 2028, a 413,5 milioni di euro per l'anno 2029, a 381,9 milioni di euro per l'anno 2030 e a 50,1 milioni di euro per ciascuno degli anni dal 2031 al 2037»;   
-la lettera h) e' sostituita dalla seguente:   
-«h) il tendenziale di spesa per gli impianti a biomassa, a valere sugli oneri generali di sistema, derivante dall'aggiornamento del meccanismo e' pari a 582,4 milioni di euro per l'anno 2026, ivi compresi gli oneri afferenti al periodo gennaio-marzo 2026, a 582,5 milioni di euro per l'anno 2027, a 576,5 milioni di euro per l'anno 2028, a 570,1 milioni di euro per l'anno 2029 e a 570,3 milioni di euro per l'anno 2030»;   
-alla lettera i), dopo la parola: «milioni», ovunque ricorre, sono inserite le seguenti: «di euro».   
-Dopo l'articolo 5 sono inseriti i seguenti:   
-«Art. 5-bis (Misure in materia di phase-out dal carbone). - 1.  
-Entro il 31 dicembre 2038 cessa l'operativita' delle centrali a carbone in esercizio per la produzione di energia elettrica. Ai sensi dell'[articolo 14, paragrafo 7, del regolamento (UE) 2018/1999 del Parlamento europeo e del Consiglio, dell'11 dicembre 2018](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32018R1999), la disposizione di cui al primo periodo del presente comma e' oggetto della relazione intermedia nazionale integrata sull'energia e il clima di cui all'articolo 17 del medesimo regolamento.   
-Art. 5-ter (Modifica all'[articolo 31 del decreto legislativo 8 novembre 2021, n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;199~art31)). - 1. All'[articolo 31, comma 1, lettera b), del decreto legislativo 8 novembre 2021, n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;199~art31-com1-letb), dopo le parole: "persone fisiche" sono inserite le seguenti: ", anche nell'ambito del loro condominio"».   
-All'articolo 6:   
-al comma 1, dopo le parole: «l'Autorita' di regolazione per energia» e' inserito il seguente segno di interpunzione: «,», le parole: «dall'entrata in vigore» sono sostituite dalle seguenti: «dalla data di entrata in vigore» e le parole: «in linea con quanto stabilito dalle linee guida dell'Agenzia dell'Unione europea per la cooperazione dei regolatori dell'energia» sono sostituite dalle seguenti: «in conformita' a quanto stabilito dalle linee guida dell'Agenzia dell'Unione europea per la cooperazione fra i regolatori nazionali dell'energia»;   
-al comma 2:   
-al primo periodo, dopo le parole: «L'Autorita' di regolazione per energia» e' inserito il seguente segno di interpunzione: «,» e le parole: «del sistema gas» sono sostituite dalle seguenti: «del sistema del gas»;   
-al secondo periodo, dopo le parole: «dall'ARERA» e' inserito il seguente segno di interpunzione: «,»;   
-al comma 4, secondo periodo, le parole: «maggiorati da» sono sostituite dalle seguenti: «maggiorati di» e la parola: «comminate» e' sostituita dalla seguente: «irrogate»;   
-al comma 5, dopo le parole: «L'Autorita' di regolazione per energia» e dopo le parole: «del mercato delle capacita'» e' inserito il seguente segno di interpunzione: «,»;   
-dopo il comma 6 e' aggiunto il seguente:   
-«6-bis. All'[articolo 23 del decreto legislativo 9 giugno 2020, n. 47](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2020-06-09;47~art23), sono apportate le seguenti modificazioni:   
-a) al comma 3, le parole: "fatto salvo quanto previsto dal comma 6" sono sostituite dalle seguenti: "fatto salvo quanto previsto dai commi 6 e 7, lettera i-bis)";   
-b) al comma 7:   
-1) alla lettera i), la parola: "incoraggiare" e' sostituita dalla seguente: "incentivare";   
-2) dopo la lettera i) e' inserita la seguente:   
-"i-bis) incentivare il riequilibrio modale dal trasporto stradale di merci a quello marittimo e ferroviario, ivi comprese le misure previste dall'[articolo 1, commi 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208~art1-com647) e [648, della legge 28 dicembre 2015, n. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208~art1-com648), e nel rispetto della disciplina europea in materia di aiuti di Stato"».   
-All'articolo 7:   
-al comma 1, secondo periodo, alle parole: «Terna s.p.a.» sono premesse le seguenti: «La medesima societa'»;   
-al comma 2:   
-al primo periodo, dopo le parole: «l'Autorita' di regolazione per energia» e' inserito il seguente segno di interpunzione: «,» e dopo le parole: «le modalita' operative a cui» sono inserite le seguenti: «la societa'»;   
-al secondo periodo, dopo le parole: «di cui al comma 1,» sono inserite le seguenti: «la societa'»;   
-al comma 3:   
-alla lettera a), il numero 1) e' sostituito dal seguente:   
-«1) la lettera a) e' sostituita dalla seguente:   
-"a) 'intervento': le attivita' di costruzione ed esercizio delle fattispecie progettuali di cui agli allegati A, B o C, comprese quelle relative alle opere connesse e alle infrastrutture indispensabili, fatta eccezione per le attivita' di sviluppo e potenziamento della rete di trasmissione nazionale di cui all'articolo 10-bis, commi 8 e 10, nonche' della rete di distribuzione realizzate autonomamente"»;   
-dopo la lettera a) sono inserite le seguenti:   
-«a-bis) all'articolo 8, dopo il comma 12-bis e' inserito il seguente:   
-"12-ter. Nei casi di cui ai commi 12 e 12-bis, il soggetto proponente presenta la PAS entro il termine perentorio di novanta giorni rispettivamente dalla data di acquisizione della valutazione di incidenza prevista dall'articolo 5 del regolamento di cui al [decreto del Presidente della Repubblica 8 settembre 1997, n. 357](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1997-09-08;357), o del titolo edilizio";   
-a-ter) all'articolo 10, comma 3:   
-1) dopo il secondo periodo e' inserito il seguente: "Nel caso degli interventi di cui ai commi 12 e 12-bis dell'articolo 8, il titolare della concessione presenta istanza di avvio della valutazione di incidenza ambientale prevista dall'articolo 5 del regolamento di cui al [decreto del Presidente della Repubblica 8 settembre 1997, n. 357](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1997-09-08;357), o per l'acquisizione del titolo edilizio entro il termine perentorio di novanta giorni dalla data di rilascio della concessione medesima";   
-2) al terzo periodo, dopo le parole: "di cui al secondo periodo" sono inserite le seguenti: "o l'istanza di avvio della valutazione di incidenza ambientale prevista dall'articolo 5 del citato regolamento di cui al [decreto del Presidente della Repubblica n. 357 del 1997](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1997;357) o per l'acquisizione del titolo edilizio entro il termine di cui al terzo periodo";   
-3) al quarto periodo, le parole: "Per il periodo di durata della PAS o del procedimento autorizzatorio unico" sono sostituite dalle seguenti: "Fino all'acquisizione dell'efficacia della PAS o del provvedimento autorizzatorio unico"»;   
-alla lettera b), capoverso Articolo 10-bis:   
-al comma 1:   
-all'alinea, le parole: «ed economiche, nonche'» sono sostituite dalle seguenti: «ed economiche nonche'»;   
-alla lettera a):   
-all'alinea, le parole: «della rete» sono sostituite dalle seguenti: «del sistema»;   
-al numero 4), le parole: «di rete, nonche'» sono sostituite dalle seguenti: «di rete nonche'»;   
-alla lettera c), dopo le parole: «delle attribuzioni» e' inserita la seguente: «stabiliti»;   
-all'ultimo capoverso, le parole: «I numeri» sono sostituite dalle seguenti: «1-bis. I numeri» e dopo le parole: «lettera a)» sono inserite le seguenti: «del comma 1»;   
-al comma 4, le parole: «gestore della rete elettrica di trasmissione nazionale» sono sostituite dalle seguenti: «gestore del sistema di trasmissione nazionale,» e le parole: «nelle procedure di cui al comma 1» sono sostituite dalle seguenti: «delle procedure di cui al comma 1,»;   
-al comma 5, le parole: «, per effetto del comma 3, le soluzioni di connessione non perdono efficacia» sono sostituite dalle seguenti: «le soluzioni di connessione non perdono efficacia per effetto del comma 3»;   
-al comma 7, dopo il primo periodo e' inserito il seguente:   
-«Nei casi di cui ai commi 12 e 12-bis dell'articolo 8, il soggetto proponente, entro il medesimo termine di cui al primo periodo del presente comma, presenta istanza di avvio della valutazione di incidenza ambientale prevista dall'articolo 5 del regolamento di cui al [decreto del Presidente della Repubblica 8 settembre 1997, n. 357](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1997-09-08;357), o per l'acquisizione del titolo edilizio»;   
-al comma 8, primo periodo, le parole: «n. 239 del 2003» sono sostituite dalle seguenti: «29 agosto 2003, n. 239, convertito, con modificazioni, dalla [legge 27 ottobre 2023, n. 290](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-10-27;290)» e le parole: «al comma 9» sono sostituite dalle seguenti: «dal comma 9 del presente articolo»;   
-al comma 9, secondo periodo, le parole: «del comma 8, primo ovvero del secondo periodo» sono sostituite dalle seguenti: «ai sensi del comma 8, primo o secondo periodo»;   
-al comma 10:   
-alla lettera a), le parole: «[Codice dei beni culturali e del paesaggio](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42),» sono sostituite dalle seguenti: «[codice dei beni culturali e del paesaggio](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42), di cui al [decreto legislativo 22 gennaio 2004, n. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42), nonche' di vincoli»;   
-alla lettera b), le parole: «[Codice dei beni culturali e del paesaggio](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42),» sono sostituite dalle seguenti: «codice di cui al [decreto legislativo n. 42 del 2004](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004;42) nonche' di vincoli»;   
-alla lettera c), le parole: «[Codice dei beni culturali e del paesaggio](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42),» sono sostituite dalle seguenti: «codice di cui al [decreto legislativo n. 42 del 2004](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004;42) nonche' di vincoli»;   
-alla lettera d), le parole: «un massimo» sono sostituite dalle seguenti: «non piu'» e le parole: «[Codice dei beni culturali e del paesaggio](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42),» sono sostituite dalle seguenti: «codice di cui al [decreto legislativo n. 42 del 2004](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004;42) nonche' di vincoli»;   
-la lettera c) e' sostituita dalla seguente:   
-«c) all'articolo 11-quater:   
-1) al comma 2, dopo le parole: "rete di trasmissione nazionale" sono aggiunte le seguenti: "e delle reti di distribuzione";   
-2) al comma 3, primo periodo, le parole: "Il comma 1 si applica" sono sostituite dalle seguenti: "Alla realizzazione dell'intervento si applica il comma 1" e sono aggiunte, in fine, le seguenti parole: ", indipendentemente dall'ubicazione delle opere connesse e delle infrastrutture indispensabili" »;   
-dopo la lettera c) sono inserite le seguenti:   
-«c-bis) all'articolo 12, comma 2, dopo le parole: "ivi incluse le informazioni relative alla" sono inserite le seguenti: "scadenza e alla";   
-c-ter) all'articolo 14:   
-1) al comma 7, lettera b), le parole: ", nei casi di cui all'articolo 9, comma 14," sono soppresse;   
-2) dopo il comma 7 e' inserito il seguente:   
-"7-bis. Ai fini del computo dei termini di cui agli articoli 10, comma 3, secondo e terzo periodo, e 10-bis, comma 7, primo e secondo periodo, si considera la data posteriore tra quella di accettazione della soluzione di connessione ai sensi dell'articolo 10-bis e quella di rilascio della concessione di cui al medesimo articolo 10"»;   
-alla lettera d), dopo le parole: «sezioni I,» sono inserite le seguenti: «punto 1,», dopo le parole: «e II,» sono inserite le seguenti: «punto 1,» e le parole: «del periodo» sono sostituite dalle seguenti: «della lettera»;   
-alla lettera e), dopo le parole: «sezioni I,» sono inserite le seguenti: «punto 1,», dopo le parole: «e II,» sono inserite le seguenti: «punto 1,» e le parole: «del periodo» sono sostituite dalle seguenti: «della lettera»;   
-alla lettera f), dopo le parole: «sezioni I,» sono inserite le seguenti: «punto 1,», dopo le parole: «e II,» sono inserite le seguenti: «punto 1,» e le parole: «del periodo» sono sostituite dalle seguenti: «della lettera».   
-All'articolo 8:   
-al comma 1, le parole: «e l'ampliamento » sono sostituite dalle seguenti: «, l'ampliamento e l'esercizio» e la parola: «europea» e' soppressa;   
-dopo il comma 1 e' inserito il seguente:   
-«1-bis. Ai fini di cui al comma 1, e' sufficiente che la documentazione progettuale indichi una soluzione di connessione temporanea di rete in media tensione, fermo restando l'obbligo di integrare la soluzione definitiva secondo le modalita' stabilite dall'autorita' competente di cui al medesimo comma 1»;   
-al comma 2, le parole: «sub provinciale» sono sostituite dalla seguente: «subprovinciale»;   
-al comma 3:   
-al primo periodo, la parola: «inclusi» e' sostituita dalla seguente: «compresi» e sono aggiunte, in fine, le seguenti parole: «, ivi compresa la verifica di conformita' urbanistica ai piani comunali»;   
-al secondo periodo, le parole: «nulla osta,» sono sostituite dalle seguenti: «nulla osta»;   
-al comma 4, le parole: «un massimo» sono sostituite dalle seguenti: «non piu'»;   
-al comma 6, le parole: «dovra' venir depositata» sono sostituite dalle seguenti: «deve essere depositata» e le parole: «l'istanza di autorizzazione unica si avra' per rinunciata e il procedimento archiviato» sono sostituite dalle seguenti: «si intende che il richiedente abbia rinunciato all'istanza di autorizzazione unica e il procedimento e' archiviato»;   
-al comma 8, la parola: «inclusi» e' sostituita dalla seguente: «compresi» e le parole da: «Qualora le opere» fino a: «di connessione da realizzare.» sono trasposte alla fine del primo periodo, di seguito dopo le parole: «nella regione territorialmente interessata.».   
-All'articolo 9:   
-al comma 1, secondo periodo, dopo le parole: «ultimo periodo» e' inserito il seguente segno di interpunzione: «,»;   
-al comma 2, la parola: «rinvenienti» e' sostituita dalla seguente: «rivenienti»;   
-al comma 3, primo periodo, dopo le parole: «L'Autorita' di regolazione per energia» e' inserito il seguente segno di interpunzione: «,» e le parole: «siano oggetto» sono sostituite dalle seguenti: «sono oggetto».   
-All'articolo 10:   
-al comma 1:   
-alla lettera a), numeri 2), 3) e 4), le parole: «in capo agli» sono sostituite dalle seguenti: «a carico degli»;   
-alla lettera b), dopo le parole: «sui mercati a pronti» e' inserita la seguente: «di» e la parola: «numero-2)» e' sostituita dalle seguenti: «numero 2)»;   
-al comma 2, al secondo periodo, le parole: «garantire il tetto» sono sostituite dalle seguenti: «garantire il rispetto del limite» e la parola: «ARERA» e' sostituita dalle seguenti: «l'ARERA» e, al terzo periodo, le parole: «trasporto gas» sono sostituite dalle seguenti: «trasporto del gas»;   
-al comma 3, le parole: «Al fine che» sono sostituite dalla seguente: «Affinche'» e le parole: «di Italia, Germania e Svizzera» sono sostituite dalle seguenti: «dell'Italia, della Germania e della Svizzera».   
-All'articolo 11:   
-al comma 1:   
-alla lettera a), numero 2), le parole: «di stipula del contratto» sono sostituite dalle seguenti: «di stipulazione del contratto di cui»;   
-alla lettera c), capoverso 6, sesto periodo, le parole: «al quinto e al sesto periodo» sono sostituite dalle seguenti: «al quarto e al quinto periodo»;   
-alla lettera g), la parola: «aggregazione.";» e' sostituita dalla seguente: «aggregazione";»;   
-alla lettera h), numero 2), le parole: «residua del contratto,» sono sostituite dalle seguenti: «residua del contratto.»;   
-dopo il comma 1 sono inseriti i seguenti:   
-«1-bis. Al fine di garantire l'unitarieta' funzionale dei progetti complessi caratterizzati da fasi realizzative sequenziali nonche' il bilanciamento tra impatti ambientali e benefici socio-economici derivanti dall'intero ciclo di vita delle opere, in coerenza con il principio di sviluppo sostenibile, all'[articolo 25 del decreto legislativo 3 aprile 2006, n. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152~art25), e' aggiunto, in fine, il seguente comma:   
-"7-ter. Per i progetti complessi caratterizzati da fasi realizzative sequenziali relativi alle attivita' di cui ai punti 7) e 7.1) dell'allegato II alla parte seconda del presente decreto, qualora l'istanza di VIA comprenda l'intero ciclo di vita del progetto e la richiesta sia esplicitamente formulata dal proponente nell'istanza medesima, l'autorita' competente esprime un unico giudizio di compatibilita' ambientale esteso a tutte le fasi. A tale fine, lo studio di impatto ambientale riferito all'intero ciclo di vita dell'opera puo' essere redatto utilizzando, in caso di indisponibilita' dei dati perche' acquisibili solo al termine della fase di ricerca, stime ovvero modellazioni. Il provvedimento di compatibilita' ambientale, qualora favorevole, contiene la condizione obbligatoria della verifica, prima dell'avvio della fase di esercizio del progetto, della coerenza delle stime ovvero delle modellazioni contenute nello studio di impatto ambientale; in caso di incoerenza, l'autorita' competente valuta eventuali azioni correttive".   
-1-ter. Le disposizioni del [comma 7-ter dell'articolo 25 del decreto legislativo 3 aprile 2006, n. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152~art25-com7ter), introdotto dal comma 1-bis del presente articolo, si applicano, su istanza del proponente da presentare entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, anche ai procedimenti di valutazione di impatto ambientale per i quali, alla data di entrata in vigore del presente decreto, non sia stato ancora ottenuto il definitivo giudizio di compatibilita' ambientale. Nei casi di cui al primo periodo, il proponente integra la documentazione gia' presentata con gli elementi necessari per la valutazione dell'intero ciclo di vita del progetto, senza che cio' comporti la decadenza degli atti procedimentali gia' adottati»;   
-al comma 2:   
-all'alinea, le parole: «convertito con legge» sono sostituite dalle seguenti: «convertito, con modificazioni, dalla legge»;   
-alla lettera a):   
-al numero 1), la parola: «aggregati,";» e' sostituita dalla seguente: «aggregati";»;   
-al numero 2), la parola: «consentito» e' sostituita dalla seguente: «consentita»;   
-alla lettera b), capoverso 2-ter, le parole: «decreto ministeriale» sono sostituite dalle seguenti: «decreto del Ministro della transizione ecologica»;   
-al comma 3, le parole: «dalla data di entrata in vigore del presente decreto» sono sostituite dalle seguenti: «dal trentesimo giorno successivo alla data di entrata in vigore della legge di conversione del presente decreto»;   
-al comma 4, primo periodo, le parole: «all'Autorita' di regolazione per energia reti e ambiente (ARERA) di apposite competenze regolatorie» sono sostituite dalle seguenti: «di apposite competenze regolatorie all'Autorita' di regolazione per energia, reti e ambiente (ARERA)»;   
-dopo il comma 4 e' aggiunto il seguente:   
-«4-bis. All'[articolo 45-bis, comma 1, del decreto legislativo 8 novembre 2021, n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;199~art45bis-com1), le parole: "30 giugno 2026" sono sostituite dalle seguenti: "1° gennaio 2027"».   
+MATTARELLA Meloni, Presidente del Consiglio dei ministri Pichetto Fratin, Ministro dell'ambiente e della sicurezza energetica Visto, il Guardasigilli: Nordio

@@ -1,64 +1,41 @@
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 27 febbraio 2013 n. 105
+---
+tipo: DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
+numero: 105
+data: 2013-02-27
+titolo: "Regolamento recante organizzazione del Ministero delle politiche agricole alimentari e forestali, a norma dell'articolo 2, comma 10-ter, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135. (13G00148)"
+urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2013-02-27;105
+codice_redazionale: 13G00148
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 27 febbraio 2013 n. 105
-=========================================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 8 FEBBRAIO 2019, N. 25))
 
-Regolamento recante organizzazione del Ministero delle politiche agricole alimentari e forestali, a norma dell'articolo 2, comma 10-ter, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135. (13G00148)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 02/10/2013
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 8 FEBBRAIO 2019, N. 25))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 8 FEBBRAIO 2019, N. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-02-08;25)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 8 FEBBRAIO 2019, N. 25))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 8 FEBBRAIO 2019, N. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-02-08;25)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 8 FEBBRAIO 2019, N. 25))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 8 FEBBRAIO 2019, N. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-02-08;25)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 8 FEBBRAIO 2019, N. 25))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 8 FEBBRAIO 2019, N. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-02-08;25)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 8 FEBBRAIO 2019, N. 25))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 8 FEBBRAIO 2019, N. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-02-08;25)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 8 FEBBRAIO 2019, N. 25))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 8 FEBBRAIO 2019, N. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-02-08;25)))
-
-Art. 7
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 8 FEBBRAIO 2019, N. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-02-08;25)))
-
-Art. 8
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 8 FEBBRAIO 2019, N. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-02-08;25)))
-
-Tabella A
-
- Tabella A   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 8 FEBBRAIO 2019, N. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-02-08;25)))
-
-Tabella B
-
- Tabella B   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 8 FEBBRAIO 2019, N. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2019-02-08;25)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 8 FEBBRAIO 2019, N. 25))

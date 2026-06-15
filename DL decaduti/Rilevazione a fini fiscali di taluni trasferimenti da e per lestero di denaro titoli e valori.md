@@ -1,82 +1,54 @@
-DECRETO-LEGGE 27 aprile 1990 n. 91
+---
+tipo: DECRETO-LEGGE
+numero: 91
+data: 1990-04-27
+titolo: "Rilevazione a fini fiscali di taluni trasferimenti da e per l'estero di denaro, titoli e valori."
+urn: urn:nir:stato:decreto.legge:1990-04-27;91
+codice_redazionale: 090G0143
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 27 aprile 1990 n. 91
-==================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 AGOSTO 1990 N. 227](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20giugno%201990%20n.%20167%20recante%20rilevazione%20ai%20fini%20fiscali%20di%20taluni%20trasferimenti%20da%20e%20per%20lestero%20di%20denaro%20titoli%20e%20valori.md)
 
-Rilevazione a fini fiscali di taluni trasferimenti da e per l'estero di denaro, titoli e valori.
-------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 30/4/1990.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 AGOSTO 1990 N. 227](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20giugno%201990%20n.%20167%20recante%20rilevazione%20ai%20fini%20fiscali%20di%20taluni%20trasferimenti%20da%20e%20per%20lestero%20di%20denaro%20titoli%20e%20valori.md)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 AGOSTO 1990 N. 227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-04;227)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 AGOSTO 1990 N. 227](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20giugno%201990%20n.%20167%20recante%20rilevazione%20ai%20fini%20fiscali%20di%20taluni%20trasferimenti%20da%20e%20per%20lestero%20di%20denaro%20titoli%20e%20valori.md)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 AGOSTO 1990 N. 227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-04;227)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 AGOSTO 1990 N. 227](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20giugno%201990%20n.%20167%20recante%20rilevazione%20ai%20fini%20fiscali%20di%20taluni%20trasferimenti%20da%20e%20per%20lestero%20di%20denaro%20titoli%20e%20valori.md)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 AGOSTO 1990 N. 227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-04;227)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 AGOSTO 1990 N. 227](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20giugno%201990%20n.%20167%20recante%20rilevazione%20ai%20fini%20fiscali%20di%20taluni%20trasferimenti%20da%20e%20per%20lestero%20di%20denaro%20titoli%20e%20valori.md)
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 AGOSTO 1990 N. 227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-04;227)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 AGOSTO 1990 N. 227](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20giugno%201990%20n.%20167%20recante%20rilevazione%20ai%20fini%20fiscali%20di%20taluni%20trasferimenti%20da%20e%20per%20lestero%20di%20denaro%20titoli%20e%20valori.md)
 
-Art. 5
-------
+## Art. 7.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 AGOSTO 1990 N. 227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-04;227)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 AGOSTO 1990 N. 227](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20giugno%201990%20n.%20167%20recante%20rilevazione%20ai%20fini%20fiscali%20di%20taluni%20trasferimenti%20da%20e%20per%20lestero%20di%20denaro%20titoli%20e%20valori.md)
 
-Art. 6
-------
+## Art. 8.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 AGOSTO 1990 N. 227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-04;227)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 AGOSTO 1990 N. 227](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20giugno%201990%20n.%20167%20recante%20rilevazione%20ai%20fini%20fiscali%20di%20taluni%20trasferimenti%20da%20e%20per%20lestero%20di%20denaro%20titoli%20e%20valori.md)
 
-Art. 7
-------
+## Art. 9.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 AGOSTO 1990 N. 227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-04;227)
-  
-
-Art. 8
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 AGOSTO 1990 N. 227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-04;227)
-  
-
-Art. 9
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 AGOSTO 1990 N. 227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-04;227)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 AGOSTO 1990 N. 227](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20giugno%201990%20n.%20167%20recante%20rilevazione%20ai%20fini%20fiscali%20di%20taluni%20trasferimenti%20da%20e%20per%20lestero%20di%20denaro%20titoli%20e%20valori.md)

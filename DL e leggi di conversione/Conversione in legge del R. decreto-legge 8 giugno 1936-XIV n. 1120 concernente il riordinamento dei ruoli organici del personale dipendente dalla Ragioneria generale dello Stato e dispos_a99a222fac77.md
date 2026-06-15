@@ -1,16 +1,14 @@
-LEGGE 04 gennaio 1937 n. 122
+---
+tipo: LEGGE
+numero: 122
+data: 1937-01-04
+titolo: "Conversione in legge del R. decreto-legge 8 giugno 1936-XIV, n. 1120, concernente il riordinamento dei ruoli organici del personale dipendente dalla Ragioneria generale dello Stato e disposizioni per il funzionamento del servizi di ragioneria in Colonia. (037U0122)"
+urn: urn:nir:stato:legge:1937-01-04;122
+codice_redazionale: 037U0122
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 04 gennaio 1937 n. 122
-============================
-
-Conversione in legge del R. decreto-legge 8 giugno 1936-XIV, n. 1120, concernente il riordinamento dei ruoli organici del personale dipendente dalla Ragioneria generale dello Stato e disposizioni per il funzionamento del servizi di ragioneria in Colonia. (037U0122)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/02/1937
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

@@ -1,86 +1,65 @@
-DECRETO-LEGGE 08 marzo 1991 n. 72
+---
+tipo: DECRETO-LEGGE
+numero: 72
+data: 1991-03-08
+titolo: "Provvedimenti urgenti per limitare l'uso del contante e dei titoli al portatore nelle transazioni e prevenire l'utilizzo del sistema finanziario a scopo di riciclaggio."
+urn: urn:nir:stato:decreto.legge:1991-03-08;72
+codice_redazionale: 091G0112
+vigente: true
+---
 
+### Art. 1.
 
-DECRETO-LEGGE 08 marzo 1991 n. 72
-=================================
+DECRETO DECADUTO
 
-Provvedimenti urgenti per limitare l'uso del contante e dei titoli al portatore nelle transazioni e prevenire l'utilizzo del sistema finanziario a scopo di riciclaggio.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 2.
 
-Entrata in vigore del decreto: 10/3/1991.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-CAPO I
-------
+### Art. 3.
 
-### Art. 1
+DECRETO DECADUTO
 
-  
-DECRETO DECADUTO   
+### Art. 4.
 
-### Art. 2
+DECRETO DECADUTO
 
-  
-DECRETO DECADUTO   
+### Art. 5.
 
-### Art. 3
+DECRETO DECADUTO
 
-  
-DECRETO DECADUTO   
+### Art. 6.
 
-### Art. 4
+DECRETO DECADUTO
 
-  
-DECRETO DECADUTO   
+### Art. 7.
 
-### Art. 5
+DECRETO DECADUTO
 
-  
-DECRETO DECADUTO   
+### Art. 8.
 
-CAPO II
--------
+DECRETO DECADUTO
 
-### Art. 6
+### Art. 9.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-### Art. 7
+### Art. 10.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-### Art. 8
+### Art. 11.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-### Art. 9
+### Art. 12.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-### Art. 10
+### Art. 13.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-### Art. 11
+### Art. 14.
 
-  
-DECRETO DECADUTO   
-
-### Art. 12
-
-  
-DECRETO DECADUTO   
-
-### Art. 13
-
-  
-DECRETO DECADUTO   
-
-### Art. 14
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

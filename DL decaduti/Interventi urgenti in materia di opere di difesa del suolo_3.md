@@ -1,50 +1,33 @@
-DECRETO-LEGGE 09 luglio 1987 n. 263
+---
+tipo: DECRETO-LEGGE
+numero: 263
+data: 1987-07-09
+titolo: "Interventi urgenti in materia di opere di difesa del suolo."
+urn: urn:nir:stato:decreto.legge:1987-07-09;263
+codice_redazionale: 087U0263
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 09 luglio 1987 n. 263
-===================================
+DECRETO DECADUTO
 
-Interventi urgenti in materia di opere di difesa del suolo.
------------------------------------------------------------
+## Art. 2.
 
-Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 3
-------
+## Art. 5.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 4
-------
+## Art. 6.
 
- DECRETO DECADUTO  
-
-Art. 5
-------
-
- DECRETO DECADUTO  
-
-Art. 6
-------
-
- DECRETO DECADUTO  
-
-Tabella A
-
- Allegato   
-DECRETO DECADUTO   
-
-Tabella B
-
- Allegato   
-DECRETO DECADUTO   
+DECRETO DECADUTO

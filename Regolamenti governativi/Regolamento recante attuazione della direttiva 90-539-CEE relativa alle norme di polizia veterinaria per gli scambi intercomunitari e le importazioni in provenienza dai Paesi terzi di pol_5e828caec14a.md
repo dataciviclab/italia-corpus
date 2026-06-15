@@ -1,165 +1,133 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 marzo 1993 n. 587
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 587
+data: 1993-03-03
+titolo: "Regolamento recante attuazione della direttiva 90/539/CEE relativa alle norme di polizia veterinaria per gli scambi intercomunitari e le importazioni in provenienza dai Paesi terzi di pollame e uova da cova."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1993-03-03;587
+codice_redazionale: 093G0143
+vigente: true
+---
 
+## DISPOSIZIONI GENERALI
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 marzo 1993 n. 587
-============================================================
+Capo I
 
-Regolamento recante attuazione della direttiva 90/539/CEE relativa alle norme di polizia veterinaria per gli scambi intercomunitari e le importazioni in provenienza dai Paesi terzi di pollame e uova da cova.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del decreto: 18-2-1994
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
 
-CAPO I Capo I DISPOSIZIONI GENERALI
------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 DICEMBRE 2014, N. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-03;199)))
+## SCAMBI INTRACOMUNITARI
 
-### Art. 2
+Capo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 DICEMBRE 2014, N. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-03;199)))
+### Art. 3.
 
-CAPO II Capo II SCAMBI INTRACOMUNITARI
---------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
 
-### Art. 3
+### Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 DICEMBRE 2014, N. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-03;199)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
 
-### Art. 4
+### Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 DICEMBRE 2014, N. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-03;199)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
 
-### Art. 5
+### Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 DICEMBRE 2014, N. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-03;199)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
 
-### Art. 6
+### Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 DICEMBRE 2014, N. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-03;199)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
 
-### Art. 7
+### Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 DICEMBRE 2014, N. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-03;199)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
 
-### Art. 8
+### Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 DICEMBRE 2014, N. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-03;199)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
 
-### Art. 9
+### Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 DICEMBRE 2014, N. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-03;199)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
 
-### Art. 10
+### Art. 10-bis.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 DICEMBRE 2014, N. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-03;199)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
 
-### Art. 10-bis
+### Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 DICEMBRE 2014, N. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-03;199)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
 
-### Art. 11
+### Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 DICEMBRE 2014, N. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-03;199)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
 
-### Art. 12
+### Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 DICEMBRE 2014, N. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-03;199)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
 
-### Art. 13
+### Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 DICEMBRE 2014, N. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-03;199)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
 
-### Art. 14
+### Art. 15.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 DICEMBRE 2014, N. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-03;199)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
 
-### Art. 15
+### Art. 16.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 DICEMBRE 2014, N. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-03;199)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
 
-### Art. 16
+### Art. 17.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 DICEMBRE 2014, N. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-03;199)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
 
-### Art. 17
+## NORME PER L'IMPORTAZIONE IN PROVENIENZA DA PAESI TERZI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 DICEMBRE 2014, N. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-03;199)))
+Capo III
 
-CAPO III Capo III NORME PER L'IMPORTAZIONE IN PROVENIENZA DA PAESI TERZI
-------------------------------------------------------------------------
+### Art. 18.
 
-### Art. 18
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 DICEMBRE 2014, N. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-03;199)))
+### Art. 18-bis.
 
-### Art. 18-bis
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 DICEMBRE 2014, N. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-03;199)))
+### Art. 19.
 
-### Art. 19
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 DICEMBRE 2014, N. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-03;199)))
+### Art. 20.
 
-### Art. 20
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 DICEMBRE 2014, N. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-03;199)))
+### Art. 21.
 
-### Art. 21
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 DICEMBRE 2014, N. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-03;199)))
+### Art. 21-bis.
 
-### Art. 21-bis
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 DICEMBRE 2014, N. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-03;199)))
+## DISPOSIZIONI COMUNI
 
-CAPO IV Capo IV DISPOSIZIONI COMUNI
------------------------------------
+Capo IV
 
-### Art. 22
+### Art. 22.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 DICEMBRE 2014, N. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-03;199)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
 
-### Art. 23
+### Art. 23.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 DICEMBRE 2014, N. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-03;199)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
 
-### Art. 24
+### Art. 24.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 DICEMBRE 2014, N. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-03;199)))
-
-Allegato I
-
- Allegato I   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 DICEMBRE 2014, N. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-03;199)))
-
-Allegato II
-
- Allegato II   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 DICEMBRE 2014, N. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-03;199)))
-
-Allegato III
-
- Allegato III   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 DICEMBRE 2014, N. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-03;199)))
-
-Allegato IV
-
- Allegato IV   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 DICEMBRE 2014, N. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-03;199)))
-
-Allegato V
-
- Allegato V   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 DICEMBRE 2014, N. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-12-03;199)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))

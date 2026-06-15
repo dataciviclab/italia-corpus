@@ -1,16 +1,14 @@
-LEGGE 22 dicembre 1927 n. 2432
+---
+tipo: LEGGE
+numero: 2432
+data: 1927-12-22
+titolo: "Conversione in legge del R. decreto-legge 20 febbraio 1927, n. 283, recante provvedimenti a favore delle Casse di credito agrario delle Provincie meridionali, della Sicilia e della Sardegna. (027U2432)"
+urn: urn:nir:stato:legge:1927-12-22;2432
+codice_redazionale: 027U2432
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 22 dicembre 1927 n. 2432
-==============================
-
-Conversione in legge del R. decreto-legge 20 febbraio 1927, n. 283, recante provvedimenti a favore delle Casse di credito agrario delle Provincie meridionali, della Sicilia e della Sardegna. (027U2432)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/01/1928
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

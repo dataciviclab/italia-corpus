@@ -1,87 +1,59 @@
-DECRETO-LEGGE 10 gennaio 1983 n. 2
+---
+tipo: DECRETO-LEGGE
+numero: 2
+data: 1983-01-10
+titolo: "Misure urgenti in materia sanitaria."
+urn: urn:nir:stato:decreto.legge:1983-01-10;2
+codice_redazionale: 083U0002
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 10 gennaio 1983 n. 2
-==================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 11 NOVEMBRE 1983, N. 638](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20settembre%201983%20n.%20463%20recante%20misure%20urgenti%20in%20materia%20previdenziale%20e%20sanitaria%20e%20per%20il%20contenimento%20della%20spesa%20pubblica%20di_f3f924b1a07d.md)
 
-Misure urgenti in materia sanitaria.
-------------------------------------
+## Art. 2.
 
-Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 11 NOVEMBRE 1983, N. 638](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20settembre%201983%20n.%20463%20recante%20misure%20urgenti%20in%20materia%20previdenziale%20e%20sanitaria%20e%20per%20il%20contenimento%20della%20spesa%20pubblica%20di_f3f924b1a07d.md)
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 11 NOVEMBRE 1983, N. 638](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-11-11;638)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 11 NOVEMBRE 1983, N. 638](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20settembre%201983%20n.%20463%20recante%20misure%20urgenti%20in%20materia%20previdenziale%20e%20sanitaria%20e%20per%20il%20contenimento%20della%20spesa%20pubblica%20di_f3f924b1a07d.md)
 
-Art. 2
-------
+## Art. 4.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 11 NOVEMBRE 1983, N. 638](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-11-11;638)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 11 NOVEMBRE 1983, N. 638](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20settembre%201983%20n.%20463%20recante%20misure%20urgenti%20in%20materia%20previdenziale%20e%20sanitaria%20e%20per%20il%20contenimento%20della%20spesa%20pubblica%20di_f3f924b1a07d.md)
 
-Art. 3
-------
+## Art. 5.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 11 NOVEMBRE 1983, N. 638](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-11-11;638)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 11 NOVEMBRE 1983, N. 638](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20settembre%201983%20n.%20463%20recante%20misure%20urgenti%20in%20materia%20previdenziale%20e%20sanitaria%20e%20per%20il%20contenimento%20della%20spesa%20pubblica%20di_f3f924b1a07d.md)
 
-Art. 4
-------
+## Art. 6.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 11 NOVEMBRE 1983, N. 638](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-11-11;638)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 11 NOVEMBRE 1983, N. 638](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20settembre%201983%20n.%20463%20recante%20misure%20urgenti%20in%20materia%20previdenziale%20e%20sanitaria%20e%20per%20il%20contenimento%20della%20spesa%20pubblica%20di_f3f924b1a07d.md)
 
-Art. 5
-------
+## Art. 7.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 11 NOVEMBRE 1983, N. 638](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-11-11;638)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 11 NOVEMBRE 1983, N. 638](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20settembre%201983%20n.%20463%20recante%20misure%20urgenti%20in%20materia%20previdenziale%20e%20sanitaria%20e%20per%20il%20contenimento%20della%20spesa%20pubblica%20di_f3f924b1a07d.md)
 
-Art. 6
-------
+## Art. 8.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 11 NOVEMBRE 1983, N. 638](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-11-11;638)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 11 NOVEMBRE 1983, N. 638](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20settembre%201983%20n.%20463%20recante%20misure%20urgenti%20in%20materia%20previdenziale%20e%20sanitaria%20e%20per%20il%20contenimento%20della%20spesa%20pubblica%20di_f3f924b1a07d.md)
 
-Art. 7
-------
+## Art. 9.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 11 NOVEMBRE 1983, N. 638](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-11-11;638)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 11 NOVEMBRE 1983, N. 638](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20settembre%201983%20n.%20463%20recante%20misure%20urgenti%20in%20materia%20previdenziale%20e%20sanitaria%20e%20per%20il%20contenimento%20della%20spesa%20pubblica%20di_f3f924b1a07d.md)
 
-Art. 8
-------
+## Art. 10.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 11 NOVEMBRE 1983, N. 638](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-11-11;638)
-  
-
-Art. 9
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 11 NOVEMBRE 1983, N. 638](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-11-11;638)
-  
-
-Art. 10
--------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 11 NOVEMBRE 1983, N. 638](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-11-11;638)
-  
-
-Allegato
-
- Allegato   
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 11 NOVEMBRE 1983, N. 638](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-11-11;638)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 11 NOVEMBRE 1983, N. 638](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20settembre%201983%20n.%20463%20recante%20misure%20urgenti%20in%20materia%20previdenziale%20e%20sanitaria%20e%20per%20il%20contenimento%20della%20spesa%20pubblica%20di_f3f924b1a07d.md)

@@ -1,68 +1,41 @@
-DECRETO LEGISLATIVO 19 novembre 1998 n. 432
+---
+tipo: DECRETO LEGISLATIVO
+numero: 432
+data: 1998-11-19
+titolo: "Attuazione delle direttive 93/118/CE e 96/43/CE che modificano e codificano la direttiva 85/73/CEE in materia di finanziamento delle ispezioni e dei controlli veterinari degli animali vivi e di taluni prodotti di origine animale."
+urn: urn:nir:stato:decreto.legislativo:1998-11-19;432
+codice_redazionale: 098G0484
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 19 novembre 1998 n. 432
-===========================================
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 19 NOVEMBRE 2008, N. 194 ))
 
-Attuazione delle direttive 93/118/CE e 96/43/CE che modificano e codificano la direttiva 85/73/CEE in materia di finanziamento delle ispezioni e dei controlli veterinari degli animali vivi e di taluni prodotti di origine animale.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 31-12-1998
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 19 NOVEMBRE 2008, N. 194 ))
 
-Art. 1
-------
+## Art. 3.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 NOVEMBRE 2008, N. 194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-11-19;194) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 19 NOVEMBRE 2008, N. 194 ))
 
-Art. 2
-------
+## Art. 4.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 NOVEMBRE 2008, N. 194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-11-19;194) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 19 NOVEMBRE 2008, N. 194 ))
 
-Art. 3
-------
+## Art. 5.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 NOVEMBRE 2008, N. 194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-11-19;194) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 19 NOVEMBRE 2008, N. 194 ))
 
-Art. 4
-------
+## Art. 6.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 NOVEMBRE 2008, N. 194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-11-19;194) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 19 NOVEMBRE 2008, N. 194 ))
 
-Art. 5
-------
+## Art. 7.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 NOVEMBRE 2008, N. 194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-11-19;194) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 19 NOVEMBRE 2008, N. 194 ))
 
-Art. 6
-------
+## Art. 8.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 NOVEMBRE 2008, N. 194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-11-19;194) ))
-
-Art. 7
-------
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 NOVEMBRE 2008, N. 194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-11-19;194) ))
-
-Art. 8
-------
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 NOVEMBRE 2008, N. 194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-11-19;194) ))
-
-Allegato A
-
- Allegato A   
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 NOVEMBRE 2008, N. 194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-11-19;194) ))
-
-Allegato B
-
- Allegato B   
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 NOVEMBRE 2008, N. 194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-11-19;194) ))
-
-Allegato C
-
- Allegato C   
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 19 NOVEMBRE 2008, N. 194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-11-19;194) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 19 NOVEMBRE 2008, N. 194 ))

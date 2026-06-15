@@ -1,137 +1,109 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 dicembre 1992 n. 555
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 555
+data: 1992-12-30
+titolo: "Regolamento per l'attuazione della direttiva 91/67/CEE che stabilisce norme di polizia sanitaria per i prodotti di acquacoltura."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1992-12-30;555
+codice_redazionale: 093G0059
+vigente: true
+---
 
+## DISPOSIZIONI GENERALI
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 dicembre 1992 n. 555
-===============================================================
+Capo I
 
-Regolamento per l'attuazione della direttiva 91/67/CEE che stabilisce norme di polizia sanitaria per i prodotti di acquacoltura.
---------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del decreto: 19-2-1993
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
 
-CAPO I Capo I DISPOSIZIONI GENERALI
------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
+## IMMISSIONE SUL MERCATO DEGLI ANIMALI E DEI PRODOTTI D'ACQUACOLTURA DELLA COMUNITA'
 
-### Art. 2
+Capo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
+### Art. 3.
 
-CAPO II Capo II IMMISSIONE SUL MERCATO DEGLI ANIMALI E DEI PRODOTTI D'ACQUACOLTURA DELLA COMUNITA'
---------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
 
-### Art. 3
+### Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148 ))
 
-### Art. 4
+### Art. 5.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148) ))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
 
-### Art. 5
+### Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
 
-### Art. 6
+### Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
 
-### Art. 7
+### Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148 ))
 
-### Art. 8
+### Art. 9.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148) ))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
 
-### Art. 9
+### Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
 
-### Art. 10
+### Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
 
-### Art. 11
+### Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
 
-### Art. 12
+### Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
 
-### Art. 13
+### Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
 
-### Art. 14
+### Art. 15.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
 
-### Art. 15
+### Art. 16.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
 
-### Art. 16
+### Art. 17.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
 
-### Art. 17
+## NORME APPLICABILI PER LE IMPORTAZIONI IN PROVENIENZA DA PAESI TERZI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
+Capo III
 
-CAPO III Capo III NORME APPLICABILI PER LE IMPORTAZIONI IN PROVENIENZA DA PAESI TERZI
--------------------------------------------------------------------------------------
+### Art. 18.
 
-### Art. 18
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
+### Art. 19.
 
-### Art. 19
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
+### Art. 20.
 
-### Art. 20
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
+### Art. 21.
 
-### Art. 21
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
+### Art. 22.
 
-### Art. 22
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
-
-Allegato A
-
- ALLEGATO A   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
-
-Allegato B
-
- ALLEGATO B   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
-
-Allegato C
-
- ALLEGATO C   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
-
-Allegato D
-
- ALLEGATO D   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
-
-Allegato E
-
- ALLEGATO E   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 2008, N. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-08-04;148)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))

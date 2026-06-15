@@ -1,16 +1,14 @@
-LEGGE 16 giugno 1938 n. 982
+---
+tipo: LEGGE
+numero: 982
+data: 1938-06-16
+titolo: "Conversione in legge del R. decreto-legge 1° marzo 1938-XVI, n. 173, concernente l'aliquota ridotta di tassa di vendita sui residui da impiegare per generare energia elettrica. (038U0982)"
+urn: urn:nir:stato:legge:1938-06-16;982
+codice_redazionale: 038U0982
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 16 giugno 1938 n. 982
-===========================
-
-Conversione in legge del R. decreto-legge 1° marzo 1938-XVI, n. 173, concernente l'aliquota ridotta di tassa di vendita sui residui da impiegare per generare energia elettrica. (038U0982)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/07/1938
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

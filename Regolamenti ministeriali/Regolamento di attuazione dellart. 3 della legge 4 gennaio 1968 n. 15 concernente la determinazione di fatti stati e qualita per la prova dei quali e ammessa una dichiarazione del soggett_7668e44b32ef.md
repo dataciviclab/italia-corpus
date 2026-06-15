@@ -1,20 +1,18 @@
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 19 marzo 1994 n. 281
-
-
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 19 marzo 1994 n. 281
-======================================================================
-
-Regolamento di attuazione dell'art. 3 della legge 4 gennaio 1968, n. 15, concernente la determinazione di fatti, stati e qualita' per la prova dei quali e' ammessa una dichiarazione del soggetto che tenga temporaneamente luogo della normale documentazione.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 26/05/1994
+---
+tipo: DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
+numero: 281
+data: 1994-03-19
+titolo: "Regolamento di attuazione dell'art. 3 della legge 4 gennaio 1968, n. 15, concernente la determinazione di fatti, stati e qualita' per la prova dei quali e' ammessa una dichiarazione del soggetto che tenga temporaneamente luogo della normale documentazione."
+urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:1994-03-19;281
+codice_redazionale: 094G0306
+vigente: true
+---
 
 IL PRESIDENTE
--------------
 
 DEL CONSIGLIO DEI MINISTRI
 
-Visto l'[art. 3 della legge 4 gennaio 1968, n. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15~art3);
+Visto l'[art. 3 della legge 4 gennaio 1968, n. 15](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md);
 
 Visto l'art. 17, comma 3, della legge 23 agosto 1988,
 
@@ -24,104 +22,116 @@ Visto il parere del Consiglio di Stato, espresso nell'adunanza generale del 1 ot
 
 A D O T T A il seguente regolamento:
 
-Art. 1
-------
+## Art. 1. — Dichiarazioni temporaneamente sostitutive di fatti
+ stati e qualita' personali
 
-Dichiarazioni temporaneamente sostitutive di fatti  
-stati e qualita' personali
+1.
 
-1. I soggetti, persone fisiche o legali rappresentanti di persone giuridiche, che presentino all'amministrazione istanze tendenti ad ottenere provvedimenti che presuppongono l'accertamento o l'assenza di stati, fatti o qualita', indicati al comma 2, in luogo della esibizione della prescritta documentazione, possono rendere una dichiarazione temporanea sostitutiva, anche nel testo dell'istanza, purche' quest'ultima, o la dichiarazione separata, rechino la sottoscrizione autenticata da un notaio, cancelliere, segretario comunale o altro funzionario incaricato dal sindaco.
+I soggetti, persone fisiche o legali rappresentanti di persone giuridiche, che presentino all'amministrazione istanze tendenti ad ottenere provvedimenti che presuppongono l'accertamento o l'assenza di stati, fatti o qualita', indicati al comma 2, in luogo della esibizione della prescritta documentazione, possono rendere una dichiarazione temporanea sostitutiva, anche nel testo dell'istanza, purche' quest'ultima, o la dichiarazione separata, rechino la sottoscrizione autenticata da un notaio, cancelliere, segretario comunale o altro funzionario incaricato dal sindaco.
 
-2. La dichiarazione sostitutiva di cui al comma 1, puo' riguardare i seguenti stati, fatti o qualita':
+2.
 
-a) l'iscrizione nel registro delle ditte tenuto dalle camere di commercio;
+La dichiarazione sostitutiva di cui al comma 1, puo' riguardare i seguenti stati, fatti o qualita':
+                        a)
+                            l'iscrizione nel registro delle ditte tenuto dalle camere di commercio;
+                        b)
+                            l'iscrizione nel registro degli esercenti il commercio tenuto dalle camere di commercio;
+                        c)
+                            la qualita' di legale rappresentante di societa' commerciali;
+                        d)
+                            l'assenza, sia a carico di imprenditori individuali che di societa' commerciali, di procedure esecutive concorsuali o di procedure equivalenti secondo legislazioni straniere;
+                        e)
+                            l'assenza di condanne per determinati reati;
+                        f)
+                            l'assenza di comunicazione di procedure dirette ad irrogare misure di prevenzione della criminalita';
+                        g)
+                            l'assolvimento degli obblighi contributivi, assistenziali e previdenziali nascenti dalla qualita' di datore di lavoro;
+                        h)
+                            la regolare posizione rispetto ad obblighi tributari, nascenti dalla legislazione italiana o da legislazioni straniere;
+                        i)
+                            lo stato di disoccupazione;
+                        l)
+                            la qualita' di invalido e il tipo o grado o classe o natura dell'invalidita', nonche' l'iscrizione negli elenchi degli invalidi.
 
-b) l'iscrizione nel registro degli esercenti il commercio tenuto dalle camere di commercio;
+3.
 
-c) la qualita' di legale rappresentante di societa' commerciali;
+L'autenticazione della dichiarazione o della domanda viene effettuata, a richiesta degli interessati, dal funzionario incaricato di ricevere la documentazione.
 
-d) l'assenza, sia a carico di imprenditori individuali che di societa' commerciali, di procedure esecutive concorsuali o di procedure equivalenti secondo legislazioni straniere;
+4.
 
-e) l'assenza di condanne per determinati reati;
+Della facolta' indicata nei precedenti commi viene data notizia al pubblico nei bandi o negli altri atti generali che prevedano la presentazione di domande; ovvero nelle istruzioni sulle modalita' di compilazione delle domande dirette all'istaurazione delle varie pratiche, che l'amministrazione diffonde o pone a disposizione del pubblico mediante avvisi o stampati.
 
-f) l'assenza di comunicazione di procedure dirette ad irrogare misure di prevenzione della criminalita';
+5.
 
-g) l'assolvimento degli obblighi contributivi, assistenziali e previdenziali nascenti dalla qualita' di datore di lavoro;
+Gli impiegati che ricevono istanze o documenti presentati direttamente all'amministrazione, quando rilevano che l'istanza non e' corredata dalla documentazione necessaria, oppure che la dichiarazione sostitutiva prevista dai precedenti commi o resa ai sensi dell'[art. 2 della legge 4 gennaio 1968, n. 15](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md), manca della sottoscrizione o della relativa autenticazione, avvertono il presentatore della irregolarita' e della facolta' prevista dal precedente comma 3.
 
-h) la regolare posizione rispetto ad obblighi tributari, nascenti dalla legislazione italiana o da legislazioni straniere;
+6.
 
-i) lo stato di disoccupazione;
+La documentazione relativa agli stati, fatti e qualita' indicati nel comma 2, viene richiesta dall'amministrazione all'interessato, prima di emettere il provvedimento a lui favorevole.
 
-l) la qualita' di invalido e il tipo o grado o classe o natura dell'invalidita', nonche' l'iscrizione negli elenchi degli invalidi.
+7.
 
-3. L'autenticazione della dichiarazione o della domanda viene effettuata, a richiesta degli interessati, dal funzionario incaricato di ricevere la documentazione.
+L'invito a produrre la documentazione e' effettuato per iscritto, individualmente e personalmente, agli interessati, e contiene l'assegnazione di un termine adeguato, in relazione ai tempi normalmente occorrenti per l'acquisizione, al luogo dove essa va acquisita o alla residenza del soggetto onerato, per la produzione della documentazione stessa. Nel caso di provvedimenti plurimi, il termine e' uguale per tutti gli interessati, e tiene conto dei tempi massimi presumibilmente occorrenti.
 
-4. Della facolta' indicata nei precedenti commi viene data notizia al pubblico nei bandi o negli altri atti generali che prevedano la presentazione di domande; ovvero nelle istruzioni sulle modalita' di compilazione delle domande dirette all'istaurazione delle varie pratiche, che l'amministrazione diffonde o pone a disposizione del pubblico mediante avvisi o stampati.
+8.
 
-5. Gli impiegati che ricevono istanze o documenti presentati direttamente all'amministrazione, quando rilevano che l'istanza non e' corredata dalla documentazione necessaria, oppure che la dichiarazione sostitutiva prevista dai precedenti commi o resa ai sensi dell'[art. 2 della legge 4 gennaio 1968, n. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15~art2), manca della sottoscrizione o della relativa autenticazione, avvertono il presentatore della irregolarita' e della facolta' prevista dal precedente comma 3.
+L'invito indicato nel comma precedente contiene l'avvertimento che, in caso di inosservanza anche parziale, il provvedimento favorevole all'interessato non potra', allo stato, essere emesso.
 
-6. La documentazione relativa agli stati, fatti e qualita' indicati nel comma 2, viene richiesta dall'amministrazione all'interessato, prima di emettere il provvedimento a lui favorevole.
+9.
 
-7. L'invito a produrre la documentazione e' effettuato per iscritto, individualmente e personalmente, agli interessati, e contiene l'assegnazione di un termine adeguato, in relazione ai tempi normalmente occorrenti per l'acquisizione, al luogo dove essa va acquisita o alla residenza del soggetto onerato, per la produzione della documentazione stessa. Nel caso di provvedimenti plurimi, il termine e' uguale per tutti gli interessati, e tiene conto dei tempi massimi presumibilmente occorrenti.
+Quando gli interessati risiedano nel comune sede dell'ufficio dove la documentazione deve essere presentata o nei comuni limitrofi, l'amministrazione ha facolta' di avvertirli che la decadenza si verifichera' anche nel caso che la documentazione, tardivamente pervenuta, sia stata spedita per mezzo del servizio postale prima della scadenza del termine; negli altri casi, ha facolta' di stabilire che si considerino tempestivamente prodotti i documenti spediti per mezzo del servizio postale entro un determinato termine, anteriore a quello fissato per la presentazione dei documenti. Quando l'amministrazione non si avvalga di tali facolta', i documenti si considerano prodotti tempestivamente quando, entro il termine fissato per la loro presentazione, siano stati spediti per mezzo del servizio postale.
 
-8. L'invito indicato nel comma precedente contiene l'avvertimento che, in caso di inosservanza anche parziale, il provvedimento favorevole all'interessato non potra', allo stato, essere emesso.
+AVVERTENZA:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operativo il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Nota al titolo:
+ - La [legge n. 15/1968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968;15) reca "Norme sulla documentazione amministrativa e sulla legalizzazione e autenticazione di firme". Si riporta il testo dell'art. 3 della citata [legge n. 15/1968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968;15):
+ "Art. 3 (Dichiarazioni temporaneamente sostitutive). - I regolamenti ministeriali e degli enti pubblici stabiliscono per quali fatti, stati e qualita' personali, oltre quelli indicati nell'art. 2, e' ammessa, in luogo della prescritta documentazione, una dichiarazione sostitutiva sottoscritta dall'interessato e autenticata con le modalita' di cui all'art. 20. In tali casi la normale documentazione sara' successivamente esibita dall'interessato a richiesta dell'amministrazione, prima che sia emesso il provvedimento a lui favorevole.
+ I regolamenti di cui al primo comma stabiliscono altresi' i casi, le modalita' ed eventualmente il termine per la regolarizzazione o la rettifica della documentazione irregolare o non conforme alla dichiarazione, nonche', ove occorre, per la rettifica della dichiarazione la cui irregolarita' attenga ad elementi non essenziali".
+ Note alle premesse:
+ - Per il testo dell'[art. 3 della legge n. 15/1968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968;15#art_3) si veda in nota al titolo.
+ - Il [comma 3 dell'art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisce tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possano dettare norme contrarie a quelle dei regolamenti emanati dal Governo.
+ Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stablisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
 
-9. Quando gli interessati risiedano nel comune sede dell'ufficio dove la documentazione deve essere presentata o nei comuni limitrofi, l'amministrazione ha facolta' di avvertirli che la decadenza si verifichera' anche nel caso che la documentazione, tardivamente pervenuta, sia stata spedita per mezzo del servizio postale prima della scadenza del termine; negli altri casi, ha facolta' di stabilire che si considerino tempestivamente prodotti i documenti spediti per mezzo del servizio postale entro un determinato termine, anteriore a quello fissato per la presentazione dei documenti. Quando l'amministrazione non si avvalga di tali facolta', i documenti si considerano prodotti tempestivamente quando, entro il termine fissato per la loro presentazione, siano stati spediti per mezzo del servizio postale.
+## Art. 2. — Divieto di accettazione di certificato del casellario giudiziario rilasciato a richiesta dell'interessato
 
-AVVERTENZA:  
-Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operativo il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.  
-Nota al titolo:  
-- La [legge n. 15/1968](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968;15) reca "Norme sulla documentazione amministrativa e sulla legalizzazione e autenticazione di firme". Si riporta il testo dell'art. 3 della citata [legge n. 15/1968](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968;15):  
-"Art. 3 (Dichiarazioni temporaneamente sostitutive). - I regolamenti ministeriali e degli enti pubblici stabiliscono per quali fatti, stati e qualita' personali, oltre quelli indicati nell'art. 2, e' ammessa, in luogo della prescritta documentazione, una dichiarazione sostitutiva sottoscritta dall'interessato e autenticata con le modalita' di cui all'art. 20. In tali casi la normale documentazione sara' successivamente esibita dall'interessato a richiesta dell'amministrazione, prima che sia emesso il provvedimento a lui favorevole.  
-I regolamenti di cui al primo comma stabiliscono altresi' i casi, le modalita' ed eventualmente il termine per la regolarizzazione o la rettifica della documentazione irregolare o non conforme alla dichiarazione, nonche', ove occorre, per la rettifica della dichiarazione la cui irregolarita' attenga ad elementi non essenziali".  
-Note alle premesse:  
-- Per il testo dell'[art. 3 della legge n. 15/1968](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968;15~art3) si veda in nota al titolo.  
-- Il [comma 3 dell'art. 17 della legge n. 400/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisce tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possano dettare norme contrarie a quelle dei regolamenti emanati dal Governo.  
-Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stablisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
+1.
 
-Art. 2
-------
+E' fatto divieto agli uffici di accettare certificati di casellario giudiziale rilasciati a richiesta delle persone stesse, alle quali le iscrizioni si riferiscono.
 
-Divieto di accettazione di certificato del casellario giudiziario rilasciato a richiesta dell'interessato
+## Art. 3. — Discordanze tra dichiarazione temporaneamente sostitutiva
+ e documentazione successivamente prodotta o acquisita
 
-1. E' fatto divieto agli uffici di accettare certificati di casellario giudiziale rilasciati a richiesta delle persone stesse, alle quali le iscrizioni si riferiscono.
+1.
 
-Art. 3
-------
+Quando esistano discordanze tra la dichiarazione temporaneamente sostitutiva, resa secondo le disposizioni dell'art. 1, e la documentazione successivamente prodotta dall'interessato o acquisita dall'ufficio, quest'ultimo invita l'interessato a rettificare la dichiarazione ovvero a regolarizzare la documentazione, entro un congruo termine. La rettificazione della dichiarazione puo' essere resa nelle stesse forme della dichiarazione temporaneamente sostitutiva o anche, se avvenga davanti al funzionario competente a ricevere la documentazione, senza formalita' di autenticazione.
 
-Discordanze tra dichiarazione temporaneamente sostitutiva  
-e documentazione successivamente prodotta o acquisita
+2.
 
-1. Quando esistano discordanze tra la dichiarazione temporaneamente sostitutiva, resa secondo le disposizioni dell'art. 1, e la documentazione successivamente prodotta dall'interessato o acquisita dall'ufficio, quest'ultimo invita l'interessato a rettificare la dichiarazione ovvero a regolarizzare la documentazione, entro un congruo termine. La rettificazione della dichiarazione puo' essere resa nelle stesse forme della dichiarazione temporaneamente sostitutiva o anche, se avvenga davanti al funzionario competente a ricevere la documentazione, senza formalita' di autenticazione.
+La mancata rettificazione o regolarizzazione entro il termine, quando causi incertezza sugli elementi da considerare essenziali ai fini dell'emanazione del provvedimento al quale la documentazione si riferisce, equivale a mancata presentazione della documentazione prescritta.
 
-2. La mancata rettificazione o regolarizzazione entro il termine, quando causi incertezza sugli elementi da considerare essenziali ai fini dell'emanazione del provvedimento al quale la documentazione si riferisce, equivale a mancata presentazione della documentazione prescritta.
+3.
 
-3. Le disposizioni dei commi precedenti non si applicano, e l'ufficio provvede ai necessari accertamenti, quando le discordanze sussistano soltanto tra i documenti prodotti dall'interessato in seguito all'invito di cui all'art. 1.
+Le disposizioni dei commi precedenti non si applicano, e l'ufficio provvede ai necessari accertamenti, quando le discordanze sussistano soltanto tra i documenti prodotti dall'interessato in seguito all'invito di cui all'art. 1.
 
-Art. 4
-------
+## Art. 4. — Dichiarazioni temporaneamente sostitutive
+ rese in forma orale
 
-Dichiarazioni temporaneamente sostitutive  
-rese in forma orale
+1.
 
-1. Le dichiarazioni temporaneamente sostitutive di chi non sa o non puo' firmare possono essere rese oralmente dall'interessato, al funzionario competente a ricevere la dichiarazione, alla presenza di due testimoni maggiorenni. Il funzionario cura la trascrizione della dichiarazione e provvede alla autenticazione delle firme dei testimoni apposte in calce alla medesima.
+Le dichiarazioni temporaneamente sostitutive di chi non sa o non puo' firmare possono essere rese oralmente dall'interessato, al funzionario competente a ricevere la dichiarazione, alla presenza di due testimoni maggiorenni. Il funzionario cura la trascrizione della dichiarazione e provvede alla autenticazione delle firme dei testimoni apposte in calce alla medesima.
 
-2. Nel caso previsto dal precedente comma, a meno che non si tratti di impossibilita' di scrivere dovuta a una causa transitoria, di breve durata non si applicano i commi 1 e 2 dell'art. 3, e si provvede d'ufficio ad ogni accertamento relativo ad eventuali discordanze nella documentazione o tra le dichiarazioni temporaneamente sostitutive e la documentazione.
+2.
 
-Art. 5
-------
+Nel caso previsto dal precedente comma, a meno che non si tratti di impossibilita' di scrivere dovuta a una causa transitoria, di breve durata non si applicano i commi 1 e 2 dell'art. 3, e si provvede d'ufficio ad ogni accertamento relativo ad eventuali discordanze nella documentazione o tra le dichiarazioni temporaneamente sostitutive e la documentazione.
 
-Ambito di applicazione
+## Art. 5. — Ambito di applicazione
 
-1. Il presente regolamento, si applica ai procedimenti amministrativi di competenza del Consiglio di Stato, dei Tribunali amministrativi regionali e dei Tribunali regionali di giustizia amministrativa, sede di Trento e sezione autonoma di Bolzano.
+1.
+
+Il presente regolamento, si applica ai procedimenti amministrativi di competenza del Consiglio di Stato, dei Tribunali amministrativi regionali e dei Tribunali regionali di giustizia amministrativa, sede di Trento e sezione autonoma di Bolzano.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 19 marzo 1994
+Roma, 19 marzo 1994
 
-Il Presidente: CIAMPI
-
-Visto, il Guardasigilli: CONSO Registrato alla Corte dei conti il 29 aprile 1994
-
-Registro n. 1 Presidenza, foglio n. 175
+Il Presidente: CIAMPI Visto, il Guardasigilli: CONSO Registrato alla Corte dei conti il 29 aprile 1994 Registro n. 1 Presidenza, foglio n. 175

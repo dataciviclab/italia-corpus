@@ -1,22 +1,19 @@
-LEGGE 02 luglio 1925 n. 1197
+---
+tipo: LEGGE
+numero: 1197
+data: 1925-07-02
+titolo: "Conversione in legge, con modifica, del R. decreto 16 ottobre 1924, n. 1853, che approva il piano regolatore di ampliamento della citta' di Padova. (025U1197)"
+urn: urn:nir:stato:legge:1925-07-02;1197
+codice_redazionale: 025U1197
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 02 luglio 1925 n. 1197
-============================
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Conversione in legge, con modifica, del R. decreto 16 ottobre 1924, n. 1853, che approva il piano regolatore di ampliamento della citta' di Padova. (025U1197)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 23/07/1925
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

@@ -1,16 +1,14 @@
-LEGGE 14 aprile 1927 n. 834
+---
+tipo: LEGGE
+numero: 834
+data: 1927-04-14
+titolo: "Conversione in legge del R. decreto-legge 14 ottobre 1926, n. 1894, che disciplina le tasse di bollo sulle sentenze ed atti dei tribunali militari. (027U0834)"
+urn: urn:nir:stato:legge:1927-04-14;834
+codice_redazionale: 027U0834
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 14 aprile 1927 n. 834
-===========================
-
-Conversione in legge del R. decreto-legge 14 ottobre 1926, n. 1894, che disciplina le tasse di bollo sulle sentenze ed atti dei tribunali militari. (027U0834)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/06/1927
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

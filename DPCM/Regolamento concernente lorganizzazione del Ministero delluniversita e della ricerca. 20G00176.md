@@ -1,72 +1,53 @@
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 30 settembre 2020 n. 164
+---
+tipo: DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
+numero: 164
+data: 2020-09-30
+titolo: "Regolamento concernente l'organizzazione del Ministero dell'universita' e della ricerca. (20G00176)"
+urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2020-09-30;164
+codice_redazionale: 20G00176
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 30 settembre 2020 n. 164
-==========================================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 4 APRILE 2025, N. 62))
 
-Regolamento concernente l'organizzazione del Ministero dell'universita' e della ricerca. (20G00176)
----------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 29/12/2020
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 4 APRILE 2025, N. 62))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 4 APRILE 2025, N. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2025-04-04;62)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 4 APRILE 2025, N. 62))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 4 APRILE 2025, N. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2025-04-04;62)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 4 APRILE 2025, N. 62))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 4 APRILE 2025, N. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2025-04-04;62)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 4 APRILE 2025, N. 62))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 4 APRILE 2025, N. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2025-04-04;62)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 4 APRILE 2025, N. 62))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 4 APRILE 2025, N. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2025-04-04;62)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 4 APRILE 2025, N. 62))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 4 APRILE 2025, N. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2025-04-04;62)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 4 APRILE 2025, N. 62))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 4 APRILE 2025, N. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2025-04-04;62)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 4 APRILE 2025, N. 62))
 
-Art. 8
-------
+## Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 4 APRILE 2025, N. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2025-04-04;62)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 4 APRILE 2025, N. 62))
 
-Art. 9
-------
+## Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 4 APRILE 2025, N. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2025-04-04;62)))
-
-Art. 10
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 4 APRILE 2025, N. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2025-04-04;62)))
-
-Art. 11
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 4 APRILE 2025, N. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2025-04-04;62)))
-
-Tabella A
-
- Tabella A   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 4 APRILE 2025, N. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2025-04-04;62)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 4 APRILE 2025, N. 62))

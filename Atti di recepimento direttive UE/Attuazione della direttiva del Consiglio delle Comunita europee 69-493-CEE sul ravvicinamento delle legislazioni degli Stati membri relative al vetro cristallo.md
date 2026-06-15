@@ -1,184 +1,63 @@
-LEGGE 26 novembre 1973 n. 827
-
-
-LEGGE 26 novembre 1973 n. 827
-=============================
-
-Attuazione della direttiva del Consiglio delle Comunita' europee 69/493/CEE sul ravvicinamento delle legislazioni degli Stati membri relative al vetro cristallo.
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: LEGGE
+numero: 827
+data: 1973-11-26
+titolo: "Attuazione della direttiva del Consiglio delle Comunita' europee 69/493/CEE sul ravvicinamento delle legislazioni degli Stati membri relative al vetro cristallo."
+urn: urn:nir:stato:legge:1973-11-26;827
+codice_redazionale: 073U0827
+vigente: true
+---
 
 La Camera dei deputati ed il Senato della Repubblica hanno approvato;
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-PROMULGA
---------
+PROMULGA la seguente legge:
 
-la seguente legge:
+## Art. 1.
 
-Art. 1
-------
+La composizione, le caratteristiche di fabbricazione, l'etichettatura e ogni forma di pubblicita' dei prodotti di cui alla tabella allegato A devono corrispondere alle definizioni e alle norme stabilite nella presente legge e nei relativi allegati.
 
-  
-La composizione, le caratteristiche di fabbricazione, l'etichettatura e ogni forma di pubblicita' dei prodotti di cui alla tabella allegato A devono corrispondere alle definizioni e alle norme stabilite nella presente legge e nei relativi allegati.  
+## Art. 2.
 
-Art. 2
-------
+Le denominazioni di cui alla colonna b) dell'allegato B non possono essere utilizzate in commercio, per designare prodotti diversi da quelli rispondenti alle caratteristiche specificate nelle colonne da d) a g) dello stesso allegato.
+ E' in ogni caso vietato immettere al consumo vetri cavi e in lastre con denominazione "mezzi cristalli" o denominazioni affini.
 
-  
-Le denominazioni di cui alla colonna b) dell'allegato B non possono essere utilizzate in commercio, per designare prodotti diversi da quelli rispondenti alle caratteristiche specificate nelle colonne da d) a g) dello stesso allegato.  
-E' in ogni caso vietato immettere al consumo vetri cavi e in lastre con denominazione "mezzi cristalli" o denominazioni affini.  
+## Art. 3.
 
-Art. 3
-------
+I prodotti indicati nella tabella allegato A, che siano contraddistinti da una delle denominazioni previste nella colonna b) dell'allegato B, possono essere anche muniti del relativo simbolo di identificazione, descritto nelle colonne h) ed i) dell'allegato B.
 
-  
-I prodotti indicati nella tabella allegato A, che siano contraddistinti da una delle denominazioni previste nella colonna b) dell'allegato B, possono essere anche muniti del relativo simbolo di identificazione, descritto nelle colonne h) ed i) dell'allegato B.  
+## Art. 4.
 
-Art. 4
-------
+Le denominazioni e i simboli di identificazione stabiliti nell'allegato B possono essere apposti sull'unica etichetta, descritta nelle colonne h) ed i) dello stesso allegato.
+ Sull'etichetta possono essere aggiunte altre indicazioni, atte a meglio individuare la qualita' e le finiture del prodotto, purche' tali indicazioni siano conformi al buon uso commerciale.
 
-  
-Le denominazioni e i simboli di identificazione stabiliti nell'allegato B possono essere apposti sull'unica etichetta, descritta nelle colonne h) ed i) dello stesso allegato.  
-Sull'etichetta possono essere aggiunte altre indicazioni, atte a meglio individuare la qualita' e le finiture del prodotto, purche' tali indicazioni siano conformi al buon uso commerciale.  
+## Art. 5.
 
-Art. 5
-------
+Qualora il marchio di fabbrica, la ragione sociale di una impresa od ogni altra iscrizione comporti, a titolo principale oppure a titolo di aggettivo o di radice, l'utilizzazione di una denominazione, prevista nelle colonne b) e c) dell'allegato B, o che possa dar luogo a confusione con quest'ultima, deve figurare, a caratteri molto evidenti, immediatamente seguita dal marchio di fabbrica o dalla ragione sociale o dall'iscrizione: 
+ - la denominazione del prodotto, quando questo risponde alle caratteristiche specificate nelle colonne da d) a g) dell'allegato B; 
+ - l'indicazione dell'esatta natura del prodotto, quando questo non risponde a tali caratteristiche.
 
-  
-  
-Qualora il marchio di fabbrica, la ragione sociale di una impresa od ogni altra iscrizione comporti, a titolo principale oppure a titolo di aggettivo o di radice, l'utilizzazione di una denominazione, prevista nelle colonne b) e c) dell'allegato B, o che possa dar luogo a confusione con quest'ultima, deve figurare, a caratteri molto evidenti, immediatamente seguita dal marchio di fabbrica o dalla ragione sociale o dall'iscrizione:   
-- la denominazione del prodotto, quando questo risponde alle caratteristiche specificate nelle colonne da d) a g) dell'allegato B;   
-- l'indicazione dell'esatta natura del prodotto, quando questo non risponde a tali caratteristiche.   
+## Art. 6.
 
-Art. 6
-------
+La corrispondenza delle denominazioni e dei simboli d'identificazione alle caratteristiche specificate nelle colonne da d) a g) dell'allegato B non puo' essere verificata se non utilizzando i metodi definiti nell'allegato C.
 
-  
-La corrispondenza delle denominazioni e dei simboli d'identificazione alle caratteristiche specificate nelle colonne da d) a g) dell'allegato B non puo' essere verificata se non utilizzando i metodi definiti nell'allegato C.  
+## Art. 7.
 
-Art. 7
-------
+L'accertamento delle proprieta' chimiche e fisiche dei prodotti, oggetto della disciplina prescritta nella presente legge, e' effettuato, in tutti i casi in cui sia necessario, dalla stazione sperimentale del vetro di Venezia-Murano.
 
-  
-L'accertamento delle proprieta' chimiche e fisiche dei prodotti, oggetto della disciplina prescritta nella presente legge, e' effettuato, in tutti i casi in cui sia necessario, dalla stazione sperimentale del vetro di Venezia-Murano.  
+## Art. 8.
 
-Art. 8
-------
+Chiunque pone in vendita o altrimenti mette in commercio i prodotti indicati nella tabella allegato A della presente legge, con le denominazioni di "cristallo superiore, cristallo al piombo, vetro sonoro superiore e vetro sonoro", e che, per la loro composizione, non corrispondono alle relative caratteristiche specificate nell'allegato B, e' punito con la multa da lire 40.000 a lire 400.000.
+ Chiunque, sussistendo le condizioni previste dall'articolo 5 della presente legge, non ottempera all'obbligo di apporre, a caratteri molto evidenti, la denominazione del prodotto, quando questo risponde alle caratteristiche specificate nelle colonne da d) a g) dell'allegato B, e' punito con l'ammenda da lire 20.000 a lire 200.000.
+ Chiunque, nelle condizioni previste dall'articolo 5 della presente legge, non ottempera all'obbligo di apporre, a caratteri molto evidenti, la indicazione dell'esatta natura del prodotto, quando questo non risponde alle caratteristiche specificate nelle colonne da d) a g) dell'allegato B, e' punito con la multa da lire 30.000 a lire 300.000.
 
-  
-Chiunque pone in vendita o altrimenti mette in commercio i prodotti indicati nella tabella allegato A della presente legge, con le denominazioni di "cristallo superiore, cristallo al piombo, vetro sonoro superiore e vetro sonoro", e che, per la loro composizione, non corrispondono alle relative caratteristiche specificate nell'allegato B, e' punito con la multa da lire 40.000 a lire 400.000.  
-Chiunque, sussistendo le condizioni previste dall'articolo 5 della presente legge, non ottempera all'obbligo di apporre, a caratteri molto evidenti, la denominazione del prodotto, quando questo risponde alle caratteristiche specificate nelle colonne da d) a g) dell'allegato B, e' punito con l'ammenda da lire 20.000 a lire 200.000.  
-Chiunque, nelle condizioni previste dall'articolo 5 della presente legge, non ottempera all'obbligo di apporre, a caratteri molto evidenti, la indicazione dell'esatta natura del prodotto, quando questo non risponde alle caratteristiche specificate nelle colonne da d) a g) dell'allegato B, e' punito con la multa da lire 30.000 a lire 300.000.  
+## Art. 9.
 
-Art. 9
-------
-
-  
-La presente legge non si applica ai prodotti destinati ad essere esportati fuori dal territorio della Comunita' economica europea.  
-  
+La presente legge non si applica ai prodotti destinati ad essere esportati fuori dal territorio della Comunita' economica europea.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data a Roma, addi' 26 novembre 1973
+Data a Roma, addi' 26 novembre 1973
 
-LEONE RUMOR - DE MITA - MORO - ZAGARI - COLOMBO - MATTEOTTI
-
-Visto, il Guardasigilli: ZAGARI
-
-Allegati
-
- ALLEGATO A   
-  
-ELENCO DEI PRODOTTI DI VETRO-CRISTALLO DI CUI ALLA VOCE 70.13 DELLA TARIFFA DOGANALE COMUNE   
-  
-Articoli da tavola, da cucina, da toeletta, da ufficio e d'arredamento e particolarmente:   
-Bicchieri di qualsiasi foggia e forma, tazze, boccali da birra, caraffe e brocche, insalatiere, coppe, ciotole, salsiere, zuccheriere, biscottiere, formaggere, saliere, oliere, spremilimoni e spremifrutta, piatti, piattini e sottopiatti, vasi, vassoi, vetri per shaker, bomboniere, scaldavivande, pestelli, secchielli da ghiaccio, servizi da toeletta, ganci portasciugamani, portaciprie, spruzzatori e boccette per profumi, tubi portaspazzolini da denti, fermacarte, calamai, vaschette, posapenne, ceneriere ed altri articoli per fumatori, vasi da fiori ed ornamentali, coppe ornamentali, soprammobili, statuette ed oggetti decorativi di forme varie e diverse, centrotavola, bruciaprofumi, oggetti ricordo.   
-Questi articoli possono essere prodotti in vetrocristallo bianco, colorato od anche, talvolta, argentato a specchio.   
-  
-ALLEGATO B   
-  
-LISTA DI CATEGORIE DI VETRO-CRISTALLO   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v073U08270010001011000102&dgu=1973-12-29&art.dataPubblicazioneGazzetta=1973-12-29&art.codiceRedazionale=073U0827)
-  
-  
-
-((1))
-
---------------
-
-AGGIORNAMENTO (1)
-
-L'Avviso di rettifica (in G.U. 22/4/1975, n. 106) ha disposto che "la denominazione, per la terza categoria di vetro cristallo,indicata   
-con la parola <<Kristallyngla>> deve leggersi   
-<<Kristallijnglas>>".   
-  
-  
-ALLEGATO C   
-  
-METODI PER LA DETERMINAZIONE DELLE PROPRIETA' CHIMICHE E FISICHE DELLE CATEGORIE DEL VETRO CRISTALLO   
-  
-1 ANALISI CHIMICHE   
-1.1. BaO e PbO   
-1.1.1. Dosaggio della somma: BaO + PbO   
-Pesare con un'approssimazione di 0,0001 g circa 0,5 g di polvere di vetro ed introdurli in un crogiuolo di platino. Inumidire con acqua ed aggiungere 10 ml d'una soluzione al 15% o di acido solforico e 10 ml di acido fluoridrico. Riscaldare al bagno di sabbia fino a quando si producano vapori bianchi. Lasciare raffreddare e trattare nuovamente con 10 ml di acido fluoridrico. Riscaldare fino a quando si ripresentino dei vapori bianchi. Lasciare raffreddare e risciacquare le pareti del crogiuolo con acqua. Riscaldare fino a quando ricompaiono i vapori bianchi. Lasciare raffreddare, aggiungere cautamente 10 ml di acqua, quindi travasare in un recipiente di 400 ml. Risciacquare piu' volte il crogiuolo con una soluzione di acido solforico al 10% e diluire a 100 ml con la stessa soluzione. Far bollire da 2 a 3 minuti. Lasciar riposare per una notte.   
-Filtrare su un crogiuolo filtrante di porosita' 4, lavare con una soluzione d'acido solforico al 10% e quindi 2 e 3 volte con l'alcool etilico. Lasciar seccare per un'ora nell'essiccatoio a 150 gradi.  
-Pesare il BaSO4 + PbSO4 .   
-  
-1.1.2. Dosaggio di BaO   
-Pesare con un'approssimazione di 0,0001 g circa 0,5 g di polvere di vetro ed introdurli in un crogiuolo di platino. Inumidire con acqua ed aggiungere 10 ml d'acido fluoridrico e 5 ml d'acido perclorico.  
-Riscaldare al bagno di sabbia fino a quando si sviluppino vapori bianchi.   
-Lasciar raffreddare ed aggiungere nuovamente 10 ml di acido fluoridrico. Riscaldare fino a quando ricompaiono dei vapori bianchi.   
-Lasciar raffreddare e risciacquare le pareti del crogiuolo con acqua distillata. Riscaldare nuovamente ed evaporare quasi a secco.  
-Riprendere con 50 ml di acido cloridrico al 10% e riscaldare debolmente per facilitare la soluzione. Travasare in un recipiente di 400 ml e diluire con acqua a 200 ml. Portare ad ebollizione e far passare una corrente di idrogeno solforato nella soluzione calda.  
-Interrompere la corrente gassosa non appena il precipitato di solfuro di piombo si sia depositato sul fondo di recipiente. Filtrare su una carta da filtro a trama fitta e lavare con acqua fredda saturata di idrogeno solforato.   
-Far bollire i filtrati ed eventualmente ridurli a 300 ml mediante evaporazione. Aggiungere all'ebollizione 10 ml di una soluzione al 10% di acido solforico. Togliere dal fuoco e lasciare riposare per almeno 4 ore.   
-Filtrare su carta da filtro a trama fitta, lavare con acqua fredda, quindi calcinare il precipitato a 1050 gradi C e pesare BaSO4 .   
-  
-1.2. Dosaggio di ZnO   
-Evaporare i filtrati derivati dalla separazione di BaSO4 in modo da ridurre il loro volume a 200 ml. Neutralizzare con l'ammoniaca in presenza di rosso di metile ed aggiungere 20 ml di acido solforico N/10. Portare il ph a 2 (ph-metro) aggiungendo acido solforico N/10 o soda caustica N/10 secondo il caso e precipitare a freddo il solfuro di zinco immettendo una corrente di idrogeno solforato. Lasciare depositare il precipitato per 4 ore, poi raccoglierlo su una carta da filtro a trama fitta. Lavare con acqua fredda saturata di idrogeno solforato. Sciogliere il precipitato sul filtro versandovi 25 ml di una soluzione calda di acido cloridrico al 10%. Lavare il filtro con acqua bollente fino ad ottenere un volume di 150 ml circa.  
-Neutralizzare con ammoniaca in presenza di una cartina di tornasole, quindi aggiungere 1 - 2 g d'urotropina solida per fissare il ph a circa 5. Aggiungere alcune gocce di una soluzione acquosa allo 0,5% di soluzione di arancione di xilenolo appena preparata e titolare mediante una soluzione di complesso III N/10 fino al viraggio dal rosa al giallo limone.   
-  
-1.3. Dosaggio di K2 O   
-Mediante precipitazione e pesatura del tetrafenil-boruro di K.   
-Soluzione: 2 g di vetro vengono sciolti dopo rottura e passaggio al setaccio mediante   
-  
-  
-2 cc di HNO3 conc.  
-
-((15 cc HCIO (4 in pedice))
-
-),  
-
-((25 cc HF))
-
-  
-  
-  
-in un crogiuolo di platino a bagnomaria, quindi al bagno di sabbia.  
-Dopo la scomparsa dei grandi vapori perclorici (portare fino ad essiccazione), sciogliere mediante 20 cc di acqua calda e 2 - 3 cc HCI conc.   
-Travasare in un pallone graduato di 200 cc e portare al volume mediante acqua distillata.   
-Reattivi: Soluzione di tetrafenil-boruro di sodio al 6%: sciogliere 1,5 g del reattivo in 205 cc di acqua distillata. Eliminare il lieve intorbidamento formatosi aggiungendo un g di alluminio idrato.  
-Agitare 5 minuti e filtrare avendo cura di passare nuovamente sul filtro i primi 2,0 cc ottenuti.   
-Soluzione di lavaggio del precipitato: preparare un po' di sale di K mediante precipitazione in una soluzione di circa 0,1 g KCI per 50 ml HCIN/10, in cui si versa agitando la soluzione di tetrafenil-boruro fino a cessazione del precipitato. Filtrare sulla fritta. Lavare con acqua distillata. Seccare in un essiccatoio a temperatura ambiente. Versare quindi 20 - 30 mg di questo sale in 250 cc d'acqua distillata. Agitare di tanto in tanto. Dopo 30 minuti aggiungere 0,5 - 1 g d'alluminio idratato. Agitare per alcuni minuti e quindi filtrare.   
-Esecuzione: Prelevare sul liquido cloridrico di soluzione un volume corrispondente a circa 10 mg di K2 O. Diluire a 100 cc circa. Versare lentamente la soluzione del reattivo, e precisamente 10 cc per 5 mg di K2 O stimati, agitando moderatamente. Lasciare riposare 15 minuti al massimo, quindi filtrare su un crogiuolo sintetizzato tarato n. 3 o 4. Lavare con soluzione di lavaggio. Essiccare per 30 minuti a 120 gradi C. Fattore di conversione 0.13143 per K2 O.   
-  
-1.4. Tolleranze   
-± 0,1 in valore assoluto su ogni dosaggio.   
-Se, nelle tolleranze, dall'analisi risulta un valore inferiore ai limiti fissati (30,24 o 10%), occorre considerare la media di almeno 3 analisi. Se essa e' superiore o pari rispettivamente a 29,95; 23,95 o 9,95 il vetro deve essere ammesso nelle categorie corrispondenti rispettivamente a 30,24 e 10%.   
-  
-2. DETERMINAZIONI FISICHE   
-2.1. Densita'   
-Metodo della bilancia idrostatica con una approssimazione di ± 0,01. Un campione di almeno 20 g e' pesato all'aria, e quindi immerso nell'acqua distillata a 20 gradi C.   
-  
-2.2. Indice di rifrazione   
-L'indice misurato al rifrattometro con una approssimazione di ± 0,0001.   
-  
-2.3. Microdurezza   
-La durezza Vickers va misurata secondo le norme ASTM E 92 - 65 (Revisione 1965), ma impiegando un peso di 50 g e considerando la media di 15 determinazioni.   
-  
-Il Ministro per l'industria, il commercio e l'artigianato   
-DE MITA
+LEONE RUMOR - DE MITA - MORO - ZAGARI - COLOMBO - MATTEOTTI Visto, il Guardasigilli: ZAGARI

@@ -1,133 +1,102 @@
-DECRETO LEGISLATIVO 07 luglio 2011 n. 124
+---
+tipo: DECRETO LEGISLATIVO
+numero: 124
+data: 2011-07-07
+titolo: "Attuazione della direttiva 2008/72/CE del Consiglio del 15 luglio 2008 relativa alla commercializzazione delle piantine di ortaggi e dei materiali di moltiplicazione di ortaggi, ad eccezione delle sementi. (11G0172)"
+urn: urn:nir:stato:decreto.legislativo:2011-07-07;124
+codice_redazionale: 011G0172
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 07 luglio 2011 n. 124
-=========================================
+((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 18))
 
-Attuazione della direttiva 2008/72/CE del Consiglio del 15 luglio 2008 relativa alla commercializzazione delle piantine di ortaggi e dei materiali di moltiplicazione di ortaggi, ad eccezione delle sementi. (11G0172)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 18/08/2011
+((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 18))
 
-Art. 1
-------
+## Art. 3.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;18)))
+((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 18))
 
-Art. 2
-------
+## Art. 4.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;18)))
+((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 18))
 
-Art. 3
-------
+## Art. 5.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;18)))
+((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 18))
 
-Art. 4
-------
+## Art. 6.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;18)))
+((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 18))
 
-Art. 5
-------
+## Art. 7.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;18)))
+((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 18))
 
-Art. 6
-------
+## Art. 8. — Condizioni generali per la commercializzazione
 
-((ARTICOLO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;18)))
+1.
 
-Art. 7
-------
+((COMMA ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 18)).
 
-((ARTICOLO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;18)))
+2.
 
-Art. 8
-------
+Le piantine di ortaggi ed i materiali di moltiplicazione di ortaggi costituiti da un organismo geneticamente modificato ai sensi dell'[articolo 2, numeri 1)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::2001;18#art_2-num1) e [2) della direttiva 2001/18/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;18), possono essere immessi sul mercato solo se l'organismo geneticamente modificato e' stato autorizzato in conformita' a tale direttiva o al regolamento (CE) n. 1829/2003.
 
-Condizioni generali per la commercializzazione
+3.
 
-1. 
+Le piantine di ortaggi ed i materiali di moltiplicazione di ortaggi costituiti da un organismo geneticamente modificato devono essere detenuti, prodotti e coltivati nel rispetto delle vigenti norme di coesistenza tra colture transgeniche, convenzionali e biologiche.
 
-((COMMA ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;18)))
+4.
 
-.
+((COMMA ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 18)).
 
-2. Le piantine di ortaggi ed i materiali di moltiplicazione di ortaggi costituiti da un organismo geneticamente modificato ai sensi dell'[articolo 2, numeri 1)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::2001;18~art2-num1) e [2) della direttiva 2001/18/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32001L0018), possono essere immessi sul mercato solo se l'organismo geneticamente modificato e' stato autorizzato in conformita' a tale direttiva o al [regolamento (CE) n. 1829/2003](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32003R1829).
+5.
 
-3. Le piantine di ortaggi ed i materiali di moltiplicazione di ortaggi costituiti da un organismo geneticamente modificato devono essere detenuti, prodotti e coltivati nel rispetto delle vigenti norme di coesistenza tra colture transgeniche, convenzionali e biologiche.
+((COMMA ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 18)).
 
-4. 
+6.
 
-((COMMA ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;18)))
+((COMMA ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 18)).
 
-.
+## Art. 9.
 
-5. 
+((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 18))
 
-((COMMA ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;18)))
+## Art. 10. — Etichettatura ed identificazione dei materiali 
+ e delle piante GM
 
-.
+1.
 
-6. 
+Nel caso di materiali di moltiplicazione o di piantine di ortaggi di una varieta' che e' stata geneticamente modificata, qualunque etichetta e documento ufficiale o di altro tipo, apposto sui materiali o che accompagna gli stessi a norma del presente decreto, deve indicare chiaramente che la varieta' e' stata geneticamente modificata e deve specificare la modifica geneticamente introdotta.
 
-((COMMA ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;18)))
+## Art. 11.
 
-.
+((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 18))
 
-Art. 9
-------
+## Art. 12.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;18)))
+((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 18))
 
-Art. 10
--------
+## Art. 13.
 
-Etichettatura ed identificazione dei materiali   
-e delle piante GM
+((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 18))
 
-1. Nel caso di materiali di moltiplicazione o di piantine di ortaggi di una varieta' che e' stata geneticamente modificata, qualunque etichetta e documento ufficiale o di altro tipo, apposto sui materiali o che accompagna gli stessi a norma del presente decreto, deve indicare chiaramente che la varieta' e' stata geneticamente modificata e deve specificare la modifica geneticamente introdotta.
+## Art. 14.
 
-Art. 11
--------
+((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 18))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;18)))
+## Art. 15.
 
-Art. 12
--------
+((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 18))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;18)))
+## Art. 16.
 
-Art. 13
--------
+((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 18))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;18)))
+## Art. 17.
 
-Art. 14
--------
-
-((ARTICOLO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;18)))
-
-Art. 15
--------
-
-((ARTICOLO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;18)))
-
-Art. 16
--------
-
-((ARTICOLO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;18)))
-
-Art. 17
--------
-
-((ARTICOLO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;18)))
-
-Allegato A
-
- Allegato A   
-  
-
-((ALLEGATO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;18)))
+((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 18))

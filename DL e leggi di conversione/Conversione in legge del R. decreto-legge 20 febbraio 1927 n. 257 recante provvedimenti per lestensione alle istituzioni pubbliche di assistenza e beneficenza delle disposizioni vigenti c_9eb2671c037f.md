@@ -1,16 +1,14 @@
-LEGGE 18 dicembre 1927 n. 2683
+---
+tipo: LEGGE
+numero: 2683
+data: 1927-12-18
+titolo: "Conversione in legge del R. decreto-legge 20 febbraio 1927, n. 257, recante provvedimenti per l'estensione alle istituzioni pubbliche di assistenza e beneficenza delle disposizioni vigenti circa la revisione ed approvazione dei conti dei Comuni e delle Provincie e disposizioni transitorie per la definizione dei conti arretrati dei detti enti. (027U2683)"
+urn: urn:nir:stato:legge:1927-12-18;2683
+codice_redazionale: 027U2683
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 18 dicembre 1927 n. 2683
-==============================
-
-Conversione in legge del R. decreto-legge 20 febbraio 1927, n. 257, recante provvedimenti per l'estensione alle istituzioni pubbliche di assistenza e beneficenza delle disposizioni vigenti circa la revisione ed approvazione dei conti dei Comuni e delle Provincie e disposizioni transitorie per la definizione dei conti arretrati dei detti enti. (027U2683)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/01/1928
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO   
-CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO 
+ CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))

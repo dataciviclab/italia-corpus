@@ -1,98 +1,64 @@
-DECRETO-LEGGE 11 febbraio 1991 n. 38
+---
+tipo: DECRETO-LEGGE
+numero: 38
+data: 1991-02-11
+titolo: "Interventi urgenti per Venezia e Chioggia e per Roma capitale, nonche' misure urgenti destinate ad altre aree del territorio nazionale."
+urn: urn:nir:stato:decreto.legge:1991-02-11;38
+codice_redazionale: 091G0071
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 11 febbraio 1991 n. 38
-====================================
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 8 NOVEMBRE 1991, N. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-08;360)
 
-Interventi urgenti per Venezia e Chioggia e per Roma capitale, nonche' misure urgenti destinate ad altre aree del territorio nazionale.
----------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 11/2/1991.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 8 NOVEMBRE 1991, N. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-08;360)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 8 NOVEMBRE 1991, N. 360](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-08;360)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 8 NOVEMBRE 1991, N. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-08;360)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 8 NOVEMBRE 1991, N. 360](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-08;360)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 8 NOVEMBRE 1991, N. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-08;360)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 8 NOVEMBRE 1991, N. 360](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-08;360)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 8 NOVEMBRE 1991, N. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-08;360)
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 8 NOVEMBRE 1991, N. 360](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-08;360)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 8 NOVEMBRE 1991, N. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-08;360)
 
-Art. 5
-------
+## Art. 7.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 8 NOVEMBRE 1991, N. 360](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-08;360)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 8 NOVEMBRE 1991, N. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-08;360)
 
-Art. 6
-------
+## Art. 8.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 8 NOVEMBRE 1991, N. 360](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-08;360)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 8 NOVEMBRE 1991, N. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-08;360)
 
-Art. 7
-------
+## Art. 9.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 8 NOVEMBRE 1991, N. 360](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-08;360)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 8 NOVEMBRE 1991, N. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-08;360)
 
-Art. 8
-------
+## Art. 10.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 8 NOVEMBRE 1991, N. 360](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-08;360)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 8 NOVEMBRE 1991, N. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-08;360)
 
-Art. 9
-------
+## Art. 11.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 8 NOVEMBRE 1991, N. 360](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-08;360)
-  
-
-Art. 10
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 8 NOVEMBRE 1991, N. 360](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-08;360)
-  
-
-Art. 11
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 8 NOVEMBRE 1991, N. 360](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-08;360)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 8 NOVEMBRE 1991, N. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-08;360)

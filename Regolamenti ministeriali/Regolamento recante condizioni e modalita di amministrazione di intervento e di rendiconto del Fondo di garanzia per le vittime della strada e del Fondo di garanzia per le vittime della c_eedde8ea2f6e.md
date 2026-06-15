@@ -1,30 +1,28 @@
-DECRETO 28 aprile 2008 n. 98
-
-
-DECRETO 28 aprile 2008 n. 98
-============================
-
-Regolamento recante condizioni e modalita' di amministrazione, di intervento e di rendiconto del Fondo di garanzia per le vittime della strada e del Fondo di garanzia per le vittime della caccia, nonche' composizione dei relativi comitati, ai sensi degli articoli 285 e 303 del decreto legislativo 7 settembre 2005, n. 209.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/6/2008
+---
+tipo: DECRETO
+numero: 98
+data: 2008-04-28
+titolo: "Regolamento recante condizioni e modalita' di amministrazione, di intervento e di rendiconto del Fondo di garanzia per le vittime della strada e del Fondo di garanzia per le vittime della caccia, nonche' composizione dei relativi comitati, ai sensi degli articoli 285 e 303 del decreto legislativo 7 settembre 2005, n. 209."
+urn: urn:nir:ministero.sviluppo.economico:decreto:2008-04-28;98
+codice_redazionale: 008G0118
+vigente: true
+---
 
 IL MINISTRO
------------
 
 DELLO SVILUPPO ECONOMICO
 
-Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3);
+Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-Visto il [decreto legislativo 7 settembre 2005, n. 209](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-07;209), recante il [Codice delle assicurazioni private](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-07;209);
+Visto il [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), recante il [Codice delle assicurazioni private](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md);
 
 Visto l'articolo 285 del predetto Codice concernente il Fondo di garanzia per le vittime della strada;
 
 Visto l'articolo 303 dello stesso Codice concernente il Fondo di garanzia per le vittime della caccia;
 
-Considerata l'opportunita' di dare attuazione alle disposizioni di cui all'articolo 285, comma 2, e all'articolo 303, comma 2, del predetto [Codice delle assicurazioni private](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-07;209) mediante un unico testo regolamentare, per le rilevanti analogie di contenuti e disciplina intercorrenti tra le due previsioni normative;
+Considerata l'opportunita' di dare attuazione alle disposizioni di cui all'articolo 285, comma 2, e all'articolo 303, comma 2, del predetto [Codice delle assicurazioni private](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md) mediante un unico testo regolamentare, per le rilevanti analogie di contenuti e disciplina intercorrenti tra le due previsioni normative;
 
-Visto il [decreto-legge 18 maggio 2006, n. 181](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-05-18;181), convertito, con modificazioni, dalla [legge 17 luglio 2006, n. 233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-07-17;233);
+Visto il [decreto-legge 18 maggio 2006, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-05-18;181), convertito, con modificazioni, dalla [legge 17 luglio 2006, n. 233](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20maggio%202006%20n.%20181%20recante%20disposizioni%20urgenti%20in%20materia%20di%20riordino%20delle%20attribuzioni%20della%20Presidenza%20del%20Consiglio%20dei%20Mi_b54721a56e19.md);
 
 Visti i pareri del Ministero dell'economia e delle finanze, del Ministero del lavoro e della previdenza sociale e dell'Istituto per la vigilanza sulle assicurazioni private e di interesse collettivo;
 
@@ -32,678 +30,745 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 
 Vista la comunicazione della Presidenza del Consiglio dei Ministri n. DAGL/10.2.2.1/17/2008 del 22 aprile 2008;
 
-Adotta
-------
+Adotta il seguente regolamento:
 
-il seguente regolamento:
+## Disposizioni generali
 
-CAPO I Capo I Disposizioni generali
------------------------------------
+Capo I
 
-### Art. 1
+### Art. 1. — Oggetto del regolamento e definizioni
 
-Oggetto del regolamento e definizioni
+1.
 
-1. Il presente regolamento disciplina le condizioni e le modalita' di amministrazione, di intervento e di rendiconto del Fondo di garanzia per le vittime della strada e del Fondo di garanzia per le vittime della caccia nonche' la composizione dei comitati di cui rispettivamente all'[articolo 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-07;209~art285) e all'[articolo 303 del Codice delle assicurazioni private](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-07;209~art303).
+Il presente regolamento disciplina le condizioni e le modalita' di amministrazione, di intervento e di rendiconto del Fondo di garanzia per le vittime della strada e del Fondo di garanzia per le vittime della caccia nonche' la composizione dei comitati di cui rispettivamente all'[articolo 285](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md) e all'[articolo 303 del Codice delle assicurazioni private](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md).
 
-2. Ai fini del presente regolamento si intendono per:
+2.
 
-a) Codice: il [decreto legislativo 7 settembre 2005, n. 209](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-07;209), recante il [Codice delle assicurazioni private](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-07;209);
+Ai fini del presente regolamento si intendono per:
+                            a)
+                                Codice: il [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), recante il [Codice delle assicurazioni private](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md);
+                            b)
+                                CONSAP: la Concessionaria servizi assicurativi pubblici S.p.A.;
+                            c)
+                                Fondo strada: il Fondo di garanzia per le vittime della strada previsto dall'articolo 283 del Codice;
+                            d)
+                                Fondo caccia: il Fondo di garanzia per le vittime della caccia previsto dall'articolo 302 del Codice;
+                            e)
+                                Organismo di indennizzo: l'Organismo di indennizzo italiano previsto dall'articolo 296 del Codice;
+                            f)
+                                IVASS: Istituto per la vigilanza sulle assicurazioni.
 
-b) CONSAP: la Concessionaria servizi assicurativi pubblici S.p.A.;
+## Norme per la gestione del Fondo strada
 
-c) Fondo strada: il Fondo di garanzia per le vittime della strada previsto dall'articolo 283 del Codice;
+Capo II
 
-d) Fondo caccia: il Fondo di garanzia per le vittime della caccia previsto dall'articolo 302 del Codice;
+### Art. 2. — Composizione del comitato
 
-e) Organismo di indennizzo: l'Organismo di indennizzo italiano previsto dall'articolo 296 del Codice;
+1.
 
-((
+Il comitato previsto dall'articolo 285, comma 1, del Codice e' presieduto dal presidente, o in sua vece, dall'amministratore delegato della CONSAP, che ne sono membri di diritto.
 
-f) IVASS: Istituto per la vigilanza sulle assicurazioni.
+2.
 
-))
+Fanno altresi' parte del comitato di cui al comma 1:
+                            a)
+                                due rappresentanti del Ministero dello sviluppo economico;
+                            b)
+                                un rappresentante del Ministero dell'economia e delle finanze;
+                            c)
+                                un rappresentante dell'((IVASS));
+                            d)
+                                il dirigente della CONSAP, coordinatore delle attivita' del Fondo strada;
+                            e)
+                                due rappresentanti delle imprese di assicurazione e riassicurazione con qualificata esperienza nel settore delle assicurazioni private designati dall'Associazione di categoria piu' rappresentativa sul piano nazionale;
+                            f)
+                                un rappresentante dei consumatori designato dal Consiglio nazionale dei consumatori e degli utenti.
 
-CAPO II Capo II Norme per la gestione del Fondo strada
-------------------------------------------------------
+3.
 
-### Art. 2
+I componenti il comitato sono nominati con decreto del Ministro dello sviluppo economico per la durata di un triennio. L'ufficio di segreteria del comitato e' composto da due membri, di cui un funzionario del Ministero dello sviluppo economico ed un dipendente della CONSAP.
 
-Composizione del comitato
+### Art. 3. — Attribuzioni del Comitato e validita' delle deliberazioni
 
-1. Il comitato previsto dall'articolo 285, comma 1, del Codice e' presieduto dal presidente, o in sua vece, dall'amministratore delegato della CONSAP, che ne sono membri di diritto.
+1.
 
-2. Fanno altresi' parte del comitato di cui al comma 1:
+Spetta al comitato di cui all'articolo 2 fornire parere al consiglio di amministrazione della CONSAP:
+                            a)
+                                sulle questioni relative all'applicazione delle disposizioni di legge concernenti il Fondo strada;
+                            b)
+                                sulla designazione delle imprese ai sensi dell'articolo 286, comma 1, del Codice;
+                            c)
+                                sulle convenzioni da stipularsi da parte della CONSAP quale gestore del Fondo strada;
+                            d)
+                                su ogni altra questione che il consiglio di amministrazione della CONSAP ritiene di sottoporgli.
 
-a) due rappresentanti del Ministero dello sviluppo economico;
+2.
 
-b) un rappresentante del Ministero dell'economia e delle finanze;
+Il comitato predispone il rendiconto di gestione del Fondo strada.
 
-c) un rappresentante dell'
+3.
 
-((IVASS))
+Le riunioni del comitato sono valide quando intervengono almeno cinque dei suoi componenti. Le deliberazioni sono adottate a maggioranza degli intervenuti. In caso di parita' di voti prevale quello del presidente. Ai membri del comitato e della segreteria spetta a carico del Fondo strada un gettone di presenza nella misura determinata dal consiglio di amministrazione della CONSAP.
 
-;
+### Art. 4. — Modalita' per la gestione del Fondo strada
 
-d) il dirigente della CONSAP, coordinatore delle attivita' del Fondo strada;
+1.
 
-((
+Il Fondo strada e' soggetto patrimoniale autonomo e separato.
 
-e) due rappresentanti delle imprese di assicurazione e riassicurazione con qualificata esperienza nel settore delle assicurazioni private designati dall'Associazione di categoria piu' rappresentativa sul piano nazionale;
+2.
 
-))
+La CONSAP tiene contabilita' e scritture separate per le operazioni attinenti alla gestione autonoma del Fondo strada, nonche' una separata amministrazione dei beni ad essa pertinenti, in modo che risulti identificato il patrimonio destinato a rispondere delle obbligazioni del Fondo stesso.
 
-f) un rappresentante dei consumatori designato dal Consiglio nazionale dei consumatori e degli utenti.
+3.
 
-3. I componenti il comitato sono nominati con decreto del Ministro dello sviluppo economico per la durata di un triennio. L'ufficio di segreteria del comitato e' composto da due membri, di cui un funzionario del Ministero dello sviluppo economico ed un dipendente della CONSAP.
+Il consiglio di amministrazione della CONSAP, nel deliberare sull'impiego delle somme disponibili, tiene conto delle esigenze di liquidita' del Fondo. Le somme disponibili sono investite esclusivamente in titoli emessi o garantiti dallo Stato italiano.
 
-### Art. 3
+### Art. 5. — Rendiconto della gestione del Fondo strada
 
-Attribuzioni del Comitato e validita' delle deliberazioni
+1.
 
-1. Spetta al comitato di cui all'articolo 2 fornire parere al consiglio di amministrazione della CONSAP:
+Il rendiconto della gestione del Fondo strada, approvato dal consiglio di amministrazione della CONSAP, e' trasmesso, unitamente ad una relazione dello stesso consiglio, al Ministero dello sviluppo economico entro il 30 settembre dell'anno successivo a quello cui esso si riferisce.
 
-a) sulle questioni relative all'applicazione delle disposizioni di legge concernenti il Fondo strada;
+2.
 
-b) sulla designazione delle imprese ai sensi dell'articolo 286, comma 1, del Codice;
+Il rendiconto comprende le seguenti voci:
+                            a)
+                                in entrata:
+ 1) contributi di competenza dell'esercizio;
+ 2) redditi ricavati dall'impiego delle somme disponibili;
+ 3) interessi attivi diversi;
+ 4) somme recuperate dalle imprese designate in dipendenza di azioni di regresso e di surroga;
+ 5) somme recuperate direttamente dal Fondo strada in dipendenza di azioni di surroga verso imprese poste in liquidazione coatta amministrativa;
+ 6) somme rimborsate dagli Organismi di indennizzo e Fondi di garanzia esteri ovvero da compagnie assicurative italiane;
+ 7) sanzioni amministrative;
+ 8) proventi derivanti dalla gestione dell'Organismo di indennizzo;
+ 9) altre entrate, da indicare analiticamente;
+ 10) eventuale disavanzo;
+                            b)
+                                in uscita:
+ 1) somme corrisposte per indennizzi, distinte in relazione alle fattispecie di cui alle lettere a), b), c), d), d-bis) e d-ter) dell'articolo 283, comma 1, ed all'articolo 284, nonche' agli articoli 297 e 299 del Codice;
+ 2) somme pagate dal Fondo strada per spese di liquidazione in caso di applicazione del disposto di cui all'articolo 293, comma 1, del Codice;
+ 3) spese sostenute dal Fondo strada e dell'Organismo di indennizzo;
+ 4) interessi passivi sulle somme anticipate dalle imprese designate per pagamenti di sinistri e relative spese di liquidazione, calcolati secondo le modalita' previste dalle convenzioni di cui all'articolo 286, comma 2, del Codice;
+ 5) altre uscite, da indicare analiticamente;
+ 6) eventuale avanzo.
 
-c) sulle convenzioni da stipularsi da parte della CONSAP quale gestore del Fondo strada;
+### Art. 6. — Situazione patrimoniale del Fondo strada
 
-d) su ogni altra questione che il consiglio di amministrazione della CONSAP ritiene di sottoporgli.
+1.
 
-2. Il comitato predispone il rendiconto di gestione del Fondo strada.
+Il rendiconto di cui all'articolo 5 e' accompagnato da una situazione patrimoniale dalla quale risultino alla fine dell'esercizio:
+                            a)
+                                nell'attivo:
+ 1 ) i depositi presso Istituti di credito;
+ 2) le altre attivita' mobiliari, da indicare analiticamente;
+ 3) i crediti per contributi non incassati;
+ 4) le altre partite creditorie, da indicare analiticamente;
+                            b)
+                                nel passivo:
+ 1) i debiti verso le imprese designate per i rimborsi di somme da queste anticipate per il pagamento di sinistri, spese di liquidazione e relativi interessi;
+ 2) le altre partite debitorie, da indicare analiticamente.
 
-3. Le riunioni del comitato sono valide quando intervengono almeno cinque dei suoi componenti. Le deliberazioni sono adottate a maggioranza degli intervenuti. In caso di parita' di voti prevale quello del presidente. Ai membri del comitato e della segreteria spetta a carico del Fondo strada un gettone di presenza nella misura determinata dal consiglio di amministrazione della CONSAP.
+2.
 
-### Art. 4
+In apposita sezione separata del passivo e' posto in evidenza il patrimonio netto costituito dall'avanzo o dal disavanzo risultante dal rendiconto di cui all'articolo 5 e dall'ammontare complessivo dei risultati degli esercizi precedenti.
 
-Modalita' per la gestione del Fondo strada
+3.
 
-1. Il Fondo strada e' soggetto patrimoniale autonomo e separato.
+Tra i conti d'ordine viene indicato l'ammontare presumibile dei sinistri avvenuti e non ancora pagati alla fine dell'esercizio cui si riferisce il rendiconto.
 
-2. La CONSAP tiene contabilita' e scritture separate per le operazioni attinenti alla gestione autonoma del Fondo strada, nonche' una separata amministrazione dei beni ad essa pertinenti, in modo che risulti identificato il patrimonio destinato a rispondere delle obbligazioni del Fondo stesso.
+4.
 
-3. Il consiglio di amministrazione della CONSAP, nel deliberare sull'impiego delle somme disponibili, tiene conto delle esigenze di liquidita' del Fondo. Le somme disponibili sono investite esclusivamente in titoli emessi o garantiti dallo Stato italiano.
+Ai fini della determinazione del contributo di cui all'articolo 285 del Codice, il rendiconto e' altresi' corredato da un prospetto dal quale risulta, in base alle comunicazioni effettuate, a seconda dei casi, dalle imprese designate o dal commissario liquidatore autorizzato ai sensi dell'articolo 293 del Codice, l'ammontare presumibile dei danni per sinistri avvenuti e non ancora pagati dai predetti soggetti alla fine dell'esercizio cui si riferisce il rendiconto.
 
-### Art. 5
+5.
 
-Rendiconto della gestione del Fondo strada
+Gli importi suddetti sono distinti a seconda che si riferiscano:
+                            a)
+                                ai sinistri avvenuti nell'esercizio stesso o in esercizi anteriori;
+                            b)
+                                ai sinistri di cui alle lettere a), b), c), d), d-bis) e d-ter) dell'articolo 283, comma 1, del Codice.
 
-1. Il rendiconto della gestione del Fondo strada, approvato dal consiglio di amministrazione della CONSAP, e' trasmesso, unitamente ad una relazione dello stesso consiglio, al Ministero dello sviluppo economico entro il 30 settembre dell'anno successivo a quello cui esso si riferisce.
+### Art. 7. — Vigilanza governativa sul Fondo strada
 
-2. Il rendiconto comprende le seguenti voci:
+1.
 
-a) in entrata:  
-1) contributi di competenza dell'esercizio;  
-2) redditi ricavati dall'impiego delle somme disponibili;  
-3) interessi attivi diversi;  
-4) somme recuperate dalle imprese designate in dipendenza di azioni di regresso e di surroga;  
-5) somme recuperate direttamente dal Fondo strada in dipendenza di azioni di surroga verso imprese poste in liquidazione coatta amministrativa;  
-6) somme rimborsate dagli Organismi di indennizzo e Fondi di garanzia esteri ovvero da compagnie assicurative italiane;  
-7) sanzioni amministrative;  
-8) proventi derivanti dalla gestione dell'Organismo di indennizzo;  
-9) altre entrate, da indicare analiticamente;  
-10) eventuale disavanzo;
+Il Ministero dello sviluppo economico puo' chiedere in qualunque momento al Fondo strada notizie e dati sulla gestione del Fondo stesso e disporre accertamenti ove lo ritenga necessario.
 
-b) in uscita:  
-1) somme corrisposte per indennizzi, distinte in relazione alle fattispecie di cui alle lettere a), b), c), d), d-bis) e d-ter) dell'articolo 283, comma 1, ed all'articolo 284, nonche' agli articoli 297 e 299 del Codice;  
-2) somme pagate dal Fondo strada per spese di liquidazione in caso di applicazione del disposto di cui all'articolo 293, comma 1, del Codice;  
-3) spese sostenute dal Fondo strada e dell'Organismo di indennizzo;  
-4) interessi passivi sulle somme anticipate dalle imprese designate per pagamenti di sinistri e relative spese di liquidazione, calcolati secondo le modalita' previste dalle convenzioni di cui all'articolo 286, comma 2, del Codice;  
-5) altre uscite, da indicare analiticamente;  
-6) eventuale avanzo.
+### Art. 8. — Contributo da corrispondere al Fondo strada
 
-### Art. 6
+1.
 
-Situazione patrimoniale del Fondo strada
+Entro il 31 dicembre di ciascun anno il Ministro dello sviluppo economico determina con proprio decreto, tenuto conto dei risultati dell'esercizio che sono determinati nel rendiconto della gestione dell'anno precedente, la misura del contributo che le imprese sono tenute a versare nell'anno successivo al Fondo strada.
 
-1. Il rendiconto di cui all'articolo 5 e' accompagnato da una situazione patrimoniale dalla quale risultino alla fine dell'esercizio:
+2.
 
-a) nell'attivo:  
-1 ) i depositi presso Istituti di credito;  
-2) le altre attivita' mobiliari, da indicare analiticamente;  
-3) i crediti per contributi non incassati;  
-4) le altre partite creditorie, da indicare analiticamente;
+Entro il 31 gennaio di ogni anno le imprese versano un contributo provvisorio relativo all'anno stesso, determinato applicando l'aliquota stabilita per detto anno ai premi incassati risultanti dall'ultimo bilancio approvato, al netto degli oneri di gestione determinati con provvedimento dell'((IVASS)).
 
-b) nel passivo:  
-1) i debiti verso le imprese designate per i rimborsi di somme da queste anticipate per il pagamento di sinistri, spese di liquidazione e relativi interessi;  
-2) le altre partite debitorie, da indicare analiticamente.
+3.
 
-2. In apposita sezione separata del passivo e' posto in evidenza il patrimonio netto costituito dall'avanzo o dal disavanzo risultante dal rendiconto di cui all'articolo 5 e dall'ammontare complessivo dei risultati degli esercizi precedenti.
+Il conguaglio fra la somma effettivamente dovuta dall'impresa e quella anticipata ai sensi del comma 2, nonche' il versamento del saldo a debito o credito dell'impresa stessa, sono effettuati sulla base dei premi incassati risultanti dal bilancio dell'esercizio cui si riferisce la somma anticipata, entro il 30 settembre successivo alla data di approvazione di detto bilancio.
 
-3. Tra i conti d'ordine viene indicato l'ammontare presumibile dei sinistri avvenuti e non ancora pagati alla fine dell'esercizio cui si riferisce il rendiconto.
+### Art. 9. — Ritardato versamento del contributo
 
-4. Ai fini della determinazione del contributo di cui all'articolo 285 del Codice, il rendiconto e' altresi' corredato da un prospetto dal quale risulta, in base alle comunicazioni effettuate, a seconda dei casi, dalle imprese designate o dal commissario liquidatore autorizzato ai sensi dell'articolo 293 del Codice, l'ammontare presumibile dei danni per sinistri avvenuti e non ancora pagati dai predetti soggetti alla fine dell'esercizio cui si riferisce il rendiconto.
+1.
 
-5. Gli importi suddetti sono distinti a seconda che si riferiscano:
+In caso di ritardato versamento di tutto o di parte del contributo sono dovuti gli interessi di mora, al tasso legale, a decorrere dal giorno in cui il versamento stesso avrebbe dovuto essere effettuato.
 
-a) ai sinistri avvenuti nell'esercizio stesso o in esercizi anteriori;
+### Art. 10. — Designazione delle imprese
 
-b) ai sinistri di cui alle lettere a), b), c), d), d-bis) e d-ter) dell'articolo 283, comma 1, del Codice.
+1.
 
-### Art. 7
+L'((IVASS)) designa le imprese che provvedono alla liquidazione dei sinistri di cui all'articolo 283, comma 1, del Codice, per la durata di un triennio, sentito il consiglio di amministrazione della CONSAP e tenuto conto, per ciascuna impresa, della sua capacita' finanziaria e dell'esistenza di una adeguata organizzazione per la liquidazione dei sinistri.
 
-Vigilanza governativa sul Fondo strada
+2.
 
-1. Il Ministero dello sviluppo economico puo' chiedere in qualunque momento al Fondo strada notizie e dati sulla gestione del Fondo stesso e disporre accertamenti ove lo ritenga necessario.
+L'((IVASS)) con il provvedimento di cui al comma 1 indica anche le eventuali societa' di servizio di cui le imprese designate si avvalgono in via stragiudiziale per le attivita' di accertamento e di liquidazione dei danni posti a carico del Fondo strada.
 
-### Art. 8
+3.
 
-Contributo da corrispondere al Fondo strada
+I provvedimenti di designazione di cui al comma 1 sono pubblicati nella Gazzetta Ufficiale.
 
-1. Entro il 31 dicembre di ciascun anno il Ministro dello sviluppo economico determina con proprio decreto, tenuto conto dei risultati dell'esercizio che sono determinati nel rendiconto della gestione dell'anno precedente, la misura del contributo che le imprese sono tenute a versare nell'anno successivo al Fondo strada.
+### Art. 11. — Gestione separata delle imprese designate
 
-2. Entro il 31 gennaio di ogni anno le imprese versano un contributo provvisorio relativo all'anno stesso, determinato applicando l'aliquota stabilita per detto anno ai premi incassati risultanti dall'ultimo bilancio approvato, al netto degli oneri di gestione determinati con provvedimento dell'
+1.
 
-((IVASS))
+Le imprese designate tengono gestione separata dei sinistri di cui all'articolo 283, comma 1, del Codice, provvedendo a tutti gli adempimenti previsti dal presente regolamento.
 
-.
+2.
 
-3. Il conguaglio fra la somma effettivamente dovuta dall'impresa e quella anticipata ai sensi del comma 2, nonche' il versamento del saldo a debito o credito dell'impresa stessa, sono effettuati sulla base dei premi incassati risultanti dal bilancio dell'esercizio cui si riferisce la somma anticipata, entro il 30 settembre successivo alla data di approvazione di detto bilancio.
+Per la gestione di cui al comma 1 le imprese tengono separatamente tutti i registri richiesti dalla normativa in vigore.
 
-### Art. 9
+### Art. 12. — Intestazione della corrispondenza,
+ dei libri e dei documenti
 
-Ritardato versamento del contributo
+1.
 
-1. In caso di ritardato versamento di tutto o di parte del contributo sono dovuti gli interessi di mora, al tasso legale, a decorrere dal giorno in cui il versamento stesso avrebbe dovuto essere effettuato.
+La corrispondenza, i libri, i registri e tutti i documenti delle imprese designate relativi alle operazioni inerenti alla gestione separata dei sinistri di cui all'articolo 283, comma 1, del Codice recano, oltre alla denominazione dell'impresa e alle altre indicazioni prescritte, la seguente indicazione: «Impresa designata a norma dell'[articolo 286 del Codice delle assicurazioni private](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), per la liquidazione dei sinistri a carico del «Fondo di garanzia per le vittime della strada».
 
-### Art. 10
+2.
 
-Designazione delle imprese
+Le imprese designate non possono utilizzare l'intestazione di cui al comma 1 per la corrispondenza, i libri e i registri e tutti i documenti relativi alle operazioni che non rientrano nella gestione separata dei sinistri di cui all'articolo 283, comma 1, del Codice.
 
-1. L'
+### Art. 13. — Rendiconto delle imprese designate
 
-((IVASS))
+1.
 
-designa le imprese che provvedono alla liquidazione dei sinistri di cui all'articolo 283, comma 1, del Codice, per la durata di un triennio, sentito il consiglio di amministrazione della CONSAP e tenuto conto, per ciascuna impresa, della sua capacita' finanziaria e dell'esistenza di una adeguata organizzazione per la liquidazione dei sinistri.
+Il rendiconto degli oneri sostenuti in ciascun semestre che le imprese designate trasmettono al Fondo strada comprende le seguenti voci:
+                            a)
+                                pagamenti effettuati nel semestre, per indennizzi di sinistri avvenuti nell'esercizio e, distintamente, in esercizi anteriori; i predetti pagamenti sono anche distinti a seconda che si riferiscano a sinistri di cui alle lettere a), b), c), d), d-bis) e d-ter) dell'articolo 283, comma 1, del Codice;
+                            b)
+                                spese sostenute per la liquidazione dei sinistri di cui alla lettera a);
+                            c)
+                                quota delle spese generali sostenute nel semestre per la gestione separata dei sinistri di cui all'articolo 283 del Codice;
+                            d)
+                                somme recuperate dall'impresa nel semestre in dipendenza di azioni di regresso e di surroga, distinte a seconda che si riferiscano a sinistri avvenuti nell'esercizio o negli esercizi precedenti.
 
-2. L'
+2.
 
-((IVASS))
+Al rendiconto e' allegato un estratto del conto relativo alle operazioni di addebitamento e accreditamento effettuate nel semestre dall'impresa nei rapporti con il Fondo strada.
 
-con il provvedimento di cui al comma 1 indica anche le eventuali societa' di servizio di cui le imprese designate si avvalgono in via stragiudiziale per le attivita' di accertamento e di liquidazione dei danni posti a carico del Fondo strada.
+3.
 
-3. I provvedimenti di designazione di cui al comma 1 sono pubblicati nella Gazzetta Ufficiale.
+Dall'estratto conto di cui al comma 2 risultano:
+                            a)
+                                nella parte A:
+ 1) 1'importo dei sinistri, degli oneri e delle spese desunti dal relativo rendiconto per le voci a),
+                            b)
+                                e
+                            c)
+                                di cui al comma 1;
+ 2) l'importo degli interessi attivi sulle somme anticipate dall'impresa in conformita' di quanto stabilito nelle convenzioni di cui all'articolo 286, comma 2, del Codice;
+ 3) le altre somme eventualmente addebitate al Fondo strada;
+ 4) l'eventuale saldo a conguaglio;
+ b) nella parte B:
+ 1) l'importo dei rimborsi da parte del Fondo strada all'impresa per le somme da questa anticipate nel semestre per il pagamento di sinistri e relative spese di liquidazione;
+ 2) le somme recuperate nel semestre dall'impresa in dipendenza di azioni di regresso e di surroga, al netto delle relative spese;
+ 3) l'importo degli interessi passivi;
+ 4) le altre somme eventualmente accreditate al Fondo strada;
+ 5) l'eventuale saldo a conguaglio.
 
-### Art. 11
+4.
 
-Gestione separata delle imprese designate
+Il rendiconto e' trasmesso nel termine di quarantacinque giorni dalla scadenza del semestre al quale si riferisce.
 
-1. Le imprese designate tengono gestione separata dei sinistri di cui all'articolo 283, comma 1, del Codice, provvedendo a tutti gli adempimenti previsti dal presente regolamento.
+5.
 
-2. Per la gestione di cui al comma 1 le imprese tengono separatamente tutti i registri richiesti dalla normativa in vigore.
+Entro il mese di aprile dell'anno successivo a quello cui si riferiscono i rendiconti, le imprese designate trasmettono al Fondo strada un prospetto dal quale risulta l'ammontare presumibile dei danni per sinistri avvenuti e non ancora pagati alla fine dell'esercizio cui si riferisce il prospetto.
 
-### Art. 12
+6.
 
-Intestazione della corrispondenza,  
-dei libri e dei documenti
+Gli importi di cui al comma 5 sono distinti a seconda che si riferiscano ai sinistri avvenuti nell'esercizio medesimo o in esercizi anteriori. I medesimi importi sono anche distinti a seconda che si riferiscano a sinistri di cui alle lettere a), b), c), d), d-bis) e d-ter) dell'articolo 283, comma 1, del Codice.
 
-1. La corrispondenza, i libri, i registri e tutti i documenti delle imprese designate relativi alle operazioni inerenti alla gestione separata dei sinistri di cui all'articolo 283, comma 1, del Codice recano, oltre alla denominazione dell'impresa e alle altre indicazioni prescritte, la seguente indicazione: «Impresa designata a norma dell'[articolo 286 del Codice delle assicurazioni private](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-07;209~art286), per la liquidazione dei sinistri a carico del «Fondo di garanzia per le vittime della strada».
+7.
 
-2. Le imprese designate non possono utilizzare l'intestazione di cui al comma 1 per la corrispondenza, i libri e i registri e tutti i documenti relativi alle operazioni che non rientrano nella gestione separata dei sinistri di cui all'articolo 283, comma 1, del Codice.
+I documenti indicati nel presente articolo sono sottoscritti dai legali rappresentanti delle imprese designate.
 
-### Art. 13
+### Art. 14. — Convenzioni tra le imprese designate e il Fondo strada
 
-Rendiconto delle imprese designate
+1.
 
-1. Il rendiconto degli oneri sostenuti in ciascun semestre che le imprese designate trasmettono al Fondo strada comprende le seguenti voci:
+Il rimborso da parte del Fondo strada delle somme anticipate dalle imprese designate ai sensi dell'articolo 286, comma 1, del Codice e' effettuato secondo apposite convenzioni stipulate tra le imprese designate e il Fondo strada stesso, previste all'articolo 286, comma 2, del Codice.
 
-a) pagamenti effettuati nel semestre, per indennizzi di sinistri avvenuti nell'esercizio e, distintamente, in esercizi anteriori; i predetti pagamenti sono anche distinti a seconda che si riferiscano a sinistri di cui alle lettere a), b), c), d), d-bis) e d-ter) dell'articolo 283, comma 1, del Codice;
+2.
 
-b) spese sostenute per la liquidazione dei sinistri di cui alla lettera a);
+Le convenzioni di cui al comma 1 regolano in ogni caso:
+                            a)
+                                il termine entro il quale il Fondo strada comunica il proprio benestare o le sue eventuali osservazioni sui rendiconti semestrali, trasmessi dalle imprese a norma del presente regolamento;
+                            b)
+                                il termine entro il quale il Fondo strada, nei limiti delle proprie disponibilita', rimette alle imprese designate il saldo dei rendiconti semestrali;
+                            c)
+                                le modalita' per la determinazione degli interessi da riconoscere alle imprese sulle somme da queste anticipate per pagamenti di sinistri e relative spese di liquidazione;
+                            d)
+                                i casi di giustificata necessita' in cui le imprese potranno chiedere il rimborso di somme pagate per sinistri anche prima della scadenza del termine di cui alla lettera b);
+                            e)
+                                i criteri cui le imprese si attengono per determinare le spese di liquidazione dei sinistri di cui all'articolo 283, comma 1, del Codice e per calcolare la quota parte delle spese generali da imputarsi alla gestione separata di detti sinistri;
+                            f)
+                                i casi in cui le imprese chiedono il preventivo benestare al Fondo strada prima di procedere alla liquidazione dei sinistri, nonche' le procedure cui le imprese si attengono nei rapporti con il Fondo strada stesso in caso di contestazioni relative ai sinistri di cui all'articolo 283, comma 1, del Codice.
+                            g)
+                                le situazioni in cui il Fondo strada puo' avocare a se' l'istruttoria e la definizione di singoli sinistri o gruppi di sinistri dando poi disposizione alla impresa designata o alla societa' di servizio per il successivo pagamento;
+                            h)
+                                le modalita' da seguire da parte delle societa' di servizio in ordine ai rapporti diretti con il Fondo strada circa la gestione di singoli sinistri;
+                            i)
+                                i criteri di adeguata diversificazione in ordine all'assegnazione degli incarichi ai professionisti per la quantificazione dei danni fisici e materiali o ai legali per l'assistenza dell'impresa in giudizio;
+                            l)
+                                l'impegno delle imprese designate e delle eventuali societa' di servizio, nelle varie fasi di trattazione del sinistro, a rispettare termini predeterminati;
+                            m)
+                                l'obbligo per le imprese designate e le societa' di servizio, quando corrispondono compensi per l'eventuale assistenza prestata da professionisti, di richiedere la documentazione probatoria relativa alla prestazione stessa e di indicare il corrispettivo separatamente rispetto alle voci di danno nella quietanza di liquidazione, nonche' l'obbligo per le stesse, nell'ipotesi di pagamento diretto dei compensi dovuti al professionista, di darne comunicazione al danneggiato, in conformita' a quanto previsto dall'articolo 148, comma 11, del Codice, con esclusione dei casi in cui gli importi sono stati liquidati in sentenza;
+                            n)
+                                l'obbligo per le imprese designate e le societa' di servizio, per l'attivita' di liquidazione dei sinistri a carico del Fondo strada, di mettere a disposizione dei soggetti danneggiati strutture adeguate sia per distribuzione sul territorio, sia per accessibilita' all'utenza, anche in relazione agli orari di apertura.
 
-c) quota delle spese generali sostenute nel semestre per la gestione separata dei sinistri di cui all'articolo 283 del Codice;
+### Art. 15. — Obbligo per le imprese designate di fornire al Fondo strada dati ed elementi sulla gestione di sinistri e vigilanza governativa sulle imprese designate.
 
-d) somme recuperate dall'impresa nel semestre in dipendenza di azioni di regresso e di surroga, distinte a seconda che si riferiscano a sinistri avvenuti nell'esercizio o negli esercizi precedenti.
+1.
 
-2. Al rendiconto e' allegato un estratto del conto relativo alle operazioni di addebitamento e accreditamento effettuate nel semestre dall'impresa nei rapporti con il Fondo strada.
-
-3. Dall'estratto conto di cui al comma 2 risultano:
-
-a) nella parte A:  
-1) 1'importo dei sinistri, degli oneri e delle spese desunti dal relativo rendiconto per le voci a),
-
-b) e
-
-c) di cui al comma 1;  
-2) l'importo degli interessi attivi sulle somme anticipate dall'impresa in conformita' di quanto stabilito nelle convenzioni di cui all'articolo 286, comma 2, del Codice;  
-3) le altre somme eventualmente addebitate al Fondo strada;  
-4) l'eventuale saldo a conguaglio;  
-b) nella parte B:  
-1) l'importo dei rimborsi da parte del Fondo strada all'impresa per le somme da questa anticipate nel semestre per il pagamento di sinistri e relative spese di liquidazione;  
-2) le somme recuperate nel semestre dall'impresa in dipendenza di azioni di regresso e di surroga, al netto delle relative spese;  
-3) l'importo degli interessi passivi;  
-4) le altre somme eventualmente accreditate al Fondo strada;  
-5) l'eventuale saldo a conguaglio.
-
-4. Il rendiconto e' trasmesso nel termine di quarantacinque giorni dalla scadenza del semestre al quale si riferisce.
-
-5. Entro il mese di aprile dell'anno successivo a quello cui si riferiscono i rendiconti, le imprese designate trasmettono al Fondo strada un prospetto dal quale risulta l'ammontare presumibile dei danni per sinistri avvenuti e non ancora pagati alla fine dell'esercizio cui si riferisce il prospetto.
-
-6. Gli importi di cui al comma 5 sono distinti a seconda che si riferiscano ai sinistri avvenuti nell'esercizio medesimo o in esercizi anteriori. I medesimi importi sono anche distinti a seconda che si riferiscano a sinistri di cui alle lettere a), b), c), d), d-bis) e d-ter) dell'articolo 283, comma 1, del Codice.
-
-7. I documenti indicati nel presente articolo sono sottoscritti dai legali rappresentanti delle imprese designate.
-
-### Art. 14
-
-Convenzioni tra le imprese designate e il Fondo strada
-
-1. Il rimborso da parte del Fondo strada delle somme anticipate dalle imprese designate ai sensi dell'articolo 286, comma 1, del Codice e' effettuato secondo apposite convenzioni stipulate tra le imprese designate e il Fondo strada stesso, previste all'articolo 286, comma 2, del Codice.
-
-2. Le convenzioni di cui al comma 1 regolano in ogni caso:
-
-a) il termine entro il quale il Fondo strada comunica il proprio benestare o le sue eventuali osservazioni sui rendiconti semestrali, trasmessi dalle imprese a norma del presente regolamento;
-
-b) il termine entro il quale il Fondo strada, nei limiti delle proprie disponibilita', rimette alle imprese designate il saldo dei rendiconti semestrali;
-
-c) le modalita' per la determinazione degli interessi da riconoscere alle imprese sulle somme da queste anticipate per pagamenti di sinistri e relative spese di liquidazione;
-
-d) i casi di giustificata necessita' in cui le imprese potranno chiedere il rimborso di somme pagate per sinistri anche prima della scadenza del termine di cui alla lettera b);
-
-e) i criteri cui le imprese si attengono per determinare le spese di liquidazione dei sinistri di cui all'articolo 283, comma 1, del Codice e per calcolare la quota parte delle spese generali da imputarsi alla gestione separata di detti sinistri;
-
-f) i casi in cui le imprese chiedono il preventivo benestare al Fondo strada prima di procedere alla liquidazione dei sinistri, nonche' le procedure cui le imprese si attengono nei rapporti con il Fondo strada stesso in caso di contestazioni relative ai sinistri di cui all'articolo 283, comma 1, del Codice.
-
-g) le situazioni in cui il Fondo strada puo' avocare a se' l'istruttoria e la definizione di singoli sinistri o gruppi di sinistri dando poi disposizione alla impresa designata o alla societa' di servizio per il successivo pagamento;
-
-h) le modalita' da seguire da parte delle societa' di servizio in ordine ai rapporti diretti con il Fondo strada circa la gestione di singoli sinistri;
-
-i) i criteri di adeguata diversificazione in ordine all'assegnazione degli incarichi ai professionisti per la quantificazione dei danni fisici e materiali o ai legali per l'assistenza dell'impresa in giudizio;
-
-l) l'impegno delle imprese designate e delle eventuali societa' di servizio, nelle varie fasi di trattazione del sinistro, a rispettare termini predeterminati;
-
-m) l'obbligo per le imprese designate e le societa' di servizio, quando corrispondono compensi per l'eventuale assistenza prestata da professionisti, di richiedere la documentazione probatoria relativa alla prestazione stessa e di indicare il corrispettivo separatamente rispetto alle voci di danno nella quietanza di liquidazione, nonche' l'obbligo per le stesse, nell'ipotesi di pagamento diretto dei compensi dovuti al professionista, di darne comunicazione al danneggiato, in conformita' a quanto previsto dall'articolo 148, comma 11, del Codice, con esclusione dei casi in cui gli importi sono stati liquidati in sentenza;
-
-n) l'obbligo per le imprese designate e le societa' di servizio, per l'attivita' di liquidazione dei sinistri a carico del Fondo strada, di mettere a disposizione dei soggetti danneggiati strutture adeguate sia per distribuzione sul territorio, sia per accessibilita' all'utenza, anche in relazione agli orari di apertura.
-
-### Art. 15
-
-Obbligo per le imprese designate di fornire al Fondo strada dati ed elementi sulla gestione di sinistri e vigilanza governativa sulle imprese designate.
-
-1. Il Fondo strada puo' chiedere alle imprese designate dati ed elementi relativi alla gestione dei sinistri di cui alle lettere a), b), c), d), d-bis) e d-ter) dell'articolo 283, comma 1, del Codice.  
+Il Fondo strada puo' chiedere alle imprese designate dati ed elementi relativi alla gestione dei sinistri di cui alle lettere a), b), c), d), d-bis) e d-ter) dell'articolo 283, comma 1, del Codice.
 Le stesse imprese designate tengono a disposizione del Fondo strada per gli eventuali riscontri, tutti i libri, registri e documenti riguardanti la predetta gestione.
 
-2. L'
+2.
 
-((IVASS))
+L'((IVASS)) ha facolta' di disporre ispezioni presso le imprese designate e le societa' di servizio per controllare l'osservanza delle disposizioni della legge, del regolamento, dei decreti, delle istruzioni ministeriali, delle disposizioni impartite dall'((IVASS)) stesso nonche' delle convenzioni di cui all'articolo 14.
 
-ha facolta' di disporre ispezioni presso le imprese designate e le societa' di servizio per controllare l'osservanza delle disposizioni della legge, del regolamento, dei decreti, delle istruzioni ministeriali, delle disposizioni impartite dall'
+3.
 
-((IVASS))
+Le imprese e, ove del caso, le societa' di servizio mettono a disposizione dei funzionari incaricati delle ispezioni tutta la corrispondenza, gli atti, i libri, le scritture e tutto quanto concerne i rapporti con il Fondo strada e la prestazione del servizio di liquidazione dei sinistri, e forniscono altresi' le notizie e i dati che siano alle stesse richiesti.
 
-stesso nonche' delle convenzioni di cui all'articolo 14.
+### Art. 16. — Efficacia dei contratti di assicurazione obbligatoria in corso con impresa posta in liquidazione coatta amministrativa.
 
-3. Le imprese e, ove del caso, le societa' di servizio mettono a disposizione dei funzionari incaricati delle ispezioni tutta la corrispondenza, gli atti, i libri, le scritture e tutto quanto concerne i rapporti con il Fondo strada e la prestazione del servizio di liquidazione dei sinistri, e forniscono altresi' le notizie e i dati che siano alle stesse richiesti.
+1.
 
-### Art. 16
+In caso di liquidazione coatta amministrativa di una impresa autorizzata all'esercizio dell'assicurazione della responsabilita' civile per i danni causati dalla circolazione dei veicoli e dei natanti, i contratti di assicurazione obbligatoria in corso alla data di pubblicazione del decreto di liquidazione continuano, nei limiti delle somme minime per cui e' obbligatoria l'assicurazione, a coprire i rischi fino alla scadenza del periodo di tempo per il quale sono stati rilasciati il certificato ed il contrassegno.
 
-Efficacia dei contratti di assicurazione obbligatoria in corso con impresa posta in liquidazione coatta amministrativa.
+### Art. 17. — Autorizzazione a procedere alla liquidazione dei danni
 
-1. In caso di liquidazione coatta amministrativa di una impresa autorizzata all'esercizio dell'assicurazione della responsabilita' civile per i danni causati dalla circolazione dei veicoli e dei natanti, i contratti di assicurazione obbligatoria in corso alla data di pubblicazione del decreto di liquidazione continuano, nei limiti delle somme minime per cui e' obbligatoria l'assicurazione, a coprire i rischi fino alla scadenza del periodo di tempo per il quale sono stati rilasciati il certificato ed il contrassegno.
+1.
 
-### Art. 17
+L'autorizzazione prevista dall'articolo 293 del Codice puo' essere rilasciata al commissario liquidatore solo con il decreto con cui e' disposta la liquidazione coatta amministrativa.
 
-Autorizzazione a procedere alla liquidazione dei danni
+### Art. 18. — Liquidazione dei danni da parte del commissario liquidatore autorizzato ai sensi dell'articolo 293, comma 1, del Codice.
 
-1. L'autorizzazione prevista dall'articolo 293 del Codice puo' essere rilasciata al commissario liquidatore solo con il decreto con cui e' disposta la liquidazione coatta amministrativa.
+1.
 
-### Art. 18
+Il commissario liquidatore nell'assolvimento dei compiti di cui all'articolo 293, comma 1, del Codice accerta l'esistenza e la risarcibilita' del danno e ne determina l'ammontare.
 
-Liquidazione dei danni da parte del commissario liquidatore autorizzato ai sensi dell'articolo 293, comma 1, del Codice.
+2.
 
-1. Il commissario liquidatore nell'assolvimento dei compiti di cui all'articolo 293, comma 1, del Codice accerta l'esistenza e la risarcibilita' del danno e ne determina l'ammontare.
+Il commissario liquidatore trasmette al Fondo strada l'atto di liquidazione sottoscritto anche dal creditore.
 
-2. Il commissario liquidatore trasmette al Fondo strada l'atto di liquidazione sottoscritto anche dal creditore.
+3.
 
-3. Nel caso in cui non sia stato possibile concordare la liquidazione del danno con il creditore, il commissario liquidatore ne da' comunicazione al Fondo strada, indicando i motivi del disaccordo e l'ammontare del danno da lui accertato e predisponendo comunque il relativo atto di liquidazione ai fini del pagamento da parte del Fondo strada con le medesime modalita' di cui all'articolo 19.
+Nel caso in cui non sia stato possibile concordare la liquidazione del danno con il creditore, il commissario liquidatore ne da' comunicazione al Fondo strada, indicando i motivi del disaccordo e l'ammontare del danno da lui accertato e predisponendo comunque il relativo atto di liquidazione ai fini del pagamento da parte del Fondo strada con le medesime modalita' di cui all'articolo 19.
 
-### Art. 19
+### Art. 19. — Pagamento del danno da parte del Fondo strada in caso di accordo del creditore
 
-Pagamento del danno da parte del Fondo strada in caso di accordo del creditore
+1.
 
-1. Il Fondo strada provvede, nei limiti previsti dall'articolo 283, commi 2 e 4, del Codice, al pagamento della somma a suo carico indicata nell'atto di liquidazione trasmessogli dal commissario liquidatore ai sensi dell'articolo 18, comma 2, inviando al creditore vaglia postale od assegno di pari importo ovvero accreditando la somma dovuta sul conto corrente postale o bancario del creditore stesso. Il pagamento avviene entro 15 giorni dal ricevimento da parte della CONSAP dell'atto sottoscritto dal commissario liquidatore e dall'avente diritto.
+Il Fondo strada provvede, nei limiti previsti dall'articolo 283, commi 2 e 4, del Codice, al pagamento della somma a suo carico indicata nell'atto di liquidazione trasmessogli dal commissario liquidatore ai sensi dell'articolo 18, comma 2, inviando al creditore vaglia postale od assegno di pari importo ovvero accreditando la somma dovuta sul conto corrente postale o bancario del creditore stesso. Il pagamento avviene entro 15 giorni dal ricevimento da parte della CONSAP dell'atto sottoscritto dal commissario liquidatore e dall'avente diritto.
 
-### Art. 20
+### Art. 20. — Spese di liquidazione dei danni di cui all'articolo 293, comma 1, del Codice
 
-Spese di liquidazione dei danni di cui all'articolo 293, comma 1, del Codice
+1.
 
-1. Le spese sostenute dal commissario liquidatore per la liquidazione dei danni di cui all'articolo 293, comma 1, del Codice, che sono direttamente imputabili alla liquidazione di ciascun danno, sono, in caso di insufficienza dell'attivo, integralmente a carico del Fondo strada. Le spese per la liquidazione di danni diversi da quelli di cui all'articolo 293, comma 1, del Codice, che sono direttamente imputabili alla liquidazione di ciascun danno, restano integralmente a carico della liquidazione.
+Le spese sostenute dal commissario liquidatore per la liquidazione dei danni di cui all'articolo 293, comma 1, del Codice, che sono direttamente imputabili alla liquidazione di ciascun danno, sono, in caso di insufficienza dell'attivo, integralmente a carico del Fondo strada. Le spese per la liquidazione di danni diversi da quelli di cui all'articolo 293, comma 1, del Codice, che sono direttamente imputabili alla liquidazione di ciascun danno, restano integralmente a carico della liquidazione.
 
-2. Le spese inerenti alla liquidazione dei danni, diverse da quelle indicate al comma 1, ivi comprese quelle per il personale riassunto a norma dell'articolo 293, comma 3, del Codice, sono a carico del Fondo strada nella misura determinata dal rapporto in cui si trovano nell'ultimo bilancio approvato della societa' posta in liquidazione coatta amministrativa i premi del ramo «assicurazione responsabilita' civile autoveicoli» rispetto all'ammontare complessivo dei premi risultanti dal bilancio stesso.
+2.
 
-### Art. 21
+Le spese inerenti alla liquidazione dei danni, diverse da quelle indicate al comma 1, ivi comprese quelle per il personale riassunto a norma dell'articolo 293, comma 3, del Codice, sono a carico del Fondo strada nella misura determinata dal rapporto in cui si trovano nell'ultimo bilancio approvato della societa' posta in liquidazione coatta amministrativa i premi del ramo «assicurazione responsabilita' civile autoveicoli» rispetto all'ammontare complessivo dei premi risultanti dal bilancio stesso.
 
-Anticipazione o rimborso delle spese di liquidazione dei danni
+### Art. 21. — Anticipazione o rimborso delle spese di liquidazione dei danni
 
-1. Le modalita' per l'anticipazione al commissario liquidatore delle somme occorrenti per far fronte alle spese di liquidazione a carico del Fondo strada a norma dell'articolo 20 ovvero per il rimborso delle spese stesse, sono stabilite con apposita convenzione da stipularsi tra il commissario liquidatore e il Fondo strada e da sottoporsi all'approvazione del Ministero dello sviluppo economico.
+1.
 
-### Art. 22
+Le modalita' per l'anticipazione al commissario liquidatore delle somme occorrenti per far fronte alle spese di liquidazione a carico del Fondo strada a norma dell'articolo 20 ovvero per il rimborso delle spese stesse, sono stabilite con apposita convenzione da stipularsi tra il commissario liquidatore e il Fondo strada e da sottoporsi all'approvazione del Ministero dello sviluppo economico.
 
-Riassunzione da parte del commissario liquidatore del personale dell'impresa posta in liquidazione coatta amministrativa.
+### Art. 22. — Riassunzione da parte del commissario liquidatore del personale dell'impresa posta in liquidazione coatta amministrativa.
 
-1. Il commissario liquidatore autorizzato a norma dell'articolo 293, comma 1, del Codice provvede, ai sensi del comma 3 dello stesso articolo, entro il mese successivo a quello di pubblicazione del decreto di cui all'articolo 17, a riassumere direttamente il personale gia' dipendente dall'impresa al momento in cui la stessa e' stata posta in liquidazione coatta, con esclusione del personale dirigente. Il personale riassunto e' inquadrato sulla base delle norme del contratto collettivo nazionale di lavoro per il personale dipendente da imprese di assicurazione vigente al momento della riassunzione, tenuto conto della qualifica attribuitagli, e retribuito con i minimi previsti dal contratto stesso.
+1.
 
-### Art. 23
+Il commissario liquidatore autorizzato a norma dell'articolo 293, comma 1, del Codice provvede, ai sensi del comma 3 dello stesso articolo, entro il mese successivo a quello di pubblicazione del decreto di cui all'articolo 17, a riassumere direttamente il personale gia' dipendente dall'impresa al momento in cui la stessa e' stata posta in liquidazione coatta, con esclusione del personale dirigente. Il personale riassunto e' inquadrato sulla base delle norme del contratto collettivo nazionale di lavoro per il personale dipendente da imprese di assicurazione vigente al momento della riassunzione, tenuto conto della qualifica attribuitagli, e retribuito con i minimi previsti dal contratto stesso.
 
-Comunicazione da parte del commissario liquidatore del presumibile importo dei danni ancora da liquidare per conto del Fondo strada.
+### Art. 23. — Comunicazione da parte del commissario liquidatore del presumibile importo dei danni ancora da liquidare per conto del Fondo strada.
 
-1. Entro il mese di aprile di ciascun anno il commissario liquidatore, autorizzato a norma dell'articolo 293 del Codice, trasmette al Fondo strada un prospetto dal quale risulti l'ammontare presumibile dei danni non ancora liquidati per conto del predetto Fondo alla fine dell'anno precedente.
+1.
 
-### Art. 24
+Entro il mese di aprile di ciascun anno il commissario liquidatore, autorizzato a norma dell'articolo 293 del Codice, trasmette al Fondo strada un prospetto dal quale risulti l'ammontare presumibile dei danni non ancora liquidati per conto del predetto Fondo alla fine dell'anno precedente.
 
-Modalita' di trasmissione della richiesta di risarcimento all'Organismo di indennizzo
+### Art. 24. — Modalita' di trasmissione della richiesta di risarcimento all'Organismo di indennizzo
 
-1. Gli aventi diritto, di cui all'articolo 298, comma 4, del Codice, presentano all'Organismo di indennizzo la propria richiesta di risarcimento in forma scritta, inviandola a mezzo raccomandata con avviso di ricevimento o a mezzo telefax, purche' con rilascio del relativo rapporto di trasmissione, o consegnata a mano all'Organismo di indennizzo stesso con rilascio di ricevuta.
+1.
 
-CAPO III Capo III Norme per la gestione del Fondo caccia
---------------------------------------------------------
+Gli aventi diritto, di cui all'articolo 298, comma 4, del Codice, presentano all'Organismo di indennizzo la propria richiesta di risarcimento in forma scritta, inviandola a mezzo raccomandata con avviso di ricevimento o a mezzo telefax, purche' con rilascio del relativo rapporto di trasmissione, o consegnata a mano all'Organismo di indennizzo stesso con rilascio di ricevuta.
 
-### Art. 25
+## Norme per la gestione del Fondo caccia
 
-Composizione del comitato
+Capo III
 
-1. Il comitato previsto dall'articolo 303, comma 1, del Codice, e' presieduto dal presidente o, in sua vece, dall'amministratore delegato della CONSAP, che ne sono membri di diritto.
+### Art. 25. — Composizione del comitato
 
-2. Fanno parte altresi' del comitato di cui al comma 1:
+1.
 
-a) due rappresentanti del Ministero dello sviluppo economico;
+Il comitato previsto dall'articolo 303, comma 1, del Codice, e' presieduto dal presidente o, in sua vece, dall'amministratore delegato della CONSAP, che ne sono membri di diritto.
 
-b) un rappresentante dell'
+2.
 
-((IVASS))
+Fanno parte altresi' del comitato di cui al comma 1:
+                            a)
+                                due rappresentanti del Ministero dello sviluppo economico;
+                            b)
+                                un rappresentante dell'((IVASS));
+                            c)
+                                il dirigente della CONSAP, coordinatore delle attivita' del Fondo caccia;
+                            d)
+                                un rappresentante delle imprese di assicurazione e riassicurazione con qualificata esperienza nel settore delle assicurazioni private designato dall'Associazione di categoria piu' rappresentativa sul piano nazionale;
+                            e)
+                                un rappresentante dei consumatori designato dal Consiglio nazionale dei consumatori e degli utenti.
 
-;
+3.
 
-c) il dirigente della CONSAP, coordinatore delle attivita' del Fondo caccia;
+I componenti il comitato sono nominati con decreto del Ministro dello sviluppo economico per la durata di un triennio. L'ufficio di segreteria del comitato e' composto di due membri di cui un funzionario del Ministero dello sviluppo economico ed un dipendente della CONSAP.
 
-((
+### Art. 26. — Attribuzioni del Comitato e validita' delle deliberazioni
 
-d) un rappresentante delle imprese di assicurazione e riassicurazione con qualificata esperienza nel settore delle assicurazioni private designato dall'Associazione di categoria piu' rappresentativa sul piano nazionale;
+1.
 
-))
+Spetta al comitato di cui all'articolo 25 fornire parere al consiglio di amministrazione della CONSAP:
+                            a)
+                                sulle questioni relative all'applicazione delle disposizioni di legge concernenti il Fondo caccia;
+                            b)
+                                sulla designazione delle imprese di cui al presente capo;
+                            c)
+                                sulle convenzioni da stipularsi, con le imprese designate di cui al presente Capo, da parte del Fondo caccia;
+                            d)
+                                su ogni altra questione che il consiglio di amministrazione della CONSAP ritenga di sottoporgli.
 
-e) un rappresentante dei consumatori designato dal Consiglio nazionale dei consumatori e degli utenti.
+2.
 
-3. I componenti il comitato sono nominati con decreto del Ministro dello sviluppo economico per la durata di un triennio. L'ufficio di segreteria del comitato e' composto di due membri di cui un funzionario del Ministero dello sviluppo economico ed un dipendente della CONSAP.
+Il comitato predispone il rendiconto di gestione del Fondo caccia.
 
-### Art. 26
+3.
 
-Attribuzioni del Comitato e validita' delle deliberazioni
+Le riunioni del comitato sono valide quando intervengono almeno quattro dei suoi componenti.
 
-1. Spetta al comitato di cui all'articolo 25 fornire parere al consiglio di amministrazione della CONSAP:
+4.
 
-a) sulle questioni relative all'applicazione delle disposizioni di legge concernenti il Fondo caccia;
+Le deliberazioni sono adottate a maggioranza degli intervenuti; in caso di parita' di voti prevale quello del presidente.
+ 5 . Ai membri del comitato e della segreteria spetta a carico del Fondo caccia un gettone di presenza nella misura determinata dal consiglio di amministrazione della CONSAP.
 
-b) sulla designazione delle imprese di cui al presente capo;
+### Art. 27. — Modalita' per la gestione del Fondo caccia
 
-c) sulle convenzioni da stipularsi, con le imprese designate di cui al presente Capo, da parte del Fondo caccia;
+1.
 
-d) su ogni altra questione che il consiglio di amministrazione della CONSAP ritenga di sottoporgli.
+Il Fondo caccia e' soggetto patrimoniale autonomo e separato.
 
-2. Il comitato predispone il rendiconto di gestione del Fondo caccia.
+2.
 
-3. Le riunioni del comitato sono valide quando intervengono almeno quattro dei suoi componenti.
+La CONSAP tiene contabilita' e scritture separate per le operazioni attinenti alla gestione autonoma del Fondo caccia, nonche' una separata amministrazione dei beni ad essa pertinenti, in modo che risulti identificato il patrimonio destinato a rispondere delle obbligazioni del Fondo stesso.
 
-4. Le deliberazioni sono adottate a maggioranza degli intervenuti; in caso di parita' di voti prevale quello del presidente.  
-5 . Ai membri del comitato e della segreteria spetta a carico del Fondo caccia un gettone di presenza nella misura determinata dal consiglio di amministrazione della CONSAP.
+3.
 
-### Art. 27
+Il consiglio di amministrazione della CONSAP, nel deliberare sull'impiego delle somme disponibili, tiene conto delle esigenze di liquidita' del Fondo caccia. Le somme disponibili sono investite esclusivamente in operazioni in titoli emessi o garantiti dallo Stato italiano.
 
-Modalita' per la gestione del Fondo caccia
+### Art. 28. — Rendiconto della gestione del Fondo caccia
 
-1. Il Fondo caccia e' soggetto patrimoniale autonomo e separato.
+1.
 
-2. La CONSAP tiene contabilita' e scritture separate per le operazioni attinenti alla gestione autonoma del Fondo caccia, nonche' una separata amministrazione dei beni ad essa pertinenti, in modo che risulti identificato il patrimonio destinato a rispondere delle obbligazioni del Fondo stesso.
+Il rendiconto della gestione del Fondo caccia, approvato dal consiglio di amministrazione della CONSAP, e' trasmesso, unitamente ad una relazione dello stesso consiglio, al Ministero dello sviluppo economico entro il 30 settembre dell'anno successivo a quello cui esso si riferisce.
 
-3. Il consiglio di amministrazione della CONSAP, nel deliberare sull'impiego delle somme disponibili, tiene conto delle esigenze di liquidita' del Fondo caccia. Le somme disponibili sono investite esclusivamente in operazioni in titoli emessi o garantiti dallo Stato italiano.
+2.
 
-### Art. 28
+Il rendiconto comprende le seguenti voci:
+                            a)
+                                in entrata:
+ 1) contributi di competenza dell'esercizio;
+ 2) redditi ricavati dall'impiego delle somme disponibili;
+ 3) interessi attivi diversi;
+ 4) somme recuperate in dipendenza di azioni di regresso e di surroga;
+ 5) sanzioni amministrative;
+ 6) altre entrate, da indicare analiticamente;
+ 7) eventuale disavanzo;
+                            b)
+                                in uscita:
+ 1) somme corrisposte dalle imprese designate per indennizzi, distinte in relazione alle fattispecie di cui alle lettere a), b) e
+                            c)
+                                dell'articolo 302, comma 1, del Codice;
+ 2) spese generali imputabili alla liquidazione dei sinistri sostenute dalle imprese designate, quali risultano dai rendiconti delle imprese stesse;
+ 3) spese sostenute dalla CONSAP per la gestione del Fondo caccia;
+ 4) interessi passivi sulle somme anticipate dalle imprese designate per pagamenti di sinistri e relative spese di liquidazione, calcolati secondo le modalita' previste dalle convenzioni con le imprese stesse;
+ 5) altre uscite, da indicare analiticamente;
+ 6) eventuale avanzo.
 
-Rendiconto della gestione del Fondo caccia
+### Art. 29. — Situazione patrimoniale del Fondo caccia
 
-1. Il rendiconto della gestione del Fondo caccia, approvato dal consiglio di amministrazione della CONSAP, e' trasmesso, unitamente ad una relazione dello stesso consiglio, al Ministero dello sviluppo economico entro il 30 settembre dell'anno successivo a quello cui esso si riferisce.
+1.
 
-2. Il rendiconto comprende le seguenti voci:
+Il rendiconto di cui all'articolo 28 e' accompagnato da una situazione patrimoniale dalla quale risultino alla fine dell'esercizio:
+                            a)
+                                nell'attivo:
+ 1 ) depositi presso istituti di credito;
+ 2) attivita' mobiliari, da indicare analiticamente;
+ 3) crediti per contributi non incassati;
+ 4) altre partite creditorie, da indicare analiticamente;
+                            b)
+                                nel passivo:
+ 1) debiti verso le imprese designate per le somme da queste anticipate per il pagamento di sinistri, spese di liquidazione e relativi interessi;
+ 2) altre partite debitorie, da indicare analiticamente.
 
-a) in entrata:  
-1) contributi di competenza dell'esercizio;  
-2) redditi ricavati dall'impiego delle somme disponibili;  
-3) interessi attivi diversi;  
-4) somme recuperate in dipendenza di azioni di regresso e di surroga;  
-5) sanzioni amministrative;  
-6) altre entrate, da indicare analiticamente;  
-7) eventuale disavanzo;
+2.
 
-b) in uscita:  
-1) somme corrisposte dalle imprese designate per indennizzi, distinte in relazione alle fattispecie di cui alle lettere a), b) e
+In apposita sezione separata del passivo e' posto in evidenza il patrimonio netto costituito dall'avanzo o dal disavanzo risultante dal rendiconto di cui all'articolo 28 e dall'ammontare complessivo dei risultati degli esercizi precedenti.
 
-c) dell'articolo 302, comma 1, del Codice;  
-2) spese generali imputabili alla liquidazione dei sinistri sostenute dalle imprese designate, quali risultano dai rendiconti delle imprese stesse;  
-3) spese sostenute dalla CONSAP per la gestione del Fondo caccia;  
-4) interessi passivi sulle somme anticipate dalle imprese designate per pagamenti di sinistri e relative spese di liquidazione, calcolati secondo le modalita' previste dalle convenzioni con le imprese stesse;  
-5) altre uscite, da indicare analiticamente;  
-6) eventuale avanzo.
+3.
 
-### Art. 29
+Tra i conti d'ordine viene indicato l'ammontare presumibile dei sinistri avvenuti e non ancora pagati alla fine dell'esercizio cui si riferisce il rendiconto.
 
-Situazione patrimoniale del Fondo caccia
+4.
 
-1. Il rendiconto di cui all'articolo 28 e' accompagnato da una situazione patrimoniale dalla quale risultino alla fine dell'esercizio:
+Ai fini della determinazione del contributo di cui all'articolo 303, comma 3, del Codice, il rendiconto e' altresi' corredato da un prospetto dal quale risulti, in base alle comunicazioni effettuate dalle imprese designate, l'ammontare presumibile dei danni per sinistri avvenuti e non ancora pagati dalle imprese stesse alla fine dell'esercizio cui si riferisce il rendiconto.
 
-a) nell'attivo:  
-1 ) depositi presso istituti di credito;  
-2) attivita' mobiliari, da indicare analiticamente;  
-3) crediti per contributi non incassati;  
-4) altre partite creditorie, da indicare analiticamente;
+5.
 
-b) nel passivo:  
-1) debiti verso le imprese designate per le somme da queste anticipate per il pagamento di sinistri, spese di liquidazione e relativi interessi;  
-2) altre partite debitorie, da indicare analiticamente.
+Gli importi di cui al comma 4 sono distinti a seconda che si riferiscano ai sinistri avvenuti nell'esercizio o in esercizi anteriori e a seconda che si riferiscano ai sinistri di cui alle lettere a) o b) o c) del comma 1 dell'articolo 302 del Codice.
 
-2. In apposita sezione separata del passivo e' posto in evidenza il patrimonio netto costituito dall'avanzo o dal disavanzo risultante dal rendiconto di cui all'articolo 28 e dall'ammontare complessivo dei risultati degli esercizi precedenti.
+### Art. 30. — Vigilanza governativa sul Fondo caccia
 
-3. Tra i conti d'ordine viene indicato l'ammontare presumibile dei sinistri avvenuti e non ancora pagati alla fine dell'esercizio cui si riferisce il rendiconto.
+1.
 
-4. Ai fini della determinazione del contributo di cui all'articolo 303, comma 3, del Codice, il rendiconto e' altresi' corredato da un prospetto dal quale risulti, in base alle comunicazioni effettuate dalle imprese designate, l'ammontare presumibile dei danni per sinistri avvenuti e non ancora pagati dalle imprese stesse alla fine dell'esercizio cui si riferisce il rendiconto.
+Il Ministero dello sviluppo economico puo' chiedere in qualunque momento al Fondo caccia notizie e dati sulla gestione del Fondo stesso e disporre accertamenti ove lo ritenga necessario.
 
-5. Gli importi di cui al comma 4 sono distinti a seconda che si riferiscano ai sinistri avvenuti nell'esercizio o in esercizi anteriori e a seconda che si riferiscano ai sinistri di cui alle lettere a) o b) o c) del comma 1 dell'articolo 302 del Codice.
+### Art. 31. — Contributo da corrispondere al Fondo caccia
 
-### Art. 30
+1.
 
-Vigilanza governativa sul Fondo caccia
+Entro il 31 dicembre di ciascun anno il Ministro dello sviluppo economico determina con proprio decreto, tenuto conto dei risultati dell'esercizio che sono determinati nel rendiconto della gestione dell'anno precedente, la misura del contributo che le imprese sono tenute a versare nell'anno successivo al Fondo caccia.
 
-1. Il Ministero dello sviluppo economico puo' chiedere in qualunque momento al Fondo caccia notizie e dati sulla gestione del Fondo stesso e disporre accertamenti ove lo ritenga necessario.
+2.
 
-### Art. 31
+Entro il 31 gennaio di ogni anno le imprese versano un contributo provvisorio relativo all'anno stesso, determinato applicando l'aliquota stabilita per detto anno ai premi incassati risultanti dall'ultimo bilancio approvato, al netto degli oneri di gestione determinati con provvedimento dell'((IVASS)).
 
-Contributo da corrispondere al Fondo caccia
+3.
 
-1. Entro il 31 dicembre di ciascun anno il Ministro dello sviluppo economico determina con proprio decreto, tenuto conto dei risultati dell'esercizio che sono determinati nel rendiconto della gestione dell'anno precedente, la misura del contributo che le imprese sono tenute a versare nell'anno successivo al Fondo caccia.
+Il conguaglio fra la somma effettivamente dovuta dall'impresa e quella anticipata ai sensi del comma 2 nonche' il versamento del saldo a debito o credito dell'impresa stessa sono effettuati sulla base dei premi incassati risultanti dal bilancio dell'esercizio cui si riferisce la somma anticipata, entro il 30 settembre successivo alla data di approvazione di detto bilancio.
 
-2. Entro il 31 gennaio di ogni anno le imprese versano un contributo provvisorio relativo all'anno stesso, determinato applicando l'aliquota stabilita per detto anno ai premi incassati risultanti dall'ultimo bilancio approvato, al netto degli oneri di gestione determinati con provvedimento dell'
+### Art. 32. — Ritardato versamento del contributo
 
-((IVASS))
+1.
 
-.
+In caso di ritardato versamento di tutto o di parte del contributo sono dovuti gli interessi di mora, al tasso legale, a decorrere dal giorno in cui il versamento stesso avrebbe dovuto essere effettuato.
 
-3. Il conguaglio fra la somma effettivamente dovuta dall'impresa e quella anticipata ai sensi del comma 2 nonche' il versamento del saldo a debito o credito dell'impresa stessa sono effettuati sulla base dei premi incassati risultanti dal bilancio dell'esercizio cui si riferisce la somma anticipata, entro il 30 settembre successivo alla data di approvazione di detto bilancio.
+### Art. 33. — Designazione delle imprese
 
-### Art. 32
+1.
 
-Ritardato versamento del contributo
+L'((IVASS)) designa le imprese che provvedono alla liquidazione dei sinistri di cui all'articolo 302 del Codice, per la durata di un triennio, sentito il consiglio di amministrazione della CONSAP e tenuto conto per ciascuna impresa della sua capacita' finanziaria e dell'esistenza di una adeguata organizzazione per la liquidazione dei sinistri.
 
-1. In caso di ritardato versamento di tutto o di parte del contributo sono dovuti gli interessi di mora, al tasso legale, a decorrere dal giorno in cui il versamento stesso avrebbe dovuto essere effettuato.
+2.
 
-### Art. 33
+I decreti di designazione sono pubblicati nella Gazzetta Ufficiale.
 
-Designazione delle imprese
+### Art. 34. — Liquidazione dei danni a cura delle imprese designate
 
-1. L'
+1.
 
-((IVASS))
+L'impresa designata provvede a quanto dovuto per i sinistri verificatisi nel territorio di sua competenza entro tre anni dalla data di pubblicazione del decreto o dalla diversa data indicata nel decreto stesso. La stessa impresa garantisce il risarcimento dei sinistri anche oltre la scadenza del periodo stabilito, fino alla pubblicazione del decreto che designi altra impresa.
 
-designa le imprese che provvedono alla liquidazione dei sinistri di cui all'articolo 302 del Codice, per la durata di un triennio, sentito il consiglio di amministrazione della CONSAP e tenuto conto per ciascuna impresa della sua capacita' finanziaria e dell'esistenza di una adeguata organizzazione per la liquidazione dei sinistri.
+2.
 
-2. I decreti di designazione sono pubblicati nella Gazzetta Ufficiale.
+L'impresa designata che, anche in via di transazione, ha risarcito il danno nei casi previsti di cui all'articolo 302, comma 1, lettere a) e b),del Codice, ha azione di regresso, per conto del Fondo caccia, nei confronti dei responsabili del sinistro per il recupero dell'indennizzo pagato nonche' dei relativi interessi e spese.
 
-### Art. 34
+3.
 
-Liquidazione dei danni a cura delle imprese designate
+L'impresa designata che, anche in via di transazione, ha risarcito il danno nel caso previsto di cui all'articolo 302, comma 1, lettera c) del Codice, e' surrogata, per l'importo pagato, nei diritti dell'assicurato e del danneggiato verso l'impresa posta in liquidazione coatta amministrativa con gli stessi privilegi stabiliti dalla legge a favore dei medesimi.
 
-1. L'impresa designata provvede a quanto dovuto per i sinistri verificatisi nel territorio di sua competenza entro tre anni dalla data di pubblicazione del decreto o dalla diversa data indicata nel decreto stesso. La stessa impresa garantisce il risarcimento dei sinistri anche oltre la scadenza del periodo stabilito, fino alla pubblicazione del decreto che designi altra impresa.
+4.
 
-2. L'impresa designata che, anche in via di transazione, ha risarcito il danno nei casi previsti di cui all'articolo 302, comma 1, lettere a) e b),del Codice, ha azione di regresso, per conto del Fondo caccia, nei confronti dei responsabili del sinistro per il recupero dell'indennizzo pagato nonche' dei relativi interessi e spese.
+L'eventuale azione per il risarcimento del danno puo' essere esercitata nei confronti dell'impresa designata competente per il territorio in cui il sinistro e' avvenuto.
 
-3. L'impresa designata che, anche in via di transazione, ha risarcito il danno nel caso previsto di cui all'articolo 302, comma 1, lettera c) del Codice, e' surrogata, per l'importo pagato, nei diritti dell'assicurato e del danneggiato verso l'impresa posta in liquidazione coatta amministrativa con gli stessi privilegi stabiliti dalla legge a favore dei medesimi.
+### Art. 35. — Massimali di garanzia
 
-4. L'eventuale azione per il risarcimento del danno puo' essere esercitata nei confronti dell'impresa designata competente per il territorio in cui il sinistro e' avvenuto.
+1.
 
-### Art. 35
-
-Massimali di garanzia
-
-1. Per i casi previsti all'articolo 302, comma 1, lettere a), b) e c), del Codice, il Fondo caccia risarcisce nei limiti massimi di cui all'[articolo 12, comma 8, della legge 11 febbraio 1992, n. 157](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-11;157~art12-com8).  
+Per i casi previsti all'articolo 302, comma 1, lettere a), b) e c), del Codice, il Fondo caccia risarcisce nei limiti massimi di cui all'[articolo 12, comma 8, della legge 11 febbraio 1992, n. 157](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-11;157#art_12-com8).
 Nell'ipotesi di danni alle cose di cui alle richiamate lettere b) e c) il Fondo caccia risarcisce per la parte eccedente l'ammontare di euro cinquecento, sempre con il limite massimo di cui al citato articolo 12, comma 8.
 
-### Art. 36
+### Art. 36. — Convenzioni tra le imprese designate e il Fondo caccia
 
-Convenzioni tra le imprese designate e il Fondo caccia
+1.
 
-1. Le somme anticipate dalle imprese designate, comprese le spese ed al netto delle somme recuperate a norma dell'articolo 304 del Codice, saranno rimborsate dal Fondo caccia, secondo le convenzioni stipulate fra le imprese e il Fondo stesso.
+Le somme anticipate dalle imprese designate, comprese le spese ed al netto delle somme recuperate a norma dell'articolo 304 del Codice, saranno rimborsate dal Fondo caccia, secondo le convenzioni stipulate fra le imprese e il Fondo stesso.
 
-2. Le convenzioni di cui al comma 1, soggette ad approvazione del Ministero dello sviluppo economico, sentito l'
+2.
 
-((IVASS))
+Le convenzioni di cui al comma 1, soggette ad approvazione del Ministero dello sviluppo economico, sentito l'((IVASS)), devono, in ogni caso, regolare:
+                            a)
+                                il termine entro il quale il Fondo caccia comunica il proprio benestare o le sue eventuali osservazioni sui rendiconti semestrali, trasmessi dalle imprese designate, a norma dell'articolo 39;
+                            b)
+                                il termine entro il quale il Fondo caccia, nei limiti delle proprie disponibilita', rimette alle imprese designate il saldo dei predetti rendiconti semestrali;
+                            c)
+                                le modalita' per la determinazione degli interessi da riconoscere alle imprese sulle somme da queste anticipate per pagamenti di sinistri e relative spese di liquidazione;
+                            d)
+                                i casi di giustificata necessita' in cui le imprese potranno chiedere il rimborso di somme pagate per sinistri anche prima della scadenza del termine di cui alla lettera b);
+                            e)
+                                i criteri cui le imprese si attengono per determinare le spese di liquidazione dei sinistri di cui all'articolo 302 del Codice, e per calcolare la quota parte delle spese generali da imputarsi alla gestione separata di detti sinistri;
+                            f)
+                                i casi in cui le imprese chiedono il preventivo benestare al Fondo caccia prima di procedere alla liquidazione dei sinistri, nonche' le procedure cui le imprese si attengono nei rapporti con il Fondo stesso in caso di contestazioni relative ai sinistri di cui all'articolo 302 del Codice.
 
-, devono, in ogni caso, regolare:
+### Art. 37. — Obbligo per le imprese designate di fornire al Fondo caccia dati ed elementi sulla gestione di sinistri e vigilanza governativa sulle imprese designate.
 
-a) il termine entro il quale il Fondo caccia comunica il proprio benestare o le sue eventuali osservazioni sui rendiconti semestrali, trasmessi dalle imprese designate, a norma dell'articolo 39;
+1.
 
-b) il termine entro il quale il Fondo caccia, nei limiti delle proprie disponibilita', rimette alle imprese designate il saldo dei predetti rendiconti semestrali;
+Il Fondo caccia puo' chiedere alle imprese designate dati ed elementi relativi alla gestione dei sinistri di cui all'articolo 302 del Codice.
 
-c) le modalita' per la determinazione degli interessi da riconoscere alle imprese sulle somme da queste anticipate per pagamenti di sinistri e relative spese di liquidazione;
+2.
 
-d) i casi di giustificata necessita' in cui le imprese potranno chiedere il rimborso di somme pagate per sinistri anche prima della scadenza del termine di cui alla lettera b);
+Le stesse imprese designate tengono a disposizione del Fondo caccia per gli eventuali riscontri, tutti i libri, registri e documenti riguardanti la predetta gestione.
 
-e) i criteri cui le imprese si attengono per determinare le spese di liquidazione dei sinistri di cui all'articolo 302 del Codice, e per calcolare la quota parte delle spese generali da imputarsi alla gestione separata di detti sinistri;
+3.
 
-f) i casi in cui le imprese chiedono il preventivo benestare al Fondo caccia prima di procedere alla liquidazione dei sinistri, nonche' le procedure cui le imprese si attengono nei rapporti con il Fondo stesso in caso di contestazioni relative ai sinistri di cui all'articolo 302 del Codice.
+L'((IVASS)) ha facolta' di disporre ispezioni presso le imprese designate, per controllare l'osservanza delle disposizioni di legge, delle istruzioni ministeriali, nonche' delle convenzioni di cui all'articolo 36.
 
-### Art. 37
+4.
 
-Obbligo per le imprese designate di fornire al Fondo caccia dati ed elementi sulla gestione di sinistri e vigilanza governativa sulle imprese designate.
+Le imprese mettono a disposizione dei funzionari incaricati delle ispezioni tutta la corrispondenza, gli atti, i libri, le scritture e tutto quanto concerne i rapporti con il Fondo caccia e la prestazione del servizio di liquidazione dei sinistri e forniscono le notizie e i dati che siano ad esse richiesti.
 
-1. Il Fondo caccia puo' chiedere alle imprese designate dati ed elementi relativi alla gestione dei sinistri di cui all'articolo 302 del Codice.
+### Art. 38. — Gestione separata delle imprese designate
 
-2. Le stesse imprese designate tengono a disposizione del Fondo caccia per gli eventuali riscontri, tutti i libri, registri e documenti riguardanti la predetta gestione.
+1.
 
-3. L'
+Le imprese designate tengono gestione separata dei sinistri di cui all'articolo 302 del Codice provvedendo a tutti gli adempimenti previsti dal presente regolamento.
 
-((IVASS))
+2.
 
-ha facolta' di disporre ispezioni presso le imprese designate, per controllare l'osservanza delle disposizioni di legge, delle istruzioni ministeriali, nonche' delle convenzioni di cui all'articolo 36.
+Per la gestione di cui al comma 1 le imprese tengono separatamente tutti i registri richiesti dalla normativa in vigore.
 
-4. Le imprese mettono a disposizione dei funzionari incaricati delle ispezioni tutta la corrispondenza, gli atti, i libri, le scritture e tutto quanto concerne i rapporti con il Fondo caccia e la prestazione del servizio di liquidazione dei sinistri e forniscono le notizie e i dati che siano ad esse richiesti.
+3.
 
-### Art. 38
+La corrispondenza, i libri, i registri e tutti i documenti delle imprese designate relativi alle operazioni inerenti alla gestione separata dei sinistri di cui all'articolo 302 del Codice recano, oltre alla denominazione dell'impresa e alle altre indicazioni prescritte, la seguente indicazione «Impresa designata per la liquidazione dei sinistri a carico del Fondo di garanzia per le vittime della caccia».
 
-Gestione separata delle imprese designate
+4.
 
-1. Le imprese designate tengono gestione separata dei sinistri di cui all'articolo 302 del Codice provvedendo a tutti gli adempimenti previsti dal presente regolamento.
+Le imprese non possono utilizzare l'intestazione di cui al comma 3 per la corrispondenza, i libri e i registri e tutti i documenti relativi alle operazioni che non rientrano nella gestione separata dei sinistri sopra prevista.
 
-2. Per la gestione di cui al comma 1 le imprese tengono separatamente tutti i registri richiesti dalla normativa in vigore.
+### Art. 39. — Rendiconto delle imprese designate
 
-3. La corrispondenza, i libri, i registri e tutti i documenti delle imprese designate relativi alle operazioni inerenti alla gestione separata dei sinistri di cui all'articolo 302 del Codice recano, oltre alla denominazione dell'impresa e alle altre indicazioni prescritte, la seguente indicazione «Impresa designata per la liquidazione dei sinistri a carico del Fondo di garanzia per le vittime della caccia».
+1.
 
-4. Le imprese non possono utilizzare l'intestazione di cui al comma 3 per la corrispondenza, i libri e i registri e tutti i documenti relativi alle operazioni che non rientrano nella gestione separata dei sinistri sopra prevista.
+Il rendiconto degli oneri sostenuti in ciascun semestre che le imprese designate trasmettono al Fondo caccia, comprende le seguenti voci:
+                            a)
+                                i pagamenti effettuati nel semestre, per indennizzi di sinistri avvenuti nell'esercizio e, distintamente, in esercizi anteriori; i predetti pagamenti sono anche distinti a seconda che si riferiscano a sinistri di cui alle lettere a) o
+                            b)
+                                o
+                            c)
+                                dell'articolo 302, comma 1, del Codice;
+ b) spese sostenute per la liquidazione dei sinistri di cui alla lettera a);
+ c) quota delle spese generali sostenute nel semestre per la gestione separata dei sinistri di cui all'articolo 302 del Codice;
+                            d)
+                                somme recuperate dall'impresa nel semestre in dipendenza di azioni di regresso e di surroga, distinte a seconda che si riferiscano a sinistri avvenuti nell'esercizio o negli esercizi precedenti.
 
-### Art. 39
+2.
 
-Rendiconto delle imprese designate
+Al rendiconto e' allegato un estratto del conto relativo alle operazioni di addebitamento e accreditamento effettuate nel semestre dall'impresa nei rapporti con il Fondo caccia.
 
-1. Il rendiconto degli oneri sostenuti in ciascun semestre che le imprese designate trasmettono al Fondo caccia, comprende le seguenti voci:
+3.
 
-a) i pagamenti effettuati nel semestre, per indennizzi di sinistri avvenuti nell'esercizio e, distintamente, in esercizi anteriori; i predetti pagamenti sono anche distinti a seconda che si riferiscano a sinistri di cui alle lettere a) o
+Dall'estratto conto di cui al comma 2 risultano:
+                            a)
+                                nella parte A:
+ 1) l'importo dei sinistri, degli oneri e delle spese desunti dal relativo rendiconto per le voci a),
+                            b)
+                                e
+                            c)
+                                di cui al comma 1;
+ 2) l'importo degli interessi attivi sulle somme anticipate dall'impresa in conformita' di quanto stabilito nelle convenzioni di cui all'articolo 36;
+ 3) le altre somme eventualmente addebitate al Fondo caccia;
+ 4) l'eventuale saldo a conguaglio;
+ b) nella parte B:
+ 1) l'importo dei rimborsi da parte del Fondo caccia all'impresa per le somme da questa anticipate nel semestre per il pagamento di sinistri e relative spese di liquidazione;
+ 2) le somme recuperate nel semestre dall'impresa in dipendenza di azioni di regresso e di surroga, al netto delle relative spese;
+ 3) l'importo degli interessi passivi;
+ 4) altre somme eventualmente accreditate al Fondo caccia;
+ 5) l'eventuale saldo a conguaglio.
 
-b) o
+4.
 
-c) dell'articolo 302, comma 1, del Codice;  
-b) spese sostenute per la liquidazione dei sinistri di cui alla lettera a);  
-c) quota delle spese generali sostenute nel semestre per la gestione separata dei sinistri di cui all'articolo 302 del Codice;
+Il rendiconto e' trasmesso nel termine di quarantacinque giorni dalla scadenza del semestre al quale si riferisce.
 
-d) somme recuperate dall'impresa nel semestre in dipendenza di azioni di regresso e di surroga, distinte a seconda che si riferiscano a sinistri avvenuti nell'esercizio o negli esercizi precedenti.
+5.
 
-2. Al rendiconto e' allegato un estratto del conto relativo alle operazioni di addebitamento e accreditamento effettuate nel semestre dall'impresa nei rapporti con il Fondo caccia.
+Entro il mese di aprile dell'anno successivo a quello cui si riferiscono i rendiconti, le imprese designate trasmettono al Fondo caccia un prospetto dal quale risulti l'ammontare presumibile dei danni per sinistri avvenuti e non ancora pagati alla fine dell'esercizio cui si riferisce il prospetto.
 
-3. Dall'estratto conto di cui al comma 2 risultano:
+6.
 
-a) nella parte A:  
-1) l'importo dei sinistri, degli oneri e delle spese desunti dal relativo rendiconto per le voci a),
+Gli importi suddetti sono distinti a seconda che si riferiscano ai sinistri avvenuti nell'esercizio medesimo o in esercizi anteriori.
 
-b) e
+7.
 
-c) di cui al comma 1;  
-2) l'importo degli interessi attivi sulle somme anticipate dall'impresa in conformita' di quanto stabilito nelle convenzioni di cui all'articolo 36;  
-3) le altre somme eventualmente addebitate al Fondo caccia;  
-4) l'eventuale saldo a conguaglio;  
-b) nella parte B:  
-1) l'importo dei rimborsi da parte del Fondo caccia all'impresa per le somme da questa anticipate nel semestre per il pagamento di sinistri e relative spese di liquidazione;  
-2) le somme recuperate nel semestre dall'impresa in dipendenza di azioni di regresso e di surroga, al netto delle relative spese;  
-3) l'importo degli interessi passivi;  
-4) altre somme eventualmente accreditate al Fondo caccia;  
-5) l'eventuale saldo a conguaglio.
+I documenti indicati nel presente articolo sono sottoscritti dai legali rappresentanti delle imprese designate.
 
-4. Il rendiconto e' trasmesso nel termine di quarantacinque giorni dalla scadenza del semestre al quale si riferisce.
+## Disposizioni transitorie
 
-5. Entro il mese di aprile dell'anno successivo a quello cui si riferiscono i rendiconti, le imprese designate trasmettono al Fondo caccia un prospetto dal quale risulti l'ammontare presumibile dei danni per sinistri avvenuti e non ancora pagati alla fine dell'esercizio cui si riferisce il prospetto.
+Capo IV
 
-6. Gli importi suddetti sono distinti a seconda che si riferiscano ai sinistri avvenuti nell'esercizio medesimo o in esercizi anteriori.
+### Art. 40. — Trasferimento da parte del comitato del Fondo strada del personale di imprese poste in liquidazione coatta amministrativa.
 
-7. I documenti indicati nel presente articolo sono sottoscritti dai legali rappresentanti delle imprese designate.
+1.
 
-CAPO IV Capo IV Disposizioni transitorie
-----------------------------------------
+Il comitato del Fondo strada di cui all'articolo 285, comma 1, del Codice delibera la ripartizione del personale riassunto dal commissario liquidatore dell'impresa posta in liquidazione, fra le imprese di assicurazione alle quali, alla data di entrata in vigore del presente regolamento, sono stati assegnati i contratti per la responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti di imprese poste in liquidazione coatta amministrativa, in proporzione all'ammontare dei premi dei contratti assegnati a ciascuna di esse e fino all'esaurimento degli adempimenti connessi o susseguenti alle determinazioni adottate per la ripartizione del portafoglio.
 
-### Art. 40
+2.
 
-Trasferimento da parte del comitato del Fondo strada del personale di imprese poste in liquidazione coatta amministrativa.
+Quanto disposto al comma 1 non si applica al personale assunto nei dodici mesi antecedenti la data del provvedimento di liquidazione.
 
-1. Il comitato del Fondo strada di cui all'articolo 285, comma 1, del Codice delibera la ripartizione del personale riassunto dal commissario liquidatore dell'impresa posta in liquidazione, fra le imprese di assicurazione alle quali, alla data di entrata in vigore del presente regolamento, sono stati assegnati i contratti per la responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti di imprese poste in liquidazione coatta amministrativa, in proporzione all'ammontare dei premi dei contratti assegnati a ciascuna di esse e fino all'esaurimento degli adempimenti connessi o susseguenti alle determinazioni adottate per la ripartizione del portafoglio.
+3.
 
-2. Quanto disposto al comma 1 non si applica al personale assunto nei dodici mesi antecedenti la data del provvedimento di liquidazione.
+Per le deliberazioni di cui al comma 1, la composizione del Comitato e' integrata da un rappresentante del Ministero del lavoro e della previdenza sociale, da due rappresentanti del personale dipendente da imprese di assicurazione e da un rappresentante degli agenti di assicurazione, scelti dal Ministro dello sviluppo economico su designazione delle associazioni di categoria piu' rappresentative sul piano nazionale.
 
-3. Per le deliberazioni di cui al comma 1, la composizione del Comitato e' integrata da un rappresentante del Ministero del lavoro e della previdenza sociale, da due rappresentanti del personale dipendente da imprese di assicurazione e da un rappresentante degli agenti di assicurazione, scelti dal Ministro dello sviluppo economico su designazione delle associazioni di categoria piu' rappresentative sul piano nazionale.
+4.
 
-4. Le imprese provvedono all'assunzione del personale gradualmente secondo un programma concordato con il commissario liquidatore in relazione alle esigenze della liquidazione.
+Le imprese provvedono all'assunzione del personale gradualmente secondo un programma concordato con il commissario liquidatore in relazione alle esigenze della liquidazione.
 
-CAPO V Capo V Abrogazioni
--------------------------
+## Abrogazioni
 
-### Art. 41
+Capo V
 
-Norme abrogate
+### Art. 41. — Norme abrogate
 
-1. Dalla data di entrata in vigore del presente regolamento sono o restano abrogati:
+1.
 
-a) il capo V e il capo VI del [decreto del Presidente della Repubblica 24 novembre 1970, n. 973](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-11-24;973);
-
-b) gli [articoli 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-01-16;45~art15), [16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-01-16;45~art16), [17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-01-16;45~art17), [18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-01-16;45~art18), [19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-01-16;45~art19), [20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-01-16;45~art20), [21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-01-16;45~art21), [22](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-01-16;45~art22), [23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-01-16;45~art23), [24](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-01-16;45~art24), [25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-01-16;45~art25), [26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-01-16;45~art26), [27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-01-16;45~art27) e [28 del decreto del Presidente della Repubblica 16 gennaio 1981, n. 45](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-01-16;45~art28);
-
-c) il [decreto ministeriale 22 giugno 1993, n. 346](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1993-06-22;346);
-
-d) il decreto ministeriale 12 ottobre 1993;
-
-e) il decreto ministeriale 27 gennaio 1997.
+Dalla data di entrata in vigore del presente regolamento sono o restano abrogati:
+                            a)
+                                il capo V e il capo VI del [decreto del Presidente della Repubblica 24 novembre 1970, n. 973](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20della%20legge%2024%20dicembre%201969%20n.%20990%20sullassicurazione%20obbligatoria%20della%20responsabilita%20civile%20derivante%20dalla%20circolazione%20dei%20veicoli%20a%20motore%20e%20dei%20natanti.md);
+                            b)
+                                gli [articoli 15](../Regolamenti%20governativi/Modificazioni%20al%20regolamento%20sullassicurazione%20obbligatoria%20della%20responsabilita%20civile%20derivante%20dalla%20circolazione%20dei%20veicoli%20a%20motore%20e%20dei%20natanti%20approvato%20con%20decreto%20del%20President_577c7c22b0df.md), [16](../Regolamenti%20governativi/Modificazioni%20al%20regolamento%20sullassicurazione%20obbligatoria%20della%20responsabilita%20civile%20derivante%20dalla%20circolazione%20dei%20veicoli%20a%20motore%20e%20dei%20natanti%20approvato%20con%20decreto%20del%20President_577c7c22b0df.md), [17](../Regolamenti%20governativi/Modificazioni%20al%20regolamento%20sullassicurazione%20obbligatoria%20della%20responsabilita%20civile%20derivante%20dalla%20circolazione%20dei%20veicoli%20a%20motore%20e%20dei%20natanti%20approvato%20con%20decreto%20del%20President_577c7c22b0df.md), [18](../Regolamenti%20governativi/Modificazioni%20al%20regolamento%20sullassicurazione%20obbligatoria%20della%20responsabilita%20civile%20derivante%20dalla%20circolazione%20dei%20veicoli%20a%20motore%20e%20dei%20natanti%20approvato%20con%20decreto%20del%20President_577c7c22b0df.md), [19](../Regolamenti%20governativi/Modificazioni%20al%20regolamento%20sullassicurazione%20obbligatoria%20della%20responsabilita%20civile%20derivante%20dalla%20circolazione%20dei%20veicoli%20a%20motore%20e%20dei%20natanti%20approvato%20con%20decreto%20del%20President_577c7c22b0df.md), [20](../Regolamenti%20governativi/Modificazioni%20al%20regolamento%20sullassicurazione%20obbligatoria%20della%20responsabilita%20civile%20derivante%20dalla%20circolazione%20dei%20veicoli%20a%20motore%20e%20dei%20natanti%20approvato%20con%20decreto%20del%20President_577c7c22b0df.md), [21](../Regolamenti%20governativi/Modificazioni%20al%20regolamento%20sullassicurazione%20obbligatoria%20della%20responsabilita%20civile%20derivante%20dalla%20circolazione%20dei%20veicoli%20a%20motore%20e%20dei%20natanti%20approvato%20con%20decreto%20del%20President_577c7c22b0df.md), [22](../Regolamenti%20governativi/Modificazioni%20al%20regolamento%20sullassicurazione%20obbligatoria%20della%20responsabilita%20civile%20derivante%20dalla%20circolazione%20dei%20veicoli%20a%20motore%20e%20dei%20natanti%20approvato%20con%20decreto%20del%20President_577c7c22b0df.md), [23](../Regolamenti%20governativi/Modificazioni%20al%20regolamento%20sullassicurazione%20obbligatoria%20della%20responsabilita%20civile%20derivante%20dalla%20circolazione%20dei%20veicoli%20a%20motore%20e%20dei%20natanti%20approvato%20con%20decreto%20del%20President_577c7c22b0df.md), [24](../Regolamenti%20governativi/Modificazioni%20al%20regolamento%20sullassicurazione%20obbligatoria%20della%20responsabilita%20civile%20derivante%20dalla%20circolazione%20dei%20veicoli%20a%20motore%20e%20dei%20natanti%20approvato%20con%20decreto%20del%20President_577c7c22b0df.md), [25](../Regolamenti%20governativi/Modificazioni%20al%20regolamento%20sullassicurazione%20obbligatoria%20della%20responsabilita%20civile%20derivante%20dalla%20circolazione%20dei%20veicoli%20a%20motore%20e%20dei%20natanti%20approvato%20con%20decreto%20del%20President_577c7c22b0df.md), [26](../Regolamenti%20governativi/Modificazioni%20al%20regolamento%20sullassicurazione%20obbligatoria%20della%20responsabilita%20civile%20derivante%20dalla%20circolazione%20dei%20veicoli%20a%20motore%20e%20dei%20natanti%20approvato%20con%20decreto%20del%20President_577c7c22b0df.md), [27](../Regolamenti%20governativi/Modificazioni%20al%20regolamento%20sullassicurazione%20obbligatoria%20della%20responsabilita%20civile%20derivante%20dalla%20circolazione%20dei%20veicoli%20a%20motore%20e%20dei%20natanti%20approvato%20con%20decreto%20del%20President_577c7c22b0df.md) e [28 del decreto del Presidente della Repubblica 16 gennaio 1981, n. 45](../Regolamenti%20governativi/Modificazioni%20al%20regolamento%20sullassicurazione%20obbligatoria%20della%20responsabilita%20civile%20derivante%20dalla%20circolazione%20dei%20veicoli%20a%20motore%20e%20dei%20natanti%20approvato%20con%20decreto%20del%20President_577c7c22b0df.md);
+                            c)
+                                il [decreto ministeriale 22 giugno 1993, n. 346](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1993-06-22;346);
+                            d)
+                                il decreto ministeriale 12 ottobre 1993;
+                            e)
+                                il decreto ministeriale 27 gennaio 1997.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 28 aprile 2008
+Roma, 28 aprile 2008
 
-Il Ministro: Bersani
-
-Visto, il Guardasigilli: Scotti Registrato alla Corte di conti il 19 maggio 2008
-
-Ufficio di controllo atti Ministeri delle attivita' produttive,
-
-registro n. 2, foglio n. 72
+Il Ministro: Bersani Visto, il Guardasigilli: Scotti Registrato alla Corte di conti il 19 maggio 2008 Ufficio di controllo atti Ministeri delle attivita' produttive, registro n. 2, foglio n. 72

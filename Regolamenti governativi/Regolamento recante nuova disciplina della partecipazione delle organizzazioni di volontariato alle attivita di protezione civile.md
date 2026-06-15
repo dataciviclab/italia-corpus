@@ -1,107 +1,77 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 2001 n. 194
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 194
+data: 2001-02-08
+titolo: "Regolamento recante nuova disciplina della partecipazione delle organizzazioni di volontariato alle attivita' di protezione civile."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2001-02-08;194
+codice_redazionale: 001G0249
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 2001 n. 194
-===============================================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 GENNAIO 2018, N. 1))
 
-Regolamento recante nuova disciplina della partecipazione delle organizzazioni di volontariato alle attivita' di protezione civile.
------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 GENNAIO 2018, N. 1))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 GENNAIO 2018, N. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-01-02;1)))
+## Art. 3.
 
-Art. 2
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 GENNAIO 2018, N. 1))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 GENNAIO 2018, N. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-01-02;1)))
+## Art. 4.
 
-Art. 3
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 GENNAIO 2018, N. 1))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 GENNAIO 2018, N. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-01-02;1)))
+## Art. 5.
 
-Art. 4
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 GENNAIO 2018, N. 1))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 GENNAIO 2018, N. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-01-02;1)))
+## Art. 6.
 
-Art. 5
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 GENNAIO 2018, N. 1))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 GENNAIO 2018, N. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-01-02;1)))
+## Art. 7.
 
-Art. 6
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 GENNAIO 2018, N. 1))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 GENNAIO 2018, N. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-01-02;1)))
+## Art. 8.
 
-Art. 7
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 GENNAIO 2018, N. 1))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 GENNAIO 2018, N. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-01-02;1)))
+## Art. 9.
 
-Art. 8
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 GENNAIO 2018, N. 1))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 GENNAIO 2018, N. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-01-02;1)))
+## Art. 10.
 
-Art. 9
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 GENNAIO 2018, N. 1))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 GENNAIO 2018, N. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-01-02;1)))
+## Art. 11.
 
-Art. 10
--------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 GENNAIO 2018, N. 1))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 GENNAIO 2018, N. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-01-02;1)))
+## Art. 12.
 
-Art. 11
--------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 GENNAIO 2018, N. 1))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 GENNAIO 2018, N. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-01-02;1)))
+## Art. 13.
 
-Art. 12
--------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 GENNAIO 2018, N. 1))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 GENNAIO 2018, N. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-01-02;1)))
+## Art. 14.
 
-Art. 13
--------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 GENNAIO 2018, N. 1))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 GENNAIO 2018, N. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-01-02;1)))
+## Art. 15.
 
-Art. 14
--------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 GENNAIO 2018, N. 1))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 GENNAIO 2018, N. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-01-02;1)))
+## Art. 16.
 
-Art. 15
--------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 GENNAIO 2018, N. 1))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 GENNAIO 2018, N. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-01-02;1)))
+## Art. 17.
 
-Art. 16
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 GENNAIO 2018, N. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-01-02;1)))
-
-Art. 17
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 GENNAIO 2018, N. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-01-02;1)))
-
-Allegato A
-
-Allegato A   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 GENNAIO 2018, N. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-01-02;1)))
-
-Allegato B
-
-Allegato B   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 GENNAIO 2018, N. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-01-02;1)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 GENNAIO 2018, N. 1))

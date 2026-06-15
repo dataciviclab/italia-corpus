@@ -1,52 +1,37 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 agosto 2014 n. 138
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 138
+data: 2014-08-11
+titolo: "Regolamento recante criteri e modalita' per la concessione dei contributi a favore dei periodici pubblicati all'estero e delle pubblicazioni edite in Italia e diffuse prevalentemente all'estero, a norma dell'articolo 1-bis del decreto-legge 18 maggio 2012, n. 63, convertito, con modificazioni, dalla legge 16 luglio 2012, n. 103. (14G00152)"
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2014-08-11;138
+codice_redazionale: 14G00152
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 agosto 2014 n. 138
-=============================================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MAGGIO 2017, N. 70))
 
-Regolamento recante criteri e modalita' per la concessione dei contributi a favore dei periodici pubblicati all'estero e delle pubblicazioni edite in Italia e diffuse prevalentemente all'estero, a norma dell'articolo 1-bis del decreto-legge 18 maggio 2012, n. 63, convertito, con modificazioni, dalla legge 16 luglio 2012, n. 103. (14G00152)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 07/10/2014
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MAGGIO 2017, N. 70))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MAGGIO 2017, N. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-15;70)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MAGGIO 2017, N. 70))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MAGGIO 2017, N. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-15;70)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MAGGIO 2017, N. 70))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MAGGIO 2017, N. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-15;70)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MAGGIO 2017, N. 70))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MAGGIO 2017, N. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-15;70)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MAGGIO 2017, N. 70))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MAGGIO 2017, N. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-15;70)))
-
-Art. 6
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MAGGIO 2017, N. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-15;70)))
-
-Art. 7
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MAGGIO 2017, N. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-15;70)))
-
-Allegato
-
- Allegato   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MAGGIO 2017, N. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-15;70)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MAGGIO 2017, N. 70))

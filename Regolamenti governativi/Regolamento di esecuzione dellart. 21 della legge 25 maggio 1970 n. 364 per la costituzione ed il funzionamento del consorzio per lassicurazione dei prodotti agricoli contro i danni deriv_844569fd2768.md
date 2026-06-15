@@ -1,98 +1,81 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 settembre 1971 n. 1241
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1241
+data: 1971-09-13
+titolo: "Regolamento di esecuzione dell'art. 21 della legge 25 maggio 1970, n. 364, per la costituzione ed il funzionamento del consorzio per l'assicurazione dei prodotti agricoli contro i danni derivanti dalla grandine, dalle gelate e dalle brinate."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1971-09-13;1241
+codice_redazionale: 071U1241
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 settembre 1971 n. 1241
-=================================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 17 MAGGIO 1996, N. 324))
 
-Regolamento di esecuzione dell'art. 21 della legge 25 maggio 1970, n. 364, per la costituzione ed il funzionamento del consorzio per l'assicurazione dei prodotti agricoli contro i danni derivanti dalla grandine, dalle gelate e dalle brinate.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 17 MAGGIO 1996, N. 324))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 17 MAGGIO 1996, N. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1996-05-17;324)))
+## Art. 3.
 
-Art. 2
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 17 MAGGIO 1996, N. 324))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 17 MAGGIO 1996, N. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1996-05-17;324)))
+## Art. 4.
 
-Art. 3
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 17 MAGGIO 1996, N. 324))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 17 MAGGIO 1996, N. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1996-05-17;324)))
+## Art. 5.
 
-Art. 4
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 17 MAGGIO 1996, N. 324))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 17 MAGGIO 1996, N. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1996-05-17;324)))
+## Art. 6.
 
-Art. 5
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 17 MAGGIO 1996, N. 324))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 17 MAGGIO 1996, N. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1996-05-17;324)))
+## Art. 7.
 
-Art. 6
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 17 MAGGIO 1996, N. 324))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 17 MAGGIO 1996, N. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1996-05-17;324)))
+## Art. 8.
 
-Art. 7
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 17 MAGGIO 1996, N. 324))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 17 MAGGIO 1996, N. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1996-05-17;324)))
+## Art. 9.
 
-Art. 8
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 17 MAGGIO 1996, N. 324))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 17 MAGGIO 1996, N. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1996-05-17;324)))
+## Art. 10.
 
-Art. 9
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 17 MAGGIO 1996, N. 324))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 17 MAGGIO 1996, N. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1996-05-17;324)))
+## Art. 11.
 
-Art. 10
--------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 17 MAGGIO 1996, N. 324))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 17 MAGGIO 1996, N. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1996-05-17;324)))
+## Art. 12.
 
-Art. 11
--------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 17 MAGGIO 1996, N. 324))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 17 MAGGIO 1996, N. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1996-05-17;324)))
+## Art. 13.
 
-Art. 12
--------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 17 MAGGIO 1996, N. 324))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 17 MAGGIO 1996, N. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1996-05-17;324)))
+## Art. 14.
 
-Art. 13
--------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 17 MAGGIO 1996, N. 324))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 17 MAGGIO 1996, N. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1996-05-17;324)))
+## Art. 15.
 
-Art. 14
--------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 17 MAGGIO 1996, N. 324))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 17 MAGGIO 1996, N. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1996-05-17;324)))
+## Art. 16.
 
-Art. 15
--------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 17 MAGGIO 1996, N. 324))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 17 MAGGIO 1996, N. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1996-05-17;324)))
+## Art. 17.
 
-Art. 16
--------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 17 MAGGIO 1996, N. 324))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 17 MAGGIO 1996, N. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1996-05-17;324)))
+## Art. 18.
 
-Art. 17
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 17 MAGGIO 1996, N. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1996-05-17;324)))
-
-Art. 18
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 17 MAGGIO 1996, N. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1996-05-17;324)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 17 MAGGIO 1996, N. 324))

@@ -1,22 +1,20 @@
-DECRETO 31 gennaio 1992 n. 286
-
-
-DECRETO 31 gennaio 1992 n. 286
-==============================
-
-Regolamento recante modificazioni al decreto ministeriale 21 novembre 1987, n. 528, concernente la riformulazione del regolamento interno per l'organizzazione ed il funzionamento dell'Istituto superiore di sanita'.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 3/6/1992
+---
+tipo: DECRETO
+numero: 286
+data: 1992-01-31
+titolo: "Regolamento recante modificazioni al decreto ministeriale 21 novembre 1987, n. 528, concernente la riformulazione del regolamento interno per l'organizzazione ed il funzionamento dell'Istituto superiore di sanita'."
+urn: urn:nir:ministero.sanita:decreto:1992-01-31;286
+codice_redazionale: 092G0326
+vigente: true
+---
 
 IL MINISTRO DELLA SANITA'
--------------------------
 
-Visto l'[art. 62 della legge 7 agosto 1973, n. 519](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-08-07;519~art62), concernente modifiche ai compiti, all'ordinamento ed alle strutture dell'Istituto superiore di sanita';
+Visto l'[art. 62 della legge 7 agosto 1973, n. 519](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-08-07;519#art_62), concernente modifiche ai compiti, all'ordinamento ed alle strutture dell'Istituto superiore di sanita';
 
 Visto il proprio decreto 21 novembre 1987, n. 528, recante la riformulazione del regolamento interno per l'organizzazione ed il funzionamento del predetto Istituto, e successive modificazioni, come modificato dal decreto 27 dicembre 1990, n. 454;
 
-Visto l'[art. 17 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17);
+Visto l'[art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17);
 
 Vista la direttiva del Consiglio delle Comunita' europee del 24 novembre 1986, n. 86/609/CEE - pubblicata nella "Gazzetta Ufficiale" delle Comunita' europee n. L 358 del 28 dicembre 1986 - concernente il riavvicinamento delle disposizioni legislative, regolamentari ed amministrative degli Stati membri, relative alla protezione degli animali utilizzati a fini sperimentali o ad altri fini scientifici;
 
@@ -28,80 +26,74 @@ Vista la deliberazione n. 19, allegata al verbale n. 128 del 19 dicembre 1990, d
 
 Udito il parere del Consiglio di Stato reso nell'adunanza generale del 25 luglio 1991;
 
-Vista la comunicazione al Presidente del Consiglio dei Ministri, a norma dell'art. 17, comma 3, della citata [legge n. 400/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400) (nota n. 39100/Sap. 20 del 7 novembre 1991);
+Vista la comunicazione al Presidente del Consiglio dei Ministri, a norma dell'art. 17, comma 3, della citata [legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400) (nota n. 39100/Sap. 20 del 7 novembre 1991);
 
 A D O T T A il seguente regolamento:
 
-Art. 1
-------
+## Art. 1.
 
-1. L'art. 28 del proprio decreto 21 novembre 1987, n. 528 - pubblicato nella Gazzetta Ufficiale - serie generale - n. 302 del 29 dicembre 1987 - indicato nelle premesse, e' sostituito dal seguente articolo:  
-"Art. 28 (Servizi tecnici). - 1. I servizi tecnici e le loro attribuzioni sono individuati nei successivi articoli da art. 29 a art. 34- ter".
+1.
 
-AVVERTENZA:  
-Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.  
-Note alle premesse:  
-- Si trascrive il testo dell'[art. 62 della legge n. 519/1973](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973;519~art62) relativamente alla parte in cui disciplina la procedura per l'emanazione del regolamento interno per l'organizzazione e il funzionamento dell'Istituto superiore di sanita' e per i relativi successivi aggiornamenti: "Con decreto del Ministro per la sanita', su proposta del comitato amministrativo e per le materie di cui al punto 4 del quarto comma dell'art. 13, del comitato scientifico, sentito il consiglio dei direttori di laboratorio, viene emanato, entro un anno dall'entrata in vigore della presente legge, il regolamento interno per l'organizzazione ed il funzionamento dell'Istituto: con le stesse modalita' si provvede ai successivi aggiornamenti".  
-- Il [D.M. n. 528/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1987;528) e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 302 del 29 dicembre 1987.  
-- L'[art. 17, comma 3, della legge n. 400/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400~art17-com3) (Disciplina dell'attivita' di Governo ed ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministeri possono essere adottati con decreti interministeriali, ferma restanto la necessita' di apposita autorizzazione da parte della legge, i regolamenti ministeriali e interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.  
-Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbono recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
+L'art. 28 del proprio decreto 21 novembre 1987, n. 528 - pubblicato nella Gazzetta Ufficiale - serie generale - n. 302 del 29 dicembre 1987 - indicato nelle premesse, e' sostituito dal seguente articolo:
+ "Art. 28 (Servizi tecnici). - 1. I servizi tecnici e le loro attribuzioni sono individuati nei successivi articoli da art. 29 a art. 34- ter".
 
-Art. 2
-------
+AVVERTENZA:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Note alle premesse:
+ - Si trascrive il testo dell'[art. 62 della legge n. 519/1973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973;519#art_62) relativamente alla parte in cui disciplina la procedura per l'emanazione del regolamento interno per l'organizzazione e il funzionamento dell'Istituto superiore di sanita' e per i relativi successivi aggiornamenti: "Con decreto del Ministro per la sanita', su proposta del comitato amministrativo e per le materie di cui al punto 4 del quarto comma dell'art. 13, del comitato scientifico, sentito il consiglio dei direttori di laboratorio, viene emanato, entro un anno dall'entrata in vigore della presente legge, il regolamento interno per l'organizzazione ed il funzionamento dell'Istituto: con le stesse modalita' si provvede ai successivi aggiornamenti".
+ - Il [D.M. n. 528/1987](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1987;528) e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 302 del 29 dicembre 1987.
+ - L'[art. 17, comma 3, della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com3) (Disciplina dell'attivita' di Governo ed ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministeri possono essere adottati con decreti interministeriali, ferma restanto la necessita' di apposita autorizzazione da parte della legge, i regolamenti ministeriali e interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.
+ Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbono recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
 
- 1. Al predetto decreto 21 novembre 1987, n. 528, indicato nelle premesse, viene aggiunto il seguente articolo:  
-"Art. 34-ter (Servizio qualita' e sicurezza della sperimentazione animale dell'Istituto superiore di sanita').  
-- 1. Attivita' pertinenti alla ottimizzazione della qualita' e del benessere degli animali da laboratorio, con particolare riguardo alla consulenza tecnico-scientifica e alla vigilanza sulla conduzione della sperimentazione relativa alla ricerca e ai controlli di Stato;  
-Fornitura, deposito, quarantena e allevamento degli animali da laboratorio in relazione alle specifiche esigenze tecnico- scientifiche dei laboratori e dei servizi;  
-Gestione delle attivita' logistiche, amministrative, di registrazione e di analisi dei dati pertinenti all'acquisizione, allevamento e impiego degli animali da laboratorio;  
-Formazione del personale addetto alla cura degli animali da laboratorio;  
-Contributo, in cooperazione con i laboratori, all'analisi di fattibilita' sulla utilizzazione dei metodi complementari e/o alternativi atti a limitare l'impiego degli animali da laboratorio;  
-Attivita' pertinenti alla applicazione delle normative nazionali e comunitarie sull'impiego degli animali da laboratorio e contributo alla definizione dei criteri per l'aggiornamento delle normative stesse sotto i profili tecnico-scientifico ed etico.  
-2. Presso il servizio e' istituito un comitato tecnico scientifico con funzioni di consulenza facoltativa in materia di scelte tecniche- operative, di individuazione degli indirizzi generali nel settore della sperimentazione animale, di controllo sull'etica della sperimentazione stessa, di attuazione della direttiva del Consiglio delle Comunita' europee n. 86/609, in data 24 novembre 1986.  
-Il comitato, presieduto dal direttore del servizio in questione, e' costituito da sei membri nominati dal direttore dell'Istituto superiore di sanita', scelti oltre che tra il personale dell'Istituto superiore di sanita' e tra i rappresentanti dell'organo di indirizzo scientifico dello stesso Istituto, tra altre personalita' particolarmente qualificate sul piano sia scientifico che biomedico.  
-Le deliberazioni del comitato non sono valide se non e' presente la maggioranza dei suoi componenti, e se non sono adottate a maggioranza dei presenti.  
-3. Ripartizione ai soli fini delle esigenze di servizio, dei posti stabiliti in organico per le ex carriere tecniche:  
-Dirigenti di ricerca 1  
-Ricercatori 1  
-Ex [legge 8 agosto 1973, n. 519](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-08-08;519) Ex [D.P.R. 1 marzo 1988, n. 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988-03-01;285) - -  
+## Art. 2.
+
+1. Al predetto decreto 21 novembre 1987, n. 528, indicato nelle premesse, viene aggiunto il seguente articolo:
+ "Art. 34-ter (Servizio qualita' e sicurezza della sperimentazione animale dell'Istituto superiore di sanita').
+- 1. Attivita' pertinenti alla ottimizzazione della qualita' e del benessere degli animali da laboratorio, con particolare riguardo alla consulenza tecnico-scientifica e alla vigilanza sulla conduzione della sperimentazione relativa alla ricerca e ai controlli di Stato;
+ Fornitura, deposito, quarantena e allevamento degli animali da laboratorio in relazione alle specifiche esigenze tecnico- scientifiche dei laboratori e dei servizi;
+ Gestione delle attivita' logistiche, amministrative, di registrazione e di analisi dei dati pertinenti all'acquisizione, allevamento e impiego degli animali da laboratorio;
+ Formazione del personale addetto alla cura degli animali da laboratorio;
+ Contributo, in cooperazione con i laboratori, all'analisi di fattibilita' sulla utilizzazione dei metodi complementari e/o alternativi atti a limitare l'impiego degli animali da laboratorio;
+ Attivita' pertinenti alla applicazione delle normative nazionali e comunitarie sull'impiego degli animali da laboratorio e contributo alla definizione dei criteri per l'aggiornamento delle normative stesse sotto i profili tecnico-scientifico ed etico.
+ 2. Presso il servizio e' istituito un comitato tecnico scientifico con funzioni di consulenza facoltativa in materia di scelte tecniche- operative, di individuazione degli indirizzi generali nel settore della sperimentazione animale, di controllo sull'etica della sperimentazione stessa, di attuazione della direttiva del Consiglio delle Comunita' europee n. 86/609, in data 24 novembre 1986.
+ Il comitato, presieduto dal direttore del servizio in questione, e' costituito da sei membri nominati dal direttore dell'Istituto superiore di sanita', scelti oltre che tra il personale dell'Istituto superiore di sanita' e tra i rappresentanti dell'organo di indirizzo scientifico dello stesso Istituto, tra altre personalita' particolarmente qualificate sul piano sia scientifico che biomedico.
+ Le deliberazioni del comitato non sono valide se non e' presente la maggioranza dei suoi componenti, e se non sono adottate a maggioranza dei presenti.
+ 3. Ripartizione ai soli fini delle esigenze di servizio, dei posti stabiliti in organico per le ex carriere tecniche:
+Dirigenti di ricerca 1
+Ricercatori 1
+Ex [legge 8 agosto 1973, n. 519](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-08-08;519) Ex [D.P.R. 1 marzo 1988, n. 285](../DPR/Approvazione%20delle%20proposte%20formulate%20dalla%20commissione%20di%20cui%20allart.%2018%20del%20decreto%20del%20Presidente%20della%20Repubblica%2025%20giugno%201983%20n.%20346%20in%20ordine%20alle%20qualifiche%20funzionali%20ed%20ai%20prof_c14946c0353d.md) - -
 (Assistenti tecnici) Specialisti tecnici E.R. 3 (Segretari tecnici) Specialisti tecnici E.R. 1 (Aiutanti tecnici) Assistenti tecnici 3 (Addetti tecnici) Assistenti tecnici 6
 
-Art. 3
-------
+## Art. 3.
 
- 1. L'art. 19 del sopramenzionato [decreto ministeriale 21 novembre 1987, n. 528](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1987-11-21;528), indicato nelle premesse, e' sostituito dal seguente articolo:  
-"Art. 19 (Medicina veterinaria). - 1. Al laboratorio sono assegnate le seguenti attribuzioni:  
-studio dei cicli infettivi e dei meccanismi patogenetici delle malattie virali, batteriche, parassitarie e micotiche degli animali, con particolare riguardo alle zoonosi;  
-elaborazione e standardizzazione di metodi diagnostici per l'identificazione degli agenti eziologici;  
-centri di riferimento per i diversi agenti eziologici;  
-vigilanza limitata all'attivita' di sanita' pubblica sugli istituti zooprofilattici;  
-elaborazione dei criteri per l'impiego ed il controllo degli alimenti, dei farmaci e degli additivi destinati alla alimentazione animale;  
-controllo dei presidi immunizzanti;  
-consulenza nel campo degli interventi di individuazione e profilassi delle malattie infettive e diffusive del bestiame;  
-studi epidemioligici finalizzati soprattutto alla prevenzione e al controllo delle zoonosi;  
-elaborazione dei criteri per il controllo dei residui di anabolizzanti negli alimenti di origine animale;  
-studio degli aspetti morfologici e funzionali delle malattie non infettive degli animali.  
-2. Il laboratorio e' articolato nei seguenti reparti:  
-alimentazione animale;  
-anatomia e istopatologia veterinaria;  
-infezioni batteriche;  
-infezioni parassitarie e micotiche;  
-infezioni virali;  
-malattie non infettive degli animali;  
-residui di anabolizzanti negli alimenti di origine animale.  
-3. Ripartizione ai soli fini delle esigenze di servizio, dei posti stabiliti in organico per il personale delle ex carriere tecniche:  
-Dirigenti di ricerca 5  
-Ricercatori 8  
-Ex [legge 7 agosto 1973, n. 519](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-08-07;519) Ex [D.P.R. 1 marzo 1988, n. 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988-03-01;285) - -  
-(Assistenti tecnici) Specialisti tecnici E.R. 9 (Segretari tecnici) Specialisti tecnici E.R. 1 (Aiutanti tecnici) Assistenti tecnici 11 (Addetti tecnici) Assistenti tecnici 9 Il presente decreto, debitamente registrato alla Corte dei conti, sara' pubblicato nella Gazzetta Ufficiale della Repubblica.  
+1. L'art. 19 del sopramenzionato [decreto ministeriale 21 novembre 1987, n. 528](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1987-11-21;528), indicato nelle premesse, e' sostituito dal seguente articolo:
+ "Art. 19 (Medicina veterinaria). - 1. Al laboratorio sono assegnate le seguenti attribuzioni:
+ studio dei cicli infettivi e dei meccanismi patogenetici delle malattie virali, batteriche, parassitarie e micotiche degli animali, con particolare riguardo alle zoonosi;
+ elaborazione e standardizzazione di metodi diagnostici per l'identificazione degli agenti eziologici;
+ centri di riferimento per i diversi agenti eziologici;
+ vigilanza limitata all'attivita' di sanita' pubblica sugli istituti zooprofilattici;
+ elaborazione dei criteri per l'impiego ed il controllo degli alimenti, dei farmaci e degli additivi destinati alla alimentazione animale;
+ controllo dei presidi immunizzanti;
+ consulenza nel campo degli interventi di individuazione e profilassi delle malattie infettive e diffusive del bestiame;
+ studi epidemioligici finalizzati soprattutto alla prevenzione e al controllo delle zoonosi;
+ elaborazione dei criteri per il controllo dei residui di anabolizzanti negli alimenti di origine animale;
+ studio degli aspetti morfologici e funzionali delle malattie non infettive degli animali.
+ 2. Il laboratorio e' articolato nei seguenti reparti:
+ alimentazione animale;
+ anatomia e istopatologia veterinaria;
+ infezioni batteriche;
+ infezioni parassitarie e micotiche;
+ infezioni virali;
+ malattie non infettive degli animali;
+ residui di anabolizzanti negli alimenti di origine animale.
+ 3. Ripartizione ai soli fini delle esigenze di servizio, dei posti stabiliti in organico per il personale delle ex carriere tecniche:
+Dirigenti di ricerca 5
+Ricercatori 8
+Ex [legge 7 agosto 1973, n. 519](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-08-07;519) Ex [D.P.R. 1 marzo 1988, n. 285](../DPR/Approvazione%20delle%20proposte%20formulate%20dalla%20commissione%20di%20cui%20allart.%2018%20del%20decreto%20del%20Presidente%20della%20Repubblica%2025%20giugno%201983%20n.%20346%20in%20ordine%20alle%20qualifiche%20funzionali%20ed%20ai%20prof_c14946c0353d.md) - -
+(Assistenti tecnici) Specialisti tecnici E.R. 9 (Segretari tecnici) Specialisti tecnici E.R. 1 (Aiutanti tecnici) Assistenti tecnici 11 (Addetti tecnici) Assistenti tecnici 9 Il presente decreto, debitamente registrato alla Corte dei conti, sara' pubblicato nella Gazzetta Ufficiale della Repubblica.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 31 gennaio 1992
+Roma, 31 gennaio 1992
 
-Il Ministro: DE LORENZO
-
-Visto, il Guardasigilli: MARTELLI Registrato alla Corte dei conti il 2 aprile 1992
-
-Registro n. 5 Sanita', foglio n. 255
+Il Ministro: DE LORENZO Visto, il Guardasigilli: MARTELLI Registrato alla Corte dei conti il 2 aprile 1992 Registro n. 5 Sanita', foglio n. 255

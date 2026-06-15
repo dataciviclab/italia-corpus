@@ -1,64 +1,45 @@
-DECRETO-LEGGE 06 settembre 1996 n. 462
+---
+tipo: DECRETO-LEGGE
+numero: 462
+data: 1996-09-06
+titolo: "Disciplina delle attivita' di recupero dei rifiuti."
+urn: urn:nir:stato:decreto.legge:1996-09-06;462
+codice_redazionale: 096G0489
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 06 settembre 1996 n. 462
-======================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 11 NOVEMBRE 1996, N. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-11;575)
 
-Disciplina delle attivita' di recupero dei rifiuti.
----------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 7/9/1996.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 11 NOVEMBRE 1996, N. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-11;575)
 
-Art. 1
-------
+## Art. 3.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 11 NOVEMBRE 1996, N. 575](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-11;575)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 11 NOVEMBRE 1996, N. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-11;575)
 
-Art. 2
-------
+## Art. 4.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 11 NOVEMBRE 1996, N. 575](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-11;575)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 11 NOVEMBRE 1996, N. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-11;575)
 
-Art. 3
-------
+## Art. 5.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 11 NOVEMBRE 1996, N. 575](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-11;575)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 11 NOVEMBRE 1996, N. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-11;575)
 
-Art. 4
-------
+## Art. 6.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 11 NOVEMBRE 1996, N. 575](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-11;575)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 11 NOVEMBRE 1996, N. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-11;575)
 
-Art. 5
-------
+## Art. 7.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 11 NOVEMBRE 1996, N. 575](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-11;575)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 11 NOVEMBRE 1996, N. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-11;575)
 
-Art. 6
-------
+## Art. 8.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 11 NOVEMBRE 1996, N. 575](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-11;575)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 11 NOVEMBRE 1996, N. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-11;575)
 
-Art. 7
-------
+## Art. 9.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 11 NOVEMBRE 1996, N. 575](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-11;575)
-  
-
-Art. 8
-------
-
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 11 NOVEMBRE 1996, N. 575](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-11;575)
-  
-
-Art. 9
-------
-
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 11 NOVEMBRE 1996, N. 575](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-11;575)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 11 NOVEMBRE 1996, N. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-11;575)

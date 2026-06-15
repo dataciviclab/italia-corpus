@@ -1,16 +1,14 @@
-DECRETO 30 dicembre 1991 n. 443
-
-
-DECRETO 30 dicembre 1991 n. 443
-===============================
-
-Regolamento di attuazione dell'art. 29 della legge 23 luglio 1991, n. 223, in materia di pensionamenti anticipati nel settore siderurgico pubblico.
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 05-02-1992
+---
+tipo: DECRETO
+numero: 443
+data: 1991-12-30
+titolo: "Regolamento di attuazione dell'art. 29 della legge 23 luglio 1991, n. 223, in materia di pensionamenti anticipati nel settore siderurgico pubblico."
+urn: urn:nir:ministero.lavoro.e.previdenza.sociale:decreto:1991-12-30;443
+codice_redazionale: 092G0053
+vigente: true
+---
 
 IL MINISTRO DEL LAVORO
-----------------------
 
 E DELLA PREVIDENZA SOCIALE
 
@@ -20,11 +18,11 @@ IL MINISTRO
 
 DELLE PARTECIPAZIONI STATALI
 
-Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3);
+Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-Visto l'[art. 27 della legge 23 luglio 1991, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223~art27), che prevede il pensionamento anticipato di anzianita' e vecchiaia per i lavoratori delle imprese industriali ad alta capacita' innovativa e competitivita' mondiale, per le imprese del settore siderurgico privato, delle imprese a partecipazione statale del settore alluminio ed elettromeccanico, nonche' del settore cantieristico navale privato;
+Visto l'[art. 27 della legge 23 luglio 1991, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223#art_27), che prevede il pensionamento anticipato di anzianita' e vecchiaia per i lavoratori delle imprese industriali ad alta capacita' innovativa e competitivita' mondiale, per le imprese del settore siderurgico privato, delle imprese a partecipazione statale del settore alluminio ed elettromeccanico, nonche' del settore cantieristico navale privato;
 
-Visto l'art. 29 della predetta [legge n. 223/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;223), che estende la facolta' del pensionamento anticipato previsto dal richiamato art. 27, limitatamente alla pensione di vecchiaia, in favore dei lavoratori del settore siderurgico pubblico, ivi comprese le aziende di cui all'art. 1, comma 2, del decreto-legge 1› aprile 1989, n. 120, convertito, con modificazioni, dalla [legge 15 maggio 1989, n. 181](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-15;181), delle imprese produttrici di materiali refrattari ed elettrodi di grafite artificiale per l'industria siderurgica e delle imprese del settore cantieristico pubblico, limitatamente alle imprese di costruzione, riparazione, demolizione e trasformazione navale, nei limiti di novemila unita';
+Visto l'art. 29 della predetta [legge n. 223/1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;223), che estende la facolta' del pensionamento anticipato previsto dal richiamato art. 27, limitatamente alla pensione di vecchiaia, in favore dei lavoratori del settore siderurgico pubblico, ivi comprese le aziende di cui all'art. 1, comma 2, del decreto-legge 1 aprile 1989, n. 120, convertito, con modificazioni, dalla [legge 15 maggio 1989, n. 181](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20aprile%201989%20n.%20120%20recante%20misure%20di%20sostegno%20e%20di%20reindustrializzazione%20in%20attuazione%20del%20piano%20di%20risanamento%20della%20siderurgia.md), delle imprese produttrici di materiali refrattari ed elettrodi di grafite artificiale per l'industria siderurgica e delle imprese del settore cantieristico pubblico, limitatamente alle imprese di costruzione, riparazione, demolizione e trasformazione navale, nei limiti di novemila unita';
 
 Visto il predetto art. 29, nella parte in cui demanda al Ministro del lavoro e della previdenza sociale, di concerto con il Ministro delle partecipazioni statali, l'emanazione delle norme di attuazione per la ripartizione del contingente di novemila unita' tra le imprese interessate;
 
@@ -36,437 +34,127 @@ Inviato lo schema del presente regolamento, per la prescritta comunicazione al P
 
 A D O T T A il seguente regolamento:
 
-Art. 1
-------
+## Art. 1. — Ripartizione del contingente di novemila unita'
 
-Ripartizione del contingente di novemila unita'
+Il numero massimo dei lavoratori che possono essere ammessi al beneficio del pensionamento anticipato previsto dall'[art. 29 della legge 23 luglio 1991, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223#art_29), e' cosi' ripartito fra i settori interessati:
+ a) imprese industriali del settore siderurgico
+pubblico................................................ n. 4.275
+ b) imprese di cui all'art. 1, comma 2,
+del decreto-legge 1 aprile 1989, n. 120,
+convertito, con modificazioni, dalla [legge
+15 maggio 1989, n. 181](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20aprile%201989%20n.%20120%20recante%20misure%20di%20sostegno%20e%20di%20reindustrializzazione%20in%20attuazione%20del%20piano%20di%20risanamento%20della%20siderurgia.md).................................. " 978
+ c) imprese del settore cantieristico pubblico,
+limitatamente alle imprese di costruzione,
+riparazione, demolizione e trasformazione navale........ " 3.340
+ d) imprese produttrici di materiali refrattari
+e di elettrodi di grafite artificiale per l'industria
+siderurgica............................................. " 407
+ AVVERTENZA:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
-  
-Il numero massimo dei lavoratori che possono essere ammessi al beneficio del pensionamento anticipato previsto dall'[art. 29 della legge 23 luglio 1991, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223~art29), e' cosi' ripartito fra i settori interessati:  
-a) imprese industriali del settore siderurgico  
-pubblico................................................ n. 4.275  
-b) imprese di cui all'art. 1, comma 2,  
-del decreto-legge 1› aprile 1989, n. 120,  
-convertito, con modificazioni, dalla [legge  
-15 maggio 1989, n. 181](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-15;181).................................. " 978  
-c) imprese del settore cantieristico pubblico,  
-limitatamente alle imprese di costruzione,  
-riparazione, demolizione e trasformazione navale........ " 3.340  
-d) imprese produttrici di materiali refrattari  
-e di elettrodi di grafite artificiale per l'industria  
-siderurgica............................................. " 407  
-AVVERTENZA:  
-Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.  
-Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.  
+Note alle premesse:
+ - Il [comma 3 dell'art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.
+ Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
+ - Il testo degli [articoli 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;223#art_27) e [29 della legge n. 223/1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;223#art_29) (Norme in materia di cassa integrazione, mobilita', trattamenti di disoccupazione, attuazione di direttive della Comunita' europea, avviamento al lavoro ed altre disposizioni in materia di mercato del lavoro) e' il seguente:
+ "Art. 27 (Trattamenti di anzianita' e ristrutturazioni di aziende ad alta capacita' innovativa e competitivita' mondiale). - 1. I lavoratori dipendenti da imprese industriali caratterizzate da elevati livelli di innovazione tecnologica, competitivita' mondiale, capacita' innovativa, tali da essere definite di interesse nazionale, interessate da esigenze di ristrutturazione e riorganizzazione con adeguati programmi di sviluppo e di investimenti, che possano far valere nell'assicurazione generale obbligatoria per l'invalidita', la vecchiaia ed i superstiti almeno trenta anni di anzianita' assicurativa e contributiva agli effetti delle disposizioni del [primo comma, lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-30;153#art_com1-leta) e [b), dell'art. 22 della legge 30 aprile 1969, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-30;153#art_22-com1-letb), e successive modificazioni ed integrazioni, hanno facolta' di richiedere entro il 31 dicembre 1991 la concessione di un trattamento di pensione secondo la disciplina di cui all'art. 22 citato con una maggiorazione dell'anzianita' assicurativa e contributiva pari al periodo necessario per la maturazione del requisito dei trentacinque anni prescritto dalle disposizioni suddette, ed in ogni caso non superiore al periodo compreso tra la data di risoluzione del rapporto e quella del compimento di sessanta anni, se uomini, o di cinquantacinque anni se donne.
+ 2. Il CIPE, su proposta del Ministro del lavoro e della previdenza sociale, sentito il Ministro dell'industria, del commercio e dell'artigianato, ovvero il Ministro delle partecipazioni statali secondo le rispettive competenze, individua i criteri per la selezione delle imprese di cui al comma 1 e determina, entro il limite massimo di undicimila unita', il numero massimo dei pensionamenti anticipati.
+ 3. Le imprese, singolarmente o per gruppo di appartenenza, rientranti nelle ipotesi di cui al comma 1, che intendano avvalersi delle disposizioni del presente articolo, presentano programmi di ristrutturazione e riorganizzazione e dichiarano l'esistenza e l'entita' delle eccedenze strutturali di manodopera, richiedendone l'accertamento da parte del CIPE unitamente alla sussistenza dei requisiti di cui al comma 1.
+ 4. La facolta' di pensionamento anticipato di anzianita' puo' essere esercitata da un numero di lavoratori non superiore a quello delle eccedenze accertate dal CIPE. I lavoratori interessati sono tenuti a presentare all'impresa di appartenenza domanda irrevocabile per l'esercizio della facolta' di cui al comma 1, entro trenta giorni dalla comunicazione all'impresa stessa o al gruppo di imprese degli accertamenti del CIPE, ovvero entro trenta giorni dalla maturazione dei trenta anni di anzianita' di cui al comma 1, se posteriore. L'impresa entro dieci giorni dalla scadenza del termine trasmette all'INPS le domande dei lavoratori, in deroga al [primo comma, lettera c), dell'art. 22 della legge 30 aprile 1969, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-30;153#art_22-com1-letc). Nel caso in cui il numero dei lavoratori che esercitano la facolta' di pensionamento anticipato sia superiore a quello delle eccedenze accertate, l'impresa opera una selezione in base alle esigenze di ristrutturazione e riorganizzazione. Il rapporto di lavoro dei dipendenti le cui domande sono trasmesse all'INPS si estingue nell'ultimo giorno del mese in cui l'impresa effettua la trasmissione.
+ 5. La gestione di cui all'[art. 37 della legge 9 marzo 1989, n. 88](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-09;88#art_37), corrisponde al Fondo pensioni lavoratori dipendenti, per ciascun mese di anticipazione della pensione, una somma pari all'importo risultante dall'applicazione dell'aliquota contributiva in vigore per il Fondo medesimo sull'ultima retribuzione annua percepita da ciascun lavoratore interessato, ragguagliata a mese, nonche' una somma pari all'importo mensile della pensione anticipata, ivi compresa la tredicesima mensilita'.
+ L'impresa, entro trenta giorni dalla richiesta da parte dell'INPS, e' tenuta a corrispondere a favore della gestione di cui all'[art. 37 della legge 9 marzo 1989, n. 88](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-09;88#art_37), per ciascun dipendente che abbia usufruito del pensionamento anticipato di anzianita', un contributo pari al trenta per cento degli oneri complessivi di cui al presente comma, con facolta' di optare per il pagamento del contributo stesso, con addebito di interessi nella misura del dieci per cento in ragione d'anno, in un numero di rate mensili, di pari importo, non superiore a quello dei mesi di anticipazione della pensione.
+ 6. La facolta' di pensionamento anticipato di cui al presente articolo, nei limiti e con le modalita' indicati, vale fino al 31 dicembre 1991 anche per i lavoratori dipendenti dalle imprese industriali del settore siderurgico privato, dalle imprese industriali a partecipazione statale del settore alluminio e produzione di allumina e di quello termoelettromeccanico, nonche' per i lavoratori dipendenti dalle imprese del settore cantieristico privato, limitatamente alle imprese di costruzione, riparazione, demolizione e trasformazione navale.
+ 7. La facolta' di cui al presente articolo, con le pro- cedure, i limiti e le contribuzioni dal medesimo previsti, e' altresi' esercitabile fino al 31 dicembre 1991, ai fini del conseguimento della pensione di vecchiaia, con una maggiorazione dell'anzianita' assicurativa per i periodi mancanti al raggiungimento della normale eta' per essa prevista, dai lavoratori dipendenti dalle imprese appartenenti ai settori indicati al comma 6, che ne abbiano previsto l'utilizzazione in accordi aziendali o di comparto, di eta' non inferiore ai cinquantacinque anni se uomini e ai cinquanta anni se donne e che possano far valere non meno di quindici anni e non piu' di trenta anni di anzianita' contributiva".
+ "Art. 29 (Trattamenti di anzianita' nel settore siderurgico pubblico). - 1. La facolta' di cui all'art. 27, con le contribuzioni a carico delle imprese dal medesimo previste, e' esercitabile fino al 31 dicembre 1991 ai fini del conseguimento della pensione di vecchiaia, con una maggiorazione dell'anzianita' assicurativa per i periodi mancanti al raggiungimento della normale eta' per essa prevista, dai lavoratori dipendenti dalle imprese industriali del settore siderurgico pubblico, ivi comprese le imprese di cui all'art. 1, comma 2, del decreto-legge 1 aprile 1989, n. 120, convertito, con modificazioni, dalla [legge 15 maggio 1989, n. 181](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20aprile%201989%20n.%20120%20recante%20misure%20di%20sostegno%20e%20di%20reindustrializzazione%20in%20attuazione%20del%20piano%20di%20risanamento%20della%20siderurgia.md), dalle imprese produttrici di materiali refrattari, dalle imprese produttrici di elettrodi di grafite artificiale per l'industria siderurgica e dalle imprese del settore cantieristico pubblico, limitatamente alle imprese di costruzione, riparazione, demolizione e trasformazione navale, di eta' non inferiore a quella di cui all'[art. 1, primo comma, della legge 31 maggio 1984, n. 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-05-31;193#art_1-com1), e all'[art. 5, comma 5, del decreto-legge 30 dicembre 1987, n. 536](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-12-30;536#art_5-com5), convertito, con modificazioni, dalla [legge 29 febbraio 1988, n. 48](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201987%20n.%20536%20recante%20fiscalizzazione%20degli%20oneri%20sociali%20proroga%20degli%20sgravi%20contributivi%20nel%20Mezzogiorno%20interventi%20p_6585a660f0c7.md), che possano far valere non meno di quindici anni di anzianita' contributiva, nei limiti di novemila unita'. Con decreto del Ministro del lavoro e della previdenza sociale e del Ministro delle partecipazioni statali sono emanate le norme di attuazione per la ripartizione del predetto limite numerico tra le aziende interessate".
+ - Il testo dell'[art. 1, comma 2, del D.L. n. 120/1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989;120#art_1-com2) (Misure di sostegno e di reindustrializzazione in attuazione del piano risanamento della siderurgia) e' il seguente: "2. Possono altresi' essere ammessi ai benefici di cui agli articoli 2 e 3 i dipendenti delle imprese che, da data anteriore al 14 giugno 1988, svolgono in modo continuativo e prevalente attivita' di servizio e manutenzione negli stabilimenti siderurgici delle imprese di cui al comma 1, ivi comprese le imprese edili, nonche' le imprese che svolgono attivita' di produzione del carbone coke, per le quali intervenga il positivo accertamento del CIPI, ai sensi dell'[art. 2, comma quinto, lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-08-12;675#art_2-com5-leta) e [c), della legge 12 agosto 1977, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-08-12;675#art_2-com5-letc), e successive modificazioni. Possono essere ammessi ai predetti benefici, sempre in caso di positivo accertamento da parte del CIPI, anche i lavoratori che, occupati da data anteriore al 1 gennaio 1988, siano successivamente passati alle dipendenze dell'impresa in conseguenza del subingresso di quest'ultima nell'attivita' di servizio e manutenzione presso le imprese di cui al comma 1".
+ Note all'art. 1:
+ - Per il testo dell'[art. 29 della legge n. 223/1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;223#art_29) si veda in nota alle premesse.
+ - Per il testo dell'[art. 1, comma 2, del D.L. n. 120/1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989;120#art_1-com2) si veda in nota alle premesse.
 
-Note alle premesse:  
-- Il [comma 3 dell'art. 17 della legge n. 400/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.  
-Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.  
-- Il testo degli [articoli 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;223~art27) e [29 della legge n. 223/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;223~art29) (Norme in materia di cassa integrazione, mobilita', trattamenti di disoccupazione, attuazione di direttive della Comunita' europea, avviamento al lavoro ed altre disposizioni in materia di mercato del lavoro) e' il seguente:  
-"Art. 27 (Trattamenti di anzianita' e ristrutturazioni di aziende ad alta capacita' innovativa e competitivita' mondiale). - 1. I lavoratori dipendenti da imprese industriali caratterizzate da elevati livelli di innovazione tecnologica, competitivita' mondiale, capacita' innovativa, tali da essere definite di interesse nazionale, interessate da esigenze di ristrutturazione e riorganizzazione con adeguati programmi di sviluppo e di investimenti, che possano far valere nell'assicurazione generale obbligatoria per l'invalidita', la vecchiaia ed i superstiti almeno trenta anni di anzianita' assicurativa e contributiva agli effetti delle disposizioni del [primo comma, lettere a)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-30;153~com1-leta) e [b), dell'art. 22 della legge 30 aprile 1969, n. 153](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-30;153~art22-com1-letb), e successive modificazioni ed integrazioni, hanno facolta' di richiedere entro il 31 dicembre 1991 la concessione di un trattamento di pensione secondo la disciplina di cui all'art. 22 citato con una maggiorazione dell'anzianita' assicurativa e contributiva pari al periodo necessario per la maturazione del requisito dei trentacinque anni prescritto dalle disposizioni suddette, ed in ogni caso non superiore al periodo compreso tra la data di risoluzione del rapporto e quella del compimento di sessanta anni, se uomini, o di cinquantacinque anni se donne.  
-2. Il CIPE, su proposta del Ministro del lavoro e della previdenza sociale, sentito il Ministro dell'industria, del commercio e dell'artigianato, ovvero il Ministro delle partecipazioni statali secondo le rispettive competenze, individua i criteri per la selezione delle imprese di cui al comma 1 e determina, entro il limite massimo di undicimila unita', il numero massimo dei pensionamenti anticipati.  
-3. Le imprese, singolarmente o per gruppo di appartenenza, rientranti nelle ipotesi di cui al comma 1, che intendano avvalersi delle disposizioni del presente articolo, presentano programmi di ristrutturazione e riorganizzazione e dichiarano l'esistenza e l'entita' delle eccedenze strutturali di manodopera, richiedendone l'accertamento da parte del CIPE unitamente alla sussistenza dei requisiti di cui al comma 1.  
-4. La facolta' di pensionamento anticipato di anzianita' puo' essere esercitata da un numero di lavoratori non superiore a quello delle eccedenze accertate dal CIPE. I lavoratori interessati sono tenuti a presentare all'impresa di appartenenza domanda irrevocabile per l'esercizio della facolta' di cui al comma 1, entro trenta giorni dalla comunicazione all'impresa stessa o al gruppo di imprese degli accertamenti del CIPE, ovvero entro trenta giorni dalla maturazione dei trenta anni di anzianita' di cui al comma 1, se posteriore. L'impresa entro dieci giorni dalla scadenza del termine trasmette all'INPS le domande dei lavoratori, in deroga al [primo comma, lettera c), dell'art. 22 della legge 30 aprile 1969, n. 153](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-30;153~art22-com1-letc). Nel caso in cui il numero dei lavoratori che esercitano la facolta' di pensionamento anticipato sia superiore a quello delle eccedenze accertate, l'impresa opera una selezione in base alle esigenze di ristrutturazione e riorganizzazione. Il rapporto di lavoro dei dipendenti le cui domande sono trasmesse all'INPS si estingue nell'ultimo giorno del mese in cui l'impresa effettua la trasmissione.  
-5. La gestione di cui all'[art. 37 della legge 9 marzo 1989, n. 88](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-09;88~art37), corrisponde al Fondo pensioni lavoratori dipendenti, per ciascun mese di anticipazione della pensione, una somma pari all'importo risultante dall'applicazione dell'aliquota contributiva in vigore per il Fondo medesimo sull'ultima retribuzione annua percepita da ciascun lavoratore interessato, ragguagliata a mese, nonche' una somma pari all'importo mensile della pensione anticipata, ivi compresa la tredicesima mensilita'.  
-L'impresa, entro trenta giorni dalla richiesta da parte dell'INPS, e' tenuta a corrispondere a favore della gestione di cui all'[art. 37 della legge 9 marzo 1989, n. 88](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-09;88~art37), per ciascun dipendente che abbia usufruito del pensionamento anticipato di anzianita', un contributo pari al trenta per cento degli oneri complessivi di cui al presente comma, con facolta' di optare per il pagamento del contributo stesso, con addebito di interessi nella misura del dieci per cento in ragione d'anno, in un numero di rate mensili, di pari importo, non superiore a quello dei mesi di anticipazione della pensione.  
-6. La facolta' di pensionamento anticipato di cui al presente articolo, nei limiti e con le modalita' indicati, vale fino al 31 dicembre 1991 anche per i lavoratori dipendenti dalle imprese industriali del settore siderurgico privato, dalle imprese industriali a partecipazione statale del settore alluminio e produzione di allumina e di quello termoelettromeccanico, nonche' per i lavoratori dipendenti dalle imprese del settore cantieristico privato, limitatamente alle imprese di costruzione, riparazione, demolizione e trasformazione navale.  
-7. La facolta' di cui al presente articolo, con le pro- cedure, i limiti e le contribuzioni dal medesimo previsti, e' altresi' esercitabile fino al 31 dicembre 1991, ai fini del conseguimento della pensione di vecchiaia, con una maggiorazione dell'anzianita' assicurativa per i periodi mancanti al raggiungimento della normale eta' per essa prevista, dai lavoratori dipendenti dalle imprese appartenenti ai settori indicati al comma 6, che ne abbiano previsto l'utilizzazione in accordi aziendali o di comparto, di eta' non inferiore ai cinquantacinque anni se uomini e ai cinquanta anni se donne e che possano far valere non meno di quindici anni e non piu' di trenta anni di anzianita' contributiva".  
-"Art. 29 (Trattamenti di anzianita' nel settore siderurgico pubblico). - 1. La facolta' di cui all'art. 27, con le contribuzioni a carico delle imprese dal medesimo previste, e' esercitabile fino al 31 dicembre 1991 ai fini del conseguimento della pensione di vecchiaia, con una maggiorazione dell'anzianita' assicurativa per i periodi mancanti al raggiungimento della normale eta' per essa prevista, dai lavoratori dipendenti dalle imprese industriali del settore siderurgico pubblico, ivi comprese le imprese di cui all'art. 1, comma 2, del decreto-legge 1› aprile 1989, n. 120, convertito, con modificazioni, dalla [legge 15 maggio 1989, n. 181](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-15;181), dalle imprese produttrici di materiali refrattari, dalle imprese produttrici di elettrodi di grafite artificiale per l'industria siderurgica e dalle imprese del settore cantieristico pubblico, limitatamente alle imprese di costruzione, riparazione, demolizione e trasformazione navale, di eta' non inferiore a quella di cui all'[art. 1, primo comma, della legge 31 maggio 1984, n. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-05-31;193~art1-com1), e all'[art. 5, comma 5, del decreto-legge 30 dicembre 1987, n. 536](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-12-30;536~art5-com5), convertito, con modificazioni, dalla [legge 29 febbraio 1988, n. 48](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-02-29;48), che possano far valere non meno di quindici anni di anzianita' contributiva, nei limiti di novemila unita'. Con decreto del Ministro del lavoro e della previdenza sociale e del Ministro delle partecipazioni statali sono emanate le norme di attuazione per la ripartizione del predetto limite numerico tra le aziende interessate".  
-- Il testo dell'[art. 1, comma 2, del D.L. n. 120/1989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989;120~art1-com2) (Misure di sostegno e di reindustrializzazione in attuazione del piano risanamento della siderurgia) e' il seguente: "2. Possono altresi' essere ammessi ai benefici di cui agli articoli 2 e 3 i dipendenti delle imprese che, da data anteriore al 14 giugno 1988, svolgono in modo continuativo e prevalente attivita' di servizio e manutenzione negli stabilimenti siderurgici delle imprese di cui al comma 1, ivi comprese le imprese edili, nonche' le imprese che svolgono attivita' di produzione del carbone coke, per le quali intervenga il positivo accertamento del CIPI, ai sensi dell'[art. 2, comma quinto, lettere a)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-08-12;675~art2-com5-leta) e [c), della legge 12 agosto 1977, n. 675](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-08-12;675~art2-com5-letc), e successive modificazioni. Possono essere ammessi ai predetti benefici, sempre in caso di positivo accertamento da parte del CIPI, anche i lavoratori che, occupati da data anteriore al 1› gennaio 1988, siano successivamente passati alle dipendenze dell'impresa in conseguenza del subingresso di quest'ultima nell'attivita' di servizio e manutenzione presso le imprese di cui al comma 1".  
-Note all'art. 1:  
-- Per il testo dell'[art. 29 della legge n. 223/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;223~art29) si veda in nota alle premesse.  
-- Per il testo dell'[art. 1, comma 2, del D.L. n. 120/1989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989;120~art1-com2) si veda in nota alle premesse.
+## Art. 2. — Pensionamento anticipato per i lavoratori dipendenti
+ dalle imprese del settore siderurgico pubblico
 
-Art. 2
-------
+I benefici previsti dall'[art. 29 della legge 23 luglio 1991, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223#art_29), si applicano ai lavoratori in possesso dei previsti requisiti, appartenenti alle imprese di cui alla tabella A, allegata al presente decreto, entro i limiti massimi e secondo la ripartizione fra le varie imprese ed unita' produttive indicate nella tabella stessa.
 
-Pensionamento anticipato per i lavoratori dipendenti  
-dalle imprese del settore siderurgico pubblico
+Nota all'art. 2:
+ - Per il testo dell'[art. 29 della legge n. 223/1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;223#art_29) si veda in nota alle premesse.
 
-  
-I benefici previsti dall'[art. 29 della legge 23 luglio 1991, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223~art29), si applicano ai lavoratori in possesso dei previsti requisiti, appartenenti alle imprese di cui alla tabella A, allegata al presente decreto, entro i limiti massimi e secondo la ripartizione fra le varie imprese ed unita' produttive indicate nella tabella stessa.  
+## Art. 3.
 
-Nota all'art. 2:  
-- Per il testo dell'[art. 29 della legge n. 223/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;223~art29) si veda in nota alle premesse.
+Pensionamento anticipato per i lavoratori dipendenti dalle imprese di cui all'art. 1, comma 2, del decreto-legge 1 aprile 1989, n. 120, convertito, con modificazioni, dalla [legge 15 maggio 1989, n. 181](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20aprile%201989%20n.%20120%20recante%20misure%20di%20sostegno%20e%20di%20reindustrializzazione%20in%20attuazione%20del%20piano%20di%20risanamento%20della%20siderurgia.md).
+ 1. I benefici previsti dall'[art. 29 della legge 23 luglio 1991, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223#art_29), si applicano ai lavoratori, in possesso dei previsti requisiti, appartenenti alle imprese di cui alla lettera b) dell'art. 1 del presente decreto, entro il limite massimo ivi indicato.
+ 2. A tal fine, le imprese interessate comunicheranno al Ministero del lavoro e della previdenza sociale, entro dieci giorni dalla pubblicazione del presente decreto, il numero dei lavoratori in possesso dei requisiti per il pensionamento anticipato.
+ 3. Il Ministero del lavoro e della previdenza sociale comunichera' alle imprese interessate, entro i successivi dieci giorni, la ripartizione del contingente numerico di cui al precedente art. 1, lettera b), determinata sulla base della valutazione delle situazioni aziendali del settore, anche con riferimento al numero dei lavoratori occupati.
 
-Art. 3
-------
+Note all'art. 3:
+ - Per il testo dell'[art. 1, comma 2, del D.L. n. 120/1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989;120#art_1-com2) si veda in nota alle premesse.
+ - Per il testo dell'[art. 29 della legge n. 223/1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;223#art_29) si veda in nota alle premesse.
 
-Pensionamento anticipato per i lavoratori dipendenti dalle imprese di cui all'art. 1, comma 2, del decreto-legge 1› aprile 1989, n. 120, convertito, con modificazioni, dalla [legge 15 maggio 1989, n. 181](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-15;181).  
-1. I benefici previsti dall'[art. 29 della legge 23 luglio 1991, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223~art29), si applicano ai lavoratori, in possesso dei previsti requisiti, appartenenti alle imprese di cui alla lettera b) dell'art. 1 del presente decreto, entro il limite massimo ivi indicato.  
-2. A tal fine, le imprese interessate comunicheranno al Ministero del lavoro e della previdenza sociale, entro dieci giorni dalla pubblicazione del presente decreto, il numero dei lavoratori in possesso dei requisiti per il pensionamento anticipato.  
-3. Il Ministero del lavoro e della previdenza sociale comunichera' alle imprese interessate, entro i successivi dieci giorni, la ripartizione del contingente numerico di cui al precedente art. 1, lettera b), determinata sulla base della valutazione delle situazioni aziendali del settore, anche con riferimento al numero dei lavoratori occupati.  
+## Art. 4. — Pensionamento anticipato per i lavoratori dipendenti dalle imprese
+ del settore cantieristico pubblico limitatamente alle imprese di costruzione, riparazione, demolizione e trasformazione navale.
 
-Note all'art. 3:  
-- Per il testo dell'[art. 1, comma 2, del D.L. n. 120/1989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989;120~art1-com2) si veda in nota alle premesse.  
-- Per il testo dell'[art. 29 della legge n. 223/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;223~art29) si veda in nota alle premesse.
+I benefici previsti dall'[art. 29 della legge 23 luglio 1991, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223#art_29), si applicano ai lavoratori in possesso dei previsti requisiti, entro i limiti massimi e secondo la ripartizione indicati per ciascuna unita' produttiva nella tabella B, allegata al presente decreto.
 
-Art. 4
-------
+Nota agli articoli 4 e 5:
+ - Per il testo dell'[art. 29 della legge n. 223/1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;223#art_29) si veda in nota alle premesse.
 
-Pensionamento anticipato per i lavoratori dipendenti dalle imprese  
-del settore cantieristico pubblico limitatamente alle imprese di costruzione, riparazione, demolizione e trasformazione navale.
+## Art. 5. — Pensionamento anticipato per i lavoratori dipendenti dalle imprese
+ produttrici di materiali refrattari e di elettrodi di grafite artificiale per l'industria siderurgica.
 
-  
-I benefici previsti dall'[art. 29 della legge 23 luglio 1991, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223~art29), si applicano ai lavoratori in possesso dei previsti requisiti, entro i limiti massimi e secondo la ripartizione indicati per ciascuna unita' produttiva nella tabella B, allegata al presente decreto.  
+1.
 
-Nota agli articoli 4 e 5:  
-- Per il testo dell'[art. 29 della legge n. 223/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;223~art29) si veda in nota alle premesse.
+I benefici previsti dall'[art. 29 della legge 23 luglio 1991, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223#art_29), si applicano ai lavoratori, in possesso dei previsti requisiti, appartenenti alle imprese di cui alla lettera d) dell'art. 1 del presente decreto, entro il limite massimo ivi indicato.
 
-Art. 5
-------
+2.
 
-Pensionamento anticipato per i lavoratori dipendenti dalle imprese  
-produttrici di materiali refrattari e di elettrodi di grafite artificiale per l'industria siderurgica.
+A tal fine le imprese interessate comunicheranno al Ministero del lavoro e della previdenza sociale, entro dieci giorni dalla pubblicazione del presente decreto, il numero dei lavoratori in possesso dei requisiti per il pensionamento anticipato.
 
-1. I benefici previsti dall'[art. 29 della legge 23 luglio 1991, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223~art29), si applicano ai lavoratori, in possesso dei previsti requisiti, appartenenti alle imprese di cui alla lettera d) dell'art. 1 del presente decreto, entro il limite massimo ivi indicato.
+3.
 
-2. A tal fine le imprese interessate comunicheranno al Ministero del lavoro e della previdenza sociale, entro dieci giorni dalla pubblicazione del presente decreto, il numero dei lavoratori in possesso dei requisiti per il pensionamento anticipato.
+Il Ministero del lavoro e della previdenza sociale comunichera' alle imprese interessate, entro i successivi dieci giorni, la ripartizione del contingente di cui al precedente art. 1, determinata sulla base della valutazione delle situazioni aziendali del settore, anche con riferimento al numero dei lavoratori occupati.
 
-3. Il Ministero del lavoro e della previdenza sociale comunichera' alle imprese interessate, entro i successivi dieci giorni, la ripartizione del contingente di cui al precedente art. 1, determinata sulla base della valutazione delle situazioni aziendali del settore, anche con riferimento al numero dei lavoratori occupati.
+Nota agli articoli 4 e 5:
+ - Per il testo dell'[art. 29 della legge n. 223/1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;223#art_29) si veda in nota alle premesse.
 
-Nota agli articoli 4 e 5:  
-- Per il testo dell'[art. 29 della legge n. 223/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;223~art29) si veda in nota alle premesse.
+## Art. 6. — Adempimenti procedurali
 
-Art. 6
-------
+1.
 
-Adempimenti procedurali
+I lavoratori dipendenti dalle imprese di cui agli articoli 2, 3, 4 e 5 del presente decreto, interessati al pensionamento anticipato, sono tenuti a presentare all'unita' produttiva di appartenenza domanda irrevocabile per l'esercizio della suddetta facolta' entro il termine stabilito dall'[art. 29 della legge 23 luglio 1991, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223#art_29).
 
-1. I lavoratori dipendenti dalle imprese di cui agli articoli 2, 3, 4 e 5 del presente decreto, interessati al pensionamento anticipato, sono tenuti a presentare all'unita' produttiva di appartenenza domanda irrevocabile per l'esercizio della suddetta facolta' entro il termine stabilito dall'[art. 29 della legge 23 luglio 1991, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223~art29).
+2.
 
-2. Le imprese interessate, entro dieci giorni dalla scadenza di cui al precedente comma, trasmettono alla sede INPS competente per territorio le domande dei lavoratori, entro i limiti di cui ai precedenti articoli del presente decreto.
+Le imprese interessate, entro dieci giorni dalla scadenza di cui al precedente comma, trasmettono alla sede INPS competente per territorio le domande dei lavoratori, entro i limiti di cui ai precedenti articoli del presente decreto.
 
-3. Nel caso in cui il numero dei lavoratori che esercitano la facolta' del pensionamento anticipato sia superiore ai limiti di cui ai precedenti articoli del presente decreto, le imprese opereranno una selezione in base alle proprie esigenze.
+3.
 
-4. Il rapporto di lavoro dei dipendenti le cui domande sono trasmesse all'INPS si estingue nell'ultimo giorno del mese in cui l'impresa effettua la trasmissione.
+Nel caso in cui il numero dei lavoratori che esercitano la facolta' del pensionamento anticipato sia superiore ai limiti di cui ai precedenti articoli del presente decreto, le imprese opereranno una selezione in base alle proprie esigenze.
 
-5. Le domande inoltrate agli uffici provinciali del lavoro e della massima occupazione ai sensi del decreto-legge 1› aprile 1989, n. 120, convertito, con modificazioni, dalla [legge 15 maggio 1989, n. 181](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-15;181), e non accolte per carenza di disponibilita' dei contingenti stabiliti dal decreto-legge suddetto, devono considerarsi decadute. I lavoratori che intendono avvalersi della facolta' di cui all'[art. 29 della legge 23 luglio 1991, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223~art29), dovranno presentare una nuova domanda di pensionamento anticipato all'impresa di appartenenza, secondo le disposizioni del presente articolo.
+4.
 
-Note all'art. 6:  
-- Per il testo dell'[art. 29 della legge n. 223/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;223~art29) si veda in nota alle premesse.  
-- Il [D.L. n. 120/1989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989;120) reca: "Misure di sostegno e di reindustrializzazione in attuazione del piano di risanamento della siderurgia".
+Il rapporto di lavoro dei dipendenti le cui domande sono trasmesse all'INPS si estingue nell'ultimo giorno del mese in cui l'impresa effettua la trasmissione.
 
-Art. 7
-------
+5.
 
-Residue disponibilita' di unita' lavorative prepensionabili
+Le domande inoltrate agli uffici provinciali del lavoro e della massima occupazione ai sensi del decreto-legge 1 aprile 1989, n. 120, convertito, con modificazioni, dalla [legge 15 maggio 1989, n. 181](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20aprile%201989%20n.%20120%20recante%20misure%20di%20sostegno%20e%20di%20reindustrializzazione%20in%20attuazione%20del%20piano%20di%20risanamento%20della%20siderurgia.md), e non accolte per carenza di disponibilita' dei contingenti stabiliti dal decreto-legge suddetto, devono considerarsi decadute. I lavoratori che intendono avvalersi della facolta' di cui all'[art. 29 della legge 23 luglio 1991, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223#art_29), dovranno presentare una nuova domanda di pensionamento anticipato all'impresa di appartenenza, secondo le disposizioni del presente articolo.
 
-  
-Qualora, alla scadenza dei termini di cui all'art. 6 del presente decreto risultassero, nell'ambito del numero massimo di cui all'[art. 29 della legge 23 luglio 1991, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223~art29), residue disponibilita' di unita' lavorative prepensionabili, con decreto del Ministro del lavoro e della previdenza sociale e del Ministro delle partecipazioni statali si provvedera' alla ripartizione con criteri che saranno individuati nel decreto stesso.  
+Note all'art. 6:
+ - Per il testo dell'[art. 29 della legge n. 223/1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;223#art_29) si veda in nota alle premesse.
+ - Il [D.L. n. 120/1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989;120) reca: "Misure di sostegno e di reindustrializzazione in attuazione del piano di risanamento della siderurgia".
 
-Nota all'art. 7:  
-- Per il testo dell'[art. 29 della legge n. 223/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;223~art29) si veda in nota alle premesse.
+## Art. 7. — Residue disponibilita' di unita' lavorative prepensionabili
 
-Art. 8
-------
+Qualora, alla scadenza dei termini di cui all'art. 6 del presente decreto risultassero, nell'ambito del numero massimo di cui all'[art. 29 della legge 23 luglio 1991, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223#art_29), residue disponibilita' di unita' lavorative prepensionabili, con decreto del Ministro del lavoro e della previdenza sociale e del Ministro delle partecipazioni statali si provvedera' alla ripartizione con criteri che saranno individuati nel decreto stesso.
 
- Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
+Nota all'art. 7:
+ - Per il testo dell'[art. 29 della legge n. 223/1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;223#art_29) si veda in nota alle premesse.
+
+## Art. 8.
+
+Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 30 dicembre 1991
+Roma, 30 dicembre 1991
 
-Il Ministro del lavoro e della previdenza sociale MARINI Il Ministro delle partecipazioni statali (ad interim) ANDREOTTI
-
-Visto, il Guardasigilli: MARTELLI Registrato alla Corte dei conti il 20 gennaio 1992
-
-Registro n. 2 Lavoro, foglio n. 75
-
-Tabella A
-
- TABELLA A (Art. 2)   
-AZIENDE DEL SETTORE SIDERURGICO PUBBLICO   
-  
-  
-=====================================================================  
-Societa' e siti Beneficiari  
-ARC Sipra - Milano 1  
-ATB, in liquidazione - Brescia 29  
-Celestri 45  
-- di cui:  
-Como 5  
-Forli' 7  
-Mantova 1  
-Milano 27  
-Varese 5  
-Centro Acciai 7  
-- di cui:  
-Bitonto (Bari) 5  
-Torre Annunziata (Napoli) 2  
-Ci.Pro.S. - Venezia 1  
-Cogne S.p.a. 243  
-- di cui:  
-Aosta 224  
-Sesto San Giovanni (Milano) 13  
-Comm.le - Milano 5  
-Comm.le - Padova 1  
-C.S.M. 15  
-- di cui:  
-Genova 1  
-Roma 13  
-Terni 1  
-C.S. Schiavinox - Padova 1  
-Dalmine ATB S.p.a. 7  
-- di cui:  
-Brescia 6  
-Sabbia Bergamasco (Bergamo) 1  
-Dalmine S.p.a. 414  
-- di cui:  
-sede di Dalmine (Bergamo) 55  
-stabilimento di Dalmine (Bergamo) 276  
-uffici vendita di Bologna 2  
-uffici vendita di Genova 1  
-uffici vendita di Roma 2  
-uffici vendita di Torino 1  
-stabilimento di Massa 77  
-Dalmine tubi speciali - Bergamo 90  
-Eurosider - Verona 3  
-Finsider, in liquidazione - Roma 2  
-F.I.L.S. - Torino 12  
-I.C.M.I. - Napoli 101  
-Icrot 103  
-- di cui:  
-Taranto 60  
-Bagnoli (Napoli) 12  
-Piombino (Livorno) 10  
-Terni 9  
-Trieste 3  
-Cornigliano (Genova) 6  
-sede di Genova 3  
-Ilva Form - Racconigi (Cuneo) 10  
-Ilva S.p.a. 2.431  
-- di cui:  
-sede di Roma 5  
-sede di Genova 81  
-uffici vendita di Bologna 6  
-uffici vendita di Milano 18  
-uffici vendita di Napoli 1  
-uffici vendita di Padova 4  
-uffici vendita di Roma 3  
-uffici vendita di Torino 2  
-uffici vendita di Genova 1  
-Taranto 907  
-Bagnoli (Napoli) 139  
-Cornigliano (Genova) 132  
-Novi Ligure (Alessandria) 68  
-Torino divisione prodotti ind.li 42  
-Terni 376  
-Torino inox 48  
-Piombino (Livorno) 310  
-Miniere dell'Elba (Livorno) 9  
-Condove (Torino) 17  
-Sesto S. Giovanni (Milano) 80  
-Marghera (Venezia) 19  
-Genova - Campi 108  
-Torino ex N. Deltasider 40  
-Milano ex N. Deltasider 15  
-INNSE cilindri S.r.l. - Brescia 54  
-ITA - Cuneo 1  
-Itallamiere - Milano 4  
-Lavemetal - Frosinone 4  
-Lavezzari lamiere sud - Roma 4  
-Lavezzari S.p.a. - Pavia 27  
-Lavezzari tecnologie - Pavia 9  
-Merisid S.p.a. - Napoli 8  
-Morteo S.p.a. 75  
-- di cui:  
-Pozzolo Formigaro (Alessandria) 26  
-Sessa Aurunca (Caserta) 49  
-Nuova Sima S.r.l. - Torino 17  
-Santagostino lamiere - Milano 19  
-Seta tubi - Brescia 27  
-Sidercomit S.p.a. 78  
-- di cui:  
-Agrigento 1  
-Bergamo 1  
-Bologna 12  
-Brescia 1  
-Cagliari 1  
-Catania 1  
-Catanzaro 2  
-Chieti 3  
-Foggia 1  
-Messina 1  
-Milano 19  
-Napoli 1  
-Padova 6  
-Palermo 9  
-Taranto 8  
-Terni 1  
-Torino 6  
-Udine 1  
-Varese 3  
-Siderlandini 23  
-- di cui:  
-Padova 5  
-Trento 3  
-Treviso 3  
-Udine 2  
-Verona 10  
-Sidermontaggi - Taranto 29  
-Silca - Padova 4  
-Silpa tubi S.p.a. - Torino 8  
-Tubi Arcore - Milano 129  
-Tubi di qualita' - Milano 8  
-Tubi ghisa - Genova 125  
-Tubicar - Alessandria 8  
-T.D.I. 91  
-- di cui:  
-Piombino 50  
-Taranto 26  
-Torre Annunziata (Napoli) 13  
-Levate (Bergamo) 2  
-Verres S.p.a. - Aosta 8  
-\_\_\_\_\_\_  
-Totale ......... 4.275  
-  
-  
-  
-
-Tabella B
-
- TABELLA B (Art. 4)   
-AZIENDE DEL SETTORE CANTIERISTICO PUBBLICO   
-  
-=====================================================================  
-| Totale | Quadri | Impiegati | Intermedi  
-Unita' | prepen- | |\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|  
-|sionabili| |Tecnici |Amministr.|  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_  
-| | | | |  
-Direzione generale | 5 | 1 | 1 | 3 |  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_  
-| | | | |  
-Divisione costr. | | | | |  
-mercantili: | | | | |  
-| | | | |  
-Sede divisione | 35 | 1 | 19 | 10 | 1  
-Monfalcone | 488 | - | 19 | 4 | -  
-Marghera | 390 | - | 18 | 9 | 1  
-Sestri Ponente | 355 | - | 8 | 3 | -  
-Castellammare di | | | | |  
-Stabia | 480 | - | 59 | 20 | -  
-Ancona | 110 | - | 13 | 12 | -  
-Livorno | 15 | - | 4 | - | -  
-|\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_  
-| | | | |  
-Totale. . . |1.873 | 1 | 140 | 58 | 2  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_  
-| | | | |  
-Divisione costr. | | | | |  
-militari: | | | | |  
-| | | | |  
-Sede divisione | 16 | - | - | 12 | -  
-Riva Trigoso | 126 | - | 10 | 3 | -  
-Muggiano | 83 | - | 11 | 1 | -  
-Settore tecnico | 5 | - | 5 | - | -  
-Sommergibili | - | - | - | - | -  
-|\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_  
-| | | | |  
-Totale. . . | 230 | 0 | 26 | 16 | 0  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_  
-| | | | |  
-Divisione riparaz. | | | | |  
-navali: | | | | |  
-| | | | |  
-Sede divisione | 18 | - | 9 | 9 | -  
-Genova | 189 | - | 25 | 12 | -  
-Napoli | 246 | - | 31 | 13 | -  
-Palermo | 450 | - | 35 | 25 | -  
-Taranto | 61 | - | 4 | 3 | -  
-Venezia | 60 | - | 7 | 3 | -  
-Trieste | 87 | - | 14 | 6 | -  
-Ente bacini | 15 | - | 2 | - | -  
-|\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_  
-| | | | |  
-Totale. . . |1.126 | 0 | 127 | 71 | 0  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_  
-| | | | |  
-Divisione motori | | | | |  
-diesel: | | | | |  
-| | | | |  
-Trieste | 68 | - | 2 | 4 | -  
-Base Genova | 26 | - | 6 | 3 | -  
-Base Napoli | 12 | - | 2 | - | -  
-|\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_  
-| | | | |  
-Totale. . . | 106 | 0 | 10 | 7 | 0  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_  
-| | | | |  
-Totale Fincantieri |3.340 | 2 | 304 | 155 | 2
-  
-  
-  
-TABELLA B (Art. 4)   
-AZIENDE DEL SETTORE CANTIERISTICO PUBBLICO   
-  
-=====================================================================  
-|  
-Unita' | Operai  
-|  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-|  
-Direzione generale |  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-|  
-Divisione costr. | Area Area Ausiliari Personale  
-mercantili: | scafo allestim. in produz. indiretto  
-| \_\_ \_\_ \_\_ \_\_  
-Sede divisione | - - - 4  
-Monfalcone | 224 83 58 100  
-Marghera | 180 73 31 78  
-Sestri Ponente | 137 101 36 70  
-Castellammare di |  
-Stabia | 135 121 51 94  
-Ancona | 34 23 9 19  
-Livorno | 5 2 3 1  
-|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-|  
-Totale. . . | 715 403 188 366  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-|  
-Divisione costr. | Area Area Ausiliari Personale  
-militari: | scafo allestim. in produz. indiretto  
-| \_\_ \_\_ \_\_ \_\_  
-Sede divisione | - - - 4  
-Riva Trigoso | 30 31 19 33  
-Muggiano | 3 28 7 33  
-Settore tecnico | - - - -  
-Sommergibili | - - - -  
-|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-|  
-Totale. . . | 33 59 26 70  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-|  
-Divisione riparaz. | Area Area Ausiliari Personale  
-navali: | terra bordo in produz. indiretto  
-| \_\_ \_\_ \_\_ \_\_  
-Sede divisione | - - - -  
-Genova | 56 23 33 40  
-Napoli | 29 64 84 25  
-Palermo | 106 129 40 115  
-Taranto | 6 32 9 7  
-Venezia | 9 18 17 6  
-Trieste | 14 13 19 21  
-Ente bacini | - - 3 10  
-|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-|  
-Totale. . . | 220 279 205 224  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-|  
-Divisione motori | Area Area Eccedenze Servizi  
-diesel: | terra bordo Ex TS 2 indiretti  
-| \_\_ \_\_ \_\_ \_\_  
-Trieste | - - 42 20  
-Base Genova | 6 5 - 6  
-Base Napoli | 1 8 - 1  
-|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-|  
-Totale. . . | 7 13 42 27  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-  
-Totale Fincantieri. . 975 754 461 687  
-  
-  
+Il Ministro del lavoro e della previdenza sociale MARINI Il Ministro delle partecipazioni statali (ad interim) ANDREOTTI Visto, il Guardasigilli: MARTELLI Registrato alla Corte dei conti il 20 gennaio 1992 Registro n. 2 Lavoro, foglio n. 75

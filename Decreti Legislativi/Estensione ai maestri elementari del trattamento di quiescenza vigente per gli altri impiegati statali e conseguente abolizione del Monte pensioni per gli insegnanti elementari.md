@@ -1,18 +1,17 @@
-DECRETO LEGISLATIVO 07 maggio 1948 n. 1066
+---
+tipo: DECRETO LEGISLATIVO
+numero: 1066
+data: 1948-05-07
+titolo: "Estensione ai maestri elementari del trattamento di quiescenza vigente per gli altri impiegati statali e conseguente abolizione del Monte pensioni per gli insegnanti elementari."
+urn: urn:nir:stato:decreto.legislativo:1948-05-07;1066
+codice_redazionale: 048U1066
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 07 maggio 1948 n. 1066
-==========================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Estensione ai maestri elementari del trattamento di quiescenza vigente per gli altri impiegati statali e conseguente abolizione del Monte pensioni per gli insegnanti elementari.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

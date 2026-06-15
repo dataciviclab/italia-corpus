@@ -1,20 +1,17 @@
-DECRETO-LEGGE 17 marzo 1975 n. 50
+---
+tipo: DECRETO-LEGGE
+numero: 50
+data: 1975-03-17
+titolo: "Norme dirette ad accelerare la costruzione di centrali elettriche."
+urn: urn:nir:stato:decreto.legge:1975-03-17;50
+codice_redazionale: 075U0050
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 17 marzo 1975 n. 50
-=================================
+DECRETO DECADUTO
 
-Norme dirette ad accelerare la costruzione di centrali elettriche.
-------------------------------------------------------------------
+## Art. 2.
 
-Decreto-Legge decaduto per mancata conversione.
-
-Art. 1
-------
-
- DECRETO DECADUTO  
-
-Art. 2
-------
-
- DECRETO DECADUTO  
+DECRETO DECADUTO

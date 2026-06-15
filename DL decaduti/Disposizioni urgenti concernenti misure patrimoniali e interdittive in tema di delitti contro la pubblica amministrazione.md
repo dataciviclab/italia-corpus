@@ -1,40 +1,29 @@
-DECRETO-LEGGE 19 settembre 1992 n. 385
+---
+tipo: DECRETO-LEGGE
+numero: 385
+data: 1992-09-19
+titolo: "Disposizioni urgenti concernenti misure patrimoniali e interdittive in tema di delitti contro la pubblica amministrazione."
+urn: urn:nir:stato:decreto.legge:1992-09-19;385
+codice_redazionale: 092G0429
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 19 settembre 1992 n. 385
-======================================
+DECRETO DECADUTO
 
-Disposizioni urgenti concernenti misure patrimoniali e interdittive in tema di delitti contro la pubblica amministrazione.
---------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 22/9/1992.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO   
-
-Art. 4
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 5
-------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

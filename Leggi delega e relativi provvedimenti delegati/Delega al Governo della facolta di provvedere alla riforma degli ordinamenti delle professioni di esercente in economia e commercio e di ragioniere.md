@@ -1,13 +1,13 @@
-LEGGE 28 dicembre 1952 n. 3060
+---
+tipo: LEGGE
+numero: 3060
+data: 1952-12-28
+titolo: "Delega al Governo della facolta' di provvedere alla riforma degli ordinamenti delle professioni di esercente in economia e commercio e di ragioniere."
+urn: urn:nir:stato:legge:1952-12-28;3060
+codice_redazionale: 052U3060
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 28 dicembre 1952 n. 3060
-==============================
-
-Delega al Governo della facolta' di provvedere alla riforma degli ordinamenti delle professioni di esercente in economia e commercio e di ragioniere.
------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

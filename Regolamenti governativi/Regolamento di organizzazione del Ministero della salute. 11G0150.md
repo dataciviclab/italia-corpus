@@ -1,94 +1,93 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 2011 n. 108
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 108
+data: 2011-03-11
+titolo: "Regolamento di organizzazione del Ministero della salute. (11G0150)"
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2011-03-11;108
+codice_redazionale: 011G0150
+vigente: true
+---
 
+## ORGANIZZAZIONE   DEL MINISTERO DELLA SALUTE
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 2011 n. 108
-============================================================
+Capo I
 
-Regolamento di organizzazione del Ministero della salute. (11G0150)
--------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del provvedimento: 29/07/2011
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 11 FEBBRAIO 2014, N. 59))
 
-CAPO I Capo I ORGANIZZAZIONE DEL MINISTERO DELLA SALUTE
--------------------------------------------------------
+### Art. 2.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 11 FEBBRAIO 2014, N. 59))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 11 FEBBRAIO 2014, N. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-11;59)))
+## ORGANIZZAZIONE DEI DIPARTIMENTI     Sezione I     Dipartimento della sanita' pubblica   e dell'innovazione
 
-### Art. 2
+Capo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 11 FEBBRAIO 2014, N. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-11;59)))
+### Art. 3.
 
-CAPO II Capo II ORGANIZZAZIONE DEI DIPARTIMENTI Sezione I Dipartimento della sanita' pubblica e dell'innovazione
-----------------------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 11 FEBBRAIO 2014, N. 59))
 
-### Art. 3
+### Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 11 FEBBRAIO 2014, N. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-11;59)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 11 FEBBRAIO 2014, N. 59))
 
-### Art. 4
+## Dipartimento della programmazione e dell'ordinamento del Servizio  sanitario nazionale
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 11 FEBBRAIO 2014, N. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-11;59)))
+Sezione II
 
-CAPO III Sezione II Dipartimento della programmazione e dell'ordinamento del Servizio sanitario nazionale
----------------------------------------------------------------------------------------------------------
+### Art. 5.
 
-### Art. 5
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 11 FEBBRAIO 2014, N. 59))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 11 FEBBRAIO 2014, N. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-11;59)))
+### Art. 6.
 
-### Art. 6
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 11 FEBBRAIO 2014, N. 59))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 11 FEBBRAIO 2014, N. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-11;59)))
+## Dipartimento della sanita' pubblica veterinaria, della sicurezza  alimentare e degli organi collegiali   per la tutela della salute
 
-CAPO IV Sezione III Dipartimento della sanita' pubblica veterinaria, della sicurezza alimentare e degli organi collegiali per la tutela della salute
-----------------------------------------------------------------------------------------------------------------------------------------------------
+Sezione III
 
-### Art. 7
+### Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 11 FEBBRAIO 2014, N. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-11;59)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 11 FEBBRAIO 2014, N. 59))
 
-### Art. 8
+### Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 11 FEBBRAIO 2014, N. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-11;59)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 11 FEBBRAIO 2014, N. 59))
 
-CAPO V Sezione IV Organizzazione, bilancio e personale
-------------------------------------------------------
+## Organizzazione, bilancio e personale
 
-### Art. 9
+Sezione IV
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 11 FEBBRAIO 2014, N. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-11;59)))
+### Art. 9.
 
-CAPO VI Capo III ARTICOLAZIONE TERRITORIALE DEL MINISTERO E DISPOSIZIONI IN MATERIA DI ORGANIZZAZIONE E DI PERSONALE. ORGANISMO INDIPENDENTE DI VALUTAZIONE DELLA PERFORMANCE
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 11 FEBBRAIO 2014, N. 59))
 
-### Art. 10
+## ARTICOLAZIONE TERRITORIALE DEL MINISTERO E DISPOSIZIONI IN MATERIA DI ORGANIZZAZIONE E DI PERSONALE. ORGANISMO INDIPENDENTE DI VALUTAZIONE  DELLA PERFORMANCE
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 11 FEBBRAIO 2014, N. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-11;59)))
+Capo III
 
-### Art. 11
+### Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 11 FEBBRAIO 2014, N. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-11;59)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 11 FEBBRAIO 2014, N. 59))
 
-### Art. 12
+### Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 11 FEBBRAIO 2014, N. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-11;59)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 11 FEBBRAIO 2014, N. 59))
 
-### Art. 13
+### Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 11 FEBBRAIO 2014, N. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-11;59)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 11 FEBBRAIO 2014, N. 59))
 
-CAPO VII Capo IV NORME DI ABROGAZIONE E FINALI
-----------------------------------------------
+### Art. 13.
 
-### Art. 14
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 11 FEBBRAIO 2014, N. 59))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 11 FEBBRAIO 2014, N. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-11;59)))
+## NORME DI ABROGAZIONE E FINALI
 
-Allegato
+Capo IV
 
- Allegato   
-  
+### Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 11 FEBBRAIO 2014, N. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-11;59)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 11 FEBBRAIO 2014, N. 59))

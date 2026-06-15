@@ -1,15 +1,13 @@
-DECRETO LEGISLATIVO 11 luglio 1996 n. 445
+---
+tipo: DECRETO LEGISLATIVO
+numero: 445
+data: 1996-07-11
+titolo: "Norma di attuazione dello statuto speciale della regione Trentino-Alto Adige concernente modifiche delle tabelle organiche degli uffici statali nella provincia di Bolzano."
+urn: urn:nir:stato:decreto.legislativo:1996-07-11;445
+codice_redazionale: 096G0468
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 11 luglio 1996 n. 445
-=========================================
-
-Norma di attuazione dello statuto speciale della regione Trentino-Alto Adige concernente modifiche delle tabelle organiche degli uffici statali nella provincia di Bolzano.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 13/9/1996.
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 MARZO 2001, N. 113](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-01;113)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 MARZO 2001, N. 113))

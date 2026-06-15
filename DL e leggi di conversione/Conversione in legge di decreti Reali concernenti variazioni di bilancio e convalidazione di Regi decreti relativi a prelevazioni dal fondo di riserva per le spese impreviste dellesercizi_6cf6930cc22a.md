@@ -1,22 +1,19 @@
-LEGGE 22 dicembre 1927 n. 2403
+---
+tipo: LEGGE
+numero: 2403
+data: 1927-12-22
+titolo: "Conversione in legge di decreti Reali concernenti variazioni di bilancio e convalidazione di Regi decreti relativi a prelevazioni dal fondo di riserva per le spese impreviste dell'esercizio finanziario 1926-27. (027U2403)"
+urn: urn:nir:stato:legge:1927-12-22;2403
+codice_redazionale: 027U2403
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 22 dicembre 1927 n. 2403
-==============================
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
 
-Conversione in legge di decreti Reali concernenti variazioni di bilancio e convalidazione di Regi decreti relativi a prelevazioni dal fondo di riserva per le spese impreviste dell'esercizio finanziario 1926-27. (027U2403)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 30/12/1927
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

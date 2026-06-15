@@ -1,65 +1,53 @@
-DECRETO-LEGGE 13 luglio 1989 n. 253
+---
+tipo: DECRETO-LEGGE
+numero: 253
+data: 1989-07-13
+titolo: "Ulteriori interventi per Roma, capitale della Repubblica."
+urn: urn:nir:stato:decreto.legge:1989-07-13;253
+codice_redazionale: 089G0329
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 13 luglio 1989 n. 253
-===================================
+DECRETO DECADUTO
 
-Ulteriori interventi per Roma, capitale della Repubblica.
----------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 16/7/1989.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 3
-------
+## Art. 5.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 4
-------
+## Art. 6.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 5
-------
+## Art. 7.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 6
-------
+## Art. 8.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 7
-------
+## Art. 9.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 8
-------
+## Art. 10.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 9
-------
+## Art. 11.
 
- DECRETO DECADUTO  
-
-Art. 10
--------
-
- DECRETO DECADUTO  
-
-Art. 11
--------
-
- DECRETO DECADUTO  
+DECRETO DECADUTO

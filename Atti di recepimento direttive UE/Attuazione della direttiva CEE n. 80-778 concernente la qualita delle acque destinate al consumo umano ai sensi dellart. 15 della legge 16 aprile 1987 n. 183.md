@@ -1,24 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1988 n. 236
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1988 n. 236
-=============================================================
-
-Attuazione della direttiva CEE n. 80/778 concernente la qualita' delle acque destinate al consumo umano, ai sensi dell'art. 15 della legge 16 aprile 1987, n. 183.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 15-7-1988
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 236
+data: 1988-05-24
+titolo: "Attuazione della direttiva CEE n. 80/778 concernente la qualita' delle acque destinate al consumo umano, ai sensi dell'art. 15 della legge 16 aprile 1987, n. 183."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1988-05-24;236
+codice_redazionale: 088G0281
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visti gli [articoli 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art76) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
+Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 16 aprile 1987, n. 183](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-16;183), concernente il coordinamento delle politiche comunitarie riguardanti l'appartenenza dell'Italia alle Comunita' europee e l'adeguamento dell'ordinamento interno agli atti normativi comunitari;
+Vista la [legge 16 aprile 1987, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-16;183), concernente il coordinamento delle politiche comunitarie riguardanti l'appartenenza dell'Italia alle Comunita' europee e l'adeguamento dell'ordinamento interno agli atti normativi comunitari;
 
-Vista la [direttiva CEE n. 80/778](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31980L0778) concernente la qualita' delle acque destinate al consumo umano, indicata nell'elenco C allegato alla [legge 16 aprile 1987, n. 183](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-16;183);
+Vista la [direttiva CEE n. 80/778](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1980;778) concernente la qualita' delle acque destinate al consumo umano, indicata nell'elenco C allegato alla [legge 16 aprile 1987, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-16;183);
 
-Considerato che in data 11 aprile 1988, ai termini dell'art. 15 della citata [legge 16 aprile 1987, n. 183](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-16;183), che delega il Governo ad emanare norme attuative delle direttive indicate nel predetto elenco C, e' stato inviato lo schema del presente provvedimento ai Presidenti della Camera dei deputati e del Senato della Repubblica per gli adempimenti ivi previsti;
+Considerato che in data 11 aprile 1988, ai termini dell'art. 15 della citata [legge 16 aprile 1987, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-16;183), che delega il Governo ad emanare norme attuative delle direttive indicate nel predetto elenco C, e' stato inviato lo schema del presente provvedimento ai Presidenti della Camera dei deputati e del Senato della Repubblica per gli adempimenti ivi previsti;
 
 Acquisito il parere delle competenti commissioni della Camera dei deputati e del Senato della Repubblica;
 
@@ -28,375 +26,358 @@ Sulla proposta del Ministro per il coordinamento delle politiche comunitarie, di
 
 E M A N A il seguente decreto:
 
-Art. 1
-------
+## Art. 1. — Principi generali
 
-Principi generali
+1.
 
-1. Il presente decreto stabilisce i requisiti di qualita' delle acque destinate al consumo umano, per la tutela della salute pubblica e per il miglioramento delle condizioni di vita ed introduce misure finalizzate a garantire la difesa delle risorse idriche.
+Il presente decreto stabilisce i requisiti di qualita' delle acque destinate al consumo umano, per la tutela della salute pubblica e per il miglioramento delle condizioni di vita ed introduce misure finalizzate a garantire la difesa delle risorse idriche.
 
-AVVERTENZA:  
-Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 192](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;192), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+AVVERTENZA:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;192), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
-Art. 2
-------
+## Art. 2. — Campo di applicazione
 
-Campo di applicazione
+1.
 
-1. Per acque destinate al consumo umano si intendono tutte le acque, qualunque ne sia l'origine, allo stato in cui si trovano o dopo trattamento, che siano:
+Per acque destinate al consumo umano si intendono tutte le acque, qualunque ne sia l'origine, allo stato in cui si trovano o dopo trattamento, che siano:
+                        a)
+                            fornite al consumo;
+                        b)
+                            ovvero utilizzate da imprese alimentari mediante incorporazione o contatto per la fabbricazione, il trattamento, la conservazione, l'imissione sul mercato di prodotti e sostanze destinate al consumo umano e che possano avere conseguenze per la salubrita' del prodotto alimentare finale.
 
-a) fornite al consumo;
+2.
 
-b) ovvero utilizzate da imprese alimentari mediante incorporazione o contatto per la fabbricazione, il trattamento, la conservazione, l'imissione sul mercato di prodotti e sostanze destinate al consumo umano e che possano avere conseguenze per la salubrita' del prodotto alimentare finale.
+Restano escluse dal campo di applicazione del presente decreto le acque minerali e termali.
 
-2. Restano escluse dal campo di applicazione del presente decreto le acque minerali e termali.
+## Art. 3. — Requisiti di qualita'
 
-Art. 3
-------
+1.
 
-Requisiti di qualita'
+I requisiti di qualita' delle acque sono valutati sulla base dei valori e delle indicazioni relativi ai parametri di cui all'allegato I.
 
-1. I requisiti di qualita' delle acque sono valutati sulla base dei valori e delle indicazioni relativi ai parametri di cui all'allegato I.
+2.
 
-2. La concentrazione massima ammissibile di ciascun parametro non puo' essere superata.
+La concentrazione massima ammissibile di ciascun parametro non puo' essere superata.
 
-3. I valori guida costituiscono obiettivi al cui raggiungimento l'attivita' amministrativa deve tendere.
+3.
 
-4. Per le acque che subiscono un trattamento di addolcimento sono specificati, all'allegato I, i valori della concentrazione minima richiesta.
+I valori guida costituiscono obiettivi al cui raggiungimento l'attivita' amministrativa deve tendere.
 
-5. I valori che sono indicati nell'allegato I devono essere interpretati per ciascun parametro tenendo conto delle osservazioni eventualmente riportate nel medesimo allegato.
+4.
 
-Art. 4
-------
+Per le acque che subiscono un trattamento di addolcimento sono specificati, all'allegato I, i valori della concentrazione minima richiesta.
 
-(( IL [D. LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO ))
+5.
 
-Art. 5
-------
+I valori che sono indicati nell'allegato I devono essere interpretati per ciascun parametro tenendo conto delle osservazioni eventualmente riportate nel medesimo allegato.
 
-(( IL [D. LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO ))
+## Art. 4.
 
-Art. 6
-------
+(( IL D. LGS. 3 APRILE 2006, N. 152 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO ))
 
-(( IL [D. LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO ))
+## Art. 5.
 
-Art. 7
-------
+(( IL D. LGS. 3 APRILE 2006, N. 152 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO ))
 
-(( IL [D. LGS. 3 APRILE 2006, N. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO ))
+## Art. 6.
 
-Art. 8
-------
+(( IL D. LGS. 3 APRILE 2006, N. 152 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO ))
 
-Competenze statali
+## Art. 7.
 
-1. Sono di competenza statale le funzioni concernenti:
+(( IL D. LGS. 3 APRILE 2006, N. 152 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO ))
 
-a) promozione, consulenza, indirizzo e coordinamento delle attivita' connesse con l'applicazione del presente decreto;
+## Art. 8. — Competenze statali
 
-b) le modifiche, le variazioni e le integrazioni degli allegati I, II e III;
+1.
 
-c) la predisposizione e l'aggiornamento dei criteri generali e delle metodologie per il rilevamento delle caratteristiche delle acque dolci sotterranee, salmastre e marine da destinare al consumo umano, nonche' dei criteri per la formazione e l'aggiornamento dei relativi catasti;
+Sono di competenza statale le funzioni concernenti:
+                        a)
+                            promozione, consulenza, indirizzo e coordinamento delle attivita' connesse con l'applicazione del presente decreto;
+                        b)
+                            le modifiche, le variazioni e le integrazioni degli allegati I, II e III;
+                        c)
+                            la predisposizione e l'aggiornamento dei criteri generali e delle metodologie per il rilevamento delle caratteristiche delle acque dolci sotterranee, salmastre e marine da destinare al consumo umano, nonche' dei criteri per la formazione e l'aggiornamento dei relativi catasti;
+                        d)
+                            le norme tecniche per la tutela preventiva e per il risanamento della qualita' delle acque destinate al consumo umano, nonche' i criteri generali per la individuazione delle aree di salvaguardia delle risorse idriche;
+                        e)
+                            le norme tecniche per l'installazione degli impianti di acquedotto;
+                        f)
+                            le norme tecniche per la potabilizzazione delle acque;
+                        g)
+                            le norme tecniche per lo scavo, perforazione, trivellazione, manutenzione, chiusura e riapertura di pozzi d'acqua;
+                        h)
+                            acquisizione ed elaborazione di informazioni sulla qualita' delle acque destinate al consumo umano.
 
-d) le norme tecniche per la tutela preventiva e per il risanamento della qualita' delle acque destinate al consumo umano, nonche' i criteri generali per la individuazione delle aree di salvaguardia delle risorse idriche;
+2.
 
-e) le norme tecniche per l'installazione degli impianti di acquedotto;
+Le competenze statali di cui alle lettere a), b), c) e d), sono esercitate dal Ministro della sanita', di concerto con il Ministro dell'ambiente; la competenza di cui alla lettera f) e' esercitata dal Ministro della sanita'; le competenze di cui alle lettere e) e g), sono esercitate dal Ministro dei lavori pubblici, di concerto con i Ministri della sanita' e dell'ambiente.
 
-f) le norme tecniche per la potabilizzazione delle acque;
+## Art. 9. — Competenze regionali
 
-g) le norme tecniche per lo scavo, perforazione, trivellazione, manutenzione, chiusura e riapertura di pozzi d'acqua;
+1.
 
-h) acquisizione ed elaborazione di informazioni sulla qualita' delle acque destinate al consumo umano.
-
-2. Le competenze statali di cui alle lettere a), b), c) e d), sono esercitate dal Ministro della sanita', di concerto con il Ministro dell'ambiente; la competenza di cui alla lettera f) e' esercitata dal Ministro della sanita'; le competenze di cui alle lettere e) e g), sono esercitate dal Ministro dei lavori pubblici, di concerto con i Ministri della sanita' e dell'ambiente.
-
-Art. 9
-------
-
-Competenze regionali
-
-1. Alle regioni competono le seguenti funzioni:
-
-a) previsione di misure atte a rendere possibile un approvvigionamento idrico di emergenza per fornire acqua potabile rispondente ai requisiti previsti dall'allegato I, per la quantita' ed il periodo minimi necessari a far fronte a contingenti esigenze locali;
-
-b) esercizio dei poteri sostitutivi, in caso di inerzia degli enti locali, per la salvaguardia delle risorse idriche da destinare al consumo umano;
-
-c) esercizio del potere di deroga;
-
-d) adozione dei piani di intervento per il risanamento ed il miglioramento della qualita' delle acque;
-
-e) coordinamento del flusso informativo sulle caratteristiche delle acque destinate al consumo umano, anche ai fini di cui all'art.   
+Alle regioni competono le seguenti funzioni:
+                        a)
+                            previsione di misure atte a rendere possibile un approvvigionamento idrico di emergenza per fornire acqua potabile rispondente ai requisiti previsti dall'allegato I, per la quantita' ed il periodo minimi necessari a far fronte a contingenti esigenze locali;
+                        b)
+                            esercizio dei poteri sostitutivi, in caso di inerzia degli enti locali, per la salvaguardia delle risorse idriche da destinare al consumo umano;
+                        c)
+                            esercizio del potere di deroga;
+                        d)
+                            adozione dei piani di intervento per il risanamento ed il miglioramento della qualita' delle acque;
+                        e)
+                            coordinamento del flusso informativo sulle caratteristiche delle acque destinate al consumo umano, anche ai fini di cui all'art. 
 8, comma 1, lettera h);
+                        f)
+                            individuazione delle aree di salvaguardia e disciplina delle attivita' e destinazioni ammissibili, salvo il disposto degli articoli 4, 5, 6 e 7.
 
-f) individuazione delle aree di salvaguardia e disciplina delle attivita' e destinazioni ammissibili, salvo il disposto degli articoli 4, 5, 6 e 7.
+## Art. 10. — Frequenze di campionamento e metodi di analisi
 
-Art. 10
--------
+1.
 
-Frequenze di campionamento e metodi di analisi
-
-1. Negli allegati II e III sono indicati, rispettivamente, i modeli e le frequenze minime di campionamento, nonche' i metodi analitici di riferimento da adottarsi per il controllo qualitativo delle acque   
+Negli allegati II e III sono indicati, rispettivamente, i modeli e le frequenze minime di campionamento, nonche' i metodi analitici di riferimento da adottarsi per il controllo qualitativo delle acque 
 destinate al consumo umano, nei punti significativi della rete
 
-Art. 11
--------
+## Art. 11. — Controlli
 
-Controlli
+1.
 
-1. Per verificare la buona qualita' delle acque destinate al consumo umano, sono esercitati inoltre controlli periodici:
+Per verificare la buona qualita' delle acque destinate al consumo umano, sono esercitati inoltre controlli periodici:
+                        a)
+                            alla sorgente, ai pozzi ed al punto di presa delle acque;
+                        b)
+                            agli impianti di adduzione, di accumulo e di potabilizzazione;
+                        c)
+                            alla rete di distribuzione.
 
-a) alla sorgente, ai pozzi ed al punto di presa delle acque;
+2.
 
-b) agli impianti di adduzione, di accumulo e di potabilizzazione;
+I controlli sono interni al servizio acquedottistico o esterni se effettuati da uffici del Servizio sanitario nazionale.
 
-c) alla rete di distribuzione.
+3.
 
-2. I controlli sono interni al servizio acquedottistico o esterni se effettuati da uffici del Servizio sanitario nazionale.
+Le acque destinate al consumo umano distribuite mediante autoveicoli o natanti devono essere sottoposte a controlli igienico-sanitari estesi anche all'idoneita' del mezzo di trasporto.
 
-3. Le acque destinate al consumo umano distribuite mediante autoveicoli o natanti devono essere sottoposte a controlli igienico-sanitari estesi anche all'idoneita' del mezzo di trasporto.
+## Art. 12. — Controlli sanitari
 
-Art. 12
--------
+1.
 
-Controlli sanitari
+I prelievi ed i controlli analitici sulle acque destinate al consumo umano sono eseguiti dai servizi e presidi delle unita' sanitarie locali.
 
-1. I prelievi ed i controlli analitici sulle acque destinate al consumo umano sono eseguiti dai servizi e presidi delle unita' sanitarie locali.
+2.
 
-2. I controlli ispettivi e i giudizi di qualita' sulle acque destinate al consumo umano spettano all'unita' sanitaria locale.
+I controlli ispettivi e i giudizi di qualita' sulle acque destinate al consumo umano spettano all'unita' sanitaria locale.
 
-3. Qualora i risultati analitici o dell'esame ispettivo evidenzino la possibilita' di un pregiudizio per la salute umana, l'organo di controllo, effettuata la valutazione del pregiudizio, richiede alla regione, al comune ed al gestore dell'acquedotto, i provvedimenti e le misure di competenza.
+3.
 
-4. Copia dei dati di cui ai commi 1 e 2 sono, con scadenza almeno bimestrale, trasmessi ai Ministeri della sanita' e dell'ambiente.
+Qualora i risultati analitici o dell'esame ispettivo evidenzino la possibilita' di un pregiudizio per la salute umana, l'organo di controllo, effettuata la valutazione del pregiudizio, richiede alla regione, al comune ed al gestore dell'acquedotto, i provvedimenti e le misure di competenza.
 
-((1a))
+4.
 
-  
-  
-----------------------  
-  
-  
-AGGIORNAMENTO (1a)   
-La Corte Costituzionale con sentenza 1-6 aprile 1993 n. 139 (in G.U. 1a s.s. 14/04/1993 n. 16) ha dichiarato "l'illegittimita' costituzionale dell'[art. 12 del d.P.R. 24 maggio 1988, n. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988-05-24;236~art12) (Attuazione della [direttiva CEE numero 80/778](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31980L0778) concernente la qualita' delle acque destinate al consumo umano, ai sensi dell'[art. 15 della legge 16 aprile 1987, n. 183](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-16;183~art15)), nella parte in cui non prevede che, in caso di analisi di acque destinate al consumo umano, per le quali non sia possibile la revisione, a cura dell'organo procedente sia dato, anche oralmente, avviso all'interessato del giorno, dell'ora e del luogo dove le analisi verranno effettuate, affinche' lo stesso interessato o persona di sua fiducia possano presenziare a tali analisi, eventualmente con l'assistenza di un consulente tecnico."
+Copia dei dati di cui ai commi 1 e 2 sono, con scadenza almeno bimestrale, trasmessi ai Ministeri della sanita' e dell'ambiente.((1a)) 
+ 
+----------------------
 
-Art. 13
--------
+ 
+AGGIORNAMENTO (1a) 
+ La Corte Costituzionale con sentenza 1-6 aprile 1993 n. 139 (in G.U. 1a s.s. 14/04/1993 n. 16) ha dichiarato "l'illegittimita' costituzionale dell'[art. 12 del d.P.R. 24 maggio 1988, n. 236](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2080-778%20concernente%20la%20qualita%20delle%20acque%20destinate%20al%20consumo%20umano%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md) (Attuazione della [direttiva CEE numero 80/778](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1980;778) concernente la qualita' delle acque destinate al consumo umano, ai sensi dell'[art. 15 della legge 16 aprile 1987, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-16;183#art_15)), nella parte in cui non prevede che, in caso di analisi di acque destinate al consumo umano, per le quali non sia possibile la revisione, a cura dell'organo procedente sia dato, anche oralmente, avviso all'interessato del giorno, dell'ora e del luogo dove le analisi verranno effettuate, affinche' lo stesso interessato o persona di sua fiducia possano presenziare a tali analisi, eventualmente con l'assistenza di un consulente tecnico."
 
-Controlli interni
+## Art. 13. — Controlli interni
 
-1. I soggetti gestori di impianti acquedottistici devono dotarsi di laboratori gestionali interni, anche in forma consortile, per il controllo dei servizi essenziali del ciclo dell'acqua.
+1.
 
-Art. 14
--------
+I soggetti gestori di impianti acquedottistici devono dotarsi di laboratori gestionali interni, anche in forma consortile, per il controllo dei servizi essenziali del ciclo dell'acqua.
 
-Controllo degli acquedotti
+## Art. 14. — Controllo degli acquedotti
 
-1. Per uniformare le attivita' di controllo su impianti di acquedotto ricadenti nell'area di competenza territoriale di piu' unita' sanitarie locali o di piu' servizi e presidi multizonali, di cui all'[art. 22 della legge 23 dicembre 1978, n. 833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833~art22), la regione puo' individuare l'unita' sanitaria locale, il presidio o il servizio al quale attribuire la competenza in materia di controlli.
+1.
 
-2. Per gli acquedotti interregionali l'individuazione dell'organo sanitario di controllo e' disposta d'intesa tra le regioni interessate.
+Per uniformare le attivita' di controllo su impianti di acquedotto ricadenti nell'area di competenza territoriale di piu' unita' sanitarie locali o di piu' servizi e presidi multizonali, di cui all'[art. 22 della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_22), la regione puo' individuare l'unita' sanitaria locale, il presidio o il servizio al quale attribuire la competenza in materia di controlli.
 
-Nota all'[art. 14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978;833~art14):  
-L'[art. 22 della legge n. 833/1978](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978;833~art22) (Istituzione del Servizio sanitario nazionale), e' il seguente:  
-"Art. 22 (Presidi e servizi multizonali di prevenzione).  
-- La legge regionale, in relazione alla ubicazione ed alla consistenza degli impianti industriali ed alle peculiarita' dei processi produttivi agricoli, artigianali e di lavoro a domicilio:  
-a) individua le unita' sanitarie locali in cui sono istituiti presidi e servizi multizonali per il controllo e la tutela dell'igiene ambientale e per la prevenzione degli infortuni sul lavoro e delle malattie professionali;  
-b) definisce le caratteristiche funzionali e interdisciplinari di tali presidi e servizi multizonali;  
-c) prevede le forme di coordinamento degli stessi con i servizi di igiene ambientale e di igiene e medicina del lavoro di ciascuna unita' sanitaria locale.  
-I presidi e i servizi multizonali di cui al comma precedente sono gestiti dall'unita' sanitaria locale nel territorio sono ubicati, secondo le modalita' di cui all'art. 18".
+2.
 
-Art. 15
--------
+Per gli acquedotti interregionali l'individuazione dell'organo sanitario di controllo e' disposta d'intesa tra le regioni interessate.
 
-Impiego degli antiparassitari
+Nota all'[art. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978;833#art_14):
+ L'[art. 22 della legge n. 833/1978](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978;833#art_22) (Istituzione del Servizio sanitario nazionale), e' il seguente:
+ "Art. 22 (Presidi e servizi multizonali di prevenzione).
+ - La legge regionale, in relazione alla ubicazione ed alla consistenza degli impianti industriali ed alle peculiarita' dei processi produttivi agricoli, artigianali e di lavoro a domicilio:
+ a) individua le unita' sanitarie locali in cui sono istituiti presidi e servizi multizonali per il controllo e la tutela dell'igiene ambientale e per la prevenzione degli infortuni sul lavoro e delle malattie professionali;
+ b) definisce le caratteristiche funzionali e interdisciplinari di tali presidi e servizi multizonali;
+ c) prevede le forme di coordinamento degli stessi con i servizi di igiene ambientale e di igiene e medicina del lavoro di ciascuna unita' sanitaria locale.
+ I presidi e i servizi multizonali di cui al comma precedente sono gestiti dall'unita' sanitaria locale nel territorio sono ubicati, secondo le modalita' di cui all'art. 18".
 
-1. Ai soli fini dell'elaborazione dei programmi di prevenzione mirata alla tutela della salute dell'uomo, degli animali e dell'ambiente naturale le ditte intestatarie delle registrazioni di presidi sanitari, i distributori, i venditori, gli speditori e gli utilizzatori di tali prodotti sono tenuti ad annotare su apposite schede i dati relativi alla vendita o all'utilizzazione dei prodotti stessi.
+## Art. 15. — Impiego degli antiparassitari
 
-2. Il Ministro della sanita', con decreto da adottarsi di concerto con i Ministri dell'agricoltura e delle foreste, dell'ambiente e dell'industria, del commercio e dell'artigianato, fissa le caratteristiche delle schede per la rilevazione dei dati relativi alla vendita, all'acquisto ed alla utilizzazione dei presidi sanitari, nonche' le relative modalita' di compilazione, tempi e procedure di rilevamento e di trasmissione dei dati.
+1.
 
-3. I soggetti di cui al comma 1 sono tenuti a conservare una copia delle schede da esibire a richiesta della autorita' sanitaria locale o dei servizi repressione frodi del Ministero dell'agricoltura e delle foreste.
+Ai soli fini dell'elaborazione dei programmi di prevenzione mirata alla tutela della salute dell'uomo, degli animali e dell'ambiente naturale le ditte intestatarie delle registrazioni di presidi sanitari, i distributori, i venditori, gli speditori e gli utilizzatori di tali prodotti sono tenuti ad annotare su apposite schede i dati relativi alla vendita o all'utilizzazione dei prodotti stessi.
 
-Art. 16
--------
+2.
 
-Valore massimo ammissibile
+Il Ministro della sanita', con decreto da adottarsi di concerto con i Ministri dell'agricoltura e delle foreste, dell'ambiente e dell'industria, del commercio e dell'artigianato, fissa le caratteristiche delle schede per la rilevazione dei dati relativi alla vendita, all'acquisto ed alla utilizzazione dei presidi sanitari, nonche' le relative modalita' di compilazione, tempi e procedure di rilevamento e di trasmissione dei dati.
 
-1. Il valore massimo ammissibile di superamento delle concentrazioni massime ammissibili stabilite per i parametri indicati nell'allegato I puo' essere determinato per singoli parametri o gruppi di parametri, su motivata richiesta della regione.
+3.
 
-2. Il valore massimo ammissibile unitamente all'indicazione delle misure di risanamento da adottare, e' determinato, in relazione alle specifiche situazioni suscettibili di deroga, dal Ministro della sanita', di concerto con il Ministro dell'ambiente, sentito il Consiglio superiore di sanita'.
+I soggetti di cui al comma 1 sono tenuti a conservare una copia delle schede da esibire a richiesta della autorita' sanitaria locale o dei servizi repressione frodi del Ministero dell'agricoltura e delle foreste.
 
-3. Per le acque di cui alla lettera b), comma 1, dell'art. 2, si applicano esclusivamente i valori per i parametri tossici e microbiologici previsti, rispettivamente, nelle tabelle D ed E dell'allegato I, nonche' degli altri parametri il cui mancato rispetto possa pregiudicare la salubrita' del prodotto alimentare finale.
+## Art. 16. — Valore massimo ammissibile
 
-Art. 17
--------
+1.
 
-Deroghe
+Il valore massimo ammissibile di superamento delle concentrazioni massime ammissibili stabilite per i parametri indicati nell'allegato I puo' essere determinato per singoli parametri o gruppi di parametri, su motivata richiesta della regione.
 
-1. Deroghe al presente decreto possono essere disposte dalla regione competente nelle seguenti circostanze:
+2.
 
-a) situazioni relative alla natura ed alla struttura dei terreni dell'area della quale e' tributaria la risorsa idrica;
+Il valore massimo ammissibile unitamente all'indicazione delle misure di risanamento da adottare, e' determinato, in relazione alle specifiche situazioni suscettibili di deroga, dal Ministro della sanita', di concerto con il Ministro dell'ambiente, sentito il Consiglio superiore di sanita'.
 
-b) situazioni relative a circostanze meteorologiche eccezionali.
+3.
 
-2. In nessun caso le deroghe di cui al comma 1 possono riguardare i fattori tossici e microbiologici, ne' comportare un rischio per la salute pubblica.
+Per le acque di cui alla lettera b), comma 1, dell'art. 2, si applicano esclusivamente i valori per i parametri tossici e microbiologici previsti, rispettivamente, nelle tabelle D ed E dell'allegato I, nonche' degli altri parametri il cui mancato rispetto possa pregiudicare la salubrita' del prodotto alimentare finale.
 
-3. In caso di grave emergenza idrica, ove l'approvvigionamento di acqua non possa essere assicurato in nessun altro modo, puo' essere disposta la deroga alle concentrazioni massime stabilite dal presente decreto nell'allegato I, fino al raggiungimento del valore massimo ammissibile, che e' determinato dall'autorita' sanitaria ai sensi dell'art 16, in modo che tale superamento non presenti assolutamente un rischio inaccettabile per la salute pubblica.
+## Art. 17. — Deroghe
 
-4. Fermo restando quanto disposto dal [decreto del Presidente della Repubblica 3 luglio 1982, n. 515](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-07-03;515), qualora per l'approvvigionamento di acqua potabile si debba fare uso di acque superficiali che non raggiungono le concentrazioni imposte per le acque della categoria A3 dall'allegato al [decreto del Presidente della Repubblica 3 luglio 1982, n. 515](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-07-03;515), puo' essere autorizzata, per un periodo di tempo limitato, la deroga alle concentrazioni massime ammissibili stabilite dal presente decreto nell'allegato I, fino al raggiungimento di un valore massimo ammissibile, che e' determinato dall'autorita' sanitaria ai sensi dell'art. 16, in modo che tale superamento non presenti un rischio inaccettabile per la salute pubblica.
+1.
 
-Nota all'[art. 17:  
-Il D.P.R. n. 515/1982](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;515~art17) reca: "Attuazione della [direttiva (CEE) n. 75/440](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31975L0440) concernente la qualita' delle acque superficiali destinate alla produzione di acqua potabile".
+Deroghe al presente decreto possono essere disposte dalla regione competente nelle seguenti circostanze:
+                        a)
+                            situazioni relative alla natura ed alla struttura dei terreni dell'area della quale e' tributaria la risorsa idrica;
+                        b)
+                            situazioni relative a circostanze meteorologiche eccezionali.
 
-Art. 18
--------
+2.
 
-Esercizio della deroga
+In nessun caso le deroghe di cui al comma 1 possono riguardare i fattori tossici e microbiologici, ne' comportare un rischio per la salute pubblica.
 
-1. Le deroghe sono disposte dall'autorita' regionale per un limitato periodo di tempo, anche su segnalazione dei comuni interessati.
+3.
 
-2. L'esercizio dei poteri di deroga comporta che, contestualmente alle misure indicate dall'amministrazione statale, la regione adotti il piano di intervento di cui al comma 3.
+In caso di grave emergenza idrica, ove l'approvvigionamento di acqua non possa essere assicurato in nessun altro modo, puo' essere disposta la deroga alle concentrazioni massime stabilite dal presente decreto nell'allegato I, fino al raggiungimento del valore massimo ammissibile, che e' determinato dall'autorita' sanitaria ai sensi dell'art 16, in modo che tale superamento non presenti assolutamente un rischio inaccettabile per la salute pubblica.
 
-3. Il piano di intervento deve almeno contenere:
+4.
 
-a) l'individuazione della causa del fenomeno di degrado delle risorse idriche;
+Fermo restando quanto disposto dal [decreto del Presidente della Repubblica 3 luglio 1982, n. 515](Attuazione%20della%20direttiva%20CEE%20n.%2075-440%20concernente%20la%20qualita%20delle%20acque%20superficiali%20destinate%20alla%20produzione%20di%20acqua%20potabile.md), qualora per l'approvvigionamento di acqua potabile si debba fare uso di acque superficiali che non raggiungono le concentrazioni imposte per le acque della categoria A3 dall'allegato al [decreto del Presidente della Repubblica 3 luglio 1982, n. 515](Attuazione%20della%20direttiva%20CEE%20n.%2075-440%20concernente%20la%20qualita%20delle%20acque%20superficiali%20destinate%20alla%20produzione%20di%20acqua%20potabile.md), puo' essere autorizzata, per un periodo di tempo limitato, la deroga alle concentrazioni massime ammissibili stabilite dal presente decreto nell'allegato I, fino al raggiungimento di un valore massimo ammissibile, che e' determinato dall'autorita' sanitaria ai sensi dell'art. 16, in modo che tale superamento non presenti un rischio inaccettabile per la salute pubblica.
 
-b) la delimitazione geografica dell'area interessata dal fenomeno;
+Nota all'[art. 17:
+ Il D.P.R. n. 515/1982](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982;515#art_17) reca: "Attuazione della [direttiva (CEE) n. 75/440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1975;440) concernente la qualita' delle acque superficiali destinate alla produzione di acqua potabile".
 
-c) l'indicazione della popolazione ricadente in tale area;
+## Art. 18. — Esercizio della deroga
 
-d) la fissazione di controlli e divieti per l'uso delle sostanze chimiche o di altra natura che hanno eterminato o accresciuto l'inquinamento delle acque nell'area di cui al punto b);
+1.
 
-e) la definizione degli interventi e delle opere necessarie per garantire l'approvvigionamento, nonche' i tempi di realizzazione del piano e le risorse finanziarie impiegate;
+Le deroghe sono disposte dall'autorita' regionale per un limitato periodo di tempo, anche su segnalazione dei comuni interessati.
 
-f) le sanzioni amministrative a carico dei trasgressori.
+2.
 
-4. Nel caso in cui l'inquinamento interessi un bacino interregionale, il piano di risanamento e' adottato di intesa tra le regioni interessate; in mancanza dell'intesa ogni regione provvede per il territorio di propria competenza.
+L'esercizio dei poteri di deroga comporta che, contestualmente alle misure indicate dall'amministrazione statale, la regione adotti il piano di intervento di cui al comma 3.
 
-5. I provvedimenti di deroga devono essere comunicati immediatamente ai Ministeri della sanita' e dell'ambiente.
+3.
 
-Art. 19
--------
+Il piano di intervento deve almeno contenere:
+                        a)
+                            l'individuazione della causa del fenomeno di degrado delle risorse idriche;
+                        b)
+                            la delimitazione geografica dell'area interessata dal fenomeno;
+                        c)
+                            l'indicazione della popolazione ricadente in tale area;
+                        d)
+                            la fissazione di controlli e divieti per l'uso delle sostanze chimiche o di altra natura che hanno eterminato o accresciuto l'inquinamento delle acque nell'area di cui al punto b);
+                        e)
+                            la definizione degli interventi e delle opere necessarie per garantire l'approvvigionamento, nonche' i tempi di realizzazione del piano e le risorse finanziarie impiegate;
+                        f)
+                            le sanzioni amministrative a carico dei trasgressori.
 
-Proroga
+4.
 
-1. Il termine stabilito per l'osservanza dell'allegato I puo' essere prorogato in presenza di situazioni eccezionali relative a gruppi di abitati geograficamente delimitati.
+Nel caso in cui l'inquinamento interessi un bacino interregionale, il piano di risanamento e' adottato di intesa tra le regioni interessate; in mancanza dell'intesa ogni regione provvede per il territorio di propria competenza.
 
-2. La proroga e' disposta con decreto del Ministro della sanita', di concerto con il Ministro dell'ambiente, su richiesta dalla regione interessata.
+5.
 
-3. La regione richiede la proroga indicandone l'oggetto, le modalita' ed i tempi e presentando:
+I provvedimenti di deroga devono essere comunicati immediatamente ai Ministeri della sanita' e dell'ambiente.
 
-a) una relazione sulle difficolta' incontrate che identifica in particolare le cause che impediscono l'osservanza dei requisiti di qualita' per le acque necessarie a soddisfare i bisogni di consumo umano degli abitati interessati;
+## Art. 19. — Proroga
 
-b) il piano per il miglioramento delle acque finalizzato a garantire l'osservanza, alla scadenza della proroga, dell'allegato I.
+1.
 
-4. Il decreto di cui al comma 2 e' adottato, previo espletamento della procedura comunitaria prevista dall'art. 20 della direttiva.
+Il termine stabilito per l'osservanza dell'allegato I puo' essere prorogato in presenza di situazioni eccezionali relative a gruppi di abitati geograficamente delimitati.
 
-5. In caso di ritenuta insufficienza del piano presentato dalla regione ai sensi della lettera b) del comma 3, con decreto del Ministro dell'ambiente, di concerto con il Ministro della sanita', sono disposte le misure integrative la cui adozione da parte della regione e' condizione di efficcia della proroga stessa.
+2.
 
-6. Le misure da adottare per l'attuazione del piano di miglioramento delle acque possono disporre, in relazione alle individuate cause della situazione eccezionale che giustifica la proroga, controlli e restrizioni per lo svolgimento di attivita' e l'uso di prodotti, anche in deroga alle leggi vigenti.
+La proroga e' disposta con decreto del Ministro della sanita', di concerto con il Ministro dell'ambiente, su richiesta dalla regione interessata.
 
-7. Le misure di cui al comma 6, se relative a materie di competenza statale, sono adottate dal Presidente del Consiglio dei Ministri, previa deliberazione del Consiglio dei Ministri, su proposta dei Ministri dell'ambiente e della sanita'.
+3.
 
-Nota all'art. 19:  
-Il testo dell'[art. 20 della direttiva n. 80/778/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31980L0778), concernente la qualita' delle acque destinate al consumo umano, e' il seguente:  
-"Art. 20. - In casi eccezionali e per gruppi di popolazioni geograficamente delimitati gli Stati membri possono presentare alla Commissione una richiesta particolare per prorogare il termine stabilito per l'osservanza dell'allegato I.  
-Tale richiesta debitamente motivata dovra' far presenti le difficolta' incontrate e proporre un piano d'azione, corredato di un calendario, da attuare per il miglioramento della qualita' delle acque destinate al consumo umano.  
-La commissione esaminera' i piani d'azione, nonche' i relativi calendari. In caso di disaccordo con lo Stato membro interessato, essa presentera' al Consiglio proposte adeguate al riguardo".
+La regione richiede la proroga indicandone l'oggetto, le modalita' ed i tempi e presentando:
+                        a)
+                            una relazione sulle difficolta' incontrate che identifica in particolare le cause che impediscono l'osservanza dei requisiti di qualita' per le acque necessarie a soddisfare i bisogni di consumo umano degli abitati interessati;
+                        b)
+                            il piano per il miglioramento delle acque finalizzato a garantire l'osservanza, alla scadenza della proroga, dell'allegato I.
 
-Art. 20
--------
+4.
 
-Competenza delle regioni speciali e province autonome
+Il decreto di cui al comma 2 e' adottato, previo espletamento della procedura comunitaria prevista dall'art. 20 della direttiva.
 
-1. Sono fatte salve le competenze delle regioni a statuto speciale e delle province autonome di Trento e di Bolzano.
+5.
 
-Art. 21
--------
+In caso di ritenuta insufficienza del piano presentato dalla regione ai sensi della lettera b) del comma 3, con decreto del Ministro dell'ambiente, di concerto con il Ministro della sanita', sono disposte le misure integrative la cui adozione da parte della regione e' condizione di efficcia della proroga stessa.
 
-Sanzioni
+6.
 
-1. Salvo che il fatto costituisca piu' grave reato, chiunque in violazione delle disposizioni del presente decreto fornisce al consumo umano acque che non presentano i requisiti di qualita' previsti dall'allegato I e' punito con l'ammenda da lire duecentocinquantamila a lire duemilioni o con l'arresto fino a tre anni.
+Le misure da adottare per l'attuazione del piano di miglioramento delle acque possono disporre, in relazione alle individuate cause della situazione eccezionale che giustifica la proroga, controlli e restrizioni per lo svolgimento di attivita' e l'uso di prodotti, anche in deroga alle leggi vigenti.
 
-2. La stessa pena si applica a chi utilizza acque che non presentano i requisiti di qualita' previsti dall'allegato I in imprese alimentari, mediante incorporazione o contatto per la fabbricazione, il trattamento, la conservazione, l'immissione sul mercato di prodotti e sostanze destinate al consumo umano, se le acque hanno conseguenze per la salubrita' del prodotto alimentare finale.
+7.
+
+Le misure di cui al comma 6, se relative a materie di competenza statale, sono adottate dal Presidente del Consiglio dei Ministri, previa deliberazione del Consiglio dei Ministri, su proposta dei Ministri dell'ambiente e della sanita'.
+
+Nota all'art. 19:
+ Il testo dell'[art. 20 della direttiva n. 80/778/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1980;778), concernente la qualita' delle acque destinate al consumo umano, e' il seguente:
+ "Art. 20. - In casi eccezionali e per gruppi di popolazioni geograficamente delimitati gli Stati membri possono presentare alla Commissione una richiesta particolare per prorogare il termine stabilito per l'osservanza dell'allegato I.
+ Tale richiesta debitamente motivata dovra' far presenti le difficolta' incontrate e proporre un piano d'azione, corredato di un calendario, da attuare per il miglioramento della qualita' delle acque destinate al consumo umano.
+ La commissione esaminera' i piani d'azione, nonche' i relativi calendari. In caso di disaccordo con lo Stato membro interessato, essa presentera' al Consiglio proposte adeguate al riguardo".
+
+## Art. 20. — Competenza delle regioni speciali e province autonome
+
+1.
+
+Sono fatte salve le competenze delle regioni a statuto speciale e delle province autonome di Trento e di Bolzano.
+
+## Art. 21. — Sanzioni
+
+1.
+
+Salvo che il fatto costituisca piu' grave reato, chiunque in violazione delle disposizioni del presente decreto fornisce al consumo umano acque che non presentano i requisiti di qualita' previsti dall'allegato I e' punito con l'ammenda da lire duecentocinquantamila a lire duemilioni o con l'arresto fino a tre anni.
+
+2.
+
+La stessa pena si applica a chi utilizza acque che non presentano i requisiti di qualita' previsti dall'allegato I in imprese alimentari, mediante incorporazione o contatto per la fabbricazione, il trattamento, la conservazione, l'immissione sul mercato di prodotti e sostanze destinate al consumo umano, se le acque hanno conseguenze per la salubrita' del prodotto alimentare finale.
 
 ((
 
-3. L'inosservanza delle disposizioni dei piani di intervento di cui all'articolo 18 e' punita con la sanzione amministrativa pecuniaria da lire un milione a lire dieci milioni.
+3.
+
+L'inosservanza delle disposizioni dei piani di intervento di cui all'articolo 18 e' punita con la sanzione amministrativa pecuniaria da lire un milione a lire dieci milioni.
 
 4. I contravventori alle disposizioni di cui all'articolo 15 sono puniti con la sanzione amministrativa pecuniaria da lire un milione a lire sei milioni . ))
 
-Art. 22
--------
+## Art. 22. — Disposizioni finali
 
-Disposizioni finali
+1.
 
-1. Dalla data di entrata in vigore del presente decreto cessa l'applicazione delle disposizioni di cui al [decreto del Presidente del Consiglio dei Ministri in data 8 febbraio 1985, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 108 del 9 maggio 1985](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1985-05-09&numeroGazzetta=108), relativo alle caratteristiche di qualita' delle acque destinate al consumo umano.
+Dalla data di entrata in vigore del presente decreto cessa l'applicazione delle disposizioni di cui al decreto del Presidente del Consiglio dei Ministri in data 8 febbraio 1985, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 108 del 9 maggio 1985, relativo alle caratteristiche di qualita' delle acque destinate al consumo umano.
 
-2. Le disposizioni del [decreto del Presidente della Repubblica 3 luglio 1982, n. 515](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-07-03;515), continuano ad applicarsi se non incompatibili con il presente decreto.
+2.
 
-3. Le norme tecniche di prima attuazione sono emanate entro sessanta giorni dalla data di entrata in vigore del presente decreto.
+Le disposizioni del [decreto del Presidente della Repubblica 3 luglio 1982, n. 515](Attuazione%20della%20direttiva%20CEE%20n.%2075-440%20concernente%20la%20qualita%20delle%20acque%20superficiali%20destinate%20alla%20produzione%20di%20acqua%20potabile.md), continuano ad applicarsi se non incompatibili con il presente decreto.
+
+3.
+
+Le norme tecniche di prima attuazione sono emanate entro sessanta giorni dalla data di entrata in vigore del presente decreto.
+
+Nota all'[art. 22:
+ Per il D.P.R. n. 915/1982](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982;915#art_22) si veda la precedente nota all'art. 17.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 maggio 1988
+Dato a Roma, addi' 24 maggio 1988
 
-COSSIGA
-
-DE MITA, Presidente del Consiglio dei Ministri
-
-LA PERGOLA, Ministro per il coordinamento delle politiche comunitarie
-
-ANDREOTTI, Ministro degli affari esteri
-
-VASSALLI, Ministro di grazia e giustizia
-
-AMATO, Ministro del tesoro
-
-MANNINO, Ministro dell'agricoltura e delle foreste
-
-FERRI, Ministro dei lavori pubblici
-
-BATTAGLIA, Ministro dell'industria, del commercio e dell'artigianato
-
-DONAT CATTIN, Ministro della sanita'
-
-RUFFOLO, Ministro dell'ambiente
-
-MACCANICO, Ministro per gli affari regionali e i problemi istituzionali
-
-Visto, il Guardasigilli: VASSALLI
-
-Registrato alla Corte dei conti, addi' 13 giugno 1988
-
-Atti di Governo, registro n. 75, foglio n. 3
-
-Nota all'[art. 22:  
-Per il D.P.R. n. 915/1982](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;915~art22) si veda la precedente nota all'art. 17.
-
-Allegato 1
-
- ALLEGATO I   
-REQUISITI DI QUALITA' (\*)   
-ELENCO DEI PARAMETRI   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=088G028100100010110001&dgu=1988-06-30&art.dataPubblicazioneGazzetta=1988-06-30&art.codiceRedazionale=088G0281)
-  
-
-Allegato 2
-
- ALLEGATO II   
-MODELLI E FREQUENZE DELLE ANALISI DELLE ACQUE DESTINATE AL CONSUMO UMANO (1)   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=088G028100200010110001&dgu=1988-06-30&art.dataPubblicazioneGazzetta=1988-06-30&art.codiceRedazionale=088G0281)
-  
-
-Allegato 3
-
- ALLEGATO III   
-METODI ANALITICI DI RIFERIMENTO (\*)   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=088G028100300010110001&dgu=1988-06-30&art.dataPubblicazioneGazzetta=1988-06-30&art.codiceRedazionale=088G0281)
-  
+COSSIGA DE MITA, Presidente del Consiglio dei Ministri LA PERGOLA, Ministro per il coordinamento delle politiche comunitarie ANDREOTTI, Ministro degli affari esteri VASSALLI, Ministro di grazia e giustizia AMATO, Ministro del tesoro MANNINO, Ministro dell'agricoltura e delle foreste FERRI, Ministro dei lavori pubblici BATTAGLIA, Ministro dell'industria, del commercio e dell'artigianato DONAT CATTIN, Ministro della sanita' RUFFOLO, Ministro dell'ambiente MACCANICO, Ministro per gli affari regionali e i problemi istituzionali Visto, il Guardasigilli: VASSALLI Registrato alla Corte dei conti, addi' 13 giugno 1988 Atti di Governo, registro n. 75, foglio n. 3

@@ -1,72 +1,53 @@
-DECRETO LEGISLATIVO 30 dicembre 1992 n. 533
+---
+tipo: DECRETO LEGISLATIVO
+numero: 533
+data: 1992-12-30
+titolo: "Attuazione della direttiva 91/629/CEE che stabilisce le norme minime per la protezione dei vitelli."
+urn: urn:nir:stato:decreto.legislativo:1992-12-30;533
+codice_redazionale: 093G0017
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 30 dicembre 1992 n. 533
-===========================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 126))
 
-Attuazione della direttiva 91/629/CEE che stabilisce le norme minime per la protezione dei vitelli.
----------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 26/1/1993
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 126))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;126)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 126))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;126)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 126))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;126)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 126))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;126)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 126))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;126)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 126))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;126)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 126))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;126)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 126))
 
-Art. 8
-------
+## Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;126)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 126))
 
-Art. 9
-------
+## Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;126)))
-
-Art. 10
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;126)))
-
-Art. 11
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;126)))
-
-Allegato
-
- Allegato   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;126)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 126))

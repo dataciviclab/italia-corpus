@@ -1,145 +1,117 @@
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 06 ottobre 1994 n. 769
+---
+tipo: DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
+numero: 769
+data: 1994-10-06
+titolo: "Regolamento per la gestione delle spese occorrenti per il funzionamento dell'Autorita' per l'informatica nella pubblica amministrazione."
+urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:1994-10-06;769
+codice_redazionale: 094G0632
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 06 ottobre 1994 n. 769
-========================================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
 
-Regolamento per la gestione delle spese occorrenti per il funzionamento dell'Autorita' per l'informatica nella pubblica amministrazione.
-----------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 18-4-1995
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 1 GIUGNO 2007, N. 110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2007-06-01;110)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 1 GIUGNO 2007, N. 110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2007-06-01;110)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 1 GIUGNO 2007, N. 110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2007-06-01;110)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 1 GIUGNO 2007, N. 110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2007-06-01;110)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 1 GIUGNO 2007, N. 110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2007-06-01;110)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 1 GIUGNO 2007, N. 110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2007-06-01;110)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 1 GIUGNO 2007, N. 110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2007-06-01;110)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
 
-Art. 8
-------
+## Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 1 GIUGNO 2007, N. 110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2007-06-01;110)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
 
-Art. 9
-------
+## Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 1 GIUGNO 2007, N. 110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2007-06-01;110)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
 
-Art. 10
--------
+## Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 1 GIUGNO 2007, N. 110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2007-06-01;110)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
 
-Art. 11
--------
+## Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 1 GIUGNO 2007, N. 110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2007-06-01;110)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
 
-Art. 12
--------
+## Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 1 GIUGNO 2007, N. 110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2007-06-01;110)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
 
-Art. 13
--------
+## Art. 15.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 1 GIUGNO 2007, N. 110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2007-06-01;110)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
 
-Art. 14
--------
+## Art. 16.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 1 GIUGNO 2007, N. 110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2007-06-01;110)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
 
-Art. 15
--------
+## Art. 17.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 1 GIUGNO 2007, N. 110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2007-06-01;110)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
 
-Art. 16
--------
+## Art. 18.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 1 GIUGNO 2007, N. 110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2007-06-01;110)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
 
-Art. 17
--------
+## Art. 19.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 1 GIUGNO 2007, N. 110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2007-06-01;110)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
 
-Art. 18
--------
+## Art. 20.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 1 GIUGNO 2007, N. 110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2007-06-01;110)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
 
-Art. 19
--------
+## Art. 21.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 1 GIUGNO 2007, N. 110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2007-06-01;110)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
 
-Art. 20
--------
+## Art. 22.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 1 GIUGNO 2007, N. 110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2007-06-01;110)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
 
-Art. 21
--------
+## Art. 23.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 1 GIUGNO 2007, N. 110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2007-06-01;110)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
 
-Art. 22
--------
+## Art. 24.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 1 GIUGNO 2007, N. 110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2007-06-01;110)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
 
-Art. 23
--------
+## Art. 25.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 1 GIUGNO 2007, N. 110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2007-06-01;110)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
 
-Art. 24
--------
+## Art. 26.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 1 GIUGNO 2007, N. 110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2007-06-01;110)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
 
-Art. 25
--------
+## Art. 27.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 1 GIUGNO 2007, N. 110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2007-06-01;110)))
-
-Art. 26
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 1 GIUGNO 2007, N. 110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2007-06-01;110)))
-
-Art. 27
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.C.M. 1 GIUGNO 2007, N. 110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2007-06-01;110)))
+((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))

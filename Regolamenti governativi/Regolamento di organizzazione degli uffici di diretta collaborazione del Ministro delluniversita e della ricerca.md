@@ -1,76 +1,57 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 febbraio 2007 n. 57
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 57
+data: 2007-02-13
+titolo: "Regolamento di organizzazione degli uffici di diretta collaborazione del Ministro dell'universita' e della ricerca."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2007-02-13;57
+codice_redazionale: 007G0071
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 febbraio 2007 n. 57
-==============================================================
+(( PROVVEDIMENTO ABROGATO DAL D.P.R. 14 GENNAIO 2009, N. 16 ))
 
-Regolamento di organizzazione degli uffici di diretta collaborazione del Ministro dell'universita' e della ricerca.
--------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 22-5-2007
+(( PROVVEDIMENTO ABROGATO DAL D.P.R. 14 GENNAIO 2009, N. 16 ))
 
-Art. 1
-------
+## Art. 3.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 GENNAIO 2009, N. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2009-01-14;16) ))
+(( PROVVEDIMENTO ABROGATO DAL D.P.R. 14 GENNAIO 2009, N. 16 ))
 
-Art. 2
-------
+## Art. 4.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 GENNAIO 2009, N. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2009-01-14;16) ))
+(( PROVVEDIMENTO ABROGATO DAL D.P.R. 14 GENNAIO 2009, N. 16 ))
 
-Art. 3
-------
+## Art. 5.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 GENNAIO 2009, N. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2009-01-14;16) ))
+(( PROVVEDIMENTO ABROGATO DAL D.P.R. 14 GENNAIO 2009, N. 16 ))
 
-Art. 4
-------
+## Art. 6.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 GENNAIO 2009, N. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2009-01-14;16) ))
+(( PROVVEDIMENTO ABROGATO DAL D.P.R. 14 GENNAIO 2009, N. 16 ))
 
-Art. 5
-------
+## Art. 7.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 GENNAIO 2009, N. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2009-01-14;16) ))
+(( PROVVEDIMENTO ABROGATO DAL D.P.R. 14 GENNAIO 2009, N. 16 ))
 
-Art. 6
-------
+## Art. 8.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 GENNAIO 2009, N. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2009-01-14;16) ))
+(( PROVVEDIMENTO ABROGATO DAL D.P.R. 14 GENNAIO 2009, N. 16 ))
 
-Art. 7
-------
+## Art. 9.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 GENNAIO 2009, N. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2009-01-14;16) ))
+(( PROVVEDIMENTO ABROGATO DAL D.P.R. 14 GENNAIO 2009, N. 16 ))
 
-Art. 8
-------
+## Art. 10.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 GENNAIO 2009, N. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2009-01-14;16) ))
+(( PROVVEDIMENTO ABROGATO DAL D.P.R. 14 GENNAIO 2009, N. 16 ))
 
-Art. 9
-------
+## Art. 11.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 GENNAIO 2009, N. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2009-01-14;16) ))
+(( PROVVEDIMENTO ABROGATO DAL D.P.R. 14 GENNAIO 2009, N. 16 ))
 
-Art. 10
--------
+## Art. 12.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 GENNAIO 2009, N. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2009-01-14;16) ))
-
-Art. 11
--------
-
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 GENNAIO 2009, N. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2009-01-14;16) ))
-
-Art. 12
--------
-
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 GENNAIO 2009, N. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2009-01-14;16) ))
-
-Allegato
-
- Allegato   
-
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 14 GENNAIO 2009, N. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2009-01-14;16) ))
+(( PROVVEDIMENTO ABROGATO DAL D.P.R. 14 GENNAIO 2009, N. 16 ))

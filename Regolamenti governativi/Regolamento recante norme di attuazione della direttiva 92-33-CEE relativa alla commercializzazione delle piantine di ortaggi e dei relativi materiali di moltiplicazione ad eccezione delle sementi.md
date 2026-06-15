@@ -1,62 +1,45 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 dicembre 1996 n. 698
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 698
+data: 1996-12-21
+titolo: "Regolamento recante norme di attuazione della direttiva 92/33/CEE relativa alla commercializzazione delle piantine di ortaggi e dei relativi materiali di moltiplicazione ad eccezione delle sementi."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1996-12-21;698
+codice_redazionale: 097G0044
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 dicembre 1996 n. 698
-===============================================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 124))
 
-Regolamento recante norme di attuazione della direttiva 92/33/CEE relativa alla commercializzazione delle piantine di ortaggi e dei relativi materiali di moltiplicazione ad eccezione delle sementi.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 26-2-1997
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 124))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;124)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 124))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;124)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 124))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;124)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 124))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;124)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 124))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;124)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 124))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;124)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 124))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;124)))
-
-Art. 8
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;124)))
-
-Art. 9
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;124)))
-
-Elenco
-
- Elenco   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 LUGLIO 2011, N. 124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-07-07;124)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 LUGLIO 2011, N. 124))

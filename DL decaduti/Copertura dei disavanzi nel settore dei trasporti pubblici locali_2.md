@@ -1,22 +1,17 @@
-DECRETO-LEGGE 26 marzo 1992 n. 242
+---
+tipo: DECRETO-LEGGE
+numero: 242
+data: 1992-03-26
+titolo: "Copertura dei disavanzi nel settore dei trasporti pubblici locali."
+urn: urn:nir:stato:decreto.legge:1992-03-26;242
+codice_redazionale: 092G0278
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 26 marzo 1992 n. 242
-==================================
+DECRETO DECADUTO
 
-Copertura dei disavanzi nel settore dei trasporti pubblici locali.
-------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 27/03/1992.Decreto-Legge decaduto per mancata conversione.
-
-Art. 1
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 2
-------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

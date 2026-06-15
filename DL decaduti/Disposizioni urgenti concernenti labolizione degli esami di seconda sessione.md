@@ -1,66 +1,44 @@
-DECRETO-LEGGE 29 agosto 1994 n. 523
+---
+tipo: DECRETO-LEGGE
+numero: 523
+data: 1994-08-29
+titolo: "Disposizioni urgenti concernenti l'abolizione degli esami di seconda sessione."
+urn: urn:nir:stato:decreto.legge:1994-08-29;523
+codice_redazionale: 094G0566
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 29 agosto 1994 n. 523
-===================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 8 AGOSTO 1995, N. 352](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20giugno%201995%20n.%20253%20recante%20disposizioni%20urgenti%20concernenti%20abolizione%20degli%20esami%20di%20riparazione%20e%20di%20seconda%20sessione%20ed%20atti_d1621f7e1b74.md)
 
-Disposizioni urgenti concernenti l'abolizione degli esami di seconda sessione.
-------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 1/9/1994.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 8 AGOSTO 1995, N. 352](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20giugno%201995%20n.%20253%20recante%20disposizioni%20urgenti%20concernenti%20abolizione%20degli%20esami%20di%20riparazione%20e%20di%20seconda%20sessione%20ed%20atti_d1621f7e1b74.md)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 8 AGOSTO 1995, N. 352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;352)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 8 AGOSTO 1995, N. 352](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20giugno%201995%20n.%20253%20recante%20disposizioni%20urgenti%20concernenti%20abolizione%20degli%20esami%20di%20riparazione%20e%20di%20seconda%20sessione%20ed%20atti_d1621f7e1b74.md)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 8 AGOSTO 1995, N. 352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;352)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 8 AGOSTO 1995, N. 352](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20giugno%201995%20n.%20253%20recante%20disposizioni%20urgenti%20concernenti%20abolizione%20degli%20esami%20di%20riparazione%20e%20di%20seconda%20sessione%20ed%20atti_d1621f7e1b74.md)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 8 AGOSTO 1995, N. 352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;352)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 8 AGOSTO 1995, N. 352](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20giugno%201995%20n.%20253%20recante%20disposizioni%20urgenti%20concernenti%20abolizione%20degli%20esami%20di%20riparazione%20e%20di%20seconda%20sessione%20ed%20atti_d1621f7e1b74.md)
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 8 AGOSTO 1995, N. 352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;352)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 8 AGOSTO 1995, N. 352](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20giugno%201995%20n.%20253%20recante%20disposizioni%20urgenti%20concernenti%20abolizione%20degli%20esami%20di%20riparazione%20e%20di%20seconda%20sessione%20ed%20atti_d1621f7e1b74.md)
 
-Art. 5
-------
+## Art. 7.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 8 AGOSTO 1995, N. 352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;352)
-  
-
-Art. 6
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 8 AGOSTO 1995, N. 352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;352)
-  
-
-Art. 7
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 8 AGOSTO 1995, N. 352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;352)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 8 AGOSTO 1995, N. 352](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20giugno%201995%20n.%20253%20recante%20disposizioni%20urgenti%20concernenti%20abolizione%20degli%20esami%20di%20riparazione%20e%20di%20seconda%20sessione%20ed%20atti_d1621f7e1b74.md)

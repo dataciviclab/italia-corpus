@@ -1,20 +1,17 @@
-DECRETO LEGISLATIVO LUOGOTENENZIALE 15 novembre 1944 n. 485
+---
+tipo: DECRETO LEGISLATIVO LUOGOTENENZIALE
+numero: 485
+data: 1944-11-15
+titolo: "Speciali graduatorie di concorsi magistrali. (044U0485)"
+urn: urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-15;485
+codice_redazionale: 044U0485
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO LUOGOTENENZIALE 15 novembre 1944 n. 485
-===========================================================
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
 
-Speciali graduatorie di concorsi magistrali. (044U0485)
--------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 09/03/1945
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 7 APRILE 2025, N. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-07;56)))
+((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))

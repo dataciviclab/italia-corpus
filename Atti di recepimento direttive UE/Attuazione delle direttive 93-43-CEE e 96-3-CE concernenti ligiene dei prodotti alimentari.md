@@ -1,0 +1,49 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 155
+data: 1997-05-26
+titolo: "Attuazione delle direttive 93/43/CEE e 96/3/CE concernenti l'igiene dei prodotti alimentari."
+urn: urn:nir:stato:decreto.legislativo:1997-05-26;155
+codice_redazionale: 097G0189
+vigente: true
+---
+
+## Art. 1.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193))
+
+## Art. 2.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193))
+
+## Art. 3.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193))
+
+## Art. 3-bis.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193))
+
+## Art. 4.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193))
+
+## Art. 5.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193))
+
+## Art. 6.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193))
+
+## Art. 7.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193))
+
+## Art. 8.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193))
+
+## Art. 9.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193))

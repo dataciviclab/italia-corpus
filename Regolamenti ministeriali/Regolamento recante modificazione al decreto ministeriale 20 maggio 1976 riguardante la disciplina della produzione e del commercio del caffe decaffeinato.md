@@ -1,22 +1,20 @@
-DECRETO 23 gennaio 1991 n. 87
-
-
-DECRETO 23 gennaio 1991 n. 87
-=============================
-
-Regolamento recante modificazione al decreto ministeriale 20 maggio 1976, riguardante la disciplina della produzione e del commercio del caffe' decaffeinato.
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 3/4/1991
+---
+tipo: DECRETO
+numero: 87
+data: 1991-01-23
+titolo: "Regolamento recante modificazione al decreto ministeriale 20 maggio 1976, riguardante la disciplina della produzione e del commercio del caffe' decaffeinato."
+urn: urn:nir:ministero.sanita:decreto:1991-01-23;87
+codice_redazionale: 091G0122
+vigente: true
+---
 
 IL MINISTRO DELLA SANITA'
--------------------------
 
-Visto l'[art. 7 della legge 30 aprile 1962, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283~art7), sulla disciplina igienica della produzione e della vendita delle sostanze alimentari e delle bevande, che consente al Ministro della sanita', sentito il parere del Consiglio superiore di sanita', di autorizzare con proprio decreto la produzione ed il commercio di sostanze alimentari e bevande che abbiano subito aggiunte, sottrazioni o speciali trattamenti;
+Visto l'[art. 7 della legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283#art_7), sulla disciplina igienica della produzione e della vendita delle sostanze alimentari e delle bevande, che consente al Ministro della sanita', sentito il parere del Consiglio superiore di sanita', di autorizzare con proprio decreto la produzione ed il commercio di sostanze alimentari e bevande che abbiano subito aggiunte, sottrazioni o speciali trattamenti;
 
-Visto il [decreto ministeriale 20 maggio 1976, pubblicato nella Gazzetta Ufficiale n. 153 dell'11 giugno 1976](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1976-06-11&numeroGazzetta=153), riguardante la disciplina della produzione e del commercio del caffe' decaffeinato;
+Visto il decreto ministeriale 20 maggio 1976, pubblicato nella Gazzetta Ufficiale n. 153 dell'11 giugno 1976, riguardante la disciplina della produzione e del commercio del caffe' decaffeinato;
 
-Visto il [decreto ministeriale 20 luglio 1987, n. 390, pubblicato nella Gazzetta Ufficiale n. 221 del 22 settembre 1987](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1987-09-22&numeroGazzetta=221) con il quale sono state apportate modifiche al decreto ministeriale 20 maggio 1976 sopra citato;
+Visto il decreto ministeriale 20 luglio 1987, n. 390, pubblicato nella Gazzetta Ufficiale n. 221 del 22 settembre 1987 con il quale sono state apportate modifiche al decreto ministeriale 20 maggio 1976 sopra citato;
 
 Vista la direttiva del Consiglio CEE n. 88/344 del 13 giugno 1988 riguardante i solventi di estrazione impiegati nella preparazione dei prodotti alimentari e dei loro ingredienti (pubblicata nella "Gazzetta Ufficiale" della Comunita' europea n. L 157 del 24 giugno 1988) ed in particolare quanto previsto all'art. 2, comma 4;
 
@@ -24,53 +22,53 @@ Ritenuto, nelle more del recepimento della sopra citata direttiva, di procedere 
 
 Vista la relazione della Direzione generale per l'igiene degli alimenti e per la nutrizione in data 18 giugno 1990;
 
-Visto l'[art. 7 della legge 30 aprile 1962, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283~art7);
+Visto l'[art. 7 della legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283#art_7);
 
 Sentito il Consiglio superiore di sanita';
 
 Udito il parere del Consiglio di Stato, reso nell'adunanza generale del 20 dicembre 1990;
 
-Vista la comunicazione in data 8 gennaio 1991 al Presidente del Consiglio dei Ministri, ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3);
+Vista la comunicazione in data 8 gennaio 1991 al Presidente del Consiglio dei Ministri, ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
 A D O T T A il seguente regolamento:
 
-Art. 1
-------
+## Art. 1.
 
-1. E' consentita la decaffeinizzazione del caffe' anche mediante l'impiego di anidride carbonica ed acqua.
+1.
 
-2. Il caffe' decaffeinato cosi' ottenuto e commercializzato deve corrispondere ai requisiti previsti dal [secondo comma dell'art. 1 del decreto ministeriale 20 maggio 1976, pubblicato nella Gazzetta Ufficiale n. 153 dell'11 giugno 1976](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1976-06-11&numeroGazzetta=153).
+E' consentita la decaffeinizzazione del caffe' anche mediante l'impiego di anidride carbonica ed acqua.
 
-3. L'anidride carbonica utilizzata deve possedere i requisiti di purezza fissati dal [decreto ministeriale 19 febbraio 1966, pubblicato nella Gazzetta Ufficiale n. 72 del 23 marzo 1966](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1966-03-23&numeroGazzetta=72).
+2.
+
+Il caffe' decaffeinato cosi' ottenuto e commercializzato deve corrispondere ai requisiti previsti dal secondo comma dell'art. 1 del decreto ministeriale 20 maggio 1976, pubblicato nella Gazzetta Ufficiale n. 153 dell'11 giugno 1976.
+
+3.
+
+L'anidride carbonica utilizzata deve possedere i requisiti di purezza fissati dal decreto ministeriale 19 febbraio 1966, pubblicato nella Gazzetta Ufficiale n. 72 del 23 marzo 1966.
+
+AVVERTENZA:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Note alle premesse:
+ - Il testo dell'[art. 7 della legge n. 283/1962](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962;283#art_7) e' il seguente: "Art. 7. - Il Ministro per la sanita' con proprio decreto, sentito il Consiglio superiore di sanita', puo' consentire la produzione ed il commercio di sostanze alimentari e bevande che abbiano subito aggiunte o sottrazioni o speciali trattamenti ivi compreso l'impiego di raggi ultravioletti, radiazioni ionizzanti, antibiotici, ormoni, prescrivendo, del pari, anche le indicazioni che debbono essere riportate sul prodotto finito".
+ - Il [comma 3 dell'art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.
+ Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
+ Note all'art. 1:
+ - Il testo vigente dell'art. 1, paragrafo 2, del D.M. 20 maggio 1976 e' il seguente:
+ "Il prodotto cosi' ottenuto e posto in commercio deve corrispondere ai seguenti requisiti:
+ caffe' crudo: non deve contenere piu' dello 0,10 per cento di caffeina anidra riferita a 100 parti di sostanza secca; (omissis) ... l'umidita' non deve superare il valore dell'11 per cento del prodotto (tale valore va inteso come perdita di peso registrata a 100 C dopo sei ore);
+ caffe' torrefatto: non deve contenere piu' dello 0,10 per cento di caffeina anidra riferita a 100 parti di sostanza secca; (omissis) ... l'umidita' non deve superare il valore del 5 per cento del peso del prodotto (tale valore va inteso come perdita di peso registrata a 100 C dopo sei ore);
+ estratto solubile di caffe' (essiccato o liofilizzato); non deve contenere piu' dello 0,30 per cento di caffeina anidra riferita a 100 parti di sostanza secca; (omissis)... l'umidita' non deve superare il valore del 4 per cento del peso del prodotto (tale valore va inteso come perdita di peso registrata a 70 C dopo sei ore sotto una pressione ridotta di 40 mm mercurio); il rapporto di estrazione tra caffe' decaffeinato di partenza e l'estratto solubile ottenuto non deve essere inferiore a 2,3".
+ - Le caratteristiche chimico-fisiche e di purezza dell'anidride carbonica, previste dal D.M. 19 febbraio 1966 sono di seguito riportate:
+ "E 290 ANIDRIDE CARBONICA
+ Aspetto: gas incolore.
+ Titolo: non meno del 99% di CO2 in volume.
+ Acidita': il gorgoglio di 915 ml di gas attraverso 50 ml di acqua bollita di fresco non deve conferire a quest'ultima un'acidita', rispetto al metilarancio, superiore a quella di 50 ml di acqua bollita di fresco addizionata di 1 ml di acido cloridrico 0,001N.
+ Sostanze riducenti idrogeno fosforato e idrogeno solforato: il gorgoglio di 915 ml di gas attraverso 25 ml di reagente al nitrato d'argento ammoniacale, addizionati di 3 ml di ammoniaca, non deve provocare un intorbidamento o un oscuramento di tale soluzione.
+ Ossido di carbonio: una soluzione diluita di sangue, dopo agitazione con un volume di 915 ml di gas ed addizione di una miscela di pirogallolo e di acido tannico, non deve presentare una colorazione rosa, ma una colorazione grigia comparabile a quella prodotta nelle medesime condizioni da un volume eguale di anidride carbonica ottenuto dalla decomposizione del bicarbonato di sodio mediante acido cloridrico".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 23 gennaio 1991
+Roma, 23 gennaio 1991
 
-Il Ministro: DE LORENZO
-
-Visto, il Guardasigilli: MARTELLI Registrato alla Corte dei conti il 7 marzo 1991
-
-Registro n. 3 Sanita', foglio n. 166
-
-AVVERTENZA:  
-Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.  
-Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.  
-Note alle premesse:  
-- Il testo dell'[art. 7 della legge n. 283/1962](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962;283~art7) e' il seguente: "Art. 7. - Il Ministro per la sanita' con proprio decreto, sentito il Consiglio superiore di sanita', puo' consentire la produzione ed il commercio di sostanze alimentari e bevande che abbiano subito aggiunte o sottrazioni o speciali trattamenti ivi compreso l'impiego di raggi ultravioletti, radiazioni ionizzanti, antibiotici, ormoni, prescrivendo, del pari, anche le indicazioni che debbono essere riportate sul prodotto finito".  
-- Il [comma 3 dell'art. 17 della legge n. 400/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.  
-Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.  
-Note all'art. 1:  
-- Il testo vigente dell'art. 1, paragrafo 2, del D.M. 20 maggio 1976 e' il seguente:  
-"Il prodotto cosi' ottenuto e posto in commercio deve corrispondere ai seguenti requisiti:  
-caffe' crudo: non deve contenere piu' dello 0,10 per cento di caffeina anidra riferita a 100 parti di sostanza secca; (omissis) ... l'umidita' non deve superare il valore dell'11 per cento del prodotto (tale valore va inteso come perdita di peso registrata a 100 C dopo sei ore);  
-caffe' torrefatto: non deve contenere piu' dello 0,10 per cento di caffeina anidra riferita a 100 parti di sostanza secca; (omissis) ... l'umidita' non deve superare il valore del 5 per cento del peso del prodotto (tale valore va inteso come perdita di peso registrata a 100 C dopo sei ore);  
-estratto solubile di caffe' (essiccato o liofilizzato); non deve contenere piu' dello 0,30 per cento di caffeina anidra riferita a 100 parti di sostanza secca; (omissis)... l'umidita' non deve superare il valore del 4 per cento del peso del prodotto (tale valore va inteso come perdita di peso registrata a 70 C dopo sei ore sotto una pressione ridotta di 40 mm mercurio); il rapporto di estrazione tra caffe' decaffeinato di partenza e l'estratto solubile ottenuto non deve essere inferiore a 2,3".  
-- Le caratteristiche chimico-fisiche e di purezza dell'anidride carbonica, previste dal D.M. 19 febbraio 1966 sono di seguito riportate:  
-"E 290 ANIDRIDE CARBONICA  
-Aspetto: gas incolore.  
-Titolo: non meno del 99% di CO2 in volume.  
-Acidita': il gorgoglio di 915 ml di gas attraverso 50 ml di acqua bollita di fresco non deve conferire a quest'ultima un'acidita', rispetto al metilarancio, superiore a quella di 50 ml di acqua bollita di fresco addizionata di 1 ml di acido cloridrico 0,001N.  
-Sostanze riducenti idrogeno fosforato e idrogeno solforato: il gorgoglio di 915 ml di gas attraverso 25 ml di reagente al nitrato d'argento ammoniacale, addizionati di 3 ml di ammoniaca, non deve provocare un intorbidamento o un oscuramento di tale soluzione.  
-Ossido di carbonio: una soluzione diluita di sangue, dopo agitazione con un volume di 915 ml di gas ed addizione di una miscela di pirogallolo e di acido tannico, non deve presentare una colorazione rosa, ma una colorazione grigia comparabile a quella prodotta nelle medesime condizioni da un volume eguale di anidride carbonica ottenuto dalla decomposizione del bicarbonato di sodio mediante acido cloridrico".
+Il Ministro: DE LORENZO Visto, il Guardasigilli: MARTELLI Registrato alla Corte dei conti il 7 marzo 1991 Registro n. 3 Sanita', foglio n. 166

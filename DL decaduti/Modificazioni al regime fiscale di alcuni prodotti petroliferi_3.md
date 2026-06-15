@@ -1,45 +1,34 @@
-DECRETO-LEGGE 19 giugno 1974 n. 229
+---
+tipo: DECRETO-LEGGE
+numero: 229
+data: 1974-06-19
+titolo: "Modificazioni al regime fiscale di alcuni prodotti petroliferi."
+urn: urn:nir:stato:decreto.legge:1974-06-19;229
+codice_redazionale: 074U0229
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 19 giugno 1974 n. 229
-===================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 14 AGOSTO 1974, N. 347](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-08-14;347)
 
-Modificazioni al regime fiscale di alcuni prodotti petroliferi.
----------------------------------------------------------------
+## Art. 2.
 
-Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 14 AGOSTO 1974, N. 347](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-08-14;347)
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 14 AGOSTO 1974, N. 347](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-08-14;347)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 14 AGOSTO 1974, N. 347](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-08-14;347)
 
-Art. 2
-------
+## Art. 4.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 14 AGOSTO 1974, N. 347](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-08-14;347)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 14 AGOSTO 1974, N. 347](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-08-14;347)
 
-Art. 3
-------
+## Art. 5.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 14 AGOSTO 1974, N. 347](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-08-14;347)
-  
-
-Art. 4
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 14 AGOSTO 1974, N. 347](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-08-14;347)
-  
-
-Art. 5
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 14 AGOSTO 1974, N. 347](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-08-14;347)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 14 AGOSTO 1974, N. 347](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-08-14;347)

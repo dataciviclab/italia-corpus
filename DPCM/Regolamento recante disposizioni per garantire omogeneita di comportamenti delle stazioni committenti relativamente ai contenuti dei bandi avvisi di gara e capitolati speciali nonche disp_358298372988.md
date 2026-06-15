@@ -1,83 +1,53 @@
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 10 gennaio 1991 n. 55
+---
+tipo: DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
+numero: 55
+data: 1991-01-10
+titolo: "Regolamento recante disposizioni per garantire omogeneita' di comportamenti delle stazioni committenti relativamente ai contenuti dei bandi, avvisi di gara e capitolati speciali, nonche' disposizioni per la qualificazione dei soggetti partecipanti alle gare per l'esecuzione di opere pubbliche."
+urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:1991-01-10;55
+codice_redazionale: 091G0063
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 10 gennaio 1991 n. 55
-=======================================================================
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163 ))
 
-Regolamento recante disposizioni per garantire omogeneita' di comportamenti delle stazioni committenti relativamente ai contenuti dei bandi, avvisi di gara e capitolati speciali, nonche' disposizioni per la qualificazione dei soggetti partecipanti alle gare per l'esecuzione di opere pubbliche.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 28/2/1991
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163 ))
 
-Art. 1
-------
+## Art. 3.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163 ))
 
-Art. 2
-------
+## Art. 4.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163 ))
 
-Art. 3
-------
+## Art. 5.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163 ))
 
-Art. 4
-------
+## Art. 6.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163 ))
 
-Art. 5
-------
+## Art. 7.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163 ))
 
-Art. 6
-------
+## Art. 8.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163 ))
 
-Art. 7
-------
+## Art. 9.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163 ))
 
-Art. 8
-------
+## Art. 10.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163 ))
 
-Art. 9
-------
+## Art. 11.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163) ))
-
-Art. 10
--------
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163) ))
-
-Art. 11
--------
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163) ))
-
-Allegato I
-
- ALLEGATO I   
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163) ))
-
-Allegato II
-
- ALLEGATO II   
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163) ))
-
-Allegato III
-
- ALLEGATO III   
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 12 APRILE 2006, N. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163 ))

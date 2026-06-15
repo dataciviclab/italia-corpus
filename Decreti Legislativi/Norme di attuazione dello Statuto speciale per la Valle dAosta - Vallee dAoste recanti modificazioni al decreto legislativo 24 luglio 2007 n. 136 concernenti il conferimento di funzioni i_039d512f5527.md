@@ -1,28 +1,26 @@
-DECRETO LEGISLATIVO 06 maggio 2026 n. 94
-
-
-DECRETO LEGISLATIVO 06 maggio 2026 n. 94
-========================================
-
-Norme di attuazione dello Statuto speciale per la Valle d'Aosta - Vallee d'Aoste, recanti modificazioni al decreto legislativo 24 luglio 2007, n. 136, concernenti il conferimento di funzioni in materia di istituzioni di alta formazione artistica e musicale. (26G00111)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/06/2026
+---
+tipo: DECRETO LEGISLATIVO
+numero: 94
+data: 2026-05-06
+titolo: "Norme di attuazione dello Statuto speciale per la Valle d'Aosta - Vallee d'Aoste, recanti modificazioni al decreto legislativo 24 luglio 2007, n. 136, concernenti il conferimento di funzioni in materia di istituzioni di alta formazione artistica e musicale. (26G00111)"
+urn: urn:nir:stato:decreto.legislativo:2026-05-06;94
+codice_redazionale: 26G00111
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[articolo 87, quinto comma, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge costituzionale 26 febbraio 1948, n. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;4), che approva lo Statuto speciale della regione Valle d'Aosta/Vallee d'Aoste;
+Vista la [legge costituzionale 26 febbraio 1948, n. 4](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Valle%20dAosta.md), che approva lo Statuto speciale della regione Valle d'Aosta/Vallee d'Aoste;
 
-Visto l'articolo 48-bis dello Statuto speciale, introdotto dall'[articolo 3 della legge costituzionale 23 settembre 1993, n. 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1993-09-23;2~art3);
+Visto l'articolo 48-bis dello Statuto speciale, introdotto dall'[articolo 3 della legge costituzionale 23 settembre 1993, n. 2](../Leggi%20costituzionali/Modifiche%20ed%20integrazioni%20agli%20statuti%20speciali%20per%20la%20Valle%20dAosta%20per%20la%20Sardegna%20per%20il%20Friuli-Venezia%20Giulia%20e%20per%20il%20Trentino-Alto%20Adige.md);
 
-Visto il [decreto legislativo 24 luglio 2007, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-07-24;136), recante «Norme di attuazione dello statuto speciale della Valle d'Aosta - Vallee d'Aoste concernenti il conferimento di funzioni in materia di istituzioni di alta formazione artistica e musicale»;
+Visto il [decreto legislativo 24 luglio 2007, n. 136](Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20Valle%20dAosta%20-%20Vallee%20dAoste%20concernenti%20il%20conferimento%20di%20funzioni%20in%20materia%20di%20istituzioni%20di%20alta%20formazione%20artistica%20e%20musicale.md), recante «Norme di attuazione dello statuto speciale della Valle d'Aosta - Vallee d'Aoste concernenti il conferimento di funzioni in materia di istituzioni di alta formazione artistica e musicale»;
 
-Visto il [decreto del Presidente della Repubblica 24 aprile 2024, n. 83](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2024-04-24;83), concernente il «Regolamento recante le procedure e le modalita' per la programmazione e il reclutamento del personale docente e del personale amministrativo e tecnico del comparto AFAM»;
+Visto il [decreto del Presidente della Repubblica 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), concernente il «Regolamento recante le procedure e le modalita' per la programmazione e il reclutamento del personale docente e del personale amministrativo e tecnico del comparto AFAM»;
 
-Visto il [decreto del Ministro dell'universita' e della ricerca n. 180 del 29 marzo 2023](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.universita.ricerca:decreto:2023-03-29;180);
+Visto il [decreto del Ministro dell'universita' e della ricerca n. 180 del 29 marzo 2023](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.universita.ricerca:decreto:2023-03-29;180);
 
 Vista la proposta della Commissione paritetica, approvata nelle riunioni del 14 ottobre 2024 e del 27 gennaio 2026;
 
@@ -32,71 +30,51 @@ Vista la deliberazione del Consiglio dei ministri, adottata nella riunione del 2
 
 Sulla proposta del Presidente del Consiglio dei ministri e del Ministro per gli affari regionali e le autonomie, di concerto con i Ministri dell'universita' e della ricerca, dell'istruzione e del merito, dell'economia e delle finanze e per la pubblica amministrazione;
 
-Emana
------
+Emana il seguente decreto legislativo:
 
-il seguente decreto legislativo:
+## Art. 1. — Modificazioni all'articolo 1 del decreto legislativo 24 luglio 2007, n. 136, in materia di istituzioni di alta formazione artistica e musicale
 
-Art. 1
-------
+1.
 
-Modificazioni all'articolo 1 del decreto legislativo 24 luglio 2007, n. 136, in materia di istituzioni di alta formazione artistica e musicale
+All'[articolo 1 del decreto legislativo 24 luglio 2007, n. 136](Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20Valle%20dAosta%20-%20Vallee%20dAoste%20concernenti%20il%20conferimento%20di%20funzioni%20in%20materia%20di%20istituzioni%20di%20alta%20formazione%20artistica%20e%20musicale.md), sono apportate le seguenti modificazioni:
+                        a)
+                            al comma 2, dopo le parole: «compresa la trasformazione dell'Istituto musicale pareggiato della Valle d'Aosta in istituzione di alta formazione musicale,» sono inserite le seguenti: «di seguito denominato Conservatoire de la Vallee d'Aoste,»;
+                        b)
+                            al comma 4 e' aggiunto, in fine, il seguente periodo: «I periodi di insegnamento a tempo determinato e indeterminato prestati presso il Conservatoire de la Vallee d'Aoste sono ritenuti utili ai fini di quanto disposto dall'[articolo 2, comma 17](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), e dall'[articolo 17, comma 9, del decreto del Presidente della Repubblica 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), nonche' ai fini della partecipazione ai bandi di concorso di cui al [decreto del Ministro dell'universita' e della ricerca n. 180 del 29 marzo 2023](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.universita.ricerca:decreto:2023-03-29;180), per l'attribuzione degli incarichi di insegnamento a tempo determinato e indeterminato.»;
+                        c)
+                            dopo il comma 4 e' inserito il seguente: «4-bis. Il personale docente delle istituzioni di cui al comma 1 puo' essere trasferito, a domanda, con passaggio nei rispettivi ruoli, nelle istituzioni di alta formazione artistica, musicale e coreutica operanti nel restante territorio nazionale, secondo le norme vigenti per i trasferimenti del personale docente. Il personale docente delle istituzioni di alta formazione artistica, musicale e coreutica operanti nel restante territorio nazionale puo' essere trasferito, a domanda, con passaggio nei rispettivi ruoli, nelle istituzioni di alta formazione musicale e artistica e coreutica operanti nel territorio della Valle d'Aosta subordinatamente al previo accertamento della conoscenza della lingua francese, secondo le modalita' stabilite dalla regione. Il servizio prestato nelle Istituzioni di provenienza e' valutato a tutti gli effetti. Per la ricongiunzione dei servizi a fini previdenziali si applica la normativa vigente in materia.».
 
-1. All'[articolo 1 del decreto legislativo 24 luglio 2007, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-07-24;136~art1), sono apportate le seguenti modificazioni:
+N O T E 
+ 
+ Avvertenza: 
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art.10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ Note alle premesse: 
+ - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87), al [comma quinto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5), conferisce, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti. 
+ - La [legge costituzionale 26 febbraio 1948, n. 4](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Valle%20dAosta.md), recante: "Statuto speciale per la Valle d'Aosta", e' pubblicata nella Gazzetta Ufficiale n. 59 del 10 marzo 1948. 
+ - Il [decreto legislativo 24 luglio 2007, n. 136](Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20Valle%20dAosta%20-%20Vallee%20dAoste%20concernenti%20il%20conferimento%20di%20funzioni%20in%20materia%20di%20istituzioni%20di%20alta%20formazione%20artistica%20e%20musicale.md), recante: «Norme di attuazione dello statuto speciale della Valle d'Aosta - Vallee d'Aoste concernenti il conferimento di funzioni in materia di istituzioni di alta formazione artistica e musicale» e' pubblicato nella Gazzetta Ufficiale n.199 del 28 agosto 2007. 
+ - Il [decreto del Presidente della Repubblica 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), recante: «Regolamento recante le procedure e le modalita' per la programmazione e il reclutamento del personale docente e del personale amministrativo e tecnico del comparto AFAM» e' pubblicato nella Gazzetta Ufficiale n. 143 del 20 giugno 2024. 
+ 
+ Note all'art. 1: 
+ - Si riporta il testo integrale dell'articolo 1 del citato [decreto legislativo 24 luglio 2007, n. 136](Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20Valle%20dAosta%20-%20Vallee%20dAoste%20concernenti%20il%20conferimento%20di%20funzioni%20in%20materia%20di%20istituzioni%20di%20alta%20formazione%20artistica%20e%20musicale.md), come modificato dal presente decreto: 
+ «Art. 1. - 1. Alle istituzioni di alta formazione artistica, musicale e coreutica operanti nell'ambito del territorio della Valle d'Aosta, si applicano le disposizioni di cui alla [legge 21 dicembre 1999, n. 508](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-21;508), e dei regolamenti di cui all'articolo 2, comma 7, di detta legge, con l'osservanza delle norme del presente decreto. 
+ 2. Le funzioni amministrative statali relative alle istituzioni di cui al comma 1, compresa la trasformazione dell'Istituto musicale pareggiato della Valle d'Aosta in istituzione di alta formazione musicale, di seguito denominato Conservatoire de la Vallee d'Aoste, sono delegate alla regione Valle d'Aosta che le esercita previa acquisizione, ove previsto, del parere del Consiglio nazionale per l'alta formazione artistica e musicale (CNAM), a tale fine integrato da un rappresentante della regione in seno alle istituzioni di volta in volta interessate, previsto dai rispettivi statuti. Gli statuti delle istituzioni di alta formazione artistica e musicale assicurano un'adeguata rappresentanza della regione autonoma Valle d'Aosta/Vallee d'Aoste in seno agli organi delle istituzioni medesime. 
+ 3. La regione emana norme legislative in materia di finanziamento ed edilizia delle istituzioni di cui al comma 1. La regione esercita, altresi', le funzioni amministrative in materia di programmazione e sviluppo dell'offerta formativa e di raccordo delle medesime istituzioni con il sistema scolastico ed universitario nell'ambito del proprio territorio. 
+ 4. I contratti di lavoro stipulati con il personale docente tengono conto delle specificita' dell'ordinamento regionale della Valle d'Aosta. Al reclutamento del personale docente si provvede in armonia con le disposizioni statali vigenti in materia, previo accertamento della conoscenza della lingua francese da operare secondo modalita' stabilite dalla regione. I periodi di insegnamento a tempo determinato e indeterminato prestati presso il Conservatoire de la Vallee d'Aoste sono ritenuti utili ai fini di quanto disposto dall'[articolo 2, comma 17](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), e dall'[articolo 17, comma 9, del decreto del Presidente della Repubblica 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), nonche' ai fini della partecipazione ai bandi di concorso di cui al [decreto del Ministro dell'universita' e della ricerca n. 180 del 29 marzo 2023](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.universita.ricerca:decreto:2023-03-29;180), per l'attribuzione degli incarichi di insegnamento a tempo determinato e indeterminato. 
+ 4-bis. Il personale docente delle istituzioni di cui al comma 1 puo' essere trasferito, a domanda, con passaggio nei rispettivi ruoli, nelle istituzioni di alta formazione artistica, musicale e coreutica operanti nel restante territorio nazionale, secondo le norme vigenti per i trasferimenti del personale docente. Il personale docente delle istituzioni di alta formazione artistica, musicale e coreutica operanti nel restante territorio nazionale puo' essere trasferito, a domanda, con passaggio nei rispettivi ruoli, nelle istituzioni di alta formazione musicale e artistica e coreutica operanti nel territorio della Valle d'Aosta subordinatamente al previo accertamento della conoscenza della lingua francese, secondo le modalita' stabilite dalla regione. Il servizio prestato nelle Istituzioni di provenienza e' valutato a tutti gli effetti.
+ Per la ricongiunzione dei servizi a fini previdenziali si applica la normativa vigente in materia. 
+ 5. I contributi dello Stato alle istituzioni di cui al comma 1, ove dovuti secondo la normativa vigente, sono determinati annualmente con decreto del Ministro dell'universita' e della ricerca, previa intesa con la regione, tenendo conto dei parametri utilizzati per il finanziamento delle analoghe istituzioni operanti nel territorio della Repubblica. 
+ 6. Al fine di garantire lo svolgimento delle attivita' formative e la vocazione internazionale dell'offerta didattica e della produzione artistica, le istituzioni di cui al comma 1 possono conferire contratti a tempo determinato a docenti e ricercatori che rivestono presso universita' o istituzioni di alta cultura in campo artistico e musicale straniere qualifiche analoghe a quelle considerate dall'ordinamento italiano, nella misura massima del trenta per cento della dotazione organica del corpo docente. 
+ 7. Le istituzioni di cui al comma 1 possono promuovere e sviluppare la collaborazione scientifica con le universita', con i centri di ricerca e con le istituzioni d'alta formazione e specializzazione artistica e musicale anche di altri stati per esigenze di ricerca produzione artistica e insegnamento. I relativi accordi di collaborazione possono prevedere l'esecuzione di corsi integrati di studio sia presso entrambe le istituzioni e universita', sia presso una di esse, nonche' programmi di ricerca congiunti. Le medesime istituzioni riconoscono la validita' dei corsi seguiti ovvero delle parti dei piani di studio svolte dagli studenti presso le istituzioni o universita' estere, nonche' i titoli accademici conseguiti al termine dei corsi integrati. 
+ 8. Gli accordi di collaborazione, definiti ai sensi del comma 7, sono comunicati al Ministro dell'universita' e della ricerca entro trenta giorni dalla loro stipulazione e divengono esecutivi ove il Ministro non si opponga, per motivi di legittimita', entro i trenta giorni successivi.».
 
-a) al comma 2, dopo le parole: «compresa la trasformazione dell'Istituto musicale pareggiato della Valle d'Aosta in istituzione di alta formazione musicale,» sono inserite le seguenti: «di seguito denominato Conservatoire de la Vallee d'Aoste,»;
+## Art. 2. — Clausola di invarianza finanziaria
 
-b) al comma 4 e' aggiunto, in fine, il seguente periodo: «I periodi di insegnamento a tempo determinato e indeterminato prestati presso il Conservatoire de la Vallee d'Aoste sono ritenuti utili ai fini di quanto disposto dall'[articolo 2, comma 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2024-04-24;83~art2-com17), e dall'[articolo 17, comma 9, del decreto del Presidente della Repubblica 24 aprile 2024, n. 83](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2024-04-24;83~art17-com9), nonche' ai fini della partecipazione ai bandi di concorso di cui al [decreto del Ministro dell'universita' e della ricerca n. 180 del 29 marzo 2023](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.universita.ricerca:decreto:2023-03-29;180), per l'attribuzione degli incarichi di insegnamento a tempo determinato e indeterminato.»;
+1.
 
-c) dopo il comma 4 e' inserito il seguente: «4-bis. Il personale docente delle istituzioni di cui al comma 1 puo' essere trasferito, a domanda, con passaggio nei rispettivi ruoli, nelle istituzioni di alta formazione artistica, musicale e coreutica operanti nel restante territorio nazionale, secondo le norme vigenti per i trasferimenti del personale docente. Il personale docente delle istituzioni di alta formazione artistica, musicale e coreutica operanti nel restante territorio nazionale puo' essere trasferito, a domanda, con passaggio nei rispettivi ruoli, nelle istituzioni di alta formazione musicale e artistica e coreutica operanti nel territorio della Valle d'Aosta subordinatamente al previo accertamento della conoscenza della lingua francese, secondo le modalita' stabilite dalla regione. Il servizio prestato nelle Istituzioni di provenienza e' valutato a tutti gli effetti. Per la ricongiunzione dei servizi a fini previdenziali si applica la normativa vigente in materia.».
-
-N O T E   
-  
-Avvertenza:   
-Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art.10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.   
-Note alle premesse:   
-- L'[art. 87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87), al [comma quinto](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5), conferisce, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.   
-- La [legge costituzionale 26 febbraio 1948, n. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;4), recante: "Statuto speciale per la Valle d'Aosta", e' [pubblicata nella Gazzetta Ufficiale n. 59 del 10 marzo 1948](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1948-03-10&numeroGazzetta=59).   
-- Il [decreto legislativo 24 luglio 2007, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-07-24;136), recante: «Norme di attuazione dello statuto speciale della Valle d'Aosta - Vallee d'Aoste concernenti il conferimento di funzioni in materia di istituzioni di alta formazione artistica e musicale» e' [pubblicato nella Gazzetta Ufficiale n.199 del 28 agosto 2007](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2007-08-28&numeroGazzetta=199).   
-- Il [decreto del Presidente della Repubblica 24 aprile 2024, n. 83](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2024-04-24;83), recante: «Regolamento recante le procedure e le modalita' per la programmazione e il reclutamento del personale docente e del personale amministrativo e tecnico del comparto AFAM» e' [pubblicato nella Gazzetta Ufficiale n. 143 del 20 giugno 2024](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2024-06-20&numeroGazzetta=143).   
-  
-Note all'art. 1:   
-- Si riporta il testo integrale dell'articolo 1 del citato [decreto legislativo 24 luglio 2007, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-07-24;136), come modificato dal presente decreto:   
-«Art. 1. - 1. Alle istituzioni di alta formazione artistica, musicale e coreutica operanti nell'ambito del territorio della Valle d'Aosta, si applicano le disposizioni di cui alla [legge 21 dicembre 1999, n. 508](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-21;508), e dei regolamenti di cui all'articolo 2, comma 7, di detta legge, con l'osservanza delle norme del presente decreto.   
-2. Le funzioni amministrative statali relative alle istituzioni di cui al comma 1, compresa la trasformazione dell'Istituto musicale pareggiato della Valle d'Aosta in istituzione di alta formazione musicale, di seguito denominato Conservatoire de la Vallee d'Aoste, sono delegate alla regione Valle d'Aosta che le esercita previa acquisizione, ove previsto, del parere del Consiglio nazionale per l'alta formazione artistica e musicale (CNAM), a tale fine integrato da un rappresentante della regione in seno alle istituzioni di volta in volta interessate, previsto dai rispettivi statuti. Gli statuti delle istituzioni di alta formazione artistica e musicale assicurano un'adeguata rappresentanza della regione autonoma Valle d'Aosta/Vallee d'Aoste in seno agli organi delle istituzioni medesime.   
-3. La regione emana norme legislative in materia di finanziamento ed edilizia delle istituzioni di cui al comma 1. La regione esercita, altresi', le funzioni amministrative in materia di programmazione e sviluppo dell'offerta formativa e di raccordo delle medesime istituzioni con il sistema scolastico ed universitario nell'ambito del proprio territorio.   
-4. I contratti di lavoro stipulati con il personale docente tengono conto delle specificita' dell'ordinamento regionale della Valle d'Aosta. Al reclutamento del personale docente si provvede in armonia con le disposizioni statali vigenti in materia, previo accertamento della conoscenza della lingua francese da operare secondo modalita' stabilite dalla regione. I periodi di insegnamento a tempo determinato e indeterminato prestati presso il Conservatoire de la Vallee d'Aoste sono ritenuti utili ai fini di quanto disposto dall'[articolo 2, comma 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2024-04-24;83~art2-com17), e dall'[articolo 17, comma 9, del decreto del Presidente della Repubblica 24 aprile 2024, n. 83](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2024-04-24;83~art17-com9), nonche' ai fini della partecipazione ai bandi di concorso di cui al [decreto del Ministro dell'universita' e della ricerca n. 180 del 29 marzo 2023](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.universita.ricerca:decreto:2023-03-29;180), per l'attribuzione degli incarichi di insegnamento a tempo determinato e indeterminato.   
-4-bis. Il personale docente delle istituzioni di cui al comma 1 puo' essere trasferito, a domanda, con passaggio nei rispettivi ruoli, nelle istituzioni di alta formazione artistica, musicale e coreutica operanti nel restante territorio nazionale, secondo le norme vigenti per i trasferimenti del personale docente. Il personale docente delle istituzioni di alta formazione artistica, musicale e coreutica operanti nel restante territorio nazionale puo' essere trasferito, a domanda, con passaggio nei rispettivi ruoli, nelle istituzioni di alta formazione musicale e artistica e coreutica operanti nel territorio della Valle d'Aosta subordinatamente al previo accertamento della conoscenza della lingua francese, secondo le modalita' stabilite dalla regione. Il servizio prestato nelle Istituzioni di provenienza e' valutato a tutti gli effetti.  
-Per la ricongiunzione dei servizi a fini previdenziali si applica la normativa vigente in materia.   
-5. I contributi dello Stato alle istituzioni di cui al comma 1, ove dovuti secondo la normativa vigente, sono determinati annualmente con decreto del Ministro dell'universita' e della ricerca, previa intesa con la regione, tenendo conto dei parametri utilizzati per il finanziamento delle analoghe istituzioni operanti nel territorio della Repubblica.   
-6. Al fine di garantire lo svolgimento delle attivita' formative e la vocazione internazionale dell'offerta didattica e della produzione artistica, le istituzioni di cui al comma 1 possono conferire contratti a tempo determinato a docenti e ricercatori che rivestono presso universita' o istituzioni di alta cultura in campo artistico e musicale straniere qualifiche analoghe a quelle considerate dall'ordinamento italiano, nella misura massima del trenta per cento della dotazione organica del corpo docente.   
-7. Le istituzioni di cui al comma 1 possono promuovere e sviluppare la collaborazione scientifica con le universita', con i centri di ricerca e con le istituzioni d'alta formazione e specializzazione artistica e musicale anche di altri stati per esigenze di ricerca produzione artistica e insegnamento. I relativi accordi di collaborazione possono prevedere l'esecuzione di corsi integrati di studio sia presso entrambe le istituzioni e universita', sia presso una di esse, nonche' programmi di ricerca congiunti. Le medesime istituzioni riconoscono la validita' dei corsi seguiti ovvero delle parti dei piani di studio svolte dagli studenti presso le istituzioni o universita' estere, nonche' i titoli accademici conseguiti al termine dei corsi integrati.   
-8. Gli accordi di collaborazione, definiti ai sensi del comma 7, sono comunicati al Ministro dell'universita' e della ricerca entro trenta giorni dalla loro stipulazione e divengono esecutivi ove il Ministro non si opponga, per motivi di legittimita', entro i trenta giorni successivi.».
-
-Art. 2
-------
-
-Clausola di invarianza finanziaria
-
-1. Gli oneri connessi alle singole procedure di mobilita' da parte dei singoli Conservatori sono posti a carico del bilancio degli enti stessi, nel rispetto dei limiti previsti dalla relativa programmazione e dalla normativa vigente.
+Gli oneri connessi alle singole procedure di mobilita' da parte dei singoli Conservatori sono posti a carico del bilancio degli enti stessi, nel rispetto dei limiti previsti dalla relativa programmazione e dalla normativa vigente.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 6 maggio 2026
+Dato a Roma, addi' 6 maggio 2026
 
-MATTARELLA
-
-Meloni, Presidente del Consiglio dei ministri
-
-Calderoli, Ministro per gli affari regionali e le autonomie
-
-Bernini, Ministro dell'universita' e della ricerca
-
-Valditara, Ministro dell'istruzione e del merito
-
-Giorgetti, Ministro dell'economia e delle finanze
-
-Zangrillo, Ministro per la pubblica amministrazione
-
-Visto, il Guardasigilli: Nordio
+MATTARELLA Meloni, Presidente del Consiglio dei ministri Calderoli, Ministro per gli affari regionali e le autonomie Bernini, Ministro dell'universita' e della ricerca Valditara, Ministro dell'istruzione e del merito Giorgetti, Ministro dell'economia e delle finanze Zangrillo, Ministro per la pubblica amministrazione Visto, il Guardasigilli: Nordio

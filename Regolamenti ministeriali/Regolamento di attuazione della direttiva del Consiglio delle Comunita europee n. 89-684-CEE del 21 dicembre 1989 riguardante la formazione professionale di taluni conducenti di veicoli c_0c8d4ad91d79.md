@@ -1,228 +1,177 @@
-DECRETO 30 dicembre 1992 n. 571
-
-
-DECRETO 30 dicembre 1992 n. 571
-===============================
-
-Regolamento di attuazione della direttiva del Consiglio delle Comunita' europee n. 89/684/CEE del 21 dicembre 1989 riguardante la formazione professionale di taluni conducenti di veicoli che trasportano merci pericolose su strada.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO
+numero: 571
+data: 1992-12-30
+titolo: "Regolamento di attuazione della direttiva del Consiglio delle Comunita' europee n. 89/684/CEE del 21 dicembre 1989 riguardante la formazione professionale di taluni conducenti di veicoli che trasportano merci pericolose su strada."
+urn: urn:nir:ministero.trasporti:decreto:1992-12-30;571
+codice_redazionale: 093G0129
+vigente: true
+---
 
 IL MINISTRO DEI TRASPORTI
--------------------------
 
-Vista la [legge 10 luglio 1970, n. 579](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-07-10;579), relativa al trasporto su strada di materie pericolose;
+Vista la [legge 10 luglio 1970, n. 579](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasporto%20su%20strada%20di%20merci%20pericolose.md), relativa al trasporto su strada di materie pericolose;
 
-Visto il testo unico delle norme sulla disciplina della circolazione stradale, approvato con [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-06-15;393), e il relativo regolamento di esecuzione approvato con [decreto del Presidente della Repubblica 30 giugno 1959, n. 420](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-06-30;420), e successive modifiche ed integrazioni;
+Visto il testo unico delle norme sulla disciplina della circolazione stradale, approvato con [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](../DPR/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md), e il relativo regolamento di esecuzione approvato con [decreto del Presidente della Repubblica 30 giugno 1959, n. 420](../Regolamenti%20governativi/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Testo%20Unico%20delle%20norme%20sulla%20disciplina%20della%20circolazione%20stradale.md), e successive modifiche ed integrazioni;
 
-Vista la [legge 12 agosto 1962, n. 1839](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-08-12;1839), con la quale e' stato ratificato l'accordo europeo del 30 settembre 1957 relativo al trasporto internazionale su strada di merci pericolose A.D.R., e suc- cessive modificazioni;
+Vista la [legge 12 agosto 1962, n. 1839](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellAccordo%20europeo%20relativo%20al%20trasporto%20internazionale%20di%20merci%20pericolose%20su%20strada%20con%20annessi%20Protocollo%20ed%20Allegati%20adottato%20a%20Ginevra%20il%2030%20settembre%201957.md), con la quale e' stato ratificato l'accordo europeo del 30 settembre 1957 relativo al trasporto internazionale su strada di merci pericolose A.D.R., e suc- cessive modificazioni;
 
-Vista la [direttiva CEE n. 89/684 del 21 dicembre 1989](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31989L0684) relativa alla formazione professionale di taluni conducenti che trasportano merci pericolose su strada;
+Vista la [direttiva CEE n. 89/684 del 21 dicembre 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;684) relativa alla formazione professionale di taluni conducenti che trasportano merci pericolose su strada;
 
-Vista la [legge 19 febbraio 1992, n. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-19;142), ed in particolare l'art. 11, nel quale e' previsto che il Ministro dei trasporti con proprio decreto da' attuazione alla [direttiva n. 89/684/CEE del 21 dicembre 1989](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31989L0684) in precedenza indicata;
+Vista la [legge 19 febbraio 1992, n. 142](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20legge%20comunitaria%20per%20il%201991.md), ed in particolare l'art. 11, nel quale e' previsto che il Ministro dei trasporti con proprio decreto da' attuazione alla [direttiva n. 89/684/CEE del 21 dicembre 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;684) in precedenza indicata;
 
-Vista la [legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), in particolare l'art. 17, commi 3 e 4;
+Vista la [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), in particolare l'art. 17, commi 3 e 4;
 
-Vista la lettera n. 065732 in data 8 maggio 1992 con la quale la Commissione CEE afferma che il progetto di decreto di applicazione in Italia delle disposizioni della [direttiva n. 89/684/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31989L0684) sopracitata, applica correttamente le disposizioni della direttiva stessa;
+Vista la lettera n. 065732 in data 8 maggio 1992 con la quale la Commissione CEE afferma che il progetto di decreto di applicazione in Italia delle disposizioni della [direttiva n. 89/684/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;684) sopracitata, applica correttamente le disposizioni della direttiva stessa;
 
 Udito il parere del Consiglio di Stato reso nella adunanza generale del 23 luglio 1992;
 
-Esperita la procedura prevista dalla sopracitata [legge n. 400/1988, art. 17, comma 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400~art17-com3), ultimo periodo, con la comunicazione al Presidente del Consiglio dei Ministri;
+Esperita la procedura prevista dalla sopracitata [legge n. 400/1988, art. 17, comma 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com3), ultimo periodo, con la comunicazione al Presidente del Consiglio dei Ministri;
 
-Ritenuta la necessita', nel recepire tale direttiva, di emanare le disposizioni regolamentari ed amministrative necessarie per conformare la normativa nazionale riguardante la formazione professionale di taluni conducenti che trasportano merci pericolose su strada alla citata [direttiva n. 89/684/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31989L0684);
+Ritenuta la necessita', nel recepire tale direttiva, di emanare le disposizioni regolamentari ed amministrative necessarie per conformare la normativa nazionale riguardante la formazione professionale di taluni conducenti che trasportano merci pericolose su strada alla citata [direttiva n. 89/684/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;684);
 
 A D O T T A il seguente regolamento:
 
-Art. 1
-------
+## Art. 1. — Campo di applicazione
 
-Campo di applicazione
+1.
 
-1. Con il presente regolamento viene data attuazione alla direttiva del Consiglio delle Comunita' europee n. 89/684/CEE del 21 dicembre 1989 riguardante la formazione professionale di taluni conducenti che effettuano trasporti nazionali ed internazionali su strada di merci pericolose mediante:
+Con il presente regolamento viene data attuazione alla direttiva del Consiglio delle Comunita' europee n. 89/684/CEE del 21 dicembre 1989 riguardante la formazione professionale di taluni conducenti che effettuano trasporti nazionali ed internazionali su strada di merci pericolose mediante:
+                        a)
+                            veicoli di massa max autorizzata superiore a 3,5 tonnellate che trasportano merci pericolose in quantita' superiore ai limiti previsti nel marginale 10011 dell'A.D.R.; per le materie ed oggetti esplosivi si tiene invece conto di tutti i veicoli, qualunque sia la loro massa massima autorizzata;
+                        b)
+                            veicoli cisterna o unita' di trasporto che comprendono cisterne o contenitori cisterna aventi capacita' di oltre 3000 litri e/o una massa massima autorizzata superiore a 3,5 tonnellate allorche' detti veicoli o unita' di trasporto trasportino merci pericolose od effettuino un percorso su strada dopo aver scaricato merci pericolose senza che le cisterne o i contenitori cisterna siano stati puliti o degassati.
 
-a) veicoli di massa max autorizzata superiore a 3,5 tonnellate che trasportano merci pericolose in quantita' superiore ai limiti previsti nel marginale 10011 dell'A.D.R.; per le materie ed oggetti esplosivi si tiene invece conto di tutti i veicoli, qualunque sia la loro massa massima autorizzata;
+2.
 
-b) veicoli cisterna o unita' di trasporto che comprendono cisterne o contenitori cisterna aventi capacita' di oltre 3000 litri e/o una massa massima autorizzata superiore a 3,5 tonnellate allorche' detti veicoli o unita' di trasporto trasportino merci pericolose od effettuino un percorso su strada dopo aver scaricato merci pericolose senza che le cisterne o i contenitori cisterna siano stati puliti o degassati.
+Le norme di cui al presente regolamento non si applicano ai veicoli appartenenti alle Forze armate o posti sotto la responsabilita' di queste.
 
-2. Le norme di cui al presente regolamento non si applicano ai veicoli appartenenti alle Forze armate o posti sotto la responsabilita' di queste.
+## Art. 2. — Certificato di formazione professionale
 
-Art. 2
-------
+1.
 
-Certificato di formazione professionale
+I conducenti dei veicoli di cui all'art. 1 devono aver conseguito alle scadenze di cui al comma 2, il certificato di formazione professionale, il cui rilascio e' subordinato alla partecipazione ad un apposito corso di formazione e al superamento del relativo esame, previsto all'art. 3.
 
-1. I conducenti dei veicoli di cui all'art. 1 devono aver conseguito alle scadenze di cui al comma 2, il certificato di formazione professionale, il cui rilascio e' subordinato alla partecipazione ad un apposito corso di formazione e al superamento del relativo esame, previsto all'art. 3.
+2.
 
-2. Le scadenze sono cosi' fissate:
+Le scadenze sono cosi' fissate:
+                        a)
+                            1 luglio 1993 per il trasporto di merci pericolose con i veicoli cisterna e le unita' di trasporto di cui al comma 1, lettera b), dell'art. 1, nonche' per il trasporto di materie ed oggetti esplosivi;
+                        b)
+                            1 luglio 1995, per qualsiasi altro trasporto di merci pericolose di cui all'art. 1.
 
-a) 1› luglio 1993 per il trasporto di merci pericolose con i veicoli cisterna e le unita' di trasporto di cui al comma 1, lettera b), dell'art. 1, nonche' per il trasporto di materie ed oggetti esplosivi;
+3.
 
-b) 1› luglio 1995, per qualsiasi altro trasporto di merci pericolose di cui all'art. 1.
+Il certificato e' valido cinque anni. La sua validita' puo' essere prorogata per periodi di cinque anni, allorche' il titolare del certificato:
+                        a)
+                            nell'anno che precede la scadenza di validita' del certificato, ha seguito l'apposito corso di aggiornamento di cui all'art. 3 ed ha superato il relativo esame;
+                        b)
+                            ovvero puo' provare, con documentazione atta a consentire i necessari riscontri, di avere esercitato la propria attivita' senza interruzioni dal momento del rilascio o dell'ultima proroga del suo certificato. Sono ammesse sospensioni di attivita' stagionali, ferie od altre interruzioni di lavoro non superiori a sei mesi per periodo di dodici mesi.
 
-3. Il certificato e' valido cinque anni. La sua validita' puo' essere prorogata per periodi di cinque anni, allorche' il titolare del certificato:
+## Art. 3. — Corso di formazione professionale ed esame
 
-a) nell'anno che precede la scadenza di validita' del certificato, ha seguito l'apposito corso di aggiornamento di cui all'art. 3 ed ha superato il relativo esame;
+1.
 
-b) ovvero puo' provare, con documentazione atta a consentire i necessari riscontri, di avere esercitato la propria attivita' senza interruzioni dal momento del rilascio o dell'ultima proroga del suo certificato. Sono ammesse sospensioni di attivita' stagionali, ferie od altre interruzioni di lavoro non superiori a sei mesi per periodo di dodici mesi.
+E' istituito il corso di formazione professionale per i conducenti di veicoli di cui all'art. 1.
 
-Art. 3
-------
+2.
 
-Corso di formazione professionale ed esame
+Per l'ammissione al corso e' necessario essere in possesso della patente di guida corrispondente al tipo di veicolo previsto dal certificato che si intende conseguire, secondo quanto indicato nell'art. 5.
 
-1. E' istituito il corso di formazione professionale per i conducenti di veicoli di cui all'art. 1.
+3.
 
-2. Per l'ammissione al corso e' necessario essere in possesso della patente di guida corrispondente al tipo di veicolo previsto dal certificato che si intende conseguire, secondo quanto indicato nell'art. 5.
+Il corso di formazione professionale deve:
+                        a)
+                            comportare lo svolgimento del programma previsto nell'allegato 2 del presente regolamento, e di cui lo stesso costituisce parte integrante;
+                        b)
+                            comportare una frequenza minima di trenta ore per il primo conseguimento e di venti ore, qualora trattasi di aggiornamento;
+                        c)
+                            essere svolto a cura di organizzazioni o enti legalmente costituiti ed accreditati, a tal fine, da apposita commissione istituita presso la Direzione generale della motorizzazione civile e dei trasporti in concessione (MCTC), come da successivo art. 4;
+                        d)
+                            dette organizzazioni o enti devono precisare i nominativi dei docenti, i quali devono essere in possesso di laurea in chimica o ingegneria e devono possedere comprovata esperienza nel settore delle merci pericolose da almeno cinque anni. Inoltre per l'effettuazione delle lezioni inerenti il comportamento da adottare in condizioni di emergenza per il primo soccorso, deve essere specificato il nominativo del medico docente ed i relativi titoli. Lo svolgimento del corso deve essere supportato da idoneo materiale didattico, ed in particolare da attrezzature necessarie per integrare le lezioni teoriche con esercitazioni pratiche.
 
-3. Il corso di formazione professionale deve:
+4.
 
-a) comportare lo svolgimento del programma previsto nell'allegato 2 del presente regolamento, e di cui lo stesso costituisce parte integrante;
+L'istanza per l'accreditamento di cui al precedente comma 3- c) deve essere redatto secondo lo schema dell'allegato 3 che costituisce parte integrante del presente regolamento.
 
-b) comportare una frequenza minima di trenta ore per il primo conseguimento e di venti ore, qualora trattasi di aggiornamento;
+5.
 
-c) essere svolto a cura di organizzazioni o enti legalmente costituiti ed accreditati, a tal fine, da apposita commissione istituita presso la Direzione generale della motorizzazione civile e dei trasporti in concessione (MCTC), come da successivo art. 4;
+L'esame al termine del corso deve essere sostenuto davanti a due funzionari della ex carriera direttiva della Direzione generale MCTC designato dalla medesima Direzione generale ed alla presenza di almeno due rappresentanti dei docenti del corso.
 
-d) dette organizzazioni o enti devono precisare i nominativi dei docenti, i quali devono essere in possesso di laurea in chimica o ingegneria e devono possedere comprovata esperienza nel settore delle merci pericolose da almeno cinque anni. Inoltre per l'effettuazione delle lezioni inerenti il comportamento da adottare in condizioni di emergenza per il primo soccorso, deve essere specificato il nominativo del medico docente ed i relativi titoli. Lo svolgimento del corso deve essere supportato da idoneo materiale didattico, ed in particolare da attrezzature necessarie per integrare le lezioni teoriche con esercitazioni pratiche.
+6.
 
-4. L'istanza per l'accreditamento di cui al precedente comma 3- c) deve essere redatto secondo lo schema dell'allegato 3 che costituisce parte integrante del presente regolamento.
+Le disposizioni applicative inerenti l'esame saranno emanate con apposite circolari, della Direzione generale MCTC cui compete la vigilanza sullo svolgimento dei corsi.
 
-5. L'esame al termine del corso deve essere sostenuto davanti a due funzionari della ex carriera direttiva della Direzione generale MCTC designato dalla medesima Direzione generale ed alla presenza di almeno due rappresentanti dei docenti del corso.
+## Art. 4. — Commissione per accreditare le organizzazioni o gli enti
 
-6. Le disposizioni applicative inerenti l'esame saranno emanate con apposite circolari, della Direzione generale MCTC cui compete la vigilanza sullo svolgimento dei corsi.
+1.
 
-Art. 4
-------
+E' istituita presso la Direzione generale MCTC, un'apposita commissione al fine di valutare i requisiti necessari per accreditare le organizzazioni o gli enti, che ne facciano esplicita richiesta, per l'effettuazione dei corsi di formazione professionale di cui all'art. 3.
 
-Commissione per accreditare le organizzazioni o gli enti
+2.
 
-1. E' istituita presso la Direzione generale MCTC, un'apposita commissione al fine di valutare i requisiti necessari per accreditare le organizzazioni o gli enti, che ne facciano esplicita richiesta, per l'effettuazione dei corsi di formazione professionale di cui all'art. 3.
+La commissione e' composta da un dirigente generale della Direzione generale MCTC con funzione di presidente, da un funzionario della Direzione generale MCTC e da un funzionario del Ministero dell'interno, entrambi di livello non inferiore al nono, nonche' da sei rappresentanti designati rispettivamente dalla Confindustria, dalla Federchimica, dalla Assotrasporti, dalla Anita, dalla Fai, dalla Fita. Le funzioni di segretario sono affidate ad un funzionario della Direzione generale MCTC.
 
-2. La commissione e' composta da un dirigente generale della Direzione generale MCTC con funzione di presidente, da un funzionario della Direzione generale MCTC e da un funzionario del Ministero dell'interno, entrambi di livello non inferiore al nono, nonche' da sei rappresentanti designati rispettivamente dalla Confindustria, dalla Federchimica, dalla Assotrasporti, dalla Anita, dalla Fai, dalla Fita. Le funzioni di segretario sono affidate ad un funzionario della Direzione generale MCTC.
+3.
 
-3. E' ammessa la designazione di membri e segretario supplenti.
+E' ammessa la designazione di membri e segretario supplenti.
 
-4. Il presidente, i membri e il segretario della commissione sono nominati con provvedimento del direttore generale della MCTC.
+4.
 
-5. I criteri di valutazione ai fini dell'accreditamento di cui al primo comma del presente articolo sono stabiliti dalla commissione di cui al comma 1.
+Il presidente, i membri e il segretario della commissione sono nominati con provvedimento del direttore generale della MCTC.
 
-6. Le decisioni adottate dalla commissione hanno la natura di provvedimento definitivo.
+5.
 
-Art. 5
-------
+I criteri di valutazione ai fini dell'accreditamento di cui al primo comma del presente articolo sono stabiliti dalla commissione di cui al comma 1.
 
-Caratteristiche del certificato di formazione professionale
+6.
 
-1. Il certificato di formazione professionale, corrispondente al modello indicato nell'allegato B6 dell'A.D.R., conforme all'allegato 1 del presente decreto, di cui costituisce parte integrante, e' valido singolarmente o cumulativamente per i seguenti trasporti:
+Le decisioni adottate dalla commissione hanno la natura di provvedimento definitivo.
 
-a) per il trasporto di merci pericolose in cisterna (tutte le classi ammesse) cosi' come definita nel marginale 10014 dell'A.D.R.;
+## Art. 5. — Caratteristiche del certificato di formazione professionale
 
-b) per il trasporto di merci pericolose con modalita' diverse dal trasporto in cisterne (tutte le classi ammesse).
+1.
 
-Art. 6
-------
+Il certificato di formazione professionale, corrispondente al modello indicato nell'allegato B6 dell'A.D.R., conforme all'allegato 1 del presente decreto, di cui costituisce parte integrante, e' valido singolarmente o cumulativamente per i seguenti trasporti:
+                        a)
+                            per il trasporto di merci pericolose in cisterna (tutte le classi ammesse) cosi' come definita nel marginale 10014 dell'A.D.R.;
+                        b)
+                            per il trasporto di merci pericolose con modalita' diverse dal trasporto in cisterne (tutte le classi ammesse).
 
-Norme transitorie
+## Art. 6. — Norme transitorie
 
-1. Nei sei mesi precedenti le rispettive date di cui all'art. 2 del presente regolamento, i conducenti, che ne facciano richiesta, possono conseguire per la prima volta il certificato provvisorio di formazione professionale senza aver seguito il corso e superato il relativo esame previsto dall'art. 2, a condizione che provino, con la medesima documentazione di cui all'art. 2, comma 2- b), di avere esercitato l'attivita' di conducente di veicoli adibiti al trasporto di merci pericolose nei cinque anni precedenti le rispettive date in precedenza richiamate. Sono ammesse sospensioni di attivita' stagionali, ferie ed altre interruzioni di lavoro non superiori a sei mesi per periodi di dodici mesi o per diciotto mesi complessivi per tutto il periodo.
+1.
 
-2. Il certificato provvisorio di formazione professionale avente le caratteristiche del modello di cui al precedente art. 5, e' valido soltanto per i trasporti nazionali e la sua validita' scade il 31 dicembre 1996; detto certificato deve essere corredato della seguente indicazione: "Applicazione dell'[art. 4, par. 2 della direttiva n. 89/684/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31989L0684) e valido unicamente per i trasporti effettuati all'interno dello Stato membro che lo ha rilasciato".
+Nei sei mesi precedenti le rispettive date di cui all'art. 2 del presente regolamento, i conducenti, che ne facciano richiesta, possono conseguire per la prima volta il certificato provvisorio di formazione professionale senza aver seguito il corso e superato il relativo esame previsto dall'art. 2, a condizione che provino, con la medesima documentazione di cui all'art. 2, comma 2- b), di avere esercitato l'attivita' di conducente di veicoli adibiti al trasporto di merci pericolose nei cinque anni precedenti le rispettive date in precedenza richiamate. Sono ammesse sospensioni di attivita' stagionali, ferie ed altre interruzioni di lavoro non superiori a sei mesi per periodi di dodici mesi o per diciotto mesi complessivi per tutto il periodo.
 
-3. Nei confronti dei conducenti che sono in possesso del certificato provvisorio di formazione professionale, il rilascio del certificato di formazione di cui all'art. 5 puo' avvenire solo a seguito di superamento dell'esame successivo alla frequenza del corso di formazione professionale previsto al secondo comma dell'art. 3 per il primo conseguimento.
+2.
 
-4. I certificati di formazione professionale A.D.R., rilasciati ai sensi del decreto ministeriale 7 agosto 1982, validi esclusivamente per i trasporti internazionali di merci pericolose in cisterne e rilasciati o rinnovati anteriormente alla data del 1› luglio 1992, sono riconosciuti come certificati di formazione ai sensi del presente regolamento e pertanto considerati validi ai fini del trasporto sia nazionale che internazionale di merci pericolose in cisterne fino alla scadenza della loro validita', a condizione che siano convalidati presso l'ufficio provinciale di rilascio, secondo le modalita' indicate dalla Direzione generale MCTC.
+Il certificato provvisorio di formazione professionale avente le caratteristiche del modello di cui al precedente art. 5, e' valido soltanto per i trasporti nazionali e la sua validita' scade il 31 dicembre 1996; detto certificato deve essere corredato della seguente indicazione: "Applicazione dell'[art. 4, par. 2 della direttiva n. 89/684/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;684) e valido unicamente per i trasporti effettuati all'interno dello Stato membro che lo ha rilasciato".
 
-5. Dopo la scadenza di validita', i certificati di cui al comma precedente potranno essere sostituiti con quelli previsti dal presente regolamento qualora i conducenti superino il relativo esame successivo alla frequenza del corso di aggiornamento previsto al comma 3 dell'art. 3.
+3.
 
-Art. 7
-------
+Nei confronti dei conducenti che sono in possesso del certificato provvisorio di formazione professionale, il rilascio del certificato di formazione di cui all'art. 5 puo' avvenire solo a seguito di superamento dell'esame successivo alla frequenza del corso di formazione professionale previsto al secondo comma dell'art. 3 per il primo conseguimento.
 
-Entrata in vigore
+4.
 
-1. Il decreto ministeriale 7 agosto 1982 resta in vigore per le parti non in contrasto con il presente regolamento.
+I certificati di formazione professionale A.D.R., rilasciati ai sensi del decreto ministeriale 7 agosto 1982, validi esclusivamente per i trasporti internazionali di merci pericolose in cisterne e rilasciati o rinnovati anteriormente alla data del 1 luglio 1992, sono riconosciuti come certificati di formazione ai sensi del presente regolamento e pertanto considerati validi ai fini del trasporto sia nazionale che internazionale di merci pericolose in cisterne fino alla scadenza della loro validita', a condizione che siano convalidati presso l'ufficio provinciale di rilascio, secondo le modalita' indicate dalla Direzione generale MCTC.
 
-2. Il presente regolamento entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
+5.
+
+Dopo la scadenza di validita', i certificati di cui al comma precedente potranno essere sostituiti con quelli previsti dal presente regolamento qualora i conducenti superino il relativo esame successivo alla frequenza del corso di aggiornamento previsto al comma 3 dell'art. 3.
+
+## Art. 7. — Entrata in vigore
+
+1.
+
+Il decreto ministeriale 7 agosto 1982 resta in vigore per le parti non in contrasto con il presente regolamento.
+
+2.
+
+Il presente regolamento entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 30 dicembre 1992
+Roma, 30 dicembre 1992
 
-Il Ministro: TESINI
-
-Visto, il Guardasigilli: CONSO Registrato alla Corte dei conti il 16 marzo 1993
-
-Registro n. 2 Trasporti, foglio n. 281
-
-Allegato 1
-
- ALLEGATO 1   
-(Art. 5)   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=093G012900100010110001&dgu=1993-03-25&art.dataPubblicazioneGazzetta=1993-03-25&art.codiceRedazionale=093G0129)
-  
-  
-  
-  
-Nota:   
-Le pagine 2 e 3 sono riservate alla indicazione dei dati di identificazione del titolare ed alla validita' del certificato in questione.   
-
-Allegato 2
-
- ALLEGATO 2   
-(Art. 3, comma 3)   
-PROGRAMMA DI ESAME PER IL RILASCIO DEL CERTIFICATO   
-DI FORMAZIONE PROFESSIONALE   
-1) Normativa in vigore riguardante il trasporto di merci pericolose su strada;   
-2) Classificazione merci pericolose (prodotti puri, miscele, rifiuti, rubriche collettive);   
-3) Prescrizioni generali riguardanti il trasporto di tutte le merci pericolose;   
-4) Principali tipi di rischi;   
-5) Misure di prevenzione e di sicurezza appropriate per i diversi tipi di rischi;   
-6) Il trasporto di merci pericolose in cisterne, alla rinfusa imballate;   
-7) Controllo delle merci pericolose (stato e condizionamento);   
-8) Divieto di carico in comune sul medesimo veicolo o nei contenitori;   
-9) Prescrizioni da osservare per lo stanziamento dei veicoli trasportanti merci pericolose;   
-10) Etichettatura e segnaletica di pericolo sui veicoli;   
-11) Precauzioni da adottare per il carico e lo scarico di merci pericolose;   
-12) Il trasporto di materie radioattive;   
-13) Il trasporto di esplosivi;   
-14) Il trasporto di rifiuti pericolosi;   
-15) Documentazione di trasporto - schede di sicurezza - abilitazione conducenti;   
-16) L'oggetto ed il funzionamento dell'attrezzatura tecnica dei veicoli adibiti al trasporto di merci pericolose;   
-17) Cio' che un conducente di veicolo deve fare e cio' che non deve fare quando trasporta merci pericolose;   
-18) Comportamento da adottare dopo un incidente (primi soccorsi, sicurezza della circolazione, ecc.);   
-19) Prevenzione e nozioni di pronto soccorso in relazione al tipo di pericolo della merce trasportata;   
-20) Attrezzature di protezione e di prevenzione obbligatoriamente in dotazione al veicolo;   
-21) Movimentazione e stivaggio dei colli sui veicoli;   
-22) Criteri per l'ammarraggio dei colli sui veicoli;   
-23) Conoscenza dei vari tipi di colli;   
-24) Modalita' di identificazione dei colli di tipo approvato, loro etichettatura e condizionamento;   
-25) Conoscenza generale di un veicolo cisterna o di contenitori cisterna - attrezzature - accessori - dispositivi di sicurezza;   
-26) Cisterne per il trasporto di gas compressi, liquefatti, fortemente refrigerati;   
-27) Nozioni sul comportamento in marcia dei veicoli con cisterna o contenitori cisterna compresi i movimenti del carico;   
-28) Operazioni di carico e scarico di veicoli cisterna;   
-29) La bonifica della cisterna o di contenitori cisterna.   
-Le conoscenze di cui ai punti 12), 13) e da 21) a 24), specifiche per i conducenti di veicoli che trasportano merci pericolose non in cisterna, devono essere in particolare accertate nel corso dell'esame.   
-Le conoscenze di cui ai punti da 25) a 29), specifiche per i conducenti di veicoli cisterna o contenitori cisterna che trasportano merci pericolose devono essere in particolare accertate nel corso dell'esame.   
-
-Allegato 3
-
- ALLEGATO 3   
-(Art. 3, comma 4)   
-(Istanza in bollo delle organizzazioni o enti di cui all'art. 3, terzo comma, paragrafo c) del decreto ministeriale n. .......)   
-Al Ministero dei trasporti -   
-Direzione centrale IV - ROMA   
-.... scrivente, in qualita' di ................................... chiede, ai sensi dell'art. 3, terzo comma, paragrafo c) del decreto ministeriale del ...................... di essere autorizzato ad effettuare lo svolgimento dei corsi di formazione professionale secondo le modalita' di cui al citato art. 3.   
-Lo scrivente, a tal fine, si impegna:   
-1) a fornire in allegato la documentazione prevista al punto d) del predetto art. 3 comma terzo;   
-2) a notificare per iscritto con almeno quindici giorni di anticipo all'ufficio provinciale M.C.T.C. competente per territorio (relativamente alla sede del corso) quanto segue:   
-a) sede di svolgimento del corso teorico e delle esercitazioni pratiche (localita', indirizzo completo);   
-b) data di inizio del corso;   
-c) calendario completo dei giorni e delle ore di lezione con l'indicazione dei rispettivi docenti, precisazione del responsabile del corso (dati anagrafici e numero telefonico);   
-d) elenco nominativo dei partecipanti al corso (eventualmente integrabili con altri nominativi fino alla data di inizio del corso stesso);   
-3) a consentire il libero accesso ai funzionari M.C.T.C., all'uopo incaricati, nelle sedi di svolgimento del corso nelle ore e nei giorni di svolgimento del corso;   
-4) a richiedere con almeno quindici giorni di anticipo e comunque non prima che siano trascorsi quindici giorni dalla fine dello svolgimento del corso l'effettuazione degli esami di idoneita' compatibilmente con le esigenze di servizio del predetto ufficio M.C.T.C., allegando l'elenco dei partecipanti al corso che, a giudizio del responsabile del corso stesso sono ritenuti idonei a sostenere l'esame, sia per il profitto dimostrato sia per la frequenza minima in ore, in ogni caso non inferiore ai limiti minimi previsti all'art. 3 del decreto ministeriale n. ........ del ........   
-................ ;   
-5) a tenere a disposizione appositi registri di frequenza da esibire all'atto dell'esame;   
-6) a comunicare eventuali variazioni da apportare all'allegato elenco dei docenti.   
-Data, ....................   
-Firma (autenticata) ......................   
+Il Ministro: TESINI Visto, il Guardasigilli: CONSO Registrato alla Corte dei conti il 16 marzo 1993 Registro n. 2 Trasporti, foglio n. 281

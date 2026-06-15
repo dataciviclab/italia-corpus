@@ -1,21 +1,13 @@
-LEGGE 01 luglio 1997 n. 189
+---
+tipo: LEGGE
+numero: 189
+data: 1997-07-01
+titolo: "Conversione in legge, con modificazioni, del decreto-legge 1 maggio 1997, n. 115, recante disposizioni urgenti per il recepimento della direttiva 96/2/CE sulle comunicazioni mobili e personali."
+urn: urn:nir:stato:legge:1997-07-01;189
+codice_redazionale: 097G0235
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 01 luglio 1997 n. 189
-===========================
-
-Conversione in legge, con modificazioni, del decreto-legge 1 maggio 1997, n. 115, recante disposizioni urgenti per il recepimento della direttiva 96/2/CE sulle comunicazioni mobili e personali.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore della legge: 2-7-1997
-
-Art. 1
-------
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259) ))
-
-Allegato
-
- Allegato   
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 1 AGOSTO 2003, N. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259 ))

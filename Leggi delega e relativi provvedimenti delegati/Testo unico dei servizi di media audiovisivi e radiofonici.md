@@ -1,381 +1,402 @@
-DECRETO LEGISLATIVO 31 luglio 2005 n. 177
+---
+tipo: DECRETO LEGISLATIVO
+numero: 177
+data: 2005-07-31
+titolo: "((Testo unico dei servizi di media audiovisivi e radiofonici))."
+urn: urn:nir:stato:decreto.legislativo:2005-07-31;177
+codice_redazionale: 005G0206
+vigente: true
+---
 
+## PRINCIPI Capo I Principi generali
 
-DECRETO LEGISLATIVO 31 luglio 2005 n. 177
-=========================================
+Titolo I
 
-((Testo unico dei servizi di media audiovisivi e radiofonici)).
----------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del decreto: 8-9-2005
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-CAPO I Titolo I PRINCIPI Capo I Principi generali
--------------------------------------------------
+### Art. 1-bis.
 
-### Art. 1
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+### Art. 1-ter.
 
-### Art. 1-bis
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+### Art. 2.
 
-### Art. 1-ter
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+### Art. 3.
 
-### Art. 2
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+### Art. 4.
 
-### Art. 3
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+### Art. 5.
 
-### Art. 4
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+### Art. 6.
 
-### Art. 5
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+### Art. 7.
 
-### Art. 6
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+### Art. 8.
 
-### Art. 7
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+## SOGGETTI Capo I Funzioni del Ministero
 
-### Art. 8
+Titolo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+### Art. 9.
 
-CAPO II Titolo II SOGGETTI Capo I Funzioni del Ministero
---------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-### Art. 9
+## Funzioni dell'Autorita'
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+Capo II
 
-CAPO III Capo II Funzioni dell'Autorita'
-----------------------------------------
+### Art. 10.
 
-### Art. 10
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+## Altre competenze
 
-CAPO IV Capo III Altre competenze
----------------------------------
+Capo III
 
-### Art. 11
+### Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-CAPO V Capo IV Regioni
-----------------------
+## Regioni
 
-### Art. 12
+Capo IV
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+### Art. 12.
 
-### Art. 13
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+### Art. 13.
 
-### Art. 14
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+### Art. 14.
 
-CAPO VI Titolo III ATTIVITA' Capo I Disciplina di operatore di rete radiotelevisiva
------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-### Art. 15
+## ATTIVITA' Capo I Disciplina di operatore di rete radiotelevisiva
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+Titolo III
 
-CAPO VII Capo II ((Disciplina dell'emittente su frequenze terrestri))
----------------------------------------------------------------------
+### Art. 15.
 
-### Art. 16
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+## ((Disciplina dell'emittente su frequenze terrestri))
 
-### Art. 17
+Capo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+### Art. 16.
 
-### Art. 18
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+### Art. 17.
 
-### Art. 19
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+### Art. 18.
 
-CAPO VIII Capo III ((Disciplina dell'emittente via satellite e via cavo))
--------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-### Art. 20
+### Art. 19.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-### Art. 21
+## ((Disciplina dell'emittente via satellite e via cavo))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+Capo III
 
-### Art. 22
+### Art. 20.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-CAPO IX ((Capo III-bis Disciplina del fornitore di servizi di media audiovisivi a richiesta))
----------------------------------------------------------------------------------------------
+### Art. 21.
 
-### Art. 22-bis
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+### Art. 22.
 
-CAPO X Capo IV Disposizioni in materia di radiodiffusione sonora e televisiva in tecnica analogica e digitale
--------------------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-### Art. 23
+## Disciplina del fornitore di servizi di media audiovisivi a richiesta))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+((Capo III-bis
 
-### Art. 24
+### Art. 22-bis.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-### Art. 24-bis
+## Disposizioni in materia di radiodiffusione sonora e televisiva in tecnica analogica e digitale
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+Capo IV
 
-### Art. 25
+### Art. 23.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-### Art. 26
+### Art. 24.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-### Art. 27
+### Art. 24-bis.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-### Art. 28
+### Art. 25.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-### Art. 29
+### Art. 26.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-### Art. 30
+### Art. 27.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-CAPO XI Capo V ((Disciplina del fornitore di servizi interattivi associati o di servizi di accesso condizionato))
------------------------------------------------------------------------------------------------------------------
+### Art. 28.
 
-### Art. 31
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+### Art. 29.
 
-CAPO XII Titolo IV ((DISCIPLINA DEI SERVIZI DI MEDIA AUDIOVISIVI E RADIOFONICI)) Capo I ((Disposizioni applicabili a tutti i servizi di media
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+### Art. 30.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+## ((Disciplina del fornitore di servizi interattivi associati o di servizi di accesso condizionato))
+
+Capo V
+
+### Art. 31.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+## ((DISCIPLINA DEI SERVIZI DI MEDIA AUDIOVISIVI E RADIOFONICI)) Capo I ((Disposizioni applicabili a tutti i servizi di media
 audiovisivi e radiofonici - Norme a tutela dell'utenza))
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Art. 32
+Titolo IV
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+### Art. 32.
 
-### Art. 32-bis
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+### Art. 32-bis.
 
-### Art. 32-ter
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+### Art. 32-ter.
 
-### Art. 32-quater
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+### Art. 32-quater.
 
-### Art. 32-quinquies
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+### Art. 32-quinquies.
 
-### Art. 33
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+### Art. 33.
 
-CAPO XIII Capo II ((Tutela dei minori nella programmazione audiovisiva))
-------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-### Art. 34
+## ((Tutela dei minori nella programmazione audiovisiva))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+Capo II
 
-### Art. 35
+### Art. 34.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-### Art. 35-bis
+### Art. 35.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-CAPO XIV Capo III Trasmissioni transfrontaliere
------------------------------------------------
+### Art. 35-bis.
 
-### Art. 36
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+## Trasmissioni transfrontaliere
 
-### Art. 36-bis
+Capo III
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+### Art. 36.
 
-CAPO XV Capo IV ((Disposizioni sulla pubblicita', le sponsorizzazioni e l'inserimento di prodotti))
----------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-### Art. 37
+### Art. 36-bis.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-### Art. 38
+## ((Disposizioni sulla pubblicita', le sponsorizzazioni e l'inserimento di prodotti))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+Capo IV
 
-### Art. 39
+### Art. 37.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-### Art. 40
+### Art. 38.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-### Art. 40-bis
+### Art. 39.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-### Art. 41
+### Art. 40.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-CAPO XVI Titolo V USO EFFICIENTE DELLO SPETTRO ELETTROMAGNETICO E PIANIFICAZIONE DELLE FREQUENZE
-------------------------------------------------------------------------------------------------
+### Art. 40-bis.
 
-### Art. 42
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+### Art. 41.
 
-CAPO XVII Titolo VI NORME A TUTELA DELLA CONCORRENZA E DEL MERCATO
-------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-### Art. 43
+## USO EFFICIENTE DELLO SPETTRO ELETTROMAGNETICO E PIANIFICAZIONE DELLE FREQUENZE
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+Titolo V
 
-CAPO XVIII Titolo VII ((PROMOZIONE DELLE OPERE ITALIANE ED EUROPEE DA PARTE DEI FORNITORI DEI SERVIZI DI MEDIA AUDIOVISIVI))
-----------------------------------------------------------------------------------------------------------------------------
+### Art. 42.
 
-### Art. 44
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+## NORME A TUTELA DELLA CONCORRENZA E DEL MERCATO
 
-### Art. 44-bis
+Titolo VI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+### Art. 43.
 
-### Art. 44-ter
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+## ((PROMOZIONE DELLE OPERE ITALIANE ED EUROPEE DA PARTE DEI FORNITORI DEI SERVIZI DI MEDIA AUDIOVISIVI))
 
-### Art. 44-quater
+Titolo VII
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+### Art. 44.
 
-### Art. 44-quinquies
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+### Art. 44-bis.
 
-### Art. 44-sexies
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+### Art. 44-ter.
 
-### Art. 44-septies
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+### Art. 44-quater.
 
-CAPO XIX Titolo VIII SERVIZIO PUBBLICO GENERALE RADIOTELEVISIVO E DISCIPLINA DELLA CONCESSIONARIA
--------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-### Art. 45
+### Art. 44-quinquies.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-### Art. 46
+### Art. 44-sexies.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-### Art. 47
+### Art. 44-septies.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-### Art. 48
+## SERVIZIO PUBBLICO GENERALE RADIOTELEVISIVO E DISCIPLINA DELLA CONCESSIONARIA
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+Titolo VIII
 
-### Art. 49
+### Art. 45.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-### Art. 49-bis
+### Art. 46.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-### Art. 49-ter
+### Art. 47.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-### Art. 49-quater
+### Art. 48.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-CAPO XX Titolo IX COMMISSIONE PARLAMENTARE DI VIGILANZA
--------------------------------------------------------
+### Art. 49.
 
-### Art. 50
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+### Art. 49-bis.
 
-CAPO XXI Titolo X DISPOSIZIONI SANZIONATORIE E FINALI Capo I Sanzioni
----------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-### Art. 51
+### Art. 49-ter.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-### Art. 52
+### Art. 49-quater.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-CAPO XXII Capo II Disposizioni finali
--------------------------------------
+## COMMISSIONE PARLAMENTARE DI VIGILANZA
 
-### Art. 53
+Titolo IX
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+### Art. 50.
 
-### Art. 54
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+## DISPOSIZIONI SANZIONATORIE E FINALI Capo I Sanzioni
 
-### Art. 55
+Titolo X
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+### Art. 51.
 
-### Art. 56
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;208)))
+### Art. 52.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+## Disposizioni finali
+
+Capo II
+
+### Art. 53.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+### Art. 54.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+### Art. 55.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+### Art. 56.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))

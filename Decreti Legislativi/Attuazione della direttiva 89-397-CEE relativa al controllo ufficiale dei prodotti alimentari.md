@@ -1,80 +1,65 @@
-DECRETO LEGISLATIVO 03 marzo 1993 n. 123
+---
+tipo: DECRETO LEGISLATIVO
+numero: 123
+data: 1993-03-03
+titolo: "Attuazione della direttiva 89/397/CEE relativa al controllo ufficiale dei prodotti alimentari."
+urn: urn:nir:stato:decreto.legislativo:1993-03-03;123
+codice_redazionale: 093G0181
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LEGISLATIVO 03 marzo 1993 n. 123
-========================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 27))
 
-Attuazione della direttiva 89/397/CEE relativa al controllo ufficiale dei prodotti alimentari.
-----------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 12/5/1993
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 27))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;27)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 27))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;27)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 27))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;27)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 27))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;27)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 27))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;27)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 27))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;27)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 27))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;27)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 27))
 
-Art. 8
-------
+## Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;27)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 27))
 
-Art. 9
-------
+## Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;27)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 27))
 
-Art. 10
--------
+## Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;27)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 27))
 
-Art. 11
--------
+## Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;27)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 27))
 
-Art. 12
--------
+## Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;27)))
-
-Art. 13
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;27)))
-
-Art. 14
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;27)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 27))

@@ -1,192 +1,139 @@
-DECRETO-LEGGE 10 luglio 1989 n. 249
+---
+tipo: DECRETO-LEGGE
+numero: 249
+data: 1989-07-10
+titolo: "Norme in materia di reclutamento del personale della scuola."
+urn: urn:nir:stato:decreto.legge:1989-07-10;249
+codice_redazionale: 089G0318
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 10 luglio 1989 n. 249
-===================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 27 DICEMBRE 1989, N. 417](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20novembre%201989%20n.%20357%20recante%20norme%20in%20materia%20di%20reclutamento%20del%20personale%20della%20scuola.md)
 
-Norme in materia di reclutamento del personale della scuola.
-------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 11/07/1989.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 27 DICEMBRE 1989, N. 417](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20novembre%201989%20n.%20357%20recante%20norme%20in%20materia%20di%20reclutamento%20del%20personale%20della%20scuola.md)
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 27 DICEMBRE 1989, N. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-27;417)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 27 DICEMBRE 1989, N. 417](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20novembre%201989%20n.%20357%20recante%20norme%20in%20materia%20di%20reclutamento%20del%20personale%20della%20scuola.md)
 
-Art. 2
-------
+## Art. 4.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 27 DICEMBRE 1989, N. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-27;417)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 27 DICEMBRE 1989, N. 417](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20novembre%201989%20n.%20357%20recante%20norme%20in%20materia%20di%20reclutamento%20del%20personale%20della%20scuola.md)
 
-Art. 3
-------
+## Art. 5.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 27 DICEMBRE 1989, N. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-27;417)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 27 DICEMBRE 1989, N. 417](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20novembre%201989%20n.%20357%20recante%20norme%20in%20materia%20di%20reclutamento%20del%20personale%20della%20scuola.md)
 
-Art. 4
-------
+## Art. 6.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 27 DICEMBRE 1989, N. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-27;417)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 27 DICEMBRE 1989, N. 417](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20novembre%201989%20n.%20357%20recante%20norme%20in%20materia%20di%20reclutamento%20del%20personale%20della%20scuola.md)
 
-Art. 5
-------
+## Art. 7.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 27 DICEMBRE 1989, N. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-27;417)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 27 DICEMBRE 1989, N. 417](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20novembre%201989%20n.%20357%20recante%20norme%20in%20materia%20di%20reclutamento%20del%20personale%20della%20scuola.md)
 
-Art. 6
-------
+## Art. 8.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 27 DICEMBRE 1989, N. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-27;417)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 27 DICEMBRE 1989, N. 417](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20novembre%201989%20n.%20357%20recante%20norme%20in%20materia%20di%20reclutamento%20del%20personale%20della%20scuola.md)
 
-Art. 7
-------
+## Art. 9.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 27 DICEMBRE 1989, N. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-27;417)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 27 DICEMBRE 1989, N. 417](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20novembre%201989%20n.%20357%20recante%20norme%20in%20materia%20di%20reclutamento%20del%20personale%20della%20scuola.md)
 
-Art. 8
-------
+## Art. 10.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 27 DICEMBRE 1989, N. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-27;417)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 27 DICEMBRE 1989, N. 417](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20novembre%201989%20n.%20357%20recante%20norme%20in%20materia%20di%20reclutamento%20del%20personale%20della%20scuola.md)
 
-Art. 9
-------
+## Art. 11.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 27 DICEMBRE 1989, N. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-27;417)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 27 DICEMBRE 1989, N. 417](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20novembre%201989%20n.%20357%20recante%20norme%20in%20materia%20di%20reclutamento%20del%20personale%20della%20scuola.md)
 
-Art. 10
--------
+## Art. 12.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 27 DICEMBRE 1989, N. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-27;417)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 27 DICEMBRE 1989, N. 417](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20novembre%201989%20n.%20357%20recante%20norme%20in%20materia%20di%20reclutamento%20del%20personale%20della%20scuola.md)
 
-Art. 11
--------
+## Art. 13.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 27 DICEMBRE 1989, N. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-27;417)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 27 DICEMBRE 1989, N. 417](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20novembre%201989%20n.%20357%20recante%20norme%20in%20materia%20di%20reclutamento%20del%20personale%20della%20scuola.md)
 
-Art. 12
--------
+## Art. 14.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 27 DICEMBRE 1989, N. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-27;417)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 27 DICEMBRE 1989, N. 417](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20novembre%201989%20n.%20357%20recante%20norme%20in%20materia%20di%20reclutamento%20del%20personale%20della%20scuola.md)
 
-Art. 13
--------
+## Art. 15.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 27 DICEMBRE 1989, N. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-27;417)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 27 DICEMBRE 1989, N. 417](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20novembre%201989%20n.%20357%20recante%20norme%20in%20materia%20di%20reclutamento%20del%20personale%20della%20scuola.md)
 
-Art. 14
--------
+## Art. 16.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 27 DICEMBRE 1989, N. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-27;417)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 27 DICEMBRE 1989, N. 417](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20novembre%201989%20n.%20357%20recante%20norme%20in%20materia%20di%20reclutamento%20del%20personale%20della%20scuola.md)
 
-Art. 15
--------
+## Art. 17.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 27 DICEMBRE 1989, N. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-27;417)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 27 DICEMBRE 1989, N. 417](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20novembre%201989%20n.%20357%20recante%20norme%20in%20materia%20di%20reclutamento%20del%20personale%20della%20scuola.md)
 
-Art. 16
--------
+## Art. 18.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 27 DICEMBRE 1989, N. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-27;417)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 27 DICEMBRE 1989, N. 417](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20novembre%201989%20n.%20357%20recante%20norme%20in%20materia%20di%20reclutamento%20del%20personale%20della%20scuola.md)
 
-Art. 17
--------
+## Art. 19.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 27 DICEMBRE 1989, N. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-27;417)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 27 DICEMBRE 1989, N. 417](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20novembre%201989%20n.%20357%20recante%20norme%20in%20materia%20di%20reclutamento%20del%20personale%20della%20scuola.md)
 
-Art. 18
--------
+## Art. 20.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 27 DICEMBRE 1989, N. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-27;417)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 27 DICEMBRE 1989, N. 417](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20novembre%201989%20n.%20357%20recante%20norme%20in%20materia%20di%20reclutamento%20del%20personale%20della%20scuola.md)
 
-Art. 19
--------
+## Art. 21.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 27 DICEMBRE 1989, N. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-27;417)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 27 DICEMBRE 1989, N. 417](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20novembre%201989%20n.%20357%20recante%20norme%20in%20materia%20di%20reclutamento%20del%20personale%20della%20scuola.md)
 
-Art. 20
--------
+## Art. 22.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 27 DICEMBRE 1989, N. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-27;417)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 27 DICEMBRE 1989, N. 417](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20novembre%201989%20n.%20357%20recante%20norme%20in%20materia%20di%20reclutamento%20del%20personale%20della%20scuola.md)
 
-Art. 21
--------
+## Art. 23.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 27 DICEMBRE 1989, N. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-27;417)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 27 DICEMBRE 1989, N. 417](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20novembre%201989%20n.%20357%20recante%20norme%20in%20materia%20di%20reclutamento%20del%20personale%20della%20scuola.md)
 
-Art. 22
--------
+## Art. 24.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 27 DICEMBRE 1989, N. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-27;417)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 27 DICEMBRE 1989, N. 417](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20novembre%201989%20n.%20357%20recante%20norme%20in%20materia%20di%20reclutamento%20del%20personale%20della%20scuola.md)
 
-Art. 23
--------
+## Art. 25.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 27 DICEMBRE 1989, N. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-27;417)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 27 DICEMBRE 1989, N. 417](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20novembre%201989%20n.%20357%20recante%20norme%20in%20materia%20di%20reclutamento%20del%20personale%20della%20scuola.md)
 
-Art. 24
--------
+## Art. 26.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 27 DICEMBRE 1989, N. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-27;417)
-  
-
-Art. 25
--------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 27 DICEMBRE 1989, N. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-27;417)
-  
-
-Art. 26
--------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 27 DICEMBRE 1989, N. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-27;417)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 27 DICEMBRE 1989, N. 417](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20novembre%201989%20n.%20357%20recante%20norme%20in%20materia%20di%20reclutamento%20del%20personale%20della%20scuola.md)

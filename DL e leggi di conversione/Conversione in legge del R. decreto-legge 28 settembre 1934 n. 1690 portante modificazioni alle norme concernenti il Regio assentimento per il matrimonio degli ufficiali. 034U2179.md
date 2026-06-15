@@ -1,16 +1,14 @@
-LEGGE 17 dicembre 1934 n. 2179
+---
+tipo: LEGGE
+numero: 2179
+data: 1934-12-17
+titolo: "Conversione in legge del R. decreto-legge 28 settembre 1934, n. 1690, portante modificazioni alle norme concernenti il Regio assentimento per il matrimonio degli ufficiali. (034U2179)"
+urn: urn:nir:stato:legge:1934-12-17;2179
+codice_redazionale: 034U2179
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 17 dicembre 1934 n. 2179
-==============================
-
-Conversione in legge del R. decreto-legge 28 settembre 1934, n. 1690, portante modificazioni alle norme concernenti il Regio assentimento per il matrimonio degli ufficiali. (034U2179)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/01/1935
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
-CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

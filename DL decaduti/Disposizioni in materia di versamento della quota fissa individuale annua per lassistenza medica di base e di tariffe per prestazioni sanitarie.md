@@ -1,34 +1,25 @@
-DECRETO-LEGGE 17 marzo 1994 n. 180
+---
+tipo: DECRETO-LEGGE
+numero: 180
+data: 1994-03-17
+titolo: "Disposizioni in materia di versamento della quota fissa individuale annua per l'assistenza medica di base e di tariffe per prestazioni sanitarie."
+urn: urn:nir:stato:decreto.legge:1994-03-17;180
+codice_redazionale: 094G0220
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 17 marzo 1994 n. 180
-==================================
+DECRETO DECADUTO
 
-Disposizioni in materia di versamento della quota fissa individuale annua per l'assistenza medica di base e di tariffe per prestazioni sanitarie.
--------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 19-03-1994.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO   
-
-Art. 3
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 4
-------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

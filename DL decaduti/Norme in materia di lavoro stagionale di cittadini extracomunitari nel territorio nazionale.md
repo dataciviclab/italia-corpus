@@ -1,46 +1,33 @@
-DECRETO-LEGGE 22 giugno 1993 n. 200
+---
+tipo: DECRETO-LEGGE
+numero: 200
+data: 1993-06-22
+titolo: "Norme in materia di lavoro stagionale di cittadini extracomunitari nel territorio nazionale."
+urn: urn:nir:stato:decreto.legge:1993-06-22;200
+codice_redazionale: 093G0267
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 22 giugno 1993 n. 200
-===================================
+DECRETO DECADUTO
 
-Norme in materia di lavoro stagionale di cittadini extracomunitari nel territorio nazionale.
---------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 23/6/93.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO   
-
-Art. 5
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 6
-------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

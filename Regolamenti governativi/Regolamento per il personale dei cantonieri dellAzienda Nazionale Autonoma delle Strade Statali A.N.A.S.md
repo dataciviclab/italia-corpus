@@ -1,123 +1,109 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 maggio 1966 n. 866
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 866
+data: 1966-05-20
+titolo: "Regolamento per il personale dei cantonieri dell'Azienda Nazionale Autonoma delle Strade Statali (A.N.A.S.)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1966-05-20;866
+codice_redazionale: 066U0866
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 maggio 1966 n. 866
-=============================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 11 DICEMBRE 1981, N. 1126))
 
-Regolamento per il personale dei cantonieri dell'Azienda Nazionale Autonoma delle Strade Statali (A.N.A.S.).
-------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 11 DICEMBRE 1981, N. 1126))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 11 DICEMBRE 1981, N. 1126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-12-11;1126)))
+## Art. 3.
 
-Art. 2
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 11 DICEMBRE 1981, N. 1126))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 11 DICEMBRE 1981, N. 1126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-12-11;1126)))
+## Art. 4.
 
-Art. 3
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 11 DICEMBRE 1981, N. 1126))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 11 DICEMBRE 1981, N. 1126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-12-11;1126)))
+## Art. 5.
 
-Art. 4
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 11 DICEMBRE 1981, N. 1126))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 11 DICEMBRE 1981, N. 1126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-12-11;1126)))
+## Art. 6.
 
-Art. 5
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 11 DICEMBRE 1981, N. 1126))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 11 DICEMBRE 1981, N. 1126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-12-11;1126)))
+## Art. 7.
 
-Art. 6
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 11 DICEMBRE 1981, N. 1126))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 11 DICEMBRE 1981, N. 1126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-12-11;1126)))
+## Art. 8.
 
-Art. 7
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 11 DICEMBRE 1981, N. 1126))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 11 DICEMBRE 1981, N. 1126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-12-11;1126)))
+## Art. 9.
 
-Art. 8
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 11 DICEMBRE 1981, N. 1126))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 11 DICEMBRE 1981, N. 1126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-12-11;1126)))
+## Art. 10.
 
-Art. 9
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 11 DICEMBRE 1981, N. 1126))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 11 DICEMBRE 1981, N. 1126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-12-11;1126)))
+## Art. 11.
 
-Art. 10
--------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 11 DICEMBRE 1981, N. 1126))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 11 DICEMBRE 1981, N. 1126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-12-11;1126)))
+## Art. 12.
 
-Art. 11
--------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 11 DICEMBRE 1981, N. 1126))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 11 DICEMBRE 1981, N. 1126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-12-11;1126)))
+## Art. 13.
 
-Art. 12
--------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 11 DICEMBRE 1981, N. 1126))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 11 DICEMBRE 1981, N. 1126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-12-11;1126)))
+## Art. 14.
 
-Art. 13
--------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 11 DICEMBRE 1981, N. 1126))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 11 DICEMBRE 1981, N. 1126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-12-11;1126)))
+## Art. 15.
 
-Art. 14
--------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 11 DICEMBRE 1981, N. 1126))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 11 DICEMBRE 1981, N. 1126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-12-11;1126)))
+## Art. 16.
 
-Art. 15
--------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 11 DICEMBRE 1981, N. 1126))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 11 DICEMBRE 1981, N. 1126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-12-11;1126)))
+## CAPI CANTONIERI
 
-Art. 16
--------
+TITOLO II
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 11 DICEMBRE 1981, N. 1126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-12-11;1126)))
+### Art. 17.
 
-CAPO II TITOLO II CAPI CANTONIERI
----------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 11 DICEMBRE 1981, N. 1126))
 
-### Art. 17
+### Art. 18.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 11 DICEMBRE 1981, N. 1126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-12-11;1126)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 11 DICEMBRE 1981, N. 1126))
 
-### Art. 18
+### Art. 19.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 11 DICEMBRE 1981, N. 1126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-12-11;1126)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 11 DICEMBRE 1981, N. 1126))
 
-### Art. 19
+### Art. 20.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 11 DICEMBRE 1981, N. 1126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-12-11;1126)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 11 DICEMBRE 1981, N. 1126))
 
-### Art. 20
+### Art. 21.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 11 DICEMBRE 1981, N. 1126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-12-11;1126)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 11 DICEMBRE 1981, N. 1126))
 
-### Art. 21
+### Art. 22.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 11 DICEMBRE 1981, N. 1126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-12-11;1126)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 11 DICEMBRE 1981, N. 1126))
 
-### Art. 22
+### Art. 23.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 11 DICEMBRE 1981, N. 1126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-12-11;1126)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 11 DICEMBRE 1981, N. 1126))
 
-### Art. 23
+### Art. 24.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 11 DICEMBRE 1981, N. 1126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-12-11;1126)))
-
-### Art. 24
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 11 DICEMBRE 1981, N. 1126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-12-11;1126)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 11 DICEMBRE 1981, N. 1126))

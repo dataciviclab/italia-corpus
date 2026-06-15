@@ -1,20 +1,18 @@
-DECRETO 13 luglio 2016 n. 156
-
-
-DECRETO 13 luglio 2016 n. 156
-=============================
-
-Regolamento che stabilisce la disciplina per il funzionamento e la convocazione dell'assemblea dell'ordine circondariale forense, ai sensi dell'articolo 27, comma 3, della legge 31 dicembre 2012, n. 247. (16G00167)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/08/2016
+---
+tipo: DECRETO
+numero: 156
+data: 2016-07-13
+titolo: "Regolamento che stabilisce la disciplina per il funzionamento e la convocazione dell'assemblea dell'ordine circondariale forense, ai sensi dell'articolo 27, comma 3, della legge 31 dicembre 2012, n. 247. (16G00167)"
+urn: urn:nir:ministero.giustizia:decreto:2016-07-13;156
+codice_redazionale: 16G00167
+vigente: true
+---
 
 IL MINISTRO DELLA GIUSTIZIA
----------------------------
 
-Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3);
+Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-Vista la [legge 31 dicembre 2012, n. 247](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-31;247), ed in particolare gli articoli 1, comma 3, e 27, comma 3;
+Vista la [legge 31 dicembre 2012, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-31;247), ed in particolare gli articoli 1, comma 3, e 27, comma 3;
 
 Acquisito il parere del Consiglio nazionale forense, espresso il 17 luglio 2015;
 
@@ -24,116 +22,120 @@ Acquisiti i pareri delle commissioni parlamentari;
 
 Vista la comunicazione al Presidente del Consiglio dei ministri effettuata con nota del 22 giugno 2016;
 
-Adotta
-------
+Adotta il seguente regolamento:
 
-il seguente regolamento:
+## Art. 1. — Oggetto del regolamento
 
-Art. 1
-------
+1.
 
-Oggetto del regolamento
+Il presente regolamento stabilisce le regole per il funzionamento dell'assemblea di cui all'[articolo 27 della legge 31 dicembre 2012, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-31;247#art_27), e per la sua convocazione, nonche' per l'assunzione delle relative delibere.
 
-1. Il presente regolamento stabilisce le regole per il funzionamento dell'assemblea di cui all'[articolo 27 della legge 31 dicembre 2012, n. 247](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-31;247~art27), e per la sua convocazione, nonche' per l'assunzione delle relative delibere.
+Avvertenza: 
+ 
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ 
+ Note alle premesse: 
+ 
+ - Si riporta il testo dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri): 
+ «Art. 17 (Regolamenti). - 1.-2. (Omissis). 
+ 3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.
+ I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei ministri prima della loro emanazione. 
+ (Omissis).». 
+ - Si riporta il testo degli articoli 1, comma 3, e 27 della [legge 31 dicembre 2012, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-31;247) (Nuova disciplina dell'ordinamento della professione forense): 
+ «Art. 1 (Disciplina dell'ordinamento forense). - 1.-2. (Omissis). 
+ 3. All'attuazione della presente legge si provvede mediante regolamenti adottati con decreto del Ministro della giustizia, ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), entro due anni dalla data della sua entrata in vigore, previo parere del Consiglio nazionale forense (CNF) e, per le sole materie di interesse di questa, della Cassa nazionale di previdenza e assistenza forense. Il CNF esprime i suddetti pareri entro novanta giorni dalla richiesta, sentiti i consigli dell'ordine territoriali e le associazioni forensi che siano costituite da almeno cinque anni e che siano state individuate come maggiormente rappresentative dal CNF. Gli schemi dei regolamenti sono trasmessi alle Camere, ciascuno corredato di relazione tecnica, che evidenzi gli effetti delle disposizioni recate, e dei pareri di cui al primo periodo, ove gli stessi risultino essere stati tempestivamente comunicati, perche' su di essi sia espresso, nel termine di sessanta giorni dalla richiesta, il parere delle commissioni parlamentari competenti. 
+ (Omissis).». 
+ «Art. 27 (L'assemblea). - 1. L'assemblea e' costituita dagli avvocati iscritti all'albo ed agli elenchi speciali.
+ Essa elegge i componenti del consiglio; approva il bilancio consuntivo e quello preventivo; esprime il parere sugli argomenti sottoposti ad essa dal consiglio; esercita ogni altra funzione attribuita dall'ordinamento professionale. 
+ 2. L'assemblea, previa delibera del consiglio, e' convocata dal presidente o, in caso di suo impedimento, dal vicepresidente o dal consigliere piu' anziano per iscrizione. 
+ 3. Le regole per il funzionamento dell'assemblea e per la sua convocazione, nonche' per l'assunzione delle relative delibere, sono stabilite da apposito regolamento adottato ai sensi dell'art. 1 e con le modalita' nello stesso stabilite. 
+ 4. L'assemblea ordinaria e' convocata almeno una volta l'anno per l'approvazione dei bilanci consuntivo e preventivo. L'assemblea per la elezione del consiglio si svolge, per il rinnovo normale, entro il mese di gennaio successivo alla scadenza. 
+ 5. Il consiglio delibera altresi' la convocazione dell'assemblea ogniqualvolta lo ritenga necessario o qualora ne faccia richiesta almeno un terzo dei suoi componenti o almeno un decimo degli iscritti nell'albo.».
 
-Avvertenza:   
-  
-Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.   
-  
-Note alle premesse:   
-  
-- Si riporta il testo dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri):   
-«Art. 17 (Regolamenti). - 1.-2. (Omissis).   
-3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.  
-I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei ministri prima della loro emanazione.   
-(Omissis).».   
-- Si riporta il testo degli articoli 1, comma 3, e 27 della [legge 31 dicembre 2012, n. 247](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-31;247) (Nuova disciplina dell'ordinamento della professione forense):   
-«Art. 1 (Disciplina dell'ordinamento forense). - 1.-2. (Omissis).   
-3. All'attuazione della presente legge si provvede mediante regolamenti adottati con decreto del Ministro della giustizia, ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3), entro due anni dalla data della sua entrata in vigore, previo parere del Consiglio nazionale forense (CNF) e, per le sole materie di interesse di questa, della Cassa nazionale di previdenza e assistenza forense. Il CNF esprime i suddetti pareri entro novanta giorni dalla richiesta, sentiti i consigli dell'ordine territoriali e le associazioni forensi che siano costituite da almeno cinque anni e che siano state individuate come maggiormente rappresentative dal CNF. Gli schemi dei regolamenti sono trasmessi alle Camere, ciascuno corredato di relazione tecnica, che evidenzi gli effetti delle disposizioni recate, e dei pareri di cui al primo periodo, ove gli stessi risultino essere stati tempestivamente comunicati, perche' su di essi sia espresso, nel termine di sessanta giorni dalla richiesta, il parere delle commissioni parlamentari competenti.   
-(Omissis).».   
-«Art. 27 (L'assemblea). - 1. L'assemblea e' costituita dagli avvocati iscritti all'albo ed agli elenchi speciali.  
-Essa elegge i componenti del consiglio; approva il bilancio consuntivo e quello preventivo; esprime il parere sugli argomenti sottoposti ad essa dal consiglio; esercita ogni altra funzione attribuita dall'ordinamento professionale.   
-2. L'assemblea, previa delibera del consiglio, e' convocata dal presidente o, in caso di suo impedimento, dal vicepresidente o dal consigliere piu' anziano per iscrizione.   
-3. Le regole per il funzionamento dell'assemblea e per la sua convocazione, nonche' per l'assunzione delle relative delibere, sono stabilite da apposito regolamento adottato ai sensi dell'art. 1 e con le modalita' nello stesso stabilite.   
-4. L'assemblea ordinaria e' convocata almeno una volta l'anno per l'approvazione dei bilanci consuntivo e preventivo. L'assemblea per la elezione del consiglio si svolge, per il rinnovo normale, entro il mese di gennaio successivo alla scadenza.   
-5. Il consiglio delibera altresi' la convocazione dell'assemblea ogniqualvolta lo ritenga necessario o qualora ne faccia richiesta almeno un terzo dei suoi componenti o almeno un decimo degli iscritti nell'albo.».
+## Art. 2. — Convocazione dell'assemblea
 
-Art. 2
-------
+1.
 
-Convocazione dell'assemblea
+L'assemblea e' convocata mediante avviso spedito agli iscritti almeno dieci giorni prima della data stabilita, mediante posta elettronica certificata o attraverso qualsiasi altro mezzo idoneo a comprovarne l'avvenuta spedizione. Nello stesso termine l'avviso e' affisso in modo visibile nella sede del consiglio dell'ordine e pubblicato sul suo sito internet istituzionale.
 
-1. L'assemblea e' convocata mediante avviso spedito agli iscritti almeno dieci giorni prima della data stabilita, mediante posta elettronica certificata o attraverso qualsiasi altro mezzo idoneo a comprovarne l'avvenuta spedizione. Nello stesso termine l'avviso e' affisso in modo visibile nella sede del consiglio dell'ordine e pubblicato sul suo sito internet istituzionale.
+2.
 
-2. Il termine di cui al comma 1 puo' essere ridotto in caso di comprovati motivi di urgenza e indifferibilita' della convocazione.
+Il termine di cui al comma 1 puo' essere ridotto in caso di comprovati motivi di urgenza e indifferibilita' della convocazione.
 
-3. L'avviso deve contenere l'indicazione del giorno, dell'ora e del luogo dell'adunanza in prima convocazione nonche' della eventuale seconda convocazione, e l'elenco degli argomenti da trattare.
+3.
 
-Art. 3
-------
+L'avviso deve contenere l'indicazione del giorno, dell'ora e del luogo dell'adunanza in prima convocazione nonche' della eventuale seconda convocazione, e l'elenco degli argomenti da trattare.
 
-Funzionamento dell'assemblea
+## Art. 3. — Funzionamento dell'assemblea
 
-1. L'assemblea e' regolarmente costituita, in prima convocazione, con la presenza di almeno la meta' degli iscritti. Nella seconda convocazione, che non puo' aver luogo nello stesso giorno fissato per la prima, l'assemblea delibera sul medesimo oggetto qualunque sia il numero degli intervenuti.
+1.
 
-2. Il presidente e il segretario del consiglio dell'ordine sono, rispettivamente, il presidente e il segretario dell'assemblea degli iscritti.
+L'assemblea e' regolarmente costituita, in prima convocazione, con la presenza di almeno la meta' degli iscritti. Nella seconda convocazione, che non puo' aver luogo nello stesso giorno fissato per la prima, l'assemblea delibera sul medesimo oggetto qualunque sia il numero degli intervenuti.
 
-3. L'assemblea delibera a maggioranza degli intervenuti aventi diritto al voto.
+2.
 
-4. Il voto non puo' essere espresso per delega.
+Il presidente e il segretario del consiglio dell'ordine sono, rispettivamente, il presidente e il segretario dell'assemblea degli iscritti.
 
-Art. 4
-------
+3.
 
-Assemblea per l'approvazione del conto consuntivo e del bilancio preventivo
+L'assemblea delibera a maggioranza degli intervenuti aventi diritto al voto.
 
-1. Entro il 30 aprile di ogni anno e' convocata l'assemblea ordinaria ai fini dell'approvazione del conto consuntivo dell'anno precedente e del bilancio preventivo accompagnato dalla relazione del collegio dei revisori o del revisore unico.
+4.
 
-2. Per il funzionamento dell'assemblea, convocata ai sensi del presente articolo, si applicano le disposizioni di cui all'articolo 3 .
+Il voto non puo' essere espresso per delega.
 
-Art. 5
-------
+## Art. 4. — Assemblea per l'approvazione del conto consuntivo e del bilancio preventivo
 
-Assemblea per l'elezione del consiglio dell'ordine
+1.
 
-1. L'assemblea per l'elezione dei componenti del consiglio dell'ordine circondariale e' convocata con le modalita' ed entro il termine stabiliti dalle norme che disciplinano le modalita' di elezione dei componenti dei consigli degli ordini circondariali forensi.
+Entro il 30 aprile di ogni anno e' convocata l'assemblea ordinaria ai fini dell'approvazione del conto consuntivo dell'anno precedente e del bilancio preventivo accompagnato dalla relazione del collegio dei revisori o del revisore unico.
 
-2. L'assemblea si intende convocata con il provvedimento di indizione delle elezioni da parte del presidente del Consiglio dell'ordine nei giorni individuati dal Consiglio stesso per lo svolgimento delle operazioni elettorali stabiliti in conformita' alle norme che disciplinano le modalita' di elezione dei componenti dei consigli degli ordini circondariali forensi.
+2.
 
-Art. 6
-------
+Per il funzionamento dell'assemblea, convocata ai sensi del presente articolo, si applicano le disposizioni di cui all'articolo 3 .
 
-Convocazione dell'assemblea su richiesta
+## Art. 5. — Assemblea per l'elezione del consiglio dell'ordine
 
-1. L'assemblea e' convocata, nel rispetto del termine di cui all'articolo 2, commi 1 e 2, quando ne fa richiesta almeno un terzo dei componenti il consiglio dell'ordine, ovvero un decimo degli iscritti all'albo. Le firme dei richiedenti sono autenticate dal presidente del consiglio dell'ordine o da consiglieri da lui delegati. Nella domanda, presentata in forma scritta, sono indicati gli argomenti da trattare.
+1.
 
-2. Quando il presidente del consiglio non provvede, l'assemblea e' convocata dal vicepresidente o dal consigliere piu' anziano per iscrizione.
+L'assemblea per l'elezione dei componenti del consiglio dell'ordine circondariale e' convocata con le modalita' ed entro il termine stabiliti dalle norme che disciplinano le modalita' di elezione dei componenti dei consigli degli ordini circondariali forensi.
 
-3. Gli argomenti per i quali puo' essere richiesta la convocazione devono avere per oggetto l'attivita' del consiglio stesso ovvero ogni altro argomento ritenuto di interesse, gravita' ed urgenza per il circondario.
+2.
 
-4. Per il funzionamento dell'assemblea, convocata a norma del presente articolo, si applicano le disposizioni di cui all'articolo 3.
+L'assemblea si intende convocata con il provvedimento di indizione delle elezioni da parte del presidente del Consiglio dell'ordine nei giorni individuati dal Consiglio stesso per lo svolgimento delle operazioni elettorali stabiliti in conformita' alle norme che disciplinano le modalita' di elezione dei componenti dei consigli degli ordini circondariali forensi.
 
-Art. 7
-------
+## Art. 6. — Convocazione dell'assemblea su richiesta
 
-Clausola di invarianza finanziaria
+1.
 
-1. Dalle disposizioni del presente decreto non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
+L'assemblea e' convocata, nel rispetto del termine di cui all'articolo 2, commi 1 e 2, quando ne fa richiesta almeno un terzo dei componenti il consiglio dell'ordine, ovvero un decimo degli iscritti all'albo. Le firme dei richiedenti sono autenticate dal presidente del consiglio dell'ordine o da consiglieri da lui delegati. Nella domanda, presentata in forma scritta, sono indicati gli argomenti da trattare.
 
-Art. 8
-------
+2.
 
-Entrata in vigore
+Quando il presidente del consiglio non provvede, l'assemblea e' convocata dal vicepresidente o dal consigliere piu' anziano per iscrizione.
 
-1. Il presente regolamento entra in vigore il giorno successivo alla data di pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
+3.
+
+Gli argomenti per i quali puo' essere richiesta la convocazione devono avere per oggetto l'attivita' del consiglio stesso ovvero ogni altro argomento ritenuto di interesse, gravita' ed urgenza per il circondario.
+
+4.
+
+Per il funzionamento dell'assemblea, convocata a norma del presente articolo, si applicano le disposizioni di cui all'articolo 3.
+
+## Art. 7. — Clausola di invarianza finanziaria
+
+1.
+
+Dalle disposizioni del presente decreto non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
+
+## Art. 8. — Entrata in vigore
+
+1.
+
+Il presente regolamento entra in vigore il giorno successivo alla data di pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 13 luglio 2016
+Roma, 13 luglio 2016
 
-Il Ministro della giustizia: Orlando
-
-Visto, il Guardasigilli: Orlando Registrato alla Corte dei conti il 1° agosto 2016
-
-Ufficio controllo atti P.C.M. Ministeri giustizia e affari esteri, reg.ne prev. n. 2110
+Il Ministro della giustizia: Orlando Visto, il Guardasigilli: Orlando Registrato alla Corte dei conti il 1° agosto 2016 Ufficio controllo atti P.C.M. Ministeri giustizia e affari esteri, reg.ne prev. n. 2110
