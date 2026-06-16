@@ -34,7 +34,7 @@ Vista la [direttiva 70/458/CEE del 29 settembre 1970](https://www.normattiva.it/
 
 Vista la [legge 25 novembre 1971, n. 1096](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-11-25;1096), e successive modificazioni;
 
-Visto il [decreto del Presidente della Repubblica 8 ottobre 1973, n. 1065](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20della%20legge%2025%20novembre%201971%20n.%201096%20concernente%20la%20disciplina%20della%20produzione%20e%20del%20commercio%20delle%20sementi.md), e successive modificazioni;
+Visto il [decreto del Presidente della Repubblica 8 ottobre 1973, n. 1065](../DPR/Regolamento%20di%20esecuzione%20della%20legge%2025%20novembre%201971%20n.%201096%20concernente%20la%20disciplina%20della%20produzione%20e%20del%20commercio%20delle%20sementi.md), e successive modificazioni;
 
 Vista la [legge 20 aprile 1976, n. 195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-20;195), e successive modificazioni;
 
@@ -74,7 +74,7 @@ La Commissione di cui al comma 3:
                         c)
                             accerta che sia stata verificata l'assenza di rischi di cui all'[articolo 20-bis, comma 1, lettera b), della legge n. 1096 del 1971](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971;1096#art_20bis-com1-letb), come aggiunto dall'articolo 9 del presente decreto, d'intesa con le regioni interessate ai sistemi agrari soggetti alla verifica stessa;
                         d)
-                            esprime parere vincolante alla commissione di cui al [quinto comma dell'articolo 19 della legge n. 1096 del 1971](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971;1096#art_19-com5), sulla richiesta di iscrizione di varieta' di sementi geneticamente modificate nell'apposita sezione del registro delle varieta' di cui all'articolo 17 del regolamento di cui al [decreto del Presidente della Repubblica 8 ottobre 1973, n. 1065](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20della%20legge%2025%20novembre%201971%20n.%201096%20concernente%20la%20disciplina%20della%20produzione%20e%20del%20commercio%20delle%20sementi.md);
+                            esprime parere vincolante alla commissione di cui al [quinto comma dell'articolo 19 della legge n. 1096 del 1971](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971;1096#art_19-com5), sulla richiesta di iscrizione di varieta' di sementi geneticamente modificate nell'apposita sezione del registro delle varieta' di cui all'articolo 17 del regolamento di cui al [decreto del Presidente della Repubblica 8 ottobre 1973, n. 1065](../DPR/Regolamento%20di%20esecuzione%20della%20legge%2025%20novembre%201971%20n.%201096%20concernente%20la%20disciplina%20della%20produzione%20e%20del%20commercio%20delle%20sementi.md);
                         e)
                             individua i criteri in base ai quali e' effettuato il monitoraggio dei prodotti sementieri di varieta' geneticamente modificate, compresa la definizione dei criteri da adottare per la verifica della presenza fortuita di sementi geneticamente modificate in lotti di prodotti sementieri convenzionali.
 

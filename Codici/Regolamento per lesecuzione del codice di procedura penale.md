@@ -31,7 +31,7 @@ I compiti che il codice, le norme di attuazione e il presente regolamento attrib
 Il dirigente dell'ufficio di cancelleria o di segreteria, con ordine di servizio, ripartisce i compiti fra il personale, in modo da assicurare la continuita' ed efficienza del servizio.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - L'art. 206 delle norme di attuazione, di coordinamento e transitorie del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), allegate al [D.Lgs. n. 271/1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989;271), e' cosi' formulato:
@@ -179,7 +179,7 @@ Nota all'art. 10:
 
 1.
 
-Se le cose sequestrate sono oggetti preziosi, monete, carte di pubblico credito indicate nell'[art. 458 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o altri titoli al portatore, si provvede, appena pervengono nella cancelleria o nella segreteria, alla loro verificazione, osservate le disposizioni dell'art. 261 del codice. Allo stesso modo si procede per ogni altra cosa sequestrata quando i sigilli appaiono rotti o alterati. Delle operazioni e' compilato verbale che viene unito agli atti.
+Se le cose sequestrate sono oggetti preziosi, monete, carte di pubblico credito indicate nell'[art. 458 del codice penale](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o altri titoli al portatore, si provvede, appena pervengono nella cancelleria o nella segreteria, alla loro verificazione, osservate le disposizioni dell'art. 261 del codice. Allo stesso modo si procede per ogni altra cosa sequestrata quando i sigilli appaiono rotti o alterati. Delle operazioni e' compilato verbale che viene unito agli atti.
 
 2.
 

@@ -34,7 +34,7 @@ Nei bilanci del Fondo massa del Corpo della guardia di finanza, dell'Azienda naz
 
 ## Art. 4.
 
-All'elenco n. 4, allegato allo stato di previsione della spesa del Ministero del tesoro, per l'esercizio finanziario 1947-48, concernente i capitoli per i quali e' concessa al Ministero del tesoro, la facolta' di cui all'art. 41, 2° comma, del [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md); sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato e' aggiunto il capitolo n. 319-bis:
+All'elenco n. 4, allegato allo stato di previsione della spesa del Ministero del tesoro, per l'esercizio finanziario 1947-48, concernente i capitoli per i quali e' concessa al Ministero del tesoro, la facolta' di cui all'art. 41, 2° comma, del [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440); sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato e' aggiunto il capitolo n. 319-bis:
  "Somma corrispondente al quaranta per cento delle spese pecuniarie inflitte per infrazioni valutarie, ecc. dello stato di previsione della spesa del Ministero del tesoro, per il corrente esercizio finanziario.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.

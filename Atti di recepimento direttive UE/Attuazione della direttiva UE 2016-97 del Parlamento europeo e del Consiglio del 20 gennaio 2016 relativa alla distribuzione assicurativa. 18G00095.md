@@ -435,7 +435,7 @@ Fatti salvi gli articoli 120, commi 1 e 2, e 120-bis, commi 1 e 2, gli intermedi
  «Art. 187 (Integrazione del documento informativo precontrattuale aggiuntivo). - 1. Fatto salvo quanto previsto dal Testo Unico della Finanza e dalle relative disposizioni di attuazione in materia di informativa precontrattuale, l'IVASS, ferme restando le disposizioni del presente capo, puo' chiedere all'impresa di apportare modifiche al documento informativo precontrattuale aggiuntivo utilizzato, quando occorre fornire informazioni ulteriori e necessarie per la protezione degli assicurati.». 
  34. Dopo l'[articolo 187-bis del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente capo: 
  «Capo II bis - Controversie 
- Art. 187-ter (Sistemi di risoluzione stragiudiziale delle controversie). - 1. Fermo restando quanto previsto dall'[articolo 32-ter del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), i soggetti di cui all'articolo 6, commi 1, lettere a) e d) nonche' gli intermediari assicurativi a titolo accessorio, aderiscono ai sistemi di risoluzione stragiudiziale delle controversie con la clientela relative alle prestazioni e ai servizi assicurativi derivanti da tutti i contratti di assicurazione, senza alcuna esclusione. 
+ Art. 187-ter (Sistemi di risoluzione stragiudiziale delle controversie). - 1. Fermo restando quanto previsto dall'[articolo 32-ter del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), i soggetti di cui all'articolo 6, commi 1, lettere a) e d) nonche' gli intermediari assicurativi a titolo accessorio, aderiscono ai sistemi di risoluzione stragiudiziale delle controversie con la clientela relative alle prestazioni e ai servizi assicurativi derivanti da tutti i contratti di assicurazione, senza alcuna esclusione. 
  2. Con decreto del Ministro dello sviluppo economico, di concerto con il Ministro della giustizia, su proposta dell'IVASS, sono determinati, nel rispetto dei principi, delle procedure e dei requisiti di cui alla parte V, titolo 2-bis del [decreto legislativo 6 settembre 2005, n. 206](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), i criteri di svolgimento delle procedure di risoluzione delle controversie di cui al comma 1, i criteri di composizione dell'organo decidente, in modo che risulti assicurata l'imparzialita' dello stesso e la rappresentativita' dei soggetti interessati, nonche' la natura delle controversie, relative alle prestazioni e ai servizi assicurativi derivanti da un contratto di assicurazione, trattate dai sistemi di cui al presente articolo. Le procedure devono in ogni caso assicurare la rapidita', l'economicita' e l'effettivita' della tutela. 
  3. Fermo restando quanto previsto dall'[articolo 5, comma 1-bis, del decreto legislativo 4 marzo 2010, n. 28](../Decreti%20Legislativi/Attuazione%20dellarticolo%2060%20della%20legge%2018%20giugno%202009%20n.%2069%20in%20materia%20di%20mediazione%20finalizzata%20alla%20conciliazione%20delle%20controversie%20civili%20e%20commerciali.%2010G0050.md), le disposizioni di cui ai commi da 1 a 3 non pregiudicano il ricorso ad ogni altro strumento di tutela previsto dall'ordinamento.». 
  4. Alla copertura delle relative spese di funzionamento, si provvede, senza nuovi o maggiori oneri per la finanza pubblica, con le risorse di cui agli articoli 335 e 336 del presente Codice. 
@@ -636,7 +636,7 @@ Se non ritiene provata la violazione, il Collegio di garanzia puo' proporre l'ar
 N O T E 
  
  Avvertenza: 
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle comunita' europee (GUUE). 
  Note alle premesse: 
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) stabilisce che l'esercizio della funzione legislativa non puo' essere delegato al governo se non con determinazione di principi e criteri direttivi e soltanto per un tempo limitato e per oggetti definiti. 
@@ -790,7 +790,7 @@ N O T E
  iii.1) vendita a distanza: qualunque modalita' di vendita che, senza la presenza fisica e simultanea del distributore e del contraente, possa essere impiegata per il collocamento a distanza di contratti assicurativi e riassicurativi; 
  iii-bis) tecniche di mitigazione del rischio: le tecniche che consentono all'impresa di assicurazione o di riassicurazione di trasferire una parte o la totalita' dei rischi ad un terzo; 
  lll) testo unico bancario: il [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), e successive modificazioni; 
- mmm) testo unico dell'intermediazione finanziaria: il [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e successive modificazioni; 
+ mmm) testo unico dell'intermediazione finanziaria: il [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e successive modificazioni; 
  nnn) testo unico in materia di assicurazioni sugli infortuni sul lavoro e le malattie professionali: ildecreto legislativo 23 febbraio 2000, n. 38, e successive modificazioni; 
  ooo) Ufficio centrale italiano: l'ente costituito dalle imprese di assicurazione autorizzate ad esercitare il ramo responsabilita' civile autoveicoli che e' stato abilitato all'esercizio delle funzioni di Ufficio nazionale di assicurazione nel territorio della Repubblica ed allo svolgimento degli altri compiti previsti dall'ordinamento comunitario e italiano; 
  ppp) Ufficio nazionale di assicurazione: l'organizzazione professionale che e' costituita, conformemente alla raccomandazione n. 5 adottata il 25 gennaio 1949 dal sottocomitato dei trasporti stradali del comitato dei trasporti interni della Commissione economica per l'Europa dell'Organizzazione delle Nazioni Unite, e che raggruppa imprese di assicurazione che hanno ottenuto in uno Stato l'autorizzazione ad esercitare il ramo responsabilita' civile autoveicoli; 
@@ -827,7 +827,7 @@ N O T E
  a) gli agenti di assicurazione, in qualita' di intermediari che agiscono in nome o per conto di una o piu' imprese di assicurazione o di riassicurazione; 
  b) i mediatori di assicurazione o di riassicurazione, altresi' denominati broker, in qualita' di intermediari che agiscono su incarico del cliente e senza poteri di rappresentanza di imprese di assicurazione o di riassicurazione; 
  c) i produttori diretti che, anche in via sussidiaria rispetto all'attivita' svolta a titolo principale, esercitano l'intermediazione assicurativa nei rami vita e nei rami infortuni e malattia per conto e sotto la piena responsabilita' di un'impresa di assicurazione e che operano senza obblighi di orario o di risultato esclusivamente per l'impresa medesima; 
- d) le banche autorizzate ai sensi dell'articolo 14 del testo unico bancario, gli intermediari finanziari inseriti nell'elenco speciale di cui all'articolo 106 e 114-septies del testo unico bancario, le societa' di intermediazione mobiliare autorizzate ai sensi dell'articolo 19 del testo unico dell'intermediazione finanziaria, la societa' Poste Italiane - Divisione servizi di bancoposta, autorizzata ai sensi dell'[articolo 2 del decreto del Presidente della Repubblica 14 marzo 2001, n. 144](../Regolamenti%20governativi/Regolamento%20recante%20norme%20sui%20servizi%20di%20bancoposta.md); 
+ d) le banche autorizzate ai sensi dell'articolo 14 del testo unico bancario, gli intermediari finanziari inseriti nell'elenco speciale di cui all'articolo 106 e 114-septies del testo unico bancario, le societa' di intermediazione mobiliare autorizzate ai sensi dell'articolo 19 del testo unico dell'intermediazione finanziaria, la societa' Poste Italiane - Divisione servizi di bancoposta, autorizzata ai sensi dell'[articolo 2 del decreto del Presidente della Repubblica 14 marzo 2001, n. 144](../DPR/Regolamento%20recante%20norme%20sui%20servizi%20di%20bancoposta.md); 
  e) i soggetti addetti all'intermediazione, quali i dipendenti, i collaboratori, i produttori e gli altri incaricati degli intermediari iscritti alle sezioni di cui alle lettere a), b) e d) per l'attivita' di intermediazione svolta al di fuori dei locali dove l'intermediario opera; 
  f) gli intermediari assicurativi a titolo accessorio, come definiti dall'articolo 1, comma 1, lettera cc-septies). 
  Non e' consentita la contemporanea iscrizione dello stesso intermediario in piu' sezioni del registro. 
@@ -1000,7 +1000,7 @@ N O T E
  2. Chiunque esercita l'attivita' di intermediazione assicurativa o riassicurativa in difetto di iscrizione al registro di cui all'articolo 10 9e' punito con la reclusione da sei mesi a due anni e con la multa da euro diecimila a euro centomila. 
  3. Se vi e' fondato sospetto che una societa' svolga attivita' assicurativa o riassicurativa in violazione del comma 1 o di intermediazione assicurativa o riassicurativa in violazione del comma 2, l'IVASS richiede al tribunale l'adozione dei provvedimenti previsti dall'articolo 2409 del codice civileovvero allo stesso fine denunzia i fatti al pubblico ministero. 
  4. (abrogato). 
- 5. L'esercizio dell'attivita' di perito di assicurazione in difetto di iscrizione al ruolo previsto dall'articolo 156e' punito a normadell'[articolo 348 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).". 
+ 5. L'esercizio dell'attivita' di perito di assicurazione in difetto di iscrizione al ruolo previsto dall'articolo 156e' punito a normadell'[articolo 348 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).". 
  Si riporta il testo dell'[articolo 306 del codice delle assicurazioni private](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), di cui al [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto legislativo: 
  "Art. 306. Impedimenti all'esercizio delle funzioni di vigilanza 
  1. Fuori dai casi previsti dall'[articolo 2638 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2638), chiunque ostacola le funzioni di vigilanza con il rifiuto dell'accesso ai locali o con il diniego all'ordine di esibizione della documentazione concernente l'attivita' assicurativa o riassicurativa o di intermediazione assicurativa o riassicurativa, che viene opposto ai funzionari dell'IVASS incaricati di accertare i fatti che possono configurare una violazione dell'articolo 305, e' punito con la reclusione fino a due anni e la multa da euro diecimila ad euro centomila. 
@@ -1060,7 +1060,7 @@ N O T E
 
 1.
 
-All'[articolo 1 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 1 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             la lettera w-bis) e' sostituita dalla seguente: «w-bis) soggetti abilitati alla distribuzione assicurativa: gli intermediari assicurativi iscritti nella sezione d) del registro unico degli intermediari assicurativi di cui all'[articolo 109 del decreto legislativo n. 209 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;209#art_109), i soggetti dell'Unione europea iscritti nell'elenco annesso di cui all'[articolo 116-quinquies, comma 5, del decreto legislativo n. 209 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;209#art_116quinquies-com5), quali le banche, le societa' di intermediazione mobiliare e le imprese di investimento, anche quando operano con i collaboratori di cui alla sezione E del registro unico degli intermediari assicurativi di cui all'[articolo 109 del decreto legislativo n. 209 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;209#art_109);»;
                         b)
@@ -1068,7 +1068,7 @@ All'[articolo 1 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unic
 
 2.
 
-All'[articolo 4-sexies del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 4-sexies del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 2, lettera b), le parole: «gli intermediari assicurativi», sono sostituite dalle seguenti: «i soggetti»;
                         b)
@@ -1080,7 +1080,7 @@ All'[articolo 4-sexies del decreto legislativo 24 febbraio 1998, n. 58](../Testi
 
 3.
 
-All'[articolo 4-septies del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 4-septies del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, le parole «, dall'articolo 10,», sono sostituite dalle seguenti: «e dall'articolo 10,»; le parole «dall'articolo 13, paragrafi 1, 3 e 4, e dagli articoli 14 e 19» sono soppresse, e le parole «o l'IVASS, secondo le rispettive competenze definite ai sensi dell'articolo 4-sexies, possono,», sono sostituite dalle seguenti: «puo',»;
                         b)
@@ -1090,7 +1090,7 @@ All'[articolo 4-septies del decreto legislativo 24 febbraio 1998, n. 58](../Test
 
 4.
 
-All'[articolo 4-undecies del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 4-undecies del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, le parole: «e le imprese di assicurazione» sono soppresse;
                         b)
@@ -1098,11 +1098,11 @@ All'[articolo 4-undecies del decreto legislativo 24 febbraio 1998, n. 58](../Tes
 
 5.
 
-All'[articolo 4-terdecies, comma 1, lettera a), del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), le parole: «, ad eccezione dell'articolo 25-ter» sono soppresse.
+All'[articolo 4-terdecies, comma 1, lettera a), del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), le parole: «, ad eccezione dell'articolo 25-ter» sono soppresse.
 
 6.
 
-All'[articolo 25-ter del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 25-ter del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             la rubrica e' sostituita dalla seguente: «Prodotti di investimento assicurativo»;
                         b)
@@ -1117,7 +1117,7 @@ All'[articolo 25-ter del decreto legislativo 24 febbraio 1998, n. 58](../Testi%2
 
 7.
 
-All'[articolo 30, comma 9, del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), le parole «e, limitatamente ai soggetti abilitati, ai prodotti finanziari emessi da imprese di assicurazione», sono soppresse.
+All'[articolo 30, comma 9, del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), le parole «e, limitatamente ai soggetti abilitati, ai prodotti finanziari emessi da imprese di assicurazione», sono soppresse.
 
 8.
 
@@ -1125,7 +1125,7 @@ All'articolo 117-ter, comma 1, del decreto legislativo 24 febbraio 1998, 58, le 
 
 9.
 
-All'[articolo 190 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 190 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, le parole: «25-ter, commi 1 e 2;» sono soppresse;
                         b)

@@ -331,12 +331,12 @@ Modifiche concernenti la rappresentanza in giudizio dell'Agenzia nazionale per l
 1.
 
 All'[articolo 114 del decreto legislativo 6 settembre 2011, n. 159](Codice%20delle%20leggi%20antimafia%20e%20delle%20misure%20di%20prevenzione%20nonche%20nuove%20disposizioni%20in%20materia%20di%20documentazione%20antimafia%20a%20norma%20degli%20articoli%201%20e%202%20della%20legge%2013%20agosto%202010%20n.%20136.%2011G0201.md), e successive modificazioni, il comma 2 e' sostituito dal seguente: 
- «2. All'Agenzia si applica l'articolo 1 del testo unico delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento dell'Avvocatura dello Stato di cui al [regio decreto 30 ottobre 1933, n. 1611](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md).».
+ «2. All'Agenzia si applica l'articolo 1 del testo unico delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento dell'Avvocatura dello Stato di cui al [regio decreto 30 ottobre 1933, n. 1611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1611).».
 
 Note all'art. 7: 
  - Si riporta il testo dell'art. 114 del citato [decreto legislativo n. 159 del 2011](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011;159), come modificato dal presente decreto: 
  «Art. 114 (Foro esclusivo). - 1. Per tutte le controversie attribuite alla cognizione del giudice amministrativo derivanti dall'applicazione del presente titolo, la competenza e' determinata ai sensi dell'[art. 135, comma 1, lettera p), del codice del processo amministrativo](../Decreti%20Legislativi/Attuazione%20dellarticolo%2044%20della%20legge%2018%20giugno%202009%20n.%2069%20recante%20delega%20al%20governo%20per%20il%20riordino%20del%20processo%20amministrativo.%2010G0127.md). 
- 2. All'Agenzia si applica l'art. 1 del testo unico delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento dell'Avvocatura dello Stato di cui al [regio decreto 30 ottobre 1933, n. 1611](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md).».
+ 2. All'Agenzia si applica l'art. 1 del testo unico delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento dell'Avvocatura dello Stato di cui al [regio decreto 30 ottobre 1933, n. 1611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1611).».
 
 ## Disposizioni transitorie e di coordinamento
 

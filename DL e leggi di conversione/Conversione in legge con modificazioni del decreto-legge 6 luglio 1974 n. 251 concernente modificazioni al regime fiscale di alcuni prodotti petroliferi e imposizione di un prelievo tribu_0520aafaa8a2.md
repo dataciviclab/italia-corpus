@@ -78,7 +78,7 @@ e la tabella e' sostituita dalla seguente:
  nel secondo comma, le parole: "entro 30 giorni dalla data stessa", sono sostituite con le seguenti: "entro il 30 settembre 1974".
  Dopo l'articolo 5 sono aggiunti i seguenti:
 
- "Art. 5-bis. - Sono competenti all'accertamento delle violazioni agli obblighi di cui ai precedenti articoli 4 e 5 gli ufficiali e gli agenti di polizia tributaria, nonche' gli organi indicati nell'articolo 38 del testo unico delle leggi sulle tasse automobilistiche approvato con il [decreto del Presidente della Repubblica 5 febbraio 1953, n. 39](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md)".
+ "Art. 5-bis. - Sono competenti all'accertamento delle violazioni agli obblighi di cui ai precedenti articoli 4 e 5 gli ufficiali e gli agenti di polizia tributaria, nonche' gli organi indicati nell'articolo 38 del testo unico delle leggi sulle tasse automobilistiche approvato con il [decreto del Presidente della Repubblica 5 febbraio 1953, n. 39](../DPR/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md)".
 
  "Art. 5-ter. - Per i versamenti da parte dell'ACI delle somme relative alla riscossione dei tributi indicati nell'articolo 4 si applicano, relativamente ai termini ed alle modalita', le disposizioni previste dalla convenzione approvata con decreto del Ministro per le finanze del 29 novembre 1969 pubblicato nella Gazzetta Ufficiale n. 30 del 4 febbraio 1970".
  All'articolo 6,

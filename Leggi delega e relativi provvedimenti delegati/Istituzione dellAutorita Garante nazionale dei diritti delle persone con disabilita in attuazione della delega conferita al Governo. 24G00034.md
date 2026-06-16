@@ -322,7 +322,7 @@ Nell'esercizio delle funzioni di cui al comma 1, lettere b) ed e), il Garante si
 
 5.
 
-Il Garante si avvale del patrocinio dell'Avvocatura dello Stato ai sensi dell'articolo 1 del testo unico di cui al [regio decreto 30 ottobre 1933, n. 1611](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md). ((Le disposizioni di cui all'articolo 158 del Testo unico delle disposizioni legislative e regolamentari in materia di spese di giustizia, di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115, si applicano anche al Garante.))
+Il Garante si avvale del patrocinio dell'Avvocatura dello Stato ai sensi dell'articolo 1 del testo unico di cui al [regio decreto 30 ottobre 1933, n. 1611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1611). ((Le disposizioni di cui all'articolo 158 del Testo unico delle disposizioni legislative e regolamentari in materia di spese di giustizia, di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115, si applicano anche al Garante.))
 
 ## Art. 5. — Pareri del Garante
 

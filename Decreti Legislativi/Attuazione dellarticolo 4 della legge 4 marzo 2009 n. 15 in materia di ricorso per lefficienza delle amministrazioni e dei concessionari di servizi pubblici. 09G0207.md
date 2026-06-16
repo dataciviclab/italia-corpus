@@ -14,7 +14,7 @@ Visti gli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Vista la [legge 4 marzo 2009, n. 15](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20finalizzata%20allottimizzazione%20della%20produttivita%20del%20lavoro%20pubblico%20e%20alla%20efficienza%20e%20trasparenza%20delle%20pubbliche%20amministrazioni%20nonche%20disposizioni%20integrative%20dell_ca7c77713a76.md), recante delega al Governo finalizzata all'ottimizzazione della produttivita' del lavoro pubblico e alla efficienza e trasparenza delle pubbliche amministrazioni nonche' disposizioni integrative delle funzioni attribuite al Consiglio nazionale dell'economia e del lavoro e alla Corte dei conti;
 
-Visto il [Regio decreto 26 giugno 1924, n. 1054](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md), recante Testo Unico delle leggi sul Consiglio di Stato, e successive modificazioni;
+Visto il [Regio decreto 26 giugno 1924, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-26;1054), recante Testo Unico delle leggi sul Consiglio di Stato, e successive modificazioni;
 
 Vista la [legge 6 dicembre 1971, n. 1034](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1034), recante istituzione dei tribunali amministrativi regionali, e successive modificazioni;
 
@@ -202,14 +202,14 @@ Note all'art. 4:
 
 1.
 
-Nei casi di perdurante inottemperanza di una pubblica amministrazione si applicano le disposizioni di cui all'[articolo 27, comma 1, n. 4, del regio decreto 26 giugno 1924, n. 1054](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md).
+Nei casi di perdurante inottemperanza di una pubblica amministrazione si applicano le disposizioni di cui all'[articolo 27, comma 1, n. 4, del regio decreto 26 giugno 1924, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-26;1054#art_27-com1-num4).
 
 2.
 
 La sentenza di accoglimento del ricorso di cui al comma 1 e' comunicata alla Commissione e all'Organismo di cui agli [articoli 13](Attuazione%20della%20legge%204%20marzo%202009%20n.%2015%20in%20materia%20di%20ottimizzazione%20della%20produttivita%20del%20lavoro%20pubblico%20e%20di%20efficienza%20e%20trasparenza%20delle%20pubbliche%20amministrazioni.%2009G0164.md) e [14 del decreto legislativo 27 ottobre 2009, n. 150](Attuazione%20della%20legge%204%20marzo%202009%20n.%2015%20in%20materia%20di%20ottimizzazione%20della%20produttivita%20del%20lavoro%20pubblico%20e%20di%20efficienza%20e%20trasparenza%20delle%20pubbliche%20amministrazioni.%2009G0164.md), nonche' alla procura regionale della Corte dei conti per i casi in cui emergono profili di responsabilita' erariale.
 
 Note all'art. 5: 
- - Si riporta il testo dell'art. 27, comma 1, del citato [regio decreto 26 giugno 1924, n. 1054](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md): 
+ - Si riporta il testo dell'art. 27, comma 1, del citato [regio decreto 26 giugno 1924, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-26;1054): 
  «Art. 27 - 1. Il Consiglio di Stato in sede giurisdizionale decide pronunciando anche in merito: 
  1) dei sequestri di temporalita', dei provvedimenti concernenti le attribuzioni rispettive delle podesta' civili ed ecclesiastiche, e degli atti provvisionali di sicurezza generale relativi a questa materia; 
  2) dei ricorsi per contestazioni fra comuni di diverse province per l'applicazione della tassa istituita dalla [legge 11 agosto 1870, n. 5784](../Atti%20normativi%20abrogati%20%28in%20originale%29/Portante%20lapprovazione%20di%20provvedimenti%20finanziarii.%20070U5784.md), allegato O; 

@@ -84,7 +84,7 @@ Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propr
 
 1.
 
-Sono abrogati il secondo ed il terzo comma dell'articolo 170 e l'articolo 332 del testo unico delle leggi sull'istruzione superiore, di cui al [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni.
+Sono abrogati il secondo ed il terzo comma dell'articolo 170 e l'articolo 332 del testo unico delle leggi sull'istruzione superiore, di cui al [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni.
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

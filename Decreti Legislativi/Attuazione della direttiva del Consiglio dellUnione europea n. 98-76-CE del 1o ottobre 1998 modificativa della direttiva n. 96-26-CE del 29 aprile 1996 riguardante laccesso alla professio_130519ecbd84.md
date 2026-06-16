@@ -598,7 +598,7 @@ A decorrere dalla data del 1 luglio 2001 e fino alla data del ((31 dicembre 2007
 
 1-ter.
 
-Fino all'entrata in vigore del regolamento di cui all'articolo 21 continuano ad applicarsi le disposizioni contenute nei [decreti del Ministro dei trasporti 16 maggio 1991, n. 198](../Regolamenti%20ministeriali/Regolamento%20di%20attuazione%20della%20direttiva%20del%20Consiglio%20delle%20Comunita%20europee%20n.%20438%20del%2021%20giugno%201989%20che%20modifica%20la%20direttiva%20del%20Consiglio%20n.%20561%20del%2012%20novembre%201974%20riguardante%20la_4a6a1c91c64e.md), e [20 dicembre 1991, n. 448](../Atti%20di%20recepimento%20direttive%20UE/Regolamento%20di%20attuazione%20della%20direttiva%20del%20Consiglio%20delle%20Comunita%20europee%20n.%20438%20del%2021%20giugno%201989%20che%20modifica%20la%20direttiva%20del%20Consiglio%20n.%20562%20del%2012%20novembre%201974%20riguardante%20la_a1a3936615b3.md). (2)
+Fino all'entrata in vigore del regolamento di cui all'articolo 21 continuano ad applicarsi le disposizioni contenute nei [decreti del Ministro dei trasporti 16 maggio 1991, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.trasporti:decreto:1991-05-16;198), e [20 dicembre 1991, n. 448](../Atti%20di%20recepimento%20direttive%20UE/Regolamento%20di%20attuazione%20della%20direttiva%20del%20Consiglio%20delle%20Comunita%20europee%20n.%20438%20del%2021%20giugno%201989%20che%20modifica%20la%20direttiva%20del%20Consiglio%20n.%20562%20del%2012%20novembre%201974%20riguardante%20la_a1a3936615b3.md). (2)
 
 ---------------
 

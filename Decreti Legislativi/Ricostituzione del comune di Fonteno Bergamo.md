@@ -22,13 +22,13 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Il comune di Fonteno, riunito con i comuni di Esmate e di Solto nell'unico comune di Solto Collina, col [regio decreto 29 gennaio 1928, n. 177](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Esmate%20Fonteno%20e%20Solto%20in%20un%20unico%20Comune%20denominato%20Solto%20Collina.%20028U0177.md), e' ricostituito con la circoscrizione territoriale preesistente all'entrata in vigore del decreto medesimo.
+Il comune di Fonteno, riunito con i comuni di Esmate e di Solto nell'unico comune di Solto Collina, col [regio decreto 29 gennaio 1928, n. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-01-29;177), e' ricostituito con la circoscrizione territoriale preesistente all'entrata in vigore del decreto medesimo.
  Il Prefetto di Bergamo, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i comuni di Fonteno e di Solto Collina in dipendenza dell'applicazione del presente decreto.
 
 ## Art. 2.
 
 L'organico del comune di Fonteno ed il nuovo organico del comune di Solto Collina, saranno stabiliti dal Prefetto, sentita la Giunta provinciale amministrativa.
- Il numero dei posti ed i gradi relativi non potranno essere superiori rispettivamente per il comune di Fonteno e per quello di Solto Collina, a quelli organicamente assegnati al comune di Fonteno anteriormente all'entrata in vigore del [regio decreto 29 gennaio 1928, n. 177](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Esmate%20Fonteno%20e%20Solto%20in%20un%20unico%20Comune%20denominato%20Solto%20Collina.%20028U0177.md), e cumulativamente, a quelli di Esmate e di Solto anteriormente alla data medesima.
+ Il numero dei posti ed i gradi relativi non potranno essere superiori rispettivamente per il comune di Fonteno e per quello di Solto Collina, a quelli organicamente assegnati al comune di Fonteno anteriormente all'entrata in vigore del [regio decreto 29 gennaio 1928, n. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-01-29;177), e cumulativamente, a quelli di Esmate e di Solto anteriormente alla data medesima.
 
 ## Art. 3.
 

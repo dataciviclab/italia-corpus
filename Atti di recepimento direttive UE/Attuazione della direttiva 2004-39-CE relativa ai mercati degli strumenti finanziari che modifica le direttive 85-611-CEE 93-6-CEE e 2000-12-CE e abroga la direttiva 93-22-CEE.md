@@ -16,7 +16,7 @@ Vista la [legge 18 aprile 2005, n. 62](../Leggi%20di%20delegazione%20europea/Dis
 
 Vista la [legge 20 giugno 2007, n. 77](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20per%20il%20recepimento%20delle%20direttive%202002-15-CE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20dell11%20marzo%202002%202004-25-CE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2021%20aprile%202_87dc6e9e470b.md), recante "Delega legislativa per il recepimento delle [direttive 2002/15/CE del Parlamento europeo e del Consiglio, dell'11 marzo 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;15), [2004/25/CE del Parlamento europeo e del Consiglio, del 21 aprile 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;25) e [2004/39/CE del Parlamento europeo e del Consiglio, del 21 aprile 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;39), nonche' per l'adozione delle disposizioni integrative e correttive del [decreto legislativo 19 agosto 2005, n. 191](Attuazione%20della%20direttiva%202002-98-CE%20che%20stabilisce%20norme%20di%20qualita%20e%20di%20sicurezza%20per%20la%20raccolta%20il%20controllo%20la%20lavorazione%20la%20conservazione%20e%20la%20distribuzione%20del%20sangue%20umano%20e%20dei_efd6f1eae042.md), di attuazione della [direttiva 2002/98/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;98)";
 
-Visto il testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md)";
+Visto il testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md)";
 
 Vista la [direttiva 2004/39/CE del Parlamento europeo e del Consiglio, del 21 aprile 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;39), relativa ai mercati degli strumenti finanziari, che modifica le [direttive 85/611/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1985;611) e [93/6/CEE del Consiglio e la direttiva](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;6) [2000/12/CE del Parlamento europeo e del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2000;12) e che abroga la [direttiva 93/22/CEE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;22);
 
@@ -40,7 +40,7 @@ Emana il seguente decreto legislativo:
 
 1.
 
-All'[articolo 1 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 1 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             alla lettera e) del comma 1, dopo le parole: "autorizzata a svolgere servizi" sono inserite le seguenti: "o attivita'";
                         b)
@@ -116,7 +116,7 @@ All'[articolo 1 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unic
 
 2.
 
-All'[articolo 4 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 4 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             dopo il comma 2, sono inseriti i seguenti:
  "2-bis. Ai fini indicati al comma 2, la Consob e la Banca d'Italia possono concludere con le autorita' competenti degli Stati membri dell'Unione europea accordi di collaborazione, che possono prevedere la delega reciproca di compiti di vigilanza.
@@ -127,7 +127,7 @@ La Consob interessa la Banca d'Italia per gli aspetti di competenza di questa ul
 
 Avvertenza:
 
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione del decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [d.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione del decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [d.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Per regolamenti e direttive CE vengono forniti gli estremi di pubblicazioni nella Gazzetta Ufficiale dell'Unione europea (GUUE).
 
  Note alle premesse:
@@ -136,7 +136,7 @@ Avvertenza:
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
  - Il testo dell'[art. 9-bis della legge 18 aprile 2005, n. 62](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202004.md) (Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee, legge comunitaria 2004, pubblicata nella Gazzetta Ufficiale 27 aprile 2005, n. 96, supplemento ordinario, e' il seguente:
  «Art. 9-bis (Attuazione della [direttiva 2004/39/CE del Parlamento europeo e del Consiglio, del 21 aprile 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;39), relativa ai mercati degli strumenti finanziari, che modifica le [direttive 85/611/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1985;611) e [93/6/CEE del Consiglio e la direttiva](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;6) [2000/12/CE del Parlamento europeo e del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2000;12) e che abroga la [direttiva 93/22/CEE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;22), nonche' della [direttiva 2006/31/CE del Parlamento europeo e del Consiglio, del 5 aprile 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;31), che modifica la [direttiva 2004/39/CE)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;39). - 1. Nella predisposizione del decreto legislativo per l'attuazione della [direttiva 2004/39/CE del Parlamento europeo e del Consiglio, del 21 aprile 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;39), relativa ai mercati degli strumenti finanziari, che modifica le [direttive 85/611/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1985;611) e [93/6/CEE del Consiglio e la direttiva](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;6) [2000/12/CE del Parlamento europeo e del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2000;12) e che abroga la [direttiva 93/22/CEE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;22), nonche' della [direttiva 2006/31/CE del Parlamento europeo e del Consiglio, del 5 aprile 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;31), che modifica la [direttiva 2004/39/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;39), il Governo e' tenuto a seguire, oltre ai principi e criteri direttivi di cui all'art. 2, anche i seguenti principi e criteri direttivi:
- a) apportare al testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e successive modificazioni, le modifiche e le integrazioni necessarie al corretto e integrale recepimento della direttiva e delle relative misure di esecuzione nell'ordinamento nazionale attribuendo le competenze rispettivamente alla Banca d'Italia e alla Commissione nazionale per le societa' e la borsa (CONSOB) secondo i principi di cui agli articoli 5 e 6 del citato testo unico, e successive modificazioni, e confermando la disciplina prevista per i mercati all'ingrosso di titoli di Stato;
+ a) apportare al testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e successive modificazioni, le modifiche e le integrazioni necessarie al corretto e integrale recepimento della direttiva e delle relative misure di esecuzione nell'ordinamento nazionale attribuendo le competenze rispettivamente alla Banca d'Italia e alla Commissione nazionale per le societa' e la borsa (CONSOB) secondo i principi di cui agli articoli 5 e 6 del citato testo unico, e successive modificazioni, e confermando la disciplina prevista per i mercati all'ingrosso di titoli di Stato;
  b) recepire le nozioni di servizi e attivita' di investimento, nonche' di servizi accessori e strumenti finanziari contenute nell'allegato I alla direttiva; attribuire alla CONSOB, d'intesa con la Banca d'Italia, il potere di recepire le disposizioni adottate dalla Commissione ai sensi dell'art. 4, paragrafo 2, della direttiva;
  c) prevedere che l'esercizio nei confronti del pubblico, a titolo professionale, dei servizi e delle attivita' di investimento sia riservato alle banche e ai soggetti abilitati costituiti in forma di societa' per azioni nonche', limitatamente al servizio di consulenza in materia di investimenti, alle persone fisiche in possesso dei requisiti di professionalita', onorabilita', indipendenza e patrimoniali stabiliti con regolamento adottato dal Ministro dell'economia e delle finanze, sentite la Banca d'Italia e la CONSOB. Resta ferma l'abilitazione degli agenti di cambio ad esercitare le attivita' previste dall'ordinamento nazionale;
  d) prevedere che la gestione di sistemi multilaterali di negoziazione sia consentita anche alle societa' di gestione di mercati regolamentati previa verifica della sussistenza delle condizioni indicate dalla direttiva;
@@ -150,34 +150,34 @@ Avvertenza:
  4) l'affidamento a terzi, da parte dei soggetti abilitati, di funzioni operative;
  5) le misure da adottare per ottenere nell'esecuzione degli ordini il miglior risultato possibile per i clienti, ivi incluse le modalita' di registrazione e conservazione degli ordini stessi;
  i) disciplinare l'attivita' di gestione dei sistemi multilaterali di negoziazione conferendo alla CONSOB il potere di stabilire con proprio regolamento i criteri di funzionamento dei sistemi stessi;
- l) al fine di garantire l'effettiva integrazione dei mercati azionari e il rafforzamento dell'efficacia del processo di formazione dei prezzi, eliminando gli ostacoli che possono impedire il consolidamento delle informazioni messe a disposizione del pubblico nei diversi sistemi di negoziazione, attribuire alla CONSOB, sentita la Banca d'Italia, per i mercati all'ingrosso di titoli obbligazionari privati e pubblici, diversi dai titoli di Stato, nonche' per gli scambi di strumenti previsti dall'art. 1, comma 2, lettera d), del testo unico di cui al [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e di strumenti finanziari derivati su titoli pubblici, su tassi di interesse e su valute, e al Ministero dell'economia e delle finanze, sentite la Banca d'Italia e la CONSOB, per i mercati all'ingrosso dei titoli di Stato, il potere di:
+ l) al fine di garantire l'effettiva integrazione dei mercati azionari e il rafforzamento dell'efficacia del processo di formazione dei prezzi, eliminando gli ostacoli che possono impedire il consolidamento delle informazioni messe a disposizione del pubblico nei diversi sistemi di negoziazione, attribuire alla CONSOB, sentita la Banca d'Italia, per i mercati all'ingrosso di titoli obbligazionari privati e pubblici, diversi dai titoli di Stato, nonche' per gli scambi di strumenti previsti dall'art. 1, comma 2, lettera d), del testo unico di cui al [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e di strumenti finanziari derivati su titoli pubblici, su tassi di interesse e su valute, e al Ministero dell'economia e delle finanze, sentite la Banca d'Italia e la CONSOB, per i mercati all'ingrosso dei titoli di Stato, il potere di:
  1) disciplinare il regime di trasparenza pre-negoziazione e post-negoziazione per le operazioni riguardanti azioni ammesse alla negoziazione nei mercati regolamentati, effettuate nei mercati medesimi, nei sistemi multilaterali di negoziazione e dagli internalizzatori sistematici;
  2) estendere, in tutto o in parte, quando cio' sia necessario per la tutela degli investitori, il regime di trasparenza delle operazioni aventi ad oggetto strumenti finanziari diversi dalle azioni ammesse alle negoziazioni nei mercati regolamentati;
  m) conferire alla CONSOB il potere di disciplinare con regolamento, in conformita' alla direttiva e alle misure di esecuzione adottate dalla Commissione europea, secondo la procedura di cui all'art. 64, paragrafo 2, della medesima direttiva, le seguenti materie:
  1) il contenuto e le modalita' di comunicazione alla CONSOB, da parte degli intermediari, delle operazioni concluse riguardanti strumenti finanziari ammessi alle negoziazioni nei mercati regolamentati prevedendo anche l'utilizzo di sistemi di notifica approvati dalla CONSOB stessa;
  2) l'estensione degli obblighi di comunicazione alla CONSOB delle operazioni concluse da parte degli intermediari anche agli strumenti finanziari non ammessi alle negoziazioni sui mercati regolamentati quando cio' sia necessario al fine di assicurare la tutela degli investitori;
  3) i requisiti di organizzazione delle societa' di gestione dei mercati regolamentati;
- n) prevedere che la CONSOB possa individuare i criteri generali ai quali devono adeguarsi i regolamenti, adottati ai sensi dell'art. 62 del testo unico di cui al [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e successive modificazioni, di gestione e organizzazione dei mercati regolamentati in materia di ammissione, sospensione e revoca degli strumenti finanziari dalle negoziazioni, di accesso degli operatori e di regolamento delle operazioni concluse su tali mercati, in conformita' ai principi di trasparenza, imparzialita' e correttezza stabiliti dalla direttiva e dalle misure di esecuzione adottate dalla Commissione europea, secondo la procedura di cui all'art. 64, paragrafo 2, della medesima direttiva;
+ n) prevedere che la CONSOB possa individuare i criteri generali ai quali devono adeguarsi i regolamenti, adottati ai sensi dell'art. 62 del testo unico di cui al [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e successive modificazioni, di gestione e organizzazione dei mercati regolamentati in materia di ammissione, sospensione e revoca degli strumenti finanziari dalle negoziazioni, di accesso degli operatori e di regolamento delle operazioni concluse su tali mercati, in conformita' ai principi di trasparenza, imparzialita' e correttezza stabiliti dalla direttiva e dalle misure di esecuzione adottate dalla Commissione europea, secondo la procedura di cui all'art. 64, paragrafo 2, della medesima direttiva;
  o) conferire alla CONSOB, d'intesa con la Banca d'Italia, il potere di disciplinare con regolamento, in conformita' alla direttiva e alle relative misure di esecuzione adottate dalla Commissione europea, secondo la procedura di cui all'art. 64, paragrafo 2, della medesima direttiva, i criteri non discriminatori e trasparenti in base ai quali subordinare la designazione e l'accesso alle controparti centrali o ai sistemi di compensazione, garanzia e regolamento ai sensi degli articoli 34, 35 e 46 della direttiva;
  p) conferire alla CONSOB il potere di disporre la sospensione o la revoca di uno strumento finanziario dalla negoziazione;
  q) prevedere che la CONSOB vigili affinche' la prestazione in Italia di servizi di investimento da parte di succursali di intermediari comunitari avvenga nel rispetto delle misure di esecuzione degli articoli 19, 21, 22, 25, 27 e 28 della direttiva, ferme restando le competenze delle altre autorita' stabilite dalla legge;
- r) prevedere la possibilita' per gli intermediari di avvalersi di promotori finanziari, secondo i principi gia' previsti dal testo unico di cui al [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e successive modificazioni;
- s) attribuire alla Banca d'Italia e alla CONSOB i poteri di vigilanza e di indagine previsti dall'art. 50 della direttiva, secondo i criteri e le modalita' previsti dall'art. 187-octies del testo unico di cui al [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md);
- t) prevedere, fatte salve le sanzioni penali gia' previste dal testo unico di cui al [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e successive modificazioni, per le violazioni delle regole dettate in attuazione della direttiva: l'applicazione di sanzioni amministrative pecuniarie non inferiori nel minimo a euro 2.500 e non superiori nel massimo a euro 250.000; la responsabilita' amministrativa delle persone giuridiche; l'esclusione della facolta' di pagamento in misura ridotta di cui all'[art. 16 della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_16), e successive modificazioni; l'adeguamento alla complessita' dei procedimenti sanzionatori dei termini entro i quali procedere alle contestazioni; la pubblicita' delle sanzioni, salvo che la pubblicazione possa mettere gravemente a rischio i mercati finanziari o arrecare un danno sproporzionato alle parti coinvolte;
+ r) prevedere la possibilita' per gli intermediari di avvalersi di promotori finanziari, secondo i principi gia' previsti dal testo unico di cui al [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e successive modificazioni;
+ s) attribuire alla Banca d'Italia e alla CONSOB i poteri di vigilanza e di indagine previsti dall'art. 50 della direttiva, secondo i criteri e le modalita' previsti dall'art. 187-octies del testo unico di cui al [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md);
+ t) prevedere, fatte salve le sanzioni penali gia' previste dal testo unico di cui al [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e successive modificazioni, per le violazioni delle regole dettate in attuazione della direttiva: l'applicazione di sanzioni amministrative pecuniarie non inferiori nel minimo a euro 2.500 e non superiori nel massimo a euro 250.000; la responsabilita' amministrativa delle persone giuridiche; l'esclusione della facolta' di pagamento in misura ridotta di cui all'[art. 16 della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_16), e successive modificazioni; l'adeguamento alla complessita' dei procedimenti sanzionatori dei termini entro i quali procedere alle contestazioni; la pubblicita' delle sanzioni, salvo che la pubblicazione possa mettere gravemente a rischio i mercati finanziari o arrecare un danno sproporzionato alle parti coinvolte;
  u) estendere l'applicazione del [codice del consumo](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), di cui al [decreto legislativo 6 settembre 2005, n. 206](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), alla tutela degli interessi collettivi dei consumatori nelle materie previste dalla direttiva;
  v) prevedere procedure per la risoluzione stragiudiziale di controversie relative alla prestazione di servizi e di attivita' di investimento e di servizi accessori da parte delle imprese di investimento, che consentano anche misure di efficace collaborazione nella composizione delle controversie transfrontaliere;
  z) disciplinare i rapporti con le autorita' estere anche con riferimento ai poteri cautelari esercitabili nelle materie previste dalla direttiva.
  2. All'attuazione del presente articolo si provvede nell'ambito delle risorse umane, strumentali e finanziarie previste dalla legislazione vigente e senza nuovi o maggiori oneri a carico della finanza pubblica.».
  - La [legge 6 febbraio 2007, n. 13](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202006.md) (Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee legge comunitaria 2006) e' pubblicata nella Gazzetta Ufficiale 17 febbraio 2007, n. 40, supplemento ordinario.
  - La [legge 20 giugno 2007, n. 77](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20per%20il%20recepimento%20delle%20direttive%202002-15-CE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20dell11%20marzo%202002%202004-25-CE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2021%20aprile%202_87dc6e9e470b.md) «Delega legislativa per il recepimento delle [direttive 2002/15/CE del Parlamento europeo e del Consiglio, dell'11 marzo 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;15), [2004/25/CE del Parlamento europeo e del Consiglio, del 21 aprile 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;25) e [2004/39/CE del Parlamento europeo e del Consiglio, del 21 aprile 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;39), nonche' per l'adozione delle disposizioni integrative e correttive del [decreto legislativo 19 agosto 2005, n. 191](Attuazione%20della%20direttiva%202002-98-CE%20che%20stabilisce%20norme%20di%20qualita%20e%20di%20sicurezza%20per%20la%20raccolta%20il%20controllo%20la%20lavorazione%20la%20conservazione%20e%20la%20distribuzione%20del%20sangue%20umano%20e%20dei_efd6f1eae042.md), di attuazione della [direttiva 2002/98/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;98)», e' pubblicata nella Gazzetta Ufficiale 21 giugno 2007, n. 142.
- - Il [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) «Testo unico delle disposizioni in materia di intermediazione finanziaria, ai sensi degli [articoli 8](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md) e [21 della legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md)», e' pubblicato nella Gazzetta Ufficiale 26 marzo 1998, n. 71, supplemento ordinario.
+ - Il [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) «Testo unico delle disposizioni in materia di intermediazione finanziaria, ai sensi degli [articoli 8](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md) e [21 della legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md)», e' pubblicato nella Gazzetta Ufficiale 26 marzo 1998, n. 71, supplemento ordinario.
  - La [direttiva 21 aprile 2004, n. 2004/39/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;39) «Direttiva del Parlamento europeo e del Consiglio relativa ai mercati degli strumenti finanziari, che modifica le [direttive 85/611/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1985;611) e [93/6/CEE del Consiglio e la direttiva](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;6) [2000/12/CE del Parlamento europeo e del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2000;12) e che abroga la [direttiva 93/22/CEE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;22)», e' pubblicata nella G.U.U.E. 30 aprile 2004, n. L 145; e' entrata in vigore il 30 aprile 2004.
  - La [direttiva 5 aprile 2006, n. 2006/31/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;31) «Direttiva del Parlamento europeo e del Consiglio che modifica la [direttiva 2004/39/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;39) relativa ai mercati degli strumenti finanziari per quanto riguarda talune scadenze», e' pubblicata nella G.U.U.E. 27 aprile 2006, n. L 114; e' entrata in vigore il 28 aprile 2006.
  - Il regolamento (CE) 10 agosto 2006, n. 1287/2006 «Regolamento della Commissione recante modalita' di esecuzione della [direttiva 2004/39/CE del Parlamento europeo e del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;39) per quanto riguarda gli obblighi in materia di registrazioni per le imprese di investimento, la comunicazione delle operazioni, la trasparenza del mercato, l'ammissione degli strumenti finanziari alla negoziazione e le definizioni di taluni termini ai fini di tale direttiva», e' pubblicato nella G.U.U.E. 2 settembre 2006, n. L 241.
  - La [direttiva 10 agosto 2006, n. 2006/73/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;73) «Direttiva della Commissione recante modalita' di esecuzione della [direttiva 2004/39/CE del Parlamento europeo e del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;39) per quanto riguarda i requisiti di organizzazione e le condizioni di esercizio dell'attivita' delle imprese di investimento e le definizioni di taluni termini ai fini di tale direttiva», e' pubblicata nella G.U.U.E. 2 settembre 2006, n. L 241.
 
  Nota all'art. 1:
- - Si riporta il testo degli articoli 1 e 4 del citato [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), come modificato dal presente decreto:
+ - Si riporta il testo degli articoli 1 e 4 del citato [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), come modificato dal presente decreto:
  «Art. 1 (Definizioni). - 1. Nel presente decreto legislativo si intendono per:
  a) «[legge fallimentare](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267)»: il [regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267), e successive modificazioni;
  b) «Testo unico bancario» (T.U. bancario): il [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), e successive modificazioni;
@@ -282,7 +282,7 @@ Avvertenza:
 
 1.
 
-L'[articolo 5 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' modificato come segue:
+L'[articolo 5 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' modificato come segue:
                         a)
                             i commi 1, 2, 3 e 4 sono sostituiti dai seguenti:
  «1. La vigilanza sulle attivita' disciplinate dalla presente parte ha per obiettivi:
@@ -303,7 +303,7 @@ L'[articolo 5 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/
 
 2.
 
-L'[articolo 6 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' modificato come segue:
+L'[articolo 6 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' modificato come segue:
                         a)
                             prima del comma 1, sono inseriti i seguenti:
  «01. Nell'esercizio delle funzioni di vigilanza regolamentare, la Banca d'Italia e la Consob osservano i seguenti principi:
@@ -370,7 +370,7 @@ L'[articolo 6 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/
 
 3.
 
-All'[articolo 8 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 8 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, le parole: «per le materie di rispettiva competenza» sono sostituite dalle seguenti: «nell'ambito delle rispettive competenze»;
                         b)
@@ -382,7 +382,7 @@ All'[articolo 8 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unic
 
 4.
 
-All'[articolo 10 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 10 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, le parole: «per le materie di rispettiva competenza» sono sostituite dalle seguenti: «nell'ambito delle rispettive competenze»;
                         b)
@@ -393,7 +393,7 @@ All'[articolo 10 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Uni
 
 5.
 
-All'[articolo 12 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md),sono apportate le seguenti modificazioni:
+All'[articolo 12 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md),sono apportate le seguenti modificazioni:
                         a)
                             al comma 1 le parole: «e 1-bis.» sono sostituite dalle seguenti: «1-bis e 2-bis, lettere a), b), c) e g).»;
                         b)
@@ -402,7 +402,7 @@ All'[articolo 12 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Uni
                             al comma 5 le parole: «per le materie di rispettiva competenza» sono sostituite dalle seguenti: «nell'ambito delle rispettive competenze».
 
 Nota all'art. 2:
- - Si riporta il testo degli articoli 5, 6, 8, 10 e 12 del citato [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), come modificato dal presente decreto:
+ - Si riporta il testo degli articoli 5, 6, 8, 10 e 12 del citato [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), come modificato dal presente decreto:
  «Art. 5 (Finalita' e destinatari della vigilanza). - 1. La vigilanza sulle attivita' disciplinate dalla presente parte ha per obiettivi:
  a) la salvaguardia della fiducia nel sistema finanziario;
  b) la tutela degli investitori;
@@ -507,11 +507,11 @@ Nota all'art. 2:
 
 1.
 
-Alla rubrica del titolo II della parte II del [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), dopo la parola: «servizi», sono inserite le seguenti: «e attivita».
+Alla rubrica del titolo II della parte II del [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), dopo la parola: «servizi», sono inserite le seguenti: «e attivita».
 
 2.
 
-All'[articolo 18 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 18 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, dopo le parole: «dei servizi» sono inserite le seguenti: «e delle attivita»;
                         b)
@@ -548,7 +548,7 @@ Dopo l'articolo 18, e' inserito il seguente:
 
 4.
 
-All'[articolo 19 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 19 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             l'alinea del comma 1 e' sostituito dal seguente:
  «1. La Consob, sentita la Banca d'Italia, autorizza, entro sei mesi dalla presentazione della domanda completa, l'esercizio dei servizi e delle attivita' di investimento da parte delle SIM, quando ricorrono le seguenti condizioni:»;
@@ -567,7 +567,7 @@ All'[articolo 19 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Uni
  «4. La Banca d'Italia, sentita la Consob per l'attivita' di cui all'articolo 1, comma 5, lettera g), autorizza l'esercizio dei servizi e delle attivita' d'investimento da parte delle banche autorizzate in Italia, nonche' l'esercizio dei servizi e delle attivita' indicati nell'articolo 18, comma 3, da parte di intermediari finanziari iscritti nell'elenco previsto dall'articolo 107 del testo unico bancario.».
 
 Note all'art. 3:
- - Si riporta il testo della rubrica del titolo II della parte II del citato [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), come modificato dal presente decreto:
+ - Si riporta il testo della rubrica del titolo II della parte II del citato [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), come modificato dal presente decreto:
 
  «TITOLO II Servizi e attivita' di investimento»
 
@@ -598,11 +598,11 @@ Note all'art. 3:
 
 1.
 
-Alla rubrica del capo II del titolo II della parte II del [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), dopo le parole: «Svolgimento dei servizi» sono aggiunte le seguenti: «e delle attivita».
+Alla rubrica del capo II del titolo II della parte II del [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), dopo le parole: «Svolgimento dei servizi» sono aggiunte le seguenti: «e delle attivita».
 
 2.
 
-All'[articolo 21 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 21 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             il comma 1 e' sostituito dal seguente:
  «1. Nella prestazione dei servizi e delle attivita' di investimento e accessori i soggetti abilitati devono:
@@ -619,7 +619,7 @@ All'[articolo 21 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Uni
 
 3.
 
-All'[articolo 23 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 23 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, le parole: «servizi di investimento e» sono sostituite dalle seguenti: «servizi di investimento, escluso il servizio di cui all'articolo 1, comma 5, lettera f), e, se previsto, i contratti relativi alla prestazione dei servizi»;
                         b)
@@ -633,7 +633,7 @@ All'[articolo 23 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Uni
 
 4.
 
-All'[articolo 24 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 24 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             alla rubrica, le parole: «di investimento» sono soppresse;
                         b)
@@ -645,7 +645,7 @@ All'[articolo 24 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Uni
 
 5.
 
-All'[articolo 25 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' sostituito dal seguente:
+All'[articolo 25 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' sostituito dal seguente:
  «Art. 25 (Attivita' di negoziazione nei mercati regolamentati). - 1. Le Sim e le banche italiane autorizzate all'esercizio dei servizi e attivita' di negoziazione per conto proprio e di esecuzione di ordini per conto dei clienti possono operare nei mercati regolamentati italiani, nei mercati comunitari e nei mercati extracomunitari riconosciuti dalla Consob ai sensi dell'articolo 67.
 Le imprese di investimento comunitarie ed extracomunitarie e le banche comunitarie ed extracomunitarie autorizzate all'esercizio dei medesimi servizi e attivita' possono operare nei mercati regolamentati italiani.
  2. Possono accedere ai mercati regolamentati, tenuto conto delle regole adottate dalla societa' di gestione ai sensi dell'articolo 62, comma 2, soggetti diversi da quelli di cui al comma 1 del presente articolo alle seguenti condizioni:
@@ -657,14 +657,14 @@ Le imprese di investimento comunitarie ed extracomunitarie e le banche comunitar
 
 6.
 
-Al [comma 2 dell'articolo 25-bis del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), le parole: «comma 2» sono sostituite dalle seguenti: «commi 2 e 2-bis, lettere d), e), i), j), l), m) ed n)».
+Al [comma 2 dell'articolo 25-bis del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), le parole: «comma 2» sono sostituite dalle seguenti: «commi 2 e 2-bis, lettere d), e), i), j), l), m) ed n)».
 
 Note all'art. 4:
  - Si riporta il testo della rubrica del capo II, del titolo II, della parte II, del citato [decreto legislativo n. 58 del 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58) come modificato dal presente decreto:
 
  «Capo II Svolgimento dei servizi e delle attivita»
 
- - Si riporta il testo degli articoli 21, 23, 24 e 25-bis del citato [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), come modificato dal presente decreto:
+ - Si riporta il testo degli articoli 21, 23, 24 e 25-bis del citato [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), come modificato dal presente decreto:
  «Art. 21 (Criteri generali). - 1. Nella prestazione dei servizi e delle attivita' di investimento e accessori i soggetti abilitati devono:
  a) comportarsi con diligenza, correttezza e trasparenza, per servire al meglio l'interesse dei clienti e per l'integrita' dei mercati;
  b) acquisire, le informazioni necessarie dai clienti e operare in modo che essi siano sempre adeguatamente informati;
@@ -698,7 +698,7 @@ Note all'art. 4:
 
 1.
 
-All'[articolo 27 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 27 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, le parole: «alla Banca d'Italia e» sono soppresse;
                         b)
@@ -711,7 +711,7 @@ All'[articolo 27 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Uni
 
 2.
 
-All'[articolo 28 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 28 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1 lettera b), dopo le parole: «nello Stato d'origine dei servizi» sono inserite le seguenti: «e delle attivita»;
                         b)
@@ -721,7 +721,7 @@ All'[articolo 28 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Uni
 
 3.
 
-Il [comma 1 dell'articolo 29 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' sostituito dal seguente:
+Il [comma 1 dell'articolo 29 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' sostituito dal seguente:
  «1. Alla prestazione all'estero di servizi e attivita' di investimento e di servizi accessori da parte di banche italiane e alla prestazione in Italia dei medesimi da parte di banche estere si applicano le disposizioni del titolo II, capo II, del testo unico bancario.».
 
 Nota all'art. 5:
@@ -744,7 +744,7 @@ Nota all'art. 5:
 
 1.
 
-All'[articolo 30 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 30 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             la lettera b) del comma 1 e' sostituita dalla seguente:
  «b) di servizi e attivita' di investimento in luogo diverso dalla sede legale o dalle dipendenze di chi presta, promuove o colloca il servizio o l'attivita'.»;
@@ -766,13 +766,13 @@ All'[articolo 30 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Uni
 
 2.
 
-I [commi 1](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) e [2 dell'articolo 31 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono sostituiti dai seguenti:
+I [commi 1](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) e [2 dell'articolo 31 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono sostituiti dai seguenti:
  «1. Per l'offerta fuori sede, le imprese di investimento, le Sgr, le societa' di gestione armonizzate, le Sicav, gli intermediari finanziari iscritti nell'elenco previsto dall'articolo 107 del testo unico bancario e le banche si avvalgono di promotori finanziari. I promotori finanziari di cui si avvalgono le imprese di investimento comunitarie ed extracomunitarie, le societa' di gestione armonizzate, le banche comunitarie ed extracomunitarie, sono equiparati, ai fini dell'applicazione delle regole di condotta, a una succursale costituita nel territorio della Repubblica.
  2. E' promotore finanziario la persona fisica che, in qualita' di agente collegato ai sensi della [direttiva 2004/39/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;39), esercita professionalmente l'offerta fuori sede come dipendente, agente o mandatario. L'attivita' di promotore finanziario e' svolta esclusivamente nell'interesse di un solo soggetto.».
 
 3.
 
-All'[articolo 32 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 32 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             alla rubrica, dopo le parole: «collocamento a distanza di servizi» sono inserite le seguenti: «e attivita»;
                         b)
@@ -819,7 +819,7 @@ Nota all'art. 6:
 
 1.
 
-Dopo il capo IV del [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' inserito il seguente:
+Dopo il capo IV del [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' inserito il seguente:
 
  "Capo IV-bis
 
@@ -833,7 +833,7 @@ Dopo il capo IV del [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Uni
 
 1.
 
-All'[articolo 33 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 33 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             la lettera a) del comma 2 e' sostituita dalla seguente:
  «a) prestare il servizio di gestione di portafogli;»;
@@ -848,11 +848,11 @@ All'[articolo 33 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Uni
 
 2.
 
-Al [comma 1 dell'articolo 34 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), le parole «e del servizio di gestione su base individuale di portafogli di investimento» sono sostituite dalle seguenti: «, del servizio di gestione di portafogli e del servizio di consulenza in materia di investimenti».
+Al [comma 1 dell'articolo 34 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), le parole «e del servizio di gestione su base individuale di portafogli di investimento» sono sostituite dalle seguenti: «, del servizio di gestione di portafogli e del servizio di consulenza in materia di investimenti».
 
 3.
 
-Al [comma 1 dell'articolo 49 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono aggiunte, in fine, le seguenti: «o al capo II del presente titolo».
+Al [comma 1 dell'articolo 49 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono aggiunte, in fine, le seguenti: «o al capo II del presente titolo».
 
 Nota all'art. 8:
  - Si riporta il testo degli articoli 33, 34 e 49 del citato [decreto legislativo n. 58 del 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58), come modificato dal presente decreto:
@@ -889,7 +889,7 @@ Nota all'art. 8:
 
 1.
 
-All'[articolo 51 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 51 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, dopo le parole: «prestazione di servizi» sono inserite le seguenti: «e attivita»;
                         b)
@@ -899,7 +899,7 @@ All'[articolo 51 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Uni
 
 2.
 
-All'[articolo 52 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 52 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             il comma 1 e' sostituito dal seguente:
  «1. In caso di violazione da parte di imprese di investimento comunitarie con succursale in Italia, di societa' di gestione armonizzate, di banche comunitarie con succursale in Italia e di societa' finanziarie previste dall'articolo 18, comma 2, del testo unico bancario, delle disposizioni loro applicabili ai sensi del presente decreto, la Banca d'Italia o la Consob, nell'ambito delle rispettive competenze, possono ordinare alle stesse di porre termine a tali irregolarita', dandone comunicazione anche all'Autorita' di vigilanza dello Stato membro in cui l'intermediario ha sede legale per i provvedimenti eventualmente necessari.»;
@@ -913,11 +913,11 @@ All'[articolo 52 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Uni
 
 3.
 
-Al [comma 1 dell'articolo 56 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), le parole: «ciascuna per le materie di propria competenza» sono sostituite dalle seguenti: «nell'ambito delle rispettive competenze».
+Al [comma 1 dell'articolo 56 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), le parole: «ciascuna per le materie di propria competenza» sono sostituite dalle seguenti: «nell'ambito delle rispettive competenze».
 
 4.
 
-All'[articolo 57 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 57 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, le parole: «ciascuna per le materie di propria competenza» sono sostituite dalle seguenti: «nell'ambito delle rispettive competenze»;
                         b)
@@ -925,7 +925,7 @@ All'[articolo 57 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Uni
 
 5.
 
-All'[articolo 59 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 59 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, le parole: «L'esercizio dei servizi di investimento» sono sostituite dalle seguenti: «Il rilascio dell'autorizzazione alla prestazione di servizi e attivita' di investimento»;
                         b)
@@ -970,14 +970,14 @@ Nota all'art. 9.
 
 1.
 
-Nel capo I del titolo I della parte III del [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' inserito il seguente articolo:
+Nel capo I del titolo I della parte III del [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' inserito il seguente articolo:
  «Art. 60-ter (Principi di regolamentazione). - 1. La Banca d'Italia e la Consob esercitano i poteri regolamentari previsti dal presente titolo nell'osservanza dei principi di cui all'articolo 6, comma 01.».
 
 ## Art. 11. — Modifiche alla parte III, titolo I, capo I, del TUF
 
 1.
 
-All'[articolo 61 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 61 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             alla lettera a) del comma 2, le parole: «il capitale minimo» sono sostituite dalle seguenti: «le risorse finanziarie»;
                         b)
@@ -1004,7 +1004,7 @@ All'[articolo 61 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Uni
 
 2.
 
-All'[articolo 62 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 62 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             il comma 1 e' sostituito dal seguente:
  «1. L'organizzazione e la gestione del mercato sono disciplinate da un regolamento deliberato dall'assemblea ordinaria o dal consiglio di sorveglianza della societa' di gestione; il regolamento puo' attribuire al consiglio di amministrazione o al consiglio di gestione il potere di dettare disposizioni di attuazione.»;
@@ -1034,7 +1034,7 @@ All'[articolo 62 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Uni
 
 3.
 
-All'[articolo 63 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 63 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             dopo il comma 1, e' inserito il seguente:
  «1-bis. L'autorizzazione di cui al comma 1 e' subordinata alla presentazione di un programma di attivita' che illustra i tipi di attivita' previsti e la struttura organizzativa della societa' di gestione.»;
@@ -1043,7 +1043,7 @@ All'[articolo 63 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Uni
 
 4.
 
-All'[articolo 64 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 64 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             alla rubrica, dopo le parole «Organizzazione e funzionamento del mercato» sono aggiunte le seguenti: «e delle societa' di gestione»;
                         b)
@@ -1061,7 +1061,7 @@ All'[articolo 64 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Uni
 
 5.
 
-L'[articolo 65 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' sostituito dal seguente:
+L'[articolo 65 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' sostituito dal seguente:
  «Art. 65 (Registrazione delle operazioni presso la societa' di gestione e obblighi di comunicazione delle operazioni concluse su strumenti finanziari). - 1. La Consob stabilisce con regolamento:
  a) le modalita' di registrazione presso le societa' di gestione delle operazioni compiute su strumenti finanziari ammessi a negoziazione nei mercati regolamentati da essa gestiti;
  b) il contenuto, i termini e le modalita' di comunicazione alla Consob da parte dei soggetti abilitati delle operazioni concluse su strumenti finanziari ammessi alla negoziazione su un mercato regolamentato.
@@ -1069,7 +1069,7 @@ L'[articolo 65 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici
 
 6.
 
-Al [comma 2 dell'articolo 66 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), il quarto periodo e' soppresso.
+Al [comma 2 dell'articolo 66 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), il quarto periodo e' soppresso.
 
 7.
 
@@ -1085,7 +1085,7 @@ Dopo l'articolo 66 e' inserito il seguente articolo:
 
 8.
 
-All'[articolo 67 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 67 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             dopo il comma 2, e' inserito il seguente:
  «2-bis. La Consob, al fine di assicurare la trasparenza, l'ordinato svolgimento delle negoziazioni e la tutela degli investitori, puo' stipulare accordi con le autorita' di vigilanza dello Stato di origine di mercati regolamentati comunitari che abbiano acquisito, a giudizio della Consob, un'importanza sostanziale per il funzionamento del mercato finanziario italiano e la tutela degli investitori in Italia. Per i mercati all'ingrosso di titoli di Stato tali compiti sono attribuiti alla Banca d'Italia.»;
@@ -1105,7 +1105,7 @@ Per i mercati all'ingrosso di titoli di Stato la comunicazione preventiva e' dat
 
 9.
 
-All'[articolo 69 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 69 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1 e' aggiunto, in fine, il seguente periodo: «Si applica l'articolo 80, commi 4, 5, 6, 7, 8 e 10.»;
                         b)
@@ -1120,7 +1120,7 @@ All'[articolo 69 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Uni
 
 10.
 
-All'[articolo 70 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 70 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, le parole: «essere distratte dalla destinazione prevista ne» sono soppresse;
                         b)
@@ -1152,7 +1152,7 @@ Dopo l'articolo 70, sono inseriti i seguenti:
 
 12.
 
-All'[articolo 73 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 73 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, le parole: «dall'articolo 74, comma 2» sono sostituite dalle seguenti: «dagli articoli 74, comma 2, e 187-octies»;
                         b)
@@ -1160,7 +1160,7 @@ All'[articolo 73 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Uni
 
 13.
 
-All'[articolo 74 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 74 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, sono inserite le seguenti parole: «e puo' adottare ogni misura per garantire il rispetto degli obblighi previsti dal presente capo» ed e' aggiunto, in fine, il seguente periodo: «A tale fine, agli operatori ammessi alle negoziazioni nei mercati regolamentati, diversi dai soggetti abilitati, si applicano gli articoli 8, comma 1 e 10, comma 1.»;
                         b)
@@ -1169,7 +1169,7 @@ All'[articolo 74 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Uni
 
 14.
 
-All'[articolo 75 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 75 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             il comma 2 e' sostituito dal seguente:
  «2. La Consob puo' revocare l'autorizzazione prevista dall'articolo 63 quando:
@@ -1186,7 +1186,7 @@ All'[articolo 75 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Uni
 
 15.
 
-All'[articolo 76 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 76 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, le parole «Essa si avvale dei poteri previsti dall'articolo 74» sono sostituite dalle seguenti: «Agli operatori ammessi alle negoziazioni nei mercati all'ingrosso dei titoli di Stato, diversi dai soggetti abilitati, si applicano gli articoli 8, comma 1 e 10, comma 1»;
                         b)
@@ -1198,7 +1198,7 @@ La Banca d'Italia puo' autorizzare revisori dei conti o esperti a procedere a ve
 
 16.
 
-L'[articolo 77 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' sostituito dal seguente:
+L'[articolo 77 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' sostituito dal seguente:
  «Art. 77 (Vigilanza sui sistemi di compensazione, di liquidazione e di garanzia). - 1. La vigilanza sui sistemi indicati negli articoli 68, 69 e 70 e sui soggetti che li gestiscono e' esercitata dalla Banca d'Italia, avendo riguardo alla stabilita' e al contenimento del rischio sistemico e dalla Consob, avendo riguardo alla trasparenza e alla tutela degli investitori. A tale fine la Banca d'Italia e la Consob possono richiedere ai gestori dei sistemi e agli operatori la comunicazione anche periodica di dati, notizie, atti e documenti in ordine alla compensazione, liquidazione e garanzia delle operazioni ed effettuare ispezioni.
  2. In caso di necessita' e urgenza, la Banca d'Italia adotta, per le finalita' indicate al comma 1, i provvedimenti necessari, anche sostituendosi alle societa' di gestione dei sistemi e dei servizi indicati negli articoli 69 e 70.
  3. Ai gestori dei sistemi e dei servizi indicati negli articoli 68, 69 e 70 si applica l'articolo 83.».
@@ -1340,11 +1340,11 @@ Note all'art. 11:
 
 1.
 
-La rubrica del capo II del titolo I della parte III del [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' sostituita dalla seguente: «Sistemi di negoziazione diversi dai mercati regolamentati».
+La rubrica del capo II del titolo I della parte III del [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' sostituita dalla seguente: «Sistemi di negoziazione diversi dai mercati regolamentati».
 
 2.
 
-Nel capo II del titolo I della parte III del [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' inserito il seguente articolo:
+Nel capo II del titolo I della parte III del [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' inserito il seguente articolo:
  «Art. 77-bis (Sistemi multilaterali di negoziazione). - 1. La Consob individua con proprio regolamento i requisiti minimi di funzionamento dei sistemi multilaterali di negoziazione, ivi inclusi gli obblighi dei loro gestori in materia di:
  a) processo di negoziazione e finalizzazione di operazioni;
  b) ammissione di strumenti finanziari;
@@ -1362,13 +1362,13 @@ Nel capo II del titolo I della parte III del [decreto legislativo 24 febbraio 19
 
 3.
 
-L'[articolo 78 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' sostituito dal seguente:
+L'[articolo 78 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' sostituito dal seguente:
  «Art. 78 (Internalizzatori sistematici). - 1. La Consob puo' chiedere agli internalizzatori sistematici l'esclusione o la sospensione degli scambi sugli strumenti finanziari ammessi alle negoziazioni sui mercati regolamentati e per i quali essi risultano internalizzatori sistematici.
  2. La Consob disciplina con regolamento i criteri per l'individuazione degli internalizzatori sistematici e i loro obblighi in materia di pubblicazione di quotazioni, esecuzione di ordini e accesso alle quotazioni.».
 
 4.
 
-L'[articolo 79 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' sostituito dal seguente:
+L'[articolo 79 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' sostituito dal seguente:
  «Art. 79 (Sistemi multilaterali di scambio di depositi monetari in euro). - 1. La Banca d'Italia vigila sull'efficienza e sul buon funzionamento dei sistemi multilaterali di scambio di depositi monetari in euro, nonche' sui soggetti gestori.
  2. La Banca d'Italia, con le modalita' e nei termini da essa stabiliti, puo' richiedere la comunicazione anche periodica di dati, notizie, atti e documenti ai soggetti gestori e agli operatori. La Banca d'Italia puo' eseguire ispezioni presso i medesimi soggetti gestori e richiedere l'esibizione di documenti e il compimento degli atti ritenuti necessari. Gli stessi poteri possono essere esercitati anche nei confronti di altri soggetti coinvolti nell'attivita' del soggetto abilitato. A tale fine, la Banca d'Italia puo' procedere anche ad audizioni personali. La Banca d'Italia puo' autorizzare i revisori dei conti o gli esperti a procedere a verifiche presso i soggetti gestori; le relative spese sono poste a carico del soggetto ispezionato.
  3. I soggetti gestori di sistemi multilaterali di scambio di depositi monetari in euro possono gestire anche sistemi multilaterali di negoziazione di strumenti finanziari derivati su tassi di interesse e valute.
@@ -1378,7 +1378,7 @@ L'[articolo 79 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici
 
 1.
 
-Dopo il capo II del titolo I della parte III del [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' inserito il seguente:
+Dopo il capo II del titolo I della parte III del [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' inserito il seguente:
 
  «Capo II-bis
 
@@ -1394,7 +1394,7 @@ Disposizioni comuni Art. 79-bis (Requisiti di trasparenza). - 1. Al fine di gara
 
 1.
 
-All'[articolo 80 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 80 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 3, le parole: «il capitale minimo» sono sostituite dalle seguenti: «le risorse finanziarie e i requisiti di organizzazione»;
                         b)
@@ -1404,11 +1404,11 @@ All'[articolo 80 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Uni
 
 2.
 
-Al [comma 2 dell'articolo 81 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), dopo le parole: «le modalita' di svolgimento» sono inserite le seguenti: «, i criteri per l'ammissione alla gestione accentrata dei soggetti e degli strumenti finanziari, sulla base di principi non discriminatori, trasparenti e obiettivi,».
+Al [comma 2 dell'articolo 81 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), dopo le parole: «le modalita' di svolgimento» sono inserite le seguenti: «, i criteri per l'ammissione alla gestione accentrata dei soggetti e degli strumenti finanziari, sulla base di principi non discriminatori, trasparenti e obiettivi,».
 
 3.
 
-Il [comma 1 dell'articolo 82 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' sostituito dal seguente:
+Il [comma 1 dell'articolo 82 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' sostituito dal seguente:
  «1. La vigilanza sulle societa' di gestione accentrata e' esercitata dalla Consob, al fine di assicurare la trasparenza e la tutela degli investitori, e dalla Banca d'Italia, avendo riguardo alla stabilita' e al contenimento del rischio sistemico. La Consob e la Banca d'Italia possono chiedere alle societa' la comunicazione anche periodica di dati, notizie, atti e documenti, nonche' eseguire ispezioni e richiedere l'esibizione di documenti e il compimento degli atti ritenuti necessari, indicandone modalita' e termini.».
 
 Nota all'art. 14:
@@ -1438,12 +1438,12 @@ Nota all'art. 14:
 
 1.
 
-La [lettera a) del comma 1 dell'articolo 93-bis del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' sostituita dalla seguente:
+La [lettera a) del comma 1 dell'articolo 93-bis del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' sostituita dalla seguente:
  «a) "strumenti finanziari comunitari": i valuti mobiliari e le quote di fondi chiusi;».
 
 2.
 
-All'[articolo 100-bis del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 100-bis del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, le parole «una sollecitazione» sono sostituite dalle seguenti: «un'offerta al pubblico»;
                         b)
@@ -1473,7 +1473,7 @@ Nota all'art. 15:
 
 1.
 
-All'[articolo 166 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 166 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             alla lettera a) del comma 1, dopo le parole: «svolge servizi» sono inserite le seguenti: «o attivita»;
                         b)
@@ -1483,11 +1483,11 @@ All'[articolo 166 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Un
 
 2.
 
-All'[articolo 167 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), le parole: «di investimento su base individuale» sono soppresse.
+All'[articolo 167 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), le parole: «di investimento su base individuale» sono soppresse.
 
 3.
 
-All'[articolo 168 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), dopo le parole: «nell'esercizio di servizi» sono inserite le seguenti: «o attivita».
+All'[articolo 168 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), dopo le parole: «nell'esercizio di servizi» sono inserite le seguenti: «o attivita».
 
 4.
 
@@ -1495,7 +1495,7 @@ Al [comma 1 dell'articolo 188 del decreto legislativo 21 febbraio 1998, n. 58](h
 
 5.
 
-All'[articolo 190 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 190 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, dopo le parole: «dipendenti di societa' o enti» e' inserita la seguente: «abilitati»;
                         b)
@@ -1510,7 +1510,7 @@ All'[articolo 190 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Un
                         f)
                             al comma 2, dopo la lettera d-bis), e' aggiunta, in fine, la seguente:
  «d-ter) agli operatori ammessi alle negoziazioni nei mercati regolamentati in caso di inosservanza delle disposizioni previste dall'articolo 25, comma 3.».
- 6) All'[articolo 195 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+ 6) All'[articolo 195 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
  a) al comma 1, dopo le parole: «degli addebiti agli interessati» sono inserite le seguenti: «, da effettuarsi entro centottanta giorni dall'accertamento ovvero entro trecentosessanta giorni se l'interessato risiede o ha la sede all'estero,»;
  b) al comma 3, sono aggiunte, in fine, le seguenti parole: «, ovvero escludere la pubblicita' del provvedimento, quando la stessa possa mettere gravemente a rischio i mercati finanziari o arrecare un danno sproporzionato alle parti»;
  c) al comma 4, le parole: «sede la societa' o l'ente cui appartiene» sono sostituite dalle seguenti: «la sede o, nel caso di persone fisiche, il domicilio».
@@ -1552,7 +1552,7 @@ Nota all'art. 16:
 
 1.
 
-All'[articolo 201 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 201 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             il comma 7 e' sostituito dal seguente:
  «7. Gli agenti di cambio iscritti nel ruolo unico nazionale possono svolgere i servizi di investimento indicati nell'articolo 1, comma 5, lettere b), c-bis), d), e) ed f). Essi possono svolgere altresi' l'offerta fuori sede dei propri servizi di investimento e i servizi accessori indicati nell'articolo 1, comma 6, lettere c), limitatamente alla conclusione di contratti di riporto e altre operazioni in uso sui mercati, e g), nonche' attivita' connesse e strumentali, ferme restando le riserve di attivita' previste dalla legge.»;
@@ -1561,7 +1561,7 @@ All'[articolo 201 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Un
 
 2.
 
-All'[articolo 205 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), le parole: «o negli scambi organizzati indicati negli articoli 78 e 79 da soggetti ammessi alle negoziazioni negli stessi» sono sostituite dalle seguenti: «e, se ricorrono le condizioni indicate dalla Consob con regolamento, quelle effettuate nei sistemi multilaterali di negoziazione o da internalizzatori sistematici».
+All'[articolo 205 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), le parole: «o negli scambi organizzati indicati negli articoli 78 e 79 da soggetti ammessi alle negoziazioni negli stessi» sono sostituite dalle seguenti: «e, se ricorrono le condizioni indicate dalla Consob con regolamento, quelle effettuate nei sistemi multilaterali di negoziazione o da internalizzatori sistematici».
 
 Nota all'art. 17:
  - Si riporta il testo degli articoli 201 e 205 del citato [decreto legislativo n. 58 del 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58), come modificato dal presente decreto:
@@ -1589,7 +1589,7 @@ Nota all'art. 17:
 
 1.
 
-L'allegato al [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' sostituito dal seguente:
+L'allegato al [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' sostituito dal seguente:
  «Sezione A - Attivita' e servizi di investimento.
  (1) Ricezione e trasmissione di ordini riguardanti uno o piu' strumenti finanziari.
  (2) Esecuzione di ordini per conto dei clienti.
@@ -1627,35 +1627,35 @@ Le disposizioni del presente decreto entrano in vigore il 1° novembre 2007.
 
 2.
 
-Le SIM e le banche autorizzate in Italia alla data del 31 ottobre 2007 alla prestazione del servizio di negoziazione per conto proprio si intendono autorizzate alla prestazione dei servizi e delle attivita' di cui all'[articolo 1, comma 5, lettere a)](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) e [b), del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md). Gli intermediari finanziari iscritti nell'elenco previsto dall'[articolo 107 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_107), al ricorrere delle medesime condizioni, si intendono autorizzati alla prestazione dei servizi e delle attivita' di cui all'[articolo 1, comma 5, lettere a)](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) e [b), del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), limitatamente agli strumenti finanziari derivati.
+Le SIM e le banche autorizzate in Italia alla data del 31 ottobre 2007 alla prestazione del servizio di negoziazione per conto proprio si intendono autorizzate alla prestazione dei servizi e delle attivita' di cui all'[articolo 1, comma 5, lettere a)](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) e [b), del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md). Gli intermediari finanziari iscritti nell'elenco previsto dall'[articolo 107 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_107), al ricorrere delle medesime condizioni, si intendono autorizzati alla prestazione dei servizi e delle attivita' di cui all'[articolo 1, comma 5, lettere a)](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) e [b), del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), limitatamente agli strumenti finanziari derivati.
 
 3.
 
-Le SIM e le banche autorizzate in Italia alla data del 31 ottobre 2007 alla prestazione del servizio di negoziazione per conto terzi si intendono autorizzate alla prestazione del servizio di cui all'[articolo 1, comma 5, lettera b), del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md).
+Le SIM e le banche autorizzate in Italia alla data del 31 ottobre 2007 alla prestazione del servizio di negoziazione per conto terzi si intendono autorizzate alla prestazione del servizio di cui all'[articolo 1, comma 5, lettera b), del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md).
 
 4.
 
-Le SIM, gli intermediari finanziari iscritti nell'elenco previsto dall'[articolo 107 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_107), e le banche autorizzate in Italia alla data del 31 ottobre 2007 alla prestazione del servizio di collocamento, con preventiva sottoscrizione o acquisto a fermo, ovvero assunzione di garanzia nei confronti dell'emittente, si intendono autorizzate alla prestazione del servizio di cui all'[articolo 1, comma 5, lettera c), del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md).
+Le SIM, gli intermediari finanziari iscritti nell'elenco previsto dall'[articolo 107 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_107), e le banche autorizzate in Italia alla data del 31 ottobre 2007 alla prestazione del servizio di collocamento, con preventiva sottoscrizione o acquisto a fermo, ovvero assunzione di garanzia nei confronti dell'emittente, si intendono autorizzate alla prestazione del servizio di cui all'[articolo 1, comma 5, lettera c), del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md).
 
 5.
 
-Le SIM, gli intermediari finanziari iscritti nell'elenco previsto dall'[articolo 107 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_107), e le banche autorizzate in Italia alla data del 31 ottobre 2007 alla prestazione del servizio di collocamento, senza preventiva sottoscrizione o acquisto a fermo, ovvero assunzione di garanzia nei confronti dell'emittente, si intendono autorizzate alla prestazione del servizio di cui all'[articolo 1, comma 5, lettera c-bis), del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md).
+Le SIM, gli intermediari finanziari iscritti nell'elenco previsto dall'[articolo 107 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_107), e le banche autorizzate in Italia alla data del 31 ottobre 2007 alla prestazione del servizio di collocamento, senza preventiva sottoscrizione o acquisto a fermo, ovvero assunzione di garanzia nei confronti dell'emittente, si intendono autorizzate alla prestazione del servizio di cui all'[articolo 1, comma 5, lettera c-bis), del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md).
 
 6.
 
-Le SIM e le banche autorizzate in Italia alla data del 31 ottobre 2007 alla prestazione del servizio di gestione su base individuale di portafogli di investimento per conto terzi si intendono autorizzate alla prestazione del servizio di cui all'[articolo 1, comma 5, lettera d), del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md).
+Le SIM e le banche autorizzate in Italia alla data del 31 ottobre 2007 alla prestazione del servizio di gestione su base individuale di portafogli di investimento per conto terzi si intendono autorizzate alla prestazione del servizio di cui all'[articolo 1, comma 5, lettera d), del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md).
 
 7.
 
-Le SIM e le banche autorizzate in Italia alla data del 31 ottobre 2007 alla prestazione del servizio di ricezione e trasmissione di ordini nonche' mediazione si intendono autorizzate alla prestazione del servizio di cui all'[articolo 1, comma 5, lettera e), del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md).
+Le SIM e le banche autorizzate in Italia alla data del 31 ottobre 2007 alla prestazione del servizio di ricezione e trasmissione di ordini nonche' mediazione si intendono autorizzate alla prestazione del servizio di cui all'[articolo 1, comma 5, lettera e), del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md).
 
 8.
 
-Le SIM e le banche autorizzate in Italia alla prestazione di uno o piu' servizi di investimento alla data del 31 ottobre 2007 si intendono autorizzate alla prestazione del servizio di cui all'[articolo 1, comma 5, lettera f), del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md).
+Le SIM e le banche autorizzate in Italia alla prestazione di uno o piu' servizi di investimento alla data del 31 ottobre 2007 si intendono autorizzate alla prestazione del servizio di cui all'[articolo 1, comma 5, lettera f), del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md).
 
 9.
 
-Le SGR autorizzate in Italia alla data del 31 ottobre 2007 si intendono autorizzate alla prestazione del servizio di cui all'[articolo 1, comma 5, lettera f), del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md).
+Le SGR autorizzate in Italia alla data del 31 ottobre 2007 si intendono autorizzate alla prestazione del servizio di cui all'[articolo 1, comma 5, lettera f), del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md).
 
 10.
 
@@ -1663,7 +1663,7 @@ Le SIM, le SGR e le banche autorizzate in Italia alla data del 31 ottobre 2007 c
 
 11.
 
-Le societa' di gestione dei mercati regolamentati autorizzati in Italia alla data del 31 ottobre 2007 si intendono autorizzate all'esercizio dei mercati regolamentati di cui all'[articolo 63, commi 1](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) e [3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e all'[articolo 66, comma 1, del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md).
+Le societa' di gestione dei mercati regolamentati autorizzati in Italia alla data del 31 ottobre 2007 si intendono autorizzate all'esercizio dei mercati regolamentati di cui all'[articolo 63, commi 1](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) e [3](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e all'[articolo 66, comma 1, del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md).
 
 12.
 
@@ -1675,11 +1675,11 @@ I soggetti abilitati adeguano entro il 30 giugno 2008 i contratti in essere al 1
 
 14.
 
-Fino al trasferimento delle funzioni di cui all'[articolo 1, comma 36, della legge 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), e comunque non oltre il 31 dicembre 2017, la riserva di attivita' di cui all'articolo 18 del testo unico di cui al [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), non pregiudica la possibilita' per i soggetti che, alla data del 31 ottobre 2007, prestano la consulenza in materia di investimenti, di continuare a svolgere il servizio di cui all'[articolo 1, comma 5, lettera f), del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), senza detenere somme di denaro o strumenti finanziari di pertinenza dei clienti. (6) (7a) (7) (8)((14))
+Fino al trasferimento delle funzioni di cui all'[articolo 1, comma 36, della legge 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), e comunque non oltre il 31 dicembre 2017, la riserva di attivita' di cui all'articolo 18 del testo unico di cui al [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), non pregiudica la possibilita' per i soggetti che, alla data del 31 ottobre 2007, prestano la consulenza in materia di investimenti, di continuare a svolgere il servizio di cui all'[articolo 1, comma 5, lettera f), del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), senza detenere somme di denaro o strumenti finanziari di pertinenza dei clienti. (6) (7a) (7) (8)((14))
 
 14-bis.
 
-Il Ministro dell'economia e delle finanze con proprio decreto, adottato sentite la Banca d'Italia e la Consob, nomina, in sede di prima applicazione, i membri dell'organismo di cui all'[articolo 18-bis del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), fissando la durata in carica, i compensi e le attribuzioni. Alle relative spese provvede l'organismo mediante le risorse derivanti dai contributi e dalle altre somme versati dagli iscritti.
+Il Ministro dell'economia e delle finanze con proprio decreto, adottato sentite la Banca d'Italia e la Consob, nomina, in sede di prima applicazione, i membri dell'organismo di cui all'[articolo 18-bis del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), fissando la durata in carica, i compensi e le attribuzioni. Alle relative spese provvede l'organismo mediante le risorse derivanti dai contributi e dalle altre somme versati dagli iscritti.
 
 ---------------
 
@@ -1710,7 +1710,7 @@ La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disp
 
 AGGIORNAMENTO (14)
 
-La [L. 5 marzo 2024, n. 21](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Interventi%20a%20sostegno%20della%20competitivita%20dei%20capitali%20e%20delega%20al%20Governo%20per%20la%20riforma%20organica%20delle%20disposizioni%20in%20materia%20di%20mercati%20dei%20capitali%20recate%20dal%20testo%20unico%20di%20cui%20al%20d_fbf63f0889e7.md), ha disposto (con l'art. 24, comma 1) che "Il [comma 14 dell'articolo 19 del decreto legislativo 17 settembre 2007, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202004-39-CE%20relativa%20ai%20mercati%20degli%20strumenti%20finanziari%20che%20modifica%20le%20direttive%2085-611-CEE%2093-6-CEE%20e%202000-12-CE%20e%20abroga%20la%20direttiva%2093-22-CEE.md), si intende riferito a tutti i soggetti in possesso dei requisiti di accesso all'Albo dei promotori finanziari di cui all'articolo 4 del regolamento di cui al [decreto del Ministro del tesoro, del bilancio e della programmazione economica 11 novembre 1998, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.tesoro.bilancio.programmazione.economica:decreto:1998-11-11;472), nel periodo precedente al trasferimento delle funzioni di tenuta dell'albo unico dei consulenti finanziari dalla Consob all'Organismo di vigilanza e tenuta dell'albo unico dei consulenti finanziari di cui all'articolo 31, comma 4, del testo unico di cui al [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md)".
+La [L. 5 marzo 2024, n. 21](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Interventi%20a%20sostegno%20della%20competitivita%20dei%20capitali%20e%20delega%20al%20Governo%20per%20la%20riforma%20organica%20delle%20disposizioni%20in%20materia%20di%20mercati%20dei%20capitali%20recate%20dal%20testo%20unico%20di%20cui%20al%20d_fbf63f0889e7.md), ha disposto (con l'art. 24, comma 1) che "Il [comma 14 dell'articolo 19 del decreto legislativo 17 settembre 2007, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202004-39-CE%20relativa%20ai%20mercati%20degli%20strumenti%20finanziari%20che%20modifica%20le%20direttive%2085-611-CEE%2093-6-CEE%20e%202000-12-CE%20e%20abroga%20la%20direttiva%2093-22-CEE.md), si intende riferito a tutti i soggetti in possesso dei requisiti di accesso all'Albo dei promotori finanziari di cui all'articolo 4 del regolamento di cui al [decreto del Ministro del tesoro, del bilancio e della programmazione economica 11 novembre 1998, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.tesoro.bilancio.programmazione.economica:decreto:1998-11-11;472), nel periodo precedente al trasferimento delle funzioni di tenuta dell'albo unico dei consulenti finanziari dalla Consob all'Organismo di vigilanza e tenuta dell'albo unico dei consulenti finanziari di cui all'articolo 31, comma 4, del testo unico di cui al [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md)".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

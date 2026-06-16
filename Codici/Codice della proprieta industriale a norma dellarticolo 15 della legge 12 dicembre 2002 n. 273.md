@@ -1331,7 +1331,7 @@ La facolta' esclusiva attribuita dal diritto di brevetto non si estende, quale c
                             c)
                                 alla preparazione estemporanea, e per unita', di medicinali nelle farmacie su ricetta medica, e ai medicinali cosi' preparati ((...)).
                             c-bis)
-                                all'utilizzazione dell'invenzione brevettata a bordo di navi di altri Paesi dell'Unione internazionale per la protezione della proprieta' industriale (Unione di Parigi) o di membri dell'Organizzazione mondiale del commercio, diversi dall'Italia, nel corpo della nave in questione, nelle macchine, nel sartiame, nell'attrezzatura e negli altri accessori, quando tali navi entrino temporaneamente o accidentalmente nelle acque italiane, purche' l'invenzione sia utilizzata esclusivamente per le esigenze della nave, ovvero all'utilizzazione dell'invenzione brevettata nella costruzione o ai fini del funzionamento di aeromobili o di veicoli terrestri o altri mezzi di trasporto di altri Paesi dell'Unione internazionale per la protezione della proprieta' industriale (Unione di Parigi) o di membri dell'Organizzazione mondiale del commercio, diversi dall'Italia, oppure degli accessori di tali aeromobili o veicoli terrestri, quando questi entrino temporaneamente o accidentalmente nel territorio italiano, ferme restando le disposizioni del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e quelle della Convenzione internazionale per l'aviazione civile, stipulata a Chicago il 7 dicembre 1944, resa esecutiva ai sensi del [decreto legislativo 6 marzo 1948, n. 616](../Decreti%20Legislativi/Approvazione%20della%20Convenzione%20internazionale%20per%20laviazione%20civile%20stipulata%20a%20Chicago%20il%207%20dicembre%201944.md), ratificato con [legge 17 aprile 1956, n. 561](../Leggi%20di%20ratifica/Ratifica%20ai%20sensi%20dellart.%206%20del%20decreto%20legislativo%20luogotenenziale%2016%20marzo%201946%20n.%2098%20di%20decreti%20legislativi%20emanati%20dal%20Governo%20durante%20il%20periodo%20della%20Costituente.md);
+                                all'utilizzazione dell'invenzione brevettata a bordo di navi di altri Paesi dell'Unione internazionale per la protezione della proprieta' industriale (Unione di Parigi) o di membri dell'Organizzazione mondiale del commercio, diversi dall'Italia, nel corpo della nave in questione, nelle macchine, nel sartiame, nell'attrezzatura e negli altri accessori, quando tali navi entrino temporaneamente o accidentalmente nelle acque italiane, purche' l'invenzione sia utilizzata esclusivamente per le esigenze della nave, ovvero all'utilizzazione dell'invenzione brevettata nella costruzione o ai fini del funzionamento di aeromobili o di veicoli terrestri o altri mezzi di trasporto di altri Paesi dell'Unione internazionale per la protezione della proprieta' industriale (Unione di Parigi) o di membri dell'Organizzazione mondiale del commercio, diversi dall'Italia, oppure degli accessori di tali aeromobili o veicoli terrestri, quando questi entrino temporaneamente o accidentalmente nel territorio italiano, ferme restando le disposizioni del [codice della navigazione](Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e quelle della Convenzione internazionale per l'aviazione civile, stipulata a Chicago il 7 dicembre 1944, resa esecutiva ai sensi del [decreto legislativo 6 marzo 1948, n. 616](../Decreti%20Legislativi/Approvazione%20della%20Convenzione%20internazionale%20per%20laviazione%20civile%20stipulata%20a%20Chicago%20il%207%20dicembre%201944.md), ratificato con [legge 17 aprile 1956, n. 561](../Leggi%20di%20ratifica/Ratifica%20ai%20sensi%20dellart.%206%20del%20decreto%20legislativo%20luogotenenziale%2016%20marzo%201946%20n.%2098%20di%20decreti%20legislativi%20emanati%20dal%20Governo%20durante%20il%20periodo%20della%20Costituente.md);
                             c-ter)
                                 agli atti consentiti ai sensi degli [articoli 64-ter](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633#art_64ter) e [64-quater della legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633#art_64quater), e alle utilizzazioni ivi consentite delle informazioni cosi' legittimamente ottenute.
 
@@ -2650,11 +2650,11 @@ Ai fini di cui al comma 1-bis, il giudice considera altresi' se le informazioni 
 
 1.
 
-Salva l'applicazione degli [articoli 473](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [474](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [517 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), chiunque fabbrica, vende, espone, adopera industrialmente, introduce nello Stato oggetti in violazione di un titolo di proprieta' industriale valido ai sensi delle norme del presente codice, e' punito, a querela di parte, con la multa fino a 1.032,91 euro. (8)
+Salva l'applicazione degli [articoli 473](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [474](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [517 del codice penale](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), chiunque fabbrica, vende, espone, adopera industrialmente, introduce nello Stato oggetti in violazione di un titolo di proprieta' industriale valido ai sensi delle norme del presente codice, e' punito, a querela di parte, con la multa fino a 1.032,91 euro. (8)
 
 1-bis.
 
-Chiunque si rifiuti senza giustificato motivo di rispondere alle domande del giudice ai sensi dell'articolo 121-bis ovvero fornisce allo stesso false informazioni e' punito con le pene previste dall'[articolo 372 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ridotte della meta'.
+Chiunque si rifiuti senza giustificato motivo di rispondere alle domande del giudice ai sensi dell'articolo 121-bis ovvero fornisce allo stesso false informazioni e' punito con le pene previste dall'[articolo 372 del codice penale](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ridotte della meta'.
 
 2.
 
@@ -2893,7 +2893,7 @@ Il ricorrente, entro il termine perentorio di trenta giorni dall'ultima notifica
 
 2.
 
-Insieme al ricorso deve presentarsi la prova del pagamento del contributo unificato di cui all'[articolo 9 del decreto del Presidente della Repubblica 30 maggio 2002, n. 115](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md).
+Insieme al ricorso deve presentarsi la prova del pagamento del contributo unificato di cui all'[articolo 9 del decreto del Presidente della Repubblica 30 maggio 2002, n. 115](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md).
 
 3.
 
@@ -3429,7 +3429,7 @@ Il decreto di espropriazione nell'interesse della difesa militare del Paese, qua
 
 3.
 
-La violazione del segreto e' punita ai sensi dell'[articolo 262 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+La violazione del segreto e' punita ai sensi dell'[articolo 262 del codice penale](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 4.
 
@@ -5264,7 +5264,7 @@ L'obbligo del segreto cessa qualora il Ministero della difesa lo consenta.
 
 14.
 
-La violazione del segreto e' punita ai termini dell'[articolo 262 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+La violazione del segreto e' punita ai termini dell'[articolo 262 del codice penale](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 15.
 
@@ -6178,7 +6178,7 @@ Sono abrogate le seguenti disposizioni:
                             f)
                                 il [decreto del Presidente della Repubblica 8 maggio 1948, n. 795](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20marchi%20di%20impresa.md);
                             g)
-                                l'[articolo 34 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md);
+                                l'[articolo 34 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md);
                             h)
                                 il [decreto del Presidente della Repubblica 30 giugno 1972, n. 540](../Atti%20normativi%20abrogati%20%28in%20originale%29/Semplificazione%20dei%20procedimenti%20amministrativi%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali%20modelli%20industriali%20e%20marchi%20di%20impresa.md);
                             i)

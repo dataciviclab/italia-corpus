@@ -24,7 +24,7 @@ Capo I
 
 1.
 
-L'Arma dei carabinieri espleta i compiti previsti dal presente decreto, dal [regio decreto 14 giugno 1934, n. 1169](../Regi%20decreti/Approvazione%20del%20regolamento%20organico%20per%20larma%20dei%20carabinieri.%20034U1169.md), e successive modificazioni, nonche' da altre leggi e regolamenti vigenti.
+L'Arma dei carabinieri espleta i compiti previsti dal presente decreto, dal [regio decreto 14 giugno 1934, n. 1169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-06-14;1169), e successive modificazioni, nonche' da altre leggi e regolamenti vigenti.
 
 2.
 

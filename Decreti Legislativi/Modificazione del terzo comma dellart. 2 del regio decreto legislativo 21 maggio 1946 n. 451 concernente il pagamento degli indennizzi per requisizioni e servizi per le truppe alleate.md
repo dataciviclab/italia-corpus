@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Al [comma 3, dell'art. 2 del regio decreto legislativo 21 maggio 1946, n. 451](../Regi%20decreti%20legislativi/Norme%20concernenti%20il%20pagamento%20degli%20indennizzi%20per%20requisizioni%20e%20servizi%20per%20le%20truppe%20Alleate.md), le parole: "presso la Direzione generale del tesoro" sono sostituite dalle parole: "presso la Direzione generale per il risarcimento dei danni di guerra".
+Al [comma 3, dell'art. 2 del regio decreto legislativo 21 maggio 1946, n. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-21;451#art_2-com3), le parole: "presso la Direzione generale del tesoro" sono sostituite dalle parole: "presso la Direzione generale per il risarcimento dei danni di guerra".
 
 ## Art. 2.
 

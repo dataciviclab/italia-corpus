@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-L'ultimo comma dell'[art. 1 del regio decreto legislativo 29 maggio 1946, n. 488](../Regi%20decreti%20legislativi/Modificazioni%20delle%20disposizioni%20vigenti%20per%20la%20liquidazione%20della%20indennita%20di%20carovita%20e%20per%20la%20concessione%20dellindennita%20ai%20dipendenti%20statali%20residenti%20in%20Comuni%20distrutti%20o%20gravement_f04ea74b5da4.md), e' abrogato.
+L'ultimo comma dell'[art. 1 del regio decreto legislativo 29 maggio 1946, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-29;488#art_1), e' abrogato.
 
 ## Art. 2.
 

@@ -18,7 +18,7 @@ Visto l'articolo 17, comma 11, della stessa [legge n. 449 del 1997](https://www.
 
 Visto l'[articolo 17, comma 12, della legge 27 dicembre 1997, n. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md), che prevede l'emanazione di un decreto del Presidente del Consiglio dei Ministri, sentita la Conferenza permanente per i rapporti fra lo Stato, le regioni e le province autonome di Trento e di Bolzano, per disciplinare in modo uniforme il rapporto tra i tabaccai e le regioni;
 
-Visto il [decreto del Ministro delle finanze 25 novembre 1998, n. 418](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20per%20il%20trasferimento%20alle%20regioni%20a%20statuto%20ordinario%20delle%20funzioni%20in%20materia%20di%20riscossione%20accertamento%20recupero%20rimborsi%20e%20contenzioso%20relative%20alle%20tasse%20a_5a617f92821d.md), concernente "Regolamento recante norme per il trasferimento alle regioni a statuto ordinario delle funzioni in materia di riscossione, accertamento, recupero, rimborsi e contenzioso relative alle tasse automobilistiche non erariali";
+Visto il [decreto del Ministro delle finanze 25 novembre 1998, n. 418](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze:decreto:1998-11-25;418), concernente "Regolamento recante norme per il trasferimento alle regioni a statuto ordinario delle funzioni in materia di riscossione, accertamento, recupero, rimborsi e contenzioso relative alle tasse automobilistiche non erariali";
 
 Visti gli [articoli 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-12-22;1293#art_28) e [31 della legge 22 dicembre 1957, n. 1293](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-12-22;1293#art_31);
 

@@ -18,9 +18,9 @@ In virtu' dell'autorita' a Noi delegata;
 
 Vista la [legge 6 agosto 1926, n. 1365](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-08-06;1365), sul conferimento dei posti notarili;
 
-Visto il [R. decreto 14 novembre 1926, n. 1953](../Regi%20decreti/Disposizioni%20sul%20conferimento%20dei%20posti%20di%20notaro.%20026U1953.md), che contiene disposizioni per la esecuzione di detta legge;
+Visto il [R. decreto 14 novembre 1926, n. 1953](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;1953), che contiene disposizioni per la esecuzione di detta legge;
 
-Visti i [Regi decreti 22 dicembre 1932, n. 1728](../Regi%20decreti/Modificazioni%20alle%20disposizioni%20regolamentari%20sul%20conferimento%20dei%20posti%20di%20notaro.%20032U1728.md), e [7 aprile 1941, n. 358](../Regi%20decreti/Modificazioni%20alle%20disposizioni%20regolamentari%20sul%20conferimento%20dei%20posti%20di%20notaro.%20041U0358.md), che hanno modificato le disposizioni stesse;
+Visti i [Regi decreti 22 dicembre 1932, n. 1728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-12-22;1728), e [7 aprile 1941, n. 358](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-04-07;358), che hanno modificato le disposizioni stesse;
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -32,7 +32,7 @@ Sulla proposta del Ministro per la grazia e giustizia, d'intesa col Ministro per
 
 ## Articolo unico.
 
-E' elevato a giorni sessanta il termine perentorio entro il quale devono farsi pervenire al Ministero le domande e le quietanze relative a concorsi per trasferimento fra notai in esercizio, di cui all'[art. 1 del R. decreto 7 aprile 1941, n. 358](../Regi%20decreti/Modificazioni%20alle%20disposizioni%20regolamentari%20sul%20conferimento%20dei%20posti%20di%20notaro.%20041U0358.md).
+E' elevato a giorni sessanta il termine perentorio entro il quale devono farsi pervenire al Ministero le domande e le quietanze relative a concorsi per trasferimento fra notai in esercizio, di cui all'[art. 1 del R. decreto 7 aprile 1941, n. 358](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-04-07;358#art_1).
 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

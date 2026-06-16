@@ -24,9 +24,9 @@ Visto il [decreto legislativo 3 agosto 1998, n. 314](Attuazione%20della%20dirett
 
 Visto il [decreto del Presidente della Repubblica 8 aprile 1968, n. 777](../DPR/Esecuzione%20della%20convenzione%20internazionale%20sulla%20linea%20di%20massimo%20carico%20adottata%20a%20Londra%20il%205%20aprile%201966.md);
 
-Visto il [decreto del Presidente della Repubblica 8 novembre 1991, n. 435](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20della%20navigazione%20e%20della%20vita%20umana%20in%20mare_2.md);
+Visto il [decreto del Presidente della Repubblica 8 novembre 1991, n. 435](../DPR/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20della%20navigazione%20e%20della%20vita%20umana%20in%20mare_2.md);
 
-Visto il [decreto del Presidente della Repubblica 16 aprile 1997, n. 293](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20la%20disciplina%20delle%20nuove%20unita%20veloci%20di%20navigazione%20nazionale%20o%20minore.md);
+Visto il [decreto del Presidente della Repubblica 16 aprile 1997, n. 293](../DPR/Regolamento%20recante%20norme%20per%20la%20disciplina%20delle%20nuove%20unita%20veloci%20di%20navigazione%20nazionale%20o%20minore.md);
 
 Visto il [decreto del Presidente della Repubblica 6 ottobre 1999, n. 407](Regolamento%20recante%20norme%20di%20attuazione%20delle%20direttive%2096-98-CE%20e%2098-85-CE%20relative%20allequipaggiamento%20marittimo.md);
 
@@ -217,7 +217,7 @@ Per quanto riguarda le navi da passeggeri esistenti:
                         b)
                             le navi da passeggeri esistenti di classe B devono essere conformi ai pertinenti requisiti specifici fissati nel presente decreto e nell'allegato I;
                         c)
-                            le navi da passeggeri esistenti delle classi C e D devono essere conformi ai pertinenti requisiti specifici fissati dal presente decreto ((e dall'allegato I, con esclusione dei Capitoli II-1 e II-2)), nonche' dalla [legge 5 giugno 1962, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-06-05;616) e dal [decreto del Presidente della Repubblica 8 novembre 1991, n. 435](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20della%20navigazione%20e%20della%20vita%20umana%20in%20mare_2.md).
+                            le navi da passeggeri esistenti delle classi C e D devono essere conformi ai pertinenti requisiti specifici fissati dal presente decreto ((e dall'allegato I, con esclusione dei Capitoli II-1 e II-2)), nonche' dalla [legge 5 giugno 1962, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-06-05;616) e dal [decreto del Presidente della Repubblica 8 novembre 1991, n. 435](../DPR/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20della%20navigazione%20e%20della%20vita%20umana%20in%20mare_2.md).
 Prima che le navi da passeggeri esistenti delle classi C e D battenti bandiera di altro Stato ((...)) possano essere adibite a viaggi nazionali regolari, lo Stato di bandiera deve ottenere l'accordo dell'Amministrazione sull'equivalenza del livello di sicurezza previsto dalle citate norme;
                         c-bis)
                             se l'Amministrazione ritiene irragionevoli le norme imposte dall'amministrazione dello Stato di approdo a norma della lettera c), ne informa immediatamente la Commissione europea.
@@ -286,7 +286,7 @@ Le navi ro/ro da passeggeri ritirate dal servizio non possono operare nei tratti
 
 1.
 
-Fatto salvo quanto previsto nel [decreto del Presidente della Repubblica 24 luglio 1996, n. 503](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20leliminazione%20delle%20barriere%20architettoniche%20negli%20edifici%20spazi%20e%20servizi%20pubblici.md), e oltre ai pertinenti requisiti di sicurezza di cui all'articolo 4, le navi da passeggeri di classe A, B, C e D e le unita' veloci da passeggeri adibite al trasporto pubblico, al fine di garantire un accesso sicuro alle persone a mobilita' ridotta, devono:
+Fatto salvo quanto previsto nel [decreto del Presidente della Repubblica 24 luglio 1996, n. 503](../DPR/Regolamento%20recante%20norme%20per%20leliminazione%20delle%20barriere%20architettoniche%20negli%20edifici%20spazi%20e%20servizi%20pubblici.md), e oltre ai pertinenti requisiti di sicurezza di cui all'articolo 4, le navi da passeggeri di classe A, B, C e D e le unita' veloci da passeggeri adibite al trasporto pubblico, al fine di garantire un accesso sicuro alle persone a mobilita' ridotta, devono:
                         a)
                             se la chiglia e' stata impostata o si trova a un equivalente 
  stadio di costruzione il 1° ottobre 2004 o in data successiva, essere conformi, per quanto fattibile, agli orientamenti contenuti nell'allegato III;

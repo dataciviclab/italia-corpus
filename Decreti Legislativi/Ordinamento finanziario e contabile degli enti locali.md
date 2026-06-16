@@ -901,7 +901,7 @@ CAPO IX
 Sono abrogate le seguenti norme:
                             a)
                                 gli articoli da 166 a 174 e gli articoli da 179 a 181 del 
- Regolamento approvato con [regio decreto 12 febbraio 1911, n. 297](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20della%20legge%20comunale%20e%20provinciale.%20011U0297.md);
+ Regolamento approvato con [regio decreto 12 febbraio 1911, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-02-12;297);
                             b)
                                 gli articoli 96 e 147 del Testo Unico della legge comunale e 
  provinciale approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);

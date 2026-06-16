@@ -75,7 +75,7 @@ Nell'[articolo 1, comma 1, della legge 29 novembre 2001, n. 436](https://www.nor
 
 1.
 
-Le disposizioni del capo quinto della parte seconda del [testo unico delle disposizioni legislative e regolamentari in materia edilizia](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md), ((di cui al)) [decreto del Presidente della Repubblica 6 giugno 2001, n. 380](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md), hanno effetto a decorrere dal 1 gennaio 2004. ((La proroga non si applica agli edifici scolastici di ogni ordine e grado.))
+Le disposizioni del capo quinto della parte seconda del [testo unico delle disposizioni legislative e regolamentari in materia edilizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md), ((di cui al)) [decreto del Presidente della Repubblica 6 giugno 2001, n. 380](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md), hanno effetto a decorrere dal 1 gennaio 2004. ((La proroga non si applica agli edifici scolastici di ogni ordine e grado.))
 
 ## Art. 5. — Interventi per la ricostruzione nei comuni colpiti da eventi sismici
 
@@ -160,7 +160,7 @@ Nell'[articolo 28, comma 1, della legge 28 dicembre 2001, n. 448](../Leggi%20fin
 
 2.
 
-Alla data di entrata in vigore del ((regolamento di cui al)) [decreto del Presidente della Repubblica 24 marzo 2003, n. 136](../Regolamenti%20governativi/Regolamento%20concernente%20lorganizzazione%20i%20compiti%20ed%20il%20funzionamento%20del%20Registro%20italiano%20dighe%20-%20RID%20a%20norma%20dellarticolo%2091%20del%20decreto%20legislativo%2031%20marzo%201998%20n.%20112.md), previsto dall'[articolo 91 del decreto legislativo 31 marzo 1998, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md), sono trasferite all'ente Registro Italiano Dighe (RID) con le inerenti risorse finanziarie, materiali ed umane ed i comandi in atto, le funzioni del soppresso Servizio nazionale dighe.
+Alla data di entrata in vigore del ((regolamento di cui al)) [decreto del Presidente della Repubblica 24 marzo 2003, n. 136](../DPR/Regolamento%20concernente%20lorganizzazione%20i%20compiti%20ed%20il%20funzionamento%20del%20Registro%20italiano%20dighe%20-%20RID%20a%20norma%20dellarticolo%2091%20del%20decreto%20legislativo%2031%20marzo%201998%20n.%20112.md), previsto dall'[articolo 91 del decreto legislativo 31 marzo 1998, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md), sono trasferite all'ente Registro Italiano Dighe (RID) con le inerenti risorse finanziarie, materiali ed umane ed i comandi in atto, le funzioni del soppresso Servizio nazionale dighe.
 
 ((
 
@@ -294,7 +294,7 @@ Dall'attuazione delle disposizioni di cui al comma 22 non devono derivare nuovi 
 
 AGGIORNAMENTO (9)
 
-Il [D.P.R. 14 maggio 2007, n. 114](../Regolamenti%20governativi/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20delleconomia%20e%20delle%20finanze%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modific_37fbc6c63b8a.md) ha disposto (con l'art. 5, comma 6, lettera c)) che e' abrogato "l'[articolo 8, comma 12, del decreto-legge 24 marzo 2003, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-03-24;147#art_8-com12), convertito, con modificazioni, nella [legge 1° agosto 2003, n. 200](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20giugno%202003%20n.%20147%20recante%20proroga%20di%20termini%20e%20disposizioni%20urgenti%20ordinamentali.md)".
+Il [D.P.R. 14 maggio 2007, n. 114](../DPR/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20delleconomia%20e%20delle%20finanze%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modific_37fbc6c63b8a.md) ha disposto (con l'art. 5, comma 6, lettera c)) che e' abrogato "l'[articolo 8, comma 12, del decreto-legge 24 marzo 2003, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-03-24;147#art_8-com12), convertito, con modificazioni, nella [legge 1° agosto 2003, n. 200](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20giugno%202003%20n.%20147%20recante%20proroga%20di%20termini%20e%20disposizioni%20urgenti%20ordinamentali.md)".
 
 --------------
 
@@ -374,7 +374,7 @@ Per le imprese che hanno subito gravi danni a seguito degli eccezionali eventi (
 
 1-bis.
 
-Le disposizioni di cui al comma 1 non rilevano agli effetti dell'applicazione dell'articolo 17 del regolamento di cui al [decreto del Presidente della Repubblica 7 dicembre 2001, n. 435](../Regolamenti%20governativi/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2022%20luglio%201998%20n.%20322%20nonche%20disposizioni%20per%20la%20semplificazione%20e%20razionalizzazione%20di%20adempimenti%20tributari.md), qualora comportino il differimento all'anno solare successivo dei termini di versamento previsti dal medesimo articolo 17.
+Le disposizioni di cui al comma 1 non rilevano agli effetti dell'applicazione dell'articolo 17 del regolamento di cui al [decreto del Presidente della Repubblica 7 dicembre 2001, n. 435](../DPR/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2022%20luglio%201998%20n.%20322%20nonche%20disposizioni%20per%20la%20semplificazione%20e%20razionalizzazione%20di%20adempimenti%20tributari.md), qualora comportino il differimento all'anno solare successivo dei termini di versamento previsti dal medesimo articolo 17.
 
 ))
 

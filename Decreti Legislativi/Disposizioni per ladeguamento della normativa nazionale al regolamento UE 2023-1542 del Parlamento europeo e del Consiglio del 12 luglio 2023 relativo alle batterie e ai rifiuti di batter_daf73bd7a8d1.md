@@ -1826,7 +1826,7 @@ Note all'art. 36:
  - [decreto legislativo 23 settembre 2013 n. 108 
  10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-09-23;10). Marchio di qualita' ecologica dell'Unione europea (Ecolabel UE). 
  - regolamento (CE) n. 5/2010 del Parlamento europeo e del Consiglio, del 25 novembre 2009, relativo al marchio di qualita' ecologica dell'Unione europea (Ecolabel UE). 
- - [decreto del Ministero dell'ambiente 2 agosto 1995, n. 413](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20per%20listituzione%20ed%20il%20funzionamento%20del%20Comitato%20per%20lEcolabel%20e%20lEcoaudit.md). 
+ - [decreto del Ministero dell'ambiente 2 agosto 1995, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente:decreto:1995-08-02;413). 
  11. Rifiuti di apparecchiature elettriche ed elettroniche (RAEE). 
  - [direttiva 2012/19/UE del Parlamento europeo e del Consiglio, del 4 luglio 2012](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2012;19), sui rifiuti di apparecchiature elettriche ed elettroniche (RAEE). 
  - [decreto legislativo 14 marzo 2014, n. 49](Attuazione%20della%20direttiva%202012-19-UE%20sui%20rifiuti%20di%20apparecchiature%20elettriche%20ed%20elettroniche%20RAEE.%2014G00064.md). 

@@ -228,7 +228,7 @@ la concessione dei provvedimenti speciali d'urgenza e di quelli cautelari previs
 
 Dopo il [quarto comma dell'articolo 413 del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_413-com4) sono inseriti i seguenti:
  "Competente per territorio per le controversie relative ai rapporti di lavoro alle dipendenze delle pubbliche amministrazioni e' il giudice nella cui circoscrizione ha sede l'ufficio al quale il dipendente e' addetto o era addetto al momento della cessazione del rapporto.
- Nelle controversie nelle quali e' parte una Amministrazione dello Stato non si applicano le disposizioni dell'[articolo 6 del regio decreto 30 ottobre 1933, n. 1611](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md).".
+ Nelle controversie nelle quali e' parte una Amministrazione dello Stato non si applicano le disposizioni dell'[articolo 6 del regio decreto 30 ottobre 1933, n. 1611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1611#art_6).".
 
 ## Art. 41.
 

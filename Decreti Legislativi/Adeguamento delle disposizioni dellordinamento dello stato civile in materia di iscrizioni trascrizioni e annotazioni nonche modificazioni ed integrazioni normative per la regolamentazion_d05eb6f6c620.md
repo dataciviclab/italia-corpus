@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la [legge 20 maggio 2016, n. 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-05-20;76), recante Regolamentazione delle unioni civili tra persone dello stesso sesso e disciplina delle convivenze e, in particolare, l'articolo 1, comma 28, lettere a) e c), che delega il Governo ad adottare disposizioni per l'adeguamento delle norme dell'ordinamento dello stato civile in materia di iscrizioni, trascrizioni e annotazioni alle previsioni della legge sulla regolamentazione delle unioni civili tra persone dello stesso sesso, nonche' ad adottare disposizioni recanti modifiche ed integrazioni normative per il necessario coordinamento con la medesima legge delle disposizioni contenute nelle leggi, negli atti aventi forza di legge, nei regolamenti e nei decreti;
 
-Visto il [regio decreto 9 luglio 1939, n. 1238](../Regi%20decreti/Ordinamento%20dello%20stato%20civile.%20039U1238.md), recante Ordinamento dello stato civile;
+Visto il [regio decreto 9 luglio 1939, n. 1238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-07-09;1238), recante Ordinamento dello stato civile;
 
 Visto il [decreto del Presidente della Repubblica 3 novembre 2000, n. 396](../DPR/Regolamento%20per%20la%20revisione%20e%20la%20semplificazione%20dellordinamento%20dello%20stato%20civile%20a%20norma%20dellarticolo%202%20comma%2012%20della%20legge%2015%20maggio%201997%20n.%20127.md), recante Regolamento per la revisione e la semplificazione dell'ordinamento dello stato civile, a norma dell'[articolo 2, comma 12, della legge 15 maggio 1997, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_2-com12);
 
@@ -368,7 +368,7 @@ Avvertenza:
 
 1.
 
-Al [regio decreto 9 luglio 1939, n. 1238](../Regi%20decreti/Ordinamento%20dello%20stato%20civile.%20039U1238.md), sono apportate le seguenti modificazioni:
+Al [regio decreto 9 luglio 1939, n. 1238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-07-09;1238), sono apportate le seguenti modificazioni:
                         a)
                             all'articolo 14, primo comma, e' aggiunto, in fine, il seguente numero: «4-bis) di unioni civili»;
                         b)
@@ -404,7 +404,7 @@ Al [regio decreto 9 luglio 1939, n. 1238](../Regi%20decreti/Ordinamento%20dello%
  f) le sentenze passate in giudicato con le quali si ordina la trascrizione di un atto dell'unione civile altrove costituito.».
 
 Note all'art. 2: 
- - Si riporta il testo degli articoli 14 e 134 del citato [regio decreto 9 luglio 1939, n. 1238](../Regi%20decreti/Ordinamento%20dello%20stato%20civile.%20039U1238.md), come modificato dal presente decreto: 
+ - Si riporta il testo degli articoli 14 e 134 del citato [regio decreto 9 luglio 1939, n. 1238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-07-09;1238), come modificato dal presente decreto: 
  «Art. 14. - In ciascun ufficio di stato civile si devono tenere i seguenti registri: 
  1) di cittadinanza; 
  2) di nascita; 

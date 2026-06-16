@@ -106,13 +106,13 @@ Il [D.Lgs. Luogotenenziale 10 agosto 1945, n. 516](../Atti%20normativi%20abrogat
 
 ### Art. 8.
 
-Il Comitato regionale predispone i programmi complessivi delle opere di cui all'[art. 2 del R. decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), e delle conseguenti trasformazioni dell'agricoltura, stabilendo il loro ordine graduale di svolgimento. Determina inoltre criteri di massima per le opere previste dagli articoli 38 e 43 del citato decreto.
+Il Comitato regionale predispone i programmi complessivi delle opere di cui all'[art. 2 del R. decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_2), e delle conseguenti trasformazioni dell'agricoltura, stabilendo il loro ordine graduale di svolgimento. Determina inoltre criteri di massima per le opere previste dagli articoli 38 e 43 del citato decreto.
 
 ### Art. 9.
 
 Il Comitato regionale ha, per il periodo di emergenza, il compito: 
  
- a) di promuovere l'esecuzione, preferibilmente a mezzo dei consorzi di bonifica e dell'Ente sardo di colonizzazione, di quelle fra le opere indicate nell'[art. 2 del R. decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), che si ritengano piu' urgenti ai fini della lotta antimalarica e della piu' rapida attuazione delle trasformazioni culturali, con particolare riguardo alla disciplina delle acque ed alla loro utilizzazione per uso potabile ed irriguo; 
+ a) di promuovere l'esecuzione, preferibilmente a mezzo dei consorzi di bonifica e dell'Ente sardo di colonizzazione, di quelle fra le opere indicate nell'[art. 2 del R. decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_2), che si ritengano piu' urgenti ai fini della lotta antimalarica e della piu' rapida attuazione delle trasformazioni culturali, con particolare riguardo alla disciplina delle acque ed alla loro utilizzazione per uso potabile ed irriguo; 
  
  b) di stabilire i criteri e le forme di utilizzazione agraria e di miglioramento immediato da adottare per i terreni non coltivati od insufficientemente coltivati; 
  
@@ -146,7 +146,7 @@ L'Alto Commissario, sentita la Consulta regionale, promuovera' il riordinamento 
 
 ### Art. 14.
 
-Per l'esecuzione in Sardegna di opere, pubbliche o private, di bonifica e di miglioramento fondiario a norma del [R. decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), nonche' per scopi di istruzione tecnica, e' autorizzata la spesa di lire un miliardo. 
+Per l'esecuzione in Sardegna di opere, pubbliche o private, di bonifica e di miglioramento fondiario a norma del [R. decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), nonche' per scopi di istruzione tecnica, e' autorizzata la spesa di lire un miliardo. 
  
  Con decreti del Ministro per il tesoro, di concertocon i Ministri per l'agricoltura e le foreste e per la pubblica istruzione nei limiti della rispettiva competenza, sara' provveduto a ripartire il fondo anzidetto, fino alla concorrenza di lire novecentoquaranta milioni, in due quote per le opere di competenza statale e per quelle di competenza privata, e ad assegnare lire trentamilioni per istituzione della facolta' di agraria presso l'Universita' di Sassari, e di lire trenta milioni per completamento ed il miglioramento delle attrezzature degli istituti scientifici della facolta' di ingegneria mineraria presso l'Universita' di Cagliari e di tutte le scuole ad indirizzo industriale della Sardegna. Con gli stessi decreti saranno stabiliti i limiti annui di impegno ed i relativi stanziamenti, da distribuirsi in non piu' di sei esercizi.
 

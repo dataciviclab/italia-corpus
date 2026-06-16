@@ -56,7 +56,7 @@ Nel caso di condanna o di applicazione della pena su richiesta delle parti ai se
 
 5.
 
-Gli animali oggetto di provvedimento di sequestro o di confisca sono affidati alle associazioni o agli enti indicati nel decreto del Ministro della salute, adottato ai sensi dell'articolo 19-quater delle disposizioni di coordinamento e transitorie per il [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), di cui al [regio decreto 28 maggio 1931, n. 601](../Regi%20decreti/Disposizioni%20di%20coordinamento%20e%20transitorie%20per%20il%20codice%20penale.%20031U0601.md), che ne fanno richiesta, salvo che vi ostino esigenze processuali.
+Gli animali oggetto di provvedimento di sequestro o di confisca sono affidati alle associazioni o agli enti indicati nel decreto del Ministro della salute, adottato ai sensi dell'articolo 19-quater delle disposizioni di coordinamento e transitorie per il [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), di cui al [regio decreto 28 maggio 1931, n. 601](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-05-28;601), che ne fanno richiesta, salvo che vi ostino esigenze processuali.
 
 6.
 

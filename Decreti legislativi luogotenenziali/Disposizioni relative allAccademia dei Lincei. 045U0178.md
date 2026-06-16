@@ -28,7 +28,7 @@ Sulla proposta del Ministro per la pubblica istruzione, di concerto con quello p
 
 ## Art. 1.
 
-La Reale Accademia dei Lincei, ricostituita a norma dell'[art. 1 del decreto legislativo Luogotenenziale 28 settembre 1944, n. 359](Ricostituzione%20dellAccademia%20nazionale%20dei%20Lincei.%20044U0359.md), e' retta dallo statuto approvato con [R. decreto 15 gennaio 1920, n. 95](../Regi%20decreti/Approvazione%20di%20statuto.%20020U0095.md), salvo quanto e' disposto nel secondo alinea del presente articolo. Il [R. decreto-legge 4 ottobre 1934, n. 2309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-10-04;2309), che sostituiva un nuovo statuto a quello gia' ricordato, e' abrogato. 
+La Reale Accademia dei Lincei, ricostituita a norma dell'[art. 1 del decreto legislativo Luogotenenziale 28 settembre 1944, n. 359](Ricostituzione%20dellAccademia%20nazionale%20dei%20Lincei.%20044U0359.md), e' retta dallo statuto approvato con [R. decreto 15 gennaio 1920, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-01-15;95), salvo quanto e' disposto nel secondo alinea del presente articolo. Il [R. decreto-legge 4 ottobre 1934, n. 2309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-10-04;2309), che sostituiva un nuovo statuto a quello gia' ricordato, e' abrogato. 
  
  La Classe di scienze morali, storiche e filologiche assumera' il nuovo nome di Classe di scienze morali, storiche, critiche e filologiche ed avra', oltre le categorie gia' esistenti, una nuova categoria di Critica della poesia e delle arti.
 
@@ -55,7 +55,7 @@ Il [D.Lgs. Luogotenenziale 16 novembre 1945, n. 801](Disposizioni%20concernenti%
 
 Tutte le deliberazioni del commissario di cui all'[art. 2 del decreto legislativo 28 settembre 1944, n. 359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1944-09-28;359#art_2), e all'[art. 3 del decreto legislativo 28 settembre 1944, n. 363](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1944-09-28;363#art_3), e le deliberazioni del Comitato di cui al precedente art. 3, concernenti il personale gia' in servizio presso la Reale Accademia d'Italia o attinenti comunque a materia di personale, e quelle recanti eventualmente oneri finanziari, sono soggette all'approvazione del Ministro per la pubblica istruzione e del Ministro per il tesoro. 
  
- La disposizione dell'art. 20 dello statuto approvato con [R. decreto 15 gennaio 1920, n. 95](../Regi%20decreti/Approvazione%20di%20statuto.%20020U0095.md), relativo al ruolo organico del personale amministrativo dell'Accademia, e' sospesa fino a tanto che il commissario o, per il tempo dopo la sua cessazione dall'ufficio, gli organi normali dell'Accademia non avranno formulato nuove proposte in ordine al ruolo organico predetto. 
+ La disposizione dell'art. 20 dello statuto approvato con [R. decreto 15 gennaio 1920, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-01-15;95), relativo al ruolo organico del personale amministrativo dell'Accademia, e' sospesa fino a tanto che il commissario o, per il tempo dopo la sua cessazione dall'ufficio, gli organi normali dell'Accademia non avranno formulato nuove proposte in ordine al ruolo organico predetto. 
  
  Anche le proposte di cui al comma precedente sono soggette all'approvazione del Ministro per la pubblica istruzione e del Ministro per il tesoro.
 

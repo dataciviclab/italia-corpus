@@ -148,7 +148,7 @@ Agli invalidi civili di eta' compresa fra il diciottesimo e il sessantaquattresi
 
 2.
 
-Attraverso dichiarazione sostitutiva, resa annualmente all'INPS ai sensi dell'articolo 46 e seguenti del testo unico di cui al [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), il soggetto di cui al comma 1 autocertifica di non svolgere attivita' lavorativa. Qualora tale condizione venga meno, lo stesso e' tenuto a darne tempestiva comunicazione all'INPS. 
+Attraverso dichiarazione sostitutiva, resa annualmente all'INPS ai sensi dell'articolo 46 e seguenti del testo unico di cui al [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), il soggetto di cui al comma 1 autocertifica di non svolgere attivita' lavorativa. Qualora tale condizione venga meno, lo stesso e' tenuto a darne tempestiva comunicazione all'INPS. 
  
  ((18))
 
@@ -231,7 +231,7 @@ Il [D.L 6 dicembre 2011, n. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 ## Art. 20. — (Modalita' di erogazione della pensione o dell'assegno)
 
 Il Ministero dell'interno provvede, a semestre anticipato, ad accreditare alle prefetture i fondi occorrenti per il pagamento della pensione o dell'assegno previsto dalla presente legge, in relazione al numero dei beneficiari residenti in ciascuna provincia.
- Le aperture di credito di cui al comma precedente possono essere effettuate in deroga al limite previsto dall'[articolo 56 del regio decreto 18 novembre 1923, numero 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni.
+ Le aperture di credito di cui al comma precedente possono essere effettuate in deroga al limite previsto dall'[articolo 56 del regio decreto 18 novembre 1923, numero 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56), e successive modificazioni.
  I prefetti, entro dieci giorni dal ricevimento dei fondi, provvedono a ripartibili tra gli enti comunali di assistenza, mediante accreditamento su conti correnti postali vincolati per la destinazione, intestati ai tesorieri dei singoli enti.
  Il pagamento della pensione o dell'assegno ai beneficiari e' effettuato dagli enti comunali di assistenza con assegni postali tratti sui predetti conti correnti.
 

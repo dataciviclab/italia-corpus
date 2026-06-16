@@ -43,7 +43,7 @@ Il presente decreto stabilisce le misure per l'impiego confinato dei microorgani
 Il Ministro della sanita' coordina le attivita' amministrative e tecnico-scientifiche relative alla integrale attuazione delle misure contenute nel presente decreto, d'intesa, per quanto di rispettiva competenza, con i Ministri dell'ambiente, del lavoro e della previdenza sociale, delle politiche agricole e forestali, dell'interno, dell'industria, del commercio e dell'artigianato e del commercio con l'estero e dell'universita' e della ricerca scientifica e tecnologica.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia ai sensi dell'art. 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia ai sensi dell'art. 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE).
 
  Note alle premesse:
@@ -399,15 +399,15 @@ Le informazioni ricevute dall'Autorita' competente possono essere comunicate dal
 
 1.
 
-COMMA ABROGATO DAL [D.P.R. 14 MAGGIO 2007, N. 86](../Regolamenti%20governativi/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20della%20salute%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modificazioni%20dalla%20leg_553cb57616f6.md).
+COMMA ABROGATO DAL [D.P.R. 14 MAGGIO 2007, N. 86](../DPR/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20della%20salute%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modificazioni%20dalla%20leg_553cb57616f6.md).
 
 2.
 
-COMMA ABROGATO DAL [D.P.R. 14 MAGGIO 2007, N. 86](../Regolamenti%20governativi/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20della%20salute%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modificazioni%20dalla%20leg_553cb57616f6.md).
+COMMA ABROGATO DAL [D.P.R. 14 MAGGIO 2007, N. 86](../DPR/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20della%20salute%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modificazioni%20dalla%20leg_553cb57616f6.md).
 
 3.
 
-COMMA ABROGATO DAL [D.P.R. 14 MAGGIO 2007, N. 86](../Regolamenti%20governativi/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20della%20salute%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modificazioni%20dalla%20leg_553cb57616f6.md).
+COMMA ABROGATO DAL [D.P.R. 14 MAGGIO 2007, N. 86](../DPR/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20della%20salute%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modificazioni%20dalla%20leg_553cb57616f6.md).
 
 4.
 
@@ -419,7 +419,7 @@ Le funzioni di segreteria sono svolte a cura del Dipartimento della prevenzione 
 
 6.
 
-COMMA ABROGATO DAL [D.P.R. 14 MAGGIO 2007, N. 86](../Regolamenti%20governativi/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20della%20salute%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modificazioni%20dalla%20leg_553cb57616f6.md).
+COMMA ABROGATO DAL [D.P.R. 14 MAGGIO 2007, N. 86](../DPR/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20della%20salute%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modificazioni%20dalla%20leg_553cb57616f6.md).
 
 7.
 
@@ -445,7 +445,7 @@ Il [D.Lgs. 8 luglio 2003, n. 224](../Decreti%20Legislativi/Attuazione%20della%20
 
 AGGIORNAMENTO (3)
 
-Il [D.P.R. 28 marzo 2013, n. 44](../Regolamenti%20governativi/Regolamento%20recante%20il%20riordino%20degli%20organi%20collegiali%20ed%20altri%20organismi%20operanti%20presso%20il%20Ministero%20della%20salute%20ai%20sensi%20dellarticolo%202%20comma%204%20della%20legge%204%20novembre%202010%20n.%20183.%2013G00085.md) ha disposto (con l'art. 2, comma 1, lettera g)) che sono trasferite ad un unico organo collegiale, denominato «Comitato tecnico sanitario», le funzioni in atto esercitate dalla Commissione interministeriale di valutazione in materia di biotecnologie, di cui al presente articolo.
+Il [D.P.R. 28 marzo 2013, n. 44](../DPR/Regolamento%20recante%20il%20riordino%20degli%20organi%20collegiali%20ed%20altri%20organismi%20operanti%20presso%20il%20Ministero%20della%20salute%20ai%20sensi%20dellarticolo%202%20comma%204%20della%20legge%204%20novembre%202010%20n.%20183.%2013G00085.md) ha disposto (con l'art. 2, comma 1, lettera g)) che sono trasferite ad un unico organo collegiale, denominato «Comitato tecnico sanitario», le funzioni in atto esercitate dalla Commissione interministeriale di valutazione in materia di biotecnologie, di cui al presente articolo.
 
 ## Art. 15. — (obblighi del Ministero della sanita' e delle Autorita' locali)
 
@@ -722,14 +722,14 @@ Note all'[art. 22:
  - La [legge 8 luglio 1986, n. 349](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-07-08;349), reca: "Istituzione del Ministero dell'ambiente e norme in materia di danno ambientale".
  - L'art. 18 della succitata legge, cosi' recita:
  "Art. 18. - 1. Qualunque fatto doloso o colposo in violazione di disposizioni di legge o di provvedimenti adottati in base a legge che comprometta l'ambiente, ad esso arrecando danno, alterandolo, deteriorandolo o distruggendolo in tutto o in parte, obbliga l'autore del fatto al risarcimento nei confronti dello Stato.
- 2. Per la materia di cui al precedente comma 1 la giurisdizione appartiene al giudice ordinario, ferma quella della Corte dei conti, di cui all'[art. 22 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+ 2. Per la materia di cui al precedente comma 1 la giurisdizione appartiene al giudice ordinario, ferma quella della Corte dei conti, di cui all'[art. 22 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
  3. L'azione di risarcimento del danno ambientale, anche se esercitata in sede penale, e' promossa dallo Stato, nonche' dagli enti territoriali sui quali incidano i beni oggetto del fatto lesivo.
  4. Le associazioni di cui al precedente art. 13 e i cittadini, al fine di sollecitare l'esercizio dell'azione da parte dei soggetti legittimati, possono denunciare i fatti lesivi di beni ambientali dei quali siano a conoscenza.
  5. Le associazioni individuate in base all'art. 13 della presente legge possono intervenire nei giudizi per danno ambientale e ricorrere in sede di giurisdizione amministrativa per l'annullamento di atti illegittimi.
  6. Il giudice, ove non sia possibile una precisa quantificazione del danno, ne determina l'ammontare in via equitativa, tenendo comunque conto della gravita' della colpa individuale, del costo necessario per il ripristino e del profitto conseguito dal trasgressore in conseguenza del suo comportamento lesivo dei beni ambientali.
  7. Nei casi di concorso nello stesso evento di danno, ciascuno risponde nei limiti della piu' propria responsabilita' individuale.
  8. Il giudice, nella sentenza di condanna, dispone, ove possibile, il ripristino dello stato dei luoghi a spese del responsabile.
- 9. Per la riscossione dei crediti in favore dello Stato risultanti dalle sentenze di condanna si applicano le norme di cui al testo unico delle disposizioni di legge relative alla riscossione delle entrate patrimoniali dello Stato, approvato con [regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md)
+ 9. Per la riscossione dei crediti in favore dello Stato risultanti dalle sentenze di condanna si applicano le norme di cui al testo unico delle disposizioni di legge relative alla riscossione delle entrate patrimoniali dello Stato, approvato con [regio decreto 14 aprile 1910, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-14;639)
  [9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-14;9)-bis. Le somme derivanti dalla riscossione dei crediti in favore dello Stato per il risarcimento del danno di cui al comma 1, ivi comprese quelle derivanti dall'escussione di fidejussioni a favore dello Stato, assunte a garanzia del risarcimento medesimo, sono versate all'entrata del bilancio dello Stato, per essere riassegnate, con decreto del Ministro del tesoro, del bilancio e della programmazione economica, ad un fondo di rotazione da istituire nell'ambito di apposita unita' previsionale di base dello stato di previsione del Ministero dell'ambiente, al fine di finanziare, anche in via di anticipazione:
  a) interventi urgenti di perimetrazione, caratterizzazione e messa in sicurezza dei siti inquinati, con priorita' per le aree per le quali ha avuto luogo il risarcimento del danno ambientale;
  b) interventi di disinquinamento, bonifica e ripristino ambientale delle aree per le quali abbia avuto luogo il risarcimento del danno ambientale;

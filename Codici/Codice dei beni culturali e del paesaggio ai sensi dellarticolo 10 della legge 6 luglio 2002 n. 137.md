@@ -1570,7 +1570,7 @@ Non e' soggetta ad autorizzazione l'uscita:
 
 4-bis.
 
-Nei casi di cui al comma 4, l'interessato ha l'onere di comprovare al competente ufficio di esportazione, mediante dichiarazione ai sensi del testo unico di cui al [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), che le cose da trasferire all'estero rientrino nelle ipotesi per le quali non e' prevista l'autorizzazione, secondo le procedure e con le modalita' stabilite con decreto ministeriale. Il competente ufficio di esportazione, qualora reputi che le cose possano rientrare tra quelle di cui all'articolo 10, comma 3, lettera d-bis), avvia il procedimento di cui all'articolo 14, che si conclude entro sessanta giorni dalla data di presentazione della dichiarazione.
+Nei casi di cui al comma 4, l'interessato ha l'onere di comprovare al competente ufficio di esportazione, mediante dichiarazione ai sensi del testo unico di cui al [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), che le cose da trasferire all'estero rientrino nelle ipotesi per le quali non e' prevista l'autorizzazione, secondo le procedure e con le modalita' stabilite con decreto ministeriale. Il competente ufficio di esportazione, qualora reputi che le cose possano rientrare tra quelle di cui all'articolo 10, comma 3, lettera d-bis), avvia il procedimento di cui all'articolo 14, che si conclude entro sessanta giorni dalla data di presentazione della dichiarazione.
 
 4-ter.
 
@@ -2822,10 +2822,10 @@ Note all'[art. 129:
 
 1.
 
-Fino all'emanazione dei decreti e dei regolamenti previsti dal presente codice, restano in vigore, in quanto applicabili, le disposizioni dei regolamenti approvati con [regi decreti 2 ottobre 1911, n. 1163](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20gli%20archivi%20di%20Stato.%20011U1163.md) e [30 gennaio 1913, n. 363](../Atti%20normativi%20abrogati%20%28in%20originale%29/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20delle%20leggi%2020%20giugno%201909%20n.%20364%20e%2023%20giugno%201912%20n.%20688%20relative%20alle%20antichita%20e%20belle%20arti.%20013U0363.md), e ogni altra disposizione regolamentare attinente alle norme contenute in questa Parte.
+Fino all'emanazione dei decreti e dei regolamenti previsti dal presente codice, restano in vigore, in quanto applicabili, le disposizioni dei regolamenti approvati con [regi decreti 2 ottobre 1911, n. 1163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-10-02;1163) e [30 gennaio 1913, n. 363](../Atti%20normativi%20abrogati%20%28in%20originale%29/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20delle%20leggi%2020%20giugno%201909%20n.%20364%20e%2023%20giugno%201912%20n.%20688%20relative%20alle%20antichita%20e%20belle%20arti.%20013U0363.md), e ogni altra disposizione regolamentare attinente alle norme contenute in questa Parte.
 
 Note all'[art. 130:
- - Il regio decreto 2 ottobre 1911, n. 1163](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20gli%20archivi%20di%20Stato.%20011U1163.md), recante il «Regolamento per gli Archivi di Stato», e' pubblicato nella Gazzetta Ufficiale n. 260 dell'8 novembre 1911.
+ - Il regio decreto 2 ottobre 1911, n. 1163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-10-02;1163#art_130), recante il «Regolamento per gli Archivi di Stato», e' pubblicato nella Gazzetta Ufficiale n. 260 dell'8 novembre 1911.
  - Il [regio decreto 30 gennaio 1913, n. 363](../Atti%20normativi%20abrogati%20%28in%20originale%29/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20delle%20leggi%2020%20giugno%201909%20n.%20364%20e%2023%20giugno%201912%20n.%20688%20relative%20alle%20antichita%20e%20belle%20arti.%20013U0363.md), recante il «Regolamento di esecuzione delle [leggi 20 giugno 1909, n. 364 e 23 giugno 1912, n. 688](../Atti%20normativi%20abrogati%20%28in%20originale%29/Portante%20modificazioni%20alla%20legge%2020%20giugno%201909%20n.%20364%20per%20le%20antichita%20e%20belle%20arti.%20012U0688.md), per le antichita' e le belle arti», e' pubblicato nella Gazzetta Ufficiale n. 130 del 5 giugno 1913.
 
 ## Beni paesaggistici - - TITOLO I Tutela e valorizzazione Capo I Disposizioni generali
@@ -3099,7 +3099,7 @@ Sono comunque di interesse paesaggistico e sono sottoposti alle disposizioni di 
                             b)
                                 i territori contermini ai laghi compresi in una fascia della profondita' di 300 metri dalla linea di battigia, anche per i territori elevati sui laghi;
                             c)
-                                i fiumi, i torrenti, i corsi d'acqua iscritti negli elenchi previsti dal testo unico delle disposizioni di legge sulle acque ed impianti elettrici, approvato con [regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), e le relative sponde o piedi degli argini per una fascia di 150 metri ciascuna;
+                                i fiumi, i torrenti, i corsi d'acqua iscritti negli elenchi previsti dal testo unico delle disposizioni di legge sulle acque ed impianti elettrici, approvato con [regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775), e le relative sponde o piedi degli argini per una fascia di 150 metri ciascuna;
                             d)
                                 le montagne per la parte eccedente 1.600 metri sul livello del mare per la catena alpina e 1.200 metri sul livello del mare per la catena appenninica e per le isole;
                             e)
@@ -3643,7 +3643,7 @@ Con l'ordine di rimessione in pristino e' assegnato al trasgressore un termine p
 
 3.
 
-In caso di inottemperanza, l'autorita' amministrativa preposta alla tutela paesaggistica provvede d'ufficio per mezzo del prefetto e rende esecutoria la nota delle spese. Laddove l'autorita' amministrativa preposta alla tutela paesaggistica non provveda d'ufficio, il direttore regionale competente, su richiesta della medesima autorita' amministrativa ovvero, decorsi centottanta giorni dall'accertamento dell'illecito, previa diffida alla suddetta autorita' competente a provvedervi nei successivi trenta giorni, (( procede alla demolizione avvalendosi dell'apposito servizio tecnico-operativo del Ministero, ovvero delle modalita)) previste dall'[articolo 41 del decreto del Presidente della Repubblica 6 giugno 2001, n. 380](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md), a seguito di apposita convenzione che puo' essere stipulata d'intesa tra il (( Ministero )) e il Ministero della difesa.
+In caso di inottemperanza, l'autorita' amministrativa preposta alla tutela paesaggistica provvede d'ufficio per mezzo del prefetto e rende esecutoria la nota delle spese. Laddove l'autorita' amministrativa preposta alla tutela paesaggistica non provveda d'ufficio, il direttore regionale competente, su richiesta della medesima autorita' amministrativa ovvero, decorsi centottanta giorni dall'accertamento dell'illecito, previa diffida alla suddetta autorita' competente a provvedervi nei successivi trenta giorni, (( procede alla demolizione avvalendosi dell'apposito servizio tecnico-operativo del Ministero, ovvero delle modalita)) previste dall'[articolo 41 del decreto del Presidente della Repubblica 6 giugno 2001, n. 380](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md), a seguito di apposita convenzione che puo' essere stipulata d'intesa tra il (( Ministero )) e il Ministero della difesa.
 
 4.
 
@@ -3653,7 +3653,7 @@ L'autorita' amministrativa competente accerta la compatibilita' paesaggistica, s
                             b)
                                 per l'impiego di materiali in difformita' dall'autorizzazione paesaggistica;
                             c)
-                                per i lavori comunque configurabili quali interventi di manutenzione ordinaria o straordinaria ai sensi dell'[articolo 3 del decreto del Presidente della Repubblica 6 giugno 2001, n. 380](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md).
+                                per i lavori comunque configurabili quali interventi di manutenzione ordinaria o straordinaria ai sensi dell'[articolo 3 del decreto del Presidente della Repubblica 6 giugno 2001, n. 380](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md).
 
 5.
 
@@ -3755,10 +3755,10 @@ E' punito con l'arresto fino ad un anno e l'ammenda da euro 310 a euro 3.099:
 
 1.
 
-Salvo che il fatto non costituisca piu' grave reato, chiunque non ottempera ad un ordine impartito dall'autorita' preposta alla tutela dei beni culturali in conformita' del presente Titolo e' punito con le pene previste dall'[articolo 650 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Salvo che il fatto non costituisca piu' grave reato, chiunque non ottempera ad un ordine impartito dall'autorita' preposta alla tutela dei beni culturali in conformita' del presente Titolo e' punito con le pene previste dall'[articolo 650 del codice penale](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
-Nota all'[art. 180](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md):
- - L'[art. 650 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con regio decreto 19 ottobre 1930, n. 1398, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 251 del 26 ottobre 1930, dispone:
+Nota all'[art. 180](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md):
+ - L'[art. 650 del codice penale](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con regio decreto 19 ottobre 1930, n. 1398, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 251 del 26 ottobre 1930, dispone:
  «Art. 650 (Inosservanza dei provvedimenti dell'autorita). - Chiunque non osserva un provvedimento legalmente dato dall'autorita' per ragione di giustizia o di sicurezza pubblica o d'ordine pubblico o d'igiene, e' punito, se il fatto non costituisce un piu' grave reato, con l'arresto fino a tre mesi e con l'ammenda fino a lire quattrocentomila».
 
 ## Capo II Sanzioni relative alla Parte terza
@@ -3769,7 +3769,7 @@ Nota all'[art. 180](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20
 
 1.
 
-Chiunque, senza la prescritta autorizzazione o in difformita' di essa, esegue lavori di qualsiasi genere su beni paesaggistici e' punito con le pene previste dall'[articolo 44, lettera c), del decreto del Presidente della Repubblica 6 giugno 2001, n. 380](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md).
+Chiunque, senza la prescritta autorizzazione o in difformita' di essa, esegue lavori di qualsiasi genere su beni paesaggistici e' punito con le pene previste dall'[articolo 44, lettera c), del decreto del Presidente della Repubblica 6 giugno 2001, n. 380](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md).
 
 1-bis.
 
@@ -3787,7 +3787,7 @@ Ferma restando l'applicazione delle sanzioni amministrative pecuniarie di cui al
                             b)
                                 per l'impiego di materiali in difformita' dall'autorizzazione paesaggistica;
                             c)
-                                per i lavori configurabili quali interventi di manutenzione ordinaria o straordinaria ai sensi dell'[articolo 3 del decreto del Presidente della Repubblica 6 giugno 2001, n. 380](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md).
+                                per i lavori configurabili quali interventi di manutenzione ordinaria o straordinaria ai sensi dell'[articolo 3 del decreto del Presidente della Repubblica 6 giugno 2001, n. 380](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md).
 
 1-quater.
 
@@ -3856,7 +3856,7 @@ Nelle more dell'attuazione dell'articolo 29, comma 10, acquisisce la qualifica d
                             e)
                                 risulti inquadrato nei ruoli delle amministrazioni pubbliche preposte alla tutela dei beni culturali a seguito del superamento di un pubblico concorso relativo al profilo di assistente tecnico restauratore;
                             f)
-                                abbia svolto attivita' di restauro di beni culturali mobili e superfici decorate di beni architettonici, per non meno di quattro anni, con regolare esecuzione certificata nell'ambito della procedura di selezione pubblica. L'attivita' svolta e' dimostrata mediante dichiarazione del datore di lavoro, ovvero autocertificazione dell'interessato ai sensi del testo unico di cui al [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md).
+                                abbia svolto attivita' di restauro di beni culturali mobili e superfici decorate di beni architettonici, per non meno di quattro anni, con regolare esecuzione certificata nell'ambito della procedura di selezione pubblica. L'attivita' svolta e' dimostrata mediante dichiarazione del datore di lavoro, ovvero autocertificazione dell'interessato ai sensi del testo unico di cui al [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md).
 
 1-septies.
 

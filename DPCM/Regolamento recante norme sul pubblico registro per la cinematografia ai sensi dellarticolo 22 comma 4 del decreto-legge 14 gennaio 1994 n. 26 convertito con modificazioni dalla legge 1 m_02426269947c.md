@@ -68,7 +68,7 @@ Il legale rappresentante della S.I.A.E. provvede ad attribuire i compiti e le fu
 Con apposito provvedimento la S.I.A.E. determina le modalita' pratiche di funzionamento del pubblico registro per la cinematografia, l'orario di apertura al pubblico, le indennita' spettanti ai dirigenti e funzionari che espletano compiti e funzioni di conservatore ed al personale addetto all'ufficio.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note all'art. 1:
  - Il testo dell'[art. 22 del decreto-legge 14 gennaio 1994, n. 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-01-14;26#art_22), recante: "Interventi urgenti a favore del cinema", e' il seguente:
  "Art.22. - 1. E' istituito il pubblico registro per la cinematografia, tenuto dalla SIAE, nel quale sono iscritte tutte le opere filmiche prodotte o importate in Italia e destinate alla programmazione nelle sale cinematografiche.
@@ -672,7 +672,7 @@ Note all'art. 12 e all'art. 13:
  Per le opere cinematografiche la presunzione si applica alle annotazioni del registro indicato nel secondo comma.
  La tenuta dei registri di pubblicita' e' disciplinata nel regolamento.
  I registri di cui al presente articolo possono essere tenuti utilizzando mezzi e strumenti informatici".
- - Il [regio decreto 18 maggio 1942, n. 1369](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2022%20aprile%201941-XIX%20n.%20633%20per%20la%20protezione%20del%20diritto%20di%20autore%20e%20di%20altri%20diritti%20connessi%20al%20suo%20esercizio.%20042U1369.md), reca: "Approvazione del regolamento per l'esecuzione della [legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633), per la protezione del diritto di autore e di altri diritti connessi al suo esercizio".
+ - Il [regio decreto 18 maggio 1942, n. 1369](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-05-18;1369), reca: "Approvazione del regolamento per l'esecuzione della [legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633), per la protezione del diritto di autore e di altri diritti connessi al suo esercizio".
 
 ## Art. 14. — Disposizioni finali
 
@@ -690,7 +690,7 @@ Rimangono applicabili al nuovo pubblico registro per la cinematografia le presun
 
 4.
 
-La S.I.A.E. comunica periodicamente alla Presidenza del Consiglio dei Ministri - Dipartimento per l'informazione e l'editoria i dati identificativi delle opere filmiche iscritte sul pubblico registro per la cinematografia, ai fini degli adempimenti di deposito da effettuarsi presso il pubblico registro generale delle opere protette di cui al [regio decreto 18 maggio 1942, n. 1369](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2022%20aprile%201941-XIX%20n.%20633%20per%20la%20protezione%20del%20diritto%20di%20autore%20e%20di%20altri%20diritti%20connessi%20al%20suo%20esercizio.%20042U1369.md).
+La S.I.A.E. comunica periodicamente alla Presidenza del Consiglio dei Ministri - Dipartimento per l'informazione e l'editoria i dati identificativi delle opere filmiche iscritte sul pubblico registro per la cinematografia, ai fini degli adempimenti di deposito da effettuarsi presso il pubblico registro generale delle opere protette di cui al [regio decreto 18 maggio 1942, n. 1369](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-05-18;1369).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

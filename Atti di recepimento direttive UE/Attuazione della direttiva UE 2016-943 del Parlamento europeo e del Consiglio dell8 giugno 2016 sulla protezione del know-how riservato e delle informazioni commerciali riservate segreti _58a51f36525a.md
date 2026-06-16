@@ -40,7 +40,7 @@ All'articolo 1, comma 1, del codice della proprieta' industriale, di cui al [dec
 N O T E 
  
  Avvertenza: 
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia ai sensi dell'articolo 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia ai sensi dell'articolo 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  Per gli atti dell'Unione europea vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale dell'Unione Europea (GUUE). 
  Note alle premesse: 
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) stabilisce che l'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti. 
@@ -244,7 +244,7 @@ Note all'art. 8:
 
 1.
 
-All'[articolo 388 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono apportate le seguenti modificazioni:
+All'[articolo 388 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono apportate le seguenti modificazioni:
                         a)
                             dopo il secondo comma sono inseriti i seguenti: 
  «La stessa pena si applica a chi elude l'esecuzione di un provvedimento del giudice che prescriva misure inibitorie o correttive a tutela dei diritti di proprieta' industriale. 
@@ -254,7 +254,7 @@ All'[articolo 388 del codice penale](../Regi%20decreti/Approvazione%20del%20test
 
 2.
 
-L'[articolo 623 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' sostituito dal seguente: 
+L'[articolo 623 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' sostituito dal seguente: 
  «Art. 623 (Rivelazione di segreti scientifici o commerciali). - Chiunque, venuto a cognizione per ragioni del suo stato o ufficio, o della sua professione o arte, di segreti commerciali o di notizie destinate a rimanere segrete, sopra scoperte o invenzioni scientifiche, li rivela o li impiega a proprio o altrui profitto, e' punito con la reclusione fino a due anni. 
  La stessa pena si applica a chiunque, avendo acquisito in modo abusivo segreti commerciali, li rivela o li impiega a proprio o altrui profitto. 
  Se il fatto relativo ai segreti commerciali e' commesso tramite qualsiasi strumento informatico la pena e' aumentata. 
@@ -262,10 +262,10 @@ L'[articolo 623 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%
 
 3.
 
-Ai fini dell'[articolo 623 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), nel testo riformulato dal presente articolo, le notizie destinate a rimanere segrete sopra applicazioni industriali, di cui alla formulazione previgente del medesimo articolo 623, costituiscono segreti commerciali.
+Ai fini dell'[articolo 623 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), nel testo riformulato dal presente articolo, le notizie destinate a rimanere segrete sopra applicazioni industriali, di cui alla formulazione previgente del medesimo articolo 623, costituiscono segreti commerciali.
 
 Note all'art. 9: 
- - Il testo dell'[articolo 338 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'[articolo 338 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto, cosi' recita: 
  «Art. 388 (Mancata esecuzione dolosa di un provvedimento del giudice). - Chiunque, per sottrarsi all'adempimento degli obblighi nascenti da un provvedimento dell'autorita' giudiziaria, o dei quali e' in corso l'accertamento dinanzi all'autorita' giudiziaria stessa, compie, sui propri o sugli altrui beni, atti simulati o fraudolenti, o commette allo stesso scopo altri fatti fraudolenti, e' punito, qualora non ottemperi all'ingiunzione di eseguire il provvedimento, con la reclusione fino a tre anni o con la multa da euro 103 a euro 1.032. 
  La stessa pena si applica a chi elude l'ordine di protezione previsto dall'[articolo 342-ter del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_342ter), ovvero un provvedimento di eguale contenuto assunto nel procedimento di separazione personale dei coniugi o nel procedimento di scioglimento o di cessazione degli effetti civili del matrimonio ovvero ancora l'esecuzione di un provvedimento del giudice civile, ovvero amministrativo o contabile, che concerna l'affidamento di minori o di altre persone incapaci, ovvero prescriva misure cautelari a difesa della proprieta', del possesso o del credito. 
  La stessa pena si applica a chi elude l'esecuzione di un provvedimento del giudice che prescriva misure inibitorie o correttive a tutela dei diritti di proprieta' industriale. 

@@ -100,7 +100,7 @@ L'Agenzia e' sottoposta al controllo della Corte dei conti ai sensi dell'articol
 
 7.
 
-L'Agenzia puo' avvalersi del patrocinio dell'Avvocatura dello Stato, ai sensi dell'[articolo 43 del regio decreto 30 ottobre 1933, n. 1611](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md).
+L'Agenzia puo' avvalersi del patrocinio dell'Avvocatura dello Stato, ai sensi dell'[articolo 43 del regio decreto 30 ottobre 1933, n. 1611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1611#art_43).
 
 N O T E 
  

@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-E' elevata a lire 15.000.000, a decorrere dall'esercizio finanziario 1947-48, la somma di lire 2.000.000 autorizzata dal primo comma dell'art. 286 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), per incoraggiamenti a ricerche di carattere scientifico e per contribuire, anche in concorso con enti e privati, al miglior assetto scientifico e didattico delle universita' e istituti superiori e dei rispettivi istituti scientifici.
+E' elevata a lire 15.000.000, a decorrere dall'esercizio finanziario 1947-48, la somma di lire 2.000.000 autorizzata dal primo comma dell'art. 286 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), per incoraggiamenti a ricerche di carattere scientifico e per contribuire, anche in concorso con enti e privati, al miglior assetto scientifico e didattico delle universita' e istituti superiori e dei rispettivi istituti scientifici.
 
 ## Art. 2.
 

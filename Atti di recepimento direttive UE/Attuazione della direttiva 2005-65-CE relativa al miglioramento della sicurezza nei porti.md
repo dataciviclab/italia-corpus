@@ -18,7 +18,7 @@ Visto il regolamento (CE) n. 725/2004, del Parlamento europeo e del Consiglio, d
 
 Vista la [direttiva 2005/65/CE del Parlamento europeo e del Consiglio, del 26 ottobre 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2005;65), relativa al miglioramento della sicurezza dei porti;
 
-Visto il [Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), e successive modificazioni;
+Visto il [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), e successive modificazioni;
 
 Vista la [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689), e successive modificazioni;
 
@@ -41,7 +41,7 @@ Emana il seguente decreto legislativo:
 Il presente decreto individua misure di sicurezza marittima aventi come obiettivo il miglioramento della sicurezza nei porti e tali da garantire che le misure adottate in applicazione del regolamento (CE) n. 725/2004 ne risultino rinforzate.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia ai sensi dell'art. 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia ai sensi dell'art. 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  - Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE).
  Note alle premesse:
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) stabilisce che l'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
@@ -75,7 +75,7 @@ Avvertenza:
  2006/49/CE del Parlamento europeo e del Consiglio, del 14 giugno 2006, relativa all'adeguatezza patrimoniale delle imprese di investimento e degli enti creditizi (rifusione). 2006/54/CE del Parlamento europeo e del Consiglio, del 5 luglio 2006, riguardante l'attuazione del principio delle pari opportunita' e della parita' di trattamento fra uomini e donne in materia di occupazione e impiego (rifusione).».
  - Il regolamento (CE) n. 725/2004 e' pubblicato nella G.U.C.E. 29 aprile 2004, n. L 129.
  - La [direttiva 2005/65/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2005;65) e' pubblicata nella G.U.C.E. 25 novembre 2005, n. L 310.
- - Il [regio decreto del 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), e' pubblicato nella Gazzetta Ufficiale 18 aprile 1942, n. 93.
+ - Il [regio decreto del 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), e' pubblicato nella Gazzetta Ufficiale 18 aprile 1942, n. 93.
  - La [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689), reca: «Modifiche al sistema penale.»
  Nota all'art. 1:
  - Per 1 regolamento (CE) n. 725/2004, vedi note alle premesse.
@@ -320,11 +320,11 @@ Le valutazioni di sicurezza e i piani di sicurezza del porto sono da considerars
 
 1.
 
-All'[articolo 1174 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), dopo il secondo comma, e' aggiunto, in fine, il seguente:
+All'[articolo 1174 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), dopo il secondo comma, e' aggiunto, in fine, il seguente:
  «Chiunque non osserva una disposizione di legge o di regolamento, ovvero un provvedimento legalmente dato dall'Autorita' competente in materia di sicurezza marittima, quale definita dall'articolo 2, n. 5), del regolamento (CE) n. 725/2004 del Parlamento europeo e del Consiglio, del 31 marzo 2004, e' punito se il fatto non costituisce reato, con la sanzione amministrativa del pagamento di una somma da euro 1.032,00 a euro 6.197,00.».
 
 Note all'art. 14:
- - Il testo dell'[art. 1174 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' come modificato dal presente decreto, cosi' recita:
+ - Il testo dell'[art. 1174 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' come modificato dal presente decreto, cosi' recita:
  «Art. 1174 (Inosservanza di norme di polizia). - Chiunque non osserva una disposizione di legge o di regolamento, ovvero un provvedimento legalmente dato dall'autorita' competente in materia di polizia dei porti o degli aeroporti, e' punito, se il fatto non costituisce reato, con la sanzione amministrativa del pagamento di una somma da euro 1.032 a euro 6.197.
  Se l'inosservanza riguarda un provvedimento dell'autorita' in materia di circolazione nell'ambito del demanio marittimo o aeronautico, si applica la sanzione amministrativa del pagamento di una somma da euro 51 a euro 309.
  Chiunque non osserva una disposizione di legge o di regolamento, ovvero un provvedimento legalmente dato dall'Autorita' competente in materia di sicurezza marittima, quale definita dall'art. 2, n. 5), del regolamento (CE) n. 725/2004 del Parlamento europeo e del Consiglio, del 31 marzo 2004, e' punito se il fatto non costituisce reato, con la sanzione amministrativa del pagamento di una somma da euro 1032,00 a euro 6.197,00.».

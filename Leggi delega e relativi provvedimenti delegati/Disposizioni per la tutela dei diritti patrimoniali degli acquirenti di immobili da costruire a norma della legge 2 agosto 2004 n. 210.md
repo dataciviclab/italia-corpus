@@ -226,7 +226,7 @@ Agli stessi contratti devono essere allegati:
 
 3.
 
-Sono fatte salve le disposizioni di cui al [regio decreto 28 marzo 1929, n. 499](../Regi%20decreti/Disposizioni%20relative%20ai%20libri%20fondiari%20dei%20territori%20delle%20Nuove%20Provincie.%20029U0499.md).
+Sono fatte salve le disposizioni di cui al [regio decreto 28 marzo 1929, n. 499](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-28;499).
 
 ## Art. 7.
 

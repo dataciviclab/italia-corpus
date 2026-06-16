@@ -45,7 +45,7 @@ Il presente decreto non si applica:
                             ai prodotti a base di carne destinati ad essere consumati dal personale e dai passeggeri che si trovano a bordo di mezzi che effettuano trasporti internazionali.
 
 AVVERTENZA:
- Per ragioni di urgenza si omette la pubblicazione delle note al presente decreto legislativo, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 14 marzo 1986, n. 217](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblica_e0836c31af30.md).
+ Per ragioni di urgenza si omette la pubblicazione delle note al presente decreto legislativo, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 14 marzo 1986, n. 217](../DPR/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblica_e0836c31af30.md).
 
 ## Art. 2.
 

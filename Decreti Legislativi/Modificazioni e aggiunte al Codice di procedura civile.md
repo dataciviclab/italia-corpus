@@ -20,7 +20,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Fino alla revisione generale del [codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443), approvato con [regio decreto 28 ottobre 1940, n. 1443](../Codici/Codice%20di%20procedura%20civile.%20040U1443.md) e coordinato col [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) con [regio decreto 20 aprile 1942, n. 504](../Regi%20decreti/Norme%20per%20il%20coordinamento%20del%20Codice%20di%20procedura%20civile%20con%20il%20Codice%20civile.%20042U0504.md), sono ad esso apportate le modificazioni e le aggiunte risultanti dagli articoli seguenti.
+Fino alla revisione generale del [codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443), approvato con [regio decreto 28 ottobre 1940, n. 1443](../Codici/Codice%20di%20procedura%20civile.%20040U1443.md) e coordinato col [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) con [regio decreto 20 aprile 1942, n. 504](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-04-20;504), sono ad esso apportate le modificazioni e le aggiunte risultanti dagli articoli seguenti.
 
 ## Art. 2. — (Termine per la proposizione del regolamento di competenza)
 

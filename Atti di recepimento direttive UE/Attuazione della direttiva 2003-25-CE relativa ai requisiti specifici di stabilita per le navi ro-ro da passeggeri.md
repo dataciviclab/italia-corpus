@@ -48,7 +48,7 @@ Ai fini del presente decreto s'intende per:
                         c)
                             amministrazione dello Stato di bandiera: le autorita' competenti dello Stato la cui bandiera la nave ro/ro da passeggeri e' autorizzata a battere;
                         d)
-                            autorita' marittima: gli uffici locali di cui all'[articolo 17 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), secondo funzioni delegate con direttive del Comando generale del Corpo delle capitanerie di porto;
+                            autorita' marittima: gli uffici locali di cui all'[articolo 17 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), secondo funzioni delegate con direttive del Comando generale del Corpo delle capitanerie di porto;
                         e)
                             bordo libero residuo (fr): la distanza minima fra il ponte ro/ro danneggiato e la linea di galleggiamento finale nel punto in cui si e' verificata l'avaria, senza tenere conto degli ulteriori effetti prodotti dall'acqua accumulatasi sul ponte ro/ro danneggiato;
                         f)
@@ -216,11 +216,11 @@ Con decreto del Ministro delle infrastrutture e dei trasporti sono apportate le 
 
 1.
 
-L'armatore, l'esercente o il comandante che violano le norme di cui ((all'articolo 5)) sono puniti con la sanzione di cui all'[articolo 1215, primo comma, del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+L'armatore, l'esercente o il comandante che violano le norme di cui ((all'articolo 5)) sono puniti con la sanzione di cui all'[articolo 1215, primo comma, del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 2.
 
-L'armatore o l'esercente che violano le norme di cui agli articoli 7, comma 1, e 8, commi 1 e 2, sono puniti con la sanzione di cui all'[articolo 1216 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md). La stessa pena si applica al comandante ma la pena e' ridotta.
+L'armatore o l'esercente che violano le norme di cui agli articoli 7, comma 1, e 8, commi 1 e 2, sono puniti con la sanzione di cui all'[articolo 1216 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md). La stessa pena si applica al comandante ma la pena e' ridotta.
 
 ## Art. 11. — Norma di salvaguardia
 

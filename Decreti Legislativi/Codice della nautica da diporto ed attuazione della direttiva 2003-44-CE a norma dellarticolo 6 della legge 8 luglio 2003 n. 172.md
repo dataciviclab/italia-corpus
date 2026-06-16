@@ -2601,7 +2601,7 @@ Note all'[art. 66](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Cod
  testo unico approvato con [decreto del Presidente della Repubblica 30 giugno 1965, n. 1124, articoli 53](../DPR/Testo%20unico%20delle%20disposizioni%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali.md) e [54](../DPR/Testo%20unico%20delle%20disposizioni%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali.md).
  3) Procedimento di classificazione delle industrie insalubri
  testo unico approvato con [regio decreto 27 luglio 1934, n. 1265;
- decreto](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 5 settembre 1994 del Ministro della sanita', pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 220 del 20 settembre 1994.
+ decreto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) 5 settembre 1994 del Ministro della sanita', pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 220 del 20 settembre 1994.
  4) (Soppresso).
  5) (Soppresso).
  6) Procedimento di sostituzione del liquidatore ordinario
@@ -2650,14 +2650,14 @@ Note all'[art. 66](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Cod
  [decreto del Presidente della Repubblica 24 aprile 1982, n. 339](../DPR/Passaggio%20del%20personale%20non%20idoneo%20allespletamento%20dei%20servizi%20di%20polizia%20ad%20altri%20ruoli%20dellAmministrazione%20della%20pubblica%20sicurezza%20o%20di%20altre%20amministrazioni%20dello%20Stato.md).
  17) (Soppresso).
  18) Procedimento per l'attribuzione della qualifica di agente di pubblica sicurezza agli agenti di custodia e guardie notturne dipendenti da altre amministrazioni dello Stato e della Regione Sicilia
- testo unico approvato con [regio decreto 31 agosto 1907, n. 690, art. 43](../Regi%20decreti/Che%20approva%20lunito%20testo%20unico%20della%20legge%20sugli%20ufficiali%20ed%20agenti%20di%20pubblica%20sicurezza.%20007U0690.md);
- [regio decreto 20 agosto 1909, n. 666, art. 81](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20speciale%20per%20gli%20ufficiali%20ed%20impiegati%20di%20P.%20S.%20009U0666.md).
+ testo unico approvato con [regio decreto 31 agosto 1907, n. 690, art. 43](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-31;690#art_43);
+ [regio decreto 20 agosto 1909, n. 666, art. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-08-20;666#art_81).
  19) Procedimento di rilascio della licenza di collezione di armi comuni da sparo e delle armi artistiche, rare e antiche
- testo unico approvato con [regio decreto 18 giugno 1931, n. 773, articoli 31](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [32](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md);
+ testo unico approvato con [regio decreto 18 giugno 1931, n. 773, articoli 31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_31) e [32](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_32);
  [legge 18 aprile 1975, n. 110, art. 10, comma sesto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-04-18;110#art_10-com6);
  regolamento approvato con [regio decreto 6 maggio 1940, n. 635, art. 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635#art_47).
  20) Procedimento per la concessione del porto d'armi per uso personale
- testo unico approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md);
+ testo unico approvato con [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773);
  regolamento approvato con [regio decreto 6 maggio 1940, n. 635;
  decreto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635) 28 aprile 1998 del Ministro della sanita', pubblicato nella Gazzetta Ufficiale n. 143 del 22 giugno 1998.
  21) Procedimento per la denuncia all'istituto assicuratore ed all'autorita' locale di pubblica sicurezza da parte del datore di lavoro degli infortuni da cui siano colpiti i dipendenti prestatori d'opera e prognosticati non guaribili entro tre giorni
@@ -2676,7 +2676,7 @@ Note all'[art. 66](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Cod
  29) Procedimento per l'immatricolazione, i passaggi di proprieta' e la reimmatricolazione
  [decreto legislativo 30 aprile 1992, n. 285](Nuovo%20codice%20della%20strada.md), Capo III, Sezione III;
  [regio decreto-legge 15 marzo 1927, n. 436](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-15;436), convertito dalla [legge 19 febbraio 1928, n. 510](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2015%20marzo%201927%20n.%20436%20riguardante%20la%20disciplina%20dei%20contratti%20di%20compra-vendita%20degli%20autoveicoli%20e%20listituzione%20del%20pubblico%20registro%20automobilis_468c3b2ba2d0.md);
- [regio decreto 29 luglio 1927, n. 1814](../Regi%20decreti/Disposizioni%20di%20attuazione%20e%20transitorie%20del%20R.%20decreto-legge%2015%20marzo%201927%20n.%20436%20concernente%20la%20disciplina%20dei%20contratti%20di%20compra-vendita%20degli%20autoveicoli%20e%20listituzione%20del%20pubblico%20_9ce09a15aff5.md);
+ [regio decreto 29 luglio 1927, n. 1814](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1814);
  [legge 23 dicembre 1977, n. 952](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-12-23;952);
  [legge 9 luglio 1990, n. 187](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-09;187);
  [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md).
@@ -2691,16 +2691,16 @@ Note all'[art. 66](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Cod
  regio decreto 23 mgggio 1924, [n. 827, art. 35;
  decreto del Presidente della Repubblica 4 febbraio 1955, n. 72](../DPR/Decentramento%20di%20servizi%20del%20Ministero%20delle%20finanze.md), art. 2;
  regolamento approvato con [decreto del Presidente della Repubblica 5 giugno 1976, n. 1076, articoli da 361](../DPR/Approvazione%20del%20regolamento%20per%20lamministrazione%20e%20la%20contabilita%20degli%20organismi%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md) [a 388](../DPR/Approvazione%20del%20regolamento%20per%20lamministrazione%20e%20la%20contabilita%20degli%20organismi%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md).
- 35) Procedimento per il rilascio della presa d'atto [ex art. 126 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) testo unico approvato con [regio decreto 18 giugno 1931, n. 773, articoli 126](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [128](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md).
+ 35) Procedimento per il rilascio della presa d'atto [ex art. 126 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_126) testo unico approvato con [regio decreto 18 giugno 1931, n. 773, articoli 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_126) e [128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_128).
  36) Procedimento di reiscrizione dei residui passivi perenti
- [regio decreto 18 novembre 1923, n. 2440, art. 36](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md).
+ [regio decreto 18 novembre 1923, n. 2440, art. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_36).
  37) Procedimento per la prestazione del giuramento di fedelta' degli impiegati dello Stato
  testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, art. 11](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
  38. - 39. (Soppressi).
  40) Procedimento per il rilascio della autorizzazione alla somministrazione di alimenti e bevande da parte di circoli culturali privati
- testo unico approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md);
+ testo unico approvato con [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773);
  testo unico approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917;
- decreto](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md) [17 dicembre 1992, n. 564 del Ministro dell'interno](../Regolamenti%20ministeriali/Regolamento%20concernente%20i%20criteri%20di%20sorvegliabilita%20dei%20locali%20adibiti%20a%20pubblici%20esercizi%20per%20la%20somministrazione%20di%20alimenti%20e%20bevande.md).
+ decreto](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md) [17 dicembre 1992, n. 564 del Ministro dell'interno](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.interno:decreto:1992-12-17;564).
  41) Procedimento di concessione e riscossione delle agevolazioni all'editoria in materia di servizi telefonici [legge 5 agosto 1981, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-08-05;416).
  42) Procedimento per lo scarto dei documenti degli uffici dello Stato
  [decreto del Presidente della Repubblica 30 settembre 1963, n. 1409, articoli 25](../DPR/Norme%20relative%20allordinamento%20ed%20al%20personale%20degli%20archivi%20di%20Stato.md) e [27](../DPR/Norme%20relative%20allordinamento%20ed%20al%20personale%20degli%20archivi%20di%20Stato.md);
@@ -2719,7 +2719,7 @@ Note all'[art. 66](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Cod
  [decreto legislativo 9 novembre 1990, n. 375, art. 4](Adeguamento%20delle%20disposizioni%20concernenti%20il%20contrabbando%20avente%20per%20oggetto%20tabacchi%20lavorati%20esteri.md); legge 13 lugIio 1965, n. 836;
  [decreto del Presidente della Repubblica 29 luglio 1982, n. 571, articoli 16](../DPR/Norme%20per%20lattuazione%20degli%20articoli%2015%20ultimo%20comma%20e%2017%20penultimo%20comma%20della%20legge%2024%20novembre%201981%20n.%20689%20concernente%20modifiche%20al%20sistema%20penale.md) e [17](../DPR/Norme%20per%20lattuazione%20degli%20articoli%2015%20ultimo%20comma%20e%2017%20penultimo%20comma%20della%20legge%2024%20novembre%201981%20n.%20689%20concernente%20modifiche%20al%20sistema%20penale.md);
  [decreto legislativo 30 aprile 1992, n. 285, art. 213](Nuovo%20codice%20della%20strada.md); [legge 24 novembre 1981, n. 689, art. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_19);
- [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md);
+ [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440);
  [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827);
  testo unico approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, articoli 100](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md) e [101](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md);
  [legge 7 marzo 1996, n. 109, articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;109#art_1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;109#art_2) e [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;109#art_3);

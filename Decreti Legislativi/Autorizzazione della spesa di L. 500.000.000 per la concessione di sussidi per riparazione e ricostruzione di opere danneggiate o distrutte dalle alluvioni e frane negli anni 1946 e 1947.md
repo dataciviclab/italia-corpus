@@ -35,7 +35,7 @@ I sussidi di cui al precedente articolo sono concessi:
 ## Art. 3.
 
 Le domande di sussidio di cui al precedente art. 2 debbono essere presentate al competente Ufficio del genio civile, entro novanta giorni dall'entrata in vigore del presente decreto. ((1))
- Le domande relative alle opere di pertinenza di Amministrazioni comunali e provinciali devono essere documentate secondo le disposizioni del regolamento approvato con [regio decreto 23 ottobre 1904, n. 625](../Regi%20decreti/Che%20approva%20e%20contiene%20il%20regolamento%20per%20la%20concessione%20di%20sussidi%20pei%20lavori%20di%20difesa%20delle%20strade%20provinciali%20e%20comunali%20e%20degli%20abitati%20contro%20le%20frane%20e%20le%20corrosioni%20dei%20fiumi%20e%20to_caca810c91db.md).
+ Le domande relative alle opere di pertinenza di Amministrazioni comunali e provinciali devono essere documentate secondo le disposizioni del regolamento approvato con [regio decreto 23 ottobre 1904, n. 625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-10-23;625).
  Le domande relative alle chiese e agli edifici delle istituzioni pubbliche di assistenza e beneficenza debbono essere corredate dalle perizie dei lavori e dal certificato attestante l'appartenenza e la destinazione dell'edificio, rilasciato per gli edifici di culto, dall'Ordinario diocesano e, per gli istituti di assistenza e beneficenza, dal Prefetto.
  La spesa ammissibile a sussidio non potra' eccedere quella occorrente per il ripristino dei fabbricati nelle condizioni preesistenti al danneggiamento.
  Il pagamento dei sussidi concessi verra' effettuato con le norme del citato [regolamento 23 ottobre 1904, n. 625](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1904-10-23;625).

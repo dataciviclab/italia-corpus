@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), che approva le disposizioni di legge per l'amministrazione del patrimonio e per la contabilita' generale dello Stato;
+Visto il [R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), che approva le disposizioni di legge per l'amministrazione del patrimonio e per la contabilita' generale dello Stato;
 
 Visto il [R. decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), che approva il regolamento per l'amministrazione del patrimonio e per la contabilita' generare dello Stato;
 

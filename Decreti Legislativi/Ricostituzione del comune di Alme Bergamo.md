@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Il comune di Alme' riunito con quelli di Bruntino e di Villa d'Alme' nell'unico comune di Alme' con Villa, in virtu' del [regio decreto 30 giugno 1927, n. 1177](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Alme%20Villa%20dAlme%20e%20Bruntino%20in%20un%20unico%20Comune%20denominato%20%20Alme%20con%20Villa%20.%20027U1177.md), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo.
+Il comune di Alme' riunito con quelli di Bruntino e di Villa d'Alme' nell'unico comune di Alme' con Villa, in virtu' del [regio decreto 30 giugno 1927, n. 1177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-06-30;1177), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo.
  Il Prefetto di Bergamo, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i Comuni suddetti in dipendenza dell'attuazione del presente decreto.
 
 ## Art. 2.

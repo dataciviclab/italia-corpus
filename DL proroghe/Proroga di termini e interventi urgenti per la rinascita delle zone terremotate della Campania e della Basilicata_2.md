@@ -134,7 +134,7 @@ Entro trenta giorni dal rilascio del certificato di abitabilita' o di agibilita'
 
 7.
 
-Il recupero delle eventuali somme eccedenti il contributo avviene in base alle disposizioni di cui al [regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md). E' in facolta' dei proprietari utilizzare, con imputazione sulle somme dovute, il contributo spettante per altre unita' da riparare o ricostruire a condizione che siano ceduti al comune i relativi diritti di proprieta' sugli immobili non riparati o non ricostruiti.
+Il recupero delle eventuali somme eccedenti il contributo avviene in base alle disposizioni di cui al [regio decreto 14 aprile 1910, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-14;639). E' in facolta' dei proprietari utilizzare, con imputazione sulle somme dovute, il contributo spettante per altre unita' da riparare o ricostruire a condizione che siano ceduti al comune i relativi diritti di proprieta' sugli immobili non riparati o non ricostruiti.
 
 8.
 

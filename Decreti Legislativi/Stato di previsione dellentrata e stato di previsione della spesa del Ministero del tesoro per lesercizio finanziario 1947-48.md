@@ -38,15 +38,15 @@ E' autorizzato il pagamento delle spese ordinarie e straordinarie del Ministero 
 
 ## Art. 4.
 
-Per gli effetti di cui all'[art. 40 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sulla contabilita' generale dello Stato, sono considerate spese obbligatorie e d'ordine quelle descritte nell'elenco n. 1 annesso al presente decreto.
+Per gli effetti di cui all'[art. 40 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_40), sulla contabilita' generale dello Stato, sono considerate spese obbligatorie e d'ordine quelle descritte nell'elenco n. 1 annesso al presente decreto.
 
 ## Art. 5.
 
-Per il pagamento delle spese indicate nell'elenco n. 2, annesso al presente decreto, il Ministro per il tesoro potra' autorizzare aperture di credito a favore dei funzionari da esso dipendenti, ai termini dell'[art. 56 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sulla contabilita' generale dello Stato.
+Per il pagamento delle spese indicate nell'elenco n. 2, annesso al presente decreto, il Ministro per il tesoro potra' autorizzare aperture di credito a favore dei funzionari da esso dipendenti, ai termini dell'[art. 56 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56), sulla contabilita' generale dello Stato.
 
 ## Art. 6.
 
-I capitoli della parte passiva del bilancio, a favore dei quali e' data facolta' al Governo di inscrivere somme con decreti da emanare in applicazione del disposto dell'[art. 41 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sulla contabilita' generale dello Stato, sono quelli descritti, rispettivamente, negli elenchi numeri 3 e 4 annessi al presente decreto.
+I capitoli della parte passiva del bilancio, a favore dei quali e' data facolta' al Governo di inscrivere somme con decreti da emanare in applicazione del disposto dell'[art. 41 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_41), sulla contabilita' generale dello Stato, sono quelli descritti, rispettivamente, negli elenchi numeri 3 e 4 annessi al presente decreto.
 
 ## Art. 7.
 
@@ -63,7 +63,7 @@ Il contributo da corrispondere all'Azienda nazionale autonoma delle strade stata
 ## Art. 10.
 
 Per l'esercizio finanziario 1947-48 l'assegnazione a favore dell'Istituto Centrale di Statistica, di cui alla [legge 9 luglio 1926, n. 1162](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20del%20servizio%20statistico.%20026U1162.md), e' autorizzata in L. 327.288.000.
- Nella suddetta somma sono comprese anche le assegnazioni: di L. 540.000 concessa ai sensi del [regio decreto 2 giugno 1927, n. 1035](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasferimento%20del%20servizio%20di%20statistica%20agraria%20e%20forestale%20allIstituto%20centrale%20di%20statistica.%20027U1035.md), per le spese di formazione delle statistiche agrarie e forestali e di L. 150.000 prevista dal [regio decreto 8 giugno 1933, n. 697](../Regi%20decreti/Passaggio%20allistituto%20centrale%20di%20statistica%20del%20servizio%20della%20statistica%20del%20lavoro%20italiano%20allestero.%20033U0697.md), per il servizio della statistica del lavoro italiano all'estero.
+ Nella suddetta somma sono comprese anche le assegnazioni: di L. 540.000 concessa ai sensi del [regio decreto 2 giugno 1927, n. 1035](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasferimento%20del%20servizio%20di%20statistica%20agraria%20e%20forestale%20allIstituto%20centrale%20di%20statistica.%20027U1035.md), per le spese di formazione delle statistiche agrarie e forestali e di L. 150.000 prevista dal [regio decreto 8 giugno 1933, n. 697](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-06-08;697), per il servizio della statistica del lavoro italiano all'estero.
 
 ## Art. 11.
 

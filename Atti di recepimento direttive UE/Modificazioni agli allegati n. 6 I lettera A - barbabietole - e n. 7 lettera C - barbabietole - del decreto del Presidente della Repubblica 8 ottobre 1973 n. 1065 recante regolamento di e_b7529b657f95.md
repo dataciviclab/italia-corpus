@@ -14,7 +14,7 @@ Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Vista la [legge 25 novembre 1971, n. 1096](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-11-25;1096), sulla disciplina dell'attivita' sementiera ed in particolare l'art. 40, ultimo comma, di detta legge che autorizza l'emanazione di norme regolamentari esecutive ed integrative anche ai fini di ulteriori attuazioni delle direttive comunitarie in materia di sementi di barbabietole da zucchero e da foraggio;
 
-Visto il [decreto del Presidente della Repubblica 8 ottobre 1973, n. 1065](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20della%20legge%2025%20novembre%201971%20n.%201096%20concernente%20la%20disciplina%20della%20produzione%20e%20del%20commercio%20delle%20sementi.md), recante il regolamento di esecuzione della citata [legge 25 novembre 1971, n. 1096](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-11-25;1096);
+Visto il [decreto del Presidente della Repubblica 8 ottobre 1973, n. 1065](../DPR/Regolamento%20di%20esecuzione%20della%20legge%2025%20novembre%201971%20n.%201096%20concernente%20la%20disciplina%20della%20produzione%20e%20del%20commercio%20delle%20sementi.md), recante il regolamento di esecuzione della citata [legge 25 novembre 1971, n. 1096](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-11-25;1096);
 
 Vista la [direttiva (CEE) n. 76/331 della commissione del 29 marzo 1976](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1976;331) relativa alla commercializzazione delle sementi di barbabietole;
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro dell'agricoltura e delle foreste, di concerto con i 
 
 ## Art. 1.
 
-L'allegato n. 6, I, lettera A) - barbabietole - del regolamento di esecuzione alla [legge 25 novembre 1971, n. 1096](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-11-25;1096), sulla disciplina della produzione e del commercio delle sementi, approvato con [decreto del Presidente della Repubblica 8 ottobre 1973, n. 1065](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20della%20legge%2025%20novembre%201971%20n.%201096%20concernente%20la%20disciplina%20della%20produzione%20e%20del%20commercio%20delle%20sementi.md), e' sostituito dal seguente: 
+L'allegato n. 6, I, lettera A) - barbabietole - del regolamento di esecuzione alla [legge 25 novembre 1971, n. 1096](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-11-25;1096), sulla disciplina della produzione e del commercio delle sementi, approvato con [decreto del Presidente della Repubblica 8 ottobre 1973, n. 1065](../DPR/Regolamento%20di%20esecuzione%20della%20legge%2025%20novembre%201971%20n.%201096%20concernente%20la%20disciplina%20della%20produzione%20e%20del%20commercio%20delle%20sementi.md), e' sostituito dal seguente: 
  
  A) BARBABIETOLE
 
@@ -100,7 +100,7 @@ Specie
 
 ## Art. 2.
 
-L'allegato 7, lettera C) - barbabietole - del regolamento di esecuzione alla [legge 25 novembre 1971, n. 1096](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-11-25;1096) di cui al citato [decreto del Presidente della Repubblica 8 ottobre 1973, n. 1065](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20della%20legge%2025%20novembre%201971%20n.%201096%20concernente%20la%20disciplina%20della%20produzione%20e%20del%20commercio%20delle%20sementi.md) e' sostituito dal seguente:
+L'allegato 7, lettera C) - barbabietole - del regolamento di esecuzione alla [legge 25 novembre 1971, n. 1096](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-11-25;1096) di cui al citato [decreto del Presidente della Repubblica 8 ottobre 1973, n. 1065](../DPR/Regolamento%20di%20esecuzione%20della%20legge%2025%20novembre%201971%20n.%201096%20concernente%20la%20disciplina%20della%20produzione%20e%20del%20commercio%20delle%20sementi.md) e' sostituito dal seguente:
  "1) La coltura deve presentare identita' e purezza della varieta' in grado sufficiente.
  2) La coltura deve essere assoggettata almeno ad una ispezione ufficiale in campo e per le sementi di base, almeno a due ispezioni, una ai vivai ed una alle piante portaseme.
  3) Lo stato colturale del campo di produzione e lo stato di sviluppo della coltura devono consentire un controllo sufficiente della identita' e della purezza del tipo o della varieta'.

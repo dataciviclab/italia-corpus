@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Gli articoli 115 e 131 del regolamento sul servizio metrico, approvato con [regio decreto 31 gennaio 1909, n. 242](../Regi%20decreti/che%20approva%20il%20regolamento%20per%20il%20servizio%20metrico%20009U0242.md), sono sostituiti dal seguenti:
+Gli articoli 115 e 131 del regolamento sul servizio metrico, approvato con [regio decreto 31 gennaio 1909, n. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-01-31;242), sono sostituiti dal seguenti:
  "Art. 115. - Nel laboratorio dei saggi dell'Ufficio centrale si eseguiscono i saggi e le analisi di cui al capoverso c) dell'art. 10 e per tali operazioni sono riscossi i diritti seguenti:
  per ogni analisi di leghe di metalli comuni: L. 500 per ciascuno dei componenti da determinare, con un minimo di L. 1000; per ogni determinazione quantitativa d'argentatura L. 200; per saggi non indicati nel presente articolo viene percepito un diritto, in ragione del tempo impiegato, sulla base di L. 200 all'ora di lavoro".
  "Art. 131. Per le verificazioni facoltative, di cui all'art. 35 della legge, da eseguirsi nel laboratorio metrico dell'Ufficio centrale sono riscossi i seguenti diritti:

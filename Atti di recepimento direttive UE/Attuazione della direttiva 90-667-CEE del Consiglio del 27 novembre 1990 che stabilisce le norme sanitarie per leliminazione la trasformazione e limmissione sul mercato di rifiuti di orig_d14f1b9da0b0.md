@@ -96,7 +96,7 @@ I materiali di cui al comma 1, possono essere trasformati soltanto in uno stabil
 
 3.
 
-Salvo quanto specificatamente previsto dal Regolamento di polizia veterinaria e successive modifiche, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md), l'autorita' sanitaria locale decide, se necessario, che i materiali ad alto rischio siano eliminati, mediante incenerimento o mediante sotterramento secondo che:
+Salvo quanto specificatamente previsto dal Regolamento di polizia veterinaria e successive modifiche, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), l'autorita' sanitaria locale decide, se necessario, che i materiali ad alto rischio siano eliminati, mediante incenerimento o mediante sotterramento secondo che:
                             a)
                                 il trasporto fino allo stabilimento piu' vicino di trasformazione di materiali ad alto rischio di animali colpiti da una malattia epizootica o che si sospetta ne siano colpiti e' rifiutato a causa del (( pericolo )) che si propaghino rischi sanitari;
                             b)

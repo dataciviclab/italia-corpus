@@ -711,7 +711,7 @@ Note all'art. 38:
  2. All'[art. 20, comma 1, del decreto legislativo 17 novembre 1997, n. 398](../Decreti%20Legislativi/Modifica%20alla%20disciplina%20del%20concorso%20per%20uditore%20giudiziario%20e%20norme%20sulle%20scuole%20di%20specializzazione%20per%20le%20professioni%20legali%20a%20norma%20dellarticolo%2017%20commi%20113%20e%20114%20della%20legge%2015%20mag_3663dfbc15a6.md), sono apportate le seguenti modificazioni:
  a) sono soppresse le parole: "123, comma 1, lettera a), 123-bis, 123-quater, 123-quinquies," e le parole: "nonche' l'art. 17 del presente decreto legislativo";
  b) (omissis).
- 3. All'[art. 6, settimo comma, del regio decreto 15 ottobre 1925, n. 1860](../Regi%20decreti/Modificazioni%20al%20regolamento%20per%20il%20concorso%20di%20ammissione%20in%20magistratura%20contenuto%20nel%20R.%20decreto%2019%20luglio%201924%20n.%201218.%20025U1860.md), le parole: "due membri" sono sostituite dalle seguenti: "un membro".
+ 3. All'[art. 6, settimo comma, del regio decreto 15 ottobre 1925, n. 1860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;1860#art_6-com7), le parole: "due membri" sono sostituite dalle seguenti: "un membro".
  4. Al comma 2 dell'art. 12 della legge 24 marzo 1958, e successive modificazioni, le parole: "Se il numero degli idonei e' superiore a quello dei posti messi a concorso, eventualmente aumentati di un decimo," sono soppresse.
  5. (abrogato)".
  "Art. 14 (Concorso per magistrato di tribunale). - 1. (Aggiunge l'[art. 126-ter al regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_126ter)).

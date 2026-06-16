@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n.151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [R. decreto 9 luglio 1939, n. 1238](../Regi%20decreti/Ordinamento%20dello%20stato%20civile.%20039U1238.md);
+Visto il [R. decreto 9 luglio 1939, n. 1238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-07-09;1238);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -26,7 +26,7 @@ Sulla proposta del Guardasigilli Ministro Segretario di Stato per la grazia e gi
 
 ## Art. 1.
 
-Qualora risulti che atti dello stato civile relativi a persone colpite da leggi razziali sono stati formati, fra l'8 settembre 1943 e il giorno di liberazione del territorio dall'occupazione nemica, in maniera non conforme al vero, il procuratore del Re puo' promuovere la modificazione degli atti stessi con il procedimento di rettifica preveduto dagli [articoli 165](../Regi%20decreti/Ordinamento%20dello%20stato%20civile.%20039U1238.md) e [168 del R. decreto 9 luglio 1939, n. 1238](../Regi%20decreti/Ordinamento%20dello%20stato%20civile.%20039U1238.md).
+Qualora risulti che atti dello stato civile relativi a persone colpite da leggi razziali sono stati formati, fra l'8 settembre 1943 e il giorno di liberazione del territorio dall'occupazione nemica, in maniera non conforme al vero, il procuratore del Re puo' promuovere la modificazione degli atti stessi con il procedimento di rettifica preveduto dagli [articoli 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-07-09;1238#art_165) e [168 del R. decreto 9 luglio 1939, n. 1238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-07-09;1238#art_168).
 
 ## Art. 2.
 

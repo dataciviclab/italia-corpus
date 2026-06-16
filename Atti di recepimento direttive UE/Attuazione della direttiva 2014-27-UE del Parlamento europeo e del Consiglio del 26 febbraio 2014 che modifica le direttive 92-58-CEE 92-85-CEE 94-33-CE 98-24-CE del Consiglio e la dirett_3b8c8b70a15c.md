@@ -30,7 +30,7 @@ Visto il [decreto legislativo 14 marzo 2003, n. 65](Attuazione%20delle%20diretti
 
 Visto il [decreto legislativo 9 aprile 2008, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md), recante attuazione dell'[articolo 1 della legge 3 agosto 2007, n. 123](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Misure%20in%20tema%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20sul%20lavoro%20e%20delega%20al%20Governo%20per%20il%20riassetto%20e%20la%20riforma%20della%20normativa%20in%20materia.md), in materia di tutela della salute e della sicurezza nei luoghi di lavoro;
 
-Visto il [decreto legislativo 26 marzo 2001, n. 151](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20tutela%20e%20sostegno%20della%20maternita%20e%20della%20paternita%20a%20norma%20dellarticolo%2015%20della%20legge%208%20marzo%202000%20n.%2053.md), contenente il Testo unico delle disposizioni legislative in materia di tutela e sostegno della maternita' e della paternita', a norma dell'[articolo 15 della legge 8 marzo 2000, n. 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-03-08;53#art_15);
+Visto il [decreto legislativo 26 marzo 2001, n. 151](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20tutela%20e%20sostegno%20della%20maternita%20e%20della%20paternita%20a%20norma%20dellarticolo%2015%20della%20legge%208%20marzo%202000%20n.%2053.md), contenente il Testo unico delle disposizioni legislative in materia di tutela e sostegno della maternita' e della paternita', a norma dell'[articolo 15 della legge 8 marzo 2000, n. 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-03-08;53#art_15);
 
 Vista la [legge 17 ottobre 1967, n. 977](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-10-17;977), recante disposizioni in materia di tutela del lavoro dei bambini e degli adolescenti;
 
@@ -98,7 +98,7 @@ Al [decreto legislativo 9 aprile 2008, n. 81](../Leggi%20delega%20e%20relativi%2
 
 1.
 
-Al [decreto legislativo 26 marzo 2001, n. 151](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20tutela%20e%20sostegno%20della%20maternita%20e%20della%20paternita%20a%20norma%20dellarticolo%2015%20della%20legge%208%20marzo%202000%20n.%2053.md), allegato C, sono apportate le seguenti modificazioni:
+Al [decreto legislativo 26 marzo 2001, n. 151](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20tutela%20e%20sostegno%20della%20maternita%20e%20della%20paternita%20a%20norma%20dellarticolo%2015%20della%20legge%208%20marzo%202000%20n.%2053.md), allegato C, sono apportate le seguenti modificazioni:
                         a)
                             alla sezione A: 
  1) il punto 2 e' sostituito dal seguente: 
@@ -119,7 +119,7 @@ Al [decreto legislativo 26 marzo 2001, n. 151](../Testi%20Unici/Testo%20unico%20
  Processi industriali che figurano nell'allegato XLII del [decreto legislativo 9 aprile 2008, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md).".
 
 Note all'art. 2: 
- - Il testo dell'allegato C al [decreto legislativo 26 marzo 2001, n. 151](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20tutela%20e%20sostegno%20della%20maternita%20e%20della%20paternita%20a%20norma%20dellarticolo%2015%20della%20legge%208%20marzo%202000%20n.%2053.md) (Testo unico delle disposizioni legislative in materia di tutela e sostegno della maternita' e della paternita', a norma dell'[art. 15 della legge 8 marzo 2000, n. 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-03-08;53#art_15)), modificato dal presente decreto, e' pubblicato nella Gazz. Uff 26 aprile 2001, n. 96, S.O.
+ - Il testo dell'allegato C al [decreto legislativo 26 marzo 2001, n. 151](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20tutela%20e%20sostegno%20della%20maternita%20e%20della%20paternita%20a%20norma%20dellarticolo%2015%20della%20legge%208%20marzo%202000%20n.%2053.md) (Testo unico delle disposizioni legislative in materia di tutela e sostegno della maternita' e della paternita', a norma dell'[art. 15 della legge 8 marzo 2000, n. 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-03-08;53#art_15)), modificato dal presente decreto, e' pubblicato nella Gazz. Uff 26 aprile 2001, n. 96, S.O.
 
 ## Art. 3. — Modifiche alla legge 17 ottobre 1967, n. 977
 

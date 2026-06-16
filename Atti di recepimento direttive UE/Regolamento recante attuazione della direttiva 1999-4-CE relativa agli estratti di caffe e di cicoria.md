@@ -16,7 +16,7 @@ Vista la [legge 21 dicembre 1999, n. 526](../Leggi%20di%20delegazione%20europea/
 
 Vista la [direttiva 1999/4/CE del Parlamento europeo e del Consiglio del 22 febbraio 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;4), relativa agli estratti di caffe' e agli estratti di cicoria;
 
-Visto il [decreto del Presidente della Repubblica 16 febbraio 1973, n. 470](../Regolamenti%20governativi/Regolamento%20per%20la%20disciplina%20igienica%20della%20produzione%20e%20del%20commercio%20del%20caffe%20e%20dei%20suoi%20derivati.md);
+Visto il [decreto del Presidente della Repubblica 16 febbraio 1973, n. 470](../DPR/Regolamento%20per%20la%20disciplina%20igienica%20della%20produzione%20e%20del%20commercio%20del%20caffe%20e%20dei%20suoi%20derivati.md);
 
 Visto il [decreto del Presidente della Repubblica 23 agosto 1982, n. 774](Attuazione%20della%20direttiva%20CEE%20n.%2077-436%20relativa%20agli%20estratti%20di%20caffe%20ed%20agli%20estratti%20di%20cicoria.md);
 
@@ -42,7 +42,7 @@ L'[articolo 1 del decreto del Presidente della Repubblica 23 agosto 1982, n. 774
  "Art. 1 (Estratti di caffe'). - 1. Si intendono per estratti di caffe', i prodotti concentrati ottenuti mediante estrazione dai grani di caffe' torrefatti, utilizzando l'acqua come unico agente di estrazione, con esclusione di qualsiasi procedimento di idrolisi mediante aggiunta di acido o di base, e contenenti esclusivamente i principi solubili e aromatici del caffe', oltre alle sostanze non solubili, tecnicamente ineliminabili, ed agli oli non solubili provenienti dal caffe'.".
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE).
  Note alle premesse:
  - L'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
@@ -57,7 +57,7 @@ Avvertenza:
  1999/39/CE: direttiva della Commissione, del 6 maggio 1999, che modifica la [direttiva 96/5/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;5) sugli alimenti a base di cereali e gli altri alimenti destinati ai lattanti e ai bambini.
  1999/50/CE: direttiva della Commissione, del 25 maggio 1999, che modifica la [direttiva 91/321/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;321) sugli alimenti per lattanti e alimenti di proseguimento.
  La [direttiva 1999/4/CE del Parlamento europeo e del Consiglio del 22 febbraio 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;4) e' pubblicata in G.U.C.E. n. L. 066 del 13 marzo 1999.
- - Il [decreto del Presidente della Repubblica 16 febbraio 1973, n. 470](../Regolamenti%20governativi/Regolamento%20per%20la%20disciplina%20igienica%20della%20produzione%20e%20del%20commercio%20del%20caffe%20e%20dei%20suoi%20derivati.md), reca: "Regolamento per la disciplina igienica della produzione e del commercio del caffe' e dei suoi derivati".
+ - Il [decreto del Presidente della Repubblica 16 febbraio 1973, n. 470](../DPR/Regolamento%20per%20la%20disciplina%20igienica%20della%20produzione%20e%20del%20commercio%20del%20caffe%20e%20dei%20suoi%20derivati.md), reca: "Regolamento per la disciplina igienica della produzione e del commercio del caffe' e dei suoi derivati".
  - Il [decreto del Presidente della Repubblica 23 agosto 1982, n. 774](Attuazione%20della%20direttiva%20CEE%20n.%2077-436%20relativa%20agli%20estratti%20di%20caffe%20ed%20agli%20estratti%20di%20cicoria.md), reca: "Attuazione della [direttiva (CEE) n. 77/436](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1977;436) relativa agli estratti di caffe' ed agli estratti di cicoria".
  - La [legge 22 febbraio 1994, n. 146](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201993.md), reca: "Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 1993.
  L'[art. 50 della legge 22 febbraio 1994, n. 146](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201993.md), cosi' recita:
@@ -149,13 +149,13 @@ A partire dalla data di entrata in vigore del presente regolamento sono abrogate
                         a)
                             l'[articolo 3, secondo comma](Attuazione%20della%20direttiva%20CEE%20n.%2077-436%20relativa%20agli%20estratti%20di%20caffe%20ed%20agli%20estratti%20di%20cicoria.md), e l'[articolo 6 del decreto del Presidente della Repubblica 23 agosto 1982, n. 774](Attuazione%20della%20direttiva%20CEE%20n.%2077-436%20relativa%20agli%20estratti%20di%20caffe%20ed%20agli%20estratti%20di%20cicoria.md);
                         b)
-                            gli articoli 6, primo comma, 8, 11, 18 e 19 del [decreto del Presidente della Repubblica 16 febbraio 1973, n. 470](../Regolamenti%20governativi/Regolamento%20per%20la%20disciplina%20igienica%20della%20produzione%20e%20del%20commercio%20del%20caffe%20e%20dei%20suoi%20derivati.md);
+                            gli articoli 6, primo comma, 8, 11, 18 e 19 del [decreto del Presidente della Repubblica 16 febbraio 1973, n. 470](../DPR/Regolamento%20per%20la%20disciplina%20igienica%20della%20produzione%20e%20del%20commercio%20del%20caffe%20e%20dei%20suoi%20derivati.md);
                         c)
                             il [decreto ministeriale 3 dicembre 1987, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1987-12-03;599).
 
 Note all'[art. 5:
  - Per il decreto del Presidente della Repubblica 23 agosto 1982, n. 774](Attuazione%20della%20direttiva%20CEE%20n.%2077-436%20relativa%20agli%20estratti%20di%20caffe%20ed%20agli%20estratti%20di%20cicoria.md), vedi note alle premesse.
- - Per il [decreto del Presidente della Repubblica 16 febbraio 1973, n. 470](../Regolamenti%20governativi/Regolamento%20per%20la%20disciplina%20igienica%20della%20produzione%20e%20del%20commercio%20del%20caffe%20e%20dei%20suoi%20derivati.md), vedi note alle premesse.
+ - Per il [decreto del Presidente della Repubblica 16 febbraio 1973, n. 470](../DPR/Regolamento%20per%20la%20disciplina%20igienica%20della%20produzione%20e%20del%20commercio%20del%20caffe%20e%20dei%20suoi%20derivati.md), vedi note alle premesse.
  - Per il [decreto ministeriale 3 dicembre 1987, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1987-12-03;599), vedi note alle premesse.
 
 ## Art. 6. — Entrata in vigore

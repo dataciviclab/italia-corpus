@@ -170,7 +170,7 @@ Le disposizioni del presente Codice si applicano:
                             b)
                                 ai gestori di servizi pubblici, ivi comprese le societa' quotate, in relazione ai servizi di pubblico interesse;
                             c)
-                                alle societa' a controllo pubblico, come definite nel [decreto legislativo 19 agosto 2016, n. 175](../Testi%20Unici/Testo%20unico%20in%20materia%20di%20societa%20a%20partecipazione%20pubblica.%2016G00188.md), escluse le societa' quotate di cui all'articolo 2, comma 1, lettera p), del medesimo decreto che non rientrino nella categoria di cui alla lettera b).
+                                alle societa' a controllo pubblico, come definite nel [decreto legislativo 19 agosto 2016, n. 175](Testo%20unico%20in%20materia%20di%20societa%20a%20partecipazione%20pubblica.%2016G00188.md), escluse le societa' quotate di cui all'articolo 2, comma 1, lettera p), del medesimo decreto che non rientrino nella categoria di cui alla lettera b).
 
 2-bis.
 
@@ -522,7 +522,7 @@ L'elenco dei domicili digitali dei soggetti di cui all'articolo 2, comma 2, lett
 
 1-quater.
 
-I soggetti di cui all'articolo 2, comma 2, notificano direttamente presso i domicili digitali di cui all'articolo 3-bis i propri atti, compresi i verbali relativi alle sanzioni amministrative, gli atti impositivi di accertamento e di riscossione e le ingiunzioni di cui all'[articolo 2 del regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md), fatte salve le specifiche disposizioni in ambito tributario. La conformita' della copia informatica del documento notificato all'originale e' attestata dal responsabile del procedimento in conformita' a quanto disposto agli articoli 22 e 23-bis.
+I soggetti di cui all'articolo 2, comma 2, notificano direttamente presso i domicili digitali di cui all'articolo 3-bis i propri atti, compresi i verbali relativi alle sanzioni amministrative, gli atti impositivi di accertamento e di riscossione e le ingiunzioni di cui all'[articolo 2 del regio decreto 14 aprile 1910, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-14;639#art_2), fatte salve le specifiche disposizioni in ambito tributario. La conformita' della copia informatica del documento notificato all'originale e' attestata dal responsabile del procedimento in conformita' a quanto disposto agli articoli 22 e 23-bis.
 
 ))
 

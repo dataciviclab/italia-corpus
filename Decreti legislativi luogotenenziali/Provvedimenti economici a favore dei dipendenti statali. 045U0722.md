@@ -216,7 +216,7 @@ Ai fini dei precedenti articoli si considerano anche i figli naturali legalmente
 
 AGGIORNAMENTO (1)
 
-Il [Regio D.Lgs. 29 maggio 1946, n. 488](../Regi%20decreti%20legislativi/Modificazioni%20delle%20disposizioni%20vigenti%20per%20la%20liquidazione%20della%20indennita%20di%20carovita%20e%20per%20la%20concessione%20dellindennita%20ai%20dipendenti%20statali%20residenti%20in%20Comuni%20distrutti%20o%20gravement_f04ea74b5da4.md) ha disposto (con l'art. 1, comma 1) che la presente modifica decorre dal 1° gennaio 1946.
+Il [Regio D.Lgs. 29 maggio 1946, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-29;488) ha disposto (con l'art. 1, comma 1) che la presente modifica decorre dal 1° gennaio 1946.
 
 ## Art. 6.
 
@@ -328,7 +328,7 @@ Il [primo comma dell'art. 5 del decreto legislativo Luogotenenziale 24 agosto 19
  
  « Nelle more dei provvedimenti di cui al precedente art. 3 il Ministro per l'interno di concerto con quello per il tesoro, sentita la Commissione centrale per la finanza locale, e' autorizzato, nei casi di riconosciuta necessita', a disporre direttamente od a mezzo dei prefetti, congrue anticipazioni sul fabbisogno a pareggio dei bilanci delle provincie e dei comuni ». 
  
- Per le aperture di credito inerenti al pagamento dei contributi integrativi dei bilanci provinciali e comunali e delle anticipazioni di cui al comma precedente e' autorizzata la deroga alle limitazioni previste dall'[art. 56 del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md). 
+ Per le aperture di credito inerenti al pagamento dei contributi integrativi dei bilanci provinciali e comunali e delle anticipazioni di cui al comma precedente e' autorizzata la deroga alle limitazioni previste dall'[art. 56 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56). 
  
  E' abrogato l'[art. 4 del decreto legislativo Luogotenenziale 11 gennaio 1945, n. 51](Norme%20per%20la%20concessione%20dei%20mutui%20per%20il%20pareggio%20economico%20dei%20bilanci%20delle%20Amministrazioni%20provinciali%20e%20comunali.%20045U0051.md).
 

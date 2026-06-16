@@ -34,7 +34,7 @@ Visto l'[articolo 4 del decreto-legge 5 ottobre 1993, n. 398](https://www.normat
 
 Visto il [decreto legislativo 29 ottobre 1999, n. 490](Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20beni%20culturali%20e%20ambientali%20a%20norma%20dellarticolo%201%20della%20legge%208%20ottobre%201997%20n.%20352.md);
 
-Visto il [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), e successive modificazioni;
+Visto il [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), e successive modificazioni;
 
 Vista la [legge 5 novembre 1971, n. 1086](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-11-05;1086), e successive modificazioni;
 
@@ -526,7 +526,7 @@ Dichiarazione di inagibilita' (regio decreto 27 luglio 1934, n. 1265, art. 222)
 
 1.
 
-Il rilascio del certificato di agibilita' non impedisce l'esercizio del potere di dichiarazione di inagibilita' di un edificio o di parte di esso ai sensi dell'[articolo 222 del regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md).
+Il rilascio del certificato di agibilita' non impedisce l'esercizio del potere di dichiarazione di inagibilita' di un edificio o di parte di esso ai sensi dell'[articolo 222 del regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_222).
 
 ## VIGILANZA SULL'ATTIVITA' URBANISTICO EDILIZIA, RESPONSABILITA' E SANZIONI Capo I Vigilanza sull'attivita' urbanistico-edilizia e responsabilita'
 
@@ -2465,7 +2465,7 @@ Ai sensi dell'[articolo 20, comma 4, della legge 15 marzo 1997, n. 59](../Leggi%
 
 Ai sensi dell'[articolo 7 della legge 8 marzo 1999, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-08;50#art_7), dalla data di entrata in vigore del presente testo unico sono altresi' abrogate le seguenti disposizioni:
                             a)
-                                [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), limitatamente agli articoli 220 e 221, comma 2;
+                                [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), limitatamente agli articoli 220 e 221, comma 2;
                             b)
                                 [legge 17 agosto 1942, n. 1150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-08-17;1150), limitatamente agli articoli 26, 27, 33, 41-ter, 41-quater, 41-quinquies, ad esclusione dei commi 6, 8 e 9;
                             c)

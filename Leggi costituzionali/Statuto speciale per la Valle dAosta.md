@@ -113,7 +113,7 @@ Per le subconcessioni di derivazioni a scopo idroelettrico, la Regione non potra
 
 ### Art. 10.
 
-I termini per l'applicazione delle norme, contenute nel [testo unico delle leggi sulle acque e sugli impianti elettrici](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), a favore dei Comuni, per i loro servizi pubblici, se prescritti, sono riaperti a decorrere dal 7 settembre 1945.
+I termini per l'applicazione delle norme, contenute nel [testo unico delle leggi sulle acque e sugli impianti elettrici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775), a favore dei Comuni, per i loro servizi pubblici, se prescritti, sono riaperti a decorrere dal 7 settembre 1945.
 
 ### Art. 11.
 

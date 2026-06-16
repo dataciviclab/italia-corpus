@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 15 dicembre 1927, n. 2562](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Chianche%20Chianchetelle%20Petruro%20e%20San%20Pietro%20Irpino%20in%20un%20unico%20Comune%20con%20capoluogo%20Chianche.%20027U2562.md);
+Visto il [R. decreto 15 dicembre 1927, n. 2562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-12-15;2562);
 
 Visto il [R. decreto 2 gennaio 1928, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-01-02;172);
 
@@ -30,7 +30,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Ministro per l'interno
 
 ## Art. 1.
 
-Il comune di Sorbo Serpico aggregato con [R. decreto 2 gennaio 1928, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-01-02;172), a quello di Salza Irpina ed il comune di Petruro aggregato con [R. decreto 15 dicembre 1927, n. 2562](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Chianche%20Chianchetelle%20Petruro%20e%20San%20Pietro%20Irpino%20in%20un%20unico%20Comune%20con%20capoluogo%20Chianche.%20027U2562.md), a quello di Chianche sono ricostituiti con la circoscrizione preesistente all'entrata in vigore dei citati decreti. 
+Il comune di Sorbo Serpico aggregato con [R. decreto 2 gennaio 1928, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-01-02;172), a quello di Salza Irpina ed il comune di Petruro aggregato con [R. decreto 15 dicembre 1927, n. 2562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-12-15;2562), a quello di Chianche sono ricostituiti con la circoscrizione preesistente all'entrata in vigore dei citati decreti. 
  
  Il Prefetto di Avellino, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i comuni di Serbo Serpico e Salza Irpina e quelli di Petruro e Chianche.
 
@@ -38,7 +38,7 @@ Il comune di Sorbo Serpico aggregato con [R. decreto 2 gennaio 1928, n. 172](htt
 
 Gli organici dei ricostituiti comuni di Sorbo Serpico e Petruro saranno stabiliti dal Prefetto, sentita la Giunti provinciale amministrativa. 
  
- Il numero dei posti ed i gradi relativi non potranno essere superiori rispettivamente a quelli organicamente assegnati ai comuni di Sorbo Serpico e di Petruro anteriormente alla loro aggregazione, rispettivamente, a quelli di Salza Irpina e Chianche, disposta con [Regi decreti 2 gennaio 1928, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-01-02;172), e [15 dicembre 1927 n. 2562](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Chianche%20Chianchetelle%20Petruro%20e%20San%20Pietro%20Irpino%20in%20un%20unico%20Comune%20con%20capoluogo%20Chianche.%20027U2562.md). 
+ Il numero dei posti ed i gradi relativi non potranno essere superiori rispettivamente a quelli organicamente assegnati ai comuni di Sorbo Serpico e di Petruro anteriormente alla loro aggregazione, rispettivamente, a quelli di Salza Irpina e Chianche, disposta con [Regi decreti 2 gennaio 1928, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-01-02;172), e [15 dicembre 1927 n. 2562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-12-15;2562). 
  
  Il personale gia' in servizio presso i comuni di Salza Irpina e Chianche e che eventualmente sara' inquadrato nei predetti organici, dovra' avere posizione gerarchica e trattamento economico non superiori a quelli goduti all'atto dell'inquadramento medesimo.
 

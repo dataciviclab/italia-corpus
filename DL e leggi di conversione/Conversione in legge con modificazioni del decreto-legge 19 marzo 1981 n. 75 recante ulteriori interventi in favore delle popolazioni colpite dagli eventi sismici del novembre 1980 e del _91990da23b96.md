@@ -529,7 +529,7 @@ TITOLO VI
 ### Art. 39. — (Istituzione).
 
 Con effetto dall'anno accademico 1982-1983 e' istituita l'Universita' statale degli studi della Basilicata con sede in Potenza.
- L'Universita' suindicata e' compresa tra quelle previste dall'articolo 1, numero 1), del testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni.
+ L'Universita' suindicata e' compresa tra quelle previste dall'articolo 1, numero 1), del testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni.
  Per le spese di funzionamento e per l'istituzione dei nuovi posti di personale non docente necessari nella Universita' della Basilicata, e' previsto uno stanziamento di lire 15 mila milioni per gli anni finanziari 1982 e 1983, dei quali 13 mila milioni a valere sui fondi stanziati con la presente legge.
 
 ### Art. 40. — (Facolta' e corsi di laurea).
@@ -595,7 +595,7 @@ In relazione alle disponibilita' edilizie, di arredamento e di attrezzature dida
 
 ### Art. 46. — (Statuto).
 
-Entro 180 giorni dalla data del decreto di nomina dei comitati ordinatori sara' emanato, nelle forme e con le modalita' previste dall'articolo 17 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni, lo statuto dell'Universita' degli studi della Basilicata.
+Entro 180 giorni dalla data del decreto di nomina dei comitati ordinatori sara' emanato, nelle forme e con le modalita' previste dall'articolo 17 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni, lo statuto dell'Universita' degli studi della Basilicata.
  Lo statuto andra' in vigore dalla data di pubblicazione nella Gazzetta Ufficiale.
 
 ### Art. 47. — (Norme di rinvio e finali).
@@ -610,7 +610,7 @@ CAPO II
 
 A decorrere dall'anno accademico 1981-1982 e' istituita presso l'Universita' degli studi di Salerno la facolta' di ingegneria comprendente, in prima applicazione, i corsi di laurea in ingegneria e tecnologia industriale e in ingegneria civile per la difesa del suolo e la pianificazione territoriale. 
  I corsi del biennio propedeutico di ingegneria, di cui al [decreto del Presidente della Repubblica 6 agosto 1971, n. 1379](../DPR/Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Salerno_2.md), attualmente funzionanti presso la facolta' di scienza matematiche, fisiche e naturali, dell'Universita' di Salerno, cessano di funzionare come corsi della predetta facolta' e costituiscono corsi normali della facolta' di ingegneria. 
- Con apposito decreto del Presidente della Repubblica, da emanarsi entro 60 giorni dalla data di entrata in vigore della presente legge, sara' stabilita, nelle forme e con le modalita' previste dall'articolo 17 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), l'ordinamento della facolta' e dei relativi corsi di laurea, di cui alla tabella XXIX dell'ordinamento didattico universitario. 
+ Con apposito decreto del Presidente della Repubblica, da emanarsi entro 60 giorni dalla data di entrata in vigore della presente legge, sara' stabilita, nelle forme e con le modalita' previste dall'articolo 17 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), l'ordinamento della facolta' e dei relativi corsi di laurea, di cui alla tabella XXIX dell'ordinamento didattico universitario. 
  I corsi del triennio saranno attivati gradualmente a decorrere dall'anno accademico 1981-1982. 
  I posti di ruolo del personale docente ricercatore e non docente attualmente assegnati al biennio propedeutico di ingegneria sono trasferiti alla facolta' di ingegneria. Alle ulteriori esigenze di personale docente e non docente si provvedera' con decreto del Ministro della pubblica istruzione utilizzando rispettivamente le dotazioni organiche di cui al [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](../DPR/Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md), e alla [legge 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312). Con l'attivazione del triennio viene costituito un comitato ordinatore, con le attribuzioni del consiglio di facolta', composto ai sensi del [decreto del Presidente della Repubblica 6 marzo 1978, n. 102](../DPR/Norme%20sulla%20Universita%20statale%20di%20Udine%20e%20sulla%20istituzione%20ed%20il%20potenziamento%20di%20strutture%20per%20la%20ricerca%20scientifica%20e%20tecnologica%20di%20alta%20cultura%20ed%20universitarie%20in%20Trieste.md). Fanno parte altresi' del comitato i professori di ruolo trasferiti ai sensi del presente comma. 
  Alle spese di funzionamento della facolta' di ingegneria si fara' fronte con i normali stanziamenti degli appositi capitoli di bilancio del Ministero della pubblica istruzione.
@@ -657,7 +657,7 @@ TITOLO VII
 ### Art. 54. — (Controlli).
 
 Per tutti gli atti e provvedimenti inerenti alla realizzazione di opere o di interventi ed alla concessione di contributi, da parte dello Stato, previsti dalla presente legge, i relativi controlli sono esercitati in via successiva.
- Per la somministrazione di fondi ai funzionari delegati si fa deroga al limite previsto dall'[articolo 56 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni.
+ Per la somministrazione di fondi ai funzionari delegati si fa deroga al limite previsto dall'[articolo 56 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56), e successive modificazioni.
  Nelle regioni Basilicata e Campania, le deliberazioni degli organi regionali sono soggette soltanto al controllo di legittimita' disciplinato dall'[articolo 45 della legge 10 febbraio 1953, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-02-10;62#art_45), e il termine di venti giorni di cui al secondo comma, secondo periodo, e' ridotto alla meta'.
  Nei comuni e nelle province soggetti alle disposizioni della presente legge, le deliberazioni dei relativi organi sono sottoposte soltanto al controllo di legittimita' disciplinato dall'[articolo 59 della legge 10 febbraio 1953, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-02-10;62#art_59), e il termine di venti giorni di cui al secondo comma, secondo periodo, e' ridotto alla meta'.
 
@@ -763,7 +763,7 @@ Per le esigenze dell'Istituto geografico militare, connesse con gli interventi n
 ### Art. 69. — (Relazione al Parlamento).
 
 Il Ministro per gli interventi straordinari nel Mezzogiorno invia semestralmente ai Presidenti delle Camere una relazione scritta sull'attuazione degli interventi previsti dalla presente legge. A tale fine, le Regioni trasmettono ogni sei mesi una relazione sullo stato di attuazione degli interventi di loro competenza.
- Il Governo riferisce contestualmente sul rispetto, per le regioni colpite dal terremoto, della riserva di cui all'articolo 107 del testo unico approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md).
+ Il Governo riferisce contestualmente sul rispetto, per le regioni colpite dal terremoto, della riserva di cui all'articolo 107 del testo unico approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md).
  Il mancato rispetto di tale riserva, a partire dal 10 gennaio 1982, da parte delle amministrazioni centrali dello Stato, delle aziende autonome e degli enti pubblici a carattere nazionale, preclude la possibilita' di attingere al fondo di cui all'articolo 3 della presente legge.
 
 ### Art. 70. — (Proroga delle aspettative).

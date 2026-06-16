@@ -215,7 +215,7 @@ All'[articolo 38, comma 1, del decreto legislativo 9 luglio 1997, n. 241](../Dec
 
 31.
 
-All'articolo 18, comma 1, del regolamento di cui al [decreto del Ministro delle finanze 31 maggio 1999, n. 164](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20per%20lassistenza%20fiscale%20resa%20dai%20Centri%20di%20assistenza%20fiscale%20per%20le%20imprese%20e%20per%20i%20dipendenti%20dai%20sostituti%20dimposta%20e%20dai%20professionisti%20ai%20sensi%20dellarticolo_7b28f03b2e87.md), in materia di assistenza fiscale resa dai Centri di assistenza fiscale per le imprese e per i dipendenti, dai sostituti d'imposta e dai professionisti, le parole: «Ai CAF-dipendenti ed ai sostituti il compenso di cui all'articolo 38» sono sostituite dalle seguenti: «Ai sostituti il compenso di cui all'articolo 38, comma 2».
+All'articolo 18, comma 1, del regolamento di cui al [decreto del Ministro delle finanze 31 maggio 1999, n. 164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze:decreto:1999-05-31;164), in materia di assistenza fiscale resa dai Centri di assistenza fiscale per le imprese e per i dipendenti, dai sostituti d'imposta e dai professionisti, le parole: «Ai CAF-dipendenti ed ai sostituti il compenso di cui all'articolo 38» sono sostituite dalle seguenti: «Ai sostituti il compenso di cui all'articolo 38, comma 2».
 
 32.
 

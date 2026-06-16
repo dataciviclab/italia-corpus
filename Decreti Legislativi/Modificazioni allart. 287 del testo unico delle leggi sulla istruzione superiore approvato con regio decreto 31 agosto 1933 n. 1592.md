@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-L'art. 287 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e' modificato come segue:
+L'art. 287 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e' modificato come segue:
  "Nel bilancio del Ministero della pubblica istruzione e' annualmente stanziata la somma di lire tre milioni per gli scopi di cui all'art. 96 e per concedere assegni a professori e studiosi incaricati di missioni culturali all'estero".
 
 ## Art. 2.

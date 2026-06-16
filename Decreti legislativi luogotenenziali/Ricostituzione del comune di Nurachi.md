@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 19 agosto 1927, n. 1701](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Riola%20Baratili%20San%20Pietro%20e%20Nurachi%20in%20un%20unico%20Comune%20denominato%20Riola.%20027U1701.md);
+Visto il [R. decreto 19 agosto 1927, n. 1701](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-08-19;1701);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -34,7 +34,7 @@ Il comune di Nurachi, aggregato con [R. decreto 12 agosto 1927, n. 1701](https:/
 ## Art. 2.
 
 L'organico del ricostituito comune di Nurachi e quello del comune di Riola Sardo saranno stabiliti dal Prefetto, sentita la Giunta provinciale amministrativa.
- Il numero dei posti ed i gradi relativi non potranno essere superiori rispettivamente a quelli organicamente assegnati ai Comuni suddetti anteriormente alla loro fusione disposta con [R. decreto 19 agosto 1927, n. 1701](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Riola%20Baratili%20San%20Pietro%20e%20Nurachi%20in%20un%20unico%20Comune%20denominato%20Riola.%20027U1701.md) Al personale gia' in servizio presso il comune di Riola Sardo e che eventualmente sara' inquadrato nei predetti organici non potranno essere attribuiti posizione gerarchica e trattamento economico superiori a quelli goduti all'atto dell'inquadramento medesimo.
+ Il numero dei posti ed i gradi relativi non potranno essere superiori rispettivamente a quelli organicamente assegnati ai Comuni suddetti anteriormente alla loro fusione disposta con [R. decreto 19 agosto 1927, n. 1701](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-08-19;1701) Al personale gia' in servizio presso il comune di Riola Sardo e che eventualmente sara' inquadrato nei predetti organici non potranno essere attribuiti posizione gerarchica e trattamento economico superiori a quelli goduti all'atto dell'inquadramento medesimo.
 
 ## Art. 3.
 

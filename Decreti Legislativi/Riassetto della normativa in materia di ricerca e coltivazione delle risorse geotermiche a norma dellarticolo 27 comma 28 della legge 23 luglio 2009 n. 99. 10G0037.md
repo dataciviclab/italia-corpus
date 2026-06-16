@@ -16,7 +16,7 @@ Vista la [legge 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?ur
 
 Vista la [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), recante disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri, e successive modificazioni, ed in particolare l'articolo 14;
 
-Visto il [regio decreto 29 luglio 1927, n. 1443](../Regi%20decreti/Norme%20di%20carattere%20legislativo%20per%20disciplinare%20la%20ricerca%20e%20la%20coltivazione%20delle%20miniere%20nel%20Regno.%20027U1443.md);
+Visto il [regio decreto 29 luglio 1927, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1443);
 
 Visto l'[articolo 826 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_826);
 
@@ -92,11 +92,11 @@ Fatto salvo quanto disposto ai comma 3, 3-bis e 5, sono di interesse locale le r
 
 5.
 
-Sono piccole utilizzazioni locali le risorse geotermiche come definite e disciplinate dall'articolo 10. Le stesse non sono soggette alla disciplina mineraria di cui al [regio decreto 29 luglio 1927, n. 1443, e all'articolo 826](../Regi%20decreti/Norme%20di%20carattere%20legislativo%20per%20disciplinare%20la%20ricerca%20e%20la%20coltivazione%20delle%20miniere%20nel%20Regno.%20027U1443.md) del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262).
+Sono piccole utilizzazioni locali le risorse geotermiche come definite e disciplinate dall'articolo 10. Le stesse non sono soggette alla disciplina mineraria di cui al [regio decreto 29 luglio 1927, n. 1443, e all'articolo 826](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1443#art_826) del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262).
 
 6.
 
-Le risorse geotermiche ai sensi e per gli effetti di quanto previsto e disciplinato dal [regio decreto 29 luglio 1927 n. 1443, e dall'articolo 826](../Regi%20decreti/Norme%20di%20carattere%20legislativo%20per%20disciplinare%20la%20ricerca%20e%20la%20coltivazione%20delle%20miniere%20nel%20Regno.%20027U1443.md) del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) sono risorse minerarie, dove le risorse geotermiche di interesse nazionale sono patrimonio indisponibile dello Stato mentre quelle di interesse locale sono patrimonio indisponibile regionale. (2)
+Le risorse geotermiche ai sensi e per gli effetti di quanto previsto e disciplinato dal [regio decreto 29 luglio 1927 n. 1443, e dall'articolo 826](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1443#art_826) del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) sono risorse minerarie, dove le risorse geotermiche di interesse nazionale sono patrimonio indisponibile dello Stato mentre quelle di interesse locale sono patrimonio indisponibile regionale. (2)
 
 7.
 
@@ -114,7 +114,7 @@ E' esclusa dall'applicazione del presente provvedimento la disciplina della rice
 
 9.
 
-Nel caso che insieme al fluido geotermico siano presenti sostanze minerali industrialmente utilizzabili, le disposizioni del presente provvedimento non si applicano qualora il valore economico dei KWH termici recuperabili da detto fluido risulti inferiore a quello delle sostanze minerali coesistenti. In tale caso si applicano le norme di cui al [regio decreto 29 luglio 1927, n. 1443](../Regi%20decreti/Norme%20di%20carattere%20legislativo%20per%20disciplinare%20la%20ricerca%20e%20la%20coltivazione%20delle%20miniere%20nel%20Regno.%20027U1443.md) e quelle relative alla legislazione regionale di settore.
+Nel caso che insieme al fluido geotermico siano presenti sostanze minerali industrialmente utilizzabili, le disposizioni del presente provvedimento non si applicano qualora il valore economico dei KWH termici recuperabili da detto fluido risulti inferiore a quello delle sostanze minerali coesistenti. In tale caso si applicano le norme di cui al [regio decreto 29 luglio 1927, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1443) e quelle relative alla legislazione regionale di settore.
 
 10.
 
@@ -609,7 +609,7 @@ Capo V
 
 1.
 
-Si applicano, in quanto compatibili, con il presente decreto legislativo e ferme le competenze regionali, le disposizioni di cui al [regio decreto 29 luglio 1927, n. 1443](../Regi%20decreti/Norme%20di%20carattere%20legislativo%20per%20disciplinare%20la%20ricerca%20e%20la%20coltivazione%20delle%20miniere%20nel%20Regno.%20027U1443.md), della [legge 11 gennaio 1957, n. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-01-11;6), nonche' della [legge 21 luglio 1967, n. 613](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-07-21;613), e successive modificazioni ed integrazioni.
+Si applicano, in quanto compatibili, con il presente decreto legislativo e ferme le competenze regionali, le disposizioni di cui al [regio decreto 29 luglio 1927, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1443), della [legge 11 gennaio 1957, n. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-01-11;6), nonche' della [legge 21 luglio 1967, n. 613](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-07-21;613), e successive modificazioni ed integrazioni.
 
 2.
 
@@ -620,7 +620,7 @@ E' abrogata [legge 9 dicembre 1986, n. 896](../Atti%20normativi%20abrogati%20%28
 Le disposizioni del [decreto del Presidente della Repubblica 27 maggio 1991, n. 395](../DPR/Approvazione%20del%20regolamento%20di%20attuazione%20della%20legge%209%20dicembre%201986%20n.%20896%20recante%20disciplina%20della%20ricerca%20e%20della%20coltivazione%20delle%20risorse%20geotermiche.md), e del [decreto del Presidente della Repubblica 18 aprile 1994, n. 485](../DPR/Regolamento%20recante%20la%20disciplina%20dei%20procedimenti%20di%20rilascio%20di%20permesso%20di%20ricerca%20e%20concessione%20di%20coltivazione%20delle%20risorse%20geotermiche%20di%20interesse%20nazionale.md), si applicano fino all'adozione delle nuove disposizioni in materia ai sensi dell'articolo 17.
 
 Note all'[art. 18: 
- - Per il regio decreto 29 luglio 1927, n. 1443](../Regi%20decreti/Norme%20di%20carattere%20legislativo%20per%20disciplinare%20la%20ricerca%20e%20la%20coltivazione%20delle%20miniere%20nel%20Regno.%20027U1443.md) si veda nelle note alle premesse. 
+ - Per il regio decreto 29 luglio 1927, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1443#art_18) si veda nelle note alle premesse. 
  - La [legge 11 gennaio 1957, n. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-01-11;6), recante «Ricerca e coltivazione degli idrocarburi liquidi e gassosi» e' pubblicata nella Gazzetta Ufficiale 29 gennaio 1957, n. 25. 
  - La [legge 21 luglio 1967, n. 613](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-07-21;613) e successive modificazioni ed integrazioni recante «Ricerca e coltivazione degli idrocarburi liquidi e gassosi nel mare territoriale e nella piattaforma continentale e modificazioni alla [legge 11 gennaio 1957, n. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-01-11;6), sulla ricerca e coltivazione degli idrocarburi liquidi e gassosi» e' pubblicata nella Gazzetta Ufficiale 3 agosto 1967, n. 194. 
  - Per i riferimenti della [legge 9 dicembre 1986, n. 896](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20della%20ricerca%20e%20della%20coltivazione%20delle%20risorse%20geotermiche.md), si veda nelle note alle premesse. 

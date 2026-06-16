@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Il comune di Verolavecchia, aggregato a quello di Verolanuova con [regio decreto 15 dicembre 1927, n. 2509](../Regi%20decreti/Aggregazione%20dei%20comuni%20di%20Verolavecchia%20e%20Cadignano%20a%20quello%20di%20Verolanuova.%20027U2509.md), e' ricostituito con il territorio delimitato dalla pianta planimetrica annessa, al presente decreto.
+Il comune di Verolavecchia, aggregato a quello di Verolanuova con [regio decreto 15 dicembre 1927, n. 2509](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-12-15;2509), e' ricostituito con il territorio delimitato dalla pianta planimetrica annessa, al presente decreto.
  Il Prefetto di Brescia, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i Comuni interessati.
 
 ## Art. 2.

@@ -114,7 +114,7 @@ Ai fini del presente codice si intende per:
  q) «misure cautelari»: i provvedimenti cautelari emessi dal giudice competente a tutela del patrimonio o dell'impresa del debitore, che appaiano secondo le circostanze piu' idonei ad assicurare provvisoriamente ((il buon esito delle trattative, gli effetti degli strumenti di regolazione della crisi e dell'insolvenza e delle procedure di insolvenza e l'attuazione delle relative decisioni)); 
  r) «classe di creditori»: insieme di creditori che hanno posizione giuridica e interessi economici omogenei; 
  s) «domicilio digitale»: il domicilio di cui all'[articolo 1, comma 1, lettera n-ter) del decreto legislativo 7 marzo 2005, n. 82](Codice%20dellamministrazione%20digitale.md); 
- t) OCC: organismi di composizione delle crisi da sovraindebitamento disciplinati dal [decreto del Ministro della giustizia del 24 settembre 2014, n. 202](../Regolamenti%20ministeriali/Regolamento%20recante%20i%20requisiti%20di%20iscrizione%20nel%20registro%20degli%20organismi%20di%20composizione%20della%20crisi%20da%20sovraindebitamento%20ai%20sensi%20dellarticolo%2015%20della%20legge%2027%20gennaio%202012%20n.%203%20come_3122480bd4a0.md) e successive modificazioni, che svolgono i compiti di composizione assistita della crisi da sovraindebitamento previsti dal presente codice; 
+ t) OCC: organismi di composizione delle crisi da sovraindebitamento disciplinati dal [decreto del Ministro della giustizia del 24 settembre 2014, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.giustizia:decreto:2014-09-24;202) e successive modificazioni, che svolgono i compiti di composizione assistita della crisi da sovraindebitamento previsti dal presente codice; 
  u) LETTERA ABROGATA DAL [D.LGS. 17 GIUGNO 2022, N. 83](../Atti%20di%20recepimento%20direttive%20UE/Modifiche%20al%20codice%20della%20crisi%20dimpresa%20e%20dellinsolvenza%20di%20cui%20al%20decreto%20legislativo%2012%20gennaio%202019%20n.%2014%20in%20attuazione%20della%20direttiva%20UE%202019-1023%20del%20Parlamento%20europeo%20e%20del%20Consi_49f74caede9f.md).
 
 ## Capo II   Principi generali   Sezione I  Obblighi dei soggetti che partecipano alla regolazione della crisi o dell'insolvenza
@@ -2451,7 +2451,7 @@ I pagamenti e gli atti dispositivi dei beni posti in essere in violazione del pi
 
 4.
 
-Terminata l'esecuzione, l'OCC, sentito il debitore, presenta al giudice una relazione finale. Il giudice, se il piano e' stato integralmente e correttamente eseguito, procede alla liquidazione del compenso all'OCC, che e' determinato ai sensi del [decreto del Ministro della giustizia del 24 settembre 2014, n. 202](../Regolamenti%20ministeriali/Regolamento%20recante%20i%20requisiti%20di%20iscrizione%20nel%20registro%20degli%20organismi%20di%20composizione%20della%20crisi%20da%20sovraindebitamento%20ai%20sensi%20dellarticolo%2015%20della%20legge%2027%20gennaio%202012%20n.%203%20come_3122480bd4a0.md), e tenuto conto di quanto eventualmente convenuto dall'organismo con il debitore, e ne autorizza il pagamento. In caso di esecuzione di un progetto di ripartizione parziale il giudice puo' accordare all'OCC un acconto sul compenso.
+Terminata l'esecuzione, l'OCC, sentito il debitore, presenta al giudice una relazione finale. Il giudice, se il piano e' stato integralmente e correttamente eseguito, procede alla liquidazione del compenso all'OCC, che e' determinato ai sensi del [decreto del Ministro della giustizia del 24 settembre 2014, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.giustizia:decreto:2014-09-24;202), e tenuto conto di quanto eventualmente convenuto dall'organismo con il debitore, e ne autorizza il pagamento. In caso di esecuzione di un progetto di ripartizione parziale il giudice puo' accordare all'OCC un acconto sul compenso.
 
 ))
 
@@ -9175,7 +9175,7 @@ Note all'art. 388:
  2. Agli stessi contratti devono essere allegati: 
  a) il capitolato contenente le caratteristiche dei materiali da utilizzarsi, individuati anche solo per tipologie, caratteristiche e valori omogenei, nonche' l'elenco delle rifiniture e degli accessori convenuti fra le parti; 
  b) gli elaborati del progetto in base al quale e' stato richiesto o rilasciato il permesso di costruire o l'ultima variazione al progetto originario, limitatamente alla rappresentazione grafica degli immobili oggetto del contratto, delle relative pertinenze esclusive e delle parti condominiali. 
- 3. Sono fatte salve le disposizioni di cui al [regio decreto 28 marzo 1929, n. 499](../Regi%20decreti/Disposizioni%20relative%20ai%20libri%20fondiari%20dei%20territori%20delle%20Nuove%20Provincie.%20029U0499.md).".
+ 3. Sono fatte salve le disposizioni di cui al [regio decreto 28 marzo 1929, n. 499](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-28;499).".
 
 ## DISPOSIZIONI FINALI E TRANSITORIE - - - -
 

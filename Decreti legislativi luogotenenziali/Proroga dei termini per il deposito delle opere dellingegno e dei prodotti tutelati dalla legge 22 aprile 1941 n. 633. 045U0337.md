@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Vista la [legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633), sulla protezione del diritto di autore e degli altri diritti connessi al suo esercizio;
 
-Visto il [R. decreto 18 maggio 1942, n. 1369](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2022%20aprile%201941-XIX%20n.%20633%20per%20la%20protezione%20del%20diritto%20di%20autore%20e%20di%20altri%20diritti%20connessi%20al%20suo%20esercizio.%20042U1369.md), con il quale e' stato approvato il regolamento per l'esecuzione della legge suddetta;
+Visto il [R. decreto 18 maggio 1942, n. 1369](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-05-18;1369), con il quale e' stato approvato il regolamento per l'esecuzione della legge suddetta;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -30,7 +30,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Art. 1.
 
-I termini stabiliti dall'art. 35 del regolamento approvato con [R. decreto 18 maggio 1942, n. 1369](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2022%20aprile%201941-XIX%20n.%20633%20per%20la%20protezione%20del%20diritto%20di%20autore%20e%20di%20altri%20diritti%20connessi%20al%20suo%20esercizio.%20042U1369.md), per i depositi di cui all'[art. 105 della legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633#art_105), sono prorogati fino alla data da stabilirsi con successivo provvedimento, purche' non siano decorsi i termini per la tutelabilita' dell'opera o del prodotto.((1))
+I termini stabiliti dall'art. 35 del regolamento approvato con [R. decreto 18 maggio 1942, n. 1369](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-05-18;1369), per i depositi di cui all'[art. 105 della legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633#art_105), sono prorogati fino alla data da stabilirsi con successivo provvedimento, purche' non siano decorsi i termini per la tutelabilita' dell'opera o del prodotto.((1))
 
 ----------------
 

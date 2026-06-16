@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 9 settembre 1941, n. 1022](../Regi%20decreti/Ordinamento%20giudiziario%20militare%20041U1022.md), che approva l'ordinamento giudiziario militare, e successive modificazioni;
+Visto il [R. decreto 9 settembre 1941, n. 1022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-09-09;1022), che approva l'ordinamento giudiziario militare, e successive modificazioni;
 
 Visto il [decreto legislativo Luogotenenziale 8 febbraio 1946, n. 49](Cessazione%20dello%20stato%20di%20guerra%20e%20passaggio%20dalla%20legislazione%20di%20guerra%20a%20quella%20di%20pace.md), relativo alla cessazione dello stato di guerra;
 

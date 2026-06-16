@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
 
-Visto il testo unico delle leggi sul Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md);
+Visto il testo unico delle leggi sul Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md);
 
 Visto l'[art. 3 della legge 1 marzo 1986, n. 64](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20organica%20dellintervento%20straordinario%20nel%20Mezzogiorno.md);
 
@@ -39,7 +39,7 @@ Nel [comma 7 dell'art. 3 del decreto del Presidente della Repubblica 19 gennaio 
 Conseguentemente la tabella A - quadro 1 - allegata al [decreto del Presidente della Repubblica 19 gennaio 1987, n. 12](../DPR/Ordinamento%20del%20Dipartimento%20per%20il%20Mezzogiorno.md), e' integrata con un posto di dirigente generale di livello B o C e qualifiche equiparate o equiparabili.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - Il testo dell'[art. 3 della legge n. 64/1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986;64#art_3) (Disciplina organica dell'intervento straordinario nel Mezzogiorno) e' il seguente:
  "Art. 3 (Dipartimento per il Mezzogiorno). - 1.

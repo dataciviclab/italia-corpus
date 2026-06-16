@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il testo unico della legge relativo all'imposta sui redditi di ricchezza mobile, approvato con [R. decreto 24 agosto 1877, n. 4021](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), col relativo regolamento, approvato con [R. decreto 11 luglio 1907, n. 560](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md);
 
-Visto il testo approvato con [R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md), concernente disposizioni per le dichiarazioni dei redditi e le sanzioni in materia di imposte dirette;
+Visto il testo approvato con [R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608), concernente disposizioni per le dichiarazioni dei redditi e le sanzioni in materia di imposte dirette;
 
 Visto il [R. decreto-legge 7 agosto 1936, n. 1639](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20degli%20ordinamenti%20tributari.%20036U1639.md), relativo alla riforma degli ordinamenti tributari;
 

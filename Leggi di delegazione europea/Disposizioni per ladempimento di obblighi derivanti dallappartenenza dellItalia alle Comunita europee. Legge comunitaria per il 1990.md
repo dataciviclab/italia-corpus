@@ -69,7 +69,7 @@ Nota all'[art. 2:
  a) dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), salvo quanto disposto dall'art. 33, lettera a);
  b) dall'[art. 19, secondo comma, della legge 22 maggio 1978, n. 194](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;194#art_19-com2), sulla interruzione volontaria della gravidanza;
  c) da disposizioni di legge concernenti le armi, le munizioni e gli esplosivi;
- d) dall'[art. 221 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md);
+ d) dall'[art. 221 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_221) approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265);
  e) dalla [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), modificata con [legge 26 febbraio 1963, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-26;441), sulla disciplina igienica degli alimenti, salvo che per le contravvenzioni previste dagli articoli 8 e 14 della stessa [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283).
  f) dalla [legge 29 marzo 1951, n. 327](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20della%20produzione%20e%20vendita%20di%20alimenti%20per%20la%20prima%20infanzia%20e%20di%20prodotti%20dietetici.md), sulla disciplina degli alimenti per la prima infanzia e dei prodotti dieteci;
  g) dalla [legge 10 maggio 1976, n. 319](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), sulla tutela delle acque dall'inquinamento;
@@ -270,7 +270,7 @@ Nota all'[art. 10:
  f) i farmacisti direttori di cooperative farmaceutiche e i farmacisti collaboratori scientifici dell'industria farmaceutica iscritti all'albo professionale con 5 anni di anzianita'.
  Al concorso per farmacie rurali possono partecipare tutti i farmacisti iscritti all'albo professionale.
  Nella domanda di ammissione al concorso il concorrente dovra' chiedere le sedi in ordine di preferenza e dovra' accettare la prima farmacia che gli verra' assegnata in base alla graduatoria e all'ordine di preferenza da lui indicato. In caso di non accettazione entro 30 giorni dalla ricezione della comunicazione fatta dal medico provinciale, non potra' optare per altre sedi.
- E' vietata la partecipazione contemporanea a piu' di tre concorsi provinciali a pena di esclusione da ciascun concorso da pronunciarsi dalla commissione esaminatrice a termini dell'articolo 8 del regolamento approvato con [regio decreto 30 settembre 1938, n. 1706](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20il%20servizio%20farmaceutico.%20038U1706.md)".
+ E' vietata la partecipazione contemporanea a piu' di tre concorsi provinciali a pena di esclusione da ciascun concorso da pronunciarsi dalla commissione esaminatrice a termini dell'articolo 8 del regolamento approvato con [regio decreto 30 settembre 1938, n. 1706](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1706)".
 
 ### Art. 11. — (Attivita' professionali nel settore del turismo).
 
@@ -989,12 +989,12 @@ paramediche).
 1.
 
 Il numero 18) dell'[articolo 10 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), e successive modificazioni, e' sostituito dal seguente: 
-"18) le prestazioni mediche e paramediche rese alla persona nell'esercizio delle professioni e arti sanitarie soggette a vigilanza ai sensi dell'[articolo 99 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), e successive modificazioni;".
+"18) le prestazioni mediche e paramediche rese alla persona nell'esercizio delle professioni e arti sanitarie soggette a vigilanza ai sensi dell'[articolo 99 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_99), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), e successive modificazioni;".
 
 Note all'[art. 30:
  - Il D.P.R. 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), istituisce e disciplina l'I.V.A. L'art. 10, n. 18), recitava:
- "18) le prestazioni rese nell'esercizio delle professioni e arti sanitarie soggette a vigilanza ai sensi dell'art. 99 del testo unico approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), e successive modificazioni".
- - Il [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), concerne l'approvazione del testo unico delel leggi sanitarie l'art. 99 recita:
+ "18) le prestazioni rese nell'esercizio delle professioni e arti sanitarie soggette a vigilanza ai sensi dell'art. 99 del testo unico approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), e successive modificazioni".
+ - Il [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), concerne l'approvazione del testo unico delel leggi sanitarie l'art. 99 recita:
  "Art. 99. - E' soggetto a vigilanza l'esecizio delel arti ausiliarie delle professioni sanitarie. S'intendono desig- nate con tale espressione le arti dell'odontotecnico, dell'ottico, del meccanico ortopedico ed ernista e dell'infermiere abitato o autorizzato, compresi in quest'ultima categoria i capi bagnini degli stabilimenti idroterapici e i massaggiatori.
  Con regio decreto, su proposta del Ministro per l'interno, sentiti il Ministro dell'educazione nazionale e il Consiglio di Stato, possono essere sottoposte a vigilanza sanitaria altre arti, che comunque abbiano rapporto con l'esercizio delle professioni sanitarie, secondo le norme che sono determinate nel decreto medesimo.
  La vigilanza si estende:

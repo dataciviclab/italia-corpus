@@ -20,7 +20,7 @@ Vista la deliberazione in data 27 luglio 1984 del Comitato interministeriale di 
 
 Vista la [legge 8 luglio 1986, n. 349](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-07-08;349), recante istituzione del Ministero dell'ambiente e norme in materia di danno ambientale;
 
-Visto il [decreto del Presidente della Repubblica 19 giugno 1987, n. 306](../Regolamenti%20governativi/Regolamento%20per%20lorganizzazione%20del%20Ministero%20dellambiente.md), che ha approvato il regolamento per l'organizzazione del Ministero dell'ambiente;
+Visto il [decreto del Presidente della Repubblica 19 giugno 1987, n. 306](../DPR/Regolamento%20per%20lorganizzazione%20del%20Ministero%20dellambiente.md), che ha approvato il regolamento per l'organizzazione del Ministero dell'ambiente;
 
 Vista la [legge 3 marzo 1987, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-03-03;59), recante disposizioni transitorie ed urgenti per il funzionamento del Ministero dell'ambiente;
 

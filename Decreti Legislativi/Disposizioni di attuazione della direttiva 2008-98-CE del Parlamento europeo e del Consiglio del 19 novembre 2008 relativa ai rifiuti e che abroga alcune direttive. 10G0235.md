@@ -654,7 +654,7 @@ Con decreto del Ministro dell'ambiente e della tutela del territorio e del mare,
 
 5.
 
-Sino all'adozione del decreto di cui al comma 4, continuano ad applicarsi le disposizioni di cui al [decreto del Ministro dell'ambiente 3 settembre 1998, n. 370](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20prestazione%20della%20garanzia%20finanziaria%20per%20il%20trasporto%20transfrontaliero%20di%20rifiuti.md).
+Sino all'adozione del decreto di cui al comma 4, continuano ad applicarsi le disposizioni di cui al [decreto del Ministro dell'ambiente 3 settembre 1998, n. 370](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente:decreto:1998-09-03;370).
 
 6.
 
@@ -1257,7 +1257,7 @@ L'adozione delle norme e delle condizioni di cui al comma 2 deve riguardare, in 
 
 6.
 
-Per la tenuta dei registri di cui agli articoli 215, comma 3, e 216, comma 3, e per l'effettuazione dei controlli periodici, l'interessato e' tenuto a versare alla provincia territorialmente competente un diritto di iscrizione annuale determinato con decreto del Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con i Ministri dello sviluppo economico e dell'economia e delle finanze. Nelle more dell'emanazione del predetto decreto, si applicano le disposizioni di cui al [decreto del Ministro dell'ambiente 21 luglio 1998, n. 350](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20per%20la%20determinazione%20dei%20diritti%20di%20iscrizione%20in%20appositi%20registri%20dovuti%20da%20imprese%20che%20effettuano%20operazioni%20di%20recupero%20e%20smaltimento%20di%20rifiuti%20ai%20sensi%20de_a144a9ac371f.md).All'attuazione dei compiti indicati dal presente comma le Province provvedono con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente, senza nuovi o maggiori oneri a carico della finanza pubblica.
+Per la tenuta dei registri di cui agli articoli 215, comma 3, e 216, comma 3, e per l'effettuazione dei controlli periodici, l'interessato e' tenuto a versare alla provincia territorialmente competente un diritto di iscrizione annuale determinato con decreto del Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con i Ministri dello sviluppo economico e dell'economia e delle finanze. Nelle more dell'emanazione del predetto decreto, si applicano le disposizioni di cui al [decreto del Ministro dell'ambiente 21 luglio 1998, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente:decreto:1998-07-21;350).All'attuazione dei compiti indicati dal presente comma le Province provvedono con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente, senza nuovi o maggiori oneri a carico della finanza pubblica.
 
 7.
 

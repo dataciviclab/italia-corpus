@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-E' convertito in legge il [decreto-legge 22 novembre 1956, n. 1274](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1956-11-22;1274), concernente modifiche al [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), in materia di acquisto di armi e di materie esplodenti, con le seguenti modificazioni:
+E' convertito in legge il [decreto-legge 22 novembre 1956, n. 1274](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1956-11-22;1274), concernente modifiche al [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773) approvato con [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), in materia di acquisto di armi e di materie esplodenti, con le seguenti modificazioni:
  All'ultimo capoverso dell'art. 1, dopo le parole "L'acquirente" sono inserite le parole "o cessionario".
  L'art. 2 e' soppresso.
  All'ultimo capoverso dell'art. 3, dopo le parole "L'acquirente" sono inserite le parole "o cessionario".

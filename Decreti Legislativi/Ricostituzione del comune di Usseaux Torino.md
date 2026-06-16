@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Il comune di Usseaux, aggregato a quello di Fenestrelle con [regio decreto 29 settembre 1927, n. 1908](../Regi%20decreti/Aggregazione%20dei%20comuni%20di%20Mentoulles%20e%20Usseaux%20al%20comune%20di%20Fenestrelle.%20027U1908.md), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo.
+Il comune di Usseaux, aggregato a quello di Fenestrelle con [regio decreto 29 settembre 1927, n. 1908](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-09-29;1908), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo.
  Il Prefetto di Torino, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari dei Comuni interessati.
 
 ## Art. 2.

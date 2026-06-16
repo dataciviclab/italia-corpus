@@ -34,13 +34,13 @@ Visto il [decreto legislativo 27 luglio 1999, n. 271](../Leggi%20delega%20e%20re
 
 Visto il [decreto legislativo 17 agosto 1999, n. 298](Attuazione%20della%20direttiva%2093-103-CE%20relativa%20alle%20prescrizioni%20minime%20di%20sicurezza%20e%20di%20salute%20per%20il%20lavoro%20a%20bordo%20delle%20navi%20da%20pesca.md);
 
-Visto il [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) approvato con [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+Visto il [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
 
-Visto il [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](../Regolamenti%20governativi/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md);
+Visto il [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](../DPR/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md);
 
-Visto il [decreto del Presidente della Repubblica 2 ottobre 1968, n. 1639](../Regolamenti%20governativi/Regolamento%20per%20lesecuzione%20della%20legge%2014%20luglio%201965%20n.%20963%20concernente%20la%20disciplina%20della%20pesca%20marittima.md);
+Visto il [decreto del Presidente della Repubblica 2 ottobre 1968, n. 1639](../DPR/Regolamento%20per%20lesecuzione%20della%20legge%2014%20luglio%201965%20n.%20963%20concernente%20la%20disciplina%20della%20pesca%20marittima.md);
 
-Visto il [decreto del Presidente della Repubblica 8 novembre 1991, n. 435](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20della%20navigazione%20e%20della%20vita%20umana%20in%20mare_2.md);
+Visto il [decreto del Presidente della Repubblica 8 novembre 1991, n. 435](../DPR/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20della%20navigazione%20e%20della%20vita%20umana%20in%20mare_2.md);
 
 Visto il [decreto del Presidente della Repubblica 6 ottobre 1999, n. 407](Regolamento%20recante%20norme%20di%20attuazione%20delle%20direttive%2096-98-CE%20e%2098-85-CE%20relative%20allequipaggiamento%20marittimo.md);
 
@@ -60,7 +60,7 @@ Ai fini del presente decreto si intende per:
                         a)
                             "amministrazione", Ministero dei trasporti e della navigazione Comando generale del Corpo delle capitanerie di porto;
                         b)
-                            "autorita' marittima" gli uffici circondariali marittimi di cui all'[art. 16 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+                            "autorita' marittima" gli uffici circondariali marittimi di cui all'[art. 16 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
                         c)
                             "certificato", il certificato di conformita' alle disposizioni del presente decreto;
                         d)
@@ -81,7 +81,7 @@ Ai fini del presente decreto si intende per:
                             "protocollo" il protocollo di Torremolinos del 1993 relativo alla Convenzione internazionale di Torremolinos sulla sicurezza delle navi da pesca del 1977, ratificato con la legge 17 dicembre 1999.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione della legge, sull'emanazione dei decreti del Presidente della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione della legge, sull'emanazione dei decreti del Presidente della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE).
  Note alle premesse:
@@ -97,13 +97,13 @@ Avvertenza:
  - Il [decreto legislativo 3 agosto 1998, n. 314](Attuazione%20della%20direttiva%2094-57-CE%20relativa%20alle%20disposizioni%20ed%20alle%20norme%20comuni%20per%20gli%20organi%20che%20effettuano%20le%20ispezioni%20e%20le%20visite%20di%20controllo%20delle%20navi%20e%20per%20le%20pertinenti%20atti_9a98f53a8a19.md), reca l'attuazione della [direttiva 94/57/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1994;57) relativa alle "Disposizioni ed alle norme comuni per gli organi che effettuano le ispezioni e le visite di controllo delle navi e per le pertinenti attivita' delle amministrazioni marittime" e della [direttiva 97/58/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1997;58) che modifica la [direttiva 94/57/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1994;57).
  - Il [decreto legislativo 27 luglio 1999, n. 271](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20della%20normativa%20sulla%20sicurezza%20e%20salute%20dei%20lavoratori%20marittimi%20a%20bordo%20delle%20navi%20mercantili%20da%20pesca%20nazionali%20a%20norma%20della%20legge%2031%20dicembre%201998%20n.%20485.md), reca "Adeguamento della normativa sulla sicurezza e salute dei lavoratori marittimi a bordo delle navi mercantili e da pesca nazionali, a norma della [legge 31 dicembre 1998, n. 485](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20sicurezza%20del%20lavoro%20nel%20settore%20portuale%20marittimo.md)".
  - Il [decreto legislativo 17 agosto 1999, n. 298](Attuazione%20della%20direttiva%2093-103-CE%20relativa%20alle%20prescrizioni%20minime%20di%20sicurezza%20e%20di%20salute%20per%20il%20lavoro%20a%20bordo%20delle%20navi%20da%20pesca.md), concerne "Attuazione della [direttiva 93/103/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;103) relativa alle prescrizioni minime di sicurezza e di salute per il lavoro a bordo delle navi da pesca".
- - Il [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](../Regolamenti%20governativi/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), concerne "Approvazione del regolamento per l'esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima)".
- - Il [decreto del Presidente della Repubblica 2 ottobre 1968, n. 1639](../Regolamenti%20governativi/Regolamento%20per%20lesecuzione%20della%20legge%2014%20luglio%201965%20n.%20963%20concernente%20la%20disciplina%20della%20pesca%20marittima.md), reca "Regolamento per l'esecuzione della [legge 14 luglio 1965, n. 963](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20della%20pesca%20marittima.md), concernente la disciplina della pesca marittima".
- - Il [decreto del Presidente della Repubblica 8 novembre 1991, n. 435](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20della%20navigazione%20e%20della%20vita%20umana%20in%20mare_2.md), reca "Approvazione del regolamento di sicurezza della navigazione e della vita umana in mare".
+ - Il [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](../DPR/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), concerne "Approvazione del regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima)".
+ - Il [decreto del Presidente della Repubblica 2 ottobre 1968, n. 1639](../DPR/Regolamento%20per%20lesecuzione%20della%20legge%2014%20luglio%201965%20n.%20963%20concernente%20la%20disciplina%20della%20pesca%20marittima.md), reca "Regolamento per l'esecuzione della [legge 14 luglio 1965, n. 963](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20della%20pesca%20marittima.md), concernente la disciplina della pesca marittima".
+ - Il [decreto del Presidente della Repubblica 8 novembre 1991, n. 435](../DPR/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20della%20navigazione%20e%20della%20vita%20umana%20in%20mare_2.md), reca "Approvazione del regolamento di sicurezza della navigazione e della vita umana in mare".
  - Il [decreto del Presidente della Repubblica 6 ottobre 1999, n. 407](Regolamento%20recante%20norme%20di%20attuazione%20delle%20direttive%2096-98-CE%20e%2098-85-CE%20relative%20allequipaggiamento%20marittimo.md), concerne "Regolamento recante norme di attuazione delle [direttive 96/98/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;98) e [98/85/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;85) relative all'equipaggiamento marittimo".
  - Il decreto del Ministro della marina mercantile in data 22 giugno 1982 reca "Approvazione del regolamento di sicurezza per le navi abilitate all'esercizio della pesca costiera (locale e ravvicinata)" ed e' pubblicato nella Gazzetta Ufficiale n. 200 del 22 luglio 1982.
- Note all'[art. 1](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md):
- - L'[articolo 16 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) cosi' recita:
+ Note all'[art. 1](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md):
+ - L'[articolo 16 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) cosi' recita:
  "Art. 16 (Circoscrizione del litorale della Repubblica). - Il litorale della Repubblica e' diviso in zone marittime; le zone sono suddivise in compartimenti e questi in circondari.
  Alla zona e' preposto un direttore marittimo, al compartimento un capo del compartimento, al circondario un capo del circondario. Nell'ambito del compartimento in cui ha sede l'ufficio della direzione marittima, il direttore marittimo e' anche capo del compartimento. Nell'ambito del circondario in cui ha sede l'ufficio del compartimento, il capo del compartimento e' anche capo del circondario.
  Negli approdi di maggiore importanza in cui non hanno sede ne' l'ufficio del compartimento ne' l'ufficio del circondario sono istituiti uffici locali di porto o delegazioni di spiaggia, dipendenti dall'ufficio circondariale.
@@ -199,7 +199,7 @@ L'Autorita' marittima provvede ad annotare sul certificato in quale area geograf
 
 3.
 
-Il certificato ha una validita' di quattro anni, con obbligo di visite periodiche e intermedie secondo quanto previsto dall'art. 7, e sostituisce i certificati di sicurezza previsti dall'[art. 36 del decreto del Presidente della Repubblica 8 novembre 1991, n. 435](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20della%20navigazione%20e%20della%20vita%20umana%20in%20mare_2.md), nonche' il certificato di cui al capitolo I, regola 7, dell'allegato del protocollo di Torremolinos.
+Il certificato ha una validita' di quattro anni, con obbligo di visite periodiche e intermedie secondo quanto previsto dall'art. 7, e sostituisce i certificati di sicurezza previsti dall'[art. 36 del decreto del Presidente della Repubblica 8 novembre 1991, n. 435](../DPR/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20della%20navigazione%20e%20della%20vita%20umana%20in%20mare_2.md), nonche' il certificato di cui al capitolo I, regola 7, dell'allegato del protocollo di Torremolinos.
 
 4.
 
@@ -210,7 +210,7 @@ Il certificato puo' essere prorogato, con le modalita' di cui all'[art. 8 della 
 Nei porti di Paesi membri dell'Unione europea, il certificato puo' essere rilasciato dalle autorita' locali in nome e per conto dello Stato italiano, a richiesta dell'autorita' consolare, dopo aver sottoposto a visita la nave da pesca ed averla riscontrata conforme alle disposizioni del presente decreto. In questo caso il certificato riporta l'indicazione che lo stesso e' stato rilasciato a richiesta dello Stato italiano. L'Autorita' locale invia, tramite quella consolare, una copia del certificato e del verbale di visita all'amministrazione.
 
 Note all'art. 6:
- L'art. 36 del predetto [decreto del Presidente della Repubblica 8 novembre 1991, n. 435](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20della%20navigazione%20e%20della%20vita%20umana%20in%20mare_2.md), cosi' recita:
+ L'art. 36 del predetto [decreto del Presidente della Repubblica 8 novembre 1991, n. 435](../DPR/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20della%20navigazione%20e%20della%20vita%20umana%20in%20mare_2.md), cosi' recita:
  "Art. 36 (Certificati). - 1. I documenti comprovanti l'adempimento delle prescrizioni relative alla sicurezza della vita umana in mare sono:
  a) "certificato di sicurezza per navi da passeggeri : per le navi da passeggeri in navigazioni internazionali;
  b) "certificato di sicurezza di costruzione per nave da carico: per le navi da carico di stazza lorda uguale o superiore a 500 tonnellate in navigazioni internazionali;
@@ -256,7 +256,7 @@ Note all'art. 6:
 
 1. Le navi da pesca, a cui si applica il presente decreto, sono soggette alle visite previste dal capitolo I, regola 6, dell'allegato del protocollo di Torremolinos.
  2. Dopo un periodo di disarmo di durata superiore a tre mesi deve essere eseguita una visita occasionale, mirante ad accertare il mantenimento delle condizioni di sicurezza attestate dal certificato in vigore.
- 3. Le visite sono effettuate con le modalita' e con le procedure di cui al capo IV della [legge 5 giugno 1962, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-06-05;616), e al Titolo II - Capitolo I del [decreto del Presidente della Repubblica 8 novembre 1991, n. 435](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20della%20navigazione%20e%20della%20vita%20umana%20in%20mare_2.md).
+ 3. Le visite sono effettuate con le modalita' e con le procedure di cui al capo IV della [legge 5 giugno 1962, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-06-05;616), e al Titolo II - Capitolo I del [decreto del Presidente della Repubblica 8 novembre 1991, n. 435](../DPR/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20della%20navigazione%20e%20della%20vita%20umana%20in%20mare_2.md).
 
 Note all'art. 7:
  - Il testo della regola 6 del capitolo I dell'allegato del protocollo di Torremolinos e' il seguente:
@@ -281,7 +281,7 @@ Note all'art. 7:
  (b) Dopo che sia stata completata una visita della nave secondo la presente regola, nessun cambiamento puo' essere apportato alla struttura, al macchinario, all'equipaggiamento e ad altre parti che siano state oggetto della visita senza il benestare dell'amministrazione.
  (c) Qualora la nave subisca un'avaria o venga scoperto un difetto che in un caso o nell'altro, interessi la sicurezza della nave o l'efficienza o la completezza dei suoi dispositivi di salvataggio o altro equipaggiamento, il comandante armatore della nave deve riferirne, alla prima occasione, all'amministrazione all'ispettore nominato o all'organizzazione riconosciuta responsabile a rilasciare il relativo certificato, che provvedera' a che siano iniziate indagini per stabilire se sia necessaria una visita, come richiesto dalla presente regola. Se la nave si trova in un porto di un'altra Parte, il comandante o l'armatore deve informare immediatamente anche le autorita' competenti dello Stato del porto e l'ispettore nominato o l'organizzazione riconosciuta deve accertarsi se tale informazione sia stata data.
  - Il capo IV della citata [legge 5 giugno 1962, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-06-05;616), concerne "Commissioni di visita".
- - Il capitolo I del titolo II del citato [decreto del Presidente della Repubblica 8 novembre 1991, n. 435](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20della%20navigazione%20e%20della%20vita%20umana%20in%20mare_2.md), concerne "Accertamenti e documenti per la sicurezza della navigazione".
+ - Il capitolo I del titolo II del citato [decreto del Presidente della Repubblica 8 novembre 1991, n. 435](../DPR/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20della%20navigazione%20e%20della%20vita%20umana%20in%20mare_2.md), concerne "Accertamenti e documenti per la sicurezza della navigazione".
 
 ## Art. 8. — Controlli
 
@@ -331,11 +331,11 @@ Con lo stesso decreto sono altresi' determinate le modalita' di versamento di cu
 
 1.
 
-Per quanto non previsto nel presente decreto si applicano le disposizioni della [legge 5 giugno 1962, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-06-05;616), e del [decreto del Presidente della Repubblica 8 novembre 1991, n. 435](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20della%20navigazione%20e%20della%20vita%20umana%20in%20mare_2.md).
+Per quanto non previsto nel presente decreto si applicano le disposizioni della [legge 5 giugno 1962, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-06-05;616), e del [decreto del Presidente della Repubblica 8 novembre 1991, n. 435](../DPR/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20della%20navigazione%20e%20della%20vita%20umana%20in%20mare_2.md).
 
 Note all'art. 11:
  - Per quanto concerne la [legge 5 giugno 1962, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-06-05;616), vedi nelle note alle premesse.
- - Per quanto concerne il [decreto del Presidente della Repubblica 8 novembre 1991, n. 435](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20della%20navigazione%20e%20della%20vita%20umana%20in%20mare_2.md), vedi nelle note alle premesse.
+ - Per quanto concerne il [decreto del Presidente della Repubblica 8 novembre 1991, n. 435](../DPR/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20della%20navigazione%20e%20della%20vita%20umana%20in%20mare_2.md), vedi nelle note alle premesse.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

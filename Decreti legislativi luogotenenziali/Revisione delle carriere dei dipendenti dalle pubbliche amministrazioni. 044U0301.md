@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visti i [Regi decreti 11 novembre 1923, n. 2395](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e [30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive aggiunte e modificazioni;
+Visti i [Regi decreti 11 novembre 1923, n. 2395](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e [30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), e successive aggiunte e modificazioni;
 
 Visto il [R. decreto-legge 6 gennaio 1944, n. 9](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riammissione%20in%20servizio%20degli%20appartenenti%20alle%20amministrazioni%20dello%20Stato%20degli%20enti%20locali%20e%20parastatali%20e%20controllati%20dallo%20Stato%20aziende%20che%20gestiscono%20servizi%20pubblici%20o%20dinteresse_e18d0424ecb3.md);
 
@@ -52,7 +52,7 @@ Salve le disposizioni del [decreto legislativo 27 luglio 1944, n. 159](https://w
 
 ## Art. 5.
 
-Salvo le disposizioni del [decreto legislativo 27 luglio 1944, n. 159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1944-07-27;159), coloro i quali, nelle graduatorie del merito comparativo e nelle graduatorie di merito contemplate rispettivamente agli [articoli 27](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md) e [30 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive estensioni, abbiano riportato un punteggio in base ai coefficienti numerici per benemerenze fasciste previsti dal paragrafo III del decreto Ministeriale 15 aprile 1942, emanato ai sensi dell'[art. 9 del R. decreto 6 gennaio 1942, n. 27](../Regi%20decreti/Provvidenze%20a%20favore%20dei%20chiamati%20alle%20armi%20nelle%20assunzioni%20da%20parte%20delle%20Amministrazioni%20dello%20Stato%20e%20nelle%20promozioni%20del%20personale%20statale.%20042U0027.md), e siano stati promossi nell'ordine di dette graduatorie, prenderanno posto nel ruolo di anzianita' secondo l'ordine che risulta dal punteggio gia' riportato, detraendo da questo i coefficienti suindicati. 
+Salvo le disposizioni del [decreto legislativo 27 luglio 1944, n. 159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1944-07-27;159), coloro i quali, nelle graduatorie del merito comparativo e nelle graduatorie di merito contemplate rispettivamente agli [articoli 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_27) e [30 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_30), e successive estensioni, abbiano riportato un punteggio in base ai coefficienti numerici per benemerenze fasciste previsti dal paragrafo III del decreto Ministeriale 15 aprile 1942, emanato ai sensi dell'[art. 9 del R. decreto 6 gennaio 1942, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-06;27#art_9), e siano stati promossi nell'ordine di dette graduatorie, prenderanno posto nel ruolo di anzianita' secondo l'ordine che risulta dal punteggio gia' riportato, detraendo da questo i coefficienti suindicati. 
  
  A coloro che in seguito alla revisione delle graduatorie di merito sancita dal precedente comma risultino collocati innanzi alle persone gia' promosse per l'attribuzione dei coefficienti predetti, quando la anteposizione di queste persone sia stata causa di impedimento della promozione, si applicano le disposizioni del 3° e 4° comma dell'art.
 6. La ricostruzione della carriera deve essere deliberata entro sei mesi dall'entrata in vigore del presente decreto.((4))
@@ -181,7 +181,7 @@ Il [D.Lgs. del Capo Provvisorio dello Stato 12 dicembre 1947, n. 1488](https://w
 
 ## Art. 17.
 
-Sono abrogati l'[art. 9 del R. decreto 6 gennaio 1942, n. 27](../Regi%20decreti/Provvidenze%20a%20favore%20dei%20chiamati%20alle%20armi%20nelle%20assunzioni%20da%20parte%20delle%20Amministrazioni%20dello%20Stato%20e%20nelle%20promozioni%20del%20personale%20statale.%20042U0027.md), ed il decreto Ministeriale 15 aprile 1942, emanato in applicazione della predetta norma, concernenti i coefficienti numerici da attribuire nelle promozioni con feribili in base all'art. 8 del Regio decreto medesimo. 
+Sono abrogati l'[art. 9 del R. decreto 6 gennaio 1942, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-06;27#art_9), ed il decreto Ministeriale 15 aprile 1942, emanato in applicazione della predetta norma, concernenti i coefficienti numerici da attribuire nelle promozioni con feribili in base all'art. 8 del Regio decreto medesimo. 
  
  Sono altresi' abrogate tutte le disposizioni legislative e regolamentari contrarie o comunque incompatibili con le norme del presente decreto.
 

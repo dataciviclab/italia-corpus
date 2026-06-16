@@ -16,11 +16,11 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il Codice postale e delle telecomunicazioni, approvato con [R. decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md);
+Visto il Codice postale e delle telecomunicazioni, approvato con [R. decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645);
 
 Viste le [leggi 6 maggio 1940, n. 554 e 26 marzo 1942, n. 406](../Atti%20normativi%20abrogati%20%28in%20originale%29/Agevolazioni%20in%20materia%20di%20abbonamenti%20alle%20radioaudizioni%20per%20impianti%20radiofonici%20centralizzati%20in%20quartieri%20e%20villaggi%20popolari.%20042U0406.md), concernente la disciplina dell'uso degli aerei esterni per audizioni radiofoniche;
 
-Visto il [R. decreto 16 giugno 1940, n. 765](../Regi%20decreti/Norme%20sulla%20disciplina%20dei%20servizi%20telegrafici%20e%20telefonici%20e%20sulluso%20degli%20apparecchi%20radioriceventi%20e%20radiotrasmittenti.%20040U0765.md), concernente norme sulla disciplina dei servizi telegrafici e telefonici e sull'uso degli apparecchi radioriceventi e radiotrasmittenti;
+Visto il [R. decreto 16 giugno 1940, n. 765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-06-16;765), concernente norme sulla disciplina dei servizi telegrafici e telefonici e sull'uso degli apparecchi radioriceventi e radiotrasmittenti;
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -42,7 +42,7 @@ L'[art. 5 della legge 6 maggio 1940, n. 554](https://www.normattiva.it/uri-res/N
 
 ## Art. 3.
 
-Le disposizioni di cui agli [articoli 1](../Regi%20decreti/Norme%20sulla%20disciplina%20dei%20servizi%20telegrafici%20e%20telefonici%20e%20sulluso%20degli%20apparecchi%20radioriceventi%20e%20radiotrasmittenti.%20040U0765.md), [2](../Regi%20decreti/Norme%20sulla%20disciplina%20dei%20servizi%20telegrafici%20e%20telefonici%20e%20sulluso%20degli%20apparecchi%20radioriceventi%20e%20radiotrasmittenti.%20040U0765.md), [3](../Regi%20decreti/Norme%20sulla%20disciplina%20dei%20servizi%20telegrafici%20e%20telefonici%20e%20sulluso%20degli%20apparecchi%20radioriceventi%20e%20radiotrasmittenti.%20040U0765.md), [4](../Regi%20decreti/Norme%20sulla%20disciplina%20dei%20servizi%20telegrafici%20e%20telefonici%20e%20sulluso%20degli%20apparecchi%20radioriceventi%20e%20radiotrasmittenti.%20040U0765.md), [5](../Regi%20decreti/Norme%20sulla%20disciplina%20dei%20servizi%20telegrafici%20e%20telefonici%20e%20sulluso%20degli%20apparecchi%20radioriceventi%20e%20radiotrasmittenti.%20040U0765.md), [6](../Regi%20decreti/Norme%20sulla%20disciplina%20dei%20servizi%20telegrafici%20e%20telefonici%20e%20sulluso%20degli%20apparecchi%20radioriceventi%20e%20radiotrasmittenti.%20040U0765.md) ed [8 del R. decreto 16 giugno 1940, n. 765](../Regi%20decreti/Norme%20sulla%20disciplina%20dei%20servizi%20telegrafici%20e%20telefonici%20e%20sulluso%20degli%20apparecchi%20radioriceventi%20e%20radiotrasmittenti.%20040U0765.md), sono abrogate.
+Le disposizioni di cui agli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-06-16;765#art_1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-06-16;765#art_2), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-06-16;765#art_3), [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-06-16;765#art_4), [5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-06-16;765#art_5), [6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-06-16;765#art_6) ed [8 del R. decreto 16 giugno 1940, n. 765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-06-16;765#art_8), sono abrogate.
  E' altresi' abrogato l'ultimo comma dell'art. 7 del Regio decreto stesso circa gli apparecchi radioriceventi collocati su automezzi.
 Gli apparecchi a suo tempo tolti d'uso ai sensi di tale comma, tornano nella disponibilita' dei legittimi proprietari.
 

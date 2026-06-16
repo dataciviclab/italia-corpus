@@ -24,9 +24,9 @@ Visto il [R. decreto-legge 19 dicembre 1926, n. 2132](../Atti%20normativi%20abro
 
 Vista la [legge 14 giugno 1928, n. 1312](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concessione%20di%20esenzioni%20tributarie%20alle%20famiglie%20numerose.%20028U1312.md), concernente esenzioni tributarie alle famiglie numerose e successive modificazioni;
 
-Visto il [R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md), relativo alle disposizioni riguardanti la dichiarazione dei redditi e le sanzioni in materia di imposte dirette;
+Visto il [R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608), relativo alle disposizioni riguardanti la dichiarazione dei redditi e le sanzioni in materia di imposte dirette;
 
-Visto il testo unico delle leggi sul nuovo catasto dei terreni approvato col [R. decreto 8 ottobre 1931, n. 1572](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20nuovo%20catasto.%20031U1572.md), e successive modificazioni;
+Visto il testo unico delle leggi sul nuovo catasto dei terreni approvato col [R. decreto 8 ottobre 1931, n. 1572](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-08;1572), e successive modificazioni;
 
 Visto il [R. decreto-legge 7 settembre 1935, n. 1627](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20una%20imposta%20del%2010%20per%20cento%20sui%20frutti%20dei%20titoli%20al%20portatore%20emessi%20da%20societa%20istituti%20ed%20enti%20diversi%20dallo%20Stato.%20035U1627.md), convertito nella [legge 13 gennaio 1936, n. 76](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%207%20settembre%201935-XIII%20n.%201627%20concernente%20listituzione%20di%20una%20imposta%20del%2010%20sui%20frutti%20dei%20titoli%20al%20portatore%20emessi%20da%20socie_c6b003ff42a4.md), concernente istituzione di una imposta sui frutti dei titoli al portatore e successive modificazioni;
 

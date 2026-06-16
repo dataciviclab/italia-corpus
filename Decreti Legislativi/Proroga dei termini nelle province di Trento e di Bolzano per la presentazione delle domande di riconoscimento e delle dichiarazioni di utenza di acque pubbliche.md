@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Per le provincia di Trento e di Bolzano le domande di riconoscimento dell'uso di acqua e le dichiarazioni di utenza ai fini della formazione del catasto delle utenze di acqua pubblica di cui agli [articoli 3](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md) e [5 del testo unico di leggi sulle acque e sugli impianti elettrici](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), approvato con [regio decreto 11 dicembre 1933, numero 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), e successive modificazioni, possono essere presentate fino al 30 giugno 1948.
+Per le provincia di Trento e di Bolzano le domande di riconoscimento dell'uso di acqua e le dichiarazioni di utenza ai fini della formazione del catasto delle utenze di acqua pubblica di cui agli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_3) e [5 del testo unico di leggi sulle acque e sugli impianti elettrici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_5), approvato con [regio decreto 11 dicembre 1933, numero 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775), e successive modificazioni, possono essere presentate fino al 30 giugno 1948.
 
 ## Art. 2.
 

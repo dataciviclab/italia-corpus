@@ -26,7 +26,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Al [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), recente norme per l'amministrazione del patrimonio e la contabilita' generale dello Stato, e' aggiunto il seguente articolo n. 38-bis:
+Al [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), recente norme per l'amministrazione del patrimonio e la contabilita' generale dello Stato, e' aggiunto il seguente articolo n. 38-bis:
  "Prima dell'inizio di ogni esercizio, ciascun Ministro, di intesa con quello per il tesoro, provvede a ripartire in articoli la somma stanziata sui singoli capitoli, in relazione alla natura delle spese ed all'ordinamento dei servizi.
  E' data, tuttavia, facolta' ai Ministri medesimi, d'intesa con quello per il tesoro, di effettuare trasporti di fondi da un articolo all'altro di un medesimo capitolo.
  Tanto la ripartizione in articoli quanto i cennati trasporti di fondi saranno disposti con decreti dei Ministri competenti, di concerto con il Ministro per il tesoro da registrarsi alla Corte dei conti".

@@ -129,7 +129,7 @@ Avvertenza:
  c) la determinazione dei campioni nazionali di unita' di misura; la conservazione dei prototipi nazionali del chilogrammo e del metro;
  d) la definizione dei criteri generali per la tutela dei consumatori e degli utenti;
  e) le manifestazioni a premio di rilevanza nazionale;
- f) la classificazione delle sostanze che presentano pericolo di scoppio o di incendio e la determinazione delle norme da osservarsi per l'impianto e l'esercizio dei relativi opifici, stabilimenti o depositi e per il trasporto di tali sostanze, compresi gli oli minerali, loro derivati e residui, ai sensi dell'[art. 63 del regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md);
+ f) la classificazione delle sostanze che presentano pericolo di scoppio o di incendio e la determinazione delle norme da osservarsi per l'impianto e l'esercizio dei relativi opifici, stabilimenti o depositi e per il trasporto di tali sostanze, compresi gli oli minerali, loro derivati e residui, ai sensi dell'[art. 63 del regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_63);
  g) le industrie operanti nel settore della difesa militare, ivi comprese le funzioni concernenti l'autorizzazione alla fabbricazione, all'importazione e all'esportazione di armi da guerra;
  h) la fabbricazione, l'importazione, il deposito, la vendita e il trasporto di armi non da guerra e di materiali esplodenti, ivi compresi i fuochi artificiali; la vigilanza sul Banco nazionale di prova delle armi portatili e delle munizioni commerciali;
  i) la classificazione dei gas tossici e l'autorizzazione per il relativo impiego;

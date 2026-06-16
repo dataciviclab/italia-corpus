@@ -268,7 +268,7 @@ Nota all'art. 9:
 1.
 
 L'articolo 48 t.u. e' sostituito dal seguente:
- "Art. 48 (Credito su pegno). - 1. Le banche possono intraprendere l'esercizio del credito su pegno di cose mobili disciplinato dalla [legge 10 maggio 1938, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-05-10;745), e dal [regio decreto 25 maggio 1939, n. 1279](../Regi%20decreti/Attuazione%20della%20legge%2010%20maggio%201938-XVI%20n.%20745%20sullordinamento%20dei%20Monti%20di%20credito%20su%20pegno.%20039U1279.md), dotandosi delle necessarie strutture e dandone comunicazione alla Banca d'Italia.".
+ "Art. 48 (Credito su pegno). - 1. Le banche possono intraprendere l'esercizio del credito su pegno di cose mobili disciplinato dalla [legge 10 maggio 1938, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-05-10;745), e dal [regio decreto 25 maggio 1939, n. 1279](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-25;1279), dotandosi delle necessarie strutture e dandone comunicazione alla Banca d'Italia.".
 
 2.
 
@@ -276,7 +276,7 @@ La disposizione del comma 1 non si applica alle banche che, all'atto della data 
 
 Nota all'art. 10:
  - Il testo dell'art. 48 del T.U.B., come modificato dal presente decreto, e' il seguente:
- "Art. 48 (Credito su pegno). - 1. Le banche possono intraprendere l'esercizio del credito su pegno di cose mobili disciplinato dalla [legge 10 maggio 1938, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-05-10;745), e dal [regio decreto 25 maggio 1939, n. 1279](../Regi%20decreti/Attuazione%20della%20legge%2010%20maggio%201938-XVI%20n.%20745%20sullordinamento%20dei%20Monti%20di%20credito%20su%20pegno.%20039U1279.md), dotandosi delle necessarie strutture e dandone comunicazione alla Banca d'Italia".
+ "Art. 48 (Credito su pegno). - 1. Le banche possono intraprendere l'esercizio del credito su pegno di cose mobili disciplinato dalla [legge 10 maggio 1938, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-05-10;745), e dal [regio decreto 25 maggio 1939, n. 1279](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-25;1279), dotandosi delle necessarie strutture e dandone comunicazione alla Banca d'Italia".
 
 ## Art. 11. — Sostituzione della rubrica dell'articolo 52 t.u.
 
@@ -785,7 +785,7 @@ Nota all'art. 37:
  - Il testo vigente dell'art. 161 del T.U.B., e' il seguente:
  "Art. 161 (Norme abrogate). - 1. Sono o restano abrogati: il [regio decreto 16 luglio 1905, n. 646](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md);
  la [legge 15 luglio 1906, n. 441](../Atti%20normativi%20abrogati%20%28in%20originale%29/Cessione%20e%20riscatto%20di%20canoni%20e%20daltri%20oneri%20reali%20006U0441.md);
- il [regio decreto 5 maggio 1910, n. 472](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sul%20Credito%20fondiario.%20010U0472.md);
+ il [regio decreto 5 maggio 1910, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472);
  il [regio decreto 4 settembre 1919, n. 1620](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20detta%20norme%20per%20lautorizzazione%20a%20Banche%20estere%20desiderose%20di%20impiantare%20sedi%20e%20succursali%20nel%20Regno.%20019U1620.md);
  il [regio decreto-legge 2 settembre 1919, n. 1709](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20da%20facolta%20allIstituto%20italiano%20di%20credilo%20fondiario%20di%20costituire%20nella%20propria%20sede%20una%20sezione%20autonoma%20per%20il%20credito%20ed%20il%20risparmio.%20019U1709.md), convertito dalla [legge 6 luglio 1922, n. 1158](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concernente%20la%20conversione%20in%20legge%20del%20R.%20decreto%202%20settembre%201919%20n.%201709%20che%20istituisce%20la%20sezione%20per%20il%20credito%20e%20il%20risparmio%20presso%20lIstituto%20italiano%20di%20credito%20fondiario.%20022U1158.md);
  il [regio decreto 9 aprile 1922, n. 932](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20sul%20credito%20agrario.%20022U0932.md);
@@ -820,7 +820,7 @@ Nota all'art. 37:
  la [legge 7 aprile 1938, n. 378](../Atti%20normativi%20abrogati%20%28in%20originale%29/Estensione%20di%20agevolazioni%20alla%20Banca%20nazionale%20dellagricoltura%20per%20la%20concessione%20di%20prestiti%20agrari%20di%20miglioramento.%20038U0378.md);
  la [legge 10 maggio 1938, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-05-10;745), fatta eccezione per gli articoli 10, 11, 12, commi primo e secondo, 13, 14, 15 e 31;
  il [regio decreto-legge 3 giugno 1938, n. 883](../Atti%20normativi%20abrogati%20%28in%20originale%29/Costituzione%20dellIstituto%20per%20lo%20sviluppo%20economico%20dellItalia%20meridionale%20con%20sede%20in%20Napoli.%20038U0883.md), convertito dalla [legge 5 gennaio 1939, n. 86](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%203%20giugno%201938-XVI%20n.%20883%20riguardante%20la%20costituzione%20dellIstituto%20per%20lo%20sviluppo%20economico%20dellItalia%20meridionale%20con%20sede%20in%20Napoli.%20039U0086.md);
- il [regio decreto 25 maggio 1939, n. 1279](../Regi%20decreti/Attuazione%20della%20legge%2010%20maggio%201938-XVI%20n.%20745%20sullordinamento%20dei%20Monti%20di%20credito%20su%20pegno.%20039U1279.md), fatta eccezione per gli articoli 37, 38, 39, 40, commi secondo e terzo, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52;
+ il [regio decreto 25 maggio 1939, n. 1279](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-25;1279), fatta eccezione per gli articoli 37, 38, 39, 40, commi secondo e terzo, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52;
  la [legge 16 novembre 1939, n. 1797](../Atti%20normativi%20abrogati%20%28in%20originale%29/Determinazione%20della%20competenza%20territoriale%20degli%20Istituti%20di%20credito%20fondiario.%20039U1797.md);
  la [legge 14 dicembre 1939, n. 1922](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20disposizioni%20sulla%20fusione%20anche%20mediante%20incorporazione%20di%20Casse%20di%20risparmio%20e%20di%20Monti%20di%20credito%20su%20pegno.%20039U1922.md);
  la [legge 21 maggio 1940, n. 657](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conferimento%20al%20Governatore%20della%20Banca%20dItalia%20della%20carica%20di%20presidente%20di%20alcuni%20Enti%20di%20credito%20di%20diritto%20pubblico%20e%20scioglimento%20dellIstituto%20per%20il%20credito%20navale.%20040U0657.md);

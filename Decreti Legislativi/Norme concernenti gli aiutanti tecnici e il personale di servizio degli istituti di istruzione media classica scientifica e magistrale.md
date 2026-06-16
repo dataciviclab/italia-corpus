@@ -43,7 +43,7 @@ I vincitori del concorso a posti di aiutante tecnico sono nominati, all'atto del
 
 ## Art. 5.
 
-Le mansioni degli aiutanti tecnici sono quelle fissate dall'[art. 74 del regio decreto 30 aprile 1924, n. 965](../Regi%20decreti/Ordinamento%20interno%20delle%20Giunte%20e%20dei%20Regi%20istituti%20di%20istruzione%20media.%20024U0965.md).
+Le mansioni degli aiutanti tecnici sono quelle fissate dall'[art. 74 del regio decreto 30 aprile 1924, n. 965](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-30;965#art_74).
  Gli aiutanti tecnici dipendono dal capo d'istituto per cio' che concerne la disciplina e dal professore per la parte inerente alle funzioni tecniche da essi svolte.
  L'orario di servizio di detto personale e' di sette ore giornaliere durante il periodo delle lezioni e di tre ore durante gli altri periodi, ed e' fissato dal preside d'accordo col professore, o coi professori delle materie cui serve il gabinetto, tenendo conto delle ore assegnate, nei vari giorni della settimana, alle lezioni di queste materie.
  Durante le vacanze estive puo' essere concesso, compatibilmente con le esigenze di servizio, un periodo ininterrotto di congedo, la cui durata non puo' essere superiore ad un mese.
@@ -104,11 +104,11 @@ servizio nell'istituto, nei limiti e con i poteri che a detto personale saranno 
 
 ## Art. 13.
 
-Ai macchinisti assunti in ruolo a norma del [regio decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), sono attribuiti le qualifiche e gli stipendi previsti dall'annessa tabella A, in base all'anzianita' di servizio acquisita alla data di entrata in vigore del presente decreto,.
+Ai macchinisti assunti in ruolo a norma del [regio decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), sono attribuiti le qualifiche e gli stipendi previsti dall'annessa tabella A, in base all'anzianita' di servizio acquisita alla data di entrata in vigore del presente decreto,.
 
 ## Art. 14.
 
-Ai bidelli assunti in ruolo a norma del [regio decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), della [legge 1 luglio 1940, n. 899](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20della%20Scuola%20media.%20040U0899.md), sono attribuiti, in base agli anni di servizio, gli stipendi previsti dalla tabella B.
+Ai bidelli assunti in ruolo a norma del [regio decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), della [legge 1 luglio 1940, n. 899](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20della%20Scuola%20media.%20040U0899.md), sono attribuiti, in base agli anni di servizio, gli stipendi previsti dalla tabella B.
  Per le promozioni al grado di bidello capo da conferirsi nella prima attuazione del presente decreto, entro il limite dei posti stabiliti dalla stessa tabella B, si applicano le disposizioni di cui al precedente art. 11 secondo comma.
 
 ## Art. 15.
@@ -118,7 +118,7 @@ Le presenti norme si applicano ai vincitori dei concorsi a posti di macchinista 
 ## Art. 16.
 
 E' abrogata ogni disposizione contraria al presenti decreto.
- Per tutto cio' che non e' in esso previsto si applicano, in quanto tuttora in vigore e compatibili con le nuove norme, le disposizioni relative ai macchinisti e al bidelli, contenute nel [regio decreto 6 maggio 1923, numero 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), nei [regolamenti 30 aprile 1924, n. 965](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-04-30;965) e [27 novembre 1924, n. 2367](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-11-27;2367), e nella [legge 1 luglio 1940, n. 899](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20della%20Scuola%20media.%20040U0899.md).
+ Per tutto cio' che non e' in esso previsto si applicano, in quanto tuttora in vigore e compatibili con le nuove norme, le disposizioni relative ai macchinisti e al bidelli, contenute nel [regio decreto 6 maggio 1923, numero 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), nei [regolamenti 30 aprile 1924, n. 965](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-04-30;965) e [27 novembre 1924, n. 2367](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-11-27;2367), e nella [legge 1 luglio 1940, n. 899](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20della%20Scuola%20media.%20040U0899.md).
  Il Ministro per il tesoro e' autorizzato a provvedere con proprio decreto alle occorrenti variazioni di bilancio.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare coma legge dello Stato.

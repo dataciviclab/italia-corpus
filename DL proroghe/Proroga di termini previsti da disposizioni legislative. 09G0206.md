@@ -46,7 +46,7 @@ All'[articolo 12 del decreto-legge 1° luglio 2009, n. 78](Provvedimenti%20antic
 
 4.
 
-Al fine di tener conto degli effetti della crisi economica e dei mercati, in deroga all'articolo 1, comma 1, secondo periodo, del regolamento di cui al [decreto del Presidente della Repubblica 31 maggio 1999, n. 195](../Regolamenti%20governativi/Regolamento%20recante%20disposizioni%20concernenti%20i%20tempi%20e%20le%20modalita%20di%20applicazione%20degli%20studi%20di%20settore.md), per gli anni 2009 e 2010 il termine entro il quale gli studi di settore devono essere pubblicati nella Gazzetta Ufficiale e' fissato rispettivamente al 31 marzo 2010 ed al 31 marzo 2011.
+Al fine di tener conto degli effetti della crisi economica e dei mercati, in deroga all'articolo 1, comma 1, secondo periodo, del regolamento di cui al [decreto del Presidente della Repubblica 31 maggio 1999, n. 195](../DPR/Regolamento%20recante%20disposizioni%20concernenti%20i%20tempi%20e%20le%20modalita%20di%20applicazione%20degli%20studi%20di%20settore.md), per gli anni 2009 e 2010 il termine entro il quale gli studi di settore devono essere pubblicati nella Gazzetta Ufficiale e' fissato rispettivamente al 31 marzo 2010 ed al 31 marzo 2011.
 
 4-bis.
 
@@ -114,7 +114,7 @@ All'[articolo 36, commi 4-quinquies](Proroga%20di%20termini%20previsti%20da%20di
 
 14.
 
-Al [comma 14 dell'articolo 19 del decreto legislativo 17 settembre 2007, n. 164](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202004-39-CE%20relativa%20ai%20mercati%20degli%20strumenti%20finanziari%20che%20modifica%20le%20direttive%2085-611-CEE%2093-6-CEE%20e%202000-12-CE%20e%20abroga%20la%20direttiva%2093-22-CEE.md), le parole: "Fino alla data di entrata in vigore dei provvedimenti di cui all'[articolo 18-bis del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e comunque non oltre il 31 dicembre 2009, la riserva di attivita' di cui all'articolo 18 del medesimo decreto" sono sostituite dalle seguenti: "Fino al 31 dicembre 2010, la riserva di attivita' di cui all'articolo 18 del testo unico di cui al [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md),".
+Al [comma 14 dell'articolo 19 del decreto legislativo 17 settembre 2007, n. 164](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202004-39-CE%20relativa%20ai%20mercati%20degli%20strumenti%20finanziari%20che%20modifica%20le%20direttive%2085-611-CEE%2093-6-CEE%20e%202000-12-CE%20e%20abroga%20la%20direttiva%2093-22-CEE.md), le parole: "Fino alla data di entrata in vigore dei provvedimenti di cui all'[articolo 18-bis del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e comunque non oltre il 31 dicembre 2009, la riserva di attivita' di cui all'articolo 18 del medesimo decreto" sono sostituite dalle seguenti: "Fino al 31 dicembre 2010, la riserva di attivita' di cui all'articolo 18 del testo unico di cui al [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md),".
 
 14-bis.
 
@@ -206,7 +206,7 @@ Il termine per il versamento all'INPDAP delle differenze contributive a qualunqu
 
 23-quinquies.
 
-Al fine di assicurare l'adeguamento alle corrispondenti norme comunitarie nei termini da queste stabiliti, a decorrere dal 1° marzo 2010, nel testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, di cui al [decreto legislativo 26 ottobre 1995, n. 504](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md), alla Tabella A, sono apportate le seguenti modificazioni:
+Al fine di assicurare l'adeguamento alle corrispondenti norme comunitarie nei termini da queste stabiliti, a decorrere dal 1° marzo 2010, nel testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, di cui al [decreto legislativo 26 ottobre 1995, n. 504](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md), alla Tabella A, sono apportate le seguenti modificazioni:
                         a)
                             al punto 12, alla voce: "gasolio", le parole: "euro 302,00" sono sostituite dalle seguenti: "euro 330,00";
                         b)
@@ -418,7 +418,7 @@ All'articolo 4, comma 1, primo periodo, del [decreto-legge 27 gennaio 2009, n. 3
 
 3.
 
-All'[articolo 3, secondo comma, del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), le parole: "a partire dal 1° gennaio 2010" sono sostituite dalle seguenti: "a partire dal 1° gennaio 2011".
+All'[articolo 3, secondo comma, del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_3-com2), approvato con [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), le parole: "a partire dal 1° gennaio 2010" sono sostituite dalle seguenti: "a partire dal 1° gennaio 2011".
 
 4.
 
@@ -442,7 +442,7 @@ Il termine di cui all'articolo 1, comma 2, terzo periodo, della [legge 3 giugno 
 
 8-bis.
 
-All'[articolo 3 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), di cui al [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e successive modificazioni, dopo il secondo comma e' inserito il seguente: 
+All'[articolo 3 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_3), di cui al [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), e successive modificazioni, dopo il secondo comma e' inserito il seguente: 
  "La carta d'identita' puo' altresi' contenere l'indicazione del consenso ovvero del diniego della persona cui si riferisce a donare i propri organi in caso di morte". 
  
  
@@ -561,7 +561,7 @@ Per l'anno 2010, il termine di cui al [comma 5 dell'articolo 55 della legge 17 m
 
 7-octies.
 
-Fino al 30 settembre 2010, sono adottati i provvedimenti attuativi per consentire che le risorse di cui al regolamento di cui al [decreto del Presidente della Repubblica 11 aprile 2006, n. 205](../Regolamenti%20governativi/Regolamento%20recante%20modalita%20di%20ripartizione%20e%20di%20erogazione%20dei%20fondi%20per%20linnovazione%20del%20sistema%20dellautotrasporto%20merci%20dello%20sviluppo%20delle%20catene%20logistiche%20e%20del%20potenziamento%20dell_9981d624d041.md), possano essere destinate anche ad interventi di sostegno del trasporto combinato e trasbordato su ferro e degli investimenti delle imprese di autotrasporto di merci, finalizzati al miglioramento dell'impatto ambientale ed allo sviluppo della logistica.
+Fino al 30 settembre 2010, sono adottati i provvedimenti attuativi per consentire che le risorse di cui al regolamento di cui al [decreto del Presidente della Repubblica 11 aprile 2006, n. 205](../DPR/Regolamento%20recante%20modalita%20di%20ripartizione%20e%20di%20erogazione%20dei%20fondi%20per%20linnovazione%20del%20sistema%20dellautotrasporto%20merci%20dello%20sviluppo%20delle%20catene%20logistiche%20e%20del%20potenziamento%20dell_9981d624d041.md), possano essere destinate anche ad interventi di sostegno del trasporto combinato e trasbordato su ferro e degli investimenti delle imprese di autotrasporto di merci, finalizzati al miglioramento dell'impatto ambientale ed allo sviluppo della logistica.
 
 7-novies.
 
@@ -573,11 +573,11 @@ Agli oneri di cui al comma 7-novies si provvede mediante corrispondente riduzion
 
 7-undecies.
 
-Al fine di fronteggiare la crisi di competitivita' dei porti nazionali, con riguardo anche all'attivita' prevalente di transhipment, le disposizioni relative all'adeguamento delle tasse e dei diritti marittimi di cui all'[articolo 1, comma 989, lettera c), della legge 27 dicembre 2006, n. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md), e successive modificazioni, e di cui all'articolo 4, commi 1 e 2, del regolamento di cui al [decreto del Presidente della Repubblica 28 maggio 2009, n. 107](../Regolamenti%20governativi/Regolamento%20concernente%20la%20revisione%20della%20disciplina%20delle%20tasse%20e%20dei%20diritti%20marittimi%20a%20norma%20dellarticolo%201%20comma%20989%20della%20legge%2027%20dicembre%202006%20n.%20296.%2009G0112.md), si applicano con decorrenza dal 1 gennaio 2012.
+Al fine di fronteggiare la crisi di competitivita' dei porti nazionali, con riguardo anche all'attivita' prevalente di transhipment, le disposizioni relative all'adeguamento delle tasse e dei diritti marittimi di cui all'[articolo 1, comma 989, lettera c), della legge 27 dicembre 2006, n. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md), e successive modificazioni, e di cui all'articolo 4, commi 1 e 2, del regolamento di cui al [decreto del Presidente della Repubblica 28 maggio 2009, n. 107](../DPR/Regolamento%20concernente%20la%20revisione%20della%20disciplina%20delle%20tasse%20e%20dei%20diritti%20marittimi%20a%20norma%20dellarticolo%201%20comma%20989%20della%20legge%2027%20dicembre%202006%20n.%20296.%2009G0112.md), si applicano con decorrenza dal 1 gennaio 2012.
 
 7-duodecies.
 
-Nel rispetto delle finalita' di cui al comma 7-undecies, in via sperimentale, per gli anni 2010, 2011 e 2012, nelle more della piena attuazione dell'autonomia finanziaria delle Autorita' portuali ai sensi dell'[articolo 1, comma 982, della legge 27 dicembre 2006, n. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md), alle Autorita' portuali e' altresi' consentito, nell'ambito della loro autonomia di bilancio e nel rispetto dell'equilibrio di bilancio, stabilire variazioni in aumento fino ad un tetto massimo pari al doppio della misura delle tasse di ancoraggio e portuale cosi' come adeguate ai sensi del regolamento di cui al [decreto del Presidente della Repubblica 28 maggio 2009, n. 107](../Regolamenti%20governativi/Regolamento%20concernente%20la%20revisione%20della%20disciplina%20delle%20tasse%20e%20dei%20diritti%20marittimi%20a%20norma%20dellarticolo%201%20comma%20989%20della%20legge%2027%20dicembre%202006%20n.%20296.%2009G0112.md), nonche' in diminuzione fino all'azzeramento delle singole tasse medesime.((12))
+Nel rispetto delle finalita' di cui al comma 7-undecies, in via sperimentale, per gli anni 2010, 2011 e 2012, nelle more della piena attuazione dell'autonomia finanziaria delle Autorita' portuali ai sensi dell'[articolo 1, comma 982, della legge 27 dicembre 2006, n. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md), alle Autorita' portuali e' altresi' consentito, nell'ambito della loro autonomia di bilancio e nel rispetto dell'equilibrio di bilancio, stabilire variazioni in aumento fino ad un tetto massimo pari al doppio della misura delle tasse di ancoraggio e portuale cosi' come adeguate ai sensi del regolamento di cui al [decreto del Presidente della Repubblica 28 maggio 2009, n. 107](../DPR/Regolamento%20concernente%20la%20revisione%20della%20disciplina%20delle%20tasse%20e%20dei%20diritti%20marittimi%20a%20norma%20dellarticolo%201%20comma%20989%20della%20legge%2027%20dicembre%202006%20n.%20296.%2009G0112.md), nonche' in diminuzione fino all'azzeramento delle singole tasse medesime.((12))
 
 7-terdecies.
 
@@ -752,7 +752,7 @@ All'[articolo 7, comma 2, del decreto legislativo 27 marzo 2006, n. 161](../Atti
 
 4-bis.
 
-All'[articolo 4, comma 1-bis, del testo unico delle disposizioni legislative e regolamentari in materia edilizia](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md), di cui al [decreto del Presidente della Repubblica 6 giugno 2001, n. 380](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md), le parole: "1° gennaio 2009" sono sostituite dalle seguenti: "1° gennaio 2011".
+All'[articolo 4, comma 1-bis, del testo unico delle disposizioni legislative e regolamentari in materia edilizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md), di cui al [decreto del Presidente della Repubblica 6 giugno 2001, n. 380](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md), le parole: "1° gennaio 2009" sono sostituite dalle seguenti: "1° gennaio 2011".
 
 4-ter. Il termine previsto dall'articolo 2, comma 7, del decreto del Ministro dell'ambiente e della tutela del territorio e del mare 8 aprile 2008, pubblicato nella Gazzetta Ufficiale n. 99 del 28 aprile 2008, e' prorogato al 30 giugno 2010))
 

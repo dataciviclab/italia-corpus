@@ -20,7 +20,7 @@ Visto il [testo unico 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-
 
 Visto il testo unico della legge comunale e provinciale approvato con [R. decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), e successive modificazioni;
 
-Visto il [R. decreto 30 aprile 1936, n. 1138](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20riscossione%20delle%20imposte%20di%20consumo.%20036U1138.md);
+Visto il [R. decreto 30 aprile 1936, n. 1138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-04-30;1138);
 
 Visto il [R. decreto-legge 23 luglio 1937, n. 1574](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ritocchi%20agli%20aggi%20di%20riscossione%20agli%20esattori%20delle%20imposte%20dirette%20e%20rimborso%20a%20carico%20dei%20Comuni%20degli%20aumenti%20di%20retribuzione%20concessi%20dal%209%20maggio%201937-XV%20al%20personale%20dipendente%20da_f601e301316e.md), convertito nella [legge 30 dicembre 1937, n. 2410](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20ottobre%201937-XV%20n.%201869%20contenente%20modificazioni%20al%20ruolo%20organico%20degli%20agenti%20di%20custodia%20degli%20Istituti%20di%20prevenzione%20e%20di%20pena.%20037U2410.md);
 
@@ -241,7 +241,7 @@ Sulla base dei valori come sopra determinati e delle aliquote fissate nella tari
 
 Per i materiali impiegati nelle opere di ricostruzione e di notevole rifacimento di edifici distrutti o danneggiati da offese belliche e' consentita l'esenzione dalla imposta di consumo. 
  
-Per ottenere l'esenzione i proprietari interessati devono presentare la denunzia nei sensi indicati dall'art. 44 del regolamento approvato con [R. decreto 30 aprile 1936, n. 1138](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20riscossione%20delle%20imposte%20di%20consumo.%20036U1138.md). 
+Per ottenere l'esenzione i proprietari interessati devono presentare la denunzia nei sensi indicati dall'art. 44 del regolamento approvato con [R. decreto 30 aprile 1936, n. 1138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-04-30;1138). 
  
 L'esenzione compete indipendentemente dal termine nel quale le opere stesse vengono eseguite, e nei limiti corrispondenti alla consistenza della costruzione distrutta o danneggiata. 
  

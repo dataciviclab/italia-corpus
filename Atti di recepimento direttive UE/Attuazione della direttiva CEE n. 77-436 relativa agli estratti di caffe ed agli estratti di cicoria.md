@@ -96,7 +96,7 @@ Agli estratti di caffe' ed agli estratti di cicoria si applicano le disposizioni
 
 ## Art. 7.
 
-Le disposizioni del [decreto del Presidente della Repubblica 16 febbraio 1973, n. 470](../Regolamenti%20governativi/Regolamento%20per%20la%20disciplina%20igienica%20della%20produzione%20e%20del%20commercio%20del%20caffe%20e%20dei%20suoi%20derivati.md), incompatibili con quelle contenute nel presente decreto sono abrogate.
+Le disposizioni del [decreto del Presidente della Repubblica 16 febbraio 1973, n. 470](../DPR/Regolamento%20per%20la%20disciplina%20igienica%20della%20produzione%20e%20del%20commercio%20del%20caffe%20e%20dei%20suoi%20derivati.md), incompatibili con quelle contenute nel presente decreto sono abrogate.
 
 ## Art. 8.
 

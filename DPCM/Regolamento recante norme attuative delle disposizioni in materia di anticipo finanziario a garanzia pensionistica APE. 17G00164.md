@@ -63,7 +63,7 @@ Ai fini delle disposizioni contenute nel presente decreto si intendono per:
 N O T E 
  
  Avvertenza: 
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE). 
  Note alle premesse: 
  - La [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri) e' pubblicata nella Gazzetta Ufficiale n. 214 del 12 settembre 1988, supplemento ordinario. 
@@ -212,11 +212,11 @@ Ai fini della determinazione dell'ammontare massimo della quota mensile di APE o
 
 7.
 
-Ai soli fini dei commi 3 e 5, l'importo di cui al comma 2 e' considerato al netto dell'imposta sul reddito delle persone fisiche dovuta per il solo reddito da pensione, inclusa l'addizionale regionale, escluse le addizionali comunali e applicando le detrazioni di imposta di cui all'[articolo 13, comma 3, del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), vigenti alla data della certificazione del diritto all'APE.
+Ai soli fini dei commi 3 e 5, l'importo di cui al comma 2 e' considerato al netto dell'imposta sul reddito delle persone fisiche dovuta per il solo reddito da pensione, inclusa l'addizionale regionale, escluse le addizionali comunali e applicando le detrazioni di imposta di cui all'[articolo 13, comma 3, del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), vigenti alla data della certificazione del diritto all'APE.
 
 Note all'art. 6: 
  - Per il testo dell'[art. 1, comma 167, della legge 11 dicembre 2016, n. 232](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202017%20e%20bilancio%20pluriennale%20per%20il%20triennio%202017-2019.%2016G00242.md), si veda nelle note alle premesse. 
- - Si riporta il testo dell'[art. 13, comma 3, del decreto del Presidente della Repubblica 22 dicembre 1986 n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md): 
+ - Si riporta il testo dell'[art. 13, comma 3, del decreto del Presidente della Repubblica 22 dicembre 1986 n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md): 
  «Art. 13 (Altre detrazioni). - (Omissis). 
  3. Se alla formazione del reddito complessivo concorrono uno o piu' redditi di pensione di cui all'art. 49, comma 2, lettera a), spetta una detrazione dall'imposta lorda, non cumulabile con quella prevista al comma 1 del presente articolo, rapportata al periodo di pensione nell'anno, pari a: 
  a) 1.880 euro, se il reddito complessivo non supera 8.000 euro. L'ammontare della detrazione effettivamente spettante non puo' essere inferiore a 713 euro; 

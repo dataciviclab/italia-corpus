@@ -55,7 +55,7 @@ Avvertenza:
  "3. Le disposizioni del presente decreto non si applicano:
  a) ai lavori di prospezione, ricerca e coltivazione delle sostanze minerali;
  b) ai lavori svolti negli impianti connessi alle attivita' minerarie esistenti entro il perimetro dei permessi di ricerca, delle concessioni o delle autorizzazioni;
- c) ai lavori svolti negli impianti che costituiscono pertinenze della miniera ai sensi dell'[art. 23 del regio decreto 29 luglio 1927, n. 1443](../Regi%20decreti/Norme%20di%20carattere%20legislativo%20per%20disciplinare%20la%20ricerca%20e%20la%20coltivazione%20delle%20miniere%20nel%20Regno.%20027U1443.md), anche se ubicati fuori del perimetro delle concessioni;
+ c) ai lavori svolti negli impianti che costituiscono pertinenze della miniera ai sensi dell'[art. 23 del regio decreto 29 luglio 1927, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1443#art_23), anche se ubicati fuori del perimetro delle concessioni;
  d) ai lavori di frantumazione, vagliatura, squadratura e lizzatura dei prodotti delle cave ed alle operazioni di caricamento di tali prodotti dai piazzali;
  e) alle attivita' di prospezione, ricerca, coltivazione e stoccaggio degli idrocarburi liquidi e gassosi nel territorio nazionale, nel mare territoriale e nella piattaforma continentale e nelle altre aree sottomarine comunque soggette ai poteri dello Stato.
  e-bis) ai lavori svolti in mare;

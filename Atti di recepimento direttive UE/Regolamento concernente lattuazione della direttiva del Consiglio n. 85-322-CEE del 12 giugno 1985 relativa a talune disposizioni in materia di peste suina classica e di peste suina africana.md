@@ -12,7 +12,7 @@ IL MINISTRO DELLA SANITA'
 
 Vista la [direttiva del Consiglio n. 85/322/CEE del 12 giugno 1985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1985;322);
 
-Visto il [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), e successive modifiche;
+Visto il [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), e successive modifiche;
 
 Vista la [legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833) (supplemento ordinario alla Gazzetta Ufficiale n. 360 del 28 dicembre 1978);
 
@@ -65,7 +65,7 @@ Nel caso in cui la malattia non sia stata accertata sul territorio nazionale, da
 Nel caso di comparsa di uno o piu' focolai di peste suina africana su una parte insulare del territorio italiano il Ministro della sanita' puo' disporre che il divieto, di cui al comma 1, si applichi esclusivamente a tale parte.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - La [direttiva del Consiglio n. 85/322/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1985;322) del 12 giugno e' stata pubblicata nella "Gazzetta Ufficiale della Comunita' europea" n. [L 168/41 del 28 giugno 1985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-06-28;168).
  La [direttiva n. 72/461/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1972;461) e' stata pubblicata nella "Gazzetta Ufficiale della Comunita' europea" n. [L 302/24 del 31 dicembre 1972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1972-12-31;302).

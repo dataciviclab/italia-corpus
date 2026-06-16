@@ -22,7 +22,7 @@ PROMULGA Il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Con effetto dal 1 gennaio 1948 sono elevati di venti volte i limiti originari di somma comunque indicati nella legge e nel regolamento di contabilita' generale dello Stato, nelle leggi e nei regolamenti contabili speciali o in disposizioni correlative e quelli stabiliti dall'art. 18 del testo unico delle leggi sull'ordinamento della Corte dei conti, approvato con [regio decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md).
+Con effetto dal 1 gennaio 1948 sono elevati di venti volte i limiti originari di somma comunque indicati nella legge e nel regolamento di contabilita' generale dello Stato, nelle leggi e nei regolamenti contabili speciali o in disposizioni correlative e quelli stabiliti dall'art. 18 del testo unico delle leggi sull'ordinamento della Corte dei conti, approvato con [regio decreto 12 luglio 1934, n. 1214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-12;1214).
 
 ## Art. 2.
 

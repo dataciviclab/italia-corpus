@@ -61,7 +61,7 @@ L'intervento e' attuato dal Ministero dell'agricoltura e delle foreste (in appre
 La provincia autonoma di Trento e' esentata dall'applicazione del regime di ritiro dei seminativi dalla produzione ai sensi del regolamento CEE n. 1273/88.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - Il regolamento CEE n. 797/85 e' stato pubblicato nella "Gazzetta Ufficiale" delle Comunita' europee n. L 93 del 30 marzo 1985.
@@ -255,7 +255,7 @@ Sulla base delle proposte presentate dalle regioni e dalla provincia autonoma di
                         b)
                             territori contermini ai laghi, compresi in una fascia della profondita' di 300 metri dalla linea di battigia, anche se elevati sui laghi di cui alla [legge n. 431 dell'8 agosto 1985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;431);
                         c)
-                            fiumi, torrenti e corsi d'acqua iscritti negli elenchi di cui al testo unico delle disposizioni di legge sulle acque ed impianti elettrici, approvato con [regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), e relative sponde o piede degli argini per una fascia di 150 metri ciascuna di cui alla [legge n. 431 dell'8 agosto 1985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;431);
+                            fiumi, torrenti e corsi d'acqua iscritti negli elenchi di cui al testo unico delle disposizioni di legge sulle acque ed impianti elettrici, approvato con [regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775), e relative sponde o piede degli argini per una fascia di 150 metri ciascuna di cui alla [legge n. 431 dell'8 agosto 1985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;431);
                         d)
                             territori costieri compresi in una fascia della profondita' di 300 metri dalla linea di battigia, anche se elevati sul mare di cui alla gia' citata [legge n. 431 dell'8 agosto 1985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;431);
                         e)

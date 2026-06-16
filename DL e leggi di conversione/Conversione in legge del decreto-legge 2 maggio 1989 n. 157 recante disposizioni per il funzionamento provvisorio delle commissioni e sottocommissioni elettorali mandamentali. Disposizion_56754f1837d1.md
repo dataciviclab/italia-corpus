@@ -22,18 +22,18 @@ E' convertito in legge il [decreto-legge 2 maggio 1989, n. 157](https://www.norm
 
 N O T E
  AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 ## Art. 2.
 
 1.
 
-Il [primo comma dell'articolo 21 del decreto del Presidente della Repubblica 20 marzo 1967, n. 223](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20per%20la%20disciplina%20dellelettorato%20attivo%20e%20per%20la%20tenuta%20e%20la%20revisione%20delle%20liste%20elettorali.md), e' sostituito dal seguente:
+Il [primo comma dell'articolo 21 del decreto del Presidente della Repubblica 20 marzo 1967, n. 223](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20per%20la%20disciplina%20dellelettorato%20attivo%20e%20per%20la%20tenuta%20e%20la%20revisione%20delle%20liste%20elettorali.md), e' sostituito dal seguente:
  "In ogni comune capoluogo di circondario giudiziario, dopo l'insediamento del consiglio provinciale, e' costituita, con decreto del presidente della corte di appello, una commissione elettorale circondariale presieduta dal presidente del tribunale, o dal pretore, e composta da quattro componenti effettivi e da quattro componenti supplenti, di cui uno effettivo ed uno supplente designati dal prefetto, e tre effettivi e tre supplenti designati dal consiglio provinciale".
 
 2.
 
-I [commi primo](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20per%20la%20disciplina%20dellelettorato%20attivo%20e%20per%20la%20tenuta%20e%20la%20revisione%20delle%20liste%20elettorali.md) e [secondo dell'articolo 25 del decreto del Presidente della Repubblica 20 marzo 1967, n. 223](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20per%20la%20disciplina%20dellelettorato%20attivo%20e%20per%20la%20tenuta%20e%20la%20revisione%20delle%20liste%20elettorali.md), sono sostituiti dai seguenti:
+I [commi primo](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20per%20la%20disciplina%20dellelettorato%20attivo%20e%20per%20la%20tenuta%20e%20la%20revisione%20delle%20liste%20elettorali.md) e [secondo dell'articolo 25 del decreto del Presidente della Repubblica 20 marzo 1967, n. 223](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20per%20la%20disciplina%20dellelettorato%20attivo%20e%20per%20la%20tenuta%20e%20la%20revisione%20delle%20liste%20elettorali.md), sono sostituiti dai seguenti:
  "Nei circondari che abbiano una popolazione superiore ai 50.000 abitanti possono essere costituite, su proposta del presidente della commissione circondariale, sottocommissioni elettorali in proporzione di una per ogni 50.000 abitanti o frazione di 50.000. Possono essere egualmente costituite ove esistano sezioni distaccate di pretura circondariale.
  Le sottocommissioni sono presiedute dai magistrati in servizio presso la pretura circondariale, a riposo od onorari, ed hanno la stessa composizione prevista per la commissione elettorale circondariale".
 
@@ -55,7 +55,7 @@ Nota all'art. 2:
 
 1.
 
-Il [primo comma dell'articolo 22 del decreto del Presidente della Repubblica 20 marzo 1967, n. 223](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20per%20la%20disciplina%20dellelettorato%20attivo%20e%20per%20la%20tenuta%20e%20la%20revisione%20delle%20liste%20elettorali.md), e' sostituito dal seguente:
+Il [primo comma dell'articolo 22 del decreto del Presidente della Repubblica 20 marzo 1967, n. 223](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20per%20la%20disciplina%20dellelettorato%20attivo%20e%20per%20la%20tenuta%20e%20la%20revisione%20delle%20liste%20elettorali.md), e' sostituito dal seguente:
  "I componenti delle commissioni e sottocommissioni elettorali circondariali designati dal prefetto sono scelti tra i dipendenti dello Stato con qualifica funzionale non inferiore alla settima in attivita' di servizio o a riposo; nel capoluogo della provincia la designazione deve cadere su funzionari della prefettura appartenenti al personale direttivo con qualifica non inferiore a direttore di sezione. In caso di trasferimenti, il prefetto provvede a nuove designazioni".
 
 Nota all'art. 3:

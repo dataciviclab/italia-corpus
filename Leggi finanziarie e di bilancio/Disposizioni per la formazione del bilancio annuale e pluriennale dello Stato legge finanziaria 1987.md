@@ -453,7 +453,7 @@ E' autorizzato, per l'anno 1987, il limite d'impegno di lire 5 miliardi per le m
 
 4.
 
-E' autorizzato, per l'anno 1987, il limite d'impegno di lire 10 miliardi per la concessione di contributi nella spesa di costruzione di serbatoi e laghi artificiali, ai sensi degli articoli 73 e seguenti del testo unico delle disposizioni di legge sulle acque e impianti elettrici, approvato con [regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md).
+E' autorizzato, per l'anno 1987, il limite d'impegno di lire 10 miliardi per la concessione di contributi nella spesa di costruzione di serbatoi e laghi artificiali, ai sensi degli articoli 73 e seguenti del testo unico delle disposizioni di legge sulle acque e impianti elettrici, approvato con [regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775).
 
 5.
 

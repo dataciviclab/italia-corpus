@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Per provvedere ai maggiori oneri inerenti ai lavori di ricostruzione e al ripristino delle attrezzature delle Aziende patrimoniali dello Stato, danneggiate dalla guerra, e' autorizzata l'ulteriore spesa di lire duecentotrentasei milioni, in aggiunta a quella disposta con il [regio decreto legislativo 2 giugno 1946, n. 568](../Regi%20decreti%20legislativi/Autorizzazione%20della%20spesa%20di%20L.%20328.000.000%20per%20lesecuzione%20dei%20lavori%20di%20ricostruzione%20e%20per%20il%20ripristino%20delle%20attrezzature%20di%20alcune%20Aziende%20patrimoniali%20dello%20Stato%20danneggiate%20dalla%20guerra.md).
+Per provvedere ai maggiori oneri inerenti ai lavori di ricostruzione e al ripristino delle attrezzature delle Aziende patrimoniali dello Stato, danneggiate dalla guerra, e' autorizzata l'ulteriore spesa di lire duecentotrentasei milioni, in aggiunta a quella disposta con il [regio decreto legislativo 2 giugno 1946, n. 568](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-06-02;568).
 
 ## Art. 2.
 

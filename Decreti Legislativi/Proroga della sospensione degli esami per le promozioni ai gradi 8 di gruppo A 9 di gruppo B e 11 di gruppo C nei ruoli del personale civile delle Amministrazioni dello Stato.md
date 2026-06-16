@@ -22,8 +22,8 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Le promozioni ai gradi ottavo di gruppo A, nono di gruppo B ed undecimo di gruppo C nei ruoli del personale civile delle Amministrazioni, dello Stato, sono conferite, sino al 31 dicembre 1948, mediante scrutinio per merito comparativo, con le modalita' stabilite dall'[art. 8 del regio decreto 6 gennaio 1942, n. 27](../Regi%20decreti/Provvidenze%20a%20favore%20dei%20chiamati%20alle%20armi%20nelle%20assunzioni%20da%20parte%20delle%20Amministrazioni%20dello%20Stato%20e%20nelle%20promozioni%20del%20personale%20statale.%20042U0027.md).
- Il precedente comma non si applica per le promozioni nei ruoli ai quali non era applicabile l'[art. 8 del regio decreto 6 gennaio 1942, n. 27](../Regi%20decreti/Provvidenze%20a%20favore%20dei%20chiamati%20alle%20armi%20nelle%20assunzioni%20da%20parte%20delle%20Amministrazioni%20dello%20Stato%20e%20nelle%20promozioni%20del%20personale%20statale.%20042U0027.md).
+Le promozioni ai gradi ottavo di gruppo A, nono di gruppo B ed undecimo di gruppo C nei ruoli del personale civile delle Amministrazioni, dello Stato, sono conferite, sino al 31 dicembre 1948, mediante scrutinio per merito comparativo, con le modalita' stabilite dall'[art. 8 del regio decreto 6 gennaio 1942, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-06;27#art_8).
+ Il precedente comma non si applica per le promozioni nei ruoli ai quali non era applicabile l'[art. 8 del regio decreto 6 gennaio 1942, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-06;27#art_8).
 
 ## Art. 2.
 

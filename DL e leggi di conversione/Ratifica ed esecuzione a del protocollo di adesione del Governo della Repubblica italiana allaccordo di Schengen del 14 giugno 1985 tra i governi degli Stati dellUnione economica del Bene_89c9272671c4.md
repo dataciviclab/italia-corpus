@@ -166,7 +166,7 @@ Le segnalazioni trasmesse dalle autorita' italiane alle altre parti contraenti a
 
 1.
 
-Al [primo comma dell'articolo 109 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), dopo le parole: "danno alloggio per mercede" sono aggiunte le seguenti: "nonche' coloro che gestiscono una struttura che fornisce alloggio anche in tende, roulotte, battelli e simili".
+Al [primo comma dell'articolo 109 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_109-com1), approvato con [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), dopo le parole: "danno alloggio per mercede" sono aggiunte le seguenti: "nonche' coloro che gestiscono una struttura che fornisce alloggio anche in tende, roulotte, battelli e simili".
 
 2.
 

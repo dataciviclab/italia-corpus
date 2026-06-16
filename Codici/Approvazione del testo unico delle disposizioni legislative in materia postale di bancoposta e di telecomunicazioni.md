@@ -14,7 +14,7 @@ Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Visto l'[art. 6 della legge 28 ottobre 1970, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-10-28;775#art_6), che delega il Governo a provvedere, entro il 31 dicembre 1973, alla raccolta in testi unici, aventi valore di leggi ordinarie, delle disposizioni in vigore concernenti le singole materie, apportando ove d'uopo alle stesse le modificazioni ed integrazioni necessarie per il loro coordinamento ed ammodernamento ai fini di una migliore accessibilita' e comprensibilita' delle norme medesime;
 
-Visto il [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md), che approva il codice postale e delle telecomunicazioni e successive modificazioni ed integrazioni;
+Visto il [regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645), che approva il codice postale e delle telecomunicazioni e successive modificazioni ed integrazioni;
 
 Udito il parere della commissione parlamentare di cui all'[art. 21 della legge 28 ottobre 1970, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-10-28;775#art_21);
 

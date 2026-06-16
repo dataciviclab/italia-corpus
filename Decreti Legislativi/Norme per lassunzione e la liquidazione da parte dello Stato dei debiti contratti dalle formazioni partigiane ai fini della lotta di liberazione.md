@@ -74,7 +74,7 @@ Le domande devono essere corredate:
 
 ### Art. 9.
 
-I debiti il cui ammontare non superi le L. 100.000 sono liquidati, previo accertamento della loro sussistenza e del loro importo, dalle Intendenze di finanza con i fondi messi a disposizione dal Ministero del tesoro, nei limiti e con le modalita' di cui all'[art. 56 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni, nonche' con l'obbligo della presentazione dei prescritti rendiconti trimestrali.
+I debiti il cui ammontare non superi le L. 100.000 sono liquidati, previo accertamento della loro sussistenza e del loro importo, dalle Intendenze di finanza con i fondi messi a disposizione dal Ministero del tesoro, nei limiti e con le modalita' di cui all'[art. 56 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56), e successive modificazioni, nonche' con l'obbligo della presentazione dei prescritti rendiconti trimestrali.
  Avverso il provvedimento della Intendenza sulla domanda di rimborso, l'interessato, entro trenta giorni dalla data di comunicazione del provvedimento stesso, puo' ricorrere ai Ministro per il tesoro.
  I debiti di valore superiore alle L. 100.000 sono accertati e liquidati dal Ministero del tesoro.
 

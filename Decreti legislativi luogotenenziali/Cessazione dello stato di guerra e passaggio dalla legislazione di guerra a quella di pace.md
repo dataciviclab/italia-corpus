@@ -36,7 +36,7 @@ Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 36](Revoca%2
 
 Visto il decreto del Presidente del Consiglio dei Ministri 18 ottobre 1945, pubblicato nel supplemento straordinario alla Gazzetta Ufficiale n. 132, del 3 novembre 1945, concernente la adozione delle Proclaimed Lists e Statutory Lists delle Nazioni Unite, e visto le successive modificazioni;
 
-Visto il testo unico delle leggi sulla disciplina dei cittadini in tempo di guerra, approvato con [R. decreto 31 ottobre 1942, n. 1611](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sulla%20disciplina%20dei%20cittadini%20in%20tempo%20di%20guerra.%20042U1611.md), e visto il regolamento per la sua esecuzione, approvato con [R. decreto 31 ottobre 1942, n. 1612](../Regi%20decreti/Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sulla%20disciplina%20dei%20cittadini%20in%20tempo%20di%20guerra.%20042U1612.md);
+Visto il testo unico delle leggi sulla disciplina dei cittadini in tempo di guerra, approvato con [R. decreto 31 ottobre 1942, n. 1611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-10-31;1611), e visto il regolamento per la sua esecuzione, approvato con [R. decreto 31 ottobre 1942, n. 1612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-10-31;1612);
 
 Visto l'[articolo 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 

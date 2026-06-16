@@ -18,7 +18,7 @@ Vista la [legge 21 dicembre 1999, n. 526](../Leggi%20di%20delegazione%20europea/
 
 Visto il testo unico delle leggi in materia bancaria e creditizia, approvato con il [decreto legislativo 1o settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385);
 
-Visto il testo unico delle disposizioni in materia di intermediazione finanziaria, approvato con il [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md);
+Visto il testo unico delle disposizioni in materia di intermediazione finanziaria, approvato con il [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri adottata nella riunione del 28 dicembre 2000;
 
@@ -38,7 +38,7 @@ Nel presente decreto legislativo si intendono per:
                         a)
                             "Testo unico bancario" (T.U. bancario): il [decreto legislativo 1o settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), e successive modificazioni;
                         b)
-                            "Testo unico finanza" (T.U. finanza): il [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e successive modificazioni;
+                            "Testo unico finanza" (T.U. finanza): il [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e successive modificazioni;
                         c)
                             "Consob": la Commissione nazionale per le societa' e la borsa;
                         c-bis)

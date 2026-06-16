@@ -69,7 +69,7 @@ La carta europea d'arma da fuoco, conforme al modello comunitario, contiene i da
 
 2.
 
-Possono chiedere il rilascio della carta europea d'arma da fuoco le persone residenti o i cittadini dell'Unione europea domiciliati nel territorio dello Stato in possesso di licenza di porto d'armi e che detengono una o piu' armi da fuoco denunciate a norma dell'[articolo 38 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md).
+Possono chiedere il rilascio della carta europea d'arma da fuoco le persone residenti o i cittadini dell'Unione europea domiciliati nel territorio dello Stato in possesso di licenza di porto d'armi e che detengono una o piu' armi da fuoco denunciate a norma dell'[articolo 38 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_38), approvato con [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773).
 
 ))
 
@@ -129,24 +129,24 @@ Se l'autorizzazione si riferisce al trasporto di armi di uso sportivo, essa e' s
 
 ## Art. 6. — null
 
-2. Il rilascio, a favore della persona residente in uno Stato membro delle Comunita' europee, del nulla osta all'acquisto di armi di cui all'[art. 35, terzo comma, del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e' subordinato al preventivo accordo della competente Autorita' nazionale dello Stato di residenza quando si tratta di armi per le quali la legislazione dello Stato medesimo prevede l'autorizzazione preventiva all'acquisto.
+2. Il rilascio, a favore della persona residente in uno Stato membro delle Comunita' europee, del nulla osta all'acquisto di armi di cui all'[art. 35, terzo comma, del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_35-com3), e' subordinato al preventivo accordo della competente Autorita' nazionale dello Stato di residenza quando si tratta di armi per le quali la legislazione dello Stato medesimo prevede l'autorizzazione preventiva all'acquisto.
  3. Delle autorizzazioni, nulla osta, licenze e di ogni altro titolo autorizzatorio in materia di armi rilasciato a norma dei commi 1 e 2 e' data comunicazione alle autorita' nazionali dello Stato di residenza secondo le modalita' e le procedure stabilite con le disposizioni di esecuzione del presente decreto legislativo.
 
 ## Art. 7.
 
 1.
 
-Ai fini del preventivo accordo richiesto alle Autorita' nazionali italiane per l'autorizzazione, da parte delle competenti autorita' di altro Stato membro delle Comunita' europee, all'acquisto di armi nel territorio di tale Stato, il questore della provincia di residenza della persona interessata all'acquisto rilascia apposito nulla osta, quando sussistono i presupposti, le condizioni ed i requisiti richiesti per il rilascio del nulla osta previsto dall'[art. 35 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md).
+Ai fini del preventivo accordo richiesto alle Autorita' nazionali italiane per l'autorizzazione, da parte delle competenti autorita' di altro Stato membro delle Comunita' europee, all'acquisto di armi nel territorio di tale Stato, il questore della provincia di residenza della persona interessata all'acquisto rilascia apposito nulla osta, quando sussistono i presupposti, le condizioni ed i requisiti richiesti per il rilascio del nulla osta previsto dall'[art. 35 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_35).
 
 ## Art. 8.
 
 1.
 
-Il rilascio della licenza prevista dall'[art. 31 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), per il trasferimento di armi da fuoco verso uno Stato membro delle Comunita' europee, e' subordinato alla preventiva autorizzazione della competente autorita' nazionale dello Stato di residenza, di transito e di destinazione, laddove richiesta.
+Il rilascio della licenza prevista dall'[art. 31 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_31), per il trasferimento di armi da fuoco verso uno Stato membro delle Comunita' europee, e' subordinato alla preventiva autorizzazione della competente autorita' nazionale dello Stato di residenza, di transito e di destinazione, laddove richiesta.
 
 2.
 
-Nella domanda per il rilascio della licenza di cui al comma 1, oltre ai dati richiesti dall'art. 46 del regolamento per l'esecuzione del [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635), devono indicarsi:
+Nella domanda per il rilascio della licenza di cui al comma 1, oltre ai dati richiesti dall'art. 46 del regolamento per l'esecuzione del [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), approvato con [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635), devono indicarsi:
                         a)
                             il nome e l'indirizzo del venditore o cedente e dell'acquirente o cessionario oppure, eventualmente, del proprietario;
                         b)

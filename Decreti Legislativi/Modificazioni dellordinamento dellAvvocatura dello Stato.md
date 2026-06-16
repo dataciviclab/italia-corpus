@@ -46,11 +46,11 @@ La Commissione giudicatrice dei concorsi ai posti di sostituto avvocato e' presi
 
 ## Art. 3.
 
-I concorsi per l'assunzione nel ruoli dell'Avvocatura, dello Stato o per le promozioni da conferirsi mediante esame di concorso sono banditi dall'Avvocato generale dello Stato, il quale provvede, altresi', a nominare i componenti ed i segretari delle Commissioni esaminatrici, a norma degli [articoli 15](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20de_d5942397a5e9.md) e [16 del regio decreto 30 ottobre 1933, n. 1612](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20de_d5942397a5e9.md), ad approvare le graduatorie ed a decidere, con provvedimenti definitivi, sul reclami proposti avverso di esse.
+I concorsi per l'assunzione nel ruoli dell'Avvocatura, dello Stato o per le promozioni da conferirsi mediante esame di concorso sono banditi dall'Avvocato generale dello Stato, il quale provvede, altresi', a nominare i componenti ed i segretari delle Commissioni esaminatrici, a norma degli [articoli 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1612#art_15) e [16 del regio decreto 30 ottobre 1933, n. 1612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1612#art_16), ad approvare le graduatorie ed a decidere, con provvedimenti definitivi, sul reclami proposti avverso di esse.
 
 ## Art. 4.
 
-Gli aggiunti procuratori di 2ª classe sono nominati esclusivamente in seguito a concorso per esami, a norma del secondo comma dell'art. 32 del testo unico approvato con [regio decreto 30 ottobre 1933, n. 1611](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md).
+Gli aggiunti procuratori di 2ª classe sono nominati esclusivamente in seguito a concorso per esami, a norma del secondo comma dell'art. 32 del testo unico approvato con [regio decreto 30 ottobre 1933, n. 1611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1611).
 
 ## Art. 5.
 
@@ -74,7 +74,7 @@ Gli avvocati e i procuratori dello Stato che abbiano riportata una sanzione disc
 ## Art. 7.
 
 ((La Commissione permanente per gli avvocati e procuratori dello Stato e' composta dell'avvocato generale dello Stato, che la presiede, e dei quattro vice avvocati generali dello Stato piu' anziani)).
- Quando si debba procedere alle nomine in conformita' dell'art. 31 del testo unico approvato con [regio decreto 30 ottobre 1933, n. 1611](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md), fa parte della Commissione un magistrato di grado non inferiore a quello di consigliere di Corte di cassazione, designato dal Ministro per la grazia e giustizia.
+ Quando si debba procedere alle nomine in conformita' dell'art. 31 del testo unico approvato con [regio decreto 30 ottobre 1933, n. 1611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1611), fa parte della Commissione un magistrato di grado non inferiore a quello di consigliere di Corte di cassazione, designato dal Ministro per la grazia e giustizia.
  Il Segretario generale dell'Avvocatura dello Stato interviene nella Commissione come segretario; ha voto deliberativo negli affari relativi al personale d'ordine e subalterno, ed ha voto consultivo negli altri affari.
  In caso di assenza o di impedimento dell'Avvocato generale dello Stato, la Commissione e' presieduta dal Vice avvocato generale piu' anziano.
 
@@ -99,9 +99,9 @@ La [L. 3 aprile 1979, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:sta
 
 ## Art. 10.
 
-Al personale d'ordine e subalterno continuano ad applicarsi le norme del regolamento approvato con [regio decreto 30 ottobre 1933, n. 1612](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20de_d5942397a5e9.md), relative alle note di qualifica.
+Al personale d'ordine e subalterno continuano ad applicarsi le norme del regolamento approvato con [regio decreto 30 ottobre 1933, n. 1612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1612), relative alle note di qualifica.
  Queste sono date per il personale appartenente all'Avvocatura generale dello Stato dal Segretario generale, e per il personale appartenente alle Avvocature distrettuali dall'Avvocato distrettuale.
- I provvedimenti relativi alla nomina del personale subalterno e degli agenti tecnici, all'esercizio della facolta' prevista dall'ultimo comma dell'art. 31 del regolamento approvato con [regio decreto 30 ottobre 1933, n. 1612](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20de_d5942397a5e9.md), nonche' quelli relativi alle promozioni, trasferimenti, cessazione dal servizio e in genere alla carriera del suddetto personale sono adottati dall'Avvocato generale dello Stato.
+ I provvedimenti relativi alla nomina del personale subalterno e degli agenti tecnici, all'esercizio della facolta' prevista dall'ultimo comma dell'art. 31 del regolamento approvato con [regio decreto 30 ottobre 1933, n. 1612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1612), nonche' quelli relativi alle promozioni, trasferimenti, cessazione dal servizio e in genere alla carriera del suddetto personale sono adottati dall'Avvocato generale dello Stato.
 
 ## Art. 11.
 
@@ -109,7 +109,7 @@ Gli impegni e gli ordini di spesa relativi all'Avvocatura dello Stato, nei limit
 
 ## Art. 12.
 
-La tabella annessa al [regio decreto 13 gennaio 1941, n. 120](../Regi%20decreti/Modificazioni%20allordinamento%20dellAvvocatura%20dello%20Stato.%20041U0120.md), e modificata con l'[art. 2 del decreto luogotenenziale 26 marzo 1946, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-26;158#art_2), e' sostituita, per quanto concerne il ruolo degli avvocati e quello dei procuratori, dalla tabella annessa al presente decreto, firmata dal Presidente del Consiglio dei Ministri e dal Ministro per il tesoro.
+La tabella annessa al [regio decreto 13 gennaio 1941, n. 120](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-13;120), e modificata con l'[art. 2 del decreto luogotenenziale 26 marzo 1946, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-26;158#art_2), e' sostituita, per quanto concerne il ruolo degli avvocati e quello dei procuratori, dalla tabella annessa al presente decreto, firmata dal Presidente del Consiglio dei Ministri e dal Ministro per il tesoro.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

@@ -629,7 +629,7 @@ Con la procedura prevista dal comma 4 sono adottati i provvedimenti previsti dal
 
 AGGIORNAMENTO (3)
 
-Il [D.P.R. 18 aprile 1994, n. 420](../Regolamenti%20governativi/Regolamento%20recante%20semplificazione%20delle%20procedure%20di%20concessione%20per%20linstallazione%20di%20impianti%20di%20lavorazione%20o%20di%20deposito%20di%20oli%20minerali.md), ha disposto (con l'art. 14, comma 2)che "Il [comma 2 dell'art. 17 del decreto del Presidente della Repubblica 24 maggio 1988, n. 203](../DPR/Attuazione%20delle%20direttive%20CEE%20numeri%2080-779%2082-884%2084-360%20e%2085-203%20concernenti%20norme%20in%20materia%20di%20qualita%20dellaria%20relativamente%20a%20specifici%20agenti%20inquinanti%20e%20di%20inquinamento%20prodotto_78c2a13bac87.md), ai fini delle concessioni e delle autorizzazioni disciplinate dal presente regolamento, deve intendersi modificato nel senso che le stesse sono rilasciate sentita la regione interessata, nonche', limitatamente alle opere di cui all'art. 2, comma 1, lettere a) e b) del presente regolamento, previo parere dei Ministeri dell'ambiente e della sanita'."
+Il [D.P.R. 18 aprile 1994, n. 420](../DPR/Regolamento%20recante%20semplificazione%20delle%20procedure%20di%20concessione%20per%20linstallazione%20di%20impianti%20di%20lavorazione%20o%20di%20deposito%20di%20oli%20minerali.md), ha disposto (con l'art. 14, comma 2)che "Il [comma 2 dell'art. 17 del decreto del Presidente della Repubblica 24 maggio 1988, n. 203](../DPR/Attuazione%20delle%20direttive%20CEE%20numeri%2080-779%2082-884%2084-360%20e%2085-203%20concernenti%20norme%20in%20materia%20di%20qualita%20dellaria%20relativamente%20a%20specifici%20agenti%20inquinanti%20e%20di%20inquinamento%20prodotto_78c2a13bac87.md), ai fini delle concessioni e delle autorizzazioni disciplinate dal presente regolamento, deve intendersi modificato nel senso che le stesse sono rilasciate sentita la regione interessata, nonche', limitatamente alle opere di cui all'art. 2, comma 1, lettere a) e b) del presente regolamento, previo parere dei Ministeri dell'ambiente e della sanita'."
 
 -------------
 
@@ -677,7 +677,7 @@ Il [D.Lgs. 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimen
 
 1.
 
-L'approvazione dei progetti di impianti industriali e le autorizzazioni all'esercizio degli impianti stessi, previsti dal [decreto del Presidente della Repubblica 15 aprile 1971, n. 322](../Regolamenti%20governativi/Regolamento%20per%20lesecuzione%20della%20legge%2013%20luglio%201966%20n.%20615%20recante%20provvedimenti%20contro%20linquinamento%20atmosferico%20limitatamente%20al%20settore%20delle%20industrie.md), sono sostituite dalle autorizzazioni stabilite dal presente decreto.(7)(8)((10))
+L'approvazione dei progetti di impianti industriali e le autorizzazioni all'esercizio degli impianti stessi, previsti dal [decreto del Presidente della Repubblica 15 aprile 1971, n. 322](../DPR/Regolamento%20per%20lesecuzione%20della%20legge%2013%20luglio%201966%20n.%20615%20recante%20provvedimenti%20contro%20linquinamento%20atmosferico%20limitatamente%20al%20settore%20delle%20industrie.md), sono sostituite dalle autorizzazioni stabilite dal presente decreto.(7)(8)((10))
 
 -------------
 

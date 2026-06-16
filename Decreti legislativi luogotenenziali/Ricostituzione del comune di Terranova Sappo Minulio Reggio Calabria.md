@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 16 febbraio 1928, n. 377](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Radicena%20Jatrinoli%20e%20Terranova%20Sappominulio%20in%20un%20unico%20Comune%20denominato%20Taurianova.%20028U0377.md);
+Visto il [R. decreto 16 febbraio 1928, n. 377](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-16;377);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -28,13 +28,13 @@ Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno; Abb
 
 ## Art. 1.
 
-Il comune di Terranova Sappo Minulio, aggregato con [R. decreto 16 febbraio 1928, n. 377](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Radicena%20Jatrinoli%20e%20Terranova%20Sappominulio%20in%20un%20unico%20Comune%20denominato%20Taurianova.%20028U0377.md), al comune di Taurianova, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo. 
+Il comune di Terranova Sappo Minulio, aggregato con [R. decreto 16 febbraio 1928, n. 377](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-16;377), al comune di Taurianova, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo. 
  Il Prefetto di Reggio Calabria, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i Comuni suddetti.
 
 ## Art. 2.
 
 L'organico del ricostituito comune di Terranova Sappo Mulio e quello del comune di Taurianova saranno stabiliti dal Prefetto, sentita la Giunta provinciale amministrativa. 
- Il numero dei posti ed i gradi relativi non potranno essere superiori, rispettivamente, a quelli organicamente assegnati ai Comuni suddetti anteriormente alla Loro fusione disposta con [R. decreto 16 febbraio 1928, n. 377](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Radicena%20Jatrinoli%20e%20Terranova%20Sappominulio%20in%20un%20unico%20Comune%20denominato%20Taurianova.%20028U0377.md). 
+ Il numero dei posti ed i gradi relativi non potranno essere superiori, rispettivamente, a quelli organicamente assegnati ai Comuni suddetti anteriormente alla Loro fusione disposta con [R. decreto 16 febbraio 1928, n. 377](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-16;377). 
  Al personale gia' in servizio presso il comune di Taurianova che eventualmente sara' inquadrato nei predetti organici, non potranno essere attribuiti posizione gerarchica e trattamento economico superiori a quelli goduti all'atto dell'inquadramento medesimo.
 
 ## Art. 3.

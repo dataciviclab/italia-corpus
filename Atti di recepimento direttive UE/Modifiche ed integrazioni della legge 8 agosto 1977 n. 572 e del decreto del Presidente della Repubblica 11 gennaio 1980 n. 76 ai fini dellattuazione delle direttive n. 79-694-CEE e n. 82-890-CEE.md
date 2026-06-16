@@ -26,7 +26,7 @@ NOTE
 
 
  Nota all'art. 1:
- La legge n. 38, 1982 (pubblicata nella Gazzetta Ufficiale n. 48 del 18 febbraio 1982) concerne modifiche ad alcuni articoli del [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) approvato con [D.P.R. 15 giugno 1959, n. 393](../Testi%20Unici/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md), e successive modificazioni, riguardanti i pesi e le misure dei veicoli, nonche' alla [legge 27 novembre 1980, n. 815](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-11-27;815).
+ La legge n. 38, 1982 (pubblicata nella Gazzetta Ufficiale n. 48 del 18 febbraio 1982) concerne modifiche ad alcuni articoli del [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) approvato con [D.P.R. 15 giugno 1959, n. 393](../DPR/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md), e successive modificazioni, riguardanti i pesi e le misure dei veicoli, nonche' alla [legge 27 novembre 1980, n. 815](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-11-27;815).
 
 ## Art. 2.
 

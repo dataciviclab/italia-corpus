@@ -18,7 +18,7 @@ Promulga la seguente legge:
 
 1.
 
-Il [decreto-legge 20 marzo 2014, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-03-20;36), recante disposizioni urgenti in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, di cui al [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../Testi%20Unici/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), nonche' di impiego di medicinali meno onerosi da parte del Servizio sanitario nazionale, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
+Il [decreto-legge 20 marzo 2014, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-03-20;36), recante disposizioni urgenti in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, di cui al [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), nonche' di impiego di medicinali meno onerosi da parte del Servizio sanitario nazionale, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
 
 2.
 

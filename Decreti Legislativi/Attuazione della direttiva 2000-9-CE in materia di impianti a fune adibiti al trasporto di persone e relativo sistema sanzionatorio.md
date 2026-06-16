@@ -16,7 +16,7 @@ Vista la [legge 1° marzo 2002, n. 39](../Atti%20di%20recepimento%20direttive%20
 
 Vista la [direttiva 2000/9/CE del Parlamento europeo e del Consiglio, del 20 marzo 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2000;9), relativa agli impianti a fune adibiti al trasporto di persone;
 
-Visto il [regio decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md);
+Visto il [regio decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447);
 
 Visto il [regio decreto del 17 gennaio 1926, n. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-17;177);
 
@@ -65,7 +65,7 @@ Avvertenza:
  (Omissis).
  5. In relazione a quanto disposto dall'[art. 117, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_117-com5), i decreti legislativi eventualmente adottati nelle materie di competenza legislativa regionale e provinciale entrano in vigore, per regioni e province autonome nelle quali non sia ancora in vigore la propria normativa di attuazione, alla data scadenza del termine stabilito per l'attuazione della rispettiva normativa comunitaria e perdono comunque efficacia a decorrere dalla data di entrata in vigore della normativa di attuazione di ciascuna regione e provincia autonoma».
  - La [direttiva 2000/9/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2000;9) e' pubblicata in GUCE n. L 106 del 3 maggio 2000.
- - Il [regio decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md), reca: «Approvazione del testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e gli automobili».
+ - Il [regio decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), reca: «Approvazione del testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e gli automobili».
  - Il [regio decreto del 17 gennaio 1926, n. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-17;177), reca: «Approvazione del regolamento per il Corpo degli agenti di P.S.».
  - La [legge 23 giugno 1927, n. 1110](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-23;1110), reca: «Provvedimenti per la concessione all'industria privata dell'impianto e dell'esercizio di funicolari aeree e di ascensori in servizio pubblico».
  - Il [regio decreto-legge 24 novembre 1930, n. 1632](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20alla%20legge%2023%20giugno%201927%20n.%201110%20sulle%20funicolari%20aeree%20e%20ascensori%20in%20servizio%20pubblico.%20030U1632.md), reca: «Modificazioni della [legge 23 giugno 1927, n. 1110](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-23;1110), sulle funicolari aeree e ascensori in servizio pubblico».

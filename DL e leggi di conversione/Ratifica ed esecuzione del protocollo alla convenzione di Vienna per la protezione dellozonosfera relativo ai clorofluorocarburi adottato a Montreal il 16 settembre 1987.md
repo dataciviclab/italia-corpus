@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 1. Il Presidente della Repubblica e' autorizzato a ratificare il protocollo alla convenzione di Vienna per la protezione dell'ozonosfera relativo ai clorofluorocarburi, adottato a Montreal il 16 settembre 1987.
  AVVERTENZA:
- Il testo della nota qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura della disposizione di legge alla quale e' operato il rinvio e della quale restano invariati il valore e l'efficacia.
+ Il testo della nota qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura della disposizione di legge alla quale e' operato il rinvio e della quale restano invariati il valore e l'efficacia.
 
 Nota all'art 1:
  La convenzione per la produzione della fascia di ozono, adottata a Vienna il 22 marzo 1985, e' stata ratificata e resa esecutiva con legge 4 luglio 1988, n, 277, pubblicata nel suppl. ord. alla Gazzetta Ufficiale - n. 170 del 21 luglio 1988.

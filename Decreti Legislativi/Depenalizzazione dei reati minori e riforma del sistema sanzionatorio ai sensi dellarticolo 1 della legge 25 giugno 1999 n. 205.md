@@ -735,13 +735,13 @@ Con distinto regolamento emesso entro trenta giorni dall'adozione del regolament
 
 1.
 
-L'[articolo 124 del regio decreto 21 dicembre 1933, n. 1736](../Regi%20decreti/Disposizioni%20sullassegno%20bancario%20sullassegno%20circolare%20e%20su%20alcuni%20titoli%20speciali%20dellIstituto%20di%20emissione%20del%20Banco%20di%20Napoli%20e%20del%20Banco%20di%20Sicilia.%20033U1736.md), e successive modificazioni ed integrazioni, e' sostituito dal seguente:
+L'[articolo 124 del regio decreto 21 dicembre 1933, n. 1736](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-21;1736#art_124), e successive modificazioni ed integrazioni, e' sostituito dal seguente:
  "Art. 124. - All'atto del rilascio di moduli di assegno bancario o postale, il richiedente deve dichiarare al trattario di non essere in alcun modo interdetto dall'emissione di assegni.
  Il richiedente che dichiari il falso e' punito, qualora vengano rilasciati uno o piu' moduli di assegno, con la reclusione da sei mesi a due anni.".
 
 2.
 
-L'[articolo 125 del regio decreto 21 dicembre 1933, n. 1736](../Regi%20decreti/Disposizioni%20sullassegno%20bancario%20sullassegno%20circolare%20e%20su%20alcuni%20titoli%20speciali%20dellIstituto%20di%20emissione%20del%20Banco%20di%20Napoli%20e%20del%20Banco%20di%20Sicilia.%20033U1736.md), e successive modificazioni ed integrazioni, e' sostituito dal seguente:
+L'[articolo 125 del regio decreto 21 dicembre 1933, n. 1736](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-21;1736#art_125), e successive modificazioni ed integrazioni, e' sostituito dal seguente:
  "Art. 125. - Prima del rilascio di moduli di assegno bancario o postale il dipendente responsabile accerta, sulla base dei dati risultanti dall'archivio previsto dall'[articolo 10-bis della legge 15 dicembre 1990, n. 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-15;386#art_10bis), che il richiedente non risulti in alcun modo interdetto dall'emissione di assegni bancari o postali, ovvero soggetto a revoca delle autorizzazioni ad emettere assegni a norma dell'articolo 9 della medesima legge.
  Il dipendente responsabile che consegna moduli di assegno bancario o postale a persona interdetta, in base ai dati dell'archivio, dall'emissione di assegni o soggetta a revoca delle autorizzazioni, e' punito, salvo che il fatto costituisca piu' grave reato, con la reclusione fino ad un anno.".
 
@@ -956,7 +956,7 @@ Nell'[articolo 725 del codice penale](../Codici/Approvazione%20del%20testo%20def
 
 1.
 
-Dopo l'articolo 19 delle disposizioni coordinamento e transitorie del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvate con [regio decreto 28 maggio 1931, n. 601](../Regi%20decreti/Disposizioni%20di%20coordinamento%20e%20transitorie%20per%20il%20codice%20penale.%20031U0601.md), e' inserito il seguente:
+Dopo l'articolo 19 delle disposizioni coordinamento e transitorie del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvate con [regio decreto 28 maggio 1931, n. 601](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-05-28;601), e' inserito il seguente:
  "19-bis. - L'autorita' competente a ricevere il rapporto e ad applicare le sanzioni per le violazioni amministrative previste dagli [articoli 350](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [352](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [498](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [527](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [654](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [663-bis](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [672](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [688](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [692](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [705](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [724](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [725 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il prefetto.
  Le autorita' di seguito elencate sono competenti ad applicare le sanzioni amministrative previste dagli articoli indicati in relazione a ciascuna di esse:
  a) Ministero dei trasporti e della navigazione: articolo 465 e, limitatamente ai fatti concernenti biglietti di strade ferrate o di altre pubbliche imprese di trasporto, [articolo 466 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
@@ -989,7 +989,7 @@ Il [regio decreto 14 luglio 1898, n. 404](../Atti%20normativi%20abrogati%20%28in
 
 1.
 
-Nell'[articolo 142 del regio decreto 8 maggio 1904, n. 368](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20del%20testo%20unico%20delle%20leggi%2022%20marzo%201900%20e%207%20luglio%201902%20nn.%20195%20e%20333%20sulle%20bonificazioni%20delle%20paludi%20e%20dei%20terreni%20paludosi.%20004U0368.md) le parole da "sono punite" sino alla fine dell'articolo sono sostituite dalle seguenti: "sono punite con la sanzione amministrativa pecuniaria da lire duecentomila a un milione duecentomila.".
+Nell'[articolo 142 del regio decreto 8 maggio 1904, n. 368](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-05-08;368#art_142) le parole da "sono punite" sino alla fine dell'articolo sono sostituite dalle seguenti: "sono punite con la sanzione amministrativa pecuniaria da lire duecentomila a un milione duecentomila.".
 
 ### Art. 62. — Modifica dell'articolo 1 della legge 30 giugno 1912, n. 740
  in materia uso illecito del nome e dell'emblema della Croce Rossa
@@ -1009,7 +1009,7 @@ unico delle disposizioni sulla navigazione interna e sulla fluitazione
 
 1.
 
-Il [regio decreto 11 luglio 1913, n. 959](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulla%20navigazione%20interna%20e%20sulla%20fluitazione.%20013U0959.md) e' cosi' modificato:
+Il [regio decreto 11 luglio 1913, n. 959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-07-11;959) e' cosi' modificato:
                             a)
                                 nel primo comma dell'articolo 54 le parole "saranno punite con l'arresto non superiore nel massimo a cinque giorni, e con ammende che potranno estendersi fino a lire quattrocentomila" sono sostituite dalle seguenti: "sono punite con la sanzione amministrativa pecuniaria da lire trecentomila a un milione ottocentomila";
                             b)
@@ -1078,7 +1078,7 @@ L'[articolo 24 della legge 26 aprile 1934, n. 653](https://www.normattiva.it/uri
 
 1.
 
-Il [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) e' cosi' modificato:
+Il [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) e' cosi' modificato:
                             a)
                                 nel quinto comma dell'articolo 201 le parole da "e' punito" sino alla fine del comma sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire cinque milioni a trenta milioni";
                             b)
@@ -1319,7 +1319,7 @@ Le autorita' competenti ad applicare le sanzioni amministrative per le violazion
                             b)
                                 Ministero del lavoro: [articolo 24 della legge 26 aprile 1934, n. 653](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-04-26;653#art_24); [articolo 3 della legge 22 giugno 1939, n. 1239](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20una%20tessera%20sanitaria%20per%20le%20persone%20addette%20ai%20lavori%20domestici.%20039U1239.md); [articolo 6 della legge 27 maggio 1949, n. 260](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-05-27;260#art_6); [articoli 23](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20dellapprendistato.md) e [29 della legge 19 gennaio 1955, n. 25](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20dellapprendistato.md); [articolo 14 della legge 14 febbraio 1958, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-14;138#art_14); [articolo 4 della legge 29 novembre 1961, n. 1325](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-11-29;1325#art_4);
                             c)
-                                Ministero della sanita': [articolo 201 del regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md); [articoli 6](Attuazione%20della%20direttiva%2092-28-CEE%20concernente%20la%20pubblicita%20dei%20medicinali%20per%20uso%20umano.md) e [15 del decreto legislativo 30 dicembre 1992, n. 541](Attuazione%20della%20direttiva%2092-28-CEE%20concernente%20la%20pubblicita%20dei%20medicinali%20per%20uso%20umano.md);
+                                Ministero della sanita': [articolo 201 del regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_201); [articoli 6](Attuazione%20della%20direttiva%2092-28-CEE%20concernente%20la%20pubblicita%20dei%20medicinali%20per%20uso%20umano.md) e [15 del decreto legislativo 30 dicembre 1992, n. 541](Attuazione%20della%20direttiva%2092-28-CEE%20concernente%20la%20pubblicita%20dei%20medicinali%20per%20uso%20umano.md);
                             d)
                                 Ministero del commercio con l'estero: [articolo 11 del regio decreto-legge 14 novembre 1926, n. 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-14;1923#art_11), convertito dalla [legge 7 luglio 1927, n. 1495](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%2014%20novembre%201926%20n.%201923%20che%20provvede%20ad%20unificare%20coordinare%20ed%20integrare%20le%20disposizioni%20relative%20ai%20divieti%20di%20importazione%20e%20di%20esportazione%20di%20car_ac354a1268bc.md);
                             e)
@@ -1331,9 +1331,9 @@ Le autorita' competenti ad applicare le sanzioni amministrative per le violazion
                             h)
                                 enti ed istituti gestori delle forme di previdenza e assistenza obbligatorie: [articoli 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827#art_115) e [116 del regio decreto-legge 4 ottobre 1935, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827#art_116), convertito, con modificazioni ((dalla legge 6 aprile 1936, n. 1155;)) [articolo 32 della legge 10 giugno 1940, n. 653](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-10;653#art_32); [articolo 23 della legge 4 aprile 1952, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218#art_23); [articolo 82 del decreto del Presidente della Repubblica 30 maggio 1955, n. 797](../DPR/Testo%20unico%20delle%20norme%20concernenti%20gli%20assegni%20familiari.md); [articolo 26 della legge 9 gennaio 1963, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-01-09;9#art_26); [articolo 40 del decreto del Presidente della Repubblica 27 aprile 1968, n. 488](../DPR/Aumento%20e%20nuovo%20sistema%20di%20calcolo%20delle%20pensioni%20a%20carico%20dellassicurazione%20generale%20obbligatoria.md); [articolo 14 della legge 29 ottobre 1971, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-29;889#art_14);
                             i)
-                                regioni: [articolo 142 del regio decreto 8 maggio 1904, n. 368](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20del%20testo%20unico%20delle%20leggi%2022%20marzo%201900%20e%207%20luglio%201902%20nn.%20195%20e%20333%20sulle%20bonificazioni%20delle%20paludi%20e%20dei%20terreni%20paludosi.%20004U0368.md); [articoli 54](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulla%20navigazione%20interna%20e%20sulla%20fluitazione.%20013U0959.md) e [55 del regio decreto 11 luglio 1913, n. 959](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulla%20navigazione%20interna%20e%20sulla%20fluitazione.%20013U0959.md); [articolo 12 della legge 21 marzo 1958, n. 326](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20dei%20complessi%20ricettivi%20complementari%20a%20carattere%20turistico-sociale.md);
+                                regioni: [articolo 142 del regio decreto 8 maggio 1904, n. 368](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-05-08;368#art_142); [articoli 54](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-07-11;959#art_54) e [55 del regio decreto 11 luglio 1913, n. 959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-07-11;959#art_55); [articolo 12 della legge 21 marzo 1958, n. 326](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20dei%20complessi%20ricettivi%20complementari%20a%20carattere%20turistico-sociale.md);
                             l)
-                                sindaco: [articolo 221 del regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md).
+                                sindaco: [articolo 221 del regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_221).
 
 ## MODIFICHE ALLA LEGGE 24 NOVEMBRE 1981, N. 689
 
@@ -1394,7 +1394,7 @@ Dopo l'[articolo 22 della legge 24 novembre 1981, n. 689](https://www.normattiva
  L'opposizione si propone altresi' davanti al tribunale:
  a) se per la violazione e' prevista una sanzione pecuniaria superiore nel massimo a lire trenta milioni;
  b) quando, essendo la violazione punita con sanzione pecuniaria proporzionale senza previsione di un limite massimo, e' stata applicata una sanzione superiore a lire trenta milioni;
- c) quando e' stata applicata una sanzione di natura diversa da quella pecuniaria, sola o congiunta a quest'ultima, fatta eccezione per le violazioni previste dal [regio decreto 21 dicembre 1933, n. 1736](../Regi%20decreti/Disposizioni%20sullassegno%20bancario%20sullassegno%20circolare%20e%20su%20alcuni%20titoli%20speciali%20dellIstituto%20di%20emissione%20del%20Banco%20di%20Napoli%20e%20del%20Banco%20di%20Sicilia.%20033U1736.md), dalla [legge 15 dicembre 1990, n. 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-15;386) e dal [decreto legislativo 30 aprile 1992, n. 285](Nuovo%20codice%20della%20strada.md). Restano salve le competenze stabilite da diverse disposizioni di legge.".
+ c) quando e' stata applicata una sanzione di natura diversa da quella pecuniaria, sola o congiunta a quest'ultima, fatta eccezione per le violazioni previste dal [regio decreto 21 dicembre 1933, n. 1736](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-21;1736), dalla [legge 15 dicembre 1990, n. 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-15;386) e dal [decreto legislativo 30 aprile 1992, n. 285](Nuovo%20codice%20della%20strada.md). Restano salve le competenze stabilite da diverse disposizioni di legge.".
 
 ### Art. 99. — Giudizio di opposizione
 

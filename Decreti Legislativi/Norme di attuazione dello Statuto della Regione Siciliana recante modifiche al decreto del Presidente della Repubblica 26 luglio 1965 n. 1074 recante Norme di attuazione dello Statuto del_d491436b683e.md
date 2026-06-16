@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto il [regio decreto legislativo 15 maggio 1946, n. 455](../Regi%20decreti%20legislativi/Approvazione%20dello%20statuto%20della%20Regione%20siciliana.md), recante «Approvazione Statuto della Regione Siciliana», convertito in legge costituzionale dalla [legge costituzionale 26 febbraio 1948, n. 2](../Leggi%20costituzionali/Conversione%20in%20legge%20costituzionale%20dello%20Statuto%20della%20Regione%20siciliana%20approvato%20col%20decreto%20legislativo%2015%20maggio%201946%20n.%20455.md);
+Visto il [regio decreto legislativo 15 maggio 1946, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-15;455), recante «Approvazione Statuto della Regione Siciliana», convertito in legge costituzionale dalla [legge costituzionale 26 febbraio 1948, n. 2](../Leggi%20costituzionali/Conversione%20in%20legge%20costituzionale%20dello%20Statuto%20della%20Regione%20siciliana%20approvato%20col%20decreto%20legislativo%2015%20maggio%201946%20n.%20455.md);
 
 Visto il [decreto del Presidente della Repubblica 26 luglio 1965, n. 1074](../DPR/Norme%20di%20attuazione%20dello%20Statuto%20della%20Regione%20siciliana%20in%20materia%20finanziaria.md), recante «Norme di attuazione dello Statuto della Regione Siciliana in materia finanziaria», e in particolare gli articoli 2 e 7;
 
@@ -47,7 +47,7 @@ NOTE
  - Il [decreto del Presidente della Repubblica 26 luglio 1965, n. 1074](../DPR/Norme%20di%20attuazione%20dello%20Statuto%20della%20Regione%20siciliana%20in%20materia%20finanziaria.md) (Norme di attuazione dello Statuto della Regione Siciliana in materia finanziaria) e' stato pubblicato nella Gazzetta Ufficiale 18 settembre 1965, n. 235. 
  Note alle premesse: 
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti. 
- - Si riportano i testi degli articoli 2 e 7 del citato [regio decreto legislativo 15 maggio 1946, n. 455](../Regi%20decreti%20legislativi/Approvazione%20dello%20statuto%20della%20Regione%20siciliana.md), come modificati dal presente decreto: 
+ - Si riportano i testi degli articoli 2 e 7 del citato [regio decreto legislativo 15 maggio 1946, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-15;455), come modificati dal presente decreto: 
  «Art. 2. - Ai sensi del primo comma dell'art. 36 dello Statuto della Regione Siciliana, spettano alla Regione, oltre alle entrate tributarie da essa direttamente deliberate: 
  a) i 5,61 decimi per l'anno 2016, i 6,74 decimi per l'anno 2017 e, a decorrere dall'anno 2018, i 7,10 decimi dell'imposta sul reddito delle persone fisiche (IRPEF) afferente all'ambito regionale compresa quella affluita, in attuazione di disposizioni legislative o amministrative, ad uffici situati fuori del territorio della Regione; la quota relativa all'imposta sul reddito delle persone fisiche, spettante alla Regione e' convenzionalmente costituita: 
  1) dall'imposta netta risultante dalle dichiarazioni dei redditi e dei sostituti di imposta, nonche' dalle certificazioni sostitutive presentate dai contribuenti e per conto dei contribuenti aventi domicilio fiscale nel territorio regionale; 

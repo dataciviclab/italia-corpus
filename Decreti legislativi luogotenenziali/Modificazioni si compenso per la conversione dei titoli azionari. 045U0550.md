@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [R. decreto-legge 25 ottobre 1941, n. 1148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1941-10-25;1148), con cernente la nominativita' obbligatoria dei titoli azionari, convertito, con modificazioni, nella [legge 9 febbraio 1942, n. 96](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2025%20ottobre%201941-XIX%20n.%201148%20concernente%20la%20nominativita%20obbligatoria%20dei%20titoli%20azionari.%20042U0096.md);
 
-Visto il [R. decreto 29 marzo 1942, n. 239](../Regi%20decreti/Norme%20interpretative%20integrative%20e%20complementari%20del%20R.%20decreto-legge%2025%20ottobre%201941-XIX%20n.%201148%20convertito%20nella%20legge%209%20febbraio%201942-XX%20n.%2096%20riguardante%20la%20nominativita%20obbligatoria%20_3a87db1041f4.md), recante norme integrative e complementari del Regio decreto-legge sopra citato;
+Visto il [R. decreto 29 marzo 1942, n. 239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-29;239), recante norme integrative e complementari del Regio decreto-legge sopra citato;
 
 Visto il [decreto legislativo Luogotenenziale 1° febbraio 1915, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-02-01;58);
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro per le finanze, di concerto con i Ministri per l'ind
 
 ## Articolo unico.
 
-L'[art. 27 del R. decreto 29 marzo 1942, n. 239](../Regi%20decreti/Norme%20interpretative%20integrative%20e%20complementari%20del%20R.%20decreto-legge%2025%20ottobre%201941-XIX%20n.%201148%20convertito%20nella%20legge%209%20febbraio%201942-XX%20n.%2096%20riguardante%20la%20nominativita%20obbligatoria%20_3a87db1041f4.md), e' sostituito dal seguente: 
+L'[art. 27 del R. decreto 29 marzo 1942, n. 239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-29;239#art_27), e' sostituito dal seguente: 
  
  «Per la sostituzione o per la divisione di titoli azionari, la societa' emittente puo' richiedere il pagamento di un compenso non superiore alle spese necessarie per ogni titolo, qualunque sia il numero delle azioni rappresentate. Nessun compenso e' dovuto se la conversione si operi mediante stampigliatura delle vecchie azioni». 
  

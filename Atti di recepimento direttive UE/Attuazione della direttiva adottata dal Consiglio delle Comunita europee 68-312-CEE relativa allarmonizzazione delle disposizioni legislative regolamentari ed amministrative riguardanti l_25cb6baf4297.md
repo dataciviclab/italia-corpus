@@ -32,15 +32,15 @@ Sulla proposta del Ministro per le finanze, di concerto con i Ministri per gli a
 
 ## Art. 1.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md))).
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md))).
 
 ## Art. 2.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md))).
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md))).
 
 ## Art. 3.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md))).
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md))).
 
 ## Art. 4.
 
@@ -48,7 +48,7 @@ Sulla proposta del Ministro per le finanze, di concerto con i Ministri per gli a
 
 ## Art. 5.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md))).
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md))).
 
 ## Art. 6.
 

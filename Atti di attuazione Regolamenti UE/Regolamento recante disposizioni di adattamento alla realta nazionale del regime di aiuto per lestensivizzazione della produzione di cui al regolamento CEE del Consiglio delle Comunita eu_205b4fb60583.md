@@ -55,7 +55,7 @@ L'intervento e' attuato dal Ministero dell'agricoltura e delle foreste (in appre
 D'intesa con le regioni e le province autonome, sulla base dei criteri stabiliti dalla Commissione CEE nel regolamento CEE n. 1273/88 del 29 aprile 1988 saranno individuate le zone per le quali l'Italia puo' essere autorizzata dalla Commissione all'esenzione del regime di estensivizzazione.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - Il regolamento CEE n. 797/85 e' pubblicato nella Gazzetta Ufficiale delle Comunita' europee n. L 93 del 30 marzo 1985.

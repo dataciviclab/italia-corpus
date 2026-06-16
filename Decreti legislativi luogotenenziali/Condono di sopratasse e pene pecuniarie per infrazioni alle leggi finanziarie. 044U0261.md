@@ -26,13 +26,13 @@ Sulla proposta del Ministro per le finanze, di concerto con quello per la grazia
 
 Sono condonate: 
  
- A) la sopratassa comminata dall'[art. 15 del R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md), per i contribuenti che non abbiano adempiuto all'obbligo di presentare la dichiarazione ai fini dell'applicazione delle imposte dirette ; 
+ A) la sopratassa comminata dall'[art. 15 del R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608#art_15), per i contribuenti che non abbiano adempiuto all'obbligo di presentare la dichiarazione ai fini dell'applicazione delle imposte dirette ; 
  
- B) la sopratassa, comminata dall'[art. 16 del R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md), per i contribuenti che abbiano presentato dichiarazione infedele; 
+ B) la sopratassa, comminata dall'[art. 16 del R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608#art_16), per i contribuenti che abbiano presentato dichiarazione infedele; 
  
- C) la pena pecuniaria da L. 50 a L. 150, comminata dall'[art. 21 del R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md), per i funzionari dello Stato, delle Provincie e dei Comuni che non abbiano adempiuto all'obbligo delle prescritte comunicazioni agli uffici delle imposte; 
+ C) la pena pecuniaria da L. 50 a L. 150, comminata dall'[art. 21 del R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608#art_21), per i funzionari dello Stato, delle Provincie e dei Comuni che non abbiano adempiuto all'obbligo delle prescritte comunicazioni agli uffici delle imposte; 
  
- D) la pena pecuniaria da L. 25 a. L. 75, comminata dall'[art. 22 del R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md), per chi, invitato a presentarsi all'ufficio delle imposte, non abbia aderito all'invito. 
+ D) la pena pecuniaria da L. 25 a. L. 75, comminata dall'[art. 22 del R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608#art_22), per chi, invitato a presentarsi all'ufficio delle imposte, non abbia aderito all'invito. 
  
  Sono altresi' condonate le sopratasse dovute per la omissione o la infedelta' delle dichiarazioni prescritte dalle seguenti leggi e successive oro aggiunte e modificazioni: 
  
@@ -60,7 +60,7 @@ Sono condonate:
 
 ## Art. 2.
 
-Sono condonate le sanzioni stabilite dagli [articoli 25](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md) e [26 del R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md), in confronto dei contribuenti morosi.
+Sono condonate le sanzioni stabilite dagli [articoli 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608#art_25) e [26 del R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608#art_26), in confronto dei contribuenti morosi.
 
 ## Art. 3.
 
@@ -68,9 +68,9 @@ Sono condonate le sopratasse o le pene pecuniarie stabilite dalle seguenti leggi
  
  a) [R. decreto 24 marzo 1907, n. 237](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20della%20legge%20sulla%20conservazione%20degli%20antichi%20catasti%20dei%20terreni%20e%20di%20quello%20urbano.%20007U0237.md), relativo alla conservazione degli antichi catasti; 
  
- b) [R. decreto 8 ottobre 1931, n. 1572](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20nuovo%20catasto.%20031U1572.md), relativo al nuovo catasto terreni; 
+ b) [R. decreto 8 ottobre 1931, n. 1572](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-08;1572), relativo al nuovo catasto terreni; 
  
- c) [R. decreto 8 dicembre 1938, n. 2153](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20conservazione%20del%20nuovo%20Catasto%20dei%20terreni.%20038U2153.md), relativo alla conservazione del nuovo catasto terreni.
+ c) [R. decreto 8 dicembre 1938, n. 2153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-12-08;2153), relativo alla conservazione del nuovo catasto terreni.
 
 ## Art. 4.
 
@@ -114,7 +114,7 @@ Sono condonate le sopratasse e le pene pecuniarie per coloro che siano incorsi i
 
 E' condonata la pena pecuniaria: 
  
- a) per coloro che anteriormente alla data del presente decreto siano incorsi in violazioni degli articoli 111, esclusa la lettera e) , 112, 113 e 114 del regolamento per la coltivazione dei tabacco, approvato con [R. decreto 12 ottobre 1924, n. 1590](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20024U1590.md), modificato con, [R. decreto 24 novembre 1932, n. 1571](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20al%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20032U1571.md); 
+ a) per coloro che anteriormente alla data del presente decreto siano incorsi in violazioni degli articoli 111, esclusa la lettera e) , 112, 113 e 114 del regolamento per la coltivazione dei tabacco, approvato con [R. decreto 12 ottobre 1924, n. 1590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-12;1590), modificato con, [R. decreto 24 novembre 1932, n. 1571](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20al%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20032U1571.md); 
  
  b) per i magazzinieri ed i rivenditori di generi di monopolio, che siano incorsi in violazioni delle norma sull'ordinamento dei servizi.
 

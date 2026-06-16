@@ -56,7 +56,7 @@ Per la promozione al grado 11° del ruolo di gruppo C del personale delle Dogane
 
 ## Art. 7.
 
-I posti disponibili, alla prima attuazione del presente decreto, nei gradi indicati nel [primo comma dell'art. 8 del regio decreto 6 gennaio 1942, n. 27](../Regi%20decreti/Provvidenze%20a%20favore%20dei%20chiamati%20alle%20armi%20nelle%20assunzioni%20da%20parte%20delle%20Amministrazioni%20dello%20Stato%20e%20nelle%20promozioni%20del%20personale%20statale.%20042U0027.md), e successive estensioni, saranno conferiti col criterio del merito comparativo.
+I posti disponibili, alla prima attuazione del presente decreto, nei gradi indicati nel [primo comma dell'art. 8 del regio decreto 6 gennaio 1942, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-06;27#art_8-com1), e successive estensioni, saranno conferiti col criterio del merito comparativo.
  I limiti di anzianita' richiesti per le promozioni da effettuarsi per merito comparativo, comprese quelle di cui al comma precedente, sono ridotti di un anno e sei mesi, limitatamente ai posti disponibili alla data di attuazione del presente decreto.
  La riduzioni di anzianita' di cui al precedente comma non si applica al personale che abbia gia' fruito di analogo beneficio in precedenti promozioni.
 

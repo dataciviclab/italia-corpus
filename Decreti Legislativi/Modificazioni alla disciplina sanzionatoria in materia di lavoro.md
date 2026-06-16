@@ -333,7 +333,7 @@ Note all'art. 19:
  a) dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), salvo quanto disposto dall'art. 33, lettera a); 
  b) dall'[art. 19, secondo comma, della legge 22 maggio 1978, n. 194](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;194#art_19-com2), sull'interruzione volontaria della gravidanza; 
  c) da disposizioni di legge concernenti le armi, le munizioni e gli esplosivi; 
- d) dall'[art. 221 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md); 
+ d) dall'[art. 221 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_221), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265); 
  e) dalla [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), modificata con [legge 26 febbraio 1963, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-26;441), sulla disciplina igienica degli alimenti, salvo che per le contravvenzioni previste dagli articoli 8 e 14 della stessa [legge 30 aprile 1962, n. 
  283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283); 
  f) dalla [legge 29 marzo 1951, n. 327](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20della%20produzione%20e%20vendita%20di%20alimenti%20per%20la%20prima%20infanzia%20e%20di%20prodotti%20dietetici.md), sulla disciplina degli alimenti per la prima infanzia e dei prodotti dietetici; 
@@ -511,7 +511,7 @@ Nel [primo comma dell'art. 8 del regio decreto-legge 23 dicembre 1920, n. 1881](
 
 3.
 
-Nel [primo comma dell'art. 69 del regio decreto 9 gennaio 1927, n. 147](../Regi%20decreti/Approvazione%20del%20regolamento%20speciale%20per%20limpiego%20dei%20gas%20tossici.%20027U0147.md), le parole: "a norma dell'[art. 225 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con il [regio decreto 6 novembre 1926, n. 1848](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20026U1848.md)" sono sostituite dalle seguenti: "con l'arresto fino a tre mesi o con l'ammenda da lire cinquecentomila a lire due milioni".
+Nel [primo comma dell'art. 69 del regio decreto 9 gennaio 1927, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-01-09;147#art_69-com1), le parole: "a norma dell'[art. 225 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_225), approvato con il [regio decreto 6 novembre 1926, n. 1848](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20026U1848.md)" sono sostituite dalle seguenti: "con l'arresto fino a tre mesi o con l'ammenda da lire cinquecentomila a lire due milioni".
 
 4.
 
@@ -981,7 +981,7 @@ Note all'art. 26:
  Il rifiuto di libero accesso agli incaricati della 
  vigilanza, e del prelevamento del campione a termini dell'art. 5, nonche' la inosservanza dell'ordine prefettizio di chiusura dello stabilimento, sono puniti con l'ammenda da lire quattromila a lire quattrocentomila". 
  - Il testo vigente dell'[art. 69 del R.D. 9 gennaio 1927, 
- n. 147](../Regi%20decreti/Approvazione%20del%20regolamento%20speciale%20per%20limpiego%20dei%20gas%20tossici.%20027U0147.md) (relativo all'approvazione del regolamento speciale per l'impiego dei gas tossici), come modificato dal decreto legislativo qui pubblicato, e' il seguente: 
+ n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-01-09;147#art_69) (relativo all'approvazione del regolamento speciale per l'impiego dei gas tossici), come modificato dal decreto legislativo qui pubblicato, e' il seguente: 
  "Art. 69 (Contravvenzioni). - Le contravvenzioni alle 
  disposizioni del presente regolamento sono punite con l'arresto fino a tre mesi o con l'ammenda da lire cinquecentomila a lire due milioni". 
  - Il testo vigente dell'[art. 389 del D.P.R. 27 aprile 

@@ -452,7 +452,7 @@ In attesa del riordino delle funzioni e degli uffici dell'Amministrazione civile
                             i)
                                 copertura assicurativa del rischio di responsabilita' civile;
                             l)
-                                estensione ai funzionari della carriera prefettizia incaricati della provvisoria amministrazione degli enti locali della difesa in giudizio ai sensi dell'articolo 44 del testo unico approvato con [regio decreto 30 ottobre 1933, n. 1611](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md);
+                                estensione ai funzionari della carriera prefettizia incaricati della provvisoria amministrazione degli enti locali della difesa in giudizio ai sensi dell'articolo 44 del testo unico approvato con [regio decreto 30 ottobre 1933, n. 1611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1611);
                             m)
                                 esplicita indicazione delle norme legislative abrogate.
 
@@ -506,7 +506,7 @@ Note all'art. 10.
 
  e) previsione di decreti ministeriali di natura non regolamentare per la definizione dei compiti delle unita' dirigenziali nell'ambito degli uffici dirigenziali generali".
 
- - Si riporta il testo degli [art. 43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md) e [44 del regio decreto 30 ottobre 1933, n. 1611](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md) (Approvazione del testo, unico delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento dell'Avvocatura dello Stato):
+ - Si riporta il testo degli [art. 43](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1611#art_43) e [44 del regio decreto 30 ottobre 1933, n. 1611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1611#art_44) (Approvazione del testo, unico delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento dell'Avvocatura dello Stato):
 
  "Art. 43. - L'Avvocatura dello Stato puo' assumere la rappresentanza e la difesa nei giudizi attivi e passivi avanti le Autorita' giudiziarie, i Collegi arbitrali, le giurisdizioni amministrative e speciali, di amministrazioni pubbliche non statali ed enti sovvenzionati, sottoposti a tutela od anche a sola vigilanza dello Stato, sempre che sia autorizzata da disposizione di legge, di regolamento o di altro provvedimento approvato con regio decreto.
 

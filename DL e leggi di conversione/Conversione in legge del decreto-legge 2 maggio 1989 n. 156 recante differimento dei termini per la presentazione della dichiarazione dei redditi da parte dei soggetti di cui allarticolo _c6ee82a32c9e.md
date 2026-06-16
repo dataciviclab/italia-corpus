@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 1.
 
-E' convertito in legge il [decreto-legge 2 maggio 1989, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-05-02;156), recante differimento dei termini per la presentazione della dichiarazione dei redditi da parte dei soggetti di cui all'articolo 87 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md).
+E' convertito in legge il [decreto-legge 2 maggio 1989, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-05-02;156), recante differimento dei termini per la presentazione della dichiarazione dei redditi da parte dei soggetti di cui all'articolo 87 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md).
 
 AVVERTENZA:
  Il [decreto-legge 2 maggio 1989, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-05-02;156), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 100 del 2 maggio 1989.

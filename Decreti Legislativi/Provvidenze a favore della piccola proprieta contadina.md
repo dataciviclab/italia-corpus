@@ -68,7 +68,7 @@ Lo Stato, le Province, i Comuni sono autorizzati a vendere, con licitazione priv
 
 ## Art. 6.
 
-Il Ministro per l'agricoltura e le foreste puo' autorizzare i consorzi, gli enti e le societa', di cui all'art. 4, a procedere alla espropriazione degli immobili soggetti a bonifica, i cui proprietari siano inadempienti agli obblighi del bonificamento, giusta l'[art. 4 del regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), o l'[art. 10 del testo unico 10 novembre 1905, n. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1905-11-10;647#art_10), ed altre disposizioni successive.
+Il Ministro per l'agricoltura e le foreste puo' autorizzare i consorzi, gli enti e le societa', di cui all'art. 4, a procedere alla espropriazione degli immobili soggetti a bonifica, i cui proprietari siano inadempienti agli obblighi del bonificamento, giusta l'[art. 4 del regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_4), o l'[art. 10 del testo unico 10 novembre 1905, n. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1905-11-10;647#art_10), ed altre disposizioni successive.
 
 ## Art. 7.
 

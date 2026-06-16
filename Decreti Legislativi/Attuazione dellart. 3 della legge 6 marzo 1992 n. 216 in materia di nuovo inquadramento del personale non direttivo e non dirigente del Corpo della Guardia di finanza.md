@@ -1712,7 +1712,7 @@ La durata complessiva del prolungamento della ferma:
                             a)
                                 per l'ispettore temporaneamente non idoneo al servizio incondizionato, non puo' superare il periodo massimo previsto per l'aspettativa;
                             a-bis)
-                                per l'ispettore in congedo obbligatorio per maternita', non puo' superare il periodo concesso ai sensi dell'[articolo 16](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20tutela%20e%20sostegno%20della%20maternita%20e%20della%20paternita%20a%20norma%20dellarticolo%2015%20della%20legge%208%20marzo%202000%20n.%2053.md) o dell'[articolo 20 del decreto legislativo 26 marzo 2001, n. 151](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20tutela%20e%20sostegno%20della%20maternita%20e%20della%20paternita%20a%20norma%20dellarticolo%2015%20della%20legge%208%20marzo%202000%20n.%2053.md);
+                                per l'ispettore in congedo obbligatorio per maternita', non puo' superare il periodo concesso ai sensi dell'[articolo 16](Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20tutela%20e%20sostegno%20della%20maternita%20e%20della%20paternita%20a%20norma%20dellarticolo%2015%20della%20legge%208%20marzo%202000%20n.%2053.md) o dell'[articolo 20 del decreto legislativo 26 marzo 2001, n. 151](Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20tutela%20e%20sostegno%20della%20maternita%20e%20della%20paternita%20a%20norma%20dellarticolo%2015%20della%20legge%208%20marzo%202000%20n.%2053.md);
                             b)
                                 per l'ispettore imputato in procedimento penale ovvero sottoposto a procedimento disciplinare di Stato, non puo' protrarsi oltre la data entro la quale viene definito il procedimento stesso.
 
@@ -2922,10 +2922,10 @@ Nota all'art. 75:
 
 1.
 
-Ai sensi dell'[art. 18 del regio decreto 31 agosto 1907, n. 690](../Regi%20decreti/Che%20approva%20lunito%20testo%20unico%20della%20legge%20sugli%20ufficiali%20ed%20agenti%20di%20pubblica%20sicurezza.%20007U0690.md), al personale del Corpo della guardia di finanza appartenente ai ruoli "ispettori", "sovrintendenti" e "appuntati e finanzieri", e' attribuita la qualifica di agente di pubblica sicurezza.
+Ai sensi dell'[art. 18 del regio decreto 31 agosto 1907, n. 690](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-31;690#art_18), al personale del Corpo della guardia di finanza appartenente ai ruoli "ispettori", "sovrintendenti" e "appuntati e finanzieri", e' attribuita la qualifica di agente di pubblica sicurezza.
 
-Nota all'[art. 76](../Regi%20decreti/Che%20approva%20lunito%20testo%20unico%20della%20legge%20sugli%20ufficiali%20ed%20agenti%20di%20pubblica%20sicurezza.%20007U0690.md):
- - L'[art. 18 del regio decreto 31 agosto 1907, n. 690](../Regi%20decreti/Che%20approva%20lunito%20testo%20unico%20della%20legge%20sugli%20ufficiali%20ed%20agenti%20di%20pubblica%20sicurezza.%20007U0690.md) (Testo unico della legge sugli ufficiali ed agenti di pubblica sicurezza), recita:
+Nota all'[art. 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-31;690#art_76):
+ - L'[art. 18 del regio decreto 31 agosto 1907, n. 690](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-31;690#art_18) (Testo unico della legge sugli ufficiali ed agenti di pubblica sicurezza), recita:
  "[Art. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1901-08-21;409#art_18) ([Art. 15 legge 21 agosto 1901, n. 409](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1901-08-21;409#art_15)). - Sono pure agenti di pubblica sicurezza le guardie di finanza forestali, le guardia carcerarie, nonche' le guardie campestri, daziarie, boschive, ed altre dei comuni, costituite in forza di regolamenti, deliberati ed approvati nelle forme di legge, e riconosciute dal prefetto".
 
 ### Art. 77. — (( (Nomina a vice brigadiere e a maresciallo di complemento) ))

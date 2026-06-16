@@ -42,7 +42,7 @@ Il ruolo organico dei funzionari di pubblica sicurezza (gruppo A) dell'Amministr
 
 ## Art. 2.
 
-Le promozioni ad ispettore generale capo sono deliberate a norma dell'[art. 19 del regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), dal Consiglio dei Ministri, su proposta del Ministro per l'interno, e possono essere conferite ai questori che abbiano diretto una questura per almeno un triennio o esercitato per ugual periodo le funzioni di ispettore generale.
+Le promozioni ad ispettore generale capo sono deliberate a norma dell'[art. 19 del regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_19), dal Consiglio dei Ministri, su proposta del Ministro per l'interno, e possono essere conferite ai questori che abbiano diretto una questura per almeno un triennio o esercitato per ugual periodo le funzioni di ispettore generale.
 
 ## Art. 3.
 

@@ -22,7 +22,7 @@ Visto il decreto ministeriale 22 dicembre 1986 che ha fissato le caratteristiche
 
 Considerato che occorre provvedere all'emanazione del decreto di attuazione delle suddette direttive;
 
-Visto l'[art. 144 del testo unico delle norme sulla circolazione](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20circolazione%20e%20soggiorno%20dei%20cittadini%20degli%20Stati%20membri%20dellUnione%20europea.%20Testo%20A.md) stradale approvato con [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](../Testi%20Unici/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md);
+Visto l'[art. 144 del testo unico delle norme sulla circolazione](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20circolazione%20e%20soggiorno%20dei%20cittadini%20degli%20Stati%20membri%20dellUnione%20europea.%20Testo%20A.md) stradale approvato con [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](../DPR/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md);
 
 Sulla proposta del Ministro dei trasporti e del Ministro dei lavori pubblici;
 
@@ -61,7 +61,7 @@ I limiti di peso e dimensioni risultanti dalla legislazione vigente, se superior
 
 1.
 
-Gli organi competenti ai sensi del testo unico approvato con [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](../Testi%20Unici/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md), effettuano controlli per quanto riguarda le norme relative ai pesi e alle dimensioni previste dalla [direttiva n. 85/3/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1985;3) ((e delle direttive n. 86/360/CEE, n. 89/461/CEE, n. 91/60/CEE e n. 92/7/CEE)).
+Gli organi competenti ai sensi del testo unico approvato con [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](../DPR/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md), effettuano controlli per quanto riguarda le norme relative ai pesi e alle dimensioni previste dalla [direttiva n. 85/3/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1985;3) ((e delle direttive n. 86/360/CEE, n. 89/461/CEE, n. 91/60/CEE e n. 92/7/CEE)).
 
 ## Art. 6.
 

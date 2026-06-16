@@ -2822,10 +2822,10 @@ Note all'[art. 129:
 
 1.
 
-Fino all'emanazione dei decreti e dei regolamenti previsti dal presente codice, restano in vigore, in quanto applicabili, le disposizioni dei regolamenti approvati con [regi decreti 2 ottobre 1911, n. 1163](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20gli%20archivi%20di%20Stato.%20011U1163.md) e [30 gennaio 1913, n. 363](../Atti%20normativi%20abrogati%20%28in%20originale%29/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20delle%20leggi%2020%20giugno%201909%20n.%20364%20e%2023%20giugno%201912%20n.%20688%20relative%20alle%20antichita%20e%20belle%20arti.%20013U0363.md), e ogni altra disposizione regolamentare attinente alle norme contenute in questa Parte.
+Fino all'emanazione dei decreti e dei regolamenti previsti dal presente codice, restano in vigore, in quanto applicabili, le disposizioni dei regolamenti approvati con [regi decreti 2 ottobre 1911, n. 1163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-10-02;1163) e [30 gennaio 1913, n. 363](../Atti%20normativi%20abrogati%20%28in%20originale%29/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20delle%20leggi%2020%20giugno%201909%20n.%20364%20e%2023%20giugno%201912%20n.%20688%20relative%20alle%20antichita%20e%20belle%20arti.%20013U0363.md), e ogni altra disposizione regolamentare attinente alle norme contenute in questa Parte.
 
 Note all'[art. 130:
- - Il regio decreto 2 ottobre 1911, n. 1163](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20gli%20archivi%20di%20Stato.%20011U1163.md), recante il «Regolamento per gli Archivi di Stato», e' pubblicato nella Gazzetta Ufficiale n. 260 dell'8 novembre 1911.
+ - Il regio decreto 2 ottobre 1911, n. 1163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-10-02;1163#art_130), recante il «Regolamento per gli Archivi di Stato», e' pubblicato nella Gazzetta Ufficiale n. 260 dell'8 novembre 1911.
  - Il [regio decreto 30 gennaio 1913, n. 363](../Atti%20normativi%20abrogati%20%28in%20originale%29/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20delle%20leggi%2020%20giugno%201909%20n.%20364%20e%2023%20giugno%201912%20n.%20688%20relative%20alle%20antichita%20e%20belle%20arti.%20013U0363.md), recante il «Regolamento di esecuzione delle [leggi 20 giugno 1909, n. 364 e 23 giugno 1912, n. 688](../Atti%20normativi%20abrogati%20%28in%20originale%29/Portante%20modificazioni%20alla%20legge%2020%20giugno%201909%20n.%20364%20per%20le%20antichita%20e%20belle%20arti.%20012U0688.md), per le antichita' e le belle arti», e' pubblicato nella Gazzetta Ufficiale n. 130 del 5 giugno 1913.
 
 ## Beni paesaggistici - - TITOLO I Tutela e valorizzazione Capo I Disposizioni generali
@@ -3099,7 +3099,7 @@ Sono comunque di interesse paesaggistico e sono sottoposti alle disposizioni di 
                             b)
                                 i territori contermini ai laghi compresi in una fascia della profondita' di 300 metri dalla linea di battigia, anche per i territori elevati sui laghi;
                             c)
-                                i fiumi, i torrenti, i corsi d'acqua iscritti negli elenchi previsti dal testo unico delle disposizioni di legge sulle acque ed impianti elettrici, approvato con [regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), e le relative sponde o piedi degli argini per una fascia di 150 metri ciascuna;
+                                i fiumi, i torrenti, i corsi d'acqua iscritti negli elenchi previsti dal testo unico delle disposizioni di legge sulle acque ed impianti elettrici, approvato con [regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775), e le relative sponde o piedi degli argini per una fascia di 150 metri ciascuna;
                             d)
                                 le montagne per la parte eccedente 1.600 metri sul livello del mare per la catena alpina e 1.200 metri sul livello del mare per la catena appenninica e per le isole;
                             e)

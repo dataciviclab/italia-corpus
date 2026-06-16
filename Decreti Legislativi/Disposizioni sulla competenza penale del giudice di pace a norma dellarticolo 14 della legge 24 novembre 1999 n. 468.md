@@ -153,7 +153,7 @@ Il giudice di pace e' competente:
 
 Il giudice di pace e' altresi' competente per i delitti, consumati o tentati, e per le contravvenzioni previsti dalle seguenti disposizioni:
                             a)
-                                [articoli 25](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [62, terzo comma, del regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), recante "Testo unico in materia di sicurezza";
+                                [articoli 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_25) e [62, terzo comma, del regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_62-com3), recante "Testo unico in materia di sicurezza";
                             b)
                                 [articoli 1095](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [1096](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [1119 del regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), recante "Approvazione del testo definitivo del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md)";
                             c)

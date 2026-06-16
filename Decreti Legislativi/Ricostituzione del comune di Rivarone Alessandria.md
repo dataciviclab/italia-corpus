@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Il comune di Rivarone, aggregato col [regio decreto 31 dicembre 1928, n. 3312](../Regi%20decreti/Aggregazione%20del%20comune%20di%20Rivarone%20nonche%20della%20parte%20della%20frazione%20Fiondi%20dipendente%20dal%20comune%20di%20Pietra%20Marazzi%20al%20comune%20di%20Bassignana.%20028U3312.md), a quello di Bassignana, e' ricostituito con la circoscrizione territoriale preesistente all'entrata in vigore del decreto suddetto.
+Il comune di Rivarone, aggregato col [regio decreto 31 dicembre 1928, n. 3312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-31;3312), a quello di Bassignana, e' ricostituito con la circoscrizione territoriale preesistente all'entrata in vigore del decreto suddetto.
  Il Prefetto di Alessandria, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i Comuni interessati, in dipendenza dell'attuazione del presente decreto.
 
 ## Art. 2.

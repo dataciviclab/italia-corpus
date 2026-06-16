@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Visto il [decreto del Presidente della Repubblica 9 aprile 1959, n. 128](../DPR/Norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave.md), e successive modifiche;
 
-Visto il [decreto del Presidente della Repubblica 30 giugno 1965, n. 1124](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali.md), e successive modifiche;
+Visto il [decreto del Presidente della Repubblica 30 giugno 1965, n. 1124](../DPR/Testo%20unico%20delle%20disposizioni%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali.md), e successive modifiche;
 
 Vista la [legge 17 aprile 1989, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-17;150), e successive modifiche;
 
@@ -46,7 +46,7 @@ TITOLO I
 
 1.
 
-Il presente decreto legislativo prescrive misure per la tutela della sicurezza e della salute dei lavoratori durante il lavoro nelle attivita' estrattive di sostanze minerali di prima e di seconda categoria, cosi' come definite dall'[articolo 2 del regio decreto 29 luglio 1927, n. 1443](../Regi%20decreti/Norme%20di%20carattere%20legislativo%20per%20disciplinare%20la%20ricerca%20e%20la%20coltivazione%20delle%20miniere%20nel%20Regno.%20027U1443.md), e successive modifiche.
+Il presente decreto legislativo prescrive misure per la tutela della sicurezza e della salute dei lavoratori durante il lavoro nelle attivita' estrattive di sostanze minerali di prima e di seconda categoria, cosi' come definite dall'[articolo 2 del regio decreto 29 luglio 1927, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1443#art_2), e successive modifiche.
 
 2.
 
@@ -468,7 +468,7 @@ L'[articolo 26 del decreto del Presidente della Repubblica n. 128 del 1959](http
 L'[articolo 28 del decreto del Presidente della Repubblica n. 128 del 1959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959;128#art_28) e' sostituito dal seguente:
  "Articolo 28
  1. Per le attivita' estrattive relative a minerali di seconda categoria la denuncia di esercizio di cui all'articolo 24 e le eventuali variazioni di cui all'articolo 25 sono trasmesse anche al Comune ove i lavori si svolgono mediante lettera raccomandata con avviso di ricevimento.
- 2. Quando la cava dia tenuta in esercizio da persone non regolarmente costituite in societa', deve essere nominato un rappresentante ai fini del presente decreto e di tutti i rapporti in genere con l'autorita' mineraria. Qualora gli interessati non vi abbiano provveduto l'Ingegnere capo fissa un termine di tre mesi. In caso di mancato adempimento si applica la procedura prevista dall'[articolo 28, comma 3, del regio decreto 29 luglio 1927, n. 1443](../Regi%20decreti/Norme%20di%20carattere%20legislativo%20per%20disciplinare%20la%20ricerca%20e%20la%20coltivazione%20delle%20miniere%20nel%20Regno.%20027U1443.md)."
+ 2. Quando la cava dia tenuta in esercizio da persone non regolarmente costituite in societa', deve essere nominato un rappresentante ai fini del presente decreto e di tutti i rapporti in genere con l'autorita' mineraria. Qualora gli interessati non vi abbiano provveduto l'Ingegnere capo fissa un termine di tre mesi. In caso di mancato adempimento si applica la procedura prevista dall'[articolo 28, comma 3, del regio decreto 29 luglio 1927, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1443#art_28-com3)."
 
 15.
 
@@ -575,7 +575,7 @@ In caso di infortunio che richieda la denuncia di cui al comma 3, primo periodo 
 
 1.
 
-Per le attivita' estrattive che si svolgono in mare, qualora l'infortunio riguardi personale imbarcato con contratto di arruolamento sulle navi e sui mezzi nautici impiegati nei lavori, deve essere presentata denuncia di infortunio anche all'autorita' marittima competente, nei termini, nei modi e per gli effetti di cui al [decreto del Presidente della Repubblica 30 giugno 1965, n. 1124](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali.md), fermo restando l'obbligo di denuncia di cui all'articolo 54 dello stesso decreto.
+Per le attivita' estrattive che si svolgono in mare, qualora l'infortunio riguardi personale imbarcato con contratto di arruolamento sulle navi e sui mezzi nautici impiegati nei lavori, deve essere presentata denuncia di infortunio anche all'autorita' marittima competente, nei termini, nei modi e per gli effetti di cui al [decreto del Presidente della Repubblica 30 giugno 1965, n. 1124](../DPR/Testo%20unico%20delle%20disposizioni%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali.md), fermo restando l'obbligo di denuncia di cui all'articolo 54 dello stesso decreto.
 
 2.
 
@@ -587,7 +587,7 @@ Gli infortuni sono altresi' annotati sul registro di piattaforma.
 
 4.
 
-Restano ferme le norme riguardanti le inchieste sugli infortuni della gente di mare di cui al Titolo V del [regio decreto 25 gennaio 1937, n. 200](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20dei%20Regi%20decreti%2017%20agosto%201935%20n.%201765%20e%2015%20dicembre%201936%20n.%202276%20sullassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20_1b7286f29503.md), e sui sinistri marittimi di cui alla Parte I, Libro IV, Titoli I e II del [Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+Restano ferme le norme riguardanti le inchieste sugli infortuni della gente di mare di cui al Titolo V del [regio decreto 25 gennaio 1937, n. 200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-01-25;200), e sui sinistri marittimi di cui alla Parte I, Libro IV, Titoli I e II del [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 ### Art. 28. — (Statistiche degli infortuni)
 
@@ -717,7 +717,7 @@ Fatte salve le specifiche disposizioni dell'articolo 73, comma 2, il trasporto d
 
 1.
 
-Fermo restando il disposto dell'[articolo 46 del regio decreto 18 giugno 1931, n.773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e in deroga al [primo comma dell'articolo 336 del decreto del Presidente della Repubblica 9 aprile 1959 n. 128](../DPR/Norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave.md), la miscelazione dei prodotti utilizzati per il caricamento dei fori da mina, nonche' il caricamento stesso, possono essere effettuati con automezzi riconosciuti idonei dal Ministero dell'industria, del commercio e dell'artigianato ai sensi dell'[articolo 297 del decreto del Presidente della Repubblica n. 128 del 1959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959;128#art_297), e conformemente alle prescrizioni stabilite, caso per caso, dall'autorita' di vigilanza.
+Fermo restando il disposto dell'[articolo 46 del regio decreto 18 giugno 1931, n.773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_46), e in deroga al [primo comma dell'articolo 336 del decreto del Presidente della Repubblica 9 aprile 1959 n. 128](../DPR/Norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave.md), la miscelazione dei prodotti utilizzati per il caricamento dei fori da mina, nonche' il caricamento stesso, possono essere effettuati con automezzi riconosciuti idonei dal Ministero dell'industria, del commercio e dell'artigianato ai sensi dell'[articolo 297 del decreto del Presidente della Repubblica n. 128 del 1959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959;128#art_297), e conformemente alle prescrizioni stabilite, caso per caso, dall'autorita' di vigilanza.
 
 2.
 

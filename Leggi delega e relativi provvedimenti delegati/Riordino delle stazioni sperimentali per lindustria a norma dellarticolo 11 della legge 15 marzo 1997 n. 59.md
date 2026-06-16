@@ -180,7 +180,7 @@ Le Stazioni Sperimentali per l'industria provvedono al finanziamento delle propr
                         a)
                             proventi derivanti dalle attivita' di cui all'articolo 2, comma 2, ivi compresi quelli derivanti da convenzioni ed accordi di programma con amministrazioni, enti pubblici e privati, nazionali, comunitari ed internazionali;
                         b)
-                            contributi a carico delle imprese ai sensi dell'[articolo 23, quarto comma, del regio decreto 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md), modificato con [decreto del Presidente della Repubblica 24 aprile 1948, n. 718](../DPR/Pagamento%20degli%20emolumenti%20del%20personale%20di%20ruolo%20dello%20Stazioni%20sperimentali%20per%20lindustria.md);
+                            contributi a carico delle imprese ai sensi dell'[articolo 23, quarto comma, del regio decreto 31 ottobre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523#art_23-com4), modificato con [decreto del Presidente della Repubblica 24 aprile 1948, n. 718](../DPR/Pagamento%20degli%20emolumenti%20del%20personale%20di%20ruolo%20dello%20Stazioni%20sperimentali%20per%20lindustria.md);
                         c)
                             rendite del patrimonio;
                         d)
@@ -197,7 +197,7 @@ I criteri di determinazione e la misura dei contributi di cui al comma 1, letter
 Alla riscossione dei contributi si provvede in conformita' alle norme vigenti.
 
 Nota all'art. 8: 
- - Il testo dell'[art. 23, quarto comma, del regio decreto 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md), modificato con [decreto del Presidente della Repubblica 24 aprile 1948, n. 718](../DPR/Pagamento%20degli%20emolumenti%20del%20personale%20di%20ruolo%20dello%20Stazioni%20sperimentali%20per%20lindustria.md) (Riordinamento dell'istruzione industriale), e' il seguente: 
+ - Il testo dell'[art. 23, quarto comma, del regio decreto 31 ottobre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523#art_23-com4), modificato con [decreto del Presidente della Repubblica 24 aprile 1948, n. 718](../DPR/Pagamento%20degli%20emolumenti%20del%20personale%20di%20ruolo%20dello%20Stazioni%20sperimentali%20per%20lindustria.md) (Riordinamento dell'istruzione industriale), e' il seguente: 
  "Al rimanente delle spese necessarie al mantenimento delle stazioni sperimentali per l'industria debbono provvedere le imprese che esercitano le industrie per le quali la stazione e' preordinata od i commerci di importazione e gli enti pubblici locali che vi sono tenuti.
  Il contributo dovuto dalle imprese viene ripartito annualmente tra esse dal consiglio di amministrazione della stazione in proporzione della loro capacita' di produzione".
 

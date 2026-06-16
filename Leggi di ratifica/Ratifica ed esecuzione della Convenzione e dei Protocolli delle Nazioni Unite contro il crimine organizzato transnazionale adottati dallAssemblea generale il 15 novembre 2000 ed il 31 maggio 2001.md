@@ -257,7 +257,7 @@ All'[articolo 7, primo comma, della legge 31 maggio 1965, n. 575](../Atti%20norm
 
 1.
 
-Al [secondo comma dell'articolo 35 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), di cui al [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e successive modificazioni, la parola: «cinque» e' sostituita dalla seguente: «dieci».
+Al [secondo comma dell'articolo 35 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_35-com2), di cui al [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), e successive modificazioni, la parola: «cinque» e' sostituita dalla seguente: «dieci».
 
 2.
 

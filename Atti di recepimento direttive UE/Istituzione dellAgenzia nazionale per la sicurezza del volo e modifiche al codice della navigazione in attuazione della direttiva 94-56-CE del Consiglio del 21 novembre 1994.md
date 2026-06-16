@@ -20,7 +20,7 @@ Visto il [decreto legislativo 25 luglio 1997, n. 250](../Decreti%20Legislativi/I
 
 Visto il [decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
 
-Visto il [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+Visto il [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
 
 Visto il regolamento per la navigazione aerea, approvato con [regio decreto 11 gennaio 1925, n. 356](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20la%20navigazione%20aerea.%20025U0356.md);
 
@@ -54,7 +54,7 @@ E' istituita l'Agenzia nazionale per la sicurezza del volo, di seguito denominat
 Il Presidente del Consiglio dei Ministri, entro il 31 marzo di ogni anno, trasmette al Parlamento il rapporto informativo sull'attivita' svolta dall'Agenzia, relativamente al periodo 1 gennaio-31 dicembre dell'anno precedente.
 
 Avvertenza: 
- Il testo delle note qui' pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione della legge, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), ai solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui' trascritti. 
+ Il testo delle note qui' pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione della legge, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), ai solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui' trascritti. 
  Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE). 
  Note alle premesse: 
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) regola la delega al Governo dell'esercizio della funzione legislativa e stabilisce che essa non puo' avvenire se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti. 
@@ -63,7 +63,7 @@ Avvertenza:
  319 del 21 novembre 1994. 
  - La [legge 24 aprile 1998, n. 128](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), reca disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee (legge comunitaria 1995-1997); l'art. 23 cosi' recita: 
  "Art. 23 (Inchieste su incidenti e inconvenienti nel settore dell'aviazione civile: criteri di delega). - 1.
- L'attuazione della [direttiva 94/56/CE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1994;56) si informa, ove occorra anche con la modificazione ed integrazione delle disposizioni del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), del regolamento per la navigazione aerea, approvato con [regio decreto 11 gennaio 1925, n. 356](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20la%20navigazione%20aerea.%20025U0356.md), nonche' delle altre norme comunque rilevanti in materia, tenuto conto degli obblighi internazionali, ai seguenti principi e criteri direttivi: 
+ L'attuazione della [direttiva 94/56/CE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1994;56) si informa, ove occorra anche con la modificazione ed integrazione delle disposizioni del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), del regolamento per la navigazione aerea, approvato con [regio decreto 11 gennaio 1925, n. 356](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20la%20navigazione%20aerea.%20025U0356.md), nonche' delle altre norme comunque rilevanti in materia, tenuto conto degli obblighi internazionali, ai seguenti principi e criteri direttivi: 
  a) prevedere, per ogni incidente aereo o inconveniente grave accaduti in Italia ovvero, se nessun altro Stato vi provvede, accaduti altrove e coinvolgenti un aeromobile immatricolato in Italia o gestito da una compagnia stabilita in Italia, l'obbligo di un'inchiesta tecnica che, salve le indagini giudiziarie e quelle comunque rivolte all'accertamento di eventuali responsabilita' previste dalle vigenti disposizioni, abbia il solo obiettivo di trarre dall'accertamento dei fatti gli insegnamenti che consentano di prevenire futuri incidenti e inconvenienti; 
  b) prevedere l'istituzione di un organismo aeronautico civile permanente, competente a svolgere o a controllare l'inchiesta di cui alla lettera a) ed a compiere ogni attivita' di studio e proposta in funzione della sicurezza del volo e della prevenzione, disciplinandone l'organizzazione, le funzioni, il patrimonio, le modalita' di gestione e la soggezione al controllo successivo della Corte dei conti; 
  c) assicurare all'organismo di cui alla lettera b) indipendenza funzionale, particolarmente nei confronti delle autorita' aeronautiche nazionali competenti per la navigabilita', l'omologazione e le operazioni di volo, la manutenzione, il rilascio delle licenze, il controllo del traffico aereo o la gestione degli aeroporti e, in generale, nei confronti di qualsiasi altra parte, i cui interessi possano entrare in conflitto con il compito affidato; 
@@ -133,7 +133,7 @@ Ai fini del presente decreto legislativo si intende per:
 
 1.
 
-L'Agenzia, fatte salve le competenze del Ministero della difesa in merito agli aeromobili di Stato, conduce le inchieste tecniche di cui all'[articolo 826 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' come sostituito dall'articolo 17, comma 1, del presente decreto, con il solo obiettivo di prevenire incidenti e inconvenienti, escludendo ogni valutazione di colpa e responsabilita'.
+L'Agenzia, fatte salve le competenze del Ministero della difesa in merito agli aeromobili di Stato, conduce le inchieste tecniche di cui all'[articolo 826 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' come sostituito dall'articolo 17, comma 1, del presente decreto, con il solo obiettivo di prevenire incidenti e inconvenienti, escludendo ogni valutazione di colpa e responsabilita'.
 
 2.
 
@@ -175,7 +175,7 @@ L'Agenzia provvede, in particolare, a:
 
 1.
 
-E' istituito il ruolo organico del personale dipendente dell'Agenzia, nel limite massimo di cinquantacinque unita', secondo la ripartizione indicata nella tabella organica allegata al presente decreto. PERIODO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 189](../Regolamenti%20governativi/Regolamento%20concernente%20il%20riordino%20dellAgenzia%20nazionale%20per%20la%20sicurezza%20del%20volo%20a%20norma%20dellarticolo%2026%20comma%201%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20da_daa579dc6a9c.md).
+E' istituito il ruolo organico del personale dipendente dell'Agenzia, nel limite massimo di cinquantacinque unita', secondo la ripartizione indicata nella tabella organica allegata al presente decreto. PERIODO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 189](../DPR/Regolamento%20concernente%20il%20riordino%20dellAgenzia%20nazionale%20per%20la%20sicurezza%20del%20volo%20a%20norma%20dellarticolo%2026%20comma%201%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20da_daa579dc6a9c.md).
 
 2.
 
@@ -200,7 +200,7 @@ Al personale dell'Agenzia e' attribuito il trattamento giuridico ed economico st
 
 6.
 
-Al personale proveniente da altra pubblica amministrazione si applica, ai fini del trattamento previdenziale, il [decreto del Presidente della Repubblica 22 marzo 1993, n. 104](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20della%20legge%2029%20dicembre%201988%20n.%20554%20concernente%20il%20regime%20pensionistico%20e%20previdenziale%20dei%20dipendenti%20trasferiti%20in%20seguito%20ai%20processi%20di%20mobilita.md). Il rimanente personale e' iscritto all'assicurazione generale obbligatoria gestita dall'Istituto nazionale della previdenza sociale ed ha diritto al trattamento di fine rapporto ai sensi dell'[articolo 2120 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2120).
+Al personale proveniente da altra pubblica amministrazione si applica, ai fini del trattamento previdenziale, il [decreto del Presidente della Repubblica 22 marzo 1993, n. 104](../DPR/Regolamento%20di%20attuazione%20della%20legge%2029%20dicembre%201988%20n.%20554%20concernente%20il%20regime%20pensionistico%20e%20previdenziale%20dei%20dipendenti%20trasferiti%20in%20seguito%20ai%20processi%20di%20mobilita.md). Il rimanente personale e' iscritto all'assicurazione generale obbligatoria gestita dall'Istituto nazionale della previdenza sociale ed ha diritto al trattamento di fine rapporto ai sensi dell'[articolo 2120 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2120).
 
 7.
 
@@ -268,7 +268,7 @@ Nota all'[art. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.rep
 
 1.
 
-Gli atti e i documenti afferenti le inchieste, nonche' il contenuto delle relazioni e dei rapporti non ancora completati dall'Agenzia sono esclusi dal diritto di accesso di cui all'[articolo 24 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_24), e su di essi deve essere osservato il segreto di ufficio ai sensi dell'[articolo 15 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), come modificato dall'[articolo 28 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_28).
+Gli atti e i documenti afferenti le inchieste, nonche' il contenuto delle relazioni e dei rapporti non ancora completati dall'Agenzia sono esclusi dal diritto di accesso di cui all'[articolo 24 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_24), e su di essi deve essere osservato il segreto di ufficio ai sensi dell'[articolo 15 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), come modificato dall'[articolo 28 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_28).
 
 Note all'[art. 11:
  - La legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_11), reca: "Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi"; l'art. 24 cosi' recita:
@@ -283,7 +283,7 @@ Note all'[art. 11:
  5. Restano ferme le disposizioni previste dall'[art. 9 della legge 1 aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_9), come modificato dall'[art. 26 della legge 10 ottobre 1986, n. 668](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-10;668#art_26), e dalle relative norme di attuazione, nonche' ogni altra disposizione attualmente vigente che limiti l'accesso ai documenti amministrativi.
  6. I soggetti indicati nell'art. 23 hanno facolta' di differire l'accesso ai documenti richiesti sino a quando la conoscenza di essi possa impedire o gravemente ostacolare lo svolgimento dell'azione amministrativa.
  Non e' comunque ammesso l'accesso agli atti preparatori nel corso della formazione dei provvedimenti di cui all'art. 13, salvo diverse disposizioni di legge".
- - L'[art. 15 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) (Testo unico delle disposizioni concernenti lo statuto degli impiegati dello Stato) come modificato dall'[art. 28 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_28), cosi' recita:
+ - L'[art. 15 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) (Testo unico delle disposizioni concernenti lo statuto degli impiegati dello Stato) come modificato dall'[art. 28 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_28), cosi' recita:
  "Art. 15 (Segreto di ufficio). - L'impiegato deve mantenere il segreto d'ufficio e non puo' dare a chi non abbia diritto, anche se non si tratti di atti segreti, informazioni o comunicazioni relative a provvedimenti od operazioni amministrative di qualsiasi natura ed a notizie delle quali sia venuto a conoscenza a causa del suo ufficio, quando possa derivarne danno per l'amministrazione o per i terzi.
  Nell'ambito delle proprie attribuzioni, l'impiegato preposto ad un ufficio rilascia, a chi ne abbia interesse, copie ed estratti di atti e documenti di ufficio nei casi non vietati dalle leggi, dai regolamenti o dal capo del servizio".
 
@@ -335,7 +335,7 @@ Le spese di istituzione e di funzionamento dell'Agenzia, valutate in lire 7 mili
 
 2.
 
-Per l'amministrazione e la contabilita' dell'Agenzia si applicano le disposizioni contenute nel [decreto del Presidente della Repubblica 18 dicembre 1979, n. 696](../Regolamenti%20governativi/Approvazione%20del%20nuovo%20regolamento%20per%20la%20classificazione%20delle%20entrate%20e%20delle%20spese%20e%20per%20lamministrazione%20e%20la%20contabilita%20degli%20enti%20pubblici%20di%20cui%20alla%20legge%2020%20marzo%201975%20n.%2070.md). I bilanci preventivi, le relative variazioni ed i conti consuntivi sono trasmessi alla amministrazione vigilante.
+Per l'amministrazione e la contabilita' dell'Agenzia si applicano le disposizioni contenute nel [decreto del Presidente della Repubblica 18 dicembre 1979, n. 696](../DPR/Approvazione%20del%20nuovo%20regolamento%20per%20la%20classificazione%20delle%20entrate%20e%20delle%20spese%20e%20per%20lamministrazione%20e%20la%20contabilita%20degli%20enti%20pubblici%20di%20cui%20alla%20legge%2020%20marzo%201975%20n.%2070.md). I bilanci preventivi, le relative variazioni ed i conti consuntivi sono trasmessi alla amministrazione vigilante.
 
 3.
 
@@ -346,7 +346,7 @@ L'Agenzia e' sottoposta alle disposizioni di cui alla [legge 29 ottobre 1984, n.
 Si applicano gli [articoli 25](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20di%20alcune%20norme%20di%20contabilita%20generale%20dello%20Stato%20in%20materia%20di%20bilancio.md) e [30 della legge 5 agosto 1978, n. 468](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20di%20alcune%20norme%20di%20contabilita%20generale%20dello%20Stato%20in%20materia%20di%20bilancio.md), e successive modificazioni ed integrazioni.
 
 Note all'[art. 15:
- - Il decreto del Presidente della Repubblica 18 dicembre 1979, n. 696](../Regolamenti%20governativi/Approvazione%20del%20nuovo%20regolamento%20per%20la%20classificazione%20delle%20entrate%20e%20delle%20spese%20e%20per%20lamministrazione%20e%20la%20contabilita%20degli%20enti%20pubblici%20di%20cui%20alla%20legge%2020%20marzo%201975%20n.%2070.md), reca: "Approvazione del nuovo regolamento per la classificazione delle entrate e delle spese e per l'amministrazione e la contabilita' degli enti pubblici di cui alla [legge 20 marzo 1975, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70)".
+ - Il decreto del Presidente della Repubblica 18 dicembre 1979, n. 696](../DPR/Approvazione%20del%20nuovo%20regolamento%20per%20la%20classificazione%20delle%20entrate%20e%20delle%20spese%20e%20per%20lamministrazione%20e%20la%20contabilita%20degli%20enti%20pubblici%20di%20cui%20alla%20legge%2020%20marzo%201975%20n.%2070.md), reca: "Approvazione del nuovo regolamento per la classificazione delle entrate e delle spese e per l'amministrazione e la contabilita' degli enti pubblici di cui alla [legge 20 marzo 1975, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70)".
  - La [legge 29 ottobre 1984, n. 720](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-29;720), reca: "Istituzione del sistema di tesoreria unica per enti ed organismi pubblici"; la tabella A cosi' recita:
  "Tabella A Province.
  Comuni, con esclusione di quelli con popolazione inferiore a 5.000 abitanti.
@@ -510,7 +510,7 @@ Titolo II
 
 1.
 
-Il titolo VIII del libro I, parte II del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+Il titolo VIII del libro I, parte II del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
  "Titolo VIII
  Delle inchieste tecniche sugli incidenti
  e sugli inconvenienti aeronautici
@@ -531,7 +531,7 @@ Nota all'[art. 17:
 
 1.
 
-Sono abrogati l'[articolo 833 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e gli articoli dal 273 al 278-ter del regolamento per la navigazione aerea, approvato con [regio decreto 11 gennaio 1925, n. 356](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20la%20navigazione%20aerea.%20025U0356.md).
+Sono abrogati l'[articolo 833 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e gli articoli dal 273 al 278-ter del regolamento per la navigazione aerea, approvato con [regio decreto 11 gennaio 1925, n. 356](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20la%20navigazione%20aerea.%20025U0356.md).
 
 Nota all'art. 18:
  - Per il titolo del [regio decreto 11 gennaio 1925, n. 356](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20la%20navigazione%20aerea.%20025U0356.md), vedi nelle note alle premesse.

@@ -34,7 +34,7 @@ Visto il [decreto legislativo 17 marzo 1995, n. 157](Attuazione%20della%20dirett
 
 Vista la [legge 7 giugno 2000, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-06-07;150);
 
-Visto il [decreto legislativo 18 agosto 2000, n. 267](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md);
+Visto il [decreto legislativo 18 agosto 2000, n. 267](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md);
 
 Visto il [decreto legislativo 30 giugno 2003, n. 196](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md);
 
@@ -332,7 +332,7 @@ Nei casi di cui al comma 3, lettere b) e c), il totale delle entrate ricavate, p
 
 8.
 
-Gli introiti delle tariffe di cui ai commi ((precedenti)) sono versati all'entrata del bilancio dello Stato, per essere riassegnati, ai sensi del [decreto del Presidente della Repubblica 10 novembre 1999, n. 469](../Regolamenti%20governativi/Regolamento%20recante%20norme%20di%20semplificazione%20del%20procedimento%20per%20il%20versamento%20di%20somme%20allentrata%20e%20la%20riassegnazione%20alle%20unita%20previsionali%20di%20base%20per%20la%20spesa%20del%20bilancio%20dello%20Sta_31ec44e7f0e7.md), allo stato di previsione delle Amministrazioni interessate.
+Gli introiti delle tariffe di cui ai commi ((precedenti)) sono versati all'entrata del bilancio dello Stato, per essere riassegnati, ai sensi del [decreto del Presidente della Repubblica 10 novembre 1999, n. 469](../DPR/Regolamento%20recante%20norme%20di%20semplificazione%20del%20procedimento%20per%20il%20versamento%20di%20somme%20allentrata%20e%20la%20riassegnazione%20alle%20unita%20previsionali%20di%20base%20per%20la%20spesa%20del%20bilancio%20dello%20Sta_31ec44e7f0e7.md), allo stato di previsione delle Amministrazioni interessate.
 
 9.
 

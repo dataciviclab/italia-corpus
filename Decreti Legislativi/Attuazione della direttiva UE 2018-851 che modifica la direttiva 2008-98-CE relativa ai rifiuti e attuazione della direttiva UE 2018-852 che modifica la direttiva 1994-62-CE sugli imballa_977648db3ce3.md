@@ -711,7 +711,7 @@ N O T E
  a) i criteri per il calcolo degli importi minimi delle garanzie finanziarie da prestare per le spedizioni dei rifiuti, di cui all'art. 6 del predetto regolamento; tali garanzie sono ridotte del cinquanta per cento per le imprese registrate ai sensi del regolamento (CE) n. 761/2001, del Parlamento europeo e del Consiglio, del 19 marzo 2001, e del quaranta per cento nel caso di imprese in possesso della certificazione ambientale ai sensi della norma Uni En Iso 14001; 
  b) le spese amministrative poste a carico dei notificatori ai sensi dell'art. 29, del regolamento; 
  c) le specifiche modalita' per il trasporto dei rifiuti negli Stati di cui al comma 2. 
- 5. Sino all'adozione del decreto di cui al comma 4, continuano ad applicarsi le disposizioni di cui al [decreto del Ministro dell'ambiente 3 settembre 1998, n. 370](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20prestazione%20della%20garanzia%20finanziaria%20per%20il%20trasporto%20transfrontaliero%20di%20rifiuti.md). 
+ 5. Sino all'adozione del decreto di cui al comma 4, continuano ad applicarsi le disposizioni di cui al [decreto del Ministro dell'ambiente 3 settembre 1998, n. 370](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente:decreto:1998-09-03;370). 
  6. Ai sensi e per gli effetti del regolamento (CE) n. 1013/2006: 
  a) le autorita' competenti di spedizione e di destinazione sono le regioni e le province autonome; 
  b) l'autorita' di transito e' il Ministero dell'ambiente e della tutela del territorio e del mare; 

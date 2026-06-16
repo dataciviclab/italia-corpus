@@ -664,7 +664,7 @@ Note all'art. 12:
  i) gli atti concernenti i rapporti tra lo Stato e la Chiesa cattolica di cui all'[articolo 7 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_7); 
  l) gli atti concernenti i rapporti previsti dall'[art. 8 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_8); 
  m) i provvedimenti da emanare con decreto del Presidente della Repubblica previo parere del Consiglio di Stato, se il Ministro competente non intende conformarsi a tale parere; 
- n) la richiesta motivata di registrazione della Corte dei conti ai sensi dell'[art. 25 del regio decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md); 
+ n) la richiesta motivata di registrazione della Corte dei conti ai sensi dell'[art. 25 del regio decreto 12 luglio 1934, n. 1214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-12;1214#art_25); 
  o) le proposte motivate per lo scioglimento dei consigli regionali; 
  p) le determinazioni concernenti l'annullamento straordinario, a tutela dell'unita' dell'ordinamento, degli atti amministrativi illegittimi, previo parere del Consiglio di Stato e, nei soli casi di annullamento di atti amministrativi delle regioni e delle province autonome, anche della Commissione parlamentare per le questioni regionali; 
  q) gli altri provvedimenti per i quali sia prescritta o il Presidente del Consiglio dei Ministri ritenga opportuna la deliberazione consiliare. 

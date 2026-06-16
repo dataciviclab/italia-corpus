@@ -54,7 +54,7 @@ Visto il [decreto-legge 30 agosto 1993, n. 331](https://www.normattiva.it/uri-re
 
 Visto il [decreto-legge 23 febbraio 1995, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-02-23;41), convertito, con modificazioni, dalla [legge 22 marzo 1995, n. 85](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20febbraio%201995%20n.%2041%20recante%20misure%20urgenti%20per%20il%20risanamento%20della%20finanza%20pubblica%20e%20per%20loccupazione%20nelle%20aree%20depresse.md), recante misure urgenti per il risanamento della finanza pubblica e per l'occupazione nelle aree depresse, e successive modificazioni;
 
-Visto il [decreto del Ministro delle finanze 5 dicembre 1997, n. 489](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20in%20tema%20di%20franchigie%20fiscali%20applicabili%20a%20talune%20importazioni%20definitive%20di%20beni%20piccole%20spedizioni%20prive%20di%20carattere%20commerciale%20ed%20a%20spedizioni%20di%20valore%20trascurabile.md), concernente regolamento recante norme in tema di franchigie fiscali applicabili a talune importazioni definitive di beni, piccole spedizioni prive di carattere commerciale ed a spedizioni di valore trascurabile, come modificato dal [decreto del Ministro dell'economia e delle finanze 29 aprile 2016, n. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.economia.finanze:decreto:2016-04-29;96);
+Visto il [decreto del Ministro delle finanze 5 dicembre 1997, n. 489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze:decreto:1997-12-05;489), concernente regolamento recante norme in tema di franchigie fiscali applicabili a talune importazioni definitive di beni, piccole spedizioni prive di carattere commerciale ed a spedizioni di valore trascurabile, come modificato dal [decreto del Ministro dell'economia e delle finanze 29 aprile 2016, n. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.economia.finanze:decreto:2016-04-29;96);
 
 Visto il [decreto legislativo 18 dicembre 1997, n. 471](../Decreti%20Legislativi/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md), recante riforma delle sanzioni tributarie non penali in materia di imposte dirette, di imposta sul valore aggiunto e di riscossione dei tributi, a norma dell'[articolo 3, comma 133, lettera q), della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), e successive modificazioni;
 
@@ -642,10 +642,10 @@ Note all'[art. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.l
 
 1.
 
-L'[articolo 5 del decreto del Ministro delle finanze 5 dicembre 1997, n. 489](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20in%20tema%20di%20franchigie%20fiscali%20applicabili%20a%20talune%20importazioni%20definitive%20di%20beni%20piccole%20spedizioni%20prive%20di%20carattere%20commerciale%20ed%20a%20spedizioni%20di%20valore%20trascurabile.md), e' abrogato.
+L'[articolo 5 del decreto del Ministro delle finanze 5 dicembre 1997, n. 489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze:decreto:1997-12-05;489#art_5), e' abrogato.
 
 Note all'art. 6: 
- - L'art. 5 del citato [decreto del Ministro delle finanze 5 dicembre 1997, n. 489](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20in%20tema%20di%20franchigie%20fiscali%20applicabili%20a%20talune%20importazioni%20definitive%20di%20beni%20piccole%20spedizioni%20prive%20di%20carattere%20commerciale%20ed%20a%20spedizioni%20di%20valore%20trascurabile.md), abrogato dal presente decreto, trattava l'ammissione alla franchigia dai diritti doganali.
+ - L'art. 5 del citato [decreto del Ministro delle finanze 5 dicembre 1997, n. 489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze:decreto:1997-12-05;489), abrogato dal presente decreto, trattava l'ammissione alla franchigia dai diritti doganali.
 
 ## Art. 7. — Disposizioni di attuazione
 
