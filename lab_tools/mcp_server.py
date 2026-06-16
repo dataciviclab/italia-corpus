@@ -278,9 +278,12 @@ def _search_corpus(
             "match_count": info["match_count"],
         }
         # Arricchisci con campi frontmatter se disponibili
+        # Bool include sempre (False = atto non vigente), stringhe solo se non vuote
         for key in ("tipo", "data", "urn", "codice_redazionale", "vigente"):
-            if key in meta and meta[key]:
-                result[key] = meta[key]
+            if key in meta:
+                val = meta[key]
+                if isinstance(val, bool) or val:
+                    result[key] = val
         results.append(result)
 
     return results

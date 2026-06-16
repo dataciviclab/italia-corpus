@@ -118,7 +118,7 @@ def extract(filepath: Path, collezione: str = "") -> dict | None:
                 "tipo": "BASE64", "data": "", "numero": "",
                 "oggetto": filepath.name[:300], "entrata_vigore": "",
                 "celex": ";".join(sorted(set(celex))),
-                "vigente": True, "urn": "", "codice_redazionale": ""}
+                "vigente": None, "urn": "", "codice_redazionale": ""}
 
     # ── Fast path: frontmatter YAML ──
     fm = parse_frontmatter(raw)
@@ -154,7 +154,7 @@ def extract(filepath: Path, collezione: str = "") -> dict | None:
             "oggetto": body["oggetto"][:500], "entrata_vigore": vigore,
             "celex": celex, "anno_atto": body["anno_atto"],
             "anno_dir": anno or 0, "ritardo": ritardo,
-            "vigente": False, "urn": "", "codice_redazionale": ""}
+            "vigente": None, "urn": "", "codice_redazionale": ""}
 
 
 def _collezioni_legislative() -> list[Path]:

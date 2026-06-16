@@ -27,8 +27,8 @@ def test_con_celex():
     assert result["anno_dir"] == 2018
     assert result["ritardo"] == 2
     assert result["collezione"] == ""
-    # Nuovi campi frontmatter: legacy → default
-    assert result["vigente"] is False
+    # Nuovi campi frontmatter: legacy → None/ignoto
+    assert result["vigente"] is None
     assert result["urn"] == ""
     assert result["codice_redazionale"] == ""
 
@@ -51,7 +51,7 @@ def test_senza_celex():
     assert result["entrata_vigore"] == ""
     assert result["anno_dir"] == 0
     assert result["ritardo"] is None
-    assert result["vigente"] is False
+    assert result["vigente"] is None
     assert result["urn"] == ""
 
 
@@ -75,13 +75,6 @@ def test_con_celex_frontmatter():
     assert result["vigente"] is True
     assert result["urn"] == "urn:nir:stato:decreto.legislativo:2020-03-15;45"
     assert result["codice_redazionale"] == "020G01234"
-
-
-def test_senza_frontmatter_solo_titolo():
-    """File frontmatter con solo titolo: campi vuoti per i nuovi."""
-    result = extract(FIXTURES / "con_celex_fm.md")
-    assert result is not None
-    assert result["tipo"] == "DECRETO LEGISLATIVO"
 
 
 # ─── helper unitari ──────────────────────────────────────────────
@@ -114,7 +107,7 @@ def test_base64():
     assert "test_base64" in result["oggetto"]
     assert result["celex"] == "32018L1234;32019L2121"
     assert result["entrata_vigore"] == ""
-    assert result["vigente"] is True
+    assert result["vigente"] is None
     assert result["urn"] == ""
 
 
