@@ -9,8 +9,11 @@ from lab_tools.extract import extract, _anno_da_celex, _dedup
 FIXTURES = Path(__file__).resolve().parent / "fixtures"
 
 
+# ─── file legacy (senza frontmatter, regex fallback) ─────────────
+
+
 def test_con_celex():
-    """File completo: tipo, data, numero, oggetto (fallback), entrata vigore, CELEX,
+    """File completo (legacy): tipo, data, numero, entrata vigore, CELEX,
     anno_dir da CELEX, collezione."""
     result = extract(FIXTURES / "con_celex.md")
     assert result is not None
@@ -24,6 +27,10 @@ def test_con_celex():
     assert result["anno_dir"] == 2018
     assert result["ritardo"] == 2
     assert result["collezione"] == ""
+    # Nuovi campi frontmatter: legacy → None/ignoto
+    assert result["vigente"] is None
+    assert result["urn"] == ""
+    assert result["codice_redazionale"] == ""
 
 
 def test_collezione_esplicita():
@@ -34,7 +41,7 @@ def test_collezione_esplicita():
 
 
 def test_senza_celex():
-    """File senza CELEX né entrata vigore: campi vuoti."""
+    """File (legacy) senza CELEX né entrata vigore: campi vuoti."""
     result = extract(FIXTURES / "senza_celex.md")
     assert result is not None
     assert result["tipo"] == "LEGGE"
@@ -44,6 +51,33 @@ def test_senza_celex():
     assert result["entrata_vigore"] == ""
     assert result["anno_dir"] == 0
     assert result["ritardo"] is None
+    assert result["vigente"] is None
+    assert result["urn"] == ""
+
+
+# ─── frontmatter YAML (fast path) ────────────────────────────────
+
+
+def test_con_celex_frontmatter():
+    """File con frontmatter: tipo, data, titolo dal frontmatter,
+    CELEX/entrata vigore dal body."""
+    result = extract(FIXTURES / "con_celex_fm.md")
+    assert result is not None
+    assert result["tipo"] == "DECRETO LEGISLATIVO"
+    assert result["data"] == "2020-03-15"
+    assert result["numero"] == "45"
+    assert "Attuazione direttiva" in result["oggetto"]
+    assert result["entrata_vigore"] == "2020-04-01"
+    assert result["celex"] == "32018L1234"
+    assert result["anno_atto"] == 2020
+    assert result["anno_dir"] == 2018
+    assert result["ritardo"] == 2
+    assert result["vigente"] is True
+    assert result["urn"] == "urn:nir:stato:decreto.legislativo:2020-03-15;45"
+    assert result["codice_redazionale"] == "020G01234"
+
+
+# ─── helper unitari ──────────────────────────────────────────────
 
 
 def test_anno_da_celex_piu_recente():
@@ -60,6 +94,9 @@ def test_anno_da_celex_senza_l():
     assert _anno_da_celex(None) is None
 
 
+# ─── BASE64 ──────────────────────────────────────────────────────
+
+
 def test_base64():
     """File con nome data_nome: solo CELEX, campi ridotti (no tipo/numero)."""
     result = extract(FIXTURES / "2020-06-01_test_base64.md")
@@ -70,6 +107,11 @@ def test_base64():
     assert "test_base64" in result["oggetto"]
     assert result["celex"] == "32018L1234;32019L2121"
     assert result["entrata_vigore"] == ""
+    assert result["vigente"] is None
+    assert result["urn"] == ""
+
+
+# ─── edge cases ──────────────────────────────────────────────────
 
 
 def test_file_inesistente():
@@ -93,7 +135,8 @@ class TestDedup:
 
     def _r(self, filename: str, collezione: str) -> dict:
         return {"collezione": collezione, "filename": filename, "tipo": "LEGGE",
-                "data": "2020-01-01", "numero": "1"}
+                "data": "2020-01-01", "numero": "1", "vigente": True,
+                "urn": "", "codice_redazionale": ""}
 
     def test_merge_collezioni_diverse(self):
         """Due occorrenze stesso filename, collezioni diverse → merge."""

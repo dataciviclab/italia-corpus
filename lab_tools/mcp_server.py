@@ -12,12 +12,19 @@ from typing import Any
 
 from mcp.server.fastmcp import FastMCP
 
+from lab_tools._frontmatter import read_frontmatter
+
 CORPUS = Path(__file__).resolve().parent.parent
 CONFIG_COLLEZIONI = CORPUS / "config" / "collezioni.txt"
 
 _QUERY_MAX_WORDS = 8
 _MAX_LIMIT = 100
 _RG_LIST_MATCHES = 3
+
+_FRONTMATTER_BOILERPLATE = frozenset({
+    "Art.", "IL PRESIDENTE", "Entrata", "Visti", "Considerato",
+    "Visto", "Ritenuto", "Sentito", "Udito", "===", "---", "\x0c",
+})
 
 
 # ─── helpers interni ──────────────────────────────────────────────
@@ -30,17 +37,40 @@ def _leggi_collezioni() -> set[str]:
     return {line.strip() for line in CONFIG_COLLEZIONI.read_text().splitlines() if line.strip()}
 
 
-def _pick_title(file: str) -> str:
-    """Estrae il titolo di un atto dalle prime righe del markdown."""
+def _file_metadata(file: str) -> dict[str, Any]:
+    """Estrae metadati da un file .md: priorità al frontmatter YAML poi fallback body.
+
+    Returns:
+        Dict con almeno ``title``; se frontmatter presente anche
+        ``tipo``, ``data``, ``urn``, ``codice_redazionale``, ``vigente``.
+    """
+    # ── Leggi frontmatter YAML (tutti i file attuali del corpus lo hanno) ──
+    fm = read_frontmatter(file)
+    if fm:
+        title = fm.get("titolo") or ""
+        return {
+            "title": title[:200] if title else _pick_title_body(file),
+            "tipo": fm.get("tipo", ""),
+            "data": str(fm.get("data", "")),
+            "urn": fm.get("urn", ""),
+            "codice_redazionale": fm.get("codice_redazionale", ""),
+            "vigente": bool(fm.get("vigente", True)),
+        }
+
+    # ── Fallback: scansione body (file legacy senza frontmatter) ──
+    return {
+        "title": _pick_title_body(file),
+    }
+
+
+def _pick_title_body(file: str) -> str:
+    """Fallback: estrae titolo dal body (prime righe) — per file senza frontmatter."""
     with open(file, encoding="utf-8", errors="replace") as f:
         for i, line in enumerate(f):
             if i > 10:
                 break
             line = line.strip()
-            if line and not line.startswith(
-                ("Art.", "IL PRESIDENTE", "Entrata", "Visti", "Considerato",
-                 "Visto", "Ritenuto", "Sentito", "Udito", "===", "---", "\x0c")
-            ):
+            if line and not line.startswith(tuple(_FRONTMATTER_BOILERPLATE)):
                 return line[:200]
     return Path(file).stem
 
@@ -238,14 +268,23 @@ def _search_corpus(
     for fp in page_files:
         info = per_file.get(fp, {"path": fp, "match_count": 0, "snippet": ""})
         rel = Path(fp).relative_to(CORPUS)
-        results.append({
-            "title": _pick_title(fp),
+        meta = _file_metadata(fp)
+        result: dict[str, Any] = {
+            "title": meta["title"],
             "collection": _collezione_da_path(str(rel)),
             "filename": rel.name,
             "path": str(rel),
             "snippet": info["snippet"],
             "match_count": info["match_count"],
-        })
+        }
+        # Arricchisci con campi frontmatter se disponibili
+        # Bool include sempre (False = atto non vigente), stringhe solo se non vuote
+        for key in ("tipo", "data", "urn", "codice_redazionale", "vigente"):
+            if key in meta:
+                val = meta[key]
+                if isinstance(val, bool) or val:
+                    result[key] = val
+        results.append(result)
 
     return results
 
@@ -263,7 +302,8 @@ server = FastMCP("italia-corpus")
         "collezioni vigenti) con ripgrep. "
         "Query multi-parola fa AND documentale tra i termini. "
         "Usa virgolette per frase esatta. "
-        "Restituisce lista strutturata di risultati."
+        "Restituisce lista strutturata di risultati con title, tipo, data, "
+        "urn, vigente e snippet."
     ),
 )
 def legal_search(
@@ -283,6 +323,8 @@ def legal_search(
 
     Returns:
         Lista di dict con title, collection, filename, path, snippet, match_count.
+        Se il file ha frontmatter YAML, include anche tipo, data, urn,
+        codice_redazionale, vigente.
     """
     try:
         return _search_corpus(

@@ -7,6 +7,7 @@ from pathlib import Path
 import pytest
 
 from lab_tools import mcp_server
+from lab_tools._frontmatter import parse_frontmatter
 
 
 # ─── fixture helpers ──────────────────────────────────────────────
@@ -291,6 +292,49 @@ class TestSearchCorpus:
 # ─── Test legal_search (tool MCP) ────────────────────────────────
 
 
+    @pytest.mark.contract
+    def test_frontmatter_fields_in_output(self, monkeypatch, tmp_path):
+        """Risultati includono campi frontmatter quando presenti."""
+        _fake_rg_available(monkeypatch)
+        (tmp_path / "config").mkdir(parents=True)
+        (tmp_path / "config" / "collezioni.txt").write_text(
+            "Decreti Legislativi\n", encoding="utf-8"
+        )
+        col = tmp_path / "Decreti Legislativi"
+        col.mkdir(parents=True)
+        (col / "test.md").write_text(
+            "---\n"
+            "tipo: DECRETO LEGISLATIVO\n"
+            "numero: 45\n"
+            "data: 2020-03-15\n"
+            'titolo: "Attuazione direttiva 2018/1234."\n'
+            "urn: urn:nir:stato:decreto.legislativo:2020-03-15;45\n"
+            "codice_redazionale: 020G01234\n"
+            "vigente: true\n"
+            "---\n"
+            "\n"
+            "DECRETO LEGISLATIVO 15 marzo 2020 n. 45\n"
+            "Attuazione direttiva 2018/1234 CELEX:32018L1234\n",
+            encoding="utf-8",
+        )
+        monkeypatch.setattr(mcp_server, "CONFIG_COLLEZIONI",
+                            tmp_path / "config" / "collezioni.txt")
+        monkeypatch.setattr(mcp_server, "CORPUS", tmp_path)
+        _mock_rg_json_result(
+            monkeypatch,
+            [tmp_path / "Decreti Legislativi" / "test.md"],
+        )
+        results = mcp_server._search_corpus("direttiva", limit=10)
+        assert len(results) == 1
+        r = results[0]
+        assert r["title"] == "Attuazione direttiva 2018/1234."
+        assert r["tipo"] == "DECRETO LEGISLATIVO"
+        assert r["data"] == "2020-03-15"
+        assert r["urn"] == "urn:nir:stato:decreto.legislativo:2020-03-15;45"
+        assert r["codice_redazionale"] == "020G01234"
+        assert r["vigente"] is True
+
+
 class TestLegalSearchTool:
     @pytest.mark.contract
     def test_output_strutturato(self, monkeypatch, tmp_path):
@@ -457,3 +501,42 @@ class TestListCollections:
         assert "DL e leggi di conversione" in result
         assert ".git" not in result
         assert "data" not in result
+
+
+# ─── Test _frontmatter helper ─────────────────────────────────────
+
+
+class TestFrontmatter:
+    @pytest.mark.pure_unit
+    def test_parse_frontmatter_valido(self):
+        """Frontmatter YAML valido → dict (date viene parsato come date)."""
+        import datetime
+        text = "---\ntipo: LEGGE\ndata: 2020-01-01\nvigente: true\n---\n\nbody"
+        result = parse_frontmatter(text)
+        assert result["tipo"] == "LEGGE"
+        assert result["data"] == datetime.date(2020, 1, 1)
+        assert result["vigente"] is True
+
+    @pytest.mark.pure_unit
+    def test_parse_frontmatter_assente(self):
+        """Senza frontmatter → None."""
+        assert parse_frontmatter("Solo body markdown") is None
+
+    @pytest.mark.pure_unit
+    def test_parse_frontmatter_vuoto(self):
+        """Frontmatter vuoto → None."""
+        assert parse_frontmatter("---\n---\n\nbody") is None
+
+    @pytest.mark.pure_unit
+    def test_parse_frontmatter_titolo_con_virgolette(self):
+        """Titolo con virgolette viene parsato correttamente."""
+        text = '---\ntitolo: "Legge n. 123"\n---\n\nbody'
+        result = parse_frontmatter(text)
+        assert result == {"titolo": "Legge n. 123"}
+
+    @pytest.mark.pure_unit
+    def test_parse_frontmatter_malformed(self):
+        """YAML malformato → None senza crash."""
+        text = "---\n{{{{invalid\n---\n\nbody"
+        result = parse_frontmatter(text)
+        assert result is None

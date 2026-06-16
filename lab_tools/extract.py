@@ -12,6 +12,8 @@ import csv
 import re
 from pathlib import Path
 
+from lab_tools._frontmatter import parse_frontmatter
+
 REPO = Path(__file__).resolve().parent.parent
 OUTDIR = REPO / "data" / "derived"
 CONFIG_COLLEZIONI = REPO / "config" / "collezioni.txt"
@@ -39,6 +41,7 @@ FIELDNAMES = [
     "collezione", "filename", "tipo", "data", "numero",
     "oggetto", "entrata_vigore", "celex",
     "anno_atto", "anno_dir", "ritardo",
+    "vigente", "urn", "codice_redazionale",
 ]
 
 
@@ -72,20 +75,8 @@ def _anno_da_celex(celex: str) -> int | None:
     return max(anni) if anni else None
 
 
-def extract(filepath: Path, collezione: str = "") -> dict | None:
-    raw = filepath.read_text("utf-8", errors="replace")
-    # Ramo BASE64: file con nome data_nome (es. 2007-12-14_007X0246_...).
-    # Attualmente produce 0 righe nel dataset perché i 34 file con questo pattern
-    # nelle collezioni vive non contengono "CELEX:" nel testo non decodificato.
-    # Fuori scope finché non serve decodifica base64 reale.
-    if re.match(r'^\d{4}-\d{2}-\d{2}_', filepath.name):
-        celex = RE_CELEX.findall(raw)
-        if not celex:
-            return None
-        return {"collezione": collezione, "filename": filepath.name,
-                "tipo": "BASE64", "data": "", "numero": "",
-                "oggetto": filepath.name[:300], "entrata_vigore": "",
-                "celex": ";".join(sorted(set(celex)))}
+def _extract_body_fields(raw: str, filepath: Path) -> dict | None:
+    """Estrae tipo/data/numero/oggetto dal body con regex (fallback)."""
     m = RE_TIPO.search(raw)
     if not m:
         return None
@@ -93,6 +84,18 @@ def extract(filepath: Path, collezione: str = "") -> dict | None:
     data = _parse_data(g, mt, a)
     m2 = RE_OGGETTO.search(raw)
     oggetto = m2.group(1).strip() if m2 else filepath.name.replace(".md", "")[:300]
+    return {
+        "tipo": tipo,
+        "data": data,
+        "numero": num,
+        "oggetto": oggetto,
+        "anno_atto": int(a),
+        "ritardo": a,  # placeholder per calcolo dopo CELEX
+    }
+
+
+def _extract_celex_vigore(raw: str) -> tuple[str, str]:
+    """CELEX + entrata in vigore dal body (comune a frontmatter e legacy)."""
     m3 = RE_VIGORE.search(raw)
     vigore = ""
     if m3:
@@ -100,19 +103,65 @@ def extract(filepath: Path, collezione: str = "") -> dict | None:
         vigore = f"{aa}-{mm.zfill(2)}-{gg.zfill(2)}"
     celex_list = sorted(set(RE_CELEX.findall(raw)))
     celex = ";".join(celex_list)
-    anno = _anno_dir(oggetto) or _anno_da_celex(celex)
-    ritardo = (int(a) - anno) if anno and anno <= int(a) < anno + 100 else None
-    return {"collezione": collezione, "filename": filepath.name, "tipo": tipo,
-            "data": data, "numero": num, "oggetto": oggetto[:500],
-            "entrata_vigore": vigore, "celex": celex,
-            "anno_atto": int(a), "anno_dir": anno or 0, "ritardo": ritardo}
+    return celex, vigore
+
+
+def extract(filepath: Path, collezione: str = "") -> dict | None:
+    raw = filepath.read_text("utf-8", errors="replace")
+
+    # ── Ramo BASE64 (file con nome data_nome) ──
+    if re.match(r'^\d{4}-\d{2}-\d{2}_', filepath.name):
+        celex = RE_CELEX.findall(raw)
+        if not celex:
+            return None
+        return {"collezione": collezione, "filename": filepath.name,
+                "tipo": "BASE64", "data": "", "numero": "",
+                "oggetto": filepath.name[:300], "entrata_vigore": "",
+                "celex": ";".join(sorted(set(celex))),
+                "vigente": None, "urn": "", "codice_redazionale": ""}
+
+    # ── Fast path: frontmatter YAML ──
+    fm = parse_frontmatter(raw)
+    if fm and fm.get("tipo"):
+        tipo = str(fm["tipo"])
+        numero = str(fm.get("numero", ""))
+        data = str(fm.get("data", ""))
+        oggetto = str(fm.get("titolo", "")) or filepath.name.replace(".md", "")[:500]
+        vigente = bool(fm.get("vigente", True))
+        urn = str(fm.get("urn", ""))
+        codice_redazionale = str(fm.get("codice_redazionale", ""))
+        celex, vigore = _extract_celex_vigore(raw)
+        anno_atto = int(data[:4]) if len(data) >= 4 and data[:4].isdigit() else 0
+        anno = _anno_dir(oggetto) or _anno_da_celex(celex)
+        ritardo = (anno_atto - anno) if anno and anno <= anno_atto < anno + 100 else None
+        return {"collezione": collezione, "filename": filepath.name,
+                "tipo": tipo, "data": data, "numero": numero,
+                "oggetto": oggetto[:500], "entrata_vigore": vigore,
+                "celex": celex, "anno_atto": anno_atto,
+                "anno_dir": anno or 0, "ritardo": ritardo,
+                "vigente": vigente, "urn": urn,
+                "codice_redazionale": codice_redazionale}
+
+    # ── Fallback: regex body (file legacy senza frontmatter) ──
+    body = _extract_body_fields(raw, filepath)
+    if not body:
+        return None
+    celex, vigore = _extract_celex_vigore(raw)
+    anno = _anno_dir(body.get("oggetto", "")) or _anno_da_celex(celex)
+    ritardo = (int(body["anno_atto"]) - anno) if anno and anno <= int(body["anno_atto"]) < anno + 100 else None
+    return {"collezione": collezione, "filename": filepath.name,
+            "tipo": body["tipo"], "data": body["data"], "numero": body["numero"],
+            "oggetto": body["oggetto"][:500], "entrata_vigore": vigore,
+            "celex": celex, "anno_atto": body["anno_atto"],
+            "anno_dir": anno or 0, "ritardo": ritardo,
+            "vigente": None, "urn": "", "codice_redazionale": ""}
 
 
 def _collezioni_legislative() -> list[Path]:
     """Legge da config/collezioni.txt: solo directory elencate ed esistenti."""
     if not CONFIG_COLLEZIONI.exists():
         return []
-    nomi = [l.strip() for l in CONFIG_COLLEZIONI.read_text().splitlines() if l.strip()]
+    nomi = [line.strip() for line in CONFIG_COLLEZIONI.read_text().splitlines() if line.strip()]
     return sorted(d for d in (REPO / n for n in nomi) if d.is_dir())
 
 
