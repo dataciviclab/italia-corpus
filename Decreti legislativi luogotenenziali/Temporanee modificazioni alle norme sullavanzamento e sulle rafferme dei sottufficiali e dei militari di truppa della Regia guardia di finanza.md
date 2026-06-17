@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [R. decreto-legge 14 giugno 1923, n. 1281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-06-14;1281), e successive modificazioni;
 
-Visto il [R. decreto 3 gennaio 1926, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-03;126);
+Visto il [R. decreto 3 gennaio 1926, n. 126](../Regi%20decreti/Approvazione%20del%20regolamento%20organico%20per%20la%20Regia%20guardia%20di%20finanza.%20026U0126.md);
 
 Vista la [legge 7 giugno 1937, n. 913](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullavanzamento%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20del%20Corpo%20della%20Regia%20guardia%20di%20finanza.%20037U0913.md);
 

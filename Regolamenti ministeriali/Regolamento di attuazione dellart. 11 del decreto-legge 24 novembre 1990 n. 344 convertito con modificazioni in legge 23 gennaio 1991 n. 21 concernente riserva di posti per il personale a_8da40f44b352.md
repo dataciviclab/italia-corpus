@@ -129,7 +129,7 @@ Le anzianita' di cui ai commi 1 e 2 non sono valutate come punteggio nei titoli 
 
 4.
 
-Per i concorsi del ruolo sanitario e tecnico e' fatto salvo l'obbligo del possesso dei titoli professionali abilitanti all'esercizio delle attivita' professionali soggette a vigilanza ai sensi dell'[art. 99 del regio decreto del 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_99) ([testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265)) nonche' degli altri titoli previsti dalla normativa vigente per lo svolgimento di particolari attivita'.
+Per i concorsi del ruolo sanitario e tecnico e' fatto salvo l'obbligo del possesso dei titoli professionali abilitanti all'esercizio delle attivita' professionali soggette a vigilanza ai sensi dell'[art. 99 del regio decreto del 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) ([testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md)) nonche' degli altri titoli previsti dalla normativa vigente per lo svolgimento di particolari attivita'.
 
 5.
 
@@ -157,7 +157,7 @@ Note all'art. 3:
  Nel caso in cui l'attivita' prestata sia stata comunque di scarso rendimento, senza valida giustificazione, il capo ufficio del personale interessato ha l'obbligo di presentare al consiglio di amministrazione apposita relazione motivata accompagnata dalle controdeduzioni dell'interessato.
  Detta relazione va notificata al dipendente entro il mese di gennaio successivo all'anno considerato e le controdeduzioni debbono pervenire al capo ufficio entro il successivo mese di febbraio.
  Il consiglio di amministrazione puo' deliberare a carico del dipendente interessato una nota di demerito che produrra' gli stessi effetti di cui al primo comma".
- - L'[art. 99 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_99), approvato con [R.D. n. 1265/1934](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934;1265), e' cosi' formulato:
+ - L'[art. 99 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R.D. n. 1265/1934](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934;1265), e' cosi' formulato:
  "Art. 99. - E' soggetto a vigilanza l'esercizio della medicina e chirurgia, della veterinaria, della farmacia e delle professioni sanitarie ausiliarie di ostetrica, assistenza sanitaria visitatrice e infermiera diplomata.
  E' anche soggetto a vigilanza l'esercizio delle arti ausiliarie delle professioni sanitarie.
  S'intendono designate con tale espressione le arti dell'odontotecnico, dell'ottico, del meccanico ortopedico ed ernista e dell'infermiere abilitato o autorizzato, compresi in questa ultima categoria i capi bagnini degli stabilimenti idroterapici e i massaggiatori.
@@ -218,7 +218,7 @@ I requisiti di assunzione richiesti al personale del comma 4 sono quelli previst
 
 6.
 
-Fatto salvo l'obbligo del possesso dei titoli professionali abilitanti all'esercizio dell'attivita' soggette a vigilanza ai sensi dell'[art. 99 del regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_99) ([testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265)), nonche' degli altri titoli previsti dalla normativa vigente per lo svolgimento di particolari attivita' professionali, alle selezioni di cui ai commi 1 e 4 e' ammesso anche il personale che, in carenza del titolo di studio previsto dalla vigente normativa, abbia maturato una anzianita' di servizio di anni cinque nella posizione funzionale immediatamente inferiore che, nel caso degli operatori tecnici, deve essere nello stesso mestiere.
+Fatto salvo l'obbligo del possesso dei titoli professionali abilitanti all'esercizio dell'attivita' soggette a vigilanza ai sensi dell'[art. 99 del regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) ([testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md)), nonche' degli altri titoli previsti dalla normativa vigente per lo svolgimento di particolari attivita' professionali, alle selezioni di cui ai commi 1 e 4 e' ammesso anche il personale che, in carenza del titolo di studio previsto dalla vigente normativa, abbia maturato una anzianita' di servizio di anni cinque nella posizione funzionale immediatamente inferiore che, nel caso degli operatori tecnici, deve essere nello stesso mestiere.
 
 7.
 
@@ -249,7 +249,7 @@ Note all'art. 6:
  I requisiti per l'assunzione sono i seguenti:
  a) eta' non superiore ad anni 35, fatto salvo quanto previsto dall'art. 1, lettera b), del presente decreto;
  b) titolo di istruzione secondaria di primo grado piu' titolo specifico di massaggiatore non vedente e massiofisioterapista rilasciato da scuola autorizzata, per il concorso per il profilo professionale di cui alla tabella N, quadro 2, del ruolo sanitario".
- - Per l'[art. 99 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_99) si veda in nota all'art. 3.
+ - Per l'[art. 99 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) si veda in nota all'art. 3.
  - Per il testo del [primo comma degli articoli 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1979;761#art_24-com1), [25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1979;761#art_25) e [26 del D.P.R. n. 761/1979](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1979;761#art_26) si veda in nota all'art. 3.
 
 ## Art. 7. — Disposizioni transitorie

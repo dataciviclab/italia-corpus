@@ -18,7 +18,7 @@ Vista la [legge 31 ottobre 2003, n. 306](../Leggi%20di%20delegazione%20europea/D
 
 Visto l'[articolo 14 della legge 17 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-17;400#art_14);
 
-Visto il [decreto legislativo 26 ottobre 1995, n. 504](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md), recante testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi;
+Visto il [decreto legislativo 26 ottobre 1995, n. 504](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md), recante testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi;
 
 Vista la [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689), recante modifiche al sistema penale;
 
@@ -253,7 +253,7 @@ Entro il 31 agosto di ogni anno, il Ministero dell'ambiente e della tutela del t
 
 1.
 
-L'accertamento delle infrazioni di cui all'articolo 9, commi 1 e 2, e' effettuato, ai sensi degli [articoli 13 e seguenti della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_13), anche avvalendosi dei poteri previsti dall'[articolo 18 del decreto legislativo 26 ottobre 1995, n. 504](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md), dagli uffici dell'Agenzia delle dogane competenti per territorio e dal Corpo della guardia di finanza.
+L'accertamento delle infrazioni di cui all'articolo 9, commi 1 e 2, e' effettuato, ai sensi degli [articoli 13 e seguenti della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_13), anche avvalendosi dei poteri previsti dall'[articolo 18 del decreto legislativo 26 ottobre 1995, n. 504](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md), dagli uffici dell'Agenzia delle dogane competenti per territorio e dal Corpo della guardia di finanza.
 
 2.
 
@@ -294,7 +294,7 @@ Salvo che il fatto costituisca reato, ai gestori degli impianti di distribuzione
 
 3.
 
-Salvo che il fatto costituisca reato, si applica una sanzione amministrativa da 10.000 a 30.000 euro ai soggetti tenuti ad assicurare ((o dall'articolo 4, comma 2,)) se le stesse non sono rispettate. Se gli elenchi previsti dall'articolo 3, comma 2, ((o dall'articolo 4, comma 3,)) non sono trasmessi nei termini prescritti si applica l'[articolo 650 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Salvo che il fatto costituisca reato, si applica una sanzione amministrativa da 10.000 a 30.000 euro ai soggetti tenuti ad assicurare ((o dall'articolo 4, comma 2,)) se le stesse non sono rispettate. Se gli elenchi previsti dall'articolo 3, comma 2, ((o dall'articolo 4, comma 3,)) non sono trasmessi nei termini prescritti si applica l'[articolo 650 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 4.
 
@@ -314,7 +314,7 @@ In caso di violazione del divieto previsto dall'articolo 4, comma 5, si applica 
 
 8.
 
-Nel caso in cui i gestori dei depositi fiscali non trasmettano nei termini i dati da inviare ai sensi dell'articolo 10, comma 2, il Ministro dell'ambiente e della tutela del territorio e del mare, anche ai fini di quanto previsto dall'[articolo 650 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ordina al gestore di provvedere.
+Nel caso in cui i gestori dei depositi fiscali non trasmettano nei termini i dati da inviare ai sensi dell'articolo 10, comma 2, il Ministro dell'ambiente e della tutela del territorio e del mare, anche ai fini di quanto previsto dall'[articolo 650 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ordina al gestore di provvedere.
 
 9.
 

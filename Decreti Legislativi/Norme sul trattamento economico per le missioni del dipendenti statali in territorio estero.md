@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Per il periodo dal 9 settembre 1943 al giorno precedente (2 ottobre 1945) la data di entrata in vigore del [decreto luogotenenziale 21 agosto 1945, n. 540](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-21;540), le indennita' giornaliere di cui all'[art. 1 del regio decreto 3 giugno 1926, n. 941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;941#art_1), maggiorate dell'aggio sull'oro di 6,207, sono aumentate delle seguenti percentuali:
+Per il periodo dal 9 settembre 1943 al giorno precedente (2 ottobre 1945) la data di entrata in vigore del [decreto luogotenenziale 21 agosto 1945, n. 540](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-21;540), le indennita' giornaliere di cui all'[art. 1 del regio decreto 3 giugno 1926, n. 941](../Regi%20decreti/Indennita%20al%20personale%20dellAmministrazione%20dello%20Stato%20incaricato%20di%20missione%20allestero.%20026U0941.md), maggiorate dell'aggio sull'oro di 6,207, sono aumentate delle seguenti percentuali:
  15% Cina, Svizzera, Portogallo, Svezia, Danimarca;
  30% Turchia, Germania, Austria;
  40% Russia, Bulgaria, Ungheria, Belgio, Olanda, Jugoslavia, Grecia, Cecoslovacchia, Francia, Norvegia, Polonia, Romania;
@@ -46,7 +46,7 @@ Ai capi delle delegazioni che si recano all'estero per stipulare accordi economi
 
 ## Art. 5.
 
-Per i componenti delle delegazioni italiane che si recano all'estero per partecipare alle riunioni presso commissioni, enti o comitati internazionali, il rapporto fra le diarie base previsto per i vari gradi dall'[art. 1 lettera a) del regio decreto 3 giugno 1926, n. 941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;941#art_1-leta), puo' essere, nei singoli casi, opportunamente modificato dal Ministero del tesoro.
+Per i componenti delle delegazioni italiane che si recano all'estero per partecipare alle riunioni presso commissioni, enti o comitati internazionali, il rapporto fra le diarie base previsto per i vari gradi dall'[art. 1 lettera a) del regio decreto 3 giugno 1926, n. 941](../Regi%20decreti/Indennita%20al%20personale%20dellAmministrazione%20dello%20Stato%20incaricato%20di%20missione%20allestero.%20026U0941.md), puo' essere, nei singoli casi, opportunamente modificato dal Ministero del tesoro.
 
 ## Art. 6.
 

@@ -49,7 +49,7 @@ Agli effetti del comma 1 sono valide le domande gia' presentate, se confermate d
 
 3.
 
-Ai fini della corresponsione dell'indennizzo di cui al comma 1, le pratiche gia' respinte per carenza di documentazione sono, su domanda, prese nuovamente in esame con carattere di priorita' dalla Commissione interministeriale di cui all'articolo 2, comma 2, del regolamento di cui al [decreto del Presidente della Repubblica 14 maggio 2007, n. 114](../DPR/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20delleconomia%20e%20delle%20finanze%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modific_37fbc6c63b8a.md), al fine di acquisire ogni elemento utile per l'integrazione della documentazione mancante.
+Ai fini della corresponsione dell'indennizzo di cui al comma 1, le pratiche gia' respinte per carenza di documentazione sono, su domanda, prese nuovamente in esame con carattere di priorita' dalla Commissione interministeriale di cui all'articolo 2, comma 2, del regolamento di cui al [decreto del Presidente della Repubblica 14 maggio 2007, n. 114](../Regolamenti%20governativi/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20delleconomia%20e%20delle%20finanze%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modific_37fbc6c63b8a.md), al fine di acquisire ogni elemento utile per l'integrazione della documentazione mancante.
 
 4.
 

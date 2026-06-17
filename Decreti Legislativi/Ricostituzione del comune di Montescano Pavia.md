@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Il comune di Montesacano, aggregato a quello di Castana col [regio decreto 28 marzo 1929, n. 777](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-28;777), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo, fatta eccezione per la frazione di Casa Colombi, che rimane aggregata al comune di Castana.
+Il comune di Montesacano, aggregato a quello di Castana col [regio decreto 28 marzo 1929, n. 777](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Castana%20e%20Montescano%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20%20Castana%20.%20029U0777.md), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo, fatta eccezione per la frazione di Casa Colombi, che rimane aggregata al comune di Castana.
  Il Prefetto di Pavia, sentita la Giunta, provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i Comuni interessati.
 
 ## Art. 2.

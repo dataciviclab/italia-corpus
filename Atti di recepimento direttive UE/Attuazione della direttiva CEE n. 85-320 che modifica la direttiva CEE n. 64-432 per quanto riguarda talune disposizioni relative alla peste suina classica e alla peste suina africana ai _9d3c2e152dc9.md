@@ -48,7 +48,7 @@ Dopo l'[art. 17 della legge 30 aprile 1976, n. 397](Norme%20sanitarie%20sugli%20
  e) delle misure adottate per limitare e controllare il movimento dei suini nelle zone predette e fuori di tali zone".
 
 AVVERTENZA:
- Il testo della nota qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge ivi indicata e della quale restano invariati il valore e l'efficacia.
+ Il testo della nota qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge ivi indicata e della quale restano invariati il valore e l'efficacia.
  Nota all'[articolo 1:
  La legge 30 aprile 1976, n. 397](Norme%20sanitarie%20sugli%20scambi%20di%20animali%20tra%20lItalia%20e%20gli%20altri%20Stati%20membri%20della%20Comunita%20economica%20europea.md), reca: "Norme sanitarie sugli scambi di animali tra l'Italia e gli altri Stati membri della Comunita' economica europea".
 
@@ -57,7 +57,7 @@ AVVERTENZA:
 1.
 
 L'[art. 29 della legge 30 aprile 1976, n. 397](Norme%20sanitarie%20sugli%20scambi%20di%20animali%20tra%20lItalia%20e%20gli%20altri%20Stati%20membri%20della%20Comunita%20economica%20europea.md), e' sostituito dal seguente:
- "Art. 29. - All'[art. 78 del decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), e' aggiunto, in fine, il seguente comma:
+ "Art. 29. - All'[art. 78 del decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md), e' aggiunto, in fine, il seguente comma:
  'Il raggio della zona infetta stabilita intorno ai ricoveri o localita' infetti non puo' essere inferiore a tre chilometri'".
 
 Nota all'[articolo 2:

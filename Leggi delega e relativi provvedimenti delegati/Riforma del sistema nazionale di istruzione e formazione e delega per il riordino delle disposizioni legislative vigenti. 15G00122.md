@@ -291,7 +291,7 @@ All'articolo 2 del regolamento di cui al [decreto del Presidente della Repubblic
 
 50.
 
-Dopo la lettera a) del comma 1 dell'articolo 4 del regolamento di cui al [decreto del Ministro dello sviluppo economico 22 gennaio 2008, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sviluppo.economico:decreto:2008-01-22;37), e' inserita la seguente: 
+Dopo la lettera a) del comma 1 dell'articolo 4 del regolamento di cui al [decreto del Ministro dello sviluppo economico 22 gennaio 2008, n. 37](../Regolamenti%20ministeriali/Regolamento%20concernente%20lattuazione%20dellarticolo%2011-quaterdecies%20comma%2013%20lettera%20a%20del%20decreto-legge%2030%20settembre%202005%20n.%20203%20convertito%20con%20modificazioni%20dalla%20legge%202%20dicembre%202005%20n.%20_459f35941e72.md), e' inserita la seguente: 
  «a-bis) diploma di tecnico superiore previsto dalle linee guida di cui al decreto del Presidente del Consiglio dei ministri 25 gennaio 2008, pubblicato nella Gazzetta Ufficiale n. 86 dell'11 aprile 2008, conseguito in esito ai percorsi relativi alle figure nazionali definite dall'allegato A, area 1 - efficienza energetica, al decreto del Ministro dell'istruzione, dell'universita' e della ricerca 7 settembre 2011».
 
 51.
@@ -607,7 +607,7 @@ A decorrere dal 1º settembre 2015, le graduatorie di cui, al comma 96, lettera 
 
 106.
 
-La prima fascia delle graduatorie di circolo e di istituto del personale docente ed educativo previste dall'articolo 5 del regolamento di cui al [decreto del Ministro della pubblica istruzione 13 giugno 2007, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.pubblica.istruzione:decreto:2007-06-13;131), continua a esplicare la propria efficacia, per i soli soggetti gia' iscritti alla data di entrata in vigore della presente legge, non assunti a seguito del piano straordinario di assunzioni di cui al comma 95 del presente articolo.
+La prima fascia delle graduatorie di circolo e di istituto del personale docente ed educativo previste dall'articolo 5 del regolamento di cui al [decreto del Ministro della pubblica istruzione 13 giugno 2007, n. 131](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20per%20il%20conferimento%20delle%20supplenze%20al%20personale%20docente%20ed%20educativo%20ai%20sensi%20dellarticolo%204%20della%20legge%203%20maggio%201999%20n.%20124.md), continua a esplicare la propria efficacia, per i soli soggetti gia' iscritti alla data di entrata in vigore della presente legge, non assunti a seguito del piano straordinario di assunzioni di cui al comma 95 del presente articolo.
 
 107.
 

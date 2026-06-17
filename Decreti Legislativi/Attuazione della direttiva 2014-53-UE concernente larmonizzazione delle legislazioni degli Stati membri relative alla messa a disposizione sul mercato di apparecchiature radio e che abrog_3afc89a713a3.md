@@ -732,10 +732,10 @@ La documentazione tecnica e la corrispondenza riguardanti la procedura di esame 
 
 4.
 
-Se la documentazione tecnica non e' conforme ai commi 1, 2 e 3 del presente articolo, e di conseguenza non fornisce dati o mezzi pertinenti sufficienti ad assicurare la conformita' dell'apparecchiatura radio ai requisiti essenziali di cui all'articolo 3, l'autorita' di sorveglianza del mercato puo' chiedere al fabbricante o all'importatore di far eseguire, a loro spese, una prova da un laboratorio accreditato dall'autorita' di sorveglianza del mercato, ai sensi del [decreto del Ministro delle comunicazioni 25 febbraio 2002, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.comunicazioni:decreto:2002-02-25;84), entro un termine specifico al fine di verificare la conformita' ai requisiti essenziali di cui all'articolo 3.
+Se la documentazione tecnica non e' conforme ai commi 1, 2 e 3 del presente articolo, e di conseguenza non fornisce dati o mezzi pertinenti sufficienti ad assicurare la conformita' dell'apparecchiatura radio ai requisiti essenziali di cui all'articolo 3, l'autorita' di sorveglianza del mercato puo' chiedere al fabbricante o all'importatore di far eseguire, a loro spese, una prova da un laboratorio accreditato dall'autorita' di sorveglianza del mercato, ai sensi del [decreto del Ministro delle comunicazioni 25 febbraio 2002, n. 84](../Regolamenti%20ministeriali/Regolamento%20concernente%20la%20procedura%20di%20accreditamento%20dei%20laboratori%20di%20prova.md), entro un termine specifico al fine di verificare la conformita' ai requisiti essenziali di cui all'articolo 3.
 
 Note all'[art. 21: 
- - Il decreto del Ministro delle comunicazioni 25 febbraio 2002, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.comunicazioni:decreto:2002-02-25;84#art_21) (Regolamento concernente la procedura di accreditamento dei laboratori di prova) e' pubblicato nella Gazzetta Ufficiale 7 maggio 2002, n. 105.
+ - Il decreto del Ministro delle comunicazioni 25 febbraio 2002, n. 84](../Regolamenti%20ministeriali/Regolamento%20concernente%20la%20procedura%20di%20accreditamento%20dei%20laboratori%20di%20prova.md) (Regolamento concernente la procedura di accreditamento dei laboratori di prova) e' pubblicato nella Gazzetta Ufficiale 7 maggio 2002, n. 105.
 
 ## NOTIFICA DEGLI ORGANISMI DI VALUTAZIONE DELLA CONFORMITA'
 
@@ -1042,7 +1042,7 @@ Le verifiche di laboratorio di cui al comma 2 hanno lo scopo di accertare la ris
 
 4.
 
-I laboratori di prova accreditati non possono dipendere direttamente dall'organizzazione del fabbricante o di un operatore di rete ovvero di un fornitore di servizi di comunicazione elettronica; devono essere liberi da influenze esterne, possedere un'adeguata capacita' per quanto attiene alla competenza ed alle attrezzature ed essere forniti di tutte le apparecchiature di misura per l'esecuzione delle prove. L'istruttoria relativa all'accreditamento dei laboratori viene svolta con l'impegno di riservatezza verso terzi. La procedura di rilascio dell'accreditamento, dell'effettuazione della sorveglianza e del rinnovo dell'accreditamento stesso e' disciplinata dal [decreto del Ministro delle comunicazioni 25 febbraio 2002, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.comunicazioni:decreto:2002-02-25;84).
+I laboratori di prova accreditati non possono dipendere direttamente dall'organizzazione del fabbricante o di un operatore di rete ovvero di un fornitore di servizi di comunicazione elettronica; devono essere liberi da influenze esterne, possedere un'adeguata capacita' per quanto attiene alla competenza ed alle attrezzature ed essere forniti di tutte le apparecchiature di misura per l'esecuzione delle prove. L'istruttoria relativa all'accreditamento dei laboratori viene svolta con l'impegno di riservatezza verso terzi. La procedura di rilascio dell'accreditamento, dell'effettuazione della sorveglianza e del rinnovo dell'accreditamento stesso e' disciplinata dal [decreto del Ministro delle comunicazioni 25 febbraio 2002, n. 84](../Regolamenti%20ministeriali/Regolamento%20concernente%20la%20procedura%20di%20accreditamento%20dei%20laboratori%20di%20prova.md).
 Ai fini dell'accreditamento, della sorveglianza e del rinnovo si applica la normativa vigente per le prestazioni rese a terzi da parte del Ministero.
 
 5.
@@ -1090,7 +1090,7 @@ Note all'art. 39:
  d) indicazione e revisione periodica della consistenza delle piante organiche; 
  e) previsione di decreti ministeriali di natura non regolamentare per la definizione dei compiti delle unita' dirigenziali nell'ambito degli uffici dirigenziali generali. 
  4-ter. Con regolamenti da emanare ai sensi del comma 1 del presente articolo, si provvede al periodico riordino delle disposizioni regolamentari vigenti, alla ricognizione di quelle che sono state oggetto di abrogazione implicita e all'espressa abrogazione di quelle che hanno esaurito la loro funzione o sono prive di effettivo contenuto normativo o sono comunque obsolete.». 
- - Per i riferimenti normativi del [decreto del Ministro delle comunicazioni 25 febbraio 2002, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.comunicazioni:decreto:2002-02-25;84), si veda nelle note all'articolo 2.
+ - Per i riferimenti normativi del [decreto del Ministro delle comunicazioni 25 febbraio 2002, n. 84](../Regolamenti%20ministeriali/Regolamento%20concernente%20la%20procedura%20di%20accreditamento%20dei%20laboratori%20di%20prova.md), si veda nelle note all'articolo 2.
 
 ### Art. 40. — ((Procedura a livello nazionale per le apparecchiature radio che presentano rischi o non sono conformi ai requisiti essenziali))
 

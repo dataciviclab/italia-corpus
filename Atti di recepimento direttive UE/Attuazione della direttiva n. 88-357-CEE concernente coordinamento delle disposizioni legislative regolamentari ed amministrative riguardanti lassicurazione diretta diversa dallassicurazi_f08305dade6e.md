@@ -200,7 +200,7 @@ Titolo VI
 
 1.
 
-L'[art. 34 del decreto del Presidente della Repubblica 24 novembre 1970, n. 973](../DPR/Regolamento%20di%20esecuzione%20della%20legge%2024%20dicembre%201969%20n.%20990%20sullassicurazione%20obbligatoria%20della%20responsabilita%20civile%20derivante%20dalla%20circolazione%20dei%20veicoli%20a%20motore%20e%20dei%20natanti.md), e' sostituito dal seguente: 
+L'[art. 34 del decreto del Presidente della Repubblica 24 novembre 1970, n. 973](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20della%20legge%2024%20dicembre%201969%20n.%20990%20sullassicurazione%20obbligatoria%20della%20responsabilita%20civile%20derivante%20dalla%20circolazione%20dei%20veicoli%20a%20motore%20e%20dei%20natanti.md), e' sostituito dal seguente: 
  "34 (Insufficienza della riserva sinistri). - Il Ministero dell'industria, del commercio e dell'artigianato, qualora, dai dati forniti con il prospetto di cui al primo comma del precedente articolo o acquisiti dal conto consortile o da altri elementi, rilevi che la riserva sinistri, ancorche' corrispondente alla misura minima prevista dal precedente art. 32, e' inferiore all'ammontare occorrente per far fronte alla totale liquidazione dei sinistri stessi, invita l'impresa ad adottare le misure necessarie ad eliminare l'insufficienza, assegnando a tale scopo un termine non inferiore a sessanta giorni".
 
 ### Art. 39. — Struttura dell'ISVAP

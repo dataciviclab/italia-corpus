@@ -167,7 +167,7 @@ Alla nomina dei componenti degli organi dell'Agenzia di cui all'articolo 2 si pr
 
 2.
 
-Sino all'emanazione del nuovo regolamento ((secondo la procedura prevista dall'articolo 2-bis del presente decreto)), l'organizzazione e il funzionamento dell'Agenzia restano disciplinati dalle disposizioni del [decreto del Ministro della sanita' 22 febbraio 1994, n. 233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:1994-02-22;233), in quanto compatibili con le disposizioni del presente decreto.
+Sino all'emanazione del nuovo regolamento ((secondo la procedura prevista dall'articolo 2-bis del presente decreto)), l'organizzazione e il funzionamento dell'Agenzia restano disciplinati dalle disposizioni del [decreto del Ministro della sanita' 22 febbraio 1994, n. 233](../Regolamenti%20ministeriali/Regolamento%20per%20la%20organizzazione%20il%20funzionamento%20e%20la%20disciplina%20delle%20attivita%20della%20Agenzia%20per%20i%20servizi%20sanitari%20regionali.md), in quanto compatibili con le disposizioni del presente decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

@@ -24,7 +24,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Fino al 30 giugno 1948, per il pagamento delle integrazioni dei bilanci degli enti comunali di assistenza e della indennita', caro-pane agli assistiti, e' autorizzata, in deroga all'art. 56, penultimo comma, del [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), e successive modificazioni, l'emissione di aperture di credito per un importo non superiore a lire 100.000.000, sempre che non sia possibile provvedere mediante l'emissione di mandati diretti.
+Fino al 30 giugno 1948, per il pagamento delle integrazioni dei bilanci degli enti comunali di assistenza e della indennita', caro-pane agli assistiti, e' autorizzata, in deroga all'art. 56, penultimo comma, del [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni, l'emissione di aperture di credito per un importo non superiore a lire 100.000.000, sempre che non sia possibile provvedere mediante l'emissione di mandati diretti.
 
 ## Art. 2.
 

@@ -44,7 +44,7 @@ Visto il [decreto del Presidente della Repubblica 22 giugno 2009, n. 122](Regola
 
 Visto il decreto del Presidente del Consiglio dei ministri 25 gennaio 2008, pubblicato nella Gazzetta Ufficiale n. 86 dell'11 aprile 2008, recante linee guida per la riorganizzazione del sistema dell'istruzione e formazione tecnica superiore e costituzione degli istituti tecnici superiori;
 
-Visto il [decreto del Ministro della pubblica istruzione 22 agosto 2007, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.pubblica.istruzione:decreto:2007-08-22;139), relativo al regolamento recante norme in materia di adempimento dell'obbligo di istruzione;
+Visto il [decreto del Ministro della pubblica istruzione 22 agosto 2007, n. 139](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20in%20materia%20di%20adempimento%20dellobbligo%20di%20istruzione%20ai%20sensi%20dellarticolo%201%20comma%20622%20della%20legge%2027%20dicembre%202006%20n.%20296.md), relativo al regolamento recante norme in materia di adempimento dell'obbligo di istruzione;
 
 Vista la Raccomandazione del Parlamento europeo e del Consiglio del 18 dicembre 2006, relativa alle competenze chiave per l'apprendimento permanente;
 
@@ -234,7 +234,7 @@ L'orario annuale complessivo, come determinato dal comma 1, lettera b), e' defin
 
 I percorsi di cui al comma 1, hanno la seguente struttura:
                         a)
-                            un primo biennio articolato, per ciascun anno, in 660 ore di attivita' e insegnamenti di istruzione generale e in 396 ore di attivita' e insegnamenti obbligatori di indirizzo, ai fini dell'assolvimento dell'obbligo di istruzione di cui al regolamento adottato con [decreto del Ministro della pubblica istruzione 22 agosto 2007, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.pubblica.istruzione:decreto:2007-08-22;139) e dell'acquisizione dei saperi e delle competenze di indirizzo in funzione orientativa, anche per favorire la reversibilita' delle scelte degli studenti;
+                            un primo biennio articolato, per ciascun anno, in 660 ore di attivita' e insegnamenti di istruzione generale e in 396 ore di attivita' e insegnamenti obbligatori di indirizzo, ai fini dell'assolvimento dell'obbligo di istruzione di cui al regolamento adottato con [decreto del Ministro della pubblica istruzione 22 agosto 2007, n. 139](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20in%20materia%20di%20adempimento%20dellobbligo%20di%20istruzione%20ai%20sensi%20dellarticolo%201%20comma%20622%20della%20legge%2027%20dicembre%202006%20n.%20296.md) e dell'acquisizione dei saperi e delle competenze di indirizzo in funzione orientativa, anche per favorire la reversibilita' delle scelte degli studenti;
                         b)
                             un secondo biennio articolato per ciascun anno, in 495 ore di attivita' e insegnamenti di istruzione generale e in 561 ore di attivita' e insegnamenti obbligatori di indirizzo;
                         c)

@@ -3239,8 +3239,8 @@ All'[articolo 155, comma 4, del decreto legislativo 7 settembre 2005, n. 209](Co
 219.
 
 All'[articolo 354, del decreto legislativo 7 settembre 2005, n. 209](Codice%20delle%20assicurazioni%20private.md), dopo il comma 5, e' inserito il seguente: «5-bis. A decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1, sono o restano abrogati i seguenti atti: 
- a) il [decreto del Ministro dello sviluppo economico 11 novembre 2011, n. 220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sviluppo.economico:decreto:2011-11-11;220), pubblicato nella Gazzetta Ufficiale 9 gennaio 2012, n. 6; 
- b) il [decreto del Ministro dello sviluppo economico 28 aprile 2008, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sviluppo.economico:decreto:2008-04-28;99), pubblicato nella Gazzetta Ufficiale 5 giugno 2008, n. 130.».
+ a) il [decreto del Ministro dello sviluppo economico 11 novembre 2011, n. 220](../Regolamenti%20ministeriali/Regolamento%20recante%20determinazione%20dei%20requisiti%20di%20professionalita%20onorabilita%20e%20indipendenza%20degli%20esponenti%20aziendali%20nonche%20dei%20requisiti%20di%20onorabilita%20dei%20titolari%20di%20partecipazioni_6838841ea5e6.md), pubblicato nella Gazzetta Ufficiale 9 gennaio 2012, n. 6; 
+ b) il [decreto del Ministro dello sviluppo economico 28 aprile 2008, n. 99](../Regolamenti%20ministeriali/Regolamento%20recante%20i%20requisiti%20di%20onorabilita%20e%20di%20professionalita%20dellattuario%20incaricato%20dallimpresa%20che%20esercita%20lassicurazione%20nei%20rami%20vita%20i%20requisiti%20di%20onorabilita%20e%20professional_8f69dfbf1a8b.md), pubblicato nella Gazzetta Ufficiale 5 giugno 2008, n. 130.».
 
 ## Art. 2. — Disposizioni finanziarie
 

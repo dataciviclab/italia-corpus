@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Il comune di Brembate di Sopra, aggregato a quello di Ponte San Pietro col [regio decreto 1 dicembre 1927 n. 2351](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-12-01;2351), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo. 
+Il comune di Brembate di Sopra, aggregato a quello di Ponte San Pietro col [regio decreto 1 dicembre 1927 n. 2351](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Ponte%20San%20Pietro%20Brembate%20di%20Sopra%20e%20Locate%20Bergamasco%20in%20un%20unico%20Comune%20denominato%20Ponte%20San%20Pietro.%20027U2351.md), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo. 
  Il Prefetto di Bergamo, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari tra i Comuni suddetti.
 
 ## Art. 2.

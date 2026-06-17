@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 19 agosto 1927, n. 1701](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-08-19;1701);
+Visto il [R. decreto 19 agosto 1927, n. 1701](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Riola%20Baratili%20San%20Pietro%20e%20Nurachi%20in%20un%20unico%20Comune%20denominato%20Riola.%20027U1701.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno; Abb
 
 ## Art. 1.
 
-Il comune di Baratili San Pietro, aggregato con [R. decreto 19 agosto 1927, n. 1701](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-08-19;1701), al comune di Riola Sardo, e ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo.
+Il comune di Baratili San Pietro, aggregato con [R. decreto 19 agosto 1927, n. 1701](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Riola%20Baratili%20San%20Pietro%20e%20Nurachi%20in%20un%20unico%20Comune%20denominato%20Riola.%20027U1701.md), al comune di Riola Sardo, e ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo.
  Il Prefetto di Cagliari, sentita la Giunta provinciale amministrativa, provvedera', al regolamento dei rapporti patrimoniali e finanziari fra i comuni di Riola Sardo e Baratili San Pietro.
 
 ## Art. 2.

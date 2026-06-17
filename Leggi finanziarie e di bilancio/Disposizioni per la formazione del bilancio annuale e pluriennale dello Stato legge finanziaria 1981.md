@@ -100,7 +100,7 @@ La Cassa per il Mezzogiorno, su delibera del CIPE, e' autorizzata, nell'ambito d
 ### Art. 17.
 
 Per l'anno 1981 e' autorizzata la spesa di lire 50 miliardi, da iscrivere in apposito capitolo dello stato di previsione della spesa del Ministero della difesa, per la costituzione, l'equipaggiamento e l'addestramento di reparti operativi mobili delle forze armate per il concorso alla protezione civile e il soccorso delle popolazioni colpite, in Italia e all'estero, da calamita', per l'acquisizione di beni mobili e immobili, attrezzature e servizi.
- Si applicano le disposizioni contenute mel [secondo comma dell'articolo 36 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_36-com2), e nell'[articolo 3 della legge 16 giugno 1977, n. 372](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ammodernamento%20degli%20armamenti%20dei%20materiali%20delle%20apparecchiature%20e%20dei%20mezzi%20dellEsercito.md), e successive modificazioni.
+ Si applicano le disposizioni contenute mel [secondo comma dell'articolo 36 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e nell'[articolo 3 della legge 16 giugno 1977, n. 372](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ammodernamento%20degli%20armamenti%20dei%20materiali%20delle%20apparecchiature%20e%20dei%20mezzi%20dellEsercito.md), e successive modificazioni.
  Per ognuno degli anni 1982 e 1983 e' autorizzata la spesa di lire 300 miliardi da iscrivere nello stato di previsione della spesa del Ministero della difesa.
 
 ## penitenziaria).

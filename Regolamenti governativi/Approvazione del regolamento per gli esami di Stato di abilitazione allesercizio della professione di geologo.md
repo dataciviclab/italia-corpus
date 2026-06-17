@@ -16,7 +16,7 @@ Vista la [legge 3 febbraio 1963, n. 112](https://www.normattiva.it/uri-res/N2Ls?
 
 Visto il [decreto del Presidente della Repubblica 18 novembre 1965, n. 1403](Regolamento%20di%20esecuzione%20della%20legge%203%20febbraio%201963%20n.%20112%20contenente%20disposizioni%20per%20la%20tutela%20del%20titolo%20e%20della%20professione%20di%20geologo.md), con il quale e' stato approvato il regolamento di esecuzione della [legge 3 febbraio 1963, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-03;112);
 
-Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Vista la [legge 8 dicembre 1956, n. 1378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-08;1378), che reca norme sugli esami di Stato per l'abilitazione all'esercizio delle professioni;
 

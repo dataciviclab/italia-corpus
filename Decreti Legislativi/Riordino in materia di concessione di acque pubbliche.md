@@ -30,7 +30,7 @@ E M A N A il seguente decreto legislativo:
 
 1.
 
-L'art. 6 del testo unico approvato con [regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775), e' sostituito dal seguente: 
+L'art. 6 del testo unico approvato con [regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), e' sostituito dal seguente: 
  " 1. Le utenze di acqua pubblica hanno per oggetto grandi e piccole derivazioni. 
  2. Sono considerate grandi derivazioni quelle che eccedono i seguenti limiti: 
  a) per produzione di forza motrice: potenza nominale media annua kW 3.000; 
@@ -99,13 +99,13 @@ AVVERTENZA:
 
  
  Nota all'[art. 1: 
- - Il R.D. 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_1), approva il testo unico delle disposizioni di legge sulle acque e sugli impianti elettrici.
+ - Il R.D. 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), approva il testo unico delle disposizioni di legge sulle acque e sugli impianti elettrici.
 
 ## Art. 2. — Informazioni sulle acque pubbliche e sulle utilizzazioni
 
 1.
 
-Nel testo unico approvato con [regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775), dopo l'art. 5, e' inserito il seguente: 
+Nel testo unico approvato con [regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), dopo l'art. 5, e' inserito il seguente: 
  "Art. 5-bis. - 1. Con decreto del Presidente della Repubblica, emanato ai sensi dell'[art. 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano, sono dettati criteri per uniformare l'acquisizione dei dati statali e regionali, inclusi quelli concernenti il catasto di cui all'art. 5, relativi alle acque pubbliche superficiali e sotterranee e alle relative utilizzazioni, nonche' ai prelievi e alle restituzioni sulla base delle misurazioni effettuate ai sensi dell'art. 42, comma 3, del presente testo unico. Con lo stesso decreto interministeriale sono fissate modalita' per l'accesso ai sistemi informativi delle amministrazioni e degli enti pubblici e per l'interscambio dei dati, finalizzati al controllo del sistema delle utilizzazioni e dei prelievi, nonche' per garantire adeguate forme di informazione al pubblico in ordine agli effetti dei provvedimenti di rilascio, di modificazione e di rinnovo delle concessioni di derivazione e delle licenze di attingimento di cui al comma 2. 
  2. Le amministrazioni dello Stato, le regioni e le province autonome assicurano lo scambio delle informazioni relative ai provvedimenti di rilascio, di modificazione e di rinnovo delle concessioni di derivazioni e di licenze di attingimento, entro trenta giorni dalla data di efficacia del relativo provvedimento. Gli stessi dati sono inviati, entro il medesimo termine, alle Autorita' di bacino e al Dipartimento per i servizi tecnici nazionali".
 
@@ -138,7 +138,7 @@ Note all'[art. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:198
 
 1.
 
-All'art. 7 del testo unico approvato con [regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775), dopo il comma 1, e' aggiunto il seguente comma: 
+All'art. 7 del testo unico approvato con [regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), dopo il comma 1, e' aggiunto il seguente comma: 
  "1-bis. Le domande di cui al comma 1, relative sia a grandi sia a piccole derivazioni, sono, altresi', trasmesse alla autorita' di bacino territorialmente interessata che, nel termine massimo di quaranta giorni dalla ricezione, con atto del segretario generale, all'uopo delegato, ove nominato, avvalendosi dell'ufficio compartimentale del Servizio idrografico e mareografico nazionale competente per territorio, comunica il proprio parere all'ufficio istruttore in ordine alla compatibilita' della utilizzazione con le previsioni del piano di bacino e, anche in attesa della approvazione dello stesso, ai fini del controllo sull'equilibrio del bilancio idrico o idrologico. Decorso il predetto termine senza che sia intervenuta alcuna pronuncia, il parere si intende espresso in senso favorevole".
 
 Nota all'art. 3:
@@ -162,7 +162,7 @@ Nota all'art. 3:
 
 1.
 
-All'art. 9 del testo unico approvato con [regio decreto 11 dicembre 1933, n. 1775, il comma 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_com1) e' sostituito dal seguente: 
+All'art. 9 del testo unico approvato con [regio decreto 11 dicembre 1933, n. 1775, il comma 1](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md) e' sostituito dal seguente: 
  " 1. Tra piu' domande concorrenti, completata l'istruttoria di cui agli articoli 7 e 8, e' preferita quella che da sola o in connessione con altre utenze concesse o richieste presenti la piu' razionale utilizzazione delle risorse idriche in relazione ai seguenti criteri: 
  a) l'attuale livello di soddisfacimento delle esigenze essenziali dei concorrenti anche da parte dei servizi pubblici di acquedotto o di irrigazione, evitando ogni spreco e destinando preferenzialmente le risorse qualificate all'uso potabile; 
  b) le effettive possibilita' di migliore utilizzo delle fonti in relazione all'uso; 
@@ -191,7 +191,7 @@ Nota all'art. 4:
 
 1.
 
-Nel testo unico approvato con [regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775), dopo l'art. 12, e' inserito il seguente: 
+Nel testo unico approvato con [regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), dopo l'art. 12, e' inserito il seguente: 
  "Art. 12-bis. 1. Nel rilascio di concessioni di derivazioni d'acqua, l'utilizzo di risorse qualificate, con riferimento a quelle prelevate da sorgenti o da falde, puo' essere assentito per usi diversi da quello potabile solo nei casi di ampia disponibilita' delle risorse predette o di accertata carenza di fonti alternative di approvvigionamento. 
  2. Il provvedimento di concessione tiene conto del minimo deflusso costante vitale da assicurare nei corsi d'acqua, ove definito, delle esigenze di tutela della qualita' e dell'equilibrio stagionale del corpo idrico, delle opportunita' di risparmio, riutilizzo e riciclo della risorsa, adottando le disposizioni del caso anche come criteri informatori del relativo disciplinare. Analogalmente si provvede, nei casi di prelievo da falda, per quelle disposizioni di carattere cautelare atte a garantire l'equilibrio tra il prelievo e la capacita' di ricarica naturale dell'acquifero, ad evitare pericoli di intrusione di acque salate o inquinate e per quant'altro sia utile in funzione del controllo per il miglior regime delle acque".
 
@@ -199,7 +199,7 @@ Nel testo unico approvato con [regio decreto 11 dicembre 1933, n. 1775](https://
 
 1.
 
-All'art. 21, comma 1, del testo unico approvato con [regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775), dopo le parole "forza motrice", sono inserite le seguenti ", per usi industriali diversi, per usi ittiogenici e per costituzione di scorte idriche".
+All'art. 21, comma 1, del testo unico approvato con [regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), dopo le parole "forza motrice", sono inserite le seguenti ", per usi industriali diversi, per usi ittiogenici e per costituzione di scorte idriche".
 
 Nota all'art. 6:
  - Il testo dell'art. 21, comma 1, del gia' citato testo unico, come integrato dal presente decreto legislativo e' il seguente: "Le concessioni di grandi derivazioni ad uso di forza motrice, per usi industriali diversi, per usi ittiogenici e per costituzione di scorte idriche si fanno per una durata non maggiore di anni sessanta; quelle di grandi derivazioni ad uso potabile, di irrigazione o bonifica, non possono eccedere la durata di anni settanta; le concessioni di piccole derivazioni non possono eccedere la durata di anni trenta".
@@ -208,7 +208,7 @@ Nota all'art. 6:
 
 1.
 
-All'art. 28 del testo unico approvato con [regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775), dopo il comma 1, e' aggiunto il seguente comma: 
+All'art. 28 del testo unico approvato con [regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), dopo il comma 1, e' aggiunto il seguente comma: 
  "1-bis. In sede di rinnovo di concessioni di grandi e piccole derivazioni d'acqua ad uso irriguo, fatti salvi i criteri indicati dall'art. 12-bis, comma 2, il competente ufficio istruttore verifica l'effettivo fabbisogno idrico in funzione delle modifiche dell'estensione della superficie da irrigare, dei tipi di colture praticate anche a rotazione, dei relativi consumi medi e dei metodi di irrigazione adottati".
 
 Nota all'art. 7:
@@ -222,7 +222,7 @@ Nota all'art. 7:
 
 1.
 
-All'art. 42 del testo unico approvato con [regio decreto 11 dicembre 1933, n. 1775, il comma 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_com3) e' cosi' sostituito: 
+All'art. 42 del testo unico approvato con [regio decreto 11 dicembre 1933, n. 1775, il comma 3](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md) e' cosi' sostituito: 
  " 3. A cura e a spese del concessionario delle derivazioni d'acque pubbliche, su prescrizione dell'ufficio compartimentale del Servizio idrografico e mareografico nazionale interessato per territorio, sono installati e mantenuti in regolare stato di funzionamento idonei dispositivi per la misurazione delle portate e dei volumi in corrispondenza dei punti di prelievo e di restituzione, ove presente. 
 In sistemi di distribuzione complessa, i misuratori sono installati anche a monte e a valle dei partitori. I risultati delle misurazioni sono trasmessi con le modalita' definite ai sensi dell'art. 5- bis e con frequenza almeno semestrale all'autorita' concedente e all'ufficio compartimentale del Servizio idrografico e mareografico nazionale interessato".
 
@@ -233,7 +233,7 @@ Nota all'art. 8:
 
 1.
 
-All'art. 56 del testo unico approvato con [regio decreto 11 dicembre 1933, n. 1775, al comma 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_com1), punto 3, sono aggiunte in fine le seguenti parole "e sia salvaguardato il minimo deflusso costante vitale del corso d'acqua, ove definito".
+All'art. 56 del testo unico approvato con [regio decreto 11 dicembre 1933, n. 1775, al comma 1](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), punto 3, sono aggiunte in fine le seguenti parole "e sia salvaguardato il minimo deflusso costante vitale del corso d'acqua, ove definito".
 
 2.
 
@@ -258,11 +258,11 @@ Nota all'art. 9:
 
 1.
 
-Tutti i pozzi esitenti, a qualunque uso adibiti, ancorche' non utilizzati, sono denunciati dai proprietari, possessori o utilizzatori alla regione o provincia autonoma nonche' alla provincia competente per territorio, entro dodici mesi dalla data di entrata in vigore del presente decreto legislativo. A seguito della denuncia, l'ufficio competente procede agli adempimenti di cui all'art. 103 del testo unico approvato con [regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775). La omessa denuncia dei pozzi diversi da quelli previsti dall'art. 93 del citato testo unico nel termine di cui sopra e' punita con la sanzione amministrativa del pagamento di una somma da lire duecentomila a lire unmilioneduecentomila; il pozzo puo' essere sottoposto a sequestro ed e' comunque soggetto a chiusura a spese del trasgressore allorche' divenga definitivo il provvedimento che applica la sanzione. Valgono le disposizioni della [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689). (2) (3) ((4))
+Tutti i pozzi esitenti, a qualunque uso adibiti, ancorche' non utilizzati, sono denunciati dai proprietari, possessori o utilizzatori alla regione o provincia autonoma nonche' alla provincia competente per territorio, entro dodici mesi dalla data di entrata in vigore del presente decreto legislativo. A seguito della denuncia, l'ufficio competente procede agli adempimenti di cui all'art. 103 del testo unico approvato con [regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md). La omessa denuncia dei pozzi diversi da quelli previsti dall'art. 93 del citato testo unico nel termine di cui sopra e' punita con la sanzione amministrativa del pagamento di una somma da lire duecentomila a lire unmilioneduecentomila; il pozzo puo' essere sottoposto a sequestro ed e' comunque soggetto a chiusura a spese del trasgressore allorche' divenga definitivo il provvedimento che applica la sanzione. Valgono le disposizioni della [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689). (2) (3) ((4))
 
 2.
 
-All'art. 106 del testo unico approvato con [regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775), e' aggiunto in fine il seguente periodo: "e puo' adottare, altresi', le disposizioni di cui all'articolo precedente, qualora ricorrano attuali o prevedibili situazioni di subsidenza, ovvero di inquinamento o pregiudizio al regime delle acque pubbliche. La stessa autorita' puo' disporre, a spese dei responsabili, la chiusura dei pozzi dei quali sia cessata l'utilizzazione". 
+All'art. 106 del testo unico approvato con [regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), e' aggiunto in fine il seguente periodo: "e puo' adottare, altresi', le disposizioni di cui all'articolo precedente, qualora ricorrano attuali o prevedibili situazioni di subsidenza, ovvero di inquinamento o pregiudizio al regime delle acque pubbliche. La stessa autorita' puo' disporre, a spese dei responsabili, la chiusura dei pozzi dei quali sia cessata l'utilizzazione". 
  
 -----------------
 

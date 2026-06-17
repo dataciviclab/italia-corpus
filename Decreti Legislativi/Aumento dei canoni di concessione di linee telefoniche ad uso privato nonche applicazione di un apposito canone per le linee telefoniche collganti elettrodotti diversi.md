@@ -32,7 +32,7 @@ La [L. 15 marzo 1956, n. 210](../Atti%20normativi%20abrogati%20%28in%20originale
 
 ## Art. 2.
 
-Il secondo comma dell'art. 207 del Codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645), modificato come segue:
+Il secondo comma dell'art. 207 del Codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md), modificato come segue:
  "Le linee telefoniche private non possono essere poste in comunicazione con altre linee telefoniche pubbliche o private, salvo quanto previsto dall'art. 210 e salvo il caso in cui il collegamento fra le linee telefoniche private avvenga in servizio di elettrodotti fra loro interconnessi anche se appartenenti a concessionari diversi.
  Per ognuno di tali collegamenti ciascuno dei concessionari interessati paghera' allo Stato, dal 1 gennaio 1948, un canone di L. 20.000, indipendentemente dalla lunghezza della linea di collegamento". ((1))
 

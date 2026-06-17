@@ -32,9 +32,9 @@ Vista la risoluzione OMI A.648(16) recante principi generali dei sistemi di rapp
 
 Visto il [decreto del Presidente della Repubblica 8 ottobre 1991, n. 435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1991-10-08;435);
 
-Visto il [decreto del Presidente della Repubblica 9 maggio 1968, n. 1008](../DPR/Regolamento%20per%20limbarco%20trasporto%20per%20mare%20sbarco%20e%20trasbordo%20delle%20merci%20pericolose%20in%20colli.md);
+Visto il [decreto del Presidente della Repubblica 9 maggio 1968, n. 1008](../Regolamenti%20governativi/Regolamento%20per%20limbarco%20trasporto%20per%20mare%20sbarco%20e%20trasbordo%20delle%20merci%20pericolose%20in%20colli.md);
 
-Visto il [decreto del Presidente della Repubblica 4 febbraio 1984, n. 50](../DPR/Approvazione%20del%20regolamento%20per%20la%20costruzione%20e%20lequipaggiamento%20delle%20navi%20adibite%20al%20trasporto%20di%20prodotti%20chimici%20liquidi%20pericolosi%20alla%20rinfusa%20e%20per%20limbarco%20il%20trasporto%20per%20mare_af7201b00787.md);
+Visto il [decreto del Presidente della Repubblica 4 febbraio 1984, n. 50](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20la%20costruzione%20e%20lequipaggiamento%20delle%20navi%20adibite%20al%20trasporto%20di%20prodotti%20chimici%20liquidi%20pericolosi%20alla%20rinfusa%20e%20per%20limbarco%20il%20trasporto%20per%20mare_af7201b00787.md);
 
 Visto il decreto interministeriale del Ministro dei trasporti e della navigazione e del Ministro dell'ambiente in data 28 aprile 1994, pubblicato nella Gazzetta Ufficiale n. 200 del 27 agosto 1994;
 
@@ -80,7 +80,7 @@ Il presente regolamento non si applica:
                             alle navi da guerra e ad altre navi dello Stato utilizzate a fini non commerciali.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione della legge, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione della legge, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE).
  Note alle premesse:
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
@@ -103,8 +103,8 @@ Avvertenza:
  9. E' istituito il Ministero dei trasporti e della navigazione, al quale sono trasferiti funzioni, uffici, personale e risorse finanziarie dei soppressi Ministeri, fatto salvo quanto disposto dal comma 10.
  10. Sono trasferite al Ministero dell'ambiente le funzioni, del Ministero della marina mercantile in materia di tutela e di difesa dell'ambiente marino. Il Ministero dell'ambiente si avvale dell'Istituto centrale per la ricerca scientifica e tecnologica applicata al mare".
  - Il [D.P.R. 8 ottobre 1991, n. 435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1991-10-08;435), reca approvazione del regolamento per la sicurezza della navigazione e della vita umana in mare.
- - Il [D.P.R. 9 maggio 1968, n. 1008](../DPR/Regolamento%20per%20limbarco%20trasporto%20per%20mare%20sbarco%20e%20trasbordo%20delle%20merci%20pericolose%20in%20colli.md), reca regolamento per l'imbarco, trasporto per mare, abarco e trasbordo delle merci pericolose in colli.
- - Il [D.P.R. 4 febbraio 1984, n. 50](../DPR/Approvazione%20del%20regolamento%20per%20la%20costruzione%20e%20lequipaggiamento%20delle%20navi%20adibite%20al%20trasporto%20di%20prodotti%20chimici%20liquidi%20pericolosi%20alla%20rinfusa%20e%20per%20limbarco%20il%20trasporto%20per%20mare_af7201b00787.md), reca "Approvazione del regolamento per la costruzione e l'equipaggiamento delle navi adibite al trasporto di prodotti chimici liquidi pericolosi alla rinfusa e per l'imbarco, il trasporto per mare e lo sbarco dei prodotti stessi".
+ - Il [D.P.R. 9 maggio 1968, n. 1008](../Regolamenti%20governativi/Regolamento%20per%20limbarco%20trasporto%20per%20mare%20sbarco%20e%20trasbordo%20delle%20merci%20pericolose%20in%20colli.md), reca regolamento per l'imbarco, trasporto per mare, abarco e trasbordo delle merci pericolose in colli.
+ - Il [D.P.R. 4 febbraio 1984, n. 50](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20la%20costruzione%20e%20lequipaggiamento%20delle%20navi%20adibite%20al%20trasporto%20di%20prodotti%20chimici%20liquidi%20pericolosi%20alla%20rinfusa%20e%20per%20limbarco%20il%20trasporto%20per%20mare_af7201b00787.md), reca "Approvazione del regolamento per la costruzione e l'equipaggiamento delle navi adibite al trasporto di prodotti chimici liquidi pericolosi alla rinfusa e per l'imbarco, il trasporto per mare e lo sbarco dei prodotti stessi".
  - Il decreto del Ministro dei trasporti e della navigazione e del [Ministro dell'ambiente 28 aprile 1994, n. 200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente:decreto:1994-04-28;200), reca: "Individuazione e trasferimento di mezzi finanziari, personale ed uffici del soppresso Ministero della marina mercantile al Ministero dell'ambiente".
  - Il decreto del Ministro dei traporti e della navigazione 4 maggio 1995, reca procedura per il rilascio dell'autorizzazione all'imbarco e trasporto marittimo o del nulla osta allo sbarco delle merci pericolose.
 
@@ -159,7 +159,7 @@ L'agente marittimo di una nave proveniente da un porto extracomunitario e dirett
 
 3.
 
-Il comandante della nave allega alla nota informativa di cui all'[articolo 179 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) l'elenco di controllo per le navi di cui all'allegato II. Tale elenco e' messo a disposizione del pilota al momento del suo imbarco.
+Il comandante della nave allega alla nota informativa di cui all'[articolo 179 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) l'elenco di controllo per le navi di cui all'allegato II. Tale elenco e' messo a disposizione del pilota al momento del suo imbarco.
 
 4.
 

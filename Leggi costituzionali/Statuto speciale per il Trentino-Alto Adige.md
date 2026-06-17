@@ -612,7 +612,7 @@ TITOLO VII
 ### Art. 77.
 
 Il Commissario del Governo provvede al mantenimento dell'ordine pubblico, del quale risponde verso il Ministro per l'interno.
- A tale fine egli puo' avvalersi degli organi e delle forze di polizia dello Stato, richiedere l'impiego delle altre forze armate ai termini delle vigenti leggi e adottare i provvedimenti previsti nell'[art. 2 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_2).
+ A tale fine egli puo' avvalersi degli organi e delle forze di polizia dello Stato, richiedere l'impiego delle altre forze armate ai termini delle vigenti leggi e adottare i provvedimenti previsti nell'[art. 2 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md).
  Restano ferme le attribuzioni devolute dalle leggi vigenti al Ministero dell'interno.
 
 ### Art. 77-bis.
@@ -726,7 +726,7 @@ Dopo un anno dalla costituzione del primo Consiglio regionale cessino le integra
 
 ### Art. 91.
 
-I termini per l'applicazione dell'[art. 52 del testo unico delle leggi sulle acque](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_52) pubbliche e sugli impianti elettrici, approvato con decreto 11 dicembre 1933, n. 1775, che risultassero prescritti, sono riaperti a favore dei Comuni e delle Province, a partire dall'entrata in vigore del presente Statuto.
+I termini per l'applicazione dell'[art. 52 del testo unico delle leggi sulle acque](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md) pubbliche e sugli impianti elettrici, approvato con decreto 11 dicembre 1933, n. 1775, che risultassero prescritti, sono riaperti a favore dei Comuni e delle Province, a partire dall'entrata in vigore del presente Statuto.
 
 ### Art. 92.
 

@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Veduto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
- Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni;
+ Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni;
  Veduto il regolamento approvato con [regio decreto 4 giugno 1938, n. 1269](../Regi%20decreti/Approvazione%20del%20regolamento%20sugli%20studenti%20i%20titoli%20accademici%20gli%20esami%20di%20Stato%20e%20lassistenza%20scolastica%20nelle%20Universita%20o%20negli%20Istituti%20superiori.%20038U1269.md);
  Ritenuto l'opportunita' di apportare modifica alla norma che concerne il rilascio dei certificati di studi universitari, in conformita' delle direttive per lo snellimento delle procedure amministrative;
  Udito il parere del Consiglio di Stato;

@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico delle leggi sul Consiglio di Stato, approvato con [R. decreto 26 giugno 1924, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-26;1054), e modificato con il [R. decreto-legge 2 ottobre 1924, n. 1672](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-02;1672), convertito nella [legge 8 febbraio 1925, n. 88](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20dei%20Regi%20decreti%2026%20giugno%201924%20n.%201032%20che%20deferisce%20transitoriamente%20ai%20Prefetti%20le%20attribuzioni%20spettanti%20ai%20Sottoprefetti%20pei%20Comuni%20e%20le%20istituzioni%20pubbliche%20di_b41430aafe56.md);
+Visto il testo unico delle leggi sul Consiglio di Stato, approvato con [R. decreto 26 giugno 1924, n. 1054](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md), e modificato con il [R. decreto-legge 2 ottobre 1924, n. 1672](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-02;1672), convertito nella [legge 8 febbraio 1925, n. 88](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20dei%20Regi%20decreti%2026%20giugno%201924%20n.%201032%20che%20deferisce%20transitoriamente%20ai%20Prefetti%20le%20attribuzioni%20spettanti%20ai%20Sottoprefetti%20pei%20Comuni%20e%20le%20istituzioni%20pubbliche%20di_b41430aafe56.md);
 
 Visto il regolamento per l'esecuzione della legge sul Consiglio di Stato, approvato con [R. decreto 24 aprile 1942, n. 444](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-04-24;444);
 
@@ -36,13 +36,13 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 L'art. 33 del regolamento per l'esecuzione della legge sul Consiglio di Stato, approvato con decreto 21 aprile 1942, n. 444, e' sostituito dal seguente: 
  
-«Si applicano al personale di segreteria e subalterno le disposizioni dei capi VII, VIII e IX del [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), e successive modificazioni in tutto quanto non e' previsto dal presente regolamento. 
+«Si applicano al personale di segreteria e subalterno le disposizioni dei capi VII, VIII e IX del [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive modificazioni in tutto quanto non e' previsto dal presente regolamento. 
  
 La Commissione di disciplina, di cui all'art. 68 del Regio decreto predetto, e' costituita da un consigliere di Stato, presidente e da due primi referendari o referendari. Due primi referendari o referendari sono nominati supplenti. Un segretario di sezione disimpegna le funzioni di segretario».
 
 ## Art. 2.
 
-Gli articoli 38 e 75 del regolamento per l'esecuzione della legge sul Consiglio di Stato, approvato con [R. decreto 21 aprile 1942, n. 444](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-04-21;444), sono abrogati.
+Gli articoli 38 e 75 del regolamento per l'esecuzione della legge sul Consiglio di Stato, approvato con [R. decreto 21 aprile 1942, n. 444](../Regi%20decreti/Regolamento%20per%20lesecuzione%20della%20legge%20sul%20Consiglio%20di%20Stato.%20042U0444.md), sono abrogati.
 
 ## Art. 3.
 

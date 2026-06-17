@@ -18,7 +18,7 @@ Visto il [decreto legislativo 30 giugno 2016, n. 126](Attuazione%20della%20deleg
 
 Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241), recante nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi;
 
-Visto il [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), recante approvazione del [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773);
+Visto il [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), recante approvazione del [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md);
 
 Visto il [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635), recante approvazione del regolamento per l'esecuzione del [testo unico 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-06-18;773), delle leggi di pubblica sicurezza;
 
@@ -34,7 +34,7 @@ Acquisito il parere della Commissione parlamentare per la semplificazione e dell
 
 Vista la deliberazione del Consiglio dei ministri, adottata nella riunione del 24 novembre 2016;
 
-Sulla proposta del Ministro per la semplificazione e la pubblica amministrazione, di concerto con il Ministro dell'interno in relazione alle autorizzazioni previste dal [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), di cui al [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773);
+Sulla proposta del Ministro per la semplificazione e la pubblica amministrazione, di concerto con il Ministro dell'interno in relazione alle autorizzazioni previste dal [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), di cui al [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md);
 
 Emana il seguente decreto legislativo:
 
@@ -222,7 +222,7 @@ Al [decreto del Presidente della Repubblica 6 giugno 2001, n. 380](../DPR/Testo%
 1.
 
 Al [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635), recante «Approvazione del regolamento per l'esecuzione del [testo unico 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-06-18;773), delle leggi di pubblica sicurezza, sono apportate le seguenti modificazioni: 
- a) il primo comma dell'articolo 110 e' sostituito dal seguente: «L'installazione di impianti provvisori elettrici per straordinarie illuminazioni pubbliche in occasione di festivita' civili o religiose o in qualsiasi altra contingenza e' soggetta a comunicazione da trasmettere al Comune corredata dalla certificazione di conformita' degli impianti di cui all'[articolo 7 del decreto del Ministro dello sviluppo economico 22 gennaio 2008, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sviluppo.economico:decreto:2008-01-22;37#art_7).»; 
+ a) il primo comma dell'articolo 110 e' sostituito dal seguente: «L'installazione di impianti provvisori elettrici per straordinarie illuminazioni pubbliche in occasione di festivita' civili o religiose o in qualsiasi altra contingenza e' soggetta a comunicazione da trasmettere al Comune corredata dalla certificazione di conformita' degli impianti di cui all'[articolo 7 del decreto del Ministro dello sviluppo economico 22 gennaio 2008, n. 37](../Regolamenti%20ministeriali/Regolamento%20concernente%20lattuazione%20dellarticolo%2011-quaterdecies%20comma%2013%20lettera%20a%20del%20decreto-legge%2030%20settembre%202005%20n.%20203%20convertito%20con%20modificazioni%20dalla%20legge%202%20dicembre%202005%20n.%20_459f35941e72.md).»; 
  b) il secondo comma dell'articolo 110 e' abrogato; 
  c) al secondo comma dell'articolo 141, dopo le parole «inferiore a 200 persone», sono aggiunte le seguenti: «il parere,».
 
@@ -254,7 +254,7 @@ Le regioni e gli enti locali, nel disciplinare i regimi amministrativi di loro c
 
 1.
 
-L'[articolo 126 del regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_126), e' abrogato.
+L'[articolo 126 del regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e' abrogato.
 
 2.
 

@@ -44,7 +44,7 @@ Visto l'[articolo 4 del decreto-legge 5 ottobre 1993, n. 398](https://www.normat
 
 Visto il [decreto legislativo 29 ottobre 1999, n. 490](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20beni%20culturali%20e%20ambientali%20a%20norma%20dellarticolo%201%20della%20legge%208%20ottobre%201997%20n.%20352.md);
 
-Visto il [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), e successive modificazioni;
+Visto il [regio decreto 27 luglio 1934, n. 1265](Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), e successive modificazioni;
 
 Vista la [legge 5 novembre 1971, n. 1086](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-11-05;1086), e successive modificazioni;
 
@@ -1063,7 +1063,7 @@ Titolo III
 ### Art. 24.
 
 (Agibilita'). 
- ([regio decreto 27 luglio 1934, n. 1265, articoli 220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_220); 221, comma 2, come modificato dall'[art. 70, decreto legislativo 30 dicembre 1999, n. 507](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Depenalizzazione%20dei%20reati%20minori%20e%20riforma%20del%20sistema%20sanzionatorio%20ai%20sensi%20dellarticolo%201%20della%20legge%2025%20giugno%201999%20n.%20205.md); [decreto legislativo 18 agosto 2000, n. 267, articoli 107](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md) e 
+ ([regio decreto 27 luglio 1934, n. 1265, articoli 220](Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md); 221, comma 2, come modificato dall'[art. 70, decreto legislativo 30 dicembre 1999, n. 507](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Depenalizzazione%20dei%20reati%20minori%20e%20riforma%20del%20sistema%20sanzionatorio%20ai%20sensi%20dellarticolo%201%20della%20legge%2025%20giugno%201999%20n.%20205.md); [decreto legislativo 18 agosto 2000, n. 267, articoli 107](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md) e 
  [109](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md); [legge 28 febbraio 1985, n. 47, art. 52, comma 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-28;47#art_52-com1)) 
  
  1. La sussistenza delle condizioni di sicurezza, igiene, salubrita', risparmio energetico degli edifici e degli impianti negli stessi installati, e, ove previsto, di rispetto degli obblighi di infrastrutturazione digitale valutate secondo quanto dispone la normativa vigente, nonche' la conformita' dell'opera al progetto presentato e la sua agibilita' sono attestati mediante segnalazione certificata. 
@@ -1103,7 +1103,7 @@ Titolo III
 
 1.
 
-((La presentazione della segnalazione certificata)) di agibilita' non impedisce l'esercizio del potere di dichiarazione di inagibilita' di un edificio o di parte di esso ai sensi dell'[articolo 222 del regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_222).
+((La presentazione della segnalazione certificata)) di agibilita' non impedisce l'esercizio del potere di dichiarazione di inagibilita' di un edificio o di parte di esso ai sensi dell'[articolo 222 del regio decreto 27 luglio 1934, n. 1265](Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md).
 
 ## VIGILANZA SULL'ATTIVITA' URBANISTICO EDILIZIA, RESPONSABILITA' E SANZIONI Capo I Vigilanza sull'attivita' urbanistico-edilizia e responsabilita'
 
@@ -3622,7 +3622,7 @@ Ai sensi dell'[articolo 20, comma 4, della legge 15 marzo 1997, n. 59](../Leggi%
 2.
 
 Ai sensi dell'[articolo 7 della legge 8 marzo 1999, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-08;50#art_7), dalla data di entrata in vigore del presente testo unico sono altresi' abrogate le seguenti disposizioni: 
- a)[regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), limitatamente agli articoli 220 e 221, comma 2; 
+ a)[regio decreto 27 luglio 1934, n. 1265](Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), limitatamente agli articoli 220 e 221, comma 2; 
  b)[legge 17 agosto 1942, n. 1150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-08-17;1150), limitatamente agli articoli 26, 27, 33, 41-ter, 41-quater, 41-quinquies, ad esclusione dei commi 6, 8 e 9; 
  c)[legge 28 gennaio 1977, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-01-28;10), limitatamente agli articoli 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 16; 
  d) [legge 3 gennaio 1978, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-01-03;1), limitatamente all'articolo 1, commi 4 e 5, come sostituiti dall'[articolo 4, legge 18 novembre 1998, n. 415](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20alla%20legge%2011%20febbraio%201994%20n.%20109%20e%20ulteriori%20disposizioni%20in%20materia%20di%20lavori%20pubblici.md); 

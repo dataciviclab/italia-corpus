@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
 
-Visto il testo unico delle leggi sull'ordinamento dell'Avvocatura dello Stato, approvato con [regio decreto 30 ottobre 1933, n. 1611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1611), e successive modificazioni ed in particolare l'articolo 32;
+Visto il testo unico delle leggi sull'ordinamento dell'Avvocatura dello Stato, approvato con [regio decreto 30 ottobre 1933, n. 1611](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md), e successive modificazioni ed in particolare l'articolo 32;
 
 Visto l'[articolo 1 della legge 23 novembre 1966, n. 1035](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-11-23;1035#art_1);
 
@@ -18,7 +18,7 @@ Vista la [legge 3 aprile 1979, n. 103](https://www.normattiva.it/uri-res/N2Ls?ur
 
 Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-Visto il [decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), successivamente modificato con [decreto del Presidente della Repubblica 30 ottobre 1996, n. 693](../DPR/Regolamento%20recante%20modificazioni%20al%20regolamento%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20sulle%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20fo_83a2815f762f.md);
+Visto il [decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../Regolamenti%20governativi/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), successivamente modificato con [decreto del Presidente della Repubblica 30 ottobre 1996, n. 693](../Regolamenti%20governativi/Regolamento%20recante%20modificazioni%20al%20regolamento%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20sulle%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20fo_83a2815f762f.md);
 
 Visto l'[articolo 3, comma 6, della legge 15 maggio 1997, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_3-com6), che ha escluso i limiti di eta' per la partecipazione ai pubblici concorsi, salvo deroghe stabilite con regolamenti dell'Amministrazione interessata;
 

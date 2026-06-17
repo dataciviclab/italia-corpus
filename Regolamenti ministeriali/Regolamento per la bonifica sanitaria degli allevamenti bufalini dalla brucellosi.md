@@ -28,7 +28,7 @@ Considerato, altresi', che occorre evitare il depauperamento del patrimonio dell
 
 Ritenuto che con il programma regionale di profilassi e risanamento degli allevamenti bufalini dalla brucellosi devono essere applicate le norme del decreto ministeriale 3 giugno 1968, e successive modificazioni, salvo per cio' che concerne i tempi di abbattimento;
 
-Visto l'[art. 261 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_261);
+Visto l'[art. 261 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md);
 
 Visto il decreto del Presidente della Repubblica
 

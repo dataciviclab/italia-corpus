@@ -253,7 +253,7 @@ Il terzo responsabile informa la Regione o Provincia autonoma competente per ter
 
 6.
 
-Il terzo responsabile non puo' delegare ad altri le responsabilita' assunte e puo' ricorrere solo occasionalmente al subappalto o all'affidamento di alcune attivita' di sua competenza, fermo restando il rispetto del [decreto del Ministro dello sviluppo economico 22 gennaio 2008, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sviluppo.economico:decreto:2008-01-22;37), per le sole attivita' di manutenzione, e la propria diretta responsabilita' ai sensi e per gli effetti dell'[articolo 1667 e seguenti del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1667).
+Il terzo responsabile non puo' delegare ad altri le responsabilita' assunte e puo' ricorrere solo occasionalmente al subappalto o all'affidamento di alcune attivita' di sua competenza, fermo restando il rispetto del [decreto del Ministro dello sviluppo economico 22 gennaio 2008, n. 37](../Regolamenti%20ministeriali/Regolamento%20concernente%20lattuazione%20dellarticolo%2011-quaterdecies%20comma%2013%20lettera%20a%20del%20decreto-legge%2030%20settembre%202005%20n.%20203%20convertito%20con%20modificazioni%20dalla%20legge%202%20dicembre%202005%20n.%20_459f35941e72.md), per le sole attivita' di manutenzione, e la propria diretta responsabilita' ai sensi e per gli effetti dell'[articolo 1667 e seguenti del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1667).
 
 7.
 
@@ -274,7 +274,7 @@ Il [D.Lgs. 10 giugno 2020, n. 48](../Leggi%20delega%20e%20relativi%20provvedimen
 
 1.
 
-Le operazioni di controllo ed eventuale manutenzione dell'impianto devono essere eseguite da ditte abilitate ai sensi del [decreto del Ministro dello sviluppo economico 22 gennaio 2008, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sviluppo.economico:decreto:2008-01-22;37), conformemente alle prescrizioni e con la periodicita' contenute nelle istruzioni tecniche per l'uso e la manutenzione rese disponibili dall'impresa installatrice dell'impianto ai sensi della normativa vigente.
+Le operazioni di controllo ed eventuale manutenzione dell'impianto devono essere eseguite da ditte abilitate ai sensi del [decreto del Ministro dello sviluppo economico 22 gennaio 2008, n. 37](../Regolamenti%20ministeriali/Regolamento%20concernente%20lattuazione%20dellarticolo%2011-quaterdecies%20comma%2013%20lettera%20a%20del%20decreto-legge%2030%20settembre%202005%20n.%20203%20convertito%20con%20modificazioni%20dalla%20legge%202%20dicembre%202005%20n.%20_459f35941e72.md), conformemente alle prescrizioni e con la periodicita' contenute nelle istruzioni tecniche per l'uso e la manutenzione rese disponibili dall'impresa installatrice dell'impianto ai sensi della normativa vigente.
 
 2.
 
@@ -286,7 +286,7 @@ Le operazioni di controllo ed eventuale manutenzione delle restanti parti dell'i
 
 4.
 
-Gli installatori e i manutentori degli impianti termici, abilitati ai sensi del [decreto del Ministro dello sviluppo economico 22 gennaio 2008, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sviluppo.economico:decreto:2008-01-22;37), nell'ambito delle rispettive responsabilita', devono definire e dichiarare esplicitamente al committente o all'utente, in forma scritta e facendo riferimento alla documentazione tecnica del progettista dell'impianto o del fabbricante degli apparecchi:
+Gli installatori e i manutentori degli impianti termici, abilitati ai sensi del [decreto del Ministro dello sviluppo economico 22 gennaio 2008, n. 37](../Regolamenti%20ministeriali/Regolamento%20concernente%20lattuazione%20dellarticolo%2011-quaterdecies%20comma%2013%20lettera%20a%20del%20decreto-legge%2030%20settembre%202005%20n.%20203%20convertito%20con%20modificazioni%20dalla%20legge%202%20dicembre%202005%20n.%20_459f35941e72.md), nell'ambito delle rispettive responsabilita', devono definire e dichiarare esplicitamente al committente o all'utente, in forma scritta e facendo riferimento alla documentazione tecnica del progettista dell'impianto o del fabbricante degli apparecchi:
                         a)
                             quali siano le operazioni di controllo e manutenzione di cui necessita l'impianto da loro installato o manutenuto, per garantire la sicurezza delle persone e delle cose;
                         b)

@@ -55,7 +55,7 @@ Il [D.P.C.M. 5 dicembre 2013, n. 159](https://www.normattiva.it/uri-res/N2Ls?urn
 
 1.
 
-Ai fini del presente decreto, ciascun soggetto puo' appartenere ad un solo nucleo familiare. Fanno parte del nucleo familiare i soggetti componenti la famiglia anagrafica ai sensi dell'[articolo 4 del decreto del Presidente della Repubblica 30 maggio 1989, n. 223](../DPR/Approvazione%20del%20nuovo%20regolamento%20anagrafico%20della%20popolazione%20residente.md), salvo quanto stabilito dai commi seguenti.
+Ai fini del presente decreto, ciascun soggetto puo' appartenere ad un solo nucleo familiare. Fanno parte del nucleo familiare i soggetti componenti la famiglia anagrafica ai sensi dell'[articolo 4 del decreto del Presidente della Repubblica 30 maggio 1989, n. 223](../Regolamenti%20governativi/Approvazione%20del%20nuovo%20regolamento%20anagrafico%20della%20popolazione%20residente.md), salvo quanto stabilito dai commi seguenti.
 
 2.
 
@@ -89,7 +89,7 @@ Il figlio minore di anni 18, anche se a carico ai fini IRPEF di altre persone, f
 
 6.
 
-Il soggetto che si trova in convivenza anagrafica ai sensi dell'[articolo 5 del decreto del Presidente della Repubblica 30 maggio 1989, n. 223](../DPR/Approvazione%20del%20nuovo%20regolamento%20anagrafico%20della%20popolazione%20residente.md), e' considerato nucleo familiare a se' stante, salvo che debba essere considerato componente del nucleo familiare del coniuge, ovvero del nucleo familiare della persona di cui e' a carico ai fini IRPEF, ai sensi delle disposizioni del presente articolo. Se della medesima convivenza anagrafica fanno parte il genitore e il figlio minore, quest'ultimo e' considerato componente dello stesso nucleo familiare del genitore.
+Il soggetto che si trova in convivenza anagrafica ai sensi dell'[articolo 5 del decreto del Presidente della Repubblica 30 maggio 1989, n. 223](../Regolamenti%20governativi/Approvazione%20del%20nuovo%20regolamento%20anagrafico%20della%20popolazione%20residente.md), e' considerato nucleo familiare a se' stante, salvo che debba essere considerato componente del nucleo familiare del coniuge, ovvero del nucleo familiare della persona di cui e' a carico ai fini IRPEF, ai sensi delle disposizioni del presente articolo. Se della medesima convivenza anagrafica fanno parte il genitore e il figlio minore, quest'ultimo e' considerato componente dello stesso nucleo familiare del genitore.
 
 7.
 
@@ -253,7 +253,7 @@ Ai fini dell'applicazione della maggiorazione dello 0,5 prevista nella tabella 2
 
 2.
 
-Ai fini dell'applicazione della maggiorazione dello 0,2 prevista nella predetta tabella 2, si considerano attivita' di lavoro o di impresa le attivita' che danno luogo a redditi di lavoro dipendente o assimilati, di lavoro autonomo o d'impresa ai sensi, rispettivamente, degli articoli 46, comma 1, 47, comma 1, lettere a), g) ed l), 49, commi 1 e 2, lettere a) e c), e 51 del testo unico delle imposte sui redditi approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e successive modificazioni e integrazioni. La maggiorazione si applica quando i genitori risultino ciascuno aver svolto le predette attivita' di lavoro o di impresa per almeno sei mesi nel periodo cui fanno riferimento i redditi della dichiarazione sostitutiva. La maggiorazione spetta altresi' a nuclei familiari composti soltanto da figli minori e un unico genitore che risulti aver svolto attivita' di lavoro o di impresa per almeno sei mesi nel periodo cui fanno riferimento i redditi della dichiarazione sostitutiva. 
+Ai fini dell'applicazione della maggiorazione dello 0,2 prevista nella predetta tabella 2, si considerano attivita' di lavoro o di impresa le attivita' che danno luogo a redditi di lavoro dipendente o assimilati, di lavoro autonomo o d'impresa ai sensi, rispettivamente, degli articoli 46, comma 1, 47, comma 1, lettere a), g) ed l), 49, commi 1 e 2, lettere a) e c), e 51 del testo unico delle imposte sui redditi approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e successive modificazioni e integrazioni. La maggiorazione si applica quando i genitori risultino ciascuno aver svolto le predette attivita' di lavoro o di impresa per almeno sei mesi nel periodo cui fanno riferimento i redditi della dichiarazione sostitutiva. La maggiorazione spetta altresi' a nuclei familiari composti soltanto da figli minori e un unico genitore che risulti aver svolto attivita' di lavoro o di impresa per almeno sei mesi nel periodo cui fanno riferimento i redditi della dichiarazione sostitutiva. 
  (2) ((3))
 
 -------------

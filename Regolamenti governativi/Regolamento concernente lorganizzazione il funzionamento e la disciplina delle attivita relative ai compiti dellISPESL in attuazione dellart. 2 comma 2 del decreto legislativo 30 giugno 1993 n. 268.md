@@ -1113,7 +1113,7 @@ Con provvedimenti del direttore dell'Istituto, sentito il comitato tecnico-scien
 
 2.
 
-Fino all'emanazione dei regolamenti di cui sopra permane in vigore l'attuale regolamento dei servizi di cui al [decreto del Ministro della sanita' 24 giugno 1991, n. 322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:1991-06-24;322).
+Fino all'emanazione dei regolamenti di cui sopra permane in vigore l'attuale regolamento dei servizi di cui al [decreto del Ministro della sanita' 24 giugno 1991, n. 322](../Regolamenti%20ministeriali/Regolamento%20dei%20servizi%20dellIstituto%20superiore%20per%20la%20prevenzione%20e%20la%20sicurezza%20del%20lavoro.md).
 
 3.
 

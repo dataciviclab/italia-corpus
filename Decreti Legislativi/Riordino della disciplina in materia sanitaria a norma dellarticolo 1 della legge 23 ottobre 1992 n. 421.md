@@ -1494,7 +1494,7 @@ I soggetti di cui al precedente comma inviano trimestralmente alle regioni inter
 
 12.
 
-Al fine del versamento dei contributi per le prestazioni del Servizio sanitario nazionale non si applicano il [comma 2 dell'articolo 63 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_63-com2), e l'[articolo 17 del regio decreto 24 settembre 1940, n. 1949](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-09-24;1949#art_17), e l'[articolo 2 del regio decreto 24 settembre 1940, n. 1954](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-09-24;1954#art_2).
+Al fine del versamento dei contributi per le prestazioni del Servizio sanitario nazionale non si applicano il [comma 2 dell'articolo 63 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e l'[articolo 17 del regio decreto 24 settembre 1940, n. 1949](../Regi%20decreti/Modalita%20di%20accertamento%20dei%20contributi%20dovuti%20dagli%20agricoltori%20e%20dai%20lavoratori%20dellagricoltura%20per%20le%20associazioni%20professionali%20per%20lassistenza%20malattia%20per%20linvalidita%20e%20vecchiaia%20pe_36ac4a1909bf.md), e l'[articolo 2 del regio decreto 24 settembre 1940, n. 1954](../Regi%20decreti/Modalita%20per%20la%20riscossione%20e%20il%20versamento%20dei%20contributi%20dovuti%20dagli%20agricoltori%20e%20dai%20lavoratori%20dellagricoltura%20per%20le%20associazioni%20professionali%20per%20lassistenza%20malattia%20per%20invalid_3338d692b5c9.md).
 
 13.
 

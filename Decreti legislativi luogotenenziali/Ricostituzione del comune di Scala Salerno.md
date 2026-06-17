@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' Noi delegata;
 
-Visto il [R. decreto 4 febbraio 1929, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-02-04;156);
+Visto il [R. decreto 4 febbraio 1929, n. 156](../Regi%20decreti/Ampliamento%20territoriale%20dei%20comuni%20di%20Amalfi%20e%20Ravello.%20029U0156.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -26,13 +26,13 @@ Vista la deliberazione del Consiglio dei Ministri Sulla proposta del Ministro Se
 
 ## Art. 1.
 
-Il comune di Scala, soppresso con [R. decreto 4 febbraio 1929, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-02-04;156), ed il cui territorio, per effetto di detto decreto, venne aggregato ai comuni di Ravello e di Amalfi, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto suddetto. 
+Il comune di Scala, soppresso con [R. decreto 4 febbraio 1929, n. 156](../Regi%20decreti/Ampliamento%20territoriale%20dei%20comuni%20di%20Amalfi%20e%20Ravello.%20029U0156.md), ed il cui territorio, per effetto di detto decreto, venne aggregato ai comuni di Ravello e di Amalfi, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto suddetto. 
  Il Prefetto di Salerno, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i comuni di Scala, Ravello ed Amalfi.
 
 ## Art. 2.
 
 L'organico del ricostituito comune di Scala ed il nuovo organico dei comuni di Ravello e di Amalfi saranno stabiliti dal Prefetto, sentita la Giunta provinciale amministrativa. 
- Il numero dei posti ed i gradi relativi non potranno essere superiori, rispettivamente, a quelli organicamente assegnati ai Comuni suddetti anteriormente alla loro fusione disposta con [R. decreto 4 febbraio 1929, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-02-04;156). 
+ Il numero dei posti ed i gradi relativi non potranno essere superiori, rispettivamente, a quelli organicamente assegnati ai Comuni suddetti anteriormente alla loro fusione disposta con [R. decreto 4 febbraio 1929, n. 156](../Regi%20decreti/Ampliamento%20territoriale%20dei%20comuni%20di%20Amalfi%20e%20Ravello.%20029U0156.md). 
  Al personale gia' in servizio presso i cittadini di Ravello e di Amalfi che eventualmente sara' inquadrato nei predetti organici, non potranno essere attribuiti posizione gerarchica e trattamento economico superiori a quelli goduti all'atto dell'inquadramento medesimo.
 
 ## Art. 3.

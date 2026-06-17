@@ -14,7 +14,7 @@ Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/ur
 
 Visto il [decreto del Presidente della Repubblica 18 settembre 1951, n. 1160](../DPR/Approvazione%20dello%20statuto%20dellIstituto%20universitario%20di%20magistero%20di%20Catania%20e%20pareggiamento%20dellistituto%20medesimo%20alle%20Facolta%20di%20magistero%20delle%20Universita%20statali.md), e successive modificazioni ed integrazioni, con il quale e' stato approvato lo statuto dell'Istituto universitario di magistero pareggiato di Catania;
 
-Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni;
+Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni;
 
 Visto il decreto del Presidente del Consiglio dei Ministri 12 maggio 1989, pubblicato nella Gazzetta Ufficiale della Repubblica italiana - serie generale - n. 111 del 15 maggio 1989, con il quale e' stato approvato il piano di sviluppo dell'universita' per gli anni 1986-90;
 

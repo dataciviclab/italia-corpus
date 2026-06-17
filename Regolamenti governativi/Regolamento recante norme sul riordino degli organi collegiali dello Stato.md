@@ -156,7 +156,7 @@ I rappresentanti sindacali o di categorie sociali o economiche cessano di fare p
  (Il comma 3 non e' stato ammesso al visto della Corte dei conti).
  4. La composizione dei consigli di amministrazione delle universita' e' stabilita dagli statuti degli atenei, con numero di membri comunque non superiore a quindici. Fino alla definizione degli statuti, e comunque non oltre il 31 dicembre 1994, restano in vigore gli attuali consigli di amministrazione.
  5. Le commissioni giudicatrici nei concorsi a posti di professore universitario si riuniscono nelle sedi universitarie indicate nel bando di concorso, pubblicato nella Gazzetta Ufficiale. Il Ministro dell'universita' e della ricerca scientifica e tecnologica puo' comunque autorizzare lo svolgimento delle riunioni in sede diversa, per comprovate e motivate esigenze, segnalate dal presidente della commissione. Quest'ultima disposizione si applica anche ai concorsi in via di espletamento alla data di entrata in vigore del presente regolamento.
- 6. E' abrogato l'[art.73, primo comma, del regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592#art_73-com1).
+ 6. E' abrogato l'[art.73, primo comma, del regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md).
 
 ## Art. 7.
 

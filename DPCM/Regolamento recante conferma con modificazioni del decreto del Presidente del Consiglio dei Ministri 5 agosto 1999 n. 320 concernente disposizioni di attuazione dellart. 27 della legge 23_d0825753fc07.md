@@ -22,7 +22,7 @@ Visti gli [articoli 53, comma 1](../Leggi%20finanziarie%20e%20di%20bilancio/Disp
 
 Visto il [decreto legislativo 31 marzo 1998, n. 109](../Decreti%20Legislativi/Definizioni%20di%20criteri%20unificati%20di%20valutazione%20della%20situazione%20economica%20dei%20soggetti%20che%20richiedono%20prestazioni%20sociali%20agevolate%20a%20norma%20dellarticolo%2059%20comma%2051%20della%20legge%2027%20dicemb_ae34e6f89116.md);
 
-Visto il [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md);
+Visto il [decreto legislativo 16 aprile 1994, n. 297](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md);
 
 Visto il [decreto del Presidente del Consiglio dei Ministri 5 agosto 1999, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:1999-08-05;320), recante disposizioni di attuazione del menzionato [articolo 27 della legge 23 dicembre 1998, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-12-23;448#art_27), sulla fornitura gratuita o semigratutita di libri di testo;
 

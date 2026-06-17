@@ -14,7 +14,7 @@ Visto l'[art. 35 della legge 29 dicembre 1990, n. 428](../Leggi%20di%20delegazio
 
 Visto il predetto regolamento CEE n. 3842/86, che fissa le misure intese a vietare l'immissione in libera pratica di merci contraffatte ed a scoraggiarne il commercio internazionale;
 
-Visto il testo unico delle disposizioni legislative in materia doganale, aprovato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md);
+Visto il testo unico delle disposizioni legislative in materia doganale, aprovato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md);
 
 Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
@@ -61,7 +61,7 @@ La richiesta deve essere corredata di:
 Qualora il marchio non risulti piu' validamente registrato, il titolare di esso deve informare la Direzione generale del Dipartimento delle dogane e delle imposte indirette.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Nota al titolo:
  - Il regolamento CEE n. 3842/86 e' stato pubblicato nella Gazzetta Ufficiale delle Comunita' europee n. L 357 del 18 dicembre 1986. Con regolamento CEE n. 3077/87 della Commissione del 14 ottobre 1987 (pubblicato nella Gazzetta Ufficiale delle Comunita' europee n. L 291 del 15 ottobre 1987) sono state stabilite le disposizioni di applicazione del regolamento dianzi citato.
  Nota alle premesse:
@@ -126,7 +126,7 @@ La dogana, qualora constati l'esatta o la sostanziale corrispondenza del marchio
 
 7.
 
-Ove, a seguito del riscontro effettuato ai sensi del comma 6 del presente articolo, dovessero emergere atti o fatti penalmente rilevanti, riconducibili ad una delle ipotesi di violazioni previste dalle disposizioni vigenti in relazione all'introduzione nel territorio dello Stato di merci con segni falsi, contraffatti ed alterati, deve essere compilato il processo verbale di cui al secondo comma dell'art. 325 del testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md).
+Ove, a seguito del riscontro effettuato ai sensi del comma 6 del presente articolo, dovessero emergere atti o fatti penalmente rilevanti, riconducibili ad una delle ipotesi di violazioni previste dalle disposizioni vigenti in relazione all'introduzione nel territorio dello Stato di merci con segni falsi, contraffatti ed alterati, deve essere compilato il processo verbale di cui al secondo comma dell'art. 325 del testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md).
 
 ## Art. 3.
 

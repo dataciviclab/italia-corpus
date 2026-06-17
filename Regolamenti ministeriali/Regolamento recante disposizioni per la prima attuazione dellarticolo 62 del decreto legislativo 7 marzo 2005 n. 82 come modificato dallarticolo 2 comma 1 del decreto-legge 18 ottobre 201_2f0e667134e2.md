@@ -32,7 +32,7 @@ Visto il [decreto del Presidente della Repubblica 30 maggio 1989, n. 223](../Reg
 
 Visto il [decreto del Presidente della Repubblica 7 settembre 2010, n. 166](../Regolamenti%20governativi/Regolamento%20recante%20il%20riordino%20dellIstituto%20nazionale%20di%20statistica.%2010G0190.md), di approvazione del «Regolamento recante il riordino dell'Istituto nazionale di statistica», ed in particolare l'articolo 2, comma 2, lett. c);
 
-Visto il [decreto del Ministro dell'interno 19 gennaio 2012, n. 32](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.interno:decreto:2012-01-19;32), recante: «Nuovo regolamento di gestione dell'INA»;
+Visto il [decreto del Ministro dell'interno 19 gennaio 2012, n. 32](Nuovo%20regolamento%20di%20gestione%20dellIndice%20nazionale%20delle%20anagrafi.%2012G0052.md), recante: «Nuovo regolamento di gestione dell'INA»;
 
 Sentito l'Istituto nazionale di statistica, che si e' espresso con parere del 18 aprile 2013;
 
@@ -114,7 +114,7 @@ Avvertenza:
  (Omissis). 
  c) a definire i metodi e i formati da utilizzare da parte delle pubbliche amministrazioni per lo scambio e l'utilizzo in via telematica dell'informazione statistica e finanziaria, nonche' a coordinare modificazioni, integrazioni e nuove impostazioni della modulistica e dei sistemi informativi utilizzati dalle pubbliche amministrazioni per raccogliere informazioni utilizzate o da utilizzare per fini statistici, ai sensi dell'[art. 3, comma 73, della legge 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md), e dell'[art. 8, comma 2, della legge 31 dicembre 1996, n. 681](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;681#art_8-com2). 
  (Omissis).". 
- - Il [decreto del Ministro dell'interno 19 gennaio 2012, n. 32](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.interno:decreto:2012-01-19;32) (Nuovo regolamento di gestione dell'Indice nazionale delle anagrafi), e' pubblicato nella Gazzetta. Ufficiale 30 marzo 2012, n. 76. 
+ - Il [decreto del Ministro dell'interno 19 gennaio 2012, n. 32](Nuovo%20regolamento%20di%20gestione%20dellIndice%20nazionale%20delle%20anagrafi.%2012G0052.md) (Nuovo regolamento di gestione dell'Indice nazionale delle anagrafi), e' pubblicato nella Gazzetta. Ufficiale 30 marzo 2012, n. 76. 
  
  Note all'art. 1: 
  - Si riposta il testo dell'art. 1, comma quinto, della citata [legge n. 1228 del 1954](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954;1228): 

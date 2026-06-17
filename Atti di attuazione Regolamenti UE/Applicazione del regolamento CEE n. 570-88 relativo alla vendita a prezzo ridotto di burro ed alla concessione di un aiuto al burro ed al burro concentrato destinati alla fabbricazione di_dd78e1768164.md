@@ -447,7 +447,7 @@ I controlli sulle operazioni di concentrazione e/o di denaturazione sono effettu
 
 2.
 
-In relazione ad ogni quantita' aggiudicata l'"organo di controllo" deve procedere al prelevamento dei campioni di burro concentrato o del burro denaturato o del burro concentrato denaturato. Il prelievo dei campioni deve avvenire in conformita' alle disposizioni previste dal [decreto del Presidente della Repubblica 26 marzo 1980, n. 327](../DPR/Regolamento%20di%20esecuzione%20della%20legge%2030%20aprile%201962%20n.%20283%20e%20successive%20modificazioni%20in%20materia%20di%20disciplina%20igienica%20della%20produzione%20e%20della%20vendita%20delle%20sostanze%20alimentari%20e%20delle%20bevande.md).
+In relazione ad ogni quantita' aggiudicata l'"organo di controllo" deve procedere al prelevamento dei campioni di burro concentrato o del burro denaturato o del burro concentrato denaturato. Il prelievo dei campioni deve avvenire in conformita' alle disposizioni previste dal [decreto del Presidente della Repubblica 26 marzo 1980, n. 327](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20della%20legge%2030%20aprile%201962%20n.%20283%20e%20successive%20modificazioni%20in%20materia%20di%20disciplina%20igienica%20della%20produzione%20e%20della%20vendita%20delle%20sostanze%20alimentari%20e%20delle%20bevande.md).
 
 3.
 

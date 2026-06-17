@@ -16,7 +16,7 @@ Visto l'[articolo 17, comma 113, della legge 15 maggio 1997, n. 127](https://www
 
 Visto il [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12);
 
-Visto il [regio decreto 15 ottobre 1925, n. 1860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;1860);
+Visto il [regio decreto 15 ottobre 1925, n. 1860](../Regi%20decreti/Modificazioni%20al%20regolamento%20per%20il%20concorso%20di%20ammissione%20in%20magistratura%20contenuto%20nel%20R.%20decreto%2019%20luglio%201924%20n.%201218.%20025U1860.md);
 
 Vista la deliberazione preliminare del Consiglio dei Ministri adottata nella riunione del 5 agosto 1997;
 
@@ -60,7 +60,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
  Visto l'[articolo 17, comma 113, della legge 15 maggio 1997, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_17-com113), recante misure urgenti per lo snellimento dell'attivita' amministrativa e dei procedimenti di decisione e di controllo, che prevede la delega al Governo per la emanazione di uno o piu' decreti legislativi per modificare la disciplina del concorso per l'accesso alla magistratura ordinaria, semplificando le modalita' di svolgimento del concorso medesimo;
  Visto il [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12);
- Visto il [regio decreto 15 ottobre 1925, n. 1860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;1860);
+ Visto il [regio decreto 15 ottobre 1925, n. 1860](../Regi%20decreti/Modificazioni%20al%20regolamento%20per%20il%20concorso%20di%20ammissione%20in%20magistratura%20contenuto%20nel%20R.%20decreto%2019%20luglio%201924%20n.%201218.%20025U1860.md);
  Vista la deliberazione preliminare del Consiglio dei Ministri adottata nella riunione del 5 agosto 1997;
  Acquisiti i pareri delle competenti commissioni permanenti della Camera dei deputati e del Senato della Repubblica;
  Vista la deliberazione del Consiglio del Ministri, adottata nella riunione del 5 novembre 1997;
@@ -239,11 +239,11 @@ Se i candidati che hanno portato a termine la prova scritta sono piu' di trecent
 
 2.
 
-Per la valutazione degli elaborati scritti il presidente articola ciascuna sottocommissione in tre collegi, di almeno tre componenti, presieduti dal presidente, dal vicepresidente o dal commissario magistrato piu' anziano ed assistiti da un segretario. In caso di parita' di voti, prevale quello del presidente. Ciascun collegio esamina gli elaborati di una delle materie oggetto della prova. Ai collegi ed a ciascuna sottocommissione si applicano, rispettivamente, le disposizioni dettate per le sottocommissioni e la commissione dagli [articoli 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;1860#art_12) e [16 del regio decreto 15 ottobre 1925, n. 1860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;1860#art_16), e successive modificazioni.
+Per la valutazione degli elaborati scritti il presidente articola ciascuna sottocommissione in tre collegi, di almeno tre componenti, presieduti dal presidente, dal vicepresidente o dal commissario magistrato piu' anziano ed assistiti da un segretario. In caso di parita' di voti, prevale quello del presidente. Ciascun collegio esamina gli elaborati di una delle materie oggetto della prova. Ai collegi ed a ciascuna sottocommissione si applicano, rispettivamente, le disposizioni dettate per le sottocommissioni e la commissione dagli [articoli 12](../Regi%20decreti/Modificazioni%20al%20regolamento%20per%20il%20concorso%20di%20ammissione%20in%20magistratura%20contenuto%20nel%20R.%20decreto%2019%20luglio%201924%20n.%201218.%20025U1860.md) e [16 del regio decreto 15 ottobre 1925, n. 1860](../Regi%20decreti/Modificazioni%20al%20regolamento%20per%20il%20concorso%20di%20ammissione%20in%20magistratura%20contenuto%20nel%20R.%20decreto%2019%20luglio%201924%20n.%201218.%20025U1860.md), e successive modificazioni.
 
 3.
 
-Ciascuna sottocommissione procede all'esame orale dei candidati ed all'attribuzione del punteggio finale, osservate, in quanto compatibili, le disposizioni degli [articoli 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;1860#art_15) e [16 del regio decreto 15 ottobre 1925, n. 1860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;1860#art_16).
+Ciascuna sottocommissione procede all'esame orale dei candidati ed all'attribuzione del punteggio finale, osservate, in quanto compatibili, le disposizioni degli [articoli 15](../Regi%20decreti/Modificazioni%20al%20regolamento%20per%20il%20concorso%20di%20ammissione%20in%20magistratura%20contenuto%20nel%20R.%20decreto%2019%20luglio%201924%20n.%201218.%20025U1860.md) e [16 del regio decreto 15 ottobre 1925, n. 1860](../Regi%20decreti/Modificazioni%20al%20regolamento%20per%20il%20concorso%20di%20ammissione%20in%20magistratura%20contenuto%20nel%20R.%20decreto%2019%20luglio%201924%20n.%201218.%20025U1860.md).
 
 4.
 
@@ -331,11 +331,11 @@ Sono abrogate le norme incompatibili con il presente decreto legislativo ed in p
                             c)
                                 l'[articolo 1, comma 3, della legge 3 febbraio 1989, n. 32](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-02-03;32#art_1-com3);
                             d)
-                                gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;1860#art_1) e [2 del regio decreto 15 ottobre 1925, n. 1860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;1860#art_2);
+                                gli [articoli 1](../Regi%20decreti/Modificazioni%20al%20regolamento%20per%20il%20concorso%20di%20ammissione%20in%20magistratura%20contenuto%20nel%20R.%20decreto%2019%20luglio%201924%20n.%201218.%20025U1860.md) e [2 del regio decreto 15 ottobre 1925, n. 1860](../Regi%20decreti/Modificazioni%20al%20regolamento%20per%20il%20concorso%20di%20ammissione%20in%20magistratura%20contenuto%20nel%20R.%20decreto%2019%20luglio%201924%20n.%201218.%20025U1860.md);
                             e)
-                                l'[articolo 12, comma secondo, del regio decreto 15 ottobre 1925, n. 1860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;1860#art_12-com2), come sostituito, da ultimo, dall'[articolo 1 del decreto del Presidente della Repubblica 31 maggio 1965, n. 617](../DPR/Modifiche%20allart.%202%20del%20decreto%20del%20Presidente%20della%20Repubblica%207%20febbraio%201949%20n.%2028%20che%20reca%20modificazioni%20al%20regolamento%20per%20il%20concorso%20in%20Magistratura%20approvato%20con%20regio%20decreto%2015%20_0049c768e3d4.md);
+                                l'[articolo 12, comma secondo, del regio decreto 15 ottobre 1925, n. 1860](../Regi%20decreti/Modificazioni%20al%20regolamento%20per%20il%20concorso%20di%20ammissione%20in%20magistratura%20contenuto%20nel%20R.%20decreto%2019%20luglio%201924%20n.%201218.%20025U1860.md), come sostituito, da ultimo, dall'[articolo 1 del decreto del Presidente della Repubblica 31 maggio 1965, n. 617](../DPR/Modifiche%20allart.%202%20del%20decreto%20del%20Presidente%20della%20Repubblica%207%20febbraio%201949%20n.%2028%20che%20reca%20modificazioni%20al%20regolamento%20per%20il%20concorso%20in%20Magistratura%20approvato%20con%20regio%20decreto%2015%20_0049c768e3d4.md);
                             f)
-                                l'[articolo 4, primo comma, del regio decreto 15 ottobre 1925, n. 1860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;1860#art_4-com1).
+                                l'[articolo 4, primo comma, del regio decreto 15 ottobre 1925, n. 1860](../Regi%20decreti/Modificazioni%20al%20regolamento%20per%20il%20concorso%20di%20ammissione%20in%20magistratura%20contenuto%20nel%20R.%20decreto%2019%20luglio%201924%20n.%201218.%20025U1860.md).
 
 ### Art. 19.
 

@@ -12,7 +12,7 @@ UMBERTO II
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Visto il testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Visto il [R. decreto-legge 25 febbraio 1939, n. 335](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20per%20la%20valutazione%20dello%20stato%20civile%20ai%20fini%20delle%20nomine%20e%20promozioni%20del%20personale%20dipendente%20dalle%20pubbliche%20amministrazioni.%20039U0335.md);
 

@@ -592,7 +592,7 @@ Per l'omesso o ritardato versamento alle sezioni di tesoreria provinciale o alle
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 29 luglio 2024, n. 110](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20riordino%20del%20sistema%20nazionale%20della%20riscossione.%2024G00128.md), ha disposto (con l'art. 16, comma 3) che "L'articolo 24, comma 1, del regolamento approvato con [decreto del Ministro delle finanze 28 dicembre 1993, n. 567](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze:decreto:1993-12-28;567), e' abrogato". 
+Il [D.Lgs. 29 luglio 2024, n. 110](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20riordino%20del%20sistema%20nazionale%20della%20riscossione.%2024G00128.md), ha disposto (con l'art. 16, comma 3) che "L'articolo 24, comma 1, del regolamento approvato con [decreto del Ministro delle finanze 28 dicembre 1993, n. 567](Regolamento%20di%20attuazione%20dellart.%2078%20commi%20da%2027%20a%2038%20della%20legge%2030%20dicembre%201991%20n.%20413%20concernente%20listituzione%20del%20conto%20fiscale.md), e' abrogato". 
  Ha inoltre disposto (con l'art. 16, comma 5) che "Le disposizioni del presente articolo si applicano a decorrere dal sessantesimo giorno successivo alla data di entrata in vigore del regolamento del Ministro dell'economia e delle finanze di cui all'articolo 28-ter, comma 6, del decreto del Presidente del Repubblica 1973, n. 602, come sostituito dal comma 1, lettera d), del presente articolo".
 
 ## DISPOSIZIONl TRANSITORIE E FINALI

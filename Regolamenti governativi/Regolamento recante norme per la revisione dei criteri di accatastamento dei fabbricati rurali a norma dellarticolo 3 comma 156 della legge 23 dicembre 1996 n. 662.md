@@ -52,7 +52,7 @@ Emana il seguente regolamento:
 
 1.
 
-Per l'accatastamento delle nuove costruzioni e delle variazioni di costruzioni preesistenti, rurali ai sensi dei criteri previsti dall'articolo 2, ovvero per le costruzioni gia' censite al catasto dei terreni, per le quali vengono meno i requisiti per il riconoscimento della ruralita, si applicano le disposizioni di cui all'[articolo 5 del decreto del Ministro delle finanze 2 gennaio 1998, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze:decreto:1998-01-02;28#art_5).
+Per l'accatastamento delle nuove costruzioni e delle variazioni di costruzioni preesistenti, rurali ai sensi dei criteri previsti dall'articolo 2, ovvero per le costruzioni gia' censite al catasto dei terreni, per le quali vengono meno i requisiti per il riconoscimento della ruralita, si applicano le disposizioni di cui all'[articolo 5 del decreto del Ministro delle finanze 2 gennaio 1998, n. 28](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20in%20tema%20di%20costituzione%20del%20catasto%20dei%20fabbricati%20e%20modalita%20di%20produzione%20ed%20adeguamento%20della%20nuova%20cartografia%20catastale.md).
 
 2.
 

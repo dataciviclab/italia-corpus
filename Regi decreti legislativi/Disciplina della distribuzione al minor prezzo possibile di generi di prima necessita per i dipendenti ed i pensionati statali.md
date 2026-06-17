@@ -35,7 +35,7 @@ E' istituito presso il Ministero del tesoro un Comitato interministeriale col co
 
 AGGIORNAMENTO (3)
 
-La [L. 23 febbraio 1982, n. 49](../Atti%20normativi%20abrogati%20%28in%20originale%29/Soppressione%20e%20messa%20in%20liquidazione%20del%20Comitato%20interministeriale%20per%20le%20provvidenze%20agli%20statali%20CIPS.md) ha disposto (con l'art. 1) che "Il Comitato interministeriale per le provvidenze agli statali (CIPS) istituito con l'[articolo 1 del regio decreto legislativo 17 maggio 1946, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-17;388#art_1), e' soppresso e posto in liquidazione con le modalita' stabilite dalla [legge 4 dicembre 1956, n. 1404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-04;1404)".
+La [L. 23 febbraio 1982, n. 49](../Atti%20normativi%20abrogati%20%28in%20originale%29/Soppressione%20e%20messa%20in%20liquidazione%20del%20Comitato%20interministeriale%20per%20le%20provvidenze%20agli%20statali%20CIPS.md) ha disposto (con l'art. 1) che "Il Comitato interministeriale per le provvidenze agli statali (CIPS) istituito con l'[articolo 1 del regio decreto legislativo 17 maggio 1946, n. 388](Disciplina%20della%20distribuzione%20al%20minor%20prezzo%20possibile%20di%20generi%20di%20prima%20necessita%20per%20i%20dipendenti%20ed%20i%20pensionati%20statali.md), e' soppresso e posto in liquidazione con le modalita' stabilite dalla [legge 4 dicembre 1956, n. 1404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-04;1404)".
 
 ## Art. 2.
 
@@ -94,7 +94,7 @@ Per l'attuazione del presente decreto, sono autorizzate le seguenti spese:
 
 AGGIORNAMENTO (1)
 
-La [L. 29 luglio 1949, n. 493](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-07-29;493) ha disposto (con l'art. 3, comma 1) che "A compensazione dell'onere di L. 125.000.000, derivante al bilancio dello Stato nell'esercizio 1948-49 in seguito alle disposizioni del precedente art. 2, l'autorizzazione di spesa di cui all'[art. 9 del regio decreto legislativo 17 maggio 1946, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-17;388#art_9), concernente provvidenze per la distribuzione di generi di prima necessita' ai dipendenti statali, e' ridotta da L. 2.000.000.000 a L. 1.875.000.000".
+La [L. 29 luglio 1949, n. 493](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-07-29;493) ha disposto (con l'art. 3, comma 1) che "A compensazione dell'onere di L. 125.000.000, derivante al bilancio dello Stato nell'esercizio 1948-49 in seguito alle disposizioni del precedente art. 2, l'autorizzazione di spesa di cui all'[art. 9 del regio decreto legislativo 17 maggio 1946, n. 388](Disciplina%20della%20distribuzione%20al%20minor%20prezzo%20possibile%20di%20generi%20di%20prima%20necessita%20per%20i%20dipendenti%20ed%20i%20pensionati%20statali.md), concernente provvidenze per la distribuzione di generi di prima necessita' ai dipendenti statali, e' ridotta da L. 2.000.000.000 a L. 1.875.000.000".
 
 ---------------
 

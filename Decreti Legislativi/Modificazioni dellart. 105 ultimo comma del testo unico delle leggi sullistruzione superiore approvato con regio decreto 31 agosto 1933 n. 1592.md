@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Articolo unico.
 
-Con effetto dal 1 ottobre 1945 l'ultimo comma, dell'art. 105 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e' sostituito dal seguente:
+Con effetto dal 1 ottobre 1945 l'ultimo comma, dell'art. 105 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e' sostituito dal seguente:
  "Finche' l'ufficiale e' in servizio attivo permanente percepisce, nella sua qualita' di professore, trattamento economico pari ad un terzo dello stipendio iniziale previsto dalle vigenti disposizioni per i professori straordinari delle universita' e degli istituti superiori".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.

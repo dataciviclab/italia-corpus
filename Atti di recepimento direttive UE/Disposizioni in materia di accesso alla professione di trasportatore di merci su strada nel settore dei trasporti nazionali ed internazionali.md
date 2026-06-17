@@ -33,7 +33,7 @@ Col presente decreto si da' attuazione alle disposizioni contenute nella diretti
 
 AVVERTENZA:
 
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
  NOTE
 
@@ -53,7 +53,7 @@ AVVERTENZA:
  4) aver stipulato contratto di assicurazione per la responsabilita' civile dipendente dall'uso degli autoveicoli e per i danni alle cose da trasportare, con i massimali prescritti nel regolamento di esecuzione, che comunque non possono essere inferiori a quelli previsti in altre disposizioni legislative in vigore;
  5) aver ottemperato alle norme di legge in materie di previdenza ed assicurazioni sociali per i propri dipendenti;
  6) essere iscritto nei ruoli delle imprese sui redditi delle persone fisiche o giuridiche relativamente al reddito di impresa o avere presentato la dichiarazione relativamente a tale reddito;
- 7) non aver riportato condanne a pene che importino la interdizione da una professione o da un'arte o l'incapacita' ad esercitare uffici direttivi presso qualsiasi impresa, salvo che sia intervenuta riabilitazione a norma degli [articoli 178 e seguenti del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ 7) non aver riportato condanne a pene che importino la interdizione da una professione o da un'arte o l'incapacita' ad esercitare uffici direttivi presso qualsiasi impresa, salvo che sia intervenuta riabilitazione a norma degli [articoli 178 e seguenti del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
  Per i titolari di imprese artigiane, l'incapacita' ad esercitare uffici direttivi non impedisce l'iscrizione nell'albo;
  8) non aver in corso procedura di fallimento, ne' essere stato soggetto a procedura fallimentare, salvo che sia intervenuta riabilitazione a norma degli [articoli 142 e seguenti del regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267#art_142).
  I requisiti e le condizioni di cui ai numeri 7) e 8) devono essere posseduti:
@@ -87,7 +87,7 @@ Nota all'[art. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.l
 ## Art. 4.
 
 Ai fini del soddisfacimento del requisito di cui alla lettera a) del precedente art. 2 - ad integrazione dei punti 7 e 8 dell'[art. 13 della legge 6 giugno 1974, n. 298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-06-06;298#art_13) - gli interessati devono:
- 1) non aver riportato, con sentenza passata in giudicato, condanne superiori a due anni di reclusione per delitti non colposi o una qualsiasi condanna a pena detentiva per delitti contro il patrimonio, la fede pubblica, l'ordine pubblico o per reati puniti a norma degli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-20;75#art_3) e [4 della legge 20 febbraio 1958, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-20;75#art_4), ovvero condanne che comportino interdizione dalla professione o incapacita' di esercitare uffici direttivi presso qualsiasi impresa, per il periodo di durata della pena accessoria, salvo che sia intervenuta precedentemente riabilitazione a norma dell'[art. 178 e seguenti del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); per coloro i quali abbiano in corso procedimenti penali in cui sia stata gia' pronunciata una sentenza di condanna del tipo sopra indicato, l'iscrizione all'albo viene effettuata con riserva;
+ 1) non aver riportato, con sentenza passata in giudicato, condanne superiori a due anni di reclusione per delitti non colposi o una qualsiasi condanna a pena detentiva per delitti contro il patrimonio, la fede pubblica, l'ordine pubblico o per reati puniti a norma degli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-20;75#art_3) e [4 della legge 20 febbraio 1958, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-20;75#art_4), ovvero condanne che comportino interdizione dalla professione o incapacita' di esercitare uffici direttivi presso qualsiasi impresa, per il periodo di durata della pena accessoria, salvo che sia intervenuta precedentemente riabilitazione a norma dell'[art. 178 e seguenti del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); per coloro i quali abbiano in corso procedimenti penali in cui sia stata gia' pronunciata una sentenza di condanna del tipo sopra indicato, l'iscrizione all'albo viene effettuata con riserva;
  2) non essere sottoposto, con provvedimento esecutivo, ad una delle misure di prevenzione previste dalle vigenti disposizioni.
  Il predetto requisito dell'onorabilita' deve essere posseduto:
  quando si tratti di impresa individuale, dal titolare di essa;
@@ -120,7 +120,7 @@ Note all'art. 4:
  5) se il fatto e' commesso ai danni di persone aventi rapporti di servizio domestico o d'impiego;
  6) se il fatto e' commesso da pubblici ufficiali nell'esercizio delle loro funzioni;
  7) se il fatto e' commesso ai danni di piu' persone.
- - La rubrica degli [articoli 178 e seguenti del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) (fino all'art. 181) e' la seguente:
+ - La rubrica degli [articoli 178 e seguenti del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) (fino all'art. 181) e' la seguente:
  art. 178: riabilitazione;
  art. 179: condizioni per la riabilitazione;
  art. 180: revoca della sentenza di riabilitazione;

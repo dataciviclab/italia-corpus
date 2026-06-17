@@ -182,7 +182,7 @@ Ai fini del presente decreto si intende per:
  qqq-bis) «strumenti subordinati computabili»: gli strumenti che soddisfano tutte le condizioni previste dall'articolo 72-bis del regolamento (UE) n. 575/2013, fatta eccezione per l'articolo 72-ter, paragrafi 3, 4 e 5 del medesimo regolamento; 
  rrr) «succursale significativa»: una succursale considerata significativa nello Stato membro nel quale essa e' stabilita ai sensi dell'[articolo 51, paragrafo 1, della direttiva 2013/36/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2013;36); 
  sss) «Testo Unico Bancario»: il [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385); 
- uuu) «Testo Unico della Finanza»: il [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md); 
+ uuu) «Testo Unico della Finanza»: il [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md); 
  vvv) «titoli di debito»: le obbligazioni e altre forme di debito trasferibile, gli strumenti che creano o riconoscono un debito e quelli che conferiscono diritti di acquistare titoli di debito.
 
 ### Art. 2. — Ambito di applicazione
@@ -3696,7 +3696,7 @@ Nel [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.
 
 2.
 
-La violazione dell'obbligo di segreto di cui all'articolo 5, commi 4 e 7, e' punita a norma dell'[articolo 622 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ma si procede d'ufficio.
+La violazione dell'obbligo di segreto di cui all'articolo 5, commi 4 e 7, e' punita a norma dell'[articolo 622 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ma si procede d'ufficio.
 
 ### Art. 102. — Contenuto dei piani di risoluzione
 

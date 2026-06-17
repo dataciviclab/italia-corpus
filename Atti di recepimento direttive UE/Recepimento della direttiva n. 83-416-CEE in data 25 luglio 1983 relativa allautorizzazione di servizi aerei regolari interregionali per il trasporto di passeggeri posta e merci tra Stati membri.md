@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+Visto il [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
 
 Visto l'art. 1, ultimo comma, della [legge 13 maggio 1983, n. 213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-13;213), concernente le modalita' di attuazione delle direttive comunitarie aventi ad oggetto la materia del trasporto aereo;
 
@@ -44,7 +44,7 @@ Le procedure di autorizzazione dei servizi di cui al precedente art. 1 sono disc
 
 ## Art. 3.
 
-Restano salve le disposizioni di cui ai capi I e II del titolo VI, libro I, parte seconda, del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+Restano salve le disposizioni di cui ai capi I e II del titolo VI, libro I, parte seconda, del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

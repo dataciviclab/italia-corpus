@@ -16,7 +16,7 @@ Vista la [legge 31 ottobre 2003, n. 306](../Leggi%20di%20delegazione%20europea/D
 
 Vista la [direttiva 2002/59/CE del Parlamento europeo e del Consiglio, del 27 giugno 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;59), relativa all'istituzione di un sistema comunitario di monitoraggio del traffico navale e d'informazione e che abroga la [direttiva 93/75/CEE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;75);
 
-Visto il [decreto del Presidente della Repubblica 28 settembre 1994, n. 662](../DPR/Regolamento%20di%20attuazione%20della%20legge%203%20aprile%201989%20n.%20147%20concernente%20adesione%20alla%20convenzione%20internazionale%20sulla%20ricerca%20ed%20il%20salvataggio%20marittimo%20adottata%20ad%20Amburgo%20il%2027%20aprile%201979.md);
+Visto il [decreto del Presidente della Repubblica 28 settembre 1994, n. 662](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20della%20legge%203%20aprile%201989%20n.%20147%20concernente%20adesione%20alla%20convenzione%20internazionale%20sulla%20ricerca%20ed%20il%20salvataggio%20marittimo%20adottata%20ad%20Amburgo%20il%2027%20aprile%201979.md);
 
 Visto il [decreto legislativo 1° agosto 2003, n. 259](../Decreti%20Legislativi/Codice%20delle%20comunicazioni%20elettroniche.md);
 
@@ -42,7 +42,7 @@ Scopo del presente decreto e' di istituire un sistema di monitoraggio del traffi
 
 Avvertenza:
 
- Nella Gazzetta Ufficiale - serie generale - del 13 ottobre 2005 si procedera' alla ripubblicazione del testo del presente decreto legislativo, corredato delle relative note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 14 marzo 1986, n. 217](../DPR/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblica_e0836c31af30.md).
+ Nella Gazzetta Ufficiale - serie generale - del 13 ottobre 2005 si procedera' alla ripubblicazione del testo del presente decreto legislativo, corredato delle relative note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 14 marzo 1986, n. 217](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblica_e0836c31af30.md).
 
 ### Art. 2. — Definizioni
 
@@ -98,8 +98,8 @@ Ai fini del presente decreto si intende per:
                                 amministrazione: il Ministero delle infrastrutture e dei trasporti - Comando generale del Corpo delle capitanerie di porto - Guardia costiera;
                             n)
                                 autorita' competenti: le autorita' incaricate delle funzioni contemplate dal presente decreto ovvero, l'amministrazione di cui alla precedente lettera m) quale autorita' nazionale competente, National Competent Authority NCA, ed inoltre, a livello locale, Local Competent Authority LCA: 
- 1) le autorita' marittime ovvero gli uffici marittimi di cui all'[articolo 16 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md); 
- 2) i Centri secondari di soccorso marittimo, MRSC, individuati nel [decreto del Presidente della Repubblica 28 settembre 1994, n. 662](../DPR/Regolamento%20di%20attuazione%20della%20legge%203%20aprile%201989%20n.%20147%20concernente%20adesione%20alla%20convenzione%20internazionale%20sulla%20ricerca%20ed%20il%20salvataggio%20marittimo%20adottata%20ad%20Amburgo%20il%2027%20aprile%201979.md), quali autorita' preposte al coordinamento delle operazioni di ricerca e di salvataggio; 
+ 1) le autorita' marittime ovvero gli uffici marittimi di cui all'[articolo 16 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md); 
+ 2) i Centri secondari di soccorso marittimo, MRSC, individuati nel [decreto del Presidente della Repubblica 28 settembre 1994, n. 662](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20della%20legge%203%20aprile%201989%20n.%20147%20concernente%20adesione%20alla%20convenzione%20internazionale%20sulla%20ricerca%20ed%20il%20salvataggio%20marittimo%20adottata%20ad%20Amburgo%20il%2027%20aprile%201979.md), quali autorita' preposte al coordinamento delle operazioni di ricerca e di salvataggio; 
  3) le Autorita' VTS, come definite con decreto del Ministro delle infrastrutture e dei trasporti in data 28 gennaio 2004, pubblicato nella Gazzetta Ufficiale n. 30 del 6 febbraio 2004, di cui all'allegato 5 aggiornato con decreto dirigenziale del Comandante generale del Corpo delle capitanerie di porto - Guardia costiera;
                             n-bis)
                                 "stazione costiera": il servizio di assistenza al traffico marittimo (VTS), l'impianto a terra incaricato di gestire un sistema di rapportazione obbligatorio approvato dall'IMO o l'organismo incaricato di coordinare le operazioni di ricerca e di salvataggio o di lotta contro l'inquinamento dell'ambiente marino, designati dagli Stati membri in applicazione della [direttiva 2002/59/CE del Parlamento europeo e del Consiglio, del 27 giugno 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;59);
@@ -491,7 +491,7 @@ L'amministrazione che riceve dette informazioni le trasmette all'autorita' marit
 
 1.
 
-Il comandante di una nave che naviga all'interno della regione di interesse nazionale per la ricerca e il salvataggio in mare, come individuata con [decreto del Presidente della Repubblica 28 settembre 1994, n. 662](../DPR/Regolamento%20di%20attuazione%20della%20legge%203%20aprile%201989%20n.%20147%20concernente%20adesione%20alla%20convenzione%20internazionale%20sulla%20ricerca%20ed%20il%20salvataggio%20marittimo%20adottata%20ad%20Amburgo%20il%2027%20aprile%201979.md), rapporta immediatamente all'autorita' marittima competente:
+Il comandante di una nave che naviga all'interno della regione di interesse nazionale per la ricerca e il salvataggio in mare, come individuata con [decreto del Presidente della Repubblica 28 settembre 1994, n. 662](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20della%20legge%203%20aprile%201989%20n.%20147%20concernente%20adesione%20alla%20convenzione%20internazionale%20sulla%20ricerca%20ed%20il%20salvataggio%20marittimo%20adottata%20ad%20Amburgo%20il%2027%20aprile%201979.md), rapporta immediatamente all'autorita' marittima competente:
                             a)
                                 qualsiasi incidente che pregiudica la sicurezza della nave, come collisioni, incagli, avarie, disfunzioni o guasti, allagamento o spostamento del carico, eventuali difetti riscontrati nello scafo o cedimenti della struttura;
                             b)
@@ -646,7 +646,7 @@ L'autorita' marittima, che riceve notizie relative a fatti o situazioni idonei, 
 
 1.
 
-Le comunicazioni previste dal presente decreto sono effettuate, salvo altra espressa indicazione, all'autorita' marittima del luogo di approdo della nave, ovvero ai Centri Secondari di Soccorso Marittimo (MRSC) territorialmente competenti, come individuati dal [decreto del Presidente della Repubblica 28 settembre 1994, n. 662](../DPR/Regolamento%20di%20attuazione%20della%20legge%203%20aprile%201989%20n.%20147%20concernente%20adesione%20alla%20convenzione%20internazionale%20sulla%20ricerca%20ed%20il%20salvataggio%20marittimo%20adottata%20ad%20Amburgo%20il%2027%20aprile%201979.md), per l'attivita' di coordinamento delle operazioni di ricerca e di salvataggio.
+Le comunicazioni previste dal presente decreto sono effettuate, salvo altra espressa indicazione, all'autorita' marittima del luogo di approdo della nave, ovvero ai Centri Secondari di Soccorso Marittimo (MRSC) territorialmente competenti, come individuati dal [decreto del Presidente della Repubblica 28 settembre 1994, n. 662](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20della%20legge%203%20aprile%201989%20n.%20147%20concernente%20adesione%20alla%20convenzione%20internazionale%20sulla%20ricerca%20ed%20il%20salvataggio%20marittimo%20adottata%20ad%20Amburgo%20il%2027%20aprile%201979.md), per l'attivita' di coordinamento delle operazioni di ricerca e di salvataggio.
 
 2.
 
@@ -654,7 +654,7 @@ Gli organismi di cui al comma 1, ricevute le comunicazioni, provvedono alla mess
 
 3.
 
-L'amministrazione comunica alla Commissione europea, anche per le finalita' del presente decreto, l'elenco delle stazioni costiere secondarie come individuate dal [decreto del Presidente della Repubblica 28 settembre 1994, n. 662](../DPR/Regolamento%20di%20attuazione%20della%20legge%203%20aprile%201989%20n.%20147%20concernente%20adesione%20alla%20convenzione%20internazionale%20sulla%20ricerca%20ed%20il%20salvataggio%20marittimo%20adottata%20ad%20Amburgo%20il%2027%20aprile%201979.md).
+L'amministrazione comunica alla Commissione europea, anche per le finalita' del presente decreto, l'elenco delle stazioni costiere secondarie come individuate dal [decreto del Presidente della Repubblica 28 settembre 1994, n. 662](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20della%20legge%203%20aprile%201989%20n.%20147%20concernente%20adesione%20alla%20convenzione%20internazionale%20sulla%20ricerca%20ed%20il%20salvataggio%20marittimo%20adottata%20ad%20Amburgo%20il%2027%20aprile%201979.md).
 
 ### Art. 22-bis. — (( (Sistema europeo per lo scambio di dati marittimi,SafeSeaNet). ))
 

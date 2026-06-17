@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto lo statuto della Regione siciliana, approvato con il [regio decreto legislativo 15 maggio 1946, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-15;455), convertito dalla [legge costituzionale 26 febbraio 1948, n. 2](../Leggi%20costituzionali/Conversione%20in%20legge%20costituzionale%20dello%20Statuto%20della%20Regione%20siciliana%20approvato%20col%20decreto%20legislativo%2015%20maggio%201946%20n.%20455.md);
+Visto lo statuto della Regione siciliana, approvato con il [regio decreto legislativo 15 maggio 1946, n. 455](../Regi%20decreti%20legislativi/Approvazione%20dello%20statuto%20della%20Regione%20siciliana.md), convertito dalla [legge costituzionale 26 febbraio 1948, n. 2](../Leggi%20costituzionali/Conversione%20in%20legge%20costituzionale%20dello%20Statuto%20della%20Regione%20siciliana%20approvato%20col%20decreto%20legislativo%2015%20maggio%201946%20n.%20455.md);
 
 Visto il [decreto del Presidente della Repubblica 30 luglio 1950, n. 878](../DPR/Norme%20di%20attuazione%20dello%20Statuto%20della%20Regione%20siciliana%20in%20materia%20di%20opere%20pubbliche.md);
 

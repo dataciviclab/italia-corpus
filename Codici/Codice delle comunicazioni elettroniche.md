@@ -24,7 +24,7 @@ Vista la [direttiva 2002/22/CE del Parlamento europeo e del Consiglio, del 7 mar
 
 Vista la [direttiva 2002/77/CE della Commissione, del 16 settembre 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;77), relativa alla concorrenza nei mercati delle reti e dei servizi di comunicazione elettronica;
 
-Visto il [codice della navigazione](Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+Visto il [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
 
 Vista la [legge 5 giugno 1962, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-06-05;616);
 
@@ -36,7 +36,7 @@ Vista la Convenzione internazionale per la salvaguardia della vita umana in mare
 
 Vista la [legge 21 giugno 1986, n. 317](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20di%20attuazione%20di%20disciplina%20europea%20in%20materia%20di%20normazione%20europea%20e%20procedura%20dinformazione%20nel%20settore%20delle%20regolamentazioni%20tecniche%20e%20delle%20regole%20relative%20ai%20servizi%20_a1d2667472c9.md), come modificata dal [decreto legislativo 23 novembre 2000, n. 427](../Atti%20di%20recepimento%20direttive%20UE/Modifiche%20ed%20integrazioni%20alla%20legge%2021%20giugno%201986%20n.%20317%20concernenti%20la%20procedura%20di%20informazione%20nel%20settore%20delle%20norme%20e%20regolamentazioni%20tecniche%20e%20delle%20regole%20relative%20ai%20servizi%20_dc279226938d.md);
 
-Visto il [decreto del Presidente della Repubblica 8 novembre 1991, n. 435](../DPR/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20della%20navigazione%20e%20della%20vita%20umana%20in%20mare_2.md);
+Visto il [decreto del Presidente della Repubblica 8 novembre 1991, n. 435](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20della%20navigazione%20e%20della%20vita%20umana%20in%20mare_2.md);
 
 Visto il [decreto legislativo 9 febbraio 1993, n. 55](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2090-387-CEE%20concernente%20istituzione%20del%20mercato%20interno%20per%20i%20servizi%20delle%20telecomunicazioni%20mediante%20la%20realizzazione%20della%20fornitura%20di%20una%20rete%20aperta%20di%20tel_39136300fc24.md);
 
@@ -1734,8 +1734,8 @@ Sono, in ogni caso, fatti salvi gli accordi stipulati tra gli Enti locali e gli 
 
 4.
 
-Le infrastrutture di reti pubbliche di comunicazione, di cui agli articoli 44 e 49, e le opere di infrastrutturazione per la realizzazione delle reti di comunicazione elettronica ad alta velocita' in fibra ottica in grado di fornire servizi di accesso a banda ultra larga, effettuate anche all'interno degli edifici sono assimilate ad ogni effetto alle opere di urbanizzazione primaria di cui all'[articolo 16, comma 7, del decreto del Presidente della Repubblica 6 giugno 2001, n. 380](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md), pur restando di proprieta' dei rispettivi operatori, e ad esse si applica la normativa vigente in materia, fatto salvo quanto previsto dagli articoli 44 e 49 con riferimento alle autorizzazioni per la realizzazione della rete di comunicazioni elettroniche e degli elementi ad essa collegati per le quali si attua il regime di semplificazione ivi previsto.
-L'autorizzazione all'installazione delle reti pubbliche di comunicazione elettronica comprende la valutazione di compatibilita' delle relative opere infrastrutturali con la disciplina urbanistica ed edilizia e costituisce titolo unico per la loro installazione. Gli elementi di reti di comunicazione elettronica ad alta velocita' e le altre infrastrutture di reti pubbliche di comunicazione, di cui agli articoli 44 e 49, nonche' le opere di infrastrutturazione per la realizzazione delle reti di comunicazione elettronica ad alta velocita' in fibra ottica in grado di fornire servizi di accesso a banda ultra larga, effettuate anche all'interno di edifici, da chiunque posseduti, non costituiscono unita' immobiliari ai sensi dell'[articolo 2 del decreto del Ministro delle finanze 2 gennaio 1998, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze:decreto:1998-01-02;28#art_2), e non rilevano ai fini della determinazione della rendita catastale.
+Le infrastrutture di reti pubbliche di comunicazione, di cui agli articoli 44 e 49, e le opere di infrastrutturazione per la realizzazione delle reti di comunicazione elettronica ad alta velocita' in fibra ottica in grado di fornire servizi di accesso a banda ultra larga, effettuate anche all'interno degli edifici sono assimilate ad ogni effetto alle opere di urbanizzazione primaria di cui all'[articolo 16, comma 7, del decreto del Presidente della Repubblica 6 giugno 2001, n. 380](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md), pur restando di proprieta' dei rispettivi operatori, e ad esse si applica la normativa vigente in materia, fatto salvo quanto previsto dagli articoli 44 e 49 con riferimento alle autorizzazioni per la realizzazione della rete di comunicazioni elettroniche e degli elementi ad essa collegati per le quali si attua il regime di semplificazione ivi previsto.
+L'autorizzazione all'installazione delle reti pubbliche di comunicazione elettronica comprende la valutazione di compatibilita' delle relative opere infrastrutturali con la disciplina urbanistica ed edilizia e costituisce titolo unico per la loro installazione. Gli elementi di reti di comunicazione elettronica ad alta velocita' e le altre infrastrutture di reti pubbliche di comunicazione, di cui agli articoli 44 e 49, nonche' le opere di infrastrutturazione per la realizzazione delle reti di comunicazione elettronica ad alta velocita' in fibra ottica in grado di fornire servizi di accesso a banda ultra larga, effettuate anche all'interno di edifici, da chiunque posseduti, non costituiscono unita' immobiliari ai sensi dell'[articolo 2 del decreto del Ministro delle finanze 2 gennaio 1998, n. 28](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20in%20tema%20di%20costituzione%20del%20catasto%20dei%20fabbricati%20e%20modalita%20di%20produzione%20ed%20adeguamento%20della%20nuova%20cartografia%20catastale.md), e non rilevano ai fini della determinazione della rendita catastale.
 
 5.
 
@@ -1743,7 +1743,7 @@ Restano ferme le disposizioni a tutela dei beni ambientali e culturali contenute
 
 6.
 
-Si applicano, per la posa dei cavi sottomarini di comunicazione elettronica e dei relativi impianti, le disposizioni di cui al [decreto-legge 4 marzo 1989, n. 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-03-04;77), convertito, con modificazioni, dalla [legge 5 maggio 1989, n. 160](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20marzo%201989%20n.%2077%20recante%20disposizioni%20urgenti%20in%20materia%20di%20trasporti%20e%20di%20concessioni%20marittime.md), ed al [regio decreto 30 marzo 1942, n. 327](Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), recante il [codice della navigazione](Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+Si applicano, per la posa dei cavi sottomarini di comunicazione elettronica e dei relativi impianti, le disposizioni di cui al [decreto-legge 4 marzo 1989, n. 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-03-04;77), convertito, con modificazioni, dalla [legge 5 maggio 1989, n. 160](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20marzo%201989%20n.%2077%20recante%20disposizioni%20urgenti%20in%20materia%20di%20trasporti%20e%20di%20concessioni%20marittime.md), ed al [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), recante il [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 7.
 
@@ -1933,7 +1933,7 @@ Qualora l'installazione delle infrastrutture di comunicazione elettronica intere
 
 9.
 
-Fermo restando quanto previsto al comma 7, la conferenza di servizi deve concludersi entro il termine perentorio massimo di sessanta giorni dalla data di presentazione dell'istanza. Fatti salvi i casi in cui disposizioni del diritto dell'Unione europea richiedono l'adozione di provvedimenti espressi, la mancata comunicazione della determinazione decisoria della conferenza entro il predetto termine perentorio equivale ad accoglimento dell'istanza, salvo che non sia stato espresso un dissenso, congruamente motivato, da parte di un'Amministrazione preposta alla tutela ambientale, paesaggistico-territoriale o dei beni culturali. Nei gia' menzionati casi di dissenso congruamente motivato, ove non sia stata adottata la determinazione decisoria finale nel termine di cui al primo periodo, si applica l'[articolo 2, comma 9-ter, della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_2-com9ter). L'accoglimento dell'istanza sostituisce ad ogni effetto gli atti di assenso, comunque denominati e necessari per l'effettuazione degli scavi e delle eventuali opere civili indicate nel progetto, di competenza delle amministrazioni coinvolte nel procedimento, i soggetti direttamente interessati all'installazione degli enti e dei gestori di beni o servizi pubblici interessati e vale, altresi', come dichiarazione di pubblica utilita', indifferibilita' ed urgenza dei lavori, anche ai sensi degli [articoli 12 e seguenti del decreto del Presidente della Repubblica 8 giugno 2001, n. 327](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20espropriazione%20per%20pubblica%20utilita.%20Testo%20A.md). Decorso il termine di cui al primo periodo, l'amministrazione procedente comunica, entro il termine perentorio di sette giorni, l'attestazione di avvenuta autorizzazione, scaduto il quale e' sufficiente l'autocertificazione del richiedente.
+Fermo restando quanto previsto al comma 7, la conferenza di servizi deve concludersi entro il termine perentorio massimo di sessanta giorni dalla data di presentazione dell'istanza. Fatti salvi i casi in cui disposizioni del diritto dell'Unione europea richiedono l'adozione di provvedimenti espressi, la mancata comunicazione della determinazione decisoria della conferenza entro il predetto termine perentorio equivale ad accoglimento dell'istanza, salvo che non sia stato espresso un dissenso, congruamente motivato, da parte di un'Amministrazione preposta alla tutela ambientale, paesaggistico-territoriale o dei beni culturali. Nei gia' menzionati casi di dissenso congruamente motivato, ove non sia stata adottata la determinazione decisoria finale nel termine di cui al primo periodo, si applica l'[articolo 2, comma 9-ter, della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_2-com9ter). L'accoglimento dell'istanza sostituisce ad ogni effetto gli atti di assenso, comunque denominati e necessari per l'effettuazione degli scavi e delle eventuali opere civili indicate nel progetto, di competenza delle amministrazioni coinvolte nel procedimento, i soggetti direttamente interessati all'installazione degli enti e dei gestori di beni o servizi pubblici interessati e vale, altresi', come dichiarazione di pubblica utilita', indifferibilita' ed urgenza dei lavori, anche ai sensi degli [articoli 12 e seguenti del decreto del Presidente della Repubblica 8 giugno 2001, n. 327](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20espropriazione%20per%20pubblica%20utilita.%20Testo%20A.md). Decorso il termine di cui al primo periodo, l'amministrazione procedente comunica, entro il termine perentorio di sette giorni, l'attestazione di avvenuta autorizzazione, scaduto il quale e' sufficiente l'autocertificazione del richiedente.
 
 10.
 
@@ -1957,13 +1957,13 @@ Le figure soggettive esercenti pubblici servizi o titolari di pubbliche funzioni
 
 1.
 
-Gli interventi di cui agli articoli 44 e 45 del presente codice, relativi agli impianti delle opere prive di rilevanza o di minore rilevanza di cui agli articoli 94 e 94-bis del testo unico di cui al [decreto del Presidente della Repubblica 6 giugno 2001, n. 380](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md), e gli interventi di cui agli articoli 46, 47 e 49 del presente codice non sono soggetti all'autorizzazione preventiva di cui all'articolo 94 del testo unico di cui al [decreto del Presidente della Repubblica 6 giugno 2001, n. 380](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md).
+Gli interventi di cui agli articoli 44 e 45 del presente codice, relativi agli impianti delle opere prive di rilevanza o di minore rilevanza di cui agli articoli 94 e 94-bis del testo unico di cui al [decreto del Presidente della Repubblica 6 giugno 2001, n. 380](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md), e gli interventi di cui agli articoli 46, 47 e 49 del presente codice non sono soggetti all'autorizzazione preventiva di cui all'articolo 94 del testo unico di cui al [decreto del Presidente della Repubblica 6 giugno 2001, n. 380](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md).
 
 2.
 
 Sono interventi privi di rilevanza, a titolo esemplificativo: microcelle, impianti di copertura indoor e in galleria e le infrastrutture costituite da pali/paline di altezza inferiore o uguale a mt 4 il cui peso non sia superiore a 6,00 KN.
 
-3. Gli interventi di cui al comma 1 che hanno minore rilevanza e prevedono l'esecuzione di lavori strutturali nelle localita' sismiche individuate ai sensi dell'articolo 83 del testo unico di cui al [decreto del Presidente della Repubblica 6 giugno 2001, n. 380](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md), sono soggetti al preventivo deposito in formato digitale del progetto strutturale presso l'Ufficio del genio civile, accompagnato dalla dichiarazione del progettista che assevera il rispetto delle norme tecniche per le costruzioni, la coerenza tra il progetto esecutivo riguardante le strutture e quello architettonico nonche' il rispetto delle eventuali prescrizioni sismiche contenute negli strumenti di pianificazione urbanistica. L'avvenuto deposito abilita all'inizio dei relativi lavori))
+3. Gli interventi di cui al comma 1 che hanno minore rilevanza e prevedono l'esecuzione di lavori strutturali nelle localita' sismiche individuate ai sensi dell'articolo 83 del testo unico di cui al [decreto del Presidente della Repubblica 6 giugno 2001, n. 380](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md), sono soggetti al preventivo deposito in formato digitale del progetto strutturale presso l'Ufficio del genio civile, accompagnato dalla dichiarazione del progettista che assevera il rispetto delle norme tecniche per le costruzioni, la coerenza tra il progetto esecutivo riguardante le strutture e quello architettonico nonche' il rispetto delle eventuali prescrizioni sismiche contenute negli strumenti di pianificazione urbanistica. L'avvenuto deposito abilita all'inizio dei relativi lavori))
 
 ### Art. 49-ter. — (( (Inefficacia del provvedimento tardivo di diniego). ))
 
@@ -2021,7 +2021,7 @@ I provvedimenti adottati dall'Autorita' o dal Ministero conformemente al present
 
 1.
 
-Gli impianti di reti di comunicazione elettronica ad uso pubblico, quelli esercitati dallo Stato e le opere accessorie occorrenti per la funzionalita' di detti impianti hanno carattere di pubblica utilita', ai sensi degli [articoli 12 e seguenti del decreto del Presidente della Repubblica 8 giugno 2001, n. 327](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20espropriazione%20per%20pubblica%20utilita.%20Testo%20A.md).
+Gli impianti di reti di comunicazione elettronica ad uso pubblico, quelli esercitati dallo Stato e le opere accessorie occorrenti per la funzionalita' di detti impianti hanno carattere di pubblica utilita', ai sensi degli [articoli 12 e seguenti del decreto del Presidente della Repubblica 8 giugno 2001, n. 327](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20espropriazione%20per%20pubblica%20utilita.%20Testo%20A.md).
 
 2.
 
@@ -2085,7 +2085,7 @@ L'operatore incaricato del servizio puo' agire direttamente in giudizio per far 
 
 1.
 
-Fuori dei casi previsti dall'articolo 52, le servitu' occorrenti al passaggio con appoggio dei fili, cavi ed impianti connessi alle opere considerate dall'articolo 51, sul suolo, nel sottosuolo o sull'area soprastante, sono imposte, in mancanza del consenso del proprietario ed anche se costituite su beni demaniali, ai sensi del [decreto del Presidente della Repubblica 8 giugno 2001, n. 327](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20espropriazione%20per%20pubblica%20utilita.%20Testo%20A.md), e della [legge 1° agosto 2002, n. 166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-08-01;166).
+Fuori dei casi previsti dall'articolo 52, le servitu' occorrenti al passaggio con appoggio dei fili, cavi ed impianti connessi alle opere considerate dall'articolo 51, sul suolo, nel sottosuolo o sull'area soprastante, sono imposte, in mancanza del consenso del proprietario ed anche se costituite su beni demaniali, ai sensi del [decreto del Presidente della Repubblica 8 giugno 2001, n. 327](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20espropriazione%20per%20pubblica%20utilita.%20Testo%20A.md), e della [legge 1° agosto 2002, n. 166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-08-01;166).
 
 2.
 
@@ -2093,7 +2093,7 @@ Se trattasi di demanio statale, il passaggio deve essere consentito dall'autorit
 
 3.
 
-L'occorrente procedura, corredata dal progetto degli impianti e del piano descrittivo dei luoghi, e' promossa dall'Autorita' espropriante che, ove ne ricorrano le condizioni, impone la servitu' richiesta e determina l'indennita' dovuta ai sensi dell'[articolo 44 del d.P.R. 8 giugno 2001, n. 327](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20espropriazione%20per%20pubblica%20utilita.%20Testo%20A.md).
+L'occorrente procedura, corredata dal progetto degli impianti e del piano descrittivo dei luoghi, e' promossa dall'Autorita' espropriante che, ove ne ricorrano le condizioni, impone la servitu' richiesta e determina l'indennita' dovuta ai sensi dell'[articolo 44 del d.P.R. 8 giugno 2001, n. 327](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20espropriazione%20per%20pubblica%20utilita.%20Testo%20A.md).
 
 4.
 
@@ -2223,7 +2223,7 @@ Nelle interferenze tra cavi di comunicazione elettronica sotterrati e cavi di en
 
 6.
 
-Qualora, a causa di impianti di energia elettrica, anche se approvati dalle autorita' competenti, si abbia un turbamento o la presenza di interferenze alle reti di comunicazione elettronica, il Ministero promuove, sentite le predette autorita', lo spostamento degli impianti o adotta i provvedimenti idonei ad eliminare i disturbi, a norma dell'articolo 127 del testo unico delle disposizioni di legge sulle acque e sugli impianti elettrici, approvato con [regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775). Le relative spese sono a carico di chi le rende necessarie.
+Qualora, a causa di impianti di energia elettrica, anche se approvati dalle autorita' competenti, si abbia un turbamento o la presenza di interferenze alle reti di comunicazione elettronica, il Ministero promuove, sentite le predette autorita', lo spostamento degli impianti o adotta i provvedimenti idonei ad eliminare i disturbi, a norma dell'articolo 127 del testo unico delle disposizioni di legge sulle acque e sugli impianti elettrici, approvato con [regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md). Le relative spese sono a carico di chi le rende necessarie.
 
 7.
 
@@ -4526,7 +4526,7 @@ Alla dichiarazione di cui ((al comma 1)) deve essere acclusa la domanda di conce
  2) le frequenze, comprese nelle bande attribuite al tipo di servizio che si intende gestire, di cui si propone l'utilizzazione; 
  3) il numero delle stazioni radioelettriche previste per il collegamento;
                             b)
-                                la dichiarazione sostitutiva di atto di notorieta' conforme all'allegato n. 20 per i soggetti per i quali va acquisita la documentazione antimafia, ai sensi del [decreto legislativo 8 agosto 1994, n. 490](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20attuative%20della%20legge%2017%20gennaio%201994%20n.%2047%20in%20materia%20di%20comunicazioni%20e%20certificazioni%20previste%20dalla%20normativa%20antimafia%20%20nonche%20disposizioni%20concernenti%20i%20poteri%20del%20pref_5eca31c4ca9b.md), e del [decreto del Presidente della Repubblica 3 giugno 1998, n. 252](../DPR/Regolamento%20recante%20norme%20per%20la%20semplificazione%20dei%20procedimenti%20relativi%20al%20rilascio%20delle%20comunicazioni%20e%20delle%20informazioni%20antimafia.md).
+                                la dichiarazione sostitutiva di atto di notorieta' conforme all'allegato n. 20 per i soggetti per i quali va acquisita la documentazione antimafia, ai sensi del [decreto legislativo 8 agosto 1994, n. 490](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20attuative%20della%20legge%2017%20gennaio%201994%20n.%2047%20in%20materia%20di%20comunicazioni%20e%20certificazioni%20previste%20dalla%20normativa%20antimafia%20%20nonche%20disposizioni%20concernenti%20i%20poteri%20del%20pref_5eca31c4ca9b.md), e del [decreto del Presidente della Repubblica 3 giugno 1998, n. 252](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20la%20semplificazione%20dei%20procedimenti%20relativi%20al%20rilascio%20delle%20comunicazioni%20e%20delle%20informazioni%20antimafia.md).
 
 3.
 
@@ -4546,7 +4546,7 @@ La dichiarazione contiene le informazioni riguardanti l'interessato, le indicazi
                             a)
                                 il progetto tecnico del collegamento nel caso di installazione ed esercizio di una rete di comunicazione elettronica su supporto fisico, ad onde convogliate e su sistemi ottici, sottoscritto da un soggetto abilitato;
                             b)
-                                la dichiarazione sostitutiva di atto di notorieta' conforme all'allegato n. 20 per i soggetti per i quali va acquisita la documentazione antimafia, ai sensi del [decreto legislativo 8 agosto 1994, n. 490](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20attuative%20della%20legge%2017%20gennaio%201994%20n.%2047%20in%20materia%20di%20comunicazioni%20e%20certificazioni%20previste%20dalla%20normativa%20antimafia%20%20nonche%20disposizioni%20concernenti%20i%20poteri%20del%20pref_5eca31c4ca9b.md), e del [decreto del Presidente della Repubblica 3 giugno 1998, n. 252](../DPR/Regolamento%20recante%20norme%20per%20la%20semplificazione%20dei%20procedimenti%20relativi%20al%20rilascio%20delle%20comunicazioni%20e%20delle%20informazioni%20antimafia.md);
+                                la dichiarazione sostitutiva di atto di notorieta' conforme all'allegato n. 20 per i soggetti per i quali va acquisita la documentazione antimafia, ai sensi del [decreto legislativo 8 agosto 1994, n. 490](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20attuative%20della%20legge%2017%20gennaio%201994%20n.%2047%20in%20materia%20di%20comunicazioni%20e%20certificazioni%20previste%20dalla%20normativa%20antimafia%20%20nonche%20disposizioni%20concernenti%20i%20poteri%20del%20pref_5eca31c4ca9b.md), e del [decreto del Presidente della Repubblica 3 giugno 1998, n. 252](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20la%20semplificazione%20dei%20procedimenti%20relativi%20al%20rilascio%20delle%20comunicazioni%20e%20delle%20informazioni%20antimafia.md);
                             c)
                                 gli attestati dell'avvenuto versamento del contributo a titolo di rimborso delle spese riguardanti l'attivita' di vigilanza e controllo relativo al primo anno dal quale decorre l'autorizzazione generale.
 
@@ -4958,7 +4958,7 @@ Il Ministero puo' affidare, senza nuovi o maggiori oneri a carico della finanza 
 
 L'impianto e l'esercizio della stazione di radioamatore sono consentiti a chi:
                             a)
-                                abbia la cittadinanza di uno dei Paesi dell'Unione europea o dello Spazio Economico Europeo, di Paesi con i quali siano intercorsi accordi di reciprocita', fermo restando quanto disposto dall'[articolo 2, comma 2, del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), ovvero sia residente in Italia;
+                                abbia la cittadinanza di uno dei Paesi dell'Unione europea o dello Spazio Economico Europeo, di Paesi con i quali siano intercorsi accordi di reciprocita', fermo restando quanto disposto dall'[articolo 2, comma 2, del decreto legislativo 25 luglio 1998, n. 286](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), ovvero sia residente in Italia;
                             b)
                                 abbia eta' non inferiore a ((quattordici anni));
                             c)
@@ -5098,7 +5098,7 @@ L'esercizio della stazione deve, nei detti casi, essere affidata ad operatori in
 
 1.
 
-Le comunicazioni in "banda cittadina"-CB, di cui all'articolo 105, comma 2, lettera p), sono consentite ai cittadini di eta' non inferiore ai 14 anni dei Paesi dell'Unione europea o dello Spazio Economico Europeo ovvero dei Paesi con i quali siano intercorsi accordi di reciprocita', fermo restando quanto disposto dall'[articolo 2, comma 2, del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), nonche' ai soggetti residenti in Italia.
+Le comunicazioni in "banda cittadina"-CB, di cui all'articolo 105, comma 2, lettera p), sono consentite ai cittadini di eta' non inferiore ai 14 anni dei Paesi dell'Unione europea o dello Spazio Economico Europeo ovvero dei Paesi con i quali siano intercorsi accordi di reciprocita', fermo restando quanto disposto dall'[articolo 2, comma 2, del decreto legislativo 25 luglio 1998, n. 286](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), nonche' ai soggetti residenti in Italia.
 
 2.
 
@@ -5210,14 +5210,14 @@ E' punito con l'arresto fino a sei mesi e con l'ammenda da euro 150,00 a euro 1.
 
 1.
 
-Se i reati di cui al presente Titolo sono commessi in alto mare o all'estero, la competenza e' determinata secondo le disposizioni dell'[articolo 1240 del codice della navigazione](Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+Se i reati di cui al presente Titolo sono commessi in alto mare o all'estero, la competenza e' determinata secondo le disposizioni dell'[articolo 1240 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 2.
 
 Se il cittadino ha commesso alcuno dei reati stessi a bordo di una nave straniera in alto mare, e deve essere giudicato nello Stato, la competenza territoriale e' determinata secondo le norme del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447).
 
-Nota all'[art. 153](Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md):
- - L'[art. 1240 del codice della navigazione](Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) cosi' recita:
+Nota all'[art. 153](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md):
+ - L'[art. 1240 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) cosi' recita:
  «Art. 1240 (Competenza per territorio). - La competenza territoriale per i reati, previsti dal presente codice, commessi all'estero ovvero fuori del mare o dello spazio aereo territoriale appartiene al giudice del luogo in cui, dopo che e' stato commesso il reato, avviene nella Repubblica il primo approdo della nave o dell'aeromobile, su cui era imbarcato l'imputato al momento del commesso reato.
  Se, prima dell'approdo nella Repubblica, ha avuto luogo la presentazione del rapporto, della denuncia o della querela alle autorita' consolari o ai comandanti di navi da guerra, ovvero se tali autorita' hanno espletato funzioni di polizia giudiziaria, ovvero se la competenza non puo' essere determinata nel modo indicato nel comma precedente, la competenza appartiene al giudice del luogo d'iscrizione della nave o di abituale ricovero dell'aeromobile, su cui era imbarcato l'imputato al momento del commesso reato.
  Nei casi di competenza dell'autorita' consolare, se, al momento della partenza della nave o dell'aeromobile dal luogo nel quale risiede tale autorita' non e' stata ancora pronunciata la sentenza di merito, la competenza passa al giudice competente per territorio a norma dei commi precedenti. Gli atti istruttori compiuti dall'autorita' consolare conservano pieno valore anche avanti il giudice competente.».
@@ -5259,14 +5259,14 @@ Gli ufficiali che, ai sensi dell'articolo 154, hanno facolta' di chiedere l'esib
 
 1.
 
-Per i danni cagionati dai reati previsti dal presente Titolo si applicano le norme contenute negli [articoli 185 e seguenti del codice penale](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Per i danni cagionati dai reati previsti dal presente Titolo si applicano le norme contenute negli [articoli 185 e seguenti del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 2.
 
 Per le indennita' previste nella prima parte dell'articolo 7 della Convenzione internazionale del 14 marzo 1884, si osserva la disposizione contenuta nel capoverso dello stesso articolo.
 
-Nota all'[art. 157](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md):
- - Gli [articoli 185 e seguenti del codice penale](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) riguardano: «Restituzioni e risarcimento del danno».
+Nota all'[art. 157](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md):
+ - Gli [articoli 185 e seguenti del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) riguardano: «Restituzioni e risarcimento del danno».
 
 ## IMPIANTI RADIOELETTRICI - - - - Capo I DISPOSIZIONI DI CARATTERE GENERALE
 
@@ -5283,14 +5283,14 @@ Per l'impianto e l'esercizio di stazioni radioelettriche da parte delle Amminist
 
 1.
 
-Ferme restando le norme vigenti in materia di sicurezza della navigazione aerea, la competenza sull'organizzazione dei servizi radioelettrici costieri inerenti alla sicurezza della navigazione marittima spetta, ai sensi del [decreto del Presidente della Repubblica 28 settembre 1994, n. 662](../DPR/Regolamento%20di%20attuazione%20della%20legge%203%20aprile%201989%20n.%20147%20concernente%20adesione%20alla%20convenzione%20internazionale%20sulla%20ricerca%20ed%20il%20salvataggio%20marittimo%20adottata%20ad%20Amburgo%20il%2027%20aprile%201979.md), al Ministero delle infrastrutture e dei trasporti, il quale, per lo svolgimento di tale servizio, puo' avvalersi di idonei titolari di apposita autorizzazione generale per l'istallazione e l'esercizio di una rete di stazioni costiere allo scopo di prestare il servizio mobile marittimo e di stazioni terrene allo scopo di prestare il servizio mobile via satellite Inmarsat. I rapporti tra il Ministero delle infrastrutture e dei trasporti e il titolare del suddetto provvedimento, all'uopo individuato dal Ministero, sono regolati mediante uno specifico accordo tra le parti.
+Ferme restando le norme vigenti in materia di sicurezza della navigazione aerea, la competenza sull'organizzazione dei servizi radioelettrici costieri inerenti alla sicurezza della navigazione marittima spetta, ai sensi del [decreto del Presidente della Repubblica 28 settembre 1994, n. 662](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20della%20legge%203%20aprile%201989%20n.%20147%20concernente%20adesione%20alla%20convenzione%20internazionale%20sulla%20ricerca%20ed%20il%20salvataggio%20marittimo%20adottata%20ad%20Amburgo%20il%2027%20aprile%201979.md), al Ministero delle infrastrutture e dei trasporti, il quale, per lo svolgimento di tale servizio, puo' avvalersi di idonei titolari di apposita autorizzazione generale per l'istallazione e l'esercizio di una rete di stazioni costiere allo scopo di prestare il servizio mobile marittimo e di stazioni terrene allo scopo di prestare il servizio mobile via satellite Inmarsat. I rapporti tra il Ministero delle infrastrutture e dei trasporti e il titolare del suddetto provvedimento, all'uopo individuato dal Ministero, sono regolati mediante uno specifico accordo tra le parti.
 
 2.
 
 All'impianto ed all'esercizio delle stazioni costiere ad esclusivo uso militare provvede direttamente il Ministero della difesa. L'impianto e l'esercizio da parte delle Amministrazioni dello Stato di stazioni costiere che operino nelle gamme di frequenza attribuite al servizio mobile marittimo o mobile marittimo via satellite dal regolamento delle radiocomunicazioni dell'UIT, ad eccezione di quelle di cui al comma 1, e' sottoposto al consenso di cui all'articolo 100, che e' rilasciato previa verifica della compatibilita' con la rete di cui allo stesso comma 1 del presente articolo.
 
 Nota all'[art. 159:
- - Il decreto del Presidente della Repubblica 28 settembre 1994, n. 662](../DPR/Regolamento%20di%20attuazione%20della%20legge%203%20aprile%201989%20n.%20147%20concernente%20adesione%20alla%20convenzione%20internazionale%20sulla%20ricerca%20ed%20il%20salvataggio%20marittimo%20adottata%20ad%20Amburgo%20il%2027%20aprile%201979.md), recante: «Regolamento di attuazione della [legge 3 aprile 1989, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-03;147), concernente adesione alla convenzione internazionale sulla ricerca ed il salvataggio marittimo, adottata ad Amburgo il 27 aprile 1979» e' pubblicato nella Gazzetta Ufficiale 1° dicembre 1994, n. 281.
+ - Il decreto del Presidente della Repubblica 28 settembre 1994, n. 662](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20della%20legge%203%20aprile%201989%20n.%20147%20concernente%20adesione%20alla%20convenzione%20internazionale%20sulla%20ricerca%20ed%20il%20salvataggio%20marittimo%20adottata%20ad%20Amburgo%20il%2027%20aprile%201979.md), recante: «Regolamento di attuazione della [legge 3 aprile 1989, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-03;147), concernente adesione alla convenzione internazionale sulla ricerca ed il salvataggio marittimo, adottata ad Amburgo il 27 aprile 1979» e' pubblicato nella Gazzetta Ufficiale 1° dicembre 1994, n. 281.
 
 ### Art. 160. — Licenza di esercizio
 
@@ -5379,7 +5379,7 @@ Il servizio radioelettrico mobile marittimo via satellite e' un servizio effettu
 
 1.
 
-Ai fini del presente Titolo, per navi si intendono quelle definite dal [Codice della navigazione](Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), escluse le navi militari e quelle appartenenti alle forze di polizia di Stato.
+Ai fini del presente Titolo, per navi si intendono quelle definite dal [Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), escluse le navi militari e quelle appartenenti alle forze di polizia di Stato.
 
 2.
 
@@ -5597,7 +5597,7 @@ Il Ministero, sentito il Ministero delle infrastrutture e dei trasporti, determi
 
 1.
 
-Al personale addetto al servizio radioelettrico di bordo, iscritto alla gente di mare, per le infrazioni commesse durante l'esercizio del servizio stesso, si applicano le sanzioni previste dal [codice della navigazione](Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), che sono comminate dalle autorita' marittime anche su proposta del Ministero, nonche' le sanzioni contemplate dalle disposizioni del presente Titolo.
+Al personale addetto al servizio radioelettrico di bordo, iscritto alla gente di mare, per le infrazioni commesse durante l'esercizio del servizio stesso, si applicano le sanzioni previste dal [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), che sono comminate dalle autorita' marittime anche su proposta del Ministero, nonche' le sanzioni contemplate dalle disposizioni del presente Titolo.
 
 2.
 
@@ -5791,14 +5791,14 @@ Il servizio radioelettrico mobile aeronautico e' un servizio effettuato fra staz
 
 1.
 
-Ai fini del presente Capo, per aeromobili si intendono quelli definiti dall'[articolo 743 del codice della navigazione](Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), esclusi quelli militari.
+Ai fini del presente Capo, per aeromobili si intendono quelli definiti dall'[articolo 743 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), esclusi quelli militari.
 
 2.
 
 Per tutti gli altri termini del servizio radioelettrico mobile aereo, si intendono valide le definizioni date dal regolamento delle radiocomunicazioni dell'UIT.
 
-Nota all'[art. 199](Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md):
- - L'[art. 743 del codice della navigazione](Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) cosi' recita:
+Nota all'[art. 199](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md):
+ - L'[art. 743 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) cosi' recita:
  «Art. 743 (Nozione di aeromobile). - Per aeromobile si intende ogni macchina atta al trasporto per aria di persone o cose da un luogo ad un altro.
  Le distinzioni degli aeromobili, secondo le loro caratteristiche tecniche, sono stabilite dal regolamento.».
 
@@ -6109,7 +6109,7 @@ Note all'art. 218:
  Il decreto del pretore deve essere notificato nello stesso giorno dell'emanazione all'ufficio postale che ha inoltrato l'oggetto e al mittente che sia stato identificato.
  Avverso il decreto del pretore il mittente puo' proporre ricorso al tribunale, che decide con sentenza in camera di consiglio, sentito il pubblico ministero e previe deduzioni scritte della direzione provinciale delle poste e delle telecomunicazioni competente per territorio o di un funzionario da essa delegato.
  Nel caso che nel testo dei telegrammi si riscontrino gli elementi di cui al secondo comma, l'ufficio postale invita il mittente a sottoscrivere l'invio di cui trattasi previo accertamento dell'identita' personale del mittente stesso. In caso di rifiuto ad ottemperare a detto invito si applicano le disposizioni di cui ai commi terzo, quarto, quinto e sesto del presente articolo.».
- Art. 12 (Persone addette ai servizi postali, di bancoposta). - Le persone addette ai servizi postali, di bancoposta anche se dati in concessione ad uso pubblico, sono considerate pubblici ufficiali od incaricati di pubblico servizio, secondo la natura delle funzioni loro affidate, in conformita' degli [articoli 357](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [358 del codice penale](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).».
+ Art. 12 (Persone addette ai servizi postali, di bancoposta). - Le persone addette ai servizi postali, di bancoposta anche se dati in concessione ad uso pubblico, sono considerate pubblici ufficiali od incaricati di pubblico servizio, secondo la natura delle funzioni loro affidate, in conformita' degli [articoli 357](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [358 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).».
  Art. 13 (Contravvenzioni in materia postale). - Per le contravvenzioni punibili con la sola pena dell'ammenda e' ammessa l'oblazione in sede amministrativa prima che sia iniziato il dibattimento, per somme non inferiori al minimo dell'ammenda.
  La competenza a decidere sulla domanda di oblazione spetta, rispettivamente, ai direttori provinciali delle poste e delle telecomunicazioni per le contravvenzioni in materia di servizi postali, di bancoposta.».
  «Titolo II - Norme comuni ai servizi postali, di bancoposta.».
@@ -6119,9 +6119,9 @@ Note all'art. 218:
  L'azione stessa si prescrive in tre anni.».
  «Art. 21 (Azione civile contro l'Amministrazione). - Nel caso di procedimento penale concernente una operazione che abbia comunque attinenza coi servizi postali, di bancoposta, se dopo la pronunzia della sentenza penale venga esercitata l'azione civile contro l'Amministrazione, l'azione non puo' essere proposta prima che siano trascorsi sessanta giorni dal passaggio in giudicato della sentenza pronunziata dal magistrato penale, salvo quanto disposto dagli articoli 31 e 103.».
  «Art. 22 (Accertamento delle contravvenzioni). - L'accertamento delle contravvenzioni spetta, oltre che agli organi di polizia giudiziaria, anche agli impiegati ed agenti incaricati di vigilare sull'osservanza delle norme e modalita' relative ai servizi postali, gestiti dalle aziende dipendenti dal Ministero delle poste e delle telecomunicazioni.».
- «Art. 23 (Danneggiamento). - Chiunque esplichi attivita' che rechi, in qualsiasi modo, danno ai servizi postali od alle opere ed agli oggetti ad essi inerenti e' punito ai sensi dell'[art. 635, n. 3, del codice penale](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).».
- «Art. 25 (Tutela degli ambienti di lavoro e di produzione del pubblico servizio). - Chiunque distrugga, disperda, deteriori o renda, in tutto o in parte, inservibili oggetti e congegni destinati al servizio e' punito ai sensi dell'[art. 635, n. 3 del codice penale](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
- Chiunque, fuori del caso previsto dal comma precedente, deturpi o imbratti oggetti e congegni destinati al servizio postale, e' punito ai sensi dell'[art. 639 del codice penale](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ma si procede d'ufficio.».
+ «Art. 23 (Danneggiamento). - Chiunque esplichi attivita' che rechi, in qualsiasi modo, danno ai servizi postali od alle opere ed agli oggetti ad essi inerenti e' punito ai sensi dell'[art. 635, n. 3, del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).».
+ «Art. 25 (Tutela degli ambienti di lavoro e di produzione del pubblico servizio). - Chiunque distrugga, disperda, deteriori o renda, in tutto o in parte, inservibili oggetti e congegni destinati al servizio e' punito ai sensi dell'[art. 635, n. 3 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Chiunque, fuori del caso previsto dal comma precedente, deturpi o imbratti oggetti e congegni destinati al servizio postale, e' punito ai sensi dell'[art. 639 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ma si procede d'ufficio.».
  «Art. 26 (Impignorabilita' ed insequestrabilita' dei beni destinati ai servizi postali). - Non possono essere pignorati, ne' sequestrati i mobili, i veicoli, gli strumenti, il denaro, le carte-valori ed in genere gli oggetti comunque destinati od adibiti ai servizi postali.
  La norma si applica anche nei confronti degli assuntori dei servizi postali eseguiti per conto dell'Amministrazione delle poste e delle telecomunicazioni.».
  - L'[art. 7 del decreto del Presidente della Repubblica 5 agosto 1966, n. 1214](../DPR/Nuove%20norme%20sulle%20concessioni%20di%20impianto%20e%20di%20esercizio%20di%20stazioni%20di%20radioamatori.md), recante: «Nuove norme sulle concessioni di impianto e di esercizio di stazioni di radioamatori», pubblicato nella Gazzetta Ufficiale 18 gennaio 1967, n. 15, abrogato dal presente decreto, recava: «Canoni di esercizio - Tassa di concessione governativa».

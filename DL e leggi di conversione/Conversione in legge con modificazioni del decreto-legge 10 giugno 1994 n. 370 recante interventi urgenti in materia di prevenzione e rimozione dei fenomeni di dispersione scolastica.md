@@ -36,7 +36,7 @@ AVVERTENZA:
 
 1.
 
-Nell'articolo 456 del testo unico delle disposizioni legislative vigenti in materia di istruzione, relative alle scuole di ogni ordine e grado, approvato con [decreto legislativo 16 aprile 1994, n. 297, al comma 1](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md) e' aggiunta in fine la seguente lettera:
+Nell'articolo 456 del testo unico delle disposizioni legislative vigenti in materia di istruzione, relative alle scuole di ogni ordine e grado, approvato con [decreto legislativo 16 aprile 1994, n. 297, al comma 1](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md) e' aggiunta in fine la seguente lettera:
  "e-bis) a decorrere dall'anno scolastico 1995-96, una o piu' scuole tra loro coordinate che, sulla base di un piano provinciale, svolgono attivita' psico-pedagogiche e didattico-educative per la prevenzione della dispersione scolastica".
 
 ## Art. 3. — Interventi urgenti per la citta' di Napoli
@@ -51,7 +51,7 @@ Al predetto onere si provvede, per l'anno finanziario 1994, mediante corrisponde
 
 3.
 
-A fronte delle somme erogate il prefetto provvedera' alla presentazione dei rendiconti con le modalita' previste dagli [articoli 60 e seguenti del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_60), e successive modificazioni, e dall'[articolo 333 del regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827#art_333), come sostituito, da ultimo, dall'[articolo 1 del decreto del Presidente della Repubblica 6 luglio 1993, n. 343](../DPR/Regolamento%20recante%20modificazioni%20a%20talune%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato%20e%20al%20decreto%20del%20Presidente%20della%20Repubblica%208%20luglio%201986%20n.%20429.md).
+A fronte delle somme erogate il prefetto provvedera' alla presentazione dei rendiconti con le modalita' previste dagli [articoli 60 e seguenti del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni, e dall'[articolo 333 del regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827#art_333), come sostituito, da ultimo, dall'[articolo 1 del decreto del Presidente della Repubblica 6 luglio 1993, n. 343](../Regolamenti%20governativi/Regolamento%20recante%20modificazioni%20a%20talune%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato%20e%20al%20decreto%20del%20Presidente%20della%20Repubblica%208%20luglio%201986%20n.%20429.md).
 
 4.
 

@@ -186,7 +186,7 @@ L'[articolo 142 del decreto legislativo 22 gennaio 2004, n. 42](Codice%20dei%20b
  «Art. 142 (Aree tutelate per legge). - 1. Sono comunque di interesse paesaggistico e sono sottoposti alle disposizioni di questo Titolo:
  a) i territori costieri compresi in una fascia della profondita' di 300 metri dalla linea di battigia, anche per i terreni elevati sul mare;
  b) i territori contermini ai laghi compresi in una fascia della profondita' di 300 metri dalla linea di battigia, anche per i territori elevati sui laghi;
- c) i fiumi, i torrenti, i corsi d'acqua iscritti negli elenchi previsti dal testo unico delle disposizioni di legge sulle acque ed impianti elettrici, approvato con [regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775), e le relative sponde o piedi degli argini per una fascia di 150 metri ciascuna;
+ c) i fiumi, i torrenti, i corsi d'acqua iscritti negli elenchi previsti dal testo unico delle disposizioni di legge sulle acque ed impianti elettrici, approvato con [regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), e le relative sponde o piedi degli argini per una fascia di 150 metri ciascuna;
  d) le montagne per la parte eccedente 1.600 metri sul livello del mare per la catena alpina e 1.200 metri sul livello del mare per la catena appenninica e per le isole;
  e) i ghiacciai e i circhi glaciali;
  f) i parchi e le riserve nazionali o regionali, nonche' i territori di protezione esterna dei parchi;

@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DELLA SANITA'
 
-Visto il [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265);
+Visto il [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md);
 
 Visto il regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md);
 
@@ -43,7 +43,7 @@ Avvertenza:
  Nota al titolo:
  - Per il testo dell'allegato III, sezione I, del [decreto del Presidente della Repubblica 30 novembre 1998, n. 497](../Regolamenti%20governativi/Regolamento%20recante%20norme%20di%20attuazione%20delle%20direttive%2092-117-CEE%20e%2097-22-CE%20relative%20alle%20misure%20di%20protezione%20dalle%20zoonosi%20specifiche%20e%20alla%20lotta%20contro%20agenti%20zoonotici%20specifici%20ne_f3a00599abbf.md) (regolamento recante norme di attuazione delle [direttive 92/117/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;117) e [97/22/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1997;22) relative alle misure di protezione dalle zoonosi specifiche ed alla lotta contro agenti zoonotici specifici negli animali e nei prodotti di origine animale) si veda la nota all'art. 1.
  Note alle premesse:
- - Il [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), riguarda l'approvazione del [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265).
+ - Il [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), riguarda l'approvazione del [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md).
  - Il [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md), riguarda il regolamento di polizia veterinaria.
  - La [legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833), riguarda l'istituzione del Servizio sanitario nazionale.
  - Il testo del [comma 1 dell'art. 11 del decreto del Presidente della Repubblica 30 novembre 1998, n. 497](../Regolamenti%20governativi/Regolamento%20recante%20norme%20di%20attuazione%20delle%20direttive%2092-117-CEE%20e%2097-22-CE%20relative%20alle%20misure%20di%20protezione%20dalle%20zoonosi%20specifiche%20e%20alla%20lotta%20contro%20agenti%20zoonotici%20specifici%20ne_f3a00599abbf.md) (regolamento recante norme di attuazione delle [direttive 92/117/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;117) e [97/22/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1997;22) relative alle misure di protezione dalle zoonosi specifiche ed alla lotta contro agenti zoonotici specifici negli animali e nei prodotti di origine animale) e' il seguente:

@@ -18,7 +18,7 @@ Vista la [legge 1° marzo 2002, n. 39](../Leggi%20di%20delegazione%20europea/Dis
 
 Vista la [legge 20 maggio 1970, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300), recante "Norme sulla tutela della liberta' e dignita' dei lavoratori, della liberta' sindacale e dell'attivita' sindacale nei luoghi di lavoro e norme sul collocamento";
 
-Visto il testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, approvato con [decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md);
+Visto il testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, approvato con [decreto legislativo 25 luglio 1998, n. 286](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 28 marzo 2003;
 
@@ -48,7 +48,7 @@ Ai fini del presente decreto e salvo quanto disposto dall'articolo 3, commi da 3
 
 2.
 
-E' fatto salvo il disposto dell'articolo 43, commi 1 e 2 del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, approvato con [decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md).
+E' fatto salvo il disposto dell'articolo 43, commi 1 e 2 del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, approvato con [decreto legislativo 25 luglio 1998, n. 286](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md).
 
 3.
 
@@ -132,7 +132,7 @@ Non costituiscono, comunque, atti di discriminazione ai sensi dell'articolo 2 qu
 
 All'[articolo 15, comma 2, della legge 20 maggio 1970, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300#art_15-com2), dopo la parola "sesso" sono aggiunte le seguenti: ", di handicap, di eta' o basata sull'orientamento sessuale o sulle convinzioni personali".
 
-((2. I giudizi civili avverso gli atti e i comportamenti di cui all'articolo 2 sono regolati dall'[articolo 28 del decreto legislativo 1° settembre 2011, n. 150](../Decreti%20Legislativi/Disposizioni%20complementari%20al%20codice%20di%20procedura%20civile%20in%20materia%20di%20riduzione%20e%20semplificazione%20dei%20procedimenti%20civili%20di%20cognizione%20ai%20sensi%20dellarticolo%2054%20della%20legge%2018%20giugno%20200_79c74cc89038.md). In caso di accertamento di atti o comportamenti discriminatori, come definiti dall'articolo 2 del presente decreto, si applica, altresi', l'[articolo 44, comma 11, del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md).))
+((2. I giudizi civili avverso gli atti e i comportamenti di cui all'articolo 2 sono regolati dall'[articolo 28 del decreto legislativo 1° settembre 2011, n. 150](../Decreti%20Legislativi/Disposizioni%20complementari%20al%20codice%20di%20procedura%20civile%20in%20materia%20di%20riduzione%20e%20semplificazione%20dei%20procedimenti%20civili%20di%20cognizione%20ai%20sensi%20dellarticolo%2054%20della%20legge%2018%20giugno%20200_79c74cc89038.md). In caso di accertamento di atti o comportamenti discriminatori, come definiti dall'articolo 2 del presente decreto, si applica, altresi', l'[articolo 44, comma 11, del decreto legislativo 25 luglio 1998, n. 286](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md).))
 
 ((3))
 

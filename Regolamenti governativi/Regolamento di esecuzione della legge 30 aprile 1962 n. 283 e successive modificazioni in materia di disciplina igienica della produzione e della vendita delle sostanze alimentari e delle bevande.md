@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA 
  
  Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87); 
- Visto il [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265); 
+ Visto il [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md); 
  Vista la [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), concernente la disciplina igienica della produzione e della vendita delle sostanze alimentari e delle bevande; 
  Viste le [leggi 26 febbraio 1963, n. 441 e 6 dicembre 1965, n. 1367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-12-06;1367), che recano modificazioni alla predetta legge; 
  Visto il [decreto del Presidente della Repubblica 14 gennaio 1972, n. 4](../DPR/Trasferimento%20alle%20Regioni%20a%20statuto%20ordinario%20delle%20funzioni%20amministrative%20statali%20in%20materia%20di%20assistenza%20sanitaria%20ed%20ospedaliera%20e%20dei%20relativi%20personali%20ed%20uffici.md), concernente il trasferimento alle regioni a statuto ordinario delle funzioni amministrative statali in materia di assistenza sanitaria ed ospedaliera e dei relativi personali ed uffici; 

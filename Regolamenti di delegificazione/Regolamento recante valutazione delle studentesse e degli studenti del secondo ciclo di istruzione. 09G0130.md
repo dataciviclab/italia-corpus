@@ -42,7 +42,7 @@ Visto il [decreto del Presidente della Repubblica 23 luglio 1998, n. 323](Regola
 
 Visto il [decreto del Presidente della Repubblica 8 marzo 1999, n. 275](Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20delle%20istituzioni%20scolastiche%20ai%20sensi%20dellart.%2021%20della%20legge%2015%20marzo%201997%20n.%2059.md), concernente regolamento recante norme in materia di autonomia delle istituzioni scolastiche, ed in particolare gli articoli 4, 6, 8 e 10;
 
-Visto il [decreto del Ministro della pubblica istruzione 22 agosto 2007, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.pubblica.istruzione:decreto:2007-08-22;139), concernente regolamento recante norme in materia di adempimento dell'obbligo di istruzione;
+Visto il [decreto del Ministro della pubblica istruzione 22 agosto 2007, n. 139](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20in%20materia%20di%20adempimento%20dellobbligo%20di%20istruzione%20ai%20sensi%20dellarticolo%201%20comma%20622%20della%20legge%2027%20dicembre%202006%20n.%20296.md), concernente regolamento recante norme in materia di adempimento dell'obbligo di istruzione;
 
 Visto il decreto del Ministro della pubblica istruzione in data 3 ottobre 2007, concernente attivita' finalizzate al recupero dei debiti formativi, pubblicata nella Gazzetta Ufficiale n. 279 del 30 novembre 2007;
 

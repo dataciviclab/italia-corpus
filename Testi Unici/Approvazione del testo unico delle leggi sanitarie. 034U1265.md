@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per l'Interno; 
  Abbiamo decretato e decretiamo: 
  
- E' approvato l'unito [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) composto di 394 articoli e otto tabelle allegate, visto, d'ordine Nostro, dal Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per l'Interno. 
+ E' approvato l'unito [testo unico delle leggi sanitarie](Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) composto di 394 articoli e otto tabelle allegate, visto, d'ordine Nostro, dal Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per l'Interno. 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  Dato a Sant'Anna di Valdieri, addi' 27 luglio 1934 - XII 
  

@@ -20,7 +20,7 @@ Visto l'Allegato B della predetta legge che include, tra le direttive da attuare
 
 Vista la [legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633), e successive modificazioni, recante protezione del diritto d'autore e di altri diritti connessi al suo esercizio;
 
-Visto il [regio decreto 18 maggio 1942, n. 1369](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-05-18;1369), recante approvazione del regolamento per l'esecuzione della [legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633);
+Visto il [regio decreto 18 maggio 1942, n. 1369](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2022%20aprile%201941-XIX%20n.%20633%20per%20la%20protezione%20del%20diritto%20di%20autore%20e%20di%20altri%20diritti%20connessi%20al%20suo%20esercizio.%20042U1369.md), recante approvazione del regolamento per l'esecuzione della [legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633);
 
 Vista la [legge 20 giugno 1978, n. 399](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20di%20Berna%20per%20la%20protezione%20delle%20opere%20letterarie%20ed%20artistiche%20firmata%20il%209%20settembre%201886%20completata%20a%20Parigi%20il%204%20maggio%201896%20riveduta%20a%20Berlin_aaf093302758.md), recante ratifica ed esecuzione della Convenzione di Berna per la protezione delle opere letterarie e artistiche;
 

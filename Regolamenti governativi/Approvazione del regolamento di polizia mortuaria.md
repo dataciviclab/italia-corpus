@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 358 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_358), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265);
+Visto l'[art. 358 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md);
 
 Visto l'[art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17);
 
@@ -39,7 +39,7 @@ AVVERTENZA:
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
- L'[art. 358 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_358), approvato con [R.D. n. 1265/1934](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934;1265), e' cosi' formulato:
+ L'[art. 358 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R.D. n. 1265/1934](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934;1265), e' cosi' formulato:
  "Art. 358. - Un regolamento, approvato con decreto reale, sentito il Consiglio di Stato, determinera' le norme generali per la applicazione del presente testo unico.
  I contravventori alle disposizioni del regolamento generale e a quelle dei regolamenti speciali, da approvarsi con decreto reale sentito il Consiglio di Stato ed eventualmente occorrenti per la esecuzione delle varie parti delle precedenti disposizioni sono puniti, quando non siano applicabili le pene prevedute nelle disposizioni medesime, con l'ammenda fino a lire duemila.
  La sanzione dell'ammenda di cui al secondo comma dell'articolo sopra riportato e' stata sostituita con la sanzione amministrativa pecuniaria dall'[art. 32 della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_32) (Modifiche al sistema penale), il quale ha previsto che non costituissero piu' reato e fossero soggette alla sanzione amministrativa del pagamento di una somma di denaro tutte le violazioni per le quali fosse prevista la sola pena della multa o dell'ammenda.
@@ -103,7 +103,7 @@ AVVERTENZA:
  Art. 151. - L'obbligo di dare notizia al giudice tutelare della morte di persona, la quale ha lasciato figli in eta' minore a termini dell'art. 343 del libro primo del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) spetta, nel caso preveduto nell'art. 149, comma secondo, all'ufficiale dello stato civile che e' richiesto per la trascrizione dell'atto di morte e deve essere adempiuto nei termini di dieci giorni dalla data di ricezione della richiesta di trascrizione.
  Art. 152. - Nel caso di morte di straniero nel Regno, l'ufficiale dello stato civile spedisce sollecitamente copia autentica dell'atto di morte al procuratore del Re affinche' sia trasmessa, per mezzo del Ministero degli Affari Esteri, al Governo dello Stato a cui apparteneva il defunto purche' nello Stato medesimo siano in vigore disposizioni analoghe.
  Se lo straniero non aveva con se' persone di sua famiglia maggiori di eta', l'ufficiale dello stato civile informa, in pari tempo, della morte il procuratore del Re affinche' ne sia avvertito il console dello Stato a cui il defunto apparteneva".
- - L'art. 103, sub a), del [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), approvato con [R.D. n. 1265/1934](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934;1265), e' cosi' formulato:
+ - L'art. 103, sub a), del [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R.D. n. 1265/1934](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934;1265), e' cosi' formulato:
  "Gli esercenti la professione di medico-chirurgo, oltre a quanto e' prescritto da altre disposizioni di legge, sono obbligati:
  a) a denunziare al podesta' (ora sindaco, n.d.r.) le cause di morte entro ventiquattro ore dall'accertamento del decesso".
  - Il testo dell'[art. 100 del D.P.R. n. 185/1964](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1964;185#art_100) (Sicurezza degli impianti e protezione sanitaria dei lavoratori e delle popolazioni contro i pericoli delle radiazioni ionizzanti derivanti dall'impiego pacifico dell'energia nucleare) e' il seguente:

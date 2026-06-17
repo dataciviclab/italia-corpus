@@ -16,7 +16,7 @@ Vista la [direttiva 2004/83/CE del Consiglio, del 29 aprile 2004](https://www.no
 
 Vista la [legge 25 gennaio 2006, n. 29](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202005.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge comunitaria 2005, ed in particolare l'articolo 1 e l'allegato B;
 
-Visto il testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, di cui al [decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), e successive modificazioni;
+Visto il testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, di cui al [decreto legislativo 25 luglio 1998, n. 286](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), e successive modificazioni;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri adottata nella riunione del 26 luglio 2007;
 
@@ -386,7 +386,7 @@ Nell'attuazione delle disposizioni del presente decreto e' preso in considerazio
 
 1.
 
-Fermo restando quanto previsto dall'articolo 19, comma 1, del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, di cui al [decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), ((ed in conformita' degli obblighi internazionali ratificati dall'Italia,)) il rifugiato o lo straniero ammesso alla protezione sussidiaria e' espulso quando:
+Fermo restando quanto previsto dall'articolo 19, comma 1, del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, di cui al [decreto legislativo 25 luglio 1998, n. 286](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), ((ed in conformita' degli obblighi internazionali ratificati dall'Italia,)) il rifugiato o lo straniero ammesso alla protezione sussidiaria e' espulso quando:
                             a)
                                 sussistono motivi per ritenere che rappresenti un pericolo per la sicurezza dello Stato;
                             b)
@@ -414,13 +414,13 @@ I familiari che non hanno individualmente diritto allo status di protezione inte
 
 3.
 
-Ai familiari del titolare dello ((status di protezione internazionale)) presenti sul territorio nazionale che individualmente non hanno diritto a tale status e' rilasciato il permesso di soggiorno per motivi familiari ai sensi dell'articolo 30 del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, di cui al [decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md).
+Ai familiari del titolare dello ((status di protezione internazionale)) presenti sul territorio nazionale che individualmente non hanno diritto a tale status e' rilasciato il permesso di soggiorno per motivi familiari ai sensi dell'articolo 30 del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, di cui al [decreto legislativo 25 luglio 1998, n. 286](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md).
 
 ((
 
 4.
 
-Lo straniero ammesso alla protezione sussidiaria ha diritto al ricongiungimento familiare ai sensi e alle condizioni previste dall'[articolo 29-bis del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md).
+Lo straniero ammesso alla protezione sussidiaria ha diritto al ricongiungimento familiare ai sensi e alle condizioni previste dall'[articolo 29-bis del decreto legislativo 25 luglio 1998, n. 286](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md).
 
 ))
 
@@ -480,7 +480,7 @@ Si applicano ai titolari dello status di rifugiato o di protezione sussidiaria l
 
 3-bis.
 
-Per il riconoscimento delle qualifiche professionali, dei diplomi, dei certificati e di altri titoli conseguiti all'estero dai titolari dello status di rifugiato o dello status di protezione sussidiaria, le amministrazioni competenti individuano sistemi appropriati di valutazione, convalida e accreditamento che consentono il riconoscimento dei titoli ai sensi dell'[articolo 49 del decreto del Presidente della Repubblica 31 agosto 1999, n. 394](../DPR/Regolamento%20recante%20norme%20di%20attuazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero%20a%20norma%20dellarticolo%201%20comma_d0732f58b7ad.md), anche in assenza di certificazione da parte dello Stato in cui e' stato ottenuto il titolo, ove l'interessato dimostra di non poter acquisire detta certificazione.
+Per il riconoscimento delle qualifiche professionali, dei diplomi, dei certificati e di altri titoli conseguiti all'estero dai titolari dello status di rifugiato o dello status di protezione sussidiaria, le amministrazioni competenti individuano sistemi appropriati di valutazione, convalida e accreditamento che consentono il riconoscimento dei titoli ai sensi dell'[articolo 49 del decreto del Presidente della Repubblica 31 agosto 1999, n. 394](../Regolamenti%20governativi/Regolamento%20recante%20norme%20di%20attuazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero%20a%20norma%20dellarticolo%201%20comma_d0732f58b7ad.md), anche in assenza di certificazione da parte dello Stato in cui e' stato ottenuto il titolo, ove l'interessato dimostra di non poter acquisire detta certificazione.
 
 ))
 
@@ -516,13 +516,13 @@ Le iniziative per l'individuazione dei familiari del minore non accompagnato, ti
 
 1.
 
-Fatto salvo quanto stabilito dall'articolo 6, comma 6, del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, di cui al [decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), i titolari dello status di rifugiato e di protezione sussidiaria possono circolare liberamente sul territorio nazionale.
+Fatto salvo quanto stabilito dall'articolo 6, comma 6, del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, di cui al [decreto legislativo 25 luglio 1998, n. 286](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), i titolari dello status di rifugiato e di protezione sussidiaria possono circolare liberamente sul territorio nazionale.
 
 ((
 
 2.
 
-Nell'attuazione delle misure e dei servizi di cui all'[articolo 1-sexies del decreto-legge 30 dicembre 1989, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416#art_1sexies), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39, all'articolo 5](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201989%20n.%20416%20recante%20norme%20urgenti%20in%20materia%20di%20asilo%20politico%20di%20ingresso%20e%20soggiorno%20dei%20cittadini%20extracomunitari%20e_466cfea5d540.md) del [decreto legislativo 30 maggio 2005, n. 140, ed all'articolo 42](Attuazione%20della%20direttiva%202003-9-CE%20che%20stabilisce%20norme%20minime%20relative%20allaccoglienza%20dei%20richiedenti%20asilo%20negli%20Stati%20membri.md) del [decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), si tiene conto anche delle esigenze di integrazione dei beneficiari di protezione internazionale, promuovendo, nei limiti delle risorse disponibili, ogni iniziativa adeguata a superare la condizione di svantaggio determinata dalla perdita della protezione del Paese di origine e a rimuovere gli ostacoli che di fatto ne impediscono la piena integrazione.
+Nell'attuazione delle misure e dei servizi di cui all'[articolo 1-sexies del decreto-legge 30 dicembre 1989, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416#art_1sexies), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39, all'articolo 5](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201989%20n.%20416%20recante%20norme%20urgenti%20in%20materia%20di%20asilo%20politico%20di%20ingresso%20e%20soggiorno%20dei%20cittadini%20extracomunitari%20e_466cfea5d540.md) del [decreto legislativo 30 maggio 2005, n. 140, ed all'articolo 42](Attuazione%20della%20direttiva%202003-9-CE%20che%20stabilisce%20norme%20minime%20relative%20allaccoglienza%20dei%20richiedenti%20asilo%20negli%20Stati%20membri.md) del [decreto legislativo 25 luglio 1998, n. 286](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), si tiene conto anche delle esigenze di integrazione dei beneficiari di protezione internazionale, promuovendo, nei limiti delle risorse disponibili, ogni iniziativa adeguata a superare la condizione di svantaggio determinata dalla perdita della protezione del Paese di origine e a rimuovere gli ostacoli che di fatto ne impediscono la piena integrazione.
 
 3.
 
@@ -534,7 +534,7 @@ All'attuazione delle disposizioni di cui al comma 3, le Amministrazioni interess
 
 3-ter.
 
-L'accesso ai benefici relativi all'alloggio previsti dall'[articolo 40, comma 6, del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), e' consentito ai titolari dello status di rifugiato e di protezione sussidiaria, in condizioni di parita' con i cittadini italiani.
+L'accesso ai benefici relativi all'alloggio previsti dall'[articolo 40, comma 6, del decreto legislativo 25 luglio 1998, n. 286](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), e' consentito ai titolari dello status di rifugiato e di protezione sussidiaria, in condizioni di parita' con i cittadini italiani.
 
 ))
 
@@ -616,7 +616,7 @@ Le [lettere c)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.leg
 
 2.
 
-Fino alla data di entrata in vigore del decreto legislativo di recepimento della [direttiva 2005/85/CE del Consiglio, del 1° dicembre 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2005;85), le norme del presente decreto si applicano secondo le procedure di cui al [decreto-legge 30 dicembre 1989, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201989%20n.%20416%20recante%20norme%20urgenti%20in%20materia%20di%20asilo%20politico%20di%20ingresso%20e%20soggiorno%20dei%20cittadini%20extracomunitari%20e_466cfea5d540.md), e al relativo regolamento di attuazione adottato con [decreto del Presidente della Repubblica 16 settembre 2004, n. 303](../DPR/Regolamento%20relativo%20alle%20procedure%20per%20il%20riconoscimento%20dello%20status%20di%20rifugiato.md).
+Fino alla data di entrata in vigore del decreto legislativo di recepimento della [direttiva 2005/85/CE del Consiglio, del 1° dicembre 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2005;85), le norme del presente decreto si applicano secondo le procedure di cui al [decreto-legge 30 dicembre 1989, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201989%20n.%20416%20recante%20norme%20urgenti%20in%20materia%20di%20asilo%20politico%20di%20ingresso%20e%20soggiorno%20dei%20cittadini%20extracomunitari%20e_466cfea5d540.md), e al relativo regolamento di attuazione adottato con [decreto del Presidente della Repubblica 16 settembre 2004, n. 303](../Regolamenti%20governativi/Regolamento%20relativo%20alle%20procedure%20per%20il%20riconoscimento%20dello%20status%20di%20rifugiato.md).
 
 3.
 
@@ -624,7 +624,7 @@ Al comma 4, primo periodo, dell'[articolo 1-sexies del decreto-legge 30 dicembre
 
 4.
 
-Allo straniero con permesso di soggiorno umanitario di cui all'articolo 5, comma 6, del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero di cui al [decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), e successive modificazioni, rilasciato dalla questura su richiesta dell'organo di esame della istanza di riconoscimento dello status di rifugiato, prima dell'entrata in vigore del presente decreto, e' rilasciato al momento del rinnovo il permesso per protezione sussidiaria di cui al presente decreto.
+Allo straniero con permesso di soggiorno umanitario di cui all'articolo 5, comma 6, del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero di cui al [decreto legislativo 25 luglio 1998, n. 286](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), e successive modificazioni, rilasciato dalla questura su richiesta dell'organo di esame della istanza di riconoscimento dello status di rifugiato, prima dell'entrata in vigore del presente decreto, e' rilasciato al momento del rinnovo il permesso per protezione sussidiaria di cui al presente decreto.
 
 5.
 
@@ -649,9 +649,9 @@ Note all'art. 34:
  10. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
  11. I richiedenti asilo che hanno fatto ricorso alle disposizioni previste per la sanatoria dei lavoratori immigrati non perdono il diritto al riconoscimento dello status di rifugiato. Nei loro confronti non si fa luogo a interventi di prima assistenza.».
  - La [direttiva 2005/85/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2005;85) e' pubblicata nella G.U.C.E. 13 dicembre 2005, n. L. 326.
- - Per i riferimenti al [decreto del Presidente della Repubblica 16 settembre 2004, n. 303](../DPR/Regolamento%20relativo%20alle%20procedure%20per%20il%20riconoscimento%20dello%20status%20di%20rifugiato.md), si vedano le note all'art. 2.
+ - Per i riferimenti al [decreto del Presidente della Repubblica 16 settembre 2004, n. 303](../Regolamenti%20governativi/Regolamento%20relativo%20alle%20procedure%20per%20il%20riconoscimento%20dello%20status%20di%20rifugiato.md), si vedano le note all'art. 2.
  - Per il testo dell'[art. 1-sexies del decreto-legge 30 dicembre 1989, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416#art_1sexies), si vedano le note all'art. 28.
- - Il testo dell'art. 5, comma 6, del citato [decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), e' il seguente:
+ - Il testo dell'art. 5, comma 6, del citato [decreto legislativo 25 luglio 1998, n. 286](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), e' il seguente:
  «Art. 5 (Permesso di soggiorno). - (Omissis).
  6. Il rifiuto o la revoca del permesso di soggiorno possono essere altresi' adottati sulla base di convenzioni o accordi internazionali, resi esecutivi in Italia, quando lo straniero non soddisfi le condizioni di soggiorno applicabili in uno degli Stati contraenti, salvo che ricorrano seri motivi, in particolare di carattere umanitario o risultanti da obblighi costituzionali o internazionali dello Stato italiano.».
 

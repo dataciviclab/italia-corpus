@@ -42,7 +42,7 @@ Emana il seguente decreto legislativo:
 
 1.
 
-Quando non sono espressamente previsti da specifiche norme di settore o dal presente decreto, costituiscono requisiti di onorabilita' per l'esercizio delle attivita' di cui all'articolo 1 quelli di cui all'[articolo 11 del regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_11).
+Quando non sono espressamente previsti da specifiche norme di settore o dal presente decreto, costituiscono requisiti di onorabilita' per l'esercizio delle attivita' di cui all'articolo 1 quelli di cui all'[articolo 11 del regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md).
 
 Nota all'art. 2:
  - Il testo dell'art. 11 del citato [regio decreto n. 773 del 1931](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931;773), e' il seguente:

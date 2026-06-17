@@ -30,7 +30,7 @@ I seguenti decreti legislativi sono ratificati, salvi gli effetti degli atti leg
  27 giugno 1946, n. 122 - Modificazioni alla legge sul lotto pubblico.
  23 agosto 1946, n. 145 - Sanzioni in materia d'imposta straordinaria sui profitti di guerra.
  23 agosto 1946, n. 148 - Avanzamento dei militari di truppa della Guardia di finanza.
- 5 settembre 1946, n. 150 - Adeguamento delle aliquote massime d'imposta camerale stabilita dal [regio decreto 31 ottobre 1941, n. 1418](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-31;1418).
+ 5 settembre 1946, n. 150 - Adeguamento delle aliquote massime d'imposta camerale stabilita dal [regio decreto 31 ottobre 1941, n. 1418](../Regi%20decreti/Determinazione%20della%20misura%20dellimposta%20dovuta%20ai%20Consigli%20provinciali%20delle%20Corporazioni.%20041U1418.md).
  14 ottobre 1946, n. 205 - Aumento dell'imposta di consumo sul caffe'.
  14 ottobre 1946, n. 206 - Istituzione a favore dell'Erario di una imposta di consumo sul cacao e sul burro di cacao ed aumento dei dazi di importazione su altri generi coloniali.
  21 ottobre 1946, n. 236 - Modificazioni al regime fiscale di taluni prodotti soggetti ad imposta di fabbricazione.
@@ -124,7 +124,7 @@ delle esattorie vacanti.
  19 dicembre 1947, n. 1614 - Modificazione del [decreto legislativo luogotenenziale 26 marzo 1946, n. 297](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20dellIstituto%20scientifico%20sperimentale%20per%20i%20tabacchi.md), che istituisce l'istituto scientifico sperimentale per i tabacchi.
  26 ottobre 1947, n. 1639 - Aumento delle indennita' per maneggio di danaro ai contabili doganali.
  16 dicembre 1947, n. 1652 - Riduzione dal 50 al 20 per cento della quota percentuale del provento lordo del monopolio del sale commestibile per l'esercizio 1947-48.
- 31 dicembre 1947, n. 1726 - Proroga al 30 giugno 1948 della disposizione contenuta nell'articolo unico del [decreto legislativo 24 maggio 1947, n. 566](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-05-24;566), concernente temporanea deroga all'[art. 56 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56), recante disposizioni per l'amministrazione del patrimonio e sulla contabilita' generale dello Stato.
+ 31 dicembre 1947, n. 1726 - Proroga al 30 giugno 1948 della disposizione contenuta nell'articolo unico del [decreto legislativo 24 maggio 1947, n. 566](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-05-24;566), concernente temporanea deroga all'[art. 56 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), recante disposizioni per l'amministrazione del patrimonio e sulla contabilita' generale dello Stato.
  10 dicembre 1947, n. 1741 - Modificazioni alle leggi sul lotto pubblico e miglioramenti economici al personale del lotto.
  31 dicembre 1947, n. 1773 - Adozione di un nuovo tipo di contrassegni di Stato per la identificazione dei recipienti contenenti liquori.
  17 dicembre 1947, n. 1800 - Concessione di una indennita' per prestazioni del personale di ruolo e non di ruolo delle tasse ed imposte indirette sugli affari.
@@ -159,7 +159,7 @@ delle esattorie vacanti.
  8 aprile 1948, n. 514 - Modificazioni alla legge sul nuovo catasto edilizio urbano e alla legge sulla costituzione, attribuzione e funzionamento delle Commissioni censuarie.
  17 marzo 1948, 558 - Aumento del contributo statale a favore dell'Azienda di Stato per le foreste demaniali per il mantenimento dei Parchi nazionali d'Abruzzo e dello Stelvio.
  7 maggio 1948, n. 572 - Modificazioni alle vigenti disposizioni in materia di pensioni straordinarie e di assegni di ricompensa nazionale.
- 2 aprile 1948, n. 607 - Modificazioni dei diritti di saggi e verificazioni facoltative di cui agli articoli 115 e 131 del regolamento sul servizio metrico, approvato con [regio decreto 31 gennaio 1909, n. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-01-31;242).
+ 2 aprile 1948, n. 607 - Modificazioni dei diritti di saggi e verificazioni facoltative di cui agli articoli 115 e 131 del regolamento sul servizio metrico, approvato con [regio decreto 31 gennaio 1909, n. 242](../Regi%20decreti/che%20approva%20il%20regolamento%20per%20il%20servizio%20metrico%20009U0242.md).
  16 aprile 1948, n. 652 - Aumento della tassa d'ingresso alla Grotta Azzurra di Capri e nuova ripartizione della tassa stessa.
  13 febbraio 1948, n. 673 Aumento della paga degli allievi carabinieri, degli allievi guardie di finanza degli allievi guardie di pubblica sicurezza ed equiparati degli altri Corpi dello Stato militarmente organizzati.
  3 maggio 1948, n. 691 - Modificazioni al regime fiscale del cacao, dei prodotti fabbricati con impiego di alcoli tassabili, nonche' al repertorio doganale ed alla tariffa generale dei dazi doganali per metterli in relazione al regime fiscale degli zuccheri e degli alcoli.

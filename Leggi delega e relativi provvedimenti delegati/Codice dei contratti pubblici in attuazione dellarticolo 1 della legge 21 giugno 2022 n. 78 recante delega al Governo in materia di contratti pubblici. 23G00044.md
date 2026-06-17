@@ -26,7 +26,7 @@ Visto il [decreto legislativo 18 aprile 2016, n. 50](../Decreti%20Legislativi/Co
 
 Vista la [legge 21 giugno 2022, n. 78](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2022G00087.md), recante «Delega al Governo in materia di contratti pubblici»;
 
-Visto, in particolare, l'articolo 1, comma 4, della citata [legge 21 giugno 2022, n. 78](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2022G00087.md), il quale prevede che il Governo puo' avvalersi della facolta' di cui all'articolo 14, numero 2°, del testo unico delle leggi sul Consiglio di Stato, di cui al [regio decreto 26 giugno 1924, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-26;1054);
+Visto, in particolare, l'articolo 1, comma 4, della citata [legge 21 giugno 2022, n. 78](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2022G00087.md), il quale prevede che il Governo puo' avvalersi della facolta' di cui all'articolo 14, numero 2°, del testo unico delle leggi sul Consiglio di Stato, di cui al [regio decreto 26 giugno 1924, n. 1054](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md);
 
 Vista la nota in data 28 giugno 2022 con la quale il Presidente del Consiglio dei ministri ha affidato la formulazione del progetto di decreto legislativo recante la disciplina dei contratti pubblici al Consiglio di Stato, ai sensi dell'[articolo 1, comma 4, della legge 21 giugno 2022, n. 78](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2022G00087.md);
 

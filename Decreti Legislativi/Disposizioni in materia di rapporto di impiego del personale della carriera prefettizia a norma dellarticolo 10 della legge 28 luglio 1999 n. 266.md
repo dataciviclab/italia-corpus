@@ -54,7 +54,7 @@ Avvertenza:
  A tal fine saranno definiti appositi criteri per la determinazione e la valutazione delle posizioni funzionali e la verifica dei risultati conseguiti, nonche' per la costituzione di un apposito fondo di finanziamento;
  h) previsione di adeguate facilitazioni economiche e logistiche per la mobilita' dei funzionari qualora non siano assegnatari di alloggi da parte dell'amministrazione e individuazione attraverso la procedura negoziale di altre misure idonee a favorire la mobilita' di sede;
  i) copertura assicurativa del rischio di responsabilita' civile;
- l) estensione ai funzionari della carriera prefettizia incaricati della provvisoria amministrazione degli enti locali della difesa in giudizio ai sensi dell'arti. 44 del testo unico approvato con [regio decreto 30 ottobre 1933, n. 1611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1611);
+ l) estensione ai funzionari della carriera prefettizia incaricati della provvisoria amministrazione degli enti locali della difesa in giudizio ai sensi dell'arti. 44 del testo unico approvato con [regio decreto 30 ottobre 1933, n. 1611](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md);
  m) esplicita indicazione delle norme legislative abrogate.
  2. I decreti legislativi di cui al comma 1 sono emanati su proposta del Ministro dell'interno, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica e con il Ministro per la funzione pubblica. Gli schemi di decreto legislativo sono trasmessi alle Camere per l'espressione del parere da parte delle competenti commissioni parlamentari, che si pronunciano entro quaranta giorni dall'assegnazione, trascorsi i quali i decreti legislativi sono emanati anche in assenza del parere".
  Note alle premesse:
@@ -478,7 +478,7 @@ Le somme che, alla fine di ciascun esercizio finanziario, risultano eccedenti il
 
 6.
 
-Ai funzionari della carriera prefettizia incaricati della provvisoria amministrazione degli enti locali e' assicurata la difesa in giudizio da parte dell'Avvocatura dello Stato, ai sensi dell'articolo 44 del testo unico approvato con [regio decreto 30 ottobre 1933, n. 1611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1611).
+Ai funzionari della carriera prefettizia incaricati della provvisoria amministrazione degli enti locali e' assicurata la difesa in giudizio da parte dell'Avvocatura dello Stato, ai sensi dell'articolo 44 del testo unico approvato con [regio decreto 30 ottobre 1933, n. 1611](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md).
 
 -------------
 

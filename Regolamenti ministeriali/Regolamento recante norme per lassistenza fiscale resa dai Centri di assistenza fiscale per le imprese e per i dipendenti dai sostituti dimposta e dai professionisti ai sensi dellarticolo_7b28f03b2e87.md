@@ -431,7 +431,7 @@ Il [D.L. 26 ottobre 2019, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (20)
 
-Il [D.L. 22 marzo 2021, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-03-22;41) ha disposto (con l'art. 5, comma 19) che "Per l'anno 2021, il termine del 16 marzo di cui all'articolo 16, comma 4-bis, lettera b), quarto periodo, del [decreto del Ministro delle finanze 31 maggio 1999, n. 164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze:decreto:1999-05-31;164), e' prorogato al 31 marzo".
+Il [D.L. 22 marzo 2021, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-03-22;41) ha disposto (con l'art. 5, comma 19) che "Per l'anno 2021, il termine del 16 marzo di cui all'articolo 16, comma 4-bis, lettera b), quarto periodo, del [decreto del Ministro delle finanze 31 maggio 1999, n. 164](Regolamento%20recante%20norme%20per%20lassistenza%20fiscale%20resa%20dai%20Centri%20di%20assistenza%20fiscale%20per%20le%20imprese%20e%20per%20i%20dipendenti%20dai%20sostituti%20dimposta%20e%20dai%20professionisti%20ai%20sensi%20dellarticolo_7b28f03b2e87.md), e' prorogato al 31 marzo".
 
 ### Art. 17. — Assistenza fiscale prestata dal sostituto d'imposta
 
@@ -668,7 +668,7 @@ In caso di controllo o di richiesta di documenti e di chiarimenti al contribuent
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 21 novembre 2014, n. 175](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Semplificazione%20fiscale%20e%20dichiarazione%20dei%20redditi%20precompilata.%2014G00190.md) ha disposto (con l'art. 6, comma 3) che "Le disposizioni di cui all'[articolo 26 del decreto del Ministro delle finanze 31 maggio 1999, n. 164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze:decreto:1999-05-31;164#art_26), come modificate dal comma 2, si applicano a decorrere dall'assistenza fiscale prestata nel 2015. Per l'attivita' di assistenza fiscale prestata fino al 31 dicembre 2014, continuano ad applicarsi le disposizioni del menzionato articolo 26 nel testo vigente anteriormente alle modifiche apportate dallo stesso comma 2".
+Il [D.Lgs. 21 novembre 2014, n. 175](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Semplificazione%20fiscale%20e%20dichiarazione%20dei%20redditi%20precompilata.%2014G00190.md) ha disposto (con l'art. 6, comma 3) che "Le disposizioni di cui all'[articolo 26 del decreto del Ministro delle finanze 31 maggio 1999, n. 164](Regolamento%20recante%20norme%20per%20lassistenza%20fiscale%20resa%20dai%20Centri%20di%20assistenza%20fiscale%20per%20le%20imprese%20e%20per%20i%20dipendenti%20dai%20sostituti%20dimposta%20e%20dai%20professionisti%20ai%20sensi%20dellarticolo_7b28f03b2e87.md), come modificate dal comma 2, si applicano a decorrere dall'assistenza fiscale prestata nel 2015. Per l'attivita' di assistenza fiscale prestata fino al 31 dicembre 2014, continuano ad applicarsi le disposizioni del menzionato articolo 26 nel testo vigente anteriormente alle modifiche apportate dallo stesso comma 2".
 
 ### Art. 27. — Disposizioni transitorie
 

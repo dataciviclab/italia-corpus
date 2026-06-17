@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto lo statuto della Regione siciliana, approvato con il [regio decreto legislativo 15 maggio 1946, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-15;455), convertito dalla [legge costituzionale 26 febbraio 1948, n. 2](../Leggi%20costituzionali/Conversione%20in%20legge%20costituzionale%20dello%20Statuto%20della%20Regione%20siciliana%20approvato%20col%20decreto%20legislativo%2015%20maggio%201946%20n.%20455.md);
+Visto lo statuto della Regione siciliana, approvato con il [regio decreto legislativo 15 maggio 1946, n. 455](../Regi%20decreti%20legislativi/Approvazione%20dello%20statuto%20della%20Regione%20siciliana.md), convertito dalla [legge costituzionale 26 febbraio 1948, n. 2](../Leggi%20costituzionali/Conversione%20in%20legge%20costituzionale%20dello%20Statuto%20della%20Regione%20siciliana%20approvato%20col%20decreto%20legislativo%2015%20maggio%201946%20n.%20455.md);
 
 Viste le determinazioni della commissione paritetica prevista dall'articolo 43 dello statuto della regione;
 
@@ -26,7 +26,7 @@ Emana il seguente decreto legislativo:
 
 1.
 
-Sono trasferiti alle Camere di commercio, industria, artigianato e agricoltura delle corrispondenti province, le funzioni amministrative ed i compiti esercitati, ai sensi dei [regi decreti 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088), e [31 gennaio 1909, n. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-01-31;242), e successive modificazioni ed integrazioni, nonche' del [decreto legislativo 22 maggio 1999, n. 251](Disciplina%20dei%20titoli%20e%20dei%20marchi%20di%20identificazione%20dei%20metalli%20preziosi%20in%20attuazione%20dellarticolo%2042%20della%20legge%2024%20aprile%201998%20n.%20128.md), dagli uffici metrici provinciali che hanno sede nella Regione siciliana.
+Sono trasferiti alle Camere di commercio, industria, artigianato e agricoltura delle corrispondenti province, le funzioni amministrative ed i compiti esercitati, ai sensi dei [regi decreti 23 agosto 1890, n. 7088](../Regi%20decreti/Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md), e [31 gennaio 1909, n. 242](../Regi%20decreti/che%20approva%20il%20regolamento%20per%20il%20servizio%20metrico%20009U0242.md), e successive modificazioni ed integrazioni, nonche' del [decreto legislativo 22 maggio 1999, n. 251](Disciplina%20dei%20titoli%20e%20dei%20marchi%20di%20identificazione%20dei%20metalli%20preziosi%20in%20attuazione%20dellarticolo%2042%20della%20legge%2024%20aprile%201998%20n.%20128.md), dagli uffici metrici provinciali che hanno sede nella Regione siciliana.
 
 2.
 
@@ -45,11 +45,11 @@ Avvertenza:
 Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 Note alle premesse:
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5), conferisce al Presidente della Repubblica il potere di promulgare leggi e di emanare i decreti aventi valore di leggi e regolamenti.
- - Il [regio decreto legislativo 15 maggio 1946, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-15;455), che ha approvato lo statuto della regione siciliana, e' stato pubblicato nella Gazzetta Ufficiale 10 giugno 1946, n. 133 (edizione speciale) ed e' stato convertito in [legge costituzionale 26 febbraio 1948 n. 2](../Leggi%20costituzionali/Conversione%20in%20legge%20costituzionale%20dello%20Statuto%20della%20Regione%20siciliana%20approvato%20col%20decreto%20legislativo%2015%20maggio%201946%20n.%20455.md), pubblicata nella Gazzetta Ufficiale 9 marzo 1948, n. 58.
+ - Il [regio decreto legislativo 15 maggio 1946, n. 455](../Regi%20decreti%20legislativi/Approvazione%20dello%20statuto%20della%20Regione%20siciliana.md), che ha approvato lo statuto della regione siciliana, e' stato pubblicato nella Gazzetta Ufficiale 10 giugno 1946, n. 133 (edizione speciale) ed e' stato convertito in [legge costituzionale 26 febbraio 1948 n. 2](../Leggi%20costituzionali/Conversione%20in%20legge%20costituzionale%20dello%20Statuto%20della%20Regione%20siciliana%20approvato%20col%20decreto%20legislativo%2015%20maggio%201946%20n.%20455.md), pubblicata nella Gazzetta Ufficiale 9 marzo 1948, n. 58.
  - L'art. 43 dello statuto della regione siciliana prevede che una commissione paritetica di quattro membri nominati dall'Alto commissario della Sicilia e dal Governo dello Stato, determinera' le norme transitorie relative al passaggio degli uffici e del personale dello Stato alla regione, nonche' le norme per l'attuazione del presente statuto.
 Note all'[art. 1:
- - Il regio decreto 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088#art_1), e' stato pubblicato nella Gazzetta Ufficiale 15 settembre 1890, n. 216.
- -Il [regio decreto 31 gennaio 1909, n. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-01-31;242), e' stato pubblicato nella Gazzetta Ufficiale 1o giugno 1909, n. 128.
+ - Il regio decreto 23 agosto 1890, n. 7088](../Regi%20decreti/Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md), e' stato pubblicato nella Gazzetta Ufficiale 15 settembre 1890, n. 216.
+ -Il [regio decreto 31 gennaio 1909, n. 242](../Regi%20decreti/che%20approva%20il%20regolamento%20per%20il%20servizio%20metrico%20009U0242.md), e' stato pubblicato nella Gazzetta Ufficiale 1o giugno 1909, n. 128.
  - Il [decreto legislativo 22 maggio 1999, n. 251](Disciplina%20dei%20titoli%20e%20dei%20marchi%20di%20identificazione%20dei%20metalli%20preziosi%20in%20attuazione%20dellarticolo%2042%20della%20legge%2024%20aprile%201998%20n.%20128.md), e' stato pubblicato nella Gazzetta Ufficiale 3 agosto 1999, n. 180.
 
 ## Art. 2. — Personale

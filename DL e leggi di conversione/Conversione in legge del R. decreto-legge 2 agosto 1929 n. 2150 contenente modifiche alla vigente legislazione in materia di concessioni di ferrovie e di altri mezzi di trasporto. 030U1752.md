@@ -43,7 +43,7 @@ VITTORIO EMANUELE III
  
  All'art. 38 e' sostituito il seguente: 
  
- «Il Governo del Re e' autorizzato a riunire e coordinare in testo unico le disposizioni del presente decreto con quelle in vigore del testo unico di legge approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), e dei provvedimenti legislativi successivamente emanati in materia di servizi pubblici di trasporto concessi alla industria privata». 
+ «Il Governo del Re e' autorizzato a riunire e coordinare in testo unico le disposizioni del presente decreto con quelle in vigore del testo unico di legge approvato con [R. decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md), e dei provvedimenti legislativi successivamente emanati in materia di servizi pubblici di trasporto concessi alla industria privata». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

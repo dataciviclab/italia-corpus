@@ -24,7 +24,7 @@ Il [decreto-legge 17 dicembre 1986, n. 873](https://www.normattiva.it/uri-res/N2
  All'articolo 1: 
  al comma 2, dopo le parole: "su proposta del Ministro della marina mercantile," sono aggiunte le seguenti: "sentito il parere delle competenti commissioni parlamentari,"; 
  il comma 3 e' soppresso; 
- al comma 6, e' aggiunto, in fine, il seguente periodo: "La stessa commissione formulera' proposte per la determinazione dei nuovi criteri per la classificazione dei porti, in sostituzione di quelli contenuti nel [regio decreto 2 aprile 1885, n. 3095](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-04-02;3095)". 
+ al comma 6, e' aggiunto, in fine, il seguente periodo: "La stessa commissione formulera' proposte per la determinazione dei nuovi criteri per la classificazione dei porti, in sostituzione di quelli contenuti nel [regio decreto 2 aprile 1885, n. 3095](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20della%20legge%2016%20luglio%201884%20n.%202518%20risguardante%20i%20porti%20fari%20e%20spiaggie.%20085U3095.md)". 
  All'articolo 4, al comma 2, dopo le parole: "1, 2 e 3 
  dell'articolo 2" sono aggiunte le seguenti: "ed al comma 1 
 dell'articolo 4-bis,". 

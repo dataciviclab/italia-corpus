@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 25 agosto 1938, n. 1648](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-08-25;1648);
+Visto il [R. decreto 25 agosto 1938, n. 1648](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Barano%20dIschia%20Casamicciola%20Forio%20Ischia%20Lacco%20Ameno%20e%20Serrara%20Fontana%20in%20unico%20comune%20con%20sede%20municipale%20e%20denominazione%20Ischia.%20038U1648.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -28,7 +28,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Art. 1.
 
-I comuni di Barano d'Ischia, Casamicciola, Forio, Ischia, Lacco Ameno e Serrara Fontana fusi nell'unico comune di Ischia con [R. decreto 25 agosto 1938, n. 1648](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-08-25;1648), sono ricostituiti con la Circoscrizione preesistente all'entrata in vigore del decreto medesimo. 
+I comuni di Barano d'Ischia, Casamicciola, Forio, Ischia, Lacco Ameno e Serrara Fontana fusi nell'unico comune di Ischia con [R. decreto 25 agosto 1938, n. 1648](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Barano%20dIschia%20Casamicciola%20Forio%20Ischia%20Lacco%20Ameno%20e%20Serrara%20Fontana%20in%20unico%20comune%20con%20sede%20municipale%20e%20denominazione%20Ischia.%20038U1648.md), sono ricostituiti con la Circoscrizione preesistente all'entrata in vigore del decreto medesimo. 
  
  Il Prefetto di Napoli, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i sei predetti Comuni.
 
@@ -36,7 +36,7 @@ I comuni di Barano d'Ischia, Casamicciola, Forio, Ischia, Lacco Ameno e Serrara 
 
 Gli organici dei ricostituiti Comuni saranno stabiliti dal Prefetto, sentita la Giunta provinciale amministrativa. 
  
- Il numero dei posti ed i gradi relativi non potranno essere superiori rispettivamente a quella organicamente assegnati ai menzionati Comuni anteriormente alla loro fusione disposta con [R. decreto 25 agosto 1938, n. 1648](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-08-25;1648). 
+ Il numero dei posti ed i gradi relativi non potranno essere superiori rispettivamente a quella organicamente assegnati ai menzionati Comuni anteriormente alla loro fusione disposta con [R. decreto 25 agosto 1938, n. 1648](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Barano%20dIschia%20Casamicciola%20Forio%20Ischia%20Lacco%20Ameno%20e%20Serrara%20Fontana%20in%20unico%20comune%20con%20sede%20municipale%20e%20denominazione%20Ischia.%20038U1648.md). 
  
  Il personale gia' in servizio presso il comune di Ischia che eventualmente sara' inquadrato nei detti organici dovra', avere la posizione gerarchica e il trattamento economico non superiori a quelli goduti all'atto dell'inquadramento medesimo.
 

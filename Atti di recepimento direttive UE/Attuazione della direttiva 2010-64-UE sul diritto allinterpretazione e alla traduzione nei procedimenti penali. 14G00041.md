@@ -20,7 +20,7 @@ Visto il [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../
 
 Visto il [decreto legislativo 28 luglio 1989, n. 271](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md), recante norme di attuazione, di coordinamento e transitorie del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
 
-Visto il [decreto del Presidente della Repubblica 30 maggio 2002, n. 115](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md), recante [testo unico delle disposizioni legislative e regolamentari in materia di spese di giustizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md);
+Visto il [decreto del Presidente della Repubblica 30 maggio 2002, n. 115](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md), recante [testo unico delle disposizioni legislative e regolamentari in materia di spese di giustizia](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md);
 
 Vista la [legge 6 agosto 2013, n. 96](../Leggi%20di%20delegazione%20europea/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202013.%2013G00137.md), recante delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea, ed in particolare, l'allegato B;
 
@@ -77,12 +77,12 @@ Al [decreto legislativo 28 luglio 1989, n. 271](../Leggi%20delega%20e%20relativi
 
 1.
 
-Al [decreto del Presidente della Repubblica 30 maggio 2002, n. 115](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md), sono apportate le seguenti modificazioni:
+Al [decreto del Presidente della Repubblica 30 maggio 2002, n. 115](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md), sono apportate le seguenti modificazioni:
                         a)
                             all'articolo 5, lettera d), dopo le parole: «ausiliari del magistrato,» sono aggiunte le seguenti: «ad esclusione degli interpreti e dei traduttori nominati nei casi previsti dall'[articolo 143 codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_143);».
 
 Note all'art. 3: 
- - Il testo dell'art. 5 del citato [decreto del Presidente della Repubblica 30 maggio 2002, n. 115](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'art. 5 del citato [decreto del Presidente della Repubblica 30 maggio 2002, n. 115](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md), come modificato dal presente decreto, cosi' recita: 
  «Art. 5 (Spese ripetibili e non ripetibili). - 1. Sono spese ripetibili: 
  a) le spese di spedizione, i diritti e le indennita' di trasferta degli ufficiali giudiziari per le notificazioni; 
  b) le spese relative alle trasferte per il compimento di atti fuori dalla sede in cui si svolge il processo; 

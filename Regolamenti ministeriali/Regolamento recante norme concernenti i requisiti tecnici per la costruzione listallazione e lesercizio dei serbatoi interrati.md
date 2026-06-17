@@ -65,7 +65,7 @@ Sono fatte salve tutte le disposizioni vigenti in materia di sicurezza antincend
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 5 - 19 luglio 2001, n. 266 (in G.U. 1ª s.s. 25/07/2001, n. 29), "Dichiara che non spetta allo Stato, in assenza di base legislativa, emanare il [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente:decreto:1999-05-24;246) (Regolamento recante norme concernenti i requisiti tecnici per la costruzione, l'installazione e l'esercizio di serbatoi interrati) e conseguentemente annulla lo stesso [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente:decreto:1999-05-24;246)."
+La Corte Costituzionale, con sentenza 5 - 19 luglio 2001, n. 266 (in G.U. 1ª s.s. 25/07/2001, n. 29), "Dichiara che non spetta allo Stato, in assenza di base legislativa, emanare il [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](Regolamento%20recante%20norme%20concernenti%20i%20requisiti%20tecnici%20per%20la%20costruzione%20listallazione%20e%20lesercizio%20dei%20serbatoi%20interrati.md) (Regolamento recante norme concernenti i requisiti tecnici per la costruzione, l'installazione e l'esercizio di serbatoi interrati) e conseguentemente annulla lo stesso [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](Regolamento%20recante%20norme%20concernenti%20i%20requisiti%20tecnici%20per%20la%20costruzione%20listallazione%20e%20lesercizio%20dei%20serbatoi%20interrati.md)."
 
 ## Art. 2. — Definizioni
 
@@ -84,7 +84,7 @@ Ai sensi delle disposizioni del presente decreto si intendono per:
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 5 - 19 luglio 2001, n. 266 (in G.U. 1ª s.s. 25/07/2001, n. 29), "Dichiara che non spetta allo Stato, in assenza di base legislativa, emanare il [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente:decreto:1999-05-24;246) (Regolamento recante norme concernenti i requisiti tecnici per la costruzione, l'installazione e l'esercizio di serbatoi interrati) e conseguentemente annulla lo stesso [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente:decreto:1999-05-24;246)."
+La Corte Costituzionale, con sentenza 5 - 19 luglio 2001, n. 266 (in G.U. 1ª s.s. 25/07/2001, n. 29), "Dichiara che non spetta allo Stato, in assenza di base legislativa, emanare il [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](Regolamento%20recante%20norme%20concernenti%20i%20requisiti%20tecnici%20per%20la%20costruzione%20listallazione%20e%20lesercizio%20dei%20serbatoi%20interrati.md) (Regolamento recante norme concernenti i requisiti tecnici per la costruzione, l'installazione e l'esercizio di serbatoi interrati) e conseguentemente annulla lo stesso [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](Regolamento%20recante%20norme%20concernenti%20i%20requisiti%20tecnici%20per%20la%20costruzione%20listallazione%20e%20lesercizio%20dei%20serbatoi%20interrati.md)."
 
 ## Art. 3. — Campo di applicazione
 
@@ -111,7 +111,7 @@ Sono esclusi dall'applicazione del presente decreto i serbatoi interrati utilizz
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 5 - 19 luglio 2001, n. 266 (in G.U. 1ª s.s. 25/07/2001, n. 29), "Dichiara che non spetta allo Stato, in assenza di base legislativa, emanare il [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente:decreto:1999-05-24;246) (Regolamento recante norme concernenti i requisiti tecnici per la costruzione, l'installazione e l'esercizio di serbatoi interrati) e conseguentemente annulla lo stesso [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente:decreto:1999-05-24;246)."
+La Corte Costituzionale, con sentenza 5 - 19 luglio 2001, n. 266 (in G.U. 1ª s.s. 25/07/2001, n. 29), "Dichiara che non spetta allo Stato, in assenza di base legislativa, emanare il [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](Regolamento%20recante%20norme%20concernenti%20i%20requisiti%20tecnici%20per%20la%20costruzione%20listallazione%20e%20lesercizio%20dei%20serbatoi%20interrati.md) (Regolamento recante norme concernenti i requisiti tecnici per la costruzione, l'installazione e l'esercizio di serbatoi interrati) e conseguentemente annulla lo stesso [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](Regolamento%20recante%20norme%20concernenti%20i%20requisiti%20tecnici%20per%20la%20costruzione%20listallazione%20e%20lesercizio%20dei%20serbatoi%20interrati.md)."
 
 ## Art. 4. — Funzioni di indirizzo
 
@@ -132,7 +132,7 @@ L'Agenzia nazionale per la protezione dell'ambiente (ANPA), avvalendosi delle ag
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 5 - 19 luglio 2001, n. 266 (in G.U. 1ª s.s. 25/07/2001, n. 29), "Dichiara che non spetta allo Stato, in assenza di base legislativa, emanare il [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente:decreto:1999-05-24;246) (Regolamento recante norme concernenti i requisiti tecnici per la costruzione, l'installazione e l'esercizio di serbatoi interrati) e conseguentemente annulla lo stesso [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente:decreto:1999-05-24;246)."
+La Corte Costituzionale, con sentenza 5 - 19 luglio 2001, n. 266 (in G.U. 1ª s.s. 25/07/2001, n. 29), "Dichiara che non spetta allo Stato, in assenza di base legislativa, emanare il [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](Regolamento%20recante%20norme%20concernenti%20i%20requisiti%20tecnici%20per%20la%20costruzione%20listallazione%20e%20lesercizio%20dei%20serbatoi%20interrati.md) (Regolamento recante norme concernenti i requisiti tecnici per la costruzione, l'installazione e l'esercizio di serbatoi interrati) e conseguentemente annulla lo stesso [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](Regolamento%20recante%20norme%20concernenti%20i%20requisiti%20tecnici%20per%20la%20costruzione%20listallazione%20e%20lesercizio%20dei%20serbatoi%20interrati.md)."
 
 ## Art. 5. — Autorita' competenti e procedure autorizzative
 
@@ -146,7 +146,7 @@ Per il rilascio delle concessioni e autorizzazioni per impianti di distribuzione
 
 3.
 
-Per il rilascio delle autorizzazioni relative agli altri serbatoi interrati conformi al presente decreto, esclusi quelli dei comma 1 e 2, il nullaosta all'esercizio e la licenza di agibilita' sono rilasciati, ai sensi del [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), e successivi provvedimenti dal sindaco del comune interessato su parere delle ARPA o di altro organismo individuato transitoriamente dalla regione competente per territorio, ove l'ARPA non fosse ancora costituita, e dei vigili del fuoco, se di pertinenza.
+Per il rilascio delle autorizzazioni relative agli altri serbatoi interrati conformi al presente decreto, esclusi quelli dei comma 1 e 2, il nullaosta all'esercizio e la licenza di agibilita' sono rilasciati, ai sensi del [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), e successivi provvedimenti dal sindaco del comune interessato su parere delle ARPA o di altro organismo individuato transitoriamente dalla regione competente per territorio, ove l'ARPA non fosse ancora costituita, e dei vigili del fuoco, se di pertinenza.
 
 4.
 
@@ -157,7 +157,7 @@ La procedura di rilascio di nullaosta o licenza prevista per i serbatoi interrat
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 5 - 19 luglio 2001, n. 266 (in G.U. 1ª s.s. 25/07/2001, n. 29), "Dichiara che non spetta allo Stato, in assenza di base legislativa, emanare il [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente:decreto:1999-05-24;246) (Regolamento recante norme concernenti i requisiti tecnici per la costruzione, l'installazione e l'esercizio di serbatoi interrati) e conseguentemente annulla lo stesso [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente:decreto:1999-05-24;246)."
+La Corte Costituzionale, con sentenza 5 - 19 luglio 2001, n. 266 (in G.U. 1ª s.s. 25/07/2001, n. 29), "Dichiara che non spetta allo Stato, in assenza di base legislativa, emanare il [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](Regolamento%20recante%20norme%20concernenti%20i%20requisiti%20tecnici%20per%20la%20costruzione%20listallazione%20e%20lesercizio%20dei%20serbatoi%20interrati.md) (Regolamento recante norme concernenti i requisiti tecnici per la costruzione, l'installazione e l'esercizio di serbatoi interrati) e conseguentemente annulla lo stesso [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](Regolamento%20recante%20norme%20concernenti%20i%20requisiti%20tecnici%20per%20la%20costruzione%20listallazione%20e%20lesercizio%20dei%20serbatoi%20interrati.md)."
 
 ## Art. 6. — Installazione ed uso di nuovi serbatoi interrati
 
@@ -178,7 +178,7 @@ Le autorita' competenti di cui ai commi 1, 2 e 3 dell'articolo 5, provvederanno 
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 5 - 19 luglio 2001, n. 266 (in G.U. 1ª s.s. 25/07/2001, n. 29), "Dichiara che non spetta allo Stato, in assenza di base legislativa, emanare il [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente:decreto:1999-05-24;246) (Regolamento recante norme concernenti i requisiti tecnici per la costruzione, l'installazione e l'esercizio di serbatoi interrati) e conseguentemente annulla lo stesso [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente:decreto:1999-05-24;246)."
+La Corte Costituzionale, con sentenza 5 - 19 luglio 2001, n. 266 (in G.U. 1ª s.s. 25/07/2001, n. 29), "Dichiara che non spetta allo Stato, in assenza di base legislativa, emanare il [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](Regolamento%20recante%20norme%20concernenti%20i%20requisiti%20tecnici%20per%20la%20costruzione%20listallazione%20e%20lesercizio%20dei%20serbatoi%20interrati.md) (Regolamento recante norme concernenti i requisiti tecnici per la costruzione, l'installazione e l'esercizio di serbatoi interrati) e conseguentemente annulla lo stesso [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](Regolamento%20recante%20norme%20concernenti%20i%20requisiti%20tecnici%20per%20la%20costruzione%20listallazione%20e%20lesercizio%20dei%20serbatoi%20interrati.md)."
 
 ## Art. 7. — Requisiti di progettazione, costruzione ed installazione di nuovi serbatoi
 
@@ -244,7 +244,7 @@ La targa di identificazione del serbatoio deve indicare:
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 5 - 19 luglio 2001, n. 266 (in G.U. 1ª s.s. 25/07/2001, n. 29), "Dichiara che non spetta allo Stato, in assenza di base legislativa, emanare il [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente:decreto:1999-05-24;246) (Regolamento recante norme concernenti i requisiti tecnici per la costruzione, l'installazione e l'esercizio di serbatoi interrati) e conseguentemente annulla lo stesso [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente:decreto:1999-05-24;246)."
+La Corte Costituzionale, con sentenza 5 - 19 luglio 2001, n. 266 (in G.U. 1ª s.s. 25/07/2001, n. 29), "Dichiara che non spetta allo Stato, in assenza di base legislativa, emanare il [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](Regolamento%20recante%20norme%20concernenti%20i%20requisiti%20tecnici%20per%20la%20costruzione%20listallazione%20e%20lesercizio%20dei%20serbatoi%20interrati.md) (Regolamento recante norme concernenti i requisiti tecnici per la costruzione, l'installazione e l'esercizio di serbatoi interrati) e conseguentemente annulla lo stesso [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](Regolamento%20recante%20norme%20concernenti%20i%20requisiti%20tecnici%20per%20la%20costruzione%20listallazione%20e%20lesercizio%20dei%20serbatoi%20interrati.md)."
 
 ## Art. 8. — Conduzione dei serbatoi interrati
 
@@ -265,7 +265,7 @@ Il conduttore del serbatoio dovra' provvedere annualmente ad una verifica di fun
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 5 - 19 luglio 2001, n. 266 (in G.U. 1ª s.s. 25/07/2001, n. 29), "Dichiara che non spetta allo Stato, in assenza di base legislativa, emanare il [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente:decreto:1999-05-24;246) (Regolamento recante norme concernenti i requisiti tecnici per la costruzione, l'installazione e l'esercizio di serbatoi interrati) e conseguentemente annulla lo stesso [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente:decreto:1999-05-24;246)."
+La Corte Costituzionale, con sentenza 5 - 19 luglio 2001, n. 266 (in G.U. 1ª s.s. 25/07/2001, n. 29), "Dichiara che non spetta allo Stato, in assenza di base legislativa, emanare il [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](Regolamento%20recante%20norme%20concernenti%20i%20requisiti%20tecnici%20per%20la%20costruzione%20listallazione%20e%20lesercizio%20dei%20serbatoi%20interrati.md) (Regolamento recante norme concernenti i requisiti tecnici per la costruzione, l'installazione e l'esercizio di serbatoi interrati) e conseguentemente annulla lo stesso [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](Regolamento%20recante%20norme%20concernenti%20i%20requisiti%20tecnici%20per%20la%20costruzione%20listallazione%20e%20lesercizio%20dei%20serbatoi%20interrati.md)."
 
 ## Art. 9. — Dismissione dei serbatoi interrati
 
@@ -282,7 +282,7 @@ La dismissione e le modalita' di messa in sicurezza dei serbatoi interrati che c
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 5 - 19 luglio 2001, n. 266 (in G.U. 1ª s.s. 25/07/2001, n. 29), "Dichiara che non spetta allo Stato, in assenza di base legislativa, emanare il [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente:decreto:1999-05-24;246) (Regolamento recante norme concernenti i requisiti tecnici per la costruzione, l'installazione e l'esercizio di serbatoi interrati) e conseguentemente annulla lo stesso [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente:decreto:1999-05-24;246)."
+La Corte Costituzionale, con sentenza 5 - 19 luglio 2001, n. 266 (in G.U. 1ª s.s. 25/07/2001, n. 29), "Dichiara che non spetta allo Stato, in assenza di base legislativa, emanare il [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](Regolamento%20recante%20norme%20concernenti%20i%20requisiti%20tecnici%20per%20la%20costruzione%20listallazione%20e%20lesercizio%20dei%20serbatoi%20interrati.md) (Regolamento recante norme concernenti i requisiti tecnici per la costruzione, l'installazione e l'esercizio di serbatoi interrati) e conseguentemente annulla lo stesso [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](Regolamento%20recante%20norme%20concernenti%20i%20requisiti%20tecnici%20per%20la%20costruzione%20listallazione%20e%20lesercizio%20dei%20serbatoi%20interrati.md)."
 
 ## Art. 10. — Registrazione dei serbatoi interrati esistenti 
  alla data di entrata in vigore del presente decreto
@@ -304,7 +304,7 @@ Ai fini della programmazione e ottimizzazione delle attivita' di adeguamento dei
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 5 - 19 luglio 2001, n. 266 (in G.U. 1ª s.s. 25/07/2001, n. 29), "Dichiara che non spetta allo Stato, in assenza di base legislativa, emanare il [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente:decreto:1999-05-24;246) (Regolamento recante norme concernenti i requisiti tecnici per la costruzione, l'installazione e l'esercizio di serbatoi interrati) e conseguentemente annulla lo stesso [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente:decreto:1999-05-24;246)."
+La Corte Costituzionale, con sentenza 5 - 19 luglio 2001, n. 266 (in G.U. 1ª s.s. 25/07/2001, n. 29), "Dichiara che non spetta allo Stato, in assenza di base legislativa, emanare il [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](Regolamento%20recante%20norme%20concernenti%20i%20requisiti%20tecnici%20per%20la%20costruzione%20listallazione%20e%20lesercizio%20dei%20serbatoi%20interrati.md) (Regolamento recante norme concernenti i requisiti tecnici per la costruzione, l'installazione e l'esercizio di serbatoi interrati) e conseguentemente annulla lo stesso [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](Regolamento%20recante%20norme%20concernenti%20i%20requisiti%20tecnici%20per%20la%20costruzione%20listallazione%20e%20lesercizio%20dei%20serbatoi%20interrati.md)."
 
 ## Art. 11. — Controlli ed interventi sui serbatoi interrati esistenti 
  alla data di entrata in vigore del presente decreto
@@ -382,7 +382,7 @@ Per i serbatoi interrati esistenti restano salvi l'articolo 8, commi 1 e 2, e l'
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 5 - 19 luglio 2001, n. 266 (in G.U. 1ª s.s. 25/07/2001, n. 29), "Dichiara che non spetta allo Stato, in assenza di base legislativa, emanare il [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente:decreto:1999-05-24;246) (Regolamento recante norme concernenti i requisiti tecnici per la costruzione, l'installazione e l'esercizio di serbatoi interrati) e conseguentemente annulla lo stesso [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente:decreto:1999-05-24;246)."
+La Corte Costituzionale, con sentenza 5 - 19 luglio 2001, n. 266 (in G.U. 1ª s.s. 25/07/2001, n. 29), "Dichiara che non spetta allo Stato, in assenza di base legislativa, emanare il [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](Regolamento%20recante%20norme%20concernenti%20i%20requisiti%20tecnici%20per%20la%20costruzione%20listallazione%20e%20lesercizio%20dei%20serbatoi%20interrati.md) (Regolamento recante norme concernenti i requisiti tecnici per la costruzione, l'installazione e l'esercizio di serbatoi interrati) e conseguentemente annulla lo stesso [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](Regolamento%20recante%20norme%20concernenti%20i%20requisiti%20tecnici%20per%20la%20costruzione%20listallazione%20e%20lesercizio%20dei%20serbatoi%20interrati.md)."
 
 ## Art. 12. — Norme tecniche di riferimento da applicare ai serbatoi
 
@@ -407,7 +407,7 @@ I sistemi di protezione catodica debbono essere rispondenti alle norme di cui al
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 5 - 19 luglio 2001, n. 266 (in G.U. 1ª s.s. 25/07/2001, n. 29), "Dichiara che non spetta allo Stato, in assenza di base legislativa, emanare il [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente:decreto:1999-05-24;246) (Regolamento recante norme concernenti i requisiti tecnici per la costruzione, l'installazione e l'esercizio di serbatoi interrati) e conseguentemente annulla lo stesso [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente:decreto:1999-05-24;246)."
+La Corte Costituzionale, con sentenza 5 - 19 luglio 2001, n. 266 (in G.U. 1ª s.s. 25/07/2001, n. 29), "Dichiara che non spetta allo Stato, in assenza di base legislativa, emanare il [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](Regolamento%20recante%20norme%20concernenti%20i%20requisiti%20tecnici%20per%20la%20costruzione%20listallazione%20e%20lesercizio%20dei%20serbatoi%20interrati.md) (Regolamento recante norme concernenti i requisiti tecnici per la costruzione, l'installazione e l'esercizio di serbatoi interrati) e conseguentemente annulla lo stesso [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](Regolamento%20recante%20norme%20concernenti%20i%20requisiti%20tecnici%20per%20la%20costruzione%20listallazione%20e%20lesercizio%20dei%20serbatoi%20interrati.md)."
 
 ## Art. 13. — Disposizioni finali
 
@@ -421,7 +421,7 @@ Il presente regolamento sostituisce il decreto del 20 ottobre 1998 adottato dal 
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 5 - 19 luglio 2001, n. 266 (in G.U. 1ª s.s. 25/07/2001, n. 29), "Dichiara che non spetta allo Stato, in assenza di base legislativa, emanare il [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente:decreto:1999-05-24;246) (Regolamento recante norme concernenti i requisiti tecnici per la costruzione, l'installazione e l'esercizio di serbatoi interrati) e conseguentemente annulla lo stesso [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente:decreto:1999-05-24;246)."
+La Corte Costituzionale, con sentenza 5 - 19 luglio 2001, n. 266 (in G.U. 1ª s.s. 25/07/2001, n. 29), "Dichiara che non spetta allo Stato, in assenza di base legislativa, emanare il [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](Regolamento%20recante%20norme%20concernenti%20i%20requisiti%20tecnici%20per%20la%20costruzione%20listallazione%20e%20lesercizio%20dei%20serbatoi%20interrati.md) (Regolamento recante norme concernenti i requisiti tecnici per la costruzione, l'installazione e l'esercizio di serbatoi interrati) e conseguentemente annulla lo stesso [decreto del Ministro dell'ambiente 24 maggio 1999, n. 246](Regolamento%20recante%20norme%20concernenti%20i%20requisiti%20tecnici%20per%20la%20costruzione%20listallazione%20e%20lesercizio%20dei%20serbatoi%20interrati.md)."
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

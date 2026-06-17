@@ -22,7 +22,7 @@ Visto il [decreto legislativo 27 giugno 2003, n. 168](../Decreti%20Legislativi/I
 
 Vista la [legge 10 ottobre 1990, n. 287](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-10-10;287), recante norme per la tutela della concorrenza e del mercato;
 
-Visto il [decreto del Presidente della Repubblica 30 aprile 1998, n. 217](../DPR/Regolamento%20recante%20norme%20in%20materia%20di%20procedure%20istruttorie%20di%20competenza%20dellAutorita%20garante%20della%20concorrenza%20e%20del%20mercato.md), concernente regolamento recante norme in materia di procedure istruttorie di competenza della Autorita' garante della concorrenza e del mercato;
+Visto il [decreto del Presidente della Repubblica 30 aprile 1998, n. 217](../Regolamenti%20governativi/Regolamento%20recante%20norme%20in%20materia%20di%20procedure%20istruttorie%20di%20competenza%20dellAutorita%20garante%20della%20concorrenza%20e%20del%20mercato.md), concernente regolamento recante norme in materia di procedure istruttorie di competenza della Autorita' garante della concorrenza e del mercato;
 
 Vista la preliminare deliberazione del Consiglio dei ministri, adottata nella riunione del 27 ottobre 2016;
 

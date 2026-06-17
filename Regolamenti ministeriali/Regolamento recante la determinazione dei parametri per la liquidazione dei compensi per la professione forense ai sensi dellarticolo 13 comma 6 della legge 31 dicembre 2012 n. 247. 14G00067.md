@@ -270,7 +270,7 @@ Agli avvocati chiamati a difendere in arbitrati, rituali o irrituali, sono ((...
 
 AGGIORNAMENTO (1)
 
-Il Decreto 12 aprile 2016, n. 61, ha disposto (con l'art. 3, comma 1) che "I parametri relativi ai compensi in favore degli arbitri, previsti dall'[articolo 10, comma 1, del decreto del Ministro della giustizia 10 marzo 2014, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.giustizia:decreto:2014-03-10;55#art_10-com1), pubblicato nella Gazzetta Ufficiale del 2 aprile 2014, sono ridotti del trenta per cento".
+Il Decreto 12 aprile 2016, n. 61, ha disposto (con l'art. 3, comma 1) che "I parametri relativi ai compensi in favore degli arbitri, previsti dall'[articolo 10, comma 1, del decreto del Ministro della giustizia 10 marzo 2014, n. 55](Regolamento%20recante%20la%20determinazione%20dei%20parametri%20per%20la%20liquidazione%20dei%20compensi%20per%20la%20professione%20forense%20ai%20sensi%20dellarticolo%2013%20comma%206%20della%20legge%2031%20dicembre%202012%20n.%20247.%2014G00067.md), pubblicato nella Gazzetta Ufficiale del 2 aprile 2014, sono ridotti del trenta per cento".
 
 ---------------
 

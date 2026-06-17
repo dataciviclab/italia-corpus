@@ -18,7 +18,7 @@ Vista la [direttiva 2004/109/CE del Parlamento europeo e del Consiglio, del 15 d
 
 Vista la [direttiva 2007/14/CE della Commissione, dell'8 marzo 2007](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2007;14), che stabilisce le modalita' di applicazione di talune disposizioni della [direttiva 2004/109/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;109) sull'armonizzazione degli obblighi di trasparenza riguardanti le informazioni sugli emittenti i cui valori mobiliari sono ammessi alla negoziazione in un mercato regolamentato;
 
-Visto il testo unico delle disposizioni in materia di intermediazione finanziaria di cui al [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md);
+Visto il testo unico delle disposizioni in materia di intermediazione finanziaria di cui al [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md);
 
 Visto l'[articolo 2428 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2428);
 
@@ -36,7 +36,7 @@ Emana il seguente decreto legislativo:
 
 1.
 
-Al [comma 1 dell'articolo 1 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), dopo la lettera w-ter) e' aggiunta la seguente:
+Al [comma 1 dell'articolo 1 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), dopo la lettera w-ter) e' aggiunta la seguente:
  «w-quater) "emittenti quotati aventi l'Italia come Stato membro d'origine":
  1) le emittenti azioni ammesse alle negoziazioni in mercati regolamentati italiani o di altro Stato membro della Comunita' europea, aventi sede in Italia;
  2) gli emittenti titoli di debito di valore nominale unitario inferiore ad euro mille, o valore corrispondente in valuta diversa, ammessi alle negoziazioni in mercati regolamentati italiani o di altro Stato membro della Comunita' europea, aventi sede in Italia;
@@ -45,11 +45,11 @@ Al [comma 1 dell'articolo 1 del decreto legislativo 24 febbraio 1998, n. 58](../
 
 2.
 
-La [lettera e) del comma 1 dell'articolo 64 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' soppressa.
+La [lettera e) del comma 1 dell'articolo 64 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' soppressa.
 
 3.
 
-L'[articolo 92 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' sostituito dal seguente:
+L'[articolo 92 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' sostituito dal seguente:
  «Art. 92.
  Parita' di trattamento
 
@@ -59,7 +59,7 @@ L'[articolo 92 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Leg
 
 4.
 
-Dopo l'[articolo 113-bis del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' inserito il seguente:
+Dopo l'[articolo 113-bis del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' inserito il seguente:
  «Art. 113-ter.
  Disposizioni generali in materia di informazioni regolamentate
  1. Per informazioni regolamentate si intendono quelle che devono essere pubblicate dagli emittenti quotati, dagli emittenti quotati aventi l'Italia come Stato membro d'origine o dai soggetti che li controllano, ai sensi delle disposizioni contenute nel presente Titolo, Capo I e Capo II, Sezioni I, I-bis, II e V-bis, e nei relativi regolamenti di attuazione ovvero delle disposizioni previste da Paesi extracomunitari ritenute equivalenti dalla Consob.
@@ -84,15 +84,15 @@ Dopo l'[articolo 113-bis del decreto legislativo 24 febbraio 1998, n. 58](../Dec
 
 5.
 
-Al [comma 5 dell'articolo 114 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), dopo le parole: «soggetti indicati nel comma 1,» sono inserite le seguenti: «agli emittenti quotati aventi l'Italia come Stato membro d'origine,».
+Al [comma 5 dell'articolo 114 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), dopo le parole: «soggetti indicati nel comma 1,» sono inserite le seguenti: «agli emittenti quotati aventi l'Italia come Stato membro d'origine,».
 
 6.
 
-Al [comma 1, lettera a), dell'articolo 115 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), dopo le parole: «richiedere agli emittenti quotati,» sono inserite le seguenti: «agli emittenti quotati aventi l'Italia come Stato membro d'origine,».
+Al [comma 1, lettera a), dell'articolo 115 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), dopo le parole: «richiedere agli emittenti quotati,» sono inserite le seguenti: «agli emittenti quotati aventi l'Italia come Stato membro d'origine,».
 
 7.
 
-L'[articolo 120 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' modificato come segue:
+L'[articolo 120 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' modificato come segue:
                         a)
                             al comma 2, le parole: «una societa' con azioni quotate» sono sostituite dalle seguenti: «un emittente azioni quotate avente l'Italia come Stato membro d'origine»;
                         b)
@@ -104,11 +104,11 @@ L'[articolo 120 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Le
 
 8.
 
-La rubrica della Sezione V-bis del Capo II del Titolo III della Parte IV del [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' sostituita dalla seguente: «Informazione finanziaria».
+La rubrica della Sezione V-bis del Capo II del Titolo III della Parte IV del [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' sostituita dalla seguente: «Informazione finanziaria».
 
 9.
 
-All'[articolo 154-bis del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 154-bis del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, dopo le parole: «Lo statuto», sono inserite le seguenti: «degli emittenti quotati aventi l'Italia come Stato membro d'origine»;
                         b)
@@ -126,7 +126,7 @@ All'[articolo 154-bis del decreto legislativo 24 febbraio 1998, n. 58](../Decret
 
 10.
 
-Nella sezione V-bis del Capo II del Titolo III della Parte IV del [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), dopo l'articolo 154-bis, e' inserito il seguente:
+Nella sezione V-bis del Capo II del Titolo III della Parte IV del [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), dopo l'articolo 154-bis, e' inserito il seguente:
  «Art. 154-ter.
  Relazioni finanziarie
  1. Fermi restando i termini di cui agli [articoli 2429 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2429) e 156, comma 5, entro centoventi giorni dalla chiusura dell'esercizio gli emittenti quotati aventi l'Italia come Stato membro d'origine approvano il bilancio d'esercizio e pubblicano la relazione finanziaria annuale comprendente il bilancio di esercizio, il bilancio consolidato, ove redatto, la relazione sulla gestione e l'attestazione di cui all'articolo 154-bis, comma 5. Le relazioni di revisione di cui all'articolo 156 sono pubblicate integralmente insieme alla relazione finanziaria annuale.
@@ -145,7 +145,7 @@ Nella sezione V-bis del Capo II del Titolo III della Parte IV del [decreto legis
 
 11.
 
-All'[articolo 193 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 193 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, le parole: «e 115» sono sostituite dalle seguenti: «, 115, 154-bis e 154-ter»;
                         b)
@@ -156,7 +156,7 @@ All'[articolo 193 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20
  «2. L'omissione delle comunicazioni delle partecipazioni rilevanti e dei patti parasociali previste rispettivamente dagli articoli 120, commi 2, 3 e 4, e 122, commi 1 e 2 e 5, nonche' la violazione dei divieti previsti dall'articolo 120, comma 5, 121, commi 1 e 3, e 122, comma 4, sono punite con la sanzione amministrativa pecuniaria da euro venticinquemila a euro duemilionicinquecentomila. Il ritardo nelle comunicazioni previste dall'articolo 120, commi 2, 3 e 4, non superiore a due mesi, e' punito con la sanzione amministrativa pecuniaria da euro cinquemila a euro cinquecentomila.».
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia ai sensi dell'articolo 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia ai sensi dell'articolo 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  - Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE).
  Note alle premesse:
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) stabilisce che l'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
@@ -180,7 +180,7 @@ Avvertenza:
  e) all'attuazione di direttive che modificano precedenti direttive gia' attuate con legge o con decreto legislativo si procede, se la modificazione non comporta ampliamento della materia regolata, apportando le corrispondenti modificazioni alla legge o al decreto legislativo di attuazione della direttiva modificata;
  f) i decreti legislativi assicurano in ogni caso che, nelle materie oggetto delle direttive da attuare, la disciplina sia pienamente conforme alle prescrizioni delle direttive medesime, tenuto anche conto delle eventuali modificazioni comunque intervenute fino al momento dell'esercizio della delega;
  g) quando si verifichino sovrapposizioni di competenze fra amministrazioni diverse o comunque siano coinvolte le competenze di piu' amministrazioni statali, i decreti legislativi individuano, attraverso le piu' opportune forme di coordinamento, rispettando i principi di sussidiarieta', differenziazione, adeguatezza e leale collaborazione e le competenze delle regioni e degli altri enti territoriali, le procedure per salvaguardare l'unitarieta' dei processi decisionali, la trasparenza, la celerita', l'efficacia e l'economicita' nell'azione amministrativa e la chiara individuazione dei soggetti responsabili».
- - Il [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), recante il testo unico delle disposizioni in materia di intermediazione finanziaria, e' pubblicato nella Gazzetta Ufficiale n. 71 del 26 marzo 1998, S.O.
+ - Il [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), recante il testo unico delle disposizioni in materia di intermediazione finanziaria, e' pubblicato nella Gazzetta Ufficiale n. 71 del 26 marzo 1998, S.O.
  - Si riporta il testo dell'[art. 2428 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2428):
  «Art. 2428 (Relazione sulla gestione). - Il bilancio deve essere corredato da una relazione degli amministratori contenente un'analisi fedele, equilibrata ed esauriente della situazione della societa' e dell'andamento e del risultato della gestione, nel suo complesso e nei vari settori in cui essa ha operato, anche attraverso imprese controllate, con particolare riguardo ai costi, ai ricavi e agli investimenti, nonche' una descrizione dei principali rischi e incertezze cui la societa' e' esposta.
  L'analisi di cui al primo comma e' coerente con l'entita' e la complessita' degli affari della societa' e contiene, nella misura necessaria alla comprensione della situazione della societa' e dell'andamento e del risultato della sua gestione, gli indicatori di risultato finanziari e, se del caso, quelli non finanziari pertinenti all'attivita' specifica della societa', comprese le informazioni attinenti all'ambiente e al personale.
@@ -198,7 +198,7 @@ Avvertenza:
  Entro tre mesi dalla fine del primo semestre dell'esercizio gli amministratori delle societa' con azioni quotate in mercati regolamentati devono trasmettere al collegio sindacale una relazione sull'andamento della gestione, redatta secondo i criteri stabiliti dalla Commissione nazionale per le societa' e la borsa con regolamento pubblicato nella Gazzetta Ufficiale della Repubblica italiana. La relazione deve essere pubblicata nei modi e nei termini stabiliti dalla Commissione stessa con il regolamento anzidetto.
  Dalla relazione deve inoltre risultare l'elenco delle sedi secondarie della societa».
  Note all'art. 1:
- - Si riporta il testo dell'[art. 1 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), come modificato dal presente decreto:
+ - Si riporta il testo dell'[art. 1 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), come modificato dal presente decreto:
  «Art. 1 (Definizioni). - 1. Nel presente decreto legislativo si intendono per:
  a) "[legge fallimentare](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267)": il [regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267), e successive modificazioni;
  b) "testo unico bancario" (testo unico bancario): il [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), e successive modificazioni;
@@ -283,7 +283,7 @@ Avvertenza:
  6-bis. Per "partecipazioni" si intendono le azioni, le quote e gli altri strumenti finanziari che attribuiscono diritti amministrativi o comunque quelli previsti dall'art. 2351, ultimo comma, del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262).
  6-ter. Se non diversamente disposto, le norme del presente decreto legislativo che fanno riferimento al consiglio di amministrazione, all'organo amministrativo ed agli amministratori si applicano anche al consiglio di gestione e ai suoi componenti.
  6-quater. Se non diversamente disposto, le norme del presente decreto legislativo che fanno riferimento al collegio sindacale, ai sindaci e all'organo che svolge la funzione di controllo si applicano anche al consiglio di sorveglianza e al comitato per il controllo sulla gestione e ai loro componenti.».
- - Si riporta il testo dell'[art. 64 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), come modificato dal presente decreto:
+ - Si riporta il testo dell'[art. 64 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), come modificato dal presente decreto:
  «Art. 64 (Organizzazione e funzionamento del mercato e delle societa' di gestione). - 01. La Consob, con proprio regolamento, individua gli adempimenti informativi delle societa' di gestione nei propri confronti, nonche', avendo riguardo alla trasparenza, all'ordinato svolgimento delle negoziazioni e alla tutela degli investitori e in conformita' alle disposizioni della [direttiva 2004/39/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;39), i requisiti generali di organizzazione delle societa' di gestione dei mercati regolamentati.
  1. La societa' di gestione:
  a) predispone le strutture, fornisce i servizi del mercato e determina i corrispettivi a essa dovuti;
@@ -303,7 +303,7 @@ Avvertenza:
  b) informa le autorita' competenti degli altri Stati membri della decisione di sospensione o esclusione di uno strumento finanziario dalle negoziazioni, sulla base della comunicazione ricevuta dalla societa' di gestione ai sensi del comma 1, lettera c).
  1-quinquies. Le disposizioni di cui al comma 01 sono adottate, sentita la Banca d'Italia, nei casi di societa' di gestione di mercati regolamentati all'ingrosso di titoli obbligazionari privati e pubblici, diversi da titoli di Stato, nonche' di societa' di gestione di mercati regolamentati di strumenti previsti dall'art. 1, comma 2, lettera b), e di strumenti finanziari derivati su titoli pubblici, su tassi di interesse e su valute.
  1-sexies. Salvo quando cio' possa causare danni agli interessi degli investitori o all'ordinato funzionamento del mercato, la Consob richiede la sospensione o l'esclusione di uno strumento finanziario dalle negoziazioni in un mercato regolamentato nei casi in cui tale strumento finanziario sia stato oggetto di provvedimento di sospensione o esclusione da parte di autorita' competenti di altri Stati membri.».
- - Si riporta il testo dell'[art. 114 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), come modificato dal presente decreto:
+ - Si riporta il testo dell'[art. 114 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), come modificato dal presente decreto:
  «Art. 114 (Comunicazioni al pubblico). - 1. Fermi gli obblighi di pubblicita' previsti da specifiche disposizioni di legge, gli emittenti quotati e i soggetti che li controllano comunicano al pubblico, senza indugio, le informazioni privilegiate di cui all'art. 181 che riguardano direttamente detti emittenti e le societa' controllate. La CONSOB stabilisce con regolamento le modalita' e i termini di comunicazione delle informazioni, detta disposizioni per coordinare le funzioni attribuite alla societa' di gestione del mercato con le proprie e puo' individuare compiti da affidarle per il corretto svolgimento delle funzioni previste dall'art. 64, comma 1, lettera b).
  2. Gli emittenti quotati impartiscono le disposizioni occorrenti affinche' le societa' controllate forniscano tutte le notizie necessarie per adempiere gli obblighi di comunicazione previsti dalla legge. Le societa' controllate trasmettono tempestivamente le notizie richieste.
  3. I soggetti indicati nel comma 1 possono, sotto la propria responsabilita', ritardare la comunicazione al pubblico delle informazioni privilegiate, nelle ipotesi e alle condizioni stabilite dalla CONSOB con regolamento, sempre che cio' non possa indurre in errore il pubblico su fatti e circostanze essenziali e che gli stessi soggetti siano in grado di garantirne la riservatezza. La CONSOB, con regolamento, puo' stabilire che l'emittente informi senza indugio la stessa autorita' della decisione di ritardare la divulgazione al pubblico di informazioni privilegiate e puo' individuare le misure necessarie a garantire che il pubblico sia correttamente informato.
@@ -318,7 +318,7 @@ Avvertenza:
  10. Fatto salvo il disposto del comma 8, le disposizioni emanate ai sensi del comma 9, lettera a), non si applicano ai giornalisti soggetti a norme di autoregolamentazione equivalenti purche' la loro applicazione consenta di conseguire gli stessi effetti. La CONSOB valuta, preventivamente e in via generale, la sussistenza di dette condizioni.
  11. Le istituzioni che diffondono al pubblico dati o statistiche idonei ad influenzare sensibilmente il prezzo degli strumenti finanziari indicati all'art. 180, comma 1, lettera a), devono divulgare tali informazioni in modo corretto e trasparente.
  12. Le disposizioni del presente articolo si applicano anche ai soggetti italiani ed esteri che emettono strumenti finanziari per i quali sia stata presentata una richiesta di ammissione alle negoziazioni nei mercati regolamentati italiani.».
- - Si riporta il testo dell'[art. 115 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), come modificato dal presente decreto:
+ - Si riporta il testo dell'[art. 115 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), come modificato dal presente decreto:
  «Art. 115 (Comunicazioni alla CONSOB). - 1. La CONSOB, al fine di vigilare sulla correttezza delle informazioni fornite al pubblico puo', anche in via generale:
  a) richiedere agli emittenti quotati, agli emittenti quotati aventi l'Italia come Stato membro d'origine, ai soggetti che li controllano e alle societa' dagli stessi controllate, la comunicazione di notizie e documenti, fissandone le relative modalita';
  b) assumere notizie, anche mediante la loro audizione, dai componenti degli organi sociali, dai direttori generali, dai dirigenti preposti alla redazione dei documenti contabili societari e dagli altri dirigenti, dalle societa' di revisione, dalle societa' e dai soggetti indicati nella lettera a);
@@ -326,7 +326,7 @@ Avvertenza:
  c-bis) esercitare gli ulteriori poteri previsti dall'art. 187-octies;
  2. I poteri previsti dalle lettere a), b) e c) possono essere esercitati nei confronti dei soggetti che detengono una partecipazione rilevante ai sensi dell'art. 120 o che partecipano a un patto previsto dall'art. 122.
  3. La CONSOB puo' altresi' richiedere alle societa' o agli enti che partecipano direttamente o indirettamente a societa' con azioni quotate l'indicazione nominativa, in base ai dati disponibili, dei soci e, nel caso di societa' fiduciarie, dei sfiducianti».
- - Si riporta il testo dell'[art. 120 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), come modificato dal presente decreto:
+ - Si riporta il testo dell'[art. 120 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), come modificato dal presente decreto:
  «Art. 120 (Obblighi di comunicazione delle partecipazioni rilevanti). - 1. Ai fini della presente sezione, per capitale di societa' per azioni si intende quello rappresentato da azioni con diritto di voto.
  2. Coloro che partecipano in un emittente azioni quotate avente l'Italia come Stato membro d'origine in misura superiore al due per cento del capitale ne danno comunicazione alla societa' partecipata e alla CONSOB.
  3. Gli emittenti azioni quotate aventi l'Italia come Stato membro d'origine che partecipano in misura superiore al dieci per cento del capitale in una societa' per azioni non quotate o in una societa' a responsabilita' limitata, anche estere, ne danno comunicazione alla societa' partecipata e alla CONSOB.
@@ -341,7 +341,7 @@ Avvertenza:
  5. Il diritto di voto inerente alle azioni quotate od agli strumenti finanziari per i quali sono state omesse le comunicazioni previste dal comma 2 non puo' essere esercitato. In caso di inosservanza, si applica l'art. 14, comma 5. L'impugnazione puo' essere proposta anche dalla Consob entro il termine indicato nell'art. 14, comma 6.
  6. Il comma 2 non si applica alle partecipazioni detenute, per il tramite di societa' controllate, dal Ministero dell'economia e delle finanze. I relativi obblighi di comunicazione sono adempiuti dalle societa' controllate».
  - La parte IV del [decreto legislativo n. 58 del 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58) reca la rubrica: «Disciplina degli emittenti»; il relativo titolo III reca la rubrica: «Emittenti»; il capo II del predetto titolo III reca la rubrica: «Disciplina delle societa' con azioni quotate».
- - Si riporta il testo dell'[art. 154-bis del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), come modificato, dal presente decreto:
+ - Si riporta il testo dell'[art. 154-bis del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), come modificato, dal presente decreto:
  «Art. 154-bis (Dirigente preposto alla redazione dei documenti contabili societari). - 1. Lo statuto degli emittenti quotati aventi l'Italia come Stato membro d'origine prevede i requisiti di professionalita' e le modalita' di nomina di un dirigente preposto alla redazione dei documenti contabili societari, previo parere obbligatorio dell'organo di controllo.
  2. Gli atti e le comunicazioni della societa' diffusi al mercato, e relativi all'informativa contabile anche infrannuale della stessa societa', sono accompagnati da una dichiarazione scritta del dirigente preposto alla redazione dei documenti contabili societari, che ne attestano la corrispondenza alle risultanze documentali, ai libri e alle scritture contabili.
  3. Il dirigente preposto alla redazione dei documenti contabili societari predispone adeguate procedure amministrative e contabili per la formazione del bilancio di esercizio e, ove previsto, del bilancio consolidato nonche' di ogni altra comunicazione di carattere finanziario.
@@ -375,7 +375,7 @@ Il [quarto comma dell'articolo 2428 del codice civile](https://www.normattiva.it
 
 2.
 
-Le disposizioni degli articoli 154-bis, cosi' come modificato dall'articolo 1, comma 9, del presente decreto, e 154-ter, del [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), si applicano nella redazione delle relazioni finanziarie relative a esercizi, semestri e periodi aventi inizio dalla data successiva a quella di entrata in vigore del presente decreto.
+Le disposizioni degli articoli 154-bis, cosi' come modificato dall'articolo 1, comma 9, del presente decreto, e 154-ter, del [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), si applicano nella redazione delle relazioni finanziarie relative a esercizi, semestri e periodi aventi inizio dalla data successiva a quella di entrata in vigore del presente decreto.
 
 3.
 
@@ -383,7 +383,7 @@ In sede di prima attuazione, la Consob emana i provvedimenti previsti dal presen
 
 4.
 
-Fino all'attuazione dell'[articolo 113-ter del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), si applicano le disposizioni legislative e regolamentari vigenti in materia di modalita' di diffusione delle informazioni regolamentate.
+Fino all'attuazione dell'[articolo 113-ter del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), si applicano le disposizioni legislative e regolamentari vigenti in materia di modalita' di diffusione delle informazioni regolamentate.
 
 Nota all'[art. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2):
  - L'[art. 2428 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2428), abrogato dal presente decreto recava: «(Relazione sulla gestione).».

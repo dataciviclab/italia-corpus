@@ -198,7 +198,7 @@ Con decreti del Ministro per il tesoro sara' provveduto alle variazioni di bilan
 
 ## Art. 25.
 
-Per i pagamenti da effettuarsi in applicazione degli articoli 1, 2, 19 e 22 del presente decreto sara' provveduto mediante l'emissione di ordini di accreditamento fino all'importo di L. 500 milioni, in deroga all'[art. 56 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56) e successive modificazioni.
+Per i pagamenti da effettuarsi in applicazione degli articoli 1, 2, 19 e 22 del presente decreto sara' provveduto mediante l'emissione di ordini di accreditamento fino all'importo di L. 500 milioni, in deroga all'[art. 56 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e successive modificazioni.
 
 ## Art. 26.
 

@@ -67,7 +67,7 @@ Il personale insegnante e tecnico di ruolo e' nominato a ciascuno dei gradi indi
 
 ## Art. 6.
 
-Fintantoche' non verranno emanate nuove disposizioni di carattere generale sul funzionamento didattico, disciplinare e amministrativo degli istituti e delle scuole d'arte, la scuola artistico-industriale per la ceramica di Caltagirone funzionera', secondo le norme di cui al [regio decreto 31 ottobre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523) e del relativo regolamento approvato con il [regio decreto 3 giugno 1924, n. 969](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20listruzione%20industriale%20in%20applicazione%20del%20R.%20decreto%2031%20ottobre%201923%20n.%202523.%20024U0969.md) e relative estensioni e modificazioni.
+Fintantoche' non verranno emanate nuove disposizioni di carattere generale sul funzionamento didattico, disciplinare e amministrativo degli istituti e delle scuole d'arte, la scuola artistico-industriale per la ceramica di Caltagirone funzionera', secondo le norme di cui al [regio decreto 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md) e del relativo regolamento approvato con il [regio decreto 3 giugno 1924, n. 969](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20listruzione%20industriale%20in%20applicazione%20del%20R.%20decreto%2031%20ottobre%201923%20n.%202523.%20024U0969.md) e relative estensioni e modificazioni.
 
 ## Art. 7.
 

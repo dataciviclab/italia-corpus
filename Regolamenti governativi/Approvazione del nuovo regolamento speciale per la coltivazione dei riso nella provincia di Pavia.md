@@ -15,7 +15,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Visto il regolamento speciale per la coltivazione del riso nella provincia di Pavia, approvato con [regio decreto 3 agosto 1919, n. 1720](../Regi%20decreti/Che%20approva%20il%20regolamento%20speciale%20per%20la%20risicoltura%20nella%20provincia%20di%20Pavia.%20019U1720.md);
  Ritenuta l'opportunita' di apportare modifiche a tale regolamento;
  Visto il nuovo testa di regolamento approvato dal consiglio provinciale di Pavia con atto n. 3911 del 13 maggio 1954;
- Visto l'[art. 204 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_204), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265);
+ Visto l'[art. 204 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md);
  Sulla proposta del Presidente del Consiglio dei Ministri, sentito il Ministro per il lavoro e la previdenza sociale;
 
  Decreta:

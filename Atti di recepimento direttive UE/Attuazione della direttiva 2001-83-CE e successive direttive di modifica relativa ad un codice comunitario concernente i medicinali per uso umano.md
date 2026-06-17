@@ -754,14 +754,14 @@ L'AIFA cura la sollecita pubblicazione nella Gazzetta Ufficiale della Repubblica
 
 1.
 
-L'AIFA, avvalendosi della Commissione consultiva tecnico-scientifica, istituita ai sensi dell'[articolo 19 del decreto del Ministro della salute 20 settembre 2004, n. 245](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.salute:decreto:2004-09-20;245#art_19), redige un rapporto di valutazione e formula eventuali osservazioni sulla documentazione presentata a corredo della domanda per quanto riguarda i risultati delle prove farmaceutiche, precliniche e delle sperimentazioni cliniche. Il rapporto di valutazione e' aggiornato ogniqualvolta si rendano disponibili nuove informazioni rilevanti ai fini della valutazione della qualita', sicurezza o efficacia del medicinale di cui trattasi.
+L'AIFA, avvalendosi della Commissione consultiva tecnico-scientifica, istituita ai sensi dell'[articolo 19 del decreto del Ministro della salute 20 settembre 2004, n. 245](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20sullorganizzazione%20ed%20il%20funzionamento%20dellAgenzia%20Italiana%20del%20Farmaco%20a%20norma%20dellarticolo%2048%20comma%2013%20del%20decreto-legge%2030%20settembre%202003%20n.%20269%20convertito%20ne_0380517ffca8.md), redige un rapporto di valutazione e formula eventuali osservazioni sulla documentazione presentata a corredo della domanda per quanto riguarda i risultati delle prove farmaceutiche, precliniche e delle sperimentazioni cliniche. Il rapporto di valutazione e' aggiornato ogniqualvolta si rendano disponibili nuove informazioni rilevanti ai fini della valutazione della qualita', sicurezza o efficacia del medicinale di cui trattasi.
 
 2.
 
 L'AIFA provvede sollecitamente a rendere accessibile al pubblico, tramite il sito internet, il rapporto di valutazione, unitamente alle proprie decisioni motivate, previa cancellazione di tutte le informazioni commerciali a carattere riservato. La motivazione delle decisioni e' fornita separatamente per ogni indicazione richiesta.
 
 Nota all'art. 32:
- - Si riporta il testo dell'[art. 19 del decreto del Ministro della salute 20 settembre 2004, n. 245](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.salute:decreto:2004-09-20;245#art_19), recante: «Regolamento recante norme sull'organizzazione ed il funzionamento dell'Agenzia italiana del Farmaco, a norma dell'[art. 48, comma 13, del decreto-legge 30 settembre 2003, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-09-30;269#art_48-com13), convertito nella [legge 24 novembre 2003, n. 326](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20settembre%202003%20n.%20269%20recante%20disposizioni%20urgenti%20per%20favorire%20lo%20sviluppo%20e%20per%20la%20correzione%20dellandamento%20dei%20conti%20pubblici.md)»:
+ - Si riporta il testo dell'[art. 19 del decreto del Ministro della salute 20 settembre 2004, n. 245](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20sullorganizzazione%20ed%20il%20funzionamento%20dellAgenzia%20Italiana%20del%20Farmaco%20a%20norma%20dellarticolo%2048%20comma%2013%20del%20decreto-legge%2030%20settembre%202003%20n.%20269%20convertito%20ne_0380517ffca8.md), recante: «Regolamento recante norme sull'organizzazione ed il funzionamento dell'Agenzia italiana del Farmaco, a norma dell'[art. 48, comma 13, del decreto-legge 30 settembre 2003, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-09-30;269#art_48-com13), convertito nella [legge 24 novembre 2003, n. 326](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20settembre%202003%20n.%20269%20recante%20disposizioni%20urgenti%20per%20favorire%20lo%20sviluppo%20e%20per%20la%20correzione%20dellandamento%20dei%20conti%20pubblici.md)»:
  «Art. 19 (Commissione consultiva tecnico-scientifica e Comitato prezzi e rimborso). - 1. Nell'ambito dell'Agenzia operano la "Commissione consultiva tecnico-scientifica per la valutazione dei farmaci" e il "Comitato prezzi e rimborso".
  2. La Commissione consultiva tecnico-scientifica svolge le funzioni gia' attribuite alla Commissione unica del farmaco, nonche' i compiti attribuitile dall'art. 48, comma 5, lettere d), e) ed l) della legge di riferimento; essa svolge, altresi', attivita' di consulenza tecnico-scientifica su richiesta del direttore generale o del consiglio di amministrazione.
  3. La Commissione di cui al precedente comma adotta le proprie determinazioni con autonomia sul piano tecnico scientifico e sanitario, anche sulla base dell'attivita' istruttoria svolta dal Comitato prezzi e rimborso.
@@ -2172,14 +2172,14 @@ La ricetta, che deve comunque contenere, stampata o apposta con timbro, la chiar
 
 1.
 
-I medicinali soggetti a prescrizione medica speciale sono i medicinali per i quali il testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), e successive modificazioni, prevede specifiche modalita' di distribuzione e prescrizione.
+I medicinali soggetti a prescrizione medica speciale sono i medicinali per i quali il testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../Testi%20Unici/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), e successive modificazioni, prevede specifiche modalita' di distribuzione e prescrizione.
 
 2.
 
 Ferma restando la disciplina del testo unico richiamato al comma 1, i medicinali soggetti a prescrizione medica speciale possono essere sottoposti anche ad altre limitazioni previste dal presente decreto e dalle disposizioni che ne assicurano l'attuazione.
 
 Nota all'[art. 90:
- - Il decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), reca: «Testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza».
+ - Il decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../Testi%20Unici/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), reca: «Testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza».
 
 ### Art. 91. — Medicinali soggetti a prescrizione medica limitativa
 
@@ -2573,7 +2573,7 @@ Ove medicinali immunologici o medicinali derivati dal sangue risultano prodotti 
 
 3.
 
-Restano ferme le disposizioni sul commercio all'ingrosso contenute nel testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), e successive modificazioni.
+Restano ferme le disposizioni sul commercio all'ingrosso contenute nel testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../Testi%20Unici/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), e successive modificazioni.
 
 Nota all'art. 106:
  - Per il decreto del Presidente della Repubblica vedi note all'art. 90.
@@ -2943,19 +2943,19 @@ Nessuna pubblicita' di medicinali presso il pubblico puo' essere effettuata senz
 
 2.
 
-L'autorizzazione e' rilasciata dal Ministero della salute, sentita la Commissione di esperti prevista dall'[articolo 201 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_201) di cui al [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), e successive modificazioni. (13)
+L'autorizzazione e' rilasciata dal Ministero della salute, sentita la Commissione di esperti prevista dall'[articolo 201 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) di cui al [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), e successive modificazioni. (13)
 
 3.
 
-COMMA ABROGATO DAL [D.P.R. 14 MAGGIO 2007, N. 86](../DPR/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20della%20salute%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modificazioni%20dalla%20leg_553cb57616f6.md).
+COMMA ABROGATO DAL [D.P.R. 14 MAGGIO 2007, N. 86](../Regolamenti%20governativi/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20della%20salute%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modificazioni%20dalla%20leg_553cb57616f6.md).
 
 4.
 
-COMMA ABROGATO DAL [D.P.R. 14 MAGGIO 2007, N. 86](../DPR/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20della%20salute%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modificazioni%20dalla%20leg_553cb57616f6.md).
+COMMA ABROGATO DAL [D.P.R. 14 MAGGIO 2007, N. 86](../Regolamenti%20governativi/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20della%20salute%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modificazioni%20dalla%20leg_553cb57616f6.md).
 
 5.
 
-COMMA ABROGATO DAL [D.P.R. 14 MAGGIO 2007, N. 86](../DPR/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20della%20salute%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modificazioni%20dalla%20leg_553cb57616f6.md).
+COMMA ABROGATO DAL [D.P.R. 14 MAGGIO 2007, N. 86](../Regolamenti%20governativi/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20della%20salute%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modificazioni%20dalla%20leg_553cb57616f6.md).
 
 6.
 
@@ -3001,13 +3001,13 @@ Se la pubblicita' presso il pubblico e' effettuata in violazione delle disposizi
 
 14.
 
-Le disposizioni dei commi 8, 9, 10, 11, 12 e 13, si applicano, altresi', ai dispositivi medici, ivi compresi i diagnostici in vitro utilizzabili senza prescrizione o assistenza del medico o di altro professionista sanitario, nonche' agli altri prodotti diversi dai medicinali per uso umano, soggetti alla disciplina prevista dall'[articolo 201, terzo comma, del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_201-com3) di cui al [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), e successive modificazioni.
+Le disposizioni dei commi 8, 9, 10, 11, 12 e 13, si applicano, altresi', ai dispositivi medici, ivi compresi i diagnostici in vitro utilizzabili senza prescrizione o assistenza del medico o di altro professionista sanitario, nonche' agli altri prodotti diversi dai medicinali per uso umano, soggetti alla disciplina prevista dall'[articolo 201, terzo comma, del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) di cui al [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), e successive modificazioni.
 
 --------------
 
 AGGIORNAMENTO (13)
 
-Il [D.P.R. 28 marzo 2013, n. 44](../DPR/Regolamento%20recante%20il%20riordino%20degli%20organi%20collegiali%20ed%20altri%20organismi%20operanti%20presso%20il%20Ministero%20della%20salute%20ai%20sensi%20dellarticolo%202%20comma%204%20della%20legge%204%20novembre%202010%20n.%20183.%2013G00085.md) ha disposto (con l'art. 2, comma 1, lettera e)) che sono trasferite ad un unico organo collegiale, denominato «Comitato tecnico sanitario», le funzioni in atto esercitate dalla Commissione per il rilascio delle licenze per la pubblicita' sanitaria di cui al comma 2 del presente articolo.
+Il [D.P.R. 28 marzo 2013, n. 44](../Regolamenti%20governativi/Regolamento%20recante%20il%20riordino%20degli%20organi%20collegiali%20ed%20altri%20organismi%20operanti%20presso%20il%20Ministero%20della%20salute%20ai%20sensi%20dellarticolo%202%20comma%204%20della%20legge%204%20novembre%202010%20n.%20183.%2013G00085.md) ha disposto (con l'art. 2, comma 1, lettera e)) che sono trasferite ad un unico organo collegiale, denominato «Comitato tecnico sanitario», le funzioni in atto esercitate dalla Commissione per il rilascio delle licenze per la pubblicita' sanitaria di cui al comma 2 del presente articolo.
 
 ### Art. 119. — Pubblicita' presso gli operatori sanitari
 
@@ -3231,7 +3231,7 @@ Tranne che nel caso di evidenti difficolta' tecniche, sull'imballaggio esterno, 
 
 9.
 
-Non puo' essere fornito alcun campione dei medicinali disciplinati dal testo unico di cui al [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md).
+Non puo' essere fornito alcun campione dei medicinali disciplinati dal testo unico di cui al [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../Testi%20Unici/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md).
 
 10.
 
@@ -3531,8 +3531,8 @@ Note all'[art. 135:
  - La [direttiva 2002/98/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;98) e' pubblicata nella G.U.C.E. 8 febbraio 2003 NL n. 33.
  - Per il [decreto legislativo 24 giugno 2003, n. 211](Attuazione%20della%20direttiva%202001-20-CE%20relativa%20allapplicazione%20della%20buona%20pratica%20clinica%20nellesecuzione%20delle%20sperimentazioni%20cliniche%20di%20medicinali%20per%20uso%20clinico.md), vedi note alle premesse.
  - Per la [direttiva 2001/83/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;83), vedi note alle premesse.
- Nota all'[art. 147](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)
- - L'[art. 443 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) cosi' recita:
+ Nota all'[art. 147](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)
+ - L'[art. 443 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) cosi' recita:
  «Art. 443 (Commercio o somministrazione di medicinali guasti). - «Chiunque detiene per il commercio, pone in commercio o somministra medicinali guasti o imperfetti e' punito con la reclusione da sei mesi a tre anni e con la multa non inferiore a lire duecentomila.».
 
 ### Art. 136. — Autosufficienza comunitaria in materia di sangue e plasma umani
@@ -3843,7 +3843,7 @@ Le pene di cui ai commi 2, primo periodo, e 3, primo e secondo periodo, si appli
 
 7.
 
-Il produttore di medicinali o il titolare dell'AIC che immettono in commercio medicinali privi del requisito della sterilita' quando prescritto ovvero medicinali di cui al titolo X in cui sono presenti agenti patogeni suscettibili di essere trasmessi, e' soggetto alle pene previste dall'[articolo 443 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) aumentate di un terzo.
+Il produttore di medicinali o il titolare dell'AIC che immettono in commercio medicinali privi del requisito della sterilita' quando prescritto ovvero medicinali di cui al titolo X in cui sono presenti agenti patogeni suscettibili di essere trasmessi, e' soggetto alle pene previste dall'[articolo 443 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) aumentate di un terzo.
 
 ((
 
@@ -4076,10 +4076,10 @@ L'AIFA rende accessibili al pubblico, con modalita' da pubblicare sul sito inter
 
 3.
 
-Un rappresentante della competente Direzione generale del Ministero della salute partecipa, con facolta' di esporre la posizione del Ministero della salute su particolari questioni, alle riunioni degli organi collegiali dell'AIFA disciplinati dagli [articoli 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.salute:decreto:2004-09-20;245#art_19) e [20 del decreto del Ministro della salute in data 20 settembre 2004, n. 245](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.salute:decreto:2004-09-20;245#art_20). La partecipazione alle riunioni degli organi collegiali dell'AIFA non da' diritto alla corresponsione di alcun emolumento, indennita', compenso o rimborso spese.
+Un rappresentante della competente Direzione generale del Ministero della salute partecipa, con facolta' di esporre la posizione del Ministero della salute su particolari questioni, alle riunioni degli organi collegiali dell'AIFA disciplinati dagli [articoli 19](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20sullorganizzazione%20ed%20il%20funzionamento%20dellAgenzia%20Italiana%20del%20Farmaco%20a%20norma%20dellarticolo%2048%20comma%2013%20del%20decreto-legge%2030%20settembre%202003%20n.%20269%20convertito%20ne_0380517ffca8.md) e [20 del decreto del Ministro della salute in data 20 settembre 2004, n. 245](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20sullorganizzazione%20ed%20il%20funzionamento%20dellAgenzia%20Italiana%20del%20Farmaco%20a%20norma%20dellarticolo%2048%20comma%2013%20del%20decreto-legge%2030%20settembre%202003%20n.%20269%20convertito%20ne_0380517ffca8.md). La partecipazione alle riunioni degli organi collegiali dell'AIFA non da' diritto alla corresponsione di alcun emolumento, indennita', compenso o rimborso spese.
 
-Note all'[art. 155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.salute:decreto:2004-09-20;245#art_155):
- - Per l'[art. 19 e per il decreto del Ministro della salute del 20 settembre 2004, n. 245](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.salute:decreto:2004-09-20;245#art_19), vedi note all'art. 32.
+Note all'[art. 155](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20sullorganizzazione%20ed%20il%20funzionamento%20dellAgenzia%20Italiana%20del%20Farmaco%20a%20norma%20dellarticolo%2048%20comma%2013%20del%20decreto-legge%2030%20settembre%202003%20n.%20269%20convertito%20ne_0380517ffca8.md):
+ - Per l'[art. 19 e per il decreto del Ministro della salute del 20 settembre 2004, n. 245](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20sullorganizzazione%20ed%20il%20funzionamento%20dellAgenzia%20Italiana%20del%20Farmaco%20a%20norma%20dellarticolo%2048%20comma%2013%20del%20decreto-legge%2030%20settembre%202003%20n.%20269%20convertito%20ne_0380517ffca8.md), vedi note all'art. 32.
  - L'art. 20 del medesimo decreto cosi' recita:
  «Art. 20 (Centro di collegamento Agenzia-regioni). - 1.
  Nell'ambito dell'Agenzia opera il Centro di collegamento tra l'Agenzia e le regioni, che si avvale degli Osservatori di cui all'art. 18 del presente regolamento. In particolare il Centro, al fine di assicurare una stretta collaborazione tra l'Agenzia e le regioni, svolge le seguenti attivita' di studio e consultive:
@@ -4109,7 +4109,7 @@ Il produttore che non sia in possesso di un'AIC e' tenuto a fornire all'AIFA, ai
 
 1.
 
-Fatto salvo quanto previsto in materia di gestione dei rifiuti sanitari dal [decreto del Presidente della Repubblica 15 luglio 2003, n. 254](../DPR/Regolamento%20recante%20disciplina%20della%20gestione%20dei%20rifiuti%20sanitari%20a%20norma%20dellarticolo%2024%20della%20legge%2031%20luglio%202002%20n.%20179.md), con decreto del Ministro della salute, di concerto con il Ministro dell'ambiente e tutela del territorio e il Ministro delle attivita' produttive, previo parere della Conferenza permanente per i rapporti fra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sono stabiliti con oneri a carico degli operatori idonei sistemi di raccolta per i medicinali inutilizzati o scaduti. Tali sistemi possono basarsi anche su accordi, a livello nazionale o territoriale, fra le parti interessate alla raccolta. PERIODO SOPPRESSO DALLA [L. 19 AGOSTO 2016, N. 166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-08-19;166).
+Fatto salvo quanto previsto in materia di gestione dei rifiuti sanitari dal [decreto del Presidente della Repubblica 15 luglio 2003, n. 254](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20della%20gestione%20dei%20rifiuti%20sanitari%20a%20norma%20dellarticolo%2024%20della%20legge%2031%20luglio%202002%20n.%20179.md), con decreto del Ministro della salute, di concerto con il Ministro dell'ambiente e tutela del territorio e il Ministro delle attivita' produttive, previo parere della Conferenza permanente per i rapporti fra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sono stabiliti con oneri a carico degli operatori idonei sistemi di raccolta per i medicinali inutilizzati o scaduti. Tali sistemi possono basarsi anche su accordi, a livello nazionale o territoriale, fra le parti interessate alla raccolta. PERIODO SOPPRESSO DALLA [L. 19 AGOSTO 2016, N. 166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-08-19;166).
 
 1-bis.
 
@@ -4173,12 +4173,12 @@ Restano ferme le disposizioni del decreto del Ministro della sanita' in data 29 
 
 8.
 
-Il viaggiatore ha facolta' di portare con se', al momento dell'ingresso nel territorio nazionale, medicinali registrati in altri Paesi, purche' destinati ad un trattamento terapeutico non superiore a trenta giorni, fatte salve, limitatamente agli stupefacenti e sostanze psicotrope di cui al testo unico di cui al [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), e successive modificazioni, le condizioni e le procedure che possono essere stabilite con decreto del Ministro della salute.
+Il viaggiatore ha facolta' di portare con se', al momento dell'ingresso nel territorio nazionale, medicinali registrati in altri Paesi, purche' destinati ad un trattamento terapeutico non superiore a trenta giorni, fatte salve, limitatamente agli stupefacenti e sostanze psicotrope di cui al testo unico di cui al [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../Testi%20Unici/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), e successive modificazioni, le condizioni e le procedure che possono essere stabilite con decreto del Ministro della salute.
 
 9.
 
 Le disposizioni di cui ai decreti ministeriali richiamati ai commi 6 e 7, possono essere modificate con decreto del Ministro della salute, su proposta dell'AIFA o previa consultazione della stessa.
-Resta in ogni caso ferma la necessita' dell'autorizzazione ministeriale per l'introduzione nel territorio nazionale, nelle ipotesi previste dai commi 6 e 7, di medicinali sottoposti alla disciplina del testo unico di cui al [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), e successive modificazioni.
+Resta in ogni caso ferma la necessita' dell'autorizzazione ministeriale per l'introduzione nel territorio nazionale, nelle ipotesi previste dai commi 6 e 7, di medicinali sottoposti alla disciplina del testo unico di cui al [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../Testi%20Unici/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), e successive modificazioni.
 
 10.
 

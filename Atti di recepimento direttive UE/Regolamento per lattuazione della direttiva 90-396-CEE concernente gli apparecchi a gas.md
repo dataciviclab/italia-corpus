@@ -26,7 +26,7 @@ Vista la [legge 26 luglio 1965, n. 966](https://www.normattiva.it/uri-res/N2Ls?u
 
 Vista la [legge 6 dicembre 1971, n. 1083](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1083), sulla sicurezza di impiego del gas combustibile;
 
-Visto il [decreto del Presidente della Repubblica 29 luglio 1982, n. 577](../DPR/Approvazione%20del%20regolamento%20concernente%20lespletamento%20dei%20servizi%20di%20prevenzione%20e%20di%20vigilanza%20antincendi.md);
+Visto il [decreto del Presidente della Repubblica 29 luglio 1982, n. 577](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20concernente%20lespletamento%20dei%20servizi%20di%20prevenzione%20e%20di%20vigilanza%20antincendi.md);
 
 Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 25 luglio 1996;
 

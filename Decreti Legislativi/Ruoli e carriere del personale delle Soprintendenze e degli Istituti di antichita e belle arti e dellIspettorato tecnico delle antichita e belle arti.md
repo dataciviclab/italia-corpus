@@ -31,7 +31,7 @@ Nei posti di nuova istituzione indicati nella tabella A, allegata al presente de
 
 ## Art. 3.
 
-Al personale incaricato delle funzioni di economo la retribuzione annua spettante in virtu' dell'[art. 13 del regio decreto 31 dicembre 1923, n. 3164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164#art_13), e' elevata a partire dal 1 aprile 1948, a L. 7000 annue.
+Al personale incaricato delle funzioni di economo la retribuzione annua spettante in virtu' dell'[art. 13 del regio decreto 31 dicembre 1923, n. 3164](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md), e' elevata a partire dal 1 aprile 1948, a L. 7000 annue.
 
 ## Art. 4.
 

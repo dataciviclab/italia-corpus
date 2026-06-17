@@ -389,7 +389,7 @@ Per i lavoratori dipendenti iscritti all'assicurazione generale obbligatoria per
 
 1.
 
-COMMA ABROGATO DAL [D.LGS. 26 MARZO 2001, N. 151](Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20tutela%20e%20sostegno%20della%20maternita%20e%20della%20paternita%20a%20norma%20dellarticolo%2015%20della%20legge%208%20marzo%202000%20n.%2053.md) .
+COMMA ABROGATO DAL [D.LGS. 26 MARZO 2001, N. 151](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20tutela%20e%20sostegno%20della%20maternita%20e%20della%20paternita%20a%20norma%20dellarticolo%2015%20della%20legge%208%20marzo%202000%20n.%2053.md) .
 
 2.
 
@@ -397,7 +397,7 @@ COMMA ABROGATO DAL [D.LGS. 26 MARZO 2001, N. 151](Testo%20unico%20delle%20dispos
 
 3.
 
-COMMA ABROGATO DAL [D.LGS. 26 MARZO 2001, N. 151](Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20tutela%20e%20sostegno%20della%20maternita%20e%20della%20paternita%20a%20norma%20dellarticolo%2015%20della%20legge%208%20marzo%202000%20n.%2053.md) .
+COMMA ABROGATO DAL [D.LGS. 26 MARZO 2001, N. 151](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20tutela%20e%20sostegno%20della%20maternita%20e%20della%20paternita%20a%20norma%20dellarticolo%2015%20della%20legge%208%20marzo%202000%20n.%2053.md) .
 
 -----------
 

@@ -80,7 +80,7 @@ All'[articolo 23-bis della legge 6 dicembre 1971, n. 1034](https://www.normattiv
 
 3.
 
-All'[articolo 13, comma 6-bis, del testo unico delle disposizioni legislative e regolamentari in materia di spese di giustizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md), di cui al [decreto del Presidente della Repubblica 30 maggio 2002, n. 115](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md), le parole: "per i predetti ricorsi in materia di affidamento di lavori, servizi e forniture" sono sostituite dalle seguenti: "per i ricorsi in materia di procedure di affidamento di lavori, servizi e forniture, ivi compresi quelli per motivi aggiunti e quelli incidentali contenenti domande nuove".
+All'[articolo 13, comma 6-bis, del testo unico delle disposizioni legislative e regolamentari in materia di spese di giustizia](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md), di cui al [decreto del Presidente della Repubblica 30 maggio 2002, n. 115](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md), le parole: "per i predetti ricorsi in materia di affidamento di lavori, servizi e forniture" sono sostituite dalle seguenti: "per i ricorsi in materia di procedure di affidamento di lavori, servizi e forniture, ivi compresi quelli per motivi aggiunti e quelli incidentali contenenti domande nuove".
 
 4.
 

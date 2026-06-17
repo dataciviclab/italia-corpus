@@ -14,7 +14,7 @@ RICERCA SCIENTIFICA E TECNOLOGICA
 
 Vista la [legge 9 maggio 1989, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-09;168), istitutiva del Ministero dell'universita' e della ricerca scientifica e tecnologica;
 
-Visto il testo unico della legge sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Visto il testo unico della legge sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Vista la [legge 8 dicembre 1956, n 1378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-08;1378), che disciplina gli esami di Stato di abilitazione all'esercizio delle professioni;
 
@@ -46,7 +46,7 @@ Avvertenza:
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - La [legge 9 maggio 1989, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-09;168), prevede l'istituzione del Ministero dell'universita' e della ricerca scientifica e tecnologica.
- - Il [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), concerne: "Approvazione del testo unico delle leggi sull'istruzione superiore".
+ - Il [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), concerne: "Approvazione del testo unico delle leggi sull'istruzione superiore".
  - La [legge 8 dicembre 1956, n. 1378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-08;1378), prevede: "Esami di Stato di abilitazione all'esercizio delle professioni".
  - Il decreto ministeriale del 9 settembre 1957 reca: "Approvazione del regolamento sugli esami di Stato di abilitazione all'esercizio delle professioni".
  - Si riporta il testo del [comma 3 dell'art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri):

@@ -54,7 +54,7 @@ Visto il [decreto del Presidente della Repubblica 22 giugno 2009, n. 122](../DPR
 
 Visto il [decreto del Presidente della Repubblica 28 marzo 2013, n. 80](../DPR/Regolamento%20sul%20sistema%20nazionale%20di%20valutazione%20in%20materia%20di%20istruzione%20e%20formazione.%2013G00121.md), recante Regolamento sul sistema nazionale di valutazione in materia di istruzione e formazione;
 
-Visto il [decreto del Ministro della pubblica istruzione 22 agosto 2007, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.pubblica.istruzione:decreto:2007-08-22;139), regolamento recante norme in materia di adempimento dell'obbligo di istruzione;
+Visto il [decreto del Ministro della pubblica istruzione 22 agosto 2007, n. 139](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20in%20materia%20di%20adempimento%20dellobbligo%20di%20istruzione%20ai%20sensi%20dellarticolo%201%20comma%20622%20della%20legge%2027%20dicembre%202006%20n.%20296.md), regolamento recante norme in materia di adempimento dell'obbligo di istruzione;
 
 Vista la raccomandazione del Parlamento europeo e del Consiglio, relativa alle competenze chiave per l'apprendimento permanente del 18 dicembre 2006;
 

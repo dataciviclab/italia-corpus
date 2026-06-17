@@ -166,7 +166,7 @@ E' convertito in legge il [decreto-legge 8 luglio 1974, n. 264](https://www.norm
 
  L'articolo 22 e' sostituito dal seguente:
 
- "Alla attuazione delle norme fondamentali di riforma dei principi stabiliti dalla presente legge nella regione Trentino-Alto Adige provvederanno rispettivamente la regione Trentino-Alto Adige e le province autonome di Trento e di Bolzano secondo le rispettive competenze. A tal fine le province disporranno di una somma determinata in sede di definizione della quota variabile di cui all'[articolo 78 del decreto del Presidente della Repubblica 31 agosto 1972, n. 670](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20costituzionali%20concernenti%20lo%20statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md), in relazione alla spesa dello Stato nello stesso settore".
+ "Alla attuazione delle norme fondamentali di riforma dei principi stabiliti dalla presente legge nella regione Trentino-Alto Adige provvederanno rispettivamente la regione Trentino-Alto Adige e le province autonome di Trento e di Bolzano secondo le rispettive competenze. A tal fine le province disporranno di una somma determinata in sede di definizione della quota variabile di cui all'[articolo 78 del decreto del Presidente della Repubblica 31 agosto 1972, n. 670](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20costituzionali%20concernenti%20lo%20statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md), in relazione alla spesa dello Stato nello stesso settore".
 
  All'articolo 23,
 

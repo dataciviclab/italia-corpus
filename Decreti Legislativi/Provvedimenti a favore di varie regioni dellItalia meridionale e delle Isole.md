@@ -139,7 +139,7 @@ Per gli scopi di cui ai due precedenti articoli e' autorizzata l'ulteriore spesa
 ### Art. 14.
 
 Nella scelta delle opere da finanziare con i fondi di cui ai precedenti articoli 11, 12 e 13, si procedera' di intesa con la Regione siciliana.
- In sede di determinazione del contributo di solidarieta' nazionale da assegnarsi ai sensi dell'art. 38 dello Statuto della Regione siciliana, approvato con [regio decreto legislativo 15 maggio 1946, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-15;455), per gli esercizi 1946-47, 1947-48, 1948-49 e 1949-50, sara' tenuto conto della spesa sostenuta per l'esecuzione delle opere che rientrino nella competenza della Regione stessa.
+ In sede di determinazione del contributo di solidarieta' nazionale da assegnarsi ai sensi dell'art. 38 dello Statuto della Regione siciliana, approvato con [regio decreto legislativo 15 maggio 1946, n. 455](../Regi%20decreti%20legislativi/Approvazione%20dello%20statuto%20della%20Regione%20siciliana.md), per gli esercizi 1946-47, 1947-48, 1948-49 e 1949-50, sara' tenuto conto della spesa sostenuta per l'esecuzione delle opere che rientrino nella competenza della Regione stessa.
 
 ## Provvedimenti relativi all'industrializzazione nelle Regioni e territori di cui ai titoli I e IV.
 

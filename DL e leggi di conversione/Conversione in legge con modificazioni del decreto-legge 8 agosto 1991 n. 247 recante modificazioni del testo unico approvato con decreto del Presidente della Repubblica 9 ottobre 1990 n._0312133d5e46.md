@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 1.
 
-Il [decreto-legge 8 agosto 1991, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-08-08;247), recante modificazioni del testo unico, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), relativamente all'arresto in flagranza in materia di sostanze stupefacenti o psicotrope, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
+Il [decreto-legge 8 agosto 1991, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-08-08;247), recante modificazioni del testo unico, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../Testi%20Unici/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), relativamente all'arresto in flagranza in materia di sostanze stupefacenti o psicotrope, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
 
 AVVERTENZA:
  Il [decreto-legge 8 agosto 1991, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-08-08;247), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 185 dell'8 agosto 1991.

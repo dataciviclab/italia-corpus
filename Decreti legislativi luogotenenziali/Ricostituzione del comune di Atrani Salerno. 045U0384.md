@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 4 febbraio 1929, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-02-04;156);
+Visto il [R. decreto 4 febbraio 1929, n. 156](../Regi%20decreti/Ampliamento%20territoriale%20dei%20comuni%20di%20Amalfi%20e%20Ravello.%20029U0156.md);
 
 Visto il decreto-legge Luogotenenziale 25 giugno 1344, n. 151;
 
@@ -28,7 +28,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Ministro per l'interno
 
 ## Art. 1.
 
-Il comune di Atrani, aggregato al comune di Amalfi con [R. decreto 4 febbraio 1929, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-02-04;156), e' ricostituito con la circoscrizione presistente all'entrata la vigore del decreto medesimo. 
+Il comune di Atrani, aggregato al comune di Amalfi con [R. decreto 4 febbraio 1929, n. 156](../Regi%20decreti/Ampliamento%20territoriale%20dei%20comuni%20di%20Amalfi%20e%20Ravello.%20029U0156.md), e' ricostituito con la circoscrizione presistente all'entrata la vigore del decreto medesimo. 
  
  Il Prefetto di Salerno, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i comuni di Amalfi e di Atrani.
 

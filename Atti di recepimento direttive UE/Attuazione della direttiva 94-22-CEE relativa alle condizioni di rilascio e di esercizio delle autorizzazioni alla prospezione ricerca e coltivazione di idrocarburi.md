@@ -45,7 +45,7 @@ Ai sensi del presente decreto, si intende per:
                                 BUIG: il Bollettino ufficiale degli idrocarburi e della geotermia, di cui all'[articolo 43 della legge n.6 del 1957](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957;6#art_43).
 
 AVVERTENZA:
- In supplemento ordinario alla Gazzetta Ufficiale - serie generale - del 10 febbraio 1997 si procedera' alla ripubblicazione del testo del presente decreto corredato delle relative note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 14 marzo 1986, n. 217](../DPR/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblica_e0836c31af30.md).
+ In supplemento ordinario alla Gazzetta Ufficiale - serie generale - del 10 febbraio 1997 si procedera' alla ripubblicazione del testo del presente decreto corredato delle relative note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 14 marzo 1986, n. 217](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblica_e0836c31af30.md).
 
 ### Art. 2. — (Disposizioni generali)
 
@@ -653,7 +653,7 @@ Al termine del terzo anno l'area e' ridotta del 25%.
 
 6.
 
-Se il programma di cui al comma 1 prevede opere o attivita' per le quali non e' stata attivata la procedura di cui agli articoli 4 o 10 del [decreto del Presidente della Repubblica del 18 aprile 1994, n. 526](../DPR/Regolamento%20recante%20norme%20per%20disciplinare%20la%20valutazione%20dellimpatto%20ambientale%20relativa%20alla%20prospezione%20ricerca%20e%20coltivazione%20di%20idrocarburi%20liquidi%20e%20gassosi.md), l'inizio dei lavori e' subordinato alle procedure dell'articolo 2 del citato [decreto presidenziale n. 526 del 1994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994;526).
+Se il programma di cui al comma 1 prevede opere o attivita' per le quali non e' stata attivata la procedura di cui agli articoli 4 o 10 del [decreto del Presidente della Repubblica del 18 aprile 1994, n. 526](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20disciplinare%20la%20valutazione%20dellimpatto%20ambientale%20relativa%20alla%20prospezione%20ricerca%20e%20coltivazione%20di%20idrocarburi%20liquidi%20e%20gassosi.md), l'inizio dei lavori e' subordinato alle procedure dell'articolo 2 del citato [decreto presidenziale n. 526 del 1994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994;526).
 
 ### Art. 29. — (Attribuzione delle concessioni di coltivazione)
 
@@ -685,7 +685,7 @@ L'obbligo di corrispondere le aliquote di prodotto della coltivazione di cui al 
 
 5.
 
-Se il programma di cui al comma 1 prevede opere o attivita' per le quali non e' stata attivata la procedura di cui agli articoli 4 o 10 del [decreto del Presidente della Repubblica 18 aprile 1994, n. 526](../DPR/Regolamento%20recante%20norme%20per%20disciplinare%20la%20valutazione%20dellimpatto%20ambientale%20relativa%20alla%20prospezione%20ricerca%20e%20coltivazione%20di%20idrocarburi%20liquidi%20e%20gassosi.md), l'inizio dei lavori e' subordinato alle procedure di cui agli articoli 3 o 4, comma 2, del citato decreto presidenziale n. 526 de) 1994, ove ricorrano le condizioni ivi stabilite.
+Se il programma di cui al comma 1 prevede opere o attivita' per le quali non e' stata attivata la procedura di cui agli articoli 4 o 10 del [decreto del Presidente della Repubblica 18 aprile 1994, n. 526](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20disciplinare%20la%20valutazione%20dellimpatto%20ambientale%20relativa%20alla%20prospezione%20ricerca%20e%20coltivazione%20di%20idrocarburi%20liquidi%20e%20gassosi.md), l'inizio dei lavori e' subordinato alle procedure di cui agli articoli 3 o 4, comma 2, del citato decreto presidenziale n. 526 de) 1994, ove ricorrano le condizioni ivi stabilite.
 
 ### Art. 31. — (Attribuzione delle concessioni di stoccaggio)
 

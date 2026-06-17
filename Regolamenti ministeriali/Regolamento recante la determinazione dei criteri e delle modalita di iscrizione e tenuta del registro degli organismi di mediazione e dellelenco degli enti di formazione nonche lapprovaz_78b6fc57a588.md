@@ -1644,7 +1644,7 @@ Lo svolgimento dei corsi previsti dai commi 2, 3, e 6, da parte dei mediatori e 
 
 AGGIORNAMENTO (1)
 
-Il Decreto 9 agosto 2024 (in G.U. 10/8/2024 n. 187) ha disposto (con l'art. 1, comma 1) che "I termini di cui all'articolo 42, comma 1, ultima parte, e all'[articolo 43, comma 1, del decreto del Ministro della giustizia del 24 ottobre 2023, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.giustizia:decreto:2023-10-24;150#art_43-com1), per l'adeguamento ai requisiti di iscrizione, sono differiti al 31 gennaio 2025".
+Il Decreto 9 agosto 2024 (in G.U. 10/8/2024 n. 187) ha disposto (con l'art. 1, comma 1) che "I termini di cui all'articolo 42, comma 1, ultima parte, e all'[articolo 43, comma 1, del decreto del Ministro della giustizia del 24 ottobre 2023, n. 150](Regolamento%20recante%20la%20determinazione%20dei%20criteri%20e%20delle%20modalita%20di%20iscrizione%20e%20tenuta%20del%20registro%20degli%20organismi%20di%20mediazione%20e%20dellelenco%20degli%20enti%20di%20formazione%20nonche%20lapprovaz_78b6fc57a588.md), per l'adeguamento ai requisiti di iscrizione, sono differiti al 31 gennaio 2025".
 
 ### Art. 43. — Inserimento nell'elenco del responsabile dell'organismo e mantenimento dell'inserimento nell'elenco del responsabile scientifico
 
@@ -1680,7 +1680,7 @@ Gli enti di cui all'articolo 42, comma 5, per il mantenimento del responsabile s
 
 AGGIORNAMENTO (1)
 
-Il Decreto 9 agosto 2024 (in G.U. 10/8/2024 n. 187) ha disposto (con l'art. 1, comma 1) che "I termini di cui all'articolo 42, comma 1, ultima parte, e all'[articolo 43, comma 1, del decreto del Ministro della giustizia del 24 ottobre 2023, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.giustizia:decreto:2023-10-24;150#art_43-com1), per l'adeguamento ai requisiti di iscrizione, sono differiti al 31 gennaio 2025".
+Il Decreto 9 agosto 2024 (in G.U. 10/8/2024 n. 187) ha disposto (con l'art. 1, comma 1) che "I termini di cui all'articolo 42, comma 1, ultima parte, e all'[articolo 43, comma 1, del decreto del Ministro della giustizia del 24 ottobre 2023, n. 150](Regolamento%20recante%20la%20determinazione%20dei%20criteri%20e%20delle%20modalita%20di%20iscrizione%20e%20tenuta%20del%20registro%20degli%20organismi%20di%20mediazione%20e%20dellelenco%20degli%20enti%20di%20formazione%20nonche%20lapprovaz_78b6fc57a588.md), per l'adeguamento ai requisiti di iscrizione, sono differiti al 31 gennaio 2025".
 
 ### Art. 44. — Procedura di verifica dei requisiti di mantenimento dell'iscrizione
 

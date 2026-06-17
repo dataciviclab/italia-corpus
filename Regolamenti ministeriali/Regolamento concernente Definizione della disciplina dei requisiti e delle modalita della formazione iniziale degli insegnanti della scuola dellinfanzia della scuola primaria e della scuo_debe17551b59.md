@@ -211,7 +211,7 @@ I percorsi di cui ai commi 2, lettera b) e 3 prevedono nel corso della laurea ma
 
 6.
 
-La frequenza dei corsi previsti dal presente decreto e' incompatibile, ai sensi dell'[articolo 142 del Regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592#art_142), con l'iscrizione a:
+La frequenza dei corsi previsti dal presente decreto e' incompatibile, ai sensi dell'[articolo 142 del Regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), con l'iscrizione a:
                         a)
                             corsi di dottorato di ricerca;
                         b)
@@ -227,7 +227,7 @@ Note all'art. 3:
  - Per i riferimenti della [legge 21 dicembre 1999, n. 508](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-21;508) recante "Riforma delle Accademie di belle arti, dell'Accademia nazionale di danza, dell'Accademia nazionale di arte drammatica, degli Istituti superiori per le industrie artistiche, dei Conservatori di musica e degli Istituti musicali pareggiati", si vedano le note alle premesse. 
  - Il testo della Raccomandazione del Parlamento Europeo e del Consiglio del 18 dicembre 2006 relativa a competenze chiave per l'apprendimento permanente (2006/962/CE) e' stato pubblicato sulla Gazzetta Ufficiale dell'Unione Europea del 30 dicembre 2006. 
  - Per i riferimenti della [legge 5 febbraio 1992, n. 104](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-05;104) recante: "Legge-quadro per l'assistenza, l'integrazione sociale e i diritti delle persone handicappate" , si vedano le note alle premesse. 
- - Si riporta il testo dell'[articolo 142, del Regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592#art_142), recante Approvazione del testo unico delle leggi sull'istruzione superiore: 
+ - Si riporta il testo dell'[articolo 142, del Regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), recante Approvazione del testo unico delle leggi sull'istruzione superiore: 
  «Art. 142. Nelle Universita' e negl'Istituti superiori si puo' ottenere l'iscrizione solo in qualita' di studenti. 
  Salvo il disposto dell'art. 39, lettera c), e' vietata l'iscrizione contemporanea a diverse Universita' e a diversi Istituti di istruzione superiore, a diverse Facolta' o Scuole della stessa Universita' o dello stesso Istituto e a diversi corsi di laurea o di diploma della stessa Facolta' o Scuola.»
 

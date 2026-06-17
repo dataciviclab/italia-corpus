@@ -34,7 +34,7 @@ I trasferimenti di fondi di cui ai precedenti articoli 1 e 2 sono considerati a 
 
 ## Art. 4.
 
-Ai fondi trasferiti a norma del precedente art. 1 si applicano le disposizioni di cui all'[art. 61, primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_61-com1), [secondo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_61-com2) e [terzo comma, del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_61-com3), per l'amministrazione del patrimonio e per la contabilita' generale dello Stato.
+Ai fondi trasferiti a norma del precedente art. 1 si applicano le disposizioni di cui all'[art. 61, primo](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), [secondo](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e [terzo comma, del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), per l'amministrazione del patrimonio e per la contabilita' generale dello Stato.
  Tali disposizioni sono estese ai fondi direttamente accreditati in contabilita' speciali, a carico degli stanziamenti di bilancio.
 
 ## Art. 5.

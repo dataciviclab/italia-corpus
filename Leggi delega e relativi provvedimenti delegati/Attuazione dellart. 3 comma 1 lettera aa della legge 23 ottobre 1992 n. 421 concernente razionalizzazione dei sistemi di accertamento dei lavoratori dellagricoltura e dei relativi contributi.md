@@ -305,7 +305,7 @@ Ai fini della distinzione di cui al comma 1 le locuzioni di salariato fisso a co
 
 1.
 
-A decorrere dal 1 gennaio 1994 cessa, per gli operai agricoli a tempo indeterminato, la compilazione degli elenchi nominativi di cui all'[art. 12 del regio decreto 24 settembre 1940, n. 1949](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-09-24;1949#art_12), e succes- sive modificazioni ed integrazioni.
+A decorrere dal 1 gennaio 1994 cessa, per gli operai agricoli a tempo indeterminato, la compilazione degli elenchi nominativi di cui all'[art. 12 del regio decreto 24 settembre 1940, n. 1949](../Regi%20decreti/Modalita%20di%20accertamento%20dei%20contributi%20dovuti%20dagli%20agricoltori%20e%20dai%20lavoratori%20dellagricoltura%20per%20le%20associazioni%20professionali%20per%20lassistenza%20malattia%20per%20linvalidita%20e%20vecchiaia%20pe_36ac4a1909bf.md), e succes- sive modificazioni ed integrazioni.
 
 2.
 

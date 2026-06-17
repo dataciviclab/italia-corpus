@@ -12,7 +12,7 @@ UMBERTO II
 
 RE D'ITALIA
 
-Visto il [testo unico di leggi sulle acque e sugli impianti elettrici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775), approvato con [R. decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775) e successive disposizioni;
+Visto il [testo unico di leggi sulle acque e sugli impianti elettrici](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), approvato con [R. decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md) e successive disposizioni;
 
 Visto il [R. decreto-legge 12 maggio 1938, n. 770](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concessione%20di%20un%20contributo%20statale%20nella%20spesa%20per%20la%20costruzione%20di%20serbatoi%20e%20laghi%20artificiali%20in%20Sicilia%20ed%20in%20Sardegna%20e%20per%20la%20regolazione%20del%20Lago%20Maggiore.%20038U0770.md);
 
@@ -42,7 +42,7 @@ Il contributo straordinario di cui all'art. 1 potra' essere accordato, a giudizi
 
 ## Art. 3.
 
-Tenuto conto anche dell'eventuale contributo nella spesa di costruzione di serbatoi e laghi artificiali, in base agli [articoli 73 e seguenti del testo unico sulle acque e sugli impianti elettrici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_73) 11 dicembre 1933, numero 1775, il contributo, straordinario statale potra' essere accordato fino alla misura massima del 60 per cento nella spesa delle opere principali degli impianti idroelettrici.
+Tenuto conto anche dell'eventuale contributo nella spesa di costruzione di serbatoi e laghi artificiali, in base agli [articoli 73 e seguenti del testo unico sulle acque e sugli impianti elettrici](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md) 11 dicembre 1933, numero 1775, il contributo, straordinario statale potra' essere accordato fino alla misura massima del 60 per cento nella spesa delle opere principali degli impianti idroelettrici.
 
 ## Art. 4.
 

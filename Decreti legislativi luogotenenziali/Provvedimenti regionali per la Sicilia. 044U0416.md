@@ -98,7 +98,7 @@ E' istituito presso l'Alto Commissariato per la Sicilia un Comitato regionale pe
 
 ### Art. 8.
 
-Il comitato regionale predispone i programmi complessivi delle opere di cui all'[art. 2 del R. decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_2), e delle conseguenti trasformazioni dell'agricoltura, stabilendo il loro ordine graduale di svolgimento. Determina inoltre criteri di massime per le opere previste dagli articoli 38 e 43 del citalo decreto.
+Il comitato regionale predispone i programmi complessivi delle opere di cui all'[art. 2 del R. decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), e delle conseguenti trasformazioni dell'agricoltura, stabilendo il loro ordine graduale di svolgimento. Determina inoltre criteri di massime per le opere previste dagli articoli 38 e 43 del citalo decreto.
 
 ### Art. 9.
 
@@ -130,7 +130,7 @@ Anche nel caso in cui non abbiano luogo le concessioni previste dall'articolo pr
  
  Qualora i proprietari non assumano impegno di dare esecuzione ai piani loro imposti, ovvero l'ispettore agrario constati che i lavori ed i miglioramenti non sono eseguiti nei termini e con le modalita' prescritti, il prefetto, sentita la Commissione istituita dal [decreto legislativo Luogotenenziale 19 ottobre 1944, n. 279](Concessione%20ai%20contadini%20delle%20terre%20Incolte.%20044U0279.md), puo' provvedere, a spese dei proprietari, all'esecuzione dei piani stessi, a mezzo dell'Ente di colonizzazione. L'Ente si avvarra' preferibilmente dell'opera di cooperative, delle quali potra' promuovere la costituzione. 
  
- Per l'esecuzione dei miglioramenti di cui al presente articolo potranno essere accordati sussidi o mutui col concorso statale nel pagamento degli interessi a norma del [R. decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215).
+ Per l'esecuzione dei miglioramenti di cui al presente articolo potranno essere accordati sussidi o mutui col concorso statale nel pagamento degli interessi a norma del [R. decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md).
 
 ### Art. 13.
 
@@ -138,7 +138,7 @@ L'Alto Commissario, sentita la Consulta regionale, promuovera' il riordinamento 
 
 ### Art. 14.
 
-Per l'esecuzione in Sicilia delle opere, pubbliche o private, di bonifica, di colonizzazione e di miglioramento fondiario a norma del [R. decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), e' autorizzata la spesa di un miliardo, ivi compresa la disponibilita' esistente alla data del presente decreto sul fondo autorizzato dall'[art. 2 della legge 2 gennaio 1940, n. 1](../Atti%20normativi%20abrogati%20%28in%20originale%29/Colonizzazione%20del%20latifondo%20siciliano%20040U0001.md). 
+Per l'esecuzione in Sicilia delle opere, pubbliche o private, di bonifica, di colonizzazione e di miglioramento fondiario a norma del [R. decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), e' autorizzata la spesa di un miliardo, ivi compresa la disponibilita' esistente alla data del presente decreto sul fondo autorizzato dall'[art. 2 della legge 2 gennaio 1940, n. 1](../Atti%20normativi%20abrogati%20%28in%20originale%29/Colonizzazione%20del%20latifondo%20siciliano%20040U0001.md). 
  
  Con decreti del Ministro per il tesoro, di concerto con il Ministro per l'agricoltura e le foreste, sara' stabilito il reparto di tale somma fra opere di competenza statale e opere di competenza privata, nonche' il reparto, in non piu' di sei esercizi, dei relativi limiti di impegno e stanziamenti. Sul fondo predetto sono assegnati venti milioni di lire per l'incremento della facolta' agraria dell'Universita' di Palermo.
 

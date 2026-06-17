@@ -118,7 +118,7 @@ Nella produzione delle paste alimentari speciali, secche e fresche, le proteine 
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 9 febbraio 2001, n. 187](../Regolamenti%20governativi/Regolamento%20per%20la%20revisione%20della%20normativa%20sulla%20produzione%20e%20commercializzazione%20di%20sfarinati%20e%20paste%20alimentari%20a%20norma%20dellarticolo%2050%20della%20legge%2022%20febbraio%201994%20n.%20146.md) ha disposto (con l'art. 14, comma 1, lettera b)) dalla data di entrata in vigore del presente regolamento cessa di avere efficacia il [decreto del Ministro della sanita' 27 aprile 1998, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:1998-04-27;264).
+Il [D.P.R. 9 febbraio 2001, n. 187](../Regolamenti%20governativi/Regolamento%20per%20la%20revisione%20della%20normativa%20sulla%20produzione%20e%20commercializzazione%20di%20sfarinati%20e%20paste%20alimentari%20a%20norma%20dellarticolo%2050%20della%20legge%2022%20febbraio%201994%20n.%20146.md) ha disposto (con l'art. 14, comma 1, lettera b)) dalla data di entrata in vigore del presente regolamento cessa di avere efficacia il [decreto del Ministro della sanita' 27 aprile 1998, n. 264](Regolamento%20recante%20norme%20per%20limpiego%20di%20ingredienti%20consentiti%20nella%20produzione%20delle%20paste%20alimentari%20speciali%20secche%20e%20fresche.md).
 
 ## Art. 2.
 
@@ -150,7 +150,7 @@ Nella produzione delle paste alimentari speciali, secche e fresche, e' consentit
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 9 febbraio 2001, n. 187](../Regolamenti%20governativi/Regolamento%20per%20la%20revisione%20della%20normativa%20sulla%20produzione%20e%20commercializzazione%20di%20sfarinati%20e%20paste%20alimentari%20a%20norma%20dellarticolo%2050%20della%20legge%2022%20febbraio%201994%20n.%20146.md) ha disposto (con l'art. 14, comma 1, lettera b)) dalla data di entrata in vigore del presente regolamento cessa di avere efficacia il [decreto del Ministro della sanita' 27 aprile 1998, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:1998-04-27;264).
+Il [D.P.R. 9 febbraio 2001, n. 187](../Regolamenti%20governativi/Regolamento%20per%20la%20revisione%20della%20normativa%20sulla%20produzione%20e%20commercializzazione%20di%20sfarinati%20e%20paste%20alimentari%20a%20norma%20dellarticolo%2050%20della%20legge%2022%20febbraio%201994%20n.%20146.md) ha disposto (con l'art. 14, comma 1, lettera b)) dalla data di entrata in vigore del presente regolamento cessa di avere efficacia il [decreto del Ministro della sanita' 27 aprile 1998, n. 264](Regolamento%20recante%20norme%20per%20limpiego%20di%20ingredienti%20consentiti%20nella%20produzione%20delle%20paste%20alimentari%20speciali%20secche%20e%20fresche.md).
 
 ## Art. 3.
 
@@ -162,7 +162,7 @@ Gli ingredienti, sia dell'impasto che del ripieno, possono essere utilizzati, fa
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 9 febbraio 2001, n. 187](../Regolamenti%20governativi/Regolamento%20per%20la%20revisione%20della%20normativa%20sulla%20produzione%20e%20commercializzazione%20di%20sfarinati%20e%20paste%20alimentari%20a%20norma%20dellarticolo%2050%20della%20legge%2022%20febbraio%201994%20n.%20146.md) ha disposto (con l'art. 14, comma 1, lettera b)) dalla data di entrata in vigore del presente regolamento cessa di avere efficacia il [decreto del Ministro della sanita' 27 aprile 1998, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:1998-04-27;264).
+Il [D.P.R. 9 febbraio 2001, n. 187](../Regolamenti%20governativi/Regolamento%20per%20la%20revisione%20della%20normativa%20sulla%20produzione%20e%20commercializzazione%20di%20sfarinati%20e%20paste%20alimentari%20a%20norma%20dellarticolo%2050%20della%20legge%2022%20febbraio%201994%20n.%20146.md) ha disposto (con l'art. 14, comma 1, lettera b)) dalla data di entrata in vigore del presente regolamento cessa di avere efficacia il [decreto del Ministro della sanita' 27 aprile 1998, n. 264](Regolamento%20recante%20norme%20per%20limpiego%20di%20ingredienti%20consentiti%20nella%20produzione%20delle%20paste%20alimentari%20speciali%20secche%20e%20fresche.md).
 
 ## Art. 4.
 
@@ -178,7 +178,7 @@ Le paste alimentari speciali fresche sono soggette nelle fasi di trasporto, di d
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 9 febbraio 2001, n. 187](../Regolamenti%20governativi/Regolamento%20per%20la%20revisione%20della%20normativa%20sulla%20produzione%20e%20commercializzazione%20di%20sfarinati%20e%20paste%20alimentari%20a%20norma%20dellarticolo%2050%20della%20legge%2022%20febbraio%201994%20n.%20146.md) ha disposto (con l'art. 14, comma 1, lettera b)) dalla data di entrata in vigore del presente regolamento cessa di avere efficacia il [decreto del Ministro della sanita' 27 aprile 1998, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:1998-04-27;264).
+Il [D.P.R. 9 febbraio 2001, n. 187](../Regolamenti%20governativi/Regolamento%20per%20la%20revisione%20della%20normativa%20sulla%20produzione%20e%20commercializzazione%20di%20sfarinati%20e%20paste%20alimentari%20a%20norma%20dellarticolo%2050%20della%20legge%2022%20febbraio%201994%20n.%20146.md) ha disposto (con l'art. 14, comma 1, lettera b)) dalla data di entrata in vigore del presente regolamento cessa di avere efficacia il [decreto del Ministro della sanita' 27 aprile 1998, n. 264](Regolamento%20recante%20norme%20per%20limpiego%20di%20ingredienti%20consentiti%20nella%20produzione%20delle%20paste%20alimentari%20speciali%20secche%20e%20fresche.md).
 
 ## Art. 5.
 
@@ -194,7 +194,7 @@ Le paste alimentari speciali, secche e fresche, contenenti ovoprodotti non posso
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 9 febbraio 2001, n. 187](../Regolamenti%20governativi/Regolamento%20per%20la%20revisione%20della%20normativa%20sulla%20produzione%20e%20commercializzazione%20di%20sfarinati%20e%20paste%20alimentari%20a%20norma%20dellarticolo%2050%20della%20legge%2022%20febbraio%201994%20n.%20146.md) ha disposto (con l'art. 14, comma 1, lettera b)) dalla data di entrata in vigore del presente regolamento cessa di avere efficacia il [decreto del Ministro della sanita' 27 aprile 1998, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:1998-04-27;264).
+Il [D.P.R. 9 febbraio 2001, n. 187](../Regolamenti%20governativi/Regolamento%20per%20la%20revisione%20della%20normativa%20sulla%20produzione%20e%20commercializzazione%20di%20sfarinati%20e%20paste%20alimentari%20a%20norma%20dellarticolo%2050%20della%20legge%2022%20febbraio%201994%20n.%20146.md) ha disposto (con l'art. 14, comma 1, lettera b)) dalla data di entrata in vigore del presente regolamento cessa di avere efficacia il [decreto del Ministro della sanita' 27 aprile 1998, n. 264](Regolamento%20recante%20norme%20per%20limpiego%20di%20ingredienti%20consentiti%20nella%20produzione%20delle%20paste%20alimentari%20speciali%20secche%20e%20fresche.md).
 
 ## Art. 6.
 
@@ -206,7 +206,7 @@ Le disposizioni del presente regolamento non si applicano alle paste alimentari 
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 9 febbraio 2001, n. 187](../Regolamenti%20governativi/Regolamento%20per%20la%20revisione%20della%20normativa%20sulla%20produzione%20e%20commercializzazione%20di%20sfarinati%20e%20paste%20alimentari%20a%20norma%20dellarticolo%2050%20della%20legge%2022%20febbraio%201994%20n.%20146.md) ha disposto (con l'art. 14, comma 1, lettera b)) dalla data di entrata in vigore del presente regolamento cessa di avere efficacia il [decreto del Ministro della sanita' 27 aprile 1998, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:1998-04-27;264).
+Il [D.P.R. 9 febbraio 2001, n. 187](../Regolamenti%20governativi/Regolamento%20per%20la%20revisione%20della%20normativa%20sulla%20produzione%20e%20commercializzazione%20di%20sfarinati%20e%20paste%20alimentari%20a%20norma%20dellarticolo%2050%20della%20legge%2022%20febbraio%201994%20n.%20146.md) ha disposto (con l'art. 14, comma 1, lettera b)) dalla data di entrata in vigore del presente regolamento cessa di avere efficacia il [decreto del Ministro della sanita' 27 aprile 1998, n. 264](Regolamento%20recante%20norme%20per%20limpiego%20di%20ingredienti%20consentiti%20nella%20produzione%20delle%20paste%20alimentari%20speciali%20secche%20e%20fresche.md).
 
 ## Art. 7.
 
@@ -218,7 +218,7 @@ Sono abrogati i decreti ministeriali 27 settembre 1967, 16 maggio 1969 e 20 marz
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 9 febbraio 2001, n. 187](../Regolamenti%20governativi/Regolamento%20per%20la%20revisione%20della%20normativa%20sulla%20produzione%20e%20commercializzazione%20di%20sfarinati%20e%20paste%20alimentari%20a%20norma%20dellarticolo%2050%20della%20legge%2022%20febbraio%201994%20n.%20146.md) ha disposto (con l'art. 14, comma 1, lettera b)) dalla data di entrata in vigore del presente regolamento cessa di avere efficacia il [decreto del Ministro della sanita' 27 aprile 1998, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:1998-04-27;264).
+Il [D.P.R. 9 febbraio 2001, n. 187](../Regolamenti%20governativi/Regolamento%20per%20la%20revisione%20della%20normativa%20sulla%20produzione%20e%20commercializzazione%20di%20sfarinati%20e%20paste%20alimentari%20a%20norma%20dellarticolo%2050%20della%20legge%2022%20febbraio%201994%20n.%20146.md) ha disposto (con l'art. 14, comma 1, lettera b)) dalla data di entrata in vigore del presente regolamento cessa di avere efficacia il [decreto del Ministro della sanita' 27 aprile 1998, n. 264](Regolamento%20recante%20norme%20per%20limpiego%20di%20ingredienti%20consentiti%20nella%20produzione%20delle%20paste%20alimentari%20speciali%20secche%20e%20fresche.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

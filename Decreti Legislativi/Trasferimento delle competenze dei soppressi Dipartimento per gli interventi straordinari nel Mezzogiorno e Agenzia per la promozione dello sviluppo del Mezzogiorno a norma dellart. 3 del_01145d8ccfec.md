@@ -252,7 +252,7 @@ Le funzioni demandate al commissario liquidatore, ai sensi dell'articolo 19, lim
 
 6.
 
-Per la definizione delle attivita' previste dai commi 2, 3 e 4 dell'articolo 9, dal comma 5 del presente articolo, nonche' dall'articolo 10, in favore del commissario ad acta possono essere disposte apposite aperture di credito. I relativi ordini di accreditamento sono emessi in deroga ai limiti di somma stabiliti dall'[articolo 56 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56); qualora gli stessi non siano estinti al termine dell'esercizio in cui sono stati emessi, possono essere trasportati a quelli successivi.
+Per la definizione delle attivita' previste dai commi 2, 3 e 4 dell'articolo 9, dal comma 5 del presente articolo, nonche' dall'articolo 10, in favore del commissario ad acta possono essere disposte apposite aperture di credito. I relativi ordini di accreditamento sono emessi in deroga ai limiti di somma stabiliti dall'[articolo 56 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md); qualora gli stessi non siano estinti al termine dell'esercizio in cui sono stati emessi, possono essere trasportati a quelli successivi.
 
 7.
 
@@ -260,7 +260,7 @@ Per lo svolgimento delle proprie attivita' il commissario ad acta si avvale anch
 
 8.
 
-Per gli eventuali completamenti, nonche' per la realizzazione di nuovi interventi, il Ministero dei lavori pubblici applica le disposizioni contenute nei [regi decreti 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), e [23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), sulla contabilita' generale dello Stato, e successive modificazioni e integrazioni, salva l'applicazione della normativa comunitaria, ricorrendone i presupposti.
+Per gli eventuali completamenti, nonche' per la realizzazione di nuovi interventi, il Ministero dei lavori pubblici applica le disposizioni contenute nei [regi decreti 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e [23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), sulla contabilita' generale dello Stato, e successive modificazioni e integrazioni, salva l'applicazione della normativa comunitaria, ricorrendone i presupposti.
 
 9.
 

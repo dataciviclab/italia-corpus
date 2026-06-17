@@ -39,7 +39,7 @@ Emana il seguente decreto legislativo:
 Il presente decreto legislativo istituisce la licenza comunitaria di controllore del traffico aereo, al fine di aumentare i livelli di sicurezza e migliorare il funzionamento del sistema di controllo del traffico aereo generale.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia ai sensi dell'art. 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia ai sensi dell'art. 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE).
 
  Note alle premesse:
@@ -160,7 +160,7 @@ Nota all'art. 4:
 
 1.
 
-L'ENAC, ai sensi all'[articolo 734 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), provvede con proprio regolamento a definire i requisiti e le modalita' per il rilascio, il mantenimento, la sospensione e la revoca della licenza di studente o di controllore del traffico aereo.
+L'ENAC, ai sensi all'[articolo 734 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), provvede con proprio regolamento a definire i requisiti e le modalita' per il rilascio, il mantenimento, la sospensione e la revoca della licenza di studente o di controllore del traffico aereo.
 
 2.
 
@@ -344,7 +344,7 @@ Le specializzazioni di istruttore operativo, esaminatore e valutatore sono valid
 
 1.
 
-La certificazione medica e' rilasciata da un organo sanitario o da medici esaminatori riconosciuti dall'ENAC, in conformita' a quanto previsto all'[articolo 734 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+La certificazione medica e' rilasciata da un organo sanitario o da medici esaminatori riconosciuti dall'ENAC, in conformita' a quanto previsto all'[articolo 734 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 2.
 
@@ -371,7 +371,7 @@ I fornitori di servizi del traffico aereo istituiscono procedure affinche' i con
 Il titolare di una licenza si sottopone agli accertamenti sanitari per verificare l'assenza di assunzione di sostanze stupefacenti secondo le modalita' previste dalla normativa vigente.
 
 Note all'art. 11:
- - Per il testo dell'[art. 734 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) si veda la nota all'art. 5.
+ - Per il testo dell'[art. 734 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) si veda la nota all'art. 5.
  - Il [decreto legislativo 30 giugno 2003, n. 196](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md) recante «[Codice in materia di protezione dei dati personali](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md)» e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 29 luglio 2003, n. 174.
 
 ## Art. 12. — Certificazione delle organizzazioni di formazione
@@ -474,10 +474,10 @@ Con decreto del Ministro della giustizia, di concerto con i Ministri dell'econom
 
 1.
 
-Il [decreto del Presidente della Repubblica 10 maggio 2000, n. 223](../DPR/Regolamento%20recante%20norme%20di%20licenze%20attestati%20e%20abilitazioni%20per%20il%20personale%20addetto%20al%20controllo%20del%20traffico%20aereo.md), recante norme di licenze, attestati e abilitazioni per il personale addetto al controllo del traffico aereo, e' abrogato.
+Il [decreto del Presidente della Repubblica 10 maggio 2000, n. 223](../Regolamenti%20governativi/Regolamento%20recante%20norme%20di%20licenze%20attestati%20e%20abilitazioni%20per%20il%20personale%20addetto%20al%20controllo%20del%20traffico%20aereo.md), recante norme di licenze, attestati e abilitazioni per il personale addetto al controllo del traffico aereo, e' abrogato.
 
 Nota all'[art. 17:
- - Il decreto del Presidente della Repubblica 10 maggio 2000, n. 223](../DPR/Regolamento%20recante%20norme%20di%20licenze%20attestati%20e%20abilitazioni%20per%20il%20personale%20addetto%20al%20controllo%20del%20traffico%20aereo.md) recante «Regolamento recante norme di licenze, attestati e abilitazioni per il personale addetto al controllo del traffico aereo» e' pubblicato nella Gazzetta Ufficiale 9 agosto 2000, n. 185.
+ - Il decreto del Presidente della Repubblica 10 maggio 2000, n. 223](../Regolamenti%20governativi/Regolamento%20recante%20norme%20di%20licenze%20attestati%20e%20abilitazioni%20per%20il%20personale%20addetto%20al%20controllo%20del%20traffico%20aereo.md) recante «Regolamento recante norme di licenze, attestati e abilitazioni per il personale addetto al controllo del traffico aereo» e' pubblicato nella Gazzetta Ufficiale 9 agosto 2000, n. 185.
 
 ## Art. 18. — Disposizioni finanziarie
 

@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [R. decreto-legge 5 novembre 1937, n. 2189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-11-05;2189);
 
-Visto il [R. decreto 12 febbraio 1940, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-02-12;152);
+Visto il [R. decreto 12 febbraio 1940, n. 152](../Regi%20decreti/Aggregazione%20del%20comune%20di%20Portoscuso%20a%20quello%20di%20Carbonia%20e%20ripartizione%20del%20territorio%20del%20comune%20di%20Gonnesa%20fra%20quelli%20di%20Carbonia%20e%20di%20Iglesias.%20040U0152.md);
 
 Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md);
 

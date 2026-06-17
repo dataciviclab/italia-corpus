@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 18 novembre 1923, n. 2895](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2895), relativo alla istituzione del Consiglio nazionale delle ricerche;
+Visto il [R. decreto 18 novembre 1923, n. 2895](../Regi%20decreti/Istituzione%20ed%20erezione%20in%20Ente%20morale%20del%20%20Consiglio%20nazionale%20di%20ricerche%20%20e%20della%20%20Unione%20accademica%20nazionale%20.%20023U2895.md), relativo alla istituzione del Consiglio nazionale delle ricerche;
 
 Visto il [R. decreto-legge 25 giugno 1937, n. 1114](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuovo%20ordinamento%20del%20Consiglio%20nazionale%20delle%20ricerche.%20037U1114.md), convertito nella [legge 11 aprile 1938, n. 569](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2025%20giugno%201937-XV%20n.%201114%20riguardante%20il%20nuovo%20ordinamento%20del%20Consiglio%20nazionale%20delle%20ricerche.%20038U0569.md), concernente il nuovo ordinamento del Consiglio nazionale delle ricerche;
 
@@ -198,7 +198,7 @@ b) presso il Ministero dell'agricoltura e delle foreste: un ruolo speciale trans
  
 Il consigliere, presentemente incaricato delle funzioni di segretario generale a norma dell'ultimo comma dell'[art. 2 del R. decreto-legge 25 giugno 1937, numero 1114](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuovo%20ordinamento%20del%20Consiglio%20nazionale%20delle%20ricerche.%20037U1114.md), passa al posto di segretario generale, di cui all'art. 16 del presente decreto. 
  
-L'altro consigliere, presentemente in servizio, e' collocato in disponibilita', a norma dell'[art. 87 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_87). 
+L'altro consigliere, presentemente in servizio, e' collocato in disponibilita', a norma dell'[art. 87 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md). 
  
 Sei relatori-ricercatori tecnici, appartenenti al soppresso ruolo di cui all'[art. 2 del R. decreto-legge 25 giugno 1937, n. 1114](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuovo%20ordinamento%20del%20Consiglio%20nazionale%20delle%20ricerche.%20037U1114.md) - sopra citato - passano nel ruolo transitorio, di cui alla lettera a) del secondo comma del presente articolo. 
  

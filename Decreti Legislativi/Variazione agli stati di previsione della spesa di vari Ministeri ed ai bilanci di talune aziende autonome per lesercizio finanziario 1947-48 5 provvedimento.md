@@ -30,7 +30,7 @@ Nei bilanci dell'Amministrazione del fondo di massa del Corpo della guardia di f
 
 ## Art. 3.
 
-All'elenco n. 1 allegato allo stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario corrente, concernente i capitoli per i quali e' concessa al Governo la facolta' di cui all'[art. 40 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_40), sull'Amministrazione del patrimonio e sulla contabilita' generale dello Stato, sono aggiunti i seguenti capitoli:
+All'elenco n. 1 allegato allo stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario corrente, concernente i capitoli per i quali e' concessa al Governo la facolta' di cui all'[art. 40 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sull'Amministrazione del patrimonio e sulla contabilita' generale dello Stato, sono aggiunti i seguenti capitoli:
 
  Ministero del lavoro e della previdenza sociale:
  Cap. 43 ter - Spese postali, telegrafiche e telefoniche.

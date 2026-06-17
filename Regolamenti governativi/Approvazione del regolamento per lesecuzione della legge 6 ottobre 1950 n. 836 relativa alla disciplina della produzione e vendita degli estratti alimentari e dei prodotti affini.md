@@ -75,7 +75,7 @@ E' vietato tenere, nei locali adibiti alla produzione e alla confezione degli es
 
 ### Art. 6.
 
-Le disposizioni contenute nell'[art. 262 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_262), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), si applicano anche alle persone addette alla produzione, manipolazione e confezione dei prodotti disciplinati dalla [legge 6 ottobre 1950, n. 836](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-06;836), e dal presente regolamento.
+Le disposizioni contenute nell'[art. 262 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), si applicano anche alle persone addette alla produzione, manipolazione e confezione dei prodotti disciplinati dalla [legge 6 ottobre 1950, n. 836](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-06;836), e dal presente regolamento.
 
 ### Art. 7.
 

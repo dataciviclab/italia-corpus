@@ -606,7 +606,7 @@ Note all'art. 2:
  b) l'acquisizione delle competenze digitali previste dalla raccomandazione del Parlamento europeo e del Consiglio 18 dicembre 2006. In particolare dette competenze attengono alla capacita' di utilizzo dei linguaggi multimediali per la rappresentazione e la comunicazione delle conoscenze, per l'utilizzo dei contenuti digitali e, piu' in generale, degli ambienti di simulazione e dei laboratori virtuali. Al fine di consentirne la piena fruizione anche agli alunni con bisogni educativi speciali i contenuti digitali devono essere definiti nel rispetto dei criteri che ne assicurano l'accessibilita'; 
  c) l'acquisizione delle competenze didattiche atte a favorire l'integrazione scolastica degli alunni con disabilita' secondo quanto disposto dalla [legge 5 febbraio 1992, n. 104](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-05;104) e successive modificazioni e integrazioni. 
  5. I percorsi di cui ai commi 2, lettera b) e 3 prevedono nel corso della laurea magistrale e nel corso accademico di secondo livello periodi di tirocinio nelle istituzioni scolastiche facenti parte del sistema nazionale di istruzione, ricomprese nell'elenco di cui all'articolo 12. 
- 6. La frequenza dei corsi previsti dal presente decreto e' incompatibile, ai sensi dell'[articolo 142 del regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592#art_142), con l'iscrizione a: 
+ 6. La frequenza dei corsi previsti dal presente decreto e' incompatibile, ai sensi dell'[articolo 142 del regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), con l'iscrizione a: 
  a) corsi di dottorato di ricerca; 
  b) qualsiasi altro corso che da' diritto all'acquisizione di crediti formativi universitari o accademici, in Italia e all'estero, da qualsiasi ente organizzati. 
  7. I percorsi formativi previsti dal presente decreto sono oggetto di costante monitoraggio e valutazione. A tal fine, il Ministro dell'istruzione, dell'universita' e della ricerca puo' avvalersi anche dell'assistenza tecnica dell'Agenzia Nazionale per la Valutazione del Sistema Universitario e della Ricerca (ANVUR), dell'Agenzia nazionale per lo sviluppo dell'autonomia scolastica (ANSAS) e dell'Istituto nazionale di valutazione del sistema educativo di istruzione e formazione (INVALSI).»
@@ -1039,7 +1039,7 @@ Nell'ambito delle procedure di mobilita' di cui all'articolo 4, comma 5, i docen
 
 1.
 
-Ai docenti collocati a riposo o dei quali sono state accettate le dimissioni possono essere conferiti i titoli di cui all'[articolo 111 del regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592#art_111).
+Ai docenti collocati a riposo o dei quali sono state accettate le dimissioni possono essere conferiti i titoli di cui all'[articolo 111 del regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md).
 
 2.
 
@@ -1058,7 +1058,7 @@ I titoli sono conferiti dall'istituzione con decreto del direttore, su proposta 
 Ai professori emeriti e onorari non competono particolari prerogative accademiche ne' il trattenimento in servizio oltre i limiti di legge.
 
 Note all'art. 13: 
- - Si riporta l'[articolo 111 del regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592#art_111) (Approvazione del testo unico delle leggi sull'istruzione superiore): 
+ - Si riporta l'[articolo 111 del regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md) (Approvazione del testo unico delle leggi sull'istruzione superiore): 
  «Art. 111. - Ai professori ordinari, che siano stati collocati a riposo o dei quali siano state accettate le dimissioni, potra' essere conferito il titolo di «professore emerito», qualora abbiano prestato almeno venti anni di servizio in qualita' di professori ordinari: il titolo di «professore onorario» qualora tale servizio abbia avuto la durata di almeno quindici anni. 
  Detti titoli sono concessi con decreto Reale, su proposta del Ministro, previa deliberazione della Facolta' o Scuola cui l'interessato apparteneva all'atto della cessazione dal servizio. 
  Ai professori emeriti ed onorari non competono particolari prerogative accademiche.»

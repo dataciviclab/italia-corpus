@@ -22,7 +22,7 @@ PROMULGA Il seguente decreto legislativo, approvato dai Consiglio dei Ministri c
 
 ## Art. 1.
 
-Il comune di Vignone, aggregato a quello di Arizzano, con [regio decreto 4 dicembre 1927, n. 2348](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-12-04;2348), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo.
+Il comune di Vignone, aggregato a quello di Arizzano, con [regio decreto 4 dicembre 1927, n. 2348](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Bee%20Vignone%20e%20Arizzano%20Superiore%20in%20un%20unico%20Comune%20denominato%20Arizzano.%20027U2348.md), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo.
  Il Prefetto di Novara, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i Comuni suddetti.
 
 ## Art. 2.

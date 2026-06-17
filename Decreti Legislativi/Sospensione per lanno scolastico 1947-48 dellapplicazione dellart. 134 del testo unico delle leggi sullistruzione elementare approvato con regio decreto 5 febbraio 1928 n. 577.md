@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Articolo unico.
 
-Il Ministro per la pubblica istruzione ha facolta' di trattenere in servizio per l'anno scolastico 1947-48, i maestri elementari che abbiano raggiunto i limiti di eta' e di servizio previsti dall'art. 134 del testo unico delle leggi sull'istruzione elementare, approvato con [regio decreto 5 febbraio 1928, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577), ma che non abbiano superato il 70° anno di eta' al 30 settembre 1947 e che siano ancora in grado di prestare opera proficua.
+Il Ministro per la pubblica istruzione ha facolta' di trattenere in servizio per l'anno scolastico 1947-48, i maestri elementari che abbiano raggiunto i limiti di eta' e di servizio previsti dall'art. 134 del testo unico delle leggi sull'istruzione elementare, approvato con [regio decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), ma che non abbiano superato il 70° anno di eta' al 30 settembre 1947 e che siano ancora in grado di prestare opera proficua.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

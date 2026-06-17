@@ -31,7 +31,7 @@ E M A N A il seguente regolamento:
 E' istituito il Dipartimento per le aree urbane, di seguito indicato Dipartimento, alle dipendenze del Ministro per i problemi delle aree urbane.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - La [legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400) reca: "Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri".
@@ -119,7 +119,7 @@ Il servizio per il coordinamento amministrativo provvede agli adempimenti di cui
 
 1.
 
-E' costituito, nell'ambito dell'ufficio centrale di cui al [decreto del Presidente della Repubblica 19 luglio 1989, n. 366](../DPR/Regolamento%20di%20attuazione%20dellart.%2023%20della%20legge%2023%20agosto%201988%20n.%20400%20concernente%20istituzione%20nellambito%20del%20Segretariato%20generale%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20dellUffici_832fc11b4915.md), presso il Ministro per i problemi delle aree urbane, un apposito settore legislativo che provvede, nelle materie relative a funzioni delegate al Ministro stesso, ai seguenti compiti: consulenza giuridica; predisposizione dei provvedimenti normativi di competenza del Ministro per i problemi delle aree urbane; concertazione sui provvedimenti normativi di competenza del Presidente del Consiglio dei Ministri e di altri Ministri; adempimenti relativi all'attivita' del Ministro in Parlamento.
+E' costituito, nell'ambito dell'ufficio centrale di cui al [decreto del Presidente della Repubblica 19 luglio 1989, n. 366](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20dellart.%2023%20della%20legge%2023%20agosto%201988%20n.%20400%20concernente%20istituzione%20nellambito%20del%20Segretariato%20generale%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20dellUffici_832fc11b4915.md), presso il Ministro per i problemi delle aree urbane, un apposito settore legislativo che provvede, nelle materie relative a funzioni delegate al Ministro stesso, ai seguenti compiti: consulenza giuridica; predisposizione dei provvedimenti normativi di competenza del Ministro per i problemi delle aree urbane; concertazione sui provvedimenti normativi di competenza del Presidente del Consiglio dei Ministri e di altri Ministri; adempimenti relativi all'attivita' del Ministro in Parlamento.
 
 2.
 

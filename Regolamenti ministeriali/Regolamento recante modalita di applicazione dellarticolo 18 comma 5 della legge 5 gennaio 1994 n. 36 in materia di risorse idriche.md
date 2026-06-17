@@ -28,7 +28,7 @@ Adotta il seguente regolamento:
 
 1.
 
-Ferme restando le esenzioni vigenti, a decorrere dal 1 gennaio 1994 i canoni annui per le utenze di acqua pubblica previsti dall'articolo 35 del testo unico delle disposizioni di legge sulle acque e sugli impianti elettrici, approvato con [regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775), e successive modificazioni, sono stabiliti in relazione agli usi nelle misure indicate all'[articolo 18, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-05;36#art_18-com1) e [2, della legge 5 gennaio 1994, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-05;36#art_18-com2).
+Ferme restando le esenzioni vigenti, a decorrere dal 1 gennaio 1994 i canoni annui per le utenze di acqua pubblica previsti dall'articolo 35 del testo unico delle disposizioni di legge sulle acque e sugli impianti elettrici, approvato con [regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), e successive modificazioni, sono stabiliti in relazione agli usi nelle misure indicate all'[articolo 18, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-05;36#art_18-com1) e [2, della legge 5 gennaio 1994, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-05;36#art_18-com2).
 
 N O T E
  
@@ -59,7 +59,7 @@ Le entrate derivanti dalla riscossione delle maggiorazioni dei canoni disposte d
 Note all'art. 2:
  - Il testo dell'art. 18 della citata [legge n. 36/1994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994;36) e' il seguente:
  "Art. 18 (Canoni per le utenze di acqua pubblica). - 1.
- Ferme restando le esenzioni vigenti, dal 1 gennaio 1994 i canoni annui relativi alle utenze di acqua pubblica, previsti dall'art. 35 del testo unico delle disposizioni di legge sulle acque e sugli impianti elettrici, approvato con [regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775), e successive modificazioni, costituiscono il corrispettivo per gli usi delle acque prelevate e sono cosi' stabiliti:
+ Ferme restando le esenzioni vigenti, dal 1 gennaio 1994 i canoni annui relativi alle utenze di acqua pubblica, previsti dall'art. 35 del testo unico delle disposizioni di legge sulle acque e sugli impianti elettrici, approvato con [regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), e successive modificazioni, costituiscono il corrispettivo per gli usi delle acque prelevate e sono cosi' stabiliti:
  a) per ogni modulo di acqua ad uso di irrigazione, lire 70.400, ridotte alla meta' se le colature ed i residui di acqua sono restituiti anche in falda;
  b) per ogni ettaro per irrigazione di terreni con derivazione non suscettibile di essere fatta a bocca tassata, lire 640;
  c) per ogni modulo di acqua assentito per il consumo umano, lire 3 milioni;

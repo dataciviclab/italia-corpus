@@ -14,87 +14,87 @@ CAPO I
 
 ### Art. 1.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
 ### Art. 2.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
 ### Art. 3.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
 ### Art. 4.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
 ### Art. 5.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
 ### Art. 6.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
 ### Art. 7.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
 ### Art. 8.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
 ### Art. 9.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
 ### Art. 10.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
 ### Art. 11.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
 ### Art. 12.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
 ### Art. 13.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
 ### Art. 14.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
 ### Art. 15.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
 ### Art. 16.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
 ### Art. 17.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
 ### Art. 18.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
 ### Art. 19.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
 ### Art. 20.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
 ### Art. 21.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
 ## Magazzini doganali, depositi franchi e punti franchi
 
@@ -102,51 +102,51 @@ CAPO II
 
 ### Art. 22.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
 ### Art. 23.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
 ### Art. 24.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
 ### Art. 25.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
 ### Art. 26.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
 ### Art. 27.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
 ### Art. 28.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
 ### Art. 29.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
 ### Art. 30.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
 ### Art. 31.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
 ### Art. 32.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
 ### Art. 33.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
 ## Disposizioni transitorie e finali.
 
@@ -154,11 +154,11 @@ CAPO III
 
 ### Art. 34.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
 ### Art. 35.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
+((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N.43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)))
 
 ### Art. 36.
 

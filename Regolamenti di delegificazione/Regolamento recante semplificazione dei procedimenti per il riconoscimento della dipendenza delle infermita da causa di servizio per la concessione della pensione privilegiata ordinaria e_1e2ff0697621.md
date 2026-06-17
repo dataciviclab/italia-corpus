@@ -512,7 +512,7 @@ I procedimenti relativi a domande di riconoscimento di causa di servizio e conce
 
 2.
 
-Gli accertamenti di inabilita' non dipendente da causa di servizio, di cui al [decreto del Ministro del tesoro 8 maggio 1997, n. 187](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.tesoro:decreto:1997-05-08;187), avviati con domande pervenute all'Amministrazione prima della data di entrata in vigore del presente regolamento, sono definiti secondo le procedure di cui al citato decreto ministeriale; per le domande successive si applicano le procedure previste dal presente regolamento in tema di accertamento di inidoneita' al servizio.
+Gli accertamenti di inabilita' non dipendente da causa di servizio, di cui al [decreto del Ministro del tesoro 8 maggio 1997, n. 187](../Regolamenti%20ministeriali/Regolamento%20recante%20modalita%20applicative%20delle%20disposizioni%20contenute%20allarticolo%202%20comma%2012%20della%20legge%208%20agosto%201995%20n.%20335%20concernenti%20lattribuzione%20della%20pensione%20di%20inabilita%20ai%20dipe_61325f70a900.md), avviati con domande pervenute all'Amministrazione prima della data di entrata in vigore del presente regolamento, sono definiti secondo le procedure di cui al citato decreto ministeriale; per le domande successive si applicano le procedure previste dal presente regolamento in tema di accertamento di inidoneita' al servizio.
 
 3.
 

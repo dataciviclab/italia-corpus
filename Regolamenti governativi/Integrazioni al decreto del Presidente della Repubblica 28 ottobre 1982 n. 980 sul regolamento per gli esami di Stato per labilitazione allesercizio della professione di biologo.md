@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
  Vista la [legge 24 maggio 1967, n. 396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-05-24;396), recante disposizioni per l'ordinamento della professione di biologo;
- Visto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+ Visto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
  Vista la [legge 8 dicembre 1956, n. 1378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-08;1378), che reca norme sugli esami di Stato per l'abilitazione all'esercizio delle professioni;
  Visto il regolamento per gli esami di Stato per l'abilitazione all'esercizio delle professioni approvato con decreto ministeriale 9 settembre 1957, e successive modificazioni;
  Visto il regolamento per gli esami di Stato per l'abilitazione all'esercizio della professione di biologo emanato con [decreto del Presidente della Repubblica 28 ottobre 1982, n. 980](Approvazione%20del%20regolamento%20per%20gli%20esami%20di%20Stato%20di%20abilitazione%20allesercizio%20della%20professione%20di%20biologo.md);

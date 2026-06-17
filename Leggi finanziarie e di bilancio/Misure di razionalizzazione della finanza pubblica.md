@@ -771,7 +771,7 @@ Le predette procedure dovranno essere improntate a criteri di semplificazione e 
 
 9.
 
-Per le eventuali gestioni di fondi mediante aperture di credito, il regolamento di cui al comma 8 del presente articolo puo' prevedere l'applicazione dell'[articolo 61-bis del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_61bis), introdotto dall'[articolo 3 del decreto del Presidente della Repubblica 30 giugno 1972, n. 627](../DPR/Semplificazione%20e%20snellimento%20delle%20procedure%20in%20materia%20di%20amministrazione%20e%20contabilita%20generale%20dello%20Stato.md).
+Per le eventuali gestioni di fondi mediante aperture di credito, il regolamento di cui al comma 8 del presente articolo puo' prevedere l'applicazione dell'[articolo 61-bis del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), introdotto dall'[articolo 3 del decreto del Presidente della Repubblica 30 giugno 1972, n. 627](../DPR/Semplificazione%20e%20snellimento%20delle%20procedure%20in%20materia%20di%20amministrazione%20e%20contabilita%20generale%20dello%20Stato.md).
 
 10.
 

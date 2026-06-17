@@ -47,7 +47,7 @@ Adotta il seguente regolamento:
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 29 dicembre 2021, n. 235](../DPR/Regolamento%20recante%20disciplina%20dello%20Sportello%20unico%20doganale%20e%20dei%20controlli%20S.U.Do.Co.%2021G00259.md) ha disposto (con l'art. 13, comma 2) che "Le disposizioni del presente regolamento si applicano ai procedimenti instaurati a decorrere dalla sua entrata in vigore".
+Il [D.P.R. 29 dicembre 2021, n. 235](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20dello%20Sportello%20unico%20doganale%20e%20dei%20controlli%20S.U.Do.Co.%2021G00259.md) ha disposto (con l'art. 13, comma 2) che "Le disposizioni del presente regolamento si applicano ai procedimenti instaurati a decorrere dalla sua entrata in vigore".
 
 ## Art. 2. — Termini di conclusione dei procedimenti amministrativi che concorrono all'assolvimento delle operazioni doganali
 
@@ -99,7 +99,7 @@ Note all'art. 4:
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 29 dicembre 2021, n. 235](../DPR/Regolamento%20recante%20disciplina%20dello%20Sportello%20unico%20doganale%20e%20dei%20controlli%20S.U.Do.Co.%2021G00259.md) ha disposto (con l'art. 13, comma 2) che "Le disposizioni del presente regolamento si applicano ai procedimenti instaurati a decorrere dalla sua entrata in vigore".
+Il [D.P.R. 29 dicembre 2021, n. 235](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20dello%20Sportello%20unico%20doganale%20e%20dei%20controlli%20S.U.Do.Co.%2021G00259.md) ha disposto (con l'art. 13, comma 2) che "Le disposizioni del presente regolamento si applicano ai procedimenti instaurati a decorrere dalla sua entrata in vigore".
 
 ## Art. 6.
 
@@ -110,7 +110,7 @@ Il [D.P.R. 29 dicembre 2021, n. 235](../DPR/Regolamento%20recante%20disciplina%2
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 29 dicembre 2021, n. 235](../DPR/Regolamento%20recante%20disciplina%20dello%20Sportello%20unico%20doganale%20e%20dei%20controlli%20S.U.Do.Co.%2021G00259.md) ha disposto (con l'art. 13, comma 2) che "Le disposizioni del presente regolamento si applicano ai procedimenti instaurati a decorrere dalla sua entrata in vigore".
+Il [D.P.R. 29 dicembre 2021, n. 235](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20dello%20Sportello%20unico%20doganale%20e%20dei%20controlli%20S.U.Do.Co.%2021G00259.md) ha disposto (con l'art. 13, comma 2) che "Le disposizioni del presente regolamento si applicano ai procedimenti instaurati a decorrere dalla sua entrata in vigore".
 
 ## Art. 7.
 
@@ -121,7 +121,7 @@ Il [D.P.R. 29 dicembre 2021, n. 235](../DPR/Regolamento%20recante%20disciplina%2
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 29 dicembre 2021, n. 235](../DPR/Regolamento%20recante%20disciplina%20dello%20Sportello%20unico%20doganale%20e%20dei%20controlli%20S.U.Do.Co.%2021G00259.md) ha disposto (con l'art. 13, comma 2) che "Le disposizioni del presente regolamento si applicano ai procedimenti instaurati a decorrere dalla sua entrata in vigore".
+Il [D.P.R. 29 dicembre 2021, n. 235](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20dello%20Sportello%20unico%20doganale%20e%20dei%20controlli%20S.U.Do.Co.%2021G00259.md) ha disposto (con l'art. 13, comma 2) che "Le disposizioni del presente regolamento si applicano ai procedimenti instaurati a decorrere dalla sua entrata in vigore".
 
 ## Art. 8. — Aggiornamento periodico delle Tabelle A e B
 

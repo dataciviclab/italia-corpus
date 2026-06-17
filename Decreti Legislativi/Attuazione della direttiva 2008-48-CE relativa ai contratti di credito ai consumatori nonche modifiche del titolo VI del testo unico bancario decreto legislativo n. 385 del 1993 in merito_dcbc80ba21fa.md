@@ -889,7 +889,7 @@ Decorsi i termini stabiliti, i soggetti che non abbiano presentato istanza di au
 
 7.
 
-Dalla data di entrata in vigore del presente decreto legislativo sono soppressi gli elenchi previsti dagli [articoli 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_113) e [155, comma 5 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_155-com5), vigenti alla data del 4 settembre 2010 e cancellati i soggetti ivi iscritti. Si applicano ai cambiavalute gli [articoli 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_11) e [115 T.u.l.p.s.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_115) e relative disposizioni di attuazione.
+Dalla data di entrata in vigore del presente decreto legislativo sono soppressi gli elenchi previsti dagli [articoli 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_113) e [155, comma 5 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_155-com5), vigenti alla data del 4 settembre 2010 e cancellati i soggetti ivi iscritti. Si applicano ai cambiavalute gli [articoli 11](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [115 T.u.l.p.s.](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e relative disposizioni di attuazione.
 
 8.
 
@@ -1235,7 +1235,7 @@ Ai mediatori creditizi e' vietato concludere contratti, nonche' effettuare, per 
 
 2.
 
-In conformita' all'[articolo 5, comma 1, della legge 3 febbraio 1989, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-02-03;39#art_5-com1), per l'esercizio dell'attivita' di mediazione creditizia non e' richiesta la licenza prevista dall'[articolo 115 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_115), approvato con [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773).
+In conformita' all'[articolo 5, comma 1, della legge 3 febbraio 1989, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-02-03;39#art_5-com1), per l'esercizio dell'attivita' di mediazione creditizia non e' richiesta la licenza prevista dall'[articolo 115 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md).
 
 ---------------
 

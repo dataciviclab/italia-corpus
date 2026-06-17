@@ -24,19 +24,19 @@ Visto il [R. decreto-legge 6 gennaio 1944, n. 9](../Atti%20normativi%20abrogati%
 
 Vista la [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), sull'ordinamento del notariato e degli archivi notarili;
 
-Visto il regolamento per l'esecuzione della legge suindicata approvato con [R. decreto 10 settembre 1914, n. 1326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-10;1326);
+Visto il regolamento per l'esecuzione della legge suindicata approvato con [R. decreto 10 settembre 1914, n. 1326](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20regolamento%20per%20lesecuzione%20della%20legge%2016%20febbraio%201913%20n.%2089%20riguardante%20lordinamento%20del%20notariato%20e%20degli%20archivi%20notarili.%20014U1326.md);
 
 Vista la [legge 6 agosto 1926, n. 1365](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-08-06;1365), Contenente norme per il conferimento dei posti notarili;
 
-Visto il [R. decreto 14 novembre 1926, n. 1953](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;1953);
+Visto il [R. decreto 14 novembre 1926, n. 1953](../Regi%20decreti/Disposizioni%20sul%20conferimento%20dei%20posti%20di%20notaro.%20026U1953.md);
 
 Vista la [legge 24 marzo 1932, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1932-03-24;241), contenente norme per le nomine ed i trasferimenti dei notai;
 
-Visto il [R. decreto 22 dicembre 1932, n. 1728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-12-22;1728), concernente modificazioni alle disposizioni regolamentari sul conferimento dei posti di notaro;
+Visto il [R. decreto 22 dicembre 1932, n. 1728](../Regi%20decreti/Modificazioni%20alle%20disposizioni%20regolamentari%20sul%20conferimento%20dei%20posti%20di%20notaro.%20032U1728.md), concernente modificazioni alle disposizioni regolamentari sul conferimento dei posti di notaro;
 
 Visto il [R. decreto-legge 14 luglio 1937, n. 1666](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-07-14;1666);
 
-Visto il [R. decreto 7 aprile 1941, n. 358](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-04-07;358);
+Visto il [R. decreto 7 aprile 1941, n. 358](../Regi%20decreti/Modificazioni%20alle%20disposizioni%20regolamentari%20sul%20conferimento%20dei%20posti%20di%20notaro.%20041U0358.md);
 
 Vista la [legge 27 maggio 1940, n. 707](../Atti%20normativi%20abrogati%20%28in%20originale%29/Soppressione%20dei%20Collegi%20e%20dei%20Consigli%20notarili%20e%20passaggio%20delle%20relative%20attribuzioni%20ai%20Sindacati%20distrettuali%20fascisti%20dei%20notai.%20040U0707.md), concernente la soppressione dei Collegi e dei Consigli notarili e passaggio delle relative attribuzioni ai Sindacati distrettuali fascisti dei notai;
 
@@ -74,7 +74,7 @@ I sindacati distrettuali fascisti dei notai ed il sindacato nazionale fascista d
  
  Le funzioni gia' attribuite ai sindacati distrettuali fascisti ritornano alla competenza dei Collegi e del Consigli notarili, in conformita', delle disposizioni vigenti anteriormente alla [legge 27 maggio 1940, n. 707](../Atti%20normativi%20abrogati%20%28in%20originale%29/Soppressione%20dei%20Collegi%20e%20dei%20Consigli%20notarili%20e%20passaggio%20delle%20relative%20attribuzioni%20ai%20Sindacati%20distrettuali%20fascisti%20dei%20notai.%20040U0707.md). 
  
- Tali organi professionali saranno ricostituiti a norma della [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), e del relativo regolamento approvato con [R. decreto 10 settembre 1914, n. 1326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-10;1326), ferme restando le ricostituzioni che, al momento dell'entrata in vigore del presente decreto, siano gia' avvenute con l'osservanza delle anzidette disposizioni. 
+ Tali organi professionali saranno ricostituiti a norma della [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), e del relativo regolamento approvato con [R. decreto 10 settembre 1914, n. 1326](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20regolamento%20per%20lesecuzione%20della%20legge%2016%20febbraio%201913%20n.%2089%20riguardante%20lordinamento%20del%20notariato%20e%20degli%20archivi%20notarili.%20014U1326.md), ferme restando le ricostituzioni che, al momento dell'entrata in vigore del presente decreto, siano gia' avvenute con l'osservanza delle anzidette disposizioni. 
  
  Il presidente del Tribunale competente per territorio o un giudice da lui delegato provvedera', entro novanta giorni dall'entrata in vigore del presente decreto, alla convocazione del Collegio notarile per le nomine dei membri del Consiglio, e, avvenute tali nomine, convochera' e insediera' il Consiglio, entro i successivi trenta giorni. 
  

@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Il comune di Falconara Marittima, aggregato a quello di Ancona e a quello di Chiaravalle col [regio decreto 15 aprile 1928, n. 882](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-15;882), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo. 
+Il comune di Falconara Marittima, aggregato a quello di Ancona e a quello di Chiaravalle col [regio decreto 15 aprile 1928, n. 882](../Regi%20decreti/Aggregazione%20al%20comune%20di%20Ancona%20dei%20comuni%20di%20Montesicuro%20e%20Paterno%20dAncona%20nonche%20del%20territorio%20del%20comune%20di%20Falconara%20Marittima%20situato%20a%20destra%20del%20fiume%20Esino%20ed%20aggregazione%20al%20co_e78df2e2f89c.md), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo. 
  Il Prefetto di Ancona, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i Comuni interessati.
 
 ## Art. 2.

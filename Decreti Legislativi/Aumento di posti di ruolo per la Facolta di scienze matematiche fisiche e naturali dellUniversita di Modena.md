@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-A decorrere dall'anno accademico 1947-48, sono istituiti, presso la Facolta' di scienze matematiche, fisiche e naturali dell'Universita', di Modena, due posti di professore di ruolo, in aggiunta a quelli contemplati dalla tabella D annessa al [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni.
+A decorrere dall'anno accademico 1947-48, sono istituiti, presso la Facolta' di scienze matematiche, fisiche e naturali dell'Universita', di Modena, due posti di professore di ruolo, in aggiunta a quelli contemplati dalla tabella D annessa al [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni.
 
 ## Art. 2.
 

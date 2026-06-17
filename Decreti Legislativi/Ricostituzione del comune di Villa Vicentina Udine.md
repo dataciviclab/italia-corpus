@@ -22,13 +22,13 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Il comune di Villa Vicentina, aggregato a quello di Ruda col [regio decreto 1 marzo 1928, n. 539](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-03-01;539), e' ricostituto con la circoscrizione preesistente all'entrata in vigore del decreto medesimo.
+Il comune di Villa Vicentina, aggregato a quello di Ruda col [regio decreto 1 marzo 1928, n. 539](../Regi%20decreti/Aggregazione%20dei%20comuni%20di%20Perteole%20e%20di%20Villa%20Vicentina%20a%20quello%20di%20Ruda.%20028U0539.md), e' ricostituto con la circoscrizione preesistente all'entrata in vigore del decreto medesimo.
  Il Prefetto di Udine, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i Comuni interessati.
 
 ## Art. 2.
 
 Il nuovo organico del comune di Ruda e quello del comune di Villa Vicentina, saranno stabiliti dal Prefetto, sentita la Giunta provinciale amministrativa. 
- Il numero dei posti ed i gradi relativi non potranno essere superiori, rispettivamente, a quelli organicamente assegnati ai Comuni suddetti anteriormente all'entrata, in vigore del [regio decreto 1 marzo 1928, n. 539](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-03-01;539). 
+ Il numero dei posti ed i gradi relativi non potranno essere superiori, rispettivamente, a quelli organicamente assegnati ai Comuni suddetti anteriormente all'entrata, in vigore del [regio decreto 1 marzo 1928, n. 539](../Regi%20decreti/Aggregazione%20dei%20comuni%20di%20Perteole%20e%20di%20Villa%20Vicentina%20a%20quello%20di%20Ruda.%20028U0539.md). 
  Al personale gia' in servizio presso il comune di Ruda, che sara' inquadrato nei predetti organici, non potranno essere attribuiti posizione gerarchica e trattamento economico superiori a quelli goduti all'atto dell'inquadramento medesimo.
 
 ## Art. 3.

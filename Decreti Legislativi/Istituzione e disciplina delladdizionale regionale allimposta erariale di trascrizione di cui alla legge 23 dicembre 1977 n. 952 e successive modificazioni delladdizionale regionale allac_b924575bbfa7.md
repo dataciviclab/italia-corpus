@@ -134,7 +134,7 @@ AGGIORNAMENTO (3)
 
 1.
 
-I tributi di cui ai commi 1 e 2 dell'articolo 9 sono dovuti dai soggetti indicati dall'[articolo 26, commi 7](Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md) e [8, del decreto legislativo 26 ottobre 1995, n. 504](Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md).
+I tributi di cui ai commi 1 e 2 dell'articolo 9 sono dovuti dai soggetti indicati dall'[articolo 26, commi 7](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md) e [8, del decreto legislativo 26 ottobre 1995, n. 504](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md).
 
 2.
 
@@ -146,7 +146,7 @@ La dichiarazione di cui all'[articolo 26, comma 13, del decreto legislativo n. 5
 
 4.
 
-Per i termini e le modalita' di versamento dei tributi regionali a ciascuna regione, si applica quanto stabilito nell'[articolo 26 del decreto legislativo 26 ottobre 1995, n. 504](Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md).
+Per i termini e le modalita' di versamento dei tributi regionali a ciascuna regione, si applica quanto stabilito nell'[articolo 26 del decreto legislativo 26 ottobre 1995, n. 504](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md).
 
 ))
 

@@ -1065,7 +1065,7 @@ All'[articolo 17 del decreto legislativo 26 febbraio 1999, n. 46](../Leggi%20del
                         a)
                             al comma 3-bis, le parole: "interamente partecipate dallo Stato" sono sostituite dalle seguenti: "a partecipazione pubblica";
                         b)
-                            al comma 3-ter, le parole da: "stipula" fino alla fine del comma sono sostituite dalle seguenti: "procede all'iscrizione a ruolo dopo aver emesso, vidimato e reso esecutiva un'ingiunzione conforme all'articolo 2, primo comma, del testo unico di cui al [regio decreto 14 aprile 1910, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-14;639)".
+                            al comma 3-ter, le parole da: "stipula" fino alla fine del comma sono sostituite dalle seguenti: "procede all'iscrizione a ruolo dopo aver emesso, vidimato e reso esecutiva un'ingiunzione conforme all'articolo 2, primo comma, del testo unico di cui al [regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md)".
 
 152.
 
@@ -1740,7 +1740,7 @@ Nell'ambito delle funzioni amministrative catastali conferite ai sensi dell'[art
 
 282.
 
-All'[articolo 110, comma 6, del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_110-com6), di cui al [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), e successive modificazioni, sono apportate le seguenti modificazioni:
+All'[articolo 110, comma 6, del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), di cui al [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e successive modificazioni, sono apportate le seguenti modificazioni:
                         a)
                             alla lettera a): 
  1) dopo le parole: "quelli che," sono inserite le seguenti: "dotati di attestato di conformita' alle disposizioni vigenti rilasciato dal Ministero dell'economia e delle finanze - Amministrazione autonoma dei Monopoli di Stato e"; 
@@ -2682,7 +2682,7 @@ I comuni e le province provvedono alla soppressione degli enti, agenzie ed organ
 
 35.
 
-Entro un anno dalla data di entrata in vigore della presente legge, le regioni e le province autonome di Trento e di Bolzano provvedono alla riduzione del numero dei componenti dei consigli di amministrazione e degli organi esecutivi dei consorzi tra comuni compresi nei bacini imbriferi montani, costituiti ai sensi dell'[articolo 1 della legge 27 dicembre 1953, n. 959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-12-27;959#art_1), nonche' dei consorzi di bonifica e di miglioramento fondiario di cui al capo I del titolo V del [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), e successive modificazioni. La riduzione del numero dei componenti degli organi di cui al presente comma deve essere conforme a quanto previsto per le societa' partecipate totalmente anche in via indiretta da enti locali, ai sensi dell'[articolo 1, comma 729, della legge 27 dicembre 2006, n. 296](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md).
+Entro un anno dalla data di entrata in vigore della presente legge, le regioni e le province autonome di Trento e di Bolzano provvedono alla riduzione del numero dei componenti dei consigli di amministrazione e degli organi esecutivi dei consorzi tra comuni compresi nei bacini imbriferi montani, costituiti ai sensi dell'[articolo 1 della legge 27 dicembre 1953, n. 959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-12-27;959#art_1), nonche' dei consorzi di bonifica e di miglioramento fondiario di cui al capo I del titolo V del [regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), e successive modificazioni. La riduzione del numero dei componenti degli organi di cui al presente comma deve essere conforme a quanto previsto per le societa' partecipate totalmente anche in via indiretta da enti locali, ai sensi dell'[articolo 1, comma 729, della legge 27 dicembre 2006, n. 296](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md).
 
 36.
 
@@ -4446,7 +4446,7 @@ All'onere derivante dall'attuazione del comma 409, pari a 1,5 milioni di euro pe
 
 Per una maggiore qualificazione dei servizi scolastici, da realizzare anche attraverso misure di carattere strutturale, sono adottati i seguenti interventi:
                         a)
-                            a partire dall'anno scolastico 2008/2009, per l'istruzione liceale, l'attivazione delle classi prime dei corsi sperimentali passati ad ordinamento, ai sensi del regolamento di cui al [decreto del Ministro della pubblica istruzione 26 giugno 2000, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.pubblica.istruzione:decreto:2000-06-26;234), e' subordinata alla valutazione della congruenza dei quadri orari e dei piani di studio con i vigenti ordinamenti nazionali;
+                            a partire dall'anno scolastico 2008/2009, per l'istruzione liceale, l'attivazione delle classi prime dei corsi sperimentali passati ad ordinamento, ai sensi del regolamento di cui al [decreto del Ministro della pubblica istruzione 26 giugno 2000, n. 234](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20in%20materia%20di%20curricoli%20nellautonomia%20delle%20istituzioni%20scolastiche%20ai%20sensi%20dellarticolo%208%20del%20decreto%20del%20Presidente%20della%20Repubblica%208%20marzo%201999%20n.%20275.md), e' subordinata alla valutazione della congruenza dei quadri orari e dei piani di studio con i vigenti ordinamenti nazionali;
                         b)
                             il numero delle classi prime e di quelle iniziali di ciclo dell'istruzione secondaria di secondo grado si determina tenendo conto del numero complessivo degli alunni iscritti, indipendentemente dai diversi indirizzi, corsi di studio e sperimentazioni passate ad ordinamento. Negli istituti in cui sono presenti ordini o sezioni di diverso tipo, le classi prime si determinano separatamente per ogni ordine e tipo di sezione;
                         c)
@@ -6107,7 +6107,7 @@ Il [comma 862 dell'articolo 1 della legge 27 dicembre 2006, n. 296](Disposizioni
 
 36.
 
-All'[articolo 36, terzo comma, del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_36-com3), le parole: "settimo esercizio successivo" sono sostituite dalle seguenti: "terzo esercizio successivo".
+All'[articolo 36, terzo comma, del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), le parole: "settimo esercizio successivo" sono sostituite dalle seguenti: "terzo esercizio successivo".
 
 37.
 

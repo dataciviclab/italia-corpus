@@ -76,7 +76,7 @@ Per il funzionamento dell'Ufficio del coordinamento tributario, legislazione, st
  
  All'Ufficio predetto possono essere assegnati, con decreto del Ministro per le finanze, un colonnello o un tenente colonnello del Corpo della Regia guardia di finanza e un funzionario di grado 6° o 7° dei ruoli di gruppo A dell'Amministrazione autonoma dei monopoli di Stato. 
  
- Allo stesso Ufficio possono essere comandati, nelle forme stabilite dal [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), due funzionari di concetto della Ragioneria generale dello Stato di grado 5° o 6°. 
+ Allo stesso Ufficio possono essere comandati, nelle forme stabilite dal [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), due funzionari di concetto della Ragioneria generale dello Stato di grado 5° o 6°. 
  
  Presso l'Ufficio stesso possono essere costituite, con decreto del Ministro per le finanze, commissioni di studio composte anche di funzionari di altre Amministrazioni dello Stato e di estranei alle Amministrazioni stesse, a termini delle vigenti disposizioni.
 

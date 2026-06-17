@@ -56,7 +56,7 @@ Avvertenza:
 
 La Scuola e' un'istituzione di alta formazione e cultura, che svolge i seguenti compiti:
                         a)
-                            istituisce e realizza i corsi di formazione, di perfezionamento e di specializzazione, nonche' di aggiornamento professionale previsti dal regolamento adottato con [decreto del Ministro dell'interno 24 dicembre 2003, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.interno:decreto:2003-12-24;400), recante disciplina delle modalita' di svolgimento dei corsi destinati al personale dirigente e direttivo della Polizia di Stato;
+                            istituisce e realizza i corsi di formazione, di perfezionamento e di specializzazione, nonche' di aggiornamento professionale previsti dal regolamento adottato con [decreto del Ministro dell'interno 24 dicembre 2003, n. 400](../Regolamenti%20ministeriali/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20svolgimento%20dei%20corsi%20destinati%20al%20personale%20dirigente%20e%20direttivo%20della%20Polizia%20di%20Stato%20in%20attuazione%20del%20decreto%20legislativo%205%20ottobre%20_a4dac56dd8d3.md), recante disciplina delle modalita' di svolgimento dei corsi destinati al personale dirigente e direttivo della Polizia di Stato;
                         b)
                             svolge le attivita' di formazione permanente e ricorrente per il personale dirigente e direttivo della Polizia di Stato, che si rendano necessarie in relazione alle esigenze istituzionali;
                         c)

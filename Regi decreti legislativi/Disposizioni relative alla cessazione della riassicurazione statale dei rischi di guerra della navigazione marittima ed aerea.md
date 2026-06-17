@@ -67,7 +67,7 @@ Il Comitato di vigilanza tecnico amministrativo costituito a norma dell'[art. 8 
 
 AGGIORNAMENTO (1)
 
-La [L. 23 febbraio 1952, n. 102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-02-23;102) ha disposto (con l'art. 4) che " La composizione del Comitato di vigilanza tecnico-amministrativa previsto dall'[art. 3 del regio decreto legislativo 17 maggio 1946, n. 590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-17;590#art_3), e' modificata agli effetti del regio decreto stesso quanto agli effetti della presente legge nel modo seguente:
+La [L. 23 febbraio 1952, n. 102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-02-23;102) ha disposto (con l'art. 4) che " La composizione del Comitato di vigilanza tecnico-amministrativa previsto dall'[art. 3 del regio decreto legislativo 17 maggio 1946, n. 590](Disposizioni%20relative%20alla%20cessazione%20della%20riassicurazione%20statale%20dei%20rischi%20di%20guerra%20della%20navigazione%20marittima%20ed%20aerea.md), e' modificata agli effetti del regio decreto stesso quanto agli effetti della presente legge nel modo seguente:
  un direttore generale del Ministero dell'industria e commercio presidente;
  il capo dell'ufficio assicurazioni private del Ministero predetto, membro;
  due rappresentanti del Ministero del tesoro, di cui uno per la Ragioneria generale dello Stato ed uno per la Direzione generale del tesoro, membri;
@@ -84,7 +84,7 @@ La [L. 23 febbraio 1952, n. 102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 AGGIORNAMENTO (2)
 
-La [L. 23 febbraio 1952, n. 102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-02-23;102), come modificata dalla [L. 11 aprile 1955, n. 294](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-04-11;294) ha disposto (con l'art. 4) che " La composizione del Comitato di vigilanza tecnico-amministrativa previsto dall'[art. 3 del regio decreto legislativo 17 maggio 1946, n. 590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-17;590#art_3), e' modificata agli effetti del regio decreto stesso quanto agli effetti della presente legge nel modo seguente:
+La [L. 23 febbraio 1952, n. 102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-02-23;102), come modificata dalla [L. 11 aprile 1955, n. 294](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-04-11;294) ha disposto (con l'art. 4) che " La composizione del Comitato di vigilanza tecnico-amministrativa previsto dall'[art. 3 del regio decreto legislativo 17 maggio 1946, n. 590](Disposizioni%20relative%20alla%20cessazione%20della%20riassicurazione%20statale%20dei%20rischi%20di%20guerra%20della%20navigazione%20marittima%20ed%20aerea.md), e' modificata agli effetti del regio decreto stesso quanto agli effetti della presente legge nel modo seguente:
  il Sottosegretario di Stato al Ministero dell'industria e del commercio, preposto ai servizi delle assicurazioni, presidente
  il capo dell'ufficio assicurazioni private del Ministero predetto, membro;
  due rappresentanti del Ministero del tesoro, di cui uno per la Ragioneria generale dello Stato ed uno per la Direzione generale del tesoro, membri;

@@ -37,7 +37,7 @@ Il presente decreto stabilisce le norme di attuazione della [direttiva n. 83/575
 La [direttiva n. 83/575/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1983;575) viene pubblicata unitamente al presente decreto.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - Il testo dell'[art. 14 della legge n. 183/1987](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;183#art_14) (Coordinamento delle politiche riguardanti l'appartenenza dell'Italia alle Comunita' europee ed adeguamento dell'ordinamento interno agli atti normativi comunitari) e' il seguente:
  "Art. 14 (Conferimento di forza di legge ad alcune direttive). 1. Le norme contenute nelle direttive della Comunita' economica europea, indicate nell'elenco ' A' allegato alla presente legge, hanno forza di legge con effetto dalla data di emanazione del decreto di cui al comma 2.
@@ -69,11 +69,11 @@ Per effetto dell'[art. 1 paragrafo 1, della direttiva n. 83/575/CEE](https://www
  "Art. 1. - 1. E' istituito il controllo CEE degli strumenti comprendente l'approvazione CEE del modello e la verificazione prima CEE, o uno solo di questi istituti.
  2. Possono essere sottoposti al controllo CEE gli strumenti compresi in una categoria per la quale e' stata emanata una direttiva particolare delle Comunita' europee, attuata nell'ordinamento interno in conformita' delle disposioni in vigore.
  3. Il controllo CEE eseguito da un altro Stato membro delle Comunita' europee ha effetto identico a quello eseguito dagli uffici di cui all'art. 2.
- 4. Agli strumenti muniti di marchi CEE attestanti la verificazione prima CEE, o di contrassegni CEE comprovanti l'esonero dalla verificazione prima CEE, non si applica l'art. 14 del testo unico delle leggi metriche, approvato con [regio decreto 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088).
+ 4. Agli strumenti muniti di marchi CEE attestanti la verificazione prima CEE, o di contrassegni CEE comprovanti l'esonero dalla verificazione prima CEE, non si applica l'art. 14 del testo unico delle leggi metriche, approvato con [regio decreto 23 agosto 1890, n. 7088](../Regi%20decreti/Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md).
  5. Per gli strumenti muniti del marchio di verificazione prima CEE, le disposizioni di cui ai commi 3 e 4 precedenti e all'art. 1- bis sono valide esclusivamente sino alla fine dell'anno successivo a quello in cui e' stato apposto il predetto marchio, salvo che termini superiori vengano stabiliti in provvedimenti di attuazione di direttive particolari".
 
 Nota all'[art. 4:
- Il R.D. 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088#art_4), approva il testo unico delle leggi sui pesi e sulle misure nel Regno d'Italia.
+ Il R.D. 23 agosto 1890, n. 7088](../Regi%20decreti/Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md), approva il testo unico delle leggi sui pesi e sulle misure nel Regno d'Italia.
 
 ## Art. 5.
 

@@ -81,7 +81,7 @@ Note all'art. 2:
  Tale competenza permane dopo il trasferimento dell'azienda o la cessazione di essa o della sua dipendenza, purche' la domanda sia proposta entro sei mesi dal trasferimento o dalla cessazione. 
  Competente per territorio per le controversie previste dal numero 3) dell'articolo 409 e' il giudice nella cui circoscrizione si trova il domicilio dell'agente, del rappresentante di commercio ovvero del titolare degli altri rapporti di collaborazione di cui al predetto numero 3) dell'articolo 409. 
  Competente per territorio per le controversie relative ai rapporti di lavoro alle dipendenze delle pubbliche amministrazioni e' il giudice nella cui circoscrizione ha sede l'ufficio al quale il dipendente e' addetto o era addetto al momento della cessazione del rapporto. 
- Nelle controversie nelle quali e' parte una Amministrazione dello Stato non si applicano le disposizioni dell'[articolo 6 del regio decreto 30 ottobre 1933, n. 1611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1611#art_6). 
+ Nelle controversie nelle quali e' parte una Amministrazione dello Stato non si applicano le disposizioni dell'[articolo 6 del regio decreto 30 ottobre 1933, n. 1611](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md). 
  Qualora non trovino applicazione le disposizioni dei commi precedenti, si applicano quelle dell'articolo 18. 
  Sono nulle le clausole derogative della competenza per territorio.». 
  «Art. 415 (Deposito del ricorso e decreto di fissazione dell'udienza). - Il ricorso e' depositato nella cancelleria del giudice competente insieme con i documenti in esso indicati. 
@@ -252,7 +252,7 @@ L'opposizione si propone altresi' davanti al tribunale:
                             b)
                                 quando, essendo la violazione punita con sanzione pecuniaria proporzionale senza previsione di un limite massimo, e' stata applicata una sanzione superiore a 15.493 euro;
                             c)
-                                quando e' stata applicata una sanzione di natura diversa da quella pecuniaria, sola o congiunta a quest'ultima, fatta eccezione per le violazioni previste dal [regio decreto 21 dicembre 1933, n. 1736](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-21;1736), dalla [legge 15 dicembre 1990, n. 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-15;386) e dal [decreto legislativo 30 aprile 1992, n. 285](Nuovo%20codice%20della%20strada.md).
+                                quando e' stata applicata una sanzione di natura diversa da quella pecuniaria, sola o congiunta a quest'ultima, fatta eccezione per le violazioni previste dal [regio decreto 21 dicembre 1933, n. 1736](../Regi%20decreti/Disposizioni%20sullassegno%20bancario%20sullassegno%20circolare%20e%20su%20alcuni%20titoli%20speciali%20dellIstituto%20di%20emissione%20del%20Banco%20di%20Napoli%20e%20del%20Banco%20di%20Sicilia.%20033U1736.md), dalla [legge 15 dicembre 1990, n. 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-15;386) e dal [decreto legislativo 30 aprile 1992, n. 285](Nuovo%20codice%20della%20strada.md).
 
 6.
 
@@ -295,7 +295,7 @@ Note all'art. 6:
  - Si riporta il testo dell'[articolo 22 della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_22) (Modifiche al sistema penale), come modificato dal presente decreto legislativo. 
  «Art. 22 (Opposizione all'ordinanza-ingiunzione). - Salvo quanto previsto dall'[articolo 133 del decreto legislativo 2 luglio 2010, n. 104](Attuazione%20dellarticolo%2044%20della%20legge%2018%20giugno%202009%20n.%2069%20recante%20delega%20al%20governo%20per%20il%20riordino%20del%20processo%20amministrativo.%2010G0127.md), e da altre disposizioni di legge, contro l'ordinanza-ingiunzione di pagamento e contro l'ordinanza che dispone la sola confisca gli interessati possono proporre opposizione dinanzi all'autorita' giudiziaria ordinaria. L'opposizione e' regolata dall'[articolo 6 del decreto legislativo 1° settembre 2011, n. 150](Disposizioni%20complementari%20al%20codice%20di%20procedura%20civile%20in%20materia%20di%20riduzione%20e%20semplificazione%20dei%20procedimenti%20civili%20di%20cognizione%20ai%20sensi%20dellarticolo%2054%20della%20legge%2018%20giugno%20200_79c74cc89038.md); 
  commi 2 - 7 (abrogati).». 
- - Il [regio decreto 21 dicembre 1933, n. 1736](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-21;1736) reca: «Disposizioni sull'assegno bancario, sull'assegno circolare e su alcuni titoli speciali dell'Istituto di emissione, del Banco di Napoli e del Banco di Sicilia.». 
+ - Il [regio decreto 21 dicembre 1933, n. 1736](../Regi%20decreti/Disposizioni%20sullassegno%20bancario%20sullassegno%20circolare%20e%20su%20alcuni%20titoli%20speciali%20dellIstituto%20di%20emissione%20del%20Banco%20di%20Napoli%20e%20del%20Banco%20di%20Sicilia.%20033U1736.md) reca: «Disposizioni sull'assegno bancario, sull'assegno circolare e su alcuni titoli speciali dell'Istituto di emissione, del Banco di Napoli e del Banco di Sicilia.». 
  - La [legge 15 dicembre 1990, n. 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-15;386) reca: «Nuova disciplina sanzionatoria degli assegni bancari.». 
  - Si riporta il testo degli [articoli 205](Nuovo%20codice%20della%20strada.md) e [208 del decreto legislativo 30 aprile 1992, n. 285](Nuovo%20codice%20della%20strada.md) (Nuovo [codice della strada](Nuovo%20codice%20della%20strada.md).): 
  «Art. 205 (Opposizione innanzi all'autorita' giudiziaria). - 1. Contro l'ordinanza-ingiunzione di pagamento di una sanzione amministrativa pecuniaria gli interessati possono proporre opposizione entro il termine di trenta giorni dalla notificazione del provvedimento, o di sessanta giorni dalla stessa, se l'interessato risiede all'estero. 
@@ -1457,7 +1457,7 @@ Il [D.Lgs. 31 ottobre 2024, n. 164](../Leggi%20delega%20e%20relativi%20provvedim
 
 1.
 
-Le controversie in materia di opposizione all'ingiunzione per il pagamento delle entrate patrimoniali degli enti pubblici di cui all'articolo 3 del testo unico delle disposizioni di legge relative alla riscossione delle entrate patrimoniali dello Stato e degli altri enti pubblici approvato con [regio decreto 14 aprile 1910, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-14;639), sono regolate dal rito ordinario di cognizione.
+Le controversie in materia di opposizione all'ingiunzione per il pagamento delle entrate patrimoniali degli enti pubblici di cui all'articolo 3 del testo unico delle disposizioni di legge relative alla riscossione delle entrate patrimoniali dello Stato e degli altri enti pubblici approvato con [regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md), sono regolate dal rito ordinario di cognizione.
 
 2.
 
@@ -1714,7 +1714,7 @@ Chiunque elude l'esecuzione di provvedimenti, diversi dalla condanna al risarcim
  a) all'articolo 1, dopo il primo comma e' inserito il seguente: «Le controversie di cui al primo comma sono disciplinate dall'[articolo 31 del decreto legislativo 1° settembre 2011, n.150](Disposizioni%20complementari%20al%20codice%20di%20procedura%20civile%20in%20materia%20di%20riduzione%20e%20semplificazione%20dei%20procedimenti%20civili%20di%20cognizione%20ai%20sensi%20dellarticolo%2054%20della%20legge%2018%20giugno%20200_79c74cc89038.md).»; 
  b) all'articolo 6, primo comma, le parole: «il ricorso di cui al primo comma dell'articolo 2 deve essere proposto» sono sostituite dalle seguenti: «la domanda di rettificazione di attribuzione di sesso deve essere proposta»; 
  c) gli articoli 2 e 3 e l'articolo 6, secondo comma, sono abrogati. 
- 40. L'articolo 3 delle disposizioni di legge relative alla riscossione delle entrate patrimoniali dello Stato e degli altri enti pubblici approvato con [regio decreto 14 aprile 1910, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-14;639), e' sostituito dal seguente: 
+ 40. L'articolo 3 delle disposizioni di legge relative alla riscossione delle entrate patrimoniali dello Stato e degli altri enti pubblici approvato con [regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md), e' sostituito dal seguente: 
  
  «Art. 3. 
  

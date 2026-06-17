@@ -280,10 +280,10 @@ Note all'art. 15:
 
 1.
 
-Sono abrogati, dalla data di entrata in vigore del presente decreto, l'[articolo 189 del regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_189), nonche' il [decreto legislativo 25 febbraio 2000, n. 174](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2098-8-CE%20in%20materia%20di%20immissione%20sul%20mercato%20di%20biocidi.md).
+Sono abrogati, dalla data di entrata in vigore del presente decreto, l'[articolo 189 del regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), nonche' il [decreto legislativo 25 febbraio 2000, n. 174](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2098-8-CE%20in%20materia%20di%20immissione%20sul%20mercato%20di%20biocidi.md).
 
 Note all'[art. 16: 
- - Il regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_16) (Approvazione del [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265)), e' pubblicato nella Gazzetta Ufficiale 9 agosto 1934, n. 186, S.O. 
+ - Il regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) (Approvazione del [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md)), e' pubblicato nella Gazzetta Ufficiale 9 agosto 1934, n. 186, S.O. 
  - Il [decreto legislativo 25 febbraio 2000, n. 174](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2098-8-CE%20in%20materia%20di%20immissione%20sul%20mercato%20di%20biocidi.md), abrogato dal presente decreto, e' pubblicato nella Gazzetta Ufficiale 28 giugno 2000, n. 149, S.O.
 
 ## Art. 17. — Clausola di invarianza finanziaria

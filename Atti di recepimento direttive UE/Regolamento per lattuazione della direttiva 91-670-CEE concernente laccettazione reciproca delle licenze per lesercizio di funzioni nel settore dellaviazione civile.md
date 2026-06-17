@@ -34,7 +34,7 @@ Le licenze aeronautiche professionali con le relative abilitazioni rilasciate da
 
 2.
 
-Ai cittadini degli Stati membri della Comunita' economica europea, per lo svolgimento di attivita' non professionali su aeromobili immatricolati in Italia, si applicano le disposizioni di cui all'[art. 23, comma 6, del decreto del Presidente della Repubblica 18 novembre 1988, n. 566](../DPR/Approvazione%20del%20regolamento%20in%20materia%20di%20licenze%20attestati%20ed%20abilitazioni%20aeronautiche%20ai%20sensi%20dellart.%20731%20del%20codice%20della%20navigazione%20come%20modificato%20dallart.%203%20della%20legge%2013%20magg_edc4c32e3ec3.md).
+Ai cittadini degli Stati membri della Comunita' economica europea, per lo svolgimento di attivita' non professionali su aeromobili immatricolati in Italia, si applicano le disposizioni di cui all'[art. 23, comma 6, del decreto del Presidente della Repubblica 18 novembre 1988, n. 566](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20in%20materia%20di%20licenze%20attestati%20ed%20abilitazioni%20aeronautiche%20ai%20sensi%20dellart.%20731%20del%20codice%20della%20navigazione%20come%20modificato%20dallart.%203%20della%20legge%2013%20magg_edc4c32e3ec3.md).
 
 3.
 
@@ -54,7 +54,7 @@ Qualora la licenza da convalidare non risponda ai requisiti di equivalenza delle
 
 1.
 
-La convalida delle licenze aeronautiche puo' essere sospesa nei casi e per i periodi previsti dall'[art. 80 del decreto del Presidente della Repubblica 18 novembre 1988, n. 566](../DPR/Approvazione%20del%20regolamento%20in%20materia%20di%20licenze%20attestati%20ed%20abilitazioni%20aeronautiche%20ai%20sensi%20dellart.%20731%20del%20codice%20della%20navigazione%20come%20modificato%20dallart.%203%20della%20legge%2013%20magg_edc4c32e3ec3.md), per le licenze aeronautiche italiane.
+La convalida delle licenze aeronautiche puo' essere sospesa nei casi e per i periodi previsti dall'[art. 80 del decreto del Presidente della Repubblica 18 novembre 1988, n. 566](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20in%20materia%20di%20licenze%20attestati%20ed%20abilitazioni%20aeronautiche%20ai%20sensi%20dellart.%20731%20del%20codice%20della%20navigazione%20come%20modificato%20dallart.%203%20della%20legge%2013%20magg_edc4c32e3ec3.md), per le licenze aeronautiche italiane.
 
 2.
 

@@ -20,7 +20,7 @@ Visto l'[art. 13, comma 1, lettera a), del decreto-legge 23 gennaio 1993, n. 16]
 
 Visto l'[art. 9 del decreto-legge 31 gennaio 1995, n. 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-01-31;26#art_9), convertito, con modificazioni, dalla [legge 29 marzo 1995, n. 95](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20gennaio%201995%20n.%2026%20recante%20disposizioni%20urgenti%20per%20la%20ripresa%20delle%20attivita%20imprenditoriali.md);
 
-Visti gli [articoli 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze:decreto:1993-12-28;567#art_15) e [18 del decreto del Ministro delle finanze 28 dicembre 1993, n. 567](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze:decreto:1993-12-28;567#art_18);
+Visti gli [articoli 15](../Regolamenti%20ministeriali/Regolamento%20di%20attuazione%20dellart.%2078%20commi%20da%2027%20a%2038%20della%20legge%2030%20dicembre%201991%20n.%20413%20concernente%20listituzione%20del%20conto%20fiscale.md) e [18 del decreto del Ministro delle finanze 28 dicembre 1993, n. 567](../Regolamenti%20ministeriali/Regolamento%20di%20attuazione%20dellart.%2078%20commi%20da%2027%20a%2038%20della%20legge%2030%20dicembre%201991%20n.%20413%20concernente%20listituzione%20del%20conto%20fiscale.md);
 
 Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 19 ottobre 1995;
 
@@ -248,7 +248,7 @@ Le autorizzazioni al quietanzamento automatico dei versamenti diretti, alla tenu
 
 2.
 
-Per l'anno 1995 il termine del 20 marzo previsto dall'[art. 15 del decreto del Ministro delle finanze 28 dicembre 1993, n. 567](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze:decreto:1993-12-28;567#art_15), e' differito al 20 dicembre; il relativo adempimento e' a carico del concessionario in carica alla data di entrata in vigore del presente regolamento.
+Per l'anno 1995 il termine del 20 marzo previsto dall'[art. 15 del decreto del Ministro delle finanze 28 dicembre 1993, n. 567](../Regolamenti%20ministeriali/Regolamento%20di%20attuazione%20dellart.%2078%20commi%20da%2027%20a%2038%20della%20legge%2030%20dicembre%201991%20n.%20413%20concernente%20listituzione%20del%20conto%20fiscale.md), e' differito al 20 dicembre; il relativo adempimento e' a carico del concessionario in carica alla data di entrata in vigore del presente regolamento.
 
 Nota all'art. 7:
  - Per il testo dell'[art. 15 del D.M. n. 567/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1993;567#art_15) si veda in nota alle premesse.

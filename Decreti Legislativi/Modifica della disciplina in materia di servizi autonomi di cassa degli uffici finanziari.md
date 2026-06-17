@@ -94,7 +94,7 @@ Nei casi in cui specifiche disposizioni di legge prevedono la possibilita' di de
 
 1.
 
-Le entrate sono riscosse dal concessionario del servizio di riscossione dei tributi e dagli istituti di credito secondo le modalita' di cui agli articoli 6, 7 e 8 del regolamento concernente l'istituzione del conto fiscale, emanato con [decreto del Ministro delle finanze 28 dicembre 1993, n. 567](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze:decreto:1993-12-28;567). ((Fino al 31 dicembre 2003, per i compensi)) alle aziende di credito si applicano le disposizioni di cui all'articolo 10 del citato [regolamento n. 567 del 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1993;567) e per i compensi ai concessionari si applicano le disposizioni di cui all'[articolo 61, comma 3, lettera a), del decreto del Presidente della Repubblica 28 gennaio 1988, n. 43](../DPR/Istituzione%20del%20Servizio%20di%20riscossione%20dei%20tributi%20e%20di%20altre%20entrate%20dello%20Stato%20e%20di%20altri%20enti%20pubblici%20ai%20sensi%20dellart.%201%20comma%201%20della%20legge%204%20ottobre%201986%20n.%20657.md).
+Le entrate sono riscosse dal concessionario del servizio di riscossione dei tributi e dagli istituti di credito secondo le modalita' di cui agli articoli 6, 7 e 8 del regolamento concernente l'istituzione del conto fiscale, emanato con [decreto del Ministro delle finanze 28 dicembre 1993, n. 567](../Regolamenti%20ministeriali/Regolamento%20di%20attuazione%20dellart.%2078%20commi%20da%2027%20a%2038%20della%20legge%2030%20dicembre%201991%20n.%20413%20concernente%20listituzione%20del%20conto%20fiscale.md). ((Fino al 31 dicembre 2003, per i compensi)) alle aziende di credito si applicano le disposizioni di cui all'articolo 10 del citato [regolamento n. 567 del 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1993;567) e per i compensi ai concessionari si applicano le disposizioni di cui all'[articolo 61, comma 3, lettera a), del decreto del Presidente della Repubblica 28 gennaio 1988, n. 43](../DPR/Istituzione%20del%20Servizio%20di%20riscossione%20dei%20tributi%20e%20di%20altre%20entrate%20dello%20Stato%20e%20di%20altri%20enti%20pubblici%20ai%20sensi%20dellart.%201%20comma%201%20della%20legge%204%20ottobre%201986%20n.%20657.md).
 
 2.
 
@@ -110,7 +110,7 @@ A decorrere dal 1° gennaio 2004, il compenso spettante a concessionari, banche 
 
 3.
 
-Alla trasmissione dei dati analitici relativi ad ogni singola operazione d'incasso effettuata dalle aziende di credito si applicano le disposizioni di cui all'articolo 13 del regolamento concernente l'istituzione del conto fiscale, emanato con [decreto del Ministro delle finanze 28 dicembre 1993, n. 567](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze:decreto:1993-12-28;567).
+Alla trasmissione dei dati analitici relativi ad ogni singola operazione d'incasso effettuata dalle aziende di credito si applicano le disposizioni di cui all'articolo 13 del regolamento concernente l'istituzione del conto fiscale, emanato con [decreto del Ministro delle finanze 28 dicembre 1993, n. 567](../Regolamenti%20ministeriali/Regolamento%20di%20attuazione%20dellart.%2078%20commi%20da%2027%20a%2038%20della%20legge%2030%20dicembre%201991%20n.%20413%20concernente%20listituzione%20del%20conto%20fiscale.md).
 
 4.
 
@@ -150,7 +150,7 @@ La riscossione delle tasse sulle concessioni governative, da corrispondere in mo
 
 2.
 
-La riscossione dei canoni di abbonamento alla radiotelevisione, delle relative tasse di concessione governativa, imposta sul valore aggiunto, sanzioni, interessi e diritti e' effettuata tramite l'Ente poste italiane mediante versamento su apposito conto corrente postale intestato all'ufficio del registro abbonamenti radio e televisione di Torino, vincolato a favore della sezione di tesoreria provinciale dello Stato di Torino. Alla riscossione coattiva provvede il medesimo ufficio del registro abbonamenti radio e televisione di Torino, ai sensi del testo unico delle disposizioni di legge relative alla procedura coattiva per la riscossione delle entrate patrimoniali dello Stato e degli altri enti pubblici, dei proventi di demanio pubblico e di pubblici servizi e delle tasse sugli affari, approvato con [regio decreto 14 aprile 1910, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-14;639).
+La riscossione dei canoni di abbonamento alla radiotelevisione, delle relative tasse di concessione governativa, imposta sul valore aggiunto, sanzioni, interessi e diritti e' effettuata tramite l'Ente poste italiane mediante versamento su apposito conto corrente postale intestato all'ufficio del registro abbonamenti radio e televisione di Torino, vincolato a favore della sezione di tesoreria provinciale dello Stato di Torino. Alla riscossione coattiva provvede il medesimo ufficio del registro abbonamenti radio e televisione di Torino, ai sensi del testo unico delle disposizioni di legge relative alla procedura coattiva per la riscossione delle entrate patrimoniali dello Stato e degli altri enti pubblici, dei proventi di demanio pubblico e di pubblici servizi e delle tasse sugli affari, approvato con [regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
 
 ((3. A decorrere dal 1º luglio 2017, la riscossione delle tasse ipotecarie e dei tributi speciali di cui all'articolo 2, comma 1, lettere h) e i), da corrispondere agli uffici provinciali - territorio dell'Agenzia delle entrate e' effettuata mediante:
 
@@ -280,7 +280,7 @@ Capo V
 
 1.
 
-In caso di omesso o insufficiente versamento alle sezioni di tesoreria provinciale dello Stato o alle casse dagli enti destinatari delle somme riscosse dal concessionario direttamente o per il tramite degli istituti di credito si applicano le disposizioni contenute nell'articolo 16 del regolamento concernente l'istituzione del conto fiscale, emanato con [decreto del Ministro delle finanze 28 dicembre 1993, n. 567](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze:decreto:1993-12-28;567).
+In caso di omesso o insufficiente versamento alle sezioni di tesoreria provinciale dello Stato o alle casse dagli enti destinatari delle somme riscosse dal concessionario direttamente o per il tramite degli istituti di credito si applicano le disposizioni contenute nell'articolo 16 del regolamento concernente l'istituzione del conto fiscale, emanato con [decreto del Ministro delle finanze 28 dicembre 1993, n. 567](../Regolamenti%20ministeriali/Regolamento%20di%20attuazione%20dellart.%2078%20commi%20da%2027%20a%2038%20della%20legge%2030%20dicembre%201991%20n.%20413%20concernente%20listituzione%20del%20conto%20fiscale.md).
 
 Nota all'art. 14:
  - Il testo dell'art. 16 del citato [D.M. n. 567/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1993;567) e' il seguente:

@@ -324,7 +324,7 @@ All'[articolo 13, comma 3, del decreto-legge 4 luglio 2006, n. 223](https://www.
 
 1.
 
-Il termine di cui all'[articolo 1, comma 2, del decreto del Presidente della Repubblica 24 ottobre 2003, n. 340](../DPR/Regolamento%20recante%20disciplina%20per%20la%20sicurezza%20degli%20impianti%20di%20distribuzione%20stradale%20di%20G.P.L.%20per%20autotrazione.md), per l'adeguamento degli impianti esistenti di distribuzione stradale di GPL per autotrazione, la cui capacita' complessiva resti limitata fino a 30 m3, e' differito al 31 dicembre 2009.
+Il termine di cui all'[articolo 1, comma 2, del decreto del Presidente della Repubblica 24 ottobre 2003, n. 340](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20per%20la%20sicurezza%20degli%20impianti%20di%20distribuzione%20stradale%20di%20G.P.L.%20per%20autotrazione.md), per l'adeguamento degli impianti esistenti di distribuzione stradale di GPL per autotrazione, la cui capacita' complessiva resti limitata fino a 30 m3, e' differito al 31 dicembre 2009.
 
 ((
 
@@ -548,7 +548,7 @@ Al [comma 1 dell'articolo 20 del decreto-legge 31 dicembre 2007, n. 248](Proroga
 
 1-octies.
 
-La scadenza del 1 gennaio 2009 prevista dall'[articolo 4, comma 1-bis, del testo unico delle disposizioni legislative e regolamentari in materia edilizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md), di cui al [decreto del Presidente della Repubblica 6 giugno 2001, n. 380](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md), e' differita al 1° gennaio 2010.
+La scadenza del 1 gennaio 2009 prevista dall'[articolo 4, comma 1-bis, del testo unico delle disposizioni legislative e regolamentari in materia edilizia](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md), di cui al [decreto del Presidente della Repubblica 6 giugno 2001, n. 380](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md), e' differita al 1° gennaio 2010.
 
 1-novies.
 
@@ -735,11 +735,11 @@ Il personale ex CONI, transitato alle dipendenze della CONI Servizi S.p.a., per 
 
 5.
 
-Nelle parole "esercizio diretto di attivita' sportive dilettantistiche" contenute nell'articolo 67, comma 1, lettera m), del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, sono ricomprese la formazione, la didattica, la preparazione e l'assistenza all'attivita' sportiva dilettantistica.
+Nelle parole "esercizio diretto di attivita' sportive dilettantistiche" contenute nell'articolo 67, comma 1, lettera m), del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, sono ricomprese la formazione, la didattica, la preparazione e l'assistenza all'attivita' sportiva dilettantistica.
 
 6.
 
-Alle federazioni sportive nazionali, alle discipline associate ed agli enti di promozione sportiva riconosciuti dal CONI si applica quanto previsto dall'articolo 67, comma 1, lettera m), secondo periodo, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, e dall'[articolo 61, comma 3, del decreto legislativo 10 settembre 2003, n. 276](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20delle%20deleghe%20in%20materia%20di%20occupazione%20e%20mercato%20del%20lavoro%20di%20cui%20alla%20legge%2014%20febbraio%202003%20n.%2030.md), e successive modificazioni.
+Alle federazioni sportive nazionali, alle discipline associate ed agli enti di promozione sportiva riconosciuti dal CONI si applica quanto previsto dall'articolo 67, comma 1, lettera m), secondo periodo, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, e dall'[articolo 61, comma 3, del decreto legislativo 10 settembre 2003, n. 276](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20delle%20deleghe%20in%20materia%20di%20occupazione%20e%20mercato%20del%20lavoro%20di%20cui%20alla%20legge%2014%20febbraio%202003%20n.%2030.md), e successive modificazioni.
 
 7.
 
@@ -1158,7 +1158,7 @@ Il termine di cui all'[articolo 2, comma 110, della legge 24 dicembre 2007, n. 2
 
 7-ter.
 
-Al regolamento di cui al [decreto del Presidente della Repubblica 22 luglio 1998, n. 322](../DPR/Regolamento%20recante%20modalita%20per%20la%20presentazione%20delle%20dichiarazioni%20relative%20alle%20imposte%20sui%20redditi%20allimposta%20regionale%20sulle%20attivita%20produttive%20e%20allimposta%20sul%20valore%20aggiunto%20ai%20_2eac3ead8e12.md), sono apportate le seguenti modificazioni:
+Al regolamento di cui al [decreto del Presidente della Repubblica 22 luglio 1998, n. 322](../Regolamenti%20governativi/Regolamento%20recante%20modalita%20per%20la%20presentazione%20delle%20dichiarazioni%20relative%20alle%20imposte%20sui%20redditi%20allimposta%20regionale%20sulle%20attivita%20produttive%20e%20allimposta%20sul%20valore%20aggiunto%20ai%20_2eac3ead8e12.md), sono apportate le seguenti modificazioni:
                             a)
                                 all'articolo 2, comma 1, le parole: "31 luglio" sono sostituite dalle seguenti: "30 settembre";
                             b)
@@ -1186,7 +1186,7 @@ Resta in ogni caso fermo il potere regolamentare di cui al [comma 136 dell'artic
 
 7-quinquies.
 
-Al regolamento di cui al [decreto del Ministro delle finanze 31 maggio 1999, n. 164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze:decreto:1999-05-31;164), sono apportate le seguenti modificazioni:
+Al regolamento di cui al [decreto del Ministro delle finanze 31 maggio 1999, n. 164](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20per%20lassistenza%20fiscale%20resa%20dai%20Centri%20di%20assistenza%20fiscale%20per%20le%20imprese%20e%20per%20i%20dipendenti%20dai%20sostituti%20dimposta%20e%20dai%20professionisti%20ai%20sensi%20dellarticolo_7b28f03b2e87.md), sono apportate le seguenti modificazioni:
                             a)
                                 agli articoli 16 e 17 la parola: "25", ovunque ricorra, e' sostituita dalla seguente: "30";
                             b)
@@ -1196,7 +1196,7 @@ Al regolamento di cui al [decreto del Ministro delle finanze 31 maggio 1999, n. 
 
 7-sexies.
 
-Per l'anno 2009, i dipendenti dei CAF ovvero i professionisti abilitati nonche' i sostituti d'imposta, nell'ambito delle attivita' di assistenza fiscale di cui agli [articoli 34, comma 4](../Decreti%20Legislativi/Norme%20di%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20sede%20di%20dichiarazione%20dei%20redditi%20e%20dellimposta%20sul%20valore%20aggiunto%20nonche%20di%20modernizzazione%20del%20sistema%20di%20gestione%20delle%20dichiarazioni.md), e [37, comma 2, del decreto legislativo 9 luglio 1997, n. 241](../Decreti%20Legislativi/Norme%20di%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20sede%20di%20dichiarazione%20dei%20redditi%20e%20dellimposta%20sul%20valore%20aggiunto%20nonche%20di%20modernizzazione%20del%20sistema%20di%20gestione%20delle%20dichiarazioni.md), possono effettuare entro il 15 luglio 2009 la trasmissione in via telematica all'Agenzia delle entrate delle dichiarazioni presentate ai sensi dell'articolo 13 del regolamento di cui al [decreto del Ministro delle finanze 31 maggio 1999, n. 164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze:decreto:1999-05-31;164). Restano comunque fermi i termini ordinari di trasmissione delle dichiarazioni nelle ipotesi di comunicazione in via telematica del risultato finale delle dichiarazioni.
+Per l'anno 2009, i dipendenti dei CAF ovvero i professionisti abilitati nonche' i sostituti d'imposta, nell'ambito delle attivita' di assistenza fiscale di cui agli [articoli 34, comma 4](../Decreti%20Legislativi/Norme%20di%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20sede%20di%20dichiarazione%20dei%20redditi%20e%20dellimposta%20sul%20valore%20aggiunto%20nonche%20di%20modernizzazione%20del%20sistema%20di%20gestione%20delle%20dichiarazioni.md), e [37, comma 2, del decreto legislativo 9 luglio 1997, n. 241](../Decreti%20Legislativi/Norme%20di%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20sede%20di%20dichiarazione%20dei%20redditi%20e%20dellimposta%20sul%20valore%20aggiunto%20nonche%20di%20modernizzazione%20del%20sistema%20di%20gestione%20delle%20dichiarazioni.md), possono effettuare entro il 15 luglio 2009 la trasmissione in via telematica all'Agenzia delle entrate delle dichiarazioni presentate ai sensi dell'articolo 13 del regolamento di cui al [decreto del Ministro delle finanze 31 maggio 1999, n. 164](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20per%20lassistenza%20fiscale%20resa%20dai%20Centri%20di%20assistenza%20fiscale%20per%20le%20imprese%20e%20per%20i%20dipendenti%20dai%20sostituti%20dimposta%20e%20dai%20professionisti%20ai%20sensi%20dellarticolo_7b28f03b2e87.md). Restano comunque fermi i termini ordinari di trasmissione delle dichiarazioni nelle ipotesi di comunicazione in via telematica del risultato finale delle dichiarazioni.
 
 7-septies.
 

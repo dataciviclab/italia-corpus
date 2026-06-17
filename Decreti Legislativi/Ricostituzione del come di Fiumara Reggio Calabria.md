@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Il comune di Fiumara, aggregato a quello di Reggio Calabria con il [regio decreto 7 luglio 1927, n. 1195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-07;1195), e successivamente al comune di Villa San Giovanni con [regio decreto 29 dicembre 1932, n. 1711](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-12-29;1711), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del predetto decreto.
+Il comune di Fiumara, aggregato a quello di Reggio Calabria con il [regio decreto 7 luglio 1927, n. 1195](../Regi%20decreti/Aggregazione%20dei%20comuni%20di%20Campo%20di%20Calabria%20Cannitello%20Cataforio%20Catona%20Fiumara%20Gallico%20Gallina%20Podargoni%20Pellaro%20Rosali%20Salice%20Calabro%20Sambatello%20Villa%20San%20Giovanni%20e%20Villa%20San%20Giuseppe_1135589b471a.md), e successivamente al comune di Villa San Giovanni con [regio decreto 29 dicembre 1932, n. 1711](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-12-29;1711), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del predetto decreto.
  Il Prefetto di Reggio Calabria, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i Comuni interessati.
 
 ## Art. 2.

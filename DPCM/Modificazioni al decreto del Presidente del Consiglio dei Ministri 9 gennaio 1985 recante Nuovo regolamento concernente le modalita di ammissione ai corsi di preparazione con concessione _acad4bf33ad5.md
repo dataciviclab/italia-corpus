@@ -18,7 +18,7 @@ Visto l'[art. 7, settimo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:l
 
 Visto il [decreto del Presidente della Repubblica 21 aprile 1972, n. 472](../DPR/Riordinamento%20e%20potenziamento%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione.md), sul "Riordinamento e potenziamento della Scuola superiore della pubblica amministrazione";
 
-Visto il [decreto del Presidente della Repubblica 20 giugno 1977, n. 701](../DPR/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20decreto%20del%20Presidente%20della%20Repubblica%2021%20aprile%201972%20n.%20472%20sul%20riordinamento%20e%20potenziamento%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione.md), che approva il regolamento di esecuzione del decreto del Presidente della Repubblica sopracitato;
+Visto il [decreto del Presidente della Repubblica 20 giugno 1977, n. 701](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20decreto%20del%20Presidente%20della%20Repubblica%2021%20aprile%201972%20n.%20472%20sul%20riordinamento%20e%20potenziamento%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione.md), che approva il regolamento di esecuzione del decreto del Presidente della Repubblica sopracitato;
 
 Visto il decreto del Presidente del Consiglio dei Ministri 9 gennaio 1985, pubblicato nella Gazzetta Ufficiale n. 224 del 23 settembre 1985 e concernente il nuovo regolamento sulle modalita' di ammissione ai corsi di preparazione, con concessione di borsa di studio, per il reclutamento di impiegati alle qualifiche funzionali settima ed ottava delle amministrazioni dello Stato, nonche' le modalita' di organizzazione e di svolgimento dei corsi medesimi;
 
@@ -102,7 +102,7 @@ Nota all'art. 4:
  a) delle proposte che verranno formulate, a fine corso, dal collegio dei docenti incaricati in ogni classe, in merito all'impegno globale dimostrato da ciascun allievo durante lo svolgimento del corso;
  b) della relazione che verra' redatta, a fine corso, dal direttore responsabile di sede, in merito all'assiduita' con la quale ciascun allievo avra' frequentato il corso stesso, ivi compresi i periodi di applicazione e di ricerca.
  In relazione ai risultati dell'esame, vengono formulate graduatorie distinte con riferimento alle amministrazioni prescelte dagli allievi al termine del primo periodo del corso.
- Ogni graduatoria e' formata in base al punteggio finale conseguito dagli allievi costituito dalla somma del punteggio conseguito nelle prove di meta' corso e di quello conseguito al termine del corso; a parita' di merito vengono applicate le disposizioni di cui all'[art. 5 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e successive modificazioni ed integrazioni.
+ Ogni graduatoria e' formata in base al punteggio finale conseguito dagli allievi costituito dalla somma del punteggio conseguito nelle prove di meta' corso e di quello conseguito al termine del corso; a parita' di merito vengono applicate le disposizioni di cui all'[art. 5 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e successive modificazioni ed integrazioni.
  Della graduatoria, approvata con decreto del Ministro per la funzione pubblica, viene pubblicato l'avviso nella Gazzetta Ufficiale".
 
 ## Art. 5.

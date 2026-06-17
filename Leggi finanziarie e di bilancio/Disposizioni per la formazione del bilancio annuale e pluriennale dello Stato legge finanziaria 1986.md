@@ -788,11 +788,11 @@ Qualora gli aumenti superino le previsioni iniziali di spesa in misura percentua
 
 8.
 
-E' autorizzato, per l'anno finanziario 1986, il limite di impegno di lire 7 miliardi per la concessione di contributi sulla spesa di costruzione di serbatoi e laghi artificiali ai sensi degli [articoli 73 e seguenti del testo unico delle leggi sulle acque e sugli impianti elettrici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_73), approvato con [regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775).
+E' autorizzato, per l'anno finanziario 1986, il limite di impegno di lire 7 miliardi per la concessione di contributi sulla spesa di costruzione di serbatoi e laghi artificiali ai sensi degli [articoli 73 e seguenti del testo unico delle leggi sulle acque e sugli impianti elettrici](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), approvato con [regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md).
 
 9.
 
-Ai fini del completamento delle opere di adduzione collegate all'invaso di Ridracoli realizzato ai sensi e per gli effetti degli [articoli 75 e seguenti del regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_75), e finalizzate all'approvvigionamento idropotabile delle zone a piu' alta intensita' turistica della costa adriatica, e' autorizzata la spesa di lire 30 miliardi, da assegnare alla regione Emilia-Romagna in ragione di lire 10 miliardi per ciascuno degli anni 1986, 1987 e 1988.
+Ai fini del completamento delle opere di adduzione collegate all'invaso di Ridracoli realizzato ai sensi e per gli effetti degli [articoli 75 e seguenti del regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), e finalizzate all'approvvigionamento idropotabile delle zone a piu' alta intensita' turistica della costa adriatica, e' autorizzata la spesa di lire 30 miliardi, da assegnare alla regione Emilia-Romagna in ragione di lire 10 miliardi per ciascuno degli anni 1986, 1987 e 1988.
 
 10.
 
@@ -1491,7 +1491,7 @@ L'importo massimo delle garanzie per il rischio di cambio che il Ministro del te
 
 8.
 
-Le parole "ogni trimestre" di cui all'[articolo 60, primo comma, del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_60-com1), e successive modificazioni, concernenti il periodo di presentazione dei conti delle somme erogate da parte dei funzionari delegati, sono sostituite con le altre "ogni semestre".
+Le parole "ogni trimestre" di cui all'[articolo 60, primo comma, del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni, concernenti il periodo di presentazione dei conti delle somme erogate da parte dei funzionari delegati, sono sostituite con le altre "ogni semestre".
 
 9.
 

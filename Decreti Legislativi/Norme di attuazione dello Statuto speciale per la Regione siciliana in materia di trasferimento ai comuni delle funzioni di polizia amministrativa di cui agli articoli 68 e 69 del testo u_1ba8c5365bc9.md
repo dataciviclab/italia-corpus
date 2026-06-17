@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto il [regio decreto legislativo 15 maggio 1946, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-15;455), convertito in legge costituzionale dalla [legge costituzionale 26 febbraio 1948, n. 2](../Leggi%20costituzionali/Conversione%20in%20legge%20costituzionale%20dello%20Statuto%20della%20Regione%20siciliana%20approvato%20col%20decreto%20legislativo%2015%20maggio%201946%20n.%20455.md), recante «Approvazione dello statuto della Regione siciliana»;
+Visto il [regio decreto legislativo 15 maggio 1946, n. 455](../Regi%20decreti%20legislativi/Approvazione%20dello%20statuto%20della%20Regione%20siciliana.md), convertito in legge costituzionale dalla [legge costituzionale 26 febbraio 1948, n. 2](../Leggi%20costituzionali/Conversione%20in%20legge%20costituzionale%20dello%20Statuto%20della%20Regione%20siciliana%20approvato%20col%20decreto%20legislativo%2015%20maggio%201946%20n.%20455.md), recante «Approvazione dello statuto della Regione siciliana»;
 
 Visto l'[articolo 117, comma 2, lettera h) della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_117-com2-leth);
 
-Visti gli articoli 68 e 69 del testo unico delle leggi sulla sicurezza approvato con [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773) e successive modifiche ed integrazioni;
+Visti gli articoli 68 e 69 del testo unico delle leggi sulla sicurezza approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e successive modifiche ed integrazioni;
 
 Visto il [decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md) e, in particolare, l'articolo 19;
 
@@ -32,7 +32,7 @@ Emana il seguente decreto legislativo:
 
 1.
 
-Sono attribuite ai comuni le funzioni di cui agli [articoli 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_68) e [69 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_69) approvato con [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773) e loro successive modificazioni.
+Sono attribuite ai comuni le funzioni di cui agli [articoli 68](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [69 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e loro successive modificazioni.
 
 2.
 
@@ -46,15 +46,15 @@ NOTE
  Note alle premesse: 
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti. 
  - L'art. 117 dispone, tra l'altro, che lo Stato ha legislazione esclusiva in materia di ordine pubblico e sicurezza, ad esclusione della polizia amministrativa locale. 
- - Il [regio decreto legislativo 15 maggio 1946, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-15;455), recante: «Approvazione dello statuto della Regione siciliana», e' pubblicato nella Gazzetta Ufficiale n. 133 del 10 giugno 1946. 
- - Si riporta il testo degli [articoli 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_68) e [69 del regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_69) recante: «Approvazione del [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773)» pubblicato nella Gazzetta Ufficiale n. 146 del 26 giugno 1931: 
+ - Il [regio decreto legislativo 15 maggio 1946, n. 455](../Regi%20decreti%20legislativi/Approvazione%20dello%20statuto%20della%20Regione%20siciliana.md), recante: «Approvazione dello statuto della Regione siciliana», e' pubblicato nella Gazzetta Ufficiale n. 133 del 10 giugno 1946. 
+ - Si riporta il testo degli [articoli 68](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [69 del regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) recante: «Approvazione del [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md)» pubblicato nella Gazzetta Ufficiale n. 146 del 26 giugno 1931: 
  «Art. 68. - Senza licenza del questore non si possono dare in luogo pubblico o aperto o esposto al pubblico, accademie, feste da ballo, corse di cavalli, ne' altri simili spettacoli o trattenimenti, e non si possono aprire o esercitare circoli, scuole di ballo e sale pubbliche di audizione. 
  Per eventi fino ad un massimo di 200 partecipanti e che si' svolgono entro le ore 24 del giorno di inizio, la licenza e' sostituita dalla segnalazione certificata di inizio attivita' di cui all'[art. 19 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_19), e successive modificazioni, presentata allo sportello unico per le attivita' produttive o ufficio analogo. 
  Per le gare di velocita' di autoveicoli e per le gare aeronautiche si applicano le disposizioni delle leggi speciali. 
  Art. 69. - Senza licenza dell'autorita' locale di pubblica sicurezza e' vietato dare, anche temporaneamente, per mestiere, pubblici trattenimenti, esporre alla pubblica vista rarita', persone, animali, gabinetti ottici o altri oggetti di curiosita', ovvero dare audizioni all'aperto. 
  Per eventi fino ad un massimo di 200 partecipanti e che si svolgono entro le ore 24 del giorno di inizio, la licenza e' sostituita dalla segnalazione certificata di inizio attivita' di cui all'[art. 19 della legge n. 241 del 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;241#art_19), presentata allo sportello unico per le attivita' produttive o ufficio analogo.». 
  - Si riporta l'[art. 19 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md) recante: «Attuazione della delega di cui all'[art. 1 della legge 22 luglio 1975, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-22;382#art_1)», pubblicato nella Gazzetta Ufficiale n.234 del 29 agosto 1977: 
- «Art. 19 (Polizia amministrativa). - Sono attribuite ai comuni le seguenti funzioni di cui al [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), approvato con [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), e successive modificazioni: 
+ «Art. 19 (Polizia amministrativa). - Sono attribuite ai comuni le seguenti funzioni di cui al [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e successive modificazioni: 
  1) il rilascio della licenza prevista dall'art. 60 e dalle altre disposizioni speciali vigenti in materia di impianto ed esercizio di ascensori per il trasporto di persone o di materiali; 
  2) il rilascio della licenza per l'esercizio del mestiere di guida, interprete, corriere o portatore alpino e per l'insegnamento dello sci, di cui all'art. 123; 
  3); 
@@ -79,7 +79,7 @@ NOTE
  Il diniego dei provvedimenti previsti dal primo comma, numeri 5), 6), 7), 8), 9), 11), 13), 14), 15) e 17), e' efficace solo se il prefetto esprime parere conforme.». 
  
  Note all'art. 1: 
- - Per il testo degli [articoli 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_68) e [69 del regio decreto 18 giugno 1931 n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_69) si vedano le note alle premesse.
+ - Per il testo degli [articoli 68](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [69 del regio decreto 18 giugno 1931 n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) si vedano le note alle premesse.
 
 ## Art. 2. — Provvedimenti in materia di polizia amministrativa
 

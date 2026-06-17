@@ -1071,7 +1071,7 @@ Nota all'[art. 32:
  Art. 11. 
  Verifiche 
  
- 11.1 Il sindaco, nel rilasciare la licenza di abitabilita' o di agibilita' ai sensi dell'[art. 221 del regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_221), deve accertare che le opere siano state realizzate nel rispetto della legge.  11.2 A tal fine egli puo' richiedere al proprietario dell'immobile una dichiarazione resa sotto forma di perizia giurata redatta da un tecnico abilitato. 
+ 11.1 Il sindaco, nel rilasciare la licenza di abitabilita' o di agibilita' ai sensi dell'[art. 221 del regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), deve accertare che le opere siano state realizzate nel rispetto della legge.  11.2 A tal fine egli puo' richiedere al proprietario dell'immobile una dichiarazione resa sotto forma di perizia giurata redatta da un tecnico abilitato. 
  
  Art. 12. 
  Aggiornamento e modifica delle prescrizioni 

@@ -981,14 +981,14 @@ Qualora il richiedente non sia autorizzato all'esercizio di officina farmaceutic
 
 4.
 
-Il Ministero della sanita' accerta, mediante ispezione, l'idoneita' dell'officina anche ai sensi dell'[articolo 144 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_144), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), e successive modificazioni.
+Il Ministero della sanita' accerta, mediante ispezione, l'idoneita' dell'officina anche ai sensi dell'[articolo 144 del testo unico delle leggi sanitarie](Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), e successive modificazioni.
 
 5.
 
 Le spese relative a tali accertamenti sono a carico del richiedente ed i relativi recuperi sono versati con imputazione ad apposito capitolo dello stato di previsione delle entrate statali.
 
-Nota all'[art. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_33):
- - L'[art. 144 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_144), approvato con [R.D. n. 1265/1934](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934;1265), come sostituito dall'art. 2 della legge 1 maggio 1941, n. 422, e' cosi' formulato:
+Nota all'[art. 33](Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md):
+ - L'[art. 144 del testo unico delle leggi sanitarie](Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R.D. n. 1265/1934](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934;1265), come sostituito dall'art. 2 della legge 1 maggio 1941, n. 422, e' cosi' formulato:
  "Art. 144. - L'apertura di nuove officine di prodotti chimici usati in medicina e di preparati galenici e' sottoposta ad autorizzazione del Ministro per l'interno, il quale la concede sentito il parere del Consiglio superiore di sanita' e della corporazione della chimica, tenuta presente l'opportunita' dell'apertura in rapporto alle esigenze del servizio.
  L'autorizzazione e' concessa previo accertamento che l'officina, per attrezzatura tecnica e per idoneita' dei locali, dia affidamento per l'ottima qualita' delle produzioni e delle preparazioni e che sia diretta in modo continuativo da persona munita di laurea in chimica, o in chimica e farmacia, o in farmacia, o di diploma in farmacia, e iscritta nell'albo professionale.
  La mancanza, in qualsiasi momento, di alcune delle condizioni indicate nel comma precedente importa la revoca dell'autorizzazione.
@@ -1117,7 +1117,7 @@ La domanda corredata da certificato di iscrizione alla camera di commercio, indu
                             a)
                                 le generalita' del titolare o la denominazione dell'impresa commerciale con l'indicazione del legale rappresentante;
                             b)
-                                le generalita' della persona responsabile del funzionamento dell'esercizio e l'indicazione dei requisiti previsti dall'[articolo 188- bis del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_188bis), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265);
+                                le generalita' della persona responsabile del funzionamento dell'esercizio e l'indicazione dei requisiti previsti dall'[articolo 188- bis del testo unico delle leggi sanitarie](Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md);
                             c)
                                 l'ubicazione delle sedi, delle filiali, dei depositi o magazzini nei quali il commercio viene esercitato con l'indicazione dei locali riservati alla ricezione, alla detenzione e alla 
 spedizione o consegna dei prodotti di cui al comma 1, con la 
@@ -1130,8 +1130,8 @@ intende commerciare.
 
 Il Ministro della sanita', previ gli opportuni accertamenti, rilascia l'autorizzazione al commercio determinando, ove necessario, le condizioni e le garanzie.
 
-Nota all'[art. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_37):
- - L'[art. 188- bis del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_188bis), approvato con [R.D. n. 1265/1934](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934;1265), aggiunto dall'art. 5 della legge 1 maggio 1941, n. 422, e' cosi' formulato:
+Nota all'[art. 37](Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md):
+ - L'[art. 188- bis del testo unico delle leggi sanitarie](Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R.D. n. 1265/1934](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934;1265), aggiunto dall'art. 5 della legge 1 maggio 1941, n. 422, e' cosi' formulato:
  "Art. 188- bis. - Ogni deposito o magazzino nel quale si eserciti il commercio all'ingrosso di prodotti chimici usati in medicina e preparati farmaceutici deve essere diretto da un laureato in chimica, o in chimica e farmacia, o in farmacia, o diplomato in farmacia, iscritto all'albo professionale, che assume la responsabilita' del funzionamento dell'esercizio ai fini igienici e sanitari.
  Chiunque contravvenga alle disposizioni del presente articolo e' punito con l'ammenda da lire duecento a duemila.
  Il prefetto, indipendentemente dal procedimento penale, puo' ordinare la chiusura del deposito o magazzino. Il provvedimento del prefetto e' definitivo".

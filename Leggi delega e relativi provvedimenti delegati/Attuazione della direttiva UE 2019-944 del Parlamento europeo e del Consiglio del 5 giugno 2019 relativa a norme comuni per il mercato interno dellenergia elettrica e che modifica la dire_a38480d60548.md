@@ -1139,7 +1139,7 @@ La costruzione e l'esercizio degli impianti idroelettrici di accumulo mediante p
 
 10.
 
-Ai fini dell'applicazione dell'[articolo 6 del regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_6), l'uso delle acque per l'esercizio degli impianti idroelettrici di accumulo mediante pompaggio si qualifica quale uso per sollevamento a scopo di riqualificazione di energia. In caso di impianto idroelettrico di accumulo mediante pompaggio che si avvale con continuita' dell'apporto di acqua, tramite una derivazione da un corso naturale che alimenta il serbatoio di monte, lo scopo predominante e' l'uso per sollevamento a scopo di riqualificazione di energia.
+Ai fini dell'applicazione dell'[articolo 6 del regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), l'uso delle acque per l'esercizio degli impianti idroelettrici di accumulo mediante pompaggio si qualifica quale uso per sollevamento a scopo di riqualificazione di energia. In caso di impianto idroelettrico di accumulo mediante pompaggio che si avvale con continuita' dell'apporto di acqua, tramite una derivazione da un corso naturale che alimenta il serbatoio di monte, lo scopo predominante e' l'uso per sollevamento a scopo di riqualificazione di energia.
 
 11.
 

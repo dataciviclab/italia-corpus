@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Veduto il [decreto legislativo Luogotenenziale 28 settembre 1944, n. 359](Ricostituzione%20dellAccademia%20nazionale%20dei%20Lincei.%20044U0359.md), relativo alla ricostituzione della Accademia nazionale dei Lincei;
 
-Veduto il [decreto legislativo Luogotenenziale 12 aprile 1945, n. 178](Disposizioni%20relative%20allAccademia%20dei%20Lincei.%20045U0178.md), che ha stabilito disposizioni per la suddetta Accademia, richiamando, tra l'altro, in vigore lo statuto dell'Accademia stessa, approvato con [R. decreto 15 gennaio 1920, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-01-15;95);
+Veduto il [decreto legislativo Luogotenenziale 12 aprile 1945, n. 178](Disposizioni%20relative%20allAccademia%20dei%20Lincei.%20045U0178.md), che ha stabilito disposizioni per la suddetta Accademia, richiamando, tra l'altro, in vigore lo statuto dell'Accademia stessa, approvato con [R. decreto 15 gennaio 1920, n. 95](../Regi%20decreti/Approvazione%20di%20statuto.%20020U0095.md);
 
 Veduto lo statuto dell'Accademia sopra riferita, approvato con R.
 
@@ -40,7 +40,7 @@ Sulla proposta del Ministro per la pubblica istruzione, di concerto con il Minis
 
 ## Art. 1.
 
-In via eccezionale e transitoria sono consentite, per una sola volta e non oltre il termine di tre mesi dalla entrata in vigore del presente decreto legislativo, elezioni di soci nazionali per ciascuna delle categorie nelle quali sono ripartite le classi dell'Accademia nazionale dei Lincei, in deroga alle disposizioni degli articoli 14, 15 e 16 dello statuto dell'Accademia, approvato con [R. decreto 15 gennaio 1920, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-01-15;95).
+In via eccezionale e transitoria sono consentite, per una sola volta e non oltre il termine di tre mesi dalla entrata in vigore del presente decreto legislativo, elezioni di soci nazionali per ciascuna delle categorie nelle quali sono ripartite le classi dell'Accademia nazionale dei Lincei, in deroga alle disposizioni degli articoli 14, 15 e 16 dello statuto dell'Accademia, approvato con [R. decreto 15 gennaio 1920, n. 95](../Regi%20decreti/Approvazione%20di%20statuto.%20020U0095.md).
 
 ## Art. 2.
 
@@ -51,7 +51,7 @@ Il numero dei soci nazionali da eleggere sara' tale che in ciascuna categoria ri
 Le proposte per la nomina dei soci nazionali, di cui ai due precedenti articoli, saranno fatte dai soci nazionali che, confermati dal Comitato previsto dall'[art. 3 del decreto legislativo 12 aprile 1945, n. 178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1945-04-12;178#art_3), facciano parte di ciascuna delle classi dell'Accademia nazionale dei Lincei.
  Le proposte saranno accompagnate da una relazione motivata.
  Ciascuna delle classi per la quale dovranno farsi le elezioni formulera', sulla base di dette proposte, delle terne che sottoporra' al voto delle classi riunite.
- Le nomine dei soci eletti saranno sottoposte alla sanzione prescritta dallo statuto accademico, approvato con [R. decreto 15 gennaio 1920, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-01-15;95).
+ Le nomine dei soci eletti saranno sottoposte alla sanzione prescritta dallo statuto accademico, approvato con [R. decreto 15 gennaio 1920, n. 95](../Regi%20decreti/Approvazione%20di%20statuto.%20020U0095.md).
 
 ## Art. 4.
 

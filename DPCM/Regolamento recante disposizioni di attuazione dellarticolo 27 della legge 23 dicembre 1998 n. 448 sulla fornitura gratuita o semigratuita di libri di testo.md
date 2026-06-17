@@ -16,7 +16,7 @@ Visto l'[articolo 27, comma 1, della legge 23 dicembre 1998, n. 448](https://www
 
 Visto il [decreto legislativo 31 marzo 1998, n. 109](../Decreti%20Legislativi/Definizioni%20di%20criteri%20unificati%20di%20valutazione%20della%20situazione%20economica%20dei%20soggetti%20che%20richiedono%20prestazioni%20sociali%20agevolate%20a%20norma%20dellarticolo%2059%20comma%2051%20della%20legge%2027%20dicemb_ae34e6f89116.md);
 
-Visto il [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md);
+Visto il [decreto legislativo 16 aprile 1994, n. 297](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md);
 
 Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 7 giugno 1999;
 
@@ -48,7 +48,7 @@ Le scuole comunicano al comune le richieste degli studenti in possesso dei requi
 
 5.
 
-Per la fornitura di libri agli alunni delle scuole elementari seguita ad applicarsi l'[articolo 156, comma 1, del decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md).
+Per la fornitura di libri agli alunni delle scuole elementari seguita ad applicarsi l'[articolo 156, comma 1, del decreto legislativo 16 aprile 1994, n. 297](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md).
 
 --------------
 

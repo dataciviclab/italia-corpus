@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265);
+Visto il [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md);
 
 Vista la [legge 13 dicembre 1956, n. 1420](../Atti%20normativi%20abrogati%20%28in%20originale%29/Titolo%20di%20studio%20obbligatorio%20per%20lammissione%20alle%20scuole-convitto%20professionali%20per%20infermiere%20istituite%20a%20norma%20del%20regio%20decreto-legge%2015%20agosto%201925%20n.%201832.md);
 

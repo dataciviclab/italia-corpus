@@ -20,7 +20,7 @@ Visto l'[articolo 14 della legge 23 agosto 1988, n. 400](https://www.normattiva.
 
 Vista la [legge 9 maggio 1989, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-09;168), recante: "Istituzione del Ministero dell'universita' e della ricerca scientifica e tecnologica", e in particolare l'articolo 6;
 
-Visto l'articolo 191 del testo unico delle leggi sull'istruzione superiore, di cui al [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Visto l'articolo 191 del testo unico delle leggi sull'istruzione superiore, di cui al [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Vista la [legge 12 marzo 1968, n. 442](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-12;442), recante: "Istituzione di una universita' statale in Calabria";
 
@@ -205,7 +205,7 @@ Avvertenza:
  9. Gli statuti e i regolamenti di ateneo sono deliberati dagli organi competenti dell'universita' a maggioranza assoluta dei componenti. Essi sono trasmessi al Ministro che, entro il termine perentorio di sessanta giorni, esercita il controllo di legittimita' e di merito nella forma della richiesta motivata di riesame. In assenza di rilievi essi sono emanati dal rettore. 
  10. Il Ministro puo' per una sola volta, con proprio decreto, rinviare gli statuti e i regolamenti all'universita', indicando le norme illegittime e quelle da riesaminare nel merito. Gli organi competenti dell'universita' possono non conformarsi ai rilievi di legittimita' con deliberazione adottata dalla maggioranza dei tre quinti dei suoi componenti, ovvero ai rilievi di merito con deliberazione adottata dalla maggioranza assoluta. In tal caso il Ministro puo' ricorrere contro l'atto emanato dal rettore, in sede di giurisdizione amministrativa per i soli vizi di legittimita'. Quando la maggioranza qualificata non sia stata raggiunta, le norme contestate non possono essere emanate. 
  11. Gli statuti delle universita' sono pubblicati nella Gazzetta Ufficiale, i regolamenti nel Bollettino Ufficiale del Ministero.". 
- - L'articolo 191 del testo unico delle leggi sull'istruzione superiore approvato con [R.D. 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592) e' il seguente: 
+ - L'articolo 191 del testo unico delle leggi sull'istruzione superiore approvato con [R.D. 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md) e' il seguente: 
  "Art. 191. Le Opere e le fondazioni, che hanno per fine l'incremento degli studi superiori e l'assistenza, nelle sue varie forme, agli studenti delle Universita' e degl'Istituti d'istruzione superiore, sono sottoposte alla vigilanza del Ministero dell'educazione nazionale.". 
  - La [legge 12 marzo 1968, n. 442](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-12;442) (Istituzione di una universita' statale in Calabria) e' stata pubblicata nella G.U. 22 aprile 1968, n. 103. 
  - La [legge 11 ottobre 1986, n. 697](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-11;697) (Disciplina del riconoscimento dei diplomi rilasciati dalle Scuole superiori per interpreti e traduttori) e' stata pubblicata nella G.U. 27 ottobre 1986, n. 250. 

@@ -14,7 +14,7 @@ DELL'UNIVERSITA' E DELLA RICERCA
 
 Visto l'[articolo 17, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) e [4, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4), recante «Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri»;
 
-Visto il [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), recante «Approvazione del testo unico delle leggi sull'istruzione superiore» ed in particolare gli articoli 172 e seguenti;
+Visto il [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), recante «Approvazione del testo unico delle leggi sull'istruzione superiore» ed in particolare gli articoli 172 e seguenti;
 
 Vista la [legge 8 dicembre 1956, n. 1378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-08;1378), recante «Esami di Stato di abilitazione all'esercizio delle professioni»;
 
@@ -84,7 +84,7 @@ N O T E
  I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei ministri prima della loro emanazione. 
  4. I regolamenti di cui al comma 1 ed i regolamenti ministeriali ed interministeriali, che devono recare la denominazione di "regolamento", sono adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale. 
  (Omissis).». 
- - Si riportano gli articoli 172 e seguenti della rubrica «Esami» del [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), recante «Approvazione del testo unico delle leggi sull'istruzione superiore», pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 7 dicembre 1933, n. 283: 
+ - Si riportano gli articoli 172 e seguenti della rubrica «Esami» del [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), recante «Approvazione del testo unico delle leggi sull'istruzione superiore», pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 7 dicembre 1933, n. 283: 
  «Art. 172. - Le lauree e i diplomi conferiti dalle Universita' e dagli Istituti superiori hanno esclusivamente valore di qualifiche accademiche. 
  L'abilitazione all'esercizio professionale e' conferita in seguito ad esami di Stato, cui sono ammessi soltanto coloro che: 
  a) abbiano conseguito presso Universita' o Istituti superiori la laurea o il diploma corrispondente; 

@@ -57,7 +57,7 @@ Il [D.Lgs. 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20a
 
 AGGIORNAMENTO (2)
 
-Il Decreto 2 maggio 2022, n. 88 ha disposto (con l'art. 27, comma 1) che "Fatto salvo quanto previsto dall'articolo 26, dalla data di entrata in vigore del presente decreto e' abrogato il [decreto del Ministro dello sviluppo economico 11 novembre 2011, n. 220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sviluppo.economico:decreto:2011-11-11;220), ad eccezione dell'articolo 2, comma 3, e dell'articolo 5 con riguardo ai soggetti che detengono in una impresa, direttamente o indirettamente, partecipazioni di cui all'articolo 68 del Codice".
+Il Decreto 2 maggio 2022, n. 88 ha disposto (con l'art. 27, comma 1) che "Fatto salvo quanto previsto dall'articolo 26, dalla data di entrata in vigore del presente decreto e' abrogato il [decreto del Ministro dello sviluppo economico 11 novembre 2011, n. 220](Regolamento%20recante%20determinazione%20dei%20requisiti%20di%20professionalita%20onorabilita%20e%20indipendenza%20degli%20esponenti%20aziendali%20nonche%20dei%20requisiti%20di%20onorabilita%20dei%20titolari%20di%20partecipazioni_6838841ea5e6.md), ad eccezione dell'articolo 2, comma 3, e dell'articolo 5 con riguardo ai soggetti che detengono in una impresa, direttamente o indirettamente, partecipazioni di cui all'articolo 68 del Codice".
 
 ## Art. 3.
 
@@ -102,7 +102,7 @@ Il [D.Lgs. 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20a
 
 AGGIORNAMENTO (2)
 
-Il Decreto 2 maggio 2022, n. 88 ha disposto (con l'art. 27, comma 1) che "Fatto salvo quanto previsto dall'articolo 26, dalla data di entrata in vigore del presente decreto e' abrogato il [decreto del Ministro dello sviluppo economico 11 novembre 2011, n. 220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sviluppo.economico:decreto:2011-11-11;220), ad eccezione dell'articolo 2, comma 3, e dell'articolo 5 con riguardo ai soggetti che detengono in una impresa, direttamente o indirettamente, partecipazioni di cui all'articolo 68 del Codice".
+Il Decreto 2 maggio 2022, n. 88 ha disposto (con l'art. 27, comma 1) che "Fatto salvo quanto previsto dall'articolo 26, dalla data di entrata in vigore del presente decreto e' abrogato il [decreto del Ministro dello sviluppo economico 11 novembre 2011, n. 220](Regolamento%20recante%20determinazione%20dei%20requisiti%20di%20professionalita%20onorabilita%20e%20indipendenza%20degli%20esponenti%20aziendali%20nonche%20dei%20requisiti%20di%20onorabilita%20dei%20titolari%20di%20partecipazioni_6838841ea5e6.md), ad eccezione dell'articolo 2, comma 3, e dell'articolo 5 con riguardo ai soggetti che detengono in una impresa, direttamente o indirettamente, partecipazioni di cui all'articolo 68 del Codice".
 
 ## Art. 6.
 

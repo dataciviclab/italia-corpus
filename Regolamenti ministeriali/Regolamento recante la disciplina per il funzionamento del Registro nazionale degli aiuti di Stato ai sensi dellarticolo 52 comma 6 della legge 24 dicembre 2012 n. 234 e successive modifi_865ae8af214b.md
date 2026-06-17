@@ -134,7 +134,7 @@ Ai fini del presente decreto, sono adottate le seguenti definizioni:
 
 AGGIORNAMENTO (2)
 
-Il Decreto 17 maggio 2024 (in G.U. 21/5/2024 n. 117) ha disposto (con l'art. 6, comma 1) che "In deroga all'[art. 1, comma 1, lettera q), del decreto del Ministro dello sviluppo economico del 31 maggio 2017, n. 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sviluppo.economico:decreto:2017-05-31;115#art_1-com1-letq), la registrazione del regime di aiuti nel Registro nazionale degli aiuti di Stato e' effettuata dal Dipartimento delle finanze del Ministero dell'economia e delle finanze."
+Il Decreto 17 maggio 2024 (in G.U. 21/5/2024 n. 117) ha disposto (con l'art. 6, comma 1) che "In deroga all'[art. 1, comma 1, lettera q), del decreto del Ministro dello sviluppo economico del 31 maggio 2017, n. 115](Regolamento%20recante%20la%20disciplina%20per%20il%20funzionamento%20del%20Registro%20nazionale%20degli%20aiuti%20di%20Stato%20ai%20sensi%20dellarticolo%2052%20comma%206%20della%20legge%2024%20dicembre%202012%20n.%20234%20e%20successive%20modifi_865ae8af214b.md), la registrazione del regime di aiuti nel Registro nazionale degli aiuti di Stato e' effettuata dal Dipartimento delle finanze del Ministero dell'economia e delle finanze."
 
 ### Art. 2.
 

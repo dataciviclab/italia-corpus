@@ -55,7 +55,7 @@ La direzione generale che attende alla gestione delle risorse umane verifica, in
 N O T E 
  
  Avvertenza: 
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  Note alle premesse: 
  - Si riporta il testo dell'[art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), pubblicata nella Gazzetta Ufficiale 12 settembre 1988, n. 214, S.O.: 
  «Art. 17 (Regolamenti). - 1. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, sentito il parere del Consiglio di Stato che deve pronunziarsi entro novanta giorni dalla richiesta, possono essere emanati regolamenti per disciplinare: 
@@ -169,10 +169,10 @@ Il programma informatico assicura la custodia degli originali informatici delle 
 
 2.
 
-A conclusione del procedimento di valutazione, una copia dichiarata conforme all'originale dal competente ufficio della direzione generale che attende alla gestione delle risorse umane e' inserita nel fascicolo personale del valutato, conformemente all'[articolo 55 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+A conclusione del procedimento di valutazione, una copia dichiarata conforme all'originale dal competente ufficio della direzione generale che attende alla gestione delle risorse umane e' inserita nel fascicolo personale del valutato, conformemente all'[articolo 55 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 Note all'art. 6: 
- - Si riporta il testo dell'[art. 55 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) (Testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato), pubblicato nella Gazzetta Ufficiale del 25 gennaio 1957, n. 22 (S.O. n. 220): 
+ - Si riporta il testo dell'[art. 55 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) (Testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato), pubblicato nella Gazzetta Ufficiale del 25 gennaio 1957, n. 22 (S.O. n. 220): 
  «Art. 55 (Fascicolo personale, stato matricolare e ruoli di anzianita'). - Per ogni impiegato sono tenuti, presso l'Ufficio del personale dell'amministrazione centrale, un fascicolo personale ed uno stato matricolare. 
  Il fascicolo personale deve contenere tutti i documenti che possono interessare la carriera. 
  Questi devono essere registrati, numerati e classificati senza discontinuita'. 
@@ -194,7 +194,7 @@ Le valutazioni dei segretari di legazione e dei consiglieri di legazione relativ
 
 Note all'[art. 7: 
  - Il decreto del Presidente del Consiglio dei ministri 20 luglio 2007, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2007-07-20;153#art_7), abrogato dal presente regolamento, recava: «Regolamento di riordino della disciplina delle modalita' di valutazione periodica dei funzionari diplomatici appartenenti ai gradi di segretario di legazione e di consigliere di legazione, ai sensi e per gli effetti di cui all'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3).». 
- - Per i riferimenti al [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) si veda nelle note all'art. 6.
+ - Per i riferimenti al [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) si veda nelle note all'art. 6.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

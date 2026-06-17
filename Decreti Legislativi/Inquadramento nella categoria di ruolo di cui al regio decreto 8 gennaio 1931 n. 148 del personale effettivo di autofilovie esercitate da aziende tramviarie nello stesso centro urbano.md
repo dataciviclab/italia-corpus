@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Il personale effettivo di servizi automobilistici e filoviari urbani, avente la qualifica di conducente, fattorino e controllore e dipendente da aziende esercenti anche servizi tranviari nello stesso centro urbano, e' inquadrato nella categoria del personale di ruolo di cui all'[art. 8 del regio decreto 8 gennaio 1931, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-01-08;148#art_8), dalla data di entrata in vigore del presente decreto.
+Il personale effettivo di servizi automobilistici e filoviari urbani, avente la qualifica di conducente, fattorino e controllore e dipendente da aziende esercenti anche servizi tranviari nello stesso centro urbano, e' inquadrato nella categoria del personale di ruolo di cui all'[art. 8 del regio decreto 8 gennaio 1931, n. 148](../Regi%20decreti/Coordinamento%20delle%20norme%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro%20con%20quelle%20sul%20trattamento%20giuridico-economico%20del%20personale%20delle%20ferrovie%20tranvie%20e%20linee%20di%20navi_3d5b7c8a1823.md), dalla data di entrata in vigore del presente decreto.
 
 ## Art. 2.
 

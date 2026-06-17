@@ -30,7 +30,7 @@ Piena ed intera esecuzione e' data agli atti internazionali di cui all'articolo 
 
 1.
 
-A decorrere dalla data di entrata in vigore della presente legge, la [legge 20 febbraio 1985, n. 41](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sullesplorazione%20e%20la%20coltivazione%20delle%20risorse%20minerali%20dei%20fondi%20marini.md), e' abrogata e cessa di avere efficacia il relativo regolamento di esecuzione approvato con [decreto del Presidente della Repubblica 11 marzo 1988, n. 200](../DPR/Approvazione%20del%20regolamento%20di%20esecuzione%20della%20legge%2020%20febbraio%201985%20n.%2041%20sulla%20esplorazione%20delle%20risorse%20minerali%20nei%20fondi%20marini.md).
+A decorrere dalla data di entrata in vigore della presente legge, la [legge 20 febbraio 1985, n. 41](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sullesplorazione%20e%20la%20coltivazione%20delle%20risorse%20minerali%20dei%20fondi%20marini.md), e' abrogata e cessa di avere efficacia il relativo regolamento di esecuzione approvato con [decreto del Presidente della Repubblica 11 marzo 1988, n. 200](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20esecuzione%20della%20legge%2020%20febbraio%201985%20n.%2041%20sulla%20esplorazione%20delle%20risorse%20minerali%20nei%20fondi%20marini.md).
 
 2.
 

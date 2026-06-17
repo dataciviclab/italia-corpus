@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Le tabelle organiche del personale dell'Ispettorato generale della motorizzazione civile e dei trasporti in concessione di cui al [regio decreto 5 maggio 1941, n. 370](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-05-05;370), sono sostituite dalle tabelle I, II, III e IV allegate al presente decreto, vistate dal Ministro proponente e da quello per il tesoro.
+Le tabelle organiche del personale dell'Ispettorato generale della motorizzazione civile e dei trasporti in concessione di cui al [regio decreto 5 maggio 1941, n. 370](../Regi%20decreti/Riordinamento%20dei%20servizi%20e%20dei%20ruoli%20del%20personale%20dellIspettorato%20generale%20della%20motorizzazione%20civile%20e%20del%20trasporti%20in%20concessione.%20041U0370.md), sono sostituite dalle tabelle I, II, III e IV allegate al presente decreto, vistate dal Ministro proponente e da quello per il tesoro.
 
 ## Art. 2.
 
@@ -60,7 +60,7 @@ Per i posti che, nella prima attuazione del presente decreto, dopo, peraltro, l'
 ## Art. 6.
 
 Nei primi due anni dalla data da cui ha effetto il presente decreto, l'anzianita' di grado richiesta per le promozioni da effettuarsi ai gradi superiori all'8° di gruppo A, 9° di gruppo B, e 10° di gruppo C e' ridotta di un anno e mezzo.
- I posti disponibili alla prima attuazione del presenti decreto nei gradi 5° dei ruoli di gruppo A, 9° del ruoli di gruppo B ed 11° del ruolo di gruppo C di cui alle tabelle annesse al presente decreto, saranno conferiti con i criteri indicati nell'[art. 8 del regio decreto 6 gennaio 1942, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-06;27#art_8), ed i periodi di anzianita' previsti dallo stesso articolo per le promozioni a detti gradi sono ridotti di un anno e mezzo.
+ I posti disponibili alla prima attuazione del presenti decreto nei gradi 5° dei ruoli di gruppo A, 9° del ruoli di gruppo B ed 11° del ruolo di gruppo C di cui alle tabelle annesse al presente decreto, saranno conferiti con i criteri indicati nell'[art. 8 del regio decreto 6 gennaio 1942, n. 27](../Regi%20decreti/Provvidenze%20a%20favore%20dei%20chiamati%20alle%20armi%20nelle%20assunzioni%20da%20parte%20delle%20Amministrazioni%20dello%20Stato%20e%20nelle%20promozioni%20del%20personale%20statale.%20042U0027.md), ed i periodi di anzianita' previsti dallo stesso articolo per le promozioni a detti gradi sono ridotti di un anno e mezzo.
  La riduzione di anzianita' di cui ai precedenti commi non si applica al personale che abbia gia' fruito di analogo beneficio in precedenti promozioni e di essa non si potra' fruire per conseguire piu' di una promozione.
 
 ## Art. 7.

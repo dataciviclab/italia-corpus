@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 30 dicembre 1937, n. 2584](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-12-30;2584);
+Visto il [R. decreto 30 dicembre 1937, n. 2584](../Regi%20decreti/Regolamento%20per%20il%20Corpo%20degli%20agenti%20di%20custodia%20degli%20istituti%20di%20prevenzione%20e%20di%20pena.%20037U2584.md);
 
 Visto il [decreto legislativo Luogotenenziale 24 aprile 1945, n. 205](Norme%20circa%20il%20divieto%20per%20il%20personale%20civile%20e%20militare%20dellAmministrazione%20della%20pubblica%20sicurezza%20di%20appartenere%20a%20partiti%20politici%20od%20associazioni%20sindacali%20anche%20se%20a%20carattere%20apo_0ddd2e80e9aa.md);
 
@@ -44,11 +44,11 @@ I componenti il Corpo degli agenti di custodia sono soggetti, per tutti i reati 
 
 Il ruolo organico e l'ordine gerarchico del Corpo sono determinati dalla tabella A annessa al presente decreto, vistata, d'ordine Nostro, dai Ministri per la grazia e giustizia e per il tesoro. 
  
- L'aumento stabilito dalla predetta tabella rispetto all'organico dei sottufficiali, delle guardie e degli allievi, di cui al [R. decreto 30 dicembre 1937, n. 2584](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-12-30;2584), ha vigore per la durata di anni cinque. 
+ L'aumento stabilito dalla predetta tabella rispetto all'organico dei sottufficiali, delle guardie e degli allievi, di cui al [R. decreto 30 dicembre 1937, n. 2584](../Regi%20decreti/Regolamento%20per%20il%20Corpo%20degli%20agenti%20di%20custodia%20degli%20istituti%20di%20prevenzione%20e%20di%20pena.%20037U2584.md), ha vigore per la durata di anni cinque. 
  
  A cominciare dal 6° anno, il quinto delle vacanze che si verificheranno nel ruolo in parola sara' destinato alla soppressione di un corrispondente numero di posti, iniziando dai gradi meno elevati fino al completo riassorbimento dell'aumento organico transitorio. 
  
- Entro i limiti dei posti di organico previsti dalla tabella A annessa al presente decreto, e' concessa sanatoria per gli arruolamenti effettuati eventualmente in eccedenza agli organici di cui al [R. decreto 30 dicembre 1937, n. 2584](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-12-30;2584). 
+ Entro i limiti dei posti di organico previsti dalla tabella A annessa al presente decreto, e' concessa sanatoria per gli arruolamenti effettuati eventualmente in eccedenza agli organici di cui al [R. decreto 30 dicembre 1937, n. 2584](../Regi%20decreti/Regolamento%20per%20il%20Corpo%20degli%20agenti%20di%20custodia%20degli%20istituti%20di%20prevenzione%20e%20di%20pena.%20037U2584.md). 
  
  Eguale sanatoria e' concessa per i richiamati in temporaneo servizio dalla posizione di quiescenza; costoro saranno licenziati man mano che sara' provveduto alla reintegrazione dell'organico mediante promozioni e nuovi arruolamenti. 
  (4)(5)(7)(8)((10))

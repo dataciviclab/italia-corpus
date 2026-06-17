@@ -745,10 +745,10 @@ Nella pubblicita', sotto qualsiasi forma, delle acque di sorgente poste in vendi
 
 1.
 
-Alle acque di sorgente si applicano le disposizioni in materia di ricerca e coltivazione previste, per le miniere, dal [regio decreto 29 luglio 1927, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1443), e successive modificazioni.
+Alle acque di sorgente si applicano le disposizioni in materia di ricerca e coltivazione previste, per le miniere, dal [regio decreto 29 luglio 1927, n. 1443](../Regi%20decreti/Norme%20di%20carattere%20legislativo%20per%20disciplinare%20la%20ricerca%20e%20la%20coltivazione%20delle%20miniere%20nel%20Regno.%20027U1443.md), e successive modificazioni.
 
 Note all'[art. 32: 
- - Il regio decreto 29 luglio 1927, n.1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1443#art_32) (Norme di carattere legislativo per disciplinare la ricerca e la coltivazione delle miniere nel Regno), e' pubblicato nella Gazzetta Ufficiale 23 agosto 1927, n. 194.
+ - Il regio decreto 29 luglio 1927, n.1443](../Regi%20decreti/Norme%20di%20carattere%20legislativo%20per%20disciplinare%20la%20ricerca%20e%20la%20coltivazione%20delle%20miniere%20nel%20Regno.%20027U1443.md) (Norme di carattere legislativo per disciplinare la ricerca e la coltivazione delle miniere nel Regno), e' pubblicato nella Gazzetta Ufficiale 23 agosto 1927, n. 194.
 
 ## SANZIONI E NORME TRANSITORIE
 
@@ -799,13 +799,13 @@ Fino all'adozione del decreto ministeriale previsto all'articolo 3, comma 1, res
 
 3.
 
-Alla data di entrata in vigore del decreto ministeriale previsto all'articolo 3, comma 1, sono abrogati il [decreto del Ministro della sanita' 12 novembre 1992, n. 542](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:1992-11-12;542).
+Alla data di entrata in vigore del decreto ministeriale previsto all'articolo 3, comma 1, sono abrogati il [decreto del Ministro della sanita' 12 novembre 1992, n. 542](../Regolamenti%20ministeriali/Regolamento%20recante%20i%20criteri%20di%20valutazione%20delle%20caratteristiche%20delle%20acque%20minerali%20naturali.md).
 
 Note all'[art. 34: 
  - Il decreto legislativo 25 gennaio 1992, n. 105](Attuazione%20della%20direttiva%20n.%2080-777-CEE%20relativa%20alla%20utilizzazione%20e%20alla%20commercializzazione%20delle%20acque%20minerali%20naturali.md) (Attuazione della [direttiva 80/777/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1980;777) relativa alla utilizzazione e alla commercializzazione delle acque minerali naturali), e' pubblicato nella Gazzetta Ufficiale 17 febbraio 1992, n. 39, S.O. 
  - Il [decreto legislativo 4 agosto 1999, n. 339](Disciplina%20delle%20acque%20di%20sorgente%20e%20modificazioni%20al%20decreto%20legislativo%2025%20gennaio%201992%20n.%20105%20concernente%20le%20acque%20minerali%20naturali%20in%20attuazione%20della%20direttiva%2096-70-CE.md) (Disciplina delle acque di sorgente e modificazioni al [D.
  Lgs. 25 gennaio 1992, n. 105](Attuazione%20della%20direttiva%20n.%2080-777-CEE%20relativa%20alla%20utilizzazione%20e%20alla%20commercializzazione%20delle%20acque%20minerali%20naturali.md), concernente le acque minerali naturali, in attuazione della [direttiva 96/70/CE)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;70), e' pubblicato nella Gazzetta Ufficiale 1° ottobre 1999, n. 231. 
- - Il [decreto del Ministero della Sanita' 12 novembre 1992, n. 542](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:1992-11-12;542) (Regolamento recante i criteri di valutazione delle caratteristiche delle acque minerali naturali), e' pubblicato nella Gazzetta Ufficiale 12 gennaio 1993, n. 8.
+ - Il [decreto del Ministero della Sanita' 12 novembre 1992, n. 542](../Regolamenti%20ministeriali/Regolamento%20recante%20i%20criteri%20di%20valutazione%20delle%20caratteristiche%20delle%20acque%20minerali%20naturali.md) (Regolamento recante i criteri di valutazione delle caratteristiche delle acque minerali naturali), e' pubblicato nella Gazzetta Ufficiale 12 gennaio 1993, n. 8.
 
 ### Art. 35. — Clausola di invarianza finanziaria
 

@@ -39,7 +39,7 @@ Il Ministro per l'interno puo' concedere alle Amministrazioni comunali e provinc
 
 ## Art. 4.
 
-Per le aperture di credito inerenti al pagamento degli anticipi consentiti dall'[art. 9 del decreto legislativo del Capo provvisorio dello Stato 5 agosto 1947, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-08-05;775#art_9), dall'[art. 18 del decreto legislativo, del Capo provvisorio dello Stato 13 agosto 1947, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-08-13;833#art_18), e dal presente decreto, e' autorizzata la deroga alle limitazioni previste dall'[art. 50 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_50).
+Per le aperture di credito inerenti al pagamento degli anticipi consentiti dall'[art. 9 del decreto legislativo del Capo provvisorio dello Stato 5 agosto 1947, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-08-05;775#art_9), dall'[art. 18 del decreto legislativo, del Capo provvisorio dello Stato 13 agosto 1947, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-08-13;833#art_18), e dal presente decreto, e' autorizzata la deroga alle limitazioni previste dall'[art. 50 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md).
 
 ## Art. 5.
 

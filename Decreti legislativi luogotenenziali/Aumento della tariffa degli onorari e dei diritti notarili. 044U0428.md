@@ -22,7 +22,7 @@ Vista le [legge 7 aprile 1921, n. 349](../Atti%20normativi%20abrogati%20%28in%20
 
 Visto il [R. decreto-legge 27 maggio 1923, n. 1324](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-05-27;1324), convertito in legge con [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
-Visto il [R. decreto 31 dicembre 1923, n. 3138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3138);
+Visto il [R. decreto 31 dicembre 1923, n. 3138](../Regi%20decreti/Nuovo%20ordinamento%20degli%20archivi%20notarili.%20023U3138.md);
 
 Visto il [R. decreto-legge 12 dicembre 1926, n. 2167](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20alla%20tariffa%20degli%20onorari%20e%20diritti%20accessori%20spettanti%20ai%20notari%20e%20agli%20archivi%20notarili.%20026U2167.md), convertito in legge con [legge 18 dicembre 1927, n. 2384](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2012%20dicembre%201926%20n.%202167%20contenente%20modificazioni%20alla%20tariffa%20degli%20onorari%20e%20diritti%20accessori%20spettanti%20ai%20notari%20e%20agli%20archivi%20notarili.%20027U2384.md);
 

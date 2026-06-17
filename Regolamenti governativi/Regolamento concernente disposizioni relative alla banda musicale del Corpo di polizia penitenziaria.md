@@ -30,7 +30,7 @@ Visto il [decreto legislativo 21 maggio 2000, n. 146](../Leggi%20delega%20e%20re
 
 Visto l'[articolo 6, comma 4, della legge 31 marzo 2000, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20riordino%20dellArma%20dei%20carabinieri%20del%20Corpo%20forestale%20dello%20Stato%20del%20Corpo%20della%20Guardia%20di%20finanza%20e%20della%20Polizia%20di%20Stato.%20Norme%20in%20materia%20di%20coordina_2b4843489113.md);
 
-Visto il [decreto del Ministro della giustizia 6 aprile 2001, n. 236](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.giustizia:decreto:2001-04-06;236), recante norme per l'accesso al ruolo direttivo, ordinario e speciale, del Corpo di polizia penitenziaria;
+Visto il [decreto del Ministro della giustizia 6 aprile 2001, n. 236](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20per%20laccesso%20al%20ruolo%20direttivo%20ordinario%20e%20speciale%20del%20Corpo%20di%20polizia%20penitenziaria.md), recante norme per l'accesso al ruolo direttivo, ordinario e speciale, del Corpo di polizia penitenziaria;
 
 Visto il decreto del Ministro della giustizia in data 22 gennaio 2002, pubblicato nella Gazzetta Ufficiale n. 69 del 22 marzo 2002;
 
@@ -264,14 +264,14 @@ La nomina ad orchestrale avviene mediante concorso pubblico al quale sono ammess
                             e)
                                 diploma nello strumento musicale per il quale concorrono o per strumento affine come da allegata tabella E, conseguito presso gli istituti superiori di studi musicali e coreutici;
                             f)
-                                eta' stabilita dall'[articolo 2, comma 1, del decreto del Ministro della giustizia 1° febbraio 2000, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.giustizia:decreto:2000-02-01;50#art_2-com1).
+                                eta' stabilita dall'[articolo 2, comma 1, del decreto del Ministro della giustizia 1° febbraio 2000, n. 50](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20per%20lindividuazione%20dei%20limiti%20di%20eta%20per%20la%20partecipazione%20ai%20concorsi%20pubblici%20di%20accesso%20ai%20ruoli%20del%20personale%20del%20Corpo%20di%20polizia%20penitenziaria.md).
 
 2.
 
 Al concorso non sono ammessi coloro che sono stati espulsi dalle forze armate, dai corpi militarmente organizzati o destituiti dai pubblici uffici, che abbiano riportato condanna a pena detentiva per reati non colposi o siano stati sottoposti a misura di prevenzione.
 
 Nota all'art. 7:
- - Il testo del [comma 1 dell'art. 2, del decreto del Ministro della giustizia 1° febbraio 2000, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.giustizia:decreto:2000-02-01;50#art_2-com1) (Regolamento recante norme per l'individuazione dei limiti di eta' per la partecipazione ai concorsi pubblici di accesso ai ruoli del personale del Corpo di polizia penitenziaria), e' il seguente:
+ - Il testo del [comma 1 dell'art. 2, del decreto del Ministro della giustizia 1° febbraio 2000, n. 50](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20per%20lindividuazione%20dei%20limiti%20di%20eta%20per%20la%20partecipazione%20ai%20concorsi%20pubblici%20di%20accesso%20ai%20ruoli%20del%20personale%20del%20Corpo%20di%20polizia%20penitenziaria.md) (Regolamento recante norme per l'individuazione dei limiti di eta' per la partecipazione ai concorsi pubblici di accesso ai ruoli del personale del Corpo di polizia penitenziaria), e' il seguente:
  «1. La partecipazione al concorso pubblico per la nomina ad allievo vice ispettore del Corpo di polizia penitenziaria e' soggetta al limite massimo di eta' di anni trentadue».
 
 ### Art. 8. — Corsi di istruzione e formazione tecnico professionale

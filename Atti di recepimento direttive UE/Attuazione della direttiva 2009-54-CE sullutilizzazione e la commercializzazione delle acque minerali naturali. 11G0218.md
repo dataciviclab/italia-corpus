@@ -39,7 +39,7 @@ Capo I
 Le disposizioni del presente decreto non si applicano alle acque minerali naturali ed alle acque di sorgente destinate alle esportazioni in Paesi terzi.
 
 Avvertenza: 
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia ai sensi dell'articolo 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia ai sensi dell'articolo 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE). 
  Note alle premesse: 
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) stabilisce che l'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti. 
@@ -745,10 +745,10 @@ Nella pubblicita', sotto qualsiasi forma, delle acque di sorgente poste in vendi
 
 1.
 
-Alle acque di sorgente si applicano le disposizioni in materia di ricerca e coltivazione previste, per le miniere, dal [regio decreto 29 luglio 1927, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1443), e successive modificazioni.
+Alle acque di sorgente si applicano le disposizioni in materia di ricerca e coltivazione previste, per le miniere, dal [regio decreto 29 luglio 1927, n. 1443](../Regi%20decreti/Norme%20di%20carattere%20legislativo%20per%20disciplinare%20la%20ricerca%20e%20la%20coltivazione%20delle%20miniere%20nel%20Regno.%20027U1443.md), e successive modificazioni.
 
 Note all'[art. 32: 
- - Il regio decreto 29 luglio 1927, n.1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1443#art_32) (Norme di carattere legislativo per disciplinare la ricerca e la coltivazione delle miniere nel Regno), e' pubblicato nella Gazzetta Ufficiale 23 agosto 1927, n. 194.
+ - Il regio decreto 29 luglio 1927, n.1443](../Regi%20decreti/Norme%20di%20carattere%20legislativo%20per%20disciplinare%20la%20ricerca%20e%20la%20coltivazione%20delle%20miniere%20nel%20Regno.%20027U1443.md) (Norme di carattere legislativo per disciplinare la ricerca e la coltivazione delle miniere nel Regno), e' pubblicato nella Gazzetta Ufficiale 23 agosto 1927, n. 194.
 
 ## SANZIONI E NORME TRANSITORIE
 
@@ -799,13 +799,13 @@ Fino all'adozione del decreto ministeriale previsto all'articolo 3, comma 1, res
 
 3.
 
-Alla data di entrata in vigore del decreto ministeriale previsto all'articolo 3, comma 1, sono abrogati il [decreto del Ministro della sanita' 12 novembre 1992, n. 542](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:1992-11-12;542).
+Alla data di entrata in vigore del decreto ministeriale previsto all'articolo 3, comma 1, sono abrogati il [decreto del Ministro della sanita' 12 novembre 1992, n. 542](../Regolamenti%20ministeriali/Regolamento%20recante%20i%20criteri%20di%20valutazione%20delle%20caratteristiche%20delle%20acque%20minerali%20naturali.md).
 
 Note all'[art. 34: 
  - Il decreto legislativo 25 gennaio 1992, n. 105](Attuazione%20della%20direttiva%20n.%2080-777-CEE%20relativa%20alla%20utilizzazione%20e%20alla%20commercializzazione%20delle%20acque%20minerali%20naturali.md) (Attuazione della [direttiva 80/777/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1980;777) relativa alla utilizzazione e alla commercializzazione delle acque minerali naturali), e' pubblicato nella Gazzetta Ufficiale 17 febbraio 1992, n. 39, S.O. 
  - Il [decreto legislativo 4 agosto 1999, n. 339](Disciplina%20delle%20acque%20di%20sorgente%20e%20modificazioni%20al%20decreto%20legislativo%2025%20gennaio%201992%20n.%20105%20concernente%20le%20acque%20minerali%20naturali%20in%20attuazione%20della%20direttiva%2096-70-CE.md) (Disciplina delle acque di sorgente e modificazioni al [D.
  Lgs. 25 gennaio 1992, n. 105](Attuazione%20della%20direttiva%20n.%2080-777-CEE%20relativa%20alla%20utilizzazione%20e%20alla%20commercializzazione%20delle%20acque%20minerali%20naturali.md), concernente le acque minerali naturali, in attuazione della [direttiva 96/70/CE)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;70), e' pubblicato nella Gazzetta Ufficiale 1° ottobre 1999, n. 231. 
- - Il [decreto del Ministero della Sanita' 12 novembre 1992, n. 542](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:1992-11-12;542) (Regolamento recante i criteri di valutazione delle caratteristiche delle acque minerali naturali), e' pubblicato nella Gazzetta Ufficiale 12 gennaio 1993, n. 8.
+ - Il [decreto del Ministero della Sanita' 12 novembre 1992, n. 542](../Regolamenti%20ministeriali/Regolamento%20recante%20i%20criteri%20di%20valutazione%20delle%20caratteristiche%20delle%20acque%20minerali%20naturali.md) (Regolamento recante i criteri di valutazione delle caratteristiche delle acque minerali naturali), e' pubblicato nella Gazzetta Ufficiale 12 gennaio 1993, n. 8.
 
 ### Art. 35. — Clausola di invarianza finanziaria
 

@@ -20,11 +20,11 @@ Vista la [direttiva (UE) 2016/801 del Parlamento europeo e del Consiglio, dell'1
 
 Vista la [legge 25 ottobre 2017, n. 163](../Leggi%20di%20delegazione%20europea/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202016-2017.%2017G00177.md), recante delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2016-2017, e in particolare l'articolo 1 e l'allegato A;
 
-Visto il testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, di cui al [decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), e successive modificazioni;
+Visto il testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, di cui al [decreto legislativo 25 luglio 1998, n. 286](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), e successive modificazioni;
 
 Visto l'[articolo 1-bis del decreto-legge 9 maggio 2003, n. 105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-05-09;105#art_1bis), convertito in legge, con modificazioni, dall'[articolo 1 della legge 11 luglio 2003, n. 170](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20maggio%202003%20n.%20105%20recante%20disposizioni%20urgenti%20per%20le%20universita%20e%20gli%20enti%20di%20ricerca.md), recante disposizioni urgenti per le universita' e gli enti di ricerca, nonche' in materia di abilitazione all'esercizio di attivita' professionali;
 
-Visto il [decreto del Presidente della Repubblica 31 agosto 1999, n. 394](../DPR/Regolamento%20recante%20norme%20di%20attuazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero%20a%20norma%20dellarticolo%201%20comma_d0732f58b7ad.md), recante norme di attuazione del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero a norma dell'[articolo 1, comma 6, del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md);
+Visto il [decreto del Presidente della Repubblica 31 agosto 1999, n. 394](../Regolamenti%20governativi/Regolamento%20recante%20norme%20di%20attuazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero%20a%20norma%20dellarticolo%201%20comma_d0732f58b7ad.md), recante norme di attuazione del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero a norma dell'[articolo 1, comma 6, del decreto legislativo 25 luglio 1998, n. 286](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md);
 
 Vista la preliminare deliberazione del Consiglio dei ministri, adottata nella riunione dell'8 febbraio 2018;
 
@@ -38,7 +38,7 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dell'ist
 
 1.
 
-All'[articolo 5 del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), e successive modificazioni, sono apportate le seguenti modifiche:
+All'[articolo 5 del decreto legislativo 25 luglio 1998, n. 286](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), e successive modificazioni, sono apportate le seguenti modifiche:
                         a)
                             al comma 3, lettera c): 
  1) dopo le parole: «istituzioni scolastiche,» sono inserite le seguenti: «istituti tecnici superiori, istituzioni»; 
@@ -46,11 +46,11 @@ All'[articolo 5 del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Leg
 
 2.
 
-All'[articolo 22 del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), il comma 11-bis e' abrogato;
+All'[articolo 22 del decreto legislativo 25 luglio 1998, n. 286](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), il comma 11-bis e' abrogato;
 
 3.
 
-All'[articolo 27-bis del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), e successive modificazioni, sono apportate le seguenti modifiche:
+All'[articolo 27-bis del decreto legislativo 25 luglio 1998, n. 286](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), e successive modificazioni, sono apportate le seguenti modifiche:
                         a)
                             i commi 1 e 2 sono sostituiti dai seguenti: 
  «1. Con decreto del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro dell'interno e degli affari esteri e della cooperazione internazionale, da emanarsi entro il 30 giugno di ogni anno, sentito il Consiglio nazionale del terzo settore, di cui all'[articolo 59 del decreto legislativo 3 luglio 2017, n. 117](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), e' determinato il contingente annuale degli stranieri ammessi a partecipare a programmi di attivita' di volontariato di interesse generale e di utilita' sociale ai sensi del presente testo unico. 
@@ -82,7 +82,7 @@ All'[articolo 27-bis del decreto legislativo 25 luglio 1998, n. 286](../Decreti%
 
 4.
 
-All'[articolo 27-ter del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), e successive modificazioni, sono apportate le seguenti modifiche:
+All'[articolo 27-ter del decreto legislativo 25 luglio 1998, n. 286](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), e successive modificazioni, sono apportate le seguenti modifiche:
                         a)
                             la rubrica e' sostituita dalla seguente: «Ingresso e soggiorno per ricerca» e, al comma 1, dopo le parole: «in possesso di un titolo» sono inserite le seguenti: «di dottorato o di un titolo»;
                         b)
@@ -175,7 +175,7 @@ Il nulla osta e il codice fiscale del ricercatore sono trasmessi in via telemati
 
 5.
 
-All'[articolo 39 del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), e successive modificazioni, sono apportate le seguenti modificazioni:
+All'[articolo 39 del decreto legislativo 25 luglio 1998, n. 286](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), e successive modificazioni, sono apportate le seguenti modificazioni:
                         a)
                             la rubrica e' sostituita dalla seguente: «Accesso ai percorsi di istruzione tecnico superiore e ai percorsi di formazione superiore»;
                         b)
@@ -216,7 +216,7 @@ All'[articolo 39 del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Le
 
 6.
 
-All'[articolo 39-bis del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), e successive modificazioni, sono apportate le seguenti modificazioni:
+All'[articolo 39-bis del decreto legislativo 25 luglio 1998, n. 286](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), e successive modificazioni, sono apportate le seguenti modificazioni:
                         a)
                             alla rubrica, dopo la parola: «tirocinio», e' eliminata la seguente parola: «professionale»;
                         b)
@@ -239,7 +239,7 @@ Per gli stranieri di cui al comma 1, lettere a) e b), ad eccezione degli stranie
 
 7.
 
-Dopo l'[articolo 39-bis del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), e successive modificazioni, e' inserito il seguente: 
+Dopo l'[articolo 39-bis del decreto legislativo 25 luglio 1998, n. 286](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), e successive modificazioni, e' inserito il seguente: 
  «Art. 39-bis.1 (Permesso di soggiorno per ricerca lavoro o imprenditorialita' degli studenti). - 1. In presenza dei requisiti reddituali di cui all'articolo 29, comma 3, lettera b), e fermo restando il rispetto dell'obbligo di cui all'articolo 34, comma 3, lo straniero munito di passaporto valido o altro documento equipollente, che ha conseguito in Italia il dottorato o il master universitario ovvero la laurea triennale o la laurea specialistica, o il diploma accademico di primo livello o di secondo livello o il diploma di tecnico superiore, alla scadenza del permesso di soggiorno di cui agli articoli 39 e 39-bis, comma 1, lettera a), puo' dichiarare la propria immediata disponibilita' allo svolgimento di attivita' lavorativa e alla partecipazione alle misure di politica attiva del lavoro presso i servizi per l'impiego, come previsto dall'[articolo 19 del decreto legislativo 14 settembre 2015, n. 150](../Decreti%20Legislativi/Disposizioni%20per%20il%20riordino%20della%20normativa%20in%20materia%20di%20servizi%20per%20il%20lavoro%20e%20di%20politiche%20attive%20ai%20sensi%20dellarticolo%201%20comma%203%20della%20legge%2010%20dicembre%202014%20n.%20183.%2015G00162.md), e richiedere un permesso di soggiorno di durata non inferiore a nove e non superiore a dodici mesi al fine di cercare un'occupazione o avviare un'impresa coerente con il percorso formativo completato. In presenza dei requisiti previsti dal presente testo unico, puo' essere richiesta la conversione in permesso di soggiorno per lavoro. 
  2. Ai fini del rilascio del permesso di soggiorno di cui al comma 1, lo straniero oltre alla documentazione relativa al possesso dei requisiti reddituali e al rispetto dell'obbligo di cui all'articolo 34, comma 3, allega la documentazione relativa al conseguimento di uno dei titoli di cui al comma 1. Ove la documentazione relativa al conseguimento di uno dei titoli di cui al comma 1, non sia gia' disponibile, puo' essere presentata entro sessanta giorni dalla richiesta del permesso di soggiorno di cui al comma 1. 
  3. Il permesso di soggiorno di cui al comma 1 non e' rilasciato, o se gia' rilasciato, e' revocato: 

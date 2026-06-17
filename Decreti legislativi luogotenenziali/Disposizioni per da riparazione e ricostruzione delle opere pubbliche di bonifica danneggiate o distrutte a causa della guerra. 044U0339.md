@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215);
+Visto il [R. decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -52,7 +52,7 @@ La spesa per i lavori di ripristino di cui all'art. 1 e' anticipata per intero d
 
 ## Art. 4.
 
-L'Art. 83 delle norme per la bonifica integrale approvate col [R. decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), e' applicabile anche quando il Ministro per l'agricoltura e le foreste, in attesa del provvedimento di concessione, autorizzi nei casi di urgenza l'inizio dei lavori.((3))
+L'Art. 83 delle norme per la bonifica integrale approvate col [R. decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), e' applicabile anche quando il Ministro per l'agricoltura e le foreste, in attesa del provvedimento di concessione, autorizzi nei casi di urgenza l'inizio dei lavori.((3))
 
 ----------
 

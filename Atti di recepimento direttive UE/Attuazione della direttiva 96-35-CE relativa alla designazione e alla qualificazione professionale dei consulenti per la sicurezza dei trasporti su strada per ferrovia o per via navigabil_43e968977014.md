@@ -162,7 +162,7 @@ Il certificato di cui al comma 3 e' valido per un periodo di cinque anni ed e' r
 
 5.
 
-Il Ministro dei trasporti e della navigazione, con decreto, da adottarsi in sede di prima attuazione entro sessanta giorni dalla data di entrata in vigore del presente decreto, individua il numero e la composizione delle commissioni di esame, nonche' i requisiti e le modalita' di nomina dei relativi componenti. Limitatamente alle modalita' di svolgimento dell'esame di cui al comma 1 si applicano, ove compatibili, le disposizioni del [decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), e successive modificazioni.
+Il Ministro dei trasporti e della navigazione, con decreto, da adottarsi in sede di prima attuazione entro sessanta giorni dalla data di entrata in vigore del presente decreto, individua il numero e la composizione delle commissioni di esame, nonche' i requisiti e le modalita' di nomina dei relativi componenti. Limitatamente alle modalita' di svolgimento dell'esame di cui al comma 1 si applicano, ove compatibili, le disposizioni del [decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../Regolamenti%20governativi/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), e successive modificazioni.
 
 6.
 

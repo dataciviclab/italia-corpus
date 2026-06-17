@@ -30,7 +30,7 @@ Piena ed intera esecuzione e' data alla convenzione di cui all'articolo 1 a deco
 
 1.
 
-I libretti di stato civile previsti dalla convenzione di cui all'articolo 1 hanno la stessa validita' temporale riconosciuta ai certificati anagrafici dall'[articolo 33, comma 3, del decreto del Presidente della Repubblica 30 maggio 1989, n. 223](../DPR/Approvazione%20del%20nuovo%20regolamento%20anagrafico%20della%20popolazione%20residente.md).
+I libretti di stato civile previsti dalla convenzione di cui all'articolo 1 hanno la stessa validita' temporale riconosciuta ai certificati anagrafici dall'[articolo 33, comma 3, del decreto del Presidente della Repubblica 30 maggio 1989, n. 223](../Regolamenti%20governativi/Approvazione%20del%20nuovo%20regolamento%20anagrafico%20della%20popolazione%20residente.md).
 
 ## Art. 4.
 

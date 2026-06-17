@@ -61,7 +61,7 @@ La Corte Costituzionale con sentenza 13 - 19 dicembre 1966, n. 121 (in G.U. 1a s
 
 ## Art. 3.
 
-Sono attribuiti alla competenza della Sezione giurisdizionale, osservate, in quanto applicabili, le norme del testo unico delle leggi sulla Corte dei conti, approvato con [regio decreto 12 luglio 1934, n. 1214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-12;1214):
+Sono attribuiti alla competenza della Sezione giurisdizionale, osservate, in quanto applicabili, le norme del testo unico delle leggi sulla Corte dei conti, approvato con [regio decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md):
  1) i giudizi sui conti dei tesorieri e degli altri agenti contabili della Regione;
  2) i giudizi di responsabilita' a carico degli amministratori, funzionari ed agenti della Regione, e gli altri giudizi in materia contabile interessanti la Regione stessa;
  3) i giudizi sui ricorsi e sulle istanze di cui all'art. 62 del testo unico delle leggi sulla Corte dei conti, concernenti il trattamento di quiescenza degli impiegati della Regione, qualora la Regione stessa stabilisca per i propri dipendenti un trattamento di quiescenza nella forma di pensione; (3)

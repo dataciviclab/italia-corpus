@@ -68,7 +68,7 @@ All'[articolo 119, primo comma, del codice della navigazione](../Codici/Approvaz
 
 2.
 
-Nell'allegato al regolamento di cui al [decreto del Presidente della Repubblica 18 aprile 2006, n. 231](../DPR/Regolamento%20recante%20disciplina%20del%20collocamento%20della%20gente%20di%20mare%20a%20norma%20dellarticolo%202%20comma%204%20del%20decreto%20legislativo%2019%20dicembre%202002%20n.%20297.md), le parole: «15 anni», ovunque ricorrano, sono sostituite dalle seguenti: «16 anni».
+Nell'allegato al regolamento di cui al [decreto del Presidente della Repubblica 18 aprile 2006, n. 231](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20del%20collocamento%20della%20gente%20di%20mare%20a%20norma%20dellarticolo%202%20comma%204%20del%20decreto%20legislativo%2019%20dicembre%202002%20n.%20297.md), le parole: «15 anni», ovunque ricorrano, sono sostituite dalle seguenti: «16 anni».
 
 ### Art. 5. — Modifiche in materia di certificazione medica 
  dei marittimi ed assistenza sanitaria a bordo
@@ -81,7 +81,7 @@ All'[articolo 4 della legge 28 ottobre 1962, n. 1602](https://www.normattiva.it/
 
 2.
 
-Le navi passeggeri che effettuano navigazione internazionale breve e lunga, come definite dall'articolo 1 del regolamento di cui al [decreto del Presidente della Repubblica 8 novembre 1991, n. 435](../DPR/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20della%20navigazione%20e%20della%20vita%20umana%20in%20mare_2.md), e che trasportano piu' di 100 persone, devono avere a bordo un medico qualificato responsabile dell'assistenza sanitaria.
+Le navi passeggeri che effettuano navigazione internazionale breve e lunga, come definite dall'articolo 1 del regolamento di cui al [decreto del Presidente della Repubblica 8 novembre 1991, n. 435](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20della%20navigazione%20e%20della%20vita%20umana%20in%20mare_2.md), e che trasportano piu' di 100 persone, devono avere a bordo un medico qualificato responsabile dell'assistenza sanitaria.
 
 ### Art. 6. — Abrogazione dell'articolo 36 
  della legge 16 giugno 1939, n. 1045

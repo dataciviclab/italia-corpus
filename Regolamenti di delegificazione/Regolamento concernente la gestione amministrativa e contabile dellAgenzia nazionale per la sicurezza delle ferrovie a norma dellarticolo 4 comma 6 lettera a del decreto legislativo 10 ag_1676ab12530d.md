@@ -717,7 +717,7 @@ Le dichiarazioni di accreditamento o di commutazione, che costituiscono la quiet
 
 1.
 
-L'Agenzia, ai sensi dell'[articolo 1, comma 53, della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md), puo' avvalersi, in quanto applicabili, delle procedure di pagamento previste dal regolamento di cui al [decreto del Ministro del tesoro 9 dicembre 1996, n. 701](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.tesoro:decreto:1996-12-09;701).
+L'Agenzia, ai sensi dell'[articolo 1, comma 53, della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md), puo' avvalersi, in quanto applicabili, delle procedure di pagamento previste dal regolamento di cui al [decreto del Ministro del tesoro 9 dicembre 1996, n. 701](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20per%20la%20graduale%20introduzione%20della%20carta%20di%20credito%20quale%20sistema%20di%20pagamento%20nellambito%20delle%20amministrazioni%20pubbliche%20in%20attuazione%20dellart.%201%20commi%2047%2048%2049_9d363d45a9cf.md).
 
 Nota all'art. 24:
  - Si riporta il testo dell'[articolo 1, comma 53, della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md) (Misure di razionalizzazione della finanza pubblica):

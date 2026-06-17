@@ -31,7 +31,7 @@ L'Amministrazione autonoma dei Monopoli di Stato e' autorizzata ad accertare e r
 ## Art. 3.
 
 L'Amministrazione del Fondo di massa del Corpo della Guardia di finanza e' autorizzata ad accertare e riscuotere le entrate ed a far pagare le spese riguardanti l'esercizio finanziario dal 1 luglio 1947 al 30 giugno 1948, in conformita' del bilancio di previsione annesso al presente decreto. (Appendice n. 2).
- Per gli effetti di cui all'[art. 40 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_40), sulla contabilita' generale dello Stato, sono considerate spese obbligatorie e d'ordine dell'Amministrazione del Fondo di massa del Corpo della Guardia di finanza, quelle descritte nell'elenco annesso al detto bilancio.
+ Per gli effetti di cui all'[art. 40 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sulla contabilita' generale dello Stato, sono considerate spese obbligatorie e d'ordine dell'Amministrazione del Fondo di massa del Corpo della Guardia di finanza, quelle descritte nell'elenco annesso al detto bilancio.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

@@ -142,7 +142,7 @@ Note alle premesse:
  regolamento (CE) n. 737/94 della Commissione, del 30 marzo 1994;
  decreto del Ministro per il commercio con l'estero 30 ottobre 1990, pubblicato nel supplemento ordinario n. 68 alla Gazzetta Ufficiale n. 258 del 5 novembre 1990.
  112-quinquies. Procedimento di rilascio del certificato di agibilita':
- [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), approvato con [regio decreto 27 luglio 1934, n. 1265, art. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_221);
+ [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265, art. 221](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md);
  [legge 5 novembre 1971, n. 1086](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-11-05;1086);
  [legge 28 febbraio 1985, n. 47, art. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-28;47#art_52);
  [legge 9 gennaio 1989, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-01-09;13).
@@ -157,7 +157,7 @@ Note alle premesse:
  112-nonies. Procedimenti per il rilascio delle autorizzazioni in materia di temporanee importazioni ed esportazioni:
  testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43, articoli da 175](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md) [a 221](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md).
  112-decies. Procedimento per la riscossione delle entrate patrimoniali dello Stato:
- testo unico approvato con [regio decreto 14 aprile 1910, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-14;639).
+ testo unico approvato con [regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
  112-undecies. Procedimenti relativi a sorvoli, rilevamenti e riprese aeree e satellitari sul territorio nazionale e sulla acque territoriali:
  [regio decreto 11 luglio 1941, n. 1161](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20relative%20al%20segreto%20militare.%20041U1161.md);
  [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 20 marzo 1942, n. 327, articoli 793](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-20;327#art_793), [825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-20;327#art_825) e [1200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-20;327#art_1200);

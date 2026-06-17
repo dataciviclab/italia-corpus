@@ -20,7 +20,7 @@ Visto l'[articolo 1 della legge 24 aprile 2020, n. 27](../DL%20e%20leggi%20di%20
 
 Visto il [decreto del Presidente della Repubblica 31 agosto 1972, n. 670](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20costituzionali%20concernenti%20lo%20statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md), e, in particolare, l'articolo 9;
 
-Visto il [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), e, in particolare, l'articolo 80;
+Visto il [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e, in particolare, l'articolo 80;
 
 Visto il [regio decreto-legge 2 febbraio 1939, n. 302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-02-02;302);
 
@@ -104,7 +104,7 @@ N O T E
  9) utilizzazione delle acque pubbliche, escluse le grandi derivazioni a scopo idroelettrico; 
  10) igiene e sanita', ivi compresa l'assistenza sanitaria ospedaliera; 
  11) attivita' sportive e ricreative con i relativi impianti ed attrezzature.». 
- - Si riporta il testo dell'[art. 80 del Regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_80), pubblicato nella Gazzetta Ufficiale 26 giugno 1931, n. 146 - S.O. 146, recante «Approvazione del [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773)»: 
+ - Si riporta il testo dell'[art. 80 del Regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), pubblicato nella Gazzetta Ufficiale 26 giugno 1931, n. 146 - S.O. 146, recante «Approvazione del [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md)»: 
  «Art. 80 (Art. 78 T. U. 1926) - L'autorita' di pubblica sicurezza non puo' concedere la licenza per l'apertura di un teatro o di un luogo di pubblico spettacolo, prima di aver fatto verificare da una commissione tecnica la solidita' e la sicurezza dell'edificio e l'esistenza di uscite pienamente adatte a sgombrarlo prontamente nel caso di incendio. 
  Le spese dell'ispezione e quelle per i servizi di prevenzione contro gli incendi sono a carico di chi domanda la licenza.». 
  - Il [Regio decreto-legge 2 febbraio 1939, n. 302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-02-02;302), pubblicato nella Gazzetta Ufficiale 5 giugno 1939, n. 131, reca «Modificazioni alla legge 21 giugno 1928-VI, n. 1580, che disciplina la costruzione dei campi sportivi». 
@@ -348,7 +348,7 @@ Il regolamento unico:
                             h)
                                 indica i criteri per l'elaborazione di prezziari digitali interoperabili a mezzo di formati aperti con modelli informativi per la progettazione, la realizzazione, la riqualificazione e la gestione degli stessi;
                             i)
-                                disciplina, nel rispetto di quanto previsto dall'[articolo 80 del Testo Unico delle leggi di Pubblica Sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_80) approvato con [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), il procedimento per la verifica di conformita' dell'impianto e per il rilascio del certificato di idoneita' statica. 
+                                disciplina, nel rispetto di quanto previsto dall'[articolo 80 del Testo Unico delle leggi di Pubblica Sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), il procedimento per la verifica di conformita' dell'impianto e per il rilascio del certificato di idoneita' statica. 
  2. Con decreto del Ministro dell'interno, da adottarsi ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), si provvede al riordino e all'aggiornamento delle norme in materia di ordine e sicurezza pubblica nonche' di prevenzione incendi e sicurezza antincendio.
 
 ## Norme tecniche di funzionalità sportiva

@@ -16,7 +16,7 @@ Visto l'[art. 3 della legge 15 febbraio 1973, n. 25](../Leggi%20delega%20e%20rel
 
 Vista la direttiva del Consiglio dei Ministri delle Comunita' europee n. 76/308/CEE in data 15 marzo 1976, relativa all'assistenza reciproca in materia di ricupero dei crediti risultanti da operazioni che fanno parte del sistema di finanziamento del Fondo europeo agricolo di orientamento di garanzia, nonche' dei prelievi agricoli e dei dazi doganali;
 
-Visto il testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md);
+Visto il testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md);
 
 Ritenuta la necessita' di inserire nel testo unico anzidetto le disposizioni necessarie per dare attuazione alla citata [direttiva n. 76/308/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1976;308);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per le finanze; Decreta:
 
 ## Art. 1.
 
-Nel titolo VIII del testo unico delle disposizioni legislative in materia doganale approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), e' inserito, dopo il capo I, il capo I-bis, intitolato: "Mutua assistenza fra gli Stati membri delle Comunita' europee in materia di ricupero di crediti" e comprendente i seguenti articoli 346-bis, 346-ter, 346-quater e 346-quinquies: 
+Nel titolo VIII del testo unico delle disposizioni legislative in materia doganale approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), e' inserito, dopo il capo I, il capo I-bis, intitolato: "Mutua assistenza fra gli Stati membri delle Comunita' europee in materia di ricupero di crediti" e comprendente i seguenti articoli 346-bis, 346-ter, 346-quater e 346-quinquies: 
  "Art. 346-bis - (Assistenza agli altri Stati membri delle Comunita' europee per il ricupero di crediti sorti negli Stati medesimi). - A richiesta degli organi competenti degli altri Stati membri delle Comunita' europee l'amministrazione doganale provvede, relativamente ai crediti di cui all'art. 346-quater sorti negli Stati medesimi: 
  1) a fornire informazioni sul conto di persone fisiche o giuridiche, avvalendosi per l'assunzione di tali informazioni dei poteri conferiti all'amministrazione doganale medesima dalle vigenti disposizioni nazionali ai fini del ricupero dei crediti di analoga natura sorti nel territorio della Repubblica; le informazioni possono non essere fornite quando rivelerebbero un segreto commerciale, industriale o professionale ovvero quando la loro divulgazione potrebbe pregiudicare la sicurezza o l'ordine pubblico; 
  2) a curare che si proceda, con l'osservanza delle vigenti disposizioni nazionali, alla notifica nei confronti di persone fisiche o giuridiche di atti, sentenze e decisioni emanati negli Stati membri richiedenti; 

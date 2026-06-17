@@ -57,7 +57,7 @@ Sono fatte salve le disposizioni di cui:
                             al regolamento (CEE) n. 2455/92 del Consiglio del 23 luglio 1992, relativo alle esportazioni e alle importazioni comunitarie di taluni prodotti chimici pericolosi.
 
 AVVERTENZA: 
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10 comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10 comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  
  Note alle premesse: 
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) regola la delega al Governo dell'esercizio della funzione legislativa e stabilisce che essa non puo' avvenire se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti. 
@@ -82,7 +82,7 @@ AVVERTENZA:
  a) stabilire idonee garanzie a tutela della salute umana; 
  b) prevedere appositi piani nazionali per la valutazione e il controllo di eventuali effetti di natura sanitaria o ambientale derivanti dall'impiego dei fitofarmaci; 
  c) istituire la fitofarmacopea ufficiale; 
- d) prevedere la riorganizzazione della Commissione consultiva di cui all'[art. 4 del decreto del Presidente della Repubblica 3 agosto 1968, n. 1255](../DPR/Regolamento%20concernente%20la%20disciplina%20della%20produzione%20del%20commercio%20e%20della%20vendita%20di%20fitofarmaci%20e%20dei%20presidi%20delle%20derrate%20alimentari%20immagazzinate.md), anche al fine di dare attuazione ai programmi comunitari di valutazione o revisione delle sostanze attive dei fitofarmaci; 
+ d) prevedere la riorganizzazione della Commissione consultiva di cui all'[art. 4 del decreto del Presidente della Repubblica 3 agosto 1968, n. 1255](../Regolamenti%20governativi/Regolamento%20concernente%20la%20disciplina%20della%20produzione%20del%20commercio%20e%20della%20vendita%20di%20fitofarmaci%20e%20dei%20presidi%20delle%20derrate%20alimentari%20immagazzinate.md), anche al fine di dare attuazione ai programmi comunitari di valutazione o revisione delle sostanze attive dei fitofarmaci; 
  e) prevedere che le spese di funzionamento della Commissione di cui alla lettere d) siano a carico dei titolari della registrazione di fitofarmaci, secondo le tariffe e le modalita' stabilite con decreto del Ministro della sanita'; 
  f) prevedere che con decreto del Ministro della sanita' siano attuate le disposizioni tecniche contenute negli allegati, nonche', in adempimento di disposizioni comunitarie, siano fissati i criteri per l'applicazione delle prescrizioni relative alle prove e agli esperimenti a scopo di ricerca e sviluppo di prodotti fitosanitari non autorizzati e le caratteristiche del sistema standardizzato delle informazioni fra gli Stati membri; 
  g) prevedere che il Ministro della sanita', sentita la Commissione di cui alla lettera d), con proprio decreto determini le quantita' massime di residui di sostanze attive dei fitofarmaci tollerate negli alimenti e nelle bevande, tenendo conto degli eventuali orientamenti comunitari relativi alla presenza simultanea di residui di piu' sostanze attive". 
@@ -610,7 +610,7 @@ L'etichetta dei prodotti fitosanitari non deve recare indicazioni quali "non tos
 
 Il Ministero della sanita' puo' prescrivere con l'atto di autorizzazione:
                         a)
-                            l'indicazione in etichetta di eventuali destinazioni di alcuni prodotti fitosanitari a determinate categorie di utilizzatori, tenendo conto delle disposizioni recate dall'[articolo 23 del decreto del Presidente della Repubblica 3 agosto 1968, n. 1255](../DPR/Regolamento%20concernente%20la%20disciplina%20della%20produzione%20del%20commercio%20e%20della%20vendita%20di%20fitofarmaci%20e%20dei%20presidi%20delle%20derrate%20alimentari%20immagazzinate.md), nonche' di quanto previsto dall'allegato VI;
+                            l'indicazione in etichetta di eventuali destinazioni di alcuni prodotti fitosanitari a determinate categorie di utilizzatori, tenendo conto delle disposizioni recate dall'[articolo 23 del decreto del Presidente della Repubblica 3 agosto 1968, n. 1255](../Regolamenti%20governativi/Regolamento%20concernente%20la%20disciplina%20della%20produzione%20del%20commercio%20e%20della%20vendita%20di%20fitofarmaci%20e%20dei%20presidi%20delle%20derrate%20alimentari%20immagazzinate.md), nonche' di quanto previsto dall'allegato VI;
                         b)
                             ove necessario, l'aggiunta in etichetta di frasi particolari al fine di tutelare l'uomo, gli animali e l'ambiente, comunicandone il testo agli altri Stati membri e alla Commissione europea, attenendosi poi alle disposizioni adottate in sede comunitaria.
 
@@ -620,7 +620,7 @@ I titolari delle autorizzazioni dei prodotti fitosanitari autorizzati alla data 
                         a)
                             adeguare gli imballaggi alle disposizioni di cui all'articolo 15;
                         b)
-                            modificare le etichette rimuovendo la specificazione della classe tossicologica, di cui all'[articolo 3 del decreto del Presidente della Repubblica 3 agosto 1968, n. 1255](../DPR/Regolamento%20concernente%20la%20disciplina%20della%20produzione%20del%20commercio%20e%20della%20vendita%20di%20fitofarmaci%20e%20dei%20presidi%20delle%20derrate%20alimentari%20immagazzinate.md), fatti salvi i simboli e le indicazioni di pericolo.
+                            modificare le etichette rimuovendo la specificazione della classe tossicologica, di cui all'[articolo 3 del decreto del Presidente della Repubblica 3 agosto 1968, n. 1255](../Regolamenti%20governativi/Regolamento%20concernente%20la%20disciplina%20della%20produzione%20del%20commercio%20e%20della%20vendita%20di%20fitofarmaci%20e%20dei%20presidi%20delle%20derrate%20alimentari%20immagazzinate.md), fatti salvi i simboli e le indicazioni di pericolo.
 
 6.
 
@@ -706,19 +706,19 @@ Note all'[art. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:19
 
 1.
 
-COMMA ABROGATO DAL [D.P.R. 23 APRILE 2001, N.290](../DPR/Regolamento%20di%20semplificazione%20dei%20procedimenti%20di%20autorizzazione%20alla%20produzione%20alla%20immissione%20in%20commercio%20e%20alla%20vendita%20di%20prodotti%20fitosanitari%20e%20relativi%20coadiuvanti%20n.%2046%20allegat_f678179c6027.md).
+COMMA ABROGATO DAL [D.P.R. 23 APRILE 2001, N.290](../Regolamenti%20governativi/Regolamento%20di%20semplificazione%20dei%20procedimenti%20di%20autorizzazione%20alla%20produzione%20alla%20immissione%20in%20commercio%20e%20alla%20vendita%20di%20prodotti%20fitosanitari%20e%20relativi%20coadiuvanti%20n.%2046%20allegat_f678179c6027.md).
 
 2.
 
-COMMA ABROGATO DAL [D.P.R. 23 APRILE 2001, N.290](../DPR/Regolamento%20di%20semplificazione%20dei%20procedimenti%20di%20autorizzazione%20alla%20produzione%20alla%20immissione%20in%20commercio%20e%20alla%20vendita%20di%20prodotti%20fitosanitari%20e%20relativi%20coadiuvanti%20n.%2046%20allegat_f678179c6027.md).
+COMMA ABROGATO DAL [D.P.R. 23 APRILE 2001, N.290](../Regolamenti%20governativi/Regolamento%20di%20semplificazione%20dei%20procedimenti%20di%20autorizzazione%20alla%20produzione%20alla%20immissione%20in%20commercio%20e%20alla%20vendita%20di%20prodotti%20fitosanitari%20e%20relativi%20coadiuvanti%20n.%2046%20allegat_f678179c6027.md).
 
 3.
 
-COMMA ABROGATO DAL [D.P.R. 23 APRILE 2001, N.290](../DPR/Regolamento%20di%20semplificazione%20dei%20procedimenti%20di%20autorizzazione%20alla%20produzione%20alla%20immissione%20in%20commercio%20e%20alla%20vendita%20di%20prodotti%20fitosanitari%20e%20relativi%20coadiuvanti%20n.%2046%20allegat_f678179c6027.md).
+COMMA ABROGATO DAL [D.P.R. 23 APRILE 2001, N.290](../Regolamenti%20governativi/Regolamento%20di%20semplificazione%20dei%20procedimenti%20di%20autorizzazione%20alla%20produzione%20alla%20immissione%20in%20commercio%20e%20alla%20vendita%20di%20prodotti%20fitosanitari%20e%20relativi%20coadiuvanti%20n.%2046%20allegat_f678179c6027.md).
 
 4.
 
-COMMA ABROGATO DAL [D.P.R. 23 APRILE 2001, N.290](../DPR/Regolamento%20di%20semplificazione%20dei%20procedimenti%20di%20autorizzazione%20alla%20produzione%20alla%20immissione%20in%20commercio%20e%20alla%20vendita%20di%20prodotti%20fitosanitari%20e%20relativi%20coadiuvanti%20n.%2046%20allegat_f678179c6027.md).
+COMMA ABROGATO DAL [D.P.R. 23 APRILE 2001, N.290](../Regolamenti%20governativi/Regolamento%20di%20semplificazione%20dei%20procedimenti%20di%20autorizzazione%20alla%20produzione%20alla%20immissione%20in%20commercio%20e%20alla%20vendita%20di%20prodotti%20fitosanitari%20e%20relativi%20coadiuvanti%20n.%2046%20allegat_f678179c6027.md).
 
 4-bis.
 
@@ -744,20 +744,20 @@ Per spese di funzionamento della Commissione consultiva di cui al comma 5 si int
 
 AGGIORNAMENTO (16)
 
-Il [D.P.R. 23 aprile 2001, n.290](../DPR/Regolamento%20di%20semplificazione%20dei%20procedimenti%20di%20autorizzazione%20alla%20produzione%20alla%20immissione%20in%20commercio%20e%20alla%20vendita%20di%20prodotti%20fitosanitari%20e%20relativi%20coadiuvanti%20n.%2046%20allegat_f678179c6027.md) ha disposto (con l'art. 43, comma 1, lettera b)) che i commi 5 e 5-bis del presente articolo sono abrogati nelle sole parti in cui fanno riferimento alla Commissione consultiva. 
- Ha inoltre disposto (con l'art. 39, comma 3) che "La Commissione consultiva di cui all'[articolo 20 del decreto legislativo 17 marzo 1995, n. 194](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2091-414-CEE%20in%20materia%20di%20immissione%20in%20commercio%20di%20prodotti%20fitosanitari.md), e agli articoli 4 e 5 del regolamento emanato con [decreto del Presidente della Repubblica 3 agosto 1968, n. 1255](../DPR/Regolamento%20concernente%20la%20disciplina%20della%20produzione%20del%20commercio%20e%20della%20vendita%20di%20fitofarmaci%20e%20dei%20presidi%20delle%20derrate%20alimentari%20immagazzinate.md), cessa di esercitare le proprie funzioni e competenze, ai fini del presente regolamento, dalla data di efficacia della convenzione di cui all'articolo 3."
+Il [D.P.R. 23 aprile 2001, n.290](../Regolamenti%20governativi/Regolamento%20di%20semplificazione%20dei%20procedimenti%20di%20autorizzazione%20alla%20produzione%20alla%20immissione%20in%20commercio%20e%20alla%20vendita%20di%20prodotti%20fitosanitari%20e%20relativi%20coadiuvanti%20n.%2046%20allegat_f678179c6027.md) ha disposto (con l'art. 43, comma 1, lettera b)) che i commi 5 e 5-bis del presente articolo sono abrogati nelle sole parti in cui fanno riferimento alla Commissione consultiva. 
+ Ha inoltre disposto (con l'art. 39, comma 3) che "La Commissione consultiva di cui all'[articolo 20 del decreto legislativo 17 marzo 1995, n. 194](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2091-414-CEE%20in%20materia%20di%20immissione%20in%20commercio%20di%20prodotti%20fitosanitari.md), e agli articoli 4 e 5 del regolamento emanato con [decreto del Presidente della Repubblica 3 agosto 1968, n. 1255](../Regolamenti%20governativi/Regolamento%20concernente%20la%20disciplina%20della%20produzione%20del%20commercio%20e%20della%20vendita%20di%20fitofarmaci%20e%20dei%20presidi%20delle%20derrate%20alimentari%20immagazzinate.md), cessa di esercitare le proprie funzioni e competenze, ai fini del presente regolamento, dalla data di efficacia della convenzione di cui all'articolo 3."
 
 ---------------
 
 AGGIORNAMENTO (50)
 
-Il [D.P.R. 23 aprile 2001, n. 290](../DPR/Regolamento%20di%20semplificazione%20dei%20procedimenti%20di%20autorizzazione%20alla%20produzione%20alla%20immissione%20in%20commercio%20e%20alla%20vendita%20di%20prodotti%20fitosanitari%20e%20relativi%20coadiuvanti%20n.%2046%20allegat_f678179c6027.md), come modificato dal [D.P.R. 28 febbraio 2012, n. 55](../DPR/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2023%20aprile%202001%20n.%20290%20per%20la%20semplificazione%20dei%20procedimenti%20di%20autorizzazione%20alla%20produzione%20alla%20immissione%20in_7d6328cf7309.md) ha disposto (con l'art. 39, comma 1) che "La Commissione consultiva di cui all'[articolo 20 del decreto legislativo 17 marzo 1995, n. 194](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2091-414-CEE%20in%20materia%20di%20immissione%20in%20commercio%20di%20prodotti%20fitosanitari.md), cessa di esercitare le proprie funzioni e competenze, ai fini del presente regolamento, dalla data di efficacia della convenzione di cui all'articolo 3".
+Il [D.P.R. 23 aprile 2001, n. 290](../Regolamenti%20governativi/Regolamento%20di%20semplificazione%20dei%20procedimenti%20di%20autorizzazione%20alla%20produzione%20alla%20immissione%20in%20commercio%20e%20alla%20vendita%20di%20prodotti%20fitosanitari%20e%20relativi%20coadiuvanti%20n.%2046%20allegat_f678179c6027.md), come modificato dal [D.P.R. 28 febbraio 2012, n. 55](../Regolamenti%20governativi/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2023%20aprile%202001%20n.%20290%20per%20la%20semplificazione%20dei%20procedimenti%20di%20autorizzazione%20alla%20produzione%20alla%20immissione%20in_7d6328cf7309.md) ha disposto (con l'art. 39, comma 1) che "La Commissione consultiva di cui all'[articolo 20 del decreto legislativo 17 marzo 1995, n. 194](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2091-414-CEE%20in%20materia%20di%20immissione%20in%20commercio%20di%20prodotti%20fitosanitari.md), cessa di esercitare le proprie funzioni e competenze, ai fini del presente regolamento, dalla data di efficacia della convenzione di cui all'articolo 3".
 
 ---------------
 
 AGGIORNAMENTO (51)
 
-Il [D.P.R. 28 marzo 2013, n. 44](../DPR/Regolamento%20recante%20il%20riordino%20degli%20organi%20collegiali%20ed%20altri%20organismi%20operanti%20presso%20il%20Ministero%20della%20salute%20ai%20sensi%20dellarticolo%202%20comma%204%20della%20legge%204%20novembre%202010%20n.%20183.%2013G00085.md) ha disposto (con l'art. 2, comma 2, lettera b)) che sono trasferite ad un unico organo collegiale, denominato «Comitato tecnico per la nutrizione e la sanita' animale», le funzioni in atto esercitate dalla Commissione consultiva per i fitosanitari di cui al presente articolo.
+Il [D.P.R. 28 marzo 2013, n. 44](../Regolamenti%20governativi/Regolamento%20recante%20il%20riordino%20degli%20organi%20collegiali%20ed%20altri%20organismi%20operanti%20presso%20il%20Ministero%20della%20salute%20ai%20sensi%20dellarticolo%202%20comma%204%20della%20legge%204%20novembre%202010%20n.%20183.%2013G00085.md) ha disposto (con l'art. 2, comma 2, lettera b)) che sono trasferite ad un unico organo collegiale, denominato «Comitato tecnico per la nutrizione e la sanita' animale», le funzioni in atto esercitate dalla Commissione consultiva per i fitosanitari di cui al presente articolo.
 
 ## Art. 21. — (Disposizioni tecniche)
 

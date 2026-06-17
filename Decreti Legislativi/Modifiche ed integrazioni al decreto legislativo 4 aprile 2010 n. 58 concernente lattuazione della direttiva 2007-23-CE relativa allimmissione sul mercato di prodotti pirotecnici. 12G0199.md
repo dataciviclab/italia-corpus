@@ -38,7 +38,7 @@ Emana il seguente decreto-legislativo:
 
 2.
 
-All'[articolo 53 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_53), approvato con [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), come da ultimo modificato dall'[articolo 17 del decreto legislativo 4 aprile 2010, n. 58](Attuazione%20della%20direttiva%202007-23-CE%20relativa%20allimmissione%20sul%20mercato%20di%20prodotti%20pirotecnici.%2010G0081.md), sono apportate le seguenti modificazioni:
+All'[articolo 53 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), come da ultimo modificato dall'[articolo 17 del decreto legislativo 4 aprile 2010, n. 58](Attuazione%20della%20direttiva%202007-23-CE%20relativa%20allimmissione%20sul%20mercato%20di%20prodotti%20pirotecnici.%2010G0081.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 2 le parole: «, ai fini della sicurezza fisica dei depositi e dei locali di vendita» sono soppresse;
                         b)

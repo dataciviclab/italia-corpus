@@ -42,14 +42,14 @@ La commissione di cui all'articolo 1 e' nominata su richiesta del consiglio nota
 
 2.
 
-Nel caso di notai di nuova nomina, tale istanza deve essere presentata al presidente della giunta entro trenta giorni dalla pubblicazione dell'elenco dei concorrenti che hanno superato le prove scritte nel concorso per esame di cui al [regio decreto 22 dicembre 1932, n. 1728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-12-22;1728). Le prove di accertamento della conoscenza della lingua francese devono concludersi prima della pubblicazione dell'elenco delle sedi disponibili per l'assegnazione ai vincitori del concorso per esame.
+Nel caso di notai di nuova nomina, tale istanza deve essere presentata al presidente della giunta entro trenta giorni dalla pubblicazione dell'elenco dei concorrenti che hanno superato le prove scritte nel concorso per esame di cui al [regio decreto 22 dicembre 1932, n. 1728](../Regi%20decreti/Modificazioni%20alle%20disposizioni%20regolamentari%20sul%20conferimento%20dei%20posti%20di%20notaro.%20032U1728.md). Le prove di accertamento della conoscenza della lingua francese devono concludersi prima della pubblicazione dell'elenco delle sedi disponibili per l'assegnazione ai vincitori del concorso per esame.
 
 3.
 
 Nel caso di notai in esercizio che intendano concorrere per l'assegnazione di sedi vacanti in Valle d'Aosta, gli stessi, in qualunque tempo, possono richiedere al consiglio notarile la presentazione dell'istanza di cui al comma 1 del presente articolo.
 
 Nota all'[art. 2:
- - Il regio decreto 22 dicembre 1932, n. 1728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-12-22;1728#art_2) (Modificazioni alle disposizioni regolamentari sul conferimento dei posti di notaio), e' stato pubblicato nella Gazzetta Ufficiale 13 gennaio 1993, n. 10.
+ - Il regio decreto 22 dicembre 1932, n. 1728](../Regi%20decreti/Modificazioni%20alle%20disposizioni%20regolamentari%20sul%20conferimento%20dei%20posti%20di%20notaro.%20032U1728.md) (Modificazioni alle disposizioni regolamentari sul conferimento dei posti di notaio), e' stato pubblicato nella Gazzetta Ufficiale 13 gennaio 1993, n. 10.
 
 ## Art. 2-bis.
 

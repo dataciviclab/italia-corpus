@@ -973,7 +973,7 @@ La comunicazione di cui al comma 1, da effettuarsi entro ((sessanta giorni)) dal
                             d)
                                 la copia della dichiarazione di conformita' di cui all'articolo ((4-bis, comma 2)), del presente regolamento ovvero all'[articolo 3, comma 3, lettera e), del decreto legislativo 27 gennaio 2010, n. 17](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202006-42-CE%20relativa%20alle%20macchine%20e%20che%20modifica%20la%20direttiva%2095-16-CE%20relativa%20agli%20ascensori.%2010G0031.md);
                             e)
-                                l'indicazione della ditta, abilitata ai sensi del [decreto del Ministro dello sviluppo economico 22 gennaio 2008, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sviluppo.economico:decreto:2008-01-22;37), cui il proprietario ha affidato ((la manutenzione dell'impianto, che abbia accettato l'incarico));
+                                l'indicazione della ditta, abilitata ai sensi del [decreto del Ministro dello sviluppo economico 22 gennaio 2008, n. 37](../Regolamenti%20ministeriali/Regolamento%20concernente%20lattuazione%20dellarticolo%2011-quaterdecies%20comma%2013%20lettera%20a%20del%20decreto-legge%2030%20settembre%202005%20n.%20203%20convertito%20con%20modificazioni%20dalla%20legge%202%20dicembre%202005%20n.%20_459f35941e72.md), cui il proprietario ha affidato ((la manutenzione dell'impianto, che abbia accettato l'incarico));
                             f)
                                 l'indicazione del soggetto incaricato di effettuare le ispezioni periodiche sull'impianto, ai sensi dell'articolo 13, comma 1, che abbia accettato l'incarico.
 

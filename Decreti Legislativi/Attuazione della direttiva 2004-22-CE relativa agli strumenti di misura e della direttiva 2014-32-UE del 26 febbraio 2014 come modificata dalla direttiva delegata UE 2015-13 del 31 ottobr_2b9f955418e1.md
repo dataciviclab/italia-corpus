@@ -780,7 +780,7 @@ Fatto salvo quanto previsto dall'articolo 22, a decorrere dalla data di entrata 
 
 2.
 
-Sono abrogate le disposizioni del testo unico delle leggi metriche, approvato con [regio decreto 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088), e successive modificazioni, contrastanti o incompatibili con il presente decreto.
+Sono abrogate le disposizioni del testo unico delle leggi metriche, approvato con [regio decreto 23 agosto 1890, n. 7088](../Regi%20decreti/Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md), e successive modificazioni, contrastanti o incompatibili con il presente decreto.
 
 Note all'[art. 21:
  - Il decreto del Presidente della Repubblica 23 agosto 1982, n. 857](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2071-318%20n.%2074-331%20e%20n.%2078-365%20relative%20ai%20contatori%20di%20volume%20di%20gas.md), e' pubblicato nella Gazzetta Ufficiale del 19 novembre 1982, n. 319, supplemento ordinario.
@@ -805,7 +805,7 @@ Note all'[art. 21:
  - La [direttiva 78/1031/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1978;1031) e' pubblicata nella G.U.C.E. del 27 dicembre 1978, n. L 364.
  - Il [decreto del Presidente della Repubblica 23 agosto 1982, n. 855](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2079-830%20relativa%20ai%20contatori%20di%20acqua%20calda.md), e' pubblicato nella Gazzetta Ufficiale del 19 novembre 1982, n. 319, supplemento ordinario.
  - La [direttiva 79/830](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1979;830) e' pubblicata nella G.U.C.E. del 15 ottobre 1979, n. L 259.
- - Il [regio decreto 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088), reca: «Approvazione del T.U. delle leggi sui pesi e sulle misure nel Regno d'Italia del 20 luglio 1890, n. 6991.».
+ - Il [regio decreto 23 agosto 1890, n. 7088](../Regi%20decreti/Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md), reca: «Approvazione del T.U. delle leggi sui pesi e sulle misure nel Regno d'Italia del 20 luglio 1890, n. 6991.».
 
 ## Art. 22. — Disposizioni transitorie
 

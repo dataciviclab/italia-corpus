@@ -39,7 +39,7 @@ Ai fini del presente decreto legislativo, si intende per:
  b) mediatore: la persona o le persone fisiche che, individualmente o collegialmente, svolgono la mediazione rimanendo prive, in ogni caso, del potere di rendere giudizi o decisioni vincolanti per i destinatari del servizio medesimo; 
  c) conciliazione: la composizione di una controversia a seguito dello svolgimento della mediazione; 
  d) organismo: l'ente pubblico o privato, presso il quale puo' svolgersi il procedimento di mediazione ai sensi del presente decreto; 
- e) registro: il registro degli organismi istituito con decreto del Ministro della giustizia ai sensi dell'articolo 16 del presente decreto, nonche', sino all'emanazione di tale decreto, il registro degli organismi istituito con il [decreto del Ministro della giustizia 23 luglio 2004, n. 222](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.giustizia:decreto:2004-07-23;222).
+ e) registro: il registro degli organismi istituito con decreto del Ministro della giustizia ai sensi dell'articolo 16 del presente decreto, nonche', sino all'emanazione di tale decreto, il registro degli organismi istituito con il [decreto del Ministro della giustizia 23 luglio 2004, n. 222](../Regolamenti%20ministeriali/Regolamento%20recante%20la%20determinazione%20dei%20criteri%20e%20delle%20modalita%20di%20iscrizione%20nonche%20di%20tenuta%20del%20registro%20degli%20organismi%20di%20conciliazione%20di%20cui%20allarticolo%2038%20del%20decreto%20legislati_2306bc6dff6a.md).
 
 ### Art. 2. — Controversie oggetto di mediazione
 
@@ -1360,10 +1360,10 @@ Note all'art. 22:
  d) alle societa' di gestione dei sistemi di compensazione e garanzia delle operazioni in strumenti finanziari; 
  e) alle seguenti attivita', il cui esercizio resta subordinato al possesso di licenze, da autorizzazioni, iscrizioni in albi o registri, ovvero alla preventiva dichiarazione di inizio di attivita' specificamente richieste dalle norme a fianco di esse riportate: 
  1) commercio, comprese l'esportazione e l'importazione, di oro per finalita' industriali o di investimento, per il quale e' prevista la dichiarazione di cui all'[art. 1 della legge 17 gennaio 2000, n. 7](../Atti%20di%20recepimento%20direttive%20UE/Nuova%20disciplina%20del%20mercato%20delloro%20anche%20in%20adeguamento%20al%20regolamento%20UE%202018-1672%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2023%20ottobre%202018.md); 
- 2) fabbricazione, mediazione e commercio, comprese l'esportazione e l'importazione di oggetti preziosi, per il quale e' prevista la licenza di cui all'[art. 127 del TULPS](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_127); 
+ 2) fabbricazione, mediazione e commercio, comprese l'esportazione e l'importazione di oggetti preziosi, per il quale e' prevista la licenza di cui all'[art. 127 del TULPS](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md); 
  3) fabbricazione di oggetti preziosi da parte di imprese artigiane, all'iscrizione nel registro degli assegnatari dei marchi di identificazione tenuto dalle camere di commercio, industria, artigianato e agricoltura; 
- 4) commercio di cose antiche di cui alla dichiarazione preventiva prevista dall'[art. 126 del TULPS](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_126); 
- 5) esercizio di case d'asta o galleria d'arte per il quale e' prevista alla licenza prevista dall'[art. 115 del TULPS](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_115); 
+ 4) commercio di cose antiche di cui alla dichiarazione preventiva prevista dall'[art. 126 del TULPS](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md); 
+ 5) esercizio di case d'asta o galleria d'arte per il quale e' prevista alla licenza prevista dall'[art. 115 del TULPS](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md); 
  f) alle succursali italiane dei soggetti indicati nelle lettere precedenti aventi sede legale in uno stato estero; 
  g) agli uffici della pubblica amministrazione. 
  5-bis) mediazione, ai sensi dell'[art. 60 della legge 18 giugno 2009, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-18;69#art_60).».

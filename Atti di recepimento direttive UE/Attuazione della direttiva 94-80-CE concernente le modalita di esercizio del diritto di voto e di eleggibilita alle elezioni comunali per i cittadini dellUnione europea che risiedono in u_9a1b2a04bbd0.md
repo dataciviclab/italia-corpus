@@ -56,7 +56,7 @@ L'iscrizione nelle liste elettorali aggiunte consente ai cittadini dell'Unione l
 
 Per i cittadini dell'Unione che chiedono l'iscrizione nelle liste elettorali aggiunte di un comune della provincia di Bolzano, si applicano le disposizioni di cui all'[art. 5 del decreto del Presidente della Repubblica 1 febbraio 1973, n. 50](../DPR/Esercizio%20del%20diritto%20di%20voto%20per%20le%20elezioni%20del%20consiglio%20regionale%20del%20Trentino-Alto%20Adige%20nonche%20per%20quelle%20dei%20consigli%20comunali%20della%20provincia%20di%20Bolzano%20in%20attuazione%20della%20legge%20_7bd7ce70b8e5.md), come sostituito dall'[art. 1 del decreto del Presidente della Repubblica 15 luglio 1988, n. 295](../DPR/Sostituzione%20dellart.%205%20del%20decreto%20del%20Presidente%20della%20Repubblica%201%20febbraio%201973%20n.%2050%20in%20materia%20di%20esercizio%20del%20diritto%20di%20voto%20per%20le%20elezioni%20del%20consiglio%20regionale%20nonche%20per%20qu_4c062d7d4fc6.md).
  AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Nota al titolo:
  - La [direttiva CEE n. 94/80](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1980;94) e' stata pubblicata nella Gazzetta Ufficiale delle Comunita' europee n. L 368 del 31 dicembre 1994 e ripubblicata nella Gazzetta Ufficiale della Repubblica italiana n. 44 dell'8 giugno 1995, 2a serie speciale.
  Note alle premesse:
@@ -102,7 +102,7 @@ Il comune, compiuta l'istruttoria necessaria a verificare l'assenza di cause ost
 
 1.
 
-In occasione di consultazioni per la elezione diretta del sindaco e del consiglio comunale, la domanda di cui all'art. 1 deve essere presentata non oltre il quinto giorno successivo all'affissione del manifesto di convocazione dei comizi elettorali e l'iscrizione nelle liste elettorali aggiunte viene effettuata in sede di revisione disposta ai sensi dell'[art. 32, quarto comma, del decreto del Presidente della Repubblica 20 marzo 1967, n. 223](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20per%20la%20disciplina%20dellelettorato%20attivo%20e%20per%20la%20tenuta%20e%20la%20revisione%20delle%20liste%20elettorali.md), e successive modificazioni ed integrazioni.
+In occasione di consultazioni per la elezione diretta del sindaco e del consiglio comunale, la domanda di cui all'art. 1 deve essere presentata non oltre il quinto giorno successivo all'affissione del manifesto di convocazione dei comizi elettorali e l'iscrizione nelle liste elettorali aggiunte viene effettuata in sede di revisione disposta ai sensi dell'[art. 32, quarto comma, del decreto del Presidente della Repubblica 20 marzo 1967, n. 223](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20per%20la%20disciplina%20dellelettorato%20attivo%20e%20per%20la%20tenuta%20e%20la%20revisione%20delle%20liste%20elettorali.md), e successive modificazioni ed integrazioni.
 
 2.
 
@@ -113,7 +113,7 @@ Nei casi previsti dal comma 1, il comune procede alla immediata iscrizione anagr
 Ai fini della iscrizione nelle liste elettorali aggiunte, si applicano le disposizioni di cui ai commi 2 e 3 dell'art. 2.
 
 Nota all'art. 3:
- - Il testo dell'art. 32 del testo unico delle leggi per la disciplina dell'elettorato attivo e per la tenuta e la revisione delle liste elettorali, approvato con [D.P.R. 20 marzo 1967, n. 223](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20per%20la%20disciplina%20dellelettorato%20attivo%20e%20per%20la%20tenuta%20e%20la%20revisione%20delle%20liste%20elettorali.md), e' il seguente:
+ - Il testo dell'art. 32 del testo unico delle leggi per la disciplina dell'elettorato attivo e per la tenuta e la revisione delle liste elettorali, approvato con [D.P.R. 20 marzo 1967, n. 223](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20per%20la%20disciplina%20dellelettorato%20attivo%20e%20per%20la%20tenuta%20e%20la%20revisione%20delle%20liste%20elettorali.md), e' il seguente:
  "Art. 32. - Alle liste elettorali, rettificate in conformita' dei precedenti articoli, non possono apportarsi, sino alla revisione del semestre successivo, altre variazioni se non in conseguenza:
  1) della morte;
  2) della perdita della cittadinanza italiana.
@@ -145,7 +145,7 @@ Gli elettori iscritti nella lista aggiunta votano presso il seggio nella cui cir
 
 1.
 
-I cittadini dell'Unione che intendono presentare la propria candidatura a consigliere comunale devono produrre, all'atto del deposito della lista dei candidati, oltre alla documentazione richiesta per i cittadini italiani dal [decreto del Presidente della Repubblica 16 maggio 1960, n. 570](../DPR/Testo%20unico%20delle%20leggi%20per%20la%20composizione%20e%20la%20elezione%20degli%20organi%20delle%20Amministrazioni%20comunali.md), e dalla [legge 25 marzo 1993, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-25;81):
+I cittadini dell'Unione che intendono presentare la propria candidatura a consigliere comunale devono produrre, all'atto del deposito della lista dei candidati, oltre alla documentazione richiesta per i cittadini italiani dal [decreto del Presidente della Repubblica 16 maggio 1960, n. 570](../Testi%20Unici/Testo%20unico%20delle%20leggi%20per%20la%20composizione%20e%20la%20elezione%20degli%20organi%20delle%20Amministrazioni%20comunali.md), e dalla [legge 25 marzo 1993, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-25;81):
                         a)
                             una dichiarazione contenente l'indicazione della cittadinanza, dell'attuale residenza e dell'indirizzo nello Stato di origine;
                         b)
@@ -164,7 +164,7 @@ La commissione elettorale circondariale comunica agli interessati le decisioni r
 Le norme di cui al presente articolo si applicano anche per la presentazione della candidatura a consigliere circoscrizionale.
 
 Note all'[art. 5:
- - Il D.P.R. 16 maggio 1960, n. 570](../DPR/Testo%20unico%20delle%20leggi%20per%20la%20composizione%20e%20la%20elezione%20degli%20organi%20delle%20Amministrazioni%20comunali.md), approva il testo unico delle leggi per la composizione e la elezione degli organi delle amministrazioni comunali.
+ - Il D.P.R. 16 maggio 1960, n. 570](../Testi%20Unici/Testo%20unico%20delle%20leggi%20per%20la%20composizione%20e%20la%20elezione%20degli%20organi%20delle%20Amministrazioni%20comunali.md), approva il testo unico delle leggi per la composizione e la elezione degli organi delle amministrazioni comunali.
  - La [legge 25 marzo 1993, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-25;81), reca: "Elezione diretta del sindaco, del presidente della provincia, del consiglio comunale e del consiglio provinciale".
 
 ## Art. 6.

@@ -16,7 +16,7 @@ LUOGOTENENZIALE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 19 maggio 1927, n. 902](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-05-19;902);
+Visto il [R. decreto 19 maggio 1927, n. 902](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Ales%20Pan%20Zeppara%20e%20Curcuris%20in%20unico%20Comune%20denominato%20Ales.%20027U0902.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -28,13 +28,13 @@ Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno; Abb
 
 ## Art. 1.
 
-Il comune di Pau aggregato con [R. decreto 19 maggio 1927, n. 902](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-05-19;902), al comune di Ales, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo.
+Il comune di Pau aggregato con [R. decreto 19 maggio 1927, n. 902](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Ales%20Pan%20Zeppara%20e%20Curcuris%20in%20unico%20Comune%20denominato%20Ales.%20027U0902.md), al comune di Ales, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo.
  Il Prefetto di Cagliari, sentita la Giunta provinciale amministrativa provvedera' ad regolamento dei rapporti patrimoniali e finanziari fra i comuni di Ales e di Pau.
 
 ## Art. 2.
 
 L'organico del ricostituito comune di Pau e quello del comune di Ales saranno stabiliti dal Prefetto, sentita la Giunta provinciale amministrativa.
- Il numero dei posti ed i gradi relativi non potranno essere superiori rispettivamente a quelli organicamente assegnati ai Comuni predetti, anteriormente alla loro fusione disposta con [R. decreto 19 maggio 1927, n. 902](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-05-19;902).
+ Il numero dei posti ed i gradi relativi non potranno essere superiori rispettivamente a quelli organicamente assegnati ai Comuni predetti, anteriormente alla loro fusione disposta con [R. decreto 19 maggio 1927, n. 902](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Ales%20Pan%20Zeppara%20e%20Curcuris%20in%20unico%20Comune%20denominato%20Ales.%20027U0902.md).
  Al personale gia' in servizio presso il comune di Ales che eventualmente sara' inquadrato nei predetti organici, non potranno essere attribuiti posizione gerarchica e trattamento economico superiori a quelli goduti all'atto dell'inquadramento medesimo.
 
 ## Art. 3.

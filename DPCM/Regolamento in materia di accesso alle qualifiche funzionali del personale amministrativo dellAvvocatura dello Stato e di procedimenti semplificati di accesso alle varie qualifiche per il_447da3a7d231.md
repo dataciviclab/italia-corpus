@@ -12,7 +12,7 @@ IL PRESIDENTE
 
 DEL CONSIGLIO DEI MINISTRI
 
-Visto il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md);
+Visto il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md);
 
 Visto il [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md);
 
@@ -22,7 +22,7 @@ Vista la [legge 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?u
 
 Vista la [legge 29 marzo 1983, n. 93](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-29;93);
 
-Vista la [legge 11 dicembre 1984, n. 839, nonche' l'art. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-11;839#art_15) del [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md);
+Vista la [legge 11 dicembre 1984, n. 839, nonche' l'art. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-11;839#art_15) del [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md);
 
 Visto il [decreto del Presidente della Repubblica 29 dicembre 1984, n. 1219](../DPR/Individuazione%20dei%20profili%20professionali%20del%20personale%20dei%20Ministeri%20in%20attuazione%20dellart.%203%20della%20legge%2011%20luglio%201980%20n.%20312.md);
 

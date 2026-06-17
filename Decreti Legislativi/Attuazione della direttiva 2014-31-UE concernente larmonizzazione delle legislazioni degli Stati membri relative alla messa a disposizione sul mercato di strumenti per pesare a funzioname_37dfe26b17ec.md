@@ -378,7 +378,7 @@ AVVERTENZA
  c) le modalita' della sorveglianza per il controllo del corretto impiego degli strumenti nei luoghi di loro utilizzazione e del mantenimento delle loro caratteristiche regolamentari; 
  d) l'aggiornamento e la modifica delle disposizioni tecniche e di quelle contenute negli allegati al presente decreto in relazione a nuove direttive europee in materia; 
  e) ogni altra norma per l'esecuzione del presente decreto. 
- 2. Fino all'emanazione dei decreti di cui al comma 1, agli strumenti per pesare a funzionamento non automatico si estende la disciplina, in quanto applicabile, sugli strumenti metrici di cui al testo unico delle leggi metriche, approvato con [regio decreto 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088), e successive modificazioni.".
+ 2. Fino all'emanazione dei decreti di cui al comma 1, agli strumenti per pesare a funzionamento non automatico si estende la disciplina, in quanto applicabile, sugli strumenti metrici di cui al testo unico delle leggi metriche, approvato con [regio decreto 23 agosto 1890, n. 7088](../Regi%20decreti/Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md), e successive modificazioni.".
 
 ## Art. 2. — Abrogazioni
 

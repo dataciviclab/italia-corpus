@@ -101,7 +101,7 @@ All'insegnante chiamato, in mancanza del titolare, a supplire nell'ufficio di ca
 
 AGGIORNAMENTO (1)
 
-Il [decreto legislativo del capo provvisorio dello stato 31 dicembre 1947, n. 1687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-12-31;1687) ha disposto (con l'art. 7, comma 1) che "L'importo del compenso spettante, ai sensi dell'[art. 7 del regio decreto legislativo 1 giugno 1946, n. 539](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-06-01;539#art_7), al professore chiamato, in mancanza del titolare, a supplire nell'ufficio di capo d'istituto, e' raddoppiato."
+Il [decreto legislativo del capo provvisorio dello stato 31 dicembre 1947, n. 1687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-12-31;1687) ha disposto (con l'art. 7, comma 1) che "L'importo del compenso spettante, ai sensi dell'[art. 7 del regio decreto legislativo 1 giugno 1946, n. 539](Trattamento%20economico%20del%20personale%20non%20di%20ruolo%20insegnante%20e%20non%20insegnante%20nelle%20scuole%20e%20negli%20istituti%20distruzione%20media.md), al professore chiamato, in mancanza del titolare, a supplire nell'ufficio di capo d'istituto, e' raddoppiato."
  Lo stesso decreto ha inoltre disposto (con l'art. 4) che la presente modifica ha effetto dal 1 luglio 1947.
 
 ## Art. 8.

@@ -22,7 +22,7 @@ Vista la [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?
 
 Vista la [legge 6 agosto 1926, n. 1365](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-08-06;1365), recante norme per il conferimento dei posti notarili;
 
-Visto il [regio decreto 14 novembre 1926, n. 1953](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;1953), recante disposizioni sul conferimento dei posti di notaro;
+Visto il [regio decreto 14 novembre 1926, n. 1953](../Regi%20decreti/Disposizioni%20sul%20conferimento%20dei%20posti%20di%20notaro.%20026U1953.md), recante disposizioni sul conferimento dei posti di notaro;
 
 Vista la [legge 30 aprile 1976, n. 197](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-30;197), recante disciplina dei concorsi per trasferimento dei notai;
 
@@ -65,7 +65,7 @@ Avvertenza:
  - La [legge 28 novembre 2005, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-11-28;246), reca: «Semplificazione e riassetto normativo per l'anno 2005».
  - Si riporta il testo dell'art. 7 della citata [legge 28 novembre 2005, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-11-28;246):
  «Art. 7 (Riassetto normativo in materia di ordinamento del notariato e degli archivi notarili). - 1. Il Governo e' delegato ad adottare, entro un anno dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi per il riassetto e la codificazione delle disposizioni vigenti in materia di ordinamento del notariato e degli archivi notarili, secondo i principi, i criteri direttivi e le procedure di cui all'[art. 20 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), e successive modificazioni, nonche' nel rispetto dei seguenti principi e criteri direttivi:
- a) semplificazione mediante riordino, aggiornamento, accorpamento o soppressione di adempimenti e formalita' previsti dalla [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), dal [regio decreto 10 settembre 1914, n. 1326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-10;1326), e dalla legislazione speciale, non piu' ritenuti utili, anche sulla base di intervenute modifiche nella legislazione generale e in quella di settore, in particolare in materia di:
+ a) semplificazione mediante riordino, aggiornamento, accorpamento o soppressione di adempimenti e formalita' previsti dalla [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), dal [regio decreto 10 settembre 1914, n. 1326](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20regolamento%20per%20lesecuzione%20della%20legge%2016%20febbraio%201913%20n.%2089%20riguardante%20lordinamento%20del%20notariato%20e%20degli%20archivi%20notarili.%20014U1326.md), e dalla legislazione speciale, non piu' ritenuti utili, anche sulla base di intervenute modifiche nella legislazione generale e in quella di settore, in particolare in materia di:
  1) redazione di atti pubblici e di scritture private autenticate, anche in lingua straniera o con l'intervento di soggetti privi dell'udito, muti o sordomuti;
  2) nullita' per vizi di forma e sostituzione delle nullita', salvo che sussistano esigenze di tutela di interessi primari, con sanzioni disciplinari a carico del notaio, graduate secondo la gravita' dell'infrazione;
  3) tirocinio professionale, concorsi, iscrizione al ruolo anche del notaio trasferito, con abolizione della cauzione e sua sostituzione con l'assicurazione e il fondo di garanzia di cui alla lettera e), n. 5);
@@ -132,7 +132,7 @@ Avvertenza:
  11. I servizi di controllo interno compiono accertamenti sugli effetti prodotti dalle norme contenute nei regolamenti di semplificazione e di accelerazione dei procedimenti amministrativi e possono formulare osservazioni e proporre suggerimenti per la modifica delle norme stesse e per il miglioramento dell'azione amministrativa.».
  - La [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), reca: «Ordinamento del notariato e degli archivi notarili».
  - La [legge 6 agosto 1926, n. 1365](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-08-06;1365), reca: «Norme per il conferimento dei posti notarili».
- - Il [regio decreto 14 novembre 1926, n. 1953](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;1953), reca: «Disposizioni sul conferimento dei posti di notaro».
+ - Il [regio decreto 14 novembre 1926, n. 1953](../Regi%20decreti/Disposizioni%20sul%20conferimento%20dei%20posti%20di%20notaro.%20026U1953.md), reca: «Disposizioni sul conferimento dei posti di notaro».
  - La [legge 30 aprile 1976, n. 197](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-30;197), reca: «Disciplina dei concorsi per trasferimento dei notai».
 
  Nota all'art. 1:
@@ -436,14 +436,14 @@ Dopo l'[articolo 1 della legge 30 aprile 1976, n. 197](https://www.normattiva.it
 
 Dalla data di entrata in vigore del presente decreto sono abrogate le seguenti norme:
                         a)
-                            l'[articolo 1 del regio decreto 22 dicembre 1932, n. 1728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-12-22;1728#art_1);
+                            l'[articolo 1 del regio decreto 22 dicembre 1932, n. 1728](../Regi%20decreti/Modificazioni%20alle%20disposizioni%20regolamentari%20sul%20conferimento%20dei%20posti%20di%20notaro.%20032U1728.md);
                         b)
-                            gli articoli 13, 14, primo comma, 15, 16, 17, 19, ottavo comma, 22, 24 e 25 del [regio decreto 14 novembre 1926, n. 1953](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;1953);
+                            gli articoli 13, 14, primo comma, 15, 16, 17, 19, ottavo comma, 22, 24 e 25 del [regio decreto 14 novembre 1926, n. 1953](../Regi%20decreti/Disposizioni%20sul%20conferimento%20dei%20posti%20di%20notaro.%20026U1953.md);
                         c)
                             il numero 22 dell'allegato A della [legge 24 novembre 2000, n. 340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-24;340).
 
 Note all'art. 15:
- - Si riporta il testo degli articoli 14 e 19 del citato [regio decreto 14 novembre 1926, n. 1953](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;1953), come modificati dal decreto legislativo qui pubblicato:
+ - Si riporta il testo degli articoli 14 e 19 del citato [regio decreto 14 novembre 1926, n. 1953](../Regi%20decreti/Disposizioni%20sul%20conferimento%20dei%20posti%20di%20notaro.%20026U1953.md), come modificati dal decreto legislativo qui pubblicato:
  «Art. 14. - Il Ministro designa inoltre, per le funzioni di segreteria, un coordinatore ed un supplente tra i magistrati trattenuti al Ministero della giustizia e personale amministrativo di area C, come delineata dal contratto collettivo nazionale di lavoro del comparto Ministeri del 16 febbraio 1999, dipendente dell'Amministrazione centrale.».
  «Art. 19. - Al candidato sono consegnate in ciascuno dei giorni di esame due buste di eguale colore, una grande munita di un tagliando con numero progressivo ed una piccola contenente un cartoncino bianco. Sul tagliando deve essere scritto il numero corrispondente a quello segnato sulla tessera di riconoscimento inviata al candidato.
  Le buste residue, oltre quelle consegnate ai candidati sono chiuse in piego suggellato con il bollo dell'ufficio.

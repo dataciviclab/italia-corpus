@@ -293,11 +293,11 @@ Il [D.L. 30 dicembre 2005, n. 273](../DL%20proroghe/Definizione%20e%20proroga%20
 
 1.
 
-All'[articolo 127, comma primo, del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_127-com1), approvato con [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), e successive modifiche ed integrazioni, sono soppresse le parole: "i cesellatori, gli orafi, gli incastratori di pietre preziose e gli esercenti industrie o arti affini".
+All'[articolo 127, comma primo, del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e successive modifiche ed integrazioni, sono soppresse le parole: "i cesellatori, gli orafi, gli incastratori di pietre preziose e gli esercenti industrie o arti affini".
 
 2.
 
-E' abrogato l'articolo 111 del predetto [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773). Sono abrogati gli articoli 197, 198 e 199 del regolamento per l'esecuzione del [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), approvato con [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635).
+E' abrogato l'articolo 111 del predetto [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md). Sono abrogati gli articoli 197, 198 e 199 del regolamento per l'esecuzione del [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635).
 Nell'articolo 243, comma primo, del medesimo regolamento approvato con [regio decreto n. 635 del 1940](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940;635) sono soppresse le parole: "ai cesellatori, agli orafi, agli incastratori di pietre preziose ed agli esercenti industrie od arti affini".
 
 3.
@@ -339,7 +339,7 @@ la definizione di norme in materia di metrologia legale; la omologazione di mode
                             e)
                                 le manifestazioni a premio di rilevanza nazionale;
                             f)
-                                la classificazione delle sostanze che presentano pericolo di scoppio o di incendio e la determinazione delle norme da osservarsi per l'impianto e l'esercizio dei relativi opifici, stabilimenti o depositi e per il trasporto di tali sostanze, compresi gli oli minerali, loro derivati e residui, ai sensi dell'[articolo 63 del regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_63);
+                                la classificazione delle sostanze che presentano pericolo di scoppio o di incendio e la determinazione delle norme da osservarsi per l'impianto e l'esercizio dei relativi opifici, stabilimenti o depositi e per il trasporto di tali sostanze, compresi gli oli minerali, loro derivati e residui, ai sensi dell'[articolo 63 del regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md);
                             g)
                                 le industrie operanti nel settore della difesa militare, ivi comprese le funzioni concernenti l'autorizzazione alla fabbricazione, all'importazione e all'esportazione di armi da guerra;
                             h)
@@ -929,7 +929,7 @@ Sono abrogate le disposizioni dell'[articolo 60, comma 10, del decreto del Minis
 
 2.
 
-Sono abrogate le disposizioni di cui agli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-05-31;1334#art_6) e [7 del regio decreto 31 maggio 1928, n. 1334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-05-31;1334#art_7).
+Sono abrogate le disposizioni di cui agli [articoli 6](../Regi%20decreti/Regolamento%20per%20lesecuzione%20della%20legge%2023%20giugno%201927%20n.%201264%20sulla%20disciplina%20delle%20arti%20ausiliarie%20delle%20professioni%20sanitarie.%20028U1334.md) e [7 del regio decreto 31 maggio 1928, n. 1334](../Regi%20decreti/Regolamento%20per%20lesecuzione%20della%20legge%2023%20giugno%201927%20n.%201264%20sulla%20disciplina%20delle%20arti%20ausiliarie%20delle%20professioni%20sanitarie.%20028U1334.md).
 
 ## Sviluppo economico e attivita' produttive Capo IX Turismo
 
@@ -969,7 +969,7 @@ Nel [comma 6 dell'articolo 9 della legge 17 maggio 1983, n. 217](https://www.nor
 
 3.
 
-Nel [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), approvato con [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773):
+Nel [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md):
                             a)
                                 al comma 1 dell'articolo 17-bis, aggiunto dall'[articolo 3 del decreto legislativo 13 luglio 1994, n. 480](Riforma%20della%20disciplina%20sanzionatoria%20contenuta%20nel%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza%20approvato%20con%20regio%20decreto%2018%20giugno%201931%20n.%20773.md), sono soppressi il numero 123 e la virgola successiva;
                             b)
@@ -977,7 +977,7 @@ Nel [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/ur
 
 4.
 
-Sono abrogati gli articoli da 234 a 241 del regolamento per l'esecuzione del [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), approvato con [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635).
+Sono abrogati gli articoli da 234 a 241 del regolamento per l'esecuzione del [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635).
 
 5.
 
@@ -1805,7 +1805,7 @@ Sono conferite alle regioni e agli enti locali, ai sensi dell'[articolo 4, comma
                             b)
                                 alle dighe non comprese tra quelle indicate all'articolo 91, comma 1;
                             c)
-                                ai compiti di polizia idraulica e di pronto intervento di cui al [regio decreto 25 luglio 1904, n. 523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-07-25;523) e al [regio decreto 9 dicembre 1937, n. 2669](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-12-09;2669), ivi comprese l'imposizione di limitazioni e divieti all'esecuzione di qualsiasi opera o intervento anche al di fuori dell'area demaniale idrica, qualora questi siano in grado di influire anche indirettamente sul regime dei corsi d'acqua;
+                                ai compiti di polizia idraulica e di pronto intervento di cui al [regio decreto 25 luglio 1904, n. 523](../Regi%20decreti/Che%20approva%20e%20contiene%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20intorno%20alle%20opere%20idrauliche%20delle%20diverse%20categorie.%20004U0523.md) e al [regio decreto 9 dicembre 1937, n. 2669](../Regi%20decreti/Regolamento%20sulla%20tutela%20delle%20opere%20idrauliche%20di%201ª%20e%202ª%20categoria%20e%20delle%20opere%20di%20bonifica.%20037U2669.md), ivi comprese l'imposizione di limitazioni e divieti all'esecuzione di qualsiasi opera o intervento anche al di fuori dell'area demaniale idrica, qualora questi siano in grado di influire anche indirettamente sul regime dei corsi d'acqua;
                             d)
                                 alle concessioni di estrazione di materiale litoide dai corsi d'acqua;
                             e)
@@ -1813,13 +1813,13 @@ Sono conferite alle regioni e agli enti locali, ai sensi dell'[articolo 4, comma
                             f)
                                 alle concessioni di pertinenze idrauliche e di aree fluviali anche ai sensi dell'[articolo 8 della legge 5 gennaio 1994, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-05;37#art_8);
                             g)
-                                alla polizia delle acque, anche con riguardo alla applicazione del testo unico approvato con [regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775);
+                                alla polizia delle acque, anche con riguardo alla applicazione del testo unico approvato con [regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md);
                             h)
                                 alla programmazione, pianificazione e gestione integrata degli interventi di difesa delle coste e degli abitati costieri;
                             i)
                                 alla gestione del demanio idrico, ivi comprese tutte le funzioni amministrative relative alle derivazioni di acqua pubblica, alla ricerca, estrazione e utilizzazione delle acque sotterranee, alla tutela del sistema idrico sotterraneo nonche' alla determinazione dei canoni di concessione e all'introito dei relativi proventi, fatto salvo quanto disposto dall'articolo 29, comma 3, del presente decreto legislativo;
                             l)
-                                alla nomina di regolatori per il riparto delle disponibilita' idriche qualora tra piu' utenti debba farsi luogo delle disponibilita' idriche di un corso d'acqua sulla base dei singoli diritti e concessioni ai sensi dell'articolo 43, comma 3, del testo unico approvato con [regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775). Qualora il corso d'acqua riguardi il territorio di piu' regioni la nomina dovra' avvenire di intesa tra queste ultime;
+                                alla nomina di regolatori per il riparto delle disponibilita' idriche qualora tra piu' utenti debba farsi luogo delle disponibilita' idriche di un corso d'acqua sulla base dei singoli diritti e concessioni ai sensi dell'articolo 43, comma 3, del testo unico approvato con [regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md). Qualora il corso d'acqua riguardi il territorio di piu' regioni la nomina dovra' avvenire di intesa tra queste ultime;
 
 2.
 
@@ -3015,7 +3015,7 @@ In ordine alle competenze mantenute in capo allo Stato dal comma 1 del presente 
 
 3.
 
-Permangono immutati i compiti e le funzioni esercitati dallo Stato in ordine agli istituti professionali di cui al [regio decreto 29 agosto 1941, n. 1449, e di cui agli articoli da 64](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-08-29;1449#art_64) [a 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-08-29;1449#art_66) e [da 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-08-29;1449#art_68) [a 71](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-08-29;1449#art_71) del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md).
+Permangono immutati i compiti e le funzioni esercitati dallo Stato in ordine agli istituti professionali di cui al [regio decreto 29 agosto 1941, n. 1449, e di cui agli articoli da 64](../Regi%20decreti/Riordinamento%20dellistruzione%20professionale%20per%20i%20ciechi.%20041U1449.md) [a 66](../Regi%20decreti/Riordinamento%20dellistruzione%20professionale%20per%20i%20ciechi.%20041U1449.md) e [da 68](../Regi%20decreti/Riordinamento%20dellistruzione%20professionale%20per%20i%20ciechi.%20041U1449.md) [a 71](../Regi%20decreti/Riordinamento%20dellistruzione%20professionale%20per%20i%20ciechi.%20041U1449.md) del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md).
 
 ### Art. 143. — Conferimenti alle regioni
 
@@ -3309,21 +3309,21 @@ Le funzioni e i compiti di polizia amministrativa spettanti agli enti locali son
 
 Ai sensi dell'[articolo 128 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_128), sono trasferiti ai comuni le seguenti funzioni e compiti amministrativi:
                             a)
-                                il rilascio della licenza di vendita ambulante di strumenti da punta e da taglio, di cui all'[articolo 37 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_37), approvato con [regio decreto 18 giugno 1931, n. 773, e all'articolo 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_56) del regolamento di pubblica sicurezza, approvato con [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635);
+                                il rilascio della licenza di vendita ambulante di strumenti da punta e da taglio, di cui all'[articolo 37 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773, e all'articolo 56](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) del regolamento di pubblica sicurezza, approvato con [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635);
                             b)
-                                il rilascio delle licenze concernenti le agenzie d'affari nel settore delle esposizioni, mostre e fiere campionarie, di cui all'articolo 115 del predetto [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773);
+                                il rilascio delle licenze concernenti le agenzie d'affari nel settore delle esposizioni, mostre e fiere campionarie, di cui all'articolo 115 del predetto [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md);
                             c)
-                                il ricevimento della dichiarazione relativa all'esercizio dell'industria di affittacamere o appartamenti mobiliati o comunque relativa all'attivita' di dare alloggio per mercede, di cui all'articolo 108 del citato [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773);
+                                il ricevimento della dichiarazione relativa all'esercizio dell'industria di affittacamere o appartamenti mobiliati o comunque relativa all'attivita' di dare alloggio per mercede, di cui all'articolo 108 del citato [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md);
                             d)
-                                il rilascio delle licenze concernenti le agenzie di affari, di cui all'articolo 115 del richiamato [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), ad esclusione di quelle relative all'attivita' di recupero crediti, pubblici incanti, agenzie matrimoniali e di pubbliche relazioni;
+                                il rilascio delle licenze concernenti le agenzie di affari, di cui all'articolo 115 del richiamato [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), ad esclusione di quelle relative all'attivita' di recupero crediti, pubblici incanti, agenzie matrimoniali e di pubbliche relazioni;
                             e)
                                 il rilascio della licenza per l'esercizio del mestiere di fochino, previo accertamento della capacita' tecnica dell'interessato da parte della Commissione tecnica provinciale per gli esplosivi, di cui all'[articolo 27 del decreto del Presidente della Repubblica 19 marzo 1956, n. 302](../DPR/Norme%20di%20prevenzione%20degli%20infortuni%20sul%20lavoro%20integrative%20di%20quelle%20generali%20emanate%20con%20decreto%20del%20Presidente%20della%20Repubblica%2027%20aprile%201955%20n.%20547.md) ((e previo nulla osta del questore della provincia in cui l'interessato risiede, che puo' essere negato o revocato quando ricorrono le circostanze di carattere personale previste per il diniego o la revoca delle autorizzazioni di polizia in materia di armi.)); ((14))
                             f)
-                                il rilascio dell'autorizzazione per l'espletamento di gare con autoveicoli, motoveicoli o ciclomotori su strade ordinarie di interesse esclusivamente comunale, di cui all'articolo 68 del predetto [testo unico delle leggi di pubblica sicurezza e all'articolo 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_9) del [decreto legislativo 30 aprile 1992, n. 285](Nuovo%20codice%20della%20strada.md);
+                                il rilascio dell'autorizzazione per l'espletamento di gare con autoveicoli, motoveicoli o ciclomotori su strade ordinarie di interesse esclusivamente comunale, di cui all'articolo 68 del predetto [testo unico delle leggi di pubblica sicurezza e all'articolo 9](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) del [decreto legislativo 30 aprile 1992, n. 285](Nuovo%20codice%20della%20strada.md);
                             g)
                                 il rilascio dell'autorizzazione allo svolgimento dell'attivita' di direttore o istruttore di tiro, di cui all'[articolo 31 della legge 18 aprile 1975, n. 110](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-04-18;110#art_31);
                             h)
-                                le autorizzazioni agli stranieri per l'esercizio dei mestieri girovaghi, di cui all'articolo 124 del citato [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773).
+                                le autorizzazioni agli stranieri per l'esercizio dei mestieri girovaghi, di cui all'articolo 124 del citato [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md).
 
 3.
 
@@ -3331,7 +3331,7 @@ Ai sensi dell'[articolo 128 della Costituzione](https://www.normattiva.it/uri-re
                             a)
                                 il riconoscimento della nomina a guardia giurata degli agenti venatori dipendenti dagli enti delegati dalle regioni e delle guardie volontarie delle associazioni venatorie e protezionistiche nazionali riconosciute, di cui all'[articolo 27 della legge 11 febbraio 1992, n. 157](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-11;157#art_27);
                             b)
-                                il riconoscimento della nomina di agenti giurati addetti alla sorveglianza sulla pesca nelle acque interne e marittime, di cui all'[articolo 31 del regio decreto 8 ottobre 1931, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-08;1604#art_31), e all'[articolo 22 della legge 14 luglio 1965, n. 963](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20della%20pesca%20marittima.md);
+                                il riconoscimento della nomina di agenti giurati addetti alla sorveglianza sulla pesca nelle acque interne e marittime, di cui all'[articolo 31 del regio decreto 8 ottobre 1931, n. 1604](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md), e all'[articolo 22 della legge 14 luglio 1965, n. 963](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20della%20pesca%20marittima.md);
                             c)
                                 il rilascio dell'autorizzazione per l'espletamento di gare con autoveicoli, motoveicoli e ciclomotori su strade ordinarie di interesse sovracomunale ed esclusivamente provinciale, di cui all'[articolo 9 del decreto legislativo 30 aprile 1992, n. 285](Nuovo%20codice%20della%20strada.md).
 
@@ -3353,15 +3353,15 @@ Sono abrogate le seguenti disposizioni:
                             a)
                                 la [legge 13 dicembre 1928, n. 3086](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20concernenti%20lallevamento%20e%20limpiego%20dei%20colombi%20viaggiatori.%20028U3086.md), nonche' il riferimento alla legge medesima contenuto nella tabella A allegata al [decreto del Presidente della Repubblica 26 aprile 1992, n. 300](../DPR/Regolamento%20concernente%20le%20attivita%20private%20sottoposte%20alla%20disciplina%20degli%20articoli%2019%20e%2020%20della%20legge%207%20agosto%201990%20n.%20241.md);
                             b)
-                                l'[articolo 76 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_76) approvato con [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), fermo restando l'obbligo di informazione preventiva all'autorita' di pubblica sicurezza;
+                                l'[articolo 76 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), fermo restando l'obbligo di informazione preventiva all'autorita' di pubblica sicurezza;
                             c)
                                 l'[articolo 19, comma 1, numero 3), del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md);
                             d)
                                 l'articolo 19, comma 4, del medesimo [decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), nella parte in cui prevede la comunicazione al prefetto e i poteri di sospensione, revoca e annullamento in capo a quest'ultimo in ordine: all'articolo 19, comma 1, numero 13), in materia di licenza agli stranieri per mestieri ambulanti; all'articolo 19, comma 1, numero 14), in materia di registrazione per mestieri ambulanti; all'articolo 19, comma 1, numero 17), in materia di licenza di iscrizione per portieri e custodi, fermo restando il dovere di tempestiva comunicazione al prefetto dei provvedimenti adottati.
                             e)
-                                gli articoli 72, 74, 75, 81 e 83 del predetto [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), in materia di attestazione dell'attivita' di fabbricazione e commercio di pellicole cinematografiche;
+                                gli articoli 72, 74, 75, 81 e 83 del predetto [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), in materia di attestazione dell'attivita' di fabbricazione e commercio di pellicole cinematografiche;
                             f)
-                                l'articolo 111 del citato [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), in materia di rilascio delle licenze per l'esercizio dell'arte fotografica, fermo restando l'obbligo di informazione tempestiva all'autorita' di pubblica sicurezza.
+                                l'articolo 111 del citato [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), in materia di rilascio delle licenze per l'esercizio dell'arte fotografica, fermo restando l'obbligo di informazione tempestiva all'autorita' di pubblica sicurezza.
 
 2.
 
@@ -3369,7 +3369,7 @@ E' altresi' abrogato il comma 5 dell'articolo 19 del decreto del Presidente dell
 
 3.
 
-Nell'articolo 68, primo comma, del piu' volte richiamato [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), le parole "rappresentazioni cinematografiche e teatrali" sono abrogate.
+Nell'articolo 68, primo comma, del piu' volte richiamato [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), le parole "rappresentazioni cinematografiche e teatrali" sono abrogate.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
