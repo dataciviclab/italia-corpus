@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita', a Noi delegata;
 
-Visto il [R. decreto 15 aprile 1928, n. 948](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Succivo%20Orta%20di%20Atella%20SantArpino%20e%20parte%20del%20territorio%20del%20comune%20di%20Frattaminore%20in%20un%20unico%20Comune%20denominato%20%20Atella%20di%20Napoli%20.%20028U0948.md);
+Visto il [R. decreto 15 aprile 1928, n. 948](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Succivo%20Orta%20di%20Atella%20SantArpino%20e%20parte%20del%20territorio%20del%20comune%20di%20Frattaminore%20in%20un%20unico%20Comune%20denominato%20%20Atella%20di%20Napoli%20.%20028U0948.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -28,13 +28,13 @@ Sulla proposta del Ministro Segretario di Stato per gli affari dell' interno; Ab
 
 ## Art. 1.
 
-I comuni di Orta di Atella, Succivo e S. Arpino, riuniti nell'unico comune di Atella di Napoli con [R. decreto 15 aprile 1928, n. 948](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Succivo%20Orta%20di%20Atella%20SantArpino%20e%20parte%20del%20territorio%20del%20comune%20di%20Frattaminore%20in%20un%20unico%20Comune%20denominato%20%20Atella%20di%20Napoli%20.%20028U0948.md), sono ricostituiti con la circoscrizione preesistente all'entrata in vigore del decreto medesimo, fatta eccezione per la striscia di territorio appartenente al comune di Frattaminore ed aggregata al comune di Atella in virtu' del Regio decreto suddetto, che viene assegnata al ricostituito comune di Orta di Atella. 
+I comuni di Orta di Atella, Succivo e S. Arpino, riuniti nell'unico comune di Atella di Napoli con [R. decreto 15 aprile 1928, n. 948](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Succivo%20Orta%20di%20Atella%20SantArpino%20e%20parte%20del%20territorio%20del%20comune%20di%20Frattaminore%20in%20un%20unico%20Comune%20denominato%20%20Atella%20di%20Napoli%20.%20028U0948.md), sono ricostituiti con la circoscrizione preesistente all'entrata in vigore del decreto medesimo, fatta eccezione per la striscia di territorio appartenente al comune di Frattaminore ed aggregata al comune di Atella in virtu' del Regio decreto suddetto, che viene assegnata al ricostituito comune di Orta di Atella. 
  Il Prefetto di Caserta, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i Comuni suddetti.
 
 ## Art. 2.
 
 Gli organici dei ricostituiti comuni di Orta di Atella, Succivo e S. Arpino saranno stabiliti dal Prefetto, sentita la Giunta provinciale amministrativa. 
- Il numero dei posti ed i gradi relativi non potranno essere superiori, rispettivamente, a quelli organicamente assegnati ai Comuni predetti anteriormente alla loro fusione disposta con [R. decreto 15 aprile 1928, n. 948](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Succivo%20Orta%20di%20Atella%20SantArpino%20e%20parte%20del%20territorio%20del%20comune%20di%20Frattaminore%20in%20un%20unico%20Comune%20denominato%20%20Atella%20di%20Napoli%20.%20028U0948.md). 
+ Il numero dei posti ed i gradi relativi non potranno essere superiori, rispettivamente, a quelli organicamente assegnati ai Comuni predetti anteriormente alla loro fusione disposta con [R. decreto 15 aprile 1928, n. 948](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Succivo%20Orta%20di%20Atella%20SantArpino%20e%20parte%20del%20territorio%20del%20comune%20di%20Frattaminore%20in%20un%20unico%20Comune%20denominato%20%20Atella%20di%20Napoli%20.%20028U0948.md). 
  Al personale gia' in servizio presso il comune di Atella che sara' inquadrato nei predetti organici, non potranno essere attribuiti posizione gerarchica e trattamento economico superiori a quelli goduti all'atto dell'inquadramento medesimo.
 
 ## Art. 3.

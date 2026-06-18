@@ -30,7 +30,7 @@ Piena ed intera esecuzione e' data alla Convenzione di cui all'articolo 1, di se
 
 1.
 
-All'[articolo 322-bis, secondo comma, numero 2), del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono aggiunte, in fine, le seguenti parole: «ovvero al fine di ottenere o di mantenere un'attivita' economica o finanziaria».
+All'[articolo 322-bis, secondo comma, numero 2), del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono aggiunte, in fine, le seguenti parole: «ovvero al fine di ottenere o di mantenere un'attivita' economica o finanziaria».
 
 ## Art. 4. — (( Introduzione dell'articolo 25-decies del decreto legislativo 2001, n. 231: 
  

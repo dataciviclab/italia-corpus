@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Visto l'[articolo 1, comma 28, lettera c), della legge 20 maggio 2016, n. 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-05-20;76#art_1-com28-letc), che delega il Governo all'adozione di modificazioni ed integrazioni normative per il necessario coordinamento con la presente legge delle disposizioni contenute nelle leggi, negli atti aventi forza di legge, nei regolamenti e nei decreti;
 
-Visto il [regio decreto 19 ottobre 1930, n. 1398](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), recante approvazione del testo definitivo del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+Visto il [regio decreto 19 ottobre 1930, n. 1398](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), recante approvazione del testo definitivo del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
 
 Visto il [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), recante approvazione del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
 
@@ -32,7 +32,7 @@ Emana il seguente decreto legislativo:
 
 1.
 
-Al [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con [regio decreto 19 ottobre 1930, n. 1398](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sono apportate le seguenti modificazioni:
+Al [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con [regio decreto 19 ottobre 1930, n. 1398](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sono apportate le seguenti modificazioni:
                         a)
                             all'articolo 307, quarto comma, dopo le parole: «il coniuge,» sono inserite le seguenti: «la parte di un'unione civile tra persone dello stesso sesso,»;
                         b)
@@ -59,7 +59,7 @@ Avvertenza:
  c) modificazioni ed integrazioni normative per il necessario coordinamento con la presente legge delle disposizioni contenute nelle leggi, negli atti aventi forza di legge, nei regolamenti e nei decreti. ». 
  
  Note all'art. 1: 
- - Si riporta il testo dell'[art. 307 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
+ - Si riporta il testo dell'[art. 307 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
  «Art. 307. (Assistenza ai partecipi di cospirazione o di banda armata). - Chiunque, fuori dei casi di concorso nel reato o di favoreggiamento, da' rifugio o fornisce vitto, ospitalita', mezzi di trasporto, strumenti di comunicazione a taluna delle persone che partecipano all'associazione o alla banda indicate nei due articoli precedenti, e' punito con la reclusione fino a due anni. 
  La pena e' aumentata se l'assistenza e' prestata continuatamente. 
  Non e' punibile chi commette il fatto in favore di un prossimo congiunto. 

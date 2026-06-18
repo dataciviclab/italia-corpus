@@ -56,7 +56,7 @@ Per urgenti necessita', qualora l'Amministrazione non possa provvedere tempestiv
 
 ## Art. 7.
 
-Per ogni requisizione 6 corrisposta una giusta indennita' che e' liquidata dai prefetti secondo i criteri stabiliti nel capo VI del [regio decreto 18 agosto 1940, n. 1741](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20disciplina%20delle%20requisizioni.%20040U1741.md). In caso di mancata accettazione dell'indennita', si applicano le disposizioni dell'[art. 72 della legge 25 giugno 1865, n. 2359](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md).
+Per ogni requisizione 6 corrisposta una giusta indennita' che e' liquidata dai prefetti secondo i criteri stabiliti nel capo VI del [regio decreto 18 agosto 1940, n. 1741](../Regi%20decreti/Norme%20per%20la%20disciplina%20delle%20requisizioni.%20040U1741.md). In caso di mancata accettazione dell'indennita', si applicano le disposizioni dell'[art. 72 della legge 25 giugno 1865, n. 2359](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md).
 
 ## Art. 8.
 

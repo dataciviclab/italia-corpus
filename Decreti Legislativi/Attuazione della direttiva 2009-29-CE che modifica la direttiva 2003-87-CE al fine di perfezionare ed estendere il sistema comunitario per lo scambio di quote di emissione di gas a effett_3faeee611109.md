@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 4 giugno 2010, n. 96](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge comunitaria 2009, e, in particolare, l'articolo 1, commi 1 e 3;
+Vista la [legge 4 giugno 2010, n. 96](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge comunitaria 2009, e, in particolare, l'articolo 1, commi 1 e 3;
 
 Vista la Convenzione quadro delle Nazioni Unite sui cambiamenti climatici, ratificata con [legge 15 gennaio 1994, n. 65](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20quadro%20delle%20Nazioni%20Unite%20sui%20cambiamenti%20climatici%20con%20allegati%20fatta%20a%20New%20York%20il%209%20maggio%201992.md), e il Protocollo di Kyoto, ratificato con [legge 1° giugno 2002, n. 120](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20del%20Protocollo%20di%20Kyoto%20alla%20Convenzione%20quadro%20delle%20Nazioni%20Unite%20sui%20cambiamenti%20climatici%20fatto%20a%20Kyoto%20l11%20dicembre%201997.md);
 
@@ -97,7 +97,7 @@ Capo I
 
 AGGIORNAMENTO (8)
 
-Il [D.Lgs. 9 giugno 2020, n. 47](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20UE%202018-410%20UE%202023-958%20e%20UE%202023-959%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2010%20maggio%202023%20che%20modificano%20la%20direttiva%202003-87-CE%20che%20istituisce%20un%20sistema_b900a189e076.md) ha disposto (con l'art. 47, comma 2) che ai sensi dell'[articolo 4 della direttiva (UE) 2018/410](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2018;410), il [comma 1, lettere a) e cc](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_com1-leta)) del presente articolo continua ad applicarsi fino al 31 dicembre 2020.
+Il [D.Lgs. 9 giugno 2020, n. 47](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20delle%20direttive%20UE%202018-410%20UE%202023-958%20e%20UE%202023-959%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2010%20maggio%202023%20che%20modificano%20la%20direttiva%202003-87-CE%20che%20istituisce%20un%20sistema_b900a189e076.md) ha disposto (con l'art. 47, comma 2) che ai sensi dell'[articolo 4 della direttiva (UE) 2018/410](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2018;410), il [comma 1, lettere a) e cc](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_com1-leta)) del presente articolo continua ad applicarsi fino al 31 dicembre 2020.
 
 ## AUTORITA' NAZIONALE COMPETENTE
 
@@ -112,7 +112,7 @@ Capo II
 
 AGGIORNAMENTO (8)
 
-Il [D.Lgs. 9 giugno 2020, n. 47](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20UE%202018-410%20UE%202023-958%20e%20UE%202023-959%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2010%20maggio%202023%20che%20modificano%20la%20direttiva%202003-87-CE%20che%20istituisce%20un%20sistema_b900a189e076.md) ha disposto (con l'art. 47, comma 3) che "Il Comitato di cui all'[articolo 4 del decreto legislativo 13 marzo 2013, n. 30](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-29-CE%20che%20modifica%20la%20direttiva%202003-87-CE%20al%20fine%20di%20perfezionare%20ed%20estendere%20il%20sistema%20comunitario%20per%20lo%20scambio%20di%20quote%20di%20emissione%20di%20gas%20a%20effett_3faeee611109.md), continua ad operare fino alla costituzione del Comitato di cui all'articolo 4, anche ai fini dell'applicazione del presente decreto".
+Il [D.Lgs. 9 giugno 2020, n. 47](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20delle%20direttive%20UE%202018-410%20UE%202023-958%20e%20UE%202023-959%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2010%20maggio%202023%20che%20modificano%20la%20direttiva%202003-87-CE%20che%20istituisce%20un%20sistema_b900a189e076.md) ha disposto (con l'art. 47, comma 3) che "Il Comitato di cui all'[articolo 4 del decreto legislativo 13 marzo 2013, n. 30](Attuazione%20della%20direttiva%202009-29-CE%20che%20modifica%20la%20direttiva%202003-87-CE%20al%20fine%20di%20perfezionare%20ed%20estendere%20il%20sistema%20comunitario%20per%20lo%20scambio%20di%20quote%20di%20emissione%20di%20gas%20a%20effett_3faeee611109.md), continua ad operare fino alla costituzione del Comitato di cui all'articolo 4, anche ai fini dell'applicazione del presente decreto".
 
 ## TRASPORTO AEREO
 
@@ -187,7 +187,7 @@ Capo IV
 
 AGGIORNAMENTO (8)
 
-Il [D.Lgs. 9 giugno 2020, n. 47](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20UE%202018-410%20UE%202023-958%20e%20UE%202023-959%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2010%20maggio%202023%20che%20modificano%20la%20direttiva%202003-87-CE%20che%20istituisce%20un%20sistema_b900a189e076.md) ha disposto (con l'art. 47, comma 2) che ai sensi dell'[articolo 4 della direttiva (UE) 2018/410](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2018;410), il presente articolo continua ad applicarsi fino al 31 dicembre 2020.
+Il [D.Lgs. 9 giugno 2020, n. 47](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20delle%20direttive%20UE%202018-410%20UE%202023-958%20e%20UE%202023-959%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2010%20maggio%202023%20che%20modificano%20la%20direttiva%202003-87-CE%20che%20istituisce%20un%20sistema_b900a189e076.md) ha disposto (con l'art. 47, comma 2) che ai sensi dell'[articolo 4 della direttiva (UE) 2018/410](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2018;410), il presente articolo continua ad applicarsi fino al 31 dicembre 2020.
 
 ### Art. 20.
 
@@ -198,7 +198,7 @@ Il [D.Lgs. 9 giugno 2020, n. 47](../Atti%20di%20recepimento%20direttive%20UE/Att
 
 AGGIORNAMENTO (8)
 
-Il [D.Lgs. 9 giugno 2020, n. 47](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20UE%202018-410%20UE%202023-958%20e%20UE%202023-959%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2010%20maggio%202023%20che%20modificano%20la%20direttiva%202003-87-CE%20che%20istituisce%20un%20sistema_b900a189e076.md) ha disposto (con l'art. 47, comma 2) che ai sensi dell'[articolo 4 della direttiva (UE) 2018/410](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2018;410), il comma 1, lettera c) del presente articolo continua ad applicarsi fino al 31 dicembre 2020.
+Il [D.Lgs. 9 giugno 2020, n. 47](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20delle%20direttive%20UE%202018-410%20UE%202023-958%20e%20UE%202023-959%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2010%20maggio%202023%20che%20modificano%20la%20direttiva%202003-87-CE%20che%20istituisce%20un%20sistema_b900a189e076.md) ha disposto (con l'art. 47, comma 2) che ai sensi dell'[articolo 4 della direttiva (UE) 2018/410](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2018;410), il comma 1, lettera c) del presente articolo continua ad applicarsi fino al 31 dicembre 2020.
 
 ### Art. 21.
 
@@ -209,7 +209,7 @@ Il [D.Lgs. 9 giugno 2020, n. 47](../Atti%20di%20recepimento%20direttive%20UE/Att
 
 AGGIORNAMENTO (8)
 
-Il [D.Lgs. 9 giugno 2020, n. 47](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20UE%202018-410%20UE%202023-958%20e%20UE%202023-959%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2010%20maggio%202023%20che%20modificano%20la%20direttiva%202003-87-CE%20che%20istituisce%20un%20sistema_b900a189e076.md) ha disposto (con l'art. 47, comma 2) che ai sensi dell'[articolo 4 della direttiva (UE) 2018/410](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2018;410), i commi 3 e 4 del presente articolo continuano ad applicarsi fino al 31 dicembre 2020.
+Il [D.Lgs. 9 giugno 2020, n. 47](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20delle%20direttive%20UE%202018-410%20UE%202023-958%20e%20UE%202023-959%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2010%20maggio%202023%20che%20modificano%20la%20direttiva%202003-87-CE%20che%20istituisce%20un%20sistema_b900a189e076.md) ha disposto (con l'art. 47, comma 2) che ai sensi dell'[articolo 4 della direttiva (UE) 2018/410](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2018;410), i commi 3 e 4 del presente articolo continuano ad applicarsi fino al 31 dicembre 2020.
 
 ### Art. 22.
 
@@ -220,7 +220,7 @@ Il [D.Lgs. 9 giugno 2020, n. 47](../Atti%20di%20recepimento%20direttive%20UE/Att
 
 AGGIORNAMENTO (8)
 
-Il [D.Lgs. 9 giugno 2020, n. 47](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20UE%202018-410%20UE%202023-958%20e%20UE%202023-959%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2010%20maggio%202023%20che%20modificano%20la%20direttiva%202003-87-CE%20che%20istituisce%20un%20sistema_b900a189e076.md) ha disposto (con l'art. 47, comma 2) che ai sensi dell'[articolo 4 della direttiva (UE) 2018/410](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2018;410), il comma 4 del presente articolo continua ad applicarsi fino al 31 dicembre 2020.
+Il [D.Lgs. 9 giugno 2020, n. 47](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20delle%20direttive%20UE%202018-410%20UE%202023-958%20e%20UE%202023-959%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2010%20maggio%202023%20che%20modificano%20la%20direttiva%202003-87-CE%20che%20istituisce%20un%20sistema_b900a189e076.md) ha disposto (con l'art. 47, comma 2) che ai sensi dell'[articolo 4 della direttiva (UE) 2018/410](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2018;410), il comma 4 del presente articolo continua ad applicarsi fino al 31 dicembre 2020.
 
 ### Art. 23.
 
@@ -252,7 +252,7 @@ E' istituito presso il Ministero dello sviluppo economico il "Fondo per la trans
 
 AGGIORNAMENTO (8)
 
-Il [D.Lgs. 9 giugno 2020, n. 47](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20UE%202018-410%20UE%202023-958%20e%20UE%202023-959%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2010%20maggio%202023%20che%20modificano%20la%20direttiva%202003-87-CE%20che%20istituisce%20un%20sistema_b900a189e076.md) ha disposto (con l'art. 47, comma 2) che ai sensi dell'[articolo 4 della direttiva (UE) 2018/410](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2018;410), il comma 1 del presente articolo continua ad applicarsi fino al 31 dicembre 2020.
+Il [D.Lgs. 9 giugno 2020, n. 47](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20delle%20direttive%20UE%202018-410%20UE%202023-958%20e%20UE%202023-959%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2010%20maggio%202023%20che%20modificano%20la%20direttiva%202003-87-CE%20che%20istituisce%20un%20sistema_b900a189e076.md) ha disposto (con l'art. 47, comma 2) che ai sensi dell'[articolo 4 della direttiva (UE) 2018/410](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2018;410), il comma 1 del presente articolo continua ad applicarsi fino al 31 dicembre 2020.
 
 ## DISPOSIZIONI APPLICABILI AL TRASPORTO AEREO E AGLI IMPIANTI FISSI
 
@@ -271,7 +271,7 @@ Capo V
 
 AGGIORNAMENTO (8)
 
-Il [D.Lgs. 9 giugno 2020, n. 47](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20UE%202018-410%20UE%202023-958%20e%20UE%202023-959%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2010%20maggio%202023%20che%20modificano%20la%20direttiva%202003-87-CE%20che%20istituisce%20un%20sistema_b900a189e076.md) ha disposto (con l'art. 47, comma 2) che ai sensi dell'[articolo 4 della direttiva (UE) 2018/410](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2018;410), i commi 3 e 4 del presente articolo continuano ad applicarsi fino al 31 dicembre 2020.
+Il [D.Lgs. 9 giugno 2020, n. 47](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20delle%20direttive%20UE%202018-410%20UE%202023-958%20e%20UE%202023-959%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2010%20maggio%202023%20che%20modificano%20la%20direttiva%202003-87-CE%20che%20istituisce%20un%20sistema_b900a189e076.md) ha disposto (con l'art. 47, comma 2) che ai sensi dell'[articolo 4 della direttiva (UE) 2018/410](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2018;410), i commi 3 e 4 del presente articolo continuano ad applicarsi fino al 31 dicembre 2020.
 
 ### Art. 30.
 
@@ -286,7 +286,7 @@ Il [D.Lgs. 9 giugno 2020, n. 47](../Atti%20di%20recepimento%20direttive%20UE/Att
 
 AGGIORNAMENTO (8)
 
-Il [D.Lgs. 9 giugno 2020, n. 47](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20UE%202018-410%20UE%202023-958%20e%20UE%202023-959%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2010%20maggio%202023%20che%20modificano%20la%20direttiva%202003-87-CE%20che%20istituisce%20un%20sistema_b900a189e076.md) ha disposto (con l'art. 47, comma 2) che ai sensi dell'[articolo 4 della direttiva (UE) 2018/410](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2018;410), il presente articolo continua ad applicarsi fino al 31 dicembre 2020.
+Il [D.Lgs. 9 giugno 2020, n. 47](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20delle%20direttive%20UE%202018-410%20UE%202023-958%20e%20UE%202023-959%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2010%20maggio%202023%20che%20modificano%20la%20direttiva%202003-87-CE%20che%20istituisce%20un%20sistema_b900a189e076.md) ha disposto (con l'art. 47, comma 2) che ai sensi dell'[articolo 4 della direttiva (UE) 2018/410](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2018;410), il presente articolo continua ad applicarsi fino al 31 dicembre 2020.
 
 ### Art. 32.
 
@@ -297,7 +297,7 @@ Il [D.Lgs. 9 giugno 2020, n. 47](../Atti%20di%20recepimento%20direttive%20UE/Att
 
 AGGIORNAMENTO (8)
 
-Il [D.Lgs. 9 giugno 2020, n. 47](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20UE%202018-410%20UE%202023-958%20e%20UE%202023-959%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2010%20maggio%202023%20che%20modificano%20la%20direttiva%202003-87-CE%20che%20istituisce%20un%20sistema_b900a189e076.md) ha disposto (con l'art. 47, comma 2) che ai sensi dell'[articolo 4 della direttiva (UE) 2018/410](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2018;410), il presente articolo continua ad applicarsi fino al 31 dicembre 2020.
+Il [D.Lgs. 9 giugno 2020, n. 47](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20delle%20direttive%20UE%202018-410%20UE%202023-958%20e%20UE%202023-959%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2010%20maggio%202023%20che%20modificano%20la%20direttiva%202003-87-CE%20che%20istituisce%20un%20sistema_b900a189e076.md) ha disposto (con l'art. 47, comma 2) che ai sensi dell'[articolo 4 della direttiva (UE) 2018/410](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2018;410), il presente articolo continua ad applicarsi fino al 31 dicembre 2020.
 
 ### Art. 33.
 

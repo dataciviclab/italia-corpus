@@ -213,7 +213,7 @@ Il Presidente della Commissione e' nominato, con il decreto ministeriale di cui 
 
 4.
 
-Per Commissione nazionale di esperti di cui al comma 1, si intende, la Commissione di cui all'[articolo 1, comma 1, lettera m) del decreto del Presidente della Repubblica 14 maggio 2007, n. 97](../Regolamenti%20governativi/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20delluniversita%20e%20della%20ricerca%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modif_952f1a50f55c.md).
+Per Commissione nazionale di esperti di cui al comma 1, si intende, la Commissione di cui all'[articolo 1, comma 1, lettera m) del decreto del Presidente della Repubblica 14 maggio 2007, n. 97](../DPR/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20delluniversita%20e%20della%20ricerca%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modif_952f1a50f55c.md).
 
 5.
 

@@ -230,8 +230,8 @@ Note all'art. 5:
  L'autorita' amministrativa, adita a norma del primo comma, ha facolta' di sospendere la riscossione delle imposte in contestazione.".
  - Si riportano il [terzo comma dell'art. 22](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972;642#art_22-com3), il [primo comma dell'art. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972;642#art_27-com1) nonche' gli [artt. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972;642#art_28), [29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972;642#art_29) e [34 del D.P.R. n. 642 del 1972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972;642#art_34), recante disciplina dell'imposta di bollo nel testo abrogato dall'art. 5 del presente decreto:
  "Art. 22 (Solidarieta'). - (Omissis).
- Indipendentemente dalle pene previste dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), il venditore o il locatore delle macchine bollatrici o chi comunque le da' in uso a qualsiasi titolo e' responsabile, in solido con l'utente, della imposta di bollo e delle sanzioni per le infrazioni rese possibili da difetti di costruzione delle macchine, da irregolare fornitura di punzoni o dall'omissione della comunicazione all'amministrazione finanziaria della vendita, della locazione o della dazione in uso delle macchine stesse.".
- "Art. 27. (Violazioni costituenti reati). - Nei casi di falsificazione, contraffazione e alterazione di valori bollati, di bollo a punzone o di attestazioni di pagamento delle imposte di bollo corrisposte in modo virtuale o con visto per bollo o mediamente l'uso di macchine bollatrici, oltre alle sanzioni previste dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono applicabili le pene pecuniarie e soprattasse stabilite dal presente decreto per il mancato pagamento dell'imposta ove dovuta.".
+ Indipendentemente dalle pene previste dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), il venditore o il locatore delle macchine bollatrici o chi comunque le da' in uso a qualsiasi titolo e' responsabile, in solido con l'utente, della imposta di bollo e delle sanzioni per le infrazioni rese possibili da difetti di costruzione delle macchine, da irregolare fornitura di punzoni o dall'omissione della comunicazione all'amministrazione finanziaria della vendita, della locazione o della dazione in uso delle macchine stesse.".
+ "Art. 27. (Violazioni costituenti reati). - Nei casi di falsificazione, contraffazione e alterazione di valori bollati, di bollo a punzone o di attestazioni di pagamento delle imposte di bollo corrisposte in modo virtuale o con visto per bollo o mediamente l'uso di macchine bollatrici, oltre alle sanzioni previste dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono applicabili le pene pecuniarie e soprattasse stabilite dal presente decreto per il mancato pagamento dell'imposta ove dovuta.".
  "Art. 28 (Pena pecuniaria per l'inosservanza di altre prescrizioni). - Chiunque, fuori dalle ipotesi previste negli articoli precedenti, non osservi le prescrizioni del presente decreto e della allegata tariffa e' soggetto alla pena pecuniaria da lire 8.000 a lire 120.000 per ciascuna infrazione.".
  "Art. 29 (Soprattassa per omesso o insufficiente pagamento dell'imposta). - Per l'omesso od insufficiente pagamento dell'imposta dovuta in modo virtuale, si applica una soprattassa pari al 10 per cento dell'imposta non versata.
  La soprattassa di cui al comma precedente e' ridotta alla meta' se il pagamento avviene entro il mese successivo alla scadenza e comunque prima della notifica della ingiunzione.".
@@ -342,7 +342,7 @@ Note all'art. 8:
 
 1.
 
-Al [regio decreto 30 dicembre 1923, n. 3278](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), concernente le tasse sui contratti di borsa, sono apportate le seguenti modificazioni:
+Al [regio decreto 30 dicembre 1923, n. 3278](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), concernente le tasse sui contratti di borsa, sono apportate le seguenti modificazioni:
                             a)
                                 all'articolo 16, nel terzo comma, le parole "con la pena pecuniaria da lire 8.000 a lire 20.000" sono sostituite dalle seguenti: "con la sanzione amministrativa da lire duecentomila a lire un milione";
                             b)
@@ -360,7 +360,7 @@ Al [regio decreto 30 dicembre 1923, n. 3278](../Atti%20normativi%20abrogati%20%2
 
 Note all'art. 9:
  - Si riporta il [comma 3 dell'art. 16 del R.D. n. 3278 del 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923;3278#art_16-com3) in materia di tasse sui contratti di borsa, cosi' modificato dall'art. 9 del presente decreto:
- "Art. 16. - Le infrazioni a queste disposizioni sono punite con la sanzione amministrativa da lire duecentomila a lire un milione salvo, quando ne sia il caso, l'applicazione delle maggiori pene comminate dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per la violazione dei segreti d'ufficio, oltre al risarcimento dei danni.".
+ "Art. 16. - Le infrazioni a queste disposizioni sono punite con la sanzione amministrativa da lire duecentomila a lire un milione salvo, quando ne sia il caso, l'applicazione delle maggiori pene comminate dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per la violazione dei segreti d'ufficio, oltre al risarcimento dei danni.".
  - Si riporta l'art. 17 del titolo X del R.D. summenzionato, cosi' modificato dall'art. 9 del presente decreto:
  "Titolo X
  S a n z i o n i
@@ -376,7 +376,7 @@ Note all'art. 9:
  L'azione penale per le contravvenzioni agli articoli citati nel precedente comma, si prescrive col decorso di due anni, dal giorno della commessa contravvenzione.
  Alle violazioni delle disposizioni previste dal presente decreto, si applicano altresi', in quanto compatibili, le disposizioni contemplate nel titolo VI del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 642](../DPR/Disciplina%20dellimposta%20di%20bollo.md).".
  - Si riporta il [comma 2 dell'art. 9 del D.L. n. 417 del 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991;417#art_9-com2), convertito con modificazioni della [legge n. 66 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;66) recante disposizioni concernenti criteri di applicazione dell'imposta sul valore aggiunto, delle tasse per i contratti di trasferimento di titoli o di valori e altre disposizioni tributarie urgenti, dal testo che viene abrogato dall'art. 9 del presente decreto:
- "2. Per le violazioni alle disposizioni recate dal [R.D. 30 dicembre 1923, n. 3278](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), e successive modificazioni, si applica quanto previsto dai titoli V e VI del [D.P.R. 26 ottobre 1972, n. 642](../DPR/Disciplina%20dellimposta%20di%20bollo.md), e successive modificazioni.".
+ "2. Per le violazioni alle disposizioni recate dal [R.D. 30 dicembre 1923, n. 3278](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), e successive modificazioni, si applica quanto previsto dai titoli V e VI del [D.P.R. 26 ottobre 1972, n. 642](../DPR/Disciplina%20dellimposta%20di%20bollo.md), e successive modificazioni.".
 
 ## Sanzioni in materia di tributi doganali e di imposte sulla produzione e sui consumi
 
@@ -427,7 +427,7 @@ Capo IV
 
 1.
 
-Al testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), sono apportate le seguenti 
+Al testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), sono apportate le seguenti 
  modificazioni:
                             a)
                                 l'articolo 292 e' sostituito dal seguente: 
@@ -439,7 +439,7 @@ Al testo unico per la finanza locale, approvato con [regio decreto 14 settembre 
 Note all'art. 11:
  - Si riporta l'[art. 296 del R.D. n. 1175 del 1931](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931;1175#art_296) in materia di finanza locale che viene abrogato dall'art. 11 del presente decreto:
  "Art. 296 (Sanzioni amministrative). - Salvo quanto e' disposto nel capo terzo del titolo terzo e salvo i casi in cui sia stabilita una pena piu' grave, le violazioni alle norme del presente testo unico riguardanti l'applicazione dei tributi e quelle dei relativi regolamenti sono punite, oltre che con le sanzioni civili comminate nei singoli casi, con la sanzione amministrativa da lire 10.000 a lire 500.000.
- Per l'accertamento e la definizione amministrativa delle contravvenzioni si osservano, in quanto applicabili, le norme degli articoli da 106 a 110 e 155 del testo unico della legge comunale e provinciale, approvata con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md).
+ Per l'accertamento e la definizione amministrativa delle contravvenzioni si osservano, in quanto applicabili, le norme degli articoli da 106 a 110 e 155 del testo unico della legge comunale e provinciale, approvata con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md).
  La misura dell'oblazione entro i limiti di cui sopra e' determinata discrezionalmente dal Podesta' o dal preside a seconda della rispettiva competenza.".
 
 ### Art. 12. — Sanzioni in materia di imposta comunale sulla pubblicita' e diritto  sulle pubbliche affissioni, di tassa per l'occupazione di spazi ed aree pubbliche e di tassa per lo smaltimento dei rifiuti solidi urbani.

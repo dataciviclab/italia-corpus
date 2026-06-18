@@ -1274,7 +1274,7 @@ Al temine del procedimento di opposizione l'Ufficio italiano brevetti e marchi i
 
 1.
 
-Ultimata la fase istruttoria di cui agli articoli 48 e 49, il dirigente responsabile dell'Ufficio Opposizione assegna l'opposizione o le eventuali opposizioni plurime, riunite ai sensi dell'articolo 178, comma 6, del Codice, agli esaminatori secondo l'ordine cronologico ai sensi dell'[articolo 12 del decreto del Presidente della Repubblica 16 aprile 2013, n. 62](../Regolamenti%20governativi/Regolamento%20recante%20codice%20di%20comportamento%20dei%20dipendenti%20pubblici%20a%20norma%20dellarticolo%2054%20del%20decreto%20legislativo%2030%20marzo%202001%20n.%20165.%2013G00104.md).
+Ultimata la fase istruttoria di cui agli articoli 48 e 49, il dirigente responsabile dell'Ufficio Opposizione assegna l'opposizione o le eventuali opposizioni plurime, riunite ai sensi dell'articolo 178, comma 6, del Codice, agli esaminatori secondo l'ordine cronologico ai sensi dell'[articolo 12 del decreto del Presidente della Repubblica 16 aprile 2013, n. 62](../DPR/Regolamento%20recante%20codice%20di%20comportamento%20dei%20dipendenti%20pubblici%20a%20norma%20dellarticolo%2054%20del%20decreto%20legislativo%2030%20marzo%202001%20n.%20165.%2013G00104.md).
 
 ))
 
@@ -1481,7 +1481,7 @@ Gli esaminatori, provenienti dall'Ufficio italiano brevetti e marchi, devono ast
 
 2.
 
-Gli esaminatori sono tenuti al rispetto del [decreto del Presidente della Repubblica 16 aprile 2013, n. 62](../Regolamenti%20governativi/Regolamento%20recante%20codice%20di%20comportamento%20dei%20dipendenti%20pubblici%20a%20norma%20dellarticolo%2054%20del%20decreto%20legislativo%2030%20marzo%202001%20n.%20165.%2013G00104.md), provvedono al deposito della decisione entro sessanta giorni dall'assegnazione del fascicolo da parte della Divisione competente e riferiscono sullo stato delle opposizioni assegnate con relazione semestrale al dirigente della stessa Divisione.
+Gli esaminatori sono tenuti al rispetto del [decreto del Presidente della Repubblica 16 aprile 2013, n. 62](../DPR/Regolamento%20recante%20codice%20di%20comportamento%20dei%20dipendenti%20pubblici%20a%20norma%20dellarticolo%2054%20del%20decreto%20legislativo%2030%20marzo%202001%20n.%20165.%2013G00104.md), provvedono al deposito della decisione entro sessanta giorni dall'assegnazione del fascicolo da parte della Divisione competente e riferiscono sullo stato delle opposizioni assegnate con relazione semestrale al dirigente della stessa Divisione.
 
 ))
 

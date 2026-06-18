@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Il personale di ruolo dell'Ispettorato generale della motorizzazione civile e dei trasporti in concessione, che abbia fruito per un periodo non inferiore a dieci anni, dopo la nomina in ruolo, della tessera prevista dall'[art. 16 del regio decreto 7 agosto 1909, n. 711](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20lannesso%20regolamento%20dellufficio%20speciale%20per%20le%20ferrovie.%20009U0711.md), ne conserva il godimento, a titolo di concessione personale, anche in caso di cessazione dal servizio preso l'ispettorato generale medesimo, purche' con diritto al trattamento di quiescenza.
+Il personale di ruolo dell'Ispettorato generale della motorizzazione civile e dei trasporti in concessione, che abbia fruito per un periodo non inferiore a dieci anni, dopo la nomina in ruolo, della tessera prevista dall'[art. 16 del regio decreto 7 agosto 1909, n. 711](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20dellufficio%20speciale%20per%20le%20ferrovie.%20009U0711.md), ne conserva il godimento, a titolo di concessione personale, anche in caso di cessazione dal servizio preso l'ispettorato generale medesimo, purche' con diritto al trattamento di quiescenza.
  Analoga concessione compete al personale di ruolo di altre Amministrazioni che, in servizio all'Ispettorato generale della motorizzazione civile e dei trasporti in concessione, abbia fruito, per un periodo ininterrotto non inferiore ai dieci anni, della tessera medesima.
 
 ## Art. 2.

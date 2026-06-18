@@ -26,8 +26,8 @@ Le disposizioni della [legge 24 agosto 1941, n. 1050](../Atti%20normativi%20abro
 
 ## Art. 2.
 
-L'efficacia delle disposizioni contenute nell'[art. 1, comma primo, del decreto legislativo luogotenenziale 19 ottobre 1945, n. 790](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20in%20favore%20dei%20militari%20prigionieri%20di%20guerra%20od%20internati%20raggiunti%20dai%20limiti%20di%20eta%20o%20di%20permanenza%20di%20grado%20o%20nella%20carica.%20045U0790.md), e' estesa fino al 15 aprile 1948.
- Nulla e' innovato al comma secondo del predetto [articolo 1 del decreto legislativo luogotenenziale 19 ottobre 1945, n. 790](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20in%20favore%20dei%20militari%20prigionieri%20di%20guerra%20od%20internati%20raggiunti%20dai%20limiti%20di%20eta%20o%20di%20permanenza%20di%20grado%20o%20nella%20carica.%20045U0790.md).
+L'efficacia delle disposizioni contenute nell'[art. 1, comma primo, del decreto legislativo luogotenenziale 19 ottobre 1945, n. 790](../Decreti%20legislativi%20luogotenenziali/Norme%20in%20favore%20dei%20militari%20prigionieri%20di%20guerra%20od%20internati%20raggiunti%20dai%20limiti%20di%20eta%20o%20di%20permanenza%20di%20grado%20o%20nella%20carica.%20045U0790.md), e' estesa fino al 15 aprile 1948.
+ Nulla e' innovato al comma secondo del predetto [articolo 1 del decreto legislativo luogotenenziale 19 ottobre 1945, n. 790](../Decreti%20legislativi%20luogotenenziali/Norme%20in%20favore%20dei%20militari%20prigionieri%20di%20guerra%20od%20internati%20raggiunti%20dai%20limiti%20di%20eta%20o%20di%20permanenza%20di%20grado%20o%20nella%20carica.%20045U0790.md).
 
 ## Art. 3.
 

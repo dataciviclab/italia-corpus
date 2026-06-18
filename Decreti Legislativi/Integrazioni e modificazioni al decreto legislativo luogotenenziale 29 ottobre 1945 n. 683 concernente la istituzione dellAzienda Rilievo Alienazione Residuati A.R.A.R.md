@@ -22,17 +22,17 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-All'[art. 1 del decreto legislativo luogotenenziale 29 ottobre 1945, n. 683](../Atti%20normativi%20abrogati%20%28in%20originale%29/Creazione%20presso%20il%20Ministero%20della%20ricostruzione%20di%20una%20Azienda%20autonoma%20per%20i%20residuati%20di%20guerra.%20045U0683.md), e' aggiunto il seguente comma:
+All'[art. 1 del decreto legislativo luogotenenziale 29 ottobre 1945, n. 683](../Decreti%20legislativi%20luogotenenziali/Creazione%20presso%20il%20Ministero%20della%20ricostruzione%20di%20una%20Azienda%20autonoma%20per%20i%20residuati%20di%20guerra.%20045U0683.md), e' aggiunto il seguente comma:
  "L'ingerenza dell'Azienda non si estende ai beni di pertinenza, di privati di nazionalita' germanica e di aziende tedesche sotto sequestro ne' ai crediti di organismi tedeschi in Italia verso persone di nazionalita' italiana".
 
 ## Art. 2.
 
-L'[art. 2 del decreto legislativo luogotenenziale 29 ottobre 1945, n. 683](../Atti%20normativi%20abrogati%20%28in%20originale%29/Creazione%20presso%20il%20Ministero%20della%20ricostruzione%20di%20una%20Azienda%20autonoma%20per%20i%20residuati%20di%20guerra.%20045U0683.md), e' integrato col seguente comma:
+L'[art. 2 del decreto legislativo luogotenenziale 29 ottobre 1945, n. 683](../Decreti%20legislativi%20luogotenenziali/Creazione%20presso%20il%20Ministero%20della%20ricostruzione%20di%20una%20Azienda%20autonoma%20per%20i%20residuati%20di%20guerra.%20045U0683.md), e' integrato col seguente comma:
  "Le facolta' di cui al precedente comma possono, dal Comitato Interministeriale per la Ricostruzione, essere delegate ad un ristretto Comitato composto del Ministro per il bilancio, del Ministro per il tesoro, del Ministro per l'industria e commercio e del Ministro per i trasporti".
 
 ## Art. 3.
 
-Nel capoverso dell'[art. 4 del decreto legislativo luogotenenziale 29 ottobre 1945, n. 683](../Atti%20normativi%20abrogati%20%28in%20originale%29/Creazione%20presso%20il%20Ministero%20della%20ricostruzione%20di%20una%20Azienda%20autonoma%20per%20i%20residuati%20di%20guerra.%20045U0683.md), sono soppresse le parole "il quale potra' ad essi delegare, sotto la sua responsabilita', talune delle proprie attribuzioni".
+Nel capoverso dell'[art. 4 del decreto legislativo luogotenenziale 29 ottobre 1945, n. 683](../Decreti%20legislativi%20luogotenenziali/Creazione%20presso%20il%20Ministero%20della%20ricostruzione%20di%20una%20Azienda%20autonoma%20per%20i%20residuati%20di%20guerra.%20045U0683.md), sono soppresse le parole "il quale potra' ad essi delegare, sotto la sua responsabilita', talune delle proprie attribuzioni".
 
 ## Art. 4.
 
@@ -40,7 +40,7 @@ L'Azienda Rilievo Alienazione Residuati (A.R.A.R.), per l'adempimento dei compit
 
 ## Art. 5.
 
-L'Azienda Rilievo Alienazione Residuati (A.R.A.R.) per le eventuali operazioni di esportazione dei materiali di cui all'[art. 1 del decreto legislativo luogotenenziale 29 ottobre 1945, n. 683](../Atti%20normativi%20abrogati%20%28in%20originale%29/Creazione%20presso%20il%20Ministero%20della%20ricostruzione%20di%20una%20Azienda%20autonoma%20per%20i%20residuati%20di%20guerra.%20045U0683.md), puo' essere autorizzata dal Ministero del tesoro a costituire o rilevare, se del caso, una societa' commerciale a carattere nazionale.
+L'Azienda Rilievo Alienazione Residuati (A.R.A.R.) per le eventuali operazioni di esportazione dei materiali di cui all'[art. 1 del decreto legislativo luogotenenziale 29 ottobre 1945, n. 683](../Decreti%20legislativi%20luogotenenziali/Creazione%20presso%20il%20Ministero%20della%20ricostruzione%20di%20una%20Azienda%20autonoma%20per%20i%20residuati%20di%20guerra.%20045U0683.md), puo' essere autorizzata dal Ministero del tesoro a costituire o rilevare, se del caso, una societa' commerciale a carattere nazionale.
 
 ## Art. 6.
 

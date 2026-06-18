@@ -24,7 +24,7 @@ Piena ed intera esecuzione e' data alla Convenzione indicata nell'articolo prece
 
 ## Art. 3.
 
-L'[art. 92 del regio decreto 29 giugno 1939, n. 1127](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), e' sostituito dal seguente:
+L'[art. 92 del regio decreto 29 giugno 1939, n. 1127](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), e' sostituito dal seguente:
  "Le domande di brevetto per invenzioni industriali si depositano in Roma presso l'Ufficio centrale brevetti o nei capoluoghi di provincia presso le Camere di commercio, industria e agricoltura.
  E' consentito l'invio delle domande e dei relativi documenti mediante il servizio postale con plico raccomandato, con avviso di ricevimento, diretto all'Ufficio centrale brevetti in Roma.
  In tal caso si considera data del deposito quella risultante dal verbale, che deve essere redatto all'atto del ricevimento dal predetto Ufficio con indicazione anche dell'ora dell'avvenuto ricevimento del plico".

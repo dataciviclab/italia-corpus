@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 Il [decreto legislativo 7 maggio 1948, n. 1090](../Decreti%20Legislativi/Aumento%20delle%20tasse%20e%20degli%20emolumenti%20che%20i%20Comuni%20e%20le%20Province%20sono%20autorizzati%20ad%20esigere%20per%20la%20spedizione%20ordinaria%20ed%20urgente%20degli%20atti%20anagrafici%20di%20stato%20civile%20delle%20carte%20di%20i_d2cd51968ebe.md), e' ratificato con la seguente modificazione:
  Art. 3. - E' sostituito dal seguente:
- "La quota massima dei diritti di segreteria spettante ai segretari provinciali e comunali, a termini degli articoli 142, secondo comma, e 205, ultimo comma, del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), e' commisurata alla meta' delle stipendio e della indennita' caroviveri percepiti dai segretari stessi".
+ "La quota massima dei diritti di segreteria spettante ai segretari provinciali e comunali, a termini degli articoli 142, secondo comma, e 205, ultimo comma, del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), e' commisurata alla meta' delle stipendio e della indennita' caroviveri percepiti dai segretari stessi".
 
 ## Art. 2.
 

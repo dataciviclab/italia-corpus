@@ -42,7 +42,7 @@ Sono convertiti in legge i seguenti decreti-legge:
  
  21 gennaio 1926, n. 155, concernente storno di fondi fra capitoli dello stato di previsione della spesa del Ministero degli affari esteri, per l'esercizio finanziario 1925-26. 
  
- 22 gennaio 1926, n. 153, per modificazioni al [R. decreto 18 marzo 1923, n. 577](../Atti%20normativi%20abrogati%20%28in%20originale%29/Contenente%20norme%20per%20il%20pagamento%20dei%20debiti%20dei%20Comuni%20verso%20i%20Consorzi%20provinciali%20granari%20e%20dei%20debiti%20dei%20Consorzi%20verso%20lo%20Stato%20nonche%20norme%20per%20la%20devoluzione%20degli%20utili%20conseguit_7415d52e6886.md), contenente norme per il pagamento dei debiti dei Comuni verso i consorzi provinciali granari e dei debiti dei consorzi verso lo Stato. 
+ 22 gennaio 1926, n. 153, per modificazioni al [R. decreto 18 marzo 1923, n. 577](../Regi%20decreti/Contenente%20norme%20per%20il%20pagamento%20dei%20debiti%20dei%20Comuni%20verso%20i%20Consorzi%20provinciali%20granari%20e%20dei%20debiti%20dei%20Consorzi%20verso%20lo%20Stato%20nonche%20norme%20per%20la%20devoluzione%20degli%20utili%20conseguit_7415d52e6886.md), contenente norme per il pagamento dei debiti dei Comuni verso i consorzi provinciali granari e dei debiti dei consorzi verso lo Stato. 
  
  4 febbraio 1926, n. 154, relativo a maggiore assegnazione allo stato di previsione della spesa del Ministero dell'interno per l'esercizio finanziario 1925-26, per soprassoldo alle truppe in servizio speciale di pubblica sicurezza. 
  
@@ -90,7 +90,7 @@ Sono convertiti in legge i seguenti decreti-legge:
  
  7 febbraio 1926, n. 204, recante miglioramento di carriera al personale civile insegnante della Regia accademia navale. 
  
- 7 febbraio 1926, n. 205, che porta modificazioni all'[articolo 3 del R. decreto 10 settembre 1923, n. 2068](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20e%20aggiunte%20allordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20023U2068.md), sul reclutamento e avanzamento degli ufficiali delle Capitanerie di porto. 
+ 7 febbraio 1926, n. 205, che porta modificazioni all'[articolo 3 del R. decreto 10 settembre 1923, n. 2068](../Regi%20decreti/Modificazioni%20e%20aggiunte%20allordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20023U2068.md), sul reclutamento e avanzamento degli ufficiali delle Capitanerie di porto. 
  
  Ministero dei lavori pubblici. 
  
@@ -106,7 +106,7 @@ Sono convertiti in legge i seguenti decreti-legge:
  
  Art. 2, ultimo comma: 
  
- «I limiti della competenza degli ispettori superiori, in rapporto con quella del Consiglio superiore, sono stabiliti, per le diverse specie di progetti di contratto, dal decreto in data 28 agosto 1924, n. 1396, che modifica il [R. decreto 8 febbraio 1923, n. 422](../Atti%20normativi%20abrogati%20%28in%20originale%29/Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md)». 
+ «I limiti della competenza degli ispettori superiori, in rapporto con quella del Consiglio superiore, sono stabiliti, per le diverse specie di progetti di contratto, dal decreto in data 28 agosto 1924, n. 1396, che modifica il [R. decreto 8 febbraio 1923, n. 422](../Regi%20decreti/Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md)». 
  
  Art. 6, n. 8: 
  
@@ -171,7 +171,7 @@ Sono convertiti in legge i seguenti decreti-legge:
  
  «Le competenti sezioni del Consiglio dei lavori pubblici o i Comitati di cui all'art. 10 esprimono il loro parere: 
  
- «1° sui progetti esecutivi di opere di conto dello Stato o che si eseguono col concorso o col sussidio dello Stato, sulle variazioni od aggiunte a progetti gia' approvati, sulle proposte di esecuzione dei lavori a trattativa privata o in economia, sulle proposte di risoluzione o rescissione dei contratti, sulle questioni con le imprese per variazione dei prezzi, per maggiori compensi e per esonero di penalita', nei casi indicati dagli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-28;1396#art_1), [5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-28;1396#art_5), [7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-28;1396#art_7) e [8 del R. decreto in data 28 agosto 1924, numero 1396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-28;1396#art_8), che modifica il [R. decreto 8 febbraio 1923, n. 422](../Atti%20normativi%20abrogati%20%28in%20originale%29/Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md), e dalle altre leggi e regolamenti in vigore». 
+ «1° sui progetti esecutivi di opere di conto dello Stato o che si eseguono col concorso o col sussidio dello Stato, sulle variazioni od aggiunte a progetti gia' approvati, sulle proposte di esecuzione dei lavori a trattativa privata o in economia, sulle proposte di risoluzione o rescissione dei contratti, sulle questioni con le imprese per variazione dei prezzi, per maggiori compensi e per esonero di penalita', nei casi indicati dagli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-28;1396#art_1), [5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-28;1396#art_5), [7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-28;1396#art_7) e [8 del R. decreto in data 28 agosto 1924, numero 1396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-28;1396#art_8), che modifica il [R. decreto 8 febbraio 1923, n. 422](../Regi%20decreti/Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md), e dalle altre leggi e regolamenti in vigore». 
  
  Art. 20: 
  
@@ -228,7 +228,7 @@ Sono convertiti in legge i seguenti decreti-legge:
  
  L'art. 1 e' modificato come segue: 
  
- «I membri elettivi che fan parte delle Commissioni delle ricevitorie, centrali e provinciali, ai sensi del [R. decreto-legge 2 ottobre 1919, n. 2100](../Atti%20normativi%20abrogati%20%28in%20originale%29/che%20stabilisce%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20e%20telefoniche%20dettando%20norme%20sul%20relativo%20personale%20e%20deferendo%20le%20controversie%20di%20carattere%20economico%20fra%20lAmministrazi_a149720d02ac.md), e del regolamento approvato con il [R. decreto 13 febbraio 1921, n. 196](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%202%20ottobre%201919%20n.%202100%20modificato%20col%20R.%20decreto-legge%2030%20settembre%201920%20n.%201441%20riflettente%20lordinamento%20delle%20ricevitorie_1844c5b600cd.md), sono confermati in carica sino al 31 dicembre 1925». 
+ «I membri elettivi che fan parte delle Commissioni delle ricevitorie, centrali e provinciali, ai sensi del [R. decreto-legge 2 ottobre 1919, n. 2100](../Atti%20normativi%20abrogati%20%28in%20originale%29/che%20stabilisce%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20e%20telefoniche%20dettando%20norme%20sul%20relativo%20personale%20e%20deferendo%20le%20controversie%20di%20carattere%20economico%20fra%20lAmministrazi_a149720d02ac.md), e del regolamento approvato con il [R. decreto 13 febbraio 1921, n. 196](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%202%20ottobre%201919%20n.%202100%20modificato%20col%20R.%20decreto-legge%2030%20settembre%201920%20n.%201441%20riflettente%20lordinamento%20delle%20ricevitorie_1844c5b600cd.md), sono confermati in carica sino al 31 dicembre 1925». 
  
  Tabella B. 
  

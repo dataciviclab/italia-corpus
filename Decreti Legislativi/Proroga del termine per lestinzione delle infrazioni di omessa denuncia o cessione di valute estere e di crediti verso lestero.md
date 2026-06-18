@@ -16,9 +16,9 @@ Visto il decreto Ministeriale 8 dicembre 1934, pubblicato nella Gazzetta Ufficia
 
 Visto il decreto Ministeriale 14 luglio 1943, pubblicato nella Gazzetta Ufficiale del 22 luglio 1943, n. 168, relativo alla cessione obbligatoria della valuta estera;
 
-Visto il [decreto legislativo luogotenenziale 17 maggio 1945, n. 331](../Atti%20normativi%20abrogati%20%28in%20originale%29/Costituzione%20dellUfficio%20italiano%20dei%20cambi%20e%20passaggio%20a%20questultimo%20delle%20funzioni%20dellistituto%20nazionale%20per%20i%20cambi%20con%20lestero.%20045U0331.md), concernente la costituzione dell'Ufficio italiano dei cambi;
+Visto il [decreto legislativo luogotenenziale 17 maggio 1945, n. 331](../Decreti%20legislativi%20luogotenenziali/Costituzione%20dellUfficio%20italiano%20dei%20cambi%20e%20passaggio%20a%20questultimo%20delle%20funzioni%20dellistituto%20nazionale%20per%20i%20cambi%20con%20lestero.%20045U0331.md), concernente la costituzione dell'Ufficio italiano dei cambi;
 
-Visto il [decreto legislativo luogotenenziale 26 marzo 1946, n. 139](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20sulla%20cessione%20delle%20valute%20estere%20allo%20Stato.md), concernente nuove norme sulla cessione delle valute estere allo Stato;
+Visto il [decreto legislativo luogotenenziale 26 marzo 1946, n. 139](../Decreti%20legislativi%20luogotenenziali/Nuove%20norme%20sulla%20cessione%20delle%20valute%20estere%20allo%20Stato.md), concernente nuove norme sulla cessione delle valute estere allo Stato;
 
 Visto il decreto Ministeriale 20 agosto 1946, pubblicato nella Gazzetta Ufficiale del 31 agosto 1946, n. 196, relativo alle agevolazioni valutarie ad armatori e noleggiatori italiani di navi mercantili circa la cessione della valuta proveniente dai noli ricavati dall'esercizio della navigazione;
 

@@ -23,7 +23,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 ## Articolo unico.
 
 Le agevolazioni fiscali, previste nella [legge 23 marzo 1940, n. 285](../Atti%20normativi%20abrogati%20%28in%20originale%29/Agevolazioni%20fiscali%20a%20favore%20della%20industria%20e%20del%20commercio%20dei%20marmi%20nelle%20provincie%20di%20Apuania%20e%20di%20Lucca.%20040U0285.md), a favore dell'industria e del commercio dei marmi nelle province di Apuania e di Lucca, sono applicabili fino al 31 dicembre 1948.
- A decorrere dal 1 luglio 1947 e' elevata a cento volte la misura della tassa unica stabilita dall'[art. 2 del regio decreto 30 luglio 1940, n. 1236](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20di%20applicazione%20della%20legge%2023%20marzo%201940-XVIII%20n.%20285%20recante%20agevolazioni%20tributarie%20a%20favore%20dellindustria%20e%20del%20commercio%20dei%20marmi%20nelle%20provincie%20di%20Apuania%20e%20di%20Lucca.%20040U1236.md).
+ A decorrere dal 1 luglio 1947 e' elevata a cento volte la misura della tassa unica stabilita dall'[art. 2 del regio decreto 30 luglio 1940, n. 1236](../Regi%20decreti/Norme%20di%20applicazione%20della%20legge%2023%20marzo%201940-XVIII%20n.%20285%20recante%20agevolazioni%20tributarie%20a%20favore%20dellindustria%20e%20del%20commercio%20dei%20marmi%20nelle%20provincie%20di%20Apuania%20e%20di%20Lucca.%20040U1236.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

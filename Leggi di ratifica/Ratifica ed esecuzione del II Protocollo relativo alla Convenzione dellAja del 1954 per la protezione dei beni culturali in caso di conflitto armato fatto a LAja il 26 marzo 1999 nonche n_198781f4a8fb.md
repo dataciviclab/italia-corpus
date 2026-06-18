@@ -162,7 +162,7 @@ Non e' punibile chi commette i fatti di cui agli articoli 7 e 8 per esservi cost
 
 1.
 
-I reati di cui agli articoli 7, 8, 9, 10, 11 e 12 sono reati militari. Si applica l'[articolo 27, primo comma, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace.
+I reati di cui agli articoli 7, 8, 9, 10, 11 e 12 sono reati militari. Si applica l'[articolo 27, primo comma, del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace.
 
 2.
 

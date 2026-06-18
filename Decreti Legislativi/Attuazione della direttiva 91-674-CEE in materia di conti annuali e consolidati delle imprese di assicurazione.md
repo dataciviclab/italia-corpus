@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Visto l'[articolo 20 della legge 22 febbraio 1994, n. 146](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201993.md), legge comunitaria per il 1993, recante delega al Governo per l'attuazione della [direttiva 91/674/CEE, del Consiglio del 19 dicembre 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;674);
 
-Vista la [legge 6 febbraio 1996, n. 52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), legge comunitaria per il 1994, ed in particolare l'articolo 6, comma 1;
+Vista la [legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), legge comunitaria per il 1994, ed in particolare l'articolo 6, comma 1;
 
 Visto il [decreto del Presidente della Repubblica 13 febbraio 1959, n. 449](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullesercizio%20delle%20assicurazioni%20private.md), che approva il testo unico delle leggi sull'esercizio delle assicurazioni private;
 
@@ -62,7 +62,7 @@ TITOLO I
 
 1.
 
-Le indicazioni formali relative alle voci, alle lettere, ai numeri romani ed arabi contenute nelle disposizioni di cui agli articoli 15, 16, 17, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 30, 38, 41, 55 e 56 si intendono riferite alle corrispondenti classificazioni utilizzate nello schema del bilancio di esercizio adottato con il regolamento di cui all'[articolo 90, comma 1, del codice delle assicurazioni private](../Codici/Codice%20delle%20assicurazioni%20private.md).
+Le indicazioni formali relative alle voci, alle lettere, ai numeri romani ed arabi contenute nelle disposizioni di cui agli articoli 15, 16, 17, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 30, 38, 41, 55 e 56 si intendono riferite alle corrispondenti classificazioni utilizzate nello schema del bilancio di esercizio adottato con il regolamento di cui all'[articolo 90, comma 1, del codice delle assicurazioni private](Codice%20delle%20assicurazioni%20private.md).
 
 ))
 
@@ -211,7 +211,7 @@ Per gli elementi dell'attivo ad utilizzo durevole consistenti in partecipazioni 
 
 5.
 
-Gli elementi dell'attivo ad utilizzo durevole consistenti in partecipazioni in imprese controllate o collegate possono essere valutati, con riferimento ad una o piu' di dette imprese, anziche' secondo il criterio del costo indicato al comma 1, per un importo pari alla corrispondente frazione del patrimonio netto risultante dall'ultimo bilancio delle imprese medesime, detratti i dividendi ed operate le rettifiche richieste dai principi di redazione del bilancio consolidato nonche' quelle necessarie per il rispetto dei principi richiamati nell'[articolo 89, comma 1, del codice delle assicurazioni private](../Codici/Codice%20delle%20assicurazioni%20private.md). Quando la partecipazione e' iscritta per la prima volta in base a tale metodo, il costo di acquisto superiore al valore corrispondente del patrimonio netto risultante dall'ultimo bilancio dell'impresa controllata o collegata puo' essere iscritto nell'attivo, purche' ne siano indicate le ragioni nella nota integrativa e la differenza, per la parte attribuibile a beni ammortizzabili o all'avviamento, deve essere ammortizzata. Negli esercizi successivi le plusvalenze, derivanti dall'applicazione del predetto metodo, rispetto al valore indicato nel bilancio dell'esercizio precedente, sono iscritte in una riserva non distribuibile.
+Gli elementi dell'attivo ad utilizzo durevole consistenti in partecipazioni in imprese controllate o collegate possono essere valutati, con riferimento ad una o piu' di dette imprese, anziche' secondo il criterio del costo indicato al comma 1, per un importo pari alla corrispondente frazione del patrimonio netto risultante dall'ultimo bilancio delle imprese medesime, detratti i dividendi ed operate le rettifiche richieste dai principi di redazione del bilancio consolidato nonche' quelle necessarie per il rispetto dei principi richiamati nell'[articolo 89, comma 1, del codice delle assicurazioni private](Codice%20delle%20assicurazioni%20private.md). Quando la partecipazione e' iscritta per la prima volta in base a tale metodo, il costo di acquisto superiore al valore corrispondente del patrimonio netto risultante dall'ultimo bilancio dell'impresa controllata o collegata puo' essere iscritto nell'attivo, purche' ne siano indicate le ragioni nella nota integrativa e la differenza, per la parte attribuibile a beni ammortizzabili o all'avviamento, deve essere ammortizzata. Negli esercizi successivi le plusvalenze, derivanti dall'applicazione del predetto metodo, rispetto al valore indicato nel bilancio dell'esercizio precedente, sono iscritte in una riserva non distribuibile.
 
 6.
 
@@ -235,13 +235,13 @@ Tuttavia tale maggior costo puo' essere ammortizzato per quote nel periodo inter
 Il minor costo dei titoli obbligazionari ad utilizzo durevole rispetto al loro prezzo di rimborso puo' essere iscritto tra i proventi per quote nello stesso periodo. Le differenze predette sono indicate separatamente nella nota integrativa. 
  ((16-bis. Fermo restando quanto disposto dal primo comma dell'articolo 2427-bis del codice civile, gli strumenti finanziari derivati, anche se incorporati in altri strumenti finanziari, sono iscritti e valutati in conformita' alle disposizioni di cui all'articolo 90, comma 1, del codice delle assicurazioni private.))
                                 ((7)) 
- 17. COMMA ABROGATO DAL [D.LGS. 7 SETTEMBRE 2005, N. 209](../Codici/Codice%20delle%20assicurazioni%20private.md)
+ 17. COMMA ABROGATO DAL [D.LGS. 7 SETTEMBRE 2005, N. 209](Codice%20delle%20assicurazioni%20private.md)
 
 ---------------
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 2 febbraio 2007, n. 32](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202003-51-CE%20che%20modifica%20le%20direttive%2078-660%2083-349%2086-635%20e%2091-674-CEE%20relative%20ai%20conti%20annuali%20e%20ai%20conti%20consolidati%20di%20taluni%20tipi%20di%20societa%20delle%20banche%20e_9e14ba9eb406.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto si applicano ai bilanci relativi agli esercizi aventi inizio dalla data successiva a quella della sua entrata in vigore."
+Il [D.Lgs. 2 febbraio 2007, n. 32](Attuazione%20della%20direttiva%202003-51-CE%20che%20modifica%20le%20direttive%2078-660%2083-349%2086-635%20e%2091-674-CEE%20relative%20ai%20conti%20annuali%20e%20ai%20conti%20consolidati%20di%20taluni%20tipi%20di%20societa%20delle%20banche%20e_9e14ba9eb406.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto si applicano ai bilanci relativi agli esercizi aventi inizio dalla data successiva a quella della sua entrata in vigore."
 
 ---------------
 
@@ -429,7 +429,7 @@ Nella nota integrativa e' fornito il dettaglio della voce di cui al comma 1 in c
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 3 novembre 2003, n. 307](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%202002-12-CE%20e%202002-13-CE%20concernenti%20il%20margine%20di%20solvibilita%20delle%20imprese%20di%20assicurazione%20rispettivamente%20sulla%20vita%20e%20nei%20rami%20diversi%20dallassicurazione%20sulla%20vita.md) ha disposto (con l'art. 20, comma 1) che la suddetta modifica si applica a decorrere dal bilancio dell'esercizio 2004.
+Il [D.Lgs. 3 novembre 2003, n. 307](Attuazione%20delle%20direttive%202002-12-CE%20e%202002-13-CE%20concernenti%20il%20margine%20di%20solvibilita%20delle%20imprese%20di%20assicurazione%20rispettivamente%20sulla%20vita%20e%20nei%20rami%20diversi%20dallassicurazione%20sulla%20vita.md) ha disposto (con l'art. 20, comma 1) che la suddetta modifica si applica a decorrere dal bilancio dell'esercizio 2004.
 
 ### Art. 29. — Altre riserve
 
@@ -456,15 +456,15 @@ La voce B "passivita' subordinate" comprende i debiti, rappresentati o meno da t
 
 1.
 
-COMMA ABROGATO DAL [D.LGS. 7 SETTEMBRE 2005 N. 209](../Codici/Codice%20delle%20assicurazioni%20private.md).
+COMMA ABROGATO DAL [D.LGS. 7 SETTEMBRE 2005 N. 209](Codice%20delle%20assicurazioni%20private.md).
 
 2.
 
-Le imprese che esercitano le assicurazioni nei rami danni devono costituire alla fine di ciascun esercizio le riserve tecniche ((di cui al regolamento previsto dall'articolo 90, comma 1,)) del [codice delle assicurazioni private](../Codici/Codice%20delle%20assicurazioni%20private.md).
+Le imprese che esercitano le assicurazioni nei rami danni devono costituire alla fine di ciascun esercizio le riserve tecniche ((di cui al regolamento previsto dall'articolo 90, comma 1,)) del [codice delle assicurazioni private](Codice%20delle%20assicurazioni%20private.md).
 
 3.
 
-Le imprese che esercitano le assicurazioni nei rami vita devono costituire alla fine di ciascun esercizio le riserve tecniche previste ((dal regolamento di cui all'articolo 90, comma 1,)) del [codice delle assicurazioni private](../Codici/Codice%20delle%20assicurazioni%20private.md).
+Le imprese che esercitano le assicurazioni nei rami vita devono costituire alla fine di ciascun esercizio le riserve tecniche previste ((dal regolamento di cui all'articolo 90, comma 1,)) del [codice delle assicurazioni private](Codice%20delle%20assicurazioni%20private.md).
 
 4.
 

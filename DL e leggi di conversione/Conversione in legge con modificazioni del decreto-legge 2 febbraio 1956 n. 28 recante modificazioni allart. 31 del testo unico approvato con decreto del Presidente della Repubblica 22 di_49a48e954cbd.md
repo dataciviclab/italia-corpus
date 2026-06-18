@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-E' convertito in legge il [decreto-legge 2 febbraio 1956, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1956-02-02;28), recante modificazioni all'art. 31 del testo unico approvato con [decreto del Presidente della Repubblica 22 dicembre 1954, n. 1217](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20fiscale%20della%20lavorazione%20dei%20semi%20oleosi%20e%20degli%20oli%20da%20essi%20ottenuti.md), con le seguenti modificazioni:
+E' convertito in legge il [decreto-legge 2 febbraio 1956, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1956-02-02;28), recante modificazioni all'art. 31 del testo unico approvato con [decreto del Presidente della Repubblica 22 dicembre 1954, n. 1217](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20fiscale%20della%20lavorazione%20dei%20semi%20oleosi%20e%20degli%20oli%20da%20essi%20ottenuti.md), con le seguenti modificazioni:
 
  Al primo comma dell'articolo unico, le parole: "se e' superiore a 2 quintali", sono sostituite con le altre:
  "se e' superiore a 3 quintali".

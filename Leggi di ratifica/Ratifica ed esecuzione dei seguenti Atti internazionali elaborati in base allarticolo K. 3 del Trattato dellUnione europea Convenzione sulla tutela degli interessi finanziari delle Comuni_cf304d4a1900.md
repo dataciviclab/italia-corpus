@@ -30,7 +30,7 @@ Piena ed intera esecuzione e' data agli Atti internazionali indicati nell'artico
 
 1.
 
-Dopo l'[articolo 322 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono inseriti i seguenti: 
+Dopo l'[articolo 322 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono inseriti i seguenti: 
  
 "Art. 322-bis. - (Peculato, concussione, corruzione e istigazione alla corruzione di membri degli organi delle Comunita' europee e di funzionari delle Comunita' europee e di Stati esteri). - Le disposizioni degli articoli 314, 316, da 317 a 320 e 322, terzo e quarto comma, si applicano anche: 
  
@@ -60,7 +60,7 @@ Nei casi di cui ai commi primo e secondo, il giudice, con la sentenza di condann
 
 2.
 
-Dopo l'[articolo 640-ter del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' inserito il seguente: 
+Dopo l'[articolo 640-ter del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' inserito il seguente: 
  
 "Art. 640-quater. - (Applicabilita' dell'articolo 322-ter). - Nei casi di cui agli articoli 640, secondo comma, numero 1, 640-bis e 640-ter, secondo comma, con esclusione dell'ipotesi in cui il fatto e' commesso con abuso della qualita' di operatore del sistema, si osservano, in quanto applicabili, le disposizioni contenute nell'articolo 322-ter".
 
@@ -68,7 +68,7 @@ Dopo l'[articolo 640-ter del codice penale](../Codici/Approvazione%20del%20testo
 
 1.
 
-Dopo l'[articolo 316-bis del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' inserito il seguente: 
+Dopo l'[articolo 316-bis del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' inserito il seguente: 
  
 "Art. 316-ter. - (Indebita percezione di erogazioni a danno dello Stato). - Salvo che il fatto costituisca il reato previsto dall'articolo 640-bis, chiunque mediante l'utilizzo o la presentazione di dichiarazioni o di documenti falsi o attestanti cose non vere, ovvero mediante l'omissione di informazioni dovute, consegue indebitamente, per se' o per altri, contributi, finanziamenti, mutui agevolati o altre erogazioni dello stesso tipo, comunque denominate, concessi o erogati dallo Stato, da altri enti pubblici o dalle Comunita' europee e' punito con la reclusione da sei mesi a tre anni. 
  
@@ -78,21 +78,21 @@ Quando la somma indebitamente percepita e' pari o inferiore a lire sette milioni
 
 1.
 
-All'[articolo 9, terzo comma, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), le parole: "a danno di uno Stato estero", sono sostituite dalle seguenti: "a danno delle Comunita' europee, di uno Stato estero".
+All'[articolo 9, terzo comma, del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), le parole: "a danno di uno Stato estero", sono sostituite dalle seguenti: "a danno delle Comunita' europee, di uno Stato estero".
 
 2.
 
-All'[articolo 10, secondo comma, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), le parole: "a danno di uno Stato estero", sono sostituite dalle seguenti: "a danno delle Comunita' europee, di uno Stato estero".
+All'[articolo 10, secondo comma, del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), le parole: "a danno di uno Stato estero", sono sostituite dalle seguenti: "a danno delle Comunita' europee, di uno Stato estero".
 
 ## Art. 6. — (Modifiche agli articoli 32-quater e 323-bis del codice penale)
 
 1.
 
-All'articolo 32-quarer del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dopo la parola: "316-bis" e' inserita la seguente: ", 316-ter", e dopo la parola: "322" e' inserita la seguente: ", 322-bis".
+All'articolo 32-quarer del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dopo la parola: "316-bis" e' inserita la seguente: ", 316-ter", e dopo la parola: "322" e' inserita la seguente: ", 322-bis".
 
 2.
 
-All'[articolo 323-bis del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dopo la parola: "316-bis" e' inserita la seguente: ", 316-ter", e dopo la parola: "322" e' inserita la seguente: ", 322-bis".
+All'[articolo 323-bis del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dopo la parola: "316-bis" e' inserita la seguente: ", 316-ter", e dopo la parola: "322" e' inserita la seguente: ", 322-bis".
 
 ## Art. 7. — (Modifica all'articolo 295 del testo unico approvato con decreto del Presidente della Repubblica 23 gennaio 1973, n. 43, in materia di reati doganali)
 
@@ -127,11 +127,11 @@ Nel secondo periodo del [comma 1 dell'articolo 2 della legge 23 dicembre 1986, n
 
 Il Governo della Repubblica e' delegato ad emanare, entro otto mesi dalla data di entrata in vigore della presente legge, un decreto legislativo avente ad oggetto la disciplina della responsabilita' amministrativa delle persone giuridiche e delle societa', associazioni od enti privi di personalita' giuridica che non svolgono funzioni di rilievo costituzionale, con l'osservanza dei seguenti principi e criteri direttivi:
                         a)
-                            prevedere la responsabilita' in relazione alla commissione dei reati di cui agli articoli 316-bis, 316-ter, 317, 318, 319, 319-bis, 319-ter, 320, 321, 322, 322-bis, 640, secondo comma, numero 1, 640-bis e 640-ter, secondo comma, con esclusione dell'ipotesi in cui il fatto e' commesso con abuso della qualita' di operatore del sistema, del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+                            prevedere la responsabilita' in relazione alla commissione dei reati di cui agli articoli 316-bis, 316-ter, 317, 318, 319, 319-bis, 319-ter, 320, 321, 322, 322-bis, 640, secondo comma, numero 1, 640-bis e 640-ter, secondo comma, con esclusione dell'ipotesi in cui il fatto e' commesso con abuso della qualita' di operatore del sistema, del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
                         b)
-                            prevedere la responsabilita' in relazione alla commissione dei reati relativi alla tutela dell'incolumita' pubblica previsti dal titolo sesto del libro secondo del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+                            prevedere la responsabilita' in relazione alla commissione dei reati relativi alla tutela dell'incolumita' pubblica previsti dal titolo sesto del libro secondo del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
                         c)
-                            prevedere la responsabilita' in relazione alla commissione dei reati previsti dagli [articoli 589](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [590 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) che siano stati commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro o relative alla tutela dell'igiene e della salute sul lavoro;
+                            prevedere la responsabilita' in relazione alla commissione dei reati previsti dagli [articoli 589](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [590 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) che siano stati commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro o relative alla tutela dell'igiene e della salute sul lavoro;
                         d)
                             prevedere la responsabilita' in relazione alla commissione dei reati in materia di tutela dell'ambiente e del territorio, che siano punibili con pena detentiva non inferiore nel massimo ad un anno anche se alternativa alla pena pecuniaria, previsti dalla [legge 31 dicembre 1962, n. 1860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-31;1860), dalla [legge 14 luglio 1965, n. 963](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20della%20pesca%20marittima.md), dalla [legge 31 dicembre 1982, n. 979](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-12-31;979), dalla [legge 28 febbraio 1985, n. 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-28;47), e successive modificazioni, dal [decreto-legge 27 giugno 1985, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-06-27;312), convertito, con modificazioni, dalla [legge 8 agosto 1985, n. 431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;431), dal [decreto del Presidente della Repubblica 24 maggio 1988, n. 203](../DPR/Attuazione%20delle%20direttive%20CEE%20numeri%2080-779%2082-884%2084-360%20e%2085-203%20concernenti%20norme%20in%20materia%20di%20qualita%20dellaria%20relativamente%20a%20specifici%20agenti%20inquinanti%20e%20di%20inquinamento%20prodotto_78c2a13bac87.md), dalla [legge 6 dicembre 1991, n. 394](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-06;394), dal [decreto legislativo 27 gennaio 1992, n. 95](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2075-439-CEE%20e%20n.%2087-101-CEE%20relative%20alla%20eliminazione%20degli%20olii%20usati.md), dal [decreto legislativo 27 gennaio 1992, n. 99](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2086-278-CEE%20concernente%20la%20protezione%20dellambiente%20in%20particolare%20del%20suolo%20nellutilizzazione%20dei%20fanghi%20di%20depurazione%20in%20agricoltura.md), dal [decreto legislativo 17 marzo 1995, n. 230](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20delle%20direttive%2089-618-Euratom%2090-641-Euratom%2096-29-Euratom%202006-117-Euratom%20in%20materia%20di%20radiazioni%20ionizzanti%202009-71-Euratom%20in%20materia%20di%20sicurezza%20nucleare%20degli%20impianti_d604ed65f72e.md), dal [decreto legislativo 5 febbraio 1997, n. 22](../Decreti%20Legislativi/Attuazione%20delle%20direttive%2091-156-CEE%20sui%20rifiuti%2091-689-CEE%20sui%20rifiuti%20pericolosi%20e%2094-62-CE%20sugli%20imballaggi%20e%20sui%20rifiuti%20di%20imballaggio.md), e successive modificazioni, dal [decreto legislativo 11 maggio 1999, n. 152](../Decreti%20Legislativi/Disposizioni%20sulla%20tutela%20delle%20acque%20dallinquinamento%20e%20recepimento%20della%20direttiva%2091-271-CEE%20concernente%20il%20trattamento%20delle%20acque%20reflue%20urbane%20e%20della%20direttiva%2091-676-CEE%20relativa%20_2e8d984f823c.md), dal [decreto legislativo 17 agosto 1999, n. 334](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2096-82-CE%20relativa%20al%20controllo%20dei%20pericoli%20di%20incidenti%20rilevanti%20connessi%20con%20determinate%20sostanze%20pericolose.md), dal [decreto legislativo 4 agosto 1999, n. 372](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2096-61-CE%20relativa%20alla%20prevenzione%20e%20riduzione%20integrate%20dellinquinamento.md), e dal testo unico delle disposizioni legislative in materia di beni culturali e ambientali, approvato con [decreto legislativo 29 ottobre 1999, n. 490](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20beni%20culturali%20e%20ambientali%20a%20norma%20dellarticolo%201%20della%20legge%208%20ottobre%201997%20n.%20352.md);
                         e)
@@ -210,7 +210,7 @@ Gli schemi dei decreti legislativi di cui agli articoli 11 e 12 sono trasmessi a
 
 1.
 
-Le disposizioni di cui all'[articolo 322-ter del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), introdotto dal comma 1 dell'articolo 3 della presente legge, non si applicano ai reati ivi previsti, nonche' a quelli indicati nel comma 2 del medesimo articolo 3, commessi anteriormente alla data di entrata in vigore della presente legge.
+Le disposizioni di cui all'[articolo 322-ter del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), introdotto dal comma 1 dell'articolo 3 della presente legge, non si applicano ai reati ivi previsti, nonche' a quelli indicati nel comma 2 del medesimo articolo 3, commessi anteriormente alla data di entrata in vigore della presente legge.
 
 ## Art. 16. — (Entrata in vigore)
 

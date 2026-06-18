@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Articolo unico.
 
-L'art. 98 del regolamento approvato con [regio decreto 21 maggio 1903, n. 253](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20di%20legge%20sui%20telefoni%20del%203%20maggio%201903%20n.%20196.%20003U0253.md), modificato dall'[art. 32 del regio decreto-legge 25 gennaio 1921, n. 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-01-25;44#art_32), e dall'[art. 1 del decreto legislativo del Capo provvisorio dello Stato 26 ottobre 1946, n. 459](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-10-26;459#art_1), e' modificato come appresso:
+L'art. 98 del regolamento approvato con [regio decreto 21 maggio 1903, n. 253](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20di%20legge%20sui%20telefoni%20del%203%20maggio%201903%20n.%20196.%20003U0253.md), modificato dall'[art. 32 del regio decreto-legge 25 gennaio 1921, n. 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-01-25;44#art_32), e dall'[art. 1 del decreto legislativo del Capo provvisorio dello Stato 26 ottobre 1946, n. 459](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-10-26;459#art_1), e' modificato come appresso:
  Art. 98. - La tariffa delle conversazioni telefoniche scambiate esclusivamente sulle linee fonotelegrafiche e' stabilita nella misura seguente:
  L. 12 su linee fino a 3 chilometri;
  L. 24 su linee da oltre 3 chilometri fino a 25 chilometri;

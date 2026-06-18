@@ -1012,7 +1012,7 @@ Fermo restando quanto previsto dall'articolo 9-bis e fermi restando gli obblighi
 
 AGGIORNAMENTO (15)
 
-Il [D.Lgs. 31 marzo 2023, n. 36](../Codici/Codice%20dei%20contratti%20pubblici%20in%20attuazione%20dellarticolo%201%20della%20legge%2021%20giugno%202022%20n.%2078%20recante%20delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2023G00044.md) ha disposto (con l'art. 229, comma 2) che la presente modifica acquista efficacia il 1° luglio 2023.
+Il [D.Lgs. 31 marzo 2023, n. 36](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20contratti%20pubblici%20in%20attuazione%20dellarticolo%201%20della%20legge%2021%20giugno%202022%20n.%2078%20recante%20delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2023G00044.md) ha disposto (con l'art. 229, comma 2) che la presente modifica acquista efficacia il 1° luglio 2023.
 
 ### Art. 38.
 
@@ -1034,7 +1034,7 @@ Per i Ministeri, gli atti di programmazione di cui al comma 2 sono quelli indica
 
 AGGIORNAMENTO (15)
 
-Il [D.Lgs. 31 marzo 2023, n. 36](../Codici/Codice%20dei%20contratti%20pubblici%20in%20attuazione%20dellarticolo%201%20della%20legge%2021%20giugno%202022%20n.%2078%20recante%20delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2023G00044.md) ha disposto (con l'art. 229, comma 2) che la presente modifica acquista efficacia il 1° luglio 2023.
+Il [D.Lgs. 31 marzo 2023, n. 36](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20contratti%20pubblici%20in%20attuazione%20dellarticolo%201%20della%20legge%2021%20giugno%202022%20n.%2078%20recante%20delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2023G00044.md) ha disposto (con l'art. 229, comma 2) che la presente modifica acquista efficacia il 1° luglio 2023.
 
 ### Art. 39.
 

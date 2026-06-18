@@ -18,7 +18,7 @@ Vista la nota in data 8 luglio 2009 con la quale il Governo, avvalendosi della f
 
 Visto il decreto del Presidente del Consiglio di Stato in data 23 luglio 2009, con il quale la formulazione di detto progetto e' stata deferita ad una commissione speciale e ne e' stata stabilita la composizione;
 
-Visto il progetto del decreto legislativo recante il «[codice del processo amministrativo](../Codici/Attuazione%20dellarticolo%2044%20della%20legge%2018%20giugno%202009%20n.%2069%20recante%20delega%20al%20governo%20per%20il%20riordino%20del%20processo%20amministrativo.%2010G0127.md)» e le relative norme di attuazione, transitorie, di coordinamento e di abrogazione, redatto da detta commissione speciale e trasmesso al Governo con nota del Presidente del Consiglio di Stato in data 10 febbraio 2010;
+Visto il progetto del decreto legislativo recante il «[codice del processo amministrativo](Attuazione%20dellarticolo%2044%20della%20legge%2018%20giugno%202009%20n.%2069%20recante%20delega%20al%20governo%20per%20il%20riordino%20del%20processo%20amministrativo.%2010G0127.md)» e le relative norme di attuazione, transitorie, di coordinamento e di abrogazione, redatto da detta commissione speciale e trasmesso al Governo con nota del Presidente del Consiglio di Stato in data 10 febbraio 2010;
 
 Vista la deliberazione preliminare del Consiglio dei Ministri, adottata nella riunione del 16 aprile 2010;
 
@@ -34,7 +34,7 @@ Emana il seguente decreto legislativo:
 
 1.
 
-E' approvato il [codice del processo amministrativo](../Codici/Attuazione%20dellarticolo%2044%20della%20legge%2018%20giugno%202009%20n.%2069%20recante%20delega%20al%20governo%20per%20il%20riordino%20del%20processo%20amministrativo.%2010G0127.md) di cui all'allegato 1 al presente decreto.
+E' approvato il [codice del processo amministrativo](Attuazione%20dellarticolo%2044%20della%20legge%2018%20giugno%202009%20n.%2069%20recante%20delega%20al%20governo%20per%20il%20riordino%20del%20processo%20amministrativo.%2010G0127.md) di cui all'allegato 1 al presente decreto.
 
 2.
 

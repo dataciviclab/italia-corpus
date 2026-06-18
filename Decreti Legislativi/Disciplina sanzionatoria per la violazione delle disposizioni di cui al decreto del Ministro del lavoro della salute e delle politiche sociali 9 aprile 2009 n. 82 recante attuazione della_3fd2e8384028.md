@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 7 luglio 2009, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202008.%2009G0100.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee, legge comunitaria 2008, ed in particolare l'articolo 3, comma 1, recante delega al Governo per la disciplina sanzionatoria di violazioni di disposizioni comunitarie attuate in via regolamentare o amministrativa;
+Vista la [legge 7 luglio 2009, n. 88](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202008.%2009G0100.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee, legge comunitaria 2008, ed in particolare l'articolo 3, comma 1, recante delega al Governo per la disciplina sanzionatoria di violazioni di disposizioni comunitarie attuate in via regolamentare o amministrativa;
 
 Vista la [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689), recante modifiche al sistema penale;
 
@@ -56,7 +56,7 @@ Avvertenza:
  Note alle premesse: 
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) regola la delega al Governo dell'esercizio della funzione legislativa e stabilisce che essa non puo' avvenire se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti. 
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87), tra l'altro, conferisce al Presidente della Repubblica il potere di promulgare le leggi ed emanare i decreti aventi valore di legge e i regolamenti. 
- - La [legge 7 luglio 2009, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202008.%2009G0100.md) (Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge comunitaria 2008), e' pubblicata nella Gazzetta Ufficiale 14 luglio 2009, n. 161, supplemento ordinario. 
+ - La [legge 7 luglio 2009, n. 88](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202008.%2009G0100.md) (Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge comunitaria 2008), e' pubblicata nella Gazzetta Ufficiale 14 luglio 2009, n. 161, supplemento ordinario. 
  - La [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689) (Modifiche al sistema penale), e' pubblicata nella Gazzetta Ufficiale 30 novembre 1981, n. 329, supplemento ordinario. 
  - Il [decreto legislativo 27 gennaio 1992, n. 111](Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md), e' pubblicato nella Gazzetta Ufficiale 17 febbraio 1992, n. 39, supplemento ordinario. 
  - Il regolamento (CE) n. 178/2002 del Parlamento europeo e del Consiglio, del 28 gennaio 2002, e' pubblicato nella Gazzetta Ufficiale delle Comunita' europee n. L 31 del 1° febbraio 2002. 
@@ -552,7 +552,7 @@ L'autorita' che ha emesso l'ordinanza-ingiunzione cura l'esecuzione dell'affissi
 
 4.
 
-La pubblicazione del provvedimento e' eseguita con le modalita' previste dall'[articolo 36 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), in quanto applicabile.
+La pubblicazione del provvedimento e' eseguita con le modalita' previste dall'[articolo 36 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), in quanto applicabile.
 
 Note all'art. 7: 
  - Si riporta il testo dell'art. 24 della citata [legge n. 689 del 1981](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;689): 
@@ -562,7 +562,7 @@ Note all'art. 7:
  La persona obbligata in solido con l'autore della violazione deve essere citata nella istruzione o nel giudizio penale su richiesta del pubblico ministero. Il pretore ne dispone di ufficio la citazione. Alla predetta persona, per la difesa dei propri interessi, spettano i diritti e le garanzie riconosciuti all'imputato, esclusa la nomina del difensore d'ufficio. 
  Il pretore, quando provvede con decreto penale, con lo stesso decreto applica, nei confronti dei responsabili, la sanzione stabilita dalla legge per la violazione. 
  La competenza del giudice penale in ordine alla violazione non costituente reato cessa se il procedimento penale si chiude per estinzione del reato o per difetto di una condizione di procedibilita'.». 
- - Si riporta il testo dell'[art. 36 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md): 
+ - Si riporta il testo dell'[art. 36 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md): 
  «Art. 36 (Pubblicazione della sentenza penale di condanna). - La sentenza di condanna alla pena di morte o all'ergastolo e' pubblicata mediante affissione nel comune ove e' stata pronunciata, in quello ove il delitto fu commesso, e in quello ove il condannato aveva l'ultima residenza. 
  La sentenza di condanna e' inoltre pubblicata, per una sola volta, in uno o piu' giornali designati dal giudice e nel sito internet del Ministero della giustizia. La durata della pubblicazione nel sito e' stabilita dal giudice in misura non superiore a trenta giorni. In mancanza, la durata e' di quindici giorni. 
  La pubblicazione e' fatta per estratto, salvo che il giudice disponga la pubblicazione per intero; essa e' eseguita d'ufficio e a spese del condannato. 

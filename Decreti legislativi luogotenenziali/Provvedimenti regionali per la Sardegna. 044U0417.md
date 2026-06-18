@@ -72,7 +72,7 @@ L'[art. 6 del decreto-legge 16 marzo 1944, n. 90](https://www.normattiva.it/uri-
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. Luogotenenziale 10 agosto 1945, n. 516](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20alla%20composizione%20della%20Consulta%20regionale%20per%20la%20Sardegna%20e%20del%20Comitato%20regionale%20per%20la%20bonifica%20ed%20il%20miglioramento%20fondiario%20istituito%20presso%20lAlto%20Commissariato%20per%20la_bdaa7f797e3e.md) ha disposto (con l'art. 1, comma 1) che "Il numero dei componenti da Consulta regionale per la Sardegna, istituita dall'[art. 3 del decreto legislativo Luogotenenziale 28 dicembre 1944, n. 417](Provvedimenti%20regionali%20per%20la%20Sardegna.%20044U0417.md), e' elevato da diciotto a ventiquattro".
+Il [D.Lgs. Luogotenenziale 10 agosto 1945, n. 516](Modificazioni%20alla%20composizione%20della%20Consulta%20regionale%20per%20la%20Sardegna%20e%20del%20Comitato%20regionale%20per%20la%20bonifica%20ed%20il%20miglioramento%20fondiario%20istituito%20presso%20lAlto%20Commissariato%20per%20la_bdaa7f797e3e.md) ha disposto (con l'art. 1, comma 1) che "Il numero dei componenti da Consulta regionale per la Sardegna, istituita dall'[art. 3 del decreto legislativo Luogotenenziale 28 dicembre 1944, n. 417](Provvedimenti%20regionali%20per%20la%20Sardegna.%20044U0417.md), e' elevato da diciotto a ventiquattro".
 
 ### Art. 4.
 
@@ -102,7 +102,7 @@ E' istituito presso l'Alto Commissariato per la Sardegna un Comitato regionale p
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. Luogotenenziale 10 agosto 1945, n. 516](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20alla%20composizione%20della%20Consulta%20regionale%20per%20la%20Sardegna%20e%20del%20Comitato%20regionale%20per%20la%20bonifica%20ed%20il%20miglioramento%20fondiario%20istituito%20presso%20lAlto%20Commissariato%20per%20la_bdaa7f797e3e.md) ha disposto (con l'art. 2, comma 1) che "Il numero sia degli agricoltori sia dei lavoratori agricoli, componenti il Comitato regionale per la bonifica od il miglioramento fondiario, istituito presso l'Alto Commissariato per la Sardegna dall'[art. 7 del decreto legislativo Luogotenenziale 28 dicembre 1944, n. 417](Provvedimenti%20regionali%20per%20la%20Sardegna.%20044U0417.md), e' elevato da due a tre".
+Il [D.Lgs. Luogotenenziale 10 agosto 1945, n. 516](Modificazioni%20alla%20composizione%20della%20Consulta%20regionale%20per%20la%20Sardegna%20e%20del%20Comitato%20regionale%20per%20la%20bonifica%20ed%20il%20miglioramento%20fondiario%20istituito%20presso%20lAlto%20Commissariato%20per%20la_bdaa7f797e3e.md) ha disposto (con l'art. 2, comma 1) che "Il numero sia degli agricoltori sia dei lavoratori agricoli, componenti il Comitato regionale per la bonifica od il miglioramento fondiario, istituito presso l'Alto Commissariato per la Sardegna dall'[art. 7 del decreto legislativo Luogotenenziale 28 dicembre 1944, n. 417](Provvedimenti%20regionali%20per%20la%20Sardegna.%20044U0417.md), e' elevato da due a tre".
 
 ### Art. 8.
 

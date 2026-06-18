@@ -321,7 +321,7 @@ La rete pubblica con obbligo di connessione di terzi e' una rete pubblica il cui
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 7 gennaio 2026, n. 3](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202024-1711%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2013%20giugno%202024%20che%20modifica%20le%20direttive%20UE%202018-2001%20e%20UE%202019-944%20per%20quanto%20riguarda%20il%20miglioramento_6e108ba0fec0.md) ha disposto (con l'art. 1, comma 1, lettera b)) che "al comma 2, dopo le parole: «o vendita dell'energia autoprodotta,» sono inserite le seguenti: «condivisione dell'energia elettrica,»".
+Il [D.Lgs. 7 gennaio 2026, n. 3](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202024-1711%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2013%20giugno%202024%20che%20modifica%20le%20direttive%20UE%202018-2001%20e%20UE%202019-944%20per%20quanto%20riguarda%20il%20miglioramento_6e108ba0fec0.md) ha disposto (con l'art. 1, comma 1, lettera b)) che "al comma 2, dopo le parole: «o vendita dell'energia autoprodotta,» sono inserite le seguenti: «condivisione dell'energia elettrica,»".
 
 ## Art. 4. — Partecipazione al mercato degli operatori dei Paesi terzi
 

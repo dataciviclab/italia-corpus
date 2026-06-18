@@ -115,7 +115,7 @@ Il [secondo comma dell'art. 10 del decreto legislativo Presidenziale 27 giugno 1
 ## Art. 8.
 
 All'[art. 17 del decreto legislativo Presidenziale 27 giugno 1946, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;37#art_17), e' aggiunto il seguente comma:
- "Al Provveditorato medesimo sono deferiti i poteri e le facolta' relative alla zona aperta di Napoli di cui al [regio decreto 7 febbraio 1926, n. 359](../Atti%20normativi%20abrogati%20%28in%20originale%29/Passaggio%20di%20alcune%20attribuzioni%20del%20Regio%20commissario%20per%20il%20porto%20di%20Napoli%20allAlto%20Commissario%20per%20la%20provincia%20di%20Napoli.%20026U0359.md)".
+ "Al Provveditorato medesimo sono deferiti i poteri e le facolta' relative alla zona aperta di Napoli di cui al [regio decreto 7 febbraio 1926, n. 359](../Regi%20decreti/Passaggio%20di%20alcune%20attribuzioni%20del%20Regio%20commissario%20per%20il%20porto%20di%20Napoli%20allAlto%20Commissario%20per%20la%20provincia%20di%20Napoli.%20026U0359.md)".
 
 ## Art. 9.
 
@@ -123,7 +123,7 @@ Le disposizioni dei precedenti ((articoli 6, 6-bis e 7)) si applicano anche ai P
 
 ## Art. 10.
 
-Con effetto dal 1 luglio 1947, e sino al 31 dicembre 1947, sono decuplicati i limiti di spesa stabiliti nell'[art. 3, primo comma, del decreto legislativo luogotenenziale 14 giugno 1945, n. 355](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20uffici%20distaccati%20della%20Corte%20dei%20conti%20presso%20i%20Provveditorati%20regionali%20alle%20opere%20pubbliche.%20045U0355.md).
+Con effetto dal 1 luglio 1947, e sino al 31 dicembre 1947, sono decuplicati i limiti di spesa stabiliti nell'[art. 3, primo comma, del decreto legislativo luogotenenziale 14 giugno 1945, n. 355](../Decreti%20legislativi%20luogotenenziali/Istituzione%20di%20uffici%20distaccati%20della%20Corte%20dei%20conti%20presso%20i%20Provveditorati%20regionali%20alle%20opere%20pubbliche.%20045U0355.md).
 
 ## Art. 11.
 

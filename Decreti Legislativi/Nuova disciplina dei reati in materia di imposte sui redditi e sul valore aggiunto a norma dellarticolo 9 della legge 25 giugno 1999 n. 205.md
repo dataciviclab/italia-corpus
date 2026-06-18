@@ -181,7 +181,7 @@ Il [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 AGGIORNAMENTO (7)
 
-Il [D.L. 24 aprile 2017, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50), convertito con modificazioni dalla [L. 21 giugno 2017, n. 96](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%202017%20n.%2050%20recante%20disposizioni%20urgenti%20in%20materia%20finanziaria%20iniziative%20a%20favore%20degli%20enti%20territoriali%20ulteriori%20int_61cabed4daef.md), ha disposto (con l'art. 1-bis, comma 7) che "Il reato di cui all'[articolo 5 del decreto legislativo 10 marzo 2000, n. 74](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuova%20disciplina%20dei%20reati%20in%20materia%20di%20imposte%20sui%20redditi%20e%20sul%20valore%20aggiunto%20a%20norma%20dellarticolo%209%20della%20legge%2025%20giugno%201999%20n.%20205.md), non e' punibile se i debiti tributari della stabile organizzazione nel territorio dello Stato, relativi ai periodi d'imposta per i quali sono scaduti i termini di presentazione delle dichiarazioni, comprese sanzioni amministrative e interessi, sono estinti nei termini di cui al comma 6 del presente articolo".
+Il [D.L. 24 aprile 2017, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50), convertito con modificazioni dalla [L. 21 giugno 2017, n. 96](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%202017%20n.%2050%20recante%20disposizioni%20urgenti%20in%20materia%20finanziaria%20iniziative%20a%20favore%20degli%20enti%20territoriali%20ulteriori%20int_61cabed4daef.md), ha disposto (con l'art. 1-bis, comma 7) che "Il reato di cui all'[articolo 5 del decreto legislativo 10 marzo 2000, n. 74](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuova%20disciplina%20dei%20reati%20in%20materia%20di%20imposte%20sui%20redditi%20e%20sul%20valore%20aggiunto%20a%20norma%20dellarticolo%209%20della%20legge%2025%20giugno%201999%20n.%20205.md), non e' punibile se i debiti tributari della stabile organizzazione nel territorio dello Stato, relativi ai periodi d'imposta per i quali sono scaduti i termini di presentazione delle dichiarazioni, comprese sanzioni amministrative e interessi, sono estinti nei termini di cui al comma 6 del presente articolo".
 
 ---------------
 
@@ -241,14 +241,14 @@ Il [D.L. 26 ottobre 2019, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 1.
 
-In deroga all'[articolo 110 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md):
+In deroga all'[articolo 110 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md):
                             a)
                                 l'emittente di fatture o altri documenti per operazioni inesistenti e chi concorre con il medesimo non e' punibile a titolo di concorso nel reato previsto dall'articolo 2;
                             b)
                                 chi si avvale di fatture o altri documenti per operazioni inesistenti e chi concorre con il medesimo non e' punibile a titolo di concorso nel reato previsto dall'articolo 8.
 
 Nota all'art. 9:
- - Il testo dell'[art. 110 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
+ - Il testo dell'[art. 110 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
  "Art. 110 (Pena per coloro che concorrono nel reato). - Quando piu' persone concorrono nel medesimo reato, ciascuna di esse soggiace alla pena per questo stabilita, salve le disposizioni degli articoli seguenti".
 
 ### Art. 10. — Occultamento o distruzione di documenti contabili
@@ -333,13 +333,13 @@ La condanna per taluno dei delitti previsti dal presente decreto importa:
                             d)
                                 l'interdizione perpetua dall'ufficio di componente di commissione tributaria;
                             e)
-                                la pubblicazione della sentenza a norma dell'[articolo 36 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+                                la pubblicazione della sentenza a norma dell'[articolo 36 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 2.
 
 La condanna per taluno dei delitti previsti dagli articoli 2, 3 e 8 importa altresi' l'interdizione dai pubblici uffici per un periodo non inferiore ad un anno e non superiore a tre anni, salvo che ricorrano le circostanze previste dagli articoli 2, comma 3, e 8, comma 3.
 
-((2-bis. Per i delitti previsti dagli articoli da 2 a 10 del presente decreto l'istituto della sospensione condizionale della pena di cui all'[articolo 163 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) non trova applicazione nei casi in cui ricorrano congiuntamente le seguenti condizioni:
+((2-bis. Per i delitti previsti dagli articoli da 2 a 10 del presente decreto l'istituto della sospensione condizionale della pena di cui all'[articolo 163 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) non trova applicazione nei casi in cui ricorrano congiuntamente le seguenti condizioni:
 
 b) l'ammontare dell'imposta evasa sia superiore a tre milioni di euro))
 
@@ -365,7 +365,7 @@ Nel caso di condanna o di applicazione della pena su richiesta delle parti a nor
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md) ha disposto (con l'art. 1, comma 6) che "Le disposizioni di cui agli articoli 12-bis, comma 2, e 13-bis, [commi 1](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuova%20disciplina%20dei%20reati%20in%20materia%20di%20imposte%20sui%20redditi%20e%20sul%20valore%20aggiunto%20a%20norma%20dellarticolo%209%20della%20legge%2025%20giugno%201999%20n.%20205.md) e [1-bis, del decreto legislativo 10 marzo 2000, n. 74](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuova%20disciplina%20dei%20reati%20in%20materia%20di%20imposte%20sui%20redditi%20e%20sul%20valore%20aggiunto%20a%20norma%20dellarticolo%209%20della%20legge%2025%20giugno%201999%20n.%20205.md), come modificati dal comma 1, lettere e), numero 1), e g), numero 1), si applicano anche quando il debito tributario e' in fase di estinzione mediante rateizzazione a seguito di regolarizzazione, ai sensi dell'[articolo 1, commi da 174](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md) [a 178, della legge 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), dell'[articolo 3, comma 12-undecies, del decreto-legge 30 dicembre 2023, n. 215](../DL%20proroghe/Disposizioni%20urgenti%20in%20materia%20di%20termini%20normativi.%2023G00227.md), convertito, con modificazioni, dalla [legge 23 febbraio 2024, n. 18, e dell'articolo 7, comma 7](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202023%20n.%20215%20recante%20disposizioni%20urgenti%20in%20materia%20di%20termini%20normativi.%2024G00033.md), del [decreto-legge 29 marzo 2024, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2024-03-29;39)".
+Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md) ha disposto (con l'art. 1, comma 6) che "Le disposizioni di cui agli articoli 12-bis, comma 2, e 13-bis, [commi 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuova%20disciplina%20dei%20reati%20in%20materia%20di%20imposte%20sui%20redditi%20e%20sul%20valore%20aggiunto%20a%20norma%20dellarticolo%209%20della%20legge%2025%20giugno%201999%20n.%20205.md) e [1-bis, del decreto legislativo 10 marzo 2000, n. 74](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuova%20disciplina%20dei%20reati%20in%20materia%20di%20imposte%20sui%20redditi%20e%20sul%20valore%20aggiunto%20a%20norma%20dellarticolo%209%20della%20legge%2025%20giugno%201999%20n.%20205.md), come modificati dal comma 1, lettere e), numero 1), e g), numero 1), si applicano anche quando il debito tributario e' in fase di estinzione mediante rateizzazione a seguito di regolarizzazione, ai sensi dell'[articolo 1, commi da 174](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md) [a 178, della legge 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), dell'[articolo 3, comma 12-undecies, del decreto-legge 30 dicembre 2023, n. 215](../DL%20proroghe/Disposizioni%20urgenti%20in%20materia%20di%20termini%20normativi.%2023G00227.md), convertito, con modificazioni, dalla [legge 23 febbraio 2024, n. 18, e dell'articolo 7, comma 7](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202023%20n.%20215%20recante%20disposizioni%20urgenti%20in%20materia%20di%20termini%20normativi.%2024G00033.md), del [decreto-legge 29 marzo 2024, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2024-03-29;39)".
 
 ### Art. 12-ter. — (( (Casi particolari di confisca). ))
 
@@ -399,9 +399,9 @@ Il Giudice ha facolta' di prorogare tale termine una sola volta per non oltre tr
 
 I reati di cui agli articoli 10-bis e 10-ter non sono punibili se il fatto dipende da cause non imputabili all'autore sopravvenute, rispettivamente, all'effettuazione delle ritenute o all'incasso dell'imposta sul valore aggiunto. Ai fini di cui al primo periodo, il giudice tiene conto della crisi non transitoria di liquidita' dell'autore dovuta alla inesigibilita' dei crediti per accertata insolvenza o sovraindebitamento di terzi o al mancato pagamento di crediti certi ed esigibili da parte di amministrazioni pubbliche e della non esperibilita' di azioni idonee al superamento della crisi.
 
-3-ter. Ai fini della non punibilita' per particolare tenuita' del fatto, di cui all'[articolo 131-bis del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), il giudice valuta, in modo prevalente, uno o piu' dei seguenti indici:
+3-ter. Ai fini della non punibilita' per particolare tenuita' del fatto, di cui all'[articolo 131-bis del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), il giudice valuta, in modo prevalente, uno o piu' dei seguenti indici:
 
-d) la situazione di crisi ai sensi dell'articolo 2, comma 1, lettera a), del codice della crisi d'impresa e dell'insolvenza, di cui al [decreto legislativo 12 gennaio 2019, n. 14](../Codici/Codice%20della%20crisi%20dimpresa%20e%20dellinsolvenza%20in%20attuazione%20della%20legge%2019%20ottobre%202017%20n.%20155.%2019G00007.md).))
+d) la situazione di crisi ai sensi dell'articolo 2, comma 1, lettera a), del codice della crisi d'impresa e dell'insolvenza, di cui al [decreto legislativo 12 gennaio 2019, n. 14](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20della%20crisi%20dimpresa%20e%20dellinsolvenza%20in%20attuazione%20della%20legge%2019%20ottobre%202017%20n.%20155.%2019G00007.md).))
 
 ---------------
 
@@ -436,7 +436,7 @@ Le pene stabilite per i delitti di cui al titolo II sono aumentate della meta' s
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md) ha disposto (con l'art. 1, comma 6) che "Le disposizioni di cui agli articoli 12-bis, comma 2, e 13-bis, [commi 1](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuova%20disciplina%20dei%20reati%20in%20materia%20di%20imposte%20sui%20redditi%20e%20sul%20valore%20aggiunto%20a%20norma%20dellarticolo%209%20della%20legge%2025%20giugno%201999%20n.%20205.md) e [1-bis, del decreto legislativo 10 marzo 2000, n. 74](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuova%20disciplina%20dei%20reati%20in%20materia%20di%20imposte%20sui%20redditi%20e%20sul%20valore%20aggiunto%20a%20norma%20dellarticolo%209%20della%20legge%2025%20giugno%201999%20n.%20205.md), come modificati dal comma 1, lettere e), numero 1), e g), numero 1), si applicano anche quando il debito tributario e' in fase di estinzione mediante rateizzazione a seguito di regolarizzazione, ai sensi dell'[articolo 1, commi da 174](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md) [a 178, della legge 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), dell'[articolo 3, comma 12-undecies, del decreto-legge 30 dicembre 2023, n. 215](../DL%20proroghe/Disposizioni%20urgenti%20in%20materia%20di%20termini%20normativi.%2023G00227.md), convertito, con modificazioni, dalla [legge 23 febbraio 2024, n. 18, e dell'articolo 7, comma 7](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202023%20n.%20215%20recante%20disposizioni%20urgenti%20in%20materia%20di%20termini%20normativi.%2024G00033.md), del [decreto-legge 29 marzo 2024, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2024-03-29;39)".
+Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md) ha disposto (con l'art. 1, comma 6) che "Le disposizioni di cui agli articoli 12-bis, comma 2, e 13-bis, [commi 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuova%20disciplina%20dei%20reati%20in%20materia%20di%20imposte%20sui%20redditi%20e%20sul%20valore%20aggiunto%20a%20norma%20dellarticolo%209%20della%20legge%2025%20giugno%201999%20n.%20205.md) e [1-bis, del decreto legislativo 10 marzo 2000, n. 74](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuova%20disciplina%20dei%20reati%20in%20materia%20di%20imposte%20sui%20redditi%20e%20sul%20valore%20aggiunto%20a%20norma%20dellarticolo%209%20della%20legge%2025%20giugno%201999%20n.%20205.md), come modificati dal comma 1, lettere e), numero 1), e g), numero 1), si applicano anche quando il debito tributario e' in fase di estinzione mediante rateizzazione a seguito di regolarizzazione, ai sensi dell'[articolo 1, commi da 174](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md) [a 178, della legge 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), dell'[articolo 3, comma 12-undecies, del decreto-legge 30 dicembre 2023, n. 215](../DL%20proroghe/Disposizioni%20urgenti%20in%20materia%20di%20termini%20normativi.%2023G00227.md), convertito, con modificazioni, dalla [legge 23 febbraio 2024, n. 18, e dell'articolo 7, comma 7](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202023%20n.%20215%20recante%20disposizioni%20urgenti%20in%20materia%20di%20termini%20normativi.%2024G00033.md), del [decreto-legge 29 marzo 2024, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2024-03-29;39)".
 
 ### Art. 14. — Circostanza attenuante. Riparazione dell'offesa nel caso di estinzione per prescrizione del debito tributario
 
@@ -446,7 +446,7 @@ Se i debiti indicati nell'articolo 13 risultano estinti per prescrizione o per d
 
 2.
 
-La somma, commisurata alla gravita' dell'offesa, non puo' essere comunque inferiore a quella risultante dal ragguaglio a norma dell'[articolo 135 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) della pena minima prevista per il delitto contestato.
+La somma, commisurata alla gravita' dell'offesa, non puo' essere comunque inferiore a quella risultante dal ragguaglio a norma dell'[articolo 135 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) della pena minima prevista per il delitto contestato.
 
 3.
 
@@ -461,17 +461,17 @@ Se il pagamento e' eseguito nel termine, la pena e' diminuita fino alla meta' e 
 Nel caso di assoluzione o di proscioglimento la somma pagata e' restituita.
 
 Nota all'art. 14:
- - Il testo dell'[art. 135 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
+ - Il testo dell'[art. 135 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
  "Art. 135 (Ragguaglio fra pene pecuniarie e pene detentive). - Quando, per qualsiasi effetto giuridico, si deve eseguire un ragguaglio fra pene pecuniarie e pene detentive, il computo ha luogo calcolando settantacinquemila lire, o frazione di settantacinquemila lire, di pena pecuniaria per un giorno di pena detentiva".
 
 ### Art. 15. — Violazioni dipendenti da interpretazione delle norme tributarie
 
 1.
 
-Al di fuori dei casi in cui la punibilita' e' esclusa a norma dell'[articolo 47, terzo comma, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), non danno luogo a fatti punibili ai sensi del presente decreto le violazioni di norme tributarie dipendenti da obiettive condizioni di incertezza sulla loro portata e sul loro ambito di applicazione.
+Al di fuori dei casi in cui la punibilita' e' esclusa a norma dell'[articolo 47, terzo comma, del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), non danno luogo a fatti punibili ai sensi del presente decreto le violazioni di norme tributarie dipendenti da obiettive condizioni di incertezza sulla loro portata e sul loro ambito di applicazione.
 
 Nota all'art. 15:
- - Il testo dell'[art. 47 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
+ - Il testo dell'[art. 47 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
  "Art. 47 (Errore di fatto). - L'errore sul fatto che costituisce il reato esclude la punibilita' dell'agente.
  Nondimeno, se si tratta di errore determinato da colpa, la punibilita' non e' esclusa; quando il fatto e' preveduto dalla legge come delitto colposo.
  L'errore sul fatto che costituisce un determinato reato non esclude la punibilita' per un reato diverso.
@@ -485,7 +485,7 @@ Nota all'art. 15:
 
 1.
 
-Il corso della prescrizione per i delitti previsti dal presente decreto e' interrotto, oltre che dagli atti indicati nell'[articolo 160 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dal verbale di constatazione o dall'atto di accertamento delle relative violazioni.
+Il corso della prescrizione per i delitti previsti dal presente decreto e' interrotto, oltre che dagli atti indicati nell'[articolo 160 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dal verbale di constatazione o dall'atto di accertamento delle relative violazioni.
 
 ((1-bis. I termini di prescrizione per i delitti previsti dagli articoli da 2 a 10 del presente decreto sono elevati di un terzo))
 

@@ -1131,7 +1131,7 @@ All'articolo 135, comma 1, del Codice, la parola: "alti" e' sostituita dalla seg
 
 2.
 
-All'articolo 135, comma 2, del Codice, le parole: "istituita con [regio decreto 29 giugno 1939, n. 1127](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md)" sono soppresse.
+All'articolo 135, comma 2, del Codice, le parole: "istituita con [regio decreto 29 giugno 1939, n. 1127](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md)" sono soppresse.
 
 3.
 
@@ -1269,7 +1269,7 @@ Note all'art. 66:
  «Art. 142 (Decreto di espropriazione). - 1.
  L'espropriazione viene disposta per decreto del Presidente della Repubblica, su proposta del Ministro competente, di concerto con i Ministri delle attivita' produttive e dell'economia e delle finanze, sentito il Consiglio dei ministri, se il provvedimento interessa la difesa militare del Paese o, negli altri casi, la Commissione dei ricorsi. 
  2. Il decreto di espropriazione nell'interesse della difesa militare del Paese, quando viene emanato prima della stampa dell'attestato di brevettazione o di registrazione, puo' contenere l'obbligo e stabilire la durata del segreto sull'oggetto del titolo di proprieta' industriale. 
- 3. La violazione del segreto e' punita ai sensi dell' [art. 262 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+ 3. La violazione del segreto e' punita ai sensi dell' [art. 262 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  4. Nel decreto di espropriazione e' fissata l'indennita' spettante al titolare del diritto di proprieta' industriale, determinata sulla base del valore di mercato di esso, sentita la Commissione dei ricorsi. 
  5. La tutela giurisdizionale davanti al giudice amministrativo e' disciplinata dal [codice del processo amministrativo](Attuazione%20dellarticolo%2044%20della%20legge%2018%20giugno%202009%20n.%2069%20recante%20delega%20al%20governo%20per%20il%20riordino%20del%20processo%20amministrativo.%2010G0127.md).»
 
@@ -2178,7 +2178,7 @@ Nota all'art. 109:
  11. L'invenzione deve essere tenuta segreta dopo la comunicazione della richiesta di differimento e per tutta la durata del differimento stesso, nonche' durante lo svolgimento della espropriazione e dopo il relativo decreto se questo porti l'obbligo del segreto. 
  12. L'invenzione deve essere, altresi', tenuta segreta nel caso previsto dal comma 6, dopo che sia stata comunicata all'interessato la determinazione di promuovere l'espropriazione con imposizione del segreto. 
  13. L'obbligo del segreto cessa qualora il Ministero della difesa lo consenta. 
- 14. La violazione del segreto e' punita ai termini dell' [art. 262 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+ 14. La violazione del segreto e' punita ai termini dell' [art. 262 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  15. Il Ministero della difesa puo' chiedere che le domande di brevetto per le invenzioni industriali di organismi dipendenti o vigilati siano mantenute segrete. 
  16. Qualora, per invenzione interessante la difesa militare del Paese, il Ministero della difesa richieda o, nell'ipotesi di differimento di cui al comma 6, consenta la concessione del brevetto, la procedura relativa si svolge, su domanda dello stesso Ministero, in forma segreta. In tale caso non si effettua alcuna pubblicazione e non si consentono le visioni nel presente codice. 
  17. In caso di esposizioni da tenersi nel territorio dello Stato, il Ministero della difesa ha facolta', mediante propri funzionari od ufficiali, di procedere a particolareggiato esame degli oggetti e dei trovati consegnati per l'esposizione che possano ritenersi utili alla difesa militare del Paese ed ha facolta' altresi' di assumere notizie e chiedere chiarimenti sugli oggetti e trovati stessi. 
@@ -2462,7 +2462,7 @@ L'articolo 243 del Codice e' sostituito dal seguente:
  
 (Invenzioni dei ricercatori delle universita' e degli enti pubblici di ricerca) 
  
-1. Le invenzioni dei dipendenti il cui rapporto di lavoro intercorre con un'universita' o con una pubblica Amministrazione avente tra i suoi compiti istituzionali finalita' di ricerca sono soggette alla disciplina, dettata rispettivamente dall'[articolo 24-bis del regio decreto 29 giugno 1939, n. 1127](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), introdotto dalla [legge 18 ottobre 2001, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-10-18;383), dal testo originario dell'articolo 65 del presente Codice e dal testo attuale del medesimo articolo, in vigore al momento in cui le invenzioni sono state conseguite, ancorche' in dipendenza di ricerche cominciate anteriormente.".
+1. Le invenzioni dei dipendenti il cui rapporto di lavoro intercorre con un'universita' o con una pubblica Amministrazione avente tra i suoi compiti istituzionali finalita' di ricerca sono soggette alla disciplina, dettata rispettivamente dall'[articolo 24-bis del regio decreto 29 giugno 1939, n. 1127](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), introdotto dalla [legge 18 ottobre 2001, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-10-18;383), dal testo originario dell'articolo 65 del presente Codice e dal testo attuale del medesimo articolo, in vigore al momento in cui le invenzioni sono state conseguite, ancorche' in dipendenza di ricerche cominciate anteriormente.".
 
 ## Art. 126. — (Relazione al Parlamento in materia di invenzioni biotecnologiche)
 

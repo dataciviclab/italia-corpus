@@ -28,22 +28,22 @@ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e g
 
 ## Art. 1.
 
-Fino a quando non siano pubblicati i nuovi Codici penale e di procedura penale sono apportate le modificazioni di cui agli articoli seguenti al [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) ed al [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) in vigore.
+Fino a quando non siano pubblicati i nuovi Codici penale e di procedura penale sono apportate le modificazioni di cui agli articoli seguenti al [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) ed al [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) in vigore.
 
 ## Art. 2.
 
-Dopo l'[art. 62 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' aggiunto il seguente art. 62-bis: 
+Dopo l'[art. 62 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' aggiunto il seguente art. 62-bis: 
  
  Il giudice, indipendentemente dalle circostanze prevedute nell'art. 62, puo' prendere in considerazione altre circostanze diverse, qualora, le ritenga tali da giustificare una diminuzione della pena.
 Esse sono considerate in ogni caso, ai fini dell'applicazione di questo capo, come una sola circostanza, la quale puo' anche concorrere con una o piu' delle circostanze indicate nel predetto art. 62 ».
 
 ## Art. 3.
 
-Sono abrogate, in relazione all'[art. 1 del decreto legislativo 27 luglio 1944, n. 159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1944-07-27;159#art_1), le disposizioni degli articoli 280, 281 o 282 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+Sono abrogate, in relazione all'[art. 1 del decreto legislativo 27 luglio 1944, n. 159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1944-07-27;159#art_1), le disposizioni degli articoli 280, 281 o 282 del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
- Nell'[art. 289, comma 1°, n. 3 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono soppresse lo parole « al gran consiglio del fascismo ». 
+ Nell'[art. 289, comma 1°, n. 3 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono soppresse lo parole « al gran consiglio del fascismo ». 
  
- Nell'art. 290 dello stesso [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono soppresso le parole: « il gran consiglio del fascismo », e nell'art. 313, comma 3°, le parole « contro il gran consiglio del fascismo » e le altre. « del gran consiglio del fascismo ».
+ Nell'art. 290 dello stesso [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono soppresso le parole: « il gran consiglio del fascismo », e nell'art. 313, comma 3°, le parole « contro il gran consiglio del fascismo » e le altre. « del gran consiglio del fascismo ».
 
 ## Art. 4.
 
@@ -51,7 +51,7 @@ Sono abrogate, in relazione all'[art. 1 del decreto legislativo 27 luglio 1944, 
 
 ## Art. 5.
 
-Nell'[art. 596 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono aggiunto le seguenti disposizioni: 
+Nell'[art. 596 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono aggiunto le seguenti disposizioni: 
  
  « Quando l'offesa consista nell'attribuzione di un fatto determinato, la prova della verita' del fatto medesimo e' pero' sempre ammessa nel procedimento penale; 
  

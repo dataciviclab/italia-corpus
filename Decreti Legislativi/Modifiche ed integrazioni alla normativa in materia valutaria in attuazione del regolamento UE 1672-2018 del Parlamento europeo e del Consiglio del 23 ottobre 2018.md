@@ -36,7 +36,7 @@ Visto il [decreto legislativo 22 giugno 2007, n. 109](Misure%20per%20prevenire%2
 
 Visto il [decreto legislativo 21 novembre 2007, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-21;231), recante attuazione della [direttiva 2005/60/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2005;60) concernente la prevenzione dell'utilizzo del sistema finanziario a scopo di riciclaggio dei proventi di attivita' criminose e di finanziamento del terrorismo, nonche' della [direttiva 2006/70/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;70) che ne reca misure di esecuzione;
 
-Vista la [legge 25 febbraio 2008, n. 34](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202007.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee (Legge comunitaria 2007), ed in particolare l'articolo 15;
+Vista la [legge 25 febbraio 2008, n. 34](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202007.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee (Legge comunitaria 2007), ed in particolare l'articolo 15;
 
 Visto il [decreto-legge 25 giugno 2008, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), convertito, con modificazioni, dalla [legge 6 agosto 2008, n. 133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20economico%20la%20semplificazione%20la%20competitivita%20la%20stabilizzazion_29f97015e2f4.md), recante disposizioni urgenti per lo sviluppo economico, la semplificazione, la competitivita', la stabilizzazione della finanza pubblica e la perequazione tributaria;
 
@@ -82,7 +82,7 @@ Nel presente decreto si intendono per:
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 25 maggio 2017, n. 90](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md) ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
+Il [D.Lgs. 25 maggio 2017, n. 90](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md) ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
 ## Art. 2. — Finalita'
 
@@ -270,7 +270,7 @@ Gli scambi di informazioni di cui al presente articolo avvengono nel rispetto di
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 25 maggio 2017, n. 90](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md) ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
+Il [D.Lgs. 25 maggio 2017, n. 90](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md) ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
 ## Art. 5-bis. — (( (Protezione dei dati personali e termini di conservazione).))
 
@@ -493,7 +493,7 @@ Ai fini dell'applicazione delle ((sanzioni amministrative di cui ai commi 1 e 2)
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 25 maggio 2017, n. 90](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md) ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
+Il [D.Lgs. 25 maggio 2017, n. 90](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md) ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
 ## Art. 10. — Relazione annuale
 
@@ -516,7 +516,7 @@ La relazione di cui al comma 3 e' parte integrante della relazione che il Minist
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 25 maggio 2017, n. 90](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md) ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
+Il [D.Lgs. 25 maggio 2017, n. 90](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md) ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
 ## Art. 11. — Informazioni per finalita' conoscitive e statistiche
 

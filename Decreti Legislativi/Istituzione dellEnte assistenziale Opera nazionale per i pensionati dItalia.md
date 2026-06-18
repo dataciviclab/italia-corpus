@@ -49,7 +49,7 @@ Il Ministro per il tesoro e' autorizzato a provvedere con propri decreti alle oc
 
 ## Art. 6.
 
-L'ente "Case di riposo per gli anziani del lavoro" riconosciuto con [regio decreto 12 ottobre 1933, n. 1521](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attribuzione%20della%20personalita%20giuridica%20alla%20Casa%20di%20riposo%20per%20gli%20anziani%20del%20lavoro%20ed%20approvazione%20del%20relativo%20statuto.%20033U1521.md), e' soppresso ed i suoi fini ed il suo patrimonio sono trasferiti all'Opera nazionale per i pensionati d'Italia.
+L'ente "Case di riposo per gli anziani del lavoro" riconosciuto con [regio decreto 12 ottobre 1933, n. 1521](../Regi%20decreti/Attribuzione%20della%20personalita%20giuridica%20alla%20Casa%20di%20riposo%20per%20gli%20anziani%20del%20lavoro%20ed%20approvazione%20del%20relativo%20statuto.%20033U1521.md), e' soppresso ed i suoi fini ed il suo patrimonio sono trasferiti all'Opera nazionale per i pensionati d'Italia.
 
 ## Art. 7.
 

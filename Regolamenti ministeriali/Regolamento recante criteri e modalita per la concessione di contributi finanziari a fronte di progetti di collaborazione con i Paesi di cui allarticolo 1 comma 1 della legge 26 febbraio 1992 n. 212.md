@@ -54,7 +54,7 @@ Ai fini del presente regolamento si intende per:
                         b)
                             legge 212, la [legge 26 febbraio 1992, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-26;212);
                         c)
-                            Sportello: lo Sportello regionale per l'internazionalizzazione delle attivita' produttive istituito ai sensi del [decreto del Presidente della Repubblica 9 febbraio 2001, n. 161](../Regolamenti%20governativi/Regolamento%20di%20semplificazione%20dei%20procedimenti%20relativi%20alla%20concessione%20di%20agevolazioni%20contributi%20incentivi%20e%20benefici%20per%20lo%20sviluppo%20delle%20esportazioni%20e%20per%20linternazionalizzazione%20_cd3bbfc94b1a.md).
+                            Sportello: lo Sportello regionale per l'internazionalizzazione delle attivita' produttive istituito ai sensi del [decreto del Presidente della Repubblica 9 febbraio 2001, n. 161](../DPR/Regolamento%20di%20semplificazione%20dei%20procedimenti%20relativi%20alla%20concessione%20di%20agevolazioni%20contributi%20incentivi%20e%20benefici%20per%20lo%20sviluppo%20delle%20esportazioni%20e%20per%20linternazionalizzazione%20_cd3bbfc94b1a.md).
 
 ## Art. 2. — Tipologia delle iniziative finanziabili
 

@@ -738,7 +738,7 @@ In caso di diffusione anche da parte di terzi di sentenze o di altri provvedimen
 
 5.
 
-Fermo restando quanto previsto dall'[articolo 734-bis del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) relativamente alle persone offese da atti di violenza sessuale, chiunque diffonde sentenze o altri provvedimenti giurisdizionali dell'autorita' giudiziaria di ogni ordine e grado e' tenuto ad omettere in ogni caso, anche in mancanza dell'annotazione di cui al comma 2, le generalita', altri dati identificativi o altri dati anche relativi a terzi dai quali puo' desumersi anche indirettamente l'identita' di minori, oppure delle parti nei procedimenti in materia di rapporti di famiglia e di stato delle persone.
+Fermo restando quanto previsto dall'[articolo 734-bis del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) relativamente alle persone offese da atti di violenza sessuale, chiunque diffonde sentenze o altri provvedimenti giurisdizionali dell'autorita' giudiziaria di ogni ordine e grado e' tenuto ad omettere in ogni caso, anche in mancanza dell'annotazione di cui al comma 2, le generalita', altri dati identificativi o altri dati anche relativi a terzi dai quali puo' desumersi anche indirettamente l'identita' di minori, oppure delle parti nei procedimenti in materia di rapporti di famiglia e di stato delle persone.
 
 6.
 
@@ -1865,7 +1865,7 @@ Il Ministro dell'interno o, su sua delega, i responsabili degli uffici centrali 
 
 4-quater.
 
-Il fornitore o l'operatore di servizi ((telefonici,)) informatici o telematici cui e' rivolto l'ordine previsto dal comma 4-ter deve ottemperarvi senza ritardo, fornendo immediatamente all'autorita' richiedente l'assicurazione dell'adempimento. Il fornitore o l'operatore di servizi ((telefonici,)) informatici o telematici e' tenuto a mantenere il segreto relativamente all'ordine ricevuto e alle attivita' conseguentemente svolte per il periodo indicato dall'autorita'. In caso di violazione dell'obbligo si applicano, salvo che il fatto costituisca piu' grave reato, le disposizioni dell'[articolo 326 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Il fornitore o l'operatore di servizi ((telefonici,)) informatici o telematici cui e' rivolto l'ordine previsto dal comma 4-ter deve ottemperarvi senza ritardo, fornendo immediatamente all'autorita' richiedente l'assicurazione dell'adempimento. Il fornitore o l'operatore di servizi ((telefonici,)) informatici o telematici e' tenuto a mantenere il segreto relativamente all'ordine ricevuto e alle attivita' conseguentemente svolte per il periodo indicato dall'autorita'. In caso di violazione dell'obbligo si applicano, salvo che il fatto costituisca piu' grave reato, le disposizioni dell'[articolo 326 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 4-quinquies.
 
@@ -2182,7 +2182,7 @@ Quando le registrazioni audio, le immagini o i video o gli altri documenti infor
 
 3.
 
-Per le finalita' di cui al comma 1, l'invio al Garante di registrazioni audio, immagini o video o altri documenti informatici a contenuto sessualmente esplicito riguardanti soggetti terzi, effettuato dall'interessato, non integra il reato di cui all'[articolo 612-ter del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Per le finalita' di cui al comma 1, l'invio al Garante di registrazioni audio, immagini o video o altri documenti informatici a contenuto sessualmente esplicito riguardanti soggetti terzi, effettuato dall'interessato, non integra il reato di cui all'[articolo 612-ter del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 4.
 
@@ -2196,7 +2196,7 @@ Il Garante, con proprio provvedimento, puo' disciplinare specifiche modalita' di
 
 I fornitori di servizi di condivisione di contenuti audiovisivi, ovunque stabiliti, che erogano servizi accessibili in Italia, indicano senza ritardo al Garante o pubblicano nel proprio sito internet un recapito al quale possono essere comunicati i provvedimenti adottati ai sensi del comma 1. In caso di inadempimento dell'obbligo di cui al periodo precedente, il Garante diffida il fornitore del servizio ad adempiere entro trenta giorni. In caso di inottemperanza alla diffida si applica la sanzione amministrativa pecuniaria di cui all'articolo 83, paragrafo 4, del Regolamento.
 
-7. Quando il Garante, a seguito della segnalazione di cui al comma 1, acquisisce notizia della consumazione del reato di cui all'[articolo 612-ter del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), anche in forma tentata, nel caso di procedibilita' d'ufficio trasmette al pubblico ministero la segnalazione ricevuta e la documentazione acquisita))
+7. Quando il Garante, a seguito della segnalazione di cui al comma 1, acquisisce notizia della consumazione del reato di cui all'[articolo 612-ter del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), anche in forma tentata, nel caso di procedibilita' d'ufficio trasmette al pubblico ministero la segnalazione ricevuta e la documentazione acquisita))
 
 ((49))
 

@@ -160,7 +160,7 @@ AVVERTENZA:
  2. Nella domanda devono essere indicati:
  a) tipo e quantita' del materiale di armamento, oggetto dell'operazione. Se trattasi di parti di ricambio dovranno essere indicati i tipi di materiali identificati ai quali esse appartengono;
  b) l'ammontare del contratto e l'indicazione dei termini finali di consegna, anche frazionata, previsti dal contratto medesimo, nonche' le condizioni per la disponibilita' alla consegna di ricambi, per la prestazione di servizi di manutenzione o per la cessione di altri servizi di assistenza;
- c) l'ammontare di eventuali compensi di intermediazione nonche' la dichiarazione di cui agli [articoli 12](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20in%20materia%20valutaria%20ai%20sensi%20dellart.%201%20della%20legge%2026%20settembre%201986%20n.%20599.md) e [20 del decreto del Presidente della Repubblica 29 settembre 1987, n. 454](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20in%20materia%20valutaria%20ai%20sensi%20dellart.%201%20della%20legge%2026%20settembre%201986%20n.%20599.md);
+ c) l'ammontare di eventuali compensi di intermediazione nonche' la dichiarazione di cui agli [articoli 12](../DPR/Disposizioni%20in%20materia%20valutaria%20ai%20sensi%20dellart.%201%20della%20legge%2026%20settembre%201986%20n.%20599.md) e [20 del decreto del Presidente della Repubblica 29 settembre 1987, n. 454](../DPR/Disposizioni%20in%20materia%20valutaria%20ai%20sensi%20dellart.%201%20della%20legge%2026%20settembre%201986%20n.%20599.md);
  d) il Paese di destinazione finale del materiale ovvero eventuali Paesi, enti, imprese e soggetti di destinazione intermedia o finale ai sensi del comma 3, lettera c);
  e) l'identificazione del destinatario (autorita' governativa, ente pubblico o impresa autorizzata);
  f) eventuali obblighi economici verso lo Stato per diritti di proprieta' e di brevetto e simili;
@@ -228,7 +228,7 @@ Le unita' organizzative responsabili del procedimento possono richiedere all'ope
 
 1.
 
-Alle attivita' degli organi e degli uffici investiti di compiti attinenti l'attuazione della legge si applicano le vigenti disposizioni di cui al [regio decreto 11 luglio 1941, n. 1161](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20relative%20al%20segreto%20militare.%20041U1161.md).
+Alle attivita' degli organi e degli uffici investiti di compiti attinenti l'attuazione della legge si applicano le vigenti disposizioni di cui al [regio decreto 11 luglio 1941, n. 1161](../Regi%20decreti/Norme%20relative%20al%20segreto%20militare.%20041U1161.md).
 
 2.
 

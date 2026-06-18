@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 Il [decreto legislativo del Capo provvisorio dello Stato 8 novembre 1947, n. 1596](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-11-08;1596), e' ratificato con le seguenti modificazioni:
  Art. 1. - Dopo le parole "e Vallata" sono soppresse le parole: "i quali a tale scopo si sono riuniti in consorzio".
- Art. 1-bis (nuovo). - "Il Consiglio di amministrazione dell'Ente autonomo per l'acquedotto pugliese, di cui all'[art. 1 del regio decreto 9 aprile 1931, n. 334](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20concernenti%20gli%20organi%20di%20amministrazione%20dellEnte%20autonomo%20per%20lAcquedotto%20pugliese.%20031U0334.md), e' composto:
+ Art. 1-bis (nuovo). - "Il Consiglio di amministrazione dell'Ente autonomo per l'acquedotto pugliese, di cui all'[art. 1 del regio decreto 9 aprile 1931, n. 334](../Regi%20decreti/Disposizioni%20concernenti%20gli%20organi%20di%20amministrazione%20dellEnte%20autonomo%20per%20lAcquedotto%20pugliese.%20031U0334.md), e' composto:
  a) del presidente, nominato con decreto del Presidente della Repubblica su proposta del Ministro per i lavori pubblici, di concerto col Ministro per il tesoro, sentito il Consiglio dei Ministri;
  b) di due vice presidenti, eletti a scrutinio segreto dal Consiglio di amministrazione nel proprio seno, uno fra i rappresentanti delle Amministrazioni provinciali della Puglia e l'altro fra quelli della Lucania;
  c) di due membri, uno tecnico ed uno amministrativo, nominati dal Ministro per i lavori pubblici;
@@ -29,7 +29,7 @@ Il [decreto legislativo del Capo provvisorio dello Stato 8 novembre 1947, n. 159
  h) dei membri eletti dalle cinque Amministrazioni provinciali della. Puglia;
  i) dei membri eletti dalle due Amministrazioni provinciali della Lucania;
  l) del membro eletto dall'Amministrazione provinciale di Avellino".
- Il [quinto comma dell'art. 1 del regio decreto 9 aprile 1931, n. 334](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20concernenti%20gli%20organi%20di%20amministrazione%20dellEnte%20autonomo%20per%20lAcquedotto%20pugliese.%20031U0334.md), e' soppresso.
+ Il [quinto comma dell'art. 1 del regio decreto 9 aprile 1931, n. 334](../Regi%20decreti/Disposizioni%20concernenti%20gli%20organi%20di%20amministrazione%20dellEnte%20autonomo%20per%20lAcquedotto%20pugliese.%20031U0334.md), e' soppresso.
  Art. 1-ter (nuovo). - "La Giunta permanente di cui all'[art. 1 del regio decreto 19 aprile 1931, n. 334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-04-19;334#art_1), e' costituita dal presidente, dai vice presidenti del Consiglio di amministrazione, dal consigliere tecnico nominato dal Ministro per i lavori pubblici e dal consigliere nominato dal Ministro per il tesoro.
  I vice presidenti esercitano le facolta' che saranno ad essi delegate dal presidente.
  Art. 2. - E' sostituito dal seguente:

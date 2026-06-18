@@ -26,7 +26,7 @@ Visto in particolare l'articolo 4 del suddetto decreto che al comma 8 prevede: �
 
 Visti gli articoli 36 e ss. del [regio decreto del 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) recante «Approvazione del testo definitivo del [Codice della Navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md)»;
 
-Visto il [decreto del Presidente della Repubblica n. 328, del 15 febbraio 1952](../Regolamenti%20governativi/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md) recante «Approvazione del regolamento per l'esecuzione del [Codice della Navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md)»;
+Visto il [decreto del Presidente della Repubblica n. 328, del 15 febbraio 1952](../DPR/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md) recante «Approvazione del regolamento per l'esecuzione del [Codice della Navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md)»;
 
 Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 

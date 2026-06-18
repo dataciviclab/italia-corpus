@@ -45,7 +45,7 @@ AVVERTENZE:
 
 1.
 
-Ove il fatto non configuri il piu' grave reato previsto dall'[articolo 640-bis del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), chiunque, mediante l'esposizione di dati o notizie falsi, consegue indebitamente, per se' o per altri, aiuti, premi, indennita', restituzioni, contributi o altre erogazioni a carico totale o parziale del Fondo europeo agricolo di garanzia e del Fondo europeo agricolo per lo sviluppo rurale e' punito con la reclusione da sei mesi a tre anni. La pena e' della reclusione da sei mesi a quattro anni quando il danno o il profitto sono superiori a euro 100.000. Quando la somma indebitamente percepita e' pari o inferiore a 5.000 euro si applica soltanto la sanzione amministrativa di cui agli articoli seguenti.
+Ove il fatto non configuri il piu' grave reato previsto dall'[articolo 640-bis del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), chiunque, mediante l'esposizione di dati o notizie falsi, consegue indebitamente, per se' o per altri, aiuti, premi, indennita', restituzioni, contributi o altre erogazioni a carico totale o parziale del Fondo europeo agricolo di garanzia e del Fondo europeo agricolo per lo sviluppo rurale e' punito con la reclusione da sei mesi a tre anni. La pena e' della reclusione da sei mesi a quattro anni quando il danno o il profitto sono superiori a euro 100.000. Quando la somma indebitamente percepita e' pari o inferiore a 5.000 euro si applica soltanto la sanzione amministrativa di cui agli articoli seguenti.
 
 2.
 
@@ -55,7 +55,7 @@ Agli effetti della disposizione del precedente comma 1 e di quella del comma 1 d
 
 Con la sentenza il giudice determina altresi' l'importo indebitamente percepito e condanna il colpevole alla restituzione di esso all'amministrazione che ha disposto la erogazione di cui al comma 1. (1)
 
-((3-bis. Nei casi di condanna o di applicazione della pena su richiesta a norma dell'[articolo 444 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_444) per il delitto di cui al comma 1, si osservano le disposizioni contenute negli [articoli 240-bis](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [322-ter del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), in quanto compatibili))
+((3-bis. Nei casi di condanna o di applicazione della pena su richiesta a norma dell'[articolo 444 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_444) per il delitto di cui al comma 1, si osservano le disposizioni contenute negli [articoli 240-bis](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [322-ter del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), in quanto compatibili))
 
 ---------------
 

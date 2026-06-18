@@ -490,7 +490,7 @@ Il presente Capo ha per oggetto il recepimento della [direttiva n. 2003/59/CE](h
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 16 gennaio 2013, n. 2](../Atti%20di%20recepimento%20direttive%20UE/Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 16 gennaio 2013, n. 2](Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
 
 ### Art. 14. — (Qualificazione iniziale e formazione periodica dei conducenti)
 
@@ -502,7 +502,7 @@ L'attivita' di guida su strada aperta all'uso pubblico per mezzo di veicoli ((ad
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 16 gennaio 2013, n. 2](../Atti%20di%20recepimento%20direttive%20UE/Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 16 gennaio 2013, n. 2](Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
 
 ### Art. 15. — (( (Ambito di applicazione). ))
 
@@ -510,7 +510,7 @@ Il [D.Lgs. 16 gennaio 2013, n. 2](../Atti%20di%20recepimento%20direttive%20UE/Mo
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 16 gennaio 2013, n. 2](../Atti%20di%20recepimento%20direttive%20UE/Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 16 gennaio 2013, n. 2](Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
 
 ### Art. 16. — (( (Deroghe). ))
 
@@ -560,7 +560,7 @@ Ai fini della lettera c) del comma 2, si intende:
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 16 gennaio 2013, n. 2](../Atti%20di%20recepimento%20direttive%20UE/Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 16 gennaio 2013, n. 2](Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
 
 ### Art. 17. — (( (Esenzioni) ))
 
@@ -568,7 +568,7 @@ Il [D.Lgs. 16 gennaio 2013, n. 2](../Atti%20di%20recepimento%20direttive%20UE/Mo
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 16 gennaio 2013, n. 2](../Atti%20di%20recepimento%20direttive%20UE/Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 16 gennaio 2013, n. 2](Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
 
 ### Art. 18. — (Qualificazione iniziale)
 
@@ -615,7 +615,7 @@ I titolari di carta di qualificazione del conducente per il trasporto di cose ch
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 16 gennaio 2013, n. 2](../Atti%20di%20recepimento%20direttive%20UE/Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 16 gennaio 2013, n. 2](Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
 
 ### Art. 19. — Carta di qualificazione del conducente comprovante la qualificazioneiniziale
 
@@ -669,7 +669,7 @@ Il [D.Lgs. 22 dicembre 2008, n. 214](../Leggi%20delega%20e%20relativi%20provvedi
 
 AGGIORNAMENTO (6)
 
-Il [D. Lgs. 16 gennaio 2013, n. 2](../Atti%20di%20recepimento%20direttive%20UE/Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
+Il [D. Lgs. 16 gennaio 2013, n. 2](Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
 
 ### Art. 20. — (( (Formazione periodica). ))
 
@@ -693,7 +693,7 @@ I corsi di formazione sono organizzati da uno dei soggetti di cui all'articolo 1
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 16 gennaio 2013, n. 2](../Atti%20di%20recepimento%20direttive%20UE/Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 16 gennaio 2013, n. 2](Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
 
 ### Art. 21. — (( (Luogo di svolgimento della qualificazione iniziale e della formazione periodica). ))
 
@@ -701,7 +701,7 @@ Il [D.Lgs. 16 gennaio 2013, n. 2](../Atti%20di%20recepimento%20direttive%20UE/Mo
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 16 gennaio 2013, n. 2](../Atti%20di%20recepimento%20direttive%20UE/Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 16 gennaio 2013, n. 2](Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
 
 ### Art. 22. — Codice unionale
 
@@ -765,7 +765,7 @@ All'atto del rilascio della patente, sulla stessa e' apposto il codice unionale 
 
 AGGIORNAMENTO (6)
 
-Il [D. Lgs. 16 gennaio 2013, n. 2](../Atti%20di%20recepimento%20direttive%20UE/Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 13, comma 1) che "Nel capo II del [decreto legislativo 21 novembre 2005, n. 286](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20il%20riassetto%20normativo%20in%20materia%20di%20liberalizzazione%20regolata%20dellesercizio%20dellattivita%20di%20autotrasportatore.md), e successive modificazioni, ivi compresi negli allegati che ne costituiscono parte integrante, la parola "merci", ovunque ricorra, e' sostituita dalla seguente: "cose"". 
+Il [D. Lgs. 16 gennaio 2013, n. 2](Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 13, comma 1) che "Nel capo II del [decreto legislativo 21 novembre 2005, n. 286](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20il%20riassetto%20normativo%20in%20materia%20di%20liberalizzazione%20regolata%20dellesercizio%20dellattivita%20di%20autotrasportatore.md), e successive modificazioni, ivi compresi negli allegati che ne costituiscono parte integrante, la parola "merci", ovunque ricorra, e' sostituita dalla seguente: "cose"". 
  Ha inoltre disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
 
 ### Art. 22-bis. — (( (Assistenza reciproca degli Stati dell'Unione europea e dello Spazio economico europeo). ))

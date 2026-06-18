@@ -16,11 +16,11 @@ vigente: true
 
 1.
 
-Il presente decreto garantisce una progressiva riduzione del collocamento in discarica dei rifiuti, in particolare di quelli idonei al riciclaggio o al recupero di altro tipo, al fine di sostenere la transizione verso un'economia circolare e adempiere i requisiti degli [articoli 179](../Codici/Norme%20in%20materia%20ambientale.md) e [182 del decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), e di prevedere, mediante requisiti operativi e tecnici per i rifiuti e le discariche, misure, procedure e orientamenti volti a prevenire o a ridurre il piu' possibile le ripercussioni negative sull'ambiente, in particolare l'inquinamento delle acque superficiali, delle acque di falda, del suolo e dell'aria, sul patrimonio agroalimentare, culturale e il paesaggio, e sull'ambiente globale, compreso l'effetto serra, nonche' i rischi per la salute umana risultanti dalle discariche di rifiuti, durante l'intero ciclo di vita della discarica.
+Il presente decreto garantisce una progressiva riduzione del collocamento in discarica dei rifiuti, in particolare di quelli idonei al riciclaggio o al recupero di altro tipo, al fine di sostenere la transizione verso un'economia circolare e adempiere i requisiti degli [articoli 179](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) e [182 del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), e di prevedere, mediante requisiti operativi e tecnici per i rifiuti e le discariche, misure, procedure e orientamenti volti a prevenire o a ridurre il piu' possibile le ripercussioni negative sull'ambiente, in particolare l'inquinamento delle acque superficiali, delle acque di falda, del suolo e dell'aria, sul patrimonio agroalimentare, culturale e il paesaggio, e sull'ambiente globale, compreso l'effetto serra, nonche' i rischi per la salute umana risultanti dalle discariche di rifiuti, durante l'intero ciclo di vita della discarica.
 
 2.
 
-Si considerano soddisfatti i requisiti pertinenti del [decreto legislativo 4 marzo 2014, n. 46](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202010-75-UE%20relativa%20alle%20emissioni%20industriali%20prevenzione%20e%20riduzione%20integrate%20dellinquinamento.%2014G00058.md), se sono soddisfatti i requisiti del presente decreto.
+Si considerano soddisfatti i requisiti pertinenti del [decreto legislativo 4 marzo 2014, n. 46](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202010-75-UE%20relativa%20alle%20emissioni%20industriali%20prevenzione%20e%20riduzione%20integrate%20dellinquinamento.%2014G00058.md), se sono soddisfatti i requisiti del presente decreto.
 
 ## Articolo 2 — (Definizioni)
 
@@ -51,7 +51,7 @@ Ai fini del presente decreto si intende per:
 
 1-bis.
 
-Ai fini del presente decreto si applicano, inoltre, le definizioni di "rifiuto", "rifiuto pericoloso", "rifiuto non pericoloso", "rifiuti urbani", "produttore di rifiuti", "detentore di rifiuti", "gestione dei rifiuti", "raccolta differenziata", "recupero", "preparazione per il riutilizzo", "riciclaggio" e "smaltimento", di cui all'[articolo 183 del decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md).
+Ai fini del presente decreto si applicano, inoltre, le definizioni di "rifiuto", "rifiuto pericoloso", "rifiuto non pericoloso", "rifiuti urbani", "produttore di rifiuti", "detentore di rifiuti", "gestione dei rifiuti", "raccolta differenziata", "recupero", "preparazione per il riutilizzo", "riciclaggio" e "smaltimento", di cui all'[articolo 183 del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md).
 
 ))
 
@@ -77,7 +77,7 @@ Il presente decreto non si applica:
 
 3.
 
-La gestione dei rifiuti provenienti dalle industrie estrattive sulla terraferma, vale a dire i rifiuti derivanti dalle attivita' di prospezione, estrazione, compresa la fase di sviluppo preproduzione, trattamento e stoccaggio di minerali, e dallo sfruttamento delle cave e' esclusa dall'ambito di applicazione del presente decreto, laddove rientri nell'ambito di applicazione del [decreto legislativo 30 maggio 2008, n. 117](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-21-CE%20relativa%20alla%20gestione%20dei%20rifiuti%20delle%20industrie%20estrattive%20e%20che%20modifica%20la%20direttiva%202004-35-CE.md).
+La gestione dei rifiuti provenienti dalle industrie estrattive sulla terraferma, vale a dire i rifiuti derivanti dalle attivita' di prospezione, estrazione, compresa la fase di sviluppo preproduzione, trattamento e stoccaggio di minerali, e dallo sfruttamento delle cave e' esclusa dall'ambito di applicazione del presente decreto, laddove rientri nell'ambito di applicazione del [decreto legislativo 30 maggio 2008, n. 117](Attuazione%20della%20direttiva%202006-21-CE%20relativa%20alla%20gestione%20dei%20rifiuti%20delle%20industrie%20estrattive%20e%20che%20modifica%20la%20direttiva%202004-35-CE.md).
 
 ))
 
@@ -95,7 +95,7 @@ c) discarica per rifiuti pericolosi.
 
 1.
 
-Entro un anno dalla data di entrata in vigore della presente disposizione, ciascuna regione elabora ed approva un apposito programma per la riduzione dei rifiuti biodegradabili da collocare in discarica ad integrazione del piano regionale di gestione dei rifiuti di cui all'[articolo 199 del decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), allo scopo di raggiungere a livello di ambito territoriale ottimale, oppure, ove questo non sia stato istituito, a livello provinciale, i seguenti obiettivi:
+Entro un anno dalla data di entrata in vigore della presente disposizione, ciascuna regione elabora ed approva un apposito programma per la riduzione dei rifiuti biodegradabili da collocare in discarica ad integrazione del piano regionale di gestione dei rifiuti di cui all'[articolo 199 del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), allo scopo di raggiungere a livello di ambito territoriale ottimale, oppure, ove questo non sia stato istituito, a livello provinciale, i seguenti obiettivi:
                         a)
                             entro cinque anni dalla data di entrata in vigore della presente disposizione i rifiuti urbani biodegradabili devono essere inferiori a 173 kg/anno per abitante;
                         b)
@@ -119,11 +119,11 @@ I programmi e i relativi stati annuali di attuazione sono trasmessi al Ministero
 
 4-bis.
 
-A partire dal 2030 e' vietato lo smaltimento in discarica di tutti i rifiuti idonei al riciclaggio o al recupero di altro tipo, in particolare i rifiuti urbani, ad eccezione dei rifiuti per i quali il collocamento in discarica produca il miglior risultato ambientale conformemente all'[articolo 179 del decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md). I criteri per la individuazione dei rifiuti per i quali il collocamento in discarica produca il miglior risultato ambientale, nonche' un elenco anche non esaustivo dei medesimi, sono definiti dal Ministro dell'ambiente e della tutela del territorio e del mare con decreto adottato ai sensi dell'articolo 16-bis. Le Regioni conformano la propria pianificazione, predisposta ai sensi dell'[articolo 199 del decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), al fine di garantire il raggiungimento di tale obiettivo. Le Regioni modificano tempestivamente gli atti autorizzativi che consentono lo smaltimento in discarica dei rifiuti non ammessi, in modo tale da garantire che, al piu' tardi per il giorno 31 dicembre 2029, i medesimi siano adeguati ai sopra citati divieti di smaltimento.
+A partire dal 2030 e' vietato lo smaltimento in discarica di tutti i rifiuti idonei al riciclaggio o al recupero di altro tipo, in particolare i rifiuti urbani, ad eccezione dei rifiuti per i quali il collocamento in discarica produca il miglior risultato ambientale conformemente all'[articolo 179 del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md). I criteri per la individuazione dei rifiuti per i quali il collocamento in discarica produca il miglior risultato ambientale, nonche' un elenco anche non esaustivo dei medesimi, sono definiti dal Ministro dell'ambiente e della tutela del territorio e del mare con decreto adottato ai sensi dell'articolo 16-bis. Le Regioni conformano la propria pianificazione, predisposta ai sensi dell'[articolo 199 del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), al fine di garantire il raggiungimento di tale obiettivo. Le Regioni modificano tempestivamente gli atti autorizzativi che consentono lo smaltimento in discarica dei rifiuti non ammessi, in modo tale da garantire che, al piu' tardi per il giorno 31 dicembre 2029, i medesimi siano adeguati ai sopra citati divieti di smaltimento.
 
 4-ter.
 
-Entro il 2035 la quantita' di rifiuti urbani collocati in discarica deve essere ridotta al 10 per cento, o a una percentuale inferiore, del totale in peso dei rifiuti urbani prodotti. Le Regioni conformano la propria pianificazione, predisposta ai sensi dell'[articolo 199 del decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), al fine di garantire il raggiungimento di tale obiettivo.
+Entro il 2035 la quantita' di rifiuti urbani collocati in discarica deve essere ridotta al 10 per cento, o a una percentuale inferiore, del totale in peso dei rifiuti urbani prodotti. Le Regioni conformano la propria pianificazione, predisposta ai sensi dell'[articolo 199 del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), al fine di garantire il raggiungimento di tale obiettivo.
 
 ))
 
@@ -145,7 +145,7 @@ Per calcolare se gli obiettivi di cui all'articolo 5, comma 4-ter, siano stati c
 
 2.
 
-Al fine di assicurare il soddisfacimento degli obiettivi di cui al comma 1, nonche' nel rispetto del divieto di cui all'articolo 6, la tracciabilita' dei rifiuti urbani e' garantita con gli strumenti di cui all'[articolo 6, comma 3, del decreto-legge 14 dicembre 2018, n. 135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-12-14;135#art_6-com3), convertito, con modificazioni, dalla [legge 11 febbraio 2019, n. 12, nonche' agli articoli 189](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20dicembre%202018%20n.%20135%20recante%20disposizioni%20urgenti%20in%20materia%20di%20sostegno%20e%20semplificazione%20per%20le%20imprese%20e%20per%20la%20pubblica%20amm_7999d3f738ab.md), [190](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20dicembre%202018%20n.%20135%20recante%20disposizioni%20urgenti%20in%20materia%20di%20sostegno%20e%20semplificazione%20per%20le%20imprese%20e%20per%20la%20pubblica%20amm_7999d3f738ab.md) e [193](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20dicembre%202018%20n.%20135%20recante%20disposizioni%20urgenti%20in%20materia%20di%20sostegno%20e%20semplificazione%20per%20le%20imprese%20e%20per%20la%20pubblica%20amm_7999d3f738ab.md) del [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md). Il controllo della qualita' dei rifiuti urbani e' assicurato mediante il rispetto delle disposizioni di cui agli articoli da 7 a 7-octies, nonche' all'articolo 11 del presente decreto.
+Al fine di assicurare il soddisfacimento degli obiettivi di cui al comma 1, nonche' nel rispetto del divieto di cui all'articolo 6, la tracciabilita' dei rifiuti urbani e' garantita con gli strumenti di cui all'[articolo 6, comma 3, del decreto-legge 14 dicembre 2018, n. 135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-12-14;135#art_6-com3), convertito, con modificazioni, dalla [legge 11 febbraio 2019, n. 12, nonche' agli articoli 189](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20dicembre%202018%20n.%20135%20recante%20disposizioni%20urgenti%20in%20materia%20di%20sostegno%20e%20semplificazione%20per%20le%20imprese%20e%20per%20la%20pubblica%20amm_7999d3f738ab.md), [190](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20dicembre%202018%20n.%20135%20recante%20disposizioni%20urgenti%20in%20materia%20di%20sostegno%20e%20semplificazione%20per%20le%20imprese%20e%20per%20la%20pubblica%20amm_7999d3f738ab.md) e [193](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20dicembre%202018%20n.%20135%20recante%20disposizioni%20urgenti%20in%20materia%20di%20sostegno%20e%20semplificazione%20per%20le%20imprese%20e%20per%20la%20pubblica%20amm_7999d3f738ab.md) del [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md). Il controllo della qualita' dei rifiuti urbani e' assicurato mediante il rispetto delle disposizioni di cui agli articoli da 7 a 7-octies, nonche' all'articolo 11 del presente decreto.
 
 3.
 
@@ -360,7 +360,7 @@ Nelle discariche per i rifiuti non pericolosi possono essere ammessi i seguenti 
 
 2.
 
-Nelle discariche per rifiuti non pericolosi e' consentito lo smaltimento, senza caratterizzazione analitica, dei rifiuti urbani di cui al [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), classificati come non pericolosi nel capitolo 20 dell'elenco europeo dei rifiuti.
+Nelle discariche per rifiuti non pericolosi e' consentito lo smaltimento, senza caratterizzazione analitica, dei rifiuti urbani di cui al [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), classificati come non pericolosi nel capitolo 20 dell'elenco europeo dei rifiuti.
 
 3.
 
@@ -421,7 +421,7 @@ Le informazioni relative ai rifiuti che devono essere incluse nella domanda di a
 
 4.
 
-Le autorita' territorialmente competenti possono, altresi', autorizzare discariche monodedicate per rifiuti non pericolosi derivanti da operazioni di messa in sicurezza d'emergenza e da operazioni di bonifica dei siti inquinati ai sensi del Titolo V della Parte IV del [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md).
+Le autorita' territorialmente competenti possono, altresi', autorizzare discariche monodedicate per rifiuti non pericolosi derivanti da operazioni di messa in sicurezza d'emergenza e da operazioni di bonifica dei siti inquinati ai sensi del Titolo V della Parte IV del [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md).
 
 ))
 
@@ -509,7 +509,7 @@ La domanda di autorizzazione per la costruzione e l'esercizio di una discarica e
 
 AGGIORNAMENTO (19)
 
-Il [D.Lgs. 3 settembre 2020, n. 121](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202018-850%20che%20modifica%20la%20direttiva%201999-31-CE%20relativa%20alle%20discariche%20di%20rifiuti.%2020G00138.md) ha disposto (con l'art. 2, comma 2) che "Le disposizioni di cui all'articolo 1, lettere i), n) e o), si applicano alle discariche di nuova realizzazione, nonche' alla realizzazione di nuovi lotti delle discariche esistenti le cui domande di autorizzazione siano state presentate dopo la data dell'entrata in vigore del presente decreto".
+Il [D.Lgs. 3 settembre 2020, n. 121](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202018-850%20che%20modifica%20la%20direttiva%201999-31-CE%20relativa%20alle%20discariche%20di%20rifiuti.%2020G00138.md) ha disposto (con l'art. 2, comma 2) che "Le disposizioni di cui all'articolo 1, lettere i), n) e o), si applicano alle discariche di nuova realizzazione, nonche' alla realizzazione di nuovi lotti delle discariche esistenti le cui domande di autorizzazione siano state presentate dopo la data dell'entrata in vigore del presente decreto".
 
 ## Articolo 9 — (Condizioni per il rilascio dell'autorizzazione delle discariche)
 
@@ -550,7 +550,7 @@ Note all'[art. 9:
 
 1.
 
-COMMA ABROGATO DAL [D.LGS. 18 FEBBRAIO 2005, N. 59](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20integrale%20della%20direttiva%2096-61-CE%20relativa%20alla%20prevenzione%20e%20riduzione%20integrate%20dellinquinamento.md).
+COMMA ABROGATO DAL [D.LGS. 18 FEBBRAIO 2005, N. 59](Attuazione%20integrale%20della%20direttiva%2096-61-CE%20relativa%20alla%20prevenzione%20e%20riduzione%20integrate%20dellinquinamento.md).
 
 2.
 
@@ -588,7 +588,7 @@ L'autorizzazione all'esercizio della discarica e' rilasciata solo dopo l'accetta
 
 4.
 
-COMMA ABROGATO DAL [D.LGS. 18 FEBBRAIO 2005, N. 59](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20integrale%20della%20direttiva%2096-61-CE%20relativa%20alla%20prevenzione%20e%20riduzione%20integrate%20dellinquinamento.md).
+COMMA ABROGATO DAL [D.LGS. 18 FEBBRAIO 2005, N. 59](Attuazione%20integrale%20della%20direttiva%2096-61-CE%20relativa%20alla%20prevenzione%20e%20riduzione%20integrate%20dellinquinamento.md).
 
 5.
 
@@ -624,7 +624,7 @@ I campioni dovranno essere prelevati su carichi in ingresso alla discarica per o
 
 Ai fini dell'ammissione in discarica dei rifiuti il gestore dell'impianto:
                         a)
-                            controlla la documentazione relativa ai rifiuti, compreso il formulario di identificazione di cui all'[articolo 193 del decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), e, se previsti, i documenti di cui al regolamento (CE) n. 1013/2006 del Parlamento europeo e del Consiglio, del 14 giugno 2006, relativo alle spedizioni di rifiuti;
+                            controlla la documentazione relativa ai rifiuti, compreso il formulario di identificazione di cui all'[articolo 193 del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), e, se previsti, i documenti di cui al regolamento (CE) n. 1013/2006 del Parlamento europeo e del Consiglio, del 14 giugno 2006, relativo alle spedizioni di rifiuti;
                         b)
                             sottopone ogni carico di rifiuti ad ispezione visiva prima e dopo lo scarico e verifica la conformita' delle caratteristiche dei rifiuti indicate nel formulario di identificazione, di cui all'[articolo 193 del decreto legislativo n. 152 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152#art_193), ai criteri di ammissibilita' previsti dal presente decreto;
                         c)
@@ -662,7 +662,7 @@ L'esito dell'ispezione non comporta, in alcun caso, una minore responsabilita' p
 
 AGGIORNAMENTO (19)
 
-Il [D.Lgs. 3 settembre 2020, n. 121](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202018-850%20che%20modifica%20la%20direttiva%201999-31-CE%20relativa%20alle%20discariche%20di%20rifiuti.%2020G00138.md) ha disposto (con l'art. 2, comma 2) che "Le disposizioni di cui all'articolo 1, lettere i), n) e o), si applicano alle discariche di nuova realizzazione, nonche' alla realizzazione di nuovi lotti delle discariche esistenti le cui domande di autorizzazione siano state presentate dopo la data dell'entrata in vigore del presente decreto".
+Il [D.Lgs. 3 settembre 2020, n. 121](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202018-850%20che%20modifica%20la%20direttiva%201999-31-CE%20relativa%20alle%20discariche%20di%20rifiuti.%2020G00138.md) ha disposto (con l'art. 2, comma 2) che "Le disposizioni di cui all'articolo 1, lettere i), n) e o), si applicano alle discariche di nuova realizzazione, nonche' alla realizzazione di nuovi lotti delle discariche esistenti le cui domande di autorizzazione siano state presentate dopo la data dell'entrata in vigore del presente decreto".
 
 ## Articolo 13 — (Gestione operativa e post-operativa)
 
@@ -710,7 +710,7 @@ Il gestore deve, inoltre, notificare all'autorita' competente anche eventuali si
 
 AGGIORNAMENTO (19)
 
-Il [D.Lgs. 3 settembre 2020, n. 121](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202018-850%20che%20modifica%20la%20direttiva%201999-31-CE%20relativa%20alle%20discariche%20di%20rifiuti.%2020G00138.md) ha disposto (con l'art. 2, comma 2) che "Le disposizioni di cui all'articolo 1, lettere i), n) e o), si applicano alle discariche di nuova realizzazione, nonche' alla realizzazione di nuovi lotti delle discariche esistenti le cui domande di autorizzazione siano state presentate dopo la data dell'entrata in vigore del presente decreto".
+Il [D.Lgs. 3 settembre 2020, n. 121](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202018-850%20che%20modifica%20la%20direttiva%201999-31-CE%20relativa%20alle%20discariche%20di%20rifiuti.%2020G00138.md) ha disposto (con l'art. 2, comma 2) che "Le disposizioni di cui all'articolo 1, lettere i), n) e o), si applicano alle discariche di nuova realizzazione, nonche' alla realizzazione di nuovi lotti delle discariche esistenti le cui domande di autorizzazione siano state presentate dopo la data dell'entrata in vigore del presente decreto".
 
 ## Articolo 14 — (Garanzie finanziarie)
 
@@ -898,7 +898,7 @@ La [L. 27 dicembre 2006, n. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disp
 
 AGGIORNAMENTO (8)
 
-Il [D.L. 30 dicembre 2008, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-30;208), convertito, con modificazioni, dalla [L. 27 febbraio 2009, n. 13](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202008%20n.%20208%20recante%20misure%20straordinarie%20in%20materia%20di%20risorse%20idriche%20e%20di%20protezione%20dellambiente.md), ha disposto (con l'art. 5, comma 1-bis) che "Fermo quanto previsto dall'[articolo 199 del decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), relativo ai piani regionali di gestione dei rifiuti, il regime transitorio di cui all'[articolo 17 del decreto legislativo 13 gennaio 2003, n. 36](Attuazione%20della%20direttiva%201999-31-CE%20relativa%20alle%20discariche%20di%20rifiuti.md), e' prorogato fino al 30 giugno 2009".
+Il [D.L. 30 dicembre 2008, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-30;208), convertito, con modificazioni, dalla [L. 27 febbraio 2009, n. 13](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202008%20n.%20208%20recante%20misure%20straordinarie%20in%20materia%20di%20risorse%20idriche%20e%20di%20protezione%20dellambiente.md), ha disposto (con l'art. 5, comma 1-bis) che "Fermo quanto previsto dall'[articolo 199 del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), relativo ai piani regionali di gestione dei rifiuti, il regime transitorio di cui all'[articolo 17 del decreto legislativo 13 gennaio 2003, n. 36](Attuazione%20della%20direttiva%201999-31-CE%20relativa%20alle%20discariche%20di%20rifiuti.md), e' prorogato fino al 30 giugno 2009".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. Dato a Roma, addi' 13 gennaio 2003.
 

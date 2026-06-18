@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-I ruoli tecnico ed amministrativo del Corpo delle miniere, di cui alle tabelle C e D annesse al [regio decreto 10 maggio 1943, n. 482](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20dei%20servizi%20della%20Direzione%20generale%20delle%20miniere%20e%20della%20metallurgia%20e%20dei%20ruoli%20organici%20del%20Corpo%20Reale%20delle%20miniere.%20043U0482.md), sono costituiti, rispettivamente, dai ruoli di cui alle tabelle C e D, annesse al presente decreto, vistate dal Ministro per l'industria e per il commercio e dal Ministro per il tesoro.
+I ruoli tecnico ed amministrativo del Corpo delle miniere, di cui alle tabelle C e D annesse al [regio decreto 10 maggio 1943, n. 482](../Regi%20decreti/Riordinamento%20dei%20servizi%20della%20Direzione%20generale%20delle%20miniere%20e%20della%20metallurgia%20e%20dei%20ruoli%20organici%20del%20Corpo%20Reale%20delle%20miniere.%20043U0482.md), sono costituiti, rispettivamente, dai ruoli di cui alle tabelle C e D, annesse al presente decreto, vistate dal Ministro per l'industria e per il commercio e dal Ministro per il tesoro.
 
 ## Art. 2.
 

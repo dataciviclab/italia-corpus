@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico
 
-E' convertito in legge il [decreto-legge 30 dicembre 1976, n. 865](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1976-12-30;865), recante proroga del termine di cui all'[articolo 8 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 644](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20delle%20circoscrizioni%20territoriali%20degli%20uffici%20distrettuali%20delle%20imposte%20dirette%20e%20degli%20uffici%20del%20registro.md).
+E' convertito in legge il [decreto-legge 30 dicembre 1976, n. 865](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1976-12-30;865), recante proroga del termine di cui all'[articolo 8 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 644](../DPR/Revisione%20delle%20circoscrizioni%20territoriali%20degli%20uffici%20distrettuali%20delle%20imposte%20dirette%20e%20degli%20uffici%20del%20registro.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare.
 

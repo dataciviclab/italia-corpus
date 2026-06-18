@@ -340,7 +340,7 @@ Non costituisce attivita' di concessione di finanziamenti, oltre ai casi di escl
                             a)
                                 l'acquisto dei crediti di imposta sul valore aggiunto relativi a cessioni di beni e servizi nei casi previsti dalla normativa vigente;
                             b)
-                                l'acquisto, a titolo definitivo, di crediti da parte di societa' titolari della licenza per l'attivita' di recupero stragiudiziale di crediti ai sensi dell'[articolo 115 del Testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) quando ricorrono le seguenti condizioni: 
+                                l'acquisto, a titolo definitivo, di crediti da parte di societa' titolari della licenza per l'attivita' di recupero stragiudiziale di crediti ai sensi dell'[articolo 115 del Testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) quando ricorrono le seguenti condizioni: 
  1) i crediti sono acquistati a fini di recupero e sono ceduti da: 
  i. banche o altri intermediari finanziari sottoposti alla vigilanza della Banca d'Italia, i quali li hanno classificati in sofferenza, ovvero 
  ii. soggetti diversi da quelli indicati al punto i), purche' si tratti di crediti vantati nei confronti di debitori che versano in stato di insolvenza, anche non accertato giudizialmente, o in situazioni sostanzialmente equiparabili, secondo quanto accertato dai competenti organi sociali; non rileva, a tal fine, l'esistenza di garanzie reali o personali; 

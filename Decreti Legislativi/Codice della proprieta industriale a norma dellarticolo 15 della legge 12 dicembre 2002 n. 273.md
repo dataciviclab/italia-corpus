@@ -16,15 +16,15 @@ Vista la [legge 12 dicembre 2002, n. 273](https://www.normattiva.it/uri-res/N2Ls
 
 Visto l'[articolo 14 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_14), recante disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri;
 
-Visto il [regio decreto 29 giugno 1939, n. 1127](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md);
+Visto il [regio decreto 29 giugno 1939, n. 1127](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md);
 
-Visto il [regio decreto 5 febbraio 1940, n. 244](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20040U0244.md);
+Visto il [regio decreto 5 febbraio 1940, n. 244](../Regi%20decreti/Testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20040U0244.md);
 
-Visto il [regio decreto 25 agosto 1940, n. 1411](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20modelli%20industriali.%20040U1411.md);
+Visto il [regio decreto 25 agosto 1940, n. 1411](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20modelli%20industriali.%20040U1411.md);
 
-Visto il [regio decreto 31 ottobre 1941, n. 1354](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20modelli%20industriali.%20041U1354.md);
+Visto il [regio decreto 31 ottobre 1941, n. 1354](../Regi%20decreti/Testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20modelli%20industriali.%20041U1354.md);
 
-Visto il [regio decreto 21 giugno 1942, n. 929](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md);
+Visto il [regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md);
 
 Visto il [decreto del Presidente della Repubblica 8 giugno 1948, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1948-06-08;795);
 
@@ -1273,6 +1273,8 @@ I soggetti indicati al comma 1, nell'ambito della propria autonomia, disciplinan
 
 ### Art. 65-bis. — (( (Uffici di trasferimento tecnologico). ))
 
+((1. Le istituzioni universitarie e dell'alta formazione artistica, musicale e coreutica, gli enti pubblici di ricerca ovvero gli IRCCS possono dotarsi, nell'ambito delle risorse disponibili a legislazione vigente, anche in forma associativa nell'ambito della propria autonomia, di un ufficio di trasferimento tecnologico con la funzione di promuovere la valorizzazione dei titoli di proprieta' industriale, anche attraverso la promozione di collaborazioni con le imprese. Il personale addetto all'ufficio di cui al presente comma e' in possesso di qualificazione professionale adeguata allo svolgimento delle attivita' di promozione della proprieta' industriale del medesimo ufficio))
+
 ### Art. 66. — Diritto di brevetto
 
 1.
@@ -1331,7 +1333,7 @@ La facolta' esclusiva attribuita dal diritto di brevetto non si estende, quale c
                             c)
                                 alla preparazione estemporanea, e per unita', di medicinali nelle farmacie su ricetta medica, e ai medicinali cosi' preparati ((...)).
                             c-bis)
-                                all'utilizzazione dell'invenzione brevettata a bordo di navi di altri Paesi dell'Unione internazionale per la protezione della proprieta' industriale (Unione di Parigi) o di membri dell'Organizzazione mondiale del commercio, diversi dall'Italia, nel corpo della nave in questione, nelle macchine, nel sartiame, nell'attrezzatura e negli altri accessori, quando tali navi entrino temporaneamente o accidentalmente nelle acque italiane, purche' l'invenzione sia utilizzata esclusivamente per le esigenze della nave, ovvero all'utilizzazione dell'invenzione brevettata nella costruzione o ai fini del funzionamento di aeromobili o di veicoli terrestri o altri mezzi di trasporto di altri Paesi dell'Unione internazionale per la protezione della proprieta' industriale (Unione di Parigi) o di membri dell'Organizzazione mondiale del commercio, diversi dall'Italia, oppure degli accessori di tali aeromobili o veicoli terrestri, quando questi entrino temporaneamente o accidentalmente nel territorio italiano, ferme restando le disposizioni del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e quelle della Convenzione internazionale per l'aviazione civile, stipulata a Chicago il 7 dicembre 1944, resa esecutiva ai sensi del [decreto legislativo 6 marzo 1948, n. 616](Approvazione%20della%20Convenzione%20internazionale%20per%20laviazione%20civile%20stipulata%20a%20Chicago%20il%207%20dicembre%201944.md), ratificato con [legge 17 aprile 1956, n. 561](../DL%20e%20leggi%20di%20conversione/Ratifica%20ai%20sensi%20dellart.%206%20del%20decreto%20legislativo%20luogotenenziale%2016%20marzo%201946%20n.%2098%20di%20decreti%20legislativi%20emanati%20dal%20Governo%20durante%20il%20periodo%20della%20Costituente.md);
+                                all'utilizzazione dell'invenzione brevettata a bordo di navi di altri Paesi dell'Unione internazionale per la protezione della proprieta' industriale (Unione di Parigi) o di membri dell'Organizzazione mondiale del commercio, diversi dall'Italia, nel corpo della nave in questione, nelle macchine, nel sartiame, nell'attrezzatura e negli altri accessori, quando tali navi entrino temporaneamente o accidentalmente nelle acque italiane, purche' l'invenzione sia utilizzata esclusivamente per le esigenze della nave, ovvero all'utilizzazione dell'invenzione brevettata nella costruzione o ai fini del funzionamento di aeromobili o di veicoli terrestri o altri mezzi di trasporto di altri Paesi dell'Unione internazionale per la protezione della proprieta' industriale (Unione di Parigi) o di membri dell'Organizzazione mondiale del commercio, diversi dall'Italia, oppure degli accessori di tali aeromobili o veicoli terrestri, quando questi entrino temporaneamente o accidentalmente nel territorio italiano, ferme restando le disposizioni del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e quelle della Convenzione internazionale per l'aviazione civile, stipulata a Chicago il 7 dicembre 1944, resa esecutiva ai sensi del [decreto legislativo 6 marzo 1948, n. 616](Approvazione%20della%20Convenzione%20internazionale%20per%20laviazione%20civile%20stipulata%20a%20Chicago%20il%207%20dicembre%201944.md), ratificato con [legge 17 aprile 1956, n. 561](../DL%20e%20leggi%20di%20conversione/Ratifica%20ai%20sensi%20dellart.%206%20del%20decreto%20legislativo%20luogotenenziale%2016%20marzo%201946%20n.%2098%20di%20decreti%20legislativi%20emanati%20dal%20Governo%20durante%20il%20periodo%20della%20Costituente.md);
                             c-ter)
                                 agli atti consentiti ai sensi degli [articoli 64-ter](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633#art_64ter) e [64-quater della legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633#art_64quater), e alle utilizzazioni ivi consentite delle informazioni cosi' legittimamente ottenute.
 
@@ -2650,11 +2652,11 @@ Ai fini di cui al comma 1-bis, il giudice considera altresi' se le informazioni 
 
 1.
 
-Salva l'applicazione degli [articoli 473](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [474](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [517 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), chiunque fabbrica, vende, espone, adopera industrialmente, introduce nello Stato oggetti in violazione di un titolo di proprieta' industriale valido ai sensi delle norme del presente codice, e' punito, a querela di parte, con la multa fino a 1.032,91 euro. (8)
+Salva l'applicazione degli [articoli 473](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [474](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [517 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), chiunque fabbrica, vende, espone, adopera industrialmente, introduce nello Stato oggetti in violazione di un titolo di proprieta' industriale valido ai sensi delle norme del presente codice, e' punito, a querela di parte, con la multa fino a 1.032,91 euro. (8)
 
 1-bis.
 
-Chiunque si rifiuti senza giustificato motivo di rispondere alle domande del giudice ai sensi dell'articolo 121-bis ovvero fornisce allo stesso false informazioni e' punito con le pene previste dall'[articolo 372 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ridotte della meta'.
+Chiunque si rifiuti senza giustificato motivo di rispondere alle domande del giudice ai sensi dell'articolo 121-bis ovvero fornisce allo stesso false informazioni e' punito con le pene previste dall'[articolo 372 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ridotte della meta'.
 
 2.
 
@@ -2669,7 +2671,7 @@ Salvo che il fatto costituisca reato, e' punito con la sanzione amministrativa f
 AGGIORNAMENTO (8)
 
 La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), ha disposto (con l'art. 15, comma 2) che "Con effetto dalla data di entrata in vigore delle disposizioni di cui al comma 1, lettera e), all'articolo 127 del codice della proprieta' industriale, di cui al [decreto legislativo 10 febbraio 
-2005, n. 30, il comma 1](../Codici/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md) e' abrogato."
+2005, n. 30, il comma 1](Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md) e' abrogato."
 
 ### Art. 128. — (( (Consulenza tecnica preventiva) ))
 
@@ -2761,13 +2763,11 @@ Se il giudizio di merito non e' iniziato nel termine perentorio di cui al comma 
 
 4.
 
-Le disposizioni di cui al comma 3 non si applicano ai provvedimenti di urgenza emessi ai sensi dell'[articolo 700 del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_700) ed agli altri provvedimenti cautelari idonei ad anticipare gli effetti della sentenza di merito. In tali casi ciascuna parte puo' iniziare il giudizio di merito.
+((Per i provvedimenti di urgenza emessi ai sensi dell'articolo 700 del codice di procedura civile e per gli altri provvedimenti cautelari idonei ad anticipare gli effetti della sentenza di merito, fatta salva la facolta' delle parti di iniziare il giudizio di merito, quando detto giudizio non e' iniziato nel termine perentorio di cui al comma 2, oppure se successivamente al suo inizio si estingue, i provvedimenti sono dichiarati inefficaci se, entro il termine perentorio di trenta giorni decorrenti dalla scadenza del termine previsto dallo stesso comma 2 o dall'estinzione del giudizio di merito, la parte destinataria presenta istanza per la declaratoria di inefficacia.))
 
 5.
 
 In tutti i procedimenti cautelari il giudice, ai fini dell'ottenimento di sommarie indicazioni tecniche, puo' disporre una consulenza tecnica.
-
-((
 
 5-bis.
 
@@ -2780,8 +2780,6 @@ Nel provvedere sulle domande cautelari in materia di acquisizione, utilizzazione
 5-quater.
 
 Fermo quanto previsto dal comma 4, se le misure cautelari adottate a tutela dei segreti commerciali di cui all'articolo 98 divengono inefficaci, ai sensi del comma 3, per mancato inizio del giudizio di merito nel termine perentorio di cui al comma 2 ovvero perdono efficacia a causa di un'azione o di un'omissione del ricorrente, ovvero se viene successivamente accertato che l'acquisizione, l'utilizzo o la rivelazione illeciti dei predetti segreti commerciali non sussisteva, il ricorrente e' tenuto a risarcire il danno cagionato dalle misure adottate.
-
-))
 
 ### Art. 133. — Tutela cautelare dei nomi a dominio
 
@@ -2935,7 +2933,7 @@ La segreteria sottopone al Presidente della Commissione il fascicolo del process
 
 4.
 
-Le comunicazioni sono effettuate mediante l'utilizzo della posta elettronica certificata, ai sensi del [decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md).
+Le comunicazioni sono effettuate mediante l'utilizzo della posta elettronica certificata, ai sensi del [decreto legislativo 7 marzo 2005, n. 82](Codice%20dellamministrazione%20digitale.md).
 
 5.
 
@@ -3213,7 +3211,7 @@ L'ordinanza cautelare non e' soggetta a reclamo. La domanda di revoca o modifica
 
 1.
 
-Nel caso in cui l'amministrazione non abbia prestato ottemperanza alle misure cautelari concesse, o abbia ottemperato solo parzialmente, la parte interessata puo', con istanza motivata e notificata alle altre parti, chiedere alla Commissione dei ricorsi le opportune disposizioni attuative. La Commissione dei ricorsi esercita i poteri inerenti al giudizio di ottemperanza al giudicato, di cui agli [articoli 112 e seguenti del codice del processo amministrativo](../Codici/Attuazione%20dellarticolo%2044%20della%20legge%2018%20giugno%202009%20n.%2069%20recante%20delega%20al%20governo%20per%20il%20riordino%20del%20processo%20amministrativo.%2010G0127.md).
+Nel caso in cui l'amministrazione non abbia prestato ottemperanza alle misure cautelari concesse, o abbia ottemperato solo parzialmente, la parte interessata puo', con istanza motivata e notificata alle altre parti, chiedere alla Commissione dei ricorsi le opportune disposizioni attuative. La Commissione dei ricorsi esercita i poteri inerenti al giudizio di ottemperanza al giudicato, di cui agli [articoli 112 e seguenti del codice del processo amministrativo](Attuazione%20dellarticolo%2044%20della%20legge%2018%20giugno%202009%20n.%2069%20recante%20delega%20al%20governo%20per%20il%20riordino%20del%20processo%20amministrativo.%2010G0127.md).
 
 2.
 
@@ -3429,7 +3427,7 @@ Il decreto di espropriazione nell'interesse della difesa militare del Paese, qua
 
 3.
 
-La violazione del segreto e' punita ai sensi dell'[articolo 262 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+La violazione del segreto e' punita ai sensi dell'[articolo 262 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 4.
 
@@ -3439,7 +3437,7 @@ Nel decreto di espropriazione e' fissata l'indennita' spettante al titolare del 
 
 5.
 
-La tutela giurisdizionale davanti al giudice amministrativo e' disciplinata dal [codice del processo amministrativo](../Codici/Attuazione%20dellarticolo%2044%20della%20legge%2018%20giugno%202009%20n.%2069%20recante%20delega%20al%20governo%20per%20il%20riordino%20del%20processo%20amministrativo.%2010G0127.md).
+La tutela giurisdizionale davanti al giudice amministrativo e' disciplinata dal [codice del processo amministrativo](Attuazione%20dellarticolo%2044%20della%20legge%2018%20giugno%202009%20n.%2069%20recante%20delega%20al%20governo%20per%20il%20riordino%20del%20processo%20amministrativo.%2010G0127.md).
 
 ))
 
@@ -3532,7 +3530,7 @@ L'opposizione avverso il provvedimento di distruzione di cui al comma 2 e' propo
 
 1.
 
-Tutte le domande, le istanze, gli atti, i documenti e i ricorsi notificati menzionati nel presente codice, ad eccezione di quanto previsto da convenzioni ed accordi internazionali, sono depositati, presso l'Ufficio italiano brevetti e marchi, presso le Camere di commercio, industria e artigianato e presso gli uffici o enti pubblici determinati con decreto del Ministro dello sviluppo economico. Con decreto dello stesso Ministro, con rispetto delle previsioni contenute nel [decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md), sono determinate le modalita' di deposito, quivi comprese quelle da attuare mediante ricorso ad altri mezzi di comunicazione. Gli uffici o enti anzidetti, all'atto del ricevimento rilasciano l'attestazione dell'avvenuto deposito ((, conservano gli atti e i documenti originali ricevuti e li trasmettono all'Ufficio italiano brevetti e marchi soltanto su apposita richiesta dello stesso, ad eccezione delle sole domande di brevetto per invenzione o modello di utilita', per le quali la trasmissione d'ufficio e' sempre effettuata nelle forme indicate nel decreto di cui al secondo periodo. La richiesta di trasmissione degli atti e dei documenti originali puo' essere effettuata dall'Ufficio italiano brevetti e marchi, per le domande di disegno e modello industriale, entro tre anni dal deposito delle stesse e, per tutti gli altri atti, entro un anno dal deposito)).
+Tutte le domande, le istanze, gli atti, i documenti e i ricorsi notificati menzionati nel presente codice, ad eccezione di quanto previsto da convenzioni ed accordi internazionali, sono depositati, presso l'Ufficio italiano brevetti e marchi, presso le Camere di commercio, industria e artigianato e presso gli uffici o enti pubblici determinati con decreto del Ministro dello sviluppo economico. Con decreto dello stesso Ministro, con rispetto delle previsioni contenute nel [decreto legislativo 7 marzo 2005, n. 82](Codice%20dellamministrazione%20digitale.md), sono determinate le modalita' di deposito, quivi comprese quelle da attuare mediante ricorso ad altri mezzi di comunicazione. Gli uffici o enti anzidetti, all'atto del ricevimento rilasciano l'attestazione dell'avvenuto deposito ((, conservano gli atti e i documenti originali ricevuti e li trasmettono all'Ufficio italiano brevetti e marchi soltanto su apposita richiesta dello stesso, ad eccezione delle sole domande di brevetto per invenzione o modello di utilita', per le quali la trasmissione d'ufficio e' sempre effettuata nelle forme indicate nel decreto di cui al secondo periodo. La richiesta di trasmissione degli atti e dei documenti originali puo' essere effettuata dall'Ufficio italiano brevetti e marchi, per le domande di disegno e modello industriale, entro tre anni dal deposito delle stesse e, per tutti gli altri atti, entro un anno dal deposito)).
 
 2.
 
@@ -4529,7 +4527,7 @@ Il comma 4 si applica anche nel caso in cui il marchio d'impresa anteriore sia u
 
 5.
 
-COMMA ABROGATO DAL [D.LGS. 20 FEBBRAIO 2019, N. 15](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202015-2436%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2016%20dicembre%202015%20sul%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20in%20materia%20di%20marchi%20dimpresa%20_bce4388aeb38.md).
+COMMA ABROGATO DAL [D.LGS. 20 FEBBRAIO 2019, N. 15](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202015-2436%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2016%20dicembre%202015%20sul%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20in%20materia%20di%20marchi%20dimpresa%20_bce4388aeb38.md).
 
 6.
 
@@ -4717,6 +4715,11 @@ L'istanza di decadenza o di nullita' e' altresi' improcedibile qualora sia stata
 
 ### Art. 184-ter. — (( (Legittimazione all'istanza di decadenza o nullita'). ))
 
+((1. Sono legittimati a presentare un'istanza di decadenza o di nullita': 
+ a) nei casi di cui ai commi 2 e 3, lettera a), dell'articolo 184-bis, qualunque interessato; 
+b) nel caso di cui al comma 3, lettera b), dell'articolo 184-bis, il titolare di un marchio d'impresa anteriore o la persona autorizzata dalla legge a esercitare i diritti conferiti da una denominazione di origine o un'indicazione geografica protetta; 
+ c) nel caso di cui al comma 3, lettera c), dell'articolo 184-bis, il titolare di marchio d'impresa interessato))
+
 ### Art. 184-quater. — (Esame della domanda di decadenza o di nullita' e decisioni)
 
 ((
@@ -4859,9 +4862,21 @@ Il provvedimento con il quale l'Ufficio italiano brevetti e marchi dichiara irri
 
 I titoli originali di proprieta' industriale devono essere firmati dal dirigente dell'ufficio competente o da un funzionario da lui delegato.
 
-((2. I titoli di proprieta' industriale sono contrassegnati, a seconda della tipologia, da un numero progressivo, secondo la data di concessione, e contengono:))
+2.
 
-((dell'inventore o))
+((I titoli di proprieta' industriale sono contrassegnati, a seconda della tipologia, da un numero progressivo, secondo la data di concessione, e contengono:))
+                            a)
+                                la data e il numero della domanda;
+                            b)
+                                il cognome, il nome, il domicilio del titolare e, nel caso delle varieta' vegetali, del costitutore, la ragione ovvero la denominazione sociale e la sede, se trattasi di persona giuridica;
+                            c)
+                                il cognome, il nome, il domicilio del mandatario, se vi sia;
+                            d)
+                                il cognome ed il nome ((dell'inventore o)) dell'autore;
+                            e)
+                                gli estremi della priorita' rivendicata;
+                            f)
+                                nel caso delle varieta' vegetali, il genere o la specie di appartenenza della nuova varieta' vegetale e la relativa denominazione.
 
 3.
 
@@ -5211,6 +5226,8 @@ Coloro che risiedono nel territorio dello Stato non possono, senza autorizzazion
 
 ((1-bis. Le disposizioni del comma 1 si applicano anche quando:
 
+a) l'inventore presti la propria attivita' lavorativa presso filiali italiane di imprese multinazionali la cui capogruppo abbia sede legale all'estero;
+
 b) l'inventore abbia ceduto l'invenzione oggetto del brevetto precedentemente al deposito della domanda di brevetto))
 
 2.
@@ -5264,7 +5281,7 @@ L'obbligo del segreto cessa qualora il Ministero della difesa lo consenta.
 
 14.
 
-La violazione del segreto e' punita ai termini dell'[articolo 262 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+La violazione del segreto e' punita ai termini dell'[articolo 262 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 15.
 
@@ -5414,13 +5431,13 @@ Il mandato puo' essere conferito soltanto a mandatari iscritti in un albo all'uo
 
 4-bis.
 
-I cittadini dell'Unione europea abilitati all'esercizio della medesima professione in un altro Stato membro possono essere iscritti all'albo secondo le procedure di cui al [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md).
+I cittadini dell'Unione europea abilitati all'esercizio della medesima professione in un altro Stato membro possono essere iscritti all'albo secondo le procedure di cui al [decreto legislativo 9 novembre 2007, n. 206](Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md).
 
 ))
 
 5.
 
-COMMA ABROGATO DAL [D.LGS. 9 NOVEMBRE 2007, N. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md).
+COMMA ABROGATO DAL [D.LGS. 9 NOVEMBRE 2007, N. 206](Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md).
 
 6.
 
@@ -5464,7 +5481,7 @@ L'iscrizione e' effettuata dal Consiglio dell'ordine su presentazione di una ist
 
 3.
 
-I soggetti di cui all'articolo 201, comma 4-bis, che intendono esercitare l'attivita' di rappresentanza in Italia a titolo occasionale e temporaneo si considerano automaticamente iscritti all'albo dei consulenti in proprieta' industriale, previa trasmissione da parte dell'autorita' competente della dichiarazione preventiva di cui all'[articolo 10, del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md). L'iscrizione rileva ai soli fini dell'applicazione delle norme professionali, di carattere professionale, legale o amministrativo, direttamente connesse alla qualifica professionale.
+I soggetti di cui all'articolo 201, comma 4-bis, che intendono esercitare l'attivita' di rappresentanza in Italia a titolo occasionale e temporaneo si considerano automaticamente iscritti all'albo dei consulenti in proprieta' industriale, previa trasmissione da parte dell'autorita' competente della dichiarazione preventiva di cui all'[articolo 10, del decreto legislativo 9 novembre 2007, n. 206](Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md). L'iscrizione rileva ai soli fini dell'applicazione delle norme professionali, di carattere professionale, legale o amministrativo, direttamente connesse alla qualifica professionale.
 
 4.
 
@@ -5968,7 +5985,7 @@ Ai fini dell'applicazione dell'[articolo 48 del regio decreto 29 giugno 1942, n.
 
 Note all'art. 233:
  - Per il dereto legislativo 4 dicembre 1992, n. 480, si veda la nota all'art. 231.
- - Il testo dell'[art. 48 del regio decreto 21 giugno 1942, n. 929](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), «Testo delle disposizioni legislative in materia di marchi registrati», pubblicato nella Gazzetta Ufficiale 29 agosto 1942, n. 203, e' il seguente:
+ - Il testo dell'[art. 48 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), «Testo delle disposizioni legislative in materia di marchi registrati», pubblicato nella Gazzetta Ufficiale 29 agosto 1942, n. 203, e' il seguente:
  «Art. 48. - 1. Il titolare di un marchio d'impresa anteriore ai sensi dell'art. 17, comma 1, lettere d), e), g) e h), e il titolare di un diritto di preuso che importi notorieta' non puramente locale, i quali abbiano, durante cinque anni consecutivi, tollerato, essendone a conoscenza, l'uso di un marchio posteriore registrato uguale o simile, non possono domandare la dichiarazione di nullita' del marchio posteriore ne' opporsi all'uso dello stesso per i prodotti o servizi in relazione ai quali il detto marchio e' stato usato sulla base del proprio marchio anteriore o del proprio preuso, salvo il caso in cui il marchio posteriore sia stato domandato in malafede. Il titolare del marchio posteriore non puo' opporsi all'uso di quello anteriore o alla continuazione del preuso.
  2. La preclusione all'azione di nullita' di cui al comma 1 si estende anche ai terzi.
  3. La disciplina del comma 1 si applica anche al caso di marchio registrato in violazione dell'art. 18, comma 1, lettera f), e dell'art. 21.».
@@ -6084,7 +6101,7 @@ I diritti annuali versati dalla data di deposito per il mantenimento in vita del
 
 1.
 
-Le invenzioni dei dipendenti il cui rapporto di lavoro intercorre con un'universita' o con una pubblica Amministrazione avente tra i suoi compiti istituzionali finalita' di ricerca sono soggette alla disciplina, dettata rispettivamente dall'[articolo 24-bis del regio decreto 29 giugno 1939, n. 1127](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), introdotto dalla [legge 18 ottobre 2001, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-10-18;383), dal testo originario dell'articolo 65 del presente Codice e dal testo attuale del medesimo articolo, in vigore al momento in cui le invenzioni sono state conseguite, ancorche' in dipendenza di ricerche cominciate anteriormente.
+Le invenzioni dei dipendenti il cui rapporto di lavoro intercorre con un'universita' o con una pubblica Amministrazione avente tra i suoi compiti istituzionali finalita' di ricerca sono soggette alla disciplina, dettata rispettivamente dall'[articolo 24-bis del regio decreto 29 giugno 1939, n. 1127](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), introdotto dalla [legge 18 ottobre 2001, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-10-18;383), dal testo originario dell'articolo 65 del presente Codice e dal testo attuale del medesimo articolo, in vigore al momento in cui le invenzioni sono state conseguite, ancorche' in dipendenza di ricerche cominciate anteriormente.
 
 ))
 
@@ -6166,15 +6183,15 @@ Le cause riguardanti il brevetto europeo rilasciato per l'Italia, pendenti fino 
 
 Sono abrogate le seguenti disposizioni:
                             a)
-                                il [regio decreto 29 giugno 1939, n. 1127](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md);
+                                il [regio decreto 29 giugno 1939, n. 1127](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md);
                             b)
-                                il [regio decreto 5 febbraio 1940, n. 244](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20040U0244.md);
+                                il [regio decreto 5 febbraio 1940, n. 244](../Regi%20decreti/Testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20040U0244.md);
                             c)
-                                il [regio decreto 25 agosto 1940, n. 1411](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20modelli%20industriali.%20040U1411.md);
+                                il [regio decreto 25 agosto 1940, n. 1411](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20modelli%20industriali.%20040U1411.md);
                             d)
-                                il [regio decreto 31 ottobre 1941, n. 1354](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20modelli%20industriali.%20041U1354.md);
+                                il [regio decreto 31 ottobre 1941, n. 1354](../Regi%20decreti/Testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20modelli%20industriali.%20041U1354.md);
                             e)
-                                il [regio decreto 21 giugno 1942, n. 929](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md);
+                                il [regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md);
                             f)
                                 il [decreto del Presidente della Repubblica 8 maggio 1948, n. 795](../DPR/Testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20marchi%20registrati.md);
                             g)

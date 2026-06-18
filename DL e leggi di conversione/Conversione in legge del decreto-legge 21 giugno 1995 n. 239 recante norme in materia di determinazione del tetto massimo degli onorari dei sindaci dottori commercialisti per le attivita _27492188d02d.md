@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 1.
 
-E' convertito in legge il [decreto-legge 21 giugno 1995, n. 239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-21;239), recante norme in materia di determinazione del tetto massimo degli onorari dei sindaci dottori commercialisti per le attivita' di cui all'[articolo 37 del decreto del Presidente della Repubblica 10 ottobre 1994, n. 645](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20la%20disciplina%20degli%20onorari%20delle%20indennita%20e%20dei%20criteri%20per%20il%20rimborso%20delle%20spese%20per%20le%20prestazioni%20professionali%20dei%20dottori%20commercialisti.md).
+E' convertito in legge il [decreto-legge 21 giugno 1995, n. 239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-21;239), recante norme in materia di determinazione del tetto massimo degli onorari dei sindaci dottori commercialisti per le attivita' di cui all'[articolo 37 del decreto del Presidente della Repubblica 10 ottobre 1994, n. 645](../Regolamenti%20governativi/Regolamento%20recante%20la%20disciplina%20degli%20onorari%20delle%20indennita%20e%20dei%20criteri%20per%20il%20rimborso%20delle%20spese%20per%20le%20prestazioni%20professionali%20dei%20dottori%20commercialisti.md).
 
 2.
 

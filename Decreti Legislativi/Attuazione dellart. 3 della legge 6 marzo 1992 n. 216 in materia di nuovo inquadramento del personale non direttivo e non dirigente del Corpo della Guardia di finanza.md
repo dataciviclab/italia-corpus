@@ -237,7 +237,7 @@ La Corte Costituzionale, con sentenza 12-24 luglio 2000, n. 332 (in G.U. 1a s.s.
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 29 maggio 2017, n. 95](Disposizioni%20in%20materia%20di%20revisione%20dei%20ruoli%20delle%20Forze%20di%20polizia%20ai%20sensi%20dellarticolo%208%20comma%201%20lettera%20a%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20riorganizzazione%20delle%20ammin_5572a7d1051a.md) ha disposto (con l'art. 36, comma 22) che "Il titolo di studio per l'accesso al ruolo degli appuntati e finanzieri di cui all'[articolo 6, comma 1, del decreto legislativo 12 maggio 1995, n. 199](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20nuovo%20inquadramento%20del%20personale%20non%20direttivo%20e%20non%20dirigente%20del%20Corpo%20della%20Guardia%20di%20finanza.md), non e' richiesto per i volontari delle Forze armate di cui agli [articoli 703](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md) e [2199 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), in servizio alla data del 31 dicembre 2020, ovvero congedato entro la stessa data". 
+Il [D.Lgs. 29 maggio 2017, n. 95](Disposizioni%20in%20materia%20di%20revisione%20dei%20ruoli%20delle%20Forze%20di%20polizia%20ai%20sensi%20dellarticolo%208%20comma%201%20lettera%20a%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20riorganizzazione%20delle%20ammin_5572a7d1051a.md) ha disposto (con l'art. 36, comma 22) che "Il titolo di studio per l'accesso al ruolo degli appuntati e finanzieri di cui all'[articolo 6, comma 1, del decreto legislativo 12 maggio 1995, n. 199](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20nuovo%20inquadramento%20del%20personale%20non%20direttivo%20e%20non%20dirigente%20del%20Corpo%20della%20Guardia%20di%20finanza.md), non e' richiesto per i volontari delle Forze armate di cui agli [articoli 703](Codice%20dellordinamento%20militare.%2010G0089.md) e [2199 del decreto legislativo 15 marzo 2010, n. 66](Codice%20dellordinamento%20militare.%2010G0089.md), in servizio alla data del 31 dicembre 2020, ovvero congedato entro la stessa data". 
  Ha inoltre disposto (con l'art. 36, comma 57) che "L'[articolo 6, comma 1, lettera b), del decreto legislativo 12 maggio 1995, n. 199](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20nuovo%20inquadramento%20del%20personale%20non%20direttivo%20e%20non%20dirigente%20del%20Corpo%20della%20Guardia%20di%20finanza.md), nel testo vigente il giorno precedente la data di entrata in vigore del presente decreto, continua ad applicarsi ai cittadini che svolgono o hanno svolto servizio militare volontario, di leva e di leva prolungato al medesimo giorno precedente".
 
 -----------
@@ -270,7 +270,7 @@ Nei bandi di concorso per l'arruolamento degli allievi finanzieri, indetti con d
 
 2.
 
-Al fine di accrescere l'efficienza del Servizio di soccorso alpino e della componente specialistica Anti Terrorismo e Pronto Impiego (A.T.P.I.) del Corpo della guardia di finanza, in deroga agli [articoli 703](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md) e [2199 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), le riserve di cui ai medesimi articoli 703 e 2199 non operano per i posti messi a concorso per le predette specialita' nel limite massimo di 180 unita' annuali, ferma restando la dotazione organica di cui all'articolo
+Al fine di accrescere l'efficienza del Servizio di soccorso alpino e della componente specialistica Anti Terrorismo e Pronto Impiego (A.T.P.I.) del Corpo della guardia di finanza, in deroga agli [articoli 703](Codice%20dellordinamento%20militare.%2010G0089.md) e [2199 del decreto legislativo 15 marzo 2010, n. 66](Codice%20dellordinamento%20militare.%2010G0089.md), le riserve di cui ai medesimi articoli 703 e 2199 non operano per i posti messi a concorso per le predette specialita' nel limite massimo di 180 unita' annuali, ferma restando la dotazione organica di cui all'articolo
 
 3.
 
@@ -496,9 +496,9 @@ Gli appartenenti al ruolo appuntati e finanzieri in servizio permanente cessano 
                             h)
                                 per perdita del grado;
                             i)
-                                per decadenza, ai sensi dell'[articolo 898 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md);
+                                per decadenza, ai sensi dell'[articolo 898 del decreto legislativo 15 marzo 2010, n. 66](Codice%20dellordinamento%20militare.%2010G0089.md);
                             l)
-                                a seguito della perdita dello stato di militare, ai sensi dell'[articolo 622 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
+                                a seguito della perdita dello stato di militare, ai sensi dell'[articolo 622 del decreto legislativo 15 marzo 2010, n. 66](Codice%20dellordinamento%20militare.%2010G0089.md).
 
 2.
 
@@ -538,7 +538,7 @@ Il personale del ruolo appuntati e finanzieri in congedo appartiene a una delle 
 
 2.
 
-L'ausiliaria riguarda il personale cessato dal servizio permanente e collocato in detta categoria del congedo secondo quanto stabilito dall'[articolo 886 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
+L'ausiliaria riguarda il personale cessato dal servizio permanente e collocato in detta categoria del congedo secondo quanto stabilito dall'[articolo 886 del decreto legislativo 15 marzo 2010, n. 66](Codice%20dellordinamento%20militare.%2010G0089.md).
 
 3.
 
@@ -670,7 +670,7 @@ I provvedimenti di cessazione dal servizio relativi al personale appartenente al
 
 1.
 
-Il personale del ruolo appuntati e finanzieri in congedo puo' essere richiamato in servizio a norma dell'[articolo 986 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
+Il personale del ruolo appuntati e finanzieri in congedo puo' essere richiamato in servizio a norma dell'[articolo 986 del decreto legislativo 15 marzo 2010, n. 66](Codice%20dellordinamento%20militare.%2010G0089.md).
 
 ))
 

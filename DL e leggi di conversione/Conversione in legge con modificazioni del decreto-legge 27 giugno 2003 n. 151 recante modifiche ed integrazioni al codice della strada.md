@@ -18,7 +18,7 @@ Promulga la seguente legge:
 
 1.
 
-Il [decreto-legge 27 giugno 2003, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-06-27;151), recante modifiche ed integrazioni al [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md), e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
+Il [decreto-legge 27 giugno 2003, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-06-27;151), recante modifiche ed integrazioni al [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
 
 2.
 

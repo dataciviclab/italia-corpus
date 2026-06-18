@@ -116,7 +116,7 @@ A favore degli Enti autonomi lirici, della istituzione dei concerti dell'Accadem
 
 AGGIORNAMENTO (4)
 
-La [L. 31 luglio 1956, n. 838](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-31;838) ha disposto (con l'art. 8) che "Col 30 giugno 1957 cessera' l'efficacia delle disposizioni di cui all'[art. 7 del regio decreto legislativo 30 maggio 1946, n. 538](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20dei%20diritti%20erariali%20sui%20pubblici%20spettacoli.md), e successive modifiche."
+La [L. 31 luglio 1956, n. 838](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-31;838) ha disposto (con l'art. 8) che "Col 30 giugno 1957 cessera' l'efficacia delle disposizioni di cui all'[art. 7 del regio decreto legislativo 30 maggio 1946, n. 538](Nuove%20norme%20dei%20diritti%20erariali%20sui%20pubblici%20spettacoli.md), e successive modifiche."
 
 ## Art. 8.
 

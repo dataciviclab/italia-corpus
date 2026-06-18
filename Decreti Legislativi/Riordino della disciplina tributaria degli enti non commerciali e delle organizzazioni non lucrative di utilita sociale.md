@@ -469,7 +469,7 @@ Non si considerano in ogni caso ONLUS gli enti pubblici, le societa' commerciali
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 luglio 2017, n. 117](../Codici/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
+Il [D.Lgs. 3 luglio 2017, n. 117](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
  [...] 
  a) gli [articoli da 10](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md) [a 29 del decreto legislativo 4 dicembre 1997, n. 460](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md), fatto salvo l'articolo 13, commi 2, 3 e 4".
 
@@ -492,7 +492,7 @@ Con uno o piu' decreti del Ministro delle finanze da emanarsi, entro sei mesi da
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 luglio 2017, n. 117](../Codici/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
+Il [D.Lgs. 3 luglio 2017, n. 117](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
  [...] 
  a) gli [articoli da 10](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md) [a 29 del decreto legislativo 4 dicembre 1997, n. 460](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md), fatto salvo l'articolo 13, commi 2, 3 e 4".
 
@@ -500,7 +500,7 @@ Il [D.Lgs. 3 luglio 2017, n. 117](../Codici/Codice%20del%20Terzo%20settore%20a%2
 
 AGGIORNAMENTO (10)
 
-Il Decreto 15 settembre 2020 (in G.U. 21/10/2020, n. 261) ha disposto (con l'art. 38, comma 3) che "L'Anagrafe unica delle Onlus di cui all'[art. 11 del decreto legislativo 4 dicembre 1997, n. 460](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md) viene soppressa a decorrere dal termine di cui all'[art. 104, comma 2, del decreto legislativo 3 luglio 2017, n. 117](../Codici/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ai sensi di quanto disposto dall'art. 102, comma 2, lettera a) del medesimo [decreto legislativo 3 luglio 2017, n. 117](../Codici/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md). Le procedure di iscrizione all'anagrafe unica delle ONLUS cessano, ai sensi dell'[art. 101, comma 2, del decreto legislativo n. 117 del 2017](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017;117#art_101-com2), alla data del giorno antecedente al termine di cui all'art. 30, fatta eccezione per i procedimenti di iscrizione e cancellazione pendenti a tale data".
+Il Decreto 15 settembre 2020 (in G.U. 21/10/2020, n. 261) ha disposto (con l'art. 38, comma 3) che "L'Anagrafe unica delle Onlus di cui all'[art. 11 del decreto legislativo 4 dicembre 1997, n. 460](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md) viene soppressa a decorrere dal termine di cui all'[art. 104, comma 2, del decreto legislativo 3 luglio 2017, n. 117](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ai sensi di quanto disposto dall'art. 102, comma 2, lettera a) del medesimo [decreto legislativo 3 luglio 2017, n. 117](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md). Le procedure di iscrizione all'anagrafe unica delle ONLUS cessano, ai sensi dell'[art. 101, comma 2, del decreto legislativo n. 117 del 2017](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017;117#art_101-com2), alla data del giorno antecedente al termine di cui all'art. 30, fatta eccezione per i procedimenti di iscrizione e cancellazione pendenti a tale data".
 
 ### Art. 12. — Agevolazioni ai fini delle imposte sui redditi
 
@@ -516,7 +516,7 @@ Nel testo unico delle imposte sui redditi, approvato con [decreto del Presidente
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 luglio 2017, n. 117](../Codici/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
+Il [D.Lgs. 3 luglio 2017, n. 117](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
  [...] 
  a) gli [articoli da 10](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md) [a 29 del decreto legislativo 4 dicembre 1997, n. 460](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md), fatto salvo l'articolo 13, commi 2, 3 e 4".
 
@@ -612,19 +612,19 @@ La deducibilita' dal reddito imponibile delle erogazioni liberali previste all'a
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 luglio 2017, n. 117](../Codici/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
+Il [D.Lgs. 3 luglio 2017, n. 117](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
  [...] 
  a) gli [articoli da 10](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md) [a 29 del decreto legislativo 4 dicembre 1997, n. 460](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md), fatto salvo l'articolo 13, commi 2, 3 e 4". 
- Il [D.Lgs. 3 luglio 2017, n. 117](../Codici/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), nel modificare l'[art. 16, comma 5, lettera a) della L. 19 agosto 2016, n. 166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-08-19;166#art_16-com5-leta), ha conseguentemente disposto (con l'art. 104, comma 2) che "Le disposizioni del titolo X, salvo quanto previsto dal comma 1, si applicano agli enti iscritti nel Registro unico nazionale del Terzo settore a decorrere dal periodo di imposta successivo all'autorizzazione della Commissione europea di cui all'articolo 101, comma 10, e, comunque, non prima del periodo di imposta successivo di operativita' del predetto Registro".
+ Il [D.Lgs. 3 luglio 2017, n. 117](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), nel modificare l'[art. 16, comma 5, lettera a) della L. 19 agosto 2016, n. 166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-08-19;166#art_16-com5-leta), ha conseguentemente disposto (con l'art. 104, comma 2) che "Le disposizioni del titolo X, salvo quanto previsto dal comma 1, si applicano agli enti iscritti nel Registro unico nazionale del Terzo settore a decorrere dal periodo di imposta successivo all'autorizzazione della Commissione europea di cui all'articolo 101, comma 10, e, comunque, non prima del periodo di imposta successivo di operativita' del predetto Registro".
 
 -------------
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 luglio 2017, n. 117](../Codici/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
+Il [D.Lgs. 3 luglio 2017, n. 117](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
  [...] 
  a) gli [articoli da 10](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md) [a 29 del decreto legislativo 4 dicembre 1997, n. 460](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md), fatto salvo l'articolo 13, commi 2, 3 e 4". 
- Il [D.Lgs. 3 luglio 2017, n. 117](../Codici/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), nel modificare l'[art. 16, comma 5, lettera a) della L. 19 agosto 2016, n. 166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-08-19;166#art_16-com5-leta), ha conseguentemente disposto (con l'art. 104, comma 2) che "Le disposizioni del titolo X, salvo quanto previsto dal comma 1, si applicano agli enti iscritti nel Registro unico nazionale del Terzo settore a decorrere dal periodo di imposta successivo all'autorizzazione della Commissione europea di cui all'articolo 101, comma 10, e, comunque, non prima del periodo di imposta successivo di operativita' del predetto Registro".
+ Il [D.Lgs. 3 luglio 2017, n. 117](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), nel modificare l'[art. 16, comma 5, lettera a) della L. 19 agosto 2016, n. 166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-08-19;166#art_16-com5-leta), ha conseguentemente disposto (con l'art. 104, comma 2) che "Le disposizioni del titolo X, salvo quanto previsto dal comma 1, si applicano agli enti iscritti nel Registro unico nazionale del Terzo settore a decorrere dal periodo di imposta successivo all'autorizzazione della Commissione europea di cui all'articolo 101, comma 10, e, comunque, non prima del periodo di imposta successivo di operativita' del predetto Registro".
 
 -------------
 
@@ -655,7 +655,7 @@ Al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Isti
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 luglio 2017, n. 117](../Codici/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
+Il [D.Lgs. 3 luglio 2017, n. 117](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
  [...] 
  a) gli [articoli da 10](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md) [a 29 del decreto legislativo 4 dicembre 1997, n. 460](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md), fatto salvo l'articolo 13, commi 2, 3 e 4".
 
@@ -670,7 +670,7 @@ Fermi restando gli obblighi previsti dal titolo secondo del [decreto del Preside
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 luglio 2017, n. 117](../Codici/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
+Il [D.Lgs. 3 luglio 2017, n. 117](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
  [...] 
  a) gli [articoli da 10](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md) [a 29 del decreto legislativo 4 dicembre 1997, n. 460](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md), fatto salvo l'articolo 13, commi 2, 3 e 4".
 
@@ -689,7 +689,7 @@ Sui redditi di capitale di cui all'articolo 41 del testo unico delle imposte sui
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 luglio 2017, n. 117](../Codici/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
+Il [D.Lgs. 3 luglio 2017, n. 117](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
  [...] 
  a) gli [articoli da 10](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md) [a 29 del decreto legislativo 4 dicembre 1997, n. 460](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md), fatto salvo l'articolo 13, commi 2, 3 e 4".
 
@@ -705,7 +705,7 @@ Nella Tabella allegata al [decreto del Presidente della Repubblica 26 ottobre 19
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 luglio 2017, n. 117](../Codici/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
+Il [D.Lgs. 3 luglio 2017, n. 117](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
  [...] 
  a) gli [articoli da 10](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md) [a 29 del decreto legislativo 4 dicembre 1997, n. 460](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md), fatto salvo l'articolo 13, commi 2, 3 e 4".
 
@@ -721,7 +721,7 @@ Nel [decreto del Presidente della Repubblica 26 ottobre 1972, n. 641](../DPR/Dis
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 luglio 2017, n. 117](../Codici/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
+Il [D.Lgs. 3 luglio 2017, n. 117](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
  [...] 
  a) gli [articoli da 10](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md) [a 29 del decreto legislativo 4 dicembre 1997, n. 460](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md), fatto salvo l'articolo 13, commi 2, 3 e 4".
 
@@ -736,7 +736,7 @@ Nell'articolo 3, comma 1, del testo unico delle disposizioni concernenti l'impos
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 luglio 2017, n. 117](../Codici/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
+Il [D.Lgs. 3 luglio 2017, n. 117](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
  [...] 
  a) gli [articoli da 10](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md) [a 29 del decreto legislativo 4 dicembre 1997, n. 460](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md), fatto salvo l'articolo 13, commi 2, 3 e 4".
 
@@ -755,7 +755,7 @@ L'imposta sostitutiva di quella comunale sull'incremento di valore degli immobil
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 luglio 2017, n. 117](../Codici/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
+Il [D.Lgs. 3 luglio 2017, n. 117](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
  [...] 
  a) gli [articoli da 10](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md) [a 29 del decreto legislativo 4 dicembre 1997, n. 460](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md), fatto salvo l'articolo 13, commi 2, 3 e 4".
 
@@ -770,7 +770,7 @@ I comuni, le province, le regioni e le province autonome di Trento e di Bolzano 
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 luglio 2017, n. 117](../Codici/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
+Il [D.Lgs. 3 luglio 2017, n. 117](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
  [...] 
  a) gli [articoli da 10](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md) [a 29 del decreto legislativo 4 dicembre 1997, n. 460](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md), fatto salvo l'articolo 13, commi 2, 3 e 4".
 
@@ -789,7 +789,7 @@ Alla tariffa, parte prima, allegata al testo unico delle disposizioni concernent
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 luglio 2017, n. 117](../Codici/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
+Il [D.Lgs. 3 luglio 2017, n. 117](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
  [...] 
  a) gli [articoli da 10](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md) [a 29 del decreto legislativo 4 dicembre 1997, n. 460](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md), fatto salvo l'articolo 13, commi 2, 3 e 4".
 
@@ -809,7 +809,7 @@ Con decreto del Ministro delle finanze, da emanarsi ai sensi dell'[articolo 17, 
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 luglio 2017, n. 117](../Codici/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
+Il [D.Lgs. 3 luglio 2017, n. 117](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
  [...] 
  a) gli [articoli da 10](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md) [a 29 del decreto legislativo 4 dicembre 1997, n. 460](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md), fatto salvo l'articolo 13, commi 2, 3 e 4".
 
@@ -830,7 +830,7 @@ Nell'[articolo 40, primo comma del regio decreto-legge 19 ottobre 1938, n. 1933]
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 luglio 2017, n. 117](../Codici/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
+Il [D.Lgs. 3 luglio 2017, n. 117](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
  [...] 
  a) gli [articoli da 10](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md) [a 29 del decreto legislativo 4 dicembre 1997, n. 460](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md), fatto salvo l'articolo 13, commi 2, 3 e 4".
 
@@ -856,7 +856,7 @@ Ai soggetti di cui all'articolo 10, comma 9, le disposizioni del comma 1 si appl
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 luglio 2017, n. 117](../Codici/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
+Il [D.Lgs. 3 luglio 2017, n. 117](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
  [...] 
  a) gli [articoli da 10](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md) [a 29 del decreto legislativo 4 dicembre 1997, n. 460](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md), fatto salvo l'articolo 13, commi 2, 3 e 4".
 
@@ -871,7 +871,7 @@ Alle ONLUS si applicano, ove compatibili, le disposizioni rela- tive agli enti n
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 luglio 2017, n. 117](../Codici/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
+Il [D.Lgs. 3 luglio 2017, n. 117](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
  [...] 
  a) gli [articoli da 10](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md) [a 29 del decreto legislativo 4 dicembre 1997, n. 460](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md), fatto salvo l'articolo 13, commi 2, 3 e 4".
 
@@ -886,7 +886,7 @@ L'uso nella denominazione e in qualsivoglia segno distintivo o comunicazione riv
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 luglio 2017, n. 117](../Codici/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
+Il [D.Lgs. 3 luglio 2017, n. 117](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
  [...] 
  a) gli [articoli da 10](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md) [a 29 del decreto legislativo 4 dicembre 1997, n. 460](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md), fatto salvo l'articolo 13, commi 2, 3 e 4".
 
@@ -915,7 +915,7 @@ I rappresentanti legali ed i membri degli organi amministrativi delle organizzaz
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 luglio 2017, n. 117](../Codici/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
+Il [D.Lgs. 3 luglio 2017, n. 117](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
  [...] 
  a) gli [articoli da 10](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md) [a 29 del decreto legislativo 4 dicembre 1997, n. 460](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md), fatto salvo l'articolo 13, commi 2, 3 e 4".
 
@@ -934,7 +934,7 @@ Con lo stesso decreto di cui al comma 1 sono stabiliti i soggetti abilitati all'
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 luglio 2017, n. 117](../Codici/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
+Il [D.Lgs. 3 luglio 2017, n. 117](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 102, comma 2, lettera a)) che "Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
  [...] 
  a) gli [articoli da 10](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md) [a 29 del decreto legislativo 4 dicembre 1997, n. 460](Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md), fatto salvo l'articolo 13, commi 2, 3 e 4".
 

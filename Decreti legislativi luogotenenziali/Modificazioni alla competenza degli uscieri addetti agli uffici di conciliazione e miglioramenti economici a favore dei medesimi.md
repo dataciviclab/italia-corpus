@@ -16,11 +16,11 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 28 dicembre 1924, n. 2271](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20organico%20dellordinamento%20del%20personale%20degli%20ufficiali%20giudiziari%20del%20personale%20degli%20uscieri%20giudiziari%20e%20del%20personale%20addetto%20agli%20uffici%20di%20conciliazione.%20024U2271.md);
+Visto il [R. decreto 28 dicembre 1924, n. 2271](../Regi%20decreti/Testo%20organico%20dellordinamento%20del%20personale%20degli%20ufficiali%20giudiziari%20del%20personale%20degli%20uscieri%20giudiziari%20e%20del%20personale%20addetto%20agli%20uffici%20di%20conciliazione.%20024U2271.md);
 
 Vista la [legge 22 dicembre 1932, n. 1675](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allordinamento%20degli%20ufficiali%20giudiziari.%20032U1675.md);
 
-Visto il [R. decreto 8 giugno 1933, n. 621](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20di%20coordinamento%20e%20di%20attuazione%20della%20legge%2022%20dicembre%201932%20n.%201675%20che%20modifica%20lordinamento%20degli%20ufficiali%20giudiziari.%20033U0621.md);
+Visto il [R. decreto 8 giugno 1933, n. 621](../Regi%20decreti/Norme%20di%20coordinamento%20e%20di%20attuazione%20della%20legge%2022%20dicembre%201932%20n.%201675%20che%20modifica%20lordinamento%20degli%20ufficiali%20giudiziari.%20033U0621.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

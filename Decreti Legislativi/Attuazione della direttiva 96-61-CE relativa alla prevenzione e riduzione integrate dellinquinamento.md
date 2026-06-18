@@ -14,9 +14,9 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la [direttiva 96/61/CE del 24 settembre 1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;61) sulla prevenzione e riduzione integrate dell'inquinamento;
 
-Vista la [legge 24 aprile 1998, n. 128](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), ed in particolare gli articoli, 1 comma 3, 2 e 21, nonche' l'allegato B, recante la delega al Governo per l'attuazione della [direttiva 96/61/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;61);
+Vista la [legge 24 aprile 1998, n. 128](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), ed in particolare gli articoli, 1 comma 3, 2 e 21, nonche' l'allegato B, recante la delega al Governo per l'attuazione della [direttiva 96/61/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;61);
 
-Considerato che l'[articolo 21 della legge 24 aprile 1998, n. 128](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), prevede la delega per il recepimento della [direttiva 96/61/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;61) con esclusione della disciplina relativa al rilascio dell'autorizzazione per la realizzazione dei nuovi impianti la cui regolamentazione e' demandata alla normativa emanata in recepimento della [direttiva 85/337/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1985;337) come modificata dalla [direttiva 97/11/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1997;11);
+Considerato che l'[articolo 21 della legge 24 aprile 1998, n. 128](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), prevede la delega per il recepimento della [direttiva 96/61/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;61) con esclusione della disciplina relativa al rilascio dell'autorizzazione per la realizzazione dei nuovi impianti la cui regolamentazione e' demandata alla normativa emanata in recepimento della [direttiva 85/337/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1985;337) come modificata dalla [direttiva 97/11/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1997;11);
 
 Vista la [legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), recante "Delega al Governo per il conferimento di funzioni e compiti alle regioni ed enti locali, per la riforma della pubblica amministrazione e per la semplificazione amministrativa";
 
@@ -144,7 +144,7 @@ La domanda di autorizzazione integrata ambientale deve contenere anche una sinte
 
 ## Art. 13.
 
-(( ARTICOLO ABROGATO DAL [D.LGS. 18 FEBBRAIO 2005, N. 59](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20integrale%20della%20direttiva%2096-61-CE%20relativa%20alla%20prevenzione%20e%20riduzione%20integrate%20dellinquinamento.md) ))
+(( ARTICOLO ABROGATO DAL [D.LGS. 18 FEBBRAIO 2005, N. 59](Attuazione%20integrale%20della%20direttiva%2096-61-CE%20relativa%20alla%20prevenzione%20e%20riduzione%20integrate%20dellinquinamento.md) ))
 
 ## Art. 14.
 

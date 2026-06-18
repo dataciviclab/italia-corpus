@@ -2224,7 +2224,7 @@ Ai candidati di cui al comma 4 e' riservato un terzo dei posti messi a concorso.
 
 6.
 
-Per l'ammissione al concorso i candidati di cui al comma 4 debbono sostenere una prova scritta consistente nello svolgimento di un tema di carattere pratico concernente i servizi di istituto ed i metodi del trattamento penitenziario, nonche' una prova orale vertente su nozioni di diritto penale, limitatamente alla parte generale del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e di diritto processuale penale, limitatamente alle norme concernenti l'attivita' della polizia giudiziaria.
+Per l'ammissione al concorso i candidati di cui al comma 4 debbono sostenere una prova scritta consistente nello svolgimento di un tema di carattere pratico concernente i servizi di istituto ed i metodi del trattamento penitenziario, nonche' una prova orale vertente su nozioni di diritto penale, limitatamente alla parte generale del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e di diritto processuale penale, limitatamente alle norme concernenti l'attivita' della polizia giudiziaria.
 
 7.
 

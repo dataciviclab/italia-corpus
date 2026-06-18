@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Dalla data di applicazione del [decreto legislativo luogotenenziale 18 novembre 1944, n. 328](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20economici%20a%20favore%20del%20personale%20statale%20e%20dei%20dipendenti%20dagli%20Enti%20pubblici%20locali%20e%20parastatali.%20044U0328.md), nelle singole province restituite all'Amministrazione italiana, viene soppresso Paggio di vendita a favore dei ricevitori dei Monopoli di Stato, di cui all'[art. 27 del regio decreto 14 giugno 1941, n. 577](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20dei%20servizi%20di%20distribuzione%20e%20vendita%20dei%20generi%20di%20monopolio.%20041U0577.md) e successive modificazioni.
+Dalla data di applicazione del [decreto legislativo luogotenenziale 18 novembre 1944, n. 328](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20economici%20a%20favore%20del%20personale%20statale%20e%20dei%20dipendenti%20dagli%20Enti%20pubblici%20locali%20e%20parastatali.%20044U0328.md), nelle singole province restituite all'Amministrazione italiana, viene soppresso Paggio di vendita a favore dei ricevitori dei Monopoli di Stato, di cui all'[art. 27 del regio decreto 14 giugno 1941, n. 577](../Regi%20decreti/Ordinamento%20dei%20servizi%20di%20distribuzione%20e%20vendita%20dei%20generi%20di%20monopolio.%20041U0577.md) e successive modificazioni.
 
 ## Art. 2.
 

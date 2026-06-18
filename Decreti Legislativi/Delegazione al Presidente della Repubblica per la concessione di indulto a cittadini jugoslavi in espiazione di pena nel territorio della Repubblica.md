@@ -34,7 +34,7 @@ Il Presidente della Repubblica e' delegato a comprendere nell'indulto, di cui al
 
 ## Art. 3.
 
-Il Presidente della Repubblica e' delegato a stabilire che l'indulto si applica altresi' ai recidivi nei casi preveduti dai capoversi dell'[art. 99 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e al delinquenti abituali, professionali o per tendenza.
+Il Presidente della Repubblica e' delegato a stabilire che l'indulto si applica altresi' ai recidivi nei casi preveduti dai capoversi dell'[art. 99 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e al delinquenti abituali, professionali o per tendenza.
 
 ## Art. 4.
 

@@ -20,7 +20,7 @@ E' convertito in legge il [decreto-legge 20 novembre 1981, n. 694](https://www.n
 
 ## Art. 2.
 
-I controlli assegnati al personale delle dogane in forza degli articoli 235 e 236 del testo unico delle leggi doganali, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), sono demandati, all'atto della esportazione di prodotti preparati con impiego di zucchero e alcole allo stato estero o in regime sif, al personale degli uffici tecnici delle imposte di fabbricazione sempre che lo stabilimento della ditta richiedente sia sottoposto a vigilanza finanziaria permanente.
+I controlli assegnati al personale delle dogane in forza degli articoli 235 e 236 del testo unico delle leggi doganali, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), sono demandati, all'atto della esportazione di prodotti preparati con impiego di zucchero e alcole allo stato estero o in regime sif, al personale degli uffici tecnici delle imposte di fabbricazione sempre che lo stabilimento della ditta richiedente sia sottoposto a vigilanza finanziaria permanente.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

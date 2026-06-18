@@ -33,7 +33,7 @@ Al ruolo organico dei posti di professore dell'Universita' degli studi di Bari s
  Facolta' di lettere e filosofia, posti di ruolo n. 9;
  Facolta' di scienze, matematiche, fisiche e naturali, posti di ruolo n. 9;
  Facolta' di ingegneria, posti di ruolo n. 7. ((2))
- In tali sensi s'intende modificato il ruolo organico dei posti di professore di ruolo dell'Universita' di Bari di cui al [regio decreto 3 settembre 1936, n. 1816](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20nei%20confronti%20della%20Regia%20universita%20di%20Bari%20delle%20norme%20di%20cui%20allart.%201%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20che%20apporta%20modificazioni%20ed%20aggiunte%20al%20testo%20unico%20_24799b6b84ea.md), e al [regio decreto-legge 28 febbraio 1939, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-02-28;297).
+ In tali sensi s'intende modificato il ruolo organico dei posti di professore di ruolo dell'Universita' di Bari di cui al [regio decreto 3 settembre 1936, n. 1816](../Regi%20decreti/Attuazione%20nei%20confronti%20della%20Regia%20universita%20di%20Bari%20delle%20norme%20di%20cui%20allart.%201%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20che%20apporta%20modificazioni%20ed%20aggiunte%20al%20testo%20unico%20_24799b6b84ea.md), e al [regio decreto-legge 28 febbraio 1939, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-02-28;297).
 
 ----------------
 

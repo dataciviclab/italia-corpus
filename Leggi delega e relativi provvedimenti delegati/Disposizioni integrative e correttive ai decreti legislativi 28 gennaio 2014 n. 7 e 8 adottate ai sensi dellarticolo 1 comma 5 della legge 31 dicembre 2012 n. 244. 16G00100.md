@@ -1087,7 +1087,7 @@ Note all'art. 13:
  - Si riporta il testo del comma 1, numero 151) dell'art. 2268 del citato [decreto legislativo n. 66 del 2010](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010;66) come modificato dal presente decreto: 
  «Art. 2268 (Abrogazione espressa di norme primarie). - 1. A decorrere dall'entrata in vigore del codice e del regolamento, sono o restano abrogati i seguenti atti normativi primari e le successive modificazioni: 
  1) - 150) (Omissis).; 
- 151) [regio decreto 15 luglio 1938, n. 1156](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20sugli%20assegni%20dimbarco%20al%20personale%20della%20Regia%20marina.%20038U1156.md), esclusi articoli 5 e 19; 
+ 151) [regio decreto 15 luglio 1938, n. 1156](../Regi%20decreti/Regolamento%20sugli%20assegni%20dimbarco%20al%20personale%20della%20Regia%20marina.%20038U1156.md), esclusi articoli 5 e 19; 
  (Omissis).». 
  - Si riporta il testo del comma 1, numero 111) dell'art. 2269 del citato [decreto legislativo n. 66 del 2010](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010;66), come modificato dal presente decreto: 
  «Art. 2269 (Abrogazione espressa di norme secondarie).
@@ -1098,7 +1098,7 @@ Note all'art. 13:
  - Si riporta il testo del comma 1, numero 10) dell'art. 2270 del citato [decreto legislativo n. 66 del 2010](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010;66), come modificato dal presente decreto: 
  «Art. 2270 (Norme che rimangono in vigore). - 1. In attuazione dell' [art. 14, comma 14, legge 28 novembre 2005, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-11-28;246#art_14-com14), restano n vigore i seguenti atti normativi primari, e le relative successive modificazioni: 
  (Omissis).; 
- 10) [regio decreto 15 luglio 1938, n. 1156: art. 5](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20sugli%20assegni%20dimbarco%20al%20personale%20della%20Regia%20marina.%20038U1156.md) e [19](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20sugli%20assegni%20dimbarco%20al%20personale%20della%20Regia%20marina.%20038U1156.md); 
+ 10) [regio decreto 15 luglio 1938, n. 1156: art. 5](../Regi%20decreti/Regolamento%20sugli%20assegni%20dimbarco%20al%20personale%20della%20Regia%20marina.%20038U1156.md) e [19](../Regi%20decreti/Regolamento%20sugli%20assegni%20dimbarco%20al%20personale%20della%20Regia%20marina.%20038U1156.md); 
  (Omissis).».
 
 ### Art. 14. — Razionalizzazione e semplificazione delle procedure 

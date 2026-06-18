@@ -16,13 +16,13 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico della legge relativo all'imposta sui redditi di ricchezza mobile, approvato con [R. decreto 24 agosto 1877, n. 4021](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), col relativo regolamento, approvato con [R. decreto 11 luglio 1907, n. 560](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md);
+Visto il testo unico della legge relativo all'imposta sui redditi di ricchezza mobile, approvato con [R. decreto 24 agosto 1877, n. 4021](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), col relativo regolamento, approvato con [R. decreto 11 luglio 1907, n. 560](../Regi%20decreti/Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md);
 
 Visto il testo approvato con [R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md), concernente disposizioni per le dichiarazioni dei redditi e le sanzioni in materia di imposte dirette;
 
 Visto il [R. decreto-legge 7 agosto 1936, n. 1639](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20degli%20ordinamenti%20tributari.%20036U1639.md), relativo alla riforma degli ordinamenti tributari;
 
-Visto il [R. decreto 8 luglio 1937, n. 1516](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20relative%20alla%20costituzione%20ed%20al%20funzionamento%20delle%20Commissioni%20amministrative%20per%20le%20imposte%20dirette%20e%20per%20le%20imposte%20indirette%20sugli%20affari.%20037U1516.md), contenente norme relative alla costituzione ed al funzionamento delle Commissioni amministrative per le imposte e per le imposte indirette sugli affari;
+Visto il [R. decreto 8 luglio 1937, n. 1516](../Regi%20decreti/Norme%20relative%20alla%20costituzione%20ed%20al%20funzionamento%20delle%20Commissioni%20amministrative%20per%20le%20imposte%20dirette%20e%20per%20le%20imposte%20indirette%20sugli%20affari.%20037U1516.md), contenente norme relative alla costituzione ed al funzionamento delle Commissioni amministrative per le imposte e per le imposte indirette sugli affari;
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -262,7 +262,7 @@ Le disposizioni degli articoli 26 a 29 hanno effetto dall'entrata in vigore del 
 
 ### Art. 32.
 
-I componenti i Consigli e i Comitati tributati sono tenuti al segreto di ufficio, a termine dell'[art. 326 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e sono passibili delle pene comminate dall'articolo medesimo. 
+I componenti i Consigli e i Comitati tributati sono tenuti al segreto di ufficio, a termine dell'[art. 326 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e sono passibili delle pene comminate dall'articolo medesimo. 
  
 Ordiniamo, a chiunque spetti, di osservare il presente decreto e di farlo osservare come legge dello stato. 
  

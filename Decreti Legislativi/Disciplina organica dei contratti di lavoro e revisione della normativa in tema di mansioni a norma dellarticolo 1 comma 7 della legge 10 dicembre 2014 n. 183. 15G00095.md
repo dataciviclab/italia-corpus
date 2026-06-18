@@ -352,7 +352,7 @@ Nel caso di trasformazione del rapporto di lavoro a tempo pieno in rapporto di l
 Note all'art. 11: 
  - Il testo del [decreto-legge 12 settembre 1983, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;463) (Misure urgenti in materia previdenziale e sanitaria e per il contenimento della spesa pubblica, disposizioni per vari settori della pubblica amministrazione e proroga di taluni termini), convertito, con modificazioni, dalla [legge 11 novembre 1983, n. 638](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20settembre%201983%20n.%20463%20recante%20misure%20urgenti%20in%20materia%20previdenziale%20e%20sanitaria%20e%20per%20il%20contenimento%20della%20spesa%20pubblica%20di_f3f924b1a07d.md), e' pubblicato nella Gazzetta Ufficiale 12 settembre 1983, n. 250. 
  - Si riporta l'[articolo 20 del Decreto del Presidente della Repubblica 30 maggio 1955, n.797](../DPR/Testo%20unico%20delle%20norme%20concernenti%20gli%20assegni%20familiari.md) (Approvazione del testo unico delle norme concernenti gli assegni familiari): 
- «Art. 20. ([Art. 7 R.D.L. 17 giugno 1937, n. 1048](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20il%20perfezionamento%20e%20generalizzazione%20degli%20assegni%20familiari%20ai%20prestatori%20dopera.%20037U1048.md) - [Art. 8 R.D. 21 luglio 1937, n. 1239](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20integrative%20per%20lattuazione%20del%20R.%20decreto-legge%2017%20giugno%201937-XV%20n.%201048%20sulla%20generalizzazione%20e%20il%20perfezionamento%20degli%20assegni%20familiari.%20037U1239.md)).- Il lavoratore che esplica la sua attivita' presso aziende diverse ha diritto agli assegni familiari solo per l'attivita' principale. 
+ «Art. 20. ([Art. 7 R.D.L. 17 giugno 1937, n. 1048](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20il%20perfezionamento%20e%20generalizzazione%20degli%20assegni%20familiari%20ai%20prestatori%20dopera.%20037U1048.md) - [Art. 8 R.D. 21 luglio 1937, n. 1239](../Regi%20decreti/Norme%20integrative%20per%20lattuazione%20del%20R.%20decreto-legge%2017%20giugno%201937-XV%20n.%201048%20sulla%20generalizzazione%20e%20il%20perfezionamento%20degli%20assegni%20familiari.%20037U1239.md)).- Il lavoratore che esplica la sua attivita' presso aziende diverse ha diritto agli assegni familiari solo per l'attivita' principale. 
  Si intende per attivita' principale quella che impegna per il maggior tempo le prestazioni del lavoratore o costituisce la fonte principale di guadagno. 
  Il lavoratore deve indicare al datore di lavoro, presso cui presta attivita' secondaria, l'azienda presso cui esplica l'attivita' principale per la quale gli vengono corrisposti gli assegni.».
 
@@ -471,7 +471,7 @@ Prima dell'inizio della prestazione lavorativa o di un ciclo integrato di presta
 
 AGGIORNAMENTO (41)
 
-Il [D.Lgs. 27 giugno 2022, n. 104](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-1152%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20giugno%202019%20relativa%20a%20condizioni%20di%20lavoro%20trasparenti%20e%20prevedibili%20nellUnione%20europea.%2022G00113.md) ha disposto (con l'art. 16, comma 1) che "Le disposizioni di cui al presente decreto si applicano a tutti i rapporti di lavoro gia' instaurati alla data del 1° agosto 2022".
+Il [D.Lgs. 27 giugno 2022, n. 104](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-1152%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20giugno%202019%20relativa%20a%20condizioni%20di%20lavoro%20trasparenti%20e%20prevedibili%20nellUnione%20europea.%2022G00113.md) ha disposto (con l'art. 16, comma 1) che "Le disposizioni di cui al presente decreto si applicano a tutti i rapporti di lavoro gia' instaurati alla data del 1° agosto 2022".
 
 ### Art. 16.
 
@@ -1044,7 +1044,7 @@ Con il contratto di somministrazione di lavoro l'utilizzatore assume l'obbligo d
 
 AGGIORNAMENTO (41)
 
-Il [D.Lgs. 27 giugno 2022, n. 104](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-1152%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20giugno%202019%20relativa%20a%20condizioni%20di%20lavoro%20trasparenti%20e%20prevedibili%20nellUnione%20europea.%2022G00113.md) ha disposto (con l'art. 16, comma 1) che "Le disposizioni di cui al presente decreto si applicano a tutti i rapporti di lavoro gia' instaurati alla data del 1° agosto 2022".
+Il [D.Lgs. 27 giugno 2022, n. 104](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-1152%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20giugno%202019%20relativa%20a%20condizioni%20di%20lavoro%20trasparenti%20e%20prevedibili%20nellUnione%20europea.%2022G00113.md) ha disposto (con l'art. 16, comma 1) che "Le disposizioni di cui al presente decreto si applicano a tutti i rapporti di lavoro gia' instaurati alla data del 1° agosto 2022".
 
 ### Art. 34. — Disciplina dei rapporti di lavoro
 
@@ -1561,7 +1561,7 @@ La violazione di quanto previsto dal comma 1 e' valutata come elemento di prova 
 
 AGGIORNAMENTO (41)
 
-Il [D.Lgs. 27 giugno 2022, n. 104](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-1152%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20giugno%202019%20relativa%20a%20condizioni%20di%20lavoro%20trasparenti%20e%20prevedibili%20nellUnione%20europea.%2022G00113.md) ha disposto (con l'art. 16, comma 1) che "Le disposizioni di cui al presente decreto si applicano a tutti i rapporti di lavoro gia' instaurati alla data del 1° agosto 2022".
+Il [D.Lgs. 27 giugno 2022, n. 104](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-1152%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20giugno%202019%20relativa%20a%20condizioni%20di%20lavoro%20trasparenti%20e%20prevedibili%20nellUnione%20europea.%2022G00113.md) ha disposto (con l'art. 16, comma 1) che "Le disposizioni di cui al presente decreto si applicano a tutti i rapporti di lavoro gia' instaurati alla data del 1° agosto 2022".
 
 ### Art. 47-quater. — (Compenso)
 

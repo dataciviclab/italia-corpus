@@ -38,19 +38,19 @@ Capo II
 
 1.
 
-L'[articolo 368 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente: 
+L'[articolo 368 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente: 
  «Art. 368 (Rimpatrio di stranieri arruolati su navi italiane). - Le disposizioni di questo capo si applicano agli stranieri arruolati su navi nazionali».
 
 2.
 
-L'[articolo 1091 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente: 
+L'[articolo 1091 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente: 
  «Art. 1091 (Diserzione). - Salvo che il fatto costituisca piu' grave reato, il componente dell'equipaggio che non si reca a bordo della nave o dell'aeromobile ovvero l'abbandona, cagionando un pericolo per la vita o per l'incolumita' fisica delle persone ovvero per la sicurezza della nave o dell'aeromobile, e' punito con la pena della reclusione da uno a tre anni. 
  Fuori dei casi previsti dal primo comma, il componente dell'equipaggio che non si reca a bordo della nave o dell'aeromobile ovvero l'abbandona, e' punito, se dal fatto deriva una notevole difficolta' nel servizio della navigazione, con la sanzione amministrativa pecuniaria da 3.000 a 10.000 euro. 
  Se dal fatto deriva un grave turbamento in un servizio pubblico o di pubblica necessita', si applica la sanzione amministrativa pecuniaria da 5.000 a 25.000 euro».
 
 3.
 
-L'[articolo 1094 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente: 
+L'[articolo 1094 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente: 
  «Art. 1094 (Inosservanza di ordine da parte di componente dell'equipaggio). - Salvo che il fatto costituisca reato, il componente dell'equipaggio che non esegue un ordine di un superiore concernente un servizio tecnico della nave, del galleggiante o dell'aeromobile, e' punito con la sanzione amministrativa pecuniaria da 1.000 a 5.000 euro. 
  Se il fatto di cui al primo comma e' commesso in occasione di servizio concernente la manovra, si applica la sanzione amministrativa pecuniaria da 3.000 a 10.000 euro. 
  Se dal fatto di cui al primo comma deriva una notevole difficolta' nel servizio della navigazione ovvero un grave turbamento in un servizio pubblico o di pubblica necessita', si applica la sanzione amministrativa pecuniaria da 5.000 a 25.000 euro. 
@@ -64,7 +64,7 @@ Modifiche in materia di eta' minima
 
 1.
 
-All'[articolo 119, primo comma, del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), le parole: «quindici anni» sono sostituite dalle seguenti: «sedici anni».
+All'[articolo 119, primo comma, del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), le parole: «quindici anni» sono sostituite dalle seguenti: «sedici anni».
 
 2.
 

@@ -1744,7 +1744,7 @@ All'attuazione del presente articolo si provvede con le risorse finanziarie, uma
 
 Sono abrogate le seguenti disposizioni:
                             a)
-                                il [decreto legislativo luogotenenziale 9 novembre 1945, n. 788](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20della%20Cassa%20per%20lintegrazione%20dei%20guadagni%20degli%20operai%20dellindustria%20e%20disposizioni%20transitorie%20a%20favore%20dei%20lavoratori%20dellindustria%20dellAlta%20Italia.%20045U0788.md);
+                                il [decreto legislativo luogotenenziale 9 novembre 1945, n. 788](../Decreti%20legislativi%20luogotenenziali/Istituzione%20della%20Cassa%20per%20lintegrazione%20dei%20guadagni%20degli%20operai%20dellindustria%20e%20disposizioni%20transitorie%20a%20favore%20dei%20lavoratori%20dellindustria%20dellAlta%20Italia.%20045U0788.md);
                             b)
                                 il [decreto legislativo del Capo provvisorio dello Stato 12 agosto 1947, n. 869](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-08-12;869), ad eccezione dell'articolo 3;
                             c)

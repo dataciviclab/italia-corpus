@@ -180,7 +180,7 @@ La sentenza e' comunicata ed affissa nei modi e nei termini stabiliti dall'[arti
 
 3-bis.
 
-Al commissario autonomamente nominato ai sensi del comma 1, lettera b), ed al coadiutore di cui egli si avvale a norma degli articoli 19, comma 3, del presente decreto e 32 della [legge fallimentare](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267), si applicano le disposizioni di cui agli articoli 35, comma 4-bis, e 35.1 del [decreto legislativo 6 settembre 2011, n. 159](../Codici/Codice%20delle%20leggi%20antimafia%20e%20delle%20misure%20di%20prevenzione%20nonche%20nuove%20disposizioni%20in%20materia%20di%20documentazione%20antimafia%20a%20norma%20degli%20articoli%201%20e%202%20della%20legge%2013%20agosto%202010%20n.%20136.%2011G0201.md); si osservano altresi' le disposizioni di cui all'articolo 35.2 del predetto decreto.
+Al commissario autonomamente nominato ai sensi del comma 1, lettera b), ed al coadiutore di cui egli si avvale a norma degli articoli 19, comma 3, del presente decreto e 32 della [legge fallimentare](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267), si applicano le disposizioni di cui agli articoli 35, comma 4-bis, e 35.1 del [decreto legislativo 6 settembre 2011, n. 159](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20delle%20leggi%20antimafia%20e%20delle%20misure%20di%20prevenzione%20nonche%20nuove%20disposizioni%20in%20materia%20di%20documentazione%20antimafia%20a%20norma%20degli%20articoli%201%20e%202%20della%20legge%2013%20agosto%202010%20n.%20136.%2011G0201.md); si osservano altresi' le disposizioni di cui all'articolo 35.2 del predetto decreto.
 
 ### Art. 9.
 
@@ -1275,7 +1275,7 @@ La scelta dell'acquirente e' effettuata tenendo conto, oltre che dell'ammontare 
 
 4.
 
-Nell'ambito delle consultazioni relative al trasferimento d'azienda previste dall'[articolo 47 della legge 29 dicembre 1990, n. 428](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), il commissario straordinario, l'acquirente e i rappresentanti 
+Nell'ambito delle consultazioni relative al trasferimento d'azienda previste dall'[articolo 47 della legge 29 dicembre 1990, n. 428](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), il commissario straordinario, l'acquirente e i rappresentanti 
 dei lavoratori possono convenire il trasferimento solo parziale dei lavoratori alle dipendenze dell'acquirente e ulteriori modifiche delle condizioni di lavoro consentite dalle norme vigenti in materia.
 
 5.
@@ -1969,7 +1969,7 @@ Le stesse disposizioni si applicano, altresi', alle persone che coadiuvano il co
 
 Nota all'art. 96:
  - Si riporta il testo degli [articoli 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;267#art_228), [229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;267#art_229) e [230 del R.D. n. 267/1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;267#art_230):
- "Art. 228 (Interesse privato del curatore negli atti del fallimento). - Salvo che al fatto non siano applicabili gli articoli 315, 317, 3l8, 319, 321, 322 e 323 del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), il curatore che prende interesse privato in qualsiasi atto del fallimento direttamente o per interposta persona o con atti simulati e' punito con la reclusione da due a sei anni e con la multa non inferiore a lire 400.000.
+ "Art. 228 (Interesse privato del curatore negli atti del fallimento). - Salvo che al fatto non siano applicabili gli articoli 315, 317, 3l8, 319, 321, 322 e 323 del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), il curatore che prende interesse privato in qualsiasi atto del fallimento direttamente o per interposta persona o con atti simulati e' punito con la reclusione da due a sei anni e con la multa non inferiore a lire 400.000.
  La condanna importa l'interdizione dai pubblici uffici".
  "Art. 229 (Accettazione di retribuzione non dovuta). - Il curatore del fallimento che riceve o pattuisce una retribuzione, in danaro o in altra forma, in aggiunta di quella liquidata in suo favore dal tribunale o dal giudice delegato, e' punito con la reclusione da tre mesi a due anni e con la multa da lire 200.000 a l.000.000.
  Nei casi piu' gravi alla condanna puo' aggiungersi l'inabilitazione temporanea all'ufficio di amministratore per la durata non inferiore a due anni".

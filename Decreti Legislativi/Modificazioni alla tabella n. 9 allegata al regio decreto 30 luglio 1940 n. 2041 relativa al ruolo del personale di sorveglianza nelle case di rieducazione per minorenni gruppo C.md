@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Alla tabella n. 9 allegata al [regio decreto 30 luglio 1940, n. 2041](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20per%20il%20personale%20civile%20di%20ruolo%20degli%20Istituti%20di%20prevenzione%20e%20di%20pena.%20040U2041.md), relativa al ruolo del personale di sorveglianza nelle case di rieducazione per minorenni (gruppo C) e' sostituita la tabella seguente:
+Alla tabella n. 9 allegata al [regio decreto 30 luglio 1940, n. 2041](../Regi%20decreti/Regolamento%20per%20il%20personale%20civile%20di%20ruolo%20degli%20Istituti%20di%20prevenzione%20e%20di%20pena.%20040U2041.md), relativa al ruolo del personale di sorveglianza nelle case di rieducazione per minorenni (gruppo C) e' sostituita la tabella seguente:
  Numero
 Grado dei Posti 
  9° - Assistenti capi.................................. 12

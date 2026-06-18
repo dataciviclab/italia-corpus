@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-L'assegno speciale temporaneo, istituito con [decreto legislativo del Capo provvisorio dello Stato 29 dicembre 1946, n. 576](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-12-29;576), ed aumentato con l'[art. 11 del decreto legislativo del Capo provvisorio dello Stato 1 settembre 1947, n. 1108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-09-01;1108#art_11), e' ulteriormente elevato a L. 25.000 annue per le vedove e per gli orfani di guerra, ivi compresi i titolari delle pensioni spettanti in virtu' dell'[art. 33 del regio decreto 12 luglio 1923, n. 1491](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md). ((1))
+L'assegno speciale temporaneo, istituito con [decreto legislativo del Capo provvisorio dello Stato 29 dicembre 1946, n. 576](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-12-29;576), ed aumentato con l'[art. 11 del decreto legislativo del Capo provvisorio dello Stato 1 settembre 1947, n. 1108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-09-01;1108#art_11), e' ulteriormente elevato a L. 25.000 annue per le vedove e per gli orfani di guerra, ivi compresi i titolari delle pensioni spettanti in virtu' dell'[art. 33 del regio decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md). ((1))
 
 ---------------
 

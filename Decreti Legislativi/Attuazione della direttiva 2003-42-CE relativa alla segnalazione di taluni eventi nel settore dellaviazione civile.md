@@ -132,14 +132,14 @@ Nota all'[art. 2:
 
 1.
 
-Fatto salvo quanto previsto dagli [articoli 828](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [829 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), sono segnalati all'ENAC gli eventi che mettono in pericolo oppure che, se non corretti, rischiano di mettere in pericolo un aeromobile impiegato in attivita' dell'aviazione civile, i suoi occupanti o qualsiasi altra persona. A titolo esemplificativo si considerano tali gli eventi ricompresi negli allegati I e II al presente decreto legislativo.
+Fatto salvo quanto previsto dagli [articoli 828](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [829 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), sono segnalati all'ENAC gli eventi che mettono in pericolo oppure che, se non corretti, rischiano di mettere in pericolo un aeromobile impiegato in attivita' dell'aviazione civile, i suoi occupanti o qualsiasi altra persona. A titolo esemplificativo si considerano tali gli eventi ricompresi negli allegati I e II al presente decreto legislativo.
 
 2.
 
 Qualora la Commissione europea decida di modificare gli allegati alla [direttiva 2003/42/CE del Parlamento europeo e del Consiglio, del 13 giugno 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;42), al fine di estendere o modificare gli esempi di eventi, si provvede con decreto del Ministro delle infrastrutture e dei trasporti alla contestuale modifica degli allegati di cui al comma 1.
 
-Note all'[art. 3](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md):
- - Gli [articoli 828](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [829 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' recitano:
+Note all'[art. 3](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md):
+ - Gli [articoli 828](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [829 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' recitano:
  «Art. 828 (Obbligo di comunicazione di incidente). - Il direttore dell'aeroporto, l'ente preposto ai servizi di assistenza al volo, l'autorita' di pubblica sicurezza ed ogni altra pubblica autorita', quando abbiano notizia di un incidente aeronautico e quando valutino che sussistono ragionevoli motivi per ritenere che un aeromobile sia perduto o scomparso, ne danno immediata comunicazione all'autorita' giudiziaria, all'Agenzia nazionale per la sicurezza del volo e all'Ente nazionale per l'aviazione civile.».
  «Art. 829 (Obbligo di comunicazione di inconveniente grave). - Il direttore dell'aeroporto e l'ente preposto ai servizi di assistenza al volo, quando abbiano notizia di un inconveniente aeronautico grave ne danno immediata comunicazione all'Agenzia nazionale per la sicurezza del volo e all'Ente nazionale per l'aviazione civile.».
  - Per la [direttiva 2003/42/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;42) vedi note alle premesse.

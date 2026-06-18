@@ -22,13 +22,13 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Il comune di Concamarise, aggregato a quello di Sanguinetto col [regio decreto 28 marzo 1929, n. 704](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Concamarise%20e%20Sanguinetto%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20%20Sanguinetto%20.%20029U0704.md), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo.
+Il comune di Concamarise, aggregato a quello di Sanguinetto col [regio decreto 28 marzo 1929, n. 704](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Concamarise%20e%20Sanguinetto%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20%20Sanguinetto%20.%20029U0704.md), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo.
  Il Prefetto di Verona, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i Comuni interessati.
 
 ## Art. 2.
 
 Il nuovo organico del comune di Sanguinetto e quello del comune di Concamarise, saranno stabiliti dal Prefetto, sentita la Giunta, provinciale amministrativa.
- Il numero dei posti ed i gradi relativi non potranno essere superiori, rispettivamente, a quelli organicamente assegnati ai Comuni suddetti anteriormente all'entrata in vigore del [regio decreto 28 marzo 1929, n. 704](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Concamarise%20e%20Sanguinetto%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20%20Sanguinetto%20.%20029U0704.md).
+ Il numero dei posti ed i gradi relativi non potranno essere superiori, rispettivamente, a quelli organicamente assegnati ai Comuni suddetti anteriormente all'entrata in vigore del [regio decreto 28 marzo 1929, n. 704](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Concamarise%20e%20Sanguinetto%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20%20Sanguinetto%20.%20029U0704.md).
  Al personale gia' in servizio presso il comune di Sanguinetto, che sara' inquadrato nei predetti organici, non potranno essere attribuiti posizione gerarchica e trattamento economico superiori a quelli goduti all'atto dell'inquadramento medesimo.
 
 ## Art. 3.

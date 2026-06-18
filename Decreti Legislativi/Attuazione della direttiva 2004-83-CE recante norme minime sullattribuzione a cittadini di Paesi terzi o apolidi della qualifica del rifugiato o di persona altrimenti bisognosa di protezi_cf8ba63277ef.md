@@ -64,7 +64,7 @@ Ai fini del presente decreto s'intende per:
                             h)
                                 «status di protezione sussidiaria»: il riconoscimento da parte dello Stato di uno straniero quale persona ammissibile alla protezione sussidiaria;
                             i)
-                                'domanda di protezione internazionale': la domanda di protezione presentata secondo le procedure previste dal [decreto legislativo 28 gennaio 2008, n. 25](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-85-CE%20recante%20norme%20minime%20per%20le%20procedure%20applicate%20negli%20Stati%20membri%20ai%20fini%20del%20riconoscimento%20e%20della%20revoca%20dello%20status%20di%20rifugiato.md), diretta ad ottenere lo status di rifugiato o lo status di protezione sussidiaria;
+                                'domanda di protezione internazionale': la domanda di protezione presentata secondo le procedure previste dal [decreto legislativo 28 gennaio 2008, n. 25](Attuazione%20della%20direttiva%202005-85-CE%20recante%20norme%20minime%20per%20le%20procedure%20applicate%20negli%20Stati%20membri%20ai%20fini%20del%20riconoscimento%20e%20della%20revoca%20dello%20status%20di%20rifugiato.md), diretta ad ottenere lo status di rifugiato o lo status di protezione sussidiaria;
                             i-bis)
                                 'richiedente': lo straniero che ha presentato una domanda di protezione internazionale sulla quale non e' ancora stata adottata una decisione definitiva;
                             l)

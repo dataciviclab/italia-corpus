@@ -30,14 +30,14 @@ Piena ed intera esecuzione e' data alla convenzione di cui all'articolo 1 a deco
 
 1.
 
-L'ultimo comma dell'[articolo 648 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' sostituito dal seguente:
+L'ultimo comma dell'[articolo 648 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' sostituito dal seguente:
  "Le disposizioni di questo articolo si applicano anche quando l'autore del delitto da cui il denaro o le cose provengono non e' imputabile o non e' punibile ovvero quando manchi una condizione di procedibilita' riferita a tale delitto".
 
 ## Art. 4.
 
 1.
 
-L'[articolo 648-bis del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' sostituito dal seguente:
+L'[articolo 648-bis del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' sostituito dal seguente:
  "Art. 648-bis. - (Riciclaggio). - Fuori dei casi di concorso nel reato, chiunque sostituisce o trasferisce denaro, beni o altre utilita' provenienti da delitto non colposo, ovvero compie in relazione ad essi altre operazioni, in modo da ostacolare l'identificazione della loro provenienza delittuosa, e' punito con la reclusione da quattro a dodici anni e con la multa da lire due milioni a lire trenta milioni.
  La pena e' aumentata quando il fatto e' commesso nell'esercizio di un'attivita' professionale.
  La pena e' diminuita se il denaro, i beni o le altre utilita' provengono da delitto per il quale e' stabilita la pena della reclusione inferiore nel massimo a cinque anni.
@@ -47,7 +47,7 @@ L'[articolo 648-bis del codice penale](../Codici/Approvazione%20del%20testo%20de
 
 1.
 
-L'[articolo 648-ter del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' sostituito dal seguente:
+L'[articolo 648-ter del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' sostituito dal seguente:
  "Art. 648-ter. - (Impiego di denaro, beni o utilita' di provenienza illecita). - Chiunque, fuori dei casi di concorso nel reato e dei casi previsti dagli articoli 648 e 648-bis, impiega in attivita' economiche o finanziarie denaro, beni o altre utilita' provenienti da delitto, e' punito con la reclusione da quattro a dodici anni e con la multa da lire due milioni a lire trenta milioni.
  La pena e' aumentata quando il fatto e' commesso nell'esercizio di un'attivita' professionale.
  La pena e' diminuita nell'ipotesi di cui al secondo comma dell'articolo 648.

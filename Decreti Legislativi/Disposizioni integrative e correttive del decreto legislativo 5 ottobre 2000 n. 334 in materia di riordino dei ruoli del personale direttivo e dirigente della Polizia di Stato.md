@@ -848,7 +848,7 @@ Note all'art. 10:
  delle istituzioni di cui all'art. 114, presidente e 
  componente degli organi delle comunita' montane: 
  a) coloro che hanno riportato condanna definitiva per 
- il delitto previsto dall'[art. 416-bis del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o 
+ il delitto previsto dall'[art. 416-bis del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o 
  per il delitto di associazione finalizzata al traffico 
  illecito di sostanze stupefacenti o psicotrope di cui 
  all'art. 74 del testo unico approvato con [decreto del 
@@ -870,7 +870,7 @@ Note all'art. 10:
  (corruzione per un atto d'ufficio), 319 (corruzione per un 
  atto contrario ai doveri d'ufficio), 319-ter (corruzione in 
  atti giudiziari), 320 (corruzione di persona incaricata di 
- un pubblico servizio) del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ un pubblico servizio) del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  (omissis).". 
  - Per il testo dell'[art. 68 del decreto legislativo 
  5 ottobre 2000, n. 334](Riordino%20dei%20ruoli%20del%20personale%20direttivo%20e%20dirigente%20della%20Polizia%20di%20Stato%20a%20norma%20dellarticolo%205%20comma%201%20della%20legge%2031%20marzo%202000%20n.%2078.md) (per l'argomento vedasi nelle note 

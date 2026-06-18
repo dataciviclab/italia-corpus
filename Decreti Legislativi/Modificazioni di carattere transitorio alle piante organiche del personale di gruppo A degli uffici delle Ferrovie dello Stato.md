@@ -22,11 +22,11 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-In eccedenza al contingente fissato dall'allegato n. 1 al [regio decreto 12 ottobre 1942, n. 1210](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20ed%20aggiunte%20al%20regolamento%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20042U1210.md), i posti di pianta per il personale di gruppo A degli uffici delle ferrovie dello Stato, vengono, in via transitoria, aumentati delle quantita' risultanti dall'unita tabella firmata, dal Ministro per il tesoro e dal Ministro per i trasporti.
+In eccedenza al contingente fissato dall'allegato n. 1 al [regio decreto 12 ottobre 1942, n. 1210](../Regi%20decreti/Modificazioni%20ed%20aggiunte%20al%20regolamento%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20042U1210.md), i posti di pianta per il personale di gruppo A degli uffici delle ferrovie dello Stato, vengono, in via transitoria, aumentati delle quantita' risultanti dall'unita tabella firmata, dal Ministro per il tesoro e dal Ministro per i trasporti.
 
 ## Art. 2.
 
-A cominciare dal 1 gennaio 1951 e per la durata di un quinquennio verra' effettuato il graduale riassorbimento delle unita di cui al precedente art. 1, in modo che l'eccedenza, rispetto alla pianta, di cui all'allegato 1 al [regio decreto 12 ottobre 1942, n. 1210](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20ed%20aggiunte%20al%20regolamento%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20042U1210.md), venga totalmente eliminata non oltre il 31 dicembre 1955. ((1))
+A cominciare dal 1 gennaio 1951 e per la durata di un quinquennio verra' effettuato il graduale riassorbimento delle unita di cui al precedente art. 1, in modo che l'eccedenza, rispetto alla pianta, di cui all'allegato 1 al [regio decreto 12 ottobre 1942, n. 1210](../Regi%20decreti/Modificazioni%20ed%20aggiunte%20al%20regolamento%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20042U1210.md), venga totalmente eliminata non oltre il 31 dicembre 1955. ((1))
 
 ---------------
 

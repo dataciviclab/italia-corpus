@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-L'efficacia delle disposizioni contenute nel [regio decreto 28 settembre 1941, n. 1108](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aumento%20di%20due%20posti%20di%20ispettore%20generale%20nel%20ruolo%20del%20personale%20della%20carriera%20amministrativa%20dellAmministrazione%20centrale%20della%20Regia%20marina.%20041U1108.md), recante temporaneo aumento di due posti di ispettore generale e corrispondente diminuzione di due posti di direttore capo divisione nel ruolo del personale della carriera amministrativa, e' estesa fino a tutto il 15 aprile 1948, limitatamente ad uno solo dei predetti due posti.
+L'efficacia delle disposizioni contenute nel [regio decreto 28 settembre 1941, n. 1108](../Regi%20decreti/Aumento%20di%20due%20posti%20di%20ispettore%20generale%20nel%20ruolo%20del%20personale%20della%20carriera%20amministrativa%20dellAmministrazione%20centrale%20della%20Regia%20marina.%20041U1108.md), recante temporaneo aumento di due posti di ispettore generale e corrispondente diminuzione di due posti di direttore capo divisione nel ruolo del personale della carriera amministrativa, e' estesa fino a tutto il 15 aprile 1948, limitatamente ad uno solo dei predetti due posti.
 
 ## Art. 2.
 

@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio del Ministri c
 
 ## Art. 1.
 
-Il comune di Brione, aggregato a quello di Ome col [regio decreto 6 maggio 1928, n. 1106](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aggregazione%20del%20comune%20di%20Brione%20a%20quello%20di%20Ome.%20028U1106.md), e' ricostituito con la circoscrizione territoriale preesistente all'entrata in vigore del decreto medesimo.
+Il comune di Brione, aggregato a quello di Ome col [regio decreto 6 maggio 1928, n. 1106](../Regi%20decreti/Aggregazione%20del%20comune%20di%20Brione%20a%20quello%20di%20Ome.%20028U1106.md), e' ricostituito con la circoscrizione territoriale preesistente all'entrata in vigore del decreto medesimo.
  Il Prefetto di Brescia, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i Comuni suddetti.
 
 ## Art. 2.

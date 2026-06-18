@@ -16,9 +16,9 @@ Visto l'[articolo 17, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:st
 
 Visto il [decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md);
 
-Visto il [decreto del Presidente della Repubblica 6 marzo 2001, n. 55](../Regolamenti%20governativi/Regolamento%20di%20organizzazione%20del%20Ministero%20della%20giustizia.md), recante «Regolamento di organizzazione del Ministero della giustizia»;
+Visto il [decreto del Presidente della Repubblica 6 marzo 2001, n. 55](../DPR/Regolamento%20di%20organizzazione%20del%20Ministero%20della%20giustizia.md), recante «Regolamento di organizzazione del Ministero della giustizia»;
 
-Visto il [decreto del Presidente della Repubblica 25 luglio 2001, n. 315](../Regolamenti%20governativi/Regolamento%20di%20organizzazione%20degli%20Uffici%20di%20diretta%20collaborazione%20del%20Ministro%20della%20giustizia.md), recante «Regolamento di organizzazione degli Uffici di diretta collaborazione del Ministro della giustizia»;
+Visto il [decreto del Presidente della Repubblica 25 luglio 2001, n. 315](../DPR/Regolamento%20di%20organizzazione%20degli%20Uffici%20di%20diretta%20collaborazione%20del%20Ministro%20della%20giustizia.md), recante «Regolamento di organizzazione degli Uffici di diretta collaborazione del Ministro della giustizia»;
 
 Visto il [decreto legislativo 30 giugno 2003, n. 196](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), recante il «[Codice in materia di protezione dei dati personali](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md)», di seguito denominato piu' brevemente «Codice»;
 

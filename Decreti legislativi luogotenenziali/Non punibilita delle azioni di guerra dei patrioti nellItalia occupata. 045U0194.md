@@ -16,7 +16,7 @@ UMBERTO DI SAVOIA
  
  In virtu' dell'autorita' a Noi delegata: 
  Visto il [decreto-legge Luogotenenziale 12 dicembre 1944, n. 395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-12-12;395); 
- Visto l'[art. 7, n. 1, del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di guerra; 
+ Visto l'[art. 7, n. 1, del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di guerra; 
  Visto l'art. 25 della legge di guerra approvata con [R. decreto 8 luglio 1938, n. 1415](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-07-08;1415); 
  Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151); 
  Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md); 

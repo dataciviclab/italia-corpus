@@ -18,7 +18,7 @@ Visto il [decreto-legge 29 marzo 1995, n. 97](https://www.normattiva.it/uri-res/
 
 Vista la [legge 20 marzo 1975, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70);
 
-Visto il [regio decreto 7 agosto 1925, n. 1767](../Atti%20normativi%20abrogati%20%28in%20originale%29/Erezione%20in%20Ente%20morale%20dellIstituto%20del%20Dramma%20Antico%20in%20Siracusa.%20025U1767.md);
+Visto il [regio decreto 7 agosto 1925, n. 1767](../Regi%20decreti/Erezione%20in%20Ente%20morale%20dellIstituto%20del%20Dramma%20Antico%20in%20Siracusa.%20025U1767.md);
 
 Vista la [legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), recante delega al Governo per il conferimento di funzioni e compiti alle regioni ed enti locali, per la riforma della pubblica amministrazione e per la semplificazione amministrativa, ed in particolare, gli articoli 11, comma 1, lettera b), e 14;
 

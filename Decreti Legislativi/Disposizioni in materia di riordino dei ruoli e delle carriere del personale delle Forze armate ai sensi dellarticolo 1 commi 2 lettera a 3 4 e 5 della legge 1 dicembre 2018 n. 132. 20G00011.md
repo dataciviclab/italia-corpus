@@ -248,7 +248,7 @@ N O T E
  ─ Si riporta il testo dei commi 1, lettera c) e 1-bis, dell'art. 622 del citato [decreto legislativo n. 66 del 2010](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010;66), come modificato e integrato dal presente decreto: 
  «Art. 622 (Perdita dello stato di militare) - 1. Lo stato di militare si perde esclusivamente: 
  a) - b) omissis; 
- c) per estinzione del rapporto di impiego in applicazione dell'[articolo 32-quinquies del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+ c) per estinzione del rapporto di impiego in applicazione dell'[articolo 32-quinquies del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  1-bis. Nei casi di cui al comma 1, si applicano gli articoli 867, comma 5, e 923, comma 5.». 
  ─ Si riporta il testo dell'art. 635 del citato [decreto legislativo n. 66 del 2010](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010;66), come modificato dal presente decreto: 
  «Art. 635 (Requisiti generali per il reclutamento). - 1. Per il reclutamento nelle Forze armate occorrono i seguenti requisiti generali: 

@@ -1558,7 +1558,7 @@ Titolo II
 
 1.
 
-Al [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono apportate le seguenti modificazioni:
+Al [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono apportate le seguenti modificazioni:
                             a)
                                 all'articolo 19, primo comma, numero 6), le parole: "potesta' dei genitori" sono sostituite dalle seguenti: "responsabilita' genitoriale";
                             b)
@@ -1599,7 +1599,7 @@ Al [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Cod
                                 all'articolo 609-nonies, primo comma, numero 1), le parole: "potesta' del genitore" sono sostituite dalle seguenti: "responsabilita' genitoriale".
 
 Note all'art. 93: 
- - Si riporta il testo dell'[articolo 19 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
+ - Si riporta il testo dell'[articolo 19 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
  "Art. 19. Pene accessorie: specie. 
  Le pene accessorie per i delitti sono: 
  1. l'interdizione dai pubblici uffici; 
@@ -1614,28 +1614,28 @@ Note all'art. 93:
  2. la sospensione dagli uffici direttivi delle persone giuridiche e delle imprese. 
  Pena accessoria comune ai delitti e alle contravvenzioni e' la pubblicazione della sentenza penale di condanna. 
  La legge penale determina gli altri casi in cui pene accessorie stabilite per i delitti sono comuni alle contravvenzioni.". 
- - Si riporta il testo dell'[articolo 32 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
+ - Si riporta il testo dell'[articolo 32 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
  "Art. 32. Interdizione legale. 
  Il condannato all'ergastolo e' in stato di interdizione legale. 
  La condanna all'ergastolo importa anche la decadenza dalla responsabilita' genitoriale. 
  Il condannato alla reclusione per un tempo non inferiore a cinque anni e', durante la pena, in stato d'interdizione legale; la condanna produce altresi', durante la pena, la sospensione dall'esercizio della potesta' dei genitori, salvo che il giudice disponga altrimenti. 
  Alla interdizione legale si applicano per cio' che concerne la disponibilita' e l'amministrazione dei beni, nonche' la rappresentanza negli atti ad esse relativi le norme della legge civile sull'interdizione giudiziale.". 
- - Si riporta il testo dell'[articolo 34 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
+ - Si riporta il testo dell'[articolo 34 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
  "Art. 34. Decadenza dalla responsabilita' genitoriale dei genitori e sospensione dall'esercizio di essa. 
  La legge determina i casi nei quali la condanna importa la decadenza dalla responsabilita' genitoriale. 
  La condanna per delitti commessi con abuso della responsabilita' genitoriale importa la sospensione dall'esercizio di essa per un periodo di tempo pari al doppio della pena inflitta . 
  La decadenza dalla responsabilita' genitoriale importa anche la privazione di ogni diritto che al genitore spetti sui beni del figlio in forza della responsabilita' genitoriale di cui al titolo IX del libro I del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262). 
  La sospensione dall'esercizio della responsabilita' genitoriale importa anche l'incapacita' di esercitare, durante la sospensione, qualsiasi diritto che al genitore spetti sui beni del figlio in base alle norme del titolo IX del libro I del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262). 
  Nelle ipotesi previste dai commi precedenti, quando sia concessa la sospensione condizionale della pena, gli atti del procedimento vengono trasmessi al tribunale dei minorenni, che assume i provvedimenti piu' opportuni nell'interesse dei minori.". 
- - Si riporta il testo dell'[articolo 98 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
+ - Si riporta il testo dell'[articolo 98 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
  "Art. 98. Minore degli anni diciotto. 
  E' imputabile chi, nel momento in cui ha commesso il fatto, aveva compiuto i quattordici anni, ma non ancora i diciotto, se aveva capacita' d'intendere e di volere; ma la pena e' diminuita . 
  Quando la pena detentiva inflitta e' inferiore a cinque anni, o si tratta di pena pecuniaria, alla condanna non conseguono pene accessorie . Se si tratta di pena piu' grave, la condanna importa soltanto l'interdizione dai pubblici uffici per una durata non superiore a cinque anni, e, nei casi stabiliti dalla legge, la sospensione dall'esercizio della responsabilita' genitoriale o dell'autorita' maritale .". 
- - Si riporta il testo dell'[articolo 111 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
+ - Si riporta il testo dell'[articolo 111 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
  "Art. 111. Determinazione al reato di persona non imputabile o non punibile. 
  Chi ha determinato a commettere un reato una persona non imputabile, ovvero non punibile a cagione di una condizione o qualita' personale, risponde del reato da questa commesso, e la pena e' aumentata. Se si tratta di delitti per i quali e' previsto l'arresto in flagranza, la pena e' aumentata da un terzo alla meta'. 
  Se chi ha determinato altri a commettere il reato ne e' il genitore esercente la responsabilita' genitoriale, la pena e' aumentata fino alla meta' o, se si tratta di delitti per i quali e' previsto l'arresto in flagranza, da un terzo a due terzi.". 
- - Si riporta il testo dell'[articolo 112 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
+ - Si riporta il testo dell'[articolo 112 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
  "Art. 112. Circostanze aggravanti. 
  La pena da infliggere per il reato commesso e' aumentata: 
  1. se il numero delle persone, che sono concorse nel reato, e' di cinque o piu', salvo che la legge disponga altrimenti; 
@@ -1645,14 +1645,14 @@ Note all'art. 93:
  La pena e' aumentata fino alla meta' per chi si e' avvalso di persona non imputabile o non punibile, a cagione di una condizione o qualita' personale, o con la stessa ha partecipato nella commissione di un delitto per il quale e' previsto l'arresto in flagranza. 
  Se chi ha determinato altri a commettere il reato o si e' avvalso di altri o con questi ha partecipato nella commissione del delitto ne e' il genitore esercente la responsabilita' genitoriale, nel caso previsto dal numero 4 del primo comma la pena e' aumentata fino alla meta' e in quello previsto dal secondo comma la pena e' aumentata fino a due terzi. 
  Gli aggravamenti di pena stabiliti nei numeri 1, 2 e 3 di questo articolo si applicano anche se taluno dei partecipi al fatto non e' imputabile o non e' punibile.". 
- - Si riporta il testo dell'[articolo 146 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
+ - Si riporta il testo dell'[articolo 146 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
  "Art. 146. Rinvio obbligatorio dell'esecuzione della pena. 
  L'esecuzione di una pena, che non sia pecuniaria, e' differita : 
  1) se deve aver luogo nei confronti di donna incinta; 
  2) se deve aver luogo nei confronti di madre di infante di eta' inferiore ad anni uno; 
  3) se deve aver luogo nei confronti di persona affetta da AIDS conclamata o da grave deficienza immunitaria accertate ai sensi dell'[articolo 286-bis, comma 2, del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_286bis-com2), ovvero da altra malattia particolarmente grave per effetto della quale le sue condizioni di salute risultano incompatibili con lo stato di detenzione, quando la persona si trova in una fase della malattia cosi' avanzata da non rispondere piu', secondo le certificazioni del servizio sanitario penitenziario o esterno, ai trattamenti disponibili e alle terapie curative. 
  Nei casi previsti dai numeri 1) e 2) del primo comma il differimento non opera o, se concesso, e' revocato se la gravidanza si interrompe, se la madre e' dichiarata decaduta dalla responsabilita' genitoriale sul figlio ai sensi dell'[articolo 330 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_330), il figlio muore, viene abbandonato ovvero affidato ad altri, sempreche' l'interruzione di gravidanza o il parto siano avvenuti da oltre due mesi.". 
- - Si riporta il testo dell'[articolo 147 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
+ - Si riporta il testo dell'[articolo 147 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
  "Art. 147. Rinvio facoltativo dell'esecuzione della pena. 
  L'esecuzione di una pena puo' essere differita: 
  1. se e' presentata domanda di grazia, e l'esecuzione della pena non deve esser differita a norma dell'articolo precedente; 
@@ -1661,23 +1661,23 @@ Note all'art. 93:
  Nel caso indicato nel n. 1, l'esecuzione della pena non puo' essere differita per un periodo superiore complessivamente a sei mesi, a decorrere dal giorno in cui la sentenza e' divenuta irrevocabile, anche se la domanda di grazia e' successivamente rinnovata. 
  Nel caso indicato nel numero 3) del primo comma il provvedimento e' revocato, qualora la madre sia dichiarata decaduta dalla responsabilita' genitoriale sul figlio ai sensi dell'[articolo 330 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_330), il figlio muoia, venga abbandonato ovvero affidato ad altri che alla madre. 
  Il provvedimento di cui al primo comma non puo' essere adottato o, se adottato, e' revocato se sussiste il concreto pericolo della commissione di delitti.". 
- - Si riporta il testo dell'[articolo 540 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
+ - Si riporta il testo dell'[articolo 540 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
  "Art. 540. Rapporto di parentela. 
  Agli effetti della legge penale, quando il rapporto di parentela e' considerato come elemento costitutivo o come circostanza aggravante o attenuante o come causa di non punibilita', la filiazione fuori dal matrimonio e' equiparata alla filiazione nel matrimonio. 
  Il rapporto di filiazione fuori dal matrimonio e' stabilito osservando i limiti di prova indicati dalla legge civile anche se per effetti diversi dall'accertamento dello stato delle persone.". 
- - Si riporta il testo dell'[articolo 564 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
+ - Si riporta il testo dell'[articolo 564 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
  "Art. 564. Incesto. 
  Chiunque, in modo che ne derivi pubblico scandalo, commette incesto con un discendente o un ascendente, o con un affine in linea retta, ovvero con una sorella o un fratello, e' punito con la reclusione da uno a cinque anni. 
  La pena e' della reclusione da due a otto anni nel caso di relazione incestuosa. 
  Nei casi preveduti dalle disposizioni precedenti, se l'incesto e' commesso da persona maggiore di eta' con persona minore degli anni diciotto, la pena e' aumentata per la persona maggiorenne. 
  La condanna pronunciata contro il genitore importa la perdita della responsabilita' genitoriale.". 
- - Si riporta il testo dell'[articolo 568 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
+ - Si riporta il testo dell'[articolo 568 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
  "Art. 568. Occultamento di stato di un figlio. 
  Chiunque depone o presenta un fanciullo, gia' iscritto nei registri dello stato civile come figlio nato nel matrimonio o riconosciuto, in un ospizio di trovatelli o in un altro luogo di beneficenza, occultandone lo stato, e' punito con la reclusione da uno a cinque anni.". 
- - Si riporta il testo dell'[articolo 569 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
+ - Si riporta il testo dell'[articolo 569 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
  "Art. 569. Pena accessoria. 
  La condanna pronunciata contro il genitore per alcuno dei delitti preveduti da questo capo importa la perdita della responsabilita' genitoriale.". 
- - Si riporta il testo dell'[articolo 570 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
+ - Si riporta il testo dell'[articolo 570 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
  "Art. 570. Violazione degli obblighi di assistenza familiare. 
  Chiunque, abbandonando il domicilio domestico, o comunque serbando una condotta contraria all'ordine o alla morale delle famiglie, si sottrae agli obblighi di assistenza inerenti alla responsabilita' genitoriale, o alla qualita' di coniuge, e' punito con la reclusione fino a un anno o con la multa da euro 103 a euro 1.032. 
  Le dette pene si applicano congiuntamente a chi: 
@@ -1685,22 +1685,22 @@ Note all'art. 93:
  2. fa mancare i mezzi di sussistenza ai discendenti di eta' minore, ovvero inabili al lavoro, agli ascendenti o al coniuge, il quale non sia legalmente separato per sua colpa. 
  Il delitto e' punibile a querela della persona offesa salvo nei casi previsti dal numero 1 e, quando il reato e' commesso nei confronti dei minori, dal numero 2 del precedente comma. 
  Le disposizioni di questo articolo non si applicano se il fatto e' preveduto come piu' grave reato da un'altra disposizione di legge .". 
- - Si riporta il testo dell'[articolo 573 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
+ - Si riporta il testo dell'[articolo 573 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
  "Art. 573. Sottrazione consensuale di minorenni. 
  Chiunque sottrae un minore, che abbia compiuto gli anni quattordici, col consenso di esso, al genitore esercente la responsabilita' genitoriale o al tutore, ovvero lo ritiene contro la volonta' del medesimo genitore o tutore, e' punito, a querela di questo, con la reclusione fino a due anni . 
  La pena e' diminuita, se il fatto e' commesso per fine di matrimonio; e' aumentata , se e' commesso per fine di libidine. 
  Si applicano le disposizioni degli articoli 525 e 544.". 
- - Si riporta il testo dell'[articolo 574 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
+ - Si riporta il testo dell'[articolo 574 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
  "Art. 574. Sottrazione di persone incapaci. 
  Chiunque sottrae un minore degli anni quattordici, o un infermo di mente, al genitore esercente la responsabilita' genitoriale, al tutore, o al curatore , o a chi ne abbia la vigilanza o la custodia, ovvero lo ritiene contro la volonta' dei medesimi, e' punito, a querela del genitore esercente la potesta' dei genitori, del tutore o del curatore, con la reclusione da uno a tre anni . 
  Alla stessa pena soggiace, a querela delle stesse persone, chi sottrae o ritiene un minore che abbia compiuto gli anni quattordici, senza il consenso di esso per fine diverso da quello di libidine o di matrimonio. 
  Si applicano le disposizioni degli articoli 525 e 544.". 
- - Si riporta il testo dell'[articolo 574-bis del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
+ - Si riporta il testo dell'[articolo 574-bis del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
  "Art. 574-bis. Sottrazione e trattenimento di minore all'estero. 
  Salvo che il fatto costituisca piu' grave reato, chiunque sottrae un minore al genitore esercente la responsabilita' genitoriale o al tutore, conducendolo o trattenendolo all'estero contro la volonta' del medesimo genitore o tutore, impedendo in tutto o in parte allo stesso l'esercizio della responsabilita' genitoriale, e' punito con la reclusione da uno a quattro anni. 
  Se il fatto di cui al primo comma e' commesso nei confronti di un minore che abbia compiuto gli anni quattordici e con il suo consenso, si applica la pena della reclusione da sei mesi a tre anni. 
  Se i fatti di cui al primo e secondo comma sono commessi da un genitore in danno del figlio minore, la condanna comporta la sospensione dall'esercizio della responsabilita' genitoriale.". 
- - Si riporta il testo dell'[articolo 574-bis del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
+ - Si riporta il testo dell'[articolo 574-bis del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
  "Art. 583-bis. Pratiche di mutilazione degli organi genitali femminili. 
  Chiunque, in assenza di esigenze terapeutiche, cagiona una mutilazione degli organi genitali femminili e' punito con la reclusione da quattro a dodici anni. Ai fini del presente articolo, si intendono come pratiche di mutilazione degli organi genitali femminili la clitoridectomia, l'escissione e l'infibulazione e qualsiasi altra pratica che cagioni effetti dello stesso tipo. 
  Chiunque, in assenza di esigenze terapeutiche, provoca, al fine di menomare le funzioni sessuali, lesioni agli organi genitali femminili diverse da quelle indicate al primo comma, da cui derivi una malattia nel corpo o nella mente, e' punito con la reclusione da tre a sette anni. La pena e' diminuita fino a due terzi se la lesione e' di lieve entita'. 
@@ -1709,7 +1709,7 @@ Note all'art. 93:
  1) la decadenza dall'esercizio della responsabilita' genitoriale; 
  2) l'interdizione perpetua da qualsiasi ufficio attinente alla tutela, alla curatela e all'amministrazione di sostegno. 
  Le disposizioni del presente articolo si applicano altresi' quando il fatto e' commesso all'estero da cittadino italiano o da straniero residente in Italia, ovvero in danno di cittadino italiano o di straniero residente in Italia. In tal caso, il colpevole e' punito a richiesta del Ministro della giustizia.". 
- - Si riporta il testo dell'articolo 600-septies.2 del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
+ - Si riporta il testo dell'articolo 600-septies.2 del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
  "Art. 600-septies.2. Pene accessorie. 
  Alla condanna o all'applicazione della pena su richiesta delle parti a norma dell'[articolo 444 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_444) per i delitti previsti dalla presente sezione e per il delitto di cui all'articolo 414-bis del presente codice conseguono: 
  1) la perdita della responsabilita' genitoriale, quando la qualita' di genitore e' prevista quale circostanza aggravante del reato; 
@@ -1718,7 +1718,7 @@ Note all'art. 93:
  4) l'interdizione temporanea dai pubblici uffici; l'interdizione dai pubblici uffici per la durata di anni cinque in seguito alla condanna alla reclusione da tre a cinque anni, ferma restando, comunque, l'applicazione dell'articolo 29, primo comma, quanto all'interdizione perpetua. 
  La condanna o l'applicazione della pena su richiesta delle parti a norma dell'[articolo 444 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_444) per uno dei delitti previsti dalla presente sezione e per il delitto di cui all'articolo 414-bis del presente codice, quando commessi in danno di minori, comporta in ogni caso l'interdizione perpetua da qualunque incarico nelle scuole di ogni ordine e grado, nonche' da ogni ufficio o servizio in istituzioni o strutture pubbliche o private frequentate abitualmente da minori. 
  In ogni caso e' disposta la chiusura degli esercizi la cui attivita' risulta finalizzata ai delitti previsti dalla presente sezione, nonche' la revoca della licenza di esercizio o della concessione o dell'autorizzazione per le emittenti radiotelevisive.". 
- - Si riporta il testo dell'articolo 609-nonies, del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
+ - Si riporta il testo dell'articolo 609-nonies, del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
  "Art. 609-nonies. Pene accessorie ed altri effetti penali. 
  La condanna o l'applicazione della pena su richiesta delle parti ai sensi dell'[articolo 444 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_444) per alcuno dei delitti previsti dagli articoli 609-bis, 609-ter, 609-quater, 609-quinquies, 609-octies e 609-undecies comporta: 
  1) la perdita della responsabilita' genitoriale, quando la qualita' di genitore e' elemento costitutivo o circostanza aggravante del reato; 
@@ -1743,7 +1743,7 @@ Note all'art. 94:
  - Si riporta il testo dell'[articolo 288 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_288), come modificato dal presente decreto: 
  "Art. 288. Sospensione dall'esercizio della responsabilita' genitoriale. 
  1. Con il provvedimento che dispone la sospensione dall'esercizio della responsabilita' genitoriale, il giudice priva temporaneamente l'imputato, in tutto o in parte, dei poteri a essa inerenti. 
- 2. Qualora si proceda per un delitto contro la liberta' sessuale, ovvero per uno dei delitti previsti dagli [articoli 530](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [571 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), commesso in danno di prossimi congiunti, la misura puo' essere disposta anche al di fuori dei limiti di pena previsti dall'articolo 287 comma 1.".
+ 2. Qualora si proceda per un delitto contro la liberta' sessuale, ovvero per uno dei delitti previsti dagli [articoli 530](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [571 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), commesso in danno di prossimi congiunti, la misura puo' essere disposta anche al di fuori dei limiti di pena previsti dall'articolo 287 comma 1.".
 
 ### Art. 95. — Modifiche al codice di procedura civile in materia di filiazione
 
@@ -2168,7 +2168,7 @@ Note all'art. 100:
  Chiunque, in violazione delle norme di legge in materia di adozione, affida a terzi con carattere definitivo un minore, ovvero lo avvia all'estero perche' sia definitivamente affidato, e' punito con la reclusione da uno a tre anni. 
  Se il fatto e' commesso dal tutore ovvero da altra persona cui il minore e' affidato per ragioni di educazione, di istruzione, di vigilanza e di custodia, la pena e' aumentata della meta'. 
  Se il fatto e' commesso dal genitore la condanna comporta la perdita della relativa responsabilita' genitoriale e l'apertura della procedura di adottabilita'; se e' commesso dal tutore consegue la rimozione dall'ufficio; se e' commesso dalla persona cui il minore e' affidato consegue la inidoneita' ad ottenere affidamenti familiari o adottivi e l'incapacita' all'ufficio tutelare. 
- Se il fatto e' commesso da pubblici ufficiali, da incaricati di un pubblico servizio, da esercenti la professione sanitaria o forense, da appartenenti ad istituti di assistenza pubblici o privati nei casi di cui all' [articolo 61, numeri 9](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [11, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), la pena e' raddoppiata. 
+ Se il fatto e' commesso da pubblici ufficiali, da incaricati di un pubblico servizio, da esercenti la professione sanitaria o forense, da appartenenti ad istituti di assistenza pubblici o privati nei casi di cui all' [articolo 61, numeri 9](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [11, del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), la pena e' raddoppiata. 
  La pena stabilita nel primo comma del presente articolo si applica anche a coloro che, consegnando o promettendo denaro od altra utilita' a terzi, accolgono minori in illecito affidamento con carattere di definitivita'. La condanna comporta la inidoneita' ad ottenere affidamenti familiari o adottivi e l'incapacita' all'ufficio tutelare. 
  Chiunque svolga opera di mediazione al fine di realizzare l'affidamento di cui al primo comma e' punito con la reclusione fino ad un anno o con multa da da euro 258 a euro 2.582." 
  

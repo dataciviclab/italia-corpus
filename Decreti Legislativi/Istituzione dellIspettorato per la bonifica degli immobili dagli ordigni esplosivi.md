@@ -24,9 +24,9 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Dal 15 maggio 1946, e' temporaneamente istituito presso l'Amministrazione dell'esercito, per gli scopi previsti dall'[art. 1 del decreto legislativo luogotenenziale 12 aprile 1946, n. 320](../Atti%20normativi%20abrogati%20%28in%20originale%29/Bonifica%20dei%20campi%20minati.md), "l'Ispettorato per la bonifica degli immobili dagli ordigni esplosivi" avente l'esclusiva competenza della organizzazione del servizio e della esecuzione dei lavori di bonifica degli immobili e dei terreni dagli ordigni esplosivi e dei recuperi dei materiali residuati di guerra, anche se di pertinenza dell'Amministrazione della marina militare, nonche' della formazione del personale specializzato occorrente (maestranze e personale dirigente).
+Dal 15 maggio 1946, e' temporaneamente istituito presso l'Amministrazione dell'esercito, per gli scopi previsti dall'[art. 1 del decreto legislativo luogotenenziale 12 aprile 1946, n. 320](../Decreti%20legislativi%20luogotenenziali/Bonifica%20dei%20campi%20minati.md), "l'Ispettorato per la bonifica degli immobili dagli ordigni esplosivi" avente l'esclusiva competenza della organizzazione del servizio e della esecuzione dei lavori di bonifica degli immobili e dei terreni dagli ordigni esplosivi e dei recuperi dei materiali residuati di guerra, anche se di pertinenza dell'Amministrazione della marina militare, nonche' della formazione del personale specializzato occorrente (maestranze e personale dirigente).
  A capo di detto Ispettorato e' posto un generale di divisione o di brigata in servizio permanente.
- Alle esigenze del servizio si provvede con personale dell'ex Ministero della guerra e, in quanto necessario, con quello previsto dall'[art. 4 del decreto legislativo luogotenenziale 12 aprile 1946, n. 320](../Atti%20normativi%20abrogati%20%28in%20originale%29/Bonifica%20dei%20campi%20minati.md).
+ Alle esigenze del servizio si provvede con personale dell'ex Ministero della guerra e, in quanto necessario, con quello previsto dall'[art. 4 del decreto legislativo luogotenenziale 12 aprile 1946, n. 320](../Decreti%20legislativi%20luogotenenziali/Bonifica%20dei%20campi%20minati.md).
 
 ## Art. 2.
 

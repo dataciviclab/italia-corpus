@@ -14,7 +14,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 31 gennaio 1929, n. 144](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Castiglione%20dei%20Genovesi%20Giffoni%20Sei%20Casali%20e%20San%20Cipriano%20Picentino%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20San%20Cipriano%20Picentino.%20029U0144.md);
+Visto il [R. decreto 31 gennaio 1929, n. 144](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Castiglione%20dei%20Genovesi%20Giffoni%20Sei%20Casali%20e%20San%20Cipriano%20Picentino%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20San%20Cipriano%20Picentino.%20029U0144.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -24,7 +24,7 @@ Vista la deliberazione del Consiglio dei Ministri; Sulla proposta del Ministro s
 
 ## Art. 1.
 
-Il comune di Castiglione dei Genovesi, aggregato con [R. decreto 31 gennaio 1929, n. 144](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Castiglione%20dei%20Genovesi%20Giffoni%20Sei%20Casali%20e%20San%20Cipriano%20Picentino%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20San%20Cipriano%20Picentino.%20029U0144.md), al comune di S. Cipriano Picentino, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo. 
+Il comune di Castiglione dei Genovesi, aggregato con [R. decreto 31 gennaio 1929, n. 144](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Castiglione%20dei%20Genovesi%20Giffoni%20Sei%20Casali%20e%20San%20Cipriano%20Picentino%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20San%20Cipriano%20Picentino.%20029U0144.md), al comune di S. Cipriano Picentino, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo. 
  Il Prefetto di Salerno, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i Comuni suddetti.
 
 ## Art. 2.

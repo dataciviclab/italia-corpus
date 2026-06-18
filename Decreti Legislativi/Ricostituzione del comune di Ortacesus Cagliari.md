@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Il comune di Ortacesus, aggregato a quello di Selegas col [regio decreto 27 settembre 1928, n. 2372](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Guamaggiore%20Ortacesus%20e%20Selegas%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20Selegas.%20028U2372.md), e' ricostituito con la circoscrizione territoriale preesistente all'entrata in vigore del decreto medesimo.
+Il comune di Ortacesus, aggregato a quello di Selegas col [regio decreto 27 settembre 1928, n. 2372](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Guamaggiore%20Ortacesus%20e%20Selegas%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20Selegas.%20028U2372.md), e' ricostituito con la circoscrizione territoriale preesistente all'entrata in vigore del decreto medesimo.
  Il Prefetto di Cagliari, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i Comuni anzidetti.
 
 ## Art. 2.

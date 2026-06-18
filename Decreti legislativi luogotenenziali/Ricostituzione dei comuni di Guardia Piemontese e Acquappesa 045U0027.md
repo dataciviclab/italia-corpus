@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-I comuni di Guardia Piemontese e di Acquappesa uniti con [R. decreto 22 dicembre 1927, n. 2517](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Acquappesa%20e%20di%20Guardia%20Piemontese%20in%20un%20amico%20Comune%20denominato%20Guardia%20Piemontese%20Terme.%20027U2517.md), in unico comune con la denominazione di «Guardia Piemontese Terme» sono ricostituiti con le circoscrizioni preesistenti all'entrata in vigore del decreto medesimo. 
+I comuni di Guardia Piemontese e di Acquappesa uniti con [R. decreto 22 dicembre 1927, n. 2517](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Acquappesa%20e%20di%20Guardia%20Piemontese%20in%20un%20amico%20Comune%20denominato%20Guardia%20Piemontese%20Terme.%20027U2517.md), in unico comune con la denominazione di «Guardia Piemontese Terme» sono ricostituiti con le circoscrizioni preesistenti all'entrata in vigore del decreto medesimo. 
  
  Il Prefetto di Cosenza, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i comuni di Guardia Piemontese e di Acquappesa.
 
@@ -18,7 +18,7 @@ I comuni di Guardia Piemontese e di Acquappesa uniti con [R. decreto 22 dicembre
 
 Gli organici dei ricostituiti comuni di Guardia Piemontese e di Acquappesa saranno stabiliti dal Prefetto, sentita la Giunta provinciale amministrativa. 
  
- Il numero dei posti ed i gradi relativi non potranno essere superiori rispettivamente a quelli organicamente assegnati ai comuni di Guardia Piemontese e Acquappesa anteriormente alla loro fusione, disposta con [Regio decreto 22 dicembre 1927, n. 2517](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Acquappesa%20e%20di%20Guardia%20Piemontese%20in%20un%20amico%20Comune%20denominato%20Guardia%20Piemontese%20Terme.%20027U2517.md). 
+ Il numero dei posti ed i gradi relativi non potranno essere superiori rispettivamente a quelli organicamente assegnati ai comuni di Guardia Piemontese e Acquappesa anteriormente alla loro fusione, disposta con [Regio decreto 22 dicembre 1927, n. 2517](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Acquappesa%20e%20di%20Guardia%20Piemontese%20in%20un%20amico%20Comune%20denominato%20Guardia%20Piemontese%20Terme.%20027U2517.md). 
  
  Il personale in servizio presso il comune di Guardia Piemontese Terme sara' inquadrato nei predetti organici con posizione gerarchica e trattamento economico non superiori a quelli goduti all'atto dell'inquadramento medesimo.
 

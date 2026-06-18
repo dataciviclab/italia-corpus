@@ -115,7 +115,7 @@ Il Ministero dell'interno, anche a seguito delle comunicazioni previste dall'[ar
 
 1.
 
-Dopo l'[articolo 433 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' inserito il seguente: 
+Dopo l'[articolo 433 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' inserito il seguente: 
  «Art. 433-bis (Attentato alla sicurezza delle installazioni nucleari). - Chiunque attenta alla sicurezza delle installazioni nucleari ovvero degli impianti, dei luoghi o dei mezzi adibiti alla produzione, alla conservazione o al trasporto di materie nucleari e' punito, qualora dal fatto derivi pericolo per la pubblica incolumita', con la reclusione da quattro a otto anni. 
  Se dal fatto deriva un disastro, la pena e' della reclusione da cinque a venti anni».
 

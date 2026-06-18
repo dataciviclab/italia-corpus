@@ -68,7 +68,7 @@ Emana il seguente decreto legislativo
 
 1-bis.
 
-Con decreto del Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con i Ministri dello sviluppo economico e della salute, da adottarsi entro il 28 febbraio 2008, sentita la Conferenza unificata, sono individuate, nel rispetto delle disposizioni comunitarie e anche in deroga alle disposizioni di cui alla parte quarta del [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), specifiche modalita' semplificate per la raccolta e il trasporto presso i centri di cui al comma 1, lettere a) e c), dei RAEE domestici e RAEE professionali ritirati da parte dei distributori ai sensi del comma 1, lettera b) nonche' per la realizzazione e la gestione dei centri medesimi. . L'obbligo di ritiro di cui al comma 1, lettera b), decorre dal trentesimo giorno successivo alla data di entrata in vigore di tale decreto.
+Con decreto del Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con i Ministri dello sviluppo economico e della salute, da adottarsi entro il 28 febbraio 2008, sentita la Conferenza unificata, sono individuate, nel rispetto delle disposizioni comunitarie e anche in deroga alle disposizioni di cui alla parte quarta del [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), specifiche modalita' semplificate per la raccolta e il trasporto presso i centri di cui al comma 1, lettere a) e c), dei RAEE domestici e RAEE professionali ritirati da parte dei distributori ai sensi del comma 1, lettera b) nonche' per la realizzazione e la gestione dei centri medesimi. . L'obbligo di ritiro di cui al comma 1, lettera b), decorre dal trentesimo giorno successivo alla data di entrata in vigore di tale decreto.
 
 2.
 
@@ -178,11 +178,11 @@ Con decreto del Ministro dell'ambiente e della tutela del territorio, da adottar
 
 2.
 
-COMMA ABROGATO DAL [D.LGS. 14 MARZO 2014, N. 49](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202012-19-UE%20sui%20rifiuti%20di%20apparecchiature%20elettriche%20ed%20elettroniche%20RAEE.%2014G00064.md).
+COMMA ABROGATO DAL [D.LGS. 14 MARZO 2014, N. 49](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202012-19-UE%20sui%20rifiuti%20di%20apparecchiature%20elettriche%20ed%20elettroniche%20RAEE.%2014G00064.md).
 
 3.
 
-IL [D.LGS. 14 MARZO 2014, N. 49](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202012-19-UE%20sui%20rifiuti%20di%20apparecchiature%20elettriche%20ed%20elettroniche%20RAEE.%2014G00064.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE COMMA.
+IL [D.LGS. 14 MARZO 2014, N. 49](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202012-19-UE%20sui%20rifiuti%20di%20apparecchiature%20elettriche%20ed%20elettroniche%20RAEE.%2014G00064.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE COMMA.
 
 4.
 
@@ -192,7 +192,7 @@ Con il decreto previsto all'articolo 13, comma 8, e', altresi', istituito, press
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 10 febbraio 2026, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20al%20regolamento%20UE%202023-1542%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2012%20luglio%202023%20relativo%20alle%20batterie%20e%20ai%20rifiuti%20di%20batter_daf73bd7a8d1.md), ha disposto (con l'art. 24, comma 1) che " Il Comitato di vigilanza e di controllo sulla gestione dei rifiuti da apparecchiature elettriche ed elettroniche (RAEE) e delle pile, degli accumulatori e dei relativi rifiuti, gia' istituito presso il Ministero dell'ambiente e della sicurezza energetica ai sensi dell'[articolo 15, comma 1, del decreto legislativo 25 luglio 2005, n. 151](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202002-95-CE%202002-96-CE%20e%202003-108-CE%20relative%20alla%20riduzione%20delluso%20di%20sostanze%20pericolose%20nelle%20apparecchiature%20elettriche%20ed%20elettroniche%20nonche%20allo%20smaltime_37643cb7c431.md), e' ridenominato «Comitato di vigilanza e di controllo sulla gestione dei RAEE e dei rifiuti da batterie»".
+Il [D.Lgs. 10 febbraio 2026, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20al%20regolamento%20UE%202023-1542%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2012%20luglio%202023%20relativo%20alle%20batterie%20e%20ai%20rifiuti%20di%20batter_daf73bd7a8d1.md), ha disposto (con l'art. 24, comma 1) che " Il Comitato di vigilanza e di controllo sulla gestione dei rifiuti da apparecchiature elettriche ed elettroniche (RAEE) e delle pile, degli accumulatori e dei relativi rifiuti, gia' istituito presso il Ministero dell'ambiente e della sicurezza energetica ai sensi dell'[articolo 15, comma 1, del decreto legislativo 25 luglio 2005, n. 151](Attuazione%20delle%20direttive%202002-95-CE%202002-96-CE%20e%202003-108-CE%20relative%20alla%20riduzione%20delluso%20di%20sostanze%20pericolose%20nelle%20apparecchiature%20elettriche%20ed%20elettroniche%20nonche%20allo%20smaltime_37643cb7c431.md), e' ridenominato «Comitato di vigilanza e di controllo sulla gestione dei RAEE e dei rifiuti da batterie»".
 
 ## Art. 16.
 

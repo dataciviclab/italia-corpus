@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Vista la [legge 17 maggio 1928, n. 1094](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1094.md);
 
-Visto il [R. decreto 1° giugno 1928, n. 1139](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20dei%20servizi%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1139.md);
+Visto il [R. decreto 1° giugno 1928, n. 1139](../Regi%20decreti/Ordinamento%20dei%20servizi%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1139.md);
 
 Visto il [R. decreto-legge 16 giugno 1938, n. 1302](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20dei%20servizi%20e%20del%20personale%20dellAzienda%20autonoma%20statale%20della%20strada.%20038U1302.md);
 
@@ -70,13 +70,13 @@ La facolta', concessa all'Azienda, con l'[art. 20 della legge 17 maggio 1928, n.
 
 Il personale di ruolo dell'Amministrazione centrale e provinciale dei lavori pubblici comandato a prestare servizio presso l'Azienda cessa da tale posizione. 
  
- Il personale collocato fuori ruolo ai termini dell'ultimo comma dell'[art. 4 del R. decreto 1° giugno 1928, n. 1139](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20dei%20servizi%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1139.md), modificato con il [R. decreto 8 dicembre 1941, n. 1472](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20dellart.%204%20ultimo%20comma%20del%20R.%20decreto%201%20giugno%201928-VI%20n.%201139%20sul%20personale%20dellAzienda%20autonoma%20statale%20della%20strada.%20041U1472.md), rientra nel ruolo di provenienza. 
+ Il personale collocato fuori ruolo ai termini dell'ultimo comma dell'[art. 4 del R. decreto 1° giugno 1928, n. 1139](../Regi%20decreti/Ordinamento%20dei%20servizi%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1139.md), modificato con il [R. decreto 8 dicembre 1941, n. 1472](../Regi%20decreti/Modificazione%20dellart.%204%20ultimo%20comma%20del%20R.%20decreto%201%20giugno%201928-VI%20n.%201139%20sul%20personale%20dellAzienda%20autonoma%20statale%20della%20strada.%20041U1472.md), rientra nel ruolo di provenienza. 
  
- La facolta', di cui all'[art. 7 del R. decreto 1° giugno 1928, n. 1139](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20dei%20servizi%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1139.md), e' demandata alla Commissione unica per gli affari del personale costituita presso il Ministero dei lavori pubblici in base al [R. decreto-legge 12 aprile 1944, n. 109](../Atti%20normativi%20abrogati%20%28in%20originale%29/Costituzione%20in%20deroga%20agli%20articoli%2011%20e%2068%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202960%20e%20per%20la%20durata%20dellattuale%20stato%20di%20guerra%20di%20una%20Commissione%20unica%20per%20ciascun%20Dicastero%20per%20gli%20aff_c360c0596801.md), per il personale in genere, dipendente dal Ministero stesso.
+ La facolta', di cui all'[art. 7 del R. decreto 1° giugno 1928, n. 1139](../Regi%20decreti/Ordinamento%20dei%20servizi%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1139.md), e' demandata alla Commissione unica per gli affari del personale costituita presso il Ministero dei lavori pubblici in base al [R. decreto-legge 12 aprile 1944, n. 109](../Atti%20normativi%20abrogati%20%28in%20originale%29/Costituzione%20in%20deroga%20agli%20articoli%2011%20e%2068%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202960%20e%20per%20la%20durata%20dellattuale%20stato%20di%20guerra%20di%20una%20Commissione%20unica%20per%20ciascun%20Dicastero%20per%20gli%20aff_c360c0596801.md), per il personale in genere, dipendente dal Ministero stesso.
 
 ## Art. 8.
 
-Il personale assunto con contratto a' termini dell'[articolo 4 del R. decreto 1° giugno 1928, n. 1139](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20dei%20servizi%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1139.md), e successive modificazioni, passa alle dipendenze del Ministero dei lavori pubblici, conservando il trattamento giuridico ed economico in atto in vigore nei propri confronti. 
+Il personale assunto con contratto a' termini dell'[articolo 4 del R. decreto 1° giugno 1928, n. 1139](../Regi%20decreti/Ordinamento%20dei%20servizi%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1139.md), e successive modificazioni, passa alle dipendenze del Ministero dei lavori pubblici, conservando il trattamento giuridico ed economico in atto in vigore nei propri confronti. 
  
  Non e' consentita l'assunzione di altro personale a contratto con le condizioni di cui al citato art. 4.
 
@@ -100,7 +100,7 @@ La Cassa di mutuo soccorso tra i cantonieri e capi cantonieri delle strade stata
 
 AGGIORNAMENTO (1)
 
-Il [D. Lgs. del Capo Provvisorio dello Stato 24 gennaio 1947, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-01-24;108) ha disposto (con l'art. 1, comma 1) che "Il contributo annuo a favore del Fondo massa vestiario amministrato dalla Cassa di mutuo soccorso fra i capi cantonieri e cantonieri delle strade statali previsto in lire 1.000.000 dal [secondo comma dell'art. 11 del decreto legislativo luogotenenziale 29 settembre 1944, n. 377](../Atti%20normativi%20abrogati%20%28in%20originale%29/Soppressione%20dellAzienda%20autonoma%20statale%20della%20strada.%20044U0377.md), e' elevato dal 1° luglio 1945, a lire 2.000.000".
+Il [D. Lgs. del Capo Provvisorio dello Stato 24 gennaio 1947, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-01-24;108) ha disposto (con l'art. 1, comma 1) che "Il contributo annuo a favore del Fondo massa vestiario amministrato dalla Cassa di mutuo soccorso fra i capi cantonieri e cantonieri delle strade statali previsto in lire 1.000.000 dal [secondo comma dell'art. 11 del decreto legislativo luogotenenziale 29 settembre 1944, n. 377](Soppressione%20dellAzienda%20autonoma%20statale%20della%20strada.%20044U0377.md), e' elevato dal 1° luglio 1945, a lire 2.000.000".
 
 ## Art. 12.
 

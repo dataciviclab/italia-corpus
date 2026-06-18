@@ -230,7 +230,7 @@ Al titolo I della parte II, del [decreto legislativo 30 giugno 2003, n. 196](Cod
                                 prima del titolo I, e' inserito il seguente: 
  «Titolo 0.I (Disposizioni sulla base giuridica) - Art. 45-bis (Base giuridica). - 1. Le disposizioni contenute nella presente parte sono stabilite in attuazione dell'articolo 6, paragrafo 2, nonche' dell'articolo 23, paragrafo 1, del regolamento.»;
                             b)
-                                all'articolo 50, e' aggiunto, in fine, il seguente periodo: «La violazione del divieto di cui al presente articolo e' punita ai sensi dell'[articolo 684 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).»;
+                                all'articolo 50, e' aggiunto, in fine, il seguente periodo: «La violazione del divieto di cui al presente articolo e' punita ai sensi dell'[articolo 684 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).»;
                             c)
                                 all'articolo 52: 
  1) al comma 1, le parole: «per finalita' di informazione giuridica su riviste giuridiche, supporti elettronici o mediante reti di comunicazione elettronica,» sono soppresse; 
@@ -853,7 +853,7 @@ Chiunque, essendovi tenuto, non osserva il provvedimento adottato dal Garante ai
                                 l'articolo 171 e' sostituito dal seguente: 
  «Art. 171 (Violazioni delle disposizioni in materia di controlli a distanza e indagini sulle opinioni dei lavoratori). - 1. La violazione delle disposizioni di cui agli articoli 4, comma 1, e 8 della [legge 20 maggio 1970, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300), e' punita con le sanzioni di cui all'articolo 38 della medesima legge.»;
                             g)
-                                all'articolo 172, comma 1, dopo le parole «pubblicazione della sentenza» sono aggiunte le seguenti: «, ai sensi dell'[articolo 36, secondo](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [terzo comma, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)».
+                                all'articolo 172, comma 1, dopo le parole «pubblicazione della sentenza» sono aggiunte le seguenti: «, ai sensi dell'[articolo 36, secondo](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [terzo comma, del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)».
 
 ### Art. 16. — Modifiche all'allegato A 
  del decreto legislativo 30 giugno 2003, n. 196
@@ -1193,7 +1193,7 @@ Se i procedimenti penali per i reati depenalizzati dal presente decreto sono sta
 
 3.
 
-Ai fatti commessi prima della data di entrata in vigore del presente decreto non puo' essere applicata una sanzione amministrativa pecuniaria per un importo superiore al massimo della pena originariamente prevista o inflitta per il reato, tenuto conto del criterio di ragguaglio di cui all'[articolo 135 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Ai fatti commessi prima della data di entrata in vigore del presente decreto non puo' essere applicata una sanzione amministrativa pecuniaria per un importo superiore al massimo della pena originariamente prevista o inflitta per il reato, tenuto conto del criterio di ragguaglio di cui all'[articolo 135 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 A tali fatti non si applicano le sanzioni amministrative accessorie introdotte dal presente decreto, salvo che le stesse sostituiscano corrispondenti pene accessorie.
 
 Note all'art. 24: 
@@ -1205,7 +1205,7 @@ Note all'art. 24:
  3. Se appare evidente che vi e' stato un errore di persona e non e' possibile provvedere tempestivamente a norma dei commi 1 e 2, la liberazione puo' essere ordinata in via provvisoria con decreto motivato dal pubblico ministero del luogo dove l'arrestato si trova. Il provvedimento del pubblico ministero ha effetto fino a quando non provvede il giudice competente, al quale gli atti sono immediatamente trasmessi. 
  4. Il giudice dell'esecuzione provvede in ogni caso senza formalita' con ordinanza comunicata al pubblico ministero e notificata all'interessato. Contro l'ordinanza possono proporre opposizione davanti allo stesso giudice il pubblico ministero, l'interessato e il difensore; in tal caso si procede a normadell'art. 666. L'opposizione e' proposta, a pena di decadenza, entro quindici giorni dalla comunicazione o dalla notificazione dell'ordinanza. 
  5. Se la persona detenuta deve essere giudicata per altri reati, l'ordinanza e' comunicata all'autorita' giudiziaria procedente.» 
- - L'[art. 135 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) cosi' recita: 
+ - L'[art. 135 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) cosi' recita: 
  «Quando, per qualsiasi effetto giuridico, si deve eseguire un ragguaglio fra pene pecuniarie e pene detentive, il computo ha luogo calcolando euro 250, o frazione di euro 250, di pena pecuniaria per un giorno di pena detentiva.»
 
 ### Art. 25.

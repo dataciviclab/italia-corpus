@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 21 dicembre 1999, n. 526](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201999.md), recante disposizioni per l'adempimento degli obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge comunitaria 1999, ed in particolare l'articolo 5;
+Vista la [legge 21 dicembre 1999, n. 526](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201999.md), recante disposizioni per l'adempimento degli obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge comunitaria 1999, ed in particolare l'articolo 5;
 
 Visto il Regolamento (CE) n. 338/97 del Consiglio, del 9 dicembre 1996, relativo alla protezione della flora e della fauna selvatiche mediante il controllo del loro commercio, ed il Regolamento (CE) n. 939/97 della Commissione, del 26 maggio 1997, recante modalita' di applicazione del Regolamento (CE) n. 338/97 del Consiglio del 9 dicembre 1996, relativo alla protezione della flora e della fauna selvatiche mediante il controllo del loro commercio, nonche' i successivi Regolamenti della Commissione recanti modifiche ed integrazioni agli allegati di cui al predetto Regolamento (CE) n. 338/97;
 
@@ -48,7 +48,7 @@ Avvertenza:
  - Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE).
 
  Note al titolo:
- - Il testo dell'[art. 5 della legge 21 dicembre 1999, n. 526](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201999.md) e' riportato nelle note alle premesse.
+ - Il testo dell'[art. 5 della legge 21 dicembre 1999, n. 526](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201999.md) e' riportato nelle note alle premesse.
 
  Nota alle premesse:
  - Gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) recitano:
@@ -65,7 +65,7 @@ Avvertenza:
  Presiede il Consiglio superiore della magistratura.
  Puo' concedere grazia e commutare le pene.
  Conferisce le onorificenze della Repubblica.".
- - La [legge 21 dicembre 1999, n. 526](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201999.md), reca: "Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge comunitaria 1999".
+ - La [legge 21 dicembre 1999, n. 526](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201999.md), reca: "Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge comunitaria 1999".
  - L'art. 5 della suddetta legge cosi' recita:
  "Art. 5 (Delega al Governo per la disciplina sanzionatoria di violazioni di disposizioni comunitarie). - 1. Al fine di assicurare la piena integrazione delle norme comunitarie nell'ordinamento nazionale, il Governo, fatte salve le norme penali vigenti, e' delegato ad emanare, entro due anni dalla data di entrata in vigore della presente legge, disposizioni recanti sanzioni penali o amministrative per le violazioni di direttive comunitarie attuate ai sensi della presente legge in via regolamentare o amministrativa e di regolamenti comunitari vigenti alla data del 31 luglio 1999 per i quali non siano gia' previste sanzioni penali o amministrative.
  2. La delega e' esercitata con decreti legislativi adottati a norma dell'[art. 14 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_14), su proposta del Ministro per le politiche comunitarie e del Ministro della giustizia, di concerto con i Ministri competenti per materia; i decreti legislativi si informeranno ai principi e criteri direttivi di cui all'art. 2, comma 1, lettera c).
@@ -135,7 +135,7 @@ Note all'art. 2:
  h) (omissis);
  i) (omissis);
  l) falsificazione o alterazione di qualsiasi licenza o certificato rilasciati in conformita' del presente regolamento;".
- - Il capo III, titolo VII, libro II, del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), reca: "Della falsita' in atti".
+ - Il capo III, titolo VII, libro II, del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), reca: "Della falsita' in atti".
  - Il [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), reca: "Approvazione del testo unico delle disposizioni legislative in materia doganale".
 
 ## Art. 3. — Integrazione della legge 7 febbraio 1992, n. 150
@@ -143,7 +143,7 @@ Note all'art. 2:
 1.
 
 Dopo l'[articolo 3 della legge 7 febbraio 1992, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-07;150#art_3), modificata dal [decreto-legge 12 gennaio 1993, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-01-12;2), convertito, con modificazioni, dalla [legge 13 marzo 1993, n. 59](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20gennaio%201993%20n.%202%20recante%20modifiche%20ed%20integrazioni%20alla%20legge%207%20febbraio%201992%20n.%20150%20in%20materia%20di%20commercio%20e%20detenzione%20di%20e_159da9eec611.md), e' inserito il seguente:
- "Art. 3-bis. - 1. Alle fattispecie previste dall'articolo 16, paragrafo 1, lettere a), c), d), e), ed l), del Regolamento (CE) n. 338/97 del Consiglio, del 9 dicembre 1996, e successive modificazioni, in materia di falsificazione o alterazione di certificati, licenze, notifiche di importazione, dichiarazioni, comunicazioni di informazioni al fine di acquisizione di una licenza o di un certificato, di uso di certificati o licenze falsi o alterati si applicano le pene di cui al libro II, titolo VII, capo III del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ "Art. 3-bis. - 1. Alle fattispecie previste dall'articolo 16, paragrafo 1, lettere a), c), d), e), ed l), del Regolamento (CE) n. 338/97 del Consiglio, del 9 dicembre 1996, e successive modificazioni, in materia di falsificazione o alterazione di certificati, licenze, notifiche di importazione, dichiarazioni, comunicazioni di informazioni al fine di acquisizione di una licenza o di un certificato, di uso di certificati o licenze falsi o alterati si applicano le pene di cui al libro II, titolo VII, capo III del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
  2. In caso di violazione delle norme del [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), le stesse concorrono con quelle di cui agli articoli 1, 2 e del presente articolo.".
 
 ## Art. 4. — Modifica all'articolo 4 della legge 7 febbraio 1992, n. 150

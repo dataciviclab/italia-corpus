@@ -633,11 +633,11 @@ Fermo restando quanto previsto dal comma 2-ter, l'ufficio consolare puo' chieder
 
 3.
 
-Il capo dell'ufficio consolare, nei casi e con l'osservanza delle condizioni e modalita' di cui al comma 2, puo' fornire i mezzi per il rimpatrio, scegliendo la forma di rimpatrio piu' appropriata e meno onerosa per l'erario e facendo ricorso, ove del caso, ai poteri di cui all'[articolo 197 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+Il capo dell'ufficio consolare, nei casi e con l'osservanza delle condizioni e modalita' di cui al comma 2, puo' fornire i mezzi per il rimpatrio, scegliendo la forma di rimpatrio piu' appropriata e meno onerosa per l'erario e facendo ricorso, ove del caso, ai poteri di cui all'[articolo 197 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 4.
 
-Il Ministero competente in materia, in conformita' all'[articolo 363, terzo comma, del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), emette ingiunzione a carico dell'armatore per il rimborso delle spese sostenute dallo Stato per il rimpatrio in favore della gente di mare.
+Il Ministero competente in materia, in conformita' all'[articolo 363, terzo comma, del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), emette ingiunzione a carico dell'armatore per il rimborso delle spese sostenute dallo Stato per il rimpatrio in favore della gente di mare.
 
 ### Art. 25. — Rimpatrio su navi ed aeromobili militari nazionali
 
@@ -653,7 +653,7 @@ Il comandante, se ritiene di non poter aderire alla richiesta, e' tenuto ad indi
 
 1.
 
-Quando circostanze eccezionali impongono di provvedere al rimpatrio urgente di cittadini, o comunque al loro trasferimento altrove, e se il disposto dell'[articolo 197 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) non risulta adeguato alle necessita', il capo dell'ufficio consolare puo' disporre, su istruzioni o di sua iniziativa, la requisizione per impiego temporaneo di navi mercantili o di aeromobili civili nazionali.
+Quando circostanze eccezionali impongono di provvedere al rimpatrio urgente di cittadini, o comunque al loro trasferimento altrove, e se il disposto dell'[articolo 197 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) non risulta adeguato alle necessita', il capo dell'ufficio consolare puo' disporre, su istruzioni o di sua iniziativa, la requisizione per impiego temporaneo di navi mercantili o di aeromobili civili nazionali.
 
 2.
 
@@ -665,7 +665,7 @@ L'evacuazione e' coordinata, laddove possibile, con le iniziative adottate dalle
 L'ufficio consolare comunica col mezzo piu' celere i provvedimenti adottati al Ministero degli affari esteri ed agli altri Ministeri eventualmente competenti. Alle requisizioni effettuate ai sensi del comma 1 si applicano, per quanto concerne le indennita', i criteri di cui al [decreto legislativo 15 marzo 2010, n. 66](Codice%20dellordinamento%20militare.%2010G0089.md), e successive modificazioni.
 
 Note all'art. 26: 
- - Per il testo dell'[art. 197 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) si vedano le note all'art. 24. 
+ - Per il testo dell'[art. 197 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) si vedano le note all'art. 24. 
  - Per i riferimenti del [decreto legislativo 15 marzo 2010, n. 66](Codice%20dellordinamento%20militare.%2010G0089.md) si vedano le note alle premesse.
 
 ### Art. 27. — Assistenza a persone prive di cittadinanza italiana

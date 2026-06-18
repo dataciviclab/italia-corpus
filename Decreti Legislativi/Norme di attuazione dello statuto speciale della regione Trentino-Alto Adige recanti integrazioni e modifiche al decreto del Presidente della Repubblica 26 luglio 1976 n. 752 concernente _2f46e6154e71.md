@@ -529,14 +529,14 @@ In sede di prima applicazione delle disposizioni di cui al comma 1 si procede pr
 1.
 
 Dopo l'[articolo 48-bis del decreto del Presidente della Repubblica 26 luglio 1976, n. 752](../DPR/Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Trentino-Alto%20Adige%20in%20materia%20di%20proporzionale%20negli%20uffici%20statali%20siti%20nella%20provincia%20di%20Bolzano%20e%20di%20conoscenza%20delle%20due%20lin_3773f71892e3.md), introdotto dall'articolo 27 del presente decreto, e' inserito il seguente:
- "48-ter. - 1. Fermo restando quanto disposto dall'[articolo 7 del decreto del Presidente della Repubblica 6 luglio 1978, n. 571](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-07-06;571#art_7) e dall'[articolo 328 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), nonche' i compiti di controllo attribuiti al consiglio di amministrazione di cui all'articolo 22, le violazioni degli obblighi previsti dal predetto articolo 7 costituiscono gravi violazioni agli obblighi d'ufficio, anche ai fini della responsabilita' dirigenziale e disciplinare.
+ "48-ter. - 1. Fermo restando quanto disposto dall'[articolo 7 del decreto del Presidente della Repubblica 6 luglio 1978, n. 571](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-07-06;571#art_7) e dall'[articolo 328 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), nonche' i compiti di controllo attribuiti al consiglio di amministrazione di cui all'articolo 22, le violazioni degli obblighi previsti dal predetto articolo 7 costituiscono gravi violazioni agli obblighi d'ufficio, anche ai fini della responsabilita' dirigenziale e disciplinare.
  2. La Presidenza del Consiglio dei Ministri - Dipartimento per la funzione pubblica - provvedera' a diramare ad ogni dirigente preposto alle Direzioni generali del personale una apposita circolare per richiamare l'attenzione sulla norma di cui al comma 1, accompagnata da una sintesi della speciale disciplina di garanzia del sistema derivante dall'articolo 89 dello statuto della regione Trentino-Alto Adige.
  3. La predetta diramazione e' rinnovata ogni due anni.".
 
 Note all'[art. 28](../DPR/Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Trentino-Alto%20Adige%20in%20materia%20di%20proporzionale%20negli%20uffici%20statali%20siti%20nella%20provincia%20di%20Bolzano%20e%20di%20conoscenza%20delle%20due%20lin_3773f71892e3_3.md):
  - L'[art. 7 del D.P.R. 31 luglio 1978, n. 571](../DPR/Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Trentino-Alto%20Adige%20in%20materia%20di%20proporzionale%20negli%20uffici%20statali%20siti%20nella%20provincia%20di%20Bolzano%20e%20di%20conoscenza%20delle%20due%20lin_3773f71892e3_3.md), e' il seguente:
  "Art. 7. - Gli organi competenti delle amministrazioni dello Stato di cui al primo comma dell'art. 8 del deceto del [Presidente della Repubblica 26 luglio 1976, n. 752](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica::1976-07-26;752), danno immediata comunicazione all'ufficio di cui all'art. 24 dello stesso decreto, di ogni provvedimento di destinazione di personale in provincia di Bolzano".
- - L'[art. 328 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
+ - L'[art. 328 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
  "Art. 328 (Omissione o rifiuto di atti di ufficio). - Il pubblico ufficiale (art. 357) o l'incaricato di un pubblico servizio (art. 358), che indebitamente rifiuta, omette o ritarda un atto dell'ufficio o del servizio, e' punito con la reclusione fino ad un anno o con la multa fino a lire quattrocentomila.
  Se il pubblico ufficiale e' un giudice o un funzionario del pubblico ministero, vi e' omissione, rifiuto o ritardo, quando concorrono le condizioni richieste dalla legge per esercitare contro di essi l'azione civile".
  - L'[art. 22 del D.P.R. 26 luglio 1976, n. 752](../DPR/Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Trentino-Alto%20Adige%20in%20materia%20di%20proporzionale%20negli%20uffici%20statali%20siti%20nella%20provincia%20di%20Bolzano%20e%20di%20conoscenza%20delle%20due%20lin_3773f71892e3.md), e' il seguente:
@@ -652,7 +652,7 @@ L'assimilazione di cui al comma 1 e' subordinata al conseguimento, entro 24 mesi
 
 5.
 
-L'inosservanza delle disposizioni di cui al comma 4 costituisce per il pubblico dipendente grave violazione dei doveri d'ufficio, perseguibile in via disciplinare, fatta salva l'applicazione dell'[articolo 328 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+L'inosservanza delle disposizioni di cui al comma 4 costituisce per il pubblico dipendente grave violazione dei doveri d'ufficio, perseguibile in via disciplinare, fatta salva l'applicazione dell'[articolo 328 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 6.
 
@@ -674,7 +674,7 @@ Note all'[art. 32](../DPR/Norme%20di%20attuazione%20dello%20statuto%20speciale%2
  "Art. 14. - Nelle more dell'espletamento dei concorsi, per inderogabili esigenze di servizio, su proposta del consiglio di amministrazione di cui all'art. 22, le amministrazioni interessate possono comandare in servizio in provincia di Bolzano personale dei ruoli generali, dando la preferenza a chi e' a conoscenza della lingua tedesca.
  Il personale comandato viene restituito alle sedi di origine appena i posti messi a concorso vengono coperti e comunque non oltre dodici mesi. Tale termine puo' essere derogato per il personale dirigente".
  - L'[art. 4 del D.P.R. 26 luglio 1976, n. 752](../DPR/Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Trentino-Alto%20Adige%20in%20materia%20di%20proporzionale%20negli%20uffici%20statali%20siti%20nella%20provincia%20di%20Bolzano%20e%20di%20conoscenza%20delle%20due%20lin_3773f71892e3.md), e' citato nella nota all'art. 1.
- - L'[art. 328 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' citato nella nota all'art. 28.
+ - L'[art. 328 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' citato nella nota all'art. 28.
 
 ## Art. 33. — Personale traduttore-interprete - Norma transitoria
 

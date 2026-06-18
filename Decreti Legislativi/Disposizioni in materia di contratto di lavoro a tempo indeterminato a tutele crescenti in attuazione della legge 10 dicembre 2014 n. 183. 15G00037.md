@@ -222,19 +222,19 @@ In caso di licenziamento collettivo ai sensi degli [articoli 4](https://www.norm
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 12 gennaio 2019, n. 14](../Codici/Codice%20della%20crisi%20dimpresa%20e%20dellinsolvenza%20in%20attuazione%20della%20legge%2019%20ottobre%202017%20n.%20155.%2019G00007.md), come modificato dal [D.L. 8 aprile 2020, n. 23](../DL%20proroghe/Misure%20urgenti%20in%20materia%20di%20accesso%20al%20credito%20e%20di%20adempimenti%20fiscali%20per%20le%20imprese%20di%20poteri%20speciali%20nei%20settori%20strategici%20nonche%20interventi%20in%20materia%20di%20salute%20e%20lavoro%20di%20prorog_6060daf36f50.md), ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 1 del presente articolo dal 15 agosto 2020 al 1° settembre 2021.
+Il [D.Lgs. 12 gennaio 2019, n. 14](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20della%20crisi%20dimpresa%20e%20dellinsolvenza%20in%20attuazione%20della%20legge%2019%20ottobre%202017%20n.%20155.%2019G00007.md), come modificato dal [D.L. 8 aprile 2020, n. 23](../DL%20proroghe/Misure%20urgenti%20in%20materia%20di%20accesso%20al%20credito%20e%20di%20adempimenti%20fiscali%20per%20le%20imprese%20di%20poteri%20speciali%20nei%20settori%20strategici%20nonche%20interventi%20in%20materia%20di%20salute%20e%20lavoro%20di%20prorog_6060daf36f50.md), ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 1 del presente articolo dal 15 agosto 2020 al 1° settembre 2021.
 
 -------------
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 12 gennaio 2019, n. 14](../Codici/Codice%20della%20crisi%20dimpresa%20e%20dellinsolvenza%20in%20attuazione%20della%20legge%2019%20ottobre%202017%20n.%20155.%2019G00007.md), come modificato dal [D.L. 24 agosto 2021, n. 118](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-08-24;118), ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 1 del presente articolo dal 1° settembre 2021 al 16 maggio 2022.
+Il [D.Lgs. 12 gennaio 2019, n. 14](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20della%20crisi%20dimpresa%20e%20dellinsolvenza%20in%20attuazione%20della%20legge%2019%20ottobre%202017%20n.%20155.%2019G00007.md), come modificato dal [D.L. 24 agosto 2021, n. 118](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-08-24;118), ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 1 del presente articolo dal 1° settembre 2021 al 16 maggio 2022.
 
 -------------
 
 AGGIORNAMENTO (8)
 
-Il [D.Lgs. 12 gennaio 2019, n. 14](../Codici/Codice%20della%20crisi%20dimpresa%20e%20dellinsolvenza%20in%20attuazione%20della%20legge%2019%20ottobre%202017%20n.%20155.%2019G00007.md), come modificato dal [D.L. 30 aprile 2022, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-04-30;36), ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 1 del presente articolo dal 16 maggio 2022 al 15 luglio 2022.
+Il [D.Lgs. 12 gennaio 2019, n. 14](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20della%20crisi%20dimpresa%20e%20dellinsolvenza%20in%20attuazione%20della%20legge%2019%20ottobre%202017%20n.%20155.%2019G00007.md), come modificato dal [D.L. 30 aprile 2022, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-04-30;36), ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 1 del presente articolo dal 16 maggio 2022 al 15 luglio 2022.
 
 ## Art. 11. — Rito applicabile
 

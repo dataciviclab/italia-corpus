@@ -58,7 +58,7 @@ Il Corpo nazionale e' componente fondamentale del servizio nazionale di protezio
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 2 gennaio 2018, n. 1](../Codici/Codice%20della%20protezione%20civile.%2018G00011.md) ha disposto (con l'art. 47, comma 1, lettera o)) che "Tutti i riferimenti alla [legge 24 febbraio 1992, n. 225](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-24;225) e ai relativi articoli, contenuti in altre disposizioni, si intendono riferiti al presente decreto e ai corrispondenti articoli.
+Il [D.Lgs. 2 gennaio 2018, n. 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20della%20protezione%20civile.%2018G00011.md) ha disposto (con l'art. 47, comma 1, lettera o)) che "Tutti i riferimenti alla [legge 24 febbraio 1992, n. 225](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-24;225) e ai relativi articoli, contenuti in altre disposizioni, si intendono riferiti al presente decreto e ai corrispondenti articoli.
 In particolare: 
  [...] 
  o) gli [articoli 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;225#art_10) e [11 della legge n. 225 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;225#art_11), citati nell'[articolo 1, comma 2](Riassetto%20delle%20disposizioni%20relative%20alle%20funzioni%20ed%20ai%20compiti%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20luglio%202003%20n.%20229.md), nell'[articolo 3, comma 1](Riassetto%20delle%20disposizioni%20relative%20alle%20funzioni%20ed%20ai%20compiti%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20luglio%202003%20n.%20229.md), e nell'[articolo 24, comma 2, del decreto legislativo 8 marzo 2006, n. 139](Riassetto%20delle%20disposizioni%20relative%20alle%20funzioni%20ed%20ai%20compiti%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20luglio%202003%20n.%20229.md), devono intendersi rispettivamente riferiti agli articoli 14 e 13 del presente decreto".
@@ -113,7 +113,7 @@ Fino all'adozione dei provvedimenti di cui al comma 3 continuano ad applicarsi l
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 2 gennaio 2018, n. 1](../Codici/Codice%20della%20protezione%20civile.%2018G00011.md) ha disposto (con l'art. 47, comma 1, lettera o)) che "Tutti i riferimenti alla [legge 24 febbraio 1992, n. 225](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-24;225) e ai relativi articoli, contenuti in altre disposizioni, si intendono riferiti al presente decreto e ai corrispondenti articoli.
+Il [D.Lgs. 2 gennaio 2018, n. 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20della%20protezione%20civile.%2018G00011.md) ha disposto (con l'art. 47, comma 1, lettera o)) che "Tutti i riferimenti alla [legge 24 febbraio 1992, n. 225](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-24;225) e ai relativi articoli, contenuti in altre disposizioni, si intendono riferiti al presente decreto e ai corrispondenti articoli.
 In particolare: 
  [...] 
  o) gli [articoli 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;225#art_10) e [11 della legge n. 225 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;225#art_11), citati nell'[articolo 1, comma 2](Riassetto%20delle%20disposizioni%20relative%20alle%20funzioni%20ed%20ai%20compiti%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20luglio%202003%20n.%20229.md), nell'[articolo 3, comma 1](Riassetto%20delle%20disposizioni%20relative%20alle%20funzioni%20ed%20ai%20compiti%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20luglio%202003%20n.%20229.md), e nell'[articolo 24, comma 2, del decreto legislativo 8 marzo 2006, n. 139](Riassetto%20delle%20disposizioni%20relative%20alle%20funzioni%20ed%20ai%20compiti%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20luglio%202003%20n.%20229.md), devono intendersi rispettivamente riferiti agli articoli 14 e 13 del presente decreto".
@@ -507,7 +507,7 @@ Nell'ambito di ciascuna Direzione regionale ((o interregionale)) dei vigili del 
 
 2.
 
-COMMA ABROGATO DAL [D.LGS. 26 GIUGNO 2015, N. 105](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202012-18-UE%20relativa%20al%20controllo%20del%20pericolo%20di%20incidenti%20rilevanti%20connessi%20con%20sostanze%20pericolose.%2015G00121.md).
+COMMA ABROGATO DAL [D.LGS. 26 GIUGNO 2015, N. 105](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202012-18-UE%20relativa%20al%20controllo%20del%20pericolo%20di%20incidenti%20rilevanti%20connessi%20con%20sostanze%20pericolose.%2015G00121.md).
 
 ((
 
@@ -523,7 +523,7 @@ Con decreto del Ministro dell'interno sono dettate le disposizioni relative alla
 
 1.
 
-Presso ciascuna direzione regionale o interregionale dei vigili del fuoco, del soccorso pubblico e della difesa civile opera, altresi', il Comitato tecnico regionale istituito dal [decreto legislativo 26 giugno 2015, n. 105](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202012-18-UE%20relativa%20al%20controllo%20del%20pericolo%20di%20incidenti%20rilevanti%20connessi%20con%20sostanze%20pericolose.%2015G00121.md).
+Presso ciascuna direzione regionale o interregionale dei vigili del fuoco, del soccorso pubblico e della difesa civile opera, altresi', il Comitato tecnico regionale istituito dal [decreto legislativo 26 giugno 2015, n. 105](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202012-18-UE%20relativa%20al%20controllo%20del%20pericolo%20di%20incidenti%20rilevanti%20connessi%20con%20sostanze%20pericolose.%2015G00121.md).
 
 ))
 
@@ -609,11 +609,11 @@ Ferme restando le funzioni spettanti al Corpo nazionale del soccorso alpino e sp
 
 11.
 
-Agli aeromobili del Corpo nazionale impiegati negli interventi di soccorso pubblico integrato di cui al comma 10, si applicano le disposizioni di cui all'articolo 744, primo comma, e 748 del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+Agli aeromobili del Corpo nazionale impiegati negli interventi di soccorso pubblico integrato di cui al comma 10, si applicano le disposizioni di cui all'articolo 744, primo comma, e 748 del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 12.
 
-Fermo restando quanto disposto dal [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e dalla disciplina dell'Unione europea, con decreto del Ministro dell'interno, di concerto con il Ministro della difesa e con il Ministro delle infrastrutture e dei trasporti, da emanare, sentito l'Ente nazionale per l'aviazione civile (ENAC), sono disciplinate le modalita' di utilizzo dello spazio aereo da parte degli aeromobili a pilotaggio remoto in dotazione al Corpo nazionale.
+Fermo restando quanto disposto dal [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e dalla disciplina dell'Unione europea, con decreto del Ministro dell'interno, di concerto con il Ministro della difesa e con il Ministro delle infrastrutture e dei trasporti, da emanare, sentito l'Ente nazionale per l'aviazione civile (ENAC), sono disciplinate le modalita' di utilizzo dello spazio aereo da parte degli aeromobili a pilotaggio remoto in dotazione al Corpo nazionale.
 
 13.
 
@@ -627,7 +627,7 @@ Le amministrazioni comunali provvedono, nell'ambito delle risorse disponibili ne
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 2 gennaio 2018, n. 1](../Codici/Codice%20della%20protezione%20civile.%2018G00011.md) ha disposto (con l'art. 47, comma 1, lettera o)) che "Tutti i riferimenti alla [legge 24 febbraio 1992, n. 225](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-24;225) e ai relativi articoli, contenuti in altre disposizioni, si intendono riferiti al presente decreto e ai corrispondenti articoli.
+Il [D.Lgs. 2 gennaio 2018, n. 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20della%20protezione%20civile.%2018G00011.md) ha disposto (con l'art. 47, comma 1, lettera o)) che "Tutti i riferimenti alla [legge 24 febbraio 1992, n. 225](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-24;225) e ai relativi articoli, contenuti in altre disposizioni, si intendono riferiti al presente decreto e ai corrispondenti articoli.
 In particolare: 
  [...] 
  o) gli [articoli 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;225#art_10) e [11 della legge n. 225 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;225#art_11), citati nell'[articolo 1, comma 2](Riassetto%20delle%20disposizioni%20relative%20alle%20funzioni%20ed%20ai%20compiti%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20luglio%202003%20n.%20229.md), nell'[articolo 3, comma 1](Riassetto%20delle%20disposizioni%20relative%20alle%20funzioni%20ed%20ai%20compiti%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20luglio%202003%20n.%20229.md), e nell'[articolo 24, comma 2, del decreto legislativo 8 marzo 2006, n. 139](Riassetto%20delle%20disposizioni%20relative%20alle%20funzioni%20ed%20ai%20compiti%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20luglio%202003%20n.%20229.md), devono intendersi rispettivamente riferiti agli articoli 14 e 13 del presente decreto".
@@ -658,11 +658,11 @@ Con decreto del Ministro dell'interno, di concerto con il Ministro delle infrast
 
 4.
 
-Negli aeroporti di cui al comma 2, ove il servizio sia fornito dal gestore o da altro soggetto autorizzato, il Corpo nazionale provvede alla disciplina dei servizi di salvataggio e antincendio, con riferimento alla certificazione ed alla sorveglianza, agli equipaggiamenti e alle dotazioni dei medesimi servizi, nonche' alla disciplina dei requisiti di qualificazione e di idoneita' del personale addetto, secondo quanto previsto dal [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e nel rispetto della normativa comunitaria e nazionale.
+Negli aeroporti di cui al comma 2, ove il servizio sia fornito dal gestore o da altro soggetto autorizzato, il Corpo nazionale provvede alla disciplina dei servizi di salvataggio e antincendio, con riferimento alla certificazione ed alla sorveglianza, agli equipaggiamenti e alle dotazioni dei medesimi servizi, nonche' alla disciplina dei requisiti di qualificazione e di idoneita' del personale addetto, secondo quanto previsto dal [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e nel rispetto della normativa comunitaria e nazionale.
 
 5.
 
-Il Corpo nazionale assicura, con personale, mezzi e materiali propri, il servizio di soccorso pubblico e di contrasto agli incendi nei porti e loro dipendenze, sia a terra che a bordo di natanti, imbarcazioni, navi e galleggianti, assumendone la direzione tecnica, nel rispetto di quanto previsto dalla normativa di settore vigente, dal [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e dagli accordi internazionali, e fatto salvo il potere di coordinamento e le responsabilita' degli altri servizi portuali di sicurezza, di polizia e di soccorso che fanno capo al comandante del porto. Con decreto del Ministro dell'interno, di concerto con il Ministro delle infrastrutture e dei trasporti e previo parere della Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), si provvede alla classificazione dei porti ai fini dell'espletamento del servizio e se ne disciplinano le modalita'.
+Il Corpo nazionale assicura, con personale, mezzi e materiali propri, il servizio di soccorso pubblico e di contrasto agli incendi nei porti e loro dipendenze, sia a terra che a bordo di natanti, imbarcazioni, navi e galleggianti, assumendone la direzione tecnica, nel rispetto di quanto previsto dalla normativa di settore vigente, dal [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e dagli accordi internazionali, e fatto salvo il potere di coordinamento e le responsabilita' degli altri servizi portuali di sicurezza, di polizia e di soccorso che fanno capo al comandante del porto. Con decreto del Ministro dell'interno, di concerto con il Ministro delle infrastrutture e dei trasporti e previo parere della Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), si provvede alla classificazione dei porti ai fini dell'espletamento del servizio e se ne disciplinano le modalita'.
 
 6.
 
@@ -767,7 +767,7 @@ Il Ministero dell'interno - Dipartimento dei vigili del fuoco, del soccorso pubb
 
 2.
 
-Il Ministero dell'interno - Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile provvede, altresi', per il tramite della competente struttura del Corpo nazionale, all'elaborazione ed approvazione dei progetti e dei lavori relativi alla costruzione, all'adattamento, alla manutenzione e alla riqualificazione energetica di immobili da destinare alle esigenze logistiche; ad essi e' riconosciuto, ai fini della loro esecuzione, carattere di urgenza ed indifferibilita', fatte salve le procedure previste dal [decreto legislativo 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), ai fini della scelta del contraente. Ferme restando le competenze del Comitato tecnico amministrativo istituito dal [decreto del Presidente del Consiglio dei ministri dell'11 febbraio 2014, n. 72](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-11;72), in caso di comprovata urgenza decretata dal Capo del Dipartimento, il parere sui progetti e' rilasciato dal Comitato tecnico regionale competente per territorio di cui all'articolo 22, sentito il Provveditorato interregionale per le opere pubbliche.
+Il Ministero dell'interno - Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile provvede, altresi', per il tramite della competente struttura del Corpo nazionale, all'elaborazione ed approvazione dei progetti e dei lavori relativi alla costruzione, all'adattamento, alla manutenzione e alla riqualificazione energetica di immobili da destinare alle esigenze logistiche; ad essi e' riconosciuto, ai fini della loro esecuzione, carattere di urgenza ed indifferibilita', fatte salve le procedure previste dal [decreto legislativo 18 aprile 2016, n. 50](Codice%20dei%20contratti%20pubblici.%2016G00062.md), ai fini della scelta del contraente. Ferme restando le competenze del Comitato tecnico amministrativo istituito dal [decreto del Presidente del Consiglio dei ministri dell'11 febbraio 2014, n. 72](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-11;72), in caso di comprovata urgenza decretata dal Capo del Dipartimento, il parere sui progetti e' rilasciato dal Comitato tecnico regionale competente per territorio di cui all'articolo 22, sentito il Provveditorato interregionale per le opere pubbliche.
 
 3.
 
@@ -779,7 +779,7 @@ I controlli iniziali e le verifiche periodiche dei mezzi, dei materiali e delle 
 
 5.
 
-Il Corpo nazionale provvede all'immatricolazione degli autoveicoli, dei mezzi speciali, delle unita' navali e degli aeromobili comunque in uso al Corpo medesimo, ai sensi dell'articolo 138 del nuovo [codice della strada](Nuovo%20codice%20della%20strada.md) approvato con [decreto legislativo 30 aprile 1992, n. 285](Nuovo%20codice%20della%20strada.md), e successive modificazioni, e dell'[articolo 748 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md). Il Corpo nazionale provvede, altresi', agli accertamenti tecnici, all'immatricolazione, al rilascio dei documenti di circolazione e delle targhe di riconoscimento ai veicoli in dotazione, ivi compresi quelli in prova, anche in deroga alle disposizioni di cui all'[articolo 1 del decreto del Presidente della Repubblica 24 novembre 2001, n. 474](../DPR/Regolamento%20di%20semplificazione%20del%20procedimento%20di%20autorizzazione%20alla%20circolazione%20di%20prova%20dei%20veicoli.md).
+Il Corpo nazionale provvede all'immatricolazione degli autoveicoli, dei mezzi speciali, delle unita' navali e degli aeromobili comunque in uso al Corpo medesimo, ai sensi dell'articolo 138 del nuovo [codice della strada](Nuovo%20codice%20della%20strada.md) approvato con [decreto legislativo 30 aprile 1992, n. 285](Nuovo%20codice%20della%20strada.md), e successive modificazioni, e dell'[articolo 748 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md). Il Corpo nazionale provvede, altresi', agli accertamenti tecnici, all'immatricolazione, al rilascio dei documenti di circolazione e delle targhe di riconoscimento ai veicoli in dotazione, ivi compresi quelli in prova, anche in deroga alle disposizioni di cui all'[articolo 1 del decreto del Presidente della Repubblica 24 novembre 2001, n. 474](../DPR/Regolamento%20di%20semplificazione%20del%20procedimento%20di%20autorizzazione%20alla%20circolazione%20di%20prova%20dei%20veicoli.md).
 
 ### Art. 30. — Alloggi di servizio
 
@@ -897,7 +897,7 @@ Sono e restano abrogate le seguenti disposizioni, fatti salvi gli effetti gia' p
                             a)
                                 [regio decreto-legge 10 ottobre 1935, n. 2472](../Atti%20normativi%20abrogati%20%28in%20originale%29/Organizzazione%20provinciale%20e%20coordinazione%20nazionale%20dei%20servizi%20pompieristici.%20035U2472.md);
                             b)
-                                [regio decreto 10 ottobre 1935, n. 1971](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20delle%20Disposizioni%20per%20la%20prevenzione%20e%20la%20estinzione%20degli%20incendi%20a%20bordo%20delle%20navi%20mercantili.%20035U1971.md);
+                                [regio decreto 10 ottobre 1935, n. 1971](../Regi%20decreti/Approvazione%20delle%20Disposizioni%20per%20la%20prevenzione%20e%20la%20estinzione%20degli%20incendi%20a%20bordo%20delle%20navi%20mercantili.%20035U1971.md);
                             c)
                                 [legge 10 aprile 1936, n. 833](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20ottobre%201935-XIII%20n.%202472%20relativo%20alla%20organizzazione%20provinciale%20ed%20alla%20coordinazione%20nazionale%20dei%20servizi%20pompieristici.%20036U0833.md); [regio decreto 16 aprile 1940, n. 454](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-04-16;454);
                             d)
@@ -906,9 +906,9 @@ Sono e restano abrogate le seguenti disposizioni, fatti salvi gli effetti gia' p
                             e)
                                 [regio decreto 16 marzo 1942, n. 699](../Regi%20decreti/Norme%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20del%20personale%20non%20statale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.%20042U0699.md), ad eccezione degli articoli da 62 a 72 limitatamente alle parti ancora in vigore e fino all'emanazione del regolamento di cui all'articolo 32;
                             f)
-                                [regio decreto 16 marzo 1942, n. 702](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20per%20il%20personale%20dei%20ruoli%20statali%20dei%20servizi%20antincendi.%20042U0702.md);
+                                [regio decreto 16 marzo 1942, n. 702](../Regi%20decreti/Regolamento%20per%20il%20personale%20dei%20ruoli%20statali%20dei%20servizi%20antincendi.%20042U0702.md);
                             g)
-                                [regio decreto 30 novembre 1942, n. 1502](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allordinamento%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.%20042U1502.md);
+                                [regio decreto 30 novembre 1942, n. 1502](../Regi%20decreti/Modificazioni%20allordinamento%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.%20042U1502.md);
                             h)
                                 [decreto legislativo C.P.S. 2 ottobre 1947, n. 1254](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-10-02;1254);
                             i)

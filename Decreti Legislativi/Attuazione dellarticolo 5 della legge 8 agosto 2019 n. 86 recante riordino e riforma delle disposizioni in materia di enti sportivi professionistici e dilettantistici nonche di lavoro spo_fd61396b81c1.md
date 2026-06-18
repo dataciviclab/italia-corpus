@@ -753,7 +753,7 @@ L'organizzatore di manifestazioni, competizioni o eventi sportivi con animali ga
 
 2.
 
-E' vietata la partecipazione alle manifestazioni, alle competizioni e agli eventi sportivi di cui al presente articolo degli animali i cui detentori abbiano riportato condanne in via definitiva per i reati previsti e puniti dalle disposizioni di cui al libro II, titolo IX-bis, del [Codice penale, e dall'articolo 727](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e per le violazioni previste dall'ordinamento sportivo. La verifica e' affidata all'organizzatore dell'evento.
+E' vietata la partecipazione alle manifestazioni, alle competizioni e agli eventi sportivi di cui al presente articolo degli animali i cui detentori abbiano riportato condanne in via definitiva per i reati previsti e puniti dalle disposizioni di cui al libro II, titolo IX-bis, del [Codice penale, e dall'articolo 727](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e per le violazioni previste dall'ordinamento sportivo. La verifica e' affidata all'organizzatore dell'evento.
 
 ))
 

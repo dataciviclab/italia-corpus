@@ -59,7 +59,7 @@ E' convertito in legge il [decreto-legge 21 dicembre 1966, n. 1090](https://www.
  I ruoli organici del personale di concetto e del personale salariato del Ministero dei trasporti e dell'aviazione civile - Ispettorato generale della motorizzazione civile e dei trasporti in concessione, previsti dalle tabelle II e V annesse alla [legge 1 febbraio 1960, n. 26](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20dei%20ruoli%20organici%20del%20personale%20del%20Ministero%20dei%20trasporti%20-%20Ispettorato%20generale%20della%20motorizzazione%20civile%20e%20dei%20trasporti%20in%20concessione.md), sono rispettivamente aumentati di 2 unita' nella qualifica di ispettore aggiunto capo, di 8 unita' nella qualifica di ispettore aggiunto superiore, di 16 unita' nella qualifica di ispettore aggiunto e di 74 unita' nelle qualifiche di sotto ispettore di prima classe, di sotto ispettore di seconda classe e di aiuto ispettore, nonche' di 50 unita' nella qualifica di operai di prima categoria (specializzati)". 
  
  L'articolo 6 e' sostituto dal seguente: 
- "Sono abrogati l'[art. 108 del regio decreto 8 dicembre 1933, n. 1740](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md) e l'[art. 24 del regio decreto-legge 9 maggio 1932, n. 813](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20circolazione%20dei%20motoscafi%20e%20delle%20imbarcazioni%20a%20motore.%20032U0813.md); sono altresi' abrogati il decreto ministeriale 28 gennaio 1934 di approvazione dello statuto della Cassa di colleganza fra gli ingegneri dell'Ispettorato generale della motorizzazione civile e dei trasporti in concessione, il decreto ministeriale 28 maggio 1946 istitutivo del Fondo centrale di previdenza tra i dipendenti dello stesso Ispettorato, nonche' le disposizioni comunque incompatibili con il presente decreto. 
+ "Sono abrogati l'[art. 108 del regio decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md) e l'[art. 24 del regio decreto-legge 9 maggio 1932, n. 813](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20circolazione%20dei%20motoscafi%20e%20delle%20imbarcazioni%20a%20motore.%20032U0813.md); sono altresi' abrogati il decreto ministeriale 28 gennaio 1934 di approvazione dello statuto della Cassa di colleganza fra gli ingegneri dell'Ispettorato generale della motorizzazione civile e dei trasporti in concessione, il decreto ministeriale 28 maggio 1946 istitutivo del Fondo centrale di previdenza tra i dipendenti dello stesso Ispettorato, nonche' le disposizioni comunque incompatibili con il presente decreto. 
  E' istituita una Cassa di previdenza e assistenza tra i dipendenti di detto Ispettorato. Con decreto del Presidente della Repubblica su proposta del Ministro per i trasporti e per l'aviazione civile di concerto con il Ministro per il tesoro, sentite le organizzazioni sindacali, sara' approvato lo statuto della Cassa e potra' essere autorizzata la devoluzione alla medesima, quale contributo, dei fondi per le spese di cui alla lettera a) del precedente art. 5. 
  La Cassa di previdenza e' sottoposta al controllo della Corte dei conti a termini della [legge 21 marzo 1958, n. 259](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-21;259). 
  Fermo restando quanto disposto dal nono comma dell'articolo 4, le disponibilita' esistenti presso la Cassa ed il Fondo di cui al primo comma afferenti al periodo intercorrente dal 1 maggio 1966 sino all'entrata in vigore del presente decreto sono devolute allo Stato. 
@@ -78,7 +78,7 @@ E' convertito in legge il [decreto-legge 21 dicembre 1966, n. 1090](https://www.
  "5) Visita e prova di dispositivi per alimentazione di veicoli a 
 motore a gas compresso o liquefatto............ 1.000" 
  Nella stessa Tabella la nota e' sostituita dalla seguente: 
- "N. B. - Le operazioni di cui ai nn. 1), 2), 3) e 4) sono previste dagli articoli 10, 54, 55, 58, 62, 72, 76 e correlativi articoli del [decreto Presidente della Repubblica 30 giugno 1959, n. 420](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Testo%20Unico%20delle%20norme%20sulla%20disciplina%20della%20circolazione%20stradale.md). Le tariffe relative a dette operazioni sono comprensive del rilascio del documento di circolazione e del foglio di via, quando necessari.
+ "N. B. - Le operazioni di cui ai nn. 1), 2), 3) e 4) sono previste dagli articoli 10, 54, 55, 58, 62, 72, 76 e correlativi articoli del [decreto Presidente della Repubblica 30 giugno 1959, n. 420](../Regolamenti%20governativi/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Testo%20Unico%20delle%20norme%20sulla%20disciplina%20della%20circolazione%20stradale.md). Le tariffe relative a dette operazioni sono comprensive del rilascio del documento di circolazione e del foglio di via, quando necessari.
 L'operazione di cui al n. 5) e' prevista dallo articolo 351 di detto decreto". 
  
  Alla Tabella VI, lettera a), nn. 4) e 5) sono aggiunte le parole "(articolo 1)". 
@@ -157,7 +157,7 @@ TABELLA 2
  maggio 1932, n. 813); esami per il conseguimento |
  dei titoli professionali della navigazione in- > 5.000
  terna e corrispondenti qualifiche di autorizzato |
- ([articolo 134 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md); artico- |
+ ([articolo 134 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md); artico- |
  li da 49 a 58 e 61 del regolamento di navigazione |
  interna e decreto ministeriale 16 febbraio 1971). |
 
@@ -167,19 +167,19 @@ TABELLA 2
  mento di navigazione interna). |
 
  9) Controllo tecnico delle navi e dei galleggianti in |
- costruzione ([articolo 235 del codice di navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) > 5.000
+ costruzione ([articolo 235 del codice di navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) > 5.000
  e articolo 147 del regolamento di navigazione in- |
  terna). |
 
  10) Visite e prove di motoscafi e imbarcazioni a motore |
  (articoli 3 e 12 del regio decreto-legge 9 maggio |
  1932, n. 813) di navi e galleggianti (articoli 165 > 10.000
- e 166 del [codice della navigazione e articoli 72](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), |
+ e 166 del [codice della navigazione e articoli 72](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), |
  75, 76 e 77 del regolamento di navigazione inter- |
  na). |
 
  11) Stazzatura di navi e galleggianti (articolo 136 del |
- [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md)); stazzatura di motoscafi > 5.000
+ [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md)); stazzatura di motoscafi > 5.000
  e di imbarcazioni a motore. |
 
  12) Verifica di motori (articoli 3, 4, 5 e 12 del regio > 5.000
@@ -201,7 +201,7 @@ TABELLA 2
  relativi alla proprieta di navi, galleggianti, mo- |
  toscafi e imbarcazioni a motore, e di altri atti e |
  domande per i quali occorre la trascrizione (arti- |
- colo 250 del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md)); iscrizioni |
+ colo 250 del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md)); iscrizioni |
  e cancellazioni di ipoteche. |
 
 --------------

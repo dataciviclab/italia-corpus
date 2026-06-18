@@ -40,7 +40,7 @@ Con decreto del Ministro dei trasporti e della navigazione, da emanarsi entro 12
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 22 dicembre 2000, n. 395](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20del%20Consiglio%20dellUnione%20europea%20n.%2098-76-CE%20del%201o%20ottobre%201998%20modificativa%20della%20direttiva%20n.%2096-26-CE%20del%2029%20aprile%201996%20riguardante%20laccesso%20alla%20professio_130519ecbd84.md) ha disposto (con l'art. 22, comma 1) che il termine di cui al comma 1 del presente articolo e' prorogato alla data di entrata in vigore del regolamento del Ministro dei trasporti e della navigazione e comunque non oltre il 1 luglio 2001.
+Il [D.Lgs. 22 dicembre 2000, n. 395](Attuazione%20della%20direttiva%20del%20Consiglio%20dellUnione%20europea%20n.%2098-76-CE%20del%201o%20ottobre%201998%20modificativa%20della%20direttiva%20n.%2096-26-CE%20del%2029%20aprile%201996%20riguardante%20laccesso%20alla%20professio_130519ecbd84.md) ha disposto (con l'art. 22, comma 1) che il termine di cui al comma 1 del presente articolo e' prorogato alla data di entrata in vigore del regolamento del Ministro dei trasporti e della navigazione e comunque non oltre il 1 luglio 2001.
 
 ## Art. 2.
 
@@ -101,7 +101,7 @@ Note all'[art. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:199
  4) avere stipulato contratto di assicurazione per la responsabilita' civile dipendente dall'uso degli autoveicoli e per i danni alle cose da trasportare, con i massimali prescritti nel regolamento di esecuzione, che comunque non possono essere inferiori a quelli previsti in altre disposizioni legislative in vigore;
  5) avere ottemperato alle norme di legge in materia di previdenza ed assicurazioni sociali per i propri dipendenti;
  6) essere iscritto nei ruoli delle imposte sui redditi delle persone fisiche o giuridiche relativamente al reddito di impresa o avere presentato la dichiarazione relativamente a tale reddito;
- 7) non aver riportato condanne a pene che importino l'interdizione da una professione o da un'arte o l'incapacita' ad esercitare uffici direttivi presso qualsiasi impresa, salvo che sia intervenuta riabilitazione a norma degli [articoli 178 e seguenti del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ 7) non aver riportato condanne a pene che importino l'interdizione da una professione o da un'arte o l'incapacita' ad esercitare uffici direttivi presso qualsiasi impresa, salvo che sia intervenuta riabilitazione a norma degli [articoli 178 e seguenti del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
  Per i titolari di imprese artigiane, l'incapacita' ad esercitare uffici direttivi non impedisce l'iscrizione nell'albo;
  8) non avere in corso procedura di fallimento, ne' essere stato soggetto a procedura fallimentare, salvo che sia intervenuta riabilitazione a norma degli [articoli 142 e seguenti del regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267#art_142).
  I requisiti e le condizioni di cui ai numeri 7) e 8) devono essere posseduti:

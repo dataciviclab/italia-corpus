@@ -514,7 +514,7 @@ Note all'art. 9:
  Il consorzio puo' affidare, in tutto o in parte, in concessione a societa' a prevalente partecipazione pubblica, diretta o indiretta, le attivita' di cui alle lettere a), b), c), e) ed f) del precedente secondo comma".
  "Art. 15. - Le entrate del consorzio sono costituite da:
  1) contributi dello Stato nell'ambito dei finanziamenti previsti dalle leggi vigenti per il potenziamento della ricerca scientifica;
- 2) contributi della regione, dell'amministrazione provinciale e del comune di Trieste, nonche' contributi degli enti e privati di cui al precedente art. 13, secondo comma. La misura dei contributi dell'amministrazione provinciale e del comune sara' fissata dai rispettivi consigli anche in deroga alle norme del testo unico di cui al [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), e successive modificazioni;
+ 2) contributi della regione, dell'amministrazione provinciale e del comune di Trieste, nonche' contributi degli enti e privati di cui al precedente art. 13, secondo comma. La misura dei contributi dell'amministrazione provinciale e del comune sara' fissata dai rispettivi consigli anche in deroga alle norme del testo unico di cui al [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), e successive modificazioni;
  3) contributi del Consiglio nazionale delle ricerche;
  4) eventuali contributi volontari;
  5) proventi dell'uso dei beni pertinenti al comprensorio;

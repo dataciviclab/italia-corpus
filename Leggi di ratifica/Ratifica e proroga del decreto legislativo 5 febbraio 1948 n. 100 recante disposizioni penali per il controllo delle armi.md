@@ -26,7 +26,7 @@ Il [decreto legislativo 5 febbraio 1948, n. 100](../Decreti%20Legislativi/Dispos
  L'art. 8 e' sostituito col seguente:
  "Non e' punibile chi, prima dell'accertamento del reato ed in ogni caso non oltre quindici giorni dalla data dell'entrata in vigore della presente legge, ottempera all'obbligo della denuncia o della consegna precedentemente non osservato".
  L'art. 9 e' sostituito col seguente:
- "Sino al 30 giugno 1949 non si applicano le disposizioni degli articoli 420, 695, primo comma, 698 e 699 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e le altre norme incompatibili con quelle della presente legge".
+ "Sino al 30 giugno 1949 non si applicano le disposizioni degli articoli 420, 695, primo comma, 698 e 699 del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e le altre norme incompatibili con quelle della presente legge".
  L'art. 10 e' soppresso.
  Le disposizioni piu' favorevoli della presente legge si applicano anche ai fatti commessi sotto l'imperio del [decreto legislativo 5 febbraio 1948, n. 100](../Decreti%20Legislativi/Disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md), salvo che sia stata pronunciata sentenza irrevocabile.
  Il Governo e' autorizzato a pubblicare in testo unico le disposizioni della presente legge e del [decreto legislativo 5 febbraio 1948, n. 100](../Decreti%20Legislativi/Disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md).

@@ -36,7 +36,7 @@ Capo I
 
 1.
 
-L'[art. 509 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' cosi' modificato:
+L'[art. 509 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' cosi' modificato:
                             a)
                                 la rubrica e' sostituita dalla seguente: "Inosservanza delle norme disciplinanti i rapporti di lavoro";
                             b)
@@ -50,7 +50,7 @@ AVVERTENZA:
 
  
  Nota all'art. 1: 
- - Il testo vigente dell'[art. 509 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come 
+ - Il testo vigente dell'[art. 509 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come 
  modificato dal decreto legislativo qui' pubblicato, e' il seguente: 
  "Art. 509 (Inosservanza delle norme disciplinanti i 
  rapporti di lavoro). - Il datore di lavoro o il lavoratore, il quale non adempie gli obblighi che gli derivano da un contratto collettivo (o dalle norme emanate dagli organi corporativi), e' punito con la sanzione amministrativa da lire duecentomila a lire un milione".
@@ -75,7 +75,7 @@ Note all'art. 2:
  Le violazioni delle disposizioni del presente articolo sono punite con la sanzione amministrativa da lire cinquantamila a lire trecentomila. Se l'inosservanza si riferisce a piu' di cinque lavoratori, ovvero si e' verificata nel corso dell'anno solare per piu' di cinquanta giorni, si applica la sanzione amministrativa da lire trecentomila a lire due milioni".
  - Si trascrive il testo dell'[art. 16 della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_16) (Modifiche al sistema penale):
  "Art. 16 (Pagamento in misura ridotta). - E' ammesso il pagamento di una somma in misura ridotta pari alla terza parte del massimo della sanzione prevista per la violazione commessa o, se piu' favorevole, al doppio del minimo della sanzione edittale, oltre alle spese del procedimento, entro il termine di sessanta giorni dalla contestazione immediata o, se questa non vi e' stata, dalla notificazione degli estremi della violazione.
- Nei casi di violazione del [testo unico delle norme sulla circolazione](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20circolazione%20e%20soggiorno%20dei%20cittadini%20degli%20Stati%20membri%20dellUnione%20europea.%20Testo%20A.md) stradale e dei regolamenti comunali e provinciali continuano ad applicarsi, rispettivamente, l'art. 138 del t.u. approvato con [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](../DPR/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md), con le modifiche apportate dall'[art. 11 della legge 14 febbraio 1974, n. 62](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sostituzione%20degli%20articoli%2079%2080%2086%20124%20127%20e%20modifiche%20agli%20articoli%2081%2087%2088%20138%20e%20141%20del%20testo%20unico%20delle%20norme%20sulla%20disciplina%20della%20circolazione%20stradale%20approvato%20con%20decreto%20de_c6728f6b4c4d.md), e l'art. 107 del t.u. delle leggi comunali e provinciali approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md).
+ Nei casi di violazione del [testo unico delle norme sulla circolazione](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20circolazione%20e%20soggiorno%20dei%20cittadini%20degli%20Stati%20membri%20dellUnione%20europea.%20Testo%20A.md) stradale e dei regolamenti comunali e provinciali continuano ad applicarsi, rispettivamente, l'art. 138 del t.u. approvato con [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](../DPR/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md), con le modifiche apportate dall'[art. 11 della legge 14 febbraio 1974, n. 62](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sostituzione%20degli%20articoli%2079%2080%2086%20124%20127%20e%20modifiche%20agli%20articoli%2081%2087%2088%20138%20e%20141%20del%20testo%20unico%20delle%20norme%20sulla%20disciplina%20della%20circolazione%20stradale%20approvato%20con%20decreto%20de_c6728f6b4c4d.md), e l'art. 107 del t.u. delle leggi comunali e provinciali approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md).
  Il pagamento in misura ridotta e' ammesso anche nei casi in cui le norme antecedenti all'entrata in vigore della presente legge non consentivano l'oblazione.".
  Il secondo comma e' stato abrogato dall'[art. 231 del d.Lgs. 30 aprile 1992, n. 285](Nuovo%20codice%20della%20strada.md), per la parte relativa al [D.P.R. n. 393/1959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959;393).
 
@@ -97,7 +97,7 @@ Nota all'art. 3:
 
 1.
 
-L'[art. 16 del regio decreto 10 settembre 1923, n. 1955](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20relativo%20alla%20limitazione%20dellorario%20di%20lavoro%20per%20gli%20operai%20ed%20impiegati%20delle%20aziende%20industriali%20o%20commerciali%20di%20qualunque%20natura.%20023U1955.md), e' cosi' modificato:
+L'[art. 16 del regio decreto 10 settembre 1923, n. 1955](../Regi%20decreti/Approvazione%20del%20regolamento%20relativo%20alla%20limitazione%20dellorario%20di%20lavoro%20per%20gli%20operai%20ed%20impiegati%20delle%20aziende%20industriali%20o%20commerciali%20di%20qualunque%20natura.%20023U1955.md), e' cosi' modificato:
                             a)
                                 nel primo comma la parola: "contravvenzioni" e' sostituita dalla seguente: "violazioni";
                             b)
@@ -105,14 +105,14 @@ L'[art. 16 del regio decreto 10 settembre 1923, n. 1955](../Atti%20normativi%20a
 
 2.
 
-L'[art. 17 del regio decreto 10 settembre 1923, n. 1955](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20relativo%20alla%20limitazione%20dellorario%20di%20lavoro%20per%20gli%20operai%20ed%20impiegati%20delle%20aziende%20industriali%20o%20commerciali%20di%20qualunque%20natura.%20023U1955.md), e' sostituito dal seguente:
+L'[art. 17 del regio decreto 10 settembre 1923, n. 1955](../Regi%20decreti/Approvazione%20del%20regolamento%20relativo%20alla%20limitazione%20dellorario%20di%20lavoro%20per%20gli%20operai%20ed%20impiegati%20delle%20aziende%20industriali%20o%20commerciali%20di%20qualunque%20natura.%20023U1955.md), e' sostituito dal seguente:
  "Art. 17 - 1. Salvo che il fatto costituisca reato, i proprietari, i gerenti e i direttori sono puniti con la sanzione amministrativa:
  a) da lire centomila a lire seicentomila per le violazioni di cui all'art. 12;
  b) da lire cinquantamila a lire trecentomila per l'omessa comunicazione di cui agli articoli 8, quinto comma, 9, terzo comma, e 11, secondo comma;
  c) da lire centomila a lire ottocentomila per le violazioni delle altre disposizioni del presente regolamento.".
 
 Nota all'art. 4:
- - Il testo vigente dell'[art. 16 del R.D. 10 settembre 1923, n. 1955](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20relativo%20alla%20limitazione%20dellorario%20di%20lavoro%20per%20gli%20operai%20ed%20impiegati%20delle%20aziende%20industriali%20o%20commerciali%20di%20qualunque%20natura.%20023U1955.md) (Regolamento per l'applicazione del [R.D.L. 15 marzo 1923, n. 692](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-03-15;692), relativo alla limitazione dell'orario di lavoro per gli operai ed impiegati delle aziende industriali o commerciali), come modificato dal decreto legislativo qui' pubblicato, e' il seguente:
+ - Il testo vigente dell'[art. 16 del R.D. 10 settembre 1923, n. 1955](../Regi%20decreti/Approvazione%20del%20regolamento%20relativo%20alla%20limitazione%20dellorario%20di%20lavoro%20per%20gli%20operai%20ed%20impiegati%20delle%20aziende%20industriali%20o%20commerciali%20di%20qualunque%20natura.%20023U1955.md) (Regolamento per l'applicazione del [R.D.L. 15 marzo 1923, n. 692](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-03-15;692), relativo alla limitazione dell'orario di lavoro per gli operai ed impiegati delle aziende industriali o commerciali), come modificato dal decreto legislativo qui' pubblicato, e' il seguente:
  "Art. 16. - Le violazioni al regio decreto-legge e al presente regolamento dovranno risultare da apposito processo verbale, firmato dall'esercente dell'azienda o da un suo rappresentante o da chi ha la direzione o la sorveglianza del lavoro.
  In esso dovranno essere indicati i dati di fatto costituenti le infrazioni, il numero delle persone occupate quando l'ammenda e' commisurata a tale numero e tutte le altre informazioni necessarie per il giudizio sulla contravvenzione. Saranno pure inserite in esso le dichiarazioni che riterra' di far presente, nel proprio interesse, l'esercente o il suo rappresentante o il suo direttore.
  Se costoro si rifiutino di firmare il processo verbale, ne viene fatta menzione, indicandone le ragioni.".
@@ -121,7 +121,7 @@ Nota all'art. 4:
 
 1.
 
-L'[art. 13 del regio decreto 10 settembre 1923, n. 1956](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20relativo%20alla%20limitazione%20dellorario%20di%20lavoro%20ai%20lavoratori%20delle%20aziende%20agricole.%20023U1956.md), e' cosi' modificato:
+L'[art. 13 del regio decreto 10 settembre 1923, n. 1956](../Regi%20decreti/Approvazione%20del%20regolamento%20relativo%20alla%20limitazione%20dellorario%20di%20lavoro%20ai%20lavoratori%20delle%20aziende%20agricole.%20023U1956.md), e' cosi' modificato:
                             a)
                                 nel primo comma la parola: "contravvenzioni" e' sostituita dalla seguente: "violazioni";
                             b)
@@ -129,15 +129,15 @@ L'[art. 13 del regio decreto 10 settembre 1923, n. 1956](../Atti%20normativi%20a
 
 2.
 
-L'[art. 14 del regio decreto 10 settembre 1923, n. 1956](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20relativo%20alla%20limitazione%20dellorario%20di%20lavoro%20ai%20lavoratori%20delle%20aziende%20agricole.%20023U1956.md), e' sostituito dal seguente:
+L'[art. 14 del regio decreto 10 settembre 1923, n. 1956](../Regi%20decreti/Approvazione%20del%20regolamento%20relativo%20alla%20limitazione%20dellorario%20di%20lavoro%20ai%20lavoratori%20delle%20aziende%20agricole.%20023U1956.md), e' sostituito dal seguente:
  "Art. 14 - 1. I datori di lavoro o i loro rappresentanti sono puniti, in caso di violazione delle disposizioni del presente regolamento, con la sanzione amministrativa da lire cinquantamila a lire trecentomila. Se l'inosservanza si riferisce a piu' di cinque lavoratori, ovvero si e' verificata nel corso dell'anno solare per piu' di cinquanta giorni, si applica la sanzione amministrativa da lire trecentomila a lire due milioni.".
 
 3.
 
-Per le violazioni di cui all'art. 14, comma 1, secondo periodo, del [regio decreto 10 settembre 1923, n. 1956](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20relativo%20alla%20limitazione%20dellorario%20di%20lavoro%20ai%20lavoratori%20delle%20aziende%20agricole.%20023U1956.md), come modificato dal comma 1 del presente articolo, non e' ammesso il pagamento in misura ridotta previsto dall'[art. 16 della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_16).
+Per le violazioni di cui all'art. 14, comma 1, secondo periodo, del [regio decreto 10 settembre 1923, n. 1956](../Regi%20decreti/Approvazione%20del%20regolamento%20relativo%20alla%20limitazione%20dellorario%20di%20lavoro%20ai%20lavoratori%20delle%20aziende%20agricole.%20023U1956.md), come modificato dal comma 1 del presente articolo, non e' ammesso il pagamento in misura ridotta previsto dall'[art. 16 della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_16).
 
 Note all'art. 5:
- - Il testo vigente dell'[art. 13 del R.D. 10 settembre 1923, n. 1956](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20relativo%20alla%20limitazione%20dellorario%20di%20lavoro%20ai%20lavoratori%20delle%20aziende%20agricole.%20023U1956.md), recante il "Regolamento per l'applicazione ai lavoratori delle aziende agricole del [R.D.L. 15 marzo 1923, n. 692](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-03-15;692) (relativo alla limitazione dell'orario di lavoro per gli operai ed impiegati delle aziende industriali o commerciali)", come modificato dal decreto legislativo qui pubblicato, e' il seguente:
+ - Il testo vigente dell'[art. 13 del R.D. 10 settembre 1923, n. 1956](../Regi%20decreti/Approvazione%20del%20regolamento%20relativo%20alla%20limitazione%20dellorario%20di%20lavoro%20ai%20lavoratori%20delle%20aziende%20agricole.%20023U1956.md), recante il "Regolamento per l'applicazione ai lavoratori delle aziende agricole del [R.D.L. 15 marzo 1923, n. 692](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-03-15;692) (relativo alla limitazione dell'orario di lavoro per gli operai ed impiegati delle aziende industriali o commerciali)", come modificato dal decreto legislativo qui pubblicato, e' il seguente:
  "Art. 13. - Le violazioni al regio decreto-legge e al presente regolamento devono risultare da apposito processo verbale firmato dall'esercente l'azienda o da un suo rappresentante o da chi ha la direzione o la sorveglianza del lavoro.
  In esso dovranno essere indicati i dati di fatto costituenti le infrazioni, il numero delle persone occupate e tutte le altre informazioni necessarie per il giudizio sulla contravvenzione. Saranno pure inserite in esso le dichiarazioni che riterra' di far presente, nel proprio interesse, l'esercente o il suo rappresentante o il direttore.
  Se costoro rifiutino di firmare il processo verbale, ne vien fatta menzione, indicandone le ragioni.".
@@ -164,7 +164,7 @@ Nota all'art. 7:
  - Il testo vigente dell'[art. 28 della legge 22 febbraio 1934, n. 370](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-02-22;370#art_28), gia' modificato dall'[art. 2 della legge 11 dicembre 1952, n. 2466](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-12-11;2466#art_2), come ulteriormente modificato dal decreto legislativo qui pubblicato, e' il seguente:
  "Art. 28. - Chiunque contravviene alla disposizione di cui all'articolo 14 e' punito con la sanzione amministrativa da lire trecentomila a lire due milioni.
  Il giornale e qualunque altro mezzo adottato per la diffusione delle notizie e' sequestrato.
- Ferme restando le disposizioni del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), in caso di recidiva il magistrato puo' ordinare la sospensione del giornale per un periodo di tempo determinato.".
+ Ferme restando le disposizioni del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), in caso di recidiva il magistrato puo' ordinare la sospensione del giornale per un periodo di tempo determinato.".
 
 ### Art. 8. — Libretto di lavoro
 
@@ -313,7 +313,7 @@ Agli effetti delle disposizioni di cui al presente capo, si intende per:
 
 2.
 
-La definizione di cui al comma 1, lettera a), non si applica agli effetti previsti dall'art. 60, primo comma, e 127, in relazione all'[art. 34, primo comma, lettera n), della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_34-com1-letn), nonche' degli [articoli 589, comma secondo](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e [590, commi terzo](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [quinto, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+La definizione di cui al comma 1, lettera a), non si applica agli effetti previsti dall'art. 60, primo comma, e 127, in relazione all'[art. 34, primo comma, lettera n), della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_34-com1-letn), nonche' degli [articoli 589, comma secondo](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e [590, commi terzo](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [quinto, del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
 -------------- 
 Nota redazionale 
@@ -330,7 +330,7 @@ Note all'art. 19:
  Il presidente della giunta puo' sospendere l'esecuzione dell'atto impugnato". 
  - Il testo degli [articoli 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_34), [60](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_60) e [127 della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_127), (Modifiche al sistema penale), e' il seguente: 
  "Art. 34 (Esclusione della depenalizzazione). - La disposizione del primo comma dell'art. 32 non si applica ai reati previsti: 
- a) dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), salvo quanto disposto dall'art. 33, lettera a); 
+ a) dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), salvo quanto disposto dall'art. 33, lettera a); 
  b) dall'[art. 19, secondo comma, della legge 22 maggio 1978, n. 194](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;194#art_19-com2), sull'interruzione volontaria della gravidanza; 
  c) da disposizioni di legge concernenti le armi, le munizioni e gli esplosivi; 
  d) dall'[art. 221 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md); 
@@ -344,7 +344,7 @@ Note all'art. 19:
  m) dalle leggi relative ai rapporti di lavoro, anche per quanto riguarda l'assunzione dei lavoratori e le assicurazioni sociali, salvo quanto previsto dal successivo art. 35; 
  n) dalle leggi relative alla prevenzione degli infortuni sul lavoro ed all'igiene del lavoro; 
  o) dall'[art. 108 del decreto del Presidente della Repubblica 30 marzo 1957, n. 361](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20recanti%20norme%20per%20la%20elezione%20della%20Camera%20dei%20deputati.md), e dell'[art. 89 del decreto del Presidente della Repubblica 16 maggio 1960, n. 570](../DPR/Testo%20unico%20delle%20leggi%20per%20la%20composizione%20e%20la%20elezione%20degli%20organi%20delle%20Amministrazioni%20comunali.md), in materia elettorale". 
- "Art. 60 (Esclusioni oggettive). - Le pene sostitutive non si applicano ai reati previsti dai seguenti articoli del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md): 
+ "Art. 60 (Esclusioni oggettive). - Le pene sostitutive non si applicano ai reati previsti dai seguenti articoli del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md): 
  318 (corruzione per un atto d'ufficio); 
  319 (corruzione per un atto contrario ai doveri d'ufficio); 
  320 (corruzione di persona incaricata di un pubblico servizio); 
@@ -362,12 +362,12 @@ Note all'art. 19:
  452 (delitti colposi contro la salute pubblica); 
  501 (rialzo e ribasso fraudolento di prezzi sul pubblico mercato o nelle borse di commercio); 
  501-bis (manovre speculative su merci); 
- 590, secondo e terzo comma (lesioni personali colpose), limitatamente ai fatti commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro o relative all'igiene del lavoro, che abbiano determinato le conseguenze previste dal [primo comma, n. 2](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), o dal [secondo comma dell'art. 583 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ 590, secondo e terzo comma (lesioni personali colpose), limitatamente ai fatti commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro o relative all'igiene del lavoro, che abbiano determinato le conseguenze previste dal [primo comma, n. 2](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), o dal [secondo comma dell'art. 583 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  644 (usura). 
  Le pene sostitutive non si applicano, altresi', ai reati previsti dagli [articoli 9](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20contro%20linquinamento%20atmosferico.md), [10](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20contro%20linquinamento%20atmosferico.md), [14](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20contro%20linquinamento%20atmosferico.md), [15](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20contro%20linquinamento%20atmosferico.md), [18](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20contro%20linquinamento%20atmosferico.md) e [20 della legge 13 luglio 1966, n. 615](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20contro%20linquinamento%20atmosferico.md) (provvedimenti contro l'inquinamento atmosferico) e dagli [articoli 21](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md) e [22 della legge 10 maggio 1976, n. 319](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md) (norme per la tutela delle acque dall'inquinamento). 
  Le pene sostitutive non si applicano ai reati previsti dalle leggi relative alla prevenzione degli infortuni sul lavoro e all'igiene del lavoro, nonche' dalle leggi in materia edilizia ed urbanistica e in materia di armi da sparo, munizioni ed esplosivi, quando per detti reati la pena detentiva non e' alternativa a quella pecuniaria". 
- "Art. 127 (Applicazione di norme). - Le disposizioni dell'[art. 162-bis del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) si applicano anche ai reati indicati nelle lettere f), h), i), n), del primo comma dell'art. 34". 
- - Si trascrive il testo degli [articoli 589](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [590 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md): 
+ "Art. 127 (Applicazione di norme). - Le disposizioni dell'[art. 162-bis del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) si applicano anche ai reati indicati nelle lettere f), h), i), n), del primo comma dell'art. 34". 
+ - Si trascrive il testo degli [articoli 589](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [590 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md): 
  "Art. 589 (Omicidio colposo). - Chiunque cagiona per colpa la morte di una persona e' punito con la reclusione da sei mesi a cinque anni. 
  Se il fatto e' commesso con violazione delle norme sulla disciplina della circolazione stradale o di quelle per la prevenzione degli infortuni sul lavoro la pena e' della reclusione da uno a cinque anni. 
  Nel caso di morte di piu' persone, ovvero di morte di una o piu' persone e di lesioni di una o piu' persone, si applica la pena che dovrebbe infliggersi per la piu' grave delle violazioni commesse aumentata fino al triplo, ma la pena non puo' superare gli anni dodici". 
@@ -462,10 +462,10 @@ Il pubblico ministero richiede l'archiviazione se la contravvenzione e' estinta 
 
 3.
 
-L'adempimento in un tempo superiore a quello indicato nella prescrizione, ma che comunque risulta congruo a norma dell'art. 20, comma 1, ovvero l'eliminazione delle conseguenze dannose o pericolose della contravvenzione con modalita' diverse da quelle indicate dall'organo di vigilanza, sono valutate ai fini dell'applicazione dell'[art. 162-bis del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). In tal caso, la somma da versare e' ridotta al quarto del massimo dell'ammenda stabilita per la contravvenzione commessa.
+L'adempimento in un tempo superiore a quello indicato nella prescrizione, ma che comunque risulta congruo a norma dell'art. 20, comma 1, ovvero l'eliminazione delle conseguenze dannose o pericolose della contravvenzione con modalita' diverse da quelle indicate dall'organo di vigilanza, sono valutate ai fini dell'applicazione dell'[art. 162-bis del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). In tal caso, la somma da versare e' ridotta al quarto del massimo dell'ammenda stabilita per la contravvenzione commessa.
 
 Nota all'art. 24:
- - Il testo dell'[art. 162-bis del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
+ - Il testo dell'[art. 162-bis del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
  "Art. 162-bis (Oblazione nelle contravvenzioni punite con pene alternative). - Nelle contravvenzioni per le quali la legge stabilisce la pena alternativa dell'arresto o dell'ammenda, il contravventore puo' essere ammesso a pagare, prima dell'apertura del dibattimento, ovvero prima del decreto di condanna, una somma corrispondente alla meta' del massimo dell'ammenda stabilita dalla legge per la contravvenzione commessa oltre le spese del procedimento.
  Con la domanda di oblazione il contravventore deve depositare la somma corrispondente alla meta' del massimo dell'ammenda.
  L'oblazione non e' ammessa quando ricorrono i casi previsti dal terzo capoverso dell'art. 99, dell'art. 104 o dall'art. 105, ne' quando permangono conseguenze dannose o pericolose del reato eliminabili da parte del contravventore.
@@ -503,7 +503,7 @@ dall'articolo unico della [legge 16 ottobre 1962, n. 1498](https://www.normattiv
  "L'esercente che contravviene alle norme della presente legge o del 
 regolamento e' punito con l'arresto fino ad un mese o con l'ammenda da lire trecentomila a lire un milione.".
                             b)
-                                nel terzo comma le parole: "ai sensi dell'[art. 162 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)" sono sostituite dalle seguenti: "ai sensi dell'[art. 162-bis del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)".
+                                nel terzo comma le parole: "ai sensi dell'[art. 162 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)" sono sostituite dalle seguenti: "ai sensi dell'[art. 162-bis del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)".
 
 2.
 
@@ -511,7 +511,7 @@ Nel [primo comma dell'art. 8 del regio decreto-legge 23 dicembre 1920, n. 1881](
 
 3.
 
-Nel [primo comma dell'art. 69 del regio decreto 9 gennaio 1927, n. 147](../Regi%20decreti/Approvazione%20del%20regolamento%20speciale%20per%20limpiego%20dei%20gas%20tossici.%20027U0147.md), le parole: "a norma dell'[art. 225 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con il [regio decreto 6 novembre 1926, n. 1848](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20026U1848.md)" sono sostituite dalle seguenti: "con l'arresto fino a tre mesi o con l'ammenda da lire cinquecentomila a lire due milioni".
+Nel [primo comma dell'art. 69 del regio decreto 9 gennaio 1927, n. 147](../Regi%20decreti/Approvazione%20del%20regolamento%20speciale%20per%20limpiego%20dei%20gas%20tossici.%20027U0147.md), le parole: "a norma dell'[art. 225 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con il [regio decreto 6 novembre 1926, n. 1848](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20026U1848.md)" sono sostituite dalle seguenti: "con l'arresto fino a tre mesi o con l'ammenda da lire cinquecentomila a lire due milioni".
 
 4.
 
@@ -964,13 +964,13 @@ Note all'art. 26:
  "Art. 7. - L'esercente che contravviene alle norme della 
  presente legge o del regolamento e' punito con l'arresto fino ad un mese o con l'ammenda da lire trecentomila a lire un milione. 
  In caso di recidiva, e fermo il disposto dell'[art. 99 
- del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), il giudice puo' disporre la sospensione dell'esercizio dell'industria per un periodo non superiore ad un mese. 
+ del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), il giudice puo' disporre la sospensione dell'esercizio dell'industria per un periodo non superiore ad un mese. 
  Ove venga presentata domanda di oblazione ai sensi 
- dell'[art. 162- bis del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e la contravvenzione constatata costituisca violazione di norma che abbia in precedenza dato luogo a condanna o ad oblazione il giudice, dopo l'emanazione del provvedimento che dichiara estinto il reato per intervenuta oblazione, e' tenuto a trasmettere gli atti al prefetto. 
+ dell'[art. 162- bis del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e la contravvenzione constatata costituisca violazione di norma che abbia in precedenza dato luogo a condanna o ad oblazione il giudice, dopo l'emanazione del provvedimento che dichiara estinto il reato per intervenuta oblazione, e' tenuto a trasmettere gli atti al prefetto. 
  Il prefetto, valutate le circostanze, puo' disporre la  sospensione dell'esercizio dell'industria per un periodo non superiore ad un mese. 
  Durante il periodo di sospensione l'esercente e' 
  obbligato a corrispondere ai dipendenti la retribuzione normale, rapportata a quella corrisposta nell'ultimo periodo di paga". 
- - Per il testo dell'[art. 162-bis del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) 
+ - Per il testo dell'[art. 162-bis del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) 
  vedere nota all'art. 24. 
  - Il testo vigente dell'[art. 8 del R.D.L. 23 dicembre 
  1920, n. 1881](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20vieta%20limpiego%20del%20fosforo%20bianco%20nella%20fabbricazione%20dei%20fiammiferi%20020U1881.md), convertito dalla [legge 15 maggio 1924, n. 881](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1924-05-15;881) (che vieta l'impiego del fosforo bianco nella fabbricazione dei fiammiferi), come modificato dal decreto legislativo qui pubblicato, e' il seguente: 
@@ -1185,9 +1185,9 @@ Note all'art. 26:
  - Il testo vigente dell'[art. 686 del D.P.R. 9 aprile 1959, n. 128](../DPR/Norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave.md), come modificato dal decreto legislativo qui pubblicato, e' il seguente:
  "Art. 686. - I direttori, i capi servizi, i sorveglianti e gli altri preposti, nonche' i lavoratori che non ottemperino alla diffida o ad altro provvedimento dell'ingegnere capo del distretto minerario o del capo della Sezione dell'Ufficio nazionale minerario per gli idrocarburi, emanato in applicazione del presente decreto, sono puniti con l'arresto da uno a sei mesi o con l'ammenda da lire tre milioni a lire venti milioni. La stessa pena si applica nel caso di inosservanza dei provvedimenti emanati dal prefetto in applicazione del presente decreto".
  - Il testo vigente dell'[art. 13 della legge 19 luglio 1961, n. 706](../Atti%20normativi%20abrogati%20%28in%20originale%29/Impiego%20della%20biacca%20nella%20pittura.md), recante "Impiego della biacca nella pittura", come modificato dal decreto legislativo qui pubblicato, e' il seguente:
- "Art. 13. - Salve le maggiori sanzioni previste dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sono puniti per l'inosservanza delle norme previste nella presente legge, con l'arresto da due a quattro mesi o con l'ammenda da lire un milione a lire cinque milioni, i datori di lavoro, i produttori e commercianti".
+ "Art. 13. - Salve le maggiori sanzioni previste dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sono puniti per l'inosservanza delle norme previste nella presente legge, con l'arresto da due a quattro mesi o con l'ammenda da lire un milione a lire cinque milioni, i datori di lavoro, i produttori e commercianti".
  - Il testo vigente dell'[art. 12 della legge 5 marzo 1963, n. 245](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-03-05;245#art_12), recante: "Limitazione dell'impiego del benzolo e suoi omologhi nelle attivita' lavorative", come modificato dal decreto legislativo qui pubblicato, e' il seguente:
- "Art. 12. - Salve le maggiori sanzioni previste dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md):
+ "Art. 12. - Salve le maggiori sanzioni previste dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md):
  1) i datori di lavoro e i dirigenti sono puniti con l'arresto da tre a sei mesi o con l'ammenda da lire otto milioni a lire trentasei milioni per l'inosservanza delle norme di cui agli articoli 2, 3, 4, 5, 6 e 7;
  2) i fabbricanti ed i commercianti sono puniti con l'arresto da tre a sei mesi con l'ammenda da lire otto milioni a lire trentasei milioni per l'inosservanza delle norme di cui all'art. 8;
  3) i committenti a domicilio ai sensi della [legge 13 marzo 1958, n. 264](../Atti%20normativi%20abrogati%20%28in%20originale%29/Tutela%20del%20lavoro%20a%20domicilio.md), sono puniti:
@@ -1424,7 +1424,7 @@ Note all'[art. 28:
  f) di rilevare, secondo le istruzioni del Ministero del lavoro e della previdenza sociale, le condizioni tecniche ed igieniche delle singole industrie, l'ordinamento e rimunerazione del lavoro, il numero e le condizioni degli operai, gli scioperi, le loro cause e i loro risultati, il numero, le cause e le conseguenze degli infortuni degli operai, gli effetti delle leggi che piu' specialmente interessano il lavoro; di raccogliere tutte le notizie e le informazioni sulle condizioni e lo svolgimento della produzione nazionale e delle singole attivita' produttive; di compiere, in genere, tutte le rilevazioni, indagini ed inchieste, delle quali fosse incaricato dal Ministero del lavoro e della previdenza sociale;
  g) di compiere tutte le funzioni che ad esso vengano demandate da disposizioni legislative o regolamentari, o delegate dal Ministro per il lavoro e la previdenza sociale.
  L'azione di consulenza, di cui in particolare alla lettera c), sara' esercitata a mezzo di apposita sezione da istituirsi presso ciascun Ispettorato regionale e provinciale.
- Le indagini sui processi di lavorazione, che gli industriali vogliono tenere segreti, devono essere limitate solo a quanto si riferisce all'igiene ed alla immunita' degli operai, e solo per questa parte possono essere comunicati i relativi risultati. Il personale dell'ispettorato del lavoro deve conservare il segreto sopra tali processi e sopra ogni altro particolare di lavorazione, che venisse a sua conoscenza per ragioni d'ufficio. La violazione di tale obbligo e' punita con la pena stabilita dall'[art. 623 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Le indagini sui processi di lavorazione, che gli industriali vogliono tenere segreti, devono essere limitate solo a quanto si riferisce all'igiene ed alla immunita' degli operai, e solo per questa parte possono essere comunicati i relativi risultati. Il personale dell'ispettorato del lavoro deve conservare il segreto sopra tali processi e sopra ogni altro particolare di lavorazione, che venisse a sua conoscenza per ragioni d'ufficio. La violazione di tale obbligo e' punita con la pena stabilita dall'[art. 623 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
  Le notizie comunicate all'Ispettorato o da questo richieste o rilevate non possono essere pubblicate ne' comunicate a terzi e ad uffici pubblici in modo che se ne possa dedurre l'indicazione delle persone o dei datori di lavoro ai quali si riferiscono, salvo il caso di loro espresso consenso.
  L'Ispettorato del lavoro, nell'esercizio della vigilanza e degli altri compiti di cui al presente articolo, puo' chiedere o rilevare ogni notizia o risultanza esistente presso gli enti pubblici ed i privati che svolgono attivita' dirette alla protezione sociale dei lavoratori.
  Analoga facolta' compete nei confronti delle persone autorizzate, ai termini dell'[art. 4 della legge 23 novembre 1939, n. 1815](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20giuridica%20degli%20studi%20di%20assistenza%20e%20di%20consulenza.%20039U1815.md), alla tenuta e regolarizzazione dei documenti delle aziende riguardanti materia di lavoro, previdenza ed assistenza sociale.

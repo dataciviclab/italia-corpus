@@ -16,7 +16,7 @@ Visto l'[art. 2, comma 2, della legge 8 luglio 1986, n. 349](https://www.normatt
 
 Vista la [legge 13 luglio 1966, n. 615](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20contro%20linquinamento%20atmosferico.md);
 
-Visto il [decreto del Presidente della Repubblica 8 giugno 1982, n. 400](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2075-716%20relativa%20al%20tenore%20di%20zolfo%20di%20taluni%20combustibili%20liquidi.md);
+Visto il [decreto del Presidente della Repubblica 8 giugno 1982, n. 400](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2075-716%20relativa%20al%20tenore%20di%20zolfo%20di%20taluni%20combustibili%20liquidi.md);
 
 Visto il decreto del Presidente del Consiglio dei Ministri 28 marzo 1983, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 145 del 28 maggio 1983;
 
@@ -78,7 +78,7 @@ L'immissione in commercio e l'utilizzazione del gasolio con contenuto di zolfo m
 
 1.
 
-Il sindaco dei comuni di cui all'art. 4, qualora, a causa di un mutamento improvviso nell'approvvigionamento di petrolio e di prodotti petroliferi, sopravvengano difficolta' alla disponibilita' di gasolio con contenuto di zolfo pari allo 0,2% in peso, puo' introdurre deroghe a quanto previsto dall'art. 4 del presente decreto per un periodo di tempo non superiore ad un mese, fermo restando il disposto dell'[art. 2 del decreto del Presidente della Repubblica 8 giugno 1982, n. 400](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2075-716%20relativa%20al%20tenore%20di%20zolfo%20di%20taluni%20combustibili%20liquidi.md).
+Il sindaco dei comuni di cui all'art. 4, qualora, a causa di un mutamento improvviso nell'approvvigionamento di petrolio e di prodotti petroliferi, sopravvengano difficolta' alla disponibilita' di gasolio con contenuto di zolfo pari allo 0,2% in peso, puo' introdurre deroghe a quanto previsto dall'art. 4 del presente decreto per un periodo di tempo non superiore ad un mese, fermo restando il disposto dell'[art. 2 del decreto del Presidente della Repubblica 8 giugno 1982, n. 400](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2075-716%20relativa%20al%20tenore%20di%20zolfo%20di%20taluni%20combustibili%20liquidi.md).
 
 2.
 

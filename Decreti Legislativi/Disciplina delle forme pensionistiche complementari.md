@@ -176,7 +176,7 @@ L'esercizio dell'attivita' dei fondi pensione di cui all'articolo 3, comma 1, le
 
 4.
 
-COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
+COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
 
 5.
 
@@ -311,19 +311,19 @@ Ai componenti dell'organo di controllo di cui al comma 1, si applicano gli [arti
 
 9.
 
-COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
+COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
 
 10.
 
-COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
+COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
 
 11.
 
-COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
+COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
 
 12.
 
-COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
+COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
 
 ## Art. 5-bis. — (( (Funzioni fondamentali). ))
 
@@ -610,7 +610,7 @@ Alle prestazioni di cui all'articolo 11 erogate sotto forma di rendita i fondi p
 
 4.
 
-COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
+COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
 
 5.
 
@@ -671,7 +671,7 @@ Con delibera della COVIP, assunta previo parere dell'autorita' di vigilanza sui 
 
 11.
 
-COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
+COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
 
 12.
 
@@ -2048,7 +2048,7 @@ La COVIP definisce con regolamento, nel rispetto dei commi da 1 a 7, la propria 
 
 9.
 
-La tutela giurisdizionale davanti al giudice amministrativo e' disciplinata dal [codice del processo amministrativo](../Codici/Attuazione%20dellarticolo%2044%20della%20legge%2018%20giugno%202009%20n.%2069%20recante%20delega%20al%20governo%20per%20il%20riordino%20del%20processo%20amministrativo.%2010G0127.md) ai sensi dell'articolo 133, comma 1, lettera l), del medesimo codice.
+La tutela giurisdizionale davanti al giudice amministrativo e' disciplinata dal [codice del processo amministrativo](Attuazione%20dellarticolo%2044%20della%20legge%2018%20giugno%202009%20n.%2069%20recante%20delega%20al%20governo%20per%20il%20riordino%20del%20processo%20amministrativo.%2010G0127.md) ai sensi dell'articolo 133, comma 1, lettera l), del medesimo codice.
 L'opposizione non sospende l'esecuzione del provvedimento.
 
 ))

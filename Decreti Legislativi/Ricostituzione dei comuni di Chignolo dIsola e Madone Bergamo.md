@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-I comuni di Chignolo d'Isola e Madone, riuniti in unico comune denominato Centrisola con [regio decreto 8 dicembre 1927, n. 2439](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Madone%20e%20di%20Chignolo%20dIsola%20in%20un%20unico%20Comune%20denominato%20%20Centrisola%20.%20027U2439.md), sono ricostituiti con la circoscrizione preesistente all'entrata in vigore del decreto medesimo. 
+I comuni di Chignolo d'Isola e Madone, riuniti in unico comune denominato Centrisola con [regio decreto 8 dicembre 1927, n. 2439](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Madone%20e%20di%20Chignolo%20dIsola%20in%20un%20unico%20Comune%20denominato%20%20Centrisola%20.%20027U2439.md), sono ricostituiti con la circoscrizione preesistente all'entrata in vigore del decreto medesimo. 
  Il Prefetto di Bergamo, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i Comuni interessati.
 
 ## Art. 2.

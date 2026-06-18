@@ -48,7 +48,7 @@ L'efficacia del [R. decreto-legge 24 luglio 1941, n. 781](../Atti%20normativi%20
 
 Fino a quando non venga diversamente stabilito, nelle ricorrenze dell'Anniversario della Liberazione (25 aprile), della Festa del Lavoro (1° maggio), dell'Anniversario della Vittoria in Europa (8 maggio), che sono dichiarate giorni festivi a tutti gli effetti civili, nell'anniversario della Vittoria della guerra 1915-18 (4 novembre), lo Stato, gli enti pubblici ed i privati datori di lavoro sono tenuti a corrispondere ai lavoratori da essi dipendenti, ancorche' non vi sia prestazione d'opera, la normale retribuzione giornaliera, compreso ogni elemento accessorio di questa.
  Ai lavoratori che, nei casi previsti, prestano la loro opera nelle suindicate solennita' e dovuta una doppia retribuzione nella misura anzidetta e con la maggiorazione per il lavoro festivo effettivamente prestato.
- In caso di trasgressione i datori di lavoro incorrono nelle sanzioni previste dal [primo comma dell'art. 509 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ In caso di trasgressione i datori di lavoro incorrono nelle sanzioni previste dal [primo comma dell'art. 509 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 4.
 

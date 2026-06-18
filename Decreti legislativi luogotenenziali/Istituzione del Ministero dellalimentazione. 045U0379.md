@@ -43,4 +43,4 @@ Atti del governo, registro n. 5, foglio n. 43 - Frasca
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. Luogotenenziale 22 dicembre 1945, n. 838](../Atti%20normativi%20abrogati%20%28in%20originale%29/Soppressione%20del%20Ministero%20dellalimentazione%20e%20istituzione%20di%20un%20Alto%20Commissariato%20per%20lalimentazione.md), ha disposto (con l'art. 1, comma 1) che "Il Ministero dell'alimentazione, istituito con il [decreto Luogotenenziale 21 giugno 1945, n. 379](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20del%20Ministero%20dellalimentazione.%20045U0379.md), e' soppresso".
+Il [D.Lgs. Luogotenenziale 22 dicembre 1945, n. 838](Soppressione%20del%20Ministero%20dellalimentazione%20e%20istituzione%20di%20un%20Alto%20Commissariato%20per%20lalimentazione.md), ha disposto (con l'art. 1, comma 1) che "Il Ministero dell'alimentazione, istituito con il [decreto Luogotenenziale 21 giugno 1945, n. 379](Istituzione%20del%20Ministero%20dellalimentazione.%20045U0379.md), e' soppresso".

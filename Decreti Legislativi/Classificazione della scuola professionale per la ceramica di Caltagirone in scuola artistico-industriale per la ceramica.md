@@ -59,7 +59,7 @@ Il ruolo organico del personale direttivo, insegnante, tecnico, di amministrazio
 
 ## Art. 5.
 
-Il personale insegnante e tecnico di ruolo e' nominato a ciascuno dei gradi indicati nell'articolo precedente secondo le norme stabilite dal [regio decreto 30 dicembre 1923, n. 3144](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20gerarchico%20del%20personale%20delle%20Regie%20scuole%20industriali.%20023U3144.md), modificate, per quel che riguarda il personale insegnante, dall'[art. 3 del regio decreto-legge 11 febbraio 1926, n. 217](../Atti%20normativi%20abrogati%20%28in%20originale%29/Miglioramento%20economico%20del%20personale%20delle%20Regie%20scuole%20medie%20professionali.%20026U0217.md).
+Il personale insegnante e tecnico di ruolo e' nominato a ciascuno dei gradi indicati nell'articolo precedente secondo le norme stabilite dal [regio decreto 30 dicembre 1923, n. 3144](../Regi%20decreti/Ordinamento%20gerarchico%20del%20personale%20delle%20Regie%20scuole%20industriali.%20023U3144.md), modificate, per quel che riguarda il personale insegnante, dall'[art. 3 del regio decreto-legge 11 febbraio 1926, n. 217](../Atti%20normativi%20abrogati%20%28in%20originale%29/Miglioramento%20economico%20del%20personale%20delle%20Regie%20scuole%20medie%20professionali.%20026U0217.md).
  Il direttore viene confermato nel posto dopo un triennio di esperimento e previo favorevole risultato di apposita ispezione.
  Il personale titolare insegnante, tecnico, amministrativo e di servizio e' confermato nel posto dopo un triennio di esperimento e previo favorevole risultato di apposita ispezione.
  Il trattamento economico del personale non di ruolo e' quello stabilito dai [decreti legislativi del Capo provvisorio dello Stato 29 maggio 1947, n. 595](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-05-29;595) e [4 aprile 1947, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-04-04;207).
@@ -67,7 +67,7 @@ Il personale insegnante e tecnico di ruolo e' nominato a ciascuno dei gradi indi
 
 ## Art. 6.
 
-Fintantoche' non verranno emanate nuove disposizioni di carattere generale sul funzionamento didattico, disciplinare e amministrativo degli istituti e delle scuole d'arte, la scuola artistico-industriale per la ceramica di Caltagirone funzionera', secondo le norme di cui al [regio decreto 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md) e del relativo regolamento approvato con il [regio decreto 3 giugno 1924, n. 969](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20listruzione%20industriale%20in%20applicazione%20del%20R.%20decreto%2031%20ottobre%201923%20n.%202523.%20024U0969.md) e relative estensioni e modificazioni.
+Fintantoche' non verranno emanate nuove disposizioni di carattere generale sul funzionamento didattico, disciplinare e amministrativo degli istituti e delle scuole d'arte, la scuola artistico-industriale per la ceramica di Caltagirone funzionera', secondo le norme di cui al [regio decreto 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md) e del relativo regolamento approvato con il [regio decreto 3 giugno 1924, n. 969](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20listruzione%20industriale%20in%20applicazione%20del%20R.%20decreto%2031%20ottobre%201923%20n.%202523.%20024U0969.md) e relative estensioni e modificazioni.
 
 ## Art. 7.
 

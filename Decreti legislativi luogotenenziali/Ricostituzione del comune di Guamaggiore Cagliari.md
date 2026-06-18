@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 27 settembre 1928, n. 2372](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Guamaggiore%20Ortacesus%20e%20Selegas%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20Selegas.%20028U2372.md);
+Visto il [R. decreto 27 settembre 1928, n. 2372](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Guamaggiore%20Ortacesus%20e%20Selegas%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20Selegas.%20028U2372.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno; Abb
 
 ## Art. 1.
 
-Il comune di Guamaggiore, aggregato con [R. decreto 27 settembre 1928, n. 2372](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Guamaggiore%20Ortacesus%20e%20Selegas%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20Selegas.%20028U2372.md), al comune di Selegas, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo. 
+Il comune di Guamaggiore, aggregato con [R. decreto 27 settembre 1928, n. 2372](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Guamaggiore%20Ortacesus%20e%20Selegas%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20Selegas.%20028U2372.md), al comune di Selegas, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo. 
  Il Prefetto di Cagliari, sentita' la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i comuni di Selegas e Guamaggiore.
 
 ## Art. 2.

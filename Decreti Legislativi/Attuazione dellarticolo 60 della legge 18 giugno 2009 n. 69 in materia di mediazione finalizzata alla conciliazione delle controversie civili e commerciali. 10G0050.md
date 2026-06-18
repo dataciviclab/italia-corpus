@@ -206,13 +206,13 @@ Il [D.L. 21 giugno 2013, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 6 agosto 2015, n. 130](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-11-UE%20sulla%20risoluzione%20alternativa%20delle%20controversie%20dei%20consumatori%20che%20modifica%20il%20regolamento%20CE%20n.%202006-2004%20e%20la%20direttiva%202009-22-CE%20direttiva%20sull_9fb80112dd9d.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto, concernenti l'attuazione del regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio, del 21 maggio 2013, relativo alla risoluzione delle controversie online dei consumatori, si applicano a decorrere dal 9 gennaio 2016".
+Il [D.Lgs. 6 agosto 2015, n. 130](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-11-UE%20sulla%20risoluzione%20alternativa%20delle%20controversie%20dei%20consumatori%20che%20modifica%20il%20regolamento%20CE%20n.%202006-2004%20e%20la%20direttiva%202009-22-CE%20direttiva%20sull_9fb80112dd9d.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto, concernenti l'attuazione del regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio, del 21 maggio 2013, relativo alla risoluzione delle controversie online dei consumatori, si applicano a decorrere dal 9 gennaio 2016".
 
 -------------
 
 AGGIORNAMENTO (8)
 
-Il [D.Lgs. 21 maggio 2018, n. 68](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202016-97%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20gennaio%202016%20relativa%20alla%20distribuzione%20assicurativa.%2018G00095.md) ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla [direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2018;411), che modifica la [direttiva (UE) 2016/97](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2016;97) per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+Il [D.Lgs. 21 maggio 2018, n. 68](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202016-97%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20gennaio%202016%20relativa%20alla%20distribuzione%20assicurativa.%2018G00095.md) ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla [direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2018;411), che modifica la [direttiva (UE) 2016/97](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2016;97) per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
 
 -------------
 
@@ -230,7 +230,7 @@ Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedim
 
 AGGIORNAMENTO (11)
 
-Il [D.Lgs. 10 marzo 2023, n. 28](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202020-1828%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202020%20relativa%20alle%20azioni%20rappresentative%20a%20tutela%20degli%20interessi%20collettivi%20dei%20consumator_1964ae97a0e7.md), ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 25 giugno 2023".
+Il [D.Lgs. 10 marzo 2023, n. 28](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202020-1828%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202020%20relativa%20alle%20azioni%20rappresentative%20a%20tutela%20degli%20interessi%20collettivi%20dei%20consumator_1964ae97a0e7.md), ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 25 giugno 2023".
 
 ### Art. 5-bis. — (Procedimento di opposizione a decreto ingiuntivo)
 

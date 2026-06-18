@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 in virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 14 aprile 1927, n. 598](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Sorrento%20Piano%20di%20Sorrento%20SantAgnello%20e%20Meta%20in%20un%20unico%20Comune%20denominato%20Sorrento.%20027U0598.md);
+Visto il [R. decreto 14 aprile 1927, n. 598](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Sorrento%20Piano%20di%20Sorrento%20SantAgnello%20e%20Meta%20in%20un%20unico%20Comune%20denominato%20Sorrento.%20027U0598.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -34,7 +34,7 @@ I comuni di Sorrento, Piano di Sorrento, Meta e S. Agnello, fusi in unico Comune
 ## Art. 2.
 
 Gli organici dei ricostituiti comuni di Sorrento, Piano di Sorrento, Meta e S. Agnello, saranno stabiliti dal Prefetto, sentita la Giunta provinciale amministrativa. 
- Il numero dei posti ed i gradi relativi non potranno essere superiori, rispettivamente, a quelli organicamente assegnati ai Comuni predetti anteriormente alla loro fusione disposta con [R. decreto 14 aprile 1927, n. 598](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Sorrento%20Piano%20di%20Sorrento%20SantAgnello%20e%20Meta%20in%20un%20unico%20Comune%20denominato%20Sorrento.%20027U0598.md). 
+ Il numero dei posti ed i gradi relativi non potranno essere superiori, rispettivamente, a quelli organicamente assegnati ai Comuni predetti anteriormente alla loro fusione disposta con [R. decreto 14 aprile 1927, n. 598](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Sorrento%20Piano%20di%20Sorrento%20SantAgnello%20e%20Meta%20in%20un%20unico%20Comune%20denominato%20Sorrento.%20027U0598.md). 
  Al personale gia' in servizio presso il comune di Sorrento che eventualmente sara' inquadrato nei predetti organici, non potranno essere attribuiti posizione gerarchica e trattamento economico superiori a quelli goduti all'atto dell'inquadramento medesimo.
 
 ## Art. 3.

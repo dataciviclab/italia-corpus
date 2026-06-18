@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la [legge 28 aprile 2014, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-04-28;67), recante «Deleghe al Governo in materia di pene detentive non carcerarie e di riforma del sistema sanzionatorio. Disposizioni in materia di sospensione del procedimento con messa alla prova e nei confronti degli irreperibili», e in particolare l'articolo 2, comma 2;
 
-Visto il [regio decreto 19 ottobre 1930, n. 1398](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), recante «Approvazione del testo definitivo del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)»;
+Visto il [regio decreto 19 ottobre 1930, n. 1398](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), recante «Approvazione del testo definitivo del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)»;
 
 Vista la [legge 8 gennaio 1931, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-01-08;234), recante «Norme per l'impianto e l'uso di apparecchi radioelettrici privati e per il rilascio delle licenze di costruzione, vendita e montaggio di materiali radioelettrici»;
 
@@ -58,7 +58,7 @@ La disposizione del comma 1 si applica anche ai reati in esso previsti che, nell
 
 3.
 
-La disposizione del comma 1 non si applica ai reati previsti dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), fatto salvo quanto previsto dall'articolo 2, comma 6, e a quelli compresi nell'elenco allegato al presente decreto.
+La disposizione del comma 1 non si applica ai reati previsti dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), fatto salvo quanto previsto dall'articolo 2, comma 6, e a quelli compresi nell'elenco allegato al presente decreto.
 
 4.
 
@@ -82,7 +82,7 @@ Se per le violazioni previste dal comma 1 e' prevista una pena pecuniaria propor
 
 1.
 
-All'[articolo 527 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono apportate le seguenti modificazioni:
+All'[articolo 527 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono apportate le seguenti modificazioni:
                         a)
                             nel primo comma, le parole «e' punito con la reclusione da tre mesi a tre anni» sono sostituite dalle seguenti: «e' soggetto alla sanzione amministrativa pecuniaria da euro 5.000 a euro 30.000»;
                         b)
@@ -90,7 +90,7 @@ All'[articolo 527 del codice penale](../Codici/Approvazione%20del%20testo%20defi
 
 2.
 
-All'[articolo 528 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono apportate le seguenti modificazioni:
+All'[articolo 528 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono apportate le seguenti modificazioni:
                         a)
                             nel primo comma, le parole «e' punito con la reclusione da tre mesi a tre anni e con la multa non inferiore a euro 103» sono sostituite dalle seguenti: «e' soggetto alla sanzione amministrativa pecuniaria da euro 10.000 a euro 50.000»;
                         b)
@@ -100,7 +100,7 @@ All'[articolo 528 del codice penale](../Codici/Approvazione%20del%20testo%20defi
 
 3.
 
-All'[articolo 652 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono apportate le seguenti modificazioni:
+All'[articolo 652 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono apportate le seguenti modificazioni:
                         a)
                             nel primo comma, le parole «e' punito con l'arresto fino a tre mesi o con l'ammenda fino a euro 309» sono sostituite dalle seguenti: «e' soggetto alla sanzione amministrativa pecuniaria da euro 5.000 a euro 15.000»;
                         b)
@@ -108,11 +108,11 @@ All'[articolo 652 del codice penale](../Codici/Approvazione%20del%20testo%20defi
 
 4.
 
-All'[articolo 661 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), le parole «e' punito» sono sostituite con le seguenti: «e' soggetto» e le parole «con l'arresto fino a tre mesi o con l'ammenda fino a euro 1.032» sono sostituite dalle seguenti: «alla sanzione amministrativa pecuniaria da euro 5.000 a euro 15.000».
+All'[articolo 661 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), le parole «e' punito» sono sostituite con le seguenti: «e' soggetto» e le parole «con l'arresto fino a tre mesi o con l'ammenda fino a euro 1.032» sono sostituite dalle seguenti: «alla sanzione amministrativa pecuniaria da euro 5.000 a euro 15.000».
 
 5.
 
-All'[articolo 668 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono apportate le seguenti modificazioni:
+All'[articolo 668 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono apportate le seguenti modificazioni:
                         a)
                             nel primo comma, le parole «e' punito con l'arresto fino a sei mesi o con l'ammenda fino a euro 309» sono sostituite dalle seguenti: «e' soggetto alla sanzione amministrativa pecuniaria da euro 5.000 a euro 15.000»;
                         b)
@@ -122,10 +122,10 @@ All'[articolo 668 del codice penale](../Codici/Approvazione%20del%20testo%20defi
 
 6.
 
-L'[articolo 726 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' sostituito dal seguente: «Chiunque, in un luogo pubblico o aperto o esposto al pubblico, compie atti contrari alla pubblica decenza e' soggetto alla sanzione amministrativa pecuniaria da euro 5.000 a euro 10.000».
+L'[articolo 726 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' sostituito dal seguente: «Chiunque, in un luogo pubblico o aperto o esposto al pubblico, compie atti contrari alla pubblica decenza e' soggetto alla sanzione amministrativa pecuniaria da euro 5.000 a euro 10.000».
 
 Note all'art. 2: 
- - Si riporta il testo degli [articoli 527](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [528](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [652](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [661](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [668 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificati dal presente decreto legislativo: 
+ - Si riporta il testo degli [articoli 527](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [528](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [652](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [661](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [668 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificati dal presente decreto legislativo: 
  "Art. 527. Atti osceni. 
  Chiunque, in luogo pubblico o aperto o esposto al pubblico, compie atti osceni e' soggetto alla sanzione amministrativa pecuniaria da euro 5.000 a euro 30.000. 
  Si applica la pena della reclusione da quattro mesi a quattro anni e sei mesi se il fatto e' commesso all'interno o nelle immediate vicinanze di luoghi abitualmente frequentati da minori e se da cio' deriva il pericolo che essi vi assistano. 
@@ -202,7 +202,7 @@ Note all'art. 3:
  Le licenze contemplate nei precedenti articoli possono essere sospese o revocate per abuso del titolare o quando questi non abbia piu' i prescritti requisiti, senza pregiudizio della applicazione delle sanzioni penali, qualora si tratti di fatti costituenti reato , o delle sanzioni amministrative pecuniarie, qualora si tratti di illeciti amministrativi. 
  Il provvedimento di sospensione o di revoca e' disposto dal Ministero delle comunicazioni, di concerto col Ministero dell'interno. In caso di urgenza, la sospensione puo' essere disposta anche dal Prefetto." 
  "Art. 11. 
- Le violazioni delle disposizioni dell' [art. 1 del R. decreto 8 febbraio 1923, n. 1067](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20reca%20norme%20per%20il%20servizio%20delle%20comunicazioni%20senza%20filo.%20023U1067.md) , e della presente legge sono punite, ove non costituiscono reato, con la sanzione amministrativa pecuniaria da euro 10.000 a euro 50.000. 
+ Le violazioni delle disposizioni dell' [art. 1 del R. decreto 8 febbraio 1923, n. 1067](../Regi%20decreti/Che%20reca%20norme%20per%20il%20servizio%20delle%20comunicazioni%20senza%20filo.%20023U1067.md) , e della presente legge sono punite, ove non costituiscono reato, con la sanzione amministrativa pecuniaria da euro 10.000 a euro 50.000. 
  Chiunque commette la violazione indicata nel primo comma, dopo aver commesso la stessa violazione accertata con provvedimento esecutivo, e' punito con l'arresto fino a tre anni o con l'ammenda da euro 30 a euro 309. 
  Si fa luogo a confisca amministrativa, degli apparecchi abusivamente detenuti o dei quali si sia fatto indebito uso.". 
  - Si riporta il testo degli [articoli 171-quater](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633#art_171quater) e [171-sexies della legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633#art_171sexies) (Protezione del diritto d'autore e di altri diritti connessi al suo esercizio), come modificati dal presente decreto legislativo: 
@@ -218,7 +218,7 @@ Note all'art. 3:
  "Art. 3. Chiunque omette di fare nel termine prescritto la denunzia prevista dall'art. 1 e' soggetto alla sanzione amministrativa pecuniaria da euro 10.000 a euro 50.000. Ove l'omissione risulti colposa si applica la sanzione amministrativa pecuniaria da euro 10.000 a euro 30.000.". 
  - Si riporta il testo dell'[articolo 15 della legge 28 novembre 1965, n. 1329](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-11-28;1329#art_15) (Provvedimenti per l'acquisto di nuove macchine utensili), come modificato dal presente decreto legislativo: 
  "Art.15. 
- Chiunque alteri, cancelli o renda irriconoscibile il contrassegno apposto su di una macchina ai sensi della presente legge ovvero alteri il contenuto del certificato di origine della macchina, e' punito ai sensi dell'[art. 469 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). Alla stessa pena soggiace chiunque, non essendo concorso nel fatto, fa uso del certificato alterato o della macchina di cui sia stato alterato, cancellato o reso irriconoscibile il contrassegno. 
+ Chiunque alteri, cancelli o renda irriconoscibile il contrassegno apposto su di una macchina ai sensi della presente legge ovvero alteri il contenuto del certificato di origine della macchina, e' punito ai sensi dell'[art. 469 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). Alla stessa pena soggiace chiunque, non essendo concorso nel fatto, fa uso del certificato alterato o della macchina di cui sia stato alterato, cancellato o reso irriconoscibile il contrassegno. 
  Chiunque ometta di far ripristinare il contrassegno alterato, cancellato, o reso irriconoscibile da altri, apposto su macchina di cui egli abbia il possesso o la detenzione, ovvero ometta di comunicare al cancelliere del tribunale indicato nel contrassegno, l'alterazione, la cancellazione, o la intervenuta irriconoscibilita', e' soggetto alla sanzione amministrativa pecuniaria da euro 5.000 a euro 15.000.". 
  - Si riporta il testo dell'[articolo 28 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md) (Testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza), come modificato dal presente decreto legislativo: 
  "[Art. 28 (Legge 22 dicembre 1975, n. 685](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-12-22;685#art_28), [art. 28 - decreto-legge 22 aprile 1985, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-04-22;144#art_28), convertito, con modificazioni, dalla [legge 21 giugno 1985, n. 297, art. 3, comma 4](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20aprile%201985%20n.%20144%20recante%20norme%20per%20la%20erogazione%20di%20contributi%20finalizzati%20al%20sostegno%20delle%20attivita%20di%20prevenzione%20e%20reinse_eef1a4218c26.md) - [legge 26 giugno 1990, n. 162, art. 32, comma 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-26;162#art_32-com1))Sanzioni 
@@ -232,7 +232,7 @@ Note all'art. 3:
 
 In caso di reiterazione specifica di una delle violazioni di seguito indicate, l'autorita' amministrativa competente, con l'ordinanza ingiunzione, applica la sanzione amministrativa accessoria della sospensione della concessione, della licenza, dell'autorizzazione o di altro provvedimento amministrativo che consente l'esercizio dell'attivita' da un minimo di dieci giorni a un massimo di tre mesi:
                         a)
-                            [articolo 668 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+                            [articolo 668 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
                         b)
                             [articolo 171-quater della legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633#art_171quater);
                         c)
@@ -246,8 +246,8 @@ Allo stesso modo provvede il giudice con la sentenza di condanna qualora sia com
 
 Per gli illeciti amministrativi di cui al comma 1, in caso di reiterazione specifica, non e' ammesso il pagamento in misura ridotta ai sensi dell'[articolo 16 della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_16).
 
-Note all'[art. 4](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md): 
- - Per l'[articolo 668 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) si veda nelle note all'articolo 2 del presente decreto. 
+Note all'[art. 4](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md): 
+ - Per l'[articolo 668 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) si veda nelle note all'articolo 2 del presente decreto. 
  - Per gli articoli 171-quater della citata [legge 22 aprile 1941, n. 633 e l'articolo 28, comma 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633#art_28-com2) del citato [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), si veda nelle note all'articolo 3 del presente decreto. 
  - Per gli [articoli 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_16) e [24 della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_24) (Modifiche al sistema penale), vedi note all'articolo 6 del presente decreto.
 
@@ -326,10 +326,10 @@ Se i procedimenti penali per i reati depenalizzati dal presente decreto sono sta
 
 3.
 
-Ai fatti commessi prima della data di entrata in vigore del presente decreto non puo' essere applicata una sanzione amministrativa pecuniaria per un importo superiore al massimo della pena originariamente inflitta per il reato, tenuto conto del criterio di ragguaglio di cui all'[articolo 135 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). A tali fatti non si applicano le sanzioni amministrative accessorie introdotte dal presente decreto, salvo che le stesse sostituiscano corrispondenti pene accessorie.
+Ai fatti commessi prima della data di entrata in vigore del presente decreto non puo' essere applicata una sanzione amministrativa pecuniaria per un importo superiore al massimo della pena originariamente inflitta per il reato, tenuto conto del criterio di ragguaglio di cui all'[articolo 135 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). A tali fatti non si applicano le sanzioni amministrative accessorie introdotte dal presente decreto, salvo che le stesse sostituiscano corrispondenti pene accessorie.
 
 Note all'art. 8: 
- - Si riporta il testo degli [articoli 135 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [667, comma 4, del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_667-com4): 
+ - Si riporta il testo degli [articoli 135 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [667, comma 4, del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_667-com4): 
  "Art. 135. Ragguaglio fra pene pecuniarie e pene detentive. 
  Quando, per qualsiasi effetto giuridico, si deve eseguire un ragguaglio fra pene pecuniarie e pene detentive, il computo ha luogo calcolando euro 250, o frazione di euro 250, di pena pecuniaria per un giorno di pena detentiva. " 
  "Art. 667. Dubbio sull'identita' fisica della persona detenuta. 

@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Il compenso di cui al [decreto legislativo luogotenenziale 12 ottobre 1945, n. 711](../Atti%20normativi%20abrogati%20%28in%20originale%29/Compenso%20per%20le%20notificazioni%20degli%20atti%20dellAmministrazione%20finanziaria%20relativi%20allaccertamento%20ed%20alla%20liquidazione%20dalle%20imposte%20dirette%20e%20delle%20tasse%20e%20imposti%20indirette%20sugli%20affari.%20045U0711.md), dovuto ai messi notificatori, ai messi comunali e agli agenti degli Uffici finanziari provinciali per la notificazione di qualsiasi atto della Amministrazione finanziaria, relativo all'accertamento ed alla liquidazione delle imposte dirette e delle tasse e imposte indirette sugli affari, e' fissato in L. 4 quando la notifica e' eseguita nei Comuni con popolazione fino a 100.000 abitanti e in L. 8 negli altri casi. (1) ((2))
+Il compenso di cui al [decreto legislativo luogotenenziale 12 ottobre 1945, n. 711](../Decreti%20legislativi%20luogotenenziali/Compenso%20per%20le%20notificazioni%20degli%20atti%20dellAmministrazione%20finanziaria%20relativi%20allaccertamento%20ed%20alla%20liquidazione%20dalle%20imposte%20dirette%20e%20delle%20tasse%20e%20imposti%20indirette%20sugli%20affari.%20045U0711.md), dovuto ai messi notificatori, ai messi comunali e agli agenti degli Uffici finanziari provinciali per la notificazione di qualsiasi atto della Amministrazione finanziaria, relativo all'accertamento ed alla liquidazione delle imposte dirette e delle tasse e imposte indirette sugli affari, e' fissato in L. 4 quando la notifica e' eseguita nei Comuni con popolazione fino a 100.000 abitanti e in L. 8 negli altri casi. (1) ((2))
 
 -----------------
 

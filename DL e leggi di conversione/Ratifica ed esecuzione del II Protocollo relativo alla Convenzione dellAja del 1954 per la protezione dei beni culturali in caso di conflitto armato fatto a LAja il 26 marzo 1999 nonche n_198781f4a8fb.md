@@ -60,7 +60,7 @@ Ai fini dell'adozione delle misure propedeutiche di salvaguardia dei beni cultur
 
 1.
 
-Nell'ambito dei beni appartenenti al patrimonio culturale nazionale, sottoposti alle misure di tutela previste dal [codice dei beni culturali e del paesaggio](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), di cui al [decreto legislativo 22 gennaio 2004, n. 42](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), il Ministero per i beni e le attivita' culturali individua i beni, di proprieta' pubblica e privata, in possesso dei requisiti di cui all'articolo 10 del Protocollo da inserire nella lista indicata all'articolo 11, paragrafo 1, del Protocollo, in quanto meritevoli di tutela rafforzata in virtu' della loro massima importanza per l'umanita', sentito il Ministero della difesa in ordine al requisito di cui all'articolo 10, lettera c), del Protocollo.
+Nell'ambito dei beni appartenenti al patrimonio culturale nazionale, sottoposti alle misure di tutela previste dal [codice dei beni culturali e del paesaggio](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), di cui al [decreto legislativo 22 gennaio 2004, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), il Ministero per i beni e le attivita' culturali individua i beni, di proprieta' pubblica e privata, in possesso dei requisiti di cui all'articolo 10 del Protocollo da inserire nella lista indicata all'articolo 11, paragrafo 1, del Protocollo, in quanto meritevoli di tutela rafforzata in virtu' della loro massima importanza per l'umanita', sentito il Ministero della difesa in ordine al requisito di cui all'articolo 10, lettera c), del Protocollo.
 
 ## Art. 6. — Ambito di applicazione
 
@@ -162,7 +162,7 @@ Non e' punibile chi commette i fatti di cui agli articoli 7 e 8 per esservi cost
 
 1.
 
-I reati di cui agli articoli 7, 8, 9, 10, 11 e 12 sono reati militari. Si applica l'[articolo 27, primo comma, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace.
+I reati di cui agli articoli 7, 8, 9, 10, 11 e 12 sono reati militari. Si applica l'[articolo 27, primo comma, del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace.
 
 2.
 

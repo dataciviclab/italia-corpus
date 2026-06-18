@@ -208,7 +208,7 @@ Le spese relative al rilascio dei certificati complementari, di cui al comma 1 d
 
 Nota all'art. 8:
  - Si riporta il testo dell'art. 25 del citato [decreto legislativo n. 46 del 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;46):
- «Art. 25 (Norma di rinvio). - 1. Alle procedure di valutazione della conformita' dei dispositivi disciplinati dal presente decreto, a quelle finalizzate alla designazione degli organismi, alla vigilanza sugli organismi stessi, nonche' all'effettuazione dei controlli sui prodotti si applicano le disposizioni dell'[art. 47 della legge 6 febbraio 1996, n. 52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md).».
+ «Art. 25 (Norma di rinvio). - 1. Alle procedure di valutazione della conformita' dei dispositivi disciplinati dal presente decreto, a quelle finalizzate alla designazione degli organismi, alla vigilanza sugli organismi stessi, nonche' all'effettuazione dei controlli sui prodotti si applicano le disposizioni dell'[art. 47 della legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md).».
 
 ## Art. 9. — Disposizioni finali ed entrata in vigore
 

@@ -63,7 +63,7 @@ Il contributo da corrispondere all'Azienda nazionale autonoma delle strade stata
 ## Art. 10.
 
 Per l'esercizio finanziario 1947-48 l'assegnazione a favore dell'Istituto Centrale di Statistica, di cui alla [legge 9 luglio 1926, n. 1162](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20del%20servizio%20statistico.%20026U1162.md), e' autorizzata in L. 327.288.000.
- Nella suddetta somma sono comprese anche le assegnazioni: di L. 540.000 concessa ai sensi del [regio decreto 2 giugno 1927, n. 1035](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasferimento%20del%20servizio%20di%20statistica%20agraria%20e%20forestale%20allIstituto%20centrale%20di%20statistica.%20027U1035.md), per le spese di formazione delle statistiche agrarie e forestali e di L. 150.000 prevista dal [regio decreto 8 giugno 1933, n. 697](../Regi%20decreti/Passaggio%20allistituto%20centrale%20di%20statistica%20del%20servizio%20della%20statistica%20del%20lavoro%20italiano%20allestero.%20033U0697.md), per il servizio della statistica del lavoro italiano all'estero.
+ Nella suddetta somma sono comprese anche le assegnazioni: di L. 540.000 concessa ai sensi del [regio decreto 2 giugno 1927, n. 1035](../Regi%20decreti/Trasferimento%20del%20servizio%20di%20statistica%20agraria%20e%20forestale%20allIstituto%20centrale%20di%20statistica.%20027U1035.md), per le spese di formazione delle statistiche agrarie e forestali e di L. 150.000 prevista dal [regio decreto 8 giugno 1933, n. 697](../Regi%20decreti/Passaggio%20allistituto%20centrale%20di%20statistica%20del%20servizio%20della%20statistica%20del%20lavoro%20italiano%20allestero.%20033U0697.md), per il servizio della statistica del lavoro italiano all'estero.
 
 ## Art. 11.
 

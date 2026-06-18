@@ -20,7 +20,7 @@ Visto l'[art. 8 del R. decreto-legge 30 dicembre 1926, n. 2288](../Atti%20normat
 
 Visto l'[art. 5 del R. decreto-legge 3 marzo 1931, numero 324](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-03-03;324#art_5);
 
-Visto il [R. decreto 28 agosto 1931, n. 1302](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dello%20statuto%20dellEnte%20nazionale%20fascista%20della%20Cooperazione.%20031U1302.md), che approva lo statuto per l'Ente predetto;
+Visto il [R. decreto 28 agosto 1931, n. 1302](../Regi%20decreti/Approvazione%20dello%20statuto%20dellEnte%20nazionale%20fascista%20della%20Cooperazione.%20031U1302.md), che approva lo statuto per l'Ente predetto;
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 

@@ -14,9 +14,9 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Visto l'[articolo 14 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_14);
 
-Vista la [legge 23 giugno 2017, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-06-23;103), recante modifiche al [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), al [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) e all'ordinamento penitenziario, contenente la delega al Governo per la modifica della disciplina del regime di procedibilita' per taluni reati, e, in particolare l'articolo 1, commi 16, lettere a) e b), e 17;
+Vista la [legge 23 giugno 2017, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-06-23;103), recante modifiche al [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), al [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) e all'ordinamento penitenziario, contenente la delega al Governo per la modifica della disciplina del regime di procedibilita' per taluni reati, e, in particolare l'articolo 1, commi 16, lettere a) e b), e 17;
 
-Visto il [regio decreto 19 ottobre 1930, n. 1398](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), recante approvazione del testo definitivo del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+Visto il [regio decreto 19 ottobre 1930, n. 1398](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), recante approvazione del testo definitivo del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
 
 Vista la preliminare deliberazione del Consiglio dei ministri, adottata nella riunione del 2 novembre 2017;
 
@@ -36,7 +36,7 @@ Emana il seguente decreto legislativo:
 
 1.
 
-All'[articolo 612 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con [regio decreto 19 ottobre 1930, n. 1398](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sono apportate le seguenti modificazioni:
+All'[articolo 612 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con [regio decreto 19 ottobre 1930, n. 1398](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sono apportate le seguenti modificazioni:
                         a)
                             al secondo comma, le parole: «e si procede d'ufficio» sono soppresse;
                         b)
@@ -53,11 +53,11 @@ NOTE
  2. L'emanazione del decreto legislativo deve avvenire entro il termine fissato dalla legge di delegazione; il testo del decreto legislativo adottato dal Governo e' trasmesso al Presidente della Repubblica, per la emanazione, almeno venti giorni prima della scadenza. 
  3. Se la delega legislativa si riferisce ad una pluralita' di oggetti distinti suscettibili di separata disciplina, il Governo puo' esercitarla mediante piu' atti successivi per uno o piu' degli oggetti predetti. In relazione al termine finale stabilito dalla legge di delegazione, il Governo informa periodicamente le Camere sui criteri che segue nell'organizzazione dell'esercizio della delega. 
  4. In ogni caso, qualora il termine previsto per l'esercizio della delega ecceda i due anni, il Governo e' tenuto a richiedere il parere delle Camere sugli schemi dei decreti delegati. Il parere e' espresso dalle Commissioni permanenti delle due Camere competenti per materia entro sessanta giorni, indicando specificamente le eventuali disposizioni non ritenute corrispondenti alle direttive della legge di delegazione. Il Governo, nei trenta giorni successivi, esaminato il parere, ritrasmette, con le sue osservazioni e con eventuali modificazioni, i testi alle Commissioni per il parere definitivo che deve essere espresso entro trenta giorni.». 
- - Si riporta il testo dell'articolo 1, commi 16, lettere a) e b), e 17 della [legge 23 giugno 2017, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-06-23;103) (Modifiche al [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), al [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) e all'ordinamento penitenziario), pubblicata nella Gazzetta Ufficiale 4 luglio 2017, n. 154: 
- «16. Il Governo e' delegato ad adottare, nel termine di un anno dalla data di entrata in vigore della presente legge, decreti legislativi per la modifica della disciplina del regime di procedibilita' per taluni reati e delle misure di sicurezza personali e per il riordino di alcuni settori del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), secondo i seguenti principi e criteri direttivi: 
- a) prevedere la procedibilita' a querela per i reati contro la persona puniti con la sola pena edittale pecuniaria o con la pena edittale detentiva non superiore nel massimo a quattro anni, sola, congiunta o alternativa alla pena pecuniaria, fatta eccezione per il delitto di cui all'[articolo 610 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e per i reati contro il patrimonio previsti dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), salva in ogni caso la procedibilita' d'ufficio qualora ricorra una delle seguenti condizioni: 
+ - Si riporta il testo dell'articolo 1, commi 16, lettere a) e b), e 17 della [legge 23 giugno 2017, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-06-23;103) (Modifiche al [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), al [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) e all'ordinamento penitenziario), pubblicata nella Gazzetta Ufficiale 4 luglio 2017, n. 154: 
+ «16. Il Governo e' delegato ad adottare, nel termine di un anno dalla data di entrata in vigore della presente legge, decreti legislativi per la modifica della disciplina del regime di procedibilita' per taluni reati e delle misure di sicurezza personali e per il riordino di alcuni settori del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), secondo i seguenti principi e criteri direttivi: 
+ a) prevedere la procedibilita' a querela per i reati contro la persona puniti con la sola pena edittale pecuniaria o con la pena edittale detentiva non superiore nel massimo a quattro anni, sola, congiunta o alternativa alla pena pecuniaria, fatta eccezione per il delitto di cui all'[articolo 610 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e per i reati contro il patrimonio previsti dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), salva in ogni caso la procedibilita' d'ufficio qualora ricorra una delle seguenti condizioni: 
  1) la persona offesa sia incapace per eta' o per infermita'; 
- 2) ricorrano circostanze aggravanti ad effetto speciale ovvero le circostanze indicate nell'[articolo 339 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ 2) ricorrano circostanze aggravanti ad effetto speciale ovvero le circostanze indicate nell'[articolo 339 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  3) nei reati contro il patrimonio, il danno arrecato alla persona offesa sia di rilevante gravita'; 
  b) prevedere che, per i reati perseguibili a querela ai sensi della lettera a), commessi prima della data di entrata in vigore delle disposizioni emanate in attuazione della medesima lettera a), il termine per presentare la querela decorre dalla predetta data, se la persona offesa ha avuto in precedenza notizia del fatto costituente reato; prevedere che, se e' pendente il procedimento, il pubblico ministero o il giudice informa la persona offesa dal reato della facolta' di esercitare il diritto di querela e il termine decorre dal giorno in cui la persona offesa e' stata informata; 
  (Omissis). 
@@ -65,7 +65,7 @@ NOTE
  (Omissis).». 
  
  Note all'art. 1: 
- - Si riporta il testo dell'[articolo 612 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
+ - Si riporta il testo dell'[articolo 612 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
  «Art. 612 (Minaccia). - Chiunque minaccia ad altri un ingiusto danno e' punito, a querela della persona offesa, con la multa fino a euro 1.032. 
  Se la minaccia e' grave, o e' fatta in uno dei modi indicati nell'articolo 339, la pena e' della reclusione fino a un anno. 
  Si procede d'ufficio se la minaccia e' fatta in uno dei modi indicati nell'articolo 339.».
@@ -75,10 +75,10 @@ NOTE
 
 1.
 
-All'[articolo 615 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con [regio decreto 19 ottobre 1930, n. 1398](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dopo il secondo comma e' aggiunto il seguente: «Nel caso previsto dal secondo comma il delitto e' punibile a querela della persona offesa.».
+All'[articolo 615 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con [regio decreto 19 ottobre 1930, n. 1398](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dopo il secondo comma e' aggiunto il seguente: «Nel caso previsto dal secondo comma il delitto e' punibile a querela della persona offesa.».
 
 Note all'art. 2: 
- - Si riporta il testo dell'[articolo 615 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
+ - Si riporta il testo dell'[articolo 615 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
  «Art. 615 (Violazione di domicilio commessa da un pubblico ufficiale).- Il pubblico ufficiale, che, abusando dei poteri inerenti alle sue funzioni, s'introduce o si trattiene nei luoghi indicati nell'articolo precedente, e' punito con la reclusione da uno a cinque anni. 
  Se l'abuso consiste nell'introdursi nei detti luoghi senza l'osservanza delle formalita' prescritte dalla legge, la pena e' della reclusione fino a un anno. 
  Nel caso previsto dal secondo comma il delitto e' punibile a querela della persona offesa.».
@@ -87,10 +87,10 @@ Note all'art. 2:
 
 1.
 
-All'[articolo 617-ter del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con [regio decreto 19 ottobre 1930, n. 1398](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dopo il secondo comma e' aggiunto il seguente: «Nel caso previsto dal primo comma il delitto e' punibile a querela della persona offesa.».
+All'[articolo 617-ter del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con [regio decreto 19 ottobre 1930, n. 1398](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dopo il secondo comma e' aggiunto il seguente: «Nel caso previsto dal primo comma il delitto e' punibile a querela della persona offesa.».
 
 Note all'art. 3: 
- - Si riporta il testo dell'[articolo 617-ter del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
+ - Si riporta il testo dell'[articolo 617-ter del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
  «Art. 617-ter (Falsificazione, alterazione o soppressione del contenuto di comunicazioni o conversazioni telegrafiche o telefoniche). - Chiunque, al fine di procurare a se' o ad altri un vantaggio o di recare ad altri un danno, forma falsamente, in tutto o in parte, il testo di una comunicazione o di una conversazione telegrafica o telefonica ovvero altera o sopprime in tutto o in parte il contenuto di una comunicazione o di una conversazione telegrafica o telefonica vera, anche solo occasionalmente intercettata, e' punito, qualora ne faccia uso o lasci che altri ne faccia uso, con la reclusione da uno a quattro anni. 
  La pena e' della reclusione da uno a cinque anni se il fatto e' commesso in danno di un pubblico ufficiale nell'esercizio o a causa delle sue funzioni ovvero da un pubblico ufficiale o da un incaricato di un pubblico servizio con abuso dei poteri o con violazione dei doveri inerenti alla funzione o servizio o da chi esercita anche abusivamente la professione di investigatore privato. 
  Nel caso previsto dal primo comma il delitto e' punibile a querela della persona offesa.».
@@ -100,10 +100,10 @@ Note all'art. 3:
 
 1.
 
-All'[articolo 617-sexies del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con [regio decreto 19 ottobre 1930, n. 1398](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dopo il secondo comma e' aggiunto il seguente: «Nel caso previsto dal primo comma il delitto e' punibile a querela della persona offesa.».
+All'[articolo 617-sexies del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con [regio decreto 19 ottobre 1930, n. 1398](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dopo il secondo comma e' aggiunto il seguente: «Nel caso previsto dal primo comma il delitto e' punibile a querela della persona offesa.».
 
 Note all'art. 4: 
- - Si riporta il testo dell'[articolo 617-sexies del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
+ - Si riporta il testo dell'[articolo 617-sexies del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
  «Art. 617-sexies (Falsificazione, alterazione o soppressione del contenuto di comunicazioni informatiche o telematiche). - Chiunque, al fine di procurare a se' o ad altri un vantaggio o di arrecare ad altri un danno, forma falsamente ovvero altera o sopprime, in tutto o in parte, il contenuto, anche occasionalmente intercettato, di taluna delle comunicazioni relative ad un sistema informatico o telematico o intercorrenti tra piu' sistemi, e' punito, qualora ne faccia uso o lasci che altri ne facciano uso, con la reclusione da uno a quattro anni. 
  La pena e' della reclusione da uno a cinque anni nei casi previsti dal quarto comma dell'articolo 617-quater. 
  Nel caso previsto dal primo comma il delitto e' punibile a querela della persona offesa.».
@@ -112,10 +112,10 @@ Note all'art. 4:
 
 1.
 
-All'[articolo 619 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con [regio decreto 19 ottobre 1930, n. 1398](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dopo il secondo comma e' aggiunto il seguente: «Nel caso previsto dal primo comma il delitto e' punibile a querela della persona offesa.».
+All'[articolo 619 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con [regio decreto 19 ottobre 1930, n. 1398](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dopo il secondo comma e' aggiunto il seguente: «Nel caso previsto dal primo comma il delitto e' punibile a querela della persona offesa.».
 
 Note all'art. 5: 
- - Si riporta il testo dell'[articolo 619 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
+ - Si riporta il testo dell'[articolo 619 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
  «Art. 619 (Violazione, sottrazione e soppressione di corrispondenza commesse da persona addetta al servizio delle poste, dei telegrafi o dei telefoni). - L'addetto al servizio delle poste, dei telegrafi o dei telefoni, il quale, abusando di tale qualita', commette alcuno dei fatti preveduti dalla prima parte dell'articolo 616, e' punito con la reclusione da sei mesi a tre anni. 
  Se il colpevole, senza giusta causa, rivela, in tutto o in parte, il contenuto della corrispondenza, e' punito, qualora il fatto non costituisca un piu' grave reato, con la reclusione da sei mesi a cinque anni e con la multa da euro 30 a euro 516. 
  Nel caso previsto dal primo comma il delitto e' punibile a querela della persona offesa.».
@@ -124,10 +124,10 @@ Note all'art. 5:
 
 1.
 
-All'[articolo 620 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con [regio decreto 19 ottobre 1930, n. 1398](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dopo il primo comma e' aggiunto il seguente: «Il delitto e' punibile a querela della persona offesa.».
+All'[articolo 620 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con [regio decreto 19 ottobre 1930, n. 1398](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dopo il primo comma e' aggiunto il seguente: «Il delitto e' punibile a querela della persona offesa.».
 
 Note all'art. 6: 
- - Si riporta il testo dell'[articolo 620 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
+ - Si riporta il testo dell'[articolo 620 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
  «Art. 620 (Rivelazione del contenuto di corrispondenza, commessa da persona addetta al servizio delle poste, dei telegrafi o dei telefoni). - L'addetto al servizio delle poste, dei telegrafi o dei telefoni, che, avendo notizia, in questa sua qualita', del contenuto di una corrispondenza aperta, o di una comunicazione telegrafica, o di una conversazione telefonica, lo rivela senza giusta causa ad altri che non sia il destinatario, ovvero a una persona diversa da quelle tra le quali la comunicazione o la conversazione e' interceduta, e' punito con la reclusione da sei mesi a tre anni. 
  Il delitto e' punibile a querela della persona offesa.».
 
@@ -137,7 +137,7 @@ Effetti sulla procedibilita' delle circostanze aggravanti ad effetto speciale
 
 1.
 
-Dopo il Capo III del Titolo XII del Libro II del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con [regio decreto 19 ottobre 1930, n. 1398](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' inserito il seguente: 
+Dopo il Capo III del Titolo XII del Libro II del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con [regio decreto 19 ottobre 1930, n. 1398](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' inserito il seguente: 
  
  «Capo III-bis 
  
@@ -149,10 +149,10 @@ Dopo il Capo III del Titolo XII del Libro II del [codice penale](../Codici/Appro
 
 1.
 
-All'[articolo 640 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con [regio decreto 19 ottobre 1930, n. 1398, al terzo comma](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) le parole: «un'altra circostanza aggravante» sono sostituite dalle seguenti: «la circostanza aggravante prevista dall'articolo 61, primo comma, numero 7».
+All'[articolo 640 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con [regio decreto 19 ottobre 1930, n. 1398, al terzo comma](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) le parole: «un'altra circostanza aggravante» sono sostituite dalle seguenti: «la circostanza aggravante prevista dall'articolo 61, primo comma, numero 7».
 
 Note all'art. 8: 
- - Si riporta il testo dell'[articolo 640 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
+ - Si riporta il testo dell'[articolo 640 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
  «Art. 640 (Truffa). - Chiunque, con artifizi o raggiri, inducendo taluno in errore, procura a se' o ad altri un ingiusto profitto con altrui danno, e' punito con la reclusione da sei mesi a tre anni e con la multa da euro 51 a euro 1.032. 
  La pena e' della reclusione da uno a cinque anni e della multa da euro 309 a euro 1.549: 
  1. se il fatto e' commesso a danno dello Stato o di un altro ente pubblico o col pretesto di far esonerare taluno dal servizio militare; 
@@ -164,10 +164,10 @@ Note all'art. 8:
 
 1.
 
-All'[articolo 640-ter, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con [regio decreto 19 ottobre 1930, n. 1398, al quarto comma](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) le parole: «un'altra circostanza aggravante» sono sostituite dalle seguenti: «taluna delle circostanze previste dall'articolo 61, primo comma, numero 5, limitatamente all'aver approfittato di circostanze di persona, anche in riferimento all'eta', e numero 7».
+All'[articolo 640-ter, del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con [regio decreto 19 ottobre 1930, n. 1398, al quarto comma](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) le parole: «un'altra circostanza aggravante» sono sostituite dalle seguenti: «taluna delle circostanze previste dall'articolo 61, primo comma, numero 5, limitatamente all'aver approfittato di circostanze di persona, anche in riferimento all'eta', e numero 7».
 
 Note all'art. 9: 
- - Si riporta il testo dell'[articolo 640-ter del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
+ - Si riporta il testo dell'[articolo 640-ter del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
  «Art. 640-ter (Frode informatica). - Chiunque, alterando in qualsiasi modo il funzionamento di un sistema informatico o telematico o intervenendo senza diritto con qualsiasi modalita' su dati, informazioni o programmi contenuti in un sistema informatico o telematico o ad esso pertinenti, procura a se' o ad altri un ingiusto profitto con altrui danno, e' punito con la reclusione da sei mesi a tre anni e con la multa da euro 51 a euro 1.032. 
  La pena e' della reclusione da uno a cinque anni e della multa da euro 309 a euro 1.549 se ricorre una delle circostanze previste dal numero 1) del secondo comma dell'articolo 640, ovvero se il fatto e' commesso con abuso della qualita' di operatore del sistema. 
  La pena e' della reclusione da due a sei anni e della multa da euro 600 a euro 3.000 se il fatto e' commesso con furto o indebito utilizzo dell'identita' digitale in danno di uno o piu' soggetti. 
@@ -177,10 +177,10 @@ Note all'art. 9:
 
 1.
 
-All'[articolo 646 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con [regio decreto 19 ottobre 1930, n. 1398, il terzo comma](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' abrogato.
+All'[articolo 646 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con [regio decreto 19 ottobre 1930, n. 1398, il terzo comma](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' abrogato.
 
 Note all'art. 10: 
- - Si riporta il testo dell'[articolo 646 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
+ - Si riporta il testo dell'[articolo 646 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dal presente decreto: 
  «Art. 646 (Appropriazione indebita). - Chiunque, per procurare a se' o ad altri un ingiusto profitto, si appropria il denaro o la cosa mobile altrui di cui abbia, a qualsiasi titolo, il possesso, e' punito, a querela della persona offesa, con la reclusione fino a tre anni e con la multa fino a euro 1.032. 
  Se il fatto e' commesso su cose possedute a titolo di deposito necessario, la pena e' aumentata.».
 
@@ -190,7 +190,7 @@ Effetti sulla procedibilita' delle circostanze aggravanti ad effetto speciale
 
 1.
 
-Dopo il Capo III del Titolo XIII del Libro II del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con [regio decreto 19 ottobre 1930, n. 1398](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' inserito il seguente: 
+Dopo il Capo III del Titolo XIII del Libro II del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con [regio decreto 19 ottobre 1930, n. 1398](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' inserito il seguente: 
  
  «Capo III-bis 
  

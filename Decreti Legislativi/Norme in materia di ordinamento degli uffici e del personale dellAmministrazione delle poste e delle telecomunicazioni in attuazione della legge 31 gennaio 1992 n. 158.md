@@ -187,7 +187,7 @@ Ai procedimenti disciplinari ed agli inerenti gravami in via amministrativa si a
 
 2.
 
-E' abrogata la [lettera a) del comma quinto dell'art. 8 del regio decreto-legge 10 luglio 1925, n. 1424](../Atti%20normativi%20abrogati%20%28in%20originale%29/Competenza%20del%20Consiglio%20di%20amministrazione%20delle%20poste%20e%20dei%20telegrafi%20per%20la%20trattazione%20di%20affari%20e%20di%20provvedimenti%20di%20secondaria%20importanza.%20025U1424.md), modificato dall'[art. 4 del regio decreto 5 gennaio 1928, n. 10](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20al%20R.%20decreto%2015%20agosto%201926%20n.%201733%20riguardante%20lordinamento%20del%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20028U0010.md).
+E' abrogata la [lettera a) del comma quinto dell'art. 8 del regio decreto-legge 10 luglio 1925, n. 1424](../Atti%20normativi%20abrogati%20%28in%20originale%29/Competenza%20del%20Consiglio%20di%20amministrazione%20delle%20poste%20e%20dei%20telegrafi%20per%20la%20trattazione%20di%20affari%20e%20di%20provvedimenti%20di%20secondaria%20importanza.%20025U1424.md), modificato dall'[art. 4 del regio decreto 5 gennaio 1928, n. 10](../Regi%20decreti/Modificazioni%20al%20R.%20decreto%2015%20agosto%201926%20n.%201733%20riguardante%20lordinamento%20del%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20028U0010.md).
 
 ## Art. 9. — Comitati consultivi e tecnico-amministrativi
 

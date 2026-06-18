@@ -30,11 +30,11 @@ Emana il seguente decreto legislativo:
 
 1.
 
-La rubrica del titolo I del libro I della parte II del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituita dalla seguente: «DEGLI ORGANI AMMINISTRATIVI E DELLA DISCIPLINA TECNICA DELLA NAVIGAZIONE».
+La rubrica del titolo I del libro I della parte II del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituita dalla seguente: «DEGLI ORGANI AMMINISTRATIVI E DELLA DISCIPLINA TECNICA DELLA NAVIGAZIONE».
 
 2.
 
-Gli [articoli da 687](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) [a 690 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) sono sostituiti dai seguenti:
+Gli [articoli da 687](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) [a 690 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) sono sostituiti dai seguenti:
  «Art. 687 (Amministrazione dell'aviazione civile). - L'Ente nazionale per l'aviazione civile (ENAC), nel rispetto dei poteri di indirizzo del Ministro delle infrastrutture e dei trasporti, nonche' fatte salve le competenze specifiche degli altri enti aeronautici, agisce come unica autorita' di regolazione tecnica, certificazione e vigilanza nel settore dell'aviazione civile, mediante le proprie strutture centrali e periferiche, e cura la presenza e l'applicazione di sistemi di qualita' aeronautica rispondenti ai regolamenti comunitari.
  Le attribuzioni e l'organizzazione degli enti aeronautici sono disciplinate dalle rispettive norme istitutive, nonche' dalle norme statutarie ed organizzative.
  Art. 688 (Concorso di competenze). - Negli aeroporti situati all'interno di porti marittimi, la vigilanza sulla sosta e sulla circolazione di navi, galleggianti e aeromobili e' esercitata dall'ENAC, d'intesa con l'autorita' marittima.
@@ -55,8 +55,8 @@ Avvertenza:
 
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) regola la delega al Governo dell'esercizio delle funzione legislativa e stabilisce che essa non puo' avvenire se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi calore di legge e i regolamenti.
- - L'[art. 2 della legge 9 novembre 2004, n. 265](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20settembre%202004%20n.%20237%20recante%20interventi%20urgenti%20nel%20settore%20dellaviazione%20civile.%20Delega%20al%20Governo%20per%20lemanazione%20di%20disposiz_ae0b5d9b97cf.md) (Gazzetta Ufficiale 10 novembre 2004, n. 264), recante: «Conversione in legge, con modificazioni, del [decreto-legge 8 settembre 2004, n. 237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-09-08;237) (Gazzetta Ufficiale 10 settembre 2004, n. 213), recante interventi urgenti nel settore dell'aviazione civile. Delega al Governo per l'emanazione di disposizioni correttive ed integrative del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md)», cosi' recita:
- «Art. 2 (Delega all'adozione di disposizioni successive). - 1. Al fine di migliorare il livello di tutela dei diritti del passeggero e di sicurezza del trasporto aereo, di razionalizzare e semplificare l'assetto normativo e regolamentare nel settore dell'aviazione civile e delle gestioni aeroportuali, il Governo e' delegato ad adottare, senza nuovi o maggiori oneri per la finanza pubblica e nel rispetto delle prerogative costituzionali delle regioni e delle province autonome di Trento e di Bolzano, entro sei mesi dalla data di entrata in vigore della presente legge, previa deliberazione del Consiglio dei Ministri, su proposta del Ministro delle infrastrutture e dei trasporti, uno o piu' decreti legislativi per la revisione della parte aeronautica del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+ - L'[art. 2 della legge 9 novembre 2004, n. 265](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20settembre%202004%20n.%20237%20recante%20interventi%20urgenti%20nel%20settore%20dellaviazione%20civile.%20Delega%20al%20Governo%20per%20lemanazione%20di%20disposiz_ae0b5d9b97cf.md) (Gazzetta Ufficiale 10 novembre 2004, n. 264), recante: «Conversione in legge, con modificazioni, del [decreto-legge 8 settembre 2004, n. 237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-09-08;237) (Gazzetta Ufficiale 10 settembre 2004, n. 213), recante interventi urgenti nel settore dell'aviazione civile. Delega al Governo per l'emanazione di disposizioni correttive ed integrative del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md)», cosi' recita:
+ «Art. 2 (Delega all'adozione di disposizioni successive). - 1. Al fine di migliorare il livello di tutela dei diritti del passeggero e di sicurezza del trasporto aereo, di razionalizzare e semplificare l'assetto normativo e regolamentare nel settore dell'aviazione civile e delle gestioni aeroportuali, il Governo e' delegato ad adottare, senza nuovi o maggiori oneri per la finanza pubblica e nel rispetto delle prerogative costituzionali delle regioni e delle province autonome di Trento e di Bolzano, entro sei mesi dalla data di entrata in vigore della presente legge, previa deliberazione del Consiglio dei Ministri, su proposta del Ministro delle infrastrutture e dei trasporti, uno o piu' decreti legislativi per la revisione della parte aeronautica del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
  2. Entro trenta giorni dalla data di entrata in vigore della presente legge, il Governo trasmette gli schemi dei decreti legislativi di cui al comma 1 corredati di relazione tecnica sugli effetti finanziari delle disposizioni in essi contenute, ai sensi dell'[art. 11-ter, comma 2, della legge 5 agosto 1978, n. 468](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20di%20alcune%20norme%20di%20contabilita%20generale%20dello%20Stato%20in%20materia%20di%20bilancio.md), e successive modificazioni, al Parlamento per l'espressione del parere da parte delle Commissioni parlamentari competenti per materia e per le conseguenze di carattere finanziario.
  Ciascuna Commissione esprime il proprio parere entro trenta giorni dalla data di assegnazione, indicando specificatamente le eventuali disposizioni ritenute non conformi ai principi e criteri direttivi della legge di delegazione.
  Il Governo entro i successivi sessanta giorni, esaminati i pareri delle Commissioni ed acquisito il parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, ritrasmette al Parlamento, con le sue osservazioni e con eventuali modificazioni, gli schemi dei decreti legislativi per il parere definitivo delle Commissioni parlamentari competenti per materia e per le conseguenze di carattere finanziario, che deve essere espresso entro trenta giorni dall'assegnazione.
@@ -70,18 +70,18 @@ Avvertenza:
  e) armonizzazione e semplificazione della disciplina inerente a titoli professionali aeronautici;
  f) adeguamento alla normativa comunitaria ed internazionale della disciplina in materia di servizi aerei nonche' di contratto di trasporto aereo, con riguardo anche alla tutela degli utenti;
  g) semplificazione del regime amministrativo degli aeromobili e della pubblicita' degli atti ad essi relativi;
- h) abrogazione esplicita di tutte le disposizioni incompatibili con le modifiche del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) adottate nell'esercizio della delega;
+ h) abrogazione esplicita di tutte le disposizioni incompatibili con le modifiche del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) adottate nell'esercizio della delega;
  i) salvaguardia delle attribuzioni del Ministero della difesa in materia di difesa e sicurezza nazionale.».
 
 ## Art. 2. — Dei servizi della navigazione aerea
 
 1.
 
-Dopo l'[articolo 690 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' inserito il titolo seguente: «Titolo II: DEI SERVIZI DELLA NAVIGAZIONE AEREA».
+Dopo l'[articolo 690 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' inserito il titolo seguente: «Titolo II: DEI SERVIZI DELLA NAVIGAZIONE AEREA».
 
 2.
 
-L'[articolo 691 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), e' sostituito dai seguenti:
+L'[articolo 691 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), e' sostituito dai seguenti:
  «Art. 691 (Servizi della navigazione aerea). - I servizi della navigazione aerea si distinguono in:
  a) servizi del traffico aereo, che includono i servizi di controllo del traffico aereo, i servizi di informazioni volo, i servizi consultivi sul traffico aereo e i servizi di allarme;
  b) servizi di meteorologia aeronautica;
@@ -97,7 +97,7 @@ L'[articolo 691 del codice della navigazione](../Codici/Approvazione%20del%20tes
 
 1.
 
-Il titolo II e' soppresso e i capi da I a III del titolo III del libro I della parte II del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) sono sostituiti dai seguenti: 
+Il titolo II e' soppresso e i capi da I a III del titolo III del libro I della parte II del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) sono sostituiti dai seguenti: 
  
  "Titolo III 
  
@@ -188,7 +188,7 @@ navigazione aerea nelle vicinanze degli stessi;
 
 2.
 
-Indipendentemente dall'individuazione degli aeroporti di rilevanza nazionale, ai sensi dell'[articolo 698 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), ((. . .)) le disposizioni di cui all'[articolo 704, primo](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [secondo comma, del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), come modificato dal presente decreto legislativo, non si applicano alle concessioni della gestione aeroportuale gia' rilasciate, anche in base a legge speciale e in ipotesi di delocalizzazione funzionale, nonche' ai procedimenti di rilascio della concessione su istanza antecedente alla data di entrata in vigore del presente decreto legislativo, ai sensi del [decreto del Ministro dei trasporti e della navigazione 12 novembre 1997, n. 521](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.trasporti.navigazione:decreto:1997-11-12;521). Detti procedimenti devono concludersi entro il ((30 giugno 2012)). Decorso inutilmente il detto termine le societa' istanti possono chiedere, con oneri a carico delle medesime, al Ministro delle infrastrutture e dei trasporti la nomina di un Commissario ad acta, il quale nei successivi sessanta giorni provvede sull'istanza, provvedendo al rilascio della concessione una volta verificato il possesso dei necessari requisiti. (6) (7a) ((7))
+Indipendentemente dall'individuazione degli aeroporti di rilevanza nazionale, ai sensi dell'[articolo 698 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), ((. . .)) le disposizioni di cui all'[articolo 704, primo](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [secondo comma, del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), come modificato dal presente decreto legislativo, non si applicano alle concessioni della gestione aeroportuale gia' rilasciate, anche in base a legge speciale e in ipotesi di delocalizzazione funzionale, nonche' ai procedimenti di rilascio della concessione su istanza antecedente alla data di entrata in vigore del presente decreto legislativo, ai sensi del [decreto del Ministro dei trasporti e della navigazione 12 novembre 1997, n. 521](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.trasporti.navigazione:decreto:1997-11-12;521). Detti procedimenti devono concludersi entro il ((30 giugno 2012)). Decorso inutilmente il detto termine le societa' istanti possono chiedere, con oneri a carico delle medesime, al Ministro delle infrastrutture e dei trasporti la nomina di un Commissario ad acta, il quale nei successivi sessanta giorni provvede sull'istanza, provvedendo al rilascio della concessione una volta verificato il possesso dei necessari requisiti. (6) (7a) ((7))
 
 3.
 
@@ -202,7 +202,7 @@ Sono abrogate le seguenti disposizioni:
 
 4.
 
-L'[articolo 718 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente: 
+L'[articolo 718 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente: 
  "Art. 718 (Funzioni di polizia e di vigilanza). - Le funzioni di polizia degli aerodromi sono esercitate dall'ENAC, anche mediante le proprie articolazioni periferiche. 
  I soggetti privati che esercitano un'attivita' nell'interno degli aerodromi sono soggetti alla vigilanza dell'ENAC, nell'esercizio dei poteri autoritativi di competenza, nonche' al coordinamento e controllo del gestore aeroportuale. 
  L'ENAC vigila sulla fornitura dei servizi forniti dalla societa' Enav, fatte salve le competenze del Ministero della difesa. 
@@ -210,7 +210,7 @@ L'[articolo 718 del codice della navigazione](../Codici/Approvazione%20del%20tes
 
 5.
 
-Gli [articoli da 719](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) [a 725 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) sono abrogati.
+Gli [articoli da 719](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) [a 725 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) sono abrogati.
 
 6.
 
@@ -218,7 +218,7 @@ All'articolo 730, terzo comma, le parole: ", previo versamento della somma fissa
 
 7.
 
-Le regioni disciplinano le materie di propria competenza nel rispetto dei principi desumibili dalle disposizioni contenute nel titolo III del libro I della parte II del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), come modificato dal presente articolo.
+Le regioni disciplinano le materie di propria competenza nel rispetto dei principi desumibili dalle disposizioni contenute nel titolo III del libro I della parte II del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), come modificato dal presente articolo.
 
 8.
 
@@ -245,13 +245,13 @@ Il Il D.P.C.M. 25 marzo 2011 (in G.U. 31/03/2011, n. 74) ha disposto (con l'art.
 
 AGGIORNAMENTO (7)
 
-Il [D.L. 29 dicembre 2011, n. 216](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2011G0260.md), convertito con modificazioni dalla [L. 24 febbraio 2012, n. 14](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20dicembre%202011%20n.%20216%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%20Differimento%20di%20termini%20relativi%20alleserc_73061fff38d8.md), ha disposto (con l'art. 11, comma 2) che "Il termine del 30 giugno 2012, di cui all'[articolo 3, comma 2, del decreto legislativo 9 maggio 2005, n. 96](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20della%20parte%20aeronautica%20del%20Codice%20della%20navigazione%20a%20norma%20dellarticolo%202%20della%20legge%209%20novembre%202004%20n.%20265.md), come modificato dal presente comma, e' prorogato al 31 dicembre 2012 per gli aeroporti che, pur in presenza di perdite di esercizio pregresse, presentino un piano da cui risultino, nel rispetto delle disposizioni di cui all'[articolo 6, comma 19, del decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78#art_6-com19), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20maggio%202010%20n.%2078%20recante%20misure%20urgenti%20in%20materia%20di%20stabilizzazione%20finanziaria%20e%20di%20competitivita%20economica.%2010G0146.md), il riequilibrio economico-finanziario della gestione e il raggiungimento di adeguati indici di solvibilita' patrimoniale. Entro il predetto termine si provvede all'individuazione degli aeroporti e dei sistemi aeroportuali di interesse nazionale, di cui all'[articolo 698 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md)".
+Il [D.L. 29 dicembre 2011, n. 216](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2011G0260.md), convertito con modificazioni dalla [L. 24 febbraio 2012, n. 14](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20dicembre%202011%20n.%20216%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%20Differimento%20di%20termini%20relativi%20alleserc_73061fff38d8.md), ha disposto (con l'art. 11, comma 2) che "Il termine del 30 giugno 2012, di cui all'[articolo 3, comma 2, del decreto legislativo 9 maggio 2005, n. 96](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20della%20parte%20aeronautica%20del%20Codice%20della%20navigazione%20a%20norma%20dellarticolo%202%20della%20legge%209%20novembre%202004%20n.%20265.md), come modificato dal presente comma, e' prorogato al 31 dicembre 2012 per gli aeroporti che, pur in presenza di perdite di esercizio pregresse, presentino un piano da cui risultino, nel rispetto delle disposizioni di cui all'[articolo 6, comma 19, del decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78#art_6-com19), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20maggio%202010%20n.%2078%20recante%20misure%20urgenti%20in%20materia%20di%20stabilizzazione%20finanziaria%20e%20di%20competitivita%20economica.%2010G0146.md), il riequilibrio economico-finanziario della gestione e il raggiungimento di adeguati indici di solvibilita' patrimoniale. Entro il predetto termine si provvede all'individuazione degli aeroporti e dei sistemi aeroportuali di interesse nazionale, di cui all'[articolo 698 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md)".
 
 ## Art. 4. — Del personale aeronautico
 
 1.
 
-Il titolo IV del libro I della parte II del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+Il titolo IV del libro I della parte II del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
 
  «Titolo IV
 
@@ -277,34 +277,34 @@ Il titolo IV del libro I della parte II del [codice della navigazione](../Codici
 
 2.
 
-Gli [articoli da 736](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) [a 742 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) sono abrogati.
+Gli [articoli da 736](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) [a 742 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) sono abrogati.
 
 ## Art. 5. — Delle distinzioni degli aeromobili
 
 1.
 
-L'[articolo 743 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+L'[articolo 743 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
  «Art. 743 (Nozione di aeromobile). - Per aeromobile si intende ogni macchina destinata al trasporto per aria di persone o cose.
  Le distinzioni degli aeromobili, secondo le loro caratteristiche tecniche e secondo il loro impiego, sono stabilite dall'ENAC con propri regolamenti e, comunque, dalla normativa speciale in materia.
  Non sono considerati aeromobili gli apparecchi utilizzati per il volo da diporto o sportivo, di cui alla [legge 25 marzo 1985, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-03-25;106).».
 
 2.
 
-All'[articolo 744, primo comma, del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) sono soppresse le seguenti parole: «, alla posta» e le parole: «alla Polizia» sono sostituite dalle seguenti: «alle Forze di polizia dello Stato».
+All'[articolo 744, primo comma, del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) sono soppresse le seguenti parole: «, alla posta» e le parole: «alla Polizia» sono sostituite dalle seguenti: «alle Forze di polizia dello Stato».
 
 3.
 
-All'[articolo 744 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' aggiunto, in fine, il seguente comma: «Sono equiparati agli aeromobili di Stato gli aeromobili utilizzati, anche occasionalmente, da soggetti pubblici o privati, che svolgono la propria attivita' per la tutela della sicurezza nazionale».
+All'[articolo 744 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' aggiunto, in fine, il seguente comma: «Sono equiparati agli aeromobili di Stato gli aeromobili utilizzati, anche occasionalmente, da soggetti pubblici o privati, che svolgono la propria attivita' per la tutela della sicurezza nazionale».
 
 4.
 
-L'[articolo 745 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+L'[articolo 745 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
  «Art. 745 (Aeromobili militari). - Sono militari gli aeromobili considerati tali dalle leggi speciali e comunque quelli, progettati dai costruttori secondo caratteristiche costruttive di tipo militare, destinati ad essere utilizzati dalle Forze armate.
  Gli aeromobili militari sono ammessi alla navigazione, certificati ed immatricolati nei registri degli aeromobili militari dalla competente Direzione generale del Ministero della difesa.».
 
 5.
 
-L'[articolo 746 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+L'[articolo 746 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
  «Art. 746 (Aeromobili equiparabili a quelli di Stato). - Salvo quanto disposto dell'articolo 744, quarto comma, il Ministero delle infrastrutture e dei trasporti puo', con proprio provvedimento, equiparare agli aeromobili di Stato quegli aeromobili che, pur appartenendo a privati ed essendo da questi esercitati, siano adibiti a un servizio di Stato di carattere non commerciale.
  Il provvedimento stabilisce limiti e modalita' dell'equiparazione ed indica la categoria di aeromobile di Stato cui essa si riferisce.
  L'equiparazione rende applicabili le disposizioni relative alla categoria cui essa si riferisce e le altre disposizioni indicate nel provvedimento.
@@ -312,18 +312,18 @@ L'[articolo 746 del codice della navigazione](../Codici/Approvazione%20del%20tes
 
 6.
 
-L'[articolo 747 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' abrogato.
+L'[articolo 747 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' abrogato.
 
 7.
 
-L'[articolo 748 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+L'[articolo 748 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
  «Art. 748 (Norme applicabili). - Salva diversa disposizione, non si applicano le norme del presente codice agli aeromobili militari, di dogana, delle Forze di polizia dello Stato e del Corpo nazionale dei vigili del fuoco, nonche' agli aeromobili previsti nel quarto comma dell'articolo 744.
  L'utilizzazione degli aeromobili di cui all'articolo 744, quarto comma, comporta l'esenzione da qualsiasi tassa, diritto o tariffa, nonche' il diritto di priorita' nell'utilizzazione delle strutture aeroportuali.
  Lo svolgimento delle operazioni di volo da parte degli aeromobili di cui al primo comma e' effettuato garantendo un adeguato livello di sicurezza, individuato secondo le speciali regolamentazioni adottate dalle competenti Amministrazioni dello Stato.
  Le norme del presente codice, salva diversa specifica disposizione, non si applicano al personale, ai mezzi, agli impianti ed alle infrastrutture appartenenti al Ministero della difesa ed agli altri Ministeri che impiegano aeromobili di Stato di loro proprieta'.».
 
 Note all'art. 5:
- - Il testo vigente dell'[art. 744 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' come modificato dal presente decreto legislativo, e' il seguente:
+ - Il testo vigente dell'[art. 744 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' come modificato dal presente decreto legislativo, e' il seguente:
  «Art. 744 (Aeromobili di Stato e aeromobili privati). - Sono aeromobili di Stato gli aeromobili militari e quelli, di proprieta' dello Stato, destinati esclusivamente alle forze di polizia dello Stato, alla dogana, al Corpo nazionale dei vigili del fuoco, o ad altro servizio di Stato.
  Tutti gli altri aeromobili sono considerati privati.
  Salvo che non sia diversamente stabilito da convenzioni internazionali, agli effetti della navigazione aerea internazionale sono considerati privati anche gli aeromobili di Stato, ad eccezione di quelli militari, di dogana, di polizia e del Corpo nazionale dei vigili del fuoco.
@@ -348,7 +348,7 @@ Note all'art. 5:
 
 1.
 
-Il capo II del titolo V del libro I della parte II del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+Il capo II del titolo V del libro I della parte II del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
 
  «Capo II
 
@@ -403,51 +403,51 @@ Il capo II del titolo V del libro I della parte II del [codice della navigazione
 
 2.
 
-L'[articolo 762 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' abrogato.
+L'[articolo 762 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' abrogato.
 
 ## Art. 7. — Della navigabilita' dell'aeromobile
 
 1.
 
-L'[articolo 764 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+L'[articolo 764 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
  «Art. 764 (Certificato di navigabilita). - L'idoneita' dell'aeromobile alla navigazione aerea e' attestata dal certificato di navigabilita'.
  Il certificato di navigabilita' abilita l'aeromobile alla navigazione.».
 
 2.
 
-L'[articolo 766 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+L'[articolo 766 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
  «Art. 766 (Rilascio del certificato di navigabilita). - Il certificato di navigabilita' e' rilasciato conformemente alla normativa comunitaria.».
 
 3.
 
-L'[articolo 767 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+L'[articolo 767 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
  «Art. 767 (Certificato di omologazione). - Il certificato di omologazione del tipo di aeromobile attesta la rispondenza alla normativa comunitaria ed ai regolamenti di sicurezza emanati in applicazione degli obblighi internazionali derivanti dalla Convenzione relativa all'aviazione civile internazionale stipulata a Chicago il 7 dicembre 1944, resa esecutiva con [decreto legislativo 6 marzo 1948, n. 616](Approvazione%20della%20Convenzione%20internazionale%20per%20laviazione%20civile%20stipulata%20a%20Chicago%20il%207%20dicembre%201944.md), ratificato con [legge 17 aprile 1956, n. 561](../DL%20e%20leggi%20di%20conversione/Ratifica%20ai%20sensi%20dellart.%206%20del%20decreto%20legislativo%20luogotenenziale%2016%20marzo%201946%20n.%2098%20di%20decreti%20legislativi%20emanati%20dal%20Governo%20durante%20il%20periodo%20della%20Costituente.md), e relativi annessi.».
 
 4.
 
-L'[articolo 768 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+L'[articolo 768 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
  «Art. 768 (Visite ed ispezioni). - L'ENAC provvede, conformemente alla disciplina comunitaria ed ai propri regolamenti, a ispezioni e visite degli aeromobili, per l'accertamento delle condizioni di navigabilita' e di impiego.
  La spesa delle visite e delle ispezioni e' a carico dell'esercente.».
 
 5.
 
-L'[articolo 769 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+L'[articolo 769 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
  «Art. 769 (Visite ed ispezioni all'estero). - All'estero, le visite e le ispezioni di cui all'articolo 768 per gli aeromobili nazionali sono eseguite dall'ENAC ovvero dagli enti stranieri con i quali siano stipulati accordi a tale fine.».
 
 6.
 
-L'[articolo 770 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+L'[articolo 770 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
  «Art. 770 (Efficacia probatoria dei certificati rilasciati dall'ENAC). - I certificati e ogni altra attestazione tecnica rilasciati dall'ENAC fanno fede fino a prova contraria.».
 
 7.
 
-Gli [articoli 858](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [859 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) sono abrogati.
+Gli [articoli 858](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [859 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) sono abrogati.
 
 ## Art. 8. — Dei documenti dell'aeromobile
 
 1.
 
-L'[articolo 771 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+L'[articolo 771 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
  «Art. 771 (Documenti di bordo). - Gli aeromobili devono avere a bordo durante il volo:
  a) il certificato di immatricolazione;
  b) il certificato di navigabilita';
@@ -458,24 +458,24 @@ L'[articolo 771 del codice della navigazione](../Codici/Approvazione%20del%20tes
 
 2.
 
-L'[articolo 772 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+L'[articolo 772 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
  «Art. 772 (Giornale di bordo). - Sul giornale di bordo devono essere annotati gli eventi indicati nell'articolo 835, i testamenti e ogni altro fatto di particolare importanza.».
 
 3.
 
-L'[articolo 773 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+L'[articolo 773 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
  «Art. 773 (Libri dell'aeromobile). - Gli aeromobili devono essere provvisti del libretto dell'aeromobile, del motore e dell'elica, su cui eseguire le annotazioni relative all'esercizio.».
 
 4.
 
-L'[articolo 774 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+L'[articolo 774 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
  «Art. 774 (Tenuta dei libri). - L'esercente tiene i libri e vi esegue le annotazioni, in conformita' ai regolamenti dell'ENAC.».
 
 ## Art. 9. — Dell'ordinamento dei servizi aerei
 
 1.
 
-Il titolo VI del libro I della parte II del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+Il titolo VI del libro I della parte II del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
 
  "Titolo VI
 
@@ -541,38 +541,38 @@ b) negli altri casi indicati dalla convenzione.
 
 2.
 
-L'[articolo 791 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' abrogato.
+L'[articolo 791 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' abrogato.
 
 ## Art. 10. — Della polizia della navigazione
 
 1.
 
-L'[articolo 792 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+L'[articolo 792 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
  «Art. 792 (Funzioni di polizia e di vigilanza). - Le funzioni di polizia e di vigilanza della navigazione aerea sono esercitate dall'ENAC.».
 
 2.
 
-L'[articolo 793 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+L'[articolo 793 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
  «Art. 793 (Divieti di sorvolo). - L'ENAC puo' vietare il sorvolo su determinate zone del territorio nazionale per motivi di sicurezza.
  Quando ricorrono motivi militari ovvero di sicurezza o di ordine pubblico, l'ENAC, su richiesta della competente amministrazione, vieta il sorvolo su determinate zone del territorio nazionale.
  Il Ministero delle infrastrutture e dei trasporti puo', altresi', vietare la navigazione aerea su tutto il territorio nazionale, per eccezionali motivi di interesse pubblico.».
 
 3.
 
-L'[articolo 794 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente: «Gli aeromobili stranieri, ad eccezione di quelli militari, di dogana e di polizia, possono sorvolare il territorio nazionale a condizione di reciprocita' ovvero quando cio' sia stabilito dalla normativa comunitaria o da convenzioni internazionali, salva la facolta' dell'ENAC di rilasciare autorizzazioni temporanee.
+L'[articolo 794 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente: «Gli aeromobili stranieri, ad eccezione di quelli militari, di dogana e di polizia, possono sorvolare il territorio nazionale a condizione di reciprocita' ovvero quando cio' sia stabilito dalla normativa comunitaria o da convenzioni internazionali, salva la facolta' dell'ENAC di rilasciare autorizzazioni temporanee.
  Gli aeromobili stranieri militari, di dogana e di polizia non possono sorvolare il territorio nazionale senza una speciale autorizzazione del Ministero della difesa.».
 
 4.
 
-Il [primo comma dell'articolo 796 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente: «L'aeromobile nazionale non puo' circolare se non porta impresse le marche di nazionalita' e di immatricolazione, in conformita' ai regolamenti dell'ENAC.».
+Il [primo comma dell'articolo 796 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente: «L'aeromobile nazionale non puo' circolare se non porta impresse le marche di nazionalita' e di immatricolazione, in conformita' ai regolamenti dell'ENAC.».
 
 5.
 
-L'[articolo 798 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+L'[articolo 798 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
  «Art. 798 (Obbligo di assicurazione). - L'aeromobile non puo' circolare, se non sono state stipulate e non sono in corso di validita' le assicurazioni obbligatorie previste dal presente codice e dalla normativa comunitaria.».
 
 Nota all'art. 10:
- - Il testo vigente dell'[art. 796 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' come modificato dal presente decreto legislativo, e' il seguente:
+ - Il testo vigente dell'[art. 796 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' come modificato dal presente decreto legislativo, e' il seguente:
  «Art. 796 (Obbligo di apporre i contrassegni di individuazione). - L'aeromobile nazionale non puo' circolare se non porta impresse le marche di nazionalita' e di immatricolazione, in conformita' dei regolamenti dell'ENAC.
  L'aeromobile straniero deve portare i contrassegni prescritti dallo Stato nel cui registro e' iscritto o quelli previsti dalle convenzioni internazionali.».
 
@@ -580,49 +580,49 @@ Nota all'art. 10:
 
 1.
 
-L'[articolo 799 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+L'[articolo 799 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
  «Art. 799 (Partenza e approdo degli aeromobili). - La partenza e l'approdo degli aeromobili si effettuano su aree destinate al decollo e all'atterraggio, aventi caratteristiche di sicurezza che soddisfano i requisiti e le prescrizioni stabiliti dall'ENAC.
  Quando le particolari strutture tecniche dell'aeromobile impongono in via esclusiva l'utilizzazione degli aeroporti, la partenza e l'approdo dell'aeromobile stesso si effettuano soltanto in un aeroporto.».
 
 2.
 
-L'[articolo 800 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+L'[articolo 800 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
  «Art. 800 (Aeromobili diretti all'estero). - Gli aeromobili diretti all'estero possono partire soltanto dagli aeroporti doganali, salvo speciale autorizzazione del Ministero delle infrastrutture e dei trasporti.
  Si considera diretto all'estero l'aeromobile destinato a uscire dal territorio doganale dell'Unione europea.
  Gli aeromobili diretti verso Stati membri dell'Unione europea senza scalo intermedio possono decollare da aerodromi non doganali, purche' gli occupanti siano in possesso di documenti validi di riconoscimento.».
 
 3.
 
-L'[articolo 801 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+L'[articolo 801 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
  «Art. 801 (Controllo degli aeromobili). - L'ENAC effettua visite di controllo sugli aeromobili in base ai programmi nazionali e comunitari e verifica i documenti di bordo obbligatori.».
 
 4.
 
-L'[articolo 802 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+L'[articolo 802 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
  «Art. 802 (Divieto di partenza). - L'ENAC vieta la partenza degli aeromobili quando, a seguito dei controlli previsti dall'articolo 801, emergono situazioni di pregiudizio per la sicurezza della navigazione aerea, nonche' quando risultano violati gli obblighi previsti dalle norme di polizia e per la sicurezza della navigazione, ovvero quando risulta accertato dalle autorita' competenti che l'esercente ed il comandante non hanno adempiuto agli obblighi previsti dalla normativa di interesse pubblico in materia sanitaria e doganale.
  Fermo restando quanto stabilito dall'articolo 1058, l'ENAC, anche su segnalazione del gestore aeroportuale o della societa' Enav, vieta altresi' la partenza degli aeromobili quando risultano violati gli obblighi relativi al pagamento delle tasse, dei diritti e dei corrispettivi dovuti, comprese le tariffe spettanti alla societa' Enav.».
 
 5.
 
-L'[articolo 804 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' abrogato.
+L'[articolo 804 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' abrogato.
 
 6.
 
-L'[articolo 805 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+L'[articolo 805 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
  «Art. 805 (Approdo di aeromobili provenienti dall'estero). - Gli aeromobili provenienti dall'estero possono approdare soltanto negli aeroporti abilitati secondo le norme doganali o sanitarie, salvo quanto previsto dagli accordi internazionali e salvo speciale autorizzazione del Ministero delle infrastrutture e dei trasporti, sentite le Amministrazioni interessate.
  Si considera proveniente dall'estero l'aeromobile che entra nel territorio doganale dell'Unione europea.
  Gli aeromobili provenienti da Stati membri dell'Unione europea senza scalo intermedio possono atterrare su aerodromi non doganali, purche' gli occupanti siano in possesso di documenti validi di riconoscimento; di tale circostanza e' fatta menzione nel piano di volo.».
 
 7.
 
-L'[articolo 806 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+L'[articolo 806 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
  «Art. 806 (Limitazioni all'utilizzazione degli aerodromi). - L'ENAC, quando lo richiedono motivi di sicurezza per la navigazione o di ordine sanitario ovvero altri gravi motivi di pubblico interesse, vieta o limita l'utilizzazione degli aerodromi.
  Il gestore aeroportuale segnala all'ENAC le variazioni di agibilita' e funzionalita' degli impianti e dei servizi aeroportuali che possono determinare l'adozione dei provvedimenti previsti al primo comma.
  Analoga segnalazione e' effettuata, in caso di limitazioni intervenute per i servizi di assistenza al volo, dal soggetto fornitore dei servizi medesimi.».
 
 8.
 
-L'[articolo 807 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+L'[articolo 807 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
  «Art. 807 (Utilizzazione degli aeroporti coordinati). - La partenza e l'approdo di aeromobili negli aeroporti coordinati, come definiti dalla normativa comunitaria, sono subordinati all'assegnazione della corrispondente banda oraria ad opera del soggetto allo scopo designato.
  L'assegnazione delle bande orarie, negli aeroporti coordinati, avviene in conformita' delle norme comunitarie e dei relativi provvedimenti attuativi».
 
@@ -630,29 +630,29 @@ L'[articolo 807 del codice della navigazione](../Codici/Approvazione%20del%20tes
 
 1.
 
-Gli [articoli 812](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [813](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [814 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) sono abrogati.
+Gli [articoli 812](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [813](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [814 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) sono abrogati.
 
 2.
 
-L'[articolo 815 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+L'[articolo 815 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
  «Art. 815 (Imbarco di passeggeri infermi e diversamente abili). - Per l'imbarco di passeggeri infermi e diversamente abili si osservano le norme speciali.».
 
 3.
 
-L'[articolo 816 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+L'[articolo 816 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
  «Art. 816 (Imbarco di armi, munizioni e gas tossici). - L'imbarco su aeromobili di armi e munizioni e di gas tossici e' sottoposto a speciale autorizzazione dell'ENAC, nel rispetto delle norme comunitarie e internazionali.».
 
 4.
 
-Il [secondo comma dell'articolo 817 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente: «La consegna delle cose custodite ai sensi del primo comma e' fatta all'autorita' competente, dandone comunque segnalazione all'autorita' di pubblica sicurezza.».
- 5 . L'[articolo 818 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+Il [secondo comma dell'articolo 817 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente: «La consegna delle cose custodite ai sensi del primo comma e' fatta all'autorita' competente, dandone comunque segnalazione all'autorita' di pubblica sicurezza.».
+ 5 . L'[articolo 818 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
  «Art. 818 (Custodia di oggetti appartenenti a persone morte o scomparse in viaggio). - Gli oggetti appartenuti a persone morte o scomparse durante il viaggio sono custoditi dal comandante dell'aeromobile fino al luogo di primo approdo e ivi consegnati all'autorita' competente, dandone comunque segnalazione all'autorita' di pubblica sicurezza.».
- 6. L'[articolo 819 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+ 6. L'[articolo 819 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
  «Art. 819 (Getto da aeromobili in volo). - Fuori del caso di necessita', e' vietato il getto da aeromobili in volo di oggetti o materie, che non siano zavorra regolamentare, senza autorizzazione dell'ENAC. Rimane ferma in ogni caso la responsabilita' per danni a terzi sulla superficie.».
- 7. Gli [articoli 820](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [821](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [822 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) sono abrogati.
+ 7. Gli [articoli 820](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [821](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [822 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) sono abrogati.
 
 Nota all'art. 12:
- - Il testo vigente dell'[art. 817 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' come modificato dal presente decreto legislativo, e' il seguente:
+ - Il testo vigente dell'[art. 817 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' come modificato dal presente decreto legislativo, e' il seguente:
  «Art. 817 (Imbarco di merci vietate o pericolose). - Quando sono imbarcate cose di cui il trasporto e' vietato da norme di polizia, o delle quali il trasporto sia o divenga in corso di navigazione pericoloso o nocivo per l'aeromobile, per le persone o per il carico, il comandante dell'aeromobile provvede nei modi previsti nell'art. 194.
  La consegna delle cose custodite ai sensi del primo comma e' fatta all'autorita' competente, dandone comunque segnalazione all'autorita' di pubblica sicurezza.».
 
@@ -660,7 +660,7 @@ Nota all'art. 12:
 
 1.
 
-L'[articolo 830 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+L'[articolo 830 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
  «Art. 830 (Incidenti aeronautici in mare). - Qualora si verifichi un incidente ovvero un inconveniente aeronautico in mare, l'autorita' che ne ha notizia informa immediatamente l'autorita' marittima, sede di organismo preposto al soccorso marittimo ai sensi del [decreto del Presidente della Repubblica 28 settembre 1994, n. 662](../DPR/Regolamento%20di%20attuazione%20della%20legge%203%20aprile%201989%20n.%20147%20concernente%20adesione%20alla%20convenzione%20internazionale%20sulla%20ricerca%20ed%20il%20salvataggio%20marittimo%20adottata%20ad%20Amburgo%20il%2027%20aprile%201979.md), l'ENAC e l'Agenzia nazionale per la sicurezza del volo.
  L'organismo preposto al soccorso marittimo provvede, ai sensi e secondo le modalita' del [decreto del Presidente della Repubblica 28 settembre 1994, n. 662](../DPR/Regolamento%20di%20attuazione%20della%20legge%203%20aprile%201989%20n.%20147%20concernente%20adesione%20alla%20convenzione%20internazionale%20sulla%20ricerca%20ed%20il%20salvataggio%20marittimo%20adottata%20ad%20Amburgo%20il%2027%20aprile%201979.md), alle operazioni di ricerca e salvataggio delle persone ed invia apposito rapporto sugli interventi effettuati e sui soccorsi prestati, nonche' ogni utile elemento, all'ENAC e all'Agenzia nazionale per la sicurezza del volo per i relativi accertamenti e le incombenze di competenza.».
 
@@ -668,67 +668,67 @@ L'[articolo 830 del codice della navigazione](../Codici/Approvazione%20del%20tes
 
 1.
 
-L'[articolo 834 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' abrogato.
+L'[articolo 834 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' abrogato.
 
 2.
 
-L'[articolo 835 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+L'[articolo 835 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
 "Art. 835 (Nascite, morti e scomparizioni da bordo). - Il comandante dell'aeromobile prende nota sul giornale di bordo delle nascite e delle morti avvenute a bordo, nonche' delle scomparizioni da bordo di persone e ne fa dichiarazione, nel luogo di primo approdo, alla struttura periferica dell'ENAC.
 All'estero la dichiarazione di cui al primo comma e' presentata all'autorita' consolare.
  Le autorita' di cui al primo e secondo comma raccolgono con processo verbale la dichiarazione del comandante e quelle dei testimoni, indicando i criteri prescritti per la compilazione dei relativi atti di stato civile.".
 
 3.
 
-Al [primo comma dell'articolo 836 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) le parole: "degli atti di matrimonio e" sono soppresse.
+Al [primo comma dell'articolo 836 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) le parole: "degli atti di matrimonio e" sono soppresse.
 
 4.
 
-Il primo ed il [secondo comma dell'articolo 837 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) sono sostituiti dai seguenti:
+Il primo ed il [secondo comma dell'articolo 837 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) sono sostituiti dai seguenti:
 "In caso di perdita o di perdita presunta dell'aeromobile, alla compilazione dei processi verbali di scomparizione di persone ed alla loro trasmissione alle autorita' competenti a norma delle disposizioni sull'ordinamento dello stato civile provvede la struttura periferica dell'ENAC.
 Se il sinistro si e' verificato all'estero ovvero, in caso di perdita presunta, se l'ultimo aeroporto toccato dall'aeromobile e' situato in territorio estero, i processi verbali sono compilati e trasmessi dall'autorita' consolare del luogo.".
- ((5.)) L'[articolo 838 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+ ((5.)) L'[articolo 838 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
 "Art. 838 (Conseguenze della scomparizione). - Le conseguenze della scomparizione da bordo o per perdita dell'aeromobile sono regolate dagli articoli 211 e 212. Le competenze dell'autorita' marittima sono attribuite all'autorita' di pubblica sicurezza.".
 
 ## Art. 15. — Della navigazione da turismo e con alianti
 
 1.
 
-Il titolo X del libro I della parte II del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' abrogato.
+Il titolo X del libro I della parte II del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' abrogato.
 
 2.
 
-L'[articolo 860 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' abrogato.
+L'[articolo 860 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' abrogato.
 
 3.
 
-Il [secondo comma dell'articolo 864 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' abrogato.
+Il [secondo comma dell'articolo 864 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' abrogato.
 
 4.
 
-Al [primo comma dell'articolo 865 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) le parole: «o, se trattasi di alianti libratori, mediante trascrizione nel registro matricolare dell'Aero club d'Italia» sono soppresse.
+Al [primo comma dell'articolo 865 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) le parole: «o, se trattasi di alianti libratori, mediante trascrizione nel registro matricolare dell'Aero club d'Italia» sono soppresse.
 
 5.
 
-L'[articolo 866 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+L'[articolo 866 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
  «Art. 866 (Ufficio competente ad eseguire la pubblicita). - La pubblicita' deve essere richiesta all'ENAC ovvero all'autorita' consolare del luogo ove l'aeromobile si trova. L'autorita' consolare trasmette immediatamente all'ENAC la documentazione presentata dall'interessato.».
 
 6.
 
-Il [secondo comma dell'articolo 867 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' abrogato.
+Il [secondo comma dell'articolo 867 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' abrogato.
 
 7.
 
 Al primo comma dell'articolo 1030, le parole: «, ovvero mediante trascrizione nel registro matricolare, se trattasi di alianti libratori» sono soppresse.
 
 Note all'art. 15:
- - Il testo vigente dell'[art. 864 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' come modificato dal presente decreto legislativo, e' il seguente:
+ - Il testo vigente dell'[art. 864 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' come modificato dal presente decreto legislativo, e' il seguente:
  «Art. 864 (Forma degli atti relativi alla proprieta' dell'aeromobile). - Gli atti costitutivi, traslativi o estintivi di proprieta' o di altri diritti reali sull'aeromobile o quote di esso devono essere fatti per iscritto a pena di nullita'. Tali atti all'estero devono essere ricevuti dall'autorita' consolare.».
- - Il testo vigente dell'[art. 865 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' come modificato dal presente decreto legislativo, e' il seguente:
+ - Il testo vigente dell'[art. 865 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' come modificato dal presente decreto legislativo, e' il seguente:
  «Art. 865 (Pubblicita' degli atti relativi alla proprieta' dell'aero-mobile). - Per gli effetti previsti dal [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), gli atti costitutivi, traslativi o estintivi di proprieta' o di altri diritti reali su aeromobili o loro quote sono resi pubblici mediante trascrizione nel registro aeronautico nazionale ed annotazione sul certificato di immatricolazione.
  Nelle stesse forme devono essere resi pubblici gli atti e le domande, per i quali il [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) richiede la trascrizione.».
- - Il testo vigente dell'[art. 867 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' come modificato dal presente decreto legislativo, e' il seguente:
+ - Il testo vigente dell'[art. 867 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' come modificato dal presente decreto legislativo, e' il seguente:
  «Art. 867 (Forma del titolo per la pubblicita). - La trascrizione e l'annotazione non possono compiersi, se non in forza di un titolo avente la forma prescritta nell'[art. 2657 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2657).».
- - Il testo vigente dell'[art. 1030 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' come modificato dal presente decreto legislativo, e' il seguente:
+ - Il testo vigente dell'[art. 1030 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' come modificato dal presente decreto legislativo, e' il seguente:
  «Art. 1030 (Pubblicita' dell'ipoteca). - Per gli effetti previsti dal [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), l'ipoteca sull'aeromobile deve essere resa pubblica, mediante trascrizione nel registro aeronautico nazionale e annotazione sul certificato di immatricolazione.
  L'ipoteca su aeromobile in costruzione e' resa pubblica mediante trascrizione nel registro delle costruzioni.
  Nelle stesse forme devono essere resi pubblici gli altri atti per i quali il [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) richiede l'iscrizione.».
@@ -737,17 +737,17 @@ Note all'art. 15:
 
 1.
 
-Il [primo comma dell'articolo 874 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente: «Chi assume l'esercizio di un aeromobile deve preventivamente farne dichiarazione all'ENAC, nelle forme e con le modalita' prescritte negli articoli da 268 a 270.».
+Il [primo comma dell'articolo 874 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente: «Chi assume l'esercizio di un aeromobile deve preventivamente farne dichiarazione all'ENAC, nelle forme e con le modalita' prescritte negli articoli da 268 a 270.».
 
 2.
 
-L'[articolo 875 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+L'[articolo 875 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
  «Art. 875 (Pubblicita' della dichiarazione). - La dichiarazione deve essere trascritta nel registro aeronautico nazionale ed annotata sul certificato di immatricolazione.
  L'annotazione sul certificato di immatricolazione e' fatta dall'autorita' competente del luogo nel quale l'aeromobile si trova o verso il quale e' diretto, previa comunicazione da parte dell'ufficio che tiene il registro aeronautico nazionale.
  In caso di discordanza fra la trascrizione nel registro e l'annotazione sul certificato di immatricolazione, prevalgono le risultanze del registro.».
 
 Nota all'art. 16:
- - Il testo vigente dell'[art. 874 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' come modificato dal presente decreto legislativo, e' il seguente:
+ - Il testo vigente dell'[art. 874 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' come modificato dal presente decreto legislativo, e' il seguente:
  «Art. 874 (Dichiarazione di esercente). - Chi assume l'esercizio di un aeromobile deve preventivamente farne dichiarazione all'E.N.A.C., nelle forme e con le modalita' prescritte negli articoli da 268 a 270.
  Quando l'esercizio non e' assunto dal proprietario, se l'esercente non provvede, la dichiarazione puo' essere fatta dal proprietario.».
 
@@ -755,7 +755,7 @@ Nota all'art. 16:
 
 1.
 
-Il capo I e la sezione I del capo II del titolo I del libro III della parte II del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) sono sostituiti dai seguenti:
+Il capo I e la sezione I del capo II del titolo I del libro III della parte II del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) sono sostituiti dai seguenti:
 
  «Capo I
 
@@ -827,37 +827,37 @@ Nota all'art. 17:
 
 1.
 
-Il capo I del titolo IV del libro III della parte II del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' abrogato.
+Il capo I del titolo IV del libro III della parte II del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' abrogato.
 
 ## Art. 19. — Delle infrazioni penali e amministrative
 
 1.
 
-Nel [secondo comma dell'articolo 1129 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), le parole: "nell'art. 751, lettera c)," sono sostituite dalle seguenti: "nell'articolo 756, primo comma, lettera c),".
+Nel [secondo comma dell'articolo 1129 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), le parole: "nell'art. 751, lettera c)," sono sostituite dalle seguenti: "nell'articolo 756, primo comma, lettera c),".
 
 2.
 
-Nel [primo comma dell'articolo 1161 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), le parole: "le disposizioni degli articoli 55, 714 e 716" sono sostituite dalle seguenti: "i vincoli cui e' assoggettata la proprieta' privata nelle zone prossime al demanio marittimo od agli aerodromi".
+Nel [primo comma dell'articolo 1161 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), le parole: "le disposizioni degli articoli 55, 714 e 716" sono sostituite dalle seguenti: "i vincoli cui e' assoggettata la proprieta' privata nelle zone prossime al demanio marittimo od agli aerodromi".
 
 3.
 
-Nel [secondo comma dell'articolo 1163 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) ((le parole: "nel secondo comma dell'art. 52 e nel terzo comma dell'articolo 59" sono soppresse.))
+Nel [secondo comma dell'articolo 1163 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) ((le parole: "nel secondo comma dell'art. 52 e nel terzo comma dell'articolo 59" sono soppresse.))
 
 4.
 
-Al [primo comma dell'articolo 1165 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) le parole: "723, primo comma," sono soppresse.
+Al [primo comma dell'articolo 1165 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) le parole: "723, primo comma," sono soppresse.
 
 5.
 
-L'[articolo 1181 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' abrogato.
+L'[articolo 1181 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' abrogato.
 
 6.
 
-Il [secondo comma dell'articolo 1183 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente: "Chiunque demolisce una nave o un galleggiante nazionali ovvero demolisce o smantella un aeromobile nazionale, senza l'autorizzazione prescritta negli articoli 160 o 759, e' punito con la sanzione amministrativa da euro cinquantuno a cinquecentosedici.".
+Il [secondo comma dell'articolo 1183 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente: "Chiunque demolisce una nave o un galleggiante nazionali ovvero demolisce o smantella un aeromobile nazionale, senza l'autorizzazione prescritta negli articoli 160 o 759, e' punito con la sanzione amministrativa da euro cinquantuno a cinquecentosedici.".
 
 7.
 
-All'[articolo 1184 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) sono apportate le seguenti modificazioni:
+All'[articolo 1184 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) sono apportate le seguenti modificazioni:
                         a)
                             al primo comma, il numero: "758" e' sostituito dal seguente: "760";
                         b)
@@ -865,29 +865,29 @@ All'[articolo 1184 del codice della navigazione](../Codici/Approvazione%20del%20
 
 8.
 
-L'[articolo 1185 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' abrogato.
+L'[articolo 1185 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' abrogato.
 
 9.
 
-L'[articolo 1188 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+L'[articolo 1188 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
 "Art. 1188 (Abusivo esercizio di navigazione aerea). - Chiunque esercita la navigazione aerea in violazione delle disposizioni che prescrivono il certificato di operatore aereo, la licenza di esercizio o la designazione di vettore, e' punito con l'arresto fino a sei mesi ovvero con l'ammenda fino a euro milletrentadue.".
 
 10.
 
-L'[articolo 1191 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+L'[articolo 1191 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
 "Art. 1191 (Abusiva realizzazione o ampliamento di aerodromi). - Chiunque realizza o amplia aerodromi o altri impianti aeronautici senza l'autorizzazione prescritta nell'articolo 694 ovvero non sottopone i progetti di cui all'articolo 702 alla prevista approvazione, e' punito con la sanzione amministrativa da cinquecentosedici euro a duemilasessantacinque euro.".
 
 11.
 
-Il [secondo comma dell'articolo 1200 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' abrogato.
+Il [secondo comma dell'articolo 1200 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' abrogato.
 
 12.
 
-L'[articolo 1202 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' abrogato.
+L'[articolo 1202 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' abrogato.
 
 13.
 
-All'[art. 1204 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) sono apportate le seguenti modificazioni:
+All'[art. 1204 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) sono apportate le seguenti modificazioni:
                         a)
                             la rubrica e' sostituita dalla seguente: "(Sorvolo di aeromobili stranieri)";
                         b)
@@ -897,27 +897,27 @@ All'[art. 1204 del codice della navigazione](../Codici/Approvazione%20del%20test
 
 14.
 
-Nell'[articolo 1205 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), i numeri: "818, 834, 835, 836" sono sostituiti dal seguente: "835".
+Nell'[articolo 1205 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), i numeri: "818, 834, 835, 836" sono sostituiti dal seguente: "835".
 
 15.
 
-L'[articolo 1229 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+L'[articolo 1229 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
 "Art. 1229 (Inosservanza di ordini sul collocamento di segnali e abbattimento di ostacoli). - Chiunque non osserva ((gli ordini previsti negli articoli 712 e 714 e' punito)) con la sanzione amministrativa fino a duecentosei euro.".
 
 16.
 
-L'[articolo 1230 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' abrogato.
+L'[articolo 1230 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' abrogato.
 
 17.
 
-L'[articolo 1234 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+L'[articolo 1234 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
 "Art. 1234 (Omessa assicurazione obbligatoria). - L'esercente che fa circolare l'aeromobile in violazione dell'articolo 798 e' punito con la sanzione amministrativa fino a euro milletrentadue.".
 
 ## Art. 20. — Norme finali
 
 1.
 
-In tutte le disposizioni del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) le parole: «direttore di aeroporto», «Registro aeronautico italiano» ed «Ente nazionale della gente dell'aria» sono sostituite dalla seguente: «ENAC».
+In tutte le disposizioni del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) le parole: «direttore di aeroporto», «Registro aeronautico italiano» ed «Ente nazionale della gente dell'aria» sono sostituite dalla seguente: «ENAC».
 
 2.
 
@@ -925,7 +925,7 @@ Dall'attuazione del presente decreto non devono derivare nuovi o maggiori oneri 
 
 3.
 
-Le disposizioni del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) introdotte o modificate dal presente decreto legislativo entrano in vigore trascorsi centoventi giorni dalla data di entrata in vigore del decreto stesso.
+Le disposizioni del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) introdotte o modificate dal presente decreto legislativo entrano in vigore trascorsi centoventi giorni dalla data di entrata in vigore del decreto stesso.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

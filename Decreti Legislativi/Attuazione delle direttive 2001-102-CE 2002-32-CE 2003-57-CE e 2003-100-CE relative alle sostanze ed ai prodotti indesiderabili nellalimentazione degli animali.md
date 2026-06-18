@@ -259,7 +259,7 @@ Salvo che il fatto costituisca piu' grave reato, alla stessa pena di cui al comm
 
 3.
 
-Nei casi di cui ai commi 1 e 2 non si applicano le disposizioni dell'[articolo 162 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Nei casi di cui ai commi 1 e 2 non si applicano le disposizioni dell'[articolo 162 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 4.
 

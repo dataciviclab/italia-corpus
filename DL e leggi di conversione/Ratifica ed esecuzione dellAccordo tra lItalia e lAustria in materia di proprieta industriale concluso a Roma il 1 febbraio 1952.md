@@ -24,7 +24,7 @@ Piena ed intera esecuzione e' data all'Accordo suddetto a decorrere dalla data d
 
 ## Art. 3.
 
-Le disposizioni contenute negli [articoli 3 del regio decreto-legge 10 gennaio 1926, n. 169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-10;169#art_3), convertito, con modificazioni, nella [legge 29 dicembre 1927, n. 2701](Conversione%20in%20legge%20con%20modifiche%20allart.%203%20del%20R.%20decreto%2010%20gennaio%201926%20n.%20169%20con%20cui%20si%20da%20esecuzione%20ai%20due%20atti%20internazionali%20stipulati%20allAja%20il%206%20novembre%201925%20fra%20lItalia%20ed%20a_a73f4049d9c5.md), e 21 del [regio decreto 29 giugno 1939, n. 1127](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), non sono applicabili ai benefici contemplati dall'Accordo sopradetto.
+Le disposizioni contenute negli [articoli 3 del regio decreto-legge 10 gennaio 1926, n. 169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-10;169#art_3), convertito, con modificazioni, nella [legge 29 dicembre 1927, n. 2701](Conversione%20in%20legge%20con%20modifiche%20allart.%203%20del%20R.%20decreto%2010%20gennaio%201926%20n.%20169%20con%20cui%20si%20da%20esecuzione%20ai%20due%20atti%20internazionali%20stipulati%20allAja%20il%206%20novembre%201925%20fra%20lItalia%20ed%20a_a73f4049d9c5.md), e 21 del [regio decreto 29 giugno 1939, n. 1127](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), non sono applicabili ai benefici contemplati dall'Accordo sopradetto.
 
 ## Art. 4.
 

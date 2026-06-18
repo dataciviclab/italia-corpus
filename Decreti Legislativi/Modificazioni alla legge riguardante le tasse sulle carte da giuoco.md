@@ -22,11 +22,11 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Al [regio decreto 30 dicembre 1923, n. 3277](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sulle%20carte%20da%20giuoco.%20023U3277.md), riguardante le tasse sulle carte da giuoco solo apportate le seguenti modificazioni:
+Al [regio decreto 30 dicembre 1923, n. 3277](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sulle%20carte%20da%20giuoco.%20023U3277.md), riguardante le tasse sulle carte da giuoco solo apportate le seguenti modificazioni:
 
 1.
 
-- L'art. 1, gia' modificato con il [decreto legislativo luogotenenziale 14 giugno 1945, n. 394](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20alla%20legge%20per%20le%20tasse%20sulle%20carte%20da%20giuoco.%20045U0394.md), e' ulteriormente modificato come appresso: 
+- L'art. 1, gia' modificato con il [decreto legislativo luogotenenziale 14 giugno 1945, n. 394](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20alla%20legge%20per%20le%20tasse%20sulle%20carte%20da%20giuoco.%20045U0394.md), e' ulteriormente modificato come appresso: 
  "La tassa di bolli sulle carte da giuoco fabbricate nell'interno dello Stato o provenienti dall'estero, e' stabilita nella misura seguente: 
  a) carte da giuoco comuni a mazzi di qualunque numero di carte, comprese le carte da giuoco dei tarocchi: tassa L. 100 per ogni mazzo; 
  b) carte da giuoco di lusso a mazzi di qualunque numero di carte tassa L. 260 per ogni mazzo. 

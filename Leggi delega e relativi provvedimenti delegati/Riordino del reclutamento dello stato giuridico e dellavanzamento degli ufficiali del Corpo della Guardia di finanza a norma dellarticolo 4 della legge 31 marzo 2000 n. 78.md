@@ -1964,7 +1964,7 @@ Sono inoltre, abrogati
 
 4.
 
-Dalla data di entrata in vigore del presente decreto e' abrogato l'[articolo 6, del Regio Decreto 3 giugno 1926, n. 1163](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20sul%20servizio%20e%20sulla%20gestione%20patrimoniale%20del%20naviglio%20della%20Regia%20guardia%20di%20finanza.%20026U1163.md).
+Dalla data di entrata in vigore del presente decreto e' abrogato l'[articolo 6, del Regio Decreto 3 giugno 1926, n. 1163](../Regi%20decreti/Approvazione%20del%20regolamento%20sul%20servizio%20e%20sulla%20gestione%20patrimoniale%20del%20naviglio%20della%20Regia%20guardia%20di%20finanza.%20026U1163.md).
 
 ### Art. 68. — (Riduzione e rimodulazione degli organici)
 

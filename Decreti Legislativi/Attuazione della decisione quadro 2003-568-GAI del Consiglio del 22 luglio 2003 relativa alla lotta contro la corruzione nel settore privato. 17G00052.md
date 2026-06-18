@@ -22,7 +22,7 @@ Visto il [decreto legislativo 8 giugno 2001, n. 231](Disciplina%20della%20respon
 
 Visto il [regio decreto 16 marzo 1942, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262), recante approvazione del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262);
 
-Visto il [regio decreto 19 ottobre 1930, n. 1398](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), recante approvazione del testo definitivo del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+Visto il [regio decreto 19 ottobre 1930, n. 1398](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), recante approvazione del testo definitivo del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
 
 Vista la preliminare deliberazione del Consiglio dei ministri, adottata nella riunione del 14 dicembre 2016;
 
@@ -69,7 +69,7 @@ N O T E
  3. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Le amministrazioni interessate provvedono alla sua attuazione con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.". 
  - Il [decreto legislativo 8 giugno 2001, n. 231](Disciplina%20della%20responsabilita%20amministrativa%20delle%20persone%20giuridiche%20delle%20societa%20e%20delle%20associazioni%20anche%20prive%20di%20personalita%20giuridica%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20sett_48a6c2b5fc9a.md), recante disciplina della responsabilita' amministrativa delle persone giuridiche, delle societa' e delle associazioni anche prive di personalita' giuridica, a norma dell'[articolo 11 della legge 29 settembre 2000, n. 300](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Atti%20internazionali%20elaborati%20in%20base%20allarticolo%20K.%203%20del%20Trattato%20dellUnione%20europea%20Convenzione%20sulla%20tutela%20degli%20interessi%20finanziari%20delle%20Comuni_cf304d4a1900.md), e' pubblicato nella Gazzetta Ufficiale 19 giugno 2001, n. 140. 
  - Il [regio decreto 16 marzo 1942, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262), recante approvazione del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) e' pubblicato nella Gazzetta Ufficiale 4 aprile 1942, n. 79, edizione straordinaria. 
- - Il [regio decreto 19 ottobre 1930, n. 1398](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), recante approvazione del testo definitivo del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' pubblicato nella Gazzetta Ufficiale 26 ottobre 1930, n. 251, supplemento straordinario. 
+ - Il [regio decreto 19 ottobre 1930, n. 1398](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), recante approvazione del testo definitivo del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' pubblicato nella Gazzetta Ufficiale 26 ottobre 1930, n. 251, supplemento straordinario. 
  
  Note all'art. 1: 
  - Per i riferimenti normativi alla decisione quadro 2003/568/GAI si veda nelle note alle premesse.
@@ -125,7 +125,7 @@ Dopo l'[articolo 2635 del codice civile](https://www.normattiva.it/uri-res/N2Ls?
 1.
 
 Dopo l'articolo 2635-bis e' inserito il seguente: 
- «Art. 2635-ter (Pene accessorie). - La condanna per il reato di cui all'articolo 2635, primo comma, importa in ogni caso l'interdizione temporanea dagli uffici direttivi delle persone giuridiche e delle imprese di cui all'[articolo 32-bis del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) nei confronti di chi sia gia' stato condannato per il medesimo reato o per quello di cui all'articolo 2635-bis, secondo comma.».
+ «Art. 2635-ter (Pene accessorie). - La condanna per il reato di cui all'articolo 2635, primo comma, importa in ogni caso l'interdizione temporanea dagli uffici direttivi delle persone giuridiche e delle imprese di cui all'[articolo 32-bis del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) nei confronti di chi sia gia' stato condannato per il medesimo reato o per quello di cui all'articolo 2635-bis, secondo comma.».
 
 ### Art. 6. — Modifiche al decreto legislativo 8 giugno 2001, n. 231
 

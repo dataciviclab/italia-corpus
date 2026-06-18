@@ -26,7 +26,7 @@ Piena ed intera esecuzione e' data agli Accordi di cui all'articolo precedente a
 
 ## Art. 3.
 
-Le disposizioni del [regio decreto 21 giugno 1942, numero 929](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md) e delle successive sue integrazioni e modificazioni sono estese, in quanto applicabili, ai marchi di servizio destinati a contraddistinguere l'attivita' di imprese di trasporti e comunicazioni, pubblicita', costruzioni, assicurazioni e credito, spettacolo, radio e televisione, trattamento di materiali e simili.
+Le disposizioni del [regio decreto 21 giugno 1942, numero 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md) e delle successive sue integrazioni e modificazioni sono estese, in quanto applicabili, ai marchi di servizio destinati a contraddistinguere l'attivita' di imprese di trasporti e comunicazioni, pubblicita', costruzioni, assicurazioni e credito, spettacolo, radio e televisione, trattamento di materiali e simili.
 
 ## Art. 4.
 

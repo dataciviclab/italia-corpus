@@ -30,7 +30,7 @@ Piena ed intera esecuzione e' data alla Convenzione di cui all'articolo 1, a dec
 
 1.
 
-Al [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono apportate le seguenti modificazioni:
+Al [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono apportate le seguenti modificazioni:
                         a)
                             all'articolo 544-bis, le parole: « da tre mesi a diciotto mesi » sono sostituite dalle seguenti: « da quattro mesi a due anni »;
                         b)
@@ -56,7 +56,7 @@ Nel caso di condanna o di applicazione della pena su richiesta delle parti ai se
 
 5.
 
-Gli animali oggetto di provvedimento di sequestro o di confisca sono affidati alle associazioni o agli enti indicati nel decreto del Ministro della salute, adottato ai sensi dell'articolo 19-quater delle disposizioni di coordinamento e transitorie per il [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), di cui al [regio decreto 28 maggio 1931, n. 601](../Regi%20decreti/Disposizioni%20di%20coordinamento%20e%20transitorie%20per%20il%20codice%20penale.%20031U0601.md), che ne fanno richiesta, salvo che vi ostino esigenze processuali.
+Gli animali oggetto di provvedimento di sequestro o di confisca sono affidati alle associazioni o agli enti indicati nel decreto del Ministro della salute, adottato ai sensi dell'articolo 19-quater delle disposizioni di coordinamento e transitorie per il [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), di cui al [regio decreto 28 maggio 1931, n. 601](../Regi%20decreti/Disposizioni%20di%20coordinamento%20e%20transitorie%20per%20il%20codice%20penale.%20031U0601.md), che ne fanno richiesta, salvo che vi ostino esigenze processuali.
 
 6.
 
@@ -92,11 +92,11 @@ Il trasportatore o il titolare di un'azienda commerciale che, nel periodo di tre
 
 2.
 
-Il titolare di un'azienda commerciale che, nel periodo di tre anni, ((commette due violazioni)) delle disposizioni previste dall'[articolo 13-bis, comma 3, del decreto legislativo 30 gennaio 1993, n. 28](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%2089-662-CEE%20e%2090-425-CEE%20relative%20ai%20controlli%20veterinari%20e%20zootecnici%20di%20taluni%20animali%20vivi%20e%20su%20prodotti%20di%20origine%20animale%20applicabili%20negli%20scambi%20intracomunitari.md), accertate in modo definitivo, e' soggetto alla sospensione dell'autorizzazione per l'esercizio dell'attivita' per un periodo ((da due a sei mesi)). Se il periodo intercorrente tra le due violazioni e' inferiore a tre mesi, e' applicata la durata massima della sospensione.
+Il titolare di un'azienda commerciale che, nel periodo di tre anni, ((commette due violazioni)) delle disposizioni previste dall'[articolo 13-bis, comma 3, del decreto legislativo 30 gennaio 1993, n. 28](../Decreti%20Legislativi/Attuazione%20delle%20direttive%2089-662-CEE%20e%2090-425-CEE%20relative%20ai%20controlli%20veterinari%20e%20zootecnici%20di%20taluni%20animali%20vivi%20e%20su%20prodotti%20di%20origine%20animale%20applicabili%20negli%20scambi%20intracomunitari.md), accertate in modo definitivo, e' soggetto alla sospensione dell'autorizzazione per l'esercizio dell'attivita' per un periodo ((da due a sei mesi)). Se il periodo intercorrente tra le due violazioni e' inferiore a tre mesi, e' applicata la durata massima della sospensione.
 
 3.
 
-Il trasportatore che, nel periodo di tre anni, ((commette tre violazioni)) delle disposizioni previste dall'articolo 5 della presente legge, o il titolare di un'azienda commerciale che, nel periodo di tre anni, ((commette tre violazioni)) delle disposizioni previste dal medesimo articolo 5 della presente legge o dall'[articolo 13-bis, comma 3, del decreto legislativo 30 gennaio 1993, n. 28](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%2089-662-CEE%20e%2090-425-CEE%20relative%20ai%20controlli%20veterinari%20e%20zootecnici%20di%20taluni%20animali%20vivi%20e%20su%20prodotti%20di%20origine%20animale%20applicabili%20negli%20scambi%20intracomunitari.md), accertate in modo definitivo, e' soggetto alla revoca dell'autorizzazione per l'esercizio dell'attivita' ((, senza possibilita' di conseguirla nuovamente)).
+Il trasportatore che, nel periodo di tre anni, ((commette tre violazioni)) delle disposizioni previste dall'articolo 5 della presente legge, o il titolare di un'azienda commerciale che, nel periodo di tre anni, ((commette tre violazioni)) delle disposizioni previste dal medesimo articolo 5 della presente legge o dall'[articolo 13-bis, comma 3, del decreto legislativo 30 gennaio 1993, n. 28](../Decreti%20Legislativi/Attuazione%20delle%20direttive%2089-662-CEE%20e%2090-425-CEE%20relative%20ai%20controlli%20veterinari%20e%20zootecnici%20di%20taluni%20animali%20vivi%20e%20su%20prodotti%20di%20origine%20animale%20applicabili%20negli%20scambi%20intracomunitari.md), accertate in modo definitivo, e' soggetto alla revoca dell'autorizzazione per l'esercizio dell'attivita' ((, senza possibilita' di conseguirla nuovamente)).
 
 4.
 
@@ -115,11 +115,11 @@ Ai fini dell'accertamento e dell'irrogazione delle sanzioni previste dalla prese
 
 2.
 
-Quando una violazione delle disposizioni previste dall'articolo 5 della presente legge e' commessa utilizzando un veicolo immatricolato all'estero, si applicano le disposizioni dell'[articolo 207 del codice della strada](../Codici/Nuovo%20codice%20della%20strada.md), di cui al [decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), e successive modificazioni.
+Quando una violazione delle disposizioni previste dall'articolo 5 della presente legge e' commessa utilizzando un veicolo immatricolato all'estero, si applicano le disposizioni dell'[articolo 207 del codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), di cui al [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e successive modificazioni.
 
 3.
 
-Il veicolo sottoposto a fermo amministrativo ai sensi dell'[articolo 207 del codice della strada](../Codici/Nuovo%20codice%20della%20strada.md), di cui al [decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), e successive modificazioni, e' affidato in custodia, a spese del responsabile della violazione, ad uno dei soggetti indicati nell'articolo 214-bis del medesimo codice, di cui al [decreto legislativo n. 285 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;285), e successive modificazioni. Gli animali sono ricoverati, a spese del responsabile della violazione, in un luogo che garantisca la tutela del loro benessere nel rispetto delle norme vigenti in materia.
+Il veicolo sottoposto a fermo amministrativo ai sensi dell'[articolo 207 del codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), di cui al [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e successive modificazioni, e' affidato in custodia, a spese del responsabile della violazione, ad uno dei soggetti indicati nell'articolo 214-bis del medesimo codice, di cui al [decreto legislativo n. 285 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;285), e successive modificazioni. Gli animali sono ricoverati, a spese del responsabile della violazione, in un luogo che garantisca la tutela del loro benessere nel rispetto delle norme vigenti in materia.
 
 4.
 

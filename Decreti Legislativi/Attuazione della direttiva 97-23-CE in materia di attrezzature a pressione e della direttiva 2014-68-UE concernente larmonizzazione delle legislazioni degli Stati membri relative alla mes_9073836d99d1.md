@@ -111,7 +111,7 @@ Sono esclusi dal campo di applicazione del presente decreto:
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 15 febbraio 2016, n. 26](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che le presenti modifiche si applicano a decorrere dal 19 luglio 2016.
+Il [D.Lgs. 15 febbraio 2016, n. 26](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che le presenti modifiche si applicano a decorrere dal 19 luglio 2016.
 
 ## Art. 2. — (( (Messa a disposizione sul mercato e messa in servizio). ))
 
@@ -129,7 +129,7 @@ Le attrezzature a pressione e gli insiemi possono essere messi a disposizione de
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 15 febbraio 2016, n. 26](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
+Il [D.Lgs. 15 febbraio 2016, n. 26](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
 
 ## Art. 3. — Requisiti tecnici particolari
 
@@ -176,7 +176,7 @@ In deroga a quanto previsto dall'articolo 4, comma 1, sono consentite l'immissio
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 15 febbraio 2016, n. 26](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorre dal 19 luglio 2016.
+Il [D.Lgs. 15 febbraio 2016, n. 26](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorre dal 19 luglio 2016.
 
 ## Art. 4. — (( (Libera circolazione).))
 
@@ -198,7 +198,7 @@ Non e' possibile vietare, limitare o ostacolare, per rischi dovuti alla pression
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 15 febbraio 2016, n. 26](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
+Il [D.Lgs. 15 febbraio 2016, n. 26](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
 
 ## Art. 4-bis. — (( (Obblighi dei fabbricanti). ))
 
@@ -244,7 +244,7 @@ I fabbricanti che ritengono o hanno motivo di ritenere che le attrezzature a pre
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 15 febbraio 2016, n. 26](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
+Il [D.Lgs. 15 febbraio 2016, n. 26](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
 
 ## Art. 4-ter. — (( (Rappresentanti autorizzati). ))
 
@@ -264,7 +264,7 @@ c) cooperare con le autorita' nazionali competenti, su loro richiesta, a qualsia
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 15 febbraio 2016, n. 26](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
+Il [D.Lgs. 15 febbraio 2016, n. 26](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
 
 ## Art. 4-quater. — (( (Obblighi degli importatori). ))
 
@@ -312,7 +312,7 @@ Per un periodo di dieci anni dalla data in cui le attrezzature a pressione o gli
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 15 febbraio 2016, n. 26](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
+Il [D.Lgs. 15 febbraio 2016, n. 26](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
 
 ## Art. 4-quinquies. — (( (Obblighi dei distributori). ))
 
@@ -342,7 +342,7 @@ I distributori che ritengono o hanno motivo di ritenere che le attrezzature a pr
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 15 febbraio 2016, n. 26](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
+Il [D.Lgs. 15 febbraio 2016, n. 26](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
 
 ## Art. 4-sexies. — (( (Casi in cui gli obblighi dei fabbricanti si applicano agli importatori e ai distributori). ))
 
@@ -353,7 +353,7 @@ Il [D.Lgs. 15 febbraio 2016, n. 26](../Atti%20di%20recepimento%20direttive%20UE/
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 15 febbraio 2016, n. 26](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
+Il [D.Lgs. 15 febbraio 2016, n. 26](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
 
 ## Art. 4-septies. — (( (Identificazione degli operatori economici). ))
 
@@ -375,7 +375,7 @@ Gli operatori economici indicano alle autorita' di vigilanza che ne facciano ric
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 15 febbraio 2016, n. 26](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
+Il [D.Lgs. 15 febbraio 2016, n. 26](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
 
 ## Art. 5. — (( (Presunzione di conformita' e dichiarazione di conformita' UE).))
 
@@ -409,7 +409,7 @@ Se alle attrezzature a pressione o agli insiemi si applicano piu' atti dell'Unio
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 15 febbraio 2016, n. 26](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
+Il [D.Lgs. 15 febbraio 2016, n. 26](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
 
 ## Art. 6.
 
@@ -434,7 +434,7 @@ Anche ai fini di cui al comma 1, il Ministero dello sviluppo economico assicura 
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 15 febbraio 2016, n. 26](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
+Il [D.Lgs. 15 febbraio 2016, n. 26](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
 
 ## Art. 8. — (( (Sorveglianza del mercato e controllo delle attrezzature a pressione e degli insiemi che entrano nel mercato dell'Unione).))
 
@@ -460,7 +460,7 @@ Le amministrazioni di cui al primo periodo del comma 2 si avvalgono per gli acce
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 15 febbraio 2016, n. 26](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
+Il [D.Lgs. 15 febbraio 2016, n. 26](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
 
 ## Art. 8-bis. — (( (Procedure a livello nazionale per le attrezzature a pressione o gli insiemi che presentano rischi).))
 
@@ -526,7 +526,7 @@ Il Ministero dello sviluppo economico adotta immediatamente le opportune misure 
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 15 febbraio 2016, n. 26](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
+Il [D.Lgs. 15 febbraio 2016, n. 26](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
 
 ## Art. 8-ter. — (( (Procedura di salvaguardia dell'Unione).))
 
@@ -548,7 +548,7 @@ Se la misura nazionale relativa a un'attrezzatura a pressione o a un insieme e' 
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 15 febbraio 2016, n. 26](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
+Il [D.Lgs. 15 febbraio 2016, n. 26](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
 
 ## Art. 8-quater. — (( (Attrezzature a pressione o insiemi conformi che presentano rischi).))
 
@@ -570,7 +570,7 @@ Nei casi di cui al comma 1, l'operatore economico garantisce che siano prese mis
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 15 febbraio 2016, n. 26](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
+Il [D.Lgs. 15 febbraio 2016, n. 26](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
 
 ## Art. 8-quinquies. — (( (Non conformita' formale).))
 
@@ -606,7 +606,7 @@ Fatto salvo l'articolo 8-bis, se il Ministero dello sviluppo economico giunge a 
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 15 febbraio 2016, n. 26](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
+Il [D.Lgs. 15 febbraio 2016, n. 26](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
 
 ## Art. 9. — (( (Classificazione delle attrezzature a pressione).))
 
@@ -697,7 +697,7 @@ In deroga ai commi 1 e 6 il Ministero dello sviluppo economico puo', ove giustif
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 15 febbraio 2016, n. 26](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
+Il [D.Lgs. 15 febbraio 2016, n. 26](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
 
 ## Art. 11. — (( (Approvazione europea di materiali). ))
 
@@ -728,7 +728,7 @@ L'organismo notificato che ha rilasciato l'approvazione europea di materiali rev
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 15 febbraio 2016, n. 26](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
+Il [D.Lgs. 15 febbraio 2016, n. 26](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
 
 ## Art. 12. — (( (Organismi notificati, notifica ed autorita' di notifica).))
 
@@ -775,7 +775,7 @@ Il Ministero dello sviluppo economico, quale autorita' di notifica, il medesimo 
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 15 febbraio 2016, n. 26](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
+Il [D.Lgs. 15 febbraio 2016, n. 26](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
 
 ## Art. 13. — (( (Prescrizioni relative agli organismi notificati e alle entita' terze riconosciute e presunzione di conformita').))
 
@@ -848,7 +848,7 @@ Gli organismi di valutazione della conformita' partecipano alle attivita' di nor
 
 AGGIORNAMENTO (2)
 
-Il [D. Lgs. 15 febbraio 2016, n. 26](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
+Il [D. Lgs. 15 febbraio 2016, n. 26](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
 
 ## Art. 14. — (( (Ispettorati degli utilizzatori).))
 
@@ -886,7 +886,7 @@ Il Ministero dello sviluppo economico comunica agli altri Stati membri e alla Co
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 15 febbraio 2016, n. 26](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
+Il [D.Lgs. 15 febbraio 2016, n. 26](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
 
 ## Art. 14-bis. — (( (Prescrizioni relative agli ispettorati degli utilizzatori). ))
 
@@ -957,7 +957,7 @@ Il personale degli ispettorati degli utilizzatori e' tenuto al segreto professio
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 15 febbraio 2016, n. 26](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
+Il [D.Lgs. 15 febbraio 2016, n. 26](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
 
 ## Art. 14-ter. — (( (Affiliate e subappaltatori degli organismi di valutazione della conformita'). ))
 
@@ -983,7 +983,7 @@ Le attivita' possono essere subappaltate o eseguite da un'affiliata solo con il 
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 15 febbraio 2016, n. 26](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
+Il [D.Lgs. 15 febbraio 2016, n. 26](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
 
 ## Art. 14-quater. — (( (Domanda e procedura di notifica e modifiche delle notifiche). ))
 
@@ -1029,7 +1029,7 @@ Nei casi di limitazione, sospensione o ritiro della notifica, oppure di cessazio
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 15 febbraio 2016, n. 26](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
+Il [D.Lgs. 15 febbraio 2016, n. 26](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
 
 ## Art. 14-quinquies. — (( (Obblighi operativi degli organismi notificati, degli ispettorati degli utilizzatori e delle entita' terze riconosciute e ricorsi contro le loro decisioni). ))
 
@@ -1064,7 +1064,7 @@ Qualora non siano prese misure correttive o non producano il risultato richiesto
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 15 febbraio 2016, n. 26](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
+Il [D.Lgs. 15 febbraio 2016, n. 26](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
 
 ## Art. 14-sexies. — (( (Obbligo di informazione a carico degli organismi notificati, degli ispettorati degli utilizzatori e delle entita' terze riconosciute). ))
 
@@ -1094,7 +1094,7 @@ Gli organismi notificati, le entita' terze riconosciute e gli ispettorati degli 
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 15 febbraio 2016, n. 26](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
+Il [D.Lgs. 15 febbraio 2016, n. 26](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
 
 ## Art. 15. — (( (Marcatura CE). ))
 
@@ -1132,7 +1132,7 @@ La marcatura CE e, se del caso, il numero di identificazione dell'organismo noti
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 15 febbraio 2016, n. 26](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
+Il [D.Lgs. 15 febbraio 2016, n. 26](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
 
 ## Art. 16. — Irregolare o indebita apposizione della marcatura CE
 
@@ -1149,7 +1149,7 @@ Nel caso di inottemperanza agli obblighi di cui al comma 1, il Ministero ((dello
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 15 febbraio 2016, n. 26](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che le presenti modifiche si applicano a decorrere dal 19 luglio 2016.
+Il [D.Lgs. 15 febbraio 2016, n. 26](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che le presenti modifiche si applicano a decorrere dal 19 luglio 2016.
 
 ## Art. 17. — Cooperazione con la Commissione europea e con gli Stati membri dell'Unione europea
 
@@ -1161,7 +1161,7 @@ Nell'esercizio delle competenze attribuitegli dal presente decreto, il Ministero
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 15 febbraio 2016, n. 26](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
+Il [D.Lgs. 15 febbraio 2016, n. 26](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
 
 ## Art. 18. — Sanzioni
 
@@ -1197,7 +1197,7 @@ Per l'applicazione delle sanzioni amministrative previste dal presente articolo 
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 15 febbraio 2016, n. 26](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che le presenti modifiche si applicano a decorrere dal 19 luglio 2016.
+Il [D.Lgs. 15 febbraio 2016, n. 26](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che le presenti modifiche si applicano a decorrere dal 19 luglio 2016.
 
 ## Art. 19. — Disposizioni per la messa in servizio e l'utilizzazione delle attrezzature a pressione e degli insiemi
 
@@ -1225,16 +1225,16 @@ Con i decreti di cui al comma 1, d'intesa con il Ministero della difesa, sono in
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 15 febbraio 2016, n. 26](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che le presenti modifiche si applicano a decorrere dal 19 luglio 2016.
+Il [D.Lgs. 15 febbraio 2016, n. 26](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che le presenti modifiche si applicano a decorrere dal 19 luglio 2016.
 
 ## Art. 20. — Norma di rinvio
 
 1.
 
-Alle procedure di valutazione della conformita' delle attrezzature a pressione e degli insiemi disciplinati dal presente decreto, a quelle finalizzate alla designazione degli organismi abilitati ad attestare la conformita', alla vigilanza sugli organismi stessi, nonche' all'effettuazione dei controlli del mercato, si applicano le disposizioni dell'[articolo 47 della legge 6 febbraio 1996, n. 52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md).
+Alle procedure di valutazione della conformita' delle attrezzature a pressione e degli insiemi disciplinati dal presente decreto, a quelle finalizzate alla designazione degli organismi abilitati ad attestare la conformita', alla vigilanza sugli organismi stessi, nonche' all'effettuazione dei controlli del mercato, si applicano le disposizioni dell'[articolo 47 della legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md).
 
-Nota all'[art. 20](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md):
- - L'[art. 47 della legge 6 febbraio 1996, n. 52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), recante "Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 1994", e' il seguente:
+Nota all'[art. 20](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md):
+ - L'[art. 47 della legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), recante "Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 1994", e' il seguente:
  "Art. 47 (Procedure di certificazione e/o attestazione finalizzate alla marcatura CE). - 1. Le spese relative alle procedure di certificazione e/o attestazione per l'apposizione della marcatura CE, previste dalla normativa comunitaria, nonche' quelle conseguenti alle procedure di riesame delle istanze presentate per le stesse finalita', sono a carico del fabbricante o del suo rappresentante stabilito nell'Unione europea.
  2. Le spese relative alle procedure finalizzate all'autorizzazione degli organismi ad effettuare le procedure di cui al comma 1 sono a carico dei richiedenti.
  Le spese relative ai successivi controlli sugli organismi autorizzati sono a carico di tutti gli organismi autorizzati per la medesima tipologia dei prodotti. I controlli possono avvenire anche mediante l'esame a campione dei prodotti certificati.
@@ -1257,7 +1257,7 @@ Le spese relative alle procedure finalizzate al rilascio dell'approvazione europ
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 15 febbraio 2016, n. 26](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md), ha disposto (con l'art. 2, comma 1, lettera c)) che nel comma 2 del presente articolo le parole: «dell'industria, del commercio e dell'artigianato» sono sostituite dalle seguenti: «dello sviluppo economico». 
+Il [D.Lgs. 15 febbraio 2016, n. 26](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md), ha disposto (con l'art. 2, comma 1, lettera c)) che nel comma 2 del presente articolo le parole: «dell'industria, del commercio e dell'artigianato» sono sostituite dalle seguenti: «dello sviluppo economico». 
  Ha inoltre disposto (con l'art. 3, comma 1) che le presenti modifiche si applicano a decorrere dal 19 luglio 2016.
 
 ## Art. 22. — (( (Disciplina transitoria). ))
@@ -1280,7 +1280,7 @@ E' consentita la messa a disposizione sul mercato ovvero la messa in servizio di
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 15 febbraio 2016, n. 26](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
+Il [D.Lgs. 15 febbraio 2016, n. 26](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-68-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relativa%20alla%20messa%20a%20dis_e22d7114b9ad.md) ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
 
 ## Art. 23.
 

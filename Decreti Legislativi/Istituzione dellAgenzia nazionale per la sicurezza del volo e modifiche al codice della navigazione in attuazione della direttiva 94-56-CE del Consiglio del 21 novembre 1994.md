@@ -14,13 +14,13 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la [direttiva 94/56/CE del Consiglio del 21 novembre 1994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1994;56), che stabilisce i principi fondamentali in materia di inchieste su incidenti e inconvenienti nel settore dell'aviazione civile;
 
-Vista la [legge 24 aprile 1998, n. 128](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), ed in particolare l'articolo 23;
+Vista la [legge 24 aprile 1998, n. 128](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), ed in particolare l'articolo 23;
 
 Visto il [decreto legislativo 25 luglio 1997, n. 250](Istituzione%20dellEnte%20nazionale%20per%20laviazione%20civile%20E.N.A.C.md);
 
 Visto il [decreto legislativo 3 febbraio 1993, n. 29](Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
 
-Visto il [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+Visto il [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
 
 Visto il regolamento per la navigazione aerea, approvato con [regio decreto 11 gennaio 1925, n. 356](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20la%20navigazione%20aerea.%20025U0356.md);
 
@@ -61,9 +61,9 @@ Avvertenza:
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti. 
  - La [direttiva 94/56/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1994;56) e' pubblicata in GUCE n. L 
  319 del 21 novembre 1994. 
- - La [legge 24 aprile 1998, n. 128](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), reca disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee (legge comunitaria 1995-1997); l'art. 23 cosi' recita: 
+ - La [legge 24 aprile 1998, n. 128](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), reca disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee (legge comunitaria 1995-1997); l'art. 23 cosi' recita: 
  "Art. 23 (Inchieste su incidenti e inconvenienti nel settore dell'aviazione civile: criteri di delega). - 1.
- L'attuazione della [direttiva 94/56/CE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1994;56) si informa, ove occorra anche con la modificazione ed integrazione delle disposizioni del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), del regolamento per la navigazione aerea, approvato con [regio decreto 11 gennaio 1925, n. 356](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20la%20navigazione%20aerea.%20025U0356.md), nonche' delle altre norme comunque rilevanti in materia, tenuto conto degli obblighi internazionali, ai seguenti principi e criteri direttivi: 
+ L'attuazione della [direttiva 94/56/CE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1994;56) si informa, ove occorra anche con la modificazione ed integrazione delle disposizioni del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), del regolamento per la navigazione aerea, approvato con [regio decreto 11 gennaio 1925, n. 356](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20la%20navigazione%20aerea.%20025U0356.md), nonche' delle altre norme comunque rilevanti in materia, tenuto conto degli obblighi internazionali, ai seguenti principi e criteri direttivi: 
  a) prevedere, per ogni incidente aereo o inconveniente grave accaduti in Italia ovvero, se nessun altro Stato vi provvede, accaduti altrove e coinvolgenti un aeromobile immatricolato in Italia o gestito da una compagnia stabilita in Italia, l'obbligo di un'inchiesta tecnica che, salve le indagini giudiziarie e quelle comunque rivolte all'accertamento di eventuali responsabilita' previste dalle vigenti disposizioni, abbia il solo obiettivo di trarre dall'accertamento dei fatti gli insegnamenti che consentano di prevenire futuri incidenti e inconvenienti; 
  b) prevedere l'istituzione di un organismo aeronautico civile permanente, competente a svolgere o a controllare l'inchiesta di cui alla lettera a) ed a compiere ogni attivita' di studio e proposta in funzione della sicurezza del volo e della prevenzione, disciplinandone l'organizzazione, le funzioni, il patrimonio, le modalita' di gestione e la soggezione al controllo successivo della Corte dei conti; 
  c) assicurare all'organismo di cui alla lettera b) indipendenza funzionale, particolarmente nei confronti delle autorita' aeronautiche nazionali competenti per la navigabilita', l'omologazione e le operazioni di volo, la manutenzione, il rilascio delle licenze, il controllo del traffico aereo o la gestione degli aeroporti e, in generale, nei confronti di qualsiasi altra parte, i cui interessi possano entrare in conflitto con il compito affidato; 
@@ -133,7 +133,7 @@ Ai fini del presente decreto legislativo si intende per:
 
 1.
 
-L'Agenzia, fatte salve le competenze del Ministero della difesa in merito agli aeromobili di Stato, conduce le inchieste tecniche di cui all'[articolo 826 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' come sostituito dall'articolo 17, comma 1, del presente decreto, con il solo obiettivo di prevenire incidenti e inconvenienti, escludendo ogni valutazione di colpa e responsabilita'.
+L'Agenzia, fatte salve le competenze del Ministero della difesa in merito agli aeromobili di Stato, conduce le inchieste tecniche di cui all'[articolo 826 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' come sostituito dall'articolo 17, comma 1, del presente decreto, con il solo obiettivo di prevenire incidenti e inconvenienti, escludendo ogni valutazione di colpa e responsabilita'.
 
 2.
 
@@ -510,7 +510,7 @@ Titolo II
 
 1.
 
-Il titolo VIII del libro I, parte II del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+Il titolo VIII del libro I, parte II del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
  "Titolo VIII
  Delle inchieste tecniche sugli incidenti
  e sugli inconvenienti aeronautici
@@ -531,7 +531,7 @@ Nota all'[art. 17:
 
 1.
 
-Sono abrogati l'[articolo 833 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e gli articoli dal 273 al 278-ter del regolamento per la navigazione aerea, approvato con [regio decreto 11 gennaio 1925, n. 356](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20la%20navigazione%20aerea.%20025U0356.md).
+Sono abrogati l'[articolo 833 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e gli articoli dal 273 al 278-ter del regolamento per la navigazione aerea, approvato con [regio decreto 11 gennaio 1925, n. 356](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20la%20navigazione%20aerea.%20025U0356.md).
 
 Nota all'art. 18:
  - Per il titolo del [regio decreto 11 gennaio 1925, n. 356](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20la%20navigazione%20aerea.%20025U0356.md), vedi nelle note alle premesse.

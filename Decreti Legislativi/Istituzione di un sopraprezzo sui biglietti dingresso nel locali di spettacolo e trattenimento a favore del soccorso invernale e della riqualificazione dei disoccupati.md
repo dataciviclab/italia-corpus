@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-In deroga all'[art. 5 del regio decreto legislativo 30 maggio 1946, n. 538](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20dei%20diritti%20erariali%20sui%20pubblici%20spettacoli.md), e' istituito, per un periodo di tempo limitato ai giorni festivi dal 25 gennaio al 31 marzo 1948, un sopraprezzo su ciascun biglietto d'ingresso nei locali in cui si danno trattenimenti ed altri pubblici spettacoli di qualsiasi specie, soggetti a diritto erariale, ivi comprese le manifestazioni sportive con o senza scommesse, nella misura seguente:
+In deroga all'[art. 5 del regio decreto legislativo 30 maggio 1946, n. 538](../Regi%20decreti%20legislativi/Nuove%20norme%20dei%20diritti%20erariali%20sui%20pubblici%20spettacoli.md), e' istituito, per un periodo di tempo limitato ai giorni festivi dal 25 gennaio al 31 marzo 1948, un sopraprezzo su ciascun biglietto d'ingresso nei locali in cui si danno trattenimenti ed altri pubblici spettacoli di qualsiasi specie, soggetti a diritto erariale, ivi comprese le manifestazioni sportive con o senza scommesse, nella misura seguente:
 
 sul biglietto, al netto del diritto erariale,
 fino a L. 50: . . . . . . . . . . . . . . . . . . . sopraprezzo L. 5; oltre L. 50 fino a L. 200: . . . . . . . . . . . . sopraprezzo L. 10; oltre L. 200:. . . . . . . . . . . . . . . . . . . sopraprezzo L. 20.

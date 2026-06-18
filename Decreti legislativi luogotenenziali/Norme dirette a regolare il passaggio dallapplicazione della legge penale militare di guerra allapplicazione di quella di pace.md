@@ -40,12 +40,12 @@ CAPO II
 
 ### Art. 2. — (Abuso di preda bellica)
 
-Fino ad un anno dopo la cessazione dello stato di guerra rimangono in vigore le disposizioni degli [articoli 227](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [228](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [229 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di guerra.
+Fino ad un anno dopo la cessazione dello stato di guerra rimangono in vigore le disposizioni degli [articoli 227](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [228](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [229 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di guerra.
 
 ### Art. 3. — (Alienazione e ritenzione di effetti militari)
 
-La pena per il reato di distruzione o di alienazione di effetti di vestiario o di equipaggiamento militare, previsto dall'[art. 165 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace, e' della reclusione militare fino a due anni.
- Alla stessa pena soggiace chi si rende colpevole del reato di acquisto o di ritenzione di effetti di vestiario o di equipaggiamento militare o di altre cose destinate a uso militare, previsto dall'[art. 166 dei Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace.
+La pena per il reato di distruzione o di alienazione di effetti di vestiario o di equipaggiamento militare, previsto dall'[art. 165 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace, e' della reclusione militare fino a due anni.
+ Alla stessa pena soggiace chi si rende colpevole del reato di acquisto o di ritenzione di effetti di vestiario o di equipaggiamento militare o di altre cose destinate a uso militare, previsto dall'[art. 166 dei Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace.
  Le norme del presente articolo si applicano fino a nuova disposizione. ((3))
 
 ---------------
@@ -79,7 +79,7 @@ I tribunali militari territoriali di pace sono competenti a conoscere dei reati 
 
 ### Art. 7. — (Procedimenti per reati di assenza dal servizio)
 
-I procedimenti, che alla data di cessazione dello stato di guerra risultano sospesi a norma dell'[art. 243 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di guerra, possono rimanere sospesi fino ad un anno dopo la suddetta data, anche se si sia verificata la circostanza preveduta dal terzo comma del predetto articolo.
+I procedimenti, che alla data di cessazione dello stato di guerra risultano sospesi a norma dell'[art. 243 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di guerra, possono rimanere sospesi fino ad un anno dopo la suddetta data, anche se si sia verificata la circostanza preveduta dal terzo comma del predetto articolo.
  Tuttavia la sospensione puo' essere revocata a richiesta dell'imputato.
 
 ### Art. 8. — (Mandati ed ordini di cattura - Liberta' provvisoria)
@@ -89,7 +89,7 @@ Nei procedimenti per reati commessi durante lo stato di guerra e punibili ai ter
 
 ### Art. 9. — (Istruzione sommaria)
 
-Per tutti i procedimenti per reati commessi durante lo stato di guerra e punibili ai termini della legge penale militare di guerra, continua ad avere vigore il disposto dell'[art. 278, primo comma, del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di guerra.
+Per tutti i procedimenti per reati commessi durante lo stato di guerra e punibili ai termini della legge penale militare di guerra, continua ad avere vigore il disposto dell'[art. 278, primo comma, del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di guerra.
 
 ## NORME DI ORDINAMENTO.
 

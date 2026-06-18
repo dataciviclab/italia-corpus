@@ -20,7 +20,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-I comuni di Fai e di Nave San Rocco, aggregati a quello di Zambana con il [regio decreto 9 aprile 1928, n. 909](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Fai%20Zambana%20e%20Nave%20San%20Rocco%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20%20Zambana%20.%20028U0909.md), sono ricostituiti con la circoscrizione preesistente all'entrata in vigore del decreto medesimo.
+I comuni di Fai e di Nave San Rocco, aggregati a quello di Zambana con il [regio decreto 9 aprile 1928, n. 909](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Fai%20Zambana%20e%20Nave%20San%20Rocco%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20%20Zambana%20.%20028U0909.md), sono ricostituiti con la circoscrizione preesistente all'entrata in vigore del decreto medesimo.
  Il Prefetto di Trento, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i Comuni suddetti.
 
 ## Art. 2.
